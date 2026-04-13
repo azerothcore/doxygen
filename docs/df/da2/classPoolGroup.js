@@ -7,6 +7,8 @@ var classPoolGroup =
     [ "CheckPool", "df/da2/classPoolGroup.html#abaa11e02fc751f2d130bf6413db7a6e3", null ],
     [ "Despawn1Object", "df/da2/classPoolGroup.html#a4698cf918248ba9e1e1eb65ab579cfd0", null ],
     [ "DespawnObject", "df/da2/classPoolGroup.html#a235cd9ecd41ebd961b5b91ffc6b5e8cd", null ],
+    [ "GetEqualChanced", "df/da2/classPoolGroup.html#a9973081d9b130bce8a7f6c13d6a6f071", null ],
+    [ "GetExplicitlyChanced", "df/da2/classPoolGroup.html#abe172bf455f39d571ea5a92537b1257c", null ],
     [ "GetFirstEqualChancedObjectId", "df/da2/classPoolGroup.html#a20e8e8f1db5333436f339ee5805900f2", null ],
     [ "GetPoolId", "df/da2/classPoolGroup.html#a9b048b966aeb0b86e5e16f97fe720cf5", null ],
     [ "IsEmpty", "df/da2/classPoolGroup.html#a6bc374614124ed84cb80e1ac980c30fe", null ],

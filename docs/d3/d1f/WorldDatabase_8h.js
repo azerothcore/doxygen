@@ -90,6 +90,7 @@ var WorldDatabase_8h =
       [ "WORLD_SEL_REQ_XP", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a4a1aa08675589bbe24eec3a349a6d0f0", null ],
       [ "WORLD_INS_GAMEOBJECT_ADDON", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ae4477972ea439fcf4d07ca5e2edee113", null ],
       [ "WORLD_UPD_VERSION", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a403c809e928615ea146d13f34139ba5b", null ],
+      [ "WORLD_DEL_SPAWNGROUP_MEMBER", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a10e78db672cf81d7d31eeb493b63eb56", null ],
       [ "MAX_WORLDDATABASE_STATEMENTS", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a25d26e54be2da5b12f47064961479460", null ]
     ] ]
 ];

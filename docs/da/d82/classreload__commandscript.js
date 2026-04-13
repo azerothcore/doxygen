@@ -95,6 +95,7 @@ var classreload__commandscript =
     [ "HandleReloadSkillFishingBaseLevelCommand", "da/d82/classreload__commandscript.html#a0419dd67a787b989d7353a1682965de4", null ],
     [ "HandleReloadSkillPerfectItemTemplateCommand", "da/d82/classreload__commandscript.html#a6c989293c894dcafce75e09bffee5932", null ],
     [ "HandleReloadSmartScripts", "da/d82/classreload__commandscript.html#a22ae11e711607f4acc1773cfd9d00e36", null ],
+    [ "HandleReloadSpawnGroupCommand", "da/d82/classreload__commandscript.html#a15858218fa8a65f464a5a9b4d75b7ea6", null ],
     [ "HandleReloadSpellAreaCommand", "da/d82/classreload__commandscript.html#a2d25c38339213f9bf0099a41d553ee12", null ],
     [ "HandleReloadSpellBonusesCommand", "da/d82/classreload__commandscript.html#a5e5a84123b47479f294baabed9bb7cbb", null ],
     [ "HandleReloadSpellClickSpellsCommand", "da/d82/classreload__commandscript.html#a69ddcfec1a61975ccfb202eb401714fc", null ],

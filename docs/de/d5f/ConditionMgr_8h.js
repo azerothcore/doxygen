@@ -10,6 +10,7 @@ var ConditionMgr_8h =
     [ "ConditionTypeContainer", "de/d5f/ConditionMgr_8h.html#aedfef73cf0a88e6988a11fe7bb7fc304", null ],
     [ "CreatureSpellConditionContainer", "de/d5f/ConditionMgr_8h.html#a317eb8f1d57e5785c50fa5daae5e4ae0", null ],
     [ "NpcVendorConditionContainer", "de/d5f/ConditionMgr_8h.html#a203c8d1beea6adbb85a8d09146f78093", null ],
+    [ "ObjectVisibilityConditionContainer", "de/d5f/ConditionMgr_8h.html#a334c2cad24259cfc763a4f31c44dadb6", null ],
     [ "SmartEventConditionContainer", "de/d5f/ConditionMgr_8h.html#abdfa94c93c90adfe4347841af180cbec", null ],
     [ "ConditionSourceType", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7f", [
       [ "CONDITION_SOURCE_TYPE_NONE", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff449b5123285287f62d0c80459a9f53", null ],
@@ -42,7 +43,7 @@ var ConditionMgr_8h =
       [ "CONDITION_SOURCE_TYPE_GRAVEYARD", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fad7fd8228a27e43e397b582900da23be5", null ],
       [ "CONDITION_SOURCE_TYPE_PLAYER_LOOT_TEMPLATE", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faed815ad33055c47851099c82c07932f1", null ],
       [ "CONDITION_SOURCE_TYPE_CREATURE_RESPAWN", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae05bf66f17b0ae12099dd06fd8fe663b", null ],
-      [ "CONDITION_SOURCE_TYPE_CREATURE_VISIBILITY", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa03112fd4a7d26eee1c19d0bed88a1252", null ],
+      [ "CONDITION_SOURCE_TYPE_OBJECT_VISIBILITY", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faa7119417fa9db7038a380eaa39cc1871", null ],
       [ "CONDITION_SOURCE_TYPE_MAX", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa09928ae648990e92c2e2c4636dcf20cf", null ]
     ] ],
     [ "ConditionTypes", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0", [

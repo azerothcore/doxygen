@@ -294,6 +294,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a8fee035f2cd3ed05f46f6ab042cd50 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI" id="r_a18697bb982e25e72f50eac5aa56c7d33"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33">CanRespawn</a> ()</td></tr>
 <tr class="separator:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI" id="r_a5dc33b6a9106d1661b9d816558c48e62"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5dc33b6a9106d1661b9d816558c48e62">IsEscortNPC</a> (bool=true) const</td></tr>
+<tr class="separator:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a671db1b39c12b3171b47bc01e958f3ad inherit pub_methods_classCreatureAI" id="r_a671db1b39c12b3171b47bc01e958f3ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a671db1b39c12b3171b47bc01e958f3ad">JustEnteredCombat</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *who) override</td></tr>
 <tr class="memdesc:a671db1b39c12b3171b47bc01e958f3ad inherit pub_methods_classCreatureAI"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the unit enters combat.  <br /></td></tr>
 <tr class="separator:a671db1b39c12b3171b47bc01e958f3ad inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -630,12 +632,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1455</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno"> 1456</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:235</div></div>
-<div class="ttc" id="aclassCreature_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition</b> Creature.h:347</div></div>
-<div class="ttc" id="aclassUnit_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition</b> Unit.cpp:11112</div></div>
-<div class="ttc" id="aclassUnit_html_a84ec84cb45d5d4bc29fe28c24c4f7624"><div class="ttname"><a href="../../df/dd9/classUnit.html#a84ec84cb45d5d4bc29fe28c24c4f7624">Unit::UpdatePosition</a></div><div class="ttdeci">virtual bool UpdatePosition(float x, float y, float z, float ang, bool teleport=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16010</div></div>
+<div class="ttc" id="aclassCreature_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition</b> Creature.h:349</div></div>
+<div class="ttc" id="aclassUnit_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition</b> Unit.cpp:11113</div></div>
+<div class="ttc" id="aclassUnit_html_a84ec84cb45d5d4bc29fe28c24c4f7624"><div class="ttname"><a href="../../df/dd9/classUnit.html#a84ec84cb45d5d4bc29fe28c24c4f7624">Unit::UpdatePosition</a></div><div class="ttdeci">virtual bool UpdatePosition(float x, float y, float z, float ang, bool teleport=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16011</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:281</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00347">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l11112">Unit::SetVisible()</a>, and <a class="el" href="../../#l16010">Unit::UpdatePosition()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00235">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00349">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l11113">Unit::SetVisible()</a>, and <a class="el" href="../../#l16011">Unit::UpdatePosition()</a>.</p>
 
 </div>
 </div>
@@ -807,7 +809,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d07/structnpc__hor__spiritual__reflection.html">npc_hor_spiritual_reflection</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:09:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:57:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

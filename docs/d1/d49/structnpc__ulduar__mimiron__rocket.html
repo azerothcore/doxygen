@@ -184,6 +184,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a8fee035f2cd3ed05f46f6ab042cd50 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI" id="r_a18697bb982e25e72f50eac5aa56c7d33"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33">CanRespawn</a> ()</td></tr>
 <tr class="separator:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI" id="r_a5dc33b6a9106d1661b9d816558c48e62"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5dc33b6a9106d1661b9d816558c48e62">IsEscortNPC</a> (bool=true) const</td></tr>
+<tr class="separator:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI" id="r_a15f691c9137273cd5c3d5ba6f0762300"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">JustEngagedWith</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="memdesc:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat.  <br /></td></tr>
 <tr class="separator:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -554,11 +556,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1800</span>    }</div>
 <div class="ttc" id="aUnitDefines_8h_html_a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da8a3d672d9f1139c8c0b1a21f9b71ed7a">MOVEMENTFLAG_FLYING</a></div><div class="ttdeci">@ MOVEMENTFLAG_FLYING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:397</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544ab272e3fe4edd5b0f25024c9da85e83a2"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab272e3fe4edd5b0f25024c9da85e83a2">UNIT_STATE_NO_ENVIRONMENT_UPD</a></div><div class="ttdeci">@ UNIT_STATE_NO_ENVIRONMENT_UPD</div><div class="ttdef"><b>Definition</b> UnitDefines.h:201</div></div>
-<div class="ttc" id="aclassUnit_html_a70430c45bdb96d66a3dcbadf5a18d527"><div class="ttname"><a href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">Unit::SetCanFly</a></div><div class="ttdeci">void SetCanFly(bool enable)</div><div class="ttdoc">Add the movement flag: MOVEMENTFLAGCAN_FLY. Generaly only use by players, allowing them to fly by pre...</div><div class="ttdef"><b>Definition</b> Unit.cpp:16565</div></div>
+<div class="ttc" id="aclassUnit_html_a70430c45bdb96d66a3dcbadf5a18d527"><div class="ttname"><a href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">Unit::SetCanFly</a></div><div class="ttdeci">void SetCanFly(bool enable)</div><div class="ttdoc">Add the movement flag: MOVEMENTFLAGCAN_FLY. Generaly only use by players, allowing them to fly by pre...</div><div class="ttdef"><b>Definition</b> Unit.cpp:16566</div></div>
 <div class="ttc" id="aclassUnit_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../df/dd9/classUnit.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:735</div></div>
 <div class="ttc" id="aclassUnit_html_a8d2a3d05cd1a2d041a021ef5ce0a560c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d2a3d05cd1a2d041a021ef5ce0a560c">Unit::AddUnitMovementFlag</a></div><div class="ttdeci">void AddUnitMovementFlag(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:772</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00772">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00735">Unit::AddUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00397">MOVEMENTFLAG_FLYING</a>, <a class="el" href="../../#l16565">Unit::SetCanFly()</a>, and <a class="el" href="../../#l00201">UNIT_STATE_NO_ENVIRONMENT_UPD</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00772">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00735">Unit::AddUnitState()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00397">MOVEMENTFLAG_FLYING</a>, <a class="el" href="../../#l16566">Unit::SetCanFly()</a>, and <a class="el" href="../../#l00201">UNIT_STATE_NO_ENVIRONMENT_UPD</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01789">InitializeAI()</a>.</p>
 
@@ -651,9 +653,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUnitDefines_8h_html_af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a></div><div class="ttdeci">@ MOVE_RUN</div><div class="ttdef"><b>Definition</b> UnitDefines.h:357</div></div>
 <div class="ttc" id="aclassUnit_html_a0839378167049038c2857252d3b14738"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0839378167049038c2857252d3b14738">Unit::GetVehicle</a></div><div class="ttdeci">Vehicle * GetVehicle() const</div><div class="ttdef"><b>Definition</b> Unit.h:1927</div></div>
 <div class="ttc" id="aclassUnit_html_aab66f0084b10c4a2a45f064567cf1118"><div class="ttname"><a href="../../df/dd9/classUnit.html#aab66f0084b10c4a2a45f064567cf1118">Unit::GetSpeedRate</a></div><div class="ttdeci">float GetSpeedRate(UnitMoveType mtype) const</div><div class="ttdef"><b>Definition</b> Unit.h:1742</div></div>
-<div class="ttc" id="aclassUnit_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:11310</div></div>
+<div class="ttc" id="aclassUnit_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:11311</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01742">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l01927">Unit::GetVehicle()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00362">MOVE_FLIGHT</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, and <a class="el" href="../../#l11310">Unit::SetSpeed()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01742">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l01927">Unit::GetVehicle()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00362">MOVE_FLIGHT</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, and <a class="el" href="../../#l11311">Unit::SetSpeed()</a>.</p>
 
 </div>
 </div>
@@ -666,7 +668,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d49/structnpc__ulduar__mimiron__rocket.html">npc_ulduar_mimiron_rocket</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:09:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:57:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

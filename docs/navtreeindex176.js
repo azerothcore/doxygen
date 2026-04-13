@@ -1,5 +1,15 @@
 var NAVTREEINDEX176 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,8,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ac964d297dafb8b20155d46e633771d":[7,0,0,0,1,3,2,1,1,8,2,7],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a2530481456b71f0499b7d6ca8832a0":[7,0,0,0,1,3,2,1,1,8,2,1],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa7072d87ff9a03f9584e4f489880a272":[7,0,0,0,1,3,2,1,1,8,2,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac37be0fe31927a91e2a89d0ace445d39":[7,0,0,0,1,3,2,1,1,8,2,8],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb479b353fa088bba14a35c37aba7de1":[7,0,0,0,1,3,2,1,1,8,2,0],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8058a1f18fd6afa598c118a12fe3f5b":[7,0,0,0,1,3,2,1,1,8,2,5],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec483c5dc4dd347726124f4364c7fffd":[7,0,0,0,1,3,2,1,1,8,2,6],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af100daf144a67fd9bd07604a8e75d395":[7,0,0,0,1,3,2,1,1,8,2,9],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af157e05094349065a07b2a4d620511cc":[7,0,0,0,1,3,2,1,1,8,2,3],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff9ec4d21319a9a6d64c4ccac6bda35f":[7,0,0,0,1,3,2,1,1,8,2,4],
 "d6/d5f/structnpc__ashtongue__channeler.html":[6,0,1645],
 "d6/d5f/structnpc__ashtongue__channeler.html#a4f58bbd2c44f7a3f9835fd55408ffaf4":[6,0,1645,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d6d/structDoorInfo.html#a14f7742a1b272d0cd76dda6ce28cde26":[6,0,1010,1],
 "d6/d6d/structDoorInfo.html#a26f4849a1d68df466e6db0ccbb8d001b":[6,0,1010,0],
 "d6/d6d/structDoorInfo.html#ad77a91752ea10a11c8e73655e63dd5c1":[6,0,1010,2],
-"d6/d6e/EnumFlag_8h.html":[7,0,0,0,0,15,7],
-"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[7,0,0,0,0,15,7,5],
-"d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[7,0,0,0,0,15,7,4],
-"d6/d6e/EnumFlag_8h.html#a7294b75cb336d554d5ce2b75b05c37d6":[7,0,0,0,0,15,7,2],
-"d6/d6e/EnumFlag_8h.html#a7808a2b72bed2b70553d802ed11e27c4":[7,0,0,0,0,15,7,7],
-"d6/d6e/EnumFlag_8h.html#a9f556f9c539f21ae6fd639abe4c39c75":[7,0,0,0,0,15,7,1],
-"d6/d6e/EnumFlag_8h.html#abe3f4d2eafbceebe9ec46ffcd15cfa76":[7,0,0,0,0,15,7,8],
-"d6/d6e/EnumFlag_8h.html#ac8aaa198de31cb5a3b217d0968f30a3b":[7,0,0,0,0,15,7,6],
-"d6/d6e/EnumFlag_8h.html#ae0992e010612850442fc56bcf2d44b47":[7,0,0,0,0,15,7,3],
-"d6/d6e/classDatabaseScript.html":[6,0,974],
-"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[6,0,974,2]
+"d6/d6e/EnumFlag_8h.html":[7,0,0,0,0,15,7]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX183 =
 {
+"d6/db2/Hyperlinks_8h.html":[7,0,0,0,1,2,11,5],
+"d6/db2/Hyperlinks_8h.html#a02761d9aa335689ff1b8dc1155b2a3c6":[7,0,0,0,1,2,11,5,18],
+"d6/db2/Hyperlinks_8h.html#a0803de4bbc9edad4f5bb2afc3c242dca":[7,0,0,0,1,2,11,5,20],
+"d6/db2/Hyperlinks_8h.html#a2c5596879f4531eeedbe15d1e4987918":[7,0,0,0,1,2,11,5,32],
+"d6/db2/Hyperlinks_8h.html#a321da5d63921d41c561a1460929ac730":[7,0,0,0,1,2,11,5,22],
+"d6/db2/Hyperlinks_8h.html#a32cfa3bc188d1b731f3e9e5dcc2de664":[7,0,0,0,1,2,11,5,29],
+"d6/db2/Hyperlinks_8h.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a":[7,0,0,0,1,2,11,5,19],
+"d6/db2/Hyperlinks_8h.html#a7083d48423b83ff39095030678b29877":[7,0,0,0,1,2,11,5,24],
+"d6/db2/Hyperlinks_8h.html#a73cc3b14b22adefd27d34c736cafa480":[7,0,0,0,1,2,11,5,17],
+"d6/db2/Hyperlinks_8h.html#a9990339040b491e108594df755f03a6c":[7,0,0,0,1,2,11,5,27],
 "d6/db2/Hyperlinks_8h.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[7,0,0,0,1,2,11,5,28],
 "d6/db2/Hyperlinks_8h.html#aa0ca4a111a856da9091a377934f8de93":[7,0,0,0,1,2,11,5,26],
 "d6/db2/Hyperlinks_8h.html#aa8156f2996632fd42a2e39b974426995":[7,0,0,0,1,2,11,5,21],
@@ -75,8 +85,8 @@ var NAVTREEINDEX183 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dbf/classspell__malygos__surge__of__power__25.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e":[6,0,3609,3],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html":[6,0,3860],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[6,0,3860,0],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[6,0,3860,3],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[6,0,3860,2],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[6,0,3860,1],
-"d6/dbf/structInstancePlayerBind.html":[6,0,1386],
-"d6/dbf/structInstancePlayerBind.html#a24ef1e0e0a38033a16b697c32e3d8234":[6,0,1386,3],
-"d6/dbf/structInstancePlayerBind.html#a9327f62b74eea3a1a525b2fec6d90b69":[6,0,1386,1],
-"d6/dbf/structInstancePlayerBind.html#ab35249eb791941b484ecc321b1102b24":[6,0,1386,2],
-"d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[6,0,1386,0],
-"d6/dc0/structCreatureSpellCooldown.html":[6,0,954],
-"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,954,2],
-"d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,954,1]
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[6,0,3860,3]
 };

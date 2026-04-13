@@ -238,15 +238,15 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  634</span>{</div>
-<div class="line"><span class="lineno">  635</span>    std::ostringstream strm;</div>
-<div class="line"><span class="lineno">  636</span>    strm.width(16);</div>
-<div class="line"><span class="lineno">  637</span>    strm &lt;&lt; std::right &lt;&lt; std::hex &lt;&lt; guid.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>();</div>
-<div class="line"><span class="lineno">  638</span>    strm &lt;&lt; std::dec &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a>;</div>
-<div class="line"><span class="lineno">  639</span>    strm &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; cut;</div>
-<div class="line"><span class="lineno">  640</span>    strm &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; moneyDelay &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; eta;</div>
-<div class="line"><span class="lineno">  641</span>    <span class="keywordflow">return</span> strm.str();</div>
-<div class="line"><span class="lineno">  642</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  647</span>{</div>
+<div class="line"><span class="lineno">  648</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  649</span>    strm.width(16);</div>
+<div class="line"><span class="lineno">  650</span>    strm &lt;&lt; std::right &lt;&lt; std::hex &lt;&lt; guid.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a65626f4640cb4f79c66ce9d5dda8ab27">GetRawValue</a>();</div>
+<div class="line"><span class="lineno">  651</span>    strm &lt;&lt; std::dec &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a>;</div>
+<div class="line"><span class="lineno">  652</span>    strm &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; cut;</div>
+<div class="line"><span class="lineno">  653</span>    strm &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; moneyDelay &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; eta;</div>
+<div class="line"><span class="lineno">  654</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  655</span>}</div>
 <div class="ttc" id="aclassObjectGuid_html_a65626f4640cb4f79c66ce9d5dda8ab27"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a65626f4640cb4f79c66ce9d5dda8ab27">ObjectGuid::GetRawValue</a></div><div class="ttdeci">uint64 GetRawValue() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:142</div></div>
 <div class="ttc" id="astructAuctionEntry_html_a11521c90c74d1eba7d7d3ef55e960a93"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">AuctionEntry::bid</a></div><div class="ttdeci">uint32 bid</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:105</div></div>
 <div class="ttc" id="astructAuctionEntry_html_aa75d261f77460c16f98f211b481a9af0"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">AuctionEntry::buyout</a></div><div class="ttdeci">uint32 buyout</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:106</div></div>
@@ -254,7 +254,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00105">bid</a>, <a class="el" href="../../#l00106">buyout</a>, <a class="el" href="../../#l00109">deposit</a>, and <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -273,18 +273,18 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  627</span>{</div>
-<div class="line"><span class="lineno">  628</span>    std::ostringstream strm;</div>
-<div class="line"><span class="lineno">  629</span>    strm &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#ac8935b680716aa5c0d50d750fb934bab">item_template</a> &lt;&lt; <span class="stringliteral">&quot;:0:&quot;</span> &lt;&lt; response &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd">itemCount</a>;</div>
-<div class="line"><span class="lineno">  630</span>    <span class="keywordflow">return</span> strm.str();</div>
-<div class="line"><span class="lineno">  631</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  640</span>{</div>
+<div class="line"><span class="lineno">  641</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  642</span>    strm &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#ac8935b680716aa5c0d50d750fb934bab">item_template</a> &lt;&lt; <span class="stringliteral">&quot;:0:&quot;</span> &lt;&lt; response &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a> &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd">itemCount</a>;</div>
+<div class="line"><span class="lineno">  643</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  644</span>}</div>
 <div class="ttc" id="astructAuctionEntry_html_aa65a8b6b8be81f705378e2f510196c48"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">AuctionEntry::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:98</div></div>
 <div class="ttc" id="astructAuctionEntry_html_aa67975f37a4ef343422a471ef65a98fd"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd">AuctionEntry::itemCount</a></div><div class="ttdeci">uint32 itemCount</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:102</div></div>
 <div class="ttc" id="astructAuctionEntry_html_ac8935b680716aa5c0d50d750fb934bab"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#ac8935b680716aa5c0d50d750fb934bab">AuctionEntry::item_template</a></div><div class="ttdeci">uint32 item_template</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:101</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00098">Id</a>, <a class="el" href="../../#l00101">item_template</a>, and <a class="el" href="../../#l00102">itemCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -313,16 +313,16 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>the sum of outbid is (1% from current bid)*5, if bid is very small, it is 1c </p>
-<div class="fragment"><div class="line"><span class="lineno">  566</span>{</div>
-<div class="line"><span class="lineno">  567</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> outbid = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>, 5);</div>
-<div class="line"><span class="lineno">  568</span>    <span class="keywordflow">return</span> outbid ? outbid : 1;</div>
-<div class="line"><span class="lineno">  569</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  579</span>{</div>
+<div class="line"><span class="lineno">  580</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> outbid = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>, 5);</div>
+<div class="line"><span class="lineno">  581</span>    <span class="keywordflow">return</span> outbid ? outbid : 1;</div>
+<div class="line"><span class="lineno">  582</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:52</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00105">bid</a>, and <a class="el" href="../../#l00052">CalculatePct()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00434">SearchableAuctionEntry::BuildAuctionInfo()</a>, <a class="el" href="../../#l00559">GetAuctionOutBid()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, and <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00434">SearchableAuctionEntry::BuildAuctionInfo()</a>, <a class="el" href="../../#l00572">GetAuctionOutBid()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, and <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>.</p>
 
 </div>
 </div>
@@ -341,11 +341,11 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  572</span>{</div>
-<div class="line"><span class="lineno">  573</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a39fc742a42c64a97b256c8259119f81b">CHAR_DEL_AUCTION</a>);</div>
-<div class="line"><span class="lineno">  574</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>);</div>
-<div class="line"><span class="lineno">  575</span>    trans-&gt;Append(stmt);</div>
-<div class="line"><span class="lineno">  576</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  585</span>{</div>
+<div class="line"><span class="lineno">  586</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a39fc742a42c64a97b256c8259119f81b">CHAR_DEL_AUCTION</a>);</div>
+<div class="line"><span class="lineno">  587</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>);</div>
+<div class="line"><span class="lineno">  588</span>    trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  589</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a39fc742a42c64a97b256c8259119f81b"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a39fc742a42c64a97b256c8259119f81b">CHAR_DEL_AUCTION</a></div><div class="ttdeci">@ CHAR_DEL_AUCTION</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:106</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aclassPreparedStatementBase_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition</b> PreparedStatement.h:77</div></div>
@@ -353,7 +353,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00106">CHAR_DEL_AUCTION</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00098">Id</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00363">AuctionHouseMgr::LoadAuctions()</a>, and <a class="el" href="../../#l00503">AuctionHouseObject::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00376">AuctionHouseMgr::LoadAuctions()</a>, and <a class="el" href="../../#l00516">AuctionHouseObject::Update()</a>.</p>
 
 </div>
 </div>
@@ -371,19 +371,19 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  554</span>{</div>
-<div class="line"><span class="lineno">  555</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> cut = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a>-&gt;<a class="code hl_variable" href="../../de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80">cutPercent</a>) * <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getRate(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24">RATE_AUCTION_CUT</a>));</div>
-<div class="line"><span class="lineno">  556</span>    <span class="keywordflow">return</span> std::max(cut, 0);</div>
-<div class="line"><span class="lineno">  557</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  567</span>{</div>
+<div class="line"><span class="lineno">  568</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> cut = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a>-&gt;<a class="code hl_variable" href="../../de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80">cutPercent</a>) * <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getRate(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24">RATE_AUCTION_CUT</a>));</div>
+<div class="line"><span class="lineno">  569</span>    <span class="keywordflow">return</span> std::max(cut, 0);</div>
+<div class="line"><span class="lineno">  570</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
-<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24">RATE_AUCTION_CUT</a></div><div class="ttdeci">@ RATE_AUCTION_CUT</div><div class="ttdef"><b>Definition</b> WorldConfig.h:476</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24">RATE_AUCTION_CUT</a></div><div class="ttdeci">@ RATE_AUCTION_CUT</div><div class="ttdef"><b>Definition</b> WorldConfig.h:478</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:316</div></div>
 <div class="ttc" id="astructAuctionEntry_html_a46668a8214d200bf508a157aa256e9ec"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">AuctionEntry::auctionHouseEntry</a></div><div class="ttdeci">AuctionHouseEntry const  * auctionHouseEntry</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:110</div></div>
 <div class="ttc" id="astructAuctionHouseEntry_html_a8581a6a5198dab10680f477a477a7c80"><div class="ttname"><a href="../../de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80">AuctionHouseEntry::cutPercent</a></div><div class="ttdeci">uint32 cutPercent</div><div class="ttdef"><b>Definition</b> DBCStructure.h:578</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">auctionHouseEntry</a>, <a class="el" href="../../#l00105">bid</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00578">AuctionHouseEntry::cutPercent</a>, <a class="el" href="../../#l00476">RATE_AUCTION_CUT</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00110">auctionHouseEntry</a>, <a class="el" href="../../#l00105">bid</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00578">AuctionHouseEntry::cutPercent</a>, <a class="el" href="../../#l00478">RATE_AUCTION_CUT</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, and <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, and <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
 
 </div>
 </div>
@@ -401,12 +401,12 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  560</span>{</div>
-<div class="line"><span class="lineno">  561</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/d83/structAuctionEntry.html#aa6854cd3ccd30bafdac8e13f05f97c1d">CalculateAuctionOutBid</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>);</div>
-<div class="line"><span class="lineno">  562</span>}</div>
-<div class="ttc" id="astructAuctionEntry_html_aa6854cd3ccd30bafdac8e13f05f97c1d"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa6854cd3ccd30bafdac8e13f05f97c1d">AuctionEntry::CalculateAuctionOutBid</a></div><div class="ttdeci">static uint32 CalculateAuctionOutBid(uint32 bid)</div><div class="ttdoc">the sum of outbid is (1% from current bid)*5, if bid is very small, it is 1c</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:565</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  573</span>{</div>
+<div class="line"><span class="lineno">  574</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/d83/structAuctionEntry.html#aa6854cd3ccd30bafdac8e13f05f97c1d">CalculateAuctionOutBid</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>);</div>
+<div class="line"><span class="lineno">  575</span>}</div>
+<div class="ttc" id="astructAuctionEntry_html_aa6854cd3ccd30bafdac8e13f05f97c1d"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa6854cd3ccd30bafdac8e13f05f97c1d">AuctionEntry::CalculateAuctionOutBid</a></div><div class="ttdeci">static uint32 CalculateAuctionOutBid(uint32 bid)</div><div class="ttdoc">the sum of outbid is (1% from current bid)*5, if bid is very small, it is 1c</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:578</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00105">bid</a>, and <a class="el" href="../../#l00565">CalculateAuctionOutBid()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00105">bid</a>, and <a class="el" href="../../#l00578">CalculateAuctionOutBid()</a>.</p>
 
 </div>
 </div>
@@ -424,13 +424,13 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  549</span>{</div>
-<div class="line"><span class="lineno">  550</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/dbe/classAuctionHouseMgr.html#a35d326eba2fca31560be4766aad8094e">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
-<div class="line"><span class="lineno">  551</span>}</div>
-<div class="ttc" id="aclassAuctionHouseMgr_html_a35d326eba2fca31560be4766aad8094e"><div class="ttname"><a href="../../d8/dbe/classAuctionHouseMgr.html#a35d326eba2fca31560be4766aad8094e">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId</a></div><div class="ttdeci">static AuctionHouseFaction GetAuctionHouseFactionFromHouseId(AuctionHouseId ahHouseId)</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:443</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  562</span>{</div>
+<div class="line"><span class="lineno">  563</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d8/dbe/classAuctionHouseMgr.html#a35d326eba2fca31560be4766aad8094e">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
+<div class="line"><span class="lineno">  564</span>}</div>
+<div class="ttc" id="aclassAuctionHouseMgr_html_a35d326eba2fca31560be4766aad8094e"><div class="ttname"><a href="../../d8/dbe/classAuctionHouseMgr.html#a35d326eba2fca31560be4766aad8094e">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId</a></div><div class="ttdeci">static AuctionHouseFaction GetAuctionHouseFactionFromHouseId(AuctionHouseId ahHouseId)</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:456</div></div>
 <div class="ttc" id="astructAuctionEntry_html_a014be11a4e161eea637098a4e9243b6f"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">AuctionEntry::houseId</a></div><div class="ttdeci">AuctionHouseId houseId</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:99</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00443">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId()</a>, and <a class="el" href="../../#l00099">houseId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00456">AuctionHouseMgr::GetAuctionHouseFactionFromHouseId()</a>, and <a class="el" href="../../#l00099">houseId</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00410">AuctionHouseSearcher::RemoveAuction()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
 
@@ -462,7 +462,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00099">houseId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -481,40 +481,40 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  595</span>{</div>
-<div class="line"><span class="lineno">  596</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a> = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  597</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a> = <a class="code hl_enumeration" href="../../d0/d38/AuctionHouseMgr_8h.html#a6e313ffb5943e7c756e65c142ad1a28d">AuctionHouseId</a>(fields[1].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  598</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a> = ObjectGuid::Create&lt;HighGuid::Item&gt;(fields[2].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  599</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#ac8935b680716aa5c0d50d750fb934bab">item_template</a> = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  600</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd">itemCount</a> = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  601</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d">owner</a> = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[5].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  602</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a> = fields[6].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  603</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a> = fields[7].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  604</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a> = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[8].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  605</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a> = fields[9].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  606</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9">startbid</a> = fields[10].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  607</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a> = fields[11].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  608</span> </div>
-<div class="line"><span class="lineno">  609</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a> = <a class="code hl_function" href="../../d8/dbe/classAuctionHouseMgr.html#ae61879cbfd46c3eb84b72bd6059240c1">AuctionHouseMgr::GetAuctionHouseEntryFromHouse</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
-<div class="line"><span class="lineno">  610</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a>)</div>
-<div class="line"><span class="lineno">  611</span>    {</div>
-<div class="line"><span class="lineno">  612</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;auctionHouse&quot;</span>, <span class="stringliteral">&quot;Auction {} has invalid house id {}&quot;</span>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
-<div class="line"><span class="lineno">  613</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  614</span>    }</div>
-<div class="line"><span class="lineno">  615</span> </div>
-<div class="line"><span class="lineno">  616</span>    <span class="comment">// check if sold item exists for guid</span></div>
-<div class="line"><span class="lineno">  617</span>    <span class="comment">// and item_template in fact (GetAItem will fail if problematic in result check in AuctionHouseMgr::LoadAuctionItems)</span></div>
-<div class="line"><span class="lineno">  618</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/d38/AuctionHouseMgr_8h.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;GetAItem(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>))</div>
-<div class="line"><span class="lineno">  619</span>    {</div>
-<div class="line"><span class="lineno">  620</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;auctionHouse&quot;</span>, <span class="stringliteral">&quot;Auction {} has not a existing item : {}&quot;</span>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  621</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  622</span>    }</div>
-<div class="line"><span class="lineno">  623</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  624</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  608</span>{</div>
+<div class="line"><span class="lineno">  609</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a> = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  610</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a> = <a class="code hl_enumeration" href="../../d0/d38/AuctionHouseMgr_8h.html#a6e313ffb5943e7c756e65c142ad1a28d">AuctionHouseId</a>(fields[1].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  611</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a> = ObjectGuid::Create&lt;HighGuid::Item&gt;(fields[2].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  612</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#ac8935b680716aa5c0d50d750fb934bab">item_template</a> = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  613</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd">itemCount</a> = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  614</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d">owner</a> = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[5].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  615</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a> = fields[6].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  616</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a> = fields[7].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  617</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a> = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[8].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  618</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a> = fields[9].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  619</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9">startbid</a> = fields[10].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  620</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a> = fields[11].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  621</span> </div>
+<div class="line"><span class="lineno">  622</span>    <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a> = <a class="code hl_function" href="../../d8/dbe/classAuctionHouseMgr.html#ae61879cbfd46c3eb84b72bd6059240c1">AuctionHouseMgr::GetAuctionHouseEntryFromHouse</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
+<div class="line"><span class="lineno">  623</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a>)</div>
+<div class="line"><span class="lineno">  624</span>    {</div>
+<div class="line"><span class="lineno">  625</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;auctionHouse&quot;</span>, <span class="stringliteral">&quot;Auction {} has invalid house id {}&quot;</span>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
+<div class="line"><span class="lineno">  626</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  627</span>    }</div>
+<div class="line"><span class="lineno">  628</span> </div>
+<div class="line"><span class="lineno">  629</span>    <span class="comment">// check if sold item exists for guid</span></div>
+<div class="line"><span class="lineno">  630</span>    <span class="comment">// and item_template in fact (GetAItem will fail if problematic in result check in AuctionHouseMgr::LoadAuctionItems)</span></div>
+<div class="line"><span class="lineno">  631</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/d38/AuctionHouseMgr_8h.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a>-&gt;GetAItem(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>))</div>
+<div class="line"><span class="lineno">  632</span>    {</div>
+<div class="line"><span class="lineno">  633</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;auctionHouse&quot;</span>, <span class="stringliteral">&quot;Auction {} has not a existing item : {}&quot;</span>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  634</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  635</span>    }</div>
+<div class="line"><span class="lineno">  636</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  637</span>}</div>
 <div class="ttc" id="aAuctionHouseMgr_8h_html_a6e313ffb5943e7c756e65c142ad1a28d"><div class="ttname"><a href="../../d0/d38/AuctionHouseMgr_8h.html#a6e313ffb5943e7c756e65c142ad1a28d">AuctionHouseId</a></div><div class="ttdeci">AuctionHouseId</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:88</div></div>
 <div class="ttc" id="aAuctionHouseMgr_8h_html_ac3e168154709326e99ab24a7d1395906"><div class="ttname"><a href="../../d0/d38/AuctionHouseMgr_8h.html#ac3e168154709326e99ab24a7d1395906">sAuctionMgr</a></div><div class="ttdeci">#define sAuctionMgr</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:224</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:158</div></div>
-<div class="ttc" id="aclassAuctionHouseMgr_html_ae61879cbfd46c3eb84b72bd6059240c1"><div class="ttname"><a href="../../d8/dbe/classAuctionHouseMgr.html#ae61879cbfd46c3eb84b72bd6059240c1">AuctionHouseMgr::GetAuctionHouseEntryFromHouse</a></div><div class="ttdeci">static AuctionHouseEntry const * GetAuctionHouseEntryFromHouse(AuctionHouseId ahHouseId)</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:474</div></div>
+<div class="ttc" id="aclassAuctionHouseMgr_html_ae61879cbfd46c3eb84b72bd6059240c1"><div class="ttname"><a href="../../d8/dbe/classAuctionHouseMgr.html#ae61879cbfd46c3eb84b72bd6059240c1">AuctionHouseMgr::GetAuctionHouseEntryFromHouse</a></div><div class="ttdeci">static AuctionHouseEntry const * GetAuctionHouseEntryFromHouse(AuctionHouseId ahHouseId)</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.cpp:487</div></div>
 <div class="ttc" id="aclassField_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition</b> Field.h:112</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:47</div></div>
 <div class="ttc" id="astructAuctionEntry_html_a3d4e0baffa36cf643b0c645efe4bf3f4"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4">AuctionEntry::bidder</a></div><div class="ttdeci">ObjectGuid bidder</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:108</div></div>
@@ -523,9 +523,9 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="astructAuctionEntry_html_aa1e6771187c237136d34645db9f852f9"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9">AuctionEntry::startbid</a></div><div class="ttdeci">uint32 startbid</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:104</div></div>
 <div class="ttc" id="astructAuctionEntry_html_adf2b61be66a9afc7114198fe993d526d"><div class="ttname"><a href="../../d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d">AuctionEntry::owner</a></div><div class="ttdeci">ObjectGuid owner</div><div class="ttdef"><b>Definition</b> AuctionHouseMgr.h:103</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">auctionHouseEntry</a>, <a class="el" href="../../#l00105">bid</a>, <a class="el" href="../../#l00108">bidder</a>, <a class="el" href="../../#l00106">buyout</a>, <a class="el" href="../../#l00109">deposit</a>, <a class="el" href="../../#l00107">expire_time</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00474">AuctionHouseMgr::GetAuctionHouseEntryFromHouse()</a>, <a class="el" href="../../#l00099">houseId</a>, <a class="el" href="../../#l00098">Id</a>, <a class="el" href="../../#l00100">item_guid</a>, <a class="el" href="../../#l00101">item_template</a>, <a class="el" href="../../#l00102">itemCount</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00103">owner</a>, <a class="el" href="../../#l00224">sAuctionMgr</a>, <a class="el" href="../../#l00104">startbid</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00110">auctionHouseEntry</a>, <a class="el" href="../../#l00105">bid</a>, <a class="el" href="../../#l00108">bidder</a>, <a class="el" href="../../#l00106">buyout</a>, <a class="el" href="../../#l00109">deposit</a>, <a class="el" href="../../#l00107">expire_time</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00487">AuctionHouseMgr::GetAuctionHouseEntryFromHouse()</a>, <a class="el" href="../../#l00099">houseId</a>, <a class="el" href="../../#l00098">Id</a>, <a class="el" href="../../#l00100">item_guid</a>, <a class="el" href="../../#l00101">item_template</a>, <a class="el" href="../../#l00102">itemCount</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00103">owner</a>, <a class="el" href="../../#l00224">sAuctionMgr</a>, <a class="el" href="../../#l00104">startbid</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00363">AuctionHouseMgr::LoadAuctions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00376">AuctionHouseMgr::LoadAuctions()</a>.</p>
 
 </div>
 </div>
@@ -544,20 +544,20 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  579</span>{</div>
-<div class="line"><span class="lineno">  580</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9876c00554065f763e35d6e0591d1631">CHAR_INS_AUCTION</a>);</div>
-<div class="line"><span class="lineno">  581</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>);</div>
-<div class="line"><span class="lineno">  582</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
-<div class="line"><span class="lineno">  583</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  584</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d">owner</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  585</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (4, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a>);</div>
-<div class="line"><span class="lineno">  586</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(5, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a>));</div>
-<div class="line"><span class="lineno">  587</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(6, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  588</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (7, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>);</div>
-<div class="line"><span class="lineno">  589</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (8, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9">startbid</a>);</div>
-<div class="line"><span class="lineno">  590</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (9, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a>);</div>
-<div class="line"><span class="lineno">  591</span>    trans-&gt;Append(stmt);</div>
-<div class="line"><span class="lineno">  592</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  592</span>{</div>
+<div class="line"><span class="lineno">  593</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9876c00554065f763e35d6e0591d1631">CHAR_INS_AUCTION</a>);</div>
+<div class="line"><span class="lineno">  594</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48">Id</a>);</div>
+<div class="line"><span class="lineno">  595</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f">houseId</a>);</div>
+<div class="line"><span class="lineno">  596</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403">item_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  597</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d">owner</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  598</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (4, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0">buyout</a>);</div>
+<div class="line"><span class="lineno">  599</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(5, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a>));</div>
+<div class="line"><span class="lineno">  600</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(6, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  601</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (7, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a>);</div>
+<div class="line"><span class="lineno">  602</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (8, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9">startbid</a>);</div>
+<div class="line"><span class="lineno">  603</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (9, <a class="code hl_variable" href="../../d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a>);</div>
+<div class="line"><span class="lineno">  604</span>    trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  605</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a9876c00554065f763e35d6e0591d1631"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9876c00554065f763e35d6e0591d1631">CHAR_INS_AUCTION</a></div><div class="ttdeci">@ CHAR_INS_AUCTION</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:105</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:145</div></div>
 </div><!-- fragment -->
@@ -580,7 +580,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00553">GetAuctionCut()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, and <a class="el" href="../../#l00594">LoadFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00566">GetAuctionCut()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, and <a class="el" href="../../#l00607">LoadFromDB()</a>.</p>
 
 </div>
 </div>
@@ -596,7 +596,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00633">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00565">CalculateAuctionOutBid()</a>, <a class="el" href="../../#l00553">GetAuctionCut()</a>, <a class="el" href="../../#l00559">GetAuctionOutBid()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00646">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00578">CalculateAuctionOutBid()</a>, <a class="el" href="../../#l00566">GetAuctionCut()</a>, <a class="el" href="../../#l00572">GetAuctionOutBid()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
 
 </div>
 </div>
@@ -612,7 +612,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, <a class="el" href="../../#l00503">AuctionHouseObject::Update()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, <a class="el" href="../../#l00516">AuctionHouseObject::Update()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
 
 </div>
 </div>
@@ -628,7 +628,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00633">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00646">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -644,7 +644,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00633">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, and <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00646">BuildAuctionMailBody()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, and <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
 
 </div>
 </div>
@@ -660,7 +660,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, and <a class="el" href="../../#l00503">AuctionHouseObject::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, and <a class="el" href="../../#l00516">AuctionHouseObject::Update()</a>.</p>
 
 </div>
 </div>
@@ -676,7 +676,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00548">GetFactionId()</a>, <a class="el" href="../../#l00113">GetHouseId()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00363">AuctionHouseMgr::LoadAuctions()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, and <a class="el" href="../../#l00578">SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00561">GetFactionId()</a>, <a class="el" href="../../#l00113">GetHouseId()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00376">AuctionHouseMgr::LoadAuctions()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, and <a class="el" href="../../#l00591">SaveToDB()</a>.</p>
 
 </div>
 </div>
@@ -692,7 +692,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00479">AuctionHouseObject::AddAuction()</a>, <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00626">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00571">DeleteFromDB()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00489">AuctionHouseObject::RemoveAuction()</a>, <a class="el" href="../../#l00410">AuctionHouseSearcher::RemoveAuction()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00492">AuctionHouseObject::AddAuction()</a>, <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00639">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00584">DeleteFromDB()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00502">AuctionHouseObject::RemoveAuction()</a>, <a class="el" href="../../#l00410">AuctionHouseSearcher::RemoveAuction()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00415">AuctionHouseSearcher::UpdateBid()</a>.</p>
 
 </div>
 </div>
@@ -708,7 +708,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00503">AuctionHouseObject::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>, and <a class="el" href="../../#l00516">AuctionHouseObject::Update()</a>.</p>
 
 </div>
 </div>
@@ -724,7 +724,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00626">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00639">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00102">WorldSession::SendAuctionOwnerNotification()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -740,7 +740,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00626">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, and <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00639">BuildAuctionMailSubject()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -756,7 +756,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00393">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00527">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, <a class="el" href="../../#l00578">SaveToDB()</a>, <a class="el" href="../../#l00287">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00233">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00263">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00183">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00403">WorldSession::HandleAuctionPlaceBid()</a>, <a class="el" href="../../#l00545">WorldSession::HandleAuctionRemoveItem()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, <a class="el" href="../../#l00591">SaveToDB()</a>, <a class="el" href="../../#l00300">AuctionHouseMgr::SendAuctionCancelledToBidderMail()</a>, <a class="el" href="../../#l00242">AuctionHouseMgr::SendAuctionExpiredMail()</a>, <a class="el" href="../../#l00276">AuctionHouseMgr::SendAuctionOutbiddedMail()</a>, <a class="el" href="../../#l00165">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00187">AuctionHouseMgr::SendAuctionSuccessfulMail()</a>, and <a class="el" href="../../#l00115">AuctionHouseMgr::SendAuctionWonMail()</a>.</p>
 
 </div>
 </div>
@@ -772,7 +772,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00594">LoadFromDB()</a>, and <a class="el" href="../../#l00578">SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">AuctionHouseSearcher::AddAuction()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00607">LoadFromDB()</a>, and <a class="el" href="../../#l00591">SaveToDB()</a>.</p>
 
 </div>
 </div>
@@ -786,7 +786,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d83/structAuctionEntry.html">AuctionEntry</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:09:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:56:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

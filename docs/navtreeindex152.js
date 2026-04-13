@@ -1,5 +1,8 @@
 var NAVTREEINDEX152 =
 {
+"d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a08aad205433870ab8e99d8545a84d940":[7,0,0,0,1,3,5,8,1,4,5,3],
+"d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a33abb09142ea4f7e5033c54225d9d63e":[7,0,0,0,1,3,5,8,1,4,5,2],
+"d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,1,4,5,0],
 "d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,5,8,1,4,5,5],
 "d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,8,1,4,5,4],
 "d5/d7b/boss__ormorok_8cpp.html#a9c9f3c2d2d5cc92abb79db0962b76a3f":[7,0,0,0,1,3,5,8,1,4,6],
@@ -15,8 +18,8 @@ var NAVTREEINDEX152 =
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[5,0,34,26],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[6,0,12,26,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[5,0,34,26,0],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,34,26,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[6,0,12,26,2],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,34,26,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[6,0,12,26,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,34,26,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[6,0,12,26,5],
@@ -195,8 +198,8 @@ var NAVTREEINDEX152 =
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html":[5,0,34,6,37],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a0ea07ca846a92b5357276b5868d98e5f":[6,0,12,6,37,1],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a0ea07ca846a92b5357276b5868d98e5f":[5,0,34,6,37,1],
-"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[6,0,12,6,37,0],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[5,0,34,6,37,0],
+"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[6,0,12,6,37,0],
 "d5/d86/structoutroPosition.html":[6,0,2368],
 "d5/d86/structoutroPosition.html#a0b7e499d633e11b314852fb1154ea8e6":[6,0,2368,1],
 "d5/d86/structoutroPosition.html#a80e1510436336f4ed17748a06b27178d":[6,0,2368,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX152 =
 "d5/d89/classObjectGuidGeneratorBase.html#abf1f20b97af8071459bd850e7106a442":[6,0,2325,3],
 "d5/d89/classObjectGuidGeneratorBase.html#ada7a44ac47b112491c575c38465740fc":[6,0,2325,4],
 "d5/d89/classat__karazhan__mirkblood__entrance.html":[6,0,236],
-"d5/d89/classat__karazhan__mirkblood__entrance.html#aa5537dc8616c1f748b6be4b1e2870ca7":[6,0,236,0],
-"d5/d89/classat__karazhan__mirkblood__entrance.html#ad99c85de36a369752fa61bab761a402e":[6,0,236,1],
-"d5/d89/classspell__halion__combustion__consumption__aura.html":[6,0,3156],
-"d5/d89/classspell__halion__combustion__consumption__aura.html#a334f2211429dde989b6beb6c10a71464":[6,0,3156,4]
+"d5/d89/classat__karazhan__mirkblood__entrance.html#aa5537dc8616c1f748b6be4b1e2870ca7":[6,0,236,0]
 };

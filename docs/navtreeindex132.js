@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa224d41981eead3a852d629c3d9a3c734":[7,0,0,0,1,3,5,2,1,1,64,1],
 "d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa2384b0417b3ce06bf1d030a6072858aa":[7,0,0,0,1,3,5,2,1,1,64,0],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124":[7,0,0,0,1,3,5,2,1,1,35],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124a4a3ca1a3b56932bdcbe95f057d161b25":[7,0,0,0,1,3,5,2,1,1,35,3],
@@ -210,11 +211,11 @@ var NAVTREEINDEX132 =
 "d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4510,1],
 "d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4510,2],
 "d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[6,0,4510,0],
-"d4/d82/classspell__blight__worm__ingest.html":[6,0,2682],
-"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2682,1],
-"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2682,3],
-"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2682,2],
-"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2682,0],
+"d4/d82/classspell__blight__worm__ingest.html":[6,0,2683],
+"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2683,1],
+"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2683,3],
+"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2683,2],
+"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2683,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[6,0,388],
 "d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[6,0,388,2],
 "d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,388,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6":[7,0,0,0,1,2,3,1,5,1,3],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523":[7,0,0,0,1,2,3,1,5,1,2],
 "d4/d84/structgo__suppression__device.html":[6,0,1206],
-"d4/d84/structgo__suppression__device.html#a00fb90b16c82f9d968cc29275c05675a":[6,0,1206,5],
-"d4/d84/structgo__suppression__device.html#a036467db9b2661e7048216b03451861b":[6,0,1206,3]
+"d4/d84/structgo__suppression__device.html#a00fb90b16c82f9d968cc29275c05675a":[6,0,1206,5]
 };

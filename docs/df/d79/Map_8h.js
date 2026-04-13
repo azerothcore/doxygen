@@ -5,6 +5,7 @@ var Map_8h =
     [ "InstanceTemplate", "d1/d7e/structInstanceTemplate.html", "d1/d7e/structInstanceTemplate" ],
     [ "ZoneDynamicInfo", "d7/d59/structZoneDynamicInfo.html", "d7/d59/structZoneDynamicInfo" ],
     [ "Map", "d7/db0/classMap.html", "d7/db0/classMap" ],
+    [ "Map::RespawnEntry", "db/d2b/structMap_1_1RespawnEntry.html", "db/d2b/structMap_1_1RespawnEntry" ],
     [ "InstanceMap", "de/dd8/classInstanceMap.html", "de/dd8/classInstanceMap" ],
     [ "BattlegroundMap", "d4/d93/classBattlegroundMap.html", "d4/d93/classBattlegroundMap" ],
     [ "DEFAULT_HEIGHT_SEARCH", "df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],

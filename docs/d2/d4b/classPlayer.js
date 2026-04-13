@@ -181,6 +181,7 @@ var classPlayer =
     [ "CanRewardQuest", "d2/d4b/classPlayer.html#a0a4dc5dbc656abdc90695b8dd643f1c7", null ],
     [ "CanRollForItemInLFG", "d2/d4b/classPlayer.html#a2a78c183bd229f9d2abe37ccc24219f5", null ],
     [ "CanSeeDKPet", "d2/d4b/classPlayer.html#a54be7c3903ed9f933b404475e36874e6", null ],
+    [ "CanSeeObjectByVisibilityConditions", "d2/d4b/classPlayer.html#a1e98a0f1f9e13d94200c2d07febef04a", null ],
     [ "CanSeeSpellClickOn", "d2/d4b/classPlayer.html#ae411c42185d189e86a3488cee0b66aaa", null ],
     [ "CanSeeStartQuest", "d2/d4b/classPlayer.html#a743bfca834aded4409212d6fb43d8f4f", null ],
     [ "CanSeeTrainer", "d2/d4b/classPlayer.html#a710e816098447dbdb08760dd088d252b", null ],

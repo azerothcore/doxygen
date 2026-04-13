@@ -297,6 +297,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a8fee035f2cd3ed05f46f6ab042cd50 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI" id="r_a18697bb982e25e72f50eac5aa56c7d33"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33">CanRespawn</a> ()</td></tr>
 <tr class="separator:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI" id="r_a5dc33b6a9106d1661b9d816558c48e62"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5dc33b6a9106d1661b9d816558c48e62">IsEscortNPC</a> (bool=true) const</td></tr>
+<tr class="separator:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe5dd68e11d20028510eca29d4184778 inherit pub_methods_classCreatureAI" id="r_afe5dd68e11d20028510eca29d4184778"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">EnterEvadeMode</a> (<a class="el" href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbb">EvadeReason</a> why=<a class="el" href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027">EVADE_REASON_OTHER</a>)</td></tr>
 <tr class="separator:afe5dd68e11d20028510eca29d4184778 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a671db1b39c12b3171b47bc01e958f3ad inherit pub_methods_classCreatureAI" id="r_a671db1b39c12b3171b47bc01e958f3ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a671db1b39c12b3171b47bc01e958f3ad">JustEnteredCombat</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *who) override</td></tr>
@@ -812,9 +814,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  115</span>    }</div>
 <div class="ttc" id="aboss__doomwalker_8cpp_html_a5bd342133be8c2137b831460acc9298caa2f301d11bf86d5d4459d0094e2f87d0"><div class="ttname"><a href="../../d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f301d11bf86d5d4459d0094e2f87d0">SPELL_AURA_DEATH</a></div><div class="ttdeci">@ SPELL_AURA_DEATH</div><div class="ttdef"><b>Definition</b> boss_doomwalker.cpp:38</div></div>
 <div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:6010</div></div>
-<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10745</div></div>
+<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10746</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01375">Unit::CastSpell()</a>, <a class="el" href="../../#l06010">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l10745">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00038">SPELL_AURA_DEATH</a>, and <a class="el" href="../../#l00037">SPELL_MARK_DEATH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01375">Unit::CastSpell()</a>, <a class="el" href="../../#l06010">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l10746">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00038">SPELL_AURA_DEATH</a>, and <a class="el" href="../../#l00037">SPELL_MARK_DEATH</a>.</p>
 
 </div>
 </div>
@@ -934,7 +936,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d5a/structboss__doomwalker.html">boss_doomwalker</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:09:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:56:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var NAVTREEINDEX149 =
 {
+"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d7f51b728051c98d83880139eed8e6a":[7,0,0,0,1,3,5,7,7,8,1],
+"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca83e941fb451a98d4746c82dd1d2b8af3":[7,0,0,0,1,3,5,7,7,8,0],
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca90076b2156b94e14e6bf9bf872c14bff":[7,0,0,0,1,3,5,7,7,8,9],
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca993c2d128c03a1179e0fb44ea0f3284a":[7,0,0,0,1,3,5,7,7,8,6],
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298caa1436e833400e43be70162edb3d1e34a":[7,0,0,0,1,3,5,7,7,8,4],
@@ -21,8 +23,8 @@ var NAVTREEINDEX149 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[6,0,1858,0,5],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[6,0,4161],
 "d5/d52/classspell__the__lich__king__defile.html#a017ade08eca93f326d2e5115c4d88c33":[6,0,4161,0],
 "d5/d52/classspell__the__lich__king__defile.html#a3e1d1764add95728428cbf25f9b66dc4":[6,0,4161,2],
@@ -31,10 +33,10 @@ var NAVTREEINDEX149 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,4161,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,34,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,12,6,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,34,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,12,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,34,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,12,6,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,12,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,34,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,34,6,52,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea55aa849212a8c89e401ca51d0fa4cadb":[7,0,0,0,1,2,16,1,7,12,17],
 "d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea6f28edfa26fb3be44b01adff65b4500e":[7,0,0,0,1,2,16,1,7,12,8],
 "d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea8a6816e0c6532a0aeebdce3bcdd0b69a":[7,0,0,0,1,2,16,1,7,12,18],
-"d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea8bc335b6043d3a9551c733e7692b346b":[7,0,0,0,1,2,16,1,7,12,16],
-"d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea8c873b2bf71ffabcd96acd28cb615a7b":[7,0,0,0,1,2,16,1,7,12,6],
-"d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea96180ea34294f0d8fb6a008accbaa9bb":[7,0,0,0,1,2,16,1,7,12,5]
+"d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097ea8bc335b6043d3a9551c733e7692b346b":[7,0,0,0,1,2,16,1,7,12,16]
 };

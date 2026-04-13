@@ -10,6 +10,7 @@ var structSpawnData =
     [ "posZ", "d7/dc4/structSpawnData.html#ae911f34522832f2842ea7450c55e264c", null ],
     [ "ScriptId", "d7/dc4/structSpawnData.html#acb2ca11212667789bbd41a285cf708d6", null ],
     [ "spawnGroupId", "d7/dc4/structSpawnData.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
+    [ "spawnId", "d7/dc4/structSpawnData.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
     [ "spawnMask", "d7/dc4/structSpawnData.html#a236e4a809883421cb2c5d4c4d607621b", null ],
     [ "type", "d7/dc4/structSpawnData.html#abb2ece9629d63141de2702acd5383564", null ]
 ];

@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"d4/d84/structgo__suppression__device.html#a036467db9b2661e7048216b03451861b":[6,0,1206,3],
 "d4/d84/structgo__suppression__device.html#a1accabc06137c07e9f74ea91d068672c":[6,0,1206,6],
 "d4/d84/structgo__suppression__device.html#a43fc9da45057e18811a0efc69e01edc8":[6,0,1206,7],
 "d4/d84/structgo__suppression__device.html#a6f40d8e47699b711466d8d36bdaa424c":[6,0,1206,4],
@@ -139,10 +140,10 @@ var NAVTREEINDEX133 =
 "d4/d8b/namespaceAcore_1_1Types.html#a6d4fe40146df0d52c6917d8cc920ac84":[5,0,1,16,1],
 "d4/d8b/namespaceAcore_1_1Types.html#aa6a7b1e80be2ae7ec2efb76185ee7b44":[5,0,1,16,0],
 "d4/d8b/namespaceAcore_1_1Types.html#ae544e1b7f5a34959b1b48592f67dd4e7":[5,0,1,16,2],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[6,0,2762],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a01e31df6c6ec9f6ae5bffb4b435caf8e":[6,0,2762,2],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a29bf443cdb53b10032ba382b8ae44828":[6,0,2762,0],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[6,0,2762,1],
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[6,0,2763],
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a01e31df6c6ec9f6ae5bffb4b435caf8e":[6,0,2763,2],
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a29bf443cdb53b10032ba382b8ae44828":[6,0,2763,0],
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[6,0,2763,1],
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html":[6,0,1672,0],
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#a908ccf6763240ba0c0ebdf2dec6e1b36":[6,0,1672,0,0],
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#aa5c80b5759656e3865d6721161f9f005":[6,0,1672,0,1],
@@ -246,8 +247,7 @@ var NAVTREEINDEX133 =
 "d4/d8f/classspell__gen__overlords__brand__dot.html#ab09dcc534ebda11da4a2234ee82233a2":[6,0,3071,2],
 "d4/d90/classMovement_1_1Spline.html":[5,0,22,11],
 "d4/d90/classMovement_1_1Spline.html":[6,0,7,11],
-"d4/d90/classMovement_1_1Spline.html#a091e42262c66dff880bfa787c74a0bcc":[6,0,7,11,3],
 "d4/d90/classMovement_1_1Spline.html#a091e42262c66dff880bfa787c74a0bcc":[5,0,22,11,3],
-"d4/d90/classMovement_1_1Spline.html#a20cf3df436c8fc337019cb8dbd4fc74f":[5,0,22,11,0],
-"d4/d90/classMovement_1_1Spline.html#a20cf3df436c8fc337019cb8dbd4fc74f":[6,0,7,11,0]
+"d4/d90/classMovement_1_1Spline.html#a091e42262c66dff880bfa787c74a0bcc":[6,0,7,11,3],
+"d4/d90/classMovement_1_1Spline.html#a20cf3df436c8fc337019cb8dbd4fc74f":[5,0,22,11,0]
 };

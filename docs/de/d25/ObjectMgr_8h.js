@@ -85,6 +85,7 @@ var ObjectMgr_8h =
     [ "ScriptMap", "de/d25/ObjectMgr_8h.html#a260daf2379f66c27770f8fdc2e527bce", null ],
     [ "ScriptMapMap", "de/d25/ObjectMgr_8h.html#aa132ba0e71cb8e912545ffd9a6ee5b16", null ],
     [ "SpawnGroupDataContainer", "de/d25/ObjectMgr_8h.html#ad1103677498d37a9ec53288ef573bde7", null ],
+    [ "SpawnGroupLinkContainer", "de/d25/ObjectMgr_8h.html#a18f011003cb13fbe968e6a2ede3e64d3", null ],
     [ "SpellClickInfoContainer", "de/d25/ObjectMgr_8h.html#a8238b7ead47eff1d337db6553f15e438", null ],
     [ "SpellClickInfoMapBounds", "de/d25/ObjectMgr_8h.html#ac546455503d6a9ece86173f659e6e2bd", null ],
     [ "SpellScriptsBounds", "de/d25/ObjectMgr_8h.html#a2f79d1bd10a4458336bb9739571c8d95", null ],

@@ -5,6 +5,7 @@ var SpawnData_8h =
     [ "SpawnGroupFlags", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
       [ "SPAWNGROUP_FLAG_NONE", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
       [ "SPAWNGROUP_FLAG_SYSTEM", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],
+      [ "SPAWNGROUP_FLAG_COMPATIBILITY_MODE", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a425a0006a686cbb29860ce5ada6e6dc7", null ],
       [ "SPAWNGROUP_FLAG_MANUAL_SPAWN", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a417fbb81820d8e43c7975f6e101f64da", null ],
       [ "SPAWNGROUP_FLAG_DYNAMIC_SPAWN_RATE", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a08739c177a3fc0d8fefdd0952cbdb81f", null ],
       [ "SPAWNGROUP_FLAG_ESCORTQUESTNPC", "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1", null ],
@@ -19,5 +20,6 @@ var SpawnData_8h =
       [ "SPAWN_TYPEMASK_CREATURE", "da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2", null ],
       [ "SPAWN_TYPEMASK_GAMEOBJECT", "da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326", null ],
       [ "SPAWN_TYPEMASK_ALL", "da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108", null ]
-    ] ]
+    ] ],
+    [ "SPAWNGROUP_MAP_UNSET", "da/dab/SpawnData_8h.html#a9041bb5e3b05220cb101faac61b48fd7", null ]
 ];

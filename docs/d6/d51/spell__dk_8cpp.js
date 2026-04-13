@@ -14,7 +14,6 @@ var spell__dk_8cpp =
     [ "spell_dk_improved_blood_presence_triggered", "d0/dde/classspell__dk__improved__blood__presence__triggered.html", "d0/dde/classspell__dk__improved__blood__presence__triggered" ],
     [ "spell_dk_wandering_plague_aura", "da/db3/classspell__dk__wandering__plague__aura.html", "da/db3/classspell__dk__wandering__plague__aura" ],
     [ "spell_dk_rune_of_the_fallen_crusader", "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html", "db/dbe/classspell__dk__rune__of__the__fallen__crusader" ],
-    [ "spell_dk_bone_shield", "d3/d29/classspell__dk__bone__shield.html", "d3/d29/classspell__dk__bone__shield" ],
     [ "spell_dk_hungering_cold", "d2/d7b/classspell__dk__hungering__cold.html", "d2/d7b/classspell__dk__hungering__cold" ],
     [ "spell_dk_blood_caked_blade", "de/d8f/classspell__dk__blood__caked__blade.html", "de/d8f/classspell__dk__blood__caked__blade" ],
     [ "spell_dk_dancing_rune_weapon", "dc/d6d/classspell__dk__dancing__rune__weapon.html", "dc/d6d/classspell__dk__dancing__rune__weapon" ],

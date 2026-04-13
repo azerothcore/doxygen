@@ -16,6 +16,7 @@ var structnpc__escortAI =
     [ "GetWaypointPosition", "d2/ddc/structnpc__escortAI.html#afa8256d1a2303be5e598df789636a4eb", null ],
     [ "HasEscortState", "d2/ddc/structnpc__escortAI.html#a19a101aa424360959c09220f8a67bbe5", null ],
     [ "IsEscorted", "d2/ddc/structnpc__escortAI.html#a4a1d245e1d6b6509915e85cae1901589", null ],
+    [ "IsEscortNPC", "d2/ddc/structnpc__escortAI.html#a78f5579b0858eef176b750647986fee2", null ],
     [ "IsPlayerOrGroupInRange", "d2/ddc/structnpc__escortAI.html#a648799d00219673bd974e08e1176c495", null ],
     [ "JustDied", "d2/ddc/structnpc__escortAI.html#ae25140568b7dccf0ab73aa87452bd985", null ],
     [ "JustRespawned", "d2/ddc/structnpc__escortAI.html#ac0b0fe06c694cbc0490fa3965c7c38ee", null ],

@@ -1,5 +1,15 @@
 var NAVTREEINDEX169 =
 {
+"d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[6,0,1289,5],
+"d6/d23/structSpellValue.html":[6,0,4436],
+"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[6,0,4436,7],
+"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[6,0,4436,4],
+"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[6,0,4436,0],
+"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[6,0,4436,3],
+"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[6,0,4436,5],
+"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[6,0,4436,1],
+"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[6,0,4436,6],
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[6,0,4436,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[6,0,2196,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[6,0,2196,0,3],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[6,0,2196,0,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d2b/classspell__gen__break__shield.html#a45151bb2eacdd642e8f11564d4ef0d65":[6,0,2997,1],
 "d6/d2b/classspell__gen__break__shield.html#a884d0f5f8bf0f3515b4fedd54dd20ebf":[6,0,2997,0],
 "d6/d2b/classspell__gen__break__shield.html#ae01695fd336fca36a7d2569ca741fba5":[6,0,2997,2],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html":[6,0,3253],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html#a006a97823ac07346771ec4ab61bd0763":[6,0,3253,2],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html#a208c4d59e20cd802cf2f4643fa0d6253":[6,0,3253,0],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html#ae1f5555dcadb48ba59bf9571073f4a99":[6,0,3253,3],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html#af1d284c4686f739b02b350a6c0a166c2":[6,0,3253,1],
-"d6/d2b/classspell__item__elixir__of__shadows.html":[6,0,3356],
-"d6/d2b/classspell__item__elixir__of__shadows.html#a41b46d8918b59a1617f383b3eedfe343":[6,0,3356,0],
-"d6/d2b/classspell__item__elixir__of__shadows.html#a78f1476ed28eb1e80356dbf3d32918f5":[6,0,3356,2],
-"d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[6,0,3356,1],
-"d6/d2b/classspell__warl__shadowburn.html":[6,0,4283],
-"d6/d2b/classspell__warl__shadowburn.html#a3f474c143f64739187b6049cac5e4b38":[6,0,4283,2]
+"d6/d2b/classspell__icc__yf__frozen__orb__aura.html":[6,0,3253]
 };

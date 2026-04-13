@@ -257,6 +257,8 @@ Typedefs</h2></td></tr>
 <tr class="separator:a628c13edbfd025ca095cdd76a505bcc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad1103677498d37a9ec53288ef573bde7" id="r_ad1103677498d37a9ec53288ef573bde7"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d34/structSpawnGroupTemplateData.html">SpawnGroupTemplateData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d25/ObjectMgr_8h.html#ad1103677498d37a9ec53288ef573bde7">SpawnGroupDataContainer</a></td></tr>
 <tr class="separator:ad1103677498d37a9ec53288ef573bde7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18f011003cb13fbe968e6a2ede3e64d3" id="r_a18f011003cb13fbe968e6a2ede3e64d3"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/dc4/structSpawnData.html">SpawnData</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d25/ObjectMgr_8h.html#a18f011003cb13fbe968e6a2ede3e64d3">SpawnGroupLinkContainer</a></td></tr>
+<tr class="separator:a18f011003cb13fbe968e6a2ede3e64d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad32f1f00d11de7947dd82ce5d4dd5b4b" id="r_ad32f1f00d11de7947dd82ce5d4dd5b4b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dc/d7b/structTempSummonGroupKey.html">TempSummonGroupKey</a>, std::vector&lt; <a class="el" href="../../db/de1/structTempSummonData.html">TempSummonData</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d25/ObjectMgr_8h.html#ad32f1f00d11de7947dd82ce5d4dd5b4b">TempSummonDataContainer</a></td></tr>
 <tr class="separator:ad32f1f00d11de7947dd82ce5d4dd5b4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a37b774e53ac2785c57605c75cf6885cb" id="r_a37b774e53ac2785c57605c75cf6885cb"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dc/d7b/structTempSummonGroupKey.html">TempSummonGroupKey</a>, std::vector&lt; <a class="el" href="../../d1/dbe/structGameObjectSummonData.html">GameObjectSummonData</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d25/ObjectMgr_8h.html#a37b774e53ac2785c57605c75cf6885cb">GameObjectSummonDataContainer</a></td></tr>
@@ -1309,6 +1311,20 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="a18f011003cb13fbe968e6a2ede3e64d3" name="a18f011003cb13fbe968e6a2ede3e64d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18f011003cb13fbe968e6a2ede3e64d3">&#9670;&#160;</a></span>SpawnGroupLinkContainer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::multimap&lt;<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/dc4/structSpawnData.html">SpawnData</a> const*&gt; <a class="el" href="../../de/d25/ObjectMgr_8h.html#a18f011003cb13fbe968e6a2ede3e64d3">SpawnGroupLinkContainer</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a8238b7ead47eff1d337db6553f15e438" name="a8238b7ead47eff1d337db6553f15e438"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8238b7ead47eff1d337db6553f15e438">&#9670;&#160;</a></span>SpellClickInfoContainer</h2>
 
@@ -1630,18 +1646,18 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b" name="affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b"></a>SKILL_RANGE_RANK&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980" name="affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980"></a>SKILL_RANGE_NONE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  674</span>{</div>
-<div class="line"><span class="lineno">  675</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>,                                   <span class="comment">// 300..300</span></div>
-<div class="line"><span class="lineno">  676</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>,                                      <span class="comment">// 1..max skill for level</span></div>
-<div class="line"><span class="lineno">  677</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>,                                       <span class="comment">// 1..1, grey monolite bar</span></div>
-<div class="line"><span class="lineno">  678</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>,                                       <span class="comment">// 1..skill for known rank</span></div>
-<div class="line"><span class="lineno">  679</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>,                                       <span class="comment">// 0..0 always</span></div>
-<div class="line"><span class="lineno">  680</span>};</div>
-<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a></div><div class="ttdeci">@ SKILL_RANGE_MONO</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:677</div></div>
-<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a></div><div class="ttdeci">@ SKILL_RANGE_NONE</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:679</div></div>
-<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a></div><div class="ttdeci">@ SKILL_RANGE_LANGUAGE</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:675</div></div>
-<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a></div><div class="ttdeci">@ SKILL_RANGE_RANK</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:678</div></div>
-<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a></div><div class="ttdeci">@ SKILL_RANGE_LEVEL</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:676</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  675</span>{</div>
+<div class="line"><span class="lineno">  676</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>,                                   <span class="comment">// 300..300</span></div>
+<div class="line"><span class="lineno">  677</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>,                                      <span class="comment">// 1..max skill for level</span></div>
+<div class="line"><span class="lineno">  678</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>,                                       <span class="comment">// 1..1, grey monolite bar</span></div>
+<div class="line"><span class="lineno">  679</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>,                                       <span class="comment">// 1..skill for known rank</span></div>
+<div class="line"><span class="lineno">  680</span>    <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>,                                       <span class="comment">// 0..0 always</span></div>
+<div class="line"><span class="lineno">  681</span>};</div>
+<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a></div><div class="ttdeci">@ SKILL_RANGE_MONO</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:678</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a></div><div class="ttdeci">@ SKILL_RANGE_NONE</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:680</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a></div><div class="ttdeci">@ SKILL_RANGE_LANGUAGE</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:676</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a></div><div class="ttdeci">@ SKILL_RANGE_RANK</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:679</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a></div><div class="ttdeci">@ SKILL_RANGE_LEVEL</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:677</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1677,7 +1693,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00231">lang_description</a>, and <a class="el" href="../../#l00744">LANGUAGES_COUNT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l10331">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00081">CreatureTextMgr::LoadCreatureTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l10502">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00081">CreatureTextMgr::LoadCreatureTexts()</a>.</p>
 
 </div>
 </div>
@@ -1795,7 +1811,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00106">SCRIPT_COMMAND_ACTIVATE_OBJECT</a>, <a class="el" href="../../#l00114">SCRIPT_COMMAND_CALLSCRIPT_TO_UNIT</a>, <a class="el" href="../../#l00108">SCRIPT_COMMAND_CAST_SPELL</a>, <a class="el" href="../../#l00105">SCRIPT_COMMAND_CLOSE_DOOR</a>, <a class="el" href="../../#l00121">SCRIPT_COMMAND_CLOSE_GOSSIP</a>, <a class="el" href="../../#l00110">SCRIPT_COMMAND_CREATE_ITEM</a>, <a class="el" href="../../#l00111">SCRIPT_COMMAND_DESPAWN_SELF</a>, <a class="el" href="../../#l00094">SCRIPT_COMMAND_EMOTE</a>, <a class="el" href="../../#l00119">SCRIPT_COMMAND_EQUIP</a>, <a class="el" href="../../#l00095">SCRIPT_COMMAND_FIELD_SET</a>, <a class="el" href="../../#l00098">SCRIPT_COMMAND_FLAG_REMOVE</a>, <a class="el" href="../../#l00097">SCRIPT_COMMAND_FLAG_SET</a>, <a class="el" href="../../#l00115">SCRIPT_COMMAND_KILL</a>, <a class="el" href="../../#l00101">SCRIPT_COMMAND_KILL_CREDIT</a>, <a class="el" href="../../#l00113">SCRIPT_COMMAND_LOAD_PATH</a>, <a class="el" href="../../#l00120">SCRIPT_COMMAND_MODEL</a>, <a class="el" href="../../#l00096">SCRIPT_COMMAND_MOVE_TO</a>, <a class="el" href="../../#l00104">SCRIPT_COMMAND_OPEN_DOOR</a>, <a class="el" href="../../#l00118">SCRIPT_COMMAND_ORIENTATION</a>, <a class="el" href="../../#l00109">SCRIPT_COMMAND_PLAY_SOUND</a>, <a class="el" href="../../#l00122">SCRIPT_COMMAND_PLAYMOVIE</a>, <a class="el" href="../../#l00100">SCRIPT_COMMAND_QUEST_EXPLORED</a>, <a class="el" href="../../#l00107">SCRIPT_COMMAND_REMOVE_AURA</a>, <a class="el" href="../../#l00102">SCRIPT_COMMAND_RESPAWN_GAMEOBJECT</a>, <a class="el" href="../../#l00093">SCRIPT_COMMAND_TALK</a>, <a class="el" href="../../#l00099">SCRIPT_COMMAND_TELEPORT_TO</a>, and <a class="el" href="../../#l00103">SCRIPT_COMMAND_TEMP_SUMMON_CREATURE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptInfo::GetDebugInfo()</a>, and <a class="el" href="../../#l05844">ObjectMgr::LoadScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptInfo::GetDebugInfo()</a>, and <a class="el" href="../../#l05849">ObjectMgr::LoadScripts()</a>.</p>
 
 </div>
 </div>
@@ -1839,7 +1855,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00150">SCRIPTS_EVENT</a>, <a class="el" href="../../#l00149">SCRIPTS_SPELL</a>, <a class="el" href="../../#l00151">SCRIPTS_WAYPOINT</a>, <a class="el" href="../../#l00061">sEventScripts</a>, <a class="el" href="../../#l00060">sSpellScripts</a>, and <a class="el" href="../../#l00062">sWaypointScripts</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05844">ObjectMgr::LoadScripts()</a>, and <a class="el" href="../../#l00277">Map::ScriptsProcess()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05849">ObjectMgr::LoadScripts()</a>, and <a class="el" href="../../#l00277">Map::ScriptsProcess()</a>.</p>
 
 </div>
 </div>
@@ -1879,7 +1895,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00150">SCRIPTS_EVENT</a>, <a class="el" href="../../#l00149">SCRIPTS_SPELL</a>, and <a class="el" href="../../#l00151">SCRIPTS_WAYPOINT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptInfo::GetDebugInfo()</a>, and <a class="el" href="../../#l05844">ObjectMgr::LoadScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00202">ScriptInfo::GetDebugInfo()</a>, and <a class="el" href="../../#l05849">ObjectMgr::LoadScripts()</a>.</p>
 
 </div>
 </div>
@@ -1898,33 +1914,33 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9519</span>{</div>
-<div class="line"><span class="lineno"> 9520</span>    <a class="code hl_struct" href="../../d8/d11/structSkillLineEntry.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(rcEntry-&gt;SkillID);</div>
-<div class="line"><span class="lineno"> 9521</span>    <span class="keywordflow">if</span> (!skill)</div>
-<div class="line"><span class="lineno"> 9522</span>    {</div>
-<div class="line"><span class="lineno"> 9523</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>;</div>
-<div class="line"><span class="lineno"> 9524</span>    }</div>
-<div class="line"><span class="lineno"> 9525</span> </div>
-<div class="line"><span class="lineno"> 9526</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.LookupEntry(rcEntry-&gt;SkillTierID))</div>
-<div class="line"><span class="lineno"> 9527</span>    {</div>
-<div class="line"><span class="lineno"> 9528</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>;</div>
-<div class="line"><span class="lineno"> 9529</span>    }</div>
-<div class="line"><span class="lineno"> 9530</span> </div>
-<div class="line"><span class="lineno"> 9531</span>    <span class="keywordflow">if</span> (rcEntry-&gt;SkillID == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab05776d4e4650677906614d28589caf1">SKILL_RUNEFORGING</a>)</div>
-<div class="line"><span class="lineno"> 9532</span>    {</div>
-<div class="line"><span class="lineno"> 9533</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
-<div class="line"><span class="lineno"> 9534</span>    }</div>
-<div class="line"><span class="lineno"> 9535</span> </div>
-<div class="line"><span class="lineno"> 9536</span>    <span class="keywordflow">switch</span> (skill-&gt;<a class="code hl_variable" href="../../d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">categoryId</a>)</div>
-<div class="line"><span class="lineno"> 9537</span>    {</div>
-<div class="line"><span class="lineno"> 9538</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411">SKILL_CATEGORY_ARMOR</a>:</div>
-<div class="line"><span class="lineno"> 9539</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
-<div class="line"><span class="lineno"> 9540</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a79e1863d69891d47892f384391f85359">SKILL_CATEGORY_LANGUAGES</a>:</div>
-<div class="line"><span class="lineno"> 9541</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>;</div>
-<div class="line"><span class="lineno"> 9542</span>    }</div>
-<div class="line"><span class="lineno"> 9543</span> </div>
-<div class="line"><span class="lineno"> 9544</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>;</div>
-<div class="line"><span class="lineno"> 9545</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9690</span>{</div>
+<div class="line"><span class="lineno"> 9691</span>    <a class="code hl_struct" href="../../d8/d11/structSkillLineEntry.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(rcEntry-&gt;SkillID);</div>
+<div class="line"><span class="lineno"> 9692</span>    <span class="keywordflow">if</span> (!skill)</div>
+<div class="line"><span class="lineno"> 9693</span>    {</div>
+<div class="line"><span class="lineno"> 9694</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980">SKILL_RANGE_NONE</a>;</div>
+<div class="line"><span class="lineno"> 9695</span>    }</div>
+<div class="line"><span class="lineno"> 9696</span> </div>
+<div class="line"><span class="lineno"> 9697</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.LookupEntry(rcEntry-&gt;SkillTierID))</div>
+<div class="line"><span class="lineno"> 9698</span>    {</div>
+<div class="line"><span class="lineno"> 9699</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b">SKILL_RANGE_RANK</a>;</div>
+<div class="line"><span class="lineno"> 9700</span>    }</div>
+<div class="line"><span class="lineno"> 9701</span> </div>
+<div class="line"><span class="lineno"> 9702</span>    <span class="keywordflow">if</span> (rcEntry-&gt;SkillID == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab05776d4e4650677906614d28589caf1">SKILL_RUNEFORGING</a>)</div>
+<div class="line"><span class="lineno"> 9703</span>    {</div>
+<div class="line"><span class="lineno"> 9704</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
+<div class="line"><span class="lineno"> 9705</span>    }</div>
+<div class="line"><span class="lineno"> 9706</span> </div>
+<div class="line"><span class="lineno"> 9707</span>    <span class="keywordflow">switch</span> (skill-&gt;<a class="code hl_variable" href="../../d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">categoryId</a>)</div>
+<div class="line"><span class="lineno"> 9708</span>    {</div>
+<div class="line"><span class="lineno"> 9709</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411">SKILL_CATEGORY_ARMOR</a>:</div>
+<div class="line"><span class="lineno"> 9710</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517">SKILL_RANGE_MONO</a>;</div>
+<div class="line"><span class="lineno"> 9711</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a79e1863d69891d47892f384391f85359">SKILL_CATEGORY_LANGUAGES</a>:</div>
+<div class="line"><span class="lineno"> 9712</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169">SKILL_RANGE_LANGUAGE</a>;</div>
+<div class="line"><span class="lineno"> 9713</span>    }</div>
+<div class="line"><span class="lineno"> 9714</span> </div>
+<div class="line"><span class="lineno"> 9715</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd">SKILL_RANGE_LEVEL</a>;</div>
+<div class="line"><span class="lineno"> 9716</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a48f208d73a9f906cf5f8f92d8d885fa9"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a></div><div class="ttdeci">DBCStorage&lt; SkillTiersEntry &gt; sSkillTiersStore(SkillTiersfmt)</div></div>
 <div class="ttc" id="aDBCStores_8cpp_html_ab4bb35cde6511a56d8b9d23f4290f8e7"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a></div><div class="ttdeci">DBCStorage&lt; SkillLineEntry &gt; sSkillLineStore(SkillLinefmt)</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a347be03c72c20860f46f78c9bed72ad4a3cb6651c3e5e2219229f886cd86dd411">SKILL_CATEGORY_ARMOR</a></div><div class="ttdeci">@ SKILL_CATEGORY_ARMOR</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3308</div></div>
@@ -1933,7 +1949,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="astructSkillLineEntry_html"><div class="ttname"><a href="../../d8/d11/structSkillLineEntry.html">SkillLineEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:1583</div></div>
 <div class="ttc" id="astructSkillLineEntry_html_abf285e69e8e2a90626a157cb0c50d158"><div class="ttname"><a href="../../d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">SkillLineEntry::categoryId</a></div><div class="ttdeci">int32 categoryId</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1585</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01585">SkillLineEntry::categoryId</a>, <a class="el" href="../../#l03308">SKILL_CATEGORY_ARMOR</a>, <a class="el" href="../../#l03310">SKILL_CATEGORY_LANGUAGES</a>, <a class="el" href="../../#l00675">SKILL_RANGE_LANGUAGE</a>, <a class="el" href="../../#l00676">SKILL_RANGE_LEVEL</a>, <a class="el" href="../../#l00677">SKILL_RANGE_MONO</a>, <a class="el" href="../../#l00679">SKILL_RANGE_NONE</a>, <a class="el" href="../../#l00678">SKILL_RANGE_RANK</a>, <a class="el" href="../../#l03237">SKILL_RUNEFORGING</a>, <a class="el" href="../../#l01571">SkillRaceClassInfoEntry::SkillID</a>, <a class="el" href="../../#l01576">SkillRaceClassInfoEntry::SkillTierID</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>, and <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01585">SkillLineEntry::categoryId</a>, <a class="el" href="../../#l03308">SKILL_CATEGORY_ARMOR</a>, <a class="el" href="../../#l03310">SKILL_CATEGORY_LANGUAGES</a>, <a class="el" href="../../#l00676">SKILL_RANGE_LANGUAGE</a>, <a class="el" href="../../#l00677">SKILL_RANGE_LEVEL</a>, <a class="el" href="../../#l00678">SKILL_RANGE_MONO</a>, <a class="el" href="../../#l00680">SKILL_RANGE_NONE</a>, <a class="el" href="../../#l00679">SKILL_RANGE_RANK</a>, <a class="el" href="../../#l03237">SKILL_RUNEFORGING</a>, <a class="el" href="../../#l01571">SkillRaceClassInfoEntry::SkillID</a>, <a class="el" href="../../#l01576">SkillRaceClassInfoEntry::SkillTierID</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>, and <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9">sSkillTiersStore</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l13706">Player::_LoadSkills()</a>, <a class="el" href="../../#l11848">Player::LearnDefaultSkill()</a>, and <a class="el" href="../../#l01077">Player::UpdateSkillsForLevel()</a>.</p>
 
@@ -2084,7 +2100,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l10980">ObjectMgr::GetQuestMoneyReward()</a>, and <a class="el" href="../../#l10946">ObjectMgr::LoadQuestMoneyRewards()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l11151">ObjectMgr::GetQuestMoneyReward()</a>, and <a class="el" href="../../#l11117">ObjectMgr::LoadQuestMoneyRewards()</a>.</p>
 
 </div>
 </div>
@@ -2108,7 +2124,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00671">MotionTransport::DoEventIfAny()</a>, <a class="el" href="../../#l00757">FlightPathMovementGenerator::DoEventIfAny()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l01389">Spell::EffectSendEvent()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, <a class="el" href="../../#l06186">ObjectMgr::LoadEventScripts()</a>, and <a class="el" href="../../#l01455">GameObject::Use()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00671">MotionTransport::DoEventIfAny()</a>, <a class="el" href="../../#l00757">FlightPathMovementGenerator::DoEventIfAny()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, <a class="el" href="../../#l01389">Spell::EffectSendEvent()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, <a class="el" href="../../#l06191">ObjectMgr::LoadEventScripts()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
 
 </div>
 </div>
@@ -2132,7 +2148,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00662">Spell::EffectDummy()</a>, <a class="el" href="../../#l03792">Spell::EffectScriptEffect()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, and <a class="el" href="../../#l06158">ObjectMgr::LoadSpellScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00662">Spell::EffectDummy()</a>, <a class="el" href="../../#l03792">Spell::EffectScriptEffect()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, and <a class="el" href="../../#l06163">ObjectMgr::LoadSpellScripts()</a>.</p>
 
 </div>
 </div>
@@ -2156,7 +2172,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, <a class="el" href="../../#l06230">ObjectMgr::LoadWaypointScripts()</a>, and <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00084">GetScriptsMapByType()</a>, <a class="el" href="../../#l06235">ObjectMgr::LoadWaypointScripts()</a>, and <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>.</p>
 
 </div>
 </div>
@@ -2166,7 +2182,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_a12bdf17fc4860c5ac78d8e274fbb711.html">Globals</a></li><li class="navelem"><a class="el" href="../../de/d25/ObjectMgr_8h.html">ObjectMgr.h</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:09:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:56:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

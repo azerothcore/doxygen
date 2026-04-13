@@ -12,6 +12,7 @@ var classConditionMgr =
     [ "GetConditionReferences", "d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61", null ],
     [ "GetConditionsForNotGroupedEntry", "d9/df7/classConditionMgr.html#a590ab6033439469fdde6a3ebfcaa21cb", null ],
     [ "GetConditionsForNpcVendorEvent", "d9/df7/classConditionMgr.html#a6f86dcf2e04de63376659333f5b7acce", null ],
+    [ "GetConditionsForObjectVisibility", "d9/df7/classConditionMgr.html#a629ec771affd24907a6d3b3b82a27457", null ],
     [ "GetConditionsForSmartEvent", "d9/df7/classConditionMgr.html#ac4ee112d1f9c762bf24e247732d69214", null ],
     [ "GetConditionsForSpellClickEvent", "d9/df7/classConditionMgr.html#a8133a3ac114b90d848ea66f9e1b2ebbc", null ],
     [ "GetConditionsForVehicleSpell", "d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef", null ],
@@ -28,6 +29,7 @@ var classConditionMgr =
     [ "ConditionReferenceStore", "d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c", null ],
     [ "ConditionStore", "d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34", null ],
     [ "NpcVendorConditionContainerStore", "d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183", null ],
+    [ "ObjectVisibilityConditionStore", "d9/df7/classConditionMgr.html#a9a9bd1def0e00fe3f325ac8849ff51d5", null ],
     [ "SmartEventConditionStore", "d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5", null ],
     [ "SpellClickEventConditionStore", "d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40", null ],
     [ "VehicleSpellConditionStore", "d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1", null ]

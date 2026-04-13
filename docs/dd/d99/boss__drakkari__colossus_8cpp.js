@@ -20,8 +20,6 @@ var boss__drakkari__colossus_8cpp =
       [ "EMOTE_ALTAR", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7067586544d8212d7442abdb0e584991", null ],
       [ "EVENT_COLOSSUS_MIGHTY_BLOW", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e4466db7bb032cf5e1f9979d4817822", null ],
       [ "EVENT_COLOSSUS_MORTAL_STRIKE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4dfa6bd980a216f470e3d71894ead0ef", null ],
-      [ "EVENT_COLOSSUS_HEALTH_1", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de18eae43b5a92eb6d1b396dc212f38", null ],
-      [ "EVENT_COLOSSUS_HEALTH_2", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a38958b9da0b2edfc8de6afbbc031a775", null ],
       [ "EVENT_COLOSSUS_START_FIGHT", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7f30f5390c892fb583e78d131e494b44", null ],
       [ "EVENT_ELEMENTAL_HEALTH", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0cee60179bf7f259eaa21e30d6386cb7", null ],
       [ "EVENT_ELEMENTAL_SURGE", "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac5380b27c722045bcb229f93f0d57e05", null ],

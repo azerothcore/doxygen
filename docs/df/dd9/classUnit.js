@@ -853,7 +853,7 @@ var classUnit =
     [ "SpellHitResult", "df/dd9/classUnit.html#aa965ffc2869aa61458fded9dfbd89768", null ],
     [ "SpellHitResult", "df/dd9/classUnit.html#a8698eb184506578c00250d3c4c352722", null ],
     [ "SpellPctDamageModsDone", "df/dd9/classUnit.html#ab8fb7aa2acf87e3b95ac9a8daf5dbaee", null ],
-    [ "SpellPctHealingModsDone", "df/dd9/classUnit.html#ab2bce497cf360520a4c41d4949969f9c", null ],
+    [ "SpellPctHealingModsDone", "df/dd9/classUnit.html#a55be2ad763158f92c6cff801fa92b584", null ],
     [ "SpellTakenCritChance", "df/dd9/classUnit.html#a19b843f2c35e489dbaf84213288e1bbe", null ],
     [ "StartReactiveTimer", "df/dd9/classUnit.html#a505a85c0031f39293d5ffe5c9cb19abb", null ],
     [ "StopAttackFaction", "df/dd9/classUnit.html#aa655b9b66c027ff7a6e2f1775cc2dfd8", null ],

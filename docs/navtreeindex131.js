@@ -1,5 +1,6 @@
 var NAVTREEINDEX131 =
 {
+"d4/d7b/boss__nefarian_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,1,2,6,18,8],
 "d4/d7b/boss__nefarian_8cpp.html#a16774215bba3b38580ea51987d64cff1a06a7344ff72398739d19d95bee473341":[7,0,0,0,1,3,2,1,2,6,18,15],
 "d4/d7b/boss__nefarian_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ee0471392800d25c769ea0e30a19599":[7,0,0,0,1,3,2,1,2,6,18,9],
 "d4/d7b/boss__nefarian_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b228dd40042e071d7361a714d0fcdf5":[7,0,0,0,1,3,2,1,2,6,18,0],
@@ -121,11 +122,11 @@ var NAVTREEINDEX131 =
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afcbb7437b86fca94c0376a3d4cf7828e":[7,0,0,0,1,3,2,1,2,6,13,3],
 "d4/d7b/boss__nefarian_8cpp.html#af8d9afadcad7e22c3425cd8a8b6b4cdd":[7,0,0,0,1,3,2,1,2,6,25],
 "d4/d7b/boss__nefarian_8cpp.html#affa40416301c343cadd80599db0e9179":[7,0,0,0,1,3,2,1,2,6,27],
-"d4/d7b/classspell__bloodspore__haze.html":[6,0,2697],
-"d4/d7b/classspell__bloodspore__haze.html#a017ae25fead98a5c18cdb83128085ddd":[6,0,2697,2],
-"d4/d7b/classspell__bloodspore__haze.html#a49b6d005013e480f8161779119bc9b2d":[6,0,2697,1],
-"d4/d7b/classspell__bloodspore__haze.html#a8d7dd2411c3b786e682260eb30862602":[6,0,2697,0],
-"d4/d7b/classspell__bloodspore__haze.html#a9e1dbc7714a35bcc7ec26286419517c2":[6,0,2697,3],
+"d4/d7b/classspell__bloodspore__haze.html":[6,0,2698],
+"d4/d7b/classspell__bloodspore__haze.html#a017ae25fead98a5c18cdb83128085ddd":[6,0,2698,2],
+"d4/d7b/classspell__bloodspore__haze.html#a49b6d005013e480f8161779119bc9b2d":[6,0,2698,1],
+"d4/d7b/classspell__bloodspore__haze.html#a8d7dd2411c3b786e682260eb30862602":[6,0,2698,0],
+"d4/d7b/classspell__bloodspore__haze.html#a9e1dbc7714a35bcc7ec26286419517c2":[6,0,2698,3],
 "d4/d7d/classspell__pri__blessed__recovery.html":[6,0,3771],
 "d4/d7d/classspell__pri__blessed__recovery.html#ac65d59f4632194120b58b34561f2c812":[6,0,3771,0],
 "d4/d7d/classspell__pri__blessed__recovery.html#ac9ab849c618fb1172dbde50876a4f5f3":[6,0,3771,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca689516b00493da43004464d9dc3fd8f6":[7,0,0,0,1,3,5,2,1,1,58,2],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca9cc7fcd2607b62dc47019c24f44a2463":[7,0,0,0,1,3,5,2,1,1,58,5],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,5,2,1,1,58,3],
-"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00ea":[7,0,0,0,1,3,5,2,1,1,64],
-"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00eaa224d41981eead3a852d629c3d9a3c734":[7,0,0,0,1,3,5,2,1,1,64,1]
+"d4/d81/boss__faction__champions_8cpp.html#a2fbf88ccf0cf156e32ddc684813d00ea":[7,0,0,0,1,3,5,2,1,1,64]
 };

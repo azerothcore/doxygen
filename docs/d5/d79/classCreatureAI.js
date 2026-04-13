@@ -32,6 +32,7 @@ var classCreatureAI =
     [ "GetSummoner", "d5/d79/classCreatureAI.html#a64328d924deddb3b54b185448bd9793b", null ],
     [ "IsEngaged", "d5/d79/classCreatureAI.html#a2cd6b0fae96bbe1d547274d40d1fb586", null ],
     [ "IsEscorted", "d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4", null ],
+    [ "IsEscortNPC", "d5/d79/classCreatureAI.html#a5dc33b6a9106d1661b9d816558c48e62", null ],
     [ "IsInBoundary", "d5/d79/classCreatureAI.html#aded3c4896ed48811d276b356b9468b00", null ],
     [ "IsInBounds", "d5/d79/classCreatureAI.html#a39a72debf9a7ab05cd350c08eb463180", null ],
     [ "IsSummonedBy", "d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94", null ],

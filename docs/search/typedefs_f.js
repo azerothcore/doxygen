@@ -7,8 +7,9 @@ var searchData=
   ['objectstatemap_4',['ObjectStateMap',['../db/d8e/InstanceScript_8h.html#a4edbb4a71661ac569a73338c83672f9d',1,'InstanceScript.h']]],
   ['objectvector_5',['ObjectVector',['../d1/dc3/SmartScriptMgr_8h.html#a3d080db7fa99da7af5bcaa7720f359d1',1,'SmartScriptMgr.h']]],
   ['objectvectormap_6',['ObjectVectorMap',['../d1/dc3/SmartScriptMgr_8h.html#a4e256f4902621505887f00c228211f51',1,'SmartScriptMgr.h']]],
-  ['opcodeclient_7',['OpcodeClient',['../d2/dec/group__u2w.html#ga168cceac84af6c8197247537b103c659',1,'Opcodes.h']]],
-  ['opcodeserver_8',['OpcodeServer',['../d2/dec/group__u2w.html#ga643cacce939fa0e688fe54ada4988ca5',1,'Opcodes.h']]],
-  ['optional_9',['Optional',['../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82',1,'Optional.h']]],
-  ['opvpcapturepointmap_10',['OPvPCapturePointMap',['../d2/dd6/classOutdoorPvP.html#a3181c871a9c02ffdcce2fdc579481038',1,'OutdoorPvP']]]
+  ['objectvisibilityconditioncontainer_7',['ObjectVisibilityConditionContainer',['../de/d5f/ConditionMgr_8h.html#a334c2cad24259cfc763a4f31c44dadb6',1,'ConditionMgr.h']]],
+  ['opcodeclient_8',['OpcodeClient',['../d2/dec/group__u2w.html#ga168cceac84af6c8197247537b103c659',1,'Opcodes.h']]],
+  ['opcodeserver_9',['OpcodeServer',['../d2/dec/group__u2w.html#ga643cacce939fa0e688fe54ada4988ca5',1,'Opcodes.h']]],
+  ['optional_10',['Optional',['../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82',1,'Optional.h']]],
+  ['opvpcapturepointmap_11',['OPvPCapturePointMap',['../d2/dd6/classOutdoorPvP.html#a3181c871a9c02ffdcce2fdc579481038',1,'OutdoorPvP']]]
 ];

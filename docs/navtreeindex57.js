@@ -1,5 +1,7 @@
 var NAVTREEINDEX57 =
 {
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d165814197a5f6d1363759f81de9c01":[7,0,0,0,1,3,7,5,0,4,1,3],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55a4d8d2195d3da662a32820222f395e":[7,0,0,0,1,3,7,5,0,4,1,2],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55cee0313eef4b9057384ee25d43b745":[7,0,0,0,1,3,7,5,0,4,1,6],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56f294ddea7a1c6ad5f2ec6d59c407cb":[7,0,0,0,1,3,7,5,0,4,1,8],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bb4524fb9c690612847210c57c384da":[7,0,0,0,1,3,7,5,0,4,1,7],
@@ -46,8 +48,8 @@ var NAVTREEINDEX57 =
 "d2/d3f/classActivePoolData.html#ab64e67ec373ca97edab12662190e36c5":[6,0,129,20],
 "d2/d3f/classActivePoolData.html#ac06d473e60ddb91e027dabbd64d64961":[6,0,129,4],
 "d2/d3f/classActivePoolData.html#ac23fc621fc12c77718d5a1b9b9d928c4":[6,0,129,2],
-"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,129,13],
 "d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,129,12],
+"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[6,0,129,13],
 "d2/d3f/classActivePoolData.html#ae4e61f0da2ed8848c3afced7af36e761":[6,0,129,19],
 "d2/d3f/classActivePoolData.html#ae5973d0bb86a4477a3471579c5697d51":[6,0,129,6],
 "d2/d3f/classActivePoolData.html#ae6cf482063504094ce47271cf8097001":[6,0,129,10],
@@ -130,11 +132,11 @@ var NAVTREEINDEX57 =
 "d2/d43/classMovementHandlerScript.html":[6,0,1559],
 "d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[6,0,1559,1],
 "d2/d43/classMovementHandlerScript.html#aeeeb5fe81eebc04fc317e726782be3ab":[6,0,1559,0],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html":[6,0,2678],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html#a070e0dacb457d7dc0bd61594f0ed6d83":[6,0,2678,0],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html#ac30073d35c40385a24b694012776391e":[6,0,2678,1],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html#ae66eceece2812aee47acb386735f50a0":[6,0,2678,2],
-"d2/d43/classspell__black__temple__wyvern__sting__aura.html#af26c0361e6b7e480f59563d8630d6736":[6,0,2678,3],
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html":[6,0,2679],
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html#a070e0dacb457d7dc0bd61594f0ed6d83":[6,0,2679,0],
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html#ac30073d35c40385a24b694012776391e":[6,0,2679,1],
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html#ae66eceece2812aee47acb386735f50a0":[6,0,2679,2],
+"d2/d43/classspell__black__temple__wyvern__sting__aura.html#af26c0361e6b7e480f59563d8630d6736":[6,0,2679,3],
 "d2/d45/classOutdoorPvPScript.html":[6,0,2364],
 "d2/d45/classOutdoorPvPScript.html#aa213974f384c88ab65f7b7308dadb026":[6,0,2364,1],
 "d2/d45/classOutdoorPvPScript.html#ac22c6a9945738270452848f997d2818f":[6,0,2364,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d48/classChannel.html#a88613805399ac31b34aa4b4440d097c1":[6,0,862,92],
 "d2/d48/classChannel.html#a8aa51c10cb44698e1dcec5a6a3560534":[6,0,862,96],
 "d2/d48/classChannel.html#a8cf7e6224ec26b92eefb288e7527c9fe":[6,0,862,91],
-"d2/d48/classChannel.html#a8e17c3e2fcdc3263df462ff431ea6466":[6,0,862,107],
-"d2/d48/classChannel.html#a9092fa951905d666a7726ca7d7ec1a06":[6,0,862,10],
-"d2/d48/classChannel.html#a92c222b10b9d6bf26199598a4f19b0ca":[6,0,862,108]
+"d2/d48/classChannel.html#a8e17c3e2fcdc3263df462ff431ea6466":[6,0,862,107]
 };

@@ -177,6 +177,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a8fee035f2cd3ed05f46f6ab042cd50 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI" id="r_a18697bb982e25e72f50eac5aa56c7d33"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33">CanRespawn</a> ()</td></tr>
 <tr class="separator:a18697bb982e25e72f50eac5aa56c7d33 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI" id="r_a5dc33b6a9106d1661b9d816558c48e62"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a5dc33b6a9106d1661b9d816558c48e62">IsEscortNPC</a> (bool=true) const</td></tr>
+<tr class="separator:a5dc33b6a9106d1661b9d816558c48e62 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI" id="r_a15f691c9137273cd5c3d5ba6f0762300"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">JustEngagedWith</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</td></tr>
 <tr class="memdesc:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat.  <br /></td></tr>
 <tr class="separator:a15f691c9137273cd5c3d5ba6f0762300 inherit pub_methods_classCreatureAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -484,10 +486,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1455</span>        }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:566</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
-<div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:99</div></div>
+<div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:100</div></div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, and <a class="el" href="../../#l00099">Creature::SetReactState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, and <a class="el" href="../../#l00100">Creature::SetReactState()</a>.</p>
 
 </div>
 </div>
@@ -555,7 +557,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d40/classnpc__zafod__boombox.html">npc_zafod_boombox</a></li><li class="navelem"><a class="el" href="../../df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html">npc_zafod_boomboxAI</a></li>
-    <li class="footer">Generated on Sun Apr 12 2026 07:10:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 13 2026 07:57:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

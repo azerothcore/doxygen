@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a001c2a4c5e2e7c1bca093b41d0d9a9a4":[7,0,0,0,1,3,7,5,2,2,23,52],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a010179420f63eb8ffee8d13cd53dc345":[7,0,0,0,1,3,7,5,2,2,23,37],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a0cbee22e8f55d9fe60ee5d35cec39822":[7,0,0,0,1,3,7,5,2,2,23,4],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a16a7126b2acd565a139e058cf6488644":[7,0,0,0,1,3,7,5,2,2,23,36],
@@ -100,16 +101,16 @@ var NAVTREEINDEX129 =
 "d4/d67/classMovement_1_1counter.html":[5,0,22,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,22,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,22,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
-"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,22,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,22,1,0],
+"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,22,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,22,1,2],
-"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,22,1,1],
+"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1224],
 "d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[6,0,1224,1],
 "d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[6,0,1224,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d6e/classspell__sunwell__teleport.html#a6c61c9bb6cb5737469686a7976207f1d":[6,0,4122,0],
 "d4/d6e/classspell__sunwell__teleport.html#afc3c927b4bd5ec19074a0ee6d59783f2":[6,0,4122,2],
 "d4/d6e/structnpc__creature__generator__akama.html":[6,0,1734],
-"d4/d6e/structnpc__creature__generator__akama.html#a01efeecd374056da287e4a1e468472b6":[6,0,1734,1],
-"d4/d6e/structnpc__creature__generator__akama.html#a02d8acace195438fe6e8d4705a043078":[6,0,1734,7]
+"d4/d6e/structnpc__creature__generator__akama.html#a01efeecd374056da287e4a1e468472b6":[6,0,1734,1]
 };
