@@ -15,5 +15,6 @@ var ChatCommandTags_8h =
     [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "d6/dc1/ChatCommandTags_8h.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
     [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "d6/dc1/ChatCommandTags_8h.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
     [ "EXACT_SEQUENCE", "d6/dc1/ChatCommandTags_8h.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
+    [ "format_as", "d6/dc1/ChatCommandTags_8h.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
     [ "GetChar", "d6/dc1/ChatCommandTags_8h.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
 ];

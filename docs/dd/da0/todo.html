@@ -248,8 +248,8 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../de/d1c/classGameObject.html#af7301d48623a8b169565a540ae42fdf5">GameObject::ModifyHealth</a>  (int32 change, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *attackerOrHealer=nullptr, uint32 spellId=0)</dt>
 <dd><a class="anchor" id="_todo000037"></a>: is there any packet for healing?  </dd>
 <dt>Member <a class="el" href="../../de/d1c/classGameObject.html#ae38c7dd568ca56e2736bd0bb1c89ed8b">GameObject::Update</a>  (uint32 p_time) override</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000036"></a>Move activated state code to GO_ACTIVATED, in this place just check for activation and set state. </p>
-<p class="interdd"><a class="anchor" id="_todo000035"></a></p>
+<dd><p class="startdd"><a class="anchor" id="_todo000035"></a></p>
+<p class="interdd"><a class="anchor" id="_todo000036"></a>Move activated state code to GO_ACTIVATED, in this place just check for activation and set state. </p>
 <p class="enddd"><a class="anchor" id="_todo000034"></a>This is activation radius. Casting radius must be selected from spell data.  </p>
 </dd>
 <dt>Member <a class="el" href="../../db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038">Garments</a>  </dt>
@@ -343,8 +343,8 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d3/d93/classPathGenerator.html#acb82526eba306633683bcced07258c2a">PathGenerator::BuildPointPath</a>  (float const *startPoint, float const *endPoint)</dt>
 <dd><a class="anchor" id="_todo000096"></a>check the exact cases  </dd>
 <dt>Member <a class="el" href="../../d3/d93/classPathGenerator.html#a9b2aabc098350fbaa706a9f665a90290">PathGenerator::BuildPolyPath</a>  (G3D::Vector3 const &amp;startPos, G3D::Vector3 const &amp;endPos)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000095"></a>play with the values here </p>
-<p class="enddd"><a class="anchor" id="_todo000094"></a>we can merge it with getPathPolyByPosition() loop  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000094"></a>we can merge it with getPathPolyByPosition() loop </p>
+<p class="enddd"><a class="anchor" id="_todo000095"></a>play with the values here  </p>
 </dd>
 <dt>Member <a class="el" href="../../df/d14/classPet.html#a6628391579f132dd36b5e8af5ea97f12">Pet::LoadPetFromDB</a>  (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *owner, uint32 petEntry, uint32 petnumber, bool current, uint32 healthPct=0, bool fullMana=false)</dt>
 <dd><a class="anchor" id="_todo000041"></a>pets should be summoned from real cast instead of just faking it?  </dd>
@@ -377,12 +377,14 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#ab0a89fbfeb233f45420d3b7ff016ada6">Player::UpdateFFAPvPState</a>  (bool reset=true)</dt>
 <dd><a class="anchor" id="_todo000057"></a>: should we always synchronize UNIT_FIELD_BYTES_2, 1 of controller  </dd>
 <dt>Member <a class="el" href="../../d9/d98/classPlayerDumpWriter.html#a17457008e1262c0aed284469e55841c6">PlayerDumpWriter::GetDump</a>  (<a class="el" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid, std::string &amp;dump)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000153"></a></p>
-<p class="interdd"><a class="anchor" id="_todo000154"></a>Add a dump level option to skip some non-important tables </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000154"></a>Add a dump level option to skip some non-important tables </p>
+<p class="interdd"><a class="anchor" id="_todo000153"></a></p>
 <p class="enddd"><a class="anchor" id="_todo000152"></a>Add instance/group..  </p>
 </dd>
 <dt>Member <a class="el" href="../../da/dbe/classPointMovementGenerator.html#af9e5b0c6f330f1a8e6382556d4c719f0">PointMovementGenerator&lt; T &gt;::DoInitialize</a>  (T *)</dt>
 <dd><a class="anchor" id="_todo000097"></a>: rename this flag to something more appropriate since it is set to true even without speed change now.  </dd>
+<dt>Member <a class="el" href="../../d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177">PortalEvents</a>  </dt>
+<dd><a class="anchor" id="_todo000191"></a>: Missing Sinclari Trigger announcements (32204) Look at its creature_text for more info.  </dd>
 <dt>Member <a class="el" href="../../dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9">PosSummonSpawner</a>  [3]</dt>
 <dd><a class="anchor" id="_todo000166"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d0/dad/classPreparedResultSet.html#a37e10b7cfcd2a496c95a0bc49b912f62">PreparedResultSet::PreparedResultSet</a>  (<a class="el" href="../../d5/d63/structMySQLStmt.html">MySQLStmt</a> *stmt, <a class="el" href="../../dc/da1/structMySQLResult.html">MySQLResult</a> *result, uint64 rowCount, uint32 fieldCount)</dt>
@@ -406,24 +408,24 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d0/d1f/classSmartScript.html#a3f4e9d30383be0d559dc224179df076e">SmartScript::SmartScript</a>  ()</dt>
 <dd><a class="anchor" id="_todo000014"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#aa03328d3cd0d04d923500dd2d801be2d">Spell::AddUnitTarget</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *target, uint32 effectMask, bool checkIfValid=true, bool implicit=true)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000121"></a>: this is a hack </p>
-<p class="enddd"><a class="anchor" id="_todo000122"></a>: seduction should be casted only on humanoids (not demons)  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000122"></a>: seduction should be casted only on humanoids (not demons) </p>
+<p class="enddd"><a class="anchor" id="_todo000121"></a>: this is a hack  </p>
 </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#ad881b64f25523dcc660475e7c0180e5e">Spell::CheckCast</a>  (bool strict, uint32 *param1=nullptr, uint32 *param2=nullptr)</dt>
 <dd><a class="anchor" id="_todo000127"></a>: determine if there is some flag to enable/disable the check  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#a94b9d3dd0ca28b8c6e14d33beeeb1c77">Spell::CheckEffectTarget</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target, uint32 eff) const</dt>
 <dd><a class="anchor" id="_todo000130"></a>: below shouldn't be here, but it's temporary  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#ad874ca57657bed47527a38aa2c98f701">Spell::CheckItems</a>  (uint32 *param1=nullptr, uint32 *param2=nullptr)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000128"></a>Needs review </p>
-<p class="enddd"><a class="anchor" id="_todo000129"></a>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked.  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000129"></a>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked. </p>
+<p class="enddd"><a class="anchor" id="_todo000128"></a>Needs review  </p>
 </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#afecdd65c73b267d8cb2b9525bed5f851">Spell::DoAllEffectOnTarget</a>  (<a class="el" href="../../db/de6/structTargetInfo.html">TargetInfo</a> *target)</dt>
 <dd><a class="anchor" id="_todo000123"></a>: check how broad this rule should be  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#a9e7303d514d8049b1ad037e0494735ba">Spell::DoSpellHitOnUnit</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit, uint32 effectMask, bool scaleAura)</dt>
 <dd><a class="anchor" id="_todo000124"></a>: this cause soul transfer bugged  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#af8a30a5113889306c0203f4a4298080f">Spell::DoTriggersOnSpellHit</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *unit, uint8 effMask)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000126"></a>: remove/cleanup this, as this table is not documented and people are doing stupid things with it </p>
-<p class="enddd"><a class="anchor" id="_todo000125"></a>: move this code to scripts  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000125"></a>: move this code to scripts </p>
+<p class="enddd"><a class="anchor" id="_todo000126"></a>: remove/cleanup this, as this table is not documented and people are doing stupid things with it  </p>
 </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#a8168f4dc6b6f422852dac9a1abdcb98c">Spell::EffectCreateItem2</a>  (SpellEffIndex effIndex)</dt>
 <dd><a class="anchor" id="_todo000138"></a>: ExecuteLogEffectCreateItem(i, m_spellInfo-&gt;Effects[i].ItemType);  </dd>
@@ -535,8 +537,6 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dd><a class="anchor" id="_todo000232"></a>: NYI 13 spells in 3.0.3, mostly controllable  </dd>
 <dt>Member <a class="el" href="../../d4/d2a/FormulasTest_8cpp.html#ac23831b7258f696b9e9a4972c42b5a4c">TEST</a>  (FormulasTest, Gain)</dt>
 <dd><a class="anchor" id="_todo000254"></a>: create mocks of <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> and <a class="el" href="../../db/dd5/classCreature.html">Creature</a>  </dd>
-<dt>Member <a class="el" href="../../d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31">Texts</a>  </dt>
-<dd><a class="anchor" id="_todo000191"></a>: Missing Sinclari Trigger announcements (32204) Look at its creature_text for more info.  </dd>
 <dt>Member <a class="el" href="../../d6/da9/classTotemAI.html#a75a0cdb27da98b47cf3ccbd2e594cd18">TotemAI::Permissible</a>  (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> const *creature)</dt>
 <dd><a class="anchor" id="_todo000010"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d5/ddd/classTransportMgr.html#afff76c3893f5a76d83d48f0074e77349">TransportMgr::SpawnContinentTransports</a>  ()</dt>
@@ -628,7 +628,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Apr 14 2026 07:25:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Apr 15 2026 07:25:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

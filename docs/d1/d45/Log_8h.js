@@ -3,7 +3,6 @@ var Log_8h =
     [ "Log", "d0/d77/classLog.html", "d0/d77/classLog" ],
     [ "LOG_DEBUG", "d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161", null ],
     [ "LOG_ERROR", "d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_EXCEPTION_FREE", "d1/d45/Log_8h.html#aa30f9aa89655372730e1d6fec2e40c5e", null ],
     [ "LOG_FATAL", "d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
     [ "LOG_GM", "d1/d45/Log_8h.html#aeeb132f13796dfa459eb05386acff8fe", null ],
     [ "LOG_INFO", "d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419", null ],

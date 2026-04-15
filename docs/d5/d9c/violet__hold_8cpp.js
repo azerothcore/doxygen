@@ -1,7 +1,5 @@
 var violet__hold_8cpp =
 [
-    [ "go_vh_activation_crystal", "d8/d92/classgo__vh__activation__crystal.html", "d8/d92/classgo__vh__activation__crystal" ],
-    [ "npc_vh_sinclari", "d3/dd8/classnpc__vh__sinclari.html", "d3/dd8/classnpc__vh__sinclari" ],
     [ "npc_vh_teleportation_portal", "d9/d6d/structnpc__vh__teleportation__portal.html", "d9/d6d/structnpc__vh__teleportation__portal" ],
     [ "violet_hold_trashAI", "df/ddb/structviolet__hold__trashAI.html", "df/ddb/structviolet__hold__trashAI" ],
     [ "npc_azure_invader", "d2/d27/structnpc__azure__invader.html", "d2/d27/structnpc__azure__invader" ],
@@ -106,15 +104,6 @@ var violet__hold_8cpp =
     ] ],
     [ "StalkerEvents", "d5/d9c/violet__hold_8cpp.html#a0f792309511e4c2acaa38c7c4cacacbc", [
       [ "EVENT_STALKER_BACKSTAB", "d5/d9c/violet__hold_8cpp.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f", null ]
-    ] ],
-    [ "Texts", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
-      [ "GOSSIP_MENU_START_1", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a83bd642e6c2dedeeafbca644269a4210", null ],
-      [ "GOSSIP_MENU_START_2", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4fcb437e117f369cbe28ea394d68ec9e", null ],
-      [ "GOSSIP_MENU_LATE_JOIN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20da3630df21a8f4a9c71a03e19c7e00", null ],
-      [ "NPC_TEXT_SINCLARI_IN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af8db7bb923ce369bbe25951c07031f85", null ],
-      [ "NPC_TEXT_SINCLARI_START", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e1a7fcbb09e28085ad3476b6a1f390b", null ],
-      [ "NPC_TEXT_SINCLARI_DONE", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac5fd8cbccadc817d35683bb72b36df61", null ],
-      [ "NPC_TEXT_SINCLARI_LATE_JOIN", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3fce9f72975cbf4670608759f1c559f7", null ]
     ] ],
     [ "AddSC_violet_hold", "d5/d9c/violet__hold_8cpp.html#a11e49713c62a5c479f14ca4d3e845eab", null ]
 ];

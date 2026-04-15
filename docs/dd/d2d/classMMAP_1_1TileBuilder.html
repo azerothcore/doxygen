@@ -586,7 +586,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  862</span>            }</div>
 <div class="line"><span class="lineno">  863</span> </div>
 <div class="line"><span class="lineno">  864</span>            <span class="comment">// file output</span></div>
-<div class="line"><span class="lineno">  865</span>            <span class="keyword">const</span> std::string fileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(</div>
+<div class="line"><span class="lineno">  865</span>            <span class="keyword">const</span> std::string fileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(</div>
 <div class="line"><span class="lineno">  866</span>                <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>,</div>
 <div class="line"><span class="lineno">  867</span>                <a class="code hl_variable" href="../../dd/d2d/classMMAP_1_1TileBuilder.html#aa83fbc484835a6d1a4c7bf6201b46639">m_mapBuilder</a>-&gt;<a class="code hl_function" href="../../d4/dab/classMMAP_1_1MapBuilder.html#a905fc989db730461084213d374fe69b5">getConfig</a>().<a class="code hl_function" href="../../d8/da7/classMMAP_1_1Config.html#a33af3e24e093e879164fe46175f4576d">DataDirPath</a>(),</div>
 <div class="line"><span class="lineno">  868</span>                mapID, tileY, tileX</div>
@@ -639,7 +639,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassMMAP_1_1Config_html_a1a69b4ed8e98cac54008e35743901416"><div class="ttname"><a href="../../d8/da7/classMMAP_1_1Config.html#a1a69b4ed8e98cac54008e35743901416">MMAP::Config::GetConfigForTile</a></div><div class="ttdeci">ResolvedMeshConfig GetConfigForTile(uint32 mapID, uint32 tileX, uint32 tileY) const</div><div class="ttdef"><b>Definition</b> Config.cpp:75</div></div>
 <div class="ttc" id="aclassMMAP_1_1MapBuilder_html_a4147f9fc154605cd86f2260f38688af6"><div class="ttname"><a href="../../d4/dab/classMMAP_1_1MapBuilder.html#a4147f9fc154605cd86f2260f38688af6">MMAP::MapBuilder::getRecastConfig</a></div><div class="ttdeci">rcConfig getRecastConfig(const ResolvedMeshConfig &amp;cfg, float bmin[3], float bmax[3]) const</div><div class="ttdef"><b>Definition</b> MapBuilder.cpp:1063</div></div>
 <div class="ttc" id="aclassMMAP_1_1TerrainBuilder_html_ab869d655ea5cb7f9d32dff63ed4df779"><div class="ttname"><a href="../../d3/dfe/classMMAP_1_1TerrainBuilder.html#ab869d655ea5cb7f9d32dff63ed4df779">MMAP::TerrainBuilder::usesLiquids</a></div><div class="ttdeci">bool usesLiquids() const</div><div class="ttdef"><b>Definition</b> TerrainBuilder.h:88</div></div>
-<div class="ttc" id="anamespaceAcore_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
+<div class="ttc" id="anamespaceAcore_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
 <div class="ttc" id="anamespaceMMAP_html_a16e4fdf7de4239156a5a8eb83dcc9e8c"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c">MMAP::GRID_SIZE</a></div><div class="ttdeci">static const float GRID_SIZE</div><div class="ttdef"><b>Definition</b> TerrainBuilder.h:48</div></div>
 <div class="ttc" id="anamespaceMMAP_html_a27e34ce3b8808f2aa889e5c4e623059a"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a">MMAP::TILE_FILE_NAME_FORMAT</a></div><div class="ttdeci">static char const  *const TILE_FILE_NAME_FORMAT</div><div class="ttdef"><b>Definition</b> MMapMgr.h:49</div></div>
 <div class="ttc" id="astructMMAP_1_1ResolvedMeshConfig_html_a14a858b17d96f6d5945ecfa77bc0fb00"><div class="ttname"><a href="../../de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00">MMAP::ResolvedMeshConfig::tilesPerMapEdge</a></div><div class="ttdeci">int tilesPerMapEdge</div><div class="ttdef"><b>Definition</b> Config.h:51</div></div>
@@ -790,7 +790,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1036</span>    {</div>
-<div class="line"><span class="lineno"> 1037</span>        <span class="keyword">const</span> std::string fileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(</div>
+<div class="line"><span class="lineno"> 1037</span>        <span class="keyword">const</span> std::string fileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(</div>
 <div class="line"><span class="lineno"> 1038</span>            <a class="code hl_variable" href="../../de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a>,</div>
 <div class="line"><span class="lineno"> 1039</span>            <a class="code hl_variable" href="../../dd/d2d/classMMAP_1_1TileBuilder.html#aa83fbc484835a6d1a4c7bf6201b46639">m_mapBuilder</a>-&gt;<a class="code hl_function" href="../../d4/dab/classMMAP_1_1MapBuilder.html#a905fc989db730461084213d374fe69b5">getConfig</a>().<a class="code hl_function" href="../../d8/da7/classMMAP_1_1Config.html#a33af3e24e093e879164fe46175f4576d">DataDirPath</a>(),</div>
 <div class="line"><span class="lineno"> 1040</span>            mapID, tileY, tileX</div>
@@ -1029,7 +1029,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li><li class="navelem"><a class="el" href="../../dd/d2d/classMMAP_1_1TileBuilder.html">TileBuilder</a></li>
-    <li class="footer">Generated on Tue Apr 14 2026 07:26:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Apr 15 2026 07:26:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -514,7 +514,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  204</span>    {</div>
-<div class="line"><span class="lineno">  205</span>        std::string objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(</div>
+<div class="line"><span class="lineno">  205</span>        std::string objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(</div>
 <div class="line"><span class="lineno">  206</span>            <span class="stringliteral">&quot;{}/meshes/map{:03}{:02}{:02}.obj&quot;</span>,</div>
 <div class="line"><span class="lineno">  207</span>            dataPath,</div>
 <div class="line"><span class="lineno">  208</span>            mapID, tileY, tileX</div>
@@ -554,7 +554,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  242</span>        sprintf(tileString, <span class="stringliteral">&quot;[%02u,%02u]: &quot;</span>, tileY, tileX);</div>
 <div class="line"><span class="lineno">  243</span>        printf(<span class="stringliteral">&quot;%sWriting debug output...                       \r&quot;</span>, tileString);</div>
 <div class="line"><span class="lineno">  244</span> </div>
-<div class="line"><span class="lineno">  245</span>        objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(</div>
+<div class="line"><span class="lineno">  245</span>        objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(</div>
 <div class="line"><span class="lineno">  246</span>            <span class="stringliteral">&quot;{}/meshes/{:03}.map&quot;</span>,</div>
 <div class="line"><span class="lineno">  247</span>            dataPath,</div>
 <div class="line"><span class="lineno">  248</span>            mapID</div>
@@ -573,7 +573,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  261</span>        fwrite(&amp;b, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), 1, objFile);</div>
 <div class="line"><span class="lineno">  262</span>        fclose(objFile);</div>
 <div class="line"><span class="lineno">  263</span> </div>
-<div class="line"><span class="lineno">  264</span>        objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(</div>
+<div class="line"><span class="lineno">  264</span>        objFileName = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(</div>
 <div class="line"><span class="lineno">  265</span>            <span class="stringliteral">&quot;{}/meshes/{:03}{:02}{:02}.mesh&quot;</span>,</div>
 <div class="line"><span class="lineno">  266</span>            dataPath,</div>
 <div class="line"><span class="lineno">  267</span>            mapID, tileY, tileX</div>
@@ -599,7 +599,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  287</span>        fclose(objFile);</div>
 <div class="line"><span class="lineno">  288</span>    }</div>
 <div class="ttc" id="aclassMMAP_1_1TerrainBuilder_html_a8d5bfc11e790aae74d7b81fb7db27061"><div class="ttname"><a href="../../d3/dfe/classMMAP_1_1TerrainBuilder.html#a8d5bfc11e790aae74d7b81fb7db27061">MMAP::TerrainBuilder::copyIndices</a></div><div class="ttdeci">static void copyIndices(std::vector&lt; VMAP::MeshTriangle &gt; &amp;source, G3D::Array&lt; int &gt; &amp;dest, int offest, bool flip)</div><div class="ttdef"><b>Definition</b> TerrainBuilder.cpp:856</div></div>
-<div class="ttc" id="anamespaceAcore_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
+<div class="ttc" id="anamespaceAcore_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00856">MMAP::TerrainBuilder::copyIndices()</a>, <a class="el" href="../../#l00065">MMAP::MeshData::liquidTris</a>, <a class="el" href="../../#l00064">MMAP::MeshData::liquidVerts</a>, <a class="el" href="../../#l00062">MMAP::MeshData::solidTris</a>, <a class="el" href="../../#l00061">MMAP::MeshData::solidVerts</a>, and <a class="el" href="../../#l00044">Acore::StringFormat()</a>.</p>
 
@@ -786,7 +786,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li><li class="navelem"><a class="el" href="../../de/d79/structMMAP_1_1IntermediateValues.html">IntermediateValues</a></li>
-    <li class="footer">Generated on Tue Apr 14 2026 07:26:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Apr 15 2026 07:26:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

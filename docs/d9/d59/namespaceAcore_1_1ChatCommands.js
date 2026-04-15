@@ -14,6 +14,7 @@ var namespaceAcore_1_1ChatCommands =
       [ "No", "d9/d59/namespaceAcore_1_1ChatCommands.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
       [ "Yes", "d9/d59/namespaceAcore_1_1ChatCommands.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
     ] ],
+    [ "format_as", "d9/d59/namespaceAcore_1_1ChatCommands.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
     [ "GetAutoCompletionsFor", "d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
     [ "InvalidateCommandMap", "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe", null ],
     [ "LoadCommandMap", "d9/d59/namespaceAcore_1_1ChatCommands.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
