@@ -1616,7 +1616,7 @@ var searchData=
   ['hashtrait_3c_20gameobjectmodel_20_3e_1613',['HashTrait&lt; GameObjectModel &gt;',['../d4/ddb/structHashTrait_3_01GameObjectModel_01_4.html',1,'']]],
   ['hasignore_1614',['hasignore',['../d2/dbc/classlfg_1_1LFGMgr.html#ae1fa847ffd43358c2bb5c0576f53e3d5',1,'lfg::LFGMgr::HasIgnore()'],['../d2/d56/classPlayerSocial.html#afdda7de77a9c5b48730b9b7fca36b080',1,'PlayerSocial::HasIgnore()']]],
   ['hasignorehitdirectionaura_1615',['HasIgnoreHitDirectionAura',['../df/dd9/classUnit.html#a0d0ef0eaccdb2627741e0e15d9a8edd6',1,'Unit']]],
-  ['hasignoretargetresistaura_1616',['HasIgnoreTargetResistAura',['../df/dd9/classUnit.html#a70e673924c534be8487a3aca89f82b2f',1,'Unit']]],
+  ['hasignoretargetresistmodifiersaura_1616',['HasIgnoreTargetResistModifiersAura',['../df/dd9/classUnit.html#ae7f1769fdd8fa4af8033e97919305070',1,'Unit']]],
   ['hasimmunetonpcflags_1617',['HasImmuneToNPCFlags',['../d2/ddc/structnpc__escortAI.html#ac6e603264a1da8dbdb6cda486b19174a',1,'npc_escortAI']]],
   ['hasinarc_1618',['HasInArc',['../d0/df4/structPosition.html#a7e91a07c89b5645ddff795e0b5495632',1,'Position']]],
   ['hasincreasemountedflightspeedaura_1619',['HasIncreaseMountedFlightSpeedAura',['../df/dd9/classUnit.html#ad14ac5966d6a1e6e29b1d0c8116bfc7d',1,'Unit']]],

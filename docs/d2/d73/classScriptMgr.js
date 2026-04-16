@@ -396,7 +396,7 @@ var classScriptMgr =
     [ "OnPlayerRemoveFromBattleground", "d2/d73/classScriptMgr.html#a7290d44df312b258934afb6ed68de4a3", null ],
     [ "OnPlayerReputationChange", "d2/d73/classScriptMgr.html#a784114ff51920ab97c088452a44510c4", null ],
     [ "OnPlayerReputationRankChange", "d2/d73/classScriptMgr.html#aa027f879a449ada0533d716d6744b8c6", null ],
-    [ "OnPlayerResurrect", "d2/d73/classScriptMgr.html#aae9896efd3e745720a533265a16591b2", null ],
+    [ "OnPlayerResurrect", "d2/d73/classScriptMgr.html#a2eebf34f42bf669a71ce6cd3ebcf77ff", null ],
     [ "OnPlayerRewardKillRewarder", "d2/d73/classScriptMgr.html#a39693c611f04f640ed2688ac6afde3eb", null ],
     [ "OnPlayerSave", "d2/d73/classScriptMgr.html#aac7fd884593edc3064b7525e13500478", null ],
     [ "OnPlayerSendInitialPacketsBeforeAddToMap", "d2/d73/classScriptMgr.html#ad1f8513c30e94896fee1a5a03db49798", null ],

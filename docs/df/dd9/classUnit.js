@@ -432,7 +432,7 @@ var classUnit =
     [ "HasHealthRegenInCombatAura", "df/dd9/classUnit.html#a902b04049d0e50c05c3c24982dcb29d7", null ],
     [ "HasHoverAura", "df/dd9/classUnit.html#a98c1063458adcb4b98e3ca5b34d14a10", null ],
     [ "HasIgnoreHitDirectionAura", "df/dd9/classUnit.html#a0d0ef0eaccdb2627741e0e15d9a8edd6", null ],
-    [ "HasIgnoreTargetResistAura", "df/dd9/classUnit.html#a70e673924c534be8487a3aca89f82b2f", null ],
+    [ "HasIgnoreTargetResistModifiersAura", "df/dd9/classUnit.html#ae7f1769fdd8fa4af8033e97919305070", null ],
     [ "HasIncreaseMountedFlightSpeedAura", "df/dd9/classUnit.html#ad14ac5966d6a1e6e29b1d0c8116bfc7d", null ],
     [ "HasIncreaseMountedSpeedAura", "df/dd9/classUnit.html#a8f32d4ffe9eaab2fe4ecefe581e275c4", null ],
     [ "HasInterruptRegenAura", "df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60", null ],

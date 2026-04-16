@@ -1542,7 +1542,7 @@ var searchData=
   ['hashoveraura_1539',['HasHoverAura',['../df/dd9/classUnit.html#a98c1063458adcb4b98e3ca5b34d14a10',1,'Unit']]],
   ['hasignore_1540',['hasignore',['../d2/d56/classPlayerSocial.html#afdda7de77a9c5b48730b9b7fca36b080',1,'PlayerSocial::HasIgnore()'],['../d2/dbc/classlfg_1_1LFGMgr.html#ae1fa847ffd43358c2bb5c0576f53e3d5',1,'lfg::LFGMgr::HasIgnore()']]],
   ['hasignorehitdirectionaura_1541',['HasIgnoreHitDirectionAura',['../df/dd9/classUnit.html#a0d0ef0eaccdb2627741e0e15d9a8edd6',1,'Unit']]],
-  ['hasignoretargetresistaura_1542',['HasIgnoreTargetResistAura',['../df/dd9/classUnit.html#a70e673924c534be8487a3aca89f82b2f',1,'Unit']]],
+  ['hasignoretargetresistmodifiersaura_1542',['HasIgnoreTargetResistModifiersAura',['../df/dd9/classUnit.html#ae7f1769fdd8fa4af8033e97919305070',1,'Unit']]],
   ['hasinarc_1543',['HasInArc',['../d0/df4/structPosition.html#a7e91a07c89b5645ddff795e0b5495632',1,'Position']]],
   ['hasincreasemountedflightspeedaura_1544',['HasIncreaseMountedFlightSpeedAura',['../df/dd9/classUnit.html#ad14ac5966d6a1e6e29b1d0c8116bfc7d',1,'Unit']]],
   ['hasincreasemountedspeedaura_1545',['HasIncreaseMountedSpeedAura',['../df/dd9/classUnit.html#a8f32d4ffe9eaab2fe4ecefe581e275c4',1,'Unit']]],
