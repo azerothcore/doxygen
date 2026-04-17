@@ -1,5 +1,10 @@
 var NAVTREEINDEX379 =
 {
+"de/d83/structSecretMgr_1_1Secret.html#acc49c1f1701d0119ea5fd92c49a80c8e":[6,0,2548,0,6],
+"de/d83/structSecretMgr_1_1Secret.html#ad0ddd6fe7451f2b968db3a7d7a93b342":[6,0,2548,0,3],
+"de/d83/structSecretMgr_1_1Secret.html#adfebd7a162ebae8396669de031c768a6":[6,0,2548,0,0],
+"de/d83/structSecretMgr_1_1Secret.html#af098c138ad828545a3dfb1870ad4c2fb":[6,0,2548,0,4],
+"de/d83/structSecretMgr_1_1Secret.html#aff5ea87e5a7dbfdf5bd38400997f2c40":[6,0,2548,0,5],
 "de/d84/classAcore_1_1PowerPctOrderPred.html":[6,0,0,100],
 "de/d84/classAcore_1_1PowerPctOrderPred.html":[5,0,1,112],
 "de/d84/classAcore_1_1PowerPctOrderPred.html#a215b641a9364c7fcb82778c98f214271":[5,0,1,112,1],
@@ -80,7 +85,7 @@ var NAVTREEINDEX379 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[7,0,0,0,1,3,2,4,5,4,1],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[7,0,0,0,1,3,2,4,5,4,0],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
-"de/d87/classWaypointMovementGenerator.html":[6,0,4585],
+"de/d87/classWaypointMovementGenerator.html":[6,0,4586],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
 "de/d87/structSpawnAssociation.html":[6,0,2598],
 "de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2598,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX379 =
 "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065":[7,0,0,0,1,3,6,14,6,2],
 "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0":[7,0,0,0,1,3,6,14,6,0],
 "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329":[7,0,0,0,1,3,6,14,6,1],
-"de/d90/OutdoorPvPZM_8h.html#adc060a8578a0685e98f94a0d51c3613b":[7,0,0,0,1,3,6,14,15],
-"de/d90/OutdoorPvPZM_8h.html#aefc7683d5c310d6513a4bc64e0562f24":[7,0,0,0,1,3,6,14,18],
-"de/d90/OutdoorPvPZM_8h.html#af392c2c0a8da38f6782ab0ed0501a448":[7,0,0,0,1,3,6,14,20],
-"de/d90/OutdoorPvPZM_8h.html#afd164ef928ed19895648e76207433805":[7,0,0,0,1,3,6,14,10],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html":[6,0,1723,0],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1723,0,19]
+"de/d90/OutdoorPvPZM_8h.html#adc060a8578a0685e98f94a0d51c3613b":[7,0,0,0,1,3,6,14,15]
 };

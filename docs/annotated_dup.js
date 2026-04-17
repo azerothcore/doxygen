@@ -4658,6 +4658,7 @@ var annotated_dup =
     [ "spell_symbol_of_life_dummy", "d6/d9f/classspell__symbol__of__life__dummy.html", "d6/d9f/classspell__symbol__of__life__dummy" ],
     [ "spell_systems_shutdown_aura", "de/dc3/classspell__systems__shutdown__aura.html", "de/dc3/classspell__systems__shutdown__aura" ],
     [ "spell_taldaram_ball_of_inferno_flame", "d4/d1d/classspell__taldaram__ball__of__inferno__flame.html", "d4/d1d/classspell__taldaram__ball__of__inferno__flame" ],
+    [ "spell_taldaram_ball_of_inferno_flame_aura", "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html", "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura" ],
     [ "spell_taldaram_glittering_sparks", "d0/d3f/classspell__taldaram__glittering__sparks.html", "d0/d3f/classspell__taldaram__glittering__sparks" ],
     [ "spell_taldaram_summon_flame_ball", "d5/d61/classspell__taldaram__summon__flame__ball.html", "d5/d61/classspell__taldaram__summon__flame__ball" ],
     [ "spell_talon_king_ikiss_blink", "d4/da9/classspell__talon__king__ikiss__blink.html", "d4/da9/classspell__talon__king__ikiss__blink" ],

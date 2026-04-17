@@ -1,5 +1,10 @@
 var NAVTREEINDEX395 =
 {
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[6,0,3496,4],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[6,0,3496,0],
+"df/d22/classnpc__gunship__rocketeer.html":[6,0,1846],
+"df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[6,0,1846,2],
+"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[6,0,1846,1],
 "df/d23/classspell__black__temple__spell__absorption__aura.html":[6,0,2675],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[6,0,2675,2],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[6,0,2675,0],
@@ -75,10 +80,10 @@ var NAVTREEINDEX395 =
 "df/d27/classspell__gen__bm__off.html":[6,0,2992],
 "df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[6,0,2992,1],
 "df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[6,0,2992,0],
-"df/d28/classTransaction.html":[6,0,4500],
-"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4500,0],
-"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4500,1],
-"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4500,2],
+"df/d28/classTransaction.html":[6,0,4501],
+"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4501,0],
+"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4501,1],
+"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4501,2],
 "df/d29/oculus_8h.html":[7,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,2,6,0],
 "df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[7,0,0,0,1,3,5,8,2,6,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX395 =
 "df/d30/classAccountScript.html#a631f7deca08644da2613142c667618a8":[6,0,29,3],
 "df/d30/classAccountScript.html#a6b5b94c1ac64bf8d926928d8401cd533":[6,0,29,1],
 "df/d30/classAccountScript.html#aae3401d74bdc9e8328a5f084462ae740":[6,0,29,5],
-"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,29,4],
-"df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,29,9],
-"df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601":[6,0,29,2],
-"df/d30/classThreatReference.html":[6,0,4485],
-"df/d30/classThreatReference.html#a031c33fcc3a29175602f7614b42fb6c3":[6,0,4485,6],
-"df/d30/classThreatReference.html#a1033d7348fddc24bfd56a9b2437555d1":[6,0,4485,26]
+"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,29,4]
 };

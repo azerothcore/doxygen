@@ -745,6 +745,7 @@ var hierarchy =
         [ "spell_summoning_rhyme_aura", "d6/df0/classspell__summoning__rhyme__aura.html", null ],
         [ "spell_svala_ritual_strike_aura", "de/d2e/classspell__svala__ritual__strike__aura.html", null ],
         [ "spell_systems_shutdown_aura", "de/dc3/classspell__systems__shutdown__aura.html", null ],
+        [ "spell_taldaram_ball_of_inferno_flame_aura", "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html", null ],
         [ "spell_tar_blaze_aura", "d1/dcb/classspell__tar__blaze__aura.html", null ],
         [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "df/d49/classspell__temple__of__atal__hakkar__hex__of__jammal__an__aura.html", null ],
         [ "spell_teron_gorefiend_shadow_of_death", "d1/ddd/classspell__teron__gorefiend__shadow__of__death.html", null ],

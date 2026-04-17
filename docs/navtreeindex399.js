@@ -1,5 +1,10 @@
 var NAVTREEINDEX399 =
 {
+"df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e":[6,0,1716,37],
+"df/d5c/classnpc__commandscript.html#a3293823f84882cc7121e85285c66d76f":[6,0,1716,14],
+"df/d5c/classnpc__commandscript.html#a3ff7f55e9234685be9e61c5508246225":[6,0,1716,29],
+"df/d5c/classnpc__commandscript.html#a432ce71efa4ba98072b77140df7f867b":[6,0,1716,40],
+"df/d5c/classnpc__commandscript.html#a4594e04a33f25906d542a3154ca999d6":[6,0,1716,12],
 "df/d5c/classnpc__commandscript.html#a47a8348f751a0914bb213894d8134ade":[6,0,1716,32],
 "df/d5c/classnpc__commandscript.html#a548ef7cacfcc92ac808ec0d41d51046b":[6,0,1716,11],
 "df/d5c/classnpc__commandscript.html#a54d157edc199e5bbd689263c6fbe3f46":[6,0,1716,13],
@@ -244,10 +249,5 @@ var NAVTREEINDEX399 =
 "df/d6f/structboss__eydis_1_1boss__eydisAI.html#a0e97e184b2a2f610730cd3d455702955":[6,0,468,0,0],
 "df/d6f/structboss__eydis_1_1boss__eydisAI.html#aa5ae64cfe003a25859364a12cb871199":[6,0,468,0,1],
 "df/d6f/structboss__thorim__arena__npcs.html":[6,0,749],
-"df/d6f/structboss__thorim__arena__npcs.html#a2f23cddcf5a0db42ba24730dfbe54976":[6,0,749,2],
-"df/d6f/structboss__thorim__arena__npcs.html#a3fa38189c886a486aabb39a372834938":[6,0,749,4],
-"df/d6f/structboss__thorim__arena__npcs.html#a6a8489763ca223c749aa71c2da05b3cf":[6,0,749,5],
-"df/d6f/structboss__thorim__arena__npcs.html#a7b118ec6fa25c0f452419d1f5b4a698f":[6,0,749,3],
-"df/d6f/structboss__thorim__arena__npcs.html#a849567e412254aa8d0d7da33b6b1522f":[6,0,749,0],
-"df/d6f/structboss__thorim__arena__npcs.html#aa4f90aadf8a9705fea03433195d41ad0":[6,0,749,1]
+"df/d6f/structboss__thorim__arena__npcs.html#a2f23cddcf5a0db42ba24730dfbe54976":[6,0,749,2]
 };

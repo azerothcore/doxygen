@@ -1,5 +1,10 @@
 var NAVTREEINDEX394 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a64bf61552817623f34e04d0a90982a8e":[7,0,0,0,1,2,16,5,0,4,6,69],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a658f12c04ee4c831ac7c41627315b9d0":[7,0,0,0,1,2,16,5,0,4,6,166],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a65a8142f4727b52425e593eb2727d9f4":[7,0,0,0,1,2,16,5,0,4,6,91],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a67673a0f21c90e35af27aab8efbdee09":[7,0,0,0,1,2,16,5,0,4,6,122],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a690f68ac635bae698eb89a46410594ad":[7,0,0,0,1,2,16,5,0,4,6,13],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6989ac7439957bfcc2888cf130648b3a":[7,0,0,0,1,2,16,5,0,4,6,156],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6a312f5578b89833bcfac93ba4cd6281":[7,0,0,0,1,2,16,5,0,4,6,93],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b03ad8147a368bbf29c0b92b12b0679":[7,0,0,0,1,2,16,5,0,4,6,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX394 =
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[6,0,3496],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[6,0,3496,2],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[6,0,3496,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[6,0,3496,3],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[6,0,3496,4],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[6,0,3496,0],
-"df/d22/classnpc__gunship__rocketeer.html":[6,0,1846],
-"df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[6,0,1846,2],
-"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[6,0,1846,1]
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[6,0,3496,3]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX177 =
 {
+"d6/d6e/classDatabaseScript.html":[6,0,974],
+"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[6,0,974,2],
+"d6/d6e/classDatabaseScript.html#aab34b85df1a5ccdf17fede64baca4994":[6,0,974,0],
+"d6/d6e/classDatabaseScript.html#ab52afc833cb462693f5e0d79cff6bb3f":[6,0,974,3],
 "d6/d6e/classDatabaseScript.html#af4321bb95ed9bb3bb0e5a8a93c89c235":[6,0,974,1],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html":[6,0,55],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html#a30a94a92aacc558d6833994c11f3ee8a":[6,0,55,0],
@@ -95,8 +99,8 @@ var NAVTREEINDEX177 =
 "d6/d73/classspell__gluth__decimate__damage.html":[6,0,3132],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3132,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3132,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1982],
@@ -245,9 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d79/classOPvPCapturePoint.html#a00e29b03374f679deacbed8c5b8b3b43":[6,0,2333,0],
 "d6/d79/classOPvPCapturePoint.html#a037adc12c044a9f5244f981d47f635c5":[6,0,2333,5],
 "d6/d79/classOPvPCapturePoint.html#a086088ad6ceefa780717788f17452ea5":[6,0,2333,42],
-"d6/d79/classOPvPCapturePoint.html#a091ce24cdf64c5d31902a4977a9ff820":[6,0,2333,31],
-"d6/d79/classOPvPCapturePoint.html#a095a169792ea6bb9793b116b08327286":[6,0,2333,36],
-"d6/d79/classOPvPCapturePoint.html#a1126a3446be336ec8518b9738147d69e":[6,0,2333,39],
-"d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373":[6,0,2333,33],
-"d6/d79/classOPvPCapturePoint.html#a1bace9092e2f8dd67546e106c4d1b18a":[6,0,2333,9]
+"d6/d79/classOPvPCapturePoint.html#a091ce24cdf64c5d31902a4977a9ff820":[6,0,2333,31]
 };

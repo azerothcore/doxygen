@@ -1,5 +1,9 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5bad6a1b04cfb4384903006e0594e23599f":[7,0,0,0,1,3,10,3,17,2],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5baf5d003e615fedd9a9c581e7e7f819360":[7,0,0,0,1,3,10,3,17,0],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a64bbd191ff8adcd734165e2585f8b5aa":[7,0,0,0,1,3,10,3,31],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6":[7,0,0,0,1,3,10,3,28],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a3c94bdb6a74b968ac5d9625a9d7bc6b9":[7,0,0,0,1,3,10,3,28,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a529a83b6506bc0567da3876e73b811e6":[7,0,0,0,1,3,10,3,28,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762":[7,0,0,0,1,3,10,3,25],
@@ -213,10 +217,10 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[6,0,3379,0],
 "d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[6,0,3379,1],
 "d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[6,0,3379,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4331],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4331,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4331,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4331,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4332],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4332,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4332,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4332,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872":[7,0,0,0,1,3,5,16,2,1],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa":[7,0,0,0,1,3,5,16,2,0],
 "d2/d98/classnpc__zulian__prowler.html":[6,0,2309],
-"d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[6,0,2309,1],
-"d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[6,0,2309,2],
-"d2/d98/structboss__kiljaeden.html":[6,0,586],
-"d2/d98/structboss__kiljaeden.html#a220cf460466c44a82ce3933d2c5f27f8":[6,0,586,10],
-"d2/d98/structboss__kiljaeden.html#a345f52703c9d72be2a67ff46ac1a0472":[6,0,586,12]
+"d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[6,0,2309,1]
 };

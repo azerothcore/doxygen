@@ -1,5 +1,9 @@
 var NAVTREEINDEX40 =
 {
+"d1/daa/structboss__highlord__omokk.html#a2a8931227eb65759ceebd27919976cb5":[6,0,549,1],
+"d1/daa/structboss__highlord__omokk.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c":[6,0,549,0],
+"d1/daa/structboss__highlord__omokk.html#ada6bf702dc1827e60b558b4fb752b789":[6,0,549,3],
+"d1/dab/classnpc__wintergarde__gryphon.html":[6,0,2293],
 "d1/dab/classnpc__wintergarde__gryphon.html#a16c01d26aef06358f979f59fe68c09ca":[6,0,2293,5],
 "d1/dab/classnpc__wintergarde__gryphon.html#a56a7973a05061197192111ecf55ef14a":[6,0,2293,8],
 "d1/dab/classnpc__wintergarde__gryphon.html#a6c87d55ef29e14b4b8b87a0321179542":[6,0,2293,3],
@@ -33,12 +37,12 @@ var NAVTREEINDEX40 =
 "d1/dab/structboss__mimiron.html#af4b21f8bb94becdd9082e39d81003a2b":[6,0,633,19],
 "d1/dab/structboss__mimiron.html#af4e88527fb72bcbc1dc0a57b6007a461":[6,0,633,11],
 "d1/dab/structboss__mimiron.html#af85af0d10226de45a42a9d3317244e7a":[6,0,633,17],
-"d1/dac/classTypeMapContainer.html":[6,0,4525],
-"d1/dac/classTypeMapContainer.html#a026880bb3378687143ed19fa7b99b41b":[6,0,4525,3],
-"d1/dac/classTypeMapContainer.html#a4ab8f061208d7733ee65ba768f85f513":[6,0,4525,0],
-"d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d":[6,0,4525,4],
-"d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4525,2],
-"d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4525,1],
+"d1/dac/classTypeMapContainer.html":[6,0,4526],
+"d1/dac/classTypeMapContainer.html#a026880bb3378687143ed19fa7b99b41b":[6,0,4526,3],
+"d1/dac/classTypeMapContainer.html#a4ab8f061208d7733ee65ba768f85f513":[6,0,4526,0],
+"d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d":[6,0,4526,4],
+"d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4526,2],
+"d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4526,1],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html":[6,0,3621],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3621,3],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3621,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4f":[7,0,0,0,1,2,16,10,5,33],
 "d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa379fa05fe54b3ef17e6e9e2f159b9a8f":[7,0,0,0,1,2,16,10,5,33,2],
 "d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa50898d8713a3a0d7825818daf16cbd30":[7,0,0,0,1,2,16,10,5,33,4],
-"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa63a0b2c814bdfeeb5e4979e43fe90ad0":[7,0,0,0,1,2,16,10,5,33,3],
-"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4":[7,0,0,0,1,2,16,10,5,33,0],
-"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4faa6c2bba993427bbcd1ee001e9730c59d":[7,0,0,0,1,2,16,10,5,33,1],
-"d1/daf/Unit_8h.html#aa02d6a93a0021b2c52a47f8bb09a173a":[7,0,0,0,1,2,16,10,5,15],
-"d1/daf/Unit_8h.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed":[7,0,0,0,1,2,16,10,5,20]
+"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa63a0b2c814bdfeeb5e4979e43fe90ad0":[7,0,0,0,1,2,16,10,5,33,3]
 };

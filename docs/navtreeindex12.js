@@ -1,6 +1,6 @@
 var NAVTREEINDEX12 =
 {
-"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4424,2],
+"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4425,2],
 "d0/d89/boss__thorim_8cpp.html":[7,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[7,0,0,0,1,3,5,9,2,11,18],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18":[7,0,0,0,1,3,5,9,2,11,18,10],

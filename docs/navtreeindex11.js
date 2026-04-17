@@ -233,9 +233,9 @@ var NAVTREEINDEX11 =
 "d0/d87/classgo__wg__vehicle__teleporter.html":[6,0,1224],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a074ead770a3da6e9ffa4180a3525f4c8":[6,0,1224,1],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a113aaf42c095000c1a016bfe60df11e7":[6,0,1224,2],
-"d0/d87/structTorlothCinematic.html":[6,0,4494],
-"d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[6,0,4494,1],
-"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[6,0,4494,0],
+"d0/d87/structTorlothCinematic.html":[6,0,4495],
+"d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[6,0,4495,1],
+"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[6,0,4495,0],
 "d0/d88/UpdateFetcher_8cpp.html":[7,0,0,0,1,1,3,2],
 "d0/d88/boss__hedrum_8cpp.html":[7,0,0,0,1,3,2,1,0,9],
 "d0/d88/boss__hedrum_8cpp.html#a518437f8a83303c8b99890b84ff89461":[7,0,0,0,1,3,2,1,0,9,2],
@@ -246,8 +246,8 @@ var NAVTREEINDEX11 =
 "d0/d88/boss__hedrum_8cpp.html#a5bd342133be8c2137b831460acc9298cab4be363fd22b70de1bbd2a8391a0ed1a":[7,0,0,0,1,3,2,1,0,9,1,2],
 "d0/d88/boss__hedrum_8cpp.html#a7a4c0f8014c785e5f061e674cfd2bd23":[7,0,0,0,1,3,2,1,0,9,4],
 "d0/d88/boss__hedrum_8cpp.html#a89d9028330c8dc18f9e316257103a7a3":[7,0,0,0,1,3,2,1,0,9,3],
-"d0/d88/structSpellRadiusEntry.html":[6,0,4424],
-"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4424,3],
-"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4424,0],
-"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4424,1]
+"d0/d88/structSpellRadiusEntry.html":[6,0,4425],
+"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4425,3],
+"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4425,0],
+"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4425,1]
 };

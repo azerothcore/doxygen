@@ -1,12 +1,16 @@
 var NAVTREEINDEX218 =
 {
+"d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,132],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,120],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,120,1],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,132,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,120,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,132,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,120,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,132,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,132,0],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[6,0,0,120,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,132,0],
 "d8/d36/BigNumber_8h.html":[7,0,0,0,0,3,8],
 "d8/d36/MailScript_8cpp.html":[7,0,0,0,1,2,38,0,64],
 "d8/d36/MailScript_8cpp.html#a2c63e917d984cb7f72bcae15da56850c":[7,0,0,0,1,2,38,0,64,0],
@@ -160,10 +164,10 @@ var NAVTREEINDEX218 =
 "d8/d38/classspell__sapphiron__frost__explosion.html#a883e383928a9b0ad0aeccf7afee4f15e":[6,0,3998,2],
 "d8/d38/structadt__MFBO_1_1plane.html":[6,0,140,0],
 "d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,140,0,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,4207],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,4207,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,4207,2],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,4207,1],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,4208],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,4208,0],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,4208,2],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,4208,1],
 "d8/d39/structnpc__xt002__heart.html":[6,0,2300],
 "d8/d39/structnpc__xt002__heart.html#a13dc0cd623322cfc28c09c08bddd9207":[6,0,2300,5],
 "d8/d39/structnpc__xt002__heart.html#a3b89ec3c162656dcb45f51390a95c70b":[6,0,2300,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d3d/classspell__marrowgar__bone__slice.html":[6,0,3623],
 "d8/d3d/classspell__marrowgar__bone__slice.html#a39b8e5443250777594e3b4417d5ea1ec":[6,0,3623,5],
 "d8/d3d/classspell__marrowgar__bone__slice.html#a501a46b3e3988ae8cb8af1ff87eeac65":[6,0,3623,4],
-"d8/d3d/classspell__marrowgar__bone__slice.html#a80a5d0f997f5d68a4fb438a81295fa52":[6,0,3623,1],
-"d8/d3d/classspell__marrowgar__bone__slice.html#a86cad92c07fa31c730a3b560d33ed824":[6,0,3623,3],
-"d8/d3d/classspell__marrowgar__bone__slice.html#aa72b762d802c27047d485a8a314c6c6d":[6,0,3623,0],
-"d8/d3d/classspell__marrowgar__bone__slice.html#acfd2927786a5bcefa0889d7e8aa40f72":[6,0,3623,2],
-"d8/d3e/classEscortMovementGenerator.html":[6,0,1048]
+"d8/d3d/classspell__marrowgar__bone__slice.html#a80a5d0f997f5d68a4fb438a81295fa52":[6,0,3623,1]
 };

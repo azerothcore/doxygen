@@ -1,5 +1,10 @@
 var NAVTREEINDEX317 =
 {
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abe3ac13e4769e945ff1bca6c51c6d736":[7,0,0,0,1,3,5,7,13,3,6],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac6daafb50ca151d594546783ae4044e6":[7,0,0,0,1,3,5,7,13,3,10],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7748bbd75996b6fd1580c54fc1e883b":[7,0,0,0,1,3,5,7,13,3,4],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,7,13,3,1],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,7,13,3,11],
 "dc/d49/classSecretMgr.html":[6,0,2548],
 "dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2548,9],
 "dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[6,0,2548,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3accadc5c6433de8eecc81174af68bd8df":[7,0,0,0,1,2,26,2,0,135],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3acd1ad24dd65c19fddc3ecdb25bc557e7":[7,0,0,0,1,2,26,2,0,44],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a":[7,0,0,0,1,2,26,2,0,2],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ace3833850a496ba22004a52e4c70a5f5":[7,0,0,0,1,2,26,2,0,107],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3acfcbf4b7b73ff54cf73898fdb0e63c4f":[7,0,0,0,1,2,26,2,0,53],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1193ce6e856a199db5ccbe901e4fccc":[7,0,0,0,1,2,26,2,0,18],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1e0a0cca147beae361a74e908c900fd":[7,0,0,0,1,2,26,2,0,65],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835":[7,0,0,0,1,2,26,2,0,58],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad3766ed281cca0bd8dcc0f6bdc1bff3c":[7,0,0,0,1,2,26,2,0,108]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ace3833850a496ba22004a52e4c70a5f5":[7,0,0,0,1,2,26,2,0,107]
 };

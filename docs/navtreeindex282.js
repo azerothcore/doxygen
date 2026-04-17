@@ -1,5 +1,9 @@
 var NAVTREEINDEX282 =
 {
+"db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1601,1],
+"db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1601,0],
+"db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1601,6],
+"db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
@@ -118,13 +122,13 @@ var NAVTREEINDEX282 =
 "db/d14/structnpc__necrotic__shard.html#aecc545eefc308b525052f86bfab5b390":[6,0,2000,9],
 "db/d14/structnpc__necrotic__shard.html#aeea71f3ba1e79722280da9b7adf5c212":[6,0,2000,14],
 "db/d14/structnpc__necrotic__shard.html#aef06aa96540360a9edf7006f6438ad5d":[6,0,2000,13],
-"db/d16/classTransportScript.html":[6,0,4512],
-"db/d16/classTransportScript.html#a10334c1929c80fc80c76791cbd52f6dd":[6,0,4512,4],
-"db/d16/classTransportScript.html#a4b83123b122fa98831d304670a3de50a":[6,0,4512,0],
-"db/d16/classTransportScript.html#a5afb1f1dca2264089238ddd68b38a86d":[6,0,4512,2],
-"db/d16/classTransportScript.html#a6d6a3af4fcde46101b78cfdb787a2248":[6,0,4512,5],
-"db/d16/classTransportScript.html#a806f4829b47429900271f6dde7eaa625":[6,0,4512,3],
-"db/d16/classTransportScript.html#a956f0d757e5d974566fa8fac0df731e5":[6,0,4512,1],
+"db/d16/classTransportScript.html":[6,0,4513],
+"db/d16/classTransportScript.html#a10334c1929c80fc80c76791cbd52f6dd":[6,0,4513,4],
+"db/d16/classTransportScript.html#a4b83123b122fa98831d304670a3de50a":[6,0,4513,0],
+"db/d16/classTransportScript.html#a5afb1f1dca2264089238ddd68b38a86d":[6,0,4513,2],
+"db/d16/classTransportScript.html#a6d6a3af4fcde46101b78cfdb787a2248":[6,0,4513,5],
+"db/d16/classTransportScript.html#a806f4829b47429900271f6dde7eaa625":[6,0,4513,3],
+"db/d16/classTransportScript.html#a956f0d757e5d974566fa8fac0df731e5":[6,0,4513,1],
 "db/d16/spell__paladin_8cpp.html":[7,0,0,0,1,3,9,6],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997":[7,0,0,0,1,3,9,6,54],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de":[7,0,0,0,1,3,9,6,54,4],
@@ -244,10 +248,6 @@ var NAVTREEINDEX282 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2699,0],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2699,4],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2699,5],
-"db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,4346],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,4346,2],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,4346,3],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,4346,1],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[6,0,4346,0],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,260]
+"db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,4347],
+"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,4347,2]
 };

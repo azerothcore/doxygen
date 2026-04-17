@@ -1,5 +1,9 @@
 var NAVTREEINDEX275 =
 {
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa2a33c9bcc1f691f568c1abbdabe196a9":[7,0,0,0,1,2,16,7,5,102,1],
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa5668120560a85c04a98bc285ef12a73a":[7,0,0,0,1,2,16,7,5,102,4],
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa92b66b96dffff8aadaf5c68b506f4679":[7,0,0,0,1,2,16,7,5,102,2],
+"da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa997298918391902d13f306ff08b35468":[7,0,0,0,1,2,16,7,5,102,0],
 "da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aadbecbf56496afcc6f2cc0abe2a838be0":[7,0,0,0,1,2,16,7,5,102,3],
 "da/dbf/Player_8h.html#a9b615cd8e69bf1f12cbee0c8ce784feb":[7,0,0,0,1,2,16,7,5,53],
 "da/dbf/Player_8h.html#a9c5d66387ebbe380eb85dc073bb477e1":[7,0,0,0,1,2,16,7,5,66],
@@ -245,9 +249,5 @@ var NAVTREEINDEX275 =
 "da/dc7/classspell__item__massive__seaforium__charge.html#af8b02c31b81dce516ea47d6a1235d683":[6,0,3400,2],
 "da/dc7/classspell__pal__glyph__of__holy__light__dummy.html":[6,0,3711],
 "da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#a1a98679fdf2d18df0101c3d56308be7b":[6,0,3711,3],
-"da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#abd8ff13c602931f0601f3440b13fd87b":[6,0,3711,1],
-"da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#ae2be03a9b723caaee90fc497da4b0069":[6,0,3711,2],
-"da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#af8998dee977a1ac3ab16077558b8bc1d":[6,0,3711,0],
-"da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#afb9d057bd6b06804ec42b0ff723fd022":[6,0,3711,4],
-"da/dc8/classServerScript.html":[6,0,2561]
+"da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#abd8ff13c602931f0601f3440b13fd87b":[6,0,3711,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX161 =
 {
+"d5/de1/classnpc__lord__arete.html#a929e3f3346bf4dbaee127463eaf4ffcc":[6,0,1953,1],
+"d5/de1/structboss__alythess.html":[6,0,385],
+"d5/de1/structboss__alythess.html#a5509c9f0d979a2d9d70a8f4f9e7971a0":[6,0,385,3],
+"d5/de1/structboss__alythess.html#a611d8c0a8fb9061e596ef0ac8f1fda88":[6,0,385,5],
 "d5/de1/structboss__alythess.html#a707fbd0f310005a60d5ed4c05c9fc176":[6,0,385,0],
 "d5/de1/structboss__alythess.html#a9f9fa0823685066b4990a17880782b9a":[6,0,385,7],
 "d5/de1/structboss__alythess.html#aa2dc7ab74fa5bdb753475b2de1515855":[6,0,385,2],
@@ -198,11 +202,11 @@ var NAVTREEINDEX161 =
 "d5/ded/classspell__midsummer__fling__torch.html#a9714f48de3982feb245f78efb8008f1b":[6,0,3630,3],
 "d5/ded/classspell__midsummer__fling__torch.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7":[6,0,3630,0],
 "d5/ded/classspell__midsummer__fling__torch.html#ad24c159a0dcfb86eb35a4286f606a3ab":[6,0,3630,4],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html":[6,0,4289],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#a20dad49a99420556f393a16525eb14b4":[6,0,4289,1],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#a341acb2dd25c1db94777f7036f3338ac":[6,0,4289,3],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#a893842dfe5e1d6f7977e2fc97471b265":[6,0,4289,0],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#ad7d339ab137ebd640981f7789e1757f0":[6,0,4289,2],
+"d5/ded/classspell__warl__voidwalker__pet__passive.html":[6,0,4290],
+"d5/ded/classspell__warl__voidwalker__pet__passive.html#a20dad49a99420556f393a16525eb14b4":[6,0,4290,1],
+"d5/ded/classspell__warl__voidwalker__pet__passive.html#a341acb2dd25c1db94777f7036f3338ac":[6,0,4290,3],
+"d5/ded/classspell__warl__voidwalker__pet__passive.html#a893842dfe5e1d6f7977e2fc97471b265":[6,0,4290,0],
+"d5/ded/classspell__warl__voidwalker__pet__passive.html#ad7d339ab137ebd640981f7789e1757f0":[6,0,4290,2],
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html":[6,0,2256,0],
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a14ca75417c623d6d6e5fce50521963da":[6,0,2256,0,4],
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd":[6,0,2256,0,7],
@@ -244,10 +248,6 @@ var NAVTREEINDEX161 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,12,6,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,12,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,12,6,29,0]
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29]
 };

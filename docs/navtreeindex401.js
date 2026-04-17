@@ -1,5 +1,10 @@
 var NAVTREEINDEX401 =
 {
+"df/d7a/classspell__tharon__ja__dummy__aura.html#a9160c940913e4829bd0a6fe269c3b5d3":[6,0,4148,3],
+"df/d7a/classspell__tharon__ja__dummy__aura.html#a92b98d9b9be98c330b6efbe34dae235b":[6,0,4148,0],
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html":[6,0,691,0],
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a28e859c796fc210cba9a1ac7bfd0124a":[6,0,691,0,10],
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a3b9c9223da7cd6163ea6369fee6439f5":[6,0,691,0,12],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a8b166241350c7437c0baab2bc783dc93":[6,0,691,0,1],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a9356f21962b312eccfba1b3e75afaba0":[6,0,691,0,6],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,691,0,8],
@@ -24,10 +29,10 @@ var NAVTREEINDEX401 =
 "df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[6,0,2479,0],
 "df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[6,0,2479,2],
 "df/d7b/structQuestGreeting.html#aa5189cb250b3f46086ecd69dee23414b":[6,0,2479,1],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,4222],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,4222,0],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[6,0,4222,2],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,4222,1],
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,4223],
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,4223,0],
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[6,0,4223,2],
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,4223,1],
 "df/d7c/structboss__taldaram.html":[6,0,731],
 "df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc":[6,0,731,14],
 "df/d7c/structboss__taldaram.html#a07e1cb5b53906f92a1f485340aa004e5":[6,0,731,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX401 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa38527fd67d11924c98159bfa0376ac24":[7,0,0,0,1,3,5,9,2,4,13,13],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa3ae99a51ed2618b3ce5c77c482224187":[7,0,0,0,1,3,5,9,2,4,13,41],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd":[7,0,0,0,1,3,5,9,2,4,13,14],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,13,17],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,13,20],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[7,0,0,0,1,3,5,9,2,4,13,1],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa65824e8e66e216b688c78a6275c150f5":[7,0,0,0,1,3,5,9,2,4,13,2],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa684b9dd7a5d28ea2c20ccc4f31b548d9":[7,0,0,0,1,3,5,9,2,4,13,37],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6dae7520a98c2d75cbec7a647bd63d07":[7,0,0,0,1,3,5,9,2,4,13,28]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,13,17]
 };

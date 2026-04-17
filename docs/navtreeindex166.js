@@ -1,5 +1,9 @@
 var NAVTREEINDEX166 =
 {
+"d6/d0b/structboss__flame__leviathan__seat.html":[6,0,487],
+"d6/d0b/structboss__flame__leviathan__seat.html#a2fc2adc846b2939cf633bf47b4307896":[6,0,487,0],
+"d6/d0b/structboss__flame__leviathan__seat.html#a303c50b5684410013f95b0202ea33c8e":[6,0,487,5],
+"d6/d0b/structboss__flame__leviathan__seat.html#a490fdbcb665f37f0b40a35a6cebe77cf":[6,0,487,3],
 "d6/d0b/structboss__flame__leviathan__seat.html#a88d8a972e5f079c0111c0f189d599e8c":[6,0,487,1],
 "d6/d0b/structboss__flame__leviathan__seat.html#a9772b52283f16120dbefb5d218844c38":[6,0,487,7],
 "d6/d0b/structboss__flame__leviathan__seat.html#ac0f5d43d4be0773fdae62d0ab433713f":[6,0,487,2],
@@ -200,10 +204,10 @@ var NAVTREEINDEX166 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[6,0,2775,3],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[6,0,2775,0],
 "d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[6,0,2775,6],
-"d6/d0f/classspell__warr__rend.html":[6,0,4312],
-"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,4312,1],
-"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,4312,0],
-"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,4312,2],
+"d6/d0f/classspell__warr__rend.html":[6,0,4313],
+"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,4313,1],
+"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,4313,0],
+"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,4313,2],
 "d6/d0f/structContainerUnorderedMap.html":[6,0,925],
 "d6/d0f/structContainerUnorderedMap.html#ab18c6fa467deee7af0db888ab94d0ba7":[6,0,925,0],
 "d6/d11/classBreakableCCProcTest.html":[6,0,835],
@@ -245,9 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f":[7,0,0,0,1,3,2,5,5,7,2],
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8":[7,0,0,0,1,3,2,5,5,7,0],
 "d6/d11/magisters__terrace_8h.html#ace003ea34649a460da4afbd65b38c987":[7,0,0,0,1,3,2,5,5,9],
-"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3":[7,0,0,0,1,3,2,5,5,5],
-"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222":[7,0,0,0,1,3,2,5,5,5,0],
-"d6/d12/classspell__leotheras__insidious__whisper.html":[6,0,3540],
-"d6/d12/classspell__leotheras__insidious__whisper.html#a8622bc4d61c5c236349d4b12c2a6b10d":[6,0,3540,1],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ac20676c292d87276e444bad56d71960d":[6,0,3540,0]
+"d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3":[7,0,0,0,1,3,2,5,5,5]
 };

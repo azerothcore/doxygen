@@ -1,5 +1,10 @@
 var NAVTREEINDEX325 =
 {
+"dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afd0c1c48651ed449fee15e3fd1d45cc8":[7,0,0,0,1,3,5,1,1,3,5,0],
+"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,1,3,6],
+"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,1,1,3,6,3],
+"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6":[7,0,0,0,1,3,5,1,1,3,6,0],
+"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,5,1,1,3,6,4],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b0cb3dbdb21b39029ea9beaca395bd6":[7,0,0,0,1,3,5,1,1,3,6,1],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca887b2f1972269d2e34a60c71f611588b":[7,0,0,0,1,3,5,1,1,3,6,2],
 "dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,1,1,3,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX325 =
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d":[7,0,0,0,1,2,16,5,5,16,6],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679":[7,0,0,0,1,2,16,5,5,16,0],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee":[7,0,0,0,1,2,16,5,5,16,8],
-"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b":[7,0,0,0,1,2,16,5,5,16,7],
-"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2":[7,0,0,0,1,2,16,5,5,16,11],
-"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3":[7,0,0,0,1,2,16,5,5,16,4],
-"dc/dc9/ObjectGuid_8h.html#ac7c846a04172e6d96c6096780b5d05b0":[7,0,0,0,1,2,16,5,5,10],
-"dc/dc9/ObjectGuid_8h.html#acdd3815893762a2491365b8fd25c7283":[7,0,0,0,1,2,16,5,5,8],
-"dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1":[7,0,0,0,1,2,16,5,5,18]
+"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b":[7,0,0,0,1,2,16,5,5,16,7]
 };

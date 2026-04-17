@@ -1,5 +1,9 @@
 var NAVTREEINDEX216 =
 {
+"d8/d11/structboss__commander__stoutbeard.html#af960c10b2b98d43b4b1311a0a7616aa8":[6,0,427,2],
+"d8/d12/classArenaTeamTest.html":[6,0,206],
+"d8/d12/classArenaTeamTest.html#ad2fd1d002f4a95b778a8d5ba819eba42":[6,0,206,0],
+"d8/d12/classCharacterActionIpLogger.html":[6,0,867],
 "d8/d12/classCharacterActionIpLogger.html#a39861f7348a79031a8215b435ba81059":[6,0,867,0],
 "d8/d12/classCharacterActionIpLogger.html#a3a4bcaf033e71e2dbeddc2ee6528494e":[6,0,867,4],
 "d8/d12/classCharacterActionIpLogger.html#a48844efac9d9af9c6415ad49d2473688":[6,0,867,2],
@@ -9,10 +13,10 @@ var NAVTREEINDEX216 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,12,22],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,34,22,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,12,22,0],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,22,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,12,22,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,12,22,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,22,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,22,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,12,22,2],
 "d8/d12/structboss__ayamiss.html":[6,0,403],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[6,0,403,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[6,0,403,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d1c/structChannel_1_1PlayerInfo.html#a23315bfbd0748f82c948051697079c24":[6,0,862,0,0],
 "d8/d1c/structChannel_1_1PlayerInfo.html#a2e4be6dfb921ad07ebd0de3abb81f5e4":[6,0,862,0,9],
 "d8/d1c/structChannel_1_1PlayerInfo.html#a4687757cb7df9778f0f5eb67714c917c":[6,0,862,0,3],
-"d8/d1c/structChannel_1_1PlayerInfo.html#a5c986d75e173cc42160143ae7621ab6b":[6,0,862,0,13],
-"d8/d1c/structChannel_1_1PlayerInfo.html#a5d1e0f8e424033e34338940677ca054c":[6,0,862,0,2],
-"d8/d1c/structChannel_1_1PlayerInfo.html#a9cb5a3ce70a2afcc553992f4a65b80e1":[6,0,862,0,5],
-"d8/d1c/structChannel_1_1PlayerInfo.html#aac6a9ea0bf478901e62c729ac6a3e9cd":[6,0,862,0,8],
-"d8/d1c/structChannel_1_1PlayerInfo.html#ad4e1573168c91372dc4af2847d4ad454":[6,0,862,0,4]
+"d8/d1c/structChannel_1_1PlayerInfo.html#a5c986d75e173cc42160143ae7621ab6b":[6,0,862,0,13]
 };

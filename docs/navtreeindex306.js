@@ -1,5 +1,10 @@
 var NAVTREEINDEX306 =
 {
+"db/de6/structTargetInfo.html#add2beb55eb3313e474d947fd3eb1fc65":[6,0,4468,7],
+"db/de6/structTargetInfo.html#aebeb2f67bf8646770570e5564fb01d4d":[6,0,4468,0],
+"db/de6/structTargetInfo.html#afb839b2b409a61e4d63de03dbce2abcb":[6,0,4468,4],
+"db/de6/struct__Damage.html":[6,0,13],
+"db/de6/struct__Damage.html#acbab962cbc25ad032c97216feac281bb":[6,0,13,1],
 "db/de6/struct__Damage.html#aecdcc73f2cb30ef5cc149607e01bbe34":[6,0,13,2],
 "db/de6/struct__Damage.html#afc0bd7960848f6434c182a3fadc1e256":[6,0,13,0],
 "db/de7/SpellInfoTestHelper_8h.html":[7,0,0,0,2,1,5],
@@ -13,10 +18,10 @@ var NAVTREEINDEX306 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[6,0,0,5,11],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[6,0,0,5,11,3],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[5,0,1,8,11,3],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[6,0,0,5,11,7],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[5,0,1,8,11,7],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[6,0,0,5,11,2],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[6,0,0,5,11,7],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[5,0,1,8,11,2],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[6,0,0,5,11,2],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[6,0,0,5,11,5],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[5,0,1,8,11,5],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[5,0,1,8,11,6],
@@ -243,11 +248,6 @@ var NAVTREEINDEX306 =
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,7,2,3,3,5,2],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2":[7,0,0,0,1,3,7,2,3,3,5,0],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1":[7,0,0,0,1,3,7,2,3,3,5,4],
-"db/df0/classTransactionCallback.html":[6,0,4502],
-"db/df0/classTransactionCallback.html#a381e889074bc5ca48574d37fe6eea00f":[6,0,4502,6],
-"db/df0/classTransactionCallback.html#a7937d93dbd22617a2fd3893a6fe8c23c":[6,0,4502,3],
-"db/df0/classTransactionCallback.html#a89e9ebf06ffbad9dcf77a78f9f989450":[6,0,4502,0],
-"db/df0/classTransactionCallback.html#ab73d1741c21ea9fd86f65a647768e972":[6,0,4502,4],
-"db/df0/classTransactionCallback.html#abb0dbcebb22ea716025ed6aca99f6afb":[6,0,4502,5],
-"db/df0/classTransactionCallback.html#adeff62976c11d9d90169e4650640118b":[6,0,4502,1]
+"db/df0/classTransactionCallback.html":[6,0,4503],
+"db/df0/classTransactionCallback.html#a381e889074bc5ca48574d37fe6eea00f":[6,0,4503,6]
 };

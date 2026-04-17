@@ -1,5 +1,9 @@
 var NAVTREEINDEX258 =
 {
+"da/d17/structEnchantDuration.html#ae803f6a9ce9cdb0dbb133bc85b6613ab":[6,0,1037,2],
+"da/d1a/LockedQueue_8h.html":[7,0,0,0,0,14,0],
+"da/d1c/DuelHandler_8cpp.html":[7,0,0,0,1,2,22,12],
+"da/d1d/boss__void__reaver_8cpp.html":[7,0,0,0,1,3,7,5,2,3],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6":[7,0,0,0,1,3,7,5,2,3,2],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,2,3,2,2],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6a37f92b258a27961515d602836cee1bef":[7,0,0,0,1,3,7,5,2,3,2,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX258 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a192ee77678cf950c944373e6b1e9e1eb":[7,0,0,0,1,2,41,0,0,6,47],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a19d9956582157d0b9be1d9365b5be6a0":[7,0,0,0,1,2,41,0,0,6,241],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a0187ab21626c9032d7398c0b98941d":[7,0,0,0,1,2,41,0,0,6,262],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a7d44003e8e47f586aedc2352fe5c90":[7,0,0,0,1,2,41,0,0,6,310],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1b980e2a09de4ec8747945e8ee141f10":[7,0,0,0,1,2,41,0,0,6,220],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1c3516bb8442ba5d970c928ffc976689":[7,0,0,0,1,2,41,0,0,6,36],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1cf455504c89b555aaca6ed87eb7eff4":[7,0,0,0,1,2,41,0,0,6,168],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1e7e5c8d0e92113d05321ff57d81578b":[7,0,0,0,1,2,41,0,0,6,67]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a7d44003e8e47f586aedc2352fe5c90":[7,0,0,0,1,2,41,0,0,6,310]
 };

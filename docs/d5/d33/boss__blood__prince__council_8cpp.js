@@ -21,6 +21,7 @@ var boss__blood__prince__council_8cpp =
     [ "spell_taldaram_glittering_sparks", "d0/d3f/classspell__taldaram__glittering__sparks.html", "d0/d3f/classspell__taldaram__glittering__sparks" ],
     [ "spell_taldaram_summon_flame_ball", "d5/d61/classspell__taldaram__summon__flame__ball.html", "d5/d61/classspell__taldaram__summon__flame__ball" ],
     [ "spell_taldaram_ball_of_inferno_flame", "d4/d1d/classspell__taldaram__ball__of__inferno__flame.html", "d4/d1d/classspell__taldaram__ball__of__inferno__flame" ],
+    [ "spell_taldaram_ball_of_inferno_flame_aura", "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html", "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura" ],
     [ "spell_valanar_kinetic_bomb", "d5/d2a/classspell__valanar__kinetic__bomb.html", "d5/d2a/classspell__valanar__kinetic__bomb" ],
     [ "spell_valanar_kinetic_bomb_aura", "d6/d82/classspell__valanar__kinetic__bomb__aura.html", "d6/d82/classspell__valanar__kinetic__bomb__aura" ],
     [ "spell_valanar_kinetic_bomb_absorb_aura", "d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html", "d9/d97/classspell__valanar__kinetic__bomb__absorb__aura" ],

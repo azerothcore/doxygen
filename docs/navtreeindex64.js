@@ -1,5 +1,9 @@
 var NAVTREEINDEX64 =
 {
+"d2/d52/classProcEventInfoBuilder.html#acf2feea658b0a4a3d7b2d663aae7e3ee":[6,0,2456,16],
+"d2/d52/classProcEventInfoBuilder.html#ae0f8d3a43a218b4459db0aa3fee95bf0":[6,0,2456,1],
+"d2/d52/classProcEventInfoBuilder.html#aebac87d053e09dba16456a9f49322973":[6,0,2456,11],
+"d2/d52/classProcEventInfoBuilder.html#aec3496f0ce0cd0be4f8b1b2f48146206":[6,0,2456,7],
 "d2/d52/classProcEventInfoBuilder.html#aefbc707a11b34a2bae78f5cf52d4b7a0":[6,0,2456,23],
 "d2/d52/classProcEventInfoBuilder.html#af39d23e9a51f924215a20a578062a9db":[6,0,2456,8],
 "d2/d52/classProcEventInfoBuilder.html#afbc6d5efae5c965c61ebb7972aafb7f0":[6,0,2456,20],
@@ -143,10 +147,10 @@ var NAVTREEINDEX64 =
 "d2/d59/classspell__q12066__bunny__kill__credit.html#a2d83815d44543686525238723a3ab39a":[6,0,3874,2],
 "d2/d59/classspell__q12066__bunny__kill__credit.html#a326656405c3400225a4ce10567c1c482":[6,0,3874,1],
 "d2/d59/classspell__q12066__bunny__kill__credit.html#a904038167c9ba270cb54cd6adbe22563":[6,0,3874,0],
-"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html":[6,0,4179],
-"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,4179,2],
-"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,4179,1],
-"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,4179,0],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html":[6,0,4180],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,4180,2],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,4180,1],
+"d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,4180,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,12,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,12,0,3,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1ae20bc3b9f4d703c8214fb46727ea0c08":[7,0,0,0,1,3,4,1,1,5,13,26],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1ae51a822f8e378322c8502b3ca41273f5":[7,0,0,0,1,3,4,1,1,5,13,5],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1aef26679eb61c563608d0092c65f5b75a":[7,0,0,0,1,3,4,1,1,5,13,54],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1aef7aa639f8f7712c7bb475fbee54024c":[7,0,0,0,1,3,4,1,1,5,13,47],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1afc42c41091a3297efbc904223e657091":[7,0,0,0,1,3,4,1,1,5,13,3],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1afd90d7d8f2b3d08e29779487a6c4aea8":[7,0,0,0,1,3,4,1,1,5,13,16],
-"d2/d5b/culling__of__stratholme_8cpp.html#a22116143a33cb99aa5c75ef01f5a6e32":[7,0,0,0,1,3,4,1,1,5,10],
-"d2/d5b/culling__of__stratholme_8cpp.html#a22116143a33cb99aa5c75ef01f5a6e32a155559dd8f87a17c44560a3f08b679f2":[7,0,0,0,1,3,4,1,1,5,10,0]
+"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1aef7aa639f8f7712c7bb475fbee54024c":[7,0,0,0,1,3,4,1,1,5,13,47]
 };

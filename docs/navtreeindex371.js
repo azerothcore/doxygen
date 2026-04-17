@@ -1,5 +1,10 @@
 var NAVTREEINDEX371 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a491a95b7bcbd9bc87a7d7b1a634590e1":[7,0,0,0,1,2,41,9,60,17],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a4a2aa8566b4dc273ad352a0b7b2da01d":[7,0,0,0,1,2,41,9,60,50],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a4af788d14322aa468b7a517cb8901e3d":[7,0,0,0,1,2,41,9,60,3],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a516a507bd1698b0c02b7d9c9dcb486f4":[7,0,0,0,1,2,41,9,60,9],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a55ffd33374e1ff0c1e18209f685a7bcc":[7,0,0,0,1,2,41,9,60,32],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a627af1a1686f4cec15005b5782204e42":[7,0,0,0,1,2,41,9,60,35],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6b4de4e8d4250a7dedba74d70c364d9e":[7,0,0,0,1,2,41,9,60,40],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6be082acf3ec6226f302ef54deba7559":[7,0,0,0,1,2,41,9,60,41],
@@ -185,9 +190,9 @@ var NAVTREEINDEX371 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[6,0,836,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[6,0,836,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,836,10],
-"de/d34/structSpellDurationEntry.html":[6,0,4380],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4380,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4380,0],
+"de/d34/structSpellDurationEntry.html":[6,0,4381],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4381,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4381,0],
 "de/d36/classnpc__mrfloppy.html":[6,0,1990],
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[6,0,1990,1],
 "de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[6,0,1990,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX371 =
 "de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,855,3],
 "de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,855,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html":[6,0,235],
-"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,235,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,235,1],
-"de/d3a/classspell__warlords__rage.html":[6,0,4290],
-"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4290,0],
-"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,4290,2],
-"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,4290,1]
+"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,235,0]
 };

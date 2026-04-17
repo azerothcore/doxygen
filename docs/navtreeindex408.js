@@ -1,5 +1,10 @@
 var NAVTREEINDEX408 =
 {
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[6,0,817],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[6,0,817,1],
@@ -39,10 +44,10 @@ var NAVTREEINDEX408 =
 "df/dc8/classNullCreatureAI.html#aa9969eeb9a79559c9f2d3bd907b3fd85":[6,0,2317,0],
 "df/dc8/classNullCreatureAI.html#ab200fcf78dee74a2ec808c01f5855236":[6,0,2317,8],
 "df/dc8/classNullCreatureAI.html#ac9ccd2d260170b218acf1997a0bded97":[6,0,2317,3],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[6,0,4428,3],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[6,0,4428,3,1],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[6,0,4428,3,2],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[6,0,4428,3,0],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[6,0,4429,3],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[6,0,4429,3,1],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[6,0,4429,3,2],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[6,0,4429,3,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html":[6,0,1185,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[6,0,1185,0,2],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[6,0,1185,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX408 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[7,0,0,0,1,3,9,10,60,7],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[7,0,0,0,1,3,9,10,60,4],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[7,0,0,0,1,3,9,10,60,11],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,60,19],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aea53f66ddd3e2f9b434deda1b1f87d64":[7,0,0,0,1,3,9,10,60,44],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aff57a4d6c9ab35850717f3006511436f":[7,0,0,0,1,3,9,10,60,49],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html":[6,0,2091,0],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0b07925593835ce4d4aaab2f672ae387":[6,0,2091,0,6],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2091,0,10]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,60,19]
 };

@@ -1,12 +1,17 @@
 var NAVTREEINDEX403 =
 {
-"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4428,32],
-"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4428,19],
-"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4428,14],
-"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4428,10],
-"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[6,0,4428,70],
-"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[6,0,4428,9],
-"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4428,29],
+"df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b":[6,0,4429,67],
+"df/d92/classSpellScript.html#ad003dd5f9342f3155ab07dc6a6c92615":[6,0,4429,54],
+"df/d92/classSpellScript.html#ad3b76d0716ab3113b56ef35336e75709":[6,0,4429,36],
+"df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[6,0,4429,39],
+"df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c":[6,0,4429,45],
+"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4429,32],
+"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4429,19],
+"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4429,14],
+"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4429,10],
+"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[6,0,4429,70],
+"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[6,0,4429,9],
+"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4429,29],
 "df/d92/classnpc__frostwing__vrykul.html":[6,0,1816],
 "df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[6,0,1816,2],
 "df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[6,0,1816,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX403 =
 "df/d9d/classMessageBuffer.html#acc13033dd688408760116899ca38f94e":[6,0,1524,12],
 "df/d9d/classMessageBuffer.html#ace3b4c6c430e225cccf5119467721735":[6,0,1524,17],
 "df/d9d/classMessageBuffer.html#ad5765765420af77b236d61f3c7bdadfa":[6,0,1524,8],
-"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[6,0,1524,5],
-"df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[6,0,1524,13],
-"df/d9d/classMessageBuffer.html#aff68a6f579650f642ef3919046583391":[6,0,1524,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html":[7,0,0,0,1,3,2,27],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a04c0b579fd8cf79f50c4720c82138c4c":[7,0,0,0,1,3,2,27,11],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a40e9ab298d8c4d814487bbe7f269030a":[7,0,0,0,1,3,2,27,12]
+"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[6,0,1524,5]
 };

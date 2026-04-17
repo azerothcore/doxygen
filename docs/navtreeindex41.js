@@ -1,5 +1,9 @@
 var NAVTREEINDEX41 =
 {
+"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4":[7,0,0,0,1,2,16,10,5,33,0],
+"d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4faa6c2bba993427bbcd1ee001e9730c59d":[7,0,0,0,1,2,16,10,5,33,1],
+"d1/daf/Unit_8h.html#aa02d6a93a0021b2c52a47f8bb09a173a":[7,0,0,0,1,2,16,10,5,15],
+"d1/daf/Unit_8h.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed":[7,0,0,0,1,2,16,10,5,20],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930":[7,0,0,0,1,2,16,10,5,40],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a1508cd45d5170a4c0e0b322cf862a5ae":[7,0,0,0,1,2,16,10,5,40,2],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a686cebb344da5f1a40407c2feb03d2da":[7,0,0,0,1,2,16,10,5,40,0],
@@ -123,14 +127,14 @@ var NAVTREEINDEX41 =
 "d1/db0/classspell__item__multiphase__goggles.html#aa93b45e31c33caf3ea51a26846566b34":[6,0,3407,2],
 "d1/db1/UnitAI_8cpp.html":[7,0,0,0,1,2,3,0,14],
 "d1/db1/UnitAI_8cpp.html#a7147e15125e75e9e1624cd480f4afb5f":[7,0,0,0,1,2,3,0,14,0],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html":[6,0,4209],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[6,0,4209,2],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[6,0,4209,1],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[6,0,4209,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4334],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4334,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4334,1],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4334,2],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html":[6,0,4210],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[6,0,4210,2],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[6,0,4210,1],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[6,0,4210,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4335],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4335,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4335,1],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4335,2],
 "d1/db2/classspell__item__mirrens__drinking__hat.html":[6,0,3405],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a14df2ed73118826254a6ffa923063f6c":[6,0,3405,0],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a1b20ba3fe209ebf0100f32d4013f2d08":[6,0,3405,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX41 =
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60":[7,0,0,0,1,3,4,17,10,6],
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973":[7,0,0,0,1,3,4,17,10,5],
 "d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29":[7,0,0,0,1,3,4,17,10,1],
-"d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773":[7,0,0,0,1,3,4,17,10,0],
-"d1/db7/zone__darkshore_8cpp.html#a4a231f21241510908fe1bab1745bec56":[7,0,0,0,1,3,4,17,14],
-"d1/db7/zone__darkshore_8cpp.html#a4a231f21241510908fe1bab1745bec56a1275f169479aee3e508a7c8cc63528ae":[7,0,0,0,1,3,4,17,14,9],
-"d1/db7/zone__darkshore_8cpp.html#a4a231f21241510908fe1bab1745bec56a33b775990c585ad8d13c71081dc3b1c4":[7,0,0,0,1,3,4,17,14,8],
-"d1/db7/zone__darkshore_8cpp.html#a4a231f21241510908fe1bab1745bec56a33fbb8b046204271ed26d265cbf6c9d3":[7,0,0,0,1,3,4,17,14,16]
+"d1/db7/zone__darkshore_8cpp.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773":[7,0,0,0,1,3,4,17,10,0]
 };

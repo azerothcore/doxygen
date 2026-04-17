@@ -1,5 +1,10 @@
 var NAVTREEINDEX387 =
 {
+"de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70":[6,0,4510,0],
+"de/dcf/classTransportBase.html#a7cb7586a6935ca4e08aa3e658982abec":[6,0,4510,4],
+"de/dcf/classTransportBase.html#a81dca3435a1a1666a90acd8e154e3287":[6,0,4510,1],
+"de/dcf/classTransportBase.html#aa4d00f15dc0e6c53b4a175b0ca53021b":[6,0,4510,3],
+"de/dcf/classTransportBase.html#ae8c9eb64027f8e7c781f0af192e3f6c1":[6,0,4510,2],
 "de/dd1/classCastRunesEvent.html":[6,0,857],
 "de/dd1/classCastRunesEvent.html#a308c679c6e427e89734b5f506ad9d0d6":[6,0,857,2],
 "de/dd1/classCastRunesEvent.html#aa3c5912362a4ce8a5b463da626f277b0":[6,0,857,0],
@@ -181,11 +186,11 @@ var NAVTREEINDEX387 =
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,3105,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,3105,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,3105,2],
-"de/de0/structSpellClickInfo.html":[6,0,4374],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4374,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4374,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4374,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4374,3],
+"de/de0/structSpellClickInfo.html":[6,0,4375],
+"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4375,1],
+"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4375,2],
+"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4375,0],
+"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4375,3],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[6,0,795,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[6,0,795,0,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[6,0,795,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX387 =
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca93bda613c47e946b93d49c274a9e0ac6":[7,0,0,0,1,3,5,6,9,41,20],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b":[7,0,0,0,1,3,5,6,9,41,3],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caa0cd634c01d3c8d5ecf6339dcbe4ac53":[7,0,0,0,1,3,5,6,9,41,15],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caaedd791f2995c3a06c0c25be75c8522a":[7,0,0,0,1,3,5,6,9,41,32],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cabd5eef3f1b74c3c6b27720c8b9dadb6b":[7,0,0,0,1,3,5,6,9,41,13],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cac85d6f8366ed996b0a55e4c661aacd41":[7,0,0,0,1,3,5,6,9,41,6],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf39450cf769b7beb843db9d1d73f62":[7,0,0,0,1,3,5,6,9,41,31],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caccb63962003ee4919f4fb6705092f56c":[7,0,0,0,1,3,5,6,9,41,24],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cad426932b1103da5d8cb5f7efb6d7fcfc":[7,0,0,0,1,3,5,6,9,41,17]
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caaedd791f2995c3a06c0c25be75c8522a":[7,0,0,0,1,3,5,6,9,41,32]
 };

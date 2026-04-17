@@ -1,5 +1,9 @@
 var NAVTREEINDEX233 =
 {
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0a1c0e8ac3731de8d878b6d04493c594":[7,0,0,0,1,2,8,1,19,11,26],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0f22a303bdde42fd4ba2e555d8f3841c":[7,0,0,0,1,2,8,1,19,11,1],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a10b4cd7727e528609a0ff55b79daadd4":[7,0,0,0,1,2,8,1,19,11,7],
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a1f85dcb64b1d4a625674ed40542f33d6":[7,0,0,0,1,2,8,1,19,11,10],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a39168537485f83fcaecad9ee7df5c53c":[7,0,0,0,1,2,8,1,19,11,0],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a3c37fa41cf718fc83c59d582aedb8c93":[7,0,0,0,1,2,8,1,19,11,23],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a3e8f730935357ca3e65353a1f16eebc7":[7,0,0,0,1,2,8,1,19,11,17],
@@ -94,14 +98,14 @@ var NAVTREEINDEX233 =
 "d8/de1/structTrainer_1_1Spell.html":[6,0,9,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,9,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
-"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX233 =
 "d8/deb/classnpc__essence__of__twin.html":[6,0,1791],
 "d8/deb/classnpc__essence__of__twin.html#a019de64e5e01e611acfda5db4c279b19":[6,0,1791,0],
 "d8/deb/classnpc__essence__of__twin.html#a6f37b7f1152098b41b07ddbae3613c63":[6,0,1791,1],
-"d8/deb/structboss__freya__iron__root.html":[6,0,495],
-"d8/deb/structboss__freya__iron__root.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f":[6,0,495,1],
-"d8/deb/structboss__freya__iron__root.html#af35a268c89c025d95c13ea8c87d6516e":[6,0,495,0],
-"d8/ded/classat__cthun__center.html":[6,0,219],
-"d8/ded/classat__cthun__center.html#a75cf2b77215e0d50c1c89ec9b522ebc3":[6,0,219,0]
+"d8/deb/structboss__freya__iron__root.html":[6,0,495]
 };

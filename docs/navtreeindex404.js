@@ -1,5 +1,10 @@
 var NAVTREEINDEX404 =
 {
+"df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[6,0,1524,13],
+"df/d9d/classMessageBuffer.html#aff68a6f579650f642ef3919046583391":[6,0,1524,7],
+"df/d9d/zone__isle__of__queldanas_8cpp.html":[7,0,0,0,1,3,2,27],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#a04c0b579fd8cf79f50c4720c82138c4c":[7,0,0,0,1,3,2,27,11],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#a40e9ab298d8c4d814487bbe7f269030a":[7,0,0,0,1,3,2,27,12],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75":[7,0,0,0,1,3,2,27,7],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a063098109895270034b3fa4751687e8d":[7,0,0,0,1,3,2,27,7,3],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a06d32d4e302c9b869f9fad03ae7b95e1":[7,0,0,0,1,3,2,27,7,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX404 =
 "df/da4/boss__loken_8cpp.html#ac8ac02e933ca6a1b9128844eed6d45a4aac47796ae5355ebf558988c4c62b8e28":[7,0,0,0,1,3,5,9,0,2,2,1],
 "df/da4/boss__loken_8cpp.html#ac8ac02e933ca6a1b9128844eed6d45a4acec3ec5817c71ea46a8e473d513a53ae":[7,0,0,0,1,3,5,9,0,2,2,3],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html":[6,0,3774],
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#a0dcd926eaf184ad5758f833b1c185e33":[6,0,3774,3],
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#a3e6027433902a5f8b4955c766cca51b4":[6,0,3774,1],
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#a843b376abe1439d8431df9a70f40deb6":[6,0,3774,2],
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#ae73e9e1681eb191bb7e90a09c89b6c0d":[6,0,3774,0],
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#af13ff5845ea9121ceac37a4d93914f23":[6,0,3774,4],
-"df/da5/classspell__ice__spear__control__aura.html":[6,0,3254]
+"df/da4/classspell__pri__glyph__of__dispel__magic.html#a0dcd926eaf184ad5758f833b1c185e33":[6,0,3774,3]
 };
