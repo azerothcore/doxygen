@@ -1,6 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a89cbd29300ca07b3366a197a7549edab":[6,0,2118,0,8],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a97edb216194b16d273fe6098fdaba51e":[6,0,2118,0,18],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a9df8eeb695736b2a182c38a69840e99f":[6,0,2118,0,7],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aa223fcf402ed5d99ea88275b357f398c":[6,0,2118,0,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX389 =
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#a5502476536a923e77af67c4bbcf005e3":[6,0,2686,1],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#a5b6e96abb900da33657cdbbd137138e3":[6,0,2686,0],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#aca08edf219504156d6157c95702bb815":[6,0,2686,2],
-"de/dfd/classspell__q12937__relief__for__the__fallen.html":[6,0,3911]
+"de/dfd/classspell__q12937__relief__for__the__fallen.html":[6,0,3911],
+"de/dfd/classspell__q12937__relief__for__the__fallen.html#a1a98b0d8059d5ae47688c2c9bd0486bd":[6,0,3911,2]
 };

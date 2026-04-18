@@ -1,6 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647":[7,0,0,0,1,3,7,12,13,0],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e":[7,0,0,0,1,3,7,12,13,4],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1":[7,0,0,0,1,3,7,12,13,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d":[7,0,0,0,1,3,7,12,13,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX349 =
 "dd/dd6/structboss__falric.html#a099280eb7f2b40df3fbecfa9fe35fac4":[6,0,472,9],
 "dd/dd6/structboss__falric.html#a4ade4a16095031988e2ae50602cd0da8":[6,0,472,3],
 "dd/dd6/structboss__falric.html#a68c6b3012bbb1e7542c9b4db2f596463":[6,0,472,4],
-"dd/dd6/structboss__falric.html#a9acd7854d725b07df53ae60538df27b1":[6,0,472,1]
+"dd/dd6/structboss__falric.html#a9acd7854d725b07df53ae60538df27b1":[6,0,472,1],
+"dd/dd6/structboss__falric.html#aa53d57dee3482ac2d186ecfdf4fa232d":[6,0,472,5]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX309 =
 {
-"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada2a24ce4fa104b38b9e180002ad67029b":[7,0,0,0,1,3,2,6,3,5,1],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada308579da4f1b2f6e73ee995fb4d8af60":[7,0,0,0,1,3,2,6,3,5,6],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada324a7666b18a92df177fa61ee443986b":[7,0,0,0,1,3,2,6,3,5,41],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada34278379278ef11d74a61fcf7021fee3":[7,0,0,0,1,3,2,6,3,5,53],
@@ -249,5 +248,6 @@ var NAVTREEINDEX309 =
 "dc/d05/structboss__anomalus.html#ada0735330bff29a8c04706c980e6bbfc":[6,0,390,1],
 "dc/d05/structnpc__shade__of__jindo.html":[6,0,2119],
 "dc/d05/structnpc__shade__of__jindo.html#a1aca8192c0655c0ab359f49448f8fafd":[6,0,2119,4],
-"dc/d05/structnpc__shade__of__jindo.html#a1d74d8113f5ef117b2968f8f864fcaf4":[6,0,2119,5]
+"dc/d05/structnpc__shade__of__jindo.html#a1d74d8113f5ef117b2968f8f864fcaf4":[6,0,2119,5],
+"dc/d05/structnpc__shade__of__jindo.html#a450f887c97cfa3ebce91ebd058ed9849":[6,0,2119,2]
 };

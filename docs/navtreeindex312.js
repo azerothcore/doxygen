@@ -1,6 +1,5 @@
 var NAVTREEINDEX312 =
 {
-"dc/d1a/CalendarMgr_8h.html#a5113854272ddc0db2f1b16775df15bb4":[7,0,0,0,1,2,10,1,13],
 "dc/d1a/CalendarMgr_8h.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b":[7,0,0,0,1,2,10,1,13,0],
 "dc/d1a/CalendarMgr_8h.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f":[7,0,0,0,1,2,10,1,13,1],
 "dc/d1a/CalendarMgr_8h.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a":[7,0,0,0,1,2,10,1,13,2],
@@ -132,8 +131,8 @@ var NAVTREEINDEX312 =
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a29506768ce5a5312e659ec787dbc2f8e":[6,0,12,7,2,1],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3a14b2f4eb5e6d1ce768fe45881e2206":[5,0,34,7,2,2],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3a14b2f4eb5e6d1ce768fe45881e2206":[6,0,12,7,2,2],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0":[5,0,34,7,2,3],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0":[6,0,12,7,2,3],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0":[5,0,34,7,2,3],
 "dc/d23/classVehicle.html":[6,0,4553],
 "dc/d23/classVehicle.html#a0201fddbb6ce34d9314f5105d847aa37":[6,0,4553,36],
 "dc/d23/classVehicle.html#a06211ca71a5a6a44f7430d7c6c430c51":[6,0,4553,24],
@@ -249,5 +248,6 @@ var NAVTREEINDEX312 =
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a414a0fe2c43fba7473fe300c1e62eb37":[7,0,0,0,1,3,5,9,2,9,26,5],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a466eecbee54ca0c254615c921b684435":[7,0,0,0,1,3,5,9,2,9,26,13],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a4b698c31090a8d51dd1ea76e8275fdca":[7,0,0,0,1,3,5,9,2,9,26,25],
-"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a4ce311b4061e277fcd10f0eaf26e4ec1":[7,0,0,0,1,3,5,9,2,9,26,42]
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a4ce311b4061e277fcd10f0eaf26e4ec1":[7,0,0,0,1,3,5,9,2,9,26,42],
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a4f1abcbf6dd50f3b0d3c6088aa4415bd":[7,0,0,0,1,3,5,9,2,9,26,53]
 };

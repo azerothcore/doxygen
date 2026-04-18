@@ -1,6 +1,5 @@
 var NAVTREEINDEX346 =
 {
-"dd/db3/classReputationMgr.html#ad750a9048d218bf3d91c22777f5ec8ca":[6,0,2514,31],
 "dd/db3/classReputationMgr.html#ada7a924a1bb1eea6b8da692ec483c7c6":[6,0,2514,26],
 "dd/db3/classReputationMgr.html#adccb4d5f2a7f79d6211cd0ca3f088a1a":[6,0,2514,24],
 "dd/db3/classReputationMgr.html#aeb082e405284b2dfbc78ff4205fb2575":[6,0,2514,18],
@@ -90,8 +89,8 @@ var NAVTREEINDEX346 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,639,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[6,0,4324],
@@ -249,5 +248,6 @@ var NAVTREEINDEX346 =
 "dd/dc8/classspell__warl__demonic__knowledge.html#a42770d7f7e5bd41cd3f0a283c544c642":[6,0,4256,0],
 "dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[6,0,4256,2],
 "dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,4256,1],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,4256,3]
+"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,4256,3],
+"dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22]
 };

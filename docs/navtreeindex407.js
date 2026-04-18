@@ -1,6 +1,5 @@
 var NAVTREEINDEX407 =
 {
-"df/db8/structboss__alar.html#aad585c013fd3a9a87ddb0ae94ca41d45":[6,0,382,22],
 "df/db8/structboss__alar.html#aad92b4171c7e76781a72bac1ca7b257b":[6,0,382,25],
 "df/db8/structboss__alar.html#ab3e2e227822dd11e2530cd900c065b18":[6,0,382,26],
 "df/db8/structboss__alar.html#ab4b872bc9d4625fdaf7633a9c1f2bfa6":[6,0,382,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX407 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#ab9bf289c0814e60fd75902b4e87d1e46":[6,0,2337,3],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2337,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2337,7],
-"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2337,8]
+"df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2337,8],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1]
 };

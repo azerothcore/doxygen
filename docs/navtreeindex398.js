@@ -1,6 +1,5 @@
 var NAVTREEINDEX398 =
 {
-"df/d4e/structBfWGCoordGY.html#a9c761e77b7194ab1bb80d28f2b1e1f6d":[6,0,361,1],
 "df/d4e/structBfWGCoordGY.html#ad69833b4e2a27999dcd13e5ac5bda892":[6,0,361,5],
 "df/d4e/structBfWGCoordGY.html#ae1a4b69ea4edabe51f1378c6cb066cad":[6,0,361,4],
 "df/d4e/structnpc__apothecary__genericAI.html":[6,0,1634],
@@ -249,5 +248,6 @@ var NAVTREEINDEX398 =
 "df/d5c/classnpc__commandscript.html#a16fe889389b58c80f75a96f522440460":[6,0,1716,34],
 "df/d5c/classnpc__commandscript.html#a24d43a72ee428246de161ec13ab18a24":[6,0,1716,2],
 "df/d5c/classnpc__commandscript.html#a265fbd601b08b2265f58a4301093ff7d":[6,0,1716,31],
-"df/d5c/classnpc__commandscript.html#a2b6ee43b9f9295a47d3445a1f09c6d0f":[6,0,1716,36]
+"df/d5c/classnpc__commandscript.html#a2b6ee43b9f9295a47d3445a1f09c6d0f":[6,0,1716,36],
+"df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e":[6,0,1716,37]
 };

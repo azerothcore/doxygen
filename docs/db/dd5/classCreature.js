@@ -265,7 +265,6 @@ var classCreature =
     [ "_sparringPct", "db/dd5/classCreature.html#a69f907d08a41e37ff2c0519f1b030a19", null ],
     [ "_spellFocusInfo", "db/dd5/classCreature.html#a151f08c7522c849fd1383e89a9d326b6", null ],
     [ "_spellFocusTarget", "db/dd5/classCreature.html#acfda068283a7b0195f3671d0fa587db4", null ],
-    [ "_triggerVehicleKitInit", "db/dd5/classCreature.html#a3b49ed44c509484e0720afd25e375dba", null ],
     [ "Delay", "db/dd5/classCreature.html#aad86470956fa645f58e4c2a3d87b60d6", null ],
     [ "DisableLootReward", "db/dd5/classCreature.html#ae1edc2f713a5f110f165d14f9361610e", null ],
     [ "DisableReputationReward", "db/dd5/classCreature.html#ac601efb79b880ed2d699b4bee2e878be", null ],

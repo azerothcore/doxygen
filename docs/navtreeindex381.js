@@ -1,6 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"de/d9d/classinstance__pit__of__saron.html":[6,0,1347],
 "de/d9d/classinstance__pit__of__saron.html#a2a1bc125bfe653a1da8b8c36b86aae67":[6,0,1347,2],
 "de/d9d/classinstance__pit__of__saron.html#a84526dbb5ac7eb6ff5ebe24ed339826b":[6,0,1347,1],
 "de/d9d/classnpc__prof__alchemy.html":[6,0,2073],
@@ -249,5 +248,6 @@ var NAVTREEINDEX381 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4e56fc58d4d0ece6df9b8c8fe38eef5a":[7,0,0,0,1,1,0,0,1,1,229],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4eb53a56d4305ca1c685d0ff0d885169":[7,0,0,0,1,1,0,0,1,1,44],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4ec2f88610d3f86d3c8cbcba7243f08a":[7,0,0,0,1,1,0,0,1,1,416],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4ef99090c80fc51468d44dc7aaa6b42b":[7,0,0,0,1,1,0,0,1,1,195]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4ef99090c80fc51468d44dc7aaa6b42b":[7,0,0,0,1,1,0,0,1,1,195],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4f2f4b170744b8dc79f4b2ae2a76387d":[7,0,0,0,1,1,0,0,1,1,409]
 };

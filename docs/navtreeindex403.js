@@ -1,6 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b":[6,0,4429,67],
 "df/d92/classSpellScript.html#ad003dd5f9342f3155ab07dc6a6c92615":[6,0,4429,54],
 "df/d92/classSpellScript.html#ad3b76d0716ab3113b56ef35336e75709":[6,0,4429,36],
 "df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[6,0,4429,39],
@@ -249,5 +248,6 @@ var NAVTREEINDEX403 =
 "df/d9d/classMessageBuffer.html#acc13033dd688408760116899ca38f94e":[6,0,1524,12],
 "df/d9d/classMessageBuffer.html#ace3b4c6c430e225cccf5119467721735":[6,0,1524,17],
 "df/d9d/classMessageBuffer.html#ad5765765420af77b236d61f3c7bdadfa":[6,0,1524,8],
-"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[6,0,1524,5]
+"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[6,0,1524,5],
+"df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[6,0,1524,13]
 };

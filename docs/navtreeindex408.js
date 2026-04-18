@@ -1,6 +1,5 @@
 var NAVTREEINDEX408 =
 {
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX408 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[7,0,0,0,1,3,9,10,60,7],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[7,0,0,0,1,3,9,10,60,4],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[7,0,0,0,1,3,9,10,60,11],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,60,19]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,60,19],
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aea53f66ddd3e2f9b434deda1b1f87d64":[7,0,0,0,1,3,9,10,60,44]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX316 =
 {
-"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[6,0,3412,2],
 "dc/d39/structnpc__janalai__hatcher.html":[6,0,1920],
 "dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[6,0,1920,10],
 "dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[6,0,1920,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX316 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,13,3,0],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa01791719f85184f63a33a611a915e2b":[7,0,0,0,1,3,5,7,13,3,7],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa4c535acb8c4322e059df4a57b14bf11":[7,0,0,0,1,3,5,7,13,3,9],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abda46ba2baef05ca366eda88abde76a0":[7,0,0,0,1,3,5,7,13,3,5]
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abda46ba2baef05ca366eda88abde76a0":[7,0,0,0,1,3,5,7,13,3,5],
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abe3ac13e4769e945ff1bca6c51c6d736":[7,0,0,0,1,3,5,7,13,3,6]
 };

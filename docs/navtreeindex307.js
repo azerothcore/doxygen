@@ -1,6 +1,5 @@
 var NAVTREEINDEX307 =
 {
-"db/df0/classTransactionCallback.html#a7937d93dbd22617a2fd3893a6fe8c23c":[6,0,4503,3],
 "db/df0/classTransactionCallback.html#a89e9ebf06ffbad9dcf77a78f9f989450":[6,0,4503,0],
 "db/df0/classTransactionCallback.html#ab73d1741c21ea9fd86f65a647768e972":[6,0,4503,4],
 "db/df0/classTransactionCallback.html#abb0dbcebb22ea716025ed6aca99f6afb":[6,0,4503,5],
@@ -137,10 +136,10 @@ var NAVTREEINDEX307 =
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,12,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[6,0,12,7,6,2],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[6,0,12,7,6,1],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[6,0,12,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
 "db/df8/classpool__commandscript.html":[6,0,2432],
 "db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[6,0,2432,3],
 "db/df8/classpool__commandscript.html#a41308abbe25e1e50325923f62f2fa3af":[6,0,2432,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX307 =
 "db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115":[7,0,0,0,1,3,9,8,77],
 "db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b":[7,0,0,0,1,3,9,8,77,0],
 "db/dfb/spell__quest_8cpp.html#a6fd831c15d53eb8662709430ed88d7a3":[7,0,0,0,1,3,9,8,122],
-"db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19":[7,0,0,0,1,3,9,8,92]
+"db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19":[7,0,0,0,1,3,9,8,92],
+"db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ac9131e86f20693bd376f14a69bfa2d90":[7,0,0,0,1,3,9,8,92,1]
 };

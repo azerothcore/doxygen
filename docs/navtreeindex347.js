@@ -1,6 +1,5 @@
 var NAVTREEINDEX347 =
 {
-"dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
 "dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
 "dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
 "dd/dc9/classboss__festergut.html":[6,0,480],
@@ -249,5 +248,6 @@ var NAVTREEINDEX347 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadec086d3fcbab101abaf7b06e0f5a32":[7,0,0,0,1,2,38,0,77,1,96],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,77,1,140],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab07d4ed0b727b51e4af832dcf4dc0cda":[7,0,0,0,1,2,38,0,77,1,166],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2":[7,0,0,0,1,2,38,0,77,1,64]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2":[7,0,0,0,1,2,38,0,77,1,64],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684":[7,0,0,0,1,2,38,0,77,1,38]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"df/d3d/classspell__pal__item__t6__trinket.html":[6,0,3724],
 "df/d3d/classspell__pal__item__t6__trinket.html#a1ea48d77c2bb5b26c12384e4e11411ff":[6,0,3724,0],
 "df/d3d/classspell__pal__item__t6__trinket.html#a560ade778e046213f60f48364ea3800c":[6,0,3724,5],
 "df/d3d/classspell__pal__item__t6__trinket.html#a65e88419d625dc6e8033b573ce7f18ee":[6,0,3724,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX397 =
 "df/d4e/structBfWGCoordGY.html#a742fcc91d2daf1a9331f02a90496328c":[6,0,361,0],
 "df/d4e/structBfWGCoordGY.html#a844e4c9c9b1a9a22a817025ccda7f08d":[6,0,361,7],
 "df/d4e/structBfWGCoordGY.html#a87d80377ad632b9d667eecf11ae8faae":[6,0,361,3],
-"df/d4e/structBfWGCoordGY.html#a8b0aed9e6973ce6efc5d89a0d10a4139":[6,0,361,2]
+"df/d4e/structBfWGCoordGY.html#a8b0aed9e6973ce6efc5d89a0d10a4139":[6,0,361,2],
+"df/d4e/structBfWGCoordGY.html#a9c761e77b7194ab1bb80d28f2b1e1f6d":[6,0,361,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[6,0,3496,4],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[6,0,3496,0],
 "df/d22/classnpc__gunship__rocketeer.html":[6,0,1846],
 "df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[6,0,1846,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX395 =
 "df/d30/classAccountScript.html#a631f7deca08644da2613142c667618a8":[6,0,29,3],
 "df/d30/classAccountScript.html#a6b5b94c1ac64bf8d926928d8401cd533":[6,0,29,1],
 "df/d30/classAccountScript.html#aae3401d74bdc9e8328a5f084462ae740":[6,0,29,5],
-"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,29,4]
+"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,29,4],
+"df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,29,9]
 };

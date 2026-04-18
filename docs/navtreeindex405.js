@@ -1,6 +1,5 @@
 var NAVTREEINDEX405 =
 {
-"df/da4/classspell__pri__glyph__of__dispel__magic.html#a3e6027433902a5f8b4955c766cca51b4":[6,0,3774,1],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#a843b376abe1439d8431df9a70f40deb6":[6,0,3774,2],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#ae73e9e1681eb191bb7e90a09c89b6c0d":[6,0,3774,0],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#af13ff5845ea9121ceac37a4d93914f23":[6,0,3774,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX405 =
 "df/da7/classBattleground.html#ada82891b0df636385045ce4a8aa9e265":[6,0,326,27],
 "df/da7/classBattleground.html#adaa7c7b4db6828792ab1e2866ef732b6":[6,0,326,54],
 "df/da7/classBattleground.html#adb039c35985c751f5d13a73a8ca46c50":[6,0,326,75],
-"df/da7/classBattleground.html#adb606f987828217052b250766029a7f4":[6,0,326,66]
+"df/da7/classBattleground.html#adb606f987828217052b250766029a7f4":[6,0,326,66],
+"df/da7/classBattleground.html#adb95c85991fb4673d76e2a84b1af6f25":[6,0,326,182]
 };

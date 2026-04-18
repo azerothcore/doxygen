@@ -1,6 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"de/d90/OutdoorPvPZM_8h.html#aefc7683d5c310d6513a4bc64e0562f24":[7,0,0,0,1,3,6,14,18],
 "de/d90/OutdoorPvPZM_8h.html#af392c2c0a8da38f6782ab0ed0501a448":[7,0,0,0,1,3,6,14,20],
 "de/d90/OutdoorPvPZM_8h.html#afd164ef928ed19895648e76207433805":[7,0,0,0,1,3,6,14,10],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html":[6,0,1723,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX380 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,34,6,43,2],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[6,0,12,6,43,2],
 "de/d9d/FormulaScript_8cpp.html":[7,0,0,0,1,2,38,0,47],
-"de/d9d/FormulaScript_8cpp.html#a774b8f7659d09535a55ac9bbdcf46025":[7,0,0,0,1,2,38,0,47,0]
+"de/d9d/FormulaScript_8cpp.html#a774b8f7659d09535a55ac9bbdcf46025":[7,0,0,0,1,2,38,0,47,0],
+"de/d9d/classinstance__pit__of__saron.html":[6,0,1347]
 };

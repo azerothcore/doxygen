@@ -1,6 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,29,9],
 "df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601":[6,0,29,2],
 "df/d30/classThreatReference.html":[6,0,4486],
 "df/d30/classThreatReference.html#a031c33fcc3a29175602f7614b42fb6c3":[6,0,4486,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX396 =
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,34,10,14,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,12,10,14,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[6,0,12,10,14,2],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,34,10,14,2]
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,34,10,14,2],
+"df/d3d/classspell__pal__item__t6__trinket.html":[6,0,3724]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX413 =
 {
-"df/dd9/classUnit.html#af4c07cf7dc9cf427053c2a60fb233750":[6,0,4533,944],
 "df/dd9/classUnit.html#af4c6001646c0c74b591d6e674d371f39":[6,0,4533,547],
 "df/dd9/classUnit.html#af550e02d197cc45dfe695c62ae4670b2":[6,0,4533,137],
 "df/dd9/classUnit.html#af56e0bee946c038fd5b29de4aa8c0f6d":[6,0,4533,682],
@@ -249,5 +248,6 @@ var NAVTREEINDEX413 =
 "df/dda/classspell__mage__focus__magic.html#a9383231fc71c6239507fdf8765d63f3d":[6,0,3572,6],
 "df/dda/classspell__mage__focus__magic.html#a9760351c28f5f9948f0b64ae2ca91c24":[6,0,3572,2],
 "df/dda/classspell__mage__focus__magic.html#aa4ef731870355dc386fcd07c5f19d090":[6,0,3572,4],
-"df/dda/classspell__mage__focus__magic.html#ab3d5e71597c67ec0aed70f7e5d2319ac":[6,0,3572,3]
+"df/dda/classspell__mage__focus__magic.html#ab3d5e71597c67ec0aed70f7e5d2319ac":[6,0,3572,3],
+"df/dda/classspell__mage__focus__magic.html#ad04864f0710262364cf40e071446d87c":[6,0,3572,5]
 };

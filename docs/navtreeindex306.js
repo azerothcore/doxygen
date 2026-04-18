@@ -1,6 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"db/de6/structTargetInfo.html#add2beb55eb3313e474d947fd3eb1fc65":[6,0,4468,7],
 "db/de6/structTargetInfo.html#aebeb2f67bf8646770570e5564fb01d4d":[6,0,4468,0],
 "db/de6/structTargetInfo.html#afb839b2b409a61e4d63de03dbce2abcb":[6,0,4468,4],
 "db/de6/struct__Damage.html":[6,0,13],
@@ -28,8 +27,8 @@ var NAVTREEINDEX306 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[6,0,0,5,11,6],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[6,0,0,5,11,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,1,8,11,8],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,1,8,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[6,0,0,5,11,1],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,1,8,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[6,0,0,5,11,4],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
 "db/de9/classspell__pursue.html":[6,0,3806],
@@ -218,14 +217,14 @@ var NAVTREEINDEX306 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1553,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3273],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3273,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3273,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX306 =
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2":[7,0,0,0,1,3,7,2,3,3,5,0],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1":[7,0,0,0,1,3,7,2,3,3,5,4],
 "db/df0/classTransactionCallback.html":[6,0,4503],
-"db/df0/classTransactionCallback.html#a381e889074bc5ca48574d37fe6eea00f":[6,0,4503,6]
+"db/df0/classTransactionCallback.html#a381e889074bc5ca48574d37fe6eea00f":[6,0,4503,6],
+"db/df0/classTransactionCallback.html#a7937d93dbd22617a2fd3893a6fe8c23c":[6,0,4503,3]
 };

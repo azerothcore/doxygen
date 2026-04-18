@@ -1,6 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,235,1],
 "de/d3a/classspell__warlords__rage.html":[6,0,4291],
 "de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4291,0],
 "de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,4291,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX372 =
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c":[7,0,0,0,1,2,15,5,32,0],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da6007d32ac1027fdc23c0db35632b3b9d":[7,0,0,0,1,2,15,5,32,3],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da94d2d4aff127ae9692ba0f7688bc8243":[7,0,0,0,1,2,15,5,32,2],
-"de/d3d/LFGMgr_8h.html#a8b7ffe5b0af9c677b84adf100fa5cd2e":[7,0,0,0,1,2,15,5,18]
+"de/d3d/LFGMgr_8h.html#a8b7ffe5b0af9c677b84adf100fa5cd2e":[7,0,0,0,1,2,15,5,18],
+"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342ed":[7,0,0,0,1,2,15,5,31]
 };

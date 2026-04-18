@@ -1,6 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ad49b16ea232a8aed4c24552a6aa134d6":[7,0,0,0,1,3,5,18,46,18],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ad9f9f856a49baa889e63c2559035f98b":[7,0,0,0,1,3,5,18,46,31],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1adc40ebfde03b562a61971c58834e94de":[7,0,0,0,1,3,5,18,46,10],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1addd4d03a92584d96581afe7e77db2541":[7,0,0,0,1,3,5,18,46,15],
@@ -249,5 +248,6 @@ var NAVTREEINDEX384 =
 "de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[6,0,2766,3],
 "de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[6,0,2766,2],
 "de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2766,1],
-"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2766,0]
+"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2766,0],
+"de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,172]
 };
