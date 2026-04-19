@@ -269,29 +269,25 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  589</span>                    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>)</div>
 <div class="line"><span class="lineno">  590</span>                    {</div>
 <div class="line"><span class="lineno">  591</span>                        <span class="keywordflow">if</span> (whelp &amp;&amp; whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; whelp-&gt;GetMotionMaster()-&gt;GetCurrentMovementGeneratorType() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
-<div class="line"><span class="lineno">  592</span>                        {</div>
-<div class="line"><span class="lineno">  593</span>                            whelp-&gt;GetMotionMaster()-&gt;MovePoint(0, <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7342565b6b6b21ba611870ba1879ceec">GetNearPosition</a>(4.0f, whelp-&gt;GetOrientation()));</div>
-<div class="line"><span class="lineno">  594</span>                        }</div>
-<div class="line"><span class="lineno">  595</span>                    }</div>
-<div class="line"><span class="lineno">  596</span>                }</div>
-<div class="line"><span class="lineno">  597</span>            }</div>
-<div class="line"><span class="lineno">  598</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>)</div>
-<div class="line"><span class="lineno">  599</span>            {</div>
-<div class="line"><span class="lineno">  600</span>                {</div>
-<div class="line"><span class="lineno">  601</span>                    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>)</div>
-<div class="line"><span class="lineno">  602</span>                    {</div>
-<div class="line"><span class="lineno">  603</span>                        <span class="keywordflow">if</span> (whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; whelp-&gt;GetMotionMaster()-&gt;GetCurrentMovementGeneratorType() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
-<div class="line"><span class="lineno">  604</span>                        {</div>
-<div class="line"><span class="lineno">  605</span>                            whelp-&gt;GetMotionMaster()-&gt;MoveTargetedHome();</div>
-<div class="line"><span class="lineno">  606</span>                        }</div>
-<div class="line"><span class="lineno">  607</span>                    }</div>
-<div class="line"><span class="lineno">  608</span>                }</div>
+<div class="line"><span class="lineno">  592</span>                            whelp-&gt;GetMotionMaster()-&gt;MovePoint(0, <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7342565b6b6b21ba611870ba1879ceec">GetNearPosition</a>(4.0f, whelp-&gt;GetOrientation()));</div>
+<div class="line"><span class="lineno">  593</span>                    }</div>
+<div class="line"><span class="lineno">  594</span>                }</div>
+<div class="line"><span class="lineno">  595</span>            }</div>
+<div class="line"><span class="lineno">  596</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>)</div>
+<div class="line"><span class="lineno">  597</span>            {</div>
+<div class="line"><span class="lineno">  598</span>                {</div>
+<div class="line"><span class="lineno">  599</span>                    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>)</div>
+<div class="line"><span class="lineno">  600</span>                    {</div>
+<div class="line"><span class="lineno">  601</span>                        <span class="keywordflow">if</span> (whelp &amp;&amp; whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; whelp-&gt;GetMotionMaster()-&gt;GetCurrentMovementGeneratorType() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
+<div class="line"><span class="lineno">  602</span>                            whelp-&gt;GetMotionMaster()-&gt;MoveTargetedHome();</div>
+<div class="line"><span class="lineno">  603</span>                    }</div>
+<div class="line"><span class="lineno">  604</span>                }</div>
+<div class="line"><span class="lineno">  605</span>            }</div>
+<div class="line"><span class="lineno">  606</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  607</span>            {</div>
+<div class="line"><span class="lineno">  608</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>.clear();</div>
 <div class="line"><span class="lineno">  609</span>            }</div>
-<div class="line"><span class="lineno">  610</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  611</span>            {</div>
-<div class="line"><span class="lineno">  612</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>.clear();</div>
-<div class="line"><span class="lineno">  613</span>            }</div>
-<div class="line"><span class="lineno">  614</span>        }</div>
+<div class="line"><span class="lineno">  610</span>        }</div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a></div><div class="ttdeci">@ GO_ACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:112</div></div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a></div><div class="ttdeci">@ GO_JUST_DEACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:113</div></div>
 <div class="ttc" id="aMotionMaster_8h_html_a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a></div><div class="ttdeci">@ HOME_MOTION_TYPE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:46</div></div>
@@ -332,7 +328,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d45/classgo__beacon.html">go_beacon</a></li><li class="navelem"><a class="el" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html">go_beaconAI</a></li>
-    <li class="footer">Generated on Sat Apr 18 2026 07:03:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 19 2026 07:13:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
