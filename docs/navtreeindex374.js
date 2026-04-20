@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,476,4],
 "de/d4a/structboss__fathomguard__tidalvess.html#abce5d58fced89ecaac1d1f34989f0d9e":[6,0,476,9],
 "de/d4a/structboss__fathomguard__tidalvess.html#adb4d877f50ba5653d699a0a123f5961c":[6,0,476,8],
 "de/d4a/structboss__fathomguard__tidalvess.html#ae1652d83938dc820255e383870b957a7":[6,0,476,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#a1541ff95bfa6ddc98748381cc2cb99f6":[6,0,3338,4],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#a181434606474535b5ed8dc6ee7c2dc29":[6,0,3338,0],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#a4c28987223d55f31aa6c5f3e349b62b7":[6,0,3338,2],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[6,0,3338,3],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3338,1]
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[6,0,3338,3]
 };

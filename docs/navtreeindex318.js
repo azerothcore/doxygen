@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3acfcbf4b7b73ff54cf73898fdb0e63c4f":[7,0,0,0,1,2,26,2,0,53],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1193ce6e856a199db5ccbe901e4fccc":[7,0,0,0,1,2,26,2,0,18],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1e0a0cca147beae361a74e908c900fd":[7,0,0,0,1,2,26,2,0,65],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835":[7,0,0,0,1,2,26,2,0,58],
@@ -220,8 +221,8 @@ var NAVTREEINDEX318 =
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6":[6,0,1039,0],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a88f11ce75f439fd290bdc09156d559c2":[6,0,1039,5],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[6,0,1039,2],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[5,0,34,6,44],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[6,0,12,6,44],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[5,0,34,6,44],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[6,0,12,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[6,0,12,6,44,5],
@@ -236,18 +237,17 @@ var NAVTREEINDEX318 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[6,0,12,6,44,3],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[6,0,12,6,44,7],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[5,0,34,6,44,7],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[6,0,12,6,44,10],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[5,0,34,6,44,10],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[5,0,34,6,44,2],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[6,0,12,6,44,10],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[6,0,12,6,44,2],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[5,0,34,6,44,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#acb553637ff289603411fa5795a361deb":[5,0,34,6,44,4],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#acb553637ff289603411fa5795a361deb":[6,0,12,6,44,4],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad3ee1ba956ea725db8588e3be3c57b18":[6,0,12,6,44,11],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad3ee1ba956ea725db8588e3be3c57b18":[5,0,34,6,44,11],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[6,0,12,6,44,6],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[5,0,34,6,44,6],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[6,0,12,6,44,6],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[5,0,34,6,44,8],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[6,0,12,6,44,8],
-"dc/d5b/boss__kelidan__the__breaker_8cpp.html":[7,0,0,0,1,3,7,4,0,2],
-"dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,4,0,2,3]
+"dc/d5b/boss__kelidan__the__breaker_8cpp.html":[7,0,0,0,1,3,7,4,0,2]
 };

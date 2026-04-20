@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"df/d6f/structboss__thorim__arena__npcs.html#a3fa38189c886a486aabb39a372834938":[6,0,749,4],
 "df/d6f/structboss__thorim__arena__npcs.html#a6a8489763ca223c749aa71c2da05b3cf":[6,0,749,5],
 "df/d6f/structboss__thorim__arena__npcs.html#a7b118ec6fa25c0f452419d1f5b4a698f":[6,0,749,3],
 "df/d6f/structboss__thorim__arena__npcs.html#a849567e412254aa8d0d7da33b6b1522f":[6,0,749,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7a/classspell__tharon__ja__dummy__aura.html":[6,0,4148],
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a04504220319ec562b1b6691f471c1b8d":[6,0,4148,1],
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a10fd29809373bcfaf38fd587fcdd1dee":[6,0,4148,2],
-"df/d7a/classspell__tharon__ja__dummy__aura.html#a7f7750933e122e8c672b6b93f4801cd7":[6,0,4148,4],
-"df/d7a/classspell__tharon__ja__dummy__aura.html#a9160c940913e4829bd0a6fe269c3b5d3":[6,0,4148,3]
+"df/d7a/classspell__tharon__ja__dummy__aura.html#a7f7750933e122e8c672b6b93f4801cd7":[6,0,4148,4]
 };

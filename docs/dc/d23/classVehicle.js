@@ -37,6 +37,7 @@ var classVehicle =
     [ "Uninstall", "dc/d23/classVehicle.html#a7b143c640964b946a7f58899e6cacf8c", null ],
     [ "Unit::CreateVehicleKit", "dc/d23/classVehicle.html#a9086db467f2f71f20bc02ed2330a8c37", null ],
     [ "Unit::RemoveVehicleKit", "dc/d23/classVehicle.html#a64f84e614dc48de43b62bb1f77fe2bb3", null ],
+    [ "_accessoriesInstalled", "dc/d23/classVehicle.html#a00bd41a6b941f1b66773d9245fe03e4d", null ],
     [ "_creatureEntry", "dc/d23/classVehicle.html#a734ca64ff6fd5d0f43236101d197bff4", null ],
     [ "_me", "dc/d23/classVehicle.html#a89302a361dbe5472d7c651114aeeabf1", null ],
     [ "_status", "dc/d23/classVehicle.html#a785bb6e6d50dfc67610174a394d6c930", null ],

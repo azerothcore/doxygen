@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,172],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[6,0,172,1],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[6,0,172,0],
 "de/dae/shattered__halls_8h.html":[7,0,0,0,1,3,7,4,3,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/dbf/BattlefieldScript_8h.html":[7,0,0,0,1,2,38,0,32],
 "de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089":[7,0,0,0,1,2,38,0,32,1],
 "de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007":[7,0,0,0,1,2,38,0,32,1,1],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235":[7,0,0,0,1,2,38,0,32,1,0],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac":[7,0,0,0,1,2,38,0,32,1,5]
+"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235":[7,0,0,0,1,2,38,0,32,1,0]
 };

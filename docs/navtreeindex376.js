@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#ad28f607b313f7729649261969912eba5":[6,0,2065,0,3],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#aee23a2835b84ac060a29b41c10116904":[6,0,2065,0,4],
 "de/d62/structboss__void__reaver.html":[6,0,784],
 "de/d62/structboss__void__reaver.html#a02c36ea960de24991f879943991a93c6":[6,0,784,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905":[5,0,18,50,2],
 "de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25":[5,0,18,50,7],
 "de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7ca9515ecdf2873ba8695755161ba20588e":[5,0,18,50,0],
-"de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7cac7c7863ffdcf026bc67a11fb0fdddd22":[5,0,18,50,6],
-"de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2":[5,0,18,50,3]
+"de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7cac7c7863ffdcf026bc67a11fb0fdddd22":[5,0,18,50,6]
 };

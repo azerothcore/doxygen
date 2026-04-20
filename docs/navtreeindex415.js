@@ -1,5 +1,6 @@
 var NAVTREEINDEX415 =
 {
+"df/de3/classspell__novos__crystal__handler__death__aura.html#a775b1cf494049ed13d149ca6318142c3":[6,0,3669,2],
 "df/de3/classspell__novos__crystal__handler__death__aura.html#aaea2c3733dadc19072c81774468e345a":[6,0,3669,0],
 "df/de3/classspell__q11520__discovering__your__roots.html":[6,0,3866],
 "df/de3/classspell__q11520__discovering__your__roots.html#a42f48b9d7d657da75c8a4f5b6468011e":[6,0,3866,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX415 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a977c51cebd1160d7d64f733adf19a658":[7,0,0,0,1,3,5,6,1,15,10],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e4ea3125a97235bd26fe6a91e15e943":[7,0,0,0,1,3,5,6,1,15,2],
 "df/df3/structboss__grand__warlock__nethekurse.html":[6,0,521],
-"df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,521,4],
-"df/df3/structboss__grand__warlock__nethekurse.html#a48a2ec7beeb5c9685fc627317acea949":[6,0,521,3]
+"df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,521,4]
 };

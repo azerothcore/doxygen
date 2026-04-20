@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342ed":[7,0,0,0,1,2,15,5,31],
 "de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0":[7,0,0,0,1,2,15,5,31,4],
 "de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda37a1afe09ab466e0059387b973d74af5":[7,0,0,0,1,2,15,5,31,3],
 "de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6":[7,0,0,0,1,2,15,5,31,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/d4a/structboss__fathomguard__tidalvess.html#a909601091c25285e0a6c9773b61ff049":[6,0,476,1],
 "de/d4a/structboss__fathomguard__tidalvess.html#a958c76b6ad9d9713625b10baa0d6d992":[6,0,476,12],
 "de/d4a/structboss__fathomguard__tidalvess.html#a9eaeaf02dbe143d38ca857e5ae478aca":[6,0,476,11],
-"de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,476,0],
-"de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,476,4]
+"de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,476,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/dda/classspell__mage__focus__magic.html#ad04864f0710262364cf40e071446d87c":[6,0,3572,5],
 "df/dda/structboss__bjarngrim.html":[6,0,411],
 "df/dda/structboss__bjarngrim.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,411,10],
 "df/dda/structboss__bjarngrim.html#a1bf90864479939ba3f251c38b173e23a":[6,0,411,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/de3/classMapInstanced.html#af30e91e40c171ddbf7400f310283c43c":[6,0,1511,1],
 "df/de3/classMapInstanced.html#aff2cc0a1f57f06ead9a3e999c1c7dba0":[6,0,1511,10],
 "df/de3/classspell__novos__crystal__handler__death__aura.html":[6,0,3669],
-"df/de3/classspell__novos__crystal__handler__death__aura.html#a3848997e9f775add50d40342b6211ff0":[6,0,3669,1],
-"df/de3/classspell__novos__crystal__handler__death__aura.html#a775b1cf494049ed13d149ca6318142c3":[6,0,3669,2]
+"df/de3/classspell__novos__crystal__handler__death__aura.html#a3848997e9f775add50d40342b6211ff0":[6,0,3669,1]
 };

@@ -1,10 +1,10 @@
 var NAVTREEINDEX156 =
 {
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[6,0,10,3],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,31,3,0],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,10,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,31,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,10,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1978],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html#aacb82b08ec0fef0f53d7e251e010abd8":[6,0,1978,0],
 "d5/db2/BattlegroundWS_8h.html":[7,0,0,0,1,2,8,1,21],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a491a95b7bcbd9bc87a7d7b1a634590e1":[7,0,0,0,1,2,41,9,60,17],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a4a2aa8566b4dc273ad352a0b7b2da01d":[7,0,0,0,1,2,41,9,60,50],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a4af788d14322aa468b7a517cb8901e3d":[7,0,0,0,1,2,41,9,60,3],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a516a507bd1698b0c02b7d9c9dcb486f4":[7,0,0,0,1,2,41,9,60,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,855,3],
 "de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,855,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html":[6,0,235],
-"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,235,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,235,1]
+"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,235,0]
 };

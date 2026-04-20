@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/d7a/classspell__tharon__ja__dummy__aura.html#a9160c940913e4829bd0a6fe269c3b5d3":[6,0,4148,3],
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a92b98d9b9be98c330b6efbe34dae235b":[6,0,4148,0],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html":[6,0,691,0],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a28e859c796fc210cba9a1ac7bfd0124a":[6,0,691,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa38527fd67d11924c98159bfa0376ac24":[7,0,0,0,1,3,5,9,2,4,13,13],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa3ae99a51ed2618b3ce5c77c482224187":[7,0,0,0,1,3,5,9,2,4,13,41],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd":[7,0,0,0,1,3,5,9,2,4,13,14],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,13,17],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,13,20]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,13,17]
 };

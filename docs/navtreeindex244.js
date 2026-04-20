@@ -105,10 +105,10 @@ var NAVTREEINDEX244 =
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[6,0,2591,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[6,0,5,16,1],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,18,16,4],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
@@ -244,10 +244,10 @@ var NAVTREEINDEX244 =
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html":[6,0,12,8,16],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a097ed361c33f7415ed4d7efe6ab985e8":[5,0,34,8,16,2],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a097ed361c33f7415ed4d7efe6ab985e8":[6,0,12,8,16,2],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a59edb1d3445897bfaff1e97d703b42bb":[6,0,12,8,16,1],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a59edb1d3445897bfaff1e97d703b42bb":[5,0,34,8,16,1],
+"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a59edb1d3445897bfaff1e97d703b42bb":[6,0,12,8,16,1],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a805c2c75e93d7ef839b3758ffd59f6c6":[5,0,34,8,16,0],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a805c2c75e93d7ef839b3758ffd59f6c6":[6,0,12,8,16,0],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a82dbf4e94d9bb1a352bf03d76a14950b":[5,0,34,8,16,6],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a82dbf4e94d9bb1a352bf03d76a14950b":[6,0,12,8,16,6]
+"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a82dbf4e94d9bb1a352bf03d76a14950b":[6,0,12,8,16,6],
+"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a82dbf4e94d9bb1a352bf03d76a14950b":[5,0,34,8,16,6]
 };

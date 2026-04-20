@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3338,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a6dc4161441752b8ea9baab642d6a0684":[6,0,2065,0,1],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a7012a08c6409a40646dcd91a47eb6886":[6,0,2065,0,8],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a7ea570e98c7a70ae604861c2166eb429":[6,0,2065,0,9],
-"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a9a35459cf7b83c9f0afc557d1b0b40e7":[6,0,2065,0,6],
-"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#ad28f607b313f7729649261969912eba5":[6,0,2065,0,3]
+"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a9a35459cf7b83c9f0afc557d1b0b40e7":[6,0,2065,0,6]
 };

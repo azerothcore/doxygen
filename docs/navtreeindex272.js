@@ -113,8 +113,8 @@ var NAVTREEINDEX272 =
 "da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[6,0,2869,3],
 "da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[6,0,2869,0],
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[6,0,2869,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,12,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,12,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,12,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
@@ -247,7 +247,7 @@ var NAVTREEINDEX272 =
 "da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[6,0,5,10,2],
 "da/db5/structlfg_1_1LfgProposal.html#a580dfb67b8040a6267cbd20938cb8667":[5,0,18,10,5],
 "da/db5/structlfg_1_1LfgProposal.html#a580dfb67b8040a6267cbd20938cb8667":[6,0,5,10,5],
-"da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[5,0,18,10,3],
 "da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[6,0,5,10,3],
-"da/db5/structlfg_1_1LfgProposal.html#a7d0a8fabf7aaa632df03f8838fd2a3b4":[5,0,18,10,9]
+"da/db5/structlfg_1_1LfgProposal.html#a6f0fb2094c6237c8bba4321b432115ad":[5,0,18,10,3],
+"da/db5/structlfg_1_1LfgProposal.html#a7d0a8fabf7aaa632df03f8838fd2a3b4":[6,0,5,10,9]
 };
