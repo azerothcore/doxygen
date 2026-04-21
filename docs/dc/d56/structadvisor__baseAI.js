@@ -4,6 +4,7 @@ var structadvisor__baseAI =
     [ "DamageTaken", "dc/d56/structadvisor__baseAI.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
     [ "JustDied", "dc/d56/structadvisor__baseAI.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
     [ "JustEngagedWith", "dc/d56/structadvisor__baseAI.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "JustRespawned", "dc/d56/structadvisor__baseAI.html#a6491439ac2fd4acec3379a17be92251e", null ],
     [ "Reset", "dc/d56/structadvisor__baseAI.html#a008c30414ecebf4e2996d06b81539255", null ],
     [ "ScheduleEvents", "dc/d56/structadvisor__baseAI.html#a24d22ccec834770bc5bcf44119fb0045", null ],
     [ "SpellHit", "dc/d56/structadvisor__baseAI.html#a4fc41f3985244b6baf25b3417f67054e", null ],

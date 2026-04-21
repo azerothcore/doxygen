@@ -19,6 +19,7 @@ var structnpc__escortAI =
     [ "IsEscortNPC", "d2/ddc/structnpc__escortAI.html#a78f5579b0858eef176b750647986fee2", null ],
     [ "IsPlayerOrGroupInRange", "d2/ddc/structnpc__escortAI.html#a648799d00219673bd974e08e1176c495", null ],
     [ "JustDied", "d2/ddc/structnpc__escortAI.html#ae25140568b7dccf0ab73aa87452bd985", null ],
+    [ "JustExitedCombat", "d2/ddc/structnpc__escortAI.html#a8d9bd969ac4c081250b5cce16eb688a6", null ],
     [ "JustRespawned", "d2/ddc/structnpc__escortAI.html#ac0b0fe06c694cbc0490fa3965c7c38ee", null ],
     [ "MoveInLineOfSight", "d2/ddc/structnpc__escortAI.html#ac2cf14b3755ee8fae2e3269dcd86806a", null ],
     [ "MovementInform", "d2/ddc/structnpc__escortAI.html#a7072858f20dfe0cab0c873a730912853", null ],

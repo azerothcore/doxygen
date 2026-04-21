@@ -157,11 +157,8 @@ var spell__item_8cpp =
     [ "spell_item_pet_healing", "df/dfc/classspell__item__pet__healing.html", "df/dfc/classspell__item__pet__healing" ],
     [ "spell_item_restless_strength", "d7/da4/classspell__item__restless__strength.html", "d7/da4/classspell__item__restless__strength" ],
     [ "spell_item_unstable_power", "d8/d7b/classspell__item__unstable__power.html", "d8/d7b/classspell__item__unstable__power" ],
-    [ "spell_item_commendation_of_kaelthas", "d5/d7b/classspell__item__commendation__of__kaelthas.html", "d5/d7b/classspell__item__commendation__of__kaelthas" ],
-    [ "spell_item_corpse_tongue_coin", "d5/d08/classspell__item__corpse__tongue__coin.html", "d5/d08/classspell__item__corpse__tongue__coin" ],
-    [ "spell_item_corpse_tongue_coin_heroic", "d7/d6e/classspell__item__corpse__tongue__coin__heroic.html", "d7/d6e/classspell__item__corpse__tongue__coin__heroic" ],
+    [ "spell_item_proc_below_pct_damaged", "d5/df9/classspell__item__proc__below__pct__damaged.html", "d5/df9/classspell__item__proc__below__pct__damaged" ],
     [ "spell_item_crystal_spire_of_karabor", "dd/dbd/classspell__item__crystal__spire__of__karabor.html", "dd/dbd/classspell__item__crystal__spire__of__karabor" ],
-    [ "spell_item_soul_harvesters_charm", "d5/dc5/classspell__item__soul__harvesters__charm.html", "d5/dc5/classspell__item__soul__harvesters__charm" ],
     [ "spell_item_sunwell_exalted_caster_neck", "d9/d74/classspell__item__sunwell__exalted__caster__neck.html", "d9/d74/classspell__item__sunwell__exalted__caster__neck" ],
     [ "spell_item_sunwell_exalted_healer_neck", "dd/d21/classspell__item__sunwell__exalted__healer__neck.html", "dd/d21/classspell__item__sunwell__exalted__healer__neck" ],
     [ "spell_item_sunwell_exalted_melee_neck", "d5/d10/classspell__item__sunwell__exalted__melee__neck.html", "d5/d10/classspell__item__sunwell__exalted__melee__neck" ],
@@ -170,8 +167,6 @@ var spell__item_8cpp =
     [ "spell_item_tiny_abomination_in_a_jar", "d7/da8/classspell__item__tiny__abomination__in__a__jar.html", "d7/da8/classspell__item__tiny__abomination__in__a__jar" ],
     [ "spell_item_tiny_abomination_in_a_jar_hero", "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html", "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero" ],
     [ "spell_item_totem_of_flowing_water", "d5/de3/classspell__item__totem__of__flowing__water.html", "d5/de3/classspell__item__totem__of__flowing__water" ],
-    [ "spell_item_petrified_twilight_scale", "db/d0b/classspell__item__petrified__twilight__scale.html", "db/d0b/classspell__item__petrified__twilight__scale" ],
-    [ "spell_item_petrified_twilight_scale_heroic", "de/d7c/classspell__item__petrified__twilight__scale__heroic.html", "de/d7c/classspell__item__petrified__twilight__scale__heroic" ],
     [ "spell_item_purified_shard_of_the_scale", "d6/d90/classspell__item__purified__shard__of__the__scale.html", "d6/d90/classspell__item__purified__shard__of__the__scale" ],
     [ "spell_item_shiny_shard_of_the_scale", "de/ddc/classspell__item__shiny__shard__of__the__scale.html", "de/ddc/classspell__item__shiny__shard__of__the__scale" ],
     [ "spell_item_living_root_of_the_wildheart", "d3/da8/classspell__item__living__root__of__the__wildheart.html", "d3/da8/classspell__item__living__root__of__the__wildheart" ],
@@ -252,15 +247,8 @@ var spell__item_8cpp =
       [ "QUEST_CHICKEN_PARTY", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81", null ],
       [ "QUEST_FLOWN_THE_COOP", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cab7462dcb6cb7aa653f707d2843adf8c2", null ]
     ] ],
-    [ "CommendationOfKaelthas", "db/d6e/spell__item_8cpp.html#af521aabffd749e426bb3bfa2a8284ccf", [
-      [ "SPELL_COMMENDATION_OF_KAELTHAS", "db/d6e/spell__item_8cpp.html#af521aabffd749e426bb3bfa2a8284ccfade358c63c194c4805bb5a0f4f665f0f8", null ]
-    ] ],
     [ "CompleteRaptorCapture", "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc", [
       [ "SPELL_RAPTOR_CAPTURE_CREDIT", "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf", null ]
-    ] ],
-    [ "CorpseTongueCoin", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15", [
-      [ "SPELL_CORPSE_TONGUE_COIN", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15a70eb794eeac977ae13b2e20ece22702a", null ],
-      [ "SPELL_CORPSE_TONGUE_COIN_HERO", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15ae73dfb97f6badc02e6bd44fcec5c0dad", null ]
     ] ],
     [ "CrystalSpireOfKarabor", "db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74", [
       [ "SPELL_CRYSTAL_SPIRE_OF_KARABOR_MANA", "db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74a9024d9c8d4c3c6c82eefd65209f48274", null ]
@@ -565,10 +553,6 @@ var spell__item_8cpp =
     [ "PetHealing", "db/d6e/spell__item_8cpp.html#ae8dea7c144b1715002ebb21e6697e582", [
       [ "SPELL_HEALTH_LINK", "db/d6e/spell__item_8cpp.html#ae8dea7c144b1715002ebb21e6697e582a97c4505f5bb9d2dc52ee50b42a81dfb3", null ]
     ] ],
-    [ "PetrifiedTwilightScale", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975", [
-      [ "SPELL_PETRIFIED_TWILIGHT_SCALE_HC", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c", null ],
-      [ "SPELL_PETRIFIED_TWILIGHT_SCALE", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab2e1da76059bbd084a5d65063a7b3a86", null ]
-    ] ],
     [ "Poultryzer", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0", [
       [ "SPELL_POULTRYIZER_SUCCESS_1", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0af2013a66c33c8ca2754d0258dc317d38", null ],
       [ "SPELL_POULTRYIZER_SUCCESS_2", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0aebaed561887d24beda0d2b5a03b4b2b9", null ],
@@ -659,9 +643,6 @@ var spell__item_8cpp =
     [ "SocretharsStone", "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11a", [
       [ "SPELL_SOCRETHAR_TO_SEAT", "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9", null ],
       [ "SPELL_SOCRETHAR_FROM_SEAT", "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4", null ]
-    ] ],
-    [ "SoulHarvestersCharm", "db/d6e/spell__item_8cpp.html#aee70402c01d54f4742078c51c0b06e4b", [
-      [ "SPELL_SOUL_HARVESTERS_CHARM", "db/d6e/spell__item_8cpp.html#aee70402c01d54f4742078c51c0b06e4baea1461711824503470a15f8deabc1924", null ]
     ] ],
     [ "SoulPreserver", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874", [
       [ "SPELL_SOUL_PRESERVER_DRUID", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a9b29c6adc599fce7f686640bc94c2974", null ],

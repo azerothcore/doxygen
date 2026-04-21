@@ -8,11 +8,6 @@ var chapter1_8cpp =
     [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "d9/d84/structnpc__scarlet__ghoul_1_1npc__scarlet__ghoulAI.html", "d9/d84/structnpc__scarlet__ghoul_1_1npc__scarlet__ghoulAI" ],
     [ "npc_dkc1_gothik", "d3/dfc/classnpc__dkc1__gothik.html", "d3/dfc/classnpc__dkc1__gothik" ],
     [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "d5/da3/structnpc__dkc1__gothik_1_1npc__dkc1__gothikAI.html", "d5/da3/structnpc__dkc1__gothik_1_1npc__dkc1__gothikAI" ],
-    [ "npc_unworthy_initiate", "df/ddb/classnpc__unworthy__initiate.html", "df/ddb/classnpc__unworthy__initiate" ],
-    [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html", "d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI" ],
-    [ "npc_unworthy_initiate_anchor", "d5/dbd/classnpc__unworthy__initiate__anchor.html", "d5/dbd/classnpc__unworthy__initiate__anchor" ],
-    [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html", "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI" ],
-    [ "go_acherus_soul_prison", "df/d2d/classgo__acherus__soul__prison.html", "df/d2d/classgo__acherus__soul__prison" ],
     [ "spell_death_knight_initiate_visual", "d8/d95/classspell__death__knight__initiate__visual.html", "d8/d95/classspell__death__knight__initiate__visual" ],
     [ "spell_lich_king_vo_blocker", "da/ddf/classspell__lich__king__vo__blocker.html", "da/ddf/classspell__lich__king__vo__blocker" ],
     [ "spell_lich_king_whisper", "d0/d70/classspell__lich__king__whisper.html", "d0/d70/classspell__lich__king__whisper" ],
@@ -58,26 +53,7 @@ var chapter1_8cpp =
       [ "SPELL_LICHKINGDK016", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
     ] ],
     [ "UnworthyInitiate", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cd", [
-      [ "SPELL_SOUL_PRISON_CHAIN", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaacb469d2ce157ba80de3be49aac61238", null ],
-      [ "SPELL_DK_INITIATE_VISUAL", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d", null ],
-      [ "SPELL_ICY_TOUCH", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaa08ac9e39da810d5834d1811db20481f", null ],
-      [ "SPELL_PLAGUE_STRIKE", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda20e455c0ae51cf9a08598dfbd3cfad1a", null ],
-      [ "SPELL_BLOOD_STRIKE", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda3ef59951fd37ac1673af905f4afa2c3a", null ],
-      [ "SPELL_DEATH_COIL", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda196972e452f4cb5df032e5119d25f163", null ],
-      [ "SAY_EVENT_START", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda5b99398ffec3de91807ff5682f0a7478", null ],
-      [ "SAY_EVENT_ATTACK", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda775cad6d6cdebea207fa4d24aa12b6d2", null ],
-      [ "EVENT_ICY_TOUCH", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda7faf8ac32436c1944001a241d8b02925", null ],
-      [ "EVENT_PLAGUE_STRIKE", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda3de0f2b00dd774ee52706362e41dfda9", null ],
-      [ "EVENT_BLOOD_STRIKE", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda84b24833c5e8be35e2397c44f8ade944", null ],
-      [ "EVENT_DEATH_COIL", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaf17ea4feb08751873794a2be33e793aa", null ]
+      [ "SPELL_DK_INITIATE_VISUAL", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d", null ]
     ] ],
-    [ "UnworthyInitiatePhase", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3", [
-      [ "PHASE_CHAINED", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3ab62f3e421ce27e15d2b48ed3f8733658", null ],
-      [ "PHASE_TO_EQUIP", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a9114c886e3fd9e6982472be76c145da8", null ],
-      [ "PHASE_EQUIPING", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a4096389ac7ae398fbf4ff16ea63946c8", null ],
-      [ "PHASE_TO_ATTACK", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a125fbd2981202cf891395e9588d6f7b4", null ],
-      [ "PHASE_ATTACKING", "dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3ad7f03f3a9e0bd32ed13f8503fb71b3f9", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave_c1", "dc/dec/chapter1_8cpp.html#a4e50d499ea814e96ce4b4d94a25b1cb0", null ],
-    [ "acherus_soul_prison", "dc/dec/chapter1_8cpp.html#adffec7eed38fb87c9c0ecb9f5141b4a0", null ]
+    [ "AddSC_the_scarlet_enclave_c1", "dc/dec/chapter1_8cpp.html#a4e50d499ea814e96ce4b4d94a25b1cb0", null ]
 ];
