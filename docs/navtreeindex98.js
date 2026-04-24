@@ -1,13 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba7f796ee16393503bc0aa7d39ab63736b":[7,0,0,0,1,2,48,7,0,52],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba7f8ba07b0ce5baee25d86059bbecafbe":[7,0,0,0,1,2,48,7,0,409],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba7fef36e0541ee4a2b9d0159da76642b0":[7,0,0,0,1,2,48,7,0,372],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba802dec1a185c05d09e1c1dee8315c3b1":[7,0,0,0,1,2,48,7,0,59],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba80aa295e7236a8fd052f9e95bffbcf70":[7,0,0,0,1,2,48,7,0,417],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba80c42fcea3619400360c51eb9b23c283":[7,0,0,0,1,2,48,7,0,192],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba80ddc539617cdfe2b21f022506053fcd":[7,0,0,0,1,2,48,7,0,264],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4":[7,0,0,0,1,2,48,7,0,394],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81942061571c827a340e4cb54e9d634f":[7,0,0,0,1,2,48,7,0,286],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17":[7,0,0,0,1,2,48,7,0,398],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba823df9e80a0ffee992cef7912d1a02e1":[7,0,0,0,1,2,48,7,0,366],
@@ -249,5 +241,13 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafbd2d10782aecfcfaa18a0cf91ba97a2":[7,0,0,0,1,2,48,7,0,418],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafc2bdac70007898b64ed28a0eaff15d5":[7,0,0,0,1,2,48,7,0,68],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafc468fdce48d686a18c46611936882ce":[7,0,0,0,1,2,48,7,0,290],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafcb19b2abc44e21fd80abcebf138a611":[7,0,0,0,1,2,48,7,0,300]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafcb19b2abc44e21fd80abcebf138a611":[7,0,0,0,1,2,48,7,0,300],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafcff76f71d18dfe9755a55182889778e":[7,0,0,0,1,2,48,7,0,169],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafd5f03a474ca896330225082121e768a":[7,0,0,0,1,2,48,7,0,407],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3":[7,0,0,0,1,2,48,7,0,386],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafdf35d8af70d4c3b62a5acbb9010b87a":[7,0,0,0,1,2,48,7,0,278],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3582]
 };

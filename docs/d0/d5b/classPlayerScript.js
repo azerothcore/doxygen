@@ -32,6 +32,7 @@ var classPlayerScript =
     [ "OnPlayerBeforeCriteriaProgress", "d0/d5b/classPlayerScript.html#a34ed7754ea926ab69321a5e8680d4bb7", null ],
     [ "OnPlayerBeforeDurabilityRepair", "d0/d5b/classPlayerScript.html#a5952ee1a1fa98564d01bb544b9a503da", null ],
     [ "OnPlayerBeforeFillQuestLootItem", "d0/d5b/classPlayerScript.html#a7d3250477cf00d53e734f63cd9a5854d", null ],
+    [ "OnPlayerBeforeGetLevelForXPGain", "d0/d5b/classPlayerScript.html#ace41ca541fe15f78eae62b63bf58777e", null ],
     [ "OnPlayerBeforeGuardianInitStatsForLevel", "d0/d5b/classPlayerScript.html#afd1ea56109b58e3493e4708a7bfdded0", null ],
     [ "OnPlayerBeforeInitTalentForLevel", "d0/d5b/classPlayerScript.html#accc79f88b2781a3d301e7d918913cfd6", null ],
     [ "OnPlayerBeforeLoadPetFromDB", "d0/d5b/classPlayerScript.html#add3286b9f45d3d9a355cef84f89aa02e", null ],

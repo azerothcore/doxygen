@@ -2491,7 +2491,6 @@ var annotated_dup =
     [ "npc_madrigosa", "da/d22/structnpc__madrigosa.html", "da/d22/structnpc__madrigosa" ],
     [ "npc_mageguard_dalaran", "dc/d54/classnpc__mageguard__dalaran.html", "dc/d54/classnpc__mageguard__dalaran" ],
     [ "npc_maghar_captive", "d6/d61/classnpc__maghar__captive.html", "d6/d61/classnpc__maghar__captive" ],
-    [ "npc_magister_aledis", "d7/dbd/structnpc__magister__aledis.html", "d7/dbd/structnpc__magister__aledis" ],
     [ "npc_magwin", "df/d27/classnpc__magwin.html", "df/d27/classnpc__magwin" ],
     [ "npc_maiev_illidan", "de/d3c/structnpc__maiev__illidan.html", "de/d3c/structnpc__maiev__illidan" ],
     [ "npc_malchezaar_axe", "db/d99/structnpc__malchezaar__axe.html", "db/d99/structnpc__malchezaar__axe" ],

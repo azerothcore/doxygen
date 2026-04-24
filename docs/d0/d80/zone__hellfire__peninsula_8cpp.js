@@ -9,7 +9,6 @@ var zone__hellfire__peninsula_8cpp =
     [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI.html", "d0/d1e/structnpc__wounded__blood__elf_1_1npc__wounded__blood__elfAI" ],
     [ "npc_fel_guard_hound", "da/dfa/classnpc__fel__guard__hound.html", "da/dfa/classnpc__fel__guard__hound" ],
     [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html", "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI" ],
-    [ "npc_magister_aledis", "d7/dbd/structnpc__magister__aledis.html", "d7/dbd/structnpc__magister__aledis" ],
     [ "go_beacon", "d3/d45/classgo__beacon.html", "d3/d45/classgo__beacon" ],
     [ "go_beacon::go_beaconAI", "db/d31/structgo__beacon_1_1go__beaconAI.html", "db/d31/structgo__beacon_1_1go__beaconAI" ],
     [ "go_magtheridons_head", "db/d1e/structgo__magtheridons__head.html", "db/d1e/structgo__magtheridons__head" ],
@@ -18,17 +17,6 @@ var zone__hellfire__peninsula_8cpp =
       [ "SAY_FREE", "d0/d80/zone__hellfire__peninsula_8cpp.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
       [ "SPELL_ENVELOPING_WINDS", "d0/d80/zone__hellfire__peninsula_8cpp.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
       [ "SPELL_SHOCK", "d0/d80/zone__hellfire__peninsula_8cpp.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
-    ] ],
-    [ "Aledis", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dce", [
-      [ "SAY_CHALLENGE", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19", null ],
-      [ "SAY_DEFEATED", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677", null ],
-      [ "EVENT_TALK", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_ATTACK", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360", null ],
-      [ "EVENT_EVADE", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4", null ],
-      [ "EVENT_FIREBALL", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44", null ],
-      [ "EVENT_FROSTNOVA", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e", null ],
-      [ "SPELL_FIREBALL", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963", null ],
-      [ "SPELL_FROSTNOVA", "d0/d80/zone__hellfire__peninsula_8cpp.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b", null ]
     ] ],
     [ "AncestralWolf", "d0/d80/zone__hellfire__peninsula_8cpp.html#ae0ad636572003d2f340b9f5853329b31", [
       [ "EMOTE_WOLF_LIFT_HEAD", "d0/d80/zone__hellfire__peninsula_8cpp.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],

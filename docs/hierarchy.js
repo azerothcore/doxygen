@@ -5764,7 +5764,6 @@ var hierarchy =
           [ "npc_love_in_air_snivel_real", "d5/d17/structnpc__love__in__air__snivel__real.html", null ],
           [ "npc_love_in_air_supply_sentry", "d0/dff/structnpc__love__in__air__supply__sentry.html", null ],
           [ "npc_mageguard_dalaran::npc_mageguard_dalaranAI", "d2/dbd/structnpc__mageguard__dalaran_1_1npc__mageguard__dalaranAI.html", null ],
-          [ "npc_magister_aledis", "d7/dbd/structnpc__magister__aledis.html", null ],
           [ "npc_maiev_illidan", "de/d3c/structnpc__maiev__illidan.html", null ],
           [ "npc_malchezaar_axe", "db/d99/structnpc__malchezaar__axe.html", null ],
           [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d5/d55/structnpc__marzon__silent__blade_1_1npc__marzon__silent__bladeAI.html", null ],
