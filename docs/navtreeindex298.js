@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624cac596ede97e877d22556117b5bdd4633a":[7,0,0,0,1,2,19,9,35,4],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624cadf9be6f7af7c3f7196c5c3e731de0a87":[7,0,0,0,1,2,19,9,35,2],
 "db/dab/GridTerrainData_8h.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[7,0,0,0,1,2,19,9,17],
 "db/dab/GridTerrainData_8h.html#af2485144ba91e4d6202d195faaa192d3":[7,0,0,0,1,2,19,9,39],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/db0/classBinarySpellDetectionTest.html#ad6602a4579ff5c20d4a8a4a0bec0a155":[6,0,373,0],
 "db/db0/classspell__item__brewfest__hops.html":[6,0,3315],
 "db/db0/classspell__item__brewfest__hops.html#a2836863ea4bafc73f2adbb9176cbec60":[6,0,3315,6],
-"db/db0/classspell__item__brewfest__hops.html#a349827fe659ff3bee0a5dfc677c04825":[6,0,3315,1],
-"db/db0/classspell__item__brewfest__hops.html#a6ec300503503fa6f12a48a8494d41edd":[6,0,3315,0]
+"db/db0/classspell__item__brewfest__hops.html#a349827fe659ff3bee0a5dfc677c04825":[6,0,3315,1]
 };

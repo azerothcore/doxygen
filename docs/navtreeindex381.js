@@ -1,5 +1,7 @@
 var NAVTREEINDEX381 =
 {
+"de/da1/structObjectPosSelector.html#ad33b5ad5af8ebfd14851085b5c67cc95":[6,0,2323,16],
+"de/da1/structObjectPosSelector.html#ae45835290af001233a7d76e1a5be6df0":[6,0,2323,10],
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2323,25],
 "de/da1/structnpc__ulduar__flames__spread.html":[6,0,2232],
 "de/da1/structnpc__ulduar__flames__spread.html#aea2856e8ea84dfb447017a4d8b2ab088":[6,0,2232,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX381 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a825aaef48c162590d2e88950f97c0843":[7,0,0,0,1,1,0,0,1,1,37],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83037721850705de499b535fef266b74":[7,0,0,0,1,1,0,0,1,1,278],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a830f0c29c0efd7ac5fc390363d45349f":[7,0,0,0,1,1,0,0,1,1,178],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88":[7,0,0,0,1,1,0,0,1,1,190],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8377ca7314cdb7cb1a18a231563f460f":[7,0,0,0,1,1,0,0,1,1,236],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f0ff512aa13dafb1f4c2e6fe010b1c":[7,0,0,0,1,1,0,0,1,1,113]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88":[7,0,0,0,1,1,0,0,1,1,190]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX391 =
 {
+"df/d14/ObjectDefines_8h.html#a71fa43e66bd4fe745191d184923d6347":[7,0,0,0,1,2,16,5,3,17],
+"df/d14/ObjectDefines_8h.html#a76b2057afb6996f8080d661890a01c6f":[7,0,0,0,1,2,16,5,3,1],
 "df/d14/ObjectDefines_8h.html#a7e825c8fa49d307a4e5b992af744c195":[7,0,0,0,1,2,16,5,3,18],
 "df/d14/ObjectDefines_8h.html#a826d5509d2b008fbc7dea309a92f4a2a":[7,0,0,0,1,2,16,5,3,11],
 "df/d14/ObjectDefines_8h.html#a87d5f85dfad581145d916013245c2021":[7,0,0,0,1,2,16,5,3,2],
@@ -123,8 +125,8 @@ var NAVTREEINDEX391 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,34,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,34,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,12,2,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,12,2,4,2],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,12,2,4,2],
 "df/d14/classspell__item__heartpierce.html":[6,0,3374],
 "df/d14/classspell__item__heartpierce.html#a0843ac6c6171f1f22712175d96fbafba":[6,0,3374,3],
 "df/d14/classspell__item__heartpierce.html#a16098a3b719adcf3c63a09deb5ca7c80":[6,0,3374,1],
@@ -159,12 +161,12 @@ var NAVTREEINDEX391 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[7,0,0,0,1,2,16,8,1,4],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[7,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,12,6,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,34,6,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,12,6,17,2],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,12,6,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,34,6,17,2],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,34,6,17,0],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,12,6,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,12,6,17,0],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,34,6,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[6,0,12,6,17,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,34,6,17,1],
 "df/d17/classGameObjectModelOwnerBase.html":[6,0,1109],
@@ -247,7 +249,5 @@ var NAVTREEINDEX391 =
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaccb2f60b67efa38a5d8454df249db838":[4,2,15,21],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abacd29849c85298b0eae1a1b38a9a80c51":[4,2,15,23],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad36f14004bd6c21e49d12726e8c36f97":[4,2,15,27],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f":[4,2,15,32],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae4f84dfc27fee4e4426b8f35f010823f":[4,2,15,22],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae5bd48e696a93fdab8960b7a2880dd61":[4,2,15,12]
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f":[4,2,15,32]
 };

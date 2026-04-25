@@ -1,5 +1,6 @@
 var NAVTREEINDEX279 =
 {
+"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3406,0],
 "da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3406,1],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[7,0,0,0,3,4,0,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "da/df4/AuthCodes_8h.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,1,4],
 "da/df4/classspell__majordomo__separation__anxiety__aura.html":[6,0,3596],
 "da/df4/classspell__majordomo__separation__anxiety__aura.html#a5651e7ecab22d2286f85e56b8eccc003":[6,0,3596,0],
-"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5972e66a8c05c5ae64e6666d0f35cb6e":[6,0,3596,2],
-"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5dca8e116c05d11961cbd7995314441e":[6,0,3596,1]
+"da/df4/classspell__majordomo__separation__anxiety__aura.html#a5972e66a8c05c5ae64e6666d0f35cb6e":[6,0,3596,2]
 };

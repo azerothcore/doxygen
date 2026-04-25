@@ -1,5 +1,7 @@
 var NAVTREEINDEX406 =
 {
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[7,0,0,0,1,3,5,9,1,0,5,3],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[7,0,0,0,1,3,5,9,1,0,5,1],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[7,0,0,0,1,3,5,9,1,0,5,6],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[7,0,0,0,1,3,5,9,1,0,5,4],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[7,0,0,0,1,3,5,9,1,0,5,5],
@@ -83,12 +85,12 @@ var NAVTREEINDEX406 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1733,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1733,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1733,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,12,10,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,12,10,8,2],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,34,10,8,3],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,12,10,8,3],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,34,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,12,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,34,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,12,10,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX406 =
 "df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288":[6,0,483,2],
 "df/dbb/structboss__flame__leviathan.html#ad6ef9a66605f6bf8955cfaa4dc16b311":[6,0,483,10],
 "df/dbb/structboss__flame__leviathan.html#ad734b7b91dc6415af94b99eb2107efa7":[6,0,483,7],
-"df/dbb/structboss__flame__leviathan.html#ae526177914176c207a06f339fe065dae":[6,0,483,27],
-"df/dbb/structboss__flame__leviathan.html#af1c783c6c936356f270b9ae482e8c1a9":[6,0,483,25],
-"df/dbb/structboss__flame__leviathan.html#af7efd745e49df1305deb9e11797d310e":[6,0,483,1]
+"df/dbb/structboss__flame__leviathan.html#ae526177914176c207a06f339fe065dae":[6,0,483,27]
 };

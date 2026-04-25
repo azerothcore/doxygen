@@ -63,7 +63,8 @@ var go__scripts_8cpp =
     [ "GOSSIP_FEL_CRYSTALFORGE_TEXT", "d6/d0c/go__scripts_8cpp.html#acdaa5e2498550d493fb2006b11ab6b22", null ],
     [ "AmberpineOuthouse", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5", [
       [ "QUEST_DOING_YOUR_DUTY", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a4389108dbe12ffc01dd5a03fee33f7ac", null ],
-      [ "SPELL_INDISPOSED", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a73f8f5f559193c507f19dfa3b60b5147", null ],
+      [ "SPELL_INDISPOSED_MALE", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5adfbfcd9b82bbd4fe52c9b2beb8171672", null ],
+      [ "SPELL_INDISPOSED_FEMALE", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a2aaeabaa6c02bccef563d4cbca8a47ee", null ],
       [ "SPELL_INDISPOSED_II", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a2264c8049d9b0b5f54a70ee31c0d4c50", null ],
       [ "SPELL_INDISPOSED_III", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a63300779615323ee6c136ef363e76eeb", null ],
       [ "GOSSIP_OUTHOUSE_INUSE", "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a8ea6d407949a26f6201c64b851ac7d1a", null ],

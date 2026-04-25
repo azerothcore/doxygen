@@ -1,5 +1,7 @@
 var NAVTREEINDEX416 =
 {
+"df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1],
+"df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[7,0,0,0,1,2,22,1,1],
 "df/df9/classspell__brewfest__reveler__transform.html":[6,0,2706],
 "df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[6,0,2706,1],
 "df/df9/classspell__brewfest__reveler__transform.html#a4a276b00d4912c210598057620368934":[6,0,2706,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX416 =
 "dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0],
 "dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
 "dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0],
-"dir_ca38c8f641e293b4dda7eec68c8e9454.html":[7,0,0,0,1,3,7,4,0]
+"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1]
 };

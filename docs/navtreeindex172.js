@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa8d15b3ba7f9959111bc0fa87eafbda0":[7,0,0,0,1,3,2,1,3,11,4,1],
 "d6/d38/molten__core_8cpp.html#ad31dc1d2e5e18b7598a1b8d917a0c538":[7,0,0,0,1,3,2,1,3,11,5],
 "d6/d39/HolidayDateCalculator_8h.html":[7,0,0,0,1,2,17,3],
 "d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cb":[7,0,0,0,1,2,17,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[6,0,4364,0],
 "d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[6,0,4364,1],
 "d6/d41/structboss__ragnaros.html":[6,0,679],
-"d6/d41/structboss__ragnaros.html#a0bd3c10d05c15fe817aa4250f5c811ac":[6,0,679,21],
-"d6/d41/structboss__ragnaros.html#a1658a56a33d91c51582395d7d71c3291":[6,0,679,17]
+"d6/d41/structboss__ragnaros.html#a0bd3c10d05c15fe817aa4250f5c811ac":[6,0,679,21]
 };

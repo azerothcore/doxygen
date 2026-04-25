@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/dd5/classCreature.html#a52ad9185174d0709f5dd2052d770f642":[6,0,936,62],
 "db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12":[6,0,936,204],
 "db/dd5/classCreature.html#a533da58134d6187e3f8d05744b9c75bf":[6,0,936,236],
 "db/dd5/classCreature.html#a537dd43c8ccadd55bca1d22d05ec8ef9":[6,0,936,203],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,7,15,8],
 "db/dd6/instance__naxxramas_8cpp.html#a4b033537221c1c9063ff056950ac6fdb":[7,0,0,0,1,3,5,7,15,15],
 "db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,7,15,9],
-"db/dd6/instance__naxxramas_8cpp.html#a78f519adea6cb5310c9cf098d905aa7b":[7,0,0,0,1,3,5,7,15,13],
-"db/dd6/instance__naxxramas_8cpp.html#a7adc6b584916ee1544c8ff38ab6327a9":[7,0,0,0,1,3,5,7,15,14]
+"db/dd6/instance__naxxramas_8cpp.html#a78f519adea6cb5310c9cf098d905aa7b":[7,0,0,0,1,3,5,7,15,13]
 };

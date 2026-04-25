@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"db/df2/structGossipMenuItems.html#a6f41e9adfcb11adabdd79b55c1d47bfc":[6,0,1230,11],
 "db/df2/structGossipMenuItems.html#a9a20a64e29d0464c40f57286b9c1804d":[6,0,1230,1],
 "db/df2/structGossipMenuItems.html#aa1632404bbc869b17dab8833f660c52b":[6,0,1230,6],
 "db/df2/structGossipMenuItems.html#ab00c368181ccaba98e878d49de6138e2":[6,0,1230,4],
@@ -72,8 +73,8 @@ var NAVTREEINDEX307 =
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[6,0,294,3],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,12,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[6,0,12,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[6,0,12,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0a307d891e05530d70a32ad2047cfe6dab":[7,0,0,0,1,3,9,8,90,0],
 "db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0a73b0208d974ac93026e31ca8864dd390":[7,0,0,0,1,3,9,8,90,1],
 "db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0ac08f868029f6c0c348ca1a8130361792":[7,0,0,0,1,3,9,8,90,2],
-"db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0ada26d1888bcddbd74e311cd4efbbf676":[7,0,0,0,1,3,9,8,90,3],
-"db/dfb/spell__quest_8cpp.html#aa9dd51906e2405e327ce4371100b2d77":[7,0,0,0,1,3,9,8,107]
+"db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0ada26d1888bcddbd74e311cd4efbbf676":[7,0,0,0,1,3,9,8,90,3]
 };

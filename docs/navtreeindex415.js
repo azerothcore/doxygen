@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/ded/mechanar_8h.html#a39021e64713f2dfbd1788bb15384a774":[7,0,0,0,1,3,7,5,3,6,8],
+"df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343":[7,0,0,0,1,3,7,5,3,6,3],
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343a1a2616300bcd960929e24f84f18a93af":[7,0,0,0,1,3,7,5,3,6,3,1],
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343a6bf5450598a85734fd601aadcb5c921b":[7,0,0,0,1,3,7,5,3,6,3,0],
 "df/ded/mechanar_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,7,5,3,6,5],
@@ -17,12 +19,12 @@ var NAVTREEINDEX415 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,12,16,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,16,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,16,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,12,16,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,16,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,12,16,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,16,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,16,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,12,16,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,16,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,374],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,374,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,374,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/df8/classspell__mage__empowered__fire.html#a62a1ae18832157f00ee2eea31ff13d01":[6,0,3560,2],
 "df/df8/classspell__mage__empowered__fire.html#a9d6d6d752da222fd0edbb045840893fd":[6,0,3560,1],
 "df/df8/classspell__mage__empowered__fire.html#a9e8a8a231ee04be353be7f0bf320776b":[6,0,3560,4],
-"df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[6,0,3560,0],
-"df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1],
-"df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[7,0,0,0,1,2,22,1,1]
+"df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[6,0,3560,0]
 };

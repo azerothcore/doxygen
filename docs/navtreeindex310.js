@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/d07/classInstanceMapScript.html#a350d328f82cc5e7ea43f3c8779d25a67":[6,0,1383,0],
 "dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[6,0,1383,2],
 "dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1383,3],
 "dc/d07/classnpc__captain__brandon.html":[6,0,1700],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[6,0,1820,0,5],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[6,0,1820,0,1],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[6,0,1820,0,2],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1820,0,4],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[6,0,1820,0,10]
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[6,0,1820,0,4]
 };

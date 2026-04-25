@@ -1,5 +1,7 @@
 var NAVTREEINDEX402 =
 {
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4354],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4354,2],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4354,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4354,0],
 "df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
@@ -190,8 +192,8 @@ var NAVTREEINDEX402 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2207,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2207,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,979,1],
-"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,11],
+"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX402 =
 "df/d97/structboss__moira__bronzebeard.html#a8319c70b3391721164ac1a01d8f6be9c":[6,0,635,3],
 "df/d97/structboss__moira__bronzebeard.html#aaab4b597fd97619c2a41e2a6425810de":[6,0,635,0],
 "df/d98/classspell__moroes__vanish.html":[6,0,3639],
-"df/d98/classspell__moroes__vanish.html#a3e14dd6a6f26a163282846f714e2ffb5":[6,0,3639,1],
-"df/d98/classspell__moroes__vanish.html#a7be884a657889e1b18d1499c8a053c18":[6,0,3639,2],
-"df/d98/classspell__moroes__vanish.html#a9551867737eea27a9acf2d3d475e9b3c":[6,0,3639,0]
+"df/d98/classspell__moroes__vanish.html#a3e14dd6a6f26a163282846f714e2ffb5":[6,0,3639,1]
 };

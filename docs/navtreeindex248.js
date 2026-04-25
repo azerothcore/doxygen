@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"d9/d9e/HolidayDateCalculator_8cpp.html#abff9a870b94032b446650ea043e9983b":[7,0,0,0,1,2,17,2,0],
 "d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2078],
 "d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2078,3],
 "d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2078,6],
@@ -126,8 +127,8 @@ var NAVTREEINDEX248 =
 "d9/da7/Creature_8cpp.html":[7,0,0,0,1,2,16,1,0],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html":[5,0,1,26],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html":[6,0,0,14],
-"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[6,0,0,14,4],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[5,0,1,26,4],
+"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[6,0,0,14,4],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#aa76b1a6c8a919c1e5b37c74b33859464":[5,0,1,26,2],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#aa76b1a6c8a919c1e5b37c74b33859464":[6,0,0,14,2],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ac2bae147199d0b1b592a560017128c4e":[5,0,1,26,3],
@@ -226,12 +227,12 @@ var NAVTREEINDEX248 =
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[7,0,0,0,1,2,3,1,1,13],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,1,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[6,0,0,0,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,1,0,2,2],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[6,0,0,0,1,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,1,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[6,0,0,0,1,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[6,0,0,0,1,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,1,0,2,0],
 "d9/dac/classnpc__nether__drake.html":[6,0,2002],
 "d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[6,0,2002,1],
 "d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[6,0,2002,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#a9cf7d73c5f81980c08f785dc3af47dec":[6,0,1954,0,8],
 "d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#ab86239a6470a82749f96eb5515c46c59":[6,0,1954,0,13],
 "d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#aba564e34f0358d6c2a3c6ae91e17bf10":[6,0,1954,0,12],
-"d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#abdd03400f582e9477bb376e2b34e7a0e":[6,0,1954,0,15],
-"d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#ae727157e6b52817051fea075c2cb7cb1":[6,0,1954,0,16]
+"d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#abdd03400f582e9477bb376e2b34e7a0e":[6,0,1954,0,15]
 };

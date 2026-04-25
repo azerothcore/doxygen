@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#a1131f0014f298b87483412d960bc0221":[6,0,4185,3],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#a66dcb98f38ed6b040928543015f59c9b":[6,0,4185,1],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[6,0,4185,2],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#ae5749a43f37f0eb3f049d8804845f61e":[6,0,4185,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362":[7,0,0,0,1,3,4,18,3,12],
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa":[7,0,0,0,1,3,4,18,3,10],
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9":[7,0,0,0,1,3,4,18,3,2],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5":[7,0,0,0,1,3,4,18,3,6],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1":[7,0,0,0,1,3,4,18,3,4]
+"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5":[7,0,0,0,1,3,4,18,3,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d26/classBattlefield.html#a1605eebf64a203761f5aeba106b2b325":[6,0,322,22],
 "d6/d26/classBattlefield.html#a1a42d4d164ba4c9d01fdf488b18735ae":[6,0,322,2],
 "d6/d26/classBattlefield.html#a1db8214941cae51c09b20d4def5560bd":[6,0,322,117],
 "d6/d26/classBattlefield.html#a1e431ec8c07b96896f8cc4b4e3bbbd73":[6,0,322,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[6,0,2437,1,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2437,1,0],
 "d6/d2d/structSpellEffectInfo_1_1StaticData.html":[6,0,4373,0],
-"d6/d2d/structSpellEffectInfo_1_1StaticData.html#a7bbc11d4a7a68f9441d393c7b48f5231":[6,0,4373,0,1],
-"d6/d2d/structSpellEffectInfo_1_1StaticData.html#adc4268d74a3f0b47902e16eea2fc854a":[6,0,4373,0,0]
+"d6/d2d/structSpellEffectInfo_1_1StaticData.html#a7bbc11d4a7a68f9441d393c7b48f5231":[6,0,4373,0,1]
 };

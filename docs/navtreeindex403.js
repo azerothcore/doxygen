@@ -1,5 +1,7 @@
 var NAVTREEINDEX403 =
 {
+"df/d98/classspell__moroes__vanish.html#a7be884a657889e1b18d1499c8a053c18":[6,0,3639,2],
+"df/d98/classspell__moroes__vanish.html#a9551867737eea27a9acf2d3d475e9b3c":[6,0,3639,0],
 "df/d98/instance__halls__of__stone_8cpp.html":[7,0,0,0,1,3,5,9,1,5],
 "df/d98/instance__halls__of__stone_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,9,1,5,4],
 "df/d98/instance__halls__of__stone_8cpp.html#a81d8c56de5920b1e73d7955e1c7399ed":[7,0,0,0,1,3,5,9,1,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[6,0,6,4,0],
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[5,0,21,4,0],
 "df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[6,0,6,4,8],
-"df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[5,0,21,4,8],
-"df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[6,0,6,4,6],
-"df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[5,0,21,4,6]
+"df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[5,0,21,4,8]
 };

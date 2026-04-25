@@ -1,5 +1,6 @@
 var NAVTREEINDEX211 =
 {
+"d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#a5209de3456c374010502a94f67ff4544":[6,0,3827,3],
 "d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5":[6,0,3827,0],
 "d7/dcd/classspell__warr__glyph__of__sunder__armor.html":[6,0,4293],
 "d7/dcd/classspell__warr__glyph__of__sunder__armor.html#a38c2a5daeda4b366518026638e6a8e1b":[6,0,4293,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX211 =
 "d7/de0/classspell__the__lich__king__restore__soul.html#aaec66c1d360ffa4e25d86f331f3521dd":[6,0,4165,1],
 "d7/de0/classspell__the__lich__king__restore__soul.html#afad887fba0d97512a7a13a31977cf42d":[6,0,4165,3],
 "d7/de1/classboss__moorabi.html":[6,0,636],
-"d7/de1/classboss__moorabi.html#a94e14b2a9b06143985f785e781d1c302":[6,0,636,1],
-"d7/de1/classboss__moorabi.html#ae90c7dd46fb1335a525c3c3e27040420":[6,0,636,2]
+"d7/de1/classboss__moorabi.html#a94e14b2a9b06143985f785e781d1c302":[6,0,636,1]
 };

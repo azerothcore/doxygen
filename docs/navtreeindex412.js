@@ -1,5 +1,7 @@
 var NAVTREEINDEX412 =
 {
+"df/dd9/classUnit.html#acac59d316acd489b822df5ed45df5b61":[6,0,4524,711],
+"df/dd9/classUnit.html#acb4079c53b6b1969e3cab1f58412d5ec":[6,0,4524,115],
 "df/dd9/classUnit.html#acb620bb1bc586e11931985a018e932fd":[6,0,4524,518],
 "df/dd9/classUnit.html#acb800095887418d08fdfa8ade11f0074":[6,0,4524,714],
 "df/dd9/classUnit.html#acb92bf6c1e072ae3c845bce5b4b4fdab":[6,0,4524,364],
@@ -247,7 +249,5 @@ var NAVTREEINDEX412 =
 "df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[6,0,12,17,1],
 "df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[5,0,34,17,1],
 "df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[5,0,34,17,5],
-"df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[6,0,12,17,5],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html":[7,0,0,0,1,3,5,6,4],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b":[7,0,0,0,1,3,5,6,4,54]
+"df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[6,0,12,17,5]
 };

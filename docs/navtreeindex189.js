@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d7/d01/structnpc__zuljin__vortex.html#a1ae6a08fe247e7bc812ed4f5ffebc519":[6,0,2306,3],
 "d7/d01/structnpc__zuljin__vortex.html#ab353794ef978151999fdd2294783e757":[6,0,2306,1],
 "d7/d01/structnpc__zuljin__vortex.html#af3af996adc0a0dba4af992234f8356fb":[6,0,2306,0],
 "d7/d02/FleeingMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,5],
@@ -99,14 +100,14 @@ var NAVTREEINDEX189 =
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,14,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html":[6,0,694,0],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a55c0bba93a90b5a3770c81b9c4d2fe5b":[6,0,694,0,8],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a59bc42afcbb0ed2c2629bd0280836194":[6,0,694,0,2],
-"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a813c09e121730d4ae2e623ac3c37d570":[6,0,694,0,9],
-"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a8d3287cc74cc9d756a879c4ac796f860":[6,0,694,0,3]
+"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a813c09e121730d4ae2e623ac3c37d570":[6,0,694,0,9]
 };

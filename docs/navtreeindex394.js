@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab04ec13083a035a0f57e7d73310ed65a":[7,0,0,0,1,2,16,5,0,4,6,213],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab410028b13d1462c739c70d42eb11e62":[7,0,0,0,1,2,16,5,0,4,6,112],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab5d8d3f6c63cd6c752325e9e43bc3b22":[7,0,0,0,1,2,16,5,0,4,6,68],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab6bcc7ae89b0958bf790f39ccf53b1ad":[7,0,0,0,1,2,16,5,0,4,6,105],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab8d75fe9fcf4fe22dca43d2c733f6bdb":[7,0,0,0,1,2,16,5,0,4,6,304],
@@ -198,10 +200,10 @@ var NAVTREEINDEX394 =
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,99],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,99,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,87,3],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,99,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3264],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "df/d29/oculus_8h.html":[7,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,2,6,0],
 "df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[7,0,0,0,1,3,5,8,2,6,4],
-"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a330ecb09f57548e54e2caa4fc0f69b07":[7,0,0,0,1,3,5,8,2,6,4,2],
-"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a3b40dce57adf9e868b80128865aaf817":[7,0,0,0,1,3,5,8,2,6,4,0],
-"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a488fca0324c32f82c39bbb5287fe7971":[7,0,0,0,1,3,5,8,2,6,4,3]
+"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a330ecb09f57548e54e2caa4fc0f69b07":[7,0,0,0,1,3,5,8,2,6,4,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"d7/d78/classnpc__plucky.html":[6,0,2056],
 "d7/d78/classnpc__plucky.html#a3443f3e8c2b3fcc96955ab2e55e7fd61":[6,0,2056,3],
 "d7/d78/classnpc__plucky.html#a51e73f4e1f618aee5a000e31328efefc":[6,0,2056,2],
 "d7/d78/classnpc__plucky.html#a86bb2992b8af5893987145117aaf3608":[6,0,2056,1],
@@ -31,14 +32,14 @@ var NAVTREEINDEX198 =
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,41,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,12,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3861],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[6,0,3861,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[6,0,3861,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d89/classspell__the__lich__king__quake.html#af48cdbf87d61cf6d8392f65ae4c9b18a":[6,0,4163,2],
 "d7/d89/commonPCH_8h.html":[7,0,0,0,0,13,0],
 "d7/d89/structmap__id.html":[6,0,1502],
-"d7/d89/structmap__id.html#a5acc1b246a76073e1c97513251a4143d":[6,0,1502,0],
-"d7/d89/structmap__id.html#aaf844f570afdf7439ae7fbe0bbdc39e7":[6,0,1502,1]
+"d7/d89/structmap__id.html#a5acc1b246a76073e1c97513251a4143d":[6,0,1502,0]
 };

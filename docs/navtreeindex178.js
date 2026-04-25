@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d79/classOPvPCapturePoint.html#a9af622a7653d0782c27fff686e3ad7a0":[6,0,2329,45],
 "d6/d79/classOPvPCapturePoint.html#a9b6713759cd263075c2f07d515ae41eb":[6,0,2329,18],
 "d6/d79/classOPvPCapturePoint.html#aa6d1f930f50d302bca878bc508913edf":[6,0,2329,21],
 "d6/d79/classOPvPCapturePoint.html#ab201aa9dfea51f68481959670518904a":[6,0,2329,30],
@@ -85,8 +86,8 @@ var NAVTREEINDEX178 =
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,1,31,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[6,0,0,19,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,31,4],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,19,3],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,1,31,3],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,19,3],
 "d6/d7d/classDynamicMapTree.html":[6,0,1021],
 "d6/d7d/classDynamicMapTree.html#a06e7f683147b9487dad5ca70f28e5aa6":[6,0,1021,6],
 "d6/d7d/classDynamicMapTree.html#a0d1cb7c5e805b637b392afe95ce0286a":[6,0,1021,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca6dfb4874a898790c86691547bd4a093c":[7,0,0,0,1,3,5,21,33,3],
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7a5754df1c909426c787a3cfa6ec9fa5":[7,0,0,0,1,3,5,21,33,31],
 "d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7c1284c62d53ebef70ee3aaf2edf2aa6":[7,0,0,0,1,3,5,21,33,26],
-"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7e30fc1f1581d6245ca16ebe68fa12c7":[7,0,0,0,1,3,5,21,33,16],
-"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca8be5e2ff0c9d0b01a68f5b6204bec64b":[7,0,0,0,1,3,5,21,33,18]
+"d6/d81/zone__icecrown_8cpp.html#a6c358da36b3eac9ade0deb0065c871dca7e30fc1f1581d6245ca16ebe68fa12c7":[7,0,0,0,1,3,5,21,33,16]
 };

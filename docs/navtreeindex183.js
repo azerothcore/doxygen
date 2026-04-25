@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/db4/classspell__gen__cooldown__all.html":[6,0,3003],
 "d6/db4/classspell__gen__cooldown__all.html#a16c358062cee300e4c54f046a6c1accf":[6,0,3003,1],
 "d6/db4/classspell__gen__cooldown__all.html#a1f53f1345c418f82c6d140cf6cf80b3c":[6,0,3003,2],
 "d6/db4/classspell__gen__cooldown__all.html#a5a30dc1dad5b51af02043bd85c486a68":[6,0,3003,0],
@@ -54,8 +55,8 @@ var NAVTREEINDEX183 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c3d41eb1b68da0f3943e5df04bfcb5c":[7,0,0,0,1,3,7,0,2,2,2,4],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca96308f272db54ce2795569f4448a713e":[7,0,0,0,1,3,7,0,2,2,2,1],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,7,0,2,2,2,5],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a63dd0623022e2a892930e2db9415f3d7":[7,0,0,0,1,3,7,0,2,2,4],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,7,0,2,2,3]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#a63dd0623022e2a892930e2db9415f3d7":[7,0,0,0,1,3,7,0,2,2,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"de/d3b/classspell__vazruden__call__nazan.html#a434945da0a6b64db79cab0e09cbbb286":[6,0,4220,1],
 "de/d3b/classspell__vazruden__call__nazan.html#afae95a49843aa956d627e9bd92f8820f":[6,0,4220,0],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html":[6,0,2179,0],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0a2f6ddcb7334a6a7c0b131f82611776":[6,0,2179,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a69ed0205bba93d86ff4a28f0317bf37e":[6,0,1374,0,20],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a6e1f9553dd78441d41eebf81eb0e743f":[6,0,1374,0,0],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a727452275b30e8c7a64b69079790e754":[6,0,1374,0,12],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a7dbf5504651c521c971c8f9f63387992":[6,0,1374,0,15],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a8ffa659e32c32a5699b85b68c52239cf":[6,0,1374,0,19]
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a7dbf5504651c521c971c8f9f63387992":[6,0,1374,0,15]
 };

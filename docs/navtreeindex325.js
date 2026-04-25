@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11605ffe1e4fb33916f88522429e5466":[7,0,0,0,1,3,2,16,7,11,2],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ecea0c9267d7c02bd089696692b1b85":[7,0,0,0,1,3,2,16,7,11,5],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7b22c70e864cf17a5bb4ddc5dd38097e":[7,0,0,0,1,3,2,16,7,11,1],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa307e63f4f3d83df14f0e97932079ae0":[7,0,0,0,1,3,2,16,7,11,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dc/dcc/classspell__item__ultrasafe__transporter.html#a14bf65690e857c6a16dfcd8e036abbbb":[6,0,3464,0],
 "dc/dcc/classspell__item__ultrasafe__transporter.html#a2ec497a2dfe2364ad9011aba8532e73c":[6,0,3464,1],
 "dc/dcc/classspell__item__ultrasafe__transporter.html#af54f926b69002b2277dad34e1773e450":[6,0,3464,3],
-"dc/dcc/classspell__item__ultrasafe__transporter.html#afca09c1e1c5389db67d081d6e033f025":[6,0,3464,2],
-"dc/dcc/structnpc__shattrath__daily__quest.html":[6,0,2124]
+"dc/dcc/classspell__item__ultrasafe__transporter.html#afca09c1e1c5389db67d081d6e033f025":[6,0,3464,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/dd4/classBattlegroundEY.html#adf9eae0c87ba76ba271a6d31f191b3ff":[6,0,334,33],
 "dd/dd4/classBattlegroundEY.html#af433aaf1b91cecd69b734dde6886190b":[6,0,334,7],
 "dd/dd4/structboss__midnight.html":[6,0,632],
 "dd/dd4/structboss__midnight.html#a14dcbec9dc43cc12a124b6f140e0e8e6":[6,0,632,7],
@@ -172,12 +173,12 @@ var NAVTREEINDEX349 =
 "dd/dd6/structboss__falric.html#addda2f3fe13801f533069c8e5b83cdbd":[6,0,472,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,34,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[6,0,12,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[6,0,12,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[6,0,12,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,12,6,6,4],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,12,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/ddc/structboss__illidari__council.html#a8b30df956aa4ce1727756f1d19e151be":[6,0,560,6],
 "dd/ddc/structboss__illidari__council.html#af8e88c307efaba392cc2a1d2f3862078":[6,0,560,2],
 "dd/dde/classHomeMovementGenerator.html":[6,0,1289],
-"dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,1],
-"dd/ddf/structboss__fathomguard__caribdis.html":[6,0,474]
+"dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,1]
 };

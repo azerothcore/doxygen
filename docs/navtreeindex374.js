@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/d4f/structboss__razorgore.html#a12d65de9cb7d7a1832fbfc97a282a3ef":[6,0,681,4],
 "de/d4f/structboss__razorgore.html#a3320568d7cca02b452e12d15f9f7a5c3":[6,0,681,12],
 "de/d4f/structboss__razorgore.html#a394cab33de1aa498e9e36c58a9ce8bbf":[6,0,681,6],
 "de/d4f/structboss__razorgore.html#a77abd52a929b3f0c11c48b00230f53b9":[6,0,681,2],
@@ -69,8 +70,8 @@ var NAVTREEINDEX374 =
 "de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[7,0,0,0,0,15,25,6],
 "de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3],
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,34,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,12,4,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,34,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,12,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,12,4,0,2],
@@ -168,8 +169,8 @@ var NAVTREEINDEX374 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3331,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/d5e/classGridTerrainData.html#a1269f47abd6faf5304494c85628bb961":[6,0,1245,4],
 "de/d5e/classGridTerrainData.html#a1cf2965cea22f5a98ad2d737e372ac18":[6,0,1245,1],
 "de/d5e/classGridTerrainData.html#a2425f13f62b37931192acdc02127c243":[6,0,1245,18],
-"de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[6,0,1245,14],
-"de/d5e/classGridTerrainData.html#a2e3b2ea01f5ce3f93944529d73fa70de":[6,0,1245,10]
+"de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[6,0,1245,14]
 };

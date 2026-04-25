@@ -1,5 +1,7 @@
 var NAVTREEINDEX397 =
 {
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#ac2cd336874b25ad20dac104037de1df5":[6,0,1337,0,3],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#af2e752a791d75e50001060c4a9f18173":[6,0,1337,0,6],
 "df/d3f/classAliveCheck.html":[6,0,148],
 "df/d3f/classAliveCheck.html#a57b4f62b35a093665bb32073a086b8c5":[6,0,148,0],
 "df/d3f/classspell__hun__invigoration.html":[6,0,3212],
@@ -218,16 +220,16 @@ var NAVTREEINDEX397 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3796,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3796,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3796,0],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,21,3],
 "df/d51/structMMAP_1_1MapTiles.html":[6,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,21,3,4],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,21,3],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,3,4],
-"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,21,3,3],
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,21,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[6,0,6,3,3],
+"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,21,3,3],
 "df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,21,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[6,0,6,3,1],
-"df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,21,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[6,0,6,3,5],
+"df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,21,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[6,0,6,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[5,0,21,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[6,0,6,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX397 =
 "df/d52/classAuraApplicationStub.html#afaa194023ae92143078166c9a142a41d":[6,0,290,0],
 "df/d52/classAuraApplicationStub.html#afc3220aa9f0403a987ad07cec1c42ced":[6,0,290,11],
 "df/d52/structmap__fileheader.html":[6,0,1500],
-"df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[6,0,1500,9],
-"df/d52/structmap__fileheader.html#a3c3cc1895a47dc69265f4b58166c3f6b":[6,0,1500,6],
-"df/d52/structmap__fileheader.html#a5aa18af3a8e029e8842ddf72fc5d5267":[6,0,1500,8]
+"df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[6,0,1500,9]
 };

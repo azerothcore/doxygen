@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d80/classachievement__cheese__the__freeze.html#a5ec4c344a0ed203086be2661e4e24f0e":[6,0,47,0],
 "db/d80/classachievement__cheese__the__freeze.html#aaf3342fb3153a4d9223d880c0f2a277a":[6,0,47,1],
 "db/d80/structinstance__blackrock__spire.html":[6,0,1314],
 "db/d80/structinstance__blackrock__spire.html#a058ccab75160c9a68d97e495cc8a468b":[6,0,1314,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca9a477602c68b0c5af2a0b1c2cd969b0e":[7,0,0,0,1,3,5,8,0,0,17,9],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccaaa7646429f2d5e0acc729ddb0bd420a1":[7,0,0,0,1,3,5,8,0,0,17,18],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccab201fb6f99100ebd0586058f6b7cc089":[7,0,0,0,1,3,5,8,0,0,17,19],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccac16dbd679d49a0bc62907ff58bf40bbd":[7,0,0,0,1,3,5,8,0,0,17,16],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad3ca9f2aada04e144ae1950528553e59":[7,0,0,0,1,3,5,8,0,0,17,8]
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccac16dbd679d49a0bc62907ff58bf40bbd":[7,0,0,0,1,3,5,8,0,0,17,16]
 };

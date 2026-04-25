@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a85c1e33a0ecee2863f4ccae3673ec75b":[7,0,0,0,1,2,7,0,1,44],
 "d6/d4f/BattlefieldWG_8h.html#a86b3d2d9b191f103258a41bbc5eb9a5f":[7,0,0,0,1,2,7,0,1,36],
 "d6/d4f/BattlefieldWG_8h.html#a977506d6d03f0f9f7761a41d5f9671fd":[7,0,0,0,1,2,7,0,1,34],
 "d6/d4f/BattlefieldWG_8h.html#a97f1be9ee7de4791a13b811da1894baf":[7,0,0,0,1,2,7,0,1,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d52/structPvPCombatReference.html":[6,0,2461],
 "d6/d52/structPvPCombatReference.html#a1439519e8f8665e345cd1bd3d28031aa":[6,0,2461,0],
 "d6/d52/structPvPCombatReference.html#a88d3291f9e29fa72f610b6c2a224fa4a":[6,0,2461,2],
-"d6/d52/structPvPCombatReference.html#accd9e37fa63f110daebb0086027f8ab6":[6,0,2461,4],
-"d6/d52/structPvPCombatReference.html#ad8d05318d995aca2196c06768695b48e":[6,0,2461,1]
+"d6/d52/structPvPCombatReference.html#accd9e37fa63f110daebb0086027f8ab6":[6,0,2461,4]
 };

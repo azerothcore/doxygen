@@ -1,5 +1,7 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2722,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2722,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2722,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[6,0,1352,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[6,0,1352,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a82bb35cce1cfe2530826c5effe613f70":[7,0,0,0,1,3,9,9,35,18],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e":[7,0,0,0,1,3,9,9,35,4],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a9151b9010b4da41ba0080b1c90e159de":[7,0,0,0,1,3,9,9,35,22],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3":[7,0,0,0,1,3,9,9,35,7],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa8394c6d559ce082733c9cd01e45a5cc":[7,0,0,0,1,3,9,9,35,21],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523ab7077f795ac8bed4bac85f5bd59cbc6e":[7,0,0,0,1,3,9,9,35,20]
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3":[7,0,0,0,1,3,9,9,35,7]
 };

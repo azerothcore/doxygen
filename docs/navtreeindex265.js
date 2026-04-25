@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/d72/MovementGenerator_8h.html#ae7a6c44762ef974149bfb8d00247a013":[7,0,0,0,1,2,31,8,5],
 "da/d72/structboss__krosh__firehand.html":[6,0,597],
 "da/d72/structboss__krosh__firehand.html#a1ef3618844f086de7875f26e7e6190f9":[6,0,597,0],
 "da/d72/structboss__krosh__firehand.html#a261ced01dc1305ab7c2d2f3322022fe5":[6,0,597,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b":[7,0,0,0,1,3,5,6,10,73],
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba03c59cf1b5f07362dc8b3aeb2e072cf6":[7,0,0,0,1,3,5,6,10,73,1],
 "da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9":[7,0,0,0,1,3,5,6,10,73,5],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431":[7,0,0,0,1,3,5,6,10,73,10],
-"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba487d113f5c278059d4b918086c275225":[7,0,0,0,1,3,5,6,10,73,2]
+"da/d78/boss__the__lich__king_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431":[7,0,0,0,1,3,5,6,10,73,10]
 };

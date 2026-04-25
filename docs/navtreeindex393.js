@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"df/d20/instance__blackwing__lair_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,1,2,9,6],
+"df/d20/instance__blackwing__lair_8cpp.html#a59ddfa91084111da23b5d47482e4ff8d":[7,0,0,0,1,3,2,1,2,9,9],
 "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5":[7,0,0,0,1,3,2,1,2,9,3],
 "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5":[7,0,0,0,1,3,2,1,2,9,3,0],
 "df/d20/instance__blackwing__lair_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,1,2,9,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaf5220c031538f14e62edb39923a0ccf":[7,0,0,0,1,2,16,5,0,4,6,54],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01bcc653653a26eb6e713848d62bc34":[7,0,0,0,1,2,16,5,0,4,6,5],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01c90aebf78a9a599563a1baee44c24":[7,0,0,0,1,2,16,5,0,4,6,146],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab03ade509459f44b324a728b42af409c":[7,0,0,0,1,2,16,5,0,4,6,199],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab04ec13083a035a0f57e7d73310ed65a":[7,0,0,0,1,2,16,5,0,4,6,213],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab410028b13d1462c739c70d42eb11e62":[7,0,0,0,1,2,16,5,0,4,6,112]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab03ade509459f44b324a728b42af409c":[7,0,0,0,1,2,16,5,0,4,6,199]
 };
