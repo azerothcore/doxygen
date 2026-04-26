@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d7/d21/classBattlegroundBE.html#a6216e25edd0057b9599efc787045505e":[6,0,331,2],
 "d7/d21/classBattlegroundBE.html#ab004984d4b882e72471b0b5a8fca9632":[6,0,331,3],
 "d7/d21/cs__quest_8cpp.html":[7,0,0,0,1,3,0,40],
 "d7/d21/cs__quest_8cpp.html#ae9edb5f21eaacbfd73cc01543cb2fcdd":[7,0,0,0,1,3,0,40,1],
@@ -227,16 +228,16 @@ var NAVTREEINDEX191 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,12,6,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,12,6,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,12,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,12,6,47,6],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,12,6,47,2],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[6,0,12,6,47,5],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[6,0,4243],
 "d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf":[6,0,4243,0],
 "d7/d26/classspell__warl__demonic__aegis.html#a5869dc6372d479d85da1118d0c9ec8e6":[6,0,4243,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d26/structnpc__scion__of__eternity.html#ac1a9111bc835a3d2cffc43b840985763":[6,0,2113,0],
 "d7/d26/structnpc__scion__of__eternity.html#aff0f8d0d57afb6ef3df7b259ec5860fa":[6,0,2113,2],
 "d7/d27/classspell__q12690__burst__at__the__seams.html":[6,0,3890],
-"d7/d27/classspell__q12690__burst__at__the__seams.html#a29e47298601cb55c5442a3fa59bb3646":[6,0,3890,1],
-"d7/d27/classspell__q12690__burst__at__the__seams.html#a45700aba665b601b2c860af5a869d1af":[6,0,3890,2]
+"d7/d27/classspell__q12690__burst__at__the__seams.html#a29e47298601cb55c5442a3fa59bb3646":[6,0,3890,1]
 };

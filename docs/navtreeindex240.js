@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e":[7,0,0,0,1,2,38,0,22,2,12],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbcae96f89c2d5231319bcb6e7ee408ba770":[7,0,0,0,1,2,38,0,22,2,4],
 "d9/d50/classspell__gen__focused__bursts.html":[6,0,3029],
 "d9/d50/classspell__gen__focused__bursts.html#a80ab847f2528060b2e3e2e128cfc06af":[6,0,3029,0],
@@ -183,14 +184,14 @@ var NAVTREEINDEX240 =
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,1,124],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[6,0,0,112,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,1,124,5],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[6,0,0,112,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,112,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,112,1],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,124,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,112,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,7,4,3,2,6,2],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[7,0,0,0,1,3,7,4,3,2,6,4],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[7,0,0,0,1,3,7,4,3,2,6,3],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663f":[7,0,0,0,1,3,7,4,3,2,2],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad":[7,0,0,0,1,3,7,4,3,2,2,0]
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663f":[7,0,0,0,1,3,7,4,3,2,2]
 };

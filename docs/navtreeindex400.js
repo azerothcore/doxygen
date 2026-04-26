@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cad48174bab4e9f24c5a2fb7d3c6936122":[7,0,0,0,1,3,5,1,0,0,13,23],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf":[7,0,0,0,1,3,5,1,0,0,13,10],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cae06d190e6e951dd13743a9b5f5889580":[7,0,0,0,1,3,5,1,0,0,13,12],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cae897e1b7ea4d3b4240381193133f033a":[7,0,0,0,1,3,5,1,0,0,13,20],
@@ -104,8 +105,8 @@ var NAVTREEINDEX400 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2838,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2838,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2838,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2794],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2794,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2794,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aad428ead4634d411ce7fb653948cf4998":[7,0,0,0,1,3,10,20,1,6],
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aad567c94242534f784c0211341fe1002b":[7,0,0,0,1,3,10,20,1,12],
 "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aad7c14130ab0f04b4805f8c841d733f9e":[7,0,0,0,1,3,10,20,1,4],
-"df/d7d/transport__zeppelin_8h.html#ab326c00672be06c22ee74bd2dc7a3ce0":[7,0,0,0,1,3,10,20,3],
-"df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html":[6,0,2049,0]
+"df/d7d/transport__zeppelin_8h.html#ab326c00672be06c22ee74bd2dc7a3ce0":[7,0,0,0,1,3,10,20,3]
 };

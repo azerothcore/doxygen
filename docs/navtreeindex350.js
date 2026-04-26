@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,1],
 "dd/ddf/structboss__fathomguard__caribdis.html":[6,0,474],
 "dd/ddf/structboss__fathomguard__caribdis.html#a08b01e9735e421d8d5bbc2b552217762":[6,0,474,8],
 "dd/ddf/structboss__fathomguard__caribdis.html#a0d2a3403d5934e86a897b3417ed2214a":[6,0,474,5],
@@ -197,14 +198,14 @@ var NAVTREEINDEX350 =
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,3042,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,3042,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,3042,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/ded/structboss__twin__valkyrAI.html#a4101d2174de103be7154875beaafa65d":[6,0,764,12],
 "dd/ded/structboss__twin__valkyrAI.html#a624969393687e10c2f8fca72d9394265":[6,0,764,2],
 "dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a":[6,0,764,15],
-"dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,764,7],
-"dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,764,8]
+"dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,764,7]
 };

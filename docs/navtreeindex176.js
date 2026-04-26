@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d60/structnpc__ulduar__hodir__mage.html#a75528e6ce772183e63a9a415932b05cf":[6,0,2236,9],
 "d6/d60/structnpc__ulduar__hodir__mage.html#a7c942a1ad420731a6e57ede7720d164b":[6,0,2236,3],
 "d6/d60/structnpc__ulduar__hodir__mage.html#a8c89348ce80bc9e4ac72dec41855db8a":[6,0,2236,10],
 "d6/d60/structnpc__ulduar__hodir__mage.html#aa486b501aefeb70beb325feece5ec34c":[6,0,2236,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d6e/structboss__malchezaar.html#a0d91be1d9ad3a0876bec8b694edd44be":[6,0,623,6],
 "d6/d6e/structboss__malchezaar.html#a1b48e2c117ac4c60f11310e43d34264b":[6,0,623,3],
 "d6/d6e/structboss__malchezaar.html#a25ef9558fcccee430ef92703af903d91":[6,0,623,7],
-"d6/d6e/structboss__malchezaar.html#a2c825f7f116891601ef2c3809c7db15c":[6,0,623,8],
-"d6/d6e/structboss__malchezaar.html#a354e07cb1f9ae86d96d07cb80f911474":[6,0,623,1]
+"d6/d6e/structboss__malchezaar.html#a2c825f7f116891601ef2c3809c7db15c":[6,0,623,8]
 };

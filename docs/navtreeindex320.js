@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/d76/classWorldBossAI.html#aa783665ce6e43e76a18515f511f82efb":[6,0,4610,8],
 "dc/d76/classWorldBossAI.html#aad7ffc5fb8215f6bf36fe72aef40c9e1":[6,0,4610,0],
 "dc/d76/classWorldBossAI.html#ab84cb945e773c41d22b682996c744768":[6,0,4610,7],
 "dc/d76/classWorldBossAI.html#abba6c74269442b0bbfe94ab583904485":[6,0,4610,12],
@@ -229,14 +230,14 @@ var NAVTREEINDEX320 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3407],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d84/structQuaternionData.html#a65c564f6ae82c8f1bfb8f7786b5f0b90":[6,0,2467,4],
 "dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7":[6,0,2467,8],
 "dc/d84/structQuaternionData.html#a7f68a7bf3da861de017168eef5b8c6a0":[6,0,2467,1],
-"dc/d84/structQuaternionData.html#a8a582c133d5fba901470a776c7144432":[6,0,2467,0],
-"dc/d84/structQuaternionData.html#ab0330c115f97ff6368d8e8ab9820191e":[6,0,2467,3]
+"dc/d84/structQuaternionData.html#a8a582c133d5fba901470a776c7144432":[6,0,2467,0]
 };

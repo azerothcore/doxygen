@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d6e/structboss__malchezaar.html#a354e07cb1f9ae86d96d07cb80f911474":[6,0,623,1],
 "d6/d6e/structboss__malchezaar.html#a55b8c2dd25af193e078fdb0315863783":[6,0,623,14],
 "d6/d6e/structboss__malchezaar.html#a58d1823940988f6f55aec8a5da44fd54":[6,0,623,10],
 "d6/d6e/structboss__malchezaar.html#a5cfd1284c572f72ecde9d9ad94922d2b":[6,0,623,5],
@@ -77,10 +78,10 @@ var NAVTREEINDEX177 =
 "d6/d73/classspell__gluth__decimate__damage.html":[6,0,3128],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3128,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3128,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1980],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1980,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1980,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d79/classOPvPCapturePoint.html#a7eddfb7e0da2e639b06fe7ed8315a598":[6,0,2329,2],
 "d6/d79/classOPvPCapturePoint.html#a8cb769bf871ad8cc83cbf7918e05271c":[6,0,2329,26],
 "d6/d79/classOPvPCapturePoint.html#a8ddce56a5ea26767577156a14ee07a65":[6,0,2329,22],
-"d6/d79/classOPvPCapturePoint.html#a904c7e55026845730633727e7af129a9":[6,0,2329,35],
-"d6/d79/classOPvPCapturePoint.html#a969f4c625687d00ac61d8015609dd06f":[6,0,2329,43]
+"d6/d79/classOPvPCapturePoint.html#a904c7e55026845730633727e7af129a9":[6,0,2329,35]
 };

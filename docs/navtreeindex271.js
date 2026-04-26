@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"da/d9e/classSmartAIMgr.html#ada782861c6465b53febcb835c201b46b":[6,0,2580,3],
 "da/d9e/classSmartAIMgr.html#adb011836ffb01660a069ced11c24aa81":[6,0,2580,14],
 "da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[6,0,2580,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[6,0,2580,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[7,0,0,0,1,2,8,1,16,3],
 "da/daa/BattlegroundRV_8cpp.html#abb49be7549db0a88e8b5fcd470741084":[7,0,0,0,1,2,8,1,16,2],
 "da/daa/BattlegroundRV_8cpp.html#adea63e30cefe486dd1cbeb0353fdaeb2":[7,0,0,0,1,2,8,1,16,0],
-"da/daa/classMetricStopWatch.html":[6,0,1526],
-"da/daa/classMetricStopWatch.html#a2007207e0985949f478fdeee300ea0d5":[6,0,1526,0]
+"da/daa/classMetricStopWatch.html":[6,0,1526]
 };

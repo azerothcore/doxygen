@@ -1,6 +1,7 @@
 var NAVTREEINDEX185 =
 {
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[6,0,12,25],
+"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,34,25],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,34,25,0],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[6,0,12,25,0],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html":[6,0,2632],
@@ -19,10 +20,10 @@ var NAVTREEINDEX185 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,34,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,12,6,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,12,6,28,0],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,34,6,28,3],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,12,6,28,3],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,34,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,12,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,34,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,34,6,28,1],
@@ -115,10 +116,10 @@ var NAVTREEINDEX185 =
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[6,0,693,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[6,0,12,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,34,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,12,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,34,1,2,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,12,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,12,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,34,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,12,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,34,1,2,0],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[6,0,12,1,2,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html":[6,0,1659,0],
@@ -184,8 +185,8 @@ var NAVTREEINDEX185 =
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,12,16,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,34,16,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,12,16,0,5],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,16,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,12,16,0,4],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,16,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,12,16,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,34,16,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[6,0,12,16,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d8768834231859b040e1da29509eec8":[7,0,0,0,1,3,5,10,1,1,17,18],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca8df3cb823481152d8c01063608b461b6":[7,0,0,0,1,3,5,10,1,1,17,4],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca95658e73df504c348814e76302d5759e":[7,0,0,0,1,3,5,10,1,1,17,7],
-"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cac476c191c89520480d37888c635522d7":[7,0,0,0,1,3,5,10,1,1,17,19],
-"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cad1a81bdbda2fdfb7905ff28e92fbf3fc":[7,0,0,0,1,3,5,10,1,1,17,10]
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cac476c191c89520480d37888c635522d7":[7,0,0,0,1,3,5,10,1,1,17,19]
 };

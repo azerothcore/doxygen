@@ -41,6 +41,7 @@ var boss__freya_8cpp =
     ] ],
     [ "FreyaNPCs", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184d", [
       [ "NPC_NATURE_BOMB", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184da8a25b8eb8142013431492bf641099c6f", null ],
+      [ "NPC_CHANNEL_STALKER_FREYA", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daa1ffef304750dc36197c270148a4a509", null ],
       [ "NPC_IRON_ROOT_TRIGGER", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dacf784c8ccd699892a823f1ced8b97f3d", null ],
       [ "NPC_FREYA_UNSTABLE_SUN_BEAM", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184da533acdb9805ece81fa42165bc504c840", null ],
       [ "NPC_UNSTABLE_SUN_BRIGHTLEAF", "df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daabce5aa0f5f0138cbdeaedaafb74cbea", null ],
@@ -69,6 +70,9 @@ var boss__freya_8cpp =
       [ "SPELL_IRON_ROOTS_FREYA_DAMAGE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd", null ],
       [ "SPELL_UNSTABLE_SUN_FREYA_DAMAGE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa0830984dda504df0400851f620495b80", null ],
       [ "SPELL_UNSTABLE_SUN_VISUAL", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa32e6575cbf2a6f4bfb46f03fa49b2221", null ],
+      [ "SPELL_FREYA_DUMMY_GREEN", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faffdfbb86450de2cf3551bbf953658419", null ],
+      [ "SPELL_FREYA_DUMMY_YELLOW", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa0ae04b6c96c371deec950ca177482211", null ],
+      [ "SPELL_FREYA_DUMMY_BLUE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa92ab76e93690eb2dd6fd9e4573c5ef20", null ],
       [ "SPELL_DRAINED_OF_POWER", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb", null ],
       [ "SPELL_STONEBARK_ESSENCE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644facda7b1d376aa194b2afe6abf76356696", null ],
       [ "SPELL_IRONBRANCH_ESSENCE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa1df5d1a949bb2acb86c16f35787a7fe5", null ],
@@ -110,7 +114,10 @@ var boss__freya_8cpp =
       [ "EVENT_PHASE_FINAL", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ce227d3cc740f5d52c5d46259892d35", null ],
       [ "DATA_GET_ELDER_COUNT", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
-      [ "CRITERIA_LUMBERJACKED", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ]
+      [ "CRITERIA_LUMBERJACKED", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ]
     ] ],
     [ "Texts", "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_ELDER_AGGRO", "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a21cb5e37cb8dcdcd693670b7114905ac", null ],

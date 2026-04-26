@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0d58bd022a55ac9c5a9be4c1443b2bf3":[7,0,0,0,1,1,0,0,3,1,39],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0e2f944c309ca24a8702e71aa7643a45":[7,0,0,0,1,1,0,0,3,1,23],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb":[7,0,0,0,1,1,0,0,3,1,49],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1c8c8d584ab7ce75444b54990f620a06":[7,0,0,0,1,1,0,0,3,1,81],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d40/classspell__item__purify__helboar__meat.html#aa46a2b76153ffdbea565374899ab31a3":[6,0,3418,3],
 "d8/d40/classspell__item__purify__helboar__meat.html#aeeab8e1eadb83827b035e07887a59ad1":[6,0,3418,1],
 "d8/d40/structnpc__pet__gen__moth.html":[6,0,2036],
-"d8/d40/structnpc__pet__gen__moth.html#a527b48528cce28f6b468af170e5ae45f":[6,0,2036,0],
-"d8/d41/M2Stores_8cpp.html":[7,0,0,0,1,2,14,2]
+"d8/d40/structnpc__pet__gen__moth.html#a527b48528cce28f6b468af170e5ae45f":[6,0,2036,0]
 };

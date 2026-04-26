@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/d30/SpellMgr_8h.html#ae2cfddda5812604f30326706107ce20b":[7,0,0,0,1,2,41,9,51],
 "de/d30/SpellMgr_8h.html#ae39437b5ea860c3380638469c07e196c":[7,0,0,0,1,2,41,9,45],
 "de/d30/SpellMgr_8h.html#aebca17b4bc1b0129c26a7c769d90159b":[7,0,0,0,1,2,41,9,33],
 "de/d30/SpellMgr_8h.html#aef6a5732974d60dc6edd64d0372a4301":[7,0,0,0,1,2,41,9,44],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[6,0,1550,48],
 "de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[6,0,1550,34],
 "de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[6,0,1550,50],
-"de/d3b/classspell__vazruden__call__nazan.html":[6,0,4220],
-"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[6,0,4220,2]
+"de/d3b/classspell__vazruden__call__nazan.html":[6,0,4220]
 };

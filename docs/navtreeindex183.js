@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/db4/classnpc__icc__skybreaker__vicar.html#a6884bb7e54b78abee0cc995c4fbb501d":[6,0,1892,2],
 "d6/db4/classspell__gen__cooldown__all.html":[6,0,3003],
 "d6/db4/classspell__gen__cooldown__all.html#a16c358062cee300e4c54f046a6c1accf":[6,0,3003,1],
 "d6/db4/classspell__gen__cooldown__all.html#a1f53f1345c418f82c6d140cf6cf80b3c":[6,0,3003,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,7,0,2,2,2,7],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c3d41eb1b68da0f3943e5df04bfcb5c":[7,0,0,0,1,3,7,0,2,2,2,4],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca96308f272db54ce2795569f4448a713e":[7,0,0,0,1,3,7,0,2,2,2,1],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,7,0,2,2,2,5],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a63dd0623022e2a892930e2db9415f3d7":[7,0,0,0,1,3,7,0,2,2,4]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,7,0,2,2,2,5]
 };

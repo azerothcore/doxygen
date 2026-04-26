@@ -1,5 +1,6 @@
 var NAVTREEINDEX159 =
 {
+"d5/dce/outland__script__loader_8cpp.html#a757ea0d4b31a1b8bd53b33ec2b9f8e87":[7,0,0,0,1,3,7,8,23],
 "d5/dce/outland__script__loader_8cpp.html#a77e256ce8ca932c8d162a30715dc7c6f":[7,0,0,0,1,3,7,8,81],
 "d5/dce/outland__script__loader_8cpp.html#a787e8b63075b328932e0fa7237d4f3c5":[7,0,0,0,1,3,7,8,95],
 "d5/dce/outland__script__loader_8cpp.html#a78cc94e636596a036ac86871e6d18cac":[7,0,0,0,1,3,7,8,15],
@@ -205,14 +206,14 @@ var NAVTREEINDEX159 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,1,96],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[6,0,2231],
 "d5/dd1/structnpc__ulduar__flames__initial.html#a0f99d43d373b61e9c665bd6c0d389afb":[6,0,2231,7],
 "d5/dd1/structnpc__ulduar__flames__initial.html#a34c1ffd2bc07c2a736a7d6dc103a8afe":[6,0,2231,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,1,1,0,10],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfa571d4d5e2da8756178e247a5d6622cb9":[7,0,0,0,1,3,5,1,1,0,10,2],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfade02b9e5a00f3eccd24d1301023cf943":[7,0,0,0,1,3,5,1,1,0,10,0],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428":[7,0,0,0,1,3,5,1,1,0,10,1],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,1,0,12]
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428":[7,0,0,0,1,3,5,1,1,0,10,1]
 };

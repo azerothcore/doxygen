@@ -1,5 +1,13 @@
 var NAVTREEINDEX408 =
 {
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[6,0,1639,0,4],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[6,0,1639,0,5],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[6,0,1639,0,12],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#abbfbb5a1e116c6deb3db23f12ff8994f":[6,0,1639,0,0],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac458fc9a331dc7edfdc764215b1926e8":[6,0,1639,0,10],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[6,0,1639,0,11],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[6,0,1639,0,6],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1639,0,2],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1639,0,9],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[6,0,1639,0,7],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#afb48cc1c2e254c292c33eade74b6fad7":[6,0,1639,0,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX408 =
 "df/dd9/classUnit.html#a06efb9335107f8b14351954a4ec6599b":[6,0,4524,646],
 "df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9":[6,0,4524,695],
 "df/dd9/classUnit.html#a080cb9749e810cdb61c36430b179c26f":[6,0,4524,497],
-"df/dd9/classUnit.html#a0839378167049038c2857252d3b14738":[6,0,4524,380],
-"df/dd9/classUnit.html#a085d47fd164802e379e9a90a528da2d3":[6,0,4524,224],
-"df/dd9/classUnit.html#a087d27124192bac6a5418e91c7a38275":[6,0,4524,392],
-"df/dd9/classUnit.html#a08f1592d69bb8113f4e6dfcb08d3a494":[6,0,4524,617],
-"df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90":[6,0,4524,836],
-"df/dd9/classUnit.html#a0914a3a6a93fcb7bb3774e21c4a42208":[6,0,4524,573],
-"df/dd9/classUnit.html#a091d2d0de3fe2cde3ab61dfd1cde58d5":[6,0,4524,315],
-"df/dd9/classUnit.html#a099b958ed2828d6b4cd1aa996acdd005":[6,0,4524,51],
-"df/dd9/classUnit.html#a09eacd80ca37afbf0d99ae8542d84fcd":[6,0,4524,508]
+"df/dd9/classUnit.html#a0839378167049038c2857252d3b14738":[6,0,4524,380]
 };

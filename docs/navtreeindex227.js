@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4ca592edb75f801e335cbc4b7b719177":[7,0,0,0,1,3,5,9,2,5,14,23],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a54b6d0d1097b3ab12e902f6fad56018c":[7,0,0,0,1,3,5,9,2,5,14,2],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a5a29d553d47c6de551b2b886ce6c67cd":[7,0,0,0,1,3,5,9,2,5,14,3],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a6f27bc5dbb7bf90ec48a9db1a561662b":[7,0,0,0,1,3,5,9,2,5,14,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/da3/structCreatureMovementData.html#a3ed4b7f140537f9d066344c50a79b0b1":[6,0,952,7],
 "d8/da3/structCreatureMovementData.html#a530b2bbf530e553687c23555f3ffe655":[6,0,952,6],
 "d8/da3/structCreatureMovementData.html#aa535d32995ba28e11915dd56494f4a72":[6,0,952,10],
-"d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf":[6,0,952,1],
-"d8/da3/structCreatureMovementData.html#ac16489cdc845f350e98da595269b7770":[6,0,952,2]
+"d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf":[6,0,952,1]
 };

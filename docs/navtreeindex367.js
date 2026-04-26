@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6ad0c4bfda8d7326ad9de433ef312d80fe":[7,0,0,0,1,3,4,27,8,8],
 "de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6adb8c6e85b360e8f939f58c4d98c9ff5d":[7,0,0,0,1,3,4,27,8,13],
 "de/d14/zone__tanaris_8cpp.html#a637f2ece77285feff35a76f446e13296":[7,0,0,0,1,3,4,27,11],
 "de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8":[7,0,0,0,1,3,4,27,7],
@@ -51,8 +52,8 @@ var NAVTREEINDEX367 =
 "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,21,16,1],
 "de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,21,24],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,21,26],
-"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,21,31],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,21,32],
+"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,21,31],
 "de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f":[5,0,21,30],
 "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a":[5,0,21,34],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,21,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d1c/classGameObject.html#abd15f30773dca3789fbfa92f02202df1":[6,0,1099,172],
 "de/d1c/classGameObject.html#abeef893dae50cca573ee41be97125c40":[6,0,1099,82],
 "de/d1c/classGameObject.html#ac032e3c7ec5f874056b0c55721d7ae32":[6,0,1099,13],
-"de/d1c/classGameObject.html#ac20deae424fd637099e731077fc4e353":[6,0,1099,142],
-"de/d1c/classGameObject.html#ac3d33ba105726e37f86430eba51b30a2":[6,0,1099,6]
+"de/d1c/classGameObject.html#ac20deae424fd637099e731077fc4e353":[6,0,1099,142]
 };

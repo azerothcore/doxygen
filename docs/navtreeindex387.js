@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"de/dd7/classspell__pri__t10__heal__2p__bonus.html#a0c7c91113f0a4a289dcc5e53450a635a":[6,0,3789,2],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2":[6,0,3789,1],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#aa4639d482cfda229e0a6eaa53c320ea8":[6,0,3789,4],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#ab37749506a197a97cb3cc567cdff199c":[6,0,3789,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[6,0,2171],
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2171,2],
-"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2171,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2722]
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2171,1]
 };

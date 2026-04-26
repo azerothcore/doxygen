@@ -1,5 +1,13 @@
 var NAVTREEINDEX416 =
 {
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,5,3],
+"df/df8/CombatHandler_8cpp.html":[7,0,0,0,1,2,22,11],
+"df/df8/classspell__mage__empowered__fire.html":[6,0,3560],
+"df/df8/classspell__mage__empowered__fire.html#a5c417d0c4e46ebd2356f2d78ba5eee14":[6,0,3560,3],
+"df/df8/classspell__mage__empowered__fire.html#a62a1ae18832157f00ee2eea31ff13d01":[6,0,3560,2],
+"df/df8/classspell__mage__empowered__fire.html#a9d6d6d752da222fd0edbb045840893fd":[6,0,3560,1],
+"df/df8/classspell__mage__empowered__fire.html#a9e8a8a231ee04be353be7f0bf320776b":[6,0,3560,4],
+"df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[6,0,3560,0],
 "df/df9/AddonHandler_8h.html":[7,0,0,0,1,2,22,1],
 "df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[7,0,0,0,1,2,22,1,1],
 "df/df9/classspell__brewfest__reveler__transform.html":[6,0,2706],
@@ -241,13 +249,5 @@ var NAVTREEINDEX416 =
 "dir_c0da28c740234fa28d1fcf99be699b09.html":[7,0,0,0,1,2,13],
 "dir_c22643033d4d5dfd5506f8ab7d5a4197.html":[7,0,0,0,1,3,5,4,0],
 "dir_c55db428bdbf28a6b4d3b113733cf911.html":[7,0,0,0,0,3],
-"dir_c606529abee686f44b65a2777767c446.html":[7,0,0,0,1,3],
-"dir_c6385164885fcc1084c3c73758de0380.html":[7,0,0,0,1,2,19,0],
-"dir_c6a050c7db8efacb27792da37f17de7b.html":[7,0,0,0,1,2,16,9],
-"dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[7,0,0,0,1,2,22],
-"dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[7,0,0,0,1,3,5,10,1],
-"dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0],
-"dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
-"dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1]
+"dir_c606529abee686f44b65a2777767c446.html":[7,0,0,0,1,3]
 };

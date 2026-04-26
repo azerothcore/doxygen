@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d27/classspell__q12690__burst__at__the__seams.html#a45700aba665b601b2c860af5a869d1af":[6,0,3890,2],
 "d7/d27/classspell__q12690__burst__at__the__seams.html#a889a129ddc3ea6fcd7f440fc7c163e08":[6,0,3890,5],
 "d7/d27/classspell__q12690__burst__at__the__seams.html#aad1c175a2611152278d847ac59f93090":[6,0,3890,3],
 "d7/d27/classspell__q12690__burst__at__the__seams.html#acaa8f445874270f34ea5b42a506671db":[6,0,3890,0],
@@ -199,10 +200,10 @@ var NAVTREEINDEX192 =
 "d7/d32/classBIH_1_1BuildStats.html#acd34211244a97c08193421818f326ff9":[6,0,371,1,6],
 "d7/d32/classBIH_1_1BuildStats.html#ae8cf4ba9eaa7dc424914483ab3fafeba":[6,0,371,1,4],
 "d7/d32/classBIH_1_1BuildStats.html#afbedc638e0117b7ca5c5f1e447846717":[6,0,371,1,12],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,12,12,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,12,12,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,12,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d34/GridDefines_8h.html#aa7325a29c918309cfd39e8637782f4c5":[7,0,0,0,1,2,19,3,12],
 "d7/d34/GridDefines_8h.html#aa9900a84acd5d539fb56c9b2d7a0b9a6":[7,0,0,0,1,2,19,3,4],
 "d7/d34/GridDefines_8h.html#aa9d6737eb1c6d3c55c7707d0ad90d9f0":[7,0,0,0,1,2,19,3,5],
-"d7/d34/GridDefines_8h.html#aad35d1efe9e8a57f45c0740a89bf9fbf":[7,0,0,0,1,2,19,3,17],
-"d7/d34/GridDefines_8h.html#ab566123309f520dd2c1cc7388816c0f1":[7,0,0,0,1,2,19,3,24]
+"d7/d34/GridDefines_8h.html#aad35d1efe9e8a57f45c0740a89bf9fbf":[7,0,0,0,1,2,19,3,17]
 };
