@@ -1,7 +1,6 @@
 var structboss__attumen =
 [
     [ "boss_attumen", "d7/d65/structboss__attumen.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "d7/d65/structboss__attumen.html#ae685929086090928802854cc93f9934a", null ],
     [ "DamageTaken", "d7/d65/structboss__attumen.html#a0b426b760d9ace05211c3383e7628022", null ],
     [ "EnterEvadeMode", "d7/d65/structboss__attumen.html#af00f91294c04d0fe932c922fd270c5dc", null ],
     [ "Initialize", "d7/d65/structboss__attumen.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],

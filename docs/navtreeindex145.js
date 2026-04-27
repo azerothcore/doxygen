@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769":[7,0,0,0,1,3,2,18,2,3],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84":[7,0,0,0,1,3,2,18,2,6],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,18,2,4],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3":[7,0,0,0,1,3,2,18,2,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d23/classScriptRegistry.html#a0f8009ac0cd91574f0bf4ac92ef90ce0":[6,0,2540,2],
 "d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05":[6,0,2540,9],
 "d5/d23/classScriptRegistry.html#a4274e01ddb2659f125970b97014da00e":[6,0,2540,13],
-"d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd":[6,0,2540,10],
-"d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622":[6,0,2540,8]
+"d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd":[6,0,2540,10]
 };

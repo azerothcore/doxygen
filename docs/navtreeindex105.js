@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d92/classGameEventMgr.html#a9f439ec957e840ea49725af8818ae784":[6,0,1096,14],
 "d3/d92/classGameEventMgr.html#aa3fc438e41a455a600381c2d4f0bdb11":[6,0,1096,84],
 "d3/d92/classGameEventMgr.html#aa97c8db31a982225081577077303582c":[6,0,1096,17],
 "d3/d92/classGameEventMgr.html#aac5479ac2af10fc773fea095e56f3d41":[6,0,1096,90],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa1fd10f3289ec150f102606b1f74b79c1":[7,0,0,0,1,3,4,25,16,24],
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa28e935bf7a4a49fef905bdf3b6033d6f":[7,0,0,0,1,3,4,25,16,14],
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa315ca85ebf22ea5941279d7fdad8fc65":[7,0,0,0,1,3,4,25,16,31],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa324a6c230b07bb84a5c9e639aeac2cfd":[7,0,0,0,1,3,4,25,16,30],
-"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa3e701dc483fb2c086d4d4422069e79c1":[7,0,0,0,1,3,4,25,16,20]
+"d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580aa324a6c230b07bb84a5c9e639aeac2cfd":[7,0,0,0,1,3,4,25,16,30]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a59bc42afcbb0ed2c2629bd0280836194":[6,0,694,0,2],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a813c09e121730d4ae2e623ac3c37d570":[6,0,694,0,9],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a8d3287cc74cc9d756a879c4ac796f860":[6,0,694,0,3],
 "d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a9ddecc950cac3fc392078df2810ec2a2":[6,0,694,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d21/classBattlegroundBE.html#a09be55b7b6a1559a657bdfbd672021f0":[6,0,331,6],
 "d7/d21/classBattlegroundBE.html#a15f4e4a79c5a1ee594811aa1cd1786f7":[6,0,331,1],
 "d7/d21/classBattlegroundBE.html#a2379fda6296fcdbde68fad362e858621":[6,0,331,5],
-"d7/d21/classBattlegroundBE.html#a2eed1be4672539674e092edb6a6a9627":[6,0,331,4],
-"d7/d21/classBattlegroundBE.html#a4b29ebe897de3109b165607de957fae2":[6,0,331,0]
+"d7/d21/classBattlegroundBE.html#a2eed1be4672539674e092edb6a6a9627":[6,0,331,4]
 };

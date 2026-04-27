@@ -1,5 +1,6 @@
 var NAVTREEINDEX143 =
 {
+"d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623ea883764d921ca53783fc0a8f6e0477bfb":[7,0,0,0,1,3,2,1,2,7,6,3],
 "d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623eacb1ba49483db4e9579e77e8bf989bc3e":[7,0,0,0,1,3,2,1,2,7,6,4],
 "d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623eacdb3246d728c6e467634890e653f3cda":[7,0,0,0,1,3,2,1,2,7,6,2],
 "d4/df6/boss__razorgore_8cpp.html#ab33096358996f6413879b5c6ab8d623ead606e8b538668b177e5588d401939df8":[7,0,0,0,1,3,2,1,2,7,6,1],
@@ -51,12 +52,12 @@ var NAVTREEINDEX143 =
 "d4/df7/structAchievementCriteriaDataSet.html#a6abf189d95226b370cfcfe7b628ed7c0":[6,0,114,6],
 "d4/df7/structAchievementCriteriaDataSet.html#a8edbe32d695308633fa7abfc91d2a1a1":[6,0,114,3],
 "d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[6,0,114,4],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[6,0,0,35],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,1,47],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[6,0,0,35,0],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[6,0,0,35],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,1,47,0],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[5,0,1,47,6],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[6,0,0,35,0],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[6,0,0,35,6],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[5,0,1,47,6],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[6,0,0,35,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[5,0,1,47,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[6,0,0,35,1],
@@ -242,12 +243,11 @@ var NAVTREEINDEX143 =
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9":[4,1,19,0,1,2],
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe":[4,1,19,0,1,0],
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b":[4,1,19,0,1,3],
-"d5/d08/structAcore_1_1Encoding_1_1Base32.html":[5,0,1,5,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html":[6,0,0,3,0],
+"d5/d08/structAcore_1_1Encoding_1_1Base32.html":[5,0,1,5,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[5,0,1,5,0,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[6,0,0,3,0,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[5,0,1,5,0,1],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[6,0,0,3,0,1],
-"d5/d08/structboss__bigbadwolf.html":[6,0,410],
-"d5/d08/structboss__bigbadwolf.html#a167083a43e00a60e9c3792cadaf6e80c":[6,0,410,2]
+"d5/d08/structboss__bigbadwolf.html":[6,0,410]
 };

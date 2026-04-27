@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/def/classspell__oculus__shock__lance.html#abb2bf75cc347597b17ed5e4ccd213132":[6,0,3674,0],
 "d2/def/classspell__q5056__summon__shy__rotam.html":[6,0,3917],
 "d2/def/classspell__q5056__summon__shy__rotam.html#a5a14594ed93150e34626a7e0edb8171b":[6,0,3917,1],
 "d2/def/classspell__q5056__summon__shy__rotam.html#a9d28a3b88d57e2f89921d59f56148f74":[6,0,3917,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#ac23ee38f90604810485a3d0adfdf8cf6":[7,0,0,0,1,2,14,1,37],
 "d2/df6/DBCStores_8h.html#ac4516e9785c8d2a553ae77098fb998a6":[7,0,0,0,1,2,14,1,87],
 "d2/df6/DBCStores_8h.html#ac542dfc59634e22e93cc3fb541209d80":[7,0,0,0,1,2,14,1,118],
-"d2/df6/DBCStores_8h.html#ac85312571ff0deab6d303b8907e5b24a":[7,0,0,0,1,2,14,1,10],
-"d2/df6/DBCStores_8h.html#accdbe5db6fa908c53b90259351646f72":[7,0,0,0,1,2,14,1,8]
+"d2/df6/DBCStores_8h.html#ac85312571ff0deab6d303b8907e5b24a":[7,0,0,0,1,2,14,1,10]
 };

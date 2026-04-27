@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d4c/classnpc__locksmith.html#aec977cf39f11a7bc2f13c2bde8e97351":[6,0,1950,1],
 "d4/d4c/classnpc__locksmith.html#af959a6395ebc33109405f18f262e4ecb":[6,0,1950,0],
 "d4/d4c/classnpc__pos__tyrannus__events.html":[6,0,2066],
 "d4/d4c/classnpc__pos__tyrannus__events.html#a9e61db8b2b30e86fc5e554b3f4d51b7c":[6,0,2066,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca287a9ea15b7f6c77548443f528b05273":[7,0,0,0,1,3,2,15,2,8,5],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca28c5564e35dd232c997303e2919b8baf":[7,0,0,0,1,3,2,15,2,8,39],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b56cf1a440ef850b139127a9d7170e4":[7,0,0,0,1,3,2,15,2,8,6],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c88391eaff63795b3b8fb58da0e3bf0":[7,0,0,0,1,3,2,15,2,8,36],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3e4a8471d04910958b63c553f26bbe":[7,0,0,0,1,3,2,15,2,8,9]
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c88391eaff63795b3b8fb58da0e3bf0":[7,0,0,0,1,3,2,15,2,8,36]
 };

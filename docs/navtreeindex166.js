@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,613,0,5],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html":[6,0,1810,0],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#a8dbe0fc5c84f49363254562166c8c0a7":[6,0,1810,0,1],
 "d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#a95c64fbbc97f55e4d0cd0b239939fdc6":[6,0,1810,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d13/structServerPktHeader.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2":[6,0,2556,2],
 "d6/d13/structServerPktHeader.html#a5d5cf573cebe47a10e3f17b840c7a4e1":[6,0,2556,4],
 "d6/d13/structServerPktHeader.html#a75ff3550b7794fed0e69bfc4d1418dee":[6,0,2556,1],
-"d6/d13/structServerPktHeader.html#a761e294fccc02055a46bfc46656da706":[6,0,2556,0],
-"d6/d13/structServerPktHeader.html#adc69128832b16124c284c584e7540b11":[6,0,2556,3]
+"d6/d13/structServerPktHeader.html#a761e294fccc02055a46bfc46656da706":[6,0,2556,0]
 };

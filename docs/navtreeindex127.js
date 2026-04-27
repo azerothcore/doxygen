@@ -1,5 +1,6 @@
 var NAVTREEINDEX127 =
 {
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3e4a8471d04910958b63c553f26bbe":[7,0,0,0,1,3,2,15,2,8,9],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d481e0d8beec6f56f70e3936e313915":[7,0,0,0,1,3,2,15,2,8,40],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca31ff207028ded483fecb264cc3f96d92":[7,0,0,0,1,3,2,15,2,8,12],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca46101fab3980f554f5a5e1229b51f54f":[7,0,0,0,1,3,2,15,2,8,35],
@@ -94,20 +95,20 @@ var NAVTREEINDEX127 =
 "d4/d5a/classspell__player__mount__wyrm.html#a446c71ed3f5fa2ce653148f9567fd199":[6,0,3752,2],
 "d4/d5a/classspell__player__mount__wyrm.html#aac2e8e5e00bf25846f36f920acf98dca":[6,0,3752,0],
 "d4/d5a/classspell__player__mount__wyrm.html#aefda37f79ba45361ad91bd79f4e8a486":[6,0,3752,1],
-"d4/d5a/unionMovement_1_1FacingInfo.html":[6,0,7,2],
 "d4/d5a/unionMovement_1_1FacingInfo.html":[5,0,22,2],
-"d4/d5a/unionMovement_1_1FacingInfo.html#a064b5265b4bb2a0053908bf6031b8f65":[5,0,22,2,5],
+"d4/d5a/unionMovement_1_1FacingInfo.html":[6,0,7,2],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a064b5265b4bb2a0053908bf6031b8f65":[6,0,7,2,5],
+"d4/d5a/unionMovement_1_1FacingInfo.html#a064b5265b4bb2a0053908bf6031b8f65":[5,0,22,2,5],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a1ac825c359704924c66e46eada64e34e":[6,0,7,2,0],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a1ac825c359704924c66e46eada64e34e":[5,0,22,2,0],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a5ff017b732d47684f675041e44227754":[6,0,7,2,8],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a5ff017b732d47684f675041e44227754":[5,0,22,2,8],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a7820b3ce134dcca05b9b15299eb3b33f":[5,0,22,2,1],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a7820b3ce134dcca05b9b15299eb3b33f":[6,0,7,2,1],
-"d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[5,0,22,2,4],
 "d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[6,0,7,2,4],
-"d4/d5a/unionMovement_1_1FacingInfo.html#ac08687158cc0bcfbc9814b1cbbe95684":[6,0,7,2,6],
+"d4/d5a/unionMovement_1_1FacingInfo.html#a811011ef77b57be8ae86de7396f67d51":[5,0,22,2,4],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac08687158cc0bcfbc9814b1cbbe95684":[5,0,22,2,6],
+"d4/d5a/unionMovement_1_1FacingInfo.html#ac08687158cc0bcfbc9814b1cbbe95684":[6,0,7,2,6],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[6,0,7,2,3],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[5,0,22,2,3],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ad7fcfb6b1c5402a0570748d343eadfcc":[5,0,22,2,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d5d/boss__moam_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab2e8552a9b7dc74b7077cf9f99760b59":[7,0,0,0,1,3,4,8,3,3,0],
 "d4/d5d/boss__moam_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae8bf3b82da23fa106541e6c17ffdb5cf":[7,0,0,0,1,3,4,8,3,3,1],
 "d4/d5d/structWardenCheckResult.html":[6,0,4564],
-"d4/d5d/structWardenCheckResult.html#afcac99b5c5e876f3da1a72c1063c465f":[6,0,4564,0],
-"d4/d5d/structlfg_1_1LfgUpdateData.html":[5,0,18,17]
+"d4/d5d/structWardenCheckResult.html#afcac99b5c5e876f3da1a72c1063c465f":[6,0,4564,0]
 };

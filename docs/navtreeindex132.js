@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124abd46819b4fe124339bfea81e0a2f4620":[7,0,0,0,1,3,5,2,1,1,35,2],
 "d4/d81/boss__faction__champions_8cpp.html#a302385a8519fab6c3ff50b3109aa2124ac9227760f053603240a962733b2eab91":[7,0,0,0,1,3,5,2,1,1,35,6],
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32":[7,0,0,0,1,3,5,2,1,1,39],
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32a4d5db6c4d2951ee47008dedabc3866c0":[7,0,0,0,1,3,5,2,1,1,39,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d84/structgo__suppression__device.html#aab10f7c30f4c7fcf89aa295d830da56f":[6,0,1205,1],
 "d4/d84/structgo__suppression__device.html#aaf01b7e3317e4b032e7c202ebfcb9a68":[6,0,1205,2],
 "d4/d84/structgo__suppression__device.html#ae8d3a5e9ca0bd621065bad9b8ee2733b":[6,0,1205,0],
-"d4/d85/classnpc__strangulate__vehicle.html":[6,0,2153],
-"d4/d85/classnpc__strangulate__vehicle.html#a04532bc5902af45b1e9c76cf1cec9add":[6,0,2153,1]
+"d4/d85/classnpc__strangulate__vehicle.html":[6,0,2153]
 };

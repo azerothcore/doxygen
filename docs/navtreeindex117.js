@@ -1,5 +1,6 @@
 var NAVTREEINDEX117 =
 {
+"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a1ed7da6d9af44044eb8e05884bec8079":[7,0,0,0,1,3,3,4,21,7],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a24a1744f51af01de5f1615e65292e2ca":[7,0,0,0,1,3,3,4,21,4],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a275772d35c90114169b061240094ec55":[7,0,0,0,1,3,3,4,21,2],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a346ca1cec6d7ac93f3b1eb32c553583a":[7,0,0,0,1,3,3,4,21,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX117 =
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a3d50f77913f021a1d49e155e62e673d9":[7,0,0,0,1,3,5,6,5,19,20],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a3e4d512abc882f1b8f6ca5f531b1089b":[7,0,0,0,1,3,5,6,5,19,11],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a447402a0a69bfeed5e7c52045cf30082":[7,0,0,0,1,3,5,6,5,19,19],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a47d45d91f361576dd8a3e9b03de7070d":[7,0,0,0,1,3,5,6,5,19,8],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a6130c09a162df8e5f7168264265d27d4":[7,0,0,0,1,3,5,6,5,19,23]
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a47d45d91f361576dd8a3e9b03de7070d":[7,0,0,0,1,3,5,6,5,19,8]
 };

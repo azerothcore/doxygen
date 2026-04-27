@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d03/structAUTH__LOGON__CHALLENGE__C.html#aa7a794d75e11e98aa9f88cb8e82be9e9":[6,0,299,12],
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#aae293343b590c23405a32d2809887020":[6,0,299,10],
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#abe9218ee7ebdffa48dd404a2ad465ca4":[6,0,299,13],
 "d3/d03/structAUTH__LOGON__CHALLENGE__C.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1":[6,0,299,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0a/classspell__necropolis__beam.html":[6,0,3657],
 "d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[6,0,3657,0],
 "d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[6,0,3657,1],
-"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3657,2],
-"d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html":[6,0,4029]
+"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3657,2]
 };

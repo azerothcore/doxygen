@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/db4/classnpc__icc__skybreaker__vicar.html#a40451cc6fba0cae59e47fa38e4fb79d3":[6,0,1892,1],
 "d6/db4/classnpc__icc__skybreaker__vicar.html#a6884bb7e54b78abee0cc995c4fbb501d":[6,0,1892,2],
 "d6/db4/classspell__gen__cooldown__all.html":[6,0,3003],
 "d6/db4/classspell__gen__cooldown__all.html#a16c358062cee300e4c54f046a6c1accf":[6,0,3003,1],
@@ -54,8 +55,8 @@ var NAVTREEINDEX183 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca502e0e7f06a5e11e9054ea76088e29ee":[7,0,0,0,1,3,7,0,2,2,2,2],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,7,0,2,2,2,7],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c3d41eb1b68da0f3943e5df04bfcb5c":[7,0,0,0,1,3,7,0,2,2,2,4],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca96308f272db54ce2795569f4448a713e":[7,0,0,0,1,3,7,0,2,2,2,1],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,7,0,2,2,2,5]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca96308f272db54ce2795569f4448a713e":[7,0,0,0,1,3,7,0,2,2,2,1]
 };

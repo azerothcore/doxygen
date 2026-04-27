@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html#ae4ec90b30320cf0aeaec4415c4125605":[6,0,1952,0,5],
 "d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html#aebdbf8f4c2fe6948c78315e6b404119b":[6,0,1952,0,0],
 "d3/d73/Realm_8cpp.html":[7,0,0,0,1,4,3,0],
 "d3/d73/WorldPacket_8h.html":[7,0,0,0,1,2,39,4],
@@ -246,8 +247,7 @@ var NAVTREEINDEX102 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1]
 };

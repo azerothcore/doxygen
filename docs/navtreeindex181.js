@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/d8c/classspell__sha__item__t6__trinket.html#a3fb6281aa70ce55d4b020e24c747a7f3":[6,0,4037,2],
 "d6/d8c/classspell__sha__item__t6__trinket.html#a8f2bbc26b297039a02a7f1a8ce7d79e3":[6,0,4037,0],
 "d6/d8c/classspell__sha__item__t6__trinket.html#aa55d2774f59d8e8435facba876521236":[6,0,4037,1],
 "d6/d8c/structServerMailCondition.html":[6,0,2551],
@@ -112,16 +113,16 @@ var NAVTREEINDEX181 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1131,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,979,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,979,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,979,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,979,3,8],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,979,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,979,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,979,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,979,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,979,3,0],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,979,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,979,3,12],
-"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,979,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,979,3,5],
+"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,979,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,979,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,979,3,2],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,979,3,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea":[7,0,0,0,1,2,16,6,2,11,2],
 "d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ce":[7,0,0,0,1,2,16,6,2,10],
 "d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ceab009e82a28fb4f233fba32a0d71782ea":[7,0,0,0,1,2,16,6,2,10,2],
-"d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ceabb53c3a4462fa50e5c8ad926465f63bb":[7,0,0,0,1,2,16,6,2,10,0],
-"d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550cead8f157e9e157c6042ec5fa09e17edafb":[7,0,0,0,1,2,16,6,2,10,1]
+"d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ceabb53c3a4462fa50e5c8ad926465f63bb":[7,0,0,0,1,2,16,6,2,10,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX125 =
 {
+"d4/d3a/classSpellCastTargets.html#a6102f7afec8d5e8375d262b8ce471df1":[6,0,4362,50],
 "d4/d3a/classSpellCastTargets.html#a674b006db6a3081a01443bcaf66f52a2":[6,0,4362,8],
 "d4/d3a/classSpellCastTargets.html#a6c2d8069df1fa686494bc552741dab78":[6,0,4362,30],
 "d4/d3a/classSpellCastTargets.html#a6e3b3f076a2f67795bf8ee977d24e0f6":[6,0,4362,53],
@@ -166,8 +167,8 @@ var NAVTREEINDEX125 =
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2971,3],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,12,14,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,34,14,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,14,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,34,14,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,14,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2190,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[6,0,2190,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[6,0,2190,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d":[6,0,1755,0,4],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html#af33898ebd9bea6b1a58b673373de3c64":[6,0,1755,0,3],
 "d4/d4c/classnpc__locksmith.html":[6,0,1950],
-"d4/d4c/classnpc__locksmith.html#a62ec02e226255ff1f81895391a6494b8":[6,0,1950,2],
-"d4/d4c/classnpc__locksmith.html#aec977cf39f11a7bc2f13c2bde8e97351":[6,0,1950,1]
+"d4/d4c/classnpc__locksmith.html#a62ec02e226255ff1f81895391a6494b8":[6,0,1950,2]
 };

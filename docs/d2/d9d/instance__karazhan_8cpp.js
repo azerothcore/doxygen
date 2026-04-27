@@ -6,6 +6,7 @@ var instance__karazhan_8cpp =
     [ "spell_karazhan_overload_aura", "da/dc1/classspell__karazhan__overload__aura.html", "da/dc1/classspell__karazhan__overload__aura" ],
     [ "spell_karazhan_blink", "d3/d7a/classspell__karazhan__blink.html", "d3/d7a/classspell__karazhan__blink" ],
     [ "AddSC_instance_karazhan", "d2/d9d/instance__karazhan_8cpp.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
+    [ "boundaries", "d2/d9d/instance__karazhan_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d2/d9d/instance__karazhan_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d2/d9d/instance__karazhan_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "gameObjectData", "d2/d9d/instance__karazhan_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],

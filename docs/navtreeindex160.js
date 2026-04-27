@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428":[7,0,0,0,1,3,5,1,1,0,10,1],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,1,0,12],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a7129217f8f0a9588a819f2265a47b5":[7,0,0,0,1,3,5,1,1,0,12,4],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,1,1,0,12,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d5/de3/boss__anubrekhan_8cpp.html#a36f4d95de326f7b4132b469869110c12ade276b5b81b86907f260bb442ccf97ed":[7,0,0,0,1,3,5,7,0,1,0],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,0,4],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca7ee0412dfafd5522513ea342f68d55ea":[7,0,0,0,1,3,5,7,0,4,1],
-"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa18a3d2bda4180be891955903884354":[7,0,0,0,1,3,5,7,0,4,3],
-"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad547d87b58896f0fa2a58a0588a37c06":[7,0,0,0,1,3,5,7,0,4,2]
+"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa18a3d2bda4180be891955903884354":[7,0,0,0,1,3,5,7,0,4,3]
 };

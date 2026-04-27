@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d26/classBattlefield.html#a1565e325b3c3e1574eefb1eba9069509":[6,0,322,0],
 "d6/d26/classBattlefield.html#a15b9cad14bbcafe33d90288398b86490":[6,0,322,19],
 "d6/d26/classBattlefield.html#a1605eebf64a203761f5aeba106b2b325":[6,0,322,22],
 "d6/d26/classBattlefield.html#a1a42d4d164ba4c9d01fdf488b18735ae":[6,0,322,2],
@@ -240,14 +241,13 @@ var NAVTREEINDEX169 =
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2980,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,12,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,12,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,12,12,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,12,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,12,12,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,12,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,34,12,0,2],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,12,12,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2437,1],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html#a6c2be4021912b753ed7da07f1c6a7464":[6,0,2437,1,1],
-"d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2437,1,0],
-"d6/d2d/structSpellEffectInfo_1_1StaticData.html":[6,0,4373,0]
+"d6/d2d/structPosition_1_1PositionXYZOStreamer.html#afddf48b02eea5399d818468cdf8795c5":[6,0,2437,1,0]
 };

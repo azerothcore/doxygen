@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,1,3,11,4],
 "d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a6ccb842221cb4a4869f7cff6dd1825":[7,0,0,0,1,3,2,1,3,11,4,0],
 "d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa8d15b3ba7f9959111bc0fa87eafbda0":[7,0,0,0,1,3,2,1,3,11,4,1],
 "d6/d38/molten__core_8cpp.html#ad31dc1d2e5e18b7598a1b8d917a0c538":[7,0,0,0,1,3,2,1,3,11,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d41/classgo__witherbark__totem__bundle.html#affcdff7ec6894add0acec842028efd2e":[6,0,1225,1],
 "d6/d41/structSpellCategoryEntry.html":[6,0,4364],
 "d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[6,0,4364,0],
-"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[6,0,4364,1],
-"d6/d41/structboss__ragnaros.html":[6,0,679]
+"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[6,0,4364,1]
 };

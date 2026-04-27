@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad547d87b58896f0fa2a58a0588a37c06":[7,0,0,0,1,3,5,7,0,4,2],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,0,4,4],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63":[7,0,0,0,1,3,5,7,0,4,0],
 "d5/de3/boss__anubrekhan_8cpp.html#aca213155e8f076d7aaf870a8b79f12f3":[7,0,0,0,1,3,5,7,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d5/def/structChrClassesEntry.html#a7c57eabd8d94849cd8536b013a8d4138":[6,0,888,2],
 "d5/def/structChrClassesEntry.html#a9da8d8d20126e9dc161b1dd64a19fe59":[6,0,888,1],
 "d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html":[6,0,446,0],
-"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html#ab0d0f8a7ec6567e8811d09721f6fa9ed":[6,0,446,0,0],
-"d5/df0/PetitionsHandler_8cpp.html":[7,0,0,0,1,2,22,24]
+"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html#ab0d0f8a7ec6567e8811d09721f6fa9ed":[6,0,446,0,0]
 };

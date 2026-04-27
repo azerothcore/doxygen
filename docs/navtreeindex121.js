@@ -1,5 +1,6 @@
 var NAVTREEINDEX121 =
 {
+"d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html#a3fe9a4f01aebb602095d60eb606ce763":[6,0,2148,0,7],
 "d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html#a93dd55d392836d8d085e34293344b700":[6,0,2148,0,5],
 "d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html#a98560e7fc360dbfa3166805d9ab3feb4":[6,0,2148,0,0],
 "d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html#a9c884f892e64044057d477bdc0f89eed":[6,0,2148,0,2],
@@ -81,8 +82,8 @@ var NAVTREEINDEX121 =
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#ae388ee1b08891f021ab1308ec7ffebaa":[6,0,4357,2],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[6,0,12,3,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[5,0,34,3,0],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[5,0,34,3,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[6,0,12,3,0,0],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[5,0,34,3,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,34,3,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[6,0,12,3,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[5,0,34,3,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX121 =
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caf7ffbf76d24127a68785f01cfb09601f":[7,0,0,0,1,3,5,4,1,3,11,29],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cafb14659f0e6d7ca19f40f35449f982f5":[7,0,0,0,1,3,5,4,1,3,11,4],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cafb6c5dc275198ba7a3f10647442db080":[7,0,0,0,1,3,5,4,1,3,11,50],
-"d4/d1e/halls__of__reflection_8h.html#a71d71556e4e43bbc72dd63881602b048":[7,0,0,0,1,3,5,4,1,3,30],
-"d4/d1e/halls__of__reflection_8h.html#a780f9e55e937224a9e5338267a3cbe14":[7,0,0,0,1,3,5,4,1,3,18]
+"d4/d1e/halls__of__reflection_8h.html#a71d71556e4e43bbc72dd63881602b048":[7,0,0,0,1,3,5,4,1,3,30]
 };

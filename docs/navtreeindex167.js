@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d6/d13/structServerPktHeader.html#adc69128832b16124c284c584e7540b11":[6,0,2556,3],
 "d6/d13/zone__dalaran_8cpp.html":[7,0,0,0,1,3,5,17],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[7,0,0,0,1,3,5,17,24],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62a26852ea5db6655cbfc7033e4de72b535":[7,0,0,0,1,3,5,17,24,0],
@@ -133,10 +134,10 @@ var NAVTREEINDEX167 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3178,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1368,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1368,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,12,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,12,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,12,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,12,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,12,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,12,6,42,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d1a/structTimeTrackerSmall.html":[6,0,4484],
 "d6/d1a/structTimeTrackerSmall.html#a2ebcfabed1bf252b6afb6c3182142c7b":[6,0,4484,1],
 "d6/d1a/structTimeTrackerSmall.html#a332f650bcfc81fb4b0de1b58ff1e0c9b":[6,0,4484,5],
-"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[6,0,4484,0],
-"d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[6,0,4484,4]
+"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[6,0,4484,0]
 };

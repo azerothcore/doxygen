@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/AuthSession_8cpp.html#ab50c6b56b4c56513ab11e4bee50a0116":[7,0,0,0,1,0,0,2,0,9],
 "d3/d1f/AuthSession_8cpp.html#ad153c4ef5e20c186dfe08ed557a4100c":[7,0,0,0,1,0,0,2,0,11],
 "d3/d1f/AuthSession_8cpp.html#aef6ea8864e443cf0d192820bb670a8d8":[7,0,0,0,1,0,0,2,0,12],
 "d3/d1f/AuthSession_8cpp.html#af2b75a713ab063d15c0f303555dab7c2":[7,0,0,0,1,0,0,2,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a4387ef77c341f90758d6c64c4ef2c475":[6,0,346,0,6],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a74fb708546a8612ca52b24b8472b71ef":[6,0,346,0,4],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a84c3fe684033e8744ce6d6bc50526ee7":[6,0,346,0,3],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[6,0,346,0,1],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a9ddcca26fb3f4c635d7bcbb045542885":[6,0,346,0,0]
+"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[6,0,346,0,1]
 };

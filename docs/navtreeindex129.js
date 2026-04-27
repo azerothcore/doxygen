@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a3224437e784177aaff6f9996ccf89838":[7,0,0,0,1,3,7,5,2,2,23,41],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a32624a91a94234a8f0cc8f951315c89c":[7,0,0,0,1,3,7,5,2,2,23,6],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,7,5,2,2,23,51],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a3c584a736b42769054572c933548162f":[7,0,0,0,1,3,7,5,2,2,23,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d6e/structnpc__creature__generator__akama.html#a8c6e3ca67691e7625700f22c5b1c09c5":[6,0,1732,5],
 "d4/d6e/structnpc__creature__generator__akama.html#a8e91cadea7f135ff692635e4d39923e0":[6,0,1732,0],
 "d4/d6e/structnpc__creature__generator__akama.html#af58d7b130ed3b6c209c08ae14444bfe3":[6,0,1732,2],
-"d4/d6f/ChatCommandArgs_8cpp.html":[7,0,0,0,1,2,11,1,2],
-"d4/d6f/ChatCommandArgs_8cpp.html#ad9c9d483b96ed400318aed8441ebe7f1":[7,0,0,0,1,2,11,1,2,5]
+"d4/d6f/ChatCommandArgs_8cpp.html":[7,0,0,0,1,2,11,1,2]
 };

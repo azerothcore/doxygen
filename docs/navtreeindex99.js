@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3582],
 "d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3582,0],
 "d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3582,2],
 "d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3582,1],
@@ -201,10 +202,10 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1059,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1059,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1059,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,9,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,12,9,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3625],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d5b/classspell__warl__seed__of__corruption__generic.html":[6,0,4271],
 "d3/d5b/classspell__warl__seed__of__corruption__generic.html#a135abc0548ba189fcf6bd662d7ae8940":[6,0,4271,2],
 "d3/d5b/classspell__warl__seed__of__corruption__generic.html#a4294ab4682ea26f78eb4c90c59e86953":[6,0,4271,0],
-"d3/d5b/classspell__warl__seed__of__corruption__generic.html#ac10227e6423f61b0fd67803f01fd4a0e":[6,0,4271,3],
-"d3/d5b/classspell__warl__seed__of__corruption__generic.html#ac5d22623791d195aa767d5a28e9639b7":[6,0,4271,1]
+"d3/d5b/classspell__warl__seed__of__corruption__generic.html#ac10227e6423f61b0fd67803f01fd4a0e":[6,0,4271,3]
 };
