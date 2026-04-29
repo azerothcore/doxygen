@@ -1,6 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f":[4,2,15,32],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae4f84dfc27fee4e4426b8f35f010823f":[4,2,15,22],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae5bd48e696a93fdab8960b7a2880dd61":[4,2,15,12],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae7a19f9c62c04561c69306240938c64e":[4,2,15,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX392 =
 "df/d20/instance__blackwing__lair_8cpp.html":[7,0,0,0,1,3,2,1,2,9],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[7,0,0,0,1,3,2,1,2,9,4],
 "df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[7,0,0,0,1,3,2,1,2,9,4,0],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e":[7,0,0,0,1,3,2,1,2,9,4,1]
+"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e":[7,0,0,0,1,3,2,1,2,9,4,1],
+"df/d20/instance__blackwing__lair_8cpp.html#a2c79c628fd8c60d02dc0b2368a70be04":[7,0,0,0,1,3,2,1,2,9,11]
 };

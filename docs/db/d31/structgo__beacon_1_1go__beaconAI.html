@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('db/d31/structgo__beacon_1_1go__beaconA
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/d59/structgo__beacon_1_1go__beaconAI-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">go_beacon::go_beaconAI Struct Reference</div></div>
 </div><!--header-->
@@ -181,10 +181,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ab977b700b90a564eca8d31b56589e2d1 inherit pub_methods_classGameObjectAI" id="r_ab977b700b90a564eca8d31b56589e2d1"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classGameObjectAI.html#ab977b700b90a564eca8d31b56589e2d1">SummonedCreatureEvade</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *)</td></tr>
 <tr class="separator:ab977b700b90a564eca8d31b56589e2d1 inherit pub_methods_classGameObjectAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a8f406b85752e42cc26741aa5a13e69bc" id="r_a8f406b85752e42cc26741aa5a13e69bc"><td class="memItemLeft" align="right" valign="top">std::list&lt; <a class="el" href="../../db/dd5/classCreature.html">Creature</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a></td></tr>
-<tr class="separator:a8f406b85752e42cc26741aa5a13e69bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a083094ececd327c833649da6a755c635" id="r_a083094ececd327c833649da6a755c635"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dc9/ObjectGuid_8h.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a></td></tr>
+<tr class="separator:a083094ececd327c833649da6a755c635"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -216,7 +216,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -261,61 +261,87 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  477</span>        {</div>
-<div class="line"><span class="lineno">  478</span>            <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a>)</div>
-<div class="line"><span class="lineno">  479</span>            {</div>
-<div class="line"><span class="lineno">  480</span>                <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(<a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>, 40, <a class="code hl_enumvalue" href="../../d0/d80/zone__hellfire__peninsula_8cpp.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8">NPC_STONESCHYE_WHELP</a>);</div>
-<div class="line"><span class="lineno">  481</span>                {</div>
-<div class="line"><span class="lineno">  482</span>                    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>)</div>
-<div class="line"><span class="lineno">  483</span>                    {</div>
-<div class="line"><span class="lineno">  484</span>                        <span class="keywordflow">if</span> (whelp &amp;&amp; whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; whelp-&gt;GetMotionMaster()-&gt;GetCurrentMovementGeneratorType() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
-<div class="line"><span class="lineno">  485</span>                            whelp-&gt;GetMotionMaster()-&gt;MovePoint(0, <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7342565b6b6b21ba611870ba1879ceec">GetNearPosition</a>(4.0f, whelp-&gt;GetOrientation()));</div>
-<div class="line"><span class="lineno">  486</span>                    }</div>
-<div class="line"><span class="lineno">  487</span>                }</div>
-<div class="line"><span class="lineno">  488</span>            }</div>
-<div class="line"><span class="lineno">  489</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>)</div>
-<div class="line"><span class="lineno">  490</span>            {</div>
-<div class="line"><span class="lineno">  491</span>                {</div>
-<div class="line"><span class="lineno">  492</span>                    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>)</div>
-<div class="line"><span class="lineno">  493</span>                    {</div>
-<div class="line"><span class="lineno">  494</span>                        <span class="keywordflow">if</span> (whelp &amp;&amp; whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; whelp-&gt;GetMotionMaster()-&gt;GetCurrentMovementGeneratorType() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
-<div class="line"><span class="lineno">  495</span>                            whelp-&gt;GetMotionMaster()-&gt;MoveTargetedHome();</div>
-<div class="line"><span class="lineno">  496</span>                    }</div>
-<div class="line"><span class="lineno">  497</span>                }</div>
-<div class="line"><span class="lineno">  498</span>            }</div>
-<div class="line"><span class="lineno">  499</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  500</span>            {</div>
-<div class="line"><span class="lineno">  501</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">creatureList</a>.clear();</div>
-<div class="line"><span class="lineno">  502</span>            }</div>
-<div class="line"><span class="lineno">  503</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  475</span>        {</div>
+<div class="line"><span class="lineno">  476</span>            <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a>)</div>
+<div class="line"><span class="lineno">  477</span>            {</div>
+<div class="line"><span class="lineno">  478</span>                std::list&lt;Creature*&gt; creatureList;</div>
+<div class="line"><span class="lineno">  479</span> </div>
+<div class="line"><span class="lineno">  480</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a>.clear();</div>
+<div class="line"><span class="lineno">  481</span>                <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(creatureList, 40, <a class="code hl_enumvalue" href="../../d0/d80/zone__hellfire__peninsula_8cpp.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8">NPC_STONESCHYE_WHELP</a>);</div>
+<div class="line"><span class="lineno">  482</span> </div>
+<div class="line"><span class="lineno">  483</span>                <span class="keywordflow">for</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp : creatureList)</div>
+<div class="line"><span class="lineno">  484</span>                {</div>
+<div class="line"><span class="lineno">  485</span>                    <span class="keywordflow">if</span> (!whelp)</div>
+<div class="line"><span class="lineno">  486</span>                        <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  487</span> </div>
+<div class="line"><span class="lineno">  488</span>                    <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a>.push_back(whelp-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">  489</span> </div>
+<div class="line"><span class="lineno">  490</span>                    <a class="code hl_class" href="../../de/d3b/classMotionMaster.html">MotionMaster</a>* motionMaster = whelp-&gt;GetMotionMaster();</div>
+<div class="line"><span class="lineno">  491</span>                    <span class="keywordflow">if</span> (whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; motionMaster &amp;&amp; motionMaster-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">GetCurrentMovementGeneratorType</a>() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
+<div class="line"><span class="lineno">  492</span>                        motionMaster-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920">MovePoint</a>(0, <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7342565b6b6b21ba611870ba1879ceec">GetNearPosition</a>(4.0f, whelp-&gt;GetOrientation()));</div>
+<div class="line"><span class="lineno">  493</span>                }</div>
+<div class="line"><span class="lineno">  494</span>            }</div>
+<div class="line"><span class="lineno">  495</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>)</div>
+<div class="line"><span class="lineno">  496</span>            {</div>
+<div class="line"><span class="lineno">  497</span>                <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a>)</div>
+<div class="line"><span class="lineno">  498</span>                {</div>
+<div class="line"><span class="lineno">  499</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* whelp = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, guid))</div>
+<div class="line"><span class="lineno">  500</span>                    {</div>
+<div class="line"><span class="lineno">  501</span>                        <a class="code hl_class" href="../../de/d3b/classMotionMaster.html">MotionMaster</a>* motionMaster = whelp-&gt;GetMotionMaster();</div>
+<div class="line"><span class="lineno">  502</span>                        <span class="keywordflow">if</span> (whelp-&gt;IsAlive() &amp;&amp; !whelp-&gt;IsInCombat() &amp;&amp; motionMaster &amp;&amp; motionMaster-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">GetCurrentMovementGeneratorType</a>() != <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a>)</div>
+<div class="line"><span class="lineno">  503</span>                            motionMaster-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a18d407b55cfb990e2bb51f4efb63c6bd">MoveTargetedHome</a>();</div>
+<div class="line"><span class="lineno">  504</span>                    }</div>
+<div class="line"><span class="lineno">  505</span>                }</div>
+<div class="line"><span class="lineno">  506</span> </div>
+<div class="line"><span class="lineno">  507</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a>.clear();</div>
+<div class="line"><span class="lineno">  508</span>            }</div>
+<div class="line"><span class="lineno">  509</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  510</span>            {</div>
+<div class="line"><span class="lineno">  511</span>                <a class="code hl_variable" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">_whelpGUIDs</a>.clear();</div>
+<div class="line"><span class="lineno">  512</span>            }</div>
+<div class="line"><span class="lineno">  513</span>        }</div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a></div><div class="ttdeci">@ GO_ACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:112</div></div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a></div><div class="ttdeci">@ GO_JUST_DEACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:113</div></div>
 <div class="ttc" id="aMotionMaster_8h_html_a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426">HOME_MOTION_TYPE</a></div><div class="ttdeci">@ HOME_MOTION_TYPE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:46</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassGameObjectAI_html_a22a51a980875ccae8a285d7804967747"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">GameObjectAI::me</a></div><div class="ttdeci">GameObject *const me</div><div class="ttdef"><b>Definition</b> GameObjectAI.h:35</div></div>
+<div class="ttc" id="aclassMotionMaster_html"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html">MotionMaster</a></div><div class="ttdef"><b>Definition</b> MotionMaster.h:138</div></div>
+<div class="ttc" id="aclassMotionMaster_html_a18d407b55cfb990e2bb51f4efb63c6bd"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a18d407b55cfb990e2bb51f4efb63c6bd">MotionMaster::MoveTargetedHome</a></div><div class="ttdeci">void MoveTargetedHome(bool walk=false)</div><div class="ttdoc">The unit will return this initial position (owner for pets and summoned creatures)....</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:261</div></div>
+<div class="ttc" id="aclassMotionMaster_html_a41e9fbf11fd1a17752bf68a4a14cc8e5"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">MotionMaster::GetCurrentMovementGeneratorType</a></div><div class="ttdeci">MovementGeneratorType GetCurrentMovementGeneratorType() const</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:961</div></div>
+<div class="ttc" id="aclassMotionMaster_html_afc9ce801b909ecbe54867f6f643b5920"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:240</div></div>
+<div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
 <div class="ttc" id="aclassWorldObject_html_a7342565b6b6b21ba611870ba1879ceec"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7342565b6b6b21ba611870ba1879ceec">WorldObject::GetNearPosition</a></div><div class="ttdeci">Position GetNearPosition(float dist, float angle)</div><div class="ttdef"><b>Definition</b> Object.cpp:2794</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa95da5ea65fa0d7f7cd74c11b70b1ed2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">WorldObject::GetCreaturesWithEntryInRange</a></div><div class="ttdeci">void GetCreaturesWithEntryInRange(std::list&lt; Creature * &gt; &amp;creatureList, float radius, uint32 entry)</div><div class="ttdef"><b>Definition</b> Object.cpp:3060</div></div>
-<div class="ttc" id="astructgo__beacon_1_1go__beaconAI_html_a8f406b85752e42cc26741aa5a13e69bc"><div class="ttname"><a href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a8f406b85752e42cc26741aa5a13e69bc">go_beacon::go_beaconAI::creatureList</a></div><div class="ttdeci">std::list&lt; Creature * &gt; creatureList</div><div class="ttdef"><b>Definition</b> zone_hellfire_peninsula.cpp:474</div></div>
+<div class="ttc" id="anamespaceObjectAccessor_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
+<div class="ttc" id="astructgo__beacon_1_1go__beaconAI_html_a083094ececd327c833649da6a755c635"><div class="ttname"><a href="../../db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635">go_beacon::go_beaconAI::_whelpGUIDs</a></div><div class="ttdeci">GuidList _whelpGUIDs</div><div class="ttdef"><b>Definition</b> zone_hellfire_peninsula.cpp:516</div></div>
 <div class="ttc" id="azone__hellfire__peninsula_8cpp_html_aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8"><div class="ttname"><a href="../../d0/d80/zone__hellfire__peninsula_8cpp.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8">NPC_STONESCHYE_WHELP</a></div><div class="ttdeci">@ NPC_STONESCHYE_WHELP</div><div class="ttdef"><b>Definition</b> zone_hellfire_peninsula.cpp:462</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00474">creatureList</a>, <a class="el" href="../../#l03060">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l02794">WorldObject::GetNearPosition()</a>, <a class="el" href="../../#l00112">GO_ACTIVATED</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00046">HOME_MOTION_TYPE</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, and <a class="el" href="../../#l00462">NPC_STONESCHYE_WHELP</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00516">_whelpGUIDs</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l03060">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00961">MotionMaster::GetCurrentMovementGeneratorType()</a>, <a class="el" href="../../#l02794">WorldObject::GetNearPosition()</a>, <a class="el" href="../../#l00112">GO_ACTIVATED</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00046">HOME_MOTION_TYPE</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00240">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00261">MotionMaster::MoveTargetedHome()</a>, and <a class="el" href="../../#l00462">NPC_STONESCHYE_WHELP</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a8f406b85752e42cc26741aa5a13e69bc" name="a8f406b85752e42cc26741aa5a13e69bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f406b85752e42cc26741aa5a13e69bc">&#9670;&#160;</a></span>creatureList</h2>
+<a id="a083094ececd327c833649da6a755c635" name="a083094ececd327c833649da6a755c635"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a083094ececd327c833649da6a755c635">&#9670;&#160;</a></span>_whelpGUIDs</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::list&lt;<a class="el" href="../../db/dd5/classCreature.html">Creature</a>*&gt; go_beacon::go_beaconAI::creatureList</td>
+          <td class="memname"><a class="el" href="../../dc/dc9/ObjectGuid_8h.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a> go_beacon::go_beaconAI::_whelpGUIDs</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00476">OnStateChanged()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00474">OnStateChanged()</a>.</p>
 
 </div>
 </div>
@@ -328,7 +354,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d45/classgo__beacon.html">go_beacon</a></li><li class="navelem"><a class="el" href="../../db/d31/structgo__beacon_1_1go__beaconAI.html">go_beaconAI</a></li>
-    <li class="footer">Generated on Tue Apr 28 2026 08:17:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Apr 29 2026 08:10:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

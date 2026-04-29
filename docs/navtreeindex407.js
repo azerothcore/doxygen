@@ -1,6 +1,5 @@
 var NAVTREEINDEX407 =
 {
-"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[6,0,483,16],
 "df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[6,0,483,22],
 "df/dbb/structboss__flame__leviathan.html#ac84312fff12d10097d4364dc0dac8207":[6,0,483,11],
 "df/dbb/structboss__flame__leviathan.html#acf26fcd0d918ae113d1ff5e4358cfc1c":[6,0,483,18],
@@ -249,5 +248,6 @@ var NAVTREEINDEX407 =
 "df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[6,0,4035,1],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[6,0,1639,0],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[6,0,1639,0,3],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1639,0,8]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1639,0,8],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[6,0,1639,0,4]
 };

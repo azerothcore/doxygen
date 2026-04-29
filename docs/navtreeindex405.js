@@ -1,6 +1,5 @@
 var NAVTREEINDEX405 =
 {
-"df/da7/classBattleground.html#a3cf144c23cb91a7b7da6c94c47da60de":[6,0,326,225],
 "df/da7/classBattleground.html#a3d7ecd40b66cb331a19a40813406086a":[6,0,326,124],
 "df/da7/classBattleground.html#a3e7c5522e47f34a28113da603895112d":[6,0,326,89],
 "df/da7/classBattleground.html#a3eff4dfc9b7319b449ffa723c74217b7":[6,0,326,62],
@@ -249,5 +248,6 @@ var NAVTREEINDEX405 =
 "df/daa/classspell__doomfire.html":[6,0,2831],
 "df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[6,0,2831,3],
 "df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[6,0,2831,2],
-"df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[6,0,2831,1]
+"df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[6,0,2831,1],
+"df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[6,0,2831,0]
 };

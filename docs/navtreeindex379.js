@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"de/d87/structSpawnAssociation.html":[6,0,2594],
 "de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2594,1],
 "de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[6,0,2594,0],
 "de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[6,0,2594,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4480,26],
 "de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4480,5],
 "de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4480,12],
-"de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4480,10]
+"de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4480,10],
+"de/d95/classTicketMgr.html#ab89b490da7ddfd888b36f4ec0beced36":[6,0,4480,13]
 };

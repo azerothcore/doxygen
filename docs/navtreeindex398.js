@@ -1,6 +1,5 @@
 var NAVTREEINDEX398 =
 {
-"df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[6,0,1500,9],
 "df/d52/structmap__fileheader.html#a3c3cc1895a47dc69265f4b58166c3f6b":[6,0,1500,6],
 "df/d52/structmap__fileheader.html#a5aa18af3a8e029e8842ddf72fc5d5267":[6,0,1500,8],
 "df/d52/structmap__fileheader.html#a70f82337112bb8cbff0b3344666885a1":[6,0,1500,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX398 =
 "df/d5e/structAuctionHouseSearchInfo.html#a521224ce63856745ed64c39f6cbdddc4":[6,0,272,1],
 "df/d5e/structAuctionHouseSearchInfo.html#a6f2e07af2aafb8eb53d845acd7f5ad71":[6,0,272,8],
 "df/d5e/structAuctionHouseSearchInfo.html#a736642258b38fa05f04df4f4ac9069db":[6,0,272,0],
-"df/d5e/structAuctionHouseSearchInfo.html#a902d715d89a5ca66072393ccefbb1ead":[6,0,272,4]
+"df/d5e/structAuctionHouseSearchInfo.html#a902d715d89a5ca66072393ccefbb1ead":[6,0,272,4],
+"df/d5e/structAuctionHouseSearchInfo.html#a97bc36937a55f3e9a88dabf9a4e4f0b5":[6,0,272,2]
 };

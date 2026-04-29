@@ -1,6 +1,5 @@
 var NAVTREEINDEX416 =
 {
-"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[7,0,0,0,1,3,5,8,2,0,5,3],
 "df/df8/CombatHandler_8cpp.html":[7,0,0,0,1,2,22,11],
 "df/df8/classspell__mage__empowered__fire.html":[6,0,3560],
 "df/df8/classspell__mage__empowered__fire.html#a5c417d0c4e46ebd2356f2d78ba5eee14":[6,0,3560,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX416 =
 "dir_c0da28c740234fa28d1fcf99be699b09.html":[7,0,0,0,1,2,13],
 "dir_c22643033d4d5dfd5506f8ab7d5a4197.html":[7,0,0,0,1,3,5,4,0],
 "dir_c55db428bdbf28a6b4d3b113733cf911.html":[7,0,0,0,0,3],
-"dir_c606529abee686f44b65a2777767c446.html":[7,0,0,0,1,3]
+"dir_c606529abee686f44b65a2777767c446.html":[7,0,0,0,1,3],
+"dir_c6385164885fcc1084c3c73758de0380.html":[7,0,0,0,1,2,19,0]
 };

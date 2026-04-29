@@ -1,6 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,1],
 "dd/ddf/structboss__fathomguard__caribdis.html":[6,0,474],
 "dd/ddf/structboss__fathomguard__caribdis.html#a08b01e9735e421d8d5bbc2b552217762":[6,0,474,8],
 "dd/ddf/structboss__fathomguard__caribdis.html#a0d2a3403d5934e86a897b3417ed2214a":[6,0,474,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX350 =
 "dd/ded/structboss__twin__valkyrAI.html#a4101d2174de103be7154875beaafa65d":[6,0,764,12],
 "dd/ded/structboss__twin__valkyrAI.html#a624969393687e10c2f8fca72d9394265":[6,0,764,2],
 "dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a":[6,0,764,15],
-"dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,764,7]
+"dd/ded/structboss__twin__valkyrAI.html#a6b08f13c0213acf91b72b6341896406e":[6,0,764,7],
+"dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,764,8]
 };

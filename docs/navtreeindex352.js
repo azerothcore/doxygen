@@ -1,6 +1,5 @@
 var NAVTREEINDEX352 =
 {
-"dd/dfd/classspell__gen__set__health.html":[6,0,3092],
 "dd/dfd/classspell__gen__set__health.html#a27b25fbbdd912505738728414b79380c":[6,0,3092,2],
 "dd/dfd/classspell__gen__set__health.html#a3f63c080d2a74def0920cceaea18e1e2":[6,0,3092,0],
 "dd/dfd/classspell__gen__set__health.html#a438c4c1763688210384b24305aeebe52":[6,0,3092,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX352 =
 "de/d07/classHealInfoStub.html#a94cd95b537e2510047da23a7f9176aa6":[6,0,1279,18],
 "de/d07/classHealInfoStub.html#aa19e94b9523f803f2af09fb77382f3c2":[6,0,1279,4],
 "de/d07/classHealInfoStub.html#aab54619f78456698c646d83ac448e1e2":[6,0,1279,15],
-"de/d07/classHealInfoStub.html#aae8cd0f206d4dbd78b56838cdb49dad6":[6,0,1279,3]
+"de/d07/classHealInfoStub.html#aae8cd0f206d4dbd78b56838cdb49dad6":[6,0,1279,3],
+"de/d07/classHealInfoStub.html#abc0ad944af22920bc105b1b4c71ad467":[6,0,1279,5]
 };

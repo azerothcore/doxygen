@@ -1,6 +1,5 @@
 var NAVTREEINDEX313 =
 {
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5cac1f3999518124ad86c06af3678061d08":[7,0,0,0,1,3,5,9,2,9,29,1],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2":[7,0,0,0,1,3,5,9,2,9,28],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a01f0081cbea792a36fdff51ee28396c1":[7,0,0,0,1,3,5,9,2,9,28,10],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a05adf22be5206d06dea7f5e3c6339d7c":[7,0,0,0,1,3,5,9,2,9,28,17],
@@ -99,8 +98,8 @@ var NAVTREEINDEX313 =
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[6,0,12,11,2,1],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[6,0,12,11,2,3],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[6,0,12,11,2,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,3000],
@@ -249,5 +248,6 @@ var NAVTREEINDEX313 =
 "dc/d2b/structVehicleEntry.html#abb5eaa7a8ece7f110e11e8632d9739c8":[6,0,4549,13],
 "dc/d2b/structVehicleEntry.html#ac19f92c418d1bff7734201be0505adeb":[6,0,4549,22],
 "dc/d2b/structVehicleEntry.html#ac7babc51469d8508f5d7c5423e289eaa":[6,0,4549,16],
-"dc/d2b/structVehicleEntry.html#acd1f17fc6e7a29aa71bcf862c99fdd72":[6,0,4549,7]
+"dc/d2b/structVehicleEntry.html#acd1f17fc6e7a29aa71bcf862c99fdd72":[6,0,4549,7],
+"dc/d2b/structVehicleEntry.html#acf4c7490eae64650fcae3fba3b52079c":[6,0,4549,5]
 };

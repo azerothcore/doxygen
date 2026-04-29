@@ -1,6 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[5,0,21,1,10],
 "de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[6,0,6,1,10],
 "de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[5,0,21,1,3],
 "de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[6,0,6,1,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX378 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[7,0,0,0,1,3,2,4,5,4,0],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
 "de/d87/classWaypointMovementGenerator.html":[6,0,4577],
-"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1]
+"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
+"de/d87/structSpawnAssociation.html":[6,0,2594]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX351 =
 {
-"dd/ded/structboss__twin__valkyrAI.html#a6b6706c12a0abbc36a022eb3af1925ec":[6,0,764,8],
 "dd/ded/structboss__twin__valkyrAI.html#a8a488e8d0acab2737c0503ce89fd3d2a":[6,0,764,9],
 "dd/ded/structboss__twin__valkyrAI.html#a8ca507c7a288a5cb9a8160129820e4e0":[6,0,764,16],
 "dd/ded/structboss__twin__valkyrAI.html#aa66ac25aa73c505df972cf95dca85a71":[6,0,764,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX351 =
 "dd/dfd/classGridCell.html#a9a81bdbf151463b4687227df0fa39ece":[6,0,1238,1],
 "dd/dfd/classGridCell.html#aa0c4e5dac57c41d8fce303fb943585a0":[6,0,1238,4],
 "dd/dfd/classGridCell.html#ab64f99dd9997ff6df1f1db25a8d95d19":[6,0,1238,2],
-"dd/dfd/classGridCell.html#ac5a741aebc11124aa228e5107e664335":[6,0,1238,7]
+"dd/dfd/classGridCell.html#ac5a741aebc11124aa228e5107e664335":[6,0,1238,7],
+"dd/dfd/classspell__gen__set__health.html":[6,0,3092]
 };

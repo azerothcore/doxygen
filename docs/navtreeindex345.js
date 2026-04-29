@@ -1,6 +1,5 @@
 var NAVTREEINDEX345 =
 {
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2119,0,2],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2119,0,9],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,17,0],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX345 =
 "dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,639,5],
 "dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,639,4],
 "dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,639,6],
-"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,639,10]
+"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,639,10],
+"dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[6,0,639,1]
 };

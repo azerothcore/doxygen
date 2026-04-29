@@ -1,6 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"dd/dd4/classBattlegroundEY.html#adb29266557aa6023f590573b8576572c":[6,0,334,3],
 "dd/dd4/classBattlegroundEY.html#adf9eae0c87ba76ba271a6d31f191b3ff":[6,0,334,33],
 "dd/dd4/classBattlegroundEY.html#af433aaf1b91cecd69b734dde6886190b":[6,0,334,7],
 "dd/dd4/structboss__midnight.html":[6,0,632],
@@ -249,5 +248,6 @@ var NAVTREEINDEX349 =
 "dd/ddc/structboss__illidari__council.html#a7dd21784b8f9a0eac17d56215c24028e":[6,0,560,4],
 "dd/ddc/structboss__illidari__council.html#a8b30df956aa4ce1727756f1d19e151be":[6,0,560,6],
 "dd/ddc/structboss__illidari__council.html#af8e88c307efaba392cc2a1d2f3862078":[6,0,560,2],
-"dd/dde/classHomeMovementGenerator.html":[6,0,1289]
+"dd/dde/classHomeMovementGenerator.html":[6,0,1289],
+"dd/ddf/WaypointMgr_8cpp.html":[7,0,0,0,1,2,31,2,1]
 };

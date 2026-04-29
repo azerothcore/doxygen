@@ -1,6 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1988,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1988,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1988,0,5],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html":[5,0,34,7,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX376 =
 "de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246":[5,0,18,55,1],
 "de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2":[5,0,18,55,3],
 "de/d72/namespacelfg.html#ad2856c4b4e624c3f15d89ccae35370c9":[5,0,18,32],
-"de/d72/namespacelfg.html#adac5e1437b49269ef8924ba9881272d5":[5,0,18,39]
+"de/d72/namespacelfg.html#adac5e1437b49269ef8924ba9881272d5":[5,0,18,39],
+"de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b":[5,0,18,65]
 };

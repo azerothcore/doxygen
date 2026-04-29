@@ -1,6 +1,5 @@
 var NAVTREEINDEX353 =
 {
-"de/d07/classHealInfoStub.html#abc0ad944af22920bc105b1b4c71ad467":[6,0,1279,5],
 "de/d07/classHealInfoStub.html#ac110638d1729fae0ba6594d7f092d4b0":[6,0,1279,6],
 "de/d07/classHealInfoStub.html#ad8c263f50edf324a72ca366f6caf4377":[6,0,1279,10],
 "de/d07/classHealInfoStub.html#ae011c5a0f72cd5581e661793c3ac2fdc":[6,0,1279,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX353 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aff5e221cc1bb3be9bad3e357d77e1f14":[7,0,0,0,1,4,7,63,57],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574affba159553fc8a1fab77bb32cd227f8c":[7,0,0,0,1,4,7,63,117],
 "de/d0a/SharedDefines_8h.html#a0f8923f02eb7dfba43a426b8320354da":[7,0,0,0,1,4,7,25],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7":[7,0,0,0,1,4,7,53]
+"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7":[7,0,0,0,1,4,7,53],
+"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a021661eb47d13dfad7806bf852e430d0":[7,0,0,0,1,4,7,53,11]
 };

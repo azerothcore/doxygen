@@ -1,6 +1,5 @@
 var NAVTREEINDEX374 =
 {
-"de/d4f/structboss__razorgore.html":[6,0,681],
 "de/d4f/structboss__razorgore.html#a12d65de9cb7d7a1832fbfc97a282a3ef":[6,0,681,4],
 "de/d4f/structboss__razorgore.html#a3320568d7cca02b452e12d15f9f7a5c3":[6,0,681,12],
 "de/d4f/structboss__razorgore.html#a394cab33de1aa498e9e36c58a9ce8bbf":[6,0,681,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX374 =
 "de/d5e/classGridTerrainData.html#a07d7e85ff8386eaad8c9d1d32414e3b9":[6,0,1245,9],
 "de/d5e/classGridTerrainData.html#a1269f47abd6faf5304494c85628bb961":[6,0,1245,4],
 "de/d5e/classGridTerrainData.html#a1cf2965cea22f5a98ad2d737e372ac18":[6,0,1245,1],
-"de/d5e/classGridTerrainData.html#a2425f13f62b37931192acdc02127c243":[6,0,1245,18]
+"de/d5e/classGridTerrainData.html#a2425f13f62b37931192acdc02127c243":[6,0,1245,18],
+"de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[6,0,1245,14]
 };

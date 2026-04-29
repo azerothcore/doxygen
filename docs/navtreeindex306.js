@@ -1,6 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"db/deb/classspell__bronjahm__soulstorm__channel__ooc__aura.html#ae9602bc623422c124dfc37a18c0dbfec":[6,0,2711,2],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html":[6,0,3532],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a246c20ab26d1490fe38afd558a7ae406":[6,0,3532,2],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#a3893fffea480b47d06c4903deb051aa9":[6,0,3532,0],
@@ -159,12 +158,12 @@ var NAVTREEINDEX306 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3269],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3269,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3269,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX306 =
 "db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1230,2],
 "db/df2/structGossipMenuItems.html#a2606ac76a4f3607e45676ed3f1df3a83":[6,0,1230,12],
 "db/df2/structGossipMenuItems.html#a486f9af68a02ae52d51772a3421db377":[6,0,1230,0],
-"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1230,3]
+"db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd":[6,0,1230,3],
+"db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[6,0,1230,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/db1/classRaceMgr.html#ab783bff98d389f35ef89f45327cec299":[6,0,2488,3],
 "de/db1/classRaceMgr.html#ac54cc09b38129b4d7cfc02767c8ba41e":[6,0,2488,6],
 "de/db1/classRaceMgr.html#af5b87bbc81180f92f18424dfb0181569":[6,0,2488,11],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html":[6,0,1751],
@@ -249,5 +248,6 @@ var NAVTREEINDEX385 =
 "de/dc1/classadt__MCNK.html#a366ff682b6b5a45f8afcddc1ea9a10db":[6,0,138,18],
 "de/dc1/classadt__MCNK.html#a3da25e5f560ee821026232fbaf52ba14":[6,0,138,37],
 "de/dc1/classadt__MCNK.html#a4d32d8ebbe4efdfccf554bcdbb11553d":[6,0,138,5],
-"de/dc1/classadt__MCNK.html#a539003b02d05edce481174559d0b4256":[6,0,138,11]
+"de/dc1/classadt__MCNK.html#a539003b02d05edce481174559d0b4256":[6,0,138,11],
+"de/dc1/classadt__MCNK.html#a575a0027fe15f5e4330f74163395915e":[6,0,138,12]
 };
