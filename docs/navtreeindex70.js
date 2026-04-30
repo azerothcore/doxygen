@@ -1,5 +1,9 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a3c94bdb6a74b968ac5d9625a9d7bc6b9":[7,0,0,0,1,3,10,3,28,0],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a529a83b6506bc0567da3876e73b811e6":[7,0,0,0,1,3,10,3,28,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762":[7,0,0,0,1,3,10,3,25],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a06418808c696e688f006dcf08820b8f9":[7,0,0,0,1,3,10,3,25,4],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a363c3e7f7bb9a12d4924a79c97581a56":[7,0,0,0,1,3,10,3,25,2],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,10,3,25,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a64ee4ae15b5c511fe3b002bd8ab2fc10":[7,0,0,0,1,3,10,3,25,3],
@@ -209,10 +213,10 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[6,0,3372,0],
 "d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[6,0,3372,1],
 "d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[6,0,3372,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4323],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4323,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4323,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4323,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4324],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4324,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4324,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4324,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[6,0,2305,2],
 "d2/d98/structboss__kiljaeden.html":[6,0,586],
 "d2/d98/structboss__kiljaeden.html#a220cf460466c44a82ce3933d2c5f27f8":[6,0,586,10],
-"d2/d98/structboss__kiljaeden.html#a345f52703c9d72be2a67ff46ac1a0472":[6,0,586,12],
-"d2/d98/structboss__kiljaeden.html#a3b983a903618b5bfebf7b45819207fde":[6,0,586,9],
-"d2/d98/structboss__kiljaeden.html#a53f78e51932d98886fadd9422adf96ce":[6,0,586,3],
-"d2/d98/structboss__kiljaeden.html#a573b32098eac346f3f9485eb46792b1b":[6,0,586,0],
-"d2/d98/structboss__kiljaeden.html#a6878b5b88a45f1a5d70d866e9850041d":[6,0,586,14]
+"d2/d98/structboss__kiljaeden.html#a345f52703c9d72be2a67ff46ac1a0472":[6,0,586,12]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX186 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca868eb475c676fb5a19abb03641510179":[7,0,0,0,1,3,5,10,1,1,17,1],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d8768834231859b040e1da29509eec8":[7,0,0,0,1,3,5,10,1,1,17,18],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca8df3cb823481152d8c01063608b461b6":[7,0,0,0,1,3,5,10,1,1,17,4],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca95658e73df504c348814e76302d5759e":[7,0,0,0,1,3,5,10,1,1,17,7],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cac476c191c89520480d37888c635522d7":[7,0,0,0,1,3,5,10,1,1,17,19],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cad1a81bdbda2fdfb7905ff28e92fbf3fc":[7,0,0,0,1,3,5,10,1,1,17,10],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298cae20e0b8a725c9854dd5fe568e12c71b9":[7,0,0,0,1,3,5,10,1,1,17,16],
@@ -225,14 +229,14 @@ var NAVTREEINDEX186 =
 "d6/de7/classspell__gen__count__pct__from__max__hp.html#a6f03ccb77ce43c4e36996ae344780ee3":[6,0,3004,1],
 "d6/de7/classspell__gen__count__pct__from__max__hp.html#aad8061898087fbf5eb6527cbaa70927d":[6,0,3004,0],
 "d6/de7/classspell__gen__count__pct__from__max__hp.html#abc7e406244a1a5ea9d7c3d8feb10b8ae":[6,0,3004,2],
-"d6/de7/classspell__pri__mana__leech.html":[6,0,3776],
-"d6/de7/classspell__pri__mana__leech.html#a4cb08499767ab58f0e525c382b662fbd":[6,0,3776,4],
-"d6/de7/classspell__pri__mana__leech.html#a7b9426e18b454bf631992518c2bdbde0":[6,0,3776,6],
-"d6/de7/classspell__pri__mana__leech.html#a82218c6f6319c60c26a7d4ec01b64bf9":[6,0,3776,1],
-"d6/de7/classspell__pri__mana__leech.html#aa6165f28706d49940dd1f62065631119":[6,0,3776,5],
-"d6/de7/classspell__pri__mana__leech.html#ab8f483be4d01aa2460c90b043d7a441b":[6,0,3776,3],
-"d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[6,0,3776,2],
-"d6/de7/classspell__pri__mana__leech.html#adce0da60782bcdadbb42ec1c73fddec1":[6,0,3776,0],
+"d6/de7/classspell__pri__mana__leech.html":[6,0,3777],
+"d6/de7/classspell__pri__mana__leech.html#a4cb08499767ab58f0e525c382b662fbd":[6,0,3777,4],
+"d6/de7/classspell__pri__mana__leech.html#a7b9426e18b454bf631992518c2bdbde0":[6,0,3777,6],
+"d6/de7/classspell__pri__mana__leech.html#a82218c6f6319c60c26a7d4ec01b64bf9":[6,0,3777,1],
+"d6/de7/classspell__pri__mana__leech.html#aa6165f28706d49940dd1f62065631119":[6,0,3777,5],
+"d6/de7/classspell__pri__mana__leech.html#ab8f483be4d01aa2460c90b043d7a441b":[6,0,3777,3],
+"d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[6,0,3777,2],
+"d6/de7/classspell__pri__mana__leech.html#adce0da60782bcdadbb42ec1c73fddec1":[6,0,3777,0],
 "d6/de9/boss__felmyst_8cpp.html":[7,0,0,0,1,3,2,12,2],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,12,2,8],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a06e40e13c3be8d3efb6a355b7b975287":[7,0,0,0,1,3,2,12,2,8,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX186 =
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9":[7,0,0,0,1,3,2,12,2,8,0],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a729cac5321d343dd985df52ceeddf35b":[7,0,0,0,1,3,2,12,2,8,7],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a748a2f6dc45352eb37327da0aaedc0a2":[7,0,0,0,1,3,2,12,2,8,8],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af":[7,0,0,0,1,3,2,12,2,8,14],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e83c596817726cf2ebf4e2c63ed89d1":[7,0,0,0,1,3,2,12,2,8,9],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587":[7,0,0,0,1,3,2,12,2,8,11],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abbedbfba7b17057e4023a239034e5a2d":[7,0,0,0,1,3,2,12,2,8,13],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abc690822dc5cb57b3e326158004335c1":[7,0,0,0,1,3,2,12,2,8,12]
+"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af":[7,0,0,0,1,3,2,12,2,8,14]
 };

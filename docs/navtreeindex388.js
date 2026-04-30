@@ -1,5 +1,9 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/classnpc__tesla.html":[6,0,2171],
+"de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2171,2],
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2171,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2722],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2722,1],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2722,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2722,0],
@@ -47,11 +51,11 @@ var NAVTREEINDEX388 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[7,0,0,0,2,2,0,8,16,9],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[7,0,0,0,2,2,0,8,16,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[7,0,0,0,2,2,0,8,16,13],
-"de/de9/classspell__pal__righteous__vengeance.html":[6,0,3725],
-"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[6,0,3725,3],
-"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[6,0,3725,0],
-"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[6,0,3725,2],
-"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[6,0,3725,1],
+"de/de9/classspell__pal__righteous__vengeance.html":[6,0,3726],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[6,0,3726,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[6,0,3726,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[6,0,3726,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[6,0,3726,1],
 "de/dea/structnpc__corrupted__totem.html":[6,0,1724],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[6,0,1724,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1724,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX388 =
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220":[7,0,0,0,1,3,9,9,35,2],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a69f1d9a13075e6bbbdac5be5b4189305":[7,0,0,0,1,3,9,9,35,10],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d":[7,0,0,0,1,3,9,9,35,3],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812":[7,0,0,0,1,3,9,9,35,1],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a82bb35cce1cfe2530826c5effe613f70":[7,0,0,0,1,3,9,9,35,18],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e":[7,0,0,0,1,3,9,9,35,4],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a9151b9010b4da41ba0080b1c90e159de":[7,0,0,0,1,3,9,9,35,22],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3":[7,0,0,0,1,3,9,9,35,7]
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812":[7,0,0,0,1,3,9,9,35,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX164 =
 {
+"d5/dfb/classObjectMgr.html#a7e20447a8babdd8fa8fd7820bd3913ea":[6,0,2322,317],
+"d5/dfb/classObjectMgr.html#a7f53fb9020519d96755ce7ed04a1828c":[6,0,2322,269],
+"d5/dfb/classObjectMgr.html#a7f9c98919938b025433788c9de25d8a7":[6,0,2322,115],
+"d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788":[6,0,2322,29],
 "d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788a2c8559212e011407a2d93458f83bec56":[6,0,2322,29,1],
 "d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788a4d9216e2d888b88021afdc9e0d024e75":[6,0,2322,29,0],
 "d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788ae1a085562d9302f77a44f6954d527025":[6,0,2322,29,2],
@@ -216,12 +220,12 @@ var NAVTREEINDEX164 =
 "d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[6,0,2701,0],
 "d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[6,0,2701,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[6,0,2701,3],
-"d5/dfb/classspell__uk__second__wind.html":[6,0,4198],
-"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[6,0,4198,3],
-"d5/dfb/classspell__uk__second__wind.html#a55ce8f27fa326da9b68db7f4cd4bc334":[6,0,4198,2],
-"d5/dfb/classspell__uk__second__wind.html#a8641ddd1b6722a30b167d170adb47fd8":[6,0,4198,1],
-"d5/dfb/classspell__uk__second__wind.html#a93a45a442c2527468a5bfd4136bb53a0":[6,0,4198,0],
-"d5/dfb/classspell__uk__second__wind.html#ad4176f188412053b9205820fb6183d38":[6,0,4198,4],
+"d5/dfb/classspell__uk__second__wind.html":[6,0,4199],
+"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[6,0,4199,3],
+"d5/dfb/classspell__uk__second__wind.html#a55ce8f27fa326da9b68db7f4cd4bc334":[6,0,4199,2],
+"d5/dfb/classspell__uk__second__wind.html#a8641ddd1b6722a30b167d170adb47fd8":[6,0,4199,1],
+"d5/dfb/classspell__uk__second__wind.html#a93a45a442c2527468a5bfd4136bb53a0":[6,0,4199,0],
+"d5/dfb/classspell__uk__second__wind.html#ad4176f188412053b9205820fb6183d38":[6,0,4199,4],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[6,0,1747,0],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[6,0,1747,0,8],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1747,0,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX164 =
 "d5/dfc/classSOAPCommand.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2":[6,0,2588,6],
 "d5/dfc/classSOAPCommand.html#aec2e336644d004a59ad21431fbf80c83":[6,0,2588,7],
 "d5/dfc/classaccount__commandscript.html":[6,0,23],
-"d5/dfc/classaccount__commandscript.html#a14e0d3fefc18f003c0079250e5c06b18":[6,0,23,9],
-"d5/dfc/classaccount__commandscript.html#a195e5037d3c4886ca8e69a56daadd028":[6,0,23,13],
-"d5/dfc/classaccount__commandscript.html#a1aaee019de3b7802281e25e926fa4821":[6,0,23,16],
-"d5/dfc/classaccount__commandscript.html#a28baac859fcc2ee8bbf00dcdf7b38f4d":[6,0,23,1],
-"d5/dfc/classaccount__commandscript.html#a35e6b959596f1d9a32d39af117d2b95e":[6,0,23,8]
+"d5/dfc/classaccount__commandscript.html#a14e0d3fefc18f003c0079250e5c06b18":[6,0,23,9]
 };

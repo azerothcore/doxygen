@@ -1,5 +1,9 @@
 var NAVTREEINDEX344 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,5,9,1,2,11,3],
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca":[7,0,0,0,1,3,5,9,1,2,11,6],
+"dd/dab/boss__sjonnir_8cpp.html#a751d0854890cab158f40e51e23feec32":[7,0,0,0,1,3,5,9,1,2,14],
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,5,9,1,2,9],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7":[7,0,0,0,1,3,5,9,1,2,9,0],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591":[7,0,0,0,1,3,5,9,1,2,9,2],
 "dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a":[7,0,0,0,1,3,5,9,1,2,9,1],
@@ -13,10 +17,10 @@ var NAVTREEINDEX344 =
 "dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[6,0,2659,0],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[6,0,2659,1],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a9322b834fadc89b4fbc19dbbc762f205":[6,0,2659,2],
-"dd/dac/classspell__valkyr__touch__aura.html":[6,0,4219],
-"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,4219,1],
-"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,4219,0],
-"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,4219,2],
+"dd/dac/classspell__valkyr__touch__aura.html":[6,0,4220],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,4220,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,4220,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,4220,2],
 "dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[7,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,2,5,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX344 =
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a14c5cee1c3032b8df4ad902eb273e9b0":[6,0,2119,0,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1c0236b52d4cd87634659991e0dfc728":[6,0,2119,0,3],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193":[6,0,2119,0,7],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2119,0,6],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2119,0,1],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2119,0,8],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c":[6,0,2119,0,5],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2119,0,2]
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2119,0,6]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX256 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab98bc19e298768e137f85e592d07867b":[7,0,0,0,1,2,48,4,1,165],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aba64cff7540e041dd3671da84f5213a8":[7,0,0,0,1,2,48,4,1,446],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aba850298993f339cb4bca1ba3ea6cdc1":[7,0,0,0,1,2,48,4,1,141],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abdb04375c32d6b3d0b95f571c92c0586":[7,0,0,0,1,2,48,4,1,401],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abe7e8962cdf830bda371805c4ac98568":[7,0,0,0,1,2,48,4,1,113],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abec90063546d416bed17328ae5f8e7f9":[7,0,0,0,1,2,48,4,1,146],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abef56aacbf6a9d33bf72fc6ddb912efd":[7,0,0,0,1,2,48,4,1,377],
@@ -142,10 +146,10 @@ var NAVTREEINDEX256 =
 "da/d02/namespaceAcore_1_1Time.html#af415b3b5ef693e8bd9a8b7f5088ab704":[5,0,1,14,8],
 "da/d02/namespaceAcore_1_1Time.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[5,0,1,14,17],
 "da/d02/namespaceAcore_1_1Time.html#afe6fb6cf9a0829f40c9ba45356eec815":[5,0,1,14,7],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[6,0,3626],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[6,0,3626,2],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[6,0,3626,1],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[6,0,3626,0],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[6,0,3627],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[6,0,3627,2],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[6,0,3627,1],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[6,0,3627,0],
 "da/d04/classspell__item__the__eye__of__diminution.html":[6,0,3453],
 "da/d04/classspell__item__the__eye__of__diminution.html#a37e277143b2ae6cd88260776941b59bf":[6,0,3453,2],
 "da/d04/classspell__item__the__eye__of__diminution.html#a5e7d089dd117b6b3a605ea2e8aea0b04":[6,0,3453,1],
@@ -210,8 +214,8 @@ var NAVTREEINDEX256 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[6,0,840,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[6,0,840,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[6,0,840,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,840,58],
 "da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,840,59],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[6,0,840,58],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[6,0,840,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[6,0,840,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[6,0,840,69],
@@ -244,10 +248,6 @@ var NAVTREEINDEX256 =
 "da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#ae9ba65652db3d2d32920d1a98594727a":[6,0,1828,0,1],
 "da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#af22e42b2180987febd964784b6d49b5e":[6,0,1828,0,0],
 "da/d08/ChatPackets_8h.html":[7,0,0,0,1,2,39,0,8],
-"da/d08/classSQLOperation.html":[6,0,4432],
-"da/d08/classSQLOperation.html#a0f69657715b7d24458227b22a3b40b1a":[6,0,4432,0],
-"da/d08/classSQLOperation.html#a52cbd1d9b8a298ab3eade0010b5e3166":[6,0,4432,6],
-"da/d08/classSQLOperation.html#a91b34b81ed99ca0da54d825fec98ab6e":[6,0,4432,2],
-"da/d08/classSQLOperation.html#ac31349ed45ea051540ac345bd4b814d5":[6,0,4432,5],
-"da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40":[6,0,4432,7]
+"da/d08/classSQLOperation.html":[6,0,4433],
+"da/d08/classSQLOperation.html#a0f69657715b7d24458227b22a3b40b1a":[6,0,4433,0]
 };

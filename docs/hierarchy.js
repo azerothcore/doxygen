@@ -1323,6 +1323,7 @@ var hierarchy =
         [ "spell_karazhan_wrath_titans_stacker", "da/da1/classspell__karazhan__wrath__titans__stacker.html", null ],
         [ "spell_keeper_freya_summon_sanity_well", "d5/d16/classspell__keeper__freya__summon__sanity__well.html", null ],
         [ "spell_kelthuzad_frost_blast", "da/dba/classspell__kelthuzad__frost__blast.html", null ],
+        [ "spell_kelthuzad_void_blast", "d1/df9/classspell__kelthuzad__void__blast.html", null ],
         [ "spell_kiljaeden_armageddon_missile", "d1/d69/classspell__kiljaeden__armageddon__missile.html", null ],
         [ "spell_kiljaeden_dragon_breath", "d5/dec/classspell__kiljaeden__dragon__breath.html", null ],
         [ "spell_kiljaeden_flame_dart", "d6/d27/classspell__kiljaeden__flame__dart.html", null ],

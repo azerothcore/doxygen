@@ -1,6 +1,6 @@
 var NAVTREEINDEX46 =
 {
-"d1/dd0/classspell__sha__t3__8p__bonus.html#a2dab21ddb3c33341d560643d27042402":[6,0,4055,2],
+"d1/dd0/classspell__sha__t3__8p__bonus.html#a2dab21ddb3c33341d560643d27042402":[6,0,4056,2],
 "d1/dd1/classgo__veil__skith__cage.html":[6,0,1221],
 "d1/dd1/classgo__veil__skith__cage.html#a6724dc73ecf83305e5234eb0a2ad1d3c":[6,0,1221,1],
 "d1/dd1/classgo__veil__skith__cage.html#ac3fe1fdf2f12571fafc56e71a932994e":[6,0,1221,0],
@@ -14,8 +14,8 @@ var NAVTREEINDEX46 =
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,10,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,31,27,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,10,27,1],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,31,27,1],
 "d1/dd4/Item_8h.html":[7,0,0,0,1,2,16,4,3],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20fa":[7,0,0,0,1,2,16,4,3,10],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faa06048b9e64b69cc90bd4d3cc815eb585":[7,0,0,0,1,2,16,4,3,10,82],

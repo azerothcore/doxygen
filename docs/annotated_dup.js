@@ -4030,6 +4030,7 @@ var annotated_dup =
     [ "spell_keeper_freya_summon_sanity_well", "d5/d16/classspell__keeper__freya__summon__sanity__well.html", "d5/d16/classspell__keeper__freya__summon__sanity__well" ],
     [ "spell_kelthuzad_detonate_mana_aura", "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html", "d4/dd6/classspell__kelthuzad__detonate__mana__aura" ],
     [ "spell_kelthuzad_frost_blast", "da/dba/classspell__kelthuzad__frost__blast.html", "da/dba/classspell__kelthuzad__frost__blast" ],
+    [ "spell_kelthuzad_void_blast", "d1/df9/classspell__kelthuzad__void__blast.html", "d1/df9/classspell__kelthuzad__void__blast" ],
     [ "spell_kiljaeden_armageddon_missile", "d1/d69/classspell__kiljaeden__armageddon__missile.html", "d1/d69/classspell__kiljaeden__armageddon__missile" ],
     [ "spell_kiljaeden_armageddon_periodic_aura", "dc/d6b/classspell__kiljaeden__armageddon__periodic__aura.html", "dc/d6b/classspell__kiljaeden__armageddon__periodic__aura" ],
     [ "spell_kiljaeden_darkness_aura", "d8/d6c/classspell__kiljaeden__darkness__aura.html", "d8/d6c/classspell__kiljaeden__darkness__aura" ],

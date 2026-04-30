@@ -1,5 +1,9 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5":[7,0,0,0,1,0,0,2,0,13,8],
+"d3/d1f/AuthSession_8cpp.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e":[7,0,0,0,1,0,0,2,0,13,1],
+"d3/d1f/AuthSession_8cpp.html#a38c5f396c839f5f22ec0ec7a5b2a5019":[7,0,0,0,1,0,0,2,0,5],
+"d3/d1f/AuthSession_8cpp.html#a887a26fd84a0bf97f1016de6aeba4d4e":[7,0,0,0,1,0,0,2,0,14],
 "d3/d1f/AuthSession_8cpp.html#ab50c6b56b4c56513ab11e4bee50a0116":[7,0,0,0,1,0,0,2,0,9],
 "d3/d1f/AuthSession_8cpp.html#ad153c4ef5e20c186dfe08ed557a4100c":[7,0,0,0,1,0,0,2,0,11],
 "d3/d1f/AuthSession_8cpp.html#aef6ea8864e443cf0d192820bb670a8d8":[7,0,0,0,1,0,0,2,0,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d25/UpdateFieldFlags_8cpp.html#aee13b862f51557c371d3d93341128895":[7,0,0,0,1,2,16,5,0,2,2],
 "d3/d25/UpdateFieldFlags_8cpp.html#aefe3be44e608ab4935e11ea44f8e0ce6":[7,0,0,0,1,2,16,5,0,2,1],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html":[6,0,346,0],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a0c08c47f68dbb45175efc524f4553e16":[6,0,346,0,5],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a4387ef77c341f90758d6c64c4ef2c475":[6,0,346,0,6],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a74fb708546a8612ca52b24b8472b71ef":[6,0,346,0,4],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a84c3fe684033e8744ce6d6bc50526ee7":[6,0,346,0,3],
-"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[6,0,346,0,1]
+"d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a0c08c47f68dbb45175efc524f4553e16":[6,0,346,0,5]
 };

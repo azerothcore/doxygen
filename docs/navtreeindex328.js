@@ -1,5 +1,9 @@
 var NAVTREEINDEX328 =
 {
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a2f0d7897edbeeb73848984e8f03fae75":[7,0,0,0,1,3,3,1,37,4],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a38ce179d25dc3db7fd1b2e6ccb0f148d":[7,0,0,0,1,3,3,1,37,6],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a42290007a38ddc31942a6705a3ff79bf":[7,0,0,0,1,3,3,1,37,3],
+"dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a57581aa65d3e7ddc3cf53b81c9cf6da0":[7,0,0,0,1,3,3,1,37,1],
 "dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a708862ad6ea39c18e76cfd2767e0d3f6":[7,0,0,0,1,3,3,1,37,5],
 "dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4a86c92dd979c36cd76fd7a16b6776866c":[7,0,0,0,1,3,3,1,37,7],
 "dc/ddf/brewfest_8cpp.html#ad0fcc3268b0d04cfc8231f0143d898c4ab76eef903f89cb3da333d64dd4f9ce90":[7,0,0,0,1,3,3,1,37,2],
@@ -75,11 +79,11 @@ var NAVTREEINDEX328 =
 "dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2852,0],
 "dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2852,1],
 "dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2852,2],
-"dc/de3/classspell__pal__beacon__of__light.html":[6,0,3690],
-"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[6,0,3690,3],
-"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[6,0,3690,0],
-"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[6,0,3690,1],
-"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[6,0,3690,2],
+"dc/de3/classspell__pal__beacon__of__light.html":[6,0,3691],
+"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[6,0,3691,3],
+"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[6,0,3691,0],
+"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[6,0,3691,1],
+"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[6,0,3691,2],
 "dc/de3/structboss__isalien.html":[6,0,565],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[6,0,565,5],
 "dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[6,0,565,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX328 =
 "dc/dee/SpellMgr_8cpp.html#a11410c456e972de7cfb44bbe17709cc4":[7,0,0,0,1,2,41,8,12],
 "dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,7],
 "dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,9],
-"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
-"dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
-"dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a59735a3ed46ce3add4f949e4c9e041f8":[7,0,0,0,1,2,41,8,10],
-"dc/dee/SpellMgr_8cpp.html#a70fb722e03fe637ce7c9979a00725a3c":[7,0,0,0,1,2,41,8,5]
+"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3]
 };

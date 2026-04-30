@@ -1,5 +1,9 @@
 var NAVTREEINDEX174 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aad9cfdfdc76f7dfd0419d9a39af23bb8e":[7,0,0,0,1,2,7,0,1,24,4],
+"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aae6d9d9e14574e1e135502787467b9a16":[7,0,0,0,1,2,7,0,1,24,2],
+"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aae8381dbfb151423a09770239365ecc4b":[7,0,0,0,1,2,7,0,1,24,15],
+"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aaefc6f5ebe0a804fc6cabdd169a2bb477":[7,0,0,0,1,2,7,0,1,24,5],
 "d6/d4f/BattlefieldWG_8h.html#a7533da481a8b39b95fb93adf24cece9f":[7,0,0,0,1,2,7,0,1,42],
 "d6/d4f/BattlefieldWG_8h.html#a84afa59c796c189bd3384964d40d3304":[7,0,0,0,1,2,7,0,1,31],
 "d6/d4f/BattlefieldWG_8h.html#a85c1e33a0ecee2863f4ccae3673ec75b":[7,0,0,0,1,2,7,0,1,44],
@@ -245,9 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d51/structboss__krick_1_1boss__krickAI.html#aea8dd89c8e4de1bebd94a26ead852119":[6,0,595,0,2],
 "d6/d51/structboss__krick_1_1boss__krickAI.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f":[6,0,595,0,4],
 "d6/d52/classspell__dru__idol__lifebloom.html":[6,0,2868],
-"d6/d52/classspell__dru__idol__lifebloom.html#a46a643985647d8a8e033b637b31214a5":[6,0,2868,2],
-"d6/d52/classspell__dru__idol__lifebloom.html#aaf21dafa72b58245f548ed946a49659d":[6,0,2868,0],
-"d6/d52/classspell__dru__idol__lifebloom.html#ac05d3ae466ad64ac590f399827aac0c9":[6,0,2868,1],
-"d6/d52/structPvPCombatReference.html":[6,0,2461],
-"d6/d52/structPvPCombatReference.html#a1439519e8f8665e345cd1bd3d28031aa":[6,0,2461,0]
+"d6/d52/classspell__dru__idol__lifebloom.html#a46a643985647d8a8e033b637b31214a5":[6,0,2868,2]
 };

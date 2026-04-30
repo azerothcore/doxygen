@@ -1,5 +1,9 @@
 var NAVTREEINDEX345 =
 {
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2119,0,1],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2119,0,8],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c":[6,0,2119,0,5],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2119,0,2],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2119,0,9],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,17,0],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
@@ -229,14 +233,14 @@ var NAVTREEINDEX345 =
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e89b71161222e725b57fce4f50e0ef4":[7,0,0,0,1,3,7,5,1,3,2,1],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bb3f7214745b5e9789671b55bd90ee":[7,0,0,0,1,3,7,5,1,3,2,0],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#adad310e84d622e1ea0240e0958bf5826":[7,0,0,0,1,3,7,5,1,3,3],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html":[6,0,4174],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a01cb7d25bef14a2266d81594544f6283":[6,0,4174,4],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a061e110b9a032a9bbd0a48f686d16a84":[6,0,4174,3],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a18c80010b9e8803b3c225acf2dd0b605":[6,0,4174,0],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a3a84a9d7109845d201b395f05f66d109":[6,0,4174,6],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#aa06b7505ff483bc5e534cc37d909b28c":[6,0,4174,5],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#af31fd5b1f9cdc67650eec5e305f095bf":[6,0,4174,1],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#afcc1efc69d73086a9ab686855911e516":[6,0,4174,2],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html":[6,0,4175],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a01cb7d25bef14a2266d81594544f6283":[6,0,4175,4],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a061e110b9a032a9bbd0a48f686d16a84":[6,0,4175,3],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a18c80010b9e8803b3c225acf2dd0b605":[6,0,4175,0],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a3a84a9d7109845d201b395f05f66d109":[6,0,4175,6],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#aa06b7505ff483bc5e534cc37d909b28c":[6,0,4175,5],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#af31fd5b1f9cdc67650eec5e305f095bf":[6,0,4175,1],
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#afcc1efc69d73086a9ab686855911e516":[6,0,4175,2],
 "dd/dba/structboss__moroes.html":[6,0,639],
 "dd/dba/structboss__moroes.html#a1bba38840a7e6f09720ce33c51802a77":[6,0,639,3],
 "dd/dba/structboss__moroes.html#a3d28056a0d26d426d84363fb0c4f7e4d":[6,0,639,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX345 =
 "dd/dba/structboss__moroes.html#a651f53f476f205785d596ed9d52fdb89":[6,0,639,11],
 "dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,639,9],
 "dd/dba/structboss__moroes.html#a73f4b3c1a3a46261cf62143f8359b55e":[6,0,639,2],
-"dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,639,5],
-"dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,639,4],
-"dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,639,6],
-"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,639,10],
-"dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[6,0,639,1]
+"dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,639,5]
 };

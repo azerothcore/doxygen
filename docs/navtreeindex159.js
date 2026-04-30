@@ -1,5 +1,9 @@
 var NAVTREEINDEX159 =
 {
+"d5/dce/outland__script__loader_8cpp.html#a6b7605f750dab7f676edcd83f54c249a":[7,0,0,0,1,3,7,8,18],
+"d5/dce/outland__script__loader_8cpp.html#a6c9bd5a761d9018e8be9e0c11b8db2c5":[7,0,0,0,1,3,7,8,79],
+"d5/dce/outland__script__loader_8cpp.html#a6cedc6fc335735dd0031080de1f9a202":[7,0,0,0,1,3,7,8,11],
+"d5/dce/outland__script__loader_8cpp.html#a6e8b4bed45ea001c5156d1071d0fbf99":[7,0,0,0,1,3,7,8,67],
 "d5/dce/outland__script__loader_8cpp.html#a71d83fbb5a07123f8319407fc30e1b85":[7,0,0,0,1,3,7,8,35],
 "d5/dce/outland__script__loader_8cpp.html#a757ea0d4b31a1b8bd53b33ec2b9f8e87":[7,0,0,0,1,3,7,8,23],
 "d5/dce/outland__script__loader_8cpp.html#a77e256ce8ca932c8d162a30715dc7c6f":[7,0,0,0,1,3,7,8,81],
@@ -203,16 +207,16 @@ var NAVTREEINDEX159 =
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbf622b1440082a1b48fb217be4a18ad":[7,0,0,0,1,3,5,3,3,6,2],
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad7c88f27cdb8737d7e739ac0aed636d5":[7,0,0,0,1,3,5,3,3,6,1],
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad88a3894187c1d3569f3fcdc6042f664":[7,0,0,0,1,3,5,3,3,6,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[6,0,0,84],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,1,96],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[6,0,0,84],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[6,0,2231],
@@ -245,9 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dd3/Threading_8cpp.html":[7,0,0,0,0,14,6],
 "d5/dd5/classachievement__bg__av__perfection.html":[6,0,39],
 "d5/dd5/classachievement__bg__av__perfection.html#a17e700c17b5144b571f2aeed92a77749":[6,0,39,1],
-"d5/dd5/classachievement__bg__av__perfection.html#a8a0ef996bdb1244026268922b301184c":[6,0,39,0],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html":[7,0,0,0,1,3,5,1,1,0],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,1,1,0,10],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfa571d4d5e2da8756178e247a5d6622cb9":[7,0,0,0,1,3,5,1,1,0,10,2],
-"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfade02b9e5a00f3eccd24d1301023cf943":[7,0,0,0,1,3,5,1,1,0,10,0]
+"d5/dd5/classachievement__bg__av__perfection.html#a8a0ef996bdb1244026268922b301184c":[6,0,39,0]
 };

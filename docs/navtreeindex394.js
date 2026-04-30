@@ -1,5 +1,9 @@
 var NAVTREEINDEX394 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaf5220c031538f14e62edb39923a0ccf":[7,0,0,0,1,2,16,5,0,4,6,54],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01bcc653653a26eb6e713848d62bc34":[7,0,0,0,1,2,16,5,0,4,6,5],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01c90aebf78a9a599563a1baee44c24":[7,0,0,0,1,2,16,5,0,4,6,146],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab03ade509459f44b324a728b42af409c":[7,0,0,0,1,2,16,5,0,4,6,199],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab04ec13083a035a0f57e7d73310ed65a":[7,0,0,0,1,2,16,5,0,4,6,213],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab410028b13d1462c739c70d42eb11e62":[7,0,0,0,1,2,16,5,0,4,6,112],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab5d8d3f6c63cd6c752325e9e43bc3b22":[7,0,0,0,1,2,16,5,0,4,6,68],
@@ -210,10 +214,10 @@ var NAVTREEINDEX394 =
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a64cf56299c8ab5292dbc9cddcee5f841":[6,0,3264,2],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a9962029ce4a5223d7aa05068e8d83326":[6,0,3264,1],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#accfe8a0cea8af9c9474d25fc3e7c7e22":[6,0,3264,0],
-"df/d25/classspell__rog__setup.html":[6,0,3970],
-"df/d25/classspell__rog__setup.html#a13ccd1c89767d0dcf041217466390759":[6,0,3970,1],
-"df/d25/classspell__rog__setup.html#a4f29ca53813534b1af20e09281288e95":[6,0,3970,2],
-"df/d25/classspell__rog__setup.html#a5e48b25b15b60aa284ca61e900e0f87e":[6,0,3970,0],
+"df/d25/classspell__rog__setup.html":[6,0,3971],
+"df/d25/classspell__rog__setup.html#a13ccd1c89767d0dcf041217466390759":[6,0,3971,1],
+"df/d25/classspell__rog__setup.html#a4f29ca53813534b1af20e09281288e95":[6,0,3971,2],
+"df/d25/classspell__rog__setup.html#a5e48b25b15b60aa284ca61e900e0f87e":[6,0,3971,0],
 "df/d26/server_2apps_2worldserver_2Main_8cpp.html":[4,0,2],
 "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html":[6,0,1701,0],
 "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html#a4af8548092b49653805224bd4c0ac0a2":[6,0,1701,0,2],
@@ -242,12 +246,8 @@ var NAVTREEINDEX394 =
 "df/d27/classspell__gen__bm__off.html":[6,0,2988],
 "df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[6,0,2988,1],
 "df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[6,0,2988,0],
-"df/d28/classTransaction.html":[6,0,4492],
-"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4492,0],
-"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4492,1],
-"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4492,2],
-"df/d29/oculus_8h.html":[7,0,0,0,1,3,5,8,2,6],
-"df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,2,6,0],
-"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[7,0,0,0,1,3,5,8,2,6,4],
-"df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a330ecb09f57548e54e2caa4fc0f69b07":[7,0,0,0,1,3,5,8,2,6,4,2]
+"df/d28/classTransaction.html":[6,0,4493],
+"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4493,0],
+"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4493,1],
+"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4493,2]
 };

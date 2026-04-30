@@ -1,5 +1,9 @@
 var NAVTREEINDEX352 =
 {
+"dd/dfd/classGridCell.html#aa0c4e5dac57c41d8fce303fb943585a0":[6,0,1238,4],
+"dd/dfd/classGridCell.html#ab64f99dd9997ff6df1f1db25a8d95d19":[6,0,1238,2],
+"dd/dfd/classGridCell.html#ac5a741aebc11124aa228e5107e664335":[6,0,1238,7],
+"dd/dfd/classspell__gen__set__health.html":[6,0,3092],
 "dd/dfd/classspell__gen__set__health.html#a27b25fbbdd912505738728414b79380c":[6,0,3092,2],
 "dd/dfd/classspell__gen__set__health.html#a3f63c080d2a74def0920cceaea18e1e2":[6,0,3092,0],
 "dd/dfd/classspell__gen__set__health.html#a438c4c1763688210384b24305aeebe52":[6,0,3092,1],
@@ -32,11 +36,11 @@ var NAVTREEINDEX352 =
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a2dcef4fe57880ba725dff52455a7a428":[6,0,1622,1],
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a6dc41c4fa5531bd1999daaef3972c5a2":[6,0,1622,2],
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a8b8dc51f529d361b40447f6f1b398a4d":[6,0,1622,0],
-"de/d00/classspell__voljin__war__drums.html":[6,0,4232],
-"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,4232,3],
-"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,4232,0],
-"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,4232,1],
-"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,4232,2],
+"de/d00/classspell__voljin__war__drums.html":[6,0,4233],
+"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[6,0,4233,3],
+"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[6,0,4233,0],
+"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[6,0,4233,1],
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[6,0,4233,2],
 "de/d00/structboss__roar.html":[6,0,688],
 "de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[6,0,688,2],
 "de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[6,0,688,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX352 =
 "de/d07/classHealInfoStub.html#a5af3db6eed10c8b2cd17f0509f6085fa":[6,0,1279,7],
 "de/d07/classHealInfoStub.html#a5f7988705654a3b6f460ddbbecb3992b":[6,0,1279,9],
 "de/d07/classHealInfoStub.html#a6dede4a2256ff21fde331ae05d257718":[6,0,1279,11],
-"de/d07/classHealInfoStub.html#a94cd95b537e2510047da23a7f9176aa6":[6,0,1279,18],
-"de/d07/classHealInfoStub.html#aa19e94b9523f803f2af09fb77382f3c2":[6,0,1279,4],
-"de/d07/classHealInfoStub.html#aab54619f78456698c646d83ac448e1e2":[6,0,1279,15],
-"de/d07/classHealInfoStub.html#aae8cd0f206d4dbd78b56838cdb49dad6":[6,0,1279,3],
-"de/d07/classHealInfoStub.html#abc0ad944af22920bc105b1b4c71ad467":[6,0,1279,5]
+"de/d07/classHealInfoStub.html#a94cd95b537e2510047da23a7f9176aa6":[6,0,1279,18]
 };

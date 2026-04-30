@@ -1,5 +1,9 @@
 var NAVTREEINDEX200 =
 {
+"d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69":[6,0,2430,46],
+"d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f":[6,0,2430,43],
+"d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057":[6,0,2430,51],
+"d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21":[6,0,2430,50],
 "d7/d95/classPoolMgr.html#adddabe46683819f7fbb230d3b1e17288":[6,0,2430,17],
 "d7/d95/classPoolMgr.html#ae338ade854f128c8ab9f91a3743d5fc6":[6,0,2430,12],
 "d7/d95/classPoolMgr.html#ae3dbde9c46f8152b35f5d2d287447747":[6,0,2430,49],
@@ -245,9 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[6,0,295,2,0],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[6,0,295,2,1],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[6,0,295,2,2],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html":[6,0,833,0],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,833,0,16],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a0ec7965c90d3401eda58fe7d4e0e1690":[6,0,833,0,5],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a121d556eb64ac3f498048de336c29130":[6,0,833,0,6],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a19d3bc69584186ae151416ee959f4369":[6,0,833,0,13]
+"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html":[6,0,833,0]
 };

@@ -6,6 +6,7 @@ var boss__kelthuzad_8cpp =
     [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html", "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI" ],
     [ "spell_kelthuzad_frost_blast", "da/dba/classspell__kelthuzad__frost__blast.html", "da/dba/classspell__kelthuzad__frost__blast" ],
     [ "spell_kelthuzad_detonate_mana_aura", "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html", "d4/dd6/classspell__kelthuzad__detonate__mana__aura" ],
+    [ "spell_kelthuzad_void_blast", "d1/df9/classspell__kelthuzad__void__blast.html", "d1/df9/classspell__kelthuzad__void__blast" ],
     [ "Event", "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],

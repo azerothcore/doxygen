@@ -1,6 +1,10 @@
 var NAVTREEINDEX103 =
 {
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,55],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,55,0],
 "d3/d81/classAbominationDespawner.html":[6,0,21],
@@ -245,9 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html#a4514796784d974ba6de09b5a5d4e5f3b":[6,0,1836,1],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1678,0],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a004a878ccb5fe68b249342f6a0fce31d":[6,0,1678,0,2],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a40c642758a751e072e41343bb75ad306":[6,0,1678,0,7],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a539b0e158c800e1aade54f37aa99751e":[6,0,1678,0,3],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a7b099b90600e433e304dee1f356a9909":[6,0,1678,0,0],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a8ec7641bab991fc584b066fae55690bf":[6,0,1678,0,5],
-"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a9058ce72bb956d7e90eff740c0f9633a":[6,0,1678,0,6]
+"d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a40c642758a751e072e41343bb75ad306":[6,0,1678,0,7]
 };
