@@ -339,18 +339,18 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  569</span>{</div>
-<div class="line"><span class="lineno">  570</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab5a6573242b89378e2d9d17e60117ae9">m_rankId</a> = newRank;</div>
-<div class="line"><span class="lineno">  571</span> </div>
-<div class="line"><span class="lineno">  572</span>    <span class="comment">// Update rank information in player&#39;s field, if he is online.</span></div>
-<div class="line"><span class="lineno">  573</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#ae77d3b6c0880703bc3fa490648b74cb7">FindPlayer</a>())</div>
-<div class="line"><span class="lineno">  574</span>        player-&gt;SetRank(newRank);</div>
-<div class="line"><span class="lineno">  575</span> </div>
-<div class="line"><span class="lineno">  576</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2">CHAR_UPD_GUILD_MEMBER_RANK</a>);</div>
-<div class="line"><span class="lineno">  577</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (0, newRank);</div>
-<div class="line"><span class="lineno">  578</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  579</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  580</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  570</span>{</div>
+<div class="line"><span class="lineno">  571</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab5a6573242b89378e2d9d17e60117ae9">m_rankId</a> = newRank;</div>
+<div class="line"><span class="lineno">  572</span> </div>
+<div class="line"><span class="lineno">  573</span>    <span class="comment">// Update rank information in player&#39;s field, if he is online.</span></div>
+<div class="line"><span class="lineno">  574</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#ae77d3b6c0880703bc3fa490648b74cb7">FindPlayer</a>())</div>
+<div class="line"><span class="lineno">  575</span>        player-&gt;SetRank(newRank);</div>
+<div class="line"><span class="lineno">  576</span> </div>
+<div class="line"><span class="lineno">  577</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2">CHAR_UPD_GUILD_MEMBER_RANK</a>);</div>
+<div class="line"><span class="lineno">  578</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (0, newRank);</div>
+<div class="line"><span class="lineno">  579</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  580</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  581</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2">CHAR_UPD_GUILD_MEMBER_RANK</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_MEMBER_RANK</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:167</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aclassGuild_1_1Member_html_ae77d3b6c0880703bc3fa490648b74cb7"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#ae77d3b6c0880703bc3fa490648b74cb7">Guild::Member::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer() const</div><div class="ttdef"><b>Definition</b> Guild.h:352</div></div>
@@ -361,7 +361,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00167">CHAR_UPD_GUILD_MEMBER_RANK</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02499">Guild::_SetLeaderGUID()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Guild::_SetLeaderGUID()</a>.</p>
 
 </div>
 </div>
@@ -379,27 +379,27 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  631</span>{</div>
-<div class="line"><span class="lineno">  632</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a> &lt; 1)</div>
-<div class="line"><span class="lineno">  633</span>    {</div>
-<div class="line"><span class="lineno">  634</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has a broken data in field `characters`.`level`, deleting him from guild!&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  635</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  636</span>    }</div>
-<div class="line"><span class="lineno">  637</span> </div>
-<div class="line"><span class="lineno">  638</span>    <span class="keywordflow">if</span> (m_class &lt; CLASS_WARRIOR || m_class &gt;= <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#aa322a61b17e1d56852d53d5ef6a728c6">MAX_CLASSES</a>)</div>
-<div class="line"><span class="lineno">  639</span>    {</div>
-<div class="line"><span class="lineno">  640</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has a broken data in field `characters`.`class`, deleting him from guild!&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  641</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  642</span>    }</div>
-<div class="line"><span class="lineno">  643</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  644</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  632</span>{</div>
+<div class="line"><span class="lineno">  633</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a> &lt; 1)</div>
+<div class="line"><span class="lineno">  634</span>    {</div>
+<div class="line"><span class="lineno">  635</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has a broken data in field `characters`.`level`, deleting him from guild!&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  636</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  637</span>    }</div>
+<div class="line"><span class="lineno">  638</span> </div>
+<div class="line"><span class="lineno">  639</span>    <span class="keywordflow">if</span> (m_class &lt; CLASS_WARRIOR || m_class &gt;= <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#aa322a61b17e1d56852d53d5ef6a728c6">MAX_CLASSES</a>)</div>
+<div class="line"><span class="lineno">  640</span>    {</div>
+<div class="line"><span class="lineno">  641</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has a broken data in field `characters`.`class`, deleting him from guild!&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  642</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  643</span>    }</div>
+<div class="line"><span class="lineno">  644</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  645</span>}</div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aa322a61b17e1d56852d53d5ef6a728c6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aa322a61b17e1d56852d53d5ef6a728c6">MAX_CLASSES</a></div><div class="ttdeci">#define MAX_CLASSES</div><div class="ttdef"><b>Definition</b> SharedDefines.h:140</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:47</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00140">MAX_CLASSES</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02182">Guild::AddMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02202">Guild::AddMember()</a>.</p>
 
 </div>
 </div>
@@ -430,7 +430,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, and <a class="el" href="../../#l00361">m_guid</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02266">Guild::DeleteMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02286">Guild::DeleteMember()</a>.</p>
 
 </div>
 </div>
@@ -477,13 +477,13 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  674</span>{</div>
-<div class="line"><span class="lineno">  675</span>    <span class="comment">// Guild master has unlimited amount.</span></div>
-<div class="line"><span class="lineno">  676</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#a2e30d7a341a7817b4b1e64f77b489035">IsRank</a>(<a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>))</div>
-<div class="line"><span class="lineno">  677</span>        <span class="keywordflow">return</span> tabId == <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a> ? <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a> : <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3">GUILD_WITHDRAW_SLOT_UNLIMITED</a>;</div>
-<div class="line"><span class="lineno">  678</span> </div>
-<div class="line"><span class="lineno">  679</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId];</div>
-<div class="line"><span class="lineno">  680</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  675</span>{</div>
+<div class="line"><span class="lineno">  676</span>    <span class="comment">// Guild master has unlimited amount.</span></div>
+<div class="line"><span class="lineno">  677</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#a2e30d7a341a7817b4b1e64f77b489035">IsRank</a>(<a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d">GR_GUILDMASTER</a>))</div>
+<div class="line"><span class="lineno">  678</span>        <span class="keywordflow">return</span> tabId == <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a> ? <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a> : <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3">GUILD_WITHDRAW_SLOT_UNLIMITED</a>;</div>
+<div class="line"><span class="lineno">  679</span> </div>
+<div class="line"><span class="lineno">  680</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId];</div>
+<div class="line"><span class="lineno">  681</span>}</div>
 <div class="ttc" id="aGuild_8h_html_a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3"><div class="ttname"><a href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3">GUILD_WITHDRAW_SLOT_UNLIMITED</a></div><div class="ttdeci">@ GUILD_WITHDRAW_SLOT_UNLIMITED</div><div class="ttdef"><b>Definition</b> Guild.h:49</div></div>
 <div class="ttc" id="aGuild_8h_html_a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1"><div class="ttname"><a href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1">GUILD_WITHDRAW_MONEY_UNLIMITED</a></div><div class="ttdeci">@ GUILD_WITHDRAW_MONEY_UNLIMITED</div><div class="ttdef"><b>Definition</b> Guild.h:48</div></div>
 <div class="ttc" id="aGuild_8h_html_a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7"><div class="ttname"><a href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a></div><div class="ttdeci">@ GUILD_BANK_MAX_TABS</div><div class="ttdef"><b>Definition</b> Guild.h:42</div></div>
@@ -493,7 +493,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00065">GR_GUILDMASTER</a>, <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, <a class="el" href="../../#l00048">GUILD_WITHDRAW_MONEY_UNLIMITED</a>, and <a class="el" href="../../#l00049">GUILD_WITHDRAW_SLOT_UNLIMITED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02575">Guild::_GetMemberRemainingMoney()</a>, and <a class="el" href="../../#l02561">Guild::_GetMemberRemainingSlots()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02595">Guild::_GetMemberRemainingMoney()</a>, and <a class="el" href="../../#l02581">Guild::_GetMemberRemainingSlots()</a>.</p>
 
 </div>
 </div>
@@ -608,7 +608,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00361">m_guid</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02499">Guild::_SetLeaderGUID()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Guild::_SetLeaderGUID()</a>.</p>
 
 </div>
 </div>
@@ -696,7 +696,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00362">m_name</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02266">Guild::DeleteMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02286">Guild::DeleteMember()</a>.</p>
 
 </div>
 </div>
@@ -784,7 +784,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00371">m_rankId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02575">Guild::_GetMemberRemainingMoney()</a>, <a class="el" href="../../#l02561">Guild::_GetMemberRemainingSlots()</a>, <a class="el" href="../../#l02266">Guild::DeleteMember()</a>, <a class="el" href="../../#l01694">Guild::HandleMemberWithdrawMoney()</a>, <a class="el" href="../../#l00789">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01540">Guild::HandleRemoveMember()</a>, <a class="el" href="../../#l01572">Guild::HandleUpdateMemberRank()</a>, and <a class="el" href="../../#l01841">Guild::SendPermissions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02595">Guild::_GetMemberRemainingMoney()</a>, <a class="el" href="../../#l02581">Guild::_GetMemberRemainingSlots()</a>, <a class="el" href="../../#l02286">Guild::DeleteMember()</a>, <a class="el" href="../../#l01708">Guild::HandleMemberWithdrawMoney()</a>, <a class="el" href="../../#l00796">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01548">Guild::HandleRemoveMember()</a>, <a class="el" href="../../#l01580">Guild::HandleUpdateMemberRank()</a>, and <a class="el" href="../../#l01861">Guild::SendPermissions()</a>.</p>
 
 </div>
 </div>
@@ -872,7 +872,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00371">m_rankId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02049">Guild::Validate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02069">Guild::Validate()</a>.</p>
 
 </div>
 </div>
@@ -903,7 +903,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00371">m_rankId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01540">Guild::HandleRemoveMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01548">Guild::HandleRemoveMember()</a>.</p>
 
 </div>
 </div>
@@ -951,43 +951,43 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  602</span>{</div>
-<div class="line"><span class="lineno">  603</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>  = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  604</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  605</span> </div>
-<div class="line"><span class="lineno">  606</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>; ++i)</div>
-<div class="line"><span class="lineno">  607</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[i] = fields[5 + i].Get&lt;uint32&gt;();</div>
-<div class="line"><span class="lineno">  608</span> </div>
-<div class="line"><span class="lineno">  609</span>    <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#afa43b716e30e66244db9b5be04a7bc95">SetStats</a>(fields[12].Get&lt;std::string&gt;(),</div>
-<div class="line"><span class="lineno">  610</span>             fields[13].Get&lt;uint8&gt;(),                         <span class="comment">// characters.level</span></div>
-<div class="line"><span class="lineno">  611</span>             fields[14].Get&lt;uint8&gt;(),                         <span class="comment">// characters.class</span></div>
-<div class="line"><span class="lineno">  612</span>             fields[15].Get&lt;uint8&gt;(),                         <span class="comment">// characters.gender</span></div>
-<div class="line"><span class="lineno">  613</span>             fields[16].Get&lt;uint16&gt;(),                        <span class="comment">// characters.zone</span></div>
-<div class="line"><span class="lineno">  614</span>             fields[17].Get&lt;uint32&gt;());                       <span class="comment">// characters.account</span></div>
-<div class="line"><span class="lineno">  615</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a669e4b38f59430c01e2e9f863e71df48">m_logoutTime</a> = fields[18].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();                  <span class="comment">// characters.logout_time</span></div>
-<div class="line"><span class="lineno">  616</span> </div>
-<div class="line"><span class="lineno">  617</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c">CheckStats</a>())</div>
-<div class="line"><span class="lineno">  618</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  619</span> </div>
-<div class="line"><span class="lineno">  620</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>)</div>
-<div class="line"><span class="lineno">  621</span>    {</div>
-<div class="line"><span class="lineno">  622</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has broken zone-data&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  623</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a> = <a class="code hl_function" href="../../d2/d4b/classPlayer.html#a1fa024819c672e171ac55acda8085594">Player::GetZoneIdFromDB</a>(<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>);</div>
-<div class="line"><span class="lineno">  624</span>    }</div>
-<div class="line"><span class="lineno">  625</span>    <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#aa049019e50eb53bf4dc3b227ce45c113">ResetFlags</a>();</div>
-<div class="line"><span class="lineno">  626</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  627</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  603</span>{</div>
+<div class="line"><span class="lineno">  604</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>  = fields[3].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  605</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  606</span> </div>
+<div class="line"><span class="lineno">  607</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>; ++i)</div>
+<div class="line"><span class="lineno">  608</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[i] = fields[5 + i].Get&lt;uint32&gt;();</div>
+<div class="line"><span class="lineno">  609</span> </div>
+<div class="line"><span class="lineno">  610</span>    <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#afa43b716e30e66244db9b5be04a7bc95">SetStats</a>(fields[12].Get&lt;std::string&gt;(),</div>
+<div class="line"><span class="lineno">  611</span>             fields[13].Get&lt;uint8&gt;(),                         <span class="comment">// characters.level</span></div>
+<div class="line"><span class="lineno">  612</span>             fields[14].Get&lt;uint8&gt;(),                         <span class="comment">// characters.class</span></div>
+<div class="line"><span class="lineno">  613</span>             fields[15].Get&lt;uint8&gt;(),                         <span class="comment">// characters.gender</span></div>
+<div class="line"><span class="lineno">  614</span>             fields[16].Get&lt;uint16&gt;(),                        <span class="comment">// characters.zone</span></div>
+<div class="line"><span class="lineno">  615</span>             fields[17].Get&lt;uint32&gt;());                       <span class="comment">// characters.account</span></div>
+<div class="line"><span class="lineno">  616</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a669e4b38f59430c01e2e9f863e71df48">m_logoutTime</a> = fields[18].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();                  <span class="comment">// characters.logout_time</span></div>
+<div class="line"><span class="lineno">  617</span> </div>
+<div class="line"><span class="lineno">  618</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c">CheckStats</a>())</div>
+<div class="line"><span class="lineno">  619</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  620</span> </div>
+<div class="line"><span class="lineno">  621</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>)</div>
+<div class="line"><span class="lineno">  622</span>    {</div>
+<div class="line"><span class="lineno">  623</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;Player ({}) has broken zone-data&quot;</span>, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  624</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a> = <a class="code hl_function" href="../../d2/d4b/classPlayer.html#a1fa024819c672e171ac55acda8085594">Player::GetZoneIdFromDB</a>(<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>);</div>
+<div class="line"><span class="lineno">  625</span>    }</div>
+<div class="line"><span class="lineno">  626</span>    <a class="code hl_function" href="../../d2/d93/classGuild_1_1Member.html#aa049019e50eb53bf4dc3b227ce45c113">ResetFlags</a>();</div>
+<div class="line"><span class="lineno">  627</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  628</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassField_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition</b> Field.h:112</div></div>
-<div class="ttc" id="aclassGuild_1_1Member_html_a801d78a7a584fb3ee8c862b3aa5b4a4c"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c">Guild::Member::CheckStats</a></div><div class="ttdeci">bool CheckStats() const</div><div class="ttdef"><b>Definition</b> Guild.cpp:630</div></div>
+<div class="ttc" id="aclassGuild_1_1Member_html_a801d78a7a584fb3ee8c862b3aa5b4a4c"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c">Guild::Member::CheckStats</a></div><div class="ttdeci">bool CheckStats() const</div><div class="ttdef"><b>Definition</b> Guild.cpp:631</div></div>
 <div class="ttc" id="aclassGuild_1_1Member_html_aa049019e50eb53bf4dc3b227ce45c113"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#aa049019e50eb53bf4dc3b227ce45c113">Guild::Member::ResetFlags</a></div><div class="ttdeci">void ResetFlags()</div><div class="ttdef"><b>Definition</b> Guild.h:322</div></div>
-<div class="ttc" id="aclassGuild_1_1Member_html_afa43b716e30e66244db9b5be04a7bc95"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#afa43b716e30e66244db9b5be04a7bc95">Guild::Member::SetStats</a></div><div class="ttdeci">void SetStats(Player *player)</div><div class="ttdef"><b>Definition</b> Guild.cpp:522</div></div>
-<div class="ttc" id="aclassPlayer_html_a1fa024819c672e171ac55acda8085594"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a1fa024819c672e171ac55acda8085594">Player::GetZoneIdFromDB</a></div><div class="ttdeci">static uint32 GetZoneIdFromDB(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> Player.cpp:6322</div></div>
+<div class="ttc" id="aclassGuild_1_1Member_html_afa43b716e30e66244db9b5be04a7bc95"><div class="ttname"><a href="../../d2/d93/classGuild_1_1Member.html#afa43b716e30e66244db9b5be04a7bc95">Guild::Member::SetStats</a></div><div class="ttdeci">void SetStats(Player *player)</div><div class="ttdef"><b>Definition</b> Guild.cpp:523</div></div>
+<div class="ttc" id="aclassPlayer_html_a1fa024819c672e171ac55acda8085594"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a1fa024819c672e171ac55acda8085594">Player::GetZoneIdFromDB</a></div><div class="ttdeci">static uint32 GetZoneIdFromDB(ObjectGuid guid)</div><div class="ttdef"><b>Definition</b> Player.cpp:6333</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l06322">Player::GetZoneIdFromDB()</a>, <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l06333">Player::GetZoneIdFromDB()</a>, <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01938">Guild::LoadMemberFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01958">Guild::LoadMemberFromDB()</a>.</p>
 
 </div>
 </div>
@@ -1046,7 +1046,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00230">GUILDMEMBER_STATUS_NONE</a>, and <a class="el" href="../../#l00367">m_flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02182">Guild::AddMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02202">Guild::AddMember()</a>.</p>
 
 </div>
 </div>
@@ -1064,10 +1064,10 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  665</span>{</div>
-<div class="line"><span class="lineno">  666</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tabId = 0; tabId &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>; ++tabId)</div>
-<div class="line"><span class="lineno">  667</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId] = 0;</div>
-<div class="line"><span class="lineno">  668</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  666</span>{</div>
+<div class="line"><span class="lineno">  667</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tabId = 0; tabId &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>; ++tabId)</div>
+<div class="line"><span class="lineno">  668</span>        <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId] = 0;</div>
+<div class="line"><span class="lineno">  669</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>.</p>
 
@@ -1088,20 +1088,20 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  588</span>{</div>
-<div class="line"><span class="lineno">  589</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a06daee42b7c2a3859725d756bd3ce9d5">CHAR_INS_GUILD_MEMBER</a>);</div>
-<div class="line"><span class="lineno">  590</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a09bb57164773287470cbf23eb20dc837">m_guildId</a>);</div>
-<div class="line"><span class="lineno">  591</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  592</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (2, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab5a6573242b89378e2d9d17e60117ae9">m_rankId</a>);</div>
-<div class="line"><span class="lineno">  593</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>);</div>
-<div class="line"><span class="lineno">  594</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a>);</div>
-<div class="line"><span class="lineno">  595</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.ExecuteOrAppend(trans, stmt);</div>
-<div class="line"><span class="lineno">  596</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  589</span>{</div>
+<div class="line"><span class="lineno">  590</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a06daee42b7c2a3859725d756bd3ce9d5">CHAR_INS_GUILD_MEMBER</a>);</div>
+<div class="line"><span class="lineno">  591</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a09bb57164773287470cbf23eb20dc837">m_guildId</a>);</div>
+<div class="line"><span class="lineno">  592</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  593</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a> (2, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab5a6573242b89378e2d9d17e60117ae9">m_rankId</a>);</div>
+<div class="line"><span class="lineno">  594</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(3, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>);</div>
+<div class="line"><span class="lineno">  595</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(4, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a>);</div>
+<div class="line"><span class="lineno">  596</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.ExecuteOrAppend(trans, stmt);</div>
+<div class="line"><span class="lineno">  597</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a06daee42b7c2a3859725d756bd3ce9d5"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a06daee42b7c2a3859725d756bd3ce9d5">CHAR_INS_GUILD_MEMBER</a></div><div class="ttdeci">@ CHAR_INS_GUILD_MEMBER</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:143</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00143">CHAR_INS_GUILD_MEMBER</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02182">Guild::AddMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02202">Guild::AddMember()</a>.</p>
 
 </div>
 </div>
@@ -1149,17 +1149,17 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  556</span>{</div>
-<div class="line"><span class="lineno">  557</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> == officerNote)</div>
-<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  559</span> </div>
-<div class="line"><span class="lineno">  560</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> = officerNote;</div>
-<div class="line"><span class="lineno">  561</span> </div>
-<div class="line"><span class="lineno">  562</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aad37c8a6e460478ecba68d1ce0e163f4">CHAR_UPD_GUILD_MEMBER_OFFNOTE</a>);</div>
-<div class="line"><span class="lineno">  563</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a>);</div>
-<div class="line"><span class="lineno">  564</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  565</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  566</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  557</span>{</div>
+<div class="line"><span class="lineno">  558</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> == officerNote)</div>
+<div class="line"><span class="lineno">  559</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  560</span> </div>
+<div class="line"><span class="lineno">  561</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a> = officerNote;</div>
+<div class="line"><span class="lineno">  562</span> </div>
+<div class="line"><span class="lineno">  563</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aad37c8a6e460478ecba68d1ce0e163f4">CHAR_UPD_GUILD_MEMBER_OFFNOTE</a>);</div>
+<div class="line"><span class="lineno">  564</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad860941d562d49583ce4d4ca62dcfbcf">m_officerNote</a>);</div>
+<div class="line"><span class="lineno">  565</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  566</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  567</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7aad37c8a6e460478ecba68d1ce0e163f4"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aad37c8a6e460478ecba68d1ce0e163f4">CHAR_UPD_GUILD_MEMBER_OFFNOTE</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_MEMBER_OFFNOTE</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:166</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00166">CHAR_UPD_GUILD_MEMBER_OFFNOTE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
@@ -1181,17 +1181,17 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  543</span>{</div>
-<div class="line"><span class="lineno">  544</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a> == publicNote)</div>
-<div class="line"><span class="lineno">  545</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  546</span> </div>
-<div class="line"><span class="lineno">  547</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a> = publicNote;</div>
-<div class="line"><span class="lineno">  548</span> </div>
-<div class="line"><span class="lineno">  549</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e">CHAR_UPD_GUILD_MEMBER_PNOTE</a>);</div>
-<div class="line"><span class="lineno">  550</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>);</div>
-<div class="line"><span class="lineno">  551</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  552</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  553</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  544</span>{</div>
+<div class="line"><span class="lineno">  545</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a> == publicNote)</div>
+<div class="line"><span class="lineno">  546</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  547</span> </div>
+<div class="line"><span class="lineno">  548</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a> = publicNote;</div>
+<div class="line"><span class="lineno">  549</span> </div>
+<div class="line"><span class="lineno">  550</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e">CHAR_UPD_GUILD_MEMBER_PNOTE</a>);</div>
+<div class="line"><span class="lineno">  551</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad8e19b9b410815c25532611e12b9f66d">m_publicNote</a>);</div>
+<div class="line"><span class="lineno">  552</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  553</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">  554</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e">CHAR_UPD_GUILD_MEMBER_PNOTE</a></div><div class="ttdeci">@ CHAR_UPD_GUILD_MEMBER_PNOTE</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:165</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00165">CHAR_UPD_GUILD_MEMBER_PNOTE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
@@ -1213,25 +1213,25 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  523</span>{</div>
-<div class="line"><span class="lineno">  524</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a42ea619dbe068118fef5fe0f8df59b5d">m_name</a>      = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>();</div>
-<div class="line"><span class="lineno">  525</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a>     = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
-<div class="line"><span class="lineno">  526</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6956718526576c94e2dcbd1f1df1ca22">m_class</a>     = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>();</div>
-<div class="line"><span class="lineno">  527</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1293b721c1fc8408156405c7c7453211">m_gender</a>    = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2">getGender</a>();</div>
-<div class="line"><span class="lineno">  528</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>    = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
-<div class="line"><span class="lineno">  529</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ac23c1ce0e3b108c60f764e55e85b74b6">m_accountId</a> = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>();</div>
-<div class="line"><span class="lineno">  530</span>}</div>
-<div class="ttc" id="aclassPlayer_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition</b> Player.h:2019</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  524</span>{</div>
+<div class="line"><span class="lineno">  525</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a42ea619dbe068118fef5fe0f8df59b5d">m_name</a>      = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>();</div>
+<div class="line"><span class="lineno">  526</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a>     = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
+<div class="line"><span class="lineno">  527</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6956718526576c94e2dcbd1f1df1ca22">m_class</a>     = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>();</div>
+<div class="line"><span class="lineno">  528</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1293b721c1fc8408156405c7c7453211">m_gender</a>    = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2">getGender</a>();</div>
+<div class="line"><span class="lineno">  529</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>    = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
+<div class="line"><span class="lineno">  530</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ac23c1ce0e3b108c60f764e55e85b74b6">m_accountId</a> = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>();</div>
+<div class="line"><span class="lineno">  531</span>}</div>
+<div class="ttc" id="aclassPlayer_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition</b> Player.h:2020</div></div>
 <div class="ttc" id="aclassUnit_html_a0d13935c40d0392f7f7b5a34540461b2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2">Unit::getGender</a></div><div class="ttdeci">uint8 getGender() const</div><div class="ttdef"><b>Definition</b> Unit.h:848</div></div>
 <div class="ttc" id="aclassUnit_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition</b> Unit.h:843</div></div>
 <div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1103</div></div>
 <div class="ttc" id="aclassWorldObject_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition</b> Object.h:528</div></div>
 <div class="ttc" id="aclassWorldObject_html_ad498d690fbe69bb99a8a2ffdcb2f5169"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ad498d690fbe69bb99a8a2ffdcb2f5169">WorldObject::GetZoneId</a></div><div class="ttdeci">uint32 GetZoneId() const</div><div class="ttdef"><b>Definition</b> Object.cpp:3111</div></div>
-<div class="ttc" id="aclassWorldSession_html_a9fa5510daf576fe281d1961430902dd9"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">WorldSession::GetAccountId</a></div><div class="ttdeci">uint32 GetAccountId() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:443</div></div>
+<div class="ttc" id="aclassWorldSession_html_a9fa5510daf576fe281d1961430902dd9"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">WorldSession::GetAccountId</a></div><div class="ttdeci">uint32 GetAccountId() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:453</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00443">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00843">Unit::getClass()</a>, <a class="el" href="../../#l00848">Unit::getGender()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l02019">Player::GetSession()</a>, <a class="el" href="../../#l03111">WorldObject::GetZoneId()</a>, and <a class="el" href="../../#l00784">Guild::m_name</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00453">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00843">Unit::getClass()</a>, <a class="el" href="../../#l00848">Unit::getGender()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l03111">WorldObject::GetZoneId()</a>, and <a class="el" href="../../#l00784">Guild::m_name</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02182">Guild::AddMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02202">Guild::AddMember()</a>.</p>
 
 </div>
 </div>
@@ -1284,14 +1284,14 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  533</span>{</div>
-<div class="line"><span class="lineno">  534</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a42ea619dbe068118fef5fe0f8df59b5d">m_name</a>      = name;</div>
-<div class="line"><span class="lineno">  535</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a>     = level;</div>
-<div class="line"><span class="lineno">  536</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6956718526576c94e2dcbd1f1df1ca22">m_class</a>     = _class;</div>
-<div class="line"><span class="lineno">  537</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1293b721c1fc8408156405c7c7453211">m_gender</a>    = gender;</div>
-<div class="line"><span class="lineno">  538</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>    = zoneId;</div>
-<div class="line"><span class="lineno">  539</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ac23c1ce0e3b108c60f764e55e85b74b6">m_accountId</a> = accountId;</div>
-<div class="line"><span class="lineno">  540</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  534</span>{</div>
+<div class="line"><span class="lineno">  535</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a42ea619dbe068118fef5fe0f8df59b5d">m_name</a>      = name;</div>
+<div class="line"><span class="lineno">  536</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ad46839ef22978a08fbc1fa29a094ce3a">m_level</a>     = level;</div>
+<div class="line"><span class="lineno">  537</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6956718526576c94e2dcbd1f1df1ca22">m_class</a>     = _class;</div>
+<div class="line"><span class="lineno">  538</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1293b721c1fc8408156405c7c7453211">m_gender</a>    = gender;</div>
+<div class="line"><span class="lineno">  539</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ab4c9b49d59572784376580a298e3683e">m_zoneId</a>    = zoneId;</div>
+<div class="line"><span class="lineno">  540</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#ac23c1ce0e3b108c60f764e55e85b74b6">m_accountId</a> = accountId;</div>
+<div class="line"><span class="lineno">  541</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00784">Guild::m_name</a>.</p>
 
@@ -1380,7 +1380,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00377">receiveGuildBankUpdatePackets</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01824">Guild::SendBankTabsInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01844">Guild::SendBankTabsInfo()</a>.</p>
 
 </div>
 </div>
@@ -1410,7 +1410,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00377">receiveGuildBankUpdatePackets</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01841">Guild::SendPermissions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01861">Guild::SendPermissions()</a>.</p>
 
 </div>
 </div>
@@ -1445,24 +1445,24 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  650</span>{</div>
-<div class="line"><span class="lineno">  651</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId] += amount;</div>
-<div class="line"><span class="lineno">  652</span> </div>
-<div class="line"><span class="lineno">  653</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af1ab5463e71ef54c08efa64d11bead18">CHAR_INS_GUILD_MEMBER_WITHDRAW</a>);</div>
-<div class="line"><span class="lineno">  654</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  655</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>;)</div>
-<div class="line"><span class="lineno">  656</span>    {</div>
-<div class="line"><span class="lineno">  657</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> withdraw = <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[i++];</div>
-<div class="line"><span class="lineno">  658</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(i, withdraw);</div>
-<div class="line"><span class="lineno">  659</span>    }</div>
-<div class="line"><span class="lineno">  660</span> </div>
-<div class="line"><span class="lineno">  661</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.ExecuteOrAppend(trans, stmt);</div>
-<div class="line"><span class="lineno">  662</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  651</span>{</div>
+<div class="line"><span class="lineno">  652</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[tabId] += amount;</div>
+<div class="line"><span class="lineno">  653</span> </div>
+<div class="line"><span class="lineno">  654</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af1ab5463e71ef54c08efa64d11bead18">CHAR_INS_GUILD_MEMBER_WITHDRAW</a>);</div>
+<div class="line"><span class="lineno">  655</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a1a2739ceeaa9e2b90ba3ad5f8a0643c0">m_guid</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  656</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt;= <a class="code hl_enumvalue" href="../../d2/dea/Guild_8h.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7">GUILD_BANK_MAX_TABS</a>;)</div>
+<div class="line"><span class="lineno">  657</span>    {</div>
+<div class="line"><span class="lineno">  658</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> withdraw = <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a">m_bankWithdraw</a>[i++];</div>
+<div class="line"><span class="lineno">  659</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(i, withdraw);</div>
+<div class="line"><span class="lineno">  660</span>    }</div>
+<div class="line"><span class="lineno">  661</span> </div>
+<div class="line"><span class="lineno">  662</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.ExecuteOrAppend(trans, stmt);</div>
+<div class="line"><span class="lineno">  663</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7af1ab5463e71ef54c08efa64d11bead18"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af1ab5463e71ef54c08efa64d11bead18">CHAR_INS_GUILD_MEMBER_WITHDRAW</a></div><div class="ttdeci">@ CHAR_INS_GUILD_MEMBER_WITHDRAW</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:179</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00179">CHAR_INS_GUILD_MEMBER_WITHDRAW</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00042">GUILD_BANK_MAX_TABS</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01694">Guild::HandleMemberWithdrawMoney()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01708">Guild::HandleMemberWithdrawMoney()</a>.</p>
 
 </div>
 </div>
@@ -1480,9 +1480,9 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  583</span>{</div>
-<div class="line"><span class="lineno">  584</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a669e4b38f59430c01e2e9f863e71df48">m_logoutTime</a> = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
-<div class="line"><span class="lineno">  585</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  584</span>{</div>
+<div class="line"><span class="lineno">  585</span>    <a class="code hl_variable" href="../../d2/d93/classGuild_1_1Member.html#a669e4b38f59430c01e2e9f863e71df48">m_logoutTime</a> = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  586</span>}</div>
 <div class="ttc" id="anamespaceGameTime_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:38</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>.</p>
@@ -1857,7 +1857,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d79/classGuild.html">Guild</a></li><li class="navelem"><a class="el" href="../../d2/d93/classGuild_1_1Member.html">Member</a></li>
-    <li class="footer">Generated on Fri May 1 2026 08:08:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 2 2026 07:27:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

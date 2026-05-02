@@ -41,6 +41,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_pool.cpp", "d7/d29/cs__pool_8cpp.html", "d7/d29/cs__pool_8cpp" ],
     [ "cs_pooltools.cpp", "dd/d0a/cs__pooltools_8cpp.html", "dd/d0a/cs__pooltools_8cpp" ],
     [ "cs_quest.cpp", "d7/d21/cs__quest_8cpp.html", "d7/d21/cs__quest_8cpp" ],
+    [ "cs_rbac.cpp", "d4/d47/cs__rbac_8cpp.html", "d4/d47/cs__rbac_8cpp" ],
     [ "cs_reload.cpp", "de/dde/cs__reload_8cpp.html", "de/dde/cs__reload_8cpp" ],
     [ "cs_reset.cpp", "da/dfa/cs__reset_8cpp.html", "da/dfa/cs__reset_8cpp" ],
     [ "cs_script_loader.cpp", "d5/d1c/cs__script__loader_8cpp.html", "d5/d1c/cs__script__loader_8cpp" ],

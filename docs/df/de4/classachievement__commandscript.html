@@ -184,7 +184,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>: <a class="code hl_class" href="../../d1/d40/classCommandScript.html">CommandScript</a>(<span class="stringliteral">&quot;achievement_commandscript&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>: <a class="code hl_class" href="../../d1/d40/classCommandScript.html">CommandScript</a>(<span class="stringliteral">&quot;achievement_commandscript&quot;</span>) { }</div>
 <div class="ttc" id="aclassCommandScript_html"><div class="ttname"><a href="../../d1/d40/classCommandScript.html">CommandScript</a></div><div class="ttdef"><b>Definition</b> CommandScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -214,25 +214,25 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d1/d40/classCommandScript.html#a97dc7d00b78e0030ba2a950d23b2ebd2">CommandScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   32</span>    {</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> achievementCommandTable =</div>
-<div class="line"><span class="lineno">   34</span>        {</div>
-<div class="line"><span class="lineno">   35</span>            { <span class="stringliteral">&quot;add&quot;</span>,      <a class="code hl_function" href="../../df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7">HandleAchievementAddCommand</a>,      <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::Yes },</div>
-<div class="line"><span class="lineno">   36</span>            { <span class="stringliteral">&quot;checkall&quot;</span>, <a class="code hl_function" href="../../df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be">HandleAchievementCheckAllCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::Yes }</div>
-<div class="line"><span class="lineno">   37</span>        };</div>
-<div class="line"><span class="lineno">   38</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
-<div class="line"><span class="lineno">   39</span>        {</div>
-<div class="line"><span class="lineno">   40</span>            { <span class="stringliteral">&quot;achievement&quot;</span>, achievementCommandTable }</div>
-<div class="line"><span class="lineno">   41</span>        };</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> commandTable;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition</b> Common.h:60</div></div>
-<div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a></div><div class="ttdeci">@ SEC_GAMEMASTER</div><div class="ttdef"><b>Definition</b> Common.h:59</div></div>
-<div class="ttc" id="aclassachievement__commandscript_html_a0e3b83961ff20899a8492c8d8b7c13be"><div class="ttname"><a href="../../df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be">achievement_commandscript::HandleAchievementCheckAllCommand</a></div><div class="ttdeci">static bool HandleAchievementCheckAllCommand(ChatHandler *handler, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_achievement.cpp:70</div></div>
-<div class="ttc" id="aclassachievement__commandscript_html_a81a8dc82481b38763d846444b9846da7"><div class="ttname"><a href="../../df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7">achievement_commandscript::HandleAchievementAddCommand</a></div><div class="ttdeci">static bool HandleAchievementAddCommand(ChatHandler *handler, AchievementEntry const *achievementEntry, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_achievement.cpp:45</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   33</span>    {</div>
+<div class="line"><span class="lineno">   34</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> achievementCommandTable =</div>
+<div class="line"><span class="lineno">   35</span>        {</div>
+<div class="line"><span class="lineno">   36</span>            { <span class="stringliteral">&quot;add&quot;</span>,      <a class="code hl_function" href="../../df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7">HandleAchievementAddCommand</a>,      <a class="code hl_enumvalue" href="../../dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a498d9199ee867f88ec27157f1aea40f3">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_ADD</a>,      Console::Yes },</div>
+<div class="line"><span class="lineno">   37</span>            { <span class="stringliteral">&quot;checkall&quot;</span>, <a class="code hl_function" href="../../df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be">HandleAchievementCheckAllCommand</a>, <a class="code hl_enumvalue" href="../../dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a195f57ee6ee430edeec40a2346aa35d4">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_CHECKALL</a>, Console::Yes }</div>
+<div class="line"><span class="lineno">   38</span>        };</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
+<div class="line"><span class="lineno">   40</span>        {</div>
+<div class="line"><span class="lineno">   41</span>            { <span class="stringliteral">&quot;achievement&quot;</span>, achievementCommandTable }</div>
+<div class="line"><span class="lineno">   42</span>        };</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> commandTable;</div>
+<div class="line"><span class="lineno">   44</span>    }</div>
+<div class="ttc" id="aclassachievement__commandscript_html_a0e3b83961ff20899a8492c8d8b7c13be"><div class="ttname"><a href="../../df/de4/classachievement__commandscript.html#a0e3b83961ff20899a8492c8d8b7c13be">achievement_commandscript::HandleAchievementCheckAllCommand</a></div><div class="ttdeci">static bool HandleAchievementCheckAllCommand(ChatHandler *handler, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_achievement.cpp:71</div></div>
+<div class="ttc" id="aclassachievement__commandscript_html_a81a8dc82481b38763d846444b9846da7"><div class="ttname"><a href="../../df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7">achievement_commandscript::HandleAchievementAddCommand</a></div><div class="ttdeci">static bool HandleAchievementAddCommand(ChatHandler *handler, AchievementEntry const *achievementEntry, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_achievement.cpp:46</div></div>
 <div class="ttc" id="anamespaceAcore_1_1ChatCommands_html_a7aa1549a95f760a19b9b7ffd8e669626"><div class="ttname"><a href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">Acore::ChatCommands::ChatCommandTable</a></div><div class="ttdeci">std::vector&lt; ChatCommandBuilder &gt; ChatCommandTable</div><div class="ttdef"><b>Definition</b> ChatCommand.h:46</div></div>
+<div class="ttc" id="anamespacerbac_html_aa12620253ec88ac8516c1341cf7d8e04a195f57ee6ee430edeec40a2346aa35d4"><div class="ttname"><a href="../../dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a195f57ee6ee430edeec40a2346aa35d4">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_CHECKALL</a></div><div class="ttdeci">@ RBAC_PERM_COMMAND_ACHIEVEMENT_CHECKALL</div><div class="ttdef"><b>Definition</b> RBAC.h:135</div></div>
+<div class="ttc" id="anamespacerbac_html_aa12620253ec88ac8516c1341cf7d8e04a498d9199ee867f88ec27157f1aea40f3"><div class="ttname"><a href="../../dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a498d9199ee867f88ec27157f1aea40f3">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_ADD</a></div><div class="ttdeci">@ RBAC_PERM_COMMAND_ACHIEVEMENT_ADD</div><div class="ttdef"><b>Definition</b> RBAC.h:134</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">HandleAchievementAddCommand()</a>, <a class="el" href="../../#l00070">HandleAchievementCheckAllCommand()</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, and <a class="el" href="../../#l00059">SEC_GAMEMASTER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00046">HandleAchievementAddCommand()</a>, <a class="el" href="../../#l00071">HandleAchievementCheckAllCommand()</a>, <a class="el" href="../../#l00134">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_ADD</a>, and <a class="el" href="../../#l00135">rbac::RBAC_PERM_COMMAND_ACHIEVEMENT_CHECKALL</a>.</p>
 
 </div>
 </div>
@@ -275,40 +275,40 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   48</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd">PlayerIdentifier::FromTargetOrSelf</a>(handler);</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   51</span>        {</div>
-<div class="line"><span class="lineno">   52</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">   53</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   54</span>        }</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">if</span> (player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">   57</span>        {</div>
-<div class="line"><span class="lineno">   58</span>            player-&gt;GetConnectedPlayer()-&gt;CompletedAchievement(achievementEntry);</div>
-<div class="line"><span class="lineno">   59</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd">LANG_ACHIEVEMENT_ADD_ONLINE</a>, achievementEntry-&gt;ID, achievementEntry-&gt;name[0], player-&gt;GetName());</div>
-<div class="line"><span class="lineno">   60</span>        }</div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   62</span>        {</div>
-<div class="line"><span class="lineno">   63</span>            <a class="code hl_define" href="../../d7/dc5/AchievementMgr_8h.html#af422afe119839b631fd67247eddff1e6">sAchievementMgr</a>-&gt;CompletedAchievementForOfflinePlayer(player-&gt;GetGUID().GetCounter(), achievementEntry);</div>
-<div class="line"><span class="lineno">   64</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820">LANG_ACHIEVEMENT_ADD_OFFLINE</a>, achievementEntry-&gt;ID, achievementEntry-&gt;name[0], player-&gt;GetName());</div>
-<div class="line"><span class="lineno">   65</span>        }</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   68</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   49</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd">PlayerIdentifier::FromTargetOrSelf</a>(handler);</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   52</span>        {</div>
+<div class="line"><span class="lineno">   53</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
+<div class="line"><span class="lineno">   54</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   55</span>        }</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">if</span> (player-&gt;IsConnected())</div>
+<div class="line"><span class="lineno">   58</span>        {</div>
+<div class="line"><span class="lineno">   59</span>            player-&gt;GetConnectedPlayer()-&gt;CompletedAchievement(achievementEntry);</div>
+<div class="line"><span class="lineno">   60</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd">LANG_ACHIEVEMENT_ADD_ONLINE</a>, achievementEntry-&gt;ID, achievementEntry-&gt;name[0], player-&gt;GetName());</div>
+<div class="line"><span class="lineno">   61</span>        }</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   63</span>        {</div>
+<div class="line"><span class="lineno">   64</span>            <a class="code hl_define" href="../../d7/dc5/AchievementMgr_8h.html#af422afe119839b631fd67247eddff1e6">sAchievementMgr</a>-&gt;CompletedAchievementForOfflinePlayer(player-&gt;GetGUID().GetCounter(), achievementEntry);</div>
+<div class="line"><span class="lineno">   65</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820">LANG_ACHIEVEMENT_ADD_OFFLINE</a>, achievementEntry-&gt;ID, achievementEntry-&gt;name[0], player-&gt;GetName());</div>
+<div class="line"><span class="lineno">   66</span>        }</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   69</span>    }</div>
 <div class="ttc" id="aAchievementMgr_8h_html_af422afe119839b631fd67247eddff1e6"><div class="ttname"><a href="../../d7/dc5/AchievementMgr_8h.html#af422afe119839b631fd67247eddff1e6">sAchievementMgr</a></div><div class="ttdeci">#define sAchievementMgr</div><div class="ttdef"><b>Definition</b> AchievementMgr.h:451</div></div>
-<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a></div><div class="ttdeci">@ LANG_PLAYER_NOT_FOUND</div><div class="ttdef"><b>Definition</b> Language.h:545</div></div>
-<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd">LANG_ACHIEVEMENT_ADD_ONLINE</a></div><div class="ttdeci">@ LANG_ACHIEVEMENT_ADD_ONLINE</div><div class="ttdef"><b>Definition</b> Language.h:1451</div></div>
-<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820">LANG_ACHIEVEMENT_ADD_OFFLINE</a></div><div class="ttdeci">@ LANG_ACHIEVEMENT_ADD_OFFLINE</div><div class="ttdef"><b>Definition</b> Language.h:1452</div></div>
-<div class="ttc" id="aclassChatHandler_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:211</div></div>
-<div class="ttc" id="aclassChatHandler_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition</b> Chat.cpp:216</div></div>
+<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a></div><div class="ttdeci">@ LANG_PLAYER_NOT_FOUND</div><div class="ttdef"><b>Definition</b> Language.h:548</div></div>
+<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd">LANG_ACHIEVEMENT_ADD_ONLINE</a></div><div class="ttdeci">@ LANG_ACHIEVEMENT_ADD_ONLINE</div><div class="ttdef"><b>Definition</b> Language.h:1454</div></div>
+<div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820">LANG_ACHIEVEMENT_ADD_OFFLINE</a></div><div class="ttdeci">@ LANG_ACHIEVEMENT_ADD_OFFLINE</div><div class="ttdef"><b>Definition</b> Language.h:1455</div></div>
+<div class="ttc" id="aclassChatHandler_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:219</div></div>
+<div class="ttc" id="aclassChatHandler_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition</b> Chat.cpp:224</div></div>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1PlayerIdentifier_html_a617834cc8474970950b45066f2e86dbd"><div class="ttname"><a href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf</a></div><div class="ttdeci">static Optional&lt; PlayerIdentifier &gt; FromTargetOrSelf(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> ChatCommandTags.h:189</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00189">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l00041">AchievementEntry::ID</a>, <a class="el" href="../../#l01452">LANG_ACHIEVEMENT_ADD_OFFLINE</a>, <a class="el" href="../../#l01451">LANG_ACHIEVEMENT_ADD_ONLINE</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00045">AchievementEntry::name</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00451">sAchievementMgr</a>, and <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00189">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l00041">AchievementEntry::ID</a>, <a class="el" href="../../#l01455">LANG_ACHIEVEMENT_ADD_OFFLINE</a>, <a class="el" href="../../#l01454">LANG_ACHIEVEMENT_ADD_ONLINE</a>, <a class="el" href="../../#l00548">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00045">AchievementEntry::name</a>, <a class="el" href="../../#l00219">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00451">sAchievementMgr</a>, and <a class="el" href="../../#l00224">ChatHandler::SendErrorMessage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00032">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -345,33 +345,33 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   73</span>        {</div>
-<div class="line"><span class="lineno">   74</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#aea33fb49551ebc0f687f3d24dc3dfbea">PlayerIdentifier::FromTarget</a>(handler);</div>
-<div class="line"><span class="lineno">   75</span>        }</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   78</span>        {</div>
-<div class="line"><span class="lineno">   79</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">   80</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   81</span>        }</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">if</span> (player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">   84</span>        {</div>
-<div class="line"><span class="lineno">   85</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = player-&gt;GetConnectedPlayer())</div>
-<div class="line"><span class="lineno">   86</span>                target-&gt;CheckAllAchievementCriteria();</div>
-<div class="line"><span class="lineno">   87</span>        }</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   89</span>        {</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keyword">auto</span>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac9fef7f190825a55bd4ab323dd52945d">CHAR_UPD_ADD_AT_LOGIN_FLAG</a>);</div>
-<div class="line"><span class="lineno">   91</span>            stmt-&gt;SetData(0, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>(<a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcbac205e4677f04a9693190c8a07e262e3e">AT_LOGIN_CHECK_ACHIEVS</a>));</div>
-<div class="line"><span class="lineno">   92</span>            stmt-&gt;SetData(1, player-&gt;GetGUID().GetCounter());</div>
-<div class="line"><span class="lineno">   93</span>            <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">   94</span>        }</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   97</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>    {</div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   74</span>        {</div>
+<div class="line"><span class="lineno">   75</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#aea33fb49551ebc0f687f3d24dc3dfbea">PlayerIdentifier::FromTarget</a>(handler);</div>
+<div class="line"><span class="lineno">   76</span>        }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   79</span>        {</div>
+<div class="line"><span class="lineno">   80</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
+<div class="line"><span class="lineno">   81</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   82</span>        }</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">if</span> (player-&gt;IsConnected())</div>
+<div class="line"><span class="lineno">   85</span>        {</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = player-&gt;GetConnectedPlayer())</div>
+<div class="line"><span class="lineno">   87</span>                target-&gt;CheckAllAchievementCriteria();</div>
+<div class="line"><span class="lineno">   88</span>        }</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   90</span>        {</div>
+<div class="line"><span class="lineno">   91</span>            <span class="keyword">auto</span>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac9fef7f190825a55bd4ab323dd52945d">CHAR_UPD_ADD_AT_LOGIN_FLAG</a>);</div>
+<div class="line"><span class="lineno">   92</span>            stmt-&gt;SetData(0, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>(<a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcbac205e4677f04a9693190c8a07e262e3e">AT_LOGIN_CHECK_ACHIEVS</a>));</div>
+<div class="line"><span class="lineno">   93</span>            stmt-&gt;SetData(1, player-&gt;GetGUID().GetCounter());</div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
+<div class="line"><span class="lineno">   95</span>        }</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   98</span>    }</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7ac9fef7f190825a55bd4ab323dd52945d"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ac9fef7f190825a55bd4ab323dd52945d">CHAR_UPD_ADD_AT_LOGIN_FLAG</a></div><div class="ttdeci">@ CHAR_UPD_ADD_AT_LOGIN_FLAG</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:276</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
@@ -379,9 +379,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1PlayerIdentifier_html_aea33fb49551ebc0f687f3d24dc3dfbea"><div class="ttname"><a href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#aea33fb49551ebc0f687f3d24dc3dfbea">Acore::ChatCommands::PlayerIdentifier::FromTarget</a></div><div class="ttdeci">static Optional&lt; PlayerIdentifier &gt; FromTarget(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> ChatCommandTags.cpp:138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00596">AT_LOGIN_CHECK_ACHIEVS</a>, <a class="el" href="../../#l00276">CHAR_UPD_ADD_AT_LOGIN_FLAG</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00138">Acore::ChatCommands::PlayerIdentifier::FromTarget()</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, and <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00596">AT_LOGIN_CHECK_ACHIEVS</a>, <a class="el" href="../../#l00276">CHAR_UPD_ADD_AT_LOGIN_FLAG</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00138">Acore::ChatCommands::PlayerIdentifier::FromTarget()</a>, <a class="el" href="../../#l00548">LANG_PLAYER_NOT_FOUND</a>, and <a class="el" href="../../#l00224">ChatHandler::SendErrorMessage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00032">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -394,7 +394,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/de4/classachievement__commandscript.html">achievement_commandscript</a></li>
-    <li class="footer">Generated on Fri May 1 2026 08:07:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 2 2026 07:26:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -42,6 +42,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_pool_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a933dbb3e5588f0735759e9409b716e55", null ],
     [ "AddSC_pooltools_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a8c8907ff2ae66e87142b14909a2ee941", null ],
     [ "AddSC_quest_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ],
+    [ "AddSC_rbac_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ],
     [ "AddSC_reload_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ],
     [ "AddSC_reset_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ],
     [ "AddSC_send_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ],

@@ -121,6 +121,7 @@ $(document).ready(function(){initNavTree('db/db2/Chat_8cpp.html','../../'); init
 <code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Realm.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
@@ -181,14 +182,14 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8" name="a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8"></a>SPELL_LINK_CREATURE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7" name="a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7"></a>SPELL_LINK_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  683</span>{</div>
-<div class="line"><span class="lineno">  684</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028">SPELL_LINK_PLAYER</a>     = 0,                              <span class="comment">// must be first for selection in not link case</span></div>
-<div class="line"><span class="lineno">  685</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8">SPELL_LINK_CREATURE</a>   = 1,</div>
-<div class="line"><span class="lineno">  686</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7">SPELL_LINK_GAMEOBJECT</a> = 2</div>
-<div class="line"><span class="lineno">  687</span>};</div>
-<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028">SPELL_LINK_PLAYER</a></div><div class="ttdeci">@ SPELL_LINK_PLAYER</div><div class="ttdef"><b>Definition</b> Chat.cpp:684</div></div>
-<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8">SPELL_LINK_CREATURE</a></div><div class="ttdeci">@ SPELL_LINK_CREATURE</div><div class="ttdef"><b>Definition</b> Chat.cpp:685</div></div>
-<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7">SPELL_LINK_GAMEOBJECT</a></div><div class="ttdeci">@ SPELL_LINK_GAMEOBJECT</div><div class="ttdef"><b>Definition</b> Chat.cpp:686</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  691</span>{</div>
+<div class="line"><span class="lineno">  692</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028">SPELL_LINK_PLAYER</a>     = 0,                              <span class="comment">// must be first for selection in not link case</span></div>
+<div class="line"><span class="lineno">  693</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8">SPELL_LINK_CREATURE</a>   = 1,</div>
+<div class="line"><span class="lineno">  694</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7">SPELL_LINK_GAMEOBJECT</a> = 2</div>
+<div class="line"><span class="lineno">  695</span>};</div>
+<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028">SPELL_LINK_PLAYER</a></div><div class="ttdeci">@ SPELL_LINK_PLAYER</div><div class="ttdef"><b>Definition</b> Chat.cpp:692</div></div>
+<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8">SPELL_LINK_CREATURE</a></div><div class="ttdeci">@ SPELL_LINK_CREATURE</div><div class="ttdef"><b>Definition</b> Chat.cpp:693</div></div>
+<div class="ttc" id="aChat_8cpp_html_a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7">SPELL_LINK_GAMEOBJECT</a></div><div class="ttdeci">@ SPELL_LINK_GAMEOBJECT</div><div class="ttdef"><b>Definition</b> Chat.cpp:694</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -210,18 +211,18 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919" name="a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919"></a>SPELL_LINK_TRADE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e" name="a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e"></a>SPELL_LINK_GLYPH&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  610</span>{</div>
-<div class="line"><span class="lineno">  611</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd">SPELL_LINK_SPELL</a>   = 0,</div>
-<div class="line"><span class="lineno">  612</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56">SPELL_LINK_TALENT</a>  = 1,</div>
-<div class="line"><span class="lineno">  613</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654">SPELL_LINK_ENCHANT</a> = 2,</div>
-<div class="line"><span class="lineno">  614</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919">SPELL_LINK_TRADE</a>   = 3,</div>
-<div class="line"><span class="lineno">  615</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e">SPELL_LINK_GLYPH</a>   = 4</div>
-<div class="line"><span class="lineno">  616</span>};</div>
-<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd">SPELL_LINK_SPELL</a></div><div class="ttdeci">@ SPELL_LINK_SPELL</div><div class="ttdef"><b>Definition</b> Chat.cpp:611</div></div>
-<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e">SPELL_LINK_GLYPH</a></div><div class="ttdeci">@ SPELL_LINK_GLYPH</div><div class="ttdef"><b>Definition</b> Chat.cpp:615</div></div>
-<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56">SPELL_LINK_TALENT</a></div><div class="ttdeci">@ SPELL_LINK_TALENT</div><div class="ttdef"><b>Definition</b> Chat.cpp:612</div></div>
-<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654">SPELL_LINK_ENCHANT</a></div><div class="ttdeci">@ SPELL_LINK_ENCHANT</div><div class="ttdef"><b>Definition</b> Chat.cpp:613</div></div>
-<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919">SPELL_LINK_TRADE</a></div><div class="ttdeci">@ SPELL_LINK_TRADE</div><div class="ttdef"><b>Definition</b> Chat.cpp:614</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  618</span>{</div>
+<div class="line"><span class="lineno">  619</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd">SPELL_LINK_SPELL</a>   = 0,</div>
+<div class="line"><span class="lineno">  620</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56">SPELL_LINK_TALENT</a>  = 1,</div>
+<div class="line"><span class="lineno">  621</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654">SPELL_LINK_ENCHANT</a> = 2,</div>
+<div class="line"><span class="lineno">  622</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919">SPELL_LINK_TRADE</a>   = 3,</div>
+<div class="line"><span class="lineno">  623</span>    <a class="code hl_enumvalue" href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e">SPELL_LINK_GLYPH</a>   = 4</div>
+<div class="line"><span class="lineno">  624</span>};</div>
+<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd">SPELL_LINK_SPELL</a></div><div class="ttdeci">@ SPELL_LINK_SPELL</div><div class="ttdef"><b>Definition</b> Chat.cpp:619</div></div>
+<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e">SPELL_LINK_GLYPH</a></div><div class="ttdeci">@ SPELL_LINK_GLYPH</div><div class="ttdef"><b>Definition</b> Chat.cpp:623</div></div>
+<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56">SPELL_LINK_TALENT</a></div><div class="ttdeci">@ SPELL_LINK_TALENT</div><div class="ttdef"><b>Definition</b> Chat.cpp:620</div></div>
+<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654">SPELL_LINK_ENCHANT</a></div><div class="ttdeci">@ SPELL_LINK_ENCHANT</div><div class="ttdef"><b>Definition</b> Chat.cpp:621</div></div>
+<div class="ttc" id="aChat_8cpp_html_a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919"><div class="ttname"><a href="../../db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919">SPELL_LINK_TRADE</a></div><div class="ttdeci">@ SPELL_LINK_TRADE</div><div class="ttdef"><b>Definition</b> Chat.cpp:622</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -252,14 +253,14 @@ Variables</h2></td></tr>
 <div class="line">    <span class="stringliteral">&quot;Hgameobject&quot;</span>,</div>
 <div class="line">    0</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  690</span>{</div>
-<div class="line"><span class="lineno">  691</span>    <span class="stringliteral">&quot;Hplayer&quot;</span>,</div>
-<div class="line"><span class="lineno">  692</span>    <span class="stringliteral">&quot;Hcreature&quot;</span>,</div>
-<div class="line"><span class="lineno">  693</span>    <span class="stringliteral">&quot;Hgameobject&quot;</span>,</div>
-<div class="line"><span class="lineno">  694</span>    0</div>
-<div class="line"><span class="lineno">  695</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  698</span>{</div>
+<div class="line"><span class="lineno">  699</span>    <span class="stringliteral">&quot;Hplayer&quot;</span>,</div>
+<div class="line"><span class="lineno">  700</span>    <span class="stringliteral">&quot;Hcreature&quot;</span>,</div>
+<div class="line"><span class="lineno">  701</span>    <span class="stringliteral">&quot;Hgameobject&quot;</span>,</div>
+<div class="line"><span class="lineno">  702</span>    0</div>
+<div class="line"><span class="lineno">  703</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00697">ChatHandler::extractLowGuidFromLink()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00705">ChatHandler::extractLowGuidFromLink()</a>.</p>
 
 </div>
 </div>
@@ -291,16 +292,16 @@ Variables</h2></td></tr>
 <div class="line">    <span class="stringliteral">&quot;Hglyph&quot;</span>,                                               </div>
 <div class="line">    0</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  619</span>{</div>
-<div class="line"><span class="lineno">  620</span>    <span class="stringliteral">&quot;Hspell&quot;</span>,                                               <span class="comment">// normal spell</span></div>
-<div class="line"><span class="lineno">  621</span>    <span class="stringliteral">&quot;Htalent&quot;</span>,                                              <span class="comment">// talent spell</span></div>
-<div class="line"><span class="lineno">  622</span>    <span class="stringliteral">&quot;Henchant&quot;</span>,                                             <span class="comment">// enchanting recipe spell</span></div>
-<div class="line"><span class="lineno">  623</span>    <span class="stringliteral">&quot;Htrade&quot;</span>,                                               <span class="comment">// profession/skill spell</span></div>
-<div class="line"><span class="lineno">  624</span>    <span class="stringliteral">&quot;Hglyph&quot;</span>,                                               <span class="comment">// glyph</span></div>
-<div class="line"><span class="lineno">  625</span>    0</div>
-<div class="line"><span class="lineno">  626</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">  627</span>{</div>
+<div class="line"><span class="lineno">  628</span>    <span class="stringliteral">&quot;Hspell&quot;</span>,                                               <span class="comment">// normal spell</span></div>
+<div class="line"><span class="lineno">  629</span>    <span class="stringliteral">&quot;Htalent&quot;</span>,                                              <span class="comment">// talent spell</span></div>
+<div class="line"><span class="lineno">  630</span>    <span class="stringliteral">&quot;Henchant&quot;</span>,                                             <span class="comment">// enchanting recipe spell</span></div>
+<div class="line"><span class="lineno">  631</span>    <span class="stringliteral">&quot;Htrade&quot;</span>,                                               <span class="comment">// profession/skill spell</span></div>
+<div class="line"><span class="lineno">  632</span>    <span class="stringliteral">&quot;Hglyph&quot;</span>,                                               <span class="comment">// glyph</span></div>
+<div class="line"><span class="lineno">  633</span>    0</div>
+<div class="line"><span class="lineno">  634</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00628">ChatHandler::extractSpellIdFromLink()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00636">ChatHandler::extractSpellIdFromLink()</a>.</p>
 
 </div>
 </div>
@@ -310,7 +311,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../db/db2/Chat_8cpp.html">Chat.cpp</a></li>
-    <li class="footer">Generated on Fri May 1 2026 08:07:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat May 2 2026 07:26:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

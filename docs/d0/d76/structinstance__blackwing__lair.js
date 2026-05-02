@@ -1,7 +1,7 @@
 var structinstance__blackwing__lair =
 [
     [ "instance_blackwing_lair", "d0/d76/structinstance__blackwing__lair.html#acc616ac1ebc0a30b223b56db6d1d194d", null ],
-    [ "CheckRequiredBosses", "d0/d76/structinstance__blackwing__lair.html#a4a9399b6f1cfbae07aa39a941ab04de6", null ],
+    [ "CheckRequiredBosses", "d0/d76/structinstance__blackwing__lair.html#a5fe103f254c8eff91732c8241e564e6b", null ],
     [ "GetData", "d0/d76/structinstance__blackwing__lair.html#a8aa2cb3ec0fb6ac894fe2386bb587cd6", null ],
     [ "GetGuidData", "d0/d76/structinstance__blackwing__lair.html#a83845db9412c9db9020fe5cb916f15ed", null ],
     [ "Initialize", "d0/d76/structinstance__blackwing__lair.html#a897fb61d904ece635288d79823847f19", null ],

@@ -296,6 +296,10 @@ var annotated_dup =
       [ "SplineBase", "d4/d2d/classMovement_1_1SplineBase.html", "d4/d2d/classMovement_1_1SplineBase" ],
       [ "TransportPathTransform", "d6/d88/classMovement_1_1TransportPathTransform.html", "d6/d88/classMovement_1_1TransportPathTransform" ]
     ] ],
+    [ "rbac", "dc/d36/namespacerbac.html", [
+      [ "RBACData", "de/d28/classrbac_1_1RBACData.html", "de/d28/classrbac_1_1RBACData" ],
+      [ "RBACPermission", "d6/db3/classrbac_1_1RBACPermission.html", "d6/db3/classrbac_1_1RBACPermission" ]
+    ] ],
     [ "std", "d8/dcc/namespacestd.html", [
       [ "hash< ObjectGuid >", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4" ],
       [ "hash< SpellGroup >", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4" ],
@@ -557,6 +561,7 @@ var annotated_dup =
     [ "AccountFlagText", "db/dda/structAccountFlagText.html", "db/dda/structAccountFlagText" ],
     [ "AccountInfo", "d0/ddf/structAccountInfo.html", "d0/ddf/structAccountInfo" ],
     [ "AccountInfoQueryHolderPerRealm", "d1/dcd/classAccountInfoQueryHolderPerRealm.html", "d1/dcd/classAccountInfoQueryHolderPerRealm" ],
+    [ "AccountMgr", "df/d72/classAccountMgr.html", "df/d72/classAccountMgr" ],
     [ "AccountScript", "df/d30/classAccountScript.html", "df/d30/classAccountScript" ],
     [ "achievement_algalon_he_feeds_on_your_tears", "d4/d90/classachievement__algalon__he__feeds__on__your__tears.html", "d4/d90/classachievement__algalon__he__feeds__on__your__tears" ],
     [ "achievement_algalon_herald_of_the_titans", "d9/d8d/classachievement__algalon__herald__of__the__titans.html", "d9/d8d/classachievement__algalon__herald__of__the__titans" ],
@@ -3023,6 +3028,8 @@ var annotated_dup =
     [ "RandomPropertiesPointsEntry", "dd/d97/structRandomPropertiesPointsEntry.html", "dd/d97/structRandomPropertiesPointsEntry" ],
     [ "RangeSelector", "dc/d48/structRangeSelector.html", "dc/d48/structRangeSelector" ],
     [ "RASession", "d7/dc0/classRASession.html", "d7/dc0/classRASession" ],
+    [ "rbac_commandscript", "dd/da0/classrbac__commandscript.html", "dd/da0/classrbac__commandscript" ],
+    [ "RBACCommandData", "d6/d50/structRBACCommandData.html", "d6/d50/structRBACCommandData" ],
     [ "ReactorAI", "dc/dfb/classReactorAI.html", "dc/dfb/classReactorAI" ],
     [ "Realm", "d0/d7e/structRealm.html", "d0/d7e/structRealm" ],
     [ "RealmBuildInfo", "dc/d0e/structRealmBuildInfo.html", "dc/d0e/structRealmBuildInfo" ],

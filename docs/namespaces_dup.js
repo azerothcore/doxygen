@@ -1,22 +1,5 @@
 var namespaces_dup =
 [
-    [ "AccountMgr", "db/d92/namespaceAccountMgr.html", [
-      [ "ChangeEmail", "db/d92/namespaceAccountMgr.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-      [ "ChangePassword", "db/d92/namespaceAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-      [ "ChangeUsername", "db/d92/namespaceAccountMgr.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-      [ "CheckPassword", "db/d92/namespaceAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-      [ "CreateAccount", "db/d92/namespaceAccountMgr.html#a761f39260d15a979ce0214f212b936b7", null ],
-      [ "DeleteAccount", "db/d92/namespaceAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-      [ "GetCharactersCount", "db/d92/namespaceAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-      [ "GetId", "db/d92/namespaceAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-      [ "GetName", "db/d92/namespaceAccountMgr.html#af911e3860ec519c541d6df35468ee41b", null ],
-      [ "GetSecurity", "db/d92/namespaceAccountMgr.html#a8280510b2564ec6ea76727218c1687b3", null ],
-      [ "GetSecurity", "db/d92/namespaceAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-      [ "IsAdminAccount", "db/d92/namespaceAccountMgr.html#adb1b210137b09011677c74011addeefa", null ],
-      [ "IsConsoleAccount", "db/d92/namespaceAccountMgr.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-      [ "IsGMAccount", "db/d92/namespaceAccountMgr.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
-      [ "IsPlayerAccount", "db/d92/namespaceAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
-    ] ],
     [ "Acore", "d3/d0b/namespaceAcore.html", "d3/d0b/namespaceAcore" ],
     [ "AddonMgr", "de/dfb/namespaceAddonMgr.html", [
       [ "BannedAddonList", "de/dfb/namespaceAddonMgr.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
@@ -192,6 +175,7 @@ var namespaces_dup =
       [ "SerializeSettingsData", "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
       [ "UpdateSetting", "da/dd0/namespacePlayerSettingsStore.html#ab725e991f09f03e0413ffe44fa807ead", null ]
     ] ],
+    [ "rbac", "dc/d36/namespacerbac.html", "dc/d36/namespacerbac" ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
     [ "Trainer", "d1/d9f/namespaceTrainer.html", "d1/d9f/namespaceTrainer" ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", "dd/d34/namespaceVMAP" ],

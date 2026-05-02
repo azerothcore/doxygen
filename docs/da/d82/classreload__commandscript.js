@@ -87,6 +87,7 @@ var classreload__commandscript =
     [ "HandleReloadQuestGreetingCommand", "da/d82/classreload__commandscript.html#a68b7852605a3bf76ebaa8b66e66837de", null ],
     [ "HandleReloadQuestPOICommand", "da/d82/classreload__commandscript.html#adf117bd0305a576611307db9b1375ae9", null ],
     [ "HandleReloadQuestTemplateCommand", "da/d82/classreload__commandscript.html#a118a7e6b99a14c0dee1b422d1913ad97", null ],
+    [ "HandleReloadRBACCommand", "da/d82/classreload__commandscript.html#a0085e14e5614df1414d85f5da4f3df59", null ],
     [ "HandleReloadReputationRewardRateCommand", "da/d82/classreload__commandscript.html#a0d1cab200703391f3966b485887258ea", null ],
     [ "HandleReloadReputationSpilloverTemplateCommand", "da/d82/classreload__commandscript.html#ab50b35211e92815b3123c01d93dccbc6", null ],
     [ "HandleReloadReservedNameCommand", "da/d82/classreload__commandscript.html#a0b5e1729ed4bf66e273a25cf5cf474ad", null ],

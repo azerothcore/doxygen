@@ -33,6 +33,7 @@ var classChatHandler =
     [ "GetSessionDbLocaleIndex", "d6/d38/classChatHandler.html#a8621cc03a3c12dcad208c11a9402c1c6", null ],
     [ "HasLowerSecurity", "d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c", null ],
     [ "HasLowerSecurityAccount", "d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4", null ],
+    [ "HasPermission", "d6/d38/classChatHandler.html#a71d198eb5430bf6205d8081248cd16f0", null ],
     [ "HasSentErrorMessage", "d6/d38/classChatHandler.html#a69622145e2598da0ec2964761f03c0dc", null ],
     [ "HasSession", "d6/d38/classChatHandler.html#a85e675a33e68c0a03d12797ce8647c7c", null ],
     [ "IsAvailable", "d6/d38/classChatHandler.html#afdbe90fd350a062b2afae318284ce07d", null ],

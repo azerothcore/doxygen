@@ -101,6 +101,11 @@ var LoginDatabase_8h =
       [ "LOGIN_SEL_ACCOUNT_TOTP_SECRET", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba893c6ff6135e9e2d0bc0ece21ab5234f", null ],
       [ "LOGIN_UPD_ACCOUNT_TOTP_SECRET", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba4f6a2b080a418eb5b82581973b83964b", null ],
       [ "LOGIN_INS_UPTIME", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbafe38a012d9b99cd1261190afd3eafbc0", null ],
+      [ "LOGIN_GET_EMAIL_BY_ID", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0090b1c77ce28a227653df26d0f28b70", null ],
+      [ "LOGIN_SEL_RBAC_ACCOUNT_PERMISSIONS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba6d326005d8a0e730541f96b60dfef7cb", null ],
+      [ "LOGIN_INS_RBAC_ACCOUNT_PERMISSION", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbacf4f49299853c3979a9b0d327ef36cd2", null ],
+      [ "LOGIN_DEL_RBAC_ACCOUNT_PERMISSION", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba6239189de5eb7366ef4b9c9b2137ec0c", null ],
+      [ "LOGIN_SEL_RBAC_DEFAULT_PERMISSIONS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba894a702c4cb1564c080f55cf8cd679a4", null ],
       [ "MAX_LOGINDATABASE_STATEMENTS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba4a7dcdba7c9e8aeda8e34fba9d1da0b8", null ]
     ] ]
 ];
