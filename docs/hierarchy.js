@@ -2699,6 +2699,7 @@ var hierarchy =
     [ "HealInfoStub", "de/d07/classHealInfoStub.html", null ],
     [ "HealInfoStubBuilder", "d9/dfc/classHealInfoStubBuilder.html", null ],
     [ "HealthCheckEventData", "df/df6/structHealthCheckEventData.html", null ],
+    [ "Acore::HealthOrderPred", "d5/df0/classAcore_1_1HealthOrderPred.html", null ],
     [ "Acore::HealthPctOrderPred", "d8/d54/classAcore_1_1HealthPctOrderPred.html", null ],
     [ "HeightDifferenceCheck", "d4/d32/classHeightDifferenceCheck.html", null ],
     [ "SpellScript::HitHandler", "d1/d86/classSpellScript_1_1HitHandler.html", null ],

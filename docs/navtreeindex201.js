@@ -1,5 +1,16 @@
 var NAVTREEINDEX201 =
 {
+"d7/d81/classOPvPCapturePointEP__EWT.html#a6d45df918aea00e9cb85a8940cb5c1c9":[6,0,2333,5],
+"d7/d81/classOPvPCapturePointEP__EWT.html#a7ce76f4fc8169c42f65267daf987a3b6":[6,0,2333,2],
+"d7/d81/classOPvPCapturePointEP__EWT.html#aa30e9cc01476eb20b188c7a13a405c3a":[6,0,2333,8],
+"d7/d81/classOPvPCapturePointEP__EWT.html#ac00c50b89e1218f87506778096a9d7cd":[6,0,2333,1],
+"d7/d81/classOPvPCapturePointEP__EWT.html#ac0bcdfb9f2aeabc78b72c3cce674c479":[6,0,2333,7],
+"d7/d81/classOPvPCapturePointEP__EWT.html#ad70a8cc485072cd9af892290584062d8":[6,0,2333,6],
+"d7/d81/classOPvPCapturePointEP__EWT.html#aed78ccf9ad517b4a94431e3355cba1dd":[6,0,2333,3],
+"d7/d81/classspell__challenge__veraku.html":[6,0,2731],
+"d7/d81/classspell__challenge__veraku.html#a0d995c6ae6d1da0014c053a62b37a7b7":[6,0,2731,1],
+"d7/d81/classspell__challenge__veraku.html#a25f275e84570f674071bfae03aeb0ddc":[6,0,2731,2],
+"d7/d81/classspell__challenge__veraku.html#a4ad521364c6156c0ecef818a23ce7aff":[6,0,2731,0],
 "d7/d81/classspell__challenge__veraku.html#adc648151e2c61a61a0dc5883d9fa4ae0":[6,0,2731,3],
 "d7/d83/WheatyExceptionReport_8h.html":[7,0,0,0,0,5,3],
 "d7/d83/WheatyExceptionReport_8h.html#a1613d539e1a6f550edee20a905f7fcce":[7,0,0,0,0,5,3,12],
@@ -238,16 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,3,2,6],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a1a8e4b28c423ce50f2e94083a47fc7f7":[7,0,0,0,1,3,7,5,0,3,2,5],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,0,3,2,1],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,5,0,3,2,2],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a94f49f666155ca19221ac8c7535767e8":[7,0,0,0,1,3,7,5,0,3,2,4],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1acaa917d6cd587c3d5b14eb63105f3921":[7,0,0,0,1,3,7,5,0,3,2,3],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1af5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,5,0,3,2,0],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,5,0,3,1],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8f21973d74e56c6eaef55763395ab59f":[7,0,0,0,1,3,7,5,0,3,1,0],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,0,3,3],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca05b48077be45b7a365842b759dc4e1ed":[7,0,0,0,1,3,7,5,0,3,3,6],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca095d2aae75d044e4c03b5a67b906daa7":[7,0,0,0,1,3,7,5,0,3,3,7],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,7,5,0,3,3,0],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca704657a62f95cf33d4bf0fe33d15801c":[7,0,0,0,1,3,7,5,0,3,3,4],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cc181e262a5de2003fff21e281fcb86":[7,0,0,0,1,3,7,5,0,3,3,5]
+"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,5,0,3,2,2]
 };

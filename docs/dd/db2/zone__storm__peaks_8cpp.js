@@ -66,9 +66,6 @@ var zone__storm__peaks_8cpp =
       [ "EVENT_CHECK_AREA", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
       [ "EVENT_REACHED_HOME", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
     ] ],
-    [ "HyldsmeetProtoDrake", "dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7", null ]
-    ] ],
     [ "MammothExplosion", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757", [
       [ "SPELL_MAMMOTH_EXPL_1", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583", null ],
       [ "SPELL_MAMMOTH_EXPL_2", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a79c0eac8ad1de2d69a8a85cb05d1bd7c", null ],

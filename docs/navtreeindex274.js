@@ -1,5 +1,17 @@
 var NAVTREEINDEX274 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[6,0,712,0,16],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[6,0,712,0,3],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a9cfaa3b61da9a7aad88c2d2a537f0821":[6,0,712,0,21],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab02e42a863496b27a8f2b745085e30ea":[6,0,712,0,0],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,712,0,2],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a":[6,0,712,0,5],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abff1b505e9d2d6c826f814b2d43409af":[6,0,712,0,11],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[6,0,712,0,8],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#acb1e677b2347e0464df832e1d86cd3b5":[6,0,712,0,4],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ad2d10d5aeebea48809a61eee293ff9da":[6,0,712,0,13],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#addc25d8f87dd9fd627c0bde5944c037a":[6,0,712,0,18],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#aea65b981e8b9461750a53fca3919c27f":[6,0,712,0,1],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#af0151f1cb6776a3a180b4e24332c8489":[6,0,712,0,7],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html":[6,0,1363,0],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a2d8da39156e465ec987c518e747f453b":[6,0,1363,0,9],
@@ -237,17 +249,5 @@ var NAVTREEINDEX274 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2666,0],
 "da/dae/classspell__dru__glyph__of__shred.html":[6,0,2869],
 "da/dae/classspell__dru__glyph__of__shred.html#a87e742cdb4d12b287607d8d7cb00e84b":[6,0,2869,2],
-"da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[6,0,2869,3],
-"da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[6,0,2869,0],
-"da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[6,0,2869,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,13,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,13,8,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,13,8,10,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,34,8,10,2],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[6,0,13,8,10,2],
-"da/daf/classspell__contagion__of__rot.html":[6,0,2745],
-"da/daf/classspell__contagion__of__rot.html#a0f33043317402119aa14e50a1eb6c227":[6,0,2745,2]
+"da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[6,0,2869,3]
 };

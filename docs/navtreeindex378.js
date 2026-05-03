@@ -1,5 +1,15 @@
 var NAVTREEINDEX378 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81":[7,0,0,0,1,2,20,1,13,11],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[7,0,0,0,1,2,20,1,13,15],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[7,0,0,0,1,2,20,1,13,5],
+"de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37":[7,0,0,0,1,2,20,1,8,2],
+"de/d3d/Group_8h.html#ad409013260cb0aea80c911d24d7b5d00":[7,0,0,0,1,2,20,1,3],
+"de/d3d/Group_8h.html#afb58b37bfbd0e4d75c26cc40d4066a43":[7,0,0,0,1,2,20,1,4],
 "de/d3d/LFGMgr_8h.html":[7,0,0,0,1,2,15,5],
 "de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4":[7,0,0,0,1,2,15,5,29],
 "de/d3d/LFGMgr_8h.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913":[7,0,0,0,1,2,15,5,29,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX378 =
 "de/d48/classspell__sha__glyph__of__earth__shield.html#a54dd9a2a6646282897cabec00f092525":[6,0,4032,2],
 "de/d48/classspell__sha__glyph__of__earth__shield.html#a933975b17f340d9f458dc95b77aa43ac":[6,0,4032,0],
 "de/d48/classspell__sha__glyph__of__earth__shield.html#ad9df49f481d936068ebee0d2f6179e9f":[6,0,4032,1],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html":[6,0,4172],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[6,0,4172,2],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,4172,3],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[6,0,4172,0],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,4172,1],
-"de/d4a/classWorldMapScript.html":[6,0,4622],
-"de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4622,0],
-"de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4622,2],
-"de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4622,1],
-"de/d4a/classspell__brewfest__toss__mug.html":[6,0,2711],
-"de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2711,0]
+"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html":[6,0,4172]
 };

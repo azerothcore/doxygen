@@ -1,5 +1,17 @@
 var NAVTREEINDEX349 =
 {
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#ac86fb8a5a55654ff7697abd9162135c1":[6,0,1879,0,6],
+"dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3183],
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3183,2],
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[6,0,3183,0],
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[6,0,3183,3],
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[6,0,3183,1],
+"dd/da9/classspell__threatening__gaze__aura.html":[6,0,4187],
+"dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[6,0,4187,1],
+"dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[6,0,4187,0],
+"dd/da9/classspell__threatening__gaze__aura.html#ad2ae9bfa13c625608af9042584a9bfb8":[6,0,4187,2],
+"dd/daa/classOPvPCapturePointHP.html":[6,0,2337],
+"dd/daa/classOPvPCapturePointHP.html#a0191bec2d9492e21957ed9b4e0fed484":[6,0,2337,6],
 "dd/daa/classOPvPCapturePointHP.html#a42528a90eda9ec28dd00df3f0ec78a15":[6,0,2337,5],
 "dd/daa/classOPvPCapturePointHP.html#a7f5fa3e3bd28924965cc08f41b5d6bd8":[6,0,2337,0],
 "dd/daa/classOPvPCapturePointHP.html#a86e849e5387383a6c751e69350ffa07c":[6,0,2337,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dac/structModelEquip.html#a9de7aa11788b22692738b72718193057":[6,0,1545,3],
 "dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2],
 "dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
-"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8],
-"dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0],
-"dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
-"dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
-"dd/dad/PetitionMgr_8h.html#a2910b9c8b8c58925b562acf66b3e46d2":[7,0,0,0,1,2,33,1,4],
-"dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[7,0,0,0,1,2,33,1,3],
-"dd/dad/PetitionMgr_8h.html#a52c6b38c9d018efa6f8a95153a0eb2b5":[7,0,0,0,1,2,33,1,7],
-"dd/dad/PetitionMgr_8h.html#a541d3cf929662ff3a4ab97f63d54b16f":[7,0,0,0,1,2,33,1,6],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bb":[7,0,0,0,1,2,33,1,8],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d":[7,0,0,0,1,2,33,1,8,0],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[7,0,0,0,1,2,33,1,8,1],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[7,0,0,0,1,2,33,1,8,3],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470":[7,0,0,0,1,2,33,1,8,2]
+"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8]
 };

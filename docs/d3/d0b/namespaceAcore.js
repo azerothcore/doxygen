@@ -149,6 +149,7 @@ var namespaceAcore =
     [ "GeneralLock", "d6/dc7/classAcore_1_1GeneralLock.html", "d6/dc7/classAcore_1_1GeneralLock" ],
     [ "has_type", "d7/db4/structAcore_1_1has__type.html", null ],
     [ "has_type< T, std::tuple< Us... > >", "da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html", null ],
+    [ "HealthOrderPred", "d5/df0/classAcore_1_1HealthOrderPred.html", "d5/df0/classAcore_1_1HealthOrderPred" ],
     [ "HealthPctOrderPred", "d8/d54/classAcore_1_1HealthPctOrderPred.html", "d8/d54/classAcore_1_1HealthPctOrderPred" ],
     [ "is_tuple", "d4/da8/structAcore_1_1is__tuple.html", null ],
     [ "is_tuple< std::tuple< Ts... > >", "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html", null ],

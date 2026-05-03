@@ -1,5 +1,15 @@
 var NAVTREEINDEX405 =
 {
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,338,5],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,338,4],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,338,0],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[6,0,338,3],
+"df/d6e/BattlegroundBE_8cpp.html":[7,0,0,0,1,2,8,1,4],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html":[6,0,521,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a18ae481969ed0885122058b0ebf98cc8":[6,0,521,0,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437":[6,0,521,0,16],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1efec7ad0793812f83e808b961059875":[6,0,521,0,1],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a2223b2c287b2b21a7377ed49b2a65628":[6,0,521,0,10],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[6,0,521,0,9],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,521,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,521,0,18],
@@ -239,15 +249,5 @@ var NAVTREEINDEX405 =
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2183,0,7],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2183,0,0],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2293,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2293,0,3],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2293,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2293,0,2],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2293,0,1],
-"df/d77/classachievement__smell__saronite.html":[6,0,95],
-"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,95,0],
-"df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[6,0,95,1],
-"df/d77/classspell__drakkari__colossus__face__me.html":[6,0,2842],
-"df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2842,1],
-"df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2842,2],
-"df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2842,0]
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2293,0,3]
 };

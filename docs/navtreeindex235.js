@@ -1,5 +1,16 @@
 var NAVTREEINDEX235 =
 {
+"d8/ddc/structnpc__ulduar__saronite__vapors.html#af8d7e273a01b54bd5b96f186501f38c5":[6,0,2249,0],
+"d8/ddd/classnpc__cos__chromie__middle.html":[6,0,1727],
+"d8/ddd/classnpc__cos__chromie__middle.html#a105b62bd24fe3912c0f66c234a6dc670":[6,0,1727,1],
+"d8/ddd/classnpc__cos__chromie__middle.html#a1bb7229781c122d362e781d2737d0fd3":[6,0,1727,0],
+"d8/ddd/classnpc__cos__chromie__middle.html#a37ebdd257ef22554c81cf3c062856141":[6,0,1727,2],
+"d8/ddd/classnpc__cos__chromie__middle.html#a6af52ce23a90e7d8418e2c414c9c0fd4":[6,0,1727,3],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[6,0,3623],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[6,0,3623,1],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[6,0,3623,2],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[6,0,3623,0],
+"d8/ddd/classspell__sha__mana__tide.html":[6,0,4048],
 "d8/ddd/classspell__sha__mana__tide.html#a0093da1cb71f87bb7302bf6ccc9a255c":[6,0,4048,0],
 "d8/ddd/classspell__sha__mana__tide.html#a0332788648661d5c2665c5d1431e4ca7":[6,0,4048,2],
 "d8/ddd/classspell__sha__mana__tide.html#aecb5c0c9f5258a3ce7ff18cf08f89845":[6,0,4048,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX235 =
 "d8/de1/structCalendarInvite.html#abc265fe3f25e9fa2a6ae9094f427c0b0":[6,0,850,10],
 "d8/de1/structCalendarInvite.html#abc834aa4f0c75fc49320e110a2f5cb2b":[6,0,850,20],
 "d8/de1/structCalendarInvite.html#ac2b323dd70802562c497414e2cec300a":[6,0,850,3],
-"d8/de1/structCalendarInvite.html#ad6a17313390686f6a8fd2c7af26b98f9":[6,0,850,11],
-"d8/de1/structCalendarInvite.html#ae05cd257558e98112528a997e1faba02":[6,0,850,4],
-"d8/de1/structCalendarInvite.html#af3d5020fcca737e10a4aaac8b2194566":[6,0,850,8],
-"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[6,0,850,25],
-"d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[6,0,850,5],
-"d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[6,0,850,12],
-"d8/de1/structTrainer_1_1Spell.html":[6,0,10,0],
-"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,10,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2]
+"d8/de1/structCalendarInvite.html#ad6a17313390686f6a8fd2c7af26b98f9":[6,0,850,11]
 };

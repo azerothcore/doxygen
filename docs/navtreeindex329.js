@@ -1,5 +1,17 @@
 var NAVTREEINDEX329 =
 {
+"dc/db1/classMidsummerPlayerScript.html":[6,0,1529],
+"dc/db1/classMidsummerPlayerScript.html#ace19c3dfaec5aa5bdfab46552a759306":[6,0,1529,0],
+"dc/db1/classMidsummerPlayerScript.html#af512e1744264ac69fe2b7f7ba3836760":[6,0,1529,1],
+"dc/db1/classspell__gen__mount.html":[6,0,3060],
+"dc/db1/classspell__gen__mount.html#a1237697623e4831c25efcde1ab370031":[6,0,3060,7],
+"dc/db1/classspell__gen__mount.html#a49e2046d30352a6e22dab2530e909fa7":[6,0,3060,2],
+"dc/db1/classspell__gen__mount.html#a53ce7d1b5a39cce2bede77aad647dc7e":[6,0,3060,10],
+"dc/db1/classspell__gen__mount.html#a5e56853140f188ff1babc61c507f8300":[6,0,3060,6],
+"dc/db1/classspell__gen__mount.html#a81085b5efd8d9bd7c82ebb1cf6604793":[6,0,3060,1],
+"dc/db1/classspell__gen__mount.html#a8175ecc0c407d5c4646f038d7b62e92b":[6,0,3060,3],
+"dc/db1/classspell__gen__mount.html#aa9d0a936795d06dd78ef3c4d5aaf0320":[6,0,3060,8],
+"dc/db1/classspell__gen__mount.html#aae8c5c328dda0668bf8cdabc2c9cd29f":[6,0,3060,0],
 "dc/db1/classspell__gen__mount.html#abd6347074186b7c47ac5a2c760f4db33":[6,0,3060,5],
 "dc/db1/classspell__gen__mount.html#ac06b80d14cc106281c3e6bf3f6a5c727":[6,0,3060,9],
 "dc/db1/classspell__gen__mount.html#accef27fc13ff34af52860ad6ac62e7f3":[6,0,3060,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab0ad4be19678ff32aa826af2257aafe8":[7,0,0,0,1,3,5,1,1,3,7,1],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,1,3,4],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,5,1,1,3,4,2],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[7,0,0,0,1,3,5,1,1,3,4,5],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,1,1,3,4,7],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,1,1,3,4,0],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a483043dec22247ba5728a8f9126fa20a":[7,0,0,0,1,3,5,1,1,3,4,4],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a776724500598dde4c09d98ab3734dd8b":[7,0,0,0,1,3,5,1,1,3,4,1],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94e576c5e1cd6e3c291b9d20e35a3463":[7,0,0,0,1,3,5,1,1,3,4,3],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed480151967b7965189afbe87b7bcc44":[7,0,0,0,1,3,5,1,1,3,4,6],
-"dc/db7/classOutdoorPvPSI.html":[6,0,2361],
-"dc/db7/classOutdoorPvPSI.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c":[6,0,2361,13],
-"dc/db7/classOutdoorPvPSI.html#a10853a2f5766b6fc75044a20b281a198":[6,0,2361,3],
-"dc/db7/classOutdoorPvPSI.html#a401da5bef2350c4eb21b249b4f8b3e40":[6,0,2361,8],
-"dc/db7/classOutdoorPvPSI.html#a56bda08a795a4b0cd1c52ec448920fac":[6,0,2361,9],
-"dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077":[6,0,2361,1]
+"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[7,0,0,0,1,3,5,1,1,3,4,5]
 };

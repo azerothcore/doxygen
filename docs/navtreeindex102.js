@@ -248,6 +248,6 @@ var NAVTREEINDEX102 =
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ab1c7da00e8e1a20d2592ec26862867fc":[6,0,458,5],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[6,0,458,7],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4]
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4]
 };

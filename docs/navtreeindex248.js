@@ -1,5 +1,17 @@
 var NAVTREEINDEX248 =
 {
+"d9/d7c/SpellProcChargeTest_8cpp.html#a8ae02922feb6d525efc5203b349d36d8":[7,0,0,0,2,2,0,9,10,11],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a8cddad3956dbe3afd8a23e969ba46d05":[7,0,0,0,2,2,0,9,10,8],
+"d9/d7c/SpellProcChargeTest_8cpp.html#ab8fbc8d09d454845b486266a32ec0055":[7,0,0,0,2,2,0,9,10,10],
+"d9/d7c/SpellProcChargeTest_8cpp.html#ac539918ba1c029cc1ea195c532da00ad":[7,0,0,0,2,2,0,9,10,12],
+"d9/d7c/SpellProcChargeTest_8cpp.html#add201c56e63c8e3d4b9541d4b0ad8d1f":[7,0,0,0,2,2,0,9,10,6],
+"d9/d7c/SpellProcChargeTest_8cpp.html#af6b7ce5004d831afafdd960e76b497b9":[7,0,0,0,2,2,0,9,10,1],
+"d9/d7c/SpellProcChargeTest_8cpp.html#af9b31ad83d3c0000b3862f4271c5a670":[7,0,0,0,2,2,0,9,10,4],
+"d9/d7c/SpellProcChargeTest_8cpp.html#afdc5df5f8196781ca55254eda1bd09d0":[7,0,0,0,2,2,0,9,10,13],
+"d9/d7c/structboss__eck.html":[6,0,453],
+"d9/d7c/structboss__eck.html#a63125d970933d6fa1f196aa28c588f40":[6,0,453,4],
+"d9/d7c/structboss__eck.html#a665b54f72e674c8f65dd09daba5413db":[6,0,453,0],
+"d9/d7c/structboss__eck.html#a92e5117337d372e1700d074f02c06df6":[6,0,453,1],
 "d9/d7c/structboss__eck.html#ac719d6bbebe6c1c3e70d54f4bd48e116":[6,0,453,2],
 "d9/d7c/structboss__eck.html#aeaa0388d9fee4c6a025f823cd9e7e650":[6,0,453,3],
 "d9/d7e/classDatabaseLoader.html":[6,0,975],
@@ -237,17 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d86/structnpc__anub__ar__crusher.html#a70238afe4b9ae58b99067581db6734c8":[6,0,1623,2],
 "d9/d86/structnpc__anub__ar__crusher.html#ac20630563a1869f56f538968cb8bb1ea":[6,0,1623,3],
 "d9/d88/boss__assembly__of__iron_8cpp.html":[7,0,0,0,1,3,5,9,2,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee":[7,0,0,0,1,3,5,9,2,1,16],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,9,2,1,12],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a009ff3dd3a834eca415ba266c513203f":[7,0,0,0,1,3,5,9,2,1,12,8],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a0ca75d3d28cc8715d58618900624c42c":[7,0,0,0,1,3,5,9,2,1,12,7],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,9,2,1,12,15],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[7,0,0,0,1,3,5,9,2,1,12,4],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a8af35ba8d407858ebd5eb5ccebd0fcf5":[7,0,0,0,1,3,5,9,2,1,12,5],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a94c76b59138e1ce34314b5bd42963b03":[7,0,0,0,1,3,5,9,2,1,12,6],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ab0b53acc2b4505b4fea9d904562757d0":[7,0,0,0,1,3,5,9,2,1,12,3],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165accde0f15acdcdd79daae690e26a51739":[7,0,0,0,1,3,5,9,2,1,12,9],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ad2144fd58d2461cfcb17fd2a61fe59bc":[7,0,0,0,1,3,5,9,2,1,12,0],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ad3a87a2c88efa21ff935e2ee8e6fb1ac":[7,0,0,0,1,3,5,9,2,1,12,11],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165adb3c4c4961002363d163bc8a85a9e168":[7,0,0,0,1,3,5,9,2,1,12,12]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee":[7,0,0,0,1,3,5,9,2,1,16]
 };

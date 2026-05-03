@@ -1,5 +1,17 @@
 var NAVTREEINDEX284 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6351d79ac2a9fbf63cca0fee0dcb670e":[7,0,0,0,1,3,5,4,0,1,6,3],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa3cdca173c6ef467405d6b051b353a03":[7,0,0,0,1,3,5,4,0,1,6,5],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa6464091ba95df048d18c93e4cc19816":[7,0,0,0,1,3,5,4,0,1,6,9],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aad34a5e4555dd59573760cdfd0c0a7f8":[7,0,0,0,1,3,5,4,0,1,6,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab142d6a2fefa77506cdca07ae01215a4":[7,0,0,0,1,3,5,4,0,1,6,6],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb91ec7a452209d34726fd67b9984bbd":[7,0,0,0,1,3,5,4,0,1,6,7],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604":[7,0,0,0,1,3,5,4,0,1,4],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a2f8d5929bed1376b20cd55892d56f1d4":[7,0,0,0,1,3,5,4,0,1,4,1],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a60266b0a813b2164553ff61212be0806":[7,0,0,0,1,3,5,4,0,1,4,0],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a7ee27a3e011c4fa5ff502141f5260d1b":[7,0,0,0,1,3,5,4,0,1,4,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,4,0,1,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1742a9f88886de4ba4336fff92df0969":[7,0,0,0,1,3,5,4,0,1,2,4],
 "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8f90790c6bb986c22688700bf880cf84":[7,0,0,0,1,3,5,4,0,1,2,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc79c7968016107148a4e87df3e5dc88":[7,0,0,0,1,3,5,4,0,1,2,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abd73e5d92dabc0698fb7e80a37148d92":[7,0,0,0,1,3,5,4,0,1,2,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX284 =
 "db/d14/structnpc__necrotic__shard.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2":[6,0,2000,3],
 "db/d14/structnpc__necrotic__shard.html#a83e16b403c352c29a4274d3641876e72":[6,0,2000,6],
 "db/d14/structnpc__necrotic__shard.html#a86289f7c8ec1f3a52c7d88b1be15201d":[6,0,2000,1],
-"db/d14/structnpc__necrotic__shard.html#a9a3dfceaa896a63cbf4b517acc243468":[6,0,2000,5],
-"db/d14/structnpc__necrotic__shard.html#aa38be6224d7712e710861a4b3ba0424e":[6,0,2000,17],
-"db/d14/structnpc__necrotic__shard.html#aa456d50b6e77bc86ecf0399474ced4d3":[6,0,2000,20],
-"db/d14/structnpc__necrotic__shard.html#aa71daa74d312f6da03ccd64a8141624b":[6,0,2000,10],
-"db/d14/structnpc__necrotic__shard.html#acf6c33a5b342e5a6a97e5f7565d8dc87":[6,0,2000,19],
-"db/d14/structnpc__necrotic__shard.html#aecc545eefc308b525052f86bfab5b390":[6,0,2000,9],
-"db/d14/structnpc__necrotic__shard.html#aeea71f3ba1e79722280da9b7adf5c212":[6,0,2000,14],
-"db/d14/structnpc__necrotic__shard.html#aef06aa96540360a9edf7006f6438ad5d":[6,0,2000,13],
-"db/d16/classTransportScript.html":[6,0,4509],
-"db/d16/classTransportScript.html#a10334c1929c80fc80c76791cbd52f6dd":[6,0,4509,4],
-"db/d16/classTransportScript.html#a4b83123b122fa98831d304670a3de50a":[6,0,4509,0],
-"db/d16/classTransportScript.html#a5afb1f1dca2264089238ddd68b38a86d":[6,0,4509,2],
-"db/d16/classTransportScript.html#a6d6a3af4fcde46101b78cfdb787a2248":[6,0,4509,5]
+"db/d14/structnpc__necrotic__shard.html#a9a3dfceaa896a63cbf4b517acc243468":[6,0,2000,5]
 };

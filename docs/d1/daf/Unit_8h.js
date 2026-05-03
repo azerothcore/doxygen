@@ -14,6 +14,7 @@ var Unit_8h =
     [ "Unit", "df/dd9/classUnit.html", "df/dd9/classUnit" ],
     [ "Acore::PowerPctOrderPred", "de/d84/classAcore_1_1PowerPctOrderPred.html", "de/d84/classAcore_1_1PowerPctOrderPred" ],
     [ "Acore::HealthPctOrderPred", "d8/d54/classAcore_1_1HealthPctOrderPred.html", "d8/d54/classAcore_1_1HealthPctOrderPred" ],
+    [ "Acore::HealthOrderPred", "d5/df0/classAcore_1_1HealthOrderPred.html", "d5/df0/classAcore_1_1HealthOrderPred" ],
     [ "RedirectSpellEvent", "df/d36/classRedirectSpellEvent.html", "df/d36/classRedirectSpellEvent" ],
     [ "ATTACK_DISPLAY_DELAY", "d1/daf/Unit_8h.html#aa02d6a93a0021b2c52a47f8bb09a173a", null ],
     [ "BASE_ATTACK_TIME", "d1/daf/Unit_8h.html#a6e75af6bfeb72695535b30f4523d119a", null ],

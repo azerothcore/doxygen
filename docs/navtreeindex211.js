@@ -1,5 +1,16 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#af05eed23dd475968012d351409ea0a88":[6,0,1500,134],
+"d7/db0/classMap.html#af0a630f225718009751c788dbcbf5333":[6,0,1500,72],
+"d7/db0/classMap.html#af18e5d1cb5b4bc8a32bc110db9eb01e0":[6,0,1500,2],
+"d7/db0/classMap.html#af2990e58de7fd1209a0dfaa882e673e2":[6,0,1500,117],
+"d7/db0/classMap.html#af3ba8ab9646c178dbfc200b05f1fc61b":[6,0,1500,65],
+"d7/db0/classMap.html#af49b3d9b7430e4b97b4dd5d0a445b1b4":[6,0,1500,14],
+"d7/db0/classMap.html#af7929a91ed54d407a0a6f73d3e00328a":[6,0,1500,260],
+"d7/db0/classMap.html#afb24002cb0fa4795e2d9be2241189be6":[6,0,1500,90],
+"d7/db0/classMap.html#afb56cdfd01730436842936eeaf8bf680":[6,0,1500,16],
+"d7/db0/classMap.html#afc0c7ae3323094afa8268d6dc5f58866":[6,0,1500,246],
+"d7/db0/classMap.html#afcd54ac86c6ed6ab8b9d7bd5ffdce594":[6,0,1500,217],
 "d7/db0/classMap.html#afd63265aea0b66772abec69628d82c3c":[6,0,1500,212],
 "d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79":[6,0,1500,137],
 "d7/db0/classspell__rog__focused__attacks.html":[6,0,3960],
@@ -238,16 +249,5 @@ var NAVTREEINDEX211 =
 "d7/dbe/classspell__putricide__mutation__init.html#a0d6745dab09cdd228fc802e482c3d15c":[6,0,3813,2],
 "d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7":[6,0,3813,0],
 "d7/dbe/classspell__putricide__mutation__init.html#a95a250aeb3a41922c529f476d39f18e4":[6,0,3813,3],
-"d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54":[6,0,3813,1],
-"d7/dbf/PlayerQuest_8cpp.html":[7,0,0,0,1,2,16,7,8],
-"d7/dbf/classnpc__infernal__attacker.html":[6,0,1907],
-"d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1907,1],
-"d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1907,2],
-"d7/dc0/TestMap_8h.html":[7,0,0,0,2,1,9],
-"d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4":[7,0,0,0,1,3,5,2,1,4,13,1],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf":[7,0,0,0,1,3,5,2,1,4,13,2],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a7856b7938de2e6a89176fb130bb602db":[7,0,0,0,1,3,5,2,1,4,13,0],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a8a7aff98e443da9bf05b24611779948e":[7,0,0,0,1,3,5,2,1,4,13,3]
+"d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54":[6,0,3813,1]
 };

@@ -71,7 +71,8 @@ var zone__terokkar__forest_8cpp =
       [ "SAY_SUBMIT", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c", null ],
       [ "FACTION_HOSTILE", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a9f091068e93fe04fde1b2d77d34d5fcf", null ],
       [ "QUEST_DONTKILLTHEFATONE", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac9b055761d26e7020af8fca0ad0914e8", null ],
-      [ "SPELL_PULVERIZE", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6", null ]
+      [ "SPELL_PULVERIZE", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6", null ],
+      [ "SUBMIT_DURATION", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a90adcab84495ca594eeb6530798a7afe", null ]
     ] ],
     [ "AddSC_terokkar_forest", "d6/d75/zone__terokkar__forest_8cpp.html#a06eb16b2a9cfacc1641cf49759c7615e", null ]
 ];

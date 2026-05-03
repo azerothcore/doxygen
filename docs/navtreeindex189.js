@@ -1,5 +1,16 @@
 var NAVTREEINDEX189 =
 {
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a8b510bce47929e85741f5debd857de8d":[6,0,2017,0,7],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a9280b604135308078860c20667da9819":[6,0,2017,0,9],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aa0633855e57f6681cfc68a8dfee9a733":[6,0,2017,0,0],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1":[6,0,2017,0,6],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[6,0,2017,0,2],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#afc6c4faffd83b2fa4ddbb4ae78b622d9":[6,0,2017,0,3],
+"d6/ddb/boss__garr_8cpp.html":[7,0,0,0,1,3,2,1,3,1],
+"d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,1,5],
+"d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca26560c094f9c511db90eafa7bde3bcd3":[7,0,0,0,1,3,2,1,3,1,5,0],
+"d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f6216339af21a7c031ccad15b3a196f":[7,0,0,0,1,3,2,1,3,1,5,2],
+"d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca495dbf5ca76d2c5bc292154ac9a8e0bd":[7,0,0,0,1,3,2,1,3,1,5,7],
 "d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e914b16da47628910601ceebbf2c0d7":[7,0,0,0,1,3,2,1,3,1,5,6],
 "d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca80ac6c35d7eea80d7b470009df5b4755":[7,0,0,0,1,3,2,1,3,1,5,1],
 "d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff0875ad766fb9077acaa077e9e8ec7":[7,0,0,0,1,3,2,1,3,1,5,4],
@@ -236,18 +247,7 @@ var NAVTREEINDEX189 =
 "d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[6,0,1676,0],
 "d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[6,0,1676,1],
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1676,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,13,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,13,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,13,11,0,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,13,11,0,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
-"d6/dec/classachievement__bg__sa__artillery.html":[6,0,46],
-"d6/dec/classachievement__bg__sa__artillery.html#aa81ae215bc91fd4598d7c9a1b02e3fcc":[6,0,46,0],
-"d6/dec/classachievement__bg__sa__artillery.html#ac24f32f872ae32e90f06f642ea2dfebc":[6,0,46,1],
-"d6/dec/classinstance__onyxias__lair.html":[6,0,1347],
-"d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1347,1],
-"d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1347,2]
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,13,11,0],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1]
 };

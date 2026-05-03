@@ -1,5 +1,17 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7fd813e06cda4b3511b0a4f9ee916660":[7,0,0,0,1,3,5,9,2,16,6,11],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a80d3db86bfdf52a53c9a23d5855d6268":[7,0,0,0,1,3,5,9,2,16,6,12],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a86bb473cdff2581c0b69cd1767657e06":[7,0,0,0,1,3,5,9,2,16,6,2],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a88c0c7271ad18ceee95208be79ac9368":[7,0,0,0,1,3,5,9,2,16,6,23],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a9f056a676818f118e5ecaf457621049f":[7,0,0,0,1,3,5,9,2,16,6,17],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa42e0f5cd84525aa3ab0c90b00331de1":[7,0,0,0,1,3,5,9,2,16,6,0],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380":[7,0,0,0,1,3,5,9,2,16,6,5],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab3b8ae70d7bc7f2ce141858d02c28097":[7,0,0,0,1,3,5,9,2,16,6,22],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab6e7c93923c4c56d867e5e968ea34c94":[7,0,0,0,1,3,5,9,2,16,6,24],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ad5c27996801d50d6be6f4f24bb371a85":[7,0,0,0,1,3,5,9,2,16,6,9],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ae039e5d4811a447446b8e6ede2e87b3a":[7,0,0,0,1,3,5,9,2,16,6,16],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78af940e143a749cc46af18f08274f1235e":[7,0,0,0,1,3,5,9,2,16,6,4],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392":[7,0,0,0,1,3,5,9,2,16,3],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a126c5ec496a2450c64ac21a3cf91b4dd":[7,0,0,0,1,3,5,9,2,16,3,1],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3":[7,0,0,0,1,3,5,9,2,16,3,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX256 =
 "d9/dfb/structboss__temporus.html#a9186e51d240aff2ffaab99e3b423ded9":[6,0,736,1],
 "d9/dfb/structboss__temporus.html#a99356589a048debbc308b8431259da5c":[6,0,736,5],
 "d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,736,0],
-"d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,736,2],
-"d9/dfc/classHealInfoStubBuilder.html":[6,0,1282],
-"d9/dfc/classHealInfoStubBuilder.html#a291565d223df00ce9d09c0315e803448":[6,0,1282,1],
-"d9/dfc/classHealInfoStubBuilder.html#a34a359322b018cffc5f54ca999c11b11":[6,0,1282,3],
-"d9/dfc/classHealInfoStubBuilder.html#a4dc784241fbe998437cceb953fb83e1f":[6,0,1282,7],
-"d9/dfc/classHealInfoStubBuilder.html#a57945de96ad065451cadb47edba287c8":[6,0,1282,0],
-"d9/dfc/classHealInfoStubBuilder.html#a812e06b07eeb18c1d379409b77a80b89":[6,0,1282,4],
-"d9/dfc/classHealInfoStubBuilder.html#a89c12c30725eb2bdc3889005a38d54eb":[6,0,1282,6],
-"d9/dfc/classHealInfoStubBuilder.html#aa09160afe48114a7a3566be328f64658":[6,0,1282,2],
-"d9/dfc/classHealInfoStubBuilder.html#ab788ddcc209140ed3c10b02785471dcb":[6,0,1282,5],
-"d9/dfc/classHealInfoStubBuilder.html#ad0da544c651e387d8c6e9b272aa3db7b":[6,0,1282,8],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2690],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[6,0,2690,1]
+"d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,736,2]
 };
