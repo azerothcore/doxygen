@@ -1,5 +1,8 @@
 var NAVTREEINDEX187 =
 {
+"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[6,0,0,61,3],
+"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[5,0,0,73,0],
+"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[6,0,0,61,0],
 "d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[6,0,0,61,2],
 "d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[5,0,0,73,2],
 "d6/dc7/classCreatureGroup.html":[6,0,948],
@@ -199,8 +202,8 @@ var NAVTREEINDEX187 =
 "d6/dcd/classspell__the__cleansing__shrine__cast.html#aa3153a940a762a7ee09e7c62b6b61053":[6,0,4152,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[6,0,13,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,34,6,28],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,13,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,13,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,13,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,13,6,28,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX187 =
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b56d1f01458c135d046a1cb12a0ac8b":[7,0,0,0,1,3,5,5,3,6,5],
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3f23eb74244e1ad1b4311b6dc0c1891":[7,0,0,0,1,3,5,5,3,6,2],
 "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a":[7,0,0,0,1,3,5,5,3,6,1],
-"d6/dcf/boss__moorabi_8cpp.html#afdf2728763fb0b3eb1dd510bb2b6bbce":[7,0,0,0,1,3,5,5,3,7],
-"d6/dd0/pet__shaman_8cpp.html":[7,0,0,0,1,3,8,5],
-"d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124c":[7,0,0,0,1,3,8,5,2],
-"d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73":[7,0,0,0,1,3,8,5,2,2]
+"d6/dcf/boss__moorabi_8cpp.html#afdf2728763fb0b3eb1dd510bb2b6bbce":[7,0,0,0,1,3,5,5,3,7]
 };

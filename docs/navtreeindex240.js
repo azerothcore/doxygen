@@ -1,5 +1,13 @@
 var NAVTREEINDEX240 =
 {
+"d9/d20/classWhoListPlayerInfo.html#a1d87a4020272e3b4dce22c814c109edb":[6,0,4600,18],
+"d9/d20/classWhoListPlayerInfo.html#a2652ef655f60708295ba64a1f1e7eb1b":[6,0,4600,20],
+"d9/d20/classWhoListPlayerInfo.html#a2ada6671a6d1d09e5a867e9b3b698b3d":[6,0,4600,17],
+"d9/d20/classWhoListPlayerInfo.html#a39a5ed821fde291ef6480e64b8755a04":[6,0,4600,11],
+"d9/d20/classWhoListPlayerInfo.html#a3fdf1ed2c30f26c82b5f038c13bd902f":[6,0,4600,15],
+"d9/d20/classWhoListPlayerInfo.html#a58732659b8a4f7da7cb169f9e28081e5":[6,0,4600,19],
+"d9/d20/classWhoListPlayerInfo.html#a5e574ae52509f19b32c94d2dd9afca3f":[6,0,4600,23],
+"d9/d20/classWhoListPlayerInfo.html#a5fca123daef2db04fcc1244df8e0a58f":[6,0,4600,25],
 "d9/d20/classWhoListPlayerInfo.html#a652eb07df8514353376e2870bfc7faa0":[6,0,4600,9],
 "d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9":[6,0,4600,26],
 "d9/d20/classWhoListPlayerInfo.html#a6aa45f6fa316ba650525d77704db53f7":[6,0,4600,6],
@@ -136,8 +144,8 @@ var NAVTREEINDEX240 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3368,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,13,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,13,14,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d31/RBAC_8cpp.html#ad45fe4229235a57fc4952a69ede78410":[7,0,0,0,1,2,0,2,0],
 "d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
 "d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3755],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3755,1],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a7381cbea873fb57485e4539aa478d236":[6,0,3755,2],
-"d9/d31/classspell__pilgrims__bounty__serve__generic.html#ad16e8b64999771154360afad71454c07":[6,0,3755,0],
-"d9/d31/structnpc__hyldsmeet__protodrake.html":[6,0,1882],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#a0067d3b394c967946e329ea25c2dc315":[6,0,1882,1],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#a409a5f5eace583ef874421819c975ed8":[6,0,1882,0],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#a49ce0b6b324b968b1b2902c1db037a53":[6,0,1882,2],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a":[6,0,1882,4],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#af9a5984f66eb3a1a26e8c1640bcf7597":[6,0,1882,3]
+"d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3755,1]
 };

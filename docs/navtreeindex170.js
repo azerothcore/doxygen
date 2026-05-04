@@ -1,5 +1,8 @@
 var NAVTREEINDEX170 =
 {
+"d6/d14/structGameObjectDisplayInfoEntry.html#a0cee5b90a15b39e1ff49231e332cc320":[6,0,1107,1],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a10563ae885d34e516825a18db95b40e7":[6,0,1107,2],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a4aa3c391401f39d6f4a595f4dff0668b":[6,0,1107,0],
 "d6/d14/structGameObjectDisplayInfoEntry.html#a711286df6d2bd74246dee2170052c17a":[6,0,1107,3],
 "d6/d14/structGameObjectDisplayInfoEntry.html#a7168f5b3229bd27edde78e88bf7dc20a":[6,0,1107,6],
 "d6/d14/structGameObjectDisplayInfoEntry.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da":[6,0,1107,5],
@@ -41,8 +44,8 @@ var NAVTREEINDEX170 =
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,13,6,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,13,6,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
 "d6/d18/classModel.html":[6,0,1544],
@@ -246,8 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2651,2],
 "d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2651,1],
 "d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2651,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2823],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2823,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2823,2],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2823,1]
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2823]
 };

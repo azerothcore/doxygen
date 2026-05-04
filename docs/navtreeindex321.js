@@ -1,5 +1,15 @@
 var NAVTREEINDEX321 =
 {
+"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[6,0,3409,5],
+"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[6,0,3409,2],
+"dc/d39/structnpc__janalai__hatcher.html":[6,0,1921],
+"dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[6,0,1921,10],
+"dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[6,0,1921,0],
+"dc/d39/structnpc__janalai__hatcher.html#a3a0170bc53f9f8f96090e34097b90c2c":[6,0,1921,4],
+"dc/d39/structnpc__janalai__hatcher.html#a4ae2157e37bb93b7465e029e526a6ce4":[6,0,1921,3],
+"dc/d39/structnpc__janalai__hatcher.html#a54c251278dcfa22052b6c6e49a4abd89":[6,0,1921,2],
+"dc/d39/structnpc__janalai__hatcher.html#a5a7826964349ed9adbbdeb7c733dd915":[6,0,1921,1],
+"dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[6,0,1921,8],
 "dc/d39/structnpc__janalai__hatcher.html#ab1c3945160c55b2b2d63763eacced473":[6,0,1921,6],
 "dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[6,0,1921,11],
 "dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[6,0,1921,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94c2a8317a1737e1281190629eeb6855":[7,0,0,0,1,3,5,7,13,3,3],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,13,3,0],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa01791719f85184f63a33a611a915e2b":[7,0,0,0,1,3,5,7,13,3,7],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa4c535acb8c4322e059df4a57b14bf11":[7,0,0,0,1,3,5,7,13,3,9],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abda46ba2baef05ca366eda88abde76a0":[7,0,0,0,1,3,5,7,13,3,5],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abe3ac13e4769e945ff1bca6c51c6d736":[7,0,0,0,1,3,5,7,13,3,6],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac6daafb50ca151d594546783ae4044e6":[7,0,0,0,1,3,5,7,13,3,10],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7748bbd75996b6fd1580c54fc1e883b":[7,0,0,0,1,3,5,7,13,3,4],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,7,13,3,1],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,7,13,3,11],
-"dc/d49/classSecretMgr.html":[6,0,2548],
-"dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2548,9],
-"dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[6,0,2548,8],
-"dc/d49/classSecretMgr.html#a28ee0858a14656d7fc464eb604b127b7":[6,0,2548,1]
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa4c535acb8c4322e059df4a57b14bf11":[7,0,0,0,1,3,5,7,13,3,9]
 };

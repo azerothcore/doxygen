@@ -1,5 +1,15 @@
 var NAVTREEINDEX325 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aec51ad24c8152f7f821576aa2fbaa5ad":[7,0,0,0,1,3,5,7,5,9,1],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,5,10],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dd4744c8d528ca10f6d77005740da62":[7,0,0,0,1,3,5,7,5,10,6],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8eec3c63909f675d501a55c2edbaf1d4":[7,0,0,0,1,3,5,7,5,10,1],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[7,0,0,0,1,3,5,7,5,10,3],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cabb1f6d54893a5968892d27dd3cd1f6c4":[7,0,0,0,1,3,5,7,5,10,4],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,5,10,5],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89":[7,0,0,0,1,3,5,7,5,10,2],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[7,0,0,0,1,3,5,7,5,10,0],
+"dc/d70/boss__grobbulus_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[7,0,0,0,1,3,5,7,5,11],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,5,8],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[7,0,0,0,1,3,5,7,5,8,1],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,7,5,8,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d7d/classspell__pal__glyph__of__holy__light.html":[6,0,3706],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a125ce6c8dfdc6419b4409c72f74fcf85":[6,0,3706,2],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a5992d94317d3da7400d5a9ab115e621e":[6,0,3706,1],
-"dc/d7d/classspell__pal__glyph__of__holy__light.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21":[6,0,3706,0],
-"dc/d7e/WorldMock_8h.html":[7,0,0,0,2,1,11],
-"dc/d7e/WorldMock_8h.html#abb65cb085124c346fd32ac4b92f0baa9":[7,0,0,0,2,1,11,1],
-"dc/d7e/classboss__essence__of__desire.html":[6,0,466],
-"dc/d7e/classboss__essence__of__desire.html#a14b66470c508fa24e214062aeec0aae6":[6,0,466,2],
-"dc/d7e/classboss__essence__of__desire.html#a5006ce57dd19c2a80e961dedca8c503d":[6,0,466,1],
-"dc/d81/classCreatureTextMgr.html":[6,0,964],
-"dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[6,0,964,0],
-"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9],
-"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[6,0,964,7],
-"dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[6,0,964,14]
+"dc/d7d/classspell__pal__glyph__of__holy__light.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21":[6,0,3706,0]
 };

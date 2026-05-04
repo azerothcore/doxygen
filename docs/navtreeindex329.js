@@ -1,5 +1,15 @@
 var NAVTREEINDEX329 =
 {
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#ac8f2440e439654e977d4a9a4b2b50b52":[6,0,1353,0,10],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#aca8fbf17f8d583c1568a965bdf2b22f4":[6,0,1353,0,6],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#af1077bb8af7e756d9d548a4fe3fbd17b":[6,0,1353,0,14],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#af59d38b0842a962b94efcbf9af8e56ca":[6,0,1353,0,5],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#afbf08e65630819d5c60ecaa3d4d5bc42":[6,0,1353,0,12],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#afc601fed830c0d8fe63cbf7741ff1c55":[6,0,1353,0,7],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html":[6,0,1625],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a20cdbe7eb580cd9f9763019d8927182f":[6,0,1625,1],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a276eca6e65b32905f6919d49530ccc2f":[6,0,1625,2],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a89abbce738f115c26dae9dacb065cc3d":[6,0,1625,0],
 "dc/db1/classMidsummerPlayerScript.html":[6,0,1529],
 "dc/db1/classMidsummerPlayerScript.html#ace19c3dfaec5aa5bdfab46552a759306":[6,0,1529,0],
 "dc/db1/classMidsummerPlayerScript.html#af512e1744264ac69fe2b7f7ba3836760":[6,0,1529,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,1,1,3,6],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,1,1,3,6,3],
 "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6":[7,0,0,0,1,3,5,1,1,3,6,0],
-"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,5,1,1,3,6,4],
-"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b0cb3dbdb21b39029ea9beaca395bd6":[7,0,0,0,1,3,5,1,1,3,6,1],
-"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca887b2f1972269d2e34a60c71f611588b":[7,0,0,0,1,3,5,1,1,3,6,2],
-"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,1,1,3,7],
-"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a219bed4cc43db1b0be3699e2087b4ea3":[7,0,0,0,1,3,5,1,1,3,7,2],
-"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,1,1,3,7,0],
-"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,3,7,3],
-"dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab0ad4be19678ff32aa826af2257aafe8":[7,0,0,0,1,3,5,1,1,3,7,1],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,1,3,4],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,5,1,1,3,4,2],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[7,0,0,0,1,3,5,1,1,3,4,5]
+"dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,5,1,1,3,6,4]
 };

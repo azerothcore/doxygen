@@ -1,5 +1,15 @@
 var NAVTREEINDEX358 =
 {
+"de/d06/structboss__headless__horseman.html#a06a654a822967c02dbab2c75f211e072":[6,0,539,7],
+"de/d06/structboss__headless__horseman.html#a076037b8bad3648551997915d97fb9b2":[6,0,539,16],
+"de/d06/structboss__headless__horseman.html#a091a925d7040e29efc54a4c5f123591d":[6,0,539,21],
+"de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[6,0,539,5],
+"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,539,15],
+"de/d06/structboss__headless__horseman.html#a4f791099607d7861cfa193f9b5fc265b":[6,0,539,0],
+"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,539,9],
+"de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[6,0,539,20],
+"de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[6,0,539,1],
+"de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[6,0,539,6],
 "de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[6,0,539,17],
 "de/d06/structboss__headless__horseman.html#a9dde0cfcc41ec7d8b9f53e55057adab9":[6,0,539,18],
 "de/d06/structboss__headless__horseman.html#aa6741999e5a9a826efb279e014ea4ab8":[6,0,539,14],
@@ -239,15 +249,5 @@ var NAVTREEINDEX358 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9635eb73199df82de902deb0539f1fc8":[7,0,0,0,1,4,7,63,7],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a974548ad4e2187053a5db92dff34eefd":[7,0,0,0,1,4,7,63,166],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a97dd19c4faf47ba80091e80f22d046bd":[7,0,0,0,1,4,7,63,149],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a97fa12bf39bfa1be8cb22f51c9050491":[7,0,0,0,1,4,7,63,126],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9c36cd85bd80ca0c6152303dab7dbec2":[7,0,0,0,1,4,7,63,140],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9cc7a0afac0efef5236692669c3c69a4":[7,0,0,0,1,4,7,63,34],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78":[7,0,0,0,1,4,7,63,31],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa0dafa75c1846cfd9c7038bf23d33ba3":[7,0,0,0,1,4,7,63,38],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa125fc4c1e1b4fa629540aa88037f1ba":[7,0,0,0,1,4,7,63,17],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa300c615d596e6f6da492264e3003641":[7,0,0,0,1,4,7,63,13],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa3714f498c22ce339d10cb3b3e4025fd":[7,0,0,0,1,4,7,63,2],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa4d566e399c30786ea55db072077a42d":[7,0,0,0,1,4,7,63,85],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa4f49716afaf72c6e3b9b3caf383d842":[7,0,0,0,1,4,7,63,121],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa661c08c4b47c172f3f61ed3ac30e56b":[7,0,0,0,1,4,7,63,51]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a97fa12bf39bfa1be8cb22f51c9050491":[7,0,0,0,1,4,7,63,126]
 };

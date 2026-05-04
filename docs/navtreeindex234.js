@@ -1,5 +1,13 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd6/DBCfmt_8h.html#a1adb927862452328e651826590987fb3":[7,0,0,0,1,4,0,3,104],
+"d8/dd6/DBCfmt_8h.html#a1b1da4d88a668d902488bc3bb118855f":[7,0,0,0,1,4,0,3,74],
+"d8/dd6/DBCfmt_8h.html#a205a63d903af9fcb0ab988723c15d5ae":[7,0,0,0,1,4,0,3,12],
+"d8/dd6/DBCfmt_8h.html#a210fd1ba76fc8e4cedb2fb6af0a17947":[7,0,0,0,1,4,0,3,52],
+"d8/dd6/DBCfmt_8h.html#a22724d69363c7aaaec29f964dcc7b268":[7,0,0,0,1,4,0,3,17],
+"d8/dd6/DBCfmt_8h.html#a26f29ccde3522f2ca003f066886defc6":[7,0,0,0,1,4,0,3,85],
+"d8/dd6/DBCfmt_8h.html#a2cbc87f5386b8705a7cb7f301b360d16":[7,0,0,0,1,4,0,3,72],
+"d8/dd6/DBCfmt_8h.html#a2d0db03aab5481939b74c9657665c4fa":[7,0,0,0,1,4,0,3,46],
 "d8/dd6/DBCfmt_8h.html#a33a9a6da17625ca15a93082b922dfd7c":[7,0,0,0,1,4,0,3,97],
 "d8/dd6/DBCfmt_8h.html#a3591aa6bd927d9a3225c1580e1a55071":[7,0,0,0,1,4,0,3,15],
 "d8/dd6/DBCfmt_8h.html#a366ae111d40fb97fc96b0f37b799fde9":[7,0,0,0,1,4,0,3,82],
@@ -241,13 +249,5 @@ var NAVTREEINDEX234 =
 "d8/ddc/classspell__claw__swipe__check.html#a0264c6f6f41da3644a803265399f1d82":[6,0,2740,1],
 "d8/ddc/classspell__claw__swipe__check.html#ab5d21484b078aee6eeff3738ef7c5a10":[6,0,2740,2],
 "d8/ddc/classspell__claw__swipe__check.html#ad026db5f19c376d9a87f7a1554502809":[6,0,2740,0],
-"d8/ddc/classspell__claw__swipe__check.html#ae9822fa0f191ac4eeca1061c22abf319":[6,0,2740,3],
-"d8/ddc/classspell__gen__summon__target__floor.html":[6,0,3107],
-"d8/ddc/classspell__gen__summon__target__floor.html#a03a1a1e5501452eacaceadd9725f2287":[6,0,3107,2],
-"d8/ddc/classspell__gen__summon__target__floor.html#a7b6cd9464f27676f0c74224ef1b1a9cc":[6,0,3107,1],
-"d8/ddc/classspell__gen__summon__target__floor.html#ae24a7c8279a92f1018748a0e930736ac":[6,0,3107,0],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html":[6,0,2249],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#a5efda334c3166dce2d1ca9655658b4d2":[6,0,2249,1],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#a64254becffe74a7d06c09a3b0e2b4428":[6,0,2249,2],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#ad304110ff1bfc33066cd17f04cf40181":[6,0,2249,3]
+"d8/ddc/classspell__claw__swipe__check.html#ae9822fa0f191ac4eeca1061c22abf319":[6,0,2740,3]
 };

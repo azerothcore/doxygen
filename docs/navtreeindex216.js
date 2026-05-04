@@ -1,5 +1,13 @@
 var NAVTREEINDEX216 =
 {
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1":[7,0,0,0,1,2,16,10,6,19],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a05e8449eb681731f65fe60937dfc7f8f":[7,0,0,0,1,2,16,10,6,19,3],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a12c50220041ceecc2aa5e9a33c9f7305":[7,0,0,0,1,2,16,10,6,19,6],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a22df419e604d852f4931359cab14ab0b":[7,0,0,0,1,2,16,10,6,19,9],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a3f7e87267b36315b72f5de8594e5dcc9":[7,0,0,0,1,2,16,10,6,19,5],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a5f69ecdd2ac916f689d75e1aa3b3a24d":[7,0,0,0,1,2,16,10,6,19,4],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a8f2f8d5b0c3e21d865f8c6cc0527e348":[7,0,0,0,1,2,16,10,6,19,7],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee":[7,0,0,0,1,2,16,10,6,19,8],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ad48716d127df8a78bda89166b58f9f80":[7,0,0,0,1,2,16,10,6,19,2],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224":[7,0,0,0,1,2,16,10,6,19,0],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1":[7,0,0,0,1,2,16,10,6,19,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX216 =
 "d7/df6/structnpc__grimstone.html":[6,0,1837],
 "d7/df6/structnpc__grimstone.html#a03d41532eb767f0e09982ede11f0fb80":[6,0,1837,0],
 "d7/df6/structnpc__grimstone.html#a0a55b772ca85554507ed36ba620c14c4":[6,0,1837,6],
-"d7/df6/structnpc__grimstone.html#a0cb794b7343a42cc55c1be563acd4e52":[6,0,1837,12],
-"d7/df6/structnpc__grimstone.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1837,10],
-"d7/df6/structnpc__grimstone.html#a119ff38285b880d33266a7340ff1fe53":[6,0,1837,14],
-"d7/df6/structnpc__grimstone.html#a145a7bbecf4e061f44355948367f33bc":[6,0,1837,11],
-"d7/df6/structnpc__grimstone.html#a1995b112b7e0735d0ab2d367150f05d3":[6,0,1837,16],
-"d7/df6/structnpc__grimstone.html#a4d1bc515c8302157e61f8fd4ad17b701":[6,0,1837,3],
-"d7/df6/structnpc__grimstone.html#a4d381cecdada9577012e2c7914b7c5f9":[6,0,1837,9],
-"d7/df6/structnpc__grimstone.html#a5129e8d6f753fa0dc2f387bce2a76c24":[6,0,1837,5],
-"d7/df6/structnpc__grimstone.html#a5a54226cc0ada2095dccf93b7a18bae3":[6,0,1837,15]
+"d7/df6/structnpc__grimstone.html#a0cb794b7343a42cc55c1be563acd4e52":[6,0,1837,12]
 };

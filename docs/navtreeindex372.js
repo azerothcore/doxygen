@@ -1,5 +1,15 @@
 var NAVTREEINDEX372 =
 {
+"de/d11/classnpc__released__offspring__harkoa.html#a10f583320e3b617cf2b327cfb6fed6f5":[6,0,2095,1],
+"de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[6,0,2095,2],
+"de/d12/VMapTools_8h.html":[7,0,0,0,0,1,10],
+"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[7,0,0,0,0,1,10,2],
+"de/d12/classAllCreatureScript.html":[6,0,153],
+"de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490":[6,0,153,8],
+"de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e":[6,0,153,6],
+"de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e":[6,0,153,1],
+"de/d12/classAllCreatureScript.html#a31659a18df4206122a56ce69f3e4809d":[6,0,153,5],
+"de/d12/classAllCreatureScript.html#a551633c543dd01e876ee10452b98fb5e":[6,0,153,2],
 "de/d12/classAllCreatureScript.html#a72e4b4f205e153cb72c3401028b065c9":[6,0,153,12],
 "de/d12/classAllCreatureScript.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa":[6,0,153,13],
 "de/d12/classAllCreatureScript.html#aa193e968ecc1639ca33fee052dafb0b3":[6,0,153,3],
@@ -111,8 +121,8 @@ var NAVTREEINDEX372 =
 "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,16,1],
 "de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,20,24],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
-"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,32],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
+"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,32],
 "de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f":[5,0,20,30],
 "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a":[5,0,20,34],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,20,17],
@@ -239,15 +249,5 @@ var NAVTREEINDEX372 =
 "de/d1c/classGameObject.html#a6f60bc385f38fe16997894b47d2cf3f9":[6,0,1101,190],
 "de/d1c/classGameObject.html#a711ba7caffb564c6d26e3460f80047cb":[6,0,1101,43],
 "de/d1c/classGameObject.html#a74af72f3c57d69a83f02a79a51c55738":[6,0,1101,104],
-"de/d1c/classGameObject.html#a756946069cc2ef24f19b485b9f452d4e":[6,0,1101,51],
-"de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef":[6,0,1101,136],
-"de/d1c/classGameObject.html#a7691d0fdf595388b651f75c7831eabe8":[6,0,1101,137],
-"de/d1c/classGameObject.html#a76daef3375bb20aea2bdf4f7a5c50c86":[6,0,1101,81],
-"de/d1c/classGameObject.html#a772311dbda3d7391fe7ad16b277ea112":[6,0,1101,128],
-"de/d1c/classGameObject.html#a772407034b9350ca1b95af5f9d2c6762":[6,0,1101,149],
-"de/d1c/classGameObject.html#a783520d842e4147f88945f4d04ee0d6c":[6,0,1101,192],
-"de/d1c/classGameObject.html#a797e2c6afdafa67a96db03cefb935b34":[6,0,1101,52],
-"de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac":[6,0,1101,39],
-"de/d1c/classGameObject.html#a7b627f724d167f3b63c1b5d3318ef949":[6,0,1101,148],
-"de/d1c/classGameObject.html#a7d08ba8895e752e7a70275d4955ec4da":[6,0,1101,124]
+"de/d1c/classGameObject.html#a756946069cc2ef24f19b485b9f452d4e":[6,0,1101,51]
 };

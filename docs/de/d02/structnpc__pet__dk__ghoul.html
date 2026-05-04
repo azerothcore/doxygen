@@ -491,7 +491,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>: <a class="code hl_class" href="../../d3/dfa/classCombatAI.html">CombatAI</a>(c) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  275</span>: <a class="code hl_class" href="../../d3/dfa/classCombatAI.html">CombatAI</a>(c) { }</div>
 <div class="ttc" id="aclassCombatAI_html"><div class="ttname"><a href="../../d3/dfa/classCombatAI.html">CombatAI</a></div><div class="ttdef"><b>Definition</b> CombatAI.h:40</div></div>
 </div><!-- fragment -->
 </div>
@@ -522,21 +522,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ae994802040dee85cb8b020d8629b9f94">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  268</span>    {</div>
-<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">if</span> (!summoner || !summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  271</span> </div>
-<div class="line"><span class="lineno">  272</span>        <span class="comment">// Remember the owner&#39;s target so we can attack it after the rising stun expires.</span></div>
-<div class="line"><span class="lineno">  273</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  274</span>            <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a> = victim-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  275</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  278</span>    {</div>
+<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">if</span> (!summoner || !summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  280</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  281</span> </div>
+<div class="line"><span class="lineno">  282</span>        <span class="comment">// Remember the owner&#39;s target so we can attack it after the rising stun expires.</span></div>
+<div class="line"><span class="lineno">  283</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  284</span>            <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a> = victim-&gt;GetGUID();</div>
+<div class="line"><span class="lineno">  285</span>    }</div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
 <div class="ttc" id="aclassObject_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition</b> Object.h:202</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:903</div></div>
-<div class="ttc" id="astructnpc__pet__dk__ghoul_html_aaca50b80273c75a48ee366fc07a3a3d0"><div class="ttname"><a href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">npc_pet_dk_ghoul::_summonTargetGUID</a></div><div class="ttdeci">ObjectGuid _summonTargetGUID</div><div class="ttdef"><b>Definition</b> pet_dk.cpp:304</div></div>
+<div class="ttc" id="astructnpc__pet__dk__ghoul_html_aaca50b80273c75a48ee366fc07a3a3d0"><div class="ttname"><a href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">npc_pet_dk_ghoul::_summonTargetGUID</a></div><div class="ttdeci">ObjectGuid _summonTargetGUID</div><div class="ttdef"><b>Definition</b> pet_dk.cpp:314</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00304">_summonTargetGUID</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00314">_summonTargetGUID</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
 
 </div>
 </div>
@@ -565,10 +565,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/dfa/classCombatAI.html#a9176b9b9c7a5e13fb05dae636c7ef2d4">CombatAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  298</span>    {</div>
-<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aad9476ff8867ed8013781b2601f12d1f">IsGuardian</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9534e161f94312c5ee5c81fd75cc16ee">IsSummon</a>())</div>
-<div class="line"><span class="lineno">  300</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../dc/d88/classTempSummon.html#a5181f042a68a54c93797fc9afa7a4440">UnSummon</a>();</div>
-<div class="line"><span class="lineno">  301</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  308</span>    {</div>
+<div class="line"><span class="lineno">  309</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aad9476ff8867ed8013781b2601f12d1f">IsGuardian</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9534e161f94312c5ee5c81fd75cc16ee">IsSummon</a>())</div>
+<div class="line"><span class="lineno">  310</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../dc/d88/classTempSummon.html#a5181f042a68a54c93797fc9afa7a4440">UnSummon</a>();</div>
+<div class="line"><span class="lineno">  311</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aclassTempSummon_html_a5181f042a68a54c93797fc9afa7a4440"><div class="ttname"><a href="../../dc/d88/classTempSummon.html#a5181f042a68a54c93797fc9afa7a4440">TempSummon::UnSummon</a></div><div class="ttdeci">virtual void UnSummon(Milliseconds msTime=0ms)</div><div class="ttdef"><b>Definition</b> TemporarySummon.cpp:292</div></div>
 <div class="ttc" id="aclassUnit_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition</b> Unit.h:731</div></div>
@@ -606,24 +606,24 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d3/dfa/classCombatAI.html#ab157082819d821cf0b0093f084111e16" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d3/dfa/classCombatAI.html#af12583d15ccd183f6236c1889d539b9b">CombatAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  278</span>    {</div>
-<div class="line"><span class="lineno">  279</span>        <span class="comment">// While stunned (rising animation), don&#39;t run CombatAI - just wait.</span></div>
-<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a>))</div>
-<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  282</span> </div>
-<div class="line"><span class="lineno">  283</span>        <span class="comment">// Once the stun expires, attack the saved target from summon time.</span></div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a32695a11f47a244236e7bce277fcf3a8">IsEmpty</a>())</div>
-<div class="line"><span class="lineno">  285</span>        {</div>
-<div class="line"><span class="lineno">  286</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>))</div>
-<div class="line"><span class="lineno">  287</span>            {</div>
-<div class="line"><span class="lineno">  288</span>                <span class="keywordflow">if</span> (target-&gt;IsAlive() &amp;&amp; <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target))</div>
-<div class="line"><span class="lineno">  289</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
-<div class="line"><span class="lineno">  290</span>            }</div>
-<div class="line"><span class="lineno">  291</span>            <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  292</span>        }</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>        <a class="code hl_function" href="../../d3/dfa/classCombatAI.html#af12583d15ccd183f6236c1889d539b9b">CombatAI::UpdateAI</a>(diff);</div>
-<div class="line"><span class="lineno">  295</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  288</span>    {</div>
+<div class="line"><span class="lineno">  289</span>        <span class="comment">// While stunned (rising animation), don&#39;t run CombatAI - just wait.</span></div>
+<div class="line"><span class="lineno">  290</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a>))</div>
+<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  292</span> </div>
+<div class="line"><span class="lineno">  293</span>        <span class="comment">// Once the stun expires, attack the saved target from summon time.</span></div>
+<div class="line"><span class="lineno">  294</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a32695a11f47a244236e7bce277fcf3a8">IsEmpty</a>())</div>
+<div class="line"><span class="lineno">  295</span>        {</div>
+<div class="line"><span class="lineno">  296</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>))</div>
+<div class="line"><span class="lineno">  297</span>            {</div>
+<div class="line"><span class="lineno">  298</span>                <span class="keywordflow">if</span> (target-&gt;IsAlive() &amp;&amp; <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target))</div>
+<div class="line"><span class="lineno">  299</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
+<div class="line"><span class="lineno">  300</span>            }</div>
+<div class="line"><span class="lineno">  301</span>            <a class="code hl_variable" href="../../de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0">_summonTargetGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  302</span>        }</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>        <a class="code hl_function" href="../../d3/dfa/classCombatAI.html#af12583d15ccd183f6236c1889d539b9b">CombatAI::UpdateAI</a>(diff);</div>
+<div class="line"><span class="lineno">  305</span>    }</div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aefe799c73ede1e5d5ffed28f69074106">UNIT_STATE_STUNNED</a></div><div class="ttdeci">@ UNIT_STATE_STUNNED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:176</div></div>
 <div class="ttc" id="aclassCombatAI_html_af12583d15ccd183f6236c1889d539b9b"><div class="ttname"><a href="../../d3/dfa/classCombatAI.html#af12583d15ccd183f6236c1889d539b9b">CombatAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition</b> CombatAI.cpp:87</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a32695a11f47a244236e7bce277fcf3a8"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a32695a11f47a244236e7bce277fcf3a8">ObjectGuid::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:161</div></div>
@@ -633,7 +633,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10729</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00304">_summonTargetGUID</a>, <a class="el" href="../../#l00028">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00736">Unit::HasUnitState()</a>, <a class="el" href="../../#l00161">ObjectGuid::IsEmpty()</a>, <a class="el" href="../../#l10729">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00176">UNIT_STATE_STUNNED</a>, and <a class="el" href="../../#l00087">CombatAI::UpdateAI()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00314">_summonTargetGUID</a>, <a class="el" href="../../#l00028">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00736">Unit::HasUnitState()</a>, <a class="el" href="../../#l00161">ObjectGuid::IsEmpty()</a>, <a class="el" href="../../#l10729">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00176">UNIT_STATE_STUNNED</a>, and <a class="el" href="../../#l00087">CombatAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -658,7 +658,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00267">IsSummonedBy()</a>, and <a class="el" href="../../#l00277">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00277">IsSummonedBy()</a>, and <a class="el" href="../../#l00287">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -671,7 +671,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d02/structnpc__pet__dk__ghoul.html">npc_pet_dk_ghoul</a></li>
-    <li class="footer">Generated on Sun May 3 2026 07:56:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon May 4 2026 08:25:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

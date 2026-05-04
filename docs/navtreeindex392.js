@@ -1,5 +1,15 @@
 var NAVTREEINDEX392 =
 {
+"de/dcc/classspell__dk__blood__boil.html#ae9eeb78d006bc01dd05fdd726dea9b90":[6,0,2779,3],
+"de/dcc/classspell__dk__blood__boil.html#afdbb71f81aacc9ac1a5119707952ec52":[6,0,2779,4],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html":[6,0,3156],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a0ff7bbd0dea458b15231ecf419b1c49c":[6,0,3156,3],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[6,0,3156,0],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3156,1],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[6,0,3156,2],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[6,0,3156,4],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2292,0],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2292,0,6],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2292,0,0],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2292,0,5],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a369ae3d62d1289a1c840bdc3184b463d":[6,0,2292,0,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX392 =
 "de/de2/structgo__bells_1_1go__bellsAI.html#a46c66442078cee28a76fc412746ca026":[6,0,1147,0,2],
 "de/de2/structgo__bells_1_1go__bellsAI.html#a6f22847c66a3b5faded35da799359846":[6,0,1147,0,0],
 "de/de2/structgo__bells_1_1go__bellsAI.html#ab2491e9d27266ea69a5a9163e8c1b35b":[6,0,1147,0,3],
-"de/de2/structgo__bells_1_1go__bellsAI.html#ab466f67665577f22bfe6cdb94d0a008b":[6,0,1147,0,1],
-"de/de2/structgo__bells_1_1go__bellsAI.html#abf6ca2fc64f5764936a6d0179d40c2fa":[6,0,1147,0,4],
-"de/de3/classspell__dk__death__and__decay.html":[6,0,2789],
-"de/de3/classspell__dk__death__and__decay.html#a1fe9f9d4892b0ca8cb6699b555fb9268":[6,0,2789,1],
-"de/de3/classspell__dk__death__and__decay.html#a2585b06bbebf291d170df58daf6fdd4e":[6,0,2789,0],
-"de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2789,2],
-"de/de3/structMySQLType.html":[6,0,1572],
-"de/de3/structboss__ick_1_1boss__ickAI.html":[6,0,559,0],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,559,0,12],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a27598604e65417225acd41d6f05cc717":[6,0,559,0,5],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a2d6192f314e76886204c7248d141260a":[6,0,559,0,3]
+"de/de2/structgo__bells_1_1go__bellsAI.html#ab466f67665577f22bfe6cdb94d0a008b":[6,0,1147,0,1]
 };

@@ -633,6 +633,8 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_CHARACTER_CHECK_PROFESSION", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a0fef3cd2b52d7abbbea4aa25d8935ee7", null ],
       [ "RBAC_PERM_COMMAND_GOBJECT_LOAD", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a524fd8ee5eff40b2758e7df6e551fd45", null ],
       [ "RBAC_PERM_COMMAND_BF_QUEUE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aead7d5ea444af01c3d2543ffec277493", null ],
+      [ "RBAC_PERM_COMMAND_PET_LIST", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae685ef1eadcb661fd58ce348f2ead450", null ],
+      [ "RBAC_PERM_COMMAND_PET_DELETE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a0001e05dc6a840e47ba198d3959b9e40", null ],
       [ "RBAC_PERM_MAX", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dc/d36/namespacerbac.html#ad45fe4229235a57fc4952a69ede78410", null ]

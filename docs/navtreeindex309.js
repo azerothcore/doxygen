@@ -1,5 +1,13 @@
 var NAVTREEINDEX309 =
 {
+"db/ded/structLootGroupInvalidSelector.html#a10e307846a0731aa812388c29c0d4bc8":[6,0,1473,3],
+"db/ded/structLootGroupInvalidSelector.html#a2ea426fdeced03324c4a63184c2c1fc4":[6,0,1473,1],
+"db/ded/structLootGroupInvalidSelector.html#a67b9d223426512af79bbf5b035c18a6d":[6,0,1473,2],
+"db/ded/structLootGroupInvalidSelector.html#abea815e8ee0d31cc64b3fd7f46033cca":[6,0,1473,0],
+"db/ded/zone__hinterlands_8cpp.html":[7,0,0,0,1,3,2,25],
+"db/ded/zone__hinterlands_8cpp.html#a0b6f7497a7db75be5fe9d90d14c46720":[7,0,0,0,1,3,2,25,4],
+"db/ded/zone__hinterlands_8cpp.html#aa2e998c0f3d966c32be9106221fe957c":[7,0,0,0,1,3,2,25,5],
+"db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133":[7,0,0,0,1,3,2,25,3],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3":[7,0,0,0,1,3,2,25,3,1],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632":[7,0,0,0,1,3,2,25,3,3],
 "db/ded/zone__hinterlands_8cpp.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c":[7,0,0,0,1,3,2,25,3,0],
@@ -77,10 +85,10 @@ var NAVTREEINDEX309 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,13,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,13,6,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,13,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,13,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3273],
@@ -241,13 +249,5 @@ var NAVTREEINDEX309 =
 "db/df8/classAuraRemoveEvent.html#a6fad41839e07e9545859be7c3afcfc36":[6,0,296,2],
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[6,0,296,3],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,13,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[6,0,13,7,6,2],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[6,0,13,7,6,1],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[6,0,13,7,6,0],
-"db/df8/classpool__commandscript.html":[6,0,2430],
-"db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[6,0,2430,3]
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,13,7,6]
 };

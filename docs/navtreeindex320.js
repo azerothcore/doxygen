@@ -1,5 +1,14 @@
 var NAVTREEINDEX320 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab3a613bcc30731673406315f688ff633":[5,0,28,6,188],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab3eddec963f394dcf8f43bfcafcdcea7":[5,0,28,6,272],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab42c747adee4d7e6b71055157a87005b":[5,0,28,6,183],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab465a6dc8b427f03ba3cf828657057be":[5,0,28,6,317],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab46f8a5e82c9c1e872bc266786af2b9e":[5,0,28,6,311],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab56e79fa03112377bec974c80c8592b2":[5,0,28,6,10],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab617aaa92dab61f3f75e7160566bd3f4":[5,0,28,6,446],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab63fd62ef2f88504ab0f0fbfdb18bf8f":[5,0,28,6,281],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6620c3641d9d2b570ac5eb332a3c1f0":[5,0,28,6,156],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6f4705e38326fefababf9b44fcc088c":[5,0,28,6,3],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6f9c59b96efbdfccf0e89aed19d8462":[5,0,28,6,508],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab70c47b254409bc7429a32b9e3188487":[5,0,28,6,107],
@@ -123,6 +132,7 @@ var NAVTREEINDEX320 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae5e1a00a02aac0bcf651ac9cffddb03a":[5,0,28,6,74],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae5ff6acbecbe6bc5500948dec4d001f4":[5,0,28,6,98],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae60d707378514c488ea6c99508c8b689":[5,0,28,6,46],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae685ef1eadcb661fd58ce348f2ead450":[5,0,28,6,619],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae6c1eb95cd9faa919cb118d84a293323":[5,0,28,6,234],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae909be2eb12448111d1c7584070c8447":[5,0,28,6,371],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae9172b52fec882b10ee336e91304e5b2":[5,0,28,6,307],
@@ -239,15 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[6,0,3409,4],
 "dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[6,0,3409,1],
 "dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[6,0,3409,3],
-"dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[6,0,3409,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[6,0,3409,5],
-"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[6,0,3409,2],
-"dc/d39/structnpc__janalai__hatcher.html":[6,0,1921],
-"dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[6,0,1921,10],
-"dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[6,0,1921,0],
-"dc/d39/structnpc__janalai__hatcher.html#a3a0170bc53f9f8f96090e34097b90c2c":[6,0,1921,4],
-"dc/d39/structnpc__janalai__hatcher.html#a4ae2157e37bb93b7465e029e526a6ce4":[6,0,1921,3],
-"dc/d39/structnpc__janalai__hatcher.html#a54c251278dcfa22052b6c6e49a4abd89":[6,0,1921,2],
-"dc/d39/structnpc__janalai__hatcher.html#a5a7826964349ed9adbbdeb7c733dd915":[6,0,1921,1],
-"dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[6,0,1921,8]
+"dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[6,0,3409,0]
 };

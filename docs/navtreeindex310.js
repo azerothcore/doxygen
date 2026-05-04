@@ -1,5 +1,13 @@
 var NAVTREEINDEX310 =
 {
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[6,0,13,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[6,0,13,7,6,1],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[6,0,13,7,6,0],
+"db/df8/classpool__commandscript.html":[6,0,2430],
+"db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[6,0,2430,3],
 "db/df8/classpool__commandscript.html#a41308abbe25e1e50325923f62f2fa3af":[6,0,2430,0],
 "db/df8/classpool__commandscript.html#a5bdc763ea21fe5c6b98d19b33d7dc570":[6,0,2430,4],
 "db/df8/classpool__commandscript.html#a973b565473bd8f9ef5cfd61740d114b4":[6,0,2430,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX310 =
 "db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70ba13a9e7c6ea9d0532a012ef19bf7719b7":[7,0,0,0,1,3,9,8,111,0],
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76":[7,0,0,0,1,3,9,8,97],
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a182dca1aea22740c6bbf97565396b6ee":[7,0,0,0,1,3,9,8,97,1],
-"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,97,0],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90d":[7,0,0,0,1,3,9,8,98],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90daaa1481cbe1b1ee5ed774b64adce2e233":[7,0,0,0,1,3,9,8,98,2],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dad9f6131e9a41f30d6544aa1332442dcc":[7,0,0,0,1,3,9,8,98,1],
-"db/dfb/spell__quest_8cpp.html#aff99d8601eebe0aa83b00d4ad044c90dade1a3bebfdcf08232b4fbf12b11de8a1":[7,0,0,0,1,3,9,8,98,0],
-"db/dfb/structnpc__ashtongue__sorcerer.html":[6,0,1646],
-"db/dfb/structnpc__ashtongue__sorcerer.html#a0045af5cfbfcd2f26bcde2e2dffd04a6":[6,0,1646,0],
-"db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[6,0,1646,1],
-"db/dfb/structnpc__wounded__skirmisher.html":[6,0,2295]
+"db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76a98ce2c21a672877359e16debb4d78304":[7,0,0,0,1,3,9,8,97,0]
 };

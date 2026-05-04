@@ -1,5 +1,8 @@
 var NAVTREEINDEX175 =
 {
+"d6/d39/classWorld.html#aacbfdbc7a83d937ad907f4a243352493":[4,2,11,50],
+"d6/d39/classWorld.html#aad1122b6c2a6998ba4dda6cfcbd6b1ca":[4,2,11,4],
+"d6/d39/classWorld.html#aae7024335255ec3d29bddd52ca535327":[4,2,11,47],
 "d6/d39/classWorld.html#aaff65b6bae2c57160600d72238e4e26f":[4,2,11,66],
 "d6/d39/classWorld.html#aaffca059ddb1b47034d9338eb8e516cc":[4,2,11,68],
 "d6/d39/classWorld.html#ab093072ec6f5bcd680119157cabcd3f6":[4,2,11,26],
@@ -246,8 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d48/structnpc__guardian_1_1npc__guardianAI.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3":[6,0,1839,0,3],
 "d6/d48/structnpc__guardian_1_1npc__guardianAI.html#acc5d29a79e57fc023369c0dcd4b0d2a3":[6,0,1839,0,0],
 "d6/d49/GroupHandler_8cpp.html":[7,0,0,0,1,2,22,13],
-"d6/d4b/classspell__electrical__storm__proc.html":[6,0,2920],
-"d6/d4b/classspell__electrical__storm__proc.html#a03b8e21e58988d9fc774205263c0817f":[6,0,2920,2],
-"d6/d4b/classspell__electrical__storm__proc.html#aa28bc0b1824d3d0825135fcd88057dfe":[6,0,2920,1],
-"d6/d4b/classspell__electrical__storm__proc.html#aeba1ceddd5b6fcd951e6ac789b50c5a5":[6,0,2920,3]
+"d6/d4b/classspell__electrical__storm__proc.html":[6,0,2920]
 };

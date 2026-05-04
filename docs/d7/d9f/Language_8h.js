@@ -1233,7 +1233,12 @@ var Language_8h =
       [ "LANG_POOL_LOOKUP_IN_POOL", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaa81bdafd498b9df858551b56ce5fd27f", null ],
       [ "LANG_POOL_LOOKUP_NOT_IN_POOL", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa61352faae460685339626601477e0c09", null ],
       [ "LANG_POOL_LOOKUP_USE_INFO", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85d30c120991cd53f5729ecc4ff8cb61", null ],
-      [ "LANG_POOL_LOOKUP_NOTARGET", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadafc7791dd3cef12dce705a49652a412", null ]
+      [ "LANG_POOL_LOOKUP_NOTARGET", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadafc7791dd3cef12dce705a49652a412", null ],
+      [ "LANG_PET_LIST_HEADER", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf605c61f5ea7dbc90d516122483d3edf", null ],
+      [ "LANG_PET_LIST_ENTRY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa40d92c1fd583fb948d5182b35c8899af", null ],
+      [ "LANG_PET_LIST_EMPTY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0caba1b7d330b3441329f3d8809f35c0", null ],
+      [ "LANG_PET_DELETE_NOT_FOUND", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa61ca471bfef44de1edcdd7b512142a2c", null ],
+      [ "LANG_PET_DELETE_SUCCESS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa48886db60d14ce61c5d2fbfadf8d4585", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

@@ -1,5 +1,13 @@
 var NAVTREEINDEX248 =
 {
+"d9/d7c/SpellProcChargeTest_8cpp.html":[7,0,0,0,2,2,0,9,10],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a03704468e16a20474afaecd9dea9019f":[7,0,0,0,2,2,0,9,10,14],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a1d7c412fdf87bebbdfa8133166237d6c":[7,0,0,0,2,2,0,9,10,15],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a223a5cdf49fecfa7b4b80d2a0dcf1468":[7,0,0,0,2,2,0,9,10,5],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a6aad9923e77ce2183a9bfd5884fe3912":[7,0,0,0,2,2,0,9,10,2],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a746f7ab811ea4ea58f21d77180c752b3":[7,0,0,0,2,2,0,9,10,7],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a7502979bd6cdb7d72f8c6ce5a3e67598":[7,0,0,0,2,2,0,9,10,3],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a89db4a2cf2935011d4e98ff3385c25d8":[7,0,0,0,2,2,0,9,10,9],
 "d9/d7c/SpellProcChargeTest_8cpp.html#a8ae02922feb6d525efc5203b349d36d8":[7,0,0,0,2,2,0,9,10,11],
 "d9/d7c/SpellProcChargeTest_8cpp.html#a8cddad3956dbe3afd8a23e969ba46d05":[7,0,0,0,2,2,0,9,10,8],
 "d9/d7c/SpellProcChargeTest_8cpp.html#ab8fbc8d09d454845b486266a32ec0055":[7,0,0,0,2,2,0,9,10,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d86/namespaceAuthHelper.html#a96896fc9dad2c304f681a24776f6726b":[5,0,6,2],
 "d9/d86/namespaceAuthHelper.html#ac023f15b280fc65fdefefb77f2f7be7b":[5,0,6,3],
 "d9/d86/namespaceAuthHelper.html#ad4f22daf9d88367d90d92416f470a28c":[5,0,6,1],
-"d9/d86/structnpc__anub__ar__crusher.html":[6,0,1623],
-"d9/d86/structnpc__anub__ar__crusher.html#a0520d606e8f8fa6f2c1262e025ea2c1c":[6,0,1623,0],
-"d9/d86/structnpc__anub__ar__crusher.html#a0e3c9d35a654e82d5f845b820de2a9a1":[6,0,1623,5],
-"d9/d86/structnpc__anub__ar__crusher.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2":[6,0,1623,1],
-"d9/d86/structnpc__anub__ar__crusher.html#a66dc8cb3dc096dc0aa5b464879773df7":[6,0,1623,4],
-"d9/d86/structnpc__anub__ar__crusher.html#a70238afe4b9ae58b99067581db6734c8":[6,0,1623,2],
-"d9/d86/structnpc__anub__ar__crusher.html#ac20630563a1869f56f538968cb8bb1ea":[6,0,1623,3],
-"d9/d88/boss__assembly__of__iron_8cpp.html":[7,0,0,0,1,3,5,9,2,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee":[7,0,0,0,1,3,5,9,2,1,16]
+"d9/d86/structnpc__anub__ar__crusher.html":[6,0,1623]
 };

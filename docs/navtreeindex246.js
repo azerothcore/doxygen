@@ -1,5 +1,13 @@
 var NAVTREEINDEX246 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aea4c8a02be72cff77c1f60d75bdf39e3":[7,0,0,0,1,3,5,6,13,4,12],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aea5f7e7c51a63ce22aefc4ca1703bca4":[7,0,0,0,1,3,5,6,13,4,14],
+"d9/d6a/icecrown__citadel_8h.html#a309e95f01280442ae5ddfc07bf81c24c":[7,0,0,0,1,3,5,6,13,11],
+"d9/d6a/icecrown__citadel_8h.html#a309e95f01280442ae5ddfc07bf81c24ca0370cd81f51367e92178768f1faac14b":[7,0,0,0,1,3,5,6,13,11,0],
+"d9/d6a/icecrown__citadel_8h.html#a371fa53b2363b7032c1326ca4717a14f":[7,0,0,0,1,3,5,6,13,3],
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1":[7,0,0,0,1,3,5,6,13,12],
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a13503b3fc78cf4cc3591988e1ba8930a":[7,0,0,0,1,3,5,6,13,12,13],
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a17a09a330bd5f77a796eb92ec0c7c318":[7,0,0,0,1,3,5,6,13,12,0],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a219d7df5f3320c2dfe9587f89a65bdab":[7,0,0,0,1,3,5,6,13,12,8],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a26d0981681e1051ddaaea3583a035a10":[7,0,0,0,1,3,5,6,13,12,5],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a2c100163d577f700459f3a9decdb951d":[7,0,0,0,1,3,5,6,13,12,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d6d/structnpc__vh__teleportation__portal.html#a8856350d299bfb25a4e77bb8753afa14":[6,0,2271,9],
 "d9/d6d/structnpc__vh__teleportation__portal.html#aa58672b2022e44b90adc8bf331ee84fc":[6,0,2271,3],
 "d9/d6d/structnpc__vh__teleportation__portal.html#ac89ccf4030e5dffe15d0b24b991176de":[6,0,2271,10],
-"d9/d6d/structnpc__vh__teleportation__portal.html#acf09515827ae926fe83ffc87a7e35ac5":[6,0,2271,7],
-"d9/d6d/structnpc__vh__teleportation__portal.html#ad3606d29d814232a492e9e3e85048bd7":[6,0,2271,2],
-"d9/d6d/structnpc__vh__teleportation__portal.html#ad71dd5636c683cfac15423375c0dcc6d":[6,0,2271,5],
-"d9/d6d/structnpc__vh__teleportation__portal.html#ae4ed2aebf39ab2593c07ba3098341c91":[6,0,2271,0],
-"d9/d6d/structnpc__vh__teleportation__portal.html#af86eefc8c9e4187e52c4dd88c41cbc38":[6,0,2271,1],
-"d9/d6e/classSmartWaypointMgr.html":[6,0,2591],
-"d9/d6e/classSmartWaypointMgr.html#a7299029b0e2063740fd2fe9d9b218749":[6,0,2591,1],
-"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[6,0,2591,3],
-"d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[6,0,2591,4]
+"d9/d6d/structnpc__vh__teleportation__portal.html#acf09515827ae926fe83ffc87a7e35ac5":[6,0,2271,7]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX357 =
 {
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#aae6517c4816eb9bbc5dfe245d69edd87":[6,0,665,0,4],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ab75e8eea72bde1bd15fe40e347373ab4":[6,0,665,0,12],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#abd00a0b514c11d8fa3786e1e61333138":[6,0,665,0,3],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#abf68aba465731a0ea7de305861ad4875":[6,0,665,0,5],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#abffb9efc207c98a30e1bfcf7b87fdb6d":[6,0,665,0,11],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ac7da92990a0d48e418115943ba7bdd51":[6,0,665,0,8],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ae94606f2b382e07cd3f4b9be48b1ca2d":[6,0,665,0,1],
+"dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ae969093bfb3466e332c1de7e65ceeb5d":[6,0,665,0,6],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html":[6,0,1636,0],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1636,0,5],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a23d54542e6debf39798c2a2d6e2a255d":[6,0,1636,0,2],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a252858818b61cf15e2e031ceaaadc6b8":[6,0,1636,0,6],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a4c681936d8e7053ace5cdeeaa1ee5ca9":[6,0,1636,0,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX357 =
 "de/d06/structDialogueEntry.html#a360822e4c069be6019c0a465cb2499cf":[6,0,1003,2],
 "de/d06/structDialogueEntry.html#a3f9e374ec2a49823d942c29572ac2fa0":[6,0,1003,0],
 "de/d06/structDialogueEntry.html#a942073f24fd12da712184243d9f098f2":[6,0,1003,1],
-"de/d06/structboss__headless__horseman.html":[6,0,539],
-"de/d06/structboss__headless__horseman.html#a06a654a822967c02dbab2c75f211e072":[6,0,539,7],
-"de/d06/structboss__headless__horseman.html#a076037b8bad3648551997915d97fb9b2":[6,0,539,16],
-"de/d06/structboss__headless__horseman.html#a091a925d7040e29efc54a4c5f123591d":[6,0,539,21],
-"de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[6,0,539,5],
-"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[6,0,539,15],
-"de/d06/structboss__headless__horseman.html#a4f791099607d7861cfa193f9b5fc265b":[6,0,539,0],
-"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,539,9],
-"de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[6,0,539,20],
-"de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[6,0,539,1],
-"de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[6,0,539,6]
+"de/d06/structboss__headless__horseman.html":[6,0,539]
 };

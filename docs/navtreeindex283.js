@@ -1,5 +1,13 @@
 var NAVTREEINDEX283 =
 {
+"da/df8/classspell__putricide__mutated__transformation__dmg.html":[6,0,3812],
+"da/df8/classspell__putricide__mutated__transformation__dmg.html#a91b96940a9e72e632989b49f7e475dba":[6,0,3812,2],
+"da/df8/classspell__putricide__mutated__transformation__dmg.html#a92cc71f268793c616bed66d9a489a145":[6,0,3812,0],
+"da/df8/classspell__putricide__mutated__transformation__dmg.html#ae27e6ceab6b92e59c97307ed10f24ab2":[6,0,3812,1],
+"da/df8/structGameObjectAIFactory.html":[6,0,1104],
+"da/df8/structGameObjectAIFactory.html#a2f658540a81d207694b6d2d783009380":[6,0,1104,0],
+"da/df8/structGameObjectAIFactory.html#a94fa057baafbbad4b81b97aea34354a3":[6,0,1104,1],
+"da/df8/structGameObjectAIFactory.html#ae8b7e45a73f87249e27a4dae596b0d52":[6,0,1104,2],
 "da/df8/structLiquidData.html":[6,0,1450],
 "da/df8/structLiquidData.html#a7c596e921e383bbdbdacbcd4307fe380":[6,0,1450,4],
 "da/df8/structLiquidData.html#aa0903ec4233bcfa34494cea5068cd19c":[6,0,1450,3],
@@ -189,8 +197,8 @@ var NAVTREEINDEX283 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,92],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,104],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,92],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,104,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,92,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,104,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX283 =
 "db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca5346240e8c688dd7bf7a8df2c6732d35":[7,0,0,0,1,3,5,4,0,1,5,8],
 "db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca57382655287fe8ca5fd0595a9bf6a59c":[7,0,0,0,1,3,5,4,0,1,5,11],
 "db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca7822ea80b05ae0b48a5674bd6e2867bc":[7,0,0,0,1,3,5,4,0,1,5,6],
-"db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c5e21eb7c9dd11dca29dcdf9102457d":[7,0,0,0,1,3,5,4,0,1,5,2],
-"db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cacd964cb4136fe85076468255c1700b08":[7,0,0,0,1,3,5,4,0,1,5,3],
-"db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caec93b37b07bbaad4a9591f2fb7d83b38":[7,0,0,0,1,3,5,4,0,1,5,4],
-"db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caed851cd46afde48db65abba69f3bf42e":[7,0,0,0,1,3,5,4,0,1,5,5],
-"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,4,0,1,6],
-"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1cbca2e8e25eb4e6c422a1a08ff872bf":[7,0,0,0,1,3,5,4,0,1,6,4],
-"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a279474d5b8e7a2c4c44aee34e0f8eddb":[7,0,0,0,1,3,5,4,0,1,6,8],
-"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a37b7695030ef8ce337f5aea38b3c92ef":[7,0,0,0,1,3,5,4,0,1,6,0],
-"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50c25068d3490fb2b31176c6be60f61c":[7,0,0,0,1,3,5,4,0,1,6,1]
+"db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c5e21eb7c9dd11dca29dcdf9102457d":[7,0,0,0,1,3,5,4,0,1,5,2]
 };

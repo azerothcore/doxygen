@@ -1,5 +1,15 @@
 var NAVTREEINDEX350 =
 {
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab7e058e22823b1ecd7808431ad954776":[7,0,0,0,1,3,5,4,2,5,7,12],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22abd0b9c7b9d0b208fcead4720ad38d042":[7,0,0,0,1,3,5,4,2,5,7,14],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af518e963a086cad66387279ed8eaa8cf":[7,0,0,0,1,3,5,4,2,5,7,0],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af6f56f225316a37ef26e1369074d36ab":[7,0,0,0,1,3,5,4,2,5,7,2],
+"dd/dac/structModelEquip.html":[6,0,1545],
+"dd/dac/structModelEquip.html#a719c716f8914a200bfde4f5bb3275f26":[6,0,1545,0],
+"dd/dac/structModelEquip.html#a9de7aa11788b22692738b72718193057":[6,0,1545,3],
+"dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2],
+"dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
+"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8],
 "dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0],
 "dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX350 =
 "dd/db3/classReputationMgr.html#af617ab394cc9995ad7cf7e1dc6c4415b":[6,0,2514,21],
 "dd/db3/classReputationMgr.html#af636fd98488c7661eba8bee677e139a7":[6,0,2514,7],
 "dd/db3/classReputationMgr.html#af67314d7007c3b81130dd1e47c479d7d":[6,0,2514,34],
-"dd/db3/classReputationMgr.html#af7c9b1b5eb2fdb2681b21bf729a55fb0":[6,0,2514,25],
-"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2514,39],
-"dd/db4/classnpc__future__you.html":[6,0,1821],
-"dd/db4/classnpc__future__you.html#a2e1529fef3ce307d98057dc93ce5e5fe":[6,0,1821,2],
-"dd/db4/classnpc__future__you.html#a36e363156bcb32fee468989062817bd5":[6,0,1821,1],
-"dd/db6/classgo__loosely__turned__soil.html":[6,0,1181],
-"dd/db6/classgo__loosely__turned__soil.html#a1ac57b34c5b3e21c033330eaeefaa6a8":[6,0,1181,3],
-"dd/db6/classgo__loosely__turned__soil.html#a3b4d51e2b3a604e030962127269236f1":[6,0,1181,1],
-"dd/db6/classgo__loosely__turned__soil.html#acead5810a848f8837fa65af1f2ac00bd":[6,0,1181,2],
-"dd/db7/classAllSpellScript.html":[6,0,158],
-"dd/db7/classAllSpellScript.html#a026842dcd2d8c0e0c3f99718b04e86b0":[6,0,158,2]
+"dd/db3/classReputationMgr.html#af7c9b1b5eb2fdb2681b21bf729a55fb0":[6,0,2514,25]
 };

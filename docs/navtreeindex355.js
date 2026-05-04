@@ -1,5 +1,15 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,13,6,6,3],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,34,6,6,5],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[6,0,13,6,6,5],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,34,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[6,0,13,6,6,0],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html":[6,0,1610],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[6,0,1610,8],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[6,0,1610,9],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a642390a59ff46236dc3b429f371ea8cd":[6,0,1610,4],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[6,0,1610,6],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[6,0,1610,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX355 =
 "dd/de8/structboss__ebonroc.html#afa0e5ad6e2eb3d8df539266623dbffb4":[6,0,452,2],
 "dd/de9/classGameObjectScript.html":[6,0,1113],
 "dd/de9/classGameObjectScript.html#a020e07dfd6e99b55bf5c8e56cfdd3948":[6,0,1113,3],
-"dd/de9/classGameObjectScript.html#a042676e98453494ab49bb90216755052":[6,0,1113,5],
-"dd/de9/classGameObjectScript.html#a05492473fa28c0f7c80770aa3445ce4e":[6,0,1113,1],
-"dd/de9/classGameObjectScript.html#a1ff457beae2b6249a9d3ecd08fd1b5a4":[6,0,1113,11],
-"dd/de9/classGameObjectScript.html#a233712ff412081583a8295cf512da48d":[6,0,1113,13],
-"dd/de9/classGameObjectScript.html#a2fb7d0f8f01ce083643bc0cb810fc612":[6,0,1113,4],
-"dd/de9/classGameObjectScript.html#a4992d88f026bf906852f085db4e8768e":[6,0,1113,6],
-"dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d":[6,0,1113,7],
-"dd/de9/classGameObjectScript.html#a612884c70eed9c56958ab49dc1e2bb1f":[6,0,1113,8],
-"dd/de9/classGameObjectScript.html#a9d9cf73435a16d7fef450134c03980bb":[6,0,1113,0],
-"dd/de9/classGameObjectScript.html#ab93c178f2137e92da28665d28bfec1d5":[6,0,1113,10],
-"dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[6,0,1113,2]
+"dd/de9/classGameObjectScript.html#a042676e98453494ab49bb90216755052":[6,0,1113,5]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX404 =
 {
+"df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df":[7,0,0,0,1,3,2,1,0,0,9,1],
+"df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,2,1,0,0,9,0],
+"df/d57/blackrock__depths_8cpp.html#a66b9acb193a7b1cc44113a9db0539905":[7,0,0,0,1,3,2,1,0,0,15],
+"df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137db":[7,0,0,0,1,3,2,1,0,0,10],
+"df/d57/blackrock__depths_8cpp.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a":[7,0,0,0,1,3,2,1,0,0,10,0],
+"df/d57/blackrock__depths_8cpp.html#aaeadf68886d098aa12fbc52043317c2c":[7,0,0,0,1,3,2,1,0,0,14],
+"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4":[7,0,0,0,1,3,2,1,0,0,12],
+"df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125":[7,0,0,0,1,3,2,1,0,0,12,0],
+"df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec":[7,0,0,0,1,3,2,1,0,0,16],
+"df/d57/classnpc__lake__frog.html":[6,0,1941],
 "df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1941,2],
 "df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1941,1],
 "df/d57/classnpc__prospector__remtravel.html":[6,0,2079],
@@ -90,8 +100,8 @@ var NAVTREEINDEX404 =
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[6,0,2890,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,9,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,9,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,29,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,9,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[7,0,0,0,1,3,4,8,1,3,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6c/classspell__sartharion__lava__strike.html#a8278d362a4354ccf81665ce0067c9a06":[6,0,3997,4],
 "df/d6c/classspell__sartharion__lava__strike.html#a8372b7d176c94689b1b7fe99add7812e":[6,0,3997,1],
 "df/d6c/classspell__sartharion__lava__strike.html#aa657a9869f04a1d1d2ce71f6d8464b17":[6,0,3997,6],
-"df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[6,0,3997,2],
-"df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[6,0,3997,0],
-"df/d6c/structB64Impl.html":[6,0,313],
-"df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,313,4],
-"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,313,2],
-"df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,313,3],
-"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,313,0],
-"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,313,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,338,2]
+"df/d6c/classspell__sartharion__lava__strike.html#ae47e8a9c4223fd65b81c842687e19f44":[6,0,3997,2]
 };

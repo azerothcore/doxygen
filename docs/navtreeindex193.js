@@ -1,5 +1,8 @@
 var NAVTREEINDEX193 =
 {
+"d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html":[6,0,2845],
+"d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a1b59480ce384f09cecd47872b39cf3c5":[6,0,2845,3],
+"d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a20c696ff06f9b48451d9eac43ccf5416":[6,0,2845,4],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a314ac33692cc352c490ec3d87177d67a":[6,0,2845,0],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#ac5d4ee199b49e04499997355ac054554":[6,0,2845,2],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#af5a498253c4c382df3b2462a30448a64":[6,0,2845,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[6,0,620,5],
 "d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[6,0,620,2],
 "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[6,0,620,7],
-"d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[6,0,620,6],
-"d7/d23/structboss__magus__telestra.html#a91b4569027b3414814bf1f2e86441fc6":[6,0,620,4],
-"d7/d23/structboss__magus__telestra.html#a9ef67f8a53c5dceaf74bc156e0c6edad":[6,0,620,1],
-"d7/d23/structboss__magus__telestra.html#ac48bb325de6641a1f2f980f15b8e3eb4":[6,0,620,8]
+"d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[6,0,620,6]
 };

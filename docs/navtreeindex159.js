@@ -1,5 +1,8 @@
 var NAVTREEINDEX159 =
 {
+"d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a":[7,0,0,0,1,2,16,1,4,5,2],
+"d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c":[7,0,0,0,1,2,16,1,4,5,7],
+"d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2":[7,0,0,0,1,2,16,1,4,5,0],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043":[7,0,0,0,1,2,16,1,4,5,4],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87":[7,0,0,0,1,2,16,1,4,5,6],
 "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6":[7,0,0,0,1,2,16,1,4,5,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a901e60dd92a92f9b0f3e1d709857498f":[7,0,0,0,1,3,5,2,0,0,12,2],
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810":[7,0,0,0,1,3,5,2,0,0,12,6],
 "d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2ac7597b8d89777fc8c1dc3c5e3c8a7a9e":[7,0,0,0,1,3,5,2,0,0,12,9],
-"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2ae89cf1226fe676ebfd7a92a765832a4b":[7,0,0,0,1,3,5,2,0,0,12,0],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8":[7,0,0,0,1,3,5,2,0,0,11],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a692f5a65959d73e4e70a6be60c044783":[7,0,0,0,1,3,5,2,0,0,11,4],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a6e884319a5fb4505ce978e9a48d2a495":[7,0,0,0,1,3,5,2,0,0,11,6]
+"d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2ae89cf1226fe676ebfd7a92a765832a4b":[7,0,0,0,1,3,5,2,0,0,12,0]
 };

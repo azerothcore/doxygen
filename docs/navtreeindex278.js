@@ -1,5 +1,13 @@
 var NAVTREEINDEX278 =
 {
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870ed":[7,0,0,0,1,2,16,7,5,95],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda01028419e0fdd37426276b1b6c6a9784":[7,0,0,0,1,2,16,7,5,95,1],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda6123ab27dcbbe6042bec1e3230fe3c2d":[7,0,0,0,1,2,16,7,5,95,2],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda8b35d1194abf0f952fc5fb6450bea654":[7,0,0,0,1,2,16,7,5,95,0],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef":[7,0,0,0,1,2,16,7,5,95,3],
+"da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939":[7,0,0,0,1,2,16,7,5,119],
+"da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba":[7,0,0,0,1,2,16,7,5,119,0],
+"da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a9ad97828a3dd598a45dcbbcd3969879b":[7,0,0,0,1,2,16,7,5,119,2],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939ab467688094fd105e608cb31d0f90ffd2":[7,0,0,0,1,2,16,7,5,119,1],
 "da/dbf/Player_8h.html#ae1f5dfd68177d7823343e24d6f44ad53":[7,0,0,0,1,2,16,7,5,113],
 "da/dbf/Player_8h.html#ae1f5dfd68177d7823343e24d6f44ad53a7f7c7f88e57bb73d47601fbe96281658":[7,0,0,0,1,2,16,7,5,113,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX278 =
 "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a":[5,0,27,3],
 "da/dd0/namespacePlayerSettingsStore.html#ab725e991f09f03e0413ffe44fa807ead":[5,0,27,4],
 "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745":[5,0,27,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[5,0,0,48],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[6,0,0,36],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[6,0,0,36,6],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,0,48,6],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[6,0,0,36,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,48,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,48,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,36,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,36,5]
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[6,0,0,36]
 };

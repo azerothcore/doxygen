@@ -1,5 +1,13 @@
 var NAVTREEINDEX242 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd":[7,0,0,0,1,3,2,12,5,10,19],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bc8f6a5f6622d513af49b9f777d29d1":[7,0,0,0,1,3,2,12,5,10,12],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1de72799279888b931f82177d5e8b842":[7,0,0,0,1,3,2,12,5,10,15],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca23774b52390332d7deb748a26be41544":[7,0,0,0,1,3,2,12,5,10,17],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d":[7,0,0,0,1,3,2,12,5,10,23],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,12,5,10,0],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96":[7,0,0,0,1,3,2,12,5,10,18],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca30349b5b8c99e7ab662311ad934e9767":[7,0,0,0,1,3,2,12,5,10,11],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca3089e3969b4a2147278ab7ee70ed4946":[7,0,0,0,1,3,2,12,5,10,8],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca4cfdce93ff4574a1ec3401d0cb3689c5":[7,0,0,0,1,3,2,12,5,10,13],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f":[7,0,0,0,1,3,2,12,5,10,21],
@@ -241,13 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d54/classnpc__tirions__gambit__tirion.html#a5af904a3394de9b3eedb52009bd6b0a9":[6,0,2189,3],
 "d9/d54/classnpc__tirions__gambit__tirion.html#ad52abd46ccdd3b4409671679434c193c":[6,0,2189,1],
 "d9/d54/common_2Configuration_2Config_8cpp.html":[7,0,0,0,0,2,2],
-"d9/d54/common_2Configuration_2Config_8cpp.html#a7096a6c65872ca33d8f44bdd841eaa31":[7,0,0,0,0,2,2,1],
-"d9/d54/common_2Configuration_2Config_8cpp.html#a88481e3afc1a3d0cced9a0eb22ef52c4":[7,0,0,0,0,2,2,0],
-"d9/d54/common_2Configuration_2Config_8cpp.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee":[7,0,0,0,0,2,2,2],
-"d9/d54/structnpc__necropolis__relay.html":[6,0,1999],
-"d9/d54/structnpc__necropolis__relay.html#a044958acd1449d664532aeea7d0cb2fd":[6,0,1999,0],
-"d9/d54/structnpc__necropolis__relay.html#a1968d3537de2bdb9d4786cc96d2c346c":[6,0,1999,2],
-"d9/d54/structnpc__necropolis__relay.html#a45fdef0f86f18b87b90d2b4f9c0df9cb":[6,0,1999,1],
-"d9/d55/UnitAI_8h.html":[7,0,0,0,1,2,3,0,15],
-"d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3":[7,0,0,0,1,2,3,0,15,8]
+"d9/d54/common_2Configuration_2Config_8cpp.html#a7096a6c65872ca33d8f44bdd841eaa31":[7,0,0,0,0,2,2,1]
 };

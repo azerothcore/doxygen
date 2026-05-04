@@ -1,5 +1,15 @@
 var NAVTREEINDEX401 =
 {
+"df/d2d/structGossipMenus.html#a6ec8df5fcc5126bdee656ca08c0a5edc":[6,0,1234,2],
+"df/d2d/structGossipMenus.html#a732aa82f621c312745ddbd6fe2e3e906":[6,0,1234,1],
+"df/d2d/structGossipMenus.html#a93edc2f0d71164b683c844b713befa85":[6,0,1234,0],
+"df/d2f/classDelayedMovementEvent.html":[6,0,996],
+"df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe":[6,0,996,3],
+"df/d2f/classDelayedMovementEvent.html#a21241cde30f66ae42edb311542f7405c":[6,0,996,0],
+"df/d2f/classDelayedMovementEvent.html#a8287761226ee671905151891779b6efb":[6,0,996,1],
+"df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58":[6,0,996,2],
+"df/d30/boss__gluth_8cpp.html":[7,0,0,0,1,3,5,7,3],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,3,4],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa03c0ac324d8c639af54683066910ea95":[7,0,0,0,1,3,5,7,3,4,0],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,3,4,2],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,7,3,4,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX401 =
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#a9b770bea32f0c3af7f5eb71eeea286fb":[6,0,4149,3],
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#ac5b2bc61e52a895d35e3a4e8232f1659":[6,0,4149,2],
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#af78d13a65fe21879fdb9147cdb0f2352":[6,0,4149,0],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,297,17],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,297,17,0],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[6,0,297,17,3],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[6,0,297,17,2],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#af5098bcedac048808e11bf2f82d705a7":[6,0,297,17,1],
-"df/d3d/classBfCapturePoint.html":[6,0,360],
-"df/d3d/classBfCapturePoint.html#a02eab1f489ee817d0b0263a57eb71ed2":[6,0,360,9],
-"df/d3d/classBfCapturePoint.html#a04eb49f420c0c2ed61789331c6769909":[6,0,360,16],
-"df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[6,0,360,4],
-"df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f":[6,0,360,6],
-"df/d3d/classBfCapturePoint.html#a124efffeeea68485676dac664f89aea3":[6,0,360,21]
+"df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,297,17]
 };

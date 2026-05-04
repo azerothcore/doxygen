@@ -1,5 +1,15 @@
 var NAVTREEINDEX405 =
 {
+"df/d6c/classspell__sartharion__lava__strike.html#aebbcaa1df9a6379998bb2069089f45bd":[6,0,3997,0],
+"df/d6c/structB64Impl.html":[6,0,313],
+"df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,313,4],
+"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,313,2],
+"df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,313,3],
+"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,313,0],
+"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,313,1],
+"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,338,2],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,338,5],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,338,4],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,338,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX405 =
 "df/d76/structnpc__rookery__hatcher.html#ab49d35c9d22408b01e27c8c7933433e0":[6,0,2105,4],
 "df/d76/structnpc__rookery__hatcher.html#ac49345c80e58f7c0094fe1b62ac4bf84":[6,0,2105,6],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html":[6,0,2183,0],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[6,0,2183,0,1],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a537ed9f2d0a638d01e877d9ca1e7fdf0":[6,0,2183,0,6],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a5e6da0a5f5190d7959faff60851e679a":[6,0,2183,0,2],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[6,0,2183,0,4],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a994a9030e2d8c5afaa66c21897e54f82":[6,0,2183,0,3],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[6,0,2183,0,8],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aaad63a0de8acfc17355b7a35de4cc164":[6,0,2183,0,5],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2183,0,7],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2183,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2293,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2293,0,3]
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[6,0,2183,0,1]
 };

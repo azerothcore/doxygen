@@ -1,7 +1,15 @@
 var NAVTREEINDEX253 =
 {
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aafa4bed13bae581434aa03949b75ea9f6":[7,0,0,0,1,3,2,1,0,14,2,2],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aaff0460a8faebcf8d8d19931173eb26fd":[7,0,0,0,1,3,2,1,0,14,2,4],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84":[7,0,0,0,1,3,2,1,0,14,4],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a475f1dbc77ce1f36d8de90816ac55b25":[7,0,0,0,1,3,2,1,0,14,4,0],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a6c9563271414c3c12336a92737d467f9":[7,0,0,0,1,3,2,1,0,14,4,1],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[7,0,0,0,1,3,2,1,0,14,4,2],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
@@ -241,13 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[6,0,2325,0,1],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[6,0,2325,0,0],
 "d9/dd9/ArenaTeamMgr_8h.html":[7,0,0,0,1,2,8,8],
-"d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[7,0,0,0,1,2,8,8,1],
-"d9/dd9/ArenaTeamMgr_8h.html#aa472ba6cfd587021965aece0e77797b7":[7,0,0,0,1,2,8,8,2],
-"d9/dd9/ArenaTeamMgr_8h.html#ade4bc52db611f6481d3c8f5e6f346b4c":[7,0,0,0,1,2,8,8,3],
-"d9/dd9/structgo__transport__the__purple__princess.html":[6,0,1216],
-"d9/dd9/structgo__transport__the__purple__princess.html#ab0c79197964857d578036693a2c18e8a":[6,0,1216,0],
-"d9/dd9/structgo__transport__the__purple__princess.html#ac5b73f1bea180797169138f8e9228783":[6,0,1216,1],
-"d9/dda/PCQueue_8h.html":[7,0,0,0,0,14,2],
-"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[6,0,2441],
-"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[6,0,2441,0]
+"d9/dd9/ArenaTeamMgr_8h.html#a94afc7262fb2f00293dc80de8ba547df":[7,0,0,0,1,2,8,8,1]
 };

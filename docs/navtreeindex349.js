@@ -1,5 +1,15 @@
 var NAVTREEINDEX349 =
 {
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[5,0,0,126,2],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,114,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,0,126,1],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[6,0,1879,0],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[6,0,1879,0,4],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[6,0,1879,0,3],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a5003e3a1ccb955b209c1ab91a49d217f":[6,0,1879,0,1],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a585baff53f5d57ca0dc9002181e8d2bc":[6,0,1879,0,5],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a605687080e5149b3f08ce8349ba9b336":[6,0,1879,0,2],
+"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#aa7532b691e85fd9bd467e20db39c59da":[6,0,1879,0,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#ac86fb8a5a55654ff7697abd9162135c1":[6,0,1879,0,6],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3183],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3183,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a9457ab221ba3ea26f02d788ebe1bf077":[7,0,0,0,1,3,5,4,2,5,7,15],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a9ff54856dfb80a6a8e2edb3523e6a66d":[7,0,0,0,1,3,5,4,2,5,7,10],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22aa65ac0ac68c78f1c2ea895c7db9bf159":[7,0,0,0,1,3,5,4,2,5,7,5],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab354c925e25991c45e63ec89601569a3":[7,0,0,0,1,3,5,4,2,5,7,18],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab7e058e22823b1ecd7808431ad954776":[7,0,0,0,1,3,5,4,2,5,7,12],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22abd0b9c7b9d0b208fcead4720ad38d042":[7,0,0,0,1,3,5,4,2,5,7,14],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af518e963a086cad66387279ed8eaa8cf":[7,0,0,0,1,3,5,4,2,5,7,0],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af6f56f225316a37ef26e1369074d36ab":[7,0,0,0,1,3,5,4,2,5,7,2],
-"dd/dac/structModelEquip.html":[6,0,1545],
-"dd/dac/structModelEquip.html#a719c716f8914a200bfde4f5bb3275f26":[6,0,1545,0],
-"dd/dac/structModelEquip.html#a9de7aa11788b22692738b72718193057":[6,0,1545,3],
-"dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2],
-"dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
-"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8]
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab354c925e25991c45e63ec89601569a3":[7,0,0,0,1,3,5,4,2,5,7,18]
 };
