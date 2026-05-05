@@ -10,8 +10,6 @@ var zone__storm__peaks_8cpp =
     [ "npc_brunnhildar_prisoner::npc_brunnhildar_prisonerAI", "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html", "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI" ],
     [ "npc_freed_protodrake", "dd/db0/classnpc__freed__protodrake.html", "dd/db0/classnpc__freed__protodrake" ],
     [ "npc_freed_protodrake::npc_freed_protodrakeAI", "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html", "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI" ],
-    [ "npc_icefang", "d7/d6d/classnpc__icefang.html", "d7/d6d/classnpc__icefang" ],
-    [ "npc_icefang::npc_icefangAI", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html", "d4/dd3/structnpc__icefang_1_1npc__icefangAI" ],
     [ "npc_hyldsmeet_protodrake", "d9/d31/structnpc__hyldsmeet__protodrake.html", "d9/d31/structnpc__hyldsmeet__protodrake" ],
     [ "spell_close_rift_aura", "d6/dcc/classspell__close__rift__aura.html", "d6/dcc/classspell__close__rift__aura" ],
     [ "spell_q12823_remove_collapsing_cave_aura", "db/d95/classspell__q12823__remove__collapsing__cave__aura.html", "db/d95/classspell__q12823__remove__collapsing__cave__aura" ],

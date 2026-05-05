@@ -2431,7 +2431,6 @@ var annotated_dup =
     [ "npc_icc_valkyr_herald", "dc/dd9/classnpc__icc__valkyr__herald.html", "dc/dd9/classnpc__icc__valkyr__herald" ],
     [ "npc_icc_vengeful_fleshreaper", "db/d3e/classnpc__icc__vengeful__fleshreaper.html", "db/d3e/classnpc__icc__vengeful__fleshreaper" ],
     [ "npc_ice_tomb", "dc/d2e/classnpc__ice__tomb.html", "dc/d2e/classnpc__ice__tomb" ],
-    [ "npc_icefang", "d7/d6d/classnpc__icefang.html", "d7/d6d/classnpc__icefang" ],
     [ "npc_ichor_globule", "d6/dd8/structnpc__ichor__globule.html", "d6/dd8/structnpc__ichor__globule" ],
     [ "npc_idol_room_spawner", "db/d73/classnpc__idol__room__spawner.html", "db/d73/classnpc__idol__room__spawner" ],
     [ "npc_igb_ship_crew", "d2/dc0/classnpc__igb__ship__crew.html", "d2/dc0/classnpc__igb__ship__crew" ],
