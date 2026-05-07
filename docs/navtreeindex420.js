@@ -1,5 +1,11 @@
 var NAVTREEINDEX420 =
 {
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a101518193c0fb6bbd6892362a6f09b9c":[6,0,400,0,0],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[6,0,400,0,2],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a5abb4c2b4149172d2e7bf0d539237323":[6,0,400,0,5],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a7d101626f39947dd54b574491a5e6d72":[6,0,400,0,4],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a8d7fef6dfcdc5be20f0531c34b09fc13":[6,0,400,0,6],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#ab51f09b76054d8bdb13f3c27396db87e":[6,0,400,0,7],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ac9f82f61ee7fe945cb3fba23a69e704c":[6,0,400,0,1],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ace4a10f62eaa21ecd997ad1dbe15f3c8":[6,0,400,0,3],
 "df/de1/classnpc__gunship__boarding__leader.html":[6,0,1844],
@@ -178,14 +184,14 @@ var NAVTREEINDEX420 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a9c9004add3c23b6c6ec35743282a18f6":[7,0,0,0,1,3,7,5,3,6,4,4],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22aa27967dfb2f00440ea6227a1ba33e4f2":[7,0,0,0,1,3,7,5,3,6,4,1],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,16,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,13,16,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,13,16,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,16,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,16,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,13,16,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,13,16,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,16,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,13,16,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,13,16,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,16,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,13,16,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,376],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,376,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,376,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX420 =
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3491,0],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3491,3],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3491,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,1,17],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[7,0,0,0,1,3,5,6,1,17,2],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,6,1,17,0],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[7,0,0,0,1,3,5,6,1,17,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463eac6cabd19d685d8d2601495f5b03ed1bc":[7,0,0,0,1,3,5,6,1,17,3]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX215 =
 {
-"d7/de9/classgo__evil__book__for__dummies.html#a3d755fa8777f33a318ffa6f004aecbed":[6,0,1168,1],
 "d7/de9/classgo__evil__book__for__dummies.html#a69f599910bce0070c6b1af547c459b72":[6,0,1168,0],
 "d7/de9/classgo__evil__book__for__dummies.html#ac4bc1c682b75c436a4d3fff118a20ca4":[6,0,1168,3],
 "d7/de9/classgo__evil__book__for__dummies.html#aeb29351e2faf135298419488eb16cc7e":[6,0,1168,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX215 =
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1af96be269aa2444d2b7108eb4e531c9f1":[7,0,0,0,1,2,16,10,6,19,1],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343":[7,0,0,0,1,2,16,10,6,18],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a2a68c5a1b9533356c3ad598fe72ee951":[7,0,0,0,1,2,16,10,6,18,3],
-"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4]
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4],
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a6856bef881835abf4ffdab1928fd0993":[7,0,0,0,1,2,16,10,6,18,5]
 };

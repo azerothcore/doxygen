@@ -1,5 +1,10 @@
 var NAVTREEINDEX253 =
 {
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
+"d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[7,0,0,0,1,3,10,13,2,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[7,0,0,0,1,3,10,13,2,12],
@@ -244,10 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dda/PCQueue_8h.html":[7,0,0,0,0,14,2],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[6,0,2440],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[6,0,2440,0],
-"d9/ddb/ObjectVisibilityContainer_8h.html":[7,0,0,0,1,2,16,5,9],
-"d9/ddb/ObjectVisibilityContainer_8h.html#a52b38df575afa7eef8fb58759ee03bd8":[7,0,0,0,1,2,16,5,9,1],
-"d9/ddb/ObjectVisibilityContainer_8h.html#a6fe979433a4dd2c9023626ecc74bf6a5":[7,0,0,0,1,2,16,5,9,2],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html":[7,0,0,0,1,2,16,4,4],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[7,0,0,0,1,2,16,4,4,3],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[7,0,0,0,1,2,16,4,4,5]
+"d9/ddb/ObjectVisibilityContainer_8h.html":[7,0,0,0,1,2,16,5,9]
 };

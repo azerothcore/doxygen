@@ -1,5 +1,11 @@
 var NAVTREEINDEX329 =
 {
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a276eca6e65b32905f6919d49530ccc2f":[6,0,1625,2],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a89abbce738f115c26dae9dacb065cc3d":[6,0,1625,0],
+"dc/db1/classMidsummerPlayerScript.html":[6,0,1529],
+"dc/db1/classMidsummerPlayerScript.html#ace19c3dfaec5aa5bdfab46552a759306":[6,0,1529,0],
+"dc/db1/classMidsummerPlayerScript.html#af512e1744264ac69fe2b7f7ba3836760":[6,0,1529,1],
+"dc/db1/classspell__gen__mount.html":[6,0,3059],
 "dc/db1/classspell__gen__mount.html#a1237697623e4831c25efcde1ab370031":[6,0,3059,7],
 "dc/db1/classspell__gen__mount.html#a49e2046d30352a6e22dab2530e909fa7":[6,0,3059,2],
 "dc/db1/classspell__gen__mount.html#a53ce7d1b5a39cce2bede77aad647dc7e":[6,0,3059,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,1,1,3,7,0],
 "dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,1,1,3,7,3],
 "dc/db6/boss__saviana__ragefire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab0ad4be19678ff32aa826af2257aafe8":[7,0,0,0,1,3,5,1,1,3,7,1],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,1,3,4],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,5,1,1,3,4,2],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[7,0,0,0,1,3,5,1,1,3,4,5],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,1,1,3,4,7],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,1,1,3,4,0],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a483043dec22247ba5728a8f9126fa20a":[7,0,0,0,1,3,5,1,1,3,4,4],
-"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a776724500598dde4c09d98ab3734dd8b":[7,0,0,0,1,3,5,1,1,3,4,1]
+"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,1,3,4]
 };

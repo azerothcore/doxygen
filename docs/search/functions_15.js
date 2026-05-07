@@ -18,7 +18,7 @@ var searchData=
   ['unitaura_15',['UnitAura',['../d8/d9f/classUnitAura.html#ada4033955271dfb21d16a95b316087f5',1,'UnitAura']]],
   ['unitauracheck_16',['UnitAuraCheck',['../d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352',1,'Acore::UnitAuraCheck']]],
   ['unitdeleted_17',['UnitDeleted',['../d4/dbf/classSafeUnitPointer.html#a872b0a86328fb03e5feccdf364ea5cce',1,'SafeUnitPointer']]],
-  ['unitisunfair_18',['UnitIsUnfair',['../d0/dfc/structNPCStaveQuestAI.html#ad830292fa123bd4bf2057eadb07fb60b',1,'NPCStaveQuestAI']]],
+  ['unitisunfair_18',['UnitIsUnfair',['../d0/dfc/structNPCStaveQuestAI.html#acb429c642b2004869c54cd4000eb2c59',1,'NPCStaveQuestAI']]],
   ['unitlastsearcher_19',['UnitLastSearcher',['../d0/de9/structAcore_1_1UnitLastSearcher.html#a7924240df139cf0814282eaff8a898b6',1,'Acore::UnitLastSearcher']]],
   ['unitlistsearcher_20',['UnitListSearcher',['../da/dbe/structAcore_1_1UnitListSearcher.html#a24c0de32dc3baa927962626421a343ae',1,'Acore::UnitListSearcher']]],
   ['unitscript_21',['UnitScript',['../d2/d12/classUnitScript.html#a109b6b1a101953feb0f157729f3df5d2',1,'UnitScript']]],

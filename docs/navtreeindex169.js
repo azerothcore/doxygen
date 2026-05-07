@@ -1,6 +1,5 @@
 var NAVTREEINDEX169 =
 {
-"d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564":[7,0,0,0,1,3,10,5,67],
 "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a057297ac9ac83c5484599c5216940bbe":[7,0,0,0,1,3,10,5,67,5],
 "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a3f83ee9e66dd1cafe729ace62e3fe750":[7,0,0,0,1,3,10,5,67,1],
 "d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a88789829db8a93162b1d05164419cab8":[7,0,0,0,1,3,10,5,67,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX169 =
 "d6/d14/structGameObjectDisplayInfoEntry.html#acb74e32790b2c60cca5faef1caa225e4":[6,0,1107,4],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html":[6,0,2972],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html#a859ac50e6774471c232113e5c007f602":[6,0,2972,1],
-"d6/d15/classspell__gen__allow__cast__from__item__only.html#a8a1367ad6c51a74e7cefbc2440eab697":[6,0,2972,0]
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#a8a1367ad6c51a74e7cefbc2440eab697":[6,0,2972,0],
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[6,0,2972,2]
 };

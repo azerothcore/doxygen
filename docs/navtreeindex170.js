@@ -1,6 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[6,0,2972,2],
 "d6/d15/structHalaaIds.html":[6,0,1277],
 "d6/d15/structHalaaIds.html#a1fbc40a9798b89ae8b903b1f5a6a8e67":[6,0,1277,0],
 "d6/d15/structnpc__hivezara__stinger.html":[6,0,1865],
@@ -29,14 +28,14 @@ var NAVTREEINDEX170 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1370,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,13,6,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,13,6,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,13,6,42,1],
 "d6/d18/classModel.html":[6,0,1544],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1544,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1544,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX170 =
 "d6/d1d/classArenaScript.html#a548ac21d5bd9be263935a298a3b5cd16":[6,0,189,7],
 "d6/d1d/classArenaScript.html#a73719d3e62d1f7cf1f174292975f0f4f":[6,0,189,2],
 "d6/d1d/classArenaScript.html#aa85728dd471c2f4d58ed1794e741d060":[6,0,189,1],
-"d6/d1d/classArenaScript.html#ab6c90bb55c238fada3e9ddc993333d0d":[6,0,189,4]
+"d6/d1d/classArenaScript.html#ab6c90bb55c238fada3e9ddc993333d0d":[6,0,189,4],
+"d6/d1d/classArenaScript.html#acba88d9008e08873f3f20b92d69e8912":[6,0,189,0]
 };

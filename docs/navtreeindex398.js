@@ -1,5 +1,11 @@
 var NAVTREEINDEX398 =
 {
+"df/d1d/structAuctionHousePlayerInfo.html":[6,0,271],
+"df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[6,0,271,4],
+"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,271,2],
+"df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[6,0,271,3],
+"df/d1d/structAuctionHousePlayerInfo.html#ac88c2c37d92c9e4a8502a870a580fa01":[6,0,271,1],
+"df/d1d/structAuctionHousePlayerInfo.html#acb80e9b49dda9771679b871cf862d876":[6,0,271,0],
 "df/d1e/classUpdatableScript.html":[6,0,4535],
 "df/d1e/classUpdatableScript.html#a2d6cf85d1eb98438b5022804296eff11":[6,0,4535,0],
 "df/d1e/classUpdatableScript.html#abf328325e08aa0d6adf36e6f70b02328":[6,0,4535,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX398 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a457fdb5cc1a5e88757e62eca03a88a70":[7,0,0,0,1,2,16,5,0,4,6,38],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45b539b199367429e717b99815bae730":[7,0,0,0,1,2,16,5,0,4,6,230],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45dbd0c48d73e6f2f250ec0d8bb6c8d1":[7,0,0,0,1,2,16,5,0,4,6,259],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[7,0,0,0,1,2,16,5,0,4,6,302],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49274b75b31edf1b32e1922b5e37fb0c":[7,0,0,0,1,2,16,5,0,4,6,9],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70":[7,0,0,0,1,2,16,5,0,4,6,28],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4a39bc64daabfb9fda53c98cc4ce8caa":[7,0,0,0,1,2,16,5,0,4,6,110],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4dd058bb7ac3e02a35dddb4452d59a27":[7,0,0,0,1,2,16,5,0,4,6,165],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4f5133c7b83b63079278a987a443cba0":[7,0,0,0,1,2,16,5,0,4,6,20],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4f8a6a5eb8a791757df4a36f5c16ab96":[7,0,0,0,1,2,16,5,0,4,6,95]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[7,0,0,0,1,2,16,5,0,4,6,302]
 };

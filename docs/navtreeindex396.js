@@ -1,5 +1,11 @@
 var NAVTREEINDEX396 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a1c7da222e3cbd70261d8fde5b4567ebe":[7,0,0,0,1,3,2,1,1,0,5,22],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a32cc23c6da3d110c70631aa99f4fc336":[7,0,0,0,1,3,2,1,1,0,5,17],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a38a7f7ad51f4ec2e91337883781e0227":[7,0,0,0,1,3,2,1,1,0,5,28],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a3ddb578e0a5da45528672cf30814abb9":[7,0,0,0,1,3,2,1,1,0,5,13],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a429e55a9de628624ca3406538c5b72f3":[7,0,0,0,1,3,2,1,1,0,5,19],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a461abb41884a3ef6688ddedb03b29f07":[7,0,0,0,1,3,2,1,1,0,5,15],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a46caa76e421265b40e4fbe06bcc49e45":[7,0,0,0,1,3,2,1,1,0,5,7],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a6da96e04fc2fe0322ea5aad590c0191c":[7,0,0,0,1,3,2,1,1,0,5,20],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a7a452f528f6ffc41f097bf704d23a6ef":[7,0,0,0,1,3,2,1,1,0,5,1],
@@ -241,13 +247,7 @@ var NAVTREEINDEX396 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,13,2,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,34,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,13,2,4,1],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,13,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,34,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,13,2,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,34,2,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,13,2,4,2],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
-"df/d14/classspell__item__heartpierce.html":[6,0,3377],
-"df/d14/classspell__item__heartpierce.html#a0843ac6c6171f1f22712175d96fbafba":[6,0,3377,3],
-"df/d14/classspell__item__heartpierce.html#a16098a3b719adcf3c63a09deb5ca7c80":[6,0,3377,1]
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,13,2,4,0],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,13,2,4,3]
 };

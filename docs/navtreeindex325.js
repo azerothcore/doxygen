@@ -1,5 +1,11 @@
 var NAVTREEINDEX325 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[7,0,0,0,1,3,5,7,5,10,0],
+"dc/d70/boss__grobbulus_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[7,0,0,0,1,3,5,7,5,11],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,5,8],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[7,0,0,0,1,3,5,7,5,8,1],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,7,5,8,2],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,5,8,0],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[7,0,0,0,1,3,5,7,5,8,3],
 "dc/d70/classnpc__toc5__grand__champion__minion.html":[6,0,2190],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[6,0,2190,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d7e/classboss__essence__of__desire.html#a5006ce57dd19c2a80e961dedca8c503d":[6,0,466,1],
 "dc/d81/classCreatureTextMgr.html":[6,0,964],
 "dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[6,0,964,0],
-"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9],
-"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[6,0,964,7],
-"dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[6,0,964,14],
-"dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[6,0,964,2],
-"dc/d81/classCreatureTextMgr.html#a2303c6343e233beb3f7a1ebda40e080e":[6,0,964,11],
-"dc/d81/classCreatureTextMgr.html#a5237341864a3082126bed703d68312b2":[6,0,964,4],
-"dc/d81/classCreatureTextMgr.html#a6f77e1f030bb16b585f9a75059a06f31":[6,0,964,1]
+"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9]
 };

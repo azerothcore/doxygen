@@ -1,10 +1,9 @@
 var NAVTREEINDEX190 =
 {
-"d6/dec/classinstance__onyxias__lair.html":[6,0,1347],
 "d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1347,1],
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1347,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,108],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,96],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,108],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,108,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,96,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,108,1],
@@ -13,8 +12,8 @@ var NAVTREEINDEX190 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,96,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,0,108,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,96,6],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,96,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,0,108,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,96,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,0,108,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,96,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,0,108,5],
@@ -119,12 +118,12 @@ var NAVTREEINDEX190 =
 "d6/dee/namespaceArenaSpectator.html#ae611c9f6783ca983d1ff667f36dd7c7d":[5,0,5,3],
 "d6/dee/namespaceArenaSpectator.html#ae899637e3543ca40ec63e98bf0426f58":[5,0,5,10],
 "d6/dee/namespaceArenaSpectator.html#af537ad9da6345b285d2d726b640a0340":[5,0,5,7],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,0,2,8],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,0,2,8,1],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,0,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,0,2,8,0],
 "d6/def/structnpc__hor__risen__witch__doctor.html":[6,0,1872],
 "d6/def/structnpc__hor__risen__witch__doctor.html#a63b9343146a8c950f5d31f21cd5f4838":[6,0,1872,3],
 "d6/def/structnpc__hor__risen__witch__doctor.html#a68e2913f88427b1d6cb35351d9b749a0":[6,0,1872,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX190 =
 "d6/df5/classSummonList.html#acbb55ee12b8de0065b2d9f73c90ef16a":[6,0,4451,19],
 "d6/df5/classSummonList.html#ad92b7ef0f8894a2a77bc7ffd098340b6":[6,0,4451,1],
 "d6/df5/classSummonList.html#ae2d5732e8c83010c52ff0efeac1f9493":[6,0,4451,13],
-"d6/df5/classSummonList.html#aeadfecb59c607666065b5fcec4f67fb2":[6,0,4451,26]
+"d6/df5/classSummonList.html#aeadfecb59c607666065b5fcec4f67fb2":[6,0,4451,26],
+"d6/df5/classSummonList.html#af6200864d90c65b27aca4146ae0fa1f6":[6,0,4451,10]
 };

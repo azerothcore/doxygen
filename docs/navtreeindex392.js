@@ -1,5 +1,11 @@
 var NAVTREEINDEX392 =
 {
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2291,0],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2291,0,6],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2291,0,0],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2291,0,5],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a369ae3d62d1289a1c840bdc3184b463d":[6,0,2291,0,4],
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a3c43ede2df7b1ea61b0f1625e2e1461c":[6,0,2291,0,9],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a7cad21f0b3286ed75256a49c315069ce":[6,0,2291,0,1],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a86929e8a2f3433f37e4dda03e3011193":[6,0,2291,0,2],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a9207ffdb39627b1262ec209fe41d6d0a":[6,0,2291,0,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX392 =
 "de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2788,2],
 "de/de3/structMySQLType.html":[6,0,1572],
 "de/de3/structboss__ick_1_1boss__ickAI.html":[6,0,559,0],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,559,0,12],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a27598604e65417225acd41d6f05cc717":[6,0,559,0,5],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a2d6192f314e76886204c7248d141260a":[6,0,559,0,3],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a5d90395d45509f8aeb244f4a4743d07d":[6,0,559,0,9],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a618c4e704d9a90d8bf4fac2d22bda6b3":[6,0,559,0,7],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a72c90af745b63202edc36b84b3f4df12":[6,0,559,0,0],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a74bd63ac9558ecec52affaa7440360a1":[6,0,559,0,10]
+"de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,559,0,12]
 };

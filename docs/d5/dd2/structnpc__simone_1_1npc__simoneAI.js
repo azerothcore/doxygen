@@ -7,7 +7,6 @@ var structnpc__simone_1_1npc__simoneAI =
     [ "JustEngagedWith", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
     [ "JustRespawned", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
     [ "Precious", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#ad40c5f293558ca5a00614810a89d86c9", null ],
-    [ "PreciousAI", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#acbdf0e5404402edf28fecf8657303aba", null ],
     [ "Reset", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1a62a843922448390151ed14e0ca2148", null ],
     [ "RespawnPet", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#af6d0cad159d88862e915c9f9337a49e3", null ],
     [ "ScheduleEncounterStart", "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#ab879f0b452e511212be4df530b11d461", null ],

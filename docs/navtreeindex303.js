@@ -1,5 +1,9 @@
 var NAVTREEINDEX303 =
 {
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a807873fb60cfa1bafa78f3f479fef75b":[6,0,13,11,1,2],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#ac8d286ad6add18b92dd7e2111a4ec28c":[6,0,13,11,1,4],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#ac8d286ad6add18b92dd7e2111a4ec28c":[5,0,34,11,1,4],
+"db/dc8/structScriptedAI.html":[6,0,2538],
 "db/dc8/structScriptedAI.html#a0cad563d21fbd0958def8d3e9be3cd25":[6,0,2538,65],
 "db/dc8/structScriptedAI.html#a0d572a234f887646543620c847bd61cd":[6,0,2538,7],
 "db/dc8/structScriptedAI.html#a0e0f63f6d980fe86a9f69f06428078a2":[6,0,2538,17],
@@ -94,8 +98,8 @@ var NAVTREEINDEX303 =
 "db/dca/structConfigPolicy.html#a8cd5da53d2cd0b5d0533741a2dcf651c":[6,0,918,2],
 "db/dca/structConfigPolicy.html#ad41070de3cb2c7fa2916654b9e2a693e":[6,0,918,4],
 "db/dca/structConfigPolicy.html#adfaae562c345965b96fa5f7c92da161e":[6,0,918,0],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[5,0,20,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[6,0,6,0,0],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[5,0,20,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[6,0,6,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[5,0,20,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[6,0,6,0,0,4],
@@ -108,8 +112,8 @@ var NAVTREEINDEX303 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,20,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[6,0,6,0,0,3],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[5,0,20,0,0,3],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[6,0,6,0,0,1],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
 "db/dca/structboss__felmyst.html":[6,0,481],
 "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be":[6,0,481,4],
 "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356":[6,0,481,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX303 =
 "db/dce/classAura.html#aa37ea246f34c975f31bf4fe6290105a0":[6,0,288,11],
 "db/dce/classAura.html#aa4972c4116685b08f25f6a2711c196d3":[6,0,288,147],
 "db/dce/classAura.html#aa515b9daf648d268f02ef974b3573550":[6,0,288,19],
-"db/dce/classAura.html#aa5e42f1c32857e82102fd95bb46ec013":[6,0,288,57],
-"db/dce/classAura.html#aa5ebe6aa240ef26f1bfe4ac77240dd35":[6,0,288,31],
-"db/dce/classAura.html#aa75669dbdf619c939c3dc7fff9fe8736":[6,0,288,37],
-"db/dce/classAura.html#aaba50101334e21660ff99d4668ae06b7":[6,0,288,144],
-"db/dce/classAura.html#aad107d81d9d0898ac5922504526dd07e":[6,0,288,41]
+"db/dce/classAura.html#aa5e42f1c32857e82102fd95bb46ec013":[6,0,288,57]
 };

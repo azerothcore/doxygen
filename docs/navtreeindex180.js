@@ -1,6 +1,5 @@
 var NAVTREEINDEX180 =
 {
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,3,3,3],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,3,3,0],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[7,0,0,0,1,3,5,8,2,3,3,1],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac54151b5c8f69a89047282c61104080e":[7,0,0,0,1,3,5,8,2,3,3,2],
@@ -230,14 +229,14 @@ var NAVTREEINDEX180 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[7,0,0,0,2,2,0,9,9,16],
 "d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[7,0,0,0,2,2,0,9,9,9],
 "d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,31],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,31,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,19,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,31,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,31,1],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,19,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,0,31,2],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,19,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,0,31,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[6,0,0,19,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,19,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX180 =
 "d6/d7d/classDynamicMapTree.html#a1229eb7e83b481cb72ffc9ae4a3a28a8":[6,0,1023,4],
 "d6/d7d/classDynamicMapTree.html#a1af866551a1ea151551ebb856797528d":[6,0,1023,2],
 "d6/d7d/classDynamicMapTree.html#a28ccab96fd4249f15485c89501da597b":[6,0,1023,8],
-"d6/d7d/classDynamicMapTree.html#a6d33c22d53a1c2b8120e80c1f508cfb0":[6,0,1023,1]
+"d6/d7d/classDynamicMapTree.html#a6d33c22d53a1c2b8120e80c1f508cfb0":[6,0,1023,1],
+"d6/d7d/classDynamicMapTree.html#a7d3a6c5c88df501d6d89e917fb44b1d0":[6,0,1023,13]
 };

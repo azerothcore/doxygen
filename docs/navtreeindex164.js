@@ -1,6 +1,5 @@
 var NAVTREEINDEX164 =
 {
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ad52154febdfdeb4c1e63c12314b29cdb":[6,0,1362,0,5],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae6f273bea1158e487b5d0efa57b692bf":[6,0,1362,0,20],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c":[6,0,1362,0,35],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af07eae7f1e94a9317aec26404b68b33e":[6,0,1362,0,2],
@@ -106,12 +105,12 @@ var NAVTREEINDEX164 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,13,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,1000],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[6,0,1000,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[6,0,1000,9],
@@ -140,12 +139,12 @@ var NAVTREEINDEX164 =
 "d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,76],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[6,0,0,64,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,76,3],
-"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,76,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[6,0,0,64,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[5,0,0,76,1],
+"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,76,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[6,0,0,64,1],
-"d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,76,2],
+"d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[5,0,0,76,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[6,0,0,64,2],
+"d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,76,2],
 "d5/df0/classspell__item__gift__of__the__harvester.html":[6,0,3363],
 "d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da":[6,0,3363,0],
 "d5/df0/classspell__item__gift__of__the__harvester.html#a5bb1eff829db1f7ecd3dbf61b821c328":[6,0,3363,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX164 =
 "d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457af1d515f4710cd72eeb0772c278c9a4c9":[7,0,0,0,1,3,7,5,0,0,6,4],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153e":[7,0,0,0,1,3,7,5,0,0,7],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea1c6a7f86c2818960d6f6f23a4554e39e":[7,0,0,0,1,3,7,5,0,0,7,7],
-"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea206d293a099706ca27905b38c3ba14ee":[7,0,0,0,1,3,7,5,0,0,7,2]
+"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea206d293a099706ca27905b38c3ba14ee":[7,0,0,0,1,3,7,5,0,0,7,2],
+"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea5cbb4f6ee7afb92d109096b96108d2d8":[7,0,0,0,1,3,7,5,0,0,7,0]
 };

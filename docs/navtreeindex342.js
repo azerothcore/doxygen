@@ -1,5 +1,11 @@
 var NAVTREEINDEX342 =
 {
+"dd/d49/boss__drakkisath_8cpp.html#a2ddf7b694fd5c4a7e10c90401faee403":[7,0,0,0,1,3,2,1,1,1,3],
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,1,2],
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,1,1,2,1],
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca2bbdfc380eb6caebd7e77226af819c1b":[7,0,0,0,1,3,2,1,1,1,2,0],
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6":[7,0,0,0,1,3,2,1,1,1,2,2],
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,2,1,1,1,2,3],
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca873200b9a4ea9941f9deac654a8e91d4":[7,0,0,0,1,3,2,1,1,1,2,4],
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[7,0,0,0,1,3,2,1,1,1,2,5],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,1,1],
@@ -16,8 +22,8 @@ var NAVTREEINDEX342 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,34,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,13,8,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,34,8,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,13,8,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,13,8,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,34,8,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,34,8,2,2],
@@ -27,10 +33,10 @@ var NAVTREEINDEX342 =
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[6,0,2929,0],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2929,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[6,0,2929,3],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[6,0,13,7,0],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[6,0,13,7,0,2],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[6,0,13,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[6,0,13,7,0,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#afce7cebdb4a49d9e5618ac211b235c6b":[6,0,1916,0,3],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html":[6,0,2150,0],
 "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a3ab7ae11b7f5ef5877febbd384014ce2":[6,0,2150,0,5],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2150,0,0],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a7fa392980e2d30c935b79377df8dc694":[6,0,2150,0,1],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#ac66e3398598576fdc889a7b56646eecf":[6,0,2150,0,3],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#af6e04824ea1682c529e8579a306d34ca":[6,0,2150,0,4],
-"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#afd1cd4fc387ff7cdad58c9db60841c7a":[6,0,2150,0,2],
-"dd/d59/classServerMailMgr.html":[6,0,2556],
-"dd/d59/classServerMailMgr.html#a1a01dd7a8e5c45bc7c97203e4a04a768":[6,0,2556,6]
+"dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html#a545356eb2b77cfae7af3d470e95ea2d6":[6,0,2150,0,0]
 };
