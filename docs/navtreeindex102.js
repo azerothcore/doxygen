@@ -1,5 +1,6 @@
 var NAVTREEINDEX102 =
 {
+"d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298cac8bc255ed3233eb02a9e85865427420b":[7,0,0,0,1,3,7,5,1,0,4,0],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298cadd05e173a64921d159bd56a987fd7cd0":[7,0,0,0,1,3,7,5,1,0,4,6],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a96d51617c4818c06de68961b8bd2bacc":[7,0,0,0,1,3,7,5,1,0,5],
 "d3/d71/structnpc__lord__arete_1_1npc__lord__areteAI.html":[6,0,1953,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ab1c7da00e8e1a20d2592ec26862867fc":[6,0,458,5],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[6,0,458,7],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4]
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4]
 };

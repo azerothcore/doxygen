@@ -1,6 +1,5 @@
 var NAVTREEINDEX411 =
 {
-"df/da7/classBattleground.html#a92d7cf55decc0cd7f684585849e30f3c":[6,0,328,244],
 "df/da7/classBattleground.html#a92e6f79cab403a320bb9089b1f85d0a9":[6,0,328,132],
 "df/da7/classBattleground.html#a94a18a6b96492ef2f66fcd2d3fe3475c":[6,0,328,213],
 "df/da7/classBattleground.html#a961cd8ab1362894a64d302d94c705782":[6,0,328,150],
@@ -103,8 +102,8 @@ var NAVTREEINDEX411 =
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,13,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,13,2,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,3000],
@@ -249,5 +248,6 @@ var NAVTREEINDEX411 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1735,0,3],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1735,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1735,0,2],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1735,0,0]
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1735,0,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,13,10,8]
 };

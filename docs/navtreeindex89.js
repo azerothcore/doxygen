@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/dee/classWintergraspCapturePoint.html#a7ff4106591a5aac1ea8820016b8164bb":[6,0,4602,2],
 "d2/dee/structPosition_1_1PositionXYZStreamer.html":[6,0,2438,2],
 "d2/dee/structPosition_1_1PositionXYZStreamer.html#a8da1be6111bd97ef68d62d0d9d630c56":[6,0,2438,2,0],
 "d2/dee/structPosition_1_1PositionXYZStreamer.html#ae5db7cb3adba811c0b9483645a7f1770":[6,0,2438,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#aa932907ab61c7d6f73178284e9ce2748":[7,0,0,0,1,2,14,1,50],
 "d2/df6/DBCStores_8h.html#aad3b0ef853455cf1c8baf2b07c0f6d01":[7,0,0,0,1,2,14,1,13],
 "d2/df6/DBCStores_8h.html#ab308ce9e8dcedd62a833c94bd529dba2":[7,0,0,0,1,2,14,1,0],
-"d2/df6/DBCStores_8h.html#ab584b06165e5228c2bdfc0470e3d3e51":[7,0,0,0,1,2,14,1,33],
-"d2/df6/DBCStores_8h.html#ab6c90054e381d2820cf5d653d307d2ac":[7,0,0,0,1,2,14,1,119]
+"d2/df6/DBCStores_8h.html#ab584b06165e5228c2bdfc0470e3d3e51":[7,0,0,0,1,2,14,1,33]
 };

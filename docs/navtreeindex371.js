@@ -1,7 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3f65cdf176925c58898ea7c316109dfa":[7,0,0,0,1,4,7,103,115],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a41245e3668282b60e01f31514e36a540":[7,0,0,0,1,4,7,103,34],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a465af0318ef9f62458b0912a9f705285":[7,0,0,0,1,4,7,103,43],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a48a2421b2b4973e59b2ef1c823420782":[7,0,0,0,1,4,7,103,135],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a499c91e15df578da469443aab7a4fa7a":[7,0,0,0,1,4,7,103,53],
@@ -249,5 +247,7 @@ var NAVTREEINDEX371 =
 "de/d12/classAllCreatureScript.html":[6,0,153],
 "de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490":[6,0,153,8],
 "de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e":[6,0,153,6],
-"de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e":[6,0,153,1]
+"de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e":[6,0,153,1],
+"de/d12/classAllCreatureScript.html#a31659a18df4206122a56ce69f3e4809d":[6,0,153,5],
+"de/d12/classAllCreatureScript.html#a551633c543dd01e876ee10452b98fb5e":[6,0,153,2]
 };

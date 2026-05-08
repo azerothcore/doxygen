@@ -1,6 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec":[7,0,0,0,1,3,2,1,0,0,16],
 "df/d57/classnpc__lake__frog.html":[6,0,1940],
 "df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1940,2],
 "df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1940,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX404 =
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,313,3],
 "df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,313,0],
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,313,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338]
+"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1]
 };

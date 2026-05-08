@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"d6/dc7/classCreatureGroup.html#a16be792f604999ba80b361b59ea77a76":[6,0,948,2],
+"d6/dc7/classCreatureGroup.html#a1b206e69df855ed13f3b687017474a1a":[6,0,948,6],
 "d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e":[6,0,948,21],
 "d6/dc7/classCreatureGroup.html#a2547bae861879c20724c1d04db55e88a":[6,0,948,17],
 "d6/dc7/classCreatureGroup.html#a4777b1e1b5a4d084ba0648917b372c47":[6,0,948,20],
@@ -174,8 +176,8 @@ var NAVTREEINDEX187 =
 "d6/dcc/classspell__warr__intimidating__shout.html#ad7478a1a70ebc52eda1c57dd4f143b67":[6,0,4303,1],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[6,0,13,25],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,34,25],
-"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[6,0,13,25,0],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,34,25,0],
+"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[6,0,13,25,0],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html":[6,0,2635],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#a438a8ba3688e0832853bae4183695494":[6,0,2635,2],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#a52a86cce0afa66203cc5982ddbe5de4f":[6,0,2635,3],
@@ -198,8 +200,8 @@ var NAVTREEINDEX187 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,34,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,13,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,34,6,28,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,13,6,28,1],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,34,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,13,6,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[6,0,3219],
 "d6/dce/classspell__hun__lock__and__load.html#a0cbe419bde5ebc30dc599bbdd99d04eb":[6,0,3219,2],
 "d6/dce/classspell__hun__lock__and__load.html#a439aa5395d222291fbd5943f853d8961":[6,0,3219,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019":[7,0,0,0,1,3,8,5,3],
 "d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8":[7,0,0,0,1,3,8,5,3,3],
 "d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb":[7,0,0,0,1,3,8,5,3,0],
-"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5":[7,0,0,0,1,3,8,5,3,2],
-"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274":[7,0,0,0,1,3,8,5,3,1],
-"d6/dd0/pet__shaman_8cpp.html#ab07e634ed761985e07d5c0e10f329231":[7,0,0,0,1,3,8,5,4]
+"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5":[7,0,0,0,1,3,8,5,3,2]
 };

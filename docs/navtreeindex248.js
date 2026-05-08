@@ -1,5 +1,7 @@
 var NAVTREEINDEX248 =
 {
+"d9/d7c/SpellProcChargeTest_8cpp.html#a89db4a2cf2935011d4e98ff3385c25d8":[7,0,0,0,2,2,0,9,10,9],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a8ae02922feb6d525efc5203b349d36d8":[7,0,0,0,2,2,0,9,10,11],
 "d9/d7c/SpellProcChargeTest_8cpp.html#a8cddad3956dbe3afd8a23e969ba46d05":[7,0,0,0,2,2,0,9,10,8],
 "d9/d7c/SpellProcChargeTest_8cpp.html#ab8fbc8d09d454845b486266a32ec0055":[7,0,0,0,2,2,0,9,10,10],
 "d9/d7c/SpellProcChargeTest_8cpp.html#ac539918ba1c029cc1ea195c532da00ad":[7,0,0,0,2,2,0,9,10,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d86/structnpc__anub__ar__crusher.html#a66dc8cb3dc096dc0aa5b464879773df7":[6,0,1623,4],
 "d9/d86/structnpc__anub__ar__crusher.html#a70238afe4b9ae58b99067581db6734c8":[6,0,1623,2],
 "d9/d86/structnpc__anub__ar__crusher.html#ac20630563a1869f56f538968cb8bb1ea":[6,0,1623,3],
-"d9/d88/boss__assembly__of__iron_8cpp.html":[7,0,0,0,1,3,5,9,2,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee":[7,0,0,0,1,3,5,9,2,1,16],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,9,2,1,12]
+"d9/d88/boss__assembly__of__iron_8cpp.html":[7,0,0,0,1,3,5,9,2,1]
 };

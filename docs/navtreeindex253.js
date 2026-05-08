@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dd9/structgo__transport__the__purple__princess.html#ab0c79197964857d578036693a2c18e8a":[6,0,1216,0],
 "d9/dd9/structgo__transport__the__purple__princess.html#ac5b73f1bea180797169138f8e9228783":[6,0,1216,1],
 "d9/dda/PCQueue_8h.html":[7,0,0,0,0,14,2],
-"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[6,0,2440],
-"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[6,0,2440,0],
-"d9/ddb/ObjectVisibilityContainer_8h.html":[7,0,0,0,1,2,16,5,9]
+"d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[6,0,2440]
 };

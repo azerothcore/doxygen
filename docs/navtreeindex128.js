@@ -1,5 +1,6 @@
 var NAVTREEINDEX128 =
 {
+"d4/d5d/boss__moam_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a128c65c3598f80120db6b8276d05fd7c":[7,0,0,0,1,3,4,8,3,5,0],
 "d4/d5d/boss__moam_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a320d5fda7619dcf10e39ec125861b06d":[7,0,0,0,1,3,4,8,3,5,1],
 "d4/d5d/boss__moam_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad338ddb296271f68e5aa17f0d56a7d23":[7,0,0,0,1,3,4,8,3,5,2],
 "d4/d5d/boss__moam_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,8,3,3],
@@ -15,8 +16,8 @@ var NAVTREEINDEX128 =
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a01326fafaa2ce562b5710d1d7ca75330":[6,0,5,17,0],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a0e9b49693248b438dbc508e230a870db":[5,0,17,17,4],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a0e9b49693248b438dbc508e230a870db":[6,0,5,17,4],
-"d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[6,0,5,17,6],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[5,0,17,17,6],
+"d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[6,0,5,17,6],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a248682a712dd43b8c4601830aae4ddec":[5,0,17,17,2],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a248682a712dd43b8c4601830aae4ddec":[6,0,5,17,2],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a398f1b9ce0737d833fe4566ecea20e31":[5,0,17,17,3],
@@ -37,16 +38,16 @@ var NAVTREEINDEX128 =
 "d4/d5e/classspell__item__six__demon__bag.html#a2c699d4d848a01a80143d6fcc01b64a8":[6,0,3439,2],
 "d4/d5e/classspell__item__six__demon__bag.html#a9fd765b2c48f11837dbeb4caeedc0ae1":[6,0,3439,3],
 "d4/d5e/classspell__item__six__demon__bag.html#ad9eeff5aa428dabff7f2181d2819681d":[6,0,3439,1],
-"d4/d5f/classVMAP_1_1IntersectionCallBack.html":[5,0,31,6],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html":[6,0,11,6],
+"d4/d5f/classVMAP_1_1IntersectionCallBack.html":[5,0,31,6],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a00e778dd78dca96391d200e18dfc2c9d":[6,0,11,6,2],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a00e778dd78dca96391d200e18dfc2c9d":[5,0,31,6,2],
-"d4/d5f/classVMAP_1_1IntersectionCallBack.html#a57f40f48c26829f7da9e48efd839d773":[5,0,31,6,3],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a57f40f48c26829f7da9e48efd839d773":[6,0,11,6,3],
+"d4/d5f/classVMAP_1_1IntersectionCallBack.html#a57f40f48c26829f7da9e48efd839d773":[5,0,31,6,3],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841":[6,0,11,6,1],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841":[5,0,31,6,1],
-"d4/d5f/classVMAP_1_1IntersectionCallBack.html#af1b2d9b7517b57a5a0a598f58b470c33":[6,0,11,6,0],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#af1b2d9b7517b57a5a0a598f58b470c33":[5,0,31,6,0],
+"d4/d5f/classVMAP_1_1IntersectionCallBack.html#af1b2d9b7517b57a5a0a598f58b470c33":[6,0,11,6,0],
 "d4/d5f/classnpc__mei__francis__mount.html":[6,0,1974],
 "d4/d5f/classnpc__mei__francis__mount.html#ab34facb1d4d9a542710340493488eaa8":[6,0,1974,1],
 "d4/d5f/classnpc__mei__francis__mount.html#ac1f14e0b94662432b399d6dfeb8a8107":[6,0,1974,2],
@@ -63,6 +64,7 @@ var NAVTREEINDEX128 =
 "d4/d61/classBattlefieldScript.html#a3d02622460b0fcc0ae0d5d559fe5f436":[6,0,326,1],
 "d4/d61/classBattlefieldScript.html#a3e88ff9ad3772d558ab72123127a550e":[6,0,326,5],
 "d4/d61/classBattlefieldScript.html#a5d852a5ae3f62631280ca9f4b97b1734":[6,0,326,0],
+"d4/d61/classBattlefieldScript.html#ab4ed21627320723b18a09dbc4c7f6baa":[6,0,326,7],
 "d4/d61/classBattlefieldScript.html#ac0c199050fba1f6e991783bd2d2efdc2":[6,0,326,2],
 "d4/d61/classBattlefieldScript.html#adf7c217eadc6106b1ce3c353a411edf8":[6,0,326,3],
 "d4/d61/namespaceAIRegistry.html":[5,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efaa6e012f7bd02e517782a27f9c56dabd8":[7,0,0,0,1,3,7,5,2,2,24,9],
 "d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efab4e2567cf14e7f5312e0df378558e2cb":[7,0,0,0,1,3,7,5,2,2,24,15],
 "d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efacfb288984915c32b689807bf7feaaf49":[7,0,0,0,1,3,7,5,2,2,24,5],
-"d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efad32d3a6f382845460a0dc43d11b78189":[7,0,0,0,1,3,7,5,2,2,24,7],
-"d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efaeaf75fa0b3ca1483fcd422b7006fcb18":[7,0,0,0,1,3,7,5,2,2,24,13],
-"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974":[7,0,0,0,1,3,7,5,2,2,23]
+"d4/d67/boss__kaelthas_8cpp.html#a54a14486e8378f4bd09408d7929ce3efad32d3a6f382845460a0dc43d11b78189":[7,0,0,0,1,3,7,5,2,2,24,7]
 };

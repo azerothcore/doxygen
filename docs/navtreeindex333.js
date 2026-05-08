@@ -1,7 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dc/ddf/brewfest_8cpp.html#a83398fbaa7c84eaab41278d70b013d88ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,3,1,39,3],
-"dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92":[7,0,0,0,1,3,3,1,36],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a1696f23ce1666381858aa20ce59c4879":[7,0,0,0,1,3,3,1,36,5],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a256fd25f172fa42871e6171e67568f28":[7,0,0,0,1,3,3,1,36,0],
 "dc/ddf/brewfest_8cpp.html#a98e46eba63ac814c8a4cda4543639a92a2a1e824d2d9c51bad877f5fb83878dee":[7,0,0,0,1,3,3,1,36,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX333 =
 "dc/de9/Opcodes_8cpp.html#a0adf4b5d8c638656581d9a62be18539e":[7,0,0,0,1,2,39,1,0,7],
 "dc/de9/Opcodes_8cpp.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e":[7,0,0,0,1,2,39,1,0,5],
 "dc/de9/Opcodes_8cpp.html#ab23af9582942bed23ea9ab4a8747c67c":[7,0,0,0,1,2,39,1,0,4],
-"dc/dea/namespaceEnumTraits.html":[5,0,12]
+"dc/dea/namespaceEnumTraits.html":[5,0,12],
+"dc/dea/namespaceEnumTraits.html#a7294b75cb336d554d5ce2b75b05c37d6":[5,0,12,0],
+"dc/dec/chapter1_8cpp.html":[7,0,0,0,1,3,2,6,0]
 };

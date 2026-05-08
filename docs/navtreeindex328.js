@@ -1,7 +1,5 @@
 var NAVTREEINDEX328 =
 {
-"dc/da3/structPlayerSpell.html#a54331e3ecac0d39a4fc7a6b8c2c9f532":[6,0,2421,3],
-"dc/da3/structPlayerSpell.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90":[6,0,2421,1],
 "dc/da3/structPlayerSpell.html#af178fb95c99f0c961bf12435fc7a3fd5":[6,0,2421,2],
 "dc/da4/azjol__nerub_8h.html":[7,0,0,0,1,3,5,0,1,0],
 "dc/da4/azjol__nerub_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,0,1,0,1],
@@ -180,8 +178,8 @@ var NAVTREEINDEX328 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,34,9,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,34,9,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[6,0,13,9,0,4],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,34,9,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[6,0,13,9,0,3],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,34,9,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,34,9,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[6,0,13,9,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,13,9,0,2],
@@ -192,8 +190,8 @@ var NAVTREEINDEX328 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,34,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,13,9,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,34,9,0,7],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,13,9,0,5],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[6,0,1586],
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1586,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[6,0,1586,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX328 =
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#afbf08e65630819d5c60ecaa3d4d5bc42":[6,0,1353,0,12],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#afc601fed830c0d8fe63cbf7741ff1c55":[6,0,1353,0,7],
 "dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html":[6,0,1625],
-"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a20cdbe7eb580cd9f9763019d8927182f":[6,0,1625,1]
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a20cdbe7eb580cd9f9763019d8927182f":[6,0,1625,1],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a276eca6e65b32905f6919d49530ccc2f":[6,0,1625,2],
+"dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html#a89abbce738f115c26dae9dacb065cc3d":[6,0,1625,0]
 };

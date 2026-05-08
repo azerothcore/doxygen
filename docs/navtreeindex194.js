@@ -1,5 +1,7 @@
 var NAVTREEINDEX194 =
 {
+"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#aa3a3e765284cd29cef1d54a9390c3986":[6,0,714,0,1],
+"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#aac572b45c50d0e9c0e7fb3a036053859":[6,0,714,0,3],
 "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#aade776baf55155bb3814129ddc2f9632":[6,0,714,0,4],
 "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ac79740a8c5e4263f2917647c74e995aa":[6,0,714,0,5],
 "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ad1e05c8b4dbba7a73a368dc07ad94aaf":[6,0,714,0,8],
@@ -146,20 +148,20 @@ var NAVTREEINDEX194 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,13,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,13,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,13,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,13,6,47,4],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,13,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,13,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,13,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,13,6,47,2],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,13,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,13,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[6,0,13,6,47,5],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[6,0,4247],
 "d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf":[6,0,4247,0],
 "d7/d26/classspell__warl__demonic__aegis.html#a5869dc6372d479d85da1118d0c9ec8e6":[6,0,4247,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX194 =
 "d7/d29/cs__pool_8cpp.html#a933dbb3e5588f0735759e9409b716e55":[7,0,0,0,1,3,0,38,1],
 "d7/d2a/instance__the__underbog_8cpp.html":[7,0,0,0,1,3,7,2,3,4],
 "d7/d2a/instance__the__underbog_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,3,4,3],
-"d7/d2a/instance__the__underbog_8cpp.html#acc5edb97f1bda7cd30a38061e4676698":[7,0,0,0,1,3,7,2,3,4,2],
-"d7/d2b/boss__rotface_8cpp.html":[7,0,0,0,1,3,5,6,8],
-"d7/d2b/boss__rotface_8cpp.html#a3440b8f90693bcd2729d81618dc9410b":[7,0,0,0,1,3,5,6,8,21]
+"d7/d2a/instance__the__underbog_8cpp.html#acc5edb97f1bda7cd30a38061e4676698":[7,0,0,0,1,3,7,2,3,4,2]
 };

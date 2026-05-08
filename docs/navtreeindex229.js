@@ -1,5 +1,7 @@
 var NAVTREEINDEX229 =
 {
+"d8/d83/classadt__MCIN.html#adc7346499aa51f4422c810b7e757f835":[6,0,138,2],
+"d8/d83/classadt__MCIN.html#ae7d4acf20e102b6b8f19ded3fe219a7d":[6,0,138,4],
 "d8/d84/ConditionScript_8h.html":[7,0,0,0,1,2,38,0,40],
 "d8/d84/classspell__q10923__evil__draws__near__visual.html":[6,0,3840],
 "d8/d84/classspell__q10923__evil__draws__near__visual.html#a190f6dc3d9b336324da29f627a743fe9":[6,0,3840,0],
@@ -30,8 +32,8 @@ var NAVTREEINDEX229 =
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,13,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,13,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,585],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,585,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,585,2],
@@ -103,8 +105,8 @@ var NAVTREEINDEX229 =
 "d8/d91/namespaceAcore_1_1XP.html#a9c310a4423fd5ada14fac549e4b1a6fd":[5,0,0,17,3],
 "d8/d91/namespaceAcore_1_1XP.html#ab923dd9a0df7d75127965b40539d4a10":[5,0,0,17,1],
 "d8/d91/namespaceAcore_1_1XP.html#ada8e56c81ab672d85f2ff274d109e477":[5,0,0,17,0],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[6,0,0,5,0,22],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,0,8,0,22],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[6,0,0,5,0,22],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[6,0,0,5,0,22,8],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[5,0,0,8,0,22,8],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[6,0,0,5,0,22,7],
@@ -117,8 +119,8 @@ var NAVTREEINDEX229 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[5,0,0,8,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[6,0,0,5,0,22,2],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,0,8,0,22,2],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[6,0,0,5,0,22,9],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[5,0,0,8,0,22,9],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80":[6,0,0,5,0,22,9],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[6,0,0,5,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[5,0,0,8,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[6,0,0,5,0,22,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d94/classTradeData.html#a99272f794179b17c50c722ae90ea78bf":[6,0,4494,3],
 "d8/d94/classTradeData.html#aade15c8c3f6b2a72349026a9acc85168":[6,0,4494,19],
 "d8/d94/classTradeData.html#ab3eff66bb411bd22a11d8e29f7961507":[6,0,4494,14],
-"d8/d94/classTradeData.html#abbae0b720c0b44a05f0625ebafd09cc8":[6,0,4494,11],
-"d8/d94/classTradeData.html#ac27f6047b7585f8b3ef069af68851965":[6,0,4494,23],
-"d8/d94/classTradeData.html#ac2bfab37acbdb9fd955d8f2ee8876b79":[6,0,4494,0]
+"d8/d94/classTradeData.html#abbae0b720c0b44a05f0625ebafd09cc8":[6,0,4494,11]
 };

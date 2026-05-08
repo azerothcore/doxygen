@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca93378d7dc78738ac3f33b5bbdc15d506":[7,0,0,0,1,3,5,6,0,31,3],
+"d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bbba3c48455b8cd80c7a1bace0a1bdc":[7,0,0,0,1,3,5,6,0,31,29],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa157b5ed7b2bcf44d9b40fc8bd393a29":[7,0,0,0,1,3,5,6,0,31,7],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa239d6bdc143db9b9cede4d82045d40f":[7,0,0,0,1,3,5,6,0,31,28],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caaa4f451a11e45ce9657c83e66151d152":[7,0,0,0,1,3,5,6,0,31,32],
@@ -58,14 +60,14 @@ var NAVTREEINDEX147 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[6,0,1131,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[6,0,1131,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1131,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,91],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,103],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,91],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,103,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,91,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,103,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,91,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,91,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,103,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,91,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,91,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,103,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[6,0,3382],
@@ -234,8 +236,8 @@ var NAVTREEINDEX147 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[6,0,3169,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[6,0,3169,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3169,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1819],
@@ -247,7 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7a08c1cb275194365601d5cecbdc10a0c3":[7,0,0,0,1,3,4,1,3,5,7,2],
 "d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7a1cff749f34c2b0e6c8049506fdacf0b7":[7,0,0,0,1,3,4,1,3,5,7,3],
 "d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7a502e0e7f06a5e11e9054ea76088e29ee":[7,0,0,0,1,3,4,1,3,5,7,0],
-"d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7ab7dc78bbe47574eca986d01a5dd9dd9d":[7,0,0,0,1,3,4,1,3,5,7,7],
-"d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7ab8aaf1b9e317b068cb85163ed2ea593e":[7,0,0,0,1,3,4,1,3,5,7,1],
-"d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7ad5f6e4f1253094661a5a6875dd9d8041":[7,0,0,0,1,3,4,1,3,5,7,4]
+"d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7ab7dc78bbe47574eca986d01a5dd9dd9d":[7,0,0,0,1,3,4,1,3,5,7,7]
 };

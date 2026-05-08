@@ -1,5 +1,7 @@
 var NAVTREEINDEX199 =
 {
+"d7/d5b/classDistractMovementGenerator.html#a8b520d8e97704ac39ce28c2256557b42":[6,0,1010,6],
+"d7/d5b/classDistractMovementGenerator.html#aa4a2b943ecde8750bd764290d65872df":[6,0,1010,1],
 "d7/d5b/classDistractMovementGenerator.html#ad544709b2873b63b28d27ab414c280ba":[6,0,1010,4],
 "d7/d5b/classDistractMovementGenerator.html#ad5a15c1507b8ab315b658351077629b3":[6,0,1010,5],
 "d7/d5b/classinstance__shattered__halls.html":[6,0,1360],
@@ -127,10 +129,10 @@ var NAVTREEINDEX199 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1059,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,22,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,22,6,4],
@@ -230,12 +232,12 @@ var NAVTREEINDEX199 =
 "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[6,0,709,9],
 "d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[6,0,709,10],
 "d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[6,0,709,16],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[6,0,13,6,32],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[6,0,13,6,32,0],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[6,0,13,6,32,1],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[6,0,13,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[5,0,34,6,32,1],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[6,0,13,6,32,1],
 "d7/d68/classnpc__apothecary__hanes.html":[6,0,1636],
 "d7/d68/classnpc__apothecary__hanes.html#a7f3f86efb9a6146b86aa5d882b751e1f":[6,0,1636,2],
 "d7/d68/classnpc__apothecary__hanes.html#a90480bee491e8fe1c9e7b2c71aac28c8":[6,0,1636,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d68/classspell__igb__on__gunship__deck__aura.html#a78b8e04586e328f89a44f41eb8c478c9":[6,0,3265,5],
 "d7/d68/classspell__igb__on__gunship__deck__aura.html#a8f476129e0678149463c4b16232f6cb6":[6,0,3265,4],
 "d7/d68/classspell__igb__on__gunship__deck__aura.html#aac27c3377b48bc8c602fa7f12dec491a":[6,0,3265,2],
-"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html":[6,0,0,5,10],
-"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html":[5,0,0,8,10],
-"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#a115e9affe6159ae8aa08c6fc358e400c":[5,0,0,8,10,7]
+"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html":[6,0,0,5,10]
 };

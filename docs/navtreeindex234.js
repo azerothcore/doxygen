@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd6/DBCfmt_8h.html#a2d0db03aab5481939b74c9657665c4fa":[7,0,0,0,1,4,0,3,46],
+"d8/dd6/DBCfmt_8h.html#a33a9a6da17625ca15a93082b922dfd7c":[7,0,0,0,1,4,0,3,97],
 "d8/dd6/DBCfmt_8h.html#a3591aa6bd927d9a3225c1580e1a55071":[7,0,0,0,1,4,0,3,15],
 "d8/dd6/DBCfmt_8h.html#a366ae111d40fb97fc96b0f37b799fde9":[7,0,0,0,1,4,0,3,82],
 "d8/dd6/DBCfmt_8h.html#a3891a7b9a1b8e6c6cb16f2b9a9c87d68":[7,0,0,0,1,4,0,3,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/ddc/classspell__gen__summon__target__floor.html#ae24a7c8279a92f1018748a0e930736ac":[6,0,3106,0],
 "d8/ddc/structnpc__ulduar__saronite__vapors.html":[6,0,2248],
 "d8/ddc/structnpc__ulduar__saronite__vapors.html#a5efda334c3166dce2d1ca9655658b4d2":[6,0,2248,1],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#a64254becffe74a7d06c09a3b0e2b4428":[6,0,2248,2],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#ad304110ff1bfc33066cd17f04cf40181":[6,0,2248,3],
-"d8/ddc/structnpc__ulduar__saronite__vapors.html#af8d7e273a01b54bd5b96f186501f38c5":[6,0,2248,0]
+"d8/ddc/structnpc__ulduar__saronite__vapors.html#a64254becffe74a7d06c09a3b0e2b4428":[6,0,2248,2]
 };

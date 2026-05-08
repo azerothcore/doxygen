@@ -1,7 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,4,2,1,6,2],
-"de/d8f/classSessionKeyGenerator.html":[6,0,2561],
 "de/d8f/classSessionKeyGenerator.html#a1eb1aafb255ccf771b0a49dcab869297":[6,0,2561,2],
 "de/d8f/classSessionKeyGenerator.html#a2162fde8dbb84fc165faedaafed706b5":[6,0,2561,1],
 "de/d8f/classSessionKeyGenerator.html#a462354aed63797a90fc228e6399cb740":[6,0,2561,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX385 =
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af2cadb0345ed0bc59365598973e66c45":[7,0,0,0,1,3,7,14,4,4],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af45a56eca58cc62d6d5aa5b159fd1585":[7,0,0,0,1,3,7,14,4,6],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af8d3ed2631595e72aed7bc34a5f96c9b":[7,0,0,0,1,3,7,14,4,1],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af9ad3ffa0a84d049726fde778850676f":[7,0,0,0,1,3,7,14,4,18]
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af9ad3ffa0a84d049726fde778850676f":[7,0,0,0,1,3,7,14,4,18],
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31aff63d1e341290ed4073e5f3608aa29ce":[7,0,0,0,1,3,7,14,4,11],
+"de/d98/zone__ungoro__crater_8cpp.html":[7,0,0,0,1,3,4,32]
 };

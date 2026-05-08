@@ -1,8 +1,6 @@
 var NAVTREEINDEX279 =
 {
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,48,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,36,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,48,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[6,0,0,36,4],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,48,4],
 "da/dd3/RaceMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
@@ -29,18 +27,18 @@ var NAVTREEINDEX279 =
 "da/dd7/classspell__najentus__needle__spine.html#a85cbe85873c5f04c8fb94ad52e94afda":[6,0,3659,0],
 "da/dd7/classspell__najentus__needle__spine.html#a972574075c86c32593982add71dc893f":[6,0,3659,2],
 "da/dd7/classspell__najentus__needle__spine.html#ae483ea2ecc541f52f37456f6e9d4b380":[6,0,3659,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,17,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[6,0,5,8],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,17,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,17,8,3],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,17,8,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,17,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,17,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,17,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
 "da/dd8/classHashMapHolder.html":[6,0,1278],
 "da/dd8/classHashMapHolder.html#a314b4ce3265136fe326b909fe6ef6716":[6,0,1278,2],
 "da/dd8/classHashMapHolder.html#a52cc052c8d73d5b700c7f9253138942f":[6,0,1278,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX279 =
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a480a284881ba5f56bc6222607bd01a76":[6,0,2177,0,8],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a58e11746c14f6bbb1b5c56c1d0136d9f":[6,0,2177,0,1],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a90c3d818318004c7c21ec66d4d080615":[6,0,2177,0,7],
-"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aa610e24316505165cbb826ff5bece5c5":[6,0,2177,0,3]
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aa610e24316505165cbb826ff5bece5c5":[6,0,2177,0,3],
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aaf940a0ca812d84dbde81fc7e41feaca":[6,0,2177,0,2],
+"da/de0/classnpc__wormhole.html":[6,0,2292]
 };

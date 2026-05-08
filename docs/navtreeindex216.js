@@ -1,5 +1,7 @@
 var NAVTREEINDEX216 =
 {
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4],
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a6856bef881835abf4ffdab1928fd0993":[7,0,0,0,1,2,16,10,6,18,5],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae7a00847753ec69b3b36986ea7a94a7b":[7,0,0,0,1,2,16,10,6,18,0],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae886d5d056abd0ef34207cb400c54bca":[7,0,0,0,1,2,16,10,6,18,1],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343af148583098f9670660b2d18ed8fa1ccd":[7,0,0,0,1,2,16,10,6,18,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX216 =
 "d7/df6/structnpc__grimstone.html#a720b408aa7e1a033c7ff28e65a505eea":[6,0,1837,18],
 "d7/df6/structnpc__grimstone.html#a7ed3101f9d8e81d819a7d73581952508":[6,0,1837,17],
 "d7/df6/structnpc__grimstone.html#a848b405425ef4bb3dc20a4ec4ea081af":[6,0,1837,7],
-"d7/df6/structnpc__grimstone.html#a85b795cfd49343d300cdd1b1f028e141":[6,0,1837,4],
-"d7/df6/structnpc__grimstone.html#aa246b08433ad44365e2bfe47a9025001":[6,0,1837,13],
-"d7/df6/structnpc__grimstone.html#aea0c13489f4f17008b44d054b9a1cf3a":[6,0,1837,2]
+"d7/df6/structnpc__grimstone.html#a85b795cfd49343d300cdd1b1f028e141":[6,0,1837,4]
 };

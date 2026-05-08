@@ -1,13 +1,12 @@
 var NAVTREEINDEX412 =
 {
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,13,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,13,10,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,34,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,13,10,8,3],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,34,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,13,10,8,1],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,34,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,13,10,8,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,34,10,8,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
@@ -186,12 +185,12 @@ var NAVTREEINDEX412 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[6,0,0,78,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,90,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,78,4],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,90,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,78,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,0,90,1],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,90,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,78,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,90,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,0,90,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,78,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,90,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2022],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2022,10],
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2022,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX412 =
 "df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[6,0,3765,4],
 "df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[6,0,3765,0],
 "df/dc1/classspell__pri__body__and__soul.html#af7d9ac7e014bbda32275bb584f5e2660":[6,0,3765,3],
-"df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[6,0,3765,1]
+"df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[6,0,3765,1],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html":[6,0,762,0]
 };

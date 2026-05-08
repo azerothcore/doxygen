@@ -1,5 +1,7 @@
 var NAVTREEINDEX222 =
 {
+"d8/d45/classnpc__adventurous__dwarf.html#a15c39e217907189db9be7799e696f310":[6,0,1597,1],
+"d8/d45/classnpc__adventurous__dwarf.html#ab69e3e249f7075d5344ad79bf9c79b79":[6,0,1597,3],
 "d8/d45/classnpc__adventurous__dwarf.html#ac3f124fab8520a16ccd73e058a0383b1":[6,0,1597,2],
 "d8/d45/classnpc__adventurous__dwarf.html#aebb2cd209f71d8ab56a29e5bfd668def":[6,0,1597,4],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html":[6,0,610,0],
@@ -27,14 +29,14 @@ var NAVTREEINDEX222 =
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[6,0,13,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,13,8,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,34,8,9,2],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,34,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,13,8,9,5],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,34,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[6,0,13,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,34,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[6,0,13,8,9,0],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,34,8,9,3],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,13,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,34,8,9,3],
 "d8/d48/classspell__rog__cold__blood.html":[6,0,3954],
 "d8/d48/classspell__rog__cold__blood.html#a24faa9992523bc87df7f5ebccfb42233":[6,0,3954,2],
 "d8/d48/classspell__rog__cold__blood.html#a2e564758a050827108955f73a08e72e7":[6,0,3954,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#a87e1f67ae379360bc0843d7bb3cd0acb":[6,0,450,0,5],
 "d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#ad45ea624603c427fa5b3e40cd6ba7f5d":[6,0,450,0,13],
 "d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aea7fad4bfdc14e5526a6620ee5d3ba2e":[6,0,450,0,3],
-"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef244c80a915eaf4c1e0ff1c1080b18a":[6,0,450,0,4],
-"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef399775e552d7e80224fbb0c2f62aff":[6,0,450,0,12],
-"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#afd2d5fc6b7091fb019048d32a8b3631e":[6,0,450,0,8]
+"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef244c80a915eaf4c1e0ff1c1080b18a":[6,0,450,0,4]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[7,0,0,0,1,3,5,7,5,10,0],
-"dc/d70/boss__grobbulus_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[7,0,0,0,1,3,5,7,5,11],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,5,8],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[7,0,0,0,1,3,5,7,5,8,1],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,7,5,8,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX325 =
 "dc/d7e/classboss__essence__of__desire.html#a5006ce57dd19c2a80e961dedca8c503d":[6,0,466,1],
 "dc/d81/classCreatureTextMgr.html":[6,0,964],
 "dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[6,0,964,0],
-"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9]
+"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9],
+"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[6,0,964,7],
+"dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[6,0,964,14]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
-"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8],
 "dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0],
 "dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX350 =
 "dd/db6/classgo__loosely__turned__soil.html":[6,0,1181],
 "dd/db6/classgo__loosely__turned__soil.html#a1ac57b34c5b3e21c033330eaeefaa6a8":[6,0,1181,3],
 "dd/db6/classgo__loosely__turned__soil.html#a3b4d51e2b3a604e030962127269236f1":[6,0,1181,1],
-"dd/db6/classgo__loosely__turned__soil.html#acead5810a848f8837fa65af1f2ac00bd":[6,0,1181,2]
+"dd/db6/classgo__loosely__turned__soil.html#acead5810a848f8837fa65af1f2ac00bd":[6,0,1181,2],
+"dd/db7/classAllSpellScript.html":[6,0,158],
+"dd/db7/classAllSpellScript.html#a026842dcd2d8c0e0c3f99718b04e86b0":[6,0,158,2]
 };

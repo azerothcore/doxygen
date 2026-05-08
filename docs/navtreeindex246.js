@@ -1,5 +1,7 @@
 var NAVTREEINDEX246 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a17a09a330bd5f77a796eb92ec0c7c318":[7,0,0,0,1,3,5,6,13,12,0],
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a219d7df5f3320c2dfe9587f89a65bdab":[7,0,0,0,1,3,5,6,13,12,8],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a26d0981681e1051ddaaea3583a035a10":[7,0,0,0,1,3,5,6,13,12,5],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a2c100163d577f700459f3a9decdb951d":[7,0,0,0,1,3,5,6,13,12,1],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a3a77a972081800734994cb036be41e40":[7,0,0,0,1,3,5,6,13,12,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d6d/structnpc__vh__teleportation__portal.html#af86eefc8c9e4187e52c4dd88c41cbc38":[6,0,2270,1],
 "d9/d6e/classSmartWaypointMgr.html":[6,0,2590],
 "d9/d6e/classSmartWaypointMgr.html#a7299029b0e2063740fd2fe9d9b218749":[6,0,2590,1],
-"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[6,0,2590,3],
-"d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[6,0,2590,4],
-"d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[6,0,2590,2]
+"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[6,0,2590,3]
 };

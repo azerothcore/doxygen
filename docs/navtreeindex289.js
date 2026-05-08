@@ -1,7 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
-"db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,13,6,24],
@@ -249,5 +247,7 @@ var NAVTREEINDEX289 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5":[7,0,0,0,1,2,3,0,9,1,8],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a":[7,0,0,0,1,2,3,0,9,1,9],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7":[7,0,0,0,1,2,3,0,9,1,6],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[7,0,0,0,1,2,3,0,9,1,1]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[7,0,0,0,1,2,3,0,9,1,1],
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c":[7,0,0,0,1,2,3,0,9,1,3],
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[7,0,0,0,1,2,3,0,9,1,11]
 };

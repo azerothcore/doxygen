@@ -1,7 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a605687080e5149b3f08ce8349ba9b336":[6,0,1879,0,2],
-"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#aa7532b691e85fd9bd467e20db39c59da":[6,0,1879,0,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#ac86fb8a5a55654ff7697abd9162135c1":[6,0,1879,0,6],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3182],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3182,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX349 =
 "dd/dac/structModelEquip.html":[6,0,1545],
 "dd/dac/structModelEquip.html#a719c716f8914a200bfde4f5bb3275f26":[6,0,1545,0],
 "dd/dac/structModelEquip.html#a9de7aa11788b22692738b72718193057":[6,0,1545,3],
-"dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2]
+"dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2],
+"dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
+"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX292 =
 {
-"db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96a09a4f94d54da72b35220c9d8711fdd9a":[7,0,0,0,1,3,9,4,190,0],
-"db/d6e/spell__item_8cpp.html#a9206680d9ac44d81dddcca671878b21e":[7,0,0,0,1,3,9,4,172],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846":[7,0,0,0,1,3,9,4,280],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[7,0,0,0,1,3,9,4,280,0],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[7,0,0,0,1,3,9,4,271],
@@ -209,12 +207,12 @@ var NAVTREEINDEX292 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2536,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,107,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,119,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,107,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,119,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,119,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,107,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,119,0,2],
 "db/d72/structLootItem.html":[6,0,1474],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1474,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1474,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX292 =
 "db/d73/classspell__item__pendant__of__the__violet__eye.html#ae67afabe644d2e11f85950d02325373a":[6,0,3412,0],
 "db/d74/classspell__botanica__shift__form__aura.html":[6,0,2701],
 "db/d74/classspell__botanica__shift__form__aura.html#a990cab2c1d9fb544bf11c9fd4e5495ac":[6,0,2701,2],
-"db/d74/classspell__botanica__shift__form__aura.html#aad39e53d6b3fc673c115f79ca0bc9b68":[6,0,2701,1]
+"db/d74/classspell__botanica__shift__form__aura.html#aad39e53d6b3fc673c115f79ca0bc9b68":[6,0,2701,1],
+"db/d74/classspell__botanica__shift__form__aura.html#ac176c59497cc2196c19dc8a1b9f8056d":[6,0,2701,0],
+"db/d74/classspell__botanica__shift__form__aura.html#ad392a897546cb64e550dd8b0709ba0ab":[6,0,2701,4]
 };

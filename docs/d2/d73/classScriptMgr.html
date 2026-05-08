@@ -896,6 +896,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a970a859166d4f4c4ff40f7c3ed1cbefc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa03a97598aaf1102676253b55df6bad7" id="r_aa03a97598aaf1102676253b55df6bad7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#aa03a97598aaf1102676253b55df6bad7">OnBattlefieldBeforeInvitePlayerToWar</a> (<a class="el" href="../../d6/d26/classBattlefield.html">Battlefield</a> *bf, <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player)</td></tr>
 <tr class="separator:aa03a97598aaf1102676253b55df6bad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98c4eaae6a50deb0260d1aae61a8cdeb" id="r_a98c4eaae6a50deb0260d1aae61a8cdeb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#a98c4eaae6a50deb0260d1aae61a8cdeb">OnBattlefieldWarEnd</a> (<a class="el" href="../../d6/d26/classBattlefield.html">Battlefield</a> *bf, bool endByTimer)</td></tr>
+<tr class="separator:a98c4eaae6a50deb0260d1aae61a8cdeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7a309497fb8c09eadc0e400cb120921d" id="r_a7a309497fb8c09eadc0e400cb120921d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#a7a309497fb8c09eadc0e400cb120921d">OnBattlegroundStart</a> (<a class="el" href="../../df/da7/classBattleground.html">Battleground</a> *bg)</td></tr>
 <tr class="separator:a7a309497fb8c09eadc0e400cb120921d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a257fd52e15580b9c5b8372664d749371" id="r_a257fd52e15580b9c5b8372664d749371"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/classScriptMgr.html#a257fd52e15580b9c5b8372664d749371">OnBattlegroundEndReward</a> (<a class="el" href="../../df/da7/classBattleground.html">Battleground</a> *bg, <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> winnerTeamId)</td></tr>
@@ -1170,10 +1172,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   49</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>(0),</div>
 <div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">_script_loader_callback</a>(<span class="keyword">nullptr</span>),</div>
 <div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">_modules_loader_callback</a>(<span class="keyword">nullptr</span>) { }</div>
-<div class="ttc" id="aclassScriptMgr_html_a5471a436187bcfe433cc1ec3e92a9927"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">ScriptMgr::_modules_loader_callback</a></div><div class="ttdeci">ModulesLoaderCallbackType _modules_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:733</div></div>
-<div class="ttc" id="aclassScriptMgr_html_a9fa3ba2c67851169c3b0409082079ef3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">ScriptMgr::_script_loader_callback</a></div><div class="ttdeci">ScriptLoaderCallbackType _script_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:732</div></div>
-<div class="ttc" id="aclassScriptMgr_html_ada1cacc5d2f49d1cf5b5ff6792a58aff"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">ScriptMgr::_scriptCount</a></div><div class="ttdeci">uint32 _scriptCount</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:727</div></div>
-<div class="ttc" id="aclassScriptMgr_html_ade23010aa6e30ef92583d98e40b34251"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">ScriptMgr::_scheduledScripts</a></div><div class="ttdeci">std::atomic&lt; long &gt; _scheduledScripts</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:730</div></div>
+<div class="ttc" id="aclassScriptMgr_html_a5471a436187bcfe433cc1ec3e92a9927"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">ScriptMgr::_modules_loader_callback</a></div><div class="ttdeci">ModulesLoaderCallbackType _modules_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:734</div></div>
+<div class="ttc" id="aclassScriptMgr_html_a9fa3ba2c67851169c3b0409082079ef3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">ScriptMgr::_script_loader_callback</a></div><div class="ttdeci">ScriptLoaderCallbackType _script_loader_callback</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:733</div></div>
+<div class="ttc" id="aclassScriptMgr_html_ada1cacc5d2f49d1cf5b5ff6792a58aff"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">ScriptMgr::_scriptCount</a></div><div class="ttdeci">uint32 _scriptCount</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:728</div></div>
+<div class="ttc" id="aclassScriptMgr_html_ade23010aa6e30ef92583d98e40b34251"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">ScriptMgr::_scheduledScripts</a></div><div class="ttdeci">std::atomic&lt; long &gt; _scheduledScripts</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:731</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1884,7 +1886,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   62</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#ada6045c5dcd48a011d66bd2998000d27">CanPacketReceive</a>(session, packet));</div>
 <div class="line"><span class="lineno">   63</span>}</div>
 <div class="ttc" id="aServerScript_8h_html_af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971"><div class="ttname"><a href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_RECEIVE</div><div class="ttdef"><b>Definition</b> ServerScript.h:33</div></div>
-<div class="ttc" id="aclassScriptRegistry_html"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition</b> ScriptMgr.h:740</div></div>
+<div class="ttc" id="aclassScriptRegistry_html"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition</b> ScriptMgr.h:741</div></div>
 <div class="ttc" id="aclassServerScript_html"><div class="ttname"><a href="../../da/dc8/classServerScript.html">ServerScript</a></div><div class="ttdef"><b>Definition</b> ServerScript.h:38</div></div>
 <div class="ttc" id="aclassServerScript_html_ada6045c5dcd48a011d66bd2998000d27"><div class="ttname"><a href="../../da/dc8/classServerScript.html#ada6045c5dcd48a011d66bd2998000d27">ServerScript::CanPacketReceive</a></div><div class="ttdeci">virtual bool CanPacketReceive(WorldSession *, WorldPacket const &amp;)</div><div class="ttdoc">Called when a (valid) packet is received by a client. Make sure to check WorldSession pointer before ...</div><div class="ttdef"><b>Definition</b> ServerScript.h:74</div></div>
 </div><!-- fragment -->
@@ -2381,7 +2383,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1723</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00162">LoadDatabase()</a>.</p>
 
@@ -2434,12 +2436,12 @@ Friends</h2></td></tr>
 <div class="ttc" id="aObjectMgr_8h_html_a2f79d1bd10a4458336bb9739571c8d95"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a2f79d1bd10a4458336bb9739571c8d95">SpellScriptsBounds</a></div><div class="ttdeci">std::pair&lt; SpellScriptsContainer::iterator, SpellScriptsContainer::iterator &gt; SpellScriptsBounds</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:389</div></div>
 <div class="ttc" id="aclassAuraScript_html"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html">AuraScript</a></div><div class="ttdef"><b>Definition</b> SpellScript.h:518</div></div>
 <div class="ttc" id="aclassScriptObject_html_a79588d839860d2f5caab60c5f1368f10"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html#a79588d839860d2f5caab60c5f1368f10">ScriptObject::GetName</a></div><div class="ttdeci">const std::string &amp; GetName() const</div><div class="ttdef"><b>Definition</b> ScriptObject.h:53</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a22226c545e7975d4c612e7adcc766d05"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05">ScriptRegistry::GetScriptById</a></div><div class="ttdeci">static TScript * GetScriptById(uint32 id)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:869</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a22226c545e7975d4c612e7adcc766d05"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05">ScriptRegistry::GetScriptById</a></div><div class="ttdeci">static TScript * GetScriptById(uint32 id)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:870</div></div>
 <div class="ttc" id="aclassSpellScriptLoader_html"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html">SpellScriptLoader</a></div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:26</div></div>
 <div class="ttc" id="aclassSpellScriptLoader_html_a9c60850e39ffe3d151a128b12777859d"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html#a9c60850e39ffe3d151a128b12777859d">SpellScriptLoader::GetAuraScript</a></div><div class="ttdeci">virtual AuraScript * GetAuraScript() const</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:37</div></div>
 <div class="ttc" id="aclass__SpellScript_html_ae85c836ab2da173942a40b53561df1fb"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#ae85c836ab2da173942a40b53561df1fb">_SpellScript::_Init</a></div><div class="ttdeci">virtual void _Init(std::string const *scriptname, uint32 spellId)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00037">SpellScriptLoader::GetAuraScript()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00037">SpellScriptLoader::GetAuraScript()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -2492,7 +2494,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>}</div>
 <div class="ttc" id="aclassInstanceMap_html_a6f3eccbe5d67aec9aeab45a11432b9da"><div class="ttname"><a href="../../de/dd8/classInstanceMap.html#a6f3eccbe5d67aec9aeab45a11432b9da">InstanceMap::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Map.h:718</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00718">InstanceMap::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00718">InstanceMap::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -2518,7 +2520,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;GetOutdoorPvP() : <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   28</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00034">OutdoorPvPData::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00034">OutdoorPvPData::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -2561,7 +2563,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   76</span>    }</div>
 <div class="line"><span class="lineno">   77</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -2612,7 +2614,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassSpellScriptLoader_html_a6f3a101a0517ba1440399809cf7f5b5b"><div class="ttname"><a href="../../d0/dad/classSpellScriptLoader.html#a6f3a101a0517ba1440399809cf7f5b5b">SpellScriptLoader::GetSpellScript</a></div><div class="ttdeci">virtual SpellScript * GetSpellScript() const</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:34</div></div>
 <div class="ttc" id="aclassSpellScript_html"><div class="ttname"><a href="../../df/d92/classSpellScript.html">SpellScript</a></div><div class="ttdef"><b>Definition</b> SpellScript.h:182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00034">SpellScriptLoader::GetSpellScript()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">_SpellScript::_Init()</a>, <a class="el" href="../../#l00053">ScriptObject::GetName()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, <a class="el" href="../../#l00034">SpellScriptLoader::GetSpellScript()</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -2693,7 +2695,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  540</span>{ <span class="keywordflow">return</span> --<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00730">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00731">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -2722,7 +2724,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  541</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a> -= count; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00730">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00731">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -2750,7 +2752,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  128</span>{ --<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00728">_scriptCount</a>.</p>
 
 </div>
 </div>
@@ -2964,7 +2966,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassAllCreatureScript_html_a1e568b6f85a8b60a65a987c8d081ca3e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e">AllCreatureScript::GetCreatureAI</a></div><div class="ttdeci">virtual CreatureAI * GetCreatureAI(Creature *) const</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:101</div></div>
 <div class="ttc" id="aclassCreature_html_a8547005ac66de0dcd1e64a7958a32be7"><div class="ttname"><a href="../../db/dd5/classCreature.html#a8547005ac66de0dcd1e64a7958a32be7">Creature::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Creature.cpp:3167</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00101">AllCreatureScript::GetCreatureAI()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00101">AllCreatureScript::GetCreatureAI()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -3002,7 +3004,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  154</span>}</div>
 <div class="ttc" id="aQuestDef_8h_html_a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3">DIALOG_STATUS_SCRIPTED_NO_STATUS</a></div><div class="ttdeci">@ DIALOG_STATUS_SCRIPTED_NO_STATUS</div><div class="ttdef"><b>Definition</b> QuestDef.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -3040,7 +3042,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  132</span>}</div>
 <div class="ttc" id="aclassGameObject_html_a9f7f632d6874756694f82f140ae93ea5"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a9f7f632d6874756694f82f140ae93ea5">GameObject::GetScriptId</a></div><div class="ttdeci">virtual uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> GameObject.cpp:2214</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00125">DIALOG_STATUS_SCRIPTED_NO_STATUS</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -3113,7 +3115,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassAllGameObjectScript_html"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html">AllGameObjectScript</a></div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:24</div></div>
 <div class="ttc" id="aclassAllGameObjectScript_html_afe0c610693bc883415952ba350596788"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#afe0c610693bc883415952ba350596788">AllGameObjectScript::GetGameObjectAI</a></div><div class="ttdeci">virtual GameObjectAI * GetGameObjectAI(GameObject *) const</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00086">AllGameObjectScript::GetGameObjectAI()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00086">AllGameObjectScript::GetGameObjectAI()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -3182,7 +3184,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  129</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00728">_scriptCount</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00162">LoadDatabase()</a>.</p>
 
@@ -3253,7 +3255,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  539</span>{ <span class="keywordflow">return</span> ++<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00730">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00731">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -3281,7 +3283,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  127</span>{ ++<a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff">_scriptCount</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">_scriptCount</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00728">_scriptCount</a>.</p>
 
 </div>
 </div>
@@ -3354,7 +3356,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aArenaScript_8h_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition</b> ArenaScript.h:34</div></div>
 <div class="ttc" id="aArenaTeamScript_8h_html_adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7"><div class="ttname"><a href="../../d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7">ARENATEAMHOOK_END</a></div><div class="ttdeci">@ ARENATEAMHOOK_END</div><div class="ttdef"><b>Definition</b> ArenaTeamScript.h:32</div></div>
 <div class="ttc" id="aAuctionHouseScript_8h_html_a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"><div class="ttname"><a href="../../d4/d09/AuctionHouseScript_8h.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_END</div><div class="ttdef"><b>Definition</b> AuctionHouseScript.h:37</div></div>
-<div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_END</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:31</div></div>
+<div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_END</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:32</div></div>
 <div class="ttc" id="aDatabaseScript_8h_html_a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04"><div class="ttname"><a href="../../d1/d1b/DatabaseScript_8h.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04">DATABASEHOOK_END</a></div><div class="ttdeci">@ DATABASEHOOK_END</div><div class="ttdef"><b>Definition</b> DatabaseScript.h:28</div></div>
 <div class="ttc" id="aFormulaScript_8h_html_a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f"><div class="ttname"><a href="../../de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a></div><div class="ttdeci">@ FORMULAHOOK_END</div><div class="ttdef"><b>Definition</b> FormulaScript.h:35</div></div>
 <div class="ttc" id="aGameEventScript_8h_html_a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395"><div class="ttname"><a href="../../d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a></div><div class="ttdeci">@ GAMEEVENTHOOK_END</div><div class="ttdef"><b>Definition</b> GameEventScript.h:29</div></div>
@@ -3374,10 +3376,10 @@ Friends</h2></td></tr>
 <div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a></div><div class="ttdeci">@ UNITHOOK_END</div><div class="ttdef"><b>Definition</b> UnitScript.h:46</div></div>
 <div class="ttc" id="aWorldObjectScript_8h_html_ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59"><div class="ttname"><a href="../../d4/dee/WorldObjectScript_8h.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59">WORLDOBJECTHOOK_END</a></div><div class="ttdeci">@ WORLDOBJECTHOOK_END</div><div class="ttdef"><b>Definition</b> WorldObjectScript.h:31</div></div>
 <div class="ttc" id="aWorldScript_8h_html_a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800"><div class="ttname"><a href="../../dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a></div><div class="ttdeci">@ WORLDHOOK_END</div><div class="ttdef"><b>Definition</b> WorldScript.h:40</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:760</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a44238d9b122f50192b989b1efe2107bd"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd">ScriptRegistry::InitEnabledHooksIfNeeded</a></div><div class="ttdeci">static void InitEnabledHooksIfNeeded(uint16 totalAvailableHooks)</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:761</div></div>
 <div class="ttc" id="anamespacelfg_html_a9624b9328e26a9f420a4a3f07e253763"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a9624b9328e26a9f420a4a3f07e253763">lfg::AddSC_LFGScripts</a></div><div class="ttdeci">void AddSC_LFGScripts()</div><div class="ttdef"><b>Definition</b> LFGScripts.cpp:320</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00733">_modules_loader_callback</a>, <a class="el" href="../../#l00732">_script_loader_callback</a>, <a class="el" href="../../#l00035">ACCOUNTHOOK_END</a>, <a class="el" href="../../#l00033">ACHIEVEMENTHOOK_END</a>, <a class="el" href="../../#l00320">lfg::AddSC_LFGScripts()</a>, <a class="el" href="../../#l01498">AddSC_SmartScripts()</a>, <a class="el" href="../../#l00046">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00030">ALLCOMMANDHOOK_END</a>, <a class="el" href="../../#l00033">ALLMAPHOOK_END</a>, <a class="el" href="../../#l00040">ALLSPELLHOOK_END</a>, <a class="el" href="../../#l00034">ARENAHOOK_END</a>, <a class="el" href="../../#l00032">ARENATEAMHOOK_END</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">AUCTIONHOUSEHOOK_END</a>, <a class="el" href="../../#l00031">BATTLEFIELDHOOK_END</a>, <a class="el" href="../../#l00028">DATABASEHOOK_END</a>, <a class="el" href="../../#l00035">FORMULAHOOK_END</a>, <a class="el" href="../../#l00029">GAMEEVENTHOOK_END</a>, <a class="el" href="../../#l00050">GLOBALHOOK_END</a>, <a class="el" href="../../#l00034">GROUPHOOK_END</a>, <a class="el" href="../../#l00039">GUILDHOOK_END</a>, <a class="el" href="../../#l00760">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00027">LOOTHOOK_END</a>, <a class="el" href="../../#l00027">MAILHOOK_END</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00028">MOVEMENTHOOK_END</a>, <a class="el" href="../../#l00032">PETHOOK_END</a>, <a class="el" href="../../#l00215">PLAYERHOOK_END</a>, <a class="el" href="../../#l00034">SERVERHOOK_END</a>, <a class="el" href="../../#l00032">TICKETHOOK_END</a>, <a class="el" href="../../#l00046">UNITHOOK_END</a>, <a class="el" href="../../#l00040">WORLDHOOK_END</a>, and <a class="el" href="../../#l00031">WORLDOBJECTHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00734">_modules_loader_callback</a>, <a class="el" href="../../#l00733">_script_loader_callback</a>, <a class="el" href="../../#l00035">ACCOUNTHOOK_END</a>, <a class="el" href="../../#l00033">ACHIEVEMENTHOOK_END</a>, <a class="el" href="../../#l00320">lfg::AddSC_LFGScripts()</a>, <a class="el" href="../../#l01498">AddSC_SmartScripts()</a>, <a class="el" href="../../#l00046">ALLBATTLEGROUNDHOOK_END</a>, <a class="el" href="../../#l00030">ALLCOMMANDHOOK_END</a>, <a class="el" href="../../#l00033">ALLMAPHOOK_END</a>, <a class="el" href="../../#l00040">ALLSPELLHOOK_END</a>, <a class="el" href="../../#l00034">ARENAHOOK_END</a>, <a class="el" href="../../#l00032">ARENATEAMHOOK_END</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">AUCTIONHOUSEHOOK_END</a>, <a class="el" href="../../#l00032">BATTLEFIELDHOOK_END</a>, <a class="el" href="../../#l00028">DATABASEHOOK_END</a>, <a class="el" href="../../#l00035">FORMULAHOOK_END</a>, <a class="el" href="../../#l00029">GAMEEVENTHOOK_END</a>, <a class="el" href="../../#l00050">GLOBALHOOK_END</a>, <a class="el" href="../../#l00034">GROUPHOOK_END</a>, <a class="el" href="../../#l00039">GUILDHOOK_END</a>, <a class="el" href="../../#l00761">ScriptRegistry&lt; TScript &gt;::InitEnabledHooksIfNeeded()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00027">LOOTHOOK_END</a>, <a class="el" href="../../#l00027">MAILHOOK_END</a>, <a class="el" href="../../#l00045">MISCHOOK_END</a>, <a class="el" href="../../#l00028">MOVEMENTHOOK_END</a>, <a class="el" href="../../#l00032">PETHOOK_END</a>, <a class="el" href="../../#l00215">PLAYERHOOK_END</a>, <a class="el" href="../../#l00034">SERVERHOOK_END</a>, <a class="el" href="../../#l00032">TICKETHOOK_END</a>, <a class="el" href="../../#l00046">UNITHOOK_END</a>, <a class="el" href="../../#l00040">WORLDHOOK_END</a>, and <a class="el" href="../../#l00031">WORLDOBJECTHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -3633,7 +3635,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  542</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#ade23010aa6e30ef92583d98e40b34251">_scheduledScripts</a> &gt; 0; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00730">_scheduledScripts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00731">_scheduledScripts</a>.</p>
 
 </div>
 </div>
@@ -3685,9 +3687,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassScriptMgr_html_a2c35ada0fe41142cb687a6e4f1f6b4e3"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a2c35ada0fe41142cb687a6e4f1f6b4e3">ScriptMgr::FillSpellSummary</a></div><div class="ttdeci">void FillSpellSummary()</div><div class="ttdef"><b>Definition</b> ScriptMgr.cpp:239</div></div>
 <div class="ttc" id="aclassScriptMgr_html_a3eb42f085fd87a5243cfff42c19f3620"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#a3eb42f085fd87a5243cfff42c19f3620">ScriptMgr::GetScriptCount</a></div><div class="ttdeci">uint32 GetScriptCount() const</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:129</div></div>
 <div class="ttc" id="aclassScriptMgr_html_afd9b08456cc8caee797817f4283e28a1"><div class="ttname"><a href="../../d2/d73/classScriptMgr.html#afd9b08456cc8caee797817f4283e28a1">ScriptMgr::CheckIfScriptsInDatabaseExist</a></div><div class="ttdeci">void CheckIfScriptsInDatabaseExist()</div><div class="ttdef"><b>Definition</b> ScriptMgr.cpp:192</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_aa86b74a2560deae81f5c2a38cf1f72c8"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8">ScriptRegistry::AddALScripts</a></div><div class="ttdeci">static void AddALScripts()</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:792</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_aa86b74a2560deae81f5c2a38cf1f72c8"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8">ScriptRegistry::AddALScripts</a></div><div class="ttdeci">static void AddALScripts()</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:793</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00792">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00192">CheckIfScriptsInDatabaseExist()</a>, <a class="el" href="../../#l00239">FillSpellSummary()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00129">GetScriptCount()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00091">sScriptSystemMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00793">ScriptRegistry&lt; TScript &gt;::AddALScripts()</a>, <a class="el" href="../../#l00192">CheckIfScriptsInDatabaseExist()</a>, <a class="el" href="../../#l00239">FillSpellSummary()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00129">GetScriptCount()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00091">sScriptSystemMgr</a>.</p>
 
 </div>
 </div>
@@ -5092,10 +5094,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   44</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#ac0c199050fba1f6e991783bd2d2efdc2">OnBattlefieldBeforeInvitePlayerToWar</a>(bf, player));</div>
 <div class="line"><span class="lineno">   45</span>}</div>
 <div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:30</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a></div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:38</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html_ac0c199050fba1f6e991783bd2d2efdc2"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#ac0c199050fba1f6e991783bd2d2efdc2">BattlefieldScript::OnBattlefieldBeforeInvitePlayerToWar</a></div><div class="ttdeci">virtual void OnBattlefieldBeforeInvitePlayerToWar(Battlefield *, Player *)</div><div class="ttdoc">Called inside InvitePlayerToWar after the WillBeKick entry is erased (using the player's current team...</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:89</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a></div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:39</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_ac0c199050fba1f6e991783bd2d2efdc2"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#ac0c199050fba1f6e991783bd2d2efdc2">BattlefieldScript::OnBattlefieldBeforeInvitePlayerToWar</a></div><div class="ttdeci">virtual void OnBattlefieldBeforeInvitePlayerToWar(Battlefield *, Player *)</div><div class="ttdoc">Called inside InvitePlayerToWar after the WillBeKick entry is erased (using the player's current team...</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00030">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00089">BattlefieldScript::OnBattlefieldBeforeInvitePlayerToWar()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00030">BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00090">BattlefieldScript::OnBattlefieldBeforeInvitePlayerToWar()</a>.</p>
 
 </div>
 </div>
@@ -5128,9 +5130,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   24</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#adf7c217eadc6106b1ce3c353a411edf8">OnBattlefieldPlayerEnterZone</a>(bf, player));</div>
 <div class="line"><span class="lineno">   25</span>}</div>
 <div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:26</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html_adf7c217eadc6106b1ce3c353a411edf8"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#adf7c217eadc6106b1ce3c353a411edf8">BattlefieldScript::OnBattlefieldPlayerEnterZone</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerEnterZone(Battlefield *, Player *)</div><div class="ttdoc">Called when a player enters the battlefield zone, before team-based data assignment....</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:52</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_adf7c217eadc6106b1ce3c353a411edf8"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#adf7c217eadc6106b1ce3c353a411edf8">BattlefieldScript::OnBattlefieldPlayerEnterZone</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerEnterZone(Battlefield *, Player *)</div><div class="ttdoc">Called when a player enters the battlefield zone, before team-based data assignment....</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:53</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00052">BattlefieldScript::OnBattlefieldPlayerEnterZone()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00026">BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00053">BattlefieldScript::OnBattlefieldPlayerEnterZone()</a>.</p>
 
 </div>
 </div>
@@ -5163,9 +5165,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   34</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#a2f2a9de94a8e8f60d04e956b4479cf16">OnBattlefieldPlayerJoinWar</a>(bf, player));</div>
 <div class="line"><span class="lineno">   35</span>}</div>
 <div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:28</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html_a2f2a9de94a8e8f60d04e956b4479cf16"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a2f2a9de94a8e8f60d04e956b4479cf16">BattlefieldScript::OnBattlefieldPlayerJoinWar</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerJoinWar(Battlefield *, Player *)</div><div class="ttdoc">Called after a player has been added to the active war (accepted the invitation).</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:69</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_a2f2a9de94a8e8f60d04e956b4479cf16"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a2f2a9de94a8e8f60d04e956b4479cf16">BattlefieldScript::OnBattlefieldPlayerJoinWar</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerJoinWar(Battlefield *, Player *)</div><div class="ttdoc">Called after a player has been added to the active war (accepted the invitation).</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:70</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00028">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00069">BattlefieldScript::OnBattlefieldPlayerJoinWar()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00028">BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00070">BattlefieldScript::OnBattlefieldPlayerJoinWar()</a>.</p>
 
 </div>
 </div>
@@ -5198,9 +5200,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   39</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#a3e88ff9ad3772d558ab72123127a550e">OnBattlefieldPlayerLeaveWar</a>(bf, player));</div>
 <div class="line"><span class="lineno">   40</span>}</div>
 <div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:29</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html_a3e88ff9ad3772d558ab72123127a550e"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a3e88ff9ad3772d558ab72123127a550e">BattlefieldScript::OnBattlefieldPlayerLeaveWar</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerLeaveWar(Battlefield *, Player *)</div><div class="ttdoc">Called after a player has been removed from the active war.</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:77</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_a3e88ff9ad3772d558ab72123127a550e"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a3e88ff9ad3772d558ab72123127a550e">BattlefieldScript::OnBattlefieldPlayerLeaveWar</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerLeaveWar(Battlefield *, Player *)</div><div class="ttdoc">Called after a player has been removed from the active war.</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:78</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00077">BattlefieldScript::OnBattlefieldPlayerLeaveWar()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00029">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00078">BattlefieldScript::OnBattlefieldPlayerLeaveWar()</a>.</p>
 
 </div>
 </div>
@@ -5233,9 +5235,44 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   29</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#a3b274755aaded2d99bcf5e12a2f2de4c">OnBattlefieldPlayerLeaveZone</a>(bf, player));</div>
 <div class="line"><span class="lineno">   30</span>}</div>
 <div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:27</div></div>
-<div class="ttc" id="aclassBattlefieldScript_html_a3b274755aaded2d99bcf5e12a2f2de4c"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a3b274755aaded2d99bcf5e12a2f2de4c">BattlefieldScript::OnBattlefieldPlayerLeaveZone</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerLeaveZone(Battlefield *, Player *)</div><div class="ttdoc">Called when a player leaves the battlefield zone, after all cleanup. This is the ideal place to resto...</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:61</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_a3b274755aaded2d99bcf5e12a2f2de4c"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#a3b274755aaded2d99bcf5e12a2f2de4c">BattlefieldScript::OnBattlefieldPlayerLeaveZone</a></div><div class="ttdeci">virtual void OnBattlefieldPlayerLeaveZone(Battlefield *, Player *)</div><div class="ttdoc">Called when a player leaves the battlefield zone, after all cleanup. This is the ideal place to resto...</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00027">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00061">BattlefieldScript::OnBattlefieldPlayerLeaveZone()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00062">BattlefieldScript::OnBattlefieldPlayerLeaveZone()</a>.</p>
+
+</div>
+</div>
+<a id="a98c4eaae6a50deb0260d1aae61a8cdeb" name="a98c4eaae6a50deb0260d1aae61a8cdeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98c4eaae6a50deb0260d1aae61a8cdeb">&#9670;&#160;</a></span>OnBattlefieldWarEnd()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ScriptMgr::OnBattlefieldWarEnd </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d26/classBattlefield.html">Battlefield</a> *&#160;</td>
+          <td class="paramname"><em>bf</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>endByTimer</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1">CALL_ENABLED_HOOKS</a>(<a class="code hl_class" href="../../d4/d61/classBattlefieldScript.html">BattlefieldScript</a>, <a class="code hl_enumvalue" href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a>, script-&gt;<a class="code hl_function" href="../../d4/d61/classBattlefieldScript.html#ab4ed21627320723b18a09dbc4c7f6baa">OnBattlefieldWarEnd</a>(bf, endByTimer));</div>
+<div class="line"><span class="lineno">   50</span>}</div>
+<div class="ttc" id="aBattlefieldScript_8h_html_ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f"><div class="ttname"><a href="../../de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f">BATTLEFIELDHOOK_ON_WAR_END</a></div><div class="ttdeci">@ BATTLEFIELDHOOK_ON_WAR_END</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:31</div></div>
+<div class="ttc" id="aclassBattlefieldScript_html_ab4ed21627320723b18a09dbc4c7f6baa"><div class="ttname"><a href="../../d4/d61/classBattlefieldScript.html#ab4ed21627320723b18a09dbc4c7f6baa">BattlefieldScript::OnBattlefieldWarEnd</a></div><div class="ttdeci">virtual void OnBattlefieldWarEnd(Battlefield *, bool)</div><div class="ttdoc">Called in EndBattle() after OnBattleEnd() completes, before the timer is reset. All core PlayersInWar...</div><div class="ttdef"><b>Definition</b> BattlefieldScript.h:101</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00031">BATTLEFIELDHOOK_ON_WAR_END</a>, <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, and <a class="el" href="../../#l00101">BattlefieldScript::OnBattlefieldWarEnd()</a>.</p>
 
 </div>
 </div>
@@ -6985,7 +7022,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  111</span>}</div>
 <div class="ttc" id="aclassItem_html_a0ae96da9ab054f0664bd3e7db0b2a06e"><div class="ttname"><a href="../../d0/dae/classItem.html#a0ae96da9ab054f0664bd3e7db0b2a06e">Item::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Item.h:364</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -7063,7 +7100,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>}</div>
 <div class="ttc" id="astructCondition_html_a94a118e00e3382f7ae0a781114bce56d"><div class="ttname"><a href="../../d6/d9f/structCondition.html#a94a118e00e3382f7ae0a781114bce56d">Condition::ScriptId</a></div><div class="ttdeci">uint32 ScriptId</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:211</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00211">Condition::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00211">Condition::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -7466,7 +7503,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnCheck(source, target, criteria_id) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   28</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>.</p>
 
 </div>
 </div>
@@ -8761,7 +8798,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af077a82741577a63a075c7d40b3b3dc5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a></div><div class="ttdeci">void ClearGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:22</div></div>
 <div class="ttc" id="aclassAllCreatureScript_html_a2cf3bd5ad27bf97fde905bc69a6dec5e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e">AllCreatureScript::CanCreatureGossipHello</a></div><div class="ttdeci">virtual bool CanCreatureGossipHello(Player *, Creature *)</div><div class="ttdoc">This hook called when a player opens a gossip dialog with the creature.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:67</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00067">AllCreatureScript::CanCreatureGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00067">AllCreatureScript::CanCreatureGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -8810,7 +8847,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   42</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a33efc883fe64cdc52aa9b03f9377da97"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a33efc883fe64cdc52aa9b03f9377da97">AllGameObjectScript::CanGameObjectGossipHello</a></div><div class="ttdeci">virtual bool CanGameObjectGossipHello(Player *, GameObject *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00056">AllGameObjectScript::CanGameObjectGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00056">AllGameObjectScript::CanGameObjectGossipHello()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -8870,7 +8907,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   61</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_a551633c543dd01e876ee10452b98fb5e"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a551633c543dd01e876ee10452b98fb5e">AllCreatureScript::CanCreatureGossipSelect</a></div><div class="ttdeci">virtual bool CanCreatureGossipSelect(Player *, Creature *, uint32, uint32)</div><div class="ttdoc">This hook called when a player selects a gossip item in the creature's gossip menu.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:79</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00079">AllCreatureScript::CanCreatureGossipSelect()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00079">AllCreatureScript::CanCreatureGossipSelect()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -8930,7 +8967,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   61</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a317305c7dc81fede50d73f65fbc2bb42"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a317305c7dc81fede50d73f65fbc2bb42">AllGameObjectScript::CanGameObjectGossipSelect</a></div><div class="ttdeci">virtual bool CanGameObjectGossipSelect(Player *, GameObject *, uint32, uint32)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">AllGameObjectScript::CanGameObjectGossipSelect()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">AllGameObjectScript::CanGameObjectGossipSelect()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -9055,7 +9092,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_aa193e968ecc1639ca33fee052dafb0b3"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#aa193e968ecc1639ca33fee052dafb0b3">AllCreatureScript::CanCreatureGossipSelectCode</a></div><div class="ttdeci">virtual bool CanCreatureGossipSelectCode(Player *, Creature *, uint32, uint32, const char *)</div><div class="ttdoc">This hook called when a player selects a gossip with a code in the creature's gossip menu.</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:92</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00092">AllCreatureScript::CanCreatureGossipSelectCode()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00092">AllCreatureScript::CanCreatureGossipSelectCode()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -9122,7 +9159,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_ac0b0ce8b06f371a6adfb69b926797790"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#ac0b0ce8b06f371a6adfb69b926797790">AllGameObjectScript::CanGameObjectGossipSelectCode</a></div><div class="ttdeci">virtual bool CanGameObjectGossipSelectCode(Player *, GameObject *, uint32, uint32, const char *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00062">AllGameObjectScript::CanGameObjectGossipSelectCode()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00062">AllGameObjectScript::CanGameObjectGossipSelectCode()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -10423,7 +10460,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_aa2a9c691b4ba5d06f65555a7092fffc3"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#aa2a9c691b4ba5d06f65555a7092fffc3">AllItemScript::CanItemExpire</a></div><div class="ttdeci">virtual bool CanItemExpire(Player *, ItemTemplate const *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00039">AllItemScript::CanItemExpire()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00689">ItemTemplate::ScriptId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00039">AllItemScript::CanItemExpire()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00689">ItemTemplate::ScriptId</a>.</p>
 
 </div>
 </div>
@@ -10471,7 +10508,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  100</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_ad29a7f5d07d56127bc00846e1a7fb067"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#ad29a7f5d07d56127bc00846e1a7fb067">AllItemScript::CanItemRemove</a></div><div class="ttdeci">virtual bool CanItemRemove(Player *, Item *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00036">AllItemScript::CanItemRemove()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00036">AllItemScript::CanItemRemove()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -10578,7 +10615,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   62</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_a89d237f426840658e4423fb9cc7428db"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#a89d237f426840658e4423fb9cc7428db">AllItemScript::CanItemUse</a></div><div class="ttdeci">virtual bool CanItemUse(Player *, Item *, SpellCastTargets const &amp;)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:33</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00033">AllItemScript::CanItemUse()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00033">AllItemScript::CanItemUse()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -12135,11 +12172,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  940</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675">PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN</a></div><div class="ttdeci">@ PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN</div><div class="ttdef"><b>Definition</b> PlayerScript.h:214</div></div>
-<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition</b> WorldConfig.h:193</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition</b> WorldConfig.h:189</div></div>
 <div class="ttc" id="aclassPlayerScript_html_ace41ca541fe15f78eae62b63bf58777e"><div class="ttname"><a href="../../d0/d5b/classPlayerScript.html#ace41ca541fe15f78eae62b63bf58777e">PlayerScript::OnPlayerBeforeGetLevelForXPGain</a></div><div class="ttdeci">virtual void OnPlayerBeforeGetLevelForXPGain(Player const *, uint8 &amp;)</div><div class="ttdoc">This hook is called when XP is calculated for the player, and is used to modify the player level used...</div><div class="ttdef"><b>Definition</b> PlayerScript.h:840</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:317</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00193">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00840">PlayerScript::OnPlayerBeforeGetLevelForXPGain()</a>, <a class="el" href="../../#l00214">PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">CALL_ENABLED_HOOKS</a>, <a class="el" href="../../#l00189">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00840">PlayerScript::OnPlayerBeforeGetLevelForXPGain()</a>, <a class="el" href="../../#l00214">PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
 
 </div>
 </div>
@@ -18603,7 +18640,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  102</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_af45ef5e7a0a6b3ca6126d5af87753b5c"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#af45ef5e7a0a6b3ca6126d5af87753b5c">AllCreatureScript::CanCreatureQuestAccept</a></div><div class="ttdeci">virtual bool CanCreatureQuestAccept(Player *, Creature *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:95</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00095">AllCreatureScript::CanCreatureQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00095">AllCreatureScript::CanCreatureQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18659,7 +18696,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  102</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a0c99183b04355ecfb3460bc371b58805"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a0c99183b04355ecfb3460bc371b58805">AllGameObjectScript::CanGameObjectQuestAccept</a></div><div class="ttdeci">virtual bool CanGameObjectQuestAccept(Player *, GameObject *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:65</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00065">AllGameObjectScript::CanGameObjectQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00065">AllGameObjectScript::CanGameObjectQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18715,7 +18752,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   43</span>}</div>
 <div class="ttc" id="aclassAllItemScript_html_a545e2bc7436a064146025954eaf5ae92"><div class="ttname"><a href="../../d0/dcc/classAllItemScript.html#a545e2bc7436a064146025954eaf5ae92">AllItemScript::CanItemQuestAccept</a></div><div class="ttdeci">virtual bool CanItemQuestAccept(Player *, Item *, Quest const *)</div><div class="ttdef"><b>Definition</b> AllItemScript.h:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">AllItemScript::CanItemQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">AllItemScript::CanItemQuestAccept()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l00364">Item::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18760,7 +18797,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnQuestComplete(player, creature, quest) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  124</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18822,7 +18859,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  145</span>}</div>
 <div class="ttc" id="aclassAllCreatureScript_html_a31659a18df4206122a56ce69f3e4809d"><div class="ttname"><a href="../../de/d12/classAllCreatureScript.html#a31659a18df4206122a56ce69f3e4809d">AllCreatureScript::CanCreatureQuestReward</a></div><div class="ttdeci">virtual bool CanCreatureQuestReward(Player *, Creature *, Quest const *, uint32)</div><div class="ttdef"><b>Definition</b> AllCreatureScript.h:98</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00098">AllCreatureScript::CanCreatureQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00098">AllCreatureScript::CanCreatureQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18884,7 +18921,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  123</span>}</div>
 <div class="ttc" id="aclassAllGameObjectScript_html_a55eb61a5e4386908db998ceff1dff359"><div class="ttname"><a href="../../d3/dbf/classAllGameObjectScript.html#a55eb61a5e4386908db998ceff1dff359">AllGameObjectScript::CanGameObjectQuestReward</a></div><div class="ttdeci">virtual bool CanGameObjectQuestReward(Player *, GameObject *, Quest const *, uint32)</div><div class="ttdef"><b>Definition</b> AllGameObjectScript.h:68</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">AllGameObjectScript::CanGameObjectQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">AllGameObjectScript::CanGameObjectQuestReward()</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -18929,7 +18966,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnQuestSelect(player, creature, quest) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  113</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00869">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00022">ClearGossipMenuFor()</a>, <a class="el" href="../../#l00870">ScriptRegistry&lt; TScript &gt;::GetScriptById()</a>, and <a class="el" href="../../#l03167">Creature::GetScriptId()</a>.</p>
 
 </div>
 </div>
@@ -20589,7 +20626,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  145</span>        <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a5471a436187bcfe433cc1ec3e92a9927">_modules_loader_callback</a> = script_loader_callback;</div>
 <div class="line"><span class="lineno">  146</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00733">_modules_loader_callback</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00734">_modules_loader_callback</a>.</p>
 
 </div>
 </div>
@@ -20646,7 +20683,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  138</span>        <a class="code hl_variable" href="../../d2/d73/classScriptMgr.html#a9fa3ba2c67851169c3b0409082079ef3">_script_loader_callback</a> = script_loader_callback;</div>
 <div class="line"><span class="lineno">  139</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">_script_loader_callback</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00733">_script_loader_callback</a>.</p>
 
 </div>
 </div>
@@ -21067,7 +21104,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d73/classScriptMgr.html">ScriptMgr</a></li>
-    <li class="footer">Generated on Thu May 7 2026 08:28:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri May 8 2026 07:25:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

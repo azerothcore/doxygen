@@ -1,7 +1,5 @@
 var NAVTREEINDEX351 =
 {
-"dd/db7/classAllSpellScript.html":[6,0,158],
-"dd/db7/classAllSpellScript.html#a026842dcd2d8c0e0c3f99718b04e86b0":[6,0,158,2],
 "dd/db7/classAllSpellScript.html#a0854a57b62e310575a3e5cd8d35e8532":[6,0,158,4],
 "dd/db7/classAllSpellScript.html#a36061e5bcec2ef4dea35d1b5c9e703b4":[6,0,158,8],
 "dd/db7/classAllSpellScript.html#a3cf7b45d8e9f5b23e2753d1624c4af78":[6,0,158,3],
@@ -66,8 +64,8 @@ var NAVTREEINDEX351 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,641,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,641,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,641,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX351 =
 "dd/dca/boss__moroes_8cpp.html#a48f4b58eafb4f6588ced9a15c735194f":[7,0,0,0,1,3,2,4,4,6],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,4,4],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca44b08a495efcb6d7aa09641aa7e69342":[7,0,0,0,1,3,2,4,4,4,8],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca4bddf234d010d7e4b6491f9ccc2e3223":[7,0,0,0,1,3,2,4,4,4,1]
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca4bddf234d010d7e4b6491f9ccc2e3223":[7,0,0,0,1,3,2,4,4,4,1],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca5420034f8378ea5641110a5ef69e2d8f":[7,0,0,0,1,3,2,4,4,4,3],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,2,4,4,4,6]
 };

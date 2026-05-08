@@ -1,7 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dc/d39/structnpc__janalai__hatcher.html#a5a7826964349ed9adbbdeb7c733dd915":[6,0,1920,1],
-"dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[6,0,1920,8],
 "dc/d39/structnpc__janalai__hatcher.html#ab1c3945160c55b2b2d63763eacced473":[6,0,1920,6],
 "dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[6,0,1920,11],
 "dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[6,0,1920,7],
@@ -249,5 +247,7 @@ var NAVTREEINDEX321 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,7,13,3,1],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,7,13,3,11],
 "dc/d49/classSecretMgr.html":[6,0,2547],
-"dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2547,9]
+"dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2547,9],
+"dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[6,0,2547,8],
+"dc/d49/classSecretMgr.html#a28ee0858a14656d7fc464eb604b127b7":[6,0,2547,1]
 };

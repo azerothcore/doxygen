@@ -1,10 +1,12 @@
 var NAVTREEINDEX224 =
 {
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,13,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,13,10,9,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,13,10,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,13,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,13,10,9,0],
 "d8/d60/structSavedItem.html":[6,0,2533],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[6,0,2533,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[6,0,2533,1],
@@ -137,8 +139,8 @@ var NAVTREEINDEX224 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2609,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2609,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2609,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,14,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,13,14,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,14,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,14,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,13,14,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[6,0,3508],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d72/classBattlegroundQueue.html#a61c5491ac53b40ebb128a68607a3e8d4":[6,0,348,24],
 "d8/d72/classBattlegroundQueue.html#a67b0786459174fcf370c4ab148a5492f":[6,0,348,15],
 "d8/d72/classBattlegroundQueue.html#a6d4c7fefec53bb1491f865075b55c6d3":[6,0,348,16],
-"d8/d72/classBattlegroundQueue.html#a6f28d9b711fcbbefeab5391c14e4e519":[6,0,348,29],
-"d8/d72/classBattlegroundQueue.html#a72beb688da54445899c4451537b59ca4":[6,0,348,14],
-"d8/d72/classBattlegroundQueue.html#a755e3939e10afdf5adaa3f551828bd4d":[6,0,348,19]
+"d8/d72/classBattlegroundQueue.html#a6f28d9b711fcbbefeab5391c14e4e519":[6,0,348,29]
 };

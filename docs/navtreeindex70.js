@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5bad6a1b04cfb4384903006e0594e23599f":[7,0,0,0,1,3,10,3,17,2],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5baf5d003e615fedd9a9c581e7e7f819360":[7,0,0,0,1,3,10,3,17,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a64bbd191ff8adcd734165e2585f8b5aa":[7,0,0,0,1,3,10,3,31],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6":[7,0,0,0,1,3,10,3,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872":[7,0,0,0,1,3,5,16,2,1],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa":[7,0,0,0,1,3,5,16,2,0],
 "d2/d98/classnpc__zulian__prowler.html":[6,0,2306],
-"d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[6,0,2306,1],
-"d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[6,0,2306,2]
+"d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[6,0,2306,1]
 };

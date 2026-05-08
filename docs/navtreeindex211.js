@@ -1,5 +1,7 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#af49b3d9b7430e4b97b4dd5d0a445b1b4":[6,0,1500,14],
+"d7/db0/classMap.html#af7929a91ed54d407a0a6f73d3e00328a":[6,0,1500,260],
 "d7/db0/classMap.html#afb24002cb0fa4795e2d9be2241189be6":[6,0,1500,90],
 "d7/db0/classMap.html#afb56cdfd01730436842936eeaf8bf680":[6,0,1500,16],
 "d7/db0/classMap.html#afc0c7ae3323094afa8268d6dc5f58866":[6,0,1500,246],
@@ -247,7 +249,5 @@ var NAVTREEINDEX211 =
 "d7/dbf/classnpc__infernal__attacker.html":[6,0,1906],
 "d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1906,1],
 "d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1906,2],
-"d7/dc0/TestMap_8h.html":[7,0,0,0,2,1,9],
-"d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13]
+"d7/dc0/TestMap_8h.html":[7,0,0,0,2,1,9]
 };

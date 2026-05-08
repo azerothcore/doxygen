@@ -1,5 +1,7 @@
 var NAVTREEINDEX201 =
 {
+"d7/d81/classspell__challenge__veraku.html#a4ad521364c6156c0ecef818a23ce7aff":[6,0,2730,0],
+"d7/d81/classspell__challenge__veraku.html#adc648151e2c61a61a0dc5883d9fa4ae0":[6,0,2730,3],
 "d7/d83/WheatyExceptionReport_8h.html":[7,0,0,0,0,5,3],
 "d7/d83/WheatyExceptionReport_8h.html#a1613d539e1a6f550edee20a905f7fcce":[7,0,0,0,0,5,3,12],
 "d7/d83/WheatyExceptionReport_8h.html#a2c2a64833d9c531c4cf0873d15733a66":[7,0,0,0,0,5,3,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca05b48077be45b7a365842b759dc4e1ed":[7,0,0,0,1,3,7,5,0,3,3,6],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca095d2aae75d044e4c03b5a67b906daa7":[7,0,0,0,1,3,7,5,0,3,3,7],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,7,5,0,3,3,0],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca704657a62f95cf33d4bf0fe33d15801c":[7,0,0,0,1,3,7,5,0,3,3,4],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cc181e262a5de2003fff21e281fcb86":[7,0,0,0,1,3,7,5,0,3,3,5],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298caf183dc557c3ecd65b2d231d470a1f5c6":[7,0,0,0,1,3,7,5,0,3,3,1]
+"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca704657a62f95cf33d4bf0fe33d15801c":[7,0,0,0,1,3,7,5,0,3,3,4]
 };

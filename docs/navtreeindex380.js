@@ -1,7 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915":[7,0,0,0,1,2,15,1,14,2],
-"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500":[7,0,0,0,1,2,15,1,15],
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a0878b4ee15b23920a7534bfa2da71078":[7,0,0,0,1,2,15,1,15,3],
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af":[7,0,0,0,1,2,15,1,15,6],
 "de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a1dadbefb634e2a2a1cb29de62b37025a":[7,0,0,0,1,2,15,1,15,10],
@@ -55,8 +53,8 @@ var NAVTREEINDEX380 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#a4c28987223d55f31aa6c5f3e349b62b7":[6,0,3334,2],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[6,0,3334,3],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3334,1],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX380 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8644356b55834449b042c99fca9c121c":[7,0,0,0,1,2,13,1,13,28],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8a49593011ff5ae9c30fcea2cd01bf04":[7,0,0,0,1,2,13,1,13,25],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a96d73299936abaeb0e203fa14d82f4f3":[7,0,0,0,1,2,13,1,13,4],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a99e92550f5255c2923aa40144aea907c":[7,0,0,0,1,2,13,1,13,44]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a99e92550f5255c2923aa40144aea907c":[7,0,0,0,1,2,13,1,13,44],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a9cd665aa18fade9f250d6a1223e66d65":[7,0,0,0,1,2,13,1,13,51],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a9de02bff59cbd99d029094fc18b0df7a":[7,0,0,0,1,2,13,1,13,32]
 };

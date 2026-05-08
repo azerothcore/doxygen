@@ -1,6 +1,5 @@
 var NAVTREEINDEX401 =
 {
-"df/d30/boss__gluth_8cpp.html":[7,0,0,0,1,3,5,7,3],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,3,4],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa03c0ac324d8c639af54683066910ea95":[7,0,0,0,1,3,5,7,3,4,0],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,3,4,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX401 =
 "df/d3d/classBfCapturePoint.html":[6,0,360],
 "df/d3d/classBfCapturePoint.html#a02eab1f489ee817d0b0263a57eb71ed2":[6,0,360,9],
 "df/d3d/classBfCapturePoint.html#a04eb49f420c0c2ed61789331c6769909":[6,0,360,16],
-"df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[6,0,360,4]
+"df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[6,0,360,4],
+"df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f":[6,0,360,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca7e2621e34e4c3c4e6a46b0a1ab6e5193":[7,0,0,0,1,3,5,9,2,13,45,15],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca7ed4452bcfc1ab7ae3b8cbe39afec042":[7,0,0,0,1,3,5,9,2,13,45,3],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca95e179c4d8f0b04fc47bfdc18e00724c":[7,0,0,0,1,3,5,9,2,13,45,4],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becab7ae01ae4c1b2d5b0b7ab2e9ea406754":[7,0,0,0,1,3,5,9,2,13,45,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#a26e704fd016cdf9b1d47fb9edcff7a72":[6,0,4149,1],
 "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#a9b8efef83b515f2250bda500ff741aa3":[6,0,4149,2],
 "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#ac55fd613d1ea17ae89361fbf8759fec3":[6,0,4149,0],
-"d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#ad5e9b0ae8a8103b7d901dd333e62fc35":[6,0,4149,3],
-"d3/d46/WorldStateDefines_8h.html":[7,0,0,0,1,2,48,7]
+"d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#ad5e9b0ae8a8103b7d901dd333e62fc35":[6,0,4149,3]
 };

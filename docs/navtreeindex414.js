@@ -1,6 +1,5 @@
 var NAVTREEINDEX414 =
 {
-"df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[6,0,353,15],
 "df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[6,0,353,12],
 "df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[6,0,353,3],
 "df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,353,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a1ca5e1b306bffb4b27ceb58eda4e978f":[6,0,4528,909],
 "df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063":[6,0,4528,842],
 "df/dd9/classUnit.html#a1d52e887c40e087252647958a47e933c":[6,0,4528,788],
-"df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[6,0,4528,146]
+"df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[6,0,4528,146],
+"df/dd9/classUnit.html#a1da6b0550230616c9dd52234bbcb1cf3":[6,0,4528,919]
 };
