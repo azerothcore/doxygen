@@ -1,10 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,712,0,2],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a":[6,0,712,0,5],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abff1b505e9d2d6c826f814b2d43409af":[6,0,712,0,11],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[6,0,712,0,8],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#acb1e677b2347e0464df832e1d86cd3b5":[6,0,712,0,4],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ad2d10d5aeebea48809a61eee293ff9da":[6,0,712,0,13],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#addc25d8f87dd9fd627c0bde5944c037a":[6,0,712,0,18],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#aea65b981e8b9461750a53fca3919c27f":[6,0,712,0,1],
@@ -248,6 +243,11 @@ var NAVTREEINDEX274 =
 "da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[6,0,2868,3],
 "da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[6,0,2868,0],
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[6,0,2868,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,13,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10]
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,13,8,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,13,8,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,34,8,10,2]
 };

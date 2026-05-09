@@ -1,10 +1,5 @@
 var NAVTREEINDEX256 =
 {
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7b606af2fab76214cf1bb5840a2aec55":[7,0,0,0,1,3,5,9,2,16,6,6],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7fd813e06cda4b3511b0a4f9ee916660":[7,0,0,0,1,3,5,9,2,16,6,11],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a80d3db86bfdf52a53c9a23d5855d6268":[7,0,0,0,1,3,5,9,2,16,6,12],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a86bb473cdff2581c0b69cd1767657e06":[7,0,0,0,1,3,5,9,2,16,6,2],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a88c0c7271ad18ceee95208be79ac9368":[7,0,0,0,1,3,5,9,2,16,6,23],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a9f056a676818f118e5ecaf457621049f":[7,0,0,0,1,3,5,9,2,16,6,17],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa42e0f5cd84525aa3ab0c90b00331de1":[7,0,0,0,1,3,5,9,2,16,6,0],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380":[7,0,0,0,1,3,5,9,2,16,6,5],
@@ -249,5 +244,10 @@ var NAVTREEINDEX256 =
 "d9/dfb/structboss__temporus.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7":[6,0,736,3],
 "d9/dfb/structboss__temporus.html#a9186e51d240aff2ffaab99e3b423ded9":[6,0,736,1],
 "d9/dfb/structboss__temporus.html#a99356589a048debbc308b8431259da5c":[6,0,736,5],
-"d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,736,0]
+"d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,736,0],
+"d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,736,2],
+"d9/dfc/classHealInfoStubBuilder.html":[6,0,1282],
+"d9/dfc/classHealInfoStubBuilder.html#a291565d223df00ce9d09c0315e803448":[6,0,1282,1],
+"d9/dfc/classHealInfoStubBuilder.html#a34a359322b018cffc5f54ca999c11b11":[6,0,1282,3],
+"d9/dfc/classHealInfoStubBuilder.html#a4dc784241fbe998437cceb953fb83e1f":[6,0,1282,7]
 };

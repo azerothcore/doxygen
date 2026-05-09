@@ -1,6 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ac6705f4980ca561a5fd33c2917488439":[6,0,2035,4],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#ae3db08323af4b82009ffd660b3e78474":[6,0,2035,3],
 "d6/d50/classFindStartTimeForStageTest.html":[6,0,1068],
 "d6/d50/classFindStartTimeForStageTest.html#a26f7c5c9395291b98facf91b7ba9530b":[6,0,1068,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX177 =
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a3d24ff7efa6a822b5d5c6c762b026d75":[6,0,2224,4],
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a7cb0d83e8b94808fa16539ea098e1a2f":[6,0,2224,9],
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a7fa3aa16e4764b5ce4a93eef855010f8":[6,0,2224,6],
-"d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a80a63823a5ffb19fd84fe3da5e9e4659":[6,0,2224,2]
+"d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a80a63823a5ffb19fd84fe3da5e9e4659":[6,0,2224,2],
+"d6/d59/structnpc__ulduar__arachnopod__destroyer.html#a87d4086066ac53697793152fdcebf841":[6,0,2224,7]
 };

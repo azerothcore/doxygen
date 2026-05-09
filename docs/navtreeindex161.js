@@ -1,6 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d5/dc7/structSpellEntry.html#a6586c7d319184dfe4bcd6a3086da2225":[6,0,4379,85],
 "d5/dc7/structSpellEntry.html#a6b3f2f362bc6f7462bfb26931052f606":[6,0,4379,15],
 "d5/dc7/structSpellEntry.html#a6d6f3c418ca9cd448e8e861c1324a93a":[6,0,4379,55],
 "d5/dc7/structSpellEntry.html#a7179bf4be185aaac99aaecc6bf136aee":[6,0,4379,70],
@@ -249,5 +248,6 @@ var NAVTREEINDEX161 =
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a4dbbe98a2e566de9ad8f24b220a4d252":[7,0,0,0,1,3,4,1,1,6,3,2],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a589c4d379039f638c31103354e89e8ae":[7,0,0,0,1,3,4,1,1,6,3,4],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a7bcf21b7c968c6b852e144b2cff1cab1":[7,0,0,0,1,3,4,1,1,6,3,3],
-"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a9c02f0dc4d8f6ae85be68da4b9b1fb11":[7,0,0,0,1,3,4,1,1,6,3,6]
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a9c02f0dc4d8f6ae85be68da4b9b1fb11":[7,0,0,0,1,3,4,1,1,6,3,6],
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204aa44acc04378ece5a6a6b449f89de7f3d":[7,0,0,0,1,3,4,1,1,6,3,11]
 };

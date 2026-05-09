@@ -1,10 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca863ce030bcafd52515e2f4e42ccf4b67":[7,0,0,0,1,3,5,6,10,76,76],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca88fa8b8a7a17d55de06f8dcd169531dc":[7,0,0,0,1,3,5,6,10,76,2],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca8aca3b8512f78b65bcf295895f7d36b9":[7,0,0,0,1,3,5,6,10,76,50],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d12574a96ffd925e461a195087083d1":[7,0,0,0,1,3,5,6,10,76,66],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca8eadba758aa073b48aa61ab49530702a":[7,0,0,0,1,3,5,6,10,76,37],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca908d1ca7f82d0d05a86e24b70689d0b2":[7,0,0,0,1,3,5,6,10,76,35],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca92d2c2d167ca16d900dca6735f23c81d":[7,0,0,0,1,3,5,6,10,76,60],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca96372793e81fdd522ce3663dba1956a0":[7,0,0,0,1,3,5,6,10,76,84],
@@ -249,5 +244,10 @@ var NAVTREEINDEX269 =
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac28c2a834c630f24ae2654b4ea97ed1":[7,0,0,0,1,3,2,12,4,17,1],
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea":[7,0,0,0,1,3,2,12,4,17,6],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,12,4,20],
-"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0628ef10ff4329218f1e0c5f68dc2723":[7,0,0,0,1,3,2,12,4,20,16]
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0628ef10ff4329218f1e0c5f68dc2723":[7,0,0,0,1,3,2,12,4,20,16],
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2463a4c9e1fb90919d283a9acb50c1db":[7,0,0,0,1,3,2,12,4,20,23],
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a25dfc15ed4f309bda674787b5d500718":[7,0,0,0,1,3,2,12,4,20,2],
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a3d8a501e6799fad16d12fbea58f3fe05":[7,0,0,0,1,3,2,12,4,20,15],
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a439a2ebc48cd54e3eac798d83f937687":[7,0,0,0,1,3,2,12,4,20,18],
+"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5a43a9af95b101b165ee740e543bd205":[7,0,0,0,1,3,2,12,4,20,4]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX286 =
 {
-"db/d1e/structnpc__the__biggest__tree.html#a7525783692c3bc9642f534296b71a5f5":[6,0,2175,7],
-"db/d1e/structnpc__the__biggest__tree.html#ab39af61d9ab7d9f7210f96b65971654d":[6,0,2175,6],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html":[6,0,3863],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html#a6318da4bfeb63dee75a971106bdc2146":[6,0,3863,1],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html#aee9595d4716fb2ea1bd9e2a66d26c39e":[6,0,3863,0],
 "db/d20/instance__scarlet__monastery_8cpp.html":[7,0,0,0,1,3,2,7,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9d":[7,0,0,0,1,3,2,7,0,2],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61":[7,0,0,0,1,3,2,7,0,2,1],
@@ -42,8 +37,8 @@ var NAVTREEINDEX286 =
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1903,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1903,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1903,0,9],
@@ -59,12 +54,12 @@ var NAVTREEINDEX286 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1903,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,13,6,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[6,0,694],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[6,0,694,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[6,0,694,12],
@@ -249,5 +244,10 @@ var NAVTREEINDEX286 =
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a1b0e94459893f8d5e1bc68248f78d3f0":[6,0,2261,0,1],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a1ea3393d5438a39c15e68320880be7ab":[6,0,2261,0,2],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b8c47299a68e7d69008083d49aa1c33":[6,0,2261,0,10],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b99d9de8ccc94725510c97e170ac8d5":[6,0,2261,0,6]
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b99d9de8ccc94725510c97e170ac8d5":[6,0,2261,0,6],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a46c748273b495368255f8668f5da8bdd":[6,0,2261,0,11],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a4e4a3d24f853fda03c52dc11b56f4306":[6,0,2261,0,15],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a575802dd7bf6d7359724d725b62ce604":[6,0,2261,0,13],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a8a6d32250ac109bd20bde1aa139621ea":[6,0,2261,0,14],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a9b75af98b11bf1115dfd7ce852ab7591":[6,0,2261,0,5]
 };

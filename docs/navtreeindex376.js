@@ -1,11 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a4392934e10d89ec0b192e675ac6c081b":[7,0,0,0,1,2,41,9,65,21],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a65e067ba38cebd257f27cee9ea8af6d4":[7,0,0,0,1,2,41,9,65,23],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a6dac91ba03d68eaf8fadc25648d3546a":[7,0,0,0,1,2,41,9,65,15],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a94a1aa9ac3cd331d95f2d0c421f35f59":[7,0,0,0,1,2,41,9,65,24],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a970bdf3e5f6192a44f1047c0a9c01310":[7,0,0,0,1,2,41,9,65,2],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46aa0c2a4e7377d6217e94cc8fc7c77b5b2":[7,0,0,0,1,2,41,9,65,1],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab68139e4e6c4de1ec554ce13cc339d6d":[7,0,0,0,1,2,41,9,65,9],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab6bcbd6b1f2b6e6f5ad36b83930db9d8":[7,0,0,0,1,2,41,9,65,3],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab92a05b298c10d1c2b9c3a2af4fe819b":[7,0,0,0,1,2,41,9,65,25],
@@ -249,5 +243,11 @@ var NAVTREEINDEX376 =
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[6,0,1989,1],
 "de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[6,0,1989,2],
 "de/d37/classadt__MFBO.html":[6,0,142],
-"de/d37/classadt__MFBO.html#a29dc30be1cb7f5439e023865ff5a4853":[6,0,142,1]
+"de/d37/classadt__MFBO.html#a29dc30be1cb7f5439e023865ff5a4853":[6,0,142,1],
+"de/d37/classadt__MFBO.html#a8c64958fb4e18bc3bcfaf7dbfde9f178":[6,0,142,2],
+"de/d37/classadt__MFBO.html#ab768fb1ba27812060cf2edeb5f4b876c":[6,0,142,3],
+"de/d37/classadt__MFBO.html#ac3ebf1557841088ef8912b68fe6df908":[6,0,142,5],
+"de/d37/classadt__MFBO.html#af92420cfd862486c73c35ac8a9f9fdee":[6,0,142,6],
+"de/d37/classadt__MFBO.html#afadebfc1361985b6f5d45c27e22cb303":[6,0,142,4],
+"de/d38/OutdoorPvPHP_8cpp.html":[7,0,0,0,1,3,6,5]
 };

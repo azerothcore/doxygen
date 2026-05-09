@@ -1,7 +1,5 @@
 var NAVTREEINDEX195 =
 {
-"d7/d2b/boss__rotface_8cpp.html":[7,0,0,0,1,3,5,6,8],
-"d7/d2b/boss__rotface_8cpp.html#a3440b8f90693bcd2729d81618dc9410b":[7,0,0,0,1,3,5,6,8,21],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,8,18],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca02bb9bd175710dfac5885844a5c09243":[7,0,0,0,1,3,5,6,8,18,1],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca08d9442d10ad2eae61eed612099a7a42":[7,0,0,0,1,3,5,6,8,18,3],
@@ -124,14 +122,14 @@ var NAVTREEINDEX195 =
 "d7/d32/classBIH_1_1BuildStats.html#acd34211244a97c08193421818f326ff9":[6,0,373,1,6],
 "d7/d32/classBIH_1_1BuildStats.html#ae8cf4ba9eaa7dc424914483ab3fafeba":[6,0,373,1,4],
 "d7/d32/classBIH_1_1BuildStats.html#afbedc638e0117b7ca5c5f1e447846717":[6,0,373,1,12],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,13,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,13,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,13,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,13,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,13,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,13,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,13,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2093],
@@ -249,5 +247,7 @@ var NAVTREEINDEX195 =
 "d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9a7b52f920d935d156de587e3d4788b10d":[7,0,0,0,1,3,7,2,1,6,3,0],
 "d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9aa40e204141e353064349ee5560718734":[7,0,0,0,1,3,7,2,1,6,3,19],
 "d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9ab01e6d5b6907eedb3217488becb575ed":[7,0,0,0,1,3,7,2,1,6,3,16],
-"d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9ab0b52806663da11e2af217ba49014b73":[7,0,0,0,1,3,7,2,1,6,3,9]
+"d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9ab0b52806663da11e2af217ba49014b73":[7,0,0,0,1,3,7,2,1,6,3,9],
+"d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9ab0e27d6bbd85ffb6eead5db071c83962":[7,0,0,0,1,3,7,2,1,6,3,4],
+"d7/d37/the__slave__pens_8h.html#a0949b9d87e6cb0f614b4259c55978bf9ab8cf059751e1c34a5d7322a909f19ecd":[7,0,0,0,1,3,7,2,1,6,3,17]
 };

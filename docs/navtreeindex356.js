@@ -1,11 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[6,0,1113,9],
-"dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[6,0,1113,12],
-"dd/dea/classspell__gen__holiday__buff__food.html":[6,0,3045],
-"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[6,0,3045,2],
-"dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,3045,3],
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,3045,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,3045,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,27],
@@ -249,5 +243,11 @@ var NAVTREEINDEX356 =
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ae94606f2b382e07cd3f4b9be48b1ca2d":[6,0,665,0,1],
 "dd/dfb/structboss__palehoof_1_1boss__palehoofAI.html#ae969093bfb3466e332c1de7e65ceeb5d":[6,0,665,0,6],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html":[6,0,1636,0],
-"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1636,0,5]
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1636,0,5],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a23d54542e6debf39798c2a2d6e2a255d":[6,0,1636,0,2],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a252858818b61cf15e2e031ceaaadc6b8":[6,0,1636,0,6],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a4c681936d8e7053ace5cdeeaa1ee5ca9":[6,0,1636,0,1],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2":[6,0,1636,0,4],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a8e209b142a58b3b3c0d84c430a086ade":[6,0,1636,0,0],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#ab54eb5115b9c41b39f0de0f8f4412ef9":[6,0,1636,0,3]
 };

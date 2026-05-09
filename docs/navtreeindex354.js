@@ -1,11 +1,5 @@
 var NAVTREEINDEX354 =
 {
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a65e239873a9924d3244c803db81a375c":[7,0,0,0,1,3,7,12,16,4],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a710e4e7c0d11193180d86d645bbcc77a":[7,0,0,0,1,3,7,12,16,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a8f4b5a0091270005149f693e996a2a92":[7,0,0,0,1,3,7,12,16,14],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad02a0c5b499dbf349ef01e6996b5dce3":[7,0,0,0,1,3,7,12,16,11],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad67928da538988f5c88e918c70658042":[7,0,0,0,1,3,7,12,16,10],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad749d95194b0d33afe0fb38e1c3cc303":[7,0,0,0,1,3,7,12,16,6],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57adea2dcfdeb74be7b6dda3fa09fd5a5f4":[7,0,0,0,1,3,7,12,16,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ae1bc367e9c990b28427ea9b17ff2e2b5":[7,0,0,0,1,3,7,12,16,5],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57af52b0dfe76f04f87f8e2071d67c92c4d":[7,0,0,0,1,3,7,12,16,9],
@@ -249,5 +243,11 @@ var NAVTREEINDEX354 =
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,34,6,6,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html":[6,0,1610],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[6,0,1610,8],
-"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[6,0,1610,9]
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[6,0,1610,9],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a642390a59ff46236dc3b429f371ea8cd":[6,0,1610,4],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[6,0,1610,6],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[6,0,1610,0],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a8144ed8ada8cd4fb11d74393ed0c525a":[6,0,1610,2],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a98216e43888854ac93f22169a0e253e5":[6,0,1610,7],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#ad13b21d571833210b1c069b7ea8bea05":[6,0,1610,5]
 };

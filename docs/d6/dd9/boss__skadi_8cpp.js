@@ -14,8 +14,7 @@ var boss__skadi_8cpp =
     [ "Actions", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_START_ENCOUNTER", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfaba4027a0bf01bbe406c51c579cde7f5e", null ],
       [ "ACTION_DRAKE_BREATH", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfafbc7b13e19f6f61e1a328e32343b95d0", null ],
-      [ "ACTION_PHASE2", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfa27415b019dd189dbf87ba112d5a3c663", null ],
-      [ "ACTION_HARPOON_HIT", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfa61177a0ef55a7796cd2190bedae8b5b0", null ]
+      [ "ACTION_PHASE2", "d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfa27415b019dd189dbf87ba112d5a3c663", null ]
     ] ],
     [ "CombatPhase", "d6/dd9/boss__skadi_8cpp.html#acc56cf1517da963333090702d00715b7", [
       [ "PHASE_FLYING", "d6/dd9/boss__skadi_8cpp.html#acc56cf1517da963333090702d00715b7a4b89c60b5c3c0bc665ba94de27929102", null ],

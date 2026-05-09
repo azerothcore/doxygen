@@ -1,11 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/d57/classnpc__lake__frog.html":[6,0,1940],
-"df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1940,2],
-"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1940,1],
-"df/d57/classnpc__prospector__remtravel.html":[6,0,2078],
-"df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2078,3],
-"df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[6,0,2078,1],
 "df/d57/classnpc__prospector__remtravel.html#aa8e1bb551036684b05c1b3bea4c66b1d":[6,0,2078,2],
 "df/d58/classspell__gen__obsidian__armor.html":[6,0,3064],
 "df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[6,0,3064,0],
@@ -89,10 +83,10 @@ var NAVTREEINDEX404 =
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[6,0,2889,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[6,0,2889,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[6,0,2889,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,9,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,9,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,29,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,9,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[7,0,0,0,1,3,4,8,1,3,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX404 =
 "df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,313,0],
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,313,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1]
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,338,2],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,338,5],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,338,4],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,338,0],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[6,0,338,3],
+"df/d6e/BattlegroundBE_8cpp.html":[7,0,0,0,1,2,8,1,4]
 };

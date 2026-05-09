@@ -257,7 +257,6 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_GMNOTIFY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a31f94a5b636a9e512bf5784f9543a2b8", null ],
       [ "RBAC_PERM_COMMAND_NAMEANNOUNCE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a670a4b6b326b02bbf510f164c668a3be", null ],
       [ "RBAC_PERM_COMMAND_NOTIFY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4da45a19c743b10698e66175c349ad3b", null ],
-      [ "RBAC_PERM_COMMAND_WHISPERS", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04add606d92886041974735831537e80484", null ],
       [ "RBAC_PERM_COMMAND_GROUP", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a11e2ddbd4e3e16c443520c4c9cb83867", null ],
       [ "RBAC_PERM_COMMAND_GROUP_LEADER", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a27f143a100bafa641f7f4953c312b943", null ],
       [ "RBAC_PERM_COMMAND_GROUP_DISBAND", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1104fa037c52f8d77b3ea0bd78975992", null ],

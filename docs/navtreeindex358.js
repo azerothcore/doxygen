@@ -1,11 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[6,0,539,17],
-"de/d06/structboss__headless__horseman.html#a9dde0cfcc41ec7d8b9f53e55057adab9":[6,0,539,18],
-"de/d06/structboss__headless__horseman.html#aa6741999e5a9a826efb279e014ea4ab8":[6,0,539,14],
-"de/d06/structboss__headless__horseman.html#abccf1fc3c5475e50d45bbd596ff98ce9":[6,0,539,10],
-"de/d06/structboss__headless__horseman.html#ac52c6590f78c23149abfb062d5814ded":[6,0,539,11],
-"de/d06/structboss__headless__horseman.html#ace502054c0e570655be9ea1990b48f9f":[6,0,539,12],
 "de/d06/structboss__headless__horseman.html#ad4bc4c5364d1c07c21f29747934efc01":[6,0,539,3],
 "de/d06/structboss__headless__horseman.html#ad5d8645b879a2c97c68e815463a97b49":[6,0,539,2],
 "de/d06/structboss__headless__horseman.html#ad98d9d303815f538e194a55578ae909a":[6,0,539,8],
@@ -249,5 +243,11 @@ var NAVTREEINDEX358 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa3714f498c22ce339d10cb3b3e4025fd":[7,0,0,0,1,4,7,63,2],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa4d566e399c30786ea55db072077a42d":[7,0,0,0,1,4,7,63,85],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa4f49716afaf72c6e3b9b3caf383d842":[7,0,0,0,1,4,7,63,121],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa661c08c4b47c172f3f61ed3ac30e56b":[7,0,0,0,1,4,7,63,51]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa661c08c4b47c172f3f61ed3ac30e56b":[7,0,0,0,1,4,7,63,51],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa676c89bcede05bb2e3833ee2d648ddb":[7,0,0,0,1,4,7,63,75],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa6ce1ce5dba437be21bf39b3f23f440f":[7,0,0,0,1,4,7,63,107],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa8d995286082ff6dfaf615e69dafd14e":[7,0,0,0,1,4,7,63,160],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aac8b077506be3c6ce2dda446450d13da":[7,0,0,0,1,4,7,63,46],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aad0ec9db4635fd93c2841fdb4f51c509":[7,0,0,0,1,4,7,63,164],
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aae2fa9e24213e1ede90b238577ea6bc2":[7,0,0,0,1,4,7,63,125]
 };
