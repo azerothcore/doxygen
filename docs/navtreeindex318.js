@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,4,3,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,4,3,0],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad63ecb274b6fd82552c2d94b90509ef8":[7,0,0,0,1,3,4,1,0,4,3,2],
 "dc/d34/structSpawnGroupTemplateData.html":[6,0,2599],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4f5a72c40d4e340833700101fd1f8f96":[5,0,28,6,364],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a505a53a6094737a2ab1df03dd59adcc5":[5,0,28,6,105],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50722a9924543eca54f82e0099a49c80":[5,0,28,6,215],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50758d2d604fb8d2b0fa683fd0ccfa70":[5,0,28,6,382],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50c90b60ddf4cfb66c00724cb1b56d01":[5,0,28,6,531]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50758d2d604fb8d2b0fa683fd0ccfa70":[5,0,28,6,382]
 };

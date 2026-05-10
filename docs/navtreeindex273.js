@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d97/structgo__brazier__of__madness.html":[6,0,1151],
 "da/d97/structgo__brazier__of__madness.html#aba3af326b01cd045523434aec189fd47":[6,0,1151,1],
 "da/d97/structgo__brazier__of__madness.html#aeb900e575be02244e62c6e5e4153c855":[6,0,1151,0],
 "da/d97/structnpc__jaina__proudmoore__bfu_1_1npc__jaina__proudmoore__bfuAI.html":[6,0,1919,0],
@@ -30,14 +31,14 @@ var NAVTREEINDEX273 =
 "da/d99/classBattlegroundMapScript.html#a0148a79556f82c990fe0fc494d03c7ab":[6,0,344,2],
 "da/d99/classBattlegroundMapScript.html#a61e1c0f145064cbc6c8708824a359e4c":[6,0,344,0],
 "da/d99/classBattlegroundMapScript.html#a90584770132eb71cffc6e25a674750ad":[6,0,344,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[6,0,13,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[6,0,13,8,6,2],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[6,0,13,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,13,8,6,1],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[6,0,13,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,34,8,6,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[6,0,13,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,13,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,34,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[6,0,13,8,6,0],
 "da/d99/structGameEventData.html":[6,0,1096],
 "da/d99/structGameEventData.html#a0915a0321c4c26bfb61824587a309cde":[6,0,1096,3],
 "da/d99/structGameEventData.html#a3be91b7e00641ca6cb853104190845dc":[6,0,1096,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,712,0,2],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a":[6,0,712,0,5],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abff1b505e9d2d6c826f814b2d43409af":[6,0,712,0,11],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[6,0,712,0,8],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#acb1e677b2347e0464df832e1d86cd3b5":[6,0,712,0,4]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[6,0,712,0,8]
 };

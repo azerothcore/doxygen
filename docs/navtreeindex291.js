@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d6d/structAntiDosOpcodePolicy.html#afb0dcc50d8e9aa85fe2904050d646042":[6,0,159,0],
 "db/d6e/spell__item_8cpp.html":[7,0,0,0,1,3,9,4],
 "db/d6e/spell__item_8cpp.html#a06a241fe0c846d04b962a53fb6dc0d43":[7,0,0,0,1,3,9,4,282],
 "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6":[7,0,0,0,1,3,9,4,272],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846":[7,0,0,0,1,3,9,4,280],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[7,0,0,0,1,3,9,4,280,0],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[7,0,0,0,1,3,9,4,271],
-"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046":[7,0,0,0,1,3,9,4,271,2],
-"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a4cd8508888cd327d6497256cefd66216":[7,0,0,0,1,3,9,4,271,1]
+"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046":[7,0,0,0,1,3,9,4,271,2]
 };

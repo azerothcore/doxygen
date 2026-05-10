@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d8/d79/classgo__jotunheim__cage.html#a5598fcb4df9c7d0a610ea064af8095d3":[6,0,1178,1],
 "d8/d7b/TransportScript_8cpp.html":[7,0,0,0,1,2,38,0,84],
 "d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[7,0,0,0,1,2,38,0,84,0],
 "d8/d7b/classRotateMovementGenerator.html":[6,0,2525],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d83/classadt__MCIN.html#adc7346499aa51f4422c810b7e757f835":[6,0,138,2],
 "d8/d83/classadt__MCIN.html#ae7d4acf20e102b6b8f19ded3fe219a7d":[6,0,138,4],
 "d8/d84/ConditionScript_8h.html":[7,0,0,0,1,2,38,0,40],
-"d8/d84/classspell__q10923__evil__draws__near__visual.html":[6,0,3840],
-"d8/d84/classspell__q10923__evil__draws__near__visual.html#a190f6dc3d9b336324da29f627a743fe9":[6,0,3840,0]
+"d8/d84/classspell__q10923__evil__draws__near__visual.html":[6,0,3840]
 };

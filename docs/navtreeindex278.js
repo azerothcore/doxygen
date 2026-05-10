@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"da/dbf/Player_8h.html#ae5397f2a53a6b2bbb11c9274300fbe2c":[7,0,0,0,1,2,16,7,5,77],
 "da/dbf/Player_8h.html#ae9b5b6063ec5d1c0d49342093f384733":[7,0,0,0,1,2,16,7,5,38],
 "da/dbf/Player_8h.html#aea4cac3aceaad70ea9b8397854b0128b":[7,0,0,0,1,2,16,7,5,39],
 "da/dbf/Player_8h.html#aeaa99a94ba67785c7793e2fe1d9651dc":[7,0,0,0,1,2,16,7,5,59],
@@ -234,20 +235,19 @@ var NAVTREEINDEX278 =
 "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745":[5,0,27,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[6,0,0,36],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[5,0,0,48],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[6,0,0,36,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,0,48,6],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[6,0,0,36,3],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[6,0,0,36,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,48,3],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[6,0,0,36,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,36,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,48,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,48,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,36,5],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,48,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,36,2],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,48,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,48,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,36,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,48,4],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[6,0,0,36,4],
-"da/dd3/RaceMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
-"da/dd3/structMovementGeneratorFactory.html":[6,0,1557]
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,48,4],
+"da/dd3/RaceMgr_8cpp.html":[7,0,0,0,1,2,16,7,15]
 };

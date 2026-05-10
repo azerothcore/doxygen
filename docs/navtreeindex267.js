@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298cad350644bac142d18071cece89af926b9":[7,0,0,0,1,3,5,0,0,3,4,16],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298cae9809ed7204d6a6a1641a535f96b2dd8":[7,0,0,0,1,3,5,0,0,3,4,14],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760":[7,0,0,0,1,3,5,0,0,3,4,2],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632":[7,0,0,0,1,3,5,0,0,3,4,7],
@@ -151,22 +152,22 @@ var NAVTREEINDEX267 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[6,0,0,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[6,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[5,0,0,7,4,7],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[6,0,0,4,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,0,7,4,6],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[6,0,0,4,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[6,0,0,4,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,4,8],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[6,0,0,4,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,4,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[6,0,0,4,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[6,0,0,4,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[6,0,0,4,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,4,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[6,0,0,4,4,2],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[6,0,0,4,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,4,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,4,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[6,0,0,4,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[6,0,0,4,4,0],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[6,0,0,4,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,4,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[6,0,1881,0],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a158589b567d22c8f6e0be462bad8299d":[6,0,1881,0,2],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a5ea52a1ee3730630d1efbdac4ad24c80":[6,0,1881,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968a702902587149d8ae3b67653eeb4f1aa0":[7,0,0,0,1,3,2,4,15,4,2],
 "da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968a818e3de52343aee6c0fcd2b4fd3dcdbc":[7,0,0,0,1,3,2,4,15,4,0],
 "da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968ae7ee83d11cccf3dc8168b65232b19d8b":[7,0,0,0,1,3,2,4,15,4,1],
-"da/d76/karazhan_8h.html#a29ab08074ba985d34a372b332ab4aa58":[7,0,0,0,1,3,2,4,15,12],
-"da/d76/karazhan_8h.html#a2def85a56fb55443c992b1da06245d50":[7,0,0,0,1,3,2,4,15,5]
+"da/d76/karazhan_8h.html#a29ab08074ba985d34a372b332ab4aa58":[7,0,0,0,1,3,2,4,15,12]
 };

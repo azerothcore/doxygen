@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd6/DBCfmt_8h.html#a3891a7b9a1b8e6c6cb16f2b9a9c87d68":[7,0,0,0,1,4,0,3,22],
 "d8/dd6/DBCfmt_8h.html#a3909b2dd872ea3a006038c6070d5f0b1":[7,0,0,0,1,4,0,3,57],
 "d8/dd6/DBCfmt_8h.html#a3bc747351c211ceefd20509d1dcc744f":[7,0,0,0,1,4,0,3,96],
 "d8/dd6/DBCfmt_8h.html#a3e475f31f4cffe4963bb7ea14dd02388":[7,0,0,0,1,4,0,3,78],
@@ -248,6 +249,5 @@ var NAVTREEINDEX234 =
 "d8/ddc/structnpc__ulduar__saronite__vapors.html#ad304110ff1bfc33066cd17f04cf40181":[6,0,2248,3],
 "d8/ddc/structnpc__ulduar__saronite__vapors.html#af8d7e273a01b54bd5b96f186501f38c5":[6,0,2248,0],
 "d8/ddd/classnpc__cos__chromie__middle.html":[6,0,1727],
-"d8/ddd/classnpc__cos__chromie__middle.html#a105b62bd24fe3912c0f66c234a6dc670":[6,0,1727,1],
-"d8/ddd/classnpc__cos__chromie__middle.html#a1bb7229781c122d362e781d2737d0fd3":[6,0,1727,0]
+"d8/ddd/classnpc__cos__chromie__middle.html#a105b62bd24fe3912c0f66c234a6dc670":[6,0,1727,1]
 };

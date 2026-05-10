@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/d23/classVehicle.html#a3fc7fea06792c558260dcbd71aaebf12":[6,0,4548,28],
 "dc/d23/classVehicle.html#a475b3f18826d9dccfc9e65f473161dc2":[6,0,4548,27],
 "dc/d23/classVehicle.html#a4b6f808b1451f3111d363163bd4f6747":[6,0,4548,19],
 "dc/d23/classVehicle.html#a4e42388dc3895b08bfd215433ff1e26e":[6,0,4548,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac62ab68e4e3eb5457f873d45752b4685":[7,0,0,0,1,3,5,9,2,9,32,1],
 "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31acd4f81c3473382fe2e289d6fb814aa54":[7,0,0,0,1,3,5,9,2,9,32,13],
 "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ace8fb4aca8c620daf9dddebb043d3556":[7,0,0,0,1,3,5,9,2,9,32,27],
-"dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad68f18864b4c498ff0a445aee9ce8a6f":[7,0,0,0,1,3,5,9,2,9,32,17],
-"dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,9,2,9,32,14]
+"dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad68f18864b4c498ff0a445aee9ce8a6f":[7,0,0,0,1,3,5,9,2,9,32,17]
 };

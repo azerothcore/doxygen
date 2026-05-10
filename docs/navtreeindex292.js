@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a4cd8508888cd327d6497256cefd66216":[7,0,0,0,1,3,9,4,271,1],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a84e086488ef58bc02f068e50118215c9":[7,0,0,0,1,3,9,4,271,0],
 "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09":[7,0,0,0,1,3,9,4,175],
 "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09a5da4a6cb67518f27f6a60f629ab9615a":[7,0,0,0,1,3,9,4,175,1],
@@ -200,14 +201,14 @@ var NAVTREEINDEX292 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2536,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2536,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2536,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,107,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,119,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,107,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,107,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,119,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,107,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,119,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,119,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,107,0,2],
 "db/d72/structLootItem.html":[6,0,1474],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1474,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1474,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/d74/classspell__botanica__shift__form__aura.html#ae2cf612df18cf249bc4a90ce9332fc9b":[6,0,2701,3],
 "db/d74/classspell__botanica__shift__form__aura.html#af832dc200e928df3849ab7d7f93cb412":[6,0,2701,6],
 "db/d74/classspell__botanica__shift__form__aura.html#afc2e3e388615ed5cf0f4dd672f26de85":[6,0,2701,5],
-"db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html":[6,0,4165],
-"db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#a1c7b15cf6adbe78be1c17a78596dee55":[6,0,4165,0]
+"db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html":[6,0,4165]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a88c0c7271ad18ceee95208be79ac9368":[7,0,0,0,1,3,5,9,2,16,6,23],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a9f056a676818f118e5ecaf457621049f":[7,0,0,0,1,3,5,9,2,16,6,17],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa42e0f5cd84525aa3ab0c90b00331de1":[7,0,0,0,1,3,5,9,2,16,6,0],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380":[7,0,0,0,1,3,5,9,2,16,6,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,736,2],
 "d9/dfc/classHealInfoStubBuilder.html":[6,0,1282],
 "d9/dfc/classHealInfoStubBuilder.html#a291565d223df00ce9d09c0315e803448":[6,0,1282,1],
-"d9/dfc/classHealInfoStubBuilder.html#a34a359322b018cffc5f54ca999c11b11":[6,0,1282,3],
-"d9/dfc/classHealInfoStubBuilder.html#a4dc784241fbe998437cceb953fb83e1f":[6,0,1282,7]
+"d9/dfc/classHealInfoStubBuilder.html#a34a359322b018cffc5f54ca999c11b11":[6,0,1282,3]
 };

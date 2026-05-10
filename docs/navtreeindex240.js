@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d20/classWhoListPlayerInfo.html#a701cf843b5e6cea8385b172ca83e0e15":[6,0,4599,4],
 "d9/d20/classWhoListPlayerInfo.html#a7e25cdf1d9049a84270f9ad5c6ce7107":[6,0,4599,13],
 "d9/d20/classWhoListPlayerInfo.html#a8d82352fc915903769f22532330861eb":[6,0,4599,22],
 "d9/d20/classWhoListPlayerInfo.html#aa18fcdffe693100aacbd345c32641fed":[6,0,4599,0],
@@ -130,10 +131,10 @@ var NAVTREEINDEX240 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3367,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3367,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3367,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,13,14,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,13,14,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
@@ -229,10 +230,10 @@ var NAVTREEINDEX240 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3669,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3669,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3669,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,0,8,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,0,8,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,0,8,0,5,0],
 "d9/d31/RBAC_8cpp.html":[7,0,0,0,1,2,0,2],
 "d9/d31/RBAC_8cpp.html#ad45fe4229235a57fc4952a69ede78410":[7,0,0,0,1,2,0,2,0],
 "d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d31/structnpc__hyldsmeet__protodrake.html#af9a5984f66eb3a1a26e8c1640bcf7597":[6,0,1882,3],
 "d9/d32/CombatAI_8cpp.html":[7,0,0,0,1,2,3,0,0],
 "d9/d32/classAbstractFollower.html":[6,0,23],
-"d9/d32/classAbstractFollower.html#a08d292896f2419dd73ae68c8e1238d4b":[6,0,23,0],
-"d9/d32/classAbstractFollower.html#a43f037557454528a956c379d9efb42ac":[6,0,23,2]
+"d9/d32/classAbstractFollower.html#a08d292896f2419dd73ae68c8e1238d4b":[6,0,23,0]
 };

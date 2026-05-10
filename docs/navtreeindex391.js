@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/db8/classboss__hakkar.html#aff3a089e30dcddfde4db372104153723":[6,0,533,2],
+"de/db8/classgo__bashir__crystalforge.html":[6,0,1144],
+"de/db8/classgo__bashir__crystalforge.html#a4aa941ae78a17eecc5593d6ccd17ff63":[6,0,1144,1],
 "de/db8/classgo__bashir__crystalforge.html#a8b68a63933e14d82198580912fddc280":[6,0,1144,0],
 "de/db8/classgo__bashir__crystalforge.html#ac7e1b6db4ae2bee766b95049a8b0c320":[6,0,1144,2],
 "de/dbb/classChatLogScript.html":[6,0,888],
@@ -201,14 +204,14 @@ var NAVTREEINDEX391 =
 "de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,306,3],
 "de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[6,0,306,5],
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,306,7],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,2,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,2,3,0],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,2,3,2],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,2,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,2,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2291,0],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2291,0,6],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2291,0,0],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2291,0,5],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a369ae3d62d1289a1c840bdc3184b463d":[6,0,2291,0,4],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a3c43ede2df7b1ea61b0f1625e2e1461c":[6,0,2291,0,9],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a7cad21f0b3286ed75256a49c315069ce":[6,0,2291,0,1]
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2291,0,5]
 };

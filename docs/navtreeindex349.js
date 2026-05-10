@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[6,0,3182,1],
 "dd/da9/classspell__threatening__gaze__aura.html":[6,0,4186],
 "dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[6,0,4186,1],
 "dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[6,0,4186,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
 "dd/dad/PetitionMgr_8h.html#a2910b9c8b8c58925b562acf66b3e46d2":[7,0,0,0,1,2,33,1,4],
-"dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[7,0,0,0,1,2,33,1,3],
-"dd/dad/PetitionMgr_8h.html#a52c6b38c9d018efa6f8a95153a0eb2b5":[7,0,0,0,1,2,33,1,7]
+"dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[7,0,0,0,1,2,33,1,3]
 };

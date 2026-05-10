@@ -1,5 +1,6 @@
 var NAVTREEINDEX283 =
 {
+"da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588":[7,0,0,0,1,3,5,9,2,2,8],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a0592873f13574d7eec7c84add29f668f":[7,0,0,0,1,3,5,9,2,2,8,7],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a0755cfe44314ff437b240c064d638deb":[7,0,0,0,1,3,5,9,2,2,8,8],
 "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,9,2,2,8,4],
@@ -182,8 +183,8 @@ var NAVTREEINDEX283 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,104],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,92],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,104,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,92,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,104,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,104,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,92,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,92,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX283 =
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab142d6a2fefa77506cdca07ae01215a4":[7,0,0,0,1,3,5,4,0,1,6,6],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb91ec7a452209d34726fd67b9984bbd":[7,0,0,0,1,3,5,4,0,1,6,7],
 "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604":[7,0,0,0,1,3,5,4,0,1,4],
-"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a2f8d5929bed1376b20cd55892d56f1d4":[7,0,0,0,1,3,5,4,0,1,4,1],
-"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a60266b0a813b2164553ff61212be0806":[7,0,0,0,1,3,5,4,0,1,4,0]
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a2f8d5929bed1376b20cd55892d56f1d4":[7,0,0,0,1,3,5,4,0,1,4,1]
 };

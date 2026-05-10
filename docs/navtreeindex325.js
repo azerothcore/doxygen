@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dc/d70/classnpc__toc5__grand__champion__minion.html":[6,0,2190],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[6,0,2190,2],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a5761757b3cbbbce8ada4770805eb8de5":[6,0,2190,1],
 "dc/d72/classspell__hun__animal__handler.html":[6,0,3198],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d81/classCreatureTextMgr.html#a2303c6343e233beb3f7a1ebda40e080e":[6,0,964,11],
 "dc/d81/classCreatureTextMgr.html#a5237341864a3082126bed703d68312b2":[6,0,964,4],
 "dc/d81/classCreatureTextMgr.html#a6f77e1f030bb16b585f9a75059a06f31":[6,0,964,1],
-"dc/d81/classCreatureTextMgr.html#a826a3cd2e991c358a98fced5512297dd":[6,0,964,6],
-"dc/d81/classCreatureTextMgr.html#a8b9dc67f09242b5ade7405663ca52fda":[6,0,964,10]
+"dc/d81/classCreatureTextMgr.html#a826a3cd2e991c358a98fced5512297dd":[6,0,964,6]
 };

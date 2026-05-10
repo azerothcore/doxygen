@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/ddd/classnpc__cos__chromie__middle.html#a1bb7229781c122d362e781d2737d0fd3":[6,0,1727,0],
 "d8/ddd/classnpc__cos__chromie__middle.html#a37ebdd257ef22554c81cf3c062856141":[6,0,1727,2],
 "d8/ddd/classnpc__cos__chromie__middle.html#a6af52ce23a90e7d8418e2c414c9c0fd4":[6,0,1727,3],
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[6,0,3622],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/de1/structCalendarInvite.html#ad6a17313390686f6a8fd2c7af26b98f9":[6,0,850,11],
 "d8/de1/structCalendarInvite.html#ae05cd257558e98112528a997e1faba02":[6,0,850,4],
 "d8/de1/structCalendarInvite.html#af3d5020fcca737e10a4aaac8b2194566":[6,0,850,8],
-"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[6,0,850,25],
-"d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[6,0,850,5]
+"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[6,0,850,25]
 };

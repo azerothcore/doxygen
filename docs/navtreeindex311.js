@@ -1,6 +1,7 @@
 var NAVTREEINDEX311 =
 {
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,13,12,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74acdc5078e4228b07fde2a79988d8a666d":[7,0,0,0,1,3,2,6,3,8,20],
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74ad174e5963c1ca014185a599eee89cd79":[7,0,0,0,1,3,2,6,3,8,32],
 "dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74ad4b373d89a379956d2d2a1f73a8a0777":[7,0,0,0,1,3,2,6,3,8,64],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74add9c656f11c1aa5a485afd9f8bda9ca5":[7,0,0,0,1,3,2,6,3,8,44],
-"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74ae422e7614cb7fbb73d5970ef32547f6d":[7,0,0,0,1,3,2,6,3,8,23]
+"dc/d00/chapter5_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74add9c656f11c1aa5a485afd9f8bda9ca5":[7,0,0,0,1,3,2,6,3,8,44]
 };

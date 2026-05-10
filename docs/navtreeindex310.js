@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/df8/classspell__valanar__kinetic__bomb__summon.html#a3677d2e7db842f899e6e2d2c8c9a3d42":[6,0,4219,1],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html#a37899f12707930d038de38bae92c9aff":[6,0,4219,0],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html#a4caabf8afac621ef70bbbac1a2b5177e":[6,0,4219,2],
 "db/df9/classSpellProcChargeTest.html":[6,0,4399],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[6,0,2294,2],
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[6,0,2294,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[6,0,2294,3],
-"db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[6,0,2294,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1]
+"db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[6,0,2294,1]
 };

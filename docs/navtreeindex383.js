@@ -1,5 +1,7 @@
 var NAVTREEINDEX383 =
 {
+"de/d79/classGuild.html#a17cdedbc4d68713f4a2be9e44a0c2e77":[6,0,1271,26],
+"de/d79/classGuild.html#a19ab0b7ff433180bafc6461c7588084c":[6,0,1271,21],
 "de/d79/classGuild.html#a19f2098d79ea84109f24e78120783f0f":[6,0,1271,106],
 "de/d79/classGuild.html#a1cf2f6743e8ca60a2ea0a384e5efbb72":[6,0,1271,92],
 "de/d79/classGuild.html#a1da2ede98657c593c8c19b598055369b":[6,0,1271,44],
@@ -121,8 +123,8 @@ var NAVTREEINDEX383 =
 "de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[6,0,4397,0],
 "de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,1],
 "de/d79/structMMAP_1_1IntermediateValues.html":[6,0,6,1],
-"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[6,0,6,1,7],
 "de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[5,0,20,1,7],
+"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[6,0,6,1,7],
 "de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[6,0,6,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[5,0,20,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[6,0,6,1,9],
@@ -131,8 +133,8 @@ var NAVTREEINDEX383 =
 "de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[5,0,20,1,11],
 "de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[6,0,6,1,10],
 "de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[5,0,20,1,10],
-"de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[6,0,6,1,3],
 "de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[5,0,20,1,3],
+"de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[6,0,6,1,3],
 "de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[6,0,6,1,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[5,0,20,1,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,20,1,2],
@@ -141,12 +143,12 @@ var NAVTREEINDEX383 =
 "de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[6,0,6,1,5],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[5,0,20,1,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[6,0,6,1,0],
-"de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[5,0,20,1,1],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[6,0,6,1,1],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[5,0,20,1,1],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[5,0,20,1,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[6,0,6,1,6],
-"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[6,0,6,1,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,20,1,4],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[6,0,6,1,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,1,12],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html":[6,0,3570],
@@ -247,7 +249,5 @@ var NAVTREEINDEX383 =
 "de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae":[6,0,2394,20],
 "de/d80/classPetitionMgr.html#aa612824469e47955f3a231e4abd9bc84":[6,0,2394,14],
 "de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873":[6,0,2394,10],
-"de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[6,0,2394,17],
-"de/d80/classPetitionMgr.html#abf63ac05499b814d0d8f560803f57be4":[6,0,2394,4],
-"de/d80/classPetitionMgr.html#ad3fa9f06bda57a2ff4bac0f1650f5257":[6,0,2394,15]
+"de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[6,0,2394,17]
 };

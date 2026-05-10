@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/dc8/structScriptedAI.html#a0e0f63f6d980fe86a9f69f06428078a2":[6,0,2538,17],
 "db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd":[6,0,2538,34],
 "db/dc8/structScriptedAI.html#a1625d27c60b9833cc9bdebffb80833cb":[6,0,2538,40],
 "db/dc8/structScriptedAI.html#a1ca3b73dcbf8a3e8b35c334a97a8dcf9":[6,0,2538,27],
@@ -91,8 +92,8 @@ var NAVTREEINDEX303 =
 "db/dca/structConfigPolicy.html#a8cd5da53d2cd0b5d0533741a2dcf651c":[6,0,918,2],
 "db/dca/structConfigPolicy.html#ad41070de3cb2c7fa2916654b9e2a693e":[6,0,918,4],
 "db/dca/structConfigPolicy.html#adfaae562c345965b96fa5f7c92da161e":[6,0,918,0],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[6,0,6,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[5,0,20,0,0],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[6,0,6,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[5,0,20,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[6,0,6,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
@@ -101,10 +102,10 @@ var NAVTREEINDEX303 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[5,0,20,0,0,5],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[5,0,20,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[6,0,6,0,0,2],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[6,0,6,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,20,0,0,6],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[6,0,6,0,0,3],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[6,0,6,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[5,0,20,0,0,3],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[6,0,6,0,0,3],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[6,0,6,0,0,1],
 "db/dca/structboss__felmyst.html":[6,0,481],
@@ -133,12 +134,12 @@ var NAVTREEINDEX303 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2716,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3887],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/dce/classAura.html#aaba50101334e21660ff99d4668ae06b7":[6,0,288,144],
 "db/dce/classAura.html#aad107d81d9d0898ac5922504526dd07e":[6,0,288,41],
 "db/dce/classAura.html#aaddb94cd3bd95b145a8b8392e9feecca":[6,0,288,79],
-"db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6":[6,0,288,77],
-"db/dce/classAura.html#aaf49ca3ee98e09b072985755bcfb2d34":[6,0,288,3]
+"db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6":[6,0,288,77]
 };

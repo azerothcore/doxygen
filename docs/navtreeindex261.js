@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/d21/classInvalidAppenderArgsException.html":[6,0,1392],
 "da/d21/classInvalidAppenderArgsException.html#a5cfc42ea2456b9c7d60f06a1d469f1ae":[6,0,1392,0],
 "da/d21/classspell__krystallus__shatter.html":[6,0,3524],
 "da/d21/classspell__krystallus__shatter.html#a0932ccc5652bc4901aacbe2cf8d6c7d8":[6,0,3524,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[7,0,0,0,1,2,41,0,0,6,287],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a727bce2f9e6269218972b56baa1dad0f":[7,0,0,0,1,2,41,0,0,6,221],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7280def8bc657ec29c911bae511bf4e5":[7,0,0,0,1,2,41,0,0,6,29],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a732ca555f677b0f0f870e4ece0514dbe":[7,0,0,0,1,2,41,0,0,6,163],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a738d314a9ab9a70711cf0f1fdd5033c5":[7,0,0,0,1,2,41,0,0,6,304]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a732ca555f677b0f0f870e4ece0514dbe":[7,0,0,0,1,2,41,0,0,6,163]
 };

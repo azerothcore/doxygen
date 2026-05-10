@@ -1,5 +1,8 @@
 var NAVTREEINDEX413 =
 {
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a912bcccd309ccd1f043c5aae633e78fe":[6,0,762,0,8],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a97c16b1689cfdb7fa680381964cb272a":[6,0,762,0,6],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a98474fcfbc56c7850ae054b7489eaa4f":[6,0,762,0,0],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ac4e2ed28ba7863630cd54c8f6c11455f":[6,0,762,0,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ad501bb34a0014be0abc965aae5383e21":[6,0,762,0,2],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[6,0,762,0,7],
@@ -73,8 +76,8 @@ var NAVTREEINDEX413 =
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,13,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[6,0,819],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[6,0,819,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[6,0,819,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[6,0,353,15],
 "df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[6,0,353,12],
 "df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[6,0,353,3],
-"df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,353,14],
-"df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[6,0,353,19],
-"df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[6,0,353,23],
-"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,353,20]
+"df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,353,14]
 };

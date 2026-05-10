@@ -1,5 +1,6 @@
 var NAVTREEINDEX216 =
 {
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343af148583098f9670660b2d18ed8fa1ccd":[7,0,0,0,1,2,16,10,6,18,2],
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442":[7,0,0,0,1,2,16,10,6,12],
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442a7705298062a33c051c843a2b13ebdd8a":[7,0,0,0,1,2,16,10,6,12,3],
 "d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442acc2bcdb3b9b4ac3acc7c0de83d023c38":[7,0,0,0,1,2,16,10,6,12,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX216 =
 "d7/df6/structnpc__grimstone.html#aa246b08433ad44365e2bfe47a9025001":[6,0,1837,13],
 "d7/df6/structnpc__grimstone.html#aea0c13489f4f17008b44d054b9a1cf3a":[6,0,1837,2],
 "d7/df6/structnpc__grimstone.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa":[6,0,1837,8],
-"d7/df7/WorldDatabase_8cpp.html":[7,0,0,0,1,1,0,0,4],
-"d7/df7/classspell__dk__aotd__taunt.html":[6,0,2775]
+"d7/df7/WorldDatabase_8cpp.html":[7,0,0,0,1,1,0,0,4]
 };

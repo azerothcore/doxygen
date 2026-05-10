@@ -4,7 +4,7 @@ var classcharacter__commandscript =
     [ "DeletedInfoList", "dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42", null ],
     [ "character_commandscript", "dd/dd6/classcharacter__commandscript.html#acd6b14efed2366e2a202ba17be781801", null ],
     [ "GetCommands", "dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a", null ],
-    [ "GetDeletedCharacterInfoList", "dd/dd6/classcharacter__commandscript.html#a3c388123887507991bb8e1a6b6f171a9", null ],
+    [ "GetDeletedCharacterInfoList", "dd/dd6/classcharacter__commandscript.html#a3c884bdd70a7cede02ad298f8ee6beb5", null ],
     [ "HandleCharacterChangeAccountCommand", "dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e", null ],
     [ "HandleCharacterChangeFactionCommand", "dd/dd6/classcharacter__commandscript.html#aec5804fe5d1be47c0b4102e4333bab60", null ],
     [ "HandleCharacterChangeRaceCommand", "dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361", null ],
@@ -28,5 +28,6 @@ var classcharacter__commandscript =
     [ "HandlePDumpCopyCommand", "dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61", null ],
     [ "HandlePDumpLoadCommand", "dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68", null ],
     [ "HandlePDumpWriteCommand", "dd/dd6/classcharacter__commandscript.html#acff2e413b4e7c2a0ac5310e2887b7cd7", null ],
-    [ "ValidatePDumpTarget", "dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45", null ]
+    [ "ValidatePDumpTarget", "dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45", null ],
+    [ "MAX_DELETED_CHAR_RESULTS", "dd/dd6/classcharacter__commandscript.html#a4689269fd6a5d7f4c4947f6422eccae3", null ]
 ];

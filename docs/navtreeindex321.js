@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dc/d39/structnpc__ulduar__expedition__engineer.html":[6,0,2231],
 "dc/d39/structnpc__ulduar__expedition__engineer.html#a1516880c5fb17bccd95d8e3b615c4175":[6,0,2231,5],
 "dc/d39/structnpc__ulduar__expedition__engineer.html#a3450381dc89cabede2ccde6feab96dad":[6,0,2231,7],
 "dc/d39/structnpc__ulduar__expedition__engineer.html#a57f187130777929a921e2c35b6f43559":[6,0,2231,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d49/classSecretMgr.html#a65c2fd304c0f851f81cd80037deac8fb":[6,0,2547,4],
 "dc/d49/classSecretMgr.html#a929de7b687d7c6bb91ef35306134ebac":[6,0,2547,7],
 "dc/d49/classSecretMgr.html#ab48b891b84f116dc5efffe0a10a82f79":[6,0,2547,3],
-"dc/d49/classSecretMgr.html#ae6f15def262312b17456583b4e548d99":[6,0,2547,2],
-"dc/d49/classSecretMgr.html#aff0b6ca546a62a3d6e7da52c3a2752bd":[6,0,2547,6]
+"dc/d49/classSecretMgr.html#ae6f15def262312b17456583b4e548d99":[6,0,2547,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX400 =
 {
+"df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba8d58a72c5bf7989f96ca35f8778d1a53":[7,0,0,0,1,2,16,5,0,4,4,11],
+"df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba8e6c9b23765b87d7f8aaab29c1922caa":[7,0,0,0,1,2,16,5,0,4,4,32],
+"df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfba9c3d2a627de131d6088cf3eb7e3a78d7":[7,0,0,0,1,2,16,5,0,4,4,8],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfbaa38ea6cf1edccb9dd8a1b91819746faf":[7,0,0,0,1,2,16,5,0,4,4,9],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfbaa911cefe23355e0b3f4b219c7961cb76":[7,0,0,0,1,2,16,5,0,4,4,19],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfbac1d80d137a3cdbad772a3a1b16c37fdc":[7,0,0,0,1,2,16,5,0,4,4,13],
@@ -207,18 +210,18 @@ var NAVTREEINDEX400 =
 "df/d2a/structnpc__molten__golem.html#aa3521246b0c2bed18b5466879ec1d107":[6,0,1986,1],
 "df/d2a/structnpc__molten__golem.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e":[6,0,1986,4],
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[6,0,1986,6],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,13,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,13,6,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,13,6,40,2],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,13,6,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,13,6,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,13,6,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,13,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,13,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,34,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,13,6,40,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX400 =
 "df/d30/boss__gluth_8cpp.html":[7,0,0,0,1,3,5,7,3],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,3,4],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa03c0ac324d8c639af54683066910ea95":[7,0,0,0,1,3,5,7,3,4,0],
-"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,3,4,2],
-"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,5,7,3,4,4],
-"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad533e4cc3296f79f2e8dbe5b75cf331f":[7,0,0,0,1,3,5,7,3,4,1],
-"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad600db20c6eedc96962e774ed713a840":[7,0,0,0,1,3,5,7,3,4,3]
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,3,4,2]
 };

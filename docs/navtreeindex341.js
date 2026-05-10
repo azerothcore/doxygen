@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dd/d3b/structGameObjectTemplate.html#a757eff6df7760da0e10bc78a7a55fa3d":[6,0,1116,86],
 "dd/d3b/structGameObjectTemplate.html#a7685abf51a65578d19c80ef70530fe74":[6,0,1116,163],
 "dd/d3b/structGameObjectTemplate.html#a76de4fc0f064242c41920702d35cc637":[6,0,1116,109],
 "dd/d3b/structGameObjectTemplate.html#a772ce50272350df740cf701de9b75281":[6,0,1116,41],
@@ -123,14 +124,14 @@ var NAVTREEINDEX341 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,11,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,11,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,11,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,11,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca2bbdfc380eb6caebd7e77226af819c1b":[7,0,0,0,1,3,2,1,1,1,2,0],
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6":[7,0,0,0,1,3,2,1,1,1,2,2],
 "dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[7,0,0,0,1,3,2,1,1,1,2,3],
-"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca873200b9a4ea9941f9deac654a8e91d4":[7,0,0,0,1,3,2,1,1,1,2,4],
-"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[7,0,0,0,1,3,2,1,1,1,2,5]
+"dd/d49/boss__drakkisath_8cpp.html#a5bd342133be8c2137b831460acc9298ca873200b9a4ea9941f9deac654a8e91d4":[7,0,0,0,1,3,2,1,1,1,2,4]
 };

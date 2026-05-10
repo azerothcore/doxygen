@@ -1,5 +1,7 @@
 var NAVTREEINDEX378 =
 {
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
+"de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37":[7,0,0,0,1,2,20,1,8,2],
 "de/d3d/Group_8h.html#ad409013260cb0aea80c911d24d7b5d00":[7,0,0,0,1,2,20,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX378 =
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[6,0,4171,2],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,4171,3],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[6,0,4171,0],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,4171,1],
-"de/d4a/classWorldMapScript.html":[6,0,4621],
-"de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4621,0]
+"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,4171,1]
 };

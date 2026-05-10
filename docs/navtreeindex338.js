@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/d27/structSmartAction.html#a05bcbfe7e0c6e614d402b43684b014ed":[6,0,2581,271],
 "dd/d27/structSmartAction.html#a05f11cd190b23160cbfc77a9e9129d85":[6,0,2581,106],
 "dd/d27/structSmartAction.html#a061fee019b88560c4dddb4133647ec8c":[6,0,2581,118],
 "dd/d27/structSmartAction.html#a0799d9fe5a9f7017b4eace93f33baedd":[6,0,2581,170],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/d27/structSmartAction.html#ad464ffa89c3b0b601e87b7be11e29096":[6,0,2581,236],
 "dd/d27/structSmartAction.html#ad4d49b59eeb705afee52cf57fe05be9e":[6,0,2581,283],
 "dd/d27/structSmartAction.html#ad566b89053aa056e155f1805bcecf138":[6,0,2581,231],
-"dd/d27/structSmartAction.html#ad574ba58edd22d9723c22fc400ad0b8e":[6,0,2581,76],
-"dd/d27/structSmartAction.html#ad67b29621bc5cffa555fa0313a49d3ef":[6,0,2581,33]
+"dd/d27/structSmartAction.html#ad574ba58edd22d9723c22fc400ad0b8e":[6,0,2581,76]
 };

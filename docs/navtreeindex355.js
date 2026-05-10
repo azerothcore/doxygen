@@ -1,5 +1,7 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a98216e43888854ac93f22169a0e253e5":[6,0,1610,7],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#ad13b21d571833210b1c069b7ea8bea05":[6,0,1610,5],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#aead5ae4ffda9732829e39b8c485a3c3e":[6,0,1610,3],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47":[6,0,1610,1],
 "dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html":[6,0,3836],
@@ -247,7 +249,5 @@ var NAVTREEINDEX355 =
 "dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[6,0,1113,9],
 "dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[6,0,1113,12],
 "dd/dea/classspell__gen__holiday__buff__food.html":[6,0,3045],
-"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[6,0,3045,2],
-"dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,3045,3],
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,3045,1]
+"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[6,0,3045,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dc/dfd/classspell__gen__throw__shield.html":[6,0,3111],
 "dc/dfd/classspell__gen__throw__shield.html#a1d7e2beafb55464f928ea5904441d698":[6,0,3111,1],
 "dc/dfd/classspell__gen__throw__shield.html#a422a77760004d6d6fac6bacdb1d436ff":[6,0,3111,0],
 "dc/dfd/classspell__gen__throw__shield.html#aeaa8321255f377b85884df25a455554f":[6,0,3111,2],
@@ -188,10 +189,10 @@ var NAVTREEINDEX335 =
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,17,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2918],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2918,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2918,0],
@@ -245,9 +246,8 @@ var NAVTREEINDEX335 =
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[6,0,13,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,34,6,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[6,0,13,6,10,1],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[6,0,13,6,10,2],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[5,0,34,6,10,2],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[6,0,13,6,10,2],
 "dd/d0c/classspell__gen__brood__power.html":[6,0,2995],
-"dd/d0c/classspell__gen__brood__power.html#a3ad038e7bf43dceedb0fceebd4070bfa":[6,0,2995,3],
-"dd/d0c/classspell__gen__brood__power.html#aa8ad85cbf0403d79e55bbe0ae184407b":[6,0,2995,2]
+"dd/d0c/classspell__gen__brood__power.html#a3ad038e7bf43dceedb0fceebd4070bfa":[6,0,2995,3]
 };

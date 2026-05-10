@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d8/dc3/classspell__gen__choking__vines.html#ac8f269db5d77cf38bdfcbcfef75a62ff":[6,0,2999,1],
 "d8/dc3/classspell__gen__choking__vines.html#af1174bbbaab1d170a0dcd030d2f1e990":[6,0,2999,3],
 "d8/dc3/structboss__urom_1_1boss__uromAI.html":[6,0,770,0],
 "d8/dc3/structboss__urom_1_1boss__uromAI.html#a02dbc09934058463d93b88268c70ca7c":[6,0,770,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/dd6/DBCfmt_8h.html#a2d0db03aab5481939b74c9657665c4fa":[7,0,0,0,1,4,0,3,46],
 "d8/dd6/DBCfmt_8h.html#a33a9a6da17625ca15a93082b922dfd7c":[7,0,0,0,1,4,0,3,97],
 "d8/dd6/DBCfmt_8h.html#a3591aa6bd927d9a3225c1580e1a55071":[7,0,0,0,1,4,0,3,15],
-"d8/dd6/DBCfmt_8h.html#a366ae111d40fb97fc96b0f37b799fde9":[7,0,0,0,1,4,0,3,82],
-"d8/dd6/DBCfmt_8h.html#a3891a7b9a1b8e6c6cb16f2b9a9c87d68":[7,0,0,0,1,4,0,3,22]
+"d8/dd6/DBCfmt_8h.html#a366ae111d40fb97fc96b0f37b799fde9":[7,0,0,0,1,4,0,3,82]
 };

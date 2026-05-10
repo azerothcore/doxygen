@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a738d314a9ab9a70711cf0f1fdd5033c5":[7,0,0,0,1,2,41,0,0,6,304],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a73faec8e41f7d4d2d84dd85718788c0b":[7,0,0,0,1,2,41,0,0,6,135],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75169ca7c3027ee3dba8ea38041e7b44":[7,0,0,0,1,2,41,0,0,6,152],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a752c8a8288062a6e3a61cf987724134c":[7,0,0,0,1,2,41,0,0,6,293],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2694,1],
 "da/d32/classspell__item__branns__communicator.html":[6,0,3317],
 "da/d32/classspell__item__branns__communicator.html#a7fe416070962ba582d59ddff70c13590":[6,0,3317,1],
-"da/d32/classspell__item__branns__communicator.html#acb39fd85035670fb98dcea66c29b2ff7":[6,0,3317,0],
-"da/d32/classspell__sindragosa__instability__aura.html":[6,0,4089]
+"da/d32/classspell__item__branns__communicator.html#acb39fd85035670fb98dcea66c29b2ff7":[6,0,3317,0]
 };

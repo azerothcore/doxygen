@@ -282,6 +282,7 @@ var CharacterDatabase_8h =
       [ "CHAR_SEL_CHARACTER_ONLINE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7adba504fcfb381d5f81bb00b744536267", null ],
       [ "CHAR_SEL_CHAR_DEL_INFO_BY_GUID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83037721850705de499b535fef266b74", null ],
       [ "CHAR_SEL_CHAR_DEL_INFO_BY_NAME", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a38ac3283eb168a2bc9a0d781b891768f", null ],
+      [ "CHAR_SEL_CHAR_DEL_INFO_BY_NAME_LIMIT", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ab0104274fc59efb985721165e92ba35b", null ],
       [ "CHAR_SEL_CHAR_DEL_INFO", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a3976212a82c71d9803d4ca5d74aec3e4", null ],
       [ "CHAR_SEL_CHARS_BY_ACCOUNT_ID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226", null ],
       [ "CHAR_SEL_CHAR_PINFO", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ab5ac5b27e4462959c743c4e75bd62cce", null ],

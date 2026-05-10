@@ -1,5 +1,6 @@
 var NAVTREEINDEX293 =
 {
+"db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#a1c7b15cf6adbe78be1c17a78596dee55":[6,0,4165,0],
 "db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#a2de18da71b68275d8d55f859df3ca74c":[6,0,4165,7],
 "db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#a33b586de90e3ff698bb0efbb4b8d4d30":[6,0,4165,4],
 "db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#a490251d9afd2ab5a075f254603170d4d":[6,0,4165,1],
@@ -122,8 +123,8 @@ var NAVTREEINDEX293 =
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1414,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,13,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,34,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,13,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,34,6,0,1],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,13,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,13,6,0,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,34,6,0,0],
 "db/d7b/classgo__gilded__brazier.html":[6,0,1174],
@@ -146,12 +147,12 @@ var NAVTREEINDEX293 =
 "db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html#ae47c09144b18e42aa48499de3e3fe276":[5,0,34,6,16,0],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[6,0,0,74],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[5,0,0,86],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[5,0,0,86,1],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[6,0,0,74,1],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,0,86,2],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[5,0,0,86,1],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[6,0,0,74,2],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,0,86,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,0,86,2],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,74,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,0,86,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,0,86,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,74,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,0,86,0],
@@ -160,10 +161,10 @@ var NAVTREEINDEX293 =
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3144,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3144,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3144,2],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,0,8,0,0],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,0,8,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,0,8,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1184],
 "db/d7f/classgo__manticron__cube.html#a87d9571aea57f16d38067ebd9e22200d":[6,0,1184,0],
 "db/d7f/classgo__manticron__cube.html#accab4a61f00f5e465fb795b4cbe672bf":[6,0,1184,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX293 =
 "db/d82/classFlightPathMovementGenerator.html":[6,0,1078],
 "db/d82/classFlightPathMovementGenerator.html#a0493824ba23608abcf98a156cf89bb5a":[6,0,1078,9],
 "db/d82/classFlightPathMovementGenerator.html#a080a68e435698a14288f62ea6576a730":[6,0,1078,16],
-"db/d82/classFlightPathMovementGenerator.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6":[6,0,1078,18],
-"db/d82/classFlightPathMovementGenerator.html#a1e4b3d248c0021a3e2a1c1446f6b7073":[6,0,1078,6]
+"db/d82/classFlightPathMovementGenerator.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6":[6,0,1078,18]
 };

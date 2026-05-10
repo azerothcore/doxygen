@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed480151967b7965189afbe87b7bcc44":[7,0,0,0,1,3,5,1,1,3,4,6],
 "dc/db7/classOutdoorPvPSI.html":[6,0,2360],
 "dc/db7/classOutdoorPvPSI.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c":[6,0,2360,13],
 "dc/db7/classOutdoorPvPSI.html#a10853a2f5766b6fc75044a20b281a198":[6,0,2360,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b":[7,0,0,0,1,2,3,1,0,2],
 "dc/dc9/ScriptedCreature_8cpp.html#a2e3edf6fd8a6865d815af4f8acb184af":[7,0,0,0,1,2,3,1,0,5],
 "dc/dc9/ScriptedCreature_8cpp.html#a80b13d7c0fa3b835b0834955ed0f93d8":[7,0,0,0,1,2,3,1,0,3],
-"dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d":[7,0,0,0,1,2,3,1,0,4],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[7,0,0,0,1,2,3,1,0,1]
+"dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d":[7,0,0,0,1,2,3,1,0,4]
 };
