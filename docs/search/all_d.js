@@ -2166,7 +2166,7 @@ var searchData=
   ['mintolerance_2163',['MinTolerance',['../dd/d92/structChaseRange.html#a7b640ecfc0e80921ab36c2c33f0b10fd',1,'ChaseRange']]],
   ['minute_2164',['MINUTE',['../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30',1,'Common.h']]],
   ['minute_5f5_5floot_5froll_5ftimer_2165',['MINUTE_5_LOOT_ROLL_TIMER',['../de/d0a/SharedDefines_8h.html#aad40a29906656a984c3bd42dc3088339a930082af43b49d6a7bdeac39ab444191',1,'SharedDefines.h']]],
-  ['minutes_2166',['minutes',['../d2/d75/Duration_8h.html#af2161f9db850581e2228078614990df8',1,'Minutes:&#160;Duration.h'],['../dd/d27/Timer_8h.html#aea6a25b38e19ecccfdefaf43a55575f3af670ea66cfb0e90bd6090472ad692694',1,'Minutes:&#160;Timer.h'],['../db/d79/namespaceAcore_1_1TimeDiff.html#abbd89694b6a3e24a701ce6971b2cd37d',1,'Acore::TimeDiff::MINUTES']]],
+  ['minutes_2166',['minutes',['../db/d79/namespaceAcore_1_1TimeDiff.html#abbd89694b6a3e24a701ce6971b2cd37d',1,'Acore::TimeDiff::MINUTES'],['../d2/d75/Duration_8h.html#af2161f9db850581e2228078614990df8',1,'Minutes:&#160;Duration.h'],['../dd/d27/Timer_8h.html#aea6a25b38e19ecccfdefaf43a55575f3af670ea66cfb0e90bd6090472ad692694',1,'Minutes:&#160;Timer.h']]],
   ['minvalue_2167',['MinValue',['../df/d3d/classBfCapturePoint.html#a16f5d7c78671d14eb6f0800b67c52f62',1,'BfCapturePoint']]],
   ['minvincibilityhplevel_2168',['mInvincibilityHpLevel',['../da/ddc/classSmartAI.html#a99edcaa78b6955cf27959e3469389265',1,'SmartAI']]],
   ['minx_2169',['minX',['../d6/d14/structGameObjectDisplayInfoEntry.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da',1,'GameObjectDisplayInfoEntry']]],

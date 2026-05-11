@@ -247,7 +247,7 @@ var NAVTREEINDEX175 =
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[5,0,0,8,0,8],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[6,0,0,5,0,8,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,0,8,0,8,0],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[6,0,11,25],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,31,25],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,31,25,1]
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[6,0,11,25],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[6,0,11,25,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357adc63d813725261d442514ec1aff93793":[7,0,0,0,1,2,38,0,77,1,161],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357addc28ef6ef8b68d06685330c3c2d97c4":[7,0,0,0,1,2,38,0,77,1,110],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357addef7eef5e7012be4ee3705f3a0e3754":[7,0,0,0,1,2,38,0,77,1,124],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ae2359918eb9ab39cd78c4c05d7d6d8f8":[7,0,0,0,1,2,38,0,77,1,49],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ae611ffebd20ce08d4628d815978bfc16":[7,0,0,0,1,2,38,0,77,1,123],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ae8e57183542d9986858bca713a6ae041":[7,0,0,0,1,2,38,0,77,1,63],
@@ -246,8 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a455d4416943ca7584612605e23dc8143":[7,0,0,0,1,3,7,12,16,16],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a568e9fcaed7ee3e38c31bed4640cbb7b":[7,0,0,0,1,3,7,12,16,17],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a65e239873a9924d3244c803db81a375c":[7,0,0,0,1,3,7,12,16,4],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a710e4e7c0d11193180d86d645bbcc77a":[7,0,0,0,1,3,7,12,16,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a8f4b5a0091270005149f693e996a2a92":[7,0,0,0,1,3,7,12,16,14],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad02a0c5b499dbf349ef01e6996b5dce3":[7,0,0,0,1,3,7,12,16,11],
-"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad67928da538988f5c88e918c70658042":[7,0,0,0,1,3,7,12,16,10]
+"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57a710e4e7c0d11193180d86d645bbcc77a":[7,0,0,0,1,3,7,12,16,12]
 };

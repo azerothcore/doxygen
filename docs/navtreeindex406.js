@@ -1,5 +1,8 @@
 var NAVTREEINDEX406 =
 {
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2292,0,3],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2292,0,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2292,0,2],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2292,0,1],
 "df/d77/classachievement__smell__saronite.html":[6,0,95],
 "df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,95,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX406 =
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a":[7,0,0,0,1,3,5,9,2,4,14,12],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0":[7,0,0,0,1,3,5,9,2,4,14,7],
 "df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,16],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289":[7,0,0,0,1,3,5,9,2,4,11],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a096730497aecaed75def280738c8fc41":[7,0,0,0,1,3,5,9,2,4,11,10],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1242bda27cc3b925c6b9f90e4d7b5570":[7,0,0,0,1,3,5,9,2,4,11,24],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612":[7,0,0,0,1,3,5,9,2,4,11,1]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289":[7,0,0,0,1,3,5,9,2,4,11]
 };

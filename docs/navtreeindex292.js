@@ -1,5 +1,8 @@
 var NAVTREEINDEX292 =
 {
+"db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[7,0,0,0,1,3,9,4,280,0],
+"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[7,0,0,0,1,3,9,4,271],
+"db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046":[7,0,0,0,1,3,9,4,271,2],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a4cd8508888cd327d6497256cefd66216":[7,0,0,0,1,3,9,4,271,1],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a84e086488ef58bc02f068e50118215c9":[7,0,0,0,1,3,9,4,271,0],
 "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09":[7,0,0,0,1,3,9,4,175],
@@ -201,8 +204,8 @@ var NAVTREEINDEX292 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2536,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2536,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2536,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,119,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,107,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,119,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,107,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX292 =
 "db/d74/classspell__botanica__shift__form__aura.html#aad39e53d6b3fc673c115f79ca0bc9b68":[6,0,2701,1],
 "db/d74/classspell__botanica__shift__form__aura.html#ac176c59497cc2196c19dc8a1b9f8056d":[6,0,2701,0],
 "db/d74/classspell__botanica__shift__form__aura.html#ad392a897546cb64e550dd8b0709ba0ab":[6,0,2701,4],
-"db/d74/classspell__botanica__shift__form__aura.html#ae2cf612df18cf249bc4a90ce9332fc9b":[6,0,2701,3],
-"db/d74/classspell__botanica__shift__form__aura.html#af832dc200e928df3849ab7d7f93cb412":[6,0,2701,6],
-"db/d74/classspell__botanica__shift__form__aura.html#afc2e3e388615ed5cf0f4dd672f26de85":[6,0,2701,5],
-"db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html":[6,0,4165]
+"db/d74/classspell__botanica__shift__form__aura.html#ae2cf612df18cf249bc4a90ce9332fc9b":[6,0,2701,3]
 };

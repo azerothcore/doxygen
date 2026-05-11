@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/d57/classnpc__lake__frog.html":[6,0,1940],
+"df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1940,2],
+"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1940,1],
 "df/d57/classnpc__prospector__remtravel.html":[6,0,2078],
 "df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2078,3],
 "df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[6,0,2078,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,313,0],
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,313,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,338],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,338,2],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,338,5],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,338,4]
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1]
 };

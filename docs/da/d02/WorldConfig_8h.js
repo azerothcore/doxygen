@@ -460,6 +460,7 @@ var WorldConfig_8h =
       [ "RATE_CORPSE_DECAY_LOOTED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad924c86659fa7e252d7fe13edc385a00", null ],
       [ "RATE_INSTANCE_RESET_TIME", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4201b05dd81d86f4e56a432c9f2ca0d8", null ],
       [ "RATE_DURABILITY_LOSS_ON_DEATH", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a953b875c3c59a399fc0255787ed00d92", null ],
+      [ "RATE_DURABILITY_LOSS_ON_SPIRIT_RESURRECT", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ac0e996c08b6f5bb511bfec41e492517c", null ],
       [ "RATE_DURABILITY_LOSS_DAMAGE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8138f8375c3600ecfb4cd1ba35733305", null ],
       [ "RATE_DURABILITY_LOSS_PARRY", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a679b08ef6c2a0b7c0ee27e86db3e533f", null ],
       [ "RATE_DURABILITY_LOSS_ABSORB", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad9b2247cfa71502b4a206a4f9b55fd79", null ],
@@ -471,6 +472,7 @@ var WorldConfig_8h =
       [ "CONFIG_NEW_CHAR_STRING", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af83be77fe30f5f7bd745497467b68248", null ],
       [ "CONFIG_VALIDATE_SKILL_LEARNED_BY_SPELLS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7c2d120ede8fb9ecd4c9904934778de", null ],
       [ "CONFIG_ACHIEVEMENT_REALM_FIRST_KILL_WINDOW", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aaf7425556caaabd7ac1f88eee9a4a736", null ],
+      [ "CONFIG_CHATLOG_ENABLED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa5a25a8a20b7d99ad48bd34a0a353b3e", null ],
       [ "MAX_NUM_SERVER_CONFIGS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7cebf4fbc55ce913c4f3fd3b8992c8c7", null ]
     ] ]
 ];

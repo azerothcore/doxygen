@@ -1,5 +1,8 @@
 var NAVTREEINDEX397 =
 {
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,13,2,4,2],
+"df/d14/classspell__item__heartpierce.html":[6,0,3377],
 "df/d14/classspell__item__heartpierce.html#a0843ac6c6171f1f22712175d96fbafba":[6,0,3377,3],
 "df/d14/classspell__item__heartpierce.html#a16098a3b719adcf3c63a09deb5ca7c80":[6,0,3377,1],
 "df/d14/classspell__item__heartpierce.html#a56a8e3400c89867951305494964077a4":[6,0,3377,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX397 =
 "df/d1d/classspell__soul__deflection.html#aa523e91e5aadb09b66ef2c74e3cbce9f":[6,0,4101,1],
 "df/d1d/classspell__soul__deflection.html#abdb889e4c6d19f756c143d7b36f82257":[6,0,4101,3],
 "df/d1d/classspell__soul__deflection.html#aeb5b70614b266bac0792906bf89a5b97":[6,0,4101,0],
-"df/d1d/structAuctionHousePlayerInfo.html":[6,0,271],
-"df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[6,0,271,4],
-"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,271,2],
-"df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[6,0,271,3]
+"df/d1d/structAuctionHousePlayerInfo.html":[6,0,271]
 };

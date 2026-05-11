@@ -1,5 +1,8 @@
 var NAVTREEINDEX351 =
 {
+"dd/db7/classAllSpellScript.html#a3cf7b45d8e9f5b23e2753d1624c4af78":[6,0,158,3],
+"dd/db7/classAllSpellScript.html#a54e0b823c538c41507c541db025d5295":[6,0,158,7],
+"dd/db7/classAllSpellScript.html#a5d02de785a4e1cf5103110828fac5e75":[6,0,158,6],
 "dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[6,0,158,0],
 "dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[6,0,158,10],
 "dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,158,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca5420034f8378ea5641110a5ef69e2d8f":[7,0,0,0,1,3,2,4,4,4,3],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,2,4,4,4,6],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,4,4,4,0],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,4,4,4,5],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,4,4,4,4],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,4,4,4,7],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298caf187c17b13ada97ad71deec1b3277fd4":[7,0,0,0,1,3,2,4,4,4,2]
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,4,4,4,5]
 };

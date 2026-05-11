@@ -249,5 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d20/classat__cthun__stomach__exit.html":[6,0,222],
 "d2/d20/classat__cthun__stomach__exit.html#ab37174eff353cdbba1f300464645ac63":[6,0,222,0],
 "d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[6,0,222,1],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,34,6,5]
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[6,0,13,6,5]
 };

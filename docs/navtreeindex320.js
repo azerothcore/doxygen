@@ -1,5 +1,8 @@
 var NAVTREEINDEX320 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab70c47b254409bc7429a32b9e3188487":[5,0,28,6,107],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab77729a9cff0f7a91629222981580ec4":[5,0,28,6,461],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab7ed0d8eec3e53fd355bd9a9eb17acb0":[5,0,28,6,533],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab85be090a2ff91aff774671c79b7a372":[5,0,28,6,390],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab89e37011476c89fe5ad1733979e288b":[5,0,28,6,540],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab9bc31f25357b45b4051fda956f155c6":[5,0,28,6,39],
@@ -246,8 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d39/structnpc__janalai__hatcher.html#a5a7826964349ed9adbbdeb7c733dd915":[6,0,1920,1],
 "dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[6,0,1920,8],
 "dc/d39/structnpc__janalai__hatcher.html#ab1c3945160c55b2b2d63763eacced473":[6,0,1920,6],
-"dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[6,0,1920,11],
-"dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[6,0,1920,7],
-"dc/d39/structnpc__janalai__hatcher.html#ab775a888ae1002eed3ed548ab89ca2e4":[6,0,1920,5],
-"dc/d39/structnpc__janalai__hatcher.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12":[6,0,1920,9]
+"dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[6,0,1920,11]
 };

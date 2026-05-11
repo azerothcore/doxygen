@@ -1,5 +1,8 @@
 var NAVTREEINDEX348 =
 {
+"dd/d99/classspell__quest__test__flight__charging.html#a164c94c63cf03b98ee085b18a0a8af9a":[6,0,3931,5],
+"dd/d99/classspell__quest__test__flight__charging.html#a1bfcb90731a93e4897c9d4fbf46d2a01":[6,0,3931,0],
+"dd/d99/classspell__quest__test__flight__charging.html#a2272a970ca5edca6f7353beb2279c29c":[6,0,3931,2],
 "dd/d99/classspell__quest__test__flight__charging.html#a489f1da8f8008db8f096470f28455ef9":[6,0,3931,4],
 "dd/d99/classspell__quest__test__flight__charging.html#a91d53900d8c6d0dd2a7519a4836aa05b":[6,0,3931,6],
 "dd/d99/classspell__quest__test__flight__charging.html#aa192aa92cc5c55f8bf2306c4463a3efc":[6,0,3931,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX348 =
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a605687080e5149b3f08ce8349ba9b336":[6,0,1879,0,2],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#aa7532b691e85fd9bd467e20db39c59da":[6,0,1879,0,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#ac86fb8a5a55654ff7697abd9162135c1":[6,0,1879,0,6],
-"dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3182],
-"dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3182,2],
-"dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[6,0,3182,0],
-"dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[6,0,3182,3]
+"dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3182]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX413 =
 {
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a431dafbcc3a6581d771e810a85a92a0b":[6,0,762,0,4],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a4af8eb8863e7ee1559bc156b7f28e8d8":[6,0,762,0,5],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a56ca98fa12190d6d9d459bc5e569ae04":[6,0,762,0,9],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#a912bcccd309ccd1f043c5aae633e78fe":[6,0,762,0,8],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#a97c16b1689cfdb7fa680381964cb272a":[6,0,762,0,6],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#a98474fcfbc56c7850ae054b7489eaa4f":[6,0,762,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd4/structBattlegroundScore.html#a980da19452275b2848f064410628da88":[6,0,353,4],
 "df/dd4/structBattlegroundScore.html#ab4fd369438d0715d0fae5c17eedf14b8":[6,0,353,7],
 "df/dd4/structBattlegroundScore.html#abf5bd1519df8e56a7ecfeddd1ca0218a":[6,0,353,5],
-"df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[6,0,353,15],
-"df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[6,0,353,12],
-"df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[6,0,353,3],
-"df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,353,14]
+"df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[6,0,353,15]
 };

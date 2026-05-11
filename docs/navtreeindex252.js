@@ -1,9 +1,10 @@
 var NAVTREEINDEX252 =
 {
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a4eae1ba9b211d8c8307000ddae428348":[6,0,0,4,1,2],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[5,0,0,7,1,6],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[6,0,0,4,1,6],
-"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[5,0,0,7,1,5],
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db4/classnpc__giant__spotlight.html":[6,0,1829],
 "d9/db4/classnpc__giant__spotlight.html#a9d1c47de758c74a89c751b675d5cc4c0":[6,0,1829,1],
 "d9/db4/classnpc__giant__spotlight.html#af002a3d0194c991c1f78c720de63cfea":[6,0,1829,2],
@@ -150,8 +151,8 @@ var NAVTREEINDEX252 =
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,0,135],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,0,135,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,123,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,0,135,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
 "d9/dc5/classConfigValueCache.html":[6,0,919],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[6,0,919,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[6,0,919,7],
@@ -245,9 +246,8 @@ var NAVTREEINDEX252 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a475f1dbc77ce1f36d8de90816ac55b25":[7,0,0,0,1,3,2,1,0,14,4,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a6c9563271414c3c12336a92737d467f9":[7,0,0,0,1,3,2,1,0,14,4,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[7,0,0,0,1,3,2,1,0,14,4,2],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0]
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX345 =
 {
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html#a5b2ee458a919be7f912d49cf984490ac":[5,0,34,6,49,2],
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html#a5b2ee458a919be7f912d49cf984490ac":[6,0,13,6,49,2],
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html#ab3b248450b0dcdde6b51e381e910b15d":[5,0,34,6,49,0],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildUpdateMotdText.html#ab3b248450b0dcdde6b51e381e910b15d":[6,0,13,6,49,0],
 "dd/d7b/structGtBarberShopCostBaseEntry.html":[6,0,1256],
 "dd/d7b/structGtBarberShopCostBaseEntry.html#a624313c8b56b9755593b2f4bacd306d7":[6,0,1256,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d83/structM2Track.html#ac3315ce2b2261a6fd23b0c72ea34aa5e":[6,0,1487,1],
 "dd/d83/structM2Track.html#afbd5f7baa1b1daf4dda4fe0cf503a97b":[6,0,1487,0],
 "dd/d84/classspell__sha__healing__stream__totem.html":[6,0,4034],
-"dd/d84/classspell__sha__healing__stream__totem.html#a00d36b914f5fd0466ae775e1fc95aa4f":[6,0,4034,0],
-"dd/d84/classspell__sha__healing__stream__totem.html#a1b879ab84b8d6227ee5b2cccccd38bc2":[6,0,4034,2],
-"dd/d84/classspell__sha__healing__stream__totem.html#a86a5c2b8ff373af7e98645b8b380145c":[6,0,4034,1],
-"dd/d84/classspell__sha__healing__stream__totem.html#aa7d437146a96bb40c1a66a453e3e4339":[6,0,4034,3]
+"dd/d84/classspell__sha__healing__stream__totem.html#a00d36b914f5fd0466ae775e1fc95aa4f":[6,0,4034,0]
 };

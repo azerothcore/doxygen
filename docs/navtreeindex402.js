@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"df/d3d/classBfCapturePoint.html#a124efffeeea68485676dac664f89aea3":[6,0,360,21],
+"df/d3d/classBfCapturePoint.html#a16f5d7c78671d14eb6f0800b67c52f62":[6,0,360,22],
+"df/d3d/classBfCapturePoint.html#a1a4ed58f9874900d822305dd406b1c67":[6,0,360,8],
 "df/d3d/classBfCapturePoint.html#a1eac786bb758ef6f3295e2241045dc32":[6,0,360,0],
 "df/d3d/classBfCapturePoint.html#a309a0c2b2f3c5696aef46bb7bdf4dade":[6,0,360,1],
 "df/d3d/classBfCapturePoint.html#a309d340d11c1712f5525438f31779671":[6,0,360,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a03fb543ba20f92d5528bf4667c457631":[6,0,399,0,2],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a1a9953c37286fd40c0aa0eebfec3eb86":[6,0,399,0,5],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a2af77fbe7f089b5da20d2ff693cfcedf":[6,0,399,0,1],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[6,0,399,0,4],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a3c7bc5f9aa04f155debbdacafed6163d":[6,0,399,0,3],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a61e4d85ecd592142ba07588512505990":[6,0,399,0,7],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a75796eb8dc83729f2f726ff51317bd66":[6,0,399,0,0]
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[6,0,399,0,4]
 };

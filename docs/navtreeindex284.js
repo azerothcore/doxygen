@@ -1,5 +1,8 @@
 var NAVTREEINDEX284 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb91ec7a452209d34726fd67b9984bbd":[7,0,0,0,1,3,5,4,0,1,6,7],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604":[7,0,0,0,1,3,5,4,0,1,4],
+"db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a2f8d5929bed1376b20cd55892d56f1d4":[7,0,0,0,1,3,5,4,0,1,4,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a60266b0a813b2164553ff61212be0806":[7,0,0,0,1,3,5,4,0,1,4,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a7ee27a3e011c4fa5ff502141f5260d1b":[7,0,0,0,1,3,5,4,0,1,4,2],
 "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,4,0,1,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX284 =
 "db/d14/structnpc__necrotic__shard.html#aa456d50b6e77bc86ecf0399474ced4d3":[6,0,1999,20],
 "db/d14/structnpc__necrotic__shard.html#aa71daa74d312f6da03ccd64a8141624b":[6,0,1999,10],
 "db/d14/structnpc__necrotic__shard.html#acf6c33a5b342e5a6a97e5f7565d8dc87":[6,0,1999,19],
-"db/d14/structnpc__necrotic__shard.html#aecc545eefc308b525052f86bfab5b390":[6,0,1999,9],
-"db/d14/structnpc__necrotic__shard.html#aeea71f3ba1e79722280da9b7adf5c212":[6,0,1999,14],
-"db/d14/structnpc__necrotic__shard.html#aef06aa96540360a9edf7006f6438ad5d":[6,0,1999,13],
-"db/d16/classTransportScript.html":[6,0,4508]
+"db/d14/structnpc__necrotic__shard.html#aecc545eefc308b525052f86bfab5b390":[6,0,1999,9]
 };

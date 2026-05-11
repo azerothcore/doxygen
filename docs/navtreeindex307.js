@@ -1,5 +1,8 @@
 var NAVTREEINDEX307 =
 {
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ae04bcfb1e62ba3eaedbeff5a429f66ad":[6,0,1335,0,8],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aeb558d0ccd3eb2e2f3c969400bc7d3b1":[6,0,1335,0,27],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#af746ee8c6cba19aff00c4c0f70084cee":[6,0,1335,0,19],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#afab9992873421c7aeaa746bd6740b008":[6,0,1335,0,24],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aff4cb278ad948a3983d91ce8670cb054":[6,0,1335,0,12],
 "db/dd7/classinstance__halls__of__reflection.html":[6,0,1330],
@@ -51,8 +54,8 @@ var NAVTREEINDEX307 =
 "db/dda/structAccountFlagText.html":[6,0,27],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,27,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,27,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,916],
@@ -103,10 +106,10 @@ var NAVTREEINDEX307 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1680,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1680,1],
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,17],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,13,6,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,13,6,48,1],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,13,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,13,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
@@ -187,8 +190,8 @@ var NAVTREEINDEX307 =
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[6,0,13,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[6,0,13,6,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[5,0,34,6,27,0],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[6,0,13,6,27,3],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[5,0,34,6,27,3],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[6,0,13,6,27,3],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a961ae90991fa23bfc94a054dba357392":[5,0,34,6,27,4],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a961ae90991fa23bfc94a054dba357392":[6,0,13,6,27,4],
 "db/de1/classDamageInfoStubBuilder.html":[6,0,973],
@@ -246,8 +249,5 @@ var NAVTREEINDEX307 =
 "db/de2/classGuild_1_1MoveItemData.html#a860f0cd1743a014450a82821d7cd737d":[6,0,1271,7,21],
 "db/de2/classGuild_1_1MoveItemData.html#a920092a4e0d79f84055841ac9ea606de":[6,0,1271,7,4],
 "db/de2/classGuild_1_1MoveItemData.html#a9a3a415b8449669b8b738bed068997a2":[6,0,1271,7,11],
-"db/de2/classGuild_1_1MoveItemData.html#a9af6bf223fa440f138308200707a88fb":[6,0,1271,7,10],
-"db/de2/classGuild_1_1MoveItemData.html#abd84ed9a9b8761efda729820a63d6e96":[6,0,1271,7,6],
-"db/de2/classGuild_1_1MoveItemData.html#acd5b03ccd86cd16b477f9df7afde1c08":[6,0,1271,7,13],
-"db/de2/classGuild_1_1MoveItemData.html#ad4c8450b5230d3758358d05b35c633ac":[6,0,1271,7,5]
+"db/de2/classGuild_1_1MoveItemData.html#a9af6bf223fa440f138308200707a88fb":[6,0,1271,7,10]
 };

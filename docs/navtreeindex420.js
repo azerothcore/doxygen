@@ -1,5 +1,8 @@
 var NAVTREEINDEX420 =
 {
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[6,0,400,0,2],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a5abb4c2b4149172d2e7bf0d539237323":[6,0,400,0,5],
+"df/de0/structboss__archavon_1_1boss__archavonAI.html#a7d101626f39947dd54b574491a5e6d72":[6,0,400,0,4],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a8d7fef6dfcdc5be20f0531c34b09fc13":[6,0,400,0,6],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ab51f09b76054d8bdb13f3c27396db87e":[6,0,400,0,7],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ac9f82f61ee7fe945cb3fba23a69e704c":[6,0,400,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX420 =
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[6,0,3491,3],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[6,0,3491,1],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[7,0,0,0,1,3,5,6,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,6,1,17],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[7,0,0,0,1,3,5,6,1,17,2],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,6,1,17,0]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[7,0,0,0,1,3,5,6,1,24]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/db7/classSpellScript_1_1CheckCastHandler.html#af13f11d14772afbea06f0020df4bbe6c":[6,0,4424,2,2],
+"de/db8/classboss__hakkar.html":[6,0,533],
+"de/db8/classboss__hakkar.html#a834bd1f223154fbf1be94bf43136da28":[6,0,533,1],
 "de/db8/classboss__hakkar.html#aff3a089e30dcddfde4db372104153723":[6,0,533,2],
 "de/db8/classgo__bashir__crystalforge.html":[6,0,1144],
 "de/db8/classgo__bashir__crystalforge.html#a4aa941ae78a17eecc5593d6ccd17ff63":[6,0,1144,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[6,0,3155,1],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[6,0,3155,2],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[6,0,3155,4],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2291,0],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2291,0,6],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2291,0,0],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2291,0,5]
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2291,0]
 };
