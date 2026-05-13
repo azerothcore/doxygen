@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae7370ac3d73883d0effbc3ff62c4c7d7":[7,0,0,0,1,2,48,4,1,454],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae7e1d5eafeeb78bcb5ec66e0e4a0c6c7":[7,0,0,0,1,2,48,4,1,198],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae856d3ce33aca6c2cb7dc881c2f20e23":[7,0,0,0,1,2,48,4,1,281],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae86e392dac54100336b96598e706f0d0":[7,0,0,0,1,2,48,4,1,291],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/d0e/classspell__azjol__nerub__impale__summon.html#a2a3602af522bb8658c1bfdede1234efd":[6,0,2654,0],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#a89827e4db37bea4847c79265d95386c6":[6,0,2654,2],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#aba235111ea4e186064a85295466f2a3f":[6,0,2654,1],
-"da/d0f/instance__utgarde__pinnacle_8cpp.html":[7,0,0,0,1,3,5,10,1,4],
-"da/d0f/instance__utgarde__pinnacle_8cpp.html#a3469cdfafe3d81dca68950e7a6a6370d":[7,0,0,0,1,3,5,10,1,4,2]
+"da/d0f/instance__utgarde__pinnacle_8cpp.html":[7,0,0,0,1,3,5,10,1,4]
 };

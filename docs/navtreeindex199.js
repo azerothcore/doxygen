@@ -127,8 +127,8 @@ var NAVTREEINDEX199 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1059,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
@@ -234,8 +234,8 @@ var NAVTREEINDEX199 =
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[6,0,13,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[6,0,13,6,32,1],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[5,0,34,6,32,1],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[6,0,13,6,32,1],
 "d7/d68/classnpc__apothecary__hanes.html":[6,0,1636],
 "d7/d68/classnpc__apothecary__hanes.html#a7f3f86efb9a6146b86aa5d882b751e1f":[6,0,1636,2],
 "d7/d68/classnpc__apothecary__hanes.html#a90480bee491e8fe1c9e7b2c71aac28c8":[6,0,1636,1],
@@ -249,5 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d68/classspell__igb__on__gunship__deck__aura.html#aac27c3377b48bc8c602fa7f12dec491a":[6,0,3265,2],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html":[5,0,0,8,10],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html":[6,0,0,5,10],
-"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#a115e9affe6159ae8aa08c6fc358e400c":[5,0,0,8,10,7]
+"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#a115e9affe6159ae8aa08c6fc358e400c":[6,0,0,5,10,7]
 };

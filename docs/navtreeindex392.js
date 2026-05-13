@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html":[6,0,2291,0],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a00857e372e53950338ed71d672edb780":[6,0,2291,0,6],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a055c4b426219aa3372a83d2e2021d916":[6,0,2291,0,0],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2291,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2788,2],
 "de/de3/structMySQLType.html":[6,0,1572],
 "de/de3/structboss__ick_1_1boss__ickAI.html":[6,0,559,0],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,559,0,12],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a27598604e65417225acd41d6f05cc717":[6,0,559,0,5]
+"de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,559,0,12]
 };

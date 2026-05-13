@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[6,0,4171,2],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,4171,3],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[6,0,4171,0],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,4171,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bda985d1a74011853d219a8e5b4e08c27e3":[7,0,0,0,1,2,15,1,14,4],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0":[7,0,0,0,1,2,15,1,14,0],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915":[7,0,0,0,1,2,15,1,14,2],
-"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500":[7,0,0,0,1,2,15,1,15],
-"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500a0878b4ee15b23920a7534bfa2da71078":[7,0,0,0,1,2,15,1,15,3]
+"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500":[7,0,0,0,1,2,15,1,15]
 };

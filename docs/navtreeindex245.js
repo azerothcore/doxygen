@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/d68/classspell__hallows__end__tricky__treat.html":[6,0,3175],
 "d9/d68/classspell__hallows__end__tricky__treat.html#a4077b809530d28bed0a9419b5a745f42":[6,0,3175,0],
 "d9/d68/classspell__hallows__end__tricky__treat.html#a97eb6d1fcdcf0628433e5bec68785932":[6,0,3175,1],
 "d9/d68/classspell__hallows__end__tricky__treat.html#ac09b1c86655eef0febaccff86533b28f":[6,0,3175,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a13503b3fc78cf4cc3591988e1ba8930a":[7,0,0,0,1,3,5,6,13,12,13],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a17a09a330bd5f77a796eb92ec0c7c318":[7,0,0,0,1,3,5,6,13,12,0],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a219d7df5f3320c2dfe9587f89a65bdab":[7,0,0,0,1,3,5,6,13,12,8],
-"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a26d0981681e1051ddaaea3583a035a10":[7,0,0,0,1,3,5,6,13,12,5],
-"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a2c100163d577f700459f3a9decdb951d":[7,0,0,0,1,3,5,6,13,12,1]
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a26d0981681e1051ddaaea3583a035a10":[7,0,0,0,1,3,5,6,13,12,5]
 };

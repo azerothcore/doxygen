@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[6,0,1920,11],
 "dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[6,0,1920,7],
 "dc/d39/structnpc__janalai__hatcher.html#ab775a888ae1002eed3ed548ab89ca2e4":[6,0,1920,5],
 "dc/d39/structnpc__janalai__hatcher.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12":[6,0,1920,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[6,0,2547,9],
 "dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[6,0,2547,8],
 "dc/d49/classSecretMgr.html#a28ee0858a14656d7fc464eb604b127b7":[6,0,2547,1],
-"dc/d49/classSecretMgr.html#a4b6cbe75e50ec3e4765fdb9e965ee84f":[6,0,2547,5],
-"dc/d49/classSecretMgr.html#a65c2fd304c0f851f81cd80037deac8fb":[6,0,2547,4]
+"dc/d49/classSecretMgr.html#a4b6cbe75e50ec3e4765fdb9e965ee84f":[6,0,2547,5]
 };

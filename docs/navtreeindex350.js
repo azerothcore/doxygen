@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
 "dd/dad/PetitionMgr_8h.html#a2910b9c8b8c58925b562acf66b3e46d2":[7,0,0,0,1,2,33,1,4],
 "dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[7,0,0,0,1,2,33,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/db6/classgo__loosely__turned__soil.html#acead5810a848f8837fa65af1f2ac00bd":[6,0,1181,2],
 "dd/db7/classAllSpellScript.html":[6,0,158],
 "dd/db7/classAllSpellScript.html#a026842dcd2d8c0e0c3f99718b04e86b0":[6,0,158,2],
-"dd/db7/classAllSpellScript.html#a0854a57b62e310575a3e5cd8d35e8532":[6,0,158,4],
-"dd/db7/classAllSpellScript.html#a36061e5bcec2ef4dea35d1b5c9e703b4":[6,0,158,8]
+"dd/db7/classAllSpellScript.html#a0854a57b62e310575a3e5cd8d35e8532":[6,0,158,4]
 };

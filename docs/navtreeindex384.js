@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae":[6,0,2394,20],
 "de/d80/classPetitionMgr.html#aa612824469e47955f3a231e4abd9bc84":[6,0,2394,14],
 "de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873":[6,0,2394,10],
 "de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[6,0,2394,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7786b8e71bcc2652d561f7085dfc3b51":[7,0,0,0,1,3,5,4,2,1,6,4],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8cf65be6cb8de4377425b4d7b735d911":[7,0,0,0,1,3,5,4,2,1,6,0],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,4,2,1,6,2],
-"de/d8f/classSessionKeyGenerator.html":[6,0,2561],
-"de/d8f/classSessionKeyGenerator.html#a1eb1aafb255ccf771b0a49dcab869297":[6,0,2561,2]
+"de/d8f/classSessionKeyGenerator.html":[6,0,2561]
 };

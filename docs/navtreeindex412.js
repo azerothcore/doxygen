@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,13,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,13,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[6,0,3765,4],
 "df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[6,0,3765,0],
 "df/dc1/classspell__pri__body__and__soul.html#af7d9ac7e014bbda32275bb584f5e2660":[6,0,3765,3],
-"df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[6,0,3765,1],
-"df/dc2/structboss__toravon_1_1boss__toravonAI.html":[6,0,762,0]
+"df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[6,0,3765,1]
 };

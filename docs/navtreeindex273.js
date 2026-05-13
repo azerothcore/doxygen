@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d97/classspell__trollgore__consume.html#a62cef31900cd61167823f3e66aa2d64b":[6,0,4196,0],
 "da/d97/classspell__trollgore__consume.html#aab4d84e896c8225d8d131558aaa71dbe":[6,0,4196,3],
 "da/d97/classspell__trollgore__consume.html#ac73b3f568ce54f9b59b2b23f069da3c1":[6,0,4196,2],
 "da/d97/classspell__trollgore__consume.html#aff3fc5d7d6185bcb09d14f1408a67aad":[6,0,4196,1],
@@ -34,8 +35,8 @@ var NAVTREEINDEX273 =
 "da/d99/classBattlegroundMapScript.html#a0148a79556f82c990fe0fc494d03c7ab":[6,0,344,2],
 "da/d99/classBattlegroundMapScript.html#a61e1c0f145064cbc6c8708824a359e4c":[6,0,344,0],
 "da/d99/classBattlegroundMapScript.html#a90584770132eb71cffc6e25a674750ad":[6,0,344,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[6,0,13,8,6],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[6,0,13,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,13,8,6,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[6,0,712,0,16],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[6,0,712,0,3],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a9cfaa3b61da9a7aad88c2d2a537f0821":[6,0,712,0,21],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab02e42a863496b27a8f2b745085e30ea":[6,0,712,0,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,712,0,2]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab02e42a863496b27a8f2b745085e30ea":[6,0,712,0,0]
 };

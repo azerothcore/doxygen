@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/d1c/classGameObject.html#a7d6d1ff6ed97fca09aa85d51d96e497f":[6,0,1101,68],
 "de/d1c/classGameObject.html#a7da598ed14475ae29c75813d75853ec1":[6,0,1101,166],
 "de/d1c/classGameObject.html#a800a9243a237c9ed560d98082233da82":[6,0,1101,167],
 "de/d1c/classGameObject.html#a80195ea0254f5eb465206d47714b432b":[6,0,1101,176],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198":[7,0,0,0,1,2,18,3,92],
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a21051e42b65ed96808ef8a72aaa30839":[7,0,0,0,1,2,18,3,92,6],
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a485b3d45c3c3d5c2cc9e3999661a4ffc":[7,0,0,0,1,2,18,3,92,5],
-"de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a520266271bde255e45fd045437e20ebc":[7,0,0,0,1,2,18,3,92,10],
-"de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a9b41ed1ac19000c75d4c0cca3fc7a28d":[7,0,0,0,1,2,18,3,92,8]
+"de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198a520266271bde255e45fd045437e20ebc":[7,0,0,0,1,2,18,3,92,10]
 };

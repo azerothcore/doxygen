@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846":[7,0,0,0,1,3,9,4,280],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[7,0,0,0,1,3,9,4,280,0],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[7,0,0,0,1,3,9,4,271],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046":[7,0,0,0,1,3,9,4,271,2],
@@ -208,8 +209,8 @@ var NAVTREEINDEX292 =
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,119,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,107,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,119,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,119,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,107,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,119,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,107,0,2],
 "db/d72/structLootItem.html":[6,0,1474],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/d74/classspell__botanica__shift__form__aura.html#a990cab2c1d9fb544bf11c9fd4e5495ac":[6,0,2701,2],
 "db/d74/classspell__botanica__shift__form__aura.html#aad39e53d6b3fc673c115f79ca0bc9b68":[6,0,2701,1],
 "db/d74/classspell__botanica__shift__form__aura.html#ac176c59497cc2196c19dc8a1b9f8056d":[6,0,2701,0],
-"db/d74/classspell__botanica__shift__form__aura.html#ad392a897546cb64e550dd8b0709ba0ab":[6,0,2701,4],
-"db/d74/classspell__botanica__shift__form__aura.html#ae2cf612df18cf249bc4a90ce9332fc9b":[6,0,2701,3]
+"db/d74/classspell__botanica__shift__form__aura.html#ad392a897546cb64e550dd8b0709ba0ab":[6,0,2701,4]
 };

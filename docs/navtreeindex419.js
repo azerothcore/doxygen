@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a94918dcd5642e40f5e5cbb0f747bf283":[7,0,0,0,1,3,5,6,4,57,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a968c472e15619221d6355e667e9e7c0d":[7,0,0,0,1,3,5,6,4,57,9],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a994639ba60ae479a74ee6dfe98c3103c":[7,0,0,0,1,3,5,6,4,57,20],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9a54c098d3b7702bb13ac63d1207feb6":[7,0,0,0,1,3,5,6,4,57,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/de0/structMechanicImmune.html":[6,0,1523],
 "df/de0/structMechanicImmune.html#a492e5e3c2373adba005034514b0a5a1e":[6,0,1523,1],
 "df/de0/structMechanicImmune.html#a4ea67fc10eedfaa2e5e029e242e1c32f":[6,0,1523,0],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html":[6,0,400,0],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#a101518193c0fb6bbd6892362a6f09b9c":[6,0,400,0,0]
+"df/de0/structboss__archavon_1_1boss__archavonAI.html":[6,0,400,0]
 };

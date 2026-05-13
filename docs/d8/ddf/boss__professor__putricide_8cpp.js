@@ -43,7 +43,8 @@ var boss__professor__putricide_8cpp =
       [ "EVENT_RESUME_ATTACK", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6ffcbb9b84ac49cadfa72b20facf6e41", null ],
       [ "EVENT_UNBOUND_PLAGUE", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d919ce00a25fff0e0e89d044b47101a", null ],
       [ "EVENT_MALLEABLE_GOO", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaccbe25a95fcd8c56847451954286c3a", null ],
-      [ "EVENT_CHOKING_GAS_BOMB", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6f2c6f43501c406e2d2abe58fffd3d", null ]
+      [ "EVENT_CHOKING_GAS_BOMB", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6f2c6f43501c406e2d2abe58fffd3d", null ],
+      [ "EVENT_MUTATED_PLAGUE", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5aa5da733f2a0641c81e5549c0adfb3b", null ]
     ] ],
     [ "Points", "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463e", [
       [ "POINT_FESTERGUT", "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eab8f0405f877cd4ac00fcbb41afa69f21", null ],

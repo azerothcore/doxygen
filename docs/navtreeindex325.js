@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[7,0,0,0,1,3,5,7,5,8,1],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,7,5,8,2],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,7,5,8,0],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[7,0,0,0,1,3,5,7,5,8,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[6,0,964,9],
 "dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[6,0,964,7],
 "dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[6,0,964,14],
-"dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[6,0,964,2],
-"dc/d81/classCreatureTextMgr.html#a2303c6343e233beb3f7a1ebda40e080e":[6,0,964,11]
+"dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[6,0,964,2]
 };

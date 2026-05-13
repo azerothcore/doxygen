@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a23d54542e6debf39798c2a2d6e2a255d":[6,0,1636,0,2],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a252858818b61cf15e2e031ceaaadc6b8":[6,0,1636,0,6],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a4c681936d8e7053ace5cdeeaa1ee5ca9":[6,0,1636,0,1],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2":[6,0,1636,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[6,0,539,9],
 "de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[6,0,539,20],
 "de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[6,0,539,1],
-"de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[6,0,539,6],
-"de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[6,0,539,17]
+"de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[6,0,539,6]
 };

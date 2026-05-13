@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/df8/classpool__commandscript.html#a973b565473bd8f9ef5cfd61740d114b4":[6,0,2429,1],
 "db/df8/classpool__commandscript.html#aac45a4a6c51a92aa03acde1789e1a039":[6,0,2429,2],
 "db/df8/classpool__commandscript.html#ad72421c1425d9a8cd4809b372d2c1e5b":[6,0,2429,5],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html":[6,0,4219],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[6,0,1646,1],
 "db/dfb/structnpc__wounded__skirmisher.html":[6,0,2294],
 "db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[6,0,2294,0],
-"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[6,0,2294,5],
-"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[6,0,2294,2]
+"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[6,0,2294,5]
 };

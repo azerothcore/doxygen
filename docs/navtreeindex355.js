@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a642390a59ff46236dc3b429f371ea8cd":[6,0,1610,4],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[6,0,1610,6],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[6,0,1610,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a8144ed8ada8cd4fb11d74393ed0c525a":[6,0,1610,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/de9/classGameObjectScript.html#a612884c70eed9c56958ab49dc1e2bb1f":[6,0,1113,8],
 "dd/de9/classGameObjectScript.html#a9d9cf73435a16d7fef450134c03980bb":[6,0,1113,0],
 "dd/de9/classGameObjectScript.html#ab93c178f2137e92da28665d28bfec1d5":[6,0,1113,10],
-"dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[6,0,1113,2],
-"dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[6,0,1113,9]
+"dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[6,0,1113,2]
 };

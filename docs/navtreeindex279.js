@@ -1,7 +1,8 @@
 var NAVTREEINDEX279 =
 {
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,48,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,48,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[6,0,0,36,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,48,4],
 "da/dd3/RaceMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
 "da/dd3/structMovementGeneratorFactory.html":[6,0,1557],
 "da/dd3/structMovementGeneratorFactory.html#a8b473ae9fa2af60a7fa92727ce163305":[6,0,1557,0],
@@ -30,10 +31,10 @@ var NAVTREEINDEX279 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,17,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,17,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[6,0,5,8,3],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,17,8,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,17,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,17,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a90c3d818318004c7c21ec66d4d080615":[6,0,2177,0,7],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aa610e24316505165cbb826ff5bece5c5":[6,0,2177,0,3],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aaf940a0ca812d84dbde81fc7e41feaca":[6,0,2177,0,2],
-"da/de0/classnpc__wormhole.html":[6,0,2292],
-"da/de0/classnpc__wormhole.html#a6ae1a84557f8dc0f0631b9cc7e88d78e":[6,0,2292,3]
+"da/de0/classnpc__wormhole.html":[6,0,2292]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,338,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,338,2],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,338,5],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,338,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[6,0,2182,0,8],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aaad63a0de8acfc17355b7a35de4cc164":[6,0,2182,0,5],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2182,0,7],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2182,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2292,0]
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2182,0,0]
 };

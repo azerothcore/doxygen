@@ -315,23 +315,23 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1317</span>    {</div>
-<div class="line"><span class="lineno"> 1318</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
-<div class="line"><span class="lineno"> 1319</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daabac1a9f442523ff297fbca0beea649b3">SPELL_FAILED_BAD_TARGETS</a>;</div>
-<div class="line"><span class="lineno"> 1320</span> </div>
-<div class="line"><span class="lineno"> 1321</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno"> 1322</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa1aac9d46e45a1eacb68c46b1c3e16014">SPELL_FAILED_TARGET_NOT_PLAYER</a>;</div>
-<div class="line"><span class="lineno"> 1323</span> </div>
-<div class="line"><span class="lineno"> 1324</span>        <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946f">SpellCustomErrors</a> extension = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2cf15bd552039ea67084b168e036dda4">SPELL_CUSTOM_ERROR_NONE</a>;</div>
-<div class="line"><span class="lineno"> 1325</span>        <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9da">SpellCastResult</a> result = <a class="code hl_function" href="../../d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54">CheckRequirementInternal</a>(extension);</div>
-<div class="line"><span class="lineno"> 1326</span>        <span class="keywordflow">if</span> (result != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
-<div class="line"><span class="lineno"> 1327</span>        {</div>
-<div class="line"><span class="lineno"> 1328</span>            <a class="code hl_function" href="../../d1/d16/classSpell.html#ac08e0f25ac5ac7e8c6f8466554406727">Spell::SendCastResult</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;ToPlayer(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>(), 0, result, extension);</div>
-<div class="line"><span class="lineno"> 1329</span>            <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno"> 1330</span>        }</div>
-<div class="line"><span class="lineno"> 1331</span> </div>
-<div class="line"><span class="lineno"> 1332</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 1333</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1324</span>    {</div>
+<div class="line"><span class="lineno"> 1325</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
+<div class="line"><span class="lineno"> 1326</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daabac1a9f442523ff297fbca0beea649b3">SPELL_FAILED_BAD_TARGETS</a>;</div>
+<div class="line"><span class="lineno"> 1327</span> </div>
+<div class="line"><span class="lineno"> 1328</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno"> 1329</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa1aac9d46e45a1eacb68c46b1c3e16014">SPELL_FAILED_TARGET_NOT_PLAYER</a>;</div>
+<div class="line"><span class="lineno"> 1330</span> </div>
+<div class="line"><span class="lineno"> 1331</span>        <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946f">SpellCustomErrors</a> extension = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2cf15bd552039ea67084b168e036dda4">SPELL_CUSTOM_ERROR_NONE</a>;</div>
+<div class="line"><span class="lineno"> 1332</span>        <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9da">SpellCastResult</a> result = <a class="code hl_function" href="../../d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54">CheckRequirementInternal</a>(extension);</div>
+<div class="line"><span class="lineno"> 1333</span>        <span class="keywordflow">if</span> (result != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
+<div class="line"><span class="lineno"> 1334</span>        {</div>
+<div class="line"><span class="lineno"> 1335</span>            <a class="code hl_function" href="../../d1/d16/classSpell.html#ac08e0f25ac5ac7e8c6f8466554406727">Spell::SendCastResult</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;ToPlayer(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>(), 0, result, extension);</div>
+<div class="line"><span class="lineno"> 1336</span>            <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno"> 1337</span>        }</div>
+<div class="line"><span class="lineno"> 1338</span> </div>
+<div class="line"><span class="lineno"> 1339</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 1340</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a9c096b84b85e3654d920bcf353d0946f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946f">SpellCustomErrors</a></div><div class="ttdeci">SpellCustomErrors</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1130</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a9c096b84b85e3654d920bcf353d0946fa2cf15bd552039ea67084b168e036dda4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2cf15bd552039ea67084b168e036dda4">SPELL_CUSTOM_ERROR_NONE</a></div><div class="ttdeci">@ SPELL_CUSTOM_ERROR_NONE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1131</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9da"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9da">SpellCastResult</a></div><div class="ttdeci">SpellCastResult</div><div class="ttdef"><b>Definition</b> SharedDefines.h:936</div></div>
@@ -341,11 +341,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_a0a4da6da2613261bd66a2ecc22ddc767"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">SpellScript::GetExplTargetUnit</a></div><div class="ttdeci">Unit * GetExplTargetUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:433</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aclassSpell_html_ac08e0f25ac5ac7e8c6f8466554406727"><div class="ttname"><a href="../../d1/d16/classSpell.html#ac08e0f25ac5ac7e8c6f8466554406727">Spell::SendCastResult</a></div><div class="ttdeci">static void SendCastResult(Player *caster, SpellInfo const *spellInfo, uint8 castCount, SpellCastResult result, SpellCustomErrors customError=SPELL_CUSTOM_ERROR_NONE)</div><div class="ttdef"><b>Definition</b> Spell.cpp:4619</div></div>
-<div class="ttc" id="aclassspell__putricide__mutation__init_html_ac2559b4a925fc0960a902fa2b306dc54"><div class="ttname"><a href="../../d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54">spell_putricide_mutation_init::CheckRequirementInternal</a></div><div class="ttdeci">SpellCastResult CheckRequirementInternal(SpellCustomErrors &amp;extendedError)</div><div class="ttdef"><b>Definition</b> boss_professor_putricide.cpp:1291</div></div>
+<div class="ttc" id="aclassspell__putricide__mutation__init_html_ac2559b4a925fc0960a902fa2b306dc54"><div class="ttname"><a href="../../d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54">spell_putricide_mutation_init::CheckRequirementInternal</a></div><div class="ttdeci">SpellCastResult CheckRequirementInternal(SpellCustomErrors &amp;extendedError)</div><div class="ttdef"><b>Definition</b> boss_professor_putricide.cpp:1298</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01291">CheckRequirementInternal()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l04619">Spell::SendCastResult()</a>, <a class="el" href="../../#l01126">SPELL_CAST_OK</a>, <a class="el" href="../../#l01131">SPELL_CUSTOM_ERROR_NONE</a>, <a class="el" href="../../#l00949">SPELL_FAILED_BAD_TARGETS</a>, and <a class="el" href="../../#l01059">SPELL_FAILED_TARGET_NOT_PLAYER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01298">CheckRequirementInternal()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l04619">Spell::SendCastResult()</a>, <a class="el" href="../../#l01126">SPELL_CAST_OK</a>, <a class="el" href="../../#l01131">SPELL_CUSTOM_ERROR_NONE</a>, <a class="el" href="../../#l00949">SPELL_FAILED_BAD_TARGETS</a>, and <a class="el" href="../../#l01059">SPELL_FAILED_TARGET_NOT_PLAYER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01335">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01342">Register()</a>.</p>
 
 </div>
 </div>
@@ -372,29 +372,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1292</span>    {</div>
-<div class="line"><span class="lineno"> 1293</span>        <a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno"> 1294</span>        <span class="keywordflow">if</span> (!instance)</div>
-<div class="line"><span class="lineno"> 1295</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa9c6a5ea90b0797694ebec8b386fd920b">SPELL_FAILED_CANT_DO_THAT_RIGHT_NOW</a>;</div>
-<div class="line"><span class="lineno"> 1296</span> </div>
-<div class="line"><span class="lineno"> 1297</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* professor = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>(), instance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22aa2e07b096784cfb875f3ab5d06a4c1e7">DATA_PROFESSOR_PUTRICIDE</a>));</div>
-<div class="line"><span class="lineno"> 1298</span>        <span class="keywordflow">if</span> (!professor)</div>
-<div class="line"><span class="lineno"> 1299</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa9c6a5ea90b0797694ebec8b386fd920b">SPELL_FAILED_CANT_DO_THAT_RIGHT_NOW</a>;</div>
-<div class="line"><span class="lineno"> 1300</span> </div>
-<div class="line"><span class="lineno"> 1301</span>        <span class="keywordflow">if</span> (professor-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6905aa5db0b3501623c040689946350e">GetData</a>(<a class="code hl_enumvalue" href="../../d8/ddf/boss__professor__putricide_8cpp.html#a8f56f5cb018750500db4cb4b6a615b1aa95c1d24a85542efa6992a3b9770e14e4">DATA_PHASE</a>) == 3 || !professor-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno"> 1302</span>        {</div>
-<div class="line"><span class="lineno"> 1303</span>            extendedError = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fae0f2961f5e5c52477bc3f8ead62df49f">SPELL_CUSTOM_ERROR_ALL_POTIONS_USED</a>;</div>
-<div class="line"><span class="lineno"> 1304</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
-<div class="line"><span class="lineno"> 1305</span>        }</div>
-<div class="line"><span class="lineno"> 1306</span> </div>
-<div class="line"><span class="lineno"> 1307</span>        <span class="keywordflow">if</span> (professor-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6905aa5db0b3501623c040689946350e">GetData</a>(<a class="code hl_enumvalue" href="../../d8/ddf/boss__professor__putricide_8cpp.html#a8f56f5cb018750500db4cb4b6a615b1aaa5d25fdd90b186b931ed8f32edd8ee26">DATA_ABOMINATION</a>))</div>
-<div class="line"><span class="lineno"> 1308</span>        {</div>
-<div class="line"><span class="lineno"> 1309</span>            extendedError = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2e3b6f62a73050545f10cba554ced422">SPELL_CUSTOM_ERROR_TOO_MANY_ABOMINATIONS</a>;</div>
-<div class="line"><span class="lineno"> 1310</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
-<div class="line"><span class="lineno"> 1311</span>        }</div>
-<div class="line"><span class="lineno"> 1312</span> </div>
-<div class="line"><span class="lineno"> 1313</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 1314</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1299</span>    {</div>
+<div class="line"><span class="lineno"> 1300</span>        <a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
+<div class="line"><span class="lineno"> 1301</span>        <span class="keywordflow">if</span> (!instance)</div>
+<div class="line"><span class="lineno"> 1302</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa9c6a5ea90b0797694ebec8b386fd920b">SPELL_FAILED_CANT_DO_THAT_RIGHT_NOW</a>;</div>
+<div class="line"><span class="lineno"> 1303</span> </div>
+<div class="line"><span class="lineno"> 1304</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* professor = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>(), instance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22aa2e07b096784cfb875f3ab5d06a4c1e7">DATA_PROFESSOR_PUTRICIDE</a>));</div>
+<div class="line"><span class="lineno"> 1305</span>        <span class="keywordflow">if</span> (!professor)</div>
+<div class="line"><span class="lineno"> 1306</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa9c6a5ea90b0797694ebec8b386fd920b">SPELL_FAILED_CANT_DO_THAT_RIGHT_NOW</a>;</div>
+<div class="line"><span class="lineno"> 1307</span> </div>
+<div class="line"><span class="lineno"> 1308</span>        <span class="keywordflow">if</span> (professor-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6905aa5db0b3501623c040689946350e">GetData</a>(<a class="code hl_enumvalue" href="../../d8/ddf/boss__professor__putricide_8cpp.html#a8f56f5cb018750500db4cb4b6a615b1aa95c1d24a85542efa6992a3b9770e14e4">DATA_PHASE</a>) == 3 || !professor-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno"> 1309</span>        {</div>
+<div class="line"><span class="lineno"> 1310</span>            extendedError = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fae0f2961f5e5c52477bc3f8ead62df49f">SPELL_CUSTOM_ERROR_ALL_POTIONS_USED</a>;</div>
+<div class="line"><span class="lineno"> 1311</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
+<div class="line"><span class="lineno"> 1312</span>        }</div>
+<div class="line"><span class="lineno"> 1313</span> </div>
+<div class="line"><span class="lineno"> 1314</span>        <span class="keywordflow">if</span> (professor-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6905aa5db0b3501623c040689946350e">GetData</a>(<a class="code hl_enumvalue" href="../../d8/ddf/boss__professor__putricide_8cpp.html#a8f56f5cb018750500db4cb4b6a615b1aaa5d25fdd90b186b931ed8f32edd8ee26">DATA_ABOMINATION</a>))</div>
+<div class="line"><span class="lineno"> 1315</span>        {</div>
+<div class="line"><span class="lineno"> 1316</span>            extendedError = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2e3b6f62a73050545f10cba554ced422">SPELL_CUSTOM_ERROR_TOO_MANY_ABOMINATIONS</a>;</div>
+<div class="line"><span class="lineno"> 1317</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a>;</div>
+<div class="line"><span class="lineno"> 1318</span>        }</div>
+<div class="line"><span class="lineno"> 1319</span> </div>
+<div class="line"><span class="lineno"> 1320</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 1321</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a9c096b84b85e3654d920bcf353d0946fa2e3b6f62a73050545f10cba554ced422"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fa2e3b6f62a73050545f10cba554ced422">SPELL_CUSTOM_ERROR_TOO_MANY_ABOMINATIONS</a></div><div class="ttdeci">@ SPELL_CUSTOM_ERROR_TOO_MANY_ABOMINATIONS</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1218</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a9c096b84b85e3654d920bcf353d0946fae0f2961f5e5c52477bc3f8ead62df49f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9c096b84b85e3654d920bcf353d0946fae0f2961f5e5c52477bc3f8ead62df49f">SPELL_CUSTOM_ERROR_ALL_POTIONS_USED</a></div><div class="ttdeci">@ SPELL_CUSTOM_ERROR_ALL_POTIONS_USED</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1219</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa3edca33213e571cce6e1c1039ee33751">SPELL_FAILED_CUSTOM_ERROR</a></div><div class="ttdeci">@ SPELL_FAILED_CUSTOM_ERROR</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1109</div></div>
@@ -413,7 +413,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00120">DATA_ABOMINATION</a>, <a class="el" href="../../#l00119">DATA_PHASE</a>, <a class="el" href="../../#l00092">DATA_PROFESSOR_PUTRICIDE</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00218">UnitAI::GetData()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l00111">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l01238">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l01126">SPELL_CAST_OK</a>, <a class="el" href="../../#l01219">SPELL_CUSTOM_ERROR_ALL_POTIONS_USED</a>, <a class="el" href="../../#l01218">SPELL_CUSTOM_ERROR_TOO_MANY_ABOMINATIONS</a>, <a class="el" href="../../#l01110">SPELL_FAILED_CANT_DO_THAT_RIGHT_NOW</a>, and <a class="el" href="../../#l01109">SPELL_FAILED_CUSTOM_ERROR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01316">CheckRequirement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01323">CheckRequirement()</a>.</p>
 
 </div>
 </div>
@@ -467,14 +467,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1336</span>    {</div>
-<div class="line"><span class="lineno"> 1337</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7">spell_putricide_mutation_init::CheckRequirement</a>);</div>
-<div class="line"><span class="lineno"> 1338</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1343</span>    {</div>
+<div class="line"><span class="lineno"> 1344</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7">spell_putricide_mutation_init::CheckRequirement</a>);</div>
+<div class="line"><span class="lineno"> 1345</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aclassspell__putricide__mutation__init_html_a1568599758bdc757ae448ab5a77c1cc7"><div class="ttname"><a href="../../d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7">spell_putricide_mutation_init::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> boss_professor_putricide.cpp:1316</div></div>
+<div class="ttc" id="aclassspell__putricide__mutation__init_html_a1568599758bdc757ae448ab5a77c1cc7"><div class="ttname"><a href="../../d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7">spell_putricide_mutation_init::CheckRequirement</a></div><div class="ttdeci">SpellCastResult CheckRequirement()</div><div class="ttdef"><b>Definition</b> boss_professor_putricide.cpp:1323</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01316">CheckRequirement()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01323">CheckRequirement()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -487,7 +487,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dbe/classspell__putricide__mutation__init.html">spell_putricide_mutation_init</a></li>
-    <li class="footer">Generated on Tue May 12 2026 08:34:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed May 13 2026 08:40:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

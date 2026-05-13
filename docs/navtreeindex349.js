@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/da9/classspell__hodir__biting__cold__main__aura.html":[6,0,3182],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3182,2],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[6,0,3182,0],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[6,0,3182,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1545,2],
 "dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1545,1],
 "dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8],
-"dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0],
-"dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1]
+"dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0]
 };
