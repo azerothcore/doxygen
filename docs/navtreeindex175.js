@@ -1,5 +1,9 @@
 var NAVTREEINDEX175 =
 {
+"d6/d39/classWorld.html#ab52a16eee509572e8abfc315871a7fa5":[4,2,11,18],
+"d6/d39/classWorld.html#ab7e4d217f3bd6fe873d8c75d98b59458":[4,2,11,93],
+"d6/d39/classWorld.html#ab8a4dc27659673c4a45f280c35de9a00":[4,2,11,75],
+"d6/d39/classWorld.html#acbf5c62d62a3ef0e07f1e0a8074a210b":[4,2,11,37],
 "d6/d39/classWorld.html#acd831fed79e51f365e7b3015d18cef15":[4,2,11,87],
 "d6/d39/classWorld.html#ad3fdd0a6d0589e99a8b4cf2ce5cecf2d":[4,2,11,83],
 "d6/d39/classWorld.html#ad73a066745376a4f1e4d16aafeac0bbf":[4,2,11,15],
@@ -245,9 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d4b/classspell__electrical__storm__proc.html#aebe9055301495dd3a21736b9a2a35f31":[6,0,2919,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[5,0,0,8,0,8],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[6,0,0,5,0,8],
-"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[6,0,0,5,0,8,0],
-"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,0,8,0,8,0],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[6,0,11,25],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,31,25],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[6,0,11,25,1]
+"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,0,8,0,8,0]
 };

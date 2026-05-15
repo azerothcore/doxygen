@@ -634,6 +634,10 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_BF_QUEUE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aead7d5ea444af01c3d2543ffec277493", null ],
       [ "RBAC_PERM_COMMAND_PET_LIST", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ae685ef1eadcb661fd58ce348f2ead450", null ],
       [ "RBAC_PERM_COMMAND_PET_DELETE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a0001e05dc6a840e47ba198d3959b9e40", null ],
+      [ "RBAC_PERM_COMMAND_RESPAWN_CREATURE_GUID", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a9c2740febcf7ed899bd302ce4fbfe38b", null ],
+      [ "RBAC_PERM_COMMAND_RESPAWN_GAMEOBJECT_GUID", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa4a3e6ae7ffddbf8e37872c98827c5fd", null ],
+      [ "RBAC_PERM_COMMAND_RESPAWN_CREATURE_ENTRY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a917a8112f345d458c7b0a783da1b51f7", null ],
+      [ "RBAC_PERM_COMMAND_RESPAWN_GAMEOBJECT_ENTRY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ad5545fc4f0d4f3d847d7fb5c4c2a8add", null ],
       [ "RBAC_PERM_MAX", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dc/d36/namespacerbac.html#ad45fe4229235a57fc4952a69ede78410", null ]

@@ -8,7 +8,7 @@ var classlist__commandscript =
     [ "HandleListCreatureCommand", "db/da4/classlist__commandscript.html#a48388f1c839cec6597c74740ec49fa68", null ],
     [ "HandleListItemCommand", "db/da4/classlist__commandscript.html#a7d0aadb081f25c3d533951bd9841f103", null ],
     [ "HandleListObjectCommand", "db/da4/classlist__commandscript.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "HandleListRespawnsCommand", "db/da4/classlist__commandscript.html#aca62ce6b4206dfbc3036c1d3809d6e48", null ],
+    [ "HandleListRespawnsCommand", "db/da4/classlist__commandscript.html#a463e9471442ef3fa465d3d223876a2db", null ],
     [ "ListAurasCommand", "db/da4/classlist__commandscript.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
     [ "ShouldListAura", "db/da4/classlist__commandscript.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];
