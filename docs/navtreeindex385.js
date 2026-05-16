@@ -1,7 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e9720a47d618dccf859a62b85ef6334":[7,0,0,0,1,3,5,4,2,1,8,5],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a831fed24571acbafcd77e28d69c047f8":[7,0,0,0,1,3,5,4,2,1,8,7],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,4,2,1,8,3],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ade5a92da218df28914a8093456806a9c":[7,0,0,0,1,3,5,4,2,1,8,0],
 "de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,4,2,1,7],
@@ -249,5 +247,7 @@ var NAVTREEINDEX385 =
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a199697361e9df438f94b8b8b408fa004":[7,0,0,0,1,3,7,14,4,8],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a1e5488e704368dac9d9b2bef56535dd4":[7,0,0,0,1,3,7,14,4,3],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a234ce36e5d6eb7a707e5fb680ca34c84":[7,0,0,0,1,3,7,14,4,23],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a25f5325817667cf2fabf195b8c55c84e":[7,0,0,0,1,3,7,14,4,12]
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a25f5325817667cf2fabf195b8c55c84e":[7,0,0,0,1,3,7,14,4,12],
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a291fad1ca55e59f855d00a276532974c":[7,0,0,0,1,3,7,14,4,13],
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a3278c53501fc5f4643233defbfe47ef8":[7,0,0,0,1,3,7,14,4,22]
 };

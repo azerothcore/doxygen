@@ -1,7 +1,5 @@
 var NAVTREEINDEX352 =
 {
-"dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
-"dd/dc9/classboss__festergut.html":[6,0,482],
 "dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,482,1],
 "dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,482,2],
 "dd/dca/boss__moroes_8cpp.html":[7,0,0,0,1,3,2,4,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX352 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,77,1,140],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab07d4ed0b727b51e4af832dcf4dc0cda":[7,0,0,0,1,2,38,0,77,1,166],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2":[7,0,0,0,1,2,38,0,77,1,64],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684":[7,0,0,0,1,2,38,0,77,1,38]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684":[7,0,0,0,1,2,38,0,77,1,38],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4bf1cfaeec7a2b9f9aa56f6d372b507":[7,0,0,0,1,2,38,0,77,1,11],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab538dcce965c1bd3ccc225865220111c":[7,0,0,0,1,2,38,0,77,1,8]
 };

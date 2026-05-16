@@ -1,7 +1,5 @@
 var NAVTREEINDEX420 =
 {
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,11,23,0],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,31,23,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,741,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a122582c974aa1e68638ea196ea2f6771":[6,0,741,0,9],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,741,0,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX420 =
 "df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[6,0,860,15],
 "df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[6,0,860,16],
 "df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[6,0,860,2],
-"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,860,24]
+"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,860,24],
+"df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[6,0,860,18],
+"df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[6,0,860,13]
 };

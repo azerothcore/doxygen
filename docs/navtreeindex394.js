@@ -1,7 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"de/deb/structM2Header.html#a48b9246b8b9c39a1ac9214476450e048":[6,0,1485,25],
-"de/deb/structM2Header.html#a4f26ce431a058e3b86dddaf991f02ec5":[6,0,1485,4],
 "de/deb/structM2Header.html#a5041eac47c6d39024240f89926d6c69b":[6,0,1485,56],
 "de/deb/structM2Header.html#a5244e177129c2e94a71043d6a7ba701d":[6,0,1485,32],
 "de/deb/structM2Header.html#a565f5e213e9dbeb4a839ccebb7a2f8f7":[6,0,1485,44],
@@ -249,5 +247,7 @@ var NAVTREEINDEX394 =
 "de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,13,24,8],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,34,24,7],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,13,24,7],
-"de/df9/classnpc__lk__wicked__spirit.html":[6,0,1949]
+"de/df9/classnpc__lk__wicked__spirit.html":[6,0,1949],
+"de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1949,2],
+"de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[6,0,1949,1]
 };

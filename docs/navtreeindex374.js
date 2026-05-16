@@ -1,7 +1,5 @@
 var NAVTREEINDEX374 =
 {
-"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,12,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,33,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,12,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,33,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,12,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX374 =
 "de/d28/classspell__pos__slave__trigger__closest.html#aef592aafe931351186edf98f7aba7e22":[6,0,3762,0],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html":[6,0,1189,0],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1189,0,1],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9b4af48363a6d3194a22312fafa48587":[6,0,1189,0,3]
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9b4af48363a6d3194a22312fafa48587":[6,0,1189,0,3],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1189,0,4],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1189,0,5]
 };

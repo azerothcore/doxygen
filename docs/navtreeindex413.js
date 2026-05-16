@@ -1,7 +1,5 @@
 var NAVTREEINDEX413 =
 {
-"df/dbf/classpet__commandscript.html":[6,0,2388],
-"df/dbf/classpet__commandscript.html#a01026a4936774d2225d10e0f6e27b08c":[6,0,2388,1],
 "df/dbf/classpet__commandscript.html#a59a2a6bd9af23fe3a775319216337bda":[6,0,2388,4],
 "df/dbf/classpet__commandscript.html#a728201526e905b025aba5e6b030c288b":[6,0,2388,3],
 "df/dbf/classpet__commandscript.html#a84595dcb908398e80deee0b0aa47e335":[6,0,2388,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX413 =
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[6,0,813,1],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[6,0,813,2],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,813,0],
-"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,1]
+"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,1],
+"df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3896],
+"df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3896,2]
 };

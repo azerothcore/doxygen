@@ -1,7 +1,5 @@
 var NAVTREEINDEX412 =
 {
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b":[6,0,527,0,4],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,527,0,11],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242":[6,0,527,0,2],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6":[6,0,527,0,9],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,527,0,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX412 =
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1964,0,3],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1964,0,8],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1964,0,0],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aea2ab8bf79d6fcc3d2036d160274fab8":[6,0,1964,0,1]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aea2ab8bf79d6fcc3d2036d160274fab8":[6,0,1964,0,1],
+"df/dbf/classpet__commandscript.html":[6,0,2388],
+"df/dbf/classpet__commandscript.html#a01026a4936774d2225d10e0f6e27b08c":[6,0,2388,1]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"de/d77/structboss__yoggsaron__brain.html#a3c0d87cf1dc824321aa02034f800f14b":[6,0,804,12],
-"de/d77/structboss__yoggsaron__brain.html#a58a8dcda9f7f41f061af4cb6b26657fd":[6,0,804,13],
 "de/d77/structboss__yoggsaron__brain.html#a5b1aa2863bcec9dff0f87a6d4154daf6":[6,0,804,4],
 "de/d77/structboss__yoggsaron__brain.html#a7146ec81c014dd9c19a18ccf0fe30d87":[6,0,804,9],
 "de/d77/structboss__yoggsaron__brain.html#a9b8045951ba23deda3db3f9bfcee0754":[6,0,804,11],
@@ -249,5 +247,7 @@ var NAVTREEINDEX383 =
 "de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0ac8fe6a39ae00e50f219bf02c26f1a4":[6,0,4301,0],
 "de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#ac968ede75fd5d98ba9a10dc9f6bdbb85":[6,0,4301,2],
 "de/d7f/structboss__yazzai.html":[6,0,801],
-"de/d7f/structboss__yazzai.html#a6c92ffeff3e56f98cb1bd08f1835fe10":[6,0,801,0]
+"de/d7f/structboss__yazzai.html#a6c92ffeff3e56f98cb1bd08f1835fe10":[6,0,801,0],
+"de/d7f/structboss__yazzai.html#ab504de0e51a3715485eb65e006352a6f":[6,0,801,1],
+"de/d80/ServerScript_8cpp.html":[7,0,0,0,1,2,38,0,78]
 };

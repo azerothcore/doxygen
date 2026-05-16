@@ -1,7 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#aded9f2e46cc3bf46f5699ce6fdf154ba":[6,0,3845,3],
-"df/d0e/classnpc__toc__pet__warlock.html":[6,0,2200],
 "df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[6,0,2200,1],
 "df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[6,0,2200,2],
 "df/d0e/classspell__igb__burning__pitch__selector.html":[6,0,3258],
@@ -249,5 +247,7 @@ var NAVTREEINDEX396 =
 "df/d14/classPet.html#ac731f71baf5d76ef5eead277e371605a":[6,0,2387,2],
 "df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0":[6,0,2387,38],
 "df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[6,0,2387,73],
-"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2387,77]
+"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2387,77],
+"df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[6,0,2387,23],
+"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[6,0,2387,80]
 };

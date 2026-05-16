@@ -1,7 +1,5 @@
 var NAVTREEINDEX407 =
 {
-"df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[6,0,764,5],
-"df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[6,0,764,6],
 "df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[6,0,764,4],
 "df/d86/structboss__twilight__corrupter.html#a6c49eee2be24199418096cc48c50d384":[6,0,764,8],
 "df/d86/structboss__twilight__corrupter.html#a84803153e7e7d5d7efe0106139214b1f":[6,0,764,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#aa281572964419029e6c69ca040407f78":[6,0,2588,43],
 "df/d8d/structSmartTarget.html#aaa06940768e7b9e08e549af80ab40650":[6,0,2588,64],
 "df/d8d/structSmartTarget.html#aae3fe206cf7ffa0b26b962e3790eebee":[6,0,2588,45],
-"df/d8d/structSmartTarget.html#ab92246c1f3e1c3eef1448383c11db8b7":[6,0,2588,27]
+"df/d8d/structSmartTarget.html#ab92246c1f3e1c3eef1448383c11db8b7":[6,0,2588,27],
+"df/d8d/structSmartTarget.html#abc7b8a5a2f8b901ec79c9b3b69c7c915":[6,0,2588,12],
+"df/d8d/structSmartTarget.html#ac0219a82dab0720d36ed0beab9420dfd":[6,0,2588,17]
 };

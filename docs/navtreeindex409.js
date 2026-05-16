@@ -1,7 +1,5 @@
 var NAVTREEINDEX409 =
 {
-"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200":[7,0,0,0,1,3,6,8,10,1],
-"df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e":[7,0,0,0,1,3,6,8,10,3],
 "df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578":[7,0,0,0,1,3,6,8,10,2],
 "df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5fae":[7,0,0,0,1,3,6,8,7],
 "df/d9a/OutdoorPvPNA_8h.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304":[7,0,0,0,1,3,6,8,7,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX409 =
 "df/da1/classspell__q12730__quenching__mist.html#ac924ebbc893476cabab5f05120d0cd8d":[6,0,3897,2],
 "df/da1/classspell__q12730__quenching__mist.html#ada327cf500aec62fdf34f9d8a4ccd6e2":[6,0,3897,3],
 "df/da1/classspell__q12730__quenching__mist.html#ae0e3b459c71933c25da8136cdcddf200":[6,0,3897,1],
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[6,0,3991]
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[6,0,3991],
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[6,0,3991,1],
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a7009dd0e842898d03caa89e92447749d":[6,0,3991,0]
 };

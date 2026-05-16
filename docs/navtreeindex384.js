@@ -1,7 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"de/d7f/structboss__yazzai.html#ab504de0e51a3715485eb65e006352a6f":[6,0,801,1],
-"de/d80/ServerScript_8cpp.html":[7,0,0,0,1,2,38,0,78],
 "de/d80/ServerScript_8cpp.html#ab647e167a3a2438bcbf1e445e37a9747":[7,0,0,0,1,2,38,0,78,0],
 "de/d80/classAuraScript_1_1EffectSplitHandler.html":[6,0,297,15],
 "de/d80/classAuraScript_1_1EffectSplitHandler.html#a181c0f987789f3725e7ba7e023cfc4e7":[6,0,297,15,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX384 =
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0b18f04fb48020d6be26e18957637ec0":[7,0,0,0,1,3,5,4,2,1,8,6],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a29443597a97bf51f047ffc37ae2740ce":[7,0,0,0,1,3,5,4,2,1,8,1],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a395991212f9fc7d3afc53e536d7e8eb2":[7,0,0,0,1,3,5,4,2,1,8,4],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,2,1,8,2]
+"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,2,1,8,2],
+"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e9720a47d618dccf859a62b85ef6334":[7,0,0,0,1,3,5,4,2,1,8,5],
+"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a831fed24571acbafcd77e28d69c047f8":[7,0,0,0,1,3,5,4,2,1,8,7]
 };

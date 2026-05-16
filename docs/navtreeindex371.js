@@ -1,7 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a141116a0807c07a28d671c06890ad422":[7,0,0,0,1,4,7,103,67],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1a618d89681c70de5f52ae34a78e13ed":[7,0,0,0,1,4,7,103,112],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1c73e94578e3650948e1848854274649":[7,0,0,0,1,4,7,103,16],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1fb0aebfa8eff1985114da3189530817":[7,0,0,0,1,4,7,103,125],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a208ca7d6ebcae9bbe5b68cd4fa2ea3c7":[7,0,0,0,1,4,7,103,56],
@@ -249,5 +247,7 @@ var NAVTREEINDEX371 =
 "de/d0e/structnpc__vekniss__stinger.html#ae7c758687c81cfb223066f0a9348eab8":[6,0,2265,1],
 "de/d0f/structnpc__anubisath__guardian.html":[6,0,1629],
 "de/d0f/structnpc__anubisath__guardian.html#a16d1e70f0ca0fcef972ac45f82e885e6":[6,0,1629,3],
-"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[6,0,1629,1]
+"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[6,0,1629,1],
+"de/d0f/structnpc__anubisath__guardian.html#a69b3b2cee4c84cd6dccd3465b555ad12":[6,0,1629,6],
+"de/d0f/structnpc__anubisath__guardian.html#a7db1771f9083e14c177e37d7bf6690c5":[6,0,1629,0]
 };

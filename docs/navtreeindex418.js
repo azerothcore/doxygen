@@ -1,7 +1,5 @@
 var NAVTREEINDEX418 =
 {
-"df/dd9/classUnit.html#add1638b7cdab94876f38cb33c3874812":[6,0,4528,116],
-"df/dd9/classUnit.html#add77c4101065571410ecb5c2867feff5":[6,0,4528,691],
 "df/dd9/classUnit.html#add8556301b71a52c7ea01a173c8568e3":[6,0,4528,504],
 "df/dd9/classUnit.html#ade15c15b053e8afcba4ed2f06c8d3f81":[6,0,4528,277],
 "df/dd9/classUnit.html#ade4e62c48bf26da6fc1ee071c7e9a933":[6,0,4528,494],
@@ -249,5 +247,7 @@ var NAVTREEINDEX418 =
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298caf899ddee0ea5029085762abeff78b932":[7,0,0,0,1,3,5,6,4,56,12],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cafeb43072f684b2563826e45ac18a6555":[7,0,0,0,1,3,5,6,4,56,14],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a643943fd1d4ba977492feddfa3fed018":[7,0,0,0,1,3,5,6,4,69],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#a6f7794498a43bcf34a1c7fcae34e61e4":[7,0,0,0,1,3,5,6,4,71]
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a6f7794498a43bcf34a1c7fcae34e61e4":[7,0,0,0,1,3,5,6,4,71],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a7223737951358748df19a97099ecedd9":[7,0,0,0,1,3,5,6,4,65],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a76a28cac90f5383e2003c6157fbb689e":[7,0,0,0,1,3,5,6,4,64]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"de/d72/classFollowerAI.html#a83977da1bbd73813e2efa1b594512ece":[6,0,1080,8],
-"de/d72/classFollowerAI.html#a83dec5983277d0b59980b44593332b8f":[6,0,1080,10],
 "de/d72/classFollowerAI.html#a8424220526302983b8770fb5b8883785":[6,0,1080,3],
 "de/d72/classFollowerAI.html#a8594920db87044310ab710e0296be488":[6,0,1080,11],
 "de/d72/classFollowerAI.html#a9d6c390022beeac0777e73062ad73b73":[6,0,1080,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX382 =
 "de/d77/structboss__yoggsaron__brain.html":[6,0,804],
 "de/d77/structboss__yoggsaron__brain.html#a193b18ba9aa03583659002c6a339c0c7":[6,0,804,7],
 "de/d77/structboss__yoggsaron__brain.html#a30593cbb193bf868f99d54279e04d39e":[6,0,804,3],
-"de/d77/structboss__yoggsaron__brain.html#a36521541acc73c7cb67d88dfd7cfe2ab":[6,0,804,0]
+"de/d77/structboss__yoggsaron__brain.html#a36521541acc73c7cb67d88dfd7cfe2ab":[6,0,804,0],
+"de/d77/structboss__yoggsaron__brain.html#a3c0d87cf1dc824321aa02034f800f14b":[6,0,804,12],
+"de/d77/structboss__yoggsaron__brain.html#a58a8dcda9f7f41f061af4cb6b26657fd":[6,0,804,13]
 };

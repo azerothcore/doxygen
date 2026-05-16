@@ -1,7 +1,5 @@
 var NAVTREEINDEX410 =
 {
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[6,0,3991,1],
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a7009dd0e842898d03caa89e92447749d":[6,0,3991,0],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a8f21cb8ab1145fe32a78a682445cfc2d":[6,0,3991,2],
 "df/da1/server_2game_2Time_2GameTime_8cpp.html":[7,0,0,0,1,2,44,0],
 "df/da1/server_2game_2Time_2GameTime_8cpp.html#a443eccf314fe436192278d425d6d8220":[7,0,0,0,1,2,44,0,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX410 =
 "df/da7/classBattleground.html#a77f6397211139bdceca667631ac4b10c":[6,0,328,192],
 "df/da7/classBattleground.html#a780e22fd6af1c9c2ab79572da99b63f2":[6,0,328,82],
 "df/da7/classBattleground.html#a79a1a73e449fb070c02ae1bbee9eff95":[6,0,328,144],
-"df/da7/classBattleground.html#a79eed84f1591d05ebc5d6adb07f82e24":[6,0,328,201]
+"df/da7/classBattleground.html#a79eed84f1591d05ebc5d6adb07f82e24":[6,0,328,201],
+"df/da7/classBattleground.html#a7a7c17250b38807ec3ec78eeb789e34c":[6,0,328,243],
+"df/da7/classBattleground.html#a7aa3e9f8429f44f24cc413dc57469e33":[6,0,328,91]
 };

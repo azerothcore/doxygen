@@ -1,7 +1,5 @@
 var NAVTREEINDEX391 =
 {
-"de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[6,0,2816,1],
-"de/db7/classQueryCallback.html":[6,0,2469],
 "de/db7/classQueryCallback.html#a0c1c3dbbe82846340770760cf9c11aa4":[6,0,2469,17],
 "de/db7/classQueryCallback.html#a127cf43567892ef69ac864862165308a":[6,0,2469,20],
 "de/db7/classQueryCallback.html#a18c36fe01e5bc1ffa92b1ddf9a1873e8":[6,0,2469,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX391 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,0,2,3,4],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4],
 "de/dcb/classspell__gen__bonked.html":[6,0,2993],
-"de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2993,3]
+"de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2993,3],
+"de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[6,0,2993,0],
+"de/dcb/classspell__gen__bonked.html#a7909f23da8385abdabb62e5196d88d38":[6,0,2993,1]
 };

@@ -218,8 +218,8 @@ var NAVTREEINDEX314 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,25],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,25,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,25,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,25,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
@@ -249,5 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d21/structResultIterator.html#aa5abd2b7fa1dc64ac1eb085521b27d6f":[6,0,2521,0],
 "dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[6,0,2521,1],
 "dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[6,0,2521,8],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[5,0,34,7,2]
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[6,0,13,7,2]
 };

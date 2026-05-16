@@ -1,7 +1,5 @@
 var NAVTREEINDEX406 =
 {
-"df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4470,3],
-"df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4470,4],
 "df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[6,0,4470,5],
 "df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4470,1],
 "df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[6,0,4470,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX406 =
 "df/d86/npc__innkeeper_8cpp.html#a6bb09725b9e6b10b76686a9059038e6b":[7,0,0,0,1,3,10,9,3],
 "df/d86/npc__innkeeper_8cpp.html#ad2b2ba30383cca3be221f38a809e2da1":[7,0,0,0,1,3,10,9,6],
 "df/d86/structboss__twilight__corrupter.html":[6,0,764],
-"df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[6,0,764,7]
+"df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[6,0,764,7],
+"df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[6,0,764,5],
+"df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[6,0,764,6]
 };

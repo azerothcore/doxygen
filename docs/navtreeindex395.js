@@ -1,7 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1949,2],
-"de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[6,0,1949,1],
 "de/df9/classspell__warr__slam.html":[6,0,4312],
 "de/df9/classspell__warr__slam.html#a59a04dcfee911c70e13ea8d27b4a49c4":[6,0,4312,1],
 "de/df9/classspell__warr__slam.html#a6c72b4c813368774283ae94036a43ee2":[6,0,4312,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX395 =
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[6,0,3845],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[6,0,3845,0],
 "df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3845,2],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#ac1aacfbd71224d80eaed0b9a76ff673f":[6,0,3845,1]
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#ac1aacfbd71224d80eaed0b9a76ff673f":[6,0,3845,1],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#aded9f2e46cc3bf46f5699ce6fdf154ba":[6,0,3845,3],
+"df/d0e/classnpc__toc__pet__warlock.html":[6,0,2200]
 };

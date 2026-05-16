@@ -1,7 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"de/da9/classMotionTransport.html#a9b6157666f7c73188b3892b4913debb5":[6,0,1553,37],
-"de/da9/classMotionTransport.html#aa6a6cc3f98ecf2938b990ec473825624":[6,0,1553,40],
 "de/da9/classMotionTransport.html#aafc4d2f1a816b8dfec9ccddec69ad392":[6,0,1553,43],
 "de/da9/classMotionTransport.html#abb486c450df28178df2769975f637f5c":[6,0,1553,28],
 "de/da9/classMotionTransport.html#aca8be46b3c7c6631f24f7b1c44f7bb93":[6,0,1553,23],
@@ -249,5 +247,7 @@ var NAVTREEINDEX390 =
 "de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[6,0,335,6],
 "de/db6/classspell__dk__raise__ally__trigger.html":[6,0,2816],
 "de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[6,0,2816,0],
-"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[6,0,2816,2]
+"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[6,0,2816,2],
+"de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[6,0,2816,1],
+"de/db7/classQueryCallback.html":[6,0,2469]
 };
