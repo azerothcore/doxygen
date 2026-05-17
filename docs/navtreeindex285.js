@@ -1,5 +1,7 @@
 var NAVTREEINDEX285 =
 {
+"db/d14/structIpLocationRecord.html#a97d36332086a339e07b73955f23acd57":[6,0,1394,4],
+"db/d14/structIpLocationRecord.html#a9b54a497801e9da396955893473eb7da":[6,0,1394,2],
 "db/d14/structIpLocationRecord.html#acbc8ea139970e7acbad06302d5666eb9":[6,0,1394,3],
 "db/d14/structnpc__necrotic__shard.html":[6,0,1999],
 "db/d14/structnpc__necrotic__shard.html#a0d2d4526d484d7f173d24d5a92b1d3ea":[6,0,1999,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX285 =
 "db/d1d/structboss__ouro.html#aa571cee2fee8a79917f4c63b94a9a1b6":[6,0,663,3],
 "db/d1d/structboss__ouro.html#ab59237535be7a86cb4c0db4819a4d9d5":[6,0,663,11],
 "db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[6,0,663,4],
-"db/d1d/structboss__ouro.html#aee5769af48127617d40fa440d042e434":[6,0,663,5],
-"db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[6,0,663,13],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[6,0,2087,0]
+"db/d1d/structboss__ouro.html#aee5769af48127617d40fa440d042e434":[6,0,663,5]
 };

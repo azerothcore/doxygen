@@ -1,5 +1,7 @@
 var NAVTREEINDEX351 =
 {
+"dd/db3/classReputationMgr.html#ac45cfd285d11d13b1795e72aedb6fc70":[6,0,2513,48],
+"dd/db3/classReputationMgr.html#ad750a9048d218bf3d91c22777f5ec8ca":[6,0,2513,31],
 "dd/db3/classReputationMgr.html#ada7a924a1bb1eea6b8da692ec483c7c6":[6,0,2513,26],
 "dd/db3/classReputationMgr.html#adccb4d5f2a7f79d6211cd0ca3f088a1a":[6,0,2513,24],
 "dd/db3/classReputationMgr.html#aeb082e405284b2dfbc78ff4205fb2575":[6,0,2513,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,4251,1],
 "dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,4251,3],
 "dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
-"dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
-"dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
-"dd/dc9/classboss__festergut.html":[6,0,482]
+"dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0]
 };

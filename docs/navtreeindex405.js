@@ -1,5 +1,8 @@
 var NAVTREEINDEX405 =
 {
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3289,2],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3289,1],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3289,3],
 "df/d6c/classnpc__cult__adherent.html":[6,0,1740],
 "df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1740,2],
 "df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[6,0,1740,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX405 =
 "df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[6,0,4470,2],
 "df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[6,0,4470,9],
 "df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[6,0,4470,8],
-"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[6,0,4470,7],
-"df/d75/classtele__commandscript.html#a7a45fa39afa6bae2359a68b11a504bc5":[6,0,4470,10],
-"df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4470,3],
-"df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4470,4]
+"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[6,0,4470,7]
 };

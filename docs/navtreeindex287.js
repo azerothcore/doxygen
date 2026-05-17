@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[6,0,555,0],
+"db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[6,0,555,1],
 "db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[6,0,555,3],
 "db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[6,0,555,2],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[6,0,765,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d41/structnpc__midsummer__bonfire.html#a9ad2102b2dea60fbb81c1578b97f34dc":[6,0,1976,3],
 "db/d41/structnpc__midsummer__bonfire.html#aa21c9f7a5d7ac29663d94da55ef34373":[6,0,1976,8],
 "db/d41/structnpc__midsummer__bonfire.html#aaa2f2822cb5c104ec2d90c2a344b409d":[6,0,1976,7],
-"db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[6,0,1976,9],
-"db/d41/structnpc__sentinel__leader.html":[6,0,2116],
-"db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[6,0,2116,0]
+"db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[6,0,1976,9]
 };

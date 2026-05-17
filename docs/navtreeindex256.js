@@ -1,5 +1,7 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7acb2638bb40b78607b204fefd94f870cb":[7,0,0,0,1,3,5,9,2,16,8,4],
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ade8daf2d97d89b7bc637c9b5550e0449":[7,0,0,0,1,3,5,9,2,16,8,6],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289":[7,0,0,0,1,3,5,9,2,16,8,5],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78":[7,0,0,0,1,3,5,9,2,16,6],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2811,1],
 "d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2811,2],
 "d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2811,0],
-"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1630],
-"d9/dfa/classnpc__anubisath__sentinel.html#ada1ab0d1857fe52020e798d9710a66cb":[6,0,1630,1],
-"d9/dfa/classnpc__anubisath__sentinel.html#ae19b8ba3766ede8f715dad5ff8d4b2d2":[6,0,1630,2]
+"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1630]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX296 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571acc64f101454999cc0895b0ab90308a88":[7,0,0,0,1,2,16,4,6,42,3],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571acf55569c464f86e224256721fdb35103":[7,0,0,0,1,2,16,4,6,42,10],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ad963d2e23a6071c6c51c307be1eb71fa":[7,0,0,0,1,2,16,4,6,42,6],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571adba86ceaeb379ef8f38f945b42bd38a0":[7,0,0,0,1,2,16,4,6,42,11],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ade011b0c5bb8c2be05c21c8cc6548ddd":[7,0,0,0,1,2,16,4,6,42,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX296 =
 "db/d8b/structboss__doomrel.html#adc8f26522b88ada86c2ee937daa8fbd1":[6,0,441,0],
 "db/d8b/structboss__doomrel.html#af30f3385bb1ca366f335ca3e19849704":[6,0,441,3],
 "db/d8b/structboss__doomrel.html#afb365d8b32d2610b3d398b6f3a1f1bc6":[6,0,441,8],
-"db/d8c/EscortMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,3],
-"db/d8c/classThreadingModel_3_01T_01_4.html":[6,0,4479],
-"db/d8c/classspell__grip.html":[6,0,3136]
+"db/d8c/EscortMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,3]
 };

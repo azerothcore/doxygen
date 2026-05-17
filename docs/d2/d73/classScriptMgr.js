@@ -99,6 +99,7 @@ var classScriptMgr =
     [ "OnBattlefieldBeforeInvitePlayerToWar", "d2/d73/classScriptMgr.html#aa03a97598aaf1102676253b55df6bad7", null ],
     [ "OnBattlefieldPlayerEnterZone", "d2/d73/classScriptMgr.html#ae2ea3c695b6f8606ebefbcc33e095033", null ],
     [ "OnBattlefieldPlayerJoinWar", "d2/d73/classScriptMgr.html#acf56b0416b55ef604689f9933cf8950a", null ],
+    [ "OnBattlefieldPlayerKill", "d2/d73/classScriptMgr.html#a9ed2606106c1c78f0c7127f255bb9205", null ],
     [ "OnBattlefieldPlayerLeaveWar", "d2/d73/classScriptMgr.html#a970a859166d4f4c4ff40f7c3ed1cbefc", null ],
     [ "OnBattlefieldPlayerLeaveZone", "d2/d73/classScriptMgr.html#a3870c5b46969605fecb852e69d10b7b4", null ],
     [ "OnBattlefieldWarEnd", "d2/d73/classScriptMgr.html#a98c4eaae6a50deb0260d1aae61a8cdeb", null ],

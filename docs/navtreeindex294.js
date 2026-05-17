@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"db/d80/structinstance__blackrock__spire.html#afa2d74c5fe90b4b1307ee281af9e21c1":[6,0,1316,29],
+"db/d81/classspell__dk__glyph__of__scourge__strike.html":[6,0,2799],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a12912ba28210850b8bc0b568357794af":[6,0,2799,3],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a1f364414b053ffc92c2a219b713e8c38":[6,0,2799,2],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a9eebffe3b716f7de63bfd6617e6ecf3b":[6,0,2799,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,10],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[7,0,0,0,1,3,5,10,0,4,5],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[7,0,0,0,1,3,5,10,0,4,5,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,13,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2]
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1]
 };

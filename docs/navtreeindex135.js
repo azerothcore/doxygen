@@ -1,5 +1,7 @@
 var NAVTREEINDEX135 =
 {
+"d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbba0652a18b78225e381788c96ee85b3a9b":[7,0,0,0,1,3,5,2,1,3,15,5],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbba8b8244208511a949519a2fcd454c77b1":[7,0,0,0,1,3,5,2,1,3,15,6],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbab8f2ce753aa6bfe428e971a6365b6475":[7,0,0,0,1,3,5,2,1,3,15,4],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40":[7,0,0,0,1,3,5,2,1,3,15,9],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbac328bd5f517220391177df9f3a9706ef":[7,0,0,0,1,3,5,2,1,3,15,2],
@@ -200,8 +202,8 @@ var NAVTREEINDEX135 =
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
-"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
+"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX135 =
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a1239b5e52638938a8a239073551dc5a4":[6,0,1334,0,92],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a124102c1f65323c5fb83dbd9de19f18e":[6,0,1334,0,10],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a12fd7f008267c2e24bc6dfbf3d4248e3":[6,0,1334,0,101],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a138e06735a2a64449ed62e27e7f61b95":[6,0,1334,0,25],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a17704e34784e5d6f22c3384d0b3fb412":[6,0,1334,0,87],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a19accdd3640f0e2726df5bd5cb41e4d2":[6,0,1334,0,62]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a138e06735a2a64449ed62e27e7f61b95":[6,0,1334,0,25]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3473],
+"d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3473,1],
 "d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3473,0],
 "d7/dbd/classspell__item__vanquished__clutches.html#ae012e6852f079682fbafc776dec3455b":[6,0,3473,2],
 "d7/dbd/classspell__item__vanquished__clutches.html#afc10f1989ae4b9cff7527f2d73180cde":[6,0,3473,3],
@@ -236,18 +238,16 @@ var NAVTREEINDEX212 =
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,0,3,2,1],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ab9bde135f246a5737742ca1feb30f6":[7,0,0,0,1,3,2,0,3,2,3],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298cabda9eea4872acb462aa80a0002731e96":[7,0,0,0,1,3,2,0,3,2,2],
-"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,17,7],
 "d7/dc6/classlfg_1_1LfgPlayerData.html":[6,0,5,7],
+"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,17,7],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a1bd7c3b7ca93815a019ae9281d375177":[5,0,17,7,26],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a1bd7c3b7ca93815a019ae9281d375177":[6,0,5,7,26],
-"d7/dc6/classlfg_1_1LfgPlayerData.html#a260d81d65194b4d9ff962e535f9c2315":[5,0,17,7,27],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a260d81d65194b4d9ff962e535f9c2315":[6,0,5,7,27],
+"d7/dc6/classlfg_1_1LfgPlayerData.html#a260d81d65194b4d9ff962e535f9c2315":[5,0,17,7,27],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a30f2af0f974f5c5d6ece2950c32bddc1":[5,0,17,7,11],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a30f2af0f974f5c5d6ece2950c32bddc1":[6,0,5,7,11],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a3499b49fcb473dbeee324cbaf4bce7c4":[6,0,5,7,6],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a3499b49fcb473dbeee324cbaf4bce7c4":[5,0,17,7,6],
-"d7/dc6/classlfg_1_1LfgPlayerData.html#a44134cf95a6a3dd4e313c95eb327cdbc":[6,0,5,7,28],
 "d7/dc6/classlfg_1_1LfgPlayerData.html#a44134cf95a6a3dd4e313c95eb327cdbc":[5,0,17,7,28],
-"d7/dc6/classlfg_1_1LfgPlayerData.html#a4570985d3990f9d85ecb030a1f2a4f82":[5,0,17,7,2],
-"d7/dc6/classlfg_1_1LfgPlayerData.html#a4570985d3990f9d85ecb030a1f2a4f82":[6,0,5,7,2]
+"d7/dc6/classlfg_1_1LfgPlayerData.html#a44134cf95a6a3dd4e313c95eb327cdbc":[6,0,5,7,28]
 };

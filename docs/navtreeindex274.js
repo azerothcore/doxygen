@@ -1,5 +1,7 @@
 var NAVTREEINDEX274 =
 {
+"da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[6,0,1250,7],
+"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[6,0,1250,5],
 "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[6,0,1250,6],
 "da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[6,0,1250,3],
 "da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[6,0,1250,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
 "da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0],
 "da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[4,1,10,1],
-"da/dad/CombatPackets_8cpp.html":[7,0,0,0,1,2,39,0,11],
-"da/dad/structboss__harbinger__skyriss.html":[6,0,537],
-"da/dad/structboss__harbinger__skyriss.html#a045ec2371ad99c3465b8f089eb604e0a":[6,0,537,6]
+"da/dad/CombatPackets_8cpp.html":[7,0,0,0,1,2,39,0,11]
 };

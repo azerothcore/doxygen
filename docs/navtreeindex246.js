@@ -1,5 +1,7 @@
 var NAVTREEINDEX246 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a3019da6347d1347944026c2f27676da6":[7,0,0,0,1,3,5,6,13,4,2],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a4fbad99c5a8c53dc7ec76f285a13e149":[7,0,0,0,1,3,5,6,13,4,6],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a62c29436f7d1aef088d458e74ba14f55":[7,0,0,0,1,3,5,6,13,4,8],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a694cfa84e1dd474b9d48b94bf3ce59b2":[7,0,0,0,1,3,5,6,13,4,9],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a779bcefcd63742e6174041d35f5389fb":[7,0,0,0,1,3,5,6,13,4,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d6d/structboss__vaelastrasz.html#aa73cdc2f26c0710d5d917c4f787a1793":[6,0,771,12],
 "d9/d6d/structboss__vaelastrasz.html#abff4fd6f7f15771b8fccabf4f633c067":[6,0,771,5],
 "d9/d6d/structboss__vaelastrasz.html#ac496730fdeb5e55c125a1880626c76e4":[6,0,771,6],
-"d9/d6d/structboss__vaelastrasz.html#ac742f8acce5060e5496f43900b1e3cc0":[6,0,771,3],
-"d9/d6d/structboss__vaelastrasz.html#acb5c8baf13a39d560447f3e16f07966c":[6,0,771,9],
-"d9/d6d/structboss__vaelastrasz.html#ae1a22491288380cb50264a51e0b624f6":[6,0,771,13]
+"d9/d6d/structboss__vaelastrasz.html#ac742f8acce5060e5496f43900b1e3cc0":[6,0,771,3]
 };

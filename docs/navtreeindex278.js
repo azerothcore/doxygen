@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103af02b0882bd022d38de23cdc52e5cd534":[7,0,0,0,1,2,16,7,5,107,1],
+"da/dbf/Player_8h.html#ad02e5b85aad803acf5ec43c31028d07e":[7,0,0,0,1,2,16,7,5,64],
 "da/dbf/Player_8h.html#ad061a6c6874af01a0dba9f5fe5ad9909":[7,0,0,0,1,2,16,7,5,46],
 "da/dbf/Player_8h.html#ad3dd8ed856e16139eaa67147d40cf24e":[7,0,0,0,1,2,16,7,5,35],
 "da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631":[7,0,0,0,1,2,16,7,5,136],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a50b5e4d1ff3baf4698483f47828ee492":[6,0,1328,0,7],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202":[6,0,1328,0,1],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05":[6,0,1328,0,3],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[6,0,1328,0,10],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a93b651e93e28c63272a8d06d0c521aef":[6,0,1328,0,13],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a9b014cab41720868f61028ef201cadaa":[6,0,1328,0,11]
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[6,0,1328,0,10]
 };

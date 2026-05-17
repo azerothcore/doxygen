@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ce":[7,0,0,0,1,3,2,1,0,14,3],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cea5c4d361adb271b629d0c1cc8dbd7f85d":[7,0,0,0,1,3,2,1,0,14,3,2],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ceaa870a0450434115486a875748b1516ad":[7,0,0,0,1,3,2,1,0,14,3,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cead4b3ebc1d8570c9223664c6afd3b6689":[7,0,0,0,1,3,2,1,0,14,3,3],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ceada3f790355f9def069a5a8fa2b4e3ce4":[7,0,0,0,1,3,2,1,0,14,3,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dd7/AllItemScript_8cpp.html#a9f258d1e2f9fb6ce144923451b63f995":[7,0,0,0,1,2,38,0,16,1],
 "d9/dd7/CreatureAIRegistry_8cpp.html":[7,0,0,0,1,2,3,7],
 "d9/dd7/CreatureAIRegistry_8cpp.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,7,0],
-"d9/dd7/ProcEventInfoHelper_8h.html":[7,0,0,0,2,1,4],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html":[6,0,4181],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a399fc30c23c03d3c4964ec23faed7c18":[6,0,4181,2]
+"d9/dd7/ProcEventInfoHelper_8h.html":[7,0,0,0,2,1,4]
 };

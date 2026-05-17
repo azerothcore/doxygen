@@ -1,5 +1,6 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0e6b326b3c8102dd711c002537f2c339":[6,0,2061,0,7],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a1d43b002628080d5faf2fd59347a7f79":[6,0,2061,0,5],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a30d65bc3625ed22e11ed7e040451643c":[6,0,2061,0,9],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a5d7a324073cfdbd01ae267964959f15b":[6,0,2061,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a7a74ea4ffeca2826ffa10f7b4e586ab5":[6,0,4385,123],
 "d2/de9/classSpellInfo.html#a7b1e55eb305977d80f0f5dbabf4e2ae2":[6,0,4385,22],
 "d2/de9/classSpellInfo.html#a7d20c900cea6e14c29e20434282f0d6f":[6,0,4385,108],
-"d2/de9/classSpellInfo.html#a7e496d4dc01e50c75feab5c951c17894":[6,0,4385,13],
-"d2/de9/classSpellInfo.html#a7f41763dc08f0ec7435bbbfc9c30ac2b":[6,0,4385,148]
+"d2/de9/classSpellInfo.html#a7e496d4dc01e50c75feab5c951c17894":[6,0,4385,13]
 };

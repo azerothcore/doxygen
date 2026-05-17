@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html":[6,0,1353,0],
+"dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a010079e135c41de850419149ec2857f3":[6,0,1353,0,18],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a1025fdcd1b84e5d2c4eaa79d918ecd78":[6,0,1353,0,15],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a12de9882d8e71f68e7b52e4b3972dca4":[6,0,1353,0,1],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2":[6,0,1353,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47cdf4e03ced76b0d17a26165994f220":[7,0,0,0,1,3,7,5,3,1,1,1],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,3,1,1,2],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1acf921de439ae53b12be3c6c7b63438b8":[7,0,0,0,1,3,7,5,3,1,1,4],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a490f828a77063f37fdf34abf92a3d97c":[7,0,0,0,1,3,7,5,3,1,3],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,3,1,2],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a5bd342133be8c2137b831460acc9298caa6fc14e6b55e16bf23eda6475bd8ae17":[7,0,0,0,1,3,7,5,3,1,2,2]
+"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a490f828a77063f37fdf34abf92a3d97c":[7,0,0,0,1,3,7,5,3,1,3]
 };

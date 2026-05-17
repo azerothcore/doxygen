@@ -1,5 +1,8 @@
 var NAVTREEINDEX413 =
 {
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aea2ab8bf79d6fcc3d2036d160274fab8":[6,0,1964,0,1],
+"df/dbf/classpet__commandscript.html":[6,0,2388],
+"df/dbf/classpet__commandscript.html#a01026a4936774d2225d10e0f6e27b08c":[6,0,2388,1],
 "df/dbf/classpet__commandscript.html#a59a2a6bd9af23fe3a775319216337bda":[6,0,2388,4],
 "df/dbf/classpet__commandscript.html#a728201526e905b025aba5e6b030c288b":[6,0,2388,3],
 "df/dbf/classpet__commandscript.html#a84595dcb908398e80deee0b0aa47e335":[6,0,2388,0],
@@ -102,8 +105,8 @@ var NAVTREEINDEX413 =
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,13,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,13,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,13,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[6,0,819],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[6,0,819,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[6,0,819,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd3/structboss__yoggsaron__influence__tentacle.html":[6,0,813],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[6,0,813,1],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[6,0,813,2],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,813,0],
-"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,1],
-"df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3896],
-"df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3896,2]
+"df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,813,0]
 };

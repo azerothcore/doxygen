@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1":[6,0,2016,0,6],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[6,0,2016,0,2],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#afc6c4faffd83b2fa4ddbb4ae78b622d9":[6,0,2016,0,3],
 "d6/ddb/boss__garr_8cpp.html":[7,0,0,0,1,3,2,1,3,1],
 "d6/ddb/boss__garr_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,1,5],
@@ -246,8 +248,6 @@ var NAVTREEINDEX189 =
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,13,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,13,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,13,11,0,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,13,11,0,0]
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2]
 };

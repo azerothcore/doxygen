@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d66/classGameObjectAI.html#ac129aa1ba32e0cfb0f6f3d1bb116f5d7":[6,0,1103,22],
+"d6/d66/classGameObjectAI.html#ad095f556d61abd78c18269344431080a":[6,0,1103,1],
 "d6/d66/classGameObjectAI.html#ad1f196822d40d0fb7325d8945a3e30dc":[6,0,1103,11],
 "d6/d66/classGameObjectAI.html#ad6552cf333273f5c68ffc936748b8e46":[6,0,1103,7],
 "d6/d66/classGameObjectAI.html#ad8b835bdd79598da6683c40501df5903":[6,0,1103,10],
@@ -236,8 +238,8 @@ var NAVTREEINDEX179 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3131,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1981],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1981,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1981,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d73/structnpc__mimirons__inferno.html#a7a0be8291200404285277c3689c54106":[6,0,1981,12],
 "d6/d73/structnpc__mimirons__inferno.html#a9b5176d6f1712d36283b0ebeeddee5b2":[6,0,1981,6],
 "d6/d73/structnpc__mimirons__inferno.html#ac74ee90383d6ac140d6187c6115716ed":[6,0,1981,10],
-"d6/d73/structnpc__mimirons__inferno.html#acc2e756af50ebde8300c46ec6f369760":[6,0,1981,4],
-"d6/d73/structnpc__mimirons__inferno.html#ade97188bb54f7b5a15a8a596355e4170":[6,0,1981,2],
-"d6/d73/structnpc__mimirons__inferno.html#aedcded9302c0cb9e29475f471bd0612e":[6,0,1981,0]
+"d6/d73/structnpc__mimirons__inferno.html#acc2e756af50ebde8300c46ec6f369760":[6,0,1981,4]
 };

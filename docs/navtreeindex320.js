@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aaba18bbaee9f7886f4a60c43ee6d2c85":[5,0,28,6,12],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aac6f56890ec729d186b9ad1f1d950d94":[5,0,28,6,535],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aacb47f263ae3f5f900b32ca395998391":[5,0,28,6,324],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aacca7cd4e572e4843909b76da86608b7":[5,0,28,6,102],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aad643e5f21359db21f2bf8d103f1e5ce":[5,0,28,6,78],
@@ -247,7 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,28,1],
 "dc/d38/classspell__ahune__spanky__hands.html":[6,0,2607],
 "dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[6,0,2607,0],
-"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2607,1],
-"dc/d38/classspell__ahune__spanky__hands.html#a804e1bc3d570d28cb2e06155054f3169":[6,0,2607,2],
-"dc/d38/classspell__ahune__spanky__hands.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb":[6,0,2607,3]
+"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2607,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX252 =
 {
+"d9/daf/classspell__eredar__twins__flame__sear.html":[6,0,2928],
+"d9/daf/classspell__eredar__twins__flame__sear.html#a0fb177c467c2582e6b66ceae51780d6c":[6,0,2928,1],
 "d9/daf/classspell__eredar__twins__flame__sear.html#a39f8a11194fe19a14d25b30faaa6cf42":[6,0,2928,2],
 "d9/daf/classspell__eredar__twins__flame__sear.html#a78675c3421e0243de9e136b646c56be1":[6,0,2928,0],
 "d9/db0/structnpc__gunship__boarding__add_1_1npc__gunship__boarding__add__realAI.html":[6,0,1842,0],
@@ -20,12 +22,12 @@ var NAVTREEINDEX252 =
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a1aff3d0a28a12f0e4ee10bca376f335c":[5,0,0,7,1,4],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a216aaf4eed90eeb05662631e8f89b4ab":[6,0,0,4,1,3],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a216aaf4eed90eeb05662631e8f89b4ab":[5,0,0,7,1,3],
-"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a4eae1ba9b211d8c8307000ddae428348":[6,0,0,4,1,2],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a4eae1ba9b211d8c8307000ddae428348":[5,0,0,7,1,2],
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a4eae1ba9b211d8c8307000ddae428348":[6,0,0,4,1,2],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[6,0,0,4,1,6],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[5,0,0,7,1,6],
-"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[5,0,0,7,1,5],
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[6,0,0,4,1,5],
 "d9/db4/classnpc__giant__spotlight.html":[6,0,1829],
 "d9/db4/classnpc__giant__spotlight.html#a9d1c47de758c74a89c751b675d5cc4c0":[6,0,1829,1],
 "d9/db4/classnpc__giant__spotlight.html#af002a3d0194c991c1f78c720de63cfea":[6,0,1829,2],
@@ -168,8 +170,8 @@ var NAVTREEINDEX252 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1225,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1225,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1225,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,123],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,0,135],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,123],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,123,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,0,135,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX252 =
 "d9/dc6/classspell__warl__demonic__circle__summon.html#ad35d90e5cdd68f4c1d3172a0860274bd":[6,0,4248,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html":[7,0,0,0,1,3,2,1,0,14],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,1,0,14,5],
-"d9/dc7/boss__tomb__of__seven_8cpp.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ce":[7,0,0,0,1,3,2,1,0,14,3],
-"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cea5c4d361adb271b629d0c1cc8dbd7f85d":[7,0,0,0,1,3,2,1,0,14,3,2]
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e":[7,0,0,0,1,3,2,1,0,14,5,0]
 };

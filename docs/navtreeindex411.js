@@ -1,5 +1,8 @@
 var NAVTREEINDEX411 =
 {
+"df/da7/classBattleground.html#a79eed84f1591d05ebc5d6adb07f82e24":[6,0,328,201],
+"df/da7/classBattleground.html#a7a7c17250b38807ec3ec78eeb789e34c":[6,0,328,243],
+"df/da7/classBattleground.html#a7aa3e9f8429f44f24cc413dc57469e33":[6,0,328,91],
 "df/da7/classBattleground.html#a7b203e7f42f2235b993ea3a1f0b24cd7":[6,0,328,100],
 "df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,328,245],
 "df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,328,215],
@@ -121,8 +124,8 @@ var NAVTREEINDEX411 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,328,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,328,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,328,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,13,2,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,13,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,13,2,9,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX411 =
 "df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1238,2],
 "df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1238,1],
 "df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[6,0,1238,0],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,527,0],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a0d68b84c035bb8b4b16075116a6d7992":[6,0,527,0,5],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b":[6,0,527,0,4],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,527,0,11]
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,527,0]
 };

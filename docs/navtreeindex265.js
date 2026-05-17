@@ -1,5 +1,7 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a6bec23f0ba4dfbe20cd1982b69f64b79":[7,0,0,0,1,3,5,12,9,7,1],
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a776b63418d45c9c3501049f754fc0bf0":[7,0,0,0,1,3,5,12,9,7,2],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a814d3c25fcbfae4755942da0fdab46c8":[7,0,0,0,1,3,5,12,9,7,19],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a8203e2ecd1b07acc4b7536e641ee5029":[7,0,0,0,1,3,5,12,9,7,3],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a862f0c9134c86e397112353ef49530a7":[7,0,0,0,1,3,5,12,9,7,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX265 =
 "da/d57/classspell__xt002__gravity__bomb__aura.html#a63b654cf540e331e4d2b4f4ece5c1fcc":[6,0,4338,2],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#aa49d1186ca6f5cdd628728a8a30c06a0":[6,0,4338,0],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#aa56622a1e57c157260940023a6c70a35":[6,0,4338,4],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,4338,1],
-"da/d58/classVMAP_1_1IVMapMgr.html":[6,0,11,7],
-"da/d58/classVMAP_1_1IVMapMgr.html":[5,0,31,7]
+"da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,4338,1]
 };

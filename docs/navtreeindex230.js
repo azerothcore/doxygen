@@ -1,5 +1,7 @@
 var NAVTREEINDEX230 =
 {
+"d8/d94/classTradeData.html#a420249fcbb7394f16009861ccdb6962a":[6,0,4494,8],
+"d8/d94/classTradeData.html#a4851016708b0e8336ec33c64ab41aa8a":[6,0,4494,13],
 "d8/d94/classTradeData.html#a4d2719632d13db74da5f8246c48039e5":[6,0,4494,20],
 "d8/d94/classTradeData.html#a54d3de8cb15ccc761d272295b19b7575":[6,0,4494,2],
 "d8/d94/classTradeData.html#a6bc7a8ef2633aaff03381e3eeeb0b2af":[6,0,4494,12],
@@ -85,8 +87,8 @@ var NAVTREEINDEX230 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1685,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,13,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,13,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,13,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,13,3,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX230 =
 "d8/da6/structboss__eregos_1_1boss__eregosAI.html#aeec469c2c9d0ad27461478ee57c30c56":[6,0,463,0,7],
 "d8/da7/classMMAP_1_1Config.html":[5,0,20,0],
 "d8/da7/classMMAP_1_1Config.html":[6,0,6,0],
-"d8/da7/classMMAP_1_1Config.html#a0e8b13fa0248da75567c086132f211ad":[5,0,20,0,18],
-"d8/da7/classMMAP_1_1Config.html#a0e8b13fa0248da75567c086132f211ad":[6,0,6,0,18],
-"d8/da7/classMMAP_1_1Config.html#a0f3def21b18d71a4c78d082fc24e5c77":[6,0,6,0,9]
+"d8/da7/classMMAP_1_1Config.html#a0e8b13fa0248da75567c086132f211ad":[6,0,6,0,18]
 };

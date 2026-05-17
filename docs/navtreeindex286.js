@@ -1,5 +1,7 @@
 var NAVTREEINDEX286 =
 {
+"db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[6,0,663,13],
+"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[6,0,2087,0],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a16ab37be9e31dcfc159b5c78b196b847":[6,0,2087,0,1],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a1c85351ae62d5f45381214373e64aec4":[6,0,2087,0,0],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a64beac4aafa9e9bb2089a7c1e35fe8a5":[6,0,2087,0,6],
@@ -58,8 +60,8 @@ var NAVTREEINDEX286 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
@@ -79,8 +81,8 @@ var NAVTREEINDEX286 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1903,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,13,6,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX286 =
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2412,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2412,0],
 "db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2412,2],
-"db/d30/structboss__hydromancer__thespia.html":[6,0,555],
-"db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[6,0,555,0],
-"db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[6,0,555,1]
+"db/d30/structboss__hydromancer__thespia.html":[6,0,555]
 };

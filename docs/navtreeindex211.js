@@ -1,5 +1,7 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea8b663a873cd867f7ef2458a358a95b9c":[6,0,1500,7,2],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea8bd81a4ca3ae420d76a8ea187695b93f":[6,0,1500,7,4],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceaa713ae5d9139144511c533847d7d80db":[6,0,1500,7,7],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceacf70c5ddd4124f52e9bf48013b1f90ef":[6,0,1500,7,3],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cead1d1fbf1474b770bc90c6dd83df0c13d":[6,0,1500,7,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX211 =
 "d7/dbc/structnpc__wild__wyrm.html#adcc805b0880d95c185af4a587474c2d2":[6,0,2288,3],
 "d7/dbc/structnpc__wild__wyrm.html#ade2cc59d0afcf5ebfd7c6fbd694e0809":[6,0,2288,10],
 "d7/dbc/structnpc__wild__wyrm.html#aeaa4f0327f06ee67a63fd15b914ffac8":[6,0,2288,4],
-"d7/dbc/structnpc__wild__wyrm.html#afdd165233995f79aa9ec82d7c2c1f258":[6,0,2288,2],
-"d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3473],
-"d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3473,1]
+"d7/dbc/structnpc__wild__wyrm.html#afdd165233995f79aa9ec82d7c2c1f258":[6,0,2288,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"d6/d14/structGameObjectDisplayInfoEntry.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da":[6,0,1107,5],
+"d6/d14/structGameObjectDisplayInfoEntry.html#ac88aefc2530212b9dff10e018c4e9305":[6,0,1107,7],
 "d6/d14/structGameObjectDisplayInfoEntry.html#acb74e32790b2c60cca5faef1caa225e4":[6,0,1107,4],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html":[6,0,2972],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html#a859ac50e6774471c232113e5c007f602":[6,0,2972,1],
@@ -33,10 +35,10 @@ var NAVTREEINDEX170 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1370,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,13,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,13,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,13,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2822,2],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2822,1],
 "d6/d1d/classArenaScript.html":[6,0,189],
-"d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[6,0,189,8],
-"d6/d1d/classArenaScript.html#a164257b5ed4a0808d709870cdf73ed3b":[6,0,189,3],
-"d6/d1d/classArenaScript.html#a2b46190a3243f2306a74295975dca317":[6,0,189,6]
+"d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[6,0,189,8]
 };

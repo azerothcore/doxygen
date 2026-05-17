@@ -1,5 +1,8 @@
 var NAVTREEINDEX406 =
 {
+"df/d75/classtele__commandscript.html#a7a45fa39afa6bae2359a68b11a504bc5":[6,0,4470,10],
+"df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4470,3],
+"df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4470,4],
 "df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[6,0,4470,5],
 "df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[6,0,4470,1],
 "df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[6,0,4470,6],
@@ -34,8 +37,8 @@ var NAVTREEINDEX406 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2841,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2841,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2841,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,119],
 "df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,107],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,119],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2797],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2797,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2797,1],
@@ -221,14 +224,14 @@ var NAVTREEINDEX406 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,443,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,443,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,443,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,13,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,13,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,13,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,13,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
 "df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2076],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2076,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2076,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX406 =
 "df/d86/npc__innkeeper_8cpp.html#a3ffce1ea6cca981888af85ba67364df9":[7,0,0,0,1,3,10,9,1],
 "df/d86/npc__innkeeper_8cpp.html#a6bb09725b9e6b10b76686a9059038e6b":[7,0,0,0,1,3,10,9,3],
 "df/d86/npc__innkeeper_8cpp.html#ad2b2ba30383cca3be221f38a809e2da1":[7,0,0,0,1,3,10,9,6],
-"df/d86/structboss__twilight__corrupter.html":[6,0,764],
-"df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[6,0,764,7],
-"df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[6,0,764,5],
-"df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[6,0,764,6]
+"df/d86/structboss__twilight__corrupter.html":[6,0,764]
 };

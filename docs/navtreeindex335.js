@@ -1,5 +1,7 @@
 var NAVTREEINDEX335 =
 {
+"dc/dfb/classUpdateTime.html#a61337ef6e640cd4ce48019ba6cd4fafd":[6,0,4542,12],
+"dc/dfb/classUpdateTime.html#a65ff51e1503e11ac8f218876afb7afce":[6,0,4542,13],
 "dc/dfb/classUpdateTime.html#a6cf15deccacbceff85216c7ceecd98b3":[6,0,4542,17],
 "dc/dfb/classUpdateTime.html#a8736328e4f88bad027298a6d0bbf416c":[6,0,4542,18],
 "dc/dfb/classUpdateTime.html#a8837b608acde446f1eda813ca530c63f":[6,0,4542,11],
@@ -215,12 +217,12 @@ var NAVTREEINDEX335 =
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,17,15],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
+"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,17,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,17,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2918],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2918,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2918,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX335 =
 "dd/d0a/structGtOCTRegenHPEntry.html":[6,0,1264],
 "dd/d0a/structGtOCTRegenHPEntry.html#ac22c096d41c6fb7ebdc824fc1ca8601b":[6,0,1264,0],
 "dd/d0b/classPetScript.html":[6,0,2397],
-"dd/d0b/classPetScript.html#a1263b06233902fbede9fc5df80cc8ad4":[6,0,2397,5],
-"dd/d0b/classPetScript.html#a16fae7cdf068c6e3d9e46882548d4c20":[6,0,2397,4],
-"dd/d0b/classPetScript.html#a3012323c5c1424512b611b6956a32554":[6,0,2397,7]
+"dd/d0b/classPetScript.html#a1263b06233902fbede9fc5df80cc8ad4":[6,0,2397,5]
 };

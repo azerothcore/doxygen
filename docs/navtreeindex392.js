@@ -1,5 +1,8 @@
 var NAVTREEINDEX392 =
 {
+"de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2993,3],
+"de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[6,0,2993,0],
+"de/dcb/classspell__gen__bonked.html#a7909f23da8385abdabb62e5196d88d38":[6,0,2993,1],
 "de/dcb/classspell__gen__bonked.html#aa45c1c80f137dd90b5f0e06e19f09da6":[6,0,2993,2],
 "de/dcb/classspell__item__impale__leviroth.html":[6,0,3380],
 "de/dcb/classspell__item__impale__leviroth.html#a24610d5652ef85e883b1bac9256b30f7":[6,0,3380,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX392 =
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,3104,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,3104,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,3104,2],
-"de/de0/structSpellClickInfo.html":[6,0,4370],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4370,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4370,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4370,0]
+"de/de0/structSpellClickInfo.html":[6,0,4370]
 };

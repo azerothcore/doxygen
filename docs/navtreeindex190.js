@@ -1,15 +1,17 @@
 var NAVTREEINDEX190 =
 {
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,13,11,0,0],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
 "d6/dec/classachievement__bg__sa__artillery.html":[6,0,46],
 "d6/dec/classachievement__bg__sa__artillery.html#aa81ae215bc91fd4598d7c9a1b02e3fcc":[6,0,46,0],
 "d6/dec/classachievement__bg__sa__artillery.html#ac24f32f872ae32e90f06f642ea2dfebc":[6,0,46,1],
 "d6/dec/classinstance__onyxias__lair.html":[6,0,1347],
 "d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1347,1],
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1347,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,108],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,96],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,108,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,108],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,96,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,108,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,108,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,96,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,0,108,4],
@@ -126,8 +128,8 @@ var NAVTREEINDEX190 =
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,0,2,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,0,2,8,1],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,0,2,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
 "d6/def/structnpc__hor__risen__witch__doctor.html":[6,0,1872],
 "d6/def/structnpc__hor__risen__witch__doctor.html#a63b9343146a8c950f5d31f21cd5f4838":[6,0,1872,3],
 "d6/def/structnpc__hor__risen__witch__doctor.html#a68e2913f88427b1d6cb35351d9b749a0":[6,0,1872,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX190 =
 "d6/df5/classSummonList.html#a92d001f7f8ec8b9c1ee3a95bf0d88ac4":[6,0,4451,14],
 "d6/df5/classSummonList.html#a9c8fd42d34e0a3ac1cb64013f45d012a":[6,0,4451,29],
 "d6/df5/classSummonList.html#aa48913073174e466d097a92c3ef8ae15":[6,0,4451,7],
-"d6/df5/classSummonList.html#aa95281463f4efdbeede71960d56c1b3c":[6,0,4451,23],
-"d6/df5/classSummonList.html#aae5b8c082e5444b252ae8ed5d206c914":[6,0,4451,3],
-"d6/df5/classSummonList.html#acbb55ee12b8de0065b2d9f73c90ef16a":[6,0,4451,19]
+"d6/df5/classSummonList.html#aa95281463f4efdbeede71960d56c1b3c":[6,0,4451,23]
 };

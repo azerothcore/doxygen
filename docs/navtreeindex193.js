@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d17/classspell__pal__spiritual__attunement.html":[6,0,3738],
+"d7/d17/classspell__pal__spiritual__attunement.html#a2e7c3b219786c4328c6f5de2b4e6b684":[6,0,3738,0],
 "d7/d17/classspell__pal__spiritual__attunement.html#ab8c2f9f3f3750419ad62d72e284bf3b1":[6,0,3738,2],
 "d7/d17/classspell__pal__spiritual__attunement.html#ac564fc88a0cfe410b7caaeed639b5258":[6,0,3738,1],
 "d7/d17/classspell__pal__spiritual__attunement.html#ac5bb4e949f4a7b86b41861777f86bd7a":[6,0,3738,3],
@@ -75,8 +77,8 @@ var NAVTREEINDEX193 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2277,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2277,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2277,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d23/structboss__magus__telestra.html#ac48bb325de6641a1f2f980f15b8e3eb4":[6,0,620,8],
 "d7/d23/structboss__magus__telestra.html#ac69759755637749a58f712b86d3bf9ac":[6,0,620,3],
 "d7/d23/structboss__magus__telestra.html#ac8ee0c8ac0bafa479ef6c3669c8aa430":[6,0,620,0],
-"d7/d23/structboss__magus__telestra.html#acd365d6bcc1e526e59344c1a907d0eeb":[6,0,620,9],
-"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html":[6,0,714,0],
-"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a53127766553d1bee4d7331e6f4fcda05":[6,0,714,0,0]
+"d7/d23/structboss__magus__telestra.html#acd365d6bcc1e526e59344c1a907d0eeb":[6,0,620,9]
 };

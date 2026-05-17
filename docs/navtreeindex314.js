@@ -1,5 +1,7 @@
 var NAVTREEINDEX314 =
 {
+"dc/d0d/cs__disable_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[7,0,0,0,1,3,0,13,1],
+"dc/d0d/structboss__kurinnaxx.html":[6,0,601],
 "dc/d0d/structboss__kurinnaxx.html#a0e249007d5bf29eb0cff307045ef9eb3":[6,0,601,1],
 "dc/d0d/structboss__kurinnaxx.html#a451cd7ee80b0428a199c33012562bdb3":[6,0,601,3],
 "dc/d0d/structboss__kurinnaxx.html#aa8b471e6239080b2a5f70e50e07a9621":[6,0,601,0],
@@ -220,8 +222,8 @@ var NAVTREEINDEX314 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,25,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,25,1],
 "dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[7,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[7,0,0,0,1,3,2,1,0,4,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d21/structResultIterator.html#a56f56c284c3001703ec4ee6ac705066f":[6,0,2521,6],
 "dc/d21/structResultIterator.html#aa4866b181d8cd3264394657a2dac99a8":[6,0,2521,4],
 "dc/d21/structResultIterator.html#aa5abd2b7fa1dc64ac1eb085521b27d6f":[6,0,2521,0],
-"dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[6,0,2521,1],
-"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[6,0,2521,8],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[6,0,13,7,2]
+"dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[6,0,2521,1]
 };

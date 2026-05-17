@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dd/d47/classspell__hun__kill__command__pet.html#a2bade504b1ab2c2869ecaf8873864d19":[6,0,3217,2],
+"dd/d47/classspell__hun__kill__command__pet.html#a675a17a574539f2da85a5401afc18fec":[6,0,3217,0],
 "dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[6,0,3217,1],
 "dd/d47/classspell__hun__kill__command__pet.html#aec327c219229ae9d59cb491eef2d95d3":[6,0,3217,3],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
@@ -37,16 +39,16 @@ var NAVTREEINDEX342 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[7,0,0,0,1,3,2,1,1,1,1,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,1,5],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,13,8,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,34,8,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,13,8,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,13,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,34,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,13,8,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,34,8,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,13,8,2,3],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,13,8,2,4],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,34,8,2,4],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,13,8,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,13,8,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,34,8,2,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html":[6,0,2929],
@@ -54,8 +56,8 @@ var NAVTREEINDEX342 =
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[6,0,2929,0],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[6,0,2929,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[6,0,2929,3],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[6,0,13,7,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[6,0,13,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[6,0,13,7,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,9,7,7,4],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,4,9,7,7,2],
 "dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,4,9,7,7,1],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,4,9,7,7,3],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,4,9,7,7,5],
-"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,4,9,7,7,0]
+"dd/d58/boss__twinemperors_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,4,9,7,7,3]
 };
