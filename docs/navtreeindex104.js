@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d86/classnpc__belnistrasz.html#aac9d4389ec1c88be9afb6b9a828da511":[6,0,1667,2],
+"d3/d86/classnpc__grizzlemaw__cw__trigger.html":[6,0,1838],
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html#a1a834bda866033a3cca4fc4ece447313":[6,0,1838,2],
 "d3/d86/classnpc__grizzlemaw__cw__trigger.html#a4514796784d974ba6de09b5a5d4e5f3b":[6,0,1838,1],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html":[6,0,1680,0],
@@ -18,8 +20,8 @@ var NAVTREEINDEX104 =
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[6,0,13,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,34,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[6,0,13,1,1,2],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[6,0,13,1,1,3],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[6,0,13,1,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
 "d3/d88/structTotemCategoryEntry.html":[6,0,4493],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d92/classGameEventMgr.html#a733cc959fd929bb86442c44fa2cb3ef9":[6,0,1098,71],
 "d3/d92/classGameEventMgr.html#a74e24c7e1d8b7de14f3dbb674666458e":[6,0,1098,47],
 "d3/d92/classGameEventMgr.html#a805c0247fd9b7c6d180983c15aae1b7a":[6,0,1098,72],
-"d3/d92/classGameEventMgr.html#a80b13a07fe3a03f97ad5b25aa6a07668":[6,0,1098,79],
-"d3/d92/classGameEventMgr.html#a83691a873d7652ad358f5ef39183746b":[6,0,1098,61],
-"d3/d92/classGameEventMgr.html#a87c8e7e044ee8336e49bd6e1d24dcb50":[6,0,1098,3]
+"d3/d92/classGameEventMgr.html#a80b13a07fe3a03f97ad5b25aa6a07668":[6,0,1098,79]
 };

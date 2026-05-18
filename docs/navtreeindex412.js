@@ -1,5 +1,12 @@
 var NAVTREEINDEX412 =
 {
+"df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[6,0,3746,6],
+"df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[6,0,3746,2],
+"df/db1/structGraveyardData.html":[6,0,1238],
+"df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[6,0,1238,2],
+"df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[6,0,1238,1],
+"df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[6,0,1238,0],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html":[6,0,527,0],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a0d68b84c035bb8b4b16075116a6d7992":[6,0,527,0,5],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b":[6,0,527,0,4],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,527,0,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX412 =
 "df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,839,1],
 "df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,839,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1964,0],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1964,0,6],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1964,0,7],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1964,0,4],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1964,0,5],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1964,0,2],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1964,0,3],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1964,0,8],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1964,0,0]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1964,0,6]
 };

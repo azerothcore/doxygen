@@ -1,5 +1,9 @@
 var NAVTREEINDEX160 =
 {
+"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8":[7,0,0,0,1,3,5,2,0,0,11],
+"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a692f5a65959d73e4e70a6be60c044783":[7,0,0,0,1,3,5,2,0,0,11,4],
+"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a6e884319a5fb4505ce978e9a48d2a495":[7,0,0,0,1,3,5,2,0,0,11,6],
+"d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a73ec4ff3bff0fb021586914fb70fd5d8":[7,0,0,0,1,3,5,2,0,0,11,8],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a95f65e897bf3033957c92991c57edaf0":[7,0,0,0,1,3,5,2,0,0,11,0],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9e6ced592ea753b1748f3d2e699d31ca":[7,0,0,0,1,3,5,2,0,0,11,1],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9ea437042a10c82e88506979c3c73b3a":[7,0,0,0,1,3,5,2,0,0,11,3],
@@ -95,10 +99,10 @@ var NAVTREEINDEX160 =
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,94,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,106,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,94,1],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,94,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,106,4],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[6,0,0,94,3],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,94,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,106,3],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[6,0,0,94,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,106,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[6,0,0,94,5],
 "d5/dc0/classspell__marli__transform.html":[6,0,3617],
@@ -245,9 +249,5 @@ var NAVTREEINDEX160 =
 "d5/dc7/structSpellEntry.html#a41f24a61783934032d45bc51b4ec670a":[6,0,4379,81],
 "d5/dc7/structSpellEntry.html#a43b825d0ab18a266e5ba77aa377f2abf":[6,0,4379,13],
 "d5/dc7/structSpellEntry.html#a49eb4616c736244efc402a95e9d81e80":[6,0,4379,3],
-"d5/dc7/structSpellEntry.html#a547483232364773502ba3fdf0a7237c0":[6,0,4379,30],
-"d5/dc7/structSpellEntry.html#a55c280507723beda2c6acfcbfbb99af0":[6,0,4379,37],
-"d5/dc7/structSpellEntry.html#a571b45c241961a3a0006b21d1f1ca29b":[6,0,4379,32],
-"d5/dc7/structSpellEntry.html#a593be50e34ea423f15a28f71a48a1e54":[6,0,4379,27],
-"d5/dc7/structSpellEntry.html#a5d389c378263cdd630baaee4ff27f0f7":[6,0,4379,77]
+"d5/dc7/structSpellEntry.html#a547483232364773502ba3fdf0a7237c0":[6,0,4379,30]
 };

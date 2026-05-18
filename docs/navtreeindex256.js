@@ -1,5 +1,9 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a2f4bad90049534d435ac9d2d9b495761":[7,0,0,0,1,3,5,9,2,16,8,1],
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe":[7,0,0,0,1,3,5,9,2,16,8,2],
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7aa1d994044e6428793c48b48a5eeb04de":[7,0,0,0,1,3,5,9,2,16,8,3],
+"d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ab86bd79b912a9756639960ba251cb388":[7,0,0,0,1,3,5,9,2,16,8,0],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7acb2638bb40b78607b204fefd94f870cb":[7,0,0,0,1,3,5,9,2,16,8,4],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ade8daf2d97d89b7bc637c9b5550e0449":[7,0,0,0,1,3,5,9,2,16,8,6],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289":[7,0,0,0,1,3,5,9,2,16,8,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1332,2],
 "d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1332,1],
 "d9/df9/classspell__dk__pestilence.html":[6,0,2811],
-"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[6,0,2811,3],
-"d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2811,1],
-"d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2811,2],
-"d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2811,0],
-"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1630]
+"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[6,0,2811,3]
 };

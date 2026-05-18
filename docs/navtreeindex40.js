@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/dab/classnpc__wintergarde__gryphon.html#a7f20f5e124e013ad8f57ca31b9fb86d7":[6,0,2290,1],
 "d1/dab/classnpc__wintergarde__gryphon.html#a8f2faf49533d27d971110681e050c060":[6,0,2290,4],
 "d1/dab/classnpc__wintergarde__gryphon.html#aa161f280e7a7370696cecc27c51ee55c":[6,0,2290,7],
 "d1/dab/classnpc__wintergarde__gryphon.html#acd7cea6226034d53b854c5ed659ff949":[6,0,2290,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed":[7,0,0,0,1,2,16,10,5,21],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930":[7,0,0,0,1,2,16,10,5,41],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a1508cd45d5170a4c0e0b322cf862a5ae":[7,0,0,0,1,2,16,10,5,41,2],
-"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a686cebb344da5f1a40407c2feb03d2da":[7,0,0,0,1,2,16,10,5,41,0],
-"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a6a87e4624cd0ceb45668005528094937":[7,0,0,0,1,2,16,10,5,41,4]
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a686cebb344da5f1a40407c2feb03d2da":[7,0,0,0,1,2,16,10,5,41,0]
 };

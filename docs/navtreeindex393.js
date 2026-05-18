@@ -1,5 +1,12 @@
 var NAVTREEINDEX393 =
 {
+"de/de0/classspell__gen__steal__weapon.html":[6,0,3104],
+"de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[6,0,3104,4],
+"de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[6,0,3104,1],
+"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,3104,3],
+"de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,3104,0],
+"de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,3104,2],
+"de/de0/structSpellClickInfo.html":[6,0,4370],
 "de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4370,1],
 "de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4370,2],
 "de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4370,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX393 =
 "de/deb/structM2Header.html#a0f17bcf234f8a9932af383974b195fd9":[6,0,1485,57],
 "de/deb/structM2Header.html#a165a732868dccd8eed38095d63af2e43":[6,0,1485,2],
 "de/deb/structM2Header.html#a16b620c87a7094974e487ff05968860b":[6,0,1485,51],
-"de/deb/structM2Header.html#a1c8ef02d4d60a0bb6e88e7090e7098d1":[6,0,1485,5],
-"de/deb/structM2Header.html#a30b698eedf1a476f074fbce88302e9a3":[6,0,1485,22],
-"de/deb/structM2Header.html#a32d67223aaae8ad49c3acccc4c68c371":[6,0,1485,15],
-"de/deb/structM2Header.html#a375f6df3e7109b958ea6b898194e2ed7":[6,0,1485,28],
-"de/deb/structM2Header.html#a38f976b05081a7cda7c3844b26283e27":[6,0,1485,46],
-"de/deb/structM2Header.html#a39e3adda9f25c68d8d4b9305fe62c1d3":[6,0,1485,30],
-"de/deb/structM2Header.html#a3e6845af2c7b1a44422053b89ae8872f":[6,0,1485,19],
-"de/deb/structM2Header.html#a43219c1a691a1c521f98f5dcd33220eb":[6,0,1485,66]
+"de/deb/structM2Header.html#a1c8ef02d4d60a0bb6e88e7090e7098d1":[6,0,1485,5]
 };

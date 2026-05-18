@@ -1,5 +1,12 @@
 var NAVTREEINDEX414 =
 {
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a6583928e441d418130df561962518deb":[6,0,3712,1],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a9548fa0c523182c58e0dcc76b2db7f69":[6,0,3712,2],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#ac85ee0780894f16c8760ede0fa555bd8":[6,0,3712,0],
+"df/dd3/structboss__yoggsaron__influence__tentacle.html":[6,0,813],
+"df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[6,0,813,1],
+"df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[6,0,813,2],
+"df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,813,0],
 "df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,1],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3896],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3896,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[6,0,4528,325],
 "df/dd9/classUnit.html#a14ae2eeba8829b9fc0a871b0a6df9110":[6,0,4528,360],
 "df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[6,0,4528,985],
-"df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76":[6,0,4528,678],
-"df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf":[6,0,4528,783],
-"df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b":[6,0,4528,309],
-"df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc":[6,0,4528,864],
-"df/dd9/classUnit.html#a170813877114a8568f3b9060bc8005c1":[6,0,4528,463],
-"df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627":[6,0,4528,991],
-"df/dd9/classUnit.html#a18139a1595cccec72363ebd1de943d63":[6,0,4528,671],
-"df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1":[6,0,4528,153]
+"df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76":[6,0,4528,678]
 };

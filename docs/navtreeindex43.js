@@ -1,5 +1,6 @@
 var NAVTREEINDEX43 =
 {
+"d1/dbd/bosses__opera_8cpp.html#aa8cebd270abd10c02dc688cd9f531214":[7,0,0,0,1,3,2,4,12,24],
 "d1/dbd/bosses__opera_8cpp.html#ab4a683c880d9ff7f892a9c9cb56ace4e":[7,0,0,0,1,3,2,4,12,21],
 "d1/dbd/bosses__opera_8cpp.html#abbf3ab9ae43f2f4ddbfdbfcba5df73d8":[7,0,0,0,1,3,2,4,12,22],
 "d1/dbd/bosses__opera_8cpp.html#abca938fd60ba1b89947947b5406576fe":[7,0,0,0,1,3,2,4,12,23],
@@ -43,8 +44,8 @@ var NAVTREEINDEX43 =
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,0,94,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,0,94,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[6,0,0,82,1],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,0,94,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[6,0,0,82,2],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,0,94,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[6,0,0,82,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[5,0,0,94,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[6,0,0,82,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX43 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca574603fca2b37f6e998e8ed7cad7dd65":[7,0,0,0,1,2,3,2,5,16,55],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca5aae287c47e7df8075f349a6ac87abb7":[7,0,0,0,1,2,3,2,5,16,70],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca5b9482d48627eea5168f2a336b6627b4":[7,0,0,0,1,2,3,2,5,16,168],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca5c01d951d7520184a91c2a588109bcd7":[7,0,0,0,1,2,3,2,5,16,4],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca5e39d9d49b77b4eca68edcf1d0dd56a3":[7,0,0,0,1,2,3,2,5,16,54]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca5c01d951d7520184a91c2a588109bcd7":[7,0,0,0,1,2,3,2,5,16,4]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX199 =
 {
+"d7/d5a/structBannedAddon.html#aa7d9dbd83fd1ef10fb125c798e293606":[6,0,318,1],
+"d7/d5a/structBannedAddon.html#aadd8cb8602ec03455a91b4f49767fdc8":[6,0,318,0],
+"d7/d5a/structBannedAddon.html#acb8dbe824f71363eb81504f43a126d96":[6,0,318,4],
+"d7/d5a/structBannedAddon.html#af62257c39a4ae1eba959086e981b0d19":[6,0,318,3],
 "d7/d5b/classDistractMovementGenerator.html":[6,0,1010],
 "d7/d5b/classDistractMovementGenerator.html#a0b30745bf1cd7b5a264e970273595592":[6,0,1010,2],
 "d7/d5b/classDistractMovementGenerator.html#a55879290b06f4fc86a1da791c07b7afb":[6,0,1010,0],
@@ -131,12 +135,12 @@ var NAVTREEINDEX199 =
 "d7/d61/classFactoryCreatureScript.html":[6,0,1059],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1059,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1059,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,22,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,22,6,4],
@@ -236,8 +240,8 @@ var NAVTREEINDEX199 =
 "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[6,0,709,9],
 "d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[6,0,709,10],
 "d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[6,0,709,16],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[6,0,13,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[6,0,13,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[6,0,13,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[5,0,34,6,32,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d68/classnpc__apothecary__hanes.html":[6,0,1636],
 "d7/d68/classnpc__apothecary__hanes.html#a7f3f86efb9a6146b86aa5d882b751e1f":[6,0,1636,2],
 "d7/d68/classnpc__apothecary__hanes.html#a90480bee491e8fe1c9e7b2c71aac28c8":[6,0,1636,1],
-"d7/d68/classnpc__apothecary__hanes.html#ae116e49b0e8865f9b5735e72c8c850fd":[6,0,1636,3],
-"d7/d68/classspell__igb__on__gunship__deck__aura.html":[6,0,3265],
-"d7/d68/classspell__igb__on__gunship__deck__aura.html#a105c93dea246a84b73e13bdf3d04f8f4":[6,0,3265,3],
-"d7/d68/classspell__igb__on__gunship__deck__aura.html#a2aaf88ee6fee8aff23f8ee99b30e369f":[6,0,3265,1],
-"d7/d68/classspell__igb__on__gunship__deck__aura.html#a770ca8aa441a7c5ddc3e26968d7861a4":[6,0,3265,0]
+"d7/d68/classnpc__apothecary__hanes.html#ae116e49b0e8865f9b5735e72c8c850fd":[6,0,1636,3]
 };

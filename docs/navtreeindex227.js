@@ -1,5 +1,9 @@
 var NAVTREEINDEX227 =
 {
+"d8/d74/classWorldSession.html#aaa9f00667aa975814b8dd074117c36f2":[4,1,19,298],
+"d8/d74/classWorldSession.html#aaaa2363b99d5a167cc35d223a01a2781":[4,1,19,598],
+"d8/d74/classWorldSession.html#aac26e7fad2440db85cf28fea61606c43":[4,1,19,112],
+"d8/d74/classWorldSession.html#aac6a62ef3b8d4d5f54aea3daadaea095":[4,1,19,153],
 "d8/d74/classWorldSession.html#aad2b19923819aecda41a4f108ad510a4":[4,1,19,214],
 "d8/d74/classWorldSession.html#aad5917abd421f7b0f1a1774bd952f29b":[4,1,19,365],
 "d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[4,1,19,548],
@@ -245,9 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d77/classspell__item__hourglass__sand.html#a334563491c3cbb9daa9d97dad738e9e5":[6,0,3379,0],
 "d8/d77/classspell__item__hourglass__sand.html#a69fe453f3c6764c3977c539d5fc71049":[6,0,3379,1],
 "d8/d77/classspell__item__hourglass__sand.html#af0ab473a4ec7f1eebb70d0f2344de8ca":[6,0,3379,3],
-"d8/d77/classspell__item__hourglass__sand.html#af81469f371224a3180d73b3cf8cf001a":[6,0,3379,2],
-"d8/d78/classDeathEvent.html":[6,0,989],
-"d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,989,2],
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,989,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,989,1]
+"d8/d77/classspell__item__hourglass__sand.html#af81469f371224a3180d73b3cf8cf001a":[6,0,3379,2]
 };

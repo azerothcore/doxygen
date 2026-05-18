@@ -1,5 +1,12 @@
 var NAVTREEINDEX384 =
 {
+"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,0,1,4,0],
+"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html":[6,0,4301],
+"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0517fe77f15e1b9cf6153ed2aaf9cee8":[6,0,4301,1],
+"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0ac8fe6a39ae00e50f219bf02c26f1a4":[6,0,4301,0],
+"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#ac968ede75fd5d98ba9a10dc9f6bdbb85":[6,0,4301,2],
+"de/d7f/structboss__yazzai.html":[6,0,801],
+"de/d7f/structboss__yazzai.html#a6c92ffeff3e56f98cb1bd08f1835fe10":[6,0,801,0],
 "de/d7f/structboss__yazzai.html#ab504de0e51a3715485eb65e006352a6f":[6,0,801,1],
 "de/d80/ServerScript_8cpp.html":[7,0,0,0,1,2,38,0,78],
 "de/d80/ServerScript_8cpp.html#ab647e167a3a2438bcbf1e445e37a9747":[7,0,0,0,1,2,38,0,78,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX384 =
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,0,8,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,0,8,8,1],
-"de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
-"de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,2,1,8],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0b18f04fb48020d6be26e18957637ec0":[7,0,0,0,1,3,5,4,2,1,8,6],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a29443597a97bf51f047ffc37ae2740ce":[7,0,0,0,1,3,5,4,2,1,8,1],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a395991212f9fc7d3afc53e536d7e8eb2":[7,0,0,0,1,3,5,4,2,1,8,4],
-"de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,2,1,8,2]
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,0,8,8,1]
 };

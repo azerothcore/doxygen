@@ -1,5 +1,9 @@
 var NAVTREEINDEX262 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a60e00cb4b8d4e07009f51480d25d7bfb":[7,0,0,0,1,2,41,0,0,6,210],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a625dc12d147f84765ca7b381d20e3186":[7,0,0,0,1,2,41,0,0,6,54],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a62a7fcc7c43217fde46f82e7c8949d73":[7,0,0,0,1,2,41,0,0,6,174],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f":[7,0,0,0,1,2,41,0,0,6,8],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a645cfd91417bcd92e134a74a8a2c3f4d":[7,0,0,0,1,2,41,0,0,6,215],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64bdc4fce5c9cc0c4134129a100244ee":[7,0,0,0,1,2,41,0,0,6,88],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64d1df8dc5b9c905a22949e67ecb01e7":[7,0,0,0,1,2,41,0,0,6,251],
@@ -245,9 +249,5 @@ var NAVTREEINDEX262 =
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a621d4db4fac3a7c3d08defa2a8ed06d0":[6,0,1938,0,7],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa125ab2a33dbf9f1d40f238e7d45000d":[6,0,1938,0,9],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ab704e4f3af8aa734910efd259db31407":[6,0,1938,0,6],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ace9e901a965665e0f97cb9646af308aa":[6,0,1938,0,8],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad4c6cb31a8d3dc280e689d5d29e27479":[6,0,1938,0,4],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0":[6,0,1938,0,0],
-"da/d2f/classspell__spell__fury__aura.html":[6,0,4104],
-"da/d2f/classspell__spell__fury__aura.html#a236892b4fd6cf081a907becab6187069":[6,0,4104,1]
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ace9e901a965665e0f97cb9646af308aa":[6,0,1938,0,8]
 };

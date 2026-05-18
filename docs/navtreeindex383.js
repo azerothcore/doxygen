@@ -1,5 +1,12 @@
 var NAVTREEINDEX383 =
 {
+"de/d76/classnpc__hyjal__jaina.html#a47853fa317b1a9325fcbe555867139f6":[6,0,1879,3],
+"de/d76/classnpc__hyjal__jaina.html#a6616aa6c38818770610259312a392a3f":[6,0,1879,1],
+"de/d76/classnpc__hyjal__jaina.html#ab1891f5a2aacf5d9aeb9377bd92393ed":[6,0,1879,2],
+"de/d77/structboss__yoggsaron__brain.html":[6,0,804],
+"de/d77/structboss__yoggsaron__brain.html#a193b18ba9aa03583659002c6a339c0c7":[6,0,804,7],
+"de/d77/structboss__yoggsaron__brain.html#a30593cbb193bf868f99d54279e04d39e":[6,0,804,3],
+"de/d77/structboss__yoggsaron__brain.html#a36521541acc73c7cb67d88dfd7cfe2ab":[6,0,804,0],
 "de/d77/structboss__yoggsaron__brain.html#a3c0d87cf1dc824321aa02034f800f14b":[6,0,804,12],
 "de/d77/structboss__yoggsaron__brain.html#a58a8dcda9f7f41f061af4cb6b26657fd":[6,0,804,13],
 "de/d77/structboss__yoggsaron__brain.html#a5b1aa2863bcec9dff0f87a6d4154daf6":[6,0,804,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX383 =
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba27eaba5358f78b874e38a836cfafb9bb":[7,0,0,0,1,3,7,0,0,1,4,3],
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,0,1,4,2],
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,0,1,4,4],
-"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,0,1,4,1],
-"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,0,1,4,0],
-"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html":[6,0,4301],
-"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0517fe77f15e1b9cf6153ed2aaf9cee8":[6,0,4301,1],
-"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0ac8fe6a39ae00e50f219bf02c26f1a4":[6,0,4301,0],
-"de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#ac968ede75fd5d98ba9a10dc9f6bdbb85":[6,0,4301,2],
-"de/d7f/structboss__yazzai.html":[6,0,801],
-"de/d7f/structboss__yazzai.html#a6c92ffeff3e56f98cb1bd08f1835fe10":[6,0,801,0]
+"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,0,1,4,1]
 };

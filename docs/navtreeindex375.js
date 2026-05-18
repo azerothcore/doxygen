@@ -1,5 +1,12 @@
 var NAVTREEINDEX375 =
 {
+"de/d28/classspell__pos__slave__trigger__closest.html":[6,0,3762],
+"de/d28/classspell__pos__slave__trigger__closest.html#a7594952f23cba22b886c2c3b10f363d4":[6,0,3762,2],
+"de/d28/classspell__pos__slave__trigger__closest.html#ab79a160e0d5b0c6e0ecfa842a4da2819":[6,0,3762,1],
+"de/d28/classspell__pos__slave__trigger__closest.html#aef592aafe931351186edf98f7aba7e22":[6,0,3762,0],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html":[6,0,1189,0],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1189,0,1],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9b4af48363a6d3194a22312fafa48587":[6,0,1189,0,3],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1189,0,4],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1189,0,5],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1189,0,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX375 =
 "de/d30/SpellMgr_8h.html#a86ed4228aa3581416498515c136ed4fb":[7,0,0,0,1,2,41,9,53],
 "de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444":[7,0,0,0,1,2,41,9,52],
 "de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[7,0,0,0,1,2,41,9,26],
-"de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[7,0,0,0,1,2,41,9,49],
-"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[7,0,0,0,1,2,41,9,62],
-"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[7,0,0,0,1,2,41,9,62,1],
-"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[7,0,0,0,1,2,41,9,62,0],
-"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[7,0,0,0,1,2,41,9,62,2],
-"de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[7,0,0,0,1,2,41,9,32],
-"de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[7,0,0,0,1,2,41,9,19],
-"de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,22]
+"de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[7,0,0,0,1,2,41,9,49]
 };

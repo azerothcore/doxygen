@@ -1,5 +1,9 @@
 var NAVTREEINDEX238 =
 {
+"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d":[7,0,0,0,1,3,2,1,1,13,1,0],
+"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,2,1,1,13,1,1],
+"d8/dff/structCalendarEvent.html":[6,0,849],
+"d8/dff/structCalendarEvent.html#a00984cdf7353d8e7236da4956eea2976":[6,0,849,33],
 "d8/dff/structCalendarEvent.html#a013a8dbbc2059c35ac7482c59802c334":[6,0,849,30],
 "d8/dff/structCalendarEvent.html#a0fce8ef7d6c645c0e25ab4f8167c9dfc":[6,0,849,5],
 "d8/dff/structCalendarEvent.html#a10b124299312e8295b6fa870b5ddbced":[6,0,849,16],
@@ -46,10 +50,10 @@ var NAVTREEINDEX238 =
 "d9/d01/TargetedMovementGenerator_8h.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd":[7,0,0,0,1,2,31,0,19,2,1],
 "d9/d01/TargetedMovementGenerator_8h.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618":[7,0,0,0,1,2,31,0,19,2,3],
 "d9/d01/TargetedMovementGenerator_8h.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3":[7,0,0,0,1,2,31,0,19,2,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[6,0,0,4,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[5,0,0,7,8],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[6,0,0,4,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,0,7,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,0,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad0ac0647feb998e837a44b0a688694e9":[6,0,1834,0,6],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad35b64b37915484b133bcd185a832011":[6,0,1834,0,2],
 "d9/d03/structModelHeader.html":[6,0,1546],
-"d9/d03/structModelHeader.html#a014d42c24266dcadcc577b541950fc05":[6,0,1546,60],
-"d9/d03/structModelHeader.html#a08ed4187244596b2f011f201a738c666":[6,0,1546,54],
-"d9/d03/structModelHeader.html#a0f3ecd249c6ce94bafaad1e32f2c1fe8":[6,0,1546,57],
-"d9/d03/structModelHeader.html#a121bd59435d56149430da784aedd8bcb":[6,0,1546,50],
-"d9/d03/structModelHeader.html#a152d503b64c3974ee6a9ba04cf124957":[6,0,1546,27]
+"d9/d03/structModelHeader.html#a014d42c24266dcadcc577b541950fc05":[6,0,1546,60]
 };

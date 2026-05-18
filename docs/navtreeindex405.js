@@ -1,5 +1,12 @@
 var NAVTREEINDEX405 =
 {
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3158],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3158,3],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3158,1],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[6,0,3158,0],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[6,0,3158,2],
+"df/d6b/classspell__illidan__shadow__prison__aura.html":[6,0,3289],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[6,0,3289,0],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3289,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3289,1],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3289,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX405 =
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,3027],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[6,0,3027,3],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[6,0,3027,1],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[6,0,3027,0],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[6,0,3027,2],
-"df/d75/classtele__commandscript.html":[6,0,4470],
-"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[6,0,4470,0],
-"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[6,0,4470,2],
-"df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[6,0,4470,9],
-"df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[6,0,4470,8],
-"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[6,0,4470,7]
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[6,0,3027,0]
 };

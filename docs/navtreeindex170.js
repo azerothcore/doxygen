@@ -1,5 +1,9 @@
 var NAVTREEINDEX170 =
 {
+"d6/d14/structGameObjectDisplayInfoEntry.html#a10563ae885d34e516825a18db95b40e7":[6,0,1107,2],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a4aa3c391401f39d6f4a595f4dff0668b":[6,0,1107,0],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a711286df6d2bd74246dee2170052c17a":[6,0,1107,3],
+"d6/d14/structGameObjectDisplayInfoEntry.html#a7168f5b3229bd27edde78e88bf7dc20a":[6,0,1107,6],
 "d6/d14/structGameObjectDisplayInfoEntry.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da":[6,0,1107,5],
 "d6/d14/structGameObjectDisplayInfoEntry.html#ac88aefc2530212b9dff10e018c4e9305":[6,0,1107,7],
 "d6/d14/structGameObjectDisplayInfoEntry.html#acb74e32790b2c60cca5faef1caa225e4":[6,0,1107,4],
@@ -33,10 +37,10 @@ var NAVTREEINDEX170 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[6,0,3181,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[6,0,1370,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1370,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,13,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,13,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,13,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2650,1],
 "d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2650,0],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2822],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2822,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2822,2],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2822,1],
-"d6/d1d/classArenaScript.html":[6,0,189],
-"d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[6,0,189,8]
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2822,0]
 };

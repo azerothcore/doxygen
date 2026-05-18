@@ -1,5 +1,9 @@
 var NAVTREEINDEX189 =
 {
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a756a44feb79eb56f443ee16995a2566d":[6,0,2016,0,5],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a8b510bce47929e85741f5debd857de8d":[6,0,2016,0,7],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a9280b604135308078860c20667da9819":[6,0,2016,0,9],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aa0633855e57f6681cfc68a8dfee9a733":[6,0,2016,0,0],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1":[6,0,2016,0,6],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[6,0,2016,0,2],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#afc6c4faffd83b2fa4ddbb4ae78b622d9":[6,0,2016,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX189 =
 "d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[6,0,1676,1],
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1676,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,13,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,13,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,13,11,0,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2]
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,13,11,0]
 };

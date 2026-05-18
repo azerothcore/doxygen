@@ -1,5 +1,11 @@
 var NAVTREEINDEX333 =
 {
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a4fa17be920e46d2869e7b934d7a4ef0c":[7,0,0,0,1,3,3,1,34,30],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a54950a2839c3b98117d387711b67e6ca":[7,0,0,0,1,3,3,1,34,19],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a54a22d48143854a145e2d4f33971dcc3":[7,0,0,0,1,3,3,1,34,32],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a583db8b9d8d3c80e48f3287a2202f29f":[7,0,0,0,1,3,3,1,34,27],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a61f76e6dcc1379d4b649ebea605e192a":[7,0,0,0,1,3,3,1,34,31],
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a65b93824c36a55586019a3415d299717":[7,0,0,0,1,3,3,1,34,15],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a66c88a484b7bdbd129edb825a77e1507":[7,0,0,0,1,3,3,1,34,12],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a6896a841976747ea72e668dc45c3be80":[7,0,0,0,1,3,3,1,34,3],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a920684b659bfe3e2b90cc363f95f01bd":[7,0,0,0,1,3,3,1,34,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX333 =
 "dc/de8/classBattlegroundIC.html#a8a49db361c0eb191c09cda113b088cc0":[6,0,341,32],
 "dc/de8/classBattlegroundIC.html#a8e82886d2fdbbd7fbc0e187aaf9a23ee":[6,0,341,16],
 "dc/de8/classBattlegroundIC.html#a98c203768a32a7d8613d4b7d298ac78b":[6,0,341,4],
-"dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[6,0,341,36],
-"dc/de8/classBattlegroundIC.html#aa471865e0453c6e1aa09445cd7cd46f1":[6,0,341,15],
-"dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f":[6,0,341,29],
-"dc/de8/classBattlegroundIC.html#abe6e82f855559a527b5bf202d3914e55":[6,0,341,25],
-"dc/de8/classBattlegroundIC.html#abf392eaf04298c86b09a5b0f524650de":[6,0,341,39],
-"dc/de8/classBattlegroundIC.html#abfa82175f6e7b461ffccdf4cd300f296":[6,0,341,21],
-"dc/de8/classBattlegroundIC.html#ac0682d6c6402a7aed48f84f9e06a711b":[6,0,341,0]
+"dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[6,0,341,36]
 };

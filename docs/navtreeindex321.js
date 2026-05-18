@@ -1,5 +1,11 @@
 var NAVTREEINDEX321 =
 {
+"dc/d37/classGlobalScript.html#aeee1139d587e7be99617f15664d85b8e":[6,0,1132,20],
+"dc/d37/cs__lookup_8cpp.html":[7,0,0,0,1,3,0,28],
+"dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,28,1],
+"dc/d38/classspell__ahune__spanky__hands.html":[6,0,2607],
+"dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[6,0,2607,0],
+"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2607,1],
 "dc/d38/classspell__ahune__spanky__hands.html#a804e1bc3d570d28cb2e06155054f3169":[6,0,2607,2],
 "dc/d38/classspell__ahune__spanky__hands.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb":[6,0,2607,3],
 "dc/d39/classboss__patchwerk.html":[6,0,668],
@@ -243,11 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,5,7,13,6,2],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,13,6,3],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9ced0786c5d62dfaf14223025ed6a354":[7,0,0,0,1,3,5,7,13,6,1],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,13,5],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0da708c83d8321142ad79ababb74393c":[7,0,0,0,1,3,5,7,13,5,7],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,7,13,5,1],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca73e465881589fa02b898ab6929c2c977":[7,0,0,0,1,3,5,7,13,5,10],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca860e87a9f9300d72e514a6290791f443":[7,0,0,0,1,3,5,7,13,5,4],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b":[7,0,0,0,1,3,5,7,13,5,0],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caa3d23300dbc2574a11981b6aac1ddf51":[7,0,0,0,1,3,5,7,13,5,6]
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,13,5]
 };

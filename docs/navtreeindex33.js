@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"d1/d4f/classQuest.html#a491183a570c0efd2e0aa9a961884a240":[6,0,2471,111],
 "d1/d4f/classQuest.html#a5007efe449412d041deee6fb078db2ef":[6,0,2471,20],
 "d1/d4f/classQuest.html#a5429dda259c14662e1c87d59b73c5e3c":[6,0,2471,122],
 "d1/d4f/classQuest.html#a544ac67016b615f5bd86fef5970b5a54":[6,0,2471,94],
@@ -149,10 +150,10 @@ var NAVTREEINDEX33 =
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,0,129,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,0,129,5],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[6,0,0,117,5],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,0,129,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[6,0,0,117,2],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,117,7],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a64e8d7854baa93e4390703fe986f6777":[5,0,0,129,2],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[5,0,0,129,7],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6ae05d2ed15201356600cda7d0d5a6c3":[6,0,0,117,7],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[6,0,0,117,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[5,0,0,129,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[6,0,0,117,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d5b/classnpc__shambling__horror__icc.html":[6,0,2122],
 "d1/d5b/classnpc__shambling__horror__icc.html#a68219e0c6e79f5e7bed1f353d7bb5bcb":[6,0,2122,1],
 "d1/d5b/classnpc__shambling__horror__icc.html#a96fd525fcb34e793b1fc3fc5179e92ec":[6,0,2122,2],
-"d1/d5b/classspell__item__direbrew__remote.html":[6,0,3341],
-"d1/d5b/classspell__item__direbrew__remote.html#a065d81d698c978bcdd234712807e9098":[6,0,3341,0]
+"d1/d5b/classspell__item__direbrew__remote.html":[6,0,3341]
 };

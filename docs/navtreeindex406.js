@@ -1,5 +1,12 @@
 var NAVTREEINDEX406 =
 {
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[6,0,3027,2],
+"df/d75/classtele__commandscript.html":[6,0,4470],
+"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[6,0,4470,0],
+"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[6,0,4470,2],
+"df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[6,0,4470,9],
+"df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[6,0,4470,8],
+"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[6,0,4470,7],
 "df/d75/classtele__commandscript.html#a7a45fa39afa6bae2359a68b11a504bc5":[6,0,4470,10],
 "df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[6,0,4470,3],
 "df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[6,0,4470,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX406 =
 "df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[6,0,2902,2],
 "df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[6,0,2902,4],
 "df/d86/npc__innkeeper_8cpp.html":[7,0,0,0,1,3,10,9],
-"df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[7,0,0,0,1,3,10,9,7],
-"df/d86/npc__innkeeper_8cpp.html#a072a033da374692139d9d33e63be89ca":[7,0,0,0,1,3,10,9,5],
-"df/d86/npc__innkeeper_8cpp.html#a2e23760d3d379f3fa92c139f067b5984":[7,0,0,0,1,3,10,9,4],
-"df/d86/npc__innkeeper_8cpp.html#a3115623eb3e0408aad7cd637686aaaee":[7,0,0,0,1,3,10,9,2],
-"df/d86/npc__innkeeper_8cpp.html#a3ffce1ea6cca981888af85ba67364df9":[7,0,0,0,1,3,10,9,1],
-"df/d86/npc__innkeeper_8cpp.html#a6bb09725b9e6b10b76686a9059038e6b":[7,0,0,0,1,3,10,9,3],
-"df/d86/npc__innkeeper_8cpp.html#ad2b2ba30383cca3be221f38a809e2da1":[7,0,0,0,1,3,10,9,6],
-"df/d86/structboss__twilight__corrupter.html":[6,0,764]
+"df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[7,0,0,0,1,3,10,9,7]
 };

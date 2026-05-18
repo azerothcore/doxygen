@@ -1,5 +1,11 @@
 var NAVTREEINDEX335 =
 {
+"dc/dfb/classUpdateTime.html#a28ab3fb6bd445bf1b36f7cb3b73acff2":[6,0,4542,4],
+"dc/dfb/classUpdateTime.html#a29b8d4c5394820b71aaf8864ba4b8327":[6,0,4542,8],
+"dc/dfb/classUpdateTime.html#a38ae34827b0de71df0eeb31c1af9e07e":[6,0,4542,0],
+"dc/dfb/classUpdateTime.html#a451d39365491ae8d38816783865d2a75":[6,0,4542,10],
+"dc/dfb/classUpdateTime.html#a45b460f5fec335763e20bfe06fa33980":[6,0,4542,7],
+"dc/dfb/classUpdateTime.html#a5ca37c4eb70f9131276099b65256243b":[6,0,4542,1],
 "dc/dfb/classUpdateTime.html#a61337ef6e640cd4ce48019ba6cd4fafd":[6,0,4542,12],
 "dc/dfb/classUpdateTime.html#a65ff51e1503e11ac8f218876afb7afce":[6,0,4542,13],
 "dc/dfb/classUpdateTime.html#a6cf15deccacbceff85216c7ceecd98b3":[6,0,4542,17],
@@ -215,12 +221,12 @@ var NAVTREEINDEX335 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3199,2],
 "dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,17,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,17,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2918],
@@ -243,11 +249,5 @@ var NAVTREEINDEX335 =
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a92af4732575008c1a4f061cef0f23902":[6,0,2076,0,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#ad4a4bd9af581abe832933da69b18d76f":[6,0,2076,0,3],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#af8e4e706925d8837cacdc0b5a6d1f10d":[6,0,2076,0,2],
-"dd/d0a/cs__pooltools_8cpp.html":[7,0,0,0,1,3,0,39],
-"dd/d0a/cs__pooltools_8cpp.html#a8c8907ff2ae66e87142b14909a2ee941":[7,0,0,0,1,3,0,39,4],
-"dd/d0a/cs__pooltools_8cpp.html#ab5e275ff67266d9329307cd8a5398b14":[7,0,0,0,1,3,0,39,5],
-"dd/d0a/structGtOCTRegenHPEntry.html":[6,0,1264],
-"dd/d0a/structGtOCTRegenHPEntry.html#ac22c096d41c6fb7ebdc824fc1ca8601b":[6,0,1264,0],
-"dd/d0b/classPetScript.html":[6,0,2397],
-"dd/d0b/classPetScript.html#a1263b06233902fbede9fc5df80cc8ad4":[6,0,2397,5]
+"dd/d0a/cs__pooltools_8cpp.html":[7,0,0,0,1,3,0,39]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX289 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaf94214f1df0c82c0a7f57728c66b9f3":[7,0,0,0,1,3,5,0,0,5,10,5],
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acc4673213e415d0af94b5d7635399c85":[7,0,0,0,1,3,5,0,0,5,10,4],
+"db/d53/boss__prince__taldaram_8cpp.html#a3d2ecebf5f62756e3571412754a3455c":[7,0,0,0,1,3,5,0,0,5,12],
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[7,0,0,0,1,3,5,0,0,5,7],
 "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1e75e4729bfd2f856f8d28ac9dc62880":[7,0,0,0,1,3,5,0,0,5,7,1],
 "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,5,0,0,5,7,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94":[7,0,0,0,1,3,5,0,0,5,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX289 =
 "db/d5c/structboss__vezax.html#a88331ae2f7cc9625aaf36836abf244f0":[6,0,783,10],
 "db/d5c/structboss__vezax.html#a8e9210793b5b00d81bf5f1a3eb214f29":[6,0,783,0],
 "db/d5c/structboss__vezax.html#ab339f12be1e9da262f6243cfe22908c2":[6,0,783,6],
-"db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[6,0,783,9],
-"db/d5c/structboss__vezax.html#ac22557ea0f60a04d51f016cc09d99417":[6,0,783,4],
-"db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1":[6,0,783,1],
-"db/d5c/structboss__vezax.html#ad57dabcfafbd2a10b1dbb39751600bb9":[6,0,783,5],
-"db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc":[6,0,783,12]
+"db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[6,0,783,9]
 };

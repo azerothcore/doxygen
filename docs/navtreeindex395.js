@@ -1,5 +1,12 @@
 var NAVTREEINDEX395 =
 {
+"de/df7/classWorldPackets_1_1Packet.html#a94afc4d66c2b5bced3063bab5a666bfd":[6,0,13,24,6],
+"de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[6,0,13,24,3],
+"de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[5,0,34,24,3],
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[6,0,13,24,8],
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[5,0,34,24,8],
+"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,34,24,7],
+"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[6,0,13,24,7],
 "de/df9/classnpc__lk__wicked__spirit.html":[6,0,1949],
 "de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[6,0,1949,2],
 "de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[6,0,1949,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX395 =
 "df/d09/TerrainBuilder_8cpp.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[7,0,0,0,3,2,8,3],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html":[6,0,1311,0],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[6,0,1311,0,0],
-"df/d0a/ObjectPosSelector_8h.html":[7,0,0,0,1,2,16,5,7],
-"df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[7,0,0,0,1,2,16,5,7,3],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[7,0,0,0,1,2,16,5,7,2],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[7,0,0,0,1,2,16,5,7,2,0],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[7,0,0,0,1,2,16,5,7,2,1],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[6,0,3845],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[6,0,3845,0],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[6,0,3845,2]
+"df/d0a/ObjectPosSelector_8h.html":[7,0,0,0,1,2,16,5,7]
 };

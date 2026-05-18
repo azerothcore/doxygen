@@ -163,6 +163,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_PLAYER_ENTER_COMBAT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0ddbe2362733e0bbb3fa8a22937a3bbb", null ],
       [ "PLAYERHOOK_ON_PLAYER_LEAVE_COMBAT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a92b56eba50f95f7a40d69f3c26a82b0b", null ],
       [ "PLAYERHOOK_ON_QUEST_ABANDON", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ad5d46a30fb1da95d2d7d4382cab30e37", null ],
+      [ "PLAYERHOOK_ON_PLAYER_QUEST_ACCEPT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357adeadbddee15eb53169b9ca52b4268a58", null ],
       [ "PLAYERHOOK_ON_GET_QUEST_RATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357adc63d813725261d442514ec1aff93793", null ],
       [ "PLAYERHOOK_ON_CAN_PLAYER_FLY_IN_ZONE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c", null ],
       [ "PLAYERHOOK_ANTICHEAT_SET_CAN_FLY_BY_SERVER", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40ab5882112be7b1aa0e8144e30bc505", null ],

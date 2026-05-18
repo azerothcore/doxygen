@@ -1,5 +1,12 @@
 var NAVTREEINDEX391 =
 {
+"de/db5/classBattlegroundDS.html#aaef0cac1f3283c56117efcc484a0abfc":[6,0,335,10],
+"de/db5/classBattlegroundDS.html#ab9ab60253daa5318dcdb6675c8919cd5":[6,0,335,7],
+"de/db5/classBattlegroundDS.html#ae008bf979e6984856237938dfe743ec7":[6,0,335,5],
+"de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[6,0,335,6],
+"de/db6/classspell__dk__raise__ally__trigger.html":[6,0,2816],
+"de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[6,0,2816,0],
+"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[6,0,2816,2],
 "de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[6,0,2816,1],
 "de/db7/classQueryCallback.html":[6,0,2469],
 "de/db7/classQueryCallback.html#a0c1c3dbbe82846340770760cf9c11aa4":[6,0,2469,17],
@@ -242,12 +249,5 @@ var NAVTREEINDEX391 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,2,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,0,2,3,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,0,2,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,0,2,3,4],
-"de/dcb/classspell__gen__bonked.html":[6,0,2993]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1]
 };

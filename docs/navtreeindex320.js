@@ -1,5 +1,10 @@
 var NAVTREEINDEX320 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aab037dcab54c71e2b5d71fc299623432":[5,0,28,6,614],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aab222f6b0cd632d920f5852bc71612dd":[5,0,28,6,106],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aab56314d83d6a26e436a0dec2a544b55":[5,0,28,6,77],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aab9769ef78a7c24f411a73140c035ee4":[5,0,28,6,238],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aab98bbacaa8059c1b9e814e866350e66":[5,0,28,6,516],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aaba18bbaee9f7886f4a60c43ee6d2c85":[5,0,28,6,12],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aac6f56890ec729d186b9ad1f1d950d94":[5,0,28,6,535],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aacb47f263ae3f5f900b32ca395998391":[5,0,28,6,324],
@@ -174,6 +179,7 @@ var NAVTREEINDEX320 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af1fa3f5abd287bb9ca40c29f54841241":[5,0,28,6,345],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af1fe1c6817bf30ca40f7e45fae87be2d":[5,0,28,6,26],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af2455ea33feff7dd4143ff8ff8aae965":[5,0,28,6,0],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af25ad1f6c47779f80f6e7a5279c579a6":[5,0,28,6,625],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af280ed01f9f250a710e71e54c4b073be":[5,0,28,6,410],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af355b3ba557d8867f2304d304283bcfb":[5,0,28,6,510],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af445506a014510926856e2a8bf91d27a":[5,0,28,6,45],
@@ -243,11 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d37/classGlobalScript.html#ad94c308fc3b7f86bbb53b4f49b3fa360":[6,0,1132,13],
 "dc/d37/classGlobalScript.html#ae76b6676b24c1e33ba7f020e3a9ce3e5":[6,0,1132,3],
 "dc/d37/classGlobalScript.html#ae85fcbfdeb4ed098302a15bc7f53e9cb":[6,0,1132,14],
-"dc/d37/classGlobalScript.html#aed04144e009683fd3ced38905b244c39":[6,0,1132,7],
-"dc/d37/classGlobalScript.html#aeee1139d587e7be99617f15664d85b8e":[6,0,1132,20],
-"dc/d37/cs__lookup_8cpp.html":[7,0,0,0,1,3,0,28],
-"dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,28,1],
-"dc/d38/classspell__ahune__spanky__hands.html":[6,0,2607],
-"dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[6,0,2607,0],
-"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2607,1]
+"dc/d37/classGlobalScript.html#aed04144e009683fd3ced38905b244c39":[6,0,1132,7]
 };

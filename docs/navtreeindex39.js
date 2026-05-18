@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a183360b99ecbd784b4dabbf5158f59d1":[6,0,1737,0,1],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a32060a04ba73fbf9ae2df8417e826ce9":[6,0,1737,0,4],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#a6e260a6e085962d54b765bff4cb17963":[6,0,1737,0,5],
 "d1/d9f/structnpc__crusade__recruit_1_1npc__crusade__recruitAI.html#aa5d5e8cc4fe612fda84d971d9cee987f":[6,0,1737,0,0],
@@ -99,12 +100,12 @@ var NAVTREEINDEX39 =
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a227470a5932383e0ab7b9a369dfb3445":[5,0,34,8,7,5],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[6,0,13,8,7,4],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[5,0,34,8,7,4],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[5,0,34,8,7,0],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[6,0,13,8,7,0],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[5,0,34,8,7,1],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[5,0,34,8,7,0],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[6,0,13,8,7,1],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[6,0,13,8,7,2],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[5,0,34,8,7,1],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[5,0,34,8,7,2],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[6,0,13,8,7,2],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#af18875aa85f12191a47d97380f459c45":[5,0,34,8,7,3],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#af18875aa85f12191a47d97380f459c45":[6,0,13,8,7,3],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#af8274f1ded5565dc0f79e28948825ea2":[6,0,13,8,7,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/dab/classnpc__wintergarde__gryphon.html":[6,0,2290],
 "d1/dab/classnpc__wintergarde__gryphon.html#a16c01d26aef06358f979f59fe68c09ca":[6,0,2290,5],
 "d1/dab/classnpc__wintergarde__gryphon.html#a56a7973a05061197192111ecf55ef14a":[6,0,2290,8],
-"d1/dab/classnpc__wintergarde__gryphon.html#a6c87d55ef29e14b4b8b87a0321179542":[6,0,2290,3],
-"d1/dab/classnpc__wintergarde__gryphon.html#a7f20f5e124e013ad8f57ca31b9fb86d7":[6,0,2290,1]
+"d1/dab/classnpc__wintergarde__gryphon.html#a6c87d55ef29e14b4b8b87a0321179542":[6,0,2290,3]
 };

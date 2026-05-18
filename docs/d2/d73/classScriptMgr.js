@@ -392,6 +392,7 @@ var classScriptMgr =
     [ "OnPlayerPVPFlagChange", "d2/d73/classScriptMgr.html#a16d2b2c7f7ecbb1619a5564cb9f0ea8e", null ],
     [ "OnPlayerPVPKill", "d2/d73/classScriptMgr.html#a78993ed7a5ed784baecf6416efd84c22", null ],
     [ "OnPlayerQuestAbandon", "d2/d73/classScriptMgr.html#a7f3dadc1fd892815c939e87e0278afca", null ],
+    [ "OnPlayerQuestAccept", "d2/d73/classScriptMgr.html#a15f954f4701da2044410efafadfffe33", null ],
     [ "OnPlayerQuestComputeXP", "d2/d73/classScriptMgr.html#acccdeba202630c869ecd19442286a687", null ],
     [ "OnPlayerQuestRewardItem", "d2/d73/classScriptMgr.html#aca8e6c426a9f2a684056e6bec4ed4561", null ],
     [ "OnPlayerQueueRandomDungeon", "d2/d73/classScriptMgr.html#a46a66ac00230bd2ad71c1a60066f09e5", null ],

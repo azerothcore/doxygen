@@ -1,5 +1,12 @@
 var NAVTREEINDEX376 =
 {
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[7,0,0,0,1,2,41,9,62],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[7,0,0,0,1,2,41,9,62,1],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[7,0,0,0,1,2,41,9,62,0],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[7,0,0,0,1,2,41,9,62,2],
+"de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[7,0,0,0,1,2,41,9,32],
+"de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[7,0,0,0,1,2,41,9,19],
+"de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,22],
 "de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[7,0,0,0,1,2,41,9,21],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[7,0,0,0,1,2,41,9,73],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[7,0,0,0,1,2,41,9,73,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX376 =
 "de/d34/classspell__gordunni__trap.html":[6,0,3133],
 "de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3133,2],
 "de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3133,1],
-"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3133,0],
-"de/d34/instance__halls__of__lightning_8cpp.html":[7,0,0,0,1,3,5,9,0,5],
-"de/d34/instance__halls__of__lightning_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,5,9,0,5,6],
-"de/d34/instance__halls__of__lightning_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,9,0,5,5],
-"de/d34/instance__halls__of__lightning_8cpp.html#acb18ad00890035d01ae1c735f67fd0c8":[7,0,0,0,1,3,5,9,0,5,3],
-"de/d34/instance__halls__of__lightning_8cpp.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823":[7,0,0,0,1,3,5,9,0,5,3,0],
-"de/d34/instance__halls__of__lightning_8cpp.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799":[7,0,0,0,1,3,5,9,0,5,3,1],
-"de/d34/instance__halls__of__lightning_8cpp.html#acb5e7d848388449d05e307ed07fbcfc6":[7,0,0,0,1,3,5,9,0,5,4]
+"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3133,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX190 =
 {
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,13,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,13,11,0,2],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,13,11,0,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
 "d6/dec/classachievement__bg__sa__artillery.html":[6,0,46],
@@ -12,8 +16,8 @@ var NAVTREEINDEX190 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,108],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,96,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,108,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,108,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,96,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,108,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,0,108,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,96,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,0,108,6],
@@ -22,8 +26,8 @@ var NAVTREEINDEX190 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,96,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,0,108,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,96,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,96,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,0,108,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,96,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,7,4,3,0,5],
 "d6/dee/boss__nethekurse_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,7,4,3,0,5,0],
@@ -124,10 +128,10 @@ var NAVTREEINDEX190 =
 "d6/dee/namespaceArenaSpectator.html#ae611c9f6783ca983d1ff667f36dd7c7d":[5,0,5,3],
 "d6/dee/namespaceArenaSpectator.html#ae899637e3543ca40ec63e98bf0426f58":[5,0,5,10],
 "d6/dee/namespaceArenaSpectator.html#af537ad9da6345b285d2d726b640a0340":[5,0,5,7],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,0,2,8],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,0,2,8,1],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,0,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
 "d6/def/structnpc__hor__risen__witch__doctor.html":[6,0,1872],
@@ -245,9 +249,5 @@ var NAVTREEINDEX190 =
 "d6/df5/classSummonList.html#a88090206fdd946534808861bdbc5996c":[6,0,4451,4],
 "d6/df5/classSummonList.html#a8dad67aa276b924891670f3ffc29be0b":[6,0,4451,8],
 "d6/df5/classSummonList.html#a8e00739ad4d73482a9f3ba9b22d88c72":[6,0,4451,30],
-"d6/df5/classSummonList.html#a8f5bac1d56a51f7cc3b3734d81218309":[6,0,4451,16],
-"d6/df5/classSummonList.html#a92d001f7f8ec8b9c1ee3a95bf0d88ac4":[6,0,4451,14],
-"d6/df5/classSummonList.html#a9c8fd42d34e0a3ac1cb64013f45d012a":[6,0,4451,29],
-"d6/df5/classSummonList.html#aa48913073174e466d097a92c3ef8ae15":[6,0,4451,7],
-"d6/df5/classSummonList.html#aa95281463f4efdbeede71960d56c1b3c":[6,0,4451,23]
+"d6/df5/classSummonList.html#a8f5bac1d56a51f7cc3b3734d81218309":[6,0,4451,16]
 };

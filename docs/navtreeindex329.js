@@ -1,5 +1,11 @@
 var NAVTREEINDEX329 =
 {
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,3,2,4],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,3,2,4,2],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ac09db2925e40836a675d938f0e4411cc":[7,0,0,0,1,3,7,3,2,4,3],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22acc5f3c1f985f39faef5b26b393862a0f":[7,0,0,0,1,3,7,3,2,4,4],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22accf4ac52aca57b15bc50cf47c8a3e5fc":[7,0,0,0,1,3,7,3,2,4,1],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ae405fe3c160f2ad583b0cfe2a99be93a":[7,0,0,0,1,3,7,3,2,4,0],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html":[6,0,1353,0],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a010079e135c41de850419149ec2857f3":[6,0,1353,0,18],
 "dc/dae/structinstance__ruins__of__ahnqiraj_1_1instance__ruins__of__ahnqiraj__InstanceMapScript.html#a1025fdcd1b84e5d2c4eaa79d918ecd78":[6,0,1353,0,15],
@@ -243,11 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,962,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,14],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html":[7,0,0,0,1,3,7,5,3,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,3,1,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,3,1,1,3],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,3,1,1,0],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47cdf4e03ced76b0d17a26165994f220":[7,0,0,0,1,3,7,5,3,1,1,1],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,3,1,1,2],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1acf921de439ae53b12be3c6c7b63438b8":[7,0,0,0,1,3,7,5,3,1,1,4],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a490f828a77063f37fdf34abf92a3d97c":[7,0,0,0,1,3,7,5,3,1,3]
+"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,3,1,1]
 };

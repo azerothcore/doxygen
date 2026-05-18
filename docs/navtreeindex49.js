@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#ac46bd600dd4be640c3eefcbde60b28e7a1df44e3a6c079414856d09ff1f2d5dfc":[7,0,0,0,1,3,9,2,186,2],
 "d1/de4/spell__generic_8cpp.html#ac46bd600dd4be640c3eefcbde60b28e7a342ada612e2a026d6a45a38af00976bc":[7,0,0,0,1,3,9,2,186,1],
 "d1/de4/spell__generic_8cpp.html#ac46bd600dd4be640c3eefcbde60b28e7a9e321e27bbdfaab5c2abcb62a02a7bf4":[7,0,0,0,1,3,9,2,186,0],
 "d1/de4/spell__generic_8cpp.html#ac46bd600dd4be640c3eefcbde60b28e7ad496533480f8ca80bd03f8967bef28e9":[7,0,0,0,1,3,9,2,186,3],
@@ -231,23 +232,22 @@ var NAVTREEINDEX49 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[6,0,3505,0],
 "d1/df9/classspell__kelthuzad__void__blast.html#a5e33a371d519c2fdc8561f2ac8d9dd82":[6,0,3505,2],
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[6,0,3505,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,72],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,72,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,72,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,72,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,72,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,72,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[6,0,0,60,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,72,4],
 "d1/df9/structnpc__azure__raider.html":[6,0,1656],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[6,0,1656,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[6,0,1656,2],
 "d1/df9/structnpc__azure__raider.html#a841b0fb8a0ca5ca82f3183835281d0e7":[6,0,1656,0],
 "d1/df9/structnpc__azure__raider.html#a8d25c785974cb8c50b55b547b982b06f":[6,0,1656,3],
-"d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3],
-"d1/dfa/CreatureTextMgr_8h.html#a2dc428da007cefe454220dcb355a1cde":[7,0,0,0,1,2,42,3,5]
+"d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,14,84],
 "d2/d38/northrend__script__loader_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,14,140],
 "d2/d38/northrend__script__loader_8cpp.html#a09ed7c7f3de43176bd1f2dd593481558":[7,0,0,0,1,3,5,14,88],
 "d2/d38/northrend__script__loader_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[7,0,0,0,1,3,5,14,32],
@@ -164,8 +165,8 @@ var NAVTREEINDEX56 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[6,0,2206,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[6,0,2206,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[6,0,981,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,981,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,981,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,981,2,0],
 "d2/d39/classboss__varos.html":[6,0,774],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[6,0,774,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[6,0,774,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68abecdefd780f9a204ddcd4dd65111e371":[7,0,0,0,1,3,7,5,0,4,2,7],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ace53508f972877b973ba6de13e9b300f":[7,0,0,0,1,3,7,5,0,4,2,8],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#ae4050b59006e0148e61d9c82d76f5647":[7,0,0,0,1,3,7,5,0,4,4],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,5,0,4,1],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0dcba09ac1290ee56bf1edbdd8a0ebc2":[7,0,0,0,1,3,7,5,0,4,1,4]
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,5,0,4,1]
 };

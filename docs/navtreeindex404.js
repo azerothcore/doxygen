@@ -1,5 +1,12 @@
 var NAVTREEINDEX404 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ade8ab3f66eb603aae40a80fab7c52e67":[5,0,31,21,4],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[5,0,31,21,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[6,0,11,21,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[6,0,11,21,8],
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,31,21,8],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,11,21,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,31,21,3],
 "df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,7],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[7,0,0,0,1,3,2,1,0,0,7,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[6,0,1798,0,1],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[6,0,1798,0,6],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1798,0,5],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1798,0,2],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3158],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3158,3],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3158,1],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[6,0,3158,0],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[6,0,3158,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html":[6,0,3289],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[6,0,3289,0]
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1798,0,2]
 };

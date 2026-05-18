@@ -1,16 +1,17 @@
 var NAVTREEINDEX27 =
 {
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,110],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,122],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,122,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,122,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,122,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,110,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,122,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,122,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,110,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,122,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,122,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,122,4],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
 "d1/d17/classArenaSeasonMgr.html":[6,0,190],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1e/WildGrowthTickScalingTest_8cpp.html#ad78da13617963af6adeadcec4d175082":[7,0,0,0,2,2,0,9,28,7],
 "d1/d1e/WildGrowthTickScalingTest_8cpp.html#ad88848d6f6a3aac255bc69c9fe088035":[7,0,0,0,2,2,0,9,28,5],
 "d1/d1e/WildGrowthTickScalingTest_8cpp.html#ade248bfbf5bb17e3ab46f8d2276b3ba8":[7,0,0,0,2,2,0,9,28,8],
-"d1/d20/classspell__teron__gorefiend__spiritual__vengeance.html":[6,0,4138],
-"d1/d20/classspell__teron__gorefiend__spiritual__vengeance.html#a5a65a3fca846dc40aeb31e4ff56958ca":[6,0,4138,2]
+"d1/d20/classspell__teron__gorefiend__spiritual__vengeance.html":[6,0,4138]
 };

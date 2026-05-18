@@ -1,5 +1,9 @@
 var NAVTREEINDEX309 =
 {
+"db/dec/wdt_8cpp.html#aac8041bc8ca704e28f2b3054649b3752":[7,0,0,0,3,1,9,2],
+"db/ded/LoginDatabase_8cpp.html":[7,0,0,0,1,1,0,0,2],
+"db/ded/classMockUnitStub.html":[6,0,1543],
+"db/ded/classMockUnitStub.html#a0cbd6994e0de9a0052bdcc8750881eac":[6,0,1543,10],
 "db/ded/classMockUnitStub.html#a4d624c7be7180f8c85b624e87601d659":[6,0,1543,11],
 "db/ded/classMockUnitStub.html#a5e71c6a07e54153dd5081af175031c18":[6,0,1543,6],
 "db/ded/classMockUnitStub.html#a70f7f432cdb5248e4d7538e989d45c11":[6,0,1543,1],
@@ -93,10 +97,10 @@ var NAVTREEINDEX309 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1554,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1554,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1554,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,13,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,13,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,13,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX309 =
 "db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4507,1],
 "db/df7/EventEmitter_8h.html":[7,0,0,0,0,15,8],
 "db/df7/structnpc__twilight__volunteer.html":[6,0,2219],
-"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2219,0],
-"db/df7/structnpc__twilight__volunteer.html#a4f27ae97ccf2c349a6352a0f5ba1681a":[6,0,2219,4],
-"db/df7/structnpc__twilight__volunteer.html#a8350dba2c41754a2e5d15c94731ef27d":[6,0,2219,7],
-"db/df7/structnpc__twilight__volunteer.html#a93288a45982b172c201e2442a4c91114":[6,0,2219,5],
-"db/df7/structnpc__twilight__volunteer.html#abc2e12fb7be5b1a7dabc4c2211e7de13":[6,0,2219,1]
+"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2219,0]
 };

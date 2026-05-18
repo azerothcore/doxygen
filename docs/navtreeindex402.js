@@ -1,5 +1,12 @@
 var NAVTREEINDEX402 =
 {
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a03dc3870b23105bb1d0d207adefe2541":[6,0,1931,0,2],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[6,0,1931,0,0],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[6,0,1931,0,9],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[6,0,1931,0,4],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[6,0,1931,0,1],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[6,0,1931,0,7],
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[6,0,1931,0,8],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[6,0,1931,0,5],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#abf30320da7f6fc6a4f213b0c4b2b24ce":[6,0,1931,0,3],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#ac4de8610671b000bdff5cf47f2aecd0f":[6,0,1931,0,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX402 =
 "df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[6,0,4076,1],
 "df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[6,0,4076,3],
 "df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[6,0,4076,2],
-"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[6,0,4076,5],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html":[6,0,1664,0],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1664,0,8],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[6,0,1664,0,6],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a1f24ea5604563c9a16c5a2a91ae078f1":[6,0,1664,0,1],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a27a8ceb27724f074de840d24dcf0e284":[6,0,1664,0,12],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a47ac00c081635aeba9ef02a7f1bbd645":[6,0,1664,0,10],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a555a152b2f4981dc824a6fb0f66b5702":[6,0,1664,0,13]
+"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[6,0,4076,5]
 };

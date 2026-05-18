@@ -638,6 +638,8 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_RESPAWN_GAMEOBJECT_GUID", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa4a3e6ae7ffddbf8e37872c98827c5fd", null ],
       [ "RBAC_PERM_COMMAND_RESPAWN_CREATURE_ENTRY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a917a8112f345d458c7b0a783da1b51f7", null ],
       [ "RBAC_PERM_COMMAND_RESPAWN_GAMEOBJECT_ENTRY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ad5545fc4f0d4f3d847d7fb5c4c2a8add", null ],
+      [ "RBAC_PERM_COMMAND_DEBUG_INFO", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a9d9eff5b7002421018c0ab3f0829c9d6", null ],
+      [ "RBAC_PERM_COMMAND_DEBUG_COSMETIC", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af25ad1f6c47779f80f6e7a5279c579a6", null ],
       [ "RBAC_PERM_MAX", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dc/d36/namespacerbac.html#ad45fe4229235a57fc4952a69ede78410", null ]

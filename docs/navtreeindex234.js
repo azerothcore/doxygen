@@ -1,5 +1,9 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd6/DBCfmt_8h.html":[7,0,0,0,1,4,0,3],
+"d8/dd6/DBCfmt_8h.html#a0075040f7af393b0e85ca47430c7f37c":[7,0,0,0,1,4,0,3,49],
+"d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35],
+"d8/dd6/DBCfmt_8h.html#a0a9211dfe8a10e9d63a78306415ea057":[7,0,0,0,1,4,0,3,2],
 "d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[7,0,0,0,1,4,0,3,6],
 "d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[7,0,0,0,1,4,0,3,69],
 "d8/dd6/DBCfmt_8h.html#a1266dda82a0166373df711f4de5b84fa":[7,0,0,0,1,4,0,3,20],
@@ -245,9 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
 "d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,2],
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,2,1],
-"d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2291],
-"d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[6,0,2291,1],
-"d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[6,0,2291,2],
-"d8/dda/classnpc__wizzlecrank__shredder.html#afcd5aaea5234b6510825d9ce5e809aa6":[6,0,2291,3],
-"d8/ddb/classAreaTrigger__at__last__rites.html":[6,0,176]
+"d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2291]
 };

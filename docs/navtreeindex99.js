@@ -1,5 +1,7 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafbd2d10782aecfcfaa18a0cf91ba97a2":[7,0,0,0,1,2,48,7,0,418],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafc2bdac70007898b64ed28a0eaff15d5":[7,0,0,0,1,2,48,7,0,68],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafc468fdce48d686a18c46611936882ce":[7,0,0,0,1,2,48,7,0,290],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafcb19b2abc44e21fd80abcebf138a611":[7,0,0,0,1,2,48,7,0,300],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafcff76f71d18dfe9755a55182889778e":[7,0,0,0,1,2,48,7,0,169],
@@ -29,8 +31,8 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[6,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1212],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1212,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1212,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d57/classspell__random__aggro.html#a2270ce546ae286ffa701d094df591aa2":[6,0,3937,1],
 "d3/d57/classspell__random__aggro.html#a710f2a60bf6ae00909d279b98ac6b7d6":[6,0,3937,2],
 "d3/d57/classspell__random__aggro.html#a76b09288d14d399735250607e2105eb3":[6,0,3937,0],
-"d3/d5b/classLichKingDeathEvent.html":[6,0,1436],
-"d3/d5b/classLichKingDeathEvent.html#a06b9a77d3c5efb228368a1e423a620ae":[6,0,1436,1],
-"d3/d5b/classLichKingDeathEvent.html#a75ccb1b2bd5a8149aff85404b5e0ce21":[6,0,1436,2]
+"d3/d5b/classLichKingDeathEvent.html":[6,0,1436]
 };

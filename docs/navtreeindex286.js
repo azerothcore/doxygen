@@ -1,5 +1,9 @@
 var NAVTREEINDEX286 =
 {
+"db/d1d/structboss__ouro.html#aa571cee2fee8a79917f4c63b94a9a1b6":[6,0,663,3],
+"db/d1d/structboss__ouro.html#ab59237535be7a86cb4c0db4819a4d9d5":[6,0,663,11],
+"db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[6,0,663,4],
+"db/d1d/structboss__ouro.html#aee5769af48127617d40fa440d042e434":[6,0,663,5],
 "db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[6,0,663,13],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[6,0,2087,0],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a16ab37be9e31dcfc159b5c78b196b847":[6,0,2087,0,1],
@@ -60,10 +64,10 @@ var NAVTREEINDEX286 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1903,0],
@@ -81,10 +85,10 @@ var NAVTREEINDEX286 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1903,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,13,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,13,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[6,0,694],
@@ -245,9 +249,5 @@ var NAVTREEINDEX286 =
 "db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[6,0,2463,6],
 "db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[6,0,2463,0],
 "db/d30/classPlayerDumpReader.html":[6,0,2412],
-"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2412,1],
-"db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2412,3],
-"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2412,0],
-"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2412,2],
-"db/d30/structboss__hydromancer__thespia.html":[6,0,555]
+"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2412,1]
 };

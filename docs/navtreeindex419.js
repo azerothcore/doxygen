@@ -1,5 +1,12 @@
 var NAVTREEINDEX419 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae466031b510e8e262593695defb45162":[7,0,0,0,1,3,5,6,4,56,5],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae5c3f18de770d7d4fb007cd37b86cf61":[7,0,0,0,1,3,5,6,4,56,11],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae5ec825df3ee6515fc160e0b0a48ba5f":[7,0,0,0,1,3,5,6,4,56,25],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae6fb0d4bba248b7a236e707ca9f4a75f":[7,0,0,0,1,3,5,6,4,56,17],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298caf899ddee0ea5029085762abeff78b932":[7,0,0,0,1,3,5,6,4,56,12],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cafeb43072f684b2563826e45ac18a6555":[7,0,0,0,1,3,5,6,4,56,14],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a643943fd1d4ba977492feddfa3fed018":[7,0,0,0,1,3,5,6,4,69],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a6f7794498a43bcf34a1c7fcae34e61e4":[7,0,0,0,1,3,5,6,4,71],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a7223737951358748df19a97099ecedd9":[7,0,0,0,1,3,5,6,4,65],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a76a28cac90f5383e2003c6157fbb689e":[7,0,0,0,1,3,5,6,4,64],
@@ -242,12 +249,5 @@ var NAVTREEINDEX419 =
 "df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1919,1],
 "df/dde/classnpc__rinji.html":[6,0,2098],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2098,2],
-"df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2098,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,11,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,11,23,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,11,23,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,11,23,3]
+"df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2098,1]
 };

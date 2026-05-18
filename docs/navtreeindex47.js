@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af041dc2bf0ecf42958a9a8f521460862":[7,0,0,0,1,3,9,11,45,52],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af475dcd791391d00772aba22b47140a6":[7,0,0,0,1,3,9,11,45,29],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af7a9a877ac9116db61ec310ae310c87a":[7,0,0,0,1,3,9,11,45,22],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af914cb62745580fca35088f980b2759d":[7,0,0,0,1,3,9,11,45,23],
@@ -178,10 +179,10 @@ var NAVTREEINDEX47 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,13,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,13,6,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,13,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,13,6,26,1],
 "d1/de0/classnpc__stable__master.html":[6,0,2144],
 "d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[6,0,2144,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[6,0,2144,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fab4358e90b497dfdba0e47a7ee871154d":[7,0,0,0,1,3,9,2,194,26],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fabdd64828eb3b9112e567a8c0fff65795":[7,0,0,0,1,3,9,2,194,9],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fac0dbc0e4c5ae503fb39798c5ac8629bb":[7,0,0,0,1,3,9,2,194,4],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad3c10a73269e416bf262537d308f6fc6":[7,0,0,0,1,3,9,2,194,27],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad64a4f238664a1f1c10ac4225517f53d":[7,0,0,0,1,3,9,2,194,7]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad3c10a73269e416bf262537d308f6fc6":[7,0,0,0,1,3,9,2,194,27]
 };

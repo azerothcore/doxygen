@@ -1,5 +1,12 @@
 var NAVTREEINDEX371 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09ffe4e99e7854f73a28ed106ebb90e2":[7,0,0,0,1,4,7,103,137],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b7fa0c2fd1c5c2d41d88fb4d0e03fde":[7,0,0,0,1,4,7,103,23],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b9c0aef226b96385215268516b77211":[7,0,0,0,1,4,7,103,143],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0c531f48ca1947cfbe8af1377a01e148":[7,0,0,0,1,4,7,103,17],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0edd3cdf99e0ce3885ffafd99355736d":[7,0,0,0,1,4,7,103,106],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a104647771f49f0d4d099499daf3e0f52":[7,0,0,0,1,4,7,103,38],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1270423d14612bd2d81d933e80414e25":[7,0,0,0,1,4,7,103,104],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a141116a0807c07a28d671c06890ad422":[7,0,0,0,1,4,7,103,67],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1a618d89681c70de5f52ae34a78e13ed":[7,0,0,0,1,4,7,103,112],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a1c73e94578e3650948e1848854274649":[7,0,0,0,1,4,7,103,16],
@@ -242,12 +249,5 @@ var NAVTREEINDEX371 =
 "de/d0e/classspell__item__soul__preserver.html#a4020daf9d601eb53fe84f9cdbcf96626":[6,0,3445,3],
 "de/d0e/classspell__item__soul__preserver.html#aa5e12d556fef142f96c8f03dda4a4c80":[6,0,3445,1],
 "de/d0e/classspell__item__soul__preserver.html#ac8790ac907c6aa798575e2460c272f17":[6,0,3445,2],
-"de/d0e/structnpc__vekniss__stinger.html":[6,0,2265],
-"de/d0e/structnpc__vekniss__stinger.html#a1ff479e8f45710f6aa36473933bb87e0":[6,0,2265,3],
-"de/d0e/structnpc__vekniss__stinger.html#a2a79f3775aad83410ff2670aa438e811":[6,0,2265,2],
-"de/d0e/structnpc__vekniss__stinger.html#ad48098961715a924270cb8bbbe77e4b0":[6,0,2265,0],
-"de/d0e/structnpc__vekniss__stinger.html#ae7c758687c81cfb223066f0a9348eab8":[6,0,2265,1],
-"de/d0f/structnpc__anubisath__guardian.html":[6,0,1629],
-"de/d0f/structnpc__anubisath__guardian.html#a16d1e70f0ca0fcef972ac45f82e885e6":[6,0,1629,3],
-"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[6,0,1629,1]
+"de/d0e/structnpc__vekniss__stinger.html":[6,0,2265]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX354 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081":[7,0,0,0,1,3,7,12,12,7],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2":[7,0,0,0,1,3,7,12,12,2],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800aca2132a9fb3f52ef6b935470b5f0712b":[7,0,0,0,1,3,7,12,12,6],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800adb84ff3325e5e417b4181ca493f156f7":[7,0,0,0,1,3,7,12,12,5],
+"dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffa":[7,0,0,0,1,3,7,12,13],
+"dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab":[7,0,0,0,1,3,7,12,13,11],
+"dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647":[7,0,0,0,1,3,7,12,13,0],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e":[7,0,0,0,1,3,7,12,13,4],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1":[7,0,0,0,1,3,7,12,13,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d":[7,0,0,0,1,3,7,12,13,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dd6/classcharacter__commandscript.html#af60a32bae9f99f48eb8665966ea42fd7":[6,0,868,16],
 "dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42":[6,0,868,1],
 "dd/dd6/classnpc__aeranas.html":[6,0,1598],
-"dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1598,1],
-"dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[6,0,1598,2],
-"dd/dd6/structboss__falric.html":[6,0,474],
-"dd/dd6/structboss__falric.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a":[6,0,474,7],
-"dd/dd6/structboss__falric.html#a099280eb7f2b40df3fbecfa9fe35fac4":[6,0,474,9],
-"dd/dd6/structboss__falric.html#a4ade4a16095031988e2ae50602cd0da8":[6,0,474,3],
-"dd/dd6/structboss__falric.html#a68c6b3012bbb1e7542c9b4db2f596463":[6,0,474,4],
-"dd/dd6/structboss__falric.html#a9acd7854d725b07df53ae60538df27b1":[6,0,474,1]
+"dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1598,1]
 };

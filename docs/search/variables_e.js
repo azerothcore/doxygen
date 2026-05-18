@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_0',['n',['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N']]],
+  ['n_0',['n',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n']]],
   ['na_5fbuff_5fzone_1',['NA_BUFF_ZONE',['../df/d9a/OutdoorPvPNA_8h.html#ae9287f13e383331fe53c5a514989ca99',1,'OutdoorPvPNA.h']]],
   ['na_5fcredit_5fmarker_2',['NA_CREDIT_MARKER',['../df/d9a/OutdoorPvPNA_8h.html#a8c04516b1462a78d64563849fe3136a1',1,'OutdoorPvPNA.h']]],
   ['na_5fguard_5fcheck_5ftime_3',['NA_GUARD_CHECK_TIME',['../df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf',1,'OutdoorPvPNA.h']]],
@@ -117,7 +117,7 @@ var searchData=
   ['nodeid_114',['nodeid',['../d8/df8/structABNodeInfo.html#a039c468fa0b6110809f0617496c0146c',1,'ABNodeInfo::NodeId'],['../d3/db8/structICNodeInfo.html#a09d4904c622dd7810e154bc0f3bd7eaf',1,'ICNodeInfo::NodeId']]],
   ['nodepoint_115',['nodePoint',['../dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5',1,'BattlegroundIC']]],
   ['nodepointinitial_116',['nodePointInitial',['../d0/d91/BattlegroundIC_8h.html#a791f951302a382136863381970015c01',1,'BattlegroundIC.h']]],
-  ['nodes_117',['nodes',['../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d',1,'RegularGrid2D::nodes'],['../d2/dc3/structWaypointPath.html#a6326c73791542489c7f4d098b05887fb',1,'WaypointPath::Nodes']]],
+  ['nodes_117',['nodes',['../d2/dc3/structWaypointPath.html#a6326c73791542489c7f4d098b05887fb',1,'WaypointPath::Nodes'],['../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d',1,'RegularGrid2D::nodes']]],
   ['nodestate_118',['nodeState',['../d7/d37/structICNodePoint.html#a214e160c6fd94cefb4d080a94a12ba56',1,'ICNodePoint']]],
   ['nodetype_119',['nodeType',['../d7/d37/structICNodePoint.html#a3b303a427c4a2248dade5eada6774dc9',1,'ICNodePoint']]],
   ['nopartialclear_120',['NoPartialClear',['../dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df',1,'WorldPackets::LFG::LFGJoin']]],
@@ -126,7 +126,7 @@ var searchData=
   ['normfaction_123',['NormFaction',['../d1/d11/structnpc__plucky_1_1npc__pluckyAI.html#afd9c6fccf4c30b4fbc62bfa951665949',1,'npc_plucky::npc_pluckyAI']]],
   ['northforgepos_124',['northForgePos',['../d1/d43/boss__forgemaster__garfrost_8cpp.html#a37c3a9c0f86a22051ef229548afa2603',1,'boss_forgemaster_garfrost.cpp']]],
   ['northrendbeastsmask_125',['northrendBeastsMask',['../d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a2cc64b81560df68cc159e230ec25fb5c',1,'instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript']]],
-  ['note_126',['note',['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41',1,'WorldPackets::Guild::GuildSetMemberNote::Note'],['../d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a',1,'ProgressionRequirement::note'],['../d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f',1,'FriendInfo::Note'],['../dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94',1,'WorldPackets::Guild::GuildRosterMemberData::Note']]],
+  ['note_126',['note',['../d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a',1,'ProgressionRequirement::note'],['../d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f',1,'FriendInfo::Note'],['../dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94',1,'WorldPackets::Guild::GuildRosterMemberData::Note'],['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41',1,'WorldPackets::Guild::GuildSetMemberNote::Note']]],
   ['noteename_127',['NoteeName',['../d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af',1,'WorldPackets::Guild::GuildSetMemberNote']]],
   ['nothposition_128',['nothPosition',['../d8/d35/boss__noth_8cpp.html#a5ea7a58738763ee366de28d98ae5a025',1,'boss_noth.cpp']]],
   ['notincombat_129',['notInCombat',['../dd/d3b/structGameObjectTemplate.html#afab75dce09111797347fb1b46d081903',1,'GameObjectTemplate']]],

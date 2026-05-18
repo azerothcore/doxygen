@@ -1,5 +1,9 @@
 var NAVTREEINDEX163 =
 {
+"d5/dd9/structArenaSeasonRewardGroup.html#ade97a1ea3355cd19aaf65ab80a26e4bf":[6,0,194,10],
+"d5/dd9/structArenaSeasonRewardGroup.html#afa55d982d4f2ef5f2eccf48ed305b649":[6,0,194,8],
+"d5/ddc/classClientOpcodeHandler.html":[4,1,7],
+"d5/ddc/classPeriodicAbsorbStealthProcTest.html":[6,0,2384],
 "d5/ddc/classPeriodicAbsorbStealthProcTest.html#a2d10e74ba4f778b395a48eb68a586711":[6,0,2384,3],
 "d5/ddc/classPeriodicAbsorbStealthProcTest.html#a63d060f7643fc3d35eb4f0fd082f1af4":[6,0,2384,0],
 "d5/ddc/classPeriodicAbsorbStealthProcTest.html#a685e2dbb620ab792ed3e952cf2b5dab8":[6,0,2384,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX163 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a796ba931c59911d3e4104012a63f8c27":[6,0,1362,0,1],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a88443ba0a66cf0b8835db14c68f65686":[6,0,1362,0,15],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a8f77ce96ebefe66672418cd200537fe3":[6,0,1362,0,13],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098":[6,0,1362,0,36],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#aae3a098e7764dddd051434d2bb9a1be1":[6,0,1362,0,17],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#aae44a74d5efd71656f29a03c0e7f917f":[6,0,1362,0,31],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ab48d85eb9e0170ae329cd7b92d4ca24c":[6,0,1362,0,27],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#aba4df18b6ffe0975b0975e42584a9e97":[6,0,1362,0,26]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098":[6,0,1362,0,36]
 };

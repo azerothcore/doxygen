@@ -1,5 +1,12 @@
 var NAVTREEINDEX413 =
 {
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1964,0,7],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1964,0,4],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1964,0,5],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1964,0,2],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1964,0,3],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1964,0,8],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1964,0,0],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aea2ab8bf79d6fcc3d2036d160274fab8":[6,0,1964,0,1],
 "df/dbf/classpet__commandscript.html":[6,0,2388],
 "df/dbf/classpet__commandscript.html#a01026a4936774d2225d10e0f6e27b08c":[6,0,2388,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,92,1],
 "df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,92,0],
 "df/dd3/classspell__pal__heart__of__the__crusader.html":[6,0,3712],
-"df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[6,0,3712,3],
-"df/dd3/classspell__pal__heart__of__the__crusader.html#a6583928e441d418130df561962518deb":[6,0,3712,1],
-"df/dd3/classspell__pal__heart__of__the__crusader.html#a9548fa0c523182c58e0dcc76b2db7f69":[6,0,3712,2],
-"df/dd3/classspell__pal__heart__of__the__crusader.html#ac85ee0780894f16c8760ede0fa555bd8":[6,0,3712,0],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html":[6,0,813],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[6,0,813,1],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[6,0,813,2],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,813,0]
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[6,0,3712,3]
 };
