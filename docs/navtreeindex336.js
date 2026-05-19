@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dd/d0a/cs__pooltools_8cpp.html":[7,0,0,0,1,3,0,39],
 "dd/d0a/cs__pooltools_8cpp.html#a8c8907ff2ae66e87142b14909a2ee941":[7,0,0,0,1,3,0,39,4],
 "dd/d0a/cs__pooltools_8cpp.html#ab5e275ff67266d9329307cd8a5398b14":[7,0,0,0,1,3,0,39,5],
 "dd/d0a/structGtOCTRegenHPEntry.html":[6,0,1264],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adee":[7,0,0,0,1,2,32,1,7],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e":[7,0,0,0,1,2,32,1,7,4],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab":[7,0,0,0,1,2,32,1,7,2],
-"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc":[7,0,0,0,1,2,32,1,7,3],
-"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6":[7,0,0,0,1,2,32,1,7,6]
+"dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc":[7,0,0,0,1,2,32,1,7,3]
 };

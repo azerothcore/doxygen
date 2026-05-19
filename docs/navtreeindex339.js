@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/d27/structSmartAction.html#abb522cfef64a5678679e97bc35e83705":[6,0,2581,71],
 "dd/d27/structSmartAction.html#abb8882b96e92ff475aac3c2fe80a5438":[6,0,2581,158],
 "dd/d27/structSmartAction.html#abb8e1e13c14fabf01a247b498ea99e62":[6,0,2581,293],
 "dd/d27/structSmartAction.html#abb990fc8b02f4a5d8d78675817ddd668":[6,0,2581,69],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/d30/classspell__item__deadly__precision.html#a8e452c968558f3bd273b18a8055745d2":[6,0,3329,0],
 "dd/d30/classspell__item__deadly__precision.html#aa18e4975db4e2831c61f38d990886676":[6,0,3329,1],
 "dd/d30/instance__temple__of__ahnqiraj_8cpp.html":[7,0,0,0,1,3,4,9,9],
-"dd/d30/instance__temple__of__ahnqiraj_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,9,9,3],
-"dd/d30/instance__temple__of__ahnqiraj_8cpp.html#a60077e2c1e4137c99545119e5eeb1bb3":[7,0,0,0,1,3,4,9,9,2]
+"dd/d30/instance__temple__of__ahnqiraj_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,9,9,3]
 };

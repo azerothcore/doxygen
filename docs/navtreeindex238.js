@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1d849b6a1c47c657cf1ed0cb153ef33c":[7,0,0,0,1,3,2,1,1,13,1,2],
 "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d":[7,0,0,0,1,3,2,1,1,13,1,0],
 "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,2,1,1,13,1,1],
 "d8/dff/structCalendarEvent.html":[6,0,849],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ac687bd20f0ae66b21ce52c21561af417":[6,0,1834,0,3],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad0ac0647feb998e837a44b0a688694e9":[6,0,1834,0,6],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad35b64b37915484b133bcd185a832011":[6,0,1834,0,2],
-"d9/d03/structModelHeader.html":[6,0,1546],
-"d9/d03/structModelHeader.html#a014d42c24266dcadcc577b541950fc05":[6,0,1546,60]
+"d9/d03/structModelHeader.html":[6,0,1546]
 };

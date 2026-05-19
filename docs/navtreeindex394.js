@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"de/deb/structM2Header.html#a1c8ef02d4d60a0bb6e88e7090e7098d1":[6,0,1485,5],
 "de/deb/structM2Header.html#a30b698eedf1a476f074fbce88302e9a3":[6,0,1485,22],
 "de/deb/structM2Header.html#a32d67223aaae8ad49c3acccc4c68c371":[6,0,1485,15],
 "de/deb/structM2Header.html#a375f6df3e7109b958ea6b898194e2ed7":[6,0,1485,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "de/df7/classWorldPackets_1_1Packet.html#a316af2b7ce1ac7189fb1e57f534bad11":[5,0,34,24,0],
 "de/df7/classWorldPackets_1_1Packet.html#a316af2b7ce1ac7189fb1e57f534bad11":[6,0,13,24,0],
 "de/df7/classWorldPackets_1_1Packet.html#a6d2afd0d4b0d7daff11868854b7c4715":[5,0,34,24,5],
-"de/df7/classWorldPackets_1_1Packet.html#a6d2afd0d4b0d7daff11868854b7c4715":[6,0,13,24,5],
-"de/df7/classWorldPackets_1_1Packet.html#a94afc4d66c2b5bced3063bab5a666bfd":[5,0,34,24,6]
+"de/df7/classWorldPackets_1_1Packet.html#a6d2afd0d4b0d7daff11868854b7c4715":[6,0,13,24,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/d8c/structnpc__amanishi__scout.html#a3740a4fde31e1e81edb34dde61403acc":[6,0,1613,4],
 "dc/d8c/structnpc__amanishi__scout.html#a5969fadd871094e993c4d3fe0b08054c":[6,0,1613,1],
 "dc/d8c/structnpc__amanishi__scout.html#a74bed56c21c184e661f62c30ce6d9140":[6,0,1613,0],
 "dc/d8c/structnpc__amanishi__scout.html#ac527a3a656888f7ac3d13636a0de7aad":[6,0,1613,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/da0/classboss__razuvious__minion.html#ae23d51c9ebfe31f624a749578d27252c":[6,0,686,1],
 "dc/da0/classboss__razuvious__minion.html#afab8dccbc0b098a1fa058ef8479ba865":[6,0,686,2],
 "dc/da0/item__scripts_8cpp.html":[7,0,0,0,1,3,10,7],
-"dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046cca":[7,0,0,0,1,3,10,7,7],
-"dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f":[7,0,0,0,1,3,10,7,7,1]
+"dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046cca":[7,0,0,0,1,3,10,7,7]
 };

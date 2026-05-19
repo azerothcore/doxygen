@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/dd7/AllItemScript_8cpp.html#a0f69164743e657905c670df85e97a29c":[7,0,0,0,1,2,38,0,16,0],
 "d9/dd7/AllItemScript_8cpp.html#a9f258d1e2f9fb6ce144923451b63f995":[7,0,0,0,1,2,38,0,16,1],
 "d9/dd7/CreatureAIRegistry_8cpp.html":[7,0,0,0,1,2,3,7],
 "d9/dd7/CreatureAIRegistry_8cpp.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a70528b772138b2710b819aacb79866d3":[7,0,0,0,1,3,2,15,3,7,1],
 "d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,2,15,3,7,5],
 "d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab64040cb131037fa0b1e37b47f13134d":[7,0,0,0,1,3,2,15,3,7,2],
-"d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad9a15f0e8244706f5871b3a47adddee2":[7,0,0,0,1,3,2,15,3,7,3],
-"d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,2,15,3,7,4]
+"d9/df1/boss__janalai_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad9a15f0e8244706f5871b3a47adddee2":[7,0,0,0,1,3,2,15,3,7,3]
 };

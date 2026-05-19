@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/ddf/classgo__flames.html#aea11412e7d17b744b4e70ec754a1e6cc":[6,0,1173,2],
 "de/de0/classspell__gen__steal__weapon.html":[6,0,3104],
 "de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[6,0,3104,4],
 "de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[6,0,3104,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/deb/structM2Header.html#a084779caf257442acbfb8207a2f4b40b":[6,0,1485,18],
 "de/deb/structM2Header.html#a0f17bcf234f8a9932af383974b195fd9":[6,0,1485,57],
 "de/deb/structM2Header.html#a165a732868dccd8eed38095d63af2e43":[6,0,1485,2],
-"de/deb/structM2Header.html#a16b620c87a7094974e487ff05968860b":[6,0,1485,51],
-"de/deb/structM2Header.html#a1c8ef02d4d60a0bb6e88e7090e7098d1":[6,0,1485,5]
+"de/deb/structM2Header.html#a16b620c87a7094974e487ff05968860b":[6,0,1485,51]
 };

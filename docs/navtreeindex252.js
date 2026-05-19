@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"d9/dae/structM2Camera.html#abf0892be5ecf6d1e1021e101832396f3":[6,0,1484,3],
 "d9/dae/structM2Camera.html#ad3428dcc0b93e509c9225fa86ea2d691":[6,0,1484,5],
 "d9/dae/structM2Camera.html#ae553ef5e28cc3af3acd45b9efd309fbe":[6,0,1484,1],
 "d9/dae/structM2Camera.html#af70a06bda2dffbf2d3c49cb696beea2f":[6,0,1484,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "d9/dc6/classspell__warl__demonic__circle__summon.html":[6,0,4248],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a06e45d5f63ef1395b5949482e8393098":[6,0,4248,2],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a92f2bb73ec58832eaada3c7140f7868d":[6,0,4248,1],
-"d9/dc6/classspell__warl__demonic__circle__summon.html#a9a2da4d163a96526e14f5de76798a784":[6,0,4248,4],
-"d9/dc6/classspell__warl__demonic__circle__summon.html#abf1d49720ae43d4ed2fb1c2920387ace":[6,0,4248,3]
+"d9/dc6/classspell__warl__demonic__circle__summon.html#a9a2da4d163a96526e14f5de76798a784":[6,0,4248,4]
 };

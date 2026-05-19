@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/db5/classBattlegroundDS.html#a97ed6f531b1de3eaf93c585e205e7f54":[6,0,335,3],
 "de/db5/classBattlegroundDS.html#aaef0cac1f3283c56117efcc484a0abfc":[6,0,335,10],
 "de/db5/classBattlegroundDS.html#ab9ab60253daa5318dcdb6675c8919cd5":[6,0,335,7],
 "de/db5/classBattlegroundDS.html#ae008bf979e6984856237938dfe743ec7":[6,0,335,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,2,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1]
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1]
 };

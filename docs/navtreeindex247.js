@@ -1,5 +1,6 @@
 var NAVTREEINDEX247 =
 {
+"d9/d6d/structboss__vaelastrasz.html#aa6bbbbe76f890112fc1d2e4cd4159346":[6,0,771,1],
 "d9/d6d/structboss__vaelastrasz.html#aa73cdc2f26c0710d5d917c4f787a1793":[6,0,771,12],
 "d9/d6d/structboss__vaelastrasz.html#abff4fd6f7f15771b8fccabf4f633c067":[6,0,771,5],
 "d9/d6d/structboss__vaelastrasz.html#ac496730fdeb5e55c125a1880626c76e4":[6,0,771,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d7b/classVMAP_1_1WmoLiquid.html#aaf774921a4c53be868aa5714779fc9d2":[5,0,31,24,1],
 "d9/d7b/classVMAP_1_1WmoLiquid.html#aaf774921a4c53be868aa5714779fc9d2":[6,0,11,24,1],
 "d9/d7b/classVMAP_1_1WmoLiquid.html#ab687769751c9d17d11805a6cd6fdd859":[6,0,11,24,5],
-"d9/d7b/classVMAP_1_1WmoLiquid.html#ab687769751c9d17d11805a6cd6fdd859":[5,0,31,24,5],
-"d9/d7b/classVMAP_1_1WmoLiquid.html#ad23b901e2fda90b2c5fe8cd573cf14f1":[6,0,11,24,8]
+"d9/d7b/classVMAP_1_1WmoLiquid.html#ab687769751c9d17d11805a6cd6fdd859":[5,0,31,24,5]
 };

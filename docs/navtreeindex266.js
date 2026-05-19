@@ -1,5 +1,6 @@
 var NAVTREEINDEX266 =
 {
+"da/d57/classspell__xt002__gravity__bomb__aura.html#a004ba2e0e83a14bef3cae208a45f222b":[6,0,4338,3],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#a63b654cf540e331e4d2b4f4ece5c1fcc":[6,0,4338,2],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#aa49d1186ca6f5cdd628728a8a30c06a0":[6,0,4338,0],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#aa56622a1e57c157260940023a6c70a35":[6,0,4338,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX266 =
 "da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da":[7,0,0,0,1,3,7,1,7,2,2],
 "da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6":[7,0,0,0,1,3,7,1,7,2,16],
 "da/d65/boss__supremus_8cpp.html#aca4140213fae739c682d7d7e241294e0":[7,0,0,0,1,3,7,1,7,3],
-"da/d65/classspell__rotface__unstable__ooze__explosion__init.html":[6,0,3990],
-"da/d65/classspell__rotface__unstable__ooze__explosion__init.html#a6ca80316fe7bcbb4ebda095d633bb1bc":[6,0,3990,3]
+"da/d65/classspell__rotface__unstable__ooze__explosion__init.html":[6,0,3990]
 };

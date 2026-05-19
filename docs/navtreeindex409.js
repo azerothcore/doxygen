@@ -1,5 +1,6 @@
 var NAVTREEINDEX409 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a2ca90cdca32c0c9a0fef5ece362bb3e6":[7,0,0,0,1,3,6,8,15],
 "df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789a":[7,0,0,0,1,3,6,8,6],
 "df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553":[7,0,0,0,1,3,6,8,6,2],
 "df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910":[7,0,0,0,1,3,6,8,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX409 =
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5631ca8fd7c0d4a10621bb17edae1bfa":[7,0,0,0,1,3,5,2,0,1,8,6],
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8348663aabf137582a17671bf5d5ff72":[7,0,0,0,1,3,5,2,0,1,8,4],
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada198cbd93456614fce65c07c7c92749":[7,0,0,0,1,3,5,2,0,1,8,3],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1f1281de86c6dad8f1f97b71b3c70c1":[7,0,0,0,1,3,5,2,0,1,8,1],
-"df/da1/classboss__baltharus__the__warborn.html":[6,0,409]
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1f1281de86c6dad8f1f97b71b3c70c1":[7,0,0,0,1,3,5,2,0,1,8,1]
 };

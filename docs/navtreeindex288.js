@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/d41/structnpc__midsummer__bonfire.html#a9210a0a472d609f66895bfa0a8e324b0":[6,0,1976,2],
 "db/d41/structnpc__midsummer__bonfire.html#a9ad2102b2dea60fbb81c1578b97f34dc":[6,0,1976,3],
 "db/d41/structnpc__midsummer__bonfire.html#aa21c9f7a5d7ac29663d94da55ef34373":[6,0,1976,8],
 "db/d41/structnpc__midsummer__bonfire.html#aaa2f2822cb5c104ec2d90c2a344b409d":[6,0,1976,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,0,0,5,10],
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,0,0,5,10,3],
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,0,0,5,10,1],
-"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a79a3438f139bcfe50c9660cc1515e3bd":[7,0,0,0,1,3,5,0,0,5,10,0],
-"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,0,0,5,10,2]
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a79a3438f139bcfe50c9660cc1515e3bd":[7,0,0,0,1,3,5,0,0,5,10,0]
 };

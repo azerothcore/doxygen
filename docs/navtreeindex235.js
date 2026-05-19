@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2291],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[6,0,2291,1],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[6,0,2291,2],
 "d8/dda/classnpc__wizzlecrank__shredder.html#afcd5aaea5234b6510825d9ce5e809aa6":[6,0,2291,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1956,1],
 "d8/de1/structCalendarInvite.html":[6,0,850],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,850,17],
-"d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,850,7],
-"d8/de1/structCalendarInvite.html#a1a4c97cf72f6fa1889ab61e003f5193a":[6,0,850,15]
+"d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,850,7]
 };

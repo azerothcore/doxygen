@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"db/dec/wdt_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,9,0],
 "db/dec/wdt_8cpp.html#aac8041bc8ca704e28f2b3054649b3752":[7,0,0,0,3,1,9,2],
 "db/ded/LoginDatabase_8cpp.html":[7,0,0,0,1,1,0,0,2],
 "db/ded/classMockUnitStub.html":[6,0,1543],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4507,3],
 "db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4507,1],
 "db/df7/EventEmitter_8h.html":[7,0,0,0,0,15,8],
-"db/df7/structnpc__twilight__volunteer.html":[6,0,2219],
-"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2219,0]
+"db/df7/structnpc__twilight__volunteer.html":[6,0,2219]
 };

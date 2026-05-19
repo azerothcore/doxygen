@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"d9/d9f/structnpc__vh__void__sentry.html#a80dc77a2deaf0f922f3f096f40b253e1":[6,0,2271,6],
 "d9/d9f/structnpc__vh__void__sentry.html#aa0ac1eb51911672653ec6fd48d2ef316":[6,0,2271,3],
 "d9/d9f/structnpc__vh__void__sentry.html#aabf96934586d38d6f958c1571c0b3b56":[6,0,2271,2],
 "d9/d9f/structnpc__vh__void__sentry.html#adeb66953fb7540aab5190b825ff98ec8":[6,0,2271,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "d9/dae/structM2Camera.html#a12132e4bcc881cab134851938c45e05a":[6,0,1484,7],
 "d9/dae/structM2Camera.html#a2515ee6fa2fc41f7fca531b55cf0dc61":[6,0,1484,6],
 "d9/dae/structM2Camera.html#a5d23816339fea0ac1e2c6fdad5fe58d8":[6,0,1484,4],
-"d9/dae/structM2Camera.html#a9426497de885b901d364c0b3ddd487d9":[6,0,1484,2],
-"d9/dae/structM2Camera.html#abf0892be5ecf6d1e1021e101832396f3":[6,0,1484,3]
+"d9/dae/structM2Camera.html#a9426497de885b901d364c0b3ddd487d9":[6,0,1484,2]
 };

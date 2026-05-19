@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2412,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2412,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2412,0],
 "db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[6,0,2412,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d41/structnpc__midsummer__bonfire.html#a2a398299b3584e3a871b1b6e83b4ff5f":[6,0,1976,1],
 "db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[6,0,1976,5],
 "db/d41/structnpc__midsummer__bonfire.html#a5c0894721d13dd49961c0687c100d7a5":[6,0,1976,10],
-"db/d41/structnpc__midsummer__bonfire.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5":[6,0,1976,11],
-"db/d41/structnpc__midsummer__bonfire.html#a9210a0a472d609f66895bfa0a8e324b0":[6,0,1976,2]
+"db/d41/structnpc__midsummer__bonfire.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5":[6,0,1976,11]
 };

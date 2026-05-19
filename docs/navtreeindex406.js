@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[6,0,3027,0],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[6,0,3027,2],
 "df/d75/classtele__commandscript.html":[6,0,4470],
 "df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[6,0,4470,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/d86/classspell__dru__t3__2p__bonus.html#a506420e3e109bf8f4e7c83b101c80c3c":[6,0,2902,1],
 "df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[6,0,2902,2],
 "df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[6,0,2902,4],
-"df/d86/npc__innkeeper_8cpp.html":[7,0,0,0,1,3,10,9],
-"df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[7,0,0,0,1,3,10,9,7]
+"df/d86/npc__innkeeper_8cpp.html":[7,0,0,0,1,3,10,9]
 };

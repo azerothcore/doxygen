@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1964,0,6],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[6,0,1964,0,7],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[6,0,1964,0,4],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1964,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd3/classachievement__shadowdodger.html":[6,0,92],
 "df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,92,1],
 "df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,92,0],
-"df/dd3/classspell__pal__heart__of__the__crusader.html":[6,0,3712],
-"df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[6,0,3712,3]
+"df/dd3/classspell__pal__heart__of__the__crusader.html":[6,0,3712]
 };

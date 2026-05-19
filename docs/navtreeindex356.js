@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"dd/de7/classspell__sha__t3__6p__bonus.html#affb8d0a167e6f1bef1aaabd5eb99fe38":[6,0,4058,2],
 "dd/de8/classSpellProcCooldownTest.html":[6,0,4401],
 "dd/de8/classSpellProcCooldownTest.html#a1209729d4d037c8bb63d685fa9bdd07a":[6,0,4401,1],
 "dd/de8/classSpellProcCooldownTest.html#a502fcdf3eb4a377df1616262ca7b8d01":[6,0,4401,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dfa/structboss__nightbane.html#a2cdc3d7e7f83391eaf96e92f20ea703b":[6,0,654,9],
 "dd/dfa/structboss__nightbane.html#a39ed84d01215f9f8427e5c599e424927":[6,0,654,22],
 "dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[6,0,654,13],
-"dd/dfa/structboss__nightbane.html#a55a8cf6e293b0c7ad3865340412aa31e":[6,0,654,24],
-"dd/dfa/structboss__nightbane.html#a7973791c2410f57ed9bc72b151a35419":[6,0,654,16]
+"dd/dfa/structboss__nightbane.html#a55a8cf6e293b0c7ad3865340412aa31e":[6,0,654,24]
 };

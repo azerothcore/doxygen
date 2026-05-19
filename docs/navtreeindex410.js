@@ -1,5 +1,6 @@
 var NAVTREEINDEX410 =
 {
+"df/da1/classboss__baltharus__the__warborn.html":[6,0,409],
 "df/da1/classboss__baltharus__the__warborn.html#aababb8862273d60f140dce675131783d":[6,0,409,1],
 "df/da1/classboss__baltharus__the__warborn.html#afe7ecf8635c8c0a051047a801c2a8d54":[6,0,409,2],
 "df/da1/classspell__q12730__quenching__mist.html":[6,0,3897],
@@ -248,6 +249,5 @@ var NAVTREEINDEX410 =
 "df/da7/classBattleground.html#a6edc5a1f00d1196ceac9fdd755ccbaf6":[6,0,328,230],
 "df/da7/classBattleground.html#a6f861fa621a33725ad81bf5e5fa15cae":[6,0,328,155],
 "df/da7/classBattleground.html#a7069a6a0c423667739380b827d5826e8":[6,0,328,159],
-"df/da7/classBattleground.html#a7096403fa0cdcdf39f652ed71bc0f4d0":[6,0,328,59],
-"df/da7/classBattleground.html#a70e5ab71ed89ba73f2a459c9f42813e5":[6,0,328,148]
+"df/da7/classBattleground.html#a7096403fa0cdcdf39f652ed71bc0f4d0":[6,0,328,59]
 };

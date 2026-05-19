@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3516,0],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3516,2],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[6,0,3516,4],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3516,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1562,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3645],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3645,4],
-"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3645,1],
-"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a34f80edf782ade371e7a6fc908b47b4f":[6,0,3645,5]
+"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3645,1]
 };

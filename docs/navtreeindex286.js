@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"db/d1d/structboss__ouro.html#aa39a371112f585da952331c200b8b5aa":[6,0,663,10],
 "db/d1d/structboss__ouro.html#aa571cee2fee8a79917f4c63b94a9a1b6":[6,0,663,3],
 "db/d1d/structboss__ouro.html#ab59237535be7a86cb4c0db4819a4d9d5":[6,0,663,11],
 "db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[6,0,663,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a":[6,0,2463,2],
 "db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[6,0,2463,6],
 "db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[6,0,2463,0],
-"db/d30/classPlayerDumpReader.html":[6,0,2412],
-"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2412,1]
+"db/d30/classPlayerDumpReader.html":[6,0,2412]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d7/dcf/structboss__vazruden.html#af5b9aa9c7a343486b4dc05819e8d3ccf":[6,0,775,8],
 "d7/dcf/structnpc__qiraj__war__spawn_1_1npc__qiraj__war__spawnAI.html":[6,0,2084,0],
 "d7/dcf/structnpc__qiraj__war__spawn_1_1npc__qiraj__war__spawnAI.html#a1122bc3961300ba39c02613ba0fcd909":[6,0,2084,0,0],
 "d7/dcf/structnpc__qiraj__war__spawn_1_1npc__qiraj__war__spawnAI.html#a301971cf821e68e6be3223d4076f8b49":[6,0,2084,0,11],
@@ -238,16 +239,15 @@ var NAVTREEINDEX214 =
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html":[5,0,0,49],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a0bbe45b38a92967f145fb1d608d647b1":[5,0,0,49,8],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a0bbe45b38a92967f145fb1d608d647b1":[6,0,0,37,8],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a16f9719278e00013c25902846fa1be5b":[5,0,0,49,1],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a16f9719278e00013c25902846fa1be5b":[6,0,0,37,1],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a232325cefa217843da5cc6db7e5d80fe":[6,0,0,37,5],
+"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a16f9719278e00013c25902846fa1be5b":[5,0,0,49,1],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a232325cefa217843da5cc6db7e5d80fe":[5,0,0,49,5],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a71032b0749dd75f552107503528e8166":[5,0,0,49,4],
+"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a232325cefa217843da5cc6db7e5d80fe":[6,0,0,37,5],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a71032b0749dd75f552107503528e8166":[6,0,0,37,4],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a82de25331657b17ce0de33f2b374abda":[5,0,0,49,3],
+"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a71032b0749dd75f552107503528e8166":[5,0,0,49,4],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a82de25331657b17ce0de33f2b374abda":[6,0,0,37,3],
+"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a82de25331657b17ce0de33f2b374abda":[5,0,0,49,3],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a958b154f3c82188e9684be0f0b7dae56":[6,0,0,37,7],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#a958b154f3c82188e9684be0f0b7dae56":[5,0,0,49,7],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#ab73315225b3aa36a309f45596f7089f4":[5,0,0,49,6],
 "d7/de8/classAcore_1_1BroadcastTextBuilder.html#ab73315225b3aa36a309f45596f7089f4":[6,0,0,37,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/d51/structnpc__shadowy__mercenary.html#a2851972b1fa6e3de4f79433e1308dd11":[6,0,2121,1],
 "d9/d51/structnpc__shadowy__mercenary.html#a71290c72bff2a91d7c5cc8d661f28bf9":[6,0,2121,3],
 "d9/d51/structnpc__shadowy__mercenary.html#a88cde525eb5d8db9fb2ffc30f18ddf61":[6,0,2121,4],
 "d9/d51/structnpc__shadowy__mercenary.html#aab9ac47fa72e7a7a6941aad190a18ebb":[6,0,2121,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html":[7,0,0,0,1,3,7,9],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7":[7,0,0,0,1,3,7,9,16],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a2864ea57df0f86936358c799a5c2f335":[7,0,0,0,1,3,7,9,16,2],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a5d3aa2b43141d2bd250bb05d36b4d4e2":[7,0,0,0,1,3,7,9,16,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a6d2e1e704c721d5271c46fda584e4131":[7,0,0,0,1,3,7,9,16,3]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a5d3aa2b43141d2bd250bb05d36b4d4e2":[7,0,0,0,1,3,7,9,16,0]
 };

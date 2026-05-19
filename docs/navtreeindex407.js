@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[7,0,0,0,1,3,10,9,7],
 "df/d86/npc__innkeeper_8cpp.html#a072a033da374692139d9d33e63be89ca":[7,0,0,0,1,3,10,9,5],
 "df/d86/npc__innkeeper_8cpp.html#a2e23760d3d379f3fa92c139f067b5984":[7,0,0,0,1,3,10,9,4],
 "df/d86/npc__innkeeper_8cpp.html#a3115623eb3e0408aad7cd637686aaaee":[7,0,0,0,1,3,10,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#a776dd7a96577ad914d7856d27205e064":[6,0,2588,11],
 "df/d8d/structSmartTarget.html#a7d6cd108ff66eb6e3c3fe1e2cd101f95":[6,0,2588,13],
 "df/d8d/structSmartTarget.html#a83eeb205cdbbdee686d883f0ce3c6a37":[6,0,2588,5],
-"df/d8d/structSmartTarget.html#a8772407f3c557a577055190db8e6345f":[6,0,2588,1],
-"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[6,0,2588,36]
+"df/d8d/structSmartTarget.html#a8772407f3c557a577055190db8e6345f":[6,0,2588,1]
 };

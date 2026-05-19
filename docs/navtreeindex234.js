@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794":[6,0,903,2],
 "d8/dd6/DBCfmt_8h.html":[7,0,0,0,1,4,0,3],
 "d8/dd6/DBCfmt_8h.html#a0075040f7af393b0e85ca47430c7f37c":[7,0,0,0,1,4,0,3,49],
 "d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cac0db7c2e9ed4be044bbd919420e74d08":[7,0,0,0,1,3,5,24,22,1],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
 "d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,2],
-"d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,2,1],
-"d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2291]
+"d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,2,1]
 };

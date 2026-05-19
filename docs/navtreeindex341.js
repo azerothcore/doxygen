@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dd/d3b/structGameObjectTemplate.html#a3b25c483e197fb6ce050314cc2c41863":[6,0,1116,115],
 "dd/d3b/structGameObjectTemplate.html#a3bed0438e64bba77df2505f0b76c9f95":[6,0,1116,75],
 "dd/d3b/structGameObjectTemplate.html#a4046b02a5c557242a296e8cbda116149":[6,0,1116,123],
 "dd/d3b/structGameObjectTemplate.html#a4141b7f565db013b7db62d0dcab482e8":[6,0,1116,59],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#adf388d36c17b69f881e3cb92d9b78b9b":[6,0,2078,0,1],
 "dd/d45/structItemRandomSuffixEntry.html":[6,0,1413],
 "dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[6,0,1413,3],
-"dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1413,0],
-"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1413,1]
+"dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[6,0,1413,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#a3a421d4ee2e7459cbc945c6c70c1993f":[5,0,34,19,4],
 "da/d97/classWorldPackets_1_1CompactArray.html#a3a421d4ee2e7459cbc945c6c70c1993f":[6,0,13,19,4],
 "da/d97/classWorldPackets_1_1CompactArray.html#a656c3568cd73d10dd6f9cda1809ff509":[5,0,34,19,5],
 "da/d97/classWorldPackets_1_1CompactArray.html#a656c3568cd73d10dd6f9cda1809ff509":[6,0,13,19,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/da1/classspell__mage__pet__scaling.html#a5180cc8beb5244bd0b957dfc89dc9cf4":[6,0,3590,5],
 "da/da1/classspell__mage__pet__scaling.html#a56489b52592e63dd00640de388926512":[6,0,3590,4],
 "da/da1/classspell__mage__pet__scaling.html#a5b57273e0d9fc39a000c7bf4e232acb4":[6,0,3590,0],
-"da/da1/classspell__mage__pet__scaling.html#a5b65221c67283a29cbeb63cafe64457a":[6,0,3590,7],
-"da/da1/classspell__mage__pet__scaling.html#a65b6f1a2b322c928fd9a5992380d2e95":[6,0,3590,1]
+"da/da1/classspell__mage__pet__scaling.html#a5b65221c67283a29cbeb63cafe64457a":[6,0,3590,7]
 };

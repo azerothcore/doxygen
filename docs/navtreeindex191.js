@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d6/df5/classSummonList.html#a8f5bac1d56a51f7cc3b3734d81218309":[6,0,4451,16],
 "d6/df5/classSummonList.html#a92d001f7f8ec8b9c1ee3a95bf0d88ac4":[6,0,4451,14],
 "d6/df5/classSummonList.html#a9c8fd42d34e0a3ac1cb64013f45d012a":[6,0,4451,29],
 "d6/df5/classSummonList.html#aa48913073174e466d097a92c3ef8ae15":[6,0,4451,7],
@@ -26,18 +27,18 @@ var NAVTREEINDEX191 =
 "d6/df8/classVMAP_1_1ModelInstance.html#a29f231796cf586e93a39e91905e07509":[6,0,11,13,1],
 "d6/df8/classVMAP_1_1ModelInstance.html#a2e756866245d8131d5fc040489a563e3":[5,0,31,13,3],
 "d6/df8/classVMAP_1_1ModelInstance.html#a2e756866245d8131d5fc040489a563e3":[6,0,11,13,3],
-"d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[6,0,11,13,4],
 "d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[5,0,31,13,4],
-"d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[6,0,11,13,2],
+"d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c":[6,0,11,13,4],
 "d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[5,0,31,13,2],
+"d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba":[6,0,11,13,2],
 "d6/df8/classVMAP_1_1ModelInstance.html#a7a4efa321915b77801e9fc87924df572":[6,0,11,13,0],
 "d6/df8/classVMAP_1_1ModelInstance.html#a7a4efa321915b77801e9fc87924df572":[5,0,31,13,0],
 "d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[6,0,11,13,6],
 "d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[5,0,31,13,6],
-"d6/df8/classVMAP_1_1ModelInstance.html#aca8a2a07911eba5ec362080e2790453c":[5,0,31,13,5],
 "d6/df8/classVMAP_1_1ModelInstance.html#aca8a2a07911eba5ec362080e2790453c":[6,0,11,13,5],
-"d6/df8/classVMAP_1_1ModelInstance.html#adc23d9c9a79ac7cfdb1f90b96485b089":[6,0,11,13,7],
+"d6/df8/classVMAP_1_1ModelInstance.html#aca8a2a07911eba5ec362080e2790453c":[5,0,31,13,5],
 "d6/df8/classVMAP_1_1ModelInstance.html#adc23d9c9a79ac7cfdb1f90b96485b089":[5,0,31,13,7],
+"d6/df8/classVMAP_1_1ModelInstance.html#adc23d9c9a79ac7cfdb1f90b96485b089":[6,0,11,13,7],
 "d6/df8/classspell__dru__glyph__of__rake.html":[6,0,2866],
 "d6/df8/classspell__dru__glyph__of__rake.html#a01c53cd13316af74cfe27603e70ab468":[6,0,2866,2],
 "d6/df8/classspell__dru__glyph__of__rake.html#a307274a8f4e55ad15efc08711a7b8e8f":[6,0,2866,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aaba17094bfe43c9ad63076f84d10a83a":[6,0,600,0,2],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#acf9101c5b776820039fd80e5d6e0c138":[6,0,600,0,3],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#adfa2ab8498279937bf497292d6e7cba5":[6,0,600,0,0],
-"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae163fbd682f09f2a49fa71309284ed3b":[6,0,600,0,5],
-"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae8bdb2bca7c01c564adab93f1dd67720":[6,0,600,0,4]
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae163fbd682f09f2a49fa71309284ed3b":[6,0,600,0,5]
 };

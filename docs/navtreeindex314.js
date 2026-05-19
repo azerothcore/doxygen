@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2907],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2907,1],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[6,0,2907,0],
 "dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2907,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d21/structResultIterator.html#a0b6cee284fea4a4023cc688614432b69":[6,0,2521,9],
 "dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e":[6,0,2521,10],
 "dc/d21/structResultIterator.html#a33215a042f7b7ddb243e8434a4c26346":[6,0,2521,2],
-"dc/d21/structResultIterator.html#a4c7ba1d0e7251aeab6b255bf1c78defd":[6,0,2521,7],
-"dc/d21/structResultIterator.html#a5618bd9b42f553be7feaf26fac8fe3ba":[6,0,2521,3]
+"dc/d21/structResultIterator.html#a4c7ba1d0e7251aeab6b255bf1c78defd":[6,0,2521,7]
 };

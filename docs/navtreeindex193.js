@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a1b59480ce384f09cecd47872b39cf3c5":[6,0,2844,3],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a20c696ff06f9b48451d9eac43ccf5416":[6,0,2844,4],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#a314ac33692cc352c490ec3d87177d67a":[6,0,2844,0],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html#ac5d4ee199b49e04499997355ac054554":[6,0,2844,2],
@@ -83,10 +84,10 @@ var NAVTREEINDEX193 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2277,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4":[7,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[7,0,0,0,1,3,5,25,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[6,0,620,2],
 "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[6,0,620,7],
 "d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[6,0,620,6],
-"d7/d23/structboss__magus__telestra.html#a91b4569027b3414814bf1f2e86441fc6":[6,0,620,4],
-"d7/d23/structboss__magus__telestra.html#a9ef67f8a53c5dceaf74bc156e0c6edad":[6,0,620,1]
+"d7/d23/structboss__magus__telestra.html#a91b4569027b3414814bf1f2e86441fc6":[6,0,620,4]
 };

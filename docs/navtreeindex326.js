@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d7d/classZoneScript.html#a3519b281545e348167893060c2aa352c":[6,0,4642,0],
 "dc/d7d/classZoneScript.html#a61c1ab81f65b4bfdf638eec002cb498c":[6,0,4642,11],
 "dc/d7d/classZoneScript.html#a8113c8738b772b740dbc7a2352637669":[6,0,4642,8],
 "dc/d7d/classZoneScript.html#a8997612fdbdacbf5e28e4de60d03e805":[6,0,4642,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050":[7,0,0,0,1,3,2,33,2,7],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e":[7,0,0,0,1,3,2,33,2,0],
 "dc/d8b/zone__westfall_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[7,0,0,0,1,3,2,33,3],
-"dc/d8c/structnpc__amanishi__scout.html":[6,0,1613],
-"dc/d8c/structnpc__amanishi__scout.html#a3740a4fde31e1e81edb34dde61403acc":[6,0,1613,4]
+"dc/d8c/structnpc__amanishi__scout.html":[6,0,1613]
 };

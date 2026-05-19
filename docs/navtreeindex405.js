@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1798,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3158],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3158,3],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3158,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[6,0,1276,5],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,3027],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[6,0,3027,3],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[6,0,3027,1],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[6,0,3027,0]
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[6,0,3027,1]
 };

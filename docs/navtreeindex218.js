@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a891585ba56d53bdcca05bf5ce579e0c8":[7,0,0,0,1,3,9,12,39,2],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a8d09419d3d4dd2dcb3d43a7aaefd943f":[7,0,0,0,1,3,9,12,39,0],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a96ac7fb2ea32fd0f3032f2e2b6e1b5dd":[7,0,0,0,1,3,9,12,39,11],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aab352ffaf12be7d0e86602fe71974356":[7,0,0,0,1,3,9,12,39,30],
@@ -67,8 +68,8 @@ var NAVTREEINDEX218 =
 "d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[6,0,513,2],
 "d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0],
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,11,0,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,11,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
@@ -173,10 +174,10 @@ var NAVTREEINDEX218 =
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[6,0,869,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[6,0,13,22],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,34,22],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,34,22,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,13,22,0],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,13,22,1],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,34,22,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,22,1],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,13,22,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,13,22,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,22,2],
 "d8/d12/structboss__ayamiss.html":[6,0,405],
@@ -208,8 +209,8 @@ var NAVTREEINDEX218 =
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,155,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,34,23],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,13,23],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,13,23,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,34,23,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,13,23,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[7,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,4,3,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d16/structboss__marwyn.html#a93849e995d62ba5a220e08157d8758fa":[6,0,629,2],
 "d8/d16/structboss__marwyn.html#aad4dd7a1fb79c704c7e59581f938d2e9":[6,0,629,5],
 "d8/d16/structboss__marwyn.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd":[6,0,629,0],
-"d8/d16/structboss__marwyn.html#ae8d1b8908983af8bff1f13641472817f":[6,0,629,7],
-"d8/d16/structboss__marwyn.html#aee335b57c5249ecd4ce843e0f1694e80":[6,0,629,8]
+"d8/d16/structboss__marwyn.html#ae8d1b8908983af8bff1f13641472817f":[6,0,629,7]
 };

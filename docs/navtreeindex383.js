@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"de/d76/classnpc__hyjal__jaina.html":[6,0,1879],
 "de/d76/classnpc__hyjal__jaina.html#a47853fa317b1a9325fcbe555867139f6":[6,0,1879,3],
 "de/d76/classnpc__hyjal__jaina.html#a6616aa6c38818770610259312a392a3f":[6,0,1879,1],
 "de/d76/classnpc__hyjal__jaina.html#ab1891f5a2aacf5d9aeb9377bd92393ed":[6,0,1879,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,0,0,1,4,5],
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba27eaba5358f78b874e38a836cfafb9bb":[7,0,0,0,1,3,7,0,0,1,4,3],
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,0,1,4,2],
-"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,0,1,4,4],
-"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,0,1,4,1]
+"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,0,1,4,4]
 };

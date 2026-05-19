@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,0,2,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,0,2,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/dde/structClassCallSelector.html#a7ce861956ec8d216d2f8cba82c69ea50":[6,0,897,3],
 "de/dde/structClassCallSelector.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e":[6,0,897,1],
 "de/ddf/classgo__flames.html":[6,0,1173],
-"de/ddf/classgo__flames.html#a75d49202eaf2078b8276e59944d1ec89":[6,0,1173,1],
-"de/ddf/classgo__flames.html#aea11412e7d17b744b4e70ec754a1e6cc":[6,0,1173,2]
+"de/ddf/classgo__flames.html#a75d49202eaf2078b8276e59944d1ec89":[6,0,1173,1]
 };

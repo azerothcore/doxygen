@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,0,1,4,1],
 "de/d7f/boss__exarch__maladaar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,0,1,4,0],
 "de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html":[6,0,4301],
 "de/d7f/classspell__warr__improved__spell__reflection__trigger__aura.html#a0517fe77f15e1b9cf6153ed2aaf9cee8":[6,0,4301,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,0,8,8,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,0,8,8,1]
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1]
 };

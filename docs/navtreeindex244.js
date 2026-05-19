@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a6d2e1e704c721d5271c46fda584e4131":[7,0,0,0,1,3,7,9,16,3],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a7d63e7dd55ad04e5e4c03efa7a5aee52":[7,0,0,0,1,3,7,9,16,1],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a32106fd918c3a95e8212706d6f501fa7a8d813765e4b1f0abceeaf81866e415d6":[7,0,0,0,1,3,7,9,16,4],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a4ba2d63a09578d1489f50ecd8d2518a2":[7,0,0,0,1,3,7,9,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d67/classVMAP_1_1StaticMapTree.html#a88edf6fd20f3618746367b85be638c55":[5,0,31,17,14],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a8f85b6625e1bc9a9b145f5a9255a5702":[6,0,11,17,20],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a8f85b6625e1bc9a9b145f5a9255a5702":[5,0,31,17,20],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a9d23cba57dd975b664c2cf1e75575a92":[6,0,11,17,26],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a9d23cba57dd975b664c2cf1e75575a92":[5,0,31,17,26]
+"d9/d67/classVMAP_1_1StaticMapTree.html#a9d23cba57dd975b664c2cf1e75575a92":[6,0,11,17,26]
 };

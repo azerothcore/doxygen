@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[6,0,2811,3],
 "d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2811,1],
 "d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2811,2],
 "d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2811,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4ba746bb25ddccb7da0f438b2af0cad7":[7,0,0,0,1,2,48,4,1,256],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c2ee0ab8ef74bdd9e3e0b12be1bfa82":[7,0,0,0,1,2,48,4,1,173],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c467b494c80543428ffc6059a7a24ed":[7,0,0,0,1,2,48,4,1,371],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c768205209b4bbd8767f0fb30892da5":[7,0,0,0,1,2,48,4,1,257],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4dd020f6ff563c8f94e41f1e8056c402":[7,0,0,0,1,2,48,4,1,327]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c768205209b4bbd8767f0fb30892da5":[7,0,0,0,1,2,48,4,1,257]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/d30/instance__temple__of__ahnqiraj_8cpp.html#a60077e2c1e4137c99545119e5eeb1bb3":[7,0,0,0,1,3,4,9,9,2],
 "dd/d30/instance__temple__of__ahnqiraj_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,4,9,9,4],
 "dd/d30/structLinkValidator_3_01LinkTags_1_1achievement_01_4.html":[6,0,1442],
 "dd/d30/structLinkValidator_3_01LinkTags_1_1achievement_01_4.html#ab291dc8bdb852a8386c2a3d1bd18cfad":[6,0,1442,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[6,0,1116,19],
 "dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[6,0,1116,23],
 "dd/d3b/structGameObjectTemplate.html#a38539460b81b3e661a761ed3482baa4b":[6,0,1116,81],
-"dd/d3b/structGameObjectTemplate.html#a38aeb43d791762fe229077588c05a9d3":[6,0,1116,60],
-"dd/d3b/structGameObjectTemplate.html#a3b25c483e197fb6ce050314cc2c41863":[6,0,1116,115]
+"dd/d3b/structGameObjectTemplate.html#a38aeb43d791762fe229077588c05a9d3":[6,0,1116,60]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d26/classCinematicMgr.html#a3c747cf6679bb2533789581fcb09f246":[6,0,893,15],
 "d8/d26/classCinematicMgr.html#a629943ec0d64f2eba830da551222598d":[6,0,893,9],
 "d8/d26/classCinematicMgr.html#a6665f77804ae876fe7bb9c43e2415ea3":[6,0,893,4],
 "d8/d26/classCinematicMgr.html#a69857bfd9eafbb8580938619aba9a9b9":[6,0,893,8],
@@ -19,12 +20,12 @@ var NAVTREEINDEX220 =
 "d8/d26/classspell__pri__aq__3p__bonus.html#adc8f29fd41def510195365f40fd5340b":[6,0,3763,2],
 "d8/d26/classspell__pri__aq__3p__bonus.html#add7ed115ee403870f46e25614fac3840":[6,0,3763,3],
 "d8/d26/classspell__pri__aq__3p__bonus.html#ae9e9ef38c6cdf57eccbeafb9f8c5cac0":[6,0,3763,1],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html":[6,0,11,9],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html":[5,0,31,9],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html":[6,0,11,9],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[6,0,11,9,3],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[5,0,31,9,3],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[6,0,11,9,4],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[5,0,31,9,4],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[6,0,11,9,4],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[5,0,31,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[6,0,11,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[6,0,11,9,2],
@@ -169,14 +170,14 @@ var NAVTREEINDEX220 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61a4b504cc66a63b1f0150ac6d129222":[7,0,0,0,1,3,5,7,10,2,1],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aece2248203af84f6d210f9983dd0fa28":[7,0,0,0,1,3,5,7,10,2,3],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,0,133],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,0,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,0,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,121,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,133,3],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,121,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,133,0],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[6,0,0,121,0],
 "d8/d36/BigNumber_8h.html":[7,0,0,0,0,3,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba74ac1e9842b4804970938519b4bd2505":[7,0,0,0,1,1,0,0,3,1,30],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba74d4f8d423ca534ac55bf4e5c4476be8":[7,0,0,0,1,1,0,0,3,1,61],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba7883f99ddef2512b828020128279de12":[7,0,0,0,1,1,0,0,3,1,76],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba8023a1457ae0dbe6e10a6f0911877a86":[7,0,0,0,1,1,0,0,3,1,11],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba810482110c634f64aa7178922a79985e":[7,0,0,0,1,1,0,0,3,1,18]
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba8023a1457ae0dbe6e10a6f0911877a86":[7,0,0,0,1,1,0,0,3,1,11]
 };

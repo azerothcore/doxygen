@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"de/d72/classFollowerAI.html#a4aeb51a87a2ea025fa743243c587d6b2":[6,0,1080,18],
 "de/d72/classFollowerAI.html#a5a78e0409af05f030d1b3b429926773e":[6,0,1080,4],
 "de/d72/classFollowerAI.html#a5c53c55664d45b39c13d644af3003155":[6,0,1080,15],
 "de/d72/classFollowerAI.html#a5e2b9ddccc77bfe5cb8b16323d711c1e":[6,0,1080,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1598,0,5],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aac071887c100f91cc7ffc545ea6439d9":[6,0,1598,0,6],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aba8ad016f0e470b07163fef07b603380":[6,0,1598,0,7],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#ae192a3b38c0ec65cddfce3b95d15555a":[6,0,1598,0,3],
-"de/d76/classnpc__hyjal__jaina.html":[6,0,1879]
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#ae192a3b38c0ec65cddfce3b95d15555a":[6,0,1598,0,3]
 };

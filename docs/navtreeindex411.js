@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/da7/classBattleground.html#a70e5ab71ed89ba73f2a459c9f42813e5":[6,0,328,148],
 "df/da7/classBattleground.html#a71418b0fceb061e0aa10a549adf42d9d":[6,0,328,140],
 "df/da7/classBattleground.html#a7266bc3ebcc9f1d768a1dabfc3f2f68d":[6,0,328,99],
 "df/da7/classBattleground.html#a77600e04bfa234872910493ad0445174":[6,0,328,65],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/db1/classspell__pet__hit__expertise__scalling.html#a6ba389f156263462f5e80e3a9fb6f62e":[6,0,3746,4],
 "df/db1/classspell__pet__hit__expertise__scalling.html#a803e26c6a4c06feedd80a4d94452aca5":[6,0,3746,7],
 "df/db1/classspell__pet__hit__expertise__scalling.html#a9c3e35d01ad863d146566efe7cca2637":[6,0,3746,8],
-"df/db1/classspell__pet__hit__expertise__scalling.html#ab31dfffdf449c1eef74c2bcd43469109":[6,0,3746,3],
-"df/db1/classspell__pet__hit__expertise__scalling.html#ac97a33580dc873af7b580d4fdf7ed9f6":[6,0,3746,5]
+"df/db1/classspell__pet__hit__expertise__scalling.html#ab31dfffdf449c1eef74c2bcd43469109":[6,0,3746,3]
 };

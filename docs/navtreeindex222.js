@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/d45/classAuraStub.html#aa8c5e134e2e73e0c8fab00896ac08801":[6,0,299,33],
 "d8/d45/classAuraStub.html#ab6b28446bdd9c33405e4cb9d8a275329":[6,0,299,36],
 "d8/d45/classAuraStub.html#aba9190e03016c9c5071f32270df2f6cd":[6,0,299,15],
 "d8/d45/classAuraStub.html#ac27c3e75a2d9b369a4d2bdd8e895970b":[6,0,299,42],
@@ -41,8 +42,8 @@ var NAVTREEINDEX222 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1d434373ccc7dd54c5de7bc99487170a":[6,0,616,0,1],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82":[6,0,616,0,2],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[6,0,616,0,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,34,8,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[6,0,13,8,9],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,34,8,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[6,0,13,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,34,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,13,8,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d4d/isle__of__conquest_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,13,18],
 "d8/d4d/isle__of__conquest_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9389148b86e9e2a94baea80e990720df":[7,0,0,0,1,3,5,13,18,0],
 "d8/d4d/isle__of__conquest_8cpp.html#adaf2e7c1bbd2dc3cb5b21ae0b9e5ae7b":[7,0,0,0,1,3,5,13,16],
-"d8/d4d/isle__of__conquest_8cpp.html#adaf2e7c1bbd2dc3cb5b21ae0b9e5ae7ba419dd1febeae7200574b048c68dc104c":[7,0,0,0,1,3,5,13,16,0],
-"d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,13,17]
+"d8/d4d/isle__of__conquest_8cpp.html#adaf2e7c1bbd2dc3cb5b21ae0b9e5ae7ba419dd1febeae7200574b048c68dc104c":[7,0,0,0,1,3,5,13,16,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"df/d21/UpdateFields_8h.html#a2e55ed49514b6fd17b1ad512520530d6a4dd6adc0aafad2233adde864e8b85650":[7,0,0,0,1,2,16,5,0,4,0,2],
 "df/d21/UpdateFields_8h.html#a2e55ed49514b6fd17b1ad512520530d6a5158b6530610a49af557fdd00c66118e":[7,0,0,0,1,2,16,5,0,4,0,3],
 "df/d21/UpdateFields_8h.html#a2e55ed49514b6fd17b1ad512520530d6ab22a162a4fc69fc7a93caeb130dc9ff0":[7,0,0,0,1,2,16,5,0,4,0,0],
 "df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98":[7,0,0,0,1,2,16,5,0,4,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[6,0,1986,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,13,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,13,6,40,3]
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3]
 };

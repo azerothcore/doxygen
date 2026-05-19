@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"de/d58/classnpc__andorhal__tower.html#a51139c28da736d26bf27a061862d24ee":[6,0,1620,2],
 "de/d58/classnpc__andorhal__tower.html#abf63419b6c10af47f5e5df1a4e7320e7":[6,0,1620,1],
 "de/d59/LFG_8h.html":[7,0,0,0,1,2,15,1],
 "de/d59/LFG_8h.html#a028c02c49f9146ef7d35fc893ac3c561":[7,0,0,0,1,2,15,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a063d588469822fd888e505458d40a661":[7,0,0,0,1,2,13,1,13,56],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0c68d7254772ce4f3c49ca5420d7772c":[7,0,0,0,1,2,13,1,13,22],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0d222f84a37a9885ff944a79b24ca696":[7,0,0,0,1,2,13,1,13,7],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0e0f201757b72038c48a7cd2eda82eee":[7,0,0,0,1,2,13,1,13,16],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a1036ebf67ca70211b5f075db8dcb6e26":[7,0,0,0,1,2,13,1,13,34]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0e0f201757b72038c48a7cd2eda82eee":[7,0,0,0,1,2,13,1,13,16]
 };

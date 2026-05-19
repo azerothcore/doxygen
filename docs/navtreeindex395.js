@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/df7/classWorldPackets_1_1Packet.html#a94afc4d66c2b5bced3063bab5a666bfd":[5,0,34,24,6],
 "de/df7/classWorldPackets_1_1Packet.html#a94afc4d66c2b5bced3063bab5a666bfd":[6,0,13,24,6],
 "de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[6,0,13,24,3],
 "de/df7/classWorldPackets_1_1Packet.html#a9d8649e1b035fe7387dcee3e0b062a5e":[5,0,34,24,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/d09/TerrainBuilder_8cpp.html#aee23c8e21c084824373ce587f8fe1f04":[7,0,0,0,3,2,8,17],
 "df/d09/TerrainBuilder_8cpp.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[7,0,0,0,3,2,8,3],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html":[6,0,1311,0],
-"df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[6,0,1311,0,0],
-"df/d0a/ObjectPosSelector_8h.html":[7,0,0,0,1,2,16,5,7]
+"df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[6,0,1311,0,0]
 };

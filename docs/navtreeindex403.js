@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[6,0,4076,5],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html":[6,0,1664,0],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1664,0,8],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[6,0,1664,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,31,21,2],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,11,21,2],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[6,0,11,21,6],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,31,21,6],
-"df/d56/classVMAP_1_1VMapMgr2.html#ade8ab3f66eb603aae40a80fab7c52e67":[6,0,11,21,4]
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,31,21,6]
 };

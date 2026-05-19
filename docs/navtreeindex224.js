@@ -1,11 +1,12 @@
 var NAVTREEINDEX224 =
 {
+"d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[5,0,0,55,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[6,0,0,43,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[5,0,0,55,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[6,0,0,43,0],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[5,0,0,55,0],
-"d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[5,0,0,55,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[6,0,0,43,2],
+"d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[5,0,0,55,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a985d622243d5c7c6c91eb01377b0f91b":[5,0,0,55,3],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a985d622243d5c7c6c91eb01377b0f91b":[6,0,0,43,3],
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html":[6,0,3368],
@@ -17,14 +18,14 @@ var NAVTREEINDEX224 =
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,34,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[6,0,13,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,13,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,13,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,13,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,13,10,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,13,10,9,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,13,10,9,0],
 "d8/d60/structSavedItem.html":[6,0,2533],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[6,0,2533,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[6,0,2533,1],
@@ -159,8 +160,8 @@ var NAVTREEINDEX224 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2609,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,13,14,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,14,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,13,14,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,14,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,13,14,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[6,0,3508],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[6,0,3508,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[6,0,3508,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d71/classspell__sindragosa__icy__grip.html":[6,0,4087],
 "d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,4087,2],
 "d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,4087,0],
-"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,4087,1],
-"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[6,0,4087,3]
+"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[6,0,4087,1]
 };

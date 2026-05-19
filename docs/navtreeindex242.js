@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,13,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,34,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,34,10,5,4],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,13,10,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3279,3],
 "d9/d51/cs__mmaps_8cpp.html":[7,0,0,0,1,3,0,32],
 "d9/d51/cs__mmaps_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,32,1],
-"d9/d51/structnpc__shadowy__mercenary.html":[6,0,2121],
-"d9/d51/structnpc__shadowy__mercenary.html#a2851972b1fa6e3de4f79433e1308dd11":[6,0,2121,1]
+"d9/d51/structnpc__shadowy__mercenary.html":[6,0,2121]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1598,1],
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[6,0,1598,2],
 "dd/dd6/structboss__falric.html":[6,0,474],
 "dd/dd6/structboss__falric.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a":[6,0,474,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/de7/classspell__sha__t3__6p__bonus.html":[6,0,4058],
 "dd/de7/classspell__sha__t3__6p__bonus.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324":[6,0,4058,0],
 "dd/de7/classspell__sha__t3__6p__bonus.html#ae068298d60cdf9623748a8b6c77faabd":[6,0,4058,3],
-"dd/de7/classspell__sha__t3__6p__bonus.html#ae1ac0e47e529c729f04fb2e37ae4c1f9":[6,0,4058,1],
-"dd/de7/classspell__sha__t3__6p__bonus.html#affb8d0a167e6f1bef1aaabd5eb99fe38":[6,0,4058,2]
+"dd/de7/classspell__sha__t3__6p__bonus.html#ae1ac0e47e529c729f04fb2e37ae4c1f9":[6,0,4058,1]
 };

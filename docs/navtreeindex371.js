@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09d276f77cbf282560fcbc570c334ca8":[7,0,0,0,1,4,7,103,59],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09ffe4e99e7854f73a28ed106ebb90e2":[7,0,0,0,1,4,7,103,137],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b7fa0c2fd1c5c2d41d88fb4d0e03fde":[7,0,0,0,1,4,7,103,23],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b9c0aef226b96385215268516b77211":[7,0,0,0,1,4,7,103,143],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "de/d0e/classspell__item__soul__preserver.html#a0a0dad1c639499963a61d18fe78af1c1":[6,0,3445,0],
 "de/d0e/classspell__item__soul__preserver.html#a4020daf9d601eb53fe84f9cdbcf96626":[6,0,3445,3],
 "de/d0e/classspell__item__soul__preserver.html#aa5e12d556fef142f96c8f03dda4a4c80":[6,0,3445,1],
-"de/d0e/classspell__item__soul__preserver.html#ac8790ac907c6aa798575e2460c272f17":[6,0,3445,2],
-"de/d0e/structnpc__vekniss__stinger.html":[6,0,2265]
+"de/d0e/classspell__item__soul__preserver.html#ac8790ac907c6aa798575e2460c272f17":[6,0,3445,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d4f/BattlefieldWG_8h.html#af6f262846205790266deb3d01c08807d":[7,0,0,0,1,2,7,0,1,40],
 "d6/d4f/BattlefieldWG_8h.html#afa91bfae2586fced971723e0554a6ffb":[7,0,0,0,1,2,7,0,1,48],
 "d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3196],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3196,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d59/classAutobroadcastMgr.html#a48748969b122aee47d03697b6e9a2ee1":[6,0,311,3],
 "d6/d59/classAutobroadcastMgr.html#a75e5b978794a7010c8d9d3390d8690f9":[6,0,311,1],
 "d6/d59/classAutobroadcastMgr.html#a8be8fd36f843ffd435989c99ce0f9229":[6,0,311,7],
-"d6/d59/classAutobroadcastMgr.html#a9064ad588e8a02d9b60974af4da1c7cf":[6,0,311,0],
-"d6/d59/classAutobroadcastMgr.html#aadbd8ca926a64be4fbbe832fd633ee88":[6,0,311,10]
+"d6/d59/classAutobroadcastMgr.html#a9064ad588e8a02d9b60974af4da1c7cf":[6,0,311,0]
 };

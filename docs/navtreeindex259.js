@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7cfeeae540fe9cedc60ba2235993bf2":[7,0,0,0,1,2,48,4,1,35],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad8950402705db05f483054517038fdcf":[7,0,0,0,1,2,48,4,1,293],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67":[7,0,0,0,1,2,48,4,1,203],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad924c86659fa7e252d7fe13edc385a00":[7,0,0,0,1,2,48,4,1,455],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/d0c/classspell__q10985__light__of__the__naaru.html":[6,0,3846],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3846,1],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3846,2],
-"da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3846,0],
-"da/d0d/classachievement__yogg__saron__darkness.html":[6,0,110]
+"da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3846,0]
 };

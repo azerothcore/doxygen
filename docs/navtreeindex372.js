@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"de/d0e/structnpc__vekniss__stinger.html":[6,0,2265],
 "de/d0e/structnpc__vekniss__stinger.html#a1ff479e8f45710f6aa36473933bb87e0":[6,0,2265,3],
 "de/d0e/structnpc__vekniss__stinger.html#a2a79f3775aad83410ff2670aa438e811":[6,0,2265,2],
 "de/d0e/structnpc__vekniss__stinger.html#ad48098961715a924270cb8bbbe77e4b0":[6,0,2265,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "de/d1c/classGameObject.html#a49b086bad4ba856afbe9216f3f786b1b":[6,0,1101,159],
 "de/d1c/classGameObject.html#a4a4ecdab74c6fdb99af8c35699a0a227":[6,0,1101,32],
 "de/d1c/classGameObject.html#a4bffa0ad80f3029235b3e886ba54adf7":[6,0,1101,71],
-"de/d1c/classGameObject.html#a4d9b613fec271533fb27c1a4d96adc39":[6,0,1101,165],
-"de/d1c/classGameObject.html#a4da22122e399a6fe1388138f3fb58ee5":[6,0,1101,40]
+"de/d1c/classGameObject.html#a4d9b613fec271533fb27c1a4d96adc39":[6,0,1101,165]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ace9e901a965665e0f97cb9646af308aa":[6,0,1938,0,8],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad4c6cb31a8d3dc280e689d5d29e27479":[6,0,1938,0,4],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0":[6,0,1938,0,0],
 "da/d2f/classspell__spell__fury__aura.html":[6,0,4104],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/d40/classTotem.html#a4661c91b5123862fc44e7a290cf70d1f":[6,0,4491,5],
 "da/d40/classTotem.html#a515d54b852bbedf597f9f69cb7c0982b":[6,0,4491,11],
 "da/d40/classTotem.html#a556c9121978cad2d780ef0c1ba63c28a":[6,0,4491,0],
-"da/d40/classTotem.html#a588f187bbf8aa0e16b45974610ec593b":[6,0,4491,3],
-"da/d40/classTotem.html#a7c7376e438a14b5561049f82650c62c5":[6,0,4491,1]
+"da/d40/classTotem.html#a588f187bbf8aa0e16b45974610ec593b":[6,0,4491,3]
 };

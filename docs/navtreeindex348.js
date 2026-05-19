@@ -1,5 +1,6 @@
 var NAVTREEINDEX348 =
 {
+"dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a30116e09a94a4565b4b803aa9ddc41c8":[7,0,0,0,1,3,5,5,0,10,4],
 "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3dbefc5a67100c2d5bae2e866f23cbab":[7,0,0,0,1,3,5,5,0,10,3],
 "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4c6536f8d29ccba89c75956005904e48":[7,0,0,0,1,3,5,5,0,10,14],
 "dd/d99/boss__drakkari__colossus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4cd705181d8cc4fa2d557156c21baceb":[7,0,0,0,1,3,5,5,0,10,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX348 =
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a637ba0717ae0f6f736f5532ed65ca301":[6,0,4157,0],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a744c4aa76387be4aa76a69fbcaa7932e":[6,0,4157,3],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a86e7512496fd38201d458c03a7a60296":[6,0,4157,2],
-"dd/da6/classspell__the__lich__king__ice__burst__target__search.html#af560e5c4e985e9b139999f5ef618fe3c":[6,0,4157,1],
-"dd/da8/classParallelogramBoundary.html":[6,0,2375]
+"dd/da6/classspell__the__lich__king__ice__burst__target__search.html#af560e5c4e985e9b139999f5ef618fe3c":[6,0,4157,1]
 };

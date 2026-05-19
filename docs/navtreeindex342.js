@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[6,0,1413,1],
 "dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[6,0,1413,2],
 "dd/d46/PetPackets_8h.html":[7,0,0,0,1,2,39,0,28],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[6,0,96],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caadca9e3f7a259baf7c4c346388e9cb4a":[7,0,0,0,1,3,4,9,7,9,1],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caaf9b59e8724e42ea3e99eb7ce68eb524":[7,0,0,0,1,3,4,9,7,9,2],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,9,7,9,6],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,7,9,12],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caec5ad6f4170f697acf9499e4e06bb065":[7,0,0,0,1,3,4,9,7,9,10]
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,7,9,12]
 };

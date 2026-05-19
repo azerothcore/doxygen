@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/db1/classspell__pet__hit__expertise__scalling.html#ac97a33580dc873af7b580d4fdf7ed9f6":[6,0,3746,5],
 "df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[6,0,3746,6],
 "df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[6,0,3746,2],
 "df/db1/structGraveyardData.html":[6,0,1238],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[6,0,839,0],
 "df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[6,0,839,1],
 "df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[6,0,839,2],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1964,0],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1964,0,6]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[6,0,1964,0]
 };

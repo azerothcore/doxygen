@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d1c/structAreaTrigger.html#ae5d0d4e9ef4006ad6c7195b999ef00c2":[6,0,171,9],
 "d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8":[6,0,171,6],
 "d9/d1e/classboss__krystallus.html":[6,0,600],
 "d9/d1e/classboss__krystallus.html#a1d7453c9d67594bfdbd650fea897666a":[6,0,600,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2066],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2066,2],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2066,1],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3669],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#a27549f3cacc1732bbc1e61209e0f4905":[6,0,3669,1]
+"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3669]
 };

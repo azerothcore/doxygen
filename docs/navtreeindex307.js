@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22aedb8581c8f2aa3050d286e10e402f862":[7,0,0,0,1,3,5,1,1,5,3,0],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html":[6,0,1335,0],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a02e5937e2ba26ea6d470edaf504494cb":[6,0,1335,0,4],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a0d1bda09e399c50faa1cd1999fee3297":[6,0,1335,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4a29cba417c29bd2d0e47b9719653960":[7,0,0,0,1,3,2,0,2,3,3],
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[7,0,0,0,1,3,2,0,2,3,1],
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,0,2,3,0],
-"db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3afb82df699a202babdbb56658e60c9968":[7,0,0,0,1,3,2,0,2,3,2],
-"db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,0,2,2]
+"db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3afb82df699a202babdbb56658e60c9968":[7,0,0,0,1,3,2,0,2,3,2]
 };

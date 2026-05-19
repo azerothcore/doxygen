@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a54af3ec8de6d0fdb17ae0499645a02bd":[6,0,666,0,1],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a5b2d80b38623174b7913ed4d893f03c9":[6,0,666,0,11],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a6064594bc0e9bd008b76d498f4cdc36c":[6,0,666,0,13],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a6f8c8d20fbfff32d34cd30f9c3a757a6":[6,0,666,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d78/structboss__netherspite.html#a24b4282d0004fe07810f9210211a28f4":[6,0,652,7],
 "dd/d78/structboss__netherspite.html#a3eab6bee2123d34e6d85fb519c047f00":[6,0,652,15],
 "dd/d78/structboss__netherspite.html#a41665f388b5abcf6d64e6f58326fe0cc":[6,0,652,0],
-"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[6,0,652,6],
-"dd/d78/structboss__netherspite.html#a5610c1eb1e20fb09a0b4680b0170a691":[6,0,652,11]
+"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[6,0,652,6]
 };

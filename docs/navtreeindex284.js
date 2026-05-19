@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b35e123ebb6defe81f9ccec5f66a6c8":[7,0,0,0,1,3,5,4,0,1,3,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23aee096f9ff69e2d3ee2d414bbb8031":[7,0,0,0,1,3,5,4,0,1,3,2],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4886258b9aa8a2b0a443971811f104c3":[7,0,0,0,1,3,5,4,0,1,3,0],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab919e9bf91f3399048ea3656cbef5b23":[7,0,0,0,1,3,5,4,0,1,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/d14/classLootTemplate.html#ae3f86961858f299f8e7ca683733bb127":[6,0,1479,14],
 "db/d14/classLootTemplate.html#ae88cc77aa554940030613a15cc05c045":[6,0,1479,10],
 "db/d14/classLootTemplate.html#ae9845401121ac8712dc8dfac9c58c72e":[6,0,1479,1],
-"db/d14/classLootTemplate.html#aec4552a98c1e27935da8ef29c9449f87":[6,0,1479,17],
-"db/d14/classLootTemplate.html#afb33c896a89f0fe14e2b565bb746119e":[6,0,1479,5]
+"db/d14/classLootTemplate.html#aec4552a98c1e27935da8ef29c9449f87":[6,0,1479,17]
 };

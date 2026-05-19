@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[6,0,341,36],
 "dc/de8/classBattlegroundIC.html#aa471865e0453c6e1aa09445cd7cd46f1":[6,0,341,15],
 "dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f":[6,0,341,29],
 "dc/de8/classBattlegroundIC.html#abe6e82f855559a527b5bf202d3914e55":[6,0,341,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2498,0],
 "dc/dfb/classUpdateTime.html":[6,0,4542],
 "dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4542,19],
-"dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4542,2],
-"dc/dfb/classUpdateTime.html#a2073ed7e673a5db381432267861d64ec":[6,0,4542,3]
+"dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4542,2]
 };

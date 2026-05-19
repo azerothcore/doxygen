@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dc/d37/classGlobalScript.html#aed04144e009683fd3ced38905b244c39":[6,0,1132,7],
 "dc/d37/classGlobalScript.html#aeee1139d587e7be99617f15664d85b8e":[6,0,1132,20],
 "dc/d37/cs__lookup_8cpp.html":[7,0,0,0,1,3,0,28],
 "dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,28,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a3ba35f3cfe82848739530ab5d5737c4f":[7,0,0,0,1,3,5,7,13,6,0],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,5,7,13,6,2],
 "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126":[7,0,0,0,1,3,5,7,13,6,3],
-"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9ced0786c5d62dfaf14223025ed6a354":[7,0,0,0,1,3,5,7,13,6,1],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,13,5]
+"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9ced0786c5d62dfaf14223025ed6a354":[7,0,0,0,1,3,5,7,13,6,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX351 =
 {
+"dd/db3/classReputationMgr.html#aa1771208a72c53e3700357e75aca4108":[6,0,2513,43],
 "dd/db3/classReputationMgr.html#aa2ea3e3ae0aa30330c53663a87395ce1":[6,0,2513,44],
 "dd/db3/classReputationMgr.html#aa7f0691fbc9758e8170967df0093aaf8":[6,0,2513,51],
 "dd/db3/classReputationMgr.html#aa9df2e895c320ee722dbcd0265bb0178":[6,0,2513,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc":[7,0,0,0,1,3,4,6,1,4,5],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a":[7,0,0,0,1,3,4,6,1,4,7],
 "dd/dc8/GmVisibleCommandTest_8cpp.html":[7,0,0,0,2,2,0,3,0],
-"dd/dc8/classspell__warl__demonic__knowledge.html":[6,0,4251],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[6,0,4251,4]
+"dd/dc8/classspell__warl__demonic__knowledge.html":[6,0,4251]
 };

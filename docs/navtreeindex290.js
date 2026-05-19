@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[6,0,783,9],
 "db/d5c/structboss__vezax.html#ac22557ea0f60a04d51f016cc09d99417":[6,0,783,4],
 "db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1":[6,0,783,1],
 "db/d5c/structboss__vezax.html#ad57dabcfafbd2a10b1dbb39751600bb9":[6,0,783,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d68/classPlayerTextBuilder.html#a17b33a9a05a77722219a85a71f3bbc5e":[6,0,2424,9],
 "db/d68/classPlayerTextBuilder.html#a64d2905971ecd645e364a774f320a721":[6,0,2424,1],
 "db/d68/classPlayerTextBuilder.html#a8a8cd00cc76e048500800938a773aa06":[6,0,2424,6],
-"db/d68/classPlayerTextBuilder.html#a934d4a519c2c7b4017805b3bc24a4714":[6,0,2424,3],
-"db/d68/classPlayerTextBuilder.html#a9fe9f865b0ba84b5497e63947893533e":[6,0,2424,5]
+"db/d68/classPlayerTextBuilder.html#a934d4a519c2c7b4017805b3bc24a4714":[6,0,2424,3]
 };

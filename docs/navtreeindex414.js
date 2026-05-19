@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[6,0,3712,3],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#a6583928e441d418130df561962518deb":[6,0,3712,1],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#a9548fa0c523182c58e0dcc76b2db7f69":[6,0,3712,2],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#ac85ee0780894f16c8760ede0fa555bd8":[6,0,3712,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a14a53e0e6edda52c0a9a42af434b6041":[6,0,4528,492],
 "df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[6,0,4528,325],
 "df/dd9/classUnit.html#a14ae2eeba8829b9fc0a871b0a6df9110":[6,0,4528,360],
-"df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[6,0,4528,985],
-"df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76":[6,0,4528,678]
+"df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[6,0,4528,985]
 };

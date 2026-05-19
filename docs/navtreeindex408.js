@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[6,0,2588,36],
 "df/d8d/structSmartTarget.html#a8fbf9a706f73be3d66f5c5b7aaae4b5f":[6,0,2588,3],
 "df/d8d/structSmartTarget.html#a9680ae980fd459748ea026b03544e98b":[6,0,2588,62],
 "df/d8d/structSmartTarget.html#a9782859160d6e4c4a67299c50553965a":[6,0,2588,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX408 =
 "df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba":[7,0,0,0,1,3,6,8,8,1],
 "df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547":[7,0,0,0,1,3,6,8,8,4],
 "df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799":[7,0,0,0,1,3,6,8,8,2],
-"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889":[7,0,0,0,1,3,6,8,8,3],
-"df/d9a/OutdoorPvPNA_8h.html#a2ca90cdca32c0c9a0fef5ece362bb3e6":[7,0,0,0,1,3,6,8,15]
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889":[7,0,0,0,1,3,6,8,8,3]
 };

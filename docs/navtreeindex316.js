@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36afdff5f149cc464b4640576000513360c":[7,0,0,0,1,3,5,9,2,9,31,30],
 "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4b":[7,0,0,0,1,3,5,9,2,9,30],
 "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba7f1c72490ff348ff0dd195c2b0b8235e":[7,0,0,0,1,3,5,9,2,9,30,0],
 "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba802980b99ea6642c3488b4c41c7f5e43":[7,0,0,0,1,3,5,9,2,9,30,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[5,0,21,9,13],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[5,0,21,9,11],
 "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[6,0,7,9,11],
-"dc/d30/AuthSocketMgr_8h.html":[7,0,0,0,1,0,0,2,2],
-"dc/d30/AuthSocketMgr_8h.html#abd297ee25e8d77bf56f22d43561d9451":[7,0,0,0,1,0,0,2,2,1]
+"dc/d30/AuthSocketMgr_8h.html":[7,0,0,0,1,0,0,2,2]
 };

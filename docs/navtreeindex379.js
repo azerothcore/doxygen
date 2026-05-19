@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf":[7,0,0,0,1,2,38,0,48,1,6],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419":[7,0,0,0,1,2,38,0,48,1,0],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f":[7,0,0,0,1,2,38,0,48,1,9],
 "de/d45/FormulaScript_8h.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f":[7,0,0,0,1,2,38,0,48,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1334],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[6,0,1334,1],
 "de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1334,2],
-"de/d58/classnpc__andorhal__tower.html":[6,0,1620],
-"de/d58/classnpc__andorhal__tower.html#a51139c28da736d26bf27a061862d24ee":[6,0,1620,2]
+"de/d58/classnpc__andorhal__tower.html":[6,0,1620]
 };

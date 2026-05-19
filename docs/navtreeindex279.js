@@ -1,5 +1,6 @@
 var NAVTREEINDEX279 =
 {
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a4457a3506a587d7337042eb489b441dc":[6,0,1328,0,8],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a50b5e4d1ff3baf4698483f47828ee492":[6,0,1328,0,7],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202":[6,0,1328,0,1],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05":[6,0,1328,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "da/dde/Hyperlinks_8cpp.html#a0b5e4d40ad5549ddc48c127306499b6c":[7,0,0,0,1,2,11,4,10],
 "da/dde/Hyperlinks_8cpp.html#a1021653ddd2d2e78df34d8c4a2a7ed93":[7,0,0,0,1,2,11,4,11],
 "da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9":[7,0,0,0,1,2,11,4,12],
-"da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af":[7,0,0,0,1,2,11,4,9],
-"da/ddf/classspell__lich__king__vo__blocker.html":[6,0,3538]
+"da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af":[7,0,0,0,1,2,11,4,9]
 };

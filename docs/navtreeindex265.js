@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a0b6308febcdfd661a238367b497b7779":[7,0,0,0,1,3,5,12,9,7,14],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a133ad5921853a9fc07440e31642cd63c":[7,0,0,0,1,3,5,12,9,7,11],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a1e747f1696b47d01d4703c1a63c5ac9d":[7,0,0,0,1,3,5,12,9,7,9],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a449b19f3bebee5f7f2217c277b0f894e":[7,0,0,0,1,3,5,12,9,7,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/d57/classspell__pal__hand__of__protection.html#a33e86d770e926247c58c00143b55c418":[6,0,3708,1],
 "da/d57/classspell__pal__hand__of__protection.html#a453c7fa25baf458c9a319053ca726621":[6,0,3708,2],
 "da/d57/classspell__pal__hand__of__protection.html#a5f4979e1d164bee9e5a411e7d023810b":[6,0,3708,0],
-"da/d57/classspell__xt002__gravity__bomb__aura.html":[6,0,4338],
-"da/d57/classspell__xt002__gravity__bomb__aura.html#a004ba2e0e83a14bef3cae208a45f222b":[6,0,4338,3]
+"da/d57/classspell__xt002__gravity__bomb__aura.html":[6,0,4338]
 };

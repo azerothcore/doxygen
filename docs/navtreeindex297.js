@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/d8b/structboss__doomrel.html#ad80c97c7d8d8cd4db466d65ecda8dd4f":[6,0,441,4],
 "db/d8b/structboss__doomrel.html#adc8f26522b88ada86c2ee937daa8fbd1":[6,0,441,0],
 "db/d8b/structboss__doomrel.html#af30f3385bb1ca366f335ca3e19849704":[6,0,441,3],
 "db/d8b/structboss__doomrel.html#afb365d8b32d2610b3d398b6f3a1f1bc6":[6,0,441,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71ac916a6111e77dc6c2f603f7c4ecd898b":[7,0,0,0,1,3,5,8,0,1,7,3],
 "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2":[7,0,0,0,1,3,5,8,0,1,9],
 "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2a08fdfb88363920a779952ea57f16484a":[7,0,0,0,1,3,5,8,0,1,9,2],
-"db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ab63ae09b5ebc057bbcbd073d45674526":[7,0,0,0,1,3,5,8,0,1,9,1],
-"db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ac1c0b018544bb2bb22f1acb9be3d68af":[7,0,0,0,1,3,5,8,0,1,9,4]
+"db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ab63ae09b5ebc057bbcbd073d45674526":[7,0,0,0,1,3,5,8,0,1,9,1]
 };

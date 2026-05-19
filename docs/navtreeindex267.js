@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/d65/classspell__rotface__unstable__ooze__explosion__init.html#a6ca80316fe7bcbb4ebda095d633bb1bc":[6,0,3990,3],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html#aaa3262bc782e342825d4caba2954e95d":[6,0,3990,0],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html#ac59fb77c6a52d7a603dbb27e933a6814":[6,0,3990,2],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html#ae4d1f05b978e2a46d7dc3410def73978":[6,0,3990,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/d74/structboss__cyanigosa.html#a694dda590c17a03534f8744838ac3176":[6,0,433,2],
 "da/d74/structboss__cyanigosa.html#a7b393188f0f8d192baab0eed48f0a5d3":[6,0,433,7],
 "da/d74/structboss__cyanigosa.html#aa3d989cb4c094713d6adb4305f8e6113":[6,0,433,1],
-"da/d74/structboss__cyanigosa.html#ad70efce47f2f5d411fd42fd61ec51794":[6,0,433,3],
-"da/d74/structboss__cyanigosa.html#af85a0c366de8785cd89d14f7990bfb54":[6,0,433,0]
+"da/d74/structboss__cyanigosa.html#ad70efce47f2f5d411fd42fd61ec51794":[6,0,433,3]
 };

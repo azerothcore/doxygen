@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/df7/structnpc__twilight__volunteer.html#a3062041fcabf972e0a3d4753363c37b3":[6,0,2219,0],
 "db/df7/structnpc__twilight__volunteer.html#a4f27ae97ccf2c349a6352a0f5ba1681a":[6,0,2219,4],
 "db/df7/structnpc__twilight__volunteer.html#a8350dba2c41754a2e5d15c94731ef27d":[6,0,2219,7],
 "db/df7/structnpc__twilight__volunteer.html#a93288a45982b172c201e2442a4c91114":[6,0,2219,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/dfb/spell__quest_8cpp.html#adf78f1dd14ff83402ed7633de3d97455":[7,0,0,0,1,3,9,8,86],
 "db/dfb/spell__quest_8cpp.html#adf78f1dd14ff83402ed7633de3d97455a2730b786d98400a4db63ec9d358f9d77":[7,0,0,0,1,3,9,8,86,0],
 "db/dfb/spell__quest_8cpp.html#ae6cbc423a671eda57d50f99d2effdb03":[7,0,0,0,1,3,9,8,75],
-"db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ad":[7,0,0,0,1,3,9,8,110],
-"db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada04c1a30db888636f3dbf9570bd007fb9":[7,0,0,0,1,3,9,8,110,2]
+"db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ad":[7,0,0,0,1,3,9,8,110]
 };
