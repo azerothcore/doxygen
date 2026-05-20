@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5ba11e79a7f7a2e327977a61cf329c38a95":[7,0,0,0,1,3,10,3,17,5],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5ba594a0ee6dfa529f97dd6a4b7c39db189":[7,0,0,0,1,3,10,3,17,3],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5baae26a07dcb8adf60285a9dc1235868ce":[7,0,0,0,1,3,10,3,17,6],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a5ccb77b9b084142c8427d129aa9b1c5bab1fa9ba0204040c2ba65591b5a01e13b":[7,0,0,0,1,3,10,3,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1aa2ea1780131ec13559547244e702f33e":[7,0,0,0,1,3,5,16,2,10],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1aba1680b3fea9dbbfa19b9558e2cecc0b":[7,0,0,0,1,3,5,16,2,14],
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1abfb5d75b47b5b517de466b7fda22d589":[7,0,0,0,1,3,5,16,2,6],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1acc4b7f3e1e9f4c62a0dd6237c4ab0207":[7,0,0,0,1,3,5,16,2,12],
-"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872":[7,0,0,0,1,3,5,16,2,1]
+"d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1acc4b7f3e1e9f4c62a0dd6237c4ab0207":[7,0,0,0,1,3,5,16,2,12]
 };

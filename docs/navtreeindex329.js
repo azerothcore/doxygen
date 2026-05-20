@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eab39dfed80a659ee419a65a9f70cfecec":[7,0,0,0,1,3,7,3,2,3,2],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eaf12a0c8363fc94afbd555850e6a2482a":[7,0,0,0,1,3,7,3,2,3,4],
 "dc/dae/gruuls__lair_8h.html#ae30223b9f59e44b321d94c046c08d7f9":[7,0,0,0,1,3,7,3,2,6],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,7,3,2,4],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,3,2,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3820,1],
 "dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3820,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,962],
-"dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,962,0],
-"dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,14],
-"dc/db6/boss__gatewatcher__ironhand_8cpp.html":[7,0,0,0,1,3,7,5,3,1]
+"dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,962,0]
 };

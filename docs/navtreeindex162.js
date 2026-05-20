@@ -1,5 +1,6 @@
 var NAVTREEINDEX162 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a059e14c5f26a783fbf9b506fb780a9d7":[7,0,0,0,1,3,4,1,1,6,3,7],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a0fb62a62929af973eea6ef46072c8fe5":[7,0,0,0,1,3,4,1,1,6,3,1],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a22ecdf33f1ba0a20c9f554f7a815038e":[7,0,0,0,1,3,4,1,1,6,3,8],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a2f66f4d100d30627ea3e066675981aff":[7,0,0,0,1,3,4,1,1,6,3,9],
@@ -100,14 +101,14 @@ var NAVTREEINDEX162 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[6,0,0,85],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,85,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,0,97,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,0,97,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,85,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,0,97,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,0,97,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,85,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,0,97,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,0,97,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,85,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,85,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,0,97,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,0,97,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,85,2],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[6,0,2232],
 "d5/dd1/structnpc__ulduar__flames__initial.html#a0f99d43d373b61e9c665bd6c0d389afb":[6,0,2232,7],
 "d5/dd1/structnpc__ulduar__flames__initial.html#a34c1ffd2bc07c2a736a7d6dc103a8afe":[6,0,2232,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX162 =
 "d5/dd9/structArenaSeasonRewardGroup.html#a24e7afcf5a95fba7f2cdc5914baac392":[6,0,194,5],
 "d5/dd9/structArenaSeasonRewardGroup.html#a2e6a5d2ca970d3921142b497d351c50f":[6,0,194,11],
 "d5/dd9/structArenaSeasonRewardGroup.html#a582c7d51c2ab4bb5cf0e45b773dd20ee":[6,0,194,4],
-"d5/dd9/structArenaSeasonRewardGroup.html#a625ef69db8523e1a5e6e5ea16bdacc2f":[6,0,194,1],
-"d5/dd9/structArenaSeasonRewardGroup.html#aa3cf9a0ad2ed2170542ec360e61682e2":[6,0,194,6]
+"d5/dd9/structArenaSeasonRewardGroup.html#a625ef69db8523e1a5e6e5ea16bdacc2f":[6,0,194,1]
 };

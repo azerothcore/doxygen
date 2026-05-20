@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae163fbd682f09f2a49fa71309284ed3b":[6,0,600,0,5],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae8bdb2bca7c01c564adab93f1dd67720":[6,0,600,0,4],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#aec9cf7053476298f72dccf3bd1579c63":[6,0,600,0,8],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#afcd06280f8c7640ff9a56223f5bf3555":[6,0,600,0,7],
@@ -32,20 +33,20 @@ var NAVTREEINDEX192 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[6,0,4172,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,14],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,14,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,2],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,97],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,109],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,97,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,0,109,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,97,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,109,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,97,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,97,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,109,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,97,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[6,0,0,97,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,109,0],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html":[7,0,0,0,1,3,5,4,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d16/classspell__call__wintergarde__gryphon.html#a41beb2c890137328734d6adb14e08302":[6,0,2721,0],
 "d7/d16/classspell__call__wintergarde__gryphon.html#a431a556ab73f91ed63f5983e537834a5":[6,0,2721,3],
 "d7/d16/classspell__call__wintergarde__gryphon.html#aa0b9873dbd8c75a14fa88094d91eeeaa":[6,0,2721,1],
-"d7/d16/classspell__call__wintergarde__gryphon.html#aa0fad5e5a68131ebab5717ad0ce69669":[6,0,2721,2],
-"d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html":[6,0,2844]
+"d7/d16/classspell__call__wintergarde__gryphon.html#aa0fad5e5a68131ebab5717ad0ce69669":[6,0,2721,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,13,1],
 "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1d849b6a1c47c657cf1ed0cb153ef33c":[7,0,0,0,1,3,2,1,1,13,1,2],
 "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d":[7,0,0,0,1,3,2,1,1,13,1,0],
 "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,2,1,1,13,1,1],
@@ -57,12 +58,12 @@ var NAVTREEINDEX238 =
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,0,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[6,0,0,4,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[6,0,0,4,8,4],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,0,7,8,2],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[6,0,1258],
 "d9/d01/structGtChanceToMeleeCritEntry.html#a4df2f98014dd653657b80b4d98e54896":[6,0,1258,0],
 "d9/d02/Arena_8h.html":[7,0,0,0,1,2,8,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a5e9404dd8bf4b513e05daac53c076314":[6,0,1834,0,0],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ac687bd20f0ae66b21ce52c21561af417":[6,0,1834,0,3],
 "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad0ac0647feb998e837a44b0a688694e9":[6,0,1834,0,6],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad35b64b37915484b133bcd185a832011":[6,0,1834,0,2],
-"d9/d03/structModelHeader.html":[6,0,1546]
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad35b64b37915484b133bcd185a832011":[6,0,1834,0,2]
 };

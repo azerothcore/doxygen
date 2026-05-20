@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dc/de8/classBattlegroundIC.html#a8e82886d2fdbbd7fbc0e187aaf9a23ee":[6,0,341,16],
+"dc/de8/classBattlegroundIC.html#a98c203768a32a7d8613d4b7d298ac78b":[6,0,341,4],
 "dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[6,0,341,36],
 "dc/de8/classBattlegroundIC.html#aa471865e0453c6e1aa09445cd7cd46f1":[6,0,341,15],
 "dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f":[6,0,341,29],
@@ -207,12 +209,12 @@ var NAVTREEINDEX334 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4322,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,776],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "dc/dfb/classReactorAI.html#a1b0845464b0d356be7bf38e65ab5eb19":[6,0,2498,2],
 "dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2498,1],
 "dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2498,0],
-"dc/dfb/classUpdateTime.html":[6,0,4542],
-"dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4542,19],
-"dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4542,2]
+"dc/dfb/classUpdateTime.html":[6,0,4542]
 };

@@ -71,6 +71,11 @@ var Group_8h =
       [ "GROUP_LFG_FLAG_IS_RANDOM_INSTANCE", "de/d3d/Group_8h.html#a76b58859b594b12f70d10ee9ee17345faebe9e5142f049394b9311d27ab5d1f2e", null ],
       [ "GROUP_LFG_FLAG_IS_HEROIC", "de/d3d/Group_8h.html#a76b58859b594b12f70d10ee9ee17345fa1ed91d7e1faa0986f9353cad3ddf1cfc", null ]
     ] ],
+    [ "MailItemOnFullInventory", "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5", [
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_DISABLED", "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a6d8111c555b1d331ea0756e57d2efc90", null ],
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_LFG_ONLY", "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a22b822be00ad7f19f3700c3fe28d65db", null ],
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_EVERYWHERE", "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a5b29b0fb837a30794469c96d91fabcb1", null ]
+    ] ],
     [ "RollVote", "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5f", [
       [ "PASS", "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f", null ],
       [ "NEED", "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a", null ],

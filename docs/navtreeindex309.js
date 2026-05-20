@@ -1,5 +1,7 @@
 var NAVTREEINDEX309 =
 {
+"db/dec/wdt_8cpp.html":[7,0,0,0,3,1,9],
+"db/dec/wdt_8cpp.html#a026039bd50ec58444fa975da328951ec":[7,0,0,0,3,1,9,1],
 "db/dec/wdt_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,9,0],
 "db/dec/wdt_8cpp.html#aac8041bc8ca704e28f2b3054649b3752":[7,0,0,0,3,1,9,2],
 "db/ded/LoginDatabase_8cpp.html":[7,0,0,0,1,1,0,0,2],
@@ -98,8 +100,8 @@ var NAVTREEINDEX309 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1554,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1554,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1554,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,13,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,13,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,13,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX309 =
 "db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[6,0,4507,4],
 "db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[6,0,4507,5],
 "db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[6,0,4507,3],
-"db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4507,1],
-"db/df7/EventEmitter_8h.html":[7,0,0,0,0,15,8],
-"db/df7/structnpc__twilight__volunteer.html":[6,0,2219]
+"db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4507,1]
 };

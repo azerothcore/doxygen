@@ -1,5 +1,11 @@
 var NAVTREEINDEX405 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a5c3a3237579721b94dd433841b83bb02":[6,0,1798,0,10],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a71fea2fdf5079fbc1d8baa72e7e4ae82":[6,0,1798,0,7],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[6,0,1798,0,9],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[6,0,1798,0,1],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[6,0,1798,0,6],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1798,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1798,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3158],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3158,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX405 =
 "df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1276,8],
 "df/d72/structgunship__npc__AI.html#a7c2da25bb962c32fa350ee1f12f86ca4":[6,0,1276,1],
 "df/d72/structgunship__npc__AI.html#ab5276a099bcf56c5a25b3a52be516b5c":[6,0,1276,7],
-"df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[6,0,1276,4],
-"df/d72/structgunship__npc__AI.html#ad40c976be4decd9054dad031a4caab78":[6,0,1276,2],
-"df/d72/structgunship__npc__AI.html#ae120874514cf5921136821b820a04da7":[6,0,1276,6],
-"df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[6,0,1276,5],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,3027],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[6,0,3027,3],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[6,0,3027,1]
+"df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[6,0,1276,4]
 };

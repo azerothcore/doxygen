@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d15/zone__arathi__highlands_8cpp.html#a1e4a782474f0928dbacdf32c0ba395fd":[7,0,0,0,1,3,2,18,3],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1":[7,0,0,0,1,3,2,18,2],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e":[7,0,0,0,1,3,2,18,2,8],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf":[7,0,0,0,1,3,2,18,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d22/classspell__lady__vashj__summons.html#aa670812f42c3082f42e0f232ee6bee16":[6,0,3530,2],
 "d5/d22/classspell__lady__vashj__summons.html#ab8bcdcfcad2a9998d95567006817711e":[6,0,3530,5],
 "d5/d22/structCinematicSequencesEntry.html":[6,0,894],
-"d5/d22/structCinematicSequencesEntry.html#a87e5f6de255dc0c75423eace2768a1dc":[6,0,894,0],
-"d5/d22/structCinematicSequencesEntry.html#a9c3dc0e60728c1c76594385d6860f265":[6,0,894,1]
+"d5/d22/structCinematicSequencesEntry.html#a87e5f6de255dc0c75423eace2768a1dc":[6,0,894,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX301 =
 {
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a543f4a4539eb2a9bc69021b9bc580915":[7,0,0,0,1,3,10,14,57,14],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5732d1eaea6917e07d4f7b5407042469":[7,0,0,0,1,3,10,14,57,7],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5ecfda4bcc8fa4e70e5b37438f6878d9":[7,0,0,0,1,3,10,14,57,9],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a6b51d9bddae864a23de2b1e42ec55ce1":[7,0,0,0,1,3,10,14,57,11],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a726854a6ac484db50f2f2beafc10f930":[7,0,0,0,1,3,10,14,57,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX301 =
 "db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4":[6,0,556,11],
 "db/db5/structboss__hydross__the__unstable.html#ad05fa00eade9614ed54b03a9a4d5d348":[6,0,556,1],
 "db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[6,0,556,9],
-"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,556,8],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[6,0,3516],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[6,0,3516,1]
+"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,556,8]
 };

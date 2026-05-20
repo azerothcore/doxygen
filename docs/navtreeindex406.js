@@ -1,5 +1,11 @@
 var NAVTREEINDEX406 =
 {
+"df/d72/structgunship__npc__AI.html#ad40c976be4decd9054dad031a4caab78":[6,0,1276,2],
+"df/d72/structgunship__npc__AI.html#ae120874514cf5921136821b820a04da7":[6,0,1276,6],
+"df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[6,0,1276,5],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[6,0,3027],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[6,0,3027,3],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[6,0,3027,1],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[6,0,3027,0],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[6,0,3027,2],
 "df/d75/classtele__commandscript.html":[6,0,4470],
@@ -45,8 +51,8 @@ var NAVTREEINDEX406 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2841,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2841,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2841,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,107],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,119],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,107],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2797],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2797,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2797,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX406 =
 "df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2076],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2076,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2076,1],
-"df/d86/classspell__dru__t3__2p__bonus.html":[6,0,2902],
-"df/d86/classspell__dru__t3__2p__bonus.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d":[6,0,2902,0],
-"df/d86/classspell__dru__t3__2p__bonus.html#a38de7578466df47ebe6fc7b5bfab616b":[6,0,2902,3],
-"df/d86/classspell__dru__t3__2p__bonus.html#a506420e3e109bf8f4e7c83b101c80c3c":[6,0,2902,1],
-"df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[6,0,2902,2],
-"df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[6,0,2902,4],
-"df/d86/npc__innkeeper_8cpp.html":[7,0,0,0,1,3,10,9]
+"df/d86/classspell__dru__t3__2p__bonus.html":[6,0,2902]
 };

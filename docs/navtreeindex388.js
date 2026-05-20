@@ -1,5 +1,11 @@
 var NAVTREEINDEX388 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa7cb5b739ef458963c46828539574972":[7,0,0,0,1,1,0,0,1,1,27],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa83f5fb4fa8d0c9635a8bfdd4d0afb39":[7,0,0,0,1,1,0,0,1,1,103],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaa0df4c6813b69274736012db00752c1":[7,0,0,0,1,1,0,0,1,1,192],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaa17a3538b9e36e0e629e24b789f0112":[7,0,0,0,1,1,0,0,1,1,77],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaacb734f1498a6d155a6ddaa864c8d23":[7,0,0,0,1,1,0,0,1,1,294],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaae5117ac0c987e98fe2cf2a7b08e59a":[7,0,0,0,1,1,0,0,1,1,266],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aab37d0e887011ba883daba77258cebdf":[7,0,0,0,1,1,0,0,1,1,200],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aab5219445e4cd2df60e8d7c4dfc5702c":[7,0,0,0,1,1,0,0,1,1,257],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aab81d99525f14d7eef85d616e5bb8184":[7,0,0,0,1,1,0,0,1,1,425],
@@ -243,11 +249,5 @@ var NAVTREEINDEX388 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,4,7,9],
 "de/da6/classspell__item__with__mount__speed.html":[6,0,3475],
-"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3475,2],
-"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3475,4],
-"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3475,5],
-"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3475,3],
-"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3475,1],
-"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3475,0],
-"de/da6/zone__dragonblight_8cpp.html":[7,0,0,0,1,3,5,18]
+"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3475,2]
 };

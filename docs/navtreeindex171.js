@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2822,0],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2822,2],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2822,1],
 "d6/d1d/classArenaScript.html":[6,0,189],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d26/classBattlefield.html#addc494f01d86e98b2635dcc19e5b27c3":[6,0,324,34],
 "d6/d26/classBattlefield.html#addd18f1dab7d197d1f4f6547bfb28d19":[6,0,324,43],
 "d6/d26/classBattlefield.html#ade950f2bc2c79fd5d37db2c144f054e1":[6,0,324,78],
-"d6/d26/classBattlefield.html#adf78a89196f06fa8d6250eb9d352405a":[6,0,324,86],
-"d6/d26/classBattlefield.html#adf90f91a8397cbf9faea54bab36c46c6":[6,0,324,53]
+"d6/d26/classBattlefield.html#adf78a89196f06fa8d6250eb9d352405a":[6,0,324,86]
 };

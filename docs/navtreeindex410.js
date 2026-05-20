@@ -1,5 +1,11 @@
 var NAVTREEINDEX410 =
 {
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ef49125cbf2c3261a8f962c712845c4":[7,0,0,0,1,3,5,2,0,1,8,2],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a0814056e110c04d57a7aaec3c13d81":[7,0,0,0,1,3,5,2,0,1,8,5],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5631ca8fd7c0d4a10621bb17edae1bfa":[7,0,0,0,1,3,5,2,0,1,8,6],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8348663aabf137582a17671bf5d5ff72":[7,0,0,0,1,3,5,2,0,1,8,4],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada198cbd93456614fce65c07c7c92749":[7,0,0,0,1,3,5,2,0,1,8,3],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1f1281de86c6dad8f1f97b71b3c70c1":[7,0,0,0,1,3,5,2,0,1,8,1],
 "df/da1/classboss__baltharus__the__warborn.html":[6,0,409],
 "df/da1/classboss__baltharus__the__warborn.html#aababb8862273d60f140dce675131783d":[6,0,409,1],
 "df/da1/classboss__baltharus__the__warborn.html#afe7ecf8635c8c0a051047a801c2a8d54":[6,0,409,2],
@@ -122,8 +128,8 @@ var NAVTREEINDEX410 =
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,13,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,34,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,13,1,0,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,13,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,34,1,0,2],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,13,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[6,0,3145],
 "df/da6/classspell__gurtogg__eject.html#a21740b341acce23e284a3d4ceea9b6e0":[6,0,3145,0],
 "df/da6/classspell__gurtogg__eject.html#aad6959f74932db219e991efd3b3af44a":[6,0,3145,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX410 =
 "df/da7/classBattleground.html#a68495754396917b8f2f1e89bd952bf9d":[6,0,328,7],
 "df/da7/classBattleground.html#a68801719078831805d8b40aa39138c5f":[6,0,328,229],
 "df/da7/classBattleground.html#a6b074774a7a466b05605f273bc222b71":[6,0,328,61],
-"df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[6,0,328,228],
-"df/da7/classBattleground.html#a6db7b367ed489939b824aa764670ae43":[6,0,328,171],
-"df/da7/classBattleground.html#a6e94cab0f83e750a3dc055601d98983b":[6,0,328,206],
-"df/da7/classBattleground.html#a6edc5a1f00d1196ceac9fdd755ccbaf6":[6,0,328,230],
-"df/da7/classBattleground.html#a6f861fa621a33725ad81bf5e5fa15cae":[6,0,328,155],
-"df/da7/classBattleground.html#a7069a6a0c423667739380b827d5826e8":[6,0,328,159],
-"df/da7/classBattleground.html#a7096403fa0cdcdf39f652ed71bc0f4d0":[6,0,328,59]
+"df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[6,0,328,228]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/dd9/structArenaSeasonRewardGroup.html#aa3cf9a0ad2ed2170542ec360e61682e2":[6,0,194,6],
 "d5/dd9/structArenaSeasonRewardGroup.html#ade97a1ea3355cd19aaf65ab80a26e4bf":[6,0,194,10],
 "d5/dd9/structArenaSeasonRewardGroup.html#afa55d982d4f2ef5f2eccf48ed305b649":[6,0,194,8],
 "d5/ddc/classClientOpcodeHandler.html":[4,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a7442cdf9ada9901b2e27e066d936226e":[6,0,1362,0,6],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a796ba931c59911d3e4104012a63f8c27":[6,0,1362,0,1],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a88443ba0a66cf0b8835db14c68f65686":[6,0,1362,0,15],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a8f77ce96ebefe66672418cd200537fe3":[6,0,1362,0,13],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098":[6,0,1362,0,36]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a8f77ce96ebefe66672418cd200537fe3":[6,0,1362,0,13]
 };

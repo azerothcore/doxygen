@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dc/da0/item__scripts_8cpp.html":[7,0,0,0,1,3,10,7],
+"dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046cca":[7,0,0,0,1,3,10,7,7],
 "dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f":[7,0,0,0,1,3,10,7,7,1],
 "dc/da0/item__scripts_8cpp.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04":[7,0,0,0,1,3,10,7,7,0],
 "dc/da0/item__scripts_8cpp.html#a3e28ebf5a580887bb117f786689a34c6":[7,0,0,0,1,3,10,7,10],
@@ -216,14 +218,14 @@ var NAVTREEINDEX328 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[6,0,13,9,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,34,9,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,13,9,0,2],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,34,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,13,9,0,6],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,34,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,13,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,34,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,13,9,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,34,9,0,7],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,13,9,0,5],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[6,0,1586],
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1586,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[6,0,1586,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,3,2,3],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea61f2ef319d5203666bd8a86b5b9a2603":[7,0,0,0,1,3,7,3,2,3,0],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea7e440984b10a7a2300c1caab77949a74":[7,0,0,0,1,3,7,3,2,3,1],
-"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea8bd4e976e7d8d6748ac16eeea3862a2b":[7,0,0,0,1,3,7,3,2,3,3],
-"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eab39dfed80a659ee419a65a9f70cfecec":[7,0,0,0,1,3,7,3,2,3,2],
-"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eaf12a0c8363fc94afbd555850e6a2482a":[7,0,0,0,1,3,7,3,2,3,4]
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea8bd4e976e7d8d6748ac16eeea3862a2b":[7,0,0,0,1,3,7,3,2,3,3]
 };

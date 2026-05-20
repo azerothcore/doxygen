@@ -1,5 +1,7 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a017589bf4c8a9c402a3a436adbd2a933":[7,0,0,0,1,3,5,12,9,7,17],
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a06e771c0d2e0da47d4fd955db056b0c4":[7,0,0,0,1,3,5,12,9,7,12],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a0b6308febcdfd661a238367b497b7779":[7,0,0,0,1,3,5,12,9,7,14],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a133ad5921853a9fc07440e31642cd63c":[7,0,0,0,1,3,5,12,9,7,11],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a1e747f1696b47d01d4703c1a63c5ac9d":[7,0,0,0,1,3,5,12,9,7,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX265 =
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#acb56826a164e4d7da0a2f04c1efaf72b":[6,0,1671,0,5],
 "da/d57/classspell__pal__hand__of__protection.html":[6,0,3708],
 "da/d57/classspell__pal__hand__of__protection.html#a33e86d770e926247c58c00143b55c418":[6,0,3708,1],
-"da/d57/classspell__pal__hand__of__protection.html#a453c7fa25baf458c9a319053ca726621":[6,0,3708,2],
-"da/d57/classspell__pal__hand__of__protection.html#a5f4979e1d164bee9e5a411e7d023810b":[6,0,3708,0],
-"da/d57/classspell__xt002__gravity__bomb__aura.html":[6,0,4338]
+"da/d57/classspell__pal__hand__of__protection.html#a453c7fa25baf458c9a319053ca726621":[6,0,3708,2]
 };

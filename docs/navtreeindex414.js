@@ -1,5 +1,11 @@
 var NAVTREEINDEX414 =
 {
+"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[6,0,1035,12],
+"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[6,0,1035,8],
+"df/dd3/classachievement__shadowdodger.html":[6,0,92],
+"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,92,1],
+"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,92,0],
+"df/dd3/classspell__pal__heart__of__the__crusader.html":[6,0,3712],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[6,0,3712,3],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#a6583928e441d418130df561962518deb":[6,0,3712,1],
 "df/dd3/classspell__pal__heart__of__the__crusader.html#a9548fa0c523182c58e0dcc76b2db7f69":[6,0,3712,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222":[6,0,4528,182],
 "df/dd9/classUnit.html#a139aec46ca7c0672c07d7a95cf9df569":[6,0,4528,374],
 "df/dd9/classUnit.html#a13f8850805b0fcdbd03162abe7888362":[6,0,4528,47],
-"df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60":[6,0,4528,435],
-"df/dd9/classUnit.html#a144917f4cf0303f775460f7511f792cd":[6,0,4528,200],
-"df/dd9/classUnit.html#a148e79f1285e417f73d2a95b49fc2bf9":[6,0,4528,942],
-"df/dd9/classUnit.html#a14a53e0e6edda52c0a9a42af434b6041":[6,0,4528,492],
-"df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[6,0,4528,325],
-"df/dd9/classUnit.html#a14ae2eeba8829b9fc0a871b0a6df9110":[6,0,4528,360],
-"df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[6,0,4528,985]
+"df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60":[6,0,4528,435]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[6,0,2463,0],
+"db/d30/classPlayerDumpReader.html":[6,0,2412],
 "db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[6,0,2412,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[6,0,2412,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[6,0,2412,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d41/structnpc__midsummer__bonfire.html#a1236b61f21ff1a1b85bbc7058ca8e17c":[6,0,1976,6],
 "db/d41/structnpc__midsummer__bonfire.html#a1f8bd11d0f49c0a44764a2f34e6ee147":[6,0,1976,4],
 "db/d41/structnpc__midsummer__bonfire.html#a2a398299b3584e3a871b1b6e83b4ff5f":[6,0,1976,1],
-"db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[6,0,1976,5],
-"db/d41/structnpc__midsummer__bonfire.html#a5c0894721d13dd49961c0687c100d7a5":[6,0,1976,10],
-"db/d41/structnpc__midsummer__bonfire.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5":[6,0,1976,11]
+"db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[6,0,1976,5]
 };

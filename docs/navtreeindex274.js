@@ -1,5 +1,7 @@
 var NAVTREEINDEX274 =
 {
+"da/da1/classspell__mage__pet__scaling.html#a5b57273e0d9fc39a000c7bf4e232acb4":[6,0,3590,0],
+"da/da1/classspell__mage__pet__scaling.html#a5b65221c67283a29cbeb63cafe64457a":[6,0,3590,7],
 "da/da1/classspell__mage__pet__scaling.html#a65b6f1a2b322c928fd9a5992380d2e95":[6,0,3590,1],
 "da/da1/classspell__mage__pet__scaling.html#a67cb7b817f29dd41aa7d0dc8c87dc820":[6,0,3590,6],
 "da/da1/classspell__mage__pet__scaling.html#abf0d76c220911d88990f3071f14a9d5a":[6,0,3590,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3349,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html":[6,0,3839],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[6,0,3839,1],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3839,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[6,0,3839,3],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[6,0,3839,2]
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3839,0]
 };

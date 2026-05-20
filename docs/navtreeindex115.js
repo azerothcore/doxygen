@@ -1,5 +1,6 @@
 var NAVTREEINDEX115 =
 {
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a4cd0efca01fdcaaa63214b535a4a4625":[7,0,0,0,1,2,8,1,3,19,25],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a57cf3ad06e9377c43da0c7c495b9c9dc":[7,0,0,0,1,2,8,1,3,19,15],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a57f22d63c3b70f30de9f647b4b113768":[7,0,0,0,1,2,8,1,3,19,37],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a5b6a2d2c125311c49568e9da554cb461":[7,0,0,0,1,2,8,1,3,19,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX115 =
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#abb35c98da760db634545b81d740cd51a":[6,0,630,0,0],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#adf199bf96bbf342caaa74b7dd6b8013c":[6,0,630,0,2],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#afeaee24a9b6484e8a0e6509b973ed74d":[6,0,630,0,5],
-"d3/de0/classspell__pal__guarded__by__the__light.html":[6,0,3707],
-"d3/de0/classspell__pal__guarded__by__the__light.html#a2f48b1903edef1a5bb8beeddc8879aa4":[6,0,3707,3]
+"d3/de0/classspell__pal__guarded__by__the__light.html":[6,0,3707]
 };

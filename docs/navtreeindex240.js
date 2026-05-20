@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d1c/structAreaTrigger.html#ae4195d9f29b425394296009c22654380":[6,0,171,5],
 "d9/d1c/structAreaTrigger.html#ae5d0d4e9ef4006ad6c7195b999ef00c2":[6,0,171,9],
 "d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8":[6,0,171,6],
 "d9/d1e/classboss__krystallus.html":[6,0,600],
@@ -155,8 +156,8 @@ var NAVTREEINDEX240 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3367,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3367,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3367,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,13,14,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,13,14,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a905b9a4389521fde6d26d3c19a0fe21c":[6,0,37,1],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2066],
 "d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2066,2],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2066,1],
-"d9/d30/classspell__obsidian__sanctum__flame__tsunami.html":[6,0,3669]
+"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2066,1]
 };

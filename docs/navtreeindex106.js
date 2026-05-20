@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/d9d/structChrRacesEntry.html#addd21f5fbf6868e7cf2cd3c54c7172a1":[6,0,891,10],
 "d3/d9d/zone__silithus_8cpp.html":[7,0,0,0,1,3,4,25],
 "d3/d9d/zone__silithus_8cpp.html#a029f13fc388645daedf110882b97ab2b":[7,0,0,0,1,3,4,25,17],
 "d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580a":[7,0,0,0,1,3,4,25,16],
@@ -114,8 +115,8 @@ var NAVTREEINDEX106 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,7,3,1,5,7],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c":[7,0,0,0,1,3,7,3,1,5,11],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[7,0,0,0,1,3,7,3,1,6],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,41],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[6,0,0,29],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,41],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,41,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,29,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,41,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019dab1ecb5371f199c636ad30f27d8412c1d":[7,0,0,0,1,3,10,10,53,18],
 "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019dab8967a4fe3cc57dd578132552bf2060a":[7,0,0,0,1,3,10,10,53,12],
 "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019dabd6da16418a611dea007fcd2b85f0d66":[7,0,0,0,1,3,10,10,53,6],
-"d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019daca814190f26fa0d623e48632ce992bf0":[7,0,0,0,1,3,10,10,53,11],
-"d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019daceca888c0085fa12632ede9f7d139e3e":[7,0,0,0,1,3,10,10,53,10]
+"d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019daca814190f26fa0d623e48632ce992bf0":[7,0,0,0,1,3,10,10,53,11]
 };

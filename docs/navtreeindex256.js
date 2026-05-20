@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/ulduar_8h.html#a0429d4d2f640868770605570b7d2ac30":[7,0,0,0,1,3,5,9,2,16,10],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7":[7,0,0,0,1,3,5,9,2,16,8],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a2f4bad90049534d435ac9d2d9b495761":[7,0,0,0,1,3,5,9,2,16,8,1],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe":[7,0,0,0,1,3,5,9,2,16,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f":[7,0,0,0,1,3,5,9,2,16,11],
 "d9/df9/classinstance__hellfire__ramparts.html":[6,0,1332],
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1332,2],
-"d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1332,1],
-"d9/df9/classspell__dk__pestilence.html":[6,0,2811]
+"d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1332,1]
 };

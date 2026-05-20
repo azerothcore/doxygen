@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca57ee1ff6cfdd576cd5317872facab6d0":[7,0,0,0,1,3,5,9,2,13,45,9],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca5abf889b8a8322db030dea6a5a6f12b2":[7,0,0,0,1,3,5,9,2,13,45,1],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca65a648a9c4133306ef85708699e52aa3":[7,0,0,0,1,3,5,9,2,13,45,17],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca7a16e8491a8e30357860488896539c8c":[7,0,0,0,1,3,5,9,2,13,45,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d45/classgo__beacon.html":[6,0,1145],
 "d3/d45/classgo__beacon.html#abd168f0c1ac9a64cece280758f3120d4":[6,0,1145,2],
 "d3/d45/classgo__beacon.html#ad4224cabdc7210d9a0a46fb1eed1a23b":[6,0,1145,1],
-"d3/d45/classspell__the__cleansing__mirror__image__script__effect.html":[6,0,4149],
-"d3/d45/classspell__the__cleansing__mirror__image__script__effect.html#a26e704fd016cdf9b1d47fb9edcff7a72":[6,0,4149,1]
+"d3/d45/classspell__the__cleansing__mirror__image__script__effect.html":[6,0,4149]
 };

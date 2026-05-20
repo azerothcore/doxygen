@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/d84/naxxramas_8h.html#ac04e7341bcee705dae974287ded87ee5a327cde1f8f9908a139da6e4deb38dc76":[7,0,0,0,1,3,5,7,16,11,2],
 "d6/d84/naxxramas_8h.html#ac04e7341bcee705dae974287ded87ee5a5e0fd27649c1ffac589bd91a2f4c376f":[7,0,0,0,1,3,5,7,16,11,1],
 "d6/d84/naxxramas_8h.html#ac04e7341bcee705dae974287ded87ee5a8877c42f229c7b4a4192e501fb114587":[7,0,0,0,1,3,5,7,16,11,0],
 "d6/d84/naxxramas_8h.html#ac12b914059be83c167dda778ccfae7af":[7,0,0,0,1,3,5,7,16,14],
@@ -69,8 +70,8 @@ var NAVTREEINDEX183 =
 "d6/d85/structAcore_1_1CreatureWorker.html":[6,0,0,46],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[6,0,0,46,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,0,58,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,0,58,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[6,0,0,46,2],
+"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,0,58,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[6,0,0,46,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[5,0,0,58,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[6,0,0,46,4],
@@ -112,10 +113,10 @@ var NAVTREEINDEX183 =
 "d6/d88/classMovement_1_1TransportPathTransform.html#a15428c0b9a8b11f7f63845a7d65620e8":[5,0,21,13,2],
 "d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[6,0,7,13,1],
 "d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[5,0,21,13,1],
-"d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[5,0,21,13,0],
 "d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[6,0,7,13,0],
-"d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[5,0,21,13,3],
+"d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[5,0,21,13,0],
 "d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[6,0,7,13,3],
+"d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[5,0,21,13,3],
 "d6/d89/CreatureAISelector_8cpp.html":[7,0,0,0,1,2,3,9],
 "d6/d89/CreatureAISelector_8cpp.html#a10fef1ff3335f4642179ee423b1ff0d6":[7,0,0,0,1,2,3,9,2],
 "d6/d89/CreatureAISelector_8cpp.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,9,5],
@@ -124,10 +125,10 @@ var NAVTREEINDEX183 =
 "d6/d89/CreatureAISelector_8cpp.html#ad553c2186f078e696768d40d217738f8":[7,0,0,0,1,2,3,9,3],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html":[6,0,13,12,6],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html":[5,0,34,12,6],
-"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a22dd8d9fcbadbec5ba046812f5cdac51":[6,0,13,12,6,1],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a22dd8d9fcbadbec5ba046812f5cdac51":[5,0,34,12,6,1],
-"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[6,0,13,12,6,0],
+"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a22dd8d9fcbadbec5ba046812f5cdac51":[6,0,13,12,6,1],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[5,0,34,12,6,0],
+"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[6,0,13,12,6,0],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#af7b95e5b976af2fa7bb4c61319f7eb97":[5,0,34,12,6,2],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#af7b95e5b976af2fa7bb4c61319f7eb97":[6,0,13,12,6,2],
 "d6/d8b/classat__sunwell__madrigosa.html":[6,0,252],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1725,0,5],
 "d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a21cd1ca86864b8507d43e5a1c4c13e0c":[6,0,1725,0,6],
 "d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a3107368f175aa7f4e8c405248ef917df":[6,0,1725,0,9],
-"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a311488932a3de9153490d41e3fae92fb":[6,0,1725,0,1],
-"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a3edc9ab54068e47f955116db70454f6c":[6,0,1725,0,4]
+"d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a311488932a3de9153490d41e3fae92fb":[6,0,1725,0,1]
 };

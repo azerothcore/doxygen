@@ -1,5 +1,11 @@
 var NAVTREEINDEX419 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cabc542daa55be8c65656cab5672d1cdf5":[7,0,0,0,1,3,5,6,4,56,31],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cac682bb13a1b1d4d583c70e60064cb779":[7,0,0,0,1,3,5,6,4,56,21],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cacc4b7f3e1e9f4c62a0dd6237c4ab0207":[7,0,0,0,1,3,5,6,4,56,42],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cad265e6bad5db546f0498412ba03350da":[7,0,0,0,1,3,5,6,4,56,28],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cad777b7a529954227406b4ac577e12132":[7,0,0,0,1,3,5,6,4,56,9],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cadda5b73bcedca7760d9965af2a40c252":[7,0,0,0,1,3,5,6,4,56,1],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae224b281cb6935d9087cd50b7ed0995b":[7,0,0,0,1,3,5,6,4,56,3],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae466031b510e8e262593695defb45162":[7,0,0,0,1,3,5,6,4,56,5],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cae5c3f18de770d7d4fb007cd37b86cf61":[7,0,0,0,1,3,5,6,4,56,11],
@@ -243,11 +249,5 @@ var NAVTREEINDEX419 =
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,763,0,4],
 "df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
 "df/dde/classBGSpamProtect.html":[6,0,371],
-"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,371,0],
-"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,371,1],
-"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1919],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1919,2],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1919,1],
-"df/dde/classnpc__rinji.html":[6,0,2098],
-"df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2098,2]
+"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,371,0]
 };
