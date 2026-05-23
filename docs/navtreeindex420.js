@@ -1,5 +1,8 @@
 var NAVTREEINDEX420 =
 {
+"df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
+"df/dde/classBGSpamProtect.html":[6,0,371],
+"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,371,0],
 "df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,371,1],
 "df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1919],
 "df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1919,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX420 =
 "df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[6,0,735,1],
 "df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[6,0,735,0],
 "df/df1/ConditionScript_8cpp.html":[7,0,0,0,1,2,38,0,39],
-"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,39,0],
-"df/df1/structCell.html":[6,0,860],
-"df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[6,0,860,1],
-"df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[6,0,860,10]
+"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,39,0]
 };

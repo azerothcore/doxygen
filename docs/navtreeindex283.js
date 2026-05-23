@@ -1,11 +1,14 @@
 var NAVTREEINDEX283 =
 {
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[6,0,13,12,8],
+"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,0,45,1],
+"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
+"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,0,45,2],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[6,0,13,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[6,0,13,12,8,1],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[6,0,13,12,8,0],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[6,0,4306],
 "da/df6/classspell__warr__mocking__blow.html#a94893e6dd048f0028540e5ce15ed7b1d":[6,0,4306,0],
 "da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[6,0,4306,1],
@@ -218,10 +221,10 @@ var NAVTREEINDEX283 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,92],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,92,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,104,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,92,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,104,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,92,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,92,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,104,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,92,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,104,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,92,3],
 "db/d03/classspell__gen__model__visible.html":[6,0,3057],
@@ -246,8 +249,5 @@ var NAVTREEINDEX283 =
 "db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[7,0,0,0,1,3,5,1,0,1,2],
 "db/d08/classspell__hun__piercing__shots.html":[6,0,3225],
 "db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[6,0,3225,3],
-"db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[6,0,3225,4],
-"db/d08/classspell__hun__piercing__shots.html#a4ac70c7765266f36b7689ffcc2bed15d":[6,0,3225,1],
-"db/d08/classspell__hun__piercing__shots.html#a86e6da13f7162318e5c0a7c6f89c69c2":[6,0,3225,0],
-"db/d08/classspell__hun__piercing__shots.html#acc41c53bf96695dc8cc43ccaf08e4125":[6,0,3225,2]
+"db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[6,0,3225,4]
 };

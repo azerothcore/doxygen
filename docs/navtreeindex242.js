@@ -1,6 +1,9 @@
 var NAVTREEINDEX242 =
 {
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,13,10,5,0],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,34,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,34,10,5,1],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[6,0,13,10,5,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,13,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,34,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,13,10,5,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a22d6c338ea1f2af9be0eb02aceba42bd":[6,0,3279,4],
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3279,1],
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a4126d35669859963f10ed1425a054298":[6,0,3279,2],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3279,0],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3279,3],
-"d9/d51/cs__mmaps_8cpp.html":[7,0,0,0,1,3,0,32],
-"d9/d51/cs__mmaps_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,32,1]
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3279,0]
 };

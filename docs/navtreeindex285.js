@@ -1,5 +1,8 @@
 var NAVTREEINDEX285 =
 {
+"db/d14/classLootTemplate.html#adedb1f03278aaeac63deb3dd32e07329":[6,0,1479,15],
+"db/d14/classLootTemplate.html#ae3f86961858f299f8e7ca683733bb127":[6,0,1479,14],
+"db/d14/classLootTemplate.html#ae88cc77aa554940030613a15cc05c045":[6,0,1479,10],
 "db/d14/classLootTemplate.html#ae9845401121ac8712dc8dfac9c58c72e":[6,0,1479,1],
 "db/d14/classLootTemplate.html#aec4552a98c1e27935da8ef29c9449f87":[6,0,1479,17],
 "db/d14/classLootTemplate.html#afb33c896a89f0fe14e2b565bb746119e":[6,0,1479,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX285 =
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[6,0,663,12],
 "db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[6,0,663,14],
 "db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[6,0,663,7],
-"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,663,2],
-"db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[6,0,663,9],
-"db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[6,0,663,0],
-"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[6,0,663,1]
+"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,663,2]
 };

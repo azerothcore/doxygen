@@ -1,5 +1,8 @@
 var NAVTREEINDEX230 =
 {
+"d8/d94/classTradeData.html":[6,0,4494],
+"d8/d94/classTradeData.html#a011acd6730c58aa75d3c27e793748afc":[6,0,4494,4],
+"d8/d94/classTradeData.html#a0dc996fdc9acab409833caff4e6b489b":[6,0,4494,15],
 "d8/d94/classTradeData.html#a1e585dd9ed486381a55e108a709e4db3":[6,0,4494,22],
 "d8/d94/classTradeData.html#a27981abf9bddbfe87bf81836b57e0780":[6,0,4494,9],
 "d8/d94/classTradeData.html#a291fdc4207d594982a780485b960f6fa":[6,0,4494,24],
@@ -97,8 +100,8 @@ var NAVTREEINDEX230 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,13,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,13,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,13,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2516],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2516,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2516,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX230 =
 "d8/da6/structboss__eregos_1_1boss__eregosAI.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36":[6,0,463,0,8],
 "d8/da6/structboss__eregos_1_1boss__eregosAI.html#a30ad32a4a63ae17eef4fc703a6749d38":[6,0,463,0,5],
 "d8/da6/structboss__eregos_1_1boss__eregosAI.html#a33ef5a080e457f4e08e7997b467b0974":[6,0,463,0,4],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a5b09dacbddd6075c2ebf4d62a387a8b6":[6,0,463,0,0],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a7a4b4443aed576f080a56a27e15edfd4":[6,0,463,0,1],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#abf0b366d7b0931ccc30711a33736dda8":[6,0,463,0,10],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#ac622481abb0190bdc7654b383766a9ed":[6,0,463,0,6]
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a5b09dacbddd6075c2ebf4d62a387a8b6":[6,0,463,0,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX335 =
 {
+"dc/dfb/classReactorAI.html#a224608a62a15d679863d68d7d0e32dde":[6,0,2498,1],
+"dc/dfb/classReactorAI.html#aaea292c46945399cf7c855e642941c2d":[6,0,2498,0],
+"dc/dfb/classUpdateTime.html":[6,0,4542],
 "dc/dfb/classUpdateTime.html#a1158e0c65b46bd16c782b007bfc2fa3e":[6,0,4542,19],
 "dc/dfb/classUpdateTime.html#a12ec461e5d33845ed375c0965fb024ae":[6,0,4542,2],
 "dc/dfb/classUpdateTime.html#a2073ed7e673a5db381432267861d64ec":[6,0,4542,3],
@@ -224,14 +227,14 @@ var NAVTREEINDEX335 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3199,2],
 "dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,17,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,17,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,17,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2918],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2918,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2918,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX335 =
 "dd/d09/BanMgr_8cpp.html":[7,0,0,0,1,2,27,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html":[6,0,2076,0],
 "dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2076,0,6],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a1c62cd07da5f0da91ef572bb00619d26":[6,0,2076,0,4],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a7be58c6ecc4e5ba23ec35cc1864f19e6":[6,0,2076,0,5],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a8864031e3c7a32cde57ca6efbf785d53":[6,0,2076,0,1],
-"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a92af4732575008c1a4f061cef0f23902":[6,0,2076,0,0]
+"dd/d09/structnpc__professor__phizzlethorpe_1_1npc__professor__phizzlethorpeAI.html#a1c62cd07da5f0da91ef572bb00619d26":[6,0,2076,0,4]
 };

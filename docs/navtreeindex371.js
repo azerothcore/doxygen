@@ -1,5 +1,8 @@
 var NAVTREEINDEX371 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a01573bd2d2308d67c6b03a9e67368ad7":[7,0,0,0,1,4,7,103,124],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a029d3f782ecbcc1d6ad13d4ec0ceb680":[7,0,0,0,1,4,7,103,87],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0505c8eab9a1528821d9243ec8cb8eaf":[7,0,0,0,1,4,7,103,134],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a051fe09707e946b31c417df719e0ce04":[7,0,0,0,1,4,7,103,61],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a07de0958bcb7fca9a3ed75f7ad1789bc":[7,0,0,0,1,4,7,103,146],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09d276f77cbf282560fcbc570c334ca8":[7,0,0,0,1,4,7,103,59],
@@ -246,8 +249,5 @@ var NAVTREEINDEX371 =
 "de/d0c/classspell__mage__fire__frost__ward.html#a8c5399ba68554f4c2e842c5492ad715c":[6,0,3566,3],
 "de/d0c/classspell__mage__fire__frost__ward.html#a9378cde1cc6daab0dc111b94aef4f6c8":[6,0,3566,0],
 "de/d0c/classspell__mage__fire__frost__ward.html#aa6264e4dbff71b0d82e3403984c59c03":[6,0,3566,4],
-"de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[6,0,3566,2],
-"de/d0e/classspell__item__soul__preserver.html":[6,0,3445],
-"de/d0e/classspell__item__soul__preserver.html#a0a0dad1c639499963a61d18fe78af1c1":[6,0,3445,0],
-"de/d0e/classspell__item__soul__preserver.html#a4020daf9d601eb53fe84f9cdbcf96626":[6,0,3445,3]
+"de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[6,0,3566,2]
 };

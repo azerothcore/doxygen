@@ -1,5 +1,8 @@
 var NAVTREEINDEX422 =
 {
+"df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[6,0,3414,3],
+"df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[6,0,3414,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,4160],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,4160,2],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,4160,1],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,4160,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX422 =
 "dir_ea33f7fc30415360daedf4b963058d3d.html":[7,0,0,0,1,2,36],
 "dir_eac4a77c7e1bc9a8e4dbb016e4f56c0e.html":[7,0,0,0,1,3,2,6],
 "dir_ee257430e29f6025af1a91f2d4e4e3f4.html":[7,0,0,0,1,3,2,1],
-"dir_ee82ee7794f367a672177b3bd595def7.html":[7,0,0,0],
-"dir_ef7aca743453a8310aabb86ba904b3f6.html":[7,0,0,0,1,2,41],
-"dir_efb9d7c5ce6f8141e7a681492cf39a92.html":[7,0,0,0,1,3,7,5,2],
-"dir_f0a1abf8767dec3b65a65862f1558cd7.html":[7,0,0,0,3,3]
+"dir_ee82ee7794f367a672177b3bd595def7.html":[7,0,0,0]
 };

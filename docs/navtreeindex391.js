@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[6,0,1231,1],
+"de/db5/QueryHolder_8cpp.html":[7,0,0,0,1,1,0,26],
+"de/db5/classBattlegroundDS.html":[6,0,335],
 "de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[6,0,335,0],
 "de/db5/classBattlegroundDS.html#a0c7a45aa22e390d2760bf32720435d5e":[6,0,335,1],
 "de/db5/classBattlegroundDS.html#a32490dab9fd8ea9ae9afd8cf66feb087":[6,0,335,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/dc8/classAuthCrypt.html#a99de2f8dd625cef94d70eeddefc9ac5c":[6,0,306,6],
 "de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,306,3],
 "de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[6,0,306,5],
-"de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,306,7],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,2,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,2,3,0]
+"de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,306,7]
 };

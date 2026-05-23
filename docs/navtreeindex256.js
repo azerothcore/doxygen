@@ -1,5 +1,8 @@
 var NAVTREEINDEX256 =
 {
+"d9/df7/classDBCFileLoader_1_1Record.html#af6a95de37b34f0204f57323d9a39d110":[6,0,982,0,4],
+"d9/df7/ulduar_8h.html":[7,0,0,0,1,3,5,9,2,16],
+"d9/df7/ulduar_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,9,2,16,0],
 "d9/df7/ulduar_8h.html#a0429d4d2f640868770605570b7d2ac30":[7,0,0,0,1,3,5,9,2,16,10],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7":[7,0,0,0,1,3,5,9,2,16,8],
 "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a2f4bad90049534d435ac9d2d9b495761":[7,0,0,0,1,3,5,9,2,16,8,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2af449b9acf59d55faafe6772c4b0b35ae":[7,0,0,0,1,3,5,9,2,16,7,9],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91":[7,0,0,0,1,3,5,9,2,16,7,36],
 "d9/df7/ulduar_8h.html#ad3805439b87317fde3f002c977899982":[7,0,0,0,1,3,5,9,2,16,2],
-"d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f":[7,0,0,0,1,3,5,9,2,16,11],
-"d9/df9/classinstance__hellfire__ramparts.html":[6,0,1332],
-"d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1332,2],
-"d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1332,1]
+"d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f":[7,0,0,0,1,3,5,9,2,16,11]
 };

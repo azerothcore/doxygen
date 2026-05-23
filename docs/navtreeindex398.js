@@ -1,5 +1,8 @@
 var NAVTREEINDEX398 =
 {
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6378748a168e4e668f696bd9c6dfbc31":[6,0,2302,0,1],
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6540d8f5787ce1da211123721ef659f3":[6,0,2302,0,0],
+"df/d1b/zone__stormwind__city_8cpp.html":[7,0,0,0,1,3,2,30],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7":[7,0,0,0,1,3,2,30,9],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68":[7,0,0,0,1,3,2,30,9,10],
 "df/d1b/zone__stormwind__city_8cpp.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd":[7,0,0,0,1,3,2,30,9,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX398 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a23d4b19593e2a5a476b2bb9ea11ee622":[7,0,0,0,1,2,16,5,0,4,6,195],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a24d5638deb3bf3067a787a9fd0f914d2":[7,0,0,0,1,2,16,5,0,4,6,285],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a267b0029932bfa661908ff0966465393":[7,0,0,0,1,2,16,5,0,4,6,140],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28dc9bdb9b35a8f412be125174b9a17b":[7,0,0,0,1,2,16,5,0,4,6,2],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28ff79520b4b9b2f0775cf565443cdc3":[7,0,0,0,1,2,16,5,0,4,6,202],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a299f4063063d6b21fbb5622b354c06ff":[7,0,0,0,1,2,16,5,0,4,6,222],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a2abbc1426caf4406282bc4c8e123df84":[7,0,0,0,1,2,16,5,0,4,6,235]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a28dc9bdb9b35a8f412be125174b9a17b":[7,0,0,0,1,2,16,5,0,4,6,2]
 };

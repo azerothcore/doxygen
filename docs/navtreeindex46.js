@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd0/classspell__sha__t3__8p__bonus.html":[6,0,4059],
 "d1/dd0/classspell__sha__t3__8p__bonus.html#a0448cdf379053396f8649946e52ce690":[6,0,4059,1],
 "d1/dd0/classspell__sha__t3__8p__bonus.html#a14e79a7bb4a5b11ddc74ab366e79a907":[6,0,4059,0],
 "d1/dd0/classspell__sha__t3__8p__bonus.html#a2dab21ddb3c33341d560643d27042402":[6,0,4059,2],
@@ -10,10 +11,10 @@ var NAVTREEINDEX46 =
 "d1/dd1/structboss__gahzranka.html#a82cc1a44a967f859039957e41f38dd77":[6,0,502,0],
 "d1/dd1/structboss__gahzranka.html#ac1cc43194c00fda1729f8a068d4e8779":[6,0,502,2],
 "d1/dd1/structboss__gahzranka.html#ad68be854f95c398dc5dd9e5b22f538a8":[6,0,502,1],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[6,0,11,27],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[5,0,31,27,0],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,11,27,0],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[5,0,31,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,11,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,11,27,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad93fdef2facd4fd7450d64a2554d45a6":[7,0,0,0,1,3,9,11,45,16],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad95ba7ba12fda07f5930c7c223c14f90":[7,0,0,0,1,3,9,11,45,31],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae85880434e6eca0282993c615ead7552":[7,0,0,0,1,3,9,11,45,11],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae992cd54e249bf6fd8b7da6a4725c38c":[7,0,0,0,1,3,9,11,45,48],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570aebfbd8d130fbd9189f33869fa00c80be":[7,0,0,0,1,3,9,11,45,20]
+"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae992cd54e249bf6fd8b7da6a4725c38c":[7,0,0,0,1,3,9,11,45,48]
 };

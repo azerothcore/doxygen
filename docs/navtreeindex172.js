@@ -1,5 +1,8 @@
 var NAVTREEINDEX172 =
 {
+"d6/d26/classBattlefield.html#addd18f1dab7d197d1f4f6547bfb28d19":[6,0,324,43],
+"d6/d26/classBattlefield.html#ade950f2bc2c79fd5d37db2c144f054e1":[6,0,324,78],
+"d6/d26/classBattlefield.html#adf78a89196f06fa8d6250eb9d352405a":[6,0,324,86],
 "d6/d26/classBattlefield.html#adf90f91a8397cbf9faea54bab36c46c6":[6,0,324,53],
 "d6/d26/classBattlefield.html#ae0a5d4dab95159c890301abb8bdd2090":[6,0,324,6],
 "d6/d26/classBattlefield.html#ae1c92b28b46d94998feed8c9df4c5baa":[6,0,324,32],
@@ -145,8 +148,8 @@ var NAVTREEINDEX172 =
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2983,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,13,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,13,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,13,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,13,12,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d32/classArena.html#ae24fe304d35c0c09379203135e936450":[6,0,184,1],
 "d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3864],
 "d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a36563a197b7377660b7c3f9e85d478bd":[6,0,3864,3],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3864,1],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#abaef73201d2e0bd1d6789309442019e0":[6,0,3864,0],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#add5c1ecaa5a75af6e91a0df5d63bbc42":[6,0,3864,2],
-"d6/d33/classAuraScript_1_1EffectBase.html":[6,0,297,8]
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3864,1]
 };

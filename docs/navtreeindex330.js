@@ -1,5 +1,8 @@
 var NAVTREEINDEX330 =
 {
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3820,0],
+"dc/db5/structCreatureTextLocale.html":[6,0,962],
+"dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,962,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,14],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html":[7,0,0,0,1,3,7,5,3,1],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,3,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d":[7,0,0,0,1,2,16,5,5,17,5],
 "dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9":[7,0,0,0,1,2,16,5,5,17,3],
 "dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f":[7,0,0,0,1,2,16,5,5,17,7],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28":[7,0,0,0,1,2,16,5,5,17,1],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c":[7,0,0,0,1,2,16,5,5,17,4],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107":[7,0,0,0,1,2,16,5,5,17,2],
-"dc/dc9/ObjectGuid_8h.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,5,21]
+"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28":[7,0,0,0,1,2,16,5,5,17,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX301 =
 {
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a421d6650ebd58f6ad30bc7c2c2a40eb8":[7,0,0,0,1,3,10,14,57,13],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a4427a4f52a4a68460728a828c83cf560":[7,0,0,0,1,3,10,14,57,2],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a48da002210c92ff0c5ee0c5671a457c7":[7,0,0,0,1,3,10,14,57,3],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a543f4a4539eb2a9bc69021b9bc580915":[7,0,0,0,1,3,10,14,57,14],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5732d1eaea6917e07d4f7b5407042469":[7,0,0,0,1,3,10,14,57,7],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5ecfda4bcc8fa4e70e5b37438f6878d9":[7,0,0,0,1,3,10,14,57,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX301 =
 "db/db5/structboss__hydross__the__unstable.html#a4fd2138ce9962d89410b57702d7df33d":[6,0,556,2],
 "db/db5/structboss__hydross__the__unstable.html#a8e385f4f7f448033b00828540aa16cde":[6,0,556,0],
 "db/db5/structboss__hydross__the__unstable.html#ac80b0611533998d15406d45385d37629":[6,0,556,7],
-"db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4":[6,0,556,11],
-"db/db5/structboss__hydross__the__unstable.html#ad05fa00eade9614ed54b03a9a4d5d348":[6,0,556,1],
-"db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[6,0,556,9],
-"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,556,8]
+"db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4":[6,0,556,11]
 };

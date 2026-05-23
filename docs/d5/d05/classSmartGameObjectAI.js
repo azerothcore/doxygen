@@ -4,6 +4,7 @@ var classSmartGameObjectAI =
     [ "~SmartGameObjectAI", "d5/d05/classSmartGameObjectAI.html#a42014c4916ea308fc44a50a29c729379", null ],
     [ "Destroyed", "d5/d05/classSmartGameObjectAI.html#aa80f351b7a9e8511015f17df470ed4ef", null ],
     [ "EventInform", "d5/d05/classSmartGameObjectAI.html#a692787e8922b922bf461496c13084027", null ],
+    [ "GetData", "d5/d05/classSmartGameObjectAI.html#a05fca984c83c7670b410332220ac4a91", null ],
     [ "GetScript", "d5/d05/classSmartGameObjectAI.html#a8fdf6339cad962502381081955776634", null ],
     [ "GossipHello", "d5/d05/classSmartGameObjectAI.html#a319ac690004b4d0328e3a70696bb6c83", null ],
     [ "GossipSelect", "d5/d05/classSmartGameObjectAI.html#ab5cb3c976d87d9e9f255734f5e7c74d2", null ],
@@ -24,5 +25,6 @@ var classSmartGameObjectAI =
     [ "SummonedCreatureDies", "d5/d05/classSmartGameObjectAI.html#ae5cecad493fbf61fd6b32a83c999dc66", null ],
     [ "SummonedCreatureEvade", "d5/d05/classSmartGameObjectAI.html#a039cfca6aff126ccd16fc7e0f3a3db3f", null ],
     [ "UpdateAI", "d5/d05/classSmartGameObjectAI.html#a36fa0a078ecd806ba4f7730396122a09", null ],
+    [ "aiDataSet", "d5/d05/classSmartGameObjectAI.html#a82a6b7187a3b4f61717973a279a97142", null ],
     [ "mScript", "d5/d05/classSmartGameObjectAI.html#acb32f3f31274b5938a450e199cad8852", null ]
 ];

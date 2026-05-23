@@ -1,5 +1,8 @@
 var NAVTREEINDEX259 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad498385dc473aec465254d22cbfd27a3":[7,0,0,0,1,2,48,4,1,337],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad50ec2e0de801d877daf7f944d78b2fd":[7,0,0,0,1,2,48,4,1,103],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad680c56977376ad3651904efe84fbfd2":[7,0,0,0,1,2,48,4,1,82],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad6bd5d7abc2b2506204018a4d9c4e361":[7,0,0,0,1,2,48,4,1,268],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7c2d120ede8fb9ecd4c9904934778de":[7,0,0,0,1,2,48,4,1,469],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7cfeeae540fe9cedc60ba2235993bf2":[7,0,0,0,1,2,48,4,1,35],
@@ -246,8 +249,5 @@ var NAVTREEINDEX259 =
 "da/d0b/structboss__sartharion__tenebron.html#aa57a9180c2fbc2441622a6b3b4fd1fb1":[6,0,701,3],
 "da/d0b/structboss__sartharion__tenebron.html#ac21b27a510d6c087d19bebe2b2a5426b":[6,0,701,1],
 "da/d0b/structboss__sartharion__tenebron.html#ad61c290ccbd36d9b1bb24d6c44f390c3":[6,0,701,2],
-"da/d0b/structboss__sartharion__tenebron.html#ae4e49d7bee95c929ece64beeca940a0a":[6,0,701,4],
-"da/d0b/structboss__sartharion__tenebron.html#aed0f47aa2ed463ae0d2219e54e7b91bc":[6,0,701,0],
-"da/d0c/classspell__q10985__light__of__the__naaru.html":[6,0,3846],
-"da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3846,1]
+"da/d0b/structboss__sartharion__tenebron.html#ae4e49d7bee95c929ece64beeca940a0a":[6,0,701,4]
 };

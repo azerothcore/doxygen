@@ -1,5 +1,8 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2650,1],
+"d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2650,0],
+"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2822],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2822,0],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2822,2],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[6,0,2822,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41":[6,0,324,105],
 "d6/d26/classBattlefield.html#ad8dc0bff4621113fe88b1f1d0ed8571b":[6,0,324,61],
 "d6/d26/classBattlefield.html#adbbbb5c8b48e73a2611664d4705efc35":[6,0,324,119],
-"d6/d26/classBattlefield.html#addc494f01d86e98b2635dcc19e5b27c3":[6,0,324,34],
-"d6/d26/classBattlefield.html#addd18f1dab7d197d1f4f6547bfb28d19":[6,0,324,43],
-"d6/d26/classBattlefield.html#ade950f2bc2c79fd5d37db2c144f054e1":[6,0,324,78],
-"d6/d26/classBattlefield.html#adf78a89196f06fa8d6250eb9d352405a":[6,0,324,86]
+"d6/d26/classBattlefield.html#addc494f01d86e98b2635dcc19e5b27c3":[6,0,324,34]
 };

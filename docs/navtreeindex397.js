@@ -1,5 +1,8 @@
 var NAVTREEINDEX397 =
 {
+"df/d14/classPet.html#a9a49a8303c99851bb861b3b11e3fce32":[6,0,2387,4],
+"df/d14/classPet.html#a9a66612d754660f0ff25ac0b1236372e":[6,0,2387,76],
+"df/d14/classPet.html#a9d623f0127c82864f885e09a9ddd2eb8":[6,0,2387,45],
 "df/d14/classPet.html#aa112fc828c2fc64dd592c81932b71481":[6,0,2387,1],
 "df/d14/classPet.html#aaac68db137c1dd9b03527cfd84b9b8b1":[6,0,2387,82],
 "df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb":[6,0,2387,56],
@@ -246,8 +249,5 @@ var NAVTREEINDEX397 =
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#abca34d7285ef23c062006df8f8ae6d53":[6,0,2258,0,4],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#afc5c9299d7f1f73c087a19dcfb19e096":[6,0,2258,0,6],
 "df/d1a/CliRunnable_8cpp.html":[4,0,0],
-"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2302,0],
-"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6378748a168e4e668f696bd9c6dfbc31":[6,0,2302,0,1],
-"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html#a6540d8f5787ce1da211123721ef659f3":[6,0,2302,0,0],
-"df/d1b/zone__stormwind__city_8cpp.html":[7,0,0,0,1,3,2,30]
+"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2302,0]
 };

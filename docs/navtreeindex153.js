@@ -1,5 +1,8 @@
 var NAVTREEINDEX153 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac9ed7ff2d4c73a3ef6d3bd28fa5be89e":[7,0,0,0,1,2,0,3,4,301],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac9fae7a96b4cb9af15ccd70c7d0cbd81":[7,0,0,0,1,2,0,3,4,135],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aca5c8d151c9a2faea057514cd8a33da7":[7,0,0,0,1,2,0,3,4,67],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aca727c40fff632a7f7bdf64e98e3fb45":[7,0,0,0,1,2,0,3,4,608],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aca8c00327c8f269c0c560826dc4d275d":[7,0,0,0,1,2,0,3,4,468],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acaba5e31c21b78137761711c5653f5c2":[7,0,0,0,1,2,0,3,4,527],
@@ -187,8 +190,8 @@ var NAVTREEINDEX153 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[6,0,2423,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[6,0,2423,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[6,0,2423,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[6,0,13,14,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,14,3],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[6,0,13,14,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,14,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[6,0,13,14,3,0],
 "d5/d76/structboss__faction__championsAI.html":[6,0,472],
@@ -246,8 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d79/classCreatureAI.html#a0bb800c2785607e1318c339d62c724e8":[6,0,941,73],
 "d5/d79/classCreatureAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,941,75],
 "d5/d79/classCreatureAI.html#a100ffdac1244f5a7fdb3692cb903a119":[6,0,941,1],
-"d5/d79/classCreatureAI.html#a1280f8bcf72254ad31c453b810615f87":[6,0,941,41],
-"d5/d79/classCreatureAI.html#a12d4493d7e3dbb67131e360638efb2d3":[6,0,941,2],
-"d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300":[6,0,941,31],
-"d5/d79/classCreatureAI.html#a17d2cc91d7cdcfa323aaf5ada6ac8a7b":[6,0,941,67]
+"d5/d79/classCreatureAI.html#a1280f8bcf72254ad31c453b810615f87":[6,0,941,41]
 };

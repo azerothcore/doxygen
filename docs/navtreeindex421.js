@@ -1,5 +1,8 @@
 var NAVTREEINDEX421 =
 {
+"df/df1/structCell.html":[6,0,860],
+"df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[6,0,860,1],
+"df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[6,0,860,10],
 "df/df1/structCell.html#a13c2328ec9e465adf403610ffc4f8753":[6,0,860,19],
 "df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686":[6,0,860,22],
 "df/df1/structCell.html#a15c6d9e68123ebceaf3520a383f5b7e8":[6,0,860,11],
@@ -246,8 +249,5 @@ var NAVTREEINDEX421 =
 "df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[7,0,0,0,1,3,2,26,2],
 "df/dfc/classspell__item__pet__healing.html":[6,0,3414],
 "df/dfc/classspell__item__pet__healing.html#a357e5c8a332989f93276667da1adf9f6":[6,0,3414,2],
-"df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[6,0,3414,1],
-"df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[6,0,3414,3],
-"df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[6,0,3414,0],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,4160]
+"df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[6,0,3414,1]
 };

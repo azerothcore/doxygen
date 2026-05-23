@@ -1,5 +1,8 @@
 var NAVTREEINDEX145 =
 {
+"d5/d15/classnpc__pos__deathwhisper__necrolyte.html#a0dcdb5b1dfed44f74b04663758b531a0":[6,0,2061,1],
+"d5/d15/classnpc__pos__deathwhisper__necrolyte.html#ae765669f95f4f14b393b88bf7ecbbfd6":[6,0,2061,2],
+"d5/d15/zone__arathi__highlands_8cpp.html":[7,0,0,0,1,3,2,18],
 "d5/d15/zone__arathi__highlands_8cpp.html#a1e4a782474f0928dbacdf32c0ba395fd":[7,0,0,0,1,3,2,18,3],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1":[7,0,0,0,1,3,2,18,2],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e":[7,0,0,0,1,3,2,18,2,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d22/classspell__lady__vashj__summons.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89":[6,0,3530,0,1],
 "d5/d22/classspell__lady__vashj__summons.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098":[6,0,3530,0,2],
 "d5/d22/classspell__lady__vashj__summons.html#a7fe65229c64c27909868f02439c1ef66":[6,0,3530,3],
-"d5/d22/classspell__lady__vashj__summons.html#aa670812f42c3082f42e0f232ee6bee16":[6,0,3530,2],
-"d5/d22/classspell__lady__vashj__summons.html#ab8bcdcfcad2a9998d95567006817711e":[6,0,3530,5],
-"d5/d22/structCinematicSequencesEntry.html":[6,0,894],
-"d5/d22/structCinematicSequencesEntry.html#a87e5f6de255dc0c75423eace2768a1dc":[6,0,894,0]
+"d5/d22/classspell__lady__vashj__summons.html#aa670812f42c3082f42e0f232ee6bee16":[6,0,3530,2]
 };

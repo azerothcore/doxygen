@@ -1,5 +1,8 @@
 var NAVTREEINDEX314 =
 {
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[6,0,1604,0,2],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[6,0,1604,0,5],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3":[6,0,1604,0,4],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05":[6,0,1604,0,1],
 "dc/d0c/AllPackets_8h.html":[7,0,0,0,1,2,39,0,0],
 "dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2907],
@@ -223,14 +226,14 @@ var NAVTREEINDEX314 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3883,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3883,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3883,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,25],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,25,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,25,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[7,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[7,0,0,0,1,3,2,1,0,4,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[6,0,2567,1],
 "dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[6,0,2567,2],
 "dc/d20/structSHostageInfo.html#ac14168f8c25efe7fa22ec802259b3a11":[6,0,2567,0],
-"dc/d21/structResultIterator.html":[6,0,2521],
-"dc/d21/structResultIterator.html#a0a7d6ac1eee62492330353b15edb4fd0":[6,0,2521,5],
-"dc/d21/structResultIterator.html#a0b6cee284fea4a4023cc688614432b69":[6,0,2521,9],
-"dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e":[6,0,2521,10]
+"dc/d21/structResultIterator.html":[6,0,2521]
 };

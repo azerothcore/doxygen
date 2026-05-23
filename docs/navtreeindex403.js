@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"df/d45/classSpellProcDisableEffectsTest.html#ac82c59da0a73f393dcef17d666ef65bf":[6,0,4406,1],
+"df/d48/OutdoorPvPZM_8cpp.html":[7,0,0,0,1,3,6,13],
+"df/d48/OutdoorPvPZM_8cpp.html#a3077d08865fa83f84cf956c392a9091c":[7,0,0,0,1,3,6,13,1],
 "df/d48/classspell__shield__generator__aura.html":[6,0,4076],
 "df/d48/classspell__shield__generator__aura.html#a16c2e931950102fc0ae5c88ef14587c1":[6,0,4076,0],
 "df/d48/classspell__shield__generator__aura.html#a17fed57aed8953c7a7e401d1ac925e67":[6,0,4076,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[5,0,31,21,0],
 "df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[6,0,11,21,1],
 "df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[5,0,31,21,1],
-"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[6,0,11,21,12],
-"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[5,0,31,21,12],
-"df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[6,0,11,21,9],
-"df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[5,0,31,21,9]
+"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[6,0,11,21,12]
 };

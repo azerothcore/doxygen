@@ -1,5 +1,8 @@
 var NAVTREEINDEX407 =
 {
+"df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2076,2],
+"df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2076,1],
+"df/d86/classspell__dru__t3__2p__bonus.html":[6,0,2902],
 "df/d86/classspell__dru__t3__2p__bonus.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d":[6,0,2902,0],
 "df/d86/classspell__dru__t3__2p__bonus.html#a38de7578466df47ebe6fc7b5bfab616b":[6,0,2902,3],
 "df/d86/classspell__dru__t3__2p__bonus.html#a506420e3e109bf8f4e7c83b101c80c3c":[6,0,2902,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#a5dad1355cbb447a1349b4c4e47b3c9f3":[6,0,2588,15],
 "df/d8d/structSmartTarget.html#a611ea9ab2ca4d2c0b4c6e5dc0335b79a":[6,0,2588,18],
 "df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d":[6,0,2588,49],
-"df/d8d/structSmartTarget.html#a647e6d839f3e58848c1088755d3122a1":[6,0,2588,56],
-"df/d8d/structSmartTarget.html#a6485b621fa6bb529b7cff1c4bc63c8df":[6,0,2588,6],
-"df/d8d/structSmartTarget.html#a688456e01f4c076a0bcf38e936751c91":[6,0,2588,24],
-"df/d8d/structSmartTarget.html#a6965825e57e41efb16a153eee55c9cff":[6,0,2588,26]
+"df/d8d/structSmartTarget.html#a647e6d839f3e58848c1088755d3122a1":[6,0,2588,56]
 };

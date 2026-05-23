@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725":[6,0,2584,44],
 "d4/d02/structSmartEvent.html#a8968f4201959549d8f5ea3861b553d25":[6,0,2584,65],
 "d4/d02/structSmartEvent.html#a8ae11f8f83f4b4ea3581ca38575dad67":[6,0,2584,50],
 "d4/d02/structSmartEvent.html#a8ca1084f36598b1c307055f77aca1ad0":[6,0,2584,93],
@@ -207,10 +208,10 @@ var NAVTREEINDEX120 =
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[5,0,17,6,4],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[5,0,17,6,1],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[6,0,5,6,1],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[6,0,5,6,3],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[5,0,17,6,3],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,34,6,45],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[6,0,5,6,3],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[6,0,13,6,45],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,34,6,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[6,0,13,6,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,34,6,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,13,6,45,1],
@@ -239,8 +240,8 @@ var NAVTREEINDEX120 =
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#af8a46c99290ce700e765c7ad5e8c866c":[6,0,3300,3],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[6,0,0,4,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[5,0,0,7,0,6],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,0,7,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[6,0,0,4,0,6,2],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,0,7,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[5,0,0,7,0,6,1],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[6,0,0,4,0,6,1],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#ac481731c1965ea0420cd7820e1e89881":[5,0,0,7,0,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d0f/structGameTele.html":[6,0,1119],
 "d4/d0f/structGameTele.html#a3d3f398cd23566dce721fefeae7af33c":[6,0,1119,4],
 "d4/d0f/structGameTele.html#a49b4a83290dbe39ab0be79a8ae2f03a6":[6,0,1119,2],
-"d4/d0f/structGameTele.html#a65e7390a1dbb615a155c4f163b830e11":[6,0,1119,3],
-"d4/d0f/structGameTele.html#a828d8b93918ea8ba695e0c5e597c855d":[6,0,1119,0]
+"d4/d0f/structGameTele.html#a65e7390a1dbb615a155c4f163b830e11":[6,0,1119,3]
 };

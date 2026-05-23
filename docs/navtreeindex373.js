@@ -1,5 +1,8 @@
 var NAVTREEINDEX373 =
 {
+"de/d1c/classGameObject.html#a480c82a758a0654c31d5cda1ab8495e8":[6,0,1101,89],
+"de/d1c/classGameObject.html#a49b086bad4ba856afbe9216f3f786b1b":[6,0,1101,159],
+"de/d1c/classGameObject.html#a4a4ecdab74c6fdb99af8c35699a0a227":[6,0,1101,32],
 "de/d1c/classGameObject.html#a4bffa0ad80f3029235b3e886ba54adf7":[6,0,1101,71],
 "de/d1c/classGameObject.html#a4d9b613fec271533fb27c1a4d96adc39":[6,0,1101,165],
 "de/d1c/classGameObject.html#a4da22122e399a6fe1388138f3fb58ee5":[6,0,1101,40],
@@ -246,8 +249,5 @@ var NAVTREEINDEX373 =
 "de/d23/structnpc__winterfin__playmate.html":[6,0,2289],
 "de/d23/structnpc__winterfin__playmate.html#a0a1051dc971ef393843bd1ba655a2e1b":[6,0,2289,5],
 "de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2289,6],
-"de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2289,1],
-"de/d23/structnpc__winterfin__playmate.html#a8e04dc18ee8a6d9412cd574994908eb6":[6,0,2289,3],
-"de/d23/structnpc__winterfin__playmate.html#a9189bf7b93e7c46e559c22f3504f919f":[6,0,2289,4],
-"de/d23/structnpc__winterfin__playmate.html#a9c07fb9115c21ba5c3ef7459662e8f38":[6,0,2289,0]
+"de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2289,1]
 };

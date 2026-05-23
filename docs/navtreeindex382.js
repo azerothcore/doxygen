@@ -1,5 +1,8 @@
 var NAVTREEINDEX382 =
 {
+"de/d71/QueryResult_8cpp.html":[7,0,0,0,1,1,0,28],
+"de/d71/classgo__ulduar__working__harpoon.html":[6,0,1222],
+"de/d71/classgo__ulduar__working__harpoon.html#a164bdd0a9538293699665a821c4f25f3":[6,0,1222,1],
 "de/d71/classgo__ulduar__working__harpoon.html#a9aaaa16f23f07e402f20a048fd69d347":[6,0,1222,0],
 "de/d72/classFollowerAI.html":[6,0,1080],
 "de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[6,0,1080,20],
@@ -246,8 +249,5 @@ var NAVTREEINDEX382 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aef93d0b1ecc6c7d252409f025e12ff1d":[6,0,1377,0,2],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af3c9652f2d8834357e8f3788914de294":[6,0,1377,0,27],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af62979800a5a262ff5f4fba546c64c59":[6,0,1377,0,5],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#afb44bdf61319bea21975898f9be0adac":[6,0,1377,0,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[6,0,1598,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a0c48e1cebec95e6de0b7d02a22658c40":[6,0,1598,0,1],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[6,0,1598,0,0]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#afb44bdf61319bea21975898f9be0adac":[6,0,1377,0,0]
 };

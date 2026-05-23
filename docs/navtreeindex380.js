@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,13,4,0,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,13,4,0,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1334],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff449b5123285287f62d0c80459a9f53":[7,0,0,0,1,2,13,1,12,0],
 "de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130c":[7,0,0,0,1,2,13,1,14],
 "de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca16e6b230456dd107d885b134aeffce9c":[7,0,0,0,1,2,13,1,14,3],
-"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca88cb9f816708ae33f7de954d41f59479":[7,0,0,0,1,2,13,1,14,0],
-"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cab4cc0bcddba1153b89a678c402562b1e":[7,0,0,0,1,2,13,1,14,2],
-"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cacb9164a9b62f8feb668161d90daa98ea":[7,0,0,0,1,2,13,1,14,1],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0":[7,0,0,0,1,2,13,1,13]
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca88cb9f816708ae33f7de954d41f59479":[7,0,0,0,1,2,13,1,14,0]
 };

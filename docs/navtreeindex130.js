@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d6e/classspell__sunwell__teleport.html#a351a2beced058f9354515baa38b0292e":[6,0,4115,4],
 "d4/d6e/classspell__sunwell__teleport.html#a3a82c7a6d6673c5860b196e0cd644aab":[6,0,4115,3],
 "d4/d6e/classspell__sunwell__teleport.html#a4bd9ef50ecc45c792feb8e4d820298b5":[6,0,4115,1],
 "d4/d6e/classspell__sunwell__teleport.html#a66d97a0028b8a0c430ac5152213f60eb":[6,0,4115,5],
@@ -207,8 +208,8 @@ var NAVTREEINDEX130 =
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[6,0,13,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,34,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,13,6,13,1],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,13,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,13,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,34,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[6,0,13,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[6,0,13,6,13,2],
@@ -236,10 +237,10 @@ var NAVTREEINDEX130 =
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a89b86436bb1de38223165e7ef60f2b61":[6,0,4424,6,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[6,0,11,22],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,31,22],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,31,22,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[6,0,11,22,1],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[6,0,11,22,2],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,31,22,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[5,0,31,22,2],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[6,0,11,22,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[6,0,11,22,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[5,0,31,22,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#aef7e8c21f6be4d6889faddda6b3be326":[6,0,11,22,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04":[7,0,0,0,1,3,2,1,2,6,21],
 "d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04a07b72413c925b72cb4d036300455b1fb":[7,0,0,0,1,3,2,1,2,6,21,2],
 "d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04a73943fa657da0a16b91fbad8dba7fde8":[7,0,0,0,1,3,2,1,2,6,21,0],
-"d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04a92f97c4c8b7e554efe94a1f8ece1f39a":[7,0,0,0,1,3,2,1,2,6,21,3],
-"d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04ac50799ac16103a0a8e0483596a445973":[7,0,0,0,1,3,2,1,2,6,21,1]
+"d4/d7b/boss__nefarian_8cpp.html#a0d696900f60382bdf795480925732f04a92f97c4c8b7e554efe94a1f8ece1f39a":[7,0,0,0,1,3,2,1,2,6,21,3]
 };

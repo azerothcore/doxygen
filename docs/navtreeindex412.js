@@ -1,5 +1,8 @@
 var NAVTREEINDEX412 =
 {
+"df/db0/classboss__svala.html#a7ac5866eb6a013cb03f3d459b13b4a62":[6,0,730,1],
+"df/db1/classspell__pet__hit__expertise__scalling.html":[6,0,3746],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a08dca1818a687bb5862779e261dafb00":[6,0,3746,0],
 "df/db1/classspell__pet__hit__expertise__scalling.html#a34933c7fe8b570214c821347f4ba974b":[6,0,3746,9],
 "df/db1/classspell__pet__hit__expertise__scalling.html#a44703f4a1c5cfb74083bf74d7b77c23c":[6,0,3746,1],
 "df/db1/classspell__pet__hit__expertise__scalling.html#a6ba389f156263462f5e80e3a9fb6f62e":[6,0,3746,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX412 =
 "df/dbe/CreatureAISelector_8h.html#a10fef1ff3335f4642179ee423b1ff0d6":[7,0,0,0,1,2,3,10,0],
 "df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[7,0,0,0,1,2,3,10,2],
 "df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[7,0,0,0,1,2,3,10,1],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html":[6,0,4282],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a0eb7295583f2c45c88ae266d66813b5b":[6,0,4282,1],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[6,0,4282,0],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ab8848a011ec8397bc5712ced54e09432":[6,0,4282,2]
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html":[6,0,4282]
 };

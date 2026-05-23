@@ -1,5 +1,8 @@
 var NAVTREEINDEX405 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1798,0,4],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a16c9ddf6f2f858f4147a0188e0df7250":[6,0,1798,0,8],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a240e8f556176b9571bd08407276402be":[6,0,1798,0,3],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a5c3a3237579721b94dd433841b83bb02":[6,0,1798,0,10],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a71fea2fdf5079fbc1d8baa72e7e4ae82":[6,0,1798,0,7],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[6,0,1798,0,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX405 =
 "df/d72/structgunship__npc__AI.html":[6,0,1276],
 "df/d72/structgunship__npc__AI.html#a30c13cb755638fcf05d1ad9a476210d3":[6,0,1276,0],
 "df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[6,0,1276,3],
-"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1276,8],
-"df/d72/structgunship__npc__AI.html#a7c2da25bb962c32fa350ee1f12f86ca4":[6,0,1276,1],
-"df/d72/structgunship__npc__AI.html#ab5276a099bcf56c5a25b3a52be516b5c":[6,0,1276,7],
-"df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[6,0,1276,4]
+"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1276,8]
 };

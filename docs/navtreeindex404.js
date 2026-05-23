@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[5,0,31,21,12],
+"df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[6,0,11,21,9],
+"df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[5,0,31,21,9],
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[5,0,31,21,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[6,0,11,21,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,11,21,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496":[7,0,0,0,1,3,3,0,9,2],
 "df/d6a/firework__show__Teldrassil_8h.html#ade54ff9545ac94f914ea82994571e3a0":[7,0,0,0,1,3,3,0,9,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html":[6,0,1798,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1798,0,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1798,0,4],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a16c9ddf6f2f858f4147a0188e0df7250":[6,0,1798,0,8],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a240e8f556176b9571bd08407276402be":[6,0,1798,0,3]
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1798,0,0]
 };

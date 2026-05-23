@@ -1,5 +1,8 @@
 var NAVTREEINDEX376 =
 {
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a94531c66384df3b7d85cde04d8fc69c3":[7,0,0,0,1,2,41,9,72,4],
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364ab1d1e1ee19258b6887cd47a4c865544f":[7,0,0,0,1,2,41,9,72,5],
+"de/d30/SpellMgr_8h.html#a86ed4228aa3581416498515c136ed4fb":[7,0,0,0,1,2,41,9,53],
 "de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444":[7,0,0,0,1,2,41,9,52],
 "de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[7,0,0,0,1,2,41,9,26],
 "de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[7,0,0,0,1,2,41,9,49],
@@ -246,8 +249,5 @@ var NAVTREEINDEX376 =
 "de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1853,5],
 "de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[6,0,1853,0],
 "de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[6,0,1853,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1853,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1853,2],
-"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1853,3],
-"de/d34/classspell__gordunni__trap.html":[6,0,3133]
+"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1853,4]
 };

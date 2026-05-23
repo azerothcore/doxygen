@@ -1,5 +1,8 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa6bfc9b5bd35e3fe47341abeefd5dd19":[7,0,0,0,1,2,38,0,77,1,129],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7b12e6570ec3c076d1c190aae96748c":[7,0,0,0,1,2,38,0,77,1,48],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938":[7,0,0,0,1,2,38,0,77,1,59],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa946402b647964cad6bcecd7779d7855":[7,0,0,0,1,2,38,0,77,1,45],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aacabdb19eaff4de521693cc4d123dd56":[7,0,0,0,1,2,38,0,77,1,108],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[7,0,0,0,1,2,38,0,77,1,91],
@@ -246,8 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3573],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[6,0,3573,1],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[6,0,3573,2],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3573,0],
-"dd/dd3/zone__netherstorm_8cpp.html":[7,0,0,0,1,3,7,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[7,0,0,0,1,3,7,12,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[7,0,0,0,1,3,7,12,12,0]
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3573,0]
 };

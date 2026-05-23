@@ -1,5 +1,8 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a5012dcce247705cd082204f6dae90b04":[7,0,0,0,1,3,5,12,9,38],
+"da/d4c/violet__hold_8h.html#a5401c263ffd473e3c12ce4e91cffb50d":[7,0,0,0,1,3,5,12,9,29],
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80":[7,0,0,0,1,3,5,12,9,7],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a017589bf4c8a9c402a3a436adbd2a933":[7,0,0,0,1,3,5,12,9,7,17],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a06e771c0d2e0da47d4fd955db056b0c4":[7,0,0,0,1,3,5,12,9,7,12],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a0b6308febcdfd661a238367b497b7779":[7,0,0,0,1,3,5,12,9,7,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX265 =
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8353dea0de91017223c7624a5a96ebec":[6,0,1671,0,1],
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8a33efa0719063a9565bc07143f8ad83":[6,0,1671,0,2],
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#aa1b1fbb1a4633831774c7a7dd5cbb546":[6,0,1671,0,3],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#acb56826a164e4d7da0a2f04c1efaf72b":[6,0,1671,0,5],
-"da/d57/classspell__pal__hand__of__protection.html":[6,0,3708],
-"da/d57/classspell__pal__hand__of__protection.html#a33e86d770e926247c58c00143b55c418":[6,0,3708,1],
-"da/d57/classspell__pal__hand__of__protection.html#a453c7fa25baf458c9a319053ca726621":[6,0,3708,2]
+"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#acb56826a164e4d7da0a2f04c1efaf72b":[6,0,1671,0,5]
 };

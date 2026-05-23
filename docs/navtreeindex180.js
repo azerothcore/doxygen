@@ -1,5 +1,8 @@
 var NAVTREEINDEX180 =
 {
+"d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1981,11],
+"d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1981,9],
+"d6/d73/structnpc__mimirons__inferno.html#a13cda9fcb49493477e4a4111d9858ec1":[6,0,1981,8],
 "d6/d73/structnpc__mimirons__inferno.html#a43a03388c06ef38ab29a1b4d5bc701c6":[6,0,1981,1],
 "d6/d73/structnpc__mimirons__inferno.html#a77ddb0fbd9f0c2334df122d91913300b":[6,0,1981,3],
 "d6/d73/structnpc__mimirons__inferno.html#a7a0be8291200404285277c3689c54106":[6,0,1981,12],
@@ -244,10 +247,7 @@ var NAVTREEINDEX180 =
 "d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,31],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,31,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,19,0],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,31,1],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,19,2],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,0,31,2]
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,31,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX274 =
 {
+"da/da1/classspell__mage__pet__scaling.html#a3860e12ea334cb61a437941b6f9b81e0":[6,0,3590,2],
+"da/da1/classspell__mage__pet__scaling.html#a5180cc8beb5244bd0b957dfc89dc9cf4":[6,0,3590,5],
+"da/da1/classspell__mage__pet__scaling.html#a56489b52592e63dd00640de388926512":[6,0,3590,4],
 "da/da1/classspell__mage__pet__scaling.html#a5b57273e0d9fc39a000c7bf4e232acb4":[6,0,3590,0],
 "da/da1/classspell__mage__pet__scaling.html#a5b65221c67283a29cbeb63cafe64457a":[6,0,3590,7],
 "da/da1/classspell__mage__pet__scaling.html#a65b6f1a2b322c928fd9a5992380d2e95":[6,0,3590,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX274 =
 "da/dac/classspell__item__eggnog.html#a2b22be9826db241ecf3f99ff16c309c0":[6,0,3349,2],
 "da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[6,0,3349,1],
 "da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[6,0,3349,3],
-"da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3349,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html":[6,0,3839],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[6,0,3839,1],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3839,0]
+"da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3349,0]
 };

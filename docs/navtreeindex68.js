@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d73/classScriptMgr.html#a914da0d1879c615a1575f6a664990e92":[6,0,2540,321],
 "d2/d73/classScriptMgr.html#a91fa6e296a075ee3af6c56c986f4239e":[6,0,2540,203],
 "d2/d73/classScriptMgr.html#a9316537c6cab6966f41d47ca64b949c9":[6,0,2540,474],
 "d2/d73/classScriptMgr.html#a9352357ee8bbc2df90f30802fb1bc4f8":[6,0,2540,244],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d77/classspell__scholomance__fixate__aura.html#a16623b3187e98fc50f5a3b8e0297b0ea":[6,0,4000,1],
 "d2/d77/classspell__scholomance__fixate__aura.html#a710536e0a3bacf173d037041e755bd82":[6,0,4000,0],
 "d2/d77/classspell__scholomance__fixate__aura.html#a9092818bdb15a12163aae633049cb7f6":[6,0,4000,3],
-"d2/d77/classspell__scholomance__fixate__aura.html#ab1d5eb39b503f7e08a404cf172b8de96":[6,0,4000,2],
-"d2/d77/structDBCPosition3D.html":[6,0,983]
+"d2/d77/classspell__scholomance__fixate__aura.html#ab1d5eb39b503f7e08a404cf172b8de96":[6,0,4000,2]
 };
