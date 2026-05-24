@@ -1,5 +1,8 @@
 var NAVTREEINDEX409 =
 {
+"df/d99/structnpc__dark__iron__attack__generator.html#ae21b69752a1e45eeef318ccf1e5a3b24":[6,0,1752,6],
+"df/d99/structnpc__dark__iron__attack__generator.html#aef208e008b00af62710c8479bf7b6618":[6,0,1752,0],
+"df/d99/structnpc__dark__iron__attack__generator.html#aefe0e7e40ca5aad089aa27c5151e01fa":[6,0,1752,4],
 "df/d9a/OutdoorPvPNA_8h.html":[7,0,0,0,1,3,6,8],
 "df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf":[7,0,0,0,1,3,6,8,18],
 "df/d9a/OutdoorPvPNA_8h.html#a23eddcc072a261674acb3acb48f637cb":[7,0,0,0,1,3,6,8,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX409 =
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298cafcd8bc32132fb4a1f81f55d69ad7987f":[7,0,0,0,1,3,5,2,0,1,11,9],
 "df/da1/boss__black__knight_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,2,0,1,10],
 "df/da1/boss__black__knight_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca3c10c1e4d8dd709ef6a037cfceb99022":[7,0,0,0,1,3,5,2,0,1,10,0],
-"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f":[7,0,0,0,1,3,5,2,0,1,9],
-"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa4c711c46840b6af1875c063444a25d2e":[7,0,0,0,1,3,5,2,0,1,9,0],
-"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa5a04e89c8480510d7690caee50e835f1":[7,0,0,0,1,3,5,2,0,1,9,1],
-"df/da1/boss__black__knight_8cpp.html#aec5a3ee7e4ac17a1743d28ffa3ea7dfc":[7,0,0,0,1,3,5,2,0,1,12]
+"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f":[7,0,0,0,1,3,5,2,0,1,9]
 };

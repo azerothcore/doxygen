@@ -1,5 +1,8 @@
 var NAVTREEINDEX411 =
 {
+"df/da7/classBattleground.html#a66239adad3428b84def34776bc8a257a":[6,0,328,235],
+"df/da7/classBattleground.html#a66c44e201031c3d1907741d6943ac76b":[6,0,328,190],
+"df/da7/classBattleground.html#a68495754396917b8f2f1e89bd952bf9d":[6,0,328,7],
 "df/da7/classBattleground.html#a68801719078831805d8b40aa39138c5f":[6,0,328,229],
 "df/da7/classBattleground.html#a6b074774a7a466b05605f273bc222b71":[6,0,328,61],
 "df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[6,0,328,228],
@@ -246,8 +249,5 @@ var NAVTREEINDEX411 =
 "df/db0/classOPvPCapturePointEP__CGT.html#aaf1f8440dc891ed45857bb7d15149d9a":[6,0,2331,8],
 "df/db0/classOPvPCapturePointEP__CGT.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d":[6,0,2331,1],
 "df/db0/classOPvPCapturePointEP__CGT.html#ad1886046ecf8c382e1fd0e01d6394614":[6,0,2331,4],
-"df/db0/classOPvPCapturePointEP__CGT.html#ada14179a31fb6235b7882a190dc96c40":[6,0,2331,5],
-"df/db0/classOPvPCapturePointEP__CGT.html#ae7d57fe449bb38de013b18ecf2f9f07c":[6,0,2331,2],
-"df/db0/classboss__svala.html":[6,0,730],
-"df/db0/classboss__svala.html#a0c3b94635eca667a28496cf799efad25":[6,0,730,2]
+"df/db0/classOPvPCapturePointEP__CGT.html#ada14179a31fb6235b7882a190dc96c40":[6,0,2331,5]
 };

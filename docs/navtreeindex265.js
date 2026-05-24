@@ -1,5 +1,7 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a3ae877d5b867fe1c1ed28d65b28f19b3":[7,0,0,0,1,3,5,12,9,20],
+"da/d4c/violet__hold_8h.html#a4e6a7494b862bb68d38e8a8c7ffc7656":[7,0,0,0,1,3,5,12,9,39],
 "da/d4c/violet__hold_8h.html#a5012dcce247705cd082204f6dae90b04":[7,0,0,0,1,3,5,12,9,38],
 "da/d4c/violet__hold_8h.html#a5401c263ffd473e3c12ce4e91cffb50d":[7,0,0,0,1,3,5,12,9,29],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80":[7,0,0,0,1,3,5,12,9,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX265 =
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a6ccdb6a59b93999c01d434bcda593f25":[6,0,1671,0,4],
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a6e108052a7f9911dcd1b0ed13b2b8a0f":[6,0,1671,0,0],
 "da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8353dea0de91017223c7624a5a96ebec":[6,0,1671,0,1],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8a33efa0719063a9565bc07143f8ad83":[6,0,1671,0,2],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#aa1b1fbb1a4633831774c7a7dd5cbb546":[6,0,1671,0,3],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#acb56826a164e4d7da0a2f04c1efaf72b":[6,0,1671,0,5]
+"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8a33efa0719063a9565bc07143f8ad83":[6,0,1671,0,2]
 };

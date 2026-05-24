@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/dae/gruuls__lair_8h.html#a6cc1f699014ee48a56647e53e9d1440a":[7,0,0,0,1,3,7,3,2,1],
+"dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,3,2,3],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea61f2ef319d5203666bd8a86b5b9a2603":[7,0,0,0,1,3,7,3,2,3,0],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea7e440984b10a7a2300c1caab77949a74":[7,0,0,0,1,3,7,3,2,3,1],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea8bd4e976e7d8d6748ac16eeea3862a2b":[7,0,0,0,1,3,7,3,2,3,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db5/classspell__item__persistent__shield.html#ad1a13141720e0e605966c2304b0f8eb9":[6,0,3413,1],
 "dc/db5/classspell__item__persistent__shield.html#af3ff786badfbb56f90bc3c8865c839bb":[6,0,3413,2],
 "dc/db5/classspell__item__persistent__shield.html#af82895c2ed07f43c28923b61427f4ddf":[6,0,3413,0],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3820],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3820,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3820,1]
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3820]
 };

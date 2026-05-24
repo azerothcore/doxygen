@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9":[7,0,0,0,1,2,16,7,5,111],
+"da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9a1df3b5cabb7455a3e1beea706f79651d":[7,0,0,0,1,2,16,7,5,111,3],
 "da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ab28b8361c344fa65afc1128ba336386d":[7,0,0,0,1,2,16,7,5,111,2],
 "da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ab9866b0d339beff1b603cf8acc0cdf93":[7,0,0,0,1,2,16,7,5,111,0],
 "da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ae54edeab8c5afb0816bf330bc2909300":[7,0,0,0,1,2,16,7,5,111,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "da/dcc/structGameTeleVisitor.html":[6,0,1120],
 "da/dcc/structGameTeleVisitor.html#a8ee9220d4226b4dd028f3f9c438f34ba":[6,0,1120,2],
 "da/dcc/structGameTeleVisitor.html#abeff0e73688ad4745201c5d817f7a442":[6,0,1120,1],
-"da/dcc/structGameTeleVisitor.html#adbfeb8f2823f763fdae25b87fbbdcfbf":[6,0,1120,0],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html":[6,0,1328,0],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a03ace9a6ac87deb8c9d1f358e67697d1":[6,0,1328,0,2]
+"da/dcc/structGameTeleVisitor.html#adbfeb8f2823f763fdae25b87fbbdcfbf":[6,0,1120,0]
 };

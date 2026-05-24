@@ -1,5 +1,7 @@
 var NAVTREEINDEX284 =
 {
+"db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[6,0,3225,3],
+"db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[6,0,3225,4],
 "db/d08/classspell__hun__piercing__shots.html#a4ac70c7765266f36b7689ffcc2bed15d":[6,0,3225,1],
 "db/d08/classspell__hun__piercing__shots.html#a86e6da13f7162318e5c0a7c6f89c69c2":[6,0,3225,0],
 "db/d08/classspell__hun__piercing__shots.html#acc41c53bf96695dc8cc43ccaf08e4125":[6,0,3225,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX284 =
 "db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[6,0,1479,4],
 "db/d14/classLootTemplate.html#a7835ebf003ae3d665656efcc923daaeb":[6,0,1479,11],
 "db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[6,0,1479,3],
-"db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[6,0,1479,13],
-"db/d14/classLootTemplate.html#aba1fdfb69c34a9d4a09428114d385621":[6,0,1479,16],
-"db/d14/classLootTemplate.html#acdf75466d9f29ff8a4532c4b6e15bd03":[6,0,1479,12]
+"db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[6,0,1479,13]
 };

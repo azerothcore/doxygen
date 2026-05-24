@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d5b/classspell__item__direbrew__remote.html":[6,0,3341],
 "d1/d5b/classspell__item__direbrew__remote.html#a065d81d698c978bcdd234712807e9098":[6,0,3341,0],
 "d1/d5b/classspell__item__direbrew__remote.html#a3efcd145189b27272495110c799cf14f":[6,0,3341,1],
 "d1/d5b/classspell__scourge__disguise__instability.html":[6,0,4001],
@@ -176,14 +177,14 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2062,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[6,0,2062,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2062,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,13,15,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,13,15,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,15,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,13,15,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,13,15,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,15,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,13,15,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,13,15,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,15,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,13,15,1,2],
 "d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1],
 "d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[7,0,0,0,1,2,44,1,4],
 "d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[7,0,0,0,1,2,44,1,8],
@@ -202,8 +203,8 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,77],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,89,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,77,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,77,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,89,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,77,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,89,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,77,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,89,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a573b1e7c282c232a4b2daaf9fb28ab97":[7,0,0,0,1,3,4,1,2,4,9,5],
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a5bba2a1f619a4242f721f38ce0129ca1":[7,0,0,0,1,3,4,1,2,4,9,35],
 "d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a5fc35264bb87bd09f52a4f1889f268f1":[7,0,0,0,1,3,4,1,2,4,9,9],
-"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a601fe590e0596ab7f58de780529a8015":[7,0,0,0,1,3,4,1,2,4,9,21],
-"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a69f3cc2fda6fdf4ae720e97b722a6fb9":[7,0,0,0,1,3,4,1,2,4,9,7]
+"d1/d67/old__hillsbrad_8cpp.html#a16774215bba3b38580ea51987d64cff1a601fe590e0596ab7f58de780529a8015":[7,0,0,0,1,3,4,1,2,4,9,21]
 };

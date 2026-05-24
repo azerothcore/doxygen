@@ -1,5 +1,7 @@
 var NAVTREEINDEX240 =
 {
+"d9/d1c/structAreaTrigger.html#a55ab832828addcef1b2f570bda81f2ce":[6,0,171,8],
+"d9/d1c/structAreaTrigger.html#a5db58eaf63aceeaeb93bf6f4d5961a97":[6,0,171,4],
 "d9/d1c/structAreaTrigger.html#a8e1ac424a973e546aa7c35e387e32a23":[6,0,171,2],
 "d9/d1c/structAreaTrigger.html#a9b4a88edefbc1e4b08a8ee03dfd90274":[6,0,171,0],
 "d9/d1c/structAreaTrigger.html#a9ecb58fde45a318ba0d6306c603aba4b":[6,0,171,3],
@@ -159,8 +161,8 @@ var NAVTREEINDEX240 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3367,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3367,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3367,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,13,14,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,13,14,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154":[7,0,0,0,1,3,4,18,4,4],
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5":[7,0,0,0,1,3,4,18,4,10],
 "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9":[7,0,0,0,1,3,4,18,4,8],
-"d9/d2e/classachievement__auriaya__crazy__cat__lady.html":[6,0,37],
-"d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a1eb5d931c7c520b7cd6f516bfcb819e4":[6,0,37,0],
-"d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a905b9a4389521fde6d26d3c19a0fe21c":[6,0,37,1]
+"d9/d2e/classachievement__auriaya__crazy__cat__lady.html":[6,0,37]
 };

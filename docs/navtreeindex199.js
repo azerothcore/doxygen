@@ -1,5 +1,7 @@
 var NAVTREEINDEX199 =
 {
+"d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[6,0,4641,5],
+"d7/d5a/classachievement__arena__by__type.html":[6,0,35],
 "d7/d5a/classachievement__arena__by__type.html#a2042c808304e8ddf1849820491b9f1a3":[6,0,35,0],
 "d7/d5a/classachievement__arena__by__type.html#a5c38e5fef5eaf3d037864ba2aa80584a":[6,0,35,2],
 "d7/d5a/classachievement__arena__by__type.html#abebdbf19fbf1b79c30114a9cf4ff98a4":[6,0,35,1],
@@ -140,12 +142,12 @@ var NAVTREEINDEX199 =
 "d7/d61/classFactoryCreatureScript.html":[6,0,1059],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1059,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1059,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,22,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,22,6,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[6,0,709,16],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[6,0,13,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[6,0,13,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[5,0,34,6,32,1]
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0]
 };

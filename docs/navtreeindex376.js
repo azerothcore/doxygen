@@ -1,5 +1,8 @@
 var NAVTREEINDEX376 =
 {
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a286681fada2c4cc74ed1ccda3f09d5ee":[7,0,0,0,1,2,41,9,72,1],
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a50c3ca790bc8677997335fa7d4a36977":[7,0,0,0,1,2,41,9,72,0],
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a711907faa66c0252a7e51101ad954e27":[7,0,0,0,1,2,41,9,72,3],
 "de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a94531c66384df3b7d85cde04d8fc69c3":[7,0,0,0,1,2,41,9,72,4],
 "de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364ab1d1e1ee19258b6887cd47a4c865544f":[7,0,0,0,1,2,41,9,72,5],
 "de/d30/SpellMgr_8h.html#a86ed4228aa3581416498515c136ed4fb":[7,0,0,0,1,2,41,9,53],
@@ -246,8 +249,5 @@ var NAVTREEINDEX376 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#af768b50e85b799d35844b173d94e578d":[6,0,1320,0,22],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aff8e5df41dd304df32a6ad3ac185b672":[6,0,1320,0,14],
 "de/d33/structnpc__healing__ward.html":[6,0,1853],
-"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1853,5],
-"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[6,0,1853,0],
-"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[6,0,1853,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1853,4]
+"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[6,0,1853,5]
 };

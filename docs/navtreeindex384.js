@@ -1,5 +1,8 @@
 var NAVTREEINDEX384 =
 {
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,7,0,0,1,3,7],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cac3ce3112661d749306b57b8b47599903":[7,0,0,0,1,3,7,0,0,1,3,8],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cad506b5ef5072bccbcad494e57d735fd9":[7,0,0,0,1,3,7,0,0,1,3,0],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298caf74186e5e58d2b55243d4ff494b797b6":[7,0,0,0,1,3,7,0,0,1,3,2],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,7,0,0,1,2],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753aff475f8aa7db645857e6279a71a75c1a":[7,0,0,0,1,3,7,0,0,1,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX384 =
 "de/d8d/structArenaScore.html#a486ee0e05ac5160f0fb174e2a1e061bb":[6,0,188,5],
 "de/d8d/structArenaScore.html#a58f1391de4e67750dad211b10704499f":[6,0,188,0],
 "de/d8d/structArenaScore.html#a5f488c25aa439166d145713c67e7d085":[6,0,188,4],
-"de/d8d/structArenaScore.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b":[6,0,188,3],
-"de/d8d/structArenaScore.html#ac96461b865fc7a9ba0cdfad6ae3fa96f":[6,0,188,2],
-"de/d8e/classspell__gen__random__target32.html":[6,0,3084],
-"de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[6,0,3084,1]
+"de/d8d/structArenaScore.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b":[6,0,188,3]
 };

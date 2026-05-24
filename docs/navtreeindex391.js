@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/db4/classPreparedStatementBase.html#af804ff958eb51e96c0deccb59e6c79a6":[6,0,2446,0],
+"de/db4/structGossipMenuItemData.html":[6,0,1231],
+"de/db4/structGossipMenuItemData.html#a377beba97be2b81a0c2bbeb933f1927b":[6,0,1231,0],
 "de/db4/structGossipMenuItemData.html#afdaf27e370e3c84659fdc3784cafad29":[6,0,1231,1],
 "de/db5/QueryHolder_8cpp.html":[7,0,0,0,1,1,0,26],
 "de/db5/classBattlegroundDS.html":[6,0,335],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/dc8/classAuthCrypt.html#a552bd409afb5fcda8a11627ccb20e4b0":[6,0,306,1],
 "de/dc8/classAuthCrypt.html#a8c5239631bd6cf700059af31f04126a3":[6,0,306,0],
 "de/dc8/classAuthCrypt.html#a911330ec40c0ca881af2f0c6fd6b0fef":[6,0,306,4],
-"de/dc8/classAuthCrypt.html#a99de2f8dd625cef94d70eeddefc9ac5c":[6,0,306,6],
-"de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,306,3],
-"de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[6,0,306,5],
-"de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,306,7]
+"de/dc8/classAuthCrypt.html#a99de2f8dd625cef94d70eeddefc9ac5c":[6,0,306,6]
 };

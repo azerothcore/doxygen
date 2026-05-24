@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a8bc3907272941dbf2218cc0dbafb205f":[6,0,2217,0,12],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a95188ce1d3abba7dfeef5a9cbd6d3306":[6,0,2217,0,4],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a9908c43715426b75c06c1e2032f4fcca":[6,0,2217,0,9],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a9fd1519e6196ba4db30740b16904964b":[6,0,2217,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1f/classguard__shattrath__aldor.html#a3459a6a85c7e7286e3cbdd7f56fee704":[6,0,1267,2],
 "d2/d1f/classguard__shattrath__aldor.html#ab965295d9c3828ad814f658670b5f185":[6,0,1267,1],
 "d2/d20/GridTerrainLoader_8cpp.html":[7,0,0,0,1,2,19,10],
-"d2/d20/classat__cthun__stomach__exit.html":[6,0,222],
-"d2/d20/classat__cthun__stomach__exit.html#ab37174eff353cdbba1f300464645ac63":[6,0,222,0]
+"d2/d20/classat__cthun__stomach__exit.html":[6,0,222]
 };

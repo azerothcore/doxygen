@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d5/d47/classnpc__frozen__orb.html":[6,0,1819],
+"d5/d47/classnpc__frozen__orb.html#a2f9e1a2cb14ee9e5f24e02aa97697116":[6,0,1819,2],
 "d5/d47/classnpc__frozen__orb.html#ac14966722e39b2b6b3a907756701ed98":[6,0,1819,1],
 "d5/d48/the__black__morass_8h.html":[7,0,0,0,1,3,4,1,3,5],
 "d5/d48/the__black__morass_8h.html#a01fcf6fffb4a854135deb32bdfd7cce7":[7,0,0,0,1,3,4,1,3,5,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca33c324fb7dbfe1e60a54f096b9384060":[7,0,0,0,1,3,5,7,7,9,2],
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d8093c6013d794cfc1f4d682226cfb0":[7,0,0,0,1,3,5,7,7,9,7],
 "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d7f51b728051c98d83880139eed8e6a":[7,0,0,0,1,3,5,7,7,9,1],
-"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca83e941fb451a98d4746c82dd1d2b8af3":[7,0,0,0,1,3,5,7,7,9,0],
-"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca90076b2156b94e14e6bf9bf872c14bff":[7,0,0,0,1,3,5,7,7,9,9],
-"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca993c2d128c03a1179e0fb44ea0f3284a":[7,0,0,0,1,3,5,7,7,9,6]
+"d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca83e941fb451a98d4746c82dd1d2b8af3":[7,0,0,0,1,3,5,7,7,9,0]
 };

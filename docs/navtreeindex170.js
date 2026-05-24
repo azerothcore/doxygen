@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a8d256ed3c47239e4fb76cf9612c29781":[7,0,0,0,1,3,5,17,20,6],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99abd7092b177353892164985ae51c8ee10":[7,0,0,0,1,3,5,17,20,7],
 "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99ac97b44dfbd8fafc9bb3fadbe6204caff":[7,0,0,0,1,3,5,17,20,2],
 "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99ae37b832dd42d0ca1a9fbbec508bbe45d":[7,0,0,0,1,3,5,17,20,5],
 "d6/d14/structGameObjectDisplayInfoEntry.html":[6,0,1107],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d1b/structboss__shazzrah.html#aa23aecbb28a9bb1fc138691f143f8e53":[6,0,710,2],
 "d6/d1c/classboss__drakkari__elemental.html":[6,0,445],
 "d6/d1c/classboss__drakkari__elemental.html#a143dd5d52ea7bb3c3c1d96da45af81ee":[6,0,445,1],
-"d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,445,2],
-"d6/d1c/classspell__azgalor__doom__aura.html":[6,0,2650],
-"d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2650,2]
+"d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,445,2]
 };

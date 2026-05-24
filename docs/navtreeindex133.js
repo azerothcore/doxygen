@@ -1,5 +1,7 @@
 var NAVTREEINDEX133 =
 {
+"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138":[7,0,0,0,1,2,3,1,5,1],
+"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b":[7,0,0,0,1,2,3,1,5,1,5],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9":[7,0,0,0,1,2,3,1,5,1,4],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a":[7,0,0,0,1,2,3,1,5,1,6],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae":[7,0,0,0,1,2,3,1,5,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d8f/classnpc__hor__leader.html#afb46ea0b6926ad5d9b87b1d6a5e04591":[6,0,1867,3],
 "d4/d8f/classnpc__spring__rabbit.html":[6,0,2143],
 "d4/d8f/classnpc__spring__rabbit.html#a4e2ed1f556edd535a8d262d7e0bdfa1a":[6,0,2143,1],
-"d4/d8f/classnpc__spring__rabbit.html#a968933658fbcc7f7cbdfca90fd9a68dc":[6,0,2143,2],
-"d4/d8f/classspell__gen__overlords__brand__dot.html":[6,0,3068],
-"d4/d8f/classspell__gen__overlords__brand__dot.html#a33c8ed96d3d4efd8841c10af7b7bf470":[6,0,3068,3]
+"d4/d8f/classnpc__spring__rabbit.html#a968933658fbcc7f7cbdfca90fd9a68dc":[6,0,2143,2]
 };

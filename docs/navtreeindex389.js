@@ -1,5 +1,8 @@
 var NAVTREEINDEX389 =
 {
+"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575":[7,0,0,0,1,3,2,4,7,4,1],
+"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab83b898058a1a7dfb48469256a193761":[7,0,0,0,1,3,2,4,7,4,6],
+"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,4,7,9],
 "de/da6/classspell__item__with__mount__speed.html":[6,0,3475],
 "de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3475,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX389 =
 "de/da9/classMotionTransport.html#a3715caa515f3096c9c03a1b64bd8bebf":[6,0,1553,34],
 "de/da9/classMotionTransport.html#a3dddaf54796a55416bf6e76ef794674c":[6,0,1553,29],
 "de/da9/classMotionTransport.html#a41ee05e73fcfe146975867daa9baae87":[6,0,1553,32],
-"de/da9/classMotionTransport.html#a4644371fc5f276dac58a53cd6da3c89f":[6,0,1553,14],
-"de/da9/classMotionTransport.html#a47548b40dcb724188f94bb0bbf3475a2":[6,0,1553,6],
-"de/da9/classMotionTransport.html#a50ceb5a1c496ba4ad862e172fb0554e6":[6,0,1553,4],
-"de/da9/classMotionTransport.html#a57eb95df116519359de5d29e2a8c7163":[6,0,1553,15]
+"de/da9/classMotionTransport.html#a4644371fc5f276dac58a53cd6da3c89f":[6,0,1553,14]
 };

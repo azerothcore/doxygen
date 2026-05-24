@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"d8/de0/structnpc__lord__sanguinar.html":[6,0,1956],
+"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1956,0],
 "d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1956,1],
 "d8/de1/structCalendarInvite.html":[6,0,850],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,850,17],
@@ -34,16 +36,16 @@ var NAVTREEINDEX236 =
 "d8/de1/structTrainer_1_1Spell.html":[6,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,10,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,10,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,10,0,6],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[6,0,10,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
 "d8/de1/structnpc__zealot__zath.html":[6,0,2304],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#afcadfbdd84608e827b89c64bf03c8501":[6,0,4093,1],
 "d8/df2/cs__player_8cpp.html":[7,0,0,0,1,3,0,36],
 "d8/df2/cs__player_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516":[7,0,0,0,1,3,0,36,1],
-"d8/df3/CreatureAIImpl_8h.html":[7,0,0,0,1,2,3,6],
-"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805":[7,0,0,0,1,2,3,6,3],
-"d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56":[7,0,0,0,1,2,3,6,3,3]
+"d8/df3/CreatureAIImpl_8h.html":[7,0,0,0,1,2,3,6]
 };

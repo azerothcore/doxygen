@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d0/d6b/classspell__q13011__bear__flank__master.html#ad6985954002f88436a2681e758f41fb2":[6,0,3910,4],
 "d0/d6c/structRealmHandle.html":[6,0,2501],
 "d0/d6c/structRealmHandle.html#a120fb45f2301188a843ab2e712f768e4":[6,0,2501,0],
 "d0/d6c/structRealmHandle.html#a31af0d9064a295b1579fce3c80217bfd":[6,0,2501,3],
@@ -57,12 +58,12 @@ var NAVTREEINDEX9 =
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html":[5,0,34,10,10],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[5,0,34,10,10,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,13,10,10,3],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,34,10,10,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,13,10,10,0],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,34,10,10,1],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,34,10,10,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[6,0,13,10,10,1],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,34,10,10,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,34,10,10,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,13,10,10,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,34,10,10,2],
 "d0/d72/classspell__felmyst__fog__of__corruption.html":[6,0,2936],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a043d135ea2c37f6e4352aa2fba2bb21c":[6,0,2936,3],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a5ee63545a338e00bfcb8dcc2f3f67db3":[6,0,2936,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d77/classLog.html#a9b11fb99bed178e9c8516ae7e7e925a6":[6,0,1464,14],
 "d0/d77/classLog.html#a9c78cd019057eb5d3121d2ef5e706e2a":[6,0,1464,20],
 "d0/d77/classLog.html#a9f29fd7fcc4c1e71cd61c0cd25174142":[6,0,1464,19],
-"d0/d77/classLog.html#aa4942942c26660b7ad99f581eb7d28c4":[6,0,1464,29],
-"d0/d77/classLog.html#abd592c7fc6941bd1e431c98d8788ae55":[6,0,1464,25]
+"d0/d77/classLog.html#aa4942942c26660b7ad99f581eb7d28c4":[6,0,1464,29]
 };

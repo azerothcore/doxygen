@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844c":[7,0,0,0,1,3,5,2,1,1,58],
+"d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca00d060f353aa568ccd40e9c4b4b69696":[7,0,0,0,1,3,5,2,1,1,58,6],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca0e62d64501defa8b93c0ef622cefce09":[7,0,0,0,1,3,5,2,1,1,58,7],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca35fb66c0f3af8ddfa26c3fd039708f1e":[7,0,0,0,1,3,5,2,1,1,58,1],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca3fb0854cb76a3dd2c796a5339f0e4eba":[7,0,0,0,1,3,5,2,1,1,58,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a6f482cabcb0bd56711878a5ea297b950":[6,0,742,0,6],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a7928b5db061f1073e1decc2d40601195":[6,0,742,0,2],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#aab194a8f802eeb625d1a74960acbe154":[6,0,742,0,3],
-"d4/d84/ScriptedFollowerAI_8h.html":[7,0,0,0,1,2,3,1,5],
-"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138":[7,0,0,0,1,2,3,1,5,1],
-"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b":[7,0,0,0,1,2,3,1,5,1,5]
+"d4/d84/ScriptedFollowerAI_8h.html":[7,0,0,0,1,2,3,1,5]
 };

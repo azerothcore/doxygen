@@ -1,5 +1,8 @@
 var NAVTREEINDEX397 =
 {
+"df/d14/classPet.html#a92c2d9d4849f602c21b2fc166d699c1f":[6,0,2387,85],
+"df/d14/classPet.html#a99d90d6ac52827423446702e4c3f5e5e":[6,0,2387,26],
+"df/d14/classPet.html#a99f2a004a9f240577b0dea12eceb247d":[6,0,2387,86],
 "df/d14/classPet.html#a9a49a8303c99851bb861b3b11e3fce32":[6,0,2387,4],
 "df/d14/classPet.html#a9a66612d754660f0ff25ac0b1236372e":[6,0,2387,76],
 "df/d14/classPet.html#a9d623f0127c82864f885e09a9ddd2eb8":[6,0,2387,45],
@@ -246,8 +249,5 @@ var NAVTREEINDEX397 =
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a5b550d0154f302cecc509fbd868a53bb":[6,0,2258,0,0],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a6908f5731915bf7d15bb4921c960aa30":[6,0,2258,0,5],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a8d4c8d082f12b96b2b77447d0b942c2c":[6,0,2258,0,3],
-"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#abca34d7285ef23c062006df8f8ae6d53":[6,0,2258,0,4],
-"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#afc5c9299d7f1f73c087a19dcfb19e096":[6,0,2258,0,6],
-"df/d1a/CliRunnable_8cpp.html":[4,0,0],
-"df/d1b/structnpc__zafod__boombox_1_1npc__zafod__boomboxAI.html":[6,0,2302,0]
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#abca34d7285ef23c062006df8f8ae6d53":[6,0,2258,0,4]
 };

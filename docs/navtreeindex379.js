@@ -1,5 +1,8 @@
 var NAVTREEINDEX379 =
 {
+"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,980,3],
+"de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[6,0,980,0],
+"de/d44/structDBCDatabaseLoader.html#a46f7d5670840892f7a8714ce0b6cde13":[6,0,980,4],
 "de/d44/structDBCDatabaseLoader.html#a52b5b86f0efb8ad0716bc0171a3aa740":[6,0,980,9],
 "de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11":[6,0,980,6],
 "de/d44/structDBCDatabaseLoader.html#a68e5ae50c980aa81b051d0622575bb2d":[6,0,980,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX379 =
 "de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[7,0,0,0,0,15,25,4],
 "de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[7,0,0,0,0,15,25,6],
 "de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3],
-"de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,34,4,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,13,4,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,13,4,0,0]
+"de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d6/d26/classBattlefield.html#adbbbb5c8b48e73a2611664d4705efc35":[6,0,324,119],
+"d6/d26/classBattlefield.html#addc494f01d86e98b2635dcc19e5b27c3":[6,0,324,34],
 "d6/d26/classBattlefield.html#addd18f1dab7d197d1f4f6547bfb28d19":[6,0,324,43],
 "d6/d26/classBattlefield.html#ade950f2bc2c79fd5d37db2c144f054e1":[6,0,324,78],
 "d6/d26/classBattlefield.html#adf78a89196f06fa8d6250eb9d352405a":[6,0,324,86],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d32/classArena.html#acae21233e11b21b612e5c051bfa7720e":[6,0,184,7],
 "d6/d32/classArena.html#ae0a56f524bfc9eec6753874ce35d0466":[6,0,184,5],
 "d6/d32/classArena.html#ae24fe304d35c0c09379203135e936450":[6,0,184,1],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3864],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a36563a197b7377660b7c3f9e85d478bd":[6,0,3864,3],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html#a545196cd976bfabbd85ba48942012e1e":[6,0,3864,1]
+"d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3864]
 };

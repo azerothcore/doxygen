@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d7/dbc/structnpc__wild__wyrm.html#a0ff51f46c203f3b1b8dea063463c5c4d":[6,0,2288,1],
+"d7/dbc/structnpc__wild__wyrm.html#a2e826c49b41a389ddfbeac3d3c7933f5":[6,0,2288,6],
 "d7/dbc/structnpc__wild__wyrm.html#a362052015873c615448bec978d744c9e":[6,0,2288,5],
 "d7/dbc/structnpc__wild__wyrm.html#a3d12d555ab7c992ca37e826609b3cd72":[6,0,2288,7],
 "d7/dbc/structnpc__wild__wyrm.html#a7adb3a9f2d17c55995218219c2af13a6":[6,0,2288,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,0,3,2,1],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ab9bde135f246a5737742ca1feb30f6":[7,0,0,0,1,3,2,0,3,2,3],
 "d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298cabda9eea4872acb462aa80a0002731e96":[7,0,0,0,1,3,2,0,3,2,2],
-"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,17,7],
-"d7/dc6/classlfg_1_1LfgPlayerData.html":[6,0,5,7],
-"d7/dc6/classlfg_1_1LfgPlayerData.html#a1bd7c3b7ca93815a019ae9281d375177":[6,0,5,7,26]
+"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,17,7]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b":[7,0,0,0,1,2,48,5,1,9],
+"db/d68/classPlayerTextBuilder.html":[6,0,2424],
 "db/d68/classPlayerTextBuilder.html#a0740c581636009448fe2c29084db41ae":[6,0,2424,0],
 "db/d68/classPlayerTextBuilder.html#a17b33a9a05a77722219a85a71f3bbc5e":[6,0,2424,9],
 "db/d68/classPlayerTextBuilder.html#a64d2905971ecd645e364a774f320a721":[6,0,2424,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/d6e/spell__item_8cpp.html#a71e3828df4cbafb9734b63422b98cfe4a41c9a5dc703f9b28ee134800a6dec78f":[7,0,0,0,1,3,9,4,260,0],
 "db/d6e/spell__item_8cpp.html#a788e0d41070e3be21e51ba780dac2712":[7,0,0,0,1,3,9,4,219],
 "db/d6e/spell__item_8cpp.html#a788e0d41070e3be21e51ba780dac2712a46e6b7156184c4c39da9a7cff9968220":[7,0,0,0,1,3,9,4,219,0],
-"db/d6e/spell__item_8cpp.html#a79daeb8797f30eb06dbe735fea605df7":[7,0,0,0,1,3,9,4,203],
-"db/d6e/spell__item_8cpp.html#a79daeb8797f30eb06dbe735fea605df7a823f79b900c5e2fa2ddc86b75cd28e1e":[7,0,0,0,1,3,9,4,203,0],
-"db/d6e/spell__item_8cpp.html#a7c83be18daa3cdaab096b0caf49520a2":[7,0,0,0,1,3,9,4,281]
+"db/d6e/spell__item_8cpp.html#a79daeb8797f30eb06dbe735fea605df7":[7,0,0,0,1,3,9,4,203]
 };

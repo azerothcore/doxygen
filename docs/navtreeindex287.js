@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d2f/structPvPDifficultyEntry.html#a33ac017d785a4586a78e715d97836720":[6,0,2463,3],
+"db/d2f/structPvPDifficultyEntry.html#a4bcbc99d34ef8eaa7c15dbd33332c480":[6,0,2463,1],
 "db/d2f/structPvPDifficultyEntry.html#a58c251f56a928bedbc7b9e8c6cbdbc5d":[6,0,2463,4],
 "db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a":[6,0,2463,2],
 "db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[6,0,2463,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[6,0,2705,1],
 "db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[6,0,2705,2],
 "db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[6,0,2705,0],
-"db/d41/structnpc__midsummer__bonfire.html":[6,0,1976],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[6,0,1976,0],
-"db/d41/structnpc__midsummer__bonfire.html#a1236b61f21ff1a1b85bbc7058ca8e17c":[6,0,1976,6]
+"db/d41/structnpc__midsummer__bonfire.html":[6,0,1976]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX381 =
 {
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130c":[7,0,0,0,1,2,13,1,14],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca16e6b230456dd107d885b134aeffce9c":[7,0,0,0,1,2,13,1,14,3],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca88cb9f816708ae33f7de954d41f59479":[7,0,0,0,1,2,13,1,14,0],
 "de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cab4cc0bcddba1153b89a678c402562b1e":[7,0,0,0,1,2,13,1,14,2],
 "de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cacb9164a9b62f8feb668161d90daa98ea":[7,0,0,0,1,2,13,1,14,1],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0":[7,0,0,0,1,2,13,1,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX381 =
 "de/d6f/AsioHacksFwd_8h.html#a27a44b709519f6caccf33bc420c4698b":[7,0,0,0,0,0,0,0],
 "de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html":[6,0,2196,0],
 "de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a0cf5ecd9d7b3c92e2da836983323f378":[6,0,2196,0,4],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a4e599ae2ee4e892795889bd57dd29e27":[6,0,2196,0,2],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a80f80231bfe5b71bf415da3202c2e6fb":[6,0,2196,0,0],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a81f384607ab7e8c4ed7385bdcddfd7a5":[6,0,2196,0,3],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#aa270248ad9e0c319234ff0741270b465":[6,0,2196,0,1]
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a4e599ae2ee4e892795889bd57dd29e27":[6,0,2196,0,2]
 };

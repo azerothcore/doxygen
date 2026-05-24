@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"d8/d74/classWorldSession.html#aa80c54788709121f97341e939c1241a7":[4,1,19,480],
+"d8/d74/classWorldSession.html#aa8420fcbcfb81b1e76d2e70e8dc399da":[4,1,19,561],
 "d8/d74/classWorldSession.html#aa85ccd0495e716e1c16206f1537afe84":[4,1,19,523],
 "d8/d74/classWorldSession.html#aa9329d3f6247866e4487f3d70b0210d2":[4,1,19,58],
 "d8/d74/classWorldSession.html#aa9a93e7e9225ac1972872ae207b5bce8":[4,1,19,549],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d77/classAchievementMgr.html#ada3b186b9b3b44c40c5f5c9c22ac33de":[6,0,121,20],
 "d8/d77/classAchievementMgr.html#aebe4155ad5883865d85abf6a8ec48643":[6,0,121,30],
 "d8/d77/classAchievementMgr.html#af7d09a44aa2a1e4021d0ebfe928d3c3e":[6,0,121,35],
-"d8/d77/classachievement__save__the__day.html":[6,0,91],
-"d8/d77/classachievement__save__the__day.html#a193e4060b6634a87b499b7c8a5e287a1":[6,0,91,0],
-"d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[6,0,91,1]
+"d8/d77/classachievement__save__the__day.html":[6,0,91]
 };

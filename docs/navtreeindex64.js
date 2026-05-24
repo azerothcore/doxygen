@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d52/classProcEventInfoBuilder.html#ab64fb7418fce62b008ca62a2fea54c67":[6,0,2453,25],
 "d2/d52/classProcEventInfoBuilder.html#ac8d9c890333158313fb6bd9bdcd14fcf":[6,0,2453,6],
 "d2/d52/classProcEventInfoBuilder.html#acf2feea658b0a4a3d7b2d663aae7e3ee":[6,0,2453,16],
 "d2/d52/classProcEventInfoBuilder.html#ae0f8d3a43a218b4459db0aa3fee95bf0":[6,0,2453,1],
@@ -152,10 +153,10 @@ var NAVTREEINDEX64 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,4175,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,4175,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,4175,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,13,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,13,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,13,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,13,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,34,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1adccf312e1ee4f9869cdf1ca922bd0f04":[7,0,0,0,1,3,4,1,1,5,13,30],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1addadbc2e10cf1f58407a1755cf85b9b0":[7,0,0,0,1,3,4,1,1,5,13,18],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1ae20bc3b9f4d703c8214fb46727ea0c08":[7,0,0,0,1,3,4,1,1,5,13,26],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1ae51a822f8e378322c8502b3ca41273f5":[7,0,0,0,1,3,4,1,1,5,13,5],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1aef26679eb61c563608d0092c65f5b75a":[7,0,0,0,1,3,4,1,1,5,13,54]
+"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1ae51a822f8e378322c8502b3ca41273f5":[7,0,0,0,1,3,4,1,1,5,13,5]
 };

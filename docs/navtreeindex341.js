@@ -1,5 +1,7 @@
 var NAVTREEINDEX341 =
 {
+"dd/d3b/structGameObjectTemplate.html#a354e13e46bcce767d7850bf82d4a17b6":[6,0,1116,44],
+"dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[6,0,1116,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[6,0,1116,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[6,0,1116,19],
 "dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[6,0,1116,23],
@@ -168,8 +170,8 @@ var NAVTREEINDEX341 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,11,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,11,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX341 =
 "dd/d44/structboss__akilzon.html#af61142c59ca9c5868afe7bc94ca40dcf":[6,0,383,11],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html":[6,0,2078,0],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2078,0,5],
-"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a61f26115382f16f3d65c3d4e1c720f02":[6,0,2078,0,0],
-"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a6b3dd1552b5313dd04d07dc80eef06fe":[6,0,2078,0,2],
-"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6":[6,0,2078,0,4]
+"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a61f26115382f16f3d65c3d4e1c720f02":[6,0,2078,0,0]
 };

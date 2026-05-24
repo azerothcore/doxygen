@@ -1,5 +1,8 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa3c8ae160547aae5db74400fbca0b172":[7,0,0,0,1,2,38,0,77,1,13],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa5f7ceb2cc665666dfed956191c10596":[7,0,0,0,1,2,38,0,77,1,101],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa64e740b6e78b87052735a76ff182364":[7,0,0,0,1,2,38,0,77,1,88],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa6bfc9b5bd35e3fe47341abeefd5dd19":[7,0,0,0,1,2,38,0,77,1,129],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7b12e6570ec3c076d1c190aae96748c":[7,0,0,0,1,2,38,0,77,1,48],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938":[7,0,0,0,1,2,38,0,77,1,59],
@@ -47,10 +50,10 @@ var NAVTREEINDEX353 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ae96251dc190cc08724a7466bcff8238e":[7,0,0,0,1,2,38,0,77,1,153],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aed64ae0a6792070a352dbdcf5782b7d0":[7,0,0,0,1,2,38,0,77,1,165],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aedc5e7ab1568e27c0725eebf5376d451":[7,0,0,0,1,2,38,0,77,1,134],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af6b1f556c93039f69df4d7ee8396ea3b":[7,0,0,0,1,2,38,0,77,1,182],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af6b1f556c93039f69df4d7ee8396ea3b":[7,0,0,0,1,2,38,0,77,1,183],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af7e3ef246f7ba465f6c8b859252198d4":[7,0,0,0,1,2,38,0,77,1,168],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbcb68272cac4d449ddf9cc227de1e7f":[7,0,0,0,1,2,38,0,77,1,10],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbd9701605e22153c142fa8f2f9808f4":[7,0,0,0,1,2,38,0,77,1,179],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbd9701605e22153c142fa8f2f9808f4":[7,0,0,0,1,2,38,0,77,1,180],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbe2e6ea23061a8bc765c1c75cd17ae4":[7,0,0,0,1,2,38,0,77,1,6],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afe7a533dee07e957c76bc6dde9ed44c9":[7,0,0,0,1,2,38,0,77,1,83],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aff039f45bb556c0812237f31d398672f":[7,0,0,0,1,2,38,0,77,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[6,0,2691,0],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2691,2],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2691,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3573],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[6,0,3573,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[6,0,3573,2],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3573,0]
+"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3573]
 };

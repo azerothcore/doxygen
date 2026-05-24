@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a01ceb11072dfedbd099c2461f817c895":[6,0,833,0],
+"df/d45/classSpellProcDisableEffectsTest.html":[6,0,4406],
+"df/d45/classSpellProcDisableEffectsTest.html#a43a467bfcff58079e28fece9bfe3464c":[6,0,4406,0],
 "df/d45/classSpellProcDisableEffectsTest.html#ac82c59da0a73f393dcef17d666ef65bf":[6,0,4406,1],
 "df/d48/OutdoorPvPZM_8cpp.html":[7,0,0,0,1,3,6,13],
 "df/d48/OutdoorPvPZM_8cpp.html#a3077d08865fa83f84cf956c392a9091c":[7,0,0,0,1,3,6,13,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a11761ce698c3e240366b03dd57142b25":[5,0,31,21,7],
 "df/d56/classVMAP_1_1VMapMgr2.html#a11761ce698c3e240366b03dd57142b25":[6,0,11,21,7],
 "df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[6,0,11,21,0],
-"df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[5,0,31,21,0],
-"df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[6,0,11,21,1],
-"df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[5,0,31,21,1],
-"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[6,0,11,21,12]
+"df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[5,0,31,21,0]
 };

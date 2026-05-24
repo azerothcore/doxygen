@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d6/dda/structnpc__hor__lich__king.html#af656d33ad0117378a75551d54d2a376f":[6,0,1869,11],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html":[6,0,2016,0],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,2016,0,8],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a1f46c988316c1870f506a66f2390e79b":[6,0,2016,0,11],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a308b99ee4d07ed1de0cabd94dafd5dd8":[6,0,2016,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d6/dea/classspell__item__healing__injector.html#ae24fd6305b5d17c2fbb6f03238b385c6":[6,0,3374,0],
 "d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[6,0,3374,3],
 "d6/deb/UnitScript_8cpp.html":[7,0,0,0,1,2,38,0,86],
-"d6/deb/UnitScript_8cpp.html#aced42ee6099fa72848b9b4aef527ebc3":[7,0,0,0,1,2,38,0,86,0],
-"d6/deb/structnpc__blade__of__azzinoth.html":[6,0,1676],
-"d6/deb/structnpc__blade__of__azzinoth.html#a501e2d1ae9af813fd9c30395e7774983":[6,0,1676,3]
+"d6/deb/UnitScript_8cpp.html#aced42ee6099fa72848b9b4aef527ebc3":[7,0,0,0,1,2,38,0,86,0]
 };

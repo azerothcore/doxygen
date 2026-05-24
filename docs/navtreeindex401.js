@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
+"df/d2a/structnpc__molten__golem.html":[6,0,1986],
+"df/d2a/structnpc__molten__golem.html#a1936beed47707f2f0e560d7d3b3440ba":[6,0,1986,2],
 "df/d2a/structnpc__molten__golem.html#a24e23d0959bcda5be05786381a35ac77":[6,0,1986,3],
 "df/d2a/structnpc__molten__golem.html#a2a552e27aca0e188a4d5ae46f639cbef":[6,0,1986,5],
 "df/d2a/structnpc__molten__golem.html#a38350948396b7df97837780531f79515":[6,0,1986,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[7,0,0,0,1,3,7,4,1,3,6],
 "df/d3a/hellfire__ramparts_8h.html#a760c4386411e1723b43acf6eced5b47f":[7,0,0,0,1,3,7,4,1,3,2],
 "df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,7,4,1,3,3],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3564353d4bb3fa1e7a399ca440e358ac":[7,0,0,0,1,3,7,4,1,3,3,2],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ed4212f9e624582dc16c9eb1e9e54a3":[7,0,0,0,1,3,7,4,1,3,3,3],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea4f055acbe596b7541325a90cde0759d2":[7,0,0,0,1,3,7,4,1,3,3,1],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea5810841f5f149b9b9b7d245da386a14b":[7,0,0,0,1,3,7,4,1,3,3,0]
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3564353d4bb3fa1e7a399ca440e358ac":[7,0,0,0,1,3,7,4,1,3,3,2]
 };

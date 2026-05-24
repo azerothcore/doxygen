@@ -1,5 +1,8 @@
 var NAVTREEINDEX400 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af70d5fd0daf99cf6df9afdd21299d7ca":[7,0,0,0,1,2,16,5,0,4,6,206],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af71d8e97544e4f93b8ca7a4d0b131bd4":[7,0,0,0,1,2,16,5,0,4,6,297],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af737923056e1131b221805d39044aff1":[7,0,0,0,1,2,16,5,0,4,6,34],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af9138329907a77a83a67f7ae92e4c1ba":[7,0,0,0,1,2,16,5,0,4,6,181],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881afa8fe62587779a7542be6f6117dfcfe9":[7,0,0,0,1,2,16,5,0,4,6,101],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881afc9326eb25df5b1cea8c510aa62d6db2":[7,0,0,0,1,2,16,5,0,4,6,219],
@@ -246,8 +249,5 @@ var NAVTREEINDEX400 =
 "df/d2a/classspell__eject__passenger__wild__wyrm.html#aa9c2280cbb38db2620db9869e4959153":[6,0,2917,3],
 "df/d2a/classspell__eject__passenger__wild__wyrm.html#abd4542dc4fd3e21a25c5c3fe5cc6e534":[6,0,2917,0],
 "df/d2a/classspell__eject__passenger__wild__wyrm.html#ae3b2b7d9745ed8b83268a8f57e66eb31":[6,0,2917,2],
-"df/d2a/instance__pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,3],
-"df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
-"df/d2a/structnpc__molten__golem.html":[6,0,1986],
-"df/d2a/structnpc__molten__golem.html#a1936beed47707f2f0e560d7d3b3440ba":[6,0,1986,2]
+"df/d2a/instance__pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,3]
 };

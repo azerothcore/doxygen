@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a6ed5f07c07cb8badaf39e113bb5350aa":[6,0,1362,0,33],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a7442cdf9ada9901b2e27e066d936226e":[6,0,1362,0,6],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a796ba931c59911d3e4104012a63f8c27":[6,0,1362,0,1],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a88443ba0a66cf0b8835db14c68f65686":[6,0,1362,0,15],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a8f77ce96ebefe66672418cd200537fe3":[6,0,1362,0,13],
@@ -120,8 +122,8 @@ var NAVTREEINDEX164 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
@@ -152,8 +154,8 @@ var NAVTREEINDEX164 =
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[7,0,0,0,1,2,38,0,90,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[6,0,0,64],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,76],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,76,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[6,0,0,64,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,76,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[6,0,0,64,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,76,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[6,0,0,64,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aaa030ac4f9a55e525dfe9941cc72029fd":[7,0,0,0,1,3,7,5,0,0,11,6],
 "d5/df1/arcatraz_8cpp.html#a970469201e9db85a4b9689c511968b0aabb1a6b84a9832a1986051c85b21d551e":[7,0,0,0,1,3,7,5,0,0,11,3],
 "d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457":[7,0,0,0,1,3,7,5,0,0,6],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,0,6,10],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,7,5,0,0,6,1],
-"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a26ec0b0da9eced93e71dca7064465dbd":[7,0,0,0,1,3,7,5,0,0,6,7]
+"d5/df1/arcatraz_8cpp.html#ab40b8bf6efb9438cde082c128ca1b457a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,0,6,10]
 };

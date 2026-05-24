@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/classSpell.html#a6ad76e29c8c7a1f9242f9b59744d647c":[6,0,2603,31],
 "d1/d16/classSpell.html#a6d7887c9aa24b5d6e9958fd838f87e5e":[6,0,2603,170],
 "d1/d16/classSpell.html#a6ebbac5b41e112fc075e12ce1cc82117":[6,0,2603,202],
 "d1/d16/classSpell.html#a6f1729ad7bcd43b0ad8dbb37ea9ffe4e":[6,0,2603,113],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/structboss__sartharion__vesperon.html#a9df29b4c71c93da8cf7ae9f81b870345":[6,0,702,4],
 "d1/d16/structboss__sartharion__vesperon.html#aefc42452e75c476aef39ba0df3a03d70":[6,0,702,2],
 "d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
-"d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
-"d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6]
+"d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5]
 };

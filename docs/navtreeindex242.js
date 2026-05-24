@@ -1,13 +1,15 @@
 var NAVTREEINDEX242 =
 {
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,13,10,5,0],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,34,10,5,3],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[6,0,13,10,5,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,34,10,5,0],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,13,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,34,10,5,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[6,0,13,10,5,1],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,13,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,34,10,5,2],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,13,10,5,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,13,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,34,10,5,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,13,10,5,4],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html":[6,0,4137],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a5af876b76d9239808ac72c5b6177cdcb":[6,0,4137,1],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a6d0d47536e6ef74a88c97019843d478c":[6,0,4137,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d51/classEventEmitter.html#aae8c666d695a517a3ad1e08afa8c355a":[6,0,1052,2],
 "d9/d51/classspell__illidan__demon__transform1__aura.html":[6,0,3279],
 "d9/d51/classspell__illidan__demon__transform1__aura.html#a22d6c338ea1f2af9be0eb02aceba42bd":[6,0,3279,4],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3279,1],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4126d35669859963f10ed1425a054298":[6,0,3279,2],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3279,0]
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3279,1]
 };

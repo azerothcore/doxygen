@@ -1,5 +1,7 @@
 var NAVTREEINDEX337 =
 {
+"dd/d19/MiscPackets_8cpp.html":[7,0,0,0,1,2,39,0,21],
+"dd/d19/OutdoorPvP_8h.html":[7,0,0,0,1,2,32,1],
 "dd/d19/OutdoorPvP_8h.html#a080aeb08f4e15904e94076846a03e927":[7,0,0,0,1,2,32,1,5],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adee":[7,0,0,0,1,2,32,1,7],
 "dd/d19/OutdoorPvP_8h.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e":[7,0,0,0,1,2,32,1,7,4],
@@ -37,10 +39,10 @@ var NAVTREEINDEX337 =
 "dd/d19/structnpc__time__rift.html#ad554d8266ded70cadd8c00a3ff5a3321":[6,0,2186,9],
 "dd/d19/structnpc__time__rift.html#ae0ebd0268454ac0cac83235afd7f6363":[6,0,2186,5],
 "dd/d19/structnpc__time__rift.html#af2932c60efaea64d27d52b118b9a8095":[6,0,2186,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,0,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,55],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,0,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,0,67,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,0,67,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,67,2],
@@ -208,8 +210,8 @@ var NAVTREEINDEX337 =
 "dd/d25/classspell__dru__maim__interrupt.html#ad2607d8ce696536f32d0a6eb77af4664":[6,0,2879,3],
 "dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,17],
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,89],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,13,10,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,34,10,11],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,13,10,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,13,10,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,11,4],
@@ -220,8 +222,8 @@ var NAVTREEINDEX337 =
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,34,10,11,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,13,10,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,34,10,11,3],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,11,5],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,13,10,11,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,11,5],
 "dd/d26/structtf__tower__world__state.html":[6,0,4478],
 "dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[6,0,4478,1],
 "dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[6,0,4478,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX337 =
 "dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca1bcf159aa5ff6c1a04b8db08698d6e84":[7,0,0,0,0,15,35,4,0],
 "dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca63d151a6eecaa685919cba8fe362c3f3":[7,0,0,0,0,15,35,4,1],
 "dd/d27/Timer_8h.html#a66f42ce7d50508145628b7347fc8694ca87322391cc6e8948ce9fd5d6cb84fced":[7,0,0,0,0,15,35,4,2],
-"dd/d27/Timer_8h.html#a7a7a22a2c3d65e66ce24c63b7d5877c1":[7,0,0,0,0,15,35,30],
-"dd/d27/Timer_8h.html#a7af06cf6576e2fff65b7552227589549":[7,0,0,0,0,15,35,9],
-"dd/d27/Timer_8h.html#a878fcd6ea240276da886e917b2a187cb":[7,0,0,0,0,15,35,8]
+"dd/d27/Timer_8h.html#a7a7a22a2c3d65e66ce24c63b7d5877c1":[7,0,0,0,0,15,35,30]
 };

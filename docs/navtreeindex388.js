@@ -1,5 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5b593e0435142ef21e410519c43efd8":[7,0,0,0,1,1,0,0,1,1,468],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5f498c7e6bd64fc5909fd25a2e5d719":[7,0,0,0,1,1,0,0,1,1,339],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6127825f1f704e54eb2291471826d01":[7,0,0,0,1,1,0,0,1,1,354],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa670c3c502735848d34b3393f24a7766":[7,0,0,0,1,1,0,0,1,1,331],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6788c6b6f7080becb3a80190fa40274":[7,0,0,0,1,1,0,0,1,1,36],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa74b9d4701f39d2f032796aa03ad41b8":[7,0,0,0,1,1,0,0,1,1,112],
@@ -246,8 +249,5 @@ var NAVTREEINDEX388 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a1cf272c8ec43b998747cec605fb0d36b":[7,0,0,0,1,3,2,4,7,4,5],
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a475c5ca74b861485bdea3f78308e3efc":[7,0,0,0,1,3,2,4,7,4,4],
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a7629c1224054f7de4aa33f5ece65bc75":[7,0,0,0,1,3,2,4,7,4,2],
-"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a7d1a2f15238381f52de99c393481d59c":[7,0,0,0,1,3,2,4,7,4,3],
-"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575":[7,0,0,0,1,3,2,4,7,4,1],
-"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab83b898058a1a7dfb48469256a193761":[7,0,0,0,1,3,2,4,7,4,6],
-"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0]
+"de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a7d1a2f15238381f52de99c393481d59c":[7,0,0,0,1,3,2,4,7,4,3]
 };

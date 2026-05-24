@@ -1,5 +1,8 @@
 var NAVTREEINDEX373 =
 {
+"de/d1c/classGameObject.html#a459f7534a119356754104aff8936eb71":[6,0,1101,77],
+"de/d1c/classGameObject.html#a462386b3457bdd1da4821cd6e6f9c64c":[6,0,1101,88],
+"de/d1c/classGameObject.html#a46a56b13b3920779e3d18a48ade846d6":[6,0,1101,131],
 "de/d1c/classGameObject.html#a480c82a758a0654c31d5cda1ab8495e8":[6,0,1101,89],
 "de/d1c/classGameObject.html#a49b086bad4ba856afbe9216f3f786b1b":[6,0,1101,159],
 "de/d1c/classGameObject.html#a4a4ecdab74c6fdb99af8c35699a0a227":[6,0,1101,32],
@@ -246,8 +249,5 @@ var NAVTREEINDEX373 =
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,38,0],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,38,1],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,38,2],
-"de/d23/structnpc__winterfin__playmate.html":[6,0,2289],
-"de/d23/structnpc__winterfin__playmate.html#a0a1051dc971ef393843bd1ba655a2e1b":[6,0,2289,5],
-"de/d23/structnpc__winterfin__playmate.html#a142fe7a438ee22384f682f26ff4a9f9c":[6,0,2289,6],
-"de/d23/structnpc__winterfin__playmate.html#a7e8640e3bfe0a8f960ce22a2daf136a4":[6,0,2289,1]
+"de/d23/structnpc__winterfin__playmate.html":[6,0,2289]
 };

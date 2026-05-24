@@ -1,5 +1,8 @@
 var NAVTREEINDEX419 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cde4ec0d69c83fabd432a0966c139f3":[7,0,0,0,1,3,5,6,4,56,34],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca80679dfa99eb04ef3165c646abedc1d5":[7,0,0,0,1,3,5,6,4,56,32],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca80e635cd52d37d34ca58468a22bdef3d":[7,0,0,0,1,3,5,6,4,56,19],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a3f22c8b57d0d47cbb72114a29e9b5":[7,0,0,0,1,3,5,6,4,56,38],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e2315b7240f464dbb328285894e9080":[7,0,0,0,1,3,5,6,4,56,4],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cab0f1284ea00366752c28ceb2b6fc941a":[7,0,0,0,1,3,5,6,4,56,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX419 =
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a3fa3247442edb81136647f7fdf5834cf":[6,0,763,0,7],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a4fe22aebe6e814196ac1914d158a62de":[6,0,763,0,6],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a6428a1c4fc7d3da4e016ed17ea3684df":[6,0,763,0,1],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[6,0,763,0,8],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[6,0,763,0,0],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[6,0,763,0,5],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,763,0,4]
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[6,0,763,0,8]
 };

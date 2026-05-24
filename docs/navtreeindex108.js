@@ -1,5 +1,7 @@
 var NAVTREEINDEX108 =
 {
+"d3/da9/classWorldState.html#a883a7d6112a3069ab357ad1c042a2f09":[6,0,4634,50],
+"d3/da9/classWorldState.html#a8b6fa603f03ebf22874990b5beb37f55":[6,0,4634,75],
 "d3/da9/classWorldState.html#a92f34655557b5a170b61e8b15ad07d6a":[6,0,4634,37],
 "d3/da9/classWorldState.html#a93b53e82f0e852bd8c96151fc95e1152":[6,0,4634,69],
 "d3/da9/classWorldState.html#a944f5cb17580e70671d45d49b3d2138a":[6,0,4634,57],
@@ -127,12 +129,12 @@ var NAVTREEINDEX108 =
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,34,10,16],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,13,10,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,34,10,16,3],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,34,10,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,13,10,16,1],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,34,10,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,13,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,34,10,16,5],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,13,10,16,2],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,13,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,34,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[6,0,13,10,16,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX108 =
 "d3/db2/classgo__resonite__cask.html#a5a89aa97a4cd31d7ae183649ee750b74":[6,0,1195,0],
 "d3/db2/classgo__resonite__cask.html#aae8591d53a6983886b52d404acdba293":[6,0,1195,1],
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,22],
-"d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,22,1],
-"d3/db2/structboss__heigan.html":[6,0,543],
-"d3/db2/structboss__heigan.html#a1065c6221b30536344e7d4d0779abd17":[6,0,543,8]
+"d3/db2/cs__instance_8cpp.html#a3d7dc88b6e95322f2f3dc69ad367fa0c":[7,0,0,0,1,3,0,22,1]
 };

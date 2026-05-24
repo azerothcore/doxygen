@@ -1,5 +1,7 @@
 var NAVTREEINDEX268 =
 {
+"da/d74/structboss__cyanigosa.html#a1f2810d9f2a291576fa29a872b1f6470":[6,0,433,5],
+"da/d74/structboss__cyanigosa.html#a2432aa3610747c52f6ec3de1def55f18":[6,0,433,4],
 "da/d74/structboss__cyanigosa.html#a55645a68448a8c83b85b05c7a29f0f6a":[6,0,433,6],
 "da/d74/structboss__cyanigosa.html#a694dda590c17a03534f8744838ac3176":[6,0,433,2],
 "da/d74/structboss__cyanigosa.html#a7b393188f0f8d192baab0eed48f0a5d3":[6,0,433,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX268 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,6,10,76,89],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca33e2a6996defb279106953aad888cb97":[7,0,0,0,1,3,5,6,10,76,36],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752":[7,0,0,0,1,3,5,6,10,76,55],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,6,10,76,57],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3887eb030e557c58f71d205ff509efbc":[7,0,0,0,1,3,5,6,10,76,86],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02":[7,0,0,0,1,3,5,6,10,76,52]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,6,10,76,57]
 };

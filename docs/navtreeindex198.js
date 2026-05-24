@@ -1,5 +1,7 @@
 var NAVTREEINDEX198 =
 {
+"d7/d48/structTradeStatusInfo.html#a265172d89cdc4c6fc4df20ad5df45c64":[6,0,4495,5],
+"d7/d48/structTradeStatusInfo.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a":[6,0,4495,4],
 "d7/d48/structTradeStatusInfo.html#ac90552353a0fb8ff175fec99bf573981":[6,0,4495,3],
 "d7/d48/structTradeStatusInfo.html#ad6b7e2f6d974b06388d1f30f82d207e8":[6,0,4495,2],
 "d7/d48/structTradeStatusInfo.html#ae0dff14036e00d3c62c181fcc306faf2":[6,0,4495,0],
@@ -81,8 +83,8 @@ var NAVTREEINDEX198 =
 "d7/d4d/classachievement__everything__counts.html":[6,0,52],
 "d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,52,1],
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,52,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,0,4,3],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
@@ -119,14 +121,14 @@ var NAVTREEINDEX198 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a288f8917d73be30234e465778b1f6544":[6,0,4174,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a69f9cdbfc33ec39f629f08f20484b29e":[6,0,4174,2],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[6,0,4174,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,34,8,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[6,0,13,8,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[6,0,13,8,5,1],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[6,0,13,8,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[6,0,13,8,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,13,8,5,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d59/structZoneDynamicInfo.html#a0d43acd5539d3449b7c36ee88518346e":[6,0,4641,4],
 "d7/d59/structZoneDynamicInfo.html#a3ab0244b34c30cc7d929b418da31d7d3":[6,0,4641,3],
 "d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9":[6,0,4641,6],
-"d7/d59/structZoneDynamicInfo.html#a8c2c7772596ec58413bee2077e46790f":[6,0,4641,1],
-"d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[6,0,4641,5],
-"d7/d5a/classachievement__arena__by__type.html":[6,0,35]
+"d7/d59/structZoneDynamicInfo.html#a8c2c7772596ec58413bee2077e46790f":[6,0,4641,1]
 };

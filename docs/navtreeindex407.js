@@ -1,5 +1,8 @@
 var NAVTREEINDEX407 =
 {
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,13,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
+"df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2076],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2076,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2076,1],
 "df/d86/classspell__dru__t3__2p__bonus.html":[6,0,2902],
@@ -246,8 +249,5 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#a5aaa94e956b2653c8b7da95b1885c1a1":[6,0,2588,21],
 "df/d8d/structSmartTarget.html#a5d5c979cd4cfd87f978d065ff7c03d01":[6,0,2588,39],
 "df/d8d/structSmartTarget.html#a5d72ed7a43cb807080d7d5461fffaecd":[6,0,2588,7],
-"df/d8d/structSmartTarget.html#a5dad1355cbb447a1349b4c4e47b3c9f3":[6,0,2588,15],
-"df/d8d/structSmartTarget.html#a611ea9ab2ca4d2c0b4c6e5dc0335b79a":[6,0,2588,18],
-"df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d":[6,0,2588,49],
-"df/d8d/structSmartTarget.html#a647e6d839f3e58848c1088755d3122a1":[6,0,2588,56]
+"df/d8d/structSmartTarget.html#a5dad1355cbb447a1349b4c4e47b3c9f3":[6,0,2588,15]
 };

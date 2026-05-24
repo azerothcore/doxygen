@@ -1,5 +1,8 @@
 var NAVTREEINDEX405 =
 {
+"df/d6a/firework__show__Teldrassil_8h.html#ade54ff9545ac94f914ea82994571e3a0":[7,0,0,0,1,3,3,0,9,0],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html":[6,0,1798,0],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1798,0,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1798,0,4],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a16c9ddf6f2f858f4147a0188e0df7250":[6,0,1798,0,8],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a240e8f556176b9571bd08407276402be":[6,0,1798,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX405 =
 "df/d72/structPeonRoleplay.html":[6,0,2383],
 "df/d72/structPeonRoleplay.html#a5b366c702c1cda6ea10ad0b58935f97c":[6,0,2383,1],
 "df/d72/structPeonRoleplay.html#acc63d01d5095adef28b9746c520be973":[6,0,2383,0],
-"df/d72/structgunship__npc__AI.html":[6,0,1276],
-"df/d72/structgunship__npc__AI.html#a30c13cb755638fcf05d1ad9a476210d3":[6,0,1276,0],
-"df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[6,0,1276,3],
-"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1276,8]
+"df/d72/structgunship__npc__AI.html":[6,0,1276]
 };

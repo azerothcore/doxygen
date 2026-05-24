@@ -1,5 +1,7 @@
 var NAVTREEINDEX323 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aaec33771bd52355289d0f5923c28c666":[7,0,0,0,1,2,26,2,0,8],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab12140f2b0a69134179d11bf5a49021d":[7,0,0,0,1,2,26,2,0,87],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab20c46837fc760d5b36722a5f335ee61":[7,0,0,0,1,2,26,2,0,29],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf":[7,0,0,0,1,2,26,2,0,51],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23":[7,0,0,0,1,2,26,2,0,28],
@@ -245,9 +247,7 @@ var NAVTREEINDEX323 =
 "dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[6,0,1041,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[6,0,13,6,44],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[5,0,34,6,44],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[6,0,13,6,44,9],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,34,6,44,5],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[6,0,13,6,44,5],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[6,0,13,6,44,1]
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,34,6,44,5]
 };

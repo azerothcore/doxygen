@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d1/d77/structnpc__demonic__vapor.html#ab067f5b9b9f37db4db9ab6e5295e5d52":[6,0,1763,4],
 "d1/d77/structnpc__demonic__vapor.html#ace56fe54dc6d3f597df0d1e28924082f":[6,0,1763,1],
 "d1/d77/structnpc__demonic__vapor.html#aee2e1b7372b8125b49e8466a2406ff00":[6,0,1763,0],
 "d1/d77/zone__howling__fjord_8cpp.html":[7,0,0,0,1,3,5,20],
@@ -198,8 +199,8 @@ var NAVTREEINDEX36 =
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,23,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,23,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[6,0,0,11,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,23,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,23,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[6,0,0,11,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[6,0,0,11,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d86/classnpc__imprisoned__beryl__sorcerer.html#aedb301f6da8460f3ed1d81d4b5f2f63c":[6,0,1905,2],
 "d1/d88/boss__flame__leviathan_8cpp.html":[7,0,0,0,1,3,5,9,2,3],
 "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53":[7,0,0,0,1,3,5,9,2,3,33],
-"d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a028b043faeb2b40a757a5cfada259817":[7,0,0,0,1,3,5,9,2,3,33,16],
-"d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a0ae04b6c96c371deec950ca177482211":[7,0,0,0,1,3,5,9,2,3,33,21]
+"d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a028b043faeb2b40a757a5cfada259817":[7,0,0,0,1,3,5,9,2,3,33,16]
 };

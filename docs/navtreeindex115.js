@@ -1,5 +1,7 @@
 var NAVTREEINDEX115 =
 {
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a44a1a5c09ca0f3f65dc259b454675d15":[7,0,0,0,1,2,8,1,3,19,7],
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a4b2233de50c7b57aed29e7321ae7543f":[7,0,0,0,1,2,8,1,3,19,28],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a4b58050141c2a261295a49a262ab3804":[7,0,0,0,1,2,8,1,3,19,11],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a4cd0efca01fdcaaa63214b535a4a4625":[7,0,0,0,1,2,8,1,3,19,25],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a57cf3ad06e9377c43da0c7c495b9c9dc":[7,0,0,0,1,2,8,1,3,19,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX115 =
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a54deac512294bb0901d072faef3166b1":[6,0,630,0,3],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc":[6,0,630,0,6],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1":[6,0,630,0,4],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#abb35c98da760db634545b81d740cd51a":[6,0,630,0,0],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#adf199bf96bbf342caaa74b7dd6b8013c":[6,0,630,0,2],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#afeaee24a9b6484e8a0e6509b973ed74d":[6,0,630,0,5]
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#abb35c98da760db634545b81d740cd51a":[6,0,630,0,0]
 };

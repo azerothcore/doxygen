@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[6,0,11,21,1],
+"df/d56/classVMAP_1_1VMapMgr2.html#a178edb6185bbdefbc08f2cf78205c1c6":[5,0,31,21,1],
+"df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[6,0,11,21,12],
 "df/d56/classVMAP_1_1VMapMgr2.html#a38ceb27a94583eafa30dddd92239d6ca":[5,0,31,21,12],
 "df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[6,0,11,21,9],
 "df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[5,0,31,21,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6a/boss__warlord__najentus_8cpp.html#af8878a94693e7e2e32962d79c7a83e80":[7,0,0,0,1,3,7,1,9,8],
 "df/d6a/firework__show__Teldrassil_8h.html":[7,0,0,0,1,3,3,0,9],
 "df/d6a/firework__show__Teldrassil_8h.html#a5a91b29d6818da3b038fc384535233b6":[7,0,0,0,1,3,3,0,9,1],
-"df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496":[7,0,0,0,1,3,3,0,9,2],
-"df/d6a/firework__show__Teldrassil_8h.html#ade54ff9545ac94f914ea82994571e3a0":[7,0,0,0,1,3,3,0,9,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html":[6,0,1798,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1798,0,0]
+"df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496":[7,0,0,0,1,3,3,0,9,2]
 };

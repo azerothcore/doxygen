@@ -1,5 +1,8 @@
 var NAVTREEINDEX406 =
 {
+"df/d72/structgunship__npc__AI.html#a30c13cb755638fcf05d1ad9a476210d3":[6,0,1276,0],
+"df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[6,0,1276,3],
+"df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[6,0,1276,8],
 "df/d72/structgunship__npc__AI.html#a7c2da25bb962c32fa350ee1f12f86ca4":[6,0,1276,1],
 "df/d72/structgunship__npc__AI.html#ab5276a099bcf56c5a25b3a52be516b5c":[6,0,1276,7],
 "df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[6,0,1276,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX406 =
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,13,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,13,6,36,1],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
-"df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2076]
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,13,6,36,0]
 };

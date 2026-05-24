@@ -1,5 +1,8 @@
 var NAVTREEINDEX420 =
 {
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[6,0,763,0,0],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[6,0,763,0,5],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,763,0,4],
 "df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
 "df/dde/classBGSpamProtect.html":[6,0,371],
 "df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,371,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX420 =
 "df/df0/structboss__tavarok.html#a0bea2cc724d92616056b7c5ca2dd03c1":[6,0,735,4],
 "df/df0/structboss__tavarok.html#a2c99df9457c548ee562fde920592ea88":[6,0,735,3],
 "df/df0/structboss__tavarok.html#a64cae2439cd6e4334ced5d4ef01ef942":[6,0,735,2],
-"df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[6,0,735,1],
-"df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[6,0,735,0],
-"df/df1/ConditionScript_8cpp.html":[7,0,0,0,1,2,38,0,39],
-"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,39,0]
+"df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[6,0,735,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"d9/dc6/classspell__dru__frenzied__regeneration.html#a57d210027c9fa2a4a7a90c4b1fd7589b":[6,0,2863,2],
+"d9/dc6/classspell__dru__frenzied__regeneration.html#abc823ccb417c7ee54b275fd765c2e9a5":[6,0,2863,0],
 "d9/dc6/classspell__warl__demonic__circle__summon.html":[6,0,4248],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a06e45d5f63ef1395b5949482e8393098":[6,0,4248,2],
 "d9/dc6/classspell__warl__demonic__circle__summon.html#a92f2bb73ec58832eaada3c7140f7868d":[6,0,4248,1],
@@ -30,8 +32,8 @@ var NAVTREEINDEX253 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[7,0,0,0,1,3,2,1,0,14,4,2],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc":[6,0,3671,0],
 "d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf":[6,0,3671,1],
 "d9/dd6/classnpc__q24545__vegard__dummy.html":[6,0,2082],
-"d9/dd6/classnpc__q24545__vegard__dummy.html#a12363e26a720ae33b6cde0f44aec3adf":[6,0,2082,1],
-"d9/dd6/classnpc__q24545__vegard__dummy.html#a201d1dec206887c26e33f795a0fd0887":[6,0,2082,2],
-"d9/dd6/classspell__item__muisek__vessel.html":[6,0,3402]
+"d9/dd6/classnpc__q24545__vegard__dummy.html#a12363e26a720ae33b6cde0f44aec3adf":[6,0,2082,1]
 };

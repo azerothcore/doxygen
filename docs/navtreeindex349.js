@@ -1,5 +1,7 @@
 var NAVTREEINDEX349 =
 {
+"dd/da4/structnpc__hive__zara__larva.html#aa8333a25c0e184dd75db580b03ef9cb2":[6,0,1863,3],
+"dd/da5/TestCreature_8h.html":[7,0,0,0,2,1,7],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html":[6,0,4157],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a637ba0717ae0f6f736f5532ed65ca301":[6,0,4157,0],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a744c4aa76387be4aa76a69fbcaa7932e":[6,0,4157,3],
@@ -28,8 +30,8 @@ var NAVTREEINDEX349 =
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[5,0,0,126,0],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[6,0,0,114,2],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[5,0,0,126,2],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,114,1],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,0,126,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,114,1],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[6,0,1879,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[6,0,1879,0,4],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[6,0,1879,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0abe4da412f108a1ad20b403896ba6024b":[7,0,0,0,1,3,5,4,2,5,12,5],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc":[7,0,0,0,1,3,5,4,2,5,12,0],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad0e39679613ec3aed3a72ddb9e60ba8a":[7,0,0,0,1,3,5,4,2,5,12,6],
-"dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad3ae403ad184e5aa987f49340fd58620":[7,0,0,0,1,3,5,4,2,5,12,7],
-"dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825d":[7,0,0,0,1,3,5,4,2,5,15],
-"dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825da3bcc4afd6730104ce195217445632fa1":[7,0,0,0,1,3,5,4,2,5,15,1]
+"dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad3ae403ad184e5aa987f49340fd58620":[7,0,0,0,1,3,5,4,2,5,12,7]
 };

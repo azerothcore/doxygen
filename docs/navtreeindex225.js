@@ -1,5 +1,7 @@
 var NAVTREEINDEX225 =
 {
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[6,0,3770,3],
+"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[6,0,3770,1],
 "d8/d71/classspell__sindragosa__icy__grip.html":[6,0,4087],
 "d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[6,0,4087,2],
 "d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[6,0,4087,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d74/classWorldSession.html#a4964da39742dc5f458afc081b94c3450":[4,1,19,410],
 "d8/d74/classWorldSession.html#a4968ea39ddad12829b885244eaf1dd51":[4,1,19,478],
 "d8/d74/classWorldSession.html#a49c1bcdcc1d6d79404fa6303ac371e2e":[4,1,19,138],
-"d8/d74/classWorldSession.html#a49eaf02202ba67bf4999b2bde0fa408e":[4,1,19,591],
-"d8/d74/classWorldSession.html#a4a037acdeee7df3d3ab7aa35529417d3":[4,1,19,324],
-"d8/d74/classWorldSession.html#a4a31242ddb6263d37d582f0599d6dc6e":[4,1,19,397]
+"d8/d74/classWorldSession.html#a49eaf02202ba67bf4999b2bde0fa408e":[4,1,19,591]
 };

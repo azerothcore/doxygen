@@ -168,6 +168,7 @@ var classPlayerScript =
     [ "OnPlayerSetMaxLevel", "d0/d5b/classPlayerScript.html#aa8049d8f999c983d032c4a83f44d384d", null ],
     [ "OnPlayerSetServerSideVisibility", "d0/d5b/classPlayerScript.html#a426e85a617ff5bde90d46918e5fd5b4f", null ],
     [ "OnPlayerSetServerSideVisibilityDetect", "d0/d5b/classPlayerScript.html#afc51f607a2a09dfbebf941afb6d78848", null ],
+    [ "OnPlayerSetSkill", "d0/d5b/classPlayerScript.html#ae4b35828110b03b6f6086294bc35bf2d", null ],
     [ "OnPlayerShouldBeRewardedWithMoneyInsteadOfExp", "d0/d5b/classPlayerScript.html#a25dbc0a3cea9caf42fce43e7507098d8", null ],
     [ "OnPlayerSpellCast", "d0/d5b/classPlayerScript.html#a2eb26bdd3b1989286ee366c12d058f9f", null ],
     [ "OnPlayerStoreNewItem", "d0/d5b/classPlayerScript.html#a7ce4b3df298df0320a73322a684baada", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX163 =
 {
+"d5/dd9/structArenaSeasonRewardGroup.html#a1b89c847e86b29671f86dbbef1c9a1b6":[6,0,194,2],
+"d5/dd9/structArenaSeasonRewardGroup.html#a24e7afcf5a95fba7f2cdc5914baac392":[6,0,194,5],
 "d5/dd9/structArenaSeasonRewardGroup.html#a2e6a5d2ca970d3921142b497d351c50f":[6,0,194,11],
 "d5/dd9/structArenaSeasonRewardGroup.html#a582c7d51c2ab4bb5cf0e45b773dd20ee":[6,0,194,4],
 "d5/dd9/structArenaSeasonRewardGroup.html#a625ef69db8523e1a5e6e5ea16bdacc2f":[6,0,194,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX163 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a5a3d7b3545f173ccb68b46456cbf285a":[6,0,1362,0,24],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a5f25ab6abc60eb43fe7918d323e22315":[6,0,1362,0,22],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a675f61216a3f544824d261fb859d159b":[6,0,1362,0,9],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a6c4c5ce42cd57091662f0f0308a58420":[6,0,1362,0,37],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a6ed5f07c07cb8badaf39e113bb5350aa":[6,0,1362,0,33],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a7442cdf9ada9901b2e27e066d936226e":[6,0,1362,0,6]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a6c4c5ce42cd57091662f0f0308a58420":[6,0,1362,0,37]
 };

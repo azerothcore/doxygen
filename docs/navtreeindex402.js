@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ed4212f9e624582dc16c9eb1e9e54a3":[7,0,0,0,1,3,7,4,1,3,3,3],
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea4f055acbe596b7541325a90cde0759d2":[7,0,0,0,1,3,7,4,1,3,3,1],
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea5810841f5f149b9b9b7d245da386a14b":[7,0,0,0,1,3,7,4,1,3,3,0],
 "df/d3a/hellfire__ramparts_8h.html#ab5a0be5128ec06eeed7e1a5dd65db97b":[7,0,0,0,1,3,7,4,1,3,1],
 "df/d3a/hellfire__ramparts_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,7,4,1,3,5],
 "df/d3a/hellfire__ramparts_8h.html#acd8b54d8672687df8df94cb3d9a2a744a3df24a649fb3ca366a43a593e3d26057":[7,0,0,0,1,3,7,4,1,3,5,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[6,0,334,1],
 "df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[6,0,334,2],
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,334,0],
-"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[6,0,833],
-"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a01ceb11072dfedbd099c2461f817c895":[6,0,833,0],
-"df/d45/classSpellProcDisableEffectsTest.html":[6,0,4406],
-"df/d45/classSpellProcDisableEffectsTest.html#a43a467bfcff58079e28fece9bfe3464c":[6,0,4406,0]
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[6,0,833]
 };
