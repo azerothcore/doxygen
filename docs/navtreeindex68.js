@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d73/classScriptMgr.html#a90f71782ee49a4fc3178d4882fd56ea5":[6,0,2540,318],
+"d2/d73/classScriptMgr.html#a90fd83060323b49498fd5f6f8a0510cd":[6,0,2540,350],
 "d2/d73/classScriptMgr.html#a912e2dc46464de1ace1a0a1364bbd0ca":[6,0,2540,201],
 "d2/d73/classScriptMgr.html#a914da0d1879c615a1575f6a664990e92":[6,0,2540,321],
 "d2/d73/classScriptMgr.html#a91fa6e296a075ee3af6c56c986f4239e":[6,0,2540,203],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d76/classnpc__hyjal__tyrande.html#a014a63098e18b08b6f5cd33a0cba2072":[6,0,1881,3],
 "d2/d76/classnpc__hyjal__tyrande.html#a2f863e616352a98763eef9a717d73388":[6,0,1881,2],
 "d2/d76/classnpc__hyjal__tyrande.html#abd2ba500d8e2bbf20c00905012d47d12":[6,0,1881,1],
-"d2/d77/classspell__scholomance__fixate__aura.html":[6,0,4000],
-"d2/d77/classspell__scholomance__fixate__aura.html#a16623b3187e98fc50f5a3b8e0297b0ea":[6,0,4000,1],
-"d2/d77/classspell__scholomance__fixate__aura.html#a710536e0a3bacf173d037041e755bd82":[6,0,4000,0]
+"d2/d77/classspell__scholomance__fixate__aura.html":[6,0,4000]
 };

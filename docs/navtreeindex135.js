@@ -1,5 +1,8 @@
 var NAVTREEINDEX135 =
 {
+"d4/d9c/boss__northrend__beasts_8cpp.html":[7,0,0,0,1,3,5,2,1,3],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3e":[7,0,0,0,1,3,5,2,1,3,19],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea61c0a02a51a5381cb260f3f042ab2c2c":[7,0,0,0,1,3,5,2,1,3,19,1],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea6c8f0a4e9f01afe7b43428d6559851de":[7,0,0,0,1,3,5,2,1,3,19,0],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea9a58147a9de1e78d42454e2b387b6ca0":[7,0,0,0,1,3,5,2,1,3,19,3],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3eaf3488fb29f71cd0b53328871863a262a":[7,0,0,0,1,3,5,2,1,3,19,2],
@@ -206,12 +209,12 @@ var NAVTREEINDEX135 =
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,830,4],
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
-"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2601],
@@ -246,8 +249,5 @@ var NAVTREEINDEX135 =
 "d4/da5/structnpc__pet__gen__fetch__ball.html#abaf6308f7c47fd05acb86055bec0aea8":[6,0,2034,1],
 "d4/da5/structnpc__pet__gen__fetch__ball.html#ae474374af7c2270e218ed236d90c789c":[6,0,2034,5],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html":[6,0,1334,0],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a0154bcf7f14d86156625e56f74f21887":[6,0,1334,0,1],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a065beb3e5680e2c3c7d491d9bd05214f":[6,0,1334,0,21],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a06f3ebdf4a6ec9ea01e1f8ff43d22729":[6,0,1334,0,42],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a072910f2b5826a51d4eae7a45a3f45c1":[6,0,1334,0,68]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a0154bcf7f14d86156625e56f74f21887":[6,0,1334,0,1]
 };

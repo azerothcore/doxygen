@@ -1,5 +1,13 @@
 var NAVTREEINDEX214 =
 {
+"d7/dcf/structCreatureModel.html#a7736d6480dca65a68afb82a830b35874":[6,0,951,6],
+"d7/dcf/structCreatureModel.html#ad842b73233b84c451710767f5e58f10a":[6,0,951,5],
+"d7/dcf/structCreatureModel.html#afd3bf8cb5ff39b862a946eab9731b251":[6,0,951,0],
+"d7/dcf/structboss__vazruden.html":[6,0,775],
+"d7/dcf/structboss__vazruden.html#a11b5091dafe2f0de9afd81de7b6fde90":[6,0,775,6],
+"d7/dcf/structboss__vazruden.html#a44b1e4d43bbf0d7faec7f4ee277db811":[6,0,775,1],
+"d7/dcf/structboss__vazruden.html#a44d53934c743e9beb539681719997852":[6,0,775,9],
+"d7/dcf/structboss__vazruden.html#a525025b41b53a577bdff1eb818191ed7":[6,0,775,3],
 "d7/dcf/structboss__vazruden.html#a5dbbe80fcfe191ac5ae03f943496ad02":[6,0,775,4],
 "d7/dcf/structboss__vazruden.html#a60382206e378c2f2c493d1ee25c4ff8c":[6,0,775,10],
 "d7/dcf/structboss__vazruden.html#a8f430a0d7edb0285156c6bf68ba0aa07":[6,0,775,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX214 =
 "d7/de7/classspell__warr__last__stand.html#a24634405a8d0ccdd22f4832815262446":[6,0,4305,1],
 "d7/de7/classspell__warr__last__stand.html#a3394b9b9e5899550251d553ac9f77f8a":[6,0,4305,2],
 "d7/de7/classspell__warr__last__stand.html#ae56a900b3484fd6397d38c4ad8efe5c2":[6,0,4305,3],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html":[5,0,0,49],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html":[6,0,0,37],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a0bbe45b38a92967f145fb1d608d647b1":[6,0,0,37,8],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a0bbe45b38a92967f145fb1d608d647b1":[5,0,0,49,8],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a16f9719278e00013c25902846fa1be5b":[5,0,0,49,1],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a16f9719278e00013c25902846fa1be5b":[6,0,0,37,1],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a232325cefa217843da5cc6db7e5d80fe":[6,0,0,37,5],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a232325cefa217843da5cc6db7e5d80fe":[5,0,0,49,5],
-"d7/de8/classAcore_1_1BroadcastTextBuilder.html#a71032b0749dd75f552107503528e8166":[6,0,0,37,4]
+"d7/de8/classAcore_1_1BroadcastTextBuilder.html":[5,0,0,49]
 };

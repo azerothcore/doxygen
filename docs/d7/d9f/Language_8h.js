@@ -1251,7 +1251,9 @@ var Language_8h =
       [ "LANG_RESPAWN_ENTRY_GAMEOBJECT_NOT_FOUND", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa959f485a3e0003a790e66d2f4377a171", null ],
       [ "LANG_RESPAWN_ENTRY_CREATURE_QUEUED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6b86f394e9e1d89734b6bda09aff84ca", null ],
       [ "LANG_RESPAWN_ENTRY_GAMEOBJECT_QUEUED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa683bd1f93218950228ee8b9b6b7f2df2", null ],
-      [ "LANG_LIST_RESPAWNS_NO_MAP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27058895be265e3b669d5d0e3297d9ae", null ]
+      [ "LANG_LIST_RESPAWNS_NO_MAP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27058895be265e3b669d5d0e3297d9ae", null ],
+      [ "LANG_PET_RENAME_INVALID", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6d211754b3f596e0e50d2c445cbf5e1d", null ],
+      [ "LANG_PET_RENAME_SUCCESS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa86431bd367098f713b1340c10d54e61a", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

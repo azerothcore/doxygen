@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"d0/dc2/classspell__q12237__rescue__villager.html":[6,0,3874],
+"d0/dc2/classspell__q12237__rescue__villager.html#a2a97265e102e9ce31997d99275b42973":[6,0,3874,3],
 "d0/dc2/classspell__q12237__rescue__villager.html#a8128bb2d7588409dae73bed78d5285a7":[6,0,3874,1],
 "d0/dc2/classspell__q12237__rescue__villager.html#aee17a8a21ec5df027082c6990189dccc":[6,0,3874,2],
 "d0/dc2/classspell__q12237__rescue__villager.html#af0eb00a8dbff89d780beb07f3a714fff":[6,0,3874,0],
@@ -15,12 +17,12 @@ var NAVTREEINDEX19 =
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a19d0895bf7a25da8d8bdaceed14ff0a1":[6,0,13,8,18,4],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[5,0,34,8,18,2],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[6,0,13,8,18,2],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[6,0,13,8,18,1],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[5,0,34,8,18,1],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[6,0,13,8,18,0],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[6,0,13,8,18,1],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[5,0,34,8,18,0],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[6,0,13,8,18,5],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[6,0,13,8,18,0],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[5,0,34,8,18,5],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[6,0,13,8,18,5],
 "d0/dc5/classNpcRunToHome.html":[6,0,2309],
 "d0/dc5/classNpcRunToHome.html#a0da766e3bae0d8d97a46ef82b3873cc0":[6,0,2309,1],
 "d0/dc5/classNpcRunToHome.html#a7dd38171a6e55665fc28a74212313e51":[6,0,2309,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "d0/dd3/structSpellDestination.html#ab565861d5013130639013e3c4d22d712":[6,0,4373,4],
 "d0/dd3/structSpellDestination.html#ad3456cf591eb32a5dd390ffbb7b27387":[6,0,4373,7],
 "d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html":[6,0,1343,0],
-"d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#a04806dc42aa0b171fa99eb1d8492ff61":[6,0,1343,0,3],
-"d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#a11ac1fbc7c699084e7da5e4bf0595651":[6,0,1343,0,6],
-"d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#a2c6c42e73de2a155c04f80e37aa5d442":[6,0,1343,0,1]
+"d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#a04806dc42aa0b171fa99eb1d8492ff61":[6,0,1343,0,3]
 };

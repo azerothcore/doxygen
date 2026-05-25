@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,5,1,0,3,1],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1aa673e8c4b29ae3417b3968e0eee80e60":[7,0,0,0,1,3,7,5,1,0,3,2],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,5,1,0,3,5],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,1,0,4],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298ca48c5249d476ed6d12cda2816496854f2":[7,0,0,0,1,3,7,5,1,0,4,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d7e/classspell__grab__on.html#af0f5206d98dbc9de355abbeb03709c05":[6,0,3135,1],
 "d3/d7f/namespaceadvstd.html":[5,0,3],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html":[6,0,458],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a182564d95dc677ea33e47995638a9a58":[6,0,458,2],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a33efe0ee1573c4b43cdf58bdce303e5d":[6,0,458,0],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a526a7726e2838ef4c49cca8dd6fc68c9":[6,0,458,1]
+"d3/d7f/structboss__emperor__dagran__thaurissan.html#a182564d95dc677ea33e47995638a9a58":[6,0,458,2]
 };

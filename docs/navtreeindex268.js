@@ -1,5 +1,14 @@
 var NAVTREEINDEX268 =
 {
+"da/d74/classspell__item__pygmy__oil.html#a9ad5691f6049078c45052d07513b35a2":[6,0,3422,2],
+"da/d74/classspell__item__pygmy__oil.html#addfcb17cbbb56bda88997b34ce3e3ddd":[6,0,3422,0],
+"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,0,75],
+"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[6,0,0,63],
+"da/d74/structAuctionEntryItemEnchants.html":[6,0,267],
+"da/d74/structAuctionEntryItemEnchants.html#a36445b0d9d75886a0697c75513eb6c41":[6,0,267,1],
+"da/d74/structAuctionEntryItemEnchants.html#a583aee5baaad873bcbcc2acad403d0bf":[6,0,267,0],
+"da/d74/structAuctionEntryItemEnchants.html#ab19975d2dd203aa1124f2e06fb637171":[6,0,267,2],
+"da/d74/structboss__cyanigosa.html":[6,0,433],
 "da/d74/structboss__cyanigosa.html#a1f2810d9f2a291576fa29a872b1f6470":[6,0,433,5],
 "da/d74/structboss__cyanigosa.html#a2432aa3610747c52f6ec3de1def55f18":[6,0,433,4],
 "da/d74/structboss__cyanigosa.html#a55645a68448a8c83b85b05c7a29f0f6a":[6,0,433,6],
@@ -240,14 +249,5 @@ var NAVTREEINDEX268 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a7756a84f2f30a389576b6c33086973":[7,0,0,0,1,3,5,6,10,76,87],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0d9ed4d28e7576e9c2bd06ed2edbc5b0":[7,0,0,0,1,3,5,6,10,76,80],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca1214b7579787f881b7fea53b30a5f85a":[7,0,0,0,1,3,5,6,10,76,65],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bbcbfe2b17e66e56b90e432cf5402e9":[7,0,0,0,1,3,5,6,10,76,68],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eeba491774062155a83b1fdba70a9f4":[7,0,0,0,1,3,5,6,10,76,41],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca20b50579c73f61afe6b4886b5c9be321":[7,0,0,0,1,3,5,6,10,76,44],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca24205e140ff4b851ad9aa444a08de97a":[7,0,0,0,1,3,5,6,10,76,11],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca25238145ac41817d96423cdfe29b381f":[7,0,0,0,1,3,5,6,10,76,82],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca28c28a90e22845d9d9c62d5006a7474c":[7,0,0,0,1,3,5,6,10,76,54],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,6,10,76,89],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca33e2a6996defb279106953aad888cb97":[7,0,0,0,1,3,5,6,10,76,36],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca370445762e5ea606a0338a5e0dcb6752":[7,0,0,0,1,3,5,6,10,76,55],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,6,10,76,57]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bbcbfe2b17e66e56b90e432cf5402e9":[7,0,0,0,1,3,5,6,10,76,68]
 };

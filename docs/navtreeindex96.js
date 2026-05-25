@@ -1,5 +1,7 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca331b20686b90aa35eb86d13da38b1968":[7,0,0,0,1,3,5,9,2,13,45,8],
+"d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca349284f6a7098ffd52d578684305b711":[7,0,0,0,1,3,5,9,2,13,45,13],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca38dfb643de18193016334146c6bca06e":[7,0,0,0,1,3,5,9,2,13,45,14],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca4d422f80c6547f2e32a54926e044371e":[7,0,0,0,1,3,5,9,2,13,45,7],
 "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca4e798a59eb954aef5c7aeb8271082b9d":[7,0,0,0,1,3,5,9,2,13,45,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d44/classinstance__vault__of__archavon.html#abb955a8873a3a3021e164225dd1f857a":[6,0,1378,2],
 "d3/d44/structBoneStormMoveTargetSelector.html":[6,0,378],
 "d3/d44/structBoneStormMoveTargetSelector.html#a03d8b1ec5f18398fe2963418bb319973":[6,0,378,2],
-"d3/d44/structBoneStormMoveTargetSelector.html#a5b53c140d38db0df8faef3dfaf5c458d":[6,0,378,1],
-"d3/d44/structBoneStormMoveTargetSelector.html#acd13e67fbbc29137ca2b77aaf9dc0e77":[6,0,378,0],
-"d3/d45/classgo__beacon.html":[6,0,1145]
+"d3/d44/structBoneStormMoveTargetSelector.html#a5b53c140d38db0df8faef3dfaf5c458d":[6,0,378,1]
 };

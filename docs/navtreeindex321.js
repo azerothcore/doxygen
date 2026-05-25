@@ -1,5 +1,15 @@
 var NAVTREEINDEX321 =
 {
+"dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7":[6,0,1132,6],
+"dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[6,0,1132,0],
+"dc/d37/classGlobalScript.html#a42cbfd8f6c10feb1012b7e5dad67ef84":[6,0,1132,11],
+"dc/d37/classGlobalScript.html#a43efa65b032111032e290371a0df0a60":[6,0,1132,2],
+"dc/d37/classGlobalScript.html#a782994a96188e1540e03b9481f4ee93d":[6,0,1132,18],
+"dc/d37/classGlobalScript.html#a92ebe4fc11cd0d2e0bd87dcd047c4523":[6,0,1132,12],
+"dc/d37/classGlobalScript.html#aa71f55a96e0d580fde44291656084356":[6,0,1132,10],
+"dc/d37/classGlobalScript.html#aaf3fcef66636071ca9def455ff356868":[6,0,1132,1],
+"dc/d37/classGlobalScript.html#ab403945c8443ba970489a5da923fbb31":[6,0,1132,8],
+"dc/d37/classGlobalScript.html#abf690afbe28ca4a138c012c55cfd1990":[6,0,1132,19],
 "dc/d37/classGlobalScript.html#ac25cacd2f032ada74b7cb3cd35ddeb84":[6,0,1132,4],
 "dc/d37/classGlobalScript.html#ad03b87900646cdead06f820e0091d1ff":[6,0,1132,5],
 "dc/d37/classGlobalScript.html#ad6d3a51c35e8718533d0809fd132a253":[6,0,1132,9],
@@ -239,15 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d48/structRangeSelector.html#a973ec93b54a839f853101ad5998c10b2":[6,0,2494,3],
 "dc/d48/structRangeSelector.html#a9dcf455d9db8d32aaebfc46eee36e1b5":[6,0,2494,2],
 "dc/d48/structRangeSelector.html#ac1ce7a7a7ad6d033972b449867a1c5bf":[6,0,2494,5],
-"dc/d48/structRangeSelector.html#ac68f7dfefe2e71942a3dfff7026a7ae7":[6,0,2494,6],
-"dc/d48/structnpc__drakonid__spawner.html":[6,0,1774],
-"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1774,0],
-"dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1774,3],
-"dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1774,4],
-"dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1774,2],
-"dc/d48/structnpc__drakonid__spawner.html#a6e0f0d2f6c265f9e5206f441dead8b2f":[6,0,1774,5],
-"dc/d48/structnpc__drakonid__spawner.html#ab013cff0430c09fe1045fdc735e45182":[6,0,1774,1],
-"dc/d49/boss__sapphiron_8cpp.html":[7,0,0,0,1,3,5,7,13],
-"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,13,4],
-"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,7,13,4,2]
+"dc/d48/structRangeSelector.html#ac68f7dfefe2e71942a3dfff7026a7ae7":[6,0,2494,6]
 };

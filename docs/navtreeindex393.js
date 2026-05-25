@@ -1,5 +1,15 @@
 var NAVTREEINDEX393 =
 {
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html":[6,0,3438],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#a19c34d190abeab629f48cbbaaa066cf8":[6,0,3438,0],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#a7f0074e18ffddba1383b01ce774ecff5":[6,0,3438,3],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#aaf5c649ef33b57ac964613308d3357d1":[6,0,3438,1],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#aed9d3ef3406aea2656b34230229241de":[6,0,3438,2],
+"de/ddd/classspell__entropius__black__hole__effect.html":[6,0,2921],
+"de/ddd/classspell__entropius__black__hole__effect.html#a5a43bb53d3c534054498f8366d617e5a":[6,0,2921,0],
+"de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2921,3],
+"de/ddd/classspell__entropius__black__hole__effect.html#ad6dfdf70e9ffd43510c4791f804ce340":[6,0,2921,2],
+"de/ddd/classspell__entropius__black__hole__effect.html#aec00f82a35c8154e7d4c1f47c52d486f":[6,0,2921,1],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html":[6,0,928],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#a7d3b640a8d68089436c3792b3db088f1":[6,0,928,1],
 "de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#adca71d306b9b5ee6b1dc0dc75cec1f2c":[6,0,928,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX393 =
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[7,0,0,0,0,9,10,0,1],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b":[7,0,0,0,0,9,10,0,3],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e":[7,0,0,0,0,9,10,0,2],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df":[7,0,0,0,0,9,10,1],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d":[7,0,0,0,0,9,10,1,2],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301":[7,0,0,0,0,9,10,1,4],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a":[7,0,0,0,0,9,10,1,1],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394":[7,0,0,0,0,9,10,1,3],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852":[7,0,0,0,0,9,10,1,0],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781":[7,0,0,0,0,9,10,2],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d":[7,0,0,0,0,9,10,2,7],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96":[7,0,0,0,0,9,10,2,8],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177":[7,0,0,0,0,9,10,2,5],
-"de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f":[7,0,0,0,0,9,10,2,2]
+"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df":[7,0,0,0,0,9,10,1]
 };

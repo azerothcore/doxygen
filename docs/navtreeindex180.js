@@ -1,5 +1,11 @@
 var NAVTREEINDEX180 =
 {
+"d6/d73/classspell__gluth__decimate__damage.html":[6,0,3131],
+"d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3131,0],
+"d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3131,1],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1981],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1981,11],
@@ -243,11 +249,5 @@ var NAVTREEINDEX180 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#ab8b90a08b9339c826e3ea4e9985238c9":[7,0,0,0,2,2,0,9,9,20],
 "d6/d7a/SpellProcChanceTest_8cpp.html#ab9118e66468f5514a8367af924d17feb":[7,0,0,0,2,2,0,9,9,10],
 "d6/d7a/SpellProcChanceTest_8cpp.html#abe575be9b92937bf10c472abe91ab32f":[7,0,0,0,2,2,0,9,9,19],
-"d6/d7a/SpellProcChanceTest_8cpp.html#ae6e514aa2a436af03383f9b655859038":[7,0,0,0,2,2,0,9,9,17],
-"d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[7,0,0,0,2,2,0,9,9,16],
-"d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[7,0,0,0,2,2,0,9,9,9],
-"d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,31],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,19,0]
+"d6/d7a/SpellProcChanceTest_8cpp.html#ae6e514aa2a436af03383f9b655859038":[7,0,0,0,2,2,0,9,9,17]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX172 =
 {
+"d6/d26/classBattlefield.html#ad48480492b9e0a54677a8f3cfa3dee62":[6,0,324,63],
+"d6/d26/classBattlefield.html#ad574fd71677683547ae69e2245890647":[6,0,324,96],
+"d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41":[6,0,324,105],
+"d6/d26/classBattlefield.html#ad8dc0bff4621113fe88b1f1d0ed8571b":[6,0,324,61],
 "d6/d26/classBattlefield.html#adbbbb5c8b48e73a2611664d4705efc35":[6,0,324,119],
 "d6/d26/classBattlefield.html#addc494f01d86e98b2635dcc19e5b27c3":[6,0,324,34],
 "d6/d26/classBattlefield.html#addd18f1dab7d197d1f4f6547bfb28d19":[6,0,324,43],
@@ -148,12 +152,12 @@ var NAVTREEINDEX172 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[6,0,2983,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[6,0,2983,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2983,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,13,12,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,13,12,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,13,12,0,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,34,12,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2438,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d32/classArena.html#a592100d0f0ed492a5cdf941e57db787f":[6,0,184,4],
 "d6/d32/classArena.html#a74f105bc709d4728fb07f1984abfd345":[6,0,184,0],
 "d6/d32/classArena.html#a886b586f7ab6fc89d76e86cb811989b8":[6,0,184,2],
-"d6/d32/classArena.html#ab5348b8bd4bfd58c01cdf61f16f72db1":[6,0,184,6],
-"d6/d32/classArena.html#acae21233e11b21b612e5c051bfa7720e":[6,0,184,7],
-"d6/d32/classArena.html#ae0a56f524bfc9eec6753874ce35d0466":[6,0,184,5],
-"d6/d32/classArena.html#ae24fe304d35c0c09379203135e936450":[6,0,184,1],
-"d6/d32/classspell__q11670__it__was__the__orcs__honest.html":[6,0,3864]
+"d6/d32/classArena.html#ab5348b8bd4bfd58c01cdf61f16f72db1":[6,0,184,6]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1b/structboss__shazzrah.html#aa23aecbb28a9bb1fc138691f143f8e53":[6,0,710,2],
+"d6/d1c/classboss__drakkari__elemental.html":[6,0,445],
+"d6/d1c/classboss__drakkari__elemental.html#a143dd5d52ea7bb3c3c1d96da45af81ee":[6,0,445,1],
+"d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,445,2],
 "d6/d1c/classspell__azgalor__doom__aura.html":[6,0,2650],
 "d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2650,2],
 "d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2650,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d26/classBattlefield.html#acea38f5faec4bd6e9471a77d4ea3752d":[6,0,324,5],
 "d6/d26/classBattlefield.html#acec4eaf1586d02011e20b58e3876caa6":[6,0,324,122],
 "d6/d26/classBattlefield.html#ad03120a119fbcb5cb1291b6d2f793094":[6,0,324,20],
-"d6/d26/classBattlefield.html#ad0c8c569a6ef1d3d1d890447208b499c":[6,0,324,98],
-"d6/d26/classBattlefield.html#ad48480492b9e0a54677a8f3cfa3dee62":[6,0,324,63],
-"d6/d26/classBattlefield.html#ad574fd71677683547ae69e2245890647":[6,0,324,96],
-"d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41":[6,0,324,105],
-"d6/d26/classBattlefield.html#ad8dc0bff4621113fe88b1f1d0ed8571b":[6,0,324,61]
+"d6/d26/classBattlefield.html#ad0c8c569a6ef1d3d1d890447208b499c":[6,0,324,98]
 };

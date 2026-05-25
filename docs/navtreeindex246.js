@@ -1,5 +1,13 @@
 var NAVTREEINDEX246 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae65fce3a8ab38d6567ca92cd5e94608d":[7,0,0,0,1,3,5,6,13,5,47],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae66db5d5ce69acdfef436659fe9fdc06":[7,0,0,0,1,3,5,6,13,5,112],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae6f22329aa112227847e53a1c83fb0cc":[7,0,0,0,1,3,5,6,13,5,48],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae70c2fba3da38542de5b09b692ee5251":[7,0,0,0,1,3,5,6,13,5,178],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae7602060d95905d39d735be974c99c5f":[7,0,0,0,1,3,5,6,13,5,100],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aea9e467005afeec5b2005a062777a782":[7,0,0,0,1,3,5,6,13,5,0],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aec1a77f352e3d4fff568a17e48e14701":[7,0,0,0,1,3,5,6,13,5,156],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aed8a7b5ab8aeb10fd0acadfc3113cab1":[7,0,0,0,1,3,5,6,13,5,135],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af3618fbd043a6a73ac2224184ec94979":[7,0,0,0,1,3,5,6,13,5,104],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af4a20369e2d64f239386ddfac38c9dde":[7,0,0,0,1,3,5,6,13,5,132],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af50d11e4cc7b4a93a19943750fa682e0":[7,0,0,0,1,3,5,6,13,5,138],
@@ -241,13 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d6b/structCharacterRenameInfo.html#a46a89b6904e59f39f4e1460a9bb45765":[4,1,15,1],
 "d9/d6b/structCharacterRenameInfo.html#a4e747a555bde74f97a5fc78287e5e29d":[4,1,15,2],
 "d9/d6b/structCharacterRenameInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,15,0],
-"d9/d6c/classspell__item__unsated__craving.html":[6,0,3469],
-"d9/d6c/classspell__item__unsated__craving.html#a50348fd27947f67df03bf4ddbec89cca":[6,0,3469,3],
-"d9/d6c/classspell__item__unsated__craving.html#a8b3f8cf17dda2322d0e9f8f4211cbd20":[6,0,3469,0],
-"d9/d6c/classspell__item__unsated__craving.html#aa5f4fcd1b9b710e2931460207cfc6dea":[6,0,3469,2],
-"d9/d6c/classspell__item__unsated__craving.html#aaa14b34ac54b4caee76ff72d07dd5c2d":[6,0,3469,4],
-"d9/d6c/classspell__item__unsated__craving.html#ae034bd626880858c9701ed963de993c9":[6,0,3469,1],
-"d9/d6d/Strand_8h.html":[7,0,0,0,0,0,6],
-"d9/d6d/structboss__vaelastrasz.html":[6,0,771],
-"d9/d6d/structboss__vaelastrasz.html#a34f13f4de3f268c8fe034e8577186966":[6,0,771,0]
+"d9/d6c/classspell__item__unsated__craving.html":[6,0,3469]
 };

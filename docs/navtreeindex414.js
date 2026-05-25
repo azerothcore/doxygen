@@ -1,5 +1,16 @@
 var NAVTREEINDEX414 =
 {
+"df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[7,0,0,0,1,2,31,1,2,7],
+"df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[7,0,0,0,1,2,31,1,2,2],
+"df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[7,0,0,0,1,2,31,1,2,1],
+"df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[7,0,0,0,1,2,31,1,2,4],
+"df/dd3/classEmblemInfo.html":[6,0,1035],
+"df/dd3/classEmblemInfo.html#a08191c3c9cc48bde61ef0de81be34c90":[6,0,1035,13],
+"df/dd3/classEmblemInfo.html#a0bc92e459910ab6aad3ac35c8b613a5f":[6,0,1035,9],
+"df/dd3/classEmblemInfo.html#a0e6d684542535d537bdeba4104b7a18d":[6,0,1035,5],
+"df/dd3/classEmblemInfo.html#a15108f3a2a93ebbc01111672dd238d63":[6,0,1035,4],
+"df/dd3/classEmblemInfo.html#a17de371e72a2b29a7f249dbe912636bc":[6,0,1035,6],
+"df/dd3/classEmblemInfo.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf":[6,0,1035,10],
 "df/dd3/classEmblemInfo.html#a66da2cd78cee9e929ff0f2439caed0e5":[6,0,1035,1],
 "df/dd3/classEmblemInfo.html#a7a791a3f467e72a3e8e941e3179d7709":[6,0,1035,3],
 "df/dd3/classEmblemInfo.html#a8d053ab27856955bf6013ef4c61ed33f":[6,0,1035,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a0ebd274732e84a9150104d8473a7cd8d":[6,0,4528,321],
 "df/dd9/classUnit.html#a0ed0c3a3a587eeab40abba42c3d0d593":[6,0,4528,651],
 "df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[6,0,4528,60],
-"df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe":[6,0,4528,195],
-"df/dd9/classUnit.html#a102dedba540065d396bb5b0731d7e62f":[6,0,4528,732],
-"df/dd9/classUnit.html#a110b13d199491bced26c3b6aa17ac1e1":[6,0,4528,236],
-"df/dd9/classUnit.html#a118d77ada5afa6d951bbcc7a6cf9b498":[6,0,4528,221],
-"df/dd9/classUnit.html#a119dc9c49811ea6ef6d7e3dd21d6c492":[6,0,4528,976],
-"df/dd9/classUnit.html#a119e11ced40afde3ed38a7234a5e8415":[6,0,4528,21],
-"df/dd9/classUnit.html#a11a2ba8f1d241167acab52b186c3fe43":[6,0,4528,6],
-"df/dd9/classUnit.html#a125e704efcc6b2b410fabc2790e2cafd":[6,0,4528,376],
-"df/dd9/classUnit.html#a128c18fa7afd36c512a3454381025df1":[6,0,4528,913],
-"df/dd9/classUnit.html#a12c149bd110864b202731ea63cbd0d4c":[6,0,4528,386],
-"df/dd9/classUnit.html#a12cf2a2cf4e6cd46c28c95108e7eaf6d":[6,0,4528,414],
-"df/dd9/classUnit.html#a12d4fd7f1f11ef43dcfb4cd66354f3e6":[6,0,4528,536]
+"df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe":[6,0,4528,195]
 };

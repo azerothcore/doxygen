@@ -1,5 +1,7 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baf8a5de834ee1f3f17d8ede6e1b6f1955":[7,0,0,0,1,2,48,7,0,416],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baf9c0df1b6cdd50327be508af560a5239":[7,0,0,0,1,2,48,7,0,473],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafad7a98b369baf6e27965d73f8941c56":[7,0,0,0,1,2,48,7,0,152],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafb3bfbc88a5b0bb2df19bb810debc00d":[7,0,0,0,1,2,48,7,0,308],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafb8cb23fe539e296e0ac71e2a0bbfbc3":[7,0,0,0,1,2,48,7,0,235],
@@ -33,10 +35,10 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adfcae59f1ecb69193139540751b63566":[7,0,0,0,1,3,5,2,0,4,2,1],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aecabad3faea06eea3d7351ca76671746":[7,0,0,0,1,3,5,2,0,4,2,6],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html":[6,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html":[6,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1212],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1212,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1212,0],
@@ -217,12 +219,12 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1061,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1061,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1061,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,13,9,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,13,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,13,9,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,13,9,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3629],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3629,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3629,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d57/classnpc__brunnhildar__prisoner.html#aa2a1787849c74a5163a39137c9d03d57":[6,0,1693,2],
 "d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html":[6,0,3670],
 "d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a25a2db5c19e721b112b7bc84b3ac0968":[6,0,3670,1],
-"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a6ef11d0538616315fa7cf098748aa01f":[6,0,3670,2],
-"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a71a9b9967528c1153ad1215635bc7d01":[6,0,3670,0],
-"d3/d57/classspell__random__aggro.html":[6,0,3937]
+"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a6ef11d0538616315fa7cf098748aa01f":[6,0,3670,2]
 };

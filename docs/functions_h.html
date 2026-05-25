@@ -1097,6 +1097,7 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <li>HandlePetListCommand()&#160;:&#160;<a class="el" href="df/dbf/classpet__commandscript.html#aeaa05b073553c0c0758ea99d982ce1cc">pet_commandscript</a></li>
 <li>HandlePetNameQuery()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#ac05f9883c87607d590a1a1fb8fe5880a">WorldSession</a></li>
 <li>HandlePetRename()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a3008a6d3b0bfa667b1378ddaa13fd35a">WorldSession</a></li>
+<li>HandlePetRenameCommand()&#160;:&#160;<a class="el" href="df/dbf/classpet__commandscript.html#a556529bfe267eb618410b63065b7096c">pet_commandscript</a></li>
 <li>HandlePetRespawn()&#160;:&#160;<a class="el" href="d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f">npc_simone::npc_simoneAI</a></li>
 <li>HandlePetSetAction()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a6b005c239ae8038661929b1dacb986a3">WorldSession</a></li>
 <li>HandlePetSpellAutocastOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a8bfc614ea0798f161aac22c91bb7cd1a">WorldSession</a></li>
@@ -1596,7 +1597,7 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <li>HasAtLoginFlag()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#acab761654ec528fb7c3bc77fc28a25bd">Player</a></li>
 <li>HasAttackerSpellCritChanceAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a7dc74f07ff52aa4f563ea3c5e798bb2e">Unit</a></li>
 <li>hasAttr&#160;:&#160;<a class="el" href="d8/d84/structRealSpellTestCase.html#aec6e687803471c9e36fb371be3994db9">RealSpellTestCase</a></li>
-<li>HasAttribute()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#ac4dd6630a1fcd25141ebfb5b8acf8014">SpellInfo</a></li>
+<li>HasAttribute()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6">SpellInfo</a></li>
 <li>HasAura()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#aefe1e81c5922419ada55844bdb30e269">SpellInfo</a>, <a class="el" href="df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit</a>, <a class="el" href="dc/d3b/classUnitStub.html#a0096bd8b110bb563ccb435a25f9cfbb7">UnitStub</a></li>
 <li>HasAuraEffect()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a8fd18d697ea7e2c7fbbf4a2d1a93bfef">Unit</a></li>
 <li>HasAuras()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aedcd0cc38b6647bd96ce5730dee2cc2e">Unit</a></li>
@@ -1719,8 +1720,8 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <li>HasLowerSecurity()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c">ChatHandler</a></li>
 <li>HasLowerSecurityAccount()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4">ChatHandler</a></li>
 <li>HasMainhandWeapon()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#af8454dc2cdff77f66954f13f0e4c6c6c">Unit</a></li>
-<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>hasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13">Unit</a></li>
+<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>HasMechanicTemplateImmunity()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3">Creature</a></li>
 <li>HasMeleeSpec()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a336633d1a73d1ccb1a546e5b0c38ae79">Player</a></li>
 <li>HasMinion()&#160;:&#160;<a class="el" href="db/d14/structnpc__necrotic__shard.html#a1180dc1fa894886b492508afbc692667">npc_necrotic_shard</a></li>
@@ -1818,7 +1819,7 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <li>HasTaxiPath()&#160;:&#160;<a class="el" href="d2/dc2/structEntryPointData.html#afd310b2f367ec7df76f01689ea120e6e">EntryPointData</a></li>
 <li>HasTempSpell()&#160;:&#160;<a class="el" href="df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e">Pet</a></li>
 <li>HasTimeUntilEvent()&#160;:&#160;<a class="el" href="d1/d2e/classEventMap.html#a40b956090fb03afea7bda154e82904d3">EventMap</a></li>
-<li>HasTitle()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a753f2c352e6055cd8d30e46f379f74e9">Player</a></li>
+<li>HasTitle()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a628f13470513a252159124d61e87ca3e">Player</a></li>
 <li>HasTraj()&#160;:&#160;<a class="el" href="d4/d3a/classSpellCastTargets.html#a45632eab24f67bdbfdbf3ea72751f53e">SpellCastTargets</a></li>
 <li>HasTransformAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a43284005898d74aee02034f1d1749028">Unit</a></li>
 <li>hasTrappedUnit&#160;:&#160;<a class="el" href="de/d84/structnpc__bone__spike_1_1npc__bone__spikeAI.html#aeb7236ef0d313fd3799458f3d50276f7">npc_bone_spike::npc_bone_spikeAI</a></li>
@@ -1863,7 +1864,7 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <li>HealDone()&#160;:&#160;<a class="el" href="d0/ddd/classUnitAI.html#acd135c95a0d2a1a8c58073edbaa5a5bd">UnitAI</a></li>
 <li>healers&#160;:&#160;<a class="el" href="d5/d69/structlfg_1_1LfgQueueData.html#a8b2049474102332ddca53f0892565216">lfg::LfgQueueData</a>, <a class="el" href="da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74">lfg::LfgQueueStatusData</a></li>
 <li>HealInfo()&#160;:&#160;<a class="el" href="db/df2/classHealInfo.html#a25fe1984f6c3ef5eeb90049ef4749437">HealInfo</a></li>
-<li>HealInfoStub()&#160;:&#160;<a class="el" href="de/d07/classHealInfoStub.html#afa2b7c6e93b387f16e2b545adc4fa05c">HealInfoStub</a></li>
+<li>HealInfoStub()&#160;:&#160;<a class="el" href="de/d07/classHealInfoStub.html#ae011c5a0f72cd5581e661793c3ac2fdc">HealInfoStub</a></li>
 <li>HealInfoStubBuilder()&#160;:&#160;<a class="el" href="d9/dfc/classHealInfoStubBuilder.html#a57945de96ad065451cadb47edba287c8">HealInfoStubBuilder</a></li>
 <li>healing_done&#160;:&#160;<a class="el" href="d4/dd9/structAchievementCriteriaEntry.html#abe152bfa6488405943c0d6c8b801ee9a">AchievementCriteriaEntry</a></li>
 <li>HealingDone&#160;:&#160;<a class="el" href="df/dd4/structBattlegroundScore.html#a3b793df338929c4129e46a6a7fb6422f">BattlegroundScore</a></li>
@@ -1987,7 +1988,7 @@ $(document).ready(function(){initNavTree('functions_h.html',''); initResizable()
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun May 24 2026 08:25:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon May 25 2026 09:59:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,13 @@
 var NAVTREEINDEX253 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca61e72c56ac632a7cead1c2ded4581569":[7,0,0,0,1,3,5,9,0,3,4,4],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca6be9aaac2d0ece39335d70b587cf5e82":[7,0,0,0,1,3,5,9,0,3,4,5],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca860fbfbef46f69ee9a0aa899e040991e":[7,0,0,0,1,3,5,9,0,3,4,6],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaa7eba26f13cb62deb289afdbf2a512c4":[7,0,0,0,1,3,5,9,0,3,4,2],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d":[7,0,0,0,1,3,5,9,0,3,4,0],
+"d9/dc6/classspell__dru__frenzied__regeneration.html":[6,0,2863],
+"d9/dc6/classspell__dru__frenzied__regeneration.html#a507e7e61eef30115812dc5ab5ad33fea":[6,0,2863,3],
+"d9/dc6/classspell__dru__frenzied__regeneration.html#a51d8701f84737d91cf4367967e2c9439":[6,0,2863,1],
 "d9/dc6/classspell__dru__frenzied__regeneration.html#a57d210027c9fa2a4a7a90c4b1fd7589b":[6,0,2863,2],
 "d9/dc6/classspell__dru__frenzied__regeneration.html#abc823ccb417c7ee54b275fd765c2e9a5":[6,0,2863,0],
 "d9/dc6/classspell__warl__demonic__circle__summon.html":[6,0,4248],
@@ -32,10 +40,10 @@ var NAVTREEINDEX253 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[7,0,0,0,1,3,2,1,0,14,4,2],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,13,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,13,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dd2/structoutdoorpvp__na__halaa__creatures.html#a16c8cb2d19396e6db4700a37e0d02feb":[6,0,2348,1],
 "d9/dd2/structoutdoorpvp__na__halaa__creatures.html#a9656bb7620967f1c9db6ff28a1c6bfe2":[6,0,2348,0],
 "d9/dd3/classnpc__lady__sylvanas__windrunner.html":[6,0,1938],
-"d9/dd3/classnpc__lady__sylvanas__windrunner.html#ab3da21f58b68003f50cf0c3d5ce22028":[6,0,1938,1],
-"d9/dd3/classnpc__lady__sylvanas__windrunner.html#abc382c04be0a8ed46299d1c4b2d008dc":[6,0,1938,2],
-"d9/dd3/classnpc__lady__sylvanas__windrunner.html#ae0031c5305a03a376dd84e950eb4a23b":[6,0,1938,3],
-"d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html":[6,0,3671],
-"d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#a24341aae14ed77101d4c31f2fbe11463":[6,0,3671,2],
-"d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc":[6,0,3671,0],
-"d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf":[6,0,3671,1],
-"d9/dd6/classnpc__q24545__vegard__dummy.html":[6,0,2082],
-"d9/dd6/classnpc__q24545__vegard__dummy.html#a12363e26a720ae33b6cde0f44aec3adf":[6,0,2082,1]
+"d9/dd3/classnpc__lady__sylvanas__windrunner.html#ab3da21f58b68003f50cf0c3d5ce22028":[6,0,1938,1]
 };

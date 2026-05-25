@@ -1,5 +1,15 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a968f589b33c3e1e12b9bc331129881de":[7,0,0,0,1,2,38,0,77,1,42],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a96aa3e5ae074904bb993a728bd585f94":[7,0,0,0,1,2,38,0,77,1,7],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97543ec0dc75c5e390325ce9e49c0b4b":[7,0,0,0,1,2,38,0,77,1,76],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[7,0,0,0,1,2,38,0,77,1,133],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[7,0,0,0,1,2,38,0,77,1,41],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[7,0,0,0,1,2,38,0,77,1,78],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[7,0,0,0,1,2,38,0,77,1,90],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[7,0,0,0,1,2,38,0,77,1,81],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[7,0,0,0,1,2,38,0,77,1,40],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa346539c7e7fd716628d6631efc9b74b":[7,0,0,0,1,2,38,0,77,1,84],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa3c8ae160547aae5db74400fbca0b172":[7,0,0,0,1,2,38,0,77,1,13],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa5f7ceb2cc665666dfed956191c10596":[7,0,0,0,1,2,38,0,77,1,101],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa64e740b6e78b87052735a76ff182364":[7,0,0,0,1,2,38,0,77,1,88],
@@ -239,15 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,0,1,1,5,2],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac84d40b2869575c0552fca376701ef2c":[7,0,0,0,1,3,5,0,1,1,5,1],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac853e2b296604ddbdba385f171046d0b":[7,0,0,0,1,3,5,0,1,1,5,3],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804":[7,0,0,0,1,3,5,0,1,1,5,10],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451":[7,0,0,0,1,3,5,0,1,1,5,7],
-"dd/dd2/classspell__azgalor__doom.html":[6,0,2649],
-"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[6,0,2649,2],
-"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[6,0,2649,1],
-"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[6,0,2649,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[6,0,2691],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[6,0,2691,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2691,2],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2691,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3573]
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804":[7,0,0,0,1,3,5,0,1,1,5,10]
 };

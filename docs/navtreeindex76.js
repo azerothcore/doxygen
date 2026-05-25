@@ -1,5 +1,7 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddf/structboss__chromaggus.html#a790a3e06fb4db275bb447b15bb838508":[6,0,426,4],
+"d2/ddf/structboss__chromaggus.html#a7a9e301d17657ace82b4243814cbb52c":[6,0,426,3],
 "d2/ddf/structboss__chromaggus.html#abc27a22d82555fe3301708e9aaa61997":[6,0,426,7],
 "d2/ddf/structboss__chromaggus.html#ac8d72d4c3b265abca798c9ddc166df3b":[6,0,426,2],
 "d2/ddf/structboss__chromaggus.html#aed1d8ef49450c5495045bd62f0f3e2e6":[6,0,426,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a740f5feadcb5b1e8bc59c4cc1db7e6f8":[6,0,4385,69],
 "d2/de9/classSpellInfo.html#a7419074beefe0370e9642603a0749212":[6,0,4385,205],
 "d2/de9/classSpellInfo.html#a74f4db121e6f113d34825a6e437c8d97":[6,0,4385,3],
-"d2/de9/classSpellInfo.html#a75b3a93f43d40d6268103e412cf57797":[6,0,4385,144],
-"d2/de9/classSpellInfo.html#a75e80fd4e12d1c445584627bb4bf9c84":[6,0,4385,72],
-"d2/de9/classSpellInfo.html#a78bbf3a5574a188116846fbc77a57768":[6,0,4385,194]
+"d2/de9/classSpellInfo.html#a75b3a93f43d40d6268103e412cf57797":[6,0,4385,144]
 };

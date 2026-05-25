@@ -1,5 +1,14 @@
 var NAVTREEINDEX301 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a5bdd228cfa902c9b1f1475ee67b3944f":[7,0,0,0,1,3,10,14,63,2],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a68c843a7e99b8072f567c3540b243dfb":[7,0,0,0,1,3,10,14,63,4],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae551d6ab15875a7513a7f6f79c650f2c":[7,0,0,0,1,3,10,14,63,1],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae8e15077d2b7b473011aa4474d68fd13":[7,0,0,0,1,3,10,14,63,6],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[7,0,0,0,1,3,10,14,63,3],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595":[7,0,0,0,1,3,10,14,60],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595a2ced7cd57bec439c9966fd4b41850718":[7,0,0,0,1,3,10,14,60,1],
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595ade06fbaacc54b9a03a93e09f5c51db7e":[7,0,0,0,1,3,10,14,60,0],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038":[7,0,0,0,1,3,10,14,57],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a1d8a88e239cde106b375557fb799ef90":[7,0,0,0,1,3,10,14,57,6],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,10,14,57,12],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a421d6650ebd58f6ad30bc7c2c2a40eb8":[7,0,0,0,1,3,10,14,57,13],
@@ -240,14 +249,5 @@ var NAVTREEINDEX301 =
 "db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[7,0,0,0,2,2,0,9,12,1],
 "db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[7,0,0,0,2,2,0,9,12,6],
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[7,0,0,0,2,2,0,9,12,8],
-"db/db4/classSQLQueryHolder.html":[6,0,4437],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4437,0],
-"db/db5/structboss__hydross__the__unstable.html":[6,0,556],
-"db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[6,0,556,3],
-"db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[6,0,556,6],
-"db/db5/structboss__hydross__the__unstable.html#a219094dc5a81acb7d7ae86d5d7945da8":[6,0,556,10],
-"db/db5/structboss__hydross__the__unstable.html#a252d3abdf24c06922c88823bc5e535f3":[6,0,556,5],
-"db/db5/structboss__hydross__the__unstable.html#a3e9031d95c9e62cbd83eeba4af6c965a":[6,0,556,4],
-"db/db5/structboss__hydross__the__unstable.html#a4fd2138ce9962d89410b57702d7df33d":[6,0,556,2],
-"db/db5/structboss__hydross__the__unstable.html#a8e385f4f7f448033b00828540aa16cde":[6,0,556,0]
+"db/db4/classSQLQueryHolder.html":[6,0,4437]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"d3/d7f/structboss__emperor__dagran__thaurissan.html#a33efe0ee1573c4b43cdf58bdce303e5d":[6,0,458,0],
+"d3/d7f/structboss__emperor__dagran__thaurissan.html#a526a7726e2838ef4c49cca8dd6fc68c9":[6,0,458,1],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#a5ccda3d76afe43804c86e193afa9b80c":[6,0,458,4],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#a7f7ae37e4abbe37f4fa46b98af3ac03a":[6,0,458,3],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#aaadeb10c22c598cd10ccde83425fbf71":[6,0,458,6],
@@ -10,8 +12,8 @@ var NAVTREEINDEX103 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d84/LFGScripts_8cpp.html#a9624b9328e26a9f420a4a3f07e253763":[7,0,0,0,1,2,15,10,0],
 "d3/d84/PoolMgr_8h.html":[7,0,0,0,1,2,34,1],
 "d3/d84/PoolMgr_8h.html#a54dd98ebecf13a92dd29f7d3789d5b56":[7,0,0,0,1,2,34,1,11],
-"d3/d84/PoolMgr_8h.html#a6fd2b29871e3f63cf9cc493968a0ab74":[7,0,0,0,1,2,34,1,7],
-"d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85":[7,0,0,0,1,2,34,1,6],
-"d3/d84/PoolMgr_8h.html#ace9e74e256f166b08f2834044ecfba43":[7,0,0,0,1,2,34,1,9]
+"d3/d84/PoolMgr_8h.html#a6fd2b29871e3f63cf9cc493968a0ab74":[7,0,0,0,1,2,34,1,7]
 };

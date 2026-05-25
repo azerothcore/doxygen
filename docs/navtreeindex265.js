@@ -1,5 +1,14 @@
 var NAVTREEINDEX265 =
 {
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdaae2978e3479a298d86d8c5c57b0c734c":[7,0,0,0,1,3,5,12,9,6,29],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdacdf52ce130a3859a52c6aab654d7290f":[7,0,0,0,1,3,5,12,9,6,28],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdacf739e85d59c06eec4902f13bc565fe1":[7,0,0,0,1,3,5,12,9,6,26],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdae092e4fa982331f6b3c2feda0fa11cff":[7,0,0,0,1,3,5,12,9,6,15],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdae3a118d7269afc21b3398e745a6eaad2":[7,0,0,0,1,3,5,12,9,6,0],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdae574f06e115eeb0ad9aadd7f9e7ffc6f":[7,0,0,0,1,3,5,12,9,6,3],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdaea08ff310ee1bf320fb1248cfa315ab4":[7,0,0,0,1,3,5,12,9,6,16],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fdaf20a3af8d218ff280bb0188c62a29672":[7,0,0,0,1,3,5,12,9,6,18],
+"da/d4c/violet__hold_8h.html#a1c44ddf1b0d0773406cb480db91c54e3":[7,0,0,0,1,3,5,12,9,28],
 "da/d4c/violet__hold_8h.html#a3ae877d5b867fe1c1ed28d65b28f19b3":[7,0,0,0,1,3,5,12,9,20],
 "da/d4c/violet__hold_8h.html#a4e6a7494b862bb68d38e8a8c7ffc7656":[7,0,0,0,1,3,5,12,9,39],
 "da/d4c/violet__hold_8h.html#a5012dcce247705cd082204f6dae90b04":[7,0,0,0,1,3,5,12,9,38],
@@ -240,14 +249,5 @@ var NAVTREEINDEX265 =
 "da/d56/classspell__q12308__escape__from__silverbrook.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9":[6,0,3878,2],
 "da/d56/classspell__q12308__escape__from__silverbrook.html#a4c837e7342603519d1f23ab8702c3160":[6,0,3878,0],
 "da/d56/classspell__q12308__escape__from__silverbrook.html#ad742f4ce0d0db70427f7ba849a4526df":[6,0,3878,3],
-"da/d56/classspell__q12308__escape__from__silverbrook.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371":[6,0,3878,1],
-"da/d56/structFBSPosition.html":[6,0,1062],
-"da/d56/structFBSPosition.html#a44c7a625896d6fddc15da39988e0b042":[6,0,1062,0],
-"da/d56/structFBSPosition.html#accd6af0ddfa248a972612d802a1e641e":[6,0,1062,1],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html":[6,0,1671,0],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a35b8375f1b3407f5cee653ee118e0697":[6,0,1671,0,6],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a6ccdb6a59b93999c01d434bcda593f25":[6,0,1671,0,4],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a6e108052a7f9911dcd1b0ed13b2b8a0f":[6,0,1671,0,0],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8353dea0de91017223c7624a5a96ebec":[6,0,1671,0,1],
-"da/d56/structnpc__black__knight__ghoul_1_1npc__black__knight__ghoulAI.html#a8a33efa0719063a9565bc07143f8ad83":[6,0,1671,0,2]
+"da/d56/classspell__q12308__escape__from__silverbrook.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371":[6,0,3878,1]
 };

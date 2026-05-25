@@ -1,5 +1,15 @@
 var NAVTREEINDEX351 =
 {
+"dd/db3/classReputationMgr.html#a58f870fddc369974199f4cc8305cad74":[6,0,2513,32],
+"dd/db3/classReputationMgr.html#a627447572673d6632cdf003ade10f330":[6,0,2513,50],
+"dd/db3/classReputationMgr.html#a6502909f439c2e51ca72bf4ebf5f039a":[6,0,2513,15],
+"dd/db3/classReputationMgr.html#a6be2da4d75dcfec5d3fdbe742a2eb165":[6,0,2513,1],
+"dd/db3/classReputationMgr.html#a7059afa238063feea645bbe3e08bc081":[6,0,2513,28],
+"dd/db3/classReputationMgr.html#a70e09c10fe34fcadc2e14b474accd451":[6,0,2513,11],
+"dd/db3/classReputationMgr.html#a70ef6efe36480b64a639a1a016ee6b6b":[6,0,2513,35],
+"dd/db3/classReputationMgr.html#a7237076b0c82406fdaf401bb8100f8b5":[6,0,2513,5],
+"dd/db3/classReputationMgr.html#a840258781abe2d2143525c7467c71258":[6,0,2513,2],
+"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[6,0,2513,9],
 "dd/db3/classReputationMgr.html#a89cc0607cce518e525c286a8693715c7":[6,0,2513,29],
 "dd/db3/classReputationMgr.html#a8d15ac9b059d6641df0a91ddfaf70d0b":[6,0,2513,27],
 "dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[6,0,2513,42],
@@ -103,8 +113,8 @@ var NAVTREEINDEX351 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,641,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[6,0,4319],
@@ -239,15 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0":[7,0,0,0,1,3,4,6,1,4,3],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44":[7,0,0,0,1,3,4,6,1,4,4],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034":[7,0,0,0,1,3,4,6,1,4,0],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,6,1,4,15],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478":[7,0,0,0,1,3,4,6,1,4,10],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364":[7,0,0,0,1,3,4,6,1,4,14],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52":[7,0,0,0,1,3,4,6,1,4,21],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4":[7,0,0,0,1,3,4,6,1,4,17],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963":[7,0,0,0,1,3,4,6,1,4,18],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e":[7,0,0,0,1,3,4,6,1,4,20],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635":[7,0,0,0,1,3,4,6,1,4,2],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405":[7,0,0,0,1,3,4,6,1,4,16],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943":[7,0,0,0,1,3,4,6,1,4,6],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,4,6,1,4,9]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,6,1,4,15]
 };

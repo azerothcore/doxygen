@@ -1,5 +1,16 @@
 var NAVTREEINDEX421 =
 {
+"df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,376,1],
+"df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,376,0],
+"df/dee/classspell__stinky__precious__decimate.html":[6,0,4106],
+"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,4106,0],
+"df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,4106,1],
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,4106,2],
+"df/df0/structboss__tavarok.html":[6,0,735],
+"df/df0/structboss__tavarok.html#a0bea2cc724d92616056b7c5ca2dd03c1":[6,0,735,4],
+"df/df0/structboss__tavarok.html#a2c99df9457c548ee562fde920592ea88":[6,0,735,3],
+"df/df0/structboss__tavarok.html#a64cae2439cd6e4334ced5d4ef01ef942":[6,0,735,2],
+"df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[6,0,735,1],
 "df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[6,0,735,0],
 "df/df1/ConditionScript_8cpp.html":[7,0,0,0,1,2,38,0,39],
 "df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,39,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX421 =
 "df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[6,0,1875,7],
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[6,0,1875,3],
 "df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[6,0,1875,1],
-"df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[6,0,1875,4],
-"df/dfa/structnpc__hover__disk.html#ab7e712a9d5aec7c3112796316a7fe534":[6,0,1875,5],
-"df/dfa/structnpc__hover__disk.html#add98702312084df553e24bcd4b632bb3":[6,0,1875,6],
-"df/dfa/structnpc__hover__disk.html#ae4141e5aed3cfdbf8d76ad55ce4463d9":[6,0,1875,2],
-"df/dfa/structnpc__hover__disk.html#af6f8ef0df4b64540f99adebdd709b00e":[6,0,1875,0],
-"df/dfa/zone__ironforge_8cpp.html":[7,0,0,0,1,3,2,26],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e":[7,0,0,0,1,3,2,26,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[7,0,0,0,1,3,2,26,1,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[7,0,0,0,1,3,2,26,1,3],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa":[7,0,0,0,1,3,2,26,1,2],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[7,0,0,0,1,3,2,26,1,0],
-"df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[7,0,0,0,1,3,2,26,2]
+"df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[6,0,1875,4]
 };

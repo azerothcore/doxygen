@@ -1,5 +1,14 @@
 var NAVTREEINDEX284 =
 {
+"db/d07/classWorldSocketThread.html#a01090d6713f49dc026f77f8481b492cb":[6,0,4633,0],
+"db/d07/classWorldSocketThread.html#a4a978f9304e4aeabfb9ce1998b8a27cc":[6,0,4633,1],
+"db/d07/classnpc__nerubian__burrower.html":[6,0,2002],
+"db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[6,0,2002,1],
+"db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[6,0,2002,2],
+"db/d07/instance__obsidian__sanctum_8cpp.html":[7,0,0,0,1,3,5,1,0,1],
+"db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,1,0,1,3],
+"db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[7,0,0,0,1,3,5,1,0,1,2],
+"db/d08/classspell__hun__piercing__shots.html":[6,0,3225],
 "db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[6,0,3225,3],
 "db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[6,0,3225,4],
 "db/d08/classspell__hun__piercing__shots.html#a4ac70c7765266f36b7689ffcc2bed15d":[6,0,3225,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX284 =
 "db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff":[7,0,0,0,1,2,3,2,1,2],
 "db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,5],
 "db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
-"db/d14/classLootTemplate.html":[6,0,1479],
-"db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1479,7],
-"db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1479,9],
-"db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1479,2],
-"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[6,0,1479,8],
-"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[6,0,1479,6],
-"db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[6,0,1479,4],
-"db/d14/classLootTemplate.html#a7835ebf003ae3d665656efcc923daaeb":[6,0,1479,11],
-"db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[6,0,1479,3],
-"db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[6,0,1479,13]
+"db/d14/classLootTemplate.html":[6,0,1479]
 };

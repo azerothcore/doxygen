@@ -16,6 +16,7 @@ var classBattlefieldMgr =
     [ "HandlePlayerResurrects", "d3/df7/classBattlefieldMgr.html#a458fb8b4943de82f0574ddd63ba466a9", null ],
     [ "InitBattlefield", "d3/df7/classBattlefieldMgr.html#a244ce1743c237e95c08dc8861f3ce4b3", null ],
     [ "instance", "d3/df7/classBattlefieldMgr.html#af96d6d44aa8936f94c20d1bd92af2fb3", null ],
+    [ "IsWintergraspAttackerVictory", "d3/df7/classBattlefieldMgr.html#a188f15f4cac5151c2338f3e646061a51", null ],
     [ "Update", "d3/df7/classBattlefieldMgr.html#a15548a7b124741e2fa9f36f1bf087458", null ],
     [ "_battlefieldMap", "d3/df7/classBattlefieldMgr.html#a08c3f04abda757dd62a9e90fdbba26f9", null ],
     [ "_battlefieldSet", "d3/df7/classBattlefieldMgr.html#a4d6325668521e88a17a67318970570e1", null ],

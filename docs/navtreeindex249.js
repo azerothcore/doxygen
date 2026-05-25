@@ -1,5 +1,13 @@
 var NAVTREEINDEX249 =
 {
+"d9/d85/structboss__algalon__the__observer.html#ab9deffb6af78a88e000b206632e801f9":[6,0,385,4],
+"d9/d85/structboss__algalon__the__observer.html#abbd0be74c681da6606d79a1b6a210ffa":[6,0,385,3],
+"d9/d85/structboss__algalon__the__observer.html#abd66b84088263188a45f62a0ca285e22":[6,0,385,21],
+"d9/d85/structboss__algalon__the__observer.html#aca6ba41d820682a7af80d5f6e492bd80":[6,0,385,14],
+"d9/d85/structboss__algalon__the__observer.html#ace0156d62013cf93afb9eda7ce511570":[6,0,385,20],
+"d9/d85/structboss__algalon__the__observer.html#ad2bdc1d3cd5fbbda4cf0c504b6c024b7":[6,0,385,15],
+"d9/d85/structboss__algalon__the__observer.html#ad30f5828be9d38a9473b93ff780a196d":[6,0,385,9],
+"d9/d85/structboss__algalon__the__observer.html#ad5851cc0f7fc5a7dcfd9986b6b26579a":[6,0,385,2],
 "d9/d85/structboss__algalon__the__observer.html#ae1f987efb9b167719520ff9e560da568":[6,0,385,8],
 "d9/d85/structboss__algalon__the__observer.html#ae8b810a6495b7c2fb8bba59252655b76":[6,0,385,7],
 "d9/d85/structboss__algalon__the__observer.html#aed6084e6c8f289905675d0c908653855":[6,0,385,23],
@@ -241,13 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3939,0],
 "d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3939,1],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,2039],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,2039,3],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a3a42e83216c0111a740a0c89e57c6f62":[6,0,2039,5],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a58ef19b8c08aee764bdd55e480d9d750":[6,0,2039,0],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a6c0d3181b913c5022325f66586f66bfa":[6,0,2039,2],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a72bfd4cf6c734d1f1070a1560131667d":[6,0,2039,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#ae0a6d4850a0a0da4bd04227b11bae9e4":[6,0,2039,4],
-"d9/d90/zone__eversong__woods_8cpp.html":[7,0,0,0,1,3,2,23],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e":[7,0,0,0,1,3,2,23,3],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9":[7,0,0,0,1,3,2,23,3,4]
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,2039,3]
 };

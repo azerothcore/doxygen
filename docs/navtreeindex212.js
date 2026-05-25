@@ -1,5 +1,13 @@
 var NAVTREEINDEX212 =
 {
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,4085,2],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,4085,5],
+"d7/dbc/classspell__warr__glyph__of__blocking.html":[6,0,4296],
+"d7/dbc/classspell__warr__glyph__of__blocking.html#a04085f70b61ea7ff2073a1cd777eca1b":[6,0,4296,3],
+"d7/dbc/classspell__warr__glyph__of__blocking.html#a052f2a48c2b30b5e83c95eb4aada0899":[6,0,4296,2],
+"d7/dbc/classspell__warr__glyph__of__blocking.html#abdb4073728e7e637a8538a238eda2f6d":[6,0,4296,1],
+"d7/dbc/classspell__warr__glyph__of__blocking.html#ae41ac4278c643bcd14ff4ab0ecc6dc46":[6,0,4296,0],
+"d7/dbc/structnpc__wild__wyrm.html":[6,0,2288],
 "d7/dbc/structnpc__wild__wyrm.html#a0ff51f46c203f3b1b8dea063463c5c4d":[6,0,2288,1],
 "d7/dbc/structnpc__wild__wyrm.html#a2e826c49b41a389ddfbeac3d3c7933f5":[6,0,2288,6],
 "d7/dbc/structnpc__wild__wyrm.html#a362052015873c615448bec978d744c9e":[6,0,2288,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc6/boss__galvangar_8cpp.html":[7,0,0,0,1,3,2,0,3],
 "d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,0,3,3],
 "d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[7,0,0,0,1,3,2,0,3,3,1],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,0,3,3,0],
-"d7/dc6/boss__galvangar_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[7,0,0,0,1,3,2,0,3,4],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,0,3,2],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,0,3,2,0],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,0,3,2,4],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,0,3,2,1],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ab9bde135f246a5737742ca1feb30f6":[7,0,0,0,1,3,2,0,3,2,3],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298cabda9eea4872acb462aa80a0002731e96":[7,0,0,0,1,3,2,0,3,2,2],
-"d7/dc6/classlfg_1_1LfgPlayerData.html":[5,0,17,7]
+"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,0,3,3,0]
 };
