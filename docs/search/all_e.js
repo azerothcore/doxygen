@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_0',['n',['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N']]],
+  ['n_0',['n',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n']]],
   ['n_5fthadell_1',['N_THADELL',['../dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e',1,'zone_netherstorm.cpp']]],
   ['n_5ftrainer_5farmor1_2',['N_TRAINER_ARMOR1',['../d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a651d766296878207717573cbf3b2982b',1,'npc_professions.cpp']]],
   ['n_5ftrainer_5farmor2_3',['N_TRAINER_ARMOR2',['../d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a9db6fe91599ef0f5bd95330e2fd22ae0',1,'npc_professions.cpp']]],
@@ -343,7 +343,7 @@ var searchData=
   ['nodeoccupied_340',['NodeOccupied',['../dc/d78/classBattlegroundAB.html#a46ceb17ecade08926cf16f58f4f70a75',1,'BattlegroundAB']]],
   ['nodepoint_341',['nodePoint',['../dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5',1,'BattlegroundIC']]],
   ['nodepointinitial_342',['nodePointInitial',['../d0/d91/BattlegroundIC_8h.html#a791f951302a382136863381970015c01',1,'BattlegroundIC.h']]],
-  ['nodes_343',['nodes',['../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d',1,'RegularGrid2D::nodes'],['../d2/dc3/structWaypointPath.html#a6326c73791542489c7f4d098b05887fb',1,'WaypointPath::Nodes']]],
+  ['nodes_343',['nodes',['../d2/dc3/structWaypointPath.html#a6326c73791542489c7f4d098b05887fb',1,'WaypointPath::Nodes'],['../db/d62/classRegularGrid2D.html#a1f31b8ce99c32652c8b8c3b5063fe83d',1,'RegularGrid2D::nodes']]],
   ['nodestate_344',['nodeState',['../d7/d37/structICNodePoint.html#a214e160c6fd94cefb4d080a94a12ba56',1,'ICNodePoint']]],
   ['nodetype_345',['nodeType',['../d7/d37/structICNodePoint.html#a3b303a427c4a2248dade5eada6774dc9',1,'ICNodePoint']]],
   ['noggenfoggerelixirspells_346',['NoggenfoggerElixirSpells',['../db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018b',1,'spell_item.cpp']]],

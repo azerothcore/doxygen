@@ -1,9 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dc/dad/classspell__rog__turn__the__tables__proc.html":[6,0,3981],
-"dc/dad/classspell__rog__turn__the__tables__proc.html#a0c23c8b0fe938fd7556663880f40b9ef":[6,0,3981,2],
-"dc/dad/classspell__rog__turn__the__tables__proc.html#a34ca370993295225a779ee6537295112":[6,0,3981,0],
-"dc/dad/classspell__rog__turn__the__tables__proc.html#a523cf0c9aa9b3cf81c0cadd39252dd0f":[6,0,3981,1],
 "dc/dae/gruuls__lair_8h.html":[7,0,0,0,1,3,7,3,2],
 "dc/dae/gruuls__lair_8h.html#a02f4ee42fa7e8b8780181f1d48cecd84":[7,0,0,0,1,3,7,3,2,2],
 "dc/dae/gruuls__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,3,2,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX329 =
 "dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1810,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1810,1],
 "dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2940],
-"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2940,1]
+"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2940,1],
+"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2940,0],
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2940,3],
+"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2940,2],
+"dc/db5/classspell__item__persistent__shield.html":[6,0,3413]
 };

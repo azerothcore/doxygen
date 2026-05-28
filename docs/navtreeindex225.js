@@ -1,9 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/d70/classboss__renataki.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6":[6,0,688,1],
-"d8/d71/classspell__item__brittle__armor.html":[6,0,3320],
-"d8/d71/classspell__item__brittle__armor.html#a74dc9d9a57ed410b3c0d690418bfb4eb":[6,0,3320,1],
-"d8/d71/classspell__item__brittle__armor.html#a8769cbce815d1f1c457979743e10535c":[6,0,3320,2],
 "d8/d71/classspell__item__brittle__armor.html#a9309c0e435240bc656b3bfde2d923a9a":[6,0,3320,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html":[6,0,3770],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a2da64a27cfa5a68464f8f3a885e09751":[6,0,3770,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX225 =
 "d8/d74/classWorldSession.html#a4762f07280842b47417cacebeb847b63":[4,1,19,166],
 "d8/d74/classWorldSession.html#a47f3035a702dcec5384d575593efd0c9":[4,1,19,157],
 "d8/d74/classWorldSession.html#a47fa0d32b0cbbffadfcbf99d0cacc8ec":[4,1,19,537],
-"d8/d74/classWorldSession.html#a47fd2385b73c7888e3048839127ff8f6":[4,1,19,1]
+"d8/d74/classWorldSession.html#a47fd2385b73c7888e3048839127ff8f6":[4,1,19,1],
+"d8/d74/classWorldSession.html#a485122853dc7095cbedeea73ec307f43":[4,1,19,438],
+"d8/d74/classWorldSession.html#a48aa6a0623a2a8c3e6bc58753a525d0b":[4,1,19,306],
+"d8/d74/classWorldSession.html#a4926aeffc64b347414dedf9b3076f3df":[4,1,19,597],
+"d8/d74/classWorldSession.html#a4937159253f27798485871f0c0de0427":[4,1,19,73]
 };

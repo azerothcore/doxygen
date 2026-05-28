@@ -1,9 +1,5 @@
 var NAVTREEINDEX418 =
 {
-"df/dd9/classUnit.html#ad482bd8c555622ba8fa2d06f05a11c4b":[6,0,4528,44],
-"df/dd9/classUnit.html#ad53cf516713368986bab84af35245b53":[6,0,4528,522],
-"df/dd9/classUnit.html#ad5ce7d1b68b09a0394bcf60129b4b4f1":[6,0,4528,802],
-"df/dd9/classUnit.html#ad5dfdae7e2ebb21335b459c6426e0cfc":[6,0,4528,774],
 "df/dd9/classUnit.html#ad645ddddb1e58bbc08911d8c3055dc3f":[6,0,4528,311],
 "df/dd9/classUnit.html#ad6490e017c0a7974a607f4a2f63b6d48":[6,0,4528,76],
 "df/dd9/classUnit.html#ad6df47a81f5f5f147e68211ee935b398":[6,0,4528,672],
@@ -249,5 +245,9 @@ var NAVTREEINDEX418 =
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc29b75f9a69dd6e04ae8a4a7f1d12e":[7,0,0,0,1,3,5,6,4,56,22],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2243c6b1837c6b5f5f275258fcaf9040":[7,0,0,0,1,3,5,6,4,56,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca27ce2113fede018e9229be56f2399fc3":[7,0,0,0,1,3,5,6,4,56,26],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55":[7,0,0,0,1,3,5,6,4,56,6]
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55":[7,0,0,0,1,3,5,6,4,56,6],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca3645df35805ab8ed9dad1100ee4b6805":[7,0,0,0,1,3,5,6,4,56,29],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c8701fe24b29564f44324169886227d":[7,0,0,0,1,3,5,6,4,56,16],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca45eaf65f0a9f5b07780561ff77d4bff1":[7,0,0,0,1,3,5,6,4,56,24],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca48d7de370a501d796e26a61cf4e4162c":[7,0,0,0,1,3,5,6,4,56,10]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101":[7,0,0,0,1,2,7,0,1,22,1],
-"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d":[7,0,0,0,1,2,7,0,1,22,7],
-"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3":[7,0,0,0,1,2,7,0,1,22,4],
-"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aebeebfc0f9a748fb2493a0dfdb9ba907":[7,0,0,0,1,2,7,0,1,22,2],
 "d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8af7d014f58328ae201735423db3a91b75":[7,0,0,0,1,2,7,0,1,22,5],
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59":[7,0,0,0,1,2,7,0,1,25],
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a2fe196b931b02461431911cba7067da3":[7,0,0,0,1,2,7,0,1,25,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX177 =
 "d6/d59/classAuraScriptProcTestFixture.html#a30ebff666ac835168f1bf7d6aa771e0c":[6,0,298,9],
 "d6/d59/classAuraScriptProcTestFixture.html#a409ccb130f529cb20e5164b465e05ca6":[6,0,298,6],
 "d6/d59/classAuraScriptProcTestFixture.html#a65b0d4a0beb4c2f986f71ff5732e0f3c":[6,0,298,4],
-"d6/d59/classAuraScriptProcTestFixture.html#a782580d41f8233b93d51fe347601e730":[6,0,298,5]
+"d6/d59/classAuraScriptProcTestFixture.html#a782580d41f8233b93d51fe347601e730":[6,0,298,5],
+"d6/d59/classAuraScriptProcTestFixture.html#a81032fc22ce45902d34cf897606bd966":[6,0,298,1],
+"d6/d59/classAuraScriptProcTestFixture.html#a97d06c4fdf207051543fbf8c9207242e":[6,0,298,7],
+"d6/d59/classAuraScriptProcTestFixture.html#adee75944dc2e9a3fff7848d0ccfff527":[6,0,298,3],
+"d6/d59/classAutobroadcastMgr.html":[6,0,311]
 };

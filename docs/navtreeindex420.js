@@ -1,9 +1,5 @@
 var NAVTREEINDEX420 =
 {
-"df/ddc/classTaskScheduler.html#af3067f67a46b296be44fca007a2d3690":[6,0,4465,8],
-"df/ddc/classTaskScheduler.html#afa0f29cd0a38f5af81b8cd2888c81fa1":[6,0,4465,27],
-"df/ddc/classTaskScheduler.html#afabf8f475205d00eedb9c39d84af7aa3":[6,0,4465,37],
-"df/ddc/classTaskScheduler.html#afd7ca0f744e8f492f18b42d186ec0723":[6,0,4465,36],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,763,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa":[6,0,763,0,3],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd":[6,0,763,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX420 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,13,16,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,16,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,376],
-"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,376,2]
+"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,376,2],
+"df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,376,1],
+"df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,376,0],
+"df/dee/classspell__stinky__precious__decimate.html":[6,0,4106],
+"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,4106,0]
 };

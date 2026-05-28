@@ -1,9 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"db/d52/classspell__ulduar__stone__grip__cast__target.html#a4606d10a2699e3fb5290cefdc0876505":[6,0,4211,1],
-"db/d52/classspell__ulduar__stone__grip__cast__target.html#aa28f3565bddf70b98c945be7a7a37bad":[6,0,4211,2],
-"db/d52/classspell__ulduar__stone__grip__cast__target.html#ae9bbe2d4ce5413f040b8b5f73f985822":[6,0,4211,3],
-"db/d53/boss__prince__taldaram_8cpp.html":[7,0,0,0,1,3,5,0,0,5],
 "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,0,0,5,5],
 "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfa8fa0da219654d2d5e581fe241d5150dc":[7,0,0,0,1,3,5,0,0,5,5,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfac042d64bdbb8eb52c03e686a845b265e":[7,0,0,0,1,3,5,0,0,5,5,1],
@@ -46,8 +42,8 @@ var NAVTREEINDEX289 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,13,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3170],
@@ -249,5 +245,9 @@ var NAVTREEINDEX289 =
 "db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e":[6,0,4565,3],
 "db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88":[6,0,4565,38],
 "db/d5c/classWarden.html#af79f135bbac6904b2f80485ae838f570":[6,0,4565,13],
-"db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4565,32]
+"db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4565,32],
+"db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[6,0,4565,10],
+"db/d5c/classWarden.html#affe98268403db8e661541e7cc2b4714c":[6,0,4565,1],
+"db/d5c/classspell__pri__improved__spirit__tap.html":[6,0,3775],
+"db/d5c/classspell__pri__improved__spirit__tap.html#a13e108f88a07f0b46291cdc718022437":[6,0,3775,3]
 };

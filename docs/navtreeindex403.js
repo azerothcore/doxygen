@@ -1,9 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"df/d44/classspell__low__health__trigger.html":[6,0,3545],
-"df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[6,0,3545,2],
-"df/d44/classspell__low__health__trigger.html#a6a58808356785c25032c2befd429ff2b":[6,0,3545,3],
-"df/d44/classspell__low__health__trigger.html#a9d3b65b251cc9680352bbf056bb74f05":[6,0,3545,1],
 "df/d44/classspell__low__health__trigger.html#ad38771460ddf0f95783718775690d1f0":[6,0,3545,0],
 "df/d44/structBattlegroundData.html":[6,0,334],
 "df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[6,0,334,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX403 =
 "df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[6,0,166,4],
 "df/d56/classAreaBoundary.html#a6050e91b3d485e75186a2df9a56e8d38":[6,0,166,1],
 "df/d56/classAreaBoundary.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1":[6,0,166,3],
-"df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[6,0,166,6]
+"df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[6,0,166,6],
+"df/d56/classAreaBoundary.html#adf670910c492c08d3384c2dd1824e7ce":[6,0,166,2],
+"df/d56/classAreaBoundary.html#ae5580b0044dba24d100831fe51ee1abc":[6,0,166,5],
+"df/d56/classVMAP_1_1VMapMgr2.html":[6,0,11,21],
+"df/d56/classVMAP_1_1VMapMgr2.html":[5,0,31,21]
 };

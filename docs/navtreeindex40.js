@@ -1,10 +1,5 @@
 var NAVTREEINDEX40 =
 {
-"d1/dab/classnpc__wintergarde__gryphon.html#a16c01d26aef06358f979f59fe68c09ca":[6,0,2290,5],
-"d1/dab/classnpc__wintergarde__gryphon.html#a56a7973a05061197192111ecf55ef14a":[6,0,2290,8],
-"d1/dab/classnpc__wintergarde__gryphon.html#a6c87d55ef29e14b4b8b87a0321179542":[6,0,2290,3],
-"d1/dab/classnpc__wintergarde__gryphon.html#a7f20f5e124e013ad8f57ca31b9fb86d7":[6,0,2290,1],
-"d1/dab/classnpc__wintergarde__gryphon.html#a8f2faf49533d27d971110681e050c060":[6,0,2290,4],
 "d1/dab/classnpc__wintergarde__gryphon.html#aa161f280e7a7370696cecc27c51ee55c":[6,0,2290,7],
 "d1/dab/classnpc__wintergarde__gryphon.html#acd7cea6226034d53b854c5ed659ff949":[6,0,2290,2],
 "d1/dab/classnpc__wintergarde__gryphon.html#acf64143ea83321556156fde30e1a34d4":[6,0,2290,6],
@@ -249,5 +244,10 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4":[7,0,0,0,1,2,16,10,5,34,0],
 "d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4faa6c2bba993427bbcd1ee001e9730c59d":[7,0,0,0,1,2,16,10,5,34,1],
 "d1/daf/Unit_8h.html#aa02d6a93a0021b2c52a47f8bb09a173a":[7,0,0,0,1,2,16,10,5,16],
-"d1/daf/Unit_8h.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed":[7,0,0,0,1,2,16,10,5,21]
+"d1/daf/Unit_8h.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed":[7,0,0,0,1,2,16,10,5,21],
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930":[7,0,0,0,1,2,16,10,5,41],
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a1508cd45d5170a4c0e0b322cf862a5ae":[7,0,0,0,1,2,16,10,5,41,2],
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a686cebb344da5f1a40407c2feb03d2da":[7,0,0,0,1,2,16,10,5,41,0],
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a6a87e4624cd0ceb45668005528094937":[7,0,0,0,1,2,16,10,5,41,4],
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a753de913b5eed5c74aaa9d3b567a3980":[7,0,0,0,1,2,16,10,5,41,3]
 };

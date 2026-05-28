@@ -1,9 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d6/d90/classFormationMovementGenerator.html#afd67a9517a09f47f0e787205d1e62f18":[6,0,1086,12],
-"d6/d90/classspell__item__purified__shard__of__the__scale.html":[6,0,3420],
-"d6/d90/classspell__item__purified__shard__of__the__scale.html#a00864fa29b0f4e01f0ec3b007ba56913":[6,0,3420,0],
-"d6/d90/classspell__item__purified__shard__of__the__scale.html#a7d0a5ebb4f9f9742694967bf23a76ba8":[6,0,3420,2],
 "d6/d90/classspell__item__purified__shard__of__the__scale.html#a83020e052309f9905adde86bac3ef925":[6,0,3420,1],
 "d6/d90/classspell__item__purified__shard__of__the__scale.html#ac296ca5433b5bf1fc0d8c3401e43d912":[6,0,3420,3],
 "d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html":[6,0,1725,0],
@@ -216,12 +212,12 @@ var NAVTREEINDEX184 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,13,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,13,11,4,5],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[6,0,13,11,4,3],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,34,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,13,11,4,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[6,0,13,11,4,2],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[6,0,13,11,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[6,0,2703],
@@ -249,5 +245,9 @@ var NAVTREEINDEX184 =
 "d6/d9f/classspell__symbol__of__life__dummy.html#a7a249dd2bcdccf1a19d151d041a25215":[6,0,4122,2],
 "d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,4122,0],
 "d6/d9f/structCondition.html":[6,0,911],
-"d6/d9f/structCondition.html#a37333d2f5e007c96d2808b51cd95ce4e":[6,0,911,2]
+"d6/d9f/structCondition.html#a37333d2f5e007c96d2808b51cd95ce4e":[6,0,911,2],
+"d6/d9f/structCondition.html#a39ec8f2115b587bbdc87b9f90ac749ae":[6,0,911,17],
+"d6/d9f/structCondition.html#a3af1f0d924f6840b8a15c1a0847d6f13":[6,0,911,6],
+"d6/d9f/structCondition.html#a4296c140947f7b0abf41e29b36f1bbdf":[6,0,911,3],
+"d6/d9f/structCondition.html#a46a2dbfa4e2dc6250efb60025ddcad19":[6,0,911,4]
 };

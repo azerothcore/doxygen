@@ -1,9 +1,5 @@
 var NAVTREEINDEX193 =
 {
-"d7/d14/wmo_8h.html#ab265837fe64577975f97318431c69e9c":[7,0,0,0,3,4,17,9],
-"d7/d15/classspell__gen__replenishment__aura.html":[6,0,3091],
-"d7/d15/classspell__gen__replenishment__aura.html#a074a7de6cd4d930c1f23f6398c738bad":[6,0,3091,0],
-"d7/d15/classspell__gen__replenishment__aura.html#a335e1629b98bfacf6e4e565b94d4991e":[6,0,3091,3],
 "d7/d15/classspell__gen__replenishment__aura.html#a777803a61286e0eba31246d4771630df":[6,0,3091,1],
 "d7/d15/classspell__gen__replenishment__aura.html#ab76bc3927d3ce31ae061fe8577ca25f0":[6,0,3091,2],
 "d7/d16/classspell__call__wintergarde__gryphon.html":[6,0,2721],
@@ -96,10 +92,10 @@ var NAVTREEINDEX193 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2277,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4":[7,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[7,0,0,0,1,3,5,25,20],
@@ -249,5 +245,9 @@ var NAVTREEINDEX193 =
 "d7/d22/classachievement__flame__leviathan__towers.html#a1099385340b30a1a75655e2e7d2ba3cc":[6,0,56,2],
 "d7/d22/classachievement__flame__leviathan__towers.html#a491d66bdd373b6044e406126719ef910":[6,0,56,0],
 "d7/d22/classachievement__flame__leviathan__towers.html#ad6e9dee3f05afaca0a355b714bf75ea6":[6,0,56,1],
-"d7/d22/structboss__lavanthor.html":[6,0,606]
+"d7/d22/structboss__lavanthor.html":[6,0,606],
+"d7/d22/structboss__lavanthor.html#a16d7cd5596c20c3663d63549b33c8b4a":[6,0,606,2],
+"d7/d22/structboss__lavanthor.html#a4bc5fa66192daab98027539efda37bdc":[6,0,606,3],
+"d7/d22/structboss__lavanthor.html#a6f68cd280561b428400a08a155f83ccb":[6,0,606,4],
+"d7/d22/structboss__lavanthor.html#ad264818ef0f539c48160de9dbebeac7f":[6,0,606,0]
 };

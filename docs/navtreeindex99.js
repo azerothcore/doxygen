@@ -1,10 +1,5 @@
 var NAVTREEINDEX99 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baf8a5de834ee1f3f17d8ede6e1b6f1955":[7,0,0,0,1,2,48,7,0,416],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baf9c0df1b6cdd50327be508af560a5239":[7,0,0,0,1,2,48,7,0,473],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafad7a98b369baf6e27965d73f8941c56":[7,0,0,0,1,2,48,7,0,152],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafb3bfbc88a5b0bb2df19bb810debc00d":[7,0,0,0,1,2,48,7,0,308],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafb8cb23fe539e296e0ac71e2a0bbfbc3":[7,0,0,0,1,2,48,7,0,235],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafbb3c22a3000e5c700232e366c1206b8":[7,0,0,0,1,2,48,7,0,458],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafbd2d10782aecfcfaa18a0cf91ba97a2":[7,0,0,0,1,2,48,7,0,418],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafc2bdac70007898b64ed28a0eaff15d5":[7,0,0,0,1,2,48,7,0,68],
@@ -37,8 +32,8 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[6,0,6,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1212],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1212,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1212,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX99 =
 "d3/d57/classnpc__brunnhildar__prisoner.html#aa2a1787849c74a5163a39137c9d03d57":[6,0,1693,2],
 "d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html":[6,0,3670],
 "d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a25a2db5c19e721b112b7bc84b3ac0968":[6,0,3670,1],
-"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a6ef11d0538616315fa7cf098748aa01f":[6,0,3670,2]
+"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a6ef11d0538616315fa7cf098748aa01f":[6,0,3670,2],
+"d3/d57/classspell__obsidian__sanctum__flame__tsunami__leap.html#a71a9b9967528c1153ad1215635bc7d01":[6,0,3670,0],
+"d3/d57/classspell__random__aggro.html":[6,0,3937],
+"d3/d57/classspell__random__aggro.html#a2270ce546ae286ffa701d094df591aa2":[6,0,3937,1],
+"d3/d57/classspell__random__aggro.html#a710f2a60bf6ae00909d279b98ac6b7d6":[6,0,3937,2],
+"d3/d57/classspell__random__aggro.html#a76b09288d14d399735250607e2105eb3":[6,0,3937,0]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX341 =
 {
-"dd/d3b/structGameObjectTemplate.html#a2a51882cc74f07131c149d93f10dbee2":[6,0,1116,165],
-"dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[6,0,1116,83],
-"dd/d3b/structGameObjectTemplate.html#a2b0cb20e680729e174de765842e13cc0":[6,0,1116,173],
-"dd/d3b/structGameObjectTemplate.html#a2b485d6e3b1a0b38cf445c3a2cde1766":[6,0,1116,5],
 "dd/d3b/structGameObjectTemplate.html#a2bf4b958a8e735a48bb189f51c64c4a5":[6,0,1116,153],
 "dd/d3b/structGameObjectTemplate.html#a2ca2583d686fd7567317a3bffccb5857":[6,0,1116,88],
 "dd/d3b/structGameObjectTemplate.html#a2ead90c8876b3b542d5b185124240aa7":[6,0,1116,13],
@@ -178,12 +174,12 @@ var NAVTREEINDEX341 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,11,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,11,8,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX341 =
 "dd/d44/structboss__akilzon.html#a4e8349e5ea281a40b9623b14e235bf41":[6,0,383,12],
 "dd/d44/structboss__akilzon.html#a54d2f18adf59dc89553dd1778e5ea0b1":[6,0,383,2],
 "dd/d44/structboss__akilzon.html#a691625a18583d58b1be4d2caeb21b1e0":[6,0,383,1],
-"dd/d44/structboss__akilzon.html#a69302e4ac8f349e884f0745fe66edce2":[6,0,383,6]
+"dd/d44/structboss__akilzon.html#a69302e4ac8f349e884f0745fe66edce2":[6,0,383,6],
+"dd/d44/structboss__akilzon.html#a8c56c6920488ac507e24db384782e2ab":[6,0,383,0],
+"dd/d44/structboss__akilzon.html#a93b34ed1f80dc138e54f77eb4f64b1bc":[6,0,383,3],
+"dd/d44/structboss__akilzon.html#a9c8eeed625f33153819df19b6c2c5670":[6,0,383,7],
+"dd/d44/structboss__akilzon.html#aaa712019eb5d17684d7f048f81e36270":[6,0,383,10]
 };

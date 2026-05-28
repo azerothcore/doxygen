@@ -1,9 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaca743710cf32d24958f1af55bf852dcf":[7,0,0,0,1,2,28,2,0,374],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaca9eb3e4f0ab77f1e898172ce770af86":[7,0,0,0,1,2,28,2,0,40],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aacad03e035d1adfaed3609372d4cebdcc":[7,0,0,0,1,2,28,2,0,575],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aacae5471604bb23abcfaa906cd9446740":[7,0,0,0,1,2,28,2,0,1095],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aacaf6daed806d05a17dd08ee521199974":[7,0,0,0,1,2,28,2,0,871],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aacaf7ef648d7902fc0ac3c3e23af5dcd9":[7,0,0,0,1,2,28,2,0,1134],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aacb069d259010822906a905e63d1b9f4a":[7,0,0,0,1,2,28,2,0,736],
@@ -249,5 +245,9 @@ var NAVTREEINDEX208 =
 "d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,0,0,5,5],
 "d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a085ef5f3f2013f01c6a98651cdbdb4ec":[7,0,0,0,1,3,5,9,0,0,5,6],
 "d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,0,0,5,0],
-"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6cc32e84f3c98592679f9bedfa4f941b":[7,0,0,0,1,3,5,9,0,0,5,8]
+"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6cc32e84f3c98592679f9bedfa4f941b":[7,0,0,0,1,3,5,9,0,0,5,8],
+"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,0,0,5,4],
+"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac2691ab143f9bb78ee98b70d877f1ba8":[7,0,0,0,1,3,5,9,0,0,5,7],
+"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac928b4da502001c93dc9b64cdffa16fd":[7,0,0,0,1,3,5,9,0,0,5,2],
+"d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad5e41eb8a74de8dc0075aeea76a5ae38":[7,0,0,0,1,3,5,9,0,0,5,1]
 };

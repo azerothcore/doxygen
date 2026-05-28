@@ -1,9 +1,5 @@
 var NAVTREEINDEX186 =
 {
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,8,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,8,0,29,0],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -208,13 +204,13 @@ var NAVTREEINDEX186 =
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1066,1],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1066,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1066,10],
-"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1066,9],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1066,8],
+"d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1066,9],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1066,15],
 "d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee":[6,0,1066,16],
 "d6/dc2/classFileLoader.html#a498a33d80768843b4ab1ff2d5ffe68d9":[6,0,1066,13],
-"d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1066,0],
 "d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1066,2],
+"d6/dc2/classFileLoader.html#a51313b536560d1d89d8350475d2bc749":[6,0,1066,0],
 "d6/dc2/classFileLoader.html#a738aeb2ebe751c9fc75013dbce30dcc4":[6,0,1066,4],
 "d6/dc2/classFileLoader.html#ab66347098d7c9ac470339c232f9b7588":[6,0,1066,12],
 "d6/dc2/classFileLoader.html#aed85cdbd6a4e52096292c6ed8578f7bd":[6,0,1066,7],
@@ -249,5 +245,9 @@ var NAVTREEINDEX186 =
 "d6/dc5/classspell__yogg__saron__sanity__reduce.html#aeec0bdd2e39db2da657247376ddcd195":[6,0,4355,3],
 "d6/dc6/classValithriaDespawner.html":[6,0,4544],
 "d6/dc6/classValithriaDespawner.html#a05bae39d642f294f2ef98151d66ba382":[6,0,4544,2],
-"d6/dc6/classValithriaDespawner.html#a4f8c63f52996da14078a7196cae3a00d":[6,0,4544,1]
+"d6/dc6/classValithriaDespawner.html#a4f8c63f52996da14078a7196cae3a00d":[6,0,4544,1],
+"d6/dc6/classValithriaDespawner.html#a64bf6181ad867efd987edec141ca3bf0":[6,0,4544,3],
+"d6/dc6/classValithriaDespawner.html#adf6f71ad9b97489f1e35781e491b28d8":[6,0,4544,0],
+"d6/dc6/classitem__mysterious__egg.html":[6,0,1402],
+"d6/dc6/classitem__mysterious__egg.html#a5ea72284626826b75819f89b3b91c540":[6,0,1402,1]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/d80/structCreatureBaseStats.html#aa6f523ebb8ef75db99db555547fd55d7":[6,0,943,3],
-"d7/d80/structCreatureBaseStats.html#ac77b82c063048b596f9ed3c74aeea63c":[6,0,943,13],
-"d7/d80/structCreatureBaseStats.html#ac8c2f3b237e17577b416b9b83abe1306":[6,0,943,14],
-"d7/d80/structCreatureBaseStats.html#ac8ec122f7d16f89b50301a636ebade6e":[6,0,943,2],
 "d7/d80/structCreatureBaseStats.html#ad197fff9ab9cd6b45ca703d656d1d930":[6,0,943,0],
 "d7/d80/structCreatureBaseStats.html#adb28470cabe897215c3888e72d238ddf":[6,0,943,11],
 "d7/d81/MapTree_8cpp.html":[7,0,0,0,0,1,1,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX201 =
 "d7/d8f/structWardenInitModuleRequest.html#abe4fda2fc5578fe76b2d3370c479191e":[6,0,4570,2],
 "d7/d8f/structWardenInitModuleRequest.html#ac28c9edfa97a37d58ff2981edf9fe3cb":[6,0,4570,0],
 "d7/d8f/structWardenInitModuleRequest.html#ac9ad8e642e309dec3d30fa0da0525b4b":[6,0,4570,13],
-"d7/d8f/structWardenInitModuleRequest.html#ad77d736ef34332d7b92ca0c0d92148cb":[6,0,4570,19]
+"d7/d8f/structWardenInitModuleRequest.html#ad77d736ef34332d7b92ca0c0d92148cb":[6,0,4570,19],
+"d7/d8f/structWardenInitModuleRequest.html#ad7bc62293d89cc9ab7d3311e1dc32697":[6,0,4570,21],
+"d7/d8f/structWardenInitModuleRequest.html#ae59dcfbd160fbdbfd6a0f3743248bc06":[6,0,4570,17],
+"d7/d8f/structWardenInitModuleRequest.html#aee882e52535783c798f4294adec5cbf5":[6,0,4570,11],
+"d7/d90/ScriptObject_8h.html":[7,0,0,0,1,2,38,6]
 };

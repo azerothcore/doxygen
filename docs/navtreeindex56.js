@@ -1,10 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d38/northrend__script__loader_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[7,0,0,0,1,3,5,14,65],
-"d2/d38/northrend__script__loader_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,14,50],
-"d2/d38/northrend__script__loader_8cpp.html#a0396b238fb9b45748a0056f14b3b5c34":[7,0,0,0,1,3,5,14,66],
-"d2/d38/northrend__script__loader_8cpp.html#a06823f38ce159119a322b18ac9bbfce8":[7,0,0,0,1,3,5,14,110],
-"d2/d38/northrend__script__loader_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,14,84],
 "d2/d38/northrend__script__loader_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,14,140],
 "d2/d38/northrend__script__loader_8cpp.html#a09ed7c7f3de43176bd1f2dd593481558":[7,0,0,0,1,3,5,14,88],
 "d2/d38/northrend__script__loader_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[7,0,0,0,1,3,5,14,32],
@@ -249,5 +244,10 @@ var NAVTREEINDEX56 =
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7e835ccb58da61dbafd2e2cff72ab0d3":[7,0,0,0,1,3,7,5,0,4,2,6],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a873c7960701a6975e6fc35de29ea18df":[7,0,0,0,1,3,7,5,0,4,2,9],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,0,4,2,1],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aadfd9802f713462e307b1944d25c1789":[7,0,0,0,1,3,7,5,0,4,2,12]
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aadfd9802f713462e307b1944d25c1789":[7,0,0,0,1,3,7,5,0,4,2,12],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68abecdefd780f9a204ddcd4dd65111e371":[7,0,0,0,1,3,7,5,0,4,2,7],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68ace53508f972877b973ba6de13e9b300f":[7,0,0,0,1,3,7,5,0,4,2,8],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#ae4050b59006e0148e61d9c82d76f5647":[7,0,0,0,1,3,7,5,0,4,4],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,5,0,4,1],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0dcba09ac1290ee56bf1edbdd8a0ebc2":[7,0,0,0,1,3,7,5,0,4,1,4]
 };

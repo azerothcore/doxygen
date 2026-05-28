@@ -1,9 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"de/dc7/structnpc__erekem__guard.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5":[6,0,1789,0],
-"de/dc7/structnpc__erekem__guard.html#aacdc16855938d9f133b751f91b5e9402":[6,0,1789,3],
-"de/dc7/structnpc__erekem__guard.html#ae57b5c4e61d9e9475c66b68797a51f09":[6,0,1789,4],
-"de/dc7/structnpc__erekem__guard.html#af890899c6d5e0b67fa5b0336c5a31dfc":[6,0,1789,6],
 "de/dc8/classAuthCrypt.html":[6,0,306],
 "de/dc8/classAuthCrypt.html#a385fe62742cdbbf62725ace616a06b37":[6,0,306,2],
 "de/dc8/classAuthCrypt.html#a552bd409afb5fcda8a11627ccb20e4b0":[6,0,306,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX392 =
 "de/ddc/classIgbExplosionCheck.html":[6,0,1306],
 "de/ddc/classIgbExplosionCheck.html#a28ce6685366e99db2aa1e4022012f943":[6,0,1306,1],
 "de/ddc/classIgbExplosionCheck.html#a413ee8f2218621d274d118aea967dc9b":[6,0,1306,2],
-"de/ddc/classIgbExplosionCheck.html#ae67cca111f26a275614810cbe053bcd8":[6,0,1306,0]
+"de/ddc/classIgbExplosionCheck.html#ae67cca111f26a275614810cbe053bcd8":[6,0,1306,0],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html":[6,0,3438],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#a19c34d190abeab629f48cbbaaa066cf8":[6,0,3438,0],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#a7f0074e18ffddba1383b01ce774ecff5":[6,0,3438,3],
+"de/ddc/classspell__item__shiny__shard__of__the__scale.html#aaf5c649ef33b57ac964613308d3357d1":[6,0,3438,1]
 };

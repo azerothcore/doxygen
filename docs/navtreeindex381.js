@@ -1,9 +1,5 @@
 var NAVTREEINDEX381 =
 {
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fad7fd8228a27e43e397b582900da23be5":[7,0,0,0,1,2,13,1,12,27],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae05bf66f17b0ae12099dd06fd8fe663b":[7,0,0,0,1,2,13,1,12,29],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae06b8a3a1af708856bb1caa1c84afe8f":[7,0,0,0,1,2,13,1,12,11],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec4ffb3080e8e29725c2061a190b7cdb":[7,0,0,0,1,2,13,1,12,1],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec5ec463cb39f566d571c9d4d4083824":[7,0,0,0,1,2,13,1,12,4],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faed815ad33055c47851099c82c07932f1":[7,0,0,0,1,2,13,1,12,28],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faf2071663de62aaee1a92f9cf84f578ed":[7,0,0,0,1,2,13,1,12,7],
@@ -249,5 +245,9 @@ var NAVTREEINDEX381 =
 "de/d6e/structBattlegroundWGScore.html":[6,0,356],
 "de/d6e/structBattlegroundWGScore.html#a191e205e08ef15cc36dabedc32614fd2":[6,0,356,3],
 "de/d6e/structBattlegroundWGScore.html#a23ff00f10d07c1a601e9e1d0eb05b1da":[6,0,356,6],
-"de/d6e/structBattlegroundWGScore.html#a4285b67c5d8593dce759422a4eb78c77":[6,0,356,5]
+"de/d6e/structBattlegroundWGScore.html#a4285b67c5d8593dce759422a4eb78c77":[6,0,356,5],
+"de/d6e/structBattlegroundWGScore.html#a43b7933c5e217376e5bb10e9b5bb208b":[6,0,356,0],
+"de/d6e/structBattlegroundWGScore.html#a804e56dbd666336d961cce2b0e4d6452":[6,0,356,1],
+"de/d6e/structBattlegroundWGScore.html#aa560d7f5f13dd235d43a9e3571090055":[6,0,356,4],
+"de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3":[6,0,356,2]
 };

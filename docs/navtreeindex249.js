@@ -1,9 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"d9/d85/structboss__algalon__the__observer.html#ab9deffb6af78a88e000b206632e801f9":[6,0,385,4],
-"d9/d85/structboss__algalon__the__observer.html#abbd0be74c681da6606d79a1b6a210ffa":[6,0,385,3],
-"d9/d85/structboss__algalon__the__observer.html#abd66b84088263188a45f62a0ca285e22":[6,0,385,21],
-"d9/d85/structboss__algalon__the__observer.html#aca6ba41d820682a7af80d5f6e492bd80":[6,0,385,14],
 "d9/d85/structboss__algalon__the__observer.html#ace0156d62013cf93afb9eda7ce511570":[6,0,385,20],
 "d9/d85/structboss__algalon__the__observer.html#ad2bdc1d3cd5fbbda4cf0c504b6c024b7":[6,0,385,15],
 "d9/d85/structboss__algalon__the__observer.html#ad30f5828be9d38a9473b93ff780a196d":[6,0,385,9],
@@ -249,5 +245,9 @@ var NAVTREEINDEX249 =
 "d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3939,0],
 "d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3939,1],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,2039],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,2039,3]
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a18c06958e6b3d4306a6fdb5f9924d7ff":[6,0,2039,3],
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a3a42e83216c0111a740a0c89e57c6f62":[6,0,2039,5],
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a58ef19b8c08aee764bdd55e480d9d750":[6,0,2039,0],
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a6c0d3181b913c5022325f66586f66bfa":[6,0,2039,2],
+"d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a72bfd4cf6c734d1f1070a1560131667d":[6,0,2039,1]
 };

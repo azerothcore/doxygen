@@ -69,6 +69,7 @@ var classBattlefield =
     [ "PlayerAskToLeave", "d6/d26/classBattlefield.html#aaae93944710d031b6f83c7bf2100bc95", null ],
     [ "RegisterZone", "d6/d26/classBattlefield.html#a853ec557d586b776edb2b69758660b29", null ],
     [ "RemovePlayerFromResurrectQueue", "d6/d26/classBattlefield.html#ae72d40d566a2facbc55946b30a7c1f10", null ],
+    [ "RemovePlayerFromTracking", "d6/d26/classBattlefield.html#a822c5e38f87a359bf2c16f4d37ef33c8", null ],
     [ "SendAreaSpiritHealerQueryOpcode", "d6/d26/classBattlefield.html#a52b591dfc52ab42ddf19fbb0fd397d65", null ],
     [ "SendInitWorldStatesToAll", "d6/d26/classBattlefield.html#a3465aabf6b7ee665df523c59b05bed68", null ],
     [ "SendRemoveWorldStates", "d6/d26/classBattlefield.html#a536403dc8cb245f3ef82ccf53f056fed", null ],

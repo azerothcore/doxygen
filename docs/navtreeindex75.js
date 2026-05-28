@@ -1,10 +1,5 @@
 var NAVTREEINDEX75 =
 {
-"d2/dd0/structAcore_1_1MessageDistDeliverer.html#acfda3713bbde51a110cb160f0325f848":[5,0,0,83,13],
-"d2/dd0/structAcore_1_1MessageDistDeliverer.html#af085a9490dfd5a1e577bda6d8333fe1d":[6,0,0,71,1],
-"d2/dd0/structAcore_1_1MessageDistDeliverer.html#af085a9490dfd5a1e577bda6d8333fe1d":[5,0,0,83,1],
-"d2/dd0/structAcore_1_1MessageDistDeliverer.html#af44878b494b1412f0d08248f6a88fff6":[6,0,0,71,2],
-"d2/dd0/structAcore_1_1MessageDistDeliverer.html#af44878b494b1412f0d08248f6a88fff6":[5,0,0,83,2],
 "d2/dd0/structnpc__hyjal__frost__wyrm.html":[6,0,1876],
 "d2/dd0/structnpc__hyjal__frost__wyrm.html#a182c3b440f74a4ebe6dee64651bf701f":[6,0,1876,6],
 "d2/dd0/structnpc__hyjal__frost__wyrm.html#a23dace13bb2811dea43b63f0b970a2ce":[6,0,1876,3],
@@ -70,14 +65,14 @@ var NAVTREEINDEX75 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#a88f9d4e72273f8f835e809b27d5b52d8":[6,0,2091,0,2],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#ab3c6c27a31f12443efcad314cbfa1129":[6,0,2091,0,5],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[6,0,2091,0,4],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,13,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,13,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[6,0,13,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,13,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,13,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,13,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[7,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5":[7,0,0,0,1,3,5,8,1,5,4],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44":[7,0,0,0,1,3,5,8,1,5,4,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX75 =
 "d2/ddf/structboss__chromaggus.html#a2da694ece234807365ce4f22e067eb5c":[6,0,426,0],
 "d2/ddf/structboss__chromaggus.html#a3c04a19e87a122c12508e181319411a0":[6,0,426,9],
 "d2/ddf/structboss__chromaggus.html#a4c19a112decabb38f1bca7dc60d622ef":[6,0,426,10],
-"d2/ddf/structboss__chromaggus.html#a5d46c6903fd106fd83f8115b48d40cf9":[6,0,426,8]
+"d2/ddf/structboss__chromaggus.html#a5d46c6903fd106fd83f8115b48d40cf9":[6,0,426,8],
+"d2/ddf/structboss__chromaggus.html#a790a3e06fb4db275bb447b15bb838508":[6,0,426,4],
+"d2/ddf/structboss__chromaggus.html#a7a9e301d17657ace82b4243814cbb52c":[6,0,426,3],
+"d2/ddf/structboss__chromaggus.html#abc27a22d82555fe3301708e9aaa61997":[6,0,426,7],
+"d2/ddf/structboss__chromaggus.html#ac8d72d4c3b265abca798c9ddc166df3b":[6,0,426,2],
+"d2/ddf/structboss__chromaggus.html#aed1d8ef49450c5495045bd62f0f3e2e6":[6,0,426,1]
 };

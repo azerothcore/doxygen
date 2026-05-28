@@ -1,9 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d6/dda/structnpc__hor__lich__king.html#acab01caba2cf66c21fe8a164f77491f1":[6,0,1869,12],
-"d6/dda/structnpc__hor__lich__king.html#acaf28a6ecc646d551795bcb10d803923":[6,0,1869,13],
-"d6/dda/structnpc__hor__lich__king.html#ad668e38cc7c651700686665d088d3a1d":[6,0,1869,9],
-"d6/dda/structnpc__hor__lich__king.html#ad6c3d39fa2762b82af94c75cb13e5293":[6,0,1869,1],
 "d6/dda/structnpc__hor__lich__king.html#ad7c511cfa480c3b6801b63e63c0013c6":[6,0,1869,14],
 "d6/dda/structnpc__hor__lich__king.html#ae7f41d3aaa28699aee477dfada1a962f":[6,0,1869,3],
 "d6/dda/structnpc__hor__lich__king.html#af656d33ad0117378a75551d54d2a376f":[6,0,1869,11],
@@ -249,5 +245,9 @@ var NAVTREEINDEX189 =
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html#a45540263b1795bfc48c91a117c239a6c":[7,0,0,0,3,2,0,2],
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html#aa116779ddd87038d6077a805710a7e4d":[7,0,0,0,3,2,0,1],
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html#ac84de12da6296e2f505870fda60891b1":[7,0,0,0,3,2,0,0],
-"d6/dea/classspell__item__healing__injector.html":[6,0,3374]
+"d6/dea/classspell__item__healing__injector.html":[6,0,3374],
+"d6/dea/classspell__item__healing__injector.html#a248ae6d2c8f8d6c014a0164105773836":[6,0,3374,2],
+"d6/dea/classspell__item__healing__injector.html#a4dd5016439e8798083fe3d4fa5458731":[6,0,3374,1],
+"d6/dea/classspell__item__healing__injector.html#ae24fd6305b5d17c2fbb6f03238b385c6":[6,0,3374,0],
+"d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[6,0,3374,3]
 };

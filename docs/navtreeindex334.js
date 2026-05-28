@@ -1,9 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[6,0,341,18],
-"dc/de8/classBattlegroundIC.html#a40e3f213ab179fed03eaf522671b8ed4":[6,0,341,28],
-"dc/de8/classBattlegroundIC.html#a498d3e2919acc4c8e8ae117dbbf4a1e0":[6,0,341,6],
-"dc/de8/classBattlegroundIC.html#a4a5ee6dea0efcf02039934e1fc721b31":[6,0,341,8],
 "dc/de8/classBattlegroundIC.html#a4bb4895ace9d7004913da10ac62ad509":[6,0,341,34],
 "dc/de8/classBattlegroundIC.html#a4de35e642c708834956432a621b7fa28":[6,0,341,35],
 "dc/de8/classBattlegroundIC.html#a51b044fa5ae25ae0846aaac5f9306534":[6,0,341,38],
@@ -226,12 +222,12 @@ var NAVTREEINDEX334 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,776],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,776,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[6,0,776,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX334 =
 "dc/df9/classspell__burning__maul.html#aed5f87523c58d94c8f98b76c06abb140":[6,0,2718,1],
 "dc/dfa/structboss__twinemperorsAI.html":[6,0,767],
 "dc/dfa/structboss__twinemperorsAI.html#a118151851f36de9dfc22971a965cb047":[6,0,767,1],
-"dc/dfa/structboss__twinemperorsAI.html#a1b4689b0c403f7246ae100e4f716b138":[6,0,767,10]
+"dc/dfa/structboss__twinemperorsAI.html#a1b4689b0c403f7246ae100e4f716b138":[6,0,767,10],
+"dc/dfa/structboss__twinemperorsAI.html#a2b5e585749b7a59663813c7a9d56c223":[6,0,767,2],
+"dc/dfa/structboss__twinemperorsAI.html#a4d9e07fd3f682a24332d0aabe6c55f8f":[6,0,767,9],
+"dc/dfa/structboss__twinemperorsAI.html#a9cc74619908c2aa9f8deda2689616735":[6,0,767,6],
+"dc/dfa/structboss__twinemperorsAI.html#aaa52e01bfeff824345f7b9c7346e8aef":[6,0,767,8]
 };

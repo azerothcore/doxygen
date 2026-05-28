@@ -1,9 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"df/d14/classPet.html#a7dd5111c87bf37053ca258aad67dc258":[6,0,2387,19],
-"df/d14/classPet.html#a7eaf9514f937d81304c24d93ee9bd9e1":[6,0,2387,17],
-"df/d14/classPet.html#a7ff593ea0fabfdca308697622520a59c":[6,0,2387,16],
-"df/d14/classPet.html#a819d59da133655a138f7788e93b9348b":[6,0,2387,28],
 "df/d14/classPet.html#a89d2c84cbbf23bc368d9ab89c55d1972":[6,0,2387,25],
 "df/d14/classPet.html#a8b746e4d29e8c0b9f1ed2d7b3be2c0f7":[6,0,2387,55],
 "df/d14/classPet.html#a8c7308b81b808c23b878b99cb78d6598":[6,0,2387,61],
@@ -249,5 +245,9 @@ var NAVTREEINDEX397 =
 "df/d18/classnpc__anachronos__quest__trigger.html#ad39871952acd3152b51820fe360f4ebd":[6,0,1616,1],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html":[6,0,1788],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a350828bdc56029dcbfb863efef4d9d8e":[6,0,1788,3],
-"df/d19/structnpc__eoe__wyrmrest__skytalon.html#a647ba18085c9522d8075c62ed9ce5b18":[6,0,1788,1]
+"df/d19/structnpc__eoe__wyrmrest__skytalon.html#a647ba18085c9522d8075c62ed9ce5b18":[6,0,1788,1],
+"df/d19/structnpc__eoe__wyrmrest__skytalon.html#a65df31829e801154ee20d55ad1c15721":[6,0,1788,2],
+"df/d19/structnpc__eoe__wyrmrest__skytalon.html#a8a2c264c200336b9f49f2a86f6953ff6":[6,0,1788,0],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html":[6,0,2258,0],
+"df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html#a20cc2bba9d1005cc93b55dfba8bfbcf3":[6,0,2258,0,7]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/d92/classGameEventMgr.html#a6e86d2b9b7f4ec4ba511ae13910efe09":[6,0,1098,29],
-"d3/d92/classGameEventMgr.html#a70bc9ff853dd8cb95db57ad231d4b7b0":[6,0,1098,13],
-"d3/d92/classGameEventMgr.html#a733cc959fd929bb86442c44fa2cb3ef9":[6,0,1098,71],
-"d3/d92/classGameEventMgr.html#a74e24c7e1d8b7de14f3dbb674666458e":[6,0,1098,47],
-"d3/d92/classGameEventMgr.html#a805c0247fd9b7c6d180983c15aae1b7a":[6,0,1098,72],
 "d3/d92/classGameEventMgr.html#a80b13a07fe3a03f97ad5b25aa6a07668":[6,0,1098,79],
 "d3/d92/classGameEventMgr.html#a83691a873d7652ad358f5ef39183746b":[6,0,1098,61],
 "d3/d92/classGameEventMgr.html#a87c8e7e044ee8336e49bd6e1d24dcb50":[6,0,1098,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX105 =
 "d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b":[6,0,891,1],
 "d3/d9d/structChrRacesEntry.html#a4807227fd863e247b18d29db0ea8236a":[6,0,891,6],
 "d3/d9d/structChrRacesEntry.html#a4970323e45feb3f74b47420648371ab6":[6,0,891,8],
-"d3/d9d/structChrRacesEntry.html#a50b5409352d7fe3e6f5919d83c9a0eae":[6,0,891,7]
+"d3/d9d/structChrRacesEntry.html#a50b5409352d7fe3e6f5919d83c9a0eae":[6,0,891,7],
+"d3/d9d/structChrRacesEntry.html#a5c66801f2f89aeb847699a2dd87486c7":[6,0,891,4],
+"d3/d9d/structChrRacesEntry.html#a5d13e1af17cddf3acdbfc5387869e43f":[6,0,891,0],
+"d3/d9d/structChrRacesEntry.html#a853f3262af3408cf2791e7cd08ec8d32":[6,0,891,9],
+"d3/d9d/structChrRacesEntry.html#a8c2d30fb87284806a93d4c1da4a6edb0":[6,0,891,5],
+"d3/d9d/structChrRacesEntry.html#ab6547f8b08d4d1bf57a37f9574b71e43":[6,0,891,3]
 };

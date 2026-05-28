@@ -1,9 +1,5 @@
 var NAVTREEINDEX199 =
 {
-"d7/d59/structZoneDynamicInfo.html#a0542940fdcc273a4ff8a8e8bb6a40b1f":[6,0,4641,0],
-"d7/d59/structZoneDynamicInfo.html#a0be8cff9a7e74add7bba8af3be993e48":[6,0,4641,2],
-"d7/d59/structZoneDynamicInfo.html#a0d43acd5539d3449b7c36ee88518346e":[6,0,4641,4],
-"d7/d59/structZoneDynamicInfo.html#a3ab0244b34c30cc7d929b418da31d7d3":[6,0,4641,3],
 "d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9":[6,0,4641,6],
 "d7/d59/structZoneDynamicInfo.html#a8c2c7772596ec58413bee2077e46790f":[6,0,4641,1],
 "d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[6,0,4641,5],
@@ -148,12 +144,12 @@ var NAVTREEINDEX199 =
 "d7/d61/classFactoryCreatureScript.html":[6,0,1059],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1059,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1059,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,13,2,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,13,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,22,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,22,6,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX199 =
 "d7/d66/structboss__shade__of__aran.html#a88c6677edc8a37ac1e36fe6f1688d847":[6,0,709,11],
 "d7/d66/structboss__shade__of__aran.html#a93bec133a8a1ba41aa9eb86ff19e5eca":[6,0,709,15],
 "d7/d66/structboss__shade__of__aran.html#ac79c249652f1de37b0c7d31a86dd0e51":[6,0,709,4],
-"d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2":[6,0,709,6]
+"d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2":[6,0,709,6],
+"d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[6,0,709,9],
+"d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[6,0,709,10],
+"d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[6,0,709,16],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[6,0,13,6,32]
 };

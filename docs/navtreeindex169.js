@@ -1,10 +1,5 @@
 var NAVTREEINDEX169 =
 {
-"d6/d0c/go__scripts_8cpp.html#a5d966ea1d3d0e449b23e83c8f8b0edf0aabd6de46cc001c141b9bb935b6d6e973":[7,0,0,0,1,3,10,5,73,2],
-"d6/d0c/go__scripts_8cpp.html#a5d966ea1d3d0e449b23e83c8f8b0edf0abcc4c74b391ab174a8afb399448b9d29":[7,0,0,0,1,3,10,5,73,1],
-"d6/d0c/go__scripts_8cpp.html#a5d966ea1d3d0e449b23e83c8f8b0edf0afda49efdcecab7f5dbf2499d16a880c7":[7,0,0,0,1,3,10,5,73,0],
-"d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65":[7,0,0,0,1,3,10,5,74],
-"d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65a2103792b0b05004c6da77c8c90404eea":[7,0,0,0,1,3,10,5,74,4],
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65a24894ff6554ebaf75e1bf7ec4a489bbc":[7,0,0,0,1,3,10,5,74,3],
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65a3abd8970683b2ced8b1c361f5235a076":[7,0,0,0,1,3,10,5,74,5],
 "d6/d0c/go__scripts_8cpp.html#a623349239137431b9858d9534528aa65aa4ac36d48d7de8beedbe7ef572f7a059":[7,0,0,0,1,3,10,5,74,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX169 =
 "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a2019c8dacf04c7591245ed0496cd2f40":[7,0,0,0,1,3,5,17,20,10],
 "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a25c6cc4c12bba446acfc09c929baaa4f":[7,0,0,0,1,3,5,17,20,0],
 "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a29b6c02138daeab5867e56371147df4e":[7,0,0,0,1,3,5,17,20,11],
-"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a37c22b84c74c36e2af467a6bd1047f15":[7,0,0,0,1,3,5,17,20,8]
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a37c22b84c74c36e2af467a6bd1047f15":[7,0,0,0,1,3,5,17,20,8],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a5473416c1fba91574dafd415be4bea81":[7,0,0,0,1,3,5,17,20,9],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a569f4950f082c1f90286b5b56d0870d4":[7,0,0,0,1,3,5,17,20,3],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,5,17,20,1],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a7cdcbe67a72b7ee94c1b71c01a9b1c9f":[7,0,0,0,1,3,5,17,20,4],
+"d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a8d256ed3c47239e4fb76cf9612c29781":[7,0,0,0,1,3,5,17,20,6]
 };

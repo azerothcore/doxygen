@@ -1,9 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab01e58f5829d1e488d7a726bb8797ec8":[6,0,1377,0,26],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab1aa4ee2a0c7e2a6abb0447057e38753":[6,0,1377,0,6],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[6,0,1377,0,9],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[6,0,1377,0,22],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[6,0,1377,0,21],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae1bcd64be4b3c4ecd5861991969e8f46":[6,0,1377,0,1],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae9d975b95e389fb8035d337bd1da70c4":[6,0,1377,0,24],
@@ -249,5 +245,9 @@ var NAVTREEINDEX383 =
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#ab2b6a0bb1b8626e5a4064b9412234f4b":[6,0,1991,2],
 "de/d7f/boss__exarch__maladaar_8cpp.html":[7,0,0,0,1,3,7,0,0,1],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,0,1,3],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[7,0,0,0,1,3,7,0,0,1,3,13]
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[7,0,0,0,1,3,7,0,0,1,3,13],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b41ef3af71d15719535ced60a0de398":[7,0,0,0,1,3,7,0,0,1,3,4],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca70102f1e7ebc514c9875b92e5490b":[7,0,0,0,1,3,7,0,0,1,3,5],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e455c0ae51cf9a08598dfbd3cfad1a":[7,0,0,0,1,3,7,0,0,1,3,14],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca248eca01cf3e30b7ab8e432a43367ece":[7,0,0,0,1,3,7,0,0,1,3,3]
 };
