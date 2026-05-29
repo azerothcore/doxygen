@@ -1,5 +1,9 @@
 var NAVTREEINDEX402 =
 {
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae5a7e9823730ded6d1aac3452b43cecf":[7,0,0,0,1,3,4,9,4,4,9],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caed9fc0fbefab4b80af22e388eee0df4e":[7,0,0,0,1,3,4,9,4,4,12],
+"df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9":[7,0,0,0,1,3,4,9,4,5],
+"df/d3a/VMapFactory_8h.html":[7,0,0,0,0,1,0,4],
 "df/d3a/hellfire__ramparts_8h.html":[7,0,0,0,1,3,7,4,1,3],
 "df/d3a/hellfire__ramparts_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,1,3,0],
 "df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[7,0,0,0,1,3,7,4,1,3,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX402 =
 "df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1508,3],
 "df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1508,4],
 "df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1508,2],
-"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1508,1],
-"df/d44/classspell__low__health__trigger.html":[6,0,3545],
-"df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[6,0,3545,2],
-"df/d44/classspell__low__health__trigger.html#a6a58808356785c25032c2befd429ff2b":[6,0,3545,3],
-"df/d44/classspell__low__health__trigger.html#a9d3b65b251cc9680352bbf056bb74f05":[6,0,3545,1]
+"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1508,1]
 };

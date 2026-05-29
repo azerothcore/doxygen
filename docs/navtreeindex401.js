@@ -1,5 +1,9 @@
 var NAVTREEINDEX401 =
 {
+"df/d2a/StringFormat_8cpp.html#a39e286b6ca47198eba4d5e31cef66aa5":[7,0,0,0,0,15,28,0],
+"df/d2a/classboss__sjonnir__dwarf.html":[6,0,715],
+"df/d2a/classboss__sjonnir__dwarf.html#a3589ae3bef1bbfe0fc5381e341c0995b":[6,0,715,1],
+"df/d2a/classboss__sjonnir__dwarf.html#a945d8e753e1a54dc348848b9c2dd6cce":[6,0,715,2],
 "df/d2a/classspell__eject__passenger__wild__wyrm.html":[6,0,2917],
 "df/d2a/classspell__eject__passenger__wild__wyrm.html#a8400fb2e0955444aee21b994d78b78c3":[6,0,2917,1],
 "df/d2a/classspell__eject__passenger__wild__wyrm.html#aa9c2280cbb38db2620db9869e4959153":[6,0,2917,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX401 =
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[7,0,0,0,1,3,4,9,4,4,2],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[7,0,0,0,1,3,4,9,4,4,5],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,4,9,4,4,3],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae0fa18919fc13ab1b07552ae49e88183":[7,0,0,0,1,3,4,9,4,4,14],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae5a7e9823730ded6d1aac3452b43cecf":[7,0,0,0,1,3,4,9,4,4,9],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caed9fc0fbefab4b80af22e388eee0df4e":[7,0,0,0,1,3,4,9,4,4,12],
-"df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9":[7,0,0,0,1,3,4,9,4,5],
-"df/d3a/VMapFactory_8h.html":[7,0,0,0,0,1,0,4]
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae0fa18919fc13ab1b07552ae49e88183":[7,0,0,0,1,3,4,9,4,4,14]
 };

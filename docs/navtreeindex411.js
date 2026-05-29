@@ -1,5 +1,9 @@
 var NAVTREEINDEX411 =
 {
+"df/da7/classBattleground.html#a5e7f15b4edbc433ca648f9fec39f7523":[6,0,328,214],
+"df/da7/classBattleground.html#a5ed992d92db7c290f20b0500f22bde78":[6,0,328,169],
+"df/da7/classBattleground.html#a5efef56233efce5b0cdeac8dba75f48c":[6,0,328,13],
+"df/da7/classBattleground.html#a6040822fc38f74cac43acad7009c3480":[6,0,328,44],
 "df/da7/classBattleground.html#a608a19ae2014d78278421fda71aa2d7e":[6,0,328,154],
 "df/da7/classBattleground.html#a60e111cec77b1440a1c93cb10118eb67":[6,0,328,24],
 "df/da7/classBattleground.html#a612e5af66af9c1620f7eed0bf796bca8":[6,0,328,216],
@@ -245,9 +249,5 @@ var NAVTREEINDEX411 =
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a640aea9ce4a47dd13d417748e533fc33":[6,0,2065,0,4],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2065,0,1],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2065,0,3],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2065,0,7],
-"df/db0/classOPvPCapturePointEP__CGT.html":[6,0,2331],
-"df/db0/classOPvPCapturePointEP__CGT.html#a30d9f8701dd6a78740f7df0d2c7ceb9d":[6,0,2331,6],
-"df/db0/classOPvPCapturePointEP__CGT.html#a48cb29473f25ed9b469c7ff54acc9d88":[6,0,2331,3],
-"df/db0/classOPvPCapturePointEP__CGT.html#a6f434f86ed97f88368e3194a3bc3183b":[6,0,2331,9]
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2065,0,7]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX330 =
 {
+"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2940,0],
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2940,3],
+"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2940,2],
+"dc/db5/classspell__item__persistent__shield.html":[6,0,3413],
 "dc/db5/classspell__item__persistent__shield.html#a980784152abf41e91b5fe5a9c2e3d5dc":[6,0,3413,4],
 "dc/db5/classspell__item__persistent__shield.html#ac1fea3f63b5ffd742a83e8d45a26ae68":[6,0,3413,3],
 "dc/db5/classspell__item__persistent__shield.html#ad1a13141720e0e605966c2304b0f8eb9":[6,0,3413,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[6,0,3771,3],
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[6,0,3771,1],
 "dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[6,0,3771,2],
-"dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[6,0,3771,4],
-"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[6,0,3771,0],
-"dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[6,0,3771,5],
-"dc/dc9/ObjectGuid_8h.html":[7,0,0,0,1,2,16,5,5],
-"dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,5,19]
+"dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[6,0,3771,4]
 };

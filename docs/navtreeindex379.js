@@ -1,5 +1,9 @@
 var NAVTREEINDEX379 =
 {
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a20389ff46293557848336b83adf428e8":[7,0,0,0,1,3,2,16,9,2,1],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39745454a6136849ea1e00a184f90661":[7,0,0,0,1,3,2,16,9,2,3],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,9,2,2],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,9,2,0],
 "de/d44/classspell__sha__t8__elemental__4p__bonus.html":[6,0,4060],
 "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a5a0f0e1558c1d4c687b94fe8874512ef":[6,0,4060,2],
 "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8461f9dc90d1df9a91350d3e277fffeb":[6,0,4060,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX379 =
 "de/d53/structboss__blackheart__the__inciter.html#aaf2c9d37b0af1db1d35af01923eca45b":[6,0,415,1],
 "de/d53/structboss__blackheart__the__inciter.html#abeb0cc4ff2543531f7a7c7993559f1cb":[6,0,415,3],
 "de/d53/structboss__blackheart__the__inciter.html#ad7de71ea14e5be6e2b126edde1c78ab6":[6,0,415,4],
-"de/d53/structboss__blackheart__the__inciter.html#add75633d1c04d0be91e7e80f28213917":[6,0,415,5],
-"de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html":[6,0,1620,0],
-"de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#a1165ee0e066dcaeb300096e55758389b":[6,0,1620,0,1],
-"de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#ad2f8a14f2adfe1418a23de274493f85e":[6,0,1620,0,0],
-"de/d55/StartProcess_8cpp.html":[7,0,0,0,0,15,25]
+"de/d53/structboss__blackheart__the__inciter.html#add75633d1c04d0be91e7e80f28213917":[6,0,415,5]
 };

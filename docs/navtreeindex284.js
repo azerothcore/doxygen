@@ -1,5 +1,9 @@
 var NAVTREEINDEX284 =
 {
+"db/d07/classWorldSocketThread.html#a01090d6713f49dc026f77f8481b492cb":[6,0,4633,0],
+"db/d07/classWorldSocketThread.html#a4a978f9304e4aeabfb9ce1998b8a27cc":[6,0,4633,1],
+"db/d07/classnpc__nerubian__burrower.html":[6,0,2002],
+"db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[6,0,2002,1],
 "db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[6,0,2002,2],
 "db/d07/instance__obsidian__sanctum_8cpp.html":[7,0,0,0,1,3,5,1,0,1],
 "db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,1,0,1,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX284 =
 "db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff":[7,0,0,0,1,2,3,2,1,2],
 "db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,5],
 "db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
-"db/d14/classLootTemplate.html":[6,0,1479],
-"db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1479,7],
-"db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1479,9],
-"db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1479,2],
-"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[6,0,1479,8]
+"db/d14/classLootTemplate.html":[6,0,1479]
 };

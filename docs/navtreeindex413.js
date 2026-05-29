@@ -1,5 +1,9 @@
 var NAVTREEINDEX413 =
 {
+"df/dbd/structnpc__pallid__horror.html#a6145be6ed4a56ec8f8e923187ceea47c":[6,0,2022,4],
+"df/dbd/structnpc__pallid__horror.html#a700af3062528a6c41f7f0985f1820b36":[6,0,2022,2],
+"df/dbd/structnpc__pallid__horror.html#a701b52b2977017c692368a5d363dd6bd":[6,0,2022,8],
+"df/dbd/structnpc__pallid__horror.html#a801e04d47de8d86dcfbfa552de54cd0f":[6,0,2022,5],
 "df/dbd/structnpc__pallid__horror.html#aa9e851cb55238bb4cf6c1e7a9d309c20":[6,0,2022,6],
 "df/dbd/structnpc__pallid__horror.html#ac9c5b8d4274e443f4c74b2b40aa5830f":[6,0,2022,9],
 "df/dbd/structnpc__pallid__horror.html#ae43fa737cdc303d68f34ac2fbb356814":[6,0,2022,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd3/MovementTypedefs_8h.html":[7,0,0,0,1,2,31,1,2],
 "df/dd3/MovementTypedefs_8h.html#a15b376933a666c7f7c4600e62d7afe91":[7,0,0,0,1,2,31,1,2,6],
 "df/dd3/MovementTypedefs_8h.html#a40f989c23fe19e12628da3cd9e64edf4":[7,0,0,0,1,2,31,1,2,3],
-"df/dd3/MovementTypedefs_8h.html#a418fff34f8aed72d6d80876be5a33c58":[7,0,0,0,1,2,31,1,2,5],
-"df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[7,0,0,0,1,2,31,1,2,7],
-"df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[7,0,0,0,1,2,31,1,2,2],
-"df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[7,0,0,0,1,2,31,1,2,1],
-"df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[7,0,0,0,1,2,31,1,2,4]
+"df/dd3/MovementTypedefs_8h.html#a418fff34f8aed72d6d80876be5a33c58":[7,0,0,0,1,2,31,1,2,5]
 };

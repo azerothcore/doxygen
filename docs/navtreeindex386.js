@@ -1,5 +1,9 @@
 var NAVTREEINDEX386 =
 {
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba00f3861bb3a25b5cacacc8a9c6deccd7":[7,0,0,0,1,3,7,14,3,21],
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba03e770bf3dca79e16db0021dc8a3ef71":[7,0,0,0,1,3,7,14,3,6],
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba125b4ea317d12715b14359c6236b4659":[7,0,0,0,1,3,7,14,3,9],
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba259d6522a87397ef181b1e044655a03d":[7,0,0,0,1,3,7,14,3,19],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba54dd5f261513f2ff74ce1244ca6b1124":[7,0,0,0,1,3,7,14,3,18],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba64a7bf590ec27341ff76882ad6d5d704":[7,0,0,0,1,3,7,14,3,8],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba6843bfc854a4c39e00685acb402e590c":[7,0,0,0,1,3,7,14,3,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX386 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0f1a4c892dece22a48a83b352f6c086f":[7,0,0,0,1,1,0,0,1,1,156],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0f41d9fd3aa8461231c932f50f94b896":[7,0,0,0,1,1,0,0,1,1,135],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0f9f654899d6006b9cb1d721b060cb5e":[7,0,0,0,1,1,0,0,1,1,408],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0fe3e9f032486942b970ad2b8fc3bf26":[7,0,0,0,1,1,0,0,1,1,316],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a10768dcc8837a0a78262f703e075dd8f":[7,0,0,0,1,1,0,0,1,1,119],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a119273fe58c2291dfabe15f438bbafe1":[7,0,0,0,1,1,0,0,1,1,441],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a12dbbfefe0692b72ae9a8b7a3a2041fe":[7,0,0,0,1,1,0,0,1,1,253],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a131c2338ae7b0c9ab1034b0756e32082":[7,0,0,0,1,1,0,0,1,1,288]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0fe3e9f032486942b970ad2b8fc3bf26":[7,0,0,0,1,1,0,0,1,1,316]
 };

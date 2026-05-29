@@ -1,5 +1,8 @@
 var NAVTREEINDEX195 =
 {
+"d7/d29/classProducerConsumerQueue.html#a10e893856377f7f7a4be62c224a2aef3":[6,0,2459,3],
+"d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d":[6,0,2459,9],
+"d7/d29/classProducerConsumerQueue.html#a18c7223e356b338f9ddbc17eadc6a21e":[6,0,2459,13],
 "d7/d29/classProducerConsumerQueue.html#a1ad8d5d17442d0148b2d8d99e8c798b4":[6,0,2459,4],
 "d7/d29/classProducerConsumerQueue.html#a54223137936cfa679327d01313adfa01":[6,0,2459,10],
 "d7/d29/classProducerConsumerQueue.html#a5fc3a20c094041e2da999c4b37d735f0":[6,0,2459,12],
@@ -147,8 +150,8 @@ var NAVTREEINDEX195 =
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,13,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,13,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,13,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,13,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2093],
@@ -246,8 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d37/structnpc__necropolis__health.html#a972687770c7afb0adfaac56f0cb73d5f":[6,0,1996,2],
 "d7/d37/structnpc__necropolis__health.html#a9dc3e7734c22adea687a69662a3c7afa":[6,0,1996,0],
 "d7/d37/structnpc__necropolis__health.html#aa9f17362d0e4dbcf275a5148a4c2392b":[6,0,1996,5],
-"d7/d37/structnpc__necropolis__health.html#ad357b3497d36d6471460c09d3f01ab3e":[6,0,1996,4],
-"d7/d37/structnpc__necropolis__health.html#ad4a9f9b166ab8107a16da918082c6625":[6,0,1996,3],
-"d7/d37/structnpc__necropolis__health.html#af80e2b106b04e02d4c23a5fe4c45a7a2":[6,0,1996,1],
-"d7/d37/the__slave__pens_8h.html":[7,0,0,0,1,3,7,2,1,6]
+"d7/d37/structnpc__necropolis__health.html#ad357b3497d36d6471460c09d3f01ab3e":[6,0,1996,4]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX382 =
 {
+"de/d6e/structBattlegroundWGScore.html#a43b7933c5e217376e5bb10e9b5bb208b":[6,0,356,0],
+"de/d6e/structBattlegroundWGScore.html#a804e56dbd666336d961cce2b0e4d6452":[6,0,356,1],
+"de/d6e/structBattlegroundWGScore.html#aa560d7f5f13dd235d43a9e3571090055":[6,0,356,4],
+"de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3":[6,0,356,2],
 "de/d6e/structBattlegroundWGScore.html#ab400c9fb692ff157eb4809f0536c05f7":[6,0,356,7],
 "de/d6f/AsioHacksFwd_8h.html":[7,0,0,0,0,0,0],
 "de/d6f/AsioHacksFwd_8h.html#a27a44b709519f6caccf33bc420c4698b":[7,0,0,0,0,0,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX382 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa0f574ead1b5da7f8d485a596684d95e":[6,0,1377,0,13],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa1c6dc80069ac1c31ce24f1d99485f45":[6,0,1377,0,7],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa55142f2dd41d204c5a60aaa45075911":[6,0,1377,0,23],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aaa2ae64e837747496b569a9d8a1aa0f4":[6,0,1377,0,3],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab01e58f5829d1e488d7a726bb8797ec8":[6,0,1377,0,26],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab1aa4ee2a0c7e2a6abb0447057e38753":[6,0,1377,0,6],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[6,0,1377,0,9],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[6,0,1377,0,22]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aaa2ae64e837747496b569a9d8a1aa0f4":[6,0,1377,0,3]
 };

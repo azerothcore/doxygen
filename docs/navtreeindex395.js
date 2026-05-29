@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"de/df5/structAreaTableEntry.html#a3b4f9e187629db5ced9a06c601fc7f78":[6,0,170,10],
+"de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25":[6,0,170,5],
+"de/df5/structAreaTableEntry.html#a78cf3009cd0fe49dc7870c7f65c79251":[6,0,170,4],
+"de/df5/structAreaTableEntry.html#a87653e6b7f7368a59af7adaf77a49e10":[6,0,170,3],
 "de/df5/structAreaTableEntry.html#abe743a4b542c4356aab9d41f3fae7457":[6,0,170,7],
 "de/df5/structAreaTableEntry.html#ad02bb9fce21f464e38223581074a9e21":[6,0,170,6],
 "de/df5/structAreaTableEntry.html#ad239b4e381b6af858a181e9c361d6cbb":[6,0,170,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a9cc0b500f1289dc8b764b3755468e639":[6,0,1806,0,1],
 "df/d07/structnpc__hor__spiritual__reflection.html":[6,0,1873],
 "df/d07/structnpc__hor__spiritual__reflection.html#a3973e83b013df723849939635071324f":[6,0,1873,1],
-"df/d07/structnpc__hor__spiritual__reflection.html#a5093b6502bca95c22b2b0f0117f86047":[6,0,1873,5],
-"df/d07/structnpc__hor__spiritual__reflection.html#a913d17e1534a5940b7841e38eae246f7":[6,0,1873,2],
-"df/d07/structnpc__hor__spiritual__reflection.html#aa7dad28bbe53286ec298ba5480717e69":[6,0,1873,4],
-"df/d07/structnpc__hor__spiritual__reflection.html#ad47d12654c88cc94b7c17906e4096115":[6,0,1873,3],
-"df/d07/structnpc__hor__spiritual__reflection.html#ade6e6c1f32f4353c131fce054d6b94c4":[6,0,1873,0]
+"df/d07/structnpc__hor__spiritual__reflection.html#a5093b6502bca95c22b2b0f0117f86047":[6,0,1873,5]
 };

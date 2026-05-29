@@ -1,5 +1,9 @@
 var NAVTREEINDEX396 =
 {
+"df/d07/structnpc__hor__spiritual__reflection.html#a913d17e1534a5940b7841e38eae246f7":[6,0,1873,2],
+"df/d07/structnpc__hor__spiritual__reflection.html#aa7dad28bbe53286ec298ba5480717e69":[6,0,1873,4],
+"df/d07/structnpc__hor__spiritual__reflection.html#ad47d12654c88cc94b7c17906e4096115":[6,0,1873,3],
+"df/d07/structnpc__hor__spiritual__reflection.html#ade6e6c1f32f4353c131fce054d6b94c4":[6,0,1873,0],
 "df/d09/TerrainBuilder_8cpp.html":[7,0,0,0,3,2,8],
 "df/d09/TerrainBuilder_8cpp.html#a14e2a0a2291347b0ef877bc9d70f7384":[7,0,0,0,3,2,8,9],
 "df/d09/TerrainBuilder_8cpp.html#a15a9245a53c00f1a8a89dd2d798cea9d":[7,0,0,0,3,2,8,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX396 =
 "df/d14/classPet.html#a6ef6bcc790ed519905e1878a25a8cbc6":[6,0,2387,8],
 "df/d14/classPet.html#a7018de24620b6982be4a4cc7f7cf889a":[6,0,2387,74],
 "df/d14/classPet.html#a782a0dd61ab205062011b5caae00884d":[6,0,2387,24],
-"df/d14/classPet.html#a7dbdf9dc8076fb7046381ad581ecb6e2":[6,0,2387,22],
-"df/d14/classPet.html#a7dd5111c87bf37053ca258aad67dc258":[6,0,2387,19],
-"df/d14/classPet.html#a7eaf9514f937d81304c24d93ee9bd9e1":[6,0,2387,17],
-"df/d14/classPet.html#a7ff593ea0fabfdca308697622520a59c":[6,0,2387,16],
-"df/d14/classPet.html#a819d59da133655a138f7788e93b9348b":[6,0,2387,28]
+"df/d14/classPet.html#a7dbdf9dc8076fb7046381ad581ecb6e2":[6,0,2387,22]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX287 =
 {
+"db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a0cf480b75aa45a9f3572c4a65df2daee":[6,0,1697,0,0],
+"db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a18db5870e62378ff49472f7a5881861c":[6,0,1697,0,1],
+"db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#aadc3384626d728942897fe93750f0c02":[6,0,1697,0,2],
+"db/d2e/classnpc__iron__watcher.html":[6,0,1916],
 "db/d2e/classnpc__iron__watcher.html#a174e19241ca6cd1619fbae074d11c8ba":[6,0,1916,1],
 "db/d2e/classnpc__iron__watcher.html#af3b80b838e192737762ceed599b0be9a":[6,0,1916,2],
 "db/d2f/LFGPlayerData_8cpp.html":[7,0,0,0,1,2,15,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX287 =
 "db/d40/classspell__gen__vampiric__touch.html#a5a658d1feb1e1ae1d4866bab40ca03e6":[6,0,3120,0],
 "db/d40/classspell__gen__vampiric__touch.html#a8466306b9a95f8a57e1998c57ba10ca2":[6,0,3120,3],
 "db/d40/classspell__gen__vampiric__touch.html#ab424a5c9da846e0b7ac93620163140fb":[6,0,3120,1],
-"db/d40/classspell__muru__darkness__aura.html":[6,0,3655],
-"db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d":[6,0,3655,0],
-"db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[6,0,3655,2],
-"db/d40/classspell__muru__darkness__aura.html#a6843deda5be8b684c06a86920714f255":[6,0,3655,3],
-"db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[6,0,3655,1]
+"db/d40/classspell__muru__darkness__aura.html":[6,0,3655]
 };

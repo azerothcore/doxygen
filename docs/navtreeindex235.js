@@ -1,5 +1,8 @@
 var NAVTREEINDEX235 =
 {
+"d8/dd9/zone__wintergrasp_8cpp.html#a92f6fd626e1834a4cc509efc1186963eadc17cbed34c9319ab20132469e91ad53":[7,0,0,0,1,3,5,24,20,1],
+"d8/dd9/zone__wintergrasp_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[7,0,0,0,1,3,5,24,25],
+"d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132c":[7,0,0,0,1,3,5,24,22],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca00196fac05608ead9789c51d9dff96e4":[7,0,0,0,1,3,5,24,22,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca16720611d2a8048c24a7f179d8d464f9":[7,0,0,0,1,3,5,24,22,6],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca3b88ffb5021d65bc5be890a51f243cba":[7,0,0,0,1,3,5,24,22,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX235 =
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beae6bf211355942a078ed80a33cb903f15":[7,0,0,0,1,2,8,1,19,10,8],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf0a9b38513b9ca778af048e0b919fb12":[7,0,0,0,1,2,8,1,19,10,5],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf0c8b126cd1d3de511197a7c1115797c":[7,0,0,0,1,2,8,1,19,10,22],
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf25fb3cee9a63e26fac69e0cafbc3c01":[7,0,0,0,1,2,8,1,19,10,10],
-"d8/de0/BattlegroundSA_8h.html#af09df121eaf84723331cafc46f9eeedb":[7,0,0,0,1,2,8,1,19,17],
-"d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9":[7,0,0,0,1,2,8,1,19,7],
-"d8/de0/BattlegroundSA_8h.html#af2b1ff3fe0a9494efd8a7e1241323ce9a28297a624897a74ff7bfcedea5ee2284":[7,0,0,0,1,2,8,1,19,7,2]
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaf25fb3cee9a63e26fac69e0cafbc3c01":[7,0,0,0,1,2,8,1,19,10,10]
 };

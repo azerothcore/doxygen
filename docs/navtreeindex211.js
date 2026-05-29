@@ -1,5 +1,8 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#ae2680ce896987200ebeae965a45ff468":[6,0,1500,128],
+"d7/db0/classMap.html#ae37764185b1adf2c6438025e4fa9091a":[6,0,1500,113],
+"d7/db0/classMap.html#ae56c5ae8bbdf60c787c1fd18d7ce2099":[6,0,1500,70],
 "d7/db0/classMap.html#ae5db24f651d5058d3177c7179cbd0a37":[6,0,1500,44],
 "d7/db0/classMap.html#ae63d390b195f0ecca73c56af56a35e04":[6,0,1500,19],
 "d7/db0/classMap.html#ae70896defa5eb020eaf5e387d8fcd963":[6,0,1500,34],
@@ -134,8 +137,8 @@ var NAVTREEINDEX211 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db4/structAcore_1_1has__type.html":[5,0,0,74],
+"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3892],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3892,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3892,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX211 =
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,4085,1],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,4085,4],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,4085,0],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,4085,2],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,4085,5],
-"d7/dbc/classspell__warr__glyph__of__blocking.html":[6,0,4296],
-"d7/dbc/classspell__warr__glyph__of__blocking.html#a04085f70b61ea7ff2073a1cd777eca1b":[6,0,4296,3]
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,4085,2]
 };

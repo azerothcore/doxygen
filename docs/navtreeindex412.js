@@ -1,5 +1,9 @@
 var NAVTREEINDEX412 =
 {
+"df/db0/classOPvPCapturePointEP__CGT.html":[6,0,2331],
+"df/db0/classOPvPCapturePointEP__CGT.html#a30d9f8701dd6a78740f7df0d2c7ceb9d":[6,0,2331,6],
+"df/db0/classOPvPCapturePointEP__CGT.html#a48cb29473f25ed9b469c7ff54acc9d88":[6,0,2331,3],
+"df/db0/classOPvPCapturePointEP__CGT.html#a6f434f86ed97f88368e3194a3bc3183b":[6,0,2331,9],
 "df/db0/classOPvPCapturePointEP__CGT.html#a764284d6143d4879b5bc003acc52048c":[6,0,2331,7],
 "df/db0/classOPvPCapturePointEP__CGT.html#a82d8e9bff56eed1870b098dcf21f77cd":[6,0,2331,0],
 "df/db0/classOPvPCapturePointEP__CGT.html#aaf1f8440dc891ed45857bb7d15149d9a":[6,0,2331,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX412 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,78,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2022],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2022,10],
-"df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2022,3],
-"df/dbd/structnpc__pallid__horror.html#a6145be6ed4a56ec8f8e923187ceea47c":[6,0,2022,4],
-"df/dbd/structnpc__pallid__horror.html#a700af3062528a6c41f7f0985f1820b36":[6,0,2022,2],
-"df/dbd/structnpc__pallid__horror.html#a701b52b2977017c692368a5d363dd6bd":[6,0,2022,8],
-"df/dbd/structnpc__pallid__horror.html#a801e04d47de8d86dcfbfa552de54cd0f":[6,0,2022,5]
+"df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2022,3]
 };
