@@ -1,5 +1,6 @@
 var NAVTREEINDEX421 =
 {
+"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,376,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,376,1],
 "df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,376,0],
 "df/dee/classspell__stinky__precious__decimate.html":[6,0,4106],
@@ -248,6 +249,5 @@ var NAVTREEINDEX421 =
 "df/dfa/structnpc__hover__disk.html":[6,0,1875],
 "df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[6,0,1875,7],
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[6,0,1875,3],
-"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[6,0,1875,1],
-"df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[6,0,1875,4]
+"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[6,0,1875,1]
 };

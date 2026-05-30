@@ -1,5 +1,6 @@
 var NAVTREEINDEX409 =
 {
+"df/d99/structnpc__dark__iron__attack__generator.html#a4371fcc13d221b843275d1d0e7f896fb":[6,0,1752,7],
 "df/d99/structnpc__dark__iron__attack__generator.html#a4c0bdf682ced38cd1555ac6c6dd82361":[6,0,1752,1],
 "df/d99/structnpc__dark__iron__attack__generator.html#a5ac0502b880031c937f915a7dbca2262":[6,0,1752,15],
 "df/d99/structnpc__dark__iron__attack__generator.html#a6692f1a74acae5ddebbe8dc8790db07a":[6,0,1752,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX409 =
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d68290803dac86a0e97da2ec3fdcba8":[7,0,0,0,1,3,5,2,0,1,11,8],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca595e28ab3b6a26b023b70079f64070f7":[7,0,0,0,1,3,5,2,0,1,11,17],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca6786925937974df76f02498d39b14217":[7,0,0,0,1,3,5,2,0,1,11,3],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca94e658da1f45ee0ced51d3cdb21dc6cd":[7,0,0,0,1,3,5,2,0,1,11,7],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ed6320e7a12369cc4be61babdfb7e91":[7,0,0,0,1,3,5,2,0,1,11,19]
+"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca94e658da1f45ee0ced51d3cdb21dc6cd":[7,0,0,0,1,3,5,2,0,1,11,7]
 };

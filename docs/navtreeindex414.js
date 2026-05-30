@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/dd3/MovementTypedefs_8h.html#a418fff34f8aed72d6d80876be5a33c58":[7,0,0,0,1,2,31,1,2,5],
 "df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[7,0,0,0,1,2,31,1,2,7],
 "df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[7,0,0,0,1,2,31,1,2,2],
 "df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[7,0,0,0,1,2,31,1,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd9/classUnit.html#a0ea8974d848966b4d3744c9cfdff6c53":[6,0,4528,824],
 "df/dd9/classUnit.html#a0ebd274732e84a9150104d8473a7cd8d":[6,0,4528,321],
 "df/dd9/classUnit.html#a0ed0c3a3a587eeab40abba42c3d0d593":[6,0,4528,651],
-"df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[6,0,4528,60],
-"df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe":[6,0,4528,195]
+"df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[6,0,4528,60]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55":[7,0,0,0,1,3,5,6,4,56,6],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca3645df35805ab8ed9dad1100ee4b6805":[7,0,0,0,1,3,5,6,4,56,29],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c8701fe24b29564f44324169886227d":[7,0,0,0,1,3,5,6,4,56,16],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca45eaf65f0a9f5b07780561ff77d4bff1":[7,0,0,0,1,3,5,6,4,56,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/ddc/classTaskScheduler.html#aeabbb2b8f0438a81f10bf650d5c8a7ee":[6,0,4465,28],
 "df/ddc/classTaskScheduler.html#aebd126d269ff3806ffa03f3b5d6a6284":[6,0,4465,43],
 "df/ddc/classTaskScheduler.html#aef5466d24be443ceaacd982b960eefd6":[6,0,4465,34],
-"df/ddc/classTaskScheduler.html#af1ed48e830753b5ca1b209d6d137bbeb":[6,0,4465,53],
-"df/ddc/classTaskScheduler.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2":[6,0,4465,45]
+"df/ddc/classTaskScheduler.html#af1ed48e830753b5ca1b209d6d137bbeb":[6,0,4465,53]
 };

@@ -1,6 +1,6 @@
 var NAVTREEINDEX186 =
 {
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,8,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -205,8 +205,8 @@ var NAVTREEINDEX186 =
 "d6/dc2/classFileLoader.html":[6,0,1066],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1066,3],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1066,1],
-"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1066,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1066,10],
+"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1066,11],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1066,9],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1066,8],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1066,15],

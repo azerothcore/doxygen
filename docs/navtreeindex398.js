@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"df/d19/structnpc__eoe__wyrmrest__skytalon.html#a647ba18085c9522d8075c62ed9ce5b18":[6,0,1788,1],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a65df31829e801154ee20d55ad1c15721":[6,0,1788,2],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a8a2c264c200336b9f49f2a86f6953ff6":[6,0,1788,0],
 "df/d19/structnpc__valithria__cloud_1_1npc__valithria__cloudAI.html":[6,0,2258,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1c5b46babae93e1738f155cc4ad87281":[7,0,0,0,1,2,16,5,0,4,6,296],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1ca1f9b4f619aba4a211557d1f1a4c6a":[7,0,0,0,1,2,16,5,0,4,6,293],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1db8815dc80cfb5e34ff4e09c9cecc86":[7,0,0,0,1,2,16,5,0,4,6,252],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1dfc305b5036e627c2b8a0fd49b238a0":[7,0,0,0,1,2,16,5,0,4,6,23],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1e6c9c4efa443653bf5637f1849bd271":[7,0,0,0,1,2,16,5,0,4,6,143]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1dfc305b5036e627c2b8a0fd49b238a0":[7,0,0,0,1,2,16,5,0,4,6,23]
 };

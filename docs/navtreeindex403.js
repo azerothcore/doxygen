@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1508,1],
 "df/d44/classspell__low__health__trigger.html":[6,0,3545],
 "df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[6,0,3545,2],
 "df/d44/classspell__low__health__trigger.html#a6a58808356785c25032c2befd429ff2b":[6,0,3545,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d56/classAreaBoundary.html":[6,0,166],
 "df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[6,0,166,4],
 "df/d56/classAreaBoundary.html#a6050e91b3d485e75186a2df9a56e8d38":[6,0,166,1],
-"df/d56/classAreaBoundary.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1":[6,0,166,3],
-"df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[6,0,166,6]
+"df/d56/classAreaBoundary.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1":[6,0,166,3]
 };

@@ -221,6 +221,7 @@ var NAVTREEINDEX382 =
 "de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[6,0,1984,4],
 "de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1984,0],
 "de/d74/Group_8cpp.html":[7,0,0,0,1,2,20,0],
+"de/d74/Group_8cpp.html#a499748359465da566bbe2a1e833d9b93":[7,0,0,0,1,2,20,0,1],
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0],
 "de/d75/classDelayedSummonEvent.html":[6,0,997],
 "de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,997,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a9f79f511b2d768e8c44660af37ded749":[6,0,1377,0,15],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa0f574ead1b5da7f8d485a596684d95e":[6,0,1377,0,13],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa1c6dc80069ac1c31ce24f1d99485f45":[6,0,1377,0,7],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa55142f2dd41d204c5a60aaa45075911":[6,0,1377,0,23],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aaa2ae64e837747496b569a9d8a1aa0f4":[6,0,1377,0,3]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa55142f2dd41d204c5a60aaa45075911":[6,0,1377,0,23]
 };

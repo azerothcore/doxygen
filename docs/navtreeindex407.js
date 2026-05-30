@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d81/structboss__dorothee.html#a840bcbad78ff881ef3a803ffa23d3c6e":[6,0,443,10],
 "df/d81/structboss__dorothee.html#a8bd5b4753c2d8f8aced0c036912f10f1":[6,0,443,0],
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,443,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,443,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#a382503df0337a1fa41f4a01e5d2ed4cd":[6,0,2588,33],
 "df/d8d/structSmartTarget.html#a3be697bd5161ea28f96e855ec6dd5d06":[6,0,2588,28],
 "df/d8d/structSmartTarget.html#a41beb81a110ce6b14381fd4676244e3c":[6,0,2588,40],
-"df/d8d/structSmartTarget.html#a430510504aebb2e9f37278bdd231ab3b":[6,0,2588,48],
-"df/d8d/structSmartTarget.html#a47ca1b5e1d5a12bed1934e1eb0c82306":[6,0,2588,34]
+"df/d8d/structSmartTarget.html#a430510504aebb2e9f37278bdd231ab3b":[6,0,2588,48]
 };

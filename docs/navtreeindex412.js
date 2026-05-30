@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#aee9dac9efee94db3d84eb9c5fb8c88a2":[6,0,2065,0,7],
 "df/db0/classOPvPCapturePointEP__CGT.html":[6,0,2331],
 "df/db0/classOPvPCapturePointEP__CGT.html#a30d9f8701dd6a78740f7df0d2c7ceb9d":[6,0,2331,6],
 "df/db0/classOPvPCapturePointEP__CGT.html#a48cb29473f25ed9b469c7ff54acc9d88":[6,0,2331,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,90,0],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,78,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2022],
-"df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2022,10],
-"df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2022,3]
+"df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2022,10]
 };

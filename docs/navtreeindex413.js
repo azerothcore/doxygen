@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2022,3],
 "df/dbd/structnpc__pallid__horror.html#a6145be6ed4a56ec8f8e923187ceea47c":[6,0,2022,4],
 "df/dbd/structnpc__pallid__horror.html#a700af3062528a6c41f7f0985f1820b36":[6,0,2022,2],
 "df/dbd/structnpc__pallid__horror.html#a701b52b2977017c692368a5d363dd6bd":[6,0,2022,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/dd3/DetourExtended_8h.html":[7,0,0,0,0,11,1],
 "df/dd3/MovementTypedefs_8h.html":[7,0,0,0,1,2,31,1,2],
 "df/dd3/MovementTypedefs_8h.html#a15b376933a666c7f7c4600e62d7afe91":[7,0,0,0,1,2,31,1,2,6],
-"df/dd3/MovementTypedefs_8h.html#a40f989c23fe19e12628da3cd9e64edf4":[7,0,0,0,1,2,31,1,2,3],
-"df/dd3/MovementTypedefs_8h.html#a418fff34f8aed72d6d80876be5a33c58":[7,0,0,0,1,2,31,1,2,5]
+"df/dd3/MovementTypedefs_8h.html#a40f989c23fe19e12628da3cd9e64edf4":[7,0,0,0,1,2,31,1,2,3]
 };

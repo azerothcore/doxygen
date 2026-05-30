@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/ddc/classIgbExplosionCheck.html#ae67cca111f26a275614810cbe053bcd8":[6,0,1306,0],
 "de/ddc/classspell__item__shiny__shard__of__the__scale.html":[6,0,3438],
 "de/ddc/classspell__item__shiny__shard__of__the__scale.html#a19c34d190abeab629f48cbbaaa066cf8":[6,0,3438,0],
 "de/ddc/classspell__item__shiny__shard__of__the__scale.html#a7f0074e18ffddba1383b01ce774ecff5":[6,0,3438,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[7,0,0,0,0,9,10,0,4],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[7,0,0,0,0,9,10,0,1],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b":[7,0,0,0,0,9,10,0,3],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e":[7,0,0,0,0,9,10,0,2],
-"de/deb/LogCommon_8h.html#aacbd2dccb14fcb75d2651dce582364df":[7,0,0,0,0,9,10,1]
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e":[7,0,0,0,0,9,10,0,2]
 };
