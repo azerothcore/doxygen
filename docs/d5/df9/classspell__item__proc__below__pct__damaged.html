@@ -326,14 +326,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5699</span>    {</div>
-<div class="line"><span class="lineno"> 5700</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
-<div class="line"><span class="lineno"> 5701</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
-<div class="line"><span class="lineno"> 5702</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 5703</span> </div>
-<div class="line"><span class="lineno"> 5704</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> pct = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue();</div>
-<div class="line"><span class="lineno"> 5705</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad08665e79b8df4fd5339b05ae1538dd9">HealthBelowPctDamaged</a>(pct, damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
-<div class="line"><span class="lineno"> 5706</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5697</span>    {</div>
+<div class="line"><span class="lineno"> 5698</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
+<div class="line"><span class="lineno"> 5699</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
+<div class="line"><span class="lineno"> 5700</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 5701</span> </div>
+<div class="line"><span class="lineno"> 5702</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> pct = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue();</div>
+<div class="line"><span class="lineno"> 5703</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad08665e79b8df4fd5339b05ae1538dd9">HealthBelowPctDamaged</a>(pct, damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
+<div class="line"><span class="lineno"> 5704</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
@@ -346,7 +346,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l00460">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00372">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00469">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>, and <a class="el" href="../../#l01117">Unit::HealthBelowPctDamaged()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05708">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05706">Register()</a>.</p>
 
 </div>
 </div>
@@ -400,14 +400,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5709</span>    {</div>
-<div class="line"><span class="lineno"> 5710</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d5/df9/classspell__item__proc__below__pct__damaged.html#a26a6b40751b0c0b68932b9a6438a4571">spell_item_proc_below_pct_damaged::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 5711</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5707</span>    {</div>
+<div class="line"><span class="lineno"> 5708</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d5/df9/classspell__item__proc__below__pct__damaged.html#a26a6b40751b0c0b68932b9a6438a4571">spell_item_proc_below_pct_damaged::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 5709</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:828</div></div>
-<div class="ttc" id="aclassspell__item__proc__below__pct__damaged_html_a26a6b40751b0c0b68932b9a6438a4571"><div class="ttname"><a href="../../d5/df9/classspell__item__proc__below__pct__damaged.html#a26a6b40751b0c0b68932b9a6438a4571">spell_item_proc_below_pct_damaged::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5698</div></div>
+<div class="ttc" id="aclassspell__item__proc__below__pct__damaged_html_a26a6b40751b0c0b68932b9a6438a4571"><div class="ttname"><a href="../../d5/df9/classspell__item__proc__below__pct__damaged.html#a26a6b40751b0c0b68932b9a6438a4571">spell_item_proc_below_pct_damaged::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5696</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l05698">CheckProc()</a>, and <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l05696">CheckProc()</a>, and <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -420,7 +420,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/df9/classspell__item__proc__below__pct__damaged.html">spell_item_proc_below_pct_damaged</a></li>
-    <li class="footer">Generated on Sat May 30 2026 08:24:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun May 31 2026 08:41:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

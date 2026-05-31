@@ -1,5 +1,12 @@
 var NAVTREEINDEX177 =
 {
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8":[7,0,0,0,1,2,7,0,1,22],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8a0b7d3eb5223a16d4af07f3a3b512c57e":[7,0,0,0,1,2,7,0,1,22,8],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664":[7,0,0,0,1,2,7,0,1,22,0],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8a282758e6cfd96126d1c093d1870b54a8":[7,0,0,0,1,2,7,0,1,22,9],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8a52633c19271c36d385bc18017b66f795":[7,0,0,0,1,2,7,0,1,22,6],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8a52ef80868a218105b23355e80a73c8e6":[7,0,0,0,1,2,7,0,1,22,3],
+"d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101":[7,0,0,0,1,2,7,0,1,22,1],
 "d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d":[7,0,0,0,1,2,7,0,1,22,7],
 "d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3":[7,0,0,0,1,2,7,0,1,22,4],
 "d6/d4f/BattlefieldWG_8h.html#af094ad05f7b14210534e8def57b86fe8aebeebfc0f9a748fb2493a0dfdb9ba907":[7,0,0,0,1,2,7,0,1,22,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d58/classspell__vazruden__fireball.html#adf350bccc5862252f6928faa4ae3a001":[6,0,4225,0],
 "d6/d58/classspell__vazruden__fireball.html#afaf23967ede6e120caa7758ff2d3c974":[6,0,4225,2],
 "d6/d59/classAuraScriptProcTestFixture.html":[6,0,298],
-"d6/d59/classAuraScriptProcTestFixture.html#a0b5925a6df47ba704bfc196cc89c4919":[6,0,298,8],
-"d6/d59/classAuraScriptProcTestFixture.html#a0dd9f22f9528a05b229828e4a2c97757":[6,0,298,0],
-"d6/d59/classAuraScriptProcTestFixture.html#a26531bd3f3256075455b32b42a172f6a":[6,0,298,2],
-"d6/d59/classAuraScriptProcTestFixture.html#a30ebff666ac835168f1bf7d6aa771e0c":[6,0,298,9],
-"d6/d59/classAuraScriptProcTestFixture.html#a409ccb130f529cb20e5164b465e05ca6":[6,0,298,6],
-"d6/d59/classAuraScriptProcTestFixture.html#a65b0d4a0beb4c2f986f71ff5732e0f3c":[6,0,298,4],
-"d6/d59/classAuraScriptProcTestFixture.html#a782580d41f8233b93d51fe347601e730":[6,0,298,5],
-"d6/d59/classAuraScriptProcTestFixture.html#a81032fc22ce45902d34cf897606bd966":[6,0,298,1]
+"d6/d59/classAuraScriptProcTestFixture.html#a0b5925a6df47ba704bfc196cc89c4919":[6,0,298,8]
 };

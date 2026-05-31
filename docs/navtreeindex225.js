@@ -1,5 +1,12 @@
 var NAVTREEINDEX225 =
 {
+"d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3":[7,0,0,0,1,3,6,2,6,1],
+"d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc":[7,0,0,0,1,3,6,2,6,3],
+"d8/d70/OutdoorPvPEP_8h.html#adae054ab5e44ffc0c7a528c417aff670":[7,0,0,0,1,3,6,2,14],
+"d8/d70/OutdoorPvPEP_8h.html#af18f636f66cc238611a1f2dd03b2ddcb":[7,0,0,0,1,3,6,2,26],
+"d8/d70/classboss__renataki.html":[6,0,688],
+"d8/d70/classboss__renataki.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a":[6,0,688,2],
+"d8/d70/classboss__renataki.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6":[6,0,688,1],
 "d8/d71/classspell__item__brittle__armor.html":[6,0,3320],
 "d8/d71/classspell__item__brittle__armor.html#a74dc9d9a57ed410b3c0d690418bfb4eb":[6,0,3320,1],
 "d8/d71/classspell__item__brittle__armor.html#a8769cbce815d1f1c457979743e10535c":[6,0,3320,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d74/classWorldSession.html#a4436af8c79f7757142c966d4e87af84b":[4,1,19,173],
 "d8/d74/classWorldSession.html#a4468ba5e2473de51ebaa0e7e1d2e9e14":[4,1,19,623],
 "d8/d74/classWorldSession.html#a45cafabe37b4d230ec861de42588af05":[4,1,19,488],
-"d8/d74/classWorldSession.html#a460438021e2bbb551f6bb4a7a4077845":[4,1,19,629],
-"d8/d74/classWorldSession.html#a462ec92e222d0bef7fd110ff78cc44aa":[4,1,19,133],
-"d8/d74/classWorldSession.html#a46d2c5eafeb7750f0d082489da756511":[4,1,19,93],
-"d8/d74/classWorldSession.html#a4762f07280842b47417cacebeb847b63":[4,1,19,166],
-"d8/d74/classWorldSession.html#a47f3035a702dcec5384d575593efd0c9":[4,1,19,157],
-"d8/d74/classWorldSession.html#a47fa0d32b0cbbffadfcbf99d0cacc8ec":[4,1,19,537],
-"d8/d74/classWorldSession.html#a47fd2385b73c7888e3048839127ff8f6":[4,1,19,1],
-"d8/d74/classWorldSession.html#a485122853dc7095cbedeea73ec307f43":[4,1,19,438]
+"d8/d74/classWorldSession.html#a460438021e2bbb551f6bb4a7a4077845":[4,1,19,629]
 };

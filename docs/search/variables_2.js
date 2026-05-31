@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
+  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
   ['bachievcacherare_1',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
   ['bachievcheese_2',['bAchievCheese',['../d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf',1,'boss_hodir']]],
   ['bachievcoolestfriends_3',['bAchievCoolestFriends',['../d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03',1,'boss_hodir']]],
@@ -92,7 +92,7 @@ var searchData=
   ['berserk_89',['berserk',['../dd/d78/structboss__netherspite.html#a3eab6bee2123d34e6d85fb519c047f00',1,'boss_netherspite::berserk'],['../d4/d22/structboss__hodir.html#a918879c9b92e410ebe14b9be24a86a11',1,'boss_hodir::berserk'],['../db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc',1,'boss_vezax::berserk']]],
   ['berserked_90',['berserked',['../d6/d6e/structboss__sartura.html#a8ad40cee9667500cb0e9533256d216c6',1,'boss_sartura']]],
   ['bestcompatible_91',['bestCompatible',['../d5/d69/structlfg_1_1LfgQueueData.html#a10fe592a7d0b3fc53701d1946d55f0af',1,'lfg::LfgQueueData']]],
-  ['bf_92',['bf',['../d0/d25/classBfGraveyard.html#a30abf6abb0dc36c9376f6f405a0a9f4e',1,'BfGraveyard::Bf'],['../df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d',1,'BfCapturePoint::Bf'],['../d0/d4d/structWGWorkshop.html#ae2b7e050289ad5922ddcd73c6da9f5a5',1,'WGWorkshop::bf']]],
+  ['bf_92',['bf',['../d0/d4d/structWGWorkshop.html#ae2b7e050289ad5922ddcd73c6da9f5a5',1,'WGWorkshop::bf'],['../d0/d25/classBfGraveyard.html#a30abf6abb0dc36c9376f6f405a0a9f4e',1,'BfGraveyard::Bf'],['../df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d',1,'BfCapturePoint::Bf']]],
   ['bfmap_93',['BfMap',['../d6/d26/classBattlefield.html#ad574fd71677683547ae69e2245890647',1,'Battlefield']]],
   ['bg_94',['Bg',['../dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a53e3f146f6a925bbe1fdae2105b79952',1,'WorldPackets::Guild::SaveGuildEmblem']]],
   ['bg_5fab_5fbanner_5fupdate_5ftime_95',['BG_AB_BANNER_UPDATE_TIME',['../d2/d35/BattlegroundAB_8h.html#a8a2e075b59b1fc0fc4993c2c10a8a023',1,'BattlegroundAB.h']]],

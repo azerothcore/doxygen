@@ -8,10 +8,6 @@ var boss__magtheridon_8cpp =
     [ "spell_magtheridon_quake", "d4/df4/classspell__magtheridon__quake.html", "d4/df4/classspell__magtheridon__quake" ],
     [ "spell_magtheridon_debris_target_selector", "d6/dc5/classspell__magtheridon__debris__target__selector.html", "d6/dc5/classspell__magtheridon__debris__target__selector" ],
     [ "go_manticron_cube", "db/d7f/classgo__manticron__cube.html", "db/d7f/classgo__manticron__cube" ],
-    [ "Actions", "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
-      [ "ACTION_INCREASE_HELLFIRE_CHANNELER_DEATH_COUNT", "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccfac343c605ac8cb7728750c59cd3c592ab", null ],
-      [ "ACTION_BANISH_SELF", "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccfa3e2a47382c165581b8de4e00dcf12dd1", null ]
-    ] ],
     [ "Emotes", "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "SAY_EMOTE_BEGIN", "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf28304a56c6ff613e36c3c641ea7da37", null ],
       [ "SAY_EMOTE_NEARLY", "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa3115e606a56eb4374aacd98d4c96bd9b", null ],

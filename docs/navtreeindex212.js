@@ -1,5 +1,12 @@
 var NAVTREEINDEX212 =
 {
+"d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[7,0,0,0,1,2,38,0,45,0],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,4085],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,4085,3],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,4085,1],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,4085,4],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,4085,0],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,4085,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,4085,5],
 "d7/dbc/classspell__warr__glyph__of__blocking.html":[6,0,4296],
 "d7/dbc/classspell__warr__glyph__of__blocking.html#a04085f70b61ea7ff2073a1cd777eca1b":[6,0,4296,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751":[6,0,1375,0,0],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac2feda8cd6838208b4125660768bd149":[6,0,1375,0,4],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#acf3803f7c36401f8d07d338deb85f8bf":[6,0,1375,0,9],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad03c27a0167ecd9ee2e560c053b040ca":[6,0,1375,0,7],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[6,0,1375,0,10],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aef7c9ab9977a037f1021efd9fe83e921":[6,0,1375,0,29],
-"d7/dc6/boss__galvangar_8cpp.html":[7,0,0,0,1,3,2,0,3],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,0,3,3],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[7,0,0,0,1,3,2,0,3,3,1],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,0,3,3,0],
-"d7/dc6/boss__galvangar_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[7,0,0,0,1,3,2,0,3,4]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad03c27a0167ecd9ee2e560c053b040ca":[6,0,1375,0,7]
 };

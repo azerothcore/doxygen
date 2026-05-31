@@ -1,5 +1,16 @@
 var NAVTREEINDEX404 =
 {
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#aa8578390d7d9379328c02ceb209e94ed":[6,0,3648,2],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ab89ab441f022ee017548ba49d128b92e":[6,0,3648,1],
+"df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ad5d695978794d796eb7139fce1530d57":[6,0,3648,4],
+"df/d55/classspell__sindragosa__icy__grip__jump.html":[6,0,4088],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[6,0,4088,1],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[6,0,4088,2],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[6,0,4088,0],
+"df/d56/classAreaBoundary.html":[6,0,166],
+"df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[6,0,166,4],
+"df/d56/classAreaBoundary.html#a6050e91b3d485e75186a2df9a56e8d38":[6,0,166,1],
+"df/d56/classAreaBoundary.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1":[6,0,166,3],
 "df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[6,0,166,6],
 "df/d56/classAreaBoundary.html#adf670910c492c08d3384c2dd1824e7ce":[6,0,166,2],
 "df/d56/classAreaBoundary.html#ae5580b0044dba24d100831fe51ee1abc":[6,0,166,5],
@@ -238,16 +249,5 @@ var NAVTREEINDEX404 =
 "df/d6a/boss__warlord__najentus_8cpp.html":[7,0,0,0,1,3,7,1,9],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,1,9,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b580e191197b2fffc3b57c3854324d1":[7,0,0,0,1,3,7,1,9,5,0],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,1,9,7],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,1,9,7,5],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1c0ae6a58d21e6e6480db8b35c19d58f":[7,0,0,0,1,3,7,1,9,7,1],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,1,9,7,0],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,7,1,9,7,3],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,1,9,7,2],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,1,9,7,4],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,9,6],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca076daa7ca407e32a85aaf56d1f22100a":[7,0,0,0,1,3,7,1,9,6,5],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dc7878b2fbd4648a8a46443f095bfd4":[7,0,0,0,1,3,7,1,9,6,4],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca755ded2fc6ebfb3993d61559acda3d86":[7,0,0,0,1,3,7,1,9,6,0],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca88fe3729150756d166312aee689665cc":[7,0,0,0,1,3,7,1,9,6,7]
+"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,1,9,7]
 };

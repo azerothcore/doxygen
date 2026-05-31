@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d73/classScriptMgr.html#a914da0d1879c615a1575f6a664990e92":[6,0,2540,321],
+"d2/d73/classScriptMgr.html#a91fa6e296a075ee3af6c56c986f4239e":[6,0,2540,203],
 "d2/d73/classScriptMgr.html#a9316537c6cab6966f41d47ca64b949c9":[6,0,2540,475],
 "d2/d73/classScriptMgr.html#a9352357ee8bbc2df90f30802fb1bc4f8":[6,0,2540,244],
 "d2/d73/classScriptMgr.html#a95d3db7f00314823f62554149579f62c":[6,0,2540,408],
@@ -203,11 +205,11 @@ var NAVTREEINDEX68 =
 "d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce":[6,0,2540,464],
 "d2/d73/classScriptMgr.html#aff9a8ed02bf9ee5d4af463232ea4e1d5":[6,0,2540,28],
 "d2/d73/classScriptMgr.html#affb1862a353fbc0e9b89eb664fe5f797":[6,0,2540,57],
-"d2/d73/classStartMovementEvent.html":[6,0,4443],
-"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4443,0],
-"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4443,2],
-"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4443,1],
-"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4443,3],
+"d2/d73/classStartMovementEvent.html":[6,0,4444],
+"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4444,0],
+"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4444,2],
+"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4444,1],
+"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4444,3],
 "d2/d73/classitem__incendiary__explosives.html":[6,0,1401],
 "d2/d73/classitem__incendiary__explosives.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4":[6,0,1401,1],
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[6,0,1401,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d77/classspell__scholomance__fixate__aura.html":[6,0,4000],
 "d2/d77/classspell__scholomance__fixate__aura.html#a16623b3187e98fc50f5a3b8e0297b0ea":[6,0,4000,1],
 "d2/d77/classspell__scholomance__fixate__aura.html#a710536e0a3bacf173d037041e755bd82":[6,0,4000,0],
-"d2/d77/classspell__scholomance__fixate__aura.html#a9092818bdb15a12163aae633049cb7f6":[6,0,4000,3],
-"d2/d77/classspell__scholomance__fixate__aura.html#ab1d5eb39b503f7e08a404cf172b8de96":[6,0,4000,2],
-"d2/d77/structDBCPosition3D.html":[6,0,983]
+"d2/d77/classspell__scholomance__fixate__aura.html#a9092818bdb15a12163aae633049cb7f6":[6,0,4000,3]
 };

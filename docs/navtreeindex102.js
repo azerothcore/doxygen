@@ -1,5 +1,12 @@
 var NAVTREEINDEX102 =
 {
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,1,0,3,0],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a75447a07419a84c3382ae5f76095c848":[7,0,0,0,1,3,7,5,1,0,3,4],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,5,1,0,3,1],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1aa673e8c4b29ae3417b3968e0eee80e60":[7,0,0,0,1,3,7,5,1,0,3,2],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,5,1,0,3,5],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,1,0,4],
+"d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298ca48c5249d476ed6d12cda2816496854f2":[7,0,0,0,1,3,7,5,1,0,4,3],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298ca987a24c84fe608a81d95d413739d03d3":[7,0,0,0,1,3,7,5,1,0,4,5],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298cab51e1cf7ac8f6b643ed3a8ed1f14805b":[7,0,0,0,1,3,7,5,1,0,4,2],
 "d3/d6f/boss__commander__sarannis_8cpp.html#a5bd342133be8c2137b831460acc9298cac3d3105e9f9103419aab207981c9fdcc":[7,0,0,0,1,3,7,5,1,0,4,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d7e/classspell__grab__on.html#a53d9d7de4922ed6509b6036921640352":[6,0,3135,2],
 "d3/d7e/classspell__grab__on.html#abe018ab20f948bf5ddb47a724dfb9553":[6,0,3135,0],
 "d3/d7e/classspell__grab__on.html#af0f5206d98dbc9de355abbeb03709c05":[6,0,3135,1],
-"d3/d7f/namespaceadvstd.html":[5,0,3],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html":[6,0,458],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a182564d95dc677ea33e47995638a9a58":[6,0,458,2],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a33efe0ee1573c4b43cdf58bdce303e5d":[6,0,458,0],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a526a7726e2838ef4c49cca8dd6fc68c9":[6,0,458,1],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a5ccda3d76afe43804c86e193afa9b80c":[6,0,458,4],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#a7f7ae37e4abbe37f4fa46b98af3ac03a":[6,0,458,3],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#aaadeb10c22c598cd10ccde83425fbf71":[6,0,458,6]
+"d3/d7f/namespaceadvstd.html":[5,0,3]
 };

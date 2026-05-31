@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['w_0',['w',['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w'],['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W']]],
+  ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
   ['wailing_5fcaverns_2eh_1',['wailing_caverns.h',['../d2/d7a/wailing__caverns_8h.html',1,'']]],
   ['wait_2',['wait',['../d5/d87/classNetworkThread.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()'],['../df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()'],['../db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()'],['../d3/db8/classMapUpdater.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()']]],
   ['waitandpop_3',['WaitAndPop',['../d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d',1,'ProducerConsumerQueue']]],
@@ -1227,7 +1227,7 @@ var searchData=
   ['worldsocketmgr_2ecpp_1224',['WorldSocketMgr.cpp',['../d9/de5/WorldSocketMgr_8cpp.html',1,'']]],
   ['worldsocketmgr_2eh_1225',['WorldSocketMgr.h',['../d9/d74/WorldSocketMgr_8h.html',1,'']]],
   ['worldsocketthread_1226',['WorldSocketThread',['../db/d07/classWorldSocketThread.html',1,'']]],
-  ['worldstate_1227',['worldstate',['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d3/da9/classWorldState.html#ad14e01bcb94b4edea5d2515cf6cf0868',1,'WorldState::WorldState()'],['../d3/da9/classWorldState.html',1,'WorldState'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState']]],
+  ['worldstate_1227',['worldstate',['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d3/da9/classWorldState.html#ad14e01bcb94b4edea5d2515cf6cf0868',1,'WorldState::WorldState()'],['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d3/da9/classWorldState.html',1,'WorldState'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState']]],
   ['worldstate_2ecpp_1228',['WorldState.cpp',['../db/d68/WorldState_8cpp.html',1,'']]],
   ['worldstate_2eh_1229',['WorldState.h',['../d7/d9a/WorldState_8h.html',1,'']]],
   ['worldstate1_1230',['worldState1',['../dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e',1,'GameObjectTemplate']]],

@@ -9,7 +9,6 @@ var structboss__magtheridon =
     [ "ScheduleCombatEvents", "d9/d98/structboss__magtheridon.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
     [ "UpdateAI", "d9/d98/structboss__magtheridon.html#a656e9595b30d014c54cc456d7f81f657", null ],
     [ "_castingQuake", "d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
-    [ "_channelersKilled", "d9/d98/structboss__magtheridon.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
     [ "_currentPhase", "d9/d98/structboss__magtheridon.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
     [ "_interruptScheduler", "d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
     [ "_magReleased", "d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e", null ],

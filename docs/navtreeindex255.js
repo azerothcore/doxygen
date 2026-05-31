@@ -1,5 +1,11 @@
 var NAVTREEINDEX255 =
 {
+"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,15,3,3],
+"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4":[7,0,0,0,1,3,2,15,3,3,1],
+"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abb1b0d048c012ee227241b4d7a567edb":[7,0,0,0,1,3,2,15,3,3,0],
+"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ac8c746f010ffb9dba052834764b5ec74":[7,0,0,0,1,3,2,15,3,3,2],
+"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,15,3,5],
+"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4b4b2f055e20c3e8e5019979b6b85e67":[7,0,0,0,1,3,2,15,3,5,3],
 "d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e":[7,0,0,0,1,3,2,15,3,5,0],
 "d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780":[7,0,0,0,1,3,2,15,3,5,1],
 "d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521":[7,0,0,0,1,3,2,15,3,5,2],
@@ -34,8 +40,8 @@ var NAVTREEINDEX255 =
 "d9/df1/boss__janalai_8cpp.html#a6f6c83424c2a8c83a26640ca7cec4913":[7,0,0,0,1,3,2,15,3,11],
 "d9/df1/boss__janalai_8cpp.html#a74ba8b4c18b9c6237dced9bd57e6fca3":[7,0,0,0,1,3,2,15,3,8],
 "d9/df1/boss__janalai_8cpp.html#aa9b512aa2987259f8ced89aec76a2f4e":[7,0,0,0,1,3,2,15,3,12],
-"d9/df1/structSpellFocusObjectEntry.html":[6,0,4381],
-"d9/df1/structSpellFocusObjectEntry.html#a34a2bcafda3bfe22d829f1782031bb4b":[6,0,4381,0],
+"d9/df1/structSpellFocusObjectEntry.html":[6,0,4382],
+"d9/df1/structSpellFocusObjectEntry.html#a34a2bcafda3bfe22d829f1782031bb4b":[6,0,4382,0],
 "d9/df2/classnpc__q24545__vegard.html":[6,0,2081],
 "d9/df2/classnpc__q24545__vegard.html#a9a7accfb3eea9f08efbb82fbd4bd7e76":[6,0,2081,2],
 "d9/df2/classnpc__q24545__vegard.html#ac12e2f143fab6b93950eaea06f5f7d85":[6,0,2081,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX255 =
 "d9/df7/classConditionMgr.html#ab72928f9040bb4304539d39b8a481ac0":[6,0,912,7],
 "d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34":[6,0,912,27],
 "d9/df7/classConditionMgr.html#ac4ee112d1f9c762bf24e247732d69214":[6,0,912,13],
-"d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1":[6,0,912,1],
-"d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c":[6,0,912,26],
-"d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009":[6,0,912,25],
-"d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61":[6,0,912,9],
-"d9/df7/classConditionMgr.html#aedbbcc49f4cfcbcdb6fbb6574079af27":[6,0,912,21],
-"d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e":[6,0,912,8],
-"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,912,15]
+"d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1":[6,0,912,1]
 };

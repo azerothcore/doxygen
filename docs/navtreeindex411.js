@@ -1,5 +1,16 @@
 var NAVTREEINDEX411 =
 {
+"df/da7/classBattleground.html#a50d5eb3fe1e847aedc5584ea8a441bd8":[6,0,328,136],
+"df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af":[6,0,328,134],
+"df/da7/classBattleground.html#a55305a8fcb4f4eaa7cbb20a74a75fa2a":[6,0,328,205],
+"df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[6,0,328,50],
+"df/da7/classBattleground.html#a5746983283edbcf45f6a980b61b6cf05":[6,0,328,111],
+"df/da7/classBattleground.html#a576a3a84512ae8afa468f7d31f556e9a":[6,0,328,36],
+"df/da7/classBattleground.html#a577dcbd8ed354790c88257ba2e0a9179":[6,0,328,231],
+"df/da7/classBattleground.html#a57f23a55d9f4ebdad0202c7df1e40337":[6,0,328,117],
+"df/da7/classBattleground.html#a58076b25f840f62b2cafef67a9b97401":[6,0,328,137],
+"df/da7/classBattleground.html#a59ae47729c5694a6598ea20128583ed0":[6,0,328,90],
+"df/da7/classBattleground.html#a5a33a0e427e12bbd78b08e6986efee76":[6,0,328,147],
 "df/da7/classBattleground.html#a5b9b5c1e6b69071a781b7528c367525c":[6,0,328,151],
 "df/da7/classBattleground.html#a5e7f15b4edbc433ca648f9fec39f7523":[6,0,328,214],
 "df/da7/classBattleground.html#a5ed992d92db7c290f20b0500f22bde78":[6,0,328,169],
@@ -238,16 +249,5 @@ var NAVTREEINDEX411 =
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,9,1,0,4,2],
 "df/dab/boss__krystallus_8cpp.html#af4edae984bfe1d62b750eec0e9b7c015":[7,0,0,0,1,3,5,9,1,0,7],
 "df/dae/classspell__drakkari__colossus__emerge.html":[6,0,2840],
-"df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[6,0,2840,1],
-"df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[6,0,2840,2],
-"df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[6,0,2840,0],
-"df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[6,0,2840,3],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[6,0,2065,0],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a1e1ab6c1d349a9543815a29ae185feec":[6,0,2065,0,6],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a2ded8591da2548921cd016d592d1f1c8":[6,0,2065,0,0],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a32f4c5c48f1a63ded0ac9b8ee763090b":[6,0,2065,0,2],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a452c096475581c12bf2f4ccb12448026":[6,0,2065,0,5],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a640aea9ce4a47dd13d417748e533fc33":[6,0,2065,0,4],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a941d3b42d6a0e58496b724af56fee44a":[6,0,2065,0,1],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#ae630b7b225379831d15a11f66507bc6a":[6,0,2065,0,3]
+"df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[6,0,2840,1]
 };

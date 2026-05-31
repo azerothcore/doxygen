@@ -1,5 +1,12 @@
 var NAVTREEINDEX151 =
 {
+"d5/d71/classspell__item__enchanted__broom__periodic.html#a1bd15727da421fdbfc3a60136bfa9bc9":[6,0,3351,0],
+"d5/d71/classspell__item__enchanted__broom__periodic.html#a1c4f592511c8886d0b9a5e64eb19cda7":[6,0,3351,1],
+"d5/d71/classspell__item__enchanted__broom__periodic.html#ac019a52a6f62f1251d20efcfadba1e78":[6,0,3351,2],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[6,0,0,51],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[5,0,0,63],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[5,0,0,63,0],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[6,0,0,51,0],
 "d5/d72/classHolidayDateCalculatorTest.html":[6,0,1288],
 "d5/d72/classHolidayDateCalculatorTest.html#a98d1b0446f1db9a0e25ad93b40d7d7a0":[6,0,1288,0],
 "d5/d72/classHolidayDateCalculatorTest.html#af1ee91196bfb749605bf98f4441a03a4":[6,0,1288,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX151 =
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a5feb939ee80ce62ab78347099e8d88a7":[7,0,0,0,1,2,0,3,4,18],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a60b13df3945f0b85ecc07d7c1191e0e5":[7,0,0,0,1,2,0,3,4,589],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a612d09be73c33d3e5c7f31baa90ec207":[7,0,0,0,1,2,0,3,4,146],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a628bd3430d252654a950f106bdeff45f":[7,0,0,0,1,2,0,3,4,218],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a62a42183af6312ef62a8121f4831d70b":[7,0,0,0,1,2,0,3,4,266],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a6461097a2e796be19cf3b56b339f6855":[7,0,0,0,1,2,0,3,4,444],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a64cd30b92b344e684b06a4c1027de280":[7,0,0,0,1,2,0,3,4,166],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a65e86334f313a728324239a34a294b56":[7,0,0,0,1,2,0,3,4,265],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a66b59cf3f29896fb4d28d86c757a1d99":[7,0,0,0,1,2,0,3,4,479],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a66c1e23957549f3ffb7abb28ce4ed801":[7,0,0,0,1,2,0,3,4,42],
-"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a670a4b6b326b02bbf510f164c668a3be":[7,0,0,0,1,2,0,3,4,241]
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04a628bd3430d252654a950f106bdeff45f":[7,0,0,0,1,2,0,3,4,218]
 };

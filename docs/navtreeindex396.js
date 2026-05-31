@@ -1,5 +1,16 @@
 var NAVTREEINDEX396 =
 {
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[6,0,13,13,0,2],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,34,13,0,2],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[6,0,3646],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#aa9f5924b3f12c666c53ddc2b9b80aeea":[6,0,3646,2],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[6,0,3646,0],
+"df/d07/classspell__mother__shahraz__beam__periodic__aura.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5":[6,0,3646,1],
+"df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html":[6,0,1806,0],
+"df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a25df0b8760e9eb7d330779e10e3ac548":[6,0,1806,0,0],
+"df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html#a9cc0b500f1289dc8b764b3755468e639":[6,0,1806,0,1],
+"df/d07/structnpc__hor__spiritual__reflection.html":[6,0,1873],
+"df/d07/structnpc__hor__spiritual__reflection.html#a3973e83b013df723849939635071324f":[6,0,1873,1],
 "df/d07/structnpc__hor__spiritual__reflection.html#a5093b6502bca95c22b2b0f0117f86047":[6,0,1873,5],
 "df/d07/structnpc__hor__spiritual__reflection.html#a913d17e1534a5940b7841e38eae246f7":[6,0,1873,2],
 "df/d07/structnpc__hor__spiritual__reflection.html#aa7dad28bbe53286ec298ba5480717e69":[6,0,1873,4],
@@ -238,16 +249,5 @@ var NAVTREEINDEX396 =
 "df/d14/classPet.html#a4f51b83ff25e3bfbee6d635118800938":[6,0,2387,67],
 "df/d14/classPet.html#a4f7462b8b062cb5b842244b527517fe7":[6,0,2387,35],
 "df/d14/classPet.html#a5318c4fc909c15b4ac3ed440f8ad5f2b":[6,0,2387,69],
-"df/d14/classPet.html#a53b8f73a1fa1618417bf791acc9815c8":[6,0,2387,75],
-"df/d14/classPet.html#a6152b833b94d8b470e83c6d4b1a18fa1":[6,0,2387,33],
-"df/d14/classPet.html#a62481470d2548378d2ca31c8f8af70d2":[6,0,2387,7],
-"df/d14/classPet.html#a641fba5945a2462c733fc98da6e4fee2":[6,0,2387,50],
-"df/d14/classPet.html#a65aeabc87692b03661afe4204672ec35":[6,0,2387,46],
-"df/d14/classPet.html#a6628391579f132dd36b5e8af5ea97f12":[6,0,2387,51],
-"df/d14/classPet.html#a684e52f54901ab9c2f02dfcee5312358":[6,0,2387,79],
-"df/d14/classPet.html#a69eeefed774785abea1b9d36b2cd30a6":[6,0,2387,40],
-"df/d14/classPet.html#a6e1975168e20419d58d300012781def9":[6,0,2387,65],
-"df/d14/classPet.html#a6ef6bcc790ed519905e1878a25a8cbc6":[6,0,2387,8],
-"df/d14/classPet.html#a7018de24620b6982be4a4cc7f7cf889a":[6,0,2387,74],
-"df/d14/classPet.html#a782a0dd61ab205062011b5caae00884d":[6,0,2387,24]
+"df/d14/classPet.html#a53b8f73a1fa1618417bf791acc9815c8":[6,0,2387,75]
 };

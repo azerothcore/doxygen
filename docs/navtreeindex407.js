@@ -1,5 +1,16 @@
 var NAVTREEINDEX407 =
 {
+"df/d81/classspell__dk__wandering__plague.html#adab73c94c659d7421c9c6887d956cd83":[6,0,2831,0],
+"df/d81/structboss__dorothee.html":[6,0,443],
+"df/d81/structboss__dorothee.html#a0e76c828a1c7c49741963b6e98003a66":[6,0,443,7],
+"df/d81/structboss__dorothee.html#a1b9cf1e58d68d249249a8b0d082b725a":[6,0,443,1],
+"df/d81/structboss__dorothee.html#a20e6555e2117a62fce3af7f7fb7167cc":[6,0,443,11],
+"df/d81/structboss__dorothee.html#a258cc9ce32f314e723d5345ac18336bf":[6,0,443,13],
+"df/d81/structboss__dorothee.html#a289dfa1f257ca25acba9487908e6223c":[6,0,443,3],
+"df/d81/structboss__dorothee.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e":[6,0,443,9],
+"df/d81/structboss__dorothee.html#a5c04074aab40ecaeeb84b33205b40144":[6,0,443,8],
+"df/d81/structboss__dorothee.html#a6dfc4109370d4e932e7376a443bd64ad":[6,0,443,2],
+"df/d81/structboss__dorothee.html#a762209d2bf78cc21c48a426732f2354e":[6,0,443,5],
 "df/d81/structboss__dorothee.html#a840bcbad78ff881ef3a803ffa23d3c6e":[6,0,443,10],
 "df/d81/structboss__dorothee.html#a8bd5b4753c2d8f8aced0c036912f10f1":[6,0,443,0],
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,443,4],
@@ -238,16 +249,5 @@ var NAVTREEINDEX407 =
 "df/d8d/structSmartTarget.html#a0f21c03faa25895f9355fc81790f0154":[6,0,2588,2],
 "df/d8d/structSmartTarget.html#a116af76f77315fc069370a1772464e9e":[6,0,2588,54],
 "df/d8d/structSmartTarget.html#a13101dc99bd1bf29036520d0df6557ee":[6,0,2588,37],
-"df/d8d/structSmartTarget.html#a15c71966dd35ba4175810f9d84276966":[6,0,2588,9],
-"df/d8d/structSmartTarget.html#a1ba3e14c4939fd13f5babb176fadfe53":[6,0,2588,53],
-"df/d8d/structSmartTarget.html#a1d48117a9bdf1ffe54145ac2b583b501":[6,0,2588,16],
-"df/d8d/structSmartTarget.html#a21810f28a0a9df4e55facf1d182bd68c":[6,0,2588,52],
-"df/d8d/structSmartTarget.html#a283ae7d8a9e5b9b4a02c1ec8f0a28a48":[6,0,2588,46],
-"df/d8d/structSmartTarget.html#a28a91da4b59f75cd41df0e712337b291":[6,0,2588,31],
-"df/d8d/structSmartTarget.html#a2ed93baf995e552b1bf290ca7a3c21d9":[6,0,2588,51],
-"df/d8d/structSmartTarget.html#a32a015e78831b2999a57b352be03cd81":[6,0,2588,41],
-"df/d8d/structSmartTarget.html#a382503df0337a1fa41f4a01e5d2ed4cd":[6,0,2588,33],
-"df/d8d/structSmartTarget.html#a3be697bd5161ea28f96e855ec6dd5d06":[6,0,2588,28],
-"df/d8d/structSmartTarget.html#a41beb81a110ce6b14381fd4676244e3c":[6,0,2588,40],
-"df/d8d/structSmartTarget.html#a430510504aebb2e9f37278bdd231ab3b":[6,0,2588,48]
+"df/d8d/structSmartTarget.html#a15c71966dd35ba4175810f9d84276966":[6,0,2588,9]
 };

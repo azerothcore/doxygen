@@ -21,12 +21,17 @@ var magtheridons__lair_8h =
       [ "GO_MAGTHERIDON_COLUMN4", "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a1af7dcbea0aa24f1eab9d95749c98842", null ],
       [ "GO_MAGTHERIDON_COLUMN5", "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a82a634e2322f4842d73017b925aee353", null ]
     ] ],
+    [ "MagtheridonActions", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504", [
+      [ "ACTION_RELEASE_MAGTHERIDON", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504ac3d10776a3cac1cf50615e056ee00320", null ],
+      [ "ACTION_BANISH_SELF", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504a3e2a47382c165581b8de4e00dcf12dd1", null ]
+    ] ],
     [ "NpcIds", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3", [
       [ "NPC_MAGTHERIDON", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a06b5aeac270c86765bd3713844233f5f", null ],
       [ "NPC_HELLFIRE_CHANNELER", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a55a878fee5cade44ec65d8743ecd7aa2", null ],
       [ "NPC_HELLFIRE_WARDER", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a713bb6ae18f1cedc9590fd3918a641a3", null ],
       [ "NPC_HELLFIRE_RAID_TRIGGER", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a15d066f41e2f2f523352a34d0fdf20de", null ],
-      [ "NPC_TARGET_TRIGGER", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a8d6e6cbf2c86e40bc0b810398fba4563", null ]
+      [ "NPC_TARGET_TRIGGER", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a8d6e6cbf2c86e40bc0b810398fba4563", null ],
+      [ "NPC_BURNING_ABYSSAL", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3aeaf0c5788aa39cbf08631934bee8fb76", null ]
     ] ],
     [ "GetMagtheridonsLairAI", "da/d83/magtheridons__lair_8h.html#abbb41987ebb50628ffd601225d4de8e7", null ]
 ];

@@ -1,5 +1,12 @@
 var NAVTREEINDEX179 =
 {
+"d6/d66/classDBUpdaterUtil.html#a31499b458f0ff0ec518980f51d6a242a":[6,0,988,1],
+"d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80":[6,0,988,0],
+"d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9":[6,0,988,2],
+"d6/d66/classGameObjectAI.html":[6,0,1103],
+"d6/d66/classGameObjectAI.html#a0d1207e28b98c2b92715a1a920f1a465":[6,0,1103,8],
+"d6/d66/classGameObjectAI.html#a17d3fa0b7adc67f7d5967b15bd585b93":[6,0,1103,14],
+"d6/d66/classGameObjectAI.html#a1eb34e87f4d7e66363b4270210e4aee3":[6,0,1103,24],
 "d6/d66/classGameObjectAI.html#a1f59193d49b2ef4c0e0c4779efddccb3":[6,0,1103,6],
 "d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747":[6,0,1103,27],
 "d6/d66/classGameObjectAI.html#a2f4505971257f8a7335b6ca1a7d60b21":[6,0,1103,4],
@@ -30,9 +37,9 @@ var NAVTREEINDEX179 =
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[6,0,4229,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[6,0,4229,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[6,0,4229,0],
-"d6/d67/classSpellProcPipelineTest.html":[6,0,4412],
-"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[6,0,4412,0],
-"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[6,0,4412,1],
+"d6/d67/classSpellProcPipelineTest.html":[6,0,4413],
+"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[6,0,4413,0],
+"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[6,0,4413,1],
 "d6/d68/HMAC_8h.html":[7,0,0,0,0,3,14],
 "d6/d68/HMAC_8h.html#a5186a2a02e2301ec3ea7b37d8b41097f":[7,0,0,0,0,3,14,1],
 "d6/d68/HMAC_8h.html#a80d906d20826d6c963f50eba5f7c4c2a":[7,0,0,0,0,3,14,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d70/classspell__item__socrethars__stone.html#a3bf16100687a002a0d3b95bea11dc90f":[6,0,3444,1],
 "d6/d70/classspell__item__socrethars__stone.html#a4698eab378b8cf6d4aeb595b53a9df13":[6,0,3444,3],
 "d6/d70/classspell__item__socrethars__stone.html#a8586b480a304f19741de62b606c9f456":[6,0,3444,2],
-"d6/d70/classspell__item__socrethars__stone.html#ab3e697ba71654bf9b67e1d1660b3a7ea":[6,0,3444,4],
-"d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca":[6,0,3444,0],
-"d6/d71/classboss__meathook.html":[6,0,630],
-"d6/d71/classboss__meathook.html#a044c8ec4a419e5c5a8b290df9c0ad169":[6,0,630,1],
-"d6/d71/classboss__meathook.html#ae8ee3631ff1f80f4fad99e4eca042ad8":[6,0,630,2],
-"d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
-"d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
-"d6/d73/classspell__gluth__decimate__damage.html":[6,0,3131]
+"d6/d70/classspell__item__socrethars__stone.html#ab3e697ba71654bf9b67e1d1660b3a7ea":[6,0,3444,4]
 };

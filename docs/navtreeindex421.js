@@ -1,5 +1,16 @@
 var NAVTREEINDEX421 =
 {
+"df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22aa27967dfb2f00440ea6227a1ba33e4f2":[7,0,0,0,1,3,7,5,3,6,4,1],
+"df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,16,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,13,16,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,16,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,13,16,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,16,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,13,16,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,13,16,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,16,0,0,1],
+"df/dee/classBloodboltHitCheck.html":[6,0,376],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,376,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,376,1],
 "df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[6,0,376,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX421 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ab4fa6a2cc57c9d110bfd3cf16a016942":[6,0,705,0,0],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,705,0,4],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,705,0,5],
-"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,705,0,7],
-"df/df9/structnpc__brann__bronzebeard__algalon.html":[6,0,1687],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a33af1a38ab2827aec38f95e57e54f589":[6,0,1687,2],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a5403badf59f96111aefaddf78379e65f":[6,0,1687,4],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a6d44478868a74ed7baac757258334806":[6,0,1687,1],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ac00755dca7e187b55516be889386c499":[6,0,1687,0],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[6,0,1687,3],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[6,0,1687,5],
-"df/dfa/structnpc__hover__disk.html":[6,0,1875],
-"df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[6,0,1875,7],
-"df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[6,0,1875,3],
-"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[6,0,1875,1]
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,705,0,7]
 };

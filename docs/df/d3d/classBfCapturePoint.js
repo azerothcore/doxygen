@@ -16,7 +16,7 @@ var classBfCapturePoint =
     [ "SendUpdateWorldState", "df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546", null ],
     [ "SetCapturePointData", "df/d3d/classBfCapturePoint.html#a309d340d11c1712f5525438f31779671", null ],
     [ "Update", "df/d3d/classBfCapturePoint.html#a3620c3873aca6e90594a4ddc8345102d", null ],
-    [ "ActivePlayers", "df/d3d/classBfCapturePoint.html#a04eb49f420c0c2ed61789331c6769909", null ],
+    [ "ActivePlayers", "df/d3d/classBfCapturePoint.html#a4119bc83520e4e5c68a2af470f30e2fc", null ],
     [ "Bf", "df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d", null ],
     [ "CapturePoint", "df/d3d/classBfCapturePoint.html#a828856e871ab12e7222f542fcfebf6e3", null ],
     [ "CapturePointEntry", "df/d3d/classBfCapturePoint.html#adc770791f08285d7bc5a4c59a0b8c542", null ],

@@ -1,5 +1,12 @@
 var NAVTREEINDEX153 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac61cb8159b5c04b17552dc9a2a6dabcb":[7,0,0,0,1,2,0,3,4,492],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac790965af34cd279171fd7b4dc04e145":[7,0,0,0,1,2,0,3,4,205],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac830e6fdb4495bad88a778e72ac86f97":[7,0,0,0,1,2,0,3,4,412],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac8d2b520b19f78c0c1dabc5cdd64d0d0":[7,0,0,0,1,2,0,3,4,60],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac95b5cee8503cde94bf679f14e7d0127":[7,0,0,0,1,2,0,3,4,451],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac95dc19998160a5b8321f60d9a2394f3":[7,0,0,0,1,2,0,3,4,432],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac995ff2e24711351c1071ffcbec2f0fb":[7,0,0,0,1,2,0,3,4,250],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac9df44a4bb5b739daccebccf0a52fefc":[7,0,0,0,1,2,0,3,4,418],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac9ed7ff2d4c73a3ef6d3bd28fa5be89e":[7,0,0,0,1,2,0,3,4,301],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac9fae7a96b4cb9af15ccd70c7d0cbd81":[7,0,0,0,1,2,0,3,4,135],
@@ -191,10 +198,10 @@ var NAVTREEINDEX153 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[6,0,2423,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[6,0,2423,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[6,0,2423,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[6,0,13,14,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,14,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[6,0,13,14,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[6,0,13,14,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,14,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[6,0,13,14,3,0],
 "d5/d76/structboss__faction__championsAI.html":[6,0,472],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[6,0,472,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[6,0,472,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d79/boss__porung_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,7,4,3,1,5,3],
 "d5/d79/boss__porung_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c25b6e2fcccd91986d3b71599f1ebb9":[7,0,0,0,1,3,7,4,3,1,5,1],
 "d5/d79/boss__porung_8cpp.html#a5bd342133be8c2137b831460acc9298ca647201bb71d325f1afce2716da21284e":[7,0,0,0,1,3,7,4,3,1,5,2],
-"d5/d79/boss__porung_8cpp.html#a5bd342133be8c2137b831460acc9298cace7489efdb30119233059090f253a9f6":[7,0,0,0,1,3,7,4,3,1,5,0],
-"d5/d79/boss__porung_8cpp.html#ae82e7dc2b33252a2f7882094ed3c548c":[7,0,0,0,1,3,7,4,3,1,6],
-"d5/d79/classCreatureAI.html":[6,0,941],
-"d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d":[6,0,941,44],
-"d5/d79/classCreatureAI.html#a0619d01bf9eab0b2201fefccb829bc45":[6,0,941,10],
-"d5/d79/classCreatureAI.html#a0bb800c2785607e1318c339d62c724e8":[6,0,941,73],
-"d5/d79/classCreatureAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,941,75],
-"d5/d79/classCreatureAI.html#a100ffdac1244f5a7fdb3692cb903a119":[6,0,941,1]
+"d5/d79/boss__porung_8cpp.html#a5bd342133be8c2137b831460acc9298cace7489efdb30119233059090f253a9f6":[7,0,0,0,1,3,7,4,3,1,5,0]
 };

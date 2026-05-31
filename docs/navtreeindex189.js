@@ -1,5 +1,12 @@
 var NAVTREEINDEX189 =
 {
+"d6/dda/structnpc__hor__lich__king.html#a56b91c8d991778306bfea3702d94f1e7":[6,0,1869,7],
+"d6/dda/structnpc__hor__lich__king.html#a5bac2be147e9725b68f56f056a341442":[6,0,1869,10],
+"d6/dda/structnpc__hor__lich__king.html#a5c9512ccad51c881c9e8759341fd9d14":[6,0,1869,4],
+"d6/dda/structnpc__hor__lich__king.html#a616641dc2e0f46d3f0a86edc87a9a301":[6,0,1869,2],
+"d6/dda/structnpc__hor__lich__king.html#aa2e468e58f92cbdf7377805d5711c45e":[6,0,1869,15],
+"d6/dda/structnpc__hor__lich__king.html#ac261de86ded5c319226867dfc3a5f42f":[6,0,1869,6],
+"d6/dda/structnpc__hor__lich__king.html#acab01caba2cf66c21fe8a164f77491f1":[6,0,1869,12],
 "d6/dda/structnpc__hor__lich__king.html#acaf28a6ecc646d551795bcb10d803923":[6,0,1869,13],
 "d6/dda/structnpc__hor__lich__king.html#ad668e38cc7c651700686665d088d3a1d":[6,0,1869,9],
 "d6/dda/structnpc__hor__lich__king.html#ad6c3d39fa2762b82af94c75cb13e5293":[6,0,1869,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX189 =
 "d6/de9/classspell__kologarn__focused__eyebeam.html":[6,0,3517],
 "d6/de9/classspell__kologarn__focused__eyebeam.html#a0428375ddb89907e7f1728757d55d052":[6,0,3517,3],
 "d6/de9/classspell__kologarn__focused__eyebeam.html#a4d1e588557fa3fa432d4015fda930877":[6,0,3517,2],
-"d6/de9/classspell__kologarn__focused__eyebeam.html#a5467818535c6c7239e185d7c6c3bbd27":[6,0,3517,1],
-"d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c":[6,0,3517,0],
-"d6/de9/tools_2mmaps__generator_2Config_8cpp.html":[7,0,0,0,3,2,0],
-"d6/de9/tools_2mmaps__generator_2Config_8cpp.html#a45540263b1795bfc48c91a117c239a6c":[7,0,0,0,3,2,0,2],
-"d6/de9/tools_2mmaps__generator_2Config_8cpp.html#aa116779ddd87038d6077a805710a7e4d":[7,0,0,0,3,2,0,1],
-"d6/de9/tools_2mmaps__generator_2Config_8cpp.html#ac84de12da6296e2f505870fda60891b1":[7,0,0,0,3,2,0,0],
-"d6/dea/classspell__item__healing__injector.html":[6,0,3374],
-"d6/dea/classspell__item__healing__injector.html#a248ae6d2c8f8d6c014a0164105773836":[6,0,3374,2]
+"d6/de9/classspell__kologarn__focused__eyebeam.html#a5467818535c6c7239e185d7c6c3bbd27":[6,0,3517,1]
 };

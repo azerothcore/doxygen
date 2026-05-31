@@ -1,5 +1,16 @@
 var NAVTREEINDEX330 =
 {
+"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,529,6],
+"dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,529,1],
+"dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,529,0],
+"dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,529,4],
+"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,529,2],
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,529,3],
+"dc/db5/classnpc__frenzied__worgen.html":[6,0,1810],
+"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1810,2],
+"dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1810,1],
+"dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2940],
+"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2940,1],
 "dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2940,0],
 "dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2940,3],
 "dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2940,2],
@@ -238,16 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dc7/structQuaternion.html#a533b5e90b6333d89190828f28721e61d":[6,0,2467,3],
 "dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[6,0,2467,2],
 "dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[6,0,2467,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html":[6,0,2024],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[6,0,2024,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[6,0,2024,4],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[6,0,2024,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[6,0,2024,2],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[6,0,2024,1],
-"dc/dc8/classspell__pri__guardian__spirit.html":[6,0,3771],
-"dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[6,0,3771,6],
-"dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[6,0,3771,3],
-"dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[6,0,3771,1],
-"dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[6,0,3771,2],
-"dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[6,0,3771,4]
+"dc/dc7/structnpc__parasitic__shadowfiend.html":[6,0,2024]
 };

@@ -1,5 +1,16 @@
 var NAVTREEINDEX409 =
 {
+"df/d99/classspell__q12096__q12092__dummy.html#ad13fdade1fb7455485bfd68687de53c5":[6,0,3870,3],
+"df/d99/classspell__q12096__q12092__dummy.html#ae180aea347e73fcce44e9ac3ff33d0ce":[6,0,3870,0],
+"df/d99/structboss__kalec.html":[6,0,579],
+"df/d99/structboss__kalec.html#a46f35b35c1d17abc2ffaf909c53a4039":[6,0,579,1],
+"df/d99/structboss__kalec.html#a4813ca02ed5ffc35add5279cc1ec277f":[6,0,579,2],
+"df/d99/structboss__kalec.html#a9c36e31c750e93840f30f001cdaca0da":[6,0,579,0],
+"df/d99/structboss__kalec.html#ab55da7584fa7f545761a5bd547245747":[6,0,579,3],
+"df/d99/structnpc__dark__iron__attack__generator.html":[6,0,1752],
+"df/d99/structnpc__dark__iron__attack__generator.html#a1038fdc5453c78ebaef26b305be23963":[6,0,1752,10],
+"df/d99/structnpc__dark__iron__attack__generator.html#a1a5cc21ee54e3d8d7acb1e3235d4e427":[6,0,1752,12],
+"df/d99/structnpc__dark__iron__attack__generator.html#a3282d8a556e6e3b84a9597c317722d8e":[6,0,1752,13],
 "df/d99/structnpc__dark__iron__attack__generator.html#a4371fcc13d221b843275d1d0e7f896fb":[6,0,1752,7],
 "df/d99/structnpc__dark__iron__attack__generator.html#a4c0bdf682ced38cd1555ac6c6dd82361":[6,0,1752,1],
 "df/d99/structnpc__dark__iron__attack__generator.html#a5ac0502b880031c937f915a7dbca2262":[6,0,1752,15],
@@ -238,16 +249,5 @@ var NAVTREEINDEX409 =
 "df/da1/boss__black__knight_8cpp.html":[7,0,0,0,1,3,5,2,0,1],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,2,0,1,11],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca142f68423c29e7ffbdb9b7c530383d10":[7,0,0,0,1,3,5,2,0,1,11,2],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca15baec69c9569fc618a4d91e23a19302":[7,0,0,0,1,3,5,2,0,1,11,1],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e455c0ae51cf9a08598dfbd3cfad1a":[7,0,0,0,1,3,5,2,0,1,11,5],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca21dfd49364e5c7f56b32d3790ce58865":[7,0,0,0,1,3,5,2,0,1,11,4],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca34d4264f20ac34c576040adb9acd9de9":[7,0,0,0,1,3,5,2,0,1,11,13],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a3471e87129d66a53cc20a0bcca0a0e":[7,0,0,0,1,3,5,2,0,1,11,14],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3afb5f03f9d82ed90abb2f53de84c99f":[7,0,0,0,1,3,5,2,0,1,11,11],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b06353bd20db21fad1108d166f21bc7":[7,0,0,0,1,3,5,2,0,1,11,10],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca490452dbac9d8c4fa44c7c39e3a06d57":[7,0,0,0,1,3,5,2,0,1,11,16],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d68290803dac86a0e97da2ec3fdcba8":[7,0,0,0,1,3,5,2,0,1,11,8],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca595e28ab3b6a26b023b70079f64070f7":[7,0,0,0,1,3,5,2,0,1,11,17],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca6786925937974df76f02498d39b14217":[7,0,0,0,1,3,5,2,0,1,11,3],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca94e658da1f45ee0ced51d3cdb21dc6cd":[7,0,0,0,1,3,5,2,0,1,11,7]
+"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca15baec69c9569fc618a4d91e23a19302":[7,0,0,0,1,3,5,2,0,1,11,1]
 };

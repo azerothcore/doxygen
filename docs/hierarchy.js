@@ -4565,6 +4565,7 @@ var hierarchy =
     [ "SpellCategoryEntry", "d6/d41/structSpellCategoryEntry.html", null ],
     [ "SpellChainNode", "dd/d1c/structSpellChainNode.html", null ],
     [ "SpellClickInfo", "de/de0/structSpellClickInfo.html", null ],
+    [ "SpellCone", "d2/d34/structSpellCone.html", null ],
     [ "SpellCooldown", "da/def/structSpellCooldown.html", null ],
     [ "SpellCooldownOverride", "d1/d1d/structSpellCooldownOverride.html", null ],
     [ "SpellDestination", "d0/dd3/structSpellDestination.html", null ],

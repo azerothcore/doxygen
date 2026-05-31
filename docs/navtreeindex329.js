@@ -1,5 +1,16 @@
 var NAVTREEINDEX329 =
 {
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,13,9,0,5],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
+"dc/dab/classnear__scarshield__infiltrator.html":[6,0,1586],
+"dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1586,0],
+"dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[6,0,1586,2],
+"dc/dab/classnear__scarshield__infiltrator.html#aeb761433e3210ce85c1de4dab653a87c":[6,0,1586,1],
+"dc/dab/structboss__flame__leviathan__safety__container.html":[6,0,488],
+"dc/dab/structboss__flame__leviathan__safety__container.html#a42842de299fd9346cc0d61b649b652a4":[6,0,488,1],
+"dc/dab/structboss__flame__leviathan__safety__container.html#a4519a6bf9c96ff13df4ae019b02f3593":[6,0,488,0],
+"dc/dab/structboss__flame__leviathan__safety__container.html#a55119d077f905a8207ad2afbe31f17a4":[6,0,488,2],
+"dc/dab/structboss__flame__leviathan__safety__container.html#a70134398c054c837407d6a22591a2d96":[6,0,488,3],
 "dc/dad/classspell__rog__turn__the__tables__proc.html":[6,0,3981],
 "dc/dad/classspell__rog__turn__the__tables__proc.html#a0c23c8b0fe938fd7556663880f40b9ef":[6,0,3981,2],
 "dc/dad/classspell__rog__turn__the__tables__proc.html#a34ca370993295225a779ee6537295112":[6,0,3981,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[6,0,484,2],
 "dc/db4/structboss__gruul.html":[6,0,529],
 "dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[6,0,529,5],
-"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,529,7],
-"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[6,0,529,6],
-"dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,529,1],
-"dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,529,0],
-"dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,529,4],
-"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,529,2],
-"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,529,3],
-"dc/db5/classnpc__frenzied__worgen.html":[6,0,1810],
-"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1810,2],
-"dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1810,1],
-"dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2940],
-"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2940,1]
+"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[6,0,529,7]
 };

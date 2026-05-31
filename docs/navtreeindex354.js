@@ -1,5 +1,15 @@
 var NAVTREEINDEX354 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,0,1,1,5,11],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29398c42277493fba085be78d83e9793":[7,0,0,0,1,3,5,0,1,1,5,0],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0":[7,0,0,0,1,3,5,0,1,1,5,5],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6":[7,0,0,0,1,3,5,0,1,1,5,9],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a":[7,0,0,0,1,3,5,0,1,1,5,8],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac19ae1fe556e9550431bdd7f1f984ac0":[7,0,0,0,1,3,5,0,1,1,5,4],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,0,1,1,5,2],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac84d40b2869575c0552fca376701ef2c":[7,0,0,0,1,3,5,0,1,1,5,1],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac853e2b296604ddbdba385f171046d0b":[7,0,0,0,1,3,5,0,1,1,5,3],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804":[7,0,0,0,1,3,5,0,1,1,5,10],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451":[7,0,0,0,1,3,5,0,1,1,5,7],
 "dd/dd2/classspell__azgalor__doom.html":[6,0,2649],
 "dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[6,0,2649,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[6,0,105,0],
 "dd/dd6/classcharacter__commandscript.html":[6,0,868],
 "dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,868,5],
-"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,868,13],
-"dd/dd6/classcharacter__commandscript.html#a1bb702a0244068ae8bf49ff6399387ee":[6,0,868,9],
-"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,868,26],
-"dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[6,0,868,15],
-"dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[6,0,868,24],
-"dd/dd6/classcharacter__commandscript.html#a33f48334c2a9748cb47e8c65dc2a8c9d":[6,0,868,19],
-"dd/dd6/classcharacter__commandscript.html#a3c884bdd70a7cede02ad298f8ee6beb5":[6,0,868,4],
-"dd/dd6/classcharacter__commandscript.html#a44c81d4a9dc38f59778d5e015f70f6c8":[6,0,868,21],
-"dd/dd6/classcharacter__commandscript.html#a4689269fd6a5d7f4c4947f6422eccae3":[6,0,868,29],
-"dd/dd6/classcharacter__commandscript.html#a4df25fc0e8ec6288340a1531a9161fb9":[6,0,868,20],
-"dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a":[6,0,868,3]
+"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,868,13]
 };

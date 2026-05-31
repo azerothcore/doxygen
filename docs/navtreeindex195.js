@@ -1,5 +1,12 @@
 var NAVTREEINDEX195 =
 {
+"d7/d28/classspell__chapter5__return__to__capital.html#a248124b837cf71f7d422154db4581747":[6,0,2733,2],
+"d7/d28/classspell__chapter5__return__to__capital.html#a3061dcd7b831a13b1d270732d0ee8a7e":[6,0,2733,3],
+"d7/d28/classspell__chapter5__return__to__capital.html#a43e28dbdfcd034a2a08f6d57171462ee":[6,0,2733,4],
+"d7/d28/classspell__chapter5__return__to__capital.html#a53f170244b390f7035e131fb5c79cb3f":[6,0,2733,1],
+"d7/d28/classspell__chapter5__return__to__capital.html#a6a2811ee701a254e2857ae5923ec9f5f":[6,0,2733,0],
+"d7/d29/SmartScript_8h.html":[7,0,0,0,1,2,3,2,3],
+"d7/d29/classProducerConsumerQueue.html":[6,0,2459],
 "d7/d29/classProducerConsumerQueue.html#a10e893856377f7f7a4be62c224a2aef3":[6,0,2459,3],
 "d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d":[6,0,2459,9],
 "d7/d29/classProducerConsumerQueue.html#a18c7223e356b338f9ddbc17eadc6a21e":[6,0,2459,13],
@@ -148,12 +155,12 @@ var NAVTREEINDEX195 =
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,13,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,13,12,3,0],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,13,12,3,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,13,12,3,1],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,13,12,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2093],
 "d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2093,2],
 "d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2093,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d37/structICNodePoint.html#a968d6f412ba88b9577429910ffa511a5":[6,0,1301,4],
 "d7/d37/structICNodePoint.html#ab3758f67da3dcb507bb1acab575e2836":[6,0,1301,1],
 "d7/d37/structICNodePoint.html#ac4760cba40ba8916d66cae3712f7c641":[6,0,1301,3],
-"d7/d37/structICNodePoint.html#acecd97e26d19c82e934817ecbc2afce9":[6,0,1301,5],
-"d7/d37/structICNodePoint.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2":[6,0,1301,9],
-"d7/d37/structICNodePoint.html#ae80024986e048e05dca174d6b14964d3":[6,0,1301,2],
-"d7/d37/structnpc__necropolis__health.html":[6,0,1996],
-"d7/d37/structnpc__necropolis__health.html#a972687770c7afb0adfaac56f0cb73d5f":[6,0,1996,2],
-"d7/d37/structnpc__necropolis__health.html#a9dc3e7734c22adea687a69662a3c7afa":[6,0,1996,0],
-"d7/d37/structnpc__necropolis__health.html#aa9f17362d0e4dbcf275a5148a4c2392b":[6,0,1996,5],
-"d7/d37/structnpc__necropolis__health.html#ad357b3497d36d6471460c09d3f01ab3e":[6,0,1996,4]
+"d7/d37/structICNodePoint.html#acecd97e26d19c82e934817ecbc2afce9":[6,0,1301,5]
 };

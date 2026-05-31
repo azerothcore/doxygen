@@ -100,6 +100,7 @@ var classreload__commandscript =
     [ "HandleReloadSpellAreaCommand", "da/d82/classreload__commandscript.html#a2d25c38339213f9bf0099a41d553ee12", null ],
     [ "HandleReloadSpellBonusesCommand", "da/d82/classreload__commandscript.html#a5e5a84123b47479f294baabed9bb7cbb", null ],
     [ "HandleReloadSpellClickSpellsCommand", "da/d82/classreload__commandscript.html#a69ddcfec1a61975ccfb202eb401714fc", null ],
+    [ "HandleReloadSpellConeCommand", "da/d82/classreload__commandscript.html#a56e9cfbdf2c82db41a76a57f5995ce03", null ],
     [ "HandleReloadSpellGroupsCommand", "da/d82/classreload__commandscript.html#a2b29c9315f1452572a23bb8ba62ff33b", null ],
     [ "HandleReloadSpellGroupStackRulesCommand", "da/d82/classreload__commandscript.html#aceca5fd98154f35571610faf0b95eb27", null ],
     [ "HandleReloadSpellLinkedSpellCommand", "da/d82/classreload__commandscript.html#a4124297c1e5d3188241b18deeaff0ea5", null ],

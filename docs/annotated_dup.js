@@ -4903,6 +4903,7 @@ var annotated_dup =
     [ "SpellCategoryEntry", "d6/d41/structSpellCategoryEntry.html", "d6/d41/structSpellCategoryEntry" ],
     [ "SpellChainNode", "dd/d1c/structSpellChainNode.html", "dd/d1c/structSpellChainNode" ],
     [ "SpellClickInfo", "de/de0/structSpellClickInfo.html", "de/de0/structSpellClickInfo" ],
+    [ "SpellCone", "d2/d34/structSpellCone.html", "d2/d34/structSpellCone" ],
     [ "SpellCooldown", "da/def/structSpellCooldown.html", "da/def/structSpellCooldown" ],
     [ "SpellCooldownOverride", "d1/d1d/structSpellCooldownOverride.html", "d1/d1d/structSpellCooldownOverride" ],
     [ "SpellDestination", "d0/dd3/structSpellDestination.html", "d0/dd3/structSpellDestination" ],

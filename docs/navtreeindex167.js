@@ -1,5 +1,12 @@
 var NAVTREEINDEX167 =
 {
+"d5/dfb/classObjectMgr.html#ab512806aaf026c2149fc523a0023e6c6":[6,0,2323,342],
+"d5/dfb/classObjectMgr.html#ab8198021c58d9d7e2deb26296b8a755f":[6,0,2323,235],
+"d5/dfb/classObjectMgr.html#ab8de4ed66962d249269c01c7cecf42cb":[6,0,2323,288],
+"d5/dfb/classObjectMgr.html#ab906b0bec4b189f51d574643e2099dd3":[6,0,2323,244],
+"d5/dfb/classObjectMgr.html#ab9d7abf0366855ff458fca0ab8da028d":[6,0,2323,404],
+"d5/dfb/classObjectMgr.html#aba365c3aa6a0bbf529d8b24f8b5cb32e":[6,0,2323,231],
+"d5/dfb/classObjectMgr.html#aba68919d663d4c23f010f0226d0b34f4":[6,0,2323,183],
 "d5/dfb/classObjectMgr.html#abbbe0649ba2840e8767307c4a370b918":[6,0,2323,125],
 "d5/dfb/classObjectMgr.html#abbd974a4064a7752319f4c6c8a039185":[6,0,2323,230],
 "d5/dfb/classObjectMgr.html#abc6e688d033a053f7c4ad27504636be0":[6,0,2323,227],
@@ -173,8 +180,8 @@ var NAVTREEINDEX167 =
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,24,6],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[7,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,2,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a0f4128d5fd7a855f1fb2870465bc1ce7":[6,0,2200,0,0],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2200,0,1],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a81607ebd90d8f511bb18b03ff497d9eb":[6,0,2200,0,2],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a8edadebd7e6660041233a24fb07173bf":[6,0,2200,0,4],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html":[6,0,3875],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a0f6e6c6892d56a6fceb927f68c734bde":[6,0,3875,3],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b":[6,0,3875,1],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79":[6,0,3875,0],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#ac0e1fc0694dd51e245340d3658592447":[6,0,3875,2],
-"d6/d06/temple__of__ahnqiraj_8h.html":[7,0,0,0,1,3,4,9,12],
-"d6/d06/temple__of__ahnqiraj_8h.html#a0300fcd1fbf91f18e02645a86327c515":[7,0,0,0,1,3,4,9,12,7]
+"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a8edadebd7e6660041233a24fb07173bf":[6,0,2200,0,4]
 };
