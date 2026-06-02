@@ -580,6 +580,7 @@ var classPlayer =
     [ "IsBeingTeleported", "d2/d4b/classPlayer.html#af66560315fcbe492a24137bc8d96dd94", null ],
     [ "IsBeingTeleportedFar", "d2/d4b/classPlayer.html#a1e95e21528afebf71bd56f1e424ea541", null ],
     [ "IsBeingTeleportedNear", "d2/d4b/classPlayer.html#aab71ad4491b37ca0cccfada7ee7e7dea", null ],
+    [ "IsChatFiltered", "d2/d4b/classPlayer.html#afad2e9d55a535c9165ff47c04c3b13a0", null ],
     [ "IsClass", "d2/d4b/classPlayer.html#a966607859ce9c9537038b9ca21b9e827", null ],
     [ "IsCommentator", "d2/d4b/classPlayer.html#a3386d9cb306dd775033a4da10af96677", null ],
     [ "IsCurrentBattlegroundRandom", "d2/d4b/classPlayer.html#acefc3093a9a842da71889e1323f115a5", null ],

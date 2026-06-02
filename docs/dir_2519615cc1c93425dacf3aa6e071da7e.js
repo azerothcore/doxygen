@@ -10,6 +10,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_cache.cpp", "de/df4/cs__cache_8cpp.html", "de/df4/cs__cache_8cpp" ],
     [ "cs_cast.cpp", "df/de7/cs__cast_8cpp.html", "df/de7/cs__cast_8cpp" ],
     [ "cs_character.cpp", "d5/d75/cs__character_8cpp.html", "d5/d75/cs__character_8cpp" ],
+    [ "cs_chatfilter.cpp", "df/d81/cs__chatfilter_8cpp.html", "df/d81/cs__chatfilter_8cpp" ],
     [ "cs_cheat.cpp", "de/d9f/cs__cheat_8cpp.html", "de/d9f/cs__cheat_8cpp" ],
     [ "cs_debug.cpp", "dd/d77/cs__debug_8cpp.html", "dd/d77/cs__debug_8cpp" ],
     [ "cs_deserter.cpp", "d7/de9/cs__deserter_8cpp.html", "d7/de9/cs__deserter_8cpp" ],

@@ -94,6 +94,7 @@ var namespaceAcore =
     [ "AbsorbAuraOrderPred", "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html", "dd/df7/classAcore_1_1AbsorbAuraOrderPred" ],
     [ "ACLogSink", "d6/d5c/classAcore_1_1ACLogSink.html", "d6/d5c/classAcore_1_1ACLogSink" ],
     [ "AcoreStringChatBuilder", "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html", "d1/d2d/classAcore_1_1AcoreStringChatBuilder" ],
+    [ "AhoCorasick", "d0/db0/classAcore_1_1AhoCorasick.html", "d0/db0/classAcore_1_1AhoCorasick" ],
     [ "AIRelocationNotifier", "d0/dec/structAcore_1_1AIRelocationNotifier.html", "d0/dec/structAcore_1_1AIRelocationNotifier" ],
     [ "AllCreaturesMatchingOneEntryInRange", "d0/d0b/classAcore_1_1AllCreaturesMatchingOneEntryInRange.html", "d0/d0b/classAcore_1_1AllCreaturesMatchingOneEntryInRange" ],
     [ "AllCreaturesOfEntryInRange", "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html", "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange" ],

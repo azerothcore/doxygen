@@ -24,6 +24,7 @@ var classreload__commandscript =
     [ "HandleReloadAutobroadcastCommand", "da/d82/classreload__commandscript.html#ad629858f868d9520edd4a2b1e31a766a", null ],
     [ "HandleReloadBattlegroundTemplate", "da/d82/classreload__commandscript.html#a7a377c6d42b4e436b8f534323de01977", null ],
     [ "HandleReloadBroadcastTextCommand", "da/d82/classreload__commandscript.html#ad88731968a6af96abe610dcf8fff6b3e", null ],
+    [ "HandleReloadChatFilterCommand", "da/d82/classreload__commandscript.html#a4b9097caf83dc8f52cd37e673e19d3b9", null ],
     [ "HandleReloadCommandCommand", "da/d82/classreload__commandscript.html#abd1a03a33c8005c0317c4eddffef05be", null ],
     [ "HandleReloadConditions", "da/d82/classreload__commandscript.html#a8f304b267e0c564d7640a57843b43be8", null ],
     [ "HandleReloadConfigCommand", "da/d82/classreload__commandscript.html#aa884f70ceaf9864bcae7953b162e7880", null ],

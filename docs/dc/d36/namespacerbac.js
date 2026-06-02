@@ -641,6 +641,9 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_DEBUG_INFO", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a9d9eff5b7002421018c0ab3f0829c9d6", null ],
       [ "RBAC_PERM_COMMAND_DEBUG_COSMETIC", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af25ad1f6c47779f80f6e7a5279c579a6", null ],
       [ "RBAC_PERM_COMMAND_PET_RENAME", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abf870a57cf67182b9896ca5eb6f2b434", null ],
+      [ "RBAC_PERM_COMMAND_CHATFILTER_LIST", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aafae6e843c04143e729d410a52135ce1", null ],
+      [ "RBAC_PERM_COMMAND_CHATFILTER_ADD", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abd66df3236cd4392597be960e51d9f66", null ],
+      [ "RBAC_PERM_COMMAND_CHATFILTER_REMOVE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a9cc8855702b0b0ad462e64aad51d7309", null ],
       [ "RBAC_PERM_MAX", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dc/d36/namespacerbac.html#ad45fe4229235a57fc4952a69ede78410", null ]

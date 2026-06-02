@@ -23,7 +23,7 @@ var searchData=
   ['networkthread_20',['NetworkThread',['../d5/d87/classNetworkThread.html',1,'']]],
   ['networkthread_3c_20authsession_20_3e_21',['NetworkThread&lt; AuthSession &gt;',['../d5/d87/classNetworkThread.html',1,'']]],
   ['networkthread_3c_20worldsocket_20_3e_22',['NetworkThread&lt; WorldSocket &gt;',['../d5/d87/classNetworkThread.html',1,'']]],
-  ['node_23',['Node',['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html',1,'Acore::Impl::MPSCQueueNonIntrusive']]],
+  ['node_23',['node',['../d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html',1,'Acore::AhoCorasick&lt; CharT &gt;::Node'],['../d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html',1,'Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node']]],
   ['nodearray_24',['NodeArray',['../d7/d06/classNodeArray.html',1,'']]],
   ['nodecreator_25',['NodeCreator',['../d5/d6e/structNodeCreator.html',1,'']]],
   ['nodegroup_26',['NodeGroup',['../da/d01/structNodeGroup.html',1,'']]],

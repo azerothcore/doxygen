@@ -1822,6 +1822,8 @@ var hierarchy =
     [ "ADTFile", "d7/d61/classADTFile.html", null ],
     [ "Acore::Crypto::AES", "d8/daa/classAcore_1_1Crypto_1_1AES.html", null ],
     [ "AuraScript::AfterCheckProcHandler", "dd/d2e/classAuraScript_1_1AfterCheckProcHandler.html", null ],
+    [ "Acore::AhoCorasick< CharT >", "d0/db0/classAcore_1_1AhoCorasick.html", null ],
+    [ "Acore::AhoCorasick< wchar_t >", "d0/db0/classAcore_1_1AhoCorasick.html", null ],
     [ "Acore::AIRelocationNotifier", "d0/dec/structAcore_1_1AIRelocationNotifier.html", null ],
     [ "AISpellInfoType", "d7/db6/structAISpellInfoType.html", null ],
     [ "AliveCheck", "df/d3f/classAliveCheck.html", null ],
@@ -3152,6 +3154,7 @@ var hierarchy =
     [ "NetworkThread< WorldSocket >", "d5/d87/classNetworkThread.html", [
       [ "WorldSocketThread", "db/d07/classWorldSocketThread.html", null ]
     ] ],
+    [ "Acore::AhoCorasick< CharT >::Node", "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html", null ],
     [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html", null ],
     [ "NodeArray< Node >", "d7/d06/classNodeArray.html", null ],
     [ "NodeCreator< Node >", "d5/d6e/structNodeCreator.html", null ],
@@ -3738,6 +3741,7 @@ var hierarchy =
         [ "cache_commandscript", "d2/d6c/classcache__commandscript.html", null ],
         [ "cast_commandscript", "de/dee/classcast__commandscript.html", null ],
         [ "character_commandscript", "dd/dd6/classcharacter__commandscript.html", null ],
+        [ "chatfilter_commandscript", "d3/d0f/classchatfilter__commandscript.html", null ],
         [ "cheat_commandscript", "d8/dc6/classcheat__commandscript.html", null ],
         [ "debug_commandscript", "d1/dae/classdebug__commandscript.html", null ],
         [ "deserter_commandscript", "d5/def/classdeserter__commandscript.html", null ],

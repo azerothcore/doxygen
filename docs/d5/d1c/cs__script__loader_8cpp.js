@@ -11,6 +11,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_cache_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a293f65606c1750692d4046d4fe4c4adc", null ],
     [ "AddSC_cast_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ],
     [ "AddSC_character_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ],
+    [ "AddSC_chatfilter_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aee5ca3527878cd26d04712c7dc6b8611", null ],
     [ "AddSC_cheat_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aafc88882ff0af0beb4632ec2c929fc8c", null ],
     [ "AddSC_debug_commandscript", "d5/d1c/cs__script__loader_8cpp.html#abae44bbc8eb2fb66a5596017ea83583f", null ],
     [ "AddSC_deserter_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a4e8a885c7cc1a1dc7091c2dd2c931681", null ],
