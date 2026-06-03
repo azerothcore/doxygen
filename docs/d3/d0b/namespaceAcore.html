@@ -109,6 +109,7 @@ $(document).ready(function(){initNavTree('d3/d0b/namespaceAcore.html','../../');
   <div class="summary">
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#concepts">Concepts</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
@@ -369,6 +370,9 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4a/classAcore_1_1Thread.html">Thread</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df2/structAcore_1_1type__list.html">type_list</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provide an empty tag type containing the specified <code>Ts</code>.  <a href="../../d4/df2/structAcore_1_1type__list.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfc/structAcore_1_1unary__function.html">unary_function</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d17/classAcore_1_1UnitAuraCheck.html">UnitAuraCheck</a></td></tr>
@@ -402,6 +406,12 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dba/structAcore_1_1WorldObjectWorker.html">WorldObjectWorker</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d23/classAcore_1_1WorldWorldTextBuilder.html">WorldWorldTextBuilder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="concepts" name="concepts"></a>
+Concepts</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">concept &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d04/conceptAcore_1_1AnyTypeList.html">AnyTypeList</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Satisfied only by <a class="el" href="../../d4/df2/structAcore_1_1type__list.html" title="Provide an empty tag type containing the specified Ts.">Acore::type_list</a> specializations. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
@@ -688,6 +698,18 @@ Functions</h2></td></tr>
 <tr class="memitem:aac12e702d41e9aa126f7d39f0f295252" id="r_aac12e702d41e9aa126f7d39f0f295252"><td class="memTemplParams" colspan="2">template&lt;class T , class Tuple &gt; </td></tr>
 <tr class="memitem:aac12e702d41e9aa126f7d39f0f295252"><td class="memTemplItemLeft" align="right" valign="top">T *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#aac12e702d41e9aa126f7d39f0f295252">new_from_tuple</a> (Tuple &amp;&amp;args)</td></tr>
 <tr class="separator:aac12e702d41e9aa126f7d39f0f295252"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3" id="r_a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Func &gt; </td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a63f3ebca59abc8aeb41648f6f79da7f3">for_each</a> (Func &amp;&amp;f)</td></tr>
+<tr class="memdesc:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invoke the specified <code>f</code> once for each type in the specified <code>List</code>, in declaration order.  <br /></td></tr>
+<tr class="separator:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679" id="r_a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a86386611f0e1cc0f7e33cb9bc0403679">count_if</a> (Pred pred)</td></tr>
+<tr class="memdesc:a86386611f0e1cc0f7e33cb9bc0403679"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the number of types in the specified <code>List</code> for which the specified <code>pred</code> returns true.  <br /></td></tr>
+<tr class="separator:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7" id="r_a47058396f75885b2327eea9530b910d7"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a47058396f75885b2327eea9530b910d7">any_of</a> (Pred pred)</td></tr>
+<tr class="memdesc:a47058396f75885b2327eea9530b910d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return true if the specified <code>pred</code> returns true for any type in the specified <code>List</code>, and false otherwise.  <br /></td></tr>
+<tr class="separator:a47058396f75885b2327eea9530b910d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17df66939c936195b601d2eecf30eaa0" id="r_a17df66939c936195b601d2eecf30eaa0"><td class="memTemplParams" colspan="2">template&lt;class RET_TYPE , int CENTER_VAL&gt; </td></tr>
 <tr class="memitem:a17df66939c936195b601d2eecf30eaa0"><td class="memTemplItemLeft" align="right" valign="top">RET_TYPE&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a17df66939c936195b601d2eecf30eaa0">Compute</a> (float x, float y, float size)</td></tr>
 <tr class="separator:a17df66939c936195b601d2eecf30eaa0"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -716,6 +738,10 @@ Variables</h2></td></tr>
 <tr class="memitem:a4104f84ad757b701a6ffbd51f5d10b9f" id="r_a4104f84ad757b701a6ffbd51f5d10b9f"><td class="memTemplParams" colspan="2">template&lt;typename... Ts&gt; </td></tr>
 <tr class="memitem:a4104f84ad757b701a6ffbd51f5d10b9f"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a4104f84ad757b701a6ffbd51f5d10b9f">is_tuple_v</a> = <a class="el" href="../../d4/da8/structAcore_1_1is__tuple.html">is_tuple</a>&lt;Ts...&gt;::value</td></tr>
 <tr class="separator:a4104f84ad757b701a6ffbd51f5d10b9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a" id="r_a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List&gt; </td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a9c605be8d96841d40f90f900dfdae16a">size_v</a> = <a class="el" href="../../da/dde/structAcore_1_1Impl_1_1list__size.html">Impl::list_size</a>&lt;List&gt;::value</td></tr>
+<tr class="memdesc:a9c605be8d96841d40f90f900dfdae16a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The number of types in the specified <code>List</code>.  <br /></td></tr>
+<tr class="separator:a9c605be8d96841d40f90f900dfdae16a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a63263799191a40005e2214b3faf336d0" id="r_a63263799191a40005e2214b3faf336d0"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a63263799191a40005e2214b3faf336d0"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d0b/namespaceAcore.html#a63263799191a40005e2214b3faf336d0">dependant_false_v</a> = <a class="el" href="../../d1/dc3/structAcore_1_1dependant__false.html">dependant_false</a>&lt;T&gt;::value</td></tr>
 <tr class="separator:a63263799191a40005e2214b3faf336d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1059,6 +1085,55 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">   34</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>.</p>
+
+</div>
+</div>
+<a id="a47058396f75885b2327eea9530b910d7" name="a47058396f75885b2327eea9530b910d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47058396f75885b2327eea9530b910d7">&#9670;&#160;</a></span>any_of()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;AnyTypeList List, typename Pred &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr bool Acore::any_of </td>
+          <td>(</td>
+          <td class="paramtype">Pred&#160;</td>
+          <td class="paramname"><em>pred</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Return true if the specified <code>pred</code> returns true for any type in the specified <code>List</code>, and false otherwise. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">List</td><td>A <a class="el" href="../../d4/df2/structAcore_1_1type__list.html" title="Provide an empty tag type containing the specified Ts.">type_list</a> specialization. </td></tr>
+    <tr><td class="paramname">Pred</td><td>The type of the predicate. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">pred</td><td>The predicate to evaluate. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if any type matches, and false otherwise. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  127</span>    {</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> Impl::any_of(List{}, pred);</div>
+<div class="line"><span class="lineno">  129</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00064">Acore::Impl::any_of()</a>.</p>
 
 </div>
 </div>
@@ -1731,6 +1806,55 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
 <div class="line"><span class="lineno">  254</span>        <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">  255</span>    }</div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a86386611f0e1cc0f7e33cb9bc0403679" name="a86386611f0e1cc0f7e33cb9bc0403679"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86386611f0e1cc0f7e33cb9bc0403679">&#9670;&#160;</a></span>count_if()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;AnyTypeList List, typename Pred &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::count_if </td>
+          <td>(</td>
+          <td class="paramtype">Pred&#160;</td>
+          <td class="paramname"><em>pred</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Return the number of types in the specified <code>List</code> for which the specified <code>pred</code> returns true. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">List</td><td>A <a class="el" href="../../d4/df2/structAcore_1_1type__list.html" title="Provide an empty tag type containing the specified Ts.">type_list</a> specialization. </td></tr>
+    <tr><td class="paramname">Pred</td><td>The type of the predicate. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">pred</td><td>The predicate to evaluate. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>The number of matching types. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  112</span>    {</div>
+<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">return</span> Impl::count_if(List{}, pred);</div>
+<div class="line"><span class="lineno">  114</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00058">Acore::Impl::count_if()</a>.</p>
+
 </div>
 </div>
 <a id="a18bbd8a6717e647e963654123259a033" name="a18bbd8a6717e647e963654123259a033"></a>
@@ -2565,6 +2689,54 @@ template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </div>
 <div class="line"><span class="lineno">   86</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   87</span>    }</div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a63f3ebca59abc8aeb41648f6f79da7f3" name="a63f3ebca59abc8aeb41648f6f79da7f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63f3ebca59abc8aeb41648f6f79da7f3">&#9670;&#160;</a></span>for_each()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;AnyTypeList List, typename Func &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr void Acore::for_each </td>
+          <td>(</td>
+          <td class="paramtype">Func &amp;&amp;&#160;</td>
+          <td class="paramname"><em>f</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Invoke the specified <code>f</code> once for each type in the specified <code>List</code>, in declaration order. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">List</td><td>A <a class="el" href="../../d4/df2/structAcore_1_1type__list.html" title="Provide an empty tag type containing the specified Ts.">type_list</a> specialization. </td></tr>
+    <tr><td class="paramname">Func</td><td>The type of the callable. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">f</td><td>The callable to invoke. </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>        Impl::for_each(List{}, std::forward&lt;Func&gt;(f));</div>
+<div class="line"><span class="lineno">   99</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00052">Acore::Impl::for_each()</a>.</p>
+
 </div>
 </div>
 <a id="ae7e83af9675f10ea565b725be25b8c5e" name="ae7e83af9675f10ea565b725be25b8c5e"></a>
@@ -4924,13 +5096,45 @@ template&lt;typename... Ts&gt; </div>
 
 </div>
 </div>
+<a id="a9c605be8d96841d40f90f900dfdae16a" name="a9c605be8d96841d40f90f900dfdae16a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c605be8d96841d40f90f900dfdae16a">&#9670;&#160;</a></span>size_v</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;AnyTypeList List&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::size_v = <a class="el" href="../../da/dde/structAcore_1_1Impl_1_1list__size.html">Impl::list_size</a>&lt;List&gt;::value</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The number of types in the specified <code>List</code>. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">List</td><td>A <a class="el" href="../../d4/df2/structAcore_1_1type__list.html" title="Provide an empty tag type containing the specified Ts.">type_list</a> specialization. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li>
-    <li class="footer">Generated on Tue Jun 2 2026 10:16:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jun 3 2026 10:52:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

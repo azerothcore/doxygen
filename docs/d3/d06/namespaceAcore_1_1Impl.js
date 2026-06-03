@@ -10,9 +10,16 @@ var namespaceAcore_1_1Impl =
     [ "GenericHash", "d9/d36/classAcore_1_1Impl_1_1GenericHash.html", "d9/d36/classAcore_1_1Impl_1_1GenericHash" ],
     [ "GenericHashImpl", "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html", "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl" ],
     [ "GenericHMAC", "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html", "df/d02/classAcore_1_1Impl_1_1GenericHMAC" ],
+    [ "list_size", "da/dde/structAcore_1_1Impl_1_1list__size.html", null ],
+    [ "list_size< type_list< Ts... > >", "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html", "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4" ],
     [ "MPSCQueueIntrusive", "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html", "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive" ],
     [ "MPSCQueueNonIntrusive", "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html", "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive" ],
+    [ "any_of", "d3/d06/namespaceAcore_1_1Impl.html#af5885336c2d6f4bac05b7ab6a79d1ba9", null ],
     [ "ByteArrayToHexStr", "d3/d06/namespaceAcore_1_1Impl.html#aee21cf91c2a5f1c520d6b01dd6b2e835", null ],
+    [ "count_if", "d3/d06/namespaceAcore_1_1Impl.html#a3f33370510f6a20f2c280ddb7aee8113", null ],
+    [ "for_each", "d3/d06/namespaceAcore_1_1Impl.html#af3502a542fe8940c5967acc190cef55a", null ],
     [ "HexStrToByteArray", "d3/d06/namespaceAcore_1_1Impl.html#a0a5a7e96b8beae562acc662922304ca6", null ],
-    [ "new_from_tuple", "d3/d06/namespaceAcore_1_1Impl.html#a028fc93107022ad23a763503c9b0bbdb", null ]
+    [ "new_from_tuple", "d3/d06/namespaceAcore_1_1Impl.html#a028fc93107022ad23a763503c9b0bbdb", null ],
+    [ "is_type_list", "d3/d06/namespaceAcore_1_1Impl.html#af90fd778c5d0004ab7da96e3250e1186", null ],
+    [ "is_type_list< type_list< Ts... > >", "d3/d06/namespaceAcore_1_1Impl.html#ab6a868461567e901fbc55cdc2377b4ec", null ]
 ];

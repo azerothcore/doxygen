@@ -195,6 +195,7 @@ var namespaceAcore =
     [ "SignalHandler", "da/d4b/classAcore_1_1SignalHandler.html", "da/d4b/classAcore_1_1SignalHandler" ],
     [ "SingleThreaded", "df/d78/classAcore_1_1SingleThreaded.html", "df/d78/classAcore_1_1SingleThreaded" ],
     [ "Thread", "db/d4a/classAcore_1_1Thread.html", "db/d4a/classAcore_1_1Thread" ],
+    [ "type_list", "d4/df2/structAcore_1_1type__list.html", null ],
     [ "unary_function", "d8/dfc/structAcore_1_1unary__function.html", "d8/dfc/structAcore_1_1unary__function" ],
     [ "UnitAuraCheck", "d1/d17/classAcore_1_1UnitAuraCheck.html", "d1/d17/classAcore_1_1UnitAuraCheck" ],
     [ "UnitLastSearcher", "d0/de9/structAcore_1_1UnitLastSearcher.html", "d0/de9/structAcore_1_1UnitLastSearcher" ],
@@ -212,6 +213,7 @@ var namespaceAcore =
     [ "WorldObjectSpellTrajTargetCheck", "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html", "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck" ],
     [ "WorldObjectWorker", "da/dba/structAcore_1_1WorldObjectWorker.html", "da/dba/structAcore_1_1WorldObjectWorker" ],
     [ "WorldWorldTextBuilder", "d0/d23/classAcore_1_1WorldWorldTextBuilder.html", "d0/d23/classAcore_1_1WorldWorldTextBuilder" ],
+    [ "AnyTypeList", "dc/d04/conceptAcore_1_1AnyTypeList.html", null ],
     [ "find_type_if_t", "d3/d0b/namespaceAcore.html#a7d2aaeefa69dc846a6b27937f8213fab", null ],
     [ "FormatArgs", "d3/d0b/namespaceAcore.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
     [ "FormatString", "d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338", null ],
@@ -234,6 +236,7 @@ var namespaceAcore =
     [ "AbortHandler", "d3/d0b/namespaceAcore.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
     [ "AddressOrSelf", "d3/d0b/namespaceAcore.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
     [ "AddressOrSelf", "d3/d0b/namespaceAcore.html#aa676a34e943f3ea366194be6f31da865", null ],
+    [ "any_of", "d3/d0b/namespaceAcore.html#a47058396f75885b2327eea9530b910d7", null ],
     [ "Assert", "d3/d0b/namespaceAcore.html#aaacb53f863e011c7d879e93567268109", null ],
     [ "Assert", "d3/d0b/namespaceAcore.html#a1990519ae97867f1a629699d00874fb2", null ],
     [ "Compute", "d3/d0b/namespaceAcore.html#a17df66939c936195b601d2eecf30eaa0", null ],
@@ -250,6 +253,7 @@ var namespaceAcore =
     [ "Count", "d3/d0b/namespaceAcore.html#a73118cbbcd3fd66f74bcef7972f0e244", null ],
     [ "Count", "d3/d0b/namespaceAcore.html#a3a037512e9797c04705502307818fe99", null ],
     [ "Count", "d3/d0b/namespaceAcore.html#a23d44353dd3c841732757641fcb39a57", null ],
+    [ "count_if", "d3/d0b/namespaceAcore.html#a86386611f0e1cc0f7e33cb9bc0403679", null ],
     [ "CreateChildProcess", "d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033", null ],
     [ "Error", "d3/d0b/namespaceAcore.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
     [ "Fatal", "d3/d0b/namespaceAcore.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
@@ -266,6 +270,7 @@ var namespaceAcore =
     [ "Find", "d3/d0b/namespaceAcore.html#a3c90455877023c17b2305a358a1e8e05", null ],
     [ "Find", "d3/d0b/namespaceAcore.html#a6c4691a788e1b4403de11caa6a13222d", null ],
     [ "Find", "d3/d0b/namespaceAcore.html#a339e193b2696d368e3fd5ba8ac348ba9", null ],
+    [ "for_each", "d3/d0b/namespaceAcore.html#a63f3ebca59abc8aeb41648f6f79da7f3", null ],
     [ "Insert", "d3/d0b/namespaceAcore.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
     [ "Insert", "d3/d0b/namespaceAcore.html#a5f6cfb84d3b9010f1cccee55575aeb8f", null ],
     [ "Insert", "d3/d0b/namespaceAcore.html#a9ef193f0c3493fdaeeaa5b0816714d1c", null ],
@@ -324,5 +329,6 @@ var namespaceAcore =
     [ "Warning", "d3/d0b/namespaceAcore.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ],
     [ "dependant_false_v", "d3/d0b/namespaceAcore.html#a63263799191a40005e2214b3faf336d0", null ],
     [ "has_type_v", "d3/d0b/namespaceAcore.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "d3/d0b/namespaceAcore.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "is_tuple_v", "d3/d0b/namespaceAcore.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ],
+    [ "size_v", "d3/d0b/namespaceAcore.html#a9c605be8d96841d40f90f900dfdae16a", null ]
 ];

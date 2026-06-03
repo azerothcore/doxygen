@@ -479,6 +479,7 @@ var WorldConfig_8h =
       [ "CONFIG_NEW_CHAR_STRING", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af83be77fe30f5f7bd745497467b68248", null ],
       [ "CONFIG_VALIDATE_SKILL_LEARNED_BY_SPELLS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7c2d120ede8fb9ecd4c9904934778de", null ],
       [ "CONFIG_ACHIEVEMENT_REALM_FIRST_KILL_WINDOW", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aaf7425556caaabd7ac1f88eee9a4a736", null ],
+      [ "CONFIG_ACHIEVEMENT_REALM_FIRST_RACE_LIMIT_ONE_PER_CHARACTER", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abb62e83b835bcaf448cede2199f2ec14", null ],
       [ "CONFIG_CHATLOG_ENABLED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa5a25a8a20b7d99ad48bd34a0a353b3e", null ],
       [ "MAX_NUM_SERVER_CONFIGS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7cebf4fbc55ce913c4f3fd3b8992c8c7", null ]
     ] ]

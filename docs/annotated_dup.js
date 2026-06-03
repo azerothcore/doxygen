@@ -101,6 +101,8 @@ var annotated_dup =
         [ "GenericHash", "d9/d36/classAcore_1_1Impl_1_1GenericHash.html", "d9/d36/classAcore_1_1Impl_1_1GenericHash" ],
         [ "GenericHashImpl", "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html", "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl" ],
         [ "GenericHMAC", "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html", "df/d02/classAcore_1_1Impl_1_1GenericHMAC" ],
+        [ "list_size", "da/dde/structAcore_1_1Impl_1_1list__size.html", null ],
+        [ "list_size< type_list< Ts... > >", "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html", "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4" ],
         [ "MPSCQueueIntrusive", "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html", "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive" ],
         [ "MPSCQueueNonIntrusive", "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html", "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive" ]
       ] ],
@@ -208,6 +210,7 @@ var annotated_dup =
       [ "SignalHandler", "da/d4b/classAcore_1_1SignalHandler.html", "da/d4b/classAcore_1_1SignalHandler" ],
       [ "SingleThreaded", "df/d78/classAcore_1_1SingleThreaded.html", "df/d78/classAcore_1_1SingleThreaded" ],
       [ "Thread", "db/d4a/classAcore_1_1Thread.html", "db/d4a/classAcore_1_1Thread" ],
+      [ "type_list", "d4/df2/structAcore_1_1type__list.html", null ],
       [ "unary_function", "d8/dfc/structAcore_1_1unary__function.html", "d8/dfc/structAcore_1_1unary__function" ],
       [ "UnitAuraCheck", "d1/d17/classAcore_1_1UnitAuraCheck.html", "d1/d17/classAcore_1_1UnitAuraCheck" ],
       [ "UnitLastSearcher", "d0/de9/structAcore_1_1UnitLastSearcher.html", "d0/de9/structAcore_1_1UnitLastSearcher" ],
