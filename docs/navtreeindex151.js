@@ -1,11 +1,11 @@
 var NAVTREEINDEX151 =
 {
-"d5/d69/structlfg_1_1LfgQueueData.html#a500f93175d7a25f7c2e0dc0f3943e639":[5,0,17,13,9],
 "d5/d69/structlfg_1_1LfgQueueData.html#a500f93175d7a25f7c2e0dc0f3943e639":[7,0,5,13,9],
+"d5/d69/structlfg_1_1LfgQueueData.html#a500f93175d7a25f7c2e0dc0f3943e639":[5,0,17,13,9],
 "d5/d69/structlfg_1_1LfgQueueData.html#a6b115f3a5e0ff996279db044f47f5823":[7,0,5,13,4],
 "d5/d69/structlfg_1_1LfgQueueData.html#a6b115f3a5e0ff996279db044f47f5823":[5,0,17,13,4],
-"d5/d69/structlfg_1_1LfgQueueData.html#a727d35760b716270c5f326f343106d0c":[7,0,5,13,7],
 "d5/d69/structlfg_1_1LfgQueueData.html#a727d35760b716270c5f326f343106d0c":[5,0,17,13,7],
+"d5/d69/structlfg_1_1LfgQueueData.html#a727d35760b716270c5f326f343106d0c":[7,0,5,13,7],
 "d5/d69/structlfg_1_1LfgQueueData.html#a8b2049474102332ddca53f0892565216":[7,0,5,13,5],
 "d5/d69/structlfg_1_1LfgQueueData.html#a8b2049474102332ddca53f0892565216":[5,0,17,13,5],
 "d5/d69/structlfg_1_1LfgQueueData.html#ab78711eaf7285a5d4821e52354124646":[7,0,5,13,3],

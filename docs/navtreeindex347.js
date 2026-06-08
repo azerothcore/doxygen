@@ -217,10 +217,10 @@ var NAVTREEINDEX347 =
 "dd/d8d/structboss__halycon.html#acc375743131ce5643d04ae355b6d68b4":[7,0,536,4],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,34,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[7,0,13,13,3],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,34,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[7,0,13,13,3,0],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[5,0,34,13,3,1],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,34,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[7,0,13,13,3,1],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[5,0,34,13,3,1],
 "dd/d8e/classspell__gen__despawn__self.html":[7,0,3015],
 "dd/d8e/classspell__gen__despawn__self.html#a738318535196b3d55e8f1b3da4f76c95":[7,0,3015,1],
 "dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[7,0,3015,0],
@@ -244,10 +244,10 @@ var NAVTREEINDEX347 =
 "dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[7,0,1788,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[7,0,0,13],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,0,25],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[7,0,0,13,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[5,0,0,25,0],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[7,0,0,13,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,0,25,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[7,0,0,13,1],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,0,25,3],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[7,0,0,13,3]
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[7,0,0,13,3],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,0,25,3]
 };

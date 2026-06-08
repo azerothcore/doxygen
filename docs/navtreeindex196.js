@@ -248,6 +248,6 @@ var NAVTREEINDEX196 =
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f":[5,0,34,5,0,6],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[7,0,13,5,0,3],
 "d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a073e22176d44f5806313c2a4bd3e263a":[5,0,34,5,0,3],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[5,0,34,5,0,2],
-"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[7,0,13,5,0,2]
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[7,0,13,5,0,2],
+"d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a443df04be3afe2021532716140ffb099":[5,0,34,5,0,2]
 };

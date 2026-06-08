@@ -123,8 +123,8 @@ var NAVTREEINDEX275 =
 "da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[7,0,2869,3],
 "da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[7,0,2869,0],
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[7,0,2869,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[7,0,13,8,10,0],
@@ -247,7 +247,7 @@ var NAVTREEINDEX275 =
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,3,0,3,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,3,0,3,3],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,3,0,3,0],
-"da/db5/structlfg_1_1LfgProposal.html":[7,0,5,10],
 "da/db5/structlfg_1_1LfgProposal.html":[5,0,17,10],
-"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[7,0,5,10,7]
+"da/db5/structlfg_1_1LfgProposal.html":[7,0,5,10],
+"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[5,0,17,10,7]
 };

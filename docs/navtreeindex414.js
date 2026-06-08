@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf":[7,0,819,5],
 "df/dc7/structboss__yoggsaron__voice.html#aa3570bf74b7caee5dcf844853a73d7e5":[7,0,819,3],
 "df/dc7/structboss__yoggsaron__voice.html#aae3b82dbb871f0f297bdacf975958492":[7,0,819,2],
 "df/dc7/structboss__yoggsaron__voice.html#abd4829f72aea74d3f9be6df3e40b08b5":[7,0,819,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a15f8706b9084b72359e4c8433d771d89":[7,0,2091,0,3],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a1deb2de50401297451a3e314b5369b5e":[7,0,2091,0,17],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be":[7,0,2091,0,12],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a453cfe020d81e27daa8d779be64012ee":[7,0,2091,0,7],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a575afe78a40c8d49a928772fbec64dd9":[7,0,2091,0,14]
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a453cfe020d81e27daa8d779be64012ee":[7,0,2091,0,7]
 };

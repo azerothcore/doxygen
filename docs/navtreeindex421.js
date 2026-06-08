@@ -1,5 +1,7 @@
 var NAVTREEINDEX421 =
 {
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a5c82eae433ee69b5bda8c96049a06422":[7,0,337,4],
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a77b4eac66780587e6be0eb380e29c9ce":[7,0,337,1],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#aeeeecdf09990c74ffc868a135854d49b":[7,0,337,5],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#af3295d59367354a4ddaac12258e793b8":[7,0,337,3],
 "df/de3/structPowerDisplayEntry.html":[7,0,2443],
@@ -247,7 +249,5 @@ var NAVTREEINDEX421 =
 "df/df3/structboss__grand__warlock__nethekurse.html#a9c577798d5bc87654e6984af02d95c34":[7,0,523,10],
 "df/df3/structboss__grand__warlock__nethekurse.html#ac29fa30bfa8377a07cbfdd1f0964ebfb":[7,0,523,6],
 "df/df3/structboss__grand__warlock__nethekurse.html#ac7d0737aa28c51cc63d93b8774e536f0":[7,0,523,11],
-"df/df3/structboss__grand__warlock__nethekurse.html#aca0bd4c71aafd2d1c54e2ca87d538e9a":[7,0,523,9],
-"df/df3/structboss__grand__warlock__nethekurse.html#aceef7aace38f5246ad67a1591b7f301c":[7,0,523,7],
-"df/df3/structboss__grand__warlock__nethekurse.html#ae071f8cc7ef44e6c6cf205295debea5f":[7,0,523,2]
+"df/df3/structboss__grand__warlock__nethekurse.html#aca0bd4c71aafd2d1c54e2ca87d538e9a":[7,0,523,9]
 };
