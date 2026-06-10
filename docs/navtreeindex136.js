@@ -1,9 +1,10 @@
 var NAVTREEINDEX136 =
 {
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[7,0,7,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[7,0,7,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[7,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[7,0,2602],
@@ -172,8 +173,8 @@ var NAVTREEINDEX136 =
 "d4/da8/classadt__MCLQ.html#ab0181729f82eb0f02da5cb95ec48cda1":[7,0,139,3],
 "d4/da8/classadt__MCLQ.html#ab03dc912a304c0585d2725596adb4b49":[7,0,139,7],
 "d4/da8/classadt__MCLQ.html#ac21d785a3a457baa84cbfd33ebb69bd4":[7,0,139,5],
-"d4/da8/structAcore_1_1is__tuple.html":[5,0,0,79],
 "d4/da8/structAcore_1_1is__tuple.html":[7,0,0,67],
+"d4/da8/structAcore_1_1is__tuple.html":[5,0,0,79],
 "d4/da8/structnpc__earthen__ring__flamecaller.html":[7,0,1778],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#a18b476dfdf65ca7e84856b31027b11f1":[7,0,1778,9],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#a2e6337402c07413ed9aa39c2de58e0d9":[7,0,1778,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d4/daa/classspell__oculus__rider__aura.html":[7,0,3678],
 "d4/daa/classspell__oculus__rider__aura.html#a2e0c7df73cc7246524f6d745ff1fbeb1":[7,0,3678,5],
 "d4/daa/classspell__oculus__rider__aura.html#a6ab047004cc901331d747641f218cf6a":[7,0,3678,0],
-"d4/daa/classspell__oculus__rider__aura.html#a83b0d414a6e97b434f82492fa01ac385":[7,0,3678,3],
-"d4/daa/classspell__oculus__rider__aura.html#a88af7f269f56e474434d51c7ac0eb0a0":[7,0,3678,4]
+"d4/daa/classspell__oculus__rider__aura.html#a83b0d414a6e97b434f82492fa01ac385":[7,0,3678,3]
 };

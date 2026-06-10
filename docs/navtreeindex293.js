@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fa846055c995374082714483a6b39bc963":[8,0,0,0,1,3,9,4,263,3],
+"db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,9,4,263,4],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226facf98b779c795324d47e44b043eeacf92":[8,0,0,0,1,3,9,4,263,5],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fae5e7dc76db7aa286357183a1b529841f":[8,0,0,0,1,3,9,4,263,1],
 "db/d6e/spell__item_8cpp.html#adbcef29bbcbac3ddbf79e3a141771865":[8,0,0,0,1,3,9,4,251],
@@ -86,14 +88,14 @@ var NAVTREEINDEX293 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2537,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[7,0,2537,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2537,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[7,0,0,108,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,120,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[7,0,0,108,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[7,0,0,108,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,120,0,2],
 "db/d72/structLootItem.html":[7,0,1475],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[7,0,1475,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[7,0,1475,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "db/d7a/structItemLocale.html#a787ca2c05ddac7ee5c3a5c28a02b8494":[7,0,1411,1],
 "db/d7b/DBCDatabaseLoader_8cpp.html":[8,0,0,0,1,4,0,0],
 "db/d7b/classItemScript.html":[7,0,1415],
-"db/d7b/classItemScript.html#a08a73378706fdfb0cee5e6214060ad1b":[7,0,1415,2],
-"db/d7b/classItemScript.html#a0ad18538a834261190356eab549ff192":[7,0,1415,0],
-"db/d7b/classItemScript.html#a0e45d02f07def65de2eb94735189e7f5":[7,0,1415,8]
+"db/d7b/classItemScript.html#a08a73378706fdfb0cee5e6214060ad1b":[7,0,1415,2]
 };

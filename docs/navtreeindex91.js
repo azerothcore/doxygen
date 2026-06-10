@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d01/classgo__palehoof__sphere.html#ad939fd46f8bdf32d4e158f32f2bcd8da":[7,0,1191,1],
 "d3/d01/structGameObjectLocale.html":[7,0,1109],
 "d3/d01/structGameObjectLocale.html#a462917eda1e095c99054495abf70cd67":[7,0,1109,1],
 "d3/d01/structGameObjectLocale.html#ae78195bdc8edd6f4996c617e7a541e12":[7,0,1109,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac3f06c413f81a981f228c7cbda23e192":[8,0,0,0,1,3,5,15,33,7],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cacf71fdbe5fb3eae6cdd6bb1bab81d199":[8,0,0,0,1,3,5,15,33,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caed1c7c557089cafccec74e878a71a181":[8,0,0,0,1,3,5,15,33,5],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37":[8,0,0,0,1,3,5,15,38],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22":[8,0,0,0,1,3,5,15,38,6]
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37":[8,0,0,0,1,3,5,15,38]
 };

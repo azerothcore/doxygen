@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#a84188b40b44deae5714466bb23bf2f0d":[7,0,1269,0,4],
+"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#a97accbf467ca1190f8a05512b3857164":[7,0,1269,0,0],
 "d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#a97fbc3f54c23049fd91ad432cd560698":[7,0,1269,0,5],
 "d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#aa9aa3c2e7e69df5899c84ebde1e357bd":[7,0,1269,0,3],
 "d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#ad759cca08b0093522e190ddc038e2c73":[7,0,1269,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX235 =
 "d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7aeb0f1f7546ab844bd4fdd11b5be5b4f1":[8,0,0,0,1,2,8,1,19,12,5],
 "d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7af900bdf476a1e5b6dd021af2bcde8d90":[8,0,0,0,1,2,8,1,19,12,1],
 "d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753dee":[8,0,0,0,1,2,8,1,19,6],
-"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3":[8,0,0,0,1,2,8,1,19,6,2],
-"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea605c6cd721a5eb37b5cf987a29a23370":[8,0,0,0,1,2,8,1,19,6,1],
-"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076":[8,0,0,0,1,2,8,1,19,6,0]
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3":[8,0,0,0,1,2,8,1,19,6,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d22/structboss__hodir.html#ac7f18efccc5bdf3802ca264b31ddc4f0":[7,0,552,13],
 "d4/d22/structboss__hodir.html#aca3d3a6e9270504e480fea9e0b0e6eca":[7,0,552,24],
 "d4/d22/structboss__hodir.html#ad75b72b5e045121ea6ba601aa2291443":[7,0,552,8],
 "d4/d22/structboss__hodir.html#af12f631de82a8668d77728ccb7ace4f1":[7,0,552,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d2b/structMySQLType_3_01int64_01_4.html":[7,0,1578],
 "d4/d2c/classboss__twilight__halion.html":[7,0,765],
 "d4/d2c/classboss__twilight__halion.html#a23ea0a61acb2cf3fd83aece3ac7d218e":[7,0,765,1],
-"d4/d2c/classboss__twilight__halion.html#a56842d74b16cbd5636649cbc643c50d8":[7,0,765,2],
-"d4/d2d/classHideNpcEvent.html":[7,0,1286]
+"d4/d2c/classboss__twilight__halion.html#a56842d74b16cbd5636649cbc643c50d8":[7,0,765,2]
 };

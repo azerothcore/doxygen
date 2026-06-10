@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dc/dd3/structboss__aeonus.html#a5f193144e36a889630d5dbadb4aa665f":[7,0,381,3],
+"dc/dd3/structboss__aeonus.html#a5f95e19dfec210d4da1f1f48145ff047":[7,0,381,1],
 "dc/dd3/structboss__aeonus.html#a62df4db3ead6f9be5c3ead974613c8d5":[7,0,381,4],
 "dc/dd3/structboss__aeonus.html#a649275c31e61f542a13fd791ee85277b":[7,0,381,2],
 "dc/dd3/structboss__aeonus.html#af823ef2187b852dc72d2f63020e1701b":[7,0,381,0],
@@ -7,10 +9,10 @@ var NAVTREEINDEX332 =
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[7,0,13,7,3],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[5,0,34,7,3,2],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[7,0,13,7,3,2],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[7,0,13,7,3,0],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[5,0,34,7,3,0],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#af03055514ef0e1e97f24c66d2cd94185":[7,0,13,7,3,1],
+"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[7,0,13,7,3,0],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#af03055514ef0e1e97f24c66d2cd94185":[5,0,34,7,3,1],
+"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#af03055514ef0e1e97f24c66d2cd94185":[7,0,13,7,3,1],
 "dc/dd4/classflag96.html":[7,0,1074],
 "dc/dd4/classflag96.html#a0bea67076b611eadc8fa12403d647238":[7,0,1074,14],
 "dc/dd4/classflag96.html#a150b74daf2add767d194b3fdc93f8330":[7,0,1074,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa8221a45c0b038126f83d9decb794dbe":[8,0,0,0,1,3,2,17,102],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa903bbca1cf3f36df966a87d32b80409":[8,0,0,0,1,3,2,17,37],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa908fb56c2f024e5bfcb38bc98b849ab":[8,0,0,0,1,3,2,17,117],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aab176fc3ec0004c73cb5279911a3a60b":[8,0,0,0,1,3,2,17,40],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aacb1e20a146b8de6469174976538219c":[8,0,0,0,1,3,2,17,11],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aae283a7ae2c577c738ccad6a34533fec":[8,0,0,0,1,3,2,17,137]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aab176fc3ec0004c73cb5279911a3a60b":[8,0,0,0,1,3,2,17,40]
 };

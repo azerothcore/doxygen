@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"da/d3b/structnpc__ulduar__harpoonfirestate.html#aee0914001b38be87976cd44b6bbaf276":[7,0,2236,5],
+"da/d3d/PetitionMgr_8cpp.html":[8,0,0,0,1,2,33,0],
 "da/d3d/classOPvPCapturePointEP__NPT.html":[7,0,2334],
 "da/d3d/classOPvPCapturePointEP__NPT.html#a08a54abf3668074b5878c165bd2f8ddd":[7,0,2334,6],
 "da/d3d/classOPvPCapturePointEP__NPT.html#a2cb0929c3acb81530a0bd7ea57bcc298":[7,0,2334,0],
@@ -186,8 +188,8 @@ var NAVTREEINDEX264 =
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[7,0,0,4,0,4],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[7,0,0,4,0,4,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,4,0],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,7,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[7,0,0,4,0,4,2],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,7,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[7,0,0,4,0,4,1],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,4,1],
 "da/d48/adtfile_8h.html":[8,0,0,0,3,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#a47cb30ee310f6abc71de51474bf4d02e":[8,0,0,0,2,2,0,9,15,10],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#a6352b8a0e0c72a3f03d64c5faf35e62b":[8,0,0,0,2,2,0,9,15,12],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#a69a9541f9f5c5bc76d328b5b496acea4":[8,0,0,0,2,2,0,9,15,6],
-"da/d4b/SpellProcDisableEffectsTest_8cpp.html#a82283c17501ab739171a9f29b6bfe746":[8,0,0,0,2,2,0,9,15,7],
-"da/d4b/SpellProcDisableEffectsTest_8cpp.html#a830a4559543ce06e92f37f1cfccea55e":[8,0,0,0,2,2,0,9,15,14],
-"da/d4b/SpellProcDisableEffectsTest_8cpp.html#a83593ff4e5f0d4bbf17f3d89a11ad41b":[8,0,0,0,2,2,0,9,15,1]
+"da/d4b/SpellProcDisableEffectsTest_8cpp.html#a82283c17501ab739171a9f29b6bfe746":[8,0,0,0,2,2,0,9,15,7]
 };

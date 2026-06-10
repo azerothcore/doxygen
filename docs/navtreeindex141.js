@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a790bccf5883fe54644b67a73e04d8016":[7,0,115,20],
 "d4/dd8/structAchievementCriteriaData.html#a7acf5ce2d114a00214de07116a21c447":[7,0,115,0],
 "d4/dd8/structAchievementCriteriaData.html#a7e47d759d0cc706a7b67eace6cd82485":[7,0,115,31],
 "d4/dd8/structAchievementCriteriaData.html#a9029e88777efe6c636fb8d6715ea4bab":[7,0,115,30],
@@ -161,10 +162,10 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1073,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1073,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1073,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1910,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1910,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1910,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d4/dde/structboss__xt002.html#a82eedd2b45b0a67c3677ba398c24c540":[7,0,799,13],
 "d4/dde/structboss__xt002.html#ae267d5941357b0e17061483103a8bb4c":[7,0,799,7],
 "d4/dde/structboss__xt002.html#ae6fbbb1b43017878d74597bd95d51cd4":[7,0,799,11],
-"d4/dde/structboss__xt002.html#afd9e4cbeadc453922b43d21dce621bd4":[7,0,799,0],
-"d4/ddf/structArenaTeamMember.html":[7,0,203]
+"d4/dde/structboss__xt002.html#afd9e4cbeadc453922b43d21dce621bd4":[7,0,799,0]
 };

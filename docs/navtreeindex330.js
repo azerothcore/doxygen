@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[8,0,0,0,1,3,4,1,0,1,11],
+"dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[8,0,0,0,1,3,4,1,0,1,15],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[8,0,0,0,1,3,4,1,0,1,5],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[8,0,0,0,1,3,4,1,0,1,5,3],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[8,0,0,0,1,3,4,1,0,1,5,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[7,0,672,11],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[7,0,672,3],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a498ef73fcc7995113318c5f0b6efa23e":[7,0,672,13],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[7,0,672,5],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6056ef3425f39208e5731b25fc94a335":[7,0,672,1],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[7,0,672,2]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[7,0,672,5]
 };

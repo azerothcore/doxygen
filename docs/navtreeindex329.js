@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa146270df180e2203a510a0f182363721":[8,0,0,0,1,3,4,9,8,5,0],
+"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa27792529efcc5838f6d25fde2f57366e":[8,0,0,0,1,3,4,9,8,5,3],
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa53932f6bd26d447675c1f673e24d40ae":[8,0,0,0,1,3,4,9,8,5,1],
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa80e38f8871f1de4fecd0c9818da70edf":[8,0,0,0,1,3,4,9,8,5,2],
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa9c783b6c89bb42eb682fd4b9afcddbbe":[8,0,0,0,1,3,4,9,8,5,5],
@@ -64,8 +66,8 @@ var NAVTREEINDEX329 =
 "dc/daa/classNullGameObjectAI.html#a01b2b14306c75fafe58295a30e5d01e0":[7,0,2316,2],
 "dc/daa/classNullGameObjectAI.html#a54f6ae6e03fbe423d895ec306fe091db":[7,0,2316,0],
 "dc/daa/classNullGameObjectAI.html#a850b58bfcc5e613f31fc95e556ed7f91":[7,0,2316,1],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[7,0,13,9,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,34,9,0],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[7,0,13,9,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[7,0,13,9,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,34,9,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,34,9,0,3],
@@ -78,8 +80,8 @@ var NAVTREEINDEX329 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[7,0,13,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[7,0,13,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,34,9,0,1],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[7,0,13,9,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,34,9,0,7],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[7,0,13,9,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,34,9,0,5],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[7,0,13,9,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[7,0,1587],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[7,0,2723,0],
 "dc/db3/boss__archimonde_8cpp.html":[8,0,0,0,1,3,4,1,0,1],
 "dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[8,0,0,0,1,3,4,1,0,1,10],
-"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[8,0,0,0,1,3,4,1,0,1,12],
-"dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[8,0,0,0,1,3,4,1,0,1,11],
-"dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[8,0,0,0,1,3,4,1,0,1,15]
+"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[8,0,0,0,1,3,4,1,0,1,12]
 };

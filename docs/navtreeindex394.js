@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[8,0,0,0,1,3,5,6,9,40,2],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[8,0,0,0,1,3,5,6,9,40,1],
 "de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44],
 "de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[8,0,0,0,1,3,5,6,9,47],
 "de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[8,0,0,0,1,3,5,6,9,49],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "de/df1/structboss__ionar.html#ac37b88ca61994d12f731e50b5ddbbb0f":[7,0,566,4],
 "de/df1/structboss__ionar.html#ad6fb218e743bad9fec357ea7d862744d":[7,0,566,8],
 "de/df1/structboss__ionar.html#ae6b1225147bc146066185d4d21c19f14":[7,0,566,3],
-"de/df1/structboss__ionar.html#af74dda7ad9cd156036689694b3bb9986":[7,0,566,5],
-"de/df1/zone__duskwood_8cpp.html":[8,0,0,0,1,3,2,20],
-"de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,2,20,2]
+"de/df1/structboss__ionar.html#af74dda7ad9cd156036689694b3bb9986":[7,0,566,5]
 };

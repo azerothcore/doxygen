@@ -1,5 +1,7 @@
 var NAVTREEINDEX358 =
 {
+"de/d00/structnpc__stormforged__lieutenant.html":[7,0,2154],
+"de/d00/structnpc__stormforged__lieutenant.html#a262ac995279b1a936534c858e21122a9":[7,0,2154,1],
 "de/d00/structnpc__stormforged__lieutenant.html#a4c207f0ef172585b97695b63e119d1bc":[7,0,2154,3],
 "de/d00/structnpc__stormforged__lieutenant.html#abc359564370152b28a002a801ba1ab3d":[7,0,2154,2],
 "de/d00/structnpc__stormforged__lieutenant.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa":[7,0,2154,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX358 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a56abd3fff19115d1ed81d4d7e7b0bc48":[8,0,0,0,1,4,7,70,5],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a5d5d866feab04a17e7da4d8b0967f2fd":[8,0,0,0,1,4,7,70,3],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc":[8,0,0,0,1,4,7,70,25],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa":[8,0,0,0,1,4,7,70,35],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6865f083fae719674ecddb2c31d825ee":[8,0,0,0,1,4,7,70,26],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1":[8,0,0,0,1,4,7,70,2]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a64abb7e1e69cb002716d4ee82a480faa":[8,0,0,0,1,4,7,70,35]
 };

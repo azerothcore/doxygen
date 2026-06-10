@@ -1,5 +1,7 @@
 var NAVTREEINDEX331 =
 {
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a6056ef3425f39208e5731b25fc94a335":[7,0,672,1],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[7,0,672,2],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[7,0,672,8],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[7,0,672,4],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[7,0,672,6],
@@ -219,10 +221,10 @@ var NAVTREEINDEX331 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[7,0,3845,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[7,0,0,71],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,83],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[7,0,0,71,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,83,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[7,0,0,71,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,0,83,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dd3/classboss__ymiron.html#a708ffc55e0a190a8ed6adb0bca6ced7c":[7,0,802,1],
 "dc/dd3/structboss__aeonus.html":[7,0,381],
 "dc/dd3/structboss__aeonus.html#a3147774fa5bff34d01947fdcf254ba7b":[7,0,381,6],
-"dc/dd3/structboss__aeonus.html#a4aa2f3d82aaaf5cd3a938ad92aad059d":[7,0,381,5],
-"dc/dd3/structboss__aeonus.html#a5f193144e36a889630d5dbadb4aa665f":[7,0,381,3],
-"dc/dd3/structboss__aeonus.html#a5f95e19dfec210d4da1f1f48145ff047":[7,0,381,1]
+"dc/dd3/structboss__aeonus.html#a4aa2f3d82aaaf5cd3a938ad92aad059d":[7,0,381,5]
 };

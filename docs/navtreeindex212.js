@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d7/db8/structboss__balinda.html#a826ad90ac15b3421e16fc3faa96784e7":[7,0,408,1],
+"d7/db8/structboss__balinda.html#a83df5856391f0ba62dcb0538b7f44e2d":[7,0,408,8],
 "d7/db8/structboss__balinda.html#aa0b78302a92bf39ffee51ce3a71fb534":[7,0,408,3],
 "d7/db8/structboss__balinda.html#aeb10053198b9b4c43e963d23957ba9ba":[7,0,408,2],
 "d7/db8/structboss__balinda.html#af3506dd75baef12fd0328aed21636978":[7,0,408,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5":[8,0,0,0,1,2,1,1,21,13],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6":[8,0,0,0,1,2,1,1,21,10],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda":[8,0,0,0,1,2,1,1,21,23],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1":[8,0,0,0,1,2,1,1,21,6],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1":[8,0,0,0,1,2,1,1,21,2],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7":[8,0,0,0,1,2,1,1,21,8]
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1":[8,0,0,0,1,2,1,1,21,6]
 };

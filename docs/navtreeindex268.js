@@ -1,5 +1,7 @@
 var NAVTREEINDEX268 =
 {
+"da/d70/classspell__gen__petrified__bark.html":[7,0,3074],
+"da/d70/classspell__gen__petrified__bark.html#a514ba9c8222312bb213fcebb418d2499":[7,0,3074,1],
 "da/d70/classspell__gen__petrified__bark.html#a87508c28fead56ca60c947d78ff8bae2":[7,0,3074,0],
 "da/d70/classspell__gen__petrified__bark.html#a9888b4bf71e8bb9e4b1c3caf74c48b31":[7,0,3074,3],
 "da/d70/classspell__gen__petrified__bark.html#aebe4db9304449686a544c8e4c4f26b81":[7,0,3074,2],
@@ -24,14 +26,14 @@ var NAVTREEINDEX268 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[7,0,0,4,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,0,7,4,6],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[7,0,0,4,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,4,8],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,4,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[7,0,0,4,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[7,0,0,4,4,3],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,4,5],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[7,0,0,4,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[7,0,0,4,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,4,0],
@@ -75,8 +77,8 @@ var NAVTREEINDEX268 =
 "da/d74/classspell__item__pygmy__oil.html#a3fab2057be5de9e2f7703b8f43a99ed5":[7,0,3423,3],
 "da/d74/classspell__item__pygmy__oil.html#a9ad5691f6049078c45052d07513b35a2":[7,0,3423,2],
 "da/d74/classspell__item__pygmy__oil.html#addfcb17cbbb56bda88997b34ce3e3ddd":[7,0,3423,0],
-"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[7,0,0,64],
 "da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,0,76],
+"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[7,0,0,64],
 "da/d74/structAuctionEntryItemEnchants.html":[7,0,267],
 "da/d74/structAuctionEntryItemEnchants.html#a36445b0d9d75886a0697c75513eb6c41":[7,0,267,1],
 "da/d74/structAuctionEntryItemEnchants.html#a583aee5baaad873bcbcc2acad403d0bf":[7,0,267,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX268 =
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a5aa103aac42314faae60639b9d71bddb":[8,0,0,0,1,3,2,4,15,9,13],
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a6509b8a433c7fec2d44940be7cf773b9":[8,0,0,0,1,3,2,4,15,9,3],
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a682477145343eebdb420694908681ddc":[8,0,0,0,1,3,2,4,15,9,17],
-"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a6eab31bca1067574fff27ac52acc4455":[8,0,0,0,1,3,2,4,15,9,4],
-"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a8f491dbd6bab1d17f7962d0c94c21f62":[8,0,0,0,1,3,2,4,15,9,19],
-"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a9c50a9d051cce4b7b4d782fd0e8fb5c3":[8,0,0,0,1,3,2,4,15,9,1]
+"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a6eab31bca1067574fff27ac52acc4455":[8,0,0,0,1,3,2,4,15,9,4]
 };

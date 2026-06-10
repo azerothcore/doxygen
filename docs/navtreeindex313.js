@@ -1,5 +1,7 @@
 var NAVTREEINDEX313 =
 {
+"dc/d05/structnpc__shade__of__jindo.html#abc18dabb6f4f0b85a3b5b2e6f830804f":[7,0,2119,3],
+"dc/d06/boss__curator_8cpp.html":[8,0,0,0,1,3,2,4,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,1,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca19fd751bdf0b8d401d30a76edb682723":[8,0,0,0,1,3,2,4,1,1,2],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca2754cdfe3abaa36af80434b488e4cc11":[8,0,0,0,1,3,2,4,1,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX313 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6258962c56bb67fdc09abe695a48fd7":[7,0,674,0,13],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6e957dbd34e2c10d26875647faabe6b":[7,0,674,0,19],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae9b82e54daa62b196c6064143253b0d7":[7,0,674,0,7],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0":[7,0,674,0,2],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af512a9920b3e21641776197a570d87fa":[7,0,674,0,14],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb":[7,0,674,0,18]
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0":[7,0,674,0,2]
 };

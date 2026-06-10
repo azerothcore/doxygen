@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d7c/classboss__darkmaster__gandling.html":[7,0,436],
 "d3/d7c/classboss__darkmaster__gandling.html#a21ea53862614303af31a517a53d1fbf6":[7,0,436,2],
 "d3/d7c/classboss__darkmaster__gandling.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b":[7,0,436,1],
 "d3/d7c/classspell__the__flag__of__ownership.html":[7,0,4153],
@@ -47,16 +48,16 @@ var NAVTREEINDEX103 =
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ab1c7da00e8e1a20d2592ec26862867fc":[7,0,458,5],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[7,0,458,7],
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[8,0,0,0,1,2,38,0,55,0],
 "d3/d81/classAbominationDespawner.html":[7,0,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8ad6d0d1c69981237dd32c4f638e54d287":[8,0,0,0,1,3,5,2,0,5,6,9],
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8ada99d35e19b3882c66d486a67a97c90d":[8,0,0,0,1,3,5,2,0,5,6,6],
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8ae102028a9e0fb2b310f4434359dd6a33":[8,0,0,0,1,3,5,2,0,5,6,2],
-"d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8afff5170720fc2777cf8d8415b8b48a1f":[8,0,0,0,1,3,5,2,0,5,6,3],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html":[7,0,2014,0]
+"d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8afff5170720fc2777cf8d8415b8b48a1f":[8,0,0,0,1,3,5,2,0,5,6,3]
 };

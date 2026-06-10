@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"dc/d78/classBattlegroundAB.html#ad7a3d2b4777f2c4551089dfff743fcb8":[7,0,329,5],
+"dc/d78/classBattlegroundAB.html#aedd3f2b9479f3a3e9da5c5349ad08e0a":[7,0,329,13],
 "dc/d78/classBattlegroundAB.html#affbcaa60ea4b97660d995264cf87cf22":[7,0,329,19],
 "dc/d78/classboss__infinite__corruptor.html":[7,0,564],
 "dc/d78/classboss__infinite__corruptor.html#a78a939073ab44b818cefdb25419f92be":[7,0,564,1],
@@ -178,12 +180,12 @@ var NAVTREEINDEX326 =
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d88/classTempSummon.html#a19a3c747fabe3c2d788380b6b3aff5b5":[7,0,4474,25],
 "dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25":[7,0,4474,21],
 "dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73":[7,0,4474,23],
-"dc/d88/classTempSummon.html#a29cd1896bf2fb92feb3b31cad1b38111":[7,0,4474,9],
-"dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a":[7,0,4474,8],
-"dc/d88/classTempSummon.html#a4f1c054b1e80b1ae0b44e6f38951082e":[7,0,4474,6]
+"dc/d88/classTempSummon.html#a29cd1896bf2fb92feb3b31cad1b38111":[7,0,4474,9]
 };

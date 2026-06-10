@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3642],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d63/classTypeUnorderedMapContainer.html":[7,0,4524],
 "d9/d63/classTypeUnorderedMapContainer.html#a1d6a7cd1596aa03a8e53609c7d7b6e33":[7,0,4524,0],
 "d9/d63/classTypeUnorderedMapContainer.html#a209cbb9e5ba70b9f5f66e64e2c36411d":[7,0,4524,2],
-"d9/d63/classTypeUnorderedMapContainer.html#a289258c9015016a70d2867df7e113def":[7,0,4524,5],
-"d9/d63/classTypeUnorderedMapContainer.html#a5a9666fc5f0136a778d8c542a386d4bf":[7,0,4524,4],
-"d9/d63/classTypeUnorderedMapContainer.html#a653b00a9d570ae9d9276a061beda3f35":[7,0,4524,1]
+"d9/d63/classTypeUnorderedMapContainer.html#a289258c9015016a70d2867df7e113def":[7,0,4524,5]
 };

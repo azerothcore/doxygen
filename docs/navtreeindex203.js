@@ -1,5 +1,7 @@
 var NAVTREEINDEX203 =
 {
+"d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[7,0,2432,34],
+"d7/d95/classPoolMgr.html#ab875c9e4de8755d0e8a907273ca31f0a":[7,0,2432,13],
 "d7/d95/classPoolMgr.html#abb7cd094775d8c3a5a43d297758932b3":[7,0,2432,2],
 "d7/d95/classPoolMgr.html#ac208c889e8252c8c6be7b82db128d769":[7,0,2432,18],
 "d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69":[7,0,2432,46],
@@ -247,7 +249,5 @@ var NAVTREEINDEX203 =
 "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499adf62a57ca43f8aef7fbaf0746a5a735b":[8,0,0,0,1,3,8,0,6,5],
 "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499afb4b5b1050c699fae6efb3098cca3718":[8,0,0,0,1,3,8,0,6,2],
 "d7/d9c/pet__dk_8cpp.html#ac6a5b089240cd6b996928b3e7f9137b3":[8,0,0,0,1,3,8,0,7],
-"d7/d9d/classAuraScript_1_1AuraProcHandler.html":[7,0,297,2],
-"d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[7,0,297,2,0],
-"d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[7,0,297,2,1]
+"d7/d9d/classAuraScript_1_1AuraProcHandler.html":[7,0,297,2]
 };

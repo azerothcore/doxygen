@@ -1,14 +1,16 @@
 var NAVTREEINDEX403 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#ab081bd042f880ff9e1b5f7fcbc80db74":[5,0,17,2,0],
+"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[7,0,5,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,17,2,7],
-"df/d3e/classlfg_1_1LfgGroupData.html#ab8e65545f0d47cadc3a694ec3d7024e3":[5,0,17,2,13],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab8e65545f0d47cadc3a694ec3d7024e3":[7,0,5,2,13],
-"df/d3e/classlfg_1_1LfgGroupData.html#ad6100d5fc961fee2f0d40a5907ff466b":[7,0,5,2,26],
+"df/d3e/classlfg_1_1LfgGroupData.html#ab8e65545f0d47cadc3a694ec3d7024e3":[5,0,17,2,13],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad6100d5fc961fee2f0d40a5907ff466b":[5,0,17,2,26],
-"df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,17,2,10],
+"df/d3e/classlfg_1_1LfgGroupData.html#ad6100d5fc961fee2f0d40a5907ff466b":[7,0,5,2,26],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[7,0,5,2,10],
-"df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,17,2,8],
+"df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,17,2,10],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[7,0,5,2,8],
+"df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,17,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,17,2,24],
 "df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[7,0,5,2,24],
 "df/d3e/namespaceGameTime.html":[5,0,15],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[8,0,0,0,1,3,5,8,1,2,3,1],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[8,0,0,0,1,3,5,8,1,2,3,4],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[8,0,0,0,1,3,5,8,1,2,3,3],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[8,0,0,0,1,3,5,8,1,2,3,0],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[7,0,4136],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[7,0,4136,3]
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[8,0,0,0,1,3,5,8,1,2,3,0]
 };

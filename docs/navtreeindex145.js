@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec":[8,0,0,0,1,2,16,7,4,1,23],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deaa040a897bd55c5a2bc0cbf54fa598bc0":[8,0,0,0,1,2,16,7,4,1,21],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deab057f340ae5124c15001b623b6a394a6":[8,0,0,0,1,2,16,7,4,1,9],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc":[8,0,0,0,1,2,16,7,4,1,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d1e/structboss__thorim__lightning__orb.html#a46a7a73cb200d7bbaa7f38871c765254":[7,0,753,3],
 "d5/d1e/structboss__thorim__lightning__orb.html#a79c24c42364c9932199ece2775f7a7f2":[7,0,753,8],
 "d5/d1e/structboss__thorim__lightning__orb.html#a855df9994de0901e56ac6f84d71ab7e4":[7,0,753,2],
-"d5/d1e/structboss__thorim__lightning__orb.html#a8e512ec039d93b1ceb7a2b8ee556fa56":[7,0,753,1],
-"d5/d1e/structboss__thorim__lightning__orb.html#adeefc7cd014021305b77cc9c52102ce6":[7,0,753,5]
+"d5/d1e/structboss__thorim__lightning__orb.html#a8e512ec039d93b1ceb7a2b8ee556fa56":[7,0,753,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd":[8,0,0,0,1,2,17,3,3,1],
+"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825":[8,0,0,0,1,2,17,3,3,3],
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7":[8,0,0,0,1,2,17,3,3,6],
 "d6/d39/classWorld.html":[4,2,11],
 "d6/d39/classWorld.html#a0227f68a7e8917c775d0386f83e0ad4d":[4,2,11,67],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d41/structboss__ragnaros.html#a8bd76b12ba287b79861ccefe6e15c175":[7,0,681,2],
 "d6/d41/structboss__ragnaros.html#a9e159bff9d94150ad6818b1a7ca00c1b":[7,0,681,6],
 "d6/d41/structboss__ragnaros.html#a9f54ebd102b2cef602ebc87e08a84f2a":[7,0,681,19],
-"d6/d41/structboss__ragnaros.html#a9fcad2eeaa0229ca36d685832bad2748":[7,0,681,5],
-"d6/d41/structboss__ragnaros.html#ac631c586a97e16dea6f3d9ca228db6e3":[7,0,681,13],
-"d6/d41/structboss__ragnaros.html#ac8335bceae8047ac16162ad64960f628":[7,0,681,11]
+"d6/d41/structboss__ragnaros.html#a9fcad2eeaa0229ca36d685832bad2748":[7,0,681,5]
 };

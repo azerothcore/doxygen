@@ -1,8 +1,10 @@
 var NAVTREEINDEX373 =
 {
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,16,1],
+"de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,20,24],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
-"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,32],
+"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
 "de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f":[5,0,20,30],
 "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a":[5,0,20,34],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,20,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX373 =
 "de/d1c/namespacepitKillBoundary.html":[5,0,25],
 "de/d1c/namespacepitKillBoundary.html#ae137fb738d524b299f3c238c8e1e464a":[5,0,25,0],
 "de/d1d/structnpc__phalanx.html":[7,0,2052],
-"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2052,0],
-"de/d1d/structnpc__phalanx.html#a3b0c33207bf5090abeb9860585c222b4":[7,0,2052,5],
-"de/d1d/structnpc__phalanx.html#a54ad76cd7e8d3be058ad3d5153e5b144":[7,0,2052,3]
+"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2052,0]
 };

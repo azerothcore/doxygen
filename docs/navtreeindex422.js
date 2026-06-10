@@ -1,5 +1,7 @@
 var NAVTREEINDEX422 =
 {
+"df/df3/structboss__grand__warlock__nethekurse.html#ac7d0737aa28c51cc63d93b8774e536f0":[7,0,523,11],
+"df/df3/structboss__grand__warlock__nethekurse.html#aca0bd4c71aafd2d1c54e2ca87d538e9a":[7,0,523,9],
 "df/df3/structboss__grand__warlock__nethekurse.html#aceef7aace38f5246ad67a1591b7f301c":[7,0,523,7],
 "df/df3/structboss__grand__warlock__nethekurse.html#ae071f8cc7ef44e6c6cf205295debea5f":[7,0,523,2],
 "df/df3/structboss__grand__warlock__nethekurse.html#afe62561de66fbe7fa92c365a51f01adc":[7,0,523,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX422 =
 "dir_66ebf0a2692492d9464b45c818bfe694.html":[8,0,0,0,1,2,35],
 "dir_673d72b3ca5d3075a881357412b54b23.html":[8,0,0,0,1,3,2,0],
 "dir_67569fff8f49486bdc25905120705d3b.html":[8,0,0,0,1,3,5,8,1],
-"dir_696eb3df8c264f77a3b72ba3d62ed649.html":[8,0,0,0,1,2,11],
-"dir_6b63bbd5ab28cd54e716b5236a19bef7.html":[8,0,0,0,1,2,12],
-"dir_6c056af80b919649fcf50736e999ee3c.html":[8,0,0,0,2,2,0,8]
+"dir_696eb3df8c264f77a3b72ba3d62ed649.html":[8,0,0,0,1,2,11]
 };

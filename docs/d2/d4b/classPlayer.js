@@ -548,6 +548,7 @@ var classPlayer =
     [ "HaveAtClient", "d2/d4b/classPlayer.html#a20ce8867ad56a1a0c096b9aa6e786f33", null ],
     [ "HaveAtClient", "d2/d4b/classPlayer.html#a3f14db9604cd251d30cbab5afa1877af", null ],
     [ "InArena", "d2/d4b/classPlayer.html#ad08f358cbaa67f340fb1d50b756cc446", null ],
+    [ "InBattlefield", "d2/d4b/classPlayer.html#a20fefafed52c517d804620a51c109064", null ],
     [ "InBattleground", "d2/d4b/classPlayer.html#a467189aea8a8fb26ef8482254e6f2b34", null ],
     [ "InBattlegroundQueue", "d2/d4b/classPlayer.html#a68910cdec33bf9685215f8d39b3eee4a", null ],
     [ "InBattlegroundQueueForBattlegroundQueueType", "d2/d4b/classPlayer.html#a0de8239a1bc26a76ffbfd887201492e3", null ],

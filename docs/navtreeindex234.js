@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#ad0b65a3cfccdf07d017757751f4e15fa":[7,0,1348,0,8],
+"d8/dd1/structinstance__onyxias__lair_1_1instance__onyxias__lair__InstanceMapScript.html#aea148b562a4f2cd752ac73240f902993":[7,0,1348,0,7],
 "d8/dd2/boss__warp__splinter_8cpp.html":[8,0,0,0,1,3,7,5,1,4],
 "d8/dd2/boss__warp__splinter_8cpp.html#a087a0bf698d1b09fd21edaa988fa66b2":[8,0,0,0,1,3,7,5,1,4,3],
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,5,1,4,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5":[8,0,0,0,1,2,18,2,0,0],
 "d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402":[8,0,0,0,1,2,18,2,0,2],
 "d8/dd8/ObjectMgr_8cpp.html#af55111c173fd16ba2898f3046dfa3d9a":[8,0,0,0,1,2,18,2,14],
-"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html":[7,0,1269,0],
-"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#a84188b40b44deae5714466bb23bf2f0d":[7,0,1269,0,4],
-"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#a97accbf467ca1190f8a05512b3857164":[7,0,1269,0,0]
+"d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html":[7,0,1269,0]
 };

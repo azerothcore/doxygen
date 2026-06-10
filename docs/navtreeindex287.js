@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d24/structnpc__hyjal__ground__trash.html#a576b909d65ae862af5dcc6500d2ff7e1":[7,0,1879,4],
+"db/d24/structnpc__hyjal__ground__trash.html#a91b3ee049bf199271618afd3ad0c5f77":[7,0,1879,7],
 "db/d24/structnpc__hyjal__ground__trash.html#aa38b45f63841c049a2add0a9832268ef":[7,0,1879,6],
 "db/d24/structnpc__hyjal__ground__trash.html#aa92481bcf993c4eda5ef271145200d77":[7,0,1879,2],
 "db/d24/structnpc__hyjal__ground__trash.html#ad94fe6d4dca64fa8eec183481f82bb39":[7,0,1879,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d37/structSearchableAuctionEntryItem.html#a650acd7b902fd4038f1ea384f595b058":[7,0,2546,7],
 "db/d37/structSearchableAuctionEntryItem.html#a73f9647b66aa316bdb97c50a20bc826f":[7,0,2546,6],
 "db/d37/structSearchableAuctionEntryItem.html#a9184925bad61ad58f35c4e4b3dbccd81":[7,0,2546,3],
-"db/d37/structSearchableAuctionEntryItem.html#aa1c185178359f1cbd5afcedd38a0e69f":[7,0,2546,5],
-"db/d37/structSearchableAuctionEntryItem.html#aa3332c4ea806c944c9c4e95ddb31efa9":[7,0,2546,2],
-"db/d37/structSearchableAuctionEntryItem.html#af076353ee7ce0fd3665e13449c248629":[7,0,2546,1]
+"db/d37/structSearchableAuctionEntryItem.html#aa1c185178359f1cbd5afcedd38a0e69f":[7,0,2546,5]
 };

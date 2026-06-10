@@ -1,5 +1,7 @@
 var NAVTREEINDEX242 =
 {
+"d9/d3a/classVec2D.html":[7,0,4548],
+"d9/d3a/classVec2D.html#a033bc75d6ed5790220ecb73391670c69":[7,0,4548,0],
 "d9/d3a/classVec2D.html#a065c92a2f2b2b03c6a3dbc4ce136d82d":[7,0,4548,12],
 "d9/d3a/classVec2D.html#a282fda3b9eb8d0dca4a781160ca9ab7c":[7,0,4548,10],
 "d9/d3a/classVec2D.html#a3048ebc1d70a8aa8a63665a5f64bfc72":[7,0,4548,6],
@@ -62,12 +64,12 @@ var NAVTREEINDEX242 =
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html":[5,0,34,1,3],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a0c6523d46a325841cc5511a2a0f3e5c2":[7,0,13,1,3,3],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a0c6523d46a325841cc5511a2a0f3e5c2":[5,0,34,1,3,3],
-"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[5,0,34,1,3,0],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[7,0,13,1,3,0],
-"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[5,0,34,1,3,4],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[5,0,34,1,3,0],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[7,0,13,1,3,4],
-"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[5,0,34,1,3,2],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[5,0,34,1,3,4],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[7,0,13,1,3,2],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[5,0,34,1,3,2],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[5,0,34,1,3,1],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[7,0,13,1,3,1],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html":[7,0,297,13],
@@ -76,8 +78,8 @@ var NAVTREEINDEX242 =
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#aad44956783e9c044eb92065cc62e97f6":[7,0,297,13,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[5,0,34,10,5],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[7,0,13,10,5],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,34,10,5,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[7,0,13,10,5,3],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,34,10,5,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[7,0,13,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,34,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[7,0,13,10,5,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d4e/classspell__mage__magic__absorption.html":[7,0,3584],
 "d9/d4e/classspell__mage__magic__absorption.html#a180edf3dd9f3abd42ae6cd43353451fe":[7,0,3584,0],
 "d9/d4e/classspell__mage__magic__absorption.html#a3578470f10bb4c10868d02d62cafceac":[7,0,3584,3],
-"d9/d4e/classspell__mage__magic__absorption.html#a4f496a310941e40c9c841772be3e6414":[7,0,3584,4],
-"d9/d4e/classspell__mage__magic__absorption.html#a874672016641a737a197588ea980c2c3":[7,0,3584,2],
-"d9/d4e/classspell__mage__magic__absorption.html#a9d6daf153d86cf93e35c43d05dda2459":[7,0,3584,1]
+"d9/d4e/classspell__mage__magic__absorption.html#a4f496a310941e40c9c841772be3e6414":[7,0,3584,4]
 };

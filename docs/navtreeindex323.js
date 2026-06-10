@@ -1,5 +1,7 @@
 var NAVTREEINDEX323 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabf72a68cd52d9dd84870ddb9af03adce":[8,0,0,0,1,2,26,2,1,16],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac0e09803bc2df3c1608e09976e0dd666":[8,0,0,0,1,2,26,2,1,2],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac81485d22dff8d6a4ed903b6e4b766e2":[8,0,0,0,1,2,26,2,1,36],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac9294cb854ac9106f36bc04c1d77fd68":[8,0,0,0,1,2,26,2,1,40],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbacbc066617db6fb2a3c70607d3d9a5c5d":[8,0,0,0,1,2,26,2,1,26],
@@ -247,7 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d51/classspell__gen__mounted__charge.html#a2cdda449ab11438347e7dd32fd058e6d":[7,0,3061,3],
 "dc/d51/classspell__gen__mounted__charge.html#ad8d2871e6277dd982653fa864010d084":[7,0,3061,0],
 "dc/d51/model_8h.html":[8,0,0,0,3,4,7],
-"dc/d51/model_8h.html#a8d0afbab5641bb7d88196fbad79e4cf1":[8,0,0,0,3,4,7,3],
-"dc/d51/model_8h.html#aaece844099afc9d83362feb37427d5ae":[8,0,0,0,3,4,7,1],
-"dc/d51/model_8h.html#afd641f15b5ca6e58b68f26ef17a02912":[8,0,0,0,3,4,7,2]
+"dc/d51/model_8h.html#a8d0afbab5641bb7d88196fbad79e4cf1":[8,0,0,0,3,4,7,3]
 };

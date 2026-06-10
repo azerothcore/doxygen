@@ -1,5 +1,7 @@
 var NAVTREEINDEX286 =
 {
+"db/d17/classCharacterCreateInfo.html#aa4b2800384a89a5c30c2edb7ff567865":[4,1,14,8],
+"db/d17/classCharacterCreateInfo.html#aad61b8ca0caf09d6b62ee9fffd78cceb":[4,1,14,2],
 "db/d17/classCharacterCreateInfo.html#aba49d87691e9d2b10d430450c3f66493":[4,1,14,4],
 "db/d17/classCharacterCreateInfo.html#ac4ed75d1527549051a92cbb958fa8eb4":[4,1,14,6],
 "db/d17/classCharacterCreateInfo.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff":[4,1,14,11],
@@ -192,10 +194,10 @@ var NAVTREEINDEX286 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,694],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,694,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,694,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX286 =
 "db/d24/structnpc__hyjal__ground__trash.html":[7,0,1879],
 "db/d24/structnpc__hyjal__ground__trash.html#a035610284a56e690200f978b0fd496ab":[7,0,1879,5],
 "db/d24/structnpc__hyjal__ground__trash.html#a06b590bf9ef983b1ef2b94058144fc7d":[7,0,1879,0],
-"db/d24/structnpc__hyjal__ground__trash.html#a0ab86d651644dcc579585176c2b5c07e":[7,0,1879,1],
-"db/d24/structnpc__hyjal__ground__trash.html#a576b909d65ae862af5dcc6500d2ff7e1":[7,0,1879,4],
-"db/d24/structnpc__hyjal__ground__trash.html#a91b3ee049bf199271618afd3ad0c5f77":[7,0,1879,7]
+"db/d24/structnpc__hyjal__ground__trash.html#a0ab86d651644dcc579585176c2b5c07e":[7,0,1879,1]
 };

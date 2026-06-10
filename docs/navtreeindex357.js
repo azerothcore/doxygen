@@ -1,5 +1,7 @@
 var NAVTREEINDEX357 =
 {
+"dd/df1/structboss__buru.html#a61eeeb3eb1684943e94367a9318b3035":[7,0,424,5],
+"dd/df1/structboss__buru.html#a6d8f3265dca889bc49e747471da8597f":[7,0,424,4],
 "dd/df1/structboss__buru.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c":[7,0,424,6],
 "dd/df1/structboss__buru.html#aa395967af50f2a422bf1e81a087efc43":[7,0,424,10],
 "dd/df1/structboss__buru.html#aa534cca1e46299e8db917cc8aa5d5b51":[7,0,424,3],
@@ -65,14 +67,14 @@ var NAVTREEINDEX357 =
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,0,18,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[7,0,0,41,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[7,0,0,41,0,1],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,0,53,0,1],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[7,0,0,41,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,0,53,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[7,0,0,41,0,2],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[7,0,0,41,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,0,53,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[7,0,0,41,0,0],
 "dd/df8/SRP6_8h.html":[8,0,0,0,0,3,0,4],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html":[7,0,3489],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html#a724e857ad8604ef4546c8823bb7bd632":[7,0,3489,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX357 =
 "de/d00/structboss__roar.html#a67df04e89c877d565753ac077aa923c7":[7,0,690,9],
 "de/d00/structboss__roar.html#a93e1d81bcff8b31841ae65628759ee7e":[7,0,690,0],
 "de/d00/structboss__roar.html#a9a2778a803d6d41b256759b29452cc51":[7,0,690,1],
-"de/d00/structboss__roar.html#aaaa0d33697fe1abc0df5bf9ecb249ffc":[7,0,690,6],
-"de/d00/structnpc__stormforged__lieutenant.html":[7,0,2154],
-"de/d00/structnpc__stormforged__lieutenant.html#a262ac995279b1a936534c858e21122a9":[7,0,2154,1]
+"de/d00/structboss__roar.html#aaaa0d33697fe1abc0df5bf9ecb249ffc":[7,0,690,6]
 };

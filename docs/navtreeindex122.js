@@ -1,5 +1,6 @@
 var NAVTREEINDEX122 =
 {
+"d4/d1e/halls__of__reflection_8h.html#a4a0d25ab54e75973ec00b79befb8ce31":[8,0,0,0,1,3,5,4,1,3,35],
 "d4/d1e/halls__of__reflection_8h.html#a595d7b4816b9377ac0bbb3c15cb901b1":[8,0,0,0,1,3,5,4,1,3,15],
 "d4/d1e/halls__of__reflection_8h.html#a5e912692588399bbcb6b1f5071b14f3b":[8,0,0,0,1,3,5,4,1,3,32],
 "d4/d1e/halls__of__reflection_8h.html#a6093db4e1b5ac00e150d2b3af51c9b2c":[8,0,0,0,1,3,5,4,1,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d22/structboss__hodir.html#a9ac83d7503d1f4703ea022bdcf52fcde":[7,0,552,7],
 "d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5":[7,0,552,19],
 "d4/d22/structboss__hodir.html#aa0d0e0eb72500f5c99285fcf90a727c0":[7,0,552,26],
-"d4/d22/structboss__hodir.html#abb26187af8b74a3564b1208d9d4d6518":[7,0,552,12],
-"d4/d22/structboss__hodir.html#ac7f18efccc5bdf3802ca264b31ddc4f0":[7,0,552,13]
+"d4/d22/structboss__hodir.html#abb26187af8b74a3564b1208d9d4d6518":[7,0,552,12]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX282 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[8,0,0,0,1,3,5,2,1,7,5,0],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129":[8,0,0,0,1,3,5,2,1,7,5,20],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a764bfe23208bc91b99a48bad7a6fb571":[8,0,0,0,1,3,5,2,1,7,5,2],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a78936e290d45a26f59971acdf3e326db":[8,0,0,0,1,3,5,2,1,7,5,34],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a79b16b1b80dc9aabd701e1abe3339225":[8,0,0,0,1,3,5,2,1,7,5,51],
@@ -247,7 +249,5 @@ var NAVTREEINDEX282 =
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab28d9ce795ccb359d797710d2b95bc7b":[8,0,0,0,1,3,2,1,1,2,2,0],
 "da/df2/classspell__warl__ritual__of__summoning.html":[7,0,4272],
 "da/df2/classspell__warl__ritual__of__summoning.html#a1fb9a924ddba358d6d67943c5b2ffa24":[7,0,4272,1],
-"da/df2/classspell__warl__ritual__of__summoning.html#a703b21a93ba41211ac6e6ee182eecb8b":[7,0,4272,2],
-"da/df2/classspell__warl__ritual__of__summoning.html#acdb69e605c4e3b5eb3e48f400957db28":[7,0,4272,0],
-"da/df3/classmmaps__commandscript.html":[7,0,1538]
+"da/df2/classspell__warl__ritual__of__summoning.html#a703b21a93ba41211ac6e6ee182eecb8b":[7,0,4272,2]
 };

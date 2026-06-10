@@ -1,5 +1,7 @@
 var NAVTREEINDEX192 =
 {
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[7,0,13,8,1,1],
+"d7/d01/classnpc__shenthul.html":[7,0,2127],
 "d7/d01/classnpc__shenthul.html#a1683f8c89add6270277c59951c74027e":[7,0,2127,2],
 "d7/d01/classnpc__shenthul.html#a3a63fec338dca74eb7d071dfcc9c95b5":[7,0,2127,3],
 "d7/d01/classnpc__shenthul.html#a77815503c7d9c811fe3821232e308714":[7,0,2127,1],
@@ -117,14 +119,14 @@ var NAVTREEINDEX192 =
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,110],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[7,0,0,98,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,0,110,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,110,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[7,0,0,98,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[7,0,0,98,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,110,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,110,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[7,0,0,98,2],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,110,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[7,0,0,98,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,110,0],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html":[8,0,0,0,1,3,5,4,2,2],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,4,2,2,3],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca02d05fb030e834dcdcac430b478a599c":[8,0,0,0,1,3,5,4,2,2,3,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d0c/vault__of__archavon_8h.html#a28778a1d686a0babf608cbd20d967c11abcae9f8565a66a68ce338e808a699df1":[8,0,0,0,1,3,5,11,5,2,0],
 "d7/d0c/vault__of__archavon_8h.html#a66953f33f30c50777bc2e2b5f4f6b157":[8,0,0,0,1,3,5,11,5,3],
 "d7/d0c/vault__of__archavon_8h.html#a66953f33f30c50777bc2e2b5f4f6b157a37f9f0556b29628ab2cff4892d913297":[8,0,0,0,1,3,5,11,5,3,0],
-"d7/d0c/vault__of__archavon_8h.html#a66953f33f30c50777bc2e2b5f4f6b157a3ed529e57d6105439af69ed5ed66d537":[8,0,0,0,1,3,5,11,5,3,1],
-"d7/d0c/vault__of__archavon_8h.html#ab953c3e9c9ee6df1258c89545feabaa1":[8,0,0,0,1,3,5,11,5,1],
-"d7/d0c/vault__of__archavon_8h.html#acc7616f7b06ad97c4a2e5a634b01169a":[8,0,0,0,1,3,5,11,5,6]
+"d7/d0c/vault__of__archavon_8h.html#a66953f33f30c50777bc2e2b5f4f6b157a3ed529e57d6105439af69ed5ed66d537":[8,0,0,0,1,3,5,11,5,3,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d60/structnpc__ulduar__hodir__mage.html#afe11d15da8769f50db470460cf759c2d":[7,0,2238,2],
+"d6/d61/classnpc__maghar__captive.html":[7,0,1964],
 "d6/d61/classnpc__maghar__captive.html#a59e177f33306ed0bb3de9f640d3685e4":[7,0,1964,1],
 "d6/d61/classnpc__maghar__captive.html#a7f1528549b55edfb5286db4afe6ce50e":[7,0,1964,2],
 "d6/d61/classnpc__maghar__captive.html#a966fdfe66a65675eb1618b0698dfbb21":[7,0,1964,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d6e/structboss__malchezaar.html#a68adb0f05177316f9e39a48669f60829":[7,0,625,0],
 "d6/d6e/structboss__malchezaar.html#a72b54fd786c064114df3b8a09835e841":[7,0,625,9],
 "d6/d6e/structboss__malchezaar.html#a7695c12779ada381cb04085dcf8dbb2c":[7,0,625,15],
-"d6/d6e/structboss__malchezaar.html#a7fcaec7c991f9d6df816aef650e53855":[7,0,625,2],
-"d6/d6e/structboss__malchezaar.html#a94be6cf7bb8cd7857fe82638d0d0e853":[7,0,625,13],
-"d6/d6e/structboss__malchezaar.html#a9eb75b54ea480b38590695635a9cb4fe":[7,0,625,11]
+"d6/d6e/structboss__malchezaar.html#a7fcaec7c991f9d6df816aef650e53855":[7,0,625,2]
 };

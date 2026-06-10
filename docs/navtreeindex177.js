@@ -1,5 +1,7 @@
 var NAVTREEINDEX177 =
 {
+"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aafe4f4aaf273efe8ea3dabd88c6eb5a8":[8,0,0,0,1,2,7,0,1,20,4],
+"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ab8d10846fcb0a9349937fa0859f6d75b":[8,0,0,0,1,2,7,0,1,20,5],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aba7cc0a5cc5ac40ab98e30817d3fc104":[8,0,0,0,1,2,7,0,1,20,2],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ad8a355c8acce70c783fbfadb6c617fc1":[8,0,0,0,1,2,7,0,1,20,10],
 "d6/d4f/BattlefieldWG_8h.html#aab6b7a16c5d957cf2d31ebff2a8e1efe":[8,0,0,0,1,2,7,0,1,33],
@@ -247,7 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d53/UpdateTime_8cpp.html":[8,0,0,0,1,2,44,2],
 "d6/d53/UpdateTime_8cpp.html#aa415d38dafe4c1c78c951de9fed8393b":[8,0,0,0,1,2,44,2,0],
 "d6/d54/boss__lord__valthalak_8cpp.html":[8,0,0,0,1,3,2,1,1,5],
-"d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,1,1,5,3],
-"d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1a245636772e3a8ba0b68b94e9d39fc5f8":[8,0,0,0,1,3,2,1,1,5,3,3],
-"d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1a7129edf861b716cc78023bf9aeb3deb6":[8,0,0,0,1,3,2,1,1,5,3,2]
+"d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,1,1,5,3]
 };

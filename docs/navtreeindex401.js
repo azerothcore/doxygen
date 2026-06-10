@@ -1,5 +1,7 @@
 var NAVTREEINDEX401 =
 {
+"df/d25/classspell__rog__setup.html#a13ccd1c89767d0dcf041217466390759":[7,0,3975,1],
+"df/d25/classspell__rog__setup.html#a4f29ca53813534b1af20e09281288e95":[7,0,3975,2],
 "df/d25/classspell__rog__setup.html#a5e48b25b15b60aa284ca61e900e0f87e":[7,0,3975,0],
 "df/d26/server_2apps_2worldserver_2Main_8cpp.html":[4,0,2],
 "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html":[7,0,1704,0],
@@ -131,16 +133,16 @@ var NAVTREEINDEX401 =
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[7,0,13,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[7,0,13,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[7,0,13,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,34,6,40,4],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,34,6,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html":[7,0,2450,1],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a10e8ad619c9766fdf49cd29662c3d9e0":[7,0,2450,1,0],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a5df33ebca29ea3ce1088307c138a28e4":[7,0,2450,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX401 =
 "df/d30/classspell__auchenai__possess.html#a7a34b9bd77cd1f15a1cd7954d76d80d0":[7,0,2642,0],
 "df/d30/classspell__auchenai__possess.html#aa35fc5865f108712e450661e67c384ce":[7,0,2642,3],
 "df/d30/classspell__auchenai__possess.html#ad413f14193013058e1775f80b457a81d":[7,0,2642,2],
-"df/d30/classspell__auchenai__possess.html#aebc61b57ed8038488ec06c14483b2099":[7,0,2642,4],
-"df/d30/classspell__auchenai__possess.html#af120bb9d6a0c3d338706613540849412":[7,0,2642,1],
-"df/d31/classspell__hun__generic__scaling.html":[7,0,3210]
+"df/d30/classspell__auchenai__possess.html#aebc61b57ed8038488ec06c14483b2099":[7,0,2642,4]
 };

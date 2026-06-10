@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6fa5c01e170b0833dea5b5eb78400a574bf":[8,0,0,0,1,3,10,17,3,11],
+"d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6fa6bdc9b4712d0096b727647b24ed036f9":[8,0,0,0,1,3,10,17,3,24],
 "d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6fa72e1ecc0e52a2cba874e6d88873baff0":[8,0,0,0,1,3,10,17,3,15],
 "d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6fa751a9691e056b8d70158b936b90015b8":[8,0,0,0,1,3,10,17,3,26],
 "d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6fa8d77fb89ff64349eabdc3c3a3771f679":[8,0,0,0,1,3,10,17,3,23],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14":[8,0,0,0,1,2,17,3,3,2],
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755":[8,0,0,0,1,2,17,3,3,4],
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936":[8,0,0,0,1,2,17,3,3,5],
-"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5":[8,0,0,0,1,2,17,3,3,0],
-"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd":[8,0,0,0,1,2,17,3,3,1],
-"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825":[8,0,0,0,1,2,17,3,3,3]
+"d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5":[8,0,0,0,1,2,17,3,3,0]
 };

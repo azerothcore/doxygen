@@ -1,5 +1,7 @@
 var NAVTREEINDEX420 =
 {
+"df/dda/structboss__bjarngrim.html#a87eab2b27b48d98b94a030936722781e":[7,0,413,1],
+"df/dda/structboss__bjarngrim.html#a9706ccb196a09fe5f16efb20578f83f0":[7,0,413,10],
 "df/dda/structboss__bjarngrim.html#a9cacb3d985fb9e4b2501ab4b4334cdab":[7,0,413,15],
 "df/dda/structboss__bjarngrim.html#ab0c5aea43ef8c40c0af6a336dccd2b97":[7,0,413,9],
 "df/dda/structboss__bjarngrim.html#ab698e8ea0de311b167d95c01ef1bee69":[7,0,413,4],
@@ -136,12 +138,12 @@ var NAVTREEINDEX420 =
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[7,0,2099,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[7,0,11,23,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[7,0,11,23,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[7,0,11,23,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[7,0,11,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,31,23,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[7,0,11,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[7,0,11,23,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,31,23,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[7,0,741,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX420 =
 "df/de3/classspell__q11520__discovering__your__roots.html#a46e61697212a43532e148ccb12a7d8e5":[7,0,3862,2],
 "df/de3/classspell__q11520__discovering__your__roots.html#a5efc666af2cb73c376706c20e41ace68":[7,0,3862,1],
 "df/de3/structBattlegroundEYCapturingPointStruct.html":[7,0,337],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a23524562fd9c875b29092ee7e7a4e44b":[7,0,337,2],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a4b25984504b15c7249d2e5866ad35962":[7,0,337,6],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a54164bcb9e4235b15d8a5d8a27fbe41c":[7,0,337,0]
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a23524562fd9c875b29092ee7e7a4e44b":[7,0,337,2]
 };

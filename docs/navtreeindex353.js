@@ -1,5 +1,7 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a24141bf360bf13fe839b1c248670b885":[8,0,0,0,1,2,38,0,77,1,79],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a244367339ab9b82bc0f25464125b6dc4":[8,0,0,0,1,2,38,0,77,1,71],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[8,0,0,0,1,2,38,0,77,1,35],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a27f71468300c58dc100ab0150ff2a743":[8,0,0,0,1,2,38,0,77,1,89],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2ad7d98a46f7e3412297f574c1fefde2":[8,0,0,0,1,2,38,0,77,1,142],
@@ -247,7 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[7,0,948,8],
 "dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[7,0,948,2],
 "dd/dcd/structSpellImmune.html":[7,0,4385],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[7,0,4385,1],
-"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[7,0,4385,2],
-"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[7,0,4385,0]
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[7,0,4385,1]
 };

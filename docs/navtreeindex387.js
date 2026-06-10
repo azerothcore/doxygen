@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"de/da0/structLoadedHeightData.html#ab64c3cfcd01805f43ec4ef41fb3bc48d":[7,0,1456,3],
+"de/da0/structLoadedHeightData.html#abd47b99dfa1f23b0741b66cfd4837eaa":[7,0,1456,4],
 "de/da0/structLoadedHeightData.html#aec022a29ba14a18fdd33e8f65e1cd977":[7,0,1456,7],
 "de/da1/ThreatManagerTest_8cpp.html":[8,0,0,0,2,2,0,2,2],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html":[7,0,2901],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6808afaad287dbf093c158873fa65ee2":[8,0,0,0,1,1,0,0,1,1,134],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a68b42c812f5e51e54c33380909a630fa":[8,0,0,0,1,1,0,0,1,1,114],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a69d30ae3c21b711e2035d179ae700958":[8,0,0,0,1,1,0,0,1,1,378],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6a9cc50d77e84a029a93f4c16482e0aa":[8,0,0,0,1,1,0,0,1,1,442],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6b5bcfbdef364717bca711758d77f01f":[8,0,0,0,1,1,0,0,1,1,206],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6bfe4419a38c3daf7a304ed62fccfbfb":[8,0,0,0,1,1,0,0,1,1,159]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6a9cc50d77e84a029a93f4c16482e0aa":[8,0,0,0,1,1,0,0,1,1,442]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d42/adtfile_8cpp.html#ac0029be4572a61d00eb1435db5526a74":[8,0,0,0,3,4,1,0],
 "d4/d42/adtfile_8cpp.html#ac3f75fc482c41471364c2c3e8bd1dd96":[8,0,0,0,3,4,1,2],
 "d4/d42/classgo__duskwither__spire__power__source.html":[7,0,1164],
 "d4/d42/classgo__duskwither__spire__power__source.html#a2c7fd017e7985b99bff187119157a041":[7,0,1164,1],
@@ -23,10 +24,10 @@ var NAVTREEINDEX126 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[7,0,604,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[7,0,604,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[7,0,604,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,34,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,34,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,34,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d55/classpooltools__commandscript.html#aebd69a3ae0a0e0833f3eaeeb637d97e6":[7,0,2438,1],
 "d4/d55/classpooltools__commandscript.html#afb113b7673dbddf804f9384fbc400d67":[7,0,2438,2],
 "d4/d55/classspell__item__draenic__pale__ale.html":[7,0,3345],
-"d4/d55/classspell__item__draenic__pale__ale.html#a15a545ee3ec4a926f1330ce0ad975d3e":[7,0,3345,1],
-"d4/d55/classspell__item__draenic__pale__ale.html#aa145041af68291f107c3ff11ce15b85e":[7,0,3345,2]
+"d4/d55/classspell__item__draenic__pale__ale.html#a15a545ee3ec4a926f1330ce0ad975d3e":[7,0,3345,1]
 };

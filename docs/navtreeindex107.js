@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aa538c0745cfc0652f0bf5279e78eb54a":[8,0,0,0,1,3,10,10,54,8],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aa6fe6786050e373c334d83d6c3736ec0":[8,0,0,0,1,3,10,10,54,17],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aac4a177f71fbe12b5422a54237b11abe":[8,0,0,0,1,3,10,10,54,47],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ab454a65b1b0fe2c1341c1d7a9aaba66f":[8,0,0,0,1,3,10,10,54,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classspell__transitus__shield__beam__aura.html":[7,0,4195],
 "d3/da8/classspell__transitus__shield__beam__aura.html#a3a24a25c9b9b118d20ca2b14fbfc5869":[7,0,4195,4],
 "d3/da8/classspell__transitus__shield__beam__aura.html#a5ec8ffeceae335423dff10f54e096e8a":[7,0,4195,2],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a83ff54727e886161c5568a60833932d1":[7,0,4195,0],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a9e48d1c9dc26f882ee685a2cbf59667e":[7,0,4195,1]
+"d3/da8/classspell__transitus__shield__beam__aura.html#a83ff54727e886161c5568a60833932d1":[7,0,4195,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX271 =
 {
+"da/d80/structEscort__Waypoint.html#a272aeeba02403a21c4900e6b0844a328":[7,0,1050,0],
+"da/d80/structEscort__Waypoint.html#a467a869dba9243bd165e4c480e339705":[7,0,1050,2],
 "da/d80/structEscort__Waypoint.html#a4d751062b2ab46734049bf8939a30731":[7,0,1050,3],
 "da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[7,0,1050,1],
 "da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[7,0,1050,5],
@@ -137,16 +139,16 @@ var NAVTREEINDEX271 =
 "da/d82/structDestructibleModelDataEntry.html#a84d606d69c51f5e1fdecf9bc0f5705be":[7,0,1002,0],
 "da/d82/structDestructibleModelDataEntry.html#aa4e1e6be7b5b1d15872fb310c1c299af":[7,0,1002,3],
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[7,0,1002,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,34,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[7,0,13,8,15],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,34,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[7,0,13,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
 "da/d83/magtheridons__lair_8h.html":[8,0,0,0,1,3,7,4,2,2],
 "da/d83/magtheridons__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,2,2,0],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[8,0,0,0,1,3,7,4,2,2,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX271 =
 "da/d8c/SkillExtraItems_8h.html":[8,0,0,0,1,2,40,3],
 "da/d8c/SkillExtraItems_8h.html#a121df170a82be5ab5b05999a6be27b69":[8,0,0,0,1,2,40,3,3],
 "da/d8c/SkillExtraItems_8h.html#a3244d04018405bafe21acc8bc96cc743":[8,0,0,0,1,2,40,3,2],
-"da/d8c/SkillExtraItems_8h.html#a49687e255d65fa15dac5e6a428c5739d":[8,0,0,0,1,2,40,3,0],
-"da/d8c/SkillExtraItems_8h.html#a818c557864790091814604b6d2175e52":[8,0,0,0,1,2,40,3,1],
-"da/d8c/classIgbTeleportOnVictoryCheck.html":[7,0,1308]
+"da/d8c/SkillExtraItems_8h.html#a49687e255d65fa15dac5e6a428c5739d":[8,0,0,0,1,2,40,3,0]
 };

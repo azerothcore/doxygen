@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d69/structItemTemplate.html#ae0013e982dfd997df41c8499232a8a07":[7,0,1420,90],
 "d4/d69/structItemTemplate.html#ae509fd042f8a3d95c4653f9376f7a614":[7,0,1420,22],
 "d4/d69/structItemTemplate.html#ae922a1f49766b14e9ac69bad9660a475":[7,0,1420,87],
 "d4/d69/structItemTemplate.html#aed5d5d9593e37555340aaca41aefa7e1":[7,0,1420,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691":[8,0,0,0,1,3,5,2,1,0,18],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4":[8,0,0,0,1,3,5,2,1,0,18,1],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[8,0,0,0,1,3,5,2,1,0,18,0],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[7,0,13,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,34,6,13]
 };

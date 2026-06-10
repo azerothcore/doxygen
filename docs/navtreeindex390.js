@@ -1,5 +1,7 @@
 var NAVTREEINDEX390 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7dac9a1161872f3f60cc90f0bf4f9ea654d":[8,0,0,0,1,3,5,18,54,1],
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7dada72003c289b8428b6bb29a34de084ff":[8,0,0,0,1,3,5,18,54,14],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7dae0044ddbb37e12dd665a9013743f3b53":[8,0,0,0,1,3,5,18,54,2],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7daf40681055e7d8de688575d82fc637cd9":[8,0,0,0,1,3,5,18,54,12],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7dafdc5eb38a711ea489a0cddf2b6e7d2ba":[8,0,0,0,1,3,5,18,54,10],
@@ -90,16 +92,16 @@ var NAVTREEINDEX390 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,0,2,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[7,0,0,1,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,0,2,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,0,2,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[7,0,0,1,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,0,2,1,0,0],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,0,2,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[7,0,0,1,1,0,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,0,2,1,0,1],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,0,2,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[7,0,0,1,1,0,1],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,0,2,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,0,2,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[7,0,0,1,1,0,2],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,0,2,1,0,3],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[7,0,0,1,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,0,2,1,0,3],
 "de/da9/classMotionTransport.html":[7,0,1554],
 "de/da9/classMotionTransport.html#a00417cfdf5901d38c0adf04f8d734dcf":[7,0,1554,18],
 "de/da9/classMotionTransport.html#a09f55f2b1ee17805d3ffdafd10eac768":[7,0,1554,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX390 =
 "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092":[8,0,0,0,1,3,7,4,3,5,4,1],
 "de/dae/shattered__halls_8h.html#ae6b8d459f26fe1836c08c664e0d73426":[8,0,0,0,1,3,7,4,3,5,0],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,4,3,5,3],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a040e4b2e1bdad27be5dcca9a39a4e3cc":[8,0,0,0,1,3,7,4,3,5,3,11],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a0a4629ac79798699788a63a24ccf8dd6":[8,0,0,0,1,3,7,4,3,5,3,6],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a3c2e42f2da7b4f256d291998e86b61fb":[8,0,0,0,1,3,7,4,3,5,3,3]
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a040e4b2e1bdad27be5dcca9a39a4e3cc":[8,0,0,0,1,3,7,4,3,5,3,11]
 };

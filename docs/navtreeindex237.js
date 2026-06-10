@@ -1,5 +1,7 @@
 var NAVTREEINDEX237 =
 {
+"d8/dea/structboss__ormorok.html#a29cc8c3db5ba3d528ea873d66be619cd":[7,0,661,7],
+"d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[7,0,661,4],
 "d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[7,0,661,5],
 "d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[7,0,661,0],
 "d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[7,0,661,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dfa/classspell__warl__shadowflame.html":[7,0,4279],
 "d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[7,0,4279,1],
 "d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[7,0,4279,0],
-"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[7,0,4279,2],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html":[7,0,2346],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[7,0,2346,0]
+"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[7,0,4279,2]
 };

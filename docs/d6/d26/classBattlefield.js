@@ -53,6 +53,7 @@ var classBattlefield =
     [ "InvitePlayerToQueue", "d6/d26/classBattlefield.html#a5d7d37d33db75c1df5511d8fc5239005", null ],
     [ "InvitePlayerToWar", "d6/d26/classBattlefield.html#a62640a78e1885a6f99e95155d5dc74e9", null ],
     [ "IsEnabled", "d6/d26/classBattlefield.html#aea0c4b0948cbc408dd1b00ff305c37c0", null ],
+    [ "IsPlayerInBattlefield", "d6/d26/classBattlefield.html#a2461259a8825af3e3b6ec06e8e90694c", null ],
     [ "IsPlayerInWarOrInvited", "d6/d26/classBattlefield.html#adf90f91a8397cbf9faea54bab36c46c6", null ],
     [ "IsWarTime", "d6/d26/classBattlefield.html#a401d41559df3deb55735ade67082f444", null ],
     [ "KickAfkPlayers", "d6/d26/classBattlefield.html#aa9e2c86b9d4b44899e173327a49db2bf", null ],

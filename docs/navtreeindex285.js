@@ -1,5 +1,7 @@
 var NAVTREEINDEX285 =
 {
+"db/d0d/classspell__gen__disabled__above__63.html#a9e54ae3e90ee8bf0fab966a497f761b3":[7,0,3016,0],
+"db/d0e/classspell__zuljin__zap.html":[7,0,4364],
 "db/d0e/classspell__zuljin__zap.html#a2f5d255de09818203e498c0090bdd3fb":[7,0,4364,2],
 "db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[7,0,4364,3],
 "db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[7,0,4364,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX285 =
 "db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9],
 "db/d17/classCharacterCreateInfo.html#a5a88b2c2556dd1239c417ea4fcc55287":[4,1,14,5],
 "db/d17/classCharacterCreateInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,14,1],
-"db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,14,0],
-"db/d17/classCharacterCreateInfo.html#aa4b2800384a89a5c30c2edb7ff567865":[4,1,14,8],
-"db/d17/classCharacterCreateInfo.html#aad61b8ca0caf09d6b62ee9fffd78cceb":[4,1,14,2]
+"db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,14,0]
 };

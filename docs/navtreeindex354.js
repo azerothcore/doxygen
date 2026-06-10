@@ -1,5 +1,7 @@
 var NAVTREEINDEX354 =
 {
+"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[7,0,4385,2],
+"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[7,0,4385,0],
 "dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[7,0,4385,3],
 "dd/dce/classspell__lurker__below__spout.html":[7,0,3547],
 "dd/dce/classspell__lurker__below__spout.html#a3771abcc829883ba0cbae9587adbe751":[7,0,3547,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c3bee790f85b4cbaf8fc3072b2f1d":[8,0,0,0,1,3,5,1,1,2,32,38],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[8,0,0,0,1,3,5,1,1,2,32,0],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca5258be973d305b2d055ec66b1538e95c":[8,0,0,0,1,3,5,1,1,2,32,2],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca58fbcd1b41f3302287520720ef16ed56":[8,0,0,0,1,3,5,1,1,2,32,31],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca597ad70b7045bcf05df2acb16bf36fca":[8,0,0,0,1,3,5,1,1,2,32,39],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca614f9c7b10d741c7d06fddf767837192":[8,0,0,0,1,3,5,1,1,2,32,19]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca58fbcd1b41f3302287520720ef16ed56":[8,0,0,0,1,3,5,1,1,2,32,31]
 };

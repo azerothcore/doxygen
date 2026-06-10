@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04adbfef4496937b62df8ea3bdbe2e4eea5":[5,0,28,6,300],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04adc3a82ffb7d189f204f629f9c6e3fcd6":[5,0,28,6,190],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04adc632ebed01d03ba04b19d27f4620336":[5,0,28,6,555],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ade1a69b52d99558267b4add6da058581":[5,0,28,6,1],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04adec95620406cf8403c4abdde499063b6":[5,0,28,6,449],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d3b/classspell__the__lich__king__infest__aura.html#abd725d08f2ef14cd375b6b94e9c1dcf0":[7,0,4159,1],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#accd12b06341f3168c74cb18926614f7f":[7,0,4159,0],
 "dc/d3c/classspell__sha__totem__of__wrath.html":[7,0,4065],
-"dc/d3c/classspell__sha__totem__of__wrath.html#a6f21938e84e45848fad74a16f1f52c48":[7,0,4065,0],
-"dc/d3c/classspell__sha__totem__of__wrath.html#a9e90a6fa037627ac682f4ea050f557de":[7,0,4065,2],
-"dc/d3c/classspell__sha__totem__of__wrath.html#ac7abeee05c117595696faf1ec55e11bd":[7,0,4065,1]
+"dc/d3c/classspell__sha__totem__of__wrath.html#a6f21938e84e45848fad74a16f1f52c48":[7,0,4065,0]
 };

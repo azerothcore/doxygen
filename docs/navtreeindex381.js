@@ -1,5 +1,7 @@
 var NAVTREEINDEX381 =
 {
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html":[7,0,1384,0],
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0234565dc9c87e32bcd0a7f19e2336b6":[7,0,1384,0,5],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a07cff6b252eb9b08855bc8bd7e5d7735":[7,0,1384,0,13],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0da827e64e90a1f97b75038621a195ff":[7,0,1384,0,2],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a1f33ff891c8289a49dd2b979a064c323":[7,0,1384,0,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX381 =
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9":[8,0,0,0,1,3,2,24,5,4],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[7,0,13,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,34,6,30],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[7,0,13,6,30,2],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,34,6,30,2],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[7,0,13,6,30,1]
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[7,0,13,6,30,2]
 };

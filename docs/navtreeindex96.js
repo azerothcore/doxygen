@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aff663e3fe21b5355e090032e60e25baa":[8,0,0,0,1,3,5,9,2,13,46,48],
 "d3/d32/boss__yoggsaron_8cpp.html#a1d921e98e5be4d4d399cc5b1401c5d10":[8,0,0,0,1,3,5,9,2,13,47],
 "d3/d32/boss__yoggsaron_8cpp.html#a1f36aa5da591928c5859e94bfc665ae2":[8,0,0,0,1,3,5,9,2,13,52],
 "d3/d32/boss__yoggsaron_8cpp.html#a24e97d868d452de43fd8267549dd8dc2":[8,0,0,0,1,3,5,9,2,13,54],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d41/classGameObjectModelOwnerImpl.html#af8553967b9788d69da9fcb8cdb647f9c":[7,0,1113,1],
 "d3/d41/classnpc__wg__queue.html":[7,0,2286],
 "d3/d41/classnpc__wg__queue.html#a20fc6ae4e4377f237a620b7f5b1de8ee":[7,0,2286,3],
-"d3/d41/classnpc__wg__queue.html#a2cc9825e08e982ef195f117a4512c4ae":[7,0,2286,1],
-"d3/d41/classnpc__wg__queue.html#ad2d7746a32b520d37ea826b03627de4e":[7,0,2286,2]
+"d3/d41/classnpc__wg__queue.html#a2cc9825e08e982ef195f117a4512c4ae":[7,0,2286,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX240 =
 {
+"d9/d13/classspell__pri__renew.html#afcdd6cc19b59b5e6aa0cfdb9189edc99":[7,0,3790,3],
+"d9/d13/classspell__sha__glyph__of__healing__wave.html":[7,0,4033],
 "d9/d13/classspell__sha__glyph__of__healing__wave.html#a546aa2e3f3e76847de07e310f60be20b":[7,0,4033,4],
 "d9/d13/classspell__sha__glyph__of__healing__wave.html#a739a759d67ab038b1d883ae716337473":[7,0,4033,3],
 "d9/d13/classspell__sha__glyph__of__healing__wave.html#a92b6def8938d4909d241e5dc45cda240":[7,0,4033,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca27bdd95528c81703a7768a704a29e5d3":[8,0,0,0,1,3,2,4,2,1,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca43af3f88ddf88aa8bfed99ccf363097f":[8,0,0,0,1,3,2,4,2,1,3],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b":[8,0,0,0,1,3,2,4,2,1,1],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,2,4,2,1,4],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[8,0,0,0,1,3,2,4,2,3],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,2,2]
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,2,4,2,1,4]
 };

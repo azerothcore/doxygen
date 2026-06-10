@@ -1,5 +1,7 @@
 var NAVTREEINDEX267 =
 {
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[7,0,5,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,17,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,17,14,0],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[7,0,5,14,0],
 "da/d5f/structnpc__ulduar__hodir__shaman.html":[7,0,2240],
@@ -247,7 +249,5 @@ var NAVTREEINDEX267 =
 "da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[8,0,0,0,1,2,5,3,21],
 "da/d70/classat__icc__saurfang__portal.html":[7,0,231],
 "da/d70/classat__icc__saurfang__portal.html#a7f30058251c520634a0b7bad08380e5d":[7,0,231,0],
-"da/d70/classat__icc__saurfang__portal.html#a8980fe0e67aa33335f0fdb947a294213":[7,0,231,1],
-"da/d70/classspell__gen__petrified__bark.html":[7,0,3074],
-"da/d70/classspell__gen__petrified__bark.html#a514ba9c8222312bb213fcebb418d2499":[7,0,3074,1]
+"da/d70/classat__icc__saurfang__portal.html#a8980fe0e67aa33335f0fdb947a294213":[7,0,231,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"d3/da8/classspell__transitus__shield__beam__aura.html#a9e48d1c9dc26f882ee685a2cbf59667e":[7,0,4195,1],
 "d3/da8/classspell__transitus__shield__beam__aura.html#ae07af138c6f9c565799574b4f8343492":[7,0,4195,3],
 "d3/da8/structIdleMovementFactory.html":[7,0,1304],
 "d3/da8/structIdleMovementFactory.html#a5e99eab3436482927bc83100f85581cd":[7,0,1304,1],
@@ -172,14 +173,14 @@ var NAVTREEINDEX108 =
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,34,10,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,34,10,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[7,0,13,10,16,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[7,0,13,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,34,10,16,5],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[7,0,13,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[7,0,13,10,16,2],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[7,0,13,10,16,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,34,10,16,0],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[7,0,13,10,16,4],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[7,0,13,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[5,0,34,10,16,4],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[7,0,13,10,16,4],
 "d3/daf/classspell__igb__rocket__artillery.html":[7,0,3269],
 "d3/daf/classspell__igb__rocket__artillery.html#aad8925e891d7537993f02f3bc2552fea":[7,0,3269,2],
 "d3/daf/classspell__igb__rocket__artillery.html#aae77f6693a3e5d01e3d05cb990fd1fe5":[7,0,3269,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d3/db0/cs__misc_8cpp.html#a1706df7feb0ef4f693c388033ace5fb7":[8,0,0,0,1,3,0,32,6],
 "d3/db0/cs__misc_8cpp.html#a181bdc61e4eb1d21db975ca0227cb086":[8,0,0,0,1,3,0,32,5],
 "d3/db0/cs__misc_8cpp.html#a704344ab0c20d3674c76d1dcf177ec9a":[8,0,0,0,1,3,0,32,4],
-"d3/db0/cs__misc_8cpp.html#aaedbdfd3cae227b11684151f41e3b977":[8,0,0,0,1,3,0,32,3],
-"d3/db0/cs__misc_8cpp.html#ac722d20c86b9502b7c4c8ae711cc3917":[8,0,0,0,1,3,0,32,2]
+"d3/db0/cs__misc_8cpp.html#aaedbdfd3cae227b11684151f41e3b977":[8,0,0,0,1,3,0,32,3]
 };

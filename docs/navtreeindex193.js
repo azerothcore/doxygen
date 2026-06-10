@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d0c/vault__of__archavon_8h.html#ab953c3e9c9ee6df1258c89545feabaa1":[8,0,0,0,1,3,5,11,5,1],
+"d7/d0c/vault__of__archavon_8h.html#acc7616f7b06ad97c4a2e5a634b01169a":[8,0,0,0,1,3,5,11,5,6],
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,5,11,5,5],
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2b7257100054a2be4acb0addeab89989":[8,0,0,0,1,3,5,11,5,5,3],
 "d7/d0c/vault__of__archavon_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,5,11,5,5,4],
@@ -29,10 +31,10 @@ var NAVTREEINDEX193 =
 "d7/d0e/struct__ItemStat.html":[7,0,15],
 "d7/d0e/struct__ItemStat.html#a5a5ee42445d9121f186c084dfbc31425":[7,0,15,1],
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[7,0,15,0],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,29,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,29,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
 "d7/d0f/classPreparedStatement.html":[7,0,2446],
 "d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[7,0,2446,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[7,0,2446,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d1f/zone__zuldrak_8cpp.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192":[8,0,0,0,1,3,5,25,11,0],
 "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69":[8,0,0,0,1,3,5,25,16],
 "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709":[8,0,0,0,1,3,5,25,16,0],
-"d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a8ca03a4ea8749adc0994543e38e6ff74":[8,0,0,0,1,3,5,25,16,2],
-"d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69ad69f168a22a9214e61b161bde38a62fe":[8,0,0,0,1,3,5,25,16,1],
-"d7/d1f/zone__zuldrak_8cpp.html#afec7b4aa273152db4ad7856ecb95ee43":[8,0,0,0,1,3,5,25,12]
+"d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a8ca03a4ea8749adc0994543e38e6ff74":[8,0,0,0,1,3,5,25,16,2]
 };

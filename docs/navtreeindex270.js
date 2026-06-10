@@ -1,5 +1,7 @@
 var NAVTREEINDEX270 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63b2e64ae8d59500575435e10ae42a48":[8,0,0,0,1,3,5,6,10,72,3],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a645255314065f3f783385d240e0bfef4":[8,0,0,0,1,3,5,6,10,72,4],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a66178d358d605e8d45d757f38a175b7a":[8,0,0,0,1,3,5,6,10,72,57],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a690000692f6f0bcf8467ac5ae22e55a0":[8,0,0,0,1,3,5,6,10,72,69],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[8,0,0,0,1,3,5,6,10,72,15],
@@ -47,10 +49,10 @@ var NAVTREEINDEX270 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4188,1],
 "da/d7b/MapMgr_8h.html":[8,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,29,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[8,0,0,0,1,3,2,12,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[8,0,0,0,1,3,2,12,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[8,0,0,0,1,3,2,12,4,18,40],
@@ -247,7 +249,5 @@ var NAVTREEINDEX270 =
 "da/d80/classspell__midsummer__ribbon__pole.html#a404f2134734e1d21201033b3f26e611e":[7,0,3628,0],
 "da/d80/classspell__midsummer__ribbon__pole.html#a8ce6799e01cf8b7849386fbdd2edddb8":[7,0,3628,1],
 "da/d80/classspell__midsummer__ribbon__pole.html#ad239472c15ca0c73b053d112f538ecff":[7,0,3628,3],
-"da/d80/structEscort__Waypoint.html":[7,0,1050],
-"da/d80/structEscort__Waypoint.html#a272aeeba02403a21c4900e6b0844a328":[7,0,1050,0],
-"da/d80/structEscort__Waypoint.html#a467a869dba9243bd165e4c480e339705":[7,0,1050,2]
+"da/d80/structEscort__Waypoint.html":[7,0,1050]
 };

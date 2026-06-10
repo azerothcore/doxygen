@@ -1,5 +1,7 @@
 var NAVTREEINDEX243 =
 {
+"d9/d4e/classspell__mage__magic__absorption.html#a874672016641a737a197588ea980c2c3":[7,0,3584,2],
+"d9/d4e/classspell__mage__magic__absorption.html#a9d6daf153d86cf93e35c43d05dda2459":[7,0,3584,1],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html":[7,0,1863,0],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a5642aab7afc50a7494c43ae7a130d571":[7,0,1863,0,2],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a56e035884d2ab94629c133efc1fc8feb":[7,0,1863,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6]
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1]
 };

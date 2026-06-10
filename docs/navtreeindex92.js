@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22":[8,0,0,0,1,3,5,15,38,6],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab":[8,0,0,0,1,3,5,15,38,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a":[8,0,0,0,1,3,5,15,38,3],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a524035752d7dfd07fe1af0f7941bda1f":[8,0,0,0,1,3,5,15,38,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#a34e3d17b89010569bf7e9cb28361c2af":[7,0,1702,0,0],
 "d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#ad6411d2a87d2552bea2051f80ca16e14":[7,0,1702,0,1],
 "d3/d12/classban__commandscript.html":[7,0,315],
-"d3/d12/classban__commandscript.html#a2685e26ced4dda5bfbbefaec02d59a5e":[7,0,315,5],
-"d3/d12/classban__commandscript.html#a2cc5ebe2fda5d9fe217fd8f4c62c644e":[7,0,315,18]
+"d3/d12/classban__commandscript.html#a2685e26ced4dda5bfbbefaec02d59a5e":[7,0,315,5]
 };

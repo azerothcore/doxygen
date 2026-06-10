@@ -1,5 +1,7 @@
 var NAVTREEINDEX289 =
 {
+"db/d4e/boss__ossirian_8cpp.html":[8,0,0,0,1,3,4,8,4],
+"db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,4,8,4,6],
 "db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfa35b17668e233eb44f3bf7350ceac9b7f":[8,0,0,0,1,3,4,8,4,6,1],
 "db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfabe9697b88f8a315d3fa35240283b2897":[8,0,0,0,1,3,4,8,4,6,0],
 "db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,8,4,9],
@@ -132,8 +134,8 @@ var NAVTREEINDEX289 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[8,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX289 =
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a87dc192a13cecf834d49cd04451224cd":[7,0,1211,0,0],
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a9884081855fc45776a6b12b9a68890e4":[7,0,1211,0,5],
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#aa545ba4659b288c1ce1f5c2332d5e61f":[7,0,1211,0,2],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#ab4903827c78b1b042cc17aef661a0b4f":[7,0,1211,0,3],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#af6d4f5c3fe822815f58665a0207e3c32":[7,0,1211,0,4],
-"db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html":[7,0,1983,0]
+"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#ab4903827c78b1b042cc17aef661a0b4f":[7,0,1211,0,3]
 };

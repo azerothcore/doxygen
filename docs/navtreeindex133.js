@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aa494d88eaf6b2bffb8265f5e75770a2e6":[8,0,0,0,1,3,5,2,1,1,42,1],
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aad680497fcd797bb333d73b772a1255c8":[8,0,0,0,1,3,5,2,1,1,42,3],
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aaf7620485f601407e9d37d1924c7dc473":[8,0,0,0,1,3,5,2,1,1,42,0],
 "d4/d81/boss__faction__champions_8cpp.html#ae6505c16cfad7b2cf2585553de27ae1aaffdfb7a077825dc6792fbc0da351e871":[8,0,0,0,1,3,5,2,1,1,42,4],
@@ -151,12 +152,12 @@ var NAVTREEINDEX133 =
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[7,0,3079,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[7,0,870],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[7,0,870,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[7,0,870,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aecd476d2379264974ffe4fd995e527b8":[8,0,0,0,1,3,7,1,6,9,2],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,7,1,6,7],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a1cb37dd656baede293654d3027937fdb":[8,0,0,0,1,3,7,1,6,7,2],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a22fc8deed004c63aed44c67b1067682f":[8,0,0,0,1,3,7,1,6,7,0],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a45e5b0cd0ff002b4e0155b49d8ca1e6e":[8,0,0,0,1,3,7,1,6,7,5]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a22fc8deed004c63aed44c67b1067682f":[8,0,0,0,1,3,7,1,6,7,0]
 };
