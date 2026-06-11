@@ -553,6 +553,8 @@ var classUnit =
     [ "IsImmunedToSchool", "df/dd9/classUnit.html#aa0c1e53ffc618aa7efb5c6afdf4da2c9", null ],
     [ "IsImmunedToSpell", "df/dd9/classUnit.html#ac7b72d17bab9bfe2c183be146c348c02", null ],
     [ "IsImmunedToSpell", "df/dd9/classUnit.html#a3553ad195e44b09a5e46d22b120a4ad0", null ],
+    [ "IsImmunedToSpell", "df/dd9/classUnit.html#ac7180bce6b94bc4f78c58ff117628777", null ],
+    [ "IsImmunedToSpell", "df/dd9/classUnit.html#a7009ada2265a7204543072264e71cf5e", null ],
     [ "IsImmunedToSpellEffect", "df/dd9/classUnit.html#adc7f787f86d6e9fa5d67b4c6219b9fb3", null ],
     [ "IsImmuneMaskFully", "df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39", null ],
     [ "IsImmuneToAll", "df/dd9/classUnit.html#a85544431db222efc9c31483ee456674d", null ],

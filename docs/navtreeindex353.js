@@ -1,5 +1,12 @@
 var NAVTREEINDEX353 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1d40ccbc41cb1494f9c370f38157fd75":[8,0,0,0,1,2,38,0,77,1,146],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1d8238afd7b57d84b7ad7d930185a2ed":[8,0,0,0,1,2,38,0,77,1,144],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2118bbb061d1b4b6fa99e722a76601ee":[8,0,0,0,1,2,38,0,77,1,69],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a221799360250c2c96d0d7265e675c005":[8,0,0,0,1,2,38,0,77,1,30],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a230e29abe83a2be4ff046fddd42d15e4":[8,0,0,0,1,2,38,0,77,1,181],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2346894b0f989115ab92917650780718":[8,0,0,0,1,2,38,0,77,1,122],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2379d1f49e5653b186c8c56a5942bc81":[8,0,0,0,1,2,38,0,77,1,166],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a24141bf360bf13fe839b1c248670b885":[8,0,0,0,1,2,38,0,77,1,79],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a244367339ab9b82bc0f25464125b6dc4":[8,0,0,0,1,2,38,0,77,1,71],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[8,0,0,0,1,2,38,0,77,1,35],
@@ -242,12 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[7,0,948,1],
 "dd/dcd/structCreatureFamilyEntry.html#a3eacdd8639c6dd25dbd3205a58860cf9":[7,0,948,3],
 "dd/dcd/structCreatureFamilyEntry.html#a49d9d7847cc4d54891d83166eb277740":[7,0,948,4],
-"dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[7,0,948,6],
-"dd/dcd/structCreatureFamilyEntry.html#a802000cefb6c4d357edfc45cc291e21e":[7,0,948,7],
-"dd/dcd/structCreatureFamilyEntry.html#a84ba697182123cb3e7dd3ba07241e971":[7,0,948,0],
-"dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[7,0,948,5],
-"dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[7,0,948,8],
-"dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[7,0,948,2],
-"dd/dcd/structSpellImmune.html":[7,0,4385],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[7,0,4385,1]
+"dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[7,0,948,6]
 };

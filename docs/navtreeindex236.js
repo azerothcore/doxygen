@@ -1,5 +1,9 @@
 var NAVTREEINDEX236 =
 {
+"d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7aeb0f1f7546ab844bd4fdd11b5be5b4f1":[8,0,0,0,1,2,8,1,19,12,5],
+"d8/de0/BattlegroundSA_8h.html#a1c65f9048b8e702610fcf00591e915d7af900bdf476a1e5b6dd021af2bcde8d90":[8,0,0,0,1,2,8,1,19,12,1],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753dee":[8,0,0,0,1,2,8,1,19,6],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea0872cd6b5c610a4f26c64756b4d67fd3":[8,0,0,0,1,2,8,1,19,6,2],
 "d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deea605c6cd721a5eb37b5cf987a29a23370":[8,0,0,0,1,2,8,1,19,6,1],
 "d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076":[8,0,0,0,1,2,8,1,19,6,0],
 "d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deead4839dd8ea380fcc8ee3ea2590c5c1f5":[8,0,0,0,1,2,8,1,19,6,3],
@@ -110,16 +114,16 @@ var NAVTREEINDEX236 =
 "d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,850,25],
 "d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,850,5],
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,850,12],
-"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
+"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX236 =
 "d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#a1e44672c1f47dbd8e57f7653d905e3e6":[7,0,3458,2],
 "d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#a293ea418e290d96bbcaaed24cad663b0":[7,0,3458,3],
 "d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#a29d4dbe7d36d256cf89fdde1bbabac85":[7,0,3458,1],
-"d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#a972d3ec2a26bbf93e47f696f44ff22b0":[7,0,3458,0],
-"d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#aa67afc85c142006efad986859f14941c":[7,0,3458,4],
-"d8/dea/structboss__ormorok.html":[7,0,661],
-"d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[7,0,661,6],
-"d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[7,0,661,2]
+"d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#a972d3ec2a26bbf93e47f696f44ff22b0":[7,0,3458,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX243 =
 {
+"d9/d4e/classspell__mage__magic__absorption.html":[7,0,3584],
+"d9/d4e/classspell__mage__magic__absorption.html#a180edf3dd9f3abd42ae6cd43353451fe":[7,0,3584,0],
+"d9/d4e/classspell__mage__magic__absorption.html#a3578470f10bb4c10868d02d62cafceac":[7,0,3584,3],
+"d9/d4e/classspell__mage__magic__absorption.html#a4f496a310941e40c9c841772be3e6414":[7,0,3584,4],
 "d9/d4e/classspell__mage__magic__absorption.html#a874672016641a737a197588ea980c2c3":[7,0,3584,2],
 "d9/d4e/classspell__mage__magic__absorption.html#a9d6daf153d86cf93e35c43d05dda2459":[7,0,3584,1],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html":[7,0,1863,0],
@@ -238,16 +242,12 @@ var NAVTREEINDEX243 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,0,2,12],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#aca39508e7753f6ca5d9aa21a854c0a77":[5,0,0,2,16],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
-"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[7,0,0,115,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1]
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2]
 };

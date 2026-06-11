@@ -1,6 +1,6 @@
 var NAVTREEINDEX70 =
 {
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,0,67,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[7,0,0,55,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[7,0,2114],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[7,0,2114,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[7,0,2114,1],
@@ -246,8 +246,8 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[7,0,3376,0],
 "d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[7,0,3376,1],
 "d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[7,0,3376,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4328],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4328,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4328,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4328,0]
+"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4329],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4329,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4329,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4329,0]
 };

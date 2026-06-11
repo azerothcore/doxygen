@@ -1,5 +1,9 @@
 var NAVTREEINDEX228 =
 {
+"d8/d74/classWorldSession.html#af3ebc59fd5a82926be74cf009b9b4672":[4,1,19,359],
+"d8/d74/classWorldSession.html#af453aa80f317cf0f46485ee5ff22549b":[4,1,19,497],
+"d8/d74/classWorldSession.html#af45f035ae2946755ccdaef136f451476":[4,1,19,390],
+"d8/d74/classWorldSession.html#af4650ce3859a9760e5263b01a1a3e4b9":[4,1,19,318],
 "d8/d74/classWorldSession.html#af48014753194bb451b7eec7b9b72e022":[4,1,19,326],
 "d8/d74/classWorldSession.html#af4a39b2bc51c6a9de29bdf06652b720a":[4,1,19,596],
 "d8/d74/classWorldSession.html#af518ac76dcdfced86a87c3e3c10836a7":[4,1,19,564],
@@ -91,10 +95,10 @@ var NAVTREEINDEX228 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,990,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1608],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1608,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1608,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,4,6,9,0],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca24e66f411718b4ee2fa55feb2ce3aa96":[8,0,0,0,1,3,2,4,6,9,9],
 "d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[8,0,0,0,1,3,2,4,6,9,4],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca57a171af34cb07d5bccf6145ba7231f8":[8,0,0,0,1,3,2,4,6,9,7],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca702c4b7d54386bae354b64334d590b1e":[8,0,0,0,1,3,2,4,6,9,10],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298caa4f48f268fcdb6d6a4b2083b2c15f5b6":[8,0,0,0,1,3,2,4,6,9,5],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298caba6b4991d117cce2085010e595fbdf92":[8,0,0,0,1,3,2,4,6,9,6],
-"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823":[8,0,0,0,1,3,2,4,6,9,1]
+"d8/d82/boss__nightbane_8cpp.html#a5bd342133be8c2137b831460acc9298ca57a171af34cb07d5bccf6145ba7231f8":[8,0,0,0,1,3,2,4,6,9,7]
 };

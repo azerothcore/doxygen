@@ -1,5 +1,9 @@
 var NAVTREEINDEX262 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a18f4480fd46ee5d636d2edc066db8f3f":[8,0,0,0,1,2,41,0,0,6,289],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a192726eee68dbd523135d5b127c187fe":[8,0,0,0,1,2,41,0,0,6,45],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a192ee77678cf950c944373e6b1e9e1eb":[8,0,0,0,1,2,41,0,0,6,47],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a19d9956582157d0b9be1d9365b5be6a0":[8,0,0,0,1,2,41,0,0,6,241],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a0187ab21626c9032d7398c0b98941d":[8,0,0,0,1,2,41,0,0,6,262],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a7d44003e8e47f586aedc2352fe5c90":[8,0,0,0,1,2,41,0,0,6,310],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1b980e2a09de4ec8747945e8ee141f10":[8,0,0,0,1,2,41,0,0,6,220],
@@ -245,9 +249,5 @@ var NAVTREEINDEX262 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adaa58e2c604243da285d64f4a95b42f7":[8,0,0,0,1,2,41,0,0,6,5],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adad95ef086a39748c9e556342967d388":[8,0,0,0,1,2,41,0,0,6,44],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc30e3257d95c2736a98331a53766eea":[8,0,0,0,1,2,41,0,0,6,2],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8":[8,0,0,0,1,2,41,0,0,6,74],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56":[8,0,0,0,1,2,41,0,0,6,226],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799added2f29a5591bd48b186216c1c395f5":[8,0,0,0,1,2,41,0,0,6,114],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ade2ef3855381fe6afce94e126f34d2c0":[8,0,0,0,1,2,41,0,0,6,117],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adf76631f523bd293c0f7c5166373ef6d":[8,0,0,0,1,2,41,0,0,6,282]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8":[8,0,0,0,1,2,41,0,0,6,74]
 };

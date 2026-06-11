@@ -1,12 +1,16 @@
 var NAVTREEINDEX225 =
 {
+"d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3509],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3509,0],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3509,1],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a7dc81b47954ee8c10b99f389740de0be":[7,0,3509,2],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#afd94a159c0f429f2a63ffbd0a38d32e3":[7,0,3509,3],
 "d8/d6d/classboss__faerlina.html":[7,0,473],
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,473,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,473,2],
 "d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,464],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,464,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,464,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d74/classWorldSession.html#a2a7c514b4cb8e43b968389256006abfc":[4,1,19,134],
 "d8/d74/classWorldSession.html#a2aa7e10179c4bff07997c5636fbe6f06":[4,1,19,310],
 "d8/d74/classWorldSession.html#a2b220dba264661e5d38d42f18aab3cff":[4,1,19,457],
-"d8/d74/classWorldSession.html#a2b811cb37271d02f55762686da4925e5":[4,1,19,628],
-"d8/d74/classWorldSession.html#a2bb41efcc71deb6201ad5952916bc425":[4,1,19,172],
-"d8/d74/classWorldSession.html#a2c6c38bbb2d040ed650fb0e0c9914c68":[4,1,19,604],
-"d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269":[4,1,19,538],
-"d8/d74/classWorldSession.html#a2d5f8c67cffee6d40fbb37f8e2063820":[4,1,19,436]
+"d8/d74/classWorldSession.html#a2b811cb37271d02f55762686da4925e5":[4,1,19,628]
 };

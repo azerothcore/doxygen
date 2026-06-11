@@ -1,5 +1,11 @@
 var NAVTREEINDEX313 =
 {
+"dc/d05/structnpc__shade__of__jindo.html":[7,0,2119],
+"dc/d05/structnpc__shade__of__jindo.html#a1aca8192c0655c0ab359f49448f8fafd":[7,0,2119,4],
+"dc/d05/structnpc__shade__of__jindo.html#a1d74d8113f5ef117b2968f8f864fcaf4":[7,0,2119,5],
+"dc/d05/structnpc__shade__of__jindo.html#a450f887c97cfa3ebce91ebd058ed9849":[7,0,2119,2],
+"dc/d05/structnpc__shade__of__jindo.html#a86fa95e806aea21fd6db332ea3f18a02":[7,0,2119,0],
+"dc/d05/structnpc__shade__of__jindo.html#aaf4eed2de98601844a32fec159f2f5fc":[7,0,2119,1],
 "dc/d05/structnpc__shade__of__jindo.html#abc18dabb6f4f0b85a3b5b2e6f830804f":[7,0,2119,3],
 "dc/d06/boss__curator_8cpp.html":[8,0,0,0,1,3,2,4,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,1,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX313 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a8887ecc2d5eae177dbc7adbd087b9c7e":[7,0,674,0,0],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a9dd90a58ca89477b9d18e3931edfec45":[7,0,674,0,17],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aa198916309f31e243afc879c289269f8":[7,0,674,0,21],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aabe7cd8c61d97e1b3ea5a5736245aba0":[7,0,674,0,16],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#acb777001e906749c81328df787732938":[7,0,674,0,12],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ace782c6784cccf5dee01aa4de57ca0fb":[7,0,674,0,3],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6258962c56bb67fdc09abe695a48fd7":[7,0,674,0,13],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6e957dbd34e2c10d26875647faabe6b":[7,0,674,0,19],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae9b82e54daa62b196c6064143253b0d7":[7,0,674,0,7],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aeb85f808b766fb8e7a27c778c25b79f0":[7,0,674,0,2]
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aabe7cd8c61d97e1b3ea5a5736245aba0":[7,0,674,0,16]
 };

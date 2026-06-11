@@ -1,5 +1,12 @@
 var NAVTREEINDEX400 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a88d3ddabf630abb38e7c768850e458cd":[8,0,0,0,1,2,16,5,0,4,6,73],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a89f1b8c28d6c8813b9ece7c17144995c":[8,0,0,0,1,2,16,5,0,4,6,30],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8a4774bff9e2c26fe65610992b9bfb37":[8,0,0,0,1,2,16,5,0,4,6,47],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8af7de7a2b3c0992dc8213791c26a62d":[8,0,0,0,1,2,16,5,0,4,6,152],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8b23055881dd722768e948bd8794c28a":[8,0,0,0,1,2,16,5,0,4,6,153],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8eb9340439fd9be9087bd0c6b79f3f18":[8,0,0,0,1,2,16,5,0,4,6,294],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8f9507d82164c73d580999fc3858559e":[8,0,0,0,1,2,16,5,0,4,6,133],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a907297d4c653f7a1b9c81f56daac20bf":[8,0,0,0,1,2,16,5,0,4,6,198],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a928f672f35127dce1bb9424a7254cfb4":[8,0,0,0,1,2,16,5,0,4,6,239],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a95c39cd7d3e9f5eea7e394aac9becf5e":[8,0,0,0,1,2,16,5,0,4,6,137],
@@ -239,15 +246,8 @@ var NAVTREEINDEX400 =
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[7,0,0,89],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[7,0,0,89,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,0,101,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,0,101,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[7,0,0,89,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,0,101,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,0,101,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[7,0,0,89,0],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[7,0,0,89,3],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,0,101,3],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[7,0,3268],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a64cf56299c8ab5292dbc9cddcee5f841":[7,0,3268,2],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a9962029ce4a5223d7aa05068e8d83326":[7,0,3268,1],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#accfe8a0cea8af9c9474d25fc3e7c7e22":[7,0,3268,0],
-"df/d25/classspell__rog__setup.html":[7,0,3975]
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,0,101,0]
 };

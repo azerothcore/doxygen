@@ -1,5 +1,12 @@
 var NAVTREEINDEX414 =
 {
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/structboss__yoggsaron__voice.html":[7,0,819],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,819,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[7,0,819,4],
 "df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf":[7,0,819,5],
@@ -37,10 +44,10 @@ var NAVTREEINDEX414 =
 "df/dc8/classNullCreatureAI.html#aa9969eeb9a79559c9f2d3bd907b3fd85":[7,0,2315,0],
 "df/dc8/classNullCreatureAI.html#ab200fcf78dee74a2ec808c01f5855236":[7,0,2315,8],
 "df/dc8/classNullCreatureAI.html#ac9ccd2d260170b218acf1997a0bded97":[7,0,2315,3],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[7,0,4426,3],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[7,0,4426,3,1],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[7,0,4426,3,2],
-"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[7,0,4426,3,0],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[7,0,4427,3],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[7,0,4427,3,1],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[7,0,4427,3,2],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[7,0,4427,3,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html":[7,0,1187,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[7,0,1187,0,2],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[7,0,1187,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX414 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[8,0,0,0,1,3,9,10,60,7],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[8,0,0,0,1,3,9,10,60,4],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[8,0,0,0,1,3,9,10,60,11],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[8,0,0,0,1,3,9,10,60,19],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aea53f66ddd3e2f9b434deda1b1f87d64":[8,0,0,0,1,3,9,10,60,44],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aff57a4d6c9ab35850717f3006511436f":[8,0,0,0,1,3,9,10,60,49],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html":[7,0,2091,0],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0b07925593835ce4d4aaab2f672ae387":[7,0,2091,0,6],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2091,0,10],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a15f8706b9084b72359e4c8433d771d89":[7,0,2091,0,3],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a1deb2de50401297451a3e314b5369b5e":[7,0,2091,0,17]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[8,0,0,0,1,3,9,10,60,19]
 };

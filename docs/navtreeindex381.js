@@ -1,5 +1,12 @@
 var NAVTREEINDEX381 =
 {
+"de/d5c/classspell__warl__demonic__pact.html#a92a141fcf24f63bc41f6f828f72bf277":[7,0,4254,2],
+"de/d5c/classspell__warl__demonic__pact.html#a93806efcc1e5976cca2eab57c9e55a7e":[7,0,4254,3],
+"de/d5c/classspell__warl__demonic__pact.html#ab892bc268feccba594a5b4b0be3e86f7":[7,0,4254,1],
+"de/d5c/classspell__warr__concussion__blow.html":[7,0,4292],
+"de/d5c/classspell__warr__concussion__blow.html#a68a86f7f86324336dc837622e01fa6af":[7,0,4292,0],
+"de/d5c/classspell__warr__concussion__blow.html#a8c0a4b3b96a93b6977c2d3077fdfff1d":[7,0,4292,1],
+"de/d5c/classspell__warr__concussion__blow.html#ad168c9164d1edd23abfbf05141b96de4":[7,0,4292,2],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html":[7,0,1384,0],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0234565dc9c87e32bcd0a7f19e2336b6":[7,0,1384,0,5],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a07cff6b252eb9b08855bc8bd7e5d7735":[7,0,1384,0,13],
@@ -242,12 +249,5 @@ var NAVTREEINDEX381 =
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96c":[8,0,0,0,1,3,2,24,5],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca":[8,0,0,0,1,3,2,24,5,3],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498":[8,0,0,0,1,3,2,24,5,2],
-"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7":[8,0,0,0,1,3,2,24,5,5],
-"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68":[8,0,0,0,1,3,2,24,5,6],
-"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f":[8,0,0,0,1,3,2,24,5,1],
-"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7":[8,0,0,0,1,3,2,24,5,0],
-"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9":[8,0,0,0,1,3,2,24,5,4],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[7,0,13,6,30],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,34,6,30],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[7,0,13,6,30,2]
+"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7":[8,0,0,0,1,3,2,24,5,5]
 };

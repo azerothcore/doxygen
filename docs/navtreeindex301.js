@@ -1,5 +1,11 @@
 var NAVTREEINDEX301 =
 {
+"db/da6/zone__winterspring_8cpp.html#a2bbe982dfe66b7d2feb6449e4b33ac2eaf77b6485b8436579576b00e374df1cab":[8,0,0,0,1,3,4,33,5,4],
+"db/da6/zone__winterspring_8cpp.html#a2f2591166460d6d958c50f3317939e22":[8,0,0,0,1,3,4,33,8],
+"db/da6/zone__winterspring_8cpp.html#a2f2591166460d6d958c50f3317939e22aa06e73257754d22236e029337a57a0e3":[8,0,0,0,1,3,4,33,8,0],
+"db/da6/zone__winterspring_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,33,10],
+"db/da6/zone__winterspring_8cpp.html#a5bd342133be8c2137b831460acc9298ca7a57a8b6040fa09540ed89c136443ab4":[8,0,0,0,1,3,4,33,10,0],
+"db/da6/zone__winterspring_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,4,33,7],
 "db/da6/zone__winterspring_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca734780aa132ad12ccdbbef3c9880a610":[8,0,0,0,1,3,4,33,7,0],
 "db/da6/zone__winterspring_8cpp.html#a6986ec7b2d3274669934af9795f26d5caad4a33ed9ecbc695331ee0a3a588832f":[8,0,0,0,1,3,4,33,7,3],
 "db/da6/zone__winterspring_8cpp.html#a6986ec7b2d3274669934af9795f26d5cab59bc81e02aff834a6458eb5878dbaa4":[8,0,0,0,1,3,4,33,7,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX301 =
 "db/dae/npcs__special_8cpp.html#aac822f73be6c9bf1dfaa4bbaec0e5aef":[8,0,0,0,1,3,10,14,72],
 "db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598":[8,0,0,0,1,3,10,14,64],
 "db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a112e093cec3176809c51738cf476b809":[8,0,0,0,1,3,10,14,64,4],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a3007b28fe13eca01a4021875af78de89":[8,0,0,0,1,3,10,14,64,3],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a3257efc278bb21327f4a8efe1bece66a":[8,0,0,0,1,3,10,14,64,8],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a431d4b5a47059b39e101af3ac1b4e5cd":[8,0,0,0,1,3,10,14,64,11],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a52d073b952c54c8d6a8441ec19bcab59":[8,0,0,0,1,3,10,14,64,5],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a5a30ba0fcfa36b26f89fec8266c06e20":[8,0,0,0,1,3,10,14,64,1],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a5cf5a84be0cfe8902b6f02c8330dd8c7":[8,0,0,0,1,3,10,14,64,9],
-"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a678b2fd5007fb03d6de34da3c1ec3171":[8,0,0,0,1,3,10,14,64,0]
+"db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598a3007b28fe13eca01a4021875af78de89":[8,0,0,0,1,3,10,14,64,3]
 };

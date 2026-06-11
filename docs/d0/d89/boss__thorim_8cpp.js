@@ -13,6 +13,7 @@ var boss__thorim_8cpp =
     [ "boss_thorim_arena_npcs", "df/d6f/structboss__thorim__arena__npcs.html", "df/d6f/structboss__thorim__arena__npcs" ],
     [ "go_thorim_lever", "d8/d5c/classgo__thorim__lever.html", "d8/d5c/classgo__thorim__lever" ],
     [ "spell_thorim_lightning_pillar_P2_aura", "d2/d60/classspell__thorim__lightning__pillar__P2__aura.html", "d2/d60/classspell__thorim__lightning__pillar__P2__aura" ],
+    [ "spell_thorim_lightning_pillar_P2", "d7/d0d/classspell__thorim__lightning__pillar__P2.html", "d7/d0d/classspell__thorim__lightning__pillar__P2" ],
     [ "spell_thorim_trash_impale_aura", "d3/df7/classspell__thorim__trash__impale__aura.html", "d3/df7/classspell__thorim__trash__impale__aura" ],
     [ "achievement_thorim_stand_in_the_lightning", "d9/d6f/classachievement__thorim__stand__in__the__lightning.html", "d9/d6f/classachievement__thorim__stand__in__the__lightning" ],
     [ "achievement_thorim_lose_your_illusion", "df/d2d/classachievement__thorim__lose__your__illusion.html", "df/d2d/classachievement__thorim__lose__your__illusion" ],

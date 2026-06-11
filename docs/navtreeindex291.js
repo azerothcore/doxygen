@@ -1,5 +1,11 @@
 var NAVTREEINDEX291 =
 {
+"db/d65/classspell__serpentshrine__cavern__serpentshrine__parasite.html#a75be2f838d6773b619dfac80e32557b8":[7,0,4008,1],
+"db/d65/classspell__serpentshrine__cavern__serpentshrine__parasite.html#ab4c215a735ead9959fd78972a6da72e4":[7,0,4008,0],
+"db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html":[7,0,1893,0],
+"db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#a12927240144022174e3d190be6b34976":[7,0,1893,0,2],
+"db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#a8521aef674b9a295c27f7e5725af4ffe":[7,0,1893,0,5],
+"db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#a91868021309239f5582bb7ee89baec13":[7,0,1893,0,0],
 "db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#a969a36e147006971a93711349f90c193":[7,0,1893,0,4],
 "db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#ac925b84b81ec1d1e118f3e62edfbdd15":[7,0,1893,0,3],
 "db/d66/structnpc__icc__skybreaker__luminary_1_1npc__icc__skybreaker__luminaryAI.html#acf8d1eaebdc68cb53866155d8aad6e48":[7,0,1893,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX291 =
 "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652a26939cfa013e38a9b9f0db22935c05a7":[8,0,0,0,1,3,9,4,188,3],
 "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652a91afd9caabcdf0b2666e28d08d457cf9":[8,0,0,0,1,3,9,4,188,1],
 "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652ae43e525d9063aa0638bc9184d3507125":[8,0,0,0,1,3,9,4,188,2],
-"db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74":[8,0,0,0,1,3,9,4,187],
-"db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74a9024d9c8d4c3c6c82eefd65209f48274":[8,0,0,0,1,3,9,4,187,0],
-"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0":[8,0,0,0,1,3,9,4,246],
-"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0a8f79fe2abb6aa520aa6b9f26e555b051":[8,0,0,0,1,3,9,4,246,2],
-"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0aebaed561887d24beda0d2b5a03b4b2b9":[8,0,0,0,1,3,9,4,246,1],
-"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0af2013a66c33c8ca2754d0258dc317d38":[8,0,0,0,1,3,9,4,246,0],
-"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018b":[8,0,0,0,1,3,9,4,242]
+"db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74":[8,0,0,0,1,3,9,4,187]
 };

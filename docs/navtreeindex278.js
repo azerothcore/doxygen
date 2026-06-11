@@ -1,5 +1,11 @@
 var NAVTREEINDEX278 =
 {
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afac57a21fd5f2fbcfc1806a40deeef537c":[8,0,0,0,1,2,16,7,5,100,8],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afac5910f0d7f72991e7e549b95258bd2b1":[8,0,0,0,1,2,16,7,5,100,5],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afada5f2dccee1a2378e00605914f745f6a":[8,0,0,0,1,2,16,7,5,100,9],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afaef8af329fc694fb7b105354d4b40fb02":[8,0,0,0,1,2,16,7,5,100,14],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afaefb28ca135419e98ec3929a81f96465c":[8,0,0,0,1,2,16,7,5,100,0],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afafc73f33a54a6e48f474648a2ad5bd72a":[8,0,0,0,1,2,16,7,5,100,18],
 "da/dbf/Player_8h.html#a946f1b98541e5df18b4b45f6fb144ce8":[8,0,0,0,1,2,16,7,5,137],
 "da/dbf/Player_8h.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7":[8,0,0,0,1,2,16,7,5,137,0],
 "da/dbf/Player_8h.html#a946f1b98541e5df18b4b45f6fb144ce8ac1724959d706b685bccc6fdd33e5dcd7":[8,0,0,0,1,2,16,7,5,137,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX278 =
 "da/dc4/structnpc__centrifuge__construct_1_1npc__centrifuge__constructAI.html#ac6ecbb17624c2747253c68a50b93c40f":[7,0,1707,0,2],
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html":[7,0,3648],
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html#a4333f10a29ef3e5643f637899a0ab5c5":[7,0,3648,1],
-"da/dc5/classspell__mother__shahraz__fatal__attraction.html#a47898c213cdd125714c80d327bf42d8c":[7,0,3648,2],
-"da/dc5/classspell__mother__shahraz__fatal__attraction.html#a4cf75d96a0d1de62bc989826204b04c9":[7,0,3648,4],
-"da/dc5/classspell__mother__shahraz__fatal__attraction.html#a6036577cd7b4fbbc55e90e9ab067f13a":[7,0,3648,3],
-"da/dc5/classspell__mother__shahraz__fatal__attraction.html#a814083360970284a325621f45e109b5b":[7,0,3648,5],
-"da/dc5/classspell__mother__shahraz__fatal__attraction.html#aa8f0401dd004e816b8071381289116fa":[7,0,3648,0],
-"da/dc6/structnpc__partygoer.html":[7,0,2026],
-"da/dc6/structnpc__partygoer.html#a423df8a3de7d23221ea4d62a0c65fefc":[7,0,2026,3]
+"da/dc5/classspell__mother__shahraz__fatal__attraction.html#a47898c213cdd125714c80d327bf42d8c":[7,0,3648,2]
 };

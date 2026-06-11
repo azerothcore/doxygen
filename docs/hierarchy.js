@@ -1678,6 +1678,7 @@ var hierarchy =
         [ "spell_the_lich_king_vile_spirit_damage_target_search", "db/d42/classspell__the__lich__king__vile__spirit__damage__target__search.html", null ],
         [ "spell_the_lich_king_vile_spirit_move_target_search", "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html", null ],
         [ "spell_the_lich_king_vile_spirits_visual", "d7/def/classspell__the__lich__king__vile__spirits__visual.html", null ],
+        [ "spell_thorim_lightning_pillar_P2", "d7/d0d/classspell__thorim__lightning__pillar__P2.html", null ],
         [ "spell_thorims_hammer", "d8/dae/classspell__thorims__hammer.html", null ],
         [ "spell_threatening_gaze_charge", "da/d79/classspell__threatening__gaze__charge.html", null ],
         [ "spell_toc5_light_rain", "da/d86/classspell__toc5__light__rain.html", null ],

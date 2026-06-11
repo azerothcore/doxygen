@@ -1,5 +1,12 @@
 var NAVTREEINDEX330 =
 {
+"dc/db2/classspell__calling__korkron__or__wildhammer.html":[7,0,2723],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a0deddf7497d3bdb82901d612dce28dc9":[7,0,2723,1],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[7,0,2723,2],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[7,0,2723,0],
+"dc/db3/boss__archimonde_8cpp.html":[8,0,0,0,1,3,4,1,0,1],
+"dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[8,0,0,0,1,3,4,1,0,1,10],
+"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[8,0,0,0,1,3,4,1,0,1,12],
 "dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[8,0,0,0,1,3,4,1,0,1,11],
 "dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[8,0,0,0,1,3,4,1,0,1,15],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[8,0,0,0,1,3,4,1,0,1,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dbd/instance__onyxias__lair_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,4,4,1,3],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html":[7,0,2709],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a0fa160f1218cf838444f894716cb8aed":[7,0,2709,1],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[7,0,2709,2],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a71f8c9bad4a102914a1047ef61d20f92":[7,0,2709,0],
-"dc/dbf/structboss__priestess__lackey__commonAI.html":[7,0,672],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a23aaa0a619470898dd617a18130ca17b":[7,0,672,7],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[7,0,672,11],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[7,0,672,3],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a498ef73fcc7995113318c5f0b6efa23e":[7,0,672,13],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[7,0,672,5]
+"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[7,0,2709,2]
 };

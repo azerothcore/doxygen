@@ -1,5 +1,12 @@
 var NAVTREEINDEX372 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ae3277a3c436cb272702f9facf9568a16":[8,0,0,0,1,4,7,103,25],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ae63ea39a6bbfa06ba361f648d3204fd1":[8,0,0,0,1,4,7,103,66],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ae66f5a6ca5a2437671d580a7ce2ba4f1":[8,0,0,0,1,4,7,103,29],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ae702609474f3ee02ba26efd2d4201214":[8,0,0,0,1,4,7,103,55],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234aeb1f5d58fca5c46b87ad0944191ed916":[8,0,0,0,1,4,7,103,89],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234aeb2b9e96d006e02fdc508fdd1826607d":[8,0,0,0,1,4,7,103,28],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234aebd6721b790c2f7357ff4eb51db1f127":[8,0,0,0,1,4,7,103,120],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234af0cf62b05a40318b6b6c173330290265":[8,0,0,0,1,4,7,103,85],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234af26a0493e195e9ff3ce99aa108c747ef":[8,0,0,0,1,4,7,103,62],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234af67e2f456f9de8db06f8203fc79c8ea1":[8,0,0,0,1,4,7,103,69],
@@ -242,12 +249,5 @@ var NAVTREEINDEX372 =
 "de/d18/AddonMgr_8cpp.html#a85021021149b7eb4d78cbe81e43d3d45":[8,0,0,0,1,2,2,0,3],
 "de/d18/AddonMgr_8cpp.html#aaa12f5b754e6b664dbfb2428478bee03":[8,0,0,0,1,2,2,0,2],
 "de/d18/AddonMgr_8cpp.html#ad7d0938e7463238a86e8c811e1a58800":[8,0,0,0,1,2,2,0,1],
-"de/d18/classspell__hodir__periodic__icicle.html":[7,0,3187],
-"de/d18/classspell__hodir__periodic__icicle.html#a2e9ee7705a950d6a500ac472ff783b3a":[7,0,3187,2],
-"de/d18/classspell__hodir__periodic__icicle.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6":[7,0,3187,0],
-"de/d18/classspell__hodir__periodic__icicle.html#a52c6b32ab01a68b258d4fe89730ec32b":[7,0,3187,1],
-"de/d19/ConditionMgr_8cpp.html":[8,0,0,0,1,2,13,0],
-"de/d19/namespaceMMAP.html":[5,0,20],
-"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101":[5,0,20,16],
-"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6":[5,0,20,16,0]
+"de/d18/classspell__hodir__periodic__icicle.html":[7,0,3187]
 };

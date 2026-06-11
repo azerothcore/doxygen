@@ -4720,6 +4720,7 @@ var annotated_dup =
     [ "spell_the_lich_king_vile_spirit_move_target_search", "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html", "da/d16/classspell__the__lich__king__vile__spirit__move__target__search" ],
     [ "spell_the_lich_king_vile_spirits_aura", "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html", "d9/dd7/classspell__the__lich__king__vile__spirits__aura" ],
     [ "spell_the_lich_king_vile_spirits_visual", "d7/def/classspell__the__lich__king__vile__spirits__visual.html", "d7/def/classspell__the__lich__king__vile__spirits__visual" ],
+    [ "spell_thorim_lightning_pillar_P2", "d7/d0d/classspell__thorim__lightning__pillar__P2.html", "d7/d0d/classspell__thorim__lightning__pillar__P2" ],
     [ "spell_thorim_lightning_pillar_P2_aura", "d2/d60/classspell__thorim__lightning__pillar__P2__aura.html", "d2/d60/classspell__thorim__lightning__pillar__P2__aura" ],
     [ "spell_thorim_trash_impale_aura", "d3/df7/classspell__thorim__trash__impale__aura.html", "d3/df7/classspell__thorim__trash__impale__aura" ],
     [ "spell_thorims_hammer", "d8/dae/classspell__thorims__hammer.html", "d8/dae/classspell__thorims__hammer" ],

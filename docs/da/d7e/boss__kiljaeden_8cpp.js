@@ -24,7 +24,8 @@ var boss__kiljaeden_8cpp =
       [ "PHASE_ARMAGEDDON", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a54bbe131e337ab949ec40be98c3c1671", null ],
       [ "PHASE_SACRIFICE", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2a8d0095413ef6943bcecfd00c73dc82", null ],
       [ "ACTION_START_POST_EVENT", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4846ee5436abffae218febaa5b90ba2e", null ],
-      [ "ACTION_NO_KILL_TALK", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea", null ]
+      [ "ACTION_NO_KILL_TALK", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea", null ],
+      [ "ACTION_START_AERIAL_SUPPORT", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08400c5d00469990b5f5bc15383f7fcd", null ]
     ] ],
     [ "postEvent", "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc", [
       [ "SAY_VELEN_01", "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcaaa0cfc34519c0b2416b8173cb10c1097", null ],
@@ -101,6 +102,7 @@ var boss__kiljaeden_8cpp =
       [ "SPELL_SINISTER_REFLECTION_CLASS", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca694ff4e39c65fe5ba7f0abd5e7da9091", null ],
       [ "SPELL_SINISTER_REFLECTION_CLONE", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b", null ],
       [ "SPELL_ANVEENA_ENERGY_DRAIN", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cadbd5255c52b5df8a795181a6197c840e", null ],
+      [ "SPELL_ARCANE_BOLT", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9efd3c20d926022e44fab28656b29c", null ],
       [ "SPELL_RING_OF_BLUE_FLAMES", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca692b9caced1a9f17c4a08321a4973821", null ],
       [ "SPELL_SUMMON_BLUE_DRAKE", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca007a510b4c589ff1fb1249b9a9e12db0", null ],
       [ "SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT", "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9", null ],

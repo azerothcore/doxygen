@@ -1,5 +1,12 @@
 var NAVTREEINDEX373 =
 {
+"de/d18/classspell__hodir__periodic__icicle.html#a2e9ee7705a950d6a500ac472ff783b3a":[7,0,3187,2],
+"de/d18/classspell__hodir__periodic__icicle.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6":[7,0,3187,0],
+"de/d18/classspell__hodir__periodic__icicle.html#a52c6b32ab01a68b258d4fe89730ec32b":[7,0,3187,1],
+"de/d19/ConditionMgr_8cpp.html":[8,0,0,0,1,2,13,0],
+"de/d19/namespaceMMAP.html":[5,0,20],
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101":[5,0,20,16],
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6":[5,0,20,16,0],
 "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,16,1],
 "de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1":[5,0,20,24],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
@@ -242,12 +249,5 @@ var NAVTREEINDEX373 =
 "de/d1c/classGameObject.html#afdfda5a495060db794347fe8a20efb3a":[7,0,1102,175],
 "de/d1c/classGameObject.html#afe0bfd58868ba39b651cacd8c97b392d":[7,0,1102,76],
 "de/d1c/classGameObject.html#afe8acd30b60884b19aed59bef1ed7c06":[7,0,1102,140],
-"de/d1c/classGameObject.html#aff6309b0741d1236cefa86abe6c442b0":[7,0,1102,173],
-"de/d1c/classnpc__acherus__necromancer.html":[7,0,1597],
-"de/d1c/classnpc__acherus__necromancer.html#a14ca04a1656a6bb0c842ecb709aba1a7":[7,0,1597,1],
-"de/d1c/classnpc__acherus__necromancer.html#af43b1908b1d99868ea5a3899fe8ebd02":[7,0,1597,2],
-"de/d1c/namespacepitKillBoundary.html":[5,0,25],
-"de/d1c/namespacepitKillBoundary.html#ae137fb738d524b299f3c238c8e1e464a":[5,0,25,0],
-"de/d1d/structnpc__phalanx.html":[7,0,2052],
-"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2052,0]
+"de/d1c/classGameObject.html#aff6309b0741d1236cefa86abe6c442b0":[7,0,1102,173]
 };

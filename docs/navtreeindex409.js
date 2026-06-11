@@ -1,7 +1,14 @@
 var NAVTREEINDEX409 =
 {
-"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[7,0,4426,9],
-"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[7,0,4426,29],
+"df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[7,0,4427,39],
+"df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c":[7,0,4427,45],
+"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[7,0,4427,32],
+"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[7,0,4427,19],
+"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[7,0,4427,14],
+"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[7,0,4427,10],
+"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[7,0,4427,70],
+"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[7,0,4427,9],
+"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[7,0,4427,29],
 "df/d92/classnpc__frostwing__vrykul.html":[7,0,1818],
 "df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[7,0,1818,2],
 "df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[7,0,1818,1],
@@ -34,8 +41,8 @@ var NAVTREEINDEX409 =
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[7,0,982,1,12],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[7,0,982,1,8],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[7,0,982,1,9],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,982,1,6],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,982,1,7],
+"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,982,1,6],
 "df/d94/classShockVortexExplodeEvent.html":[7,0,2567],
 "df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[7,0,2567,1],
 "df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[7,0,2567,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX409 =
 "df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[7,0,1526,5],
 "df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[7,0,1526,13],
 "df/d9d/classMessageBuffer.html#aff68a6f579650f642ef3919046583391":[7,0,1526,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html":[8,0,0,0,1,3,2,27],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a04c0b579fd8cf79f50c4720c82138c4c":[8,0,0,0,1,3,2,27,11],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a40e9ab298d8c4d814487bbe7f269030a":[8,0,0,0,1,3,2,27,12],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75":[8,0,0,0,1,3,2,27,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a063098109895270034b3fa4751687e8d":[8,0,0,0,1,3,2,27,7,3],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a06d32d4e302c9b869f9fad03ae7b95e1":[8,0,0,0,1,3,2,27,7,6],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a260cc488ab65b6242168ba0017320d9a":[8,0,0,0,1,3,2,27,7,0],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a3ba3618a4f80c2cd7439d58f91d0426b":[8,0,0,0,1,3,2,27,7,1]
+"df/d9d/zone__isle__of__queldanas_8cpp.html":[8,0,0,0,1,3,2,27]
 };

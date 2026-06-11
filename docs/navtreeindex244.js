@@ -1,9 +1,13 @@
 var NAVTREEINDEX244 =
 {
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3642],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[7,0,3642,0],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[7,0,3642,1],
@@ -41,9 +45,9 @@ var NAVTREEINDEX244 =
 "d9/d5e/structnpc__stolen__soul.html#ab62526916f0ccd681383d37d19d94ccc":[7,0,2152,7],
 "d9/d5e/structnpc__stolen__soul.html#abcfed6b9b46ce48a15b31d062a1618f4":[7,0,2152,1],
 "d9/d5e/structnpc__stolen__soul.html#ade19b9cb41a674f6bd049a621970aeff":[7,0,2152,6],
-"d9/d5e/structwdt__MAIN_1_1adtData.html":[7,0,4588,0],
-"d9/d5e/structwdt__MAIN_1_1adtData.html#a4b0310994e24cce89269fe3dacfca1d6":[7,0,4588,0,0],
-"d9/d5e/structwdt__MAIN_1_1adtData.html#abdd6e3252b117c57a1e363217babd717":[7,0,4588,0,1],
+"d9/d5e/structwdt__MAIN_1_1adtData.html":[7,0,4589,0],
+"d9/d5e/structwdt__MAIN_1_1adtData.html#a4b0310994e24cce89269fe3dacfca1d6":[7,0,4589,0,0],
+"d9/d5e/structwdt__MAIN_1_1adtData.html#abdd6e3252b117c57a1e363217babd717":[7,0,4589,0,1],
 "d9/d5f/structNamesProfanityEntry.html":[7,0,1585],
 "d9/d5f/structNamesProfanityEntry.html#abcd404cd99f0a41b266db09ddae4da68":[7,0,1585,0],
 "d9/d60/DBCDatabaseLoader_8h.html":[8,0,0,0,1,4,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a814ac33238558b4e2a2ff57e6039d4fc":[7,0,1314,0,1],
 "d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a85fa9c5231f13529a0741b0f92266c90":[7,0,1314,0,4],
 "d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#aa59f4d11ca1418bb3df3a7d5b11795b9":[7,0,1314,0,0],
-"d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#aadcbe48888eba0d0ed50eb9811ce40b0":[7,0,1314,0,3],
-"d9/d63/classTypeUnorderedMapContainer.html":[7,0,4524],
-"d9/d63/classTypeUnorderedMapContainer.html#a1d6a7cd1596aa03a8e53609c7d7b6e33":[7,0,4524,0],
-"d9/d63/classTypeUnorderedMapContainer.html#a209cbb9e5ba70b9f5f66e64e2c36411d":[7,0,4524,2],
-"d9/d63/classTypeUnorderedMapContainer.html#a289258c9015016a70d2867df7e113def":[7,0,4524,5]
+"d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#aadcbe48888eba0d0ed50eb9811ce40b0":[7,0,1314,0,3]
 };

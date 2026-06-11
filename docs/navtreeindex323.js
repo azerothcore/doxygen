@@ -1,5 +1,12 @@
 var NAVTREEINDEX323 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab52840c4009bfeef8454490bc55c61db":[8,0,0,0,1,2,26,2,1,53],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab60028e832c1f601e8f3f5cb80c5153e":[8,0,0,0,1,2,26,2,1,43],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab92d77bf9c3fc67381aac7ca8816d501":[8,0,0,0,1,2,26,2,1,65],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaba50a98df75535a3d9f1df595ae33135":[8,0,0,0,1,2,26,2,1,6],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaba7645f7a9d5fd149e59b2a8b9f8b17a":[8,0,0,0,1,2,26,2,1,59],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339":[8,0,0,0,1,2,26,2,1,0],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabef99eb6edded3faec9994a93dfe4407":[8,0,0,0,1,2,26,2,1,20],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabf72a68cd52d9dd84870ddb9af03adce":[8,0,0,0,1,2,26,2,1,16],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac0e09803bc2df3c1608e09976e0dd666":[8,0,0,0,1,2,26,2,1,2],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac81485d22dff8d6a4ed903b6e4b766e2":[8,0,0,0,1,2,26,2,1,36],
@@ -242,12 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d51/classachievement__portal__jockey.html#a6c6c4779072386ab7b64bad92762e2ac":[7,0,86,0],
 "dc/d51/classgo__ulduar__tower.html":[7,0,1222],
 "dc/d51/classgo__ulduar__tower.html#aa72ebefe52d49e5b07fb36232efd7e95":[7,0,1222,1],
-"dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[7,0,1222,0],
-"dc/d51/classspell__gen__mounted__charge.html":[7,0,3061],
-"dc/d51/classspell__gen__mounted__charge.html#a1f8722308e1a5bef546dcb939d73dca7":[7,0,3061,2],
-"dc/d51/classspell__gen__mounted__charge.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc":[7,0,3061,1],
-"dc/d51/classspell__gen__mounted__charge.html#a2cdda449ab11438347e7dd32fd058e6d":[7,0,3061,3],
-"dc/d51/classspell__gen__mounted__charge.html#ad8d2871e6277dd982653fa864010d084":[7,0,3061,0],
-"dc/d51/model_8h.html":[8,0,0,0,3,4,7],
-"dc/d51/model_8h.html#a8d0afbab5641bb7d88196fbad79e4cf1":[8,0,0,0,3,4,7,3]
+"dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[7,0,1222,0]
 };
