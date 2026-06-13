@@ -4000,7 +4000,6 @@ var hierarchy =
         [ "npc_elder_clearwater", "d4/dde/classnpc__elder__clearwater.html", null ],
         [ "npc_emily", "d5/d88/classnpc__emily.html", null ],
         [ "npc_engineer_helice", "d1/d3a/classnpc__engineer__helice.html", null ],
-        [ "npc_engineering_tele_trinket", "d9/dbf/classnpc__engineering__tele__trinket.html", null ],
         [ "npc_enraged_spirit", "d1/dcb/classnpc__enraged__spirit.html", null ],
         [ "npc_eris_hevenfire", "d7/d3f/classnpc__eris__hevenfire.html", null ],
         [ "npc_essence_of_twin", "d8/deb/classnpc__essence__of__twin.html", null ],

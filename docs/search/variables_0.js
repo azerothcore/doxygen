@@ -514,7 +514,7 @@ var searchData=
   ['_5fdefenseskill_511',['_defenseSkill',['../d5/d65/structlfg_1_1RBInternalInfo.html#ae054e980b0874ed79177ccf4d01ee153',1,'lfg::RBInternalInfo']]],
   ['_5fdefensesused_512',['_defensesUsed',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a858a17578e7948efbad35c381c5a468a',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript']]],
   ['_5fdeforestation_513',['_deforestation',['../d5/d97/structboss__freya.html#a6c3e874ea83c564c93b6c7599e1174bd',1,'boss_freya']]],
-  ['_5fdelay_514',['_delay',['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay'],['../de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790',1,'spell_hadronox_summon_periodic_aura::_delay'],['../df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5',1,'HealthCheckEventData::_delay']]],
+  ['_5fdelay_514',['_delay',['../de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790',1,'spell_hadronox_summon_periodic_aura::_delay'],['../df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5',1,'HealthCheckEventData::_delay'],['../db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1',1,'QEmote::_Delay']]],
   ['_5fdelayattack_515',['_delayAttack',['../d2/de1/structnpc__pet__mage__mirror__image.html#ab65a74ef0f1e253bf9df4e4f7c6856a3',1,'npc_pet_mage_mirror_image']]],
   ['_5fdelayedteleport_516',['_delayedTeleport',['../de/da9/classMotionTransport.html#a3715caa515f3096c9c03a1b64bd8bebf',1,'MotionTransport']]],
   ['_5fdelaytimer_517',['_delayTimer',['../df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be',1,'npc_ranshalla::npc_ranshallaAI']]],
@@ -2157,7 +2157,7 @@ var searchData=
   ['_5fzigguratstate2_2154',['_zigguratState2',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzigguratstate3_2155',['_zigguratState3',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzonedynamicinfo_2156',['_zoneDynamicInfo',['../d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f',1,'Map']]],
-  ['_5fzoneid_2157',['_zoneid',['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId'],['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid']]],
+  ['_5fzoneid_2157',['_zoneid',['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid'],['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId']]],
   ['_5fzoneplayercountmap_2158',['_zonePlayerCountMap',['../d7/db0/classMap.html#a06d635a105d849d2122492c0e2236c6b',1,'Map']]],
   ['_5fzonewidevisibleworldobjectsmap_2159',['_zoneWideVisibleWorldObjectsMap',['../d7/db0/classMap.html#a0a771dfb7878b6c0d16d06450227d51b',1,'Map']]]
 ];

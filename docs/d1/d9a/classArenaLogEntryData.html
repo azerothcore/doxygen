@@ -122,6 +122,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8f3ec057dd930d2f2acd7961e0cf4e5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3cca4521431bf152550611549bf4bbe" id="r_aa3cca4521431bf152550611549bf4bbe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#aa3cca4521431bf152550611549bf4bbe">Fill</a> (std::string_view name, <a class="el" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> acc, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> arenaTeamId, std::string ip)</td></tr>
 <tr class="separator:aa3cca4521431bf152550611549bf4bbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f612b3623ad77bc5e25ac0fdad4197b" id="r_a2f612b3623ad77bc5e25ac0fdad4197b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#a2f612b3623ad77bc5e25ac0fdad4197b">SaveStats</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> damageDone, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> healingDone, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> killingBlows)</td></tr>
+<tr class="separator:a2f612b3623ad77bc5e25ac0fdad4197b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -135,6 +137,12 @@ Public Attributes</h2></td></tr>
 <tr class="separator:ac764620c3c8a986286fd74062dac4645"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab9f80eacfe24025a2d4947085d3f6dd7" id="r_ab9f80eacfe24025a2d4947085d3f6dd7"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7">IP</a> {}</td></tr>
 <tr class="separator:ab9f80eacfe24025a2d4947085d3f6dd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c4c458a7128e869dbf207655b52c7ee" id="r_a7c4c458a7128e869dbf207655b52c7ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#a7c4c458a7128e869dbf207655b52c7ee">DamageDone</a> {0}</td></tr>
+<tr class="separator:a7c4c458a7128e869dbf207655b52c7ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af026544d31252e10035364540b96b5b0" id="r_af026544d31252e10035364540b96b5b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#af026544d31252e10035364540b96b5b0">HealingDone</a> {0}</td></tr>
+<tr class="separator:af026544d31252e10035364540b96b5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6acec2f17b65a994ee6eba3304fe9ce2" id="r_a6acec2f17b65a994ee6eba3304fe9ce2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html#a6acec2f17b65a994ee6eba3304fe9ce2">KillingBlows</a> {0}</td></tr>
+<tr class="separator:a6acec2f17b65a994ee6eba3304fe9ce2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -222,13 +230,65 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  257</span>        <a class="code hl_variable" href="../../d1/d9a/classArenaLogEntryData.html#ac764620c3c8a986286fd74062dac4645">ArenaTeamId</a> = arenaTeamId;</div>
 <div class="line"><span class="lineno">  258</span>        <a class="code hl_variable" href="../../d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7">IP</a> = ip;</div>
 <div class="line"><span class="lineno">  259</span>    }</div>
-<div class="ttc" id="aclassArenaLogEntryData_html_a03b32cd44c655dcc9104aead3b76454e"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a03b32cd44c655dcc9104aead3b76454e">ArenaLogEntryData::Guid</a></div><div class="ttdeci">ObjectGuid::LowType Guid</div><div class="ttdef"><b>Definition</b> Battleground.h:262</div></div>
-<div class="ttc" id="aclassArenaLogEntryData_html_a5c18d554adb9e38ab10baf36c9b3fdd7"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a5c18d554adb9e38ab10baf36c9b3fdd7">ArenaLogEntryData::Name</a></div><div class="ttdeci">std::string Name</div><div class="ttdef"><b>Definition</b> Battleground.h:261</div></div>
-<div class="ttc" id="aclassArenaLogEntryData_html_aa8983930063298c86f4635d2ae3078fe"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#aa8983930063298c86f4635d2ae3078fe">ArenaLogEntryData::Acc</a></div><div class="ttdeci">uint32 Acc</div><div class="ttdef"><b>Definition</b> Battleground.h:263</div></div>
-<div class="ttc" id="aclassArenaLogEntryData_html_ab9f80eacfe24025a2d4947085d3f6dd7"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7">ArenaLogEntryData::IP</a></div><div class="ttdeci">std::string IP</div><div class="ttdef"><b>Definition</b> Battleground.h:265</div></div>
-<div class="ttc" id="aclassArenaLogEntryData_html_ac764620c3c8a986286fd74062dac4645"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#ac764620c3c8a986286fd74062dac4645">ArenaLogEntryData::ArenaTeamId</a></div><div class="ttdeci">uint32 ArenaTeamId</div><div class="ttdef"><b>Definition</b> Battleground.h:264</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_a03b32cd44c655dcc9104aead3b76454e"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a03b32cd44c655dcc9104aead3b76454e">ArenaLogEntryData::Guid</a></div><div class="ttdeci">ObjectGuid::LowType Guid</div><div class="ttdef"><b>Definition</b> Battleground.h:269</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_a5c18d554adb9e38ab10baf36c9b3fdd7"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a5c18d554adb9e38ab10baf36c9b3fdd7">ArenaLogEntryData::Name</a></div><div class="ttdeci">std::string Name</div><div class="ttdef"><b>Definition</b> Battleground.h:268</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_aa8983930063298c86f4635d2ae3078fe"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#aa8983930063298c86f4635d2ae3078fe">ArenaLogEntryData::Acc</a></div><div class="ttdeci">uint32 Acc</div><div class="ttdef"><b>Definition</b> Battleground.h:270</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_ab9f80eacfe24025a2d4947085d3f6dd7"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7">ArenaLogEntryData::IP</a></div><div class="ttdeci">std::string IP</div><div class="ttdef"><b>Definition</b> Battleground.h:272</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_ac764620c3c8a986286fd74062dac4645"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#ac764620c3c8a986286fd74062dac4645">ArenaLogEntryData::ArenaTeamId</a></div><div class="ttdeci">uint32 ArenaTeamId</div><div class="ttdef"><b>Definition</b> Battleground.h:271</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00263">Acc</a>, <a class="el" href="../../#l00264">ArenaTeamId</a>, <a class="el" href="../../#l00262">Guid</a>, <a class="el" href="../../#l00265">IP</a>, and <a class="el" href="../../#l00261">Name</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00270">Acc</a>, <a class="el" href="../../#l00271">ArenaTeamId</a>, <a class="el" href="../../#l00269">Guid</a>, <a class="el" href="../../#l00272">IP</a>, and <a class="el" href="../../#l00268">Name</a>.</p>
+
+</div>
+</div>
+<a id="a2f612b3623ad77bc5e25ac0fdad4197b" name="a2f612b3623ad77bc5e25ac0fdad4197b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f612b3623ad77bc5e25ac0fdad4197b">&#9670;&#160;</a></span>SaveStats()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaLogEntryData::SaveStats </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>damageDone</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>healingDone</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>killingBlows</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  262</span>    {</div>
+<div class="line"><span class="lineno">  263</span>        <a class="code hl_variable" href="../../d1/d9a/classArenaLogEntryData.html#a7c4c458a7128e869dbf207655b52c7ee">DamageDone</a> = damageDone;</div>
+<div class="line"><span class="lineno">  264</span>        <a class="code hl_variable" href="../../d1/d9a/classArenaLogEntryData.html#af026544d31252e10035364540b96b5b0">HealingDone</a> = healingDone;</div>
+<div class="line"><span class="lineno">  265</span>        <a class="code hl_variable" href="../../d1/d9a/classArenaLogEntryData.html#a6acec2f17b65a994ee6eba3304fe9ce2">KillingBlows</a> = killingBlows;</div>
+<div class="line"><span class="lineno">  266</span>    }</div>
+<div class="ttc" id="aclassArenaLogEntryData_html_a6acec2f17b65a994ee6eba3304fe9ce2"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a6acec2f17b65a994ee6eba3304fe9ce2">ArenaLogEntryData::KillingBlows</a></div><div class="ttdeci">uint32 KillingBlows</div><div class="ttdef"><b>Definition</b> Battleground.h:275</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_a7c4c458a7128e869dbf207655b52c7ee"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#a7c4c458a7128e869dbf207655b52c7ee">ArenaLogEntryData::DamageDone</a></div><div class="ttdeci">uint32 DamageDone</div><div class="ttdef"><b>Definition</b> Battleground.h:273</div></div>
+<div class="ttc" id="aclassArenaLogEntryData_html_af026544d31252e10035364540b96b5b0"><div class="ttname"><a href="../../d1/d9a/classArenaLogEntryData.html#af026544d31252e10035364540b96b5b0">ArenaLogEntryData::HealingDone</a></div><div class="ttdeci">uint32 HealingDone</div><div class="ttdef"><b>Definition</b> Battleground.h:274</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00273">DamageDone</a>, <a class="el" href="../../#l00274">HealingDone</a>, and <a class="el" href="../../#l00275">KillingBlows</a>.</p>
 
 </div>
 </div>
@@ -244,7 +304,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  263</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  270</span>{0};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00252">Fill()</a>.</p>
 
@@ -261,9 +321,26 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  264</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  271</span>{0};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00252">Fill()</a>.</p>
+
+</div>
+</div>
+<a id="a7c4c458a7128e869dbf207655b52c7ee" name="a7c4c458a7128e869dbf207655b52c7ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c4c458a7128e869dbf207655b52c7ee">&#9670;&#160;</a></span>DamageDone</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaLogEntryData::DamageDone {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  273</span>{0};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00261">SaveStats()</a>.</p>
 
 </div>
 </div>
@@ -278,9 +355,26 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  262</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  269</span>{0};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00252">Fill()</a>.</p>
+
+</div>
+</div>
+<a id="af026544d31252e10035364540b96b5b0" name="af026544d31252e10035364540b96b5b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af026544d31252e10035364540b96b5b0">&#9670;&#160;</a></span>HealingDone</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaLogEntryData::HealingDone {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  274</span>{0};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00261">SaveStats()</a>.</p>
 
 </div>
 </div>
@@ -295,9 +389,26 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>{};</div>
+<div class="fragment"><div class="line"><span class="lineno">  272</span>{};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00252">Fill()</a>.</p>
+
+</div>
+</div>
+<a id="a6acec2f17b65a994ee6eba3304fe9ce2" name="a6acec2f17b65a994ee6eba3304fe9ce2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6acec2f17b65a994ee6eba3304fe9ce2">&#9670;&#160;</a></span>KillingBlows</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaLogEntryData::KillingBlows {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  275</span>{0};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00261">SaveStats()</a>.</p>
 
 </div>
 </div>
@@ -312,7 +423,7 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  261</span>{};</div>
+<div class="fragment"><div class="line"><span class="lineno">  268</span>{};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00252">Fill()</a>.</p>
 
@@ -327,7 +438,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d9a/classArenaLogEntryData.html">ArenaLogEntryData</a></li>
-    <li class="footer">Generated on Fri Jun 12 2026 10:03:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jun 13 2026 09:05:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

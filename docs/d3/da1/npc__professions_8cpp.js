@@ -2,7 +2,6 @@ var npc__professions_8cpp =
 [
     [ "npc_prof_alchemy", "de/d9d/classnpc__prof__alchemy.html", "de/d9d/classnpc__prof__alchemy" ],
     [ "npc_prof_blacksmith", "d5/d13/classnpc__prof__blacksmith.html", "d5/d13/classnpc__prof__blacksmith" ],
-    [ "npc_engineering_tele_trinket", "d9/dbf/classnpc__engineering__tele__trinket.html", "d9/dbf/classnpc__engineering__tele__trinket" ],
     [ "npc_prof_leather", "d3/d1b/classnpc__prof__leather.html", "d3/d1b/classnpc__prof__leather" ],
     [ "npc_prof_tailor", "d0/d77/classnpc__prof__tailor.html", "d0/d77/classnpc__prof__tailor" ],
     [ "go_evil_book_for_dummies", "d7/de9/classgo__evil__book__for__dummies.html", "d7/de9/classgo__evil__book__for__dummies" ],
@@ -14,9 +13,6 @@ var npc__professions_8cpp =
     [ "BOX_UNLEARN_WEAPON_SPEC", "d3/da1/npc__professions_8cpp.html#af739532652160e992960074a91d83927", null ],
     [ "GOSSIP_ARMOR_LEARN", "d3/da1/npc__professions_8cpp.html#a7e92909c5d948e97e5d702521ff4493d", null ],
     [ "GOSSIP_ARMOR_UNLEARN", "d3/da1/npc__professions_8cpp.html#ae0f85609f2c7b88ad526dbb3c8c9e909", null ],
-    [ "GOSSIP_ITEM_JHORDY", "d3/da1/npc__professions_8cpp.html#afef5d99c2b999c7e633cdcd90314f74f", null ],
-    [ "GOSSIP_ITEM_KABLAM", "d3/da1/npc__professions_8cpp.html#a7692ef73b6e8f9b56a57c511a55655b8", null ],
-    [ "GOSSIP_ITEM_ZAP", "d3/da1/npc__professions_8cpp.html#af55e053053c521b7f1760042bc3c3ed2", null ],
     [ "GOSSIP_LEARN_AXE", "d3/da1/npc__professions_8cpp.html#a80dc472663452b1b8a59b9d23862262c", null ],
     [ "GOSSIP_LEARN_ELIXIR", "d3/da1/npc__professions_8cpp.html#a838d1095ae22e6125e3cccaddbbbfaca", null ],
     [ "GOSSIP_LEARN_GNOMISH", "d3/da1/npc__professions_8cpp.html#a89c8ca2f57787c511c9ec27c7b407d05", null ],
@@ -52,20 +48,6 @@ var npc__professions_8cpp =
     [ "TALK_MUST_UNLEARN_WEAPON", "d3/da1/npc__professions_8cpp.html#a38f587b2c5dcadfddae57974268b9300", null ],
     [ "TALK_SWORD_LEARN", "d3/da1/npc__professions_8cpp.html#ab6ac9548a3a00c5b4ea0ba73dbf7bf60", null ],
     [ "TALK_SWORD_UNLEARN", "d3/da1/npc__professions_8cpp.html#add5fdcf9862a57aed21ac937a4a50ebf", null ],
-    [ "EngineeringTrinkets", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19", [
-      [ "NPC_ZAP", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a60e5a8deb6cc3abbdc5c5cb36fbc8a0f", null ],
-      [ "NPC_JHORDY", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a66e960aceb4a64763bd42ef7a7b66fac", null ],
-      [ "NPC_KABLAM", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19aed2ebe52594008f26dfd3ea55bd68adf", null ],
-      [ "NPC_SMILES", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a20407a3941a65e41dbb75f0143a16bdd", null ],
-      [ "SPELL_LEARN_TO_EVERLOOK", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a143e680d96b3402f08ce54f936653852", null ],
-      [ "SPELL_LEARN_TO_GADGET", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a9438e36000f4d04279ba524cf61abd76", null ],
-      [ "SPELL_LEARN_TO_AREA52", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19ac660938edd986e686c49087b673c9dc9", null ],
-      [ "SPELL_LEARN_TO_TOSHLEY", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19acb01df02a5bd6f73513c027eec14e4a1", null ],
-      [ "SPELL_TO_EVERLOOK", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a7ce3ccba7e688b8417075ebe7faa4bdb", null ],
-      [ "SPELL_TO_GADGET", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a24c89047bfa57e0f9aa11624758d6cb0", null ],
-      [ "SPELL_TO_AREA52", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19a8ac9ca36be6cf45762dc7dd947a8c3a7", null ],
-      [ "SPELL_TO_TOSHLEY", "d3/da1/npc__professions_8cpp.html#af2aeb8d1dd1a9b06762216ad2c6abe19ae95d91b3c10b4498efc69fd9bba28a94", null ]
-    ] ],
     [ "Gossips", "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019d", [
       [ "GOSSIP_MENU_PETER_GALEN", "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019da080668d699a94ebf540f6b9a5cfc321d", null ],
       [ "GOSSIP_MENU_THORKAF_DRAGONEYE", "d3/da1/npc__professions_8cpp.html#a482f31893e512222b2812fb2e025019daa99a5fed55a6cf2bea7a727ff6072cc3", null ],

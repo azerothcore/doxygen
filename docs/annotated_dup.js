@@ -2321,7 +2321,6 @@ var annotated_dup =
     [ "npc_elder_kekek", "d9/db6/structnpc__elder__kekek.html", "d9/db6/structnpc__elder__kekek" ],
     [ "npc_emily", "d5/d88/classnpc__emily.html", "d5/d88/classnpc__emily" ],
     [ "npc_engineer_helice", "d1/d3a/classnpc__engineer__helice.html", "d1/d3a/classnpc__engineer__helice" ],
-    [ "npc_engineering_tele_trinket", "d9/dbf/classnpc__engineering__tele__trinket.html", "d9/dbf/classnpc__engineering__tele__trinket" ],
     [ "npc_enraged_spirit", "d1/dcb/classnpc__enraged__spirit.html", "d1/dcb/classnpc__enraged__spirit" ],
     [ "npc_enslaved_netherwing_drake", "d7/d0c/structnpc__enslaved__netherwing__drake.html", "d7/d0c/structnpc__enslaved__netherwing__drake" ],
     [ "npc_enslaved_proto_drake", "dd/d8f/structnpc__enslaved__proto__drake.html", "dd/d8f/structnpc__enslaved__proto__drake" ],
