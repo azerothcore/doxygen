@@ -1,0 +1,6 @@
+var classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient =
+[
+    [ "QuestConfirmAcceptClient", "dd/d7c/classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "dd/d7c/classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "dd/d7c/classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
+];

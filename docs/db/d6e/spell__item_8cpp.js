@@ -181,12 +181,13 @@ var spell__item_8cpp =
       [ "SPELL_ALCHEMISTS_STONE_EXTRA_HEAL", "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09ae485a050815547bc6bda9d16f0573480", null ],
       [ "SPELL_ALCHEMISTS_STONE_EXTRA_MANA", "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09a5da4a6cb67518f27f6a60f629ab9615a", null ]
     ] ],
-    [ "AmplifyDish", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258e", [
-      [ "SPELL_AMPLIFY_30S", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258ea82226009f5691ea06e8e091832a87269", null ],
-      [ "SPELL_AMPLIFY_10S", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258eaf1191c48281c47644a4764614229cbc2", null ],
-      [ "SPELL_MENTAL_BATTLE", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258eaa90216586a8a5a34dd2874f8b8d98ac5", null ],
-      [ "SPELL_AMPLIFY_CHARM_30S", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258ea7a772b9c81e8f1cafc65d1c950f41d03", null ],
-      [ "SPELL_AMPLIFY_CHARM_10S", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258ea4f954b73729dc329cb0a0d172821fde1", null ]
+    [ "AmplificationDish", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19", [
+      [ "SPELL_MIND_CONTROL_CAP", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a1db81c4c6f2c0e30e67842ae35bd03df", null ],
+      [ "SPELL_AMPLIFICATION_DISH", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19ad5cced2c1f78531384ef8138b66bc97b", null ],
+      [ "SPELL_MENTAL_BATTLE", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19aa90216586a8a5a34dd2874f8b8d98ac5", null ],
+      [ "SPELL_MIND_CONTROL_CAP_CHARM_30S", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a4610a0cabf8d73465c5ffc3292ec92a5", null ],
+      [ "SPELL_MIND_CONTROL_CAP_CHARM_10S", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a292e4ce388b3e31d2531773dad4c9522", null ],
+      [ "SPELL_DULLARD", "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a931ce055d2367594d77192d40a3980b3", null ]
     ] ],
     [ "AshbringerSounds", "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75", [
       [ "SOUND_ASHBRINGER_1", "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa7161ec6c3c0611495bbb6510658812c", null ],

@@ -146,7 +146,7 @@ var NAVTREEINDEX5 =
 "d0/d4b/classspell__bronjahm__magic__bane.html#a1a740e697fc84f5f035f2ec251872009":[7,0,2713,2],
 "d0/d4b/classspell__bronjahm__magic__bane.html#a3fae6ceaa67716004c664dd40a4679ed":[7,0,2713,1],
 "d0/d4b/classspell__bronjahm__magic__bane.html#a5ed268ac2642b2df3c5eb1dc93a675fc":[7,0,2713,0],
-"d0/d4c/namespaceWorldPackets_1_1WorldState.html":[5,0,34,16],
+"d0/d4c/namespaceWorldPackets_1_1WorldState.html":[5,0,34,17],
 "d0/d4c/structClientAuthSession.html":[7,0,901],
 "d0/d4c/structClientAuthSession.html#a155f8107ac5a637501a169cfaf43c4b9":[7,0,901,7],
 "d0/d4c/structClientAuthSession.html#a4052be051b41e931747b1956dc145d64":[7,0,901,10],

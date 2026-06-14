@@ -11,5 +11,7 @@ var searchData=
   ['queryresult_2eh_8',['QueryResult.h',['../d4/d39/QueryResult_8h.html',1,'']]],
   ['questdef_2ecpp_9',['QuestDef.cpp',['../dc/d83/QuestDef_8cpp.html',1,'']]],
   ['questdef_2eh_10',['QuestDef.h',['../d2/d27/QuestDef_8h.html',1,'']]],
-  ['questhandler_2ecpp_11',['QuestHandler.cpp',['../d8/db1/QuestHandler_8cpp.html',1,'']]]
+  ['questhandler_2ecpp_11',['QuestHandler.cpp',['../d8/db1/QuestHandler_8cpp.html',1,'']]],
+  ['questpackets_2ecpp_12',['QuestPackets.cpp',['../dc/d59/QuestPackets_8cpp.html',1,'']]],
+  ['questpackets_2eh_13',['QuestPackets.h',['../dc/dde/QuestPackets_8h.html',1,'']]]
 ];

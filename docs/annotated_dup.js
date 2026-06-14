@@ -523,6 +523,25 @@ var annotated_dup =
         [ "TimeQuery", "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html", "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery" ],
         [ "TimeQueryResponse", "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html", "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse" ]
       ] ],
+      [ "Quest", "d4/d51/namespaceWorldPackets_1_1Quest.html", [
+        [ "PushQuestToParty", "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html", "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty" ],
+        [ "QuestConfirmAccept", "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html", "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept" ],
+        [ "QuestConfirmAcceptClient", "dd/d7c/classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient.html", "dd/d7c/classWorldPackets_1_1Quest_1_1QuestConfirmAcceptClient" ],
+        [ "QuestGiverQuestAutoLaunch", "da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html", "da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch" ],
+        [ "QuestGiverQuestComplete", "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html", "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete" ],
+        [ "QuestGiverQuestFailed", "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html", "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed" ],
+        [ "QuestGiverQuestInvalid", "d6/da9/classWorldPackets_1_1Quest_1_1QuestGiverQuestInvalid.html", "d6/da9/classWorldPackets_1_1Quest_1_1QuestGiverQuestInvalid" ],
+        [ "QuestLogFull", "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html", "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull" ],
+        [ "QuestLogRemoveQuest", "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html", "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest" ],
+        [ "QuestLogSwapQuest", "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html", "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest" ],
+        [ "QuestPushResult", "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html", "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult" ],
+        [ "QuestPushResultClient", "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html", "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient" ],
+        [ "QuestUpdateAddItem", "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html", "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem" ],
+        [ "QuestUpdateAddKill", "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html", "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill" ],
+        [ "QuestUpdateAddPvPKill", "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html", "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill" ],
+        [ "QuestUpdateComplete", "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html", "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete" ],
+        [ "QuestUpdateFailedTimer", "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html", "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer" ]
+      ] ],
       [ "Strings", "d3/d0d/namespaceWorldPackets_1_1Strings.html", [
         [ "ByteSize", "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html", "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize" ],
         [ "Hyperlinks", "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html", "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks" ],

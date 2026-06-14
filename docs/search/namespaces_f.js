@@ -17,7 +17,8 @@ var searchData=
   ['worldpackets_3a_3anpc_14',['NPC',['../dd/d9e/namespaceWorldPackets_1_1NPC.html',1,'WorldPackets']]],
   ['worldpackets_3a_3apet_15',['Pet',['../df/dd1/namespaceWorldPackets_1_1Pet.html',1,'WorldPackets']]],
   ['worldpackets_3a_3aquery_16',['Query',['../db/d57/namespaceWorldPackets_1_1Query.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3astrings_17',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3atotem_18',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aworldstate_19',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
+  ['worldpackets_3a_3aquest_17',['Quest',['../d4/d51/namespaceWorldPackets_1_1Quest.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3astrings_18',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3atotem_19',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aworldstate_20',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
 ];

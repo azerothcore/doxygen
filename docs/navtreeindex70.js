@@ -1,5 +1,15 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8b/structArenaTeamStats.html#ab43875cc3ae58eb636a490c2c0f5c1f6":[7,0,207,1],
+"d2/d8b/structArenaTeamStats.html#ad274601b85ea634524b1c00979e09465":[7,0,207,3],
+"d2/d8c/Packet_8h.html":[8,0,0,0,1,2,39,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[7,0,0,55],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,0,67],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,0,67,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[7,0,0,55,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,0,67,0],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[7,0,0,55,0],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,0,67,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[7,0,0,55,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,0,67,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[7,0,0,55,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html":[7,0,2776],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#a3226edbe6b24a827f2ef28ccfb815b7a":[7,0,2776,7],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#a4f827a906ac279e143ba8545545090ad":[7,0,2776,2],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a5052689d815e0a0543693b39b7454deb":[7,0,2776,6],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d":[7,0,2776,0],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ab23f26c3470f629f0a20f28faf272a68":[7,0,2776,1],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[7,0,2776,5],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[7,0,2776,4],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[7,0,2776,3],
-"d2/d93/classspell__item__healing__touch__refund.html":[7,0,3375],
-"d2/d93/classspell__item__healing__touch__refund.html#a18da1331c481cd3871194f8af735b6df":[7,0,3375,2],
-"d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[7,0,3375,0],
-"d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[7,0,3375,1],
-"d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[7,0,3375,3]
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#a5052689d815e0a0543693b39b7454deb":[7,0,2776,6]
 };

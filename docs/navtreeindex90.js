@@ -1,5 +1,15 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#a5d5226b5c0e2b60f76f632dc77c3b8c2":[8,0,0,0,1,2,14,1,128],
+"d2/df6/DBCStores_8h.html#a5df3002fc405840d18a0ad1651760e27":[8,0,0,0,1,2,14,1,77],
+"d2/df6/DBCStores_8h.html#a5fbdd3a66062c9929ca941f686924aeb":[8,0,0,0,1,2,14,1,40],
+"d2/df6/DBCStores_8h.html#a60171c3e45c1b27d34e47f19175bdb38":[8,0,0,0,1,2,14,1,131],
+"d2/df6/DBCStores_8h.html#a60ccc706663a742ab1d59698f00be5fd":[8,0,0,0,1,2,14,1,14],
+"d2/df6/DBCStores_8h.html#a64e6adc318845754f5eb7fd5d088c4d0":[8,0,0,0,1,2,14,1,55],
+"d2/df6/DBCStores_8h.html#a663b3319db8da2d027228403d0236581":[8,0,0,0,1,2,14,1,51],
+"d2/df6/DBCStores_8h.html#a67c1970c378a0fdf0489c1d376d7c388":[8,0,0,0,1,2,14,1,19],
+"d2/df6/DBCStores_8h.html#a6cb5491afe8e67e3d74615a8e7d9d736":[8,0,0,0,1,2,14,1,133],
+"d2/df6/DBCStores_8h.html#a6cc1bb46e69ee6dfbfbc4d71f8ba3004":[8,0,0,0,1,2,14,1,98],
 "d2/df6/DBCStores_8h.html#a70a19d9511735cce2e1200aa9d695137":[8,0,0,0,1,2,14,1,15],
 "d2/df6/DBCStores_8h.html#a72e25473312c4b93a7450c7a5232cb6e":[8,0,0,0,1,2,14,1,139],
 "d2/df6/DBCStores_8h.html#a7310e7ca73ddb97a809bce03e33cc38d":[8,0,0,0,1,2,14,1,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d00/classspell__black__temple__consuming__strikes__aura.html":[7,0,2668],
 "d3/d00/classspell__black__temple__consuming__strikes__aura.html#a93dfb9e0dac89cb66f340c41dbc526bb":[7,0,2668,0],
 "d3/d00/classspell__black__temple__consuming__strikes__aura.html#a9499d88802213ceb877e19d1651324f2":[7,0,2668,2],
-"d3/d00/classspell__black__temple__consuming__strikes__aura.html#a94b244ef26355d53c874aec6d26f3a53":[7,0,2668,1],
-"d3/d00/classspell__ignis__slag__pot__aura.html":[7,0,3276],
-"d3/d00/classspell__ignis__slag__pot__aura.html#a2b18c5db95842a6f8959bf9affd357b7":[7,0,3276,4],
-"d3/d00/classspell__ignis__slag__pot__aura.html#a903e65cc8041f9bd289bb5c6f156fa22":[7,0,3276,2],
-"d3/d00/classspell__ignis__slag__pot__aura.html#aa85f79f5337edca68b3cb87073eff0d4":[7,0,3276,3],
-"d3/d00/classspell__ignis__slag__pot__aura.html#ad52977d3bfeca6d2a7127d91eb3d30ab":[7,0,3276,1],
-"d3/d00/classspell__ignis__slag__pot__aura.html#adc6e83abb52a21528c07a1d989818dcf":[7,0,3276,0],
-"d3/d00/classspell__ignis__slag__pot__aura.html#ae88b8bd3e648030df48f6b80cedc4034":[7,0,3276,5],
-"d3/d00/classspell__web__wrap__damage.html":[7,0,4322],
-"d3/d00/classspell__web__wrap__damage.html#a1362103840db4b3c40ef7d6b0aa5226c":[7,0,4322,1],
-"d3/d00/classspell__web__wrap__damage.html#a39b03ebd7f6233f373f52e34f18dad10":[7,0,4322,2]
+"d3/d00/classspell__black__temple__consuming__strikes__aura.html#a94b244ef26355d53c874aec6d26f3a53":[7,0,2668,1]
 };

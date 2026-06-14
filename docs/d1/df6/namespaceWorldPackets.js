@@ -14,6 +14,7 @@ var namespaceWorldPackets =
     [ "NPC", "dd/d9e/namespaceWorldPackets_1_1NPC.html", "dd/d9e/namespaceWorldPackets_1_1NPC" ],
     [ "Pet", "df/dd1/namespaceWorldPackets_1_1Pet.html", "df/dd1/namespaceWorldPackets_1_1Pet" ],
     [ "Query", "db/d57/namespaceWorldPackets_1_1Query.html", "db/d57/namespaceWorldPackets_1_1Query" ],
+    [ "Quest", "d4/d51/namespaceWorldPackets_1_1Quest.html", "d4/d51/namespaceWorldPackets_1_1Quest" ],
     [ "Strings", "d3/d0d/namespaceWorldPackets_1_1Strings.html", "d3/d0d/namespaceWorldPackets_1_1Strings" ],
     [ "Totem", "d7/d5c/namespaceWorldPackets_1_1Totem.html", "d7/d5c/namespaceWorldPackets_1_1Totem" ],
     [ "WorldState", "d0/d4c/namespaceWorldPackets_1_1WorldState.html", "d0/d4c/namespaceWorldPackets_1_1WorldState" ],

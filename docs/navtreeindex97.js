@@ -1,5 +1,15 @@
 var NAVTREEINDEX97 =
 {
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4357,0],
+"d3/d41/classGameObjectModelOwnerImpl.html":[7,0,1113],
+"d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[7,0,1113,6],
+"d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[7,0,1113,2],
+"d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0":[7,0,1113,8],
+"d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988":[7,0,1113,5],
+"d3/d41/classGameObjectModelOwnerImpl.html#acb968e3bd921aac111a2e06f2604b040":[7,0,1113,3],
+"d3/d41/classGameObjectModelOwnerImpl.html#ad0b9a01502c49f16a47e35694d3e6c10":[7,0,1113,4],
+"d3/d41/classGameObjectModelOwnerImpl.html#adb8b3b555ad6cd75c1ee7a1f71a08af7":[7,0,1113,0],
+"d3/d41/classGameObjectModelOwnerImpl.html#ae47eb25d16de37122042402443db6f3d":[7,0,1113,7],
 "d3/d41/classGameObjectModelOwnerImpl.html#af8553967b9788d69da9fcb8cdb647f9c":[7,0,1113,1],
 "d3/d41/classnpc__wg__queue.html":[7,0,2285],
 "d3/d41/classnpc__wg__queue.html#a20fc6ae4e4377f237a620b7f5b1de8ee":[7,0,2285,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5b761487f25c5a9153c420af746c5159":[8,0,0,0,1,2,48,7,0,62],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5b8692a06b5621543ba538a315b9652e":[8,0,0,0,1,2,48,7,0,247],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5bbd587202cfb8b05176add69df363ec":[8,0,0,0,1,2,48,7,0,263],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5c0735b9690db2e1a3d9065bcf60d153":[8,0,0,0,1,2,48,7,0,116],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5dab75a152a2d09ad890726208295dcb":[8,0,0,0,1,2,48,7,0,292],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5dbc288108a47808f7a410ed89046885":[8,0,0,0,1,2,48,7,0,318],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5e3c7846a6a049bc67b563e0298c9114":[8,0,0,0,1,2,48,7,0,90],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5f1381e9af020561fa35d1eb29fcb281":[8,0,0,0,1,2,48,7,0,227],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5fe0fd9527aee8250fc87d6357cea7f1":[8,0,0,0,1,2,48,7,0,119],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba620d3f7aa2d066cad4a299818d6f6df5":[8,0,0,0,1,2,48,7,0,338],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba621fc61707bae7fc661e2960f388e8c9":[8,0,0,0,1,2,48,7,0,140],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6226e13d0404c5d56ace9cf5b4d6ca60":[8,0,0,0,1,2,48,7,0,30],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6270ad11bca67e0f3496779e29ce1915":[8,0,0,0,1,2,48,7,0,367],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba62a4e3c7366a4bc138d0333465c742ea":[8,0,0,0,1,2,48,7,0,404]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5c0735b9690db2e1a3d9065bcf60d153":[8,0,0,0,1,2,48,7,0,116]
 };

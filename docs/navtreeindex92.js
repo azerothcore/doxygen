@@ -1,5 +1,15 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182c":[8,0,0,0,1,3,5,15,33],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca22fd7e4655724a3bee555f7023378245":[8,0,0,0,1,3,5,15,33,10],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca24b5ae5ac74b8d00ac370cccda7ec1fe":[8,0,0,0,1,3,5,15,33,1],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca2520bd622031b9ffced89b0af0afc8c5":[8,0,0,0,1,3,5,15,33,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca58427635e44aa1fe73e58ea68f44a6c9":[8,0,0,0,1,3,5,15,33,2],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca652b099e337cfab2429eb1e1758f81df":[8,0,0,0,1,3,5,15,33,8],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca740b24a00be08e42343fdc9bdb1ba1de":[8,0,0,0,1,3,5,15,33,9],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca9159ca9abe5a33cf89ac895992605a60":[8,0,0,0,1,3,5,15,33,6],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caa5be06bbb7ef549209e4e173e655ae66":[8,0,0,0,1,3,5,15,33,11],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac0a67b02752afb37b583ab39b053ee4f":[8,0,0,0,1,3,5,15,33,3],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac3f06c413f81a981f228c7cbda23e192":[8,0,0,0,1,3,5,15,33,7],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cacf71fdbe5fb3eae6cdd6bb1bab81d199":[8,0,0,0,1,3,5,15,33,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caed1c7c557089cafccec74e878a71a181":[8,0,0,0,1,3,5,15,33,5],
@@ -221,7 +231,7 @@ var NAVTREEINDEX92 =
 "d3/d0d/classnpc__icc__buff__switcher.html":[7,0,1884],
 "d3/d0d/classnpc__icc__buff__switcher.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba":[7,0,1884,1],
 "d3/d0d/classnpc__icc__buff__switcher.html#aeabc3d97c88bf12177b824524af3ae1d":[7,0,1884,0],
-"d3/d0d/namespaceWorldPackets_1_1Strings.html":[5,0,34,14],
+"d3/d0d/namespaceWorldPackets_1_1Strings.html":[5,0,34,15],
 "d3/d0e/classitem__captured__frog.html":[7,0,1398],
 "d3/d0e/classitem__captured__frog.html#a1156467ca046a077ea494f92c488bf54":[7,0,1398,1],
 "d3/d0e/classitem__captured__frog.html#ad41b743c98c9534453eca8cf1f367366":[7,0,1398,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d10/classspell__algalon__phase__punch__aura.html#aea9d38dc7fdff6d38d252bb5ded57d78":[7,0,2616,2],
 "d3/d10/mob__generic__creature_8cpp.html":[8,0,0,0,1,3,10,8],
 "d3/d10/mob__generic__creature_8cpp.html#a50f66c4d6429b38157e35a75a0daa31d":[8,0,0,0,1,3,10,8,2],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[7,0,806],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7":[7,0,806,3],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a381b56eb1c81f893fd061cf4aead0bc4":[7,0,806,6],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a543b785ba3033ab378fcb77d39db2ab1":[7,0,806,0],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a930b35c2385ba2977f2f2da3b4b38f07":[7,0,806,4],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aa6c76606c7c9e6ee71e94433cb721f96":[7,0,806,5],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aac8f5a80248c4616074e7ef88fb10395":[7,0,806,2],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#acf3ab23043ac116dd3f410b361a5b9f4":[7,0,806,1],
-"d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html":[7,0,1702,0],
-"d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#a016fbe51f31e1c5ec1636e8d20d8cb30":[7,0,1702,0,2],
-"d3/d11/structnpc__captain__arnath_1_1npc__captain__arnathAI.html#a020efd7adc0d60152007906e3229988d":[7,0,1702,0,3]
+"d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[7,0,806]
 };

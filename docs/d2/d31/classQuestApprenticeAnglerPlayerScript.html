@@ -567,9 +567,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>                                        : <a class="code hl_class" href="../../d0/d5b/classPlayerScript.html">PlayerScript</a>(<span class="stringliteral">&quot;QuestApprenticeAnglerPlayerScript&quot;</span>, {<a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e">PLAYERHOOK_ON_PLAYER_COMPLETE_QUEST</a>})</div>
-<div class="line"><span class="lineno">   30</span>    {</div>
-<div class="line"><span class="lineno">   31</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>                                        : <a class="code hl_class" href="../../d0/d5b/classPlayerScript.html">PlayerScript</a>(<span class="stringliteral">&quot;QuestApprenticeAnglerPlayerScript&quot;</span>, {<a class="code hl_enumvalue" href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e">PLAYERHOOK_ON_PLAYER_COMPLETE_QUEST</a>})</div>
+<div class="line"><span class="lineno">   31</span>    {</div>
+<div class="line"><span class="lineno">   32</span>    }</div>
 <div class="ttc" id="aPlayerScript_8h_html_a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e"><div class="ttname"><a href="../../dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e">PLAYERHOOK_ON_PLAYER_COMPLETE_QUEST</a></div><div class="ttdeci">@ PLAYERHOOK_ON_PLAYER_COMPLETE_QUEST</div><div class="ttdef"><b>Definition</b> PlayerScript.h:37</div></div>
 <div class="ttc" id="aclassPlayerScript_html"><div class="ttname"><a href="../../d0/d5b/classPlayerScript.html">PlayerScript</a></div><div class="ttdef"><b>Definition</b> PlayerScript.h:221</div></div>
 </div><!-- fragment -->
@@ -613,39 +613,35 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d5b/classPlayerScript.html#a15a60aa20ccac522f3400af23f6bdabe">PlayerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d3c/player__scripts_8cpp.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba">QUEST_APPRENTICE_ANGLER</a>)</div>
-<div class="line"><span class="lineno">   36</span>        {</div>
-<div class="line"><span class="lineno">   37</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> level = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
-<div class="line"><span class="lineno">   38</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> moneyRew = 0;</div>
-<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">if</span> (level &lt;= 10)</div>
-<div class="line"><span class="lineno">   40</span>                moneyRew = 85;</div>
-<div class="line"><span class="lineno">   41</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 60)</div>
-<div class="line"><span class="lineno">   42</span>                moneyRew = 2300;</div>
-<div class="line"><span class="lineno">   43</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 69)</div>
-<div class="line"><span class="lineno">   44</span>                moneyRew = 9000;</div>
-<div class="line"><span class="lineno">   45</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 70)</div>
-<div class="line"><span class="lineno">   46</span>                moneyRew = 11200;</div>
-<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 79)</div>
-<div class="line"><span class="lineno">   48</span>                moneyRew = 12000;</div>
-<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   50</span>                moneyRew = 19000;</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a46351fb555db3b97fc531f215d2d2338">ModifyMoney</a>(moneyRew);</div>
-<div class="line"><span class="lineno">   53</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634">UpdateAchievementCriteria</a>(<a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7a228f44074f44bec4ca6be425933516">ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</a>, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(moneyRew));</div>
-<div class="line"><span class="lineno">   54</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a017c8a9f126945990cedc63b5567af0b">SaveToDB</a>(<span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>            <span class="comment">// Send packet with money</span></div>
-<div class="line"><span class="lineno">   57</span>            <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baf86976d74ca377eacfd672c0ee2d3e45">SMSG_QUESTGIVER_QUEST_COMPLETE</a>, (4 + 4 + 4 + 4 + 4));</div>
-<div class="line"><span class="lineno">   58</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(quest-&gt;GetQuestId());</div>
-<div class="line"><span class="lineno">   59</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
-<div class="line"><span class="lineno">   60</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(moneyRew);</div>
-<div class="line"><span class="lineno">   61</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
-<div class="line"><span class="lineno">   62</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
-<div class="line"><span class="lineno">   63</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
-<div class="line"><span class="lineno">   64</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;data);</div>
-<div class="line"><span class="lineno">   65</span>        }</div>
-<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d3c/player__scripts_8cpp.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba">QUEST_APPRENTICE_ANGLER</a>)</div>
+<div class="line"><span class="lineno">   37</span>        {</div>
+<div class="line"><span class="lineno">   38</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> level = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
+<div class="line"><span class="lineno">   39</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> moneyRew = 0;</div>
+<div class="line"><span class="lineno">   40</span>            <span class="keywordflow">if</span> (level &lt;= 10)</div>
+<div class="line"><span class="lineno">   41</span>                moneyRew = 85;</div>
+<div class="line"><span class="lineno">   42</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 60)</div>
+<div class="line"><span class="lineno">   43</span>                moneyRew = 2300;</div>
+<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 69)</div>
+<div class="line"><span class="lineno">   45</span>                moneyRew = 9000;</div>
+<div class="line"><span class="lineno">   46</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 70)</div>
+<div class="line"><span class="lineno">   47</span>                moneyRew = 11200;</div>
+<div class="line"><span class="lineno">   48</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (level &lt;= 79)</div>
+<div class="line"><span class="lineno">   49</span>                moneyRew = 12000;</div>
+<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   51</span>                moneyRew = 19000;</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a46351fb555db3b97fc531f215d2d2338">ModifyMoney</a>(moneyRew);</div>
+<div class="line"><span class="lineno">   54</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634">UpdateAchievementCriteria</a>(<a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7a228f44074f44bec4ca6be425933516">ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</a>, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(moneyRew));</div>
+<div class="line"><span class="lineno">   55</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a017c8a9f126945990cedc63b5567af0b">SaveToDB</a>(<span class="keyword">false</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>            <span class="comment">// Send packet with money</span></div>
+<div class="line"><span class="lineno">   58</span>            <a class="code hl_class" href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html">WorldPackets::Quest::QuestGiverQuestComplete</a> questGiverQuestComplete;</div>
+<div class="line"><span class="lineno">   59</span>            questGiverQuestComplete.<a class="code hl_variable" href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4">QuestId</a> = quest-&gt;GetQuestId();</div>
+<div class="line"><span class="lineno">   60</span>            questGiverQuestComplete.<a class="code hl_variable" href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388">RewardMoney</a> = moneyRew;</div>
+<div class="line"><span class="lineno">   61</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(questGiverQuestComplete.<a class="code hl_function" href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef">Write</a>());</div>
+<div class="line"><span class="lineno">   62</span>        }</div>
+<div class="line"><span class="lineno">   63</span>    }</div>
 <div class="ttc" id="aDBCEnums_8h_html_a796cde2fc6e2eaed4c657203ed43cd19a7a228f44074f44bec4ca6be425933516"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a7a228f44074f44bec4ca6be425933516">ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</div><div class="ttdef"><b>Definition</b> DBCEnums.h:175</div></div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
@@ -654,11 +650,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition</b> Player.cpp:5694</div></div>
 <div class="ttc" id="aclassPlayer_html_a46351fb555db3b97fc531f215d2d2338"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a46351fb555db3b97fc531f215d2d2338">Player::ModifyMoney</a></div><div class="ttdeci">bool ModifyMoney(int32 amount, bool sendError=true)</div><div class="ttdef"><b>Definition</b> Player.cpp:11492</div></div>
 <div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1103</div></div>
-<div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9baf86976d74ca377eacfd672c0ee2d3e45"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baf86976d74ca377eacfd672c0ee2d3e45">SMSG_QUESTGIVER_QUEST_COMPLETE</a></div><div class="ttdeci">@ SMSG_QUESTGIVER_QUEST_COMPLETE</div><div class="ttdef"><b>Definition</b> Opcodes.h:431</div></div>
-<div class="ttc" id="aplayer__scripts_8cpp_html_a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba"><div class="ttname"><a href="../../d3/d3c/player__scripts_8cpp.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba">QUEST_APPRENTICE_ANGLER</a></div><div class="ttdeci">@ QUEST_APPRENTICE_ANGLER</div><div class="ttdef"><b>Definition</b> player_scripts.cpp:23</div></div>
+<div class="ttc" id="aclassWorldPackets_1_1Quest_1_1QuestGiverQuestComplete_html"><div class="ttname"><a href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html">WorldPackets::Quest::QuestGiverQuestComplete</a></div><div class="ttdef"><b>Definition</b> QuestPackets.h:48</div></div>
+<div class="ttc" id="aclassWorldPackets_1_1Quest_1_1QuestGiverQuestComplete_html_ab488d663cb52d92dc0d6c39f1d2e7388"><div class="ttname"><a href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388">WorldPackets::Quest::QuestGiverQuestComplete::RewardMoney</a></div><div class="ttdeci">uint32 RewardMoney</div><div class="ttdef"><b>Definition</b> QuestPackets.h:56</div></div>
+<div class="ttc" id="aclassWorldPackets_1_1Quest_1_1QuestGiverQuestComplete_html_ad9a328ee5bc7890bbd904a4d7e60f0ef"><div class="ttname"><a href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef">WorldPackets::Quest::QuestGiverQuestComplete::Write</a></div><div class="ttdeci">WorldPacket const * Write() override</div><div class="ttdef"><b>Definition</b> QuestPackets.cpp:27</div></div>
+<div class="ttc" id="aclassWorldPackets_1_1Quest_1_1QuestGiverQuestComplete_html_adc349dfbefc0b5a4c13af4b7746dbfe4"><div class="ttname"><a href="../../dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4">WorldPackets::Quest::QuestGiverQuestComplete::QuestId</a></div><div class="ttdeci">uint32 QuestId</div><div class="ttdef"><b>Definition</b> QuestPackets.h:54</div></div>
+<div class="ttc" id="aplayer__scripts_8cpp_html_a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba"><div class="ttname"><a href="../../d3/d3c/player__scripts_8cpp.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba">QUEST_APPRENTICE_ANGLER</a></div><div class="ttdeci">@ QUEST_APPRENTICE_ANGLER</div><div class="ttdef"><b>Definition</b> player_scripts.cpp:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00175">ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l11492">Player::ModifyMoney()</a>, <a class="el" href="../../#l00023">QUEST_APPRENTICE_ANGLER</a>, <a class="el" href="../../#l07153">Player::SaveToDB()</a>, <a class="el" href="../../#l05694">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00431">SMSG_QUESTGIVER_QUEST_COMPLETE</a>, and <a class="el" href="../../#l02169">Player::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00175">ACHIEVEMENT_CRITERIA_TYPE_MONEY_FROM_QUEST_REWARD</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l11492">Player::ModifyMoney()</a>, <a class="el" href="../../#l00024">QUEST_APPRENTICE_ANGLER</a>, <a class="el" href="../../#l00054">WorldPackets::Quest::QuestGiverQuestComplete::QuestId</a>, <a class="el" href="../../#l00056">WorldPackets::Quest::QuestGiverQuestComplete::RewardMoney</a>, <a class="el" href="../../#l07153">Player::SaveToDB()</a>, <a class="el" href="../../#l05694">Player::SendDirectMessage()</a>, <a class="el" href="../../#l02169">Player::UpdateAchievementCriteria()</a>, and <a class="el" href="../../#l00027">WorldPackets::Quest::QuestGiverQuestComplete::Write()</a>.</p>
 
 </div>
 </div>
@@ -671,7 +669,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d31/classQuestApprenticeAnglerPlayerScript.html">QuestApprenticeAnglerPlayerScript</a></li>
-    <li class="footer">Generated on Sat Jun 13 2026 09:06:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jun 14 2026 09:27:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

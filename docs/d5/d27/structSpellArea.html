@@ -177,152 +177,152 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1043</span>{</div>
-<div class="line"><span class="lineno"> 1044</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af4314cba9c91fd1e2c09905c17c67d22">gender</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a>)                   <span class="comment">// not in expected gender</span></div>
-<div class="line"><span class="lineno"> 1045</span>        <span class="keywordflow">if</span> (!player || <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af4314cba9c91fd1e2c09905c17c67d22">gender</a> != player-&gt;getGender())</div>
-<div class="line"><span class="lineno"> 1046</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1047</span> </div>
-<div class="line"><span class="lineno"> 1048</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a402373ff841bd2aa47b4b36a581624cc">raceMask</a>)                                <span class="comment">// not in expected race</span></div>
-<div class="line"><span class="lineno"> 1049</span>        <span class="keywordflow">if</span> (!player || !(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a402373ff841bd2aa47b4b36a581624cc">raceMask</a> &amp; player-&gt;getRaceMask()))</div>
-<div class="line"><span class="lineno"> 1050</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1051</span> </div>
-<div class="line"><span class="lineno"> 1052</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a>)                                  <span class="comment">// not in expected zone</span></div>
-<div class="line"><span class="lineno"> 1053</span>        <span class="keywordflow">if</span> (newZone != <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a> &amp;&amp; newArea != <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a>)</div>
-<div class="line"><span class="lineno"> 1054</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1055</span> </div>
-<div class="line"><span class="lineno"> 1056</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#afc99b14a3724fef7c5dd70e976a479a8">questStart</a>)                              <span class="comment">// not in expected required quest state</span></div>
-<div class="line"><span class="lineno"> 1057</span>        <span class="keywordflow">if</span> (!player || (((1 &lt;&lt; player-&gt;GetQuestStatus(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#afc99b14a3724fef7c5dd70e976a479a8">questStart</a>)) &amp; <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a7f4466dfd9ab56850a36d0d09ff84798">questStartStatus</a>) == 0))</div>
-<div class="line"><span class="lineno"> 1058</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1059</span> </div>
-<div class="line"><span class="lineno"> 1060</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f">questEnd</a>)                                <span class="comment">// not in expected forbidden quest state</span></div>
-<div class="line"><span class="lineno"> 1061</span>        <span class="keywordflow">if</span> (!player || (((1 &lt;&lt; player-&gt;GetQuestStatus(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f">questEnd</a>)) &amp; <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#ac6c7ed326628642da138bb3835db9a1d">questEndStatus</a>) == 0))</div>
-<div class="line"><span class="lineno"> 1062</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1063</span> </div>
-<div class="line"><span class="lineno"> 1064</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)                               <span class="comment">// not have expected aura</span></div>
-<div class="line"><span class="lineno"> 1065</span>        <span class="keywordflow">if</span> (!player || (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a> &gt; 0 &amp;&amp; !player-&gt;HasAura(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)) || (auraSpell &lt; 0 &amp;&amp; player-&gt;HasAura(-<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)))</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1063</span>{</div>
+<div class="line"><span class="lineno"> 1064</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af4314cba9c91fd1e2c09905c17c67d22">gender</a> != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a>)                   <span class="comment">// not in expected gender</span></div>
+<div class="line"><span class="lineno"> 1065</span>        <span class="keywordflow">if</span> (!player || <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af4314cba9c91fd1e2c09905c17c67d22">gender</a> != player-&gt;getGender())</div>
 <div class="line"><span class="lineno"> 1066</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1067</span> </div>
-<div class="line"><span class="lineno"> 1068</span>    <span class="comment">// Extra conditions -- leaving the possibility add extra conditions...</span></div>
-<div class="line"><span class="lineno"> 1069</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a>)</div>
-<div class="line"><span class="lineno"> 1070</span>    {</div>
-<div class="line"><span class="lineno"> 1071</span>        <span class="keywordflow">case</span> 58600: <span class="comment">// No fly Zone - Dalaran</span></div>
-<div class="line"><span class="lineno"> 1072</span>            {</div>
-<div class="line"><span class="lineno"> 1073</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1074</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1068</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a402373ff841bd2aa47b4b36a581624cc">raceMask</a>)                                <span class="comment">// not in expected race</span></div>
+<div class="line"><span class="lineno"> 1069</span>        <span class="keywordflow">if</span> (!player || !(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a402373ff841bd2aa47b4b36a581624cc">raceMask</a> &amp; player-&gt;getRaceMask()))</div>
+<div class="line"><span class="lineno"> 1070</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1071</span> </div>
+<div class="line"><span class="lineno"> 1072</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a>)                                  <span class="comment">// not in expected zone</span></div>
+<div class="line"><span class="lineno"> 1073</span>        <span class="keywordflow">if</span> (newZone != <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a> &amp;&amp; newArea != <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#af7e6f7b027388447a1f99e759975ca09">areaId</a>)</div>
+<div class="line"><span class="lineno"> 1074</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1075</span> </div>
-<div class="line"><span class="lineno"> 1076</span>                <a class="code hl_struct" href="../../de/df5/structAreaTableEntry.html">AreaTableEntry</a> <span class="keyword">const</span>* pArea = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(player-&gt;GetAreaId());</div>
-<div class="line"><span class="lineno"> 1077</span>                <span class="keywordflow">if</span> (!(pArea &amp;&amp; pArea-&gt;<a class="code hl_variable" href="../../de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25">flags</a> &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72afabf36ba773b9f7fbe87f43bcd173128">AREA_FLAG_NO_FLY_ZONE</a>))</div>
-<div class="line"><span class="lineno"> 1078</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1079</span>                <span class="keywordflow">if</span> (!player-&gt;HasIncreaseMountedFlightSpeedAura() &amp;&amp; !player-&gt;HasFlyAura())</div>
-<div class="line"><span class="lineno"> 1080</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1081</span>                <span class="comment">// Xinef: Underbelly elixir</span></div>
-<div class="line"><span class="lineno"> 1082</span>                <span class="keywordflow">if</span> (player-&gt;GetPositionZ() &lt; 637.0f &amp;&amp; player-&gt;HasTransformAura())</div>
-<div class="line"><span class="lineno"> 1083</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1084</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1085</span>            }</div>
-<div class="line"><span class="lineno"> 1086</span>        <span class="keywordflow">case</span> 58730: <span class="comment">// No fly Zone - Wintergrasp</span></div>
-<div class="line"><span class="lineno"> 1087</span>            {</div>
-<div class="line"><span class="lineno"> 1088</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1089</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1090</span> </div>
-<div class="line"><span class="lineno"> 1091</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
-<div class="line"><span class="lineno"> 1092</span>                <span class="keywordflow">if</span> (!Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afea5ca0e50ddf669d196ffee65523018">CanFlyIn</a>() || (!player-&gt;HasIncreaseMountedFlightSpeedAura() &amp;&amp; !player-&gt;HasFlyAura()))</div>
-<div class="line"><span class="lineno"> 1093</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1094</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1095</span>            }</div>
-<div class="line"><span class="lineno"> 1096</span>        <span class="comment">// xinef: northrend flying mounts</span></div>
-<div class="line"><span class="lineno"> 1097</span>        <span class="comment">// xinef: NE wisp and spectral gryphon</span></div>
-<div class="line"><span class="lineno"> 1098</span>        <span class="keywordflow">case</span> 55164:</div>
-<div class="line"><span class="lineno"> 1099</span>        <span class="keywordflow">case</span> 55173:</div>
-<div class="line"><span class="lineno"> 1100</span>            {</div>
-<div class="line"><span class="lineno"> 1101</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
-<div class="line"><span class="lineno"> 1102</span>                <span class="keywordflow">return</span> !Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afea5ca0e50ddf669d196ffee65523018">CanFlyIn</a>();</div>
-<div class="line"><span class="lineno"> 1103</span>            }</div>
-<div class="line"><span class="lineno"> 1104</span>        <span class="keywordflow">case</span> 57940: <span class="comment">// Essence of Wintergrasp OUTSIDE</span></div>
-<div class="line"><span class="lineno"> 1105</span>        <span class="keywordflow">case</span> 58045: <span class="comment">// Essence of Wintergrasp INSIDE</span></div>
-<div class="line"><span class="lineno"> 1106</span>            {</div>
-<div class="line"><span class="lineno"> 1107</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1108</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1109</span> </div>
-<div class="line"><span class="lineno"> 1110</span>                <span class="keywordflow">if</span> (<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) != 1)</div>
-<div class="line"><span class="lineno"> 1111</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1112</span> </div>
-<div class="line"><span class="lineno"> 1113</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldByBattleId(<a class="code hl_enumvalue" href="../../df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a>);</div>
-<div class="line"><span class="lineno"> 1114</span>                <span class="keywordflow">if</span> (!Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>())</div>
-<div class="line"><span class="lineno"> 1115</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1116</span>                <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ac1ae4a44562bdba11ba28b5b2fb2f6a6">CONFIG_WINTERGRASP_ESSENCE_BOTH_FACTIONS</a>) &amp;&amp; player-&gt;GetTeamId() != Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">GetDefenderTeam</a>())</div>
-<div class="line"><span class="lineno"> 1117</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1118</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1119</span>            }</div>
-<div class="line"><span class="lineno"> 1120</span>        <span class="keywordflow">case</span> 74411: <span class="comment">// Battleground - Dampening</span></div>
-<div class="line"><span class="lineno"> 1121</span>            {</div>
-<div class="line"><span class="lineno"> 1122</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1123</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1124</span> </div>
-<div class="line"><span class="lineno"> 1125</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId()))</div>
-<div class="line"><span class="lineno"> 1126</span>                    <span class="keywordflow">return</span> bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>();</div>
-<div class="line"><span class="lineno"> 1127</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1128</span>            }</div>
-<div class="line"><span class="lineno"> 1129</span>        <span class="keywordflow">case</span> 68719: <span class="comment">// Oil Refinery - Isle of Conquest.</span></div>
-<div class="line"><span class="lineno"> 1130</span>        <span class="keywordflow">case</span> 68720: <span class="comment">// Quarry - Isle of Conquest.</span></div>
-<div class="line"><span class="lineno"> 1131</span>            {</div>
-<div class="line"><span class="lineno"> 1132</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1133</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1134</span> </div>
-<div class="line"><span class="lineno"> 1135</span>                <a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = player-&gt;GetBattleground();</div>
-<div class="line"><span class="lineno"> 1136</span>                <span class="keywordflow">if</span> (!bg || bg-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#adfd6af85ad435ecdab7129e810ba2319">GetBgTypeID</a>(<span class="keyword">true</span>) != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aaef9ddb244c12d22800aee24c3b637a2a0bbe26d588c3dbd56c898f29589caabf">BATTLEGROUND_IC</a>)</div>
+<div class="line"><span class="lineno"> 1076</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#afc99b14a3724fef7c5dd70e976a479a8">questStart</a>)                              <span class="comment">// not in expected required quest state</span></div>
+<div class="line"><span class="lineno"> 1077</span>        <span class="keywordflow">if</span> (!player || (((1 &lt;&lt; player-&gt;GetQuestStatus(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#afc99b14a3724fef7c5dd70e976a479a8">questStart</a>)) &amp; <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a7f4466dfd9ab56850a36d0d09ff84798">questStartStatus</a>) == 0))</div>
+<div class="line"><span class="lineno"> 1078</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1079</span> </div>
+<div class="line"><span class="lineno"> 1080</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f">questEnd</a>)                                <span class="comment">// not in expected forbidden quest state</span></div>
+<div class="line"><span class="lineno"> 1081</span>        <span class="keywordflow">if</span> (!player || (((1 &lt;&lt; player-&gt;GetQuestStatus(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f">questEnd</a>)) &amp; <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#ac6c7ed326628642da138bb3835db9a1d">questEndStatus</a>) == 0))</div>
+<div class="line"><span class="lineno"> 1082</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1083</span> </div>
+<div class="line"><span class="lineno"> 1084</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)                               <span class="comment">// not have expected aura</span></div>
+<div class="line"><span class="lineno"> 1085</span>        <span class="keywordflow">if</span> (!player || (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a> &gt; 0 &amp;&amp; !player-&gt;HasAura(<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)) || (auraSpell &lt; 0 &amp;&amp; player-&gt;HasAura(-<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#adaf2f6f7c56701fe42a2674aca74fba0">auraSpell</a>)))</div>
+<div class="line"><span class="lineno"> 1086</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1087</span> </div>
+<div class="line"><span class="lineno"> 1088</span>    <span class="comment">// Extra conditions -- leaving the possibility add extra conditions...</span></div>
+<div class="line"><span class="lineno"> 1089</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a>)</div>
+<div class="line"><span class="lineno"> 1090</span>    {</div>
+<div class="line"><span class="lineno"> 1091</span>        <span class="keywordflow">case</span> 58600: <span class="comment">// No fly Zone - Dalaran</span></div>
+<div class="line"><span class="lineno"> 1092</span>            {</div>
+<div class="line"><span class="lineno"> 1093</span>                <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1094</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1095</span> </div>
+<div class="line"><span class="lineno"> 1096</span>                <a class="code hl_struct" href="../../de/df5/structAreaTableEntry.html">AreaTableEntry</a> <span class="keyword">const</span>* pArea = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(player-&gt;GetAreaId());</div>
+<div class="line"><span class="lineno"> 1097</span>                <span class="keywordflow">if</span> (!(pArea &amp;&amp; pArea-&gt;<a class="code hl_variable" href="../../de/df5/structAreaTableEntry.html#a5854e3f565d827dbad3d9a36f99e9a25">flags</a> &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72afabf36ba773b9f7fbe87f43bcd173128">AREA_FLAG_NO_FLY_ZONE</a>))</div>
+<div class="line"><span class="lineno"> 1098</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1099</span>                <span class="keywordflow">if</span> (!player-&gt;HasIncreaseMountedFlightSpeedAura() &amp;&amp; !player-&gt;HasFlyAura())</div>
+<div class="line"><span class="lineno"> 1100</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1101</span>                <span class="comment">// Xinef: Underbelly elixir</span></div>
+<div class="line"><span class="lineno"> 1102</span>                <span class="keywordflow">if</span> (player-&gt;GetPositionZ() &lt; 637.0f &amp;&amp; player-&gt;HasTransformAura())</div>
+<div class="line"><span class="lineno"> 1103</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1104</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1105</span>            }</div>
+<div class="line"><span class="lineno"> 1106</span>        <span class="keywordflow">case</span> 58730: <span class="comment">// No fly Zone - Wintergrasp</span></div>
+<div class="line"><span class="lineno"> 1107</span>            {</div>
+<div class="line"><span class="lineno"> 1108</span>                <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1109</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1110</span> </div>
+<div class="line"><span class="lineno"> 1111</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
+<div class="line"><span class="lineno"> 1112</span>                <span class="keywordflow">if</span> (!Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afea5ca0e50ddf669d196ffee65523018">CanFlyIn</a>() || (!player-&gt;HasIncreaseMountedFlightSpeedAura() &amp;&amp; !player-&gt;HasFlyAura()))</div>
+<div class="line"><span class="lineno"> 1113</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1114</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1115</span>            }</div>
+<div class="line"><span class="lineno"> 1116</span>        <span class="comment">// xinef: northrend flying mounts</span></div>
+<div class="line"><span class="lineno"> 1117</span>        <span class="comment">// xinef: NE wisp and spectral gryphon</span></div>
+<div class="line"><span class="lineno"> 1118</span>        <span class="keywordflow">case</span> 55164:</div>
+<div class="line"><span class="lineno"> 1119</span>        <span class="keywordflow">case</span> 55173:</div>
+<div class="line"><span class="lineno"> 1120</span>            {</div>
+<div class="line"><span class="lineno"> 1121</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
+<div class="line"><span class="lineno"> 1122</span>                <span class="keywordflow">return</span> !Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afea5ca0e50ddf669d196ffee65523018">CanFlyIn</a>();</div>
+<div class="line"><span class="lineno"> 1123</span>            }</div>
+<div class="line"><span class="lineno"> 1124</span>        <span class="keywordflow">case</span> 57940: <span class="comment">// Essence of Wintergrasp OUTSIDE</span></div>
+<div class="line"><span class="lineno"> 1125</span>        <span class="keywordflow">case</span> 58045: <span class="comment">// Essence of Wintergrasp INSIDE</span></div>
+<div class="line"><span class="lineno"> 1126</span>            {</div>
+<div class="line"><span class="lineno"> 1127</span>                <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1128</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1129</span> </div>
+<div class="line"><span class="lineno"> 1130</span>                <span class="keywordflow">if</span> (<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) != 1)</div>
+<div class="line"><span class="lineno"> 1131</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1132</span> </div>
+<div class="line"><span class="lineno"> 1133</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* Bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldByBattleId(<a class="code hl_enumvalue" href="../../df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a>);</div>
+<div class="line"><span class="lineno"> 1134</span>                <span class="keywordflow">if</span> (!Bf || Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>())</div>
+<div class="line"><span class="lineno"> 1135</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1136</span>                <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ac1ae4a44562bdba11ba28b5b2fb2f6a6">CONFIG_WINTERGRASP_ESSENCE_BOTH_FACTIONS</a>) &amp;&amp; player-&gt;GetTeamId() != Bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">GetDefenderTeam</a>())</div>
 <div class="line"><span class="lineno"> 1137</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1138</span> </div>
-<div class="line"><span class="lineno"> 1139</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> nodeType = <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 68719 ? <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#a257626efe0e7f74e034fc1202dbfea07a43095ce2c82f3a9cf2a6f7d496b78af0">NODE_TYPE_REFINERY</a> : <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#a257626efe0e7f74e034fc1202dbfea07a9742305a0d95ee6acacae283891dcd3e">NODE_TYPE_QUARRY</a>;</div>
-<div class="line"><span class="lineno"> 1140</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> nodeState = player-&gt;GetTeamId() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#aa3b18929571d0cc0cd2b821c243a1dfea7320ed68f6222cdd1b03d71e24eba3bc">NODE_STATE_CONTROLLED_A</a> : <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#aa3b18929571d0cc0cd2b821c243a1dfeaca966fa9f844bfee2b29fbe01d0cb6bb">NODE_STATE_CONTROLLED_H</a>;</div>
-<div class="line"><span class="lineno"> 1141</span> </div>
-<div class="line"><span class="lineno"> 1142</span>                <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#abab9f0ab1b01d817c0a6002c317c41a6">ToBattlegroundIC</a>()-&gt;<a class="code hl_function" href="../../dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30">GetNodeState</a>(nodeType) == nodeState;</div>
-<div class="line"><span class="lineno"> 1143</span>            }</div>
-<div class="line"><span class="lineno"> 1144</span>        <span class="keywordflow">case</span> 56618: <span class="comment">// Horde Controls Factory Phase Shift</span></div>
-<div class="line"><span class="lineno"> 1145</span>        <span class="keywordflow">case</span> 56617: <span class="comment">// Alliance Controls Factory Phase Shift</span></div>
-<div class="line"><span class="lineno"> 1146</span>            {</div>
-<div class="line"><span class="lineno"> 1147</span>                <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1148</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1149</span> </div>
-<div class="line"><span class="lineno"> 1150</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
-<div class="line"><span class="lineno"> 1151</span> </div>
-<div class="line"><span class="lineno"> 1152</span>                <span class="keywordflow">if</span> (!bf || bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afcaf139b5cadab6dd3eb57d6807dbcc6">GetTypeId</a>() != <a class="code hl_enumvalue" href="../../df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a>)</div>
+<div class="line"><span class="lineno"> 1138</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1139</span>            }</div>
+<div class="line"><span class="lineno"> 1140</span>        <span class="keywordflow">case</span> 74411: <span class="comment">// Battleground - Dampening</span></div>
+<div class="line"><span class="lineno"> 1141</span>            {</div>
+<div class="line"><span class="lineno"> 1142</span>                <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1143</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1144</span> </div>
+<div class="line"><span class="lineno"> 1145</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId()))</div>
+<div class="line"><span class="lineno"> 1146</span>                    <span class="keywordflow">return</span> bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>();</div>
+<div class="line"><span class="lineno"> 1147</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1148</span>            }</div>
+<div class="line"><span class="lineno"> 1149</span>        <span class="keywordflow">case</span> 68719: <span class="comment">// Oil Refinery - Isle of Conquest.</span></div>
+<div class="line"><span class="lineno"> 1150</span>        <span class="keywordflow">case</span> 68720: <span class="comment">// Quarry - Isle of Conquest.</span></div>
+<div class="line"><span class="lineno"> 1151</span>            {</div>
+<div class="line"><span class="lineno"> 1152</span>                <span class="keywordflow">if</span> (!player)</div>
 <div class="line"><span class="lineno"> 1153</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1154</span> </div>
-<div class="line"><span class="lineno"> 1155</span>                <span class="comment">// team that controls the workshop in the specified area</span></div>
-<div class="line"><span class="lineno"> 1156</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> team = bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a1605eebf64a203761f5aeba106b2b325">GetData</a>(newArea);</div>
-<div class="line"><span class="lineno"> 1157</span> </div>
-<div class="line"><span class="lineno"> 1158</span>                <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
-<div class="line"><span class="lineno"> 1159</span>                    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 56618;</div>
-<div class="line"><span class="lineno"> 1160</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
-<div class="line"><span class="lineno"> 1161</span>                    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 56617;</div>
-<div class="line"><span class="lineno"> 1162</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1163</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1164</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1165</span>            }</div>
-<div class="line"><span class="lineno"> 1166</span>        <span class="comment">// Hellscream&#39;s Warsong</span></div>
-<div class="line"><span class="lineno"> 1167</span>        <span class="keywordflow">case</span> 73816:</div>
-<div class="line"><span class="lineno"> 1168</span>        <span class="keywordflow">case</span> 73818:</div>
-<div class="line"><span class="lineno"> 1169</span>        <span class="keywordflow">case</span> 73819:</div>
-<div class="line"><span class="lineno"> 1170</span>        <span class="keywordflow">case</span> 73820:</div>
-<div class="line"><span class="lineno"> 1171</span>        <span class="keywordflow">case</span> 73821:</div>
-<div class="line"><span class="lineno"> 1172</span>        <span class="keywordflow">case</span> 73822:</div>
-<div class="line"><span class="lineno"> 1173</span>        <span class="comment">// Strength of Wrynn</span></div>
-<div class="line"><span class="lineno"> 1174</span>        <span class="keywordflow">case</span> 73762:</div>
-<div class="line"><span class="lineno"> 1175</span>        <span class="keywordflow">case</span> 73824:</div>
-<div class="line"><span class="lineno"> 1176</span>        <span class="keywordflow">case</span> 73825:</div>
-<div class="line"><span class="lineno"> 1177</span>        <span class="keywordflow">case</span> 73826:</div>
-<div class="line"><span class="lineno"> 1178</span>        <span class="keywordflow">case</span> 73827:</div>
-<div class="line"><span class="lineno"> 1179</span>        <span class="keywordflow">case</span> 73828:</div>
-<div class="line"><span class="lineno"> 1180</span>            <span class="keywordflow">if</span> (player)</div>
-<div class="line"><span class="lineno"> 1181</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* s = <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>*<span class="keyword">&gt;</span>(player)-&gt;GetInstanceScript())</div>
-<div class="line"><span class="lineno"> 1182</span>                    <span class="keywordflow">return</span> s-&gt;GetData(251 <span class="comment">/*DATA_BUFF_AVAILABLE*/</span>) != 0;</div>
-<div class="line"><span class="lineno"> 1183</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1184</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1185</span>    }</div>
-<div class="line"><span class="lineno"> 1186</span> </div>
-<div class="line"><span class="lineno"> 1187</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1188</span>}</div>
+<div class="line"><span class="lineno"> 1155</span>                <a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = player-&gt;GetBattleground();</div>
+<div class="line"><span class="lineno"> 1156</span>                <span class="keywordflow">if</span> (!bg || bg-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#adfd6af85ad435ecdab7129e810ba2319">GetBgTypeID</a>(<span class="keyword">true</span>) != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aaef9ddb244c12d22800aee24c3b637a2a0bbe26d588c3dbd56c898f29589caabf">BATTLEGROUND_IC</a>)</div>
+<div class="line"><span class="lineno"> 1157</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1158</span> </div>
+<div class="line"><span class="lineno"> 1159</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> nodeType = <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 68719 ? <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#a257626efe0e7f74e034fc1202dbfea07a43095ce2c82f3a9cf2a6f7d496b78af0">NODE_TYPE_REFINERY</a> : <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#a257626efe0e7f74e034fc1202dbfea07a9742305a0d95ee6acacae283891dcd3e">NODE_TYPE_QUARRY</a>;</div>
+<div class="line"><span class="lineno"> 1160</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> nodeState = player-&gt;GetTeamId() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#aa3b18929571d0cc0cd2b821c243a1dfea7320ed68f6222cdd1b03d71e24eba3bc">NODE_STATE_CONTROLLED_A</a> : <a class="code hl_enumvalue" href="../../d0/d91/BattlegroundIC_8h.html#aa3b18929571d0cc0cd2b821c243a1dfeaca966fa9f844bfee2b29fbe01d0cb6bb">NODE_STATE_CONTROLLED_H</a>;</div>
+<div class="line"><span class="lineno"> 1161</span> </div>
+<div class="line"><span class="lineno"> 1162</span>                <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../df/da7/classBattleground.html#abab9f0ab1b01d817c0a6002c317c41a6">ToBattlegroundIC</a>()-&gt;<a class="code hl_function" href="../../dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30">GetNodeState</a>(nodeType) == nodeState;</div>
+<div class="line"><span class="lineno"> 1163</span>            }</div>
+<div class="line"><span class="lineno"> 1164</span>        <span class="keywordflow">case</span> 56618: <span class="comment">// Horde Controls Factory Phase Shift</span></div>
+<div class="line"><span class="lineno"> 1165</span>        <span class="keywordflow">case</span> 56617: <span class="comment">// Alliance Controls Factory Phase Shift</span></div>
+<div class="line"><span class="lineno"> 1166</span>            {</div>
+<div class="line"><span class="lineno"> 1167</span>                <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1168</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1169</span> </div>
+<div class="line"><span class="lineno"> 1170</span>                <a class="code hl_class" href="../../d6/d26/classBattlefield.html">Battlefield</a>* bf = <a class="code hl_define" href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldToZoneId(player-&gt;GetZoneId());</div>
+<div class="line"><span class="lineno"> 1171</span> </div>
+<div class="line"><span class="lineno"> 1172</span>                <span class="keywordflow">if</span> (!bf || bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#afcaf139b5cadab6dd3eb57d6807dbcc6">GetTypeId</a>() != <a class="code hl_enumvalue" href="../../df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a>)</div>
+<div class="line"><span class="lineno"> 1173</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1174</span> </div>
+<div class="line"><span class="lineno"> 1175</span>                <span class="comment">// team that controls the workshop in the specified area</span></div>
+<div class="line"><span class="lineno"> 1176</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> team = bf-&gt;<a class="code hl_function" href="../../d6/d26/classBattlefield.html#a1605eebf64a203761f5aeba106b2b325">GetData</a>(newArea);</div>
+<div class="line"><span class="lineno"> 1177</span> </div>
+<div class="line"><span class="lineno"> 1178</span>                <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
+<div class="line"><span class="lineno"> 1179</span>                    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 56618;</div>
+<div class="line"><span class="lineno"> 1180</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno"> 1181</span>                    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/d27/structSpellArea.html#a8a299d901e2c13cdc3c00d6cf0a856d3">spellId</a> == 56617;</div>
+<div class="line"><span class="lineno"> 1182</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1183</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1184</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1185</span>            }</div>
+<div class="line"><span class="lineno"> 1186</span>        <span class="comment">// Hellscream&#39;s Warsong</span></div>
+<div class="line"><span class="lineno"> 1187</span>        <span class="keywordflow">case</span> 73816:</div>
+<div class="line"><span class="lineno"> 1188</span>        <span class="keywordflow">case</span> 73818:</div>
+<div class="line"><span class="lineno"> 1189</span>        <span class="keywordflow">case</span> 73819:</div>
+<div class="line"><span class="lineno"> 1190</span>        <span class="keywordflow">case</span> 73820:</div>
+<div class="line"><span class="lineno"> 1191</span>        <span class="keywordflow">case</span> 73821:</div>
+<div class="line"><span class="lineno"> 1192</span>        <span class="keywordflow">case</span> 73822:</div>
+<div class="line"><span class="lineno"> 1193</span>        <span class="comment">// Strength of Wrynn</span></div>
+<div class="line"><span class="lineno"> 1194</span>        <span class="keywordflow">case</span> 73762:</div>
+<div class="line"><span class="lineno"> 1195</span>        <span class="keywordflow">case</span> 73824:</div>
+<div class="line"><span class="lineno"> 1196</span>        <span class="keywordflow">case</span> 73825:</div>
+<div class="line"><span class="lineno"> 1197</span>        <span class="keywordflow">case</span> 73826:</div>
+<div class="line"><span class="lineno"> 1198</span>        <span class="keywordflow">case</span> 73827:</div>
+<div class="line"><span class="lineno"> 1199</span>        <span class="keywordflow">case</span> 73828:</div>
+<div class="line"><span class="lineno"> 1200</span>            <span class="keywordflow">if</span> (player)</div>
+<div class="line"><span class="lineno"> 1201</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* s = <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>*<span class="keyword">&gt;</span>(player)-&gt;GetInstanceScript())</div>
+<div class="line"><span class="lineno"> 1202</span>                    <span class="keywordflow">return</span> s-&gt;GetData(251 <span class="comment">/*DATA_BUFF_AVAILABLE*/</span>) != 0;</div>
+<div class="line"><span class="lineno"> 1203</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1204</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1205</span>    }</div>
+<div class="line"><span class="lineno"> 1206</span> </div>
+<div class="line"><span class="lineno"> 1207</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1208</span>}</div>
 <div class="ttc" id="aBattlefieldMgr_8h_html_a4545b2a440043037e8dad52c0f644f48"><div class="ttname"><a href="../../db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a></div><div class="ttdeci">#define sBattlefieldMgr</div><div class="ttdef"><b>Definition</b> BattlefieldMgr.h:79</div></div>
 <div class="ttc" id="aBattlefield_8h_html_a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd"><div class="ttname"><a href="../../df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a></div><div class="ttdeci">@ BATTLEFIELD_WG</div><div class="ttdef"><b>Definition</b> Battlefield.h:30</div></div>
 <div class="ttc" id="aBattlefield_8h_html_aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010"><div class="ttname"><a href="../../df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a></div><div class="ttdeci">@ BATTLEFIELD_BATTLEID_WG</div><div class="ttdef"><b>Definition</b> Battlefield.h:36</div></div>
@@ -382,7 +382,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -398,7 +398,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -428,7 +428,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -444,7 +444,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -460,7 +460,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -476,7 +476,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -492,7 +492,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -508,7 +508,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -524,7 +524,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01042">IsFitToRequirements()</a>, and <a class="el" href="../../#l02791">SpellMgr::LoadSpellAreas()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01062">IsFitToRequirements()</a>, and <a class="el" href="../../#l02811">SpellMgr::LoadSpellAreas()</a>.</p>
 
 </div>
 </div>
@@ -538,7 +538,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d27/structSpellArea.html">SpellArea</a></li>
-    <li class="footer">Generated on Sat Jun 13 2026 09:06:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jun 14 2026 09:27:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

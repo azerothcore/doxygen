@@ -1,5 +1,15 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adac2b4031d0deddc401159cac42ab36e":[8,0,0,0,1,3,5,9,2,13,46,61],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43":[8,0,0,0,1,3,5,9,2,13,46,29],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53":[8,0,0,0,1,3,5,9,2,13,46,14],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ae84684305059a1606f582290905e206e":[8,0,0,0,1,3,5,9,2,13,46,70],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aea69465d125cca0657956b9f9d40be17":[8,0,0,0,1,3,5,9,2,13,46,12],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aebf3efa796179c4cf450caa64d567448":[8,0,0,0,1,3,5,9,2,13,46,72],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aec8e6370f7859a47a5348de489da1a56":[8,0,0,0,1,3,5,9,2,13,46,18],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af705f331e78877c4f65918835eba1bb3":[8,0,0,0,1,3,5,9,2,13,46,58],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e":[8,0,0,0,1,3,5,9,2,13,46,60],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af9d254f5e781d085ed9bbe241564f845":[8,0,0,0,1,3,5,9,2,13,46,25],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af9dde7a188d35d2ff6c520391261e2f6":[8,0,0,0,1,3,5,9,2,13,46,77],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afbff7fd22a872347e240e81385a98c61":[8,0,0,0,1,3,5,9,2,13,46,49],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afc9b176b68234039e640febab5448faf":[8,0,0,0,1,3,5,9,2,13,46,73],
@@ -239,15 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4357],
 "d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4357,3],
 "d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[7,0,4357,1],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4357,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4357,0],
-"d3/d41/classGameObjectModelOwnerImpl.html":[7,0,1113],
-"d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[7,0,1113,6],
-"d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[7,0,1113,2],
-"d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0":[7,0,1113,8],
-"d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988":[7,0,1113,5],
-"d3/d41/classGameObjectModelOwnerImpl.html#acb968e3bd921aac111a2e06f2604b040":[7,0,1113,3],
-"d3/d41/classGameObjectModelOwnerImpl.html#ad0b9a01502c49f16a47e35694d3e6c10":[7,0,1113,4],
-"d3/d41/classGameObjectModelOwnerImpl.html#adb8b3b555ad6cd75c1ee7a1f71a08af7":[7,0,1113,0],
-"d3/d41/classGameObjectModelOwnerImpl.html#ae47eb25d16de37122042402443db6f3d":[7,0,1113,7]
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4357,2]
 };

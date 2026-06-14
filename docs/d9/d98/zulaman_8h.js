@@ -25,8 +25,8 @@ var zulaman_8h =
       [ "NPC_EAGLE_TRASH_AGGRO_TRIGGER", "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea70163ed25437b64fe93c055a7dc76d54", null ]
     ] ],
     [ "DataTypes", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22", [
-      [ "DATA_NALORAKK", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a30ffad0a1864462111d7e7d771c17139", null ],
       [ "DATA_AKILZON", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a102a7915a44f9efd4dc362e2de38f82c", null ],
+      [ "DATA_NALORAKK", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a30ffad0a1864462111d7e7d771c17139", null ],
       [ "DATA_JANALAI", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a803ff78288c8c6ae96d5c0d38c1b4552", null ],
       [ "DATA_HALAZZI", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a93ba73dd62afe072c5298db34d3a1631", null ],
       [ "DATA_HEXLORD", "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a5e4cc04f171279d2ff3e5fc93467807f", null ],

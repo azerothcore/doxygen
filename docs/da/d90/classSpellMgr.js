@@ -21,6 +21,7 @@ var classSpellMgr =
     [ "GetSetOfSpellsInSpellGroup", "da/d90/classSpellMgr.html#a71f71fcd828d7b06bf58083c908318a1", null ],
     [ "GetSetOfSpellsInSpellGroup", "da/d90/classSpellMgr.html#ac8c859182abf639bb312323979eb3ae2", null ],
     [ "GetSkillLineAbilityMapBounds", "da/d90/classSpellMgr.html#a3ae3376eeaa7e4a445075d651d3493aa", null ],
+    [ "GetSkillRankSpells", "da/d90/classSpellMgr.html#a4706085adc8e19e9acf9c8219aaa4873", null ],
     [ "GetSpellAreaForAreaMapBounds", "da/d90/classSpellMgr.html#ae41eaa751f7d67dfa0c38aa55b2f6c7e", null ],
     [ "GetSpellAreaForAuraMapBounds", "da/d90/classSpellMgr.html#a65d4c8ef866eb02e4a8e81b3166286c1", null ],
     [ "GetSpellAreaForQuestEndMapBounds", "da/d90/classSpellMgr.html#a24a05bd91ad57dcef7fa0fee73daa867", null ],

@@ -70,7 +70,7 @@ var searchData=
   ['ambassadorevents_67',['AmbassadorEvents',['../d1/da0/boss__ambassador__flamelash_8cpp.html#a6408fb2256d254e95ca33854b1e92f3e',1,'boss_ambassador_flamelash.cpp']]],
   ['amberpineouthouse_68',['AmberpineOuthouse',['../d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5',1,'go_scripts.cpp']]],
   ['amedata_69',['AmeData',['../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0',1,'zone_ungoro_crater.cpp']]],
-  ['amplifydish_70',['AmplifyDish',['../db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258e',1,'spell_item.cpp']]],
+  ['amplificationdish_70',['AmplificationDish',['../db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19',1,'spell_item.cpp']]],
   ['anactions_71',['ANActions',['../dc/da4/azjol__nerub_8h.html#a353c804af4bd1bd2a5d5193704607689',1,'azjol_nerub.h']]],
   ['ancestralwolf_72',['AncestralWolf',['../d0/d80/zone__hellfire__peninsula_8cpp.html#ae0ad636572003d2f340b9f5853329b31',1,'zone_hellfire_peninsula.cpp']]],
   ['ancientmisc_73',['AncientMisc',['../db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068',1,'zone_felwood.cpp']]],
