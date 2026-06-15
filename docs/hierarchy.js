@@ -464,6 +464,7 @@ var hierarchy =
         [ "spell_mage_clearcasting", "d4/d03/classspell__mage__clearcasting.html", null ],
         [ "spell_mage_combustion", "dd/dcd/classspell__mage__combustion.html", null ],
         [ "spell_mage_combustion_proc", "d5/df8/classspell__mage__combustion__proc.html", null ],
+        [ "spell_mage_deep_freeze_immunity_state", "dc/dfb/classspell__mage__deep__freeze__immunity__state.html", null ],
         [ "spell_mage_dragon_breath", "dd/d27/classspell__mage__dragon__breath.html", null ],
         [ "spell_mage_empowered_fire", "df/df8/classspell__mage__empowered__fire.html", null ],
         [ "spell_mage_fingers_of_frost", "da/d96/classspell__mage__fingers__of__frost.html", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX358 =
 {
+"dd/dfa/structboss__nightbane.html#a16e5dba8c2187d2f8b175360f40c299c":[7,0,654,12],
+"dd/dfa/structboss__nightbane.html#a1709459f82758e690b6f5f667ac113b2":[7,0,654,1],
+"dd/dfa/structboss__nightbane.html#a2588f568133a843cb2bd6ef97794a03f":[7,0,654,20],
+"dd/dfa/structboss__nightbane.html#a28ded4432525290ff7e81d03545d46cf":[7,0,654,23],
 "dd/dfa/structboss__nightbane.html#a2cdc3d7e7f83391eaf96e92f20ea703b":[7,0,654,9],
 "dd/dfa/structboss__nightbane.html#a39ed84d01215f9f8427e5c599e424927":[7,0,654,22],
 "dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[7,0,654,13],
@@ -128,11 +132,11 @@ var NAVTREEINDEX358 =
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a2dcef4fe57880ba725dff52455a7a428":[7,0,1625,1],
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a6dc41c4fa5531bd1999daaef3972c5a2":[7,0,1625,2],
 "dd/dff/structnpc__anub__ar__crusher__champion.html#a8b8dc51f529d361b40447f6f1b398a4d":[7,0,1625,0],
-"de/d00/classspell__voljin__war__drums.html":[7,0,4237],
-"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[7,0,4237,3],
-"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[7,0,4237,0],
-"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[7,0,4237,1],
-"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[7,0,4237,2],
+"de/d00/classspell__voljin__war__drums.html":[7,0,4238],
+"de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[7,0,4238,3],
+"de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[7,0,4238,0],
+"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[7,0,4238,1],
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[7,0,4238,2],
 "de/d00/structboss__roar.html":[7,0,690],
 "de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[7,0,690,2],
 "de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[7,0,690,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX358 =
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f":[8,0,0,0,1,2,11,0,1,7,5],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf":[8,0,0,0,1,2,11,0,1,7,13],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb":[8,0,0,0,1,2,11,0,1,7,0],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba":[8,0,0,0,1,2,11,0,1,7,1],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a":[8,0,0,0,1,2,11,0,1,7,25],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f":[8,0,0,0,1,2,11,0,1,7,19],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063":[8,0,0,0,1,2,11,0,1,7,20],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3":[8,0,0,0,1,2,11,0,1,7,23]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba":[8,0,0,0,1,2,11,0,1,7,1]
 };

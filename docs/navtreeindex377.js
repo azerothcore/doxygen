@@ -1,5 +1,9 @@
 var NAVTREEINDEX377 =
 {
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d":[8,0,0,0,1,2,41,9,65,2],
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa59658af2a6f300facab883172b0cca94":[8,0,0,0,1,2,41,9,65,6],
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74":[8,0,0,0,1,2,41,9,65,4],
+"de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc":[8,0,0,0,1,2,41,9,65,5],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83":[8,0,0,0,1,2,41,9,65,0],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c":[8,0,0,0,1,2,41,9,65,1],
 "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876":[8,0,0,0,1,2,41,9,65,3],
@@ -201,10 +205,10 @@ var NAVTREEINDEX377 =
 "de/d31/classspell__fatal__strike.html#a3f7a01fcf8ef7cb151e29406b2b682a9":[7,0,2934,3],
 "de/d31/classspell__fatal__strike.html#ac628b5ddf18bae3b18b2512f1a92149f":[7,0,2934,2],
 "de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa":[7,0,2934,0],
-"de/d32/classspell__mage__glyph__of__icy__veins.html":[7,0,3572],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a396023bc98b70b6357630e45a2278afc":[7,0,3572,1],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a6af4e80cf3c88320a6157e986a4b719f":[7,0,3572,2],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3572,0],
+"de/d32/classspell__mage__glyph__of__icy__veins.html":[7,0,3573],
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a396023bc98b70b6357630e45a2278afc":[7,0,3573,1],
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a6af4e80cf3c88320a6157e986a4b719f":[7,0,3573,2],
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3573,0],
 "de/d33/classHordeChannelMgr.html":[7,0,1296],
 "de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1296,0],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933],
@@ -245,9 +249,5 @@ var NAVTREEINDEX377 =
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a9e90b4dd34a8a81b499b1402fbbaf218":[7,0,1321,0,13],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aa3433b8a185c31d8c00ae1ffab10baa2":[7,0,1321,0,2],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aaea6ab9b71d52377ddebd7b54b354c1e":[7,0,1321,0,3],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aaf1409ef7e2c3ef43d0704f586a75312":[7,0,1321,0,19],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ab14fa9416d0971ed84d659cad15f7065":[7,0,1321,0,0],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ab671339f99ddc498950ef868042fd4a4":[7,0,1321,0,18],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ad0d4cd6646c52dba390193b38df00d6f":[7,0,1321,0,5],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ad64c44c62f429cbca6c2e720a35a7b41":[7,0,1321,0,6]
+"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#aaf1409ef7e2c3ef43d0704f586a75312":[7,0,1321,0,19]
 };

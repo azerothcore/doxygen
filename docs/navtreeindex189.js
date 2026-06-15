@@ -1,6 +1,6 @@
 var NAVTREEINDEX189 =
 {
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[7,0,13,17,0,6],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[5,0,34,17,0,6],
 "d6/dd8/classboss__arlokk.html":[7,0,402],
 "d6/dd8/classboss__arlokk.html#a55bb21239e05acff18d2fb147449800e":[7,0,402,1],
 "d6/dd8/classboss__arlokk.html#a58b8cc7a198784b48faaab1b069d397c":[7,0,402,2],

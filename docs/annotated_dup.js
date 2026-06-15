@@ -4118,6 +4118,7 @@ var annotated_dup =
     [ "spell_mage_cold_snap", "d4/dcd/classspell__mage__cold__snap.html", "d4/dcd/classspell__mage__cold__snap" ],
     [ "spell_mage_combustion", "dd/dcd/classspell__mage__combustion.html", "dd/dcd/classspell__mage__combustion" ],
     [ "spell_mage_combustion_proc", "d5/df8/classspell__mage__combustion__proc.html", "d5/df8/classspell__mage__combustion__proc" ],
+    [ "spell_mage_deep_freeze_immunity_state", "dc/dfb/classspell__mage__deep__freeze__immunity__state.html", "dc/dfb/classspell__mage__deep__freeze__immunity__state" ],
     [ "spell_mage_dragon_breath", "dd/d27/classspell__mage__dragon__breath.html", "dd/d27/classspell__mage__dragon__breath" ],
     [ "spell_mage_empowered_fire", "df/df8/classspell__mage__empowered__fire.html", "df/df8/classspell__mage__empowered__fire" ],
     [ "spell_mage_fingers_of_frost", "da/d96/classspell__mage__fingers__of__frost.html", "da/d96/classspell__mage__fingers__of__frost" ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX389 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b252af59b506be33acf905a27eab247":[8,0,0,0,1,1,0,0,1,1,59],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9b910305203dac1dadaed30a59e16ec9":[8,0,0,0,1,1,0,0,1,1,213],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9c117ed798fac970e320276a1c751bab":[8,0,0,0,1,1,0,0,1,1,240],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9dcca0a2d3520569fa3956b6da86f5e9":[8,0,0,0,1,1,0,0,1,1,322],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9e05ac6125554ce6feb96b091c88b68c":[8,0,0,0,1,1,0,0,1,1,118],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9f53b18d4e728f4b3f2811d3c6598b65":[8,0,0,0,1,1,0,0,1,1,249],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9fb31a6ff391ca8b955a51b557092b08":[8,0,0,0,1,1,0,0,1,1,358],
@@ -245,9 +249,5 @@ var NAVTREEINDEX389 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d":[8,0,0,0,1,3,2,4,7,5,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4af80aaa14ff05f8c4fbfb1b502997d25b":[8,0,0,0,1,3,2,4,7,5,2],
 "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643":[8,0,0,0,1,3,2,4,7,7],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,7,7,5],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a28e73bd4ce105114b8dd8e3626bfe762":[8,0,0,0,1,3,2,4,7,7,2],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,7,7,0],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,2,4,7,7,3],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643ac74b3463adde05b1cf5790c1ea942827":[8,0,0,0,1,3,2,4,7,7,1]
+"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,7,7,5]
 };

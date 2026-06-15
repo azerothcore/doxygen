@@ -1,5 +1,9 @@
 var NAVTREEINDEX423 =
 {
+"df/df8/classspell__mage__empowered__fire.html#a9d6d6d752da222fd0edbb045840893fd":[7,0,3565,1],
+"df/df8/classspell__mage__empowered__fire.html#a9e8a8a231ee04be353be7f0bf320776b":[7,0,3565,4],
+"df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[7,0,3565,0],
+"df/df9/AddonHandler_8h.html":[8,0,0,0,1,2,22,1],
 "df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[8,0,0,0,1,2,22,1,1],
 "df/df9/classspell__brewfest__reveler__transform.html":[7,0,2709],
 "df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[7,0,2709,1],
@@ -42,10 +46,10 @@ var NAVTREEINDEX423 =
 "df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[7,0,3414,1],
 "df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[7,0,3414,3],
 "df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[7,0,3414,0],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4160],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4160,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4160,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4160,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4161],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4161,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4161,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4161,0],
 "df/dff/classinstance__old__hillsbrad.html":[7,0,1347],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[7,0,1347,2],
 "df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[7,0,1347,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX423 =
 "dir_c6a050c7db8efacb27792da37f17de7b.html":[8,0,0,0,1,2,16,9],
 "dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[8,0,0,0,1,2,22],
 "dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[8,0,0,0,1,3,5,10,1],
-"dir_c7e05c53196747da9983be071547f846.html":[8,0,0,0,1,3,7,0],
-"dir_c804a11c5cb2ec92995074d92081ceb0.html":[8,0,0,0,1,3,7,2,2],
-"dir_c818e5878076a3731e7c7d0d4061bd6b.html":[8,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[8,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[8,0,0,0,1,0]
+"dir_c7e05c53196747da9983be071547f846.html":[8,0,0,0,1,3,7,0]
 };

@@ -222,7 +222,7 @@ var searchData=
   ['docastaoe_219',['DoCastAOE',['../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5',1,'UnitAI']]],
   ['docastdoomfire_220',['DoCastDoomFire',['../d3/d4b/structboss__archimonde.html#a409cad381c6562f44fcf8f66a5965ec4',1,'boss_archimonde']]],
   ['docastmaxthreat_221',['DoCastMaxThreat',['../d0/ddd/classUnitAI.html#a60e6b86ce644125ad36c4f148e0997a3',1,'UnitAI']]],
-  ['docastrandomtarget_222',['DoCastRandomTarget',['../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94',1,'UnitAI']]],
+  ['docastrandomtarget_222',['DoCastRandomTarget',['../d0/ddd/classUnitAI.html#a312bb5e7db1887f2d91993ad3558d2fc',1,'UnitAI']]],
   ['docastself_223',['DoCastSelf',['../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215',1,'UnitAI']]],
   ['docastspell_224',['DoCastSpell',['../db/dc8/structScriptedAI.html#ab38762fe877e627cf205a20748d5de0d',1,'ScriptedAI']]],
   ['docastspellonplayer_225',['DoCastSpellOnPlayer',['../d2/d1e/classInstanceScript.html#ac1945fc6180a23a6de14278b02dbde76',1,'InstanceScript']]],

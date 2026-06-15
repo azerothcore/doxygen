@@ -13,7 +13,7 @@ var classUnitAI =
     [ "DoCast", "d0/ddd/classUnitAI.html#a65454ef7cdc5c8f83b71171d9a48aad1", null ],
     [ "DoCastAOE", "d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5", null ],
     [ "DoCastMaxThreat", "d0/ddd/classUnitAI.html#a60e6b86ce644125ad36c4f148e0997a3", null ],
-    [ "DoCastRandomTarget", "d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94", null ],
+    [ "DoCastRandomTarget", "d0/ddd/classUnitAI.html#a312bb5e7db1887f2d91993ad3558d2fc", null ],
     [ "DoCastSelf", "d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215", null ],
     [ "DoCastToAllHostilePlayers", "d0/ddd/classUnitAI.html#a73cecdaa59da8166335eba352d58df2a", null ],
     [ "DoCastVictim", "d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82", null ],

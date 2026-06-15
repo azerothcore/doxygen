@@ -43,6 +43,7 @@ var spell__mage_8cpp =
     [ "spell_mage_ice_block", "de/db0/classspell__mage__ice__block.html", "de/db0/classspell__mage__ice__block" ],
     [ "spell_mage_clearcasting", "d4/d03/classspell__mage__clearcasting.html", "d4/d03/classspell__mage__clearcasting" ],
     [ "spell_mage_missile_barrage_proc", "d5/dae/classspell__mage__missile__barrage__proc.html", "d5/dae/classspell__mage__missile__barrage__proc" ],
+    [ "spell_mage_deep_freeze_immunity_state", "dc/dfb/classspell__mage__deep__freeze__immunity__state.html", "dc/dfb/classspell__mage__deep__freeze__immunity__state" ],
     [ "MageSpellIcons", "d3/df8/spell__mage_8cpp.html#a926dc2c0d9908e3fd08efcd7595ffb98", [
       [ "MAGE_ICON_MAGIC_ABSORPTION", "d3/df8/spell__mage_8cpp.html#a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606", null ],
       [ "MAGE_ICON_CLEARCASTING", "d3/df8/spell__mage_8cpp.html#a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a", null ],

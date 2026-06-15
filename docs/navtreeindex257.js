@@ -247,7 +247,7 @@ var NAVTREEINDEX257 =
 "d9/dff/classCreatureTextLocalizer.html#a799f1007b9977224d71da1451c3454e1":[7,0,964,0],
 "d9/dff/classCreatureTextLocalizer.html#ab2c364aa9d45ca2267db2641b26821f7":[7,0,964,2],
 "d9/dff/classCreatureTextLocalizer.html#adf9260955b0141e85ff47c66350244e2":[7,0,964,4],
-"d9/dff/classspell__pal__judgement.html":[7,0,3720],
-"d9/dff/classspell__pal__judgement.html#a2cffed69c16a1a6189048ed52af35152":[7,0,3720,2],
-"d9/dff/classspell__pal__judgement.html#a3971c195a279338253771675131b4802":[7,0,3720,4]
+"d9/dff/classspell__pal__judgement.html":[7,0,3721],
+"d9/dff/classspell__pal__judgement.html#a2cffed69c16a1a6189048ed52af35152":[7,0,3721,2],
+"d9/dff/classspell__pal__judgement.html#a3971c195a279338253771675131b4802":[7,0,3721,4]
 };
