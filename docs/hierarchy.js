@@ -4726,6 +4726,7 @@ var hierarchy =
       [ "PeriodicAbsorbStealthProcTest", "d5/ddc/classPeriodicAbsorbStealthProcTest.html", null ],
       [ "PoolQuestReloadFixTest", "d4/d2d/classPoolQuestReloadFixTest.html", null ],
       [ "ProcChainGuardTest", "d8/d82/classProcChainGuardTest.html", null ],
+      [ "SpellCritDamageBonusOrderTest", "dd/d47/classSpellCritDamageBonusOrderTest.html", null ],
       [ "SpellProcAttributeTest", "de/d79/classSpellProcAttributeTest.html", null ],
       [ "SpellProcChanceTest", "df/d49/classSpellProcChanceTest.html", null ],
       [ "SpellProcChargeTest", "db/df9/classSpellProcChargeTest.html", null ],

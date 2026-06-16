@@ -1,5 +1,12 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a4477b9b46a8133a2bb3f992cf8be6124":[7,0,328,247],
+"df/da7/classBattleground.html#a447ecd1d9bc9efd8efac2bf4900dc665":[7,0,328,71],
+"df/da7/classBattleground.html#a44bf60cb7a2d83f6b83dcc5fececb528":[7,0,328,22],
+"df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[7,0,328,87],
+"df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[7,0,328,58],
+"df/da7/classBattleground.html#a476285ec168eec279bf3d1a4bb99603d":[7,0,328,4],
+"df/da7/classBattleground.html#a47766d59a63f48306cedc29d0a2e4598":[7,0,328,114],
 "df/da7/classBattleground.html#a484f56188cd64eebe033d80091cdbfcf":[7,0,328,174],
 "df/da7/classBattleground.html#a49ddcc93f9d450bd0f81bb831f264aa1":[7,0,328,197],
 "df/da7/classBattleground.html#a4aec80e93d36c9d22033e764d0e426a9":[7,0,328,79],
@@ -173,10 +180,10 @@ var NAVTREEINDEX412 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[7,0,328,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[7,0,328,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[7,0,328,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[7,0,13,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX412 =
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[8,0,0,0,1,3,5,9,1,0,5,3],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[8,0,0,0,1,3,5,9,1,0,5,1],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[8,0,0,0,1,3,5,9,1,0,5,6],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[8,0,0,0,1,3,5,9,1,0,5,4],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[8,0,0,0,1,3,5,9,1,0,5,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0":[8,0,0,0,1,3,5,9,1,0,5,2],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af5c6ff57b4f8cef772f5da1de76dbde8":[8,0,0,0,1,3,5,9,1,0,5,0],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[8,0,0,0,1,3,5,9,1,0,4],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e":[8,0,0,0,1,3,5,9,1,0,4,6],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a295161f0049efe83985b3c22ac4af27b":[8,0,0,0,1,3,5,9,1,0,4,1],
-"df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a67fb1e75418e5f4394f0dea3f005a0bf":[8,0,0,0,1,3,5,9,1,0,4,5]
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[8,0,0,0,1,3,5,9,1,0,5,4]
 };

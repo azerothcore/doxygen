@@ -5,6 +5,7 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "CascadeProcSuppressionTest.cpp", "d0/d9e/CascadeProcSuppressionTest_8cpp.html", "d0/d9e/CascadeProcSuppressionTest_8cpp" ],
     [ "ExtraAttackChainProcTest.cpp", "de/d3a/ExtraAttackChainProcTest_8cpp.html", "de/d3a/ExtraAttackChainProcTest_8cpp" ],
     [ "PeriodicAbsorbStealthProcTest.cpp", "da/d99/PeriodicAbsorbStealthProcTest_8cpp.html", "da/d99/PeriodicAbsorbStealthProcTest_8cpp" ],
+    [ "SpellCritDamageBonusOrderTest.cpp", "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html", "dd/d37/SpellCritDamageBonusOrderTest_8cpp" ],
     [ "SpellImmunityTest.cpp", "d5/dbf/SpellImmunityTest_8cpp.html", "d5/dbf/SpellImmunityTest_8cpp" ],
     [ "SpellProcArcanePotencyTest.cpp", "d3/d37/SpellProcArcanePotencyTest_8cpp.html", "d3/d37/SpellProcArcanePotencyTest_8cpp" ],
     [ "SpellProcAttributeTest.cpp", "db/d8a/SpellProcAttributeTest_8cpp.html", "db/d8a/SpellProcAttributeTest_8cpp" ],

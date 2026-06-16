@@ -1,5 +1,12 @@
 var NAVTREEINDEX358 =
 {
+"dd/dfa/classspell__shadow__bolt__whirl.html#a53b6067f46912648413fc6d6f107b0d8":[7,0,4070,2],
+"dd/dfa/classspell__shadow__bolt__whirl.html#aa03222717b3c06316b232a6ac0270ec0":[7,0,4070,3],
+"dd/dfa/classspell__shadow__bolt__whirl.html#aab7f5c5bdfdd2b440f59f16ab321765a":[7,0,4070,1],
+"dd/dfa/structboss__nightbane.html":[7,0,654],
+"dd/dfa/structboss__nightbane.html#a097feecad913478440092a818b6b6f38":[7,0,654,18],
+"dd/dfa/structboss__nightbane.html#a0bf6d0a9bc0be2532f5d367758f03446":[7,0,654,4],
+"dd/dfa/structboss__nightbane.html#a14e8d2773f75c8464a725c4c0e29789f":[7,0,654,0],
 "dd/dfa/structboss__nightbane.html#a16e5dba8c2187d2f8b175360f40c299c":[7,0,654,12],
 "dd/dfa/structboss__nightbane.html#a1709459f82758e690b6f5f667ac113b2":[7,0,654,1],
 "dd/dfa/structboss__nightbane.html#a2588f568133a843cb2bd6ef97794a03f":[7,0,654,20],
@@ -242,12 +249,5 @@ var NAVTREEINDEX358 =
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b":[8,0,0,0,1,2,11,0,1,7,9],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82":[8,0,0,0,1,2,11,0,1,7,17],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef":[8,0,0,0,1,2,11,0,1,7,22],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd":[8,0,0,0,1,2,11,0,1,7,29],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4":[8,0,0,0,1,2,11,0,1,7,18],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6":[8,0,0,0,1,2,11,0,1,7,35],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2":[8,0,0,0,1,2,11,0,1,7,12],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f":[8,0,0,0,1,2,11,0,1,7,5],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf":[8,0,0,0,1,2,11,0,1,7,13],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb":[8,0,0,0,1,2,11,0,1,7,0],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba":[8,0,0,0,1,2,11,0,1,7,1]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd":[8,0,0,0,1,2,11,0,1,7,29]
 };

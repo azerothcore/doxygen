@@ -247,7 +247,7 @@ var NAVTREEINDEX105 =
 "d3/d9c/classinstance__magtheridons__lair.html":[7,0,1338],
 "d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[7,0,1338,2],
 "d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[7,0,1338,1],
-"d3/d9d/SpellProcTest_8cpp.html":[8,0,0,0,2,2,0,9,24],
-"d3/d9d/SpellProcTest_8cpp.html#a14438e4c45ff52556c6b858ab9557f8b":[8,0,0,0,2,2,0,9,24,39],
-"d3/d9d/SpellProcTest_8cpp.html#a1c6ba50540dbe52e60a32d1e9eed388a":[8,0,0,0,2,2,0,9,24,1]
+"d3/d9d/SpellProcTest_8cpp.html":[8,0,0,0,2,2,0,9,25],
+"d3/d9d/SpellProcTest_8cpp.html#a14438e4c45ff52556c6b858ab9557f8b":[8,0,0,0,2,2,0,9,25,39],
+"d3/d9d/SpellProcTest_8cpp.html#a1c6ba50540dbe52e60a32d1e9eed388a":[8,0,0,0,2,2,0,9,25,1]
 };

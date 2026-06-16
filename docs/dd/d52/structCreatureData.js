@@ -7,7 +7,7 @@ var structCreatureData =
     [ "displayid", "dd/d52/structCreatureData.html#a51bd5a47d052accca3944095253d0d7a", null ],
     [ "dynamicflags", "dd/d52/structCreatureData.html#a25d7752e9510c8019469b8a09ce1b059", null ],
     [ "equipmentId", "dd/d52/structCreatureData.html#ac2d910ad95ea363dbe0a685d5db6cc79", null ],
-    [ "id1", "dd/d52/structCreatureData.html#af2a1092af24c3766e10554729061e2ff", null ],
+    [ "id", "dd/d52/structCreatureData.html#a2e2c3a5008f3d5aba0b6903586d3f83e", null ],
     [ "id2", "dd/d52/structCreatureData.html#a7632a7510b2a868b926a6ea21bf07e7f", null ],
     [ "id3", "dd/d52/structCreatureData.html#a934d70093ff85a859a80f672c96888b2", null ],
     [ "movementType", "dd/d52/structCreatureData.html#a5574b3c7c3976325c72f2d49a91d1ef3", null ],

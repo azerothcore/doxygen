@@ -1,5 +1,12 @@
 var NAVTREEINDEX354 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[8,0,0,0,1,2,38,0,77,1,133],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[8,0,0,0,1,2,38,0,77,1,41],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[8,0,0,0,1,2,38,0,77,1,78],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[8,0,0,0,1,2,38,0,77,1,90],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[8,0,0,0,1,2,38,0,77,1,81],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[8,0,0,0,1,2,38,0,77,1,40],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa346539c7e7fd716628d6631efc9b74b":[8,0,0,0,1,2,38,0,77,1,84],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa3c8ae160547aae5db74400fbca0b172":[8,0,0,0,1,2,38,0,77,1,13],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa5f7ceb2cc665666dfed956191c10596":[8,0,0,0,1,2,38,0,77,1,101],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa64e740b6e78b87052735a76ff182364":[8,0,0,0,1,2,38,0,77,1,88],
@@ -146,11 +153,11 @@ var NAVTREEINDEX354 =
 "dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[7,0,948,5],
 "dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[7,0,948,8],
 "dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[7,0,948,2],
-"dd/dcd/structSpellImmune.html":[7,0,4386],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[7,0,4386,1],
-"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[7,0,4386,2],
-"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[7,0,4386,0],
-"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[7,0,4386,3],
+"dd/dcd/structSpellImmune.html":[7,0,4387],
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[7,0,4387,1],
+"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[7,0,4387,2],
+"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[7,0,4387,0],
+"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[7,0,4387,3],
 "dd/dce/classspell__lurker__below__spout.html":[7,0,3546],
 "dd/dce/classspell__lurker__below__spout.html#a3771abcc829883ba0cbae9587adbe751":[7,0,3546,5],
 "dd/dce/classspell__lurker__below__spout.html#a5cd39919a088cab2fd160ea6e16ee7c8":[7,0,3546,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804":[8,0,0,0,1,3,5,0,1,1,5,10],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451":[8,0,0,0,1,3,5,0,1,1,5,7],
 "dd/dd2/classspell__azgalor__doom.html":[7,0,2649],
-"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[7,0,2649,2],
-"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[7,0,2649,1],
-"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[7,0,2649,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2691],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2691,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[7,0,2691,2],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[7,0,2691,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[7,0,3574]
+"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[7,0,2649,2]
 };

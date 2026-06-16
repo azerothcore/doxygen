@@ -1,5 +1,12 @@
 var NAVTREEINDEX373 =
 {
+"de/d0c/classGameObjectSummonGroupTest.html":[7,0,1116],
+"de/d0c/classGameObjectSummonGroupTest.html#a0cb70a624f55509497866a1fac787800":[7,0,1116,1],
+"de/d0c/classGameObjectSummonGroupTest.html#ac7db18817aa330aedefd1f688d53219b":[7,0,1116,0],
+"de/d0c/classGameObjectSummonGroupTest.html#afec905a799e8fe7522a2fa6756fa41d9":[7,0,1116,2],
+"de/d0c/classspell__mage__fire__frost__ward.html":[7,0,3567],
+"de/d0c/classspell__mage__fire__frost__ward.html#a20d5b4776ebeb859b0641af640e41d80":[7,0,3567,1],
+"de/d0c/classspell__mage__fire__frost__ward.html#a8c5399ba68554f4c2e842c5492ad715c":[7,0,3567,3],
 "de/d0c/classspell__mage__fire__frost__ward.html#a9378cde1cc6daab0dc111b94aef4f6c8":[7,0,3567,0],
 "de/d0c/classspell__mage__fire__frost__ward.html#aa6264e4dbff71b0d82e3403984c59c03":[7,0,3567,4],
 "de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[7,0,3567,2],
@@ -27,8 +34,8 @@ var NAVTREEINDEX373 =
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html":[5,0,34,14,10],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[7,0,13,14,10,2],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[5,0,34,14,10,2],
-"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[5,0,34,14,10,0],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[7,0,13,14,10,0],
+"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[5,0,34,14,10,0],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[7,0,13,14,10,1],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[5,0,34,14,10,1],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#af80f4138f3689721f44059a9250246f0":[7,0,13,14,10,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX373 =
 "de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead":[7,0,1102,48],
 "de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[7,0,1102,60],
 "de/d1c/classGameObject.html#a2afa3260c75f1241110a9abcead5aefa":[7,0,1102,74],
-"de/d1c/classGameObject.html#a2b9359375ec398ba32d5611901536f20":[7,0,1102,35],
-"de/d1c/classGameObject.html#a2c692a866b2081f6321b2040a1e32b1f":[7,0,1102,179],
-"de/d1c/classGameObject.html#a2f6e786afbfb9a0751e725e1ae9569cd":[7,0,1102,189],
-"de/d1c/classGameObject.html#a322beae90ff8c484e0c52da2c8b4a2a5":[7,0,1102,20],
-"de/d1c/classGameObject.html#a3505942cb93ffc66021fe61bfe57225f":[7,0,1102,132],
-"de/d1c/classGameObject.html#a389a8a8b76ab14d0758bfb4093bcf007":[7,0,1102,47],
-"de/d1c/classGameObject.html#a38d345bbab5190a5ba18053f31fec697":[7,0,1102,66],
-"de/d1c/classGameObject.html#a393c4448650a847fc2a6fff5864eb918":[7,0,1102,102]
+"de/d1c/classGameObject.html#a2b9359375ec398ba32d5611901536f20":[7,0,1102,35]
 };

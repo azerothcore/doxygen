@@ -1,5 +1,12 @@
 var NAVTREEINDEX423 =
 {
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a602c4b9dbf5b8a6350c97f5a074794f7":[8,0,0,0,1,3,5,8,2,0,5,0],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[8,0,0,0,1,3,5,8,2,0,5,2],
+"df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[8,0,0,0,1,3,5,8,2,0,5,3],
+"df/df8/CombatHandler_8cpp.html":[8,0,0,0,1,2,22,11],
+"df/df8/classspell__mage__empowered__fire.html":[7,0,3565],
+"df/df8/classspell__mage__empowered__fire.html#a5c417d0c4e46ebd2356f2d78ba5eee14":[7,0,3565,3],
+"df/df8/classspell__mage__empowered__fire.html#a62a1ae18832157f00ee2eea31ff13d01":[7,0,3565,2],
 "df/df8/classspell__mage__empowered__fire.html#a9d6d6d752da222fd0edbb045840893fd":[7,0,3565,1],
 "df/df8/classspell__mage__empowered__fire.html#a9e8a8a231ee04be353be7f0bf320776b":[7,0,3565,4],
 "df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[7,0,3565,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX423 =
 "dir_bee7e6ba6147fac4fb8de890af21a98e.html":[8,0,0,0,2,0,0],
 "dir_bff918c95c7a3c76f476f3d8679d579a.html":[8,0,0,0,0,12],
 "dir_c0da28c740234fa28d1fcf99be699b09.html":[8,0,0,0,1,2,13],
-"dir_c22643033d4d5dfd5506f8ab7d5a4197.html":[8,0,0,0,1,3,5,4,0],
-"dir_c55db428bdbf28a6b4d3b113733cf911.html":[8,0,0,0,0,3],
-"dir_c606529abee686f44b65a2777767c446.html":[8,0,0,0,1,3],
-"dir_c6385164885fcc1084c3c73758de0380.html":[8,0,0,0,1,2,19,0],
-"dir_c6a050c7db8efacb27792da37f17de7b.html":[8,0,0,0,1,2,16,9],
-"dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[8,0,0,0,1,2,22],
-"dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[8,0,0,0,1,3,5,10,1],
-"dir_c7e05c53196747da9983be071547f846.html":[8,0,0,0,1,3,7,0]
+"dir_c22643033d4d5dfd5506f8ab7d5a4197.html":[8,0,0,0,1,3,5,4,0]
 };

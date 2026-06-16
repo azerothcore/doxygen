@@ -1,5 +1,12 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[7,0,2649,1],
+"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[7,0,2649,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2691],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2691,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[7,0,2691,2],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[7,0,2691,1],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html":[7,0,3574],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[7,0,3574,1],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[7,0,3574,2],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[7,0,3574,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX355 =
 "dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a":[7,0,868,3],
 "dd/dd6/classcharacter__commandscript.html#a5b3dbfc264d1f5b964c466ce8deb2092":[7,0,868,17],
 "dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61":[7,0,868,25],
-"dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[7,0,868,11],
-"dd/dd6/classcharacter__commandscript.html#a7f6eb67fff48f6a4596cc1f511dead55":[7,0,868,10],
-"dd/dd6/classcharacter__commandscript.html#a8658d515f4a760f41019cb59b6278ac0":[7,0,868,12],
-"dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361":[7,0,868,7],
-"dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45":[7,0,868,28],
-"dd/dd6/classcharacter__commandscript.html#aacb45e7e90071908d2029ed2a11bef35":[7,0,868,23],
-"dd/dd6/classcharacter__commandscript.html#acd6b14efed2366e2a202ba17be781801":[7,0,868,2],
-"dd/dd6/classcharacter__commandscript.html#acf117a67ef10b7894190ff2c0cd881fd":[7,0,868,14]
+"dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[7,0,868,11]
 };

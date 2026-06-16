@@ -1,5 +1,12 @@
 var NAVTREEINDEX406 =
 {
+"df/d68/structnpc__flame__of__azzinoth.html":[7,0,1800],
+"df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1800,2],
+"df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1800,1],
+"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1800,4],
+"df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1800,0],
+"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1800,3],
+"df/d68/structnpc__flame__of__azzinoth.html#ae797d929b0e9c8953a4c9efd392a21f3":[7,0,1800,5],
 "df/d6a/boss__warlord__najentus_8cpp.html":[8,0,0,0,1,3,7,1,9],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,1,9,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b580e191197b2fffc3b57c3854324d1":[8,0,0,0,1,3,7,1,9,5,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX406 =
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6686ed7d552a8aa82e258dd8606832":[8,0,0,0,1,3,5,1,0,0,9,15],
 "df/d72/classAccountMgr.html":[7,0,30],
 "df/d72/classAccountMgr.html#a05785c0cba8eb448ae4efeffaf5f862e":[7,0,30,11],
-"df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27],
-"df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12],
-"df/d72/classAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,30,8],
-"df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d":[7,0,30,30],
-"df/d72/classAccountMgr.html#a261e0906e1e34d2d52dec0ebfef5d79c":[7,0,30,3],
-"df/d72/classAccountMgr.html#a2c5240a350fb967fb63e890b0e91a6fc":[7,0,30,1],
-"df/d72/classAccountMgr.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,30,25],
-"df/d72/classAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,30,20]
+"df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27]
 };

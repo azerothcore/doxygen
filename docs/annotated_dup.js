@@ -4931,6 +4931,7 @@ var annotated_dup =
     [ "SpellCone", "d2/d34/structSpellCone.html", "d2/d34/structSpellCone" ],
     [ "SpellCooldown", "da/def/structSpellCooldown.html", "da/def/structSpellCooldown" ],
     [ "SpellCooldownOverride", "d1/d1d/structSpellCooldownOverride.html", "d1/d1d/structSpellCooldownOverride" ],
+    [ "SpellCritDamageBonusOrderTest", "dd/d47/classSpellCritDamageBonusOrderTest.html", null ],
     [ "SpellDestination", "d0/dd3/structSpellDestination.html", "d0/dd3/structSpellDestination" ],
     [ "SpellDifficultyEntry", "df/dbc/structSpellDifficultyEntry.html", "df/dbc/structSpellDifficultyEntry" ],
     [ "SpellDiminishInfo", "d1/dbc/structSpellDiminishInfo.html", "d1/dbc/structSpellDiminishInfo" ],

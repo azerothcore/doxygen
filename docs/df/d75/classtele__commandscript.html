@@ -888,7 +888,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  309</span>        <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a> <span class="keyword">const</span>* spawnpoint = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  310</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; pair : <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetAllCreatureData())</div>
 <div class="line"><span class="lineno">  311</span>        {</div>
-<div class="line"><span class="lineno">  312</span>            <span class="keywordflow">if</span> (pair.second.id1 != *creatureId)</div>
+<div class="line"><span class="lineno">  312</span>            <span class="keywordflow">if</span> (pair.second.id != *creatureId)</div>
 <div class="line"><span class="lineno">  313</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  314</span> </div>
 <div class="line"><span class="lineno">  315</span>            <span class="keywordflow">if</span> (!spawnpoint)</div>
@@ -968,7 +968,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  352</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.EscapeString(normalizedName);</div>
 <div class="line"><span class="lineno">  353</span> </div>
 <div class="line"><span class="lineno">  354</span>        <span class="comment">// May need work //PussyWizardEliteMalcrom</span></div>
-<div class="line"><span class="lineno">  355</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT c.position_x, c.position_y, c.position_z, c.orientation, c.map, ct.name FROM creature c INNER JOIN creature_template ct ON c.id1 = ct.entry WHERE ct.name LIKE &#39;{}&#39;&quot;</span>, normalizedName);</div>
+<div class="line"><span class="lineno">  355</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT c.position_x, c.position_y, c.position_z, c.orientation, c.map, ct.name FROM creature c INNER JOIN creature_template ct ON c.id = ct.entry WHERE ct.name LIKE &#39;{}&#39;&quot;</span>, normalizedName);</div>
 <div class="line"><span class="lineno">  356</span>        <span class="keywordflow">if</span> (!result)</div>
 <div class="line"><span class="lineno">  357</span>        {</div>
 <div class="line"><span class="lineno">  358</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa459efe7c76e3284f5c619a6fc9db110b">LANG_COMMAND_GOCREATNOTFOUND</a>);</div>
@@ -1037,13 +1037,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  341</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  342</span>        }</div>
 <div class="line"><span class="lineno">  343</span> </div>
-<div class="line"><span class="lineno">  344</span>        <a class="code hl_struct" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> <span class="keyword">const</span>* creatureTemplate = <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#aee2b3b5656453513bc51a5979b247a67">ASSERT_NOTNULL</a>(<a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(spawnpoint-&gt;<a class="code hl_variable" href="../../dd/d52/structCreatureData.html#af2a1092af24c3766e10554729061e2ff">id1</a>));</div>
+<div class="line"><span class="lineno">  344</span>        <a class="code hl_struct" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a> <span class="keyword">const</span>* creatureTemplate = <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#aee2b3b5656453513bc51a5979b247a67">ASSERT_NOTNULL</a>(<a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(spawnpoint-&gt;<a class="code hl_variable" href="../../dd/d52/structCreatureData.html#a2e2c3a5008f3d5aba0b6903586d3f83e">id</a>));</div>
 <div class="line"><span class="lineno">  345</span> </div>
 <div class="line"><span class="lineno">  346</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82">DoNameTeleport</a>(handler, player, spawnpoint-&gt;<a class="code hl_variable" href="../../d7/dc4/structSpawnData.html#ac23de576d628ec0dde71be9a06976c83">mapid</a>, { spawnpoint-&gt;posX, spawnpoint-&gt;posY, spawnpoint-&gt;posZ }, creatureTemplate-&gt;<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#a6bb2b378844fb2d00cf0081e97c2852d">Name</a>);</div>
 <div class="line"><span class="lineno">  347</span>    }</div>
-<div class="ttc" id="astructCreatureData_html_af2a1092af24c3766e10554729061e2ff"><div class="ttname"><a href="../../dd/d52/structCreatureData.html#af2a1092af24c3766e10554729061e2ff">CreatureData::id1</a></div><div class="ttdeci">uint32 id1</div><div class="ttdef"><b>Definition</b> CreatureData.h:372</div></div>
+<div class="ttc" id="astructCreatureData_html_a2e2c3a5008f3d5aba0b6903586d3f83e"><div class="ttname"><a href="../../dd/d52/structCreatureData.html#a2e2c3a5008f3d5aba0b6903586d3f83e">CreatureData::id</a></div><div class="ttdeci">uint32 id</div><div class="ttdef"><b>Definition</b> CreatureData.h:372</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00085">ASSERT_NOTNULL</a>, <a class="el" href="../../#l00109">DoNameTeleport()</a>, <a class="el" href="../../#l00372">CreatureData::id1</a>, <a class="el" href="../../#l00321">LANG_COMMAND_GOCREATNOTFOUND</a>, <a class="el" href="../../#l00069">SpawnData::mapid</a>, <a class="el" href="../../#l00192">CreatureTemplate::Name</a>, <a class="el" href="../../#l00224">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l01732">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00085">ASSERT_NOTNULL</a>, <a class="el" href="../../#l00109">DoNameTeleport()</a>, <a class="el" href="../../#l00372">CreatureData::id</a>, <a class="el" href="../../#l00321">LANG_COMMAND_GOCREATNOTFOUND</a>, <a class="el" href="../../#l00069">SpawnData::mapid</a>, <a class="el" href="../../#l00192">CreatureTemplate::Name</a>, <a class="el" href="../../#l00224">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l01732">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00035">GetCommands()</a>.</p>
 
@@ -1058,7 +1058,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d75/classtele__commandscript.html">tele_commandscript</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 11:56:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jun 16 2026 11:07:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
