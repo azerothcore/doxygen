@@ -1,6 +1,6 @@
 var NAVTREEINDEX39 =
 {
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[7,0,13,0,0,3],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[5,0,34,0,0,3],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html":[7,0,2160,0],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a1443e8311b6e2d61d6f9abd2e5f40793":[7,0,2160,0,3],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a35ec340b2d02a14707fc353428b1298d":[7,0,2160,0,2],
@@ -115,8 +115,8 @@ var NAVTREEINDEX39 =
 "d1/da2/classgobject__commandscript.html#ac9683961141c3115ac9309fa07175e64":[7,0,1229,6],
 "d1/da2/classgobject__commandscript.html#ae6d100f51d8b08e1576092eedc4db15f":[7,0,1229,13],
 "d1/da2/classgobject__commandscript.html#af2ac49c9fdd408be62dd4ee179c1142c":[7,0,1229,12],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[7,0,13,8,7],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[5,0,34,8,7],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[7,0,13,8,7],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a019a891e4906ce9dafef6e276d635df7":[7,0,13,8,7,6],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a019a891e4906ce9dafef6e276d635df7":[5,0,34,8,7,6],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a227470a5932383e0ab7b9a369dfb3445":[7,0,13,8,7,5],
@@ -125,8 +125,8 @@ var NAVTREEINDEX39 =
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[5,0,34,8,7,4],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[5,0,34,8,7,0],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[7,0,13,8,7,0],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[7,0,13,8,7,1],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[5,0,34,8,7,1],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[7,0,13,8,7,1],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[5,0,34,8,7,2],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[7,0,13,8,7,2],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#af18875aa85f12191a47d97380f459c45":[5,0,34,8,7,3],

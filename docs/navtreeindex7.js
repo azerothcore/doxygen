@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5b/classPlayerScript.html#afb7a7ef38ae08790d17679d59505dc47":[7,0,2418,21],
 "d0/d5b/classPlayerScript.html#afb8ef3b6b7f2293ad8f08de85a415168":[7,0,2418,107],
 "d0/d5b/classPlayerScript.html#afc51f607a2a09dfbebf941afb6d78848":[7,0,2418,167],
 "d0/d5b/classPlayerScript.html#afd1ea56109b58e3493e4708a7bfdded0":[7,0,2418,33],
@@ -234,12 +235,12 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[7,0,4171,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[7,0,4171,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[7,0,4171,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[7,0,13,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,34,2,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[7,0,13,2,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[7,0,13,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,34,2,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[7,0,13,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[7,0,13,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,34,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[7,0,13,2,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[7,0,2323,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[7,0,2323,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[7,0,2323,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d64/classsend__commandscript.html#a1b1e995a2854e338866527ee9634d544":[7,0,2550,5],
 "d0/d64/classsend__commandscript.html#a2dc60c8c414c9131b4cda1ff82f7beed":[7,0,2550,1],
 "d0/d64/classsend__commandscript.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde":[7,0,2550,0],
-"d0/d64/classsend__commandscript.html#a5ad6f9387c6fb00bf536629c760ba374":[7,0,2550,3],
-"d0/d64/classsend__commandscript.html#a7ffcd07e0ad08be2eb8a1ebac0fec717":[7,0,2550,2]
+"d0/d64/classsend__commandscript.html#a5ad6f9387c6fb00bf536629c760ba374":[7,0,2550,3]
 };

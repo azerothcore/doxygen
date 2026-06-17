@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[7,0,3088,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[7,0,3088,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[7,0,3088,2],
 "d1/df9/classspell__kelthuzad__void__blast.html":[7,0,3505],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#a7d7fc3041c753918c6e13e49a691674a":[7,0,2340,8],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#a87fb109fcc88099406d9f189333aef7c":[7,0,2340,5],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#a8aea9e4a005f5c88e2c71cfd46d10058":[7,0,2340,3],
-"d2/d0b/classOPvPCapturePointZM__Graveyard.html#abef3d9dfff4688e0c5a87cd7b2a847c4":[7,0,2340,7],
-"d2/d0b/classOPvPCapturePointZM__Graveyard.html#ac10fc817ba6d3c68310a6b0d68e52342":[7,0,2340,4]
+"d2/d0b/classOPvPCapturePointZM__Graveyard.html#abef3d9dfff4688e0c5a87cd7b2a847c4":[7,0,2340,7]
 };

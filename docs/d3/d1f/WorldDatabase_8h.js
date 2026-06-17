@@ -55,6 +55,7 @@ var WorldDatabase_8h =
       [ "WORLD_UPD_WAYPOINT_SCRIPT_O", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a1cb91996ed2924c62fc59e5b1292115f", null ],
       [ "WORLD_SEL_WAYPOINT_SCRIPT_ID_BY_GUID", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32acdd6d64f0b1a989dca1b845052ba5be1", null ],
       [ "WORLD_DEL_CREATURE", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ac0a6bb301dd3538b90519ad859ac0733", null ],
+      [ "WORLD_DEL_CREATURE_MULTISPAWN", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a58827358974fe60b7fa1f3f499020d48", null ],
       [ "WORLD_SEL_COMMANDS", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a73e7354186c590bb7186a61ee46a09ed", null ],
       [ "WORLD_SEL_CREATURE_TEMPLATE", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aa95ac7db8258eef78d794650ba9e6f37", null ],
       [ "WORLD_SEL_WAYPOINT_SCRIPT_BY_ID", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ac98bc76743058044aaa9477d6b7d8e4a", null ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX221 =
 {
+"d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569":[7,0,3389,2],
+"d8/d31/classspell__item__mad__alchemists__potion.html#a73717914aa23764fa16c8a2965798a6a":[7,0,3389,1],
+"d8/d31/classspell__item__mad__alchemists__potion.html#a8127429829afd4b82395a821a4bea19c":[7,0,3389,0],
+"d8/d31/structSpellTargetPosition.html":[7,0,4431],
+"d8/d31/structSpellTargetPosition.html#a3af706b81f8fbef12277c518964f717a":[7,0,4431,4],
 "d8/d31/structSpellTargetPosition.html#a6dbbb558810388e0d051d84a0279a444":[7,0,4431,0],
 "d8/d31/structSpellTargetPosition.html#a6f432d8770adebf513346713b7890b5c":[7,0,4431,3],
 "d8/d31/structSpellTargetPosition.html#a7e30264eff9ece771dfaa421ef987b2a":[7,0,4431,1],
@@ -66,16 +71,16 @@ var NAVTREEINDEX221 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61a4b504cc66a63b1f0150ac6d129222":[8,0,0,0,1,3,5,7,10,2,1],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aece2248203af84f6d210f9983dd0fa28":[8,0,0,0,1,3,5,7,10,2,3],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[8,0,0,0,1,3,5,7,10,2,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,0,135],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[7,0,0,123],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,0,135],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[7,0,0,123,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,0,135,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[7,0,0,123,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,0,135,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,135,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[7,0,0,123,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[7,0,0,123,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,135,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[7,0,0,123,0],
 "d8/d36/BigNumber_8h.html":[8,0,0,0,0,3,8],
 "d8/d36/MailScript_8cpp.html":[8,0,0,0,1,2,38,0,64],
 "d8/d36/MailScript_8cpp.html#a2c63e917d984cb7f72bcae15da56850c":[8,0,0,0,1,2,38,0,64,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d39/structnpc__xt002__heart.html#a4f62cabc74ad43cf53f2257902982dff":[7,0,2297,4],
 "d8/d39/structnpc__xt002__heart.html#a568c7cabf8ecd0aa97b72663effbb2a1":[7,0,2297,14],
 "d8/d39/structnpc__xt002__heart.html#a76d4d662c2e5a69bfda9feed09779661":[7,0,2297,7],
-"d8/d39/structnpc__xt002__heart.html#a78037a956bffce8d53f96194c78808bf":[7,0,2297,10],
-"d8/d39/structnpc__xt002__heart.html#a9138c36d94f474128f03135592f153bd":[7,0,2297,9],
-"d8/d39/structnpc__xt002__heart.html#a97c110ef2c0c7008a9d52d9f1ef41115":[7,0,2297,2],
-"d8/d39/structnpc__xt002__heart.html#a98695e419690a21e2aa3d7a19a6949c8":[7,0,2297,11],
-"d8/d39/structnpc__xt002__heart.html#a9bec1ea1a31987ce5839b79eb9c184b4":[7,0,2297,0],
-"d8/d39/structnpc__xt002__heart.html#aacd3f88442e2e0df4eeec91b4cb47392":[7,0,2297,6]
+"d8/d39/structnpc__xt002__heart.html#a78037a956bffce8d53f96194c78808bf":[7,0,2297,10]
 };

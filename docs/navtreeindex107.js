@@ -1,5 +1,9 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5df838fc03f1338db5873b67568ad82b":[8,0,0,0,1,3,10,10,49,36],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a630dbfd037bd41c58cbe97a0a93d7048":[8,0,0,0,1,3,10,10,49,43],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a64dc1baada02c2b1b22685246f38f55a":[8,0,0,0,1,3,10,10,49,52],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a675070578aeff5617fe8a87a03671398":[8,0,0,0,1,3,10,10,49,45],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6752ed36642e53558e3e1e2f75ce91f6":[8,0,0,0,1,3,10,10,49,6],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6f534af865db4bea6cde552b8aa7f406":[8,0,0,0,1,3,10,10,49,50],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a7007742dd64ae8fc19276136a79fc0c0":[8,0,0,0,1,3,10,10,49,30],
@@ -245,9 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classspell__item__living__root__of__the__wildheart.html#ae0e2b86fc99705d7a80c2122643db33f":[7,0,3387,0],
 "d3/da8/classspell__item__living__root__of__the__wildheart.html#ae1027c9041171c9ed613acfd68be5ba3":[7,0,3387,1],
 "d3/da8/classspell__transitus__shield__beam__aura.html":[7,0,4196],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a3a24a25c9b9b118d20ca2b14fbfc5869":[7,0,4196,4],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a5ec8ffeceae335423dff10f54e096e8a":[7,0,4196,2],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a83ff54727e886161c5568a60833932d1":[7,0,4196,0],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a9e48d1c9dc26f882ee685a2cbf59667e":[7,0,4196,1],
-"d3/da8/classspell__transitus__shield__beam__aura.html#ae07af138c6f9c565799574b4f8343492":[7,0,4196,3]
+"d3/da8/classspell__transitus__shield__beam__aura.html#a3a24a25c9b9b118d20ca2b14fbfc5869":[7,0,4196,4]
 };

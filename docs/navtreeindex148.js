@@ -1,5 +1,9 @@
 var NAVTREEINDEX148 =
 {
+"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,3,0,8,3],
+"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab9eb8f4d4045b8d34928378cb15f3d4a":[8,0,0,0,1,3,7,3,0,8,2],
+"d5/d41/boss__gruul_8cpp.html#a4ddca9f06c8da72f936897f2de29786a":[8,0,0,0,1,3,7,3,0,9],
+"d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,3,0,7],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298ca0551e5288ecfab0790d931b6695e497f":[8,0,0,0,1,3,7,3,0,7,3],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298ca177370465de01427727fa67d44575577":[8,0,0,0,1,3,7,3,0,7,14],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298ca187a93804c07f444200b742e3ce04d26":[8,0,0,0,1,3,7,3,0,7,7],
@@ -40,8 +44,8 @@ var NAVTREEINDEX148 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[8,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[8,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[8,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[7,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,0,8,0,28],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[7,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,0,8,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[7,0,0,5,0,28,0],
 "d5/d44/classspell__item__heartpierce__hero.html":[7,0,3378],
@@ -82,8 +86,8 @@ var NAVTREEINDEX148 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[7,0,3169,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[7,0,3169,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3169,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1819],
@@ -245,9 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d4d/classIWorld.html#a443ddacd3a14959ccfd2d2283c9903e2":[7,0,1422,47],
 "d5/d4d/classIWorld.html#a467b977bd6f453377482c5d23c8e70fa":[7,0,1422,11],
 "d5/d4d/classIWorld.html#a4883b31a7f34e07154dfd5b6f6a2dc10":[7,0,1422,7],
-"d5/d4d/classIWorld.html#a4a67939a2a73f8d812f8b3bc040d522e":[7,0,1422,43],
-"d5/d4d/classIWorld.html#a55313bc1603e1370d69eb364d2477762":[7,0,1422,30],
-"d5/d4d/classIWorld.html#a56adec939dc8b50849d500bb859e5b4c":[7,0,1422,37],
-"d5/d4d/classIWorld.html#a594b9f40fcd60630573189de9cfdb232":[7,0,1422,31],
-"d5/d4d/classIWorld.html#a5ef5e988dc37826154858a906355e49c":[7,0,1422,8]
+"d5/d4d/classIWorld.html#a4a67939a2a73f8d812f8b3bc040d522e":[7,0,1422,43]
 };

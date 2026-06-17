@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae6469589be1d2ce28c9eec152dd5b0f5":[8,0,0,0,1,3,5,15,34,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182c":[8,0,0,0,1,3,5,15,33],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca22fd7e4655724a3bee555f7023378245":[8,0,0,0,1,3,5,15,33,10],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca24b5ae5ac74b8d00ac370cccda7ec1fe":[8,0,0,0,1,3,5,15,33,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d10/classspell__algalon__phase__punch__aura.html#a91ebb4e69d02deb5129965f543c474d1":[7,0,2616,4],
 "d3/d10/classspell__algalon__phase__punch__aura.html#aea9d38dc7fdff6d38d252bb5ded57d78":[7,0,2616,2],
 "d3/d10/mob__generic__creature_8cpp.html":[8,0,0,0,1,3,10,8],
-"d3/d10/mob__generic__creature_8cpp.html#a50f66c4d6429b38157e35a75a0daa31d":[8,0,0,0,1,3,10,8,2],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[7,0,806]
+"d3/d10/mob__generic__creature_8cpp.html#a50f66c4d6429b38157e35a75a0daa31d":[8,0,0,0,1,3,10,8,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX212 =
 {
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa6ec14bd98619d5e959cb71a3fcf53b75":[8,0,0,0,1,3,3,0,1,3,29],
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa6feeae2411613b9320f948d76ca62d87":[8,0,0,0,1,3,3,0,1,3,31],
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa9325caf16f5fd01b96b4a7202d11c954":[8,0,0,0,1,3,3,0,1,3,13],
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa9df2eb3577191bd673390e9cb95febcb":[8,0,0,0,1,3,3,0,1,3,22],
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa9fdc19e9345d45dafd482ba9431772aa":[8,0,0,0,1,3,3,0,1,3,34],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efaa76280fe62eb56416c6b1a95599c8e0a":[8,0,0,0,1,3,3,0,1,3,10],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efab509f3c7c1a228c449d5921991eb24fe":[8,0,0,0,1,3,3,0,1,3,1],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efac2360c7b4141339c3e7446732a0115af":[8,0,0,0,1,3,3,0,1,3,6],
@@ -119,8 +124,8 @@ var NAVTREEINDEX212 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2753,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc0/classRASession.html#aff8957db5a0cceec4fddeb7950bba557":[7,0,2495,5],
 "d7/dc0/structboss__the__lurker__below.html":[7,0,746],
 "d7/dc0/structboss__the__lurker__below.html#a30e07055aa632066a75ad48f3e8109e2":[7,0,746,3],
-"d7/dc0/structboss__the__lurker__below.html#a42dd2ed36209e7be61788d054e2754b5":[7,0,746,7],
-"d7/dc0/structboss__the__lurker__below.html#a522164e819db5062225f7d5704cdaa36":[7,0,746,4],
-"d7/dc0/structboss__the__lurker__below.html#a5ec68a1bc5b22e03fe485448257ad7df":[7,0,746,9],
-"d7/dc0/structboss__the__lurker__below.html#a92d854cb21b272bd09674c724b1aa862":[7,0,746,10],
-"d7/dc0/structboss__the__lurker__below.html#aa31e26b77e0c2403a338f781bf14c94b":[7,0,746,5],
-"d7/dc0/structboss__the__lurker__below.html#aa910c20d3ee26d6d2e71818008eb3b5c":[7,0,746,8]
+"d7/dc0/structboss__the__lurker__below.html#a42dd2ed36209e7be61788d054e2754b5":[7,0,746,7]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX229 =
 {
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a60c1704617e99239d60d24d6b7513c1a":[7,0,2133,0,4],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a8beac97ea5f7c797d2ae52e2f3c3be50":[7,0,2133,0,2],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba":[7,0,2133,0,5],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac1d282da6f2d9133619a212a349c777f":[7,0,2133,0,7],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[7,0,2133,0,8],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348":[7,0,2133,0,3],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d":[7,0,2133,0,6],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#afc140e6f9fc1ec78914aecc5150345b0":[7,0,2133,0,9],
@@ -193,8 +198,8 @@ var NAVTREEINDEX229 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4549,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4549,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4549,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d8d/structActiveBoatStruct.html#af3ae27adaecafe9a09802bc202973d68":[7,0,129,6],
 "d8/d8d/structTaxiPathEntry.html":[7,0,4471],
 "d8/d8d/structTaxiPathEntry.html#a4375feed48ce5ac7291dced992c9bbf4":[7,0,4471,1],
-"d8/d8d/structTaxiPathEntry.html#a44fc4c13d3426fcbc7b1108e513973de":[7,0,4471,2],
-"d8/d8d/structTaxiPathEntry.html#a6b24cdac137b2b8d9472b5d1aca4178f":[7,0,4471,3],
-"d8/d8d/structTaxiPathEntry.html#a8e87b02059c2c1e4b1dd2760c99cb004":[7,0,4471,0],
-"d8/d8d/structboss__lady__malande.html":[7,0,603],
-"d8/d8d/structboss__lady__malande.html#a6d9d09a49fc87bbbda02387f78bb3739":[7,0,603,3],
-"d8/d8d/structboss__lady__malande.html#a8cb693d203463dcba809e7ffc23c6868":[7,0,603,0]
+"d8/d8d/structTaxiPathEntry.html#a44fc4c13d3426fcbc7b1108e513973de":[7,0,4471,2]
 };

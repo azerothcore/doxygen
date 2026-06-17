@@ -1,5 +1,10 @@
 var NAVTREEINDEX179 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba39ae9387058b0d69113c328b8b347ae7":[8,0,0,0,1,3,2,1,1,8,5,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba3b65c21636aeef3e8871f725c9a48013":[8,0,0,0,1,3,2,1,1,8,5,1],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbab3588c1e566b7b7ee5bbc826a70185e5":[8,0,0,0,1,3,2,1,1,8,5,0],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,1,8,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ac964d297dafb8b20155d46e633771d":[8,0,0,0,1,3,2,1,1,8,2,7],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a2530481456b71f0499b7d6ca8832a0":[8,0,0,0,1,3,2,1,1,8,2,1],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa7072d87ff9a03f9584e4f489880a272":[8,0,0,0,1,3,2,1,1,8,2,2],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac37be0fe31927a91e2a89d0ace445d39":[8,0,0,0,1,3,2,1,1,8,2,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d6d/classnpc__isle__of__conquest__turret.html#a0f532e12439e900b3cb77619f1ecd17d":[7,0,1918,2],
 "d6/d6d/classnpc__isle__of__conquest__turret.html#ac080845203adef25e6841133b7e2f4dc":[7,0,1918,1],
 "d6/d6d/structDoorInfo.html":[7,0,1013],
-"d6/d6d/structDoorInfo.html#a14f7742a1b272d0cd76dda6ce28cde26":[7,0,1013,1],
-"d6/d6d/structDoorInfo.html#a26f4849a1d68df466e6db0ccbb8d001b":[7,0,1013,0],
-"d6/d6d/structDoorInfo.html#ad77a91752ea10a11c8e73655e63dd5c1":[7,0,1013,2],
-"d6/d6e/EnumFlag_8h.html":[8,0,0,0,0,15,8],
-"d6/d6e/EnumFlag_8h.html#a24a78ca9e9dcd1b92829560e580c3134":[8,0,0,0,0,15,8,5],
-"d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[8,0,0,0,0,15,8,4]
+"d6/d6d/structDoorInfo.html#a14f7742a1b272d0cd76dda6ce28cde26":[7,0,1013,1]
 };

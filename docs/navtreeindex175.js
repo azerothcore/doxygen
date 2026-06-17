@@ -1,5 +1,9 @@
 var NAVTREEINDEX175 =
 {
+"d6/d38/classChatHandler.html#afdbeccdfa99d98175ce520f8eb5621dd":[7,0,888,55],
+"d6/d38/classChatHandler.html#affa04b48f8ce2a0c11b9e245e200f68b":[7,0,888,23],
+"d6/d38/classspell__gen__feign__death__all__flags.html":[7,0,3025],
+"d6/d38/classspell__gen__feign__death__all__flags.html#a0635d5e34bfc62df1ec006b7818bffb2":[7,0,3025,3],
 "d6/d38/classspell__gen__feign__death__all__flags.html#a4925868cc5b61b7f35d59fdb27af27b6":[7,0,3025,2],
 "d6/d38/classspell__gen__feign__death__all__flags.html#a65ad32ded4246c3469f15b6ab167830e":[7,0,3025,0],
 "d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[7,0,3025,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d40/classspell__eredar__twins__blaze.html#aae2f572a523431f6764f08e4719adbcf":[7,0,2927,0],
 "d6/d40/classspell__eredar__twins__blaze.html#ae3b002197564318cc92242bd925d35af":[7,0,2927,2],
 "d6/d41/classAchievementScript.html":[7,0,125],
-"d6/d41/classAchievementScript.html#a33d7ba1a6bf82da8e2de367553c0fb52":[7,0,125,2],
-"d6/d41/classAchievementScript.html#a85f0d7a676e7e31bc87ca64040b29489":[7,0,125,0],
-"d6/d41/classAchievementScript.html#a9ea2ed91c281e881404c31a948de0fc9":[7,0,125,3],
-"d6/d41/classAchievementScript.html#abc54c295c1bcad45e21aed99e43a3713":[7,0,125,4],
-"d6/d41/classAchievementScript.html#aca4cb16b55f7990c676267b8f10b4e57":[7,0,125,1]
+"d6/d41/classAchievementScript.html#a33d7ba1a6bf82da8e2de367553c0fb52":[7,0,125,2]
 };

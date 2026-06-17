@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[7,0,3489,1],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a4bb5cfd2cc8503b3a840fc68624a33c1":[7,0,3489,2],
 "d2/d50/classspell__kaelthas__summon__weapons.html#acfe80e22e6c78dba50155f7f20c0678b":[7,0,3489,0],
 "d2/d50/tools_2dbimport_2Main_8cpp.html":[8,0,0,0,3,0,0],
@@ -179,14 +180,14 @@ var NAVTREEINDEX64 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[7,0,4176,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[7,0,4176,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[7,0,4176,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[7,0,13,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[7,0,13,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[7,0,13,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[7,0,13,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,34,0,3,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[7,0,13,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[7,0,13,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[7,0,1682],
 "d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[7,0,1682,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[7,0,1682,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a703e51c62541bccb8a76ae7126657930":[8,0,0,0,1,3,4,1,1,5,13,27],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a7199c003a6d0e6097a9d84920f216a48":[8,0,0,0,1,3,4,1,1,5,13,28],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a7c0ae6dd24985b165c1c6d930a1033fb":[8,0,0,0,1,3,4,1,1,5,13,7],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f52a619da5c1b683843e1ad05827752":[8,0,0,0,1,3,4,1,1,5,13,17],
-"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a8e10c871f3831b2653a2c80f7cb1f010":[8,0,0,0,1,3,4,1,1,5,13,24]
+"d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f52a619da5c1b683843e1ad05827752":[8,0,0,0,1,3,4,1,1,5,13,17]
 };

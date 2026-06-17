@@ -1,5 +1,9 @@
 var NAVTREEINDEX131 =
 {
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ae718d7606fc2054f360525e4d0a79d28":[8,0,0,0,1,3,5,2,1,0,16,0],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0aed97c932510c91b6057175b2df166f63":[8,0,0,0,1,3,5,2,1,0,16,17],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0af285f71f445522bbaa034ae592fc4f67":[8,0,0,0,1,3,5,2,1,0,16,11],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0afdc5a48b99870385905c544e99e1ca69":[8,0,0,0,1,3,5,2,1,0,16,19],
 "d4/d78/boss__anubarak__trial_8cpp.html#a3101a2bec64ee0361d6e1e30f3dead1f":[8,0,0,0,1,3,5,2,1,0,20],
 "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7":[8,0,0,0,1,3,5,2,1,0,14],
 "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a0597adc13f5dd2eb4fe687ddbae1deee":[8,0,0,0,1,3,5,2,1,0,14,0],
@@ -34,12 +38,12 @@ var NAVTREEINDEX131 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691":[8,0,0,0,1,3,5,2,1,0,18],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4":[8,0,0,0,1,3,5,2,1,0,18,1],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[8,0,0,0,1,3,5,2,1,0,18,0],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,34,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[7,0,13,6,13],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,34,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,34,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[7,0,13,6,13,1],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[7,0,13,6,13,3],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,34,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[7,0,13,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,34,6,13,2],
@@ -65,10 +69,10 @@ var NAVTREEINDEX131 =
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a118ca963c6319802806913762c4d1fec":[7,0,4428,6,2],
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a11d2070610d178006231bac274d1f311":[7,0,4428,6,1],
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a89b86436bb1de38223165e7ef60f2b61":[7,0,4428,6,0],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,31,22],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[7,0,11,22],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,31,22,1],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,31,22],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[7,0,11,22,1],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,31,22,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[5,0,31,22,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[7,0,11,22,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[5,0,31,22,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[7,0,4611,2],
 "d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[7,0,4611,4],
 "d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[7,0,4611,5],
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4611,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[7,0,4611,0],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[7,0,638,0],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[7,0,638,0,8],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[7,0,638,0,3]
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4611,1]
 };

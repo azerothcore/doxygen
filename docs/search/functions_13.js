@@ -988,7 +988,7 @@ var searchData=
   ['setlocationinstanceid_985',['SetLocationInstanceId',['../d4/dd0/classWorldObject.html#a2fa068bdfada15525672399270537e12',1,'WorldObject']]],
   ['setlocationmapid_986',['SetLocationMapId',['../d4/dd0/classWorldObject.html#a577756281e727788e2095a147a524753',1,'WorldObject']]],
   ['setlockeddungeons_987',['setlockeddungeons',['../d2/dbc/classlfg_1_1LFGMgr.html#a3c1cb5d364c54e787c78aae08c7bbd35',1,'lfg::LFGMgr::SetLockedDungeons()'],['../d7/dc6/classlfg_1_1LfgPlayerData.html#a8d62d0991ee1d5d1457758b9bc8db7fc',1,'lfg::LfgPlayerData::SetLockedDungeons()']]],
-  ['setloglevel_988',['setloglevel',['../db/d67/classLogger.html#a00fdcdbeb39a2d5d4fb27cc36c35c101',1,'Logger::setLogLevel()'],['../d0/d77/classLog.html#a24f8f8d91419c6b4f7830799bf4d3eb6',1,'Log::SetLogLevel()'],['../d9/d13/classAppender.html#ae6c4e7120a54b7069e157fe9a397d455',1,'Appender::setLogLevel()']]],
+  ['setloglevel_988',['setloglevel',['../d0/d77/classLog.html#a24f8f8d91419c6b4f7830799bf4d3eb6',1,'Log::SetLogLevel()'],['../d9/d13/classAppender.html#ae6c4e7120a54b7069e157fe9a397d455',1,'Appender::setLogLevel()'],['../db/d67/classLogger.html#a00fdcdbeb39a2d5d4fb27cc36c35c101',1,'Logger::setLogLevel()']]],
   ['setlogoutstarttime_989',['SetLogoutStartTime',['../d8/d74/classWorldSession.html#a6d57a7c4612e576f5de4fdb97843384c',1,'WorldSession']]],
   ['setloot_990',['setLoot',['../d5/d0a/classRoll.html#a34869ee15d87708859cd51262ad160fc',1,'Roll']]],
   ['setlooterguid_991',['SetLooterGuid',['../d0/db7/classGroup.html#af013bbd7d1a25e2c720fe653ba8a1245',1,'Group']]],

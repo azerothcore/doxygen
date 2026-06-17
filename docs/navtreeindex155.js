@@ -1,9 +1,13 @@
 var NAVTREEINDEX155 =
 {
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,34,27,1],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[7,0,13,27,3],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,34,27,3],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[7,0,13,27,5],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,34,27,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[7,0,13,27,1],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,34,27,4],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,34,27,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[7,0,13,27,4],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,34,27,4],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html":[7,0,1908],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a0feca7aedcf3c07253d4d402266189cc":[7,0,1908,2],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a9d3c647f485dbca5efeec8f784efba1b":[7,0,1908,1],
@@ -166,12 +170,12 @@ var NAVTREEINDEX155 =
 "d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[8,0,0,0,1,3,4,9,0,7,5],
 "d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca":[8,0,0,0,1,3,4,9,0,7,4],
 "d5/d85/boss__bug__trio_8cpp.html#a90fb23fcbf357132df3e7d0e1a1dd71f":[8,0,0,0,1,3,4,9,0,8],
-"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html":[7,0,13,6,37],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html":[5,0,34,6,37],
-"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a0ea07ca846a92b5357276b5868d98e5f":[5,0,34,6,37,1],
+"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html":[7,0,13,6,37],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a0ea07ca846a92b5357276b5868d98e5f":[7,0,13,6,37,1],
-"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[5,0,34,6,37,0],
+"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a0ea07ca846a92b5357276b5868d98e5f":[5,0,34,6,37,1],
 "d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[7,0,13,6,37,0],
+"d5/d85/classWorldPackets_1_1Guild_1_1GuildLeave.html#a6a09ab5c50b7185a91e76f428e28f402":[5,0,34,6,37,0],
 "d5/d86/structoutroPosition.html":[7,0,2363],
 "d5/d86/structoutroPosition.html#a0b7e499d633e11b314852fb1154ea8e6":[7,0,2363,1],
 "d5/d86/structoutroPosition.html#a80e1510436336f4ed17748a06b27178d":[7,0,2363,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d89/structNonTankLKTargetSelector.html#abe4e56597fa2918b15a003413887ac71":[7,0,1593,2],
 "d5/d89/structNonTankLKTargetSelector.html#ac7e28c908079fbd2e1ca5374731d521e":[7,0,1593,4],
 "d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html":[7,0,2197,0],
-"d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#a0f4393341a6c565aef2c0b79a39c0699":[7,0,2197,0,2],
-"d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#a188831088c892f68cef7498468b24899":[7,0,2197,0,0],
-"d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#aaf7fd7b143a4eb410465c7cb34c32d2f":[7,0,2197,0,1],
-"d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#ab1910ce98f3d1b14e45acba22782d536":[7,0,2197,0,3],
-"d5/d8b/classspell__hun__wyvern__sting.html":[7,0,3238]
+"d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#a0f4393341a6c565aef2c0b79a39c0699":[7,0,2197,0,2]
 };

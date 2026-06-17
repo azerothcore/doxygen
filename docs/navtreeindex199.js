@@ -1,14 +1,19 @@
 var NAVTREEINDEX199 =
 {
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[7,0,13,8,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[7,0,13,8,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[7,0,13,8,5,0],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[7,0,13,8,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,34,8,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,34,8,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[7,0,13,8,5,2],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,34,8,5,3],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[7,0,13,8,5,3],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[5,0,34,8,5,7],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,34,8,5,3],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[7,0,13,8,5,7],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[5,0,34,8,5,7],
 "d7/d52/classSpellEvent.html":[7,0,4384],
 "d7/d52/classSpellEvent.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e":[7,0,4384,1],
 "d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[7,0,4384,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d60/structboss__keristrasza.html#a26d6559cc92841f8f76544cdbbf2cbaf":[7,0,586,4],
 "d7/d60/structboss__keristrasza.html#a3f962a6c7a65d458f1b05a15e6f53951":[7,0,586,3],
 "d7/d60/structboss__keristrasza.html#a46a2e61e27cc72710c7aa14212673eae":[7,0,586,9],
-"d7/d60/structboss__keristrasza.html#a5f83fee9a5616751601f0c1155afab36":[7,0,586,0],
-"d7/d60/structboss__keristrasza.html#a67b50805b9e01cd1d0fb7966b3288b9f":[7,0,586,5],
-"d7/d60/structboss__keristrasza.html#a900a4a8428a04b880462b20196e94858":[7,0,586,1],
-"d7/d60/structboss__keristrasza.html#a97b6fe26a5bbc4a7c528939e82cd0ca5":[7,0,586,6],
-"d7/d60/structboss__keristrasza.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba":[7,0,586,2],
-"d7/d60/structboss__keristrasza.html#aa4c06ad8d599192c2f4ecb52f92e3a31":[7,0,586,10]
+"d7/d60/structboss__keristrasza.html#a5f83fee9a5616751601f0c1155afab36":[7,0,586,0]
 };

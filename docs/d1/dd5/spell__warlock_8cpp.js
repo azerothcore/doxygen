@@ -79,6 +79,7 @@ var spell__warlock_8cpp =
       [ "SPELL_WARLOCK_LIFE_TAP_ENERGIZE_2", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a666925ba35a627b7fcacfd418f07b5b9", null ],
       [ "SPELL_WARLOCK_SEED_OF_CORRUPTION_DAMAGE_R1", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a820b3ba55bbafd3e149a55ed90fbad20", null ],
       [ "SPELL_WARLOCK_SEED_OF_CORRUPTION_DAMAGE_GENERIC", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a76b17698034f014ed84e332eb3a65f6f", null ],
+      [ "SPELL_WARLOCK_SEED_OF_CORRUPTION_VISUAL", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a1361c96205332483528d889c104eedbf", null ],
       [ "SPELL_WARLOCK_SOULSHATTER", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af475dcd791391d00772aba22b47140a6", null ],
       [ "SPELL_WARLOCK_SIPHON_LIFE_HEAL", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a20df89f9cb70ec0066cf66eb45d2f1fc", null ],
       [ "SPELL_WARLOCK_UNSTABLE_AFFLICTION_DISPEL", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad95ba7ba12fda07f5930c7c223c14f90", null ],

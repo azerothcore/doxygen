@@ -1,5 +1,9 @@
 var NAVTREEINDEX164 =
 {
+"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad547d87b58896f0fa2a58a0588a37c06":[8,0,0,0,1,3,5,7,0,4,2],
+"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,7,0,4,4],
+"d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63":[8,0,0,0,1,3,5,7,0,4,0],
+"d5/de3/boss__anubrekhan_8cpp.html#aca213155e8f076d7aaf870a8b79f12f3":[8,0,0,0,1,3,5,7,0,6],
 "d5/de3/classspell__halion__twilight__cutter.html":[7,0,3161],
 "d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3161,1],
 "d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3161,0],
@@ -220,8 +224,8 @@ var NAVTREEINDEX164 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[8,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX164 =
 "d5/def/structChrClassesEntry.html#a7a0a35bbb69320565d991f4a349dc01b":[7,0,891,0],
 "d5/def/structChrClassesEntry.html#a7c57eabd8d94849cd8536b013a8d4138":[7,0,891,2],
 "d5/def/structChrClassesEntry.html#a9da8d8d20126e9dc161b1dd64a19fe59":[7,0,891,1],
-"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html":[7,0,448,0],
-"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html#ab0d0f8a7ec6567e8811d09721f6fa9ed":[7,0,448,0,0],
-"d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
-"d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
-"d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0]
+"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html":[7,0,448,0]
 };

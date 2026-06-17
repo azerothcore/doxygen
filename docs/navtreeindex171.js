@@ -1,5 +1,9 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1a/classOutdoorPvPEP.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1":[7,0,2354,11],
+"d6/d1a/classOutdoorPvPEP.html#a7e8fcf50f88bdb56b189877721a1f006":[7,0,2354,9],
+"d6/d1a/classOutdoorPvPEP.html#a974910b2f7f2d8cfaf43b6694bf4c2c7":[7,0,2354,8],
+"d6/d1a/classOutdoorPvPEP.html#a9e7404160b1220dc3cc2766a07f42ad2":[7,0,2354,3],
 "d6/d1a/classOutdoorPvPEP.html#ab4915dfc03de08cad83eb48c4c789cb8":[7,0,2354,0],
 "d6/d1a/classOutdoorPvPEP.html#abef30d5cbe7c2cd52cd32ae29da1c9ce":[7,0,2354,6],
 "d6/d1a/classOutdoorPvPEP.html#ac1b185125fa1f8864d1062b65be24bdc":[7,0,2354,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2194,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2194,0,3],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2194,0,2],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#adb456f1f93be5329174a3199c9092825":[7,0,2194,0,0],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#af82baa22ae49ba268f494cb07287845e":[7,0,2194,0,1],
-"d6/d24/GridObjectLoader_8cpp.html":[8,0,0,0,1,2,19,4],
-"d6/d25/WardenMac_8cpp.html":[8,0,0,0,1,2,46,6],
-"d6/d26/classBattlefield.html":[7,0,324]
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#adb456f1f93be5329174a3199c9092825":[7,0,2194,0,0]
 };

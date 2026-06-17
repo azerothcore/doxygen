@@ -1,5 +1,10 @@
 var NAVTREEINDEX249 =
 {
+"d9/d82/classspell__dru__survival__instincts.html":[7,0,2896],
+"d9/d82/classspell__dru__survival__instincts.html#a605e7b8849186c3c2df731cac743a208":[7,0,2896,1],
+"d9/d82/classspell__dru__survival__instincts.html#a62533bff915db8323b53352f17c4825f":[7,0,2896,2],
+"d9/d82/classspell__dru__survival__instincts.html#aefa91f15300520de7cffad4f4ca82ccf":[7,0,2896,0],
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html":[7,0,3993],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a0178e7c4f5509a4bb2c6ed3811fc9685":[7,0,3993,3],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a207c1fd89fd726054a881e342391d2a0":[7,0,3993,0],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a47574795b2a262625c65ab23a4179684":[7,0,3993,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6":[8,0,0,0,1,3,5,9,2,1,11],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a199edfe127305f4ddb0c43d531c05ff7":[8,0,0,0,1,3,5,9,2,1,11,7],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a30202f6e3590ba21b72d23e11569fc53":[8,0,0,0,1,3,5,9,2,1,11,14],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a36d8ae781b8e0bdf8c139cc4330487cb":[8,0,0,0,1,3,5,9,2,1,11,4],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a4dd1689dacf938259619bfa64cc4884c":[8,0,0,0,1,3,5,9,2,1,11,17],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a5e94c5cfb5b4253f7ba60ceadbacb670":[8,0,0,0,1,3,5,9,2,1,11,8],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a60b0fac6871c1a16eb87f738814965ee":[8,0,0,0,1,3,5,9,2,1,11,18],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a677d90c347b96a3827e6fc6fbf5bfa65":[8,0,0,0,1,3,5,9,2,1,11,6],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a76af383762c772ec9e1f0d68573c71b7":[8,0,0,0,1,3,5,9,2,1,11,10]
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a36d8ae781b8e0bdf8c139cc4330487cb":[8,0,0,0,1,3,5,9,2,1,11,4]
 };

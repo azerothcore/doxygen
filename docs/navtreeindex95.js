@@ -1,5 +1,7 @@
 var NAVTREEINDEX95 =
 {
+"d3/d24/classBossAI.html#a3980e3c1e8e9992034c9ec35a8b3e298":[7,0,825,12],
+"d3/d24/classBossAI.html#a3e0ba0a1f28c32250a98ff7beda9ee25":[7,0,825,27],
 "d3/d24/classBossAI.html#a4e96f23395b7101c59a0a43180c904f1":[7,0,825,17],
 "d3/d24/classBossAI.html#a51bf321a6c99a9a4d6635eb4c07ece9f":[7,0,825,16],
 "d3/d24/classBossAI.html#a55938a5ee8ad433cca9fad829cc0d915":[7,0,825,15],
@@ -77,10 +79,10 @@ var NAVTREEINDEX95 =
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,34,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[7,0,13,13,4,3],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[7,0,13,13,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[5,0,34,13,4,1],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[7,0,13,13,4,2],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[7,0,13,13,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,34,13,4,2],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[7,0,13,13,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,34,13,4,0],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[7,0,13,13,4,0],
 "d3/d26/classspell__ioc__launch.html":[7,0,3303],
@@ -106,12 +108,12 @@ var NAVTREEINDEX95 =
 "d3/d2a/classspell__sha__thunderstorm.html#a65787b78165631898458264e6ee310f4":[7,0,4063,1],
 "d3/d2a/classspell__sha__thunderstorm.html#abad9f9293260a3e99be98b43aabb321b":[7,0,4063,0],
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[7,0,4063,2],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,0,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[7,0,0,4,0,5],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,0,7,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[7,0,0,4,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[7,0,0,4,0,5,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,0,7,0,5,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[7,0,0,4,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[7,0,1773],
@@ -247,7 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac840377c67721cb0f76ab6c13b3a8781":[8,0,0,0,1,3,5,9,2,13,46,1],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac8aff247e80d471cd6550169ad9a5fa1":[8,0,0,0,1,3,5,9,2,13,46,67],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf":[8,0,0,0,1,3,5,9,2,13,46,32],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad13d10db7529d21bdf863f86d860fb65":[8,0,0,0,1,3,5,9,2,13,46,45],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad3999cba26db667949f9698805344821":[8,0,0,0,1,3,5,9,2,13,46,40],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad4aa42546dab7c9a8843b37d1b65b6bb":[8,0,0,0,1,3,5,9,2,13,46,27]
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad13d10db7529d21bdf863f86d860fb65":[8,0,0,0,1,3,5,9,2,13,46,45]
 };

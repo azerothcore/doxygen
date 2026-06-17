@@ -1,5 +1,9 @@
 var NAVTREEINDEX123 =
 {
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298ca72901c84087f3acf4889bbddbd53c358":[8,0,0,0,1,3,7,4,3,3,6,3],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298caa526780216f602fa537a6d507136b385":[8,0,0,0,1,3,7,4,3,3,6,5],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298cadeee8499bcb84c1ec5ba2c3ce9ac0df6":[8,0,0,0,1,3,7,4,3,3,6,0],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298cadefef1415deef4d3924af79d3a5078eb":[8,0,0,0,1,3,7,4,3,3,6,2],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#ac067b2628f6d2b9e977f96710b7e4348":[8,0,0,0,1,3,7,4,3,3,10],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#acafc38a049cd1f64588bdb4e0e6c28a0":[8,0,0,0,1,3,7,4,3,3,7],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#af15910a401b19f3cc0b637b36cc198a3":[8,0,0,0,1,3,7,4,3,3,9],
@@ -121,8 +125,8 @@ var NAVTREEINDEX123 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2681],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2681,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2681,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d2b/OutdoorPvPHP_8h.html#ab540dae1c3c44e27c4441e9d56e10d1d":[8,0,0,0,1,3,6,6,6],
 "d4/d2b/OutdoorPvPHP_8h.html#ab9c6e470e4a4759ce2e77f88661521bb":[8,0,0,0,1,3,6,6,9],
 "d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33":[8,0,0,0,1,3,6,6,4],
-"d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84":[8,0,0,0,1,3,6,6,4,2],
-"d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355":[8,0,0,0,1,3,6,6,4,3],
-"d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447":[8,0,0,0,1,3,6,6,4,1],
-"d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9":[8,0,0,0,1,3,6,6,4,0],
-"d4/d2b/OutdoorPvPHP_8h.html#ae64775fc45fae501937d72c9d55c8dc1":[8,0,0,0,1,3,6,6,11]
+"d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84":[8,0,0,0,1,3,6,6,4,2]
 };

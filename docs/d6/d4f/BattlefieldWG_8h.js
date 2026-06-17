@@ -197,14 +197,15 @@ var BattlefieldWG_8h =
       [ "BATTLEFIELD_WG_WORKSHOP_NW", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a84a413925c8de4a4ce2f24f086211f74", null ],
       [ "BATTLEFIELD_WG_WORKSHOP_SE", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a2fe196b931b02461431911cba7067da3", null ],
       [ "BATTLEFIELD_WG_WORKSHOP_SW", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59adce886a385ea931bfdebf8e27bad4da0", null ],
-      [ "BATTLEFIELD_WG_WORKSHOP_KEEP_WEST", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567", null ],
-      [ "BATTLEFIELD_WG_WORKSHOP_KEEP_EAST", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a69768f1e4da080ed018a721f207879d2", null ]
+      [ "BATTLEFIELD_WG_WORKSHOP_KEEP_EAST", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a69768f1e4da080ed018a721f207879d2", null ],
+      [ "BATTLEFIELD_WG_WORKSHOP_KEEP_WEST", "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567", null ]
     ] ],
     [ "AttackTowers", "d6/d4f/BattlefieldWG_8h.html#a1a9362fc649e780f8a7e22202fa12f9c", null ],
     [ "ClockWorldState", "d6/d4f/BattlefieldWG_8h.html#aee94e9d33d9baab82c1bce12a3e9ba03", null ],
     [ "MaxVehNumWorldState", "d6/d4f/BattlefieldWG_8h.html#a5aafb12f33e8c781f7386149a8a9128f", null ],
     [ "TowerCannon", "d6/d4f/BattlefieldWG_8h.html#a4b7bc4f6aebe44f1b806b7084e08c54a", null ],
     [ "VehNumWorldState", "d6/d4f/BattlefieldWG_8h.html#a1632ab800297621fdeabb462c1a206d3", null ],
+    [ "WG_CAPTURE_WORKSHOP_COUNT", "d6/d4f/BattlefieldWG_8h.html#a0a635da5b31ac1f45b83da5576f25cfe", null ],
     [ "WG_MAX_ATTACKTOWERS", "d6/d4f/BattlefieldWG_8h.html#a84afa59c796c189bd3384964d40d3304", null ],
     [ "WG_MAX_KEEP_NPC", "d6/d4f/BattlefieldWG_8h.html#a429fdb51497ac03b7447f5492148fb7b", null ],
     [ "WG_MAX_OBJ", "d6/d4f/BattlefieldWG_8h.html#aab6b7a16c5d957cf2d31ebff2a8e1efe", null ],

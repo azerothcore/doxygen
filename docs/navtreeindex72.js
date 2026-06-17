@@ -1,5 +1,6 @@
 var NAVTREEINDEX72 =
 {
+"d2/dab/classFrostwingVrykulSearcher.html#af5d3c93f41698e71c867336d0453d40a":[7,0,1093,3],
 "d2/dab/classFrostwingVrykulSearcher.html#afbf32ce600cee12930fefcf9b5e87f16":[7,0,1093,1],
 "d2/dae/Optional_8h.html":[8,0,0,0,0,15,18],
 "d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82":[8,0,0,0,0,15,18,0],
@@ -217,10 +218,10 @@ var NAVTREEINDEX72 =
 "d2/dbc/classlfg_1_1LFGMgr.html":[7,0,5,5],
 "d2/dbc/classlfg_1_1LFGMgr.html#a0077617af51a518cb4b3b4e09ab0a72b":[5,0,17,5,34],
 "d2/dbc/classlfg_1_1LFGMgr.html#a0077617af51a518cb4b3b4e09ab0a72b":[7,0,5,5,34],
-"d2/dbc/classlfg_1_1LFGMgr.html#a056106f3fe645ffd6908e1a3986e6745":[5,0,17,5,29],
 "d2/dbc/classlfg_1_1LFGMgr.html#a056106f3fe645ffd6908e1a3986e6745":[7,0,5,5,29],
-"d2/dbc/classlfg_1_1LFGMgr.html#a068869f533964e59e5a87b17a9cc6365":[5,0,17,5,11],
+"d2/dbc/classlfg_1_1LFGMgr.html#a056106f3fe645ffd6908e1a3986e6745":[5,0,17,5,29],
 "d2/dbc/classlfg_1_1LFGMgr.html#a068869f533964e59e5a87b17a9cc6365":[7,0,5,5,11],
+"d2/dbc/classlfg_1_1LFGMgr.html#a068869f533964e59e5a87b17a9cc6365":[5,0,17,5,11],
 "d2/dbc/classlfg_1_1LFGMgr.html#a07b1f016513a06abbcd1e467b4e224b8":[5,0,17,5,123],
 "d2/dbc/classlfg_1_1LFGMgr.html#a07b1f016513a06abbcd1e467b4e224b8":[7,0,5,5,123],
 "d2/dbc/classlfg_1_1LFGMgr.html#a0bbfbfe461f985bd06556faf572fcf44":[7,0,5,5,37],
@@ -233,8 +234,8 @@ var NAVTREEINDEX72 =
 "d2/dbc/classlfg_1_1LFGMgr.html#a1514670e9317435757aa965f3754715c":[5,0,17,5,71],
 "d2/dbc/classlfg_1_1LFGMgr.html#a19c676a2e5d75b0f9ee7b66247e68075":[5,0,17,5,67],
 "d2/dbc/classlfg_1_1LFGMgr.html#a19c676a2e5d75b0f9ee7b66247e68075":[7,0,5,5,67],
-"d2/dbc/classlfg_1_1LFGMgr.html#a1a0596fbd048cc1df988b3c118b03fe9":[7,0,5,5,125],
 "d2/dbc/classlfg_1_1LFGMgr.html#a1a0596fbd048cc1df988b3c118b03fe9":[5,0,17,5,125],
+"d2/dbc/classlfg_1_1LFGMgr.html#a1a0596fbd048cc1df988b3c118b03fe9":[7,0,5,5,125],
 "d2/dbc/classlfg_1_1LFGMgr.html#a1b7d8e7f21843cd51645fe1845cabc4a":[5,0,17,5,42],
 "d2/dbc/classlfg_1_1LFGMgr.html#a1b7d8e7f21843cd51645fe1845cabc4a":[7,0,5,5,42],
 "d2/dbc/classlfg_1_1LFGMgr.html#a1ee23809e15d05f04f9b287e47a68c94":[5,0,17,5,66],
@@ -243,11 +244,10 @@ var NAVTREEINDEX72 =
 "d2/dbc/classlfg_1_1LFGMgr.html#a1f2516da36d06300f18a6ea586c3c3ea":[5,0,17,5,53],
 "d2/dbc/classlfg_1_1LFGMgr.html#a21634d0531270faacc251b470dfff162":[5,0,17,5,102],
 "d2/dbc/classlfg_1_1LFGMgr.html#a21634d0531270faacc251b470dfff162":[7,0,5,5,102],
-"d2/dbc/classlfg_1_1LFGMgr.html#a22a354b387c2570a1cf4ea474165be12":[7,0,5,5,35],
 "d2/dbc/classlfg_1_1LFGMgr.html#a22a354b387c2570a1cf4ea474165be12":[5,0,17,5,35],
+"d2/dbc/classlfg_1_1LFGMgr.html#a22a354b387c2570a1cf4ea474165be12":[7,0,5,5,35],
 "d2/dbc/classlfg_1_1LFGMgr.html#a2985db250b8666128409e07658303b02":[7,0,5,5,10],
 "d2/dbc/classlfg_1_1LFGMgr.html#a2985db250b8666128409e07658303b02":[5,0,17,5,10],
 "d2/dbc/classlfg_1_1LFGMgr.html#a306bbb3f64039c40fbc9ddb79b4f2614":[7,0,5,5,40],
-"d2/dbc/classlfg_1_1LFGMgr.html#a306bbb3f64039c40fbc9ddb79b4f2614":[5,0,17,5,40],
-"d2/dbc/classlfg_1_1LFGMgr.html#a347fca8ca9c8c5286412939508abb0de":[5,0,17,5,94]
+"d2/dbc/classlfg_1_1LFGMgr.html#a306bbb3f64039c40fbc9ddb79b4f2614":[5,0,17,5,40]
 };

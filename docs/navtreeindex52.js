@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d19/structnpc__icc__valkyr__herald_1_1npc__icc__valkyr__heraldAI.html":[7,0,1896,0],
 "d2/d19/structnpc__icc__valkyr__herald_1_1npc__icc__valkyr__heraldAI.html#a0eefcf657c8b00b8f4a586f72467e1ca":[7,0,1896,0,6],
 "d2/d19/structnpc__icc__valkyr__herald_1_1npc__icc__valkyr__heraldAI.html#a28b3fdd5f60a2277604b9c4a4766f7bc":[7,0,1896,0,10],
 "d2/d19/structnpc__icc__valkyr__herald_1_1npc__icc__valkyr__heraldAI.html#a379afe20ef8acbbc510485da74a41487":[7,0,1896,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1e/structLightEntry.html#a6943bf760d15b3f8af4109d131652d72":[7,0,1439,0],
 "d2/d1e/structLightEntry.html#a91183890254546efeb3162173cc60dad":[7,0,1439,2],
 "d2/d1e/structLightEntry.html#aaa23c59f20fc96aec148b82516f30036":[7,0,1439,4],
-"d2/d1e/structLightEntry.html#ab0cccd760636a3b42af693d6c483bed9":[7,0,1439,1],
-"d2/d1e/structScriptAction.html":[7,0,2537]
+"d2/d1e/structLightEntry.html#ab0cccd760636a3b42af693d6c483bed9":[7,0,1439,1]
 };

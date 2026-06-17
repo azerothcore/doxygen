@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d75/Duration_8h.html#a7f38d5f5e7db75251b49712f910059ac":[8,0,0,0,0,15,7,12],
 "d2/d75/Duration_8h.html#a7ff3ff81243ee7b2ce873364bb7ad676":[8,0,0,0,0,15,7,13],
 "d2/d75/Duration_8h.html#a983745490d3d3a0322c4ccf0f418f179":[8,0,0,0,0,15,7,9],
 "d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083":[8,0,0,0,0,15,7,1],
@@ -155,10 +156,10 @@ var NAVTREEINDEX69 =
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html":[5,0,34,14,9],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[5,0,34,14,9,0],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[7,0,13,14,9,0],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[5,0,34,14,9,2],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[7,0,13,14,9,1],
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[5,0,34,14,9,1],
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[7,0,13,14,9,1],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[5,0,34,14,9,3],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[7,0,13,14,9,3],
 "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html":[7,0,329,0],
@@ -211,10 +212,10 @@ var NAVTREEINDEX69 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[7,0,2011,0,4],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[7,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,0,5,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[7,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,0,5,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,0,5,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[7,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[7,0,0,3,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,0,5,1,0],
 "d2/d8a/TicketScript_8cpp.html":[8,0,0,0,1,2,38,0,82],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[8,0,0,0,1,2,38,0,82,0],
 "d2/d8a/classat__dragonspire__hall.html":[7,0,223],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d8b/structArenaTeamStats.html":[7,0,207],
 "d2/d8b/structArenaTeamStats.html#a124c6d64f22c13707764eedd79fe1912":[7,0,207,2],
 "d2/d8b/structArenaTeamStats.html#a1d0092200b2c9428e821473949cfda77":[7,0,207,4],
-"d2/d8b/structArenaTeamStats.html#a313afef901bd5a9347f2074a7ca1bfe0":[7,0,207,5],
-"d2/d8b/structArenaTeamStats.html#a9bcd8dc00437bcf015565eeb43263578":[7,0,207,0]
+"d2/d8b/structArenaTeamStats.html#a313afef901bd5a9347f2074a7ca1bfe0":[7,0,207,5]
 };

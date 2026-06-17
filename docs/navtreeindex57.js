@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d3d/boss__lurker__below_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[8,0,0,0,1,3,7,2,0,4,4],
 "d2/d3d/boss__lurker__below_8cpp.html#aab072245ab577ff0e12efe20a536b99aa1fdaf4a07bada6d867ab661c2e27f10c":[8,0,0,0,1,3,7,2,0,4,4,1],
 "d2/d3d/boss__lurker__below_8cpp.html#aab072245ab577ff0e12efe20a536b99aae2fcf2e615b3c4b3730a67d2fce34236":[8,0,0,0,1,3,7,2,0,4,4,0],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html":[8,0,0,0,1,3,7,5,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d48/classChannel.html#a591082b95ce284fd51cd70ea640e737e":[7,0,864,52],
 "d2/d48/classChannel.html#a59382028b0cb2d0c73b8a04f6c6dde3c":[7,0,864,54],
 "d2/d48/classChannel.html#a5b735625aef75d0ad937f3c1b0387732":[7,0,864,39],
-"d2/d48/classChannel.html#a60ac5c0db621040bca03a44dfdb2d4fa":[7,0,864,30],
-"d2/d48/classChannel.html#a62ddfdef17c946e5646e3c77392d000d":[7,0,864,46]
+"d2/d48/classChannel.html#a60ac5c0db621040bca03a44dfdb2d4fa":[7,0,864,30]
 };

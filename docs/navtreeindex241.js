@@ -1,5 +1,10 @@
 var NAVTREEINDEX241 =
 {
+"d9/d26/classCombatManager.html#a86128d887c36c9f7b5cf7efd26279b6b":[7,0,907,0],
+"d9/d26/classCombatManager.html#a865bb167c404e1ecb9001991f0649655":[7,0,907,12],
+"d9/d26/classCombatManager.html#a8a59f0f3548bd05ac8e1a9cac63d3e28":[7,0,907,2],
+"d9/d26/classCombatManager.html#a8bb19aea3111dfcc48985039ee1ca608":[7,0,907,4],
+"d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04":[7,0,907,38],
 "d9/d26/classCombatManager.html#a960afd93d3a0fe1ed19a7537890281a7":[7,0,907,24],
 "d9/d26/classCombatManager.html#aa52c206aea68bc6caa466ae6b584a0a7":[7,0,907,7],
 "d9/d26/classCombatManager.html#aa5445b5f076a8963ea55ef2d3c961f28":[7,0,907,16],
@@ -60,8 +65,8 @@ var NAVTREEINDEX241 =
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,168,5],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
@@ -170,8 +175,8 @@ var NAVTREEINDEX241 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[7,0,3670,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[7,0,3670,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[7,0,3670,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,0,8,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[7,0,0,5,0,5],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,0,8,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,0,8,0,5,0],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[7,0,0,5,0,5,0],
 "d9/d31/RBAC_8cpp.html":[8,0,0,0,1,2,0,2],
@@ -198,8 +203,8 @@ var NAVTREEINDEX241 =
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,34,6,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,34,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[7,0,13,6,25,1],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,34,6,25,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[7,0,13,6,25,0],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,34,6,25,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html":[7,0,1939,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a2c5e519bd2a1699b74811c92bb217d20":[7,0,1939,0,4],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a66fcb4b5130ff03f1926eec3b4d9ff6a":[7,0,1939,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d33/classspell__ioc__bomb__blast__criteria.html#a2d3b99dfe386777cf71ccb2ccac9f3a7":[7,0,3301,2],
 "d9/d33/classspell__ioc__bomb__blast__criteria.html#a811edfe01c1784664b5b4253d2305b4e":[7,0,3301,0],
 "d9/d33/classspell__ioc__bomb__blast__criteria.html#ab74d5c88a910fe191b071db3ac2c0381":[7,0,3301,3],
-"d9/d34/GossipDef_8cpp.html":[8,0,0,0,1,2,16,1,6],
-"d9/d34/MiscHandler_8cpp.html":[8,0,0,0,1,2,22,19],
-"d9/d34/classboss__sapphiron.html":[7,0,697],
-"d9/d34/classboss__sapphiron.html#a31209287faa721bef341388ae4383b6c":[7,0,697,2],
-"d9/d34/classboss__sapphiron.html#a87a70204dd727f92d035ad98e2ab9010":[7,0,697,1],
-"d9/d34/structShadowOfDeathSelector.html":[7,0,2564]
+"d9/d34/GossipDef_8cpp.html":[8,0,0,0,1,2,16,1,6]
 };

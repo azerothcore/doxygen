@@ -1,5 +1,10 @@
 var NAVTREEINDEX228 =
 {
+"d8/d74/classWorldSession.html#ad8f538bb7609ac82e84850630f6c180d":[4,1,19,340],
+"d8/d74/classWorldSession.html#ad93deff76144eb53d80896e839c592ad":[4,1,19,500],
+"d8/d74/classWorldSession.html#ada77032a1b7ad5a8d43e257a117239b9":[4,1,19,562],
+"d8/d74/classWorldSession.html#ada84df34770512a63204f4fc500d268a":[4,1,19,449],
+"d8/d74/classWorldSession.html#adad74cb45da1c9ca108bd59beb95cca0":[4,1,19,494],
 "d8/d74/classWorldSession.html#adb6ceb87b7400f5e95a5a289795b46cf":[4,1,19,552],
 "d8/d74/classWorldSession.html#adc5517d80512262fe3b6c1c887bacba8":[4,1,19,30],
 "d8/d74/classWorldSession.html#adcb19de68fab4449b1460d0f9ca44845":[4,1,19,83],
@@ -151,10 +156,10 @@ var NAVTREEINDEX228 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,990,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,990,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,990,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1608],
@@ -244,10 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html":[7,0,2133,0],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a0d36e4903448c5a03115df0dff3480c8":[7,0,2133,0,10],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a2ecc5e8289252b2936f36de9921294e0":[7,0,2133,0,0],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a50afc82c80cede8dcf3240a116463411":[7,0,2133,0,1],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a60c1704617e99239d60d24d6b7513c1a":[7,0,2133,0,4],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a8beac97ea5f7c797d2ae52e2f3c3be50":[7,0,2133,0,2],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba":[7,0,2133,0,5],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac1d282da6f2d9133619a212a349c777f":[7,0,2133,0,7],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[7,0,2133,0,8]
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a50afc82c80cede8dcf3240a116463411":[7,0,2133,0,1]
 };

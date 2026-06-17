@@ -1,5 +1,10 @@
 var NAVTREEINDEX198 =
 {
+"d7/d46/classAuraEffect.html#aa95ea36217eb2e120bb22fa8fe9c82e2":[7,0,293,162],
+"d7/d46/classAuraEffect.html#aa978582e776583063a2a82af4c658c35":[7,0,293,153],
+"d7/d46/classAuraEffect.html#aab17b1ef9a6932ad13b43b0ed377e044":[7,0,293,52],
+"d7/d46/classAuraEffect.html#aab9391e1ba5774b3df74dee4f65f707a":[7,0,293,119],
+"d7/d46/classAuraEffect.html#aad290467c397f70ff3ca4c24961a05fb":[7,0,293,89],
 "d7/d46/classAuraEffect.html#aaea11ca24fdbdb92e653f59bfd181ff0":[7,0,293,74],
 "d7/d46/classAuraEffect.html#aaf478059af657f8126f4979f94b60159":[7,0,293,43],
 "d7/d46/classAuraEffect.html#ab0b3261b6c7f5ae45348d0113d24f1ed":[7,0,293,7],
@@ -241,13 +246,8 @@ var NAVTREEINDEX198 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a288f8917d73be30234e465778b1f6544":[7,0,4175,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a69f9cdbfc33ec39f629f08f20484b29e":[7,0,4175,2],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[7,0,4175,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,34,8,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[7,0,13,8,5,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[7,0,13,8,5,1],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[7,0,13,8,5,4],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0]
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[7,0,13,8,5,5]
 };

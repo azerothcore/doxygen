@@ -1,5 +1,7 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad4da5951c439723f97e7016ad1da2ada":[8,0,0,0,1,2,48,7,0,360],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad5d45080645c9769aae336790fa88319":[8,0,0,0,1,2,48,7,0,380],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad63da5a21299a8e812f70808082ed735":[8,0,0,0,1,2,48,7,0,350],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad651f823454a3bfd35d32ef1aa630f71":[8,0,0,0,1,2,48,7,0,149],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad694b307053b5b4ce4cdd242532b1ab4":[8,0,0,0,1,2,48,7,0,162],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d50/structPlayerInfo.html#abbff546bbe2cc0ea643c41456c1f0d9f":[7,0,2414,8],
 "d3/d50/structPlayerInfo.html#ad21a8dd3353d3f141bcc9af65e607aee":[7,0,2414,13],
 "d3/d50/structPlayerInfo.html#ad76819034c64c0c691561eff683b7e57":[7,0,2414,7],
-"d3/d50/structPlayerInfo.html#ad8d359374f74de40c1c591bb61976405":[7,0,2414,9],
-"d3/d50/structPlayerInfo.html#adf14854368c9351fe2fba3215194f2f9":[7,0,2414,5],
-"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html":[7,0,1757,0]
+"d3/d50/structPlayerInfo.html#ad8d359374f74de40c1c591bb61976405":[7,0,2414,9]
 };

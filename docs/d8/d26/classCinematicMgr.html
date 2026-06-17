@@ -251,10 +251,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   73</span>    <a class="code hl_variable" href="../../d8/d26/classCinematicMgr.html#aa64550198cbacf5fdedd2d30d015d99d">_activeCinematicCameraId</a> = 0;</div>
 <div class="line"><span class="lineno">   74</span>    <a class="code hl_variable" href="../../d8/d26/classCinematicMgr.html#a1f471f895c8cda67733cf3df29441886">_player</a>.<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a2947bc27c158b029e987f0c37c242786">UpdateVisibilityForPlayer</a>();</div>
 <div class="line"><span class="lineno">   75</span>}</div>
-<div class="ttc" id="aclassPlayer_html_a2947bc27c158b029e987f0c37c242786"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a2947bc27c158b029e987f0c37c242786">Player::UpdateVisibilityForPlayer</a></div><div class="ttdeci">void UpdateVisibilityForPlayer(bool mapChange=false)</div><div class="ttdef"><b>Definition</b> PlayerUpdates.cpp:1597</div></div>
+<div class="ttc" id="aclassPlayer_html_a2947bc27c158b029e987f0c37c242786"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a2947bc27c158b029e987f0c37c242786">Player::UpdateVisibilityForPlayer</a></div><div class="ttdeci">void UpdateVisibilityForPlayer(bool mapChange=false)</div><div class="ttdef"><b>Definition</b> PlayerUpdates.cpp:1602</div></div>
 <div class="ttc" id="astructIntervalTimer_html_ae243f18c4c3174b91fa01f6d08b04d4d"><div class="ttname"><a href="../../d5/dab/structIntervalTimer.html#ae243f18c4c3174b91fa01f6d08b04d4d">IntervalTimer::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition</b> Timer.h:166</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, and <a class="el" href="../../#l01597">Player::UpdateVisibilityForPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, and <a class="el" href="../../#l01602">Player::UpdateVisibilityForPlayer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00940">WorldSession::HandleCompleteCinematic()</a>, and <a class="el" href="../../#l00077">UpdateCinematic()</a>.</p>
 
@@ -310,7 +310,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   46</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/classCinematicMgr.html#a3c747cf6679bb2533789581fcb09f246">_remoteSightPosition</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l13310">Player::GetSightPosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13328">Player::GetSightPosition()</a>.</p>
 
 </div>
 </div>
@@ -338,7 +338,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/d26/classCinematicMgr.html#aceda58e6f506fbefc70292abb0687411">_cinematicCamera</a> != <span class="keyword">nullptr</span>); }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l13310">Player::GetSightPosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13328">Player::GetSightPosition()</a>.</p>
 
 </div>
 </div>
@@ -393,10 +393,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   36</span>}</div>
 <div class="ttc" id="aDBCStores_8cpp_html_ae2d0342340981e0015a66c4045a9c70c"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a></div><div class="ttdeci">DBCStorage&lt; CinematicSequencesEntry &gt; sCinematicSequencesStore(CinematicSequencesEntryfmt)</div></div>
 <div class="ttc" id="aclassCinematicMgr_html_afa5c37702ecdb71e09e552b92fa5ad71"><div class="ttname"><a href="../../d8/d26/classCinematicMgr.html#afa5c37702ecdb71e09e552b92fa5ad71">CinematicMgr::SetActiveCinematicCamera</a></div><div class="ttdeci">void SetActiveCinematicCamera(uint32 cinematicCameraId=0)</div><div class="ttdef"><b>Definition</b> CinematicMgr.h:41</div></div>
-<div class="ttc" id="aclassPlayer_html_aa200b1a7e5ba41136515e6ae9d1afe02"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#aa200b1a7e5ba41136515e6ae9d1afe02">Player::SendCinematicStart</a></div><div class="ttdeci">void SendCinematicStart(uint32 CinematicSequenceId) const</div><div class="ttdef"><b>Definition</b> Player.cpp:5699</div></div>
+<div class="ttc" id="aclassPlayer_html_aa200b1a7e5ba41136515e6ae9d1afe02"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#aa200b1a7e5ba41136515e6ae9d1afe02">Player::SendCinematicStart</a></div><div class="ttdeci">void SendCinematicStart(uint32 CinematicSequenceId) const</div><div class="ttdef"><b>Definition</b> Player.cpp:5706</div></div>
 <div class="ttc" id="astructCinematicSequencesEntry_html"><div class="ttname"><a href="../../d5/d22/structCinematicSequencesEntry.html">CinematicSequencesEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:713</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>, <a class="el" href="../../#l05699">Player::SendCinematicStart()</a>, and <a class="el" href="../../#l00041">SetActiveCinematicCamera()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>, <a class="el" href="../../#l05706">Player::SendCinematicStart()</a>, and <a class="el" href="../../#l00041">SetActiveCinematicCamera()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00131">debug_commandscript::HandleDebugPlayCinematicCommand()</a>, <a class="el" href="../../#l00796">WorldSession::HandlePlayerLoginFromDB()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
 
@@ -448,7 +448,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructPosition_html_a9a6eb63315f36a1aa56943cc6c6d0b12"><div class="ttname"><a href="../../d0/df4/structPosition.html#a9a6eb63315f36a1aa56943cc6c6d0b12">Position::IsPositionValid</a></div><div class="ttdeci">bool IsPositionValid() const</div><div class="ttdef"><b>Definition</b> Position.cpp:183</div></div>
 <div class="ttc" id="astructPosition_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition</b> Position.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00053">_remoteSightPosition</a>, <a class="el" href="../../#l00254">GetFlyByCameras()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00225">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00030">MAX_VISIBILITY_DISTANCE</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, and <a class="el" href="../../#l01597">Player::UpdateVisibilityForPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00053">_remoteSightPosition</a>, <a class="el" href="../../#l00254">GetFlyByCameras()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00225">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00030">MAX_VISIBILITY_DISTANCE</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, and <a class="el" href="../../#l01602">Player::UpdateVisibilityForPlayer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00946">WorldSession::HandleNextCinematicCamera()</a>.</p>
 
@@ -569,7 +569,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructPosition_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition</b> Position.h:124</div></div>
 <div class="ttc" id="astructPosition_html_a8aedfa2a6eae470274a37e870dfac3b3"><div class="ttname"><a href="../../d0/df4/structPosition.html#a8aedfa2a6eae470274a37e870dfac3b3">Position::GetAbsoluteAngle</a></div><div class="ttdeci">float GetAbsoluteAngle(float x, float y) const</div><div class="ttdef"><b>Definition</b> Position.h:191</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00053">_remoteSightPosition</a>, <a class="el" href="../../#l00027">CINEMATIC_LOOKAHEAD</a>, <a class="el" href="../../#l00065">EndCinematic()</a>, <a class="el" href="../../#l00191">Position::GetAbsoluteAngle()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00225">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, <a class="el" href="../../#l00030">MAX_VISIBILITY_DISTANCE</a>, <a class="el" href="../../#l00238">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00161">IntervalTimer::Passed()</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, <a class="el" href="../../#l00152">IntervalTimer::Update()</a>, and <a class="el" href="../../#l01597">Player::UpdateVisibilityForPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">_activeCinematicCameraId</a>, <a class="el" href="../../#l00052">_cinematicCamera</a>, <a class="el" href="../../#l00050">_cinematicDiff</a>, <a class="el" href="../../#l00054">_cinematicUpdateTimer</a>, <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../#l00053">_remoteSightPosition</a>, <a class="el" href="../../#l00027">CINEMATIC_LOOKAHEAD</a>, <a class="el" href="../../#l00065">EndCinematic()</a>, <a class="el" href="../../#l00191">Position::GetAbsoluteAngle()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00225">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, <a class="el" href="../../#l00030">MAX_VISIBILITY_DISTANCE</a>, <a class="el" href="../../#l00238">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00161">IntervalTimer::Passed()</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00166">IntervalTimer::Reset()</a>, <a class="el" href="../../#l00152">IntervalTimer::Update()</a>, and <a class="el" href="../../#l01602">Player::UpdateVisibilityForPlayer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00053">Player::Update()</a>.</p>
 
@@ -730,7 +730,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d26/classCinematicMgr.html">CinematicMgr</a></li>
-    <li class="footer">Generated on Tue Jun 16 2026 11:06:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jun 17 2026 10:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

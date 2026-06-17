@@ -1,5 +1,10 @@
 var NAVTREEINDEX184 =
 {
+"d6/d8b/classat__sunwell__madrigosa.html#a137c231ea66d3781080a5617a2ffcc9e":[7,0,252,1],
+"d6/d8b/classat__sunwell__madrigosa.html#a489ddb537ef272f22bd69ced194762e7":[7,0,252,0],
+"d6/d8b/classspell__black__knight__ghoul__claw.html":[7,0,2661],
+"d6/d8b/classspell__black__knight__ghoul__claw.html#a2d5b57bbf51aadfc3eb56f8f756d04ef":[7,0,2661,2],
+"d6/d8b/classspell__black__knight__ghoul__claw.html#a8c801b92f6e405668edae54989dd58e8":[7,0,2661,0],
 "d6/d8b/classspell__black__knight__ghoul__claw.html#abae02a74f626b890f61df551318dcc81":[7,0,2661,1],
 "d6/d8b/classspell__pos__empowered__blizzard__aura.html":[7,0,3760],
 "d6/d8b/classspell__pos__empowered__blizzard__aura.html#a370e2cbf796c1bc0a891243b61c057e1":[7,0,3760,0],
@@ -142,14 +147,14 @@ var NAVTREEINDEX184 =
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[7,0,982,3,11],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[7,0,982,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[7,0,982,3,7],
-"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,982,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,982,3,3],
+"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,982,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,982,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,982,3,0],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[7,0,982,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[7,0,982,3,12],
-"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,5],
+"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[7,0,982,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[7,0,982,3,2],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,982,3,10],
@@ -244,10 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a70e52bdee0bcef5ecf339efa964e5d00":[8,0,0,0,1,2,16,6,2,4,4],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a7649ec86e3d554592e40261d7ef9d6b4":[8,0,0,0,1,2,16,6,2,4,0],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a7cb0d9dcafd074a0e7fbb1bf8b49b585":[8,0,0,0,1,2,16,6,2,4,18],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a8556c5e53b97491bb1f5cecab8742393":[8,0,0,0,1,2,16,6,2,4,20],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a915a8cd5718e9f29cf0d0931a478aefb":[8,0,0,0,1,2,16,6,2,4,17],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a978a28a5849352abc318d322b55cc27e":[8,0,0,0,1,2,16,6,2,4,7],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a97c8939d68493bb1cb2fc16ed28203b6":[8,0,0,0,1,2,16,6,2,4,21],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444aa2589181c17815e15225099063095d1f":[8,0,0,0,1,2,16,6,2,4,13],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444aba3078844283f4675371b340bff7f388":[8,0,0,0,1,2,16,6,2,4,1]
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a8556c5e53b97491bb1f5cecab8742393":[8,0,0,0,1,2,16,6,2,4,20]
 };
