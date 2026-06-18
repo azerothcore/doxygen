@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08aca92646ce5bf81e73952b4c07020d818":[8,0,0,0,1,3,2,0,0,3,7],
 "d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ad420cc37df2ea61506fb0fff461cfc3d":[8,0,0,0,1,3,2,0,0,3,3],
 "d0/d58/alterac__valley_8cpp.html#a477e08742f9c2f77d9282626f589e086":[8,0,0,0,1,3,2,0,0,7],
 "d0/d58/alterac__valley_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,0,0,6],
@@ -40,11 +39,11 @@ var NAVTREEINDEX6 =
 "d0/d58/structProcFlagScenario.html#aa64e6ad192c41998b368b908c499574d":[7,0,2454,2],
 "d0/d58/structProcFlagScenario.html#ab9d59a0be623f0d7e732ed2974178d88":[7,0,2454,4],
 "d0/d58/structProcFlagScenario.html#af927bd441959e8e122648de610398c65":[7,0,2454,1],
-"d0/d58/structSpellEnchantProcEntry.html":[7,0,4382],
-"d0/d58/structSpellEnchantProcEntry.html#a28bcdd11e64ad96be5a3ca0e0dd447c7":[7,0,4382,3],
-"d0/d58/structSpellEnchantProcEntry.html#a6bbb4046cd4c068c990aa28844e4588b":[7,0,4382,0],
-"d0/d58/structSpellEnchantProcEntry.html#ac5d048f7ee803d61d5d3c59bb80a015d":[7,0,4382,1],
-"d0/d58/structSpellEnchantProcEntry.html#adb76c11f0073a2738374c98c01fda009":[7,0,4382,2],
+"d0/d58/structSpellEnchantProcEntry.html":[7,0,4383],
+"d0/d58/structSpellEnchantProcEntry.html#a28bcdd11e64ad96be5a3ca0e0dd447c7":[7,0,4383,3],
+"d0/d58/structSpellEnchantProcEntry.html#a6bbb4046cd4c068c990aa28844e4588b":[7,0,4383,0],
+"d0/d58/structSpellEnchantProcEntry.html#ac5d048f7ee803d61d5d3c59bb80a015d":[7,0,4383,1],
+"d0/d58/structSpellEnchantProcEntry.html#adb76c11f0073a2738374c98c01fda009":[7,0,4383,2],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[5,0,34,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[7,0,13,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[5,0,34,10,6,0],
@@ -55,11 +54,11 @@ var NAVTREEINDEX6 =
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[5,0,34,10,6,3],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[7,0,13,10,6,2],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[5,0,34,10,6,2],
-"d0/d59/classspell__item__dementia.html":[7,0,3336],
-"d0/d59/classspell__item__dementia.html#a0c43d96bf2e59fd67790f327cf14d71e":[7,0,3336,2],
-"d0/d59/classspell__item__dementia.html#a1c85329bcafd6c327d1862feabc1eed0":[7,0,3336,1],
-"d0/d59/classspell__item__dementia.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5":[7,0,3336,3],
-"d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f":[7,0,3336,0],
+"d0/d59/classspell__item__dementia.html":[7,0,3337],
+"d0/d59/classspell__item__dementia.html#a0c43d96bf2e59fd67790f327cf14d71e":[7,0,3337,2],
+"d0/d59/classspell__item__dementia.html#a1c85329bcafd6c327d1862feabc1eed0":[7,0,3337,1],
+"d0/d59/classspell__item__dementia.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5":[7,0,3337,3],
+"d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f":[7,0,3337,0],
 "d0/d5a/structnpc__lake__frog_1_1npc__lake__frogAI.html":[7,0,1940,0],
 "d0/d5a/structnpc__lake__frog_1_1npc__lake__frogAI.html#a0078f9134a61f0ec2465ce103523e341":[7,0,1940,0,6],
 "d0/d5a/structnpc__lake__frog_1_1npc__lake__frogAI.html#a314d7d7891c05bda288ea0d590f0cfa4":[7,0,1940,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "d0/d5b/classPlayerScript.html#aeea3fd5686c9d985c5b0c9842e53f9a3":[7,0,2418,84],
 "d0/d5b/classPlayerScript.html#af395a893e54efeb4493f80c945be512e":[7,0,2418,161],
 "d0/d5b/classPlayerScript.html#af8af279f295984499a2c86383bab7fc7":[7,0,2418,3],
-"d0/d5b/classPlayerScript.html#af91db3833d5f39249561f19999f74b6c":[7,0,2418,49]
+"d0/d5b/classPlayerScript.html#af91db3833d5f39249561f19999f74b6c":[7,0,2418,49],
+"d0/d5b/classPlayerScript.html#afb7a7ef38ae08790d17679d59505dc47":[7,0,2418,21]
 };

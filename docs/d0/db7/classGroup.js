@@ -18,7 +18,7 @@ var classGroup =
     [ "AddLfgBuffFlag", "d0/db7/classGroup.html#aa685ebbfcefc8a8f2f4bee73bc832e3f", null ],
     [ "AddLfgHeroicFlag", "d0/db7/classGroup.html#ad67c147f0aa09b1a812d9ace153eba09", null ],
     [ "AddLfgRandomInstanceFlag", "d0/db7/classGroup.html#a10f5d72624a125ef8c08bdb2d30c63ef", null ],
-    [ "AddMember", "d0/db7/classGroup.html#a4dfd1d2dddfb659196b0b7fdb02eef7a", null ],
+    [ "AddMember", "d0/db7/classGroup.html#aa9b2e3fb80edbe3c240ef7bad2c5538b", null ],
     [ "BroadcastGroupUpdate", "d0/db7/classGroup.html#a04468c44fd9585c03961ac0956a57885", null ],
     [ "BroadcastPacket", "d0/db7/classGroup.html#a06af81d356bbe98a9be82c0bedea9c68", null ],
     [ "BroadcastReadyCheck", "d0/db7/classGroup.html#acd6c17b974b023a9c69adbc0d5323406", null ],

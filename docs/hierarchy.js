@@ -335,6 +335,7 @@ var hierarchy =
         [ "spell_igb_periodic_trigger_with_power_cost_aura", "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html", null ],
         [ "spell_igb_rocket_pack_aura", "d6/dff/classspell__igb__rocket__pack__aura.html", null ],
         [ "spell_igb_rocket_pack_useable_aura", "dc/dd9/classspell__igb__rocket__pack__useable__aura.html", null ],
+        [ "spell_ignis_brittle_aura", "d4/de1/classspell__ignis__brittle__aura.html", null ],
         [ "spell_ignis_scorch_aura", "d1/d68/classspell__ignis__scorch__aura.html", null ],
         [ "spell_ignis_slag_pot_aura", "d3/d00/classspell__ignis__slag__pot__aura.html", null ],
         [ "spell_illidan_cage_trap_stun_aura", "dc/dc4/classspell__illidan__cage__trap__stun__aura.html", null ],

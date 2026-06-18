@@ -1,7 +1,6 @@
 var structnpc__ulduar__iron__construct =
 [
     [ "npc_ulduar_iron_construct", "d0/d1c/structnpc__ulduar__iron__construct.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
-    [ "DamageTaken", "d0/d1c/structnpc__ulduar__iron__construct.html#a61989df09f881c1c8c8c6fc9f706533b", null ],
     [ "JustDied", "d0/d1c/structnpc__ulduar__iron__construct.html#ae102f4c7b9bc4246e0720287739e419a", null ],
     [ "JustReachedHome", "d0/d1c/structnpc__ulduar__iron__construct.html#a77609f7939725001d7a31c4d92f00358", null ],
     [ "MoveInLineOfSight", "d0/d1c/structnpc__ulduar__iron__construct.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],

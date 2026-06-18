@@ -3829,6 +3829,7 @@ var annotated_dup =
     [ "spell_igb_rocket_pack_useable_aura", "dc/dd9/classspell__igb__rocket__pack__useable__aura.html", "dc/dd9/classspell__igb__rocket__pack__useable__aura" ],
     [ "spell_igb_teleport_players_on_victory", "db/def/classspell__igb__teleport__players__on__victory.html", "db/def/classspell__igb__teleport__players__on__victory" ],
     [ "spell_igb_teleport_to_enemy_ship", "d4/d73/classspell__igb__teleport__to__enemy__ship.html", "d4/d73/classspell__igb__teleport__to__enemy__ship" ],
+    [ "spell_ignis_brittle_aura", "d4/de1/classspell__ignis__brittle__aura.html", "d4/de1/classspell__ignis__brittle__aura" ],
     [ "spell_ignis_grab_initial", "d5/d26/classspell__ignis__grab__initial.html", "d5/d26/classspell__ignis__grab__initial" ],
     [ "spell_ignis_scorch_aura", "d1/d68/classspell__ignis__scorch__aura.html", "d1/d68/classspell__ignis__scorch__aura" ],
     [ "spell_ignis_slag_pot_aura", "d3/d00/classspell__ignis__slag__pot__aura.html", "d3/d00/classspell__ignis__slag__pot__aura" ],

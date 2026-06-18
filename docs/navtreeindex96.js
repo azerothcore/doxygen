@@ -1,6 +1,5 @@
 var NAVTREEINDEX96 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad3999cba26db667949f9698805344821":[8,0,0,0,1,3,5,9,2,13,46,40],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad4aa42546dab7c9a8843b37d1b65b6bb":[8,0,0,0,1,3,5,9,2,13,46,27],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adac2b4031d0deddc401159cac42ab36e":[8,0,0,0,1,3,5,9,2,13,46,61],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43":[8,0,0,0,1,3,5,9,2,13,46,29],
@@ -238,16 +237,17 @@ var NAVTREEINDEX96 =
 "d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[7,0,1772,1],
 "d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[7,0,1772,2],
 "d3/d3e/PassiveAI_8cpp.html":[8,0,0,0,1,2,3,0,6],
-"d3/d3f/classspell__item__healing__trance.html":[7,0,3376],
-"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[7,0,3376,3],
-"d3/d3f/classspell__item__healing__trance.html#a5dbf2d5e9b31828b79150f40f6033896":[7,0,3376,0],
-"d3/d3f/classspell__item__healing__trance.html#a7afae9d94162490cb40d29159d88f4a8":[7,0,3376,2],
-"d3/d3f/classspell__item__healing__trance.html#a84f326e1353437f29fb051533d3391eb":[7,0,3376,1],
+"d3/d3f/classspell__item__healing__trance.html":[7,0,3377],
+"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[7,0,3377,3],
+"d3/d3f/classspell__item__healing__trance.html#a5dbf2d5e9b31828b79150f40f6033896":[7,0,3377,0],
+"d3/d3f/classspell__item__healing__trance.html#a7afae9d94162490cb40d29159d88f4a8":[7,0,3377,2],
+"d3/d3f/classspell__item__healing__trance.html#a84f326e1353437f29fb051533d3391eb":[7,0,3377,1],
 "d3/d40/classspell__hun__hunting__party.html":[7,0,3212],
 "d3/d40/classspell__hun__hunting__party.html#a133ff30c99bd6521d83e2de2361a5123":[7,0,3212,1],
 "d3/d40/classspell__hun__hunting__party.html#a202ed9cca388b984f0dfebb64a512c47":[7,0,3212,0],
 "d3/d40/classspell__hun__hunting__party.html#a39b41d1560869ef9a1231fd39d0a652f":[7,0,3212,3],
 "d3/d40/classspell__hun__hunting__party.html#a6cab1853296da43b4a4cb39bedb20ffa":[7,0,3212,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4358],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4358,3]
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4359],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4359,3],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[7,0,4359,1]
 };

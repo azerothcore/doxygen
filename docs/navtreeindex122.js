@@ -1,6 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d1e/halls__of__reflection_8h.html#a1336e62200882bdc0f54fcd0bcb0aabc":[8,0,0,0,1,3,5,4,1,3,33],
 "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4":[8,0,0,0,1,3,5,4,1,3,7],
 "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4a1d43d569a5ca3ed3e62e218bd5e08ce6":[8,0,0,0,1,3,5,4,1,3,7,0],
 "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4a24352e3a2eca2e39b65d46b178f402e2":[8,0,0,0,1,3,5,4,1,3,7,2],
@@ -225,11 +224,11 @@ var NAVTREEINDEX122 =
 "d4/d1f/classnpc__pos__leader__second.html":[7,0,2065],
 "d4/d1f/classnpc__pos__leader__second.html#ac403cfc86247990d78c9cf4179df8b87":[7,0,2065,2],
 "d4/d1f/classnpc__pos__leader__second.html#ac4758674cc97eae0937264fa028e6da5":[7,0,2065,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,3927],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,3927,0],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,3927,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,3927,2],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,3927,3],
+"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,3928],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,3928,0],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,3928,1],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,3928,2],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,3928,3],
 "d4/d21/classspell__drain__mana.html":[7,0,2839],
 "d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2839,2],
 "d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2839,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX122 =
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a44b1d2248a1b5876c5f88a4a28d6bb80a14f033d696865e62368c34fac2b8526e":[8,0,0,0,1,3,7,4,3,3,4,0],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,4,3,3,6],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298ca5ee391710c0a2ecf788957f4a11523eb":[8,0,0,0,1,3,7,4,3,3,6,1],
-"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298ca7207be8e540252069df80771fa442c4e":[8,0,0,0,1,3,7,4,3,3,6,4]
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298ca7207be8e540252069df80771fa442c4e":[8,0,0,0,1,3,7,4,3,3,6,4],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298ca72901c84087f3acf4889bbddbd53c358":[8,0,0,0,1,3,7,4,3,3,6,3]
 };

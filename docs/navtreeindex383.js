@@ -1,5 +1,14 @@
 var NAVTREEINDEX383 =
 {
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,17,19,3],
+"de/d6c/structnpc__oathbound__warder.html":[7,0,2007],
+"de/d6c/structnpc__oathbound__warder.html#a2e97b16356a6aec04c7c0b1a2d872070":[7,0,2007,4],
+"de/d6c/structnpc__oathbound__warder.html#a62c4c568ad615013afa46c7da84d057a":[7,0,2007,2],
+"de/d6c/structnpc__oathbound__warder.html#af4e56bd77dc1c12e795736f117a9b7f1":[7,0,2007,0],
+"de/d6c/structnpc__oathbound__warder.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f":[7,0,2007,3],
+"de/d6c/structnpc__oathbound__warder.html#afa3e523d3c4b7659df3d06be11eea7e4":[7,0,2007,1],
+"de/d6d/WorldSessionMgr_8h.html":[8,0,0,0,1,2,39,8],
+"de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[8,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[7,0,1747],
 "de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1747,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX383 =
 "de/d72/structnpc__minion__spawner.html":[7,0,1984],
 "de/d72/structnpc__minion__spawner.html#a007376c8f66a3963651f81ddd14cbbfc":[7,0,1984,1],
 "de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[7,0,1984,3],
-"de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[7,0,1984,2],
-"de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[7,0,1984,4],
-"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[7,0,1984,0],
-"de/d74/Group_8cpp.html":[8,0,0,0,1,2,20,0],
-"de/d74/Group_8cpp.html#a499748359465da566bbe2a1e833d9b93":[8,0,0,0,1,2,20,0,1],
-"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[8,0,0,0,1,2,20,0,0],
-"de/d75/classDelayedSummonEvent.html":[7,0,998],
-"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[7,0,998,2],
-"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[7,0,998,3],
-"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[7,0,998,0]
+"de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[7,0,1984,2]
 };

@@ -5,6 +5,7 @@ var boss__ignis_8cpp =
     [ "spell_ignis_scorch_aura", "d1/d68/classspell__ignis__scorch__aura.html", "d1/d68/classspell__ignis__scorch__aura" ],
     [ "spell_ignis_grab_initial", "d5/d26/classspell__ignis__grab__initial.html", "d5/d26/classspell__ignis__grab__initial" ],
     [ "spell_ignis_slag_pot_aura", "d3/d00/classspell__ignis__slag__pot__aura.html", "d3/d00/classspell__ignis__slag__pot__aura" ],
+    [ "spell_ignis_brittle_aura", "d4/de1/classspell__ignis__brittle__aura.html", "d4/de1/classspell__ignis__brittle__aura" ],
     [ "achievement_ignis_shattered", "d4/d30/classachievement__ignis__shattered.html", "d4/d30/classachievement__ignis__shattered" ],
     [ "ACHIEV_STOKIN_THE_FURNACE_EVENT", "d4/da9/boss__ignis_8cpp.html#a1c74f54ec8223535d573a022bf59557a", null ],
     [ "eEvents", "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
@@ -14,6 +15,12 @@ var boss__ignis_8cpp =
       [ "EVENT_ENABLE_ROTATE", "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516ac19ae1fe556e9550431bdd7f1f984ac0", null ],
       [ "EVENT_SPELL_FLAME_JETS", "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516acfc09932c04ed23f85851887d6840a49", null ],
       [ "EVENT_GRAB", "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a765477b6f9225f44130dfa8740068745", null ]
+    ] ],
+    [ "IgnisActions", "d4/da9/boss__ignis_8cpp.html#adb3ae2d6d9bd4bb105f9ceaf58e5078d", [
+      [ "ACTION_CONSTRUCT_SHATTERED", "d4/da9/boss__ignis_8cpp.html#adb3ae2d6d9bd4bb105f9ceaf58e5078dac0d86c519a2dd66992917c9760d4e1cd", null ]
+    ] ],
+    [ "IgnisData", "d4/da9/boss__ignis_8cpp.html#a165aa2a1b009d3014883e6c42118a3b9", [
+      [ "DATA_SHATTERED", "d4/da9/boss__ignis_8cpp.html#a165aa2a1b009d3014883e6c42118a3b9a673f3a3f4bea924456f4acbe285e9b0b", null ]
     ] ],
     [ "IgnisNPCs", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863", [
       [ "NPC_IRON_CONSTRUCT", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863a645d35b362a31973178f8706e1ef6ed9", null ],

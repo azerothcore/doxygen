@@ -1,5 +1,14 @@
 var NAVTREEINDEX388 =
 {
+"de/da3/ModuleMgr_8h.html":[8,0,0,0,1,2,29,1],
+"de/da3/ModuleMgr_8h.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[8,0,0,0,1,2,29,1,0],
+"de/da3/ModuleMgr_8h.html#ac16569c9333f642e54fa7a4ec6a948e3":[8,0,0,0,1,2,29,1,1],
+"de/da4/classspell__putricide__mutated__plague__aura.html":[7,0,3810],
+"de/da4/classspell__putricide__mutated__plague__aura.html#a109dc4f189a64ac3b5949191d6abd2be":[7,0,3810,0],
+"de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[7,0,3810,1],
+"de/da4/classspell__putricide__mutated__plague__aura.html#ab36a001ea8cd87703e2694e0765635c0":[7,0,3810,3],
+"de/da4/classspell__putricide__mutated__plague__aura.html#af9ce7433b620fdf1dea570561c514b3b":[7,0,3810,2],
+"de/da5/CharacterDatabase_8h.html":[8,0,0,0,1,1,0,0,1],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7":[8,0,0,0,1,1,0,0,1,1],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a005b347f56b0d5dd4586f6ef2f232406":[8,0,0,0,1,1,0,0,1,1,48],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a00955da44994cc15fa73659a95358c40":[8,0,0,0,1,1,0,0,1,1,38],
@@ -240,14 +249,5 @@ var NAVTREEINDEX388 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8907acf05ccd3a0a184963cac916c548":[8,0,0,0,1,1,0,0,1,1,362],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a899de096af13eece8c050afc22ab6034":[8,0,0,0,1,1,0,0,1,1,404],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e":[8,0,0,0,1,1,0,0,1,1,132],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8a0a4450e9711e91aa5b2119921b8022":[8,0,0,0,1,1,0,0,1,1,398],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8abf3b5f7f1403dbf979c30f6614ba47":[8,0,0,0,1,1,0,0,1,1,21],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8af8802925321277befc1a6574600af2":[8,0,0,0,1,1,0,0,1,1,342],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226":[8,0,0,0,1,1,0,0,1,1,282],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b5b1d6188848b4f6b8f3007bab57a86":[8,0,0,0,1,1,0,0,1,1,22],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b7a3863418371ab4f62a44ca202e5a0":[8,0,0,0,1,1,0,0,1,1,63],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2b4c7eec954ec3c9bbb73ad220fa":[8,0,0,0,1,1,0,0,1,1,369],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2e3af6e151a7261acdb0fd164912":[8,0,0,0,1,1,0,0,1,1,291],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8c3fde55b40d47801110db5425715947":[8,0,0,0,1,1,0,0,1,1,202],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8c612c787061adff8dbc7b8512038766":[8,0,0,0,1,1,0,0,1,1,318]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8a0a4450e9711e91aa5b2119921b8022":[8,0,0,0,1,1,0,0,1,1,398]
 };

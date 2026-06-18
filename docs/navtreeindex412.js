@@ -1,5 +1,14 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[7,0,328,199],
+"df/da7/classBattleground.html#a34b10848a91db884b565b5b2f8e5085c":[7,0,328,67],
+"df/da7/classBattleground.html#a34d52aafcdab65e6ff55925f88e3367c":[7,0,328,139],
+"df/da7/classBattleground.html#a3841ee3e6ac8caec32e7b4dbfb344f9b":[7,0,328,246],
+"df/da7/classBattleground.html#a390e10b4efba4219eff511e1c4a831cc":[7,0,328,168],
+"df/da7/classBattleground.html#a39548195d203781af0e04927e7c1ba46":[7,0,328,194],
+"df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[7,0,328,196],
+"df/da7/classBattleground.html#a3a7570a487820ade935e0870f8cda0e7":[7,0,328,128],
+"df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[7,0,328,198],
 "df/da7/classBattleground.html#a3bd710cf2081404fde874444ea2f1981":[7,0,328,15],
 "df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[7,0,328,238],
 "df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f":[7,0,328,239],
@@ -240,14 +249,5 @@ var NAVTREEINDEX412 =
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2212,0,3],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2212,0,6],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a98c18794124922e6946a82a324410837":[7,0,2212,0,1],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#ab84a35b5145c74f16dfbbe020dd9a73b":[7,0,2212,0,0],
-"df/da9/MapBuilder_8cpp.html":[8,0,0,0,3,2,4],
-"df/da9/structnpc__chess__move__trigger.html":[7,0,1709],
-"df/da9/structnpc__chess__move__trigger.html#a6c0c37677db45ee11ebe158893d99632":[7,0,1709,0],
-"df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[7,0,1709,1],
-"df/daa/classLambdaBasicEvent.html":[7,0,1428],
-"df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[7,0,1428,2],
-"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[7,0,1428,0],
-"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1428,1],
-"df/daa/classspell__doomfire.html":[7,0,2834]
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#ab84a35b5145c74f16dfbbe020dd9a73b":[7,0,2212,0,0]
 };

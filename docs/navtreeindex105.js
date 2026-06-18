@@ -1,6 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[8,0,0,0,1,3,5,7,6,4,0],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10":[8,0,0,0,1,3,5,7,6,4,3],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8":[8,0,0,0,1,3,5,7,6,4,2],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298cae8e05c43a10c1885e6dd64eccb4afdca":[8,0,0,0,1,3,5,7,6,4,1],
@@ -172,14 +171,14 @@ var NAVTREEINDEX105 =
 "d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[7,0,2380,13],
 "d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[7,0,2380,45],
 "d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[7,0,2380,8],
-"d3/d96/classspell__rotface__mutated__infection.html":[7,0,3988],
-"d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[7,0,3988,3],
-"d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[7,0,3988,6],
-"d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[7,0,3988,5],
-"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[7,0,3988,2],
-"d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[7,0,3988,4],
-"d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[7,0,3988,0],
-"d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[7,0,3988,1],
+"d3/d96/classspell__rotface__mutated__infection.html":[7,0,3989],
+"d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[7,0,3989,3],
+"d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[7,0,3989,6],
+"d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[7,0,3989,5],
+"d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[7,0,3989,2],
+"d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[7,0,3989,4],
+"d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[7,0,3989,0],
+"d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[7,0,3989,1],
 "d3/d96/structnpc__eye__tentacle.html":[7,0,1794],
 "d3/d96/structnpc__eye__tentacle.html#a106deeb95d74597377d32e81695dc3c9":[7,0,1794,0],
 "d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[7,0,1794,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX105 =
 "d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[7,0,2406,0],
 "d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[7,0,2406,1],
 "d3/d9c/classinstance__magtheridons__lair.html":[7,0,1338],
-"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[7,0,1338,2]
+"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[7,0,1338,2],
+"d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[7,0,1338,1]
 };

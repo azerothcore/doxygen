@@ -1,6 +1,5 @@
 var NAVTREEINDEX111 =
 {
-"d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a942b79f28d44f396e6d5c94335ef2fc5":[8,0,0,0,1,2,8,10,14,3],
 "d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1a94d40a5528307e54eb10eb3e0599dd15":[8,0,0,0,1,2,8,10,14,2],
 "d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1af8bb01e351492519195c366a3caa5afb":[8,0,0,0,1,2,8,10,14,4],
 "d3/dcf/Battleground_8h.html#a74a16d93e0af2e5b3dd51ba20e89a5f1afd7ba9fba7ffaca28b4ea4a333497ebf":[8,0,0,0,1,2,8,10,14,5],
@@ -120,11 +119,11 @@ var NAVTREEINDEX111 =
 "d3/dd0/classspell__hun__sniper__training.html#ab467c3b759ac1e276d6a4815d20f5ff0":[7,0,3230,4],
 "d3/dd0/classspell__hun__sniper__training.html#acba5d68c19e68361c088e50f9b831bff":[7,0,3230,0],
 "d3/dd0/classspell__hun__sniper__training.html#af27c6dfccb12f1ba52d170da5d9228f9":[7,0,3230,1],
-"d3/dd0/classspell__mage__ice__barrier.html":[7,0,3576],
-"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[7,0,3576,2],
-"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[7,0,3576,0],
-"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[7,0,3576,3],
-"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[7,0,3576,1],
+"d3/dd0/classspell__mage__ice__barrier.html":[7,0,3577],
+"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[7,0,3577,2],
+"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[7,0,3577,0],
+"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[7,0,3577,3],
+"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[7,0,3577,1],
 "d3/dd1/DBCEnums_8h.html":[8,0,0,0,1,4,0,2],
 "d3/dd1/DBCEnums_8h.html#a10d235f3fd91ca4d4d9532092ea4cb6b":[8,0,0,0,1,4,0,2,7],
 "d3/dd1/DBCEnums_8h.html#a114472f521098d647eb8db3a6df31204":[8,0,0,0,1,4,0,2,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX111 =
 "d3/dd1/DBCEnums_8h.html#a4a886f0b3475fae280db2bd0f12c3a8fae865bb2fed5f3722a26c89e69880975a":[8,0,0,0,1,4,0,2,36,9],
 "d3/dd1/DBCEnums_8h.html#a4a886f0b3475fae280db2bd0f12c3a8faeee08c9a90200313dd609670c486860e":[8,0,0,0,1,4,0,2,36,5],
 "d3/dd1/DBCEnums_8h.html#a4a886f0b3475fae280db2bd0f12c3a8fafa87028e108921f72503c17439a6339c":[8,0,0,0,1,4,0,2,36,4],
-"d3/dd1/DBCEnums_8h.html#a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b":[8,0,0,0,1,4,0,2,36,7]
+"d3/dd1/DBCEnums_8h.html#a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b":[8,0,0,0,1,4,0,2,36,7],
+"d3/dd1/DBCEnums_8h.html#a4b18ccd2246e4262c78561a41103e249":[8,0,0,0,1,4,0,2,12]
 };

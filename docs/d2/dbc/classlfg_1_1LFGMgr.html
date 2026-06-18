@@ -866,7 +866,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00327">CHAR_REP_LFG_DATA</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02512">GetDungeon()</a>, <a class="el" href="../../#l02488">GetState()</a>, <a class="el" href="../../#l00178">ObjectGuid::IsGroup()</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02331">FinishDungeon()</a>, and <a class="el" href="../../#l01690">MakeNewGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02331">FinishDungeon()</a>, and <a class="el" href="../../#l01687">MakeNewGroup()</a>.</p>
 
 </div>
 </div>
@@ -1100,70 +1100,70 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Checks if given roles match, modifies given roles map with new roles. </p>
-<div class="fragment"><div class="line"><span class="lineno"> 1622</span>    {</div>
-<div class="line"><span class="lineno"> 1623</span>        <span class="keywordflow">if</span> (groles.empty())</div>
-<div class="line"><span class="lineno"> 1624</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1625</span> </div>
-<div class="line"><span class="lineno"> 1626</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> damage = 0;</div>
-<div class="line"><span class="lineno"> 1627</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tank = 0;</div>
-<div class="line"><span class="lineno"> 1628</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> healer = 0;</div>
-<div class="line"><span class="lineno"> 1629</span> </div>
-<div class="line"><span class="lineno"> 1630</span>        <span class="keywordflow">for</span> (LfgRolesMap::iterator it = groles.begin(); it != groles.end(); ++it)</div>
-<div class="line"><span class="lineno"> 1631</span>        {</div>
-<div class="line"><span class="lineno"> 1632</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> role = it-&gt;second &amp; ~PLAYER_ROLE_LEADER;</div>
-<div class="line"><span class="lineno"> 1633</span>            <span class="keywordflow">if</span> (role == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>)</div>
-<div class="line"><span class="lineno"> 1634</span>                <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1635</span> </div>
-<div class="line"><span class="lineno"> 1636</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>)</div>
-<div class="line"><span class="lineno"> 1637</span>            {</div>
-<div class="line"><span class="lineno"> 1638</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>)</div>
-<div class="line"><span class="lineno"> 1639</span>                {</div>
-<div class="line"><span class="lineno"> 1640</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>;</div>
-<div class="line"><span class="lineno"> 1641</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
-<div class="line"><span class="lineno"> 1642</span>                        <span class="keywordflow">return</span> x;</div>
-<div class="line"><span class="lineno"> 1643</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>;</div>
-<div class="line"><span class="lineno"> 1644</span>                }</div>
-<div class="line"><span class="lineno"> 1645</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (damage == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">LFG_DPS_NEEDED</a>)</div>
-<div class="line"><span class="lineno"> 1646</span>                    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1647</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1648</span>                    damage++;</div>
-<div class="line"><span class="lineno"> 1649</span>            }</div>
-<div class="line"><span class="lineno"> 1650</span> </div>
-<div class="line"><span class="lineno"> 1651</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
-<div class="line"><span class="lineno"> 1652</span>            {</div>
-<div class="line"><span class="lineno"> 1653</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
-<div class="line"><span class="lineno"> 1654</span>                {</div>
-<div class="line"><span class="lineno"> 1655</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>;</div>
-<div class="line"><span class="lineno"> 1656</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
-<div class="line"><span class="lineno"> 1657</span>                        <span class="keywordflow">return</span> x;</div>
-<div class="line"><span class="lineno"> 1658</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>;</div>
-<div class="line"><span class="lineno"> 1659</span>                }</div>
-<div class="line"><span class="lineno"> 1660</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (healer == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">LFG_HEALERS_NEEDED</a>)</div>
-<div class="line"><span class="lineno"> 1661</span>                    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1662</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1663</span>                    healer++;</div>
-<div class="line"><span class="lineno"> 1664</span>            }</div>
-<div class="line"><span class="lineno"> 1665</span> </div>
-<div class="line"><span class="lineno"> 1666</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
-<div class="line"><span class="lineno"> 1667</span>            {</div>
-<div class="line"><span class="lineno"> 1668</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
-<div class="line"><span class="lineno"> 1669</span>                {</div>
-<div class="line"><span class="lineno"> 1670</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>;</div>
-<div class="line"><span class="lineno"> 1671</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
-<div class="line"><span class="lineno"> 1672</span>                        <span class="keywordflow">return</span> x;</div>
-<div class="line"><span class="lineno"> 1673</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>;</div>
-<div class="line"><span class="lineno"> 1674</span>                }</div>
-<div class="line"><span class="lineno"> 1675</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (tank == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">LFG_TANKS_NEEDED</a>)</div>
-<div class="line"><span class="lineno"> 1676</span>                    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1677</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1678</span>                    tank++;</div>
-<div class="line"><span class="lineno"> 1679</span>            }</div>
-<div class="line"><span class="lineno"> 1680</span>        }</div>
-<div class="line"><span class="lineno"> 1681</span>        <span class="keywordflow">if</span> ((tank + healer + damage) == <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(groles.size()))</div>
-<div class="line"><span class="lineno"> 1682</span>            <span class="keywordflow">return</span> (8 * tank + 4 * healer + damage);</div>
-<div class="line"><span class="lineno"> 1683</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 1684</span>    }</div>
-<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ab4e07580d4946b89e413b66ec85ba4d3"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">lfg::LFGMgr::CheckGroupRoles</a></div><div class="ttdeci">static uint8 CheckGroupRoles(LfgRolesMap &amp;groles)</div><div class="ttdoc">Checks if given roles match, modifies given roles map with new roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1621</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1619</span>    {</div>
+<div class="line"><span class="lineno"> 1620</span>        <span class="keywordflow">if</span> (groles.empty())</div>
+<div class="line"><span class="lineno"> 1621</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1622</span> </div>
+<div class="line"><span class="lineno"> 1623</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> damage = 0;</div>
+<div class="line"><span class="lineno"> 1624</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> tank = 0;</div>
+<div class="line"><span class="lineno"> 1625</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> healer = 0;</div>
+<div class="line"><span class="lineno"> 1626</span> </div>
+<div class="line"><span class="lineno"> 1627</span>        <span class="keywordflow">for</span> (LfgRolesMap::iterator it = groles.begin(); it != groles.end(); ++it)</div>
+<div class="line"><span class="lineno"> 1628</span>        {</div>
+<div class="line"><span class="lineno"> 1629</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> role = it-&gt;second &amp; ~PLAYER_ROLE_LEADER;</div>
+<div class="line"><span class="lineno"> 1630</span>            <span class="keywordflow">if</span> (role == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>)</div>
+<div class="line"><span class="lineno"> 1631</span>                <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1632</span> </div>
+<div class="line"><span class="lineno"> 1633</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno"> 1634</span>            {</div>
+<div class="line"><span class="lineno"> 1635</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno"> 1636</span>                {</div>
+<div class="line"><span class="lineno"> 1637</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>;</div>
+<div class="line"><span class="lineno"> 1638</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
+<div class="line"><span class="lineno"> 1639</span>                        <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno"> 1640</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>;</div>
+<div class="line"><span class="lineno"> 1641</span>                }</div>
+<div class="line"><span class="lineno"> 1642</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (damage == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">LFG_DPS_NEEDED</a>)</div>
+<div class="line"><span class="lineno"> 1643</span>                    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1644</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1645</span>                    damage++;</div>
+<div class="line"><span class="lineno"> 1646</span>            }</div>
+<div class="line"><span class="lineno"> 1647</span> </div>
+<div class="line"><span class="lineno"> 1648</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
+<div class="line"><span class="lineno"> 1649</span>            {</div>
+<div class="line"><span class="lineno"> 1650</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
+<div class="line"><span class="lineno"> 1651</span>                {</div>
+<div class="line"><span class="lineno"> 1652</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>;</div>
+<div class="line"><span class="lineno"> 1653</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
+<div class="line"><span class="lineno"> 1654</span>                        <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno"> 1655</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>;</div>
+<div class="line"><span class="lineno"> 1656</span>                }</div>
+<div class="line"><span class="lineno"> 1657</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (healer == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">LFG_HEALERS_NEEDED</a>)</div>
+<div class="line"><span class="lineno"> 1658</span>                    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1659</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1660</span>                    healer++;</div>
+<div class="line"><span class="lineno"> 1661</span>            }</div>
+<div class="line"><span class="lineno"> 1662</span> </div>
+<div class="line"><span class="lineno"> 1663</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
+<div class="line"><span class="lineno"> 1664</span>            {</div>
+<div class="line"><span class="lineno"> 1665</span>                <span class="keywordflow">if</span> (role != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
+<div class="line"><span class="lineno"> 1666</span>                {</div>
+<div class="line"><span class="lineno"> 1667</span>                    it-&gt;second -= <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>;</div>
+<div class="line"><span class="lineno"> 1668</span>                    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> x = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(groles))</div>
+<div class="line"><span class="lineno"> 1669</span>                        <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno"> 1670</span>                    it-&gt;second += <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>;</div>
+<div class="line"><span class="lineno"> 1671</span>                }</div>
+<div class="line"><span class="lineno"> 1672</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (tank == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">LFG_TANKS_NEEDED</a>)</div>
+<div class="line"><span class="lineno"> 1673</span>                    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1674</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1675</span>                    tank++;</div>
+<div class="line"><span class="lineno"> 1676</span>            }</div>
+<div class="line"><span class="lineno"> 1677</span>        }</div>
+<div class="line"><span class="lineno"> 1678</span>        <span class="keywordflow">if</span> ((tank + healer + damage) == <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(groles.size()))</div>
+<div class="line"><span class="lineno"> 1679</span>            <span class="keywordflow">return</span> (8 * tank + 4 * healer + damage);</div>
+<div class="line"><span class="lineno"> 1680</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1681</span>    }</div>
+<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ab4e07580d4946b89e413b66ec85ba4d3"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">lfg::LFGMgr::CheckGroupRoles</a></div><div class="ttdeci">static uint8 CheckGroupRoles(LfgRolesMap &amp;groles)</div><div class="ttdoc">Checks if given roles match, modifies given roles map with new roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1618</div></div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">lfg::LFG_HEALERS_NEEDED</a></div><div class="ttdeci">@ LFG_HEALERS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:33</div></div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">lfg::LFG_TANKS_NEEDED</a></div><div class="ttdeci">@ LFG_TANKS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:32</div></div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">lfg::LFG_DPS_NEEDED</a></div><div class="ttdeci">@ LFG_DPS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:34</div></div>
@@ -1172,9 +1172,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespacelfg_html_ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca"><div class="ttname"><a href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">lfg::PLAYER_ROLE_NONE</a></div><div class="ttdeci">@ PLAYER_ROLE_NONE</div><div class="ttdef"><b>Definition</b> LFG.h:39</div></div>
 <div class="ttc" id="anamespacelfg_html_ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2"><div class="ttname"><a href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">lfg::PLAYER_ROLE_HEALER</a></div><div class="ttdeci">@ PLAYER_ROLE_HEALER</div><div class="ttdef"><b>Definition</b> LFG.h:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01621">CheckGroupRoles()</a>, <a class="el" href="../../#l00034">lfg::LFG_DPS_NEEDED</a>, <a class="el" href="../../#l00033">lfg::LFG_HEALERS_NEEDED</a>, <a class="el" href="../../#l00032">lfg::LFG_TANKS_NEEDED</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, and <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01618">CheckGroupRoles()</a>, <a class="el" href="../../#l00034">lfg::LFG_DPS_NEEDED</a>, <a class="el" href="../../#l00033">lfg::LFG_HEALERS_NEEDED</a>, <a class="el" href="../../#l00032">lfg::LFG_TANKS_NEEDED</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, and <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l01621">CheckGroupRoles()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l01618">CheckGroupRoles()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
 
 </div>
 </div>
@@ -1677,34 +1677,34 @@ Private Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno"> 1592</span>    {</div>
-<div class="line"><span class="lineno"> 1593</span>        lockMap.clear();</div>
-<div class="line"><span class="lineno"> 1594</span>        <span class="keywordflow">for</span> (LfgGuidSet::const_iterator it = players.begin(); it != players.end() &amp;&amp; !dungeons.empty(); ++it)</div>
-<div class="line"><span class="lineno"> 1595</span>        {</div>
-<div class="line"><span class="lineno"> 1596</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid = (*it);</div>
-<div class="line"><span class="lineno"> 1597</span>            <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> <span class="keyword">const</span>&amp; cachedLockMap = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae02d89cd6fb880af0892d041a210340e">GetLockedDungeons</a>(guid);</div>
-<div class="line"><span class="lineno"> 1598</span>            <span class="keywordflow">for</span> (LfgLockMap::const_iterator it2 = cachedLockMap.begin(); it2 != cachedLockMap.end() &amp;&amp; !dungeons.empty(); ++it2)</div>
-<div class="line"><span class="lineno"> 1599</span>            {</div>
-<div class="line"><span class="lineno"> 1600</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeonId = (it2-&gt;first &amp; 0x00FFFFFF); <span class="comment">// Compare dungeon ids</span></div>
-<div class="line"><span class="lineno"> 1601</span> </div>
-<div class="line"><span class="lineno"> 1602</span>                LFGDungeonData <span class="keyword">const</span>* dungeon = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a8e9a99296d8991715999e3807dfc034c">GetLFGDungeon</a>(dungeonId);</div>
-<div class="line"><span class="lineno"> 1603</span> </div>
-<div class="line"><span class="lineno"> 1604</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> difficultyFlag = (randomDungeonId == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1">RANDOM_DUNGEON_NORMAL_TBC</a> || randomDungeonId == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b">RANDOM_DUNGEON_NORMAL_WOTLK</a>) ? 0 : 1;</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1589</span>    {</div>
+<div class="line"><span class="lineno"> 1590</span>        lockMap.clear();</div>
+<div class="line"><span class="lineno"> 1591</span>        <span class="keywordflow">for</span> (LfgGuidSet::const_iterator it = players.begin(); it != players.end() &amp;&amp; !dungeons.empty(); ++it)</div>
+<div class="line"><span class="lineno"> 1592</span>        {</div>
+<div class="line"><span class="lineno"> 1593</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid = (*it);</div>
+<div class="line"><span class="lineno"> 1594</span>            <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> <span class="keyword">const</span>&amp; cachedLockMap = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae02d89cd6fb880af0892d041a210340e">GetLockedDungeons</a>(guid);</div>
+<div class="line"><span class="lineno"> 1595</span>            <span class="keywordflow">for</span> (LfgLockMap::const_iterator it2 = cachedLockMap.begin(); it2 != cachedLockMap.end() &amp;&amp; !dungeons.empty(); ++it2)</div>
+<div class="line"><span class="lineno"> 1596</span>            {</div>
+<div class="line"><span class="lineno"> 1597</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeonId = (it2-&gt;first &amp; 0x00FFFFFF); <span class="comment">// Compare dungeon ids</span></div>
+<div class="line"><span class="lineno"> 1598</span> </div>
+<div class="line"><span class="lineno"> 1599</span>                LFGDungeonData <span class="keyword">const</span>* dungeon = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a8e9a99296d8991715999e3807dfc034c">GetLFGDungeon</a>(dungeonId);</div>
+<div class="line"><span class="lineno"> 1600</span> </div>
+<div class="line"><span class="lineno"> 1601</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> difficultyFlag = (randomDungeonId == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1">RANDOM_DUNGEON_NORMAL_TBC</a> || randomDungeonId == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b">RANDOM_DUNGEON_NORMAL_WOTLK</a>) ? 0 : 1;</div>
+<div class="line"><span class="lineno"> 1602</span> </div>
+<div class="line"><span class="lineno"> 1603</span>                <span class="keywordflow">if</span> (dungeon &amp;&amp; !<a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a943da5cd106d1d4b049fe5620d800083">IsDungeonDisabled</a>(dungeon-&gt;map, (<a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>)difficultyFlag) &amp;&amp; it2-&gt;second == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934da108fcafd94fd7f9e8e272a1018a1fa6b">LFG_LOCKSTATUS_RAID_LOCKED</a> &amp;&amp; randomDungeonId &amp;&amp; <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a441ce2c4b2d7bfdc93fccac33993eaab">CONFIG_LFG_ALLOW_COMPLETED</a>))</div>
+<div class="line"><span class="lineno"> 1604</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 1605</span> </div>
-<div class="line"><span class="lineno"> 1606</span>                <span class="keywordflow">if</span> (dungeon &amp;&amp; !<a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a943da5cd106d1d4b049fe5620d800083">IsDungeonDisabled</a>(dungeon-&gt;map, (<a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>)difficultyFlag) &amp;&amp; it2-&gt;second == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934da108fcafd94fd7f9e8e272a1018a1fa6b">LFG_LOCKSTATUS_RAID_LOCKED</a> &amp;&amp; randomDungeonId &amp;&amp; <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a441ce2c4b2d7bfdc93fccac33993eaab">CONFIG_LFG_ALLOW_COMPLETED</a>))</div>
-<div class="line"><span class="lineno"> 1607</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 1608</span> </div>
-<div class="line"><span class="lineno"> 1609</span>                LfgDungeonSet::iterator itDungeon = dungeons.find(dungeonId);</div>
-<div class="line"><span class="lineno"> 1610</span>                <span class="keywordflow">if</span> (itDungeon != dungeons.end())</div>
-<div class="line"><span class="lineno"> 1611</span>                {</div>
-<div class="line"><span class="lineno"> 1612</span>                    dungeons.erase(itDungeon);</div>
-<div class="line"><span class="lineno"> 1613</span>                    lockMap[guid][dungeonId] = it2-&gt;second;</div>
-<div class="line"><span class="lineno"> 1614</span>                }</div>
-<div class="line"><span class="lineno"> 1615</span>            }</div>
-<div class="line"><span class="lineno"> 1616</span>        }</div>
-<div class="line"><span class="lineno"> 1617</span>        <span class="keywordflow">if</span> (!dungeons.empty())</div>
-<div class="line"><span class="lineno"> 1618</span>            lockMap.clear();</div>
-<div class="line"><span class="lineno"> 1619</span>    }</div>
+<div class="line"><span class="lineno"> 1606</span>                LfgDungeonSet::iterator itDungeon = dungeons.find(dungeonId);</div>
+<div class="line"><span class="lineno"> 1607</span>                <span class="keywordflow">if</span> (itDungeon != dungeons.end())</div>
+<div class="line"><span class="lineno"> 1608</span>                {</div>
+<div class="line"><span class="lineno"> 1609</span>                    dungeons.erase(itDungeon);</div>
+<div class="line"><span class="lineno"> 1610</span>                    lockMap[guid][dungeonId] = it2-&gt;second;</div>
+<div class="line"><span class="lineno"> 1611</span>                }</div>
+<div class="line"><span class="lineno"> 1612</span>            }</div>
+<div class="line"><span class="lineno"> 1613</span>        }</div>
+<div class="line"><span class="lineno"> 1614</span>        <span class="keywordflow">if</span> (!dungeons.empty())</div>
+<div class="line"><span class="lineno"> 1615</span>            lockMap.clear();</div>
+<div class="line"><span class="lineno"> 1616</span>    }</div>
 <div class="ttc" id="aDBCEnums_8h_html_a39d5903d54e674f4f2e824581ade546b"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a></div><div class="ttdeci">Difficulty</div><div class="ttdef"><b>Definition</b> DBCEnums.h:266</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a441ce2c4b2d7bfdc93fccac33993eaab"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a441ce2c4b2d7bfdc93fccac33993eaab">CONFIG_LFG_ALLOW_COMPLETED</a></div><div class="ttdeci">@ CONFIG_LFG_ALLOW_COMPLETED</div><div class="ttdef"><b>Definition</b> WorldConfig.h:95</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_a943da5cd106d1d4b049fe5620d800083"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a943da5cd106d1d4b049fe5620d800083">lfg::LFGMgr::IsDungeonDisabled</a></div><div class="ttdeci">bool IsDungeonDisabled(uint32 mapId, Difficulty difficulty) const</div><div class="ttdoc">Checks if given dungeon map is disabled.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2968</div></div>
@@ -1938,7 +1938,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00640">PlayersStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02933">inLfgDungeonMap()</a>, <a class="el" href="../../#l02974">IsPlayerQueuedForRandomDungeon()</a>, <a class="el" href="../../#l01447">LeaveAllLfgQueues()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, <a class="el" href="../../#l01690">MakeNewGroup()</a>, <a class="el" href="../../#l00356">Update()</a>, and <a class="el" href="../../#l02180">UpdateBoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02933">inLfgDungeonMap()</a>, <a class="el" href="../../#l02974">IsPlayerQueuedForRandomDungeon()</a>, <a class="el" href="../../#l01447">LeaveAllLfgQueues()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, <a class="el" href="../../#l01687">MakeNewGroup()</a>, <a class="el" href="../../#l00356">Update()</a>, and <a class="el" href="../../#l02180">UpdateBoot()</a>.</p>
 
 </div>
 </div>
@@ -2030,7 +2030,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00635">LfgDungeonStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02706">AddPlayerQueuedForRandomDungeonToGroup()</a>, <a class="el" href="../../#l02331">FinishDungeon()</a>, <a class="el" href="../../#l01591">GetCompatibleDungeons()</a>, <a class="el" href="../../#l02519">GetDungeonMapId()</a>, <a class="el" href="../../#l02444">GetDungeonsByRandom()</a>, <a class="el" href="../../#l02479">GetDungeonType()</a>, <a class="el" href="../../#l02946">GetLFGDungeonEntry()</a>, <a class="el" href="../../#l00474">InitializeLockedDungeons()</a>, <a class="el" href="../../#l02933">inLfgDungeonMap()</a>, <a class="el" href="../../#l01002">JoinRaidBrowser()</a>, <a class="el" href="../../#l01690">MakeNewGroup()</a>, <a class="el" href="../../#l02917">selectedRandomLfgDungeon()</a>, <a class="el" href="../../#l02243">TeleportPlayer()</a>, and <a class="el" href="../../#l01081">UpdateRaidBrowser()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02706">AddPlayerQueuedForRandomDungeonToGroup()</a>, <a class="el" href="../../#l02331">FinishDungeon()</a>, <a class="el" href="../../#l01588">GetCompatibleDungeons()</a>, <a class="el" href="../../#l02519">GetDungeonMapId()</a>, <a class="el" href="../../#l02444">GetDungeonsByRandom()</a>, <a class="el" href="../../#l02479">GetDungeonType()</a>, <a class="el" href="../../#l02946">GetLFGDungeonEntry()</a>, <a class="el" href="../../#l00474">InitializeLockedDungeons()</a>, <a class="el" href="../../#l02933">inLfgDungeonMap()</a>, <a class="el" href="../../#l01002">JoinRaidBrowser()</a>, <a class="el" href="../../#l01687">MakeNewGroup()</a>, <a class="el" href="../../#l02917">selectedRandomLfgDungeon()</a>, <a class="el" href="../../#l02243">TeleportPlayer()</a>, and <a class="el" href="../../#l01081">UpdateRaidBrowser()</a>.</p>
 
 </div>
 </div>
@@ -2116,7 +2116,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00640">PlayersStore</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01591">GetCompatibleDungeons()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01588">GetCompatibleDungeons()</a>.</p>
 
 </div>
 </div>
@@ -2990,7 +2990,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00036">DISABLE_TYPE_LFG_MAP</a>, <a class="el" href="../../#l00030">DISABLE_TYPE_MAP</a>, and <a class="el" href="../../#l00088">sDisableMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01591">GetCompatibleDungeons()</a>, and <a class="el" href="../../#l00474">InitializeLockedDungeons()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01588">GetCompatibleDungeons()</a>, and <a class="el" href="../../#l00474">InitializeLockedDungeons()</a>.</p>
 
 </div>
 </div>
@@ -3524,7 +3524,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_a8638bac50b73a6fef0f0be5448f63aec"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a8638bac50b73a6fef0f0be5448f63aec">lfg::LFGMgr::SendRaidBrowserJoinedPacket</a></div><div class="ttdeci">void SendRaidBrowserJoinedPacket(Player *p, LfgDungeonSet &amp;dungeons, std::string comment)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1024</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_a86cf02e4822d3c38fbf143846087e99f"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a86cf02e4822d3c38fbf143846087e99f">lfg::LFGMgr::UpdateRoleCheck</a></div><div class="ttdeci">void UpdateRoleCheck(ObjectGuid gguid, ObjectGuid guid=ObjectGuid::Empty, uint8 roles=PLAYER_ROLE_NONE)</div><div class="ttdoc">Updates the role check with player answer.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1502</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_a899fdb21d26e7286604d73a1665d8beb"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">lfg::LFGMgr::RoleChecksStore</a></div><div class="ttdeci">LfgRoleCheckContainer RoleChecksStore</div><div class="ttdoc">Current Role checks.</div><div class="ttdef"><b>Definition</b> LFGMgr.h:637</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGMgr_html_a99c06e707641114a0f2771ac5a8e00cc"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a99c06e707641114a0f2771ac5a8e00cc">lfg::LFGMgr::GetCompatibleDungeons</a></div><div class="ttdeci">void GetCompatibleDungeons(LfgDungeonSet &amp;dungeons, LfgGuidSet const &amp;players, LfgLockPartyMap &amp;lockMap, uint32 randomDungeonId=0)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1591</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGMgr_html_a99c06e707641114a0f2771ac5a8e00cc"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#a99c06e707641114a0f2771ac5a8e00cc">lfg::LFGMgr::GetCompatibleDungeons</a></div><div class="ttdeci">void GetCompatibleDungeons(LfgDungeonSet &amp;dungeons, LfgGuidSet const &amp;players, LfgLockPartyMap &amp;lockMap, uint32 randomDungeonId=0)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1588</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_abb520c95d4db7a5043bc807cab7a0944"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#abb520c95d4db7a5043bc807cab7a0944">lfg::LFGMgr::SetRoles</a></div><div class="ttdeci">void SetRoles(ObjectGuid guid, uint8 roles)</div><div class="ttdoc">Sets player lfg roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2625</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_ad5822b5fa07a84d2539682156b4b597d"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ad5822b5fa07a84d2539682156b4b597d">lfg::LFGMgr::GetDungeonType</a></div><div class="ttdeci">LfgType GetDungeonType(uint32 dungeon)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2479</div></div>
 <div class="ttc" id="anamespacelfg_html_a1b722a34b2bb9c6f6699bc774c2f246b"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a1b722a34b2bb9c6f6699bc774c2f246b">lfg::LfgRolesMap</a></div><div class="ttdeci">std::map&lt; ObjectGuid, uint8 &gt; LfgRolesMap</div><div class="ttdef"><b>Definition</b> LFG.h:119</div></div>
@@ -3553,7 +3553,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespacelfg_html_af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92"><div class="ttname"><a href="../../de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92">lfg::LFG_JOIN_PARTY_DESERTER</a></div><div class="ttdeci">@ LFG_JOIN_PARTY_DESERTER</div><div class="ttdef"><b>Definition</b> LFGMgr.h:114</div></div>
 <div class="ttc" id="anamespacelfg_html_af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd"><div class="ttname"><a href="../../de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd">lfg::LFG_JOIN_NOT_MEET_REQS</a></div><div class="ttdeci">@ LFG_JOIN_NOT_MEET_REQS</div><div class="ttdef"><b>Definition</b> LFGMgr.h:106</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00106">lfg::LFGQueue::AddQueueData()</a>, <a class="el" href="../../#l00375">lfg::LfgRoleCheck::cancelTime</a>, <a class="el" href="../../#l00130">CONFIG_ALLOW_JOIN_BG_AND_LFG</a>, <a class="el" href="../../#l00378">lfg::LfgRoleCheck::dungeons</a>, <a class="el" href="../../#l01591">GetCompatibleDungeons()</a>, <a class="el" href="../../#l02512">GetDungeon()</a>, <a class="el" href="../../#l02444">GetDungeonsByRandom()</a>, <a class="el" href="../../#l02479">GetDungeonType()</a>, <a class="el" href="../../#l00250">Group::GetFirstMember()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l02381">Group::GetGUID()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02371">Group::GetLeaderGUID()</a>, <a class="el" href="../../#l00252">Group::GetMembersCount()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l02023">Player::GetSession()</a>, <a class="el" href="../../#l02488">GetState()</a>, <a class="el" href="../../#l06006">Unit::HasAura()</a>, <a class="el" href="../../#l01551">WorldSession::HasPermission()</a>, <a class="el" href="../../#l02291">Player::InBattleground()</a>, <a class="el" href="../../#l12254">Player::InBattlegroundQueue()</a>, <a class="el" href="../../#l02356">Group::isBFGroup()</a>, <a class="el" href="../../#l02351">Group::isBGGroup()</a>, <a class="el" href="../../#l00178">ObjectGuid::IsGroup()</a>, <a class="el" href="../../#l02340">Group::isLFGGroup()</a>, <a class="el" href="../../#l01002">JoinRaidBrowser()</a>, <a class="el" href="../../#l00380">lfg::LfgRoleCheck::leader</a>, <a class="el" href="../../#l00113">lfg::LFG_JOIN_DESERTER</a>, <a class="el" href="../../#l00110">lfg::LFG_JOIN_DISCONNECTED</a>, <a class="el" href="../../#l00112">lfg::LFG_JOIN_DUNGEON_INVALID</a>, <a class="el" href="../../#l00105">lfg::LFG_JOIN_INTERNAL_ERROR</a>, <a class="el" href="../../#l00108">lfg::LFG_JOIN_MIXED_RAID_DUNGEON</a>, <a class="el" href="../../#l00106">lfg::LFG_JOIN_NOT_MEET_REQS</a>, <a class="el" href="../../#l00102">lfg::LFG_JOIN_OK</a>, <a class="el" href="../../#l00114">lfg::LFG_JOIN_PARTY_DESERTER</a>, <a class="el" href="../../#l00107">lfg::LFG_JOIN_PARTY_NOT_MEET_REQS</a>, <a class="el" href="../../#l00116">lfg::LFG_JOIN_PARTY_RANDOM_COOLDOWN</a>, <a class="el" href="../../#l00115">lfg::LFG_JOIN_RANDOM_COOLDOWN</a>, <a class="el" href="../../#l00117">lfg::LFG_JOIN_TOO_MUCH_MEMBERS</a>, <a class="el" href="../../#l00118">lfg::LFG_JOIN_USING_BG_SYSTEM</a>, <a class="el" href="../../#l00126">lfg::LFG_ROLECHECK_INITIALITING</a>, <a class="el" href="../../#l00052">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a>, <a class="el" href="../../#l00053">lfg::LFG_SPELL_DUNGEON_DESERTER</a>, <a class="el" href="../../#l00074">lfg::LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l00071">lfg::LFG_STATE_PROPOSAL</a>, <a class="el" href="../../#l00070">lfg::LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00069">lfg::LFG_STATE_ROLECHECK</a>, <a class="el" href="../../#l00048">lfg::LFG_TIME_ROLECHECK</a>, <a class="el" href="../../#l00070">lfg::LFG_TYPE_DUNGEON</a>, <a class="el" href="../../#l00073">lfg::LFG_TYPE_HEROIC</a>, <a class="el" href="../../#l00071">lfg::LFG_TYPE_RAID</a>, <a class="el" href="../../#l00074">lfg::LFG_TYPE_RANDOM</a>, <a class="el" href="../../#l00053">lfg::LFG_UPDATETYPE_JOIN_QUEUE</a>, <a class="el" href="../../#l00285">lfg::LfgJoinResultData::lockmap</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00043">MAXGROUPSIZE</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00057">rbac::RBAC_PERM_JOIN_DUNGEON_FINDER</a>, <a class="el" href="../../#l00379">lfg::LfgRoleCheck::rDungeonId</a>, <a class="el" href="../../#l00049">lfg::LFGQueue::RemoveFromQueue()</a>, <a class="el" href="../../#l00283">lfg::LfgJoinResultData::result</a>, <a class="el" href="../../#l00637">RoleChecksStore</a>, <a class="el" href="../../#l00376">lfg::LfgRoleCheck::roles</a>, <a class="el" href="../../#l00441">WorldSession::SendLfgJoinResult()</a>, <a class="el" href="../../#l00302">WorldSession::SendLfgUpdatePlayer()</a>, <a class="el" href="../../#l01024">SendRaidBrowserJoinedPacket()</a>, <a class="el" href="../../#l02631">SetComment()</a>, <a class="el" href="../../#l02625">SetRoles()</a>, <a class="el" href="../../#l02650">SetSelectedDungeons()</a>, <a class="el" href="../../#l02592">SetState()</a>, <a class="el" href="../../#l00740">sScriptMgr</a>, <a class="el" href="../../#l00377">lfg::LfgRoleCheck::state</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00106">lfg::LFGQueue::AddQueueData()</a>, <a class="el" href="../../#l00375">lfg::LfgRoleCheck::cancelTime</a>, <a class="el" href="../../#l00130">CONFIG_ALLOW_JOIN_BG_AND_LFG</a>, <a class="el" href="../../#l00378">lfg::LfgRoleCheck::dungeons</a>, <a class="el" href="../../#l01588">GetCompatibleDungeons()</a>, <a class="el" href="../../#l02512">GetDungeon()</a>, <a class="el" href="../../#l02444">GetDungeonsByRandom()</a>, <a class="el" href="../../#l02479">GetDungeonType()</a>, <a class="el" href="../../#l00250">Group::GetFirstMember()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l02381">Group::GetGUID()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02371">Group::GetLeaderGUID()</a>, <a class="el" href="../../#l00252">Group::GetMembersCount()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l02023">Player::GetSession()</a>, <a class="el" href="../../#l02488">GetState()</a>, <a class="el" href="../../#l06006">Unit::HasAura()</a>, <a class="el" href="../../#l01551">WorldSession::HasPermission()</a>, <a class="el" href="../../#l02291">Player::InBattleground()</a>, <a class="el" href="../../#l12254">Player::InBattlegroundQueue()</a>, <a class="el" href="../../#l02356">Group::isBFGroup()</a>, <a class="el" href="../../#l02351">Group::isBGGroup()</a>, <a class="el" href="../../#l00178">ObjectGuid::IsGroup()</a>, <a class="el" href="../../#l02340">Group::isLFGGroup()</a>, <a class="el" href="../../#l01002">JoinRaidBrowser()</a>, <a class="el" href="../../#l00380">lfg::LfgRoleCheck::leader</a>, <a class="el" href="../../#l00113">lfg::LFG_JOIN_DESERTER</a>, <a class="el" href="../../#l00110">lfg::LFG_JOIN_DISCONNECTED</a>, <a class="el" href="../../#l00112">lfg::LFG_JOIN_DUNGEON_INVALID</a>, <a class="el" href="../../#l00105">lfg::LFG_JOIN_INTERNAL_ERROR</a>, <a class="el" href="../../#l00108">lfg::LFG_JOIN_MIXED_RAID_DUNGEON</a>, <a class="el" href="../../#l00106">lfg::LFG_JOIN_NOT_MEET_REQS</a>, <a class="el" href="../../#l00102">lfg::LFG_JOIN_OK</a>, <a class="el" href="../../#l00114">lfg::LFG_JOIN_PARTY_DESERTER</a>, <a class="el" href="../../#l00107">lfg::LFG_JOIN_PARTY_NOT_MEET_REQS</a>, <a class="el" href="../../#l00116">lfg::LFG_JOIN_PARTY_RANDOM_COOLDOWN</a>, <a class="el" href="../../#l00115">lfg::LFG_JOIN_RANDOM_COOLDOWN</a>, <a class="el" href="../../#l00117">lfg::LFG_JOIN_TOO_MUCH_MEMBERS</a>, <a class="el" href="../../#l00118">lfg::LFG_JOIN_USING_BG_SYSTEM</a>, <a class="el" href="../../#l00126">lfg::LFG_ROLECHECK_INITIALITING</a>, <a class="el" href="../../#l00052">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a>, <a class="el" href="../../#l00053">lfg::LFG_SPELL_DUNGEON_DESERTER</a>, <a class="el" href="../../#l00074">lfg::LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l00071">lfg::LFG_STATE_PROPOSAL</a>, <a class="el" href="../../#l00070">lfg::LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00069">lfg::LFG_STATE_ROLECHECK</a>, <a class="el" href="../../#l00048">lfg::LFG_TIME_ROLECHECK</a>, <a class="el" href="../../#l00070">lfg::LFG_TYPE_DUNGEON</a>, <a class="el" href="../../#l00073">lfg::LFG_TYPE_HEROIC</a>, <a class="el" href="../../#l00071">lfg::LFG_TYPE_RAID</a>, <a class="el" href="../../#l00074">lfg::LFG_TYPE_RANDOM</a>, <a class="el" href="../../#l00053">lfg::LFG_UPDATETYPE_JOIN_QUEUE</a>, <a class="el" href="../../#l00285">lfg::LfgJoinResultData::lockmap</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00043">MAXGROUPSIZE</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00057">rbac::RBAC_PERM_JOIN_DUNGEON_FINDER</a>, <a class="el" href="../../#l00379">lfg::LfgRoleCheck::rDungeonId</a>, <a class="el" href="../../#l00049">lfg::LFGQueue::RemoveFromQueue()</a>, <a class="el" href="../../#l00283">lfg::LfgJoinResultData::result</a>, <a class="el" href="../../#l00637">RoleChecksStore</a>, <a class="el" href="../../#l00376">lfg::LfgRoleCheck::roles</a>, <a class="el" href="../../#l00441">WorldSession::SendLfgJoinResult()</a>, <a class="el" href="../../#l00302">WorldSession::SendLfgUpdatePlayer()</a>, <a class="el" href="../../#l01024">SendRaidBrowserJoinedPacket()</a>, <a class="el" href="../../#l02631">SetComment()</a>, <a class="el" href="../../#l02625">SetRoles()</a>, <a class="el" href="../../#l02650">SetSelectedDungeons()</a>, <a class="el" href="../../#l02592">SetState()</a>, <a class="el" href="../../#l00740">sScriptMgr</a>, <a class="el" href="../../#l00377">lfg::LfgRoleCheck::state</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
 
 </div>
 </div>
@@ -4191,124 +4191,127 @@ Private Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno"> 1691</span>    {</div>
-<div class="line"><span class="lineno"> 1692</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#ab39552a59eefab4f8d1b8005203f9f94">LfgGuidList</a> players;</div>
-<div class="line"><span class="lineno"> 1693</span>        <a class="code hl_typedef" href="../../dc/dc9/ObjectGuid_8h.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a> playersToTeleport;</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1688</span>    {</div>
+<div class="line"><span class="lineno"> 1689</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#ab39552a59eefab4f8d1b8005203f9f94">LfgGuidList</a> players;</div>
+<div class="line"><span class="lineno"> 1690</span>        <a class="code hl_typedef" href="../../dc/dc9/ObjectGuid_8h.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a> playersToTeleport;</div>
+<div class="line"><span class="lineno"> 1691</span> </div>
+<div class="line"><span class="lineno"> 1692</span>        <span class="comment">// Sort players by role, leader first, then tank, healer and dps</span></div>
+<div class="line"><span class="lineno"> 1693</span>        std::vector&lt;ObjectGuid&gt; tanks, healers, dps;</div>
 <div class="line"><span class="lineno"> 1694</span> </div>
-<div class="line"><span class="lineno"> 1695</span>        <span class="comment">// Sort players by role, leader first, then tank, healer and dps</span></div>
-<div class="line"><span class="lineno"> 1696</span>        std::vector&lt;ObjectGuid&gt; tanks, healers, dps;</div>
+<div class="line"><span class="lineno"> 1695</span>        <span class="keywordflow">if</span> (proposal.leader &amp;&amp; proposal.players.contains(proposal.leader))</div>
+<div class="line"><span class="lineno"> 1696</span>            players.push_back(proposal.leader);</div>
 <div class="line"><span class="lineno"> 1697</span> </div>
-<div class="line"><span class="lineno"> 1698</span>        <span class="keywordflow">if</span> (proposal.leader &amp;&amp; proposal.players.contains(proposal.leader))</div>
-<div class="line"><span class="lineno"> 1699</span>            players.push_back(proposal.leader);</div>
-<div class="line"><span class="lineno"> 1700</span> </div>
-<div class="line"><span class="lineno"> 1701</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [guid, player] : proposal.players)</div>
-<div class="line"><span class="lineno"> 1702</span>        {</div>
-<div class="line"><span class="lineno"> 1703</span>            <span class="keywordflow">if</span> (proposal.isNew || <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae65c0fea7659883cb127ec5bec957da6">GetGroup</a>(guid) != proposal.group)</div>
-<div class="line"><span class="lineno"> 1704</span>                playersToTeleport.insert(guid);</div>
+<div class="line"><span class="lineno"> 1698</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [guid, player] : proposal.players)</div>
+<div class="line"><span class="lineno"> 1699</span>        {</div>
+<div class="line"><span class="lineno"> 1700</span>            <span class="keywordflow">if</span> (proposal.isNew || <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae65c0fea7659883cb127ec5bec957da6">GetGroup</a>(guid) != proposal.group)</div>
+<div class="line"><span class="lineno"> 1701</span>                playersToTeleport.insert(guid);</div>
+<div class="line"><span class="lineno"> 1702</span> </div>
+<div class="line"><span class="lineno"> 1703</span>            <span class="keywordflow">if</span> (guid == proposal.leader)</div>
+<div class="line"><span class="lineno"> 1704</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 1705</span> </div>
-<div class="line"><span class="lineno"> 1706</span>            <span class="keywordflow">if</span> (guid == proposal.leader)</div>
-<div class="line"><span class="lineno"> 1707</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 1708</span> </div>
-<div class="line"><span class="lineno"> 1709</span>            <span class="keywordflow">if</span> (player.role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">lfg::PLAYER_ROLE_TANK</a>)</div>
-<div class="line"><span class="lineno"> 1710</span>                tanks.push_back(guid);</div>
-<div class="line"><span class="lineno"> 1711</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (player.role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">lfg::PLAYER_ROLE_HEALER</a>)</div>
-<div class="line"><span class="lineno"> 1712</span>                healers.push_back(guid);</div>
-<div class="line"><span class="lineno"> 1713</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1714</span>                dps.push_back(guid);</div>
-<div class="line"><span class="lineno"> 1715</span>        }</div>
-<div class="line"><span class="lineno"> 1716</span> </div>
-<div class="line"><span class="lineno"> 1717</span>        players.insert(players.end(), tanks.begin(), tanks.end());</div>
-<div class="line"><span class="lineno"> 1718</span>        players.insert(players.end(), healers.begin(), healers.end());</div>
-<div class="line"><span class="lineno"> 1719</span>        players.insert(players.end(), dps.begin(), dps.end());</div>
-<div class="line"><span class="lineno"> 1720</span> </div>
-<div class="line"><span class="lineno"> 1721</span>        <span class="comment">// Set the dungeon difficulty</span></div>
-<div class="line"><span class="lineno"> 1722</span>        LFGDungeonData <span class="keyword">const</span>* dungeon = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a8e9a99296d8991715999e3807dfc034c">GetLFGDungeon</a>(proposal.dungeonId);</div>
-<div class="line"><span class="lineno"> 1723</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(dungeon);</div>
-<div class="line"><span class="lineno"> 1724</span> </div>
-<div class="line"><span class="lineno"> 1725</span>        <span class="keywordtype">bool</span> isPremadeGroup = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1726</span>        <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* grp = proposal.group ? <a class="code hl_define" href="../../d8/de6/GroupMgr_8h.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(proposal.group.GetCounter()) : <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1727</span>        <span class="keywordflow">if</span> (!grp)</div>
-<div class="line"><span class="lineno"> 1728</span>        {</div>
-<div class="line"><span class="lineno"> 1729</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> groupGUID;</div>
-<div class="line"><span class="lineno"> 1730</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : players)</div>
-<div class="line"><span class="lineno"> 1731</span>            {</div>
-<div class="line"><span class="lineno"> 1732</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
-<div class="line"><span class="lineno"> 1733</span>                {</div>
-<div class="line"><span class="lineno"> 1734</span>                    <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = player-&gt;GetGroup();</div>
-<div class="line"><span class="lineno"> 1735</span>                    <span class="keywordflow">if</span> (!group || (groupGUID &amp;&amp; groupGUID != group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>()))</div>
-<div class="line"><span class="lineno"> 1736</span>                    {</div>
-<div class="line"><span class="lineno"> 1737</span>                        isPremadeGroup = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1738</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1739</span>                    }</div>
-<div class="line"><span class="lineno"> 1740</span> </div>
-<div class="line"><span class="lineno"> 1741</span>                    groupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1742</span>                    isPremadeGroup = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1743</span>                }</div>
-<div class="line"><span class="lineno"> 1744</span>            }</div>
-<div class="line"><span class="lineno"> 1745</span>        }</div>
-<div class="line"><span class="lineno"> 1746</span> </div>
-<div class="line"><span class="lineno"> 1747</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> oldGroupGUID;</div>
-<div class="line"><span class="lineno"> 1748</span>        <span class="keywordtype">bool</span> hasRandomLfgMember = proposal.group.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a32695a11f47a244236e7bce277fcf3a8">IsEmpty</a>();</div>
-<div class="line"><span class="lineno"> 1749</span>        <span class="keywordflow">for</span> (LfgGuidList::const_iterator it = players.begin(); it != players.end(); ++it)</div>
-<div class="line"><span class="lineno"> 1750</span>        {</div>
-<div class="line"><span class="lineno"> 1751</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = (*it);</div>
-<div class="line"><span class="lineno"> 1752</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(pguid);</div>
-<div class="line"><span class="lineno"> 1753</span>            <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 1754</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 1755</span> </div>
-<div class="line"><span class="lineno"> 1756</span>            <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>();</div>
-<div class="line"><span class="lineno"> 1757</span>            <span class="keywordflow">if</span> (isPremadeGroup &amp;&amp; !grp)</div>
-<div class="line"><span class="lineno"> 1758</span>            {</div>
-<div class="line"><span class="lineno"> 1759</span>                oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1760</span>                grp = group;</div>
-<div class="line"><span class="lineno"> 1761</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa74b9e454c739fe595aa719d90302ff3">ConvertToLFG</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1762</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>(), <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">LFG_STATE_PROPOSAL</a>);</div>
-<div class="line"><span class="lineno"> 1763</span>            }</div>
-<div class="line"><span class="lineno"> 1764</span> </div>
-<div class="line"><span class="lineno"> 1765</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> <span class="keyword">const</span> proposalPlayer = proposal.players.find(pguid); proposalPlayer != proposal.players.end())</div>
-<div class="line"><span class="lineno"> 1766</span>            {</div>
-<div class="line"><span class="lineno"> 1767</span>                <span class="keywordflow">if</span> (!hasRandomLfgMember &amp;&amp; (proposalPlayer-&gt;second.group.IsEmpty() || proposalPlayer-&gt;second.group != proposal.group))</div>
-<div class="line"><span class="lineno"> 1768</span>                    hasRandomLfgMember = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1769</span>            }</div>
-<div class="line"><span class="lineno"> 1770</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1771</span>                hasRandomLfgMember = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1772</span> </div>
-<div class="line"><span class="lineno"> 1773</span>            <span class="comment">// Xinef: Apply Random Buff</span></div>
-<div class="line"><span class="lineno"> 1774</span>            <span class="keywordflow">if</span> (grp &amp;&amp; !grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a8dde79e705459dd1a28dfbb3dd3ccaf7">IsLfgWithBuff</a>() &amp;&amp; hasRandomLfgMember)</div>
-<div class="line"><span class="lineno"> 1775</span>            {</div>
-<div class="line"><span class="lineno"> 1776</span>                <span class="keywordflow">if</span> (!group || group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>() != oldGroupGUID)</div>
-<div class="line"><span class="lineno"> 1777</span>                    grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa685ebbfcefc8a8f2f4bee73bc832e3f">AddLfgBuffFlag</a>();</div>
-<div class="line"><span class="lineno"> 1778</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1779</span>                    oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1780</span>            }</div>
-<div class="line"><span class="lineno"> 1781</span> </div>
-<div class="line"><span class="lineno"> 1782</span>            <span class="comment">// Xinef: Store amount of random players player grouped with</span></div>
-<div class="line"><span class="lineno"> 1783</span>            <span class="keywordflow">if</span> (group)</div>
-<div class="line"><span class="lineno"> 1784</span>            {</div>
-<div class="line"><span class="lineno"> 1785</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae4b9747788b39c823c17af9347e5c806">SetRandomPlayersCount</a>(pguid, group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a7999bad7025b6116145e263e467f1f4b">GetMembersCount</a>() &gt;= <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> ? 0 : <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> - group-&gt;GetMembersCount());</div>
-<div class="line"><span class="lineno"> 1786</span>                oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1787</span>                <span class="keywordflow">if</span> (group != grp)</div>
-<div class="line"><span class="lineno"> 1788</span>                    group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa32c9c240d705c57efe1fd53a1a380bf">RemoveMember</a>(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1789</span>            }</div>
-<div class="line"><span class="lineno"> 1790</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1791</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae4b9747788b39c823c17af9347e5c806">SetRandomPlayersCount</a>(pguid, <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> - 1);</div>
-<div class="line"><span class="lineno"> 1792</span> </div>
-<div class="line"><span class="lineno"> 1793</span>            <span class="keywordflow">if</span> (!grp)</div>
-<div class="line"><span class="lineno"> 1794</span>            {</div>
-<div class="line"><span class="lineno"> 1795</span>                grp = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>();</div>
-<div class="line"><span class="lineno"> 1796</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa74b9e454c739fe595aa719d90302ff3">ConvertToLFG</a>();</div>
-<div class="line"><span class="lineno"> 1797</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Create</a>(player);</div>
-<div class="line"><span class="lineno"> 1798</span>                <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> gguid = grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1799</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(gguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">LFG_STATE_PROPOSAL</a>);</div>
-<div class="line"><span class="lineno"> 1800</span>                <a class="code hl_define" href="../../d8/de6/GroupMgr_8h.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;AddGroup(grp);</div>
-<div class="line"><span class="lineno"> 1801</span>            }</div>
-<div class="line"><span class="lineno"> 1802</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (group != grp)</div>
-<div class="line"><span class="lineno"> 1803</span>            {</div>
-<div class="line"><span class="lineno"> 1804</span>                <span class="keywordflow">if</span> (!grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#add6f6d3f8ed39c46ceaed2e3f958c8e6">IsFull</a>())</div>
-<div class="line"><span class="lineno"> 1805</span>                    grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a4dfd1d2dddfb659196b0b7fdb02eef7a">AddMember</a>(player);</div>
-<div class="line"><span class="lineno"> 1806</span>            }</div>
-<div class="line"><span class="lineno"> 1807</span> </div>
-<div class="line"><span class="lineno"> 1808</span>            grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a3930207d5141d12a47b5d1a8348e409a">SetLfgRoles</a>(pguid, proposal.players.find(pguid)-&gt;second.role);</div>
+<div class="line"><span class="lineno"> 1706</span>            <span class="keywordflow">if</span> (player.role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">lfg::PLAYER_ROLE_TANK</a>)</div>
+<div class="line"><span class="lineno"> 1707</span>                tanks.push_back(guid);</div>
+<div class="line"><span class="lineno"> 1708</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (player.role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">lfg::PLAYER_ROLE_HEALER</a>)</div>
+<div class="line"><span class="lineno"> 1709</span>                healers.push_back(guid);</div>
+<div class="line"><span class="lineno"> 1710</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1711</span>                dps.push_back(guid);</div>
+<div class="line"><span class="lineno"> 1712</span>        }</div>
+<div class="line"><span class="lineno"> 1713</span> </div>
+<div class="line"><span class="lineno"> 1714</span>        players.insert(players.end(), tanks.begin(), tanks.end());</div>
+<div class="line"><span class="lineno"> 1715</span>        players.insert(players.end(), healers.begin(), healers.end());</div>
+<div class="line"><span class="lineno"> 1716</span>        players.insert(players.end(), dps.begin(), dps.end());</div>
+<div class="line"><span class="lineno"> 1717</span> </div>
+<div class="line"><span class="lineno"> 1718</span>        <span class="comment">// Set the dungeon difficulty</span></div>
+<div class="line"><span class="lineno"> 1719</span>        LFGDungeonData <span class="keyword">const</span>* dungeon = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a8e9a99296d8991715999e3807dfc034c">GetLFGDungeon</a>(proposal.dungeonId);</div>
+<div class="line"><span class="lineno"> 1720</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(dungeon);</div>
+<div class="line"><span class="lineno"> 1721</span> </div>
+<div class="line"><span class="lineno"> 1722</span>        <span class="keywordtype">bool</span> isPremadeGroup = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1723</span>        <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* grp = proposal.group ? <a class="code hl_define" href="../../d8/de6/GroupMgr_8h.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(proposal.group.GetCounter()) : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1724</span>        <span class="keywordflow">if</span> (!grp)</div>
+<div class="line"><span class="lineno"> 1725</span>        {</div>
+<div class="line"><span class="lineno"> 1726</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> groupGUID;</div>
+<div class="line"><span class="lineno"> 1727</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : players)</div>
+<div class="line"><span class="lineno"> 1728</span>            {</div>
+<div class="line"><span class="lineno"> 1729</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
+<div class="line"><span class="lineno"> 1730</span>                {</div>
+<div class="line"><span class="lineno"> 1731</span>                    <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = player-&gt;GetGroup();</div>
+<div class="line"><span class="lineno"> 1732</span>                    <span class="keywordflow">if</span> (!group || (groupGUID &amp;&amp; groupGUID != group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>()))</div>
+<div class="line"><span class="lineno"> 1733</span>                    {</div>
+<div class="line"><span class="lineno"> 1734</span>                        isPremadeGroup = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1735</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1736</span>                    }</div>
+<div class="line"><span class="lineno"> 1737</span> </div>
+<div class="line"><span class="lineno"> 1738</span>                    groupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1739</span>                    isPremadeGroup = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1740</span>                }</div>
+<div class="line"><span class="lineno"> 1741</span>            }</div>
+<div class="line"><span class="lineno"> 1742</span>        }</div>
+<div class="line"><span class="lineno"> 1743</span> </div>
+<div class="line"><span class="lineno"> 1744</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> oldGroupGUID;</div>
+<div class="line"><span class="lineno"> 1745</span>        <span class="keywordtype">bool</span> hasRandomLfgMember = proposal.group.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a32695a11f47a244236e7bce277fcf3a8">IsEmpty</a>();</div>
+<div class="line"><span class="lineno"> 1746</span>        <span class="keywordflow">for</span> (LfgGuidList::const_iterator it = players.begin(); it != players.end(); ++it)</div>
+<div class="line"><span class="lineno"> 1747</span>        {</div>
+<div class="line"><span class="lineno"> 1748</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = (*it);</div>
+<div class="line"><span class="lineno"> 1749</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(pguid);</div>
+<div class="line"><span class="lineno"> 1750</span>            <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 1751</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 1752</span> </div>
+<div class="line"><span class="lineno"> 1753</span>            <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>();</div>
+<div class="line"><span class="lineno"> 1754</span>            <span class="keywordflow">if</span> (isPremadeGroup &amp;&amp; !grp)</div>
+<div class="line"><span class="lineno"> 1755</span>            {</div>
+<div class="line"><span class="lineno"> 1756</span>                oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1757</span>                grp = group;</div>
+<div class="line"><span class="lineno"> 1758</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa74b9e454c739fe595aa719d90302ff3">ConvertToLFG</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1759</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>(), <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">LFG_STATE_PROPOSAL</a>);</div>
+<div class="line"><span class="lineno"> 1760</span>            }</div>
+<div class="line"><span class="lineno"> 1761</span> </div>
+<div class="line"><span class="lineno"> 1762</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> <span class="keyword">const</span> proposalPlayer = proposal.players.find(pguid); proposalPlayer != proposal.players.end())</div>
+<div class="line"><span class="lineno"> 1763</span>            {</div>
+<div class="line"><span class="lineno"> 1764</span>                <span class="keywordflow">if</span> (!hasRandomLfgMember &amp;&amp; (proposalPlayer-&gt;second.group.IsEmpty() || proposalPlayer-&gt;second.group != proposal.group))</div>
+<div class="line"><span class="lineno"> 1765</span>                    hasRandomLfgMember = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1766</span>            }</div>
+<div class="line"><span class="lineno"> 1767</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1768</span>                hasRandomLfgMember = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1769</span> </div>
+<div class="line"><span class="lineno"> 1770</span>            <span class="comment">// Xinef: Apply Random Buff</span></div>
+<div class="line"><span class="lineno"> 1771</span>            <span class="keywordflow">if</span> (grp &amp;&amp; !grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a8dde79e705459dd1a28dfbb3dd3ccaf7">IsLfgWithBuff</a>() &amp;&amp; hasRandomLfgMember)</div>
+<div class="line"><span class="lineno"> 1772</span>            {</div>
+<div class="line"><span class="lineno"> 1773</span>                <span class="keywordflow">if</span> (!group || group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>() != oldGroupGUID)</div>
+<div class="line"><span class="lineno"> 1774</span>                    grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa685ebbfcefc8a8f2f4bee73bc832e3f">AddLfgBuffFlag</a>();</div>
+<div class="line"><span class="lineno"> 1775</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1776</span>                    oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1777</span>            }</div>
+<div class="line"><span class="lineno"> 1778</span> </div>
+<div class="line"><span class="lineno"> 1779</span>            <span class="comment">// Xinef: Store amount of random players player grouped with</span></div>
+<div class="line"><span class="lineno"> 1780</span>            <span class="keywordflow">if</span> (group)</div>
+<div class="line"><span class="lineno"> 1781</span>            {</div>
+<div class="line"><span class="lineno"> 1782</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae4b9747788b39c823c17af9347e5c806">SetRandomPlayersCount</a>(pguid, group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a7999bad7025b6116145e263e467f1f4b">GetMembersCount</a>() &gt;= <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> ? 0 : <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> - group-&gt;GetMembersCount());</div>
+<div class="line"><span class="lineno"> 1783</span>                oldGroupGUID = group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1784</span>                <span class="keywordflow">if</span> (group != grp)</div>
+<div class="line"><span class="lineno"> 1785</span>                    group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa32c9c240d705c57efe1fd53a1a380bf">RemoveMember</a>(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1786</span>            }</div>
+<div class="line"><span class="lineno"> 1787</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1788</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae4b9747788b39c823c17af9347e5c806">SetRandomPlayersCount</a>(pguid, <a class="code hl_define" href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a> - 1);</div>
+<div class="line"><span class="lineno"> 1789</span> </div>
+<div class="line"><span class="lineno"> 1790</span>            <span class="keywordflow">if</span> (!grp)</div>
+<div class="line"><span class="lineno"> 1791</span>            {</div>
+<div class="line"><span class="lineno"> 1792</span>                grp = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>();</div>
+<div class="line"><span class="lineno"> 1793</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa74b9e454c739fe595aa719d90302ff3">ConvertToLFG</a>();</div>
+<div class="line"><span class="lineno"> 1794</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Create</a>(player);</div>
+<div class="line"><span class="lineno"> 1795</span>                <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> gguid = grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1796</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(gguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45">LFG_STATE_PROPOSAL</a>);</div>
+<div class="line"><span class="lineno"> 1797</span>                <a class="code hl_define" href="../../d8/de6/GroupMgr_8h.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;AddGroup(grp);</div>
+<div class="line"><span class="lineno"> 1798</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a3930207d5141d12a47b5d1a8348e409a">SetLfgRoles</a>(pguid, proposal.players.find(pguid)-&gt;second.role);</div>
+<div class="line"><span class="lineno"> 1799</span>            }</div>
+<div class="line"><span class="lineno"> 1800</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (group != grp)</div>
+<div class="line"><span class="lineno"> 1801</span>            {</div>
+<div class="line"><span class="lineno"> 1802</span>                <span class="keywordflow">if</span> (!grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#add6f6d3f8ed39c46ceaed2e3f958c8e6">IsFull</a>())</div>
+<div class="line"><span class="lineno"> 1803</span>                    grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#aa9b2e3fb80edbe3c240ef7bad2c5538b">AddMember</a>(player, proposal.players.find(pguid)-&gt;second.role);</div>
+<div class="line"><span class="lineno"> 1804</span>            }</div>
+<div class="line"><span class="lineno"> 1805</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1806</span>            {</div>
+<div class="line"><span class="lineno"> 1807</span>                grp-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a3930207d5141d12a47b5d1a8348e409a">SetLfgRoles</a>(pguid, proposal.players.find(pguid)-&gt;second.role);</div>
+<div class="line"><span class="lineno"> 1808</span>            }</div>
 <div class="line"><span class="lineno"> 1809</span>        }</div>
 <div class="line"><span class="lineno"> 1810</span> </div>
 <div class="line"><span class="lineno"> 1811</span>        <span class="comment">// pussywizard: crashfix, group wasn&#39;t created when iterating players (no player found by guid), proposal is deleted by the calling function</span></div>
@@ -4428,13 +4431,13 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassGroup_html_a10f5d72624a125ef8c08bdb2d30c63ef"><div class="ttname"><a href="../../d0/db7/classGroup.html#a10f5d72624a125ef8c08bdb2d30c63ef">Group::AddLfgRandomInstanceFlag</a></div><div class="ttdeci">void AddLfgRandomInstanceFlag()</div><div class="ttdef"><b>Definition</b> Group.h:321</div></div>
 <div class="ttc" id="aclassGroup_html_a385eef6a4d20fdefd8f338db21d782a8"><div class="ttname"><a href="../../d0/db7/classGroup.html#a385eef6a4d20fdefd8f338db21d782a8">Group::SetDungeonDifficulty</a></div><div class="ttdeci">void SetDungeonDifficulty(Difficulty difficulty)</div><div class="ttdef"><b>Definition</b> Group.cpp:2148</div></div>
 <div class="ttc" id="aclassGroup_html_a3930207d5141d12a47b5d1a8348e409a"><div class="ttname"><a href="../../d0/db7/classGroup.html#a3930207d5141d12a47b5d1a8348e409a">Group::SetLfgRoles</a></div><div class="ttdeci">void SetLfgRoles(ObjectGuid guid, const uint8 roles)</div><div class="ttdef"><b>Definition</b> Group.cpp:2325</div></div>
-<div class="ttc" id="aclassGroup_html_a4dfd1d2dddfb659196b0b7fdb02eef7a"><div class="ttname"><a href="../../d0/db7/classGroup.html#a4dfd1d2dddfb659196b0b7fdb02eef7a">Group::AddMember</a></div><div class="ttdeci">bool AddMember(Player *player)</div><div class="ttdef"><b>Definition</b> Group.cpp:424</div></div>
 <div class="ttc" id="aclassGroup_html_a53ca8211873b0e3a2301224cde0ee2c4"><div class="ttname"><a href="../../d0/db7/classGroup.html#a53ca8211873b0e3a2301224cde0ee2c4">Group::IsLeader</a></div><div class="ttdeci">bool IsLeader(ObjectGuid guid) const</div><div class="ttdef"><b>Definition</b> Group.cpp:2416</div></div>
 <div class="ttc" id="aclassGroup_html_a5be377d96f4d118934fc0103a73877f3"><div class="ttname"><a href="../../d0/db7/classGroup.html#a5be377d96f4d118934fc0103a73877f3">Group::SendUpdate</a></div><div class="ttdeci">void SendUpdate()</div><div class="ttdef"><b>Definition</b> Group.cpp:1730</div></div>
 <div class="ttc" id="aclassGroup_html_a8dde79e705459dd1a28dfbb3dd3ccaf7"><div class="ttname"><a href="../../d0/db7/classGroup.html#a8dde79e705459dd1a28dfbb3dd3ccaf7">Group::IsLfgWithBuff</a></div><div class="ttdeci">bool IsLfgWithBuff() const</div><div class="ttdef"><b>Definition</b> Group.h:323</div></div>
 <div class="ttc" id="aclassGroup_html_aa32c9c240d705c57efe1fd53a1a380bf"><div class="ttname"><a href="../../d0/db7/classGroup.html#aa32c9c240d705c57efe1fd53a1a380bf">Group::RemoveMember</a></div><div class="ttdeci">bool RemoveMember(ObjectGuid guid, const RemoveMethod &amp;method=GROUP_REMOVEMETHOD_DEFAULT, ObjectGuid kicker=ObjectGuid::Empty, const char *reason=nullptr)</div><div class="ttdef"><b>Definition</b> Group.cpp:580</div></div>
 <div class="ttc" id="aclassGroup_html_aa685ebbfcefc8a8f2f4bee73bc832e3f"><div class="ttname"><a href="../../d0/db7/classGroup.html#aa685ebbfcefc8a8f2f4bee73bc832e3f">Group::AddLfgBuffFlag</a></div><div class="ttdeci">void AddLfgBuffFlag()</div><div class="ttdef"><b>Definition</b> Group.h:320</div></div>
 <div class="ttc" id="aclassGroup_html_aa74b9e454c739fe595aa719d90302ff3"><div class="ttname"><a href="../../d0/db7/classGroup.html#aa74b9e454c739fe595aa719d90302ff3">Group::ConvertToLFG</a></div><div class="ttdeci">void ConvertToLFG(bool restricted=true)</div><div class="ttdef"><b>Definition</b> Group.cpp:294</div></div>
+<div class="ttc" id="aclassGroup_html_aa9b2e3fb80edbe3c240ef7bad2c5538b"><div class="ttname"><a href="../../d0/db7/classGroup.html#aa9b2e3fb80edbe3c240ef7bad2c5538b">Group::AddMember</a></div><div class="ttdeci">bool AddMember(Player *player, uint8 roles=0)</div><div class="ttdef"><b>Definition</b> Group.cpp:424</div></div>
 <div class="ttc" id="aclassGroup_html_ad67c147f0aa09b1a812d9ace153eba09"><div class="ttname"><a href="../../d0/db7/classGroup.html#ad67c147f0aa09b1a812d9ace153eba09">Group::AddLfgHeroicFlag</a></div><div class="ttdeci">void AddLfgHeroicFlag()</div><div class="ttdef"><b>Definition</b> Group.h:322</div></div>
 <div class="ttc" id="aclassGroup_html_ad8e8aed3d91a8233306d0dd6a9bb5148"><div class="ttname"><a href="../../d0/db7/classGroup.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Group::Create</a></div><div class="ttdeci">bool Create(Player *leader)</div><div class="ttdef"><b>Definition</b> Group.cpp:142</div></div>
 <div class="ttc" id="aclassGroup_html_add6f6d3f8ed39c46ceaed2e3f958c8e6"><div class="ttname"><a href="../../d0/db7/classGroup.html#add6f6d3f8ed39c46ceaed2e3f958c8e6">Group::IsFull</a></div><div class="ttdeci">bool IsFull() const</div><div class="ttdef"><b>Definition</b> Group.cpp:2335</div></div>
@@ -5074,7 +5077,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00250">GetLFGDungeon()</a>, <a class="el" href="../../#l02544">GetSelectedDungeons()</a>, <a class="el" href="../../#l02488">GetState()</a>, <a class="el" href="../../#l00068">lfg::LFG_STATE_NONE</a>, <a class="el" href="../../#l00074">lfg::LFG_TYPE_RANDOM</a>, <a class="el" href="../../#l00412">lfg::LFGDungeonData::seasonal</a>, and <a class="el" href="../../#l00406">lfg::LFGDungeonData::type</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01690">MakeNewGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01687">MakeNewGroup()</a>.</p>
 
 </div>
 </div>
@@ -5668,7 +5671,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00641">GroupsStore</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00067">_LoadFromDB()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, and <a class="el" href="../../#l01690">MakeNewGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00067">_LoadFromDB()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, and <a class="el" href="../../#l01687">MakeNewGroup()</a>.</p>
 
 </div>
 </div>
@@ -5848,7 +5851,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00640">PlayersStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01690">MakeNewGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01687">MakeNewGroup()</a>.</p>
 
 </div>
 </div>
@@ -5991,7 +5994,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00109">lfg::LfgGroupData::GetOldState()</a>, <a class="el" href="../../#l00110">lfg::LfgPlayerData::GetOldState()</a>, <a class="el" href="../../#l00104">lfg::LfgGroupData::GetState()</a>, <a class="el" href="../../#l00105">lfg::LfgPlayerData::GetState()</a>, <a class="el" href="../../#l00073">lfg::GetStateString()</a>, <a class="el" href="../../#l00641">GroupsStore</a>, <a class="el" href="../../#l00178">ObjectGuid::IsGroup()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00640">PlayersStore</a>, <a class="el" href="../../#l00036">lfg::LfgGroupData::SetState()</a>, <a class="el" href="../../#l00031">lfg::LfgPlayerData::SetState()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00067">_LoadFromDB()</a>, <a class="el" href="../../#l02331">FinishDungeon()</a>, <a class="el" href="../../#l02146">InitBoot()</a>, <a class="el" href="../../#l00598">JoinLfg()</a>, <a class="el" href="../../#l01447">LeaveAllLfgQueues()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, <a class="el" href="../../#l01690">MakeNewGroup()</a>, <a class="el" href="../../#l02668">RemoveGroupData()</a>, <a class="el" href="../../#l02037">RemoveProposal()</a>, <a class="el" href="../../#l02907">SetupGroupMember()</a>, <a class="el" href="../../#l00356">Update()</a>, <a class="el" href="../../#l02180">UpdateBoot()</a>, <a class="el" href="../../#l01934">UpdateProposal()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00067">_LoadFromDB()</a>, <a class="el" href="../../#l02331">FinishDungeon()</a>, <a class="el" href="../../#l02146">InitBoot()</a>, <a class="el" href="../../#l00598">JoinLfg()</a>, <a class="el" href="../../#l01447">LeaveAllLfgQueues()</a>, <a class="el" href="../../#l00921">LeaveLfg()</a>, <a class="el" href="../../#l01687">MakeNewGroup()</a>, <a class="el" href="../../#l02668">RemoveGroupData()</a>, <a class="el" href="../../#l02037">RemoveProposal()</a>, <a class="el" href="../../#l02907">SetupGroupMember()</a>, <a class="el" href="../../#l00356">Update()</a>, <a class="el" href="../../#l02180">UpdateBoot()</a>, <a class="el" href="../../#l01934">UpdateProposal()</a>, and <a class="el" href="../../#l01502">UpdateRoleCheck()</a>.</p>
 
 </div>
 </div>
@@ -6226,7 +6229,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00559">FATIGUE_TIMER</a>, <a class="el" href="../../#l00721">Unit::GetCharmGUID()</a>, <a class="el" href="../../#l02512">GetDungeon()</a>, <a class="el" href="../../#l02419">Player::GetEntryPoint()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l02381">Group::GetGUID()</a>, <a class="el" href="../../#l00250">GetLFGDungeon()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00281">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l02023">Player::GetSession()</a>, <a class="el" href="../../#l01929">Unit::GetVehicle()</a>, <a class="el" href="../../#l00286">WorldLocation::GetWorldLocation()</a>, <a class="el" href="../../#l00736">Unit::HasUnitState()</a>, <a class="el" href="../../#l01796">Unit::IsAlive()</a>, <a class="el" href="../../#l00297">Map::IsDungeon()</a>, <a class="el" href="../../#l02143">Player::IsFalling()</a>, <a class="el" href="../../#l00935">Unit::IsInCombat()</a>, <a class="el" href="../../#l02340">Group::isLFGGroup()</a>, <a class="el" href="../../#l02085">Player::IsMirrorTimerActive()</a>, <a class="el" href="../../#l00095">lfg::LFG_TELEPORTERROR_COMBAT</a>, <a class="el" href="../../#l00091">lfg::LFG_TELEPORTERROR_FALLING</a>, <a class="el" href="../../#l00093">lfg::LFG_TELEPORTERROR_FATIGUE</a>, <a class="el" href="../../#l00092">lfg::LFG_TELEPORTERROR_IN_VEHICLE</a>, <a class="el" href="../../#l00094">lfg::LFG_TELEPORTERROR_INVALID_LOCATION</a>, <a class="el" href="../../#l00089">lfg::LFG_TELEPORTERROR_OK</a>, <a class="el" href="../../#l00090">lfg::LFG_TELEPORTERROR_PLAYER_DEAD</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00405">lfg::LFGDungeonData::map</a>, <a class="el" href="../../#l00253">MAPID_INVALID</a>, <a class="el" href="../../#l00413">lfg::LFGDungeonData::o</a>, <a class="el" href="../../#l00636">WorldSession::SendLfgTeleportError()</a>, <a class="el" href="../../#l11273">Player::SetEntryPoint()</a>, <a class="el" href="../../#l01353">Player::TeleportTo()</a>, <a class="el" href="../../#l01600">Player::TeleportToEntryPoint()</a>, <a class="el" href="../../#l00191">UNIT_STATE_JUMPING</a>, <a class="el" href="../../#l00413">lfg::LFGDungeonData::x</a>, <a class="el" href="../../#l00413">lfg::LFGDungeonData::y</a>, and <a class="el" href="../../#l00413">lfg::LFGDungeonData::z</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01690">MakeNewGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01687">MakeNewGroup()</a>.</p>
 
 </div>
 </div>
@@ -6658,10 +6661,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 2029</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_acde22d5449c9279693d913e79341049d"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#acde22d5449c9279693d913e79341049d">lfg::LFGMgr::GetRoles</a></div><div class="ttdeci">uint8 GetRoles(ObjectGuid guid)</div><div class="ttdoc">Get current player roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2531</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGMgr_html_af08a37eb29e4183c5a6e5e6480ba7603"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#af08a37eb29e4183c5a6e5e6480ba7603">lfg::LFGMgr::MakeNewGroup</a></div><div class="ttdeci">void MakeNewGroup(LfgProposal const &amp;proposal)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1690</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGMgr_html_af08a37eb29e4183c5a6e5e6480ba7603"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#af08a37eb29e4183c5a6e5e6480ba7603">lfg::LFGMgr::MakeNewGroup</a></div><div class="ttdeci">void MakeNewGroup(LfgProposal const &amp;proposal)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1687</div></div>
 <div class="ttc" id="anamespacelfg_html_a253373c800edd65165575f01c960a500a1dadbefb634e2a2a1cb29de62b37025a"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a1dadbefb634e2a2a1cb29de62b37025a">lfg::LFG_UPDATETYPE_GROUP_FOUND</a></div><div class="ttdeci">@ LFG_UPDATETYPE_GROUP_FOUND</div><div class="ttdef"><b>Definition</b> LFG.h:58</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00349">lfg::LfgProposalPlayer::accept</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00572">lfg::LFGQueue::GetJoinTime()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l02531">GetRoles()</a>, <a class="el" href="../../#l02544">GetSelectedDungeons()</a>, <a class="el" href="../../#l00125">lfg::Lfg5Guids::guids</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00100">lfg::LFG_ANSWER_AGREE</a>, <a class="el" href="../../#l00082">lfg::LFG_PROPOSAL_SUCCESS</a>, <a class="el" href="../../#l00073">lfg::LFG_STATE_DUNGEON</a>, <a class="el" href="../../#l00058">lfg::LFG_UPDATETYPE_GROUP_FOUND</a>, <a class="el" href="../../#l00057">lfg::LFG_UPDATETYPE_PROPOSAL_DECLINED</a>, <a class="el" href="../../#l00055">lfg::LFG_UPDATETYPE_REMOVED_FROM_QUEUE</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00642">m_Testing</a>, <a class="el" href="../../#l01690">MakeNewGroup()</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00369">lfg::LfgProposal::players</a>, <a class="el" href="../../#l00638">ProposalsStore</a>, <a class="el" href="../../#l00367">lfg::LfgProposal::queues</a>, <a class="el" href="../../#l02037">RemoveProposal()</a>, <a class="el" href="../../#l00113">lfg::LFGQueue::RemoveQueueData()</a>, <a class="el" href="../../#l02791">SendLfgUpdateParty()</a>, <a class="el" href="../../#l02785">SendLfgUpdatePlayer()</a>, <a class="el" href="../../#l02809">SendLfgUpdateProposal()</a>, <a class="el" href="../../#l02592">SetState()</a>, <a class="el" href="../../#l00361">lfg::LfgProposal::state</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00297">lfg::LfgUpdateData::updateType</a>, <a class="el" href="../../#l00121">lfg::LFGQueue::UpdateWaitTimeAvg()</a>, <a class="el" href="../../#l00142">lfg::LFGQueue::UpdateWaitTimeDps()</a>, <a class="el" href="../../#l00135">lfg::LFGQueue::UpdateWaitTimeHealer()</a>, and <a class="el" href="../../#l00128">lfg::LFGQueue::UpdateWaitTimeTank()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00349">lfg::LfgProposalPlayer::accept</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00572">lfg::LFGQueue::GetJoinTime()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l02531">GetRoles()</a>, <a class="el" href="../../#l02544">GetSelectedDungeons()</a>, <a class="el" href="../../#l00125">lfg::Lfg5Guids::guids</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00100">lfg::LFG_ANSWER_AGREE</a>, <a class="el" href="../../#l00082">lfg::LFG_PROPOSAL_SUCCESS</a>, <a class="el" href="../../#l00073">lfg::LFG_STATE_DUNGEON</a>, <a class="el" href="../../#l00058">lfg::LFG_UPDATETYPE_GROUP_FOUND</a>, <a class="el" href="../../#l00057">lfg::LFG_UPDATETYPE_PROPOSAL_DECLINED</a>, <a class="el" href="../../#l00055">lfg::LFG_UPDATETYPE_REMOVED_FROM_QUEUE</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00642">m_Testing</a>, <a class="el" href="../../#l01687">MakeNewGroup()</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00369">lfg::LfgProposal::players</a>, <a class="el" href="../../#l00638">ProposalsStore</a>, <a class="el" href="../../#l00367">lfg::LfgProposal::queues</a>, <a class="el" href="../../#l02037">RemoveProposal()</a>, <a class="el" href="../../#l00113">lfg::LFGQueue::RemoveQueueData()</a>, <a class="el" href="../../#l02791">SendLfgUpdateParty()</a>, <a class="el" href="../../#l02785">SendLfgUpdatePlayer()</a>, <a class="el" href="../../#l02809">SendLfgUpdateProposal()</a>, <a class="el" href="../../#l02592">SetState()</a>, <a class="el" href="../../#l00361">lfg::LfgProposal::state</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00297">lfg::LfgUpdateData::updateType</a>, <a class="el" href="../../#l00121">lfg::LFGQueue::UpdateWaitTimeAvg()</a>, <a class="el" href="../../#l00142">lfg::LFGQueue::UpdateWaitTimeDps()</a>, <a class="el" href="../../#l00135">lfg::LFGQueue::UpdateWaitTimeHealer()</a>, and <a class="el" href="../../#l00128">lfg::LFGQueue::UpdateWaitTimeTank()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00356">Update()</a>.</p>
 
@@ -6972,7 +6975,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a439922e9735e301d9570c488c1351b19"><div class="ttname"><a href="../../df/dd9/classUnit.html#a439922e9735e301d9570c488c1351b19">Unit::GetDefenseSkillValue</a></div><div class="ttdeci">uint32 GetDefenseSkillValue(Unit const *target=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:3797</div></div>
 <div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1109</div></div>
 <div class="ttc" id="aclassUnit_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition</b> Unit.h:843</div></div>
-<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:17047</div></div>
+<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:17055</div></div>
 <div class="ttc" id="aclassUnit_html_a93f83fd909310de2c76382d00d7dbbf1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">Unit::GetMaxPower</a></div><div class="ttdeci">uint32 GetMaxPower(Powers power) const</div><div class="ttdef"><b>Definition</b> Unit.h:1136</div></div>
 <div class="ttc" id="aclassUnit_html_aa332713ceeb74eee9c0e92b3fc406aed"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa332713ceeb74eee9c0e92b3fc406aed">Unit::GetArmor</a></div><div class="ttdeci">uint32 GetArmor() const</div><div class="ttdef"><b>Definition</b> Unit.h:1157</div></div>
 <div class="ttc" id="aclassUnit_html_ac3c793a406745727640d214fa4eedfcc"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac3c793a406745727640d214fa4eedfcc">Unit::SpellBaseDamageBonusDone</a></div><div class="ttdeci">int32 SpellBaseDamageBonusDone(SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition</b> Unit.cpp:9038</div></div>
@@ -6988,7 +6991,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespaceGameTime_html_a6d0d49f37e25e497391157b2a2ec90c1"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a></div><div class="ttdeci">Milliseconds GetGameTimeMS()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:43</div></div>
 <div class="ttc" id="astructCharacterCacheEntry_html"><div class="ttname"><a href="../../dd/dcf/structCharacterCacheEntry.html">CharacterCacheEntry</a></div><div class="ttdef"><b>Definition</b> CharacterCache.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00215">BASE_ATTACK</a>, <a class="el" href="../../d0/d0a/ServerMailMgr_8h.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a>, <a class="el" href="../../#l00136">CLASS_DRUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00122">ByteBuffer::clear()</a>, <a class="el" href="../../#l00227">CR_BLOCK</a>, <a class="el" href="../../#l00231">CR_CRIT_MELEE</a>, <a class="el" href="../../#l00232">CR_CRIT_RANGED</a>, <a class="el" href="../../#l00233">CR_CRIT_SPELL</a>, <a class="el" href="../../#l00225">CR_DODGE</a>, <a class="el" href="../../#l00246">CR_EXPERTISE</a>, <a class="el" href="../../#l00242">CR_HASTE_SPELL</a>, <a class="el" href="../../#l00226">CR_PARRY</a>, <a class="el" href="../../#l00411">lfg::LFGDungeonData::difficulty</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l03119">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l01157">Unit::GetArmor()</a>, <a class="el" href="../../#l15944">Player::GetAverageItemLevel()</a>, <a class="el" href="../../#l00843">Unit::getClass()</a>, <a class="el" href="../../#l03797">Unit::GetDefenseSkillValue()</a>, <a class="el" href="../../#l00306">Object::GetFloatValue()</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l02381">Group::GetGUID()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00250">GetLFGDungeon()</a>, <a class="el" href="../../#l01109">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l01136">Unit::GetMaxPower()</a>, <a class="el" href="../../#l00249">Group::GetMemberSlots()</a>, <a class="el" href="../../#l00091">GetMSTimeDiff()</a>, <a class="el" href="../../#l01131">Unit::getPowerType()</a>, <a class="el" href="../../#l17047">Unit::getRace()</a>, <a class="el" href="../../#l01058">Unit::GetStat()</a>, <a class="el" href="../../#l15503">Player::GetTalentTreePoints()</a>, <a class="el" href="../../#l00084">GetTimeMS()</a>, <a class="el" href="../../#l12310">Unit::GetTotalAttackPowerValue()</a>, <a class="el" href="../../#l00294">Object::GetUInt32Value()</a>, <a class="el" href="../../#l01302">Player::IsClass()</a>, <a class="el" href="../../#l00161">ObjectGuid::IsEmpty()</a>, <a class="el" href="../../#l00629">m_raidBrowserLastUpdatedDungeonId</a>, <a class="el" href="../../#l00628">m_raidBrowserUpdateTimer</a>, <a class="el" href="../../#l00405">lfg::LFGDungeonData::map</a>, <a class="el" href="../../#l00380">PLAYER_FIELD_COMBAT_RATING_1</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00257">POWER_MANA</a>, <a class="el" href="../../#l00258">POWER_RAGE</a>, <a class="el" href="../../#l00263">POWER_RUNIC_POWER</a>, <a class="el" href="../../#l00428">RaidBrowserStore</a>, <a class="el" href="../../#l00217">RANGED_ATTACK</a>, <a class="el" href="../../#l00432">RBCacheStore</a>, <a class="el" href="../../#l00436">RBInternalInfoStoreCurr</a>, <a class="el" href="../../#l00435">RBInternalInfoStorePrev</a>, <a class="el" href="../../#l01336">RBPacketAppendGroup()</a>, <a class="el" href="../../#l01352">RBPacketAppendPlayer()</a>, <a class="el" href="../../#l01406">RBPacketBuildDifference()</a>, <a class="el" href="../../#l01421">RBPacketBuildFull()</a>, <a class="el" href="../../#l00430">RBSearchersStore</a>, <a class="el" href="../../#l00438">RBUsedDungeonsStore</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l00202">sInstanceSaveMgr</a>, <a class="el" href="../../#l00894">SMSG_UPDATE_LFG_LIST</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, <a class="el" href="../../#l09038">Unit::SpellBaseDamageBonusDone()</a>, <a class="el" href="../../#l09795">Unit::SpellBaseHealingBonusDone()</a>, <a class="el" href="../../#l00247">STAT_AGILITY</a>, <a class="el" href="../../#l00112">UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</a>, and <a class="el" href="../../#l00113">UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00215">BASE_ATTACK</a>, <a class="el" href="../../d0/d0a/ServerMailMgr_8h.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a>, <a class="el" href="../../#l00136">CLASS_DRUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00122">ByteBuffer::clear()</a>, <a class="el" href="../../#l00227">CR_BLOCK</a>, <a class="el" href="../../#l00231">CR_CRIT_MELEE</a>, <a class="el" href="../../#l00232">CR_CRIT_RANGED</a>, <a class="el" href="../../#l00233">CR_CRIT_SPELL</a>, <a class="el" href="../../#l00225">CR_DODGE</a>, <a class="el" href="../../#l00246">CR_EXPERTISE</a>, <a class="el" href="../../#l00242">CR_HASTE_SPELL</a>, <a class="el" href="../../#l00226">CR_PARRY</a>, <a class="el" href="../../#l00411">lfg::LFGDungeonData::difficulty</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l03119">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l01157">Unit::GetArmor()</a>, <a class="el" href="../../#l15944">Player::GetAverageItemLevel()</a>, <a class="el" href="../../#l00843">Unit::getClass()</a>, <a class="el" href="../../#l03797">Unit::GetDefenseSkillValue()</a>, <a class="el" href="../../#l00306">Object::GetFloatValue()</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l02381">Group::GetGUID()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00250">GetLFGDungeon()</a>, <a class="el" href="../../#l01109">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l01136">Unit::GetMaxPower()</a>, <a class="el" href="../../#l00249">Group::GetMemberSlots()</a>, <a class="el" href="../../#l00091">GetMSTimeDiff()</a>, <a class="el" href="../../#l01131">Unit::getPowerType()</a>, <a class="el" href="../../#l17055">Unit::getRace()</a>, <a class="el" href="../../#l01058">Unit::GetStat()</a>, <a class="el" href="../../#l15503">Player::GetTalentTreePoints()</a>, <a class="el" href="../../#l00084">GetTimeMS()</a>, <a class="el" href="../../#l12310">Unit::GetTotalAttackPowerValue()</a>, <a class="el" href="../../#l00294">Object::GetUInt32Value()</a>, <a class="el" href="../../#l01302">Player::IsClass()</a>, <a class="el" href="../../#l00161">ObjectGuid::IsEmpty()</a>, <a class="el" href="../../#l00629">m_raidBrowserLastUpdatedDungeonId</a>, <a class="el" href="../../#l00628">m_raidBrowserUpdateTimer</a>, <a class="el" href="../../#l00405">lfg::LFGDungeonData::map</a>, <a class="el" href="../../#l00380">PLAYER_FIELD_COMBAT_RATING_1</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00257">POWER_MANA</a>, <a class="el" href="../../#l00258">POWER_RAGE</a>, <a class="el" href="../../#l00263">POWER_RUNIC_POWER</a>, <a class="el" href="../../#l00428">RaidBrowserStore</a>, <a class="el" href="../../#l00217">RANGED_ATTACK</a>, <a class="el" href="../../#l00432">RBCacheStore</a>, <a class="el" href="../../#l00436">RBInternalInfoStoreCurr</a>, <a class="el" href="../../#l00435">RBInternalInfoStorePrev</a>, <a class="el" href="../../#l01336">RBPacketAppendGroup()</a>, <a class="el" href="../../#l01352">RBPacketAppendPlayer()</a>, <a class="el" href="../../#l01406">RBPacketBuildDifference()</a>, <a class="el" href="../../#l01421">RBPacketBuildFull()</a>, <a class="el" href="../../#l00430">RBSearchersStore</a>, <a class="el" href="../../#l00438">RBUsedDungeonsStore</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l00202">sInstanceSaveMgr</a>, <a class="el" href="../../#l00894">SMSG_UPDATE_LFG_LIST</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, <a class="el" href="../../#l09038">Unit::SpellBaseDamageBonusDone()</a>, <a class="el" href="../../#l09795">Unit::SpellBaseHealingBonusDone()</a>, <a class="el" href="../../#l00247">STAT_AGILITY</a>, <a class="el" href="../../#l00112">UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</a>, and <a class="el" href="../../#l00113">UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00356">Update()</a>.</p>
 
@@ -7040,81 +7043,78 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1504</span>        <span class="keywordflow">if</span> (!gguid)</div>
 <div class="line"><span class="lineno"> 1505</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 1506</span> </div>
-<div class="line"><span class="lineno"> 1507</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a1b722a34b2bb9c6f6699bc774c2f246b">LfgRolesMap</a> check_roles;</div>
-<div class="line"><span class="lineno"> 1508</span>        LfgRoleCheckContainer::iterator itRoleCheck = <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.find(gguid);</div>
-<div class="line"><span class="lineno"> 1509</span>        <span class="keywordflow">if</span> (itRoleCheck == <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.end())</div>
-<div class="line"><span class="lineno"> 1510</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1511</span> </div>
-<div class="line"><span class="lineno"> 1512</span>        LfgRoleCheck&amp; roleCheck = itRoleCheck-&gt;second;</div>
-<div class="line"><span class="lineno"> 1513</span>        <span class="keywordtype">bool</span> sendRoleChosen = roleCheck.state != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a> &amp;&amp; guid;</div>
-<div class="line"><span class="lineno"> 1514</span> </div>
-<div class="line"><span class="lineno"> 1515</span>        <span class="keywordflow">if</span> (!guid)</div>
-<div class="line"><span class="lineno"> 1516</span>            roleCheck.state = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6">LFG_ROLECHECK_ABORTED</a>;</div>
-<div class="line"><span class="lineno"> 1517</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roles &lt; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)                            <span class="comment">// Player selected no role.</span></div>
-<div class="line"><span class="lineno"> 1518</span>            roleCheck.state = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8">LFG_ROLECHECK_NO_ROLE</a>;</div>
-<div class="line"><span class="lineno"> 1519</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1520</span>        {</div>
-<div class="line"><span class="lineno"> 1521</span>            roleCheck.roles[guid] = roles;</div>
-<div class="line"><span class="lineno"> 1522</span> </div>
-<div class="line"><span class="lineno"> 1523</span>            <span class="comment">// Check if all players have selected a role</span></div>
-<div class="line"><span class="lineno"> 1524</span>            LfgRolesMap::const_iterator itRoles = roleCheck.roles.begin();</div>
-<div class="line"><span class="lineno"> 1525</span>            <span class="keywordflow">while</span> (itRoles != roleCheck.roles.end() &amp;&amp; itRoles-&gt;second != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>)</div>
-<div class="line"><span class="lineno"> 1526</span>                ++itRoles;</div>
-<div class="line"><span class="lineno"> 1527</span> </div>
-<div class="line"><span class="lineno"> 1528</span>            <span class="keywordflow">if</span> (itRoles == roleCheck.roles.end())</div>
-<div class="line"><span class="lineno"> 1529</span>            {</div>
-<div class="line"><span class="lineno"> 1530</span>                <span class="comment">// use temporal var to check roles, CheckGroupRoles modifies the roles</span></div>
-<div class="line"><span class="lineno"> 1531</span>                check_roles = roleCheck.roles;</div>
-<div class="line"><span class="lineno"> 1532</span>                roleCheck.state = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(check_roles) ? <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a> : <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0">LFG_ROLECHECK_WRONG_ROLES</a>;</div>
-<div class="line"><span class="lineno"> 1533</span>            }</div>
-<div class="line"><span class="lineno"> 1534</span>        }</div>
-<div class="line"><span class="lineno"> 1535</span> </div>
-<div class="line"><span class="lineno"> 1536</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> dungeons;</div>
-<div class="line"><span class="lineno"> 1537</span>        <span class="keywordflow">if</span> (roleCheck.rDungeonId)</div>
-<div class="line"><span class="lineno"> 1538</span>            dungeons.insert(roleCheck.rDungeonId);</div>
-<div class="line"><span class="lineno"> 1539</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1540</span>            dungeons = roleCheck.dungeons;</div>
-<div class="line"><span class="lineno"> 1541</span> </div>
-<div class="line"><span class="lineno"> 1542</span>        LfgJoinResultData joinData = LfgJoinResultData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9">LFG_JOIN_FAILED</a>, roleCheck.state);</div>
-<div class="line"><span class="lineno"> 1543</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator it = roleCheck.roles.begin(); it != roleCheck.roles.end(); ++it)</div>
-<div class="line"><span class="lineno"> 1544</span>        {</div>
-<div class="line"><span class="lineno"> 1545</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = it-&gt;first;</div>
+<div class="line"><span class="lineno"> 1507</span>        LfgRoleCheckContainer::iterator itRoleCheck = <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.find(gguid);</div>
+<div class="line"><span class="lineno"> 1508</span>        <span class="keywordflow">if</span> (itRoleCheck == <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.end())</div>
+<div class="line"><span class="lineno"> 1509</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1510</span> </div>
+<div class="line"><span class="lineno"> 1511</span>        LfgRoleCheck&amp; roleCheck = itRoleCheck-&gt;second;</div>
+<div class="line"><span class="lineno"> 1512</span>        <span class="keywordtype">bool</span> sendRoleChosen = roleCheck.state != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a> &amp;&amp; guid;</div>
+<div class="line"><span class="lineno"> 1513</span> </div>
+<div class="line"><span class="lineno"> 1514</span>        <span class="keywordflow">if</span> (!guid)</div>
+<div class="line"><span class="lineno"> 1515</span>            roleCheck.state = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6">LFG_ROLECHECK_ABORTED</a>;</div>
+<div class="line"><span class="lineno"> 1516</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roles &lt; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)                            <span class="comment">// Player selected no role.</span></div>
+<div class="line"><span class="lineno"> 1517</span>            roleCheck.state = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8">LFG_ROLECHECK_NO_ROLE</a>;</div>
+<div class="line"><span class="lineno"> 1518</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1519</span>        {</div>
+<div class="line"><span class="lineno"> 1520</span>            roleCheck.roles[guid] = roles;</div>
+<div class="line"><span class="lineno"> 1521</span> </div>
+<div class="line"><span class="lineno"> 1522</span>            <span class="comment">// Check if all players have selected a role</span></div>
+<div class="line"><span class="lineno"> 1523</span>            LfgRolesMap::const_iterator itRoles = roleCheck.roles.begin();</div>
+<div class="line"><span class="lineno"> 1524</span>            <span class="keywordflow">while</span> (itRoles != roleCheck.roles.end() &amp;&amp; itRoles-&gt;second != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>)</div>
+<div class="line"><span class="lineno"> 1525</span>                ++itRoles;</div>
+<div class="line"><span class="lineno"> 1526</span> </div>
+<div class="line"><span class="lineno"> 1527</span>            <span class="keywordflow">if</span> (itRoles == roleCheck.roles.end())</div>
+<div class="line"><span class="lineno"> 1528</span>            {</div>
+<div class="line"><span class="lineno"> 1529</span>                roleCheck.state = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">CheckGroupRoles</a>(roleCheck.roles) ? <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a> : <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0">LFG_ROLECHECK_WRONG_ROLES</a>;</div>
+<div class="line"><span class="lineno"> 1530</span>            }</div>
+<div class="line"><span class="lineno"> 1531</span>        }</div>
+<div class="line"><span class="lineno"> 1532</span> </div>
+<div class="line"><span class="lineno"> 1533</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> dungeons;</div>
+<div class="line"><span class="lineno"> 1534</span>        <span class="keywordflow">if</span> (roleCheck.rDungeonId)</div>
+<div class="line"><span class="lineno"> 1535</span>            dungeons.insert(roleCheck.rDungeonId);</div>
+<div class="line"><span class="lineno"> 1536</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1537</span>            dungeons = roleCheck.dungeons;</div>
+<div class="line"><span class="lineno"> 1538</span> </div>
+<div class="line"><span class="lineno"> 1539</span>        LfgJoinResultData joinData = LfgJoinResultData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9">LFG_JOIN_FAILED</a>, roleCheck.state);</div>
+<div class="line"><span class="lineno"> 1540</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator it = roleCheck.roles.begin(); it != roleCheck.roles.end(); ++it)</div>
+<div class="line"><span class="lineno"> 1541</span>        {</div>
+<div class="line"><span class="lineno"> 1542</span>            <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = it-&gt;first;</div>
+<div class="line"><span class="lineno"> 1543</span> </div>
+<div class="line"><span class="lineno"> 1544</span>            <span class="keywordflow">if</span> (sendRoleChosen)</div>
+<div class="line"><span class="lineno"> 1545</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aaac797cb8cafcb4044291331859cc43d">SendLfgRoleChosen</a>(pguid, guid, roles);</div>
 <div class="line"><span class="lineno"> 1546</span> </div>
-<div class="line"><span class="lineno"> 1547</span>            <span class="keywordflow">if</span> (sendRoleChosen)</div>
-<div class="line"><span class="lineno"> 1548</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aaac797cb8cafcb4044291331859cc43d">SendLfgRoleChosen</a>(pguid, guid, roles);</div>
-<div class="line"><span class="lineno"> 1549</span> </div>
-<div class="line"><span class="lineno"> 1550</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a5a271df27843e39c9936a97c847ae2a0">SendLfgRoleCheckUpdate</a>(pguid, roleCheck);</div>
-<div class="line"><span class="lineno"> 1551</span>            <span class="keywordflow">switch</span> (roleCheck.state)</div>
-<div class="line"><span class="lineno"> 1552</span>            {</div>
-<div class="line"><span class="lineno"> 1553</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1">LFG_ROLECHECK_INITIALITING</a>:</div>
-<div class="line"><span class="lineno"> 1554</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 1555</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a>:</div>
-<div class="line"><span class="lineno"> 1556</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(pguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>);</div>
-<div class="line"><span class="lineno"> 1557</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#abb520c95d4db7a5043bc807cab7a0944">SetRoles</a>(pguid, it-&gt;second);</div>
-<div class="line"><span class="lineno"> 1558</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#afad33ada5a9252627d8d2647286186be">SendLfgUpdateParty</a>(pguid, LfgUpdateData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a2c521c675958a24d656825edc0f194f0">LFG_UPDATETYPE_ADDED_TO_QUEUE</a>, dungeons, <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a7913a959d73f5d550fbae9dcf4e9e1e4">GetComment</a>(pguid)));</div>
-<div class="line"><span class="lineno"> 1559</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1560</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 1561</span>                    <span class="keywordflow">if</span> (roleCheck.leader == pguid)</div>
-<div class="line"><span class="lineno"> 1562</span>                        <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a7f22fa6476101b9bd47def88baa6e67f">SendLfgJoinResult</a>(pguid, joinData);</div>
-<div class="line"><span class="lineno"> 1563</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#afad33ada5a9252627d8d2647286186be">SendLfgUpdateParty</a>(pguid, LfgUpdateData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af">LFG_UPDATETYPE_ROLECHECK_FAILED</a>));</div>
-<div class="line"><span class="lineno"> 1564</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a4fc809184dc157a5dfaa744c30930daa">RestoreState</a>(pguid, <span class="stringliteral">&quot;Rolecheck Failed&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1565</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1566</span>            }</div>
-<div class="line"><span class="lineno"> 1567</span>        }</div>
-<div class="line"><span class="lineno"> 1568</span> </div>
-<div class="line"><span class="lineno"> 1569</span>        <span class="keywordflow">if</span> (roleCheck.state == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a>)</div>
-<div class="line"><span class="lineno"> 1570</span>        {</div>
-<div class="line"><span class="lineno"> 1571</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(gguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>);</div>
-<div class="line"><span class="lineno"> 1572</span>            LFGQueue&amp; queue = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aba960955892483e801d647d1b64019af">GetQueue</a>(gguid);</div>
-<div class="line"><span class="lineno"> 1573</span>            queue.AddQueueData(gguid, time_t(<a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count()), roleCheck.dungeons, roleCheck.roles);</div>
-<div class="line"><span class="lineno"> 1574</span>            <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.erase(itRoleCheck);</div>
-<div class="line"><span class="lineno"> 1575</span>        }</div>
-<div class="line"><span class="lineno"> 1576</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roleCheck.state != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1">LFG_ROLECHECK_INITIALITING</a>)</div>
-<div class="line"><span class="lineno"> 1577</span>        {</div>
-<div class="line"><span class="lineno"> 1578</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a4fc809184dc157a5dfaa744c30930daa">RestoreState</a>(gguid, <span class="stringliteral">&quot;Rolecheck Failed&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1579</span>            <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.erase(itRoleCheck);</div>
-<div class="line"><span class="lineno"> 1580</span>        }</div>
-<div class="line"><span class="lineno"> 1581</span>    }</div>
+<div class="line"><span class="lineno"> 1547</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a5a271df27843e39c9936a97c847ae2a0">SendLfgRoleCheckUpdate</a>(pguid, roleCheck);</div>
+<div class="line"><span class="lineno"> 1548</span>            <span class="keywordflow">switch</span> (roleCheck.state)</div>
+<div class="line"><span class="lineno"> 1549</span>            {</div>
+<div class="line"><span class="lineno"> 1550</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1">LFG_ROLECHECK_INITIALITING</a>:</div>
+<div class="line"><span class="lineno"> 1551</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 1552</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a>:</div>
+<div class="line"><span class="lineno"> 1553</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(pguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>);</div>
+<div class="line"><span class="lineno"> 1554</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#abb520c95d4db7a5043bc807cab7a0944">SetRoles</a>(pguid, it-&gt;second);</div>
+<div class="line"><span class="lineno"> 1555</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#afad33ada5a9252627d8d2647286186be">SendLfgUpdateParty</a>(pguid, LfgUpdateData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a2c521c675958a24d656825edc0f194f0">LFG_UPDATETYPE_ADDED_TO_QUEUE</a>, dungeons, <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a7913a959d73f5d550fbae9dcf4e9e1e4">GetComment</a>(pguid)));</div>
+<div class="line"><span class="lineno"> 1556</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1557</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 1558</span>                    <span class="keywordflow">if</span> (roleCheck.leader == pguid)</div>
+<div class="line"><span class="lineno"> 1559</span>                        <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a7f22fa6476101b9bd47def88baa6e67f">SendLfgJoinResult</a>(pguid, joinData);</div>
+<div class="line"><span class="lineno"> 1560</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#afad33ada5a9252627d8d2647286186be">SendLfgUpdateParty</a>(pguid, LfgUpdateData(<a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af">LFG_UPDATETYPE_ROLECHECK_FAILED</a>));</div>
+<div class="line"><span class="lineno"> 1561</span>                    <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a4fc809184dc157a5dfaa744c30930daa">RestoreState</a>(pguid, <span class="stringliteral">&quot;Rolecheck Failed&quot;</span>);</div>
+<div class="line"><span class="lineno"> 1562</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1563</span>            }</div>
+<div class="line"><span class="lineno"> 1564</span>        }</div>
+<div class="line"><span class="lineno"> 1565</span> </div>
+<div class="line"><span class="lineno"> 1566</span>        <span class="keywordflow">if</span> (roleCheck.state == <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">LFG_ROLECHECK_FINISHED</a>)</div>
+<div class="line"><span class="lineno"> 1567</span>        {</div>
+<div class="line"><span class="lineno"> 1568</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aa9881102b8d92cf13969aca8ef163b7a">SetState</a>(gguid, <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915">LFG_STATE_QUEUED</a>);</div>
+<div class="line"><span class="lineno"> 1569</span>            LFGQueue&amp; queue = <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#aba960955892483e801d647d1b64019af">GetQueue</a>(gguid);</div>
+<div class="line"><span class="lineno"> 1570</span>            queue.AddQueueData(gguid, time_t(<a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count()), roleCheck.dungeons, roleCheck.roles);</div>
+<div class="line"><span class="lineno"> 1571</span>            <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.erase(itRoleCheck);</div>
+<div class="line"><span class="lineno"> 1572</span>        }</div>
+<div class="line"><span class="lineno"> 1573</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (roleCheck.state != <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1">LFG_ROLECHECK_INITIALITING</a>)</div>
+<div class="line"><span class="lineno"> 1574</span>        {</div>
+<div class="line"><span class="lineno"> 1575</span>            <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a4fc809184dc157a5dfaa744c30930daa">RestoreState</a>(gguid, <span class="stringliteral">&quot;Rolecheck Failed&quot;</span>);</div>
+<div class="line"><span class="lineno"> 1576</span>            <a class="code hl_variable" href="../../d2/dbc/classlfg_1_1LFGMgr.html#a899fdb21d26e7286604d73a1665d8beb">RoleChecksStore</a>.erase(itRoleCheck);</div>
+<div class="line"><span class="lineno"> 1577</span>        }</div>
+<div class="line"><span class="lineno"> 1578</span>    }</div>
 <div class="ttc" id="aclasslfg_1_1LFGMgr_html_aaac797cb8cafcb4044291331859cc43d"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#aaac797cb8cafcb4044291331859cc43d">lfg::LFGMgr::SendLfgRoleChosen</a></div><div class="ttdeci">void SendLfgRoleChosen(ObjectGuid guid, ObjectGuid pguid, uint8 roles)</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2773</div></div>
 <div class="ttc" id="anamespacelfg_html_a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a11fff6b6555015a22309efff672ff7af">lfg::LFG_UPDATETYPE_ROLECHECK_FAILED</a></div><div class="ttdeci">@ LFG_UPDATETYPE_ROLECHECK_FAILED</div><div class="ttdef"><b>Definition</b> LFG.h:54</div></div>
 <div class="ttc" id="anamespacelfg_html_a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0">lfg::LFG_ROLECHECK_WRONG_ROLES</a></div><div class="ttdeci">@ LFG_ROLECHECK_WRONG_ROLES</div><div class="ttdef"><b>Definition</b> LFGMgr.h:128</div></div>
@@ -7123,7 +7123,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespacelfg_html_a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">lfg::LFG_ROLECHECK_FINISHED</a></div><div class="ttdeci">@ LFG_ROLECHECK_FINISHED</div><div class="ttdef"><b>Definition</b> LFGMgr.h:125</div></div>
 <div class="ttc" id="anamespacelfg_html_a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8">lfg::LFG_ROLECHECK_NO_ROLE</a></div><div class="ttdeci">@ LFG_ROLECHECK_NO_ROLE</div><div class="ttdef"><b>Definition</b> LFGMgr.h:130</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00106">lfg::LFGQueue::AddQueueData()</a>, <a class="el" href="../../#l01621">CheckGroupRoles()</a>, <a class="el" href="../../#l00378">lfg::LfgRoleCheck::dungeons</a>, <a class="el" href="../../#l02538">GetComment()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l00380">lfg::LfgRoleCheck::leader</a>, <a class="el" href="../../#l00103">lfg::LFG_JOIN_FAILED</a>, <a class="el" href="../../#l00129">lfg::LFG_ROLECHECK_ABORTED</a>, <a class="el" href="../../#l00124">lfg::LFG_ROLECHECK_DEFAULT</a>, <a class="el" href="../../#l00125">lfg::LFG_ROLECHECK_FINISHED</a>, <a class="el" href="../../#l00126">lfg::LFG_ROLECHECK_INITIALITING</a>, <a class="el" href="../../#l00130">lfg::LFG_ROLECHECK_NO_ROLE</a>, <a class="el" href="../../#l00128">lfg::LFG_ROLECHECK_WRONG_ROLES</a>, <a class="el" href="../../#l00070">lfg::LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00059">lfg::LFG_UPDATETYPE_ADDED_TO_QUEUE</a>, <a class="el" href="../../#l00054">lfg::LFG_UPDATETYPE_ROLECHECK_FAILED</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00379">lfg::LfgRoleCheck::rDungeonId</a>, <a class="el" href="../../#l02563">RestoreState()</a>, <a class="el" href="../../#l00637">RoleChecksStore</a>, <a class="el" href="../../#l00376">lfg::LfgRoleCheck::roles</a>, <a class="el" href="../../#l02797">SendLfgJoinResult()</a>, <a class="el" href="../../#l02779">SendLfgRoleCheckUpdate()</a>, <a class="el" href="../../#l02773">SendLfgRoleChosen()</a>, <a class="el" href="../../#l02791">SendLfgUpdateParty()</a>, <a class="el" href="../../#l02625">SetRoles()</a>, <a class="el" href="../../#l02592">SetState()</a>, and <a class="el" href="../../#l00377">lfg::LfgRoleCheck::state</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00106">lfg::LFGQueue::AddQueueData()</a>, <a class="el" href="../../#l01618">CheckGroupRoles()</a>, <a class="el" href="../../#l00378">lfg::LfgRoleCheck::dungeons</a>, <a class="el" href="../../#l02538">GetComment()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l02826">GetQueue()</a>, <a class="el" href="../../#l00380">lfg::LfgRoleCheck::leader</a>, <a class="el" href="../../#l00103">lfg::LFG_JOIN_FAILED</a>, <a class="el" href="../../#l00129">lfg::LFG_ROLECHECK_ABORTED</a>, <a class="el" href="../../#l00124">lfg::LFG_ROLECHECK_DEFAULT</a>, <a class="el" href="../../#l00125">lfg::LFG_ROLECHECK_FINISHED</a>, <a class="el" href="../../#l00126">lfg::LFG_ROLECHECK_INITIALITING</a>, <a class="el" href="../../#l00130">lfg::LFG_ROLECHECK_NO_ROLE</a>, <a class="el" href="../../#l00128">lfg::LFG_ROLECHECK_WRONG_ROLES</a>, <a class="el" href="../../#l00070">lfg::LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00059">lfg::LFG_UPDATETYPE_ADDED_TO_QUEUE</a>, <a class="el" href="../../#l00054">lfg::LFG_UPDATETYPE_ROLECHECK_FAILED</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00379">lfg::LfgRoleCheck::rDungeonId</a>, <a class="el" href="../../#l02563">RestoreState()</a>, <a class="el" href="../../#l00637">RoleChecksStore</a>, <a class="el" href="../../#l00376">lfg::LfgRoleCheck::roles</a>, <a class="el" href="../../#l02797">SendLfgJoinResult()</a>, <a class="el" href="../../#l02779">SendLfgRoleCheckUpdate()</a>, <a class="el" href="../../#l02773">SendLfgRoleChosen()</a>, <a class="el" href="../../#l02791">SendLfgUpdateParty()</a>, <a class="el" href="../../#l02625">SetRoles()</a>, <a class="el" href="../../#l02592">SetState()</a>, and <a class="el" href="../../#l00377">lfg::LfgRoleCheck::state</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00598">JoinLfg()</a>, and <a class="el" href="../../#l00921">LeaveLfg()</a>.</p>
 
@@ -7408,7 +7408,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00588">IsTesting()</a>, <a class="el" href="../../#l01690">MakeNewGroup()</a>, <a class="el" href="../../#l00901">ToggleTesting()</a>, and <a class="el" href="../../#l01934">UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00588">IsTesting()</a>, <a class="el" href="../../#l01687">MakeNewGroup()</a>, <a class="el" href="../../#l00901">ToggleTesting()</a>, and <a class="el" href="../../#l01934">UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -7696,7 +7696,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d72/namespacelfg.html">lfg</a></li><li class="navelem"><a class="el" href="../../d2/dbc/classlfg_1_1LFGMgr.html">LFGMgr</a></li>
-    <li class="footer">Generated on Wed Jun 17 2026 10:48:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Jun 18 2026 10:16:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

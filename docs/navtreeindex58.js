@@ -1,6 +1,5 @@
 var NAVTREEINDEX58 =
 {
-"d2/d48/classChannel.html#a62ddfdef17c946e5646e3c77392d000d":[7,0,864,46],
 "d2/d48/classChannel.html#a643ede42777caa8bd414c4bfd7ddf503":[7,0,864,70],
 "d2/d48/classChannel.html#a644f576818b773b7f9f028acb0f1754e":[7,0,864,25],
 "d2/d48/classChannel.html#a68295c35d7d0fe80fe9f4c057d091fa3":[7,0,864,93],
@@ -81,14 +80,14 @@ var NAVTREEINDEX58 =
 "d2/d48/classspell__fungal__decay.html#a6189a5ea90b1951b21a7e9ef36700ed9":[7,0,2959,0],
 "d2/d48/classspell__fungal__decay.html#acfa6b5217a0e0e2654b7fa9c4092abd5":[7,0,2959,2],
 "d2/d48/classspell__fungal__decay.html#adddddd0689f4686a40b1db142b5d6ce2":[7,0,2959,3],
-"d2/d48/classspell__illidan__shadow__prison.html":[7,0,3288],
-"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[7,0,3288,2],
-"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3288,0],
-"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3288,1],
-"d2/d48/classspell__item__anti__venom.html":[7,0,3309],
-"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3309,2],
-"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3309,0],
-"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3309,1],
+"d2/d48/classspell__illidan__shadow__prison.html":[7,0,3289],
+"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[7,0,3289,2],
+"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3289,0],
+"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3289,1],
+"d2/d48/classspell__item__anti__venom.html":[7,0,3310],
+"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3310,2],
+"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3310,0],
+"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3310,1],
 "d2/d48/structFactionState.html":[7,0,1058],
 "d2/d48/structFactionState.html#a052caeeae1ecdca831097591e0fddaf6":[7,0,1058,4],
 "d2/d48/structFactionState.html#a287fe9e8ec5da58ae3f5096045eebf31":[7,0,1058,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a1d5892a7a5dcf20a585fe3f80d2d60d9":[7,0,2401,32],
 "d2/d4b/classPlayer.html#a1d5a99a1bc3fe2cd6be06768c66e574a":[7,0,2401,832],
 "d2/d4b/classPlayer.html#a1dac000a52ea31f8d3fbd2cd3ca377ca":[7,0,2401,107],
-"d2/d4b/classPlayer.html#a1db422d6843388c2b2a01eb2cbe06a96":[7,0,2401,302]
+"d2/d4b/classPlayer.html#a1db422d6843388c2b2a01eb2cbe06a96":[7,0,2401,302],
+"d2/d4b/classPlayer.html#a1dc571ecfbdcc0f9650aa541d5ea91ff":[7,0,2401,365]
 };
