@@ -5,7 +5,6 @@ var boss__kologarn_8cpp =
     [ "boss_kologarn_eyebeam", "d5/deb/structboss__kologarn__eyebeam.html", "d5/deb/structboss__kologarn__eyebeam" ],
     [ "spell_kologarn_focused_eyebeam", "d6/de9/classspell__kologarn__focused__eyebeam.html", "d6/de9/classspell__kologarn__focused__eyebeam" ],
     [ "boss_kologarn_pit_kill_bunny", "dc/dc4/structboss__kologarn__pit__kill__bunny.html", "dc/dc4/structboss__kologarn__pit__kill__bunny" ],
-    [ "StoneGripTargetSelector", "da/d63/classStoneGripTargetSelector.html", "da/d63/classStoneGripTargetSelector" ],
     [ "spell_ulduar_stone_grip_cast_target", "db/d52/classspell__ulduar__stone__grip__cast__target.html", "db/d52/classspell__ulduar__stone__grip__cast__target" ],
     [ "spell_ulduar_stone_grip_aura", "d6/d30/classspell__ulduar__stone__grip__aura.html", "d6/d30/classspell__ulduar__stone__grip__aura" ],
     [ "spell_ulduar_squeezed_lifeless", "d4/da4/classspell__ulduar__squeezed__lifeless.html", "d4/da4/classspell__ulduar__squeezed__lifeless" ],

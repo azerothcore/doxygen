@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d21/classspell__krystallus__shatter.html#a34337690029eedb60a17572dbbf1e1f9":[7,0,3525,1],
 "da/d21/classspell__krystallus__shatter.html#a5d778f906e1ee820cc97b0b32839cc78":[7,0,3525,0],
 "da/d21/classspell__krystallus__shatter.html#ad554d79e1a98490085b22f5038d058da":[7,0,3525,2],
 "da/d21/structnpc__giant__claw__tentacle.html":[7,0,1827],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a738d314a9ab9a70711cf0f1fdd5033c5":[8,0,0,0,1,2,41,0,0,6,304],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a73faec8e41f7d4d2d84dd85718788c0b":[8,0,0,0,1,2,41,0,0,6,135],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75169ca7c3027ee3dba8ea38041e7b44":[8,0,0,0,1,2,41,0,0,6,152],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a752c8a8288062a6e3a61cf987724134c":[8,0,0,0,1,2,41,0,0,6,293],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a756fd8181ac2e57898857f88d6626c65":[8,0,0,0,1,2,41,0,0,6,124]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a752c8a8288062a6e3a61cf987724134c":[8,0,0,0,1,2,41,0,0,6,293]
 };

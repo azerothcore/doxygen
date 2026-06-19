@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a0fa649360a4e5543838080281e878aae":[8,0,0,0,1,3,5,9,2,16,4,37],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a112c78998c1b0054aed34e97c19ee9cd":[8,0,0,0,1,3,5,9,2,16,4,14],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a11376879b9fac35d2f7e043c766516a8":[8,0,0,0,1,3,5,9,2,16,4,2],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a15b8f0ad566e2ee3517480eb04ceee1b":[8,0,0,0,1,3,5,9,2,16,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#aadcf5849e2a2098e8183aebbc3c16c91":[7,0,2243,13],
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#aba4be715815acca2ace025002750277e":[7,0,2243,3],
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#abb2cbb6e0999fbd0eacba4c414458b8a":[7,0,2243,5],
-"d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac2443db8d15b5ee3597fefdc6389f114":[7,0,2243,1],
-"d9/dfc/structnpc__ulduar__leviathan__mkii.html#afaa3072c296341693ef4803330a13929":[7,0,2243,7]
+"d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac2443db8d15b5ee3597fefdc6389f114":[7,0,2243,1]
 };

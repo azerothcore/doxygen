@@ -1,9 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/d7c/structboss__the__black__stalker.html":[7,0,744],
-"de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[7,0,744,4],
-"de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[7,0,744,2],
-"de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[7,0,744,0],
 "de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[7,0,744,1],
 "de/d7c/structboss__the__black__stalker.html#aede25dbe426ec26ccb0509eca0c9c6af":[7,0,744,3],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[7,0,2080,0],
@@ -19,12 +15,12 @@ var NAVTREEINDEX385 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[7,0,2080,0,6],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[7,0,2080,0,7],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0":[7,0,2080,0,3],
-"de/d7e/classWorldModelStore.html":[7,0,4628],
-"de/d7e/classWorldModelStore.html#a406474470aaa0da5b752817cc5ea81ae":[7,0,4628,3],
-"de/d7e/classWorldModelStore.html#a6cae2913accf21c262dafa01c14b1795":[7,0,4628,2],
-"de/d7e/classWorldModelStore.html#ab258d227875d9aad8f399fae3f57f0ab":[7,0,4628,4],
-"de/d7e/classWorldModelStore.html#ae609ba50932b7bac6ac0c1c7d0800b5d":[7,0,4628,0],
-"de/d7e/classWorldModelStore.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0":[7,0,4628,1],
+"de/d7e/classWorldModelStore.html":[7,0,4627],
+"de/d7e/classWorldModelStore.html#a406474470aaa0da5b752817cc5ea81ae":[7,0,4627,3],
+"de/d7e/classWorldModelStore.html#a6cae2913accf21c262dafa01c14b1795":[7,0,4627,2],
+"de/d7e/classWorldModelStore.html#ab258d227875d9aad8f399fae3f57f0ab":[7,0,4627,4],
+"de/d7e/classWorldModelStore.html#ae609ba50932b7bac6ac0c1c7d0800b5d":[7,0,4627,0],
+"de/d7e/classWorldModelStore.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0":[7,0,4627,1],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html":[7,0,1991],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#a46c4893be723a848d985ff55e28d55a2":[7,0,1991,4],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#a7e4cecb0f4cabf024794045ed20e3563":[7,0,1991,1],
@@ -220,7 +216,7 @@ var NAVTREEINDEX385 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[8,0,0,0,1,3,2,4,5,4,1],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[8,0,0,0,1,3,2,4,5,4,0],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[8,0,0,0,1,3,2,4,5,4,2],
-"de/d87/classWaypointMovementGenerator.html":[7,0,4586],
+"de/d87/classWaypointMovementGenerator.html":[7,0,4585],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,0,8,1],
 "de/d87/structSpawnAssociation.html":[7,0,2597],
 "de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[7,0,2597,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX385 =
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a9b32995b6e324a6c779bbd742de6cce2":[7,0,4074,4],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#aaecea41af42790dfe9aeba3c56480668":[7,0,4074,1],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#ade7bfbc3400fb620956d1e8dff7d4a8a":[7,0,4074,3],
-"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#ae2aee05482e4854120fc581ecec41f95":[7,0,4074,6]
+"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#ae2aee05482e4854120fc581ecec41f95":[7,0,4074,6],
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html":[7,0,2081,0],
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a1f7784242bbaf39d0fb105d2930da37c":[7,0,2081,0,1],
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a2d78117a6c2a29f52f1905595425964a":[7,0,2081,0,2],
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a68f48d92cc5559025e635d599c2882e3":[7,0,2081,0,4]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX411 =
 {
-"df/d9e/classspell__ice__bombardment__dest__picker.html#ab3f6d24643b75482d5f96779a5bdda11":[7,0,3252,1],
-"df/d9e/classspell__ice__bombardment__dest__picker.html#ace1bb0dd5a76aa75038060af16b2e09f":[7,0,3252,0],
-"df/d9e/structMMAP_1_1MeshData.html":[5,0,20,4],
-"df/d9e/structMMAP_1_1MeshData.html":[7,0,6,4],
 "df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[7,0,6,4,2],
 "df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[5,0,20,4,2],
 "df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[7,0,6,4,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX411 =
 "df/da7/classBattleground.html#a310a0625cb06a40a582b2c271b60052b":[7,0,328,119],
 "df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35":[7,0,328,48],
 "df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[7,0,328,227],
-"df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[7,0,328,46]
+"df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[7,0,328,46],
+"df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[7,0,328,199],
+"df/da7/classBattleground.html#a34b10848a91db884b565b5b2f8e5085c":[7,0,328,67],
+"df/da7/classBattleground.html#a34d52aafcdab65e6ff55925f88e3367c":[7,0,328,139],
+"df/da7/classBattleground.html#a3841ee3e6ac8caec32e7b4dbfb344f9b":[7,0,328,246]
 };

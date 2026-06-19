@@ -1,9 +1,5 @@
 var NAVTREEINDEX315 =
 {
-"dc/d0d/cs__disable_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[8,0,0,0,1,3,0,14,1],
-"dc/d0d/structboss__kurinnaxx.html":[7,0,601],
-"dc/d0d/structboss__kurinnaxx.html#a0e249007d5bf29eb0cff307045ef9eb3":[7,0,601,1],
-"dc/d0d/structboss__kurinnaxx.html#a451cd7ee80b0428a199c33012562bdb3":[7,0,601,3],
 "dc/d0d/structboss__kurinnaxx.html#aa8b471e6239080b2a5f70e50e07a9621":[7,0,601,0],
 "dc/d0d/structboss__kurinnaxx.html#adb749c8737888a099ad7a3d58292a612":[7,0,601,2],
 "dc/d0e/structRealmBuildInfo.html":[7,0,2500],
@@ -216,12 +212,12 @@ var NAVTREEINDEX315 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[7,0,3885,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[7,0,3885,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3885,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
@@ -249,5 +245,9 @@ var NAVTREEINDEX315 =
 "dc/d21/structResultIterator.html#a56f56c284c3001703ec4ee6ac705066f":[7,0,2521,6],
 "dc/d21/structResultIterator.html#aa4866b181d8cd3264394657a2dac99a8":[7,0,2521,4],
 "dc/d21/structResultIterator.html#aa5abd2b7fa1dc64ac1eb085521b27d6f":[7,0,2521,0],
-"dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[7,0,2521,1]
+"dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[7,0,2521,1],
+"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2521,8],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[5,0,34,7,2],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[7,0,13,7,2],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a246b4ab5e9567b99ba83b2a3c9b6c039":[5,0,34,7,2,0]
 };

@@ -2,7 +2,7 @@ var searchData=
 [
   ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
   ['wailing_5fcaverns_2eh_1',['wailing_caverns.h',['../d2/d7a/wailing__caverns_8h.html',1,'']]],
-  ['wait_2',['wait',['../db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()'],['../d3/db8/classMapUpdater.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()'],['../d5/d87/classNetworkThread.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()'],['../df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()']]],
+  ['wait_2',['wait',['../d5/d87/classNetworkThread.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()'],['../df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()'],['../db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()'],['../d3/db8/classMapUpdater.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()']]],
   ['waitandpop_3',['WaitAndPop',['../d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d',1,'ProducerConsumerQueue']]],
   ['waitcompletion_4',['WaitCompletion',['../dd/d2d/classMMAP_1_1TileBuilder.html#ae386f742fed7d2b66bcf3750abf91daf',1,'MMAP::TileBuilder']]],
   ['waitingforquery_5',['WaitingForQuery',['../d2/d1b/classWorldSocket.html#ad5dcc9838c8b9fd34f353257a748fae0af28ecd378889a2174faeba541d1634e4',1,'WorldSocket']]],

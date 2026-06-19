@@ -5006,7 +5006,6 @@ var annotated_dup =
     [ "StartMovementEvent", "d2/d73/classStartMovementEvent.html", "d2/d73/classStartMovementEvent" ],
     [ "StaticTransport", "d8/d57/classStaticTransport.html", "d8/d57/classStaticTransport" ],
     [ "StaticVMapCollisionData", "d1/dd0/classStaticVMapCollisionData.html", "d1/dd0/classStaticVMapCollisionData" ],
-    [ "StoneGripTargetSelector", "da/d63/classStoneGripTargetSelector.html", "da/d63/classStoneGripTargetSelector" ],
     [ "StoredLootItem", "dc/d56/structStoredLootItem.html", "dc/d56/structStoredLootItem" ],
     [ "StringCompareLessI_T", "d1/d28/structStringCompareLessI__T.html", "d1/d28/structStringCompareLessI__T" ],
     [ "StringTransaction", "da/d95/classStringTransaction.html", "da/d95/classStringTransaction" ],

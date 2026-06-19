@@ -1,9 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[7,0,1984,4],
-"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[7,0,1984,0],
-"de/d74/Group_8cpp.html":[8,0,0,0,1,2,20,0],
-"de/d74/Group_8cpp.html#a499748359465da566bbe2a1e833d9b93":[8,0,0,0,1,2,20,0,1],
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[8,0,0,0,1,2,20,0,0],
 "de/d75/classDelayedSummonEvent.html":[7,0,998],
 "de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[7,0,998,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX384 =
 "de/d7c/classspell__q13369__fate__up__against__your__will.html":[7,0,3917],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#aa1013bb1b09aae7b691b6325c8e7a405":[7,0,3917,1],
 "de/d7c/classspell__q13369__fate__up__against__your__will.html#aa490168c69f9ba5c12db3171516dd8ac":[7,0,3917,2],
-"de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[7,0,3917,0]
+"de/d7c/classspell__q13369__fate__up__against__your__will.html#acaae3858de4d56028e3cb4581a57450c":[7,0,3917,0],
+"de/d7c/structboss__the__black__stalker.html":[7,0,744],
+"de/d7c/structboss__the__black__stalker.html#a441d3a7e3d9b98703f5870c4ddb4b88c":[7,0,744,4],
+"de/d7c/structboss__the__black__stalker.html#a9e0299a99df83abb7de476a765b667b9":[7,0,744,2],
+"de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[7,0,744,0]
 };

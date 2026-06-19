@@ -1,9 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/d41/classSocketMgr.html#ac1afac1d7f3e5092e9fe4425412186fc":[7,0,2594,3],
-"df/d41/classSocketMgr.html#ac712a459d409da9e8f21603da8aa0305":[7,0,2594,2],
-"df/d41/classSocketMgr.html#acc5fbaea6228d5d5122e22472c79476e":[7,0,2594,4],
-"df/d41/classSocketMgr.html#ad0830a83c94a940b254b71b4c7c979c2":[7,0,2594,5],
 "df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea":[7,0,2594,10],
 "df/d41/instance__black__temple_8cpp.html":[8,0,0,0,1,3,7,1,10],
 "df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[8,0,0,0,1,3,7,1,10,15],
@@ -238,9 +234,9 @@ var NAVTREEINDEX404 =
 "df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[7,0,1503,10],
 "df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[7,0,1503,7],
 "df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[7,0,1503,1],
-"df/d53/classThreatReferenceImpl.html":[7,0,4487],
-"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4487,1],
-"df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4487,0],
+"df/d53/classThreatReferenceImpl.html":[7,0,4486],
+"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4486,1],
+"df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4486,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html":[5,0,0,7,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a0803de4bbc9edad4f5bb2afc3c242dca":[5,0,0,7,0,10],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a321da5d63921d41c561a1460929ac730":[5,0,0,7,0,12],
@@ -249,5 +245,9 @@ var NAVTREEINDEX404 =
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a7083d48423b83ff39095030678b29877":[5,0,0,7,0,14],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a9990339040b491e108594df755f03a6c":[5,0,0,7,0,17],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[5,0,0,7,0,18],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0ca4a111a856da9091a377934f8de93":[5,0,0,7,0,16]
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0ca4a111a856da9091a377934f8de93":[5,0,0,7,0,16],
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa8156f2996632fd42a2e39b974426995":[5,0,0,7,0,11],
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aae3a6cd0fbf426755d93a387882ff767":[5,0,0,7,0,15],
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[5,0,0,7,0,21],
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#ae0c637d10c728f04dc2468c15c3f8dca":[5,0,0,7,0,20]
 };

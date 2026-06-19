@@ -1,9 +1,5 @@
 var NAVTREEINDEX283 =
 {
-"da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54":[8,0,0,0,1,3,2,15,7,25],
-"da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54a839376442f458aa1856c3de7f11189f9":[8,0,0,0,1,3,2,15,7,25,2],
-"da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54af14927ff0b5214c0bab266fe81164460":[8,0,0,0,1,3,2,15,7,25,0],
-"da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54afaa7b1f647f837550f57234b791c9b6d":[8,0,0,0,1,3,2,15,7,25,1],
 "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458":[8,0,0,0,1,3,2,15,7,15],
 "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,15,7,15,4],
 "da/dea/zulaman_8cpp.html#abb96a8bb67af2ef4996e9edd6ce21458a2de54d34271fcadd2d72ee13d7e0ce48":[8,0,0,0,1,3,2,15,7,15,0],
@@ -230,8 +226,8 @@ var NAVTREEINDEX283 =
 "da/df5/AllBattlegroundScript_8h.html#ae9cb670a445a9cb3089a66cdcc822d0e":[8,0,0,0,1,2,38,0,9,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html":[5,0,0,46],
 "da/df5/classAcore_1_1AsyncProcessResult.html":[7,0,0,34],
-"da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,0,46,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[7,0,0,34,0],
+"da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,0,46,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,0,46,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[7,0,0,34,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[7,0,0,34,2],
@@ -240,8 +236,8 @@ var NAVTREEINDEX283 =
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[7,0,13,12,8,0],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[7,0,4309],
 "da/df6/classspell__warr__mocking__blow.html#a94893e6dd048f0028540e5ce15ed7b1d":[7,0,4309,0],
 "da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[7,0,4309,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX283 =
 "da/df7/TradeData_8cpp.html":[8,0,0,0,1,2,16,7,19],
 "da/df7/classspell__dk__glyph__of__scourge__strike__script.html":[7,0,2800],
 "da/df7/classspell__dk__glyph__of__scourge__strike__script.html#a5019887a078af86682eea3974bacf6dc":[7,0,2800,2],
-"da/df7/classspell__dk__glyph__of__scourge__strike__script.html#a653061d36c204fbd0d2dc1f983864bf1":[7,0,2800,1]
+"da/df7/classspell__dk__glyph__of__scourge__strike__script.html#a653061d36c204fbd0d2dc1f983864bf1":[7,0,2800,1],
+"da/df7/classspell__dk__glyph__of__scourge__strike__script.html#ad9863535a38094779e765fe65450ce55":[7,0,2800,0],
+"da/df8/TicketMgr_8cpp.html":[8,0,0,0,1,2,43,0],
+"da/df8/TicketMgr_8cpp.html#a347e0449afd73dbcc6c084dbe72af6c8":[8,0,0,0,1,2,43,0,0],
+"da/df8/classspell__putricide__mutated__transformation__dmg.html":[7,0,3813]
 };

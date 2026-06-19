@@ -1,9 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"dd/da3/structSpellProcEntry.html#a7cc9dfa91e034f5052ebd3bf8eaea42a":[7,0,4412,0],
-"dd/da3/structSpellProcEntry.html#a8688e9282cb78d4f24b310cc2521c22b":[7,0,4412,9],
-"dd/da3/structSpellProcEntry.html#a8ac3331576b4eb761157fa3d0d622bea":[7,0,4412,5],
-"dd/da3/structSpellProcEntry.html#a99e20d3979a532e1ca90ee83edcff3eb":[7,0,4412,12],
 "dd/da3/structSpellProcEntry.html#a9e5de790c4f61537397a1ce2bce8a9b0":[7,0,4412,6],
 "dd/da3/structSpellProcEntry.html#ab4c4bfa1493a7a5924d3cd094127f973":[7,0,4412,11],
 "dd/da3/structSpellProcEntry.html#acf72c4a783235770bbff952bdc002324":[7,0,4412,8],
@@ -29,10 +25,10 @@ var NAVTREEINDEX350 =
 "dd/da5/TestCreature_8h.html":[8,0,0,0,2,1,7],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html":[7,0,13,14,12],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html":[5,0,34,14,12],
-"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[7,0,13,14,12,0],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[5,0,34,14,12,0],
-"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[7,0,13,14,12,1],
+"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[7,0,13,14,12,0],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[5,0,34,14,12,1],
+"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[7,0,13,14,12,1],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html":[7,0,4159],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a637ba0717ae0f6f736f5532ed65ca301":[7,0,4159,0],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a744c4aa76387be4aa76a69fbcaa7932e":[7,0,4159,3],
@@ -53,10 +49,10 @@ var NAVTREEINDEX350 =
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html":[5,0,0,128],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[7,0,0,116,3],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[5,0,0,128,3],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[7,0,0,116,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,0,128,5],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[7,0,0,116,4],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[7,0,0,116,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[5,0,0,128,4],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[7,0,0,116,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[7,0,0,116,0],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[5,0,0,128,0],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[7,0,0,116,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX350 =
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5ad1f3af0a14c45e1272c032c3788baf9e":[8,0,0,0,1,3,5,4,2,5,11,5],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5adad060cb04f62e94f70c8f328a892ce4":[8,0,0,0,1,3,5,4,2,5,11,11],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5aef6f419526930f9b795d415780af908f":[8,0,0,0,1,3,5,4,2,5,11,7],
-"dd/dac/pit__of__saron_8h.html#aa4af8b626b7e8849a7a6d82d531909de":[8,0,0,0,1,3,5,4,2,5,33]
+"dd/dac/pit__of__saron_8h.html#aa4af8b626b7e8849a7a6d82d531909de":[8,0,0,0,1,3,5,4,2,5,33],
+"dd/dac/pit__of__saron_8h.html#aa63746b129e86d39a3f0010671af9e35":[8,0,0,0,1,3,5,4,2,5,35],
+"dd/dac/pit__of__saron_8h.html#aa8facc4fa02b031be7121767e65080b1":[8,0,0,0,1,3,5,4,2,5,34],
+"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3fa":[8,0,0,0,1,3,5,4,2,5,8],
+"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3faa2e0bb89777a30e2cd2dcd394174cf13a":[8,0,0,0,1,3,5,4,2,5,8,0]
 };

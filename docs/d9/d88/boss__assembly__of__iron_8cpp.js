@@ -84,6 +84,7 @@ var boss__assembly__of__iron_8cpp =
     ] ],
     [ "AddSC_boss_assembly_of_iron", "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32", null ],
     [ "CountAliveBosses", "d9/d88/boss__assembly__of__iron_8cpp.html#a89736e77b2eea60ae64a7400ebd31893", null ],
+    [ "IsAnyAssemblyMemberEngaged", "d9/d88/boss__assembly__of__iron_8cpp.html#ae98a3422967f57a06fda6c9b72567ad4", null ],
     [ "IsEncounterComplete", "d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee", null ],
     [ "RespawnAssemblyOfIron", "d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22", null ],
     [ "RestoreAssemblyHealth", "d9/d88/boss__assembly__of__iron_8cpp.html#a2afb8a2c08b65be84a9ffeca28a7044a", null ]

@@ -1,9 +1,5 @@
 var NAVTREEINDEX405 =
 {
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa8156f2996632fd42a2e39b974426995":[5,0,0,7,0,11],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aae3a6cd0fbf426755d93a387882ff767":[5,0,0,7,0,15],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[5,0,0,7,0,21],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#ae0c637d10c728f04dc2468c15c3f8dca":[5,0,0,7,0,20],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#afc9dbd840048c0031231bcdb7b2fcf04":[5,0,0,7,0,13],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html":[7,0,1644,0],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a23c200f2c7b9f5d02bed7af37bc69c33":[7,0,1644,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX405 =
 "df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[7,0,3686,3],
 "df/d65/classspell__ooze__zap.html#a5b0a5f957a7b996cbe6b219a9803069e":[7,0,3686,2],
 "df/d65/classspell__ooze__zap.html#a6d2c75ad53f0e0f7be2df037f385d686":[7,0,3686,1],
-"df/d65/classspell__ooze__zap.html#ab3f8d94f3b8d44e668743cb821430a92":[7,0,3686,4]
+"df/d65/classspell__ooze__zap.html#ab3f8d94f3b8d44e668743cb821430a92":[7,0,3686,4],
+"df/d65/classspell__ooze__zap.html#ae2b5e9accd0df2cc99e976eaab2d3f35":[7,0,3686,0],
+"df/d65/instance__steam__vault_8cpp.html":[8,0,0,0,1,3,7,2,2,3],
+"df/d65/instance__steam__vault_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,2,3,5],
+"df/d65/instance__steam__vault_8cpp.html#a59ddfa91084111da23b5d47482e4ff8d":[8,0,0,0,1,3,7,2,2,3,7]
 };

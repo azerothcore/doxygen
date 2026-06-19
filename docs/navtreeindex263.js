@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a756fd8181ac2e57898857f88d6626c65":[8,0,0,0,1,2,41,0,0,6,124],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75f3201ba5d36530f37a58c34d89d604":[8,0,0,0,1,2,41,0,0,6,283],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7758d81a4b1d1914bbc46b904e67c1f6":[8,0,0,0,1,2,41,0,0,6,286],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a779f080d1d23d2cbf0ea5fea6ce157b5":[8,0,0,0,1,2,41,0,0,6,245],
@@ -188,10 +189,10 @@ var NAVTREEINDEX263 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[8,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[8,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[8,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[7,0,4521],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4521,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4521,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4521,0],
+"da/d2d/structTSPosition.html":[7,0,4520],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4520,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4520,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4520,0],
 "da/d2e/classnpc__varian__wrynn.html":[7,0,2262],
 "da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[7,0,2262,1],
 "da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[7,0,2262,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/d32/classspell__sindragosa__instability__aura.html":[7,0,4091],
 "da/d32/classspell__sindragosa__instability__aura.html#a1b7ef2c14db8543a9128aa335548fa00":[7,0,4091,3],
 "da/d32/classspell__sindragosa__instability__aura.html#a49ba4ed8ac0ee006c74a71e6779c1a3b":[7,0,4091,1],
-"da/d32/classspell__sindragosa__instability__aura.html#a6e9c95b06f3ec9dc0739beaabc016d5f":[7,0,4091,2],
-"da/d32/classspell__sindragosa__instability__aura.html#aa096174465120bde1994c85f72682be1":[7,0,4091,0]
+"da/d32/classspell__sindragosa__instability__aura.html#a6e9c95b06f3ec9dc0739beaabc016d5f":[7,0,4091,2]
 };

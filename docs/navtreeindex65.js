@@ -246,8 +246,8 @@ var NAVTREEINDEX65 =
 "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html":[7,0,2001,0],
 "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html#a494976030dd48544742dd14fc09ffdbd":[7,0,2001,0,0],
 "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html#abe3813465cad08800708726cb7ffa021":[7,0,2001,0,1],
-"d2/d66/classVehicleCheck.html":[7,0,4556],
-"d2/d66/classVehicleCheck.html#a96cb69a084bcdb638942c14fe31adef0":[7,0,4556,0],
+"d2/d66/classVehicleCheck.html":[7,0,4555],
+"d2/d66/classVehicleCheck.html#a96cb69a084bcdb638942c14fe31adef0":[7,0,4555,0],
 "d2/d66/pet__generic_8cpp.html":[8,0,0,0,1,3,8,1],
 "d2/d66/pet__generic_8cpp.html#a0c62231deec62afa90de133fc889cf1d":[8,0,0,0,1,3,8,1,19]
 };

@@ -1,15 +1,11 @@
 var NAVTREEINDEX280 =
 {
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[7,0,0,37,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,49,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[7,0,0,37,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,49,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,49,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[7,0,0,37,5],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[7,0,0,37,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,49,2],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[7,0,0,37,0],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[7,0,0,37,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,49,0],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[7,0,0,37,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[7,0,0,37,4],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,49,4],
 "da/dd3/RaceMgr_8cpp.html":[8,0,0,0,1,2,16,7,15],
@@ -40,8 +36,8 @@ var NAVTREEINDEX280 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[7,0,5,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[7,0,5,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,17,8,3],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[7,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,17,8,1],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[7,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[7,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,17,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[7,0,5,8,4],
@@ -232,8 +228,8 @@ var NAVTREEINDEX280 =
 "da/dde/Hyperlinks_8cpp.html#a1021653ddd2d2e78df34d8c4a2a7ed93":[8,0,0,0,1,2,11,4,11],
 "da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9":[8,0,0,0,1,2,11,4,12],
 "da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af":[8,0,0,0,1,2,11,4,9],
-"da/dde/structAcore_1_1Impl_1_1list__size.html":[7,0,0,5,10],
 "da/dde/structAcore_1_1Impl_1_1list__size.html":[5,0,0,8,10],
+"da/dde/structAcore_1_1Impl_1_1list__size.html":[7,0,0,5,10],
 "da/ddf/classspell__lich__king__vo__blocker.html":[7,0,3539],
 "da/ddf/classspell__lich__king__vo__blocker.html#a7f5a26d10f48d863477ec902e6f5ff1e":[7,0,3539,2],
 "da/ddf/classspell__lich__king__vo__blocker.html#a8d52c4ea09e1d58d2dc44ff73d71faf5":[7,0,3539,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX280 =
 "da/ddf/structboss__warbringer__omrogg.html#add6b54c4744be120b6b5fd53912ce1fd":[7,0,789,4],
 "da/ddf/structboss__warbringer__omrogg.html#ae1710f22f8a72f661498c4fbc6d108a5":[7,0,789,3],
 "da/ddf/structboss__warbringer__omrogg.html#ae657addceb26f4d02d734fa0790a1ae2":[7,0,789,9],
-"da/ddf/structboss__warbringer__omrogg.html#afd20a8bd1f6f083e0725d962ec747e26":[7,0,789,5]
+"da/ddf/structboss__warbringer__omrogg.html#afd20a8bd1f6f083e0725d962ec747e26":[7,0,789,5],
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html":[7,0,2177,0],
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a0ee33ab5733c12163e92213376e893e4":[7,0,2177,0,4],
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a211c370e9c370e00fba3c83e51738886":[7,0,2177,0,0],
+"da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a2c4410cc2ad995452f742f79e8e4af8b":[7,0,2177,0,5]
 };

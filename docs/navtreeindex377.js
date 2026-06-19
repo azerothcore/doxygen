@@ -1,9 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a679d126c8b099282bf161092f9bf1cf2":[8,0,0,0,1,2,41,9,72,21],
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a8444f411aca3ba862f404f51e94c79b5":[8,0,0,0,1,2,41,9,72,20],
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a857fe32978c50fc86fd72c97526cb9bd":[8,0,0,0,1,2,41,9,72,0],
-"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a881abe2c3bf001abaf082d7f87b9c79d":[8,0,0,0,1,2,41,9,72,14],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a9bb0ad493ce3eb1cd0ad1a56857975d8":[8,0,0,0,1,2,41,9,72,8],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620aa087c9c6b23d8341f54b0d5bf29a5519":[8,0,0,0,1,2,41,9,72,6],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620aa22fb9f666c19eb4132e266e0de40d28":[8,0,0,0,1,2,41,9,72,12],
@@ -249,5 +245,9 @@ var NAVTREEINDEX377 =
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[7,0,2933,3],
 "de/d33/classspell__item__darkmoon__card__illusion.html":[7,0,3329],
 "de/d33/classspell__item__darkmoon__card__illusion.html#a13f11ec412f18d805282b3810aff5e90":[7,0,3329,1],
-"de/d33/classspell__item__darkmoon__card__illusion.html#a2863c81b02f0b08430d9e713e7b644f7":[7,0,3329,3]
+"de/d33/classspell__item__darkmoon__card__illusion.html#a2863c81b02f0b08430d9e713e7b644f7":[7,0,3329,3],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a554e2ab9dfd9d157eee13b7a5c33cf2e":[7,0,3329,0],
+"de/d33/classspell__item__darkmoon__card__illusion.html#ac9a6a96da8387d3c51fece7f0a968779":[7,0,3329,2],
+"de/d33/structboss__bronjahm.html":[7,0,420],
+"de/d33/structboss__bronjahm.html#a313bd4510e18ecb529b6358d28a3dc3f":[7,0,420,8]
 };

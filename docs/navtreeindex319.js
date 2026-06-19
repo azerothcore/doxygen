@@ -1,16 +1,12 @@
 var NAVTREEINDEX319 =
 {
-"dc/d33/structPendingSpellCastRequest.html#a726b6e423b23f8c12c65e07809462ad1":[7,0,2382,1],
-"dc/d33/structPendingSpellCastRequest.html#a9e50a954b3da1f3b39894f1d3d7a932f":[7,0,2382,3],
-"dc/d33/structPendingSpellCastRequest.html#aa09e9b9fcaec6d10dff4916bec15ab04":[7,0,2382,0],
-"dc/d33/structTaxiNodesEntry.html":[7,0,4471],
-"dc/d33/structTaxiNodesEntry.html#a090069d13cbbcc5762ecca600c506492":[7,0,4471,0],
-"dc/d33/structTaxiNodesEntry.html#a2e6ce98f7c96ba1469fca8ff3946404a":[7,0,4471,6],
-"dc/d33/structTaxiNodesEntry.html#a685931e2a361f9e0fc81c004c7467d19":[7,0,4471,1],
-"dc/d33/structTaxiNodesEntry.html#a7cbd40848094fa367862d653b0f7170d":[7,0,4471,4],
-"dc/d33/structTaxiNodesEntry.html#a9380befd45cab3104003b2487464bd71":[7,0,4471,5],
-"dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[7,0,4471,2],
-"dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[7,0,4471,3],
+"dc/d33/structTaxiNodesEntry.html#a090069d13cbbcc5762ecca600c506492":[7,0,4470,0],
+"dc/d33/structTaxiNodesEntry.html#a2e6ce98f7c96ba1469fca8ff3946404a":[7,0,4470,6],
+"dc/d33/structTaxiNodesEntry.html#a685931e2a361f9e0fc81c004c7467d19":[7,0,4470,1],
+"dc/d33/structTaxiNodesEntry.html#a7cbd40848094fa367862d653b0f7170d":[7,0,4470,4],
+"dc/d33/structTaxiNodesEntry.html#a9380befd45cab3104003b2487464bd71":[7,0,4470,5],
+"dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[7,0,4470,2],
+"dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[7,0,4470,3],
 "dc/d34/boss__rage__winterchill_8cpp.html":[8,0,0,0,1,3,4,1,0,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,1,0,4,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[8,0,0,0,1,3,4,1,0,4,1,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX319 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a42fcb6a92d4ebf078209af2acaa005e9":[5,0,28,6,611],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a43c67396e4a2e770c1502aeb71d4384d":[5,0,28,6,448],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a445d5b251c537fe9404c029b03694e5d":[5,0,28,6,493],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a446c407b5afcd3b220b198d64fb761ba":[5,0,28,6,436]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a446c407b5afcd3b220b198d64fb761ba":[5,0,28,6,436],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a447a7bd40c7772bcfb8fd3d26a2caecd":[5,0,28,6,341],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4540f7acba2f962dd653dc0f886487c7":[5,0,28,6,34],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a454bfb50e2975c45e81a6df6cea15a21":[5,0,28,6,256],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a45cc7fe8a567c195a816ad13bb9a19e6":[5,0,28,6,312]
 };

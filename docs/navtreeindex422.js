@@ -1,9 +1,5 @@
 var NAVTREEINDEX422 =
 {
-"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[7,0,3654,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[7,0,2105,0],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[7,0,2105,0,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[7,0,2105,0,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[7,0,2105,0,3],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ab061ea54c2b36f6f1c2ec7841202e684":[7,0,2105,0,4],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ae96994e7c02a1fb8df8ef9fe80d7bc41":[7,0,2105,0,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX422 =
 "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[7,0,1284,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[7,0,1284,8],
 "df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[7,0,1284,7],
-"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[7,0,1284,9]
+"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[7,0,1284,9],
+"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[7,0,1284,1],
+"df/df6/structHealthCheckEventData.html#aae2283a58be68424fbe01c37a29e1c5e":[7,0,1284,4],
+"df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389":[7,0,1284,2],
+"df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5":[7,0,1284,6]
 };

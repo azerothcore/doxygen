@@ -4659,7 +4659,6 @@ var hierarchy =
     [ "SpellImplicitTargetInfo::StaticData", "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html", null ],
     [ "VMAP::StaticMapTree", "d9/d67/classVMAP_1_1StaticMapTree.html", null ],
     [ "StaticVMapCollisionData", "d1/dd0/classStaticVMapCollisionData.html", null ],
-    [ "StoneGripTargetSelector", "da/d63/classStoneGripTargetSelector.html", null ],
     [ "StoredLootItem", "dc/d56/structStoredLootItem.html", null ],
     [ "IoContextBaseNamespace::IoContextBase::strand", null, [
       [ "Acore::Asio::Strand", "dd/d27/classAcore_1_1Asio_1_1Strand.html", null ]

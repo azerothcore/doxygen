@@ -1,9 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"de/db2/classspell__black__template__free__friend.html#a0810dd4ad4d324c1a53e192fc99d1d35":[7,0,2664,0],
-"de/db2/classspell__black__template__free__friend.html#a0ece61d7bed3e19ee6f6175a55c0733d":[7,0,2664,1],
-"de/db2/classspell__black__template__free__friend.html#a827cefe322562f0e8ea7cfa58b9a776b":[7,0,2664,2],
-"de/db2/classspell__pvp__trinket__wotf__shared__cd.html":[7,0,3826],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a0b32bf9d565d7d6f606150f70fc244a0":[7,0,3826,3],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a1aee8ca0cc33f949371fa5cbb4745ccd":[7,0,3826,4],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a2376d12f379f75f5decfdc133c18403e":[7,0,3826,0],
@@ -117,8 +113,8 @@ var NAVTREEINDEX392 =
 "de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[7,0,889,0],
 "de/dbb/classChatLogScript.html#ae7ca6f582695b3aabfd7255beb3e8d07":[7,0,889,2],
 "de/dbb/classChatLogScript.html#af891f7acb0a562c394db0a1763cc6ccd":[7,0,889,4],
-"de/dbb/classWretchedGhoulCleaner.html":[7,0,4643],
-"de/dbb/classWretchedGhoulCleaner.html#a8176fb574f0eac852ed3528dcadac288":[7,0,4643,0],
+"de/dbb/classWretchedGhoulCleaner.html":[7,0,4642],
+"de/dbb/classWretchedGhoulCleaner.html#a8176fb574f0eac852ed3528dcadac288":[7,0,4642,0],
 "de/dbb/classspell__freezing__circle.html":[7,0,2949],
 "de/dbb/classspell__freezing__circle.html#a627bffccdd78c00f0f5a4241f36aeec8":[7,0,2949,2],
 "de/dbb/classspell__freezing__circle.html#a9c9bbe49388cf5d04650572fdf789e5e":[7,0,2949,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX392 =
 "de/dc1/classadt__MCNK.html#a7764a99baa64a9e432c9d672b4c48560":[7,0,140,0],
 "de/dc1/classadt__MCNK.html#a7f36738143813398990bc9b5a2d81bd6":[7,0,140,9],
 "de/dc1/classadt__MCNK.html#a933060fe956f62ed450639d53793ba9c":[7,0,140,4],
-"de/dc1/classadt__MCNK.html#a96f300a2eec32665f371d98da59450cd":[7,0,140,8]
+"de/dc1/classadt__MCNK.html#a96f300a2eec32665f371d98da59450cd":[7,0,140,8],
+"de/dc1/classadt__MCNK.html#a9ccf5d31fb5474104fa579954a4aa35c":[7,0,140,28],
+"de/dc1/classadt__MCNK.html#aa263bf7d7e0b8be16761a20fc7aff92c":[7,0,140,7],
+"de/dc1/classadt__MCNK.html#aa842f25b9fbbea3fde01552f1c680031":[7,0,140,27],
+"de/dc1/classadt__MCNK.html#ac1ba53cb0c26f5d051e46339b2085be9":[7,0,140,6]
 };

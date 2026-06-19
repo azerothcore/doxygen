@@ -1,9 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,1,1,2,30,1],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc65d63f8314014fe67d0ed998bf552e":[8,0,0,0,1,3,5,1,1,2,30,19],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8":[8,0,0,0,1,3,5,1,1,2,30,20],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c":[8,0,0,0,1,3,5,1,1,2,30,9],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe3f4e5024f3adf2886f39c3c72e465e":[8,0,0,0,1,3,5,1,1,2,30,3],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html":[7,0,105],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[7,0,105,1],
@@ -52,18 +48,18 @@ var NAVTREEINDEX356 =
 "dd/dd6/structboss__falric.html#aaf36f9748993381c39b6b26bdfa33dca":[7,0,474,8],
 "dd/dd6/structboss__falric.html#ad157b74477a84d13ab1a5bd5d9275d17":[7,0,474,0],
 "dd/dd6/structboss__falric.html#addda2f3fe13801f533069c8e5b83cdbd":[7,0,474,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,34,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[7,0,13,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,34,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[7,0,13,6,6,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[7,0,13,6,6,4],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[7,0,13,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[7,0,13,6,6,3],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,34,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[7,0,13,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[7,0,13,6,6,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX356 =
 "dd/de2/classboss__kelthuzad.html#acf19b29d6c1eb0052baa7ff491f6a050":[7,0,584,2],
 "dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html":[7,0,3926],
 "dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html#a262bb06ac1d6a55e886d1226ad7bb583":[7,0,3926,2],
-"dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html#a6340c91d8419755386cb3e138cb3c171":[7,0,3926,0]
+"dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html#a6340c91d8419755386cb3e138cb3c171":[7,0,3926,0],
+"dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html#a67d08252c8b8deee312f17affb557df8":[7,0,3926,1],
+"dd/de2/classspell__summon__toxin__slime.html":[7,0,4115],
+"dd/de2/classspell__summon__toxin__slime.html#a65818c4421ea83869d36a116d1bc6d2c":[7,0,4115,0],
+"dd/de2/classspell__summon__toxin__slime.html#a752d697aada626440fdff2bd889f890f":[7,0,4115,2]
 };
