@@ -1,5 +1,7 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a795689a4c106048deaa65c75600cfbec":[8,0,0,0,1,3,5,6,11,36,11],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7c0e1852fcd144d0d92508fa578622ec":[8,0,0,0,1,3,5,6,11,36,17],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a940b14f0f905e53023d00376c939ff5d":[8,0,0,0,1,3,5,6,11,36,10],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,6,11,36,1],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d69a5e6edd359d09d40f129a7841881":[8,0,0,0,1,3,5,6,11,36,0],
@@ -19,13 +21,13 @@ var NAVTREEINDEX171 =
 "d6/d1a/classOutdoorPvPEP.html#ac6a61c19ba96ca843eb12952d0c09078":[7,0,2354,1],
 "d6/d1a/classOutdoorPvPEP.html#acecc8126180c027cb3d685231e55d873":[7,0,2354,7],
 "d6/d1a/classOutdoorPvPEP.html#afad47628bb4cfcc6060ce35396e33d9d":[7,0,2354,5],
-"d6/d1a/structTimeTrackerSmall.html":[7,0,4492],
-"d6/d1a/structTimeTrackerSmall.html#a2ebcfabed1bf252b6afb6c3182142c7b":[7,0,4492,1],
-"d6/d1a/structTimeTrackerSmall.html#a332f650bcfc81fb4b0de1b58ff1e0c9b":[7,0,4492,5],
-"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[7,0,4492,0],
-"d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[7,0,4492,4],
-"d6/d1a/structTimeTrackerSmall.html#ab8a3c45ffe0e83132e708b5e87625c02":[7,0,4492,3],
-"d6/d1a/structTimeTrackerSmall.html#af4455d0ebb784497e9fd1a08cc915062":[7,0,4492,2],
+"d6/d1a/structTimeTrackerSmall.html":[7,0,4493],
+"d6/d1a/structTimeTrackerSmall.html#a2ebcfabed1bf252b6afb6c3182142c7b":[7,0,4493,1],
+"d6/d1a/structTimeTrackerSmall.html#a332f650bcfc81fb4b0de1b58ff1e0c9b":[7,0,4493,5],
+"d6/d1a/structTimeTrackerSmall.html#a38a962c928eac8546d1fd37a094077cc":[7,0,4493,0],
+"d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[7,0,4493,4],
+"d6/d1a/structTimeTrackerSmall.html#ab8a3c45ffe0e83132e708b5e87625c02":[7,0,4493,3],
+"d6/d1a/structTimeTrackerSmall.html#af4455d0ebb784497e9fd1a08cc915062":[7,0,4493,2],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html":[7,0,1889,0],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a2e49dc8924da5d5537c33f7306287963":[7,0,1889,0,5],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a3249114a5b208109ec2c2a23533ede82":[7,0,1889,0,7],
@@ -246,8 +248,6 @@ var NAVTREEINDEX171 =
 "d6/d23/structHolidayRule.html#a55e1cf64111db7eeeec72c594b76c56d":[7,0,1290,2],
 "d6/d23/structHolidayRule.html#aaa9bf14668239ea561aecc33104e245a":[7,0,1290,3],
 "d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[7,0,1290,5],
-"d6/d23/structSpellValue.html":[7,0,4435],
-"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4435,7],
-"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4435,4],
-"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4435,0]
+"d6/d23/structSpellValue.html":[7,0,4436],
+"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4436,7]
 };

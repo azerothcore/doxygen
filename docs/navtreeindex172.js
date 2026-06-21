@@ -1,10 +1,12 @@
 var NAVTREEINDEX172 =
 {
-"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4435,3],
-"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4435,5],
-"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4435,1],
-"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4435,6],
-"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4435,2],
+"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4436,4],
+"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4436,0],
+"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4436,3],
+"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4436,5],
+"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4436,1],
+"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4436,6],
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4436,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2194,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2194,0,3],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2194,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f":[8,0,0,0,1,2,38,0,1,1,9],
 "d6/d2b/classspell__gen__break__shield.html":[7,0,2994],
 "d6/d2b/classspell__gen__break__shield.html#a45151bb2eacdd642e8f11564d4ef0d65":[7,0,2994,1],
-"d6/d2b/classspell__gen__break__shield.html#a884d0f5f8bf0f3515b4fedd54dd20ebf":[7,0,2994,0],
-"d6/d2b/classspell__gen__break__shield.html#ae01695fd336fca36a7d2569ca741fba5":[7,0,2994,2],
-"d6/d2b/classspell__icc__yf__frozen__orb__aura.html":[7,0,3250]
+"d6/d2b/classspell__gen__break__shield.html#a884d0f5f8bf0f3515b4fedd54dd20ebf":[7,0,2994,0]
 };

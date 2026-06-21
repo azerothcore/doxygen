@@ -1,5 +1,7 @@
 var NAVTREEINDEX219 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0bce26e34871a7286a8ae98612e30af1":[8,0,0,0,1,3,2,12,0,7,1],
+"d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a16d567c58cbc0c7f3f9c0212b708c076":[8,0,0,0,1,3,2,12,0,7,5],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,2,12,0,7,4],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa7db7bc5a06f37175c7a56bde51ba4d6":[8,0,0,0,1,3,2,12,0,7,0],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac98fdfb490fa896cecb40ae427f4ea75":[8,0,0,0,1,3,2,12,0,7,3],
@@ -82,14 +84,14 @@ var NAVTREEINDEX219 =
 "d8/d12/classCharacterActionIpLogger.html#a48844efac9d9af9c6415ad49d2473688":[7,0,869,2],
 "d8/d12/classCharacterActionIpLogger.html#a753ed387ea50eaf4c56846eab33cdfc0":[7,0,869,3],
 "d8/d12/classCharacterActionIpLogger.html#abf461fe7e7d89057aeb122abbd27e30e":[7,0,869,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[7,0,13,23],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[5,0,34,23],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[7,0,13,23,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html":[7,0,13,23],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,34,23,0],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[7,0,13,23,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[7,0,13,23,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,23,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,23,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
 "d8/d12/structboss__ayamiss.html":[7,0,405],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[7,0,405,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[7,0,405,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbf":[8,0,0,0,1,3,10,12,7],
 "d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfa3e7d58b341506740c01e247fe2f3fe0d":[8,0,0,0,1,3,10,12,7,3],
 "d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfa8ae3b308890d902a9c7db62540520ba6":[8,0,0,0,1,3,10,12,7,0],
-"d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfa9d12cf1b81059050270fd473edeab425":[8,0,0,0,1,3,10,12,7,2],
-"d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfa9eabff8d7fd130db58270e691cc4cbca":[8,0,0,0,1,3,10,12,7,4],
-"d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfabc571d9e12db1f81f6fce3828bd594ee":[8,0,0,0,1,3,10,12,7,1]
+"d8/d19/npc__stave__of__ancients_8h.html#a3260a3bf5ff50739c8872a0dda761cbfa9d12cf1b81059050270fd473edeab425":[8,0,0,0,1,3,10,12,7,2]
 };

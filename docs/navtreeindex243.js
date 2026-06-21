@@ -1,5 +1,12 @@
 var NAVTREEINDEX243 =
 {
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#ab4f4b11e2b250fb24de6c069c5e38208":[7,0,2193,0,2],
+"d9/d48/CinematicMgr_8cpp.html":[8,0,0,0,1,2,16,7,0],
+"d9/d48/classnpc__torloth__the__magnificent.html":[7,0,2209],
+"d9/d48/classnpc__torloth__the__magnificent.html#a252796a19dcebe210eecb4d9ae150e5d":[7,0,2209,1],
+"d9/d48/classnpc__torloth__the__magnificent.html#a94c206fb75cc6f50c6127908b5b5205f":[7,0,2209,2],
+"d9/d48/classspell__gahzranka__slam.html":[7,0,2960],
+"d9/d48/classspell__gahzranka__slam.html#a2bbcce83bffebc509e9ec54778e82639":[7,0,2960,1],
 "d9/d48/classspell__gahzranka__slam.html#a3405b21202d423c649e0b8d341b42d9c":[7,0,2960,0],
 "d9/d48/classspell__gahzranka__slam.html#a59948484b528cab69c695f08b39b886d":[7,0,2960,2],
 "d9/d48/classspell__gahzranka__slam.html#ab5293e50bd670c0d350f190f1c9892b3":[7,0,2960,4],
@@ -18,10 +25,10 @@ var NAVTREEINDEX243 =
 "d9/d48/structnpc__medivh__bm.html#aa5a54d0b2b069947dd59eee77cbdf21b":[7,0,1973,2],
 "d9/d48/structnpc__medivh__bm.html#ad6dbbef1b6fbccd9dd224af1a15a6c90":[7,0,1973,3],
 "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e":[7,0,1973,8],
-"d9/d49/classTriggerAI.html":[7,0,4516],
-"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4516,1],
-"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4516,2],
-"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4516,0],
+"d9/d49/classTriggerAI.html":[7,0,4517],
+"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4517,1],
+"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4517,2],
+"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4517,0],
 "d9/d4a/EscortMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,2],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html":[7,0,1354],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html#a6a661e961c2599498de0ccd41c0763b4":[7,0,1354,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d57/classspell__freezing__cloud__damage.html#aaa7631a3d8a5476da6e051de90f34ee4":[7,0,2952,1],
 "d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b":[7,0,2952,0],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html":[7,0,1373,0],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a02e6df2528dc6be81fd4cdcd6fc69472":[7,0,1373,0,3],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a06fe3738599d1ee074fcbbe20dcd6349":[7,0,1373,0,5],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a1300b4370a3b3d69559eaea9dc20e838":[7,0,1373,0,19],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a143d2cd7d70384c0e164dba58c087c5d":[7,0,1373,0,4],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a154e2a171bd8fff244fcc640dc2fe705":[7,0,1373,0,24],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a179902f20d47e3916a2a5b4d52d34728":[7,0,1373,0,27],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a29cfd8b261f0ba2faed7248dbf848c1d":[7,0,1373,0,29],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a2b33e3a1175daa94d5660087a8354f23":[7,0,1373,0,6]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a02e6df2528dc6be81fd4cdcd6fc69472":[7,0,1373,0,3]
 };

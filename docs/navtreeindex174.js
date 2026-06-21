@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a99eaf912c120c7fa6d85748ebf96aebb":[8,0,0,0,1,3,10,17,6,41],
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a9b8fe0e1653b4eea5a4fbf7e09ad09ca":[8,0,0,0,1,3,10,17,6,29],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a9cc10c63c073de877a1aa311ce676e09":[8,0,0,0,1,3,10,17,6,25],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a9ff71e63988ee36ea0dfb82be3941636":[8,0,0,0,1,3,10,17,6,40],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824aa21de598f8bf17400746dc500f507918":[8,0,0,0,1,3,10,17,6,21],
@@ -145,11 +147,11 @@ var NAVTREEINDEX174 =
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[8,0,0,0,1,3,10,17,5,0],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[8,0,0,0,1,3,10,17,5,1],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[8,0,0,0,1,3,10,17,5,2],
-"d6/d36/structWardenModuleUse.html":[7,0,4577],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[7,0,4577,0],
-"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[7,0,4577,3],
-"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[7,0,4577,1],
-"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[7,0,4577,2],
+"d6/d36/structWardenModuleUse.html":[7,0,4578],
+"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[7,0,4578,0],
+"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[7,0,4578,3],
+"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[7,0,4578,1],
+"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[7,0,4578,2],
 "d6/d38/classAchievementGlobalMgr.html":[7,0,120],
 "d6/d38/classAchievementGlobalMgr.html#a01ce43650f0e13322d74da5da695d870":[7,0,120,26],
 "d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[7,0,120,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d38/classChatHandler.html#acfb8fb0453dd4025de15a909f78b206c":[7,0,888,40],
 "d6/d38/classChatHandler.html#ad04fd84539ea2ab1596b40f2efdd906e":[7,0,888,64],
 "d6/d38/classChatHandler.html#ad2aadfd932dfb1f57cc7a0b2aeb5bd52":[7,0,888,11],
-"d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[7,0,888,42],
-"d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[7,0,888,10],
-"d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[7,0,888,25]
+"d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[7,0,888,42]
 };

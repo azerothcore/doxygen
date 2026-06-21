@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a7d02805c6e8da030fdc84d7a5ff82ce7":[8,0,0,0,1,3,5,7,0,3,3],
+"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,7,0,3,2],
 "d5/de3/boss__anubrekhan_8cpp.html#a186758cdf7f07419df3770b278368f7b":[8,0,0,0,1,3,5,7,0,5],
 "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,0,2],
 "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04":[8,0,0,0,1,3,5,7,0,2,0],
@@ -233,8 +235,8 @@ var NAVTREEINDEX164 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[8,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d5/def/classdeserter__commandscript.html#a6274f79b9884586069f94137b44d89e9":[7,0,1001,10],
 "d5/def/classdeserter__commandscript.html#a9bf4e146ef0f4f0cb2508c4953f8a647":[7,0,1001,4],
 "d5/def/classdeserter__commandscript.html#aabd2b23e2dc61fac10890077b41d8179":[7,0,1001,6],
-"d5/def/classdeserter__commandscript.html#ab5b48b9dde89c9215c51560f26324649":[7,0,1001,1],
-"d5/def/classdeserter__commandscript.html#abe8c428ec09d341bb9f49882b7c071e2":[7,0,1001,2],
-"d5/def/classdeserter__commandscript.html#adc6ad2f406fcb58ba64d2b6fd47281e2":[7,0,1001,8]
+"d5/def/classdeserter__commandscript.html#ab5b48b9dde89c9215c51560f26324649":[7,0,1001,1]
 };

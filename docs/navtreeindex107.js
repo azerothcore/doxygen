@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5b8dbc13b3c92c08dbaaabdc2bcf89b0":[8,0,0,0,1,3,10,10,49,22],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5df838fc03f1338db5873b67568ad82b":[8,0,0,0,1,3,10,10,49,36],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a630dbfd037bd41c58cbe97a0a93d7048":[8,0,0,0,1,3,10,10,49,43],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a64dc1baada02c2b1b22685246f38f55a":[8,0,0,0,1,3,10,10,49,52],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a675070578aeff5617fe8a87a03671398":[8,0,0,0,1,3,10,10,49,45],
@@ -205,8 +207,8 @@ var NAVTREEINDEX107 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3066,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3066,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3066,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,204],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classspell__item__living__root__of__the__wildheart.html#acfea07ba1efeba58bcfc465122a3f66d":[7,0,3388,3],
 "d3/da8/classspell__item__living__root__of__the__wildheart.html#ae0e2b86fc99705d7a80c2122643db33f":[7,0,3388,0],
 "d3/da8/classspell__item__living__root__of__the__wildheart.html#ae1027c9041171c9ed613acfd68be5ba3":[7,0,3388,1],
-"d3/da8/classspell__transitus__shield__beam__aura.html":[7,0,4197],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a3a24a25c9b9b118d20ca2b14fbfc5869":[7,0,4197,4],
-"d3/da8/classspell__transitus__shield__beam__aura.html#a5ec8ffeceae335423dff10f54e096e8a":[7,0,4197,2]
+"d3/da8/classspell__transitus__shield__beam__aura.html":[7,0,4197]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX390 =
 {
+"de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[7,0,717,1],
+"de/da5/classinstance__ragefire__chasm.html":[7,0,1350],
+"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[7,0,1350,2],
+"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1350,1],
+"de/da5/vmapexport_8cpp.html":[8,0,0,0,3,4,12],
+"de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[8,0,0,0,3,4,12,17],
+"de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22],
 "de/da5/vmapexport_8cpp.html#a2191d2ffb8973cd0ddb269bcaa06a31d":[8,0,0,0,3,4,12,19],
 "de/da5/vmapexport_8cpp.html#a32b84e03161e7056f809d12d8b7b71b2":[8,0,0,0,3,4,12,5],
 "de/da5/vmapexport_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,0,0,3,4,12,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX390 =
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ab8bb39875bff2a91954b56890e5bfc4d":[8,0,0,0,1,3,5,18,51,11],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ac22383a930479a7cb4fe8cc2d24adaf3":[8,0,0,0,1,3,5,18,51,12],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ac7a9c7ba420560f5a7710767e802e099":[8,0,0,0,1,3,5,18,51,30],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7acef19fc1adf46a112d74e7d16e766a9c":[8,0,0,0,1,3,5,18,51,3],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ad103fccce298ae544dea8ca4b7de5c01":[8,0,0,0,1,3,5,18,51,10],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ad21f854a838b6f3a017bbb8b10147b1b":[8,0,0,0,1,3,5,18,51,5],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ade8b32053b4d12e04de9f0929941bcec":[8,0,0,0,1,3,5,18,51,2],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7ae5e5801f9384f7b840baa9520c517e9f":[8,0,0,0,1,3,5,18,51,15],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af30a3997bcce6e167066588753227865":[8,0,0,0,1,3,5,18,51,6],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af7887c8bad4249d2fe89473db657ff56":[8,0,0,0,1,3,5,18,51,23],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af793de494eac5a1e5c7539c968c33656":[8,0,0,0,1,3,5,18,51,9]
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7acef19fc1adf46a112d74e7d16e766a9c":[8,0,0,0,1,3,5,18,51,3]
 };

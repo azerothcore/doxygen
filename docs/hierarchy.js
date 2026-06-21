@@ -844,6 +844,7 @@ var hierarchy =
         [ "spell_xt002_gravity_bomb_aura", "da/d57/classspell__xt002__gravity__bomb__aura.html", null ],
         [ "spell_xt002_searing_light_spawn_life_spark_aura", "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html", null ],
         [ "spell_yogg_saron_brain_link_aura", "d0/db3/classspell__yogg__saron__brain__link__aura.html", null ],
+        [ "spell_yogg_saron_constrictor_tentacle_aura", "d8/de1/classspell__yogg__saron__constrictor__tentacle__aura.html", null ],
         [ "spell_yogg_saron_empowered_aura", "d0/d9a/classspell__yogg__saron__empowered__aura.html", null ],
         [ "spell_yogg_saron_grim_reprisal_aura", "d7/d54/classspell__yogg__saron__grim__reprisal__aura.html", null ],
         [ "spell_yogg_saron_insane_aura", "d4/d81/classspell__yogg__saron__insane__aura.html", null ],

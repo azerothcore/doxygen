@@ -4903,6 +4903,7 @@ var annotated_dup =
     [ "spell_xt002_tympanic_tantrum", "db/d17/classspell__xt002__tympanic__tantrum.html", "db/d17/classspell__xt002__tympanic__tantrum" ],
     [ "spell_yogg_saron_brain_link", "d5/de0/classspell__yogg__saron__brain__link.html", "d5/de0/classspell__yogg__saron__brain__link" ],
     [ "spell_yogg_saron_brain_link_aura", "d0/db3/classspell__yogg__saron__brain__link__aura.html", "d0/db3/classspell__yogg__saron__brain__link__aura" ],
+    [ "spell_yogg_saron_constrictor_tentacle_aura", "d8/de1/classspell__yogg__saron__constrictor__tentacle__aura.html", "d8/de1/classspell__yogg__saron__constrictor__tentacle__aura" ],
     [ "spell_yogg_saron_destabilization_matrix", "dc/d9d/classspell__yogg__saron__destabilization__matrix.html", "dc/d9d/classspell__yogg__saron__destabilization__matrix" ],
     [ "spell_yogg_saron_empowered_aura", "d0/d9a/classspell__yogg__saron__empowered__aura.html", "d0/d9a/classspell__yogg__saron__empowered__aura" ],
     [ "spell_yogg_saron_empowering_shadows", "d4/d16/classspell__yogg__saron__empowering__shadows.html", "d4/d16/classspell__yogg__saron__empowering__shadows" ],

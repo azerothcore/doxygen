@@ -1,7 +1,9 @@
 var NAVTREEINDEX166 =
 {
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[7,0,0,5,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[7,0,0,5,0,3],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,0,8,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,0,8,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[7,0,0,5,0,3,0],
 "d5/df7/classObjectGuidVector.html":[7,0,2322],
 "d5/df7/classObjectGuidVector.html#a07fe3304a0edffa1f17a0ce5f97d01e6":[7,0,2322,1],
 "d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26":[7,0,2322,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX166 =
 "d5/dfb/classObjectMgr.html#a713ee4d9c729b0425d8ef75ef36684f2":[7,0,2323,174],
 "d5/dfb/classObjectMgr.html#a724a6c6b1e1a4006dd51d7b38d7232b5":[7,0,2323,347],
 "d5/dfb/classObjectMgr.html#a73d91cf299d39a85191f6a2a38edc718":[7,0,2323,242],
-"d5/dfb/classObjectMgr.html#a7457c3cf5acf892349762467249ed8a6":[7,0,2323,395],
-"d5/dfb/classObjectMgr.html#a75071cd6dfff4be0af8f1a4b6faef5bd":[7,0,2323,12],
-"d5/dfb/classObjectMgr.html#a7548d3d9e36a22bac9ab72c83ab9c3ae":[7,0,2323,370]
+"d5/dfb/classObjectMgr.html#a7457c3cf5acf892349762467249ed8a6":[7,0,2323,395]
 };

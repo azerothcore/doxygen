@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d8/d74/classWorldSession.html#ad3c5d78007045cdf28b0ced568a403e1":[4,1,19,245],
+"d8/d74/classWorldSession.html#ad4e868baecdad6382b09e6bae18bc21d":[4,1,19,248],
 "d8/d74/classWorldSession.html#ad56282739321f3725c64b761316a9b03":[4,1,19,290],
 "d8/d74/classWorldSession.html#ad571aa5be41d47b89e84f3a7d12b923c":[4,1,19,427],
 "d8/d74/classWorldSession.html#ad5b723c9992445c7e94a7a5d37b34542":[4,1,19,560],
@@ -167,10 +169,10 @@ var NAVTREEINDEX228 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,990,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1608],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1608,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1608,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d7e/OutdoorPvPNA_8cpp.html":[8,0,0,0,1,3,6,7],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a03015585e7619177355fefd05f85e1c7":[8,0,0,0,1,3,6,7,2],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a3428675268608e5372767fc629259d5c":[8,0,0,0,1,3,6,7,5],
-"d8/d7e/OutdoorPvPNA_8cpp.html#a37af66c813e135cc11bd1dc663b35697":[8,0,0,0,1,3,6,7,4],
-"d8/d7e/OutdoorPvPNA_8cpp.html#a531a4e8a5291c048ad0f3b0fc64b29d9":[8,0,0,0,1,3,6,7,6],
-"d8/d7e/OutdoorPvPNA_8cpp.html#ab1d33448696056a0951a0c306a511f1e":[8,0,0,0,1,3,6,7,3]
+"d8/d7e/OutdoorPvPNA_8cpp.html#a37af66c813e135cc11bd1dc663b35697":[8,0,0,0,1,3,6,7,4]
 };

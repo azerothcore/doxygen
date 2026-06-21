@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa2886fea4a859cc1302b89fb5bd4894bb":[8,0,0,0,1,3,3,0,1,3,15],
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa31fdcda6fb9f3dc253b3afc77eacbe2b":[8,0,0,0,1,3,3,0,1,3,35],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa4f1d578423c04b16414575365bbc4e00":[8,0,0,0,1,3,3,0,1,3,24],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa4f78b2161c527cad45d2851a92786e54":[8,0,0,0,1,3,3,0,1,3,8],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa5d0d683844dcf126a16099bb8c98a7e6":[8,0,0,0,1,3,3,0,1,3,19],
@@ -26,8 +28,8 @@ var NAVTREEINDEX212 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[8,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[8,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[8,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[5,0,0,75],
 "d7/db4/structAcore_1_1has__type.html":[7,0,0,63],
+"d7/db4/structAcore_1_1has__type.html":[5,0,0,75],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[7,0,3894],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[7,0,3894,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[7,0,3894,1],
@@ -137,10 +139,10 @@ var NAVTREEINDEX212 =
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4087],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4087,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4087,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc0/classRASession.html#a59333e209be4ab694ad5bc62f4c245ce":[7,0,2495,0],
 "d7/dc0/classRASession.html#a72963e43e085c28b7d4bb50dfa45433a":[7,0,2495,1],
 "d7/dc0/classRASession.html#a817e53b23c54f2f6bbf7058eab0824b4":[7,0,2495,11],
-"d7/dc0/classRASession.html#a82ccb9ab8abf1403fd5d2384beac99b7":[7,0,2495,14],
-"d7/dc0/classRASession.html#a8320914f7d0fc769e2e3861b8df75f5a":[7,0,2495,6],
-"d7/dc0/classRASession.html#a899e34097702112e05e942a33ebcb1d2":[7,0,2495,12]
+"d7/dc0/classRASession.html#a82ccb9ab8abf1403fd5d2384beac99b7":[7,0,2495,14]
 };

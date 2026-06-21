@@ -1,5 +1,12 @@
 var NAVTREEINDEX297 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571adba86ceaeb379ef8f38f945b42bd38a0":[8,0,0,0,1,2,16,4,6,42,11],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ade011b0c5bb8c2be05c21c8cc6548ddd":[8,0,0,0,1,2,16,4,6,42,8],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae284935c0f167ad9508cdf9633de09bf":[8,0,0,0,1,2,16,4,6,42,20],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae5246417b9df86be1cc73268b505e323":[8,0,0,0,1,2,16,4,6,42,26],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aecca550f8449af83970969401b263ca1":[8,0,0,0,1,2,16,4,6,42,17],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aee815449780a000e13a2bd06d4033e2e":[8,0,0,0,1,2,16,4,6,42,27],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aeedb146a578adffbf2baa9b63374d74f":[8,0,0,0,1,2,16,4,6,42,24],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3":[8,0,0,0,1,2,16,4,6,42,1],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afe360730c5206ed27eb3957ba20a8a66":[8,0,0,0,1,2,16,4,6,42,14],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5e":[8,0,0,0,1,2,16,4,6,45],
@@ -240,14 +247,7 @@ var NAVTREEINDEX297 =
 "db/d8b/structboss__doomrel.html#af30f3385bb1ca366f335ca3e19849704":[7,0,441,3],
 "db/d8b/structboss__doomrel.html#afb365d8b32d2610b3d398b6f3a1f1bc6":[7,0,441,8],
 "db/d8c/EscortMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,3],
-"db/d8c/classThreadingModel_3_01T_01_4.html":[7,0,4483],
+"db/d8c/classThreadingModel_3_01T_01_4.html":[7,0,4484],
 "db/d8c/classspell__grip.html":[7,0,3136],
-"db/d8c/classspell__grip.html#a07ce1c801c8d770d639b8ffe05830c3b":[7,0,3136,2],
-"db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0":[7,0,3136,0],
-"db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888":[7,0,3136,5],
-"db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b":[7,0,3136,4],
-"db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b":[7,0,3136,1],
-"db/d8c/classspell__grip.html#afa2a6d4653311d2f76831ef14d34c0dd":[7,0,3136,3],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[5,0,0,8,0,18],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[7,0,0,5,0,18]
+"db/d8c/classspell__grip.html#a07ce1c801c8d770d639b8ffe05830c3b":[7,0,3136,2]
 };

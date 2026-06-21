@@ -1,5 +1,12 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35":[7,0,328,48],
+"df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[7,0,328,227],
+"df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[7,0,328,46],
+"df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[7,0,328,199],
+"df/da7/classBattleground.html#a34b10848a91db884b565b5b2f8e5085c":[7,0,328,67],
+"df/da7/classBattleground.html#a34d52aafcdab65e6ff55925f88e3367c":[7,0,328,139],
+"df/da7/classBattleground.html#a3841ee3e6ac8caec32e7b4dbfb344f9b":[7,0,328,246],
 "df/da7/classBattleground.html#a390e10b4efba4219eff511e1c4a831cc":[7,0,328,168],
 "df/da7/classBattleground.html#a39548195d203781af0e04927e7c1ba46":[7,0,328,194],
 "df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[7,0,328,196],
@@ -242,12 +249,5 @@ var NAVTREEINDEX412 =
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[7,0,2212,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2212,0,4],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2212,0,7],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2212,0,3],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2212,0,6],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a98c18794124922e6946a82a324410837":[7,0,2212,0,1],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#ab84a35b5145c74f16dfbbe020dd9a73b":[7,0,2212,0,0],
-"df/da9/MapBuilder_8cpp.html":[8,0,0,0,3,2,4],
-"df/da9/structnpc__chess__move__trigger.html":[7,0,1709],
-"df/da9/structnpc__chess__move__trigger.html#a6c0c37677db45ee11ebe158893d99632":[7,0,1709,0],
-"df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[7,0,1709,1]
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2212,0,3]
 };

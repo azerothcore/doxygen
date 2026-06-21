@@ -1,5 +1,12 @@
 var NAVTREEINDEX275 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0e92f831d702eda65309787c651f221b":[7,0,712,0,15],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39":[7,0,712,0,10],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[7,0,712,0,9],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[7,0,712,0,19],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[7,0,712,0,14],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[7,0,712,0,12],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[7,0,712,0,20],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a87663e3f6d1c87c9def8eb1852adc029":[7,0,712,0,17],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[7,0,712,0,16],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[7,0,712,0,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX275 =
 "da/dad/structboss__harbinger__skyriss.html#a97d84139a3e970e22d7d422f2f825f12":[7,0,537,4],
 "da/dad/structboss__harbinger__skyriss.html#adb4cdec41f4b61f82efdb78fe995c313":[7,0,537,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html":[7,0,2665],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7":[7,0,2665,1],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23":[7,0,2665,5],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a3b9838f26673ce344ca40f9f487ef878":[7,0,2665,2],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[7,0,2665,3],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[7,0,2665,4],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[7,0,2665,0],
-"da/dae/classspell__dru__glyph__of__shred.html":[7,0,2868],
-"da/dae/classspell__dru__glyph__of__shred.html#a87e742cdb4d12b287607d8d7cb00e84b":[7,0,2868,2]
+"da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7":[7,0,2665,1]
 };

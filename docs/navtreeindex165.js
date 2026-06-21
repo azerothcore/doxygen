@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"d5/def/classdeserter__commandscript.html#abe8c428ec09d341bb9f49882b7c071e2":[7,0,1001,2],
+"d5/def/classdeserter__commandscript.html#adc6ad2f406fcb58ba64d2b6fd47281e2":[7,0,1001,8],
 "d5/def/classdeserter__commandscript.html#aebaaf99b9c5959f3f3418e13e252fb95":[7,0,1001,0],
 "d5/def/structChrClassesEntry.html":[7,0,891],
 "d5/def/structChrClassesEntry.html#a2d0b7155b03af29bd982f31eba26ec24":[7,0,891,3],
@@ -13,10 +15,10 @@ var NAVTREEINDEX165 =
 "d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
 "d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[7,0,0,65,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
@@ -199,10 +201,10 @@ var NAVTREEINDEX165 =
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#a712e9b1ff341ccde4a6d6962ba6002a4":[7,0,0,74,4],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ab7cd80daa30d8a39289c704cc0a2064f":[7,0,0,74,0],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ab7cd80daa30d8a39289c704cc0a2064f":[5,0,0,86,0],
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[5,0,0,86,1],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[7,0,0,74,1],
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[7,0,0,74,3],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[5,0,0,86,1],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,0,86,3],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[7,0,0,74,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[5,0,0,86,2],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[7,0,0,74,2],
 "d5/df2/structMySQLType_3_01int8_01_4.html":[7,0,1579],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "d5/df5/classOrcDeathEvent.html":[7,0,2341],
 "d5/df5/classOrcDeathEvent.html#a293ec6667da669a27fe75965f919cd68":[7,0,2341,1],
 "d5/df5/classOrcDeathEvent.html#a56cdf23ed08cbb800ba6fe7fb5e284b7":[7,0,2341,2],
-"d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[7,0,2341,0],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[7,0,0,5,0,3],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,0,8,0,3]
+"d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[7,0,2341,0]
 };

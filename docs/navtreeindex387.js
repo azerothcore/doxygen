@@ -1,5 +1,12 @@
 var NAVTREEINDEX387 =
 {
+"de/d95/structAuctionHouseUsablePlayerInfo.html#aee11f4f45f83664483344e3bbfba7463":[7,0,275,2],
+"de/d97/boss__mother__shahraz_8cpp.html":[8,0,0,0,1,3,7,1,4],
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,1,4,7],
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,1,4,7,5],
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,1,4,7,1],
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,1,4,7,3],
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,7,1,4,7,0],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac84afb14a2738b8f24beb0e2427300f6":[8,0,0,0,1,3,7,1,4,7,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[8,0,0,0,1,3,7,1,4,7,4],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ad25383e2c00eeae2e4b15e33298d79a2":[8,0,0,0,1,3,7,1,4,7,2],
@@ -172,10 +179,10 @@ var NAVTREEINDEX387 =
 "de/d9f/structSkillPerfectItemEntry.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3":[7,0,2575,0],
 "de/d9f/structSkillPerfectItemEntry.html#a750d5ab6bc3df0026e640f1c84de8547":[7,0,2575,2],
 "de/d9f/structSkillPerfectItemEntry.html#aa7ad968ab1b8804ee8f0f8f40bc6f762":[7,0,2575,4],
-"de/da0/classUpdateRequest.html":[7,0,4544],
-"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[7,0,4544,0],
-"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[7,0,4544,1],
-"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[7,0,4544,2],
+"de/da0/classUpdateRequest.html":[7,0,4545],
+"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[7,0,4545,0],
+"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[7,0,4545,1],
+"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[7,0,4545,2],
 "de/da0/classspell__mage__imp__blizzard.html":[7,0,3581],
 "de/da0/classspell__mage__imp__blizzard.html#a4f3c644a91dab0641ef489fd2da171a2":[7,0,3581,2],
 "de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[7,0,3581,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX387 =
 "de/da2/classnpc__maxx__a__million__escort.html#a958a88b495594dd8e14919d950ac917a":[7,0,1970,1],
 "de/da2/classnpc__maxx__a__million__escort.html#af3c2f2708702f7d25e712c63a45e69e0":[7,0,1970,3],
 "de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[7,0,1970,2],
-"de/da2/classspell__gen__reduced__above__60__aura.html":[7,0,3086],
-"de/da2/classspell__gen__reduced__above__60__aura.html#a4be139ae22c20468be1930195097d98a":[7,0,3086,1],
-"de/da2/classspell__gen__reduced__above__60__aura.html#a90d6446ed05f9dfedb43d689e8de0614":[7,0,3086,2],
-"de/da2/classspell__gen__reduced__above__60__aura.html#af913c896771e238ef62898f67af61cc4":[7,0,3086,0],
-"de/da3/ModuleMgr_8h.html":[8,0,0,0,1,2,29,1],
-"de/da3/ModuleMgr_8h.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[8,0,0,0,1,2,29,1,0],
-"de/da3/ModuleMgr_8h.html#ac16569c9333f642e54fa7a4ec6a948e3":[8,0,0,0,1,2,29,1,1],
-"de/da4/classspell__putricide__mutated__plague__aura.html":[7,0,3810]
+"de/da2/classspell__gen__reduced__above__60__aura.html":[7,0,3086]
 };

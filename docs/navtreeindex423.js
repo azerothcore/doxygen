@@ -1,5 +1,12 @@
 var NAVTREEINDEX423 =
 {
+"df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[7,0,1284,8],
+"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[7,0,1284,7],
+"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[7,0,1284,9],
+"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[7,0,1284,1],
+"df/df6/structHealthCheckEventData.html#aae2283a58be68424fbe01c37a29e1c5e":[7,0,1284,4],
+"df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389":[7,0,1284,2],
+"df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5":[7,0,1284,6],
 "df/df6/structHealthCheckEventData.html#aff327c455fbd912579725956c99c3a2d":[7,0,1284,5],
 "df/df7/boss__drakos_8cpp.html":[8,0,0,0,1,3,5,8,2,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,8,2,0,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX423 =
 "dir_a4d376dc24851cd2a191f06c51e076cb.html":[8,0,0,0,1,4,1],
 "dir_a58b003a535a0d998ca0fef6e9ca4a39.html":[8,0,0,0,1,1,0,0],
 "dir_a5c81565c813a087452a284baefe3cb6.html":[8,0,0,0,1,3,9],
-"dir_a6196a4e0c27f9c5f415985d4d3c16ae.html":[8,0,0,0,1,3,7,5],
-"dir_a884ae728646885af0028bc6e5a4566d.html":[8,0,0,0,1,3,2,11],
-"dir_a9e39583c43309d922435a1f60a156f4.html":[8,0,0,0,1,3,5,5],
-"dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html":[8,0,0,0,1,3,7],
-"dir_aa8854523178f757998bc0ad1b9fe275.html":[8,0,0,0,1,3,5,12],
-"dir_ac0cbeb0a5f89d2c9966c7d739794b5c.html":[8,0,0,0,1,2,4],
-"dir_ac5beb3152ba3ce8038adbba12e192c7.html":[8,0,0,0,3],
-"dir_ac632e0cb7d565e729369f2b018d776c.html":[8,0,0,0,1,1,3]
+"dir_a6196a4e0c27f9c5f415985d4d3c16ae.html":[8,0,0,0,1,3,7,5]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX307 =
 {
+"db/dd5/classCreature.html#a8c6ee69d05582bd846a9850297313b29":[7,0,939,168],
+"db/dd5/classCreature.html#a8d81cc6fed0cd3f54d2665ca6501086a":[7,0,939,296],
+"db/dd5/classCreature.html#a8d8cf2319d50d4e5c4fb0ef6a77a766b":[7,0,939,293],
+"db/dd5/classCreature.html#a8e15449c79eb42d558351e07291ae719":[7,0,939,71],
+"db/dd5/classCreature.html#a8e79b5c25db2911cb945219bc460dfdc":[7,0,939,4],
+"db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3":[7,0,939,109],
+"db/dd5/classCreature.html#a8eba0314d6c9f5918c9fcdcb28955a67":[7,0,939,53],
 "db/dd5/classCreature.html#a8ecaf02862224e9d25423760afd45d12":[7,0,939,139],
 "db/dd5/classCreature.html#a8edf87f35516c88006bb0bd99ca1154b":[7,0,939,23],
 "db/dd5/classCreature.html#a92bc1473eba49e683a47329d9e7a3404":[7,0,939,57],
@@ -242,12 +249,5 @@ var NAVTREEINDEX307 =
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1a5fde450425668fae91b1a8b6e23c29":[7,0,1336,0,23],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1b6f0643b15b4fb84c672d94d5f39f11":[7,0,1336,0,25],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1bc86dbfff22f727275be4eee9b57b1d":[7,0,1336,0,13],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1e1715aca5ca1dc5a456c167171a4a4c":[7,0,1336,0,15],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a20ca94eee81f5740662debb5f000bba1":[7,0,1336,0,17],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a33ada47858ba37d47b29e219b5386766":[7,0,1336,0,0],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a47397ada13cdf026a9a37348126b000f":[7,0,1336,0,28],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a559b5187559daf4b17a9fabc8eb9b91e":[7,0,1336,0,7],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a5e582ae2d466a5e80298a0e53068a736":[7,0,1336,0,2],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a65bd1d76ac4cbd6e8c5e9f827a637040":[7,0,1336,0,21],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a73baaec19f1f33eaf9f75191be50d53b":[7,0,1336,0,30]
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1e1715aca5ca1dc5a456c167171a4a4c":[7,0,1336,0,15]
 };

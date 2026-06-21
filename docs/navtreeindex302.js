@@ -1,5 +1,12 @@
 var NAVTREEINDEX302 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2":[8,0,0,0,1,3,10,14,56],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a030cec311538ee7847326d6ac83c30d1":[8,0,0,0,1,3,10,14,56,43],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f":[8,0,0,0,1,3,10,14,56,47],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a1618c39099c8b1a4099533bfc05abb14":[8,0,0,0,1,3,10,14,56,12],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a1aede2d239db6ee5eb11300ca9279eda":[8,0,0,0,1,3,10,14,56,13],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a20845b79a6268a2594cd70cd05de0f85":[8,0,0,0,1,3,10,14,56,9],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a25d1348d6fae193503c57d3162c9dc1a":[8,0,0,0,1,3,10,14,56,3],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a294d29d27afd6232962de59c931309d9":[8,0,0,0,1,3,10,14,56,15],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a2cb79c604a960b0c09abfa029b9a1dca":[8,0,0,0,1,3,10,14,56,11],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a427ec98ee32bae9df54bba431decb30c":[8,0,0,0,1,3,10,14,56,39],
@@ -218,8 +225,8 @@ var NAVTREEINDEX302 =
 "db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[8,0,0,0,2,2,0,9,13,1],
 "db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[8,0,0,0,2,2,0,9,13,6],
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,9,13,8],
-"db/db4/classSQLQueryHolder.html":[7,0,4442],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4442,0],
+"db/db4/classSQLQueryHolder.html":[7,0,4443],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4443,0],
 "db/db5/structboss__hydross__the__unstable.html":[7,0,556],
 "db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[7,0,556,3],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[7,0,556,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX302 =
 "db/db7/classspell__portal__effect__acherus.html":[7,0,3759],
 "db/db7/classspell__portal__effect__acherus.html#a053451bd9ae6f7d639d0a977be843bc0":[7,0,3759,2],
 "db/db7/classspell__portal__effect__acherus.html#a36bb2b95651889eaa0321a7a327e173f":[7,0,3759,1],
-"db/db7/classspell__portal__effect__acherus.html#a6d16f25c93eef3c17ae6b4a43d884279":[7,0,3759,3],
-"db/db7/classspell__portal__effect__acherus.html#ab0ed12fadaea4c96c7f6e43b7b385653":[7,0,3759,4],
-"db/db7/classspell__portal__effect__acherus.html#add6229e3f0241ccedf446a5a37cf72ce":[7,0,3759,0],
-"db/db7/instance__hyjal_8cpp.html":[8,0,0,0,1,3,4,1,0,7],
-"db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[8,0,0,0,1,3,4,1,0,7,6],
-"db/db7/instance__hyjal_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,4,1,0,7,3],
-"db/db7/instance__hyjal_8cpp.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41":[8,0,0,0,1,3,4,1,0,7,2],
-"db/db7/instance__hyjal_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,4,1,0,7,4]
+"db/db7/classspell__portal__effect__acherus.html#a6d16f25c93eef3c17ae6b4a43d884279":[7,0,3759,3]
 };

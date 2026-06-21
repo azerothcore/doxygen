@@ -1,7 +1,9 @@
 var NAVTREEINDEX97 =
 {
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4359,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4359,0],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4360,3],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[7,0,4360,1],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4360,2],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4360,0],
 "d3/d41/classGameObjectModelOwnerImpl.html":[7,0,1113],
 "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[7,0,1113,6],
 "d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[7,0,1113,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba59b9fdee57cbd40238ed29bf9b8509e4":[8,0,0,0,1,2,48,7,0,487],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5a751967f573a055638f9faad9f0eb77":[8,0,0,0,1,2,48,7,0,176],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5ac02edb72bce23a8c080e753e94ad58":[8,0,0,0,1,2,48,7,0,470],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5b761487f25c5a9153c420af746c5159":[8,0,0,0,1,2,48,7,0,62],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5b8692a06b5621543ba538a315b9652e":[8,0,0,0,1,2,48,7,0,247],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5bbd587202cfb8b05176add69df363ec":[8,0,0,0,1,2,48,7,0,263]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5b761487f25c5a9153c420af746c5159":[8,0,0,0,1,2,48,7,0,62]
 };

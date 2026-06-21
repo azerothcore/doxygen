@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"d5/d2c/namespaceAcore_1_1Asio.html":[5,0,0,0],
+"d5/d2c/namespaceAcore_1_1Asio.html#a47f8fe35925492e3f01d723115279f2e":[5,0,0,0,4],
 "d5/d2c/namespaceAcore_1_1Asio.html#ac437e3511a92ead72c7d3c1f6004daaf":[5,0,0,0,5],
 "d5/d2d/classMySQLPreparedStatement.html":[7,0,1570],
 "d5/d2d/classMySQLPreparedStatement.html#a06fa417f69e0a67da8f249333b1d189d":[7,0,1570,16],
@@ -177,8 +179,8 @@ var NAVTREEINDEX147 =
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[7,0,0,92,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[7,0,3383],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[7,0,3383,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3383,3],
@@ -226,9 +228,9 @@ var NAVTREEINDEX147 =
 "d5/d36/structboss__tenris__mirkblood.html#ab0a5fedbd8714326a948163d7bcc0838":[7,0,737,4],
 "d5/d36/structboss__tenris__mirkblood.html#ad95106bbe08589a5ca1d0f2f30aab0ec":[7,0,737,3],
 "d5/d36/structboss__tenris__mirkblood.html#ae626332a437983bbb0219bbe2d4b75dc":[7,0,737,0],
-"d5/d38/classSpellProcDBCValidationTest.html":[7,0,4410],
-"d5/d38/classSpellProcDBCValidationTest.html#a7c06feea09d0606a50198a307e43b989":[7,0,4410,1],
-"d5/d38/classSpellProcDBCValidationTest.html#aa4192b0ae6f716449e20ead2b5a5a387":[7,0,4410,0],
+"d5/d38/classSpellProcDBCValidationTest.html":[7,0,4411],
+"d5/d38/classSpellProcDBCValidationTest.html#a7c06feea09d0606a50198a307e43b989":[7,0,4411,1],
+"d5/d38/classSpellProcDBCValidationTest.html#aa4192b0ae6f716449e20ead2b5a5a387":[7,0,4411,0],
 "d5/d39/classspell__halion__twilight__phasing.html":[7,0,3165],
 "d5/d39/classspell__halion__twilight__phasing.html#a55dc086667f0fe23e513608e951276ed":[7,0,3165,0],
 "d5/d39/classspell__halion__twilight__phasing.html#a87192df547adaf3cb060155d9cf4da79":[7,0,3165,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#aa5d2f7530277a6a4d4a85ec5d244b9bc":[7,0,3291,0],
 "d5/d3e/ZoneScript_8h.html":[8,0,0,0,1,2,26,18],
 "d5/d3f/classat__icc__gauntlet__event.html":[7,0,229],
-"d5/d3f/classat__icc__gauntlet__event.html#a9329ec078db088b1c13144ac7ed7a13a":[7,0,229,1],
-"d5/d3f/classat__icc__gauntlet__event.html#ae8790bad655661aeda887f56b9393847":[7,0,229,0],
-"d5/d40/classspell__item__refocus.html":[7,0,3425]
+"d5/d3f/classat__icc__gauntlet__event.html#a9329ec078db088b1c13144ac7ed7a13a":[7,0,229,1]
 };

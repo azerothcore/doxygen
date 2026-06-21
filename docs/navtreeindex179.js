@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca667a079b04cc692b797d1e84b8026637":[8,0,0,0,1,3,2,1,1,8,4,10],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ea77c0f71e7cfec827076d1bf979469":[8,0,0,0,1,3,2,1,1,8,4,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca757aa4e3604bb36e01dcc74c895edf88":[8,0,0,0,1,3,2,1,1,8,4,13],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[8,0,0,0,1,3,2,1,1,8,4,8],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298caa79419e68a1437beb36bb07361b55682":[8,0,0,0,1,3,2,1,1,8,4,7],
@@ -147,9 +149,9 @@ var NAVTREEINDEX179 =
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4232,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4232,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4232,0],
-"d6/d67/classSpellProcPipelineTest.html":[7,0,4417],
-"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4417,0],
-"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4417,1],
+"d6/d67/classSpellProcPipelineTest.html":[7,0,4418],
+"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4418,0],
+"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4418,1],
 "d6/d68/HMAC_8h.html":[8,0,0,0,0,3,14],
 "d6/d68/HMAC_8h.html#a5186a2a02e2301ec3ea7b37d8b41097f":[8,0,0,0,0,3,14,1],
 "d6/d68/HMAC_8h.html#a80d906d20826d6c963f50eba5f7c4c2a":[8,0,0,0,0,3,14,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d6b/classspell__pal__light__s__beacon.html#acfdb90639eb05a5ec252c20c9f302fed":[7,0,3729,0],
 "d6/d6b/classspell__pal__light__s__beacon.html#ae9911ba6c95cfc6c345743b0f970062b":[7,0,3729,4],
 "d6/d6b/structnpc__sunblade__scout.html":[7,0,2156],
-"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2156,6],
-"d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[7,0,2156,2],
-"d6/d6b/structnpc__sunblade__scout.html#ab57b63a624458a9fa598062e61c5fa0e":[7,0,2156,1]
+"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2156,6]
 };

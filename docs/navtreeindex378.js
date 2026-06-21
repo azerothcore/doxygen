@@ -1,5 +1,12 @@
 var NAVTREEINDEX378 =
 {
+"de/d33/classspell__item__darkmoon__card__illusion.html":[7,0,3329],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a13f11ec412f18d805282b3810aff5e90":[7,0,3329,1],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a2863c81b02f0b08430d9e713e7b644f7":[7,0,3329,3],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a554e2ab9dfd9d157eee13b7a5c33cf2e":[7,0,3329,0],
+"de/d33/classspell__item__darkmoon__card__illusion.html#ac9a6a96da8387d3c51fece7f0a968779":[7,0,3329,2],
+"de/d33/structboss__bronjahm.html":[7,0,420],
+"de/d33/structboss__bronjahm.html#a313bd4510e18ecb529b6358d28a3dc3f":[7,0,420,8],
 "de/d33/structboss__bronjahm.html#a3be47710012bd75a71574f7a4c69f678":[7,0,420,9],
 "de/d33/structboss__bronjahm.html#a44666a47b298efe48c4e86b8677d9845":[7,0,420,0],
 "de/d33/structboss__bronjahm.html#a47c7a8a8413b139cf2d217d33f39aa3d":[7,0,420,6],
@@ -70,9 +77,9 @@ var NAVTREEINDEX378 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,838,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[7,0,838,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,838,10],
-"de/d34/structSpellDurationEntry.html":[7,0,4381],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4381,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4381,0],
+"de/d34/structSpellDurationEntry.html":[7,0,4382],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4382,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4382,0],
 "de/d36/classnpc__mrfloppy.html":[7,0,1989],
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[7,0,1989,1],
 "de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[7,0,1989,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX378 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[7,0,2180,0,9],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abe0cf3f5e154edd5b0005c62a70dfb06":[7,0,2180,0,23],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[7,0,2180,0,11],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[7,0,2180,0,19],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ae764b73931eb22712fc4e22e0c15a080":[7,0,2180,0,27],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[7,0,2180,0,6],
-"de/d3c/structPoolTemplateItem.html":[7,0,2436],
-"de/d3c/structPoolTemplateItem.html#a20ae19fc80deceb81adccb91b341fb82":[7,0,2436,0],
-"de/d3c/structPoolTemplateItem.html#ae8b951678ec65907370ffe700cd668c8":[7,0,2436,1],
-"de/d3c/structTriggeredByAuraSpellData.html":[7,0,4517],
-"de/d3c/structTriggeredByAuraSpellData.html#a3f4704eed73af1e37a3d09434cfcddae":[7,0,4517,0]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[7,0,2180,0,19]
 };

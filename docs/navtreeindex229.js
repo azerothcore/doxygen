@@ -1,5 +1,7 @@
 var NAVTREEINDEX229 =
 {
+"d8/d7e/OutdoorPvPNA_8cpp.html#a531a4e8a5291c048ad0f3b0fc64b29d9":[8,0,0,0,1,3,6,7,6],
+"d8/d7e/OutdoorPvPNA_8cpp.html#ab1d33448696056a0951a0c306a511f1e":[8,0,0,0,1,3,6,7,3],
 "d8/d7e/classspell__gen__mirrored__soul.html":[7,0,3055],
 "d8/d7e/classspell__gen__mirrored__soul.html#a49174c98ea4fa6c4028c7ad771bbe204":[7,0,3055,3],
 "d8/d7e/classspell__gen__mirrored__soul.html#a4cd1dec02407065ffb25b230cf8df1c7":[7,0,3055,2],
@@ -203,16 +205,16 @@ var NAVTREEINDEX229 =
 "d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[7,0,2553,4],
 "d8/d86/structServerMail.html#a818b993f72f82a022277e1c8d9160011":[7,0,2553,3],
 "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec":[7,0,2553,6],
-"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4549],
-"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4549,0],
-"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4549,1],
-"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4549,2],
+"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4550],
+"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4550,0],
+"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4550,1],
+"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4550,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,585],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,585,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[7,0,585,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d8c/structRegularGrid2D_1_1Cell.html#afe64d87e738675f1c8cb0fa6d440029c":[7,0,2509,0,1],
 "d8/d8d/structActiveBoatStruct.html":[7,0,129],
 "d8/d8d/structActiveBoatStruct.html#a06a0f8e5a7d63204d57992dc9623f83b":[7,0,129,8],
-"d8/d8d/structActiveBoatStruct.html#a3b6b89143c8a875cda01b000cea6a7c7":[7,0,129,5],
-"d8/d8d/structActiveBoatStruct.html#a4bdccc14156f7e5822c9a8eefc29adaa":[7,0,129,3],
-"d8/d8d/structActiveBoatStruct.html#a62cd7f778cea049a1a6a4c34d21545a7":[7,0,129,1]
+"d8/d8d/structActiveBoatStruct.html#a3b6b89143c8a875cda01b000cea6a7c7":[7,0,129,5]
 };

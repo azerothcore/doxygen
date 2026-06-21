@@ -1,5 +1,12 @@
 var NAVTREEINDEX389 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a899de096af13eece8c050afc22ab6034":[8,0,0,0,1,1,0,0,1,1,404],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e":[8,0,0,0,1,1,0,0,1,1,132],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8a0a4450e9711e91aa5b2119921b8022":[8,0,0,0,1,1,0,0,1,1,398],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8abf3b5f7f1403dbf979c30f6614ba47":[8,0,0,0,1,1,0,0,1,1,21],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8af8802925321277befc1a6574600af2":[8,0,0,0,1,1,0,0,1,1,342],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226":[8,0,0,0,1,1,0,0,1,1,282],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b5b1d6188848b4f6b8f3007bab57a86":[8,0,0,0,1,1,0,0,1,1,22],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b7a3863418371ab4f62a44ca202e5a0":[8,0,0,0,1,1,0,0,1,1,63],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2b4c7eec954ec3c9bbb73ad220fa":[8,0,0,0,1,1,0,0,1,1,369],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2e3af6e151a7261acdb0fd164912":[8,0,0,0,1,1,0,0,1,1,291],
@@ -242,12 +249,5 @@ var NAVTREEINDEX389 =
 "de/da5/boss__quartermaster__zigris_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadb0c7443cc69979eb07874e9ddb4717":[8,0,0,0,1,3,2,1,1,9,1,0],
 "de/da5/bug.html":[3],
 "de/da5/classboss__sjonnir__malformed__ooze.html":[7,0,717],
-"de/da5/classboss__sjonnir__malformed__ooze.html#a22807bb07692511c5ec87073d98c2604":[7,0,717,2],
-"de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[7,0,717,1],
-"de/da5/classinstance__ragefire__chasm.html":[7,0,1350],
-"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[7,0,1350,2],
-"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1350,1],
-"de/da5/vmapexport_8cpp.html":[8,0,0,0,3,4,12],
-"de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[8,0,0,0,3,4,12,17],
-"de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22]
+"de/da5/classboss__sjonnir__malformed__ooze.html#a22807bb07692511c5ec87073d98c2604":[7,0,717,2]
 };

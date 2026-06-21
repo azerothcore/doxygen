@@ -1,5 +1,12 @@
 var NAVTREEINDEX274 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#ae213ad313a4b0688763e882a2010c494":[7,0,13,20,3],
+"da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[7,0,13,20,11],
+"da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[5,0,34,20,11],
+"da/d97/classgo__sacred__fire__of__life.html":[7,0,1197],
+"da/d97/classgo__sacred__fire__of__life.html#a7f14c8397803f8b21e492ec52c6d81e8":[7,0,1197,0],
+"da/d97/classgo__sacred__fire__of__life.html#aaa078fffe5570fa532d27d1c4ea831a7":[7,0,1197,1],
+"da/d97/classspell__mark__of__frost__freeze.html":[7,0,3611],
 "da/d97/classspell__mark__of__frost__freeze.html#a57d85b1702e5c89d72972505121180ed":[7,0,3611,3],
 "da/d97/classspell__mark__of__frost__freeze.html#a9f1d78b4a98bc76877903b79923c1634":[7,0,3611,0],
 "da/d97/classspell__mark__of__frost__freeze.html#ab923488eb891e1f9b1f5cb8ed61f3865":[7,0,3611,2],
@@ -42,8 +49,8 @@ var NAVTREEINDEX274 =
 "da/d99/classBattlegroundMapScript.html#a90584770132eb71cffc6e25a674750ad":[7,0,344,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[7,0,13,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[7,0,13,8,6,2],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[7,0,13,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,34,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[7,0,13,8,6,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX274 =
 "da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[7,0,1251,4],
 "da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[7,0,1251,0],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[7,0,712,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[7,0,712,0,6],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0e92f831d702eda65309787c651f221b":[7,0,712,0,15],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39":[7,0,712,0,10],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[7,0,712,0,9],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[7,0,712,0,19],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[7,0,712,0,14],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[7,0,712,0,12],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[7,0,712,0,20]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[7,0,712,0,6]
 };

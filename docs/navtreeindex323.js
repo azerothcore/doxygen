@@ -1,5 +1,12 @@
 var NAVTREEINDEX323 =
 {
+"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[8,0,0,0,1,3,5,7,13,6,2],
+"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126":[8,0,0,0,1,3,5,7,13,6,3],
+"dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9ced0786c5d62dfaf14223025ed6a354":[8,0,0,0,1,3,5,7,13,6,1],
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,13,5],
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0da708c83d8321142ad79ababb74393c":[8,0,0,0,1,3,5,7,13,5,7],
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,7,13,5,1],
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca73e465881589fa02b898ab6929c2c977":[8,0,0,0,1,3,5,7,13,5,10],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca860e87a9f9300d72e514a6290791f443":[8,0,0,0,1,3,5,7,13,5,4],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b":[8,0,0,0,1,3,5,7,13,5,0],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caa3d23300dbc2574a11981b6aac1ddf51":[8,0,0,0,1,3,5,7,13,5,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aaec33771bd52355289d0f5923c28c666":[8,0,0,0,1,2,26,2,0,8],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab12140f2b0a69134179d11bf5a49021d":[8,0,0,0,1,2,26,2,0,87],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab20c46837fc760d5b36722a5f335ee61":[8,0,0,0,1,2,26,2,0,29],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf":[8,0,0,0,1,2,26,2,0,51],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23":[8,0,0,0,1,2,26,2,0,28],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab40d24ccec591e85e452fdb2a59f9e29":[8,0,0,0,1,2,26,2,0,1],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab41e85ba7f1102bff284936e1c89e50e":[8,0,0,0,1,2,26,2,0,103],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab43aaa4d2056772fb046d103d6ba4ec6":[8,0,0,0,1,2,26,2,0,102],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab550361ae2466ca9dcd5b434f0e665ad":[8,0,0,0,1,2,26,2,0,0],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab5859165e7cf27abe02fa1b1ae6c21fe":[8,0,0,0,1,2,26,2,0,49],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba":[8,0,0,0,1,2,26,2,0,56]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf":[8,0,0,0,1,2,26,2,0,51]
 };

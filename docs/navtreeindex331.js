@@ -1,5 +1,12 @@
 var NAVTREEINDEX331 =
 {
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[7,0,2940,3],
+"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[7,0,2940,2],
+"dc/db5/classspell__item__persistent__shield.html":[7,0,3414],
+"dc/db5/classspell__item__persistent__shield.html#a980784152abf41e91b5fe5a9c2e3d5dc":[7,0,3414,4],
+"dc/db5/classspell__item__persistent__shield.html#ac1fea3f63b5ffd742a83e8d45a26ae68":[7,0,3414,3],
+"dc/db5/classspell__item__persistent__shield.html#ad1a13141720e0e605966c2304b0f8eb9":[7,0,3414,1],
+"dc/db5/classspell__item__persistent__shield.html#af3ff786badfbb56f90bc3c8865c839bb":[7,0,3414,2],
 "dc/db5/classspell__item__persistent__shield.html#af82895c2ed07f43c28923b61427f4ddf":[7,0,3414,0],
 "dc/db5/classspell__putricide__tear__gas__effect.html":[7,0,3822],
 "dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[7,0,3822,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3773,1],
 "dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[7,0,3773,2],
 "dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[7,0,3773,4],
-"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[7,0,3773,0],
-"dc/dc8/classspell__pri__guardian__spirit.html#ad99966111a1919c610a942a8eb133ea1":[7,0,3773,5],
-"dc/dc9/ObjectGuid_8h.html":[8,0,0,0,1,2,16,5,5],
-"dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8":[8,0,0,0,1,2,16,5,5,19],
-"dc/dc9/ObjectGuid_8h.html#a173958393e55b3150391dfb3a6d387ed":[8,0,0,0,1,2,16,5,5,15],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2":[8,0,0,0,1,2,16,5,5,17],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f":[8,0,0,0,1,2,16,5,5,17,0],
-"dc/dc9/ObjectGuid_8h.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68":[8,0,0,0,1,2,16,5,5,17,6]
+"dc/dc8/classspell__pri__guardian__spirit.html#ab4006b00d415a94e6a49856cee7e272b":[7,0,3773,0]
 };

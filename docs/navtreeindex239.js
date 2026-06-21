@@ -1,5 +1,12 @@
 var NAVTREEINDEX239 =
 {
+"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f":[8,0,0,0,1,2,8,3,2,1],
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71":[8,0,0,0,1,2,8,3,1],
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854":[8,0,0,0,1,2,8,3,1,0],
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084":[8,0,0,0,1,2,8,3,1,1],
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd":[8,0,0,0,1,2,8,3,1,3],
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9":[8,0,0,0,1,2,8,3,1,2],
+"d9/d02/boss__illidan_8cpp.html":[8,0,0,0,1,3,7,1,2],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105":[8,0,0,0,1,3,7,1,2,21],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105a019db0559c4e5a474173f8ee45126949":[8,0,0,0,1,3,7,1,2,21,11],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105a01c768a6610094703eee37fa0490debf":[8,0,0,0,1,3,7,1,2,21,14],
@@ -242,12 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d06/classspell__q11515__fel__siphon__dummy.html":[7,0,3862],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[7,0,3862,1],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[7,0,3862,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[7,0,0,4,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,0,7,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,7,0,1,2],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[7,0,0,4,0,1,2],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,0,7,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,7,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[7,0,0,4,0,1,1]
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,0,7,0,1]
 };

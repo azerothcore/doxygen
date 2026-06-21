@@ -1,5 +1,12 @@
 var NAVTREEINDEX330 =
 {
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[7,0,13,14,4,1],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[5,0,34,14,4,3],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[7,0,13,14,4,3],
+"dc/dae/gruuls__lair_8h.html":[8,0,0,0,1,3,7,3,2],
+"dc/dae/gruuls__lair_8h.html#a02f4ee42fa7e8b8780181f1d48cecd84":[8,0,0,0,1,3,7,3,2,2],
+"dc/dae/gruuls__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,3,2,0],
+"dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,7,3,2,5],
 "dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fac19511a30a99f3d0cb9eafbce3745768":[8,0,0,0,1,3,7,3,2,5,1],
 "dc/dae/gruuls__lair_8h.html#a57d2d4154291532e405ab880a40a999fadfeb06c530d78f6c5bfdc414ae505622":[8,0,0,0,1,3,7,3,2,5,0],
 "dc/dae/gruuls__lair_8h.html#a6cc1f699014ee48a56647e53e9d1440a":[8,0,0,0,1,3,7,3,2,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX330 =
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[7,0,1810,1],
 "dc/db5/classspell__festergut__gaseous__blight.html":[7,0,2940],
 "dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[7,0,2940,1],
-"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[7,0,2940,0],
-"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[7,0,2940,3],
-"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[7,0,2940,2],
-"dc/db5/classspell__item__persistent__shield.html":[7,0,3414],
-"dc/db5/classspell__item__persistent__shield.html#a980784152abf41e91b5fe5a9c2e3d5dc":[7,0,3414,4],
-"dc/db5/classspell__item__persistent__shield.html#ac1fea3f63b5ffd742a83e8d45a26ae68":[7,0,3414,3],
-"dc/db5/classspell__item__persistent__shield.html#ad1a13141720e0e605966c2304b0f8eb9":[7,0,3414,1],
-"dc/db5/classspell__item__persistent__shield.html#af3ff786badfbb56f90bc3c8865c839bb":[7,0,3414,2]
+"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[7,0,2940,0]
 };

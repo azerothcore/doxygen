@@ -1,5 +1,7 @@
 var NAVTREEINDEX201 =
 {
+"d7/d70/structnpc__icc__spire__frostwyrm.html#a8fdfc70108e3294e0fcc3c7ed895074e":[7,0,1895,0],
+"d7/d70/structnpc__icc__spire__frostwyrm.html#ab3364130aacf675602317651a244ae2c":[7,0,1895,1],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#abfc762cea6b7e40aaaff50b933410127":[7,0,1895,3],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#ad193a9355e11ea25792e6285d375a488":[7,0,1895,7],
 "d7/d70/structnpc__invisible__tractor__beam__source.html":[7,0,1914],
@@ -58,16 +60,16 @@ var NAVTREEINDEX201 =
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html#ad89638cf5859615ba2e3a0deb6701751":[7,0,1741,0,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,0,70],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[7,0,0,58],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,0,70,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[7,0,0,58,3],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,0,70,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,0,70,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[7,0,0,58,1],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[7,0,0,58,2],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,0,70,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,0,70,2],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[7,0,0,58,4],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[7,0,0,58,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,0,70,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[7,0,0,58,5],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[7,0,0,58,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,0,70,5],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[7,0,0,58,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,0,70,0],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[7,0,0,58,0],
 "d7/d78/classnpc__plucky.html":[7,0,2057],
@@ -247,7 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a4a651cf3644baf11ad0f06cafeb35b8d":[8,0,0,0,1,3,2,10,1,7],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,10,1,4],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,10,1,4,3],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a7799016b55afde2db1b879d1a71ad9":[8,0,0,0,1,3,2,10,1,4,9],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[8,0,0,0,1,3,2,10,1,4,2],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,2,10,1,4,8]
+"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a7799016b55afde2db1b879d1a71ad9":[8,0,0,0,1,3,2,10,1,4,9]
 };
