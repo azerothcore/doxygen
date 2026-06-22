@@ -1,5 +1,9 @@
 var NAVTREEINDEX413 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[7,0,2212,0,5],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2212,0,4],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2212,0,7],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2212,0,3],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2212,0,6],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a98c18794124922e6946a82a324410837":[7,0,2212,0,1],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#ab84a35b5145c74f16dfbbe020dd9a73b":[7,0,2212,0,0],
@@ -116,8 +120,8 @@ var NAVTREEINDEX413 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[7,0,13,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,34,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[7,0,13,10,8,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,34,10,8,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[7,0,13,10,8,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,34,10,8,0],
 "df/db5/boss__meathook_8cpp.html":[8,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[8,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,4,1,1,3,4],
@@ -203,12 +207,12 @@ var NAVTREEINDEX413 =
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2189,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,34,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[7,0,13,6,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[7,0,13,6,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,34,6,50,0],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[7,0,13,6,50,0],
 "df/db9/structAddonInfo.html":[7,0,134],
 "df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[7,0,134,3],
 "df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[7,0,134,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX413 =
 "df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3061,1],
 "df/dbb/structItemDisplayInfoEntry.html":[7,0,1407],
 "df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[7,0,1407,1],
-"df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1407,0],
-"df/dbb/structboss__flame__leviathan.html":[7,0,485],
-"df/dbb/structboss__flame__leviathan.html#a1582ba1367c0fcb09b25f86c508faab5":[7,0,485,17],
-"df/dbb/structboss__flame__leviathan.html#a20fc22fdc34b25dbb16a2c8ee8b31c50":[7,0,485,6],
-"df/dbb/structboss__flame__leviathan.html#a27d83701b52888d7a80a3c48f7222d0a":[7,0,485,13]
+"df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1407,0]
 };

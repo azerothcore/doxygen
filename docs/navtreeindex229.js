@@ -1,5 +1,9 @@
 var NAVTREEINDEX229 =
 {
+"d8/d7e/OutdoorPvPNA_8cpp.html":[8,0,0,0,1,3,6,7],
+"d8/d7e/OutdoorPvPNA_8cpp.html#a03015585e7619177355fefd05f85e1c7":[8,0,0,0,1,3,6,7,2],
+"d8/d7e/OutdoorPvPNA_8cpp.html#a3428675268608e5372767fc629259d5c":[8,0,0,0,1,3,6,7,5],
+"d8/d7e/OutdoorPvPNA_8cpp.html#a37af66c813e135cc11bd1dc663b35697":[8,0,0,0,1,3,6,7,4],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a531a4e8a5291c048ad0f3b0fc64b29d9":[8,0,0,0,1,3,6,7,6],
 "d8/d7e/OutdoorPvPNA_8cpp.html#ab1d33448696056a0951a0c306a511f1e":[8,0,0,0,1,3,6,7,3],
 "d8/d7e/classspell__gen__mirrored__soul.html":[7,0,3055],
@@ -205,10 +209,10 @@ var NAVTREEINDEX229 =
 "d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[7,0,2553,4],
 "d8/d86/structServerMail.html#a818b993f72f82a022277e1c8d9160011":[7,0,2553,3],
 "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec":[7,0,2553,6],
-"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4550],
-"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4550,0],
-"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4550,1],
-"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4550,2],
+"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4551],
+"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4551,0],
+"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4551,1],
+"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4551,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d8c/structRegularGrid2D_1_1Cell.html#a13e8b2fcda561f185777e4d8b48da3f5":[7,0,2509,0,2],
 "d8/d8c/structRegularGrid2D_1_1Cell.html#a32a8b5ab15a28fb06672fcf62ac63d1e":[7,0,2509,0,0],
 "d8/d8c/structRegularGrid2D_1_1Cell.html#a8435f7d7b8f529dfe397ada59e3405a1":[7,0,2509,0,3],
-"d8/d8c/structRegularGrid2D_1_1Cell.html#af3d5ae020727d58286ef7725958063a9":[7,0,2509,0,4],
-"d8/d8c/structRegularGrid2D_1_1Cell.html#afe64d87e738675f1c8cb0fa6d440029c":[7,0,2509,0,1],
-"d8/d8d/structActiveBoatStruct.html":[7,0,129],
-"d8/d8d/structActiveBoatStruct.html#a06a0f8e5a7d63204d57992dc9623f83b":[7,0,129,8],
-"d8/d8d/structActiveBoatStruct.html#a3b6b89143c8a875cda01b000cea6a7c7":[7,0,129,5]
+"d8/d8c/structRegularGrid2D_1_1Cell.html#af3d5ae020727d58286ef7725958063a9":[7,0,2509,0,4]
 };

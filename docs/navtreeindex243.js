@@ -1,5 +1,9 @@
 var NAVTREEINDEX243 =
 {
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html":[7,0,2193,0],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a293d5fca2940432c4eea57c5de5a1fdc":[7,0,2193,0,3],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a54dee5d9b0f17bad21e8c1e275f0b222":[7,0,2193,0,1],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#aa01bf528b10ed7bbdfe9b03694e51845":[7,0,2193,0,0],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#ab4f4b11e2b250fb24de6c069c5e38208":[7,0,2193,0,2],
 "d9/d48/CinematicMgr_8cpp.html":[8,0,0,0,1,2,16,7,0],
 "d9/d48/classnpc__torloth__the__magnificent.html":[7,0,2209],
@@ -25,10 +29,10 @@ var NAVTREEINDEX243 =
 "d9/d48/structnpc__medivh__bm.html#aa5a54d0b2b069947dd59eee77cbdf21b":[7,0,1973,2],
 "d9/d48/structnpc__medivh__bm.html#ad6dbbef1b6fbccd9dd224af1a15a6c90":[7,0,1973,3],
 "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e":[7,0,1973,8],
-"d9/d49/classTriggerAI.html":[7,0,4517],
-"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4517,1],
-"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4517,2],
-"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4517,0],
+"d9/d49/classTriggerAI.html":[7,0,4518],
+"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4518,1],
+"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4518,2],
+"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4518,0],
 "d9/d4a/EscortMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,2],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html":[7,0,1354],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html#a6a661e961c2599498de0ccd41c0763b4":[7,0,1354,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d56/structboss__ambassador__flamelash.html#ae34494448f93104750da92ff20730dc1":[7,0,389,1],
 "d9/d56/structboss__ambassador__flamelash.html#afdf68272e1acd47a8c6e4a0c18f0b6bf":[7,0,389,3],
 "d9/d57/classspell__freezing__cloud__damage.html":[7,0,2952],
-"d9/d57/classspell__freezing__cloud__damage.html#a9a3e0c1a86cfc1b9747810cfca76f784":[7,0,2952,2],
-"d9/d57/classspell__freezing__cloud__damage.html#aaa7631a3d8a5476da6e051de90f34ee4":[7,0,2952,1],
-"d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b":[7,0,2952,0],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html":[7,0,1373,0],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a02e6df2528dc6be81fd4cdcd6fc69472":[7,0,1373,0,3]
+"d9/d57/classspell__freezing__cloud__damage.html#a9a3e0c1a86cfc1b9747810cfca76f784":[7,0,2952,2]
 };

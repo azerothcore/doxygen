@@ -1,5 +1,9 @@
 var NAVTREEINDEX377 =
 {
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a18d42ef83f46c23f2d20e5c921c453db":[8,0,0,0,1,2,41,9,72,10],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a26de2b5bc1367cfe3e0110aeb22bdfed":[8,0,0,0,1,2,41,9,72,3],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a32112aa624f17e0c8efc27b27795869b":[8,0,0,0,1,2,41,9,72,4],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a398a31ba383b5d5223724e088ff17557":[8,0,0,0,1,2,41,9,72,2],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a52ade377867275ef44ef4a46a21a36da":[8,0,0,0,1,2,41,9,72,5],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a57821dfb5eca57a0b065728a2d7f2ed9":[8,0,0,0,1,2,41,9,72,9],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a5b34bfdb4153eae1970d33e2eb156f47":[8,0,0,0,1,2,41,9,72,17],
@@ -245,9 +249,5 @@ var NAVTREEINDEX377 =
 "de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3574,0],
 "de/d33/classHordeChannelMgr.html":[7,0,1296],
 "de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1296,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[7,0,2933,1],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[7,0,2933,2],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[7,0,2933,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[7,0,2933,3]
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933]
 };

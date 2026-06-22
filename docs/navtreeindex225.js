@@ -1,5 +1,9 @@
 var NAVTREEINDEX225 =
 {
+"d8/d62/structLoot.html#ae54068e648f02a15fb56a75a882f6762":[7,0,1473,23],
+"d8/d62/structLoot.html#aea7caeb16e0fb3d9c9bcd7915c78de81":[7,0,1473,32],
+"d8/d62/structLoot.html#afa9a10adf695d6591d45a3afd74e0825":[7,0,1473,38],
+"d8/d63/structCreatureImmunities.html":[7,0,950],
 "d8/d63/structCreatureImmunities.html#a01290d95abdbcf391557c7d72be05ebe":[7,0,950,5],
 "d8/d63/structCreatureImmunities.html#a2b195291886ba333efd63d0edded1bb4":[7,0,950,3],
 "d8/d63/structCreatureImmunities.html#a587a27eae3c94be00522b6b84521ed3c":[7,0,950,6],
@@ -72,8 +76,8 @@ var NAVTREEINDEX225 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2609,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3509],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3509,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3509,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d74/classWorldSession.html#a08ceccea178fdfeba6445d35b1ee4b33":[4,1,19,273],
 "d8/d74/classWorldSession.html#a0916328c7af1eddb9a7fd5cd6c57c39d":[4,1,19,267],
 "d8/d74/classWorldSession.html#a0937b5176fe0541de26db2537512007c":[4,1,19,268],
-"d8/d74/classWorldSession.html#a099e000ffd0bca5636a508218d17eb8e":[4,1,19,467],
-"d8/d74/classWorldSession.html#a0aebc1b652257c35b387bdbfd995c28b":[4,1,19,146],
-"d8/d74/classWorldSession.html#a0cd09026bced483bee905cc5d9e74e19":[4,1,19,177],
-"d8/d74/classWorldSession.html#a0d4461102d29709bbacfb3176786c08c":[4,1,19,68],
-"d8/d74/classWorldSession.html#a0d7afa6ee63d3b7216287fc817da61fb":[4,1,19,174]
+"d8/d74/classWorldSession.html#a099e000ffd0bca5636a508218d17eb8e":[4,1,19,467]
 };

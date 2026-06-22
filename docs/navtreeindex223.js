@@ -1,5 +1,9 @@
 var NAVTREEINDEX223 =
 {
+"d8/d4b/classObject.html#a1ae8ab32fd7bdec9e9cc0eb4c5ba68e9":[7,0,2316,38],
+"d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296":[7,0,2316,60],
+"d8/d4b/classObject.html#a1ca2dc2f577c6c2b99f747cc08646090":[7,0,2316,39],
+"d8/d4b/classObject.html#a1d0aed1f0b94a4eeca8be2952189dc0d":[7,0,2316,12],
 "d8/d4b/classObject.html#a1dd144f55a02384903919242dbf17505":[7,0,2316,85],
 "d8/d4b/classObject.html#a1ff0a1e26222445cfe693d7ce0f8742b":[7,0,2316,24],
 "d8/d4b/classObject.html#a219c875817057a6189178a0d5b9d5a09":[7,0,2316,84],
@@ -222,8 +226,8 @@ var NAVTREEINDEX223 =
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[7,0,0,66,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,0,78,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[7,0,0,66,1],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[7,0,0,66,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[5,0,0,78,3],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[7,0,0,66,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[7,0,0,66,0],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,0,78,0],
 "d8/d54/classspell__the__black__stalker__levitate.html":[7,0,4146],
@@ -245,9 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5961b5563c1d140f31a348a1ea8dc4ba":[7,0,570,0,4],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a59f21f25fbe83c9710ac6377753ce8d3":[7,0,570,0,3],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5e733b9e5b63801a1ca2778e58fedb61":[7,0,570,0,9],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5fce156ec839c4799e3585e9674636c1":[7,0,570,0,2],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6aff4c78989d99d49d697e9900375e28":[7,0,570,0,10],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6efea02e03c4d7e97c357afbc320b5bf":[7,0,570,0,5],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0":[7,0,570,0,11],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#abeddfd1bb9b5391da578f794d6c618b7":[7,0,570,0,12]
+"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5fce156ec839c4799e3585e9674636c1":[7,0,570,0,2]
 };

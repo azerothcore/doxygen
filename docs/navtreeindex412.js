@@ -1,5 +1,9 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a2e8dba8916e56d3e3a569f2ed18d6b94":[7,0,328,129],
+"df/da7/classBattleground.html#a2ee8d9ba8855b515ababf1f7fc6f8071":[7,0,328,30],
+"df/da7/classBattleground.html#a2f6e0a247253e22869b176370ba80a6d":[7,0,328,94],
+"df/da7/classBattleground.html#a310a0625cb06a40a582b2c271b60052b":[7,0,328,119],
 "df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35":[7,0,328,48],
 "df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[7,0,328,227],
 "df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[7,0,328,46],
@@ -211,8 +215,8 @@ var NAVTREEINDEX412 =
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[7,0,13,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[7,0,13,2,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[7,0,3000],
@@ -245,9 +249,5 @@ var NAVTREEINDEX412 =
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[7,0,2070,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[7,0,2212,0],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[7,0,2212,0,2],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[7,0,2212,0,8],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[7,0,2212,0,5],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2212,0,4],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2212,0,7],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2212,0,3]
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[7,0,2212,0,8]
 };

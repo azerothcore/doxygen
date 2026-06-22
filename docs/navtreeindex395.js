@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#ad34fc11ed5bd36a8f3a84f183627deb1":[7,0,1355,0,11],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#af6c6214f8d506815afeeb2af4ad4a71b":[7,0,1355,0,12],
+"de/de9/SpellProcEquipmentTest_8cpp.html":[8,0,0,0,2,2,0,9,17],
+"de/de9/SpellProcEquipmentTest_8cpp.html#a0d10e4d4c80379c0962d1682186936ef":[8,0,0,0,2,2,0,9,17,20],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a1a26fcf5fd7d3724aa24e7a8cea3f510":[8,0,0,0,2,2,0,9,17,29],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a1c1a392431b379bb8add03a542f6266e":[8,0,0,0,2,2,0,9,17,6],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a1dedc3c517abe627a4a17990df4b62d2":[8,0,0,0,2,2,0,9,17,26],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033bead8855b4bf3f7409ae414cdc630380265":[8,0,0,0,1,3,9,9,34,2],
 "de/df3/classinstance__the__slave__pens.html":[7,0,1370],
 "de/df3/classinstance__the__slave__pens.html#a0eedcecf1ddc27e139898cacf6f48965":[7,0,1370,2],
-"de/df3/classinstance__the__slave__pens.html#a765f7b66ad3bed1828524ecb143742f2":[7,0,1370,1],
-"de/df3/classspell__voa__flaming__cinder.html":[7,0,4235],
-"de/df3/classspell__voa__flaming__cinder.html#a2ad8abf39847c79ac5bc53093c487fc0":[7,0,4235,1],
-"de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[7,0,4235,2],
-"de/df3/classspell__voa__flaming__cinder.html#a92f99501ee1582873586d2405b224f4f":[7,0,4235,3]
+"de/df3/classinstance__the__slave__pens.html#a765f7b66ad3bed1828524ecb143742f2":[7,0,1370,1]
 };

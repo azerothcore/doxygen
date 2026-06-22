@@ -4790,6 +4790,7 @@ var annotated_dup =
     [ "spell_vehicle_warhead_fuse", "d6/d66/classspell__vehicle__warhead__fuse.html", "d6/d66/classspell__vehicle__warhead__fuse" ],
     [ "spell_vem_knockback", "d3/da5/classspell__vem__knockback.html", "d3/da5/classspell__vem__knockback" ],
     [ "spell_vem_vengeance", "d6/dc9/classspell__vem__vengeance.html", "d6/dc9/classspell__vem__vengeance" ],
+    [ "spell_venture_pilot_summon", "d7/d96/classspell__venture__pilot__summon.html", "d7/d96/classspell__venture__pilot__summon" ],
     [ "spell_voa_flaming_cinder", "de/df3/classspell__voa__flaming__cinder.html", "de/df3/classspell__voa__flaming__cinder" ],
     [ "spell_voa_lightning_nova", "d2/d5f/classspell__voa__lightning__nova.html", "d2/d5f/classspell__voa__lightning__nova" ],
     [ "spell_voa_overcharge_aura", "da/d98/classspell__voa__overcharge__aura.html", "da/d98/classspell__voa__overcharge__aura" ],

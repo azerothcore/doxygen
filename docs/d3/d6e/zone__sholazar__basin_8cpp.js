@@ -18,6 +18,7 @@ var zone__sholazar__basin_8cpp =
     [ "spell_q12620_the_lifewarden_wrath", "d1/dc0/classspell__q12620__the__lifewarden__wrath.html", "d1/dc0/classspell__q12620__the__lifewarden__wrath" ],
     [ "spell_q12589_shoot_rjr", "d9/da6/classspell__q12589__shoot__rjr.html", "d9/da6/classspell__q12589__shoot__rjr" ],
     [ "spell_shango_tracks", "d0/d0a/classspell__shango__tracks.html", "d0/d0a/classspell__shango__tracks" ],
+    [ "spell_venture_pilot_summon", "d7/d96/classspell__venture__pilot__summon.html", "d7/d96/classspell__venture__pilot__summon" ],
     [ "spell_q12611_deathbolt", "dc/d1d/classspell__q12611__deathbolt.html", "dc/d1d/classspell__q12611__deathbolt" ],
     [ "AdventurousDwarf", "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04", [
       [ "QUEST_12634", "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04a17b770d9aa319a4802f31d7760760748", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX263 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4650df4228c83bc7c1bdcb059fcf81":[8,0,0,0,1,2,41,0,0,6,254],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4ce86c39fc491ab2a65efda7566c9f":[8,0,0,0,1,2,41,0,0,6,109],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a71228de916b6c96108c7689f11d6303c":[8,0,0,0,1,2,41,0,0,6,81],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[8,0,0,0,1,2,41,0,0,6,287],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a727bce2f9e6269218972b56baa1dad0f":[8,0,0,0,1,2,41,0,0,6,221],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7280def8bc657ec29c911bae511bf4e5":[8,0,0,0,1,2,41,0,0,6,29],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a732ca555f677b0f0f870e4ece0514dbe":[8,0,0,0,1,2,41,0,0,6,163],
@@ -196,10 +200,10 @@ var NAVTREEINDEX263 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[8,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[8,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[8,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[7,0,4521],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4521,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4521,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4521,0],
+"da/d2d/structTSPosition.html":[7,0,4522],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4522,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4522,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4522,0],
 "da/d2e/classnpc__varian__wrynn.html":[7,0,2262],
 "da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[7,0,2262,1],
 "da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[7,0,2262,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX263 =
 "da/d32/classBattlegroundRL.html#ad1184e3e2f09a6665d40a75006e6f863":[7,0,349,2],
 "da/d32/classBattlegroundRL.html#adb2ec6770c2b25b94f8f7dff7486d5cf":[7,0,349,6],
 "da/d32/classBattlegroundRL.html#ae2e0ccf2badc174b7f5c909f805fe669":[7,0,349,0],
-"da/d32/classspell__blood__siphon__aura.html":[7,0,2694],
-"da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[7,0,2694,2],
-"da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[7,0,2694,0],
-"da/d32/classspell__blood__siphon__aura.html#abd1254c53c04f72f848d8641affc729d":[7,0,2694,3],
-"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[7,0,2694,1]
+"da/d32/classspell__blood__siphon__aura.html":[7,0,2694]
 };

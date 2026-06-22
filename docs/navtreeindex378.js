@@ -1,5 +1,9 @@
 var NAVTREEINDEX378 =
 {
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[7,0,2933,1],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[7,0,2933,2],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[7,0,2933,0],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[7,0,2933,3],
 "de/d33/classspell__item__darkmoon__card__illusion.html":[7,0,3329],
 "de/d33/classspell__item__darkmoon__card__illusion.html#a13f11ec412f18d805282b3810aff5e90":[7,0,3329,1],
 "de/d33/classspell__item__darkmoon__card__illusion.html#a2863c81b02f0b08430d9e713e7b644f7":[7,0,3329,3],
@@ -77,9 +81,9 @@ var NAVTREEINDEX378 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,838,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[7,0,838,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,838,10],
-"de/d34/structSpellDurationEntry.html":[7,0,4382],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4382,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4382,0],
+"de/d34/structSpellDurationEntry.html":[7,0,4383],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4383,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4383,0],
 "de/d36/classnpc__mrfloppy.html":[7,0,1989],
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[7,0,1989,1],
 "de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[7,0,1989,2],
@@ -138,10 +142,10 @@ var NAVTREEINDEX378 =
 "de/d3a/classat__karazhan__mirkblood__approach.html":[7,0,237],
 "de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[7,0,237,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[7,0,237,1],
-"de/d3a/classspell__warlords__rage.html":[7,0,4289],
-"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[7,0,4289,0],
-"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[7,0,4289,2],
-"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[7,0,4289,1],
+"de/d3a/classspell__warlords__rage.html":[7,0,4290],
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[7,0,4290,0],
+"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[7,0,4290,2],
+"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[7,0,4290,1],
 "de/d3b/MapBuilder_8h.html":[8,0,0,0,3,2,5],
 "de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[8,0,0,0,3,2,5,5],
 "de/d3b/classMotionMaster.html":[7,0,1553],
@@ -245,9 +249,5 @@ var NAVTREEINDEX378 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2180,0,18],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[7,0,2180,0,20],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[7,0,2180,0,15],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[7,0,2180,0,13],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[7,0,2180,0,9],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abe0cf3f5e154edd5b0005c62a70dfb06":[7,0,2180,0,23],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[7,0,2180,0,11],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[7,0,2180,0,19]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[7,0,2180,0,13]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX216 =
 {
+"d7/def/classboss__four__horsemen.html#a6bcaf9a12d854a322f50ac2f98dbb72b":[7,0,491,1],
+"d7/def/classspell__the__lich__king__vile__spirits__visual.html":[7,0,4184],
+"d7/def/classspell__the__lich__king__vile__spirits__visual.html#a3c84b7044f448a5596e18f72e7b2f11a":[7,0,4184,1],
+"d7/def/classspell__the__lich__king__vile__spirits__visual.html#aafab48e58a2eb18c286f71fa907e9bc8":[7,0,4184,0],
 "d7/def/classspell__the__lich__king__vile__spirits__visual.html#ad3900c969dfb05a61ebc750eb3425bc0":[7,0,4184,2],
 "d7/df0/classevent__commandscript.html":[7,0,1052],
 "d7/df0/classevent__commandscript.html#a1322b3206a1846dc0404a3fb5c74e025":[7,0,1052,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX216 =
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cab77bbfbe52ce8a4876d6c762735cfbc9":[8,0,0,0,1,2,16,10,6,7,16],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac0d940f97165e877e8c3ec0fed5074c6":[8,0,0,0,1,2,16,10,6,7,6],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac2743246d577352cdae533578e3c8c1b":[8,0,0,0,1,2,16,10,6,7,4],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac5b4b27f0234cd99d2a201732a392b85":[8,0,0,0,1,2,16,10,6,7,28],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac6f4bdb76e70e28c403bbd02bf4a969d":[8,0,0,0,1,2,16,10,6,7,17],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cad1fdce3b8651f9cc379452c672b19245":[8,0,0,0,1,2,16,10,6,7,12],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadc094fb8dc4c8a87fffe3eac62b84ad4":[8,0,0,0,1,2,16,10,6,7,22],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cadcc1e9eb63ae2e0530c35f95767cfa5a":[8,0,0,0,1,2,16,10,6,7,7]
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac5b4b27f0234cd99d2a201732a392b85":[8,0,0,0,1,2,16,10,6,7,28]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX295 =
 {
+"db/d80/structinstance__blackrock__spire.html#aea77cb0fea68db2d18ee8ef03b4de448":[7,0,1317,6],
+"db/d80/structinstance__blackrock__spire.html#afa2d74c5fe90b4b1307ee281af9e21c1":[7,0,1317,29],
+"db/d81/classspell__dk__glyph__of__scourge__strike.html":[7,0,2799],
+"db/d81/classspell__dk__glyph__of__scourge__strike.html#a12912ba28210850b8bc0b568357794af":[7,0,2799,3],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a1f364414b053ffc92c2a219b713e8c38":[7,0,2799,2],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a9eebffe3b716f7de63bfd6617e6ecf3b":[7,0,2799,1],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#afc5208979ec0ce81e2bb88b3bd429012":[7,0,2799,0],
@@ -215,13 +219,13 @@ var NAVTREEINDEX295 =
 "db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[7,0,3625,5],
 "db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[7,0,3625,0],
 "db/d88/classspell__mc__play__dead__aura.html#abec6d69d331e9952c129dc4cc24f0f13":[7,0,3625,3],
-"db/d88/structTimeTracker.html":[7,0,4492],
-"db/d88/structTimeTracker.html#a2009e98647f04c20cb3064e1e9e9a611":[7,0,4492,4],
-"db/d88/structTimeTracker.html#a2b9f585de223c1051136b10b03a27684":[7,0,4492,0],
-"db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[7,0,4492,3],
-"db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad":[7,0,4492,2],
-"db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[7,0,4492,1],
-"db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[7,0,4492,5],
+"db/d88/structTimeTracker.html":[7,0,4493],
+"db/d88/structTimeTracker.html#a2009e98647f04c20cb3064e1e9e9a611":[7,0,4493,4],
+"db/d88/structTimeTracker.html#a2b9f585de223c1051136b10b03a27684":[7,0,4493,0],
+"db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[7,0,4493,3],
+"db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad":[7,0,4493,2],
+"db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[7,0,4493,1],
+"db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[7,0,4493,5],
 "db/d88/utgarde__keep_8cpp.html":[8,0,0,0,1,3,5,10,0,4],
 "db/d88/utgarde__keep_8cpp.html#a0a556a898032cb18eabb6df4a3f482e1":[8,0,0,0,1,3,5,10,0,4,8],
 "db/d88/utgarde__keep_8cpp.html#a1a48021562fd573e8e0e970124788afd":[8,0,0,0,1,3,5,10,0,4,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX295 =
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b":[8,0,0,0,1,3,5,10,0,4,6,0],
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[8,0,0,0,1,3,5,10,0,4,10],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[8,0,0,0,1,3,5,10,0,4,5],
-"db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[8,0,0,0,1,3,5,10,0,4,5,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[7,0,13,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2]
+"db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[8,0,0,0,1,3,5,10,0,4,5,0]
 };
