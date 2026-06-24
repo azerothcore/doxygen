@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1825ac73734c3d058855facde7eb3b50":[7,0,1117,80],
+"dd/d3b/structGameObjectTemplate.html#a18f755bd8a231eb200e091809e2622dd":[7,0,1117,94],
 "dd/d3b/structGameObjectTemplate.html#a19610d1dbeacd9f5ee907fa427d6663d":[7,0,1117,0],
 "dd/d3b/structGameObjectTemplate.html#a19cecd1327a0345d91f67ff94ed2a56f":[7,0,1117,15],
 "dd/d3b/structGameObjectTemplate.html#a1a879956168a8be401faa15827f91477":[7,0,1117,61],
@@ -191,16 +193,16 @@ var NAVTREEINDEX342 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[8,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[8,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[7,0,11,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1379,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[7,0,1970,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1970,0,5],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[7,0,1970,0,1],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[7,0,1970,0,3],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[7,0,1970,0,7],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[7,0,1970,0,2]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[7,0,1970,0,3]
 };

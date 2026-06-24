@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[7,0,3688,0],
+"df/d41/classSocketMgr.html":[7,0,2594],
+"df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[7,0,2594,12],
 "df/d41/classSocketMgr.html#a7582b914e42af5d67e4a4e968fd99b4a":[7,0,2594,1],
 "df/d41/classSocketMgr.html#a7966832a9ef2151033ac9eeeadffff34":[7,0,2594,8],
 "df/d41/classSocketMgr.html#a81fc5b0c7bc9750b67ca607ae0cf2c81":[7,0,2594,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[7,0,1503,7],
 "df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[7,0,1503,1],
 "df/d53/classThreatReferenceImpl.html":[7,0,4488],
-"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4488,1],
-"df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4488,0],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html":[5,0,0,7,0],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a0803de4bbc9edad4f5bb2afc3c242dca":[5,0,0,7,0,10]
+"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4488,1]
 };

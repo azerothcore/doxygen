@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"de/dc1/classadt__MCNK.html#a5953077720c95f2de92b965ac87b0cf9":[7,0,140,35],
+"de/dc1/classadt__MCNK.html#a627b6a73173e2b43a9186d4dabee1fe9":[7,0,140,29],
+"de/dc1/classadt__MCNK.html#a66e1b90532822cdfd7e1d2b6f4cdf053":[7,0,140,2],
 "de/dc1/classadt__MCNK.html#a6a8bcea16beff9628c0a7410ad176466":[7,0,140,34],
 "de/dc1/classadt__MCNK.html#a70cc1d3f4f426309f7c01986958f226d":[7,0,140,31],
 "de/dc1/classadt__MCNK.html#a76f67ef887fec5f85c2a482d6b7c7d48":[7,0,140,23],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ac589db56562987de5bbed27a2bead49f":[7,0,1663,0,3],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#af5d8717572176409eca01ae214910c7f":[7,0,1663,0,9],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html":[7,0,3795],
-"de/dd7/classspell__pri__t10__heal__2p__bonus.html#a0c7c91113f0a4a289dcc5e53450a635a":[7,0,3795,2],
-"de/dd7/classspell__pri__t10__heal__2p__bonus.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2":[7,0,3795,1],
-"de/dd7/classspell__pri__t10__heal__2p__bonus.html#aa4639d482cfda229e0a6eaa53c320ea8":[7,0,3795,4],
-"de/dd7/classspell__pri__t10__heal__2p__bonus.html#ab37749506a197a97cb3cc567cdff199c":[7,0,3795,0]
+"de/dd7/classspell__pri__t10__heal__2p__bonus.html#a0c7c91113f0a4a289dcc5e53450a635a":[7,0,3795,2]
 };

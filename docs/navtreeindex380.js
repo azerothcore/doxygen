@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[7,0,2222,0],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2222,0,4],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[7,0,2222,0,1],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a819e987eeb8eb8d580a5ad22001a641d":[7,0,2222,0,3],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ab41fdff3612b29e7d0d94fb6aaa8c085":[7,0,2222,0,6],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ad8fc713bb9673e74bfd11bc653c71587":[7,0,2222,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "de/d4f/structboss__razorgore.html#af08b3c1fc68a1374606ea4c5f9dc7ab0":[7,0,683,13],
 "de/d4f/structboss__razorgore.html#af5af46c895361c9eceb4e82d45b3243a":[7,0,683,10],
 "de/d52/structboss__malygos.html":[7,0,626],
-"de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306":[7,0,626,12],
-"de/d52/structboss__malygos.html#a110748ba104014f161c8bb51bb6ba566":[7,0,626,7],
-"de/d52/structboss__malygos.html#a1a838052f9465530a586132a24c7ec5b":[7,0,626,16],
-"de/d52/structboss__malygos.html#a28a85c719c91835b5f6f52d267990c0c":[7,0,626,2]
+"de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306":[7,0,626,12]
 };

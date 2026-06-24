@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ead41fae04f49e4f13f7a0cdd8231a5c23":[8,0,0,0,1,3,5,8,2,6,2,0],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eadfdde38b50c8ebe99daea31afb11415d":[8,0,0,0,1,3,5,8,2,6,2,5],
+"df/d29/oculus_8h.html#a43a1dd34b31d53516e253abdd0fb4ea5":[8,0,0,0,1,3,5,8,2,6,6],
 "df/d29/oculus_8h.html#a43a1dd34b31d53516e253abdd0fb4ea5abd041da1251b7871ca94f63c74114a76":[8,0,0,0,1,3,5,8,2,6,6,0],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,5,8,2,6,7],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58":[8,0,0,0,1,3,5,8,2,6,7,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "df/d32/classspell__item__gnomish__death__ray.html":[7,0,3365],
 "df/d32/classspell__item__gnomish__death__ray.html#a7a8016e1403caa0432242c5c3240f107":[7,0,3365,0],
 "df/d32/classspell__item__gnomish__death__ray.html#ab14aedfdb61d54334f60e57968fcf081":[7,0,3365,3],
-"df/d32/classspell__item__gnomish__death__ray.html#abd09f5df3f31af619f24214f90791a53":[7,0,3365,2],
-"df/d32/classspell__item__gnomish__death__ray.html#ae2d2de36cceb037006eb4126f8e1778c":[7,0,3365,1],
-"df/d32/classspell__midsummer__juggling__torch.html":[7,0,3628],
-"df/d32/classspell__midsummer__juggling__torch.html#a1ffdc199a04bd6ead1a09bc977ae964c":[7,0,3628,2]
+"df/d32/classspell__item__gnomish__death__ray.html#abd09f5df3f31af619f24214f90791a53":[7,0,3365,2]
 };

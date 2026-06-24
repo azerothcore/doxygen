@@ -1,5 +1,8 @@
 var NAVTREEINDEX396 =
 {
+"de/df3/classinstance__the__slave__pens.html":[7,0,1370],
+"de/df3/classinstance__the__slave__pens.html#a0eedcecf1ddc27e139898cacf6f48965":[7,0,1370,2],
+"de/df3/classinstance__the__slave__pens.html#a765f7b66ad3bed1828524ecb143742f2":[7,0,1370,1],
 "de/df3/classspell__voa__flaming__cinder.html":[7,0,4236],
 "de/df3/classspell__voa__flaming__cinder.html#a2ad8abf39847c79ac5bc53093c487fc0":[7,0,4236,1],
 "de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[7,0,4236,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX396 =
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ac693bf817c41351bbf4c1c4c625940fd":[5,0,0,8,9,13],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ae96a0500880d30109c61efd6450453de":[5,0,0,8,9,17],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#ae96a0500880d30109c61efd6450453de":[7,0,0,5,9,17],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#aedfd7b158be9825a58db629e5253422e":[7,0,0,5,9,6],
-"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#aedfd7b158be9825a58db629e5253422e":[5,0,0,8,9,6],
-"df/d04/classspell__putricide__ooze__channel.html":[7,0,3816],
-"df/d04/classspell__putricide__ooze__channel.html#a0dab3a666abd6d8c1486a6e71ce98c20":[7,0,3816,0]
+"df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#aedfd7b158be9825a58db629e5253422e":[7,0,0,5,9,6]
 };

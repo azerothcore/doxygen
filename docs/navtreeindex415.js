@@ -1,5 +1,8 @@
 var NAVTREEINDEX415 =
 {
+"df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[7,0,956,11],
+"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[7,0,956,1],
+"df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[7,0,956,6],
 "df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[7,0,956,4],
 "df/dc9/classCreatureScript.html#a41562245c4a44843363d6b0ce32ce48d":[7,0,956,2],
 "df/dc9/classCreatureScript.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b":[7,0,956,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX415 =
 "df/dd9/classUnit.html#a01b0b41f37931730378362b09a9b776c":[7,0,4534,448],
 "df/dd9/classUnit.html#a01fdf823f9dc03df6c13c77b37d2708d":[7,0,4534,312],
 "df/dd9/classUnit.html#a022c8f42084e444ddc9647a97a45bb82":[7,0,4534,328],
-"df/dd9/classUnit.html#a022e7db5320778a8a0c78cb43af1a23b":[7,0,4534,977],
-"df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5":[7,0,4534,140],
-"df/dd9/classUnit.html#a02b722d160039f678fbf62f0763a9c8b":[7,0,4534,642],
-"df/dd9/classUnit.html#a02ddd87e1f7a4af2f28fc1680c66e715":[7,0,4534,443]
+"df/dd9/classUnit.html#a022e7db5320778a8a0c78cb43af1a23b":[7,0,4534,977]
 };

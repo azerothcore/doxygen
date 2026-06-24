@@ -1,5 +1,8 @@
 var NAVTREEINDEX413 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[7,0,2212,0],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[7,0,2212,0,2],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[7,0,2212,0,8],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[7,0,2212,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2212,0,4],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2212,0,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX413 =
 "df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[7,0,3061,0],
 "df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[7,0,3061,3],
 "df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[7,0,3061,2],
-"df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3061,1],
-"df/dbb/structItemDisplayInfoEntry.html":[7,0,1407],
-"df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[7,0,1407,1],
-"df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1407,0]
+"df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3061,1]
 };

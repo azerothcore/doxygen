@@ -1,5 +1,8 @@
 var NAVTREEINDEX382 =
 {
+"de/d5e/classnpc__gilthares.html#a018cc6240a79216acb371241f63e3234":[7,0,1830,3],
+"de/d5e/classnpc__gilthares.html#a96293e28237a092c64f6a91d91bc7ff3":[7,0,1830,2],
+"de/d5e/classnpc__gilthares.html#af1e0746350b32b68825710e1c3ed91a5":[7,0,1830,1],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[7,0,1833,0],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[7,0,1833,0,6],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a35be0135b77a3e62ac8d421910cf0674":[7,0,1833,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX382 =
 "de/d6c/classspell__item__death__choice.html":[7,0,3332],
 "de/d6c/classspell__item__death__choice.html#a0d30a007e3f67b78197ac0cae83e2976":[7,0,3332,1],
 "de/d6c/classspell__item__death__choice.html#aad337f75e2132940ed3cfef209e1c73b":[7,0,3332,2],
-"de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645":[7,0,3332,0],
-"de/d6c/classspell__item__death__choice.html#afc4741f952c253924de7397d991a24ac":[7,0,3332,3],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,17,19],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[7,0,5,19]
+"de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645":[7,0,3332,0]
 };

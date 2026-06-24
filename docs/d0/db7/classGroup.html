@@ -307,12 +307,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afa71bcd7cdcbdce67b3c682d552b6062"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7f6d43ec13639c97fc25362e6fe601d3" id="r_a7f6d43ec13639c97fc25362e6fe601d3"><td class="memItemLeft" align="right" valign="top">Rolls::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#a7f6d43ec13639c97fc25362e6fe601d3">GetRoll</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> Guid)</td></tr>
 <tr class="separator:a7f6d43ec13639c97fc25362e6fe601d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abec207c245785df0c5cb718d4bfe56ad" id="r_abec207c245785df0c5cb718d4bfe56ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#abec207c245785df0c5cb718d4bfe56ad">CountTheRoll</a> (Rolls::iterator roll, <a class="el" href="../../d7/db0/classMap.html">Map</a> *allowedMap)</td></tr>
-<tr class="separator:abec207c245785df0c5cb718d4bfe56ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0e38fd954fa8286caeb58fa32204e55" id="r_ab0e38fd954fa8286caeb58fa32204e55"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#ab0e38fd954fa8286caeb58fa32204e55">CountTheRoll</a> (Rolls::iterator roll)</td></tr>
+<tr class="separator:ab0e38fd954fa8286caeb58fa32204e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac427434ff8da66a58cfe8dfe70a64222" id="r_ac427434ff8da66a58cfe8dfe70a64222"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#ac427434ff8da66a58cfe8dfe70a64222">CountRollVote</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> playerGUID, <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> Guid, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Choise)</td></tr>
 <tr class="separator:ac427434ff8da66a58cfe8dfe70a64222"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a9705a4f02e3ac97c7c11b064554a08" id="r_a0a9705a4f02e3ac97c7c11b064554a08"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#a0a9705a4f02e3ac97c7c11b064554a08">EndRoll</a> (<a class="el" href="../../d8/d62/structLoot.html">Loot</a> *loot, <a class="el" href="../../d7/db0/classMap.html">Map</a> *allowedMap)</td></tr>
-<tr class="separator:a0a9705a4f02e3ac97c7c11b064554a08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09e43c2d6d14c94d7196b4a18190b9ad" id="r_a09e43c2d6d14c94d7196b4a18190b9ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#a09e43c2d6d14c94d7196b4a18190b9ad">EndRoll</a> (<a class="el" href="../../d8/d62/structLoot.html">Loot</a> *loot)</td></tr>
+<tr class="separator:a09e43c2d6d14c94d7196b4a18190b9ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac61415d4a06851fdf5747a039ef2e41f" id="r_ac61415d4a06851fdf5747a039ef2e41f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#ac61415d4a06851fdf5747a039ef2e41f">RemovePlayerFromRolls</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid)</td></tr>
 <tr class="separator:ac61415d4a06851fdf5747a039ef2e41f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a84fd1b95882fe710133f015e3c1b59fd" id="r_a84fd1b95882fe710133f015e3c1b59fd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db7/classGroup.html#a84fd1b95882fe710133f015e3c1b59fd">ResetMaxEnchantingLevel</a> ()</td></tr>
@@ -1333,7 +1333,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00250">GetFirstMember()</a>, <a class="el" href="../../#l02509">Player::GetGroup()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00036">GroupReference::next()</a>, and <a class="el" href="../../#l05701">Player::SendDirectMessage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00718">ChangeLeader()</a>, <a class="el" href="../../#l02128">DoMinimapPing()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00791">WorldSession::HandleRaidReadyCheckFinishedOpcode()</a>, <a class="el" href="../../#l00747">WorldSession::HandleRaidReadyCheckOpcode()</a>, <a class="el" href="../../#l13986">Unit::Kill()</a>, <a class="el" href="../../#l00973">SendLooter()</a>, <a class="el" href="../../#l04817">Player::SendNewItem()</a>, and <a class="el" href="../../#l01689">SetTargetIcon()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00718">ChangeLeader()</a>, <a class="el" href="../../#l02128">DoMinimapPing()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00791">WorldSession::HandleRaidReadyCheckFinishedOpcode()</a>, <a class="el" href="../../#l00747">WorldSession::HandleRaidReadyCheckOpcode()</a>, <a class="el" href="../../#l13997">Unit::Kill()</a>, <a class="el" href="../../#l00973">SendLooter()</a>, <a class="el" href="../../#l04817">Player::SendNewItem()</a>, and <a class="el" href="../../#l01689">SetTargetIcon()</a>.</p>
 
 </div>
 </div>
@@ -1972,7 +1972,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1407</span> </div>
 <div class="line"><span class="lineno"> 1408</span>    <span class="keywordflow">if</span> (roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#aeeac3fb83c410a3d256c0cbf45f48e95">totalPass</a> + roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> + roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> &gt;= roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6a6ea6885bc68272520c018a83b2106f">totalPlayersRolling</a>)</div>
 <div class="line"><span class="lineno"> 1409</span>    {</div>
-<div class="line"><span class="lineno"> 1410</span>        <a class="code hl_function" href="../../d0/db7/classGroup.html#abec207c245785df0c5cb718d4bfe56ad">CountTheRoll</a>(rollI, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno"> 1410</span>        <a class="code hl_function" href="../../d0/db7/classGroup.html#ab0e38fd954fa8286caeb58fa32204e55">CountTheRoll</a>(rollI);</div>
 <div class="line"><span class="lineno"> 1411</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1412</span>    }</div>
 <div class="line"><span class="lineno"> 1413</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
@@ -1987,7 +1987,7 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="aLootMgr_8h_html_a5d76fe3c2e47015dbdeb747f3c4dfb5aa80420a7e03a1ec9e4383cfe5ba8a1010"><div class="ttname"><a href="../../d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa80420a7e03a1ec9e4383cfe5ba8a1010">ROLL_DISENCHANT</a></div><div class="ttdeci">@ ROLL_DISENCHANT</div><div class="ttdef"><b>Definition</b> LootMgr.h:36</div></div>
 <div class="ttc" id="aclassGroup_html_a4f817cf022dabb4edba4f83eaa5edd1c"><div class="ttname"><a href="../../d0/db7/classGroup.html#a4f817cf022dabb4edba4f83eaa5edd1c">Group::SendLootRoll</a></div><div class="ttdeci">void SendLootRoll(ObjectGuid SourceGuid, ObjectGuid TargetGuid, uint8 RollNumber, uint8 RollType, const Roll &amp;r, bool autoPass=false)</div><div class="ttdef"><b>Definition</b> Group.cpp:905</div></div>
 <div class="ttc" id="aclassGroup_html_a7f6d43ec13639c97fc25362e6fe601d3"><div class="ttname"><a href="../../d0/db7/classGroup.html#a7f6d43ec13639c97fc25362e6fe601d3">Group::GetRoll</a></div><div class="ttdeci">Rolls::iterator GetRoll(ObjectGuid Guid)</div><div class="ttdef"><b>Definition</b> Group.cpp:2538</div></div>
-<div class="ttc" id="aclassGroup_html_abec207c245785df0c5cb718d4bfe56ad"><div class="ttname"><a href="../../d0/db7/classGroup.html#abec207c245785df0c5cb718d4bfe56ad">Group::CountTheRoll</a></div><div class="ttdeci">void CountTheRoll(Rolls::iterator roll, Map *allowedMap)</div><div class="ttdef"><b>Definition</b> Group.cpp:1462</div></div>
+<div class="ttc" id="aclassGroup_html_ab0e38fd954fa8286caeb58fa32204e55"><div class="ttname"><a href="../../d0/db7/classGroup.html#ab0e38fd954fa8286caeb58fa32204e55">Group::CountTheRoll</a></div><div class="ttdeci">void CountTheRoll(Rolls::iterator roll)</div><div class="ttdef"><b>Definition</b> Group.cpp:1462</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:120</div></div>
 <div class="ttc" id="aclassRoll_html_a6187dd03a275f9e51d489709c9cf6d13"><div class="ttname"><a href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">Roll::totalGreed</a></div><div class="ttdeci">uint8 totalGreed</div><div class="ttdef"><b>Definition</b> Group.h:167</div></div>
 <div class="ttc" id="aclassRoll_html_a6a6ea6885bc68272520c018a83b2106f"><div class="ttname"><a href="../../d5/d0a/classRoll.html#a6a6ea6885bc68272520c018a83b2106f">Roll::totalPlayersRolling</a></div><div class="ttdeci">uint8 totalPlayersRolling</div><div class="ttdef"><b>Definition</b> Group.h:165</div></div>
@@ -2003,8 +2003,8 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="abec207c245785df0c5cb718d4bfe56ad" name="abec207c245785df0c5cb718d4bfe56ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abec207c245785df0c5cb718d4bfe56ad">&#9670;&#160;</a></span>CountTheRoll()</h2>
+<a id="ab0e38fd954fa8286caeb58fa32204e55" name="ab0e38fd954fa8286caeb58fa32204e55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0e38fd954fa8286caeb58fa32204e55">&#9670;&#160;</a></span>CountTheRoll()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2013,18 +2013,8 @@ Protected Attributes</h2></td></tr>
           <td class="memname">void Group::CountTheRoll </td>
           <td>(</td>
           <td class="paramtype">Rolls::iterator&#160;</td>
-          <td class="paramname"><em>roll</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>roll</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/db0/classMap.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>allowedMap</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2052,7 +2042,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1484</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 1485</span> </div>
 <div class="line"><span class="lineno"> 1486</span>                player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(itr-&gt;first);</div>
-<div class="line"><span class="lineno"> 1487</span>                <span class="keywordflow">if</span> (!player || (allowedMap != <span class="keyword">nullptr</span> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() != allowedMap))</div>
+<div class="line"><span class="lineno"> 1487</span>                <span class="keywordflow">if</span> (!player)</div>
 <div class="line"><span class="lineno"> 1488</span>                {</div>
 <div class="line"><span class="lineno"> 1489</span>                    --roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a>;</div>
 <div class="line"><span class="lineno"> 1490</span>                    <span class="keywordflow">continue</span>;</div>
@@ -2116,7 +2106,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1548</span>                roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> = 0;</div>
 <div class="line"><span class="lineno"> 1549</span>        }</div>
 <div class="line"><span class="lineno"> 1550</span>    }</div>
-<div class="line"><span class="lineno"> 1551</span>    <span class="keywordflow">if</span> (roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> == 0 &amp;&amp; roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> &gt; 0) <span class="comment">// pussywizard: if (roll-&gt;totalNeed == 0 &amp;&amp; ...), not else if, because numbers can be modified above if player is on a different map</span></div>
+<div class="line"><span class="lineno"> 1551</span>    <span class="keywordflow">if</span> (roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> == 0 &amp;&amp; roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> &gt; 0) <span class="comment">// if (roll-&gt;totalNeed == 0 &amp;&amp; ...), not else if, because totalNeed can be decremented above when a needing player is offline</span></div>
 <div class="line"><span class="lineno"> 1552</span>    {</div>
 <div class="line"><span class="lineno"> 1553</span>        <span class="keywordflow">if</span> (!roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#aff97626c4d749bf0acbd165f289b5a57">playerVote</a>.empty())</div>
 <div class="line"><span class="lineno"> 1554</span>        {</div>
@@ -2132,7 +2122,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1564</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 1565</span> </div>
 <div class="line"><span class="lineno"> 1566</span>                player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(itr-&gt;first);</div>
-<div class="line"><span class="lineno"> 1567</span>                <span class="keywordflow">if</span> (!player || (allowedMap != <span class="keyword">nullptr</span> &amp;&amp; player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() != allowedMap))</div>
+<div class="line"><span class="lineno"> 1567</span>                <span class="keywordflow">if</span> (!player)</div>
 <div class="line"><span class="lineno"> 1568</span>                {</div>
 <div class="line"><span class="lineno"> 1569</span>                    --roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a>;</div>
 <div class="line"><span class="lineno"> 1570</span>                    <span class="keywordflow">continue</span>;</div>
@@ -2230,7 +2220,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1662</span>                roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> = 0;</div>
 <div class="line"><span class="lineno"> 1663</span>        }</div>
 <div class="line"><span class="lineno"> 1664</span>    }</div>
-<div class="line"><span class="lineno"> 1665</span>    <span class="keywordflow">if</span> (roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> == 0 &amp;&amp; roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> == 0) <span class="comment">// pussywizard: if, not else, because numbers can be modified above if player is on a different map</span></div>
+<div class="line"><span class="lineno"> 1665</span>    <span class="keywordflow">if</span> (roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb">totalNeed</a> == 0 &amp;&amp; roll-&gt;<a class="code hl_variable" href="../../d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13">totalGreed</a> == 0) <span class="comment">// if, not else, because the totals can be decremented above when a rolling player is offline</span></div>
 <div class="line"><span class="lineno"> 1666</span>    {</div>
 <div class="line"><span class="lineno"> 1667</span>        <a class="code hl_function" href="../../d0/db7/classGroup.html#a19c4ec51d2dbbd1f17157dec458ea129">SendLootAllPassed</a>(*roll);</div>
 <div class="line"><span class="lineno"> 1668</span> </div>
@@ -2312,7 +2302,7 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="astructLoot_html_ae54068e648f02a15fb56a75a882f6762"><div class="ttname"><a href="../../d8/d62/structLoot.html#ae54068e648f02a15fb56a75a882f6762">Loot::NotifyItemRemoved</a></div><div class="ttdeci">void NotifyItemRemoved(uint8 lootIndex)</div><div class="ttdef"><b>Definition</b> LootMgr.cpp:743</div></div>
 <div class="ttc" id="astructLoot_html_afa9a10adf695d6591d45a3afd74e0825"><div class="ttname"><a href="../../d8/d62/structLoot.html#afa9a10adf695d6591d45a3afd74e0825">Loot::quest_items</a></div><div class="ttdeci">std::vector&lt; LootItem &gt; quest_items</div><div class="ttdef"><b>Definition</b> LootMgr.h:321</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">ACHIEVEMENT_CRITERIA_TYPE_CAST_SPELL</a>, <a class="el" href="../../#l00165">ACHIEVEMENT_CRITERIA_TYPE_ROLL_GREED_ON_LOOT</a>, <a class="el" href="../../#l00164">ACHIEVEMENT_CRITERIA_TYPE_ROLL_NEED_ON_LOOT</a>, <a class="el" href="../../#l13606">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01300">Player::CanStoreNewItem()</a>, <a class="el" href="../../#l00384">CONFIG_LFG_MAIL_ITEM_ON_FULL_INVENTORY</a>, <a class="el" href="../../#l00162">LootItem::count</a>, <a class="el" href="../../#l00053">DISENCHANT</a>, <a class="el" href="../../#l00690">ItemTemplate::DisenchantID</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00097">EQUIP_ERR_INVENTORY_FULL</a>, <a class="el" href="../../#l00047">EQUIP_ERR_OK</a>, <a class="el" href="../../#l00540">Loot::FillLoot()</a>, <a class="el" href="../../#l00626">WorldObject::FindMap()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l01567">GAMEOBJECT_TYPE_CHEST</a>, <a class="el" href="../../#l00181">LootItem::GetAllowedLooters()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00061">Roll::getLoot()</a>, <a class="el" href="../../#l00886">Loot::GetMaxSlotInLootFor()</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00052">GREED</a>, <a class="el" href="../../#l00164">LootItem::is_blocked</a>, <a class="el" href="../../#l00163">LootItem::is_looted</a>, <a class="el" href="../../#l02340">isLFGGroup()</a>, <a class="el" href="../../#l00368">Loot::isLooted()</a>, <a class="el" href="../../#l00079">Reference&lt; TO, FROM &gt;::isValid()</a>, <a class="el" href="../../#l00159">Roll::itemid</a>, <a class="el" href="../../#l00155">LootItem::itemid</a>, <a class="el" href="../../#l00320">Loot::items</a>, <a class="el" href="../../#l00169">Roll::itemSlot</a>, <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913">LootTemplates_Disenchant</a>, <a class="el" href="../../#l00135">MAIL_ITEM_ON_FULL_INVENTORY_EVERYWHERE</a>, <a class="el" href="../../#l00134">MAIL_ITEM_ON_FULL_INVENTORY_LFG_ONLY</a>, <a class="el" href="../../#l00051">NEED</a>, <a class="el" href="../../#l00055">NOT_VALID</a>, <a class="el" href="../../#l00743">Loot::NotifyItemRemoved()</a>, <a class="el" href="../../#l00040">NULL_BAG</a>, <a class="el" href="../../#l00041">NULL_SLOT</a>, <a class="el" href="../../#l00164">Roll::playerVote</a>, <a class="el" href="../../#l00321">Loot::quest_items</a>, <a class="el" href="../../#l00158">LootItem::randomPropertyId</a>, <a class="el" href="../../#l00034">ROLL_NEED</a>, <a class="el" href="../../#l00361">RollId</a>, <a class="el" href="../../#l00161">LootItem::rollWinnerGUID</a>, <a class="el" href="../../#l04093">Player::SendEquipError()</a>, <a class="el" href="../../#l00432">Player::SendItemRetrievalMail()</a>, <a class="el" href="../../#l00952">SendLootAllPassed()</a>, <a class="el" href="../../#l00905">SendLootRoll()</a>, <a class="el" href="../../#l00929">SendLootRollWon()</a>, <a class="el" href="../../#l00066">SendRollWonItemViaMail()</a>, <a class="el" href="../../#l01732">sObjectMgr</a>, <a class="el" href="../../#l00740">sScriptMgr</a>, <a class="el" href="../../#l02601">Player::StoreNewItem()</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00167">Roll::totalGreed</a>, <a class="el" href="../../#l00166">Roll::totalNeed</a>, <a class="el" href="../../#l00034">GameObjectTemplate::type</a>, <a class="el" href="../../#l00323">Loot::unlootedCount</a>, <a class="el" href="../../#l02174">Player::UpdateAchievementCriteria()</a>, <a class="el" href="../../#l02164">Player::UpdateLootAchievements()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00143">ACHIEVEMENT_CRITERIA_TYPE_CAST_SPELL</a>, <a class="el" href="../../#l00165">ACHIEVEMENT_CRITERIA_TYPE_ROLL_GREED_ON_LOOT</a>, <a class="el" href="../../#l00164">ACHIEVEMENT_CRITERIA_TYPE_ROLL_NEED_ON_LOOT</a>, <a class="el" href="../../#l13606">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01300">Player::CanStoreNewItem()</a>, <a class="el" href="../../#l00384">CONFIG_LFG_MAIL_ITEM_ON_FULL_INVENTORY</a>, <a class="el" href="../../#l00162">LootItem::count</a>, <a class="el" href="../../#l00053">DISENCHANT</a>, <a class="el" href="../../#l00690">ItemTemplate::DisenchantID</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00097">EQUIP_ERR_INVENTORY_FULL</a>, <a class="el" href="../../#l00047">EQUIP_ERR_OK</a>, <a class="el" href="../../#l00540">Loot::FillLoot()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l01567">GAMEOBJECT_TYPE_CHEST</a>, <a class="el" href="../../#l00181">LootItem::GetAllowedLooters()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00061">Roll::getLoot()</a>, <a class="el" href="../../#l00886">Loot::GetMaxSlotInLootFor()</a>, <a class="el" href="../../#l00113">GO_JUST_DEACTIVATED</a>, <a class="el" href="../../#l00052">GREED</a>, <a class="el" href="../../#l00164">LootItem::is_blocked</a>, <a class="el" href="../../#l00163">LootItem::is_looted</a>, <a class="el" href="../../#l02340">isLFGGroup()</a>, <a class="el" href="../../#l00368">Loot::isLooted()</a>, <a class="el" href="../../#l00079">Reference&lt; TO, FROM &gt;::isValid()</a>, <a class="el" href="../../#l00159">Roll::itemid</a>, <a class="el" href="../../#l00155">LootItem::itemid</a>, <a class="el" href="../../#l00320">Loot::items</a>, <a class="el" href="../../#l00169">Roll::itemSlot</a>, <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913">LootTemplates_Disenchant</a>, <a class="el" href="../../#l00135">MAIL_ITEM_ON_FULL_INVENTORY_EVERYWHERE</a>, <a class="el" href="../../#l00134">MAIL_ITEM_ON_FULL_INVENTORY_LFG_ONLY</a>, <a class="el" href="../../#l00051">NEED</a>, <a class="el" href="../../#l00055">NOT_VALID</a>, <a class="el" href="../../#l00743">Loot::NotifyItemRemoved()</a>, <a class="el" href="../../#l00040">NULL_BAG</a>, <a class="el" href="../../#l00041">NULL_SLOT</a>, <a class="el" href="../../#l00164">Roll::playerVote</a>, <a class="el" href="../../#l00321">Loot::quest_items</a>, <a class="el" href="../../#l00158">LootItem::randomPropertyId</a>, <a class="el" href="../../#l00034">ROLL_NEED</a>, <a class="el" href="../../#l00361">RollId</a>, <a class="el" href="../../#l00161">LootItem::rollWinnerGUID</a>, <a class="el" href="../../#l04093">Player::SendEquipError()</a>, <a class="el" href="../../#l00432">Player::SendItemRetrievalMail()</a>, <a class="el" href="../../#l00952">SendLootAllPassed()</a>, <a class="el" href="../../#l00905">SendLootRoll()</a>, <a class="el" href="../../#l00929">SendLootRollWon()</a>, <a class="el" href="../../#l00066">SendRollWonItemViaMail()</a>, <a class="el" href="../../#l01732">sObjectMgr</a>, <a class="el" href="../../#l00740">sScriptMgr</a>, <a class="el" href="../../#l02601">Player::StoreNewItem()</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00167">Roll::totalGreed</a>, <a class="el" href="../../#l00166">Roll::totalNeed</a>, <a class="el" href="../../#l00034">GameObjectTemplate::type</a>, <a class="el" href="../../#l00323">Loot::unlootedCount</a>, <a class="el" href="../../#l02174">Player::UpdateAchievementCriteria()</a>, <a class="el" href="../../#l02164">Player::UpdateLootAchievements()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01366">CountRollVote()</a>, and <a class="el" href="../../#l01417">EndRoll()</a>.</p>
 
@@ -2625,8 +2615,8 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a0a9705a4f02e3ac97c7c11b064554a08" name="a0a9705a4f02e3ac97c7c11b064554a08"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a9705a4f02e3ac97c7c11b064554a08">&#9670;&#160;</a></span>EndRoll()</h2>
+<a id="a09e43c2d6d14c94d7196b4a18190b9ad" name="a09e43c2d6d14c94d7196b4a18190b9ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09e43c2d6d14c94d7196b4a18190b9ad">&#9670;&#160;</a></span>EndRoll()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2635,18 +2625,8 @@ Protected Attributes</h2></td></tr>
           <td class="memname">void Group::EndRoll </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d8/d62/structLoot.html">Loot</a> *&#160;</td>
-          <td class="paramname"><em>loot</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>loot</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/db0/classMap.html">Map</a> *&#160;</td>
-          <td class="paramname"><em>allowedMap</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2655,7 +2635,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1420</span>    {</div>
 <div class="line"><span class="lineno"> 1421</span>        <span class="keywordflow">if</span> ((*itr)-&gt;getLoot() == pLoot)</div>
 <div class="line"><span class="lineno"> 1422</span>        {</div>
-<div class="line"><span class="lineno"> 1423</span>            <a class="code hl_function" href="../../d0/db7/classGroup.html#abec207c245785df0c5cb718d4bfe56ad">CountTheRoll</a>(itr, allowedMap);           <span class="comment">//i don&#39;t have to edit player votes, who didn&#39;t vote ... he will pass</span></div>
+<div class="line"><span class="lineno"> 1423</span>            <a class="code hl_function" href="../../d0/db7/classGroup.html#ab0e38fd954fa8286caeb58fa32204e55">CountTheRoll</a>(itr);           <span class="comment">//i don&#39;t have to edit player votes, who didn&#39;t vote ... he will pass</span></div>
 <div class="line"><span class="lineno"> 1424</span>            itr = <a class="code hl_variable" href="../../d0/db7/classGroup.html#a60deb01895f041239e41ef3ce646e736">RollId</a>.begin();</div>
 <div class="line"><span class="lineno"> 1425</span>        }</div>
 <div class="line"><span class="lineno"> 1426</span>        <span class="keywordflow">else</span></div>
@@ -2801,7 +2781,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00030">GroupRefMgr::getFirst()</a>, and <a class="el" href="../../#l00347">m_memberMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00083">KillRewarder::_InitGroupData()</a>, <a class="el" href="../../#l00229">KillRewarder::_RewardGroup()</a>, <a class="el" href="../../#l00424">AddMember()</a>, <a class="el" href="../../#l01822">BroadcastPacket()</a>, <a class="el" href="../../#l01835">BroadcastReadyCheck()</a>, <a class="el" href="../../#l01995">CanJoinBattlegroundQueue()</a>, <a class="el" href="../../#l13114">Player::CanUninviteFromGroup()</a>, <a class="el" href="../../#l02618">DoForAllMembers()</a>, <a class="el" href="../../#l00540">Loot::FillLoot()</a>, <a class="el" href="../../#l13088">Player::GetNextRandomRaidMember()</a>, <a class="el" href="../../#l08233">Unit::GetNextRandomRaidMemberOrPet()</a>, <a class="el" href="../../#l15104">Unit::GetPartyMembers()</a>, <a class="el" href="../../#l01010">GroupLoot()</a>, <a class="el" href="../../#l13846">Unit::HandleAuraRaidProcFromChargeWithValue()</a>, <a class="el" href="../../#l00668">WorldSession::HandleBattlemasterJoinArena()</a>, <a class="el" href="../../#l00263">group_commandscript::HandleGroupReviveCommand()</a>, <a class="el" href="../../#l01083">misc_commandscript::HandleGroupSummonCommand()</a>, <a class="el" href="../../#l00082">lfg_commandscript::HandleLfgGroupInfoCommand()</a>, <a class="el" href="../../#l00230">WorldSession::HandleLfgPartyLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00114">WorldSession::HandleLootMoneyOpcode()</a>, <a class="el" href="../../#l01268">WorldSession::HandleSetDungeonDifficultyOpcode()</a>, <a class="el" href="../../#l01318">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l00199">tele_commandscript::HandleTeleGroupCommand()</a>, <a class="el" href="../../#l00598">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l01021">npc_darnavan::npc_darnavanAI::JustDied()</a>, <a class="el" href="../../#l01687">lfg::LFGMgr::MakeNewGroup()</a>, <a class="el" href="../../#l01317">MasterLoot()</a>, <a class="el" href="../../#l01166">NeedBeforeGreed()</a>, <a class="el" href="../../#l00103">lfg::LFGPlayerScript::OnPlayerMapChanged()</a>, <a class="el" href="../../#l02148">SetDungeonDifficulty()</a>, <a class="el" href="../../#l02169">SetRaidDifficulty()</a>, <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>, and <a class="el" href="../../#l01806">UpdatePlayerOutOfRange()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00084">KillRewarder::_InitGroupData()</a>, <a class="el" href="../../#l00243">KillRewarder::_RewardGroup()</a>, <a class="el" href="../../#l00424">AddMember()</a>, <a class="el" href="../../#l01822">BroadcastPacket()</a>, <a class="el" href="../../#l01835">BroadcastReadyCheck()</a>, <a class="el" href="../../#l01995">CanJoinBattlegroundQueue()</a>, <a class="el" href="../../#l13114">Player::CanUninviteFromGroup()</a>, <a class="el" href="../../#l02618">DoForAllMembers()</a>, <a class="el" href="../../#l00540">Loot::FillLoot()</a>, <a class="el" href="../../#l13088">Player::GetNextRandomRaidMember()</a>, <a class="el" href="../../#l08244">Unit::GetNextRandomRaidMemberOrPet()</a>, <a class="el" href="../../#l15115">Unit::GetPartyMembers()</a>, <a class="el" href="../../#l01010">GroupLoot()</a>, <a class="el" href="../../#l13857">Unit::HandleAuraRaidProcFromChargeWithValue()</a>, <a class="el" href="../../#l00668">WorldSession::HandleBattlemasterJoinArena()</a>, <a class="el" href="../../#l00263">group_commandscript::HandleGroupReviveCommand()</a>, <a class="el" href="../../#l01083">misc_commandscript::HandleGroupSummonCommand()</a>, <a class="el" href="../../#l00082">lfg_commandscript::HandleLfgGroupInfoCommand()</a>, <a class="el" href="../../#l00230">WorldSession::HandleLfgPartyLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00114">WorldSession::HandleLootMoneyOpcode()</a>, <a class="el" href="../../#l01268">WorldSession::HandleSetDungeonDifficultyOpcode()</a>, <a class="el" href="../../#l01318">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l00199">tele_commandscript::HandleTeleGroupCommand()</a>, <a class="el" href="../../#l00598">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l01021">npc_darnavan::npc_darnavanAI::JustDied()</a>, <a class="el" href="../../#l01687">lfg::LFGMgr::MakeNewGroup()</a>, <a class="el" href="../../#l01317">MasterLoot()</a>, <a class="el" href="../../#l01166">NeedBeforeGreed()</a>, <a class="el" href="../../#l00103">lfg::LFGPlayerScript::OnPlayerMapChanged()</a>, <a class="el" href="../../#l02148">SetDungeonDifficulty()</a>, <a class="el" href="../../#l02169">SetRaidDifficulty()</a>, <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>, and <a class="el" href="../../#l01806">UpdatePlayerOutOfRange()</a>.</p>
 
 </div>
 </div>
@@ -3057,7 +3037,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00359">m_looterGuid</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l13986">Unit::Kill()</a>, and <a class="el" href="../../#l01933">UpdateLooterGuid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13997">Unit::Kill()</a>, and <a class="el" href="../../#l01933">UpdateLooterGuid()</a>.</p>
 
 </div>
 </div>
@@ -3081,7 +3061,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00357">m_lootMethod</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l05694">Player::isAllowedToLoot()</a>, <a class="el" href="../../#l13986">Unit::Kill()</a>, <a class="el" href="../../#l07822">Player::SendLoot()</a>, <a class="el" href="../../#l00973">SendLooter()</a>, and <a class="el" href="../../#l01933">UpdateLooterGuid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l05694">Player::isAllowedToLoot()</a>, <a class="el" href="../../#l13997">Unit::Kill()</a>, <a class="el" href="../../#l07822">Player::SendLoot()</a>, <a class="el" href="../../#l00973">SendLooter()</a>, and <a class="el" href="../../#l01933">UpdateLooterGuid()</a>.</p>
 
 </div>
 </div>
@@ -3158,7 +3138,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02564">_getMemberCSlot()</a>, <a class="el" href="../../#l00346">m_memberSlots</a>, and <a class="el" href="../../#l00045">MAX_RAID_SUBGROUPS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00605">Battlefield::AddOrSetPlayerToCorrectBfGroup()</a>, <a class="el" href="../../#l01260">Battleground::AddOrSetPlayerToCorrectBgGroup()</a>, <a class="el" href="../../#l01873">ChangeMembersGroup()</a>, <a class="el" href="../../#l01141">WorldSession::HandleGroupSwapSubGroupOpcode()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, and <a class="el" href="../../#l13986">Unit::Kill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00605">Battlefield::AddOrSetPlayerToCorrectBfGroup()</a>, <a class="el" href="../../#l01260">Battleground::AddOrSetPlayerToCorrectBgGroup()</a>, <a class="el" href="../../#l01873">ChangeMembersGroup()</a>, <a class="el" href="../../#l01141">WorldSession::HandleGroupSwapSubGroupOpcode()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, and <a class="el" href="../../#l13997">Unit::Kill()</a>.</p>
 
 </div>
 </div>
@@ -3217,7 +3197,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00346">m_memberSlots</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01995">CanJoinBattlegroundQueue()</a>, <a class="el" href="../../#l13114">Player::CanUninviteFromGroup()</a>, <a class="el" href="../../#l13088">Player::GetNextRandomRaidMember()</a>, <a class="el" href="../../#l08233">Unit::GetNextRandomRaidMemberOrPet()</a>, <a class="el" href="../../#l00072">WorldSession::HandleBattlemasterJoinOpcode()</a>, <a class="el" href="../../#l00190">group_commandscript::HandleGroupListCommand()</a>, <a class="el" href="../../#l00634">WorldSession::HandleGroupRaidConvertOpcode()</a>, <a class="el" href="../../#l00211">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l02361">IsCreated()</a>, <a class="el" href="../../#l00598">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l01687">lfg::LFGMgr::MakeNewGroup()</a>, <a class="el" href="../../#l00580">RemoveMember()</a>, <a class="el" href="../../#l01736">SendUpdateToPlayer()</a>, <a class="el" href="../../#l02301">Player::UninviteFromGroup()</a>, and <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01995">CanJoinBattlegroundQueue()</a>, <a class="el" href="../../#l13114">Player::CanUninviteFromGroup()</a>, <a class="el" href="../../#l13088">Player::GetNextRandomRaidMember()</a>, <a class="el" href="../../#l08244">Unit::GetNextRandomRaidMemberOrPet()</a>, <a class="el" href="../../#l00072">WorldSession::HandleBattlemasterJoinOpcode()</a>, <a class="el" href="../../#l00190">group_commandscript::HandleGroupListCommand()</a>, <a class="el" href="../../#l00634">WorldSession::HandleGroupRaidConvertOpcode()</a>, <a class="el" href="../../#l00211">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l02361">IsCreated()</a>, <a class="el" href="../../#l00598">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l01687">lfg::LFGMgr::MakeNewGroup()</a>, <a class="el" href="../../#l00580">RemoveMember()</a>, <a class="el" href="../../#l01736">SendUpdateToPlayer()</a>, <a class="el" href="../../#l02301">Player::UninviteFromGroup()</a>, and <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>.</p>
 
 </div>
 </div>
@@ -3857,7 +3837,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">GROUPTYPE_RAID</a>, and <a class="el" href="../../#l00351">m_groupType</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00229">KillRewarder::_RewardGroup()</a>, <a class="el" href="../../#l00424">AddMember()</a>, <a class="el" href="../../#l01873">ChangeMembersGroup()</a>, <a class="el" href="../../#l00759">Disband()</a>, <a class="el" href="../../#l00190">group_commandscript::HandleGroupListCommand()</a>, <a class="el" href="../../#l01141">WorldSession::HandleGroupSwapSubGroupOpcode()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00597">WorldSession::HandleRaidTargetUpdateOpcode()</a>, <a class="el" href="../../#l01318">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l00211">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l02335">IsFull()</a>, <a class="el" href="../../#l15059">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l00614">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l03209">npc_icc_buff_switcher::OnGossipSelect()</a>, <a class="el" href="../../#l00135">MapMgr::PlayerCannotEnter()</a>, <a class="el" href="../../#l02477">SetGroupMemberFlag()</a>, and <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00243">KillRewarder::_RewardGroup()</a>, <a class="el" href="../../#l00424">AddMember()</a>, <a class="el" href="../../#l01873">ChangeMembersGroup()</a>, <a class="el" href="../../#l00759">Disband()</a>, <a class="el" href="../../#l00190">group_commandscript::HandleGroupListCommand()</a>, <a class="el" href="../../#l01141">WorldSession::HandleGroupSwapSubGroupOpcode()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00597">WorldSession::HandleRaidTargetUpdateOpcode()</a>, <a class="el" href="../../#l01318">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l00211">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l02335">IsFull()</a>, <a class="el" href="../../#l15070">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l00614">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l03209">npc_icc_buff_switcher::OnGossipSelect()</a>, <a class="el" href="../../#l00135">MapMgr::PlayerCannotEnter()</a>, <a class="el" href="../../#l02477">SetGroupMemberFlag()</a>, and <a class="el" href="../../#l00361">PetAI::UpdateAllies()</a>.</p>
 
 </div>
 </div>
@@ -5060,7 +5040,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l01822">BroadcastPacket()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02391">GetLootMethod()</a>, <a class="el" href="../../#l02401">GetMasterLooterGuid()</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l00952">Loot::hasOverThresholdItem()</a>, <a class="el" href="../../#l00231">Creature::loot</a>, <a class="el" href="../../#l00060">MASTER_LOOT</a>, <a class="el" href="../../#l01047">SMSG_LOOT_LIST</a>, and <a class="el" href="../../#l00316">ObjectGuid::WriteAsPacked()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l13986">Unit::Kill()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13997">Unit::Kill()</a>.</p>
 
 </div>
 </div>
@@ -6171,7 +6151,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02564">_getMemberCSlot()</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00058">FREE_FOR_ALL</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02396">GetLooterGuid()</a>, <a class="el" href="../../#l02391">GetLootMethod()</a>, <a class="el" href="../../#l12875">Player::IsAtLootRewardDistance()</a>, <a class="el" href="../../#l00346">m_memberSlots</a>, <a class="el" href="../../#l01730">SendUpdate()</a>, and <a class="el" href="../../#l02310">SetLooterGuid()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l13986">Unit::Kill()</a>, and <a class="el" href="../../#l07822">Player::SendLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13997">Unit::Kill()</a>, and <a class="el" href="../../#l07822">Player::SendLoot()</a>.</p>
 
 </div>
 </div>
@@ -6792,7 +6772,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/db7/classGroup.html">Group</a></li>
-    <li class="footer">Generated on Tue Jun 23 2026 09:31:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jun 24 2026 09:00:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

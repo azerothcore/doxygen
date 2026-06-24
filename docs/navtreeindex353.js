@@ -1,5 +1,8 @@
 var NAVTREEINDEX353 =
 {
+"dd/dc6/steam__vault_8h.html#ad79516eee3b91946c25c59331935e1ab":[8,0,0,0,1,3,7,2,2,4,6],
+"dd/dc6/structWaveCreature.html":[7,0,4583],
+"dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[7,0,4583,0],
 "dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[7,0,4583,1],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[7,0,2123,0],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[7,0,2123,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a687d65d077a657fc0a584e8282a9ab3f":[8,0,0,0,1,2,38,0,77,1,14],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a69e4da3ea703653741608870616f5b78":[8,0,0,0,1,2,38,0,77,1,43],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6ab7c0df791ba236cbef2183084901a1":[8,0,0,0,1,2,38,0,77,1,182],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6bbac4c09cd638bab4f4bb4365d33d4a":[8,0,0,0,1,2,38,0,77,1,152],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7200d3e3df85d2da3daed80b92a67598":[8,0,0,0,1,2,38,0,77,1,56],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a72449b8a025883663dc987d08cc67260":[8,0,0,0,1,2,38,0,77,1,74],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a734f90dd3fbfae883cab35391475f449":[8,0,0,0,1,2,38,0,77,1,125]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6bbac4c09cd638bab4f4bb4365d33d4a":[8,0,0,0,1,2,38,0,77,1,152]
 };

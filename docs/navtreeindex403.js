@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"df/d32/classspell__item__gnomish__death__ray.html#ae2d2de36cceb037006eb4126f8e1778c":[7,0,3365,1],
+"df/d32/classspell__midsummer__juggling__torch.html":[7,0,3628],
+"df/d32/classspell__midsummer__juggling__torch.html#a1ffdc199a04bd6ead1a09bc977ae964c":[7,0,3628,2],
 "df/d32/classspell__midsummer__juggling__torch.html#a3fd3265e5a08f81b3e9e789f1799abd4":[7,0,3628,3],
 "df/d32/classspell__midsummer__juggling__torch.html#a5a0bfef668242fc5f21ad5a4e3e714b5":[7,0,3628,1],
 "df/d32/classspell__midsummer__juggling__torch.html#a8927aaa07145b46067d5807c2048330a":[7,0,3628,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "df/d3f/classspell__hun__invigoration.html#ae3c2900d98c2fd51ff0888ea5d1072c4":[7,0,3215,0],
 "df/d40/classspell__optic__link__aura.html":[7,0,3688],
 "df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[7,0,3688,2],
-"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[7,0,3688,1],
-"df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[7,0,3688,0],
-"df/d41/classSocketMgr.html":[7,0,2594],
-"df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[7,0,2594,12]
+"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[7,0,3688,1]
 };

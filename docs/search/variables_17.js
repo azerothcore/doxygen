@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['w_0',['w',['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
+  ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W']]],
   ['waittime_1',['waitTime',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef',1,'lfg::LfgQueueStatusData']]],
   ['waittimeavg_2',['waitTimeAvg',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc',1,'lfg::LfgQueueStatusData']]],
   ['waittimedps_3',['waitTimeDps',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf',1,'lfg::LfgQueueStatusData']]],
@@ -89,10 +89,10 @@ var searchData=
   ['wherefieldname_86',['WhereFieldName',['../d9/da3/structTableStruct.html#af1be82a21f6172504e310ae27b899e5b',1,'TableStruct']]],
   ['whirlwind1timer_87',['Whirlwind1Timer',['../d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5',1,'boss_galvangar::boss_galvangarAI']]],
   ['whirlwind2timer_88',['whirlwind2timer',['../d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#adb5a2609f1f065fe7a737b8da2d4aef4',1,'boss_galvangar::boss_galvangarAI::Whirlwind2Timer'],['../d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#a788359b7f2df1794dbff643d75b2c561',1,'boss_drekthar::boss_drektharAI::Whirlwind2Timer']]],
-  ['whirlwindtimer_89',['whirlwindtimer',['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a46b8bf23bd9c395358b66a9e62b719f6',1,'npc_varian_wrynn::npc_varian_wrynnAI::whirlwindTimer'],['../d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef399775e552d7e80224fbb0c2f62aff',1,'boss_drekthar::boss_drektharAI::WhirlwindTimer']]],
+  ['whirlwindtimer_89',['whirlwindtimer',['../d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef399775e552d7e80224fbb0c2f62aff',1,'boss_drekthar::boss_drektharAI::WhirlwindTimer'],['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a46b8bf23bd9c395358b66a9e62b719f6',1,'npc_varian_wrynn::npc_varian_wrynnAI::whirlwindTimer']]],
   ['whisperedtargets_90',['whisperedTargets',['../dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23',1,'near_scarshield_infiltrator']]],
   ['whisperlist_91',['WhisperList',['../d2/d4b/classPlayer.html#ab425be503b461f439a83cb6ce519c3a1',1,'Player']]],
-  ['width_92',['width',['../d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed',1,'map_liquidHeader::width'],['../d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3',1,'adt_liquid_instance::Width'],['../d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8',1,'AreaTrigger::width']]],
+  ['width_92',['width',['../d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8',1,'AreaTrigger::width'],['../d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed',1,'map_liquidHeader::width'],['../d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3',1,'adt_liquid_instance::Width']]],
   ['win_5farena_93',['win_arena',['../d4/dd9/structAchievementCriteriaEntry.html#a91519a5e07b5d15d04897d69da7a0c81',1,'AchievementCriteriaEntry']]],
   ['win_5fbg_94',['win_bg',['../d4/dd9/structAchievementCriteriaEntry.html#a36a544b25d4fd7ffb0d908973802100f',1,'AchievementCriteriaEntry']]],
   ['win_5fduel_95',['win_duel',['../d4/dd9/structAchievementCriteriaEntry.html#aff64e4042a4424a3b18a8befdae17d95',1,'AchievementCriteriaEntry']]],

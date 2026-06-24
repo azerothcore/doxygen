@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[7,0,3773,6],
+"dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[7,0,3773,3],
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3773,1],
 "dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[7,0,3773,2],
 "dc/dc8/classspell__pri__guardian__spirit.html#a905994099dcc4ac9512d5f27b78a778c":[7,0,3773,4],
@@ -129,14 +131,14 @@ var NAVTREEINDEX332 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a63c0fede080591df9ebf8b3de2cd2fc3":[7,0,3846,0],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a7d60c5b18bbf77a18ab683a101782ada":[7,0,3846,2],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[7,0,3846,3],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,83],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[7,0,0,71],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,83],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[7,0,0,71,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,83,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[7,0,0,71,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[7,0,0,71,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,83,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,0,83,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[7,0,0,71,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,0,83,3],
@@ -165,8 +167,8 @@ var NAVTREEINDEX332 =
 "dc/dd3/structboss__aeonus.html#a62df4db3ead6f9be5c3ead974613c8d5":[7,0,381,4],
 "dc/dd3/structboss__aeonus.html#a649275c31e61f542a13fd791ee85277b":[7,0,381,2],
 "dc/dd3/structboss__aeonus.html#af823ef2187b852dc72d2f63020e1701b":[7,0,381,0],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[5,0,34,7,3],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[7,0,13,7,3],
+"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[5,0,34,7,3],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[5,0,34,7,3,2],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[7,0,13,7,3,2],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[5,0,34,7,3,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[7,0,4175,2],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[7,0,4175,1],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[7,0,4175,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4175,3],
-"dc/dd8/classachievement__all__you__can__eat.html":[7,0,34],
-"dc/dd8/classachievement__all__you__can__eat.html#a0995024862a445ea1f0ff5c82475fc64":[7,0,34,0]
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4175,3]
 };

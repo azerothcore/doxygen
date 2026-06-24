@@ -1,5 +1,8 @@
 var NAVTREEINDEX386 =
 {
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[5,0,34,8,4,1],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[7,0,13,8,4,1],
+"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html":[7,0,4074],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a036291aee8b08212ecead4afce01adf4":[7,0,4074,0],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a37b425f877e7415b245c119c29521c4b":[7,0,4074,2],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a72595ee3cd995d7bed2bcf8c9f5199fb":[7,0,4074,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX386 =
 "de/d95/classTicketMgr.html#ad9aafcc0c0211eea71ba7c69de9f9d8b":[7,0,4490,20],
 "de/d95/classTicketMgr.html#aecb8908d0ea10ab044cf969aea4d3b88":[7,0,4490,4],
 "de/d95/classTicketMgr.html#af1176e11f3cb248599a0684b8a779012":[7,0,4490,24],
-"de/d95/structAuctionHouseUsablePlayerInfo.html":[7,0,275],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a3400ad05d8423ae6878fab815521ec6f":[7,0,275,1],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a41a57c372871c84a572d2f3697cb18aa":[7,0,275,3],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a55c2ad9d1cdea4913cb35deb4adc87fd":[7,0,275,6]
+"de/d95/structAuctionHouseUsablePlayerInfo.html":[7,0,275]
 };

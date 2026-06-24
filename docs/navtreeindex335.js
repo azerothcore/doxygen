@@ -1,5 +1,7 @@
 var NAVTREEINDEX335 =
 {
+"dc/de8/classBattlegroundIC.html#a0f5c44d05fea0a7a7b7a2f207af4a631":[7,0,341,20],
+"dc/de8/classBattlegroundIC.html#a187acc6a446edb836448937616c9f197":[7,0,341,24],
 "dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e":[7,0,341,11],
 "dc/de8/classBattlegroundIC.html#a2329a98ce3beede2e9c52b058ffc7267":[7,0,341,22],
 "dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[7,0,341,37],
@@ -226,12 +228,12 @@ var NAVTREEINDEX335 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4326,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4326,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4326,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX335 =
 "dc/df8/structboss__vazruden__the__herald.html#abd89aa3911c626864f8aada889ce99c9":[7,0,776,3],
 "dc/df8/structboss__vazruden__the__herald.html#adc98e358a751fd9881589aada4baf320":[7,0,776,8],
 "dc/df9/classspell__burning__maul.html":[7,0,2718],
-"dc/df9/classspell__burning__maul.html#a0653d8688f98822580a3243a0d47c17a":[7,0,2718,3],
-"dc/df9/classspell__burning__maul.html#a4d14f81325ecd0bde345d60a135ad8ba":[7,0,2718,0],
-"dc/df9/classspell__burning__maul.html#ab32413873bec92540f9e85e8013b7ea2":[7,0,2718,2]
+"dc/df9/classspell__burning__maul.html#a0653d8688f98822580a3243a0d47c17a":[7,0,2718,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX423 =
 {
+"df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[7,0,650,9],
+"df/df6/classspell__putricide__mutated__transformation.html":[7,0,3811],
+"df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3811,2],
 "df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[7,0,3811,1],
 "df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[7,0,3811,3],
 "df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[7,0,3811,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX423 =
 "dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html":[8,0,0,0,0,10],
 "dir_94aaef7ba6f803f9bfb6413ade407482.html":[8,0,0,0,1,3,4,8],
 "dir_9c007a21945c267a2c2f47a9c36aeced.html":[8,0,0,0,1,3,5,4,1],
-"dir_9c4af5b2a272d4974379e18639c0292f.html":[8,0,0,0,1,3,5,2],
-"dir_9cb3b0d623cd4274c7a9c8ac2a66c533.html":[8,0,0,0,1,0,0,0],
-"dir_9d73b3dc13db754f31e8cc6e388bf231.html":[8,0,0,0,1,3,2,1,3],
-"dir_a0aac0519f50cbe40c54d5948ed285d0.html":[8,0,0,0,1,2,38,0]
+"dir_9c4af5b2a272d4974379e18639c0292f.html":[8,0,0,0,1,3,5,2]
 };

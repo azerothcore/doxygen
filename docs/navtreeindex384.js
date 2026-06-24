@@ -1,5 +1,8 @@
 var NAVTREEINDEX384 =
 {
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[5,0,17,48,14],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[5,0,17,48,0],
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[5,0,17,48,12],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9":[5,0,17,48,1],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[5,0,17,48,4],
 "de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[5,0,17,36],
@@ -246,8 +249,5 @@ var NAVTREEINDEX384 =
 "de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[7,0,6,1,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[5,0,20,1,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[7,0,6,1,4],
-"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,20,1,4],
-"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
-"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[7,0,6,1,12],
-"de/d7c/classspell__mage__glyph__of__eternal__water.html":[7,0,3572]
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,20,1,4]
 };

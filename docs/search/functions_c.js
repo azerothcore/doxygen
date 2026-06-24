@@ -401,7 +401,7 @@ var searchData=
   ['loadvehicleseataddon_398',['LoadVehicleSeatAddon',['../d5/dfb/classObjectMgr.html#aefd6a2fe7b0e7dbcbf829cd4ddd4ed95',1,'ObjectMgr']]],
   ['loadvehicletemplateaccessories_399',['LoadVehicleTemplateAccessories',['../d5/dfb/classObjectMgr.html#a8c254fc79caab26e9b85304943691472',1,'ObjectMgr']]],
   ['loadvendors_400',['LoadVendors',['../d5/dfb/classObjectMgr.html#aeec4639ff09cfcd658d39872283e3886',1,'ObjectMgr']]],
-  ['loadvmap_401',['loadvmap',['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()'],['../d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f',1,'GridTerrainLoader::LoadVMap()']]],
+  ['loadvmap_401',['loadvmap',['../d5/d61/classGridTerrainLoader.html#ac4e66140ef37fb3dc0f990cc196d106f',1,'GridTerrainLoader::LoadVMap()'],['../d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184',1,'MMAP::TerrainBuilder::loadVMap()']]],
   ['loadvmaptile_402',['LoadVMapTile',['../d6/db7/classMapCollisionData.html#a0a9ed3fdca779f0f8681d6685d295e2d',1,'MapCollisionData']]],
   ['loadwardenchecks_403',['LoadWardenChecks',['../dc/d48/classWardenCheckMgr.html#ad02847547a06d98c582d09992dce9d11',1,'WardenCheckMgr']]],
   ['loadwardenoverrides_404',['LoadWardenOverrides',['../dc/d48/classWardenCheckMgr.html#a0a82e118a8f8236fecf1b00de0e2071c',1,'WardenCheckMgr']]],
@@ -466,5 +466,5 @@ var searchData=
   ['losehappiness_463',['LoseHappiness',['../df/d14/classPet.html#af0bfeef6074cf6142e68d84447e28b13',1,'Pet']]],
   ['lostagainst_464',['LostAgainst',['../d4/dc6/classArenaTeam.html#a9d7d3d873e9f107a9ff16d8b8f115206',1,'ArenaTeam']]],
   ['lowerbound_465',['LowerBound',['../d6/dfd/structChaseAngle.html#a2f8296cadbada4322ec9c754aed4a5ec',1,'ChaseAngle']]],
-  ['lowerplayerdamagereq_466',['LowerPlayerDamageReq',['../db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c',1,'Creature']]]
+  ['lowerplayerdamagereq_466',['LowerPlayerDamageReq',['../db/dd5/classCreature.html#a1b52cdf5242987ea5364b43ab2e3f571',1,'Creature']]]
 ];

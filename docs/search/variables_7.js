@@ -161,7 +161,7 @@ var searchData=
   ['gossiphello_158',['gossipHello',['../d4/d02/structSmartEvent.html#a58026a2f203063f45f04b81c646beb04',1,'SmartEvent']]],
   ['gossipid_159',['gossipID',['../dd/d3b/structGameObjectTemplate.html#a18f755bd8a231eb200e091809e2622dd',1,'GameObjectTemplate']]],
   ['gossipkeeperspos_160',['GossipKeepersPos',['../d3/d32/boss__yoggsaron_8cpp.html#a655187d10949d0652e41a036f5f10b81',1,'boss_yoggsaron.cpp']]],
-  ['gossipmenuid_161',['gossipmenuid',['../dd/d27/structSmartAction.html#aaf1c7fcbb977860e504179d0a48a82ef',1,'SmartAction::gossipMenuId'],['../d1/d61/structCreatureTemplate.html#acbd1c75616b592ed38bb2d364045e250',1,'CreatureTemplate::GossipMenuId']]],
+  ['gossipmenuid_161',['gossipmenuid',['../d1/d61/structCreatureTemplate.html#acbd1c75616b592ed38bb2d364045e250',1,'CreatureTemplate::GossipMenuId'],['../dd/d27/structSmartAction.html#aaf1c7fcbb977860e504179d0a48a82ef',1,'SmartAction::gossipMenuId']]],
   ['gossipnpctextid_162',['gossipNpcTextId',['../dd/d27/structSmartAction.html#ab140d2bfd0f00e98fc4ac9f454391897',1,'SmartAction']]],
   ['gossipplayerguid_163',['gossipPlayerGUID',['../d0/dfc/structNPCStaveQuestAI.html#a286967eb3806c73746bcb8524ecbda24',1,'NPCStaveQuestAI']]],
   ['gossiptextid_164',['GossipTextId',['../d4/d19/classBfGraveyardWG.html#af197f40de908ed650229bbf033836778',1,'BfGraveyardWG']]],

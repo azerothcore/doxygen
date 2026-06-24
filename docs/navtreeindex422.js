@@ -1,5 +1,8 @@
 var NAVTREEINDEX422 =
 {
+"df/de7/classOutdoorPvPTF.html#aeafe05bb2ef984a411436f3971239ae4":[7,0,2361,9],
+"df/de7/classOutdoorPvPTF.html#aff6c829b47c073150e5f5bf5d58477da":[7,0,2361,11],
+"df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b":[7,0,2361,8],
 "df/de7/cs__cast_8cpp.html":[8,0,0,0,1,3,0,8],
 "df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,8,1],
 "df/de9/classspell__pri__power__word__shield.html":[7,0,3788],
@@ -246,8 +249,5 @@ var NAVTREEINDEX422 =
 "df/df5/structboss__nefarian.html#a5d687fce34b17e22c605c263395e823b":[7,0,650,6],
 "df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,650,2],
 "df/df5/structboss__nefarian.html#a6fdf265e453deb8f9a4214beacf3dbab":[7,0,650,3],
-"df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,650,0],
-"df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[7,0,650,9],
-"df/df6/classspell__putricide__mutated__transformation.html":[7,0,3811],
-"df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3811,2]
+"df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,650,0]
 };

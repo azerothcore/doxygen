@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
+"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[7,0,6,1,12],
+"de/d7c/classspell__mage__glyph__of__eternal__water.html":[7,0,3572],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[7,0,3572,2],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[7,0,3572,1],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#ae1f257e43effcb396d57d42db3063afd":[7,0,3572,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[7,0,13,8,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[5,0,34,8,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[5,0,34,8,4,5],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[7,0,13,8,4,5],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[5,0,34,8,4,1],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[7,0,13,8,4,1],
-"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html":[7,0,4074]
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[7,0,13,8,4,5]
 };

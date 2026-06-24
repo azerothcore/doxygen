@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"dc/d6e/classnpc__valkyr__battle__maiden.html#ab067ea6f5f92039d471708039089e79c":[7,0,2260,2],
+"dc/d6f/action__ip__logger_8cpp.html":[8,0,0,0,1,3,10,1],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137b":[8,0,0,0,1,3,10,1,3],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162":[8,0,0,0,1,3,10,1,3,9],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059":[8,0,0,0,1,3,10,1,3,2],
@@ -18,12 +20,12 @@ var NAVTREEINDEX326 =
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[7,0,0,18],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,0,30,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[7,0,0,18,1],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,0,30,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[7,0,0,18,0],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[7,0,0,18,2],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,0,30,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,0,30,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[7,0,0,18,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[7,0,0,18,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,0,30,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[7,0,0,18,3],
 "dc/d70/boss__grobbulus_8cpp.html":[8,0,0,0,1,3,5,7,5],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,5,7,5,7],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[8,0,0,0,1,3,5,7,5,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,2,14,1,2],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa2363e2a8b85f2c57c2d18bf00a61c710":[8,0,0,0,1,3,2,14,1,2,2],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa40a53a3946c9eea7cd2d479c78a0ce24":[8,0,0,0,1,3,2,14,1,2,0],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,2,14,1,2,1],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa6179ecd093d674740f7d6bb831788626":[8,0,0,0,1,3,2,14,1,2,4],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fae00a44b74bcf664993c403d5f9f01b9b":[8,0,0,0,1,3,2,14,1,2,3]
+"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,2,14,1,2,1]
 };

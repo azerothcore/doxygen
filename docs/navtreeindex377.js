@@ -1,5 +1,8 @@
 var NAVTREEINDEX377 =
 {
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0cbc9ff250313715ea194c4fe1df791e":[8,0,0,0,1,2,41,9,72,16],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0fab403afacd213d4cfd78fd61420455":[8,0,0,0,1,2,41,9,72,1],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a1272d6059a779c53157d1dd19f942ee1":[8,0,0,0,1,2,41,9,72,11],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a18d42ef83f46c23f2d20e5c921c453db":[8,0,0,0,1,2,41,9,72,10],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a26de2b5bc1367cfe3e0110aeb22bdfed":[8,0,0,0,1,2,41,9,72,3],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a32112aa624f17e0c8efc27b27795869b":[8,0,0,0,1,2,41,9,72,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX377 =
 "de/d32/classspell__mage__glyph__of__icy__veins.html":[7,0,3574],
 "de/d32/classspell__mage__glyph__of__icy__veins.html#a396023bc98b70b6357630e45a2278afc":[7,0,3574,1],
 "de/d32/classspell__mage__glyph__of__icy__veins.html#a6af4e80cf3c88320a6157e986a4b719f":[7,0,3574,2],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3574,0],
-"de/d33/classHordeChannelMgr.html":[7,0,1296],
-"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1296,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933]
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3574,0]
 };

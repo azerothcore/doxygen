@@ -1,5 +1,8 @@
 var NAVTREEINDEX378 =
 {
+"de/d33/classHordeChannelMgr.html":[7,0,1296],
+"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1296,0],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[7,0,2933,1],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[7,0,2933,2],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[7,0,2933,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX378 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[7,0,2180,0,16],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[7,0,2180,0,24],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[7,0,2180,0,5],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2180,0,18],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[7,0,2180,0,20],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[7,0,2180,0,15],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[7,0,2180,0,13]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2180,0,18]
 };
