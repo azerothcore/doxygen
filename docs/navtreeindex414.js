@@ -1,5 +1,7 @@
 var NAVTREEINDEX414 =
 {
+"df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[7,0,3061,2],
+"df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3061,1],
 "df/dbb/structItemDisplayInfoEntry.html":[7,0,1407],
 "df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[7,0,1407,1],
 "df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1407,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX414 =
 "df/dc8/structnpc__onyxian__lair__guard.html":[7,0,2017],
 "df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[7,0,2017,1],
 "df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[7,0,2017,3],
-"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[7,0,2017,2],
-"df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[7,0,2017,0],
-"df/dc9/classCreatureScript.html":[7,0,956]
+"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[7,0,2017,2]
 };

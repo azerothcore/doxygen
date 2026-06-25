@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"de/dd7/classspell__pri__t10__heal__2p__bonus.html":[7,0,3795],
+"de/dd7/classspell__pri__t10__heal__2p__bonus.html#a0c7c91113f0a4a289dcc5e53450a635a":[7,0,3795,2],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2":[7,0,3795,1],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#aa4639d482cfda229e0a6eaa53c320ea8":[7,0,3795,4],
 "de/dd7/classspell__pri__t10__heal__2p__bonus.html#ab37749506a197a97cb3cc567cdff199c":[7,0,3795,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[7,0,1355,0,9],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a49ac1088399ef71b1fcd7c90c6a34fac":[7,0,1355,0,2],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a4abdd53f735be815cb2d43497d1531e0":[7,0,1355,0,0],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a5e90e8cadff18b19c9a1d451dbe675c9":[7,0,1355,0,4],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a71fcfc166f945325a4ee149645a9ccef":[7,0,1355,0,3],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a9d025f0d9740eaec42fe4f45971a6cf9":[7,0,1355,0,10]
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a5e90e8cadff18b19c9a1d451dbe675c9":[7,0,1355,0,4]
 };

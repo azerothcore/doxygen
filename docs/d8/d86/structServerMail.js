@@ -9,5 +9,6 @@ var structServerMail =
     [ "itemsH", "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
     [ "moneyA", "d8/d86/structServerMail.html#a6a84ca583beef891422f67bef7919c47", null ],
     [ "moneyH", "d8/d86/structServerMail.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "senderEntry", "d8/d86/structServerMail.html#a3b0fe5cf5fadb5f50434836dd7026f41", null ],
     [ "subject", "d8/d86/structServerMail.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

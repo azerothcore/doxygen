@@ -1,5 +1,7 @@
 var NAVTREEINDEX409 =
 {
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[7,0,0,57,5],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,0,69,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[7,0,0,57,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,0,69,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[7,0,0,57,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX409 =
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a3e2a0cac8a02d2d6105b06b5c21f1628":[7,0,2092,0,0],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a837b442d7812b0c5708995d35c0d45f6":[7,0,2092,0,1],
 "df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#a8bf068c63d7ae10c6edf0af3aab1a6c3":[7,0,2092,0,8],
-"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#aca5ae47050590ec22e6e929f44e09276":[7,0,2092,0,6],
-"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#ad044c04381a8d61a8fefc55129453ddf":[7,0,2092,0,7],
-"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#aeb0a7644ada4d44e649b4ae45e0d2dc2":[7,0,2092,0,9]
+"df/d94/structnpc__ravenous__furbolg_1_1npc__ravenous__furbolgAI.html#aca5ae47050590ec22e6e929f44e09276":[7,0,2092,0,6]
 };

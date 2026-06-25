@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d6/dfc/classnpc__mindless__ghoul.html#ac5bf71e719c0df04687f426a022fd65e":[7,0,1982,1],
 "d6/dfd/classinstance__black__temple.html":[7,0,1314],
 "d6/dfd/classinstance__black__temple.html#a2efd6c7fff15c8fd03652ef9a65088eb":[7,0,1314,1],
 "d6/dfd/classinstance__black__temple.html#a947a1279eabde75d9884b1ef84b295a3":[7,0,1314,2],
@@ -58,8 +59,8 @@ var NAVTREEINDEX192 =
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[5,0,34,8,1,3],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[5,0,34,8,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[7,0,13,8,1,0],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,34,8,1,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[7,0,13,8,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,34,8,1,1],
 "d7/d01/classnpc__shenthul.html":[7,0,2126],
 "d7/d01/classnpc__shenthul.html#a1683f8c89add6270277c59951c74027e":[7,0,2126,2],
 "d7/d01/classnpc__shenthul.html#a3a63fec338dca74eb7d071dfcc9c95b5":[7,0,2126,3],
@@ -170,14 +171,14 @@ var NAVTREEINDEX192 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[7,0,4174,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,14],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[8,0,0,0,1,2,38,0,14,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,2],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[7,0,0,4,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,110],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,110],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[7,0,0,98,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,0,110,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,110,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d0b/classspell__gen__arena__drink.html#af4f971e2d5c2d2f4b1ced0e64e8c1871":[7,0,2979,5],
 "d7/d0b/classspell__gen__parachute.html":[7,0,3069],
 "d7/d0b/classspell__gen__parachute.html#a36792fd068ec7444aa118ec63cf972a7":[7,0,3069,2],
-"d7/d0b/classspell__gen__parachute.html#a3a2e7653276964fd36c93b41aa8f25ea":[7,0,3069,0],
-"d7/d0b/classspell__gen__parachute.html#a893a539f4eeb0b9f027c5a306cc7bd53":[7,0,3069,1]
+"d7/d0b/classspell__gen__parachute.html#a3a2e7653276964fd36c93b41aa8f25ea":[7,0,3069,0]
 };

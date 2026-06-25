@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa40a53a3946c9eea7cd2d479c78a0ce24":[8,0,0,0,1,3,2,14,1,2,0],
+"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,2,14,1,2,1],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa6179ecd093d674740f7d6bb831788626":[8,0,0,0,1,3,2,14,1,2,4],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fae00a44b74bcf664993c403d5f9f01b9b":[8,0,0,0,1,3,2,14,1,2,3],
 "dc/d7c/uldaman_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,14,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d8b/structlfg_1_1LFGDungeonData.html#ae25732254c64f1a2bca8a938a240e509":[5,0,17,1,6],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#ae25732254c64f1a2bca8a938a240e509":[7,0,5,1,6],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#af609ccb3be2e80fa6cd0339f91f6d094":[5,0,17,1,0],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#af609ccb3be2e80fa6cd0339f91f6d094":[7,0,5,1,0],
-"dc/d8b/zone__westfall_8cpp.html":[8,0,0,0,1,3,2,33],
-"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fd":[8,0,0,0,1,3,2,33,2]
+"dc/d8b/structlfg_1_1LFGDungeonData.html#af609ccb3be2e80fa6cd0339f91f6d094":[7,0,5,1,0]
 };

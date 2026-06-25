@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"db/d5c/structboss__vezax.html#ad57dabcfafbd2a10b1dbb39751600bb9":[7,0,783,5],
+"db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc":[7,0,783,12],
 "db/d5c/structboss__vezax.html#addfa8398f2a1c21b7ed44547fa6e2899":[7,0,783,2],
 "db/d5c/structboss__vezax.html#ae43a0164f3ac1876b6e6cd5f6f241ffb":[7,0,783,13],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html":[7,0,2615],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/d68/classPlayerTextBuilder.html#a934d4a519c2c7b4017805b3bc24a4714":[7,0,2424,3],
 "db/d68/classPlayerTextBuilder.html#a9fe9f865b0ba84b5497e63947893533e":[7,0,2424,5],
 "db/d68/classPlayerTextBuilder.html#ab44fe12e73da36acb1199987e8573467":[7,0,2424,8],
-"db/d68/classPlayerTextBuilder.html#ac97cf187d079c5162e47bebb7024faa5":[7,0,2424,7],
-"db/d68/classPlayerTextBuilder.html#aece205d3d523dcf6fefbdd9914943723":[7,0,2424,2],
-"db/d68/classPlayerTextBuilder.html#af546f2788870b8b10b3405695ef81171":[7,0,2424,4]
+"db/d68/classPlayerTextBuilder.html#ac97cf187d079c5162e47bebb7024faa5":[7,0,2424,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d0b/classspell__gen__parachute.html#a893a539f4eeb0b9f027c5a306cc7bd53":[7,0,3069,1],
 "d7/d0b/classspell__gen__parachute.html#aa57af116294cfba007586506ba1dbeb5":[7,0,3069,3],
 "d7/d0b/classspell__sha__flametongue__weapon.html":[7,0,4030],
 "d7/d0b/classspell__sha__flametongue__weapon.html#a4fd43180ce526dbe01748371cf226ede":[7,0,4030,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639a0c41667591b38b074a96c3f2638f8efc":[8,0,0,0,1,3,5,25,14,0],
 "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639a7bf6caa350b5f312ea893bd9cb9c9b46":[8,0,0,0,1,3,5,25,14,1],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225":[8,0,0,0,1,3,5,25,15],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a028b5f33a92e2d791d76ca164188c0c3":[8,0,0,0,1,3,5,25,15,30],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a066f48a597541291b31b5c3fce0c4879":[8,0,0,0,1,3,5,25,15,18]
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a028b5f33a92e2d791d76ca164188c0c3":[8,0,0,0,1,3,5,25,15,30]
 };

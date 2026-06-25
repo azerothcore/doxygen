@@ -1,5 +1,7 @@
 var NAVTREEINDEX309 =
 {
+"db/de2/boss__drekthar_8cpp.html":[8,0,0,0,1,3,2,0,2],
+"db/de2/boss__drekthar_8cpp.html#a2f4ecde5a7fb415678c93485bd3b4535":[8,0,0,0,1,3,2,0,2,4],
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,0,2,3],
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4a29cba417c29bd2d0e47b9719653960":[8,0,0,0,1,3,2,0,2,3,3],
 "db/de2/boss__drekthar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[8,0,0,0,1,3,2,0,2,3,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX309 =
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7165f0a4b15a18b290c92c53991b33e":[8,0,0,0,1,3,4,9,11,10,23],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7fe4a075b9a9af0d891907d2f36a97b":[8,0,0,0,1,3,4,9,11,10,7],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[8,0,0,0,1,3,4,9,11,10,26],
-"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cae2406a11d1bdb8b16b814464c4e4aa3f":[8,0,0,0,1,3,4,9,11,10,0],
-"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf0e20cad46ac003fdde837c171d8e9d3":[8,0,0,0,1,3,4,9,11,10,19],
-"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf1e07bb745ccec2dbcf6b568b94d6a50":[8,0,0,0,1,3,4,9,11,10,11]
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cae2406a11d1bdb8b16b814464c4e4aa3f":[8,0,0,0,1,3,4,9,11,10,0]
 };

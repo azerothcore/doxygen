@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"d7/d26/blackrock__depths_8h.html#a648e7de381945a58e4b153457cbfd37f":[8,0,0,0,1,3,2,1,0,1,3],
 "d7/d26/blackrock__depths_8h.html#a6eb1dd10c71bf7c8b404bdd499a5b34d":[8,0,0,0,1,3,2,1,0,1,8],
 "d7/d26/blackrock__depths_8h.html#a6eb1dd10c71bf7c8b404bdd499a5b34da9f091068e93fe04fde1b2d77d34d5fcf":[8,0,0,0,1,3,2,1,0,1,8,1],
 "d7/d26/blackrock__depths_8h.html#a6eb1dd10c71bf7c8b404bdd499a5b34dad3a82608e2e8110f920b4caabf717f98":[8,0,0,0,1,3,2,1,0,1,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d2f/classDynamicVMapCollisionData.html#ae50a9a90538fd07f604929251fa2113a":[7,0,1030,0],
 "d7/d2f/classspell__mage__blast__wave.html":[7,0,3554],
 "d7/d2f/classspell__mage__blast__wave.html#a860fb74000a42a7d6f22d17dde93cdf6":[7,0,3554,0],
-"d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[7,0,3554,1],
-"d7/d2f/classspell__mage__blast__wave.html#ac62f4fdf003cdd53650fe632b3ed3ef1":[7,0,3554,2]
+"d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[7,0,3554,1]
 };

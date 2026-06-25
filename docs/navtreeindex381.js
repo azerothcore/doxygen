@@ -1,5 +1,7 @@
 var NAVTREEINDEX381 =
 {
+"de/d52/structboss__malygos.html":[7,0,626],
+"de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306":[7,0,626,12],
 "de/d52/structboss__malygos.html#a110748ba104014f161c8bb51bb6ba566":[7,0,626,7],
 "de/d52/structboss__malygos.html#a1a838052f9465530a586132a24c7ec5b":[7,0,626,16],
 "de/d52/structboss__malygos.html#a28a85c719c91835b5f6f52d267990c0c":[7,0,626,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX381 =
 "de/d5e/classGridTerrainData.html#acacaa661126e761a863b5490a3e78e73":[7,0,1248,13],
 "de/d5e/classGridTerrainData.html#adc73b5d06468dbf30b7b6507f6ac6474":[7,0,1248,5],
 "de/d5e/classGridTerrainData.html#ae50db87879b0b0bca66f0f0a625e2bc9":[7,0,1248,15],
-"de/d5e/classGridTerrainData.html#aea51fcf34105d685405203093ce67085":[7,0,1248,20],
-"de/d5e/classGridTerrainData.html#af849394add099d86aa8ec9eb8c807f5d":[7,0,1248,8],
-"de/d5e/classnpc__gilthares.html":[7,0,1830]
+"de/d5e/classGridTerrainData.html#aea51fcf34105d685405203093ce67085":[7,0,1248,20]
 };

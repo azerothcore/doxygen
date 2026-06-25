@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/dcb/classBGQueueInviteEvent.html#a4c78e5a74eaf859db40772008557201f":[7,0,369,8],
+"d8/dcb/classBGQueueInviteEvent.html#a608c24288f24bc4da77124257320c741":[7,0,369,6],
 "d8/dcb/classBGQueueInviteEvent.html#acee27900339fdcebbfd21bb0e602654d":[7,0,369,0],
 "d8/dcb/classBGQueueInviteEvent.html#ad9adc44cc1cde3b0b820740852bdb3ce":[7,0,369,5],
 "d8/dcb/halls__of__lightning_8h.html":[8,0,0,0,1,3,5,9,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[8,0,0,0,1,4,0,3,24],
 "d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[8,0,0,0,1,4,0,3,70],
 "d8/dd6/DBCfmt_8h.html#ac62d1b9c6855c6a25a92d52b1de14c7a":[8,0,0,0,1,4,0,3,91],
-"d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[8,0,0,0,1,4,0,3,36],
-"d8/dd6/DBCfmt_8h.html#aca90fef36ea63da13958a5b64c5b71f3":[8,0,0,0,1,4,0,3,59],
-"d8/dd6/DBCfmt_8h.html#acad7aec58fc9a46120295b46a083b10a":[8,0,0,0,1,4,0,3,13]
+"d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[8,0,0,0,1,4,0,3,36]
 };

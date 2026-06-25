@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a3d2ecebf5f62756e3571412754a3455c":[8,0,0,0,1,3,5,0,0,5,12],
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,0,0,5,7],
 "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1e75e4729bfd2f856f8d28ac9dc62880":[8,0,0,0,1,3,5,0,0,5,7,1],
 "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,0,0,5,7,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94":[8,0,0,0,1,3,5,0,0,5,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/d5c/structboss__vezax.html#ab339f12be1e9da262f6243cfe22908c2":[7,0,783,6],
 "db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[7,0,783,9],
 "db/d5c/structboss__vezax.html#ac22557ea0f60a04d51f016cc09d99417":[7,0,783,4],
-"db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1":[7,0,783,1],
-"db/d5c/structboss__vezax.html#ad57dabcfafbd2a10b1dbb39751600bb9":[7,0,783,5],
-"db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc":[7,0,783,12]
+"db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1":[7,0,783,1]
 };

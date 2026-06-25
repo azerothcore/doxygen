@@ -1,5 +1,7 @@
 var NAVTREEINDEX378 =
 {
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a6af4e80cf3c88320a6157e986a4b719f":[7,0,3574,2],
+"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3574,0],
 "de/d33/classHordeChannelMgr.html":[7,0,1296],
 "de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1296,0],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[7,0,2933],
@@ -247,7 +249,5 @@ var NAVTREEINDEX378 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[7,0,2180,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[7,0,2180,0,21],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[7,0,2180,0,16],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[7,0,2180,0,24],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[7,0,2180,0,5],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2180,0,18]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[7,0,2180,0,24]
 };

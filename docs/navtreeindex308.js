@@ -1,5 +1,7 @@
 var NAVTREEINDEX308 =
 {
+"db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22aedb8581c8f2aa3050d286e10e402f862":[8,0,0,0,1,3,5,1,1,5,3,0],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html":[7,0,1336,0],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a02e5937e2ba26ea6d470edaf504494cb":[7,0,1336,0,4],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a0d1bda09e399c50faa1cd1999fee3297":[7,0,1336,0,5],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a1a5fde450425668fae91b1a8b6e23c29":[7,0,1336,0,23],
@@ -247,7 +249,5 @@ var NAVTREEINDEX308 =
 "db/de1/structTempSummonData.html#aad6aa76796625075e4fcfb7d1a3eb88c":[7,0,4479,1],
 "db/de1/structnpc__brain__wash__totem.html":[7,0,1687],
 "db/de1/structnpc__brain__wash__totem.html#abd32e3210cc384c0c365826ca1fbae1e":[7,0,1687,1],
-"db/de1/structnpc__brain__wash__totem.html#acdecde614ba82d60ee4a10ace8545fdf":[7,0,1687,0],
-"db/de2/boss__drekthar_8cpp.html":[8,0,0,0,1,3,2,0,2],
-"db/de2/boss__drekthar_8cpp.html#a2f4ecde5a7fb415678c93485bd3b4535":[8,0,0,0,1,3,2,0,2,4]
+"db/de1/structnpc__brain__wash__totem.html#acdecde614ba82d60ee4a10ace8545fdf":[7,0,1687,0]
 };

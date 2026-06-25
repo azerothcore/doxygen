@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[7,0,2412,2],
+"db/d30/structboss__hydromancer__thespia.html":[7,0,555],
 "db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[7,0,555,0],
 "db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[7,0,555,1],
 "db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[7,0,555,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "db/d41/structnpc__midsummer__bonfire.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5":[7,0,1976,11],
 "db/d41/structnpc__midsummer__bonfire.html#a9210a0a472d609f66895bfa0a8e324b0":[7,0,1976,2],
 "db/d41/structnpc__midsummer__bonfire.html#a9ad2102b2dea60fbb81c1578b97f34dc":[7,0,1976,3],
-"db/d41/structnpc__midsummer__bonfire.html#aa21c9f7a5d7ac29663d94da55ef34373":[7,0,1976,8],
-"db/d41/structnpc__midsummer__bonfire.html#aaa2f2822cb5c104ec2d90c2a344b409d":[7,0,1976,7],
-"db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[7,0,1976,9]
+"db/d41/structnpc__midsummer__bonfire.html#aa21c9f7a5d7ac29663d94da55ef34373":[7,0,1976,8]
 };

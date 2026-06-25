@@ -1,5 +1,7 @@
 var NAVTREEINDEX252 =
 {
+"d9/da3/structTableStruct.html#ab00ee028c72660db98e8108583701471":[7,0,4464,2],
+"d9/da3/structTableStruct.html#ad5d909c6b4b062f3c4aac3f559c5eaec":[7,0,4464,1],
 "d9/da3/structTableStruct.html#af1be82a21f6172504e310ae27b899e5b":[7,0,4464,3],
 "d9/da4/classspell__svalna__remove__spear.html":[7,0,4121],
 "d9/da4/classspell__svalna__remove__spear.html#a69344370af56f033e1c1ba16f4dee174":[7,0,4121,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX252 =
 "d9/db6/classVileSpiritActivateEvent.html#ac7d37d3b7b3173015a2af9ce93b8f2f9":[7,0,4568,0],
 "d9/db6/structnpc__elder__kekek.html":[7,0,1782],
 "d9/db6/structnpc__elder__kekek.html#a0c673e4fdf8e75d3bc8570db166bcd95":[7,0,1782,1],
-"d9/db6/structnpc__elder__kekek.html#a445c048d8858f5dc7c1e88308ed7e5ab":[7,0,1782,7],
-"d9/db6/structnpc__elder__kekek.html#a5823bc7164d797c40d48b9b74642d9b5":[7,0,1782,3],
-"d9/db6/structnpc__elder__kekek.html#a6084af39be5c70699c9fdcf3cd58e954":[7,0,1782,0]
+"d9/db6/structnpc__elder__kekek.html#a445c048d8858f5dc7c1e88308ed7e5ab":[7,0,1782,7]
 };

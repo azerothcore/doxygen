@@ -1,5 +1,7 @@
 var NAVTREEINDEX337 =
 {
+"dd/d07/structlfg_1_1LfgReward.html":[5,0,17,15],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[7,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,17,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[7,0,5,15,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX337 =
 "dd/d17/pet__hunter_8cpp.html#acfd2639a0bb8317a89dfe304b215b1ceaf72c7cdf982d64c542aa9b0db73a647f":[8,0,0,0,1,3,8,2,5,1],
 "dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html":[7,0,1813,0],
 "dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#a3960f19b456f29a33016d799809a82a8":[7,0,1813,0,1],
-"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#a4e866332045135c867f2b9ee871db0c2":[7,0,1813,0,3],
-"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#adf7b1b447d0d05a498dd8603dbfab1ab":[7,0,1813,0,4],
-"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#ae697a98d23d94315768dc866852b6e07":[7,0,1813,0,0]
+"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#a4e866332045135c867f2b9ee871db0c2":[7,0,1813,0,3]
 };

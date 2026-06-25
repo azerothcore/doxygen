@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298cadfdd2075f3aac2878e7e74f60209ece2":[8,0,0,0,1,3,7,2,0,5,3,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a67830e47184c999a27fdf76e167fc22a":[8,0,0,0,1,3,7,2,0,5,6],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#ad5a5411f82e58d3f11f4c053776e0c04":[8,0,0,0,1,3,7,2,0,5,5],
 "d7/dfb/ScriptedFollowerAI_8cpp.html":[8,0,0,0,1,2,3,1,4],
@@ -10,14 +11,14 @@ var NAVTREEINDEX218 =
 "d7/dfb/classspell__gen__flurry__of__claws.html#a1221c3287c3fd7add356e84430508684":[7,0,3031,2],
 "d7/dfb/classspell__gen__flurry__of__claws.html#a3c3044795e183eef2c801781100b11c7":[7,0,3031,1],
 "d7/dfb/classspell__gen__flurry__of__claws.html#a5fdf44f34765d0386d5c5490620c944a":[7,0,3031,0],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[7,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,0,7,0,2],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[7,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[7,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[7,0,0,4,0,2,1],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[7,0,0,4,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[8,0,0,0,0,3,5],
 "d7/dfe/World_8cpp.html":[4,2,4],
 "d7/dfe/classLootValidatorRef.html":[7,0,1481],
@@ -238,8 +239,8 @@ var NAVTREEINDEX218 =
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[7,0,11,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[7,0,11,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[7,0,11,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[7,0,11,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[7,0,11,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,31,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[5,0,31,0,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[7,0,1945,0,1],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[7,0,1945,0,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#ab33eeac6aab8e18778fc7d4ffe5038f1":[7,0,1945,0,0],
-"d8/d0f/classspell__nightbane__fireball__barrage.html":[7,0,3665],
-"d8/d0f/classspell__nightbane__fireball__barrage.html#a9576a48a3aa761c103f72586cd93970c":[7,0,3665,1]
+"d8/d0f/classspell__nightbane__fireball__barrage.html":[7,0,3665]
 };

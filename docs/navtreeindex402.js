@@ -1,5 +1,7 @@
 var NAVTREEINDEX402 =
 {
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eaadbc758e3c1b7e6a6595c6a8178b4737":[8,0,0,0,1,3,5,8,2,6,2,4],
+"df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eacfd97bd3fb1ccc16d2a7bf6a147600b7":[8,0,0,0,1,3,5,8,2,6,2,6],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5ead41fae04f49e4f13f7a0cdd8231a5c23":[8,0,0,0,1,3,5,8,2,6,2,0],
 "df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eadfdde38b50c8ebe99daea31afb11415d":[8,0,0,0,1,3,5,8,2,6,2,5],
 "df/d29/oculus_8h.html#a43a1dd34b31d53516e253abdd0fb4ea5":[8,0,0,0,1,3,5,8,2,6,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX402 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aed26fc5231e27dc9ff947a42c22200bd":[7,0,1383,0,9],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#afe20873a4b4181a895cb2578e19ec5f9":[7,0,1383,0,7],
 "df/d32/classspell__item__gnomish__death__ray.html":[7,0,3365],
-"df/d32/classspell__item__gnomish__death__ray.html#a7a8016e1403caa0432242c5c3240f107":[7,0,3365,0],
-"df/d32/classspell__item__gnomish__death__ray.html#ab14aedfdb61d54334f60e57968fcf081":[7,0,3365,3],
-"df/d32/classspell__item__gnomish__death__ray.html#abd09f5df3f31af619f24214f90791a53":[7,0,3365,2]
+"df/d32/classspell__item__gnomish__death__ray.html#a7a8016e1403caa0432242c5c3240f107":[7,0,3365,0]
 };

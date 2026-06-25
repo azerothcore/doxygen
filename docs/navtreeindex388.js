@@ -1,5 +1,7 @@
 var NAVTREEINDEX388 =
 {
+"de/da1/structnpc__ulduar__flames__spread.html#af8cad4be1736f377721b7a0a63cfafe7":[7,0,2233,1],
+"de/da2/classachievement__resilient__victory.html":[7,0,88],
 "de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[7,0,88,1],
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[7,0,88,0],
 "de/da2/classnpc__maxx__a__million__escort.html":[7,0,1970],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8377ca7314cdb7cb1a18a231563f460f":[8,0,0,0,1,1,0,0,1,1,236],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f0ff512aa13dafb1f4c2e6fe010b1c":[8,0,0,0,1,1,0,0,1,1,113],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f8506a23a2c0e4c1244adc55d007db":[8,0,0,0,1,1,0,0,1,1,373],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a84236818ce5533e977f917c764050cf5":[8,0,0,0,1,1,0,0,1,1,166],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8497edff6c43f2fafe02867e7b97479b":[8,0,0,0,1,1,0,0,1,1,31],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a854d1f745aa18ff113e63698e14421e2":[8,0,0,0,1,1,0,0,1,1,231]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a84236818ce5533e977f917c764050cf5":[8,0,0,0,1,1,0,0,1,1,166]
 };

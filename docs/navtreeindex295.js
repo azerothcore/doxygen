@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"db/d80/structinstance__blackrock__spire.html#ae4fa8112ac0b672edb4327d69f3e9943":[7,0,1317,4],
+"db/d80/structinstance__blackrock__spire.html#ae6fd3a36a9dc715f25fee5015ad0fd96":[7,0,1317,43],
 "db/d80/structinstance__blackrock__spire.html#aea77cb0fea68db2d18ee8ef03b4de448":[7,0,1317,6],
 "db/d80/structinstance__blackrock__spire.html#afa2d74c5fe90b4b1307ee281af9e21c1":[7,0,1317,29],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html":[7,0,2799],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,10,0,4,4,7],
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1cca":[8,0,0,0,1,3,5,10,0,4,6],
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b":[8,0,0,0,1,3,5,10,0,4,6,0],
-"db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[8,0,0,0,1,3,5,10,0,4,10],
-"db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[8,0,0,0,1,3,5,10,0,4,5],
-"db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[8,0,0,0,1,3,5,10,0,4,5,0]
+"db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[8,0,0,0,1,3,5,10,0,4,10]
 };

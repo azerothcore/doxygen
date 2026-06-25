@@ -1,5 +1,7 @@
 var NAVTREEINDEX357 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa99dfcda224e38c33771d6bf70abb5b66":[8,0,0,0,1,3,5,19,25,2],
+"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caae126fd8a2a7ca0c45aec6d897d50c331":[8,0,0,0,1,3,5,19,25,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbe":[8,0,0,0,1,3,5,19,31],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea0d72f93652e342e1fe02b41e9bebab23":[8,0,0,0,1,3,5,19,31,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea0e716768b8b569aa1680571370c2109b":[8,0,0,0,1,3,5,19,31,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX357 =
 "dd/df6/classLootValidatorRefMgr.html#ae47bba95a17db31a42231da948245387":[7,0,1482,3],
 "dd/df6/classLootValidatorRefMgr.html#aee3a4701c5bc51f4028fe53f18675989":[7,0,1482,1],
 "dd/df6/classLootValidatorRefMgr.html#af68f1d93a80e13976798dfed0063a1e4":[7,0,1482,5],
-"dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[7,0,930],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[7,0,0,6],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,0,18]
+"dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[7,0,930]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX413 =
 {
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[7,0,2070,0,3],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[7,0,2070,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[7,0,2212,0],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[7,0,2212,0,2],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[7,0,2212,0,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX413 =
 "df/dbb/BankPackets_8cpp.html":[8,0,0,0,1,2,39,0,1],
 "df/dbb/classspell__gen__netherbloom.html":[7,0,3061],
 "df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[7,0,3061,0],
-"df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[7,0,3061,3],
-"df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[7,0,3061,2],
-"df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3061,1]
+"df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[7,0,3061,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/d57/classspell__freezing__cloud__damage.html":[7,0,2952],
+"d9/d57/classspell__freezing__cloud__damage.html#a9a3e0c1a86cfc1b9747810cfca76f784":[7,0,2952,2],
 "d9/d57/classspell__freezing__cloud__damage.html#aaa7631a3d8a5476da6e051de90f34ee4":[7,0,2952,1],
 "d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b":[7,0,2952,0],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html":[7,0,1373,0],
@@ -97,14 +99,14 @@ var NAVTREEINDEX244 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[7,0,0,115,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a49c4f7adf656a881f6fb09e380dd3bed":[8,0,0,0,1,3,7,9,24,23],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a52201bde9b4272f42e6ee20df0c54710":[8,0,0,0,1,3,7,9,24,8],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a5b40808418f7f29bd535436e5b25d6c2":[8,0,0,0,1,3,7,9,24,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a5c243ef043187f8edc721695122936a7":[8,0,0,0,1,3,7,9,24,2],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a5d1ab6596a504ac6c5a237be72dbbafd":[8,0,0,0,1,3,7,9,24,18],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a5d99a69577664e6a890d626da434e4df":[8,0,0,0,1,3,7,9,24,7]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a5c243ef043187f8edc721695122936a7":[8,0,0,0,1,3,7,9,24,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX303 =
 {
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[7,0,3517,4],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[7,0,3517,3],
 "db/db7/classspell__portal__effect__acherus.html":[7,0,3759],
 "db/db7/classspell__portal__effect__acherus.html#a053451bd9ae6f7d639d0a977be843bc0":[7,0,3759,2],
 "db/db7/classspell__portal__effect__acherus.html#a36bb2b95651889eaa0321a7a327e173f":[7,0,3759,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX303 =
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[7,0,3647,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[7,0,3647,1],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a34f80edf782ade371e7a6fc908b47b4f":[7,0,3647,5],
-"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a8cad82701e0147e14f826243175e1c32":[7,0,3647,2],
-"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a9049c113d65b15a9a8e1143980a84b23":[7,0,3647,0],
-"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#aa05839a8dd785a2472e8e5f3a9fc58b0":[7,0,3647,3]
+"db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a8cad82701e0147e14f826243175e1c32":[7,0,3647,2]
 };

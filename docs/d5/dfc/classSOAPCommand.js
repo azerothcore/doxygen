@@ -9,5 +9,6 @@ var classSOAPCommand =
     [ "setCommandSuccess", "d5/dfc/classSOAPCommand.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
     [ "finishedPromise", "d5/dfc/classSOAPCommand.html#aec2e336644d004a59ad21431fbf80c83", null ],
     [ "m_printBuffer", "d5/dfc/classSOAPCommand.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
+    [ "m_self", "d5/dfc/classSOAPCommand.html#a4276b0d56ac60b507902d32395cb1885", null ],
     [ "m_success", "d5/dfc/classSOAPCommand.html#aab7299bceae48c2066f1885b90a34c60", null ]
 ];

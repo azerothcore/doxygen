@@ -1,5 +1,7 @@
 var NAVTREEINDEX276 =
 {
+"da/dad/structboss__harbinger__skyriss.html#a873413da06569343225e6659f8277b2c":[7,0,537,1],
+"da/dad/structboss__harbinger__skyriss.html#a8f9e1bd87c80041e07b428ec300ceef8":[7,0,537,5],
 "da/dad/structboss__harbinger__skyriss.html#a97d84139a3e970e22d7d422f2f825f12":[7,0,537,4],
 "da/dad/structboss__harbinger__skyriss.html#adb4cdec41f4b61f82efdb78fe995c313":[7,0,537,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html":[7,0,2665],
@@ -247,7 +249,5 @@ var NAVTREEINDEX276 =
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a8244b7b91de9a0413193001f41288f7f":[7,0,436,0,7],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa0abb31ac1a05c4a99e4b8079410867a":[7,0,436,0,12],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#aa71a73d3804187c6b89566ec3d1cd6ed":[7,0,436,0,4],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ab28b7d97956c21515c9872d8f9122f18":[7,0,436,0,6],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ae98715a31cd22febb1725977556a48aa":[7,0,436,0,11],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#afaac9e6939e0d873f576129546560fba":[7,0,436,0,3]
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ab28b7d97956c21515c9872d8f9122f18":[7,0,436,0,6]
 };

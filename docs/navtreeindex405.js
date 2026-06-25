@@ -1,5 +1,7 @@
 var NAVTREEINDEX405 =
 {
+"df/d53/classThreatReferenceImpl.html":[7,0,4488],
+"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4488,1],
 "df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4488,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html":[5,0,0,7,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a0803de4bbc9edad4f5bb2afc3c242dca":[5,0,0,7,0,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX405 =
 "df/d62/classspell__gen__vampiric__might.html#ac2a7ac008dca96bb8dc272118d184f3d":[7,0,3119,1],
 "df/d62/classspell__gen__vampiric__might.html#acc97118979bfbcbb1d9fbd88e12c9650":[7,0,3119,3],
 "df/d64/classProcChainGuardSimulator.html":[7,0,2449],
-"df/d64/classProcChainGuardSimulator.html#a267703c4a51bf3e8020e3298c85b74b3":[7,0,2449,3],
-"df/d64/classProcChainGuardSimulator.html#a5fd0de564b32520971082df9620d40b4":[7,0,2449,8],
-"df/d64/classProcChainGuardSimulator.html#ab0a0af1461f0f94a87273f468bc5454d":[7,0,2449,7]
+"df/d64/classProcChainGuardSimulator.html#a267703c4a51bf3e8020e3298c85b74b3":[7,0,2449,3]
 };

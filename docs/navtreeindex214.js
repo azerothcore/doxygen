@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d7/dc7/classnpc__muradin__bronzebeard__igb.html":[7,0,1992],
 "d7/dc7/classnpc__muradin__bronzebeard__igb.html#a1e6abc18a192b3acfa29bf03dd4eeed9":[7,0,1992,1],
 "d7/dc7/classnpc__muradin__bronzebeard__igb.html#af9b149e0780308f26d5adb1e6607a3ce":[7,0,1992,2],
 "d7/dc7/classspell__dk__anti__magic__shell__self.html":[7,0,2773],
@@ -248,6 +249,5 @@ var NAVTREEINDEX214 =
 "d7/dd6/classDBCStorageIterator.html#a5d579fb01742b5b7bbd92de4d44b0ca4":[7,0,987,5],
 "d7/dd6/classDBCStorageIterator.html#a5f84eca02dd9a1a3003cd6cf748c4be7":[7,0,987,4],
 "d7/dd6/classDBCStorageIterator.html#a734ca6242c1ab2c6ac1b3126f6ee81f0":[7,0,987,2],
-"d7/dd6/classDBCStorageIterator.html#a76f99de60a6ff7306b0e585b0a49def9":[7,0,987,6],
-"d7/dd6/classDBCStorageIterator.html#a88bf008d6f2d553a22f41a2bc1777a7d":[7,0,987,9]
+"d7/dd6/classDBCStorageIterator.html#a76f99de60a6ff7306b0e585b0a49def9":[7,0,987,6]
 };

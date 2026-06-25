@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d8/d74/classWorldSession.html#ad15df6e817fd3da1b10294a2a3e69353":[4,1,19,627],
 "d8/d74/classWorldSession.html#ad1fe9d70cc66e8a257ad84f0d2f7634c":[4,1,19,491],
 "d8/d74/classWorldSession.html#ad213a0094c787fb36624e86dc71add03":[4,1,19,484],
 "d8/d74/classWorldSession.html#ad2ad51b0713492e479280e480ecfeb8e":[4,1,19,198],
@@ -171,12 +172,12 @@ var NAVTREEINDEX228 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,990,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,990,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,990,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1608],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1608,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1608,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a5f9e9d07879705917e1cd261808f0a8f":[7,0,3435,2],
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a645e869079e711a87f1a957b42a35e98":[7,0,3435,0],
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a74cb62725d939000a1c4ab32b4f4335f":[7,0,3435,4],
-"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#ac86068a892255e38244c487a7456cd9f":[7,0,3435,3],
-"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b":[7,0,3435,1]
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#ac86068a892255e38244c487a7456cd9f":[7,0,3435,3]
 };

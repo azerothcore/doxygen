@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d1d/structboss__ouro.html#ac0b0c890f8cec105e6c284f6c1c5dd78":[7,0,663,4],
+"db/d1d/structboss__ouro.html#aee5769af48127617d40fa440d042e434":[7,0,663,5],
 "db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[7,0,663,13],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[7,0,2087,0],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a16ab37be9e31dcfc159b5c78b196b847":[7,0,2087,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d30/classPlayerDumpReader.html":[7,0,2412],
 "db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[7,0,2412,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[7,0,2412,3],
-"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[7,0,2412,0],
-"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[7,0,2412,2],
-"db/d30/structboss__hydromancer__thespia.html":[7,0,555]
+"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[7,0,2412,0]
 };

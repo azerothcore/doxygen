@@ -1,5 +1,7 @@
 var NAVTREEINDEX251 =
 {
+"d9/d94/boss__eviscerator_8cpp.html#a1d468a93bd60904f1256bc1e923149b1":[8,0,0,0,1,3,2,1,0,5,5],
+"d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,5,1],
 "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9920244895e362fd1d3b8789ac5f5811":[8,0,0,0,1,3,2,1,0,5,1,0],
 "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298cac553ad24710435636bd9736df18484c6":[8,0,0,0,1,3,2,1,0,5,1,1],
 "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298caf4b3b7a5e8b4481dcb60a25093408bb2":[8,0,0,0,1,3,2,1,0,5,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX251 =
 "d9/da3/classspell__dru__barkskin.html#ac1f03d22c5fdb1c07a0e0859e08bd561":[7,0,2854,3],
 "d9/da3/classspell__dru__barkskin.html#ad27880f797137cae09381e860727e2f7":[7,0,2854,1],
 "d9/da3/structTableStruct.html":[7,0,4464],
-"d9/da3/structTableStruct.html#a06a366c804088e6fbb170881004a5cff":[7,0,4464,0],
-"d9/da3/structTableStruct.html#ab00ee028c72660db98e8108583701471":[7,0,4464,2],
-"d9/da3/structTableStruct.html#ad5d909c6b4b062f3c4aac3f559c5eaec":[7,0,4464,1]
+"d9/da3/structTableStruct.html#a06a366c804088e6fbb170881004a5cff":[7,0,4464,0]
 };

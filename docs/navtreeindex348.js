@@ -1,5 +1,7 @@
 var NAVTREEINDEX348 =
 {
+"dd/d8d/DBCStores_8cpp.html#a209289d531d894389cae6485e7107a48":[8,0,0,0,1,2,14,0,149],
+"dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf":[8,0,0,0,1,2,14,0,96],
 "dd/d8d/DBCStores_8cpp.html#a23ecca9a1950219140a7e9a438fbca64":[8,0,0,0,1,2,14,0,5],
 "dd/d8d/DBCStores_8cpp.html#a23fb19d0b47be4bb90201681d6e485e8":[8,0,0,0,1,2,14,0,100],
 "dd/d8d/DBCStores_8cpp.html#a24adf55f193f8eb56072886ef306dd7b":[8,0,0,0,1,2,14,0,119],
@@ -247,7 +249,5 @@ var NAVTREEINDEX348 =
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[7,0,982,0,3],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[7,0,982,0,1],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[7,0,982,0,2],
-"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[7,0,982,0,0],
-"dd/d96/classDBCFile_1_1Exception.html#aeb732542a0ba63cde3d9b3bff93f4eda":[7,0,982,0,6],
-"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[7,0,982,0,5]
+"dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[7,0,982,0,0]
 };

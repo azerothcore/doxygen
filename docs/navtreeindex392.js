@@ -1,5 +1,7 @@
 var NAVTREEINDEX392 =
 {
+"de/db1/classRaceMgr.html#ac54cc09b38129b4d7cfc02767c8ba41e":[7,0,2489,6],
+"de/db1/classRaceMgr.html#af5b87bbc81180f92f18424dfb0181569":[7,0,2489,11],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html":[7,0,1754],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a0727aab751ddfbd94ae070e60e47e768":[7,0,1754,4],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a1217ed510a846d011143ae0a386c6236":[7,0,1754,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX392 =
 "de/dc1/classadt__MCNK.html#a2bb5ccc21840e79b89626d1b89c47b8a":[7,0,140,25],
 "de/dc1/classadt__MCNK.html#a366ff682b6b5a45f8afcddc1ea9a10db":[7,0,140,18],
 "de/dc1/classadt__MCNK.html#a3da25e5f560ee821026232fbaf52ba14":[7,0,140,37],
-"de/dc1/classadt__MCNK.html#a4d32d8ebbe4efdfccf554bcdbb11553d":[7,0,140,5],
-"de/dc1/classadt__MCNK.html#a539003b02d05edce481174559d0b4256":[7,0,140,11],
-"de/dc1/classadt__MCNK.html#a575a0027fe15f5e4330f74163395915e":[7,0,140,12]
+"de/dc1/classadt__MCNK.html#a4d32d8ebbe4efdfccf554bcdbb11553d":[7,0,140,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX331 =
 {
+"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[7,0,529,2],
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[7,0,529,3],
 "dc/db5/classnpc__frenzied__worgen.html":[7,0,1810],
 "dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[7,0,1810,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[7,0,1810,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[7,0,2024,0],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[7,0,2024,4],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[7,0,2024,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[7,0,2024,2],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[7,0,2024,1],
-"dc/dc8/classspell__pri__guardian__spirit.html":[7,0,3773]
+"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[7,0,2024,2]
 };

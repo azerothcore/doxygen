@@ -1,5 +1,7 @@
 var NAVTREEINDEX277 =
 {
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#ae98715a31cd22febb1725977556a48aa":[7,0,436,0,11],
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#afaac9e6939e0d873f576129546560fba":[7,0,436,0,3],
 "da/dba/ArenaTeam_8cpp.html":[8,0,0,0,1,2,8,5],
 "da/dba/classspell__kelthuzad__frost__blast.html":[7,0,3505],
 "da/dba/classspell__kelthuzad__frost__blast.html#abbe7ae557fb510457504f72adfa0aedc":[7,0,3505,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX277 =
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdaafe983a21f5af3651a9a9ba18d78368e":[8,0,0,0,1,2,16,7,5,121,24],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdab50eb322566282f008ccf8b31b3d4f0f":[8,0,0,0,1,2,16,7,5,121,22],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdab6efe0fd257bd42bab3bc710022e7f17":[8,0,0,0,1,2,16,7,5,121,6],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdac1fdfbf7b447fed24e578f248295f2b6":[8,0,0,0,1,2,16,7,5,121,31],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdac5e8eab8c4196f92de3594622aca33c0":[8,0,0,0,1,2,16,7,5,121,21],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdacb817aae054f9273b52ae3635263178d":[8,0,0,0,1,2,16,7,5,121,29]
+"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcdac1fdfbf7b447fed24e578f248295f2b6":[8,0,0,0,1,2,16,7,5,121,31]
 };

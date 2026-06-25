@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"d7/d46/classAuraEffect.html#a9939adabdadcf853bbabb848afb5e8b4":[7,0,293,115],
 "d7/d46/classAuraEffect.html#a9b5fb8fd52b54a9fc55491d48a62df4f":[7,0,293,75],
 "d7/d46/classAuraEffect.html#a9b7657d41ca8a463e12dca94fffdddbc":[7,0,293,221],
 "d7/d46/classAuraEffect.html#a9bc0fe3e6f5ce7ec0c62d3f2e25ebfb9":[7,0,293,126],
@@ -221,12 +222,12 @@ var NAVTREEINDEX198 =
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[7,0,52,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,0,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[7,0,0,2,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[7,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[7,0,0,2,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,0,4,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[7,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[7,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,0,4,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[7,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[7,0,1079,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[7,0,1079,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[7,0,1079,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#ac8e362d9f76350da106e128138737c5c":[7,0,4152,3],
 "d7/d4f/InstancePackets_8cpp.html":[8,0,0,0,1,2,39,0,15],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html":[7,0,3658],
-"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a1a9dfb50cec61386c5e3a3556f5d2f53":[7,0,3658,2],
-"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a83195ac3c9536a3485e41bf2c04884f6":[7,0,3658,4]
+"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a1a9dfb50cec61386c5e3a3556f5d2f53":[7,0,3658,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX385 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[7,0,6,1,4],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,20,1,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[7,0,6,1,12],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html":[7,0,3572],
@@ -247,7 +249,5 @@ var NAVTREEINDEX385 =
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[7,0,13,8,4,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[5,0,34,8,4,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[7,0,13,8,4,6],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[5,0,34,8,4,6],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[5,0,34,8,4,5],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[7,0,13,8,4,5]
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[5,0,34,8,4,6]
 };

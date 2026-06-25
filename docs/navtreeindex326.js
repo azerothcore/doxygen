@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"dc/d6e/classnpc__valkyr__battle__maiden.html":[7,0,2260],
+"dc/d6e/classnpc__valkyr__battle__maiden.html#a4316dd483b262e637ea39ba9e972744b":[7,0,2260,1],
 "dc/d6e/classnpc__valkyr__battle__maiden.html#ab067ea6f5f92039d471708039089e79c":[7,0,2260,2],
 "dc/d6f/action__ip__logger_8cpp.html":[8,0,0,0,1,3,10,1],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137b":[8,0,0,0,1,3,10,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d7c/uldaman_8h.html#a16c2b8982727dd1439379712d87864b3acf3daddab55457ad9e07286467a79672":[8,0,0,0,1,3,2,14,1,3,0],
 "dc/d7c/uldaman_8h.html#a16c2b8982727dd1439379712d87864b3af2ab523ddea33d0e8a2cf024a914c155":[8,0,0,0,1,3,2,14,1,3,1],
 "dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,2,14,1,2],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa2363e2a8b85f2c57c2d18bf00a61c710":[8,0,0,0,1,3,2,14,1,2,2],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa40a53a3946c9eea7cd2d479c78a0ce24":[8,0,0,0,1,3,2,14,1,2,0],
-"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,2,14,1,2,1]
+"dc/d7c/uldaman_8h.html#a57d2d4154291532e405ab880a40a999fa2363e2a8b85f2c57c2d18bf00a61c710":[8,0,0,0,1,3,2,14,1,2,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX382 =
 {
+"de/d5e/classGridTerrainData.html#af849394add099d86aa8ec9eb8c807f5d":[7,0,1248,8],
+"de/d5e/classnpc__gilthares.html":[7,0,1830],
 "de/d5e/classnpc__gilthares.html#a018cc6240a79216acb371241f63e3234":[7,0,1830,3],
 "de/d5e/classnpc__gilthares.html#a96293e28237a092c64f6a91d91bc7ff3":[7,0,1830,2],
 "de/d5e/classnpc__gilthares.html#af1e0746350b32b68825710e1c3ed91a5":[7,0,1830,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX382 =
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#af8d6189ed0209b4f70e32f92c00e13fb":[7,0,13,7,7,0],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#af8d6189ed0209b4f70e32f92c00e13fb":[5,0,34,7,7,0],
 "de/d6c/classspell__item__death__choice.html":[7,0,3332],
-"de/d6c/classspell__item__death__choice.html#a0d30a007e3f67b78197ac0cae83e2976":[7,0,3332,1],
-"de/d6c/classspell__item__death__choice.html#aad337f75e2132940ed3cfef209e1c73b":[7,0,3332,2],
-"de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645":[7,0,3332,0]
+"de/d6c/classspell__item__death__choice.html#a0d30a007e3f67b78197ac0cae83e2976":[7,0,3332,1]
 };

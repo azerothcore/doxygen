@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dd/d3b/structGameObjectTemplate.html#a11530b638423e363fb17c584d46ceafb":[7,0,1117,175],
+"dd/d3b/structGameObjectTemplate.html#a1267bc2462afdfe3e4ea223c46138a98":[7,0,1117,176],
 "dd/d3b/structGameObjectTemplate.html#a1825ac73734c3d058855facde7eb3b50":[7,0,1117,80],
 "dd/d3b/structGameObjectTemplate.html#a18f755bd8a231eb200e091809e2622dd":[7,0,1117,94],
 "dd/d3b/structGameObjectTemplate.html#a19610d1dbeacd9f5ee907fa427d6663d":[7,0,1117,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[7,0,1846,0,3],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[7,0,1846,0,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[7,0,1970,0],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1970,0,5],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[7,0,1970,0,1],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[7,0,1970,0,3]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1970,0,5]
 };

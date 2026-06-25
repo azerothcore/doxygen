@@ -1,5 +1,7 @@
 var NAVTREEINDEX335 =
 {
+"dc/de8/classBattlegroundIC.html":[7,0,341],
+"dc/de8/classBattlegroundIC.html#a09ff848e58542003c0ea3144d8ccd0ea":[7,0,341,7],
 "dc/de8/classBattlegroundIC.html#a0f5c44d05fea0a7a7b7a2f207af4a631":[7,0,341,20],
 "dc/de8/classBattlegroundIC.html#a187acc6a446edb836448937616c9f197":[7,0,341,24],
 "dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e":[7,0,341,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX335 =
 "dc/df8/structboss__vazruden__the__herald.html#a7dcbec1c99fdf4f740656a8379a99080":[7,0,776,5],
 "dc/df8/structboss__vazruden__the__herald.html#a97f761b2e3477a22cdc65c68700de72c":[7,0,776,0],
 "dc/df8/structboss__vazruden__the__herald.html#abd89aa3911c626864f8aada889ce99c9":[7,0,776,3],
-"dc/df8/structboss__vazruden__the__herald.html#adc98e358a751fd9881589aada4baf320":[7,0,776,8],
-"dc/df9/classspell__burning__maul.html":[7,0,2718],
-"dc/df9/classspell__burning__maul.html#a0653d8688f98822580a3243a0d47c17a":[7,0,2718,3]
+"dc/df8/structboss__vazruden__the__herald.html#adc98e358a751fd9881589aada4baf320":[7,0,776,8]
 };

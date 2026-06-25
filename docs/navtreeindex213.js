@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d7/dc0/classRASession.html#a55f31c8b5181bf5d95b353b875267783":[7,0,2495,8],
 "d7/dc0/classRASession.html#a59333e209be4ab694ad5bc62f4c245ce":[7,0,2495,0],
 "d7/dc0/classRASession.html#a72963e43e085c28b7d4bb50dfa45433a":[7,0,2495,1],
 "d7/dc0/classRASession.html#a817e53b23c54f2f6bbf7058eab0824b4":[7,0,2495,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8":[8,0,0,0,1,2,46,3,6,9],
 "d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30":[8,0,0,0,1,2,46,3,6,6],
 "d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f":[8,0,0,0,1,2,46,3,6,3],
-"d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709":[8,0,0,0,1,2,46,3,6,8],
-"d7/dc7/classnpc__muradin__bronzebeard__igb.html":[7,0,1992]
+"d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709":[8,0,0,0,1,2,46,3,6,8]
 };

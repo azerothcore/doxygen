@@ -9,6 +9,6 @@ var classServerMailMgr =
     [ "LoadMailServerTemplates", "dd/d59/classServerMailMgr.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
     [ "LoadMailServerTemplatesConditions", "dd/d59/classServerMailMgr.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
     [ "LoadMailServerTemplatesItems", "dd/d59/classServerMailMgr.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "dd/d59/classServerMailMgr.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "SendServerMail", "dd/d59/classServerMailMgr.html#a85c3556138304b75ad3dec0014e56def", null ],
     [ "_serverMailStore", "dd/d59/classServerMailMgr.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

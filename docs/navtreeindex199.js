@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a83195ac3c9536a3485e41bf2c04884f6":[7,0,3658,4],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a9dce02909356193476e66586aee87f1d":[7,0,3658,0],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#abc349f12f375b1f284eb78a363e8172a":[7,0,3658,3],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#add4f000f81d5d4112719c6dd7464163c":[7,0,3658,1],
@@ -7,12 +8,12 @@ var NAVTREEINDEX199 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a288f8917d73be30234e465778b1f6544":[7,0,4176,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a69f9cdbfc33ec39f629f08f20484b29e":[7,0,4176,2],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[7,0,4176,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,34,8,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[7,0,13,8,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[7,0,13,8,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[7,0,13,8,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[7,0,13,8,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[7,0,13,8,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d60/classVehicleScript.html#a4495f8900ecb85546ac23ebe4783ae7c":[7,0,4560,1],
 "d7/d60/classVehicleScript.html#a7d4bafe42756ee73b5ce79783842c243":[7,0,4560,6],
 "d7/d60/classVehicleScript.html#a9f708a7e432fcb4abe15dcabb0e5a035":[7,0,4560,0],
-"d7/d60/classVehicleScript.html#abbb42dcbc5fad97ed1df45ea7b3afe54":[7,0,4560,2],
-"d7/d60/classVehicleScript.html#ad4094366aba1fb6a1ff19361d1be9210":[7,0,4560,4]
+"d7/d60/classVehicleScript.html#abbb42dcbc5fad97ed1df45ea7b3afe54":[7,0,4560,2]
 };

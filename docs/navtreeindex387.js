@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"de/d95/classTicketMgr.html#af1176e11f3cb248599a0684b8a779012":[7,0,4490,24],
+"de/d95/structAuctionHouseUsablePlayerInfo.html":[7,0,275],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a3400ad05d8423ae6878fab815521ec6f":[7,0,275,1],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a41a57c372871c84a572d2f3697cb18aa":[7,0,275,3],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a55c2ad9d1cdea4913cb35deb4adc87fd":[7,0,275,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "de/da1/structObjectPosSelector.html#ae45835290af001233a7d76e1a5be6df0":[7,0,2324,10],
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[7,0,2324,25],
 "de/da1/structnpc__ulduar__flames__spread.html":[7,0,2233],
-"de/da1/structnpc__ulduar__flames__spread.html#aea2856e8ea84dfb447017a4d8b2ab088":[7,0,2233,0],
-"de/da1/structnpc__ulduar__flames__spread.html#af8cad4be1736f377721b7a0a63cfafe7":[7,0,2233,1],
-"de/da2/classachievement__resilient__victory.html":[7,0,88]
+"de/da1/structnpc__ulduar__flames__spread.html#aea2856e8ea84dfb447017a4d8b2ab088":[7,0,2233,0]
 };

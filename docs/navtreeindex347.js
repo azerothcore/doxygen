@@ -1,5 +1,7 @@
 var NAVTREEINDEX347 =
 {
+"dd/d80/structCharmInfo.html#a1e7ec9745d2b9356267636aae280b3f8":[7,0,880,7],
+"dd/d80/structCharmInfo.html#a1f0a58b55c95f17044d3130b04836edb":[7,0,880,35],
 "dd/d80/structCharmInfo.html#a2484c82adc8c25c18ba91b6fe1b21065":[7,0,880,8],
 "dd/d80/structCharmInfo.html#a2589e58973f407555d8f6c95c89f378e":[7,0,880,20],
 "dd/d80/structCharmInfo.html#a2d02468db5b8d79e794a23d6ba1038d4":[7,0,880,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d8d/DBCStores_8cpp.html#a173f98dd9664500fdbdd2f7dadb5885c":[8,0,0,0,1,2,14,0,10],
 "dd/d8d/DBCStores_8cpp.html#a1968d28bd1de03990d18d743025c65d9":[8,0,0,0,1,2,14,0,93],
 "dd/d8d/DBCStores_8cpp.html#a1e2bc0428362dfd0436e50c53695e7c3":[8,0,0,0,1,2,14,0,60],
-"dd/d8d/DBCStores_8cpp.html#a1e7e43bbfa9f15a9c4d8839d85be5c7f":[8,0,0,0,1,2,14,0,73],
-"dd/d8d/DBCStores_8cpp.html#a209289d531d894389cae6485e7107a48":[8,0,0,0,1,2,14,0,149],
-"dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf":[8,0,0,0,1,2,14,0,96]
+"dd/d8d/DBCStores_8cpp.html#a1e7e43bbfa9f15a9c4d8839d85be5c7f":[8,0,0,0,1,2,14,0,73]
 };

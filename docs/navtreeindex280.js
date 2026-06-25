@@ -1,5 +1,7 @@
 var NAVTREEINDEX280 =
 {
+"da/dd0/namespacePlayerSettingsStore.html#a070b072e62079e512137662a87d710f6":[5,0,27,0],
+"da/dd0/namespacePlayerSettingsStore.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641":[5,0,27,2],
 "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a":[5,0,27,3],
 "da/dd0/namespacePlayerSettingsStore.html#ab725e991f09f03e0413ffe44fa807ead":[5,0,27,4],
 "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745":[5,0,27,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX280 =
 "da/ddf/classspell__lich__king__vo__blocker.html#a9829789fe5544429454e29d228ce0daf":[7,0,3539,1],
 "da/ddf/classspell__lich__king__vo__blocker.html#ae81a441757ab9f10c29a7b313b99cf5f":[7,0,3539,3],
 "da/ddf/structboss__warbringer__omrogg.html":[7,0,789],
-"da/ddf/structboss__warbringer__omrogg.html#a176217a0767e8153d07996461ac68f60":[7,0,789,6],
-"da/ddf/structboss__warbringer__omrogg.html#a20f790595640cd41d636ad43c8837cda":[7,0,789,0],
-"da/ddf/structboss__warbringer__omrogg.html#a4d1154d64c999316f9ae02ab76cbc870":[7,0,789,7]
+"da/ddf/structboss__warbringer__omrogg.html#a176217a0767e8153d07996461ac68f60":[7,0,789,6]
 };

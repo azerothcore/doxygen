@@ -1,5 +1,6 @@
 var NAVTREEINDEX175 =
 {
+"d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[7,0,888,42],
 "d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[7,0,888,10],
 "d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[7,0,888,25],
 "d6/d38/classChatHandler.html#adb2eb23afa00d3651e0c8ca426e76cd6":[7,0,888,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d3f/classitem__only__for__flight.html":[7,0,1404],
 "d6/d3f/classitem__only__for__flight.html#a88cdf17a85630aef703f93143ba41d4d":[7,0,1404,1],
 "d6/d3f/classitem__only__for__flight.html#a8f905266dc8f24cf35598a37e7018ff7":[7,0,1404,0],
-"d6/d40/classachievement__intense__cold.html":[7,0,68],
-"d6/d40/classachievement__intense__cold.html#a2377357d6bfc03e5b91354428d3da3de":[7,0,68,0]
+"d6/d40/classachievement__intense__cold.html":[7,0,68]
 };

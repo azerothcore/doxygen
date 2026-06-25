@@ -1,5 +1,7 @@
 var NAVTREEINDEX422 =
 {
+"df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[7,0,2361,16],
+"df/de7/classOutdoorPvPTF.html#aea70b0297157e9cab3faf182e339ee3f":[7,0,2361,15],
 "df/de7/classOutdoorPvPTF.html#aeafe05bb2ef984a411436f3971239ae4":[7,0,2361,9],
 "df/de7/classOutdoorPvPTF.html#aff6c829b47c073150e5f5bf5d58477da":[7,0,2361,11],
 "df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b":[7,0,2361,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX422 =
 "df/df5/structboss__nefarian.html#a4a0a4cf4ee63ce744ffb580747f992b9":[7,0,650,1],
 "df/df5/structboss__nefarian.html#a5710c721f3a24762b8cc3e79e6a14951":[7,0,650,8],
 "df/df5/structboss__nefarian.html#a5d687fce34b17e22c605c263395e823b":[7,0,650,6],
-"df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,650,2],
-"df/df5/structboss__nefarian.html#a6fdf265e453deb8f9a4214beacf3dbab":[7,0,650,3],
-"df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,650,0]
+"df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,650,2]
 };

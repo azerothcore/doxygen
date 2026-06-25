@@ -1,5 +1,7 @@
 var NAVTREEINDEX338 =
 {
+"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#adf7b1b447d0d05a498dd8603dbfab1ab":[7,0,1813,0,4],
+"dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#ae697a98d23d94315768dc866852b6e07":[7,0,1813,0,0],
 "dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html#af842d47f1e8462fb6368e9dc7a070b84":[7,0,1813,0,2],
 "dd/d18/WorldScript_8h.html":[8,0,0,0,1,2,38,0,97],
 "dd/d18/WorldScript_8h.html#a4d497fc434376a9edca1897eabc39493":[8,0,0,0,1,2,38,0,97,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX338 =
 "dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[7,0,4484,1],
 "dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[7,0,4484,2],
 "dd/d26/structtf__tower__world__state.html#af01321c0fa24acf26086f7dccb326640":[7,0,4484,0],
-"dd/d27/Timer_8h.html":[8,0,0,0,0,15,36],
-"dd/d27/Timer_8h.html#a002742f64e7fe0b13f08d610eca4d672":[8,0,0,0,0,15,36,24],
-"dd/d27/Timer_8h.html#a046227c8517de892fe18e61451d37735":[8,0,0,0,0,15,36,14]
+"dd/d27/Timer_8h.html":[8,0,0,0,0,15,36]
 };

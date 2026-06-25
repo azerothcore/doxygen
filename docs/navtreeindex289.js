@@ -1,5 +1,7 @@
 var NAVTREEINDEX289 =
 {
+"db/d41/structnpc__midsummer__bonfire.html#aaa2f2822cb5c104ec2d90c2a344b409d":[7,0,1976,7],
+"db/d41/structnpc__midsummer__bonfire.html#abef815568f7d39bbda20f9611e3abc52":[7,0,1976,9],
 "db/d41/structnpc__sentinel__leader.html":[7,0,2116],
 "db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[7,0,2116,0],
 "db/d41/structnpc__sentinel__leader.html#a6d51ada16fac1f5eda8b09aede746a4b":[7,0,2116,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX289 =
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a79a3438f139bcfe50c9660cc1515e3bd":[8,0,0,0,1,3,5,0,0,5,10,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,0,0,5,10,2],
 "db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaf94214f1df0c82c0a7f57728c66b9f3":[8,0,0,0,1,3,5,0,0,5,10,5],
-"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acc4673213e415d0af94b5d7635399c85":[8,0,0,0,1,3,5,0,0,5,10,4],
-"db/d53/boss__prince__taldaram_8cpp.html#a3d2ecebf5f62756e3571412754a3455c":[8,0,0,0,1,3,5,0,0,5,12],
-"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,0,0,5,7]
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acc4673213e415d0af94b5d7635399c85":[8,0,0,0,1,3,5,0,0,5,10,4]
 };

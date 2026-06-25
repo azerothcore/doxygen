@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dc/d8b/zone__westfall_8cpp.html":[8,0,0,0,1,3,2,33],
+"dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fd":[8,0,0,0,1,3,2,33,2],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c":[8,0,0,0,1,3,2,33,2,6],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128":[8,0,0,0,1,3,2,33,2,3],
 "dc/d8b/zone__westfall_8cpp.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,33,2,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d9f/structTSpellSummary.html":[7,0,4521],
 "dc/d9f/structTSpellSummary.html#a390ced58f1c1981c05cc2aec32a4d579":[7,0,4521,1],
 "dc/d9f/structTSpellSummary.html#a7ae062fbfacc6d848f5570a3bae3230f":[7,0,4521,0],
-"dc/da0/classDataMap_1_1Base.html":[7,0,980,0],
-"dc/da0/classDataMap_1_1Base.html#a124eb44dd53aa6e964e691b12bcb8d57":[7,0,980,0,0],
-"dc/da0/classboss__razuvious__minion.html":[7,0,686]
+"dc/da0/classDataMap_1_1Base.html":[7,0,980,0]
 };

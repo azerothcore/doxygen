@@ -1,5 +1,7 @@
 var NAVTREEINDEX345 =
 {
+"dd/d63/SpellProcPPMTest_8cpp.html#a8d7e22c4c996419c0bdd6afe8ac51449":[8,0,0,0,2,2,0,9,22,17],
+"dd/d63/SpellProcPPMTest_8cpp.html#aa1421e922e607bf83d6348d8cfb3e61c":[8,0,0,0,2,2,0,9,22,20],
 "dd/d63/SpellProcPPMTest_8cpp.html#aa3f155d3e40e3d9a72b9aab37e02c2d5":[8,0,0,0,2,2,0,9,22,23],
 "dd/d63/SpellProcPPMTest_8cpp.html#aa9d6bf7b0b381063c82d2eb7e7b32881":[8,0,0,0,2,2,0,9,22,16],
 "dd/d63/SpellProcPPMTest_8cpp.html#ab62c7f868fef4a454b48e828cfc97bc1":[8,0,0,0,2,2,0,9,22,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d76/structboss__mor__grayhoof.html#ad2a897281d308475957e2636c6536fdd":[7,0,639,8],
 "dd/d76/structboss__mor__grayhoof.html#aef1001233a51ad3bb9963c540d39d79b":[7,0,639,0],
 "dd/d76/structboss__mor__grayhoof.html#af313bd8509a76cd6b6fbc197f15afbff":[7,0,639,5],
-"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html":[7,0,1326,0],
-"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a165f784f54e178b51ac899aff6f12747":[7,0,1326,0,9],
-"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a534c7f97e7425160f9a2b1e555d0aa29":[7,0,1326,0,1]
+"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html":[7,0,1326,0]
 };

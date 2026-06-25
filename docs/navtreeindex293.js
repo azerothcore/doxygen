@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93eaace3f0b910cb7e9fe1967bcba0150bd38":[8,0,0,0,1,3,9,4,234,0],
+"db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc":[8,0,0,0,1,3,9,4,186],
 "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf":[8,0,0,0,1,3,9,4,186,0],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfb":[8,0,0,0,1,3,9,4,196],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba049e0d56c3f30d8991dde2beae302c4f":[8,0,0,0,1,3,9,4,196,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "db/d72/structLootItem.html#a37ee3823a2144ed57f754d826fcbc093":[7,0,1475,17],
 "db/d72/structLootItem.html#a3dfa14b4a36b8750892b9cf6f3814ec9":[7,0,1475,8],
 "db/d72/structLootItem.html#a4d18c53f68ff454b7521e8afcab85b24":[7,0,1475,14],
-"db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202":[7,0,1475,3],
-"db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928":[7,0,1475,18],
-"db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777":[7,0,1475,16]
+"db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202":[7,0,1475,3]
 };

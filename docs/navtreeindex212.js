@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa14b578ff5b019a5c087624fb502d5a91":[8,0,0,0,1,3,3,0,1,3,25],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967":[8,0,0,0,1,3,3,0,1,3,28],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa1b1201d7f92af2d6b96543a7e4d84d57":[8,0,0,0,1,3,3,0,1,3,16],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa202f3aa19fe8e05412d5530d9901e1aa":[8,0,0,0,1,3,3,0,1,3,2],
@@ -139,14 +140,14 @@ var NAVTREEINDEX212 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2753,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4087],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4087,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4087,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805ae8dbffe988cb73fdd98c0effd197bfcd":[8,0,0,0,1,3,5,2,1,4,12,3],
 "d7/dc0/classRASession.html":[7,0,2495],
 "d7/dc0/classRASession.html#a0f87da6517747387b3899b608328a8c5":[7,0,2495,9],
-"d7/dc0/classRASession.html#a547d5f26b74209003a8a3c7f8aa4af5d":[7,0,2495,3],
-"d7/dc0/classRASession.html#a55f31c8b5181bf5d95b353b875267783":[7,0,2495,8]
+"d7/dc0/classRASession.html#a547d5f26b74209003a8a3c7f8aa4af5d":[7,0,2495,3]
 };

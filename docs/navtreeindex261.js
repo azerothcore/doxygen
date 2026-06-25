@@ -1,5 +1,7 @@
 var NAVTREEINDEX261 =
 {
+"da/d0e/classspell__azjol__nerub__impale__summon.html":[7,0,2654],
+"da/d0e/classspell__azjol__nerub__impale__summon.html#a2a3602af522bb8658c1bfdede1234efd":[7,0,2654,0],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#a89827e4db37bea4847c79265d95386c6":[7,0,2654,2],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#aba235111ea4e186064a85295466f2a3f":[7,0,2654,1],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html":[8,0,0,0,1,3,5,10,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX261 =
 "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac1150c56f4c1aa81c823e2f9892ff818":[8,0,0,0,1,3,2,15,6,3,0],
 "da/d20/instance__zulaman_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,15,6,6],
 "da/d20/instance__zulaman_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,15,6,7],
-"da/d20/instance__zulaman_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,2,15,6,5],
-"da/d20/instance__zulaman_8cpp.html#aaeb3edf8a24b61b22bb42d4c403c2847":[8,0,0,0,1,3,2,15,6,10],
-"da/d20/instance__zulaman_8cpp.html#adf1b51af5d53157d3494923f0b8dc479":[8,0,0,0,1,3,2,15,6,9]
+"da/d20/instance__zulaman_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,2,15,6,5]
 };

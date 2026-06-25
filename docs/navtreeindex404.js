@@ -1,5 +1,7 @@
 var NAVTREEINDEX404 =
 {
+"df/d40/classspell__optic__link__aura.html#a4b08cefe7d334635b70d389cc9df4901":[7,0,3688,2],
+"df/d40/classspell__optic__link__aura.html#a4e7d5317d28207136b1fd3477a51ae06":[7,0,3688,1],
 "df/d40/classspell__optic__link__aura.html#a508ff9e362d586497839aa29ceae1227":[7,0,3688,0],
 "df/d41/classSocketMgr.html":[7,0,2594],
 "df/d41/classSocketMgr.html#a0802f42ee5a7c8fec400e5034d87caac":[7,0,2594,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX404 =
 "df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[7,0,1503,5],
 "df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[7,0,1503,10],
 "df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[7,0,1503,7],
-"df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[7,0,1503,1],
-"df/d53/classThreatReferenceImpl.html":[7,0,4488],
-"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4488,1]
+"df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[7,0,1503,1]
 };

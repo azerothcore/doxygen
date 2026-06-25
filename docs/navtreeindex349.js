@@ -1,5 +1,7 @@
 var NAVTREEINDEX349 =
 {
+"dd/d96/classDBCFile_1_1Exception.html#aeb732542a0ba63cde3d9b3bff93f4eda":[7,0,982,0,6],
+"dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[7,0,982,0,5],
 "dd/d96/classDBCFile_1_1Exception.html#af9bfdfbfe28783d5ad6f7b08cb845c75":[7,0,982,0,4],
 "dd/d96/classOutdoorPvP__nagrand.html":[7,0,2349],
 "dd/d96/classOutdoorPvP__nagrand.html#ac6e0f41eafb915604bd1b1d84e915f87":[7,0,2349,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX349 =
 "dd/da2/structboss__epoch__hunter.html#a2571f98f36d1271f3911617e0fdfba54":[7,0,461,2],
 "dd/da2/structboss__epoch__hunter.html#a38d3cbed2ce8f810fd169e0004fd91dc":[7,0,461,1],
 "dd/da2/structboss__epoch__hunter.html#a61456e680e9108dd841e83d97536ef1b":[7,0,461,3],
-"dd/da2/structboss__epoch__hunter.html#a652d14ebfced39b8164687a713780600":[7,0,461,0],
-"dd/da3/classSpellProcDBCValidationParamTest.html":[7,0,4411],
-"dd/da3/classspell__fire__festival__fortitude.html":[7,0,2944]
+"dd/da2/structboss__epoch__hunter.html#a652d14ebfced39b8164687a713780600":[7,0,461,0]
 };

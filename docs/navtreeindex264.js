@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"da/d32/classBattlegroundRL.html#ae2e0ccf2badc174b7f5c909f805fe669":[7,0,349,0],
+"da/d32/classspell__blood__siphon__aura.html":[7,0,2694],
 "da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[7,0,2694,2],
 "da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[7,0,2694,0],
 "da/d32/classspell__blood__siphon__aura.html#abd1254c53c04f72f848d8641affc729d":[7,0,2694,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/d42/classspell__pos__glacial__strike__aura.html#a8a165d3931353fefc2e6a7c7f309150e":[7,0,3762,0],
 "da/d44/classspell__fight__fire__bomber.html":[7,0,2943],
 "da/d44/classspell__fight__fire__bomber.html#a47bae4bdc488480f91517465d8e1b784":[7,0,2943,1],
-"da/d44/classspell__fight__fire__bomber.html#a7131340678ca685db98e2087661321a9":[7,0,2943,2],
-"da/d44/classspell__fight__fire__bomber.html#a85874062bceced2694fff725649df892":[7,0,2943,0],
-"da/d44/classspell__fight__fire__bomber.html#af1b74ceee10fc48a0b85d4a284103950":[7,0,2943,3]
+"da/d44/classspell__fight__fire__bomber.html#a7131340678ca685db98e2087661321a9":[7,0,2943,2]
 };

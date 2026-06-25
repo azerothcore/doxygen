@@ -1,5 +1,7 @@
 var NAVTREEINDEX272 =
 {
+"da/d82/classreload__commandscript.html#ad629858f868d9520edd4a2b1e31a766a":[7,0,2510,21],
+"da/d82/classreload__commandscript.html#ad79102fd04467077b6fa5d1df970fc29":[7,0,2510,107],
 "da/d82/classreload__commandscript.html#ad88731968a6af96abe610dcf8fff6b3e":[7,0,2510,23],
 "da/d82/classreload__commandscript.html#adb0176be856dda39288e6c2a7c889804":[7,0,2510,116],
 "da/d82/classreload__commandscript.html#adf117bd0305a576611307db9b1375ae9":[7,0,2510,86],
@@ -247,7 +249,5 @@ var NAVTREEINDEX272 =
 "da/d90/classSpellMgr.html#a4ac476fbee4805c8f83cd532b06cdaaa":[7,0,4399,34],
 "da/d90/classSpellMgr.html#a4ec8d854c5357f1edfd29a136203b0da":[7,0,4399,91],
 "da/d90/classSpellMgr.html#a5068f30b0beff4ba63dd4589cb7530f5":[7,0,4399,57],
-"da/d90/classSpellMgr.html#a542127facbfc4376dcc0a732dc46086e":[7,0,4399,49],
-"da/d90/classSpellMgr.html#a5447b1a2108c3f9ae01d5a29a4adaed4":[7,0,4399,39],
-"da/d90/classSpellMgr.html#a55bc007cf84b3e484e489f7c03e31e9f":[7,0,4399,54]
+"da/d90/classSpellMgr.html#a542127facbfc4376dcc0a732dc46086e":[7,0,4399,49]
 };

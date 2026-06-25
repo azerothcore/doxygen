@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/da0/classDataMap_1_1Base.html#a124eb44dd53aa6e964e691b12bcb8d57":[7,0,980,0,0],
+"dc/da0/classboss__razuvious__minion.html":[7,0,686],
 "dc/da0/classboss__razuvious__minion.html#ae23d51c9ebfe31f624a749578d27252c":[7,0,686,1],
 "dc/da0/classboss__razuvious__minion.html#afab8dccbc0b098a1fa058ef8479ba865":[7,0,686,2],
 "dc/da0/item__scripts_8cpp.html":[8,0,0,0,1,3,10,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a035223abc4d17df598dfcbc05f7f0770":[7,0,13,14,4,4],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a2c9b1c07b5a52a5526643a6894290e0c":[7,0,13,14,4,2],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a2c9b1c07b5a52a5526643a6894290e0c":[5,0,34,14,4,2],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a43ee482017cfde3cf8f9f36f2dadf3f0":[5,0,34,14,4,7],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a43ee482017cfde3cf8f9f36f2dadf3f0":[7,0,13,14,4,7],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[5,0,34,14,4,6]
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a43ee482017cfde3cf8f9f36f2dadf3f0":[5,0,34,14,4,7]
 };

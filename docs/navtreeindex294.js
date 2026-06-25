@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928":[7,0,1475,18],
+"db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777":[7,0,1475,16],
 "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2":[7,0,1475,1],
 "db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5":[7,0,1475,7],
 "db/d72/structLootItem.html#a9021fa353f7538706349702498a4e778":[7,0,1475,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "db/d80/structinstance__blackrock__spire.html#aca6c36f4a530fed59064c4d03f09954e":[7,0,1317,44],
 "db/d80/structinstance__blackrock__spire.html#adefd2897f1eecba347a5f11cd2de0570":[7,0,1317,22],
 "db/d80/structinstance__blackrock__spire.html#adf4dafa927b4b7b249432ac655da37a9":[7,0,1317,24],
-"db/d80/structinstance__blackrock__spire.html#ae46a8d0466722ad9afc7158760537159":[7,0,1317,13],
-"db/d80/structinstance__blackrock__spire.html#ae4fa8112ac0b672edb4327d69f3e9943":[7,0,1317,4],
-"db/d80/structinstance__blackrock__spire.html#ae6fd3a36a9dc715f25fee5015ad0fd96":[7,0,1317,43]
+"db/d80/structinstance__blackrock__spire.html#ae46a8d0466722ad9afc7158760537159":[7,0,1317,13]
 };

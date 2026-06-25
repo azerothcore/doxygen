@@ -1,5 +1,7 @@
 var NAVTREEINDEX254 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a36f8a13e2844278c955f3a8155e7a11c":[8,0,0,0,1,3,10,13,3],
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html":[7,0,1380,0],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a03d127077c4548de0bee62be9bdbb051":[7,0,1380,0,29],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a0fe57173d9a5b8228713641fd740013e":[7,0,1380,0,0],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a16018bd9fb8c8c614c86418b0440c0af":[7,0,1380,0,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX254 =
 "d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a5b4baade8dd78ab3dc00e1003f679fb3":[7,0,2469,0,6],
 "d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a63276ee687270e668e7c51876ced5fb1":[7,0,2469,0,7],
 "d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a7a748ec0f04555caf696be1792701134":[7,0,2469,0,3],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a81f06a2940c72077d0f8bbe0d6292c5e":[7,0,2469,0,2],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#aac0ba6a0017441eb25c4b294fde99186":[7,0,2469,0,8],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#ab87a39965f1ca9d48d6e5a88fde51976":[7,0,2469,0,12]
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a81f06a2940c72077d0f8bbe0d6292c5e":[7,0,2469,0,2]
 };

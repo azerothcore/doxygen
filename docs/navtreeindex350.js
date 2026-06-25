@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"dd/da3/classSpellProcDBCValidationParamTest.html":[7,0,4411],
+"dd/da3/classspell__fire__festival__fortitude.html":[7,0,2944],
 "dd/da3/classspell__fire__festival__fortitude.html#a50ee42c11937759b6c52c2ab994481c4":[7,0,2944,0],
 "dd/da3/classspell__fire__festival__fortitude.html#a8dc12a723c2da948c38119e3fc34df35":[7,0,2944,1],
 "dd/da3/structBankBagSlotPricesEntry.html":[7,0,316],
@@ -247,7 +249,5 @@ var NAVTREEINDEX350 =
 "dd/dac/pit__of__saron_8h.html#a9dc9929debb1873942d7fda1ca4fc162":[8,0,0,0,1,3,5,4,2,5,30],
 "dd/dac/pit__of__saron_8h.html#a9ff6d7283cdd67f954792aee1d8bdfca":[8,0,0,0,1,3,5,4,2,5,39],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5":[8,0,0,0,1,3,5,4,2,5,11],
-"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0081125b090371220ef02ed75d3f22ce":[8,0,0,0,1,3,5,4,2,5,11,4],
-"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0254144a479cd638cacfc16a75fa5d5b":[8,0,0,0,1,3,5,4,2,5,11,8],
-"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0b3dc22911d0d08f4995a9baeeda73d8":[8,0,0,0,1,3,5,4,2,5,11,0]
+"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0081125b090371220ef02ed75d3f22ce":[8,0,0,0,1,3,5,4,2,5,11,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX346 =
 {
+"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a165f784f54e178b51ac899aff6f12747":[7,0,1326,0,9],
+"dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a534c7f97e7425160f9a2b1e555d0aa29":[7,0,1326,0,1],
 "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a68c2495f80ac2b53c8f46c857472709c":[7,0,1326,0,7],
 "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a7570ef3ca74178fec80c5018cbecf42a":[7,0,1326,0,3],
 "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#a76241f1358b8e6c7660f76c98e1556e7":[7,0,1326,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d80/structCharmInfo.html#a03d345ed642bf670ba2ff0935ddaf7db":[7,0,880,27],
 "dd/d80/structCharmInfo.html#a073f5e139ea3b0155ffef63b37574073":[7,0,880,26],
 "dd/d80/structCharmInfo.html#a127efafffaa6b990a0600b4251e09500":[7,0,880,0],
-"dd/d80/structCharmInfo.html#a16d422faa579c883cda9ce00539c1fe7":[7,0,880,55],
-"dd/d80/structCharmInfo.html#a1e7ec9745d2b9356267636aae280b3f8":[7,0,880,7],
-"dd/d80/structCharmInfo.html#a1f0a58b55c95f17044d3130b04836edb":[7,0,880,35]
+"dd/d80/structCharmInfo.html#a16d422faa579c883cda9ce00539c1fe7":[7,0,880,55]
 };

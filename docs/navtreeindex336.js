@@ -1,5 +1,7 @@
 var NAVTREEINDEX336 =
 {
+"dc/df9/classspell__burning__maul.html":[7,0,2718],
+"dc/df9/classspell__burning__maul.html#a0653d8688f98822580a3243a0d47c17a":[7,0,2718,3],
 "dc/df9/classspell__burning__maul.html#a4d14f81325ecd0bde345d60a135ad8ba":[7,0,2718,0],
 "dc/df9/classspell__burning__maul.html#ab32413873bec92540f9e85e8013b7ea2":[7,0,2718,2],
 "dc/df9/classspell__burning__maul.html#aed5f87523c58d94c8f98b76c06abb140":[7,0,2718,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX336 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a90eee01f380f97f033c82d7c6ec48d00":[7,0,3199,1],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a91c5a0e10c308332e18dc40033049996":[7,0,3199,6],
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[7,0,3199,2],
-"dd/d07/structlfg_1_1LfgReward.html":[7,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html":[5,0,17,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,17,15,1]
+"dd/d07/structlfg_1_1LfgReward.html":[7,0,5,15]
 };

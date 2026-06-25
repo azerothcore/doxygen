@@ -1,5 +1,7 @@
 var NAVTREEINDEX247 =
 {
+"d9/d6a/icecrown__citadel_8h.html#ae0f2faf614aebac327abe2a2393cde51":[8,0,0,0,1,3,5,6,13,16],
+"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09":[8,0,0,0,1,3,5,6,13,13],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a0686f06ed6fc95878968b9d3ea89aeb8":[8,0,0,0,1,3,5,6,13,13,4],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a2446f7b785b5111cf468a82daf14cf4f":[8,0,0,0,1,3,5,6,13,13,7],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09a24b9bc6ff23bf1201a19a90db77fcad0":[8,0,0,0,1,3,5,6,13,13,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d6f/classnpc__taxi.html#a1bce89202ea3ed3fcbebd19a305c6a78":[7,0,2169,1],
 "d9/d6f/classnpc__taxi.html#a5a7443abba8cf98a3073195177981edc":[7,0,2169,2],
 "d9/d6f/classnpc__taxi.html#ac67282316d6ded2ff62b8a1800b8fae1":[7,0,2169,0],
-"d9/d70/DetourExtended_8cpp.html":[8,0,0,0,0,11,0],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html":[7,0,4040],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a33cd336a6ca68e66e6046cfdac776fee":[7,0,4040,2]
+"d9/d70/DetourExtended_8cpp.html":[8,0,0,0,0,11,0]
 };

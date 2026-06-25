@@ -1,5 +1,7 @@
 var NAVTREEINDEX324 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aa6cd189de4f30f4c0d5e1c7b50f632ae":[8,0,0,0,1,2,26,2,0,80],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aa82bbf49e6a8840fd9af0723322299ce":[8,0,0,0,1,2,26,2,0,54],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aab333cb6ea201ed046e30151a5133e5c":[8,0,0,0,1,2,26,2,0,149],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aad1790a0cb4080961169966548f1e8d5":[8,0,0,0,1,2,26,2,0,68],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aaec33771bd52355289d0f5923c28c666":[8,0,0,0,1,2,26,2,0,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX324 =
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a37a68eddad23001a85a4a2f77e237810":[7,0,1042,4],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6":[7,0,1042,0],
 "dc/d5a/classEncryptableAndCompressiblePacket.html#a88f11ce75f439fd290bdc09156d559c2":[7,0,1042,5],
-"dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[7,0,1042,2],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[5,0,34,6,44],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[7,0,13,6,44]
+"dc/d5a/classEncryptableAndCompressiblePacket.html#ad376b973f02c1b0cd2afbb43cc081917":[7,0,1042,2]
 };

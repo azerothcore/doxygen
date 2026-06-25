@@ -1,5 +1,7 @@
 var NAVTREEINDEX325 =
 {
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[5,0,34,6,44],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[7,0,13,6,44],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[7,0,13,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,34,6,44,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#a5f002d36c492ed2caf2290f4a073a7d0":[7,0,2019,0,1],
 "dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#a8261a259cfbee0d3610ee441406fafcd":[7,0,2019,0,3],
 "dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#aab717dd49284c483759a6223dbd7e6ea":[7,0,2019,0,4],
-"dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#afba1b71178c563a3db906057cd20de45":[7,0,2019,0,5],
-"dc/d6e/classnpc__valkyr__battle__maiden.html":[7,0,2260],
-"dc/d6e/classnpc__valkyr__battle__maiden.html#a4316dd483b262e637ea39ba9e972744b":[7,0,2260,1]
+"dc/d6d/structnpc__oscillating__frequency__scanner__master__bunny_1_1npc__oscillating__frequency__scanner__master__bunnyAI.html#afba1b71178c563a3db906057cd20de45":[7,0,2019,0,5]
 };

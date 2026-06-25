@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"de/d42/classspell__kiljaeden__shadow__spike__aura.html#ad3c0a2c270d1b8c31761674f89500b8a":[7,0,3513,2],
+"de/d42/classspell__kiljaeden__shadow__spike__aura.html#aec1ff41f0051a6c6dfbd11ea7741b1af":[7,0,3513,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[7,0,2222,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2222,0,4],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[7,0,2222,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "de/d4f/structboss__razorgore.html#adde8b3a9e9feb6d90da59774650f4eff":[7,0,683,0],
 "de/d4f/structboss__razorgore.html#aedb56ab80ad9608cc8221c618059ed8f":[7,0,683,8],
 "de/d4f/structboss__razorgore.html#af08b3c1fc68a1374606ea4c5f9dc7ab0":[7,0,683,13],
-"de/d4f/structboss__razorgore.html#af5af46c895361c9eceb4e82d45b3243a":[7,0,683,10],
-"de/d52/structboss__malygos.html":[7,0,626],
-"de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306":[7,0,626,12]
+"de/d4f/structboss__razorgore.html#af5af46c895361c9eceb4e82d45b3243a":[7,0,683,10]
 };

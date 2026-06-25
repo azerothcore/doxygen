@@ -497,7 +497,7 @@ var searchData=
   ['sendsaveemblemresult_494',['SendSaveEmblemResult',['../de/d79/classGuild.html#ac04211f3519113a67aa4b241292c0ae2',1,'Guild']]],
   ['sendscourgeinvasionmail_495',['SendScourgeInvasionMail',['../d3/da9/classWorldState.html#ab6e287b6be058d7260edbbf86d112305',1,'WorldState']]],
   ['sendsellerror_496',['SendSellError',['../d2/d4b/classPlayer.html#a7747f247c99e10af3354ec8d605907c1',1,'Player']]],
-  ['sendservermail_497',['SendServerMail',['../dd/d59/classServerMailMgr.html#af615430a40e9ddfff49bc338b31d6c1b',1,'ServerMailMgr']]],
+  ['sendservermail_497',['SendServerMail',['../dd/d59/classServerMailMgr.html#a85c3556138304b75ad3dec0014e56def',1,'ServerMailMgr']]],
   ['sendservermessage_498',['SendServerMessage',['../d0/d5e/classWorldSessionMgr.html#a9bca1ddebb09c5fdba4d8dd70076a6ba',1,'WorldSessionMgr']]],
   ['sendsetphaseshift_499',['SendSetPhaseShift',['../d8/d74/classWorldSession.html#a4c7ffb49ba56d19291631bcafa7180ae',1,'WorldSession']]],
   ['sendsetplayerdeclinednamesresult_500',['SendSetPlayerDeclinedNamesResult',['../d8/d74/classWorldSession.html#a792c0c556e23c689a69baa2540006d3d',1,'WorldSession']]],

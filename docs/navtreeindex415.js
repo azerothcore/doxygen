@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[7,0,2017,0],
+"df/dc9/classCreatureScript.html":[7,0,956],
 "df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[7,0,956,11],
 "df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[7,0,956,1],
 "df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[7,0,956,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/dd9/classUnit.html#a009a87eeb9cc40ed7017610cbb914b9b":[7,0,4534,634],
 "df/dd9/classUnit.html#a014a963253d5d4adcbede3cba48c74ca":[7,0,4534,543],
 "df/dd9/classUnit.html#a01b0b41f37931730378362b09a9b776c":[7,0,4534,448],
-"df/dd9/classUnit.html#a01fdf823f9dc03df6c13c77b37d2708d":[7,0,4534,312],
-"df/dd9/classUnit.html#a022c8f42084e444ddc9647a97a45bb82":[7,0,4534,328],
-"df/dd9/classUnit.html#a022e7db5320778a8a0c78cb43af1a23b":[7,0,4534,977]
+"df/dd9/classUnit.html#a01fdf823f9dc03df6c13c77b37d2708d":[7,0,4534,312]
 };

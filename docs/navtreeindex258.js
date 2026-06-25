@@ -1,5 +1,7 @@
 var NAVTREEINDEX258 =
 {
+"d9/dfc/structnpc__ulduar__leviathan__mkii.html#a2ea5689299a108e729bde24de63e71aa":[7,0,2243,6],
+"d9/dfc/structnpc__ulduar__leviathan__mkii.html#a47ceec21f91030a1810392ecc0adafd2":[7,0,2243,2],
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a61fed1e77c98422cda155255dc7730d7":[7,0,2243,12],
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a790900963d9e073f4f8e4a0546721f52":[7,0,2243,9],
 "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a79b9146be412e5862b47cd34073a2fd7":[7,0,2243,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX258 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a623110ea8b691aea1355722adb9db749":[8,0,0,0,1,2,48,4,1,225],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6240cd023cd5f2d3d6239569cdc63a75":[8,0,0,0,1,2,48,4,1,36],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a65226e0db8ade2e497d4243ad80462e4":[8,0,0,0,1,2,48,4,1,387],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a652be4634ff10d7eb37bda10afe8b51b":[8,0,0,0,1,2,48,4,1,284],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a65370abb41aa146e79c0f8485212a500":[8,0,0,0,1,2,48,4,1,171],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a65e31506a6852d8db0623b6b0d6fb8c6":[8,0,0,0,1,2,48,4,1,247]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a652be4634ff10d7eb37bda10afe8b51b":[8,0,0,0,1,2,48,4,1,284]
 };

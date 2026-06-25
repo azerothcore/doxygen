@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[7,0,2024,1],
+"dc/dc8/classspell__pri__guardian__spirit.html":[7,0,3773],
 "dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[7,0,3773,6],
 "dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[7,0,3773,3],
 "dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3773,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dd7/classboss__wushoolay.html#a70b476358956fd05d6effb75517e2b3d":[7,0,797,2],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[7,0,4175],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[7,0,4175,2],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[7,0,4175,1],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[7,0,4175,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4175,3]
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[7,0,4175,1]
 };
