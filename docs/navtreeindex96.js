@@ -249,5 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d40/classspell__hun__hunting__party.html#a202ed9cca388b984f0dfebb64a512c47":[7,0,3212,0],
 "d3/d40/classspell__hun__hunting__party.html#a39b41d1560869ef9a1231fd39d0a652f":[7,0,3212,3],
 "d3/d40/classspell__hun__hunting__party.html#a6cab1853296da43b4a4cb39bedb20ffa":[7,0,3212,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4361]
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4363]
 };

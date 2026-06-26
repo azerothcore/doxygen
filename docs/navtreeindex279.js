@@ -1,5 +1,9 @@
 var NAVTREEINDEX279 =
 {
+"da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103af02b0882bd022d38de23cdc52e5cd534":[8,0,0,0,1,2,16,7,5,107,1],
+"da/dbf/Player_8h.html#ad02e5b85aad803acf5ec43c31028d07e":[8,0,0,0,1,2,16,7,5,64],
+"da/dbf/Player_8h.html#ad061a6c6874af01a0dba9f5fe5ad9909":[8,0,0,0,1,2,16,7,5,46],
+"da/dbf/Player_8h.html#ad3dd8ed856e16139eaa67147d40cf24e":[8,0,0,0,1,2,16,7,5,35],
 "da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631":[8,0,0,0,1,2,16,7,5,136],
 "da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631a14f05147e756e9d928f6759e43541968":[8,0,0,0,1,2,16,7,5,136,3],
 "da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631a484f2cf1987c9512855c222040c9a5e6":[8,0,0,0,1,2,16,7,5,136,1],
@@ -196,10 +200,10 @@ var NAVTREEINDEX279 =
 "da/dca/structCharacterCustomizeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,16,0],
 "da/dca/structCharacterCustomizeInfo.html#ade5b2dff213547ab4d707070f8979085":[4,1,16,6],
 "da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5],
-"da/dcb/classspell__skeram__arcane__explosion.html":[7,0,4100],
-"da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[7,0,4100,0],
-"da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[7,0,4100,1],
-"da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[7,0,4100,2],
+"da/dcb/classspell__skeram__arcane__explosion.html":[7,0,4102],
+"da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[7,0,4102,0],
+"da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[7,0,4102,1],
+"da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[7,0,4102,2],
 "da/dcb/structboss__golemagg.html":[7,0,518],
 "da/dcb/structboss__golemagg.html#a27a5041fcf93a3da6fe2130af24de386":[7,0,518,5],
 "da/dcb/structboss__golemagg.html#aa68a9ff1858591b65ad650c18954bdea":[7,0,518,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX279 =
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a50b5e4d1ff3baf4698483f47828ee492":[7,0,1329,0,7],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202":[7,0,1329,0,1],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05":[7,0,1329,0,3],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[7,0,1329,0,10],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a93b651e93e28c63272a8d06d0c521aef":[7,0,1329,0,13],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a9b014cab41720868f61028ef201cadaa":[7,0,1329,0,11],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#aab01abeae0f8df7c74c65c689c3c9f30":[7,0,1329,0,0],
-"da/dd0/namespacePlayerSettingsStore.html":[5,0,27]
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[7,0,1329,0,10]
 };

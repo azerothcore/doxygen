@@ -1,5 +1,9 @@
 var NAVTREEINDEX331 =
 {
+"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[7,0,529,6],
+"dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[7,0,529,1],
+"dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[7,0,529,0],
+"dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[7,0,529,4],
 "dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[7,0,529,2],
 "dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[7,0,529,3],
 "dc/db5/classnpc__frenzied__worgen.html":[7,0,1810],
@@ -245,9 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dc7/structQuaternion.html#a533b5e90b6333d89190828f28721e61d":[7,0,2467,3],
 "dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[7,0,2467,2],
 "dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[7,0,2467,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html":[7,0,2024],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[7,0,2024,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[7,0,2024,4],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[7,0,2024,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[7,0,2024,2]
+"dc/dc7/structnpc__parasitic__shadowfiend.html":[7,0,2024]
 };

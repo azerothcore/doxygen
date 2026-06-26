@@ -1,5 +1,9 @@
 var NAVTREEINDEX257 =
 {
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a24474e3db4b8776d9a3eaab350ba370f":[8,0,0,0,1,3,5,9,2,16,3,2],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9":[8,0,0,0,1,3,5,9,2,16,3,12],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba":[8,0,0,0,1,3,5,9,2,16,3,8],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,5,9,2,16,3,14],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c":[8,0,0,0,1,3,5,9,2,16,3,5],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27":[8,0,0,0,1,3,5,9,2,16,3,10],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985":[8,0,0,0,1,3,5,9,2,16,3,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX257 =
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[7,0,2689,2],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[7,0,2689,0],
 "d9/dfc/classspell__item__wraith__scythe__drain__life.html":[7,0,3478],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html#a05c6a249b32f41d8d33b40d07bd3c44d":[7,0,3478,0],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html#a6dc3beb1f857c2c2a719bd882cc3568d":[7,0,3478,2],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html#ace682a64f3ca32e4f4151034ad936ea6":[7,0,3478,1],
-"d9/dfc/structnpc__ulduar__leviathan__mkii.html":[7,0,2243],
-"d9/dfc/structnpc__ulduar__leviathan__mkii.html#a1756b869c05920f3b9d64931c036fdb7":[7,0,2243,14]
+"d9/dfc/classspell__item__wraith__scythe__drain__life.html#a05c6a249b32f41d8d33b40d07bd3c44d":[7,0,3478,0]
 };

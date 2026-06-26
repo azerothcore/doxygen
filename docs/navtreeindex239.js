@@ -1,5 +1,9 @@
 var NAVTREEINDEX239 =
 {
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,0,7,8,2],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[7,0,0,4,8,2],
+"d9/d01/structGtChanceToMeleeCritEntry.html":[7,0,1259],
+"d9/d01/structGtChanceToMeleeCritEntry.html#a4df2f98014dd653657b80b4d98e54896":[7,0,1259,0],
 "d9/d02/Arena_8h.html":[8,0,0,0,1,2,8,3],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9":[8,0,0,0,1,2,8,3,2],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd":[8,0,0,0,1,2,8,3,2,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d03/structModelHeader.html#ae41008e814f9e92f6b2a2eee286d47f7":[7,0,1547,20],
 "d9/d03/structModelHeader.html#ae91914678dff064bc9f73bac7223aa20":[7,0,1547,62],
 "d9/d03/structModelHeader.html#af380a1b8594ed0db8680d31a3a01c8a1":[7,0,1547,51],
-"d9/d03/structModelHeader.html#af9868234251a6f1eb7e809a7d183d68d":[7,0,1547,47],
-"d9/d03/structModelHeader.html#afa18360276cbf9324675c0716079eecf":[7,0,1547,42],
-"d9/d03/structModelHeader.html#afe6561867455a787dfd9a2d784cc9546":[7,0,1547,41],
-"d9/d04/classboss__azuregos.html":[7,0,407],
-"d9/d04/classboss__azuregos.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83":[7,0,407,2]
+"d9/d03/structModelHeader.html#af9868234251a6f1eb7e809a7d183d68d":[7,0,1547,47]
 };

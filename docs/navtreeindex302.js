@@ -1,5 +1,9 @@
 var NAVTREEINDEX302 =
 {
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a543f4a4539eb2a9bc69021b9bc580915":[8,0,0,0,1,3,10,14,57,14],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5732d1eaea6917e07d4f7b5407042469":[8,0,0,0,1,3,10,14,57,7],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5ecfda4bcc8fa4e70e5b37438f6878d9":[8,0,0,0,1,3,10,14,57,9],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a6b51d9bddae864a23de2b1e42ec55ce1":[8,0,0,0,1,3,10,14,57,11],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a726854a6ac484db50f2f2beafc10f930":[8,0,0,0,1,3,10,14,57,5],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a773eb442220f586b840e02d6e0026125":[8,0,0,0,1,3,10,14,57,1],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a8be77a82a338bb45d912b34df244a028":[8,0,0,0,1,3,10,14,57,4],
@@ -215,10 +219,10 @@ var NAVTREEINDEX302 =
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[8,0,0,0,1,2,11,2,0,1],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2],
 "db/db2/Chat_8cpp.html#ae39447b85bcee503ddb354d2950d638a":[8,0,0,0,1,2,11,2,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4010],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4010,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4010,0],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4010,1],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4012],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4012,2],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4012,0],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4012,1],
 "db/db4/SpellProcCooldownTest_8cpp.html":[8,0,0,0,2,2,0,9,13],
 "db/db4/SpellProcCooldownTest_8cpp.html#a370529a902674d7c3d85a958b68f014a":[8,0,0,0,2,2,0,9,13,4],
 "db/db4/SpellProcCooldownTest_8cpp.html#a46fee264bedefac5bf751dc80e5175ca":[8,0,0,0,2,2,0,9,13,3],
@@ -231,8 +235,8 @@ var NAVTREEINDEX302 =
 "db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[8,0,0,0,2,2,0,9,13,1],
 "db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[8,0,0,0,2,2,0,9,13,6],
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,9,13,8],
-"db/db4/classSQLQueryHolder.html":[7,0,4444],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4444,0],
+"db/db4/classSQLQueryHolder.html":[7,0,4446],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4446,0],
 "db/db5/structboss__hydross__the__unstable.html":[7,0,556],
 "db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[7,0,556,3],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[7,0,556,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX302 =
 "db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4":[7,0,556,11],
 "db/db5/structboss__hydross__the__unstable.html#ad05fa00eade9614ed54b03a9a4d5d348":[7,0,556,1],
 "db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[7,0,556,9],
-"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[7,0,556,8],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[7,0,3517],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[7,0,3517,1],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[7,0,3517,0],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[7,0,3517,2]
+"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[7,0,556,8]
 };

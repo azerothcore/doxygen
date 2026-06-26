@@ -1,5 +1,9 @@
 var NAVTREEINDEX315 =
 {
+"dc/d0b/cs__mail_8cpp.html#a60390ceaf08c6b305bdc77fd27243938":[8,0,0,0,1,3,0,30,1],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[7,0,1605,0],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[7,0,1605,0,3],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a062eb272826d52ffd9b72054f970b761":[7,0,1605,0,0],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56":[7,0,1605,0,6],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[7,0,1605,0,2],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[7,0,1605,0,5],
@@ -233,8 +237,8 @@ var NAVTREEINDEX315 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[8,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[8,0,0,0,1,3,2,1,0,4,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,4,2],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[8,0,0,0,1,3,2,1,0,4,2,1],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[8,0,0,0,1,3,2,1,0,4,2,0],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[8,0,0,0,1,3,2,1,0,4,1],
-"dc/d20/structSHostageInfo.html":[7,0,2567],
-"dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[7,0,2567,1],
-"dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[7,0,2567,2],
-"dc/d20/structSHostageInfo.html#ac14168f8c25efe7fa22ec802259b3a11":[7,0,2567,0]
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[8,0,0,0,1,3,2,1,0,4,1]
 };

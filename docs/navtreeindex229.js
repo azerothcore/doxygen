@@ -1,5 +1,9 @@
 var NAVTREEINDEX229 =
 {
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a5f9e9d07879705917e1cd261808f0a8f":[7,0,3435,2],
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a645e869079e711a87f1a957b42a35e98":[7,0,3435,0],
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a74cb62725d939000a1c4ab32b4f4335f":[7,0,3435,4],
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#ac86068a892255e38244c487a7456cd9f":[7,0,3435,3],
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b":[7,0,3435,1],
 "d8/d7e/OutdoorPvPNA_8cpp.html":[8,0,0,0,1,3,6,7],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a03015585e7619177355fefd05f85e1c7":[8,0,0,0,1,3,6,7,2],
@@ -211,10 +215,10 @@ var NAVTREEINDEX229 =
 "d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[7,0,2553,4],
 "d8/d86/structServerMail.html#a818b993f72f82a022277e1c8d9160011":[7,0,2553,3],
 "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec":[7,0,2553,6],
-"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4551],
-"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4551,0],
-"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4551,1],
-"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4551,2],
+"d8/d86/structVampiricBiteTargetSelector.html":[7,0,4553],
+"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4553,0],
+"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4553,1],
+"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4553,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d8b/classMockArenaSeasonTeamRewarder.html#a423c022319fa9025b56db18cc27945b3":[7,0,1542,0],
 "d8/d8b/classspell__feed__stormcrest__eagle.html":[7,0,2935],
 "d8/d8b/classspell__feed__stormcrest__eagle.html#a816afa9351039bd3006ad8e6aa641c3c":[7,0,2935,2],
-"d8/d8b/classspell__feed__stormcrest__eagle.html#a9244f2b0a03d408006ef4de0c680baeb":[7,0,2935,0],
-"d8/d8b/classspell__feed__stormcrest__eagle.html#ab4025d8a4acee4723dcca972bce01f45":[7,0,2935,1],
-"d8/d8c/structRegularGrid2D_1_1Cell.html":[7,0,2509,0],
-"d8/d8c/structRegularGrid2D_1_1Cell.html#a13e8b2fcda561f185777e4d8b48da3f5":[7,0,2509,0,2],
-"d8/d8c/structRegularGrid2D_1_1Cell.html#a32a8b5ab15a28fb06672fcf62ac63d1e":[7,0,2509,0,0]
+"d8/d8b/classspell__feed__stormcrest__eagle.html#a9244f2b0a03d408006ef4de0c680baeb":[7,0,2935,0]
 };

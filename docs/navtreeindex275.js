@@ -1,5 +1,9 @@
 var NAVTREEINDEX275 =
 {
+"da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1251,7],
+"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1251,5],
+"da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1251,6],
+"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[7,0,1251,3],
 "da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[7,0,1251,2],
 "da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[7,0,1251,1],
 "da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[7,0,1251,4],
@@ -188,11 +192,11 @@ var NAVTREEINDEX275 =
 "da/da9/classinstance__ruby__sanctum.html":[7,0,1353],
 "da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[7,0,1353,1],
 "da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[7,0,1353,2],
-"da/da9/classspell__slippery__floor__periodic.html":[7,0,4102],
-"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[7,0,4102,3],
-"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[7,0,4102,1],
-"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[7,0,4102,2],
-"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[7,0,4102,0],
+"da/da9/classspell__slippery__floor__periodic.html":[7,0,4104],
+"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[7,0,4104,3],
+"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[7,0,4104,1],
+"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[7,0,4104,2],
+"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[7,0,4104,0],
 "da/daa/BattlegroundRV_8cpp.html":[8,0,0,0,1,2,8,1,16],
 "da/daa/BattlegroundRV_8cpp.html#a20f119684cfae65594c4cb1fc59e60c1":[8,0,0,0,1,2,8,1,16,1],
 "da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[8,0,0,0,1,2,8,1,16,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX275 =
 "da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
 "da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0],
 "da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[4,1,10,1],
-"da/dad/CombatPackets_8cpp.html":[8,0,0,0,1,2,39,0,11],
-"da/dad/structboss__harbinger__skyriss.html":[7,0,537],
-"da/dad/structboss__harbinger__skyriss.html#a045ec2371ad99c3465b8f089eb604e0a":[7,0,537,6],
-"da/dad/structboss__harbinger__skyriss.html#a245179f74d61c2671b397e8f2473b599":[7,0,537,0],
-"da/dad/structboss__harbinger__skyriss.html#a2b5152ddeb53d382294bd0fe7455a21e":[7,0,537,2]
+"da/dad/CombatPackets_8cpp.html":[8,0,0,0,1,2,39,0,11]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX209 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae016f7bbaf63a8b1d484c63fa446af05":[8,0,0,0,1,2,28,2,0,1184],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae04a48638a22f1cd38cb4ec3a26385ce":[8,0,0,0,1,2,28,2,0,862],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae04af4c972828d8af45ddbb771665154":[8,0,0,0,1,2,28,2,0,1047],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae089dc82eacbf6a201cc93abda6220f5":[8,0,0,0,1,2,28,2,0,10],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae13801064eaf736ff34ec5147ce0b6c0":[8,0,0,0,1,2,28,2,0,767],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae1bd3b99a6d6233173ce87f297817456":[8,0,0,0,1,2,28,2,0,1134],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae1cbbd544f2432cf396d039743c0142c":[8,0,0,0,1,2,28,2,0,601],
@@ -213,9 +217,9 @@ var NAVTREEINDEX209 =
 "d7/da0/structGameEventFinishCondition.html#a8c144531f876b6def613c0011e0efe47":[7,0,1098,2],
 "d7/da0/structGameEventFinishCondition.html#abc88850d392fb4b62e778d09445de0be":[7,0,1098,0],
 "d7/da0/structGameEventFinishCondition.html#ae1d182aef449388993e4965de447d971":[7,0,1098,3],
-"d7/da1/structSpellCastTimesEntry.html":[7,0,4372],
-"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[7,0,4372,1],
-"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[7,0,4372,0],
+"d7/da1/structSpellCastTimesEntry.html":[7,0,4374],
+"d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[7,0,4374,1],
+"d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[7,0,4374,0],
 "d7/da2/classspell__item__deathbringers__will__heroic.html":[7,0,3333],
 "d7/da2/classspell__item__deathbringers__will__heroic.html#a0564e0b3ae8c18c35d4c32feb7e365bd":[7,0,3333,0],
 "d7/da2/classspell__item__deathbringers__will__heroic.html#a07f8c8aa2ed37512b197084febed50ef":[7,0,3333,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX209 =
 "d7/da4/classDBCFileLoader.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd":[7,0,983,2],
 "d7/da4/classDBCFileLoader.html#a32c6a04567395f66270858c5feb57f5f":[7,0,983,13],
 "d7/da4/classDBCFileLoader.html#a3c536a9333a06213a37c95087eaaf8e3":[7,0,983,6],
-"d7/da4/classDBCFileLoader.html#a5961bf01316cc14a075c1b874000e8a2":[7,0,983,21],
-"d7/da4/classDBCFileLoader.html#a7aa68d259f6295df3029456bde143862":[7,0,983,17],
-"d7/da4/classDBCFileLoader.html#a920472d71232fa759bce768fdca9a1c4":[7,0,983,16],
-"d7/da4/classDBCFileLoader.html#a990308cf88d2772db090c37a66e9f9e5":[7,0,983,7],
-"d7/da4/classDBCFileLoader.html#a99ba418c63c49cf9a028626b8e282a01":[7,0,983,1]
+"d7/da4/classDBCFileLoader.html#a5961bf01316cc14a075c1b874000e8a2":[7,0,983,21]
 };

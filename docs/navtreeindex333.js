@@ -1,7 +1,11 @@
 var NAVTREEINDEX333 =
 {
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[7,0,4175,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4175,3],
+"dc/dd7/classboss__wushoolay.html#a70b476358956fd05d6effb75517e2b3d":[7,0,797,2],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[7,0,4177],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[7,0,4177,2],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[7,0,4177,1],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[7,0,4177,0],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4177,3],
 "dc/dd8/classachievement__all__you__can__eat.html":[7,0,34],
 "dc/dd8/classachievement__all__you__can__eat.html#a0995024862a445ea1f0ff5c82475fc64":[7,0,34,0],
 "dc/dd8/classachievement__all__you__can__eat.html#a0baa07a7cbd239e4a5fcfd3e687aedf6":[7,0,34,1],
@@ -214,11 +218,11 @@ var NAVTREEINDEX333 =
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[8,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[8,0,0,0,1,3,3,0,10,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78":[8,0,0,0,1,3,3,0,10,2],
-"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,3952],
-"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,3952,2],
-"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,3952,3],
-"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,3952,1],
-"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,3952,0],
+"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,3954],
+"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,3954,2],
+"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,3954,3],
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,3954,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,3954,0],
 "dc/dde/QuestPackets_8h.html":[8,0,0,0,1,2,39,0,32],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[8,0,0,0,1,3,7,0,0,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[8,0,0,0,1,3,7,0,0,2,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX333 =
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[7,0,1127,3],
 "dc/ddf/brewfest_8cpp.html":[8,0,0,0,1,3,3,1],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784c":[8,0,0,0,1,3,3,1,40],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[8,0,0,0,1,3,3,1,40,4],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca17383917acea21c7a408d5e02de97873":[8,0,0,0,1,3,3,1,40,1],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded":[8,0,0,0,1,3,3,1,40,3],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[8,0,0,0,1,3,3,1,40,5],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf2538d75def0c158b7a28c33187f39d0":[8,0,0,0,1,3,3,1,40,6]
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[8,0,0,0,1,3,3,1,40,4]
 };

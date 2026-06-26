@@ -1,5 +1,13 @@
 var NAVTREEINDEX339 =
 {
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,34,10,11,3],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,11,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[7,0,13,10,11,5],
+"dd/d26/structtf__tower__world__state.html":[7,0,4486],
+"dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[7,0,4486,1],
+"dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[7,0,4486,2],
+"dd/d26/structtf__tower__world__state.html#af01321c0fa24acf26086f7dccb326640":[7,0,4486,0],
+"dd/d27/Timer_8h.html":[8,0,0,0,0,15,36],
 "dd/d27/Timer_8h.html#a002742f64e7fe0b13f08d610eca4d672":[8,0,0,0,0,15,36,24],
 "dd/d27/Timer_8h.html#a046227c8517de892fe18e61451d37735":[8,0,0,0,0,15,36,14],
 "dd/d27/Timer_8h.html#a0f9116e063a085b763f9c19ba37f9a44":[8,0,0,0,0,15,36,31],
@@ -40,10 +48,10 @@ var NAVTREEINDEX339 =
 "dd/d27/Timer_8h.html#af415b3b5ef693e8bd9a8b7f5088ab704":[8,0,0,0,0,15,36,22],
 "dd/d27/Timer_8h.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[8,0,0,0,0,15,36,33],
 "dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[8,0,0,0,0,15,36,21],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html":[7,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html":[5,0,0,0,3],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,0,0,3,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html":[7,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[7,0,0,0,2,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,0,0,3,0],
 "dd/d27/classOPvPCapturePointTF.html":[7,0,2338],
 "dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[7,0,2338,7],
 "dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[7,0,2338,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX339 =
 "dd/d27/structSmartAction.html#aa1593a4355153e0c1889c2778b3d3687":[7,0,2581,143],
 "dd/d27/structSmartAction.html#aa1f70393af6642757d05083c78155ddf":[7,0,2581,15],
 "dd/d27/structSmartAction.html#aa2cfa5f326eebaf51efac728b8f0b8d0":[7,0,2581,248],
-"dd/d27/structSmartAction.html#aa46e187acb02b2671a1b600dae7055fe":[7,0,2581,166],
-"dd/d27/structSmartAction.html#aa4ec8811308d4a82f9d3279e263fb585":[7,0,2581,12],
-"dd/d27/structSmartAction.html#aa53726b5b70de58bedd360c52a97d5a5":[7,0,2581,195],
-"dd/d27/structSmartAction.html#aa57990af8febf9541bdef4332bfafafc":[7,0,2581,309],
-"dd/d27/structSmartAction.html#aa589f8a89c13cbca377b34232248adb9":[7,0,2581,9],
-"dd/d27/structSmartAction.html#aa6552e1be1fa4d0355a39f8404ee7d5a":[7,0,2581,205],
-"dd/d27/structSmartAction.html#aa702dd935ba66b095c2772472247fa13":[7,0,2581,79],
-"dd/d27/structSmartAction.html#aa76cd98461b26f6969ba2bf682b87872":[7,0,2581,279],
-"dd/d27/structSmartAction.html#aa7bd614939c6716a0e467853f814a711":[7,0,2581,25]
+"dd/d27/structSmartAction.html#aa46e187acb02b2671a1b600dae7055fe":[7,0,2581,166]
 };

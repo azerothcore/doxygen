@@ -1,7 +1,7 @@
 var NAVTREEINDEX132 =
 {
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4613,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[7,0,4613,0],
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4615,1],
+"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[7,0,4615,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[7,0,638,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[7,0,638,0,8],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[7,0,638,0,3],
