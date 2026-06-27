@@ -1,5 +1,15 @@
 var NAVTREEINDEX409 =
 {
+"df/d87/structFireworkShowGameobject.html#af0a1551e7a1ced5413b6096ba15db8b2":[7,0,1071,0],
+"df/d88/BattlegroundQueue_8h.html":[8,0,0,0,1,2,8,14],
+"df/d88/BattlegroundQueue_8h.html#a532cb5269831c504ba78101c6f3d61c9":[8,0,0,0,1,2,8,14,6],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17":[8,0,0,0,1,2,8,14,5],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c":[8,0,0,0,1,2,8,14,5,1],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697":[8,0,0,0,1,2,8,14,5,2],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4":[8,0,0,0,1,2,8,14,5,0],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239":[8,0,0,0,1,2,8,14,5,4],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[8,0,0,0,1,2,8,14,5,5],
+"df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[8,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[8,0,0,0,1,2,8,14,7],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[7,0,0,57],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,0,69],
@@ -239,15 +249,5 @@ var NAVTREEINDEX409 =
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,982,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,982,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,5],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,4],
-"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[7,0,982,1,3],
-"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[7,0,982,1,2],
-"df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[7,0,982,1,12],
-"df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[7,0,982,1,8],
-"df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[7,0,982,1,9],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,982,1,7],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,982,1,6],
-"df/d94/classShockVortexExplodeEvent.html":[7,0,2566],
-"df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[7,0,2566,1],
-"df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[7,0,2566,2]
+"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,4]
 };

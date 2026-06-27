@@ -1,5 +1,15 @@
 var NAVTREEINDEX380 =
 {
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a69ed0205bba93d86ff4a28f0317bf37e":[7,0,1377,0,20],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a6e1f9553dd78441d41eebf81eb0e743f":[7,0,1377,0,0],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a727452275b30e8c7a64b69079790e754":[7,0,1377,0,12],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a7dbf5504651c521c971c8f9f63387992":[7,0,1377,0,15],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a8ffa659e32c32a5699b85b68c52239cf":[7,0,1377,0,19],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ab1a0732c93f1e57772a61cbce5edb7fb":[7,0,1377,0,5],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ab57bdeba49160c7992d9108c41c153d8":[7,0,1377,0,6],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#abcaffd445d47826c47f03a94f511b362":[7,0,1377,0,9],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ad8310db74874b9f870f4f41dc866c7be":[7,0,1377,0,7],
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#add59d5cf1b5098bc303fef469ccfb034":[7,0,1377,0,11],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#aea59c925ddafa04fbfc7c0df32c0e6d8":[7,0,1377,0,3],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html":[7,0,1619,0],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1619,0,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX380 =
 "de/d4f/classnpc__invis__infernal__caster.html":[7,0,1913],
 "de/d4f/classnpc__invis__infernal__caster.html#a9aed081ef904075830428bbc76f53874":[7,0,1913,1],
 "de/d4f/classnpc__invis__infernal__caster.html#aede0c5cc390ea423169b1cba66d929cd":[7,0,1913,2],
-"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html":[7,0,2677],
-"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a1b5999f392cec9fea4431c3f746ee034":[7,0,2677,0],
-"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a4748a82fcc7b3794850461092ee6b2e4":[7,0,2677,1],
-"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#acfa32dfc22778576d0dd3096c456ebe0":[7,0,2677,2],
-"de/d4f/structboss__razorgore.html":[7,0,683],
-"de/d4f/structboss__razorgore.html#a12d65de9cb7d7a1832fbfc97a282a3ef":[7,0,683,4],
-"de/d4f/structboss__razorgore.html#a3320568d7cca02b452e12d15f9f7a5c3":[7,0,683,12],
-"de/d4f/structboss__razorgore.html#a394cab33de1aa498e9e36c58a9ce8bbf":[7,0,683,6],
-"de/d4f/structboss__razorgore.html#a77abd52a929b3f0c11c48b00230f53b9":[7,0,683,2],
-"de/d4f/structboss__razorgore.html#a9bc297ea52c1d7265f21c4ddc7aceafb":[7,0,683,5],
-"de/d4f/structboss__razorgore.html#a9bd9429aefc4ea9fdf5d3cb2471ac4ec":[7,0,683,15]
+"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html":[7,0,2677]
 };

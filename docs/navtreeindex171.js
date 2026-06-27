@@ -1,5 +1,15 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,11,36],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a11d5384606920a3f2c2ca046ad9af0e8":[8,0,0,0,1,3,5,6,11,36,5],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f41794aafc9d878c1d2e3aa735cbf44":[8,0,0,0,1,3,5,6,11,36,12],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a38b3910f9c9ace34ed580d201a9a0401":[8,0,0,0,1,3,5,6,11,36,13],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3b8d6b455bcd3d3304a8aa1db137fd7b":[8,0,0,0,1,3,5,6,11,36,6],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d3d147dbdefaa5a8280f3d1bcc15ea8":[8,0,0,0,1,3,5,6,11,36,16],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3fe130a1ffc1da78e4ed40eed398259f":[8,0,0,0,1,3,5,6,11,36,2],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48a513f29bfbc131b39a1734dd59323c":[8,0,0,0,1,3,5,6,11,36,9],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56d55c53b4e0fe1d263dddd948b3c29d":[8,0,0,0,1,3,5,6,11,36,3],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5a8b269f342d509ada479802af81ef34":[8,0,0,0,1,3,5,6,11,36,15],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a733ec3cc041933cc7cc48b0f905e16e4":[8,0,0,0,1,3,5,6,11,36,7],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a795689a4c106048deaa65c75600cfbec":[8,0,0,0,1,3,5,6,11,36,11],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7c0e1852fcd144d0d92508fa578622ec":[8,0,0,0,1,3,5,6,11,36,17],
@@ -239,15 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac83962bef84b68cef6d7937769730598":[7,0,2621,2],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#aee4d5908035d06be2f1469a50db02e26":[7,0,2621,0],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html":[7,0,3528],
-"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a274d65aa393a65e19bbb67a5d07c7428":[7,0,3528,2],
-"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a5afd50fdc8393a12cd39a56c342f9179":[7,0,3528,1],
-"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a6489e3a58421da7c448a24d6673564c5":[7,0,3528,0],
-"d6/d23/structHolidayRule.html":[7,0,1290],
-"d6/d23/structHolidayRule.html#a2105d2c9d4b2867650f0a3b67b035416":[7,0,1290,1],
-"d6/d23/structHolidayRule.html#a25f2529332f23c93b37e5c918032eb3d":[7,0,1290,4],
-"d6/d23/structHolidayRule.html#a50a70dfa2fdb407101edf051eeacbad6":[7,0,1290,0],
-"d6/d23/structHolidayRule.html#a55e1cf64111db7eeeec72c594b76c56d":[7,0,1290,2],
-"d6/d23/structHolidayRule.html#aaa9bf14668239ea561aecc33104e245a":[7,0,1290,3],
-"d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[7,0,1290,5],
-"d6/d23/structSpellValue.html":[7,0,4439]
+"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a274d65aa393a65e19bbb67a5d07c7428":[7,0,3528,2]
 };

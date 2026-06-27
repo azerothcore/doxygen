@@ -1,5 +1,15 @@
 var NAVTREEINDEX116 =
 {
+"d3/ddc/structGtChanceToMeleeCritBaseEntry.html":[7,0,1258],
+"d3/ddc/structGtChanceToMeleeCritBaseEntry.html#aecccbaadaaf541b2bbdb85d8ea08d0bd":[7,0,1258,0],
+"d3/ddd/classat__icc__start__frostwing__gauntlet.html":[7,0,235],
+"d3/ddd/classat__icc__start__frostwing__gauntlet.html#a285cd9046d5658fc5d917c3427bbbe83":[7,0,235,0],
+"d3/ddd/classat__icc__start__frostwing__gauntlet.html#a7137166f281876f00d4e03c846875d85":[7,0,235,1],
+"d3/ddd/classspell__deathwhisper__dark__reckoning.html":[7,0,2759],
+"d3/ddd/classspell__deathwhisper__dark__reckoning.html#a0e87dae1be4f69e6412129f14056eb79":[7,0,2759,1],
+"d3/ddd/classspell__deathwhisper__dark__reckoning.html#a1b26d102252bf7e0fd480076820d343f":[7,0,2759,2],
+"d3/ddd/classspell__deathwhisper__dark__reckoning.html#a211d52aa385a874730abc43b083f2d22":[7,0,2759,3],
+"d3/ddd/classspell__deathwhisper__dark__reckoning.html#a402e6c1a23070e3cef9b66ca0992d1af":[7,0,2759,0],
 "d3/ddd/structnpc__steam__tonk_1_1npc__steam__tonkAI.html":[7,0,2146,0],
 "d3/ddd/structnpc__steam__tonk_1_1npc__steam__tonkAI.html#a5c76625843b30302b2af0a4ae8b85bd2":[7,0,2146,0,3],
 "d3/ddd/structnpc__steam__tonk_1_1npc__steam__tonkAI.html#a64bc74af412304d50526e5c93e01a333":[7,0,2146,0,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a0ea1a24d4c5f770b952f01797e3297e4":[8,0,0,0,1,3,3,4,18,0],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a19469bfbd8500f7792d877d12c25c986":[8,0,0,0,1,3,3,4,18,6],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a278d50c00ac072316b1d226f1777afa9":[8,0,0,0,1,3,3,4,18,12],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a32b57e5a5f704691ca448ccf585ee9d1":[8,0,0,0,1,3,3,4,18,5],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a3c973b007034402bed2f4bbe60573c9f":[8,0,0,0,1,3,3,4,18,3],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a4259cd9669ada28efe1c8a6afc5084ea":[8,0,0,0,1,3,3,4,18,4],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a475524ef5d317ef781414558100058a5":[8,0,0,0,1,3,3,4,18,19],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,3,4,18,17],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a5b56075727a550d04ee9bdcd3a2922f2":[8,0,0,0,1,3,3,4,18,15],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a6408dab767b03cd7fea6a28f280e5f32":[8,0,0,0,1,3,3,4,18,20],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a65466a1b90af7a85496b0cd62801f13f":[8,0,0,0,1,3,3,4,18,2],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a6a6b82a27dee564314f1fd153fbbd4f9":[8,0,0,0,1,3,3,4,18,9],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a7ac150b897a3caa435b91e1ffeaca6d0":[8,0,0,0,1,3,3,4,18,7],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a921aaa72888fdb560632d03143237bfd":[8,0,0,0,1,3,3,4,18,22]
+"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a32b57e5a5f704691ca448ccf585ee9d1":[8,0,0,0,1,3,3,4,18,5]
 };

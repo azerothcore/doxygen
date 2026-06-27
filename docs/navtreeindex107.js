@@ -1,5 +1,15 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a29271316dd0f2572aaa630d469b85f6a":[8,0,0,0,1,3,10,10,49,0],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a2929ea662d08c274dd9e0a45781b654e":[8,0,0,0,1,3,10,10,49,31],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a29ba3f09f1221400d70b5cb5d11cc7d8":[8,0,0,0,1,3,10,10,49,16],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a301c249da5e617bc47cf5826487bdbe7":[8,0,0,0,1,3,10,10,49,4],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a302c3c89f5d2c680ec1e4c78671e6a9f":[8,0,0,0,1,3,10,10,49,14],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a444a4158d19bed4cf0111979f6ff9ad5":[8,0,0,0,1,3,10,10,49,19],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a4f17232632ed59b245fd6d4d3f810e4c":[8,0,0,0,1,3,10,10,49,51],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a4fa2eeb196217174139fb8b868b480a6":[8,0,0,0,1,3,10,10,49,41],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5344af7d8ad129221742a1efe34067a4":[8,0,0,0,1,3,10,10,49,26],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5630ded3f61c561b8acc6d43f4b35ad1":[8,0,0,0,1,3,10,10,49,10],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5b8dbc13b3c92c08dbaaabdc2bcf89b0":[8,0,0,0,1,3,10,10,49,22],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5df838fc03f1338db5873b67568ad82b":[8,0,0,0,1,3,10,10,49,36],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a630dbfd037bd41c58cbe97a0a93d7048":[8,0,0,0,1,3,10,10,49,43],
@@ -239,15 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classArenaTeamMgr.html#af23ad2886a67eb69dfda7a5e1a9d30ac":[7,0,204,23],
 "d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e":[7,0,204,2],
 "d3/da8/classspell__hun__cobra__strikes.html":[7,0,3204],
-"d3/da8/classspell__hun__cobra__strikes.html#a3722c927cf522685c08886338433964d":[7,0,3204,1],
-"d3/da8/classspell__hun__cobra__strikes.html#a38985baeb0c24c948747492bf1d1f546":[7,0,3204,2],
-"d3/da8/classspell__hun__cobra__strikes.html#a68f17c864f8b2138c73a2fea42b8a252":[7,0,3204,0],
-"d3/da8/classspell__hun__cobra__strikes.html#ac8bdbf36f0ccfa77de664d630540957d":[7,0,3204,3],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html":[7,0,3388],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html#a69d4c898f52ce6334f0bf9963e8c5085":[7,0,3388,2],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html#a69daf001676f73289682ff63897e81cb":[7,0,3388,4],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html#acfea07ba1efeba58bcfc465122a3f66d":[7,0,3388,3],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html#ae0e2b86fc99705d7a80c2122643db33f":[7,0,3388,0],
-"d3/da8/classspell__item__living__root__of__the__wildheart.html#ae1027c9041171c9ed613acfd68be5ba3":[7,0,3388,1],
-"d3/da8/classspell__transitus__shield__beam__aura.html":[7,0,4199]
+"d3/da8/classspell__hun__cobra__strikes.html#a3722c927cf522685c08886338433964d":[7,0,3204,1]
 };

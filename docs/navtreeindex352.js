@@ -1,5 +1,15 @@
 var NAVTREEINDEX352 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230":[8,0,0,0,1,3,5,23,42,15],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafdfdf7b225fb4eaecaafd18458a7e8e0":[8,0,0,0,1,3,5,23,42,4],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaff4432512403a338fbc9bab0fcbd6428":[8,0,0,0,1,3,5,23,42,34],
+"dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085":[8,0,0,0,1,3,5,23,31],
+"dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd":[8,0,0,0,1,3,5,23,31,0],
+"dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01":[8,0,0,0,1,3,5,23,32],
+"dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628":[8,0,0,0,1,3,5,23,32,0],
+"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144":[8,0,0,0,1,3,5,23,41],
+"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47":[8,0,0,0,1,3,5,23,41,2],
+"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144ac943cef8ef9283a27474714f809fa92d":[8,0,0,0,1,3,5,23,41,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144ad069ba965740c548f4d1c0618c4184e0":[8,0,0,0,1,3,5,23,41,3],
 "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da":[8,0,0,0,1,3,5,23,41,0],
 "dd/db2/zone__storm__peaks_8cpp.html#aa0f23fadd5737491d84ef69769e71e80":[8,0,0,0,1,3,5,23,36],
@@ -239,15 +249,5 @@ var NAVTREEINDEX352 =
 "dd/dc6/classspell__q10929__fumping__aura.html#a58a383bd4e3062a5c5b1df97192b4b7e":[7,0,3844,3],
 "dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[7,0,3844,1],
 "dd/dc6/steam__vault_8h.html":[8,0,0,0,1,3,7,2,2,4],
-"dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[8,0,0,0,1,3,7,2,2,4,2],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,7,2,2,4,3],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08a0cb8f43195a3711e8de7b95d6977f602":[8,0,0,0,1,3,7,2,2,4,3,1],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08a23fe7bbcacd48b943c5bb78627a13a38":[8,0,0,0,1,3,7,2,2,4,3,0],
-"dd/dc6/steam__vault_8h.html#a31d630c40753c29f94ceac2db5e451a8":[8,0,0,0,1,3,7,2,2,4,7],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06":[8,0,0,0,1,3,7,2,2,4,4],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06a3dc237ebb82d98c7926ae6cd47febe3f":[8,0,0,0,1,3,7,2,2,4,4,6],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06a3f3609008a13f42668d415742f596fe2":[8,0,0,0,1,3,7,2,2,4,4,5],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06a5f5dd6535ee9b4eac78d413703478320":[8,0,0,0,1,3,7,2,2,4,4,0],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,7,2,2,4,4,3],
-"dd/dc6/steam__vault_8h.html#a4c1a879f002628919b28fdb323896e06a9bdb86fe0af94f957787e6a74ff62404":[8,0,0,0,1,3,7,2,2,4,4,4]
+"dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[8,0,0,0,1,3,7,2,2,4,2]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX331 =
 {
+"dc/db3/structnpc__dark__iron__guzzler.html#ae195867416885e570c2c9a4837ac33c1":[7,0,1755,11],
+"dc/db3/structnpc__dark__iron__guzzler.html#ae8142b745e493ab4a77b9df12ea9474d":[7,0,1755,5],
+"dc/db3/structnpc__dark__iron__guzzler.html#af608024d4b41fa218a7baeae9bee72ef":[7,0,1755,9],
+"dc/db3/structnpc__dark__iron__guzzler.html#affd1f78b5c1df26824b08416d6bd03a1":[7,0,1755,2],
+"dc/db4/classboss__fjola.html":[7,0,484],
+"dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[7,0,484,1],
+"dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[7,0,484,2],
+"dc/db4/structboss__gruul.html":[7,0,529],
+"dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[7,0,529,5],
+"dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12":[7,0,529,7],
 "dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[7,0,529,6],
 "dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[7,0,529,1],
 "dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[7,0,529,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#a0ecbc2ae8850d4cfb84f40d2a13f4976":[7,0,593,0],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#ad863666aec3db81f73165148ffc98033":[7,0,593,2],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#afd7482896b66f040b8d57b9b6ac37059":[7,0,593,1],
-"dc/dc6/classspell__dk__icebound__fortitude.html":[7,0,2802],
-"dc/dc6/classspell__dk__icebound__fortitude.html#a4d09be7d33755ae719138d079884e281":[7,0,2802,3],
-"dc/dc6/classspell__dk__icebound__fortitude.html#a76528513f0f6728e73085a3d403c3e59":[7,0,2802,2],
-"dc/dc6/classspell__dk__icebound__fortitude.html#ad99a4176d27864280a79ac548a57a4c8":[7,0,2802,0],
-"dc/dc6/classspell__dk__icebound__fortitude.html#aeafec50b06b5dd2f69ca6ab4096aea4d":[7,0,2802,1],
-"dc/dc7/structQuaternion.html":[7,0,2467],
-"dc/dc7/structQuaternion.html#a2676f1a5ec3a2f69ebb953e4b5741c4b":[7,0,2467,1],
-"dc/dc7/structQuaternion.html#a533b5e90b6333d89190828f28721e61d":[7,0,2467,3],
-"dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[7,0,2467,2],
-"dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[7,0,2467,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html":[7,0,2024]
+"dc/dc6/classspell__dk__icebound__fortitude.html":[7,0,2802]
 };

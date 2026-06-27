@@ -1,5 +1,15 @@
 var NAVTREEINDEX179 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005c":[8,0,0,0,1,3,2,1,1,8,3],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005ca2e40b9a79cd46961cba6a44f68b1c533":[8,0,0,0,1,3,2,1,1,8,3,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005ca5982631a31b45fecf5c8af2b1642958b":[8,0,0,0,1,3,2,1,1,8,3,0],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005ca9d88a2f0a0929d045f07a5386f6a4431":[8,0,0,0,1,3,2,1,1,8,3,3],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005cad1521dc079c87020b71b6aa09dafe4aa":[8,0,0,0,1,3,2,1,1,8,3,1],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,1,8,4],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823":[8,0,0,0,1,3,2,1,1,8,4,3],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca6c85b8c999d46bdef77a0385157c3":[8,0,0,0,1,3,2,1,1,8,4,11],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca39878036a8edeeb0db3192ad39432dc9":[8,0,0,0,1,3,2,1,1,8,4,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca4a140dff96e2900704dfc9d574a331fc":[8,0,0,0,1,3,2,1,1,8,4,6],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca5144586b3b2ea76c648921c7df349c35":[8,0,0,0,1,3,2,1,1,8,4,12],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca667a079b04cc692b797d1e84b8026637":[8,0,0,0,1,3,2,1,1,8,4,10],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ea77c0f71e7cfec827076d1bf979469":[8,0,0,0,1,3,2,1,1,8,4,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82":[8,0,0,0,1,3,7,5,2,5,3,5],
 "d6/d6b/classspell__mage__ignite.html":[7,0,3580],
 "d6/d6b/classspell__mage__ignite.html#a3f6a53421c7c4b9346d98aa51c4ccd6d":[7,0,3580,1],
-"d6/d6b/classspell__mage__ignite.html#a801610a9f9fae5cb711850254b291268":[7,0,3580,0],
-"d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[7,0,3580,3],
-"d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[7,0,3580,4],
-"d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[7,0,3580,2],
-"d6/d6b/classspell__pal__light__s__beacon.html":[7,0,3729],
-"d6/d6b/classspell__pal__light__s__beacon.html#a0fec47a0918ecfe3517c63190b27e91c":[7,0,3729,2],
-"d6/d6b/classspell__pal__light__s__beacon.html#a88b06e814ade33fad51c8036d963f654":[7,0,3729,3],
-"d6/d6b/classspell__pal__light__s__beacon.html#aa2e48771627700ee12153b13a094cea8":[7,0,3729,1],
-"d6/d6b/classspell__pal__light__s__beacon.html#acfdb90639eb05a5ec252c20c9f302fed":[7,0,3729,0],
-"d6/d6b/classspell__pal__light__s__beacon.html#ae9911ba6c95cfc6c345743b0f970062b":[7,0,3729,4],
-"d6/d6b/structnpc__sunblade__scout.html":[7,0,2156]
+"d6/d6b/classspell__mage__ignite.html#a801610a9f9fae5cb711850254b291268":[7,0,3580,0]
 };

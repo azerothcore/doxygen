@@ -1,5 +1,15 @@
 var NAVTREEINDEX322 =
 {
+"dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[7,0,388,0],
+"dc/d36/structboss__amanitar.html#a6b3cf0ea01ce34b4281116ca8387732d":[7,0,388,1],
+"dc/d36/structboss__amanitar.html#aab3faca4526947a72d8ca049a605f5be":[7,0,388,4],
+"dc/d36/structboss__amanitar.html#ae2bace7f649626c68560d4a6d5aa4ea3":[7,0,388,3],
+"dc/d36/structboss__amanitar.html#afc5b4942931f6020b2894b901650fc35":[7,0,388,6],
+"dc/d37/classGlobalScript.html":[7,0,1133],
+"dc/d37/classGlobalScript.html#a0140624a479c0d2c0a96050bb6a96bf7":[7,0,1133,16],
+"dc/d37/classGlobalScript.html#a08783ec228e8e3025641a5a2f7474071":[7,0,1133,17],
+"dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7":[7,0,1133,6],
+"dc/d37/classGlobalScript.html#a41dec0bbe8374b090b504e103c0ccd7b":[7,0,1133,0],
 "dc/d37/classGlobalScript.html#a42cbfd8f6c10feb1012b7e5dad67ef84":[7,0,1133,11],
 "dc/d37/classGlobalScript.html#a43efa65b032111032e290371a0df0a60":[7,0,1133,2],
 "dc/d37/classGlobalScript.html#a782994a96188e1540e03b9481f4ee93d":[7,0,1133,18],
@@ -239,15 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[7,0,2754,3],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[7,0,2754,1],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[7,0,2754,2],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[7,0,2754,5],
-"dc/d48/structRangeSelector.html":[7,0,2494],
-"dc/d48/structRangeSelector.html#a4a87b90485180ede638e2c9bd2a7e9ed":[7,0,2494,0],
-"dc/d48/structRangeSelector.html#a72ad35c7de0b5d540be27d9a9d46a1d4":[7,0,2494,4],
-"dc/d48/structRangeSelector.html#a917f21b135f402210d21e6bb3f19b9fa":[7,0,2494,1],
-"dc/d48/structRangeSelector.html#a973ec93b54a839f853101ad5998c10b2":[7,0,2494,3],
-"dc/d48/structRangeSelector.html#a9dcf455d9db8d32aaebfc46eee36e1b5":[7,0,2494,2],
-"dc/d48/structRangeSelector.html#ac1ce7a7a7ad6d033972b449867a1c5bf":[7,0,2494,5],
-"dc/d48/structRangeSelector.html#ac68f7dfefe2e71942a3dfff7026a7ae7":[7,0,2494,6],
-"dc/d48/structnpc__drakonid__spawner.html":[7,0,1775],
-"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[7,0,1775,0]
+"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[7,0,2754,5]
 };

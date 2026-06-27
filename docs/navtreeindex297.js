@@ -1,5 +1,15 @@
 var NAVTREEINDEX297 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a1d666d472a7cf4edf57bb4e878012d4c":[8,0,0,0,1,2,16,4,6,42,16],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24970521c3ce1c90018bcafb985b0f46":[8,0,0,0,1,2,16,4,6,42,28],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24c5c5d703dd78b95d7ee61935a3f816":[8,0,0,0,1,2,16,4,6,42,9],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a40ef0669ee302f8c0fed53c60d89b65a":[8,0,0,0,1,2,16,4,6,42,18],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a4c4be60ac8b9f56c5461b9ae54411941":[8,0,0,0,1,2,16,4,6,42,21],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a60123494d3a10fb265a33a44d6fb3240":[8,0,0,0,1,2,16,4,6,42,23],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a648fd3e8362c1311f087220c66f58538":[8,0,0,0,1,2,16,4,6,42,25],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a6597801b8c759fdfa55aa25e20c551c7":[8,0,0,0,1,2,16,4,6,42,13],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a73a84909291c9fb62f7dc264566fa125":[8,0,0,0,1,2,16,4,6,42,5],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a7b997b639af85999d70e317152579b39":[8,0,0,0,1,2,16,4,6,42,2],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a852a308d8189612792dee001b21f03fe":[8,0,0,0,1,2,16,4,6,42,15],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a9c6a58f208d631dcd06c7745712c03d3":[8,0,0,0,1,2,16,4,6,42,7],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aabfced01a40f2ec6afcb2b724e275607":[8,0,0,0,1,2,16,4,6,42,19],
@@ -239,15 +249,5 @@ var NAVTREEINDEX297 =
 "db/d8b/classgo__the__pearl__of__the__depths.html#a0e09ddcde0eef050400d90e9a268823a":[7,0,1214,0],
 "db/d8b/classgo__the__pearl__of__the__depths.html#a745ea14136a78759a3afd7714c6d784a":[7,0,1214,1],
 "db/d8b/classspell__deathbringer__blood__power__aura.html":[7,0,2757],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a":[7,0,2757,2],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#a829e96cabbb565922f7183adb3edf13c":[7,0,2757,1],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#abbcd0a9a63908a875bcdbc66fb5e1218":[7,0,2757,0],
-"db/d8b/classspell__murmur__sonic__boom__effect.html":[7,0,3655],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#a02b59e5ac84c8556c9a9441ff6414461":[7,0,3655,1],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#ab6183bf9e49d3c11c256e54053c13aa2":[7,0,3655,2],
-"db/d8b/classspell__murmur__sonic__boom__effect.html#abd6b61e7efbed1427b7603640ac7d474":[7,0,3655,0],
-"db/d8b/structboss__doomrel.html":[7,0,441],
-"db/d8b/structboss__doomrel.html#a1687755cadc484d431497a320e9509f3":[7,0,441,6],
-"db/d8b/structboss__doomrel.html#a559c1619a97e50b03db6c8abc7190f91":[7,0,441,2],
-"db/d8b/structboss__doomrel.html#a5f6c139a7be348abeda3b883c2b3f5be":[7,0,441,1]
+"db/d8b/classspell__deathbringer__blood__power__aura.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a":[7,0,2757,2]
 };

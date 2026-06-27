@@ -1,5 +1,15 @@
 var NAVTREEINDEX239 =
 {
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[7,0,0,4,8],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[5,0,0,7,8],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[7,0,0,4,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,0,7,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,0,7,8,0],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[7,0,0,4,8,0],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[7,0,0,4,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[7,0,0,4,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,0,7,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[7,0,0,4,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[7,0,1259],
@@ -239,15 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d03/structModelHeader.html#a9806dd0a585e1c303843f5a250df417a":[7,0,1547,35],
 "d9/d03/structModelHeader.html#aa17175c0ee959ee686f520d9c705b5a9":[7,0,1547,5],
 "d9/d03/structModelHeader.html#aa46258c76d1feea425da41be3cefb5da":[7,0,1547,61],
-"d9/d03/structModelHeader.html#aa7b9356ead53f64a1482c064369830d1":[7,0,1547,31],
-"d9/d03/structModelHeader.html#ab1539ff81b1b91ae400dbb5ca0630646":[7,0,1547,4],
-"d9/d03/structModelHeader.html#ab2ffe7bcb4d11558afc67da61ab1ab5f":[7,0,1547,30],
-"d9/d03/structModelHeader.html#ac1df2d7ce113d69d4f8c76132e285bb6":[7,0,1547,8],
-"d9/d03/structModelHeader.html#ac73b599d0e7b6a2bfddda1f98a8e9893":[7,0,1547,17],
-"d9/d03/structModelHeader.html#adfca4d604b62b6abd56084b59fb798bc":[7,0,1547,18],
-"d9/d03/structModelHeader.html#ae3bcc993df35087a506632cef8c66ded":[7,0,1547,25],
-"d9/d03/structModelHeader.html#ae41008e814f9e92f6b2a2eee286d47f7":[7,0,1547,20],
-"d9/d03/structModelHeader.html#ae91914678dff064bc9f73bac7223aa20":[7,0,1547,62],
-"d9/d03/structModelHeader.html#af380a1b8594ed0db8680d31a3a01c8a1":[7,0,1547,51],
-"d9/d03/structModelHeader.html#af9868234251a6f1eb7e809a7d183d68d":[7,0,1547,47]
+"d9/d03/structModelHeader.html#aa7b9356ead53f64a1482c064369830d1":[7,0,1547,31]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1":[7,0,1501,136],
+"d7/db0/classMap.html#a5b90b1ebb6a3f6ba7ff2be945d4a19c9":[7,0,1501,193],
+"d7/db0/classMap.html#a5db9fee3a23dc1640c5aa9d458b2ddcb":[7,0,1501,185],
+"d7/db0/classMap.html#a5e467a99c5908264ce2a658af72b2638":[7,0,1501,272],
+"d7/db0/classMap.html#a5ffc740bdf42784a9f035731e8940e6f":[7,0,1501,261],
+"d7/db0/classMap.html#a60889ddef0f3a883ec1542b5e43d6e46":[7,0,1501,110],
+"d7/db0/classMap.html#a60ba38c180177ab9beee3937e7d98bae":[7,0,1501,12],
+"d7/db0/classMap.html#a6189633fb9b04cde53f163d66ec1f8a9":[7,0,1501,94],
+"d7/db0/classMap.html#a61e8180fb876a796c8bd5a3b91deeb49":[7,0,1501,10],
+"d7/db0/classMap.html#a633f254cedc6eaaae3729a169c182daa":[7,0,1501,255],
 "d7/db0/classMap.html#a639bd17aa95f070603b1b782601cf5fe":[7,0,1501,49],
 "d7/db0/classMap.html#a642aaddad052cf1a6092b7fab0fa3ab1":[7,0,1501,23],
 "d7/db0/classMap.html#a64f4e50b011c1bde4c4bb4fbb8d9bda9":[7,0,1501,211],
@@ -239,15 +249,5 @@ var NAVTREEINDEX211 =
 "d7/db3/structboss__olm__the__summoner.html#a8caabc31bb7a8548eb936c34c655df68":[7,0,658,7],
 "d7/db3/structboss__olm__the__summoner.html#a8dcdc816276a1932612d554cff703a45":[7,0,658,4],
 "d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[7,0,658,5],
-"d7/db3/structboss__olm__the__summoner.html#aa8fe3804d4e2a1a1150975f5e9832ce6":[7,0,658,0],
-"d7/db3/structboss__olm__the__summoner.html#ae9187928c74fa1cfafaea4df25a55e41":[7,0,658,8],
-"d7/db4/classspell__shield__of__bones__aura.html":[7,0,4081],
-"d7/db4/classspell__shield__of__bones__aura.html#a0856d66c801715f16cd251ddf9b25a59":[7,0,4081,2],
-"d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055":[7,0,4081,0],
-"d7/db4/classspell__shield__of__bones__aura.html#a55ec42ce316978220103a3a39f3939a3":[7,0,4081,4],
-"d7/db4/classspell__shield__of__bones__aura.html#a69d8dfebb981b51592770b7b5807bc80":[7,0,4081,3],
-"d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa":[7,0,4081,6],
-"d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99":[7,0,4081,5],
-"d7/db4/classspell__shield__of__bones__aura.html#abab656d4ba7e14bf1ffdb1d40c395b5d":[7,0,4081,1],
-"d7/db4/firework__show_8h.html":[8,0,0,0,1,3,3,0,1]
+"d7/db3/structboss__olm__the__summoner.html#aa8fe3804d4e2a1a1150975f5e9832ce6":[7,0,658,0]
 };

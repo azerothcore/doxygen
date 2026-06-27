@@ -81,5 +81,10 @@ var GridNotifiers_8h =
     [ "Acore::PowerCheck", "d3/df0/classAcore_1_1PowerCheck.html", "d3/df0/classAcore_1_1PowerCheck" ],
     [ "Acore::RaidCheck", "d8/d58/classAcore_1_1RaidCheck.html", "d8/d58/classAcore_1_1RaidCheck" ],
     [ "Acore::LocalizedPacketDo< Builder >", "de/d4c/classAcore_1_1LocalizedPacketDo.html", "de/d4c/classAcore_1_1LocalizedPacketDo" ],
-    [ "Acore::LocalizedPacketListDo< Builder >", "dc/dd2/classAcore_1_1LocalizedPacketListDo.html", "dc/dd2/classAcore_1_1LocalizedPacketListDo" ]
+    [ "Acore::LocalizedPacketListDo< Builder >", "dc/dd2/classAcore_1_1LocalizedPacketListDo.html", "dc/dd2/classAcore_1_1LocalizedPacketListDo" ],
+    [ "TeamFilter", "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bb", [
+      [ "All", "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680", null ],
+      [ "OwnTeam", "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180", null ],
+      [ "OtherTeam", "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bba58d73ba5fe6ea145152a6c1e5018f0a7", null ]
+    ] ]
 ];

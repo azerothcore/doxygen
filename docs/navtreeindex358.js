@@ -1,5 +1,15 @@
 var NAVTREEINDEX358 =
 {
+"dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,1,0,0],
+"dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[8,0,0,0,3,1,0,0,3],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[7,0,1860,0],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a02ed3216c8b71e3d2be695866dbc0089":[7,0,1860,0,4],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a1048c558b825b58dbc7a3d97869a3e88":[7,0,1860,0,3],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a36d1993262eb0a7200e2bec625f5b4d1":[7,0,1860,0,7],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[7,0,1860,0,1],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a7cf9338767e8edf0a87a5552703de87a":[7,0,1860,0,2],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#aca22c73db989f0393926067506794e43":[7,0,1860,0,6],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#ad91cd657166a12d3c34adcf7b11d076f":[7,0,1860,0,0],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#afc490ae2382fd7097b3877c7f9eadf6b":[7,0,1860,0,5],
 "dd/df6/classLootValidatorRefMgr.html":[7,0,1482],
 "dd/df6/classLootValidatorRefMgr.html#a92c30fb269bc99820b6964a99ee86d98":[7,0,1482,6],
@@ -239,15 +249,5 @@ var NAVTREEINDEX358 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae0c99157db5daa07643715a56217bccd":[7,0,1737,0,11],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[7,0,1737,0,2],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#af883cb5fd419eaf1c82a21f980d3e893":[7,0,1737,0,7],
-"de/d02/structnpc__pet__dk__ghoul.html":[7,0,2031],
-"de/d02/structnpc__pet__dk__ghoul.html#a55ed58a264bd30cc4f891dc1e6d2fe03":[7,0,2031,3],
-"de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[7,0,2031,2],
-"de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0":[7,0,2031,4],
-"de/d02/structnpc__pet__dk__ghoul.html#ae6ea5ad522229289a16d5be1e52181f6":[7,0,2031,1],
-"de/d02/structnpc__pet__dk__ghoul.html#aff3b8dc660a7e263c6e30960819b4ffa":[7,0,2031,0],
-"de/d03/Channel_8h.html":[8,0,0,0,1,2,11,0,1],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57":[8,0,0,0,1,2,11,0,1,5],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa":[8,0,0,0,1,2,11,0,1,5,7],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd":[8,0,0,0,1,2,11,0,1,5,0],
-"de/d03/Channel_8h.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17":[8,0,0,0,1,2,11,0,1,5,2]
+"de/d02/structnpc__pet__dk__ghoul.html":[7,0,2031]
 };

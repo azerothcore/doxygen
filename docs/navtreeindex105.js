@@ -1,5 +1,15 @@
 var NAVTREEINDEX105 =
 {
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407":[8,0,0,0,1,3,5,7,6,3,3],
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a85405cbf94da2d357af5b3ffe9ec72d4":[8,0,0,0,1,3,5,7,6,3,5],
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,7,6,3,1],
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,5,7,6,3,2],
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1afa2681b1155bdb76f3b66cce305dca8e":[8,0,0,0,1,3,5,7,6,3,6],
+"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,6,2],
+"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a056a8f021f41de4202955d223001ddbe":[8,0,0,0,1,3,5,7,6,2,1],
+"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aab6d2de7e94bbeaf6703d7c3b3dc9c8e":[8,0,0,0,1,3,5,7,6,2,0],
+"d3/d91/boss__heigan_8cpp.html#a3b9aaa2246c0ec2ec3ca15409f985756":[8,0,0,0,1,3,5,7,6,6],
+"d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774":[8,0,0,0,1,3,5,7,6,5],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,6,4],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[8,0,0,0,1,3,5,7,6,4,0],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10":[8,0,0,0,1,3,5,7,6,4,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298cace105589c05e8d6cc8fb7bbf5d979aa9":[8,0,0,0,1,3,2,2,0,2,3],
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298cacf4555b4607c310138dbe33535fc0def":[8,0,0,0,1,3,2,2,0,2,11],
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298caea8347fd982a7c0147d20184f2a64be8":[8,0,0,0,1,3,2,2,0,2,4],
-"d3/d9b/boss__mr__smite_8cpp.html#acc31e61d9eaf6144ffd65028abca1ed9":[8,0,0,0,1,3,2,2,0,3],
-"d3/d9b/classspell__gyth__chromatic__protection.html":[7,0,3146],
-"d3/d9b/classspell__gyth__chromatic__protection.html#a08e84f2b2ff25ed7e260e61251f9cdb9":[7,0,3146,0],
-"d3/d9b/classspell__gyth__chromatic__protection.html#a3ba84d4fd311a91efa685980ffec8d77":[7,0,3146,2],
-"d3/d9b/classspell__gyth__chromatic__protection.html#aa36a2e10a6fd67fa74d08e20dc806744":[7,0,3146,3],
-"d3/d9b/classspell__gyth__chromatic__protection.html#aeff8b89300bb5d3589a46a4f66cfd77d":[7,0,3146,4],
-"d3/d9b/classspell__gyth__chromatic__protection.html#afd3d4786f739566056b69390553d9c71":[7,0,3146,1],
-"d3/d9b/structPlayerClassInfo.html":[7,0,2406],
-"d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[7,0,2406,0],
-"d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[7,0,2406,1],
-"d3/d9c/classinstance__magtheridons__lair.html":[7,0,1338]
+"d3/d9b/boss__mr__smite_8cpp.html#acc31e61d9eaf6144ffd65028abca1ed9":[8,0,0,0,1,3,2,2,0,3]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX413 =
 {
+"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[7,0,3038,2],
+"df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[7,0,3038,1],
+"df/da7/structboss__thorim__sif.html":[7,0,756],
+"df/da7/structboss__thorim__sif.html#a3da2809c4e7aa0c051647be354ade759":[7,0,756,1],
+"df/da7/structboss__thorim__sif.html#a3f747b6da8db72fd61c50a24096834c2":[7,0,756,4],
+"df/da7/structboss__thorim__sif.html#a5c1dfc697a84d4eb3ea6074514034343":[7,0,756,3],
+"df/da7/structboss__thorim__sif.html#a5d64d273a6aefdd9359b71963271b4ee":[7,0,756,7],
+"df/da7/structboss__thorim__sif.html#a6081345415b9ae3892d4f150a195908c":[7,0,756,6],
+"df/da7/structboss__thorim__sif.html#a61fec6c7b91d5f34339ebabd18b94e5d":[7,0,756,2],
+"df/da7/structboss__thorim__sif.html#a9762a5d386897bcd6d42b3c36d9fc18f":[7,0,756,0],
 "df/da7/structboss__thorim__sif.html#adbe7effa0bab5046f26f8d7df0f82a04":[7,0,756,5],
 "df/da8/MapCollisionData_8h.html":[8,0,0,0,1,2,26,6],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[7,0,2070,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX413 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1963,0,8],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[7,0,1963,0,6],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[7,0,1963,0,2],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[7,0,1963,0,10],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[7,0,1963,0,11],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#aa00a6978074f62d3d8ddead64d3240cf":[7,0,1963,0,9],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7":[7,0,1963,0,5],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abab2cfe84f4bb83fea3b35202a957bb5":[7,0,1963,0,0],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abebcdcb102f8d338ae0b792708940cd7":[7,0,1963,0,4],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70":[7,0,1963,0,7],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#adbef78d8c908bfbce6ea506c55fb6922":[7,0,1963,0,1],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#afe55f91acd8c47a758b8d08bd07d763f":[7,0,1963,0,3],
-"df/dba/instance__ahnkahet_8cpp.html":[8,0,0,0,1,3,5,0,0,6],
-"df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[8,0,0,0,1,3,5,0,0,6,3]
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[7,0,1963,0,10]
 };

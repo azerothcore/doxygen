@@ -1,5 +1,15 @@
 var NAVTREEINDEX386 =
 {
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[8,0,0,0,1,3,2,4,5,4,0],
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[8,0,0,0,1,3,2,4,5,4,2],
+"de/d87/classWaypointMovementGenerator.html":[7,0,4589],
+"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,0,8,1],
+"de/d87/structSpawnAssociation.html":[7,0,2597],
+"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[7,0,2597,1],
+"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[7,0,2597,0],
+"de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[7,0,2597,2],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[7,0,13,8,4],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[5,0,34,8,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[5,0,34,8,4,3],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[7,0,13,8,4,3],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[7,0,13,8,4,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX386 =
 "de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[7,0,4492,16],
 "de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[7,0,4492,31],
 "de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[7,0,4492,22],
-"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[7,0,4492,15],
-"de/d95/classTicketMgr.html#a5c6638093e959f1cd7311268f2c8cf56":[7,0,4492,3],
-"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[7,0,4492,1],
-"de/d95/classTicketMgr.html#a5ea5f45b9ac52b3bbbceccbc69d894f3":[7,0,4492,21],
-"de/d95/classTicketMgr.html#a6a5b603d107d4e14a7aff5c019f0b3d1":[7,0,4492,29],
-"de/d95/classTicketMgr.html#a711629e4c21f66401248b9f8d8e7c511":[7,0,4492,27],
-"de/d95/classTicketMgr.html#a7b51b5f4aebb51922717c463bcc34a40":[7,0,4492,18],
-"de/d95/classTicketMgr.html#a84182a16a815a9bdcd54118bc62a93c4":[7,0,4492,23],
-"de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[7,0,4492,7],
-"de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[7,0,4492,19],
-"de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[7,0,4492,11]
+"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[7,0,4492,15]
 };

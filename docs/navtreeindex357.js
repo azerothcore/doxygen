@@ -1,5 +1,15 @@
 var NAVTREEINDEX357 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac9851e1644bf34924fc12e14ab97ade3":[8,0,0,0,1,3,5,19,21,15],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3":[8,0,0,0,1,3,5,19,27],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3a8e3cfb1bafbc4a623824d7963a48159a":[8,0,0,0,1,3,5,19,27,0],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0":[8,0,0,0,1,3,5,19,30],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a153337d35888c768586b16945aeab0db":[8,0,0,0,1,3,5,19,30,2],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a446170252bedb99c0f4fd9db5190d599":[8,0,0,0,1,3,5,19,30,0],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a62bed6e4b0c4231185a0afd795496290":[8,0,0,0,1,3,5,19,30,1],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69":[8,0,0,0,1,3,5,19,30,3],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0af1a459e1e4ac32608277cef4939a02a1":[8,0,0,0,1,3,5,19,30,4],
+"dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587a":[8,0,0,0,1,3,5,19,24],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa2b1d615a0a23dead8c66bb54fe10a2ec":[8,0,0,0,1,3,5,19,24,3],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa453ade35c06a31825f2cf5b9ecf36ebb":[8,0,0,0,1,3,5,19,24,2],
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa557fb11a28e0741c4d9fc9f564184594":[8,0,0,0,1,3,5,19,24,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX357 =
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html":[7,0,3473],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#acac962ba1cb72615772fe8bc81d24f9d":[7,0,3473,0],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[7,0,3473,2],
-"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[7,0,3473,1],
-"dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,1,0,0],
-"dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[8,0,0,0,3,1,0,0,3],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[7,0,1860,0],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a02ed3216c8b71e3d2be695866dbc0089":[7,0,1860,0,4],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a1048c558b825b58dbc7a3d97869a3e88":[7,0,1860,0,3],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a36d1993262eb0a7200e2bec625f5b4d1":[7,0,1860,0,7],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[7,0,1860,0,1],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a7cf9338767e8edf0a87a5552703de87a":[7,0,1860,0,2],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#aca22c73db989f0393926067506794e43":[7,0,1860,0,6],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#ad91cd657166a12d3c34adcf7b11d076f":[7,0,1860,0,0]
+"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[7,0,3473,1]
 };

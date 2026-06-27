@@ -1,5 +1,15 @@
 var NAVTREEINDEX395 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac44e3da7743742f856230fb208f3afeb":[8,0,0,0,1,3,5,6,9,37,7],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad40fac9b7911b5d8c150f8d388adf4ab":[8,0,0,0,1,3,5,6,9,37,24],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,6,9,37,2],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,6,9,37,13],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[8,0,0,0,1,3,5,6,9,37,5],
+"de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[8,0,0,0,1,3,5,6,9,46],
+"de/de5/classnpc__tesla.html":[7,0,2172],
+"de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[7,0,2172,2],
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[7,0,2172,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[7,0,2725],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2725,1],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[7,0,2725,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[7,0,2725,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX395 =
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a2727c83f5ec6b10e80e2e0663e240c8e":[8,0,0,0,1,3,9,9,35,15],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a":[8,0,0,0,1,3,9,9,35,11],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a40a5daaa3cee076b99c5d0b0329e9ee8":[8,0,0,0,1,3,9,9,35,13],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419":[8,0,0,0,1,3,9,9,35,6],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a48c4c6509d0ad5ce3016b51167105674":[8,0,0,0,1,3,9,9,35,17],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a60344bd5443c6530f2f82c9d1c526577":[8,0,0,0,1,3,9,9,35,14],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220":[8,0,0,0,1,3,9,9,35,2],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a69f1d9a13075e6bbbdac5be5b4189305":[8,0,0,0,1,3,9,9,35,10],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d":[8,0,0,0,1,3,9,9,35,3],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812":[8,0,0,0,1,3,9,9,35,1],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a82bb35cce1cfe2530826c5effe613f70":[8,0,0,0,1,3,9,9,35,18],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e":[8,0,0,0,1,3,9,9,35,4],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a9151b9010b4da41ba0080b1c90e159de":[8,0,0,0,1,3,9,9,35,22],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3":[8,0,0,0,1,3,9,9,35,7]
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419":[8,0,0,0,1,3,9,9,35,6]
 };

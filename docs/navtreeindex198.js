@@ -1,5 +1,15 @@
 var NAVTREEINDEX198 =
 {
+"d7/d46/classAuraEffect.html#a8b39616fd9d0543194c9d6dbec186f55":[7,0,293,214],
+"d7/d46/classAuraEffect.html#a8c25ece7266e707b626dbad6de6be66e":[7,0,293,59],
+"d7/d46/classAuraEffect.html#a8d79983093faf3f9c63c9f1cc65b0155":[7,0,293,142],
+"d7/d46/classAuraEffect.html#a8e00da47192a4d1c9139b037d07d565b":[7,0,293,235],
+"d7/d46/classAuraEffect.html#a8f993bd36f255362d3801c708509a868":[7,0,293,173],
+"d7/d46/classAuraEffect.html#a901e04d2d5c6418bbfeb5e7820fdba30":[7,0,293,108],
+"d7/d46/classAuraEffect.html#a909a2bcd0d8036c938a7a5583b4ff432":[7,0,293,168],
+"d7/d46/classAuraEffect.html#a90f9b0656c55d016c70c02936dd73c9b":[7,0,293,140],
+"d7/d46/classAuraEffect.html#a92d0072fcf334ace5a8a29d5a58616e0":[7,0,293,154],
+"d7/d46/classAuraEffect.html#a94ad6938ac754595a00f0f5a8e2019c5":[7,0,293,207],
 "d7/d46/classAuraEffect.html#a9558df628dc0b414dae883571ead3ee9":[7,0,293,170],
 "d7/d46/classAuraEffect.html#a95b987b958ac0ce5653d44029a31ea59":[7,0,293,116],
 "d7/d46/classAuraEffect.html#a964b95da784412c60c9310227a614549":[7,0,293,192],
@@ -226,8 +236,8 @@ var NAVTREEINDEX198 =
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[7,0,52,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[7,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,0,4,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[7,0,0,2,3,2],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,0,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[7,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,0,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[7,0,0,2,3,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d4d/structWintergraspTowerData.html#a1c0edf97a599773b688954f2e966e794":[7,0,4614,6],
 "d7/d4d/structWintergraspTowerData.html#a38ab7536e0682efd7080b823569d504b":[7,0,4614,4],
 "d7/d4d/structWintergraspTowerData.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b":[7,0,4614,1],
-"d7/d4d/structWintergraspTowerData.html#aaa8fe59aa58bf02934bf87f636582637":[7,0,4614,0],
-"d7/d4d/structWintergraspTowerData.html#abc26a328692fc048d9040c44f360f4c4":[7,0,4614,2],
-"d7/d4d/structWintergraspTowerData.html#ad1e431e7205aee7fa7f8f0dd9a155c97":[7,0,4614,5],
-"d7/d4d/structWintergraspTowerData.html#ade8af6bff39a72f7052b7b0db14b207d":[7,0,4614,3],
-"d7/d4e/classgo__brewfest__music.html":[7,0,1153],
-"d7/d4e/classgo__brewfest__music.html#a50f36a6d0a72e7188dbe1bdaa09f1888":[7,0,1153,2],
-"d7/d4e/classgo__brewfest__music.html#a787963a5ee591933d62fdb52911f9a77":[7,0,1153,1],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html":[7,0,4154],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a359814a44d4fe58c9f6e7a31c75d7c49":[7,0,4154,0],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a4c6c0903180f3f18d6d9e715efc9f391":[7,0,4154,1],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a713b82bc3d82a8324ce4dd090059f463":[7,0,4154,2]
+"d7/d4d/structWintergraspTowerData.html#aaa8fe59aa58bf02934bf87f636582637":[7,0,4614,0]
 };

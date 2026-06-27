@@ -1,5 +1,15 @@
 var NAVTREEINDEX375 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,31,10,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[7,0,11,10,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,31,10,5],
+"de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[7,0,11,10,5],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[7,0,11,10,4],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,31,10,4],
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[7,0,11,10,3],
+"de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,31,10,3],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[7,0,11,10,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,31,10,1],
 "de/d20/structCharStartOutfitEntry.html":[7,0,881],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[7,0,881,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[7,0,881,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX375 =
 "de/d26/classspell__mage__blazing__speed.html":[7,0,3555],
 "de/d26/classspell__mage__blazing__speed.html#a00e4e7a77373767f4a68f0ee209d4e7d":[7,0,3555,0],
 "de/d26/classspell__mage__blazing__speed.html#a1b93f0cedfac153c2dab9d331d9fae0f":[7,0,3555,1],
-"de/d26/classspell__mage__blazing__speed.html#a6d171ec8688075496ec7d9f2325a5a1c":[7,0,3555,2],
-"de/d26/classspell__mage__blazing__speed.html#a74be985272c75fff9592927ea010a9d9":[7,0,3555,3],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html":[7,0,2286,0],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a7ce79406da48e245a0baa2fdd23622b9":[7,0,2286,0,1],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a8ddd21047a857facc767a9edc0ec5408":[7,0,2286,0,2],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#aaeca9e73520701ce28f2cc9d1483cc6b":[7,0,2286,0,0],
-"de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#abf4b06eae50adeefedba02e2186ea48a":[7,0,2286,0,3],
-"de/d28/classrbac_1_1RBACData.html":[7,0,8,0],
-"de/d28/classrbac_1_1RBACData.html":[5,0,28,0],
-"de/d28/classrbac_1_1RBACData.html#a00e0dcfa5b0fdb745650444281f1e65d":[7,0,8,0,8],
-"de/d28/classrbac_1_1RBACData.html#a00e0dcfa5b0fdb745650444281f1e65d":[5,0,28,0,8]
+"de/d26/classspell__mage__blazing__speed.html#a6d171ec8688075496ec7d9f2325a5a1c":[7,0,3555,2]
 };

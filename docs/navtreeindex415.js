@@ -1,5 +1,15 @@
 var NAVTREEINDEX415 =
 {
+"df/dc8/classNullCreatureAI.html#a191e098763d9b73db74f843aa77115e6":[7,0,2314,4],
+"df/dc8/classNullCreatureAI.html#a726edd296c16ed2414fcc1827f88238f":[7,0,2314,2],
+"df/dc8/classNullCreatureAI.html#a77595426da50819a0ff0744930d19b23":[7,0,2314,7],
+"df/dc8/classNullCreatureAI.html#a77b274955dcfdf2d10bbc43b64330f8d":[7,0,2314,6],
+"df/dc8/classNullCreatureAI.html#a94d4594e1f39143ea41ce00aeecec4b4":[7,0,2314,1],
+"df/dc8/classNullCreatureAI.html#aa9969eeb9a79559c9f2d3bd907b3fd85":[7,0,2314,0],
+"df/dc8/classNullCreatureAI.html#ab200fcf78dee74a2ec808c01f5855236":[7,0,2314,8],
+"df/dc8/classNullCreatureAI.html#ac9ccd2d260170b218acf1997a0bded97":[7,0,2314,3],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html":[7,0,4433,3],
+"df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a81ae2eb856507ee22308ae2739854382":[7,0,4433,3,1],
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[7,0,4433,3,2],
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[7,0,4433,3,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html":[7,0,1187,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX415 =
 "df/dd8/classDBCStorage.html#a6cb9477a0d94271c073f5850ad23ae07":[7,0,985,11],
 "df/dd8/classDBCStorage.html#a7ef1de4ced6822e264b73cbe72dcfc7c":[7,0,985,15],
 "df/dd8/classDBCStorage.html#aad72c211d47bfeb5b82636c131507083":[7,0,985,8],
-"df/dd8/classDBCStorage.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1":[7,0,985,7],
-"df/dd8/classDBCStorage.html#acbe3d8adad76c063eeff0472b14e9c2d":[7,0,985,0],
-"df/dd8/classDBCStorage.html#ace37b566e9013928a845c981437158ae":[7,0,985,12],
-"df/dd8/classDBCStorage.html#af1212e7eac4a35aed1cc30d1885093d0":[7,0,985,3],
-"df/dd8/classspell__charge__shield__bomber.html":[7,0,2734],
-"df/dd8/classspell__charge__shield__bomber.html#a21daeadffbfd28621d897dfe67dd11a8":[7,0,2734,3],
-"df/dd8/classspell__charge__shield__bomber.html#a61ca2f71b0fa323a54f716415b25b75e":[7,0,2734,1],
-"df/dd8/classspell__charge__shield__bomber.html#a7a2cc833ae8d079b821caabf55b6f0e5":[7,0,2734,2],
-"df/dd8/classspell__charge__shield__bomber.html#abfb58e49821e6a563940e8ba518db850":[7,0,2734,0],
-"df/dd8/classspell__hodir__starlight__aura.html":[7,0,3188],
-"df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[7,0,3188,1]
+"df/dd8/classDBCStorage.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1":[7,0,985,7]
 };

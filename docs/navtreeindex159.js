@@ -1,5 +1,15 @@
 var NAVTREEINDEX159 =
 {
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[7,0,11,3,0],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,31,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[7,0,11,3,1],
+"d5/db0/structnpc__midsummer__bonfire__despawner.html":[7,0,1977],
+"d5/db0/structnpc__midsummer__bonfire__despawner.html#aacb82b08ec0fef0f53d7e251e010abd8":[7,0,1977,0],
+"d5/db2/BattlegroundWS_8h.html":[8,0,0,0,1,2,8,1,21],
+"d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0":[8,0,0,0,1,2,8,1,21,5],
+"d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0a02eaf89f2607dfe9d7b222d7a142642d":[8,0,0,0,1,2,8,1,21,5,2],
+"d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0a894046e91503d915c4d7f722ed988e6a":[8,0,0,0,1,2,8,1,21,5,1],
+"d5/db2/BattlegroundWS_8h.html#a15d72f3f072bc0cabaf5f1bef80b64e0afa30eb723a0561b597261f3fd8a12ade":[8,0,0,0,1,2,8,1,21,5,0],
 "d5/db2/BattlegroundWS_8h.html#a190d782187c7f19845cef271f7db3d88":[8,0,0,0,1,2,8,1,21,15],
 "d5/db2/BattlegroundWS_8h.html#a29059eb2d46fa5c2398a2ee393c1ad0a":[8,0,0,0,1,2,8,1,21,9],
 "d5/db2/BattlegroundWS_8h.html#a29059eb2d46fa5c2398a2ee393c1ad0aa1bffb213e51280963ab67dd8126dc1de":[8,0,0,0,1,2,8,1,21,9,10],
@@ -239,15 +249,5 @@ var NAVTREEINDEX159 =
 "d5/db6/classWheatyExceptionReport.html#ab9866626b0f638ed7a0ed86cfd11106b":[7,0,4605,0],
 "d5/db6/classWheatyExceptionReport.html#abd65e937dfadd082d69c9fbbe0e13d83":[7,0,4605,17],
 "d5/db6/classWheatyExceptionReport.html#ac8e24040657d06faa610f8648365b432":[7,0,4605,23],
-"d5/db6/classWheatyExceptionReport.html#ac920ff7c86e02672414a10120d49c58b":[7,0,4605,1],
-"d5/db6/classWheatyExceptionReport.html#aca75a37502aa7a75f775913ba12025a9":[7,0,4605,13],
-"d5/db6/classWheatyExceptionReport.html#ad6bfb8f5159fa3b9da8503d7bf852874":[7,0,4605,11],
-"d5/db6/classWheatyExceptionReport.html#ad6dea599b1937f0e004bcb7c41eab08a":[7,0,4605,7],
-"d5/db6/classWheatyExceptionReport.html#ae08f5026ea58433283c8154c357ed020":[7,0,4605,20],
-"d5/db6/classWheatyExceptionReport.html#ae95bcebc09b9e81a5c75c39a1fe3f646":[7,0,4605,38],
-"d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[7,0,4605,25],
-"d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[7,0,4605,24],
-"d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4605,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38]
+"d5/db6/classWheatyExceptionReport.html#ac920ff7c86e02672414a10120d49c58b":[7,0,4605,1]
 };

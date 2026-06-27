@@ -1,5 +1,15 @@
 var NAVTREEINDEX393 =
 {
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a58c32a4802a93755d7c8129c01901cdf":[7,0,414,0,5],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a718a51ec39cb9a10225a7bc76a069a3b":[7,0,414,0,8],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[7,0,414,0,13],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a77d1dc632828691fa07a543544bd266c":[7,0,414,0,3],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a8a9b3f248f3d889b1804c387396d3054":[7,0,414,0,1],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ac25e3299bc9787d5bbad22263ebab235":[7,0,414,0,11],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#acde711225a78e54d4bc1e0fde41e951d":[7,0,414,0,12],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ae67498247b9d631c4ca6af0acb1c76af":[7,0,414,0,7],
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#af8600ff24856d079df7e9c59f49850b2":[7,0,414,0,9],
+"de/dc1/classadt__MCNK.html":[7,0,140],
 "de/dc1/classadt__MCNK.html#a0457648c852fd05b24919d95f896116e":[7,0,140,15],
 "de/dc1/classadt__MCNK.html#a0a6a3d2ff51cbba529ca2ffb2e7cacf0":[7,0,140,24],
 "de/dc1/classadt__MCNK.html#a173a40e99622195020f7b6775f18969e":[7,0,140,19],
@@ -239,15 +249,5 @@ var NAVTREEINDEX393 =
 "de/dd5/classMiscScript.html#a3241973d4f8ff5d9e4eed8a0cc95e74d":[7,0,1535,2],
 "de/dd5/classMiscScript.html#a3a45534d56665943fbcfd82e15a17753":[7,0,1535,19],
 "de/dd5/classMiscScript.html#a40356d17f149920064ea1005920c4e45":[7,0,1535,18],
-"de/dd5/classMiscScript.html#a52619636b636036f454dd0d9129754fa":[7,0,1535,16],
-"de/dd5/classMiscScript.html#a6eb3eb8a451ddc1abdf4a238b4e08253":[7,0,1535,5],
-"de/dd5/classMiscScript.html#a7857523e8dec674efbec50f8bfdf108b":[7,0,1535,8],
-"de/dd5/classMiscScript.html#a8918c758dd84f447f321f009030615ff":[7,0,1535,1],
-"de/dd5/classMiscScript.html#aac9b8415ab2002a1d4ad2f26211fa4e2":[7,0,1535,3],
-"de/dd5/classMiscScript.html#acdf0d559e38565bdb55ccb666f39d9f4":[7,0,1535,9],
-"de/dd5/classMiscScript.html#adcf037b59a970e43b99f1c8f4b35cde5":[7,0,1535,6],
-"de/dd5/classMiscScript.html#ae2977af97c42c0eedb4081a0d7984b01":[7,0,1535,11],
-"de/dd5/classMiscScript.html#afbd758be34ed4b7045525250cb2cf5be":[7,0,1535,0],
-"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html":[7,0,1663,0],
-"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a30dc40f8922f8f34d6ad7ec3053413e4":[7,0,1663,0,7]
+"de/dd5/classMiscScript.html#a52619636b636036f454dd0d9129754fa":[7,0,1535,16]
 };

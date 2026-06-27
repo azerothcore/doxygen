@@ -1,5 +1,15 @@
 var NAVTREEINDEX140 =
 {
+"d4/dd0/classWorldObject.html#a2c142ed593e47e2a16791e2f77ef8387":[7,0,4632,146],
+"d4/dd0/classWorldObject.html#a2e8ea39b9d94173fd73fa3d9f50d5c56":[7,0,4632,115],
+"d4/dd0/classWorldObject.html#a2ef660f7ad33f76212fa27fb777f7d49":[7,0,4632,75],
+"d4/dd0/classWorldObject.html#a2fa068bdfada15525672399270537e12":[7,0,4632,158],
+"d4/dd0/classWorldObject.html#a31d7a5673827b882fdfbe177c5aecbbc":[7,0,4632,112],
+"d4/dd0/classWorldObject.html#a347a94213bd7c981e5e4cee5b68b78c1":[7,0,4632,123],
+"d4/dd0/classWorldObject.html#a34cb764c08c8dd149d35f60fcadedfa2":[7,0,4632,195],
+"d4/dd0/classWorldObject.html#a34cef8bcc6078f22e0482ac481fa2da8":[7,0,4632,10],
+"d4/dd0/classWorldObject.html#a37401ba6edd4b7f1da216a9e5145970d":[7,0,4632,2],
+"d4/dd0/classWorldObject.html#a374795ac4206644fe9de6a2791c78360":[7,0,4632,117],
 "d4/dd0/classWorldObject.html#a378fd6aec05ee14c6c50e2c3d82be1d7":[7,0,4632,180],
 "d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3":[7,0,4632,189],
 "d4/dd0/classWorldObject.html#a38404ab529c99fb26e0df18eeed1417e":[7,0,4632,100],
@@ -239,15 +249,5 @@ var NAVTREEINDEX140 =
 "d4/dd3/classspell__hun__volley__trigger.html#ab33513df20e942ba354932df5082efa8":[7,0,3237,3],
 "d4/dd3/classspell__hun__volley__trigger.html#af25d11fc93423ee6e1678ebb5dcf1276":[7,0,3237,4],
 "d4/dd3/firework__show__Undercity_8h.html":[8,0,0,0,1,3,3,0,11],
-"d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[8,0,0,0,1,3,3,0,11,0],
-"d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[8,0,0,0,1,3,3,0,11,1],
-"d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[8,0,0,0,1,3,3,0,11,2],
-"d4/dd5/CombatManager_8cpp.html":[8,0,0,0,1,2,12,0],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[7,0,3504],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a66db3976fe6ec7ee8712c5788ce5f3ec":[7,0,3504,0],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a768dec18bc0e879c457a64135ec27ad9":[7,0,3504,3],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#aa3053519be0101f55450d76b1291f0f7":[7,0,3504,1],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#ada596a7f19115c7178fd07fb9e956f58":[7,0,3504,2],
-"d4/dd6/classspell__warr__vigilance.html":[7,0,4323],
-"d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13":[7,0,4323,7]
+"d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[8,0,0,0,1,3,3,0,11,0]
 };

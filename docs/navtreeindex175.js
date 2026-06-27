@@ -1,5 +1,15 @@
 var NAVTREEINDEX175 =
 {
+"d6/d38/classChatHandler.html#ac1ed346507097817b3f8e00f0ae657a0":[7,0,888,61],
+"d6/d38/classChatHandler.html#ac305cc34f7904158a6832bf2110e94e1":[7,0,888,63],
+"d6/d38/classChatHandler.html#ac3950d97f94ebc522133ea4a254924ca":[7,0,888,71],
+"d6/d38/classChatHandler.html#ac4ce969c7140178f87e53e1db676b407":[7,0,888,66],
+"d6/d38/classChatHandler.html#ac65d809c0ef89e094ece2258ab1cac7b":[7,0,888,19],
+"d6/d38/classChatHandler.html#ac910f883652c712f97b8db31fb4bd609":[7,0,888,14],
+"d6/d38/classChatHandler.html#ac95228492df6c9b9b3f296a5192d4fd0":[7,0,888,58],
+"d6/d38/classChatHandler.html#acfb8fb0453dd4025de15a909f78b206c":[7,0,888,40],
+"d6/d38/classChatHandler.html#ad04fd84539ea2ab1596b40f2efdd906e":[7,0,888,64],
+"d6/d38/classChatHandler.html#ad2aadfd932dfb1f57cc7a0b2aeb5bd52":[7,0,888,11],
 "d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[7,0,888,42],
 "d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[7,0,888,10],
 "d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[7,0,888,25],
@@ -239,15 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1":[7,0,4590,17],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059":[7,0,4590,24],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ae2bfe9bb6e1b36a1b29d195539dc21b5":[7,0,4590,6],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aedafabd903b9a734ea1a0061d89859f9":[7,0,4590,21],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#af56cfa46cf6d1a0f9669c2f40626b628":[7,0,4590,8],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec":[7,0,4590,16],
-"d6/d3e/structNpcTextLocale.html":[7,0,2312],
-"d6/d3e/structNpcTextLocale.html#a40f69a13a202c350fdce2177288727e9":[7,0,2312,2],
-"d6/d3e/structNpcTextLocale.html#adf17307b9d00e0b63b9c2827fca96320":[7,0,2312,1],
-"d6/d3e/structNpcTextLocale.html#af1ddddeff75a1a51c51ebb1fec3f4f05":[7,0,2312,0],
-"d6/d3f/classitem__only__for__flight.html":[7,0,1404],
-"d6/d3f/classitem__only__for__flight.html#a88cdf17a85630aef703f93143ba41d4d":[7,0,1404,1],
-"d6/d3f/classitem__only__for__flight.html#a8f905266dc8f24cf35598a37e7018ff7":[7,0,1404,0],
-"d6/d40/classachievement__intense__cold.html":[7,0,68]
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aedafabd903b9a734ea1a0061d89859f9":[7,0,4590,21]
 };

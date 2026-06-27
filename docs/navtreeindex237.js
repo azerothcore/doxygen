@@ -1,5 +1,15 @@
 var NAVTREEINDEX237 =
 {
+"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[7,0,3190,1],
+"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[7,0,3190,3],
+"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[7,0,3190,2],
+"d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[7,0,3190,0],
+"d8/de3/Warden_8cpp.html":[8,0,0,0,1,2,46,2],
+"d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc":[8,0,0,0,1,2,46,2,1],
+"d8/de3/classnpc__murkdeep.html":[7,0,1993],
+"d8/de3/classnpc__murkdeep.html#a72d44d786bcba4dea5ccedd33e7dbd3c":[7,0,1993,1],
+"d8/de3/classnpc__murkdeep.html#ab9f8faa3adaf1f251e1248fbe0f46468":[7,0,1993,2],
+"d8/de4/structBossBoundaryEntry.html":[7,0,827],
 "d8/de4/structBossBoundaryEntry.html#a7b474c6b9225102ba08864256d07d9e6":[7,0,827,1],
 "d8/de4/structBossBoundaryEntry.html#af9fc7d02d16d4fb3547273428553cf05":[7,0,827,0],
 "d8/de4/structnpc__alexstrasza.html":[7,0,1610],
@@ -239,15 +249,5 @@ var NAVTREEINDEX237 =
 "d8/df6/TypeContainerFunctions_8h.html#a2d87541d6d2eceb7467b09f7fa5bd51b":[8,0,0,0,0,6,5,0],
 "d8/df6/TypeContainerFunctions_8h.html#a31fef0ae214e75ee3251ee75539b5933":[8,0,0,0,0,6,5,4],
 "d8/df6/TypeContainerFunctions_8h.html#a339e193b2696d368e3fd5ba8ac348ba9":[8,0,0,0,0,6,5,13],
-"d8/df6/TypeContainerFunctions_8h.html#a33dad9e8e49e78c8486f2a91b49c0984":[8,0,0,0,0,6,5,36],
-"d8/df6/TypeContainerFunctions_8h.html#a35e02be24dcc816ed590cfd782fba6cd":[8,0,0,0,0,6,5,31],
-"d8/df6/TypeContainerFunctions_8h.html#a3a037512e9797c04705502307818fe99":[8,0,0,0,0,6,5,8],
-"d8/df6/TypeContainerFunctions_8h.html#a3c90455877023c17b2305a358a1e8e05":[8,0,0,0,0,6,5,11],
-"d8/df6/TypeContainerFunctions_8h.html#a5161a06285195a661d1f827f51265471":[8,0,0,0,0,6,5,34],
-"d8/df6/TypeContainerFunctions_8h.html#a5f6cfb84d3b9010f1cccee55575aeb8f":[8,0,0,0,0,6,5,14],
-"d8/df6/TypeContainerFunctions_8h.html#a6c4691a788e1b4403de11caa6a13222d":[8,0,0,0,0,6,5,12],
-"d8/df6/TypeContainerFunctions_8h.html#a73118cbbcd3fd66f74bcef7972f0e244":[8,0,0,0,0,6,5,7],
-"d8/df6/TypeContainerFunctions_8h.html#a7eb6517212935878abc51faf4bcca654":[8,0,0,0,0,6,5,37],
-"d8/df6/TypeContainerFunctions_8h.html#a808ff1ee05e1b5c2775ccb20325a5b2e":[8,0,0,0,0,6,5,17],
-"d8/df6/TypeContainerFunctions_8h.html#a826d2d5fc544299a171fc4d192b13b70":[8,0,0,0,0,6,5,19]
+"d8/df6/TypeContainerFunctions_8h.html#a33dad9e8e49e78c8486f2a91b49c0984":[8,0,0,0,0,6,5,36]
 };

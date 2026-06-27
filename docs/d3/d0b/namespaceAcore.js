@@ -227,6 +227,11 @@ var namespaceAcore =
       [ "Priority_Highest", "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
       [ "Priority_Realtime", "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
     ] ],
+    [ "TeamFilter", "d3/d0b/namespaceAcore.html#a707574f70dccac2c48163c9083e774bb", [
+      [ "All", "d3/d0b/namespaceAcore.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680", null ],
+      [ "OwnTeam", "d3/d0b/namespaceAcore.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180", null ],
+      [ "OtherTeam", "d3/d0b/namespaceAcore.html#a707574f70dccac2c48163c9083e774bba58d73ba5fe6ea145152a6c1e5018f0a7", null ]
+    ] ],
     [ "WorldObjectSpellAreaTargetSearchReason", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9d", [
       [ "Area", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214", null ],
       [ "Chain", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9da5320550175ad6f79ad658943b9c013a7", null ]

@@ -1,5 +1,15 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[7,0,328,189],
+"df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[7,0,328,80],
+"df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[7,0,328,57],
+"df/da7/classBattleground.html#a152b516933fa88d053a99d3e3aa052c3":[7,0,328,5],
+"df/da7/classBattleground.html#a15ae5454869e14bf35aa3df6cfe3be8f":[7,0,328,21],
+"df/da7/classBattleground.html#a1864145bddee5dc00672a5c17bbde4b4":[7,0,328,212],
+"df/da7/classBattleground.html#a19cf075511f45a5b3984296651641273":[7,0,328,38],
+"df/da7/classBattleground.html#a19ebb33fd7ed9c085e30257d88210a41":[7,0,328,187],
+"df/da7/classBattleground.html#a1b99a417cfae29f65279bf549fc19e3c":[7,0,328,222],
+"df/da7/classBattleground.html#a1bf891e4b87892f91cc50c682c0e0e60":[7,0,328,68],
 "df/da7/classBattleground.html#a1d17b3ef05753e1704566c225a71b6a5":[7,0,328,103],
 "df/da7/classBattleground.html#a1dca98fc0ee5571f2dcd73e0f5a4ea05":[7,0,328,88],
 "df/da7/classBattleground.html#a1ef95ebaace6f65e5d00b2257212f366":[7,0,328,149],
@@ -239,15 +249,5 @@ var NAVTREEINDEX412 =
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[7,0,3000,0],
 "df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[7,0,3000,1],
 "df/da7/classspell__gen__gnomish__transporter.html":[7,0,3038],
-"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[7,0,3038,0],
-"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[7,0,3038,2],
-"df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[7,0,3038,1],
-"df/da7/structboss__thorim__sif.html":[7,0,756],
-"df/da7/structboss__thorim__sif.html#a3da2809c4e7aa0c051647be354ade759":[7,0,756,1],
-"df/da7/structboss__thorim__sif.html#a3f747b6da8db72fd61c50a24096834c2":[7,0,756,4],
-"df/da7/structboss__thorim__sif.html#a5c1dfc697a84d4eb3ea6074514034343":[7,0,756,3],
-"df/da7/structboss__thorim__sif.html#a5d64d273a6aefdd9359b71963271b4ee":[7,0,756,7],
-"df/da7/structboss__thorim__sif.html#a6081345415b9ae3892d4f150a195908c":[7,0,756,6],
-"df/da7/structboss__thorim__sif.html#a61fec6c7b91d5f34339ebabd18b94e5d":[7,0,756,2],
-"df/da7/structboss__thorim__sif.html#a9762a5d386897bcd6d42b3c36d9fc18f":[7,0,756,0]
+"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[7,0,3038,0]
 };

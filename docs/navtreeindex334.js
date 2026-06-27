@@ -1,5 +1,15 @@
 var NAVTREEINDEX334 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[7,0,1127,0],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[7,0,1127,4],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[7,0,1127,2],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a7b2a19d6c7c75c0df22eae17b0c8e90a":[7,0,1127,1],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[7,0,1127,5],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#aad6527f64ede0d896880ffa90d05a378":[7,0,1127,6],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[7,0,1127,3],
+"dc/ddf/brewfest_8cpp.html":[8,0,0,0,1,3,3,1],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784c":[8,0,0,0,1,3,3,1,40],
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[8,0,0,0,1,3,3,1,40,4],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca17383917acea21c7a408d5e02de97873":[8,0,0,0,1,3,3,1,40,1],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded":[8,0,0,0,1,3,3,1,40,3],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[8,0,0,0,1,3,3,1,40,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX334 =
 "dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[7,0,720,0],
 "dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[7,0,720,3],
 "dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[7,0,720,1],
-"dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[7,0,720,2],
-"dc/de6/structboss__skarvald__the__constructor.html#a9c1f74c20a5a9f47f9430450742938a2":[7,0,720,6],
-"dc/de6/structboss__skarvald__the__constructor.html#a9d65e24161dd1f7bac9fe991624c5c80":[7,0,720,4],
-"dc/de6/structboss__skarvald__the__constructor.html#ab5b773a9960f611a6383578a607ba258":[7,0,720,8],
-"dc/de6/structboss__skarvald__the__constructor.html#ada2068f8b5d125062ec0b7fde0d05c7f":[7,0,720,5],
-"dc/de7/structboss__fathomlord__karathress.html":[7,0,479],
-"dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[7,0,479,6],
-"dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[7,0,479,0],
-"dc/de7/structboss__fathomlord__karathress.html#a1e03da049ad75a464de5dd15ac5e6d88":[7,0,479,4],
-"dc/de7/structboss__fathomlord__karathress.html#a3a692ef94d555e991a7cd34dee9812d9":[7,0,479,5],
-"dc/de7/structboss__fathomlord__karathress.html#a4c356359be50b626a28fab4a803386f8":[7,0,479,2]
+"dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[7,0,720,2]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX385 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[7,0,6,1,9],
+"de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[5,0,20,1,9],
+"de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[7,0,6,1,11],
+"de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[5,0,20,1,11],
+"de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[5,0,20,1,10],
+"de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[7,0,6,1,10],
+"de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[7,0,6,1,3],
+"de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[5,0,20,1,3],
+"de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[5,0,20,1,13],
+"de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[7,0,6,1,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[7,0,6,1,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,20,1,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[5,0,20,1,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX385 =
 "de/d87/boss__netherspite_8cpp.html#aed31b52543c556f43d7268340ea660fe":[8,0,0,0,1,3,2,4,5,6],
 "de/d87/boss__netherspite_8cpp.html#af50db85296b6cc3bcfbdbe8943087500":[8,0,0,0,1,3,2,4,5,13],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[8,0,0,0,1,3,2,4,5,4],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[8,0,0,0,1,3,2,4,5,4,1],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[8,0,0,0,1,3,2,4,5,4,0],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[8,0,0,0,1,3,2,4,5,4,2],
-"de/d87/classWaypointMovementGenerator.html":[7,0,4589],
-"de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,0,8,1],
-"de/d87/structSpawnAssociation.html":[7,0,2597],
-"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[7,0,2597,1],
-"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[7,0,2597,0],
-"de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[7,0,2597,2],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[7,0,13,8,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[5,0,34,8,4]
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[8,0,0,0,1,3,2,4,5,4,1]
 };

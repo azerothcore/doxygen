@@ -1,5 +1,15 @@
 var NAVTREEINDEX288 =
 {
+"db/d2e/classnpc__iron__watcher.html#af3b80b838e192737762ceed599b0be9a":[7,0,1916,2],
+"db/d2f/LFGPlayerData_8cpp.html":[8,0,0,0,1,2,15,6],
+"db/d2f/structPvPDifficultyEntry.html":[7,0,2463],
+"db/d2f/structPvPDifficultyEntry.html#a1385166568239f2118b65377df8b4b55":[7,0,2463,5],
+"db/d2f/structPvPDifficultyEntry.html#a33ac017d785a4586a78e715d97836720":[7,0,2463,3],
+"db/d2f/structPvPDifficultyEntry.html#a4bcbc99d34ef8eaa7c15dbd33332c480":[7,0,2463,1],
+"db/d2f/structPvPDifficultyEntry.html#a58c251f56a928bedbc7b9e8c6cbdbc5d":[7,0,2463,4],
+"db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a":[7,0,2463,2],
+"db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[7,0,2463,6],
+"db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[7,0,2463,0],
 "db/d30/classPlayerDumpReader.html":[7,0,2412],
 "db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[7,0,2412,1],
 "db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[7,0,2412,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX288 =
 "db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[7,0,3657,2],
 "db/d40/classspell__muru__darkness__aura.html#a6843deda5be8b684c06a86920714f255":[7,0,3657,3],
 "db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[7,0,3657,1],
-"db/d41/classspell__brewfest__fill__keg.html":[7,0,2705],
-"db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[7,0,2705,1],
-"db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2705,2],
-"db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2705,0],
-"db/d41/structnpc__midsummer__bonfire.html":[7,0,1976],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[7,0,1976,0],
-"db/d41/structnpc__midsummer__bonfire.html#a1236b61f21ff1a1b85bbc7058ca8e17c":[7,0,1976,6],
-"db/d41/structnpc__midsummer__bonfire.html#a1f8bd11d0f49c0a44764a2f34e6ee147":[7,0,1976,4],
-"db/d41/structnpc__midsummer__bonfire.html#a2a398299b3584e3a871b1b6e83b4ff5f":[7,0,1976,1],
-"db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[7,0,1976,5],
-"db/d41/structnpc__midsummer__bonfire.html#a5c0894721d13dd49961c0687c100d7a5":[7,0,1976,10]
+"db/d41/classspell__brewfest__fill__keg.html":[7,0,2705]
 };

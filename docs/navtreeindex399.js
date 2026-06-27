@@ -1,5 +1,15 @@
 var NAVTREEINDEX399 =
 {
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417":[4,2,15,28],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9b933190ce59532ec60b42454d0fca87":[4,2,15,19],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9ca30377545fe1b8c0ba84485094f9c2":[4,2,15,31],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaa870d541b02010203bcdaac275013fb8":[4,2,15,36],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abab5eb75439f5e692fce74a91cec2c5692":[4,2,15,30],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abac109484ffee5df2c967a65b4104d22e5":[4,2,15,16],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abaccb2f60b67efa38a5d8454df249db838":[4,2,15,21],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abacd29849c85298b0eae1a1b38a9a80c51":[4,2,15,23],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad36f14004bd6c21e49d12726e8c36f97":[4,2,15,27],
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abad9087749f4814ca8998c10b585a6a64f":[4,2,15,32],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae4f84dfc27fee4e4426b8f35f010823f":[4,2,15,22],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae5bd48e696a93fdab8960b7a2880dd61":[4,2,15,12],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7abae7a19f9c62c04561c69306240938c64e":[4,2,15,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX399 =
 "df/d20/areatrigger__scripts_8cpp.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2":[8,0,0,0,1,3,10,2,10,0],
 "df/d20/classnpc__commander__dawnforge.html":[7,0,1716],
 "df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[7,0,1716,2],
-"df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[7,0,1716,1],
-"df/d20/classspell__love__in__air__perfume__immune.html":[7,0,3544],
-"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[7,0,3544,1],
-"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[7,0,3544,3],
-"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[7,0,3544,2],
-"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[7,0,3544,0],
-"df/d20/instance__blackwing__lair_8cpp.html":[8,0,0,0,1,3,2,1,2,9],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[8,0,0,0,1,3,2,1,2,9,4],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[8,0,0,0,1,3,2,1,2,9,4,0],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e":[8,0,0,0,1,3,2,1,2,9,4,1],
-"df/d20/instance__blackwing__lair_8cpp.html#a2c79c628fd8c60d02dc0b2368a70be04":[8,0,0,0,1,3,2,1,2,9,11]
+"df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[7,0,1716,1]
 };

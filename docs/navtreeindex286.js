@@ -1,5 +1,15 @@
 var NAVTREEINDEX286 =
 {
+"db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[7,0,1480,4],
+"db/d14/classLootTemplate.html#a7835ebf003ae3d665656efcc923daaeb":[7,0,1480,11],
+"db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[7,0,1480,3],
+"db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[7,0,1480,13],
+"db/d14/classLootTemplate.html#aba1fdfb69c34a9d4a09428114d385621":[7,0,1480,16],
+"db/d14/classLootTemplate.html#acdf75466d9f29ff8a4532c4b6e15bd03":[7,0,1480,12],
+"db/d14/classLootTemplate.html#adedb1f03278aaeac63deb3dd32e07329":[7,0,1480,15],
+"db/d14/classLootTemplate.html#ae3f86961858f299f8e7ca683733bb127":[7,0,1480,14],
+"db/d14/classLootTemplate.html#ae88cc77aa554940030613a15cc05c045":[7,0,1480,10],
+"db/d14/classLootTemplate.html#ae9845401121ac8712dc8dfac9c58c72e":[7,0,1480,1],
 "db/d14/classLootTemplate.html#aec4552a98c1e27935da8ef29c9449f87":[7,0,1480,17],
 "db/d14/classLootTemplate.html#afb33c896a89f0fe14e2b565bb746119e":[7,0,1480,5],
 "db/d14/structIpLocationRecord.html":[7,0,1395],
@@ -239,15 +249,5 @@ var NAVTREEINDEX286 =
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[8,0,0,0,1,3,5,12,3,2],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ee087423aeceb0f7c0aa5108e9b443b":[8,0,0,0,1,3,5,12,3,2,2],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[8,0,0,0,1,3,5,12,3,2,1],
-"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[8,0,0,0,1,3,5,12,3,2,3],
-"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[8,0,0,0,1,3,5,12,3,2,0],
-"db/d1d/structboss__ouro.html":[7,0,663],
-"db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[7,0,663,12],
-"db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[7,0,663,14],
-"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[7,0,663,7],
-"db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[7,0,663,2],
-"db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[7,0,663,9],
-"db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[7,0,663,0],
-"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[7,0,663,1],
-"db/d1d/structboss__ouro.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf":[7,0,663,8]
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[8,0,0,0,1,3,5,12,3,2,3]
 };

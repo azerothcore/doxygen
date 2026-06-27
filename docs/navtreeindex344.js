@@ -1,5 +1,15 @@
 var NAVTREEINDEX344 =
 {
+"dd/d52/structCreatureData.html#a934d70093ff85a859a80f672c96888b2":[7,0,945,9],
+"dd/d52/structCreatureData.html#ac2d910ad95ea363dbe0a685d5db6cc79":[7,0,945,6],
+"dd/d52/structCreatureData.html#ac58e514339c9c60ce78876a7c1ef50f1":[7,0,945,3],
+"dd/d54/classspell__kaelthas__mind__control.html":[7,0,3485],
+"dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[7,0,3485,1],
+"dd/d54/classspell__kaelthas__mind__control.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc":[7,0,3485,0],
+"dd/d54/classspell__kaelthas__mind__control.html#ac36f3d88a0ef8ccaee5bac17bffcaf49":[7,0,3485,3],
+"dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[7,0,3485,2],
+"dd/d55/classspell__shredder__delivery.html":[7,0,4084],
+"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[7,0,4084,1],
 "dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[7,0,4084,2],
 "dd/d55/classspell__shredder__delivery.html#a95de3ae27cfd764380ab1648b49af38d":[7,0,4084,0],
 "dd/d55/classspell__shredder__delivery.html#af9d8f764a6a02737f8b559f067156df6":[7,0,4084,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d61/structnpc__toc__shaman_1_1npc__toc__shamanAI.html#ab573ab0ee616348ccdb28b71255ac35d":[7,0,2205,0,3],
 "dd/d61/structnpc__toc__shaman_1_1npc__toc__shamanAI.html#abd0b0e503c1bbc48aebb5923ec3f4291":[7,0,2205,0,0],
 "dd/d62/BattlefieldHandler_8cpp.html":[8,0,0,0,1,2,7,3],
-"dd/d62/structnpc__xt002__scrapbot.html":[7,0,2300],
-"dd/d62/structnpc__xt002__scrapbot.html#a0c7270ccbac5c12af8aaec998408046f":[7,0,2300,0],
-"dd/d62/structnpc__xt002__scrapbot.html#a3f5cffc3225ced1ccdf3fc0964cc2c05":[7,0,2300,4],
-"dd/d62/structnpc__xt002__scrapbot.html#a7c167b396927f73736531b53056bc262":[7,0,2300,2],
-"dd/d62/structnpc__xt002__scrapbot.html#aa9753f72910da1bb56a090e77fc029fb":[7,0,2300,3],
-"dd/d62/structnpc__xt002__scrapbot.html#aaa4e129ebea658b0f2e224e024f6010f":[7,0,2300,5],
-"dd/d62/structnpc__xt002__scrapbot.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0":[7,0,2300,1],
-"dd/d63/SpellProcPPMTest_8cpp.html":[8,0,0,0,2,2,0,9,22],
-"dd/d63/SpellProcPPMTest_8cpp.html#a0692ae371dd7ec0e8127647ab490da56":[8,0,0,0,2,2,0,9,22,19],
-"dd/d63/SpellProcPPMTest_8cpp.html#a0ecc1d1a3fe097523b683612714be585":[8,0,0,0,2,2,0,9,22,21],
-"dd/d63/SpellProcPPMTest_8cpp.html#a1eecf2088dfa4e882fcd2e288a16c926":[8,0,0,0,2,2,0,9,22,5]
+"dd/d62/structnpc__xt002__scrapbot.html":[7,0,2300]
 };

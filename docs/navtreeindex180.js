@@ -1,5 +1,15 @@
 var NAVTREEINDEX180 =
 {
+"d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[7,0,3580,3],
+"d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[7,0,3580,4],
+"d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[7,0,3580,2],
+"d6/d6b/classspell__pal__light__s__beacon.html":[7,0,3729],
+"d6/d6b/classspell__pal__light__s__beacon.html#a0fec47a0918ecfe3517c63190b27e91c":[7,0,3729,2],
+"d6/d6b/classspell__pal__light__s__beacon.html#a88b06e814ade33fad51c8036d963f654":[7,0,3729,3],
+"d6/d6b/classspell__pal__light__s__beacon.html#aa2e48771627700ee12153b13a094cea8":[7,0,3729,1],
+"d6/d6b/classspell__pal__light__s__beacon.html#acfdb90639eb05a5ec252c20c9f302fed":[7,0,3729,0],
+"d6/d6b/classspell__pal__light__s__beacon.html#ae9911ba6c95cfc6c345743b0f970062b":[7,0,3729,4],
+"d6/d6b/structnpc__sunblade__scout.html":[7,0,2156],
 "d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2156,6],
 "d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[7,0,2156,2],
 "d6/d6b/structnpc__sunblade__scout.html#ab57b63a624458a9fa598062e61c5fa0e":[7,0,2156,1],
@@ -124,8 +134,8 @@ var NAVTREEINDEX180 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3131,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,1981],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[7,0,1981,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1981,9],
@@ -239,15 +249,5 @@ var NAVTREEINDEX180 =
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468a967473f354dae95832b5e82733f4cced":[8,0,0,0,1,3,7,15,18,1],
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ab55c0e246afb46a9c3feb1a24b9735db":[8,0,0,0,1,3,7,15,18,8],
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ab8d35951eed2c9e47bed2aa4da3fab8b":[8,0,0,0,1,3,7,15,18,6],
-"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468abcfceb9776fee2423d4c06cb12c6a157":[8,0,0,0,1,3,7,15,18,10],
-"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468abe500eadf9d63f2f5340e4b8a94a118f":[8,0,0,0,1,3,7,15,18,11],
-"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ac7ef023ed2cd6e71dcfa4b57f34ffb21":[8,0,0,0,1,3,7,15,18,0],
-"d6/d76/boss__grizzle_8cpp.html":[8,0,0,0,1,3,2,1,0,8],
-"d6/d76/boss__grizzle_8cpp.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1":[8,0,0,0,1,3,2,1,0,8,3],
-"d6/d76/boss__grizzle_8cpp.html#abc54daa3a30dab6dcbd53b460e55a15a":[8,0,0,0,1,3,2,1,0,8,4],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aa":[8,0,0,0,1,3,2,1,0,8,1],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb":[8,0,0,0,1,3,2,1,0,8,1,0],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,2,1,0,8,1,1],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63":[8,0,0,0,1,3,2,1,0,8,1,2],
-"d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[8,0,0,0,1,3,2,1,0,8,2]
+"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468abcfceb9776fee2423d4c06cb12c6a157":[8,0,0,0,1,3,7,15,18,10]
 };

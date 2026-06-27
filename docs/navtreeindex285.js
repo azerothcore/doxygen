@@ -1,5 +1,15 @@
 var NAVTREEINDEX285 =
 {
+"db/d07/instance__obsidian__sanctum_8cpp.html":[8,0,0,0,1,3,5,1,0,1],
+"db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,1,0,1,3],
+"db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[8,0,0,0,1,3,5,1,0,1,2],
+"db/d08/classspell__hun__piercing__shots.html":[7,0,3225],
+"db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[7,0,3225,3],
+"db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[7,0,3225,4],
+"db/d08/classspell__hun__piercing__shots.html#a4ac70c7765266f36b7689ffcc2bed15d":[7,0,3225,1],
+"db/d08/classspell__hun__piercing__shots.html#a86e6da13f7162318e5c0a7c6f89c69c2":[7,0,3225,0],
+"db/d08/classspell__hun__piercing__shots.html#acc41c53bf96695dc8cc43ccaf08e4125":[7,0,3225,2],
+"db/d09/boss__devourer__of__souls_8cpp.html":[8,0,0,0,1,3,5,4,0,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,4,0,1,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b35e123ebb6defe81f9ccec5f66a6c8":[8,0,0,0,1,3,5,4,0,1,3,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23aee096f9ff69e2d3ee2d414bbb8031":[8,0,0,0,1,3,5,4,0,1,3,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX285 =
 "db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[7,0,1480,9],
 "db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[7,0,1480,2],
 "db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[7,0,1480,8],
-"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[7,0,1480,6],
-"db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[7,0,1480,4],
-"db/d14/classLootTemplate.html#a7835ebf003ae3d665656efcc923daaeb":[7,0,1480,11],
-"db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[7,0,1480,3],
-"db/d14/classLootTemplate.html#a92de3d68e0ec2ab31b1dd17279a3f832":[7,0,1480,13],
-"db/d14/classLootTemplate.html#aba1fdfb69c34a9d4a09428114d385621":[7,0,1480,16],
-"db/d14/classLootTemplate.html#acdf75466d9f29ff8a4532c4b6e15bd03":[7,0,1480,12],
-"db/d14/classLootTemplate.html#adedb1f03278aaeac63deb3dd32e07329":[7,0,1480,15],
-"db/d14/classLootTemplate.html#ae3f86961858f299f8e7ca683733bb127":[7,0,1480,14],
-"db/d14/classLootTemplate.html#ae88cc77aa554940030613a15cc05c045":[7,0,1480,10],
-"db/d14/classLootTemplate.html#ae9845401121ac8712dc8dfac9c58c72e":[7,0,1480,1]
+"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[7,0,1480,6]
 };

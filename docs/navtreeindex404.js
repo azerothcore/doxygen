@@ -1,5 +1,15 @@
 var NAVTREEINDEX404 =
 {
+"df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,367,0],
+"df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,367,1],
+"df/d3e/structEquipmentInfo.html":[7,0,1048],
+"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[7,0,1048,0],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html":[7,0,1340,0],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a3a287b97db58c3489815f20ee0d37977":[7,0,1340,0,2],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a61cb2b2bf09bb997457bc01a41e092e9":[7,0,1340,0,1],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a6e4072342e66689d343912de85e66b34":[7,0,1340,0,5],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a6e90bf60a076c164e432128f7ec62fba":[7,0,1340,0,4],
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a9c46508320d3973006561444feae0586":[7,0,1340,0,0],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#ac2cd336874b25ad20dac104037de1df5":[7,0,1340,0,3],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#af2e752a791d75e50001060c4a9f18173":[7,0,1340,0,6],
 "df/d3f/classAliveCheck.html":[7,0,150],
@@ -239,15 +249,5 @@ var NAVTREEINDEX404 =
 "df/d52/classAuraApplicationStub.html#a1fab3395f580b30fa7b2257cbcacd26a":[7,0,292,7],
 "df/d52/classAuraApplicationStub.html#a30f0ddd6c6bbc974958a33ecee39135e":[7,0,292,3],
 "df/d52/classAuraApplicationStub.html#a653fb81ddfa4c7ad855d9f1fefe172f4":[7,0,292,8],
-"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,292,9],
-"df/d52/classAuraApplicationStub.html#a9027c5f622263c32b6f7bc4a11883ddc":[7,0,292,10],
-"df/d52/classAuraApplicationStub.html#a97383d45b0a015579a0f315474ecfcc5":[7,0,292,6],
-"df/d52/classAuraApplicationStub.html#aa4afd58cae5bcfd203d61a1044d72d57":[7,0,292,12],
-"df/d52/classAuraApplicationStub.html#ad4040b722b12e54aa630abfa78cdaabd":[7,0,292,4],
-"df/d52/classAuraApplicationStub.html#ad74cccf28b56c1fe88988df229319dae":[7,0,292,2],
-"df/d52/classAuraApplicationStub.html#ada36445f6f090c6652e0567a5333bb53":[7,0,292,1],
-"df/d52/classAuraApplicationStub.html#afaa194023ae92143078166c9a142a41d":[7,0,292,0],
-"df/d52/classAuraApplicationStub.html#afc3220aa9f0403a987ad07cec1c42ced":[7,0,292,11],
-"df/d52/structmap__fileheader.html":[7,0,1503],
-"df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[7,0,1503,9]
+"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,292,9]
 };

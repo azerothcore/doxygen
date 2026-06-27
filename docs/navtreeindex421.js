@@ -1,5 +1,15 @@
 var NAVTREEINDEX421 =
 {
+"df/dda/structnpc__ulduar__vx001.html#a09d6c576c0edf23d46e53c3909a82b00":[7,0,2252,17],
+"df/dda/structnpc__ulduar__vx001.html#a0f02c02bcc93afe1059152e72f981ffd":[7,0,2252,7],
+"df/dda/structnpc__ulduar__vx001.html#a10fe94210982e31e3cb48614d74a8e67":[7,0,2252,11],
+"df/dda/structnpc__ulduar__vx001.html#a1fbaef8e14a2fa2e7a946bcce751c3a9":[7,0,2252,0],
+"df/dda/structnpc__ulduar__vx001.html#a27f5a5fe661fd896a89e534b109fc329":[7,0,2252,9],
+"df/dda/structnpc__ulduar__vx001.html#a34837d8ab0335605d7bf61eae5c29c2a":[7,0,2252,8],
+"df/dda/structnpc__ulduar__vx001.html#a349f58e878588ba2dcb2dd2da64a9f87":[7,0,2252,19],
+"df/dda/structnpc__ulduar__vx001.html#a47d955c4db0c8ceb30ae770a82aaf424":[7,0,2252,1],
+"df/dda/structnpc__ulduar__vx001.html#a4f019ff2bb5897c0c088f417f8ba4d45":[7,0,2252,4],
+"df/dda/structnpc__ulduar__vx001.html#a5c15b3c1aad51569cc8b6fe3a371f0bb":[7,0,2252,16],
 "df/dda/structnpc__ulduar__vx001.html#a720b4fdc32d067cdb91589bdc1724299":[7,0,2252,20],
 "df/dda/structnpc__ulduar__vx001.html#a8ae4ce7110f8ad7f7b800924220133b0":[7,0,2252,10],
 "df/dda/structnpc__ulduar__vx001.html#aa5d26dcde4346e8f803c9461ef053a8c":[7,0,2252,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX421 =
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[7,0,13,14,0,1],
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,0,7],
 "df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,0,7,9],
-"df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,0,7,10],
-"df/de7/classOutdoorPvPTF.html":[7,0,2361],
-"df/de7/classOutdoorPvPTF.html#a025bf734eb6357a72f2286822f7cc7c6":[7,0,2361,7],
-"df/de7/classOutdoorPvPTF.html#a23ef36361746c9fae0a14b1094914d22":[7,0,2361,4],
-"df/de7/classOutdoorPvPTF.html#a2c79f67ee87306c7944c86e745e1bfc9":[7,0,2361,10],
-"df/de7/classOutdoorPvPTF.html#a36f7e385fa4ca85ec31f96f8ff9b3048":[7,0,2361,12],
-"df/de7/classOutdoorPvPTF.html#a3ea3cd44ae7cbfc5b8dc641f2023e1ed":[7,0,2361,3],
-"df/de7/classOutdoorPvPTF.html#a45402ed7b4a58a6dcd94e7d4320fd313":[7,0,2361,2],
-"df/de7/classOutdoorPvPTF.html#a4836d80df43fb3af7f3c0fd76cbaf20b":[7,0,2361,19],
-"df/de7/classOutdoorPvPTF.html#a50576e4a5957a45205341bcb503f045b":[7,0,2361,18],
-"df/de7/classOutdoorPvPTF.html#a531956513de1703c5017193cd6d5f04b":[7,0,2361,6]
+"df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,0,7,10]
 };

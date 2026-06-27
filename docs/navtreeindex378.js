@@ -1,5 +1,15 @@
 var NAVTREEINDEX378 =
 {
+"de/d30/SpellMgr_8h.html#ae39437b5ea860c3380638469c07e196c":[8,0,0,0,1,2,41,9,47],
+"de/d30/SpellMgr_8h.html#aebca17b4bc1b0129c26a7c769d90159b":[8,0,0,0,1,2,41,9,34],
+"de/d30/SpellMgr_8h.html#aef6a5732974d60dc6edd64d0372a4301":[8,0,0,0,1,2,41,9,46],
+"de/d30/SpellMgr_8h.html#af4e20067ac1089d43e9ece8073dfd728":[8,0,0,0,1,2,41,9,18],
+"de/d30/SpellMgr_8h.html#afa6ebb0c8394abb5a52643cb8aa243a1":[8,0,0,0,1,2,41,9,21],
+"de/d30/SpellMgr_8h.html#afc30b3c6b18209a2b33a56ea14855f54":[8,0,0,0,1,2,41,9,19],
+"de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89":[8,0,0,0,1,2,41,9,25],
+"de/d31/TradeData_8h.html":[8,0,0,0,1,2,16,7,20],
+"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62":[8,0,0,0,1,2,16,7,20,1],
+"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488":[8,0,0,0,1,2,16,7,20,1,0],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[8,0,0,0,1,2,16,7,20,1,1],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[8,0,0,0,1,2,16,7,20,1,3],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[8,0,0,0,1,2,16,7,20,1,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX378 =
 "de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[7,0,1553,34],
 "de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[7,0,1553,50],
 "de/d3b/classspell__vazruden__call__nazan.html":[7,0,4229],
-"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[7,0,4229,2],
-"de/d3b/classspell__vazruden__call__nazan.html#a434945da0a6b64db79cab0e09cbbb286":[7,0,4229,1],
-"de/d3b/classspell__vazruden__call__nazan.html#afae95a49843aa956d627e9bd92f8820f":[7,0,4229,0],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html":[7,0,2180,0],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0a2f6ddcb7334a6a7c0b131f82611776":[7,0,2180,0,10],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0b719e975918c6bf1cb9e74d4b34691e":[7,0,2180,0,0],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2180,0,14],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a183bfae549896afac18bcb89270ca87a":[7,0,2180,0,4],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a1d587fe68e8ada3994896d7e1bd288fb":[7,0,2180,0,8],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a1f35d939b0f27c143dc50be18eace58d":[7,0,2180,0,2],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a1f3968dbd3168e745815c45c0b1f044c":[7,0,2180,0,12]
+"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[7,0,4229,2]
 };

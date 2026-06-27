@@ -1,5 +1,15 @@
 var NAVTREEINDEX420 =
 {
+"df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98":[7,0,4536,148],
+"df/dd9/classUnit.html#afe5db1b804a4b24ea5cbd4d2d065cfa9":[7,0,4536,546],
+"df/dd9/classUnit.html#afe78343682d113f6b4135fc2d4bf3a18":[7,0,4536,902],
+"df/dd9/classUnit.html#afe9e4c987a1cf38b5173d67370df62d2":[7,0,4536,166],
+"df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39":[7,0,4536,556],
+"df/dd9/classUnit.html#afec63037dd022c6ece9895d8ef44496a":[7,0,4536,744],
+"df/dd9/classUnit.html#aff4b0ca639163338639c4460b516c1bd":[7,0,4536,114],
+"df/dd9/classUnit.html#aff4eb1f27398eec48dfe1ac69bf23b5d":[7,0,4536,933],
+"df/dd9/classUnit.html#aff6c755067d9a6c33c846482faf1b6f1":[7,0,4536,199],
+"df/dd9/classUnit.html#affc27e4d3a55fb4fd16b0c6e033e1941":[7,0,4536,142],
 "df/dd9/classUnit.html#affc5148f2c60051706b4e85a29eb4d45":[7,0,4536,230],
 "df/dd9/classWorldPackets_1_1Array.html":[5,0,34,18],
 "df/dd9/classWorldPackets_1_1Array.html":[7,0,13,18],
@@ -239,15 +249,5 @@ var NAVTREEINDEX420 =
 "df/dda/structnpc__crystalline__frayer.html#ade88d8f4d4fd32155b87dfba75084f4c":[7,0,1740,0],
 "df/dda/structnpc__crystalline__frayer.html#afe6ba31b18fa65aaa15daad3101149c2":[7,0,1740,5],
 "df/dda/structnpc__ulduar__vx001.html":[7,0,2252],
-"df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a":[7,0,2252,14],
-"df/dda/structnpc__ulduar__vx001.html#a09d6c576c0edf23d46e53c3909a82b00":[7,0,2252,17],
-"df/dda/structnpc__ulduar__vx001.html#a0f02c02bcc93afe1059152e72f981ffd":[7,0,2252,7],
-"df/dda/structnpc__ulduar__vx001.html#a10fe94210982e31e3cb48614d74a8e67":[7,0,2252,11],
-"df/dda/structnpc__ulduar__vx001.html#a1fbaef8e14a2fa2e7a946bcce751c3a9":[7,0,2252,0],
-"df/dda/structnpc__ulduar__vx001.html#a27f5a5fe661fd896a89e534b109fc329":[7,0,2252,9],
-"df/dda/structnpc__ulduar__vx001.html#a34837d8ab0335605d7bf61eae5c29c2a":[7,0,2252,8],
-"df/dda/structnpc__ulduar__vx001.html#a349f58e878588ba2dcb2dd2da64a9f87":[7,0,2252,19],
-"df/dda/structnpc__ulduar__vx001.html#a47d955c4db0c8ceb30ae770a82aaf424":[7,0,2252,1],
-"df/dda/structnpc__ulduar__vx001.html#a4f019ff2bb5897c0c088f417f8ba4d45":[7,0,2252,4],
-"df/dda/structnpc__ulduar__vx001.html#a5c15b3c1aad51569cc8b6fe3a371f0bb":[7,0,2252,16]
+"df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a":[7,0,2252,14]
 };

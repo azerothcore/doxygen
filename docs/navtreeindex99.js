@@ -1,5 +1,15 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacb747f23ed5326a238ab5da4291d37db":[8,0,0,0,1,2,48,7,0,79],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacbe7c58238c02e5093b522c1a17700d5":[8,0,0,0,1,2,48,7,0,459],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacc3401f87d404274de1a32674df51ed8":[8,0,0,0,1,2,48,7,0,475],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacc9be1fd26887be9a07c1f94c39090d0":[8,0,0,0,1,2,48,7,0,269],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacd6e8a82ad066ba77b5e59bebcf48716":[8,0,0,0,1,2,48,7,0,501],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bacf9f333c250fdcb93bd555d285d7e521":[8,0,0,0,1,2,48,7,0,326],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad294a46e10baa31f811c556636c6a00d":[8,0,0,0,1,2,48,7,0,456],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad2c60af8676a9b5186d06c4b47417eeb":[8,0,0,0,1,2,48,7,0,153],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad36d34a552687214c2cc74639fd98ca0":[8,0,0,0,1,2,48,7,0,221],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad3b19fcd6c9316f9745005d876ed30fc":[8,0,0,0,1,2,48,7,0,354],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad4825da4367e0ff12b8a3a38df5b1e4a":[8,0,0,0,1,2,48,7,0,339],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad4da5951c439723f97e7016ad1da2ada":[8,0,0,0,1,2,48,7,0,360],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad5d45080645c9769aae336790fa88319":[8,0,0,0,1,2,48,7,0,380],
@@ -92,8 +102,8 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adfcae59f1ecb69193139540751b63566":[8,0,0,0,1,3,5,2,0,4,2,1],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aecabad3faea06eea3d7351ca76671746":[8,0,0,0,1,3,5,2,0,4,2,6],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,2,3],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[7,0,1213],
@@ -239,15 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d50/structPlayerInfo.html":[7,0,2414],
 "d3/d50/structPlayerInfo.html#a041a37c356d50860cab9f1ced33a28d0":[7,0,2414,10],
 "d3/d50/structPlayerInfo.html#a0f68412598a9741e9b5ce7a42c82d129":[7,0,2414,1],
-"d3/d50/structPlayerInfo.html#a2ce7d9aa7fc52bd9768c75b88f88b256":[7,0,2414,6],
-"d3/d50/structPlayerInfo.html#a35ab273058db0828c91f01d823467e02":[7,0,2414,3],
-"d3/d50/structPlayerInfo.html#a3bec7891e115ab3cff40c3d95174981c":[7,0,2414,14],
-"d3/d50/structPlayerInfo.html#a55a076dc53e8c2d0b2ab11b1087ebccd":[7,0,2414,11],
-"d3/d50/structPlayerInfo.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8":[7,0,2414,2],
-"d3/d50/structPlayerInfo.html#a7314ecd469357e2eb46ed3d133a5a7a0":[7,0,2414,12],
-"d3/d50/structPlayerInfo.html#a8a26bdeb267824135b3f84baa2585baa":[7,0,2414,0],
-"d3/d50/structPlayerInfo.html#ab40e5fd724fab03afbbd38713e1dd4bf":[7,0,2414,4],
-"d3/d50/structPlayerInfo.html#abbff546bbe2cc0ea643c41456c1f0d9f":[7,0,2414,8],
-"d3/d50/structPlayerInfo.html#ad21a8dd3353d3f141bcc9af65e607aee":[7,0,2414,13],
-"d3/d50/structPlayerInfo.html#ad76819034c64c0c691561eff683b7e57":[7,0,2414,7]
+"d3/d50/structPlayerInfo.html#a2ce7d9aa7fc52bd9768c75b88f88b256":[7,0,2414,6]
 };

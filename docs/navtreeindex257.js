@@ -1,5 +1,15 @@
 var NAVTREEINDEX257 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380":[8,0,0,0,1,3,5,9,2,16,6,5],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab3b8ae70d7bc7f2ce141858d02c28097":[8,0,0,0,1,3,5,9,2,16,6,22],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab6e7c93923c4c56d867e5e968ea34c94":[8,0,0,0,1,3,5,9,2,16,6,24],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ad5c27996801d50d6be6f4f24bb371a85":[8,0,0,0,1,3,5,9,2,16,6,9],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ae039e5d4811a447446b8e6ede2e87b3a":[8,0,0,0,1,3,5,9,2,16,6,16],
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78af940e143a749cc46af18f08274f1235e":[8,0,0,0,1,3,5,9,2,16,6,4],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392":[8,0,0,0,1,3,5,9,2,16,3],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a126c5ec496a2450c64ac21a3cf91b4dd":[8,0,0,0,1,3,5,9,2,16,3,1],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3":[8,0,0,0,1,3,5,9,2,16,3,0],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6":[8,0,0,0,1,3,5,9,2,16,3,13],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a24474e3db4b8776d9a3eaab350ba370f":[8,0,0,0,1,3,5,9,2,16,3,2],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9":[8,0,0,0,1,3,5,9,2,16,3,12],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba":[8,0,0,0,1,3,5,9,2,16,3,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX257 =
 "d9/dfc/classHealInfoStubBuilder.html#a34a359322b018cffc5f54ca999c11b11":[7,0,1283,3],
 "d9/dfc/classHealInfoStubBuilder.html#a4dc784241fbe998437cceb953fb83e1f":[7,0,1283,7],
 "d9/dfc/classHealInfoStubBuilder.html#a57945de96ad065451cadb47edba287c8":[7,0,1283,0],
-"d9/dfc/classHealInfoStubBuilder.html#a812e06b07eeb18c1d379409b77a80b89":[7,0,1283,4],
-"d9/dfc/classHealInfoStubBuilder.html#a89c12c30725eb2bdc3889005a38d54eb":[7,0,1283,6],
-"d9/dfc/classHealInfoStubBuilder.html#aa09160afe48114a7a3566be328f64658":[7,0,1283,2],
-"d9/dfc/classHealInfoStubBuilder.html#ab788ddcc209140ed3c10b02785471dcb":[7,0,1283,5],
-"d9/dfc/classHealInfoStubBuilder.html#ad0da544c651e387d8c6e9b272aa3db7b":[7,0,1283,8],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[7,0,2689],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[7,0,2689,1],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[7,0,2689,2],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[7,0,2689,0],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html":[7,0,3478],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html#a05c6a249b32f41d8d33b40d07bd3c44d":[7,0,3478,0]
+"d9/dfc/classHealInfoStubBuilder.html#a812e06b07eeb18c1d379409b77a80b89":[7,0,1283,4]
 };

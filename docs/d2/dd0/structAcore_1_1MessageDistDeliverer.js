@@ -1,7 +1,7 @@
 var structAcore_1_1MessageDistDeliverer =
 [
-    [ "MessageDistDeliverer", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
-    [ "SendPacket", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "MessageDistDeliverer", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a93eee46f61a89e78757792f3c6c508be", null ],
+    [ "SendPacket", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#ad7b98ce0b0d971ab44dabf917230824e", null ],
     [ "Visit", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#af44878b494b1412f0d08248f6a88fff6", null ],
     [ "Visit", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
     [ "Visit", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
@@ -13,5 +13,6 @@ var structAcore_1_1MessageDistDeliverer =
     [ "i_source", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
     [ "required3dDist", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#abdce98d93c98513a434df80b97c096c6", null ],
     [ "skipped_receiver", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamFilter", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#a9433a519c61c618235cf4dc98f473c0e", null ],
     [ "teamId", "d2/dd0/structAcore_1_1MessageDistDeliverer.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

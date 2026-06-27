@@ -1,5 +1,15 @@
 var NAVTREEINDEX221 =
 {
+"d8/d2b/classboss__paletress.html#a04cbd31e71cc349b8c1058780ee6f673":[7,0,666,1],
+"d8/d2b/classboss__paletress.html#a2c20ff397d115cf0e8a1801184e5a3f9":[7,0,666,2],
+"d8/d2c/classspell__putricide__unbound__plague.html":[7,0,3823],
+"d8/d2c/classspell__putricide__unbound__plague.html#a17dc25670b0f21525a01f6e7aa7eb572":[7,0,3823,3],
+"d8/d2c/classspell__putricide__unbound__plague.html#a1b125c887db7d2030838d0ac8e38c4e3":[7,0,3823,0],
+"d8/d2c/classspell__putricide__unbound__plague.html#a4c7be5a65b1fb7e8db62691f5ef6b38d":[7,0,3823,1],
+"d8/d2c/classspell__putricide__unbound__plague.html#accff1f03fb7c0d56cb197bb18348635c":[7,0,3823,4],
+"d8/d2c/classspell__putricide__unbound__plague.html#ae6b30b8da52141c385f985435cac99a1":[7,0,3823,2],
+"d8/d2d/cs__server_8cpp.html":[8,0,0,0,1,3,0,47],
+"d8/d2d/cs__server_8cpp.html#aaa97392c09b5045a6040d75b224bdf22":[8,0,0,0,1,3,0,47,1],
 "d8/d2e/classWildGrowthTickScalingTest.html":[7,0,4608],
 "d8/d2e/classnpc__tyrion__spybot.html":[7,0,2222],
 "d8/d2e/classnpc__tyrion__spybot.html#a7e0eed1b51ffe1df2d8ae2ad37f26528":[7,0,2222,1],
@@ -95,8 +105,8 @@ var NAVTREEINDEX221 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,0,135],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[7,0,0,123,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,0,135,1],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,0,135,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[7,0,0,123,2],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,0,135,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,135,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[7,0,0,123,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d37/classGuild_1_1RankInfo.html#a715985e1b8e8e2aa2d0b48877ae37e8f":[7,0,1272,9,16],
 "d8/d37/classGuild_1_1RankInfo.html#a7cc652b0170a7f786a5a0263b4251d2d":[7,0,1272,9,6],
 "d8/d37/classGuild_1_1RankInfo.html#a86f162bdf86255f89666e20f44d114a0":[7,0,1272,9,18],
-"d8/d37/classGuild_1_1RankInfo.html#a8b46f3a8f91cd3a187e00d37a6ddd419":[7,0,1272,9,15],
-"d8/d37/classGuild_1_1RankInfo.html#a96281f4a307ca7657a3ba9f04c9331c3":[7,0,1272,9,19],
-"d8/d37/classGuild_1_1RankInfo.html#a9f1c622c8af7a8f7f9af027eb01b9dc6":[7,0,1272,9,13],
-"d8/d37/classGuild_1_1RankInfo.html#a9fb87796b8e18ed9dd2fee53844c243f":[7,0,1272,9,11],
-"d8/d37/classGuild_1_1RankInfo.html#aaacf8ce1bfa6429cb5980d74f076cbd3":[7,0,1272,9,2],
-"d8/d37/classGuild_1_1RankInfo.html#ad7ff7ee31212be87b5cb580edef3cc16":[7,0,1272,9,20],
-"d8/d37/classGuild_1_1RankInfo.html#adb568b8ad70d0b42d834af5e2bf528d2":[7,0,1272,9,4],
-"d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[7,0,1272,9,10],
-"d8/d37/classGuild_1_1RankInfo.html#aeb209d1e53f55b5b48bcd00979014eb8":[7,0,1272,9,17],
-"d8/d37/classspell__hun__bestial__wrath.html":[7,0,3201],
-"d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[7,0,3201,1]
+"d8/d37/classGuild_1_1RankInfo.html#a8b46f3a8f91cd3a187e00d37a6ddd419":[7,0,1272,9,15]
 };

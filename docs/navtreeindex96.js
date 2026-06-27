@@ -1,5 +1,15 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac3d7238031acdb87580959bb19fdaacd":[8,0,0,0,1,3,5,9,2,13,47,42],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac4ed1047775b70d0c87cf73d72125b19":[8,0,0,0,1,3,5,9,2,13,47,5],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac51147b4c3313110355203bc22ce8084":[8,0,0,0,1,3,5,9,2,13,47,17],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025":[8,0,0,0,1,3,5,9,2,13,47,34],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac6d341d03d0eb678dd1e1c1c7e2e226d":[8,0,0,0,1,3,5,9,2,13,47,31],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a":[8,0,0,0,1,3,5,9,2,13,47,21],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac840377c67721cb0f76ab6c13b3a8781":[8,0,0,0,1,3,5,9,2,13,47,1],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac8aff247e80d471cd6550169ad9a5fa1":[8,0,0,0,1,3,5,9,2,13,47,69],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf":[8,0,0,0,1,3,5,9,2,13,47,32],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad13d10db7529d21bdf863f86d860fb65":[8,0,0,0,1,3,5,9,2,13,47,45],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad3999cba26db667949f9698805344821":[8,0,0,0,1,3,5,9,2,13,47,40],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ad4aa42546dab7c9a8843b37d1b65b6bb":[8,0,0,0,1,3,5,9,2,13,47,27],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adac2b4031d0deddc401159cac42ab36e":[8,0,0,0,1,3,5,9,2,13,47,63],
@@ -239,15 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[7,0,1772,1],
 "d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[7,0,1772,2],
 "d3/d3e/PassiveAI_8cpp.html":[8,0,0,0,1,2,3,0,6],
-"d3/d3f/classspell__item__healing__trance.html":[7,0,3377],
-"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[7,0,3377,3],
-"d3/d3f/classspell__item__healing__trance.html#a5dbf2d5e9b31828b79150f40f6033896":[7,0,3377,0],
-"d3/d3f/classspell__item__healing__trance.html#a7afae9d94162490cb40d29159d88f4a8":[7,0,3377,2],
-"d3/d3f/classspell__item__healing__trance.html#a84f326e1353437f29fb051533d3391eb":[7,0,3377,1],
-"d3/d40/classspell__hun__hunting__party.html":[7,0,3212],
-"d3/d40/classspell__hun__hunting__party.html#a133ff30c99bd6521d83e2de2361a5123":[7,0,3212,1],
-"d3/d40/classspell__hun__hunting__party.html#a202ed9cca388b984f0dfebb64a512c47":[7,0,3212,0],
-"d3/d40/classspell__hun__hunting__party.html#a39b41d1560869ef9a1231fd39d0a652f":[7,0,3212,3],
-"d3/d40/classspell__hun__hunting__party.html#a6cab1853296da43b4a4cb39bedb20ffa":[7,0,3212,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4363]
+"d3/d3f/classspell__item__healing__trance.html":[7,0,3377]
 };
