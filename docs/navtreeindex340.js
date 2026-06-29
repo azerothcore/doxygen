@@ -248,6 +248,6 @@ var NAVTREEINDEX340 =
 "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e":[8,0,0,0,1,3,2,12,7,5,9],
 "dd/d2d/classMMAP_1_1TileBuilder.html":[7,0,6,11],
 "dd/d2d/classMMAP_1_1TileBuilder.html":[5,0,20,11],
-"dd/d2d/classMMAP_1_1TileBuilder.html#a11941bfac809a75cc1b523fe0ce25c55":[7,0,6,11,0],
-"dd/d2d/classMMAP_1_1TileBuilder.html#a11941bfac809a75cc1b523fe0ce25c55":[5,0,20,11,0]
+"dd/d2d/classMMAP_1_1TileBuilder.html#a11941bfac809a75cc1b523fe0ce25c55":[5,0,20,11,0],
+"dd/d2d/classMMAP_1_1TileBuilder.html#a11941bfac809a75cc1b523fe0ce25c55":[7,0,6,11,0]
 };

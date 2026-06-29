@@ -1,6 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,887,4],
 "d3/d10/classspell__algalon__phase__punch__aura.html":[7,0,2616],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a2724a85983561a14db8b06ae492ead55":[7,0,2616,0],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a6d0f941f30d8c850e48396fffd13768d":[7,0,2616,1],
@@ -65,10 +64,10 @@ var NAVTREEINDEX93 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f":[5,0,10,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[5,0,10,5],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa":[5,0,10,1],
-"d3/d13/structADT_1_1MODF.html":[7,0,1,1],
 "d3/d13/structADT_1_1MODF.html":[5,0,2,1],
-"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
+"d3/d13/structADT_1_1MODF.html":[7,0,1,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,2,1,2],
+"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[7,0,1,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,2,1,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX93 =
 "d3/d18/classObjectGuidGenerator.html#a1d917989d9bf681546d0e3e9b20593e0":[7,0,2319,0],
 "d3/d18/classObjectGuidGenerator.html#a43dfe501c5ec222bbd1f8687a1a103b9":[7,0,2319,1],
 "d3/d18/classat__battleguard__sartura.html":[7,0,217],
-"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[7,0,217,1]
+"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[7,0,217,1],
+"d3/d18/classat__battleguard__sartura.html#a9247cdebeb57d2ddbfa75f60da125d36":[7,0,217,0]
 };

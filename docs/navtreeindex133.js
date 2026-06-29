@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a901e60dd92a92f9b0f3e1d709857498f":[8,0,0,0,1,3,5,2,1,1,54,2],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ac61cb65d7d9b3ba66dc98fa8fdc9e602":[8,0,0,0,1,3,5,2,1,1,54,3],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ade68cd811c4f056f8e57baddec5c91d2":[8,0,0,0,1,3,5,2,1,1,54,5],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9aea705293d77171b26b0268e94a0816eb":[8,0,0,0,1,3,5,2,1,1,54,8],
@@ -206,8 +205,8 @@ var NAVTREEINDEX133 =
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,8,1],
 "d4/d8b/classCharacterCache.html":[7,0,870],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[7,0,870,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[7,0,870,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[7,0,2760,1],
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html":[7,0,1673,0],
 "d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#a908ccf6763240ba0c0ebdf2dec6e1b36":[7,0,1673,0,0],
-"d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#aa5c80b5759656e3865d6721161f9f005":[7,0,1673,0,1]
+"d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#aa5c80b5759656e3865d6721161f9f005":[7,0,1673,0,1],
+"d4/d8d/boss__urom_8cpp.html":[8,0,0,0,1,3,5,8,2,2]
 };

@@ -1,14 +1,13 @@
 var NAVTREEINDEX157 =
 {
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#ac379f459d0fff6b1848dc52bd21ef393":[5,0,31,5,6],
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#ac801d04ca4c643d2b8eba5199a8d0fac":[5,0,31,5,5],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ac801d04ca4c643d2b8eba5199a8d0fac":[7,0,11,5,5],
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[5,0,31,5,2],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#ac801d04ca4c643d2b8eba5199a8d0fac":[5,0,31,5,5],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[7,0,11,5,2],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[5,0,31,5,2],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad73c215408218900973df4dbdd8fcd18":[7,0,11,5,9],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad73c215408218900973df4dbdd8fcd18":[5,0,31,5,9],
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[5,0,31,5,8],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[7,0,11,5,8],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[5,0,31,5,8],
 "d5/d99/firework__show__BootyBay_8h.html":[8,0,0,0,1,3,3,0,2],
 "d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99":[8,0,0,0,1,3,3,0,2,0],
 "d5/d99/firework__show__BootyBay_8h.html#aed5048221cf1d35ad3d4989da8786617":[8,0,0,0,1,3,3,0,2,2],
@@ -27,8 +26,8 @@ var NAVTREEINDEX157 =
 "d5/d9a/AchievementScript_8h.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782":[8,0,0,0,1,2,38,0,5,1,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[5,0,34,6,51],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[7,0,13,6,51],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[5,0,34,6,51,1],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[7,0,13,6,51,1],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[5,0,34,6,51,1],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[5,0,34,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[7,0,13,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#ad221eecdb16233251306fff3d9801f38":[5,0,34,6,51,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX157 =
 "d5/da4/classspell__warl__soul__leech.html#a28c281aeef80409b419753f71da80f92":[7,0,4286,3],
 "d5/da4/classspell__warl__soul__leech.html#aadbaea984fedb04e77b92174efd5e83d":[7,0,4286,1],
 "d5/da4/classspell__warl__soul__leech.html#aedd1652a571275a305db70fbbe6f725c":[7,0,4286,2],
-"d5/da5/boss__hakkar_8cpp.html":[8,0,0,0,1,3,2,16,3]
+"d5/da5/boss__hakkar_8cpp.html":[8,0,0,0,1,3,2,16,3],
+"d5/da5/boss__hakkar_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,16,3,11]
 };

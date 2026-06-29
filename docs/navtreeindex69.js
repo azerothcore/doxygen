@@ -1,6 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d75/Duration_8h.html#a7ff3ff81243ee7b2ce873364bb7ad676":[8,0,0,0,0,15,7,13],
 "d2/d75/Duration_8h.html#a983745490d3d3a0322c4ccf0f418f179":[8,0,0,0,0,15,7,9],
 "d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083":[8,0,0,0,0,15,7,1],
 "d2/d75/Duration_8h.html#ab4fa20b33a9b5ee358963159b01d72f3":[8,0,0,0,0,15,7,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX69 =
 "d2/d8b/structArenaTeamStats.html#a124c6d64f22c13707764eedd79fe1912":[7,0,207,2],
 "d2/d8b/structArenaTeamStats.html#a1d0092200b2c9428e821473949cfda77":[7,0,207,4],
 "d2/d8b/structArenaTeamStats.html#a313afef901bd5a9347f2074a7ca1bfe0":[7,0,207,5],
-"d2/d8b/structArenaTeamStats.html#a9bcd8dc00437bcf015565eeb43263578":[7,0,207,0]
+"d2/d8b/structArenaTeamStats.html#a9bcd8dc00437bcf015565eeb43263578":[7,0,207,0],
+"d2/d8b/structArenaTeamStats.html#ab43875cc3ae58eb636a490c2c0f5c1f6":[7,0,207,1]
 };

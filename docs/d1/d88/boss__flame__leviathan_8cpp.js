@@ -43,8 +43,7 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_FREYA", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc052e50f034cb22a759436f67ea9de9", null ],
       [ "EVENT_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07faa54533adef9ff9cd67857f7455e7", null ],
       [ "EVENT_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
-      [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
-      [ "EVENT_POSITION_CHECK", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c78a4ab4f97a524c89f286ee54273d2", null ]
+      [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ]
     ] ],
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],

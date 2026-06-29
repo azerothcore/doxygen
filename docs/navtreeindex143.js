@@ -1,7 +1,6 @@
 var NAVTREEINDEX143 =
 {
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[5,0,0,37,3],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[7,0,0,25,3],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[7,0,0,25,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,0,37,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[7,0,0,25,5],
@@ -165,18 +164,18 @@ var NAVTREEINDEX143 =
 "d4/df7/structAchievementCriteriaDataSet.html#a6abf189d95226b370cfcfe7b628ed7c0":[7,0,116,6],
 "d4/df7/structAchievementCriteriaDataSet.html#a8edbe32d695308633fa7abfc91d2a1a1":[7,0,116,3],
 "d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[7,0,116,4],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,0,48],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[7,0,0,36],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,0,48,0],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,0,48],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[7,0,0,36,0],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,0,48,0],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[7,0,0,36,6],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[5,0,0,48,6],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[5,0,0,48,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[7,0,0,36,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[5,0,0,48,1],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[7,0,0,36,1],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[5,0,0,48,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[7,0,0,36,5],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[5,0,0,48,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[7,0,0,36,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[5,0,0,48,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aebfaeac77c40d4c7938cbdd488defc51":[7,0,0,36,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX143 =
 "d5/d00/classspell__rog__killing__spree__aura.html":[7,0,3969],
 "d5/d00/classspell__rog__killing__spree__aura.html#a0f41f9287f5eb5046e6679d22c65416a":[7,0,3969,5],
 "d5/d00/classspell__rog__killing__spree__aura.html#a18875ef707271a77c0c5867fa8de7ff7":[7,0,3969,0],
-"d5/d00/classspell__rog__killing__spree__aura.html#a1bd9806323ad6b26a0c1fb8773596c98":[7,0,3969,3]
+"d5/d00/classspell__rog__killing__spree__aura.html#a1bd9806323ad6b26a0c1fb8773596c98":[7,0,3969,3],
+"d5/d00/classspell__rog__killing__spree__aura.html#a339b71689056a61e4eebf77f1abcb3dd":[7,0,3969,2]
 };

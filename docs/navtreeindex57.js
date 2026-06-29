@@ -1,6 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d2/d3d/boss__lurker__below_8cpp.html#aab072245ab577ff0e12efe20a536b99aa1fdaf4a07bada6d867ab661c2e27f10c":[8,0,0,0,1,3,7,2,0,4,4,1],
 "d2/d3d/boss__lurker__below_8cpp.html#aab072245ab577ff0e12efe20a536b99aae2fcf2e615b3c4b3730a67d2fce34236":[8,0,0,0,1,3,7,2,0,4,4,0],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html":[8,0,0,0,1,3,7,5,0,4],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,0,4,3],
@@ -61,13 +60,13 @@ var NAVTREEINDEX57 =
 "d2/d3f/classActivePoolData.html":[7,0,131],
 "d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[7,0,131,17],
 "d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[7,0,131,9],
-"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[7,0,131,0],
 "d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[7,0,131,1],
+"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[7,0,131,0],
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[7,0,131,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[7,0,131,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[7,0,131,5],
-"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,131,8],
 "d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,131,7],
+"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,131,8],
 "d2/d3f/classActivePoolData.html#a8979fda780644f1e678b6569bc7ca6eb":[7,0,131,15],
 "d2/d3f/classActivePoolData.html#a904a2e30dd2c90c42efbd111fadb939b":[7,0,131,11],
 "d2/d3f/classActivePoolData.html#a9873ca821d26606ee06011a02bf3e1f8":[7,0,131,18],
@@ -249,5 +248,6 @@ var NAVTREEINDEX57 =
 "d2/d48/classChannel.html#a59382028b0cb2d0c73b8a04f6c6dde3c":[7,0,864,54],
 "d2/d48/classChannel.html#a5b735625aef75d0ad937f3c1b0387732":[7,0,864,39],
 "d2/d48/classChannel.html#a60ac5c0db621040bca03a44dfdb2d4fa":[7,0,864,30],
-"d2/d48/classChannel.html#a62ddfdef17c946e5646e3c77392d000d":[7,0,864,46]
+"d2/d48/classChannel.html#a62ddfdef17c946e5646e3c77392d000d":[7,0,864,46],
+"d2/d48/classChannel.html#a643ede42777caa8bd414c4bfd7ddf503":[7,0,864,70]
 };

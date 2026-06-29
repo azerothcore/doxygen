@@ -1,6 +1,5 @@
 var NAVTREEINDEX42 =
 {
-"d1/db7/zone__darkshore_8cpp.html#a3338171c123af20526d919ca7eaed39ba76e1fd225869c359917096a4030f4799":[8,0,0,0,1,3,4,17,12,7],
 "d1/db7/zone__darkshore_8cpp.html#a3338171c123af20526d919ca7eaed39bab51082ac5d4aacd1d44e0406af8e5358":[8,0,0,0,1,3,4,17,12,10],
 "d1/db7/zone__darkshore_8cpp.html#a3338171c123af20526d919ca7eaed39bab9c834eabdfaafbe7767d905507ca5ad":[8,0,0,0,1,3,4,17,12,2],
 "d1/db7/zone__darkshore_8cpp.html#a3338171c123af20526d919ca7eaed39babc3ac66a100caa89874b07646256039b":[8,0,0,0,1,3,4,17,12,0],
@@ -111,10 +110,10 @@ var NAVTREEINDEX42 =
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[7,0,3971,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,0,57],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[7,0,0,45],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,0,57,3],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,0,57,2],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,0,57,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[7,0,0,45,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,0,57,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX42 =
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca79924e5876de771cc695c4db5ed1029a":[8,0,0,0,1,3,2,4,12,19,11],
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,2,4,12,19,12],
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298cad6c9fb77daa796fdf6920981b2f71892":[8,0,0,0,1,3,2,4,12,19,6],
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298cae1919091ca63cca3116f42b45c97f648":[8,0,0,0,1,3,2,4,12,19,3]
+"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298cae1919091ca63cca3116f42b45c97f648":[8,0,0,0,1,3,2,4,12,19,3],
+"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298caf3da45e20771efa71ffc26d7882cbbf5":[8,0,0,0,1,3,2,4,12,19,4]
 };

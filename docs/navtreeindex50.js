@@ -1,6 +1,5 @@
 var NAVTREEINDEX50 =
 {
-"d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[7,0,3088,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[7,0,3088,2],
 "d1/df9/classspell__kelthuzad__void__blast.html":[7,0,3506],
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[7,0,3506,0],
@@ -10,12 +9,12 @@ var NAVTREEINDEX50 =
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1657],
@@ -249,5 +248,6 @@ var NAVTREEINDEX50 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#a87fb109fcc88099406d9f189333aef7c":[7,0,2340,5],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#a8aea9e4a005f5c88e2c71cfd46d10058":[7,0,2340,3],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#abef3d9dfff4688e0c5a87cd7b2a847c4":[7,0,2340,7],
-"d2/d0b/classOPvPCapturePointZM__Graveyard.html#ac10fc817ba6d3c68310a6b0d68e52342":[7,0,2340,4]
+"d2/d0b/classOPvPCapturePointZM__Graveyard.html#ac10fc817ba6d3c68310a6b0d68e52342":[7,0,2340,4],
+"d2/d0b/classOPvPCapturePointZM__Graveyard.html#acb0c4738c28d48f2f0ccec090e4b96d4":[7,0,2340,12]
 };

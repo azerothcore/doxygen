@@ -1,6 +1,5 @@
 var NAVTREEINDEX155 =
 {
-"d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,8,1,4,5,1],
 "d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a08aad205433870ab8e99d8545a84d940":[8,0,0,0,1,3,5,8,1,4,5,3],
 "d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a33abb09142ea4f7e5033c54225d9d63e":[8,0,0,0,1,3,5,8,1,4,5,2],
 "d5/d7b/boss__ormorok_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,8,1,4,5,0],
@@ -15,20 +14,20 @@ var NAVTREEINDEX155 =
 "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d679889b59d09acd88d0e743219e782":[8,0,0,0,1,3,5,8,1,4,3,3],
 "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d74321b9065558a77e15c22407f923b":[8,0,0,0,1,3,5,8,1,4,3,0],
 "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5399086bf936186e2d5e143fad34032":[8,0,0,0,1,3,5,8,1,4,3,5],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html":[7,0,13,27],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[5,0,34,27],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html":[7,0,13,27],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[5,0,34,27,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[7,0,13,27,0],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,34,27,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[7,0,13,27,2],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,34,27,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,34,27,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[7,0,13,27,3],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[7,0,13,27,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,34,27,5],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,34,27,1],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[7,0,13,27,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[7,0,13,27,1],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,34,27,4],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,34,27,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[7,0,13,27,4],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,34,27,4],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html":[7,0,1908],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a0feca7aedcf3c07253d4d402266189cc":[7,0,1908,2],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a9d3c647f485dbca5efeec8f784efba1b":[7,0,1908,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX155 =
 "d5/d89/classat__karazhan__mirkblood__entrance.html#aa5537dc8616c1f748b6be4b1e2870ca7":[7,0,238,0],
 "d5/d89/classat__karazhan__mirkblood__entrance.html#ad99c85de36a369752fa61bab761a402e":[7,0,238,1],
 "d5/d89/classspell__halion__combustion__consumption__aura.html":[7,0,3153],
-"d5/d89/classspell__halion__combustion__consumption__aura.html#a334f2211429dde989b6beb6c10a71464":[7,0,3153,4]
+"d5/d89/classspell__halion__combustion__consumption__aura.html#a334f2211429dde989b6beb6c10a71464":[7,0,3153,4],
+"d5/d89/classspell__halion__combustion__consumption__aura.html#a337776c42bd6c42ecdffb508808ed070":[7,0,3153,1]
 };

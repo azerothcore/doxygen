@@ -1,6 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"d4/d9f/classTriangleBoundary.html#a7c8c6e8e40ec6249d672bb735d9fbdfa":[7,0,4518,9],
 "d4/d9f/classTriangleBoundary.html#a8e037f96f40d81f6c426208efb0dcd1a":[7,0,4518,8],
 "d4/d9f/classTriangleBoundary.html#aaebce21d60856976db921e22a871aae6":[7,0,4518,1],
 "d4/d9f/classTriangleBoundary.html#abcce62f1f187bc6e42f4534bfca855e8":[7,0,4518,5],
@@ -223,8 +222,8 @@ var NAVTREEINDEX136 =
 "d4/da8/classadt__MCLQ.html#ab0181729f82eb0f02da5cb95ec48cda1":[7,0,139,3],
 "d4/da8/classadt__MCLQ.html#ab03dc912a304c0585d2725596adb4b49":[7,0,139,7],
 "d4/da8/classadt__MCLQ.html#ac21d785a3a457baa84cbfd33ebb69bd4":[7,0,139,5],
-"d4/da8/structAcore_1_1is__tuple.html":[5,0,0,79],
 "d4/da8/structAcore_1_1is__tuple.html":[7,0,0,67],
+"d4/da8/structAcore_1_1is__tuple.html":[5,0,0,79],
 "d4/da8/structnpc__earthen__ring__flamecaller.html":[7,0,1778],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#a18b476dfdf65ca7e84856b31027b11f1":[7,0,1778,9],
 "d4/da8/structnpc__earthen__ring__flamecaller.html#a2e6337402c07413ed9aa39c2de58e0d9":[7,0,1778,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX136 =
 "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516acfc09932c04ed23f85851887d6840a49":[8,0,0,0,1,3,5,9,2,7,8,4],
 "d4/da9/boss__ignis_8cpp.html#a608c57aaa4b51807b1af1425e979768e":[8,0,0,0,1,3,5,9,2,7,15],
 "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395b":[8,0,0,0,1,3,5,9,2,7,12],
-"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3":[8,0,0,0,1,3,5,9,2,7,12,7]
+"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3":[8,0,0,0,1,3,5,9,2,7,12,7],
+"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba2adde576f86ca0dac01eeb141434fd00":[8,0,0,0,1,3,5,9,2,7,12,10]
 };

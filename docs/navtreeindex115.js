@@ -1,6 +1,5 @@
 var NAVTREEINDEX115 =
 {
-"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba6c266d4a9b134bdf6854aa2c2f0de60e":[8,0,0,0,1,2,8,1,3,18,48],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba6f6fe298bb0b97e17500acabd45446e9":[8,0,0,0,1,2,8,1,3,18,23],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba700afed1cf3ee7df6d53d558d792d583":[8,0,0,0,1,2,8,1,3,18,43],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba71db007c417c80b5863ac900b79c8074":[8,0,0,0,1,2,8,1,3,18,29],
@@ -122,10 +121,10 @@ var NAVTREEINDEX115 =
 "d3/dd5/structnpc__azure__sorceror.html#a462d57b8e8cd01a9ec1bd59a453f6ab5":[7,0,1659,3],
 "d3/dd5/structnpc__azure__sorceror.html#af4bc0ff9b938302c399bff528dd06769":[7,0,1659,1],
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1659,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX115 =
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#a2db820022631647e942b5ec84e63717e":[7,0,4167,1],
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#aa498d4669f67eba4b904b203daeb5a7d":[7,0,4167,3],
 "d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#ac1a58d605156c03d05eb99605287e762":[7,0,4167,0],
-"d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#adfd213ccf8c5596fcd6dc69e53740376":[7,0,4167,2]
+"d3/ddc/classspell__the__lich__king__necrotic__plague__aura.html#adfd213ccf8c5596fcd6dc69e53740376":[7,0,4167,2],
+"d3/ddc/structGtChanceToMeleeCritBaseEntry.html":[7,0,1258]
 };

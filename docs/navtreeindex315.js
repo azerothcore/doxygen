@@ -1,12 +1,12 @@
 var NAVTREEINDEX315 =
 {
-"dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[7,0,10,1,8],
+"dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[5,0,30,1,8],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[7,0,10,1,19],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[5,0,30,1,19],
-"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[7,0,10,1,12],
 "dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[5,0,30,1,12],
-"dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[7,0,10,1,14],
+"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[7,0,10,1,12],
 "dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[5,0,30,1,14],
+"dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[7,0,10,1,14],
 "dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[7,0,10,1,15],
 "dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[5,0,30,1,15],
 "dc/d0b/cs__mail_8cpp.html":[8,0,0,0,1,3,0,30],
@@ -245,8 +245,8 @@ var NAVTREEINDEX315 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6]

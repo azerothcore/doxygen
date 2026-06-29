@@ -1,6 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"d5/d00/classspell__rog__killing__spree__aura.html#a339b71689056a61e4eebf77f1abcb3dd":[7,0,3969,2],
 "d5/d00/classspell__rog__killing__spree__aura.html#a47351141df5e5e15a2d454cc653a9cf5":[7,0,3969,6],
 "d5/d00/classspell__rog__killing__spree__aura.html#abd535f756fae06c9fae613d69ef4e353":[7,0,3969,4],
 "d5/d00/classspell__rog__killing__spree__aura.html#ad2467bc150cb08766c57cca23d4d9843":[7,0,3969,7],
@@ -108,12 +107,12 @@ var NAVTREEINDEX144 =
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9":[4,1,19,0,1,2],
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe":[4,1,19,0,1,0],
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b":[4,1,19,0,1,3],
-"d5/d08/structAcore_1_1Encoding_1_1Base32.html":[7,0,0,3,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html":[5,0,0,5,0],
+"d5/d08/structAcore_1_1Encoding_1_1Base32.html":[7,0,0,3,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[5,0,0,5,0,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[7,0,0,3,0,0],
-"d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[5,0,0,5,0,1],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[7,0,0,3,0,1],
+"d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[5,0,0,5,0,1],
 "d5/d08/structboss__bigbadwolf.html":[7,0,412],
 "d5/d08/structboss__bigbadwolf.html#a167083a43e00a60e9c3792cadaf6e80c":[7,0,412,2],
 "d5/d08/structboss__bigbadwolf.html#a1e4ad63c96d64f81e8b9ea82f118cdcc":[7,0,412,0],
@@ -132,14 +131,14 @@ var NAVTREEINDEX144 =
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a93d850e2d5f094b97ca5c09bf1d236a9":[7,0,0,19,0],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa00b184a24ea73293114f92126f58f24":[7,0,0,19,3],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa00b184a24ea73293114f92126f58f24":[5,0,0,31,3],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[5,0,0,31,4],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[7,0,0,19,4],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[5,0,0,31,4],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[7,0,0,19,5],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[5,0,0,31,5],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[7,0,0,19,6],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[5,0,0,31,6],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[7,0,0,19,1],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[7,0,0,19,6],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[5,0,0,31,1],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[7,0,0,19,1],
 "d5/d09/classPetAura.html":[7,0,2390],
 "d5/d09/classPetAura.html#a216021a7ad893ae6ca65ea068dd6eedb":[7,0,2390,8],
 "d5/d09/classPetAura.html#a38087712cef92ad55dc84f96e2b9e300":[7,0,2390,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX144 =
 "d5/d0f/classAuraScript.html#abbfd3de68cd278d4dcc99e0a5f5b4822":[7,0,297,60],
 "d5/d0f/classAuraScript.html#abdb04a3d95a181d0546271d515c6607b":[7,0,297,55],
 "d5/d0f/classAuraScript.html#ac8f2649c0916c38eb26efd3fbcff5765":[7,0,297,78],
-"d5/d0f/classAuraScript.html#ac9cec41d91e99fa7676cf8aada4de850":[7,0,297,26]
+"d5/d0f/classAuraScript.html#ac9cec41d91e99fa7676cf8aada4de850":[7,0,297,26],
+"d5/d0f/classAuraScript.html#ada83b4f362ece508ff191b02999524b9":[7,0,297,32]
 };
