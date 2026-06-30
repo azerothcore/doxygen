@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"d3/df5/classnpc__impaling__spear.html#af546ed9684fc085ad651bf5bd93e5bf7":[7,0,1904,1],
 "d3/df5/classspell__temple__of__atal__hakkar__awaken__the__soulflayer.html":[7,0,4136],
 "d3/df5/classspell__temple__of__atal__hakkar__awaken__the__soulflayer.html#a0b5ac8cfc4eb4adadb653a81a59a8287":[7,0,4136,2],
 "d3/df5/classspell__temple__of__atal__hakkar__awaken__the__soulflayer.html#ad245a7dcf129774b8ef3e3653b3e3026":[7,0,4136,0],
@@ -185,16 +186,16 @@ var NAVTREEINDEX118 =
 "d3/df7/classMPQFile.html#aac2ac24cd080cae5575030e10bfd37d9":[7,0,1564,21],
 "d3/df7/classMPQFile.html#ad180e1b456b089215cba4b2cb50e50a6":[7,0,1564,25],
 "d3/df7/classMPQFile.html#ad180e1b456b089215cba4b2cb50e50a6":[7,0,1564,24],
-"d3/df7/classMPQFile.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e":[7,0,1564,0],
 "d3/df7/classMPQFile.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e":[7,0,1564,3],
-"d3/df7/classMPQFile.html#ad478a7160aa98e69d09b099ea7875d12":[7,0,1564,12],
+"d3/df7/classMPQFile.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e":[7,0,1564,0],
 "d3/df7/classMPQFile.html#ad478a7160aa98e69d09b099ea7875d12":[7,0,1564,13],
+"d3/df7/classMPQFile.html#ad478a7160aa98e69d09b099ea7875d12":[7,0,1564,12],
 "d3/df7/classMPQFile.html#ad8612ecd51a6c0dd226a936965753bdc":[7,0,1564,28],
 "d3/df7/classMPQFile.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e":[7,0,1564,8],
 "d3/df7/classMPQFile.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e":[7,0,1564,9],
 "d3/df7/classMPQFile.html#ae17eee1ec4d2f5f5f794d2373b919bdb":[7,0,1564,27],
-"d3/df7/classMPQFile.html#ae25135399b2ce5bf0782897f5df791dc":[7,0,1564,18],
 "d3/df7/classMPQFile.html#ae25135399b2ce5bf0782897f5df791dc":[7,0,1564,19],
+"d3/df7/classMPQFile.html#ae25135399b2ce5bf0782897f5df791dc":[7,0,1564,18],
 "d3/df7/classmodify__commandscript.html":[7,0,1548],
 "d3/df7/classmodify__commandscript.html#a060326dbdeaf5429782790522ea55ffb":[7,0,1548,2],
 "d3/df7/classmodify__commandscript.html#a07ed99b5b575d7ad9798f6f87d525965":[7,0,1548,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "d3/df7/gnomeregan_8h.html#a8d101ffb621440482b62adc49f663911":[8,0,0,0,1,3,2,3,0,1],
 "d3/df7/gnomeregan_8h.html#af5652ad3c499775ab612bdbe1a06b81d":[8,0,0,0,1,3,2,3,0,5],
 "d3/df7/gnomeregan_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,3,0,2],
-"d3/df7/gnomeregan_8h.html#afb6eb4f28419b652027fad41104a6d22a32c932ab07cefdbe17d15290ab965746":[8,0,0,0,1,3,2,3,0,2,0],
-"d3/df7/gnomeregan_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,2,3,0,2,1]
+"d3/df7/gnomeregan_8h.html#afb6eb4f28419b652027fad41104a6d22a32c932ab07cefdbe17d15290ab965746":[8,0,0,0,1,3,2,3,0,2,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/d0d/structnpc__the__etymidian.html#a714edf3ba5f7a6d59242c991764effc5":[7,0,2176,2],
 "da/d0d/structnpc__the__etymidian.html#a7371e361c018360315e20086b0b99079":[7,0,2176,6],
 "da/d0d/structnpc__the__etymidian.html#a8508a2c89eeeee2d235e1178ca77e895":[7,0,2176,7],
 "da/d0d/structnpc__the__etymidian.html#a9ba2c34b08d0fe61e18037b02f352d08":[7,0,2176,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/d1e/WaypointMovementGenerator_8h.html#af2d292bdefbb6db76ff3201ac0c0cdd6":[8,0,0,0,1,2,31,0,21,4],
 "da/d1e/WaypointMovementGenerator_8h.html#afcff81f45a877feac68bf5bcae913560":[8,0,0,0,1,2,31,0,21,5],
 "da/d1f/classspell__kaelthas__remove__enchanted__weapons.html":[7,0,3488],
-"da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#a032b00bcd9bda0cd04f93848e4630c6a":[7,0,3488,0],
-"da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#aa96de13af039d8dfab0ae1a5d30e21a8":[7,0,3488,2]
+"da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#a032b00bcd9bda0cd04f93848e4630c6a":[7,0,3488,0]
 };

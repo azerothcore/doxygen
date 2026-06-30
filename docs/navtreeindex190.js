@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d6/de3/structScalingStatValuesEntry.html#a57cdfb5465ced673edeb8c35bd7a3535":[7,0,2535,13],
 "d6/de3/structScalingStatValuesEntry.html#a742f8447dca5961fb39e50de8233fa86":[7,0,2535,6],
 "d6/de3/structScalingStatValuesEntry.html#a7559b9045268d8050372153c8c976946":[7,0,2535,12],
 "d6/de3/structScalingStatValuesEntry.html#aa0718862ebfeea92ad299e04c9c622c8":[7,0,2535,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d6/dee/classInstanceSaveMgr.html#a7eddbd4d8e66b05f5febf47ecf26f0a3":[7,0,1389,21],
 "d6/dee/classInstanceSaveMgr.html#a83e637f26c5992e4e578f6bc62de71e8":[7,0,1389,36],
 "d6/dee/classInstanceSaveMgr.html#a870dae0b7c35d0915b036e892a766dcd":[7,0,1389,6],
-"d6/dee/classInstanceSaveMgr.html#a883b5714276c0d9f4d8b7bf94da85eaa":[7,0,1389,30],
-"d6/dee/classInstanceSaveMgr.html#a8eb7c3c963cbcd83d050c7d496174703":[7,0,1389,33]
+"d6/dee/classInstanceSaveMgr.html#a883b5714276c0d9f4d8b7bf94da85eaa":[7,0,1389,30]
 };

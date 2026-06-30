@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html":[7,0,1905,0],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0729c584c3b65e5f25f4445de378f0ea":[7,0,1905,0,1],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0a8159a84689dbfd8c69ed523ce03817":[7,0,1905,0,0],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9":[7,0,1905,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/d40/classTotem.html#a9c417b6be9a58cda23250067f6cadbcc":[7,0,4499,18],
 "da/d40/classTotem.html#aa1c94dfcaee2deaef2786e2f4f63b837":[7,0,4499,4],
 "da/d40/classTotem.html#aa44d1386a44ade821cc6dfe5caee9b90":[7,0,4499,10],
-"da/d40/classTotem.html#aa65b8427a4cd938312ac4d9d4ab54f69":[7,0,4499,17],
-"da/d40/classTotem.html#aaf87ce98ed8bfc42072228c9e39bfdf6":[7,0,4499,6]
+"da/d40/classTotem.html#aa65b8427a4cd938312ac4d9d4ab54f69":[7,0,4499,17]
 };

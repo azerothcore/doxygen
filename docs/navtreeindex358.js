@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[7,0,3473,1],
 "dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,1,0,0],
 "dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[8,0,0,0,3,1,0,0,3],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[7,0,1860,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#acf6f70f93dbca7f5139af17ec411b971":[7,0,1737,0,15],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae0c99157db5daa07643715a56217bccd":[7,0,1737,0,11],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[7,0,1737,0,2],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#af883cb5fd419eaf1c82a21f980d3e893":[7,0,1737,0,7],
-"de/d02/structnpc__pet__dk__ghoul.html":[7,0,2031]
+"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#af883cb5fd419eaf1c82a21f980d3e893":[7,0,1737,0,7]
 };

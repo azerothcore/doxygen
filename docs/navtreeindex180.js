@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/d6b/classspell__mage__ignite.html#a801610a9f9fae5cb711850254b291268":[7,0,3580,0],
 "d6/d6b/classspell__mage__ignite.html#a8626318b6f9b35a8b1c116062618b3c0":[7,0,3580,3],
 "d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[7,0,3580,4],
 "d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[7,0,3580,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468a8b79958f3e4c99d2e5db1bbb46672d43":[8,0,0,0,1,3,7,15,18,5],
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468a967473f354dae95832b5e82733f4cced":[8,0,0,0,1,3,7,15,18,1],
 "d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ab55c0e246afb46a9c3feb1a24b9735db":[8,0,0,0,1,3,7,15,18,8],
-"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ab8d35951eed2c9e47bed2aa4da3fab8b":[8,0,0,0,1,3,7,15,18,6],
-"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468abcfceb9776fee2423d4c06cb12c6a157":[8,0,0,0,1,3,7,15,18,10]
+"d6/d75/zone__terokkar__forest_8cpp.html#ae0ce6b8c904e723fea8344c9e2a6c468ab8d35951eed2c9e47bed2aa4da3fab8b":[8,0,0,0,1,3,7,15,18,6]
 };

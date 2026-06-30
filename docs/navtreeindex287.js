@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[8,0,0,0,1,3,5,12,3,2,3],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[8,0,0,0,1,3,5,12,3,2,0],
 "db/d1d/structboss__ouro.html":[7,0,663],
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[7,0,663,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a0cf480b75aa45a9f3572c4a65df2daee":[7,0,1698,0,0],
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#a18db5870e62378ff49472f7a5881861c":[7,0,1698,0,1],
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html#aadc3384626d728942897fe93750f0c02":[7,0,1698,0,2],
-"db/d2e/classnpc__iron__watcher.html":[7,0,1916],
-"db/d2e/classnpc__iron__watcher.html#a174e19241ca6cd1619fbae074d11c8ba":[7,0,1916,1]
+"db/d2e/classnpc__iron__watcher.html":[7,0,1916]
 };

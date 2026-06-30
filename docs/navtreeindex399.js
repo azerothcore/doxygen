@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba97fbf4c193a6fb9bf944a77365937a45":[4,2,15,29],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba984d95c5dabcb241fc9e4888e6544417":[4,2,15,28],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9b933190ce59532ec60b42454d0fca87":[4,2,15,19],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba9ca30377545fe1b8c0ba84485094f9c2":[4,2,15,31],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "df/d20/areatrigger__scripts_8cpp.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057":[8,0,0,0,1,3,10,2,10,1],
 "df/d20/areatrigger__scripts_8cpp.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2":[8,0,0,0,1,3,10,2,10,0],
 "df/d20/classnpc__commander__dawnforge.html":[7,0,1716],
-"df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[7,0,1716,2],
-"df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[7,0,1716,1]
+"df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[7,0,1716,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a795aec6d0da3ffbc415e768bd59d71f6":[8,0,0,0,1,3,4,8,1,4,1],
 "df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac265a4d001d329805642332c3984d4de":[8,0,0,0,1,3,4,8,1,4,2],
 "df/d5e/structAuctionHouseSearchInfo.html":[7,0,274],
 "df/d5e/structAuctionHouseSearchInfo.html#a0a3764bd2ad869d9fe04aaced1f271ba":[7,0,274,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca2eb0725518c805a4bbe293f8df42931b":[8,0,0,0,1,3,5,1,0,0,13,24],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca54fc790a757b0774c48776b245c1ddca":[8,0,0,0,1,3,5,1,0,0,13,14],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca6088b0b148bfcfd2ee445f1163d78da4":[8,0,0,0,1,3,5,1,0,0,13,17],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837":[8,0,0,0,1,3,5,1,0,0,13,9],
-"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca7407d48cf9398229483fbd11370f2697":[8,0,0,0,1,3,5,1,0,0,13,4]
+"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837":[8,0,0,0,1,3,5,1,0,0,13,9]
 };

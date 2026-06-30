@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/d27/classspell__gen__bm__off.html":[7,0,2991],
 "df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[7,0,2991,1],
 "df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[7,0,2991,0],
 "df/d28/classTransaction.html":[7,0,4504],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2e908036be061e2c2b5d10f98af22c53":[7,0,1383,0,23],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a340b119d584b317a33b2225668c3288a":[7,0,1383,0,14],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a55b9b4c4cfe65cd15e6fc8cb807535db":[7,0,1383,0,11],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a5ea4b8c60a9ff0903b7ac6129da1e0d9":[7,0,1383,0,18],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a61587b3a79925051043a672bbfcd412b":[7,0,1383,0,28]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a5ea4b8c60a9ff0903b7ac6129da1e0d9":[7,0,1383,0,18]
 };

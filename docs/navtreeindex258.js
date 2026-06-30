@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"d9/dfc/classHealInfoStubBuilder.html#a812e06b07eeb18c1d379409b77a80b89":[7,0,1283,4],
 "d9/dfc/classHealInfoStubBuilder.html#a89c12c30725eb2bdc3889005a38d54eb":[7,0,1283,6],
 "d9/dfc/classHealInfoStubBuilder.html#aa09160afe48114a7a3566be328f64658":[7,0,1283,2],
 "d9/dfc/classHealInfoStubBuilder.html#ab788ddcc209140ed3c10b02785471dcb":[7,0,1283,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5a3efbb053e3c60da5ee1a39059fca2e":[8,0,0,0,1,2,48,4,1,192],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5b2765632e3d3d074c528f936c3a7616":[8,0,0,0,1,2,48,4,1,451],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5bea25b122cb276acf202c6b8212f7d0":[8,0,0,0,1,2,48,4,1,230],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5c7baf3a3a6ff799be8402f73ff6a150":[8,0,0,0,1,2,48,4,1,61],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5d4ec912fae9ab779ee9174afcdf7fa6":[8,0,0,0,1,2,48,4,1,413]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5c7baf3a3a6ff799be8402f73ff6a150":[8,0,0,0,1,2,48,4,1,61]
 };

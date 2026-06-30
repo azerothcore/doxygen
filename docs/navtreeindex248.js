@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[7,0,1987,0],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a04624b9b4d552d6b27308edc3ad44644":[7,0,1987,0,2],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1987,0,4],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a70a5a502dab9a90a790a90eabc5c3acd":[7,0,1987,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d7c/structboss__eck.html#aeaa0388d9fee4c6a025f823cd9e7e650":[7,0,453,3],
 "d9/d7e/classDatabaseLoader.html":[7,0,976],
 "d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31":[7,0,976,17],
-"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[7,0,976,9],
-"d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed":[7,0,976,14]
+"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[7,0,976,9]
 };

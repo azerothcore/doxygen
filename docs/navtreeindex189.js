@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d6/dd6/structLogMessage.html#afe279a591acc9740457c3cd58d43a263":[7,0,1470,10],
 "d6/dd7/classspell__dreamwalker__summon__portal.html":[7,0,2847],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a11c40abf4db37e1498b1a7ee5089f083":[7,0,2847,2],
 "d6/dd7/classspell__dreamwalker__summon__portal.html#a567509ccadbc74b3ba9e420f08a0c2b4":[7,0,2847,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d6/de3/structScalingStatValuesEntry.html#a03804cca02fd1146dffb762bcd1274f8":[7,0,2535,11],
 "d6/de3/structScalingStatValuesEntry.html#a0e56e757faf660cabe0ba4316ee17f12":[7,0,2535,0],
 "d6/de3/structScalingStatValuesEntry.html#a36dba32ea7febb8dab627fa992de878b":[7,0,2535,7],
-"d6/de3/structScalingStatValuesEntry.html#a5758f5152401efde26edf3110c0d11e2":[7,0,2535,10],
-"d6/de3/structScalingStatValuesEntry.html#a57cdfb5465ced673edeb8c35bd7a3535":[7,0,2535,13]
+"d6/de3/structScalingStatValuesEntry.html#a5758f5152401efde26edf3110c0d11e2":[7,0,2535,10]
 };

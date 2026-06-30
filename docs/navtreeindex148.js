@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"d5/d3b/classAuctionSorter.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7":[7,0,286,1],
 "d5/d3b/classAuctionSorter.html#a9c777b91d8b80940daee0b32c4f11c37":[7,0,286,3],
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html":[7,0,3291],
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#a006d67e9e82cce68930b90b00d3555a4":[7,0,3291,3],
@@ -106,8 +107,8 @@ var NAVTREEINDEX148 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[7,0,3169,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[7,0,3169,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3169,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1819],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58a5dd545edd279e8b713f39d9d5b725c9e":[8,0,0,0,1,3,5,8,2,5,19,0],
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58a8e5b7d65d8983abc140c8aa681cf9a1c":[8,0,0,0,1,3,5,8,2,5,19,1],
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58a988e54c528362900b72b40027d3eef5d":[8,0,0,0,1,3,5,8,2,5,19,3],
-"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab2bb3a053b68620eefaf1997dce0bf5f":[8,0,0,0,1,3,5,8,2,5,19,7],
-"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab6324d1c2afca8bc0980d58bfe5a6677":[8,0,0,0,1,3,5,8,2,5,19,8]
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab2bb3a053b68620eefaf1997dce0bf5f":[8,0,0,0,1,3,5,8,2,5,19,7]
 };

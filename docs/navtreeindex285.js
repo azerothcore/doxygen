@@ -1,5 +1,6 @@
 var NAVTREEINDEX285 =
 {
+"db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[7,0,2002,2],
 "db/d07/instance__obsidian__sanctum_8cpp.html":[8,0,0,0,1,3,5,1,0,1],
 "db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,1,0,1,3],
 "db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[8,0,0,0,1,3,5,1,0,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX285 =
 "db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[7,0,1480,7],
 "db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[7,0,1480,9],
 "db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[7,0,1480,2],
-"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[7,0,1480,8],
-"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[7,0,1480,6]
+"db/d14/classLootTemplate.html#a5935f936e90ecc860c49d256127d9726":[7,0,1480,8]
 };

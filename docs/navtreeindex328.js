@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a9419e8826804b6d0a2c8b65de3b513dd":[7,0,5,1,8],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#aaea170ae5069dc46022652bfacd22edf":[7,0,5,1,13],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#aaea170ae5069dc46022652bfacd22edf":[5,0,17,1,13],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#ac981fbb0aaf96ea75482273c50bc53e7":[5,0,17,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d9f/classserver__commandscript.html#a01ae63f31c7f03f6c0006fe4583a14a3":[7,0,2552,2],
 "dc/d9f/classserver__commandscript.html#a1ce5627c1d948b5a5c86db54357de02a":[7,0,2552,11],
 "dc/d9f/classserver__commandscript.html#a2ba489469cdb3c8da944f7d6547ae462":[7,0,2552,10],
-"dc/d9f/classserver__commandscript.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f":[7,0,2552,9],
-"dc/d9f/classserver__commandscript.html#a514149a8d1dfc4513e0c71b69901767d":[7,0,2552,14]
+"dc/d9f/classserver__commandscript.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f":[7,0,2552,9]
 };

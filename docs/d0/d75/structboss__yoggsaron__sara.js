@@ -9,6 +9,7 @@ var structboss__yoggsaron__sara =
     [ "EnableSara", "d0/d75/structboss__yoggsaron__sara.html#a442993c5c7a1fba1cbffd99646f67a55", null ],
     [ "EnterEvadeMode", "d0/d75/structboss__yoggsaron__sara.html#aa9ce3c68002aed8e5fc3dc0b87119565", null ],
     [ "GetData", "d0/d75/structboss__yoggsaron__sara.html#ae4baca382a3aa557eba601866338f21b", null ],
+    [ "HasAlivePlayerInIllusion", "d0/d75/structboss__yoggsaron__sara.html#a248f81416845e4c10586a37c1c711ef4", null ],
     [ "InformCloud", "d0/d75/structboss__yoggsaron__sara.html#ae6c5052ba269f4b9ea91556e394dd90e", null ],
     [ "InitFight", "d0/d75/structboss__yoggsaron__sara.html#a481024024b3a70cbc4503abfd0929c4d", null ],
     [ "JustSummoned", "d0/d75/structboss__yoggsaron__sara.html#a2a344834b9d8eb788c491c441a936845", null ],

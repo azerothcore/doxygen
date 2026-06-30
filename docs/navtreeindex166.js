@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ab0ad333c9e6b819060f2dcb09e4086e8":[7,0,1356,0,10],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ab2f5b7333d09dd480a60004cc001dad7":[7,0,1356,0,12],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ac321ae0d11075e61b487f7723553a8c6":[7,0,1356,0,8],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#acc973023282f0cc264436f242f640280":[7,0,1356,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d5/dfb/classObjectMgr.html#a6aded043e0c565f7e0e954d6bcc9958a":[7,0,2323,265],
 "d5/dfb/classObjectMgr.html#a6b8baedff74e5a80b968b78cc2137fdb":[7,0,2323,245],
 "d5/dfb/classObjectMgr.html#a6bbec6cee02773b7377c1b039d534e41":[7,0,2323,422],
-"d5/dfb/classObjectMgr.html#a6bd1e6b3fa54bbabaaee441a13955b8f":[7,0,2323,281],
-"d5/dfb/classObjectMgr.html#a6c1ccfe38c958e87d8c5ed6eaac0fe0e":[7,0,2323,333]
+"d5/dfb/classObjectMgr.html#a6bd1e6b3fa54bbabaaee441a13955b8f":[7,0,2323,281]
 };

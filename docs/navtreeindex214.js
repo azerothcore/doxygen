@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018":[8,0,0,0,1,2,46,3,5,6],
 "d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77":[8,0,0,0,1,2,46,3,5,8],
 "d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51":[8,0,0,0,1,2,46,3,6],
 "d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4":[8,0,0,0,1,2,46,3,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX214 =
 "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6bacb8059762a7d2d7d8c1f657d7feb3522":[8,0,0,0,1,3,5,1,0,2,3,11],
 "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6baee30cc95ba8069cd1a17a37908e38ae5":[8,0,0,0,1,3,5,1,0,2,3,15],
 "d7/dd5/obsidian__sanctum_8h.html#a9293e1c83e19ab7b05cdce50c5aa51a0":[8,0,0,0,1,3,5,1,0,2,2],
-"d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed":[8,0,0,0,1,3,5,1,0,2,1],
-"d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5d":[8,0,0,0,1,3,5,1,0,2,4]
+"d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed":[8,0,0,0,1,3,5,1,0,2,1]
 };

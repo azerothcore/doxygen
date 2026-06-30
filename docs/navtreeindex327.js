@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/d7b/classspell__q10525__vision__guide.html#a9d696dc7e58692216fa1cf6cc7c011a9":[7,0,3831,2],
 "dc/d7b/classspell__q10525__vision__guide.html#ab291f6c6f269ec7004df39a043f49efd":[7,0,3831,3],
 "dc/d7b/structTempSummonGroupKey.html":[7,0,4482],
 "dc/d7b/structTempSummonGroupKey.html#a0ecac0e82ce63c9e64f2e17d941df447":[7,0,4482,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a8791fcc476a5ebec99327f497f53db04":[7,0,5,1,5],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a90ca0afe02dfe5aa50bfd378e38de865":[5,0,17,1,14],
 "dc/d8b/structlfg_1_1LFGDungeonData.html#a90ca0afe02dfe5aa50bfd378e38de865":[7,0,5,1,14],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a9419e8826804b6d0a2c8b65de3b513dd":[5,0,17,1,8],
-"dc/d8b/structlfg_1_1LFGDungeonData.html#a9419e8826804b6d0a2c8b65de3b513dd":[7,0,5,1,8]
+"dc/d8b/structlfg_1_1LFGDungeonData.html#a9419e8826804b6d0a2c8b65de3b513dd":[5,0,17,1,8]
 };

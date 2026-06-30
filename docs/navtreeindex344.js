@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/d52/structCreatureData.html#a9282b4137e892574d3326273c19b7333":[7,0,945,2],
 "dd/d52/structCreatureData.html#a934d70093ff85a859a80f672c96888b2":[7,0,945,9],
 "dd/d52/structCreatureData.html#ac2d910ad95ea363dbe0a685d5db6cc79":[7,0,945,6],
 "dd/d52/structCreatureData.html#ac58e514339c9c60ce78876a7c1ef50f1":[7,0,945,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d61/structnpc__toc__shaman_1_1npc__toc__shamanAI.html#a993739662d2687c27219853669b8a485":[7,0,2205,0,1],
 "dd/d61/structnpc__toc__shaman_1_1npc__toc__shamanAI.html#ab573ab0ee616348ccdb28b71255ac35d":[7,0,2205,0,3],
 "dd/d61/structnpc__toc__shaman_1_1npc__toc__shamanAI.html#abd0b0e503c1bbc48aebb5923ec3f4291":[7,0,2205,0,0],
-"dd/d62/BattlefieldHandler_8cpp.html":[8,0,0,0,1,2,7,3],
-"dd/d62/structnpc__xt002__scrapbot.html":[7,0,2300]
+"dd/d62/BattlefieldHandler_8cpp.html":[8,0,0,0,1,2,7,3]
 };

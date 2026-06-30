@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d5/dfb/classObjectMgr.html#a6c1ccfe38c958e87d8c5ed6eaac0fe0e":[7,0,2323,333],
 "d5/dfb/classObjectMgr.html#a6cec8baee03ec55e463d2d0a97fb828d":[7,0,2323,45],
 "d5/dfb/classObjectMgr.html#a6db0c379795b5ea5e039517e924c30d8":[7,0,2323,6],
 "d5/dfb/classObjectMgr.html#a6ec5d1aad541672047fcfbfaf15560b3":[7,0,2323,93],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d5/dfb/classObjectMgr.html#aff8770b00f2f83eb459815fad61e1d6f":[7,0,2323,287],
 "d5/dfb/classspell__brewfest__apple__trap.html":[7,0,2704],
 "d5/dfb/classspell__brewfest__apple__trap.html#a03f752d4d4762698e5777a4ae0e395cf":[7,0,2704,2],
-"d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[7,0,2704,0],
-"d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[7,0,2704,1]
+"d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[7,0,2704,0]
 };

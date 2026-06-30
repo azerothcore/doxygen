@@ -1,5 +1,6 @@
 var NAVTREEINDEX199 =
 {
+"d7/d4d/structWintergraspTowerData.html#aaa8fe59aa58bf02934bf87f636582637":[7,0,4614,0],
 "d7/d4d/structWintergraspTowerData.html#abc26a328692fc048d9040c44f360f4c4":[7,0,4614,2],
 "d7/d4d/structWintergraspTowerData.html#ad1e431e7205aee7fa7f8f0dd9a155c97":[7,0,4614,5],
 "d7/d4d/structWintergraspTowerData.html#ade8af6bff39a72f7052b7b0db14b207d":[7,0,4614,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d5e/structinstance__eye__of__eternity.html#a9a8a000c1f3a4139e280c7b20711dbcc":[7,0,1325,2],
 "d7/d5e/structinstance__eye__of__eternity.html#aa413a00eeba3fa864c104b6475b72d7c":[7,0,1325,9],
 "d7/d5e/structinstance__eye__of__eternity.html#ab2d2e6d8f1117cf91646dd2634dc6014":[7,0,1325,10],
-"d7/d5e/structinstance__eye__of__eternity.html#ae2cbbc353f1dfcb24346fb707b15e19d":[7,0,1325,1],
-"d7/d60/boss__baroness__anastari_8cpp.html":[8,0,0,0,1,3,2,10,0]
+"d7/d5e/structinstance__eye__of__eternity.html#ae2cbbc353f1dfcb24346fb707b15e19d":[7,0,1325,1]
 };

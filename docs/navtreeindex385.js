@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[5,0,20,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[7,0,6,1,9],
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[5,0,20,1,9],
 "de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[7,0,6,1,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/d87/boss__netherspite_8cpp.html#ab6b49b0e770e4a42d0d918eb0870a9c9":[8,0,0,0,1,3,2,4,5,12],
 "de/d87/boss__netherspite_8cpp.html#aed31b52543c556f43d7268340ea660fe":[8,0,0,0,1,3,2,4,5,6],
 "de/d87/boss__netherspite_8cpp.html#af50db85296b6cc3bcfbdbe8943087500":[8,0,0,0,1,3,2,4,5,13],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[8,0,0,0,1,3,2,4,5,4],
-"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[8,0,0,0,1,3,2,4,5,4,1]
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89":[8,0,0,0,1,3,2,4,5,4]
 };

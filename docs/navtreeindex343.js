@@ -1,5 +1,6 @@
 var NAVTREEINDEX343 =
 {
+"dd/d40/instance__molten__core_8cpp.html#a1712840a822c3d823764d3c974c6ea31":[8,0,0,0,1,3,2,1,3,10,6],
 "dd/d40/instance__molten__core_8cpp.html#a398f000c29691c6a24707190dc4a4024":[8,0,0,0,1,3,2,1,3,10,4],
 "dd/d40/instance__molten__core_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,2,1,3,10,5],
 "dd/d40/instance__molten__core_8cpp.html#a69ab269a27b57bb4b00d3eee95db589e":[8,0,0,0,1,3,2,1,3,10,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX343 =
 "dd/d52/structCreatureData.html#a5574b3c7c3976325c72f2d49a91d1ef3":[7,0,945,10],
 "dd/d52/structCreatureData.html#a6dc0af68922ece07d5a0d86e361ce51e":[7,0,945,13],
 "dd/d52/structCreatureData.html#a7632a7510b2a868b926a6ea21bf07e7f":[7,0,945,8],
-"dd/d52/structCreatureData.html#a8d792fe1be63517b89beeb7dc16bc59e":[7,0,945,1],
-"dd/d52/structCreatureData.html#a9282b4137e892574d3326273c19b7333":[7,0,945,2]
+"dd/d52/structCreatureData.html#a8d792fe1be63517b89beeb7dc16bc59e":[7,0,945,1]
 };

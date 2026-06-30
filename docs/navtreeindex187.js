@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d6/dba/namespacePlayerNameMapHolder.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[5,0,26,5],
 "d6/dba/structnpc__preparations__for__war__vehicle.html":[7,0,2071],
 "d6/dba/structnpc__preparations__for__war__vehicle.html#a18d051868134d8c62f64923905bf19db":[7,0,2071,7],
 "d6/dba/structnpc__preparations__for__war__vehicle.html#a49f8a43891d61460b1d6cdde610a2e88":[7,0,2071,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7aba93502fb51a7e1b9f3cb6fe9bf9487b":[8,0,0,0,1,3,3,8,12,48],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7abb1d720af73e51821e969dc854f54c9e":[8,0,0,0,1,3,3,8,12,27],
 "d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7abeaf8474ae3c53f6d2918a2f365c5717":[8,0,0,0,1,3,3,8,12,1],
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966":[8,0,0,0,1,3,3,8,12,4],
-"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac5c3ba3142fb13863475729780756d9d":[8,0,0,0,1,3,3,8,12,15]
+"d6/dca/pilgrims__bounty_8cpp.html#a17b51282bc11e48a2d4a6fb006c041c7ac4313ee2ee1800d75436d554c4a1e966":[8,0,0,0,1,3,3,8,12,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,2,0,5,4,1],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad4f880193951a82c89d969ea1378dada":[8,0,0,0,1,3,7,2,0,5,4,2],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af50336d23753ad292a83d9eef01d1638":[8,0,0,0,1,3,7,2,0,5,4,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,0,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d0d/classboss__general__zarithrian.html#a030c53b6ef1d75027ddfd298d49ab330":[7,0,513,1],
 "d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[7,0,513,2],
 "d8/d0d/instance__maraudon_8cpp.html":[8,0,0,0,1,3,4,3,0],
-"d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[8,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1]
+"d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[8,0,0,0,1,3,4,3,0,2]
 };

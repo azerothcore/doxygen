@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d03/structModelHeader.html#aa7b9356ead53f64a1482c064369830d1":[7,0,1547,31],
 "d9/d03/structModelHeader.html#ab1539ff81b1b91ae400dbb5ca0630646":[7,0,1547,4],
 "d9/d03/structModelHeader.html#ab2ffe7bcb4d11558afc67da61ab1ab5f":[7,0,1547,30],
 "d9/d03/structModelHeader.html#ac1df2d7ce113d69d4f8c76132e285bb6":[7,0,1547,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d22/structmap__areaHeader.html#a4ee571320d5d346bbf74709677bbee05":[7,0,1502,2],
 "d9/d22/structmap__areaHeader.html#a953acfd67349f028a839390ebe7fc398":[7,0,1502,0],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html":[7,0,2279,0],
-"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a14b221265cc38b4061c52b687274a398":[7,0,2279,0,4],
-"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a23a8999e34142201c6ceadc64a3df6c2":[7,0,2279,0,2]
+"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a14b221265cc38b4061c52b687274a398":[7,0,2279,0,4]
 };

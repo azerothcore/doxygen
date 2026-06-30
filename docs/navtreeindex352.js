@@ -1,5 +1,6 @@
 var NAVTREEINDEX352 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeae0627f6ad84216694a4d9c2c16fbdcd6":[8,0,0,0,1,3,5,23,42,10],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230":[8,0,0,0,1,3,5,23,42,15],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafdfdf7b225fb4eaecaafd18458a7e8e0":[8,0,0,0,1,3,5,23,42,4],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaff4432512403a338fbc9bab0fcbd6428":[8,0,0,0,1,3,5,23,42,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX352 =
 "dd/dc6/classspell__q10929__fumping__aura.html#a317c238b165ad331beb447ea5d0de7e1":[7,0,3844,0],
 "dd/dc6/classspell__q10929__fumping__aura.html#a58a383bd4e3062a5c5b1df97192b4b7e":[7,0,3844,3],
 "dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[7,0,3844,1],
-"dd/dc6/steam__vault_8h.html":[8,0,0,0,1,3,7,2,2,4],
-"dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[8,0,0,0,1,3,7,2,2,4,2]
+"dd/dc6/steam__vault_8h.html":[8,0,0,0,1,3,7,2,2,4]
 };

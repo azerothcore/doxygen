@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a624b8f4b6b55a1aefd67a52e6097976f":[7,0,1377,0,8],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a69ed0205bba93d86ff4a28f0317bf37e":[7,0,1377,0,20],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a6e1f9553dd78441d41eebf81eb0e743f":[7,0,1377,0,0],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a727452275b30e8c7a64b69079790e754":[7,0,1377,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d4f/Object_8cpp.html#a6165c6736a6e152a38f7dea1aa2c956b":[8,0,0,0,1,2,16,5,1,0],
 "de/d4f/classnpc__invis__infernal__caster.html":[7,0,1913],
 "de/d4f/classnpc__invis__infernal__caster.html#a9aed081ef904075830428bbc76f53874":[7,0,1913,1],
-"de/d4f/classnpc__invis__infernal__caster.html#aede0c5cc390ea423169b1cba66d929cd":[7,0,1913,2],
-"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html":[7,0,2677]
+"de/d4f/classnpc__invis__infernal__caster.html#aede0c5cc390ea423169b1cba66d929cd":[7,0,1913,2]
 };

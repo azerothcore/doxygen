@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aedafabd903b9a734ea1a0061d89859f9":[7,0,4590,21],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#af56cfa46cf6d1a0f9669c2f40626b628":[7,0,4590,8],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec":[7,0,4590,16],
 "d6/d3e/structNpcTextLocale.html":[7,0,2312],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16aab036cf056cf18e0710b0587d669ae2b":[8,0,0,0,1,2,7,0,1,23,3],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16aaf034a83934e1bbe7684ac24c6b44923":[8,0,0,0,1,2,7,0,1,23,36],
 "d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ab3354a9414292c1e9f6d4be835bc33e6":[8,0,0,0,1,2,7,0,1,23,35],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ab671b64edcf7e4f262ab4e873f61fcdf":[8,0,0,0,1,2,7,0,1,23,14],
-"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ab6d11c7538b897633dcc323bd48a0f57":[8,0,0,0,1,2,7,0,1,23,33]
+"d6/d4f/BattlefieldWG_8h.html#a5d9b2f95c8b7a8307f9fa36c989d4e16ab671b64edcf7e4f262ab4e873f61fcdf":[8,0,0,0,1,2,7,0,1,23,14]
 };

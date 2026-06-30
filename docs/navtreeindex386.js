@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[8,0,0,0,1,3,2,4,5,4,1],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[8,0,0,0,1,3,2,4,5,4,0],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[8,0,0,0,1,3,2,4,5,4,2],
 "de/d87/classWaypointMovementGenerator.html":[7,0,4589],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[7,0,4492,8],
 "de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[7,0,4492,16],
 "de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[7,0,4492,31],
-"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[7,0,4492,22],
-"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[7,0,4492,15]
+"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[7,0,4492,22]
 };

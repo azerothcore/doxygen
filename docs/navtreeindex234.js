@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d8/dc8/structnpc__ulduar__hodir__priest.html#ad86f47516d9f245a4ae241bba26b37a4":[7,0,2238,1],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#adb189dbf0e536f469f1a0d82d42de6de":[7,0,2238,9],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#af18269ae027e71f86796e723111227b4":[7,0,2238,0],
 "d8/dc9/BattlegroundSpamProtect_8h.html":[8,0,0,0,1,2,8,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd6/DBCfmt_8h.html#a9e62d22e73c19a3a3b72e8f5815b793e":[8,0,0,0,1,4,0,3,4],
 "d8/dd6/DBCfmt_8h.html#a9f96e6161c90bed931875df624642350":[8,0,0,0,1,4,0,3,101],
 "d8/dd6/DBCfmt_8h.html#aa0310550d1b6c3d3ce7a085129408e56":[8,0,0,0,1,4,0,3,43],
-"d8/dd6/DBCfmt_8h.html#aa088f9392c071eced03696a616d2147d":[8,0,0,0,1,4,0,3,47],
-"d8/dd6/DBCfmt_8h.html#aa3f276c5987647cd820d8e95f97de21f":[8,0,0,0,1,4,0,3,68]
+"d8/dd6/DBCfmt_8h.html#aa088f9392c071eced03696a616d2147d":[8,0,0,0,1,4,0,3,47]
 };

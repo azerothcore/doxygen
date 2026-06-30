@@ -1,5 +1,6 @@
 var NAVTREEINDEX215 =
 {
+"d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5d":[8,0,0,0,1,3,5,1,0,2,4],
 "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330":[8,0,0,0,1,3,5,1,0,2,4,1],
 "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6":[8,0,0,0,1,3,5,1,0,2,4,2],
 "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a":[8,0,0,0,1,3,5,1,0,2,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX215 =
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a6758ef2fe371338826dfc8582d6d03f0":[7,0,2097,0,2],
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a816dcad96afa6bec595f4b2dfe6fb11c":[7,0,2097,0,0],
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#abd24108debcafafa601958824d44abbb":[7,0,2097,0,1],
-"d7/dec/structnpc__ringo_1_1npc__ringoAI.html#ad30d1a9fb84cc777d48b1363cf571d72":[7,0,2097,0,5],
-"d7/ded/classspell__gen__haunted.html":[7,0,3042]
+"d7/dec/structnpc__ringo_1_1npc__ringoAI.html#ad30d1a9fb84cc777d48b1363cf571d72":[7,0,2097,0,5]
 };

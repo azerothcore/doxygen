@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d3e/classBattlegroundSA.html#ab1c4cb091a3be52084a1519660272de5":[7,0,351,46],
 "d4/d3e/classBattlegroundSA.html#ab7919ab5a05a6b463a1bd99eebcd5889":[7,0,351,24],
 "d4/d3e/classBattlegroundSA.html#ab86d8f8756c28623c3533bbb0e9c6222":[7,0,351,42],
 "d4/d3e/classBattlegroundSA.html#ab88a1d9f53a7f7037f5d273340b271e4":[7,0,351,43],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d52/classReference.html#ad0fd9597c01faa17a3065cad736a9fdb":[7,0,2506,4],
 "d4/d52/classReference.html#ad83d93dae57a788a2a792c6848131059":[7,0,2506,21],
 "d4/d52/classReference.html#adc406e22a90966f120011f7a4ccd9a8f":[7,0,2506,0],
-"d4/d52/classReference.html#ae6b72c9c0638f5cc700907496c093e03":[7,0,2506,13],
-"d4/d52/classReference.html#af2e195ca96921a8914dadad14bb87375":[7,0,2506,20]
+"d4/d52/classReference.html#ae6b72c9c0638f5cc700907496c093e03":[7,0,2506,13]
 };

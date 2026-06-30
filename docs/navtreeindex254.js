@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0262850db660d2366c7fa07991153ca1":[8,0,0,0,1,3,10,13,1,14],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a05a2ec2642f23a2cbd150ba71ef2df04":[8,0,0,0,1,3,10,13,1,6],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d9ed0038709b80dbbb68a7d3abd091e":[8,0,0,0,1,3,10,13,1,13],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a67d73daa85947d4f135f5342a1fbbb86":[8,0,0,0,1,3,10,13,1,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/ddb/ObjectVisibilityContainer_8h.html#a52b38df575afa7eef8fb58759ee03bd8":[8,0,0,0,1,2,16,5,9,1],
 "d9/ddb/ObjectVisibilityContainer_8h.html#a6fe979433a4dd2c9023626ecc74bf6a5":[8,0,0,0,1,2,16,5,9,2],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html":[8,0,0,0,1,2,16,4,4],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[8,0,0,0,1,2,16,4,4,3],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[8,0,0,0,1,2,16,4,4,5]
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[8,0,0,0,1,2,16,4,4,3]
 };

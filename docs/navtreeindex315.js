@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[7,0,10,1,8],
 "dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[5,0,30,1,8],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[7,0,10,1,19],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[5,0,30,1,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
-"dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6]
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1]
 };

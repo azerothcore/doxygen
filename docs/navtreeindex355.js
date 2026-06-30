@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[7,0,4134,0],
 "dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[7,0,4134,2],
 "dd/dd2/boss__anubarak_8cpp.html":[8,0,0,0,1,3,5,0,1,1],
 "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81e":[8,0,0,0,1,3,5,0,1,1,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,1,1,2,33,2],
 "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4e38e0a47878670e0cd99c74852521fa":[8,0,0,0,1,3,5,1,1,2,33,10],
 "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5c8dea166446ae7a3f0bcbd4b305ff35":[8,0,0,0,1,3,5,1,1,2,33,4],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,1,1,2,33,6],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a966304059b2b9cc07bc3e54fda5442bd":[8,0,0,0,1,3,5,1,1,2,33,13]
+"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,1,1,2,33,6]
 };

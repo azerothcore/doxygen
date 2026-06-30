@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dd/d2d/classMMAP_1_1TileBuilder.html#a11941bfac809a75cc1b523fe0ce25c55":[7,0,6,11,0],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a160c3ad76146488175c6ae228ad4ef83":[5,0,20,11,10],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a160c3ad76146488175c6ae228ad4ef83":[7,0,6,11,10],
 "dd/d2d/classMMAP_1_1TileBuilder.html#a4c0497cde74883557ec841233376f95c":[7,0,6,11,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a034195e58f02225c172b70c3967fe3ad":[7,0,3523,1],
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a03f8c24445ee4ac82a4cf2caece38f90":[7,0,3523,0],
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a8ac78c00c49b1eb2fade4100a810d367":[7,0,3523,3],
-"dd/d3b/classspell__kormok__summon__bone__minions.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2":[7,0,3523,2],
-"dd/d3b/structGameObjectTemplate.html":[7,0,1117]
+"dd/d3b/classspell__kormok__summon__bone__minions.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2":[7,0,3523,2]
 };

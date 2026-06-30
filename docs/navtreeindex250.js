@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22":[8,0,0,0,1,3,5,9,2,1,18],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a2afb8a2c08b65be84a9ffeca28a7044a":[8,0,0,0,1,3,5,9,2,1,19],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,9,2,1,13],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29d8f797f45f444b64bba7b3fcd8d359":[8,0,0,0,1,3,5,9,2,1,13,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html":[7,0,1353,0],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a0b824e7cf269619220329aecba08e448":[7,0,1353,0,12],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a165f776c123fa595b6424be666fa8570":[7,0,1353,0,14],
-"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3":[7,0,1353,0,3],
-"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a27c4858d5972471ef91a269c11fc0494":[7,0,1353,0,4]
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3":[7,0,1353,0,3]
 };

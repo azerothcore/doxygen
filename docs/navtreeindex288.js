@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/d2e/classnpc__iron__watcher.html#a174e19241ca6cd1619fbae074d11c8ba":[7,0,1916,1],
 "db/d2e/classnpc__iron__watcher.html#af3b80b838e192737762ceed599b0be9a":[7,0,1916,2],
 "db/d2f/LFGPlayerData_8cpp.html":[8,0,0,0,1,2,15,6],
 "db/d2f/structPvPDifficultyEntry.html":[7,0,2463],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d":[7,0,3657,0],
 "db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[7,0,3657,2],
 "db/d40/classspell__muru__darkness__aura.html#a6843deda5be8b684c06a86920714f255":[7,0,3657,3],
-"db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[7,0,3657,1],
-"db/d41/classspell__brewfest__fill__keg.html":[7,0,2705]
+"db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[7,0,3657,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae200a0fc5389ab3f15f2d98311ef20b1":[8,0,0,0,1,3,5,15,34,6],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae6469589be1d2ce28c9eec152dd5b0f5":[8,0,0,0,1,3,5,15,34,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182c":[8,0,0,0,1,3,5,15,33],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca22fd7e4655724a3bee555f7023378245":[8,0,0,0,1,3,5,15,33,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d0f/classchatfilter__commandscript.html#a7b8b95f9b418496d0f9aa39af55410a3":[7,0,887,0],
 "d3/d0f/classchatfilter__commandscript.html#a8cbe0819f09b43a32e594a67010d63ee":[7,0,887,2],
 "d3/d0f/classchatfilter__commandscript.html#aa7553c0fc74103773edeaac9195e4414":[7,0,887,1],
-"d3/d0f/classchatfilter__commandscript.html#ab59bd95ca2b9319fb175c0592074f9ff":[7,0,887,3],
-"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,887,4]
+"d3/d0f/classchatfilter__commandscript.html#ab59bd95ca2b9319fb175c0592074f9ff":[7,0,887,3]
 };

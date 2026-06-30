@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec":[8,0,0,0,1,3,5,19,21,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac9851e1644bf34924fc12e14ab97ade3":[8,0,0,0,1,3,5,19,21,15],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3":[8,0,0,0,1,3,5,19,27],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3a8e3cfb1bafbc4a623824d7963a48159a":[8,0,0,0,1,3,5,19,27,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "dd/df4/classspell__deathbringer__blood__power.html#a4f916abef69782be10cc6be9ba0124f5":[7,0,2756,1],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html":[7,0,3473],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#acac962ba1cb72615772fe8bc81d24f9d":[7,0,3473,0],
-"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[7,0,3473,2],
-"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[7,0,3473,1]
+"dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[7,0,3473,2]
 };

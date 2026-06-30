@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,887,4],
 "d3/d10/classspell__algalon__phase__punch__aura.html":[7,0,2616],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a2724a85983561a14db8b06ae492ead55":[7,0,2616,0],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a6d0f941f30d8c850e48396fffd13768d":[7,0,2616,1],
@@ -68,16 +69,16 @@ var NAVTREEINDEX93 =
 "d3/d13/structADT_1_1MODF.html":[7,0,1,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,2,1,2],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
-"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[7,0,1,1,7],
+"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,2,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[7,0,1,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[7,0,1,1,6],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,2,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[7,0,1,1,4],
-"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[7,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,2,1,8],
+"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[7,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,2,1,5],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[7,0,1,1,5],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[5,0,2,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d18/classObjectGuidGenerator.html#a1d917989d9bf681546d0e3e9b20593e0":[7,0,2319,0],
 "d3/d18/classObjectGuidGenerator.html#a43dfe501c5ec222bbd1f8687a1a103b9":[7,0,2319,1],
 "d3/d18/classat__battleguard__sartura.html":[7,0,217],
-"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[7,0,217,1],
-"d3/d18/classat__battleguard__sartura.html#a9247cdebeb57d2ddbfa75f60da125d36":[7,0,217,0]
+"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[7,0,217,1]
 };

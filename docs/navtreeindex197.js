@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"d7/d3d/classWaypointMgr.html#a8492dcbb35f4bdb563f861c521eb5317":[7,0,4588,1],
 "d7/d3d/classWaypointMgr.html#a84df91143dd387b5d4adc7aa8d63045e":[7,0,4588,4],
 "d7/d3d/classWaypointMgr.html#aacd2ed943503288057b3fb9a935a56e9":[7,0,4588,2],
 "d7/d3d/classWaypointMgr.html#ac1364780d1ab0c91ca95d366419ca3df":[7,0,4588,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d46/classAuraEffect.html#a851e18dcd4b806db1cd3843a7814d15a":[7,0,293,219],
 "d7/d46/classAuraEffect.html#a8896bc940fa9cfe2a0cdea0cc27465bc":[7,0,293,96],
 "d7/d46/classAuraEffect.html#a88fa5605246883e095cd82ebd5d75bef":[7,0,293,29],
-"d7/d46/classAuraEffect.html#a88fe5e60d633f96c842170fcaed8c7cf":[7,0,293,64],
-"d7/d46/classAuraEffect.html#a8aeb4f5c3a5130afb5df2d83667b1877":[7,0,293,109]
+"d7/d46/classAuraEffect.html#a88fe5e60d633f96c842170fcaed8c7cf":[7,0,293,64]
 };

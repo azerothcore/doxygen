@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/d2b/classboss__paletress.html":[7,0,666],
 "d8/d2b/classboss__paletress.html#a04cbd31e71cc349b8c1058780ee6f673":[7,0,666,1],
 "d8/d2b/classboss__paletress.html#a2c20ff397d115cf0e8a1801184e5a3f9":[7,0,666,2],
 "d8/d2c/classspell__putricide__unbound__plague.html":[7,0,3823],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d37/classGuild_1_1RankInfo.html#a5be65cec8e2e82c027ef4062ea63c1f1":[7,0,1272,9,5],
 "d8/d37/classGuild_1_1RankInfo.html#a715985e1b8e8e2aa2d0b48877ae37e8f":[7,0,1272,9,16],
 "d8/d37/classGuild_1_1RankInfo.html#a7cc652b0170a7f786a5a0263b4251d2d":[7,0,1272,9,6],
-"d8/d37/classGuild_1_1RankInfo.html#a86f162bdf86255f89666e20f44d114a0":[7,0,1272,9,18],
-"d8/d37/classGuild_1_1RankInfo.html#a8b46f3a8f91cd3a187e00d37a6ddd419":[7,0,1272,9,15]
+"d8/d37/classGuild_1_1RankInfo.html#a86f162bdf86255f89666e20f44d114a0":[7,0,1272,9,18]
 };

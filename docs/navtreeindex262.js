@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#aa96de13af039d8dfab0ae1a5d30e21a8":[7,0,3488,2],
 "da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#ad99a318c6b3ee834aa3c3591a0f8a330":[7,0,3488,1],
 "da/d20/classspell__pri__t3__4p__bonus.html":[7,0,3796],
 "da/d20/classspell__pri__t3__4p__bonus.html#a22dea9fb57d89b1d4813722968b5429f":[7,0,3796,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a62a7fcc7c43217fde46f82e7c8949d73":[8,0,0,0,1,2,41,0,0,6,174],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f":[8,0,0,0,1,2,41,0,0,6,8],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a645cfd91417bcd92e134a74a8a2c3f4d":[8,0,0,0,1,2,41,0,0,6,215],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64bdc4fce5c9cc0c4134129a100244ee":[8,0,0,0,1,2,41,0,0,6,88],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64d1df8dc5b9c905a22949e67ecb01e7":[8,0,0,0,1,2,41,0,0,6,251]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64bdc4fce5c9cc0c4134129a100244ee":[8,0,0,0,1,2,41,0,0,6,88]
 };

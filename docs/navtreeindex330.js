@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/dab/structboss__flame__leviathan__safety__container.html#a42842de299fd9346cc0d61b649b652a4":[7,0,488,1],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a4519a6bf9c96ff13df4ae019b02f3593":[7,0,488,0],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a55119d077f905a8207ad2afbe31f17a4":[7,0,488,2],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a70134398c054c837407d6a22591a2d96":[7,0,488,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/db3/structnpc__dark__iron__guzzler.html#a872bdd2e2ff2b72c983658c63d74e2c3":[7,0,1755,10],
 "dc/db3/structnpc__dark__iron__guzzler.html#a9748d587b61c148a27be690a6354473f":[7,0,1755,15],
 "dc/db3/structnpc__dark__iron__guzzler.html#aaa4df56f1f587029b24626ae1aca552a":[7,0,1755,7],
-"dc/db3/structnpc__dark__iron__guzzler.html#ac063799097f89c09f30bed79151e8ed6":[7,0,1755,3],
-"dc/db3/structnpc__dark__iron__guzzler.html#ada6c7f97e25eb545926d6531495bb397":[7,0,1755,8]
+"dc/db3/structnpc__dark__iron__guzzler.html#ac063799097f89c09f30bed79151e8ed6":[7,0,1755,3]
 };

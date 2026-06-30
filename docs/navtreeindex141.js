@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[8,0,0,0,1,3,3,0,11,1],
 "d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[8,0,0,0,1,3,3,0,11,2],
 "d4/dd5/CombatManager_8cpp.html":[8,0,0,0,1,2,12,0],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[7,0,3504],
@@ -215,8 +216,8 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1073,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1073,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1073,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1909,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d4/ddd/structPetLevelInfo.html#ab7097f75cf86bd6f135f21dace61a89e":[7,0,2395,1],
 "d4/ddd/structPetLevelInfo.html#ad8e757abeae500063e963ffef5469809":[7,0,2395,0],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html":[7,0,533,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a1119212465bcf293991d7a520c6ffe42":[7,0,533,0,7],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a52db5743c09088e2e9f1aff1513960f2":[7,0,533,0,6]
+"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a1119212465bcf293991d7a520c6ffe42":[7,0,533,0,7]
 };

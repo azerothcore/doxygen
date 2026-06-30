@@ -1,5 +1,6 @@
 var NAVTREEINDEX196 =
 {
+"d7/d2d/classPlayerDump.html#a69c8e6c412ac09099752a3ad388f5467":[7,0,2411,1],
 "d7/d2e/SecretMgr_8h.html":[8,0,0,0,1,4,4,1],
 "d7/d2e/SecretMgr_8h.html#a5104e1ebeb8cbf71ec16e9492a3ad622":[8,0,0,0,1,4,4,1,2],
 "d7/d2e/SecretMgr_8h.html#ab54b0ec728a299f0ff9e8a7796297a01":[8,0,0,0,1,4,4,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d3d/classWaypointMgr.html":[7,0,4588],
 "d7/d3d/classWaypointMgr.html#a15d1c47c7e839538c354ba91775bd9e7":[7,0,4588,6],
 "d7/d3d/classWaypointMgr.html#a2f038884959f10348bd5b7af3abee7db":[7,0,4588,0],
-"d7/d3d/classWaypointMgr.html#a69ae451ce07f2e68be81b1a86649115d":[7,0,4588,3],
-"d7/d3d/classWaypointMgr.html#a8492dcbb35f4bdb563f861c521eb5317":[7,0,4588,1]
+"d7/d3d/classWaypointMgr.html#a69ae451ce07f2e68be81b1a86649115d":[7,0,4588,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX348 =
 {
+"dd/d8d/DBCStores_8cpp.html#a021fb91324e6a75f70d02e4b44e17999":[8,0,0,0,1,2,14,0,63],
 "dd/d8d/DBCStores_8cpp.html#a048d8954e38d54a58ce1657d2aef2475":[8,0,0,0,1,2,14,0,34],
 "dd/d8d/DBCStores_8cpp.html#a05299a3dfbe388c2148908e0180cc946":[8,0,0,0,1,2,14,0,104],
 "dd/d8d/DBCStores_8cpp.html#a056a6a649116138e9e8c21d35a78476b":[8,0,0,0,1,2,14,0,131],
@@ -248,6 +249,5 @@ var NAVTREEINDEX348 =
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#a3f1808538acca2742c19f68af9a6fd56":[7,0,3860,2],
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#a475e1d5d8c70e0edd5957a1e493fd43e":[7,0,3860,3],
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#abc630a0c8274f5f85901b2505ff2ae04":[7,0,3860,0],
-"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#af79cd7c2f6ed47a93dbbe17aaca6834f":[7,0,3860,1],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html":[7,0,13,8,19]
+"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#af79cd7c2f6ed47a93dbbe17aaca6834f":[7,0,3860,1]
 };

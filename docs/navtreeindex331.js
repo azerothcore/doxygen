@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dc/db3/structnpc__dark__iron__guzzler.html#ada6c7f97e25eb545926d6531495bb397":[7,0,1755,8],
 "dc/db3/structnpc__dark__iron__guzzler.html#ae195867416885e570c2c9a4837ac33c1":[7,0,1755,11],
 "dc/db3/structnpc__dark__iron__guzzler.html#ae8142b745e493ab4a77b9df12ea9474d":[7,0,1755,5],
 "dc/db3/structnpc__dark__iron__guzzler.html#af608024d4b41fa218a7baeae9bee72ef":[7,0,1755,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html":[7,0,593],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#a0ecbc2ae8850d4cfb84f40d2a13f4976":[7,0,593,0],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#ad863666aec3db81f73165148ffc98033":[7,0,593,2],
-"dc/dc4/structboss__kologarn__pit__kill__bunny.html#afd7482896b66f040b8d57b9b6ac37059":[7,0,593,1],
-"dc/dc6/classspell__dk__icebound__fortitude.html":[7,0,2802]
+"dc/dc4/structboss__kologarn__pit__kill__bunny.html#afd7482896b66f040b8d57b9b6ac37059":[7,0,593,1]
 };

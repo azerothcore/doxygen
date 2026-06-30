@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d7/db3/structboss__olm__the__summoner.html#aa8fe3804d4e2a1a1150975f5e9832ce6":[7,0,658,0],
 "d7/db3/structboss__olm__the__summoner.html#ae9187928c74fa1cfafaea4df25a55e41":[7,0,658,8],
 "d7/db4/classspell__shield__of__bones__aura.html":[7,0,4081],
 "d7/db4/classspell__shield__of__bones__aura.html#a0856d66c801715f16cd251ddf9b25a59":[7,0,4081,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bc":[8,0,0,0,1,3,5,2,1,4,11],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca1df5647e3edfc4c024cf633980869524":[8,0,0,0,1,3,5,2,1,4,11,2],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca43ad13d019d11f11e9b4593f467b732d":[8,0,0,0,1,3,5,2,1,4,11,4],
-"d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca54433e9a751af0ab0d925e2f44ae0287":[8,0,0,0,1,3,5,2,1,4,11,1],
-"d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca7d747f0b8eddd6b9ef9634aa05b008f5":[8,0,0,0,1,3,5,2,1,4,11,3]
+"d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca54433e9a751af0ab0d925e2f44ae0287":[8,0,0,0,1,3,5,2,1,4,11,1]
 };

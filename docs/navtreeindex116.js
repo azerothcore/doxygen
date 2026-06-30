@@ -1,5 +1,6 @@
 var NAVTREEINDEX116 =
 {
+"d3/ddc/structGtChanceToMeleeCritBaseEntry.html":[7,0,1258],
 "d3/ddc/structGtChanceToMeleeCritBaseEntry.html#aecccbaadaaf541b2bbdb85d8ea08d0bd":[7,0,1258,0],
 "d3/ddd/classat__icc__start__frostwing__gauntlet.html":[7,0,235],
 "d3/ddd/classat__icc__start__frostwing__gauntlet.html#a285cd9046d5658fc5d917c3427bbbe83":[7,0,235,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a0ea1a24d4c5f770b952f01797e3297e4":[8,0,0,0,1,3,3,4,18,0],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a19469bfbd8500f7792d877d12c25c986":[8,0,0,0,1,3,3,4,18,6],
 "d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a278d50c00ac072316b1d226f1777afa9":[8,0,0,0,1,3,3,4,18,12],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a32b57e5a5f704691ca448ccf585ee9d1":[8,0,0,0,1,3,3,4,18,5],
-"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a3c973b007034402bed2f4bbe60573c9f":[8,0,0,0,1,3,3,4,18,3]
+"d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a32b57e5a5f704691ca448ccf585ee9d1":[8,0,0,0,1,3,3,4,18,5]
 };

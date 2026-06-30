@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/d54/classspell__the__black__stalker__levitate.html#ab826f4f249679ffe87f9e6ccf6b9ecf0":[7,0,4148,1],
 "d8/d55/classAssistanceDistractMovementGenerator.html":[7,0,210],
 "d8/d55/classAssistanceDistractMovementGenerator.html#a1511f74a52e5ad92471e554eb77c235a":[7,0,210,1],
 "d8/d55/classAssistanceDistractMovementGenerator.html#a233eb9333ea365955589932ddbd18d8a":[7,0,210,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d62/structLoot.html#a5ff6dfc6c4a7e9f00386eb68339c00cb":[7,0,1473,3],
 "d8/d62/structLoot.html#a65d385158f0ed6ca4cb241dd4cce4aa4":[7,0,1473,39],
 "d8/d62/structLoot.html#a6a2d521832d734eadcebd187d1f69645":[7,0,1473,33],
-"d8/d62/structLoot.html#a6ea7164899895131eeb3f85e9d29a126":[7,0,1473,0],
-"d8/d62/structLoot.html#a85e247093c29d6ab0559df8287125ff7":[7,0,1473,13]
+"d8/d62/structLoot.html#a6ea7164899895131eeb3f85e9d29a126":[7,0,1473,0]
 };

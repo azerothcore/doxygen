@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,292,9],
 "df/d52/classAuraApplicationStub.html#a9027c5f622263c32b6f7bc4a11883ddc":[7,0,292,10],
 "df/d52/classAuraApplicationStub.html#a97383d45b0a015579a0f315474ecfcc5":[7,0,292,6],
 "df/d52/classAuraApplicationStub.html#aa4afd58cae5bcfd203d61a1044d72d57":[7,0,292,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d5e/boss__buru_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219abc9319d9059d77e60ed0ec5de955611d":[8,0,0,0,1,3,4,8,1,5,1],
 "df/d5e/boss__buru_8cpp.html#a94018cbe5853e319d221da9a716e0285":[8,0,0,0,1,3,4,8,1,7],
 "df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,4,8,1,4],
-"df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5808958848c78bd85b03d26a60c7a116":[8,0,0,0,1,3,4,8,1,4,0],
-"df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a795aec6d0da3ffbc415e768bd59d71f6":[8,0,0,0,1,3,4,8,1,4,1]
+"df/d5e/boss__buru_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5808958848c78bd85b03d26a60c7a116":[8,0,0,0,1,3,4,8,1,4,0]
 };

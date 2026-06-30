@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"d9/db4/structPointOfInterest.html#ab7460f125e05509baf9331e424b8bacf":[7,0,2426,1],
 "d9/db4/structPointOfInterest.html#abec7b2b3e649263f0b963f3fedef60fe":[7,0,2426,6],
 "d9/db6/CreatureGroups_8cpp.html":[8,0,0,0,1,2,16,1,3],
 "d9/db6/chapter3_8cpp.html":[8,0,0,0,1,3,2,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dad754608fadc01b8aaa8f5213bd44d028":[8,0,0,0,1,3,10,13,2,6],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54dadbe6fe3be78684641974e1e7bb83bab9":[8,0,0,0,1,3,10,13,2,0],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54daffc7cf7aa1ccedc3a6d74811746c273e":[8,0,0,0,1,3,10,13,2,4],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,10,13,1],
-"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0262850db660d2366c7fa07991153ca1":[8,0,0,0,1,3,10,13,1,14]
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,10,13,1]
 };

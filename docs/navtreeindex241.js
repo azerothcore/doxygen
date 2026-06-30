@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a23a8999e34142201c6ceadc64a3df6c2":[7,0,2279,0,2],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a338ad26d40d395dfc6ed7e8fedcc6d60":[7,0,2279,0,5],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a41277824ae3f6bd9a099894b6dfc7537":[7,0,2279,0,1],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a9a8c2afff61ad8457aab8a9c23a4b755":[7,0,2279,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#a70b83dd31e8a8214b5d09f9a4ca7347a":[7,0,1939,0,3],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#ae1e9308f730ac948f96d4fceba914cdb":[7,0,1939,0,5],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#af332a66852c9499912d8ef4959f394f5":[7,0,1939,0,1],
-"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#af7d495f489979690615d091bbd9d539b":[7,0,1939,0,0],
-"d9/d33/UnitStub_8h.html":[8,0,0,0,2,1,10]
+"d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html#af7d495f489979690615d091bbd9d539b":[7,0,1939,0,0]
 };

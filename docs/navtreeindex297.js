@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a0c78000507aa82285acdf032bc9ee84f":[8,0,0,0,1,2,16,4,6,42,29],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a1d666d472a7cf4edf57bb4e878012d4c":[8,0,0,0,1,2,16,4,6,42,16],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24970521c3ce1c90018bcafb985b0f46":[8,0,0,0,1,2,16,4,6,42,28],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24c5c5d703dd78b95d7ee61935a3f816":[8,0,0,0,1,2,16,4,6,42,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/d8b/classgo__the__pearl__of__the__depths.html":[7,0,1214],
 "db/d8b/classgo__the__pearl__of__the__depths.html#a0e09ddcde0eef050400d90e9a268823a":[7,0,1214,0],
 "db/d8b/classgo__the__pearl__of__the__depths.html#a745ea14136a78759a3afd7714c6d784a":[7,0,1214,1],
-"db/d8b/classspell__deathbringer__blood__power__aura.html":[7,0,2757],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a":[7,0,2757,2]
+"db/d8b/classspell__deathbringer__blood__power__aura.html":[7,0,2757]
 };

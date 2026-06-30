@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[7,0,11,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[7,0,11,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a4c2dde25de7b18cdde01eddb47a39601":[8,0,0,0,1,3,10,12,3,7],
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a550bafc03ddc74e0ecf73a9f4cba3a2e":[8,0,0,0,1,3,10,12,3,1],
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a5cf966dad889c919847929436971f40d":[8,0,0,0,1,3,10,12,3,5],
-"d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a844b5a83e900c9c660276a0ad26d2842":[8,0,0,0,1,3,10,12,3,3],
-"d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a895e6fec3b7df29b1c8e98b1b5f5dfe0":[8,0,0,0,1,3,10,12,3,6]
+"d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a844b5a83e900c9c660276a0ad26d2842":[8,0,0,0,1,3,10,12,3,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/d60/boss__baroness__anastari_8cpp.html":[8,0,0,0,1,3,2,10,0],
 "d7/d60/boss__baroness__anastari_8cpp.html#a1b5f2f746cd333d57bd8f249fef4dd19":[8,0,0,0,1,3,2,10,0,3],
 "d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,10,0,2],
 "d7/d60/boss__baroness__anastari_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dd4e74a58154af51310142b2fbb07ca":[8,0,0,0,1,3,2,10,0,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d6f/classGameObjectModel.html#affb481343e6c849a3d133598749e0e70":[7,0,1110,9],
 "d7/d70/classspell__illidan__cage__trap.html":[7,0,3278],
 "d7/d70/classspell__illidan__cage__trap.html#a5839b0e282fb2848c328cfaaca2c752f":[7,0,3278,3],
-"d7/d70/classspell__illidan__cage__trap.html#a5dfe415b9c990e83b9e6c1ee06a33692":[7,0,3278,2],
-"d7/d70/classspell__illidan__cage__trap.html#a8a74f3c6776f2613a6b2c63387d962e2":[7,0,3278,1]
+"d7/d70/classspell__illidan__cage__trap.html#a5dfe415b9c990e83b9e6c1ee06a33692":[7,0,3278,2]
 };

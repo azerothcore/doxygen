@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d90/classSpellMgr.html#a32090ca7b9037cdd52aa11d5ecb1bc51":[7,0,4401,111],
 "da/d90/classSpellMgr.html#a32d05e01103bd64f22e3993bf46e4bb6":[7,0,4401,108],
 "da/d90/classSpellMgr.html#a32d86c836d54b84596cb582b88f576a3":[7,0,4401,65],
 "da/d90/classSpellMgr.html#a3645472cf901d4fc9d42c9f8af8164b4":[7,0,4401,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/d97/classWorldPackets_1_1CompactArray.html#a14d76ffa09769e341dea769424ac586c":[5,0,34,20,9],
 "da/d97/classWorldPackets_1_1CompactArray.html#a14d76ffa09769e341dea769424ac586c":[7,0,13,20,9],
 "da/d97/classWorldPackets_1_1CompactArray.html#a167096f1966862ec92556b6f5d3aa3b8":[5,0,34,20,0],
-"da/d97/classWorldPackets_1_1CompactArray.html#a167096f1966862ec92556b6f5d3aa3b8":[7,0,13,20,0],
-"da/d97/classWorldPackets_1_1CompactArray.html#a1e0ff07a4905517dc6e92a3615bc36d0":[5,0,34,20,12]
+"da/d97/classWorldPackets_1_1CompactArray.html#a167096f1966862ec92556b6f5d3aa3b8":[7,0,13,20,0]
 };

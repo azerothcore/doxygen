@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8daaa630a1eca00bf9b730bb30e831874e8":[8,0,0,0,1,3,5,18,52,1],
 "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8daba7eab2d916635095b9b3087912cb1ec":[8,0,0,0,1,3,5,18,52,4],
 "de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8dae7264eeab940eca27553226546521f7d":[8,0,0,0,1,3,5,18,52,2],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7":[8,0,0,0,1,3,5,18,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/db0/classnpc__xerestrasza.html#a5e0ede0054969d4787db56781dc55846":[7,0,2295,2],
 "de/db0/classspell__mage__ice__block.html":[7,0,3579],
 "de/db0/classspell__mage__ice__block.html#a1f0cef532c2bd13d94e647722f85457a":[7,0,3579,3],
-"de/db0/classspell__mage__ice__block.html#a71d397da4a4804cf6023806c15e8bedf":[7,0,3579,1],
-"de/db0/classspell__mage__ice__block.html#ade3a3f956ae8be922bd1d2204919d360":[7,0,3579,0]
+"de/db0/classspell__mage__ice__block.html#a71d397da4a4804cf6023806c15e8bedf":[7,0,3579,1]
 };

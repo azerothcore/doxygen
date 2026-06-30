@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d5c/classspell__pri__improved__spirit__tap.html#a1e7cf41ceb818d7d234c1b998e7280be":[7,0,3777,1],
 "db/d5c/classspell__pri__improved__spirit__tap.html#a60a2902196abf3239fe6b8f7defcd609":[7,0,3777,2],
 "db/d5c/classspell__pri__improved__spirit__tap.html#adc34c24521c893499c72bc0fe8a946eb":[7,0,3777,0],
 "db/d5c/structboss__vezax.html":[7,0,783],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377":[8,0,0,0,1,2,48,5,1,4],
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0":[8,0,0,0,1,2,48,5,1,1],
 "db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a":[8,0,0,0,1,2,48,5,1,2],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5":[8,0,0,0,1,2,48,5,1,5],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430":[8,0,0,0,1,2,48,5,1,7]
+"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5":[8,0,0,0,1,2,48,5,1,5]
 };

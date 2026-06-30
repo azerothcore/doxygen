@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/d33/UnitStub_8h.html":[8,0,0,0,2,1,10],
 "d9/d33/boss__elder__nadox_8cpp.html":[8,0,0,0,1,3,5,0,0,2],
 "d9/d33/boss__elder__nadox_8cpp.html#a15533fda6962d85c40f39cf07e372a5c":[8,0,0,0,1,3,5,0,0,2,9],
 "d9/d33/boss__elder__nadox_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,5,0,0,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html":[7,0,3785],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#a7cd3757fddecca39b1b0bd95bb2b8e5b":[7,0,3785,1],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#ad2f75ba479a8523b0fffaae86204a25c":[7,0,3785,0],
-"d9/d3f/classspell__pri__pain__and__suffering__dummy.html#af0b1e469fec71b28ca349b9be9c6fdd7":[7,0,3785,2],
-"d9/d3f/structTalentSpellPos.html":[7,0,4469]
+"d9/d3f/classspell__pri__pain__and__suffering__dummy.html#af0b1e469fec71b28ca349b9be9c6fdd7":[7,0,3785,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a0295e21c4b955653b69f3a43c3734b1a":[8,0,0,0,1,3,7,9,24,26],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a1a4cc3f3cb0945fae4a5832b5738ad3b":[8,0,0,0,1,3,7,9,24,35],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a2350757cb14f1820a41ba58506901f7e":[8,0,0,0,1,3,7,9,24,27],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a2e4317465b9bd4df5baead743e0c5de7":[8,0,0,0,1,3,7,9,24,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d69/classspell__hun__taming__the__beast.html#a90359e3dbb5c2c8caf275f21c107ee0a":[7,0,3233,0],
 "d9/d69/classspell__hun__taming__the__beast.html#aad378b8c45f11af51faf9128878c01df":[7,0,3233,2],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html":[7,0,697,0],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a0b147e8392fba250499e0cdd7d9ff39b":[7,0,697,0,5],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a18ae5aa0e2fa5a5a37359fed5a16f4be":[7,0,697,0,4]
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a0b147e8392fba250499e0cdd7d9ff39b":[7,0,697,0,5]
 };

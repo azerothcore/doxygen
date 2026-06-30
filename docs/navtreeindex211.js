@@ -1,5 +1,6 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/classMap.html#a5884b96bb3148c85b383fb03f5649ead":[7,0,1501,80],
 "d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1":[7,0,1501,136],
 "d7/db0/classMap.html#a5b90b1ebb6a3f6ba7ff2be945d4a19c9":[7,0,1501,193],
 "d7/db0/classMap.html#a5db9fee3a23dc1640c5aa9d458b2ddcb":[7,0,1501,185],
@@ -248,6 +249,5 @@ var NAVTREEINDEX211 =
 "d7/db3/structboss__olm__the__summoner.html#a68db779bb7ffffa7621caedd7f52d93f":[7,0,658,2],
 "d7/db3/structboss__olm__the__summoner.html#a8caabc31bb7a8548eb936c34c655df68":[7,0,658,7],
 "d7/db3/structboss__olm__the__summoner.html#a8dcdc816276a1932612d554cff703a45":[7,0,658,4],
-"d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[7,0,658,5],
-"d7/db3/structboss__olm__the__summoner.html#aa8fe3804d4e2a1a1150975f5e9832ce6":[7,0,658,0]
+"d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[7,0,658,5]
 };

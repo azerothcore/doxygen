@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f":[7,0,2129,0,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1118fe0b8375db5327a9651a13832523":[7,0,2129,0,13],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a17cad19f460d6cbfe2258ada48de46cd":[7,0,2129,0,4],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1a62a843922448390151ed14e0ca2148":[7,0,2129,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[7,0,1953,2],
 "d5/de1/classnpc__lord__arete.html#a929e3f3346bf4dbaee127463eaf4ffcc":[7,0,1953,1],
 "d5/de1/structboss__alythess.html":[7,0,387],
-"d5/de1/structboss__alythess.html#a5509c9f0d979a2d9d70a8f4f9e7971a0":[7,0,387,3],
-"d5/de1/structboss__alythess.html#a611d8c0a8fb9061e596ef0ac8f1fda88":[7,0,387,5]
+"d5/de1/structboss__alythess.html#a5509c9f0d979a2d9d70a8f4f9e7971a0":[7,0,387,3]
 };

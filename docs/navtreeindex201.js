@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/d70/classspell__illidan__cage__trap.html#a8a74f3c6776f2613a6b2c63387d962e2":[7,0,3278,1],
 "d7/d70/classspell__illidan__cage__trap.html#a8c1ee55a1122c62056250b3fa09357a8":[7,0,3278,4],
 "d7/d70/classspell__illidan__cage__trap.html#a8e5b81581fff787f691521d03fed66fc":[7,0,3278,0],
 "d7/d70/classspell__mandokir__charge.html":[7,0,3610],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d83/structboss__nexusprince__shaffar.html#ad5dd5ab4178d968146e2205e60c49d07":[7,0,653,4],
 "d7/d83/structboss__nexusprince__shaffar.html#af28242e0c0f2dcbfb2fb16514d912200":[7,0,653,2],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html":[7,0,466,0],
-"d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a02f6dec07038297c15c264fb501b01ab":[7,0,466,0,0],
-"d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a07509843bd658e3fc0b02cb817da37e9":[7,0,466,0,4]
+"d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a02f6dec07038297c15c264fb501b01ab":[7,0,466,0,0]
 };

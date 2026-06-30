@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#ab855e2966fdb57f40c8a116f3c5b5a5b":[8,0,0,0,1,3,9,2,195],
 "d1/de4/spell__generic_8cpp.html#ab855e2966fdb57f40c8a116f3c5b5a5ba2a421b4e55420a2abc6d72248cc4b30f":[8,0,0,0,1,3,9,2,195,0],
 "d1/de4/spell__generic_8cpp.html#abbfe24b32e1baa8218f6bc235f85e4f3":[8,0,0,0,1,3,9,2,179],
 "d1/de4/spell__generic_8cpp.html#abbfe24b32e1baa8218f6bc235f85e4f3a8c3534758d311a29e26646e5790737a1":[8,0,0,0,1,3,9,2,179,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/df8/Systemd_8h.html":[8,0,0,0,0,15,32],
 "d1/df8/Systemd_8h.html#a0564629d7b84ad2abab3b0a3a78f888e":[8,0,0,0,0,15,32,0],
 "d1/df8/classspell__gen__remove__flight__auras.html":[7,0,3088],
-"d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[7,0,3088,1],
-"d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[7,0,3088,0]
+"d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[7,0,3088,1]
 };

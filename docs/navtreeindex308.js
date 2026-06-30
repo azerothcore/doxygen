@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea850d75427f6f9a02a4dabaa4008782b1":[8,0,0,0,1,3,5,1,1,5,4,7],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaa7ba6d8894a1a818799937d6862a46c1":[8,0,0,0,1,3,5,1,1,5,4,9],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabb48b200a2a9213dd5cce20e4a473368":[8,0,0,0,1,3,5,1,1,5,4,1],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ead8059fa6f75c76d0f2d7bfc31ce0047d":[8,0,0,0,1,3,5,1,1,5,4,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "db/de1/classDamageInfoStubBuilder.html#a282b4f92722f9cf12358a9f603df6902":[7,0,974,0],
 "db/de1/classDamageInfoStubBuilder.html#a3265aa4aa273cc9ededb6c9673f6c9e3":[7,0,974,7],
 "db/de1/classDamageInfoStubBuilder.html#a3533bbda604c4ed6ac467f28ecb60fbe":[7,0,974,2],
-"db/de1/classDamageInfoStubBuilder.html#a4fd9332aa42002056d3f9191cd4435d7":[7,0,974,3],
-"db/de1/classDamageInfoStubBuilder.html#a681fe7d0c7f3b4136ad4ba2a662e6393":[7,0,974,10]
+"db/de1/classDamageInfoStubBuilder.html#a4fd9332aa42002056d3f9191cd4435d7":[7,0,974,3]
 };

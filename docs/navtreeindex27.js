@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3":[7,0,137,13],
 "d1/d16/structadt__liquid__instance.html#a5c56ad9303d1b652774019efbe316dbd":[7,0,137,8],
 "d1/d16/structadt__liquid__instance.html#a8facef2fdb586a71f1f740086fe160ab":[7,0,137,1],
 "d1/d16/structadt__liquid__instance.html#a910553870f082a1b8dd47c27c8f981f1":[7,0,137,5],
@@ -18,16 +19,16 @@ var NAVTREEINDEX27 =
 "d1/d17/ByteBuffer_8h.html":[8,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[8,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[8,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a6dff023d399c8508abe0e654a2e57531":[8,0,0,0,2,2,0,9,9,26],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a6f96584c668b3204d49226e736c38727":[8,0,0,0,2,2,0,9,9,17],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a7856746333fc36f6ea16d9a9277ac519":[8,0,0,0,2,2,0,9,9,4],
-"d1/d1e/SpellProcChainGuardTest_8cpp.html#a7e52a749ce32f88ec54c45beba8e4294":[8,0,0,0,2,2,0,9,9,21],
-"d1/d1e/SpellProcChainGuardTest_8cpp.html#a83710bb2e0c7104acdeccfd8a1b444ef":[8,0,0,0,2,2,0,9,9,8]
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a7e52a749ce32f88ec54c45beba8e4294":[8,0,0,0,2,2,0,9,9,21]
 };

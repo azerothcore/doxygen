@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/d9b/classspell__gyth__chromatic__protection.html":[7,0,3146],
 "d3/d9b/classspell__gyth__chromatic__protection.html#a08e84f2b2ff25ed7e260e61251f9cdb9":[7,0,3146,0],
 "d3/d9b/classspell__gyth__chromatic__protection.html#a3ba84d4fd311a91efa685980ffec8d77":[7,0,3146,2],
 "d3/d9b/classspell__gyth__chromatic__protection.html#aa36a2e10a6fd67fa74d08e20dc806744":[7,0,3146,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a1d1c5e1cc3bdd5f236c84791017d9061":[8,0,0,0,1,3,10,10,49,34],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a23b42dd6ce90e5fa3c178f5527de6499":[8,0,0,0,1,3,10,10,49,33],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a24cd23cc5e5088e7641d8765df5f929b":[8,0,0,0,1,3,10,10,49,3],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a278d48250fd88785b08f556e0d1a8a46":[8,0,0,0,1,3,10,10,49,24],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a29271316dd0f2572aaa630d469b85f6a":[8,0,0,0,1,3,10,10,49,0]
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a278d48250fd88785b08f556e0d1a8a46":[8,0,0,0,1,3,10,10,49,24]
 };

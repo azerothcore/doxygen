@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/da7/classBattleground.html#a11f638dab7a0cf67b8a3588fd7f30cc5":[7,0,328,195],
 "df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[7,0,328,189],
 "df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[7,0,328,80],
 "df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[7,0,328,57],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[7,0,3000,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[7,0,3000,0],
 "df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[7,0,3000,1],
-"df/da7/classspell__gen__gnomish__transporter.html":[7,0,3038],
-"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[7,0,3038,0]
+"df/da7/classspell__gen__gnomish__transporter.html":[7,0,3038]
 };

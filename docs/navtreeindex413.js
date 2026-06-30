@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[7,0,3038,0],
 "df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[7,0,3038,2],
 "df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[7,0,3038,1],
 "df/da7/structboss__thorim__sif.html":[7,0,756],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html":[7,0,1963,0],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1963,0,8],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[7,0,1963,0,6],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[7,0,1963,0,2],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[7,0,1963,0,10]
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[7,0,1963,0,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[7,0,1963,0,10],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[7,0,1963,0,11],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#aa00a6978074f62d3d8ddead64d3240cf":[7,0,1963,0,9],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7":[7,0,1963,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81":[8,0,0,0,0,9,3,1,10],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3":[8,0,0,0,0,9,3,1,0],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88":[8,0,0,0,0,9,3,1,1],
-"df/dc8/classNullCreatureAI.html":[7,0,2314],
-"df/dc8/classNullCreatureAI.html#a12c54c92a08e81751563ec9522236b28":[7,0,2314,5]
+"df/dc8/classNullCreatureAI.html":[7,0,2314]
 };

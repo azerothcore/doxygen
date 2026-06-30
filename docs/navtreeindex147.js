@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d2a/classspell__valanar__kinetic__bomb.html#a2c3d69419762c7f78688a22017a8c535":[7,0,4220,0],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a97c48254a0d7a0bd4bcf40f614bc5373":[7,0,4220,1],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd":[7,0,4220,2],
 "d5/d2a/structBattlemasterListEntry.html":[7,0,358],
@@ -180,16 +181,16 @@ var NAVTREEINDEX147 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[7,0,1132,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[7,0,1132,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[7,0,1132,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[7,0,0,92],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[7,0,0,92,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,104,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[7,0,0,92,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[7,0,0,92,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[7,0,3383],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[7,0,3383,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3383,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d39/classspell__halion__twilight__phasing.html#af66a6bff13803e54b6ed1447d1285ad4":[7,0,3165,1],
 "d5/d3b/classAuctionSorter.html":[7,0,286],
 "d5/d3b/classAuctionSorter.html#a11708aa660757db95c88d9dc7e9b9521":[7,0,286,2],
-"d5/d3b/classAuctionSorter.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b":[7,0,286,0],
-"d5/d3b/classAuctionSorter.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7":[7,0,286,1]
+"d5/d3b/classAuctionSorter.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b":[7,0,286,0]
 };

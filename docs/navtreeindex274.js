@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#a1e0ff07a4905517dc6e92a3615bc36d0":[5,0,34,20,12],
 "da/d97/classWorldPackets_1_1CompactArray.html#a1e0ff07a4905517dc6e92a3615bc36d0":[7,0,13,20,12],
 "da/d97/classWorldPackets_1_1CompactArray.html#a24c7c9794991ec3bf4ecefa93f8ee23e":[7,0,13,20,10],
 "da/d97/classWorldPackets_1_1CompactArray.html#a24c7c9794991ec3bf4ecefa93f8ee23e":[5,0,34,20,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "da/da1/classspell__karazhan__wrath__titans__stacker.html#a0718461731d563d2c948848f60101d49":[7,0,3502,3],
 "da/da1/classspell__karazhan__wrath__titans__stacker.html#a206a4d40e082246193ba36c9080cdac1":[7,0,3502,2],
 "da/da1/classspell__karazhan__wrath__titans__stacker.html#a5738144c85424e11f33aada38273e24e":[7,0,3502,1],
-"da/da1/classspell__karazhan__wrath__titans__stacker.html#ac2889b1744117f8c0bffcce04952d7c2":[7,0,3502,0],
-"da/da1/classspell__mage__pet__scaling.html":[7,0,3592]
+"da/da1/classspell__karazhan__wrath__titans__stacker.html#ac2889b1744117f8c0bffcce04952d7c2":[7,0,3502,0]
 };

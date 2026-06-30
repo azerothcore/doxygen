@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca6a2bb66552732011772c2d2ac6dc21b0":[8,0,0,0,1,2,16,10,6,7,19],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca6ef7260c45de9cf172c2fa5cc768a181":[8,0,0,0,1,2,16,10,6,7,24],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca740528acba7c88e26c5c6970b99ed18f":[8,0,0,0,1,2,16,10,6,7,18],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca82ca071a35cb5b21619529313156be1c":[8,0,0,0,1,2,16,10,6,7,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a41a52fd6f17cc3f3f1fda66dd75d6c56":[8,0,0,0,1,3,7,2,0,5,4,6],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,2,0,5,4,0],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4f776a9f44c506399528b3edc1023f9c":[8,0,0,0,1,3,7,2,0,5,4,7],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,2,0,5,4,3],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,2,0,5,4,1]
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,2,0,5,4,3]
 };

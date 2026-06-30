@@ -1,5 +1,6 @@
 var NAVTREEINDEX149 =
 {
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab6324d1c2afca8bc0980d58bfe5a6677":[8,0,0,0,1,3,5,8,2,5,19,8],
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ae1a121435466004734f56085e9e46925":[8,0,0,0,1,3,5,8,2,5,19,6],
 "d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58aebdd6b2cdac7983c247a1a42e78771cc":[8,0,0,0,1,3,5,8,2,5,19,5],
 "d5/d4d/classIWorld.html":[7,0,1422],
@@ -143,8 +144,8 @@ var NAVTREEINDEX149 =
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,34,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,34,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,34,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,34,6,52,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d5d/classspell__item__alchemists__stone.html#ab4b5f754ced5843a753e8dd6a6ba779c":[7,0,3309,1],
 "d5/d5d/classspell__item__alchemists__stone.html#ac3ee18bf705b107ec87ce6974a7442a5":[7,0,3309,0],
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html":[7,0,2257,0],
-"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0769e975c5c7ff1cfbfa6089e3e55e3f":[7,0,2257,0,0],
-"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0cf5f0413b1cded835252a38e272f835":[7,0,2257,0,3]
+"d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0769e975c5c7ff1cfbfa6089e3e55e3f":[7,0,2257,0,0]
 };

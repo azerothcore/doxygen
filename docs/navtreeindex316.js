@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[8,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[8,0,0,0,1,3,2,1,0,4,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,1,0,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a3d541c3e17d09307020683d882299a82":[8,0,0,0,1,3,5,9,2,9,31,24],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a498ef4d60d4df1a4b1d527cc826d51fa":[8,0,0,0,1,3,5,9,2,9,31,26],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a4dbb469f809ee5093ec69669a41eca2a":[8,0,0,0,1,3,5,9,2,9,31,12],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a60f8fdb744c47f472ef3fb4e36071621":[8,0,0,0,1,3,5,9,2,9,31,22],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a651b7ef9576ff4c8ea52dcc9d8a73788":[8,0,0,0,1,3,5,9,2,9,31,29]
+"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a60f8fdb744c47f472ef3fb4e36071621":[8,0,0,0,1,3,5,9,2,9,31,22]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aefe943fb367709acb52dfbad7631e202":[8,0,0,0,1,3,5,6,11,40],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,11,36],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a11d5384606920a3f2c2ca046ad9af0e8":[8,0,0,0,1,3,5,6,11,36,5],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f41794aafc9d878c1d2e3aa735cbf44":[8,0,0,0,1,3,5,6,11,36,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac8349deb2e9c8861194e80132bd72fc5":[7,0,2621,1],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac83962bef84b68cef6d7937769730598":[7,0,2621,2],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#aee4d5908035d06be2f1469a50db02e26":[7,0,2621,0],
-"d6/d23/classspell__lady__vashj__remove__tainted__cores.html":[7,0,3528],
-"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a274d65aa393a65e19bbb67a5d07c7428":[7,0,3528,2]
+"d6/d23/classspell__lady__vashj__remove__tainted__cores.html":[7,0,3528]
 };

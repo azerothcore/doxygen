@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/d62/structnpc__xt002__scrapbot.html":[7,0,2300],
 "dd/d62/structnpc__xt002__scrapbot.html#a0c7270ccbac5c12af8aaec998408046f":[7,0,2300,0],
 "dd/d62/structnpc__xt002__scrapbot.html#a3f5cffc3225ced1ccdf3fc0964cc2c05":[7,0,2300,4],
 "dd/d62/structnpc__xt002__scrapbot.html#a7c167b396927f73736531b53056bc262":[7,0,2300,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca":[5,0,0,7,3,3],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca":[7,0,0,4,3,3],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#aad186f06a8d61834ec94d29d305fa0f2":[5,0,0,7,3,1],
-"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#aad186f06a8d61834ec94d29d305fa0f2":[7,0,0,4,3,1],
-"dd/d76/classAuthSocketMgr.html":[7,0,309]
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#aad186f06a8d61834ec94d29d305fa0f2":[7,0,0,4,3,1]
 };

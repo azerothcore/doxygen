@@ -1,5 +1,6 @@
 var NAVTREEINDEX421 =
 {
+"df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a":[7,0,2252,14],
 "df/dda/structnpc__ulduar__vx001.html#a09d6c576c0edf23d46e53c3909a82b00":[7,0,2252,17],
 "df/dda/structnpc__ulduar__vx001.html#a0f02c02bcc93afe1059152e72f981ffd":[7,0,2252,7],
 "df/dda/structnpc__ulduar__vx001.html#a10fe94210982e31e3cb48614d74a8e67":[7,0,2252,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX421 =
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[5,0,34,14,0,1],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[7,0,13,14,0,1],
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,0,7],
-"df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,0,7,9],
-"df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,0,7,10]
+"df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,0,7,9]
 };

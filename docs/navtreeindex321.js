@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa2d677ac24355a7c167b5bb55f0b1d99":[5,0,28,6,24],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa2ff022966f8f0e7ecd7b3564fba20a6":[5,0,28,6,7],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa32205e9935b728a51662b91f5b60079":[5,0,28,6,328],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa332fe50e098da4c95eeb515fd863458":[5,0,28,6,497],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d36/namespacerbac.html#af0c998db2902079aaa8ce1c4939335a7":[5,0,28,3],
 "dc/d36/structboss__amanitar.html":[7,0,388],
 "dc/d36/structboss__amanitar.html#a138049712649ff414950d9d0ca05d712":[7,0,388,2],
-"dc/d36/structboss__amanitar.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43":[7,0,388,5],
-"dc/d36/structboss__amanitar.html#a4ba2415d6134cdc435114cd3af235b6d":[7,0,388,7]
+"dc/d36/structboss__amanitar.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43":[7,0,388,5]
 };

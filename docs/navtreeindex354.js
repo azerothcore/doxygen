@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a521c78636641b7b4296349538151fa50":[8,0,0,0,1,2,38,0,77,1,80],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a54a718be6125ea1e21738b2cfff3d0fb":[8,0,0,0,1,2,38,0,77,1,9],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5596b0ba00107f6ad61ffa273f0984fe":[8,0,0,0,1,2,38,0,77,1,170],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a560cb75711096f4893c3845a54331c43":[8,0,0,0,1,2,38,0,77,1,128],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[7,0,676,2],
 "dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[7,0,676,1],
 "dd/dd1/classspell__target__fissures.html":[7,0,4134],
-"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[7,0,4134,1],
-"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[7,0,4134,0]
+"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[7,0,4134,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adb9b5e0b0f2f4fa070cbeec1ddbbf86d":[8,0,0,0,1,2,48,4,1,417],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adc12a1813efe6af71a85066b4fcbc976":[8,0,0,0,1,2,48,4,1,100],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adc6716477775ba6e040b808bee207bac":[8,0,0,0,1,2,48,4,1,195],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adc8464440656fd20800e4ec6e2af73ef":[8,0,0,0,1,2,48,4,1,60],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/d0d/classachievement__yogg__saron__darkness.html#a809902fca87abaeb4334132763624ed6":[7,0,110,1],
 "da/d0d/structnpc__the__etymidian.html":[7,0,2176],
 "da/d0d/structnpc__the__etymidian.html#a1f3cfddae43e443c5cd4a8a0f9f87a89":[7,0,2176,3],
-"da/d0d/structnpc__the__etymidian.html#a7086e9a8a8a7287cf90688270e9933a7":[7,0,2176,5],
-"da/d0d/structnpc__the__etymidian.html#a714edf3ba5f7a6d59242c991764effc5":[7,0,2176,2]
+"da/d0d/structnpc__the__etymidian.html#a7086e9a8a8a7287cf90688270e9933a7":[7,0,2176,5]
 };

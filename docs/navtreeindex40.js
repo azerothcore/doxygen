@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a9d6e48e613a65f7a3bec76ce6ea73574":[7,0,486,5],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#ac15aadce1954d827b7e833ed761faf10":[7,0,486,2],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b":[7,0,486,4],
 "d1/daa/structboss__high__interrogator__gerstahn.html":[7,0,547],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a6e75af6bfeb72695535b30f4523d119a":[8,0,0,0,1,2,16,10,5,17],
 "d1/daf/Unit_8h.html#a76b85ce9200f098d29159574458e921e":[8,0,0,0,1,2,16,10,5,59],
 "d1/daf/Unit_8h.html#a7987df2bda81f8939c39418ea78d20a5":[8,0,0,0,1,2,16,10,5,31],
-"d1/daf/Unit_8h.html#a7cf8dcf8ef7984bd27584b93d9fac4e3":[8,0,0,0,1,2,16,10,5,50],
-"d1/daf/Unit_8h.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a072d9616de877b7588d31d2c9c4401ef":[8,0,0,0,1,2,16,10,5,50,2]
+"d1/daf/Unit_8h.html#a7cf8dcf8ef7984bd27584b93d9fac4e3":[8,0,0,0,1,2,16,10,5,50]
 };

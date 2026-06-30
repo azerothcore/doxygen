@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac3d7238031acdb87580959bb19fdaacd":[8,0,0,0,1,3,5,9,2,13,47,42],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac4ed1047775b70d0c87cf73d72125b19":[8,0,0,0,1,3,5,9,2,13,47,5],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac51147b4c3313110355203bc22ce8084":[8,0,0,0,1,3,5,9,2,13,47,17],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025":[8,0,0,0,1,3,5,9,2,13,47,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[7,0,1772,1],
 "d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[7,0,1772,2],
 "d3/d3e/PassiveAI_8cpp.html":[8,0,0,0,1,2,3,0,6],
-"d3/d3f/classspell__item__healing__trance.html":[7,0,3377],
-"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[7,0,3377,3]
+"d3/d3f/classspell__item__healing__trance.html":[7,0,3377]
 };

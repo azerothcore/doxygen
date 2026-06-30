@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1ad089ecf6b1860e0cf125942c8697880d":[8,0,0,0,1,3,7,4,3,3,5,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,7,4,3,3,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a114e6b5a54a7f21dcf3480b59fa6e9ef":[8,0,0,0,1,3,7,4,3,3,3,1],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a7a9475ef1149b7050dbbd320b5a21b4d":[8,0,0,0,1,3,7,4,3,3,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4a":[8,0,0,0,1,3,6,6,3],
 "d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a":[8,0,0,0,1,3,6,6,3,2],
 "d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45":[8,0,0,0,1,3,6,6,3,1],
-"d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2":[8,0,0,0,1,3,6,6,3,3],
-"d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc":[8,0,0,0,1,3,6,6,3,0]
+"d4/d2b/OutdoorPvPHP_8h.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2":[8,0,0,0,1,3,6,6,3,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[7,0,2704,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[7,0,2704,3],
 "d5/dfb/classspell__uk__second__wind.html":[7,0,4207],
 "d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[7,0,4207,3],
@@ -49,8 +50,8 @@ var NAVTREEINDEX168 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[7,0,24,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[7,0,24,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[7,0,24,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[7,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[8,0,0,0,1,3,5,10,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842":[8,0,0,0,1,3,7,0,2,0,4],
 "d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842a09463e66b152e3f856401806af0a4823":[8,0,0,0,1,3,7,0,2,0,4,4],
 "d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842a21fcd2142bb9140312a1cf58f191c7a6":[8,0,0,0,1,3,7,0,2,0,4,7],
-"d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842a2cd8d762af980f5fcb76810f1fd6e183":[8,0,0,0,1,3,7,0,2,0,4,1],
-"d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842a4628b8f8df5433613a05e5d6a79a99b3":[8,0,0,0,1,3,7,0,2,0,4,3]
+"d6/d0b/boss__anzu_8cpp.html#a9bd1924ff7d02013b12b6cfa3824d842a2cd8d762af980f5fcb76810f1fd6e183":[8,0,0,0,1,3,7,0,2,0,4,1]
 };

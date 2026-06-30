@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,5,0,0,5,5],
 "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfa8fa0da219654d2d5e581fe241d5150dc":[8,0,0,0,1,3,5,0,0,5,5,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfac042d64bdbb8eb52c03e686a845b265e":[8,0,0,0,1,3,5,0,0,5,5,1],
 "db/d53/boss__prince__taldaram_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,0,0,5,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[7,0,4573,10],
 "db/d5c/classWarden.html#affe98268403db8e661541e7cc2b4714c":[7,0,4573,1],
 "db/d5c/classspell__pri__improved__spirit__tap.html":[7,0,3777],
-"db/d5c/classspell__pri__improved__spirit__tap.html#a13e108f88a07f0b46291cdc718022437":[7,0,3777,3],
-"db/d5c/classspell__pri__improved__spirit__tap.html#a1e7cf41ceb818d7d234c1b998e7280be":[7,0,3777,1]
+"db/d5c/classspell__pri__improved__spirit__tap.html#a13e108f88a07f0b46291cdc718022437":[7,0,3777,3]
 };

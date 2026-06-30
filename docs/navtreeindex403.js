@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a61587b3a79925051043a672bbfcd412b":[7,0,1383,0,28],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a640451bbc6bb64fbfba4b58ebf35bcf8":[7,0,1383,0,26],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a644f5cccf1139cc89e998bbb85cb6e39":[7,0,1383,0,13],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a651da0777c193379cd85d18b03eb093c":[7,0,1383,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2":[5,0,15,1],
 "df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,15,5],
 "df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,15,7],
-"df/d3e/namespaceGameTime.html#af9a7dcb5dfa331445f56900767b13e8b":[5,0,15,0],
-"df/d3e/structBG__SA__RoundScore.html":[7,0,367]
+"df/d3e/namespaceGameTime.html#af9a7dcb5dfa331445f56900767b13e8b":[5,0,15,0]
 };

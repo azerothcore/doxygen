@@ -1,5 +1,6 @@
 var NAVTREEINDEX347 =
 {
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cad4e15801c74bcee0b5254d0553413e1a":[8,0,0,0,1,3,2,1,1,6,2,7],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[8,0,0,0,1,3,2,1,1,6,1],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a1b3fac79b38cbf006c4a86301ac01afb":[8,0,0,0,1,3,2,1,1,6,1,1],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a9b69e51d0a68c4a589ecac336e50763f":[8,0,0,0,1,3,2,1,1,6,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d8c/classspell__shade__of__akama__shade__soul__channel.html#aab0536f7f73d9e354a526f56f587fff0":[7,0,4072,1],
 "dd/d8d/CalendarHandler_8cpp.html":[8,0,0,0,1,2,22,7],
 "dd/d8d/CalendarHandler_8cpp.html#a15c437e1d990c60d0d271ab1773b7d97":[8,0,0,0,1,2,22,7,0],
-"dd/d8d/DBCStores_8cpp.html":[8,0,0,0,1,2,14,0],
-"dd/d8d/DBCStores_8cpp.html#a021fb91324e6a75f70d02e4b44e17999":[8,0,0,0,1,2,14,0,63]
+"dd/d8d/DBCStores_8cpp.html":[8,0,0,0,1,2,14,0]
 };

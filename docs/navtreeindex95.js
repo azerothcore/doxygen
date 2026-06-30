@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d24/classBossAI.html":[7,0,825],
 "d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6":[7,0,825,13],
 "d3/d24/classBossAI.html#a05890dbd00c482b204af44f69d3efdc0":[7,0,825,33],
 "d3/d24/classBossAI.html#a06738517205eb4c3c8c091d7e3117156":[7,0,825,6],
@@ -83,14 +84,14 @@ var NAVTREEINDEX95 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[7,0,348,0,1],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a9ddcca26fb3f4c635d7bcbb045542885":[7,0,348,0,0],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[7,0,348,0,2],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[7,0,13,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,34,13,4],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[7,0,13,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[7,0,13,13,4,3],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[5,0,34,13,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[7,0,13,13,4,1],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,34,13,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[7,0,13,13,4,2],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,34,13,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,34,13,4,0],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[7,0,13,13,4,0],
 "d3/d26/classspell__ioc__launch.html":[7,0,3304],
@@ -120,10 +121,10 @@ var NAVTREEINDEX95 =
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[7,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[7,0,0,4,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[7,0,0,4,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,0,7,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[7,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,0,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[7,0,1773],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[7,0,1773,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[7,0,1773,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aaa78144593bde927d52873e4db2ef9b4":[8,0,0,0,1,3,5,9,2,13,47,37],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aae0309e5b43fc890d5878f87d421985e":[8,0,0,0,1,3,5,9,2,13,47,73],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ab18dd869b6e0b5fc1803d8d5ddfaf50a":[8,0,0,0,1,3,5,9,2,13,47,56],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08abb7a1c3a5092c0ebd094ef0d705b4989":[8,0,0,0,1,3,5,9,2,13,47,58],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac3d7238031acdb87580959bb19fdaacd":[8,0,0,0,1,3,5,9,2,13,47,42]
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08abb7a1c3a5092c0ebd094ef0d705b4989":[8,0,0,0,1,3,5,9,2,13,47,58]
 };

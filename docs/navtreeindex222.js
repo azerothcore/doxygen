@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/d37/classGuild_1_1RankInfo.html#a8b46f3a8f91cd3a187e00d37a6ddd419":[7,0,1272,9,15],
 "d8/d37/classGuild_1_1RankInfo.html#a96281f4a307ca7657a3ba9f04c9331c3":[7,0,1272,9,19],
 "d8/d37/classGuild_1_1RankInfo.html#a9f1c622c8af7a8f7f9af027eb01b9dc6":[7,0,1272,9,13],
 "d8/d37/classGuild_1_1RankInfo.html#a9fb87796b8e18ed9dd2fee53844c243f":[7,0,1272,9,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html#ac7337b4ee8511f72b129fccc83b3241e":[7,0,3617,2],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html#adb438b9bcf4be347aeabf6608fbfb8a4":[7,0,3617,0],
 "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html":[7,0,175],
-"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aa2e9a01adad7e195860bbc6c55131024":[7,0,175,0],
-"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aea1c4b45ae855d0cda81dbad102b8104":[7,0,175,1]
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aa2e9a01adad7e195860bbc6c55131024":[7,0,175,0]
 };

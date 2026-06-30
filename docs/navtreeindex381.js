@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html":[7,0,2677],
 "de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a1b5999f392cec9fea4431c3f746ee034":[7,0,2677,0],
 "de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a4748a82fcc7b3794850461092ee6b2e4":[7,0,2677,1],
 "de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#acfa32dfc22778576d0dd3096c456ebe0":[7,0,2677,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "de/d5e/ObjectAccessor_8cpp.html#a9c5298580060e7a6078ffb5f4008c549":[8,0,0,0,1,2,18,0,4],
 "de/d5e/ObjectAccessor_8cpp.html#aa8fcdd0ac947e92edddddd4e2daf61dd":[8,0,0,0,1,2,18,0,5],
 "de/d5e/classGridTerrainData.html":[7,0,1248],
-"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[7,0,1248,16],
-"de/d5e/classGridTerrainData.html#a07d7e85ff8386eaad8c9d1d32414e3b9":[7,0,1248,9]
+"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[7,0,1248,16]
 };

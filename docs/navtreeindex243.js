@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/d3f/structTalentSpellPos.html":[7,0,4469],
 "d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[7,0,4469,3],
 "d9/d3f/structTalentSpellPos.html#a1f28fdb07c5f3bc3a417a2d50d57481c":[7,0,4469,0],
 "d9/d3f/structTalentSpellPos.html#a46a495cd1d17302d074037ad5ea9c89e":[7,0,4469,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a9baf177530d3096f06e8f37220cfb0fa":[7,0,3982,6],
 "d9/d55/classspell__rog__tricks__of__the__trade__aura.html#ad371bd41e4653c0a8b729321dbc830a1":[7,0,3982,5],
 "d9/d55/classspell__rog__tricks__of__the__trade__aura.html#af7ed59bccd5a9db04e37753e813377b6":[7,0,3982,0],
-"d9/d55/structCreatureAIFactory.html":[7,0,943],
-"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[7,0,943,0]
+"d9/d55/structCreatureAIFactory.html":[7,0,943]
 };

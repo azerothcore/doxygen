@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d3e/structBG__SA__RoundScore.html":[7,0,367],
 "df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,367,0],
 "df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,367,1],
 "df/d3e/structEquipmentInfo.html":[7,0,1048],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d52/classAuraApplicationStub.html#a1bf6810ab9723ce50ddf46789d2a5045":[7,0,292,5],
 "df/d52/classAuraApplicationStub.html#a1fab3395f580b30fa7b2257cbcacd26a":[7,0,292,7],
 "df/d52/classAuraApplicationStub.html#a30f0ddd6c6bbc974958a33ecee39135e":[7,0,292,3],
-"df/d52/classAuraApplicationStub.html#a653fb81ddfa4c7ad855d9f1fefe172f4":[7,0,292,8],
-"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,292,9]
+"df/d52/classAuraApplicationStub.html#a653fb81ddfa4c7ad855d9f1fefe172f4":[7,0,292,8]
 };

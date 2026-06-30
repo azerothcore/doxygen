@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982":[8,0,0,0,1,2,38,0,1,1,4],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb":[8,0,0,0,1,2,38,0,1,1,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf":[8,0,0,0,1,2,38,0,1,1,5],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520":[8,0,0,0,1,2,38,0,1,1,0],
@@ -146,10 +147,10 @@ var NAVTREEINDEX173 =
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[7,0,0,5,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[5,0,0,8,0,4,0],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[7,0,0,5,0,4,0],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[7,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[5,0,0,8,0,4,2],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[7,0,0,5,0,4,1],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[7,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[5,0,0,8,0,4,1],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[7,0,0,5,0,4,1],
 "d6/d34/structModuleString.html":[7,0,1551],
 "d6/d34/structModuleString.html#a2258fd4a2b331369a95988cfa6b42f4c":[7,0,1551,0],
 "d6/d35/structHolidaysEntry.html":[7,0,1291],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a4b8651c4479b016607564540e8123ede":[8,0,0,0,1,3,10,17,6,34],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a57981d836b49f93f684b6bcfefaa1564":[8,0,0,0,1,3,10,17,6,0],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5ef5e8993200078fb16c7371dac0bb78":[8,0,0,0,1,3,10,17,6,26],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5fd474ff2cff0c286ec702b8017bf255":[8,0,0,0,1,3,10,17,6,5],
-"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a60b9e8f91e6195c68c564f0b53e61e9d":[8,0,0,0,1,3,10,17,6,43]
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a5fd474ff2cff0c286ec702b8017bf255":[8,0,0,0,1,3,10,17,6,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[8,0,0,0,1,2,16,4,4,5],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7":[8,0,0,0,1,2,16,4,4,6],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#a76d03c9ceb2d3ac35582eaea4624544f":[8,0,0,0,1,2,16,4,4,4],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#ab462bc366dd954f1c0b539c408b74c01":[8,0,0,0,1,2,16,4,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "d9/df2/classspell__najentus__remove__spines.html#a076b056328ba6181a6ec907f21258f9d":[7,0,3662,2],
 "d9/df2/classspell__najentus__remove__spines.html#a7e03b63174511ed4c3e78c99b781f8f2":[7,0,3662,0],
 "d9/df2/classspell__najentus__remove__spines.html#aaed4b5d67dbd06cb0a1adc91aa873247":[7,0,3662,1],
-"d9/df2/classspell__warl__demonic__empowerment.html":[7,0,4256],
-"d9/df2/classspell__warl__demonic__empowerment.html#a13315f197f2e6975dca00b53cbc599d2":[7,0,4256,2]
+"d9/df2/classspell__warl__demonic__empowerment.html":[7,0,4256]
 };

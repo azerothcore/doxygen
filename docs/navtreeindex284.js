@@ -1,5 +1,6 @@
 var NAVTREEINDEX284 =
 {
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953":[8,0,0,0,1,2,38,0,9,2,15],
 "da/df5/AllBattlegroundScript_8h.html#ae9cb670a445a9cb3089a66cdcc822d0e":[8,0,0,0,1,2,38,0,9,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html":[7,0,0,34],
 "da/df5/classAcore_1_1AsyncProcessResult.html":[5,0,0,46],
@@ -248,6 +249,5 @@ var NAVTREEINDEX284 =
 "db/d07/classWorldSocketThread.html#a01090d6713f49dc026f77f8481b492cb":[7,0,4641,0],
 "db/d07/classWorldSocketThread.html#a4a978f9304e4aeabfb9ce1998b8a27cc":[7,0,4641,1],
 "db/d07/classnpc__nerubian__burrower.html":[7,0,2002],
-"db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[7,0,2002,1],
-"db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[7,0,2002,2]
+"db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[7,0,2002,1]
 };

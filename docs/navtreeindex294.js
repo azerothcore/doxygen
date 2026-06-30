@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,120,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[7,0,0,108,0,2],
 "db/d72/structLootItem.html":[7,0,1475],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/d80/structinstance__blackrock__spire.html#a8abf7ad14daa27fc750bc01b3a80d5b3":[7,0,1317,0],
 "db/d80/structinstance__blackrock__spire.html#a9397bd4889aa0de7452ea7f040a1864f":[7,0,1317,19],
 "db/d80/structinstance__blackrock__spire.html#a953a419e7b67f915c4f91da72fa7f797":[7,0,1317,12],
-"db/d80/structinstance__blackrock__spire.html#a9a59b2c228ad19f2f23dd6e1070f8ed7":[7,0,1317,39],
-"db/d80/structinstance__blackrock__spire.html#a9aff3083cad5da24b1db9f35bbc2cf48":[7,0,1317,30]
+"db/d80/structinstance__blackrock__spire.html#a9a59b2c228ad19f2f23dd6e1070f8ed7":[7,0,1317,39]
 };

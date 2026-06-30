@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dc/dc6/classspell__dk__icebound__fortitude.html":[7,0,2802],
 "dc/dc6/classspell__dk__icebound__fortitude.html#a4d09be7d33755ae719138d079884e281":[7,0,2802,3],
 "dc/dc6/classspell__dk__icebound__fortitude.html#a76528513f0f6728e73085a3d403c3e59":[7,0,2802,2],
 "dc/dc6/classspell__dk__icebound__fortitude.html#ad99a4176d27864280a79ac548a57a4c8":[7,0,2802,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282":[8,0,0,0,1,3,2,12,1,10,2],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[8,0,0,0,1,3,2,12,1,10,14],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d":[8,0,0,0,1,3,2,12,1,10,5],
-"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35":[8,0,0,0,1,3,2,12,1,10,13],
-"dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7ec":[8,0,0,0,1,3,2,12,1,11]
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35":[8,0,0,0,1,3,2,12,1,10,13]
 };

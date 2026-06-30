@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[7,0,556,6],
 "db/db5/structboss__hydross__the__unstable.html#a219094dc5a81acb7d7ae86d5d7945da8":[7,0,556,10],
 "db/db5/structboss__hydross__the__unstable.html#a252d3abdf24c06922c88823bc5e535f3":[7,0,556,5],
 "db/db5/structboss__hydross__the__unstable.html#a3e9031d95c9e62cbd83eeba4af6c965a":[7,0,556,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/dc6/classAuraStubBuilder.html#ac5c74952acab3c54a79e28355f423a8f":[7,0,300,4],
 "db/dc6/classAuraStubBuilder.html#ad25896a25811e0e563dcac1c46e77ff3":[7,0,300,5],
 "db/dc6/classAuraStubBuilder.html#afa4a16fb9c020c568472102fff972408":[7,0,300,9],
-"db/dc6/classMPQArchive.html":[7,0,1563],
-"db/dc6/classMPQArchive.html#a2026335b9ede29197acfaac8513456d5":[7,0,1563,8]
+"db/dc6/classMPQArchive.html":[7,0,1563]
 };

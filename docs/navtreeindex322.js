@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dc/d36/structboss__amanitar.html#a4ba2415d6134cdc435114cd3af235b6d":[7,0,388,7],
 "dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[7,0,388,0],
 "dc/d36/structboss__amanitar.html#a6b3cf0ea01ce34b4281116ca8387732d":[7,0,388,1],
 "dc/d36/structboss__amanitar.html#aab3faca4526947a72d8ca049a605f5be":[7,0,388,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a1b72c10256365de71b8f9fadf5886338":[7,0,2754,4],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a5836fb240ae612d36a9e80c88bebdc48":[7,0,2754,3],
 "dc/d48/classspell__deathbringer__blood__link__aura.html#a6380b4d03e4c48cd1a1f89227a1ebae8":[7,0,2754,1],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[7,0,2754,2],
-"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[7,0,2754,5]
+"dc/d48/classspell__deathbringer__blood__link__aura.html#abf744d64dae5835bff3877eeaa919af3":[7,0,2754,2]
 };

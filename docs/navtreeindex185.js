@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7af512b945c50975b7aec7cc16cc244044":[8,0,0,0,1,2,16,6,2,8,51],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7af5e8637ef153ededc23ecfa2534120b2":[8,0,0,0,1,2,16,6,2,8,45],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7afa4c61fb2c9aa95f37f0af5029f32b51":[8,0,0,0,1,2,16,6,2,8,44],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7afc2b3803754317188944414d9d114096":[8,0,0,0,1,2,16,6,2,8,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[7,0,2285,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[7,0,13,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,34,6,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[7,0,13,6,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,34,6,22,0]
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[7,0,13,6,22,0]
 };

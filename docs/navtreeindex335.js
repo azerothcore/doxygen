@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[7,0,720,2],
 "dc/de6/structboss__skarvald__the__constructor.html#a9c1f74c20a5a9f47f9430450742938a2":[7,0,720,6],
 "dc/de6/structboss__skarvald__the__constructor.html#a9d65e24161dd1f7bac9fe991624c5c80":[7,0,720,4],
 "dc/de6/structboss__skarvald__the__constructor.html#ab5b773a9960f611a6383578a607ba258":[7,0,720,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4328,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4328,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4328,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5]
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5]
 };

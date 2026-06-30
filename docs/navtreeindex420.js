@@ -1,5 +1,6 @@
 var NAVTREEINDEX420 =
 {
+"df/dd9/classUnit.html#afe163d810e80472a83b574d01d6a1d5e":[7,0,4536,964],
 "df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98":[7,0,4536,148],
 "df/dd9/classUnit.html#afe5db1b804a4b24ea5cbd4d2d065cfa9":[7,0,4536,546],
 "df/dd9/classUnit.html#afe78343682d113f6b4135fc2d4bf3a18":[7,0,4536,902],
@@ -248,6 +249,5 @@ var NAVTREEINDEX420 =
 "df/dda/structnpc__crystalline__frayer.html#adc85054030146067d2cff47db2886a07":[7,0,1740,8],
 "df/dda/structnpc__crystalline__frayer.html#ade88d8f4d4fd32155b87dfba75084f4c":[7,0,1740,0],
 "df/dda/structnpc__crystalline__frayer.html#afe6ba31b18fa65aaa15daad3101149c2":[7,0,1740,5],
-"df/dda/structnpc__ulduar__vx001.html":[7,0,2252],
-"df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a":[7,0,2252,14]
+"df/dda/structnpc__ulduar__vx001.html":[7,0,2252]
 };

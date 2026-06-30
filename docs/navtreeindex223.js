@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aea1c4b45ae855d0cda81dbad102b8104":[7,0,175,1],
 "d8/d4b/ChatTextBuilder_8cpp.html":[8,0,0,0,1,2,42,0],
 "d8/d4b/classObject.html":[7,0,2316],
 "d8/d4b/classObject.html#a00340fbc92fd28dfaa5e945a7f5e5a77":[7,0,2316,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d54/classspell__the__black__stalker__levitate.html":[7,0,4148],
 "d8/d54/classspell__the__black__stalker__levitate.html#a46aca18049e02d50f57579b3fdc705bd":[7,0,4148,3],
 "d8/d54/classspell__the__black__stalker__levitate.html#a7c1b4d0c8d2ad153cef62ce05fef814c":[7,0,4148,0],
-"d8/d54/classspell__the__black__stalker__levitate.html#a82da72fd4eed6773c1f3a4288caa8963":[7,0,4148,2],
-"d8/d54/classspell__the__black__stalker__levitate.html#ab826f4f249679ffe87f9e6ccf6b9ecf0":[7,0,4148,1]
+"d8/d54/classspell__the__black__stalker__levitate.html#a82da72fd4eed6773c1f3a4288caa8963":[7,0,4148,2]
 };

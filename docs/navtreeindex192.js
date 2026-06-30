@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d6/dfb/structnpc__gunship__boarding__addAI.html#accf0e65592983cc0199cb445aea55f99":[7,0,1843,0],
 "d6/dfb/structnpc__gunship__boarding__addAI.html#adb50c92c76763733dbec025769d62a40":[7,0,1843,6],
 "d6/dfb/structnpc__gunship__boarding__addAI.html#af25bee85b38d70d1b792d7c1752e45f5":[7,0,1843,7],
 "d6/dfc/boss__wushoolay_8cpp.html":[8,0,0,0,1,3,2,16,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a6a900f9a9dc5509c36e5bdaaaacc197d":[7,0,465,0,4],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a81576aaf465dfc99d199aaf6a182df52":[7,0,465,0,1],
 "d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#a997d75ad388e790f9863e1b15fa1c899":[7,0,465,0,2],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#adc3867a4446375f1217809299f3dd9bb":[7,0,465,0,8],
-"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#ade57a575bd84e8e095b1ab5a5c81d3f6":[7,0,465,0,5]
+"d7/d0a/structboss__essence__of__anger_1_1boss__essence__of__angerAI.html#adc3867a4446375f1217809299f3dd9bb":[7,0,465,0,8]
 };

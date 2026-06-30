@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dc/d9f/classserver__commandscript.html#a514149a8d1dfc4513e0c71b69901767d":[7,0,2552,14],
 "dc/d9f/classserver__commandscript.html#a61d8b3a9f967996b533e62e94fe4c8ca":[7,0,2552,0],
 "dc/d9f/classserver__commandscript.html#a6c63114c474f69621b013dbb57b47bf2":[7,0,2552,7],
 "dc/d9f/classserver__commandscript.html#a850c21f1ece40c576d3bf622f1c3e18f":[7,0,2552,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[7,0,1587,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[7,0,1587,2],
 "dc/dab/classnear__scarshield__infiltrator.html#aeb761433e3210ce85c1de4dab653a87c":[7,0,1587,1],
-"dc/dab/structboss__flame__leviathan__safety__container.html":[7,0,488],
-"dc/dab/structboss__flame__leviathan__safety__container.html#a42842de299fd9346cc0d61b649b652a4":[7,0,488,1]
+"dc/dab/structboss__flame__leviathan__safety__container.html":[7,0,488]
 };

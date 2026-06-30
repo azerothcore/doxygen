@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/d17/pet__hunter_8cpp.html":[8,0,0,0,1,3,8,2],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e":[8,0,0,0,1,3,8,2,4],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f":[8,0,0,0,1,3,8,2,4,4],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280":[8,0,0,0,1,3,8,2,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/d25/classspell__dru__maim__interrupt.html#a435424c2bc9a2b491eb9535d5c13df60":[7,0,2879,1],
 "dd/d25/classspell__dru__maim__interrupt.html#ad2607d8ce696536f32d0a6eb77af4664":[7,0,2879,3],
 "dd/d26/SocialMgr_8cpp.html":[8,0,0,0,1,2,16,7,17],
-"dd/d26/VehicleScript_8h.html":[8,0,0,0,1,2,38,0,89],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,34,10,11]
+"dd/d26/VehicleScript_8h.html":[8,0,0,0,1,2,38,0,89]
 };

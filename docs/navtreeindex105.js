@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407":[8,0,0,0,1,3,5,7,6,3,3],
 "d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a85405cbf94da2d357af5b3ffe9ec72d4":[8,0,0,0,1,3,5,7,6,3,5],
 "d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,7,6,3,1],
 "d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,5,7,6,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298cace105589c05e8d6cc8fb7bbf5d979aa9":[8,0,0,0,1,3,2,2,0,2,3],
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298cacf4555b4607c310138dbe33535fc0def":[8,0,0,0,1,3,2,2,0,2,11],
 "d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298caea8347fd982a7c0147d20184f2a64be8":[8,0,0,0,1,3,2,2,0,2,4],
-"d3/d9b/boss__mr__smite_8cpp.html#acc31e61d9eaf6144ffd65028abca1ed9":[8,0,0,0,1,3,2,2,0,3],
-"d3/d9b/classspell__gyth__chromatic__protection.html":[7,0,3146]
+"d3/d9b/boss__mr__smite_8cpp.html#acc31e61d9eaf6144ffd65028abca1ed9":[8,0,0,0,1,3,2,2,0,3]
 };

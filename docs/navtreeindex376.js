@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/d26/classspell__mage__blazing__speed.html#a6d171ec8688075496ec7d9f2325a5a1c":[7,0,3555,2],
 "de/d26/classspell__mage__blazing__speed.html#a74be985272c75fff9592927ea010a9d9":[7,0,3555,3],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html":[7,0,2286,0],
 "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html#a7ce79406da48e245a0baa2fdd23622b9":[7,0,2286,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/d30/SpellMgr_8h.html#a217ab11496f5f90bfcc9fe3fc2161447":[8,0,0,0,1,2,41,9,39],
 "de/d30/SpellMgr_8h.html#a218f97acb0811d2b93725da07b8e30dc":[8,0,0,0,1,2,41,9,83],
 "de/d30/SpellMgr_8h.html#a27c5ad64bae2d58b7596cd53608396f7":[8,0,0,0,1,2,41,9,44],
-"de/d30/SpellMgr_8h.html#a2ba27d428865ac3f87bf6f6843271d3f":[8,0,0,0,1,2,41,9,78],
-"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9":[8,0,0,0,1,2,41,9,68]
+"de/d30/SpellMgr_8h.html#a2ba27d428865ac3f87bf6f6843271d3f":[8,0,0,0,1,2,41,9,78]
 };

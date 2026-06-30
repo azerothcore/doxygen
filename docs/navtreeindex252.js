@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#af13a18be542fb314c19af52f89d216b8":[7,0,2204,0,0],
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#afc23ba15d3ee925212e77b5211504c2b":[7,0,2204,0,2],
 "d9/da2/classspell__direbrew__summon__mole__machine__target__picker.html":[7,0,2768],
 "d9/da2/classspell__direbrew__summon__mole__machine__target__picker.html#a3d906994c11e52e89c842189be73ddfd":[7,0,2768,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "d9/db4/structPointOfInterest.html#a5292a64de662f608915844d58199542f":[7,0,2426,0],
 "d9/db4/structPointOfInterest.html#a561763556f1ac77e988c350c37a3a0a1":[7,0,2426,5],
 "d9/db4/structPointOfInterest.html#a623d8bdc2bf5eea161466340ae8e3cd1":[7,0,2426,3],
-"d9/db4/structPointOfInterest.html#a94b184ecd7c82419fa6d59a59c1d95da":[7,0,2426,2],
-"d9/db4/structPointOfInterest.html#ab7460f125e05509baf9331e424b8bacf":[7,0,2426,1]
+"d9/db4/structPointOfInterest.html#a94b184ecd7c82419fa6d59a59c1d95da":[7,0,2426,2]
 };

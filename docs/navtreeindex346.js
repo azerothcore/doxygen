@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d76/classAuthSocketMgr.html":[7,0,309],
 "dd/d76/classAuthSocketMgr.html#a02b81323eba1428f9b5eebf7f5edc393":[7,0,309,3],
 "dd/d76/classAuthSocketMgr.html#a345e4f8cc1c216ed7eb9c3e96748170f":[7,0,309,4],
 "dd/d76/classAuthSocketMgr.html#a55ca5c800a783d89fbe05bd945374b84":[7,0,309,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298caaf3128bd2dcead8a7f46456a801cabd2":[8,0,0,0,1,3,2,1,1,6,2,9],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cab015d3f3171acc89243165f6c81ede07":[8,0,0,0,1,3,2,1,1,6,2,8],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,2,1,1,6,2,16],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cacc28d36f2859b93e18fa1a0c8e2e0f88":[8,0,0,0,1,3,2,1,1,6,2,0],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cad4e15801c74bcee0b5254d0553413e1a":[8,0,0,0,1,3,2,1,1,6,2,7]
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cacc28d36f2859b93e18fa1a0c8e2e0f88":[8,0,0,0,1,3,2,1,1,6,2,0]
 };

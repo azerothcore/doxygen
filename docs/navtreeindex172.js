@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a274d65aa393a65e19bbb67a5d07c7428":[7,0,3528,2],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a5afd50fdc8393a12cd39a56c342f9179":[7,0,3528,1],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a6489e3a58421da7c448a24d6673564c5":[7,0,3528,0],
 "d6/d23/structHolidayRule.html":[7,0,1290],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d2a/classspell__sha__item__lightning__shield.html#a3a496539a6adddca91724d9cc77f81c3":[7,0,4041,1],
 "d6/d2b/AccountScript_8h.html":[8,0,0,0,1,2,38,0,1],
 "d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3f":[8,0,0,0,1,2,38,0,1,1],
-"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5":[8,0,0,0,1,2,38,0,1,1,6],
-"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982":[8,0,0,0,1,2,38,0,1,1,4]
+"d6/d2b/AccountScript_8h.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5":[8,0,0,0,1,2,38,0,1,1,6]
 };

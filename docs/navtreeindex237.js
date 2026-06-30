@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d8/de2/classspell__hodir__storm__power__aura.html":[7,0,3190],
 "d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[7,0,3190,1],
 "d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[7,0,3190,3],
 "d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[7,0,3190,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d8/df6/TypeContainerFunctions_8h.html#a2858d11acb15c35a59d35c9bb163d7c6":[8,0,0,0,0,6,5,29],
 "d8/df6/TypeContainerFunctions_8h.html#a2d87541d6d2eceb7467b09f7fa5bd51b":[8,0,0,0,0,6,5,0],
 "d8/df6/TypeContainerFunctions_8h.html#a31fef0ae214e75ee3251ee75539b5933":[8,0,0,0,0,6,5,4],
-"d8/df6/TypeContainerFunctions_8h.html#a339e193b2696d368e3fd5ba8ac348ba9":[8,0,0,0,0,6,5,13],
-"d8/df6/TypeContainerFunctions_8h.html#a33dad9e8e49e78c8486f2a91b49c0984":[8,0,0,0,0,6,5,36]
+"d8/df6/TypeContainerFunctions_8h.html#a339e193b2696d368e3fd5ba8ac348ba9":[8,0,0,0,0,6,5,13]
 };

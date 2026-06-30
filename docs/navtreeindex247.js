@@ -1,5 +1,6 @@
 var NAVTREEINDEX247 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a84c123382ace53bc7cfeed00d2e0d226":[8,0,0,0,1,3,5,6,13,14,0],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412abfac072d6a956f92518d7859ee6adc70":[8,0,0,0,1,3,5,6,13,14,4],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412ac9261fd9470dba4ec6928421d873ed0a":[8,0,0,0,1,3,5,6,13,14,2],
 "d9/d6a/icecrown__citadel_8h.html#a8ad0adeac0057e9785ab4fce6f4d6697":[8,0,0,0,1,3,5,6,13,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,17,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[7,0,5,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,17,16,3],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[7,0,5,16,3],
-"d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[7,0,1987,0]
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[7,0,5,16,3]
 };

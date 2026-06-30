@@ -1,5 +1,6 @@
 var NAVTREEINDEX216 =
 {
+"d7/ded/classspell__gen__haunted.html":[7,0,3042],
 "d7/ded/classspell__gen__haunted.html#a07b15e180ee79149cad15b32b3c94359":[7,0,3042,0],
 "d7/ded/classspell__gen__haunted.html#ad2426cf9076d3fe4f33984ab28df11f6":[7,0,3042,2],
 "d7/ded/classspell__gen__haunted.html#afbea54d2dad7a969d7e7558d43ecbc95":[7,0,3042,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX216 =
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca42d6a809df54cb1ee4efeeeed671aece":[8,0,0,0,1,2,16,10,6,7,14],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca45e034d920948e0ba5085eb103660161":[8,0,0,0,1,2,16,10,6,7,26],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca54c306ce24ba265a5a6b047242d3a5a7":[8,0,0,0,1,2,16,10,6,7,13],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca6580b40dee982ab6f82c1c59d34988de":[8,0,0,0,1,2,16,10,6,7,30],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca6a2bb66552732011772c2d2ac6dc21b0":[8,0,0,0,1,2,16,10,6,7,19]
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca6580b40dee982ab6f82c1c59d34988de":[8,0,0,0,1,2,16,10,6,7,30]
 };

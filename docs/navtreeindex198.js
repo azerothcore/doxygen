@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"d7/d46/classAuraEffect.html#a8aeb4f5c3a5130afb5df2d83667b1877":[7,0,293,109],
 "d7/d46/classAuraEffect.html#a8b39616fd9d0543194c9d6dbec186f55":[7,0,293,214],
 "d7/d46/classAuraEffect.html#a8c25ece7266e707b626dbad6de6be66e":[7,0,293,59],
 "d7/d46/classAuraEffect.html#a8d79983093faf3f9c63c9f1cc65b0155":[7,0,293,142],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d4d/structWintergraspTowerData.html":[7,0,4614],
 "d7/d4d/structWintergraspTowerData.html#a1c0edf97a599773b688954f2e966e794":[7,0,4614,6],
 "d7/d4d/structWintergraspTowerData.html#a38ab7536e0682efd7080b823569d504b":[7,0,4614,4],
-"d7/d4d/structWintergraspTowerData.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b":[7,0,4614,1],
-"d7/d4d/structWintergraspTowerData.html#aaa8fe59aa58bf02934bf87f636582637":[7,0,4614,0]
+"d7/d4d/structWintergraspTowerData.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b":[7,0,4614,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d2c/classspell__pet__guard__dog.html#a5a6251290dd3389e9307c2e6f9b52098":[7,0,3747,3],
 "d2/d2c/classspell__pet__guard__dog.html#a5fee783960ed7f0b4adcfc30db68061d":[7,0,3747,2],
 "d2/d2c/classspell__pet__guard__dog.html#a8875c54a3cae852681a389c8777f25bb":[7,0,3747,0],
 "d2/d2c/classspell__pet__guard__dog.html#aa4025d668080ba03af23abbb3a461758":[7,0,3747,1],
@@ -85,10 +86,10 @@ var NAVTREEINDEX55 =
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[7,0,2473,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[5,0,34,7,5],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[7,0,13,7,5],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[7,0,13,7,5,0],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[7,0,13,7,5,2],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[5,0,34,7,5,2],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[7,0,13,7,5,2],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[7,0,13,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[7,0,13,7,5,4],
@@ -152,8 +153,8 @@ var NAVTREEINDEX55 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[7,0,3406,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[7,0,3406,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[7,0,3406,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada24a3b25885e054c2107989e87e2008e1":[8,0,0,0,1,2,8,1,1,4,8],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada4ba9970fd23b48756d7a9cb2774752d7":[8,0,0,0,1,2,8,1,1,4,3],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada8caa41b70cbe057ad7a24b7834400e3e":[8,0,0,0,1,2,8,1,1,4,5],
-"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014adacbdce42b70229b7f8558d07e72159232":[8,0,0,0,1,2,8,1,1,4,2],
-"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014adacd23166727913397068457490e34ed16":[8,0,0,0,1,2,8,1,1,4,7]
+"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014adacbdce42b70229b7f8558d07e72159232":[8,0,0,0,1,2,8,1,1,4,2]
 };

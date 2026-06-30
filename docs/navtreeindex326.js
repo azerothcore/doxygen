@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[7,0,1160,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[7,0,1160,0],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html":[7,0,2786],
 "dc/d6d/classspell__dk__dancing__rune__weapon.html#a1a3550f989d9e97d17d3ae811371013a":[7,0,2786,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#af88e49deb494dc84337149c7b7ee7256":[8,0,0,0,2,2,0,5,0,22],
 "dc/d7b/classspell__q10525__vision__guide.html":[7,0,3831],
 "dc/d7b/classspell__q10525__vision__guide.html#a2144b0602501471a4001883ce9de6db3":[7,0,3831,1],
-"dc/d7b/classspell__q10525__vision__guide.html#a814687d3938e966f8721438e1a722f77":[7,0,3831,0],
-"dc/d7b/classspell__q10525__vision__guide.html#a9d696dc7e58692216fa1cf6cc7c011a9":[7,0,3831,2]
+"dc/d7b/classspell__q10525__vision__guide.html#a814687d3938e966f8721438e1a722f77":[7,0,3831,0]
 };

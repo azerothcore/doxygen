@@ -1,5 +1,6 @@
 var NAVTREEINDEX159 =
 {
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[7,0,11,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[7,0,11,3,1],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,31,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[7,0,1977],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "d5/db6/classWheatyExceptionReport.html#ab9866626b0f638ed7a0ed86cfd11106b":[7,0,4605,0],
 "d5/db6/classWheatyExceptionReport.html#abd65e937dfadd082d69c9fbbe0e13d83":[7,0,4605,17],
 "d5/db6/classWheatyExceptionReport.html#ac8e24040657d06faa610f8648365b432":[7,0,4605,23],
-"d5/db6/classWheatyExceptionReport.html#ac920ff7c86e02672414a10120d49c58b":[7,0,4605,1],
-"d5/db6/classWheatyExceptionReport.html#aca75a37502aa7a75f775913ba12025a9":[7,0,4605,13]
+"d5/db6/classWheatyExceptionReport.html#ac920ff7c86e02672414a10120d49c58b":[7,0,4605,1]
 };

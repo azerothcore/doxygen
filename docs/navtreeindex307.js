@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"db/dd5/classCreature.html#a7923faf4b93b1a03ff75bf275c4eb083":[7,0,939,147],
 "db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9":[7,0,939,242],
 "db/dd5/classCreature.html#a7b6fdba610ce929ce23a62ab8824ad95":[7,0,939,64],
 "db/dd5/classCreature.html#a7fdd2916fd441db2f0f6c25eda902a35":[7,0,939,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea427400c1c8099ae1e2bf8022dbf0a19f":[8,0,0,0,1,3,5,1,1,5,4,8],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea43d94d174a0f277385bd547e8699bcd8":[8,0,0,0,1,3,5,1,1,5,4,6],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea497d3965318f838503396514a84cae25":[8,0,0,0,1,3,5,1,1,5,4,5],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea60618ea4f53e59c633f145aa9ebbf2db":[8,0,0,0,1,3,5,1,1,5,4,2],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea850d75427f6f9a02a4dabaa4008782b1":[8,0,0,0,1,3,5,1,1,5,4,7]
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea60618ea4f53e59c633f145aa9ebbf2db":[8,0,0,0,1,3,5,1,1,5,4,2]
 };

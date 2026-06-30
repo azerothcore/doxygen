@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0a895e6fec3b7df29b1c8e98b1b5f5dfe0":[8,0,0,0,1,3,10,12,3,6],
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0ab16e542061d6af16958045076a03ba67":[8,0,0,0,1,3,10,12,3,2],
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0ae616cb7a6f91a45be7c3a8d19650b774":[8,0,0,0,1,3,10,12,3,0],
 "d8/d19/npc__stave__of__ancients_8h.html#a16be495faad2ebc93bc68267328d78c0aee0f260a794aacbd8616fa9970c47589":[8,0,0,0,1,3,10,12,3,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#af9f0a6bc8b982b025312d6b2c1f91549":[7,0,506,0,0],
 "d8/d29/structgo__transport__the__thundercaller.html":[7,0,1218],
 "d8/d29/structgo__transport__the__thundercaller.html#a79d5ed60a112c5f352f9f0b94f9f3a17":[7,0,1218,0],
-"d8/d29/structgo__transport__the__thundercaller.html#ad2e981ff6223ec2cbd8a897485a61204":[7,0,1218,1],
-"d8/d2b/classboss__paletress.html":[7,0,666]
+"d8/d29/structgo__transport__the__thundercaller.html#ad2e981ff6223ec2cbd8a897485a61204":[7,0,1218,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/d20/classVMAP_1_1MapRayCallback.html#a0f218465b321da5f8289dfa815acbfd4":[7,0,11,10,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,31,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[7,0,11,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,31,10,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/d25/structnpc__black__morass__summoned__add.html#ab1551fc3e746dc724ea433f7a3daa786":[7,0,1675,0],
 "de/d26/classspell__mage__blazing__speed.html":[7,0,3555],
 "de/d26/classspell__mage__blazing__speed.html#a00e4e7a77373767f4a68f0ee209d4e7d":[7,0,3555,0],
-"de/d26/classspell__mage__blazing__speed.html#a1b93f0cedfac153c2dab9d331d9fae0f":[7,0,3555,1],
-"de/d26/classspell__mage__blazing__speed.html#a6d171ec8688075496ec7d9f2325a5a1c":[7,0,3555,2]
+"de/d26/classspell__mage__blazing__speed.html#a1b93f0cedfac153c2dab9d331d9fae0f":[7,0,3555,1]
 };

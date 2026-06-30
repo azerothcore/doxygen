@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/d3b/structGameObjectTemplate.html":[7,0,1117],
 "dd/d3b/structGameObjectTemplate.html#a00eb000816f295001a68a3b4b75be832":[7,0,1117,104],
 "dd/d3b/structGameObjectTemplate.html#a01bfeb15be2a8e1d59805c83a2a75ac8":[7,0,1117,138],
 "dd/d3b/structGameObjectTemplate.html#a036401d053d1e65581f68ca5bb5f2340":[7,0,1117,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d40/classboss__loatheb.html":[7,0,610],
 "dd/d40/classboss__loatheb.html#a93bf8055a9ed900c880ef8b81b87bafd":[7,0,610,1],
 "dd/d40/classboss__loatheb.html#aca9b3a2515777f81b354c01a9727276e":[7,0,610,2],
-"dd/d40/instance__molten__core_8cpp.html":[8,0,0,0,1,3,2,1,3,10],
-"dd/d40/instance__molten__core_8cpp.html#a1712840a822c3d823764d3c974c6ea31":[8,0,0,0,1,3,2,1,3,10,6]
+"dd/d40/instance__molten__core_8cpp.html":[8,0,0,0,1,3,2,1,3,10]
 };

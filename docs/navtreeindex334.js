@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html":[7,0,1127],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[7,0,1127,0],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[7,0,1127,4],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[7,0,1127,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[7,0,720,7],
 "dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[7,0,720,0],
 "dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[7,0,720,3],
-"dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[7,0,720,1],
-"dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[7,0,720,2]
+"dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[7,0,720,1]
 };

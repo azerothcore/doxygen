@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d4b/classPlayer.html#ad5bae72662040d2e9784c9ad6a0ef213":[7,0,2401,1327],
 "d2/d4b/classPlayer.html#ad66dac2cae297693fd901eb8a782d98e":[7,0,2401,929],
 "d2/d4b/classPlayer.html#ad690d7b9d784eea922facc19bb3f5a12":[7,0,2401,827],
 "d2/d4b/classPlayer.html#ad71c6bf45aba55f18b85720865755237":[7,0,2401,958],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d50/classspell__geddon__armageddon__aura.html#ae38b71adaff3b36f5d7b3007e84e620f":[7,0,2967,3],
 "d2/d50/classspell__geddon__armageddon__aura.html#aea2f52682e723f8dacfffa20cd0f41a5":[7,0,2967,2],
 "d2/d50/classspell__kaelthas__summon__weapons.html":[7,0,3490],
-"d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[7,0,3490,1],
-"d2/d50/classspell__kaelthas__summon__weapons.html#a4bb5cfd2cc8503b3a840fc68624a33c1":[7,0,3490,2]
+"d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[7,0,3490,1]
 };

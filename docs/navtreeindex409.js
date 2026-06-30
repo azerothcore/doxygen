@@ -1,5 +1,6 @@
 var NAVTREEINDEX409 =
 {
+"df/d87/structFireworkShowGameobject.html#ac2e4113330ebc9d9db379fb87eb55c03":[7,0,1071,3],
 "df/d87/structFireworkShowGameobject.html#af0a1551e7a1ced5413b6096ba15db8b2":[7,0,1071,0],
 "df/d88/BattlegroundQueue_8h.html":[8,0,0,0,1,2,8,14],
 "df/d88/BattlegroundQueue_8h.html#a532cb5269831c504ba78101c6f3d61c9":[8,0,0,0,1,2,8,14,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX409 =
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[7,0,982,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,982,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,982,1,0],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,5],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,4]
+"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,982,1,5]
 };

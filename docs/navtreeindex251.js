@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a27c4858d5972471ef91a269c11fc0494":[7,0,1353,0,4],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a3542b2f1f54fc25720bba1b4f2d12e5f":[7,0,1353,0,7],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a52144a0152a2ea00066c0d24bdee0b74":[7,0,1353,0,11],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a52256dd98ae786bfe9bfc86ce036a060":[7,0,1353,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "d9/da0/classspell__serpentshrine__cavern__infection.html#adc6f982b0e3cc56039746f425cb09113":[7,0,4010,1],
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html":[7,0,2204,0],
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#a31665a22920b416d7423958a3e2928ec":[7,0,2204,0,3],
-"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#a83422ff3e140b57a484d98876a9a8070":[7,0,2204,0,1],
-"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#af13a18be542fb314c19af52f89d216b8":[7,0,2204,0,0]
+"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#a83422ff3e140b57a484d98876a9a8070":[7,0,2204,0,1]
 };

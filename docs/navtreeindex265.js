@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/d40/classTotem.html#aaf87ce98ed8bfc42072228c9e39bfdf6":[7,0,4499,6],
 "da/d40/classTotem.html#ab127e1cc25ef8878b9a44cb0eb080523":[7,0,4499,9],
 "da/d40/classTotem.html#aced4f5c6ff70852083c23fb32cd50a7f":[7,0,4499,8],
 "da/d40/classTotem.html#af0a51bf3565114ba84fd8fcad93170ad":[7,0,4499,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a449b19f3bebee5f7f2217c277b0f894e":[8,0,0,0,1,3,5,12,9,7,13],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a559b8fca2ceb7c12e45e184216ca7853":[8,0,0,0,1,3,5,12,9,7,6],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a6bec23f0ba4dfbe20cd1982b69f64b79":[8,0,0,0,1,3,5,12,9,7,1],
-"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a776b63418d45c9c3501049f754fc0bf0":[8,0,0,0,1,3,5,12,9,7,2],
-"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a814d3c25fcbfae4755942da0fdab46c8":[8,0,0,0,1,3,5,12,9,7,19]
+"da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80a776b63418d45c9c3501049f754fc0bf0":[8,0,0,0,1,3,5,12,9,7,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"da/da1/classspell__mage__pet__scaling.html":[7,0,3592],
 "da/da1/classspell__mage__pet__scaling.html#a3860e12ea334cb61a437941b6f9b81e0":[7,0,3592,2],
 "da/da1/classspell__mage__pet__scaling.html#a5180cc8beb5244bd0b957dfc89dc9cf4":[7,0,3592,5],
 "da/da1/classspell__mage__pet__scaling.html#a56489b52592e63dd00640de388926512":[7,0,3592,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "da/dac/classspell__item__eggnog.html":[7,0,3350],
 "da/dac/classspell__item__eggnog.html#a2b22be9826db241ecf3f99ff16c309c0":[7,0,3350,2],
 "da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[7,0,3350,1],
-"da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[7,0,3350,3],
-"da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[7,0,3350,0]
+"da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[7,0,3350,3]
 };

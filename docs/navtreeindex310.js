@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca675194ae1ebcc6b507bf7f88be2f8414":[8,0,0,0,1,3,4,9,11,10,22],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c816ad9675a0e5e8696f4c8c42a65f3":[8,0,0,0,1,3,4,9,11,10,10],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[8,0,0,0,1,3,4,9,11,10,5],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca853f7b688e2cee45b9ef6290a9393a7d":[8,0,0,0,1,3,4,9,11,10,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015":[8,0,0,0,1,2,8,15,1,14],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527":[8,0,0,0,1,2,8,15,1,4],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80":[8,0,0,0,1,2,8,15,1,16],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e":[8,0,0,0,1,2,8,15,1,15],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408":[8,0,0,0,1,2,8,15,1,9]
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e":[8,0,0,0,1,2,8,15,1,15]
 };

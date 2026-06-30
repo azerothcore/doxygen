@@ -1,5 +1,6 @@
 var NAVTREEINDEX127 =
 {
+"d4/d52/classReference.html#af2e195ca96921a8914dadad14bb87375":[7,0,2506,20],
 "d4/d52/classReference.html#afeefe7d7eb64f04200ffb1adb9e54858":[7,0,2506,12],
 "d4/d52/classspell__dk__mark__of__blood.html":[7,0,2808],
 "d4/d52/classspell__dk__mark__of__blood.html#a142a1a5d27b714935aa5e05619e06ae3":[7,0,2808,2],
@@ -222,8 +223,8 @@ var NAVTREEINDEX127 =
 "d4/d5a/unionMovement_1_1FacingInfo.html#ac56b304c2c5df7ab72c6fcbd2f845b02":[5,0,21,2,3],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ad7fcfb6b1c5402a0570748d343eadfcc":[5,0,21,2,7],
 "d4/d5a/unionMovement_1_1FacingInfo.html#ad7fcfb6b1c5402a0570748d343eadfcc":[7,0,7,2,7],
-"d4/d5a/unionMovement_1_1FacingInfo.html#add6411db27c1d313d2f133adf0c35755":[7,0,7,2,2],
 "d4/d5a/unionMovement_1_1FacingInfo.html#add6411db27c1d313d2f133adf0c35755":[5,0,21,2,2],
+"d4/d5a/unionMovement_1_1FacingInfo.html#add6411db27c1d313d2f133adf0c35755":[7,0,7,2,2],
 "d4/d5b/MathUtil_8h.html":[8,0,0,0,0,15,16],
 "d4/d5b/MathUtil_8h.html#a4840fd449eb626bea901860e4c1be22a":[8,0,0,0,0,15,16,1],
 "d4/d5b/MathUtil_8h.html#a60ce9c7718ec2901f037e2368f93026d":[8,0,0,0,0,15,16,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a44c7c6bc6b454049fc2d78e0b3a60dcfae5e7dc76db7aa286357183a1b529841f":[8,0,0,0,1,3,2,5,1,13,0],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a52cfad0a0dda1619b764cb7060c3673b":[8,0,0,0,1,3,2,5,1,12],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a52cfad0a0dda1619b764cb7060c3673ba0a80478ad8e7cc8360bb5fc47d26149c":[8,0,0,0,1,3,2,5,1,12,4],
-"d4/d5b/boss__priestess__delrissa_8cpp.html#a52cfad0a0dda1619b764cb7060c3673ba0fffb15cd2629709fcf0822bb36eaff0":[8,0,0,0,1,3,2,5,1,12,2],
-"d4/d5b/boss__priestess__delrissa_8cpp.html#a52cfad0a0dda1619b764cb7060c3673ba1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,5,1,12,1]
+"d4/d5b/boss__priestess__delrissa_8cpp.html#a52cfad0a0dda1619b764cb7060c3673ba0fffb15cd2629709fcf0822bb36eaff0":[8,0,0,0,1,3,2,5,1,12,2]
 };

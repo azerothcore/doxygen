@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"db/d14/classLootTemplate.html#a6efe32c6f83184ae0bf0423a7f23118a":[7,0,1480,6],
 "db/d14/classLootTemplate.html#a73cc21e48ec8e63b2664a4ece9a3ab21":[7,0,1480,4],
 "db/d14/classLootTemplate.html#a7835ebf003ae3d665656efcc923daaeb":[7,0,1480,11],
 "db/d14/classLootTemplate.html#a90b641a69173129d7114c303cd5a31b5":[7,0,1480,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "db/d1d/boss__lavanthor_8cpp.html#ab1875d815a310eaf6e5344aba515ad4d":[8,0,0,0,1,3,5,12,3,3],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[8,0,0,0,1,3,5,12,3,2],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ee087423aeceb0f7c0aa5108e9b443b":[8,0,0,0,1,3,5,12,3,2,2],
-"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[8,0,0,0,1,3,5,12,3,2,1],
-"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[8,0,0,0,1,3,5,12,3,2,3]
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[8,0,0,0,1,3,5,12,3,2,1]
 };

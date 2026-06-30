@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a07509843bd658e3fc0b02cb817da37e9":[7,0,466,0,4],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a0976078399b2190cca25aa2ae5c3c201":[7,0,466,0,3],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a5c785c728d201a1a4f8f1e01d7000166":[7,0,466,0,6],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html#a6507c0da056a74d961d28e96120cd676":[7,0,466,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html#ac27f3335f0fadf98dbd0bedebbfd8390":[5,0,0,8,4,2],
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html#afd4b9dd6223e8bd48810b88adc24a4b7":[5,0,0,8,4,1],
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html#afd4b9dd6223e8bd48810b88adc24a4b7":[7,0,0,5,4,1],
-"d7/d93/classspell__rog__stealth__buff__tracker.html":[7,0,3980],
-"d7/d93/classspell__rog__stealth__buff__tracker.html#a3299de0703ca1e14760e9f33b124ac44":[7,0,3980,0]
+"d7/d93/classspell__rog__stealth__buff__tracker.html":[7,0,3980]
 };

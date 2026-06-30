@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[7,0,943,0],
 "d9/d55/structCreatureAIFactory.html#ab5f691811cc23c5079a7a0a7f3503638":[7,0,943,1],
 "d9/d55/structCreatureAIFactory.html#ae5e76ee1d1f8949214dd5421bf7e4deb":[7,0,943,2],
 "d9/d56/structboss__ambassador__flamelash.html":[7,0,389],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aaf4b2b8d646290a9472318e4df197fb7aa7faacab526844129afb603392e61249":[8,0,0,0,1,3,7,9,18,2],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aaf4b2b8d646290a9472318e4df197fb7acf65879f88a01f55cc06c1cd4f7387e2":[8,0,0,0,1,3,7,9,18,0],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aaf4b2b8d646290a9472318e4df197fb7af4188e02a9729c4f0cc1346b02b0974b":[8,0,0,0,1,3,7,9,18,1],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610":[8,0,0,0,1,3,7,9,24],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610a0295e21c4b955653b69f3a43c3734b1a":[8,0,0,0,1,3,7,9,24,26]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#ab88e2ce3a4528840cc00abc58af76610":[8,0,0,0,1,3,7,9,24]
 };

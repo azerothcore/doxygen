@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/dd6/DBCfmt_8h.html#aa3f276c5987647cd820d8e95f97de21f":[8,0,0,0,1,4,0,3,68],
 "d8/dd6/DBCfmt_8h.html#aa69fc930dc289421a461cbd79ffb3f5c":[8,0,0,0,1,4,0,3,14],
 "d8/dd6/DBCfmt_8h.html#aaeddb69d8a68c22caf0310a09f277958":[8,0,0,0,1,4,0,3,34],
 "d8/dd6/DBCfmt_8h.html#ab0eaceb243d0f66908b69a408e41ac3a":[8,0,0,0,1,4,0,3,109],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/dde/classspell__pursuing__spikes__aura.html#aeac7e6abc89209e14451439cdf1d416e":[7,0,3804,2],
 "d8/dde/classspell__q12227__camera__shake.html":[7,0,3873],
 "d8/dde/classspell__q12227__camera__shake.html#a11b217c0066217f2da5ff42ce35c9a0a":[7,0,3873,2],
-"d8/dde/classspell__q12227__camera__shake.html#a2d39a073c351860db735301b4cf9c79f":[7,0,3873,0],
-"d8/dde/classspell__q12227__camera__shake.html#a3674adaef23f1531af360a65c14efadd":[7,0,3873,1]
+"d8/dde/classspell__q12227__camera__shake.html#a2d39a073c351860db735301b4cf9c79f":[7,0,3873,0]
 };

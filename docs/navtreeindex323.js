@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dc/d48/classspell__deathbringer__blood__link__aura.html#acc3a0e0ae60291646514c1ae6f41f421":[7,0,2754,5],
 "dc/d48/structRangeSelector.html":[7,0,2494],
 "dc/d48/structRangeSelector.html#a4a87b90485180ede638e2c9bd2a7e9ed":[7,0,2494,0],
 "dc/d48/structRangeSelector.html#a72ad35c7de0b5d540be27d9a9d46a1d4":[7,0,2494,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7cdbc3a04015dc22deec8e4939c9ea88":[8,0,0,0,1,2,26,2,0,153],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7cf78e784a266777786ddf3c465b20a6":[8,0,0,0,1,2,26,2,0,46],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7f27fe55a854d9050a7a648a7da6365b":[8,0,0,0,1,2,26,2,0,133],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315":[8,0,0,0,1,2,26,2,0,48],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a88c7e290c15145ca28105e49688b41c5":[8,0,0,0,1,2,26,2,0,52]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315":[8,0,0,0,1,2,26,2,0,48]
 };

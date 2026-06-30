@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d41/classspell__brewfest__fill__keg.html":[7,0,2705],
 "db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[7,0,2705,1],
 "db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2705,2],
 "db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2705,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d52/classspell__ulduar__stone__grip__cast__target.html#a4606d10a2699e3fb5290cefdc0876505":[7,0,4216,1],
 "db/d52/classspell__ulduar__stone__grip__cast__target.html#aa28f3565bddf70b98c945be7a7a37bad":[7,0,4216,2],
 "db/d52/classspell__ulduar__stone__grip__cast__target.html#ae9bbe2d4ce5413f040b8b5f73f985822":[7,0,4216,3],
-"db/d53/boss__prince__taldaram_8cpp.html":[8,0,0,0,1,3,5,0,0,5],
-"db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,5,0,0,5,5]
+"db/d53/boss__prince__taldaram_8cpp.html":[8,0,0,0,1,3,5,0,0,5]
 };

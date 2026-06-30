@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7a5abf8e47dd374a31021fec3d7ad5e4":[8,0,0,0,1,3,9,0,67,39],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7bb62a89c9a4b0ef9c462557e6bebf06":[8,0,0,0,1,3,9,0,67,3],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7befee8ae802023214e825bee24cee5e":[8,0,0,0,1,3,9,0,67,44],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7df4470947211c7330dfdd78cf9d8529":[8,0,0,0,1,3,9,0,67,71],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#a0208fbae8e6c46d0671107530279c50c":[7,0,2082,0,2],
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#aa31baac9ce3c4c951f93917b88390797":[7,0,2082,0,1],
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#ad354ccbe97b12f8df1186de4bf52bfcc":[7,0,2082,0,0],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html":[8,0,0,0,1,3,2,1,1,8],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a191e88b101ff3e6db86a2b5b93feb9a5":[8,0,0,0,1,3,2,1,1,8,6]
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html":[8,0,0,0,1,3,2,1,1,8]
 };

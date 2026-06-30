@@ -1,5 +1,6 @@
 var NAVTREEINDEX22 =
 {
+"d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298ca70b9f6cabc90485c321381bc19098ab0":[8,0,0,0,1,3,2,1,3,6,7,1],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298ca90939d295f477caf29f005dca12317e3":[8,0,0,0,1,3,2,1,3,6,7,9],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d69e4500ab6d3427439a798d9b20929":[8,0,0,0,1,3,2,1,3,6,7,13],
 "d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff0875ad766fb9077acaa077e9e8ec7":[8,0,0,0,1,3,2,1,3,6,7,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX22 =
 "d0/df4/structPosition.html#a3a41e36588db20c750b48569894a2753":[7,0,2438,63],
 "d0/df4/structPosition.html#a45b83c2b057421d190c01b819b513cdc":[7,0,2438,11],
 "d0/df4/structPosition.html#a45ea0544ee99dcbab4d97090ff461322":[7,0,2438,12],
-"d0/df4/structPosition.html#a46ff0ad36c0eb1ab7051eec8925780f9":[7,0,2438,57],
-"d0/df4/structPosition.html#a47bfc5f7d4f115e748123f13fc1ad0fb":[7,0,2438,62]
+"d0/df4/structPosition.html#a46ff0ad36c0eb1ab7051eec8925780f9":[7,0,2438,57]
 };

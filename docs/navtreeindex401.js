@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab4868b631f1cfaf30faee627f7c9dbf":[8,0,0,0,1,2,16,5,0,4,6,31],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aab48a88902ec00e979f1adafa0176d8c":[8,0,0,0,1,2,16,5,0,4,6,269],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac0cc1812ae806f2e6a59d09c5531d1d":[8,0,0,0,1,2,16,5,0,4,6,292],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac106d3d2c3214466d98817e4d282d4d":[8,0,0,0,1,2,16,5,0,4,6,148],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d27/classautobroadcast__commandscript.html#af6445843506ac2b4c2b5c158480aab8c":[7,0,310,5],
 "df/d27/classnpc__magwin.html":[7,0,1964],
 "df/d27/classnpc__magwin.html#a1a45602fd312a4c436b09fb7b90ac1d4":[7,0,1964,1],
-"df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[7,0,1964,2],
-"df/d27/classspell__gen__bm__off.html":[7,0,2991]
+"df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[7,0,1964,2]
 };
