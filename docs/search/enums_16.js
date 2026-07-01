@@ -66,5 +66,6 @@ var searchData=
   ['wormholemisc_63',['WormholeMisc',['../db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36',1,'npcs_special.cpp']]],
   ['woundedbloodelf_64',['WoundedBloodElf',['../d0/d80/zone__hellfire__peninsula_8cpp.html#a1b44ea4940860848073d89e7761e5d9e',1,'zone_hellfire_peninsula.cpp']]],
   ['wrynnmisc_65',['WrynnMisc',['../d1/d2d/zone__undercity_8cpp.html#a1005cf4f760665654f78f1748c5fb00d',1,'zone_undercity.cpp']]],
-  ['wyvernstates_66',['WyvernStates',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557c',1,'OutdoorPvPNA.h']]]
+  ['wyrmrestskytalon_66',['WyrmrestSkytalon',['../db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44',1,'spell_quest.cpp']]],
+  ['wyvernstates_67',['WyvernStates',['../df/d9a/OutdoorPvPNA_8h.html#a408ccf9c409baffb9c6d03f2edde557c',1,'OutdoorPvPNA.h']]]
 ];

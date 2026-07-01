@@ -49,7 +49,9 @@ var culling__of__stratholme_8cpp =
       [ "SAY_STEPHANIE_RESPONSE_1", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0763fd117447754e9a1f240094ac476a", null ],
       [ "SAY_STEPHANIE_RESPONSE_2", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae733e1de8299a631aefe1433812b86ff", null ],
       [ "NPC_BRANDON_EIREDECK", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6315d0eaa11bb12bbb5f343e9ec2d79", null ],
-      [ "SAY_BRANDON_CROWD_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95e741e55dc2d3e7532c84e3403a326a", null ]
+      [ "SAY_BRANDON_CROWD_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95e741e55dc2d3e7532c84e3403a326a", null ],
+      [ "SAY_AGITATED_CITIZEN_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6871ecbecf4e92cdad76d3f2db58543", null ],
+      [ "SAY_AGITATED_RESIDENT_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a79c54fb04435e34215a7a7fc6ec74dba", null ]
     ] ],
     [ "NPCs", "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_RISEN_ZOMBIE", "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cadb683926e50175cbeba43215a5e558b6", null ],

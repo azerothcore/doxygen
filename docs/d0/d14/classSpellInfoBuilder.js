@@ -9,6 +9,7 @@ var classSpellInfoBuilder =
     [ "WithEffect", "d0/d14/classSpellInfoBuilder.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
     [ "WithEffectBasePoints", "d0/d14/classSpellInfoBuilder.html#a5a480961571af48bd8cd13aefb58248f", null ],
     [ "WithEffectDieSides", "d0/d14/classSpellInfoBuilder.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
+    [ "WithEffectMiscValue", "d0/d14/classSpellInfoBuilder.html#ab79a3f46af60c196780e5bec6e3ece25", null ],
     [ "WithEffectTriggerSpell", "d0/d14/classSpellInfoBuilder.html#ab7e6d316ff67f1610695b89723b7e364", null ],
     [ "WithId", "d0/d14/classSpellInfoBuilder.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
     [ "WithProcChance", "d0/d14/classSpellInfoBuilder.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],

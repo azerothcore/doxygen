@@ -4,6 +4,7 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "BreakableCCProcTest.cpp", "dd/d9c/BreakableCCProcTest_8cpp.html", "dd/d9c/BreakableCCProcTest_8cpp" ],
     [ "CascadeProcSuppressionTest.cpp", "d0/d9e/CascadeProcSuppressionTest_8cpp.html", "d0/d9e/CascadeProcSuppressionTest_8cpp" ],
     [ "ExtraAttackChainProcTest.cpp", "de/d3a/ExtraAttackChainProcTest_8cpp.html", "de/d3a/ExtraAttackChainProcTest_8cpp" ],
+    [ "FrostboltPvPTest.cpp", "d8/d71/FrostboltPvPTest_8cpp.html", "d8/d71/FrostboltPvPTest_8cpp" ],
     [ "PeriodicAbsorbStealthProcTest.cpp", "da/d99/PeriodicAbsorbStealthProcTest_8cpp.html", "da/d99/PeriodicAbsorbStealthProcTest_8cpp" ],
     [ "SpellCritDamageBonusOrderTest.cpp", "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html", "dd/d37/SpellCritDamageBonusOrderTest_8cpp" ],
     [ "SpellImmunityTest.cpp", "d5/dbf/SpellImmunityTest_8cpp.html", "d5/dbf/SpellImmunityTest_8cpp" ],
@@ -28,6 +29,8 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "SpellProcTest.cpp", "d3/d9d/SpellProcTest_8cpp.html", "d3/d9d/SpellProcTest_8cpp" ],
     [ "SpellProcTestData.h", "da/da0/SpellProcTestData_8h.html", "da/da0/SpellProcTestData_8h" ],
     [ "SpellProcTriggeredFilterTest.cpp", "d0/d0a/SpellProcTriggeredFilterTest_8cpp.html", "d0/d0a/SpellProcTriggeredFilterTest_8cpp" ],
+    [ "SpellProcUnitIntegrationTest.cpp", "d8/d61/SpellProcUnitIntegrationTest_8cpp.html", "d8/d61/SpellProcUnitIntegrationTest_8cpp" ],
     [ "SpellScriptMissileBarrageTest.cpp", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html", "d8/d5e/SpellScriptMissileBarrageTest_8cpp" ],
+    [ "VehicleScalingUlduarTest.cpp", "dc/d15/VehicleScalingUlduarTest_8cpp.html", "dc/d15/VehicleScalingUlduarTest_8cpp" ],
     [ "WildGrowthTickScalingTest.cpp", "d1/d1e/WildGrowthTickScalingTest_8cpp.html", "d1/d1e/WildGrowthTickScalingTest_8cpp" ]
 ];

@@ -489,6 +489,7 @@ var classPlayer =
     [ "GetTeleportDest", "d2/d4b/classPlayer.html#a1000f29551146ab8ee009ab3dc4f1af0", null ],
     [ "GetTemporaryUnsummonedPetNumber", "d2/d4b/classPlayer.html#a246517a0bb1f6fcc04c9fb9060586676", null ],
     [ "GetTotalBaseModValue", "d2/d4b/classPlayer.html#a3e62e26060e4edd18ba25f7e308751d2", null ],
+    [ "GetTotalItemLevel", "d2/d4b/classPlayer.html#aec91d51a6f57dd4f55e568981196ff21", null ],
     [ "GetTotalPlayedTime", "d2/d4b/classPlayer.html#a462174f8ff0ef1903ff3000bd8d2d67f", null ],
     [ "GetTradeData", "d2/d4b/classPlayer.html#a9866cfe24c371353d49f86972cfd8c1b", null ],
     [ "GetTrader", "d2/d4b/classPlayer.html#a93c18c0dd8bb463c5c16e6b7eb0ebaee", null ],

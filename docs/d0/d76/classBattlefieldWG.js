@@ -28,6 +28,7 @@ var classBattlefieldWG =
     [ "OnUnitDeath", "d0/d76/classBattlefieldWG.html#a0b1c56a753a1c94d949df07ef3efbdbf", null ],
     [ "ProcessEvent", "d0/d76/classBattlefieldWG.html#acfd810936e75b65fe3adc9f43e7eac03", null ],
     [ "PromotePlayer", "d0/d76/classBattlefieldWG.html#a3f5d76787eb35ada38ee3dff5a88384c", null ],
+    [ "RelocateDeadPlayers", "d0/d76/classBattlefieldWG.html#a6d280ad2f48c67d37950d84e8577a50d", null ],
     [ "RemoveAurasFromPlayer", "d0/d76/classBattlefieldWG.html#a1e8844071ea40342cf5427c53f16dd7d", null ],
     [ "RemoveUpdateTenacity", "d0/d76/classBattlefieldWG.html#a977fd7c320679b925828e446608dd3ee", null ],
     [ "SendInitWorldStatesTo", "d0/d76/classBattlefieldWG.html#aa026d58cc32697953609008588a53c89", null ],

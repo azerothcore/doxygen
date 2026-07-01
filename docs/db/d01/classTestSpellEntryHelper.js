@@ -8,6 +8,7 @@ var classTestSpellEntryHelper =
     [ "WithEffect", "db/d01/classTestSpellEntryHelper.html#a97111bde77ad15919433437546f141eb", null ],
     [ "WithEffectBasePoints", "db/d01/classTestSpellEntryHelper.html#ada34e949ac38e9b9e91110b1b559ab0e", null ],
     [ "WithEffectDieSides", "db/d01/classTestSpellEntryHelper.html#afe3e4ffa52e28004f851d8668cf8601f", null ],
+    [ "WithEffectMiscValue", "db/d01/classTestSpellEntryHelper.html#a27786caa787a1340251c533bed06110a", null ],
     [ "WithEffectTriggerSpell", "db/d01/classTestSpellEntryHelper.html#a10af5cfe1d3e166c38b250c5043039e7", null ],
     [ "WithId", "db/d01/classTestSpellEntryHelper.html#ac469f44922b05f410d14e2dff045b9d9", null ],
     [ "WithProcChance", "db/d01/classTestSpellEntryHelper.html#a624882a20497cf5d1fd8ed2abd9421d0", null ],

@@ -127,6 +127,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:af1ee91196bfb749605bf98f4441a03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af80c133dce034eed150593681fba594d" id="r_af80c133dce034eed150593681fba594d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d72/classHolidayDateCalculatorTest.html#af80c133dce034eed150593681fba594d">IsLeapYear</a> (int year)</td></tr>
 <tr class="separator:af80c133dce034eed150593681fba594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4587d4154c059f5e472f00f141a771a" id="r_af4587d4154c059f5e472f00f141a771a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d72/classHolidayDateCalculatorTest.html#af4587d4154c059f5e472f00f141a771a">NormalizeTm</a> (std::tm &amp;date)</td></tr>
+<tr class="separator:af4587d4154c059f5e472f00f141a771a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
@@ -210,6 +212,8 @@ Protected Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
 <div class="line"><span class="lineno">   54</span>    }</div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00059">NormalizeTm()</a>.</p>
+
 </div>
 </div>
 <a id="af1ee91196bfb749605bf98f4441a03a4" name="af1ee91196bfb749605bf98f4441a03a4"></a>
@@ -270,6 +274,69 @@ Protected Member Functions</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="af4587d4154c059f5e472f00f141a771a" name="af4587d4154c059f5e472f00f141a771a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4587d4154c059f5e472f00f141a771a">&#9670;&#160;</a></span>NormalizeTm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HolidayDateCalculatorTest::NormalizeTm </td>
+          <td>(</td>
+          <td class="paramtype">std::tm &amp;&#160;</td>
+          <td class="paramname"><em>date</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   60</span>    {</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keyword">static</span> <span class="keywordtype">int</span> <span class="keyword">const</span> table[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keyword">auto</span> daysInMonth = [&amp;](<span class="keywordtype">int</span> y, <span class="keywordtype">int</span> m)</div>
+<div class="line"><span class="lineno">   63</span>        {</div>
+<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">return</span> (m == 2 &amp;&amp; <a class="code hl_function" href="../../d5/d72/classHolidayDateCalculatorTest.html#af80c133dce034eed150593681fba594d">IsLeapYear</a>(y)) ? 29 : table[m - 1];</div>
+<div class="line"><span class="lineno">   65</span>        };</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordtype">int</span> year = date.tm_year + 1900;</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordtype">int</span> month = date.tm_mon + 1;</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordtype">int</span> day = date.tm_mday;</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">while</span> (day &gt; daysInMonth(year, month))</div>
+<div class="line"><span class="lineno">   72</span>        {</div>
+<div class="line"><span class="lineno">   73</span>            day -= daysInMonth(year, month);</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">if</span> (++month &gt; 12)</div>
+<div class="line"><span class="lineno">   75</span>            {</div>
+<div class="line"><span class="lineno">   76</span>                month = 1;</div>
+<div class="line"><span class="lineno">   77</span>                ++year;</div>
+<div class="line"><span class="lineno">   78</span>            }</div>
+<div class="line"><span class="lineno">   79</span>        }</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">while</span> (day &lt; 1)</div>
+<div class="line"><span class="lineno">   81</span>        {</div>
+<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">if</span> (--month &lt; 1)</div>
+<div class="line"><span class="lineno">   83</span>            {</div>
+<div class="line"><span class="lineno">   84</span>                month = 12;</div>
+<div class="line"><span class="lineno">   85</span>                --year;</div>
+<div class="line"><span class="lineno">   86</span>            }</div>
+<div class="line"><span class="lineno">   87</span>            day += daysInMonth(year, month);</div>
+<div class="line"><span class="lineno">   88</span>        }</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>        date.tm_year = year - 1900;</div>
+<div class="line"><span class="lineno">   91</span>        date.tm_mon = month - 1;</div>
+<div class="line"><span class="lineno">   92</span>        date.tm_mday = day;</div>
+<div class="line"><span class="lineno">   93</span>    }</div>
+<div class="ttc" id="aclassHolidayDateCalculatorTest_html_af80c133dce034eed150593681fba594d"><div class="ttname"><a href="../../d5/d72/classHolidayDateCalculatorTest.html#af80c133dce034eed150593681fba594d">HolidayDateCalculatorTest::IsLeapYear</a></div><div class="ttdeci">bool IsLeapYear(int year)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculatorTest.cpp:51</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">IsLeapYear()</a>.</p>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
 <li>azerothcore-wotlk/src/test/server/game/Events/<a class="el" href="../../">HolidayDateCalculatorTest.cpp</a></li>
 </ul>
@@ -279,7 +346,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d72/classHolidayDateCalculatorTest.html">HolidayDateCalculatorTest</a></li>
-    <li class="footer">Generated on Tue Jun 30 2026 09:26:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 1 2026 09:38:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

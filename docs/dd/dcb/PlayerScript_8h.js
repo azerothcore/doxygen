@@ -22,6 +22,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_UPDATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a61781f07e1030f0042df1878535a17a7", null ],
       [ "PLAYERHOOK_ON_MONEY_CHANGED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0d1d39456399fecbac8ca5896a5a18f3", null ],
       [ "PLAYERHOOK_ON_BEFORE_LOOT_MONEY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7858cae7c4604375c3f1f8d2997341ae", null ],
+      [ "PLAYERHOOK_ON_BEFORE_SEND_LOOT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac8aaa68fabadb2df4a011a64a4d41999", null ],
       [ "PLAYERHOOK_ON_GIVE_EXP", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4c83084594eb999fb812cd56f702b46b", null ],
       [ "PLAYERHOOK_ON_REPUTATION_CHANGE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c", null ],
       [ "PLAYERHOOK_ON_REPUTATION_RANK_CHANGE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ad88cdc5878f295b7108294711e7d1a36", null ],

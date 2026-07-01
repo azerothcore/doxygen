@@ -634,6 +634,7 @@ var hierarchy =
         [ "spell_q12851_going_bearback", "de/d12/classspell__q12851__going__bearback.html", null ],
         [ "spell_q12937_relief_for_the_fallen", "de/dfd/classspell__q12937__relief__for__the__fallen.html", null ],
         [ "spell_q12987_read_pronouncement", "d8/d81/classspell__q12987__read__pronouncement.html", null ],
+        [ "spell_q13413_wyrmrest_skytalon_ride_periodic", "d9/d2c/classspell__q13413__wyrmrest__skytalon__ride__periodic.html", null ],
         [ "spell_q2203_thaumaturgy_channel", "da/dff/classspell__q2203__thaumaturgy__channel.html", null ],
         [ "spell_q9718_crow_transform", "d4/dba/classspell__q9718__crow__transform.html", null ],
         [ "spell_quest_test_flight_charging", "dd/d99/classspell__quest__test__flight__charging.html", null ],
@@ -2659,7 +2660,9 @@ var hierarchy =
       ] ]
     ] ],
     [ "GridObject< Player >", "d5/ddf/classGridObject.html", [
-      [ "Player", "d2/d4b/classPlayer.html", null ]
+      [ "Player", "d2/d4b/classPlayer.html", [
+        [ "TestPlayer", "d6/d8b/classTestPlayer.html", null ]
+      ] ]
     ] ],
     [ "GridObjectCleaner", "dc/d12/classGridObjectCleaner.html", null ],
     [ "GridObjectLoader", "d0/d69/classGridObjectLoader.html", null ],
@@ -4726,6 +4729,7 @@ var hierarchy =
       [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", null ],
       [ "GameObjectSummonGroupTest", "de/d0c/classGameObjectSummonGroupTest.html", null ],
       [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", null ],
+      [ "IntegrationTestFixture", "d2/de4/classIntegrationTestFixture.html", null ],
       [ "MissileBarrageTest", "d9/d82/classMissileBarrageTest.html", null ],
       [ "PeriodicAbsorbStealthProcTest", "d5/ddc/classPeriodicAbsorbStealthProcTest.html", null ],
       [ "PoolQuestReloadFixTest", "d4/d2d/classPoolQuestReloadFixTest.html", null ],
@@ -4748,6 +4752,7 @@ var hierarchy =
       [ "SpellProcTest", "da/d10/classSpellProcTest.html", null ],
       [ "SpellProcTriggeredFilterTest", "d5/d10/classSpellProcTriggeredFilterTest.html", null ],
       [ "TakenAutoTriggerTest", "da/d88/classTakenAutoTriggerTest.html", null ],
+      [ "UlduarVehicleScaleTest", "df/dd5/classUlduarVehicleScaleTest.html", null ],
       [ "WildGrowthTickScalingTest", "d8/d2e/classWildGrowthTickScalingTest.html", null ]
     ] ],
     [ "TestSpellEntryHelper", "db/d01/classTestSpellEntryHelper.html", null ],

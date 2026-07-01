@@ -438,7 +438,6 @@ var classUnit =
     [ "HasInterruptRegenAura", "df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60", null ],
     [ "HasInvisibilityAura", "df/dd9/classUnit.html#ac2640adea6b2fc9d3688312e363bc6e7", null ],
     [ "HasInvisibilityDetectAura", "df/dd9/classUnit.html#aebb129d6e22e20b704e420957d23a809", null ],
-    [ "HasLeewayMovement", "df/dd9/classUnit.html#ac9e4ca75910344aa5ea480404237236e", null ],
     [ "HasMainhandWeapon", "df/dd9/classUnit.html#af8454dc2cdff77f66954f13f0e4c6c6c", null ],
     [ "hasMainhandWeaponForAttack", "df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13", null ],
     [ "HasMainhandWeaponForAttack", "df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83", null ],

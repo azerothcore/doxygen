@@ -177,15 +177,15 @@ Static Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1249</span>    {</div>
-<div class="line"><span class="lineno"> 1250</span>        std::tm t = {};</div>
-<div class="line"><span class="lineno"> 1251</span>        t.tm_year = year - 1900;</div>
-<div class="line"><span class="lineno"> 1252</span>        t.tm_mon = month - 1;</div>
-<div class="line"><span class="lineno"> 1253</span>        t.tm_mday = day;</div>
-<div class="line"><span class="lineno"> 1254</span>        t.tm_hour = hour;</div>
-<div class="line"><span class="lineno"> 1255</span>        t.tm_isdst = -1;</div>
-<div class="line"><span class="lineno"> 1256</span>        <span class="keywordflow">return</span> mktime(&amp;t);</div>
-<div class="line"><span class="lineno"> 1257</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1288</span>    {</div>
+<div class="line"><span class="lineno"> 1289</span>        std::tm t = {};</div>
+<div class="line"><span class="lineno"> 1290</span>        t.tm_year = year - 1900;</div>
+<div class="line"><span class="lineno"> 1291</span>        t.tm_mon = month - 1;</div>
+<div class="line"><span class="lineno"> 1292</span>        t.tm_mday = day;</div>
+<div class="line"><span class="lineno"> 1293</span>        t.tm_hour = hour;</div>
+<div class="line"><span class="lineno"> 1294</span>        t.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1295</span>        <span class="keywordflow">return</span> mktime(&amp;t);</div>
+<div class="line"><span class="lineno"> 1296</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -252,26 +252,26 @@ Static Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1261</span>    {</div>
-<div class="line"><span class="lineno"> 1262</span>        std::tm t1 = {};</div>
-<div class="line"><span class="lineno"> 1263</span>        t1.tm_year = y1 - 1900;</div>
-<div class="line"><span class="lineno"> 1264</span>        t1.tm_mon = m1 - 1;</div>
-<div class="line"><span class="lineno"> 1265</span>        t1.tm_mday = d1;</div>
-<div class="line"><span class="lineno"> 1266</span>        t1.tm_isdst = -1;</div>
-<div class="line"><span class="lineno"> 1267</span>        mktime(&amp;t1);</div>
-<div class="line"><span class="lineno"> 1268</span>        dates[0] = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t1);</div>
-<div class="line"><span class="lineno"> 1269</span> </div>
-<div class="line"><span class="lineno"> 1270</span>        std::tm t2 = {};</div>
-<div class="line"><span class="lineno"> 1271</span>        t2.tm_year = y2 - 1900;</div>
-<div class="line"><span class="lineno"> 1272</span>        t2.tm_mon = m2 - 1;</div>
-<div class="line"><span class="lineno"> 1273</span>        t2.tm_mday = d2;</div>
-<div class="line"><span class="lineno"> 1274</span>        t2.tm_isdst = -1;</div>
-<div class="line"><span class="lineno"> 1275</span>        mktime(&amp;t2);</div>
-<div class="line"><span class="lineno"> 1276</span>        dates[1] = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t2);</div>
-<div class="line"><span class="lineno"> 1277</span> </div>
-<div class="line"><span class="lineno"> 1278</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 2; i &lt; 26; ++i)</div>
-<div class="line"><span class="lineno"> 1279</span>            dates[i] = 0;</div>
-<div class="line"><span class="lineno"> 1280</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1300</span>    {</div>
+<div class="line"><span class="lineno"> 1301</span>        std::tm t1 = {};</div>
+<div class="line"><span class="lineno"> 1302</span>        t1.tm_year = y1 - 1900;</div>
+<div class="line"><span class="lineno"> 1303</span>        t1.tm_mon = m1 - 1;</div>
+<div class="line"><span class="lineno"> 1304</span>        t1.tm_mday = d1;</div>
+<div class="line"><span class="lineno"> 1305</span>        t1.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1306</span>        mktime(&amp;t1);</div>
+<div class="line"><span class="lineno"> 1307</span>        dates[0] = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t1);</div>
+<div class="line"><span class="lineno"> 1308</span> </div>
+<div class="line"><span class="lineno"> 1309</span>        std::tm t2 = {};</div>
+<div class="line"><span class="lineno"> 1310</span>        t2.tm_year = y2 - 1900;</div>
+<div class="line"><span class="lineno"> 1311</span>        t2.tm_mon = m2 - 1;</div>
+<div class="line"><span class="lineno"> 1312</span>        t2.tm_mday = d2;</div>
+<div class="line"><span class="lineno"> 1313</span>        t2.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1314</span>        mktime(&amp;t2);</div>
+<div class="line"><span class="lineno"> 1315</span>        dates[1] = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t2);</div>
+<div class="line"><span class="lineno"> 1316</span> </div>
+<div class="line"><span class="lineno"> 1317</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 2; i &lt; 26; ++i)</div>
+<div class="line"><span class="lineno"> 1318</span>            dates[i] = 0;</div>
+<div class="line"><span class="lineno"> 1319</span>    }</div>
 <div class="ttc" id="aclassHolidayDateCalculator_html_ab39f6c1b37867d57464a6243c14e3610"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a></div><div class="ttdeci">static uint32_t PackDate(const std::tm &amp;date)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:575</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00575">HolidayDateCalculator::PackDate()</a>.</p>
@@ -287,7 +287,7 @@ Static Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d50/classFindStartTimeForStageTest.html">FindStartTimeForStageTest</a></li>
-    <li class="footer">Generated on Tue Jun 30 2026 09:26:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 1 2026 09:38:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

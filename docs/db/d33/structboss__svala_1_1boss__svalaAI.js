@@ -13,6 +13,7 @@ var structboss__svala_1_1boss__svalaAI =
     [ "events", "db/d33/structboss__svala_1_1boss__svalaAI.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
     [ "events2", "db/d33/structboss__svala_1_1boss__svalaAI.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
     [ "instance", "db/d33/structboss__svala_1_1boss__svalaAI.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
+    [ "lastBrazierGUID", "db/d33/structboss__svala_1_1boss__svalaAI.html#a934b1049b0a26574213379b994c9f42d", null ],
     [ "Started", "db/d33/structboss__svala_1_1boss__svalaAI.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
     [ "summons", "db/d33/structboss__svala_1_1boss__svalaAI.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
 ];

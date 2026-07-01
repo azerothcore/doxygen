@@ -75,6 +75,7 @@ var spell__quest_8cpp =
     [ "spell_q4735_collect_rookery_egg", "d1/db7/classspell__q4735__collect__rookery__egg.html", "d1/db7/classspell__q4735__collect__rookery__egg" ],
     [ "spell_q10651_q10692_book_of_fel_names", "d2/ded/classspell__q10651__q10692__book__of__fel__names.html", "d2/ded/classspell__q10651__q10692__book__of__fel__names" ],
     [ "spell_q9847_a_spirit_ally", "d3/dbb/classspell__q9847__a__spirit__ally.html", "d3/dbb/classspell__q9847__a__spirit__ally" ],
+    [ "spell_q13413_wyrmrest_skytalon_ride_periodic", "d9/d2c/classspell__q13413__wyrmrest__skytalon__ride__periodic.html", "d9/d2c/classspell__q13413__wyrmrest__skytalon__ride__periodic" ],
     [ "QUEST_CROW_TRANSFORM", "db/dfb/spell__quest_8cpp.html#ae6cbc423a671eda57d50f99d2effdb03", null ],
     [ "ACleansingSong", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2f", [
       [ "SPELL_SUMMON_SPIRIT_ATAH", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2faedbe9cc518744f7b9da5346740b85098", null ],
@@ -311,6 +312,9 @@ var spell__quest_8cpp =
       [ "SPELL_MALE_DISGUISE", "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa02a9330a59bb21bcb5a9b07acbfeadcd", null ],
       [ "SPELL_FEMALE_DISGUISE", "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa972f9b13a33886bee9c952216c9b7acf", null ],
       [ "SPELL_GENERIC_DISGUISE", "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa10ecfcbeb3286a3292832d54efaa59fa", null ]
+    ] ],
+    [ "WyrmrestSkytalon", "db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44", [
+      [ "NPC_WYRMREST_SKYTALON", "db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44af7b8a3b895235f57b62709d3ce2215a4", null ]
     ] ],
     [ "AddSC_quest_spell_scripts", "db/dfb/spell__quest_8cpp.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
     [ "DESPAWN_TIME", "db/dfb/spell__quest_8cpp.html#a625d1892e04f12a55350f01fc8abb07d", null ],

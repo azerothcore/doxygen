@@ -41,6 +41,7 @@ var classPlayerScript =
     [ "OnPlayerBeforeOpenItem", "d0/d5b/classPlayerScript.html#a9f48c69c4175cce68f2510c7905f6076", null ],
     [ "OnPlayerBeforeQuestComplete", "d0/d5b/classPlayerScript.html#a8c8e54d47a69b730d31778074d55c8d0", null ],
     [ "OnPlayerBeforeSendChatMessage", "d0/d5b/classPlayerScript.html#ac89251dbe51ea1848084b500405ae951", null ],
+    [ "OnPlayerBeforeSendLoot", "d0/d5b/classPlayerScript.html#ae5777fe51c88e25355459486a4dc3944", null ],
     [ "OnPlayerBeforeStoreOrEquipNewItem", "d0/d5b/classPlayerScript.html#aca95b71de2d0f06122dcd7eb184b41fa", null ],
     [ "OnPlayerBeforeTeleport", "d0/d5b/classPlayerScript.html#a822b10b6aa750f2a449c80dccf27998e", null ],
     [ "OnPlayerBeforeTempSummonInitStats", "d0/d5b/classPlayerScript.html#a1eeaaf871d40e940fab5cb646cbdf6e7", null ],
