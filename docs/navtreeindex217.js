@@ -1,6 +1,5 @@
 var NAVTREEINDEX217 =
 {
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1a30e0bc88915dbd96e58ef959cbb8b3":[8,0,0,0,1,2,16,10,6,5,9],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1f8c0adcb3099c2e5cc6b69757fc37f0":[8,0,0,0,1,2,16,10,6,5,20],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a29b833bdfa06ddcecd79767dfd521f8f":[8,0,0,0,1,2,16,10,6,5,18],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a304c2b97e3e8fd1c42b4d999fa4b709a":[8,0,0,0,1,2,16,10,6,5,22],
@@ -249,5 +248,6 @@ var NAVTREEINDEX217 =
 "d7/df7/classspell__dk__aotd__taunt.html#aea49df3f6b93223ed72c3a9875232b74":[7,0,2776,1],
 "d7/df8/Types_8h.html":[8,0,0,0,0,15,41],
 "d7/df8/Types_8h.html#a63263799191a40005e2214b3faf336d0":[8,0,0,0,0,15,41,4],
-"d7/df8/Types_8h.html#a7d2aaeefa69dc846a6b27937f8213fab":[8,0,0,0,0,15,41,3]
+"d7/df8/Types_8h.html#a7d2aaeefa69dc846a6b27937f8213fab":[8,0,0,0,0,15,41,3],
+"d7/df8/classnpc__icc__skybreaker__luminary.html":[7,0,1893]
 };

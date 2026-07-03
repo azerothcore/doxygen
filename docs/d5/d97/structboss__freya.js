@@ -7,7 +7,6 @@ var structboss__freya =
     [ "GetData", "d5/d97/structboss__freya.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
     [ "JustEngagedWith", "d5/d97/structboss__freya.html#a85a00b03079df9ce9b8fa035820c959b", null ],
     [ "JustReachedHome", "d5/d97/structboss__freya.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "JustSummoned", "d5/d97/structboss__freya.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
     [ "KilledUnit", "d5/d97/structboss__freya.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
     [ "MovementInform", "d5/d97/structboss__freya.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
     [ "Reset", "d5/d97/structboss__freya.html#abadf6447f33116039e82065ce44f4322", null ],

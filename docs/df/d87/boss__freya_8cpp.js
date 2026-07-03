@@ -11,6 +11,7 @@ var boss__freya_8cpp =
     [ "boss_freya_nature_bomb", "d7/d10/structboss__freya__nature__bomb.html", "d7/d10/structboss__freya__nature__bomb" ],
     [ "achievement_freya_getting_back_to_nature", "dc/d13/classachievement__freya__getting__back__to__nature.html", "dc/d13/classachievement__freya__getting__back__to__nature" ],
     [ "achievement_freya_knock_on_wood", "d3/dec/classachievement__freya__knock__on__wood.html", "d3/dec/classachievement__freya__knock__on__wood" ],
+    [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", "db/d9a/classspell__freya__unstable__sun__beam" ],
     [ "FreyaEvents", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289", [
       [ "EVENT_FREYA_ADDS_SPAM", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89", null ],
       [ "EVENT_FREYA_LIFEBINDER", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612", null ],
@@ -68,6 +69,7 @@ var boss__freya_8cpp =
       [ "SPELL_GROUND_TREMOR_FREYA", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fafe27dc736a62415cff8ba5fd33522dfa", null ],
       [ "SPELL_IRON_ROOTS_FREYA", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa38527fd67d11924c98159bfa0376ac24", null ],
       [ "SPELL_IRON_ROOTS_FREYA_DAMAGE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd", null ],
+      [ "SPELL_UNSTABLE_SUN_BEAM_FREYA", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6f75aeca840902bba9038f262ed41fbe", null ],
       [ "SPELL_UNSTABLE_SUN_FREYA_DAMAGE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa0830984dda504df0400851f620495b80", null ],
       [ "SPELL_UNSTABLE_SUN_VISUAL", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa32e6575cbf2a6f4bfb46f03fa49b2221", null ],
       [ "SPELL_FREYA_DUMMY_GREEN", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faffdfbb86450de2cf3551bbf953658419", null ],

@@ -1,6 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d8/d74/classWorldSession.html#ab9d830452b763d73e47a99c447e3c41d":[4,1,19,325],
 "d8/d74/classWorldSession.html#aba0d5c49bc78f449da94cca0dee6e685":[4,1,19,24],
 "d8/d74/classWorldSession.html#aba6d26a07a49f74c1c15ad91df4a8561":[4,1,19,477],
 "d8/d74/classWorldSession.html#abb51ac5b8c3910c53d21fb22f7b95557":[4,1,19,145],
@@ -220,11 +219,11 @@ var NAVTREEINDEX228 =
 "d8/d77/classachievement__save__the__day.html":[7,0,91],
 "d8/d77/classachievement__save__the__day.html#a193e4060b6634a87b499b7c8a5e287a1":[7,0,91,0],
 "d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[7,0,91,1],
-"d8/d77/classspell__item__hourglass__sand.html":[7,0,3381],
-"d8/d77/classspell__item__hourglass__sand.html#a334563491c3cbb9daa9d97dad738e9e5":[7,0,3381,0],
-"d8/d77/classspell__item__hourglass__sand.html#a69fe453f3c6764c3977c539d5fc71049":[7,0,3381,1],
-"d8/d77/classspell__item__hourglass__sand.html#af0ab473a4ec7f1eebb70d0f2344de8ca":[7,0,3381,3],
-"d8/d77/classspell__item__hourglass__sand.html#af81469f371224a3180d73b3cf8cf001a":[7,0,3381,2],
+"d8/d77/classspell__item__hourglass__sand.html":[7,0,3382],
+"d8/d77/classspell__item__hourglass__sand.html#a334563491c3cbb9daa9d97dad738e9e5":[7,0,3382,0],
+"d8/d77/classspell__item__hourglass__sand.html#a69fe453f3c6764c3977c539d5fc71049":[7,0,3382,1],
+"d8/d77/classspell__item__hourglass__sand.html#af0ab473a4ec7f1eebb70d0f2344de8ca":[7,0,3382,3],
+"d8/d77/classspell__item__hourglass__sand.html#af81469f371224a3180d73b3cf8cf001a":[7,0,3382,2],
 "d8/d78/classDeathEvent.html":[7,0,990],
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,990,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,990,0],
@@ -233,8 +232,8 @@ var NAVTREEINDEX228 =
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1609],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1609,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1609,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX228 =
 "d8/d79/classgo__jotunheim__cage.html#a28c9312de97a822e34f05c7358b42df4":[7,0,1179,0],
 "d8/d79/classgo__jotunheim__cage.html#a5598fcb4df9c7d0a610ea064af8095d3":[7,0,1179,1],
 "d8/d7b/TransportScript_8cpp.html":[8,0,0,0,1,2,38,0,84],
-"d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[8,0,0,0,1,2,38,0,84,0]
+"d8/d7b/TransportScript_8cpp.html#ac3a26b1245888c6c41ca2359008afe20":[8,0,0,0,1,2,38,0,84,0],
+"d8/d7b/classRotateMovementGenerator.html":[7,0,2526]
 };

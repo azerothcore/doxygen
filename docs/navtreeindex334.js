@@ -1,5 +1,8 @@
 var NAVTREEINDEX334 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[8,0,0,0,1,3,2,17,29],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa67242f93d926d1bc712d8bfd0cd779a":[8,0,0,0,1,3,2,17,32],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa6b1d1380186602b7ff6054055bce67f":[8,0,0,0,1,3,2,17,96],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa6bd449c9eeb3b1873d3563b6250e0a6":[8,0,0,0,1,3,2,17,80],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa8221a45c0b038126f83d9decb794dbe":[8,0,0,0,1,3,2,17,102],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa903bbca1cf3f36df966a87d32b80409":[8,0,0,0,1,3,2,17,37],
@@ -55,11 +58,11 @@ var NAVTREEINDEX334 =
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[8,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[8,0,0,0,1,3,3,0,10,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78":[8,0,0,0,1,3,3,0,10,2],
-"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,3956],
-"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,3956,2],
-"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,3956,3],
-"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,3956,1],
-"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,3956,0],
+"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,3957],
+"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,3957,2],
+"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,3957,3],
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,3957,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,3957,0],
 "dc/dde/QuestPackets_8h.html":[8,0,0,0,1,2,39,0,32],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[8,0,0,0,1,3,7,0,0,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[8,0,0,0,1,3,7,0,0,2,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX334 =
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368":[8,0,0,0,1,3,2,12,6,10,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b":[8,0,0,0,1,3,2,12,6,10,0],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e":[8,0,0,0,1,3,2,12,6,10,2],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,12,6,12],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[8,0,0,0,1,3,2,12,6,8],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[8,0,0,0,1,3,2,12,6,8,1],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,2,12,6,8,0]
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,12,6,12]
 };

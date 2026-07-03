@@ -1,5 +1,8 @@
 var NAVTREEINDEX307 =
 {
+"db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c":[7,0,939,187],
+"db/dd5/classCreature.html#a4bbc89c54481bce5d60cbad257d2f487":[7,0,939,11],
+"db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f":[7,0,939,46],
 "db/dd5/classCreature.html#a4d9a3c81e501b99b9a902440ee02926b":[7,0,939,163],
 "db/dd5/classCreature.html#a4e88b22d5cee056c894f8c1bf9e39a2f":[7,0,939,280],
 "db/dd5/classCreature.html#a4f6d3cf41d5f547bbcc37034e16bfb94":[7,0,939,123],
@@ -232,10 +235,10 @@ var NAVTREEINDEX307 =
 "db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[7,0,939,246],
 "db/dd5/classCreature.html#afdc6255d8e9d59b0e2be97d471f7b0d0":[7,0,939,167],
 "db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[7,0,939,308],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3551],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3551,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3551,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3551,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3552],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3552,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3552,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3552,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[7,0,1680,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[7,0,1680,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[7,0,1680,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX307 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[7,0,1680,0,3],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[7,0,1680,0,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[7,0,1680,0,5],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[7,0,1680,0,7],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1680,0,6],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1680,0,14],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1680,0,13]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[7,0,1680,0,7]
 };

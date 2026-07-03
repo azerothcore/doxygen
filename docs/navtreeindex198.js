@@ -1,6 +1,5 @@
 var NAVTREEINDEX198 =
 {
-"d7/d46/classAuraEffect.html#a5b0a6694f62bf72c41a1f461f9894581":[7,0,293,6],
 "d7/d46/classAuraEffect.html#a5d248ef37c73049cf4df98b6fc1008fe":[7,0,293,8],
 "d7/d46/classAuraEffect.html#a5e6d66aa4247cf56b528a1fe2c2eae37":[7,0,293,101],
 "d7/d46/classAuraEffect.html#a5fa9f61c77274c75e6f3d8222142ab4e":[7,0,293,234],
@@ -188,14 +187,14 @@ var NAVTREEINDEX198 =
 "d7/d48/group__Acored.html#gad82d96de9a84a7d0325afcd3121344a4":[4,0,15],
 "d7/d48/group__Acored.html#gae4bea4699ff716ee22295d12bc9f1b9b":[4,0,8],
 "d7/d48/group__Acored.html#gaf86bc63df807e80b7a14688e48340fea":[4,0,7],
-"d7/d48/structTradeStatusInfo.html":[7,0,4506],
-"d7/d48/structTradeStatusInfo.html#a10427d72e5bafd643648638a1fe7e854":[7,0,4506,1],
-"d7/d48/structTradeStatusInfo.html#a265172d89cdc4c6fc4df20ad5df45c64":[7,0,4506,5],
-"d7/d48/structTradeStatusInfo.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a":[7,0,4506,4],
-"d7/d48/structTradeStatusInfo.html#ac90552353a0fb8ff175fec99bf573981":[7,0,4506,3],
-"d7/d48/structTradeStatusInfo.html#ad6b7e2f6d974b06388d1f30f82d207e8":[7,0,4506,2],
-"d7/d48/structTradeStatusInfo.html#ae0dff14036e00d3c62c181fcc306faf2":[7,0,4506,0],
-"d7/d48/structTradeStatusInfo.html#afc3926b9ff7dda3eb3505b225b74409d":[7,0,4506,6],
+"d7/d48/structTradeStatusInfo.html":[7,0,4507],
+"d7/d48/structTradeStatusInfo.html#a10427d72e5bafd643648638a1fe7e854":[7,0,4507,1],
+"d7/d48/structTradeStatusInfo.html#a265172d89cdc4c6fc4df20ad5df45c64":[7,0,4507,5],
+"d7/d48/structTradeStatusInfo.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a":[7,0,4507,4],
+"d7/d48/structTradeStatusInfo.html#ac90552353a0fb8ff175fec99bf573981":[7,0,4507,3],
+"d7/d48/structTradeStatusInfo.html#ad6b7e2f6d974b06388d1f30f82d207e8":[7,0,4507,2],
+"d7/d48/structTradeStatusInfo.html#ae0dff14036e00d3c62c181fcc306faf2":[7,0,4507,0],
+"d7/d48/structTradeStatusInfo.html#afc3926b9ff7dda3eb3505b225b74409d":[7,0,4507,6],
 "d7/d48/structboss__vexallus.html":[7,0,782],
 "d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354":[7,0,782,7],
 "d7/d48/structboss__vexallus.html#a48d44cc3ed6f0e7f97f76cd325e5c48e":[7,0,782,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX198 =
 "d7/d4b/structboss__kormok.html#a2bacfd366d084cae31b8cc689fb26d0b":[7,0,595,0],
 "d7/d4b/structboss__kormok.html#a49ba1031e5639c3d8fdaf9ae9884a038":[7,0,595,5],
 "d7/d4b/structboss__kormok.html#a540ef7a05a503a989f93d4b53daacb4b":[7,0,595,10],
-"d7/d4b/structboss__kormok.html#a641bd06b5da44e04534150fc1fc6f9e0":[7,0,595,2]
+"d7/d4b/structboss__kormok.html#a641bd06b5da44e04534150fc1fc6f9e0":[7,0,595,2],
+"d7/d4b/structboss__kormok.html#a6f23b4b006de4b8b5fda6e0203e2f8a7":[7,0,595,7]
 };

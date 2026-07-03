@@ -1,6 +1,5 @@
 var NAVTREEINDEX266 =
 {
-"da/d4c/violet__hold_8h.html#a0699cc64e4985a12f33575524379d1a2":[8,0,0,0,1,3,5,12,9,22],
 "da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec":[8,0,0,0,1,3,5,12,9,30],
 "da/d4c/violet__hold_8h.html#a0bb7365a02c1bb98957103454ceb870f":[8,0,0,0,1,3,5,12,9,33],
 "da/d4c/violet__hold_8h.html#a0e79b9b50d9f175b1097eb1edcd0055e":[8,0,0,0,1,3,5,12,9,16],
@@ -188,11 +187,11 @@ var NAVTREEINDEX266 =
 "da/d50/structnpc__king__varian__wrynn.html#a3f461d73130945e2287c5ea46b8bdce9":[7,0,1934,2],
 "da/d50/structnpc__king__varian__wrynn.html#ab62609f2e468d1d173d9c9ea4c05d164":[7,0,1934,0],
 "da/d50/structnpc__king__varian__wrynn.html#ae1b1aca3df1398a4f86f7b1deba5fd14":[7,0,1934,1],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html":[7,0,3027],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2120cecbca61e4c7380892fe8d43772a":[7,0,3027,2],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2854357f92b1faac6e7840f1576138e0":[7,0,3027,0],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a7960ca4deb4ff61d04ea7fe7ec0f0471":[7,0,3027,1],
-"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a98c71c0d4c4b0503e66ed2033946cb2e":[7,0,3027,3],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html":[7,0,3028],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2120cecbca61e4c7380892fe8d43772a":[7,0,3028,2],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2854357f92b1faac6e7840f1576138e0":[7,0,3028,0],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a7960ca4deb4ff61d04ea7fe7ec0f0471":[7,0,3028,1],
+"da/d51/classspell__gen__feign__death__no__dyn__flag.html#a98c71c0d4c4b0503e66ed2033946cb2e":[7,0,3028,3],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html":[7,0,1671,0],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a095587a925d6054da2e2fdc9de2b415e":[7,0,1671,0,7],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a24293b807b8999acbb6fbe59e3c06232":[7,0,1671,0,6],
@@ -245,9 +244,10 @@ var NAVTREEINDEX266 =
 "da/d53/classnpc__tooga.html#a6ea6a9e4dea1ab98475dae13680ceeaf":[7,0,2209,1],
 "da/d53/classnpc__tooga.html#a7847577589f3bdc1c3ea5ee0f1f9232f":[7,0,2209,2],
 "da/d53/classnpc__tooga.html#ac0fdcb3959c239d614b1cc7c66623c5d":[7,0,2209,3],
-"da/d53/classspell__q12237__drop__off__villager.html":[7,0,3876],
-"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[7,0,3876,2],
-"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[7,0,3876,0],
-"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[7,0,3876,1],
-"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html":[7,0,513,0]
+"da/d53/classspell__q12237__drop__off__villager.html":[7,0,3877],
+"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[7,0,3877,2],
+"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[7,0,3877,0],
+"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[7,0,3877,1],
+"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html":[7,0,513,0],
+"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a22f6ff041e61c94df73a938162fa26f5":[7,0,513,0,1]
 };

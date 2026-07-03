@@ -1,6 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d8/dff/structCalendarEvent.html#a10b124299312e8295b6fa870b5ddbced":[7,0,849,16],
 "d8/dff/structCalendarEvent.html#a15ff1b83018d11f0a57ee7f0be45f35e":[7,0,849,0],
 "d8/dff/structCalendarEvent.html#a1e9299779adc7abf42a01eb1c403aa16":[7,0,849,6],
 "d8/dff/structCalendarEvent.html#a28266831da31a256773a9f39c0e27897":[7,0,849,26],
@@ -46,14 +45,14 @@ var NAVTREEINDEX239 =
 "d9/d01/TargetedMovementGenerator_8h.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3":[8,0,0,0,1,2,31,0,19,2,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[7,0,0,4,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[5,0,0,7,8],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,0,7,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[7,0,0,4,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,0,7,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[7,0,0,4,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,0,7,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[7,0,0,4,8,1],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[7,0,0,4,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[7,0,0,4,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,0,7,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[7,0,1259],
@@ -249,5 +248,6 @@ var NAVTREEINDEX239 =
 "d9/d03/structModelHeader.html#a121bd59435d56149430da784aedd8bcb":[7,0,1548,50],
 "d9/d03/structModelHeader.html#a152d503b64c3974ee6a9ba04cf124957":[7,0,1548,27],
 "d9/d03/structModelHeader.html#a1655b7fea9d25359f6f563118e737f1e":[7,0,1548,7],
-"d9/d03/structModelHeader.html#a1766f3d003e67e655168a076a5ffb35d":[7,0,1548,33]
+"d9/d03/structModelHeader.html#a1766f3d003e67e655168a076a5ffb35d":[7,0,1548,33],
+"d9/d03/structModelHeader.html#a19f93002ea70b0924ed3003bf93674e6":[7,0,1548,11]
 };

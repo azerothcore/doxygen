@@ -1,12 +1,15 @@
 var NAVTREEINDEX360 =
 {
+"de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[7,0,2628,3],
+"de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[7,0,2628,2],
+"de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[7,0,2628,1],
 "de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[7,0,2628,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html":[7,0,3594],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[7,0,3594,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3594,4],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[7,0,3594,2],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[7,0,3594,1],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[7,0,3594,3],
+"de/d09/classspell__mage__polymorph__cast__visual.html":[7,0,3595],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[7,0,3595,0],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3595,4],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[7,0,3595,2],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[7,0,3595,1],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[7,0,3595,3],
 "de/d09/maraudon_8h.html":[8,0,0,0,1,3,4,3,1],
 "de/d09/maraudon_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,3,1,0],
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,4,3,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX360 =
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a3bd68e4cf36d662d1b631c96ed214af2":[8,0,0,0,1,4,7,53,4],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a41cfafcdb855fcbaf1f4fed3077a156c":[8,0,0,0,1,4,7,53,8],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6030a0360569b37805120507c10ffa94":[8,0,0,0,1,4,7,53,7],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6bc506f5e0886c6933d90cd052ec086c":[8,0,0,0,1,4,7,53,3],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a7b75711fb68e1b84be230ae34e960fcc":[8,0,0,0,1,4,7,53,9],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ab01d7f8fe38793b27f5350a8e132ad77":[8,0,0,0,1,4,7,53,1],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ab59ff205c47c898cee76f1c3163f3d7a":[8,0,0,0,1,4,7,53,5]
+"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6bc506f5e0886c6933d90cd052ec086c":[8,0,0,0,1,4,7,53,3]
 };

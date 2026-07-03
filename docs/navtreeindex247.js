@@ -1,6 +1,5 @@
 var NAVTREEINDEX247 =
 {
-"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aec1a77f352e3d4fff568a17e48e14701":[8,0,0,0,1,3,5,6,13,5,156],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2aed8a7b5ab8aeb10fd0acadfc3113cab1":[8,0,0,0,1,3,5,6,13,5,135],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af3618fbd043a6a73ac2224184ec94979":[8,0,0,0,1,3,5,6,13,5,104],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af4a20369e2d64f239386ddfac38c9dde":[8,0,0,0,1,3,5,6,13,5,132],
@@ -243,11 +242,12 @@ var NAVTREEINDEX247 =
 "d9/d6b/structCharacterRenameInfo.html#a46a89b6904e59f39f4e1460a9bb45765":[4,1,15,1],
 "d9/d6b/structCharacterRenameInfo.html#a4e747a555bde74f97a5fc78287e5e29d":[4,1,15,2],
 "d9/d6b/structCharacterRenameInfo.html#a65b5c30bf4f5f118a199e378d903aaf6":[4,1,15,0],
-"d9/d6c/classspell__item__unsated__craving.html":[7,0,3471],
-"d9/d6c/classspell__item__unsated__craving.html#a50348fd27947f67df03bf4ddbec89cca":[7,0,3471,3],
-"d9/d6c/classspell__item__unsated__craving.html#a8b3f8cf17dda2322d0e9f8f4211cbd20":[7,0,3471,0],
-"d9/d6c/classspell__item__unsated__craving.html#aa5f4fcd1b9b710e2931460207cfc6dea":[7,0,3471,2],
-"d9/d6c/classspell__item__unsated__craving.html#aaa14b34ac54b4caee76ff72d07dd5c2d":[7,0,3471,4],
-"d9/d6c/classspell__item__unsated__craving.html#ae034bd626880858c9701ed963de993c9":[7,0,3471,1],
-"d9/d6d/Strand_8h.html":[8,0,0,0,0,0,6]
+"d9/d6c/classspell__item__unsated__craving.html":[7,0,3472],
+"d9/d6c/classspell__item__unsated__craving.html#a50348fd27947f67df03bf4ddbec89cca":[7,0,3472,3],
+"d9/d6c/classspell__item__unsated__craving.html#a8b3f8cf17dda2322d0e9f8f4211cbd20":[7,0,3472,0],
+"d9/d6c/classspell__item__unsated__craving.html#aa5f4fcd1b9b710e2931460207cfc6dea":[7,0,3472,2],
+"d9/d6c/classspell__item__unsated__craving.html#aaa14b34ac54b4caee76ff72d07dd5c2d":[7,0,3472,4],
+"d9/d6c/classspell__item__unsated__craving.html#ae034bd626880858c9701ed963de993c9":[7,0,3472,1],
+"d9/d6d/Strand_8h.html":[8,0,0,0,0,0,6],
+"d9/d6d/structboss__vaelastrasz.html":[7,0,771]
 };

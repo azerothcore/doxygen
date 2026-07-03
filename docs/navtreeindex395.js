@@ -1,5 +1,8 @@
 var NAVTREEINDEX395 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b":[8,0,0,0,1,3,5,6,9,41,3],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caa0cd634c01d3c8d5ecf6339dcbe4ac53":[8,0,0,0,1,3,5,6,9,41,15],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caaedd791f2995c3a06c0c25be75c8522a":[8,0,0,0,1,3,5,6,9,41,32],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cabd5eef3f1b74c3c6b27720c8b9dadb6b":[8,0,0,0,1,3,5,6,9,41,13],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cac85d6f8366ed996b0a55e4c661aacd41":[8,0,0,0,1,3,5,6,9,41,6],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf39450cf769b7beb843db9d1d73f62":[8,0,0,0,1,3,5,6,9,41,31],
@@ -135,11 +138,11 @@ var NAVTREEINDEX395 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[8,0,0,0,2,2,0,10,18,9],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,10,18,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,10,18,13],
-"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3732],
-"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3732,3],
-"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3732,0],
-"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3732,2],
-"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3732,1],
+"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3733],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3733,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3733,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3733,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3733,1],
 "de/dea/structnpc__corrupted__totem.html":[7,0,1728],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[7,0,1728,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[7,0,1728,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX395 =
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a216f8b75707e25698619786b87500461":[7,0,2118,0,0],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a2844efbb2f213401f83ab042f974974a":[7,0,2118,0,2],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a2991ad4ecd6b236d7002c3dddd540b00":[7,0,2118,0,5],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a342c8b5bd49e8cfd94c41a58159e4f5c":[7,0,2118,0,6],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a4fb20172c48257aafe284b3934a9c357":[7,0,2118,0,1],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a5ed567ac16bef8f53a66a12fbaf4573e":[7,0,2118,0,16],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a7a037981d3d2a37abf0d3995283ac218":[7,0,2118,0,17]
+"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a342c8b5bd49e8cfd94c41a58159e4f5c":[7,0,2118,0,6]
 };

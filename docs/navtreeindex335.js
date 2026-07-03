@@ -1,5 +1,8 @@
 var NAVTREEINDEX335 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[8,0,0,0,1,3,2,12,6,8],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[8,0,0,0,1,3,2,12,6,8,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,2,12,6,8,0],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,2,12,6,8,2],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,12,6,13],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[8,0,0,0,1,3,2,12,6,7],
@@ -25,11 +28,11 @@ var NAVTREEINDEX335 =
 "dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[7,0,2856,0],
 "dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[7,0,2856,1],
 "dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[7,0,2856,2],
-"dc/de3/classspell__pal__beacon__of__light.html":[7,0,3697],
-"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[7,0,3697,3],
-"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[7,0,3697,0],
-"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[7,0,3697,1],
-"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[7,0,3697,2],
+"dc/de3/classspell__pal__beacon__of__light.html":[7,0,3698],
+"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[7,0,3698,3],
+"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[7,0,3698,0],
+"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[7,0,3698,1],
+"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[7,0,3698,2],
 "dc/de3/structboss__isalien.html":[7,0,567],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[7,0,567,5],
 "dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[7,0,567,2],
@@ -205,9 +208,9 @@ var NAVTREEINDEX335 =
 "dc/dee/SpellMgr_8cpp.html#ad51bed43268eefcceebdda05d85c6a61":[8,0,0,0,1,2,41,8,11],
 "dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[8,0,0,0,1,2,41,8,4],
 "dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[8,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[7,0,3040],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[7,0,3040,0],
-"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[7,0,3040,1],
+"dc/dee/classspell__gen__grow__flower__patch.html":[7,0,3041],
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[7,0,3041,0],
+"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[7,0,3041,1],
 "dc/def/GroupRefMgr_8h.html":[8,0,0,0,1,2,20,6],
 "dc/def/structboss__mechano__lord__capacitus.html":[7,0,631],
 "dc/def/structboss__mechano__lord__capacitus.html#a4aa9ee50a942fe123acfdeee0350fa2d":[7,0,631,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX335 =
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea84ef08cb2fea2a05b848399fd3d3e355":[8,0,0,0,1,3,2,16,15,3,14],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea8a44010fa75bbda43fd629e8bf15fd97":[8,0,0,0,1,3,2,16,15,3,20],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea92c7a332f35295e71d692653187f274a":[8,0,0,0,1,3,2,16,15,3,9],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea93700636bed8e6671157b5c57d6631f1":[8,0,0,0,1,3,2,16,15,3,18],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea95e557f5d65bd89bc6f0d6be45a1128f":[8,0,0,0,1,3,2,16,15,3,23],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaa875232eda4b6326535c996ac99b8a97":[8,0,0,0,1,3,2,16,15,3,13],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee":[8,0,0,0,1,3,2,16,15,3,24]
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea93700636bed8e6671157b5c57d6631f1":[8,0,0,0,1,3,2,16,15,3,18]
 };

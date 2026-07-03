@@ -3509,6 +3509,7 @@ var annotated_dup =
     [ "spell_freezing_cloud_area_left", "dd/de8/classspell__freezing__cloud__area__left.html", "dd/de8/classspell__freezing__cloud__area__left" ],
     [ "spell_freezing_cloud_area_right", "d6/d13/classspell__freezing__cloud__area__right.html", "d6/d13/classspell__freezing__cloud__area__right" ],
     [ "spell_freezing_cloud_damage", "d9/d57/classspell__freezing__cloud__damage.html", "d9/d57/classspell__freezing__cloud__damage" ],
+    [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", "db/d9a/classspell__freya__unstable__sun__beam" ],
     [ "spell_frog_kiss", "d9/de9/classspell__frog__kiss.html", "d9/de9/classspell__frog__kiss" ],
     [ "spell_frost_giant_death_plague", "db/d77/classspell__frost__giant__death__plague.html", "db/d77/classspell__frost__giant__death__plague" ],
     [ "spell_frost_tomb_aura", "de/d92/classspell__frost__tomb__aura.html", "de/d92/classspell__frost__tomb__aura" ],

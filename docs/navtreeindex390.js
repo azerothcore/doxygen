@@ -1,5 +1,8 @@
 var NAVTREEINDEX390 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acbc4907ccfc409ccf2396490224c5c5f":[8,0,0,0,1,1,0,0,1,1,228],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acbc7fa86f9a193092ae27dbc3d9a4e37":[8,0,0,0,1,1,0,0,1,1,203],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acd9026edfbb6b693b350eed95b7146c4":[8,0,0,0,1,1,0,0,1,1,24],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acdfe5a9d0aa307fa2ebf5560aef06a1f":[8,0,0,0,1,1,0,0,1,1,360],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acecf274a531024a05b8983365b7347a1":[8,0,0,0,1,1,0,0,1,1,418],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acefc2d47a372047564d12ff7f0e80845":[8,0,0,0,1,1,0,0,1,1,153],
@@ -171,13 +174,13 @@ var NAVTREEINDEX390 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab83b898058a1a7dfb48469256a193761":[8,0,0,0,1,3,2,4,7,4,6],
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[8,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[8,0,0,0,1,3,2,4,7,9],
-"de/da6/classspell__item__with__mount__speed.html":[7,0,3477],
-"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[7,0,3477,2],
-"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[7,0,3477,4],
-"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[7,0,3477,5],
-"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[7,0,3477,3],
-"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[7,0,3477,1],
-"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[7,0,3477,0],
+"de/da6/classspell__item__with__mount__speed.html":[7,0,3478],
+"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[7,0,3478,2],
+"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[7,0,3478,4],
+"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[7,0,3478,5],
+"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[7,0,3478,3],
+"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[7,0,3478,1],
+"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[7,0,3478,0],
 "de/da6/zone__dragonblight_8cpp.html":[8,0,0,0,1,3,5,18],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2":[8,0,0,0,1,3,5,18,47],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2a5220fc25d0e046e45924ef4a9f6a3b7d":[8,0,0,0,1,3,5,18,47,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX390 =
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a94ba390d6f96aeac5668078feb884e44":[8,0,0,0,1,3,5,18,46,64],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a96ead3a0880c9225b24261393008eedd":[8,0,0,0,1,3,5,18,46,42],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a983e2563874cc23bb3fe76cb598cd62d":[8,0,0,0,1,3,5,18,46,39],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a98d94d62aa2f2f69a52a2b2582c6ffda":[8,0,0,0,1,3,5,18,46,40],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a99b8cd77cdd9cbfceda7ff4cbe0311dd":[8,0,0,0,1,3,5,18,46,1],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a9e4602631a8a3c8b0e642942f386b567":[8,0,0,0,1,3,5,18,46,11],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1aa69b0ede96a570bf91244df388f31248":[8,0,0,0,1,3,5,18,46,0]
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a98d94d62aa2f2f69a52a2b2582c6ffda":[8,0,0,0,1,3,5,18,46,40]
 };
