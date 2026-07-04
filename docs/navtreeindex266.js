@@ -244,10 +244,10 @@ var NAVTREEINDEX266 =
 "da/d53/classnpc__tooga.html#a6ea6a9e4dea1ab98475dae13680ceeaf":[7,0,2209,1],
 "da/d53/classnpc__tooga.html#a7847577589f3bdc1c3ea5ee0f1f9232f":[7,0,2209,2],
 "da/d53/classnpc__tooga.html#ac0fdcb3959c239d614b1cc7c66623c5d":[7,0,2209,3],
-"da/d53/classspell__q12237__drop__off__villager.html":[7,0,3877],
-"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[7,0,3877,2],
-"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[7,0,3877,0],
-"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[7,0,3877,1],
+"da/d53/classspell__q12237__drop__off__villager.html":[7,0,3878],
+"da/d53/classspell__q12237__drop__off__villager.html#a1034967a4bf633f160cc40ae6e0fc567":[7,0,3878,2],
+"da/d53/classspell__q12237__drop__off__villager.html#a9c7e08a8a9b1c1b44ae290818826d43a":[7,0,3878,0],
+"da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[7,0,3878,1],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html":[7,0,513,0],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a22f6ff041e61c94df73a938162fa26f5":[7,0,513,0,1]
 };

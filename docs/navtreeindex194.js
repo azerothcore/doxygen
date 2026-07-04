@@ -243,11 +243,11 @@ var NAVTREEINDEX194 =
 "d7/d24/classspell__cthun__dark__glare.html#a31d1d590f0e6fc2e56322d606961828f":[7,0,2750,2],
 "d7/d24/classspell__cthun__dark__glare.html#a3ec2840ab1d853a1546c64a2d158e75f":[7,0,2750,0],
 "d7/d24/classspell__cthun__dark__glare.html#a511e54100036307aa5d37bc959405c73":[7,0,2750,1],
-"d7/d25/classspell__illidan__draw__soul.html":[7,0,3284],
-"d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[7,0,3284,1],
-"d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[7,0,3284,0],
-"d7/d25/classspell__illidan__draw__soul.html#a9ce122d497e72e3a46b1857d722af48d":[7,0,3284,3],
-"d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[7,0,3284,2],
+"d7/d25/classspell__illidan__draw__soul.html":[7,0,3285],
+"d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[7,0,3285,1],
+"d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[7,0,3285,0],
+"d7/d25/classspell__illidan__draw__soul.html#a9ce122d497e72e3a46b1857d722af48d":[7,0,3285,3],
+"d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[7,0,3285,2],
 "d7/d25/structnpc__pet__darting__hatchling.html":[7,0,2028],
 "d7/d25/structnpc__pet__darting__hatchling.html#a23196d05aebe5fa4a65455c55368820a":[7,0,2028,2]
 };

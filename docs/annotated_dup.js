@@ -3662,6 +3662,7 @@ var annotated_dup =
     [ "spell_gen_spirit_of_competition_participant", "d1/d27/classspell__gen__spirit__of__competition__participant.html", "d1/d27/classspell__gen__spirit__of__competition__participant" ],
     [ "spell_gen_spirit_of_competition_winner", "db/d0c/classspell__gen__spirit__of__competition__winner.html", "db/d0c/classspell__gen__spirit__of__competition__winner" ],
     [ "spell_gen_steal_weapon", "de/de0/classspell__gen__steal__weapon.html", "de/de0/classspell__gen__steal__weapon" ],
+    [ "spell_gen_submerge_visual", "df/de6/classspell__gen__submerge__visual.html", "df/de6/classspell__gen__submerge__visual" ],
     [ "spell_gen_summon_elemental", "d1/d2c/classspell__gen__summon__elemental.html", "d1/d2c/classspell__gen__summon__elemental" ],
     [ "spell_gen_summon_target_floor", "d8/ddc/classspell__gen__summon__target__floor.html", "d8/ddc/classspell__gen__summon__target__floor" ],
     [ "spell_gen_summon_tournament_mount", "d2/d3d/classspell__gen__summon__tournament__mount.html", "d2/d3d/classspell__gen__summon__tournament__mount" ],

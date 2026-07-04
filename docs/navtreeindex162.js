@@ -247,7 +247,7 @@ var NAVTREEINDEX162 =
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbf622b1440082a1b48fb217be4a18ad":[8,0,0,0,1,3,5,3,3,6,2],
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad7c88f27cdb8737d7e739ac0aed636d5":[8,0,0,0,1,3,5,3,3,6,1],
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad88a3894187c1d3569f3fcdc6042f664":[8,0,0,0,1,3,5,3,3,6,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[7,0,0,86],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,0,98],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,0,98,0]
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[7,0,0,86],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[7,0,0,86,0]
 };

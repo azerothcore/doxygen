@@ -160,6 +160,7 @@ var spell__generic_8cpp =
     [ "spell_gen_mirrored_soul", "d8/d7e/classspell__gen__mirrored__soul.html", "d8/d7e/classspell__gen__mirrored__soul" ],
     [ "spell_gen_black_bow_of_the_betrayer", "dd/d59/classspell__gen__black__bow__of__the__betrayer.html", "dd/d59/classspell__gen__black__bow__of__the__betrayer" ],
     [ "spell_gen_filter_party_level_80", "d0/df8/classspell__gen__filter__party__level__80.html", "d0/df8/classspell__gen__filter__party__level__80" ],
+    [ "spell_gen_submerge_visual", "df/de6/classspell__gen__submerge__visual.html", "df/de6/classspell__gen__submerge__visual" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],

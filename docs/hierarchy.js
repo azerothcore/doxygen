@@ -258,6 +258,7 @@ var hierarchy =
         [ "spell_gen_shriveling_gaze", "db/dab/classspell__gen__shriveling__gaze.html", null ],
         [ "spell_gen_sober_up", "d0/dfe/classspell__gen__sober__up.html", null ],
         [ "spell_gen_steal_weapon", "de/de0/classspell__gen__steal__weapon.html", null ],
+        [ "spell_gen_submerge_visual", "df/de6/classspell__gen__submerge__visual.html", null ],
         [ "spell_gen_summon_elemental", "d1/d2c/classspell__gen__summon__elemental.html", null ],
         [ "spell_gen_tournament_pennant", "d6/d9c/classspell__gen__tournament__pennant.html", null ],
         [ "spell_gen_turkey_marker", "d6/d0c/classspell__gen__turkey__marker.html", null ],

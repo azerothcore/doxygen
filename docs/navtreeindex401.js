@@ -249,5 +249,5 @@ var NAVTREEINDEX401 =
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66":[8,0,0,0,1,2,16,5,0,4,3,2],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf":[8,0,0,0,1,2,16,5,0,4,3,7],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[8,0,0,0,1,2,16,5,0,4,3,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3493]
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3494]
 };

@@ -63,12 +63,12 @@ var NAVTREEINDEX31 =
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html":[5,0,0,2,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a3b9ea3963b82697cbe5d6ca86ff29847":[5,0,0,2,1,7],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a3b9ea3963b82697cbe5d6ca86ff29847":[7,0,0,1,1,7],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4315363c5d25bb157481cbbd3fa0286f":[5,0,0,2,1,9],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4315363c5d25bb157481cbbd3fa0286f":[7,0,0,1,1,9],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4315363c5d25bb157481cbbd3fa0286f":[5,0,0,2,1,9],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[5,0,0,2,1,4],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[7,0,0,1,1,4],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[5,0,0,2,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[7,0,0,1,1,2],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[5,0,0,2,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[7,0,0,1,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[5,0,0,2,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[7,0,0,1,1,6],
@@ -246,8 +246,8 @@ var NAVTREEINDEX31 =
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89b5c9ac6d6ac054281c5063911d6e3a":[8,0,0,0,1,3,5,4,2,0,3,1],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae03a5a6ad34d7d55a4a3c0d9093da9aa":[8,0,0,0,1,3,5,4,2,0,3,2],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af4a5247af158bbe73f8f35bc5dab97af":[8,0,0,0,1,3,5,4,2,0,3,3],
-"d1/d43/classspell__gen__translocate.html":[7,0,3116],
-"d1/d43/classspell__gen__translocate.html#a01e4c84404734b7da1bf5f31cb097e58":[7,0,3116,5],
-"d1/d43/classspell__gen__translocate.html#a0ae40ad6153a98dcd98cdfebeb515faf":[7,0,3116,4],
-"d1/d43/classspell__gen__translocate.html#a56a3df0eba3e1521aa2898194c39e919":[7,0,3116,0]
+"d1/d43/classspell__gen__translocate.html":[7,0,3117],
+"d1/d43/classspell__gen__translocate.html#a01e4c84404734b7da1bf5f31cb097e58":[7,0,3117,5],
+"d1/d43/classspell__gen__translocate.html#a0ae40ad6153a98dcd98cdfebeb515faf":[7,0,3117,4],
+"d1/d43/classspell__gen__translocate.html#a56a3df0eba3e1521aa2898194c39e919":[7,0,3117,0]
 };

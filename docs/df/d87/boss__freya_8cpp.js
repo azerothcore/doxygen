@@ -104,6 +104,7 @@ var boss__freya_8cpp =
       [ "SPELL_HEALTHY_SPORE_SUMMON", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6f0c520b52c862406dd4918c1f622916", null ],
       [ "SPELL_DETONATE", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa099e1b0a1c67eedbc029402cc5b43653", null ],
       [ "SPELL_FLAME_LASH", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabb7aab4925f7809c409cd469c06787f7", null ],
+      [ "SPELL_SUBMERGE_VISUAL", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab67ffc207b468edec1bac215efbaa5ef", null ],
       [ "SPELL_DEFORESTATION_CREDIT", "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa20ed224c159df73c24d41cdd7b567545", null ]
     ] ],
     [ "Misc", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
