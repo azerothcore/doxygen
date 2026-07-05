@@ -6,6 +6,8 @@ var structboss__flame__leviathan__seat =
     [ "PassengerBoarded", "d6/d0b/structboss__flame__leviathan__seat.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
     [ "Reset", "d6/d0b/structboss__flame__leviathan__seat.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
     [ "UpdateAI", "d6/d0b/structboss__flame__leviathan__seat.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnTimer", "d6/d0b/structboss__flame__leviathan__seat.html#afe673a7903cffa7acefb725d52efb08a", null ],
+    [ "_despawnCheckTimer", "d6/d0b/structboss__flame__leviathan__seat.html#ad902023776db0a5d846168167974f694", null ],
+    [ "_pending10ManDespawn", "d6/d0b/structboss__flame__leviathan__seat.html#a147da457d02a4977439c635fb150f005", null ],
+    [ "DESPAWN_DELAY_10MAN", "d6/d0b/structboss__flame__leviathan__seat.html#a1bda734e377ce71dd3c7f1257ab89d20", null ],
     [ "vehicle", "d6/d0b/structboss__flame__leviathan__seat.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

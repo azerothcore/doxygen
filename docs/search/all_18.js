@@ -24,8 +24,8 @@ var searchData=
   ['xpsource_5fquest_21',['XPSOURCE_QUEST',['../da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0a91bcc18424dfcded1b00779f5d1a7549',1,'Player.h']]],
   ['xpsource_5fquest_5fdf_22',['XPSOURCE_QUEST_DF',['../da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0ae42fb772378eda3f5bb08dcd53e4b36c',1,'Player.h']]],
   ['xpvalue_23',['XPValue',['../d1/d4f/classQuest.html#ad0c0f5ed540531ae8efb8316b0509181',1,'Quest']]],
-  ['xt002events_24',['XT002Events',['../d5/d7d/boss__xt002_8cpp.html#adb4bf07fe2aeb51ee57b1c8dfd551d6e',1,'boss_xt002.cpp']]],
-  ['xt002spells_25',['XT002Spells',['../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22eff',1,'boss_xt002.cpp']]],
+  ['xt002data_24',['XT002Data',['../d5/d7d/boss__xt002_8cpp.html#a33efeffeed908e11564074793f0a397c',1,'boss_xt002.cpp']]],
+  ['xt002phases_25',['XT002Phases',['../d5/d7d/boss__xt002_8cpp.html#a62ea1e923cf53518f844016a2fbb1aed',1,'boss_xt002.cpp']]],
   ['xtiles_26',['xtiles',['../d3/dd1/structWMOLiquidHeader.html#aca34dfa64624cfe04c314c13bbed0062',1,'WMOLiquidHeader::xtiles'],['../d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d',1,'VMAP::WMOLiquidHeader::xtiles']]],
   ['xverts_27',['xverts',['../d3/dd1/structWMOLiquidHeader.html#aa5ad7ff660f7f0b5ddfd2d186496d928',1,'WMOLiquidHeader::xverts'],['../d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3',1,'VMAP::WMOLiquidHeader::xverts']]],
   ['xyspeed_28',['xyspeed',['../d3/d77/structMovementInfo_1_1JumpInfo.html#a6fada60d677d89580c3a718d42a75d17',1,'MovementInfo::JumpInfo']]]

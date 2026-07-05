@@ -2,6 +2,7 @@ var chapter1_8cpp =
 [
     [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls" ],
     [ "spell_q12641_death_comes_from_on_high_recall_eye", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye.html", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye" ],
+    [ "spell_q12641_rain_of_darkness", "db/d73/classspell__q12641__rain__of__darkness.html", "db/d73/classspell__q12641__rain__of__darkness" ],
     [ "spell_item_gift_of_the_harvester", "d5/df0/classspell__item__gift__of__the__harvester.html", "d5/df0/classspell__item__gift__of__the__harvester" ],
     [ "spell_q12698_the_gift_that_keeps_on_giving", "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html", "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving" ],
     [ "npc_scarlet_ghoul", "d8/d0a/classnpc__scarlet__ghoul.html", "d8/d0a/classnpc__scarlet__ghoul" ],

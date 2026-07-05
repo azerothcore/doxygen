@@ -1256,7 +1256,14 @@ var Language_8h =
       [ "LANG_RESPAWN_ENTRY_GAMEOBJECT_QUEUED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa683bd1f93218950228ee8b9b6b7f2df2", null ],
       [ "LANG_LIST_RESPAWNS_NO_MAP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27058895be265e3b669d5d0e3297d9ae", null ],
       [ "LANG_PET_RENAME_INVALID", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6d211754b3f596e0e50d2c445cbf5e1d", null ],
-      [ "LANG_PET_RENAME_SUCCESS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa86431bd367098f713b1340c10d54e61a", null ]
+      [ "LANG_PET_RENAME_SUCCESS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa86431bd367098f713b1340c10d54e61a", null ],
+      [ "LANG_WG_SHUTDOWN_DEFERRED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa23ef28655d5c1d8ce0532064424041f6", null ],
+      [ "LANG_COMMAND_NOT_DEAD_OR_NO_LOOT", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa452083105a8b40cf6687ae58cf83faa6", null ],
+      [ "LANG_COMMAND_NPC_SHOWLOOT_HEADER", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf0e7325139e2676be3ef13a4078c17ed", null ],
+      [ "LANG_COMMAND_NPC_SHOWLOOT_MONEY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb604ce3969b6f443feaad2a2bfea260", null ],
+      [ "LANG_COMMAND_NPC_SHOWLOOT_ITEMS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac8369d58b54b22876ede0e0dc674511f", null ],
+      [ "LANG_COMMAND_NPC_SHOWLOOT_ENTRY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa061adca722b2433efed3281485789ece", null ],
+      [ "LANG_COMMAND_NPC_SHOWLOOT_QUEST", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac0574a0f93ef56f3801da11c31c6750d", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

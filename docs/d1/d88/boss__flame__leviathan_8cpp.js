@@ -18,9 +18,9 @@ var boss__flame__leviathan_8cpp =
     [ "FlameLeviathanPursuedTargetSelector", "d9/d36/classFlameLeviathanPursuedTargetSelector.html", "d9/d36/classFlameLeviathanPursuedTargetSelector" ],
     [ "spell_pursue", "db/de9/classspell__pursue.html", "db/de9/classspell__pursue" ],
     [ "spell_vehicle_throw_passenger", "d2/ddd/classspell__vehicle__throw__passenger.html", "d2/ddd/classspell__vehicle__throw__passenger" ],
+    [ "spell_hookshot_aura", "d1/dab/classspell__hookshot__aura.html", "d1/dab/classspell__hookshot__aura" ],
     [ "spell_tar_blaze_aura", "d1/dcb/classspell__tar__blaze__aura.html", "d1/dcb/classspell__tar__blaze__aura" ],
     [ "spell_vehicle_grab_pyrite", "d2/df5/classspell__vehicle__grab__pyrite.html", "d2/df5/classspell__vehicle__grab__pyrite" ],
-    [ "spell_vehicle_circuit_overload_aura", "d3/d8b/classspell__vehicle__circuit__overload__aura.html", "d3/d8b/classspell__vehicle__circuit__overload__aura" ],
     [ "spell_orbital_supports_aura", "d4/dce/classspell__orbital__supports__aura.html", "d4/dce/classspell__orbital__supports__aura" ],
     [ "spell_thorims_hammer", "d8/dae/classspell__thorims__hammer.html", "d8/dae/classspell__thorims__hammer" ],
     [ "spell_transitus_shield_beam_aura", "d3/da8/classspell__transitus__shield__beam__aura.html", "d3/da8/classspell__transitus__shield__beam__aura" ],
@@ -38,12 +38,12 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_MISSILE", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abfa57823f7fb4dd0b79c695426eccc21", null ],
       [ "EVENT_VENT", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0b28eb3a3391541940a0757fb35fc58c", null ],
       [ "EVENT_SPEED", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1449fe1d21eacce2126fef058bb32ec3", null ],
-      [ "EVENT_REINSTALL", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a34b9ae422d4aac07a75ec58162e9fa70", null ],
       [ "EVENT_HODIRS_FURY", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a903848efd344a72da06e2617acd775f4", null ],
       [ "EVENT_FREYA", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc052e50f034cb22a759436f67ea9de9", null ],
       [ "EVENT_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07faa54533adef9ff9cd67857f7455e7", null ],
       [ "EVENT_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
-      [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ]
+      [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
+      [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ]
     ] ],
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],
@@ -74,6 +74,7 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_TRANSITUS_SHIELD_IMPACT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9", null ],
       [ "SPELL_SYSTEMS_SHUTDOWN", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a645b0c83f847d5d12ca072da00af874e", null ],
       [ "SPELL_OVERLOAD_CIRCUIT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a7c47b0fdd80fb3ddecfd177f4e20b9ef", null ],
+      [ "SPELL_START_THE_ENGINE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a562f8a0a2f7ebdf127bb7ca62bfa3abd", null ],
       [ "SPELL_TOWER_OF_STORMS", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a6b18f570fde5683dc7b7c3f986704cde", null ],
       [ "SPELL_TOWER_OF_FLAMES", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53af1d4c0b9ddb11551c5992a9f1867388f", null ],
       [ "SPELL_TOWER_OF_FROST", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53aa842a185022434fa00035001ebc01a71", null ],
@@ -90,7 +91,9 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_BLAZE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53af14cdba1aaf9fbfbd5b94c608513b872", null ],
       [ "SPELL_LIQUID_PYRITE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53afcadee681993d58a09de563f93286c3e", null ],
       [ "SPELL_DUSTY_EXPLOSION", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a2b77f68cb819a1f9d73057e554d6c33e", null ],
-      [ "SPELL_DUST_CLOUD_IMPACT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a6a2d3df7f256af7b5aa95ea3fc12714c", null ]
+      [ "SPELL_DUST_CLOUD_IMPACT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a6a2d3df7f256af7b5aa95ea3fc12714c", null ],
+      [ "SPELL_HOOKSHOT_AURA", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a1bccebfdff29cc6dffb8dc5af1b024df", null ],
+      [ "SPELL_HOOKSHOT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a74a92177c09e7a6069673281d861c2e5", null ]
     ] ],
     [ "LoadIntoCataPult", "d1/d88/boss__flame__leviathan_8cpp.html#a5bdc835d6a3f47e3ae8d08293e509ba3", [
       [ "SPELL_PASSENGER_LOADED", "d1/d88/boss__flame__leviathan_8cpp.html#a5bdc835d6a3f47e3ae8d08293e509ba3aea2a49b54b7102cecbb1769b02ad5138", null ]
@@ -107,8 +110,7 @@ var boss__flame__leviathan_8cpp =
       [ "ACTION_START_NORGANNON_BRANN", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4a0f6a7b01c892a189b8f05641208019", null ],
       [ "ACTION_START_BRANN_EVENT", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae4a2b814a20663576ffdaabaaba64ece", null ],
       [ "ACTION_DESPAWN_ADDS", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
-      [ "ACTION_DELAY_CANNON", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0acc301295db4db245993798dadb18f", null ],
-      [ "ACTION_DESTROYED_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a414dd1e0d6ebea4ce4c86f4c9aa5f738", null ]
+      [ "ACTION_DELAY_CANNON", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0acc301295db4db245993798dadb18f", null ]
     ] ],
     [ "Seats", "d1/d88/boss__flame__leviathan_8cpp.html#a368d9bac660a99128940c2ca60672d55", [
       [ "SEAT_PLAYER", "d1/d88/boss__flame__leviathan_8cpp.html#a368d9bac660a99128940c2ca60672d55a0aef8deb5880e5db697b0ca606cbabce", null ],
@@ -137,6 +139,7 @@ var boss__flame__leviathan_8cpp =
       [ "FLAME_LEVIATHAN_EMOTE_NATURE", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a08524b50e0f856582b54d0dde8a8f8d6", null ],
       [ "FLAME_LEVIATHAN_EMOTE_STORM", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a46beb0b6ec4382cb9f71b563a30b4d0c", null ],
       [ "FLAME_LEVIATHAN_EMOTE_REACTIVATE", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4700d0e8c35b36159b5fb4591acf9841", null ],
+      [ "FLAME_LEVIATHAN_EMOTE_OVERLOAD_START", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa93f913f1f2071f41f7b21493c9f9afc", null ],
       [ "BRANN_RADIO_SAY_FL_START_0", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f3b179c18413d466cdb870b5b9fd19c", null ],
       [ "BRANN_RADIO_SAY_FL_START_1", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5e61b77c0a00fc6dfda3336980f4f724", null ],
       [ "BRANN_RADIO_SAY_FL_START_2", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a98643a8b534605b7f23c1a119acad9d2", null ],

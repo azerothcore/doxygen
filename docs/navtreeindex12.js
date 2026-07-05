@@ -1,5 +1,9 @@
 var NAVTREEINDEX12 =
 {
+"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[7,0,4438,2],
+"d0/d89/boss__thorim_8cpp.html":[8,0,0,0,1,3,5,9,2,11],
+"d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[8,0,0,0,1,3,5,9,2,11,19],
+"d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18":[8,0,0,0,1,3,5,9,2,11,19,10],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a05f234a4472cbfef36598455ef538803":[8,0,0,0,1,3,5,9,2,11,19,4],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a0f23886cdb5f6a0d23f18e38f60ba8e7":[8,0,0,0,1,3,5,9,2,11,19,31],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a12c9bbad9ba0f280bd50ad8459f371bf":[8,0,0,0,1,3,5,9,2,11,19,19],
@@ -245,9 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d8c/classEnumUtils.html#a48ef8a32325aaec99a40773c3453493a":[7,0,1047,35],
 "d0/d8c/classEnumUtils.html#a49acd4658f9bb3452b8f79af2acd0a6d":[7,0,1047,16],
 "d0/d8c/classEnumUtils.html#a4ad1877db4a83e23ebd8ba3a6e127b48":[7,0,1047,129],
-"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[7,0,1047,81],
-"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[7,0,1047,93],
-"d0/d8c/classEnumUtils.html#a530800a1db54a25fc05968066ca6bc00":[7,0,1047,76],
-"d0/d8c/classEnumUtils.html#a5454b740ce1ac05526d97dd35fbc9511":[7,0,1047,37],
-"d0/d8c/classEnumUtils.html#a56feebca73ac73c6f1c0db0105c091a9":[7,0,1047,77]
+"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[7,0,1047,81]
 };

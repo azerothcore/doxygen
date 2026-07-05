@@ -128,7 +128,8 @@ var boss__mimiron_8cpp =
       [ "NPC_BOT_SUMMON_TRIGGER", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa529544469fd813bc255eeec1000a7e2", null ],
       [ "NPC_ASSAULT_BOT", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b", null ],
       [ "NPC_JUNK_BOT", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca9528e86f7490bf848bef77fbaf59d120", null ],
-      [ "NPC_MAGNETIC_CORE", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4", null ]
+      [ "NPC_MAGNETIC_CORE", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4", null ],
+      [ "NPC_WORLD_TRIGGER", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ]
     ] ],
     [ "p3wx2LaserBarrage", "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4b", [
       [ "SPELL_P3WX2_LASER_BARRAGE_1", "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba7f1c72490ff348ff0dd195c2b0b8235e", null ],
@@ -143,6 +144,7 @@ var boss__mimiron_8cpp =
       [ "NPC_PROXIMITY_MINE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36aa9c81d78752ec69dc3e4757ca3109fbb", null ],
       [ "SPELL_MINE_EXPLOSION", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36af7f255addb61ea646386156d64cc6ec1", null ],
       [ "SPELL_SUMMON_PROXIMITY_MINE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a74cf71052c4d04dcdede4915edec87d7", null ],
+      [ "SPELL_ELEVATOR_KNOCKBACK", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a367d6e0f3fda8dd14d35353b5b7563d0", null ],
       [ "SPELL_HEAT_WAVE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab2cf2c9df675aa5c720596959c8bb342", null ],
       [ "SPELL_ROCKET_STRIKE_AURA", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a953b3d6d1871042810e52aa345e503b6", null ],
       [ "NPC_ROCKET_VISUAL", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab8bb8aef1ab887efa0b5946640079239", null ],

@@ -18,7 +18,7 @@ var searchData=
   ['health_5fcheck_5fpending_15',['HEALTH_CHECK_PENDING',['../d9/dac/ScriptedCreature_8h.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7',1,'ScriptedCreature.h']]],
   ['health_5fcheck_5fprocessed_16',['HEALTH_CHECK_PROCESSED',['../d9/dac/ScriptedCreature_8h.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d',1,'ScriptedCreature.h']]],
   ['health_5fcheck_5fscheduled_17',['HEALTH_CHECK_SCHEDULED',['../d9/dac/ScriptedCreature_8h.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c',1,'ScriptedCreature.h']]],
-  ['heart_5fvehicle_5fseat_18',['HEART_VEHICLE_SEAT',['../d5/d7d/boss__xt002_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6fb8ea3d8beae297d55814a9f256b1d3',1,'boss_xt002.cpp']]],
+  ['heart_5fvehicle_5fseat_5fexposed_18',['HEART_VEHICLE_SEAT_EXPOSED',['../d5/d7d/boss__xt002_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae5e8338eb24dd51520576473020bf8f8',1,'boss_xt002.cpp']]],
   ['heightdepth_19',['HeightDepth',['../d3/df0/adt_8h.html#a5292fd275b2d01d81692c430af9dc51fadc5bae52022216a549f4d884bf4e2f73',1,'adt.h']]],
   ['heighttexturecoord_20',['HeightTextureCoord',['../d3/df0/adt_8h.html#a5292fd275b2d01d81692c430af9dc51fad931d69dec9efae87a6040c1e60781cb',1,'adt.h']]],
   ['herald_5fof_5fthe_5flich_5fking_5fsay_5fattack_5fend_21',['HERALD_OF_THE_LICH_KING_SAY_ATTACK_END',['../d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a9ac3647d12aa8d2bb5208769d62b6d15',1,'scourge_invasion.h']]],

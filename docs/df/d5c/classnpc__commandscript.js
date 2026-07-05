@@ -35,10 +35,12 @@ var classnpc__commandscript =
     [ "HandleNpcSetPhaseCommand", "df/d5c/classnpc__commandscript.html#a47a8348f751a0914bb213894d8134ade", null ],
     [ "HandleNpcSetSpawnTimeCommand", "df/d5c/classnpc__commandscript.html#aaf6746d287ad6f59ddfc54e20f5fd5e7", null ],
     [ "HandleNpcSetWanderDistanceCommand", "df/d5c/classnpc__commandscript.html#a16fe889389b58c80f75a96f522440460", null ],
+    [ "HandleNpcShowLootCommand", "df/d5c/classnpc__commandscript.html#a1b7bbdb0a4408030da97e233cd4bb46c", null ],
     [ "HandleNpcSpawnGroupCommand", "df/d5c/classnpc__commandscript.html#a559f127e3cfb04fd5bd0894bb12a2f0c", null ],
     [ "HandleNpcTameCommand", "df/d5c/classnpc__commandscript.html#a2b6ee43b9f9295a47d3445a1f09c6d0f", null ],
     [ "HandleNpcTextEmoteCommand", "df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e", null ],
     [ "HandleNpcUnFollowCommand", "df/d5c/classnpc__commandscript.html#a5df385153bbb2b11c3bc04579ccb5724", null ],
     [ "HandleNpcWhisperCommand", "df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662", null ],
-    [ "HandleNpcYellCommand", "df/d5c/classnpc__commandscript.html#a432ce71efa4ba98072b77140df7f867b", null ]
+    [ "HandleNpcYellCommand", "df/d5c/classnpc__commandscript.html#a432ce71efa4ba98072b77140df7f867b", null ],
+    [ "ShowLootEntry", "df/d5c/classnpc__commandscript.html#aea73dd6a29fa3c4dfee252e3aad0cfcc", null ]
 ];

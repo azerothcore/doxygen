@@ -165,9 +165,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  979</span>            : <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>(funit), <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>(range) {}</div>
-<div class="ttc" id="aclassAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck_html_a3a0742f36f0a0a22c4ae6a2c8b8269b6"><div class="ttname"><a href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">Acore::AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:992</div></div>
-<div class="ttc" id="aclassAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck_html_a953943e53e25b6887bfab8cc1c19620a"><div class="ttname"><a href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">Acore::AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:993</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  981</span>            : <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>(funit), <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>(range) {}</div>
+<div class="ttc" id="aclassAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck_html_a3a0742f36f0a0a22c4ae6a2c8b8269b6"><div class="ttname"><a href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">Acore::AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:994</div></div>
+<div class="ttc" id="aclassAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck_html_a953943e53e25b6887bfab8cc1c19620a"><div class="ttname"><a href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">Acore::AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition</b> GridNotifiers.h:995</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -195,20 +195,20 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  982</span>        {</div>
-<div class="line"><span class="lineno">  983</span>            <span class="keywordflow">return</span> u-&gt;IsAlive()</div>
-<div class="line"><span class="lineno">  984</span>                   &amp;&amp; <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>)</div>
-<div class="line"><span class="lineno">  985</span>                   &amp;&amp; !<a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u)</div>
-<div class="line"><span class="lineno">  986</span>                   &amp;&amp; <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(u)</div>
-<div class="line"><span class="lineno">  987</span>                   &amp;&amp; !u-&gt;IsCritter()</div>
-<div class="line"><span class="lineno">  988</span>                   &amp;&amp; !u-&gt;IsTotem() <span class="comment">//xinef: dont attack totems</span></div>
-<div class="line"><span class="lineno">  989</span>                   <span class="comment">/*&amp;&amp; i_funit-&gt;CanSeeOrDetect(u)*/</span>; <span class="comment">// pussywizard: already checked in IsValidAttackTarget(u)</span></div>
-<div class="line"><span class="lineno">  990</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  984</span>        {</div>
+<div class="line"><span class="lineno">  985</span>            <span class="keywordflow">return</span> u-&gt;IsAlive()</div>
+<div class="line"><span class="lineno">  986</span>                   &amp;&amp; <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>)</div>
+<div class="line"><span class="lineno">  987</span>                   &amp;&amp; !<a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u)</div>
+<div class="line"><span class="lineno">  988</span>                   &amp;&amp; <a class="code hl_variable" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(u)</div>
+<div class="line"><span class="lineno">  989</span>                   &amp;&amp; !u-&gt;IsCritter()</div>
+<div class="line"><span class="lineno">  990</span>                   &amp;&amp; !u-&gt;IsTotem() <span class="comment">//xinef: dont attack totems</span></div>
+<div class="line"><span class="lineno">  991</span>                   <span class="comment">/*&amp;&amp; i_funit-&gt;CanSeeOrDetect(u)*/</span>; <span class="comment">// pussywizard: already checked in IsValidAttackTarget(u)</span></div>
+<div class="line"><span class="lineno">  992</span>        }</div>
 <div class="ttc" id="aclassUnit_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../df/dd9/classUnit.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:7275</div></div>
 <div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10761</div></div>
 <div class="ttc" id="aclassWorldObject_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1377</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00992">i_funit</a>, <a class="el" href="../../#l00993">i_range</a>, <a class="el" href="../../#l01791">Unit::IsAlive()</a>, <a class="el" href="../../#l00833">Unit::IsCritter()</a>, <a class="el" href="../../#l07275">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l10761">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00994">i_funit</a>, <a class="el" href="../../#l00995">i_range</a>, <a class="el" href="../../#l01791">Unit::IsAlive()</a>, <a class="el" href="../../#l00833">Unit::IsCritter()</a>, <a class="el" href="../../#l07275">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l10761">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -233,7 +233,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00981">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00983">operator()()</a>.</p>
 
 </div>
 </div>
@@ -257,7 +257,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00981">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00983">operator()()</a>.</p>
 
 </div>
 </div>
@@ -270,7 +270,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html">AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Sat Jul 4 2026 08:32:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jul 5 2026 08:48:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
