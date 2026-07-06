@@ -1,5 +1,17 @@
 var NAVTREEINDEX409 =
 {
+"df/d86/classspell__dru__t3__2p__bonus.html#a38de7578466df47ebe6fc7b5bfab616b":[7,0,2905,3],
+"df/d86/classspell__dru__t3__2p__bonus.html#a506420e3e109bf8f4e7c83b101c80c3c":[7,0,2905,1],
+"df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[7,0,2905,2],
+"df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[7,0,2905,4],
+"df/d86/npc__innkeeper_8cpp.html":[8,0,0,0,1,3,10,9],
+"df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[8,0,0,0,1,3,10,9,7],
+"df/d86/npc__innkeeper_8cpp.html#a072a033da374692139d9d33e63be89ca":[8,0,0,0,1,3,10,9,5],
+"df/d86/npc__innkeeper_8cpp.html#a2e23760d3d379f3fa92c139f067b5984":[8,0,0,0,1,3,10,9,4],
+"df/d86/npc__innkeeper_8cpp.html#a3115623eb3e0408aad7cd637686aaaee":[8,0,0,0,1,3,10,9,2],
+"df/d86/npc__innkeeper_8cpp.html#a3ffce1ea6cca981888af85ba67364df9":[8,0,0,0,1,3,10,9,1],
+"df/d86/npc__innkeeper_8cpp.html#a6bb09725b9e6b10b76686a9059038e6b":[8,0,0,0,1,3,10,9,3],
+"df/d86/npc__innkeeper_8cpp.html#ad2b2ba30383cca3be221f38a809e2da1":[8,0,0,0,1,3,10,9,6],
 "df/d86/structboss__twilight__corrupter.html":[7,0,764],
 "df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[7,0,764,7],
 "df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[7,0,764,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX409 =
 "df/d8d/structSmartTarget.html#a611ea9ab2ca4d2c0b4c6e5dc0335b79a":[7,0,2591,18],
 "df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d":[7,0,2591,49],
 "df/d8d/structSmartTarget.html#a647e6d839f3e58848c1088755d3122a1":[7,0,2591,56],
-"df/d8d/structSmartTarget.html#a6485b621fa6bb529b7cff1c4bc63c8df":[7,0,2591,6],
-"df/d8d/structSmartTarget.html#a688456e01f4c076a0bcf38e936751c91":[7,0,2591,24],
-"df/d8d/structSmartTarget.html#a6965825e57e41efb16a153eee55c9cff":[7,0,2591,26],
-"df/d8d/structSmartTarget.html#a6a31784c4f9f3955e0cc5cf16687fd82":[7,0,2591,63],
-"df/d8d/structSmartTarget.html#a726279330a1fa9fc4fb89a3d338bf04d":[7,0,2591,50],
-"df/d8d/structSmartTarget.html#a776dd7a96577ad914d7856d27205e064":[7,0,2591,11],
-"df/d8d/structSmartTarget.html#a7d6cd108ff66eb6e3c3fe1e2cd101f95":[7,0,2591,13],
-"df/d8d/structSmartTarget.html#a83eeb205cdbbdee686d883f0ce3c6a37":[7,0,2591,5],
-"df/d8d/structSmartTarget.html#a8772407f3c557a577055190db8e6345f":[7,0,2591,1],
-"df/d8d/structSmartTarget.html#a8bab79ccc6157e5b8b2a1c2c9d81a415":[7,0,2591,36],
-"df/d8d/structSmartTarget.html#a8fbf9a706f73be3d66f5c5b7aaae4b5f":[7,0,2591,3],
-"df/d8d/structSmartTarget.html#a9680ae980fd459748ea026b03544e98b":[7,0,2591,62],
-"df/d8d/structSmartTarget.html#a9782859160d6e4c4a67299c50553965a":[7,0,2591,4]
+"df/d8d/structSmartTarget.html#a6485b621fa6bb529b7cff1c4bc63c8df":[7,0,2591,6]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX351 =
 {
+"dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[7,0,4199,0],
+"dd/da9/classspell__threatening__gaze__aura.html#ad2ae9bfa13c625608af9042584a9bfb8":[7,0,4199,2],
+"dd/daa/classOPvPCapturePointHP.html":[7,0,2339],
+"dd/daa/classOPvPCapturePointHP.html#a0191bec2d9492e21957ed9b4e0fed484":[7,0,2339,6],
+"dd/daa/classOPvPCapturePointHP.html#a42528a90eda9ec28dd00df3f0ec78a15":[7,0,2339,5],
+"dd/daa/classOPvPCapturePointHP.html#a7f5fa3e3bd28924965cc08f41b5d6bd8":[7,0,2339,0],
+"dd/daa/classOPvPCapturePointHP.html#a86e849e5387383a6c751e69350ffa07c":[7,0,2339,4],
+"dd/daa/classOPvPCapturePointHP.html#aa0dc544ad3d53255dbfdab7461efcaa1":[7,0,2339,1],
+"dd/daa/classOPvPCapturePointHP.html#aa8d725422951485970d9106450fb6a38":[7,0,2339,2],
+"dd/daa/classOPvPCapturePointHP.html#ad9738c621df084d5a3f0070c80403642":[7,0,2339,3],
+"dd/dab/Packet_8cpp.html":[8,0,0,0,1,2,39,2],
+"dd/dab/boss__anomalus_8cpp.html":[8,0,0,0,1,3,5,8,1,0],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,8,1,0,5],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,8,1,0,5,1],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a168d82eedd177f391f05f6f95a3f0df3":[8,0,0,0,1,3,5,8,1,0,5,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[8,0,0,0,1,2,33,1,3],
 "dd/dad/PetitionMgr_8h.html#a52c6b38c9d018efa6f8a95153a0eb2b5":[8,0,0,0,1,2,33,1,7],
 "dd/dad/PetitionMgr_8h.html#a541d3cf929662ff3a4ab97f63d54b16f":[8,0,0,0,1,2,33,1,6],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bb":[8,0,0,0,1,2,33,1,8],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d":[8,0,0,0,1,2,33,1,8,0],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[8,0,0,0,1,2,33,1,8,1],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[8,0,0,0,1,2,33,1,8,3],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470":[8,0,0,0,1,2,33,1,8,2],
-"dd/dae/boss__erekem_8cpp.html":[8,0,0,0,1,3,5,12,1],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,1,2],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[8,0,0,0,1,3,5,12,1,2,0],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a427b9c40709ca27786c5816e36640227":[8,0,0,0,1,3,5,12,1,2,2],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[8,0,0,0,1,3,5,12,1,2,4],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[8,0,0,0,1,3,5,12,1,2,6],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a75b13fc62a4d1499ac5db4508a22b31c":[8,0,0,0,1,3,5,12,1,2,3],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[8,0,0,0,1,3,5,12,1,2,5]
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bb":[8,0,0,0,1,2,33,1,8]
 };

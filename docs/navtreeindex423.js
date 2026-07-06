@@ -1,5 +1,17 @@
 var NAVTREEINDEX423 =
 {
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[7,0,13,17,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,17,0,0,1],
+"df/dee/classBloodboltHitCheck.html":[7,0,377],
+"df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[7,0,377,2],
+"df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[7,0,377,1],
+"df/dee/classBloodboltHitCheck.html#a84873f1ec2c1e214e35d32954622e9af":[7,0,377,0],
+"df/dee/classspell__stinky__precious__decimate.html":[7,0,4118],
+"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[7,0,4118,0],
+"df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[7,0,4118,1],
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[7,0,4118,2],
+"df/df0/structboss__tavarok.html":[7,0,735],
+"df/df0/structboss__tavarok.html#a0bea2cc724d92616056b7c5ca2dd03c1":[7,0,735,4],
 "df/df0/structboss__tavarok.html#a2c99df9457c548ee562fde920592ea88":[7,0,735,3],
 "df/df0/structboss__tavarok.html#a64cae2439cd6e4334ced5d4ef01ef942":[7,0,735,2],
 "df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[7,0,735,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX423 =
 "df/df9/structnpc__brann__bronzebeard__algalon.html#ac00755dca7e187b55516be889386c499":[7,0,1690,0],
 "df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[7,0,1690,3],
 "df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[7,0,1690,5],
-"df/dfa/structnpc__hover__disk.html":[7,0,1877],
-"df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[7,0,1877,7],
-"df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[7,0,1877,3],
-"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[7,0,1877,1],
-"df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[7,0,1877,4],
-"df/dfa/structnpc__hover__disk.html#ab7e712a9d5aec7c3112796316a7fe534":[7,0,1877,5],
-"df/dfa/structnpc__hover__disk.html#add98702312084df553e24bcd4b632bb3":[7,0,1877,6],
-"df/dfa/structnpc__hover__disk.html#ae4141e5aed3cfdbf8d76ad55ce4463d9":[7,0,1877,2],
-"df/dfa/structnpc__hover__disk.html#af6f8ef0df4b64540f99adebdd709b00e":[7,0,1877,0],
-"df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,26],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e":[8,0,0,0,1,3,2,26,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,26,1,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[8,0,0,0,1,3,2,26,1,3]
+"df/dfa/structnpc__hover__disk.html":[7,0,1877]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX245 =
 {
+"d9/d5c/classspell__item__nitro__boots.html#a60a374efc8b47bfdd8ffded2ff1e10d1":[7,0,3414,0],
+"d9/d5c/classspell__item__nitro__boots.html#a954ae38fd04985b9851a09b416ba59bc":[7,0,3414,4],
+"d9/d5c/classspell__item__nitro__boots.html#a9cc594c2b85156f1482398af6d0bca5b":[7,0,3414,3],
+"d9/d5c/classspell__item__nitro__boots.html#a9ecd5d24b96d1cde3ad07e76992f5e1f":[7,0,3414,1],
+"d9/d5c/classspell__item__nitro__boots.html#ad4605cd07b702a660556a8150b44c621":[7,0,3414,2],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html":[7,0,1457,0],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a385ac15640b76e43eda077c451dcd745":[7,0,1457,0,0],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a55d7b001e047c31686b110cc4b1aa295":[7,0,1457,0,2],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#a9b7daa2ba0e72e137243ac061efaa2a5":[7,0,1457,0,1],
+"d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#ab4f6ec9aefc2721bd216582d7a882aa3":[7,0,1457,0,3],
+"d9/d5d/structboss__najentus.html":[7,0,647],
+"d9/d5d/structboss__najentus.html#a25ac29a79cdcfb4ebc48de13d677f1d4":[7,0,647,5],
 "d9/d5d/structboss__najentus.html#a46e3aab64c21b24ac6457acd598679ec":[7,0,647,2],
 "d9/d5d/structboss__najentus.html#ab7e0bdb8954722c9080146a88a3c5aa2":[7,0,647,4],
 "d9/d5d/structboss__najentus.html#ac5d3d54a49524892fe844925d483c244":[7,0,647,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[7,0,2769,2],
 "d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[7,0,2769,1],
 "d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[7,0,2769,0],
-"d9/d64/classinstance__hyjal.html":[7,0,1334],
-"d9/d64/classinstance__hyjal.html#ade946c0fcaa4bad790bfcb4b6ffb6420":[7,0,1334,1],
-"d9/d64/classinstance__hyjal.html#ae6e39933d7cfd6563f6d37636f1c6f68":[7,0,1334,2],
-"d9/d64/classspell__icc__yh__volley__aura.html":[7,0,3257],
-"d9/d64/classspell__icc__yh__volley__aura.html#a57615f1d8b891ab5a5c01de1543235cb":[7,0,3257,0],
-"d9/d64/classspell__icc__yh__volley__aura.html#ab11b84522134ee4d13504df3c19f69b8":[7,0,3257,2],
-"d9/d64/classspell__icc__yh__volley__aura.html#ae040da0db1147652266e1f373838df37":[7,0,3257,1],
-"d9/d64/classspell__icc__yh__volley__aura.html#af3c3c90256913ffe188c11a21fc2dcc8":[7,0,3257,3],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html":[7,0,1665],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html#a7ed0731a015709ecd3c0c26fafb795ff":[7,0,1665,1],
-"d9/d65/classnpc__baltharus__the__warborn__clone.html#a87b50fbc3a67345f375b41c3cb2ba754":[7,0,1665,2],
-"d9/d65/structnpc__vilebranch__speaker.html":[7,0,2277],
-"d9/d65/structnpc__vilebranch__speaker.html#a236afb8512c2d941479f8a7c18f688a6":[7,0,2277,2]
+"d9/d64/classinstance__hyjal.html":[7,0,1334]
 };

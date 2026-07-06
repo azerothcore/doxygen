@@ -27,9 +27,7 @@ var boss__general__vezax_8cpp =
       [ "EVENT_RESTORE_TARGET", "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a4085e50ab24b1c850f3d2bd794e7bcfd", null ]
     ] ],
     [ "VezaxGOs", "d8/d93/boss__general__vezax_8cpp.html#a247f87b67f9639834c1ecd69fb31c186", null ],
-    [ "VezaxNpcs", "d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63d", [
-      [ "NPC_SARONITE_ANIMUS", "d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63da9545669ca68caa507220b5b121475d3c", null ]
-    ] ],
+    [ "VezaxNpcs", "d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63d", null ],
     [ "VezaxSpellData", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1", [
       [ "SPELL_VEZAX_BERSERK", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1af266dcd944395681aebb95f0173b5961", null ],
       [ "SPELL_VEZAX_SHADOW_CRASH", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a75ada0daac75380e5611d5951d0c642a", null ],

@@ -1,5 +1,17 @@
 var NAVTREEINDEX359 =
 {
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a8e209b142a58b3b3c0d84c430a086ade":[7,0,1638,0,0],
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#ab54eb5115b9c41b39f0de0f8f4412ef9":[7,0,1638,0,3],
+"dd/dfd/boss__ymiron_8cpp.html":[8,0,0,0,1,3,5,10,1,3],
+"dd/dfd/boss__ymiron_8cpp.html#a0208629733963e1bac3cbe1d8270f5e5":[8,0,0,0,1,3,5,10,1,3,6],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,10,1,3,4],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a02e3758dddb2393748b79bef8321a469":[8,0,0,0,1,3,5,10,1,3,4,26],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,10,1,3,4,2],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09b4878a4040076b2d630a3892532f15":[8,0,0,0,1,3,5,10,1,3,4,3],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0a9acfde63edd0a825a1e5a69925d754":[8,0,0,0,1,3,5,10,1,3,4,28],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11f55759520d9287f96f62c91a16d870":[8,0,0,0,1,3,5,10,1,3,4,21],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1214b7579787f881b7fea53b30a5f85a":[8,0,0,0,1,3,5,10,1,3,4,11],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a159ed2a289301849be1a0a518ac1c228":[8,0,0,0,1,3,5,10,1,3,4,5],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a197224a605f7525b070e97728863f7cf":[8,0,0,0,1,3,5,10,1,3,4,10],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1a43102f999dba2560706db5fb71ffec":[8,0,0,0,1,3,5,10,1,3,4,27],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2e2c3189550e01b923cdb036f9c0880a":[8,0,0,0,1,3,5,10,1,3,4,24],
@@ -237,17 +249,5 @@ var NAVTREEINDEX359 =
 "de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[7,0,539,17],
 "de/d06/structboss__headless__horseman.html#a9dde0cfcc41ec7d8b9f53e55057adab9":[7,0,539,18],
 "de/d06/structboss__headless__horseman.html#aa6741999e5a9a826efb279e014ea4ab8":[7,0,539,14],
-"de/d06/structboss__headless__horseman.html#abccf1fc3c5475e50d45bbd596ff98ce9":[7,0,539,10],
-"de/d06/structboss__headless__horseman.html#ac52c6590f78c23149abfb062d5814ded":[7,0,539,11],
-"de/d06/structboss__headless__horseman.html#ace502054c0e570655be9ea1990b48f9f":[7,0,539,12],
-"de/d06/structboss__headless__horseman.html#ad4bc4c5364d1c07c21f29747934efc01":[7,0,539,3],
-"de/d06/structboss__headless__horseman.html#ad5d8645b879a2c97c68e815463a97b49":[7,0,539,2],
-"de/d06/structboss__headless__horseman.html#ad98d9d303815f538e194a55578ae909a":[7,0,539,8],
-"de/d06/structboss__headless__horseman.html#aea5a5ee1fce56cefd84ebde29bcc5a1d":[7,0,539,4],
-"de/d06/structboss__headless__horseman.html#af0ee0c6da6398d6a84457aab942bb29c":[7,0,539,19],
-"de/d06/structboss__headless__horseman.html#afa5e099de3899e41b3ee04f348c3d6a0":[7,0,539,13],
-"de/d07/blood__furnace_8h.html":[8,0,0,0,1,3,7,4,0,0],
-"de/d07/blood__furnace_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,0,0,1],
-"de/d07/blood__furnace_8h.html#a059e1a38f9d79807d65ad8edfd39138f":[8,0,0,0,1,3,7,4,0,0,0],
-"de/d07/blood__furnace_8h.html#a4aa87dfa17e2fb43b14c2ca77bb22aeb":[8,0,0,0,1,3,7,4,0,0,6]
+"de/d06/structboss__headless__horseman.html#abccf1fc3c5475e50d45bbd596ff98ce9":[7,0,539,10]
 };

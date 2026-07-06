@@ -1,5 +1,17 @@
 var NAVTREEINDEX148 =
 {
+"d5/d34/classspell__item__lifegiving__gem.html#acfafbf43e12f72131e58434051dcc510":[7,0,3389,2],
+"d5/d34/structMovieEntry.html":[7,0,1563],
+"d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[7,0,1563,0],
+"d5/d34/structProgressionRequirement.html":[7,0,2463],
+"d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a":[7,0,2463,3],
+"d5/d34/structProgressionRequirement.html#a23c649e494795b27856b67225370a820":[7,0,2463,1],
+"d5/d34/structProgressionRequirement.html#a3a66018ae4e7a7e755962f1edae58d29":[7,0,2463,4],
+"d5/d34/structProgressionRequirement.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360":[7,0,2463,2],
+"d5/d34/structProgressionRequirement.html#ade8f2e22abe69a9a32085e4d901bc83b":[7,0,2463,0],
+"d5/d35/structnpc__apothecary__baxter.html":[7,0,1635],
+"d5/d35/structnpc__apothecary__baxter.html#a4a41816ff4f857a15a4665b8da1aec99":[7,0,1635,0],
+"d5/d35/structnpc__apothecary__baxter.html#a6d813041e055f3c2b28be7cba3acde13":[7,0,1635,4],
 "d5/d35/structnpc__apothecary__baxter.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9":[7,0,1635,1],
 "d5/d35/structnpc__apothecary__baxter.html#ad06090f599d0fda3a88f3182c990a49f":[7,0,1635,3],
 "d5/d35/structnpc__apothecary__baxter.html#afee5103029bd761c48cbf6a11655c44a":[7,0,1635,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a772d279407d724477560898559710433":[7,0,716,0,2],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[7,0,716,0,0],
 "d5/d4a/structzm__beacon.html":[7,0,4659],
-"d5/d4a/structzm__beacon.html#a0107bfd3b1df99568e02d6ca80042c86":[7,0,4659,8],
-"d5/d4a/structzm__beacon.html#a0453edceab2132e900bec183e360e210":[7,0,4659,4],
-"d5/d4a/structzm__beacon.html#a3dc0a11a5c06079026d27852e7561b74":[7,0,4659,1],
-"d5/d4a/structzm__beacon.html#a65015a3a24a5554643ecb5da47e24eea":[7,0,4659,6],
-"d5/d4a/structzm__beacon.html#a94a5fa0517fd0713b74f50a3d1d627cc":[7,0,4659,9],
-"d5/d4a/structzm__beacon.html#a9a65209caac3791b835c1920f5a667cf":[7,0,4659,2],
-"d5/d4a/structzm__beacon.html#aa30ae484db7c69137abb13adb1b3c505":[7,0,4659,3],
-"d5/d4a/structzm__beacon.html#ac80d575f14dca1c901be55e34cc690e1":[7,0,4659,0],
-"d5/d4a/structzm__beacon.html#acc63481f7613242ac06c6bee6c136a30":[7,0,4659,7],
-"d5/d4a/structzm__beacon.html#ae0fd99db88e6c60b829a18ff8e4be9a0":[7,0,4659,10],
-"d5/d4a/structzm__beacon.html#aec3c8dde769675e3f436515c7a3bcf24":[7,0,4659,5],
-"d5/d4b/classinstance__zulfarrak.html":[7,0,1383],
-"d5/d4b/classinstance__zulfarrak.html#a5f092341e49848c9d321452be2193d56":[7,0,1383,2]
+"d5/d4a/structzm__beacon.html#a0107bfd3b1df99568e02d6ca80042c86":[7,0,4659,8]
 };

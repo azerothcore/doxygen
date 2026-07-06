@@ -1,5 +1,17 @@
 var NAVTREEINDEX114 =
 {
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba568fb0d818564bf3fd24440680ed2093":[8,0,0,0,1,2,8,1,3,25,36],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba60324dfaa0ef24c0ebcb428e1873a0e7":[8,0,0,0,1,2,8,1,3,25,6],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba62c28d8a221739b106fc68916f2fc26a":[8,0,0,0,1,2,8,1,3,25,7],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba63e5f1e003dbbdb92ed4be0e639301be":[8,0,0,0,1,2,8,1,3,25,18],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba66435e2e53e6919d2d8354a497173087":[8,0,0,0,1,2,8,1,3,25,16],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba679164b3ab1a80c6508e971b2e56573c":[8,0,0,0,1,2,8,1,3,25,34],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba704566d1ca16d7eb68bf96ae77c3a1d7":[8,0,0,0,1,2,8,1,3,25,26],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba74ede1b0e72291f0511d60a46c7905c2":[8,0,0,0,1,2,8,1,3,25,17],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba7af982f9b0e4e913cd73f9dbbd3b5d3c":[8,0,0,0,1,2,8,1,3,25,39],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba96d55183a3ddc0b4a773419b966c60f2":[8,0,0,0,1,2,8,1,3,25,19],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba97aae1b71b17965675eaddc04f2f7d79":[8,0,0,0,1,2,8,1,3,25,22],
+"d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba9a5033d94900d1f38d81bf0b78afc0cd":[8,0,0,0,1,2,8,1,3,25,38],
 "d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba9b4c81e8904330a69efe40ac1a23f72e":[8,0,0,0,1,2,8,1,3,25,35],
 "d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487ba9cc1ea65e19a9b24f8a3a3e9eb759560":[8,0,0,0,1,2,8,1,3,25,40],
 "d3/dd4/BattlegroundAV_8h.html#a6cc49e7cee8f45e747b3b2126167487baac8b727e4ebda2c58536fb720e3c0cf3":[8,0,0,0,1,2,8,1,3,25,12],
@@ -237,17 +249,5 @@ var NAVTREEINDEX114 =
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da92e3bd86019484a3c2b9ed3d63559779":[8,0,0,0,1,2,8,1,3,21,64],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da93c639766c643b8c90f4fb335c9932ad":[8,0,0,0,1,2,8,1,3,21,23],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da9429746699d28e239ad2bab2ba1766d7":[8,0,0,0,1,2,8,1,3,21,45],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daa58d417c7ae99bbee6bd479d998f10f0":[8,0,0,0,1,2,8,1,3,21,15],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daa6aac004632be14090ab74b16ecf29c0":[8,0,0,0,1,2,8,1,3,21,60],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daa6b814db53485f85c1abc5cb4e7fb62b":[8,0,0,0,1,2,8,1,3,21,16],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daa91cf4c54a674fbc0896ef7480210186":[8,0,0,0,1,2,8,1,3,21,1],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daab9d163d2ba282279499f8d397f07858":[8,0,0,0,1,2,8,1,3,21,56],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daad0b1a9d60cd856ec90aac52dbffc1b4":[8,0,0,0,1,2,8,1,3,21,8],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dab8aead80a7e6f8ded85ac453edd5d48d":[8,0,0,0,1,2,8,1,3,21,67],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dabc942baab2c9add34b72fbfc8b53f8c5":[8,0,0,0,1,2,8,1,3,21,47],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dac5244d716adf96518a118f7d111e035e":[8,0,0,0,1,2,8,1,3,21,41],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dacaad713e7049477137453109fb3bfaad":[8,0,0,0,1,2,8,1,3,21,48],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dace105506a34ebcb5e1b3fdf2c71ac944":[8,0,0,0,1,2,8,1,3,21,19],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dace298b9120a510d4b190dadb89c9ffaf":[8,0,0,0,1,2,8,1,3,21,0],
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dacf000e1718343b785e08ddbbef353335":[8,0,0,0,1,2,8,1,3,21,61]
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daa58d417c7ae99bbee6bd479d998f10f0":[8,0,0,0,1,2,8,1,3,21,15]
 };

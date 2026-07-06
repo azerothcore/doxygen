@@ -1,5 +1,17 @@
 var NAVTREEINDEX352 =
 {
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d":[8,0,0,0,1,2,33,1,8,0],
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[8,0,0,0,1,2,33,1,8,1],
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[8,0,0,0,1,2,33,1,8,3],
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470":[8,0,0,0,1,2,33,1,8,2],
+"dd/dae/boss__erekem_8cpp.html":[8,0,0,0,1,3,5,12,1],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,1,2],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[8,0,0,0,1,3,5,12,1,2,0],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a427b9c40709ca27786c5816e36640227":[8,0,0,0,1,3,5,12,1,2,2],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[8,0,0,0,1,3,5,12,1,2,4],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[8,0,0,0,1,3,5,12,1,2,6],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a75b13fc62a4d1499ac5db4508a22b31c":[8,0,0,0,1,3,5,12,1,2,3],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[8,0,0,0,1,3,5,12,1,2,5],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af7367c4fd2983cfdf945a7c40dae1fe0":[8,0,0,0,1,3,5,12,1,2,1],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,1,6],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,12,1,6,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX352 =
 "dd/db7/classAllSpellScript.html#a3cf7b45d8e9f5b23e2753d1624c4af78":[7,0,159,3],
 "dd/db7/classAllSpellScript.html#a54e0b823c538c41507c541db025d5295":[7,0,159,7],
 "dd/db7/classAllSpellScript.html#a5d02de785a4e1cf5103110828fac5e75":[7,0,159,6],
-"dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[7,0,159,0],
-"dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[7,0,159,10],
-"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[7,0,159,12],
-"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[7,0,159,14],
-"dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[7,0,159,11],
-"dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[7,0,159,13],
-"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[7,0,159,15],
-"dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[7,0,159,5],
-"dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[7,0,159,1],
-"dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[7,0,159,9],
-"dd/db8/classnpc__massive__jormungar.html":[7,0,1971],
-"dd/db8/classnpc__massive__jormungar.html#a68e3557e967ef633ba59fa81e661b80c":[7,0,1971,2],
-"dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[7,0,1971,1]
+"dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[7,0,159,0]
 };

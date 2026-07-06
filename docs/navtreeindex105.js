@@ -1,5 +1,17 @@
 var NAVTREEINDEX105 =
 {
+"d3/d8e/structnpc__demonic__vapor__trail.html":[7,0,1767],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a21e2223f58156da2fbe1803554623ecd":[7,0,1767,3],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d":[7,0,1767,1],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a5bd024ea050372e982a183da59b45904":[7,0,1767,0],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af":[7,0,1767,5],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a90810fcfc4f27a457917cb79f4320fe3":[7,0,1767,4],
+"d3/d8e/structnpc__demonic__vapor__trail.html#a9da762ab640abfaf5092034f284239af":[7,0,1767,2],
+"d3/d8f/SpellProcPipelineTest_8cpp.html":[8,0,0,0,2,2,0,10,21],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#a121e660142edeb8b8867984871635142":[8,0,0,0,2,2,0,10,21,16],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9":[8,0,0,0,2,2,0,10,21,10],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#a1e85b9df4ec0b3f7d770137f7b1184ec":[8,0,0,0,2,2,0,10,21,2],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#a35e27540c06c06c8f59ef51bb1a9d42e":[8,0,0,0,2,2,0,10,21,11],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a485ca0c9676a25a6fd8b861c804696d7":[8,0,0,0,2,2,0,10,21,4],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a4aea6e742bac43dda127936d36b603a8":[8,0,0,0,2,2,0,10,21,17],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a5cf9d910c9243364707c2f1dedd0582d":[8,0,0,0,2,2,0,10,21,13],
@@ -237,17 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805":[5,0,18,2],
 "d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3":[5,0,18,0],
 "d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52":[5,0,18,3],
-"d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296":[5,0,18,4],
-"d3/d98/structDynamicTreeLocationInfoCallback.html":[7,0,1028],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#a3c9be93de73520942a8d52b78fe72438":[7,0,1028,5],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#a3fcb6d535b2207e2bfedb961de856e6d":[7,0,1028,0],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#a4d2569c48cfa431282119ed5bd53ffb4":[7,0,1028,3],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#ac1c3839aa1f0e9b64390502c4ce7bb3e":[7,0,1028,2],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#ac939625c44c7be8ba8b96d55545b657c":[7,0,1028,1],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#adef79d7627daa66d88c7146704984622":[7,0,1028,4],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e":[7,0,1028,6],
-"d3/d98/structLocation.html":[7,0,1460],
-"d3/d98/structLocation.html#a10fbad67977d8dd3911eb629c1797684":[7,0,1460,2],
-"d3/d98/structLocation.html#a3785e9b55ea3a7140086ce1f86232109":[7,0,1460,0],
-"d3/d98/structLocation.html#a69fc2438e52f6c0de3af13900ff38166":[7,0,1460,3]
+"d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296":[5,0,18,4]
 };

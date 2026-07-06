@@ -1,5 +1,17 @@
 var NAVTREEINDEX413 =
 {
+"df/da7/classBattleground.html#a6b074774a7a466b05605f273bc222b71":[7,0,329,61],
+"df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[7,0,329,228],
+"df/da7/classBattleground.html#a6db7b367ed489939b824aa764670ae43":[7,0,329,171],
+"df/da7/classBattleground.html#a6e94cab0f83e750a3dc055601d98983b":[7,0,329,206],
+"df/da7/classBattleground.html#a6edc5a1f00d1196ceac9fdd755ccbaf6":[7,0,329,230],
+"df/da7/classBattleground.html#a6f861fa621a33725ad81bf5e5fa15cae":[7,0,329,155],
+"df/da7/classBattleground.html#a7069a6a0c423667739380b827d5826e8":[7,0,329,159],
+"df/da7/classBattleground.html#a7096403fa0cdcdf39f652ed71bc0f4d0":[7,0,329,59],
+"df/da7/classBattleground.html#a70e5ab71ed89ba73f2a459c9f42813e5":[7,0,329,148],
+"df/da7/classBattleground.html#a71418b0fceb061e0aa10a549adf42d9d":[7,0,329,140],
+"df/da7/classBattleground.html#a7266bc3ebcc9f1d768a1dabfc3f2f68d":[7,0,329,99],
+"df/da7/classBattleground.html#a77600e04bfa234872910493ad0445174":[7,0,329,65],
 "df/da7/classBattleground.html#a778e2873f50d2478f009880e7226cfa4":[7,0,329,33],
 "df/da7/classBattleground.html#a77f6397211139bdceca667631ac4b10c":[7,0,329,192],
 "df/da7/classBattleground.html#a780e22fd6af1c9c2ab79572da99b63f2":[7,0,329,82],
@@ -237,17 +249,5 @@ var NAVTREEINDEX413 =
 "df/db0/classOPvPCapturePointEP__CGT.html#ae7d57fe449bb38de013b18ecf2f9f07c":[7,0,2334,2],
 "df/db0/classboss__svala.html":[7,0,730],
 "df/db0/classboss__svala.html#a0c3b94635eca667a28496cf799efad25":[7,0,730,2],
-"df/db0/classboss__svala.html#a7ac5866eb6a013cb03f3d459b13b4a62":[7,0,730,1],
-"df/db1/classspell__pet__hit__expertise__scalling.html":[7,0,3754],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a08dca1818a687bb5862779e261dafb00":[7,0,3754,0],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a34933c7fe8b570214c821347f4ba974b":[7,0,3754,9],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a44703f4a1c5cfb74083bf74d7b77c23c":[7,0,3754,1],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a6ba389f156263462f5e80e3a9fb6f62e":[7,0,3754,4],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a803e26c6a4c06feedd80a4d94452aca5":[7,0,3754,7],
-"df/db1/classspell__pet__hit__expertise__scalling.html#a9c3e35d01ad863d146566efe7cca2637":[7,0,3754,8],
-"df/db1/classspell__pet__hit__expertise__scalling.html#ab31dfffdf449c1eef74c2bcd43469109":[7,0,3754,3],
-"df/db1/classspell__pet__hit__expertise__scalling.html#ac97a33580dc873af7b580d4fdf7ed9f6":[7,0,3754,5],
-"df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[7,0,3754,6],
-"df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[7,0,3754,2],
-"df/db1/structGraveyardData.html":[7,0,1239]
+"df/db0/classboss__svala.html#a7ac5866eb6a013cb03f3d459b13b4a62":[7,0,730,1]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX414 =
 {
+"df/db1/classspell__pet__hit__expertise__scalling.html":[7,0,3754],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a08dca1818a687bb5862779e261dafb00":[7,0,3754,0],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a34933c7fe8b570214c821347f4ba974b":[7,0,3754,9],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a44703f4a1c5cfb74083bf74d7b77c23c":[7,0,3754,1],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a6ba389f156263462f5e80e3a9fb6f62e":[7,0,3754,4],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a803e26c6a4c06feedd80a4d94452aca5":[7,0,3754,7],
+"df/db1/classspell__pet__hit__expertise__scalling.html#a9c3e35d01ad863d146566efe7cca2637":[7,0,3754,8],
+"df/db1/classspell__pet__hit__expertise__scalling.html#ab31dfffdf449c1eef74c2bcd43469109":[7,0,3754,3],
+"df/db1/classspell__pet__hit__expertise__scalling.html#ac97a33580dc873af7b580d4fdf7ed9f6":[7,0,3754,5],
+"df/db1/classspell__pet__hit__expertise__scalling.html#ad9aeb68e7d512f55f38f5a64d1d80f7f":[7,0,3754,6],
+"df/db1/classspell__pet__hit__expertise__scalling.html#af6e9dda7381a80d4de93c1a7402a2e2b":[7,0,3754,2],
+"df/db1/structGraveyardData.html":[7,0,1239],
 "df/db1/structGraveyardData.html#a287b04900d70f8ff8c6f6542edbd40a6":[7,0,1239,2],
 "df/db1/structGraveyardData.html#a4f6003cc76b70c83fbb8301cc9d5a7ad":[7,0,1239,1],
 "df/db1/structGraveyardData.html#aeeea8efaff8fe3f5044a7d5627a89cb6":[7,0,1239,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX414 =
 "df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[8,0,0,0,1,2,3,10,1],
 "df/dbe/classspell__warl__t4__2p__bonus__fire.html":[7,0,4295],
 "df/dbe/classspell__warl__t4__2p__bonus__fire.html#a0eb7295583f2c45c88ae266d66813b5b":[7,0,4295,1],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[7,0,4295,0],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ab8848a011ec8397bc5712ced54e09432":[7,0,4295,2],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ae35703b7d676fde170241dd64c3c5411":[7,0,4295,3],
-"df/dbe/structBuildValuesCachedBuffer.html":[7,0,839],
-"df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[7,0,839,0],
-"df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[7,0,839,1],
-"df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[7,0,839,2],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[7,0,1967,0],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1967,0,6],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[7,0,1967,0,7],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[7,0,1967,0,4],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[7,0,1967,0,5],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[7,0,1967,0,2]
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[7,0,4295,0]
 };

@@ -1922,7 +1922,7 @@ var searchData=
   ['npc_5fsanity_5fwell_1919',['NPC_SANITY_WELL',['../d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a59b5dd8939e8cce174a056513339d396',1,'boss_yoggsaron.cpp']]],
   ['npc_5fsapphiron_1920',['NPC_SAPPHIRON',['../d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fa753798a011625d594682290c3607986b',1,'naxxramas.h']]],
   ['npc_5fsara_1921',['NPC_SARA',['../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a43a870e0638f36d495cd0f2dbeee07d2',1,'ulduar.h']]],
-  ['npc_5fsaronite_5fanimus_1922',['NPC_SARONITE_ANIMUS',['../d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63da9545669ca68caa507220b5b121475d3c',1,'boss_general_vezax.cpp']]],
+  ['npc_5fsaronite_5fanimus_1922',['NPC_SARONITE_ANIMUS',['../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a9545669ca68caa507220b5b121475d3c',1,'ulduar.h']]],
   ['npc_5fsaronite_5fvapors_1923',['NPC_SARONITE_VAPORS',['../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8',1,'boss_general_vezax.cpp']]],
   ['npc_5fsartharion_1924',['npc_sartharion',['../dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10',1,'NPC_SARTHARION:&#160;ScriptedCreature.cpp'],['../d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6bac5fc96320a852557e13f1d4a95c8ff10',1,'NPC_SARTHARION:&#160;obsidian_sanctum.h']]],
   ['npc_5fsartharion_5fimage_1925',['NPC_SARTHARION_IMAGE',['../d6/d13/zone__dalaran_8cpp.html#aeb3f048836e1d1f9403c58631e6b4fb4a676cbf371f66552a157b5ad935a8360d',1,'zone_dalaran.cpp']]],

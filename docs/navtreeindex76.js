@@ -1,5 +1,17 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[7,0,2468,2],
+"d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[7,0,2468,0],
+"d2/ddb/structPyramidEventData.html#a9705a858cc2c3867e104514d3a0a1866":[7,0,2468,1],
+"d2/ddc/classspell__dk__master__of__ghouls.html":[7,0,2812],
+"d2/ddc/classspell__dk__master__of__ghouls.html#a105df22901477c34757e62a0305006d4":[7,0,2812,2],
+"d2/ddc/classspell__dk__master__of__ghouls.html#a16f2daff28dc07f2cac8d53f4813909f":[7,0,2812,3],
+"d2/ddc/classspell__dk__master__of__ghouls.html#a4c1f611b4fd0cf33f654d59e783db32a":[7,0,2812,1],
+"d2/ddc/classspell__dk__master__of__ghouls.html#a9923e38a2b5999d932d85be17a50ac83":[7,0,2812,0],
+"d2/ddc/structnpc__escortAI.html":[7,0,1793],
+"d2/ddc/structnpc__escortAI.html#a02a04466099a97b80c86bf47ad9cb7b6":[7,0,1793,6],
+"d2/ddc/structnpc__escortAI.html#a06346873da6190791587dc81929ab10b":[7,0,1793,32],
+"d2/ddc/structnpc__escortAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1793,36],
 "d2/ddc/structnpc__escortAI.html#a0d3b1aa075a95a36a72b98f5c18645e5":[7,0,1793,11],
 "d2/ddc/structnpc__escortAI.html#a113126628d5d07edef04ef02ebd208c4":[7,0,1793,9],
 "d2/ddc/structnpc__escortAI.html#a18e2a9657067cb76579414934a26de07":[7,0,1793,50],
@@ -237,17 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[7,0,4403,88],
 "d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[7,0,4403,184],
 "d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[7,0,4403,142],
-"d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[7,0,4403,6],
-"d2/de9/classSpellInfo.html#a05440c40b5df16a65decb684f884d33b":[7,0,4403,171],
-"d2/de9/classSpellInfo.html#a0696e18f727a511bfa4ac86a8c16b9f0":[7,0,4403,191],
-"d2/de9/classSpellInfo.html#a07eddba05562696df602a5e169caa7d3":[7,0,4403,7],
-"d2/de9/classSpellInfo.html#a0971bddc1632a3bb857a6a802506abcd":[7,0,4403,201],
-"d2/de9/classSpellInfo.html#a0a651a1cf655c9d5619f6b78e471656a":[7,0,4403,103],
-"d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[7,0,4403,42],
-"d2/de9/classSpellInfo.html#a0ddc3531aeb41a1fa93502d94621e025":[7,0,4403,181],
-"d2/de9/classSpellInfo.html#a0e4591c8f25d0186911111d9a8b3e160":[7,0,4403,159],
-"d2/de9/classSpellInfo.html#a109423f74f1db3f9e9ec8f0f0b4a1e5e":[7,0,4403,14],
-"d2/de9/classSpellInfo.html#a154f650ed5020b96a76cea54d31736af":[7,0,4403,202],
-"d2/de9/classSpellInfo.html#a16e049ec579732409fb7029e8f8863a1":[7,0,4403,175],
-"d2/de9/classSpellInfo.html#a185415f971271de2af5a352cc92932ef":[7,0,4403,143]
+"d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[7,0,4403,6]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX91 =
 {
+"d2/dfc/instance__serpent__shrine_8cpp.html":[8,0,0,0,1,3,7,2,0,6],
+"d2/dfc/instance__serpent__shrine_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,7,2,0,6,12],
+"d2/dfc/instance__serpent__shrine_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,0,6,11],
+"d2/dfc/instance__serpent__shrine_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,7,2,0,6,13],
+"d2/dfc/instance__serpent__shrine_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,2,0,6,10],
+"d2/dfc/instance__serpent__shrine_8cpp.html#accf317168271361913093466ba7f8f0e":[8,0,0,0,1,3,7,2,0,6,9],
+"d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,7,2,0,6,14],
+"d2/dfc/structnpc__sanguine__spirit.html":[7,0,2111],
+"d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[7,0,2111,0],
+"d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[7,0,2111,1],
+"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[7,0,2111,2],
+"d2/dfd/GuildMgr_8cpp.html":[8,0,0,0,1,2,21,2],
 "d2/dfd/classspell__putricide__ooze__tank__protection.html":[7,0,3824],
 "d2/dfd/classspell__putricide__ooze__tank__protection.html#a5eace3a973165eb82ae95b8052bb9476":[7,0,3824,1],
 "d2/dfd/classspell__putricide__ooze__tank__protection.html#a6d63b76821dbbd025bec1e8d48c8e9c9":[7,0,3824,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a21f9c24e80145db0c6847c81261d0e8d":[7,0,1843,0,7],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a6f9730b746e195a99dc11357fd0387ba":[7,0,1843,0,8],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a721cc96cc76a27574a1a4eb1996b100e":[7,0,1843,0,9],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a75444497ffd6b7365827eea57fd946f9":[7,0,1843,0,0],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a7f336843c54de072cf58bc87ff08b068":[7,0,1843,0,4],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a8bab1a755c2262e9f36f295781d30909":[7,0,1843,0,5],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a9c1825ec51aaecedd1035ae9a1ded6a0":[7,0,1843,0,1],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#aa19c815ad64f81fb5240c5e0667bccc9":[7,0,1843,0,3],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#af4480427460748bccae214737469ddb7":[7,0,1843,0,6],
-"d3/d09/zone__borean__tundra_8cpp.html":[8,0,0,0,1,3,5,15],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00d":[8,0,0,0,1,3,5,15,45],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0":[8,0,0,0,1,3,5,15,45,1],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00dac8a2c336b9eed7a90513476a0d95a8be":[8,0,0,0,1,3,5,15,45,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753ea":[8,0,0,0,1,3,5,15,35],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa11d28e938d92955f4e096347075ac6e0":[8,0,0,0,1,3,5,15,35,6],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa4024ad02fa31b228201d11fbec9c6d21":[8,0,0,0,1,3,5,15,35,0]
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a75444497ffd6b7365827eea57fd946f9":[7,0,1843,0,0]
 };

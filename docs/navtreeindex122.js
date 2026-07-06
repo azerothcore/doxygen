@@ -1,5 +1,17 @@
 var NAVTREEINDEX122 =
 {
+"d4/d1c/classspell__commander__sarannis__summon__reinforcements.html#a6ae0573ea69573df64cd57ba84f99918":[7,0,2745,2],
+"d4/d1c/classspell__commander__sarannis__summon__reinforcements.html#ab5794ca5c0863ce40194ed40e156279a":[7,0,2745,3],
+"d4/d1c/classspell__commander__sarannis__summon__reinforcements.html#acfd6b86e5afed08fd9cf43f64e948149":[7,0,2745,1],
+"d4/d1d/classspell__gen__lifeblood.html":[7,0,3056],
+"d4/d1d/classspell__gen__lifeblood.html#a0eee16c77a3c3cea882b67c78826a140":[7,0,3056,1],
+"d4/d1d/classspell__gen__lifeblood.html#a66b009487462241e573ea23f081a140a":[7,0,3056,0],
+"d4/d1d/classspell__gen__lifeblood.html#afeafc6922b0a0389fec969e3c7191dda":[7,0,3056,2],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html":[7,0,4136],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#a7535ef148e047e32a5f7a1944585e396":[7,0,4136,0],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#ab44b362197e74b98b3ffeb98eff52742":[7,0,4136,2],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#ad5305dd5a32a18802a9fce5daccf3051":[7,0,4136,1],
+"d4/d1d/instance__stratholme_8cpp.html":[8,0,0,0,1,3,2,10,2],
 "d4/d1d/instance__stratholme_8cpp.html#a1a89feed6c582c3bf3e51bf3a1027081":[8,0,0,0,1,3,2,10,2,7],
 "d4/d1d/instance__stratholme_8cpp.html#a3c5bc53064d7ed19146d61fbe2f25502":[8,0,0,0,1,3,2,10,2,5],
 "d4/d1d/instance__stratholme_8cpp.html#a4108af811b2731f9784942b89f333054":[8,0,0,0,1,3,2,10,2,4],
@@ -237,17 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d1e/halls__of__reflection_8h.html#aa1f1ef611bd6a3cb7c9130d85c1a750a":[8,0,0,0,1,3,5,4,1,3,34],
 "d4/d1e/halls__of__reflection_8h.html#aa89b3f92a3ff258325941cbc60b95cb4":[8,0,0,0,1,3,5,4,1,3,3],
 "d4/d1e/halls__of__reflection_8h.html#aaeb4896f33c027a03fdce65105c048e9":[8,0,0,0,1,3,5,4,1,3,41],
-"d4/d1e/halls__of__reflection_8h.html#ad4550aef34ca62c3a6d9256b6df9fb0a":[8,0,0,0,1,3,5,4,1,3,28],
-"d4/d1e/halls__of__reflection_8h.html#ad46916324407da5e4a8c80b8e14cd597":[8,0,0,0,1,3,5,4,1,3,25],
-"d4/d1e/halls__of__reflection_8h.html#adec5fd0d03700bf28da476841b22a325":[8,0,0,0,1,3,5,4,1,3,44],
-"d4/d1e/halls__of__reflection_8h.html#ae4c6cef48277dd690772a3685aaff31e":[8,0,0,0,1,3,5,4,1,3,43],
-"d4/d1e/halls__of__reflection_8h.html#ae66e95c14537a74ebd7d32542aa359ca":[8,0,0,0,1,3,5,4,1,3,19],
-"d4/d1e/halls__of__reflection_8h.html#aeac8b3d1b93efac8f6254613447d4846":[8,0,0,0,1,3,5,4,1,3,17],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,5,4,1,3,9],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a10f5f3d19996ce23277cfee5fe5f9120":[8,0,0,0,1,3,5,4,1,3,9,15],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2434bd858b0ee01e0097bd60fa936f41":[8,0,0,0,1,3,5,4,1,3,9,5],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a41d7c840aa31adaa4aa84a6d7b3e0e5e":[8,0,0,0,1,3,5,4,1,3,9,11],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a45a21d3443390c4987c7270c92ecb6b5":[8,0,0,0,1,3,5,4,1,3,9,14],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4beba7db429c52083d439baa4da667ca":[8,0,0,0,1,3,5,4,1,3,9,17],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6d0545e70a620ef4e1b900fcb622ab57":[8,0,0,0,1,3,5,4,1,3,9,16]
+"d4/d1e/halls__of__reflection_8h.html#ad4550aef34ca62c3a6d9256b6df9fb0a":[8,0,0,0,1,3,5,4,1,3,28]
 };

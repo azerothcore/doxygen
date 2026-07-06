@@ -1,5 +1,17 @@
 var NAVTREEINDEX411 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf":[8,0,0,0,1,3,6,8,18],
+"df/d9a/OutdoorPvPNA_8h.html#a23eddcc072a261674acb3acb48f637cb":[8,0,0,0,1,3,6,8,21],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809":[8,0,0,0,1,3,6,8,8],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76":[8,0,0,0,1,3,6,8,8,0],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba":[8,0,0,0,1,3,6,8,8,1],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547":[8,0,0,0,1,3,6,8,8,4],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799":[8,0,0,0,1,3,6,8,8,2],
+"df/d9a/OutdoorPvPNA_8h.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889":[8,0,0,0,1,3,6,8,8,3],
+"df/d9a/OutdoorPvPNA_8h.html#a2ca90cdca32c0c9a0fef5ece362bb3e6":[8,0,0,0,1,3,6,8,15],
+"df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789a":[8,0,0,0,1,3,6,8,6],
+"df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553":[8,0,0,0,1,3,6,8,6,2],
+"df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910":[8,0,0,0,1,3,6,8,6,0],
 "df/d9a/OutdoorPvPNA_8h.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94":[8,0,0,0,1,3,6,8,6,1],
 "df/d9a/OutdoorPvPNA_8h.html#a3951c5b11bab0eeb9b06c1e19b25c036":[8,0,0,0,1,3,6,8,3],
 "df/d9a/OutdoorPvPNA_8h.html#a3fba4585a3d42e96191aa62b6938472f":[8,0,0,0,1,3,6,8,19],
@@ -237,17 +249,5 @@ var NAVTREEINDEX411 =
 "df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa4c711c46840b6af1875c063444a25d2e":[8,0,0,0,1,3,5,2,0,1,9,0],
 "df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa5a04e89c8480510d7690caee50e835f1":[8,0,0,0,1,3,5,2,0,1,9,1],
 "df/da1/boss__black__knight_8cpp.html#aec5a3ee7e4ac17a1743d28ffa3ea7dfc":[8,0,0,0,1,3,5,2,0,1,12],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,2,0,1,8],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a066631db68d3e3f242aa73c4a1dc3073":[8,0,0,0,1,3,5,2,0,1,8,7],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a27f0ce9ee53d7da12092613f73030c51":[8,0,0,0,1,3,5,2,0,1,8,0],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ef49125cbf2c3261a8f962c712845c4":[8,0,0,0,1,3,5,2,0,1,8,2],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a0814056e110c04d57a7aaec3c13d81":[8,0,0,0,1,3,5,2,0,1,8,5],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5631ca8fd7c0d4a10621bb17edae1bfa":[8,0,0,0,1,3,5,2,0,1,8,6],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8348663aabf137582a17671bf5d5ff72":[8,0,0,0,1,3,5,2,0,1,8,4],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada198cbd93456614fce65c07c7c92749":[8,0,0,0,1,3,5,2,0,1,8,3],
-"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1f1281de86c6dad8f1f97b71b3c70c1":[8,0,0,0,1,3,5,2,0,1,8,1],
-"df/da1/classboss__baltharus__the__warborn.html":[7,0,409],
-"df/da1/classboss__baltharus__the__warborn.html#aababb8862273d60f140dce675131783d":[7,0,409,1],
-"df/da1/classboss__baltharus__the__warborn.html#afe7ecf8635c8c0a051047a801c2a8d54":[7,0,409,2],
-"df/da1/classspell__q12730__quenching__mist.html":[7,0,3906]
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,2,0,1,8]
 };

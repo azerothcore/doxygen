@@ -11,5 +11,6 @@ var instance__ulduar_8cpp =
     [ "ObservationRingKeeperData", "d5/db6/instance__ulduar_8cpp.html#a6755ef0777c335a9aa03f94b33600e69", null ],
     [ "ObservationRingKeeperEntry", "d5/db6/instance__ulduar_8cpp.html#af6bfb66273606245524ffbaeba5d81ba", null ],
     [ "ObservationRingKeepersPos", "d5/db6/instance__ulduar_8cpp.html#a32b0d989ca45f804d22a3fbe4c34e26d", null ],
+    [ "summonData", "d5/db6/instance__ulduar_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ],
     [ "vehiclePositions", "d5/db6/instance__ulduar_8cpp.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
 ];

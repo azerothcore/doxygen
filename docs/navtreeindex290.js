@@ -1,5 +1,17 @@
 var NAVTREEINDEX290 =
 {
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0333b4728e9288937711174743f19f60":[7,0,1381,0,5],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0f049806007e59363418d4e39f9e389b":[7,0,1381,0,7],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a17e62e8fe06617868baf85caedc3a0fc":[7,0,1381,0,1],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a47e596ca151268b9c3419ff2a2fffc1c":[7,0,1381,0,0],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a78bece51279e3f9e62800e4d80b00f64":[7,0,1381,0,6],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a7ba205e4988a20404f5e597331dd5d56":[7,0,1381,0,9],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a870ab2322971767fa37986743b31d20c":[7,0,1381,0,2],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#ad348102f71e070e7ef12da62238c7b0f":[7,0,1381,0,4],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#aed3807432711105589d0b060a21836cc":[7,0,1381,0,3],
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#affed3fb16f4e578fe86ae171e5b641d6":[7,0,1381,0,8],
+"db/d4d/classspell__dru__glyph__of__starfire__dummy.html":[7,0,2873],
+"db/d4d/classspell__dru__glyph__of__starfire__dummy.html#a3d4b8bfcc77087533d9bb1b1d5f6f637":[7,0,2873,2],
 "db/d4d/classspell__dru__glyph__of__starfire__dummy.html#a8cdacf8f2562c0c35fafaa24ac9d18c2":[7,0,2873,0],
 "db/d4d/classspell__dru__glyph__of__starfire__dummy.html#a9cc42ed6528e9e6dd253808c59286e02":[7,0,2873,1],
 "db/d4d/classspell__dru__glyph__of__starfire__dummy.html#abe19ae79c5bf1b0104cc3bc16570853a":[7,0,2873,3],
@@ -237,17 +249,5 @@ var NAVTREEINDEX290 =
 "db/d55/structboss__majordomo.html#a0994b92fd764dabfd46a041f40f91430":[7,0,623,6],
 "db/d55/structboss__majordomo.html#a1cc0689c21ddbf6eff6bd77d67f375fa":[7,0,623,7],
 "db/d55/structboss__majordomo.html#a36acd2797a6284d8169c325ee91ef9e4":[7,0,623,1],
-"db/d55/structboss__majordomo.html#a5b326322edaae37adf38d4479ac1f3e2":[7,0,623,11],
-"db/d55/structboss__majordomo.html#a66bfa0e86cee96ef7ed40892578eabd2":[7,0,623,16],
-"db/d55/structboss__majordomo.html#a67725d12e1e21d3a17ecdb3b4255112e":[7,0,623,9],
-"db/d55/structboss__majordomo.html#a72ebc3e2bbdf01d5951453479a09ed86":[7,0,623,8],
-"db/d55/structboss__majordomo.html#a7813d29acb394127003c657a78ba49a3":[7,0,623,3],
-"db/d55/structboss__majordomo.html#a7c18f6ed427829f8bf043fab4de16eb8":[7,0,623,15],
-"db/d55/structboss__majordomo.html#aa5c60db0a8fca290e40c06c76e86071c":[7,0,623,2],
-"db/d55/structboss__majordomo.html#aa8b25ae89f739c38d1761b36f7dd3fa1":[7,0,623,14],
-"db/d55/structboss__majordomo.html#aaa14f1315a46d4d06bf0227a080d0c49":[7,0,623,10],
-"db/d55/structboss__majordomo.html#ab1c57f9e8f82aa6712e7e265c6943bd2":[7,0,623,12],
-"db/d55/structboss__majordomo.html#ae1522ff98f287c5b7b4755b1f57d3337":[7,0,623,13],
-"db/d55/structboss__majordomo.html#af71fe99c6434c7be66a33793d0bbd8f8":[7,0,623,18],
-"db/d55/structboss__majordomo.html#afbfabce9d4c1adccc3c1e3623109f06c":[7,0,623,5]
+"db/d55/structboss__majordomo.html#a5b326322edaae37adf38d4479ac1f3e2":[7,0,623,11]
 };

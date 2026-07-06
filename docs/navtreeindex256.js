@@ -1,5 +1,17 @@
 var NAVTREEINDEX256 =
 {
+"d9/de7/classAreaTrigger__at__nats__landing.html#ac366e5b1db489b4f8bb8a1d07caa83c2":[7,0,179,0],
+"d9/de7/classFrostwyrmLandEvent.html":[7,0,1094],
+"d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[7,0,1094,1],
+"d9/de7/classFrostwyrmLandEvent.html#a6336050092606ebb27a180abff55dfa2":[7,0,1094,3],
+"d9/de7/classFrostwyrmLandEvent.html#a6b6a467c474a5b03be40e4d9a86eddc8":[7,0,1094,0],
+"d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[7,0,1094,2],
+"d9/de7/classspell__hakkar__power__down.html":[7,0,3155],
+"d9/de7/classspell__hakkar__power__down.html#a1063358ed71ded8454f35f43442354ab":[7,0,3155,2],
+"d9/de7/classspell__hakkar__power__down.html#a1f133ab9e85f80c225276bf744da6898":[7,0,3155,0],
+"d9/de7/classspell__hakkar__power__down.html#ae554f8be36eabc6d23f823e6d153be2b":[7,0,3155,1],
+"d9/de9/classspell__frog__kiss.html":[7,0,2957],
+"d9/de9/classspell__frog__kiss.html#a0aab07a4950f60a290491aa13103b332":[7,0,2957,2],
 "d9/de9/classspell__frog__kiss.html#a7fec959237546201ea94d5f87068e1c5":[7,0,2957,0],
 "d9/de9/classspell__frog__kiss.html#a92d5493a43fca5c54ef89cb19ce00aa2":[7,0,2957,3],
 "d9/de9/classspell__frog__kiss.html#ae0c3eafc8b227078a2dcaccf1c0a278b":[7,0,2957,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df5/structboss__sartharion.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5":[7,0,698,7],
 "d9/df5/structboss__sartharion.html#aef30845772ce56ad04091eda58b143ec":[7,0,698,13],
 "d9/df5/structboss__sartharion__dragonAI.html":[7,0,699],
-"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[7,0,699,14],
-"d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[7,0,699,7],
-"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[7,0,699,12],
-"d9/df5/structboss__sartharion__dragonAI.html#a152126a6deb6b79943f667e1dccfe7e5":[7,0,699,3],
-"d9/df5/structboss__sartharion__dragonAI.html#a16582179f25ddc130f97bb70fe80316f":[7,0,699,6],
-"d9/df5/structboss__sartharion__dragonAI.html#a26aff742f99b04bfaf56fa46158ce306":[7,0,699,10],
-"d9/df5/structboss__sartharion__dragonAI.html#a2988e9a5a8edd9aa807d8b13867fe6d7":[7,0,699,5],
-"d9/df5/structboss__sartharion__dragonAI.html#a308e282df080758c41c70f49f8977098":[7,0,699,13],
-"d9/df5/structboss__sartharion__dragonAI.html#a45a92a0754572b8d619fddbd1bdb234f":[7,0,699,15],
-"d9/df5/structboss__sartharion__dragonAI.html#a6870b91b1d36c79add8bd86a8e1fac4d":[7,0,699,9],
-"d9/df5/structboss__sartharion__dragonAI.html#a75cd7f27019e4013adde104e7663e5bc":[7,0,699,8],
-"d9/df5/structboss__sartharion__dragonAI.html#a852ab0dabe5b6d8e6b0a53e6425ff085":[7,0,699,16],
-"d9/df5/structboss__sartharion__dragonAI.html#a86acfe30f898bd6b709c4743ae808867":[7,0,699,11]
+"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[7,0,699,14]
 };

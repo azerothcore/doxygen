@@ -1,5 +1,17 @@
 var NAVTREEINDEX357 =
 {
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a98216e43888854ac93f22169a0e253e5":[7,0,1612,7],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#ad13b21d571833210b1c069b7ea8bea05":[7,0,1612,5],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#aead5ae4ffda9732829e39b8c485a3c3e":[7,0,1612,3],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47":[7,0,1612,1],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html":[7,0,3844],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a531f51626ae4527282ad1e628911a9ea":[7,0,3844,2],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a7123c451bce0f95ad75e5acfbe58a135":[7,0,3844,1],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a770b7ad0bb00114400a73f50c4aa6c81":[7,0,3844,0],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a8af86c58f438e78d8bf878f79d4a27e2":[7,0,3844,4],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#ae68bd9a92239a4796f9d8040787a68b3":[7,0,3844,3],
+"dd/dda/classnpc__koltira__deathweaver.html":[7,0,1936],
+"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[7,0,1936,1],
 "dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[7,0,1936,2],
 "dd/dda/classspell__dk__advantage__t10__4p.html":[7,0,2774],
 "dd/dda/classspell__dk__advantage__t10__4p.html#a04258b702d79372c0e9c2e1845a6563e":[7,0,2774,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX357 =
 "dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[7,0,1114,9],
 "dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[7,0,1114,12],
 "dd/dea/classspell__gen__holiday__buff__food.html":[7,0,3049],
-"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[7,0,3049,2],
-"dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[7,0,3049,3],
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[7,0,3049,1],
-"dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[7,0,3049,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,28],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[7,0,0,16],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[7,0,0,16,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2]
+"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[7,0,3049,2]
 };

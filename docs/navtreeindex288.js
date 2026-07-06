@@ -1,5 +1,17 @@
 var NAVTREEINDEX288 =
 {
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18":[8,0,0,0,0,1,0,0,7],
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[8,0,0,0,0,1,0,0,7,0],
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b":[8,0,0,0,0,1,0,0,7,1],
+"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165":[8,0,0,0,0,1,0,0,7,2],
+"db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316":[8,0,0,0,0,1,0,0,4],
+"db/d23/classspell__warr__retaliation.html":[7,0,4322],
+"db/d23/classspell__warr__retaliation.html#a5436413d098dde4b0fa1ed2259a47779":[7,0,4322,3],
+"db/d23/classspell__warr__retaliation.html#ab9b2a87dc91e2c6031a02043e6ce4f50":[7,0,4322,0],
+"db/d23/classspell__warr__retaliation.html#ae786a8c97e9f66152b8d0b55624a4eac":[7,0,4322,4],
+"db/d23/classspell__warr__retaliation.html#aeffb8490a7208ae6e32a505283afbc03":[7,0,4322,2],
+"db/d23/classspell__warr__retaliation.html#af01d160cb2a55124361a2dd113acd0a7":[7,0,4322,1],
+"db/d24/classspell__image__of__drakuru__reagent__check.html":[7,0,3305],
 "db/d24/classspell__image__of__drakuru__reagent__check.html#a2ad2c00807d07aeb55a8fd848a69f9d1":[7,0,3305,2],
 "db/d24/classspell__image__of__drakuru__reagent__check.html#a9489556e1e16cd2e0d5c43b38d7ea5ee":[7,0,3305,1],
 "db/d24/classspell__image__of__drakuru__reagent__check.html#ad5421ca3dd5bf802952f98e6d1170003":[7,0,3305,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX288 =
 "db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[7,0,770,2],
 "db/d37/classboss__urom.html#ae85d0bb54d3bf6571bec9d35f31a3e25":[7,0,770,1],
 "db/d37/classspell__dk__pet__scaling.html":[7,0,2815],
-"db/d37/classspell__dk__pet__scaling.html#a330ab5ee4c9b16928b3fae701c80acd4":[7,0,2815,0],
-"db/d37/classspell__dk__pet__scaling.html#a6b3e219b03f89bf20f0d394c14cfe8cd":[7,0,2815,7],
-"db/d37/classspell__dk__pet__scaling.html#a75d428e0b3619d53bd9436712d2e394e":[7,0,2815,1],
-"db/d37/classspell__dk__pet__scaling.html#a763276aaa00bb6953e0b52118662e7a8":[7,0,2815,3],
-"db/d37/classspell__dk__pet__scaling.html#a81805b43a47065281f83889d8be95c54":[7,0,2815,2],
-"db/d37/classspell__dk__pet__scaling.html#a8dc2c51f3cccb640286fb081a34d90d2":[7,0,2815,6],
-"db/d37/classspell__dk__pet__scaling.html#ab3c7d479eae88ab4a59b06610af19429":[7,0,2815,5],
-"db/d37/classspell__dk__pet__scaling.html#ad5595d4a32336568ac143e1ee1823ab3":[7,0,2815,4],
-"db/d37/classspell__gen__retaliation__toc.html":[7,0,3096],
-"db/d37/classspell__gen__retaliation__toc.html#a0185b616c63a3e9c20495b1c89ec6c68":[7,0,3096,4],
-"db/d37/classspell__gen__retaliation__toc.html#a15a781accded2e018cbf306e7a129eb9":[7,0,3096,0],
-"db/d37/classspell__gen__retaliation__toc.html#a4ed5d197b1d62bec0fec20f8cce90b7a":[7,0,3096,3],
-"db/d37/classspell__gen__retaliation__toc.html#ab64670a7714248d9bfb52d96cf7a6c70":[7,0,3096,2]
+"db/d37/classspell__dk__pet__scaling.html#a330ab5ee4c9b16928b3fae701c80acd4":[7,0,2815,0]
 };

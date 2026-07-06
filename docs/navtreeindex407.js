@@ -1,5 +1,17 @@
 var NAVTREEINDEX407 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[7,0,1800,0,1],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[7,0,1800,0,6],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[7,0,1800,0,5],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[7,0,1800,0,2],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[7,0,3163],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3163,3],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3163,1],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[7,0,3163,0],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[7,0,3163,2],
+"df/d6b/classspell__illidan__shadow__prison__aura.html":[7,0,3296],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[7,0,3296,0],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[7,0,3296,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[7,0,3296,1],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[7,0,3296,3],
 "df/d6c/classnpc__cult__adherent.html":[7,0,1743],
@@ -237,17 +249,5 @@ var NAVTREEINDEX407 =
 "df/d72/structgunship__npc__AI.html#acfd5e331155d7787ada33acbca73fece":[7,0,1277,4],
 "df/d72/structgunship__npc__AI.html#ad40c976be4decd9054dad031a4caab78":[7,0,1277,2],
 "df/d72/structgunship__npc__AI.html#ae120874514cf5921136821b820a04da7":[7,0,1277,6],
-"df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[7,0,1277,5],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[7,0,3031],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[7,0,3031,3],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[7,0,3031,1],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[7,0,3031,0],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[7,0,3031,2],
-"df/d75/classtele__commandscript.html":[7,0,4487],
-"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4487,0],
-"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[7,0,4487,2],
-"df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[7,0,4487,9],
-"df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[7,0,4487,8],
-"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[7,0,4487,7],
-"df/d75/classtele__commandscript.html#a7a45fa39afa6bae2359a68b11a504bc5":[7,0,4487,10]
+"df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[7,0,1277,5]
 };

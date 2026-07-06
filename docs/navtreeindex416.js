@@ -1,5 +1,17 @@
 var NAVTREEINDEX416 =
 {
+"df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[7,0,1036,7],
+"df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[7,0,1036,2],
+"df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[7,0,1036,12],
+"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[7,0,1036,8],
+"df/dd3/classachievement__shadowdodger.html":[7,0,95],
+"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[7,0,95,1],
+"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[7,0,95,0],
+"df/dd3/classspell__pal__heart__of__the__crusader.html":[7,0,3720],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a652e134d79d4e4a229b723c8d388cf5d":[7,0,3720,3],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a6583928e441d418130df561962518deb":[7,0,3720,1],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#a9548fa0c523182c58e0dcc76b2db7f69":[7,0,3720,2],
+"df/dd3/classspell__pal__heart__of__the__crusader.html#ac85ee0780894f16c8760ede0fa555bd8":[7,0,3720,0],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html":[7,0,813],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[7,0,813,1],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[7,0,813,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX416 =
 "df/dd9/classUnit.html#a12d4fd7f1f11ef43dcfb4cd66354f3e6":[7,0,4547,535],
 "df/dd9/classUnit.html#a134cec7305906d07193eb01713de4952":[7,0,4547,687],
 "df/dd9/classUnit.html#a1350682846c1ddb65567ec85e75e2df3":[7,0,4547,700],
-"df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222":[7,0,4547,182],
-"df/dd9/classUnit.html#a139aec46ca7c0672c07d7a95cf9df569":[7,0,4547,374],
-"df/dd9/classUnit.html#a13f8850805b0fcdbd03162abe7888362":[7,0,4547,47],
-"df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60":[7,0,4547,435],
-"df/dd9/classUnit.html#a144917f4cf0303f775460f7511f792cd":[7,0,4547,200],
-"df/dd9/classUnit.html#a148e79f1285e417f73d2a95b49fc2bf9":[7,0,4547,945],
-"df/dd9/classUnit.html#a14a53e0e6edda52c0a9a42af434b6041":[7,0,4547,491],
-"df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[7,0,4547,325],
-"df/dd9/classUnit.html#a14ae2eeba8829b9fc0a871b0a6df9110":[7,0,4547,360],
-"df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[7,0,4547,988],
-"df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76":[7,0,4547,679],
-"df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf":[7,0,4547,785],
-"df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b":[7,0,4547,309]
+"df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222":[7,0,4547,182]
 };

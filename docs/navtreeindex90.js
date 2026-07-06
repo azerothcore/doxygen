@@ -1,5 +1,17 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#a07db9078d2ad7d5e932e0f41c61bc71e":[8,0,0,0,1,2,14,1,127],
+"d2/df6/DBCStores_8h.html#a0ebd232e7ec9e0fdc1e296f3791c9d4b":[8,0,0,0,1,2,14,1,113],
+"d2/df6/DBCStores_8h.html#a10e6eae9259492fc3d02e034b6538583":[8,0,0,0,1,2,14,1,18],
+"d2/df6/DBCStores_8h.html#a155a342b9ae217cf65b09570727c8403":[8,0,0,0,1,2,14,1,32],
+"d2/df6/DBCStores_8h.html#a1611914a99682fc964ef95b9a788a969":[8,0,0,0,1,2,14,1,24],
+"d2/df6/DBCStores_8h.html#a173f98dd9664500fdbdd2f7dadb5885c":[8,0,0,0,1,2,14,1,9],
+"d2/df6/DBCStores_8h.html#a1a79dd4c705e4e52ad78394b48986723":[8,0,0,0,1,2,14,1,142],
+"d2/df6/DBCStores_8h.html#a1b0d29aae491efb8ada5ae931d7a968b":[8,0,0,0,1,2,14,1,108],
+"d2/df6/DBCStores_8h.html#a1eb137e3fb7e38599557bf7ce7c8a981":[8,0,0,0,1,2,14,1,1],
+"d2/df6/DBCStores_8h.html#a1ec062af8e28d0a2f82d9b1e73fd80e4":[8,0,0,0,1,2,14,1,126],
+"d2/df6/DBCStores_8h.html#a209289d531d894389cae6485e7107a48":[8,0,0,0,1,2,14,1,135],
+"d2/df6/DBCStores_8h.html#a239f66348c0bb960c7f1c9e424fa8120":[8,0,0,0,1,2,14,1,141],
 "d2/df6/DBCStores_8h.html#a24adf55f193f8eb56072886ef306dd7b":[8,0,0,0,1,2,14,1,109],
 "d2/df6/DBCStores_8h.html#a260c5dcdc0bd9e13b1c7857204810b16":[8,0,0,0,1,2,14,1,45],
 "d2/df6/DBCStores_8h.html#a26aa468f4cd8e16c405ed92f5506e489":[8,0,0,0,1,2,14,1,105],
@@ -237,17 +249,5 @@ var NAVTREEINDEX90 =
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#aa1693c8cc5bcc60a256f5d61f81cce1a":[7,0,644,0,4],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#adc83683c2f6a7073469cd2f5aa325717":[7,0,644,0,6],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#ade54a8fa42cbbf9febecf1a3eee00fd3":[7,0,644,0,2],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#af30c26b46b14e9e16fe5d48d4dcf23de":[7,0,644,0,7],
-"d2/dfc/instance__serpent__shrine_8cpp.html":[8,0,0,0,1,3,7,2,0,6],
-"d2/dfc/instance__serpent__shrine_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,7,2,0,6,12],
-"d2/dfc/instance__serpent__shrine_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,0,6,11],
-"d2/dfc/instance__serpent__shrine_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,7,2,0,6,13],
-"d2/dfc/instance__serpent__shrine_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,2,0,6,10],
-"d2/dfc/instance__serpent__shrine_8cpp.html#accf317168271361913093466ba7f8f0e":[8,0,0,0,1,3,7,2,0,6,9],
-"d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,7,2,0,6,14],
-"d2/dfc/structnpc__sanguine__spirit.html":[7,0,2111],
-"d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[7,0,2111,0],
-"d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[7,0,2111,1],
-"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[7,0,2111,2],
-"d2/dfd/GuildMgr_8cpp.html":[8,0,0,0,1,2,21,2]
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#af30c26b46b14e9e16fe5d48d4dcf23de":[7,0,644,0,7]
 };

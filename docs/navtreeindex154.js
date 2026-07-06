@@ -1,5 +1,17 @@
 var NAVTREEINDEX154 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aeaeb494e510455c220e23ee669ed721f":[8,0,0,0,1,2,0,3,4,9],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aeaee07979f7292b79ad9ba61a37b69ab":[8,0,0,0,1,2,0,3,4,392],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aeb490c9b9b036b76638a766af8a8ba39":[8,0,0,0,1,2,0,3,4,447],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aeb5f6922645afecd767cbfa8d3a03997":[8,0,0,0,1,2,0,3,4,134],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aebddeb214163d8a6534de2377b4de3d7":[8,0,0,0,1,2,0,3,4,538],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aec375609ddc2d1bedf3f786b4e18e13b":[8,0,0,0,1,2,0,3,4,318],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aed6e72048b98e53080ca2eb10d2c716b":[8,0,0,0,1,2,0,3,4,367],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aed9d903b9bd0dbb7034f790733dc7430":[8,0,0,0,1,2,0,3,4,295],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aee06db0412eba087fc8a50255c2f9872":[8,0,0,0,1,2,0,3,4,151],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aee4e3520497d9961e9e5b27ee64779a5":[8,0,0,0,1,2,0,3,4,194],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aeea6205645be1eb91ac95b9c3f9a6c52":[8,0,0,0,1,2,0,3,4,506],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aef5afe1f39cc1fd66e5cfa98f2bdf7f3":[8,0,0,0,1,2,0,3,4,230],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aefa955643f4ddb8a43a57fdf943e2b20":[8,0,0,0,1,2,0,3,4,406],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04aefc5d85774839d070de5c74db49a4fa7":[8,0,0,0,1,2,0,3,4,41],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af00fcce8fa92e7f9f95966781009a60c":[8,0,0,0,1,2,0,3,4,606],
@@ -237,17 +249,5 @@ var NAVTREEINDEX154 =
 "d5/d79/classCreatureAI.html#afd0302ecfe6e2381dc2bc5f89f2c2152":[7,0,942,42],
 "d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a":[7,0,942,18],
 "d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778":[7,0,942,21],
-"d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4":[7,0,942,25],
-"d5/d79/classCreatureAI.html#affb58f71126f78106d39a142d962210f":[7,0,942,7],
-"d5/d79/classspell__warhead__fuse__aura.html":[7,0,4254],
-"d5/d79/classspell__warhead__fuse__aura.html#a242faa8822f9cdb7762d8ec3b6245b30":[7,0,4254,2],
-"d5/d79/classspell__warhead__fuse__aura.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51":[7,0,4254,0],
-"d5/d79/classspell__warhead__fuse__aura.html#af415e4d7ea0b4b881af94eb7ea0c3f4c":[7,0,4254,1],
-"d5/d79/classspell__warr__bloodthirst__heal.html":[7,0,4301],
-"d5/d79/classspell__warr__bloodthirst__heal.html#a03afbdbdc8555fc2d558a5e48f7340a0":[7,0,4301,0],
-"d5/d79/classspell__warr__bloodthirst__heal.html#a61a601108cd59e5d87634c02b002e20d":[7,0,4301,1],
-"d5/d79/classspell__warr__bloodthirst__heal.html#ae46c965fc77aa61aaa3c426c8ecc585c":[7,0,4301,2],
-"d5/d79/structnpc__inner__demon.html":[7,0,1913],
-"d5/d79/structnpc__inner__demon.html#a12063a0125e0e9b5ba5a73f669bfcd84":[7,0,1913,0],
-"d5/d79/structnpc__inner__demon.html#a15ab3cd6576055ec7ba29a5ed44e73db":[7,0,1913,5]
+"d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4":[7,0,942,25]
 };

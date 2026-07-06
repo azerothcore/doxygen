@@ -1,5 +1,17 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a8fbaf0ab133a29ab460ec3cdd8d534f3":[8,0,0,0,1,3,7,1,5,16,2],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9b1e4c07831227b3e8a9aaeaa2eb229d":[8,0,0,0,1,3,7,1,5,16,11],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9eb85eaedbf643f0b6bc596a8b719d1e":[8,0,0,0,1,3,7,1,5,16,15],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ab2a6eb0728df4650d5339a15dce2793d":[8,0,0,0,1,3,7,1,5,16,14],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ab5bc66abb2ba6d57d9fffcac142990a3":[8,0,0,0,1,3,7,1,5,16,10],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ad056e57fa6a790c05d5751b4bfcf46f1":[8,0,0,0,1,3,7,1,5,16,6],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ad064226057c85841e7fbe247ceed4c20":[8,0,0,0,1,3,7,1,5,16,7],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ad881520b6a1932d285297e5b923098d2":[8,0,0,0,1,3,7,1,5,16,8],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ada38bd5081a49134274ba0fc0597b6aa":[8,0,0,0,1,3,7,1,5,16,4],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ae6e652a1f0ae50a8ebfbeee2c80d2856":[8,0,0,0,1,3,7,1,5,16,16],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,1,5,15],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a330320b43f0e6ad07928c51a5b9f99bb":[8,0,0,0,1,3,7,1,5,15,3],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72c4d9dfeb34f8aa5a19f8f00fe95f70":[8,0,0,0,1,3,7,1,5,15,4],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a82ea21423b627e67832379a35e2bdd60":[8,0,0,0,1,3,7,1,5,15,7],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8a1d444c672ea4140787274db335593c":[8,0,0,0,1,3,7,1,5,15,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX141 =
 "d4/dd9/structAchievementCriteriaEntry.html#ad54675c37ba0661d5452014656b7547a":[7,0,118,14],
 "d4/dd9/structAchievementCriteriaEntry.html#ad814974edc13b0ad59aa7ed178fd93f6":[7,0,118,25],
 "d4/dd9/structAchievementCriteriaEntry.html#ad8ee991ffab7388d713c438db372f199":[7,0,118,98],
-"d4/dd9/structAchievementCriteriaEntry.html#adb080c7935d608545ec2fb7a31cab34f":[7,0,118,87],
-"d4/dd9/structAchievementCriteriaEntry.html#adbe014d9306e4474df0ea81fbd5e81f2":[7,0,118,108],
-"d4/dd9/structAchievementCriteriaEntry.html#adbe3793eee75fd8f9cb6050e04e7935b":[7,0,118,110],
-"d4/dd9/structAchievementCriteriaEntry.html#adc7dd192a39e1f2b9b0b2fbec1dfe877":[7,0,118,63],
-"d4/dd9/structAchievementCriteriaEntry.html#adcf228c243993fc4772e33e0ad8754e2":[7,0,118,41],
-"d4/dd9/structAchievementCriteriaEntry.html#ade5d89e25c8885bbc7da1868e3793152":[7,0,118,43],
-"d4/dd9/structAchievementCriteriaEntry.html#ae4e260f078a60fe41c734ba1ee1e37fe":[7,0,118,37],
-"d4/dd9/structAchievementCriteriaEntry.html#ae7b5772fb8e84867d5a9a333819aa6aa":[7,0,118,112],
-"d4/dd9/structAchievementCriteriaEntry.html#ae7c877e362df31f35628c7d0dafa82b7":[7,0,118,19],
-"d4/dd9/structAchievementCriteriaEntry.html#af0f082b44c3591547ac5b9eade39a3d6":[7,0,118,35],
-"d4/dd9/structAchievementCriteriaEntry.html#af482c1ba2c84a5dea92eca6dbb8de357":[7,0,118,79],
-"d4/dd9/structAchievementCriteriaEntry.html#af9a6e7b5f1d66cbf07806f41523f88dc":[7,0,118,99],
-"d4/dd9/structAchievementCriteriaEntry.html#af9eca82a8aa556662c113bee4140e855":[7,0,118,93]
+"d4/dd9/structAchievementCriteriaEntry.html#adb080c7935d608545ec2fb7a31cab34f":[7,0,118,87]
 };

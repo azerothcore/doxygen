@@ -1,5 +1,17 @@
 var NAVTREEINDEX398 =
 {
+"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[8,0,0,0,1,2,16,5,7,2],
+"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[8,0,0,0,1,2,16,5,7,2,0],
+"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[8,0,0,0,1,2,16,5,7,2,1],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[7,0,3853],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a08f2f0aef00ce075572ff84643905a0a":[7,0,3853,0],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#a2046ac7f24989ff0bf50a3ee66dda104":[7,0,3853,2],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#ac1aacfbd71224d80eaed0b9a76ff673f":[7,0,3853,1],
+"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html#aded9f2e46cc3bf46f5699ce6fdf154ba":[7,0,3853,3],
+"df/d0e/classnpc__toc__pet__warlock.html":[7,0,2205],
+"df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[7,0,2205,1],
+"df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[7,0,2205,2],
+"df/d0e/classspell__igb__burning__pitch__selector.html":[7,0,3264],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[7,0,3264,1],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[7,0,3264,3],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[7,0,3264,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX398 =
 "df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167":[7,0,2390,53],
 "df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1":[7,0,2390,59],
 "df/d14/classPet.html#ab79fec2955813a0598a4a4fc972daa69":[7,0,2390,30],
-"df/d14/classPet.html#ab85942641ebca1533c4de72ff2f7abb2":[7,0,2390,64],
-"df/d14/classPet.html#ab9c3c5e18aa1585b489fc2d5983284f6":[7,0,2390,11],
-"df/d14/classPet.html#ac3613c8f36c300e05778b9a91ba28911":[7,0,2390,72],
-"df/d14/classPet.html#ac6c70dc906ba28d1bc991fdf9a79225f":[7,0,2390,42],
-"df/d14/classPet.html#ac731f71baf5d76ef5eead277e371605a":[7,0,2390,2],
-"df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0":[7,0,2390,38],
-"df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[7,0,2390,73],
-"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[7,0,2390,77],
-"df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[7,0,2390,23],
-"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[7,0,2390,80],
-"df/d14/classPet.html#adc0d7b4c353cf003020f9682e47b86b9":[7,0,2390,34],
-"df/d14/classPet.html#ae2e012cf32db4cb54424dd7a227beef7":[7,0,2390,87],
-"df/d14/classPet.html#ae3c907fb96ae318cb5766374090b8d5d":[7,0,2390,58]
+"df/d14/classPet.html#ab85942641ebca1533c4de72ff2f7abb2":[7,0,2390,64]
 };

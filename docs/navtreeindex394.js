@@ -1,5 +1,17 @@
 var NAVTREEINDEX394 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,0,2,3,4],
+"de/dcb/classspell__gen__bonked.html":[7,0,2997],
+"de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[7,0,2997,3],
+"de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[7,0,2997,0],
+"de/dcb/classspell__gen__bonked.html#a7909f23da8385abdabb62e5196d88d38":[7,0,2997,1],
+"de/dcb/classspell__gen__bonked.html#aa45c1c80f137dd90b5f0e06e19f09da6":[7,0,2997,2],
+"de/dcb/classspell__item__impale__leviroth.html":[7,0,3387],
+"de/dcb/classspell__item__impale__leviroth.html#a24610d5652ef85e883b1bac9256b30f7":[7,0,3387,3],
+"de/dcb/classspell__item__impale__leviroth.html#a2699b3bc033bdd896d0f9a4b3c067354":[7,0,3387,1],
+"de/dcb/classspell__item__impale__leviroth.html#a5d95d2329c750692d9a4facae9ddf781":[7,0,3387,0],
+"de/dcb/classspell__item__impale__leviroth.html#a8d83f9e52ba19f75647e99760439c380":[7,0,3387,2],
+"de/dcc/GridNotifiers_8cpp.html":[8,0,0,0,1,2,19,1,0],
 "de/dcc/GridNotifiers_8cpp.html#a6dd107031f342074ca560b711fe188d7":[8,0,0,0,1,2,19,1,0,0],
 "de/dcc/MoveSpline_8h.html":[8,0,0,0,1,2,31,1,5],
 "de/dcc/classspell__dk__blood__boil.html":[7,0,2781],
@@ -237,17 +249,5 @@ var NAVTREEINDEX394 =
 "de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[7,0,3108,4],
 "de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[7,0,3108,1],
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[7,0,3108,3],
-"de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[7,0,3108,0],
-"de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[7,0,3108,2],
-"de/de0/structSpellClickInfo.html":[7,0,4386],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[7,0,4386,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[7,0,4386,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[7,0,4386,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[7,0,4386,3],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[7,0,797,0],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[7,0,797,0,0],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[7,0,797,0,2],
-"de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#af519da543fff63a39a6fbe48f90f2f22":[7,0,797,0,1],
-"de/de1/classspell__pri__imp__shadowform.html":[7,0,3781],
-"de/de1/classspell__pri__imp__shadowform.html#a8daf8414ff4705741dfed0e818607741":[7,0,3781,2]
+"de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[7,0,3108,0]
 };

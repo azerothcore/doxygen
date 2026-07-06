@@ -1,5 +1,17 @@
 var NAVTREEINDEX406 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,31,21,6],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade8ab3f66eb603aae40a80fab7c52e67":[7,0,11,21,4],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade8ab3f66eb603aae40a80fab7c52e67":[5,0,31,21,4],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[5,0,31,21,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#ae6be88472cb03382ebd998178371cb60":[7,0,11,21,11],
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,31,21,8],
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[7,0,11,21,8],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[7,0,11,21,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,31,21,3],
+"df/d57/blackrock__depths_8cpp.html":[8,0,0,0,1,3,2,1,0,0],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[8,0,0,0,1,3,2,1,0,0,7],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[8,0,0,0,1,3,2,1,0,0,7,3],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9":[8,0,0,0,1,3,2,1,0,0,7,2],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803":[8,0,0,0,1,3,2,1,0,0,7,5],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134":[8,0,0,0,1,3,2,1,0,0,7,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX406 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a240e8f556176b9571bd08407276402be":[7,0,1800,0,3],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a5c3a3237579721b94dd433841b83bb02":[7,0,1800,0,10],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a71fea2fdf5079fbc1d8baa72e7e4ae82":[7,0,1800,0,7],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[7,0,1800,0,9],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[7,0,1800,0,1],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[7,0,1800,0,6],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[7,0,1800,0,5],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[7,0,1800,0,2],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[7,0,3163],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3163,3],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3163,1],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[7,0,3163,0],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[7,0,3163,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html":[7,0,3296],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[7,0,3296,0],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[7,0,3296,2]
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[7,0,1800,0,9]
 };
