@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67":[8,0,0,0,1,3,2,6,0,17,0],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17":[8,0,0,0,1,3,2,6,0,17,11],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f":[8,0,0,0,1,3,2,6,0,17,16],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a":[8,0,0,0,1,3,2,6,0,17,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dc/dfe/classQuestMenu.html#ab3d3881aabe000694acab37a3774507e":[7,0,2482,3],
 "dc/dfe/classQuestMenu.html#ac8735756bbf9f2fa799c505bd740e070":[7,0,2482,2],
 "dc/dfe/classspell__rog__honor__among__thieves__proc.html":[7,0,3974],
-"dc/dfe/classspell__rog__honor__among__thieves__proc.html#a95e386af9016e598e932177cb400fd8b":[7,0,3974,2],
-"dc/dfe/classspell__rog__honor__among__thieves__proc.html#ac157503562ac3ef9ddba2c358595ecc5":[7,0,3974,0]
+"dc/dfe/classspell__rog__honor__among__thieves__proc.html#a95e386af9016e598e932177cb400fd8b":[7,0,3974,2]
 };

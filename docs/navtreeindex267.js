@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/d50/structnpc__king__varian__wrynn.html#ae1b1aca3df1398a4f86f7b1deba5fd14":[7,0,1935,1],
 "da/d51/classspell__gen__feign__death__no__dyn__flag.html":[7,0,3030],
 "da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2120cecbca61e4c7380892fe8d43772a":[7,0,3030,2],
 "da/d51/classspell__gen__feign__death__no__dyn__flag.html#a2854357f92b1faac6e7840f1576138e0":[7,0,3030,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/d5e/structlfg_1_1LfgQueueStatusData.html":[7,0,5,14],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[7,0,5,14,4],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a398efafa1ef7faa6600d6fdb28306f49":[5,0,17,14,4],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74":[7,0,5,14,3],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74":[5,0,17,14,3]
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74":[7,0,5,14,3]
 };

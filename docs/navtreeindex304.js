@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[5,0,34,6,9,8],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[7,0,13,6,9,8],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad401eb3444f5ae50781e634e1f55eba1":[5,0,34,6,9,6],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad401eb3444f5ae50781e634e1f55eba1":[7,0,13,6,9,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "db/dca/classMapScript.html#a8132edffb918e8b3b1131ae29a8d9e9b":[7,0,1519,3],
 "db/dca/classMapScript.html#a9cef8253d591e729b4119312ec0b670a":[7,0,1519,6],
 "db/dca/classMapScript.html#aa2da3eeec627cb67719d774d35f03488":[7,0,1519,2],
-"db/dca/classMapScript.html#abf3fbb90119e1ac5d13455217ac95a2f":[7,0,1519,1],
-"db/dca/classspell__hun__glyph__of__mend__pet.html":[7,0,3217]
+"db/dca/classMapScript.html#abf3fbb90119e1ac5d13455217ac95a2f":[7,0,1519,1]
 };

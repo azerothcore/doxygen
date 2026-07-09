@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/d5a/classachievement__arena__by__type.html#abebdbf19fbf1b79c30114a9cf4ff98a4":[7,0,35,1],
 "d7/d5a/structBannedAddon.html":[7,0,319],
 "d7/d5a/structBannedAddon.html#a67c4437044d747ff9867a71967697767":[7,0,319,2],
 "d7/d5a/structBannedAddon.html#aa7d9dbd83fd1ef10fb125c798e293606":[7,0,319,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[7,0,709,9],
 "d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[7,0,709,10],
 "d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[7,0,709,16],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[7,0,13,6,32],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32]
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[7,0,13,6,32]
 };

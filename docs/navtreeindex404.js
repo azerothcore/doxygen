@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a03dc3870b23105bb1d0d207adefe2541":[7,0,1933,0,2],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[7,0,1933,0,0],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[7,0,1933,0,9],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[7,0,1933,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d48/classspell__shield__generator__aura.html#a9166627cbaa536405975444c4ef601de":[7,0,4088,1],
 "df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[7,0,4088,3],
 "df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[7,0,4088,2],
-"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[7,0,4088,5],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html":[7,0,1666,0]
+"df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[7,0,4088,5]
 };

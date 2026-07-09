@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d5/d1b/classThreatManager.html#aa72b714dec8d776298393abaab1f0d80":[7,0,4498,36],
 "d5/d1b/classThreatManager.html#aa8198b23540399ed0b2601c1ca824d60":[7,0,4498,76],
 "d5/d1b/classThreatManager.html#aa972511b0dd2fab787dcb7fc72506c60":[7,0,4498,61],
 "d5/d1b/classThreatManager.html#aad853564143121379cc5dfc4bc330a76":[7,0,4498,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d26/structnpc__obsidian__eradicator.html":[7,0,2012],
 "d5/d26/structnpc__obsidian__eradicator.html#a1697d83e89559f047d5bab652007bb61":[7,0,2012,3],
 "d5/d26/structnpc__obsidian__eradicator.html#a7c76c7d3a69e464c0dcb6a96226baa61":[7,0,2012,2],
-"d5/d26/structnpc__obsidian__eradicator.html#a84a6c414b3d74468143984e57f83e383":[7,0,2012,0],
-"d5/d26/structnpc__obsidian__eradicator.html#ab03b7138306a04a00938bf1cdb9a7966":[7,0,2012,1]
+"d5/d26/structnpc__obsidian__eradicator.html#a84a6c414b3d74468143984e57f83e383":[7,0,2012,0]
 };

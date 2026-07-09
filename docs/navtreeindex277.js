@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"da/db4/classspell__warl__nightfall.html#ace2673bc17210f349e47586c0e626dc5":[7,0,4282,2],
 "da/db5/boss__ambassador__hellmaw_8cpp.html":[8,0,0,0,1,3,7,0,3,0],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,0,3,0,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ea25df5d0311ff5aa6cb5889f791d1c":[8,0,0,0,1,3,7,0,3,0,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6acbd98944ea291d0184231e6f11ce8809":[8,0,0,0,1,2,16,7,5,112,7],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6ad72337b94b0ebb1e76c6fd5816ab5b68":[8,0,0,0,1,2,16,7,5,112,6],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6ae9de3dd1ad6d6efc4537606f58c5d640":[8,0,0,0,1,2,16,7,5,112,9],
-"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6af10aa0d65a4e380202bb59d2de620714":[8,0,0,0,1,2,16,7,5,112,0],
-"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6af1748f748ca32c5a9461a421445582cb":[8,0,0,0,1,2,16,7,5,112,8]
+"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6af10aa0d65a4e380202bb59d2de620714":[8,0,0,0,1,2,16,7,5,112,0]
 };

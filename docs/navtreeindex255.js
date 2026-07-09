@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[7,0,4027,3],
 "d9/dd0/classspell__sha__bloodlust.html#aa37525d089348f58e3d871830caa3417":[7,0,4027,1],
 "d9/dd0/classspell__sha__bloodlust.html#ac22ae27019de6bd951bb00262c6df9a3":[7,0,4027,0],
 "d9/dd0/classspell__sha__bloodlust.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9":[7,0,4027,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "d9/de5/classspell__hun__cower.html#a83bf0327aade6f6a33293a442ad10911":[7,0,3212,0],
 "d9/de5/classspell__hun__cower.html#aa964f4eb7391dab54ff744fc94306de1":[7,0,3212,1],
 "d9/de6/CharacterHandler_8cpp.html":[8,0,0,0,1,2,22,9],
-"d9/de7/classAreaTrigger__at__nats__landing.html":[7,0,179],
-"d9/de7/classAreaTrigger__at__nats__landing.html#a67434f74300fa3463e679afb7d344467":[7,0,179,1]
+"d9/de7/classAreaTrigger__at__nats__landing.html":[7,0,179]
 };

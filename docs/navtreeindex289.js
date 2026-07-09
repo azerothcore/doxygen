@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d37/classspell__dk__pet__scaling.html#a330ab5ee4c9b16928b3fae701c80acd4":[7,0,2815,0],
 "db/d37/classspell__dk__pet__scaling.html#a6b3e219b03f89bf20f0d394c14cfe8cd":[7,0,2815,7],
 "db/d37/classspell__dk__pet__scaling.html#a75d428e0b3619d53bd9436712d2e394e":[7,0,2815,1],
 "db/d37/classspell__dk__pet__scaling.html#a763276aaa00bb6953e0b52118662e7a8":[7,0,2815,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d4b/classspell__q12943__shadow__vault__decree.html":[7,0,3916],
 "db/d4b/classspell__q12943__shadow__vault__decree.html#a0223c05b5832c64b248e82eba770f7fa":[7,0,3916,1],
 "db/d4b/classspell__q12943__shadow__vault__decree.html#acef8bf4c93226e1b4c95f8b8cdd80f40":[7,0,3916,0],
-"db/d4b/classspell__q12943__shadow__vault__decree.html#aef93e3c5a60633f69871bbd49d40caf5":[7,0,3916,2],
-"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html":[7,0,1381,0]
+"db/d4b/classspell__q12943__shadow__vault__decree.html#aef93e3c5a60633f69871bbd49d40caf5":[7,0,3916,2]
 };

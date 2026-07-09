@@ -1,6 +1,7 @@
 var NAVTREEINDEX184 =
 {
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,31,20],
+"d6/d85/classVMAP_1_1VMapFactory.html":[7,0,11,20],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,31,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[7,0,11,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
@@ -32,8 +33,8 @@ var NAVTREEINDEX184 =
 "d6/d85/classspell__brewfest__unfill__keg.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e":[7,0,2714,2],
 "d6/d85/classspell__brewfest__unfill__keg.html#a46dfe7b2f8598d24f17868266d1571c6":[7,0,2714,0],
 "d6/d85/classspell__brewfest__unfill__keg.html#a4f8ab6e42ddf2188ccca2640363b9925":[7,0,2714,1],
-"d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
 "d6/d85/structAcore_1_1CreatureWorker.html":[5,0,0,59],
+"d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,0,59,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,0,59,2],
@@ -75,10 +76,10 @@ var NAVTREEINDEX184 =
 "d6/d86/classGuild_1_1BankMoveItemData.html#ae9d8f497b4459c982ac73ee8b5742aad":[7,0,1272,1,6],
 "d6/d88/classMovement_1_1TransportPathTransform.html":[5,0,21,13],
 "d6/d88/classMovement_1_1TransportPathTransform.html":[7,0,7,13],
-"d6/d88/classMovement_1_1TransportPathTransform.html#a15428c0b9a8b11f7f63845a7d65620e8":[7,0,7,13,2],
 "d6/d88/classMovement_1_1TransportPathTransform.html#a15428c0b9a8b11f7f63845a7d65620e8":[5,0,21,13,2],
-"d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[5,0,21,13,1],
+"d6/d88/classMovement_1_1TransportPathTransform.html#a15428c0b9a8b11f7f63845a7d65620e8":[7,0,7,13,2],
 "d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[7,0,7,13,1],
+"d6/d88/classMovement_1_1TransportPathTransform.html#ac86e405f0d39698c400d7a8d2ab10607":[5,0,21,13,1],
 "d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[5,0,21,13,0],
 "d6/d88/classMovement_1_1TransportPathTransform.html#af73e0369a2f0e4c2aabfde5b47b7520d":[7,0,7,13,0],
 "d6/d88/classMovement_1_1TransportPathTransform.html#afad44bc388b7d224f7a87aed7ba2e120":[7,0,7,13,3],
@@ -89,12 +90,12 @@ var NAVTREEINDEX184 =
 "d6/d89/CreatureAISelector_8cpp.html#a2ce404e9b85f551638d8783c01a19860":[8,0,0,0,1,2,3,9,4],
 "d6/d89/CreatureAISelector_8cpp.html#aaf9c138ae6c123d03859db553a39892d":[8,0,0,0,1,2,3,9,1],
 "d6/d89/CreatureAISelector_8cpp.html#ad553c2186f078e696768d40d217738f8":[8,0,0,0,1,2,3,9,3],
-"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html":[5,0,34,12,6],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html":[7,0,13,12,6],
+"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html":[5,0,34,12,6],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a22dd8d9fcbadbec5ba046812f5cdac51":[7,0,13,12,6,1],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a22dd8d9fcbadbec5ba046812f5cdac51":[5,0,34,12,6,1],
-"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[7,0,13,12,6,0],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[5,0,34,12,6,0],
+"d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#a4a68127f3290d4f2e288600757dd3282":[7,0,13,12,6,0],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#af7b95e5b976af2fa7bb4c61319f7eb97":[7,0,13,12,6,2],
 "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html#af7b95e5b976af2fa7bb4c61319f7eb97":[5,0,34,12,6,2],
 "d6/d8b/classTestPlayer.html":[7,0,4494],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a86971339e6fcbffb3c019e4dc29972b3":[7,0,2247,0,2],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#a9af455266dd2a843ac1a2c4e56d50e78":[7,0,2247,0,4],
 "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#ac69d21f3820f2c01a80ff664c317d111":[7,0,2247,0,0],
-"d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#ad8cd47f6c75042d589fc6fae4603c9f2":[7,0,2247,0,5],
-"d6/d95/structGlyphPropertiesEntry.html":[7,0,1134]
+"d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html#ad8cd47f6c75042d589fc6fae4603c9f2":[7,0,2247,0,5]
 };

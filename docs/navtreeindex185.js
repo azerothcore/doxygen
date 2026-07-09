@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/d95/structGlyphPropertiesEntry.html":[7,0,1134],
 "d6/d95/structGlyphPropertiesEntry.html#a9f283a7c8339cc5b4fa67f3974ce8621":[7,0,1134,0],
 "d6/d95/structGlyphPropertiesEntry.html#aae92871758e9a738a888cacf0946f16b":[7,0,1134,2],
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[7,0,1134,1],
@@ -9,12 +10,12 @@ var NAVTREEINDEX185 =
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[7,0,982,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,982,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,982,3,3],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,982,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,982,3,0],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,982,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[7,0,982,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[7,0,982,3,12],
-"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,6],
+"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,982,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[7,0,982,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[7,0,982,3,2],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,982,3,9],
@@ -181,8 +182,8 @@ var NAVTREEINDEX185 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[7,0,13,11,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/da0/structBoardCell.html#ac919854a2e9d5fc2d1b68960e16cf79d":[7,0,378,3],
 "d6/da0/structPacketCounter.html":[4,1,18],
 "d6/da0/structPacketCounter.html#ae0f3f2a90a24b48d239e3df3525f8fdc":[4,1,18,1],
-"d6/da0/structPacketCounter.html#af652ffc837bde625aa39e913ec2e2eec":[4,1,18,0],
-"d6/da2/ProcessPriority_8cpp.html":[8,0,0,0,0,14,4]
+"d6/da0/structPacketCounter.html#af652ffc837bde625aa39e913ec2e2eec":[4,1,18,0]
 };

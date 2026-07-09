@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d88/classTakenAutoTriggerTest.html#ac3f2160779c59e93dd155c766563bc98":[7,0,4476,0],
 "da/d89/classnpc__wg__spirit__guide.html":[7,0,2292],
 "da/d89/classnpc__wg__spirit__guide.html#a2d46078cb47f817239685d168f7f2e35":[7,0,2292,3],
 "da/d89/classnpc__wg__spirit__guide.html#a769cdf4ac330b5dec71437d325aaf46a":[7,0,2292,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html":[7,0,13,2,5],
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a147071f2545cd91213d6c92dab7438c7":[7,0,13,2,5,1],
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a147071f2545cd91213d6c92dab7438c7":[5,0,34,2,5,1],
-"da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a2bf832827f9497a59bbfac714799b4b5":[7,0,13,2,5,2],
-"da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a2bf832827f9497a59bbfac714799b4b5":[5,0,34,2,5,2]
+"da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a2bf832827f9497a59bbfac714799b4b5":[7,0,13,2,5,2]
 };

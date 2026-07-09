@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/da7/classBattleground.html#a68801719078831805d8b40aa39138c5f":[7,0,329,229],
 "df/da7/classBattleground.html#a6b074774a7a466b05605f273bc222b71":[7,0,329,61],
 "df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[7,0,329,228],
 "df/da7/classBattleground.html#a6db7b367ed489939b824aa764670ae43":[7,0,329,171],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/db0/classOPvPCapturePointEP__CGT.html#ada14179a31fb6235b7882a190dc96c40":[7,0,2334,5],
 "df/db0/classOPvPCapturePointEP__CGT.html#ae7d57fe449bb38de013b18ecf2f9f07c":[7,0,2334,2],
 "df/db0/classboss__svala.html":[7,0,730],
-"df/db0/classboss__svala.html#a0c3b94635eca667a28496cf799efad25":[7,0,730,2],
-"df/db0/classboss__svala.html#a7ac5866eb6a013cb03f3d459b13b4a62":[7,0,730,1]
+"df/db0/classboss__svala.html#a0c3b94635eca667a28496cf799efad25":[7,0,730,2]
 };

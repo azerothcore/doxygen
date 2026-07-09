@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/dec/structGameObjectTemplateAddon.html#a4120c9184b4cfab7afada48ccf8e713e":[7,0,1118,3],
 "d5/dec/structGameObjectTemplateAddon.html#a77e0b2613b7a1cda1bd306f066e63a39":[7,0,1118,2],
 "d5/dec/structGameObjectTemplateAddon.html#a7ae038f7051f3da177d3cdc95ef608d2":[7,0,1118,0],
 "d5/dec/structGameObjectTemplateAddon.html#ae1378dcb4327a4d000c3299a32f9d23f":[7,0,1118,1],
@@ -64,8 +65,8 @@ var NAVTREEINDEX165 =
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1001],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1001,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1001,9],
@@ -90,10 +91,10 @@ var NAVTREEINDEX165 =
 "d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
 "d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[7,0,0,65,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
@@ -214,8 +215,8 @@ var NAVTREEINDEX165 =
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eaf9613db3725f3d2ee90e2f29d95f209a":[8,0,0,0,1,3,7,5,0,0,7,3],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[7,0,0,4,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[5,0,0,7,0,0],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[7,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[5,0,0,7,0,0,0],
+"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[7,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[5,0,0,7,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[7,0,0,4,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[5,0,0,7,0,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cac02245ef078d26414d241077935f652b":[8,0,0,0,1,3,7,2,0,0,9,9],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad0ea0d38c049194d81f13d4c335d6780":[8,0,0,0,1,3,7,2,0,0,9,0],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad34841733026dae0e9f9956ed01b79bd":[8,0,0,0,1,3,7,2,0,0,9,19],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad7fb566b5ad0b8b2d555cc919f14e48a":[8,0,0,0,1,3,7,2,0,0,9,14],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298caec68f95d5e33616002caa423993a515f":[8,0,0,0,1,3,7,2,0,0,9,10]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a5bd342133be8c2137b831460acc9298cad7fb566b5ad0b8b2d555cc919f14e48a":[8,0,0,0,1,3,7,2,0,0,9,14]
 };

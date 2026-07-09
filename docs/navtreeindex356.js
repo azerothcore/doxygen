@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad67928da538988f5c88e918c70658042":[8,0,0,0,1,3,7,12,16,10],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ad749d95194b0d33afe0fb38e1c3cc303":[8,0,0,0,1,3,7,12,16,6],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57adea2dcfdeb74be7b6dda3fa09fd5a5f4":[8,0,0,0,1,3,7,12,16,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a94c12289aa5607c971cf8d9321c2bf57ae1bc367e9c990b28427ea9b17ff2e2b5":[8,0,0,0,1,3,7,12,16,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[7,0,1612,9],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a642390a59ff46236dc3b429f371ea8cd":[7,0,1612,4],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[7,0,1612,6],
-"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[7,0,1612,0],
-"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a8144ed8ada8cd4fb11d74393ed0c525a":[7,0,1612,2]
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[7,0,1612,0]
 };

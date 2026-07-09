@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648ad8db1ac2a3383a88af15f509c492f444":[8,0,0,0,1,3,5,9,2,6,26,6],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648addfac274c9b761b45b7a75e0b3717dab":[8,0,0,0,1,3,5,9,2,6,26,18],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648ae0c9b2106c14b9b97ea4053eb7697658":[8,0,0,0,1,3,5,9,2,6,26,15],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648aedcf0cec60709d2b2aec05cb22776a36":[8,0,0,0,1,3,5,9,2,6,26,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d36/classspell__item__underbelly__elixir.html#a9671be7920dfd3bde2033f0ae43259b0":[7,0,3475,1],
 "dc/d36/classspell__item__underbelly__elixir.html#ac209048bd5688417c391c2c9b8a72d8b":[7,0,3475,4],
 "dc/d36/classspell__item__underbelly__elixir.html#ad50c9141d40b7089fd24a8657d496a8d":[7,0,3475,2],
-"dc/d36/instance__drak__tharon__keep_8cpp.html":[8,0,0,0,1,3,5,3,5],
-"dc/d36/instance__drak__tharon__keep_8cpp.html#a5644ddec1299c3c3988ffb003d0c3367":[8,0,0,0,1,3,5,3,5,3]
+"dc/d36/instance__drak__tharon__keep_8cpp.html":[8,0,0,0,1,3,5,3,5]
 };

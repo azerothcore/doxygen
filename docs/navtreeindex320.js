@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/d36/instance__drak__tharon__keep_8cpp.html#a5644ddec1299c3c3988ffb003d0c3367":[8,0,0,0,1,3,5,3,5,3],
 "dc/d36/instance__drak__tharon__keep_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,5,3,5,4],
 "dc/d36/namespacerbac.html":[5,0,28],
 "dc/d36/namespacerbac.html#a1296774e1021cb68d7829832d153b2e3":[5,0,28,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a66b59cf3f29896fb4d28d86c757a1d99":[5,0,28,6,479],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a66c1e23957549f3ffb7abb28ce4ed801":[5,0,28,6,42],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a670a4b6b326b02bbf510f164c668a3be":[5,0,28,6,241],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a67708ae3c2ca39d0ea7ceffb43cf3790":[5,0,28,6,388],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a67f260f10de5bd2fcb00ab6a1fbe5136":[5,0,28,6,575]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a67708ae3c2ca39d0ea7ceffb43cf3790":[5,0,28,6,388]
 };

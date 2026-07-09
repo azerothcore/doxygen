@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,34,8,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[7,0,13,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,34,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[7,0,13,8,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d59/classServerMailMgr.html#acb4521f696c6f11c977dc9d8b76e0c16":[7,0,2559,3],
 "dd/d59/classServerMailMgr.html#adba54af38e90ecae21e79835910ba195":[7,0,2559,1],
 "dd/d59/classServerMailMgr.html#aeec2235e9dd9b36b868634d850f02a5b":[7,0,2559,0],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html":[7,0,2992],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#a107d4e1650c6044b60ab711b01c607f6":[7,0,2992,0]
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html":[7,0,2992]
 };

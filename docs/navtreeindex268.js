@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a61b2c2f4391022c7e4ba3972c4467a74":[5,0,17,14,3],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a73cdcd16181375a7d428e6b50cb1e1e6":[7,0,5,14,10],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a73cdcd16181375a7d428e6b50cb1e1e6":[5,0,17,14,10],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[7,0,5,14,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4":[8,0,0,0,1,2,5,3,24,0],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a45cabc5fc139ebe5f9ab99ba04442ee4":[8,0,0,0,1,2,5,3,24,4],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d":[8,0,0,0,1,2,5,3,24,11],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef":[8,0,0,0,1,2,5,3,24,6],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e":[8,0,0,0,1,2,5,3,24,7]
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef":[8,0,0,0,1,2,5,3,24,6]
 };

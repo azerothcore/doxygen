@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58":[7,0,1598,0,0,1],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043":[7,0,1598,0,0,0],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184":[7,0,1598,0,0,2],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ad446b9b5bbd6f27ac9d3c71d0fe48518":[7,0,1598,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348":[8,0,0,0,1,3,5,24,21,0],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475":[8,0,0,0,1,3,5,24,21,7],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd":[8,0,0,0,1,3,5,24,21,5],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9":[8,0,0,0,1,3,5,24,21,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b":[8,0,0,0,1,3,5,24,21,4]
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9":[8,0,0,0,1,3,5,24,21,6]
 };

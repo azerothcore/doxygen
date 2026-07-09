@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba579e6c58ffcd03b92b428ca3ae9e71ad":[8,0,0,0,1,3,2,4,10,11,0],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,2,4,10,11,2],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,4,10,9],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a182d706f8884d7b8976aa5e93dca45df":[8,0,0,0,1,3,2,4,10,9,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "d9/d99/classspell__gen__basic__campfire.html#a42dea7b58aed704a6aacd5d0aa0028d4":[7,0,2990,1],
 "d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[7,0,2990,3],
 "d9/d99/classspell__gen__basic__campfire.html#a7b0446133750fce7eda19dbde5abb3b1":[7,0,2990,2],
-"d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,2990,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0]
+"d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,2990,0]
 };

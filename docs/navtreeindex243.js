@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/d3a/classVec2D.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4":[7,0,4565,8],
 "d9/d3a/classVec2D.html#a9fcc28ff8ce75133e2df1977e484752d":[7,0,4565,1],
 "d9/d3a/classVec2D.html#aa93a7bd272380f3ab14ace62a90bb628":[7,0,4565,3],
 "d9/d3a/classVec2D.html#acd5750b1090398a34acda59a60aaf1cc":[7,0,4565,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#afbe85d7002e34cfcb9414f2beda4e0a2":[7,0,1864,0,9],
 "d9/d4f/AsyncAcceptor_8h.html":[8,0,0,0,1,4,1,0],
 "d9/d4f/AsyncAcceptor_8h.html#af747a74d5d7546f9c862f3516a0c028f":[8,0,0,0,1,4,1,0,1],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html":[7,0,594,0],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a0e57ee42e45e55b1a69ac7cb0f1d2666":[7,0,594,0,4]
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html":[7,0,594,0]
 };

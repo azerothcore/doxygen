@@ -1,5 +1,6 @@
 var NAVTREEINDEX416 =
 {
+"df/dd3/classEmblemInfo.html#aa3e49b5f76fdb4e2139aeccb79c19390":[7,0,1036,11],
 "df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[7,0,1036,7],
 "df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[7,0,1036,2],
 "df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[7,0,1036,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX416 =
 "df/dd9/classUnit.html#a12cf2a2cf4e6cd46c28c95108e7eaf6d":[7,0,4547,414],
 "df/dd9/classUnit.html#a12d4fd7f1f11ef43dcfb4cd66354f3e6":[7,0,4547,535],
 "df/dd9/classUnit.html#a134cec7305906d07193eb01713de4952":[7,0,4547,687],
-"df/dd9/classUnit.html#a1350682846c1ddb65567ec85e75e2df3":[7,0,4547,700],
-"df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222":[7,0,4547,182]
+"df/dd9/classUnit.html#a1350682846c1ddb65567ec85e75e2df3":[7,0,4547,700]
 };

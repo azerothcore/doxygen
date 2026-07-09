@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dc/dca/structnpc__aged__dying__ancient__kodo.html":[7,0,1601],
 "dc/dca/structnpc__aged__dying__ancient__kodo.html#a24a0324d7a6bd4d05da76469b14720ac":[7,0,1601,4],
 "dc/dca/structnpc__aged__dying__ancient__kodo.html#a2bed1b0965414682dec6f6e4b2872d33":[7,0,1601,2],
 "dc/dca/structnpc__aged__dying__ancient__kodo.html#a8707efb78e29b5a3443b0f4d9ee1798b":[7,0,1601,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1c640a692c7583028a3f575540c25b8f":[8,0,0,0,1,3,2,17,87],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1e4a782474f0928dbacdf32c0ba395fd":[8,0,0,0,1,3,2,17,2],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22":[8,0,0,0,1,3,2,17,3],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a224e147b1990c0996e0ac61a1865e34c":[8,0,0,0,1,3,2,17,127],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a2428f87c449abfca118c25ac978028ad":[8,0,0,0,1,3,2,17,58]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a224e147b1990c0996e0ac61a1865e34c":[8,0,0,0,1,3,2,17,127]
 };

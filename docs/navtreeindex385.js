@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/d77/structboss__yoggsaron__brain.html#aff1761f23cd984cc5db31026f84b4218":[7,0,804,2],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html":[7,0,1328,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[7,0,1328,0,0],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a410630dbbe00acf0b69603cfc357d503":[7,0,1328,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/d80/classPetitionMgr.html":[7,0,2397],
 "de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb":[7,0,2397,3],
 "de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063":[7,0,2397,21],
-"de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[7,0,2397,1],
-"de/d80/classPetitionMgr.html#a2101165239e2f58faeb1ded69fb6d0b8":[7,0,2397,0]
+"de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[7,0,2397,1]
 };

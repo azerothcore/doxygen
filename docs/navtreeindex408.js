@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[7,0,1277,5],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[7,0,3031],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[7,0,3031,3],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[7,0,3031,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX408 =
 "df/d86/classnpc__professor__phizzlethorpe.html":[7,0,2079],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[7,0,2079,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[7,0,2079,1],
-"df/d86/classspell__dru__t3__2p__bonus.html":[7,0,2905],
-"df/d86/classspell__dru__t3__2p__bonus.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d":[7,0,2905,0]
+"df/d86/classspell__dru__t3__2p__bonus.html":[7,0,2905]
 };

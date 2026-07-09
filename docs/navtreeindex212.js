@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da":[7,0,1502,77],
 "d7/db0/classMap.html#ad0a523fd11e3723da2bcdc87abb4b390":[7,0,1502,162],
 "d7/db0/classMap.html#ad30dac23514a184f0809d380fc1f0a61":[7,0,1502,15],
 "d7/db0/classMap.html#ad44a8275dc7b736cc1a9c43eee8bd471":[7,0,1502,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268":[8,0,0,0,1,3,7,2,0,1,6],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,2,0,1,6,0],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a5dae611111a6911eb56fe42269505964":[8,0,0,0,1,3,7,2,0,1,6,5],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a6321629557b33f7b8820b92a1a4cd12f":[8,0,0,0,1,3,7,2,0,1,6,2],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a8406d18f3664e3bc07b10401480ab1f9":[8,0,0,0,1,3,7,2,0,1,6,4]
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a6321629557b33f7b8820b92a1a4cd12f":[8,0,0,0,1,3,7,2,0,1,6,2]
 };

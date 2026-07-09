@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[7,0,3049,2],
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[7,0,3049,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[7,0,3049,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[7,0,3049,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1638,0,5],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a23d54542e6debf39798c2a2d6e2a255d":[7,0,1638,0,2],
 "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a252858818b61cf15e2e031ceaaadc6b8":[7,0,1638,0,6],
-"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a4c681936d8e7053ace5cdeeaa1ee5ca9":[7,0,1638,0,1],
-"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2":[7,0,1638,0,4]
+"dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a4c681936d8e7053ace5cdeeaa1ee5ca9":[7,0,1638,0,1]
 };

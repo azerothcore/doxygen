@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#ac60d1b0b51ef1b91fd51d900bb825153":[7,0,13,8,16,3],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#ac60d1b0b51ef1b91fd51d900bb825153":[5,0,34,8,16,3],
 "d9/d79/structboss__ichoron.html":[7,0,558],
 "d9/d79/structboss__ichoron.html#a02f51f706c2183708ae29a990379e25a":[7,0,558,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a53a1c98acd0787ea0d96a130a6643bb7":[8,0,0,0,1,2,24,3,18,0],
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a5be9137c20b487254267eb3b7bc637f8":[8,0,0,0,1,2,24,3,18,7],
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a8edb6d2c5ae8374fa52c8584782a848f":[8,0,0,0,1,2,24,3,18,4],
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09aa0cc09263e211b927f27729048870ddd":[8,0,0,0,1,2,24,3,18,12],
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09aa5c06a447f44fd77502fdd223c43b8a3":[8,0,0,0,1,2,24,3,18,6]
+"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09aa0cc09263e211b927f27729048870ddd":[8,0,0,0,1,2,24,3,18,12]
 };

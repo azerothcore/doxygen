@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"db/ddb/classTaskContext.html#aaaba68c85b949416169136485130c6f8":[7,0,4481,29],
 "db/ddb/classTaskContext.html#aab7910aa171d409afa3f074858eacd0e":[7,0,4481,16],
 "db/ddb/classTaskContext.html#aad967f626ce88f95bb7e0610f92f83bb":[7,0,4481,10],
 "db/ddb/classTaskContext.html#ab51c9108135f18eda88250cbdc1d4c9e":[7,0,4481,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "db/de4/structnpc__precious_1_1npc__preciousAI.html":[7,0,2072,0],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#a2246203bca5b716852abd631320b790c":[7,0,2072,0,7],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#a2f3428807957bd60fdbe6f694bb6d3ef":[7,0,2072,0,8],
-"db/de4/structnpc__precious_1_1npc__preciousAI.html#a31893e9441b24398554370a58ef8bd78":[7,0,2072,0,5],
-"db/de4/structnpc__precious_1_1npc__preciousAI.html#a48e891f8afce9408ed38c51a0e2d4005":[7,0,2072,0,10]
+"db/de4/structnpc__precious_1_1npc__preciousAI.html#a31893e9441b24398554370a58ef8bd78":[7,0,2072,0,5]
 };

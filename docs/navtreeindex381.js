@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"de/d47/classspell__warl__nether__protection.html#a392724c604ce325415aaa3410e18a60c":[7,0,4281,3],
 "de/d47/classspell__warl__nether__protection.html#ae202a117ff86eee618dfdf4600746de5":[7,0,4281,0],
 "de/d47/classspell__warl__nether__protection.html#af0b153ca9e28a3cdc06a30ff30b46f39":[7,0,4281,4],
 "de/d48/classspell__halion__twilight__mending.html":[7,0,3169],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934daecc07574ef81bb491ac68098777d7dc7":[8,0,0,0,1,2,15,1,11,8],
 "de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baa":[8,0,0,0,1,2,15,1,10],
 "de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff":[8,0,0,0,1,2,15,1,10,1],
-"de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5":[8,0,0,0,1,2,15,1,10,0],
-"de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6":[8,0,0,0,1,2,15,1,10,2]
+"de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5":[8,0,0,0,1,2,15,1,10,0]
 };

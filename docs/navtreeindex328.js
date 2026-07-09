@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dc/d83/classspell__item__oracle__ablutions.html":[7,0,3417],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[7,0,3417,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[7,0,3417,1],
 "dc/d84/structQuaternionData.html":[7,0,2471],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d8e/structMovement_1_1FallInitializer.html#a7a9b294b6820e229cd95f4fc9bde825b":[7,0,7,3,1],
 "dc/d8e/structMovement_1_1FallInitializer.html#a7a9b294b6820e229cd95f4fc9bde825b":[5,0,21,3,1],
 "dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[5,0,21,3,2],
-"dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[7,0,7,3,2],
-"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html":[7,0,2089,0]
+"dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[7,0,7,3,2]
 };

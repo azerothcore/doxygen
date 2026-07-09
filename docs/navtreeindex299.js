@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"db/d8e/InstanceScript_8h.html#add004a84abc4c98dae65145dce2d17bb":[8,0,0,0,1,2,23,3,18],
 "db/d8e/boss__gehennas_8cpp.html":[8,0,0,0,1,3,2,1,3,2],
 "db/d8e/boss__gehennas_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,3,2,2],
 "db/d8e/boss__gehennas_8cpp.html#a5bd342133be8c2137b831460acc9298ca60d212179e06d122ea93a9214f390e85":[8,0,0,0,1,3,2,1,3,2,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "db/d99/structnpc__malchezaar__axe.html#a078e7f0997c026b73a4e0ab8a1c209b8":[7,0,1969,1],
 "db/d99/structnpc__malchezaar__axe.html#a1a5615f2def10add30e7917b770ebc74":[7,0,1969,0],
 "db/d99/structnpc__malchezaar__axe.html#a202ba6922a426f87909eefbccd070175":[7,0,1969,3],
-"db/d99/structnpc__malchezaar__axe.html#a4a9f90e66359b304622d4f79653f9fd0":[7,0,1969,2],
-"db/d9a/classspell__freya__unstable__sun__beam.html":[7,0,2956]
+"db/d99/structnpc__malchezaar__axe.html#a4a9f90e66359b304622d4f79653f9fd0":[7,0,1969,2]
 };

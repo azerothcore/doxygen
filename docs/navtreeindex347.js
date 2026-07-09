@@ -1,5 +1,6 @@
 var NAVTREEINDEX347 =
 {
+"dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a24af1cebe508a13f4f59cc2ad5c00bc9":[8,0,0,0,1,3,3,2,16,22],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a30c8c483996bbf4f6341046805b7ad39":[8,0,0,0,1,3,3,2,16,6],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a31937bf25a3d1ee01ed9abb4b6d384d3":[8,0,0,0,1,3,3,2,16,0],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22a3691327bc76ddac19aa2e568b3a3aa7a":[8,0,0,0,1,3,3,2,16,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d86/structboss__hadronox.html#a0cd1b2eae097b327e845e5a3038c6342":[7,0,532,15],
 "dd/d86/structboss__hadronox.html#a0d73acbe4061d48c2c5deb4203d0c9fb":[7,0,532,9],
 "dd/d86/structboss__hadronox.html#a0ecc876405753200c1c2fe575635ffb0":[7,0,532,5],
-"dd/d86/structboss__hadronox.html#a1515f5161e04e97734c538d7dede2902":[7,0,532,14],
-"dd/d86/structboss__hadronox.html#a23fb17d6eb7a03e7efe0bffb28adee0c":[7,0,532,11]
+"dd/d86/structboss__hadronox.html#a1515f5161e04e97734c538d7dede2902":[7,0,532,14]
 };

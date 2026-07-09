@@ -1,5 +1,6 @@
 var NAVTREEINDEX410 =
 {
+"df/d8d/structSmartTarget.html#a6485b621fa6bb529b7cff1c4bc63c8df":[7,0,2591,6],
 "df/d8d/structSmartTarget.html#a688456e01f4c076a0bcf38e936751c91":[7,0,2591,24],
 "df/d8d/structSmartTarget.html#a6965825e57e41efb16a153eee55c9cff":[7,0,2591,26],
 "df/d8d/structSmartTarget.html#a6a31784c4f9f3955e0cc5cf16687fd82":[7,0,2591,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX410 =
 "df/d99/structnpc__dark__iron__attack__generator.html#ac372ce0664ec10b7f60026fa808a74d0":[7,0,1755,16],
 "df/d99/structnpc__dark__iron__attack__generator.html#ae21b69752a1e45eeef318ccf1e5a3b24":[7,0,1755,6],
 "df/d99/structnpc__dark__iron__attack__generator.html#aef208e008b00af62710c8479bf7b6618":[7,0,1755,0],
-"df/d99/structnpc__dark__iron__attack__generator.html#aefe0e7e40ca5aad089aa27c5151e01fa":[7,0,1755,4],
-"df/d9a/OutdoorPvPNA_8h.html":[8,0,0,0,1,3,6,8]
+"df/d99/structnpc__dark__iron__attack__generator.html#aefe0e7e40ca5aad089aa27c5151e01fa":[7,0,1755,4]
 };

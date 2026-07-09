@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a38802863e7859453cbbe58ad91018c67":[7,0,298,16,1],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a6b18a259aa84c847bcc064c5243eb590":[7,0,298,16,0],
 "dc/d76/classWorldBossAI.html":[7,0,4633],
 "dc/d76/classWorldBossAI.html#a012c70e390c46b8f326b91014091b3d7":[7,0,4633,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
-"dc/d83/classspell__item__oracle__ablutions.html":[7,0,3417]
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3]
 };

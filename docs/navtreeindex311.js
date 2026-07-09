@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[7,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[7,0,13,6,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037aa05eb4219fa55ce288eeb0bf15fc6b735":[8,0,0,0,1,3,9,8,94,0],
 "db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037aa9b96b3d155055bc8c275e371caeac3f6":[8,0,0,0,1,3,9,8,94,1],
 "db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393":[8,0,0,0,1,3,9,8,85],
-"db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393a5c802bb2430a03a62c19a3c5450c2a48":[8,0,0,0,1,3,9,8,85,2],
-"db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393a5ef26e6fa3fa8fe48921e775a237bce9":[8,0,0,0,1,3,9,8,85,0]
+"db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393a5c802bb2430a03a62c19a3c5450c2a48":[8,0,0,0,1,3,9,8,85,2]
 };

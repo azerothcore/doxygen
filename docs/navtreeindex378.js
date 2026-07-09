@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/d30/SpellMgr_8h.html#ac0bf7c1f4212d9675abaaa9b3ca6f33d":[8,0,0,0,1,2,41,9,32],
 "de/d30/SpellMgr_8h.html#ac821b7d2d8a9effd8fafef038528e877":[8,0,0,0,1,2,41,9,28],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46":[8,0,0,0,1,2,41,9,67],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a07b2f1753e6047dcfef05d8ec0de5b87":[8,0,0,0,1,2,41,9,67,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/d34/structBroadcastText.html#acbce2101751bdaed47315c23f5058a7b":[7,0,838,7],
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,838,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[7,0,838,4],
-"de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,838,10],
-"de/d34/structSpellDurationEntry.html":[7,0,4394]
+"de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,838,10]
 };

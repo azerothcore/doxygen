@@ -1,5 +1,6 @@
 var NAVTREEINDEX423 =
 {
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,17,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[7,0,13,17,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,17,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[7,0,377],
@@ -248,6 +249,5 @@ var NAVTREEINDEX423 =
 "df/df9/structnpc__brann__bronzebeard__algalon.html#a6d44478868a74ed7baac757258334806":[7,0,1690,1],
 "df/df9/structnpc__brann__bronzebeard__algalon.html#ac00755dca7e187b55516be889386c499":[7,0,1690,0],
 "df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[7,0,1690,3],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[7,0,1690,5],
-"df/dfa/structnpc__hover__disk.html":[7,0,1877]
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[7,0,1690,5]
 };

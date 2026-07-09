@@ -1,5 +1,6 @@
 var NAVTREEINDEX211 =
 {
+"d7/db0/boss__zuramat_8cpp.html":[8,0,0,0,1,3,5,12,6],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,6,3],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4":[8,0,0,0,1,3,5,12,6,3,0],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a4244f6c1b9661e5daa2568875e16abe1":[8,0,0,0,1,3,5,12,6,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX211 =
 "d7/db0/classMap.html#acc6e018eedcd4943734d153dc4a8cb89":[7,0,1502,173],
 "d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328":[7,0,1502,58],
 "d7/db0/classMap.html#acd127a41af0319958a7066382e71e293":[7,0,1502,164],
-"d7/db0/classMap.html#acd71e42ca86d66e62fc0360bb4cab851":[7,0,1502,267],
-"d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da":[7,0,1502,77]
+"d7/db0/classMap.html#acd71e42ca86d66e62fc0360bb4cab851":[7,0,1502,267]
 };

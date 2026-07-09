@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9c2d093615242927901d1c4c256212b2":[8,0,0,0,1,2,41,11,72,15],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aa70d783c590006f1a8cbf2b3d144e94c":[8,0,0,0,1,2,41,11,72,0],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aaf214dbb6995dfa6ae911fa471484b01":[8,0,0,0,1,2,41,11,72,4],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ab303f97a56ee2f3d7ecd4e7a7950236c":[8,0,0,0,1,2,41,11,72,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dc/db8/classspell__dk__necrosis.html#ad100e3d9794da0fac5802e9d059609a8":[7,0,2813,1],
 "dc/db8/structboss__mother__shahraz.html":[7,0,643],
 "dc/db8/structboss__mother__shahraz.html#a021c702e7eff266308fee8a4220a6ec7":[7,0,643,2],
-"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[7,0,643,3],
-"dc/db8/structboss__mother__shahraz.html#a821d91439c60a60ffcff07b6bdbbc070":[7,0,643,5]
+"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[7,0,643,3]
 };

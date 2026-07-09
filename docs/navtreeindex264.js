@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad3091fc5b6989fd152eb8bbe5de5c549":[8,0,0,0,1,2,41,0,0,6,80],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad5b262bd48fec8f20a44e632d5a7be00":[8,0,0,0,1,2,41,0,0,6,173],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad68c289ae30ca012553dd9103bd44321":[8,0,0,0,1,2,41,0,0,6,219],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad75b18045110664869a6a4a86c4db16e":[8,0,0,0,1,2,41,0,0,6,292],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a5fba0e3c7cde76bfe56f8e9e9716412b":[7,0,0,17,3],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#a5fba0e3c7cde76bfe56f8e9e9716412b":[5,0,0,29,3],
 "da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#ae40de8ce49bb429243e5059b6d14398f":[7,0,0,17,4],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#ae40de8ce49bb429243e5059b6d14398f":[5,0,0,29,4],
-"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#aebb4cb9e84cf91cca235fe663dba8d60":[5,0,0,29,2]
+"da/d3b/classAcore_1_1AllWorldObjectsInExactRange.html#ae40de8ce49bb429243e5059b6d14398f":[5,0,0,29,4]
 };

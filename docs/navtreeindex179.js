@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/d5b/classUpdatableMapObject.html#a90b2d1a9f5b356f013ac4a357020de66":[7,0,4553,3],
 "d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23":[7,0,4553,0],
 "d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba":[7,0,4553,0,0],
 "d6/d5b/classUpdatableMapObject.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf":[7,0,4553,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa07ab7106db39ad73b3c7b57af9662339":[8,0,0,0,1,3,4,0,0,3,3],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa0af3bb485ee0abc369813b957b393eff":[8,0,0,0,1,3,4,0,0,3,4],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa35a6ccd78308a762b283d3f7c80e193c":[8,0,0,0,1,3,4,0,0,3,6],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa8200a023854e17a9655d2fa4102d8140":[8,0,0,0,1,3,4,0,0,3,1],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa9e410ded7ed0632a9c9b0159d0fa735f":[8,0,0,0,1,3,4,0,0,3,5]
+"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa8200a023854e17a9655d2fa4102d8140":[8,0,0,0,1,3,4,0,0,3,1]
 };

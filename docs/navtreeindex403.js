@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a335aa1da5e1dd299f874d80861fcdd61":[8,0,0,0,1,3,7,4,1,3,4,1],
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,7,4,1,3,4,3],
 "df/d3a/hellfire__ramparts_8h.html#afb6eb4f28419b652027fad41104a6d22ab4fb50b126f3e0d71927aeebafe66b5d":[8,0,0,0,1,3,7,4,1,3,4,2],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html":[7,0,1933,0],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a03dc3870b23105bb1d0d207adefe2541":[7,0,1933,0,2]
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html":[7,0,1933,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/d0d/classWardenWin.html#ace17ee6e11a0c88478dc9f24c1c7db8f":[7,0,4594,0],
 "dd/d0d/classWardenWin.html#ad5dbc585ebb22eda2e1265f14129aa5c":[7,0,4594,3],
 "dd/d0d/classWardenWin.html#aee57f10f6f4f676908c54f305210b6bc":[7,0,4594,8],
 "dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html":[5,0,34,7,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/d1b/classspell__chapter5__light__of__dawn__aura.html#a21450cd59487a927bbc0a5a5e1ffa72b":[7,0,2735,0],
 "dd/d1b/classspell__chapter5__light__of__dawn__aura.html#a3c17a7366acd9bd1863bae0f9218930a":[7,0,2735,2],
 "dd/d1b/classspell__chapter5__light__of__dawn__aura.html#a810203874163cf04798c3edbe69b747e":[7,0,2735,1],
-"dd/d1b/classspell__chapter5__light__of__dawn__aura.html#af2ad52165de188897fdeb8d62646b7cc":[7,0,2735,3],
-"dd/d1b/instance__magtheridons__lair_8cpp.html":[8,0,0,0,1,3,7,4,2,1]
+"dd/d1b/classspell__chapter5__light__of__dawn__aura.html#af2ad52165de188897fdeb8d62646b7cc":[7,0,2735,3]
 };

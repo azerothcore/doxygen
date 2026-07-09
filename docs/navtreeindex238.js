@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/ded/classspell__dru__eclipse.html":[7,0,2863],
 "d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3":[7,0,2863,0],
 "d8/ded/classspell__dru__eclipse.html#a43cc9387ce5b1665147dcfecb1476c22":[7,0,2863,3],
 "d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4":[7,0,2863,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a664ac70b8bb380329aacdf11cfb53bf1":[7,0,557,0,7],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a81fbfe9bb9d6186e36af2dd24c2dca5e":[7,0,557,0,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#aac8165285ec44942217e93ad25a3668b":[7,0,557,0,5],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab40b1bb5338fab72aa23f650925d5ed0":[7,0,557,0,1],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab9f08e2f505368869063093f531f8794":[7,0,557,0,11]
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab40b1bb5338fab72aa23f650925d5ed0":[7,0,557,0,1]
 };

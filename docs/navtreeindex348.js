@@ -1,5 +1,6 @@
 var NAVTREEINDEX348 =
 {
+"dd/d86/structboss__hadronox.html#a23fb17d6eb7a03e7efe0bffb28adee0c":[7,0,532,11],
 "dd/d86/structboss__hadronox.html#a386cafa7de8fcaf6ac5d823af01fc443":[7,0,532,13],
 "dd/d86/structboss__hadronox.html#a3a5680abcef0529dcfca6c27f42f8f61":[7,0,532,6],
 "dd/d86/structboss__hadronox.html#a4c74557d814776061fe6df4c234885f1":[7,0,532,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX348 =
 "dd/d8d/DBCStores_8cpp.html#aa11f66a515c833189ce1e4c59c4e301b":[8,0,0,0,1,2,14,0,67],
 "dd/d8d/DBCStores_8cpp.html#aa18cb4c65b6ad2fba0f832755002f305":[8,0,0,0,1,2,14,0,71],
 "dd/d8d/DBCStores_8cpp.html#aa4df01784442d67397299862629a06e9":[8,0,0,0,1,2,14,0,91],
-"dd/d8d/DBCStores_8cpp.html#aa525b3c5ae6e3413cabb16b4b84b5d45":[8,0,0,0,1,2,14,0,32],
-"dd/d8d/DBCStores_8cpp.html#aab7715861812ca8fe9602150271add14":[8,0,0,0,1,2,14,0,61]
+"dd/d8d/DBCStores_8cpp.html#aa525b3c5ae6e3413cabb16b4b84b5d45":[8,0,0,0,1,2,14,0,32]
 };

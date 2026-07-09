@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39":[8,0,0,0,1,2,20,1,13,1],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8":[8,0,0,0,1,2,20,1,13,16],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806":[8,0,0,0,1,2,20,1,13,6],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec":[8,0,0,0,1,2,20,1,13,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d47/classOPvPCapturePointGH.html#afea733c44d129d9a5af78a8337d9e04a":[7,0,2338,3],
 "de/d47/classspell__warl__nether__protection.html":[7,0,4281],
 "de/d47/classspell__warl__nether__protection.html#a28c409af8e7a8115ce86f2a51fff1afd":[7,0,4281,1],
-"de/d47/classspell__warl__nether__protection.html#a334db12ee8ed29b34269a0ca3172d7b4":[7,0,4281,2],
-"de/d47/classspell__warl__nether__protection.html#a392724c604ce325415aaa3410e18a60c":[7,0,4281,3]
+"de/d47/classspell__warl__nether__protection.html#a334db12ee8ed29b34269a0ca3172d7b4":[7,0,4281,2]
 };

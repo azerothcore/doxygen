@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/d9b/classspell__item__discerning__eye__beast__dummy.html#a6d5bd94125e9f89a4ee3bbdb9231a8e7":[7,0,3350,0],
 "dd/d9b/classspell__item__discerning__eye__beast__dummy.html#aaa4c1ec48a92f8d37185e690eee40021":[7,0,3350,1],
 "dd/d9b/classspell__item__discerning__eye__beast__dummy.html#abc483ed57434397306a09177436a5284":[7,0,3350,3],
 "dd/d9b/classspell__item__discerning__eye__beast__dummy.html#af8bee9d6c943724fe75f85593f9cdd01":[7,0,3350,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[7,0,3187,0],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[7,0,3187,3],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[7,0,3187,1],
-"dd/da9/classspell__threatening__gaze__aura.html":[7,0,4199],
-"dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[7,0,4199,1]
+"dd/da9/classspell__threatening__gaze__aura.html":[7,0,4199]
 };

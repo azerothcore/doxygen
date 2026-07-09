@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364":[8,0,0,0,1,3,2,28,2,1],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445":[8,0,0,0,1,3,2,28,2,3],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe":[8,0,0,0,1,3,2,28,2,4],
 "dc/d18/structGameEventQuestToEventConditionNum.html":[7,0,1100],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#a953f930e046655ca0d8f373362d3f334":[7,0,2454,5,0],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#aed48a1ad923118ac0a86d864e1e98519":[7,0,2454,5,2],
 "dc/d26/DBCStore_8cpp.html":[8,0,0,0,1,4,0,5],
-"dc/d26/Trainer_8cpp.html":[8,0,0,0,1,2,16,1,10],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html":[8,0,0,0,1,3,7,5,0,5]
+"dc/d26/Trainer_8cpp.html":[8,0,0,0,1,2,16,1,10]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a0e57ee42e45e55b1a69ac7cb0f1d2666":[7,0,594,0,4],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a102c10792d9e7df61d920b5a43f58e51":[7,0,594,0,2],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a3f5bc42a141011e543d1215eac09dc74":[7,0,594,0,0],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a4bdea1a9d7e46d4ef71cd43ce969e59c":[7,0,594,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d5b/classspell__summon__ice__spear__delayer.html#ad0eb66e0bab8441e1bb3db42967df7ff":[7,0,4122,2],
 "d9/d5b/classspell__summon__ice__spear__delayer.html#ae07f6e7de08ada74b4cb9ac890c70c35":[7,0,4122,3],
 "d9/d5b/classspell__summon__ice__spear__delayer.html#aea6ca9c5d490f62ae737bfc07751da42":[7,0,4122,1],
-"d9/d5b/classspell__summon__ice__spear__delayer.html#afb5cc6129423cb4f7c3da50977da01f2":[7,0,4122,0],
-"d9/d5c/classspell__item__nitro__boots.html":[7,0,3414]
+"d9/d5b/classspell__summon__ice__spear__delayer.html#afb5cc6129423cb4f7c3da50977da01f2":[7,0,4122,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/dc5/classConfigValueCache.html#a3645d00d7d88bac526ab2da095e2893e":[7,0,920,5],
 "d9/dc5/classConfigValueCache.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf":[7,0,920,6],
 "d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680b":[7,0,920,0],
 "d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435":[7,0,920,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[7,0,4151,2],
 "d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[7,0,4151,4],
 "d9/dd0/QueryHolder_8h.html":[8,0,0,0,1,1,0,27],
-"d9/dd0/classspell__sha__bloodlust.html":[7,0,4027],
-"d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[7,0,4027,3]
+"d9/dd0/classspell__sha__bloodlust.html":[7,0,4027]
 };

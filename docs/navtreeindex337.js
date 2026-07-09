@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dc/dfe/classspell__rog__honor__among__thieves__proc.html#ac157503562ac3ef9ddba2c358595ecc5":[7,0,3974,0],
 "dc/dfe/classspell__rog__honor__among__thieves__proc.html#af41d6353088c5565b0027265c9bd4d8b":[7,0,3974,1],
 "dc/dfe/classspell__rog__prey__on__the__weak.html":[7,0,3982],
 "dc/dfe/classspell__rog__prey__on__the__weak.html#abb9ec1dd08954e80cf6dbcacbe44e2ba":[7,0,3982,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dd/d0d/classWardenWin.html#a9a3e9b53f66e97a615c288058b9adcf3":[7,0,4594,9],
 "dd/d0d/classWardenWin.html#a9cb49a2629d08e0f54d363f81c284425":[7,0,4594,12],
 "dd/d0d/classWardenWin.html#abb53eb2b1d9dc95f8e77d12d4086c6c1":[7,0,4594,10],
-"dd/d0d/classWardenWin.html#ac1264c71c1e6f80fa70bf1794aa41368":[7,0,4594,1],
-"dd/d0d/classWardenWin.html#ace17ee6e11a0c88478dc9f24c1c7db8f":[7,0,4594,0]
+"dd/d0d/classWardenWin.html#ac1264c71c1e6f80fa70bf1794aa41368":[7,0,4594,1]
 };

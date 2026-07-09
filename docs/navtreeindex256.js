@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/de7/classAreaTrigger__at__nats__landing.html#a67434f74300fa3463e679afb7d344467":[7,0,179,1],
 "d9/de7/classAreaTrigger__at__nats__landing.html#ac366e5b1db489b4f8bb8a1d07caa83c2":[7,0,179,0],
 "d9/de7/classFrostwyrmLandEvent.html":[7,0,1094],
 "d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[7,0,1094,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df5/structboss__sartharion.html#aea02fe5145c8ca179a350668cb962403":[7,0,698,1],
 "d9/df5/structboss__sartharion.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5":[7,0,698,7],
 "d9/df5/structboss__sartharion.html#aef30845772ce56ad04091eda58b143ec":[7,0,698,13],
-"d9/df5/structboss__sartharion__dragonAI.html":[7,0,699],
-"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[7,0,699,14]
+"d9/df5/structboss__sartharion__dragonAI.html":[7,0,699]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#abec9f353a1430afae12c21273bf32197":[7,0,2287,0,6],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#acde6b3e037d3c297e5d1beccdbe3d03a":[7,0,2287,0,0],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7":[7,0,2287,0,13],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#af6f68e291ce7d8cf25105ac64d7eebff":[7,0,2287,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d75/classspell__dragonblight__devour__ghoul.html#afdabca016ed5eae85a0bdb3fd9d695ec":[7,0,2839,3],
 "dc/d76/Arena_8cpp.html":[8,0,0,0,1,2,8,2],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html":[7,0,298,16],
-"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a0e51245e089fcd9532d5789056ab944c":[7,0,298,16,2],
-"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a38802863e7859453cbbe58ad91018c67":[7,0,298,16,1]
+"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a0e51245e089fcd9532d5789056ab944c":[7,0,298,16,2]
 };

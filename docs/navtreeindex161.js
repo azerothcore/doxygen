@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/dbc/structnpc__hadronox__crusherPackAI.html#ae6a622e916a8e957eb3a4bf1b6563736":[7,0,1850,4],
 "d5/dbe/OutdoorPvPGH_8cpp.html":[8,0,0,0,1,3,6,3],
 "d5/dbe/OutdoorPvPGH_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[8,0,0,0,1,3,6,3,1],
 "d5/dbf/SpellImmunityTest_8cpp.html":[8,0,0,0,2,2,0,10,7],
@@ -27,14 +28,14 @@ var NAVTREEINDEX161 =
 "d5/dbf/classspell__dk__threat__of__thassarian.html#a393909e3765443aa4930d8036c36b132":[7,0,2830,0],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#aeaacd337fd8a02e7c19ead8912fc68d9":[7,0,2830,1],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#af37fd1db3dc6cbbe985734853ea59109":[7,0,2830,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[7,0,0,95],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,0,107],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[7,0,0,95,0],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[7,0,0,95],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,0,107,0],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[7,0,0,95,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,0,107,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[7,0,0,95,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,107,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,107,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[7,0,0,95,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,107,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dc7/structSpellEntry.html#af1586de0e99ed09fbd805fa4a09f2c6c":[7,0,4397,74],
 "d5/dc7/structSpellEntry.html#af173dce15da28e663953f57d435f3dd8":[7,0,4397,29],
 "d5/dc7/structSpellEntry.html#af89b96363f1bde634ea89269fae39a2f":[7,0,4397,23],
-"d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[7,0,4397,82],
-"d5/dc7/structSpellEntry.html#afd20211c0346e85509641da5c413f3de":[7,0,4397,6]
+"d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[7,0,4397,82]
 };

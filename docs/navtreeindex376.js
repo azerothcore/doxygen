@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/d25/ObjectMgr_8h.html#a005e96d6f6920dc164590837dd948b1b":[8,0,0,0,1,2,18,3,42],
 "de/d25/ObjectMgr_8h.html#a03c74a524185c10fc536a50f3ef69ce3":[8,0,0,0,1,2,18,3,39],
 "de/d25/ObjectMgr_8h.html#a04765c27af649777907160e1147fb8fa":[8,0,0,0,1,2,18,3,102],
 "de/d25/ObjectMgr_8h.html#a09eedd7a335bd8001793a21994242198":[8,0,0,0,1,2,18,3,92],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/d2c/structItemPosCount.html#ad8954f1a6323316510cfe0f332ee495f":[7,0,1413,3],
 "de/d2d/enuminfo__ArenaTeam_8cpp.html":[8,0,0,0,1,2,8,20],
 "de/d2d/namespaceObjectAccessor.html":[5,0,23],
-"de/d2d/namespaceObjectAccessor.html#a0726eba7e71a7c6d4f6f90b4dfb410f8":[5,0,23,0],
-"de/d2d/namespaceObjectAccessor.html#a0fba0222d2e46026727c6e898a7f35bc":[5,0,23,23]
+"de/d2d/namespaceObjectAccessor.html#a0726eba7e71a7c6d4f6f90b4dfb410f8":[5,0,23,0]
 };

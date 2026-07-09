@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/de4/structnpc__precious_1_1npc__preciousAI.html#a48e891f8afce9408ed38c51a0e2d4005":[7,0,2072,0,10],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#a58bc4149111605850f070a77ee776313":[7,0,2072,0,4],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#a69a20e759b1bcb631cef0bf1e4dd8a1b":[7,0,2072,0,9],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#a91c93f8d58501b705809653639ec05d1":[7,0,2072,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[7,0,13,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[7,0,13,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0]
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[7,0,13,6,2,3]
 };

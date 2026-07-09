@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"db/dca/classspell__hun__glyph__of__mend__pet.html":[7,0,3217],
 "db/dca/classspell__hun__glyph__of__mend__pet.html#a56c8ada8651cfd024cc7514417b986d6":[7,0,3217,1],
 "db/dca/classspell__hun__glyph__of__mend__pet.html#a818ed2117c52a53939df5bf4d035854f":[7,0,3217,2],
 "db/dca/classspell__hun__glyph__of__mend__pet.html#a8e35d9e56b5d896b23844e8075c746d7":[7,0,3217,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a4e099987cb2efa91f8834dabdf704cc4":[8,0,0,0,1,3,5,6,12,89,2],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,5,6,12,89,0],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96":[8,0,0,0,1,3,5,6,12,89,3],
-"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617":[8,0,0,0,1,3,5,6,12,85],
-"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617a7ffe42a340d09e31932bae8ae328841d":[8,0,0,0,1,3,5,6,12,85,0]
+"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617":[8,0,0,0,1,3,5,6,12,85]
 };

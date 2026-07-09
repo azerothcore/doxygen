@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"de/d34/structSpellDurationEntry.html":[7,0,4394],
 "de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4394,1],
 "de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4394,0],
 "de/d36/classnpc__mrfloppy.html":[7,0,1992],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a356f93308e4e05d59544bb68adeff09e":[8,0,0,0,1,2,20,1,13,17],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a4110160e7fd5360f13bf4527effcf436":[8,0,0,0,1,2,20,1,13,18],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290":[8,0,0,0,1,2,20,1,13,3],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109":[8,0,0,0,1,2,20,1,13,20],
-"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39":[8,0,0,0,1,2,20,1,13,1]
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109":[8,0,0,0,1,2,20,1,13,20]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/d23/IVMapMgr_8h.html#a6d0d846568e1fbb60e05aacfa9c1c73c":[8,0,0,0,0,1,0,0,5],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18":[8,0,0,0,0,1,0,0,7],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[8,0,0,0,0,1,0,0,7,0],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b":[8,0,0,0,0,1,0,0,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/d37/classboss__urom.html":[7,0,770],
 "db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[7,0,770,2],
 "db/d37/classboss__urom.html#ae85d0bb54d3bf6571bec9d35f31a3e25":[7,0,770,1],
-"db/d37/classspell__dk__pet__scaling.html":[7,0,2815],
-"db/d37/classspell__dk__pet__scaling.html#a330ab5ee4c9b16928b3fae701c80acd4":[7,0,2815,0]
+"db/d37/classspell__dk__pet__scaling.html":[7,0,2815]
 };

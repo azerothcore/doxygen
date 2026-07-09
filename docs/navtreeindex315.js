@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad0e2076b92b09eb9eab90439592d6ef1":[8,0,0,0,1,3,5,4,1,2,21,37],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9d58c4083728a4652b06dda805b76c9":[8,0,0,0,1,3,5,4,1,2,21,22],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb05711c33ffcbdb6dd9ebe06d691504":[8,0,0,0,1,3,5,4,1,2,21,15],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb68f937d20a2c3b950fa0472657a174":[8,0,0,0,1,3,5,4,1,2,21,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f":[8,0,0,0,1,3,2,28,2,2],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e":[8,0,0,0,1,3,2,28,2,6],
 "dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210":[8,0,0,0,1,3,2,28,2,0],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf":[8,0,0,0,1,3,2,28,2,5],
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364":[8,0,0,0,1,3,2,28,2,1]
+"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf":[8,0,0,0,1,3,2,28,2,5]
 };

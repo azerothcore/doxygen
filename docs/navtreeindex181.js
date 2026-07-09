@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,8,2,3,2],
 "d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a126e94acc81465e9dde0d5a794095992":[8,0,0,0,1,3,5,8,2,3,2,1],
 "d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a669da73d580109bcd80c9839d2c06e39":[8,0,0,0,1,3,5,8,2,3,2,3],
 "d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a687adb47224e46d51b072abce63d3123":[8,0,0,0,1,3,5,8,2,3,2,6],
@@ -208,16 +209,16 @@ var NAVTREEINDEX181 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[8,0,0,0,2,2,0,10,11,16],
 "d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[8,0,0,0,2,2,0,10,11,9],
 "d6/d7c/WardenMac_8h.html":[8,0,0,0,1,2,46,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,32],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[7,0,0,20,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[7,0,0,20,1],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[7,0,0,20,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,32,1],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[7,0,0,20,2],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[7,0,0,20,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,0,32,2],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,0,32,4],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[7,0,0,20,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[7,0,0,20,4],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,0,32,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[7,0,0,20,3],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,0,32,3],
 "d6/d7d/classDynamicMapTree.html":[7,0,1024],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ace872917954f4978f3568d7ddecf22ad":[7,0,2006,0,7],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#acecff3846090fa83c8fc43537d788501":[7,0,2006,0,8],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ae1f5248397b606b7872f05cfc929ac0d":[7,0,2006,0,3],
-"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ae6c33df878497d29d5f61234b048009d":[7,0,2006,0,10],
-"d6/d7e/boss__kazrogal_8cpp.html":[8,0,0,0,1,3,4,1,0,3]
+"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ae6c33df878497d29d5f61234b048009d":[7,0,2006,0,10]
 };

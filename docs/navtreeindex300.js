@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"db/d9a/classspell__freya__unstable__sun__beam.html":[7,0,2956],
 "db/d9a/classspell__freya__unstable__sun__beam.html#a1038ca2384a31671dab1d72e1232cfe1":[7,0,2956,2],
 "db/d9a/classspell__freya__unstable__sun__beam.html#a96f279fbc08f23f0b7e7f807dc0ddd7a":[7,0,2956,1],
 "db/d9a/classspell__freya__unstable__sun__beam.html#a977f0687005cdbd585be0704e5ce20d8":[7,0,2956,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "db/da2/boss__astromancer_8cpp.html#a65dba9379097de8ea0bb4afd9d504b2b":[8,0,0,0,1,3,7,5,2,1,5],
 "db/da2/boss__astromancer_8cpp.html#a767e697b64115cb679602f04a2271bfb":[8,0,0,0,1,3,7,5,2,1,7],
 "db/da2/boss__astromancer_8cpp.html#a9f933e4ea74114498063a5108cbbe93c":[8,0,0,0,1,3,7,5,2,1,12],
-"db/da2/boss__astromancer_8cpp.html#ae5af79069c02c7d07c6fe6823be41b16":[8,0,0,0,1,3,7,5,2,1,10],
-"db/da2/boss__astromancer_8cpp.html#ae9571558f23ddfe120b7f1fe844e5f9d":[8,0,0,0,1,3,7,5,2,1,6]
+"db/da2/boss__astromancer_8cpp.html#ae5af79069c02c7d07c6fe6823be41b16":[8,0,0,0,1,3,7,5,2,1,10]
 };

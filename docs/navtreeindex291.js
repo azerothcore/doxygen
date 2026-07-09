@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d55/structboss__majordomo.html#a5b326322edaae37adf38d4479ac1f3e2":[7,0,623,11],
 "db/d55/structboss__majordomo.html#a66bfa0e86cee96ef7ed40892578eabd2":[7,0,623,16],
 "db/d55/structboss__majordomo.html#a67725d12e1e21d3a17ecdb3b4255112e":[7,0,623,9],
 "db/d55/structboss__majordomo.html#a72ebc3e2bbdf01d5951453479a09ed86":[7,0,623,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a4c9b7d672451b45a4454f6fba7057b59":[7,0,1834,0,8],
 "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a5cfaa8e01186ddc0077c088124825407":[7,0,1834,0,0],
 "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256":[7,0,1834,0,0,2],
-"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac":[7,0,1834,0,0,1],
-"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be":[7,0,1834,0,0,3]
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac":[7,0,1834,0,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX343 =
 {
+"dd/d3b/structGameObjectTemplate.html#a828623bc49a497fe4a400e13147765f5":[7,0,1117,4],
 "dd/d3b/structGameObjectTemplate.html#a86afe986dba59379167186254eec1d03":[7,0,1117,2],
 "dd/d3b/structGameObjectTemplate.html#a8a0bf784d46da47e3dba60f0184bdcc1":[7,0,1117,114],
 "dd/d3b/structGameObjectTemplate.html#a8aec950d501fa71132f9a708c8e5d0d7":[7,0,1117,133],
@@ -248,6 +249,5 @@ var NAVTREEINDEX343 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[8,0,0,0,1,3,2,1,1,1,1,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[8,0,0,0,1,3,2,1,1,1,1,5],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[7,0,13,8,2],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,34,8,2]
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[7,0,13,8,2]
 };

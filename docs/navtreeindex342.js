@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[5,0,0,2,4,12],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[7,0,0,1,4,3],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[5,0,0,2,4,3],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html":[8,0,0,0,1,3,2,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d3b/structGameObjectTemplate.html#a7d0a8d9364a53e1db6d63ecadb0eb6b9":[7,0,1117,118],
 "dd/d3b/structGameObjectTemplate.html#a7d70afd5dcb16f45c13982af271c5522":[7,0,1117,139],
 "dd/d3b/structGameObjectTemplate.html#a7ea1288fd0e9dfa8ffcf8f8ca7337b1c":[7,0,1117,93],
-"dd/d3b/structGameObjectTemplate.html#a80ac9e4077c989c02a04eff3cead0e62":[7,0,1117,96],
-"dd/d3b/structGameObjectTemplate.html#a828623bc49a497fe4a400e13147765f5":[7,0,1117,4]
+"dd/d3b/structGameObjectTemplate.html#a80ac9e4077c989c02a04eff3cead0e62":[7,0,1117,96]
 };

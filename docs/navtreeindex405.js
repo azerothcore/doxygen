@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html":[7,0,1666,0],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1666,0,8],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[7,0,1666,0,6],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a1f24ea5604563c9a16c5a2a91ae078f1":[7,0,1666,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[5,0,31,21,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[7,0,11,21,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[7,0,11,21,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,31,21,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[7,0,11,21,6]
+"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,31,21,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/d8d/DBCStores_8cpp.html#aab7715861812ca8fe9602150271add14":[8,0,0,0,1,2,14,0,61],
 "dd/d8d/DBCStores_8cpp.html#aad3b0ef853455cf1c8baf2b07c0f6d01":[8,0,0,0,1,2,14,0,14],
 "dd/d8d/DBCStores_8cpp.html#aad915a62fd251282e47b86aac7950b0f":[8,0,0,0,1,2,14,0,80],
 "dd/d8d/DBCStores_8cpp.html#ab07c8126df92da43a32dfe00d7986cf6":[8,0,0,0,1,2,14,0,137],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/d9b/classgo__blood__drenched__door.html":[7,0,1150],
 "dd/d9b/classgo__blood__drenched__door.html#a32451e046236bc66b605088cab35fefc":[7,0,1150,1],
 "dd/d9b/classgo__blood__drenched__door.html#a983405ff279eabe0bc607fb85bd47eb9":[7,0,1150,2],
-"dd/d9b/classspell__item__discerning__eye__beast__dummy.html":[7,0,3350],
-"dd/d9b/classspell__item__discerning__eye__beast__dummy.html#a6d5bd94125e9f89a4ee3bbdb9231a8e7":[7,0,3350,0]
+"dd/d9b/classspell__item__discerning__eye__beast__dummy.html":[7,0,3350]
 };

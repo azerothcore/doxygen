@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"db/da2/boss__astromancer_8cpp.html#ae9571558f23ddfe120b7f1fe844e5f9d":[8,0,0,0,1,3,7,5,2,1,6],
 "db/da2/boss__astromancer_8cpp.html#affb36ca3a6519ca609cfa9a0d70a682a":[8,0,0,0,1,3,7,5,2,1,4],
 "db/da2/ulduar_8cpp.html":[8,0,0,0,1,3,5,9,2,15],
 "db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aa":[8,0,0,0,1,3,5,9,2,15,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a479faed094ed371817c2f1059bdaf343":[8,0,0,0,1,3,4,33,9,2],
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a486effd8a75d00718fb905c463cf10d5":[8,0,0,0,1,3,4,33,9,22],
 "db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a4d9bfa6597eac5378ce71d41d8e048bf":[8,0,0,0,1,3,4,33,9,29],
-"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a5b2a310fd3c740a5d325fbbf14758268":[8,0,0,0,1,3,4,33,9,12],
-"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a6347be1aa0290db06b1e4334f5b6b499":[8,0,0,0,1,3,4,33,9,4]
+"db/da6/zone__winterspring_8cpp.html#a16774215bba3b38580ea51987d64cff1a5b2a310fd3c740a5d325fbbf14758268":[8,0,0,0,1,3,4,33,9,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[8,0,0,0,0,1,10,2],
 "de/d12/classAllCreatureScript.html":[7,0,154],
 "de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490":[7,0,154,8],
 "de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e":[7,0,154,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/d1c/classGameObject.html#a756946069cc2ef24f19b485b9f452d4e":[7,0,1102,51],
 "de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef":[7,0,1102,136],
 "de/d1c/classGameObject.html#a7691d0fdf595388b651f75c7831eabe8":[7,0,1102,137],
-"de/d1c/classGameObject.html#a76daef3375bb20aea2bdf4f7a5c50c86":[7,0,1102,81],
-"de/d1c/classGameObject.html#a772311dbda3d7391fe7ad16b277ea112":[7,0,1102,128]
+"de/d1c/classGameObject.html#a76daef3375bb20aea2bdf4f7a5c50c86":[7,0,1102,81]
 };

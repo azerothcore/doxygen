@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca794e8fa6639ab0ef1b7cdbbfc69ae559":[8,0,0,0,1,3,7,1,2,26,0],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca7ae8bd131ead0bd40673d219a3fa55ae":[8,0,0,0,1,3,7,1,2,26,35],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[8,0,0,0,1,3,7,1,2,26,16],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca892645e7aaa96dc3258441a974c0351d":[8,0,0,0,1,3,7,1,2,26,25],
@@ -216,8 +217,8 @@ var NAVTREEINDEX240 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[7,0,13,10,4,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,34,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[7,0,13,10,4,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,34,10,4,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,34,10,4,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[7,0,2628],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d16/structMetricData.html#ab63598f64896186fde81048550767b28":[7,0,1529,2],
 "d9/d16/structMetricData.html#ac22787b2dadd4d3991f72f6ccab5c225":[7,0,1529,1],
 "d9/d16/structMetricData.html#af9962592650ba24fd9b3c0ee9ce06f7f":[7,0,1529,5],
-"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[7,0,1632,0],
-"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0d51c4ab1701e62c02431b86f22eaf30":[7,0,1632,0,10]
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[7,0,1632,0]
 };

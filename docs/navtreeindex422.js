@@ -1,5 +1,6 @@
 var NAVTREEINDEX422 =
 {
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[7,0,763,0,8],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[7,0,763,0,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[7,0,763,0,5],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[7,0,763,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX422 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,17,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,17,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[7,0,13,17,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[7,0,13,17,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,17,0,0,0]
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[7,0,13,17,0,0,0]
 };

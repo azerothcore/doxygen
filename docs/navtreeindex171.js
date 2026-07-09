@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[7,0,13,6,42,1],
 "d6/d18/classModel.html":[7,0,1546],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[7,0,1546,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[7,0,1546,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7802b547c7676b008f552f2dec200cdf":[8,0,0,0,1,2,3,1,7,2,27],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7a4af19043e1f22c82c28362fd3478cf":[8,0,0,0,1,2,3,1,7,2,17],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7a7ed9b1fb3198fefb6efbc1521c51b5":[8,0,0,0,1,2,3,1,7,2,29],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da833d8525e868dcd26cce8daebd02df7c":[8,0,0,0,1,2,3,1,7,2,19],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da965006e32a608bd52f612167dec46573":[8,0,0,0,1,2,3,1,7,2,22]
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da833d8525e868dcd26cce8daebd02df7c":[8,0,0,0,1,2,3,1,7,2,19]
 };

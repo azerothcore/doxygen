@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4a784291e0b65cdb19d096606a6ffae9":[8,0,0,0,1,4,7,103,76],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4afc428876fbd04098dc4361d778db79":[8,0,0,0,1,4,7,103,107],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4bdf1d25abaa386be99c0fc9d6b4e5c0":[8,0,0,0,1,4,7,103,73],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a505fab60b0cf0d90e2d4d2872391d041":[8,0,0,0,1,4,7,103,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/d11/classnpc__released__offspring__harkoa.html":[7,0,2098],
 "de/d11/classnpc__released__offspring__harkoa.html#a10f583320e3b617cf2b327cfb6fed6f5":[7,0,2098,1],
 "de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[7,0,2098,2],
-"de/d12/VMapTools_8h.html":[8,0,0,0,0,1,10],
-"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[8,0,0,0,0,1,10,2]
+"de/d12/VMapTools_8h.html":[8,0,0,0,0,1,10]
 };

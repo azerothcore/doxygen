@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#a107d4e1650c6044b60ab711b01c607f6":[7,0,2992,0],
 "dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad14fb132bbbcb7d378521530372a5a7c":[7,0,2992,1],
 "dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad49679e2b6966ddcd70bb48c44927bad":[7,0,2992,2],
 "dd/d59/classspell__gen__black__bow__of__the__betrayer.html#adfd2e27d6f40356bfacf7cad424e7e4d":[7,0,2992,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[8,0,0,0,1,3,2,1,2,4,2,2],
 "dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[8,0,0,0,1,3,2,1,2,4,2,0],
 "dd/d69/boss__firemaw_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375":[8,0,0,0,1,3,2,1,2,4,2,1],
-"dd/d69/boss__firemaw_8cpp.html#a5ccf6dda552246620e7ef4626abaa82b":[8,0,0,0,1,3,2,1,2,4,3],
-"dd/d69/boss__firemaw_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,2,4,1]
+"dd/d69/boss__firemaw_8cpp.html#a5ccf6dda552246620e7ef4626abaa82b":[8,0,0,0,1,3,2,1,2,4,3]
 };

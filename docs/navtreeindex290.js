@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html":[7,0,1381,0],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0333b4728e9288937711174743f19f60":[7,0,1381,0,5],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0f049806007e59363418d4e39f9e389b":[7,0,1381,0,7],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a17e62e8fe06617868baf85caedc3a0fc":[7,0,1381,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d55/structboss__majordomo.html#a006d83ce92496a7210265498ffede766":[7,0,623,17],
 "db/d55/structboss__majordomo.html#a0994b92fd764dabfd46a041f40f91430":[7,0,623,6],
 "db/d55/structboss__majordomo.html#a1cc0689c21ddbf6eff6bd77d67f375fa":[7,0,623,7],
-"db/d55/structboss__majordomo.html#a36acd2797a6284d8169c325ee91ef9e4":[7,0,623,1],
-"db/d55/structboss__majordomo.html#a5b326322edaae37adf38d4479ac1f3e2":[7,0,623,11]
+"db/d55/structboss__majordomo.html#a36acd2797a6284d8169c325ee91ef9e4":[7,0,623,1]
 };

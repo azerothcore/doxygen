@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/d1b/instance__magtheridons__lair_8cpp.html":[8,0,0,0,1,3,7,4,2,1],
 "dd/d1b/instance__magtheridons__lair_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,7,4,2,1,4],
 "dd/d1b/instance__magtheridons__lair_8cpp.html#a77e256ce8ca932c8d162a30715dc7c6f":[8,0,0,0,1,3,7,4,2,1,2],
 "dd/d1b/instance__magtheridons__lair_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,4,2,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/d27/structSmartAction.html#a10e3842308b837618f278767356ac732":[7,0,2584,228],
 "dd/d27/structSmartAction.html#a10f10f5a45b51c3a9c8e541d42fbb737":[7,0,2584,289],
 "dd/d27/structSmartAction.html#a13d57ff2ff291ece137c7ad26f3fa368":[7,0,2584,307],
-"dd/d27/structSmartAction.html#a14d607d5064184ee386a95330a07d1ff":[7,0,2584,181],
-"dd/d27/structSmartAction.html#a14e689eb32d8aa1bc56bdac0432338f6":[7,0,2584,142]
+"dd/d27/structSmartAction.html#a14d607d5064184ee386a95330a07d1ff":[7,0,2584,181]
 };

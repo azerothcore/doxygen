@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[7,0,13,6,32,0],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[5,0,34,6,32,1],
@@ -35,8 +36,8 @@ var NAVTREEINDEX201 =
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ac7e333db415e6301a02052c53779d1d4":[5,0,0,8,12,9],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ad4d3a9cebe46fc524e474b7854a20b03":[7,0,0,5,12,6],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#ad4d3a9cebe46fc524e474b7854a20b03":[5,0,0,8,12,6],
-"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#afaee06af7734e53ce50674e4ef7277b2":[5,0,0,8,12,2],
 "d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#afaee06af7734e53ce50674e4ef7277b2":[7,0,0,5,12,2],
+"d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#afaee06af7734e53ce50674e4ef7277b2":[5,0,0,8,12,2],
 "d7/d6a/structboss__yoggsaron__descend__portal.html":[7,0,810],
 "d7/d6a/structboss__yoggsaron__descend__portal.html#a6b430a5f4045cdf3c3524208f02d53d2":[7,0,810,2],
 "d7/d6a/structboss__yoggsaron__descend__portal.html#aa64788351819e9c7f5505c929818770d":[7,0,810,0],
@@ -175,14 +176,14 @@ var NAVTREEINDEX201 =
 "d7/d76/structnpc__cult__adherent_1_1npc__cult__adherentAI.html#ad89638cf5859615ba2e3a0deb6701751":[7,0,1743,0,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[7,0,0,58],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,0,70],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[7,0,0,58,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,0,70,3],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,0,70,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[7,0,0,58,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[7,0,0,58,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,0,70,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[7,0,0,58,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,0,70,2],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[7,0,0,58,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,0,70,4],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[7,0,0,58,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,0,70,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[7,0,0,58,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,0,70,0],
@@ -219,8 +220,8 @@ var NAVTREEINDEX201 =
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[8,0,0,0,1,2,38,0,41,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[7,0,13,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[7,0,13,3,1,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[7,0,13,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[7,0,13,3,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d80/structCreatureBaseStats.html#aa6f523ebb8ef75db99db555547fd55d7":[7,0,944,3],
 "d7/d80/structCreatureBaseStats.html#ac77b82c063048b596f9ed3c74aeea63c":[7,0,944,13],
 "d7/d80/structCreatureBaseStats.html#ac8c2f3b237e17577b416b9b83abe1306":[7,0,944,14],
-"d7/d80/structCreatureBaseStats.html#ac8ec122f7d16f89b50301a636ebade6e":[7,0,944,2],
-"d7/d80/structCreatureBaseStats.html#ad197fff9ab9cd6b45ca703d656d1d930":[7,0,944,0]
+"d7/d80/structCreatureBaseStats.html#ac8ec122f7d16f89b50301a636ebade6e":[7,0,944,2]
 };

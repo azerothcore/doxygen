@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"de/df7/classWorldPackets_1_1Packet.html#ab85f1c9f20117bc5015180165c7b458a":[7,0,13,25,8],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[7,0,13,25,7],
 "de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[5,0,34,25,7],
 "de/df9/classnpc__lk__wicked__spirit.html":[7,0,1952],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/d09/TerrainBuilder_8cpp.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[8,0,0,0,3,2,8,3],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html":[7,0,1312,0],
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[7,0,1312,0,0],
-"df/d0a/ObjectPosSelector_8h.html":[8,0,0,0,1,2,16,5,7],
-"df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[8,0,0,0,1,2,16,5,7,3]
+"df/d0a/ObjectPosSelector_8h.html":[8,0,0,0,1,2,16,5,7]
 };

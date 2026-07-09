@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa9e410ded7ed0632a9c9b0159d0fa735f":[8,0,0,0,1,3,4,0,0,3,5],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999faacead6fa04e952d75dda66e3ee67aca1":[8,0,0,0,1,3,4,0,0,3,2],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fae57dd61fd0586645547775499b96e600":[8,0,0,0,1,3,4,0,0,3,0],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,4,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cac568bb3333987a7d2d4a3f1d1f860a7f":[8,0,0,0,1,3,5,8,2,3,4,0],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cae46f3837ef23fd43f6bd61d6def47651":[8,0,0,0,1,3,5,8,2,3,4,9],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caeee58ec3d0ead4243bb1631df7db9571":[8,0,0,0,1,3,5,8,2,3,4,5],
-"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caff2cc170f5568b498b06a7684e5637fd":[8,0,0,0,1,3,5,8,2,3,4,7],
-"d6/d75/boss__varos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,8,2,3,2]
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caff2cc170f5568b498b06a7684e5637fd":[8,0,0,0,1,3,5,8,2,3,4,7]
 };
