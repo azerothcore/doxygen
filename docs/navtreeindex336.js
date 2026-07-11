@@ -1,5 +1,7 @@
 var NAVTREEINDEX336 =
 {
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a":[8,0,0,0,1,3,2,6,0,17,1],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546":[8,0,0,0,1,3,2,6,0,17,4],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67":[8,0,0,0,1,3,2,6,0,17,0],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17":[8,0,0,0,1,3,2,6,0,17,11],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f":[8,0,0,0,1,3,2,6,0,17,16],
@@ -148,16 +150,16 @@ var NAVTREEINDEX336 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4335,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4335,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4335,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,776],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[7,0,776,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[7,0,776,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX336 =
 "dc/dfe/classQuestMenu.html#a60ba5b35499c6a9ed510300d3300421e":[7,0,2482,0],
 "dc/dfe/classQuestMenu.html#a7fe36e4a4acfc66a00f08034c470b5e3":[7,0,2482,7],
 "dc/dfe/classQuestMenu.html#ab3d3881aabe000694acab37a3774507e":[7,0,2482,3],
-"dc/dfe/classQuestMenu.html#ac8735756bbf9f2fa799c505bd740e070":[7,0,2482,2],
-"dc/dfe/classspell__rog__honor__among__thieves__proc.html":[7,0,3974],
-"dc/dfe/classspell__rog__honor__among__thieves__proc.html#a95e386af9016e598e932177cb400fd8b":[7,0,3974,2]
+"dc/dfe/classQuestMenu.html#ac8735756bbf9f2fa799c505bd740e070":[7,0,2482,2]
 };

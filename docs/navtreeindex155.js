@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a":[7,0,942,18],
+"d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778":[7,0,942,21],
 "d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4":[7,0,942,25],
 "d5/d79/classCreatureAI.html#affb58f71126f78106d39a142d962210f":[7,0,942,7],
 "d5/d79/classspell__warhead__fuse__aura.html":[7,0,4254],
@@ -34,8 +36,8 @@ var NAVTREEINDEX155 =
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[7,0,0,43,0],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[7,0,0,43,5],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[5,0,0,55,5],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[5,0,0,55,4],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[7,0,0,43,4],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[5,0,0,55,4],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[7,0,0,43,1],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[5,0,0,55,1],
 "d5/d7b/boss__ormorok_8cpp.html":[8,0,0,0,1,3,5,8,1,4],
@@ -69,18 +71,18 @@ var NAVTREEINDEX155 =
 "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5399086bf936186e2d5e143fad34032":[8,0,0,0,1,3,5,8,1,4,3,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[7,0,13,27],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html":[5,0,34,27],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[7,0,13,27,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[5,0,34,27,0],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[7,0,13,27,2],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a4d2bf169dd705b886da8ff58a7ef4bd2":[7,0,13,27,0],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,34,27,2],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[7,0,13,27,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[7,0,13,27,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,34,27,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[7,0,13,27,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,34,27,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[7,0,13,27,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,34,27,1],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[7,0,13,27,4],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[5,0,34,27,4],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[7,0,13,27,4],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html":[7,0,1910],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a0feca7aedcf3c07253d4d402266189cc":[7,0,1910,2],
 "d5/d7b/classnpc__injured__7th__legion__soldier.html#a9d3c647f485dbca5efeec8f784efba1b":[7,0,1910,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[8,0,0,0,1,3,4,9,0,7,6],
 "d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca4250d8226142bf7f00f62ba1120b28b3":[8,0,0,0,1,3,4,9,0,7,0],
 "d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca493e2a2f53b799baa250e11d52a26d97":[8,0,0,0,1,3,4,9,0,7,14],
-"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,4,9,0,7,11],
-"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca694b69d86383f665becbce0011f3470c":[8,0,0,0,1,3,4,9,0,7,12],
-"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7":[8,0,0,0,1,3,4,9,0,7,10]
+"d5/d85/boss__bug__trio_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,4,9,0,7,11]
 };

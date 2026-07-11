@@ -1,5 +1,7 @@
 var NAVTREEINDEX48 =
 {
+"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,7,5,3,3,4,3],
+"d1/de2/classspell__magtheridon__blaze.html":[7,0,3603],
 "d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[7,0,3603,1],
 "d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[7,0,3603,2],
 "d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[7,0,3603,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX48 =
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609adfafbc1009dc06ebd21473bd1a99f06c":[8,0,0,0,1,3,9,2,214,8],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609ae5a8d352529883da3c8c2aa2eb9f2d99":[8,0,0,0,1,3,9,2,214,14],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aed88295b29642e4fa1ddd958d18d4df6":[8,0,0,0,1,3,9,2,214,27],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aed9272c02358d6c3e5d20443a981d24b":[8,0,0,0,1,3,9,2,214,13],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aee45db189cb7fe3822ab527b9fecfb68":[8,0,0,0,1,3,9,2,214,12],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af3c70cd2faa18c4b284b7e590d543593":[8,0,0,0,1,3,9,2,214,17]
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aed9272c02358d6c3e5d20443a981d24b":[8,0,0,0,1,3,9,2,214,13]
 };

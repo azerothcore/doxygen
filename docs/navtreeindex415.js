@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html":[7,0,4295],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a0eb7295583f2c45c88ae266d66813b5b":[7,0,4295,1],
 "df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[7,0,4295,0],
 "df/dbe/classspell__warl__t4__2p__bonus__fire.html#ab8848a011ec8397bc5712ced54e09432":[7,0,4295,2],
 "df/dbe/classspell__warl__t4__2p__bonus__fire.html#ae35703b7d676fde170241dd64c3c5411":[7,0,4295,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/dd3/classEmblemInfo.html#a15108f3a2a93ebbc01111672dd238d63":[7,0,1036,4],
 "df/dd3/classEmblemInfo.html#a17de371e72a2b29a7f249dbe912636bc":[7,0,1036,6],
 "df/dd3/classEmblemInfo.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf":[7,0,1036,10],
-"df/dd3/classEmblemInfo.html#a66da2cd78cee9e929ff0f2439caed0e5":[7,0,1036,1],
-"df/dd3/classEmblemInfo.html#a7a791a3f467e72a3e8e941e3179d7709":[7,0,1036,3],
-"df/dd3/classEmblemInfo.html#a8d053ab27856955bf6013ef4c61ed33f":[7,0,1036,0]
+"df/dd3/classEmblemInfo.html#a66da2cd78cee9e929ff0f2439caed0e5":[7,0,1036,1]
 };

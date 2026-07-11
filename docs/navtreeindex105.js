@@ -1,5 +1,7 @@
 var NAVTREEINDEX105 =
 {
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#af2cc55a3f35a70a4a9630b4b843f8db7":[7,0,1618,0,4],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#af8aa57d58c05da9a8194bc6565d7a096":[7,0,1618,0,5],
 "d3/d8e/structnpc__demonic__vapor__trail.html":[7,0,1767],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a21e2223f58156da2fbe1803554623ecd":[7,0,1767,3],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d":[7,0,1767,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d98/namespaceMageSpellFlags.html":[5,0,18],
 "d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f":[5,0,18,1],
 "d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805":[5,0,18,2],
-"d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3":[5,0,18,0],
-"d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52":[5,0,18,3],
-"d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296":[5,0,18,4]
+"d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3":[5,0,18,0]
 };

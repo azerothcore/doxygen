@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31":[8,0,0,0,0,1,0,0,6,2],
+"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38":[8,0,0,0,0,1,0,0,6,0],
 "db/d23/IVMapMgr_8h.html#a6d0d846568e1fbb60e05aacfa9c1c73c":[8,0,0,0,0,1,0,0,5],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18":[8,0,0,0,0,1,0,0,7],
 "db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[8,0,0,0,0,1,0,0,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ad22bb6efafb4396cd0137c1384240029":[7,0,1797,0,4],
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#af8b3a9b56e4bdf8d8b654ecccd096651":[7,0,1797,0,0],
 "db/d37/classboss__urom.html":[7,0,770],
-"db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[7,0,770,2],
-"db/d37/classboss__urom.html#ae85d0bb54d3bf6571bec9d35f31a3e25":[7,0,770,1],
-"db/d37/classspell__dk__pet__scaling.html":[7,0,2815]
+"db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[7,0,770,2]
 };

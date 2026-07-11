@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290":[8,0,0,0,1,2,20,1,13,3],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109":[8,0,0,0,1,2,20,1,13,20],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39":[8,0,0,0,1,2,20,1,13,1],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8":[8,0,0,0,1,2,20,1,13,16],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806":[8,0,0,0,1,2,20,1,13,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "de/d47/classOPvPCapturePointGH.html#aec741b9102829bf77850dc06a49bb8da":[7,0,2338,5],
 "de/d47/classOPvPCapturePointGH.html#afe53e37a3a1dc4a7068c03302f26b981":[7,0,2338,1],
 "de/d47/classOPvPCapturePointGH.html#afea733c44d129d9a5af78a8337d9e04a":[7,0,2338,3],
-"de/d47/classspell__warl__nether__protection.html":[7,0,4281],
-"de/d47/classspell__warl__nether__protection.html#a28c409af8e7a8115ce86f2a51fff1afd":[7,0,4281,1],
-"de/d47/classspell__warl__nether__protection.html#a334db12ee8ed29b34269a0ca3172d7b4":[7,0,4281,2]
+"de/d47/classspell__warl__nether__protection.html":[7,0,4281]
 };

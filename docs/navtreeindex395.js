@@ -1,5 +1,7 @@
 var NAVTREEINDEX395 =
 {
+"de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[7,0,3108,1],
+"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[7,0,3108,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[7,0,3108,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[7,0,3108,2],
 "de/de0/structSpellClickInfo.html":[7,0,4386],
@@ -247,7 +249,5 @@ var NAVTREEINDEX395 =
 "de/deb/structM2Header.html#a16b620c87a7094974e487ff05968860b":[7,0,1487,51],
 "de/deb/structM2Header.html#a1c8ef02d4d60a0bb6e88e7090e7098d1":[7,0,1487,5],
 "de/deb/structM2Header.html#a30b698eedf1a476f074fbce88302e9a3":[7,0,1487,22],
-"de/deb/structM2Header.html#a32d67223aaae8ad49c3acccc4c68c371":[7,0,1487,15],
-"de/deb/structM2Header.html#a375f6df3e7109b958ea6b898194e2ed7":[7,0,1487,28],
-"de/deb/structM2Header.html#a38f976b05081a7cda7c3844b26283e27":[7,0,1487,46]
+"de/deb/structM2Header.html#a32d67223aaae8ad49c3acccc4c68c371":[7,0,1487,15]
 };

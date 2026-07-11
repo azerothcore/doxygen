@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#a037c200712022193928a78d7a57f8564":[8,0,0,0,1,2,14,1,79],
+"d2/df6/DBCStores_8h.html#a03d13b25a0a4175a34c86cf02afb24ea":[8,0,0,0,1,2,14,1,117],
 "d2/df6/DBCStores_8h.html#a07db9078d2ad7d5e932e0f41c61bc71e":[8,0,0,0,1,2,14,1,127],
 "d2/df6/DBCStores_8h.html#a0ebd232e7ec9e0fdc1e296f3791c9d4b":[8,0,0,0,1,2,14,1,113],
 "d2/df6/DBCStores_8h.html#a10e6eae9259492fc3d02e034b6538583":[8,0,0,0,1,2,14,1,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3b2e5636b6c13bc243a067cacc7ab529":[7,0,644,0,1],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108":[7,0,644,0,3],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#aa1693c8cc5bcc60a256f5d61f81cce1a":[7,0,644,0,4],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#adc83683c2f6a7073469cd2f5aa325717":[7,0,644,0,6],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#ade54a8fa42cbbf9febecf1a3eee00fd3":[7,0,644,0,2],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#af30c26b46b14e9e16fe5d48d4dcf23de":[7,0,644,0,7]
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#adc83683c2f6a7073469cd2f5aa325717":[7,0,644,0,6]
 };

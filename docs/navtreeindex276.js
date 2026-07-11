@@ -1,5 +1,7 @@
 var NAVTREEINDEX276 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[8,0,0,0,1,3,7,13,36,13],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[8,0,0,0,1,3,7,13,36,24],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129":[8,0,0,0,1,3,7,13,36,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6":[8,0,0,0,1,3,7,13,36,23],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582":[8,0,0,0,1,3,7,13,36,1],
@@ -146,8 +148,8 @@ var NAVTREEINDEX276 =
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[7,0,2871,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[7,0,13,8,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,34,8,10,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX276 =
 "da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[7,0,221,0],
 "da/db4/classat__commander__dawnforge.html#acc78f4f2f9d892c02d62548e93f7f83b":[7,0,221,1],
 "da/db4/classspell__warl__nightfall.html":[7,0,4282],
-"da/db4/classspell__warl__nightfall.html#a760f228c118e9a89a3adc2767290f6f5":[7,0,4282,1],
-"da/db4/classspell__warl__nightfall.html#a79bcdad48c19c0db70960552f6b4e2d3":[7,0,4282,0],
-"da/db4/classspell__warl__nightfall.html#acdc499d8cae2de0edcfd2c19319e0175":[7,0,4282,3]
+"da/db4/classspell__warl__nightfall.html#a760f228c118e9a89a3adc2767290f6f5":[7,0,4282,1]
 };

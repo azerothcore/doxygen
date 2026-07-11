@@ -1,5 +1,7 @@
 var NAVTREEINDEX194 =
 {
+"d7/d16/classspell__call__wintergarde__gryphon.html#a41beb2c890137328734d6adb14e08302":[7,0,2724,0],
+"d7/d16/classspell__call__wintergarde__gryphon.html#a431a556ab73f91ed63f5983e537834a5":[7,0,2724,3],
 "d7/d16/classspell__call__wintergarde__gryphon.html#aa0b9873dbd8c75a14fa88094d91eeeaa":[7,0,2724,1],
 "d7/d16/classspell__call__wintergarde__gryphon.html#aa0fad5e5a68131ebab5717ad0ce69669":[7,0,2724,2],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html":[7,0,2847],
@@ -89,8 +91,8 @@ var NAVTREEINDEX194 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4":[8,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX194 =
 "d7/d22/structboss__lavanthor.html#ad264818ef0f539c48160de9dbebeac7f":[7,0,606,0],
 "d7/d22/structboss__lavanthor.html#aee499fcde639aaca7131dba9cca1d4d0":[7,0,606,1],
 "d7/d23/structboss__magus__telestra.html":[7,0,620],
-"d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[7,0,620,10],
-"d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[7,0,620,5],
-"d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[7,0,620,2]
+"d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[7,0,620,10]
 };

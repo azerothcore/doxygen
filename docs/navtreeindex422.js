@@ -1,5 +1,7 @@
 var NAVTREEINDEX422 =
 {
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a4fe22aebe6e814196ac1914d158a62de":[7,0,763,0,6],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a6428a1c4fc7d3da4e016ed17ea3684df":[7,0,763,0,1],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[7,0,763,0,8],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[7,0,763,0,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[7,0,763,0,5],
@@ -17,10 +19,10 @@ var NAVTREEINDEX422 =
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[7,0,2102,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[7,0,11,23,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[7,0,11,23,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[7,0,11,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,31,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,31,23,0],
@@ -143,12 +145,12 @@ var NAVTREEINDEX422 =
 "df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7":[7,0,50,2],
 "df/de4/classachievement__commandscript.html#ac1c40d7b3b628cc206c44eae18592292":[7,0,50,0],
 "df/de4/classachievement__commandscript.html#adeac4e6f74f006daa76b0ebb8ea1469c":[7,0,50,1],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[5,0,34,14,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[7,0,13,14,0],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[5,0,34,14,0,2],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[5,0,34,14,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[7,0,13,14,0,2],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a3c49c83653ef26f2dcaf5c73c29066e0":[5,0,34,14,0,0],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[5,0,34,14,0,2],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a3c49c83653ef26f2dcaf5c73c29066e0":[7,0,13,14,0,0],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a3c49c83653ef26f2dcaf5c73c29066e0":[5,0,34,14,0,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[7,0,13,14,0,1],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[5,0,34,14,0,1],
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX422 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[8,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[7,0,13,17,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,34,17,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,17,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[7,0,13,17,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[7,0,13,17,0,0,0]
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[7,0,13,17,0,0,2]
 };

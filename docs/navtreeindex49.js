@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aee45db189cb7fe3822ab527b9fecfb68":[8,0,0,0,1,3,9,2,214,12],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af3c70cd2faa18c4b284b7e590d543593":[8,0,0,0,1,3,9,2,214,17],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af6967a17fa4ef21bd7b4f2836c7aa3b8":[8,0,0,0,1,3,9,2,214,9],
 "d1/de4/spell__generic_8cpp.html#aa8c4d3da0110db6ed905a7290901c630":[8,0,0,0,1,3,9,2,193],
 "d1/de4/spell__generic_8cpp.html#aa8c4d3da0110db6ed905a7290901c630aa7fc3707e4da741c5c4fd7f15851a68e":[8,0,0,0,1,3,9,2,193,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX49 =
 "d1/df7/classTransactionBase.html":[7,0,4515],
 "d1/df7/classTransactionBase.html#a06fa417f69e0a67da8f249333b1d189d":[7,0,4515,8],
 "d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1":[7,0,4515,11],
-"d1/df7/classTransactionBase.html#a261ad9d7423562ccbe2cac6d75c203bd":[7,0,4515,6],
-"d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3":[7,0,4515,5],
-"d1/df7/classTransactionBase.html#a377add6d6b5e34e774d2497d58f4a180":[7,0,4515,9]
+"d1/df7/classTransactionBase.html#a261ad9d7423562ccbe2cac6d75c203bd":[7,0,4515,6]
 };

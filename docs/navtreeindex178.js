@@ -1,5 +1,7 @@
 var NAVTREEINDEX178 =
 {
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340e":[8,0,0,0,1,3,2,9,0,13],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[8,0,0,0,1,3,2,9,0,13,14],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902":[8,0,0,0,1,3,2,9,0,13,6],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04":[8,0,0,0,1,3,2,9,0,13,3],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28":[8,0,0,0,1,3,2,9,0,13,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d5a/structboss__doomwalker.html#aeefc6b3fdff4375c421318484e0b18a6":[7,0,442,1],
 "d6/d5b/classUpdatableMapObject.html":[7,0,4553],
 "d6/d5b/classUpdatableMapObject.html#a46f9010396bb1bd84fb654bbe2795f8e":[7,0,4553,8],
-"d6/d5b/classUpdatableMapObject.html#a52bf945e86eba8c73701a3e378503eeb":[7,0,4553,2],
-"d6/d5b/classUpdatableMapObject.html#a5602f3b21fe1299e300e71d645f3eaee":[7,0,4553,1],
-"d6/d5b/classUpdatableMapObject.html#a7c95f861c7e13c17e2ebf8088882a709":[7,0,4553,5]
+"d6/d5b/classUpdatableMapObject.html#a52bf945e86eba8c73701a3e378503eeb":[7,0,4553,2]
 };

@@ -9,7 +9,9 @@ var pet__mage_8cpp =
       [ "SPELL_SUMMON_MIRROR_IMAGE1", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f", null ],
       [ "SPELL_SUMMON_MIRROR_IMAGE2", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426", null ],
       [ "SPELL_SUMMON_MIRROR_IMAGE3", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75", null ],
-      [ "SPELL_SUMMON_MIRROR_IMAGE_GLYPH", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763", null ]
+      [ "SPELL_SUMMON_MIRROR_IMAGE_GLYPH", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763", null ],
+      [ "SPELL_MAGE_MIRROR_IMAGE_FROSTBOLT", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247", null ],
+      [ "SPELL_MAGE_MIRROR_IMAGE_FIRE_BLAST", "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd", null ]
     ] ],
     [ "AddSC_mage_pet_scripts", "d1/d8e/pet__mage_8cpp.html#a689a4efb7777f4164aee994745a0e2d2", null ]
 ];

@@ -1,5 +1,7 @@
 var NAVTREEINDEX314 =
 {
+"dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[8,0,0,0,1,3,7,4,1,4,2],
+"dc/d02/WeatherScript_8h.html":[8,0,0,0,1,2,38,0,91],
 "dc/d03/InstanceMapScript_8h.html":[8,0,0,0,1,2,38,0,60],
 "dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[8,0,0,0,1,2,38,0,60,2],
 "dc/d03/ScriptedEscortAI_8h.html":[8,0,0,0,1,2,3,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf06f3ff83a1569f59d36555d0e4897a":[8,0,0,0,1,3,5,4,1,2,21,67],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1c4d6d44252f39ca3e714c838429572":[8,0,0,0,1,3,5,4,1,2,21,60],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1ff9f6df418335d6ecdaf14705e6634":[8,0,0,0,1,3,5,4,1,2,21,59],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4b51f48f97ba313306dd8f057f26a19":[8,0,0,0,1,3,5,4,1,2,21,63],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9eca9b8087de6873a64bfef98ab5cb9":[8,0,0,0,1,3,5,4,1,2,21,39],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad00ddd943bf0e9d2338afb8144805b93":[8,0,0,0,1,3,5,4,1,2,21,54]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4b51f48f97ba313306dd8f057f26a19":[8,0,0,0,1,3,5,4,1,2,21,63]
 };

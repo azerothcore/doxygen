@@ -1,5 +1,7 @@
 var NAVTREEINDEX384 =
 {
+"de/d72/namespacelfg.html#a028c02c49f9146ef7d35fc893ac3c561":[5,0,17,30],
+"de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934d":[5,0,17,49],
 "de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934da02871a08b83930c1916bafc2d4f35d82":[5,0,17,49,0],
 "de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934da0fb465f4809634bc00b953b7d23edc41":[5,0,17,49,1],
 "de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934da108fcafd94fd7f9e8e272a1018a1fa6b":[5,0,17,49,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX384 =
 "de/d77/structboss__yoggsaron__brain.html#a9d75d3a6e7d89d8d1c4e472b8fe82161":[7,0,804,8],
 "de/d77/structboss__yoggsaron__brain.html#ad162b38c8b4d638c6f3f6c673b6554d4":[7,0,804,5],
 "de/d77/structboss__yoggsaron__brain.html#adf41fc4e1adda0e969e06f490fe59414":[7,0,804,6],
-"de/d77/structboss__yoggsaron__brain.html#ae51cea57d22cfac38efdddde1bed15f9":[7,0,804,14],
-"de/d77/structboss__yoggsaron__brain.html#ae6447e894e75f49c61876450f2cdc7ff":[7,0,804,1],
-"de/d77/structboss__yoggsaron__brain.html#aebc5e80be39aea6be68b9b1e78ec770f":[7,0,804,10]
+"de/d77/structboss__yoggsaron__brain.html#ae51cea57d22cfac38efdddde1bed15f9":[7,0,804,14]
 };

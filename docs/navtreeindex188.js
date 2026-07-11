@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d6/dc7/classCreatureGroup.html#a07388907629846288949a5a896d0c00d":[7,0,949,5],
+"d6/dc7/classCreatureGroup.html#a0c8f7d4ceda056e0d39d80d434e4feca":[7,0,949,0],
 "d6/dc7/classCreatureGroup.html#a0d67df48ef040fc8f14b1ddf307aed14":[7,0,949,7],
 "d6/dc7/classCreatureGroup.html#a160d77342c8e11d97f66def5ff795929":[7,0,949,8],
 "d6/dc7/classCreatureGroup.html#a16be792f604999ba80b361b59ea77a76":[7,0,949,2],
@@ -196,10 +198,10 @@ var NAVTREEINDEX188 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[7,0,13,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[7,0,13,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[7,0,13,6,28,0],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[7,0,13,6,28,3],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,34,6,28,3],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[7,0,13,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,34,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[7,0,13,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[7,0,13,6,28,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73":[8,0,0,0,1,3,8,5,2,2],
 "d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9":[8,0,0,0,1,3,8,5,2,0],
 "d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec":[8,0,0,0,1,3,8,5,2,1],
-"d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109":[8,0,0,0,1,3,8,5,2,3],
-"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019":[8,0,0,0,1,3,8,5,3],
-"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8":[8,0,0,0,1,3,8,5,3,3]
+"d6/dd0/pet__shaman_8cpp.html#aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109":[8,0,0,0,1,3,8,5,2,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX91 =
 {
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#ade54a8fa42cbbf9febecf1a3eee00fd3":[7,0,644,0,2],
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#af30c26b46b14e9e16fe5d48d4dcf23de":[7,0,644,0,7],
 "d2/dfc/instance__serpent__shrine_8cpp.html":[8,0,0,0,1,3,7,2,0,6],
 "d2/dfc/instance__serpent__shrine_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,7,2,0,6,12],
 "d2/dfc/instance__serpent__shrine_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,0,6,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[7,0,1843,0,2],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[7,0,1843,0,10],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a21f9c24e80145db0c6847c81261d0e8d":[7,0,1843,0,7],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a6f9730b746e195a99dc11357fd0387ba":[7,0,1843,0,8],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a721cc96cc76a27574a1a4eb1996b100e":[7,0,1843,0,9],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a75444497ffd6b7365827eea57fd946f9":[7,0,1843,0,0]
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a6f9730b746e195a99dc11357fd0387ba":[7,0,1843,0,8]
 };

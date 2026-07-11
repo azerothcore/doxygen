@@ -1,5 +1,7 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
+"d2/ddb/structPyramidEventData.html":[7,0,2468],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[7,0,2468,2],
 "d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[7,0,2468,0],
 "d2/ddb/structPyramidEventData.html#a9705a858cc2c3867e104514d3a0a1866":[7,0,2468,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html":[7,0,4403],
 "d2/de9/classSpellInfo.html#a0097892412fb268b302090f3721866e7":[7,0,4403,150],
 "d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[7,0,4403,88],
-"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[7,0,4403,184],
-"d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[7,0,4403,142],
-"d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[7,0,4403,6]
+"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[7,0,4403,184]
 };

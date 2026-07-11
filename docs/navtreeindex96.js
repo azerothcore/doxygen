@@ -1,5 +1,7 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167":[8,0,0,0,1,3,5,9,2,13,47,36],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a0a64fc8af5ae1439ac850607743088dc":[8,0,0,0,1,3,5,9,2,13,47,11],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a13d25034aed5ba0b42a22447fac4af0d":[8,0,0,0,1,3,5,9,2,13,47,2],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2":[8,0,0,0,1,3,5,9,2,13,47,15],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a17e9aa3f9895bb496c9b5929064c1e1b":[8,0,0,0,1,3,5,9,2,13,47,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a1a5ddcb64a0c2f2bb55f53ac2405cd19":[8,0,0,0,2,2,0,10,8,2],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a28eafd5c0cb7bb8e01efbb06f7b34233":[8,0,0,0,2,2,0,10,8,8],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a2d4b85c0008eabeb4461f01bccaf89f8":[8,0,0,0,2,2,0,10,8,10],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a364de25f6fd5bb612f3c4bc96219139b":[8,0,0,0,2,2,0,10,8,21],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a36cc74c392392b4e050fd3a9a93ec059":[8,0,0,0,2,2,0,10,8,11],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a57dc9556cf0be707c2dc83b18da58713":[8,0,0,0,2,2,0,10,8,3]
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a364de25f6fd5bb612f3c4bc96219139b":[8,0,0,0,2,2,0,10,8,21]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX54 =
 {
+"d2/d25/arcatraz_8h.html#a6bd1fea82c386b65314cdeaf32149803":[8,0,0,0,1,3,7,5,0,1,2],
+"d2/d25/arcatraz_8h.html#a7c52f48fc7ad28bad8b12df2b0a347d6":[8,0,0,0,1,3,7,5,0,1,8],
 "d2/d25/arcatraz_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,5,0,1,3],
 "d2/d25/arcatraz_8h.html#a92f6fd626e1834a4cc509efc1186963eac8187001ea51aaa0d362087fe99e80d9":[8,0,0,0,1,3,7,5,0,1,3,2],
 "d2/d25/arcatraz_8h.html#a92f6fd626e1834a4cc509efc1186963ead0239db327bb65717babe37e72db715f":[8,0,0,0,1,3,7,5,0,1,3,0],
@@ -200,14 +202,14 @@ var NAVTREEINDEX54 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[7,0,3176,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[7,0,3176,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[7,0,3176,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[7,0,0,122,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[7,0,0,122,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
 "d2/d2b/classConfusedMovementGenerator.html":[7,0,921],
 "d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[7,0,921,13],
 "d2/d2b/classConfusedMovementGenerator.html#a212665e4306ca335181c255573d30a06":[7,0,921,2],
@@ -223,8 +225,8 @@ var NAVTREEINDEX54 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[7,0,921,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[7,0,921,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[7,0,921,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[7,0,13,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,34,10,3],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[7,0,13,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,34,10,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[7,0,13,10,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,34,10,3,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b":[8,0,0,0,1,2,16,11,2,12,3],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe":[8,0,0,0,1,2,16,11,2,12,2],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119":[8,0,0,0,1,2,16,11,2,12,0],
-"d2/d2c/VehicleDefines_8h.html#a5b46179616c0e205a7c933e02f87160b":[8,0,0,0,1,2,16,11,2,6],
-"d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7a":[8,0,0,0,1,2,16,11,2,10],
-"d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f":[8,0,0,0,1,2,16,11,2,10,1]
+"d2/d2c/VehicleDefines_8h.html#a5b46179616c0e205a7c933e02f87160b":[8,0,0,0,1,2,16,11,2,6]
 };

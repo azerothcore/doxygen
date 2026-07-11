@@ -1,5 +1,7 @@
 var NAVTREEINDEX382 =
 {
+"de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff":[8,0,0,0,1,2,15,1,10,1],
+"de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5":[8,0,0,0,1,2,15,1,10,0],
 "de/d59/LFG_8h.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6":[8,0,0,0,1,2,15,1,10,2],
 "de/d59/LFG_8h.html#a1b722a34b2bb9c6f6699bc774c2f246b":[8,0,0,0,1,2,15,1,8],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bd":[8,0,0,0,1,2,15,1,14],
@@ -67,8 +69,8 @@ var NAVTREEINDEX382 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3341,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[7,0,0,5,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[7,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[8,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[8,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,7,12,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX382 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6088e0642e7f67b39e6eb80fb56e339a":[8,0,0,0,1,2,13,1,13,1],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a63515c75c54fffb17ed42f903c12f755":[8,0,0,0,1,2,13,1,13,17],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a65d58d98e9fc79e2c86580ad0043a3d9":[8,0,0,0,1,2,13,1,13,50],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a65e7c6505f1a25dd1c6c84fa8dbaab7a":[8,0,0,0,1,2,13,1,13,31],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6cca3fd2e257213071b4b831c9eb46f9":[8,0,0,0,1,2,13,1,13,45],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6e2bbb969ee0c578cd46a351a5784990":[8,0,0,0,1,2,13,1,13,49]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a65e7c6505f1a25dd1c6c84fa8dbaab7a":[8,0,0,0,1,2,13,1,13,31]
 };

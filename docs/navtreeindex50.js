@@ -1,5 +1,7 @@
 var NAVTREEINDEX50 =
 {
+"d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3":[7,0,4515,5],
+"d1/df7/classTransactionBase.html#a377add6d6b5e34e774d2497d58f4a180":[7,0,4515,9],
 "d1/df7/classTransactionBase.html#a5d89109a06fa4fca3057b99bbfa84e58":[7,0,4515,7],
 "d1/df7/classTransactionBase.html#a663d13ba0b22e0711d135073ff80ee47":[7,0,4515,0],
 "d1/df7/classTransactionBase.html#a6ce7e6ef81bb466463bace35cdd49476":[7,0,4515,1],
@@ -21,16 +23,16 @@ var NAVTREEINDEX50 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[7,0,3512,0],
 "d1/df9/classspell__kelthuzad__void__blast.html#a5e33a371d519c2fdc8561f2ac8d9dd82":[7,0,3512,2],
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3512,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1658],
@@ -247,7 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d0a/classspell__ahune__minion__despawner.html#a9451ed26358c77ab4d35781fd8fb4b55":[7,0,2609,0],
 "d2/d0a/classspell__ahune__minion__despawner.html#ad24e7fa45f35f2cd6071328c60cb2732":[7,0,2609,1],
 "d2/d0a/classspell__item__greatmothers__soulcatcher.html":[7,0,3379],
-"d2/d0a/classspell__item__greatmothers__soulcatcher.html#a1daf78c552ffd963f181eded01b570a9":[7,0,3379,0],
-"d2/d0a/classspell__item__greatmothers__soulcatcher.html#a63771475c954e4bddf6c1fc4c04990e0":[7,0,3379,2],
-"d2/d0a/classspell__item__greatmothers__soulcatcher.html#adaa82dfd828ed915cfc16f95e73cd224":[7,0,3379,1]
+"d2/d0a/classspell__item__greatmothers__soulcatcher.html#a1daf78c552ffd963f181eded01b570a9":[7,0,3379,0]
 };

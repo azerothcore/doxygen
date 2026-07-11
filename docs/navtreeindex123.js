@@ -1,5 +1,7 @@
 var NAVTREEINDEX123 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aaeb4896f33c027a03fdce65105c048e9":[8,0,0,0,1,3,5,4,1,3,41],
+"d4/d1e/halls__of__reflection_8h.html#ad4550aef34ca62c3a6d9256b6df9fb0a":[8,0,0,0,1,3,5,4,1,3,28],
 "d4/d1e/halls__of__reflection_8h.html#ad46916324407da5e4a8c80b8e14cd597":[8,0,0,0,1,3,5,4,1,3,25],
 "d4/d1e/halls__of__reflection_8h.html#adec5fd0d03700bf28da476841b22a325":[8,0,0,0,1,3,5,4,1,3,44],
 "d4/d1e/halls__of__reflection_8h.html#ae4c6cef48277dd690772a3685aaff31e":[8,0,0,0,1,3,5,4,1,3,43],
@@ -247,7 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a277d9865108acafac4b1a42bc5b5714b":[7,0,2703,3],
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a5ffe5a8b3422382482f713ff6d8514b2":[7,0,2703,4],
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a60f41c19f5104eef82048fd1e3416abd":[7,0,2703,2],
-"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#ac9e030810cc1ffb3927943353bcbb764":[7,0,2703,0],
-"d4/d29/boss__akilzon_8cpp.html":[8,0,0,0,1,3,2,15,0],
-"d4/d29/boss__akilzon_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,15,0,5]
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#ac9e030810cc1ffb3927943353bcbb764":[7,0,2703,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX241 =
 {
+"d9/d16/structMetricData.html#af9962592650ba24fd9b3c0ee9ce06f7f":[7,0,1529,5],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[7,0,1632,0],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0d51c4ab1701e62c02431b86f22eaf30":[7,0,1632,0,10],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0ee99690c32addb8e2ea01fd46f7d7d7":[7,0,1632,0,9],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a485191989dd7d82c5429900af3e34502":[7,0,1632,0,2],
@@ -214,14 +216,14 @@ var NAVTREEINDEX241 =
 "d9/d28/structAreaPOIEntry.html#ad34c7f65fc077b39b6b71a1ff1a89cf5":[7,0,169,0],
 "d9/d28/structAreaPOIEntry.html#af9f4cd8b29daededd3d2b2f0cc53d213":[7,0,169,1],
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3374],
 "d9/d29/classspell__item__goblin__bomb.html#a0877a96dde66adb988628ebb93fe15b6":[7,0,3374,2],
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[7,0,3374,1],
@@ -229,8 +231,8 @@ var NAVTREEINDEX241 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[7,0,3374,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,15,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[7,0,13,15,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[7,0,13,15,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,15,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[7,0,13,15,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[8,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[8,0,0,0,1,3,2,4,2,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d2c/DBCFileLoader_8h.html":[8,0,0,0,0,4,1],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960":[8,0,0,0,0,4,1,2],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036":[8,0,0,0,0,4,1,2,7],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c":[8,0,0,0,0,4,1,2,0],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a":[8,0,0,0,0,4,1,2,3],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29":[8,0,0,0,0,4,1,2,2]
+"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c":[8,0,0,0,0,4,1,2,0]
 };

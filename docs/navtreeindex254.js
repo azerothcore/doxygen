@@ -1,5 +1,7 @@
 var NAVTREEINDEX254 =
 {
+"d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[7,0,920,3],
+"d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[7,0,920,7],
 "d9/dc5/classConfigValueCache.html#a3645d00d7d88bac526ab2da095e2893e":[7,0,920,5],
 "d9/dc5/classConfigValueCache.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf":[7,0,920,6],
 "d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680b":[7,0,920,0],
@@ -90,8 +92,8 @@ var NAVTREEINDEX254 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a475f1dbc77ce1f36d8de90816ac55b25":[8,0,0,0,1,3,2,1,0,14,4,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a6c9563271414c3c12336a92737d467f9":[8,0,0,0,1,3,2,1,0,14,4,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[8,0,0,0,1,3,2,1,0,14,4,2],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[7,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[7,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[7,0,13,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX254 =
 "d9/dcf/classspell__thaddius__polarity__shift.html#aa87e57dabec6e83029f4dd84913f22ca":[7,0,4151,3],
 "d9/dcf/classspell__thaddius__polarity__shift.html#ac816f81a668ac3018be8f5dc4698039b":[7,0,4151,0],
 "d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[7,0,4151,2],
-"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[7,0,4151,4],
-"d9/dd0/QueryHolder_8h.html":[8,0,0,0,1,1,0,27],
-"d9/dd0/classspell__sha__bloodlust.html":[7,0,4027]
+"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[7,0,4151,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ac8d2b520b19f78c0c1dabc5cdd64d0d0":[5,0,28,6,60],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ac95b5cee8503cde94bf679f14e7d0127":[5,0,28,6,451],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ac95dc19998160a5b8321f60d9a2394f3":[5,0,28,6,432],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ac995ff2e24711351c1071ffcbec2f0fb":[5,0,28,6,250],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ac9df44a4bb5b739daccebccf0a52fefc":[5,0,28,6,418],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d3a/world__script__loader_8cpp.html#ae3e186d64e39803c404f1afb2144557b":[8,0,0,0,1,3,10,22,17],
 "dc/d3a/world__script__loader_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,22,3],
 "dc/d3b/classUnitStub.html":[7,0,4552],
-"dc/d3b/classUnitStub.html#a0096bd8b110bb563ccb435a25f9cfbb7":[7,0,4552,18],
-"dc/d3b/classUnitStub.html#a02ccf4611ea0ecd717601a549b8e8ff6":[7,0,4552,28],
-"dc/d3b/classUnitStub.html#a069a4e6b03aad82c642cbc9d641376ed":[7,0,4552,32]
+"dc/d3b/classUnitStub.html#a0096bd8b110bb563ccb435a25f9cfbb7":[7,0,4552,18]
 };

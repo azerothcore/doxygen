@@ -1,5 +1,7 @@
 var NAVTREEINDEX120 =
 {
+"d3/dfe/classspell__hun__intimidation.html#a3e0279f7dc724b4d49bfda4f0e417353":[7,0,3220,2],
+"d3/dfe/classspell__hun__intimidation.html#ae28075d0d66c99fb77a2c7fef678f4e2":[7,0,3220,1],
 "d3/dff/classspell__astromancer__wrath__of__the__astromancer.html":[7,0,2643],
 "d3/dff/classspell__astromancer__wrath__of__the__astromancer.html#a1794dcf8ebca0bd0c4fce5acb8b45de0":[7,0,2643,0],
 "d3/dff/classspell__astromancer__wrath__of__the__astromancer.html#a41e19fb2509051bbd2d9e43c59f16486":[7,0,2643,2],
@@ -61,16 +63,16 @@ var NAVTREEINDEX120 =
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html":[7,0,0,27],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a01b4592ac61d58ff39e5bb2eb1a1b997":[7,0,0,27,3],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a01b4592ac61d58ff39e5bb2eb1a1b997":[5,0,0,39,3],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[5,0,0,39,0],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[7,0,0,27,0],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[5,0,0,39,1],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[5,0,0,39,0],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[7,0,0,27,1],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[5,0,0,39,1],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[7,0,0,27,2],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[5,0,0,39,2],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[7,0,0,27,5],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[7,0,0,27,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
 "d4/d02/structSmartEvent.html":[7,0,2587],
 "d4/d02/structSmartEvent.html#a01c1c375781eff47f24a4ce7459e72c1":[7,0,2587,63],
 "d4/d02/structSmartEvent.html#a03541d8d37d1ddb0e2c9cbd149c388b8":[7,0,2587,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d07/structSpellProcTestEntry.html#aba345f90612d66a1ae8ff83b863c3752":[7,0,4436,9],
 "d4/d07/structSpellProcTestEntry.html#ac62ba46b22a759991731a15b17ccf3d9":[7,0,4436,12],
 "d4/d07/structSpellProcTestEntry.html#ad78ff047d8971788febae990abc86698":[7,0,4436,19],
-"d4/d07/structSpellProcTestEntry.html#ada68807ba3950313c5a7652a7fe85c40":[7,0,4436,0],
-"d4/d08/classWardenPayloadMgr.html":[7,0,4593],
-"d4/d08/classWardenPayloadMgr.html#a0a6537e719e9f8f4c371340d0d1b4db7":[7,0,4593,14]
+"d4/d07/structSpellProcTestEntry.html#ada68807ba3950313c5a7652a7fe85c40":[7,0,4436,0]
 };

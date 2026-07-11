@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ae902ea39bf893dcb4d3ec2525e26efcc":[8,0,0,0,1,3,9,6,52,9],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aec48eee46bec4e00f93dfb5abf419af9":[8,0,0,0,1,3,9,6,52,1],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2af793e48b9bd07e94f6d67f7adc544871":[8,0,0,0,1,3,9,6,52,5],
 "db/d16/spell__paladin_8cpp.html#af4d2640cce45290deb97e0b4d1ede46d":[8,0,0,0,1,3,9,6,57],
 "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75":[8,0,0,0,1,3,9,6,53],
@@ -214,10 +216,10 @@ var NAVTREEINDEX287 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,694],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,694,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,694,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "db/d22/classspell__pilgrims__bounty__feast__on__generic.html#aa75140309e66c28590a64e10676356da":[7,0,3758,0],
 "db/d23/IVMapMgr_8h.html":[8,0,0,0,0,1,0,0],
 "db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2":[8,0,0,0,0,1,0,0,6],
-"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2":[8,0,0,0,0,1,0,0,6,1],
-"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31":[8,0,0,0,0,1,0,0,6,2],
-"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38":[8,0,0,0,0,1,0,0,6,0]
+"db/d23/IVMapMgr_8h.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2":[8,0,0,0,0,1,0,0,6,1]
 };

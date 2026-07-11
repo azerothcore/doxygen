@@ -1,5 +1,7 @@
 var NAVTREEINDEX398 =
 {
+"df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[7,0,1312,0,0],
+"df/d0a/ObjectPosSelector_8h.html":[8,0,0,0,1,2,16,5,7],
 "df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[8,0,0,0,1,2,16,5,7,3],
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[8,0,0,0,1,2,16,5,7,2],
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[8,0,0,0,1,2,16,5,7,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX398 =
 "df/d14/classPet.html#aaac68db137c1dd9b03527cfd84b9b8b1":[7,0,2390,82],
 "df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb":[7,0,2390,56],
 "df/d14/classPet.html#aaccd1b242377432d3b3c79909a2d8ef4":[7,0,2390,66],
-"df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167":[7,0,2390,53],
-"df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1":[7,0,2390,59],
-"df/d14/classPet.html#ab79fec2955813a0598a4a4fc972daa69":[7,0,2390,30]
+"df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167":[7,0,2390,53]
 };

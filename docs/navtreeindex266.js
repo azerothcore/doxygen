@@ -1,5 +1,7 @@
 var NAVTREEINDEX266 =
 {
+"da/d49/classticket__commandscript.html#aac1c7b72a4cea7da0965dfceb65039fc":[7,0,4501,21],
+"da/d49/classticket__commandscript.html#acfcbea533c3306d9a2746c3ee318ddbd":[7,0,4501,17],
 "da/d49/classticket__commandscript.html#ae0686f933ff941c8ba36a727b703cdd9":[7,0,4501,8],
 "da/d49/classticket__commandscript.html#af38ad7d982f8cf16523ed62677f2c0e1":[7,0,4501,9],
 "da/d49/classticket__commandscript.html#afc1a25ed1d1a966d5afaa6dbd1070fda":[7,0,4501,19],
@@ -27,14 +29,14 @@ var NAVTREEINDEX266 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[8,0,0,0,2,2,0,10,17,2],
 "da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[7,0,0,107,2],
+"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,119,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[7,0,0,107,1],
-"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[7,0,0,107,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,0,119,0],
+"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[7,0,0,107,0],
 "da/d4b/classCastArmageddon.html":[7,0,856],
 "da/d4b/classCastArmageddon.html#a1e70887099a7a47b7c26517d4363ad93":[7,0,856,2],
 "da/d4b/classCastArmageddon.html#a2e90929b63e6151252aa01a55dbd801f":[7,0,856,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX266 =
 "da/d50/ItemEnchantmentMgr_8h.html#a376fabf7bba54eaf928217f860f1c33b":[8,0,0,0,1,2,16,4,5,2],
 "da/d50/ItemEnchantmentMgr_8h.html#a76d03c9ceb2d3ac35582eaea4624544f":[8,0,0,0,1,2,16,4,5,1],
 "da/d50/structnpc__king__varian__wrynn.html":[7,0,1935],
-"da/d50/structnpc__king__varian__wrynn.html#a37bdb5c5c286b2c34e55ef9e8e1aff77":[7,0,1935,3],
-"da/d50/structnpc__king__varian__wrynn.html#a3f461d73130945e2287c5ea46b8bdce9":[7,0,1935,2],
-"da/d50/structnpc__king__varian__wrynn.html#ab62609f2e468d1d173d9c9ea4c05d164":[7,0,1935,0]
+"da/d50/structnpc__king__varian__wrynn.html#a37bdb5c5c286b2c34e55ef9e8e1aff77":[7,0,1935,3]
 };

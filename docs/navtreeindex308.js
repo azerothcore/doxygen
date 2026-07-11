@@ -1,5 +1,7 @@
 var NAVTREEINDEX308 =
 {
+"db/dd5/classCreature.html#adc4f35223eb98a4ce674a2c4b7e5b7bf":[7,0,939,160],
+"db/dd5/classCreature.html#adccf64447a9b0e22bed1b2f3b68b9ad9":[7,0,939,272],
 "db/dd5/classCreature.html#add280de31c13efc3496f18d83468b3ff":[7,0,939,67],
 "db/dd5/classCreature.html#add32bb97aeb2ae61ed296007696e6fce":[7,0,939,77],
 "db/dd5/classCreature.html#addb5417748578aa68cb39de764c5e998":[7,0,939,74],
@@ -247,7 +249,5 @@ var NAVTREEINDEX308 =
 "db/ddb/classTaskContext.html#a7c31492372b8c1971651782a17985071":[7,0,4481,35],
 "db/ddb/classTaskContext.html#a8db1ba366d6b9fcc7a054e2d213cec55":[7,0,4481,21],
 "db/ddb/classTaskContext.html#a8e152545e08d9a73522bf03b631148a2":[7,0,4481,5],
-"db/ddb/classTaskContext.html#a95dca8900ebf6709d9c5535f39c7277f":[7,0,4481,7],
-"db/ddb/classTaskContext.html#a9f0573c5408a663c3874787eeb7d599e":[7,0,4481,34],
-"db/ddb/classTaskContext.html#aa7530c5f763cc34d0cdc83fcbaaafe37":[7,0,4481,32]
+"db/ddb/classTaskContext.html#a95dca8900ebf6709d9c5535f39c7277f":[7,0,4481,7]
 };

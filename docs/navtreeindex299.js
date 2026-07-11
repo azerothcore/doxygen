@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"db/d8e/InstanceScript_8h.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571":[8,0,0,0,1,2,23,3,22,3],
+"db/d8e/InstanceScript_8h.html#ac55e7bd9aa319ccb4e7a22a3e35c3326":[8,0,0,0,1,2,23,3,15],
 "db/d8e/InstanceScript_8h.html#add004a84abc4c98dae65145dce2d17bb":[8,0,0,0,1,2,23,3,18],
 "db/d8e/boss__gehennas_8cpp.html":[8,0,0,0,1,3,2,1,3,2],
 "db/d8e/boss__gehennas_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,3,2,2],
@@ -185,12 +187,12 @@ var NAVTREEINDEX299 =
 "db/d96/firework__show__Exodar_8h.html#a44290c427b72dfa245ba73b6fa1ea317":[8,0,0,0,1,3,3,0,3,2],
 "db/d96/firework__show__Exodar_8h.html#a5b7a7ca2308d23103ee3d053d6301e5c":[8,0,0,0,1,3,3,0,3,1],
 "db/d96/firework__show__Exodar_8h.html#a62ccee24b6a90b61a19256b66e97c1dd":[8,0,0,0,1,3,3,0,3,0],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[5,0,0,96],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[7,0,0,84],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[5,0,0,96],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[7,0,0,84,4],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[5,0,0,96,4],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[7,0,0,84,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[5,0,0,96,0],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[7,0,0,84,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[7,0,0,84,1],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[5,0,0,96,1],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[5,0,0,96,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX299 =
 "db/d99/structnpc__dream__fog_1_1npc__dream__fogAI.html#ac0606677b434b15dcbf17c9c4b2467a4":[7,0,1778,0,0],
 "db/d99/structnpc__malchezaar__axe.html":[7,0,1969],
 "db/d99/structnpc__malchezaar__axe.html#a078e7f0997c026b73a4e0ab8a1c209b8":[7,0,1969,1],
-"db/d99/structnpc__malchezaar__axe.html#a1a5615f2def10add30e7917b770ebc74":[7,0,1969,0],
-"db/d99/structnpc__malchezaar__axe.html#a202ba6922a426f87909eefbccd070175":[7,0,1969,3],
-"db/d99/structnpc__malchezaar__axe.html#a4a9f90e66359b304622d4f79653f9fd0":[7,0,1969,2]
+"db/d99/structnpc__malchezaar__axe.html#a1a5615f2def10add30e7917b770ebc74":[7,0,1969,0]
 };

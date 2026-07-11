@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html":[7,0,298,16],
+"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a0e51245e089fcd9532d5789056ab944c":[7,0,298,16,2],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a38802863e7859453cbbe58ad91018c67":[7,0,298,16,1],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a6b18a259aa84c847bcc064c5243eb590":[7,0,298,16,0],
 "dc/d76/classWorldBossAI.html":[7,0,4633],
@@ -238,8 +240,8 @@ var NAVTREEINDEX327 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[7,0,2017,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[7,0,2017,0,9],
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3]
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0]
 };

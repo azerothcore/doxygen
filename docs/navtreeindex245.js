@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/d5b/classspell__summon__ice__spear__delayer.html#aea6ca9c5d490f62ae737bfc07751da42":[7,0,4122,1],
+"d9/d5b/classspell__summon__ice__spear__delayer.html#afb5cc6129423cb4f7c3da50977da01f2":[7,0,4122,0],
 "d9/d5c/classspell__item__nitro__boots.html":[7,0,3414],
 "d9/d5c/classspell__item__nitro__boots.html#a60a374efc8b47bfdd8ffded2ff1e10d1":[7,0,3414,0],
 "d9/d5c/classspell__item__nitro__boots.html#a954ae38fd04985b9851a09b416ba59bc":[7,0,3414,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[7,0,2738,0],
 "d9/d63/classspell__charge__shield__bomber__aura.html#aa3260fa9a1a918e13ccfc9cd57f59d19":[7,0,2738,3],
 "d9/d63/classspell__destroy__door__seal__aura.html":[7,0,2769],
-"d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[7,0,2769,2],
-"d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[7,0,2769,1],
-"d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[7,0,2769,0]
+"d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[7,0,2769,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8a/structboss__sartharion__shadron.html":[7,0,700],
+"d2/d8a/structboss__sartharion__shadron.html#a1f1a235d4d5654e273ef821ebf962491":[7,0,700,1],
 "d2/d8a/structboss__sartharion__shadron.html#a3967c70698675d2c925a1a0366bf1d00":[7,0,700,3],
 "d2/d8a/structboss__sartharion__shadron.html#a8511eb55a486665a248d555337c25002":[7,0,700,2],
 "d2/d8a/structboss__sartharion__shadron.html#ab4a7991c276a12af0b54936c271bfd0b":[7,0,700,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a":[7,0,1272,6,39],
 "d2/d93/classGuild_1_1Member.html#a72b6e514edb19461b00340df621d4545":[7,0,1272,6,22],
 "d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c":[7,0,1272,6,3],
-"d2/d93/classGuild_1_1Member.html#a8efa359ba98c8df180926061d086be40":[7,0,1272,6,1],
-"d2/d93/classGuild_1_1Member.html#a92aca42547d84388d6a0815a2c9584a6":[7,0,1272,6,27],
-"d2/d93/classGuild_1_1Member.html#a9709c46216985dc71ccf766b96ee2c09":[7,0,1272,6,17]
+"d2/d93/classGuild_1_1Member.html#a8efa359ba98c8df180926061d086be40":[7,0,1272,6,1]
 };

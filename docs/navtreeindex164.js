@@ -1,5 +1,7 @@
 var NAVTREEINDEX164 =
 {
+"d5/ddf/classGridObject.html#a29740a98fea7db66cdffd824940a2ec2":[7,0,1242,2],
+"d5/ddf/classGridObject.html#a996724d21d62e478f50031faa7637cd5":[7,0,1242,1],
 "d5/ddf/classGridObject.html#aa44ba47734267ac07b733f218623f3c5":[7,0,1242,3],
 "d5/ddf/structVehicleSeatEntry.html":[7,0,4576],
 "d5/ddf/structVehicleSeatEntry.html#a011e69cd69423a991ca2d125daeae2b1":[7,0,4576,42],
@@ -247,7 +249,5 @@ var NAVTREEINDEX164 =
 "d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html":[7,0,3684],
 "d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html#a08717e9e8e974fcd7051c45fd1d26893":[7,0,3684,0],
 "d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html#abf7b2d81ee81ff27388678e9a5433eac":[7,0,3684,1],
-"d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html#ac98109fe8d9192ae97e4aa5dc10463cf":[7,0,3684,2],
-"d5/dec/structGameObjectTemplateAddon.html":[7,0,1118],
-"d5/dec/structGameObjectTemplateAddon.html#a3b1c3dd6f223bd93cda6e993a64b61d1":[7,0,1118,5]
+"d5/dec/classspell__oculus__ride__ruby__emerald__amber__drake__que__aura.html#ac98109fe8d9192ae97e4aa5dc10463cf":[7,0,3684,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a2b6e254f064c967dfc464486d15967f4":[8,0,0,0,1,3,5,9,2,5,14,10],
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a2b8edec48cdf6e3374cf2c94cfc7734d":[8,0,0,0,1,3,5,9,2,5,14,15],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b0e2ea70a80eed9f0fce8465c41d189":[8,0,0,0,1,3,5,9,2,5,14,6],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b8f601a6c2e439263cb1622f2a41f47":[8,0,0,0,1,3,5,9,2,5,14,17],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4863107801f09934a453e224f6615c76":[8,0,0,0,1,3,5,9,2,5,14,18],
@@ -142,8 +144,8 @@ var NAVTREEINDEX231 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[7,0,2519],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[7,0,2519,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[7,0,2519,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d8/da3/classCalendarMgr.html#adb8cb7fc673c32328342760b758d10af":[7,0,851,2],
 "d8/da3/classCalendarMgr.html#add110dbd7c842e2e2a972811d5cece58":[7,0,851,7],
 "d8/da3/classCalendarMgr.html#ade6215768a0079dbeb6982c58a851931":[7,0,851,13],
-"d8/da3/classCalendarMgr.html#adf4f7e50b71197ee679bb16defecd119":[7,0,851,34],
-"d8/da3/classCalendarMgr.html#ae35dd19d179c427a77b87cbf5c4827d3":[7,0,851,4],
-"d8/da3/classCalendarMgr.html#af4b378a6789efa5fa40970185ce0b91d":[7,0,851,1]
+"d8/da3/classCalendarMgr.html#adf4f7e50b71197ee679bb16defecd119":[7,0,851,34]
 };

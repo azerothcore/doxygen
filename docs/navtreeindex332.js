@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dc/db8/structboss__mother__shahraz.html#a021c702e7eff266308fee8a4220a6ec7":[7,0,643,2],
+"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[7,0,643,3],
 "dc/db8/structboss__mother__shahraz.html#a821d91439c60a60ffcff07b6bdbbc070":[7,0,643,5],
 "dc/db8/structboss__mother__shahraz.html#ab69d81acde4e6e2a3f6adb032090b958":[7,0,643,1],
 "dc/db8/structboss__mother__shahraz.html#ab9e4162ac92e786b84b6497c37251386":[7,0,643,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dc9/structProcTestResult.html#a60219087858953e3ea124b1b784516b2":[7,0,2460,1],
 "dc/dc9/structProcTestResult.html#ae0feb161d225551bba25d466541cde84":[7,0,2460,2],
 "dc/dca/classspell__item__recall.html":[7,0,3430],
-"dc/dca/classspell__item__recall.html#a59641895cead08de4a4503262505ee73":[7,0,3430,2],
-"dc/dca/classspell__item__recall.html#a6bc9791d0f08440e19b89daa9b65892c":[7,0,3430,1],
-"dc/dca/classspell__item__recall.html#a738e105a48f6c603f3d9a690f44b8745":[7,0,3430,0]
+"dc/dca/classspell__item__recall.html#a59641895cead08de4a4503262505ee73":[7,0,3430,2]
 };

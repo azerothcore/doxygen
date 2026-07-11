@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"d6/d38/classAchievementGlobalMgr.html#a4bb815985daebe61703846c095f48adb":[7,0,121,0],
+"d6/d38/classAchievementGlobalMgr.html#a4ee4ce63632cc67d7d87d44c6ab4cfef":[7,0,121,1],
 "d6/d38/classAchievementGlobalMgr.html#a5057e0b9b55f64716949c2b3e443a705":[7,0,121,35],
 "d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[7,0,121,16],
 "d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[7,0,121,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d39/classspell__karathress__power__of__caribdis.html#ac9231c238adf7e733d55bc6098daddc0":[7,0,3501,1],
 "d6/d3a/cs__bag_8cpp.html":[8,0,0,0,1,3,0,4],
 "d6/d3a/cs__bag_8cpp.html#a8fa1e803122341d611168b2b62fde4e5":[8,0,0,0,1,3,0,4,1],
-"d6/d3a/cs__bag_8cpp.html#af266597924b9d3f439ffc9908001d2cb":[8,0,0,0,1,3,0,4,2],
-"d6/d3a/structBaseTable.html":[7,0,321],
-"d6/d3a/structBaseTable.html#a0f308af88812c110c490c94368bda482":[7,0,321,3]
+"d6/d3a/cs__bag_8cpp.html#af266597924b9d3f439ffc9908001d2cb":[8,0,0,0,1,3,0,4,2]
 };

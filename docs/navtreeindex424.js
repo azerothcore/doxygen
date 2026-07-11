@@ -1,5 +1,7 @@
 var NAVTREEINDEX424 =
 {
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[7,0,1690,3],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[7,0,1690,5],
 "df/dfa/structnpc__hover__disk.html":[7,0,1877],
 "df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[7,0,1877,7],
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[7,0,1877,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX424 =
 "dir_d4871a286f89f7ca564743d0cdf0b956.html":[8,0,0,0,1,2,11,0],
 "dir_d5546cd048ce0388ac9df91d37210e56.html":[8,0,0,0,1,0,1,0],
 "dir_d5b937f8e04412da4f4df9b7d3f28ed0.html":[8,0,0,0,3,2],
-"dir_d68c8764f6b69d1180b66c35742ddf05.html":[8,0,0,0,2,2,0,1],
-"dir_d80fbdfc32bca936ccce0e66a1573f7f.html":[8,0,0,0,0,1,0],
-"dir_d8666fd2ba86beec6989660fbdf6542b.html":[8,0,0,0,0,11]
+"dir_d68c8764f6b69d1180b66c35742ddf05.html":[8,0,0,0,2,2,0,1]
 };

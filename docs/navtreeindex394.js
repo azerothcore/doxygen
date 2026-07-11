@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[7,0,0,1,3,6],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,0,2,3,6],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[7,0,0,1,3,4],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,0,2,3,4],
 "de/dcb/classspell__gen__bonked.html":[7,0,2997],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "de/ddf/classgo__flames.html#a75d49202eaf2078b8276e59944d1ec89":[7,0,1174,1],
 "de/ddf/classgo__flames.html#aea11412e7d17b744b4e70ec754a1e6cc":[7,0,1174,2],
 "de/de0/classspell__gen__steal__weapon.html":[7,0,3108],
-"de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[7,0,3108,4],
-"de/de0/classspell__gen__steal__weapon.html#a700513c27a2ae22581bbc61c8c4b523a":[7,0,3108,1],
-"de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[7,0,3108,3]
+"de/de0/classspell__gen__steal__weapon.html#a09017d12ecf0ae0c3091cea17640782c":[7,0,3108,4]
 };

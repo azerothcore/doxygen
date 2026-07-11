@@ -1,5 +1,7 @@
 var NAVTREEINDEX374 =
 {
+"de/d11/classnpc__released__offspring__harkoa.html#ae3d2a02c496be1b2606fce596625d12e":[7,0,2098,2],
+"de/d12/VMapTools_8h.html":[8,0,0,0,0,1,10],
 "de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[8,0,0,0,0,1,10,2],
 "de/d12/classAllCreatureScript.html":[7,0,154],
 "de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490":[7,0,154,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX374 =
 "de/d1c/classGameObject.html#a711ba7caffb564c6d26e3460f80047cb":[7,0,1102,43],
 "de/d1c/classGameObject.html#a74af72f3c57d69a83f02a79a51c55738":[7,0,1102,104],
 "de/d1c/classGameObject.html#a756946069cc2ef24f19b485b9f452d4e":[7,0,1102,51],
-"de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef":[7,0,1102,136],
-"de/d1c/classGameObject.html#a7691d0fdf595388b651f75c7831eabe8":[7,0,1102,137],
-"de/d1c/classGameObject.html#a76daef3375bb20aea2bdf4f7a5c50c86":[7,0,1102,81]
+"de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef":[7,0,1102,136]
 };

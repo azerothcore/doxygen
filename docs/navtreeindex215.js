@@ -1,5 +1,7 @@
 var NAVTREEINDEX215 =
 {
+"d7/dcd/classspell__warr__glyph__of__sunder__armor.html#a767c3c52e917b56dbf2368b5dbbf1610":[7,0,4310,1],
+"d7/dcd/classspell__warr__glyph__of__sunder__armor.html#af60592a9f1e595f31814eae405d03d5a":[7,0,4310,2],
 "d7/dcd/namespaceAcore_1_1Crypto.html":[5,0,0,4],
 "d7/dcd/namespaceAcore_1_1Crypto.html#a0057c59e47839100792e392e2d73783a":[5,0,0,4,13],
 "d7/dcd/namespaceAcore_1_1Crypto.html#a0e8f523857a8cf977c3aa63b40112a4d":[5,0,0,4,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX215 =
 "d7/de1/classboss__moorabi.html#ae90c7dd46fb1335a525c3c3e27040420":[7,0,638,2],
 "d7/de1/classgo__soulwell.html":[7,0,1205],
 "d7/de1/classgo__soulwell.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861":[7,0,1205,2],
-"d7/de1/classgo__soulwell.html#a3747499bd05326ef6f7024c0ee91a4ce":[7,0,1205,1],
-"d7/de2/classspell__ahn__kahet__swarmer__aura.html":[7,0,2608],
-"d7/de2/classspell__ahn__kahet__swarmer__aura.html#a04ed0daa21e66b842b8443b5e102ec1d":[7,0,2608,1]
+"d7/de1/classgo__soulwell.html#a3747499bd05326ef6f7024c0ee91a4ce":[7,0,1205,1]
 };

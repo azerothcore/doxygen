@@ -1,5 +1,7 @@
 var NAVTREEINDEX45 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97af6cc8daa86fd301a88bae2bf218bbaed":[8,0,0,0,1,2,3,2,5,17,85],
+"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97af6e746051cfb6ef83608b48f10735fb5":[8,0,0,0,1,2,3,2,5,17,12],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afa788403bfc2c38aa46dffe4439c0749":[8,0,0,0,1,2,3,2,5,17,13],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afb185d88c74764fb71c4cbf59b5597ee":[8,0,0,0,1,2,3,2,5,17,33],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afb76c601776c584243adf929e6008619":[8,0,0,0,1,2,3,2,5,17,23],
@@ -200,8 +202,8 @@ var NAVTREEINDEX45 =
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[5,0,34,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[7,0,13,8,3,2],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[5,0,34,8,3,2],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[5,0,34,8,3,1],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[7,0,13,8,3,1],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[5,0,34,8,3,1],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html":[7,0,3761],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html#a642f2d3992e7e3a4393d2b0c6b521597":[7,0,3761,2],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html#a68a6e9b307500a56e66bc19c41daf9dc":[7,0,3761,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX45 =
 "d1/dcd/classspell__mage__brain__freeze.html#af38c2b1c556a1fcdb1157468cd02811e":[7,0,3562,0],
 "d1/dcd/classspell__mage__brain__freeze.html#af4d514906f66af1b2f2392bcfc5e8b9c":[7,0,3562,2],
 "d1/dcd/structinstance__ragefire__chasm_1_1instance__ragefire__chasm__InstanceMapScript.html":[7,0,1350,0],
-"d1/dcd/structinstance__ragefire__chasm_1_1instance__ragefire__chasm__InstanceMapScript.html#a4b55a59943c798b203a0a3c811588e7d":[7,0,1350,0,0],
-"d1/dce/classnpc__crusade__recruit.html":[7,0,1740],
-"d1/dce/classnpc__crusade__recruit.html#a412f0d153676758fda8c1f7f1e9dda44":[7,0,1740,2]
+"d1/dcd/structinstance__ragefire__chasm_1_1instance__ragefire__chasm__InstanceMapScript.html#a4b55a59943c798b203a0a3c811588e7d":[7,0,1350,0,0]
 };

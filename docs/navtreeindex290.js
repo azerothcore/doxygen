@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/d4b/classspell__q12943__shadow__vault__decree.html#acef8bf4c93226e1b4c95f8b8cdd80f40":[7,0,3916,0],
+"db/d4b/classspell__q12943__shadow__vault__decree.html#aef93e3c5a60633f69871bbd49d40caf5":[7,0,3916,2],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html":[7,0,1381,0],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0333b4728e9288937711174743f19f60":[7,0,1381,0,5],
 "db/d4b/structinstance__wailing__caverns_1_1instance__wailing__caverns__InstanceMapScript.html#a0f049806007e59363418d4e39f9e389b":[7,0,1381,0,7],
@@ -157,8 +159,8 @@ var NAVTREEINDEX290 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3175],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/d55/structBattlegroundICScore.html#af6c42bbd1b8f3f94fe838ce5df610a80":[7,0,343,2],
 "db/d55/structboss__majordomo.html":[7,0,623],
 "db/d55/structboss__majordomo.html#a006d83ce92496a7210265498ffede766":[7,0,623,17],
-"db/d55/structboss__majordomo.html#a0994b92fd764dabfd46a041f40f91430":[7,0,623,6],
-"db/d55/structboss__majordomo.html#a1cc0689c21ddbf6eff6bd77d67f375fa":[7,0,623,7],
-"db/d55/structboss__majordomo.html#a36acd2797a6284d8169c325ee91ef9e4":[7,0,623,1]
+"db/d55/structboss__majordomo.html#a0994b92fd764dabfd46a041f40f91430":[7,0,623,6]
 };

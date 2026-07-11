@@ -1,5 +1,7 @@
 var NAVTREEINDEX357 =
 {
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[7,0,1612,6],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[7,0,1612,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a8144ed8ada8cd4fb11d74393ed0c525a":[7,0,1612,2],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a98216e43888854ac93f22169a0e253e5":[7,0,1612,7],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#ad13b21d571833210b1c069b7ea8bea05":[7,0,1612,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX357 =
 "dd/de9/classGameObjectScript.html#a9d9cf73435a16d7fef450134c03980bb":[7,0,1114,0],
 "dd/de9/classGameObjectScript.html#ab93c178f2137e92da28665d28bfec1d5":[7,0,1114,10],
 "dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[7,0,1114,2],
-"dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[7,0,1114,9],
-"dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[7,0,1114,12],
-"dd/dea/classspell__gen__holiday__buff__food.html":[7,0,3049]
+"dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[7,0,1114,9]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX305 =
 {
+"db/dca/classMapScript.html#aa2da3eeec627cb67719d774d35f03488":[7,0,1519,2],
+"db/dca/classMapScript.html#abf3fbb90119e1ac5d13455217ac95a2f":[7,0,1519,1],
 "db/dca/classspell__hun__glyph__of__mend__pet.html":[7,0,3217],
 "db/dca/classspell__hun__glyph__of__mend__pet.html#a56c8ada8651cfd024cc7514417b986d6":[7,0,3217,1],
 "db/dca/classspell__hun__glyph__of__mend__pet.html#a818ed2117c52a53939df5bf4d035854f":[7,0,3217,2],
@@ -18,16 +20,16 @@ var NAVTREEINDEX305 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[5,0,20,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[7,0,6,0,0,4],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[7,0,6,0,0,5],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[5,0,20,0,0,5],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[7,0,6,0,0,2],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[7,0,6,0,0,5],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[5,0,20,0,0,2],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[7,0,6,0,0,6],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[7,0,6,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,20,0,0,6],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[7,0,6,0,0,3],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[7,0,6,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[5,0,20,0,0,3],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[7,0,6,0,0,1],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[7,0,6,0,0,3],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[7,0,6,0,0,1],
 "db/dca/structboss__felmyst.html":[7,0,481],
 "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be":[7,0,481,4],
 "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356":[7,0,481,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX305 =
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6":[8,0,0,0,1,3,5,6,12,89],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,6,12,89,1],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a4e099987cb2efa91f8834dabdf704cc4":[8,0,0,0,1,3,5,6,12,89,2],
-"db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,5,6,12,89,0],
-"db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96":[8,0,0,0,1,3,5,6,12,89,3],
-"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617":[8,0,0,0,1,3,5,6,12,85]
+"db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,5,6,12,89,0]
 };

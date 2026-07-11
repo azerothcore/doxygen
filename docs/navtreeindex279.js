@@ -1,5 +1,7 @@
 var NAVTREEINDEX279 =
 {
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa15b6dc080176095e3268c1dc500ef809":[8,0,0,0,1,2,16,7,5,100,3],
+"da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa1b522aed12afec5f683edf72963e9a33":[8,0,0,0,1,2,16,7,5,100,4],
 "da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa1fd368f8ce7dad72d75fd6840bdb058b":[8,0,0,0,1,2,16,7,5,100,10],
 "da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa39712e341d5a043a281b504c7e2262b9":[8,0,0,0,1,2,16,7,5,100,11],
 "da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa3f92c4537375758b0b7c28c2843f352c":[8,0,0,0,1,2,16,7,5,100,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX279 =
 "da/dc3/classADT__file.html#ac9f498cb9c8e21a1947be87904e3760b":[7,0,136,3],
 "da/dc4/classspell__koralon__meteor__fists__aura.html":[7,0,3527],
 "da/dc4/classspell__koralon__meteor__fists__aura.html#a2b5894cd889205f19ac2c6ea5a535a82":[7,0,3527,0],
-"da/dc4/classspell__koralon__meteor__fists__aura.html#a2b7c45343d17839d85bf64ed36afd45c":[7,0,3527,3],
-"da/dc4/classspell__koralon__meteor__fists__aura.html#a2df5a013ba1b3c5b57d628fd59a9073a":[7,0,3527,2],
-"da/dc4/classspell__koralon__meteor__fists__aura.html#a95b0bcb7f3027cb63711c74befbd74ea":[7,0,3527,1]
+"da/dc4/classspell__koralon__meteor__fists__aura.html#a2b7c45343d17839d85bf64ed36afd45c":[7,0,3527,3]
 };

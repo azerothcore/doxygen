@@ -1,5 +1,7 @@
 var NAVTREEINDEX351 =
 {
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[7,0,3187,1],
+"dd/da9/classspell__threatening__gaze__aura.html":[7,0,4199],
 "dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[7,0,4199,1],
 "dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[7,0,4199,0],
 "dd/da9/classspell__threatening__gaze__aura.html#ad2ae9bfa13c625608af9042584a9bfb8":[7,0,4199,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dad/PetitionMgr_8h.html":[8,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[8,0,0,0,1,2,33,1,5],
 "dd/dad/PetitionMgr_8h.html#a2910b9c8b8c58925b562acf66b3e46d2":[8,0,0,0,1,2,33,1,4],
-"dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[8,0,0,0,1,2,33,1,3],
-"dd/dad/PetitionMgr_8h.html#a52c6b38c9d018efa6f8a95153a0eb2b5":[8,0,0,0,1,2,33,1,7],
-"dd/dad/PetitionMgr_8h.html#a541d3cf929662ff3a4ab97f63d54b16f":[8,0,0,0,1,2,33,1,6]
+"dd/dad/PetitionMgr_8h.html#a33856c1d078b61fa0516a63176297c49":[8,0,0,0,1,2,33,1,3]
 };
