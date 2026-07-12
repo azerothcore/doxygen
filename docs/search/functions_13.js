@@ -547,7 +547,7 @@ var searchData=
   ['sendtoall_544',['SendToAll',['../d2/d48/classChannel.html#a7d21489df3b203bd8de8d02f12f7e4fd',1,'Channel']]],
   ['sendtoallbutone_545',['SendToAllButOne',['../d2/d48/classChannel.html#a113836e91cd4c2e8f121c1b79af69602',1,'Channel']]],
   ['sendtoallwatching_546',['SendToAllWatching',['../d2/d48/classChannel.html#a0c942cfade4b4cce4f98774b4241cf4e',1,'Channel']]],
-  ['sendtobattleground_547',['SendToBattleground',['../d1/d1a/classBattlegroundMgr.html#aa433b3cee8c7f7312deeccfdcde4d20d',1,'BattlegroundMgr']]],
+  ['sendtobattleground_547',['SendToBattleground',['../d1/d1a/classBattlegroundMgr.html#a3eb3065e3760de24e4352f735d79888c',1,'BattlegroundMgr']]],
   ['sendtoone_548',['SendToOne',['../d2/d48/classChannel.html#a2373d8a5e6dbd3287b7e224bde423fe2',1,'Channel']]],
   ['sendtoplayers_549',['SendToPlayers',['../d7/db0/classMap.html#a89aaf29da90e9e1c4cc142e59ef0a358',1,'Map']]],
   ['sendtoself_550',['SendToSelf',['../d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482',1,'Acore::VisibleNotifier']]],

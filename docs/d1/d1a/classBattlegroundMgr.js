@@ -47,7 +47,7 @@ var classBattlegroundMgr =
     [ "RemoveFromBGFreeSlotQueue", "d1/d1a/classBattlegroundMgr.html#a7c0fbb3bf811a9e9c7d20315fd6da963", null ],
     [ "ScheduleQueueUpdate", "d1/d1a/classBattlegroundMgr.html#a949d69b99a2e520468819600c2e472ee", null ],
     [ "SendAreaSpiritHealerQueryOpcode", "d1/d1a/classBattlegroundMgr.html#ad43f54b2e4d2a71995268778a8831f57", null ],
-    [ "SendToBattleground", "d1/d1a/classBattlegroundMgr.html#aa433b3cee8c7f7312deeccfdcde4d20d", null ],
+    [ "SendToBattleground", "d1/d1a/classBattlegroundMgr.html#a3eb3065e3760de24e4352f735d79888c", null ],
     [ "SetHolidayWeekends", "d1/d1a/classBattlegroundMgr.html#aacd0817642ac466c7595ec56c813a8fd", null ],
     [ "ToggleArenaTesting", "d1/d1a/classBattlegroundMgr.html#a7b3e1509d8fa26ae35088466bf6273c8", null ],
     [ "ToggleTesting", "d1/d1a/classBattlegroundMgr.html#abafc78d0f8ff7776572ac9a0d966765c", null ],
