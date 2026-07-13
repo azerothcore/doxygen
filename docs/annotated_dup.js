@@ -1699,7 +1699,6 @@ var annotated_dup =
     [ "go_ancient_skull_pile", "de/d4c/classgo__ancient__skull__pile.html", "de/d4c/classgo__ancient__skull__pile" ],
     [ "go_apexis_relic", "d1/dc9/classgo__apexis__relic.html", "d1/dc9/classgo__apexis__relic" ],
     [ "go_arcane_prison", "d7/d04/classgo__arcane__prison.html", "d7/d04/classgo__arcane__prison" ],
-    [ "go_arena_ready_marker", "d4/d66/classgo__arena__ready__marker.html", "d4/d66/classgo__arena__ready__marker" ],
     [ "go_bashir_crystalforge", "de/db8/classgo__bashir__crystalforge.html", "de/db8/classgo__bashir__crystalforge" ],
     [ "go_beacon", "d3/d45/classgo__beacon.html", "d3/d45/classgo__beacon" ],
     [ "go_bear_trap", "d3/d6e/classgo__bear__trap.html", "d3/d6e/classgo__bear__trap" ],

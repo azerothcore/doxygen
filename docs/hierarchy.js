@@ -4339,7 +4339,6 @@ var hierarchy =
         [ "go_ancient_skull_pile", "de/d4c/classgo__ancient__skull__pile.html", null ],
         [ "go_apexis_relic", "d1/dc9/classgo__apexis__relic.html", null ],
         [ "go_arcane_prison", "d7/d04/classgo__arcane__prison.html", null ],
-        [ "go_arena_ready_marker", "d4/d66/classgo__arena__ready__marker.html", null ],
         [ "go_bashir_crystalforge", "de/db8/classgo__bashir__crystalforge.html", null ],
         [ "go_beacon", "d3/d45/classgo__beacon.html", null ],
         [ "go_bear_trap", "d3/d6e/classgo__bear__trap.html", null ],

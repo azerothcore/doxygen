@@ -3,7 +3,6 @@ var Battleground_8h =
     [ "BattlegroundObjectInfo", "d9/d17/structBattlegroundObjectInfo.html", "d9/d17/structBattlegroundObjectInfo" ],
     [ "ArenaLogEntryData", "d1/d9a/classArenaLogEntryData.html", "d1/d9a/classArenaLogEntryData" ],
     [ "Battleground", "df/da7/classBattleground.html", "df/da7/classBattleground" ],
-    [ "ARENA_READY_MARKER_ENTRY", "d3/dcf/Battleground_8h.html#a6a7fd9b1828af2ddf38c218262c12c4e", null ],
     [ "ARENA_TIMELIMIT_POINTS_LOSS", "d3/dcf/Battleground_8h.html#ac5cce663c0f08dc6af7fb2d1ddf35e30", null ],
     [ "BATTLEGROUND_UPDATE_INTERVAL", "d3/dcf/Battleground_8h.html#a0d902c83a67b6fe19e8257bb23cef6bc", null ],
     [ "BERSERKING_BUFF_RESPAWN_TIME", "d3/dcf/Battleground_8h.html#ab01c53aafb7c5dd0eab9a4ba908cda4c", null ],

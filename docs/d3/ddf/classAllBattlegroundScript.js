@@ -15,6 +15,7 @@ var classAllBattlegroundScript =
     [ "OnBattlegroundEnd", "d3/ddf/classAllBattlegroundScript.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
     [ "OnBattlegroundEndReward", "d3/ddf/classAllBattlegroundScript.html#a91225952a9567a2408ea8b1f52660599", null ],
     [ "OnBattlegroundRemovePlayerAtLeave", "d3/ddf/classAllBattlegroundScript.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
+    [ "OnBattlegroundSetup", "d3/ddf/classAllBattlegroundScript.html#ab17a48ac48f6e6aac4a365b4e7673bc3", null ],
     [ "OnBattlegroundStart", "d3/ddf/classAllBattlegroundScript.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
     [ "OnBattlegroundUpdate", "d3/ddf/classAllBattlegroundScript.html#a4a5c88793e3147af07482f5081106173", null ],
     [ "OnBeforeSendExitMessageArenaQueue", "d3/ddf/classAllBattlegroundScript.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],

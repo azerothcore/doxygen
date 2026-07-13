@@ -1,7 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[7,0,4438,2],
-"d0/d89/boss__thorim_8cpp.html":[8,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[8,0,0,0,1,3,5,9,2,11,19],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18":[8,0,0,0,1,3,5,9,2,11,19,10],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a05f234a4472cbfef36598455ef538803":[8,0,0,0,1,3,5,9,2,11,19,4],
@@ -180,12 +178,12 @@ var NAVTREEINDEX12 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af39adcb38f10e84d7ff9bac76f41031c":[8,0,0,0,1,3,5,9,2,11,20,29],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445afac75551d89cf02f03b570d29ed0112a":[8,0,0,0,1,3,5,9,2,11,20,47],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445aff76c6cd555921be6b77505f82d6e85f":[8,0,0,0,1,3,5,9,2,11,20,10],
-"d0/d89/structnpc__algalon__worm__hole.html":[7,0,1613],
-"d0/d89/structnpc__algalon__worm__hole.html#a033382dbd57714e815eed8ef6e4adfaf":[7,0,1613,4],
-"d0/d89/structnpc__algalon__worm__hole.html#a077425b35d86c007daa93fc8b1fd9717":[7,0,1613,1],
-"d0/d89/structnpc__algalon__worm__hole.html#a16f644be53169adc67fc971bdeaa7263":[7,0,1613,3],
-"d0/d89/structnpc__algalon__worm__hole.html#a363814abdee714faddfd966b11a4fddc":[7,0,1613,2],
-"d0/d89/structnpc__algalon__worm__hole.html#a546bd0ede2586fcbe3812698b68528d4":[7,0,1613,0],
+"d0/d89/structnpc__algalon__worm__hole.html":[7,0,1612],
+"d0/d89/structnpc__algalon__worm__hole.html#a033382dbd57714e815eed8ef6e4adfaf":[7,0,1612,4],
+"d0/d89/structnpc__algalon__worm__hole.html#a077425b35d86c007daa93fc8b1fd9717":[7,0,1612,1],
+"d0/d89/structnpc__algalon__worm__hole.html#a16f644be53169adc67fc971bdeaa7263":[7,0,1612,3],
+"d0/d89/structnpc__algalon__worm__hole.html#a363814abdee714faddfd966b11a4fddc":[7,0,1612,2],
+"d0/d89/structnpc__algalon__worm__hole.html#a546bd0ede2586fcbe3812698b68528d4":[7,0,1612,0],
 "d0/d8a/ScriptMgr_8h.html":[8,0,0,0,1,2,38,3],
 "d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087":[8,0,0,0,1,2,38,3,2],
 "d0/d8b/structboss__moragg.html":[7,0,640],
@@ -249,5 +247,7 @@ var NAVTREEINDEX12 =
 "d0/d8c/classEnumUtils.html#a48ef8a32325aaec99a40773c3453493a":[7,0,1047,35],
 "d0/d8c/classEnumUtils.html#a49acd4658f9bb3452b8f79af2acd0a6d":[7,0,1047,16],
 "d0/d8c/classEnumUtils.html#a4ad1877db4a83e23ebd8ba3a6e127b48":[7,0,1047,129],
-"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[7,0,1047,81]
+"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[7,0,1047,81],
+"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[7,0,1047,93],
+"d0/d8c/classEnumUtils.html#a530800a1db54a25fc05968066ca6bc00":[7,0,1047,76]
 };
