@@ -1,5 +1,9 @@
 var NAVTREEINDEX415 =
 {
+"df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[7,0,839,1],
+"df/dbe/structBuildValuesCachedBuffer.html#affa098684782f15383a7df063b178cf1":[7,0,839,2],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html":[7,0,1966,0],
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1966,0,6],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665":[7,0,1966,0,7],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18":[7,0,1966,0,4],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[7,0,1966,0,5],
@@ -111,10 +115,10 @@ var NAVTREEINDEX415 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[7,0,2336,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[7,0,819],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,819,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[7,0,819,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX415 =
 "df/dd3/classEmblemInfo.html#abd73ea3db00fa900d7b3a8eeffa8b1bf":[7,0,1036,7],
 "df/dd3/classEmblemInfo.html#ac5ea55d7fd129524630dd0d486b457a7":[7,0,1036,2],
 "df/dd3/classEmblemInfo.html#ace48f189e9a1ae685dfbe97f35f49ec5":[7,0,1036,12],
-"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[7,0,1036,8],
-"df/dd3/classachievement__shadowdodger.html":[7,0,95],
-"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[7,0,95,1],
-"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[7,0,95,0],
-"df/dd3/classspell__pal__heart__of__the__crusader.html":[7,0,3719]
+"df/dd3/classEmblemInfo.html#aea1326261d893ef3beff026402bf8272":[7,0,1036,8]
 };

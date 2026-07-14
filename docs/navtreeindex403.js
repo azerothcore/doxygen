@@ -1,8 +1,8 @@
 var NAVTREEINDEX403 =
 {
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,34,6,40,4],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[7,0,13,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,34,6,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html":[7,0,2451,1],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a10e8ad619c9766fdf49cd29662c3d9e0":[7,0,2451,1,0],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a5df33ebca29ea3ce1088307c138a28e4":[7,0,2451,1,1],

@@ -12,6 +12,11 @@ var boss__freya_8cpp =
     [ "achievement_freya_getting_back_to_nature", "dc/d13/classachievement__freya__getting__back__to__nature.html", "dc/d13/classachievement__freya__getting__back__to__nature" ],
     [ "achievement_freya_knock_on_wood", "d3/dec/classachievement__freya__knock__on__wood.html", "d3/dec/classachievement__freya__knock__on__wood" ],
     [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", "db/d9a/classspell__freya__unstable__sun__beam" ],
+    [ "AlliesGroup", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53", [
+      [ "GROUP_TRIO", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53a2be85ff32dc0a2941d3152f401166f20", null ],
+      [ "GROUP_CONSERVATOR", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53afa96e5743e66c67a42bf55884e1902d3", null ],
+      [ "GROUP_LASHERS", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53acbf83b29f91b7ea2f1ff146c929d9ee4", null ]
+    ] ],
     [ "FreyaEvents", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289", [
       [ "EVENT_FREYA_ADDS_SPAM", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89", null ],
       [ "EVENT_FREYA_LIFEBINDER", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612", null ],

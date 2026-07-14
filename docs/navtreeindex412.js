@@ -1,5 +1,9 @@
 var NAVTREEINDEX412 =
 {
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5631ca8fd7c0d4a10621bb17edae1bfa":[8,0,0,0,1,3,5,2,0,1,8,6],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8348663aabf137582a17671bf5d5ff72":[8,0,0,0,1,3,5,2,0,1,8,4],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada198cbd93456614fce65c07c7c92749":[8,0,0,0,1,3,5,2,0,1,8,3],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1f1281de86c6dad8f1f97b71b3c70c1":[8,0,0,0,1,3,5,2,0,1,8,1],
 "df/da1/classboss__baltharus__the__warborn.html":[7,0,409],
 "df/da1/classboss__baltharus__the__warborn.html#aababb8862273d60f140dce675131783d":[7,0,409,1],
 "df/da1/classboss__baltharus__the__warborn.html#afe7ecf8635c8c0a051047a801c2a8d54":[7,0,409,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX412 =
 "df/da7/classBattleground.html#a68495754396917b8f2f1e89bd952bf9d":[7,0,329,7],
 "df/da7/classBattleground.html#a68801719078831805d8b40aa39138c5f":[7,0,329,230],
 "df/da7/classBattleground.html#a6b074774a7a466b05605f273bc222b71":[7,0,329,62],
-"df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[7,0,329,229],
-"df/da7/classBattleground.html#a6db7b367ed489939b824aa764670ae43":[7,0,329,172],
-"df/da7/classBattleground.html#a6e94cab0f83e750a3dc055601d98983b":[7,0,329,207],
-"df/da7/classBattleground.html#a6edc5a1f00d1196ceac9fdd755ccbaf6":[7,0,329,231],
-"df/da7/classBattleground.html#a6f861fa621a33725ad81bf5e5fa15cae":[7,0,329,156]
+"df/da7/classBattleground.html#a6d12511946fee02ff6f176cf2104cb0f":[7,0,329,229]
 };

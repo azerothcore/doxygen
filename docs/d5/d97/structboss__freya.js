@@ -19,7 +19,7 @@ var structboss__freya =
     [ "_elderGUID", "d5/d97/structboss__freya.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
     [ "_lumberjacked", "d5/d97/structboss__freya.html#aa35101951b2d47848b69170ab36ae414", null ],
     [ "_respawningTrio", "d5/d97/structboss__freya.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_setPermutation", "d5/d97/structboss__freya.html#a987265a1775e47ac50e873c38cc1a753", null ],
     [ "_spawnedAmount", "d5/d97/structboss__freya.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "d5/d97/structboss__freya.html#ae141a7cf3554c606738774fe96a371dc", null ],
-    [ "_waveNumber", "d5/d97/structboss__freya.html#af4e2576558c3c15303245f76c6e30aa0", null ]
+    [ "_trioKilled", "d5/d97/structboss__freya.html#ae141a7cf3554c606738774fe96a371dc", null ]
 ];
