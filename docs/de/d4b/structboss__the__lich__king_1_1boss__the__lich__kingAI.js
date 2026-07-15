@@ -20,7 +20,6 @@ var structboss__the__lich__king_1_1boss__the__lich__kingAI =
     [ "_bFordringMustFallYell", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a0e932a7e98d4e5d5fce8c35926acc185", null ],
     [ "_bFrostmournePhase", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af867d86aa20366bfbbfaf8083fe35271", null ],
     [ "_lastTalkTimeBuff", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3", null ],
-    [ "_lastTalkTimeKill", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a9b94bb5efd74560dd8d653e0abfdbcf0", null ],
     [ "_necroticPlagueStack", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ad8a8a978402cc32046b67a42621d8d42", null ],
     [ "_phase", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae069cec361b187a657a707d6613f32b7", null ],
     [ "_positionCheckTimer", "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a94896994f59ab4c38479a5c97742128a", null ],

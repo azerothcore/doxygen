@@ -6,6 +6,7 @@ var WorldDatabase_8h =
       [ "WORLD_DEL_CRELINKED_RESPAWN", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aeadd642135eb3d6d44554c8536ce54b2", null ],
       [ "WORLD_REP_CREATURE_LINKED_RESPAWN", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a71b92ea3448c7f39b67265a96cf3c324", null ],
       [ "WORLD_SEL_CREATURE_TEXT", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ac50590e591cfa8652067dd7c423826df", null ],
+      [ "WORLD_SEL_CREATURE_TEXT_OPTIONS", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ae8b911e37d675ba60b15222ac28b67c8", null ],
       [ "WORLD_SEL_SMART_SCRIPTS", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a93b3b93b6af7243668b52704ceebb1e4", null ],
       [ "WORLD_SEL_SMARTAI_WP", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a5cd1c18f111a4310ec52bdf2734eccc3", null ],
       [ "WORLD_DEL_GAMEOBJECT", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a8a143d39cf5a429ed9a8cb28f8fd1e69", null ],

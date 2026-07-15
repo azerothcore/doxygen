@@ -5,7 +5,6 @@ var boss__warlord__najentus_8cpp =
     [ "spell_najentus_hurl_spine", "d8/dbc/classspell__najentus__hurl__spine.html", "d8/dbc/classspell__najentus__hurl__spine" ],
     [ "spell_najentus_remove_spines", "d9/df2/classspell__najentus__remove__spines.html", "d9/df2/classspell__najentus__remove__spines" ],
     [ "Events", "df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_TALK_CHECK", "df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf4812a290a2b4e9a539717678d237aa", null ],
       [ "EVENT_ENRAGE", "df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b", null ]
     ] ],
     [ "Misc", "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [

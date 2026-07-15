@@ -30,8 +30,7 @@ var boss__illidari__council_8cpp =
       [ "EVENT_SPELL_EMPOWERED_SMITE", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00a5e86dfd54042095ae399ede16854f", null ],
       [ "EVENT_SPELL_VANISH", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7579a786be0f0bdf977b6c34bdbb45d0", null ],
       [ "EVENT_SPELL_VANISH_OUT", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b1ef34aaf87bdac7604a05c5d35fcd5", null ],
-      [ "EVENT_SPELL_ENRAGE", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0aee038b593545fefa453e38f0b499bb", null ],
-      [ "EVENT_KILL_TALK", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_SPELL_ENRAGE", "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0aee038b593545fefa453e38f0b499bb", null ]
     ] ],
     [ "Says", "dd/d07/boss__illidari__council_8cpp.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_COUNCIL_AGGRO", "dd/d07/boss__illidari__council_8cpp.html#a16774215bba3b38580ea51987d64cff1a7b48034680c4840f522bbfce2bf23282", null ],

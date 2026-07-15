@@ -7,6 +7,5 @@ var structboss__gurtogg__bloodboil =
     [ "JustEngagedWith", "dd/dce/structboss__gurtogg__bloodboil.html#a0847173efbae252c2fbbaf1be17097cb", null ],
     [ "JustSummoned", "dd/dce/structboss__gurtogg__bloodboil.html#ae718666a1da0e93cb0965c42c40b51df", null ],
     [ "KilledUnit", "dd/dce/structboss__gurtogg__bloodboil.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "dd/dce/structboss__gurtogg__bloodboil.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "dd/dce/structboss__gurtogg__bloodboil.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "Reset", "dd/dce/structboss__gurtogg__bloodboil.html#add25677d422b8bddcb753465451f0584", null ]
 ];

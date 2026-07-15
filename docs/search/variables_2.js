@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
+  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
   ['bachievcacherare_1',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
   ['bachievcheese_2',['bAchievCheese',['../d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf',1,'boss_hodir']]],
   ['bachievcoolestfriends_3',['bAchievCoolestFriends',['../d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03',1,'boss_hodir']]],
@@ -258,7 +258,7 @@ var searchData=
   ['bounding_5fradius_255',['bounding_radius',['../dd/d4f/structCreatureModelInfo.html#a9f4a794b06bcbe31fc0a104cc97b91a4',1,'CreatureModelInfo']]],
   ['boundingbox_256',['BoundingBox',['../de/deb/structM2Header.html#a8e68b2699e159da2ab97658ab596700f',1,'M2Header']]],
   ['boundingsphereradius_257',['BoundingSphereRadius',['../de/deb/structM2Header.html#a5dd5a1175c8231f1c10233067ef8d4d7',1,'M2Header']]],
-  ['bounds_258',['bounds',['../d5/d98/structVMAP_1_1GroupModel__Raw.html#a830d79fdd2f21164bd805051352a3aa8',1,'VMAP::GroupModel_Raw::bounds'],['../d0/de7/classBIH.html#ae112545e132f8dd509674e164a172f61',1,'BIH::bounds'],['../d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea',1,'ADT::MODF::Bounds']]],
+  ['bounds_258',['bounds',['../d0/de7/classBIH.html#ae112545e132f8dd509674e164a172f61',1,'BIH::bounds'],['../d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea',1,'ADT::MODF::Bounds'],['../d5/d98/structVMAP_1_1GroupModel__Raw.html#a830d79fdd2f21164bd805051352a3aa8',1,'VMAP::GroupModel_Raw::bounds']]],
   ['boxbroadcasttextid_259',['BoxBroadcastTextID',['../db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88',1,'GossipMenuItems']]],
   ['boxcoded_260',['BoxCoded',['../db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd',1,'GossipMenuItems']]],
   ['boxmessage_261',['BoxMessage',['../d7/d75/structGossipMenuItem.html#a450f6063a89db2d152370bc997c844a3',1,'GossipMenuItem']]],
@@ -284,7 +284,7 @@ var searchData=
   ['breathready_281',['breathReady',['../d7/d27/structboss__kologarn.html#a4ad6f7048bf3ba0bb39294cf4a7ca118',1,'boss_kologarn']]],
   ['brequestforcedvisibilityupdate_282',['bRequestForcedVisibilityUpdate',['../df/dd9/classUnit.html#a76e5156ec045582923f6d1541b66367b',1,'Unit']]],
   ['bridgewindowguid_283',['BridgeWindowGUID',['../dc/d57/structinstance__the__eye_1_1instance__the__eye__InstanceMapScript.html#a1fa987352d6c4c5f11d5415d4b886aaa',1,'instance_the_eye::instance_the_eye_InstanceMapScript']]],
-  ['broadcasttextid_284',['broadcasttextid',['../d7/de4/structGossipTextOption.html#a756f24dbee852a7fbe152c0cb082c412',1,'GossipTextOption::BroadcastTextID'],['../d2/d32/structCreatureTextEntry.html#a12ff00d59ce642d3c27978e919f6ca17',1,'CreatureTextEntry::BroadcastTextId']]],
+  ['broadcasttextid_284',['broadcasttextid',['../d2/d32/structCreatureTextEntry.html#a12ff00d59ce642d3c27978e919f6ca17',1,'CreatureTextEntry::BroadcastTextId'],['../d7/de4/structGossipTextOption.html#a756f24dbee852a7fbe152c0cb082c412',1,'GossipTextOption::BroadcastTextID']]],
   ['brocksachiev_285',['bRocksAchiev',['../de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a727452275b30e8c7a64b69079790e754',1,'instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript']]],
   ['brubyvoid_286',['bRubyVoid',['../dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace',1,'instance_oculus::instance_oculus_InstanceMapScript']]],
   ['bshattered_287',['bShattered',['../d0/d34/structboss__ignis.html#a4dca823efebb77be49e52df5ce45f42e',1,'boss_ignis']]],

@@ -18,8 +18,7 @@ var boss__ormorok_8cpp =
       [ "EVENT_ORMOROK_SPELL_REFLECTION", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a325d71d7d4b375ee8012c4da474f435e", null ],
       [ "EVENT_ORMOROK_SUMMON", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d679889b59d09acd88d0e743219e782", null ],
       [ "EVENT_ORMOROK_HEALTH", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1f9db0b7855d34791e8b65405cffcb97", null ],
-      [ "EVENT_ORMOROK_SUMMON_SPIKES", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5399086bf936186e2d5e143fad34032", null ],
-      [ "EVENT_KILL_TALK", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_ORMOROK_SUMMON_SPIKES", "d5/d7b/boss__ormorok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5399086bf936186e2d5e143fad34032", null ]
     ] ],
     [ "Misc", "d5/d7b/boss__ormorok_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NPC_CRYSTAL_SPIKE", "d5/d7b/boss__ormorok_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a51cc1758fd506aaf2c7600de5745ee63", null ],

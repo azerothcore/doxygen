@@ -11,6 +11,5 @@ var structboss__magtheridon =
     [ "_castingQuake", "d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
     [ "_currentPhase", "d9/d98/structboss__magtheridon.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
     [ "_interruptScheduler", "d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
-    [ "_magReleased", "d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e", null ],
-    [ "_recentlySpoken", "d9/d98/structboss__magtheridon.html#af860281db4d20e3d3b9589657c921a50", null ]
+    [ "_magReleased", "d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e", null ]
 ];

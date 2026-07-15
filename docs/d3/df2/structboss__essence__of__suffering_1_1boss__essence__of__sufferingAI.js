@@ -7,6 +7,5 @@ var structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI =
     [ "KilledUnit", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a3699b19f23cf15115ff8c92691a6d334", null ],
     [ "MovementInform", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
     [ "Reset", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "UpdateAI", "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html#abb60432720b3720832ccc83d454a3808", null ]
 ];

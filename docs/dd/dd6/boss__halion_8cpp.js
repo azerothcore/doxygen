@@ -44,7 +44,6 @@ var boss__halion_8cpp =
       [ "EVENT_FIERY_COMBUSTION", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9aa303987b643da5cd7021b1bbbba22d", null ],
       [ "EVENT_TAIL_LASH", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aabbfd7fc77093f972c5db308ddc4d569", null ],
       [ "EVENT_CHECK_HEALTH", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64", null ],
-      [ "EVENT_KILL_TALK", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_TRIGGER_BERSERK", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a2f9256739080153e0853f6473cdfc2", null ],
       [ "EVENT_HALION_VISIBILITY", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c", null ],
       [ "EVENT_SOUL_CONSUMPTION", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acccc10750650899f49717b32461f8572", null ],

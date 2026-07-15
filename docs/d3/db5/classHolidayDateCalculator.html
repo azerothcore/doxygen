@@ -144,6 +144,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a6e27a5ec3e65f21f17a9f2a61cc23022"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad67e9add59e743a47b087e62737eab7e" id="r_ad67e9add59e743a47b087e62737eab7e"><td class="memItemLeft" align="right" valign="top">static time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">FindStartTimeForStage</a> (const uint32_t *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</td></tr>
 <tr class="separator:ad67e9add59e743a47b087e62737eab7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ef0af4dccb02a045dd0c9a15330c9f0" id="r_a9ef0af4dccb02a045dd0c9a15330c9f0"><td class="memItemLeft" align="right" valign="top">static time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">FindLoopingStartTime</a> (uint32_t packedAnchor, time_t stageOffset, uint32_t occurenceMinutes, time_t curTime)</td></tr>
+<tr class="separator:a9ef0af4dccb02a045dd0c9a15330c9f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
@@ -889,6 +891,78 @@ Static Private Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a9ef0af4dccb02a045dd0c9a15330c9f0" name="a9ef0af4dccb02a045dd0c9a15330c9f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ef0af4dccb02a045dd0c9a15330c9f0">&#9670;&#160;</a></span>FindLoopingStartTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t HolidayDateCalculator::FindLoopingStartTime </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>packedAnchor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>stageOffset</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>occurenceMinutes</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>curTime</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  677</span>{</div>
+<div class="line"><span class="lineno">  678</span>    <span class="keywordflow">if</span> (!packedAnchor)</div>
+<div class="line"><span class="lineno">  679</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  680</span> </div>
+<div class="line"><span class="lineno">  681</span>    std::tm timeInfo = {};</div>
+<div class="line"><span class="lineno">  682</span>    timeInfo.tm_year = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>((packedAnchor &gt;&gt; 24) &amp; 0x1F) + 100; <span class="comment">// years since 1900 (2000-2031)</span></div>
+<div class="line"><span class="lineno">  683</span>    timeInfo.tm_mon  = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>((packedAnchor &gt;&gt; 20) &amp; 0xF);</div>
+<div class="line"><span class="lineno">  684</span>    timeInfo.tm_mday = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>((packedAnchor &gt;&gt; 14) &amp; 0x3F) + 1;</div>
+<div class="line"><span class="lineno">  685</span>    timeInfo.tm_hour = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>((packedAnchor &gt;&gt; 6) &amp; 0x1F);</div>
+<div class="line"><span class="lineno">  686</span>    timeInfo.tm_min  = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(packedAnchor &amp; 0x3F);</div>
+<div class="line"><span class="lineno">  687</span>    timeInfo.tm_sec  = 0;</div>
+<div class="line"><span class="lineno">  688</span>    timeInfo.tm_isdst = -1;</div>
+<div class="line"><span class="lineno">  689</span> </div>
+<div class="line"><span class="lineno">  690</span>    time_t anchor = mktime(&amp;timeInfo) + stageOffset;</div>
+<div class="line"><span class="lineno">  691</span> </div>
+<div class="line"><span class="lineno">  692</span>    <span class="comment">// Roll forward by whole periods to the most recent occurrence, preserving phase.</span></div>
+<div class="line"><span class="lineno">  693</span>    time_t <span class="keyword">const</span> period = <span class="keyword">static_cast&lt;</span>time_t<span class="keyword">&gt;</span>(occurenceMinutes) * 60;</div>
+<div class="line"><span class="lineno">  694</span>    <span class="keywordflow">if</span> (period &gt; 0 &amp;&amp; anchor &lt; curTime)</div>
+<div class="line"><span class="lineno">  695</span>        anchor += ((curTime - anchor) / period) * period;</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>    <span class="keywordflow">return</span> anchor;</div>
+<div class="line"><span class="lineno">  698</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01914">GameEventMgr::SetHolidayEventTime()</a>, <a class="el" href="../../#l01479">TEST_F()</a>, <a class="el" href="../../#l01470">TEST_F()</a>, <a class="el" href="../../#l01494">TEST_F()</a>, <a class="el" href="../../#l01464">TEST_F()</a>, and <a class="el" href="../../#l01507">TEST_F()</a>.</p>
+
+</div>
+</div>
 <a id="ad67e9add59e743a47b087e62737eab7e" name="ad67e9add59e743a47b087e62737eab7e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad67e9add59e743a47b087e62737eab7e">&#9670;&#160;</a></span>FindStartTimeForStage()</h2>
 
@@ -1295,7 +1369,7 @@ Static Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/db5/classHolidayDateCalculator.html">HolidayDateCalculator</a></li>
-    <li class="footer">Generated on Tue Jul 14 2026 07:55:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 15 2026 07:59:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

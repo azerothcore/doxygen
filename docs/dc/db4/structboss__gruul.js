@@ -6,6 +6,5 @@ var structboss__gruul =
     [ "KilledUnit", "dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
     [ "Reset", "dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
     [ "UpdateAI", "dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "dc/db4/structboss__gruul.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "_caveInTimer", "dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c", null ]
 ];

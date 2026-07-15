@@ -11,6 +11,5 @@ var structboss__moroes =
     [ "UpdateAI", "dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32", null ],
     [ "_activeGuests", "dd/dba/structboss__moroes.html#a651f53f476f205785d596ed9d52fdb89", null ],
     [ "_events2", "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_recentlySpoken", "dd/dba/structboss__moroes.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
     [ "_vanished", "dd/dba/structboss__moroes.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

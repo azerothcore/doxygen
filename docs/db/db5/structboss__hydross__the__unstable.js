@@ -10,6 +10,5 @@ var structboss__hydross__the__unstable =
     [ "SetForm", "db/db5/structboss__hydross__the__unstable.html#ac80b0611533998d15406d45385d37629", null ],
     [ "SummonedCreatureDespawn", "db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa", null ],
     [ "SummonMovementInform", "db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "db/db5/structboss__hydross__the__unstable.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "SummonTaintedElementalOOC", "db/db5/structboss__hydross__the__unstable.html#a219094dc5a81acb7d7ae86d5d7945da8", null ]
 ];

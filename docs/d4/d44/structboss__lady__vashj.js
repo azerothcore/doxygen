@@ -14,6 +14,5 @@ var structboss__lady__vashj =
     [ "_batTimer", "d4/d44/structboss__lady__vashj.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
     [ "_count", "d4/d44/structboss__lady__vashj.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
     [ "_intro", "d4/d44/structboss__lady__vashj.html#a2aafb94d956182723ccc9374854c7fb0", null ],
-    [ "_playerAngle", "d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b", null ],
-    [ "_recentlySpoken", "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
+    [ "_playerAngle", "d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b", null ]
 ];

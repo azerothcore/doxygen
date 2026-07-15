@@ -123,6 +123,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/classFindStartTimeForStageTest.html">FindStartTimeForStageTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -226,10 +228,211 @@ Functions</h2></td></tr>
 <tr class="separator:a5f6cead798a7f7186f2c82d3e55e3dba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a16adef8669d17e4aac23d942cf71573e" id="r_a16adef8669d17e4aac23d942cf71573e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#a16adef8669d17e4aac23d942cf71573e">TEST_F</a> (<a class="el" href="../../d6/d50/classFindStartTimeForStageTest.html">FindStartTimeForStageTest</a>, AllDatesPast_ReturnsZero)</td></tr>
 <tr class="separator:a16adef8669d17e4aac23d942cf71573e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade438a4033e5a59df425ed914a53a311" id="r_ade438a4033e5a59df425ed914a53a311"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#ade438a4033e5a59df425ed914a53a311">TEST_F</a> (<a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>, ZeroAnchor_ReturnsZero)</td></tr>
+<tr class="separator:ade438a4033e5a59df425ed914a53a311"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f0fa13956199938646650014218b1cf" id="r_a1f0fa13956199938646650014218b1cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#a1f0fa13956199938646650014218b1cf">TEST_F</a> (<a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>, FutureAnchor_NotRolled)</td></tr>
+<tr class="separator:a1f0fa13956199938646650014218b1cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae77ecd1f64fe5f242094011d8fa78936" id="r_ae77ecd1f64fe5f242094011d8fa78936"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#ae77ecd1f64fe5f242094011d8fa78936">TEST_F</a> (<a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>, AncientAnchor_RollsToMostRecentOccurrence)</td></tr>
+<tr class="separator:ae77ecd1f64fe5f242094011d8fa78936"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46846ce0fb1c6b5fa421ee039e4a657e" id="r_a46846ce0fb1c6b5fa421ee039e4a657e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#a46846ce0fb1c6b5fa421ee039e4a657e">TEST_F</a> (<a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>, StageOffsetApplied)</td></tr>
+<tr class="separator:a46846ce0fb1c6b5fa421ee039e4a657e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbeb6626e8514ddaefc48ae4b34a73d6" id="r_abbeb6626e8514ddaefc48ae4b34a73d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html#abbeb6626e8514ddaefc48ae4b34a73d6">TEST_F</a> (<a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>, ZeroOccurence_ReturnsAnchor)</td></tr>
+<tr class="separator:abbeb6626e8514ddaefc48ae4b34a73d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="ae77ecd1f64fe5f242094011d8fa78936" name="ae77ecd1f64fe5f242094011d8fa78936"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae77ecd1f64fe5f242094011d8fa78936">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/55]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AncientAnchor_RollsToMostRecentOccurrence&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1480</span>{</div>
+<div class="line"><span class="lineno"> 1481</span>    uint32_t anchor = PackAnchor(2007, 10, 26, 0, 0);</div>
+<div class="line"><span class="lineno"> 1482</span>    time_t curTime = MakeTime(2026, 2, 6, 12);</div>
+<div class="line"><span class="lineno"> 1483</span> </div>
+<div class="line"><span class="lineno"> 1484</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a>(anchor, 0, OCCURENCE_MIN, curTime);</div>
+<div class="line"><span class="lineno"> 1485</span> </div>
+<div class="line"><span class="lineno"> 1486</span>    time_t <span class="keyword">const</span> period = <span class="keyword">static_cast&lt;</span>time_t<span class="keyword">&gt;</span>(OCCURENCE_MIN) * 60;</div>
+<div class="line"><span class="lineno"> 1487</span>    time_t <span class="keyword">const</span> base = MakeTime(2007, 10, 26);</div>
+<div class="line"><span class="lineno"> 1488</span> </div>
+<div class="line"><span class="lineno"> 1489</span>    EXPECT_LE(result, curTime);</div>
+<div class="line"><span class="lineno"> 1490</span>    EXPECT_GT(result + period, curTime);</div>
+<div class="line"><span class="lineno"> 1491</span>    EXPECT_EQ((result - base) % period, 0);</div>
+<div class="line"><span class="lineno"> 1492</span>}</div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_a9ef0af4dccb02a045dd0c9a15330c9f0"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a></div><div class="ttdeci">static time_t FindLoopingStartTime(uint32_t packedAnchor, time_t stageOffset, uint32_t occurenceMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:675</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00675">HolidayDateCalculator::FindLoopingStartTime()</a>.</p>
+
+</div>
+</div>
+<a id="a1f0fa13956199938646650014218b1cf" name="a1f0fa13956199938646650014218b1cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f0fa13956199938646650014218b1cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/55]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FutureAnchor_NotRolled&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1471</span>{</div>
+<div class="line"><span class="lineno"> 1472</span>    uint32_t anchor = PackAnchor(2026, 10, 30, 0, 0);</div>
+<div class="line"><span class="lineno"> 1473</span>    time_t curTime = MakeTime(2026, 6, 1);</div>
+<div class="line"><span class="lineno"> 1474</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a>(anchor, 0, OCCURENCE_MIN, curTime),</div>
+<div class="line"><span class="lineno"> 1475</span>        MakeTime(2026, 10, 30));</div>
+<div class="line"><span class="lineno"> 1476</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00675">HolidayDateCalculator::FindLoopingStartTime()</a>.</p>
+
+</div>
+</div>
+<a id="a46846ce0fb1c6b5fa421ee039e4a657e" name="a46846ce0fb1c6b5fa421ee039e4a657e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46846ce0fb1c6b5fa421ee039e4a657e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/55]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">StageOffsetApplied&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1495</span>{</div>
+<div class="line"><span class="lineno"> 1496</span>    uint32_t anchor = PackAnchor(2007, 10, 26, 0, 0);</div>
+<div class="line"><span class="lineno"> 1497</span>    time_t stageOffset = 96 * 3600;</div>
+<div class="line"><span class="lineno"> 1498</span>    time_t curTime = MakeTime(2026, 2, 6, 12);</div>
+<div class="line"><span class="lineno"> 1499</span> </div>
+<div class="line"><span class="lineno"> 1500</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a>(anchor, stageOffset, OCCURENCE_MIN, curTime);</div>
+<div class="line"><span class="lineno"> 1501</span> </div>
+<div class="line"><span class="lineno"> 1502</span>    time_t <span class="keyword">const</span> period = <span class="keyword">static_cast&lt;</span>time_t<span class="keyword">&gt;</span>(OCCURENCE_MIN) * 60;</div>
+<div class="line"><span class="lineno"> 1503</span>    time_t <span class="keyword">const</span> base = MakeTime(2007, 10, 26) + stageOffset;</div>
+<div class="line"><span class="lineno"> 1504</span>    EXPECT_EQ((result - base) % period, 0);</div>
+<div class="line"><span class="lineno"> 1505</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00675">HolidayDateCalculator::FindLoopingStartTime()</a>.</p>
+
+</div>
+</div>
+<a id="ade438a4033e5a59df425ed914a53a311" name="ade438a4033e5a59df425ed914a53a311"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade438a4033e5a59df425ed914a53a311">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/55]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ZeroAnchor_ReturnsZero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1465</span>{</div>
+<div class="line"><span class="lineno"> 1466</span>    time_t curTime = MakeTime(2026, 6, 1);</div>
+<div class="line"><span class="lineno"> 1467</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a>(0, 0, OCCURENCE_MIN, curTime), 0);</div>
+<div class="line"><span class="lineno"> 1468</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00675">HolidayDateCalculator::FindLoopingStartTime()</a>.</p>
+
+</div>
+</div>
+<a id="abbeb6626e8514ddaefc48ae4b34a73d6" name="abbeb6626e8514ddaefc48ae4b34a73d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbeb6626e8514ddaefc48ae4b34a73d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/55]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d79/classFindLoopingStartTimeTest.html">FindLoopingStartTimeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ZeroOccurence_ReturnsAnchor&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1508</span>{</div>
+<div class="line"><span class="lineno"> 1509</span>    uint32_t anchor = PackAnchor(2007, 10, 26, 0, 0);</div>
+<div class="line"><span class="lineno"> 1510</span>    time_t curTime = MakeTime(2026, 2, 6, 12);</div>
+<div class="line"><span class="lineno"> 1511</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a>(anchor, 0, 0, curTime),</div>
+<div class="line"><span class="lineno"> 1512</span>        MakeTime(2007, 10, 26));</div>
+<div class="line"><span class="lineno"> 1513</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00675">HolidayDateCalculator::FindLoopingStartTime()</a>.</p>
+
+</div>
+</div>
 <a id="a16adef8669d17e4aac23d942cf71573e" name="a16adef8669d17e4aac23d942cf71573e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16adef8669d17e4aac23d942cf71573e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a16adef8669d17e4aac23d942cf71573e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -271,7 +474,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a5f6cead798a7f7186f2c82d3e55e3dba" name="a5f6cead798a7f7186f2c82d3e55e3dba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f6cead798a7f7186f2c82d3e55e3dba">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f6cead798a7f7186f2c82d3e55e3dba">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -308,7 +511,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a79c8e85eb8522e0bf11a7807ddc64da6" name="a79c8e85eb8522e0bf11a7807ddc64da6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79c8e85eb8522e0bf11a7807ddc64da6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a79c8e85eb8522e0bf11a7807ddc64da6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -349,7 +552,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a89806dd9604bf893e1be2c882c38b253" name="a89806dd9604bf893e1be2c882c38b253"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89806dd9604bf893e1be2c882c38b253">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a89806dd9604bf893e1be2c882c38b253">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -390,7 +593,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a972b708b984df50a1566665cfce9bf51" name="a972b708b984df50a1566665cfce9bf51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a972b708b984df50a1566665cfce9bf51">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a972b708b984df50a1566665cfce9bf51">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -431,7 +634,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a6a063cc07fc5520a889f8c5f4beccbdf" name="a6a063cc07fc5520a889f8c5f4beccbdf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a063cc07fc5520a889f8c5f4beccbdf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a063cc07fc5520a889f8c5f4beccbdf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -474,7 +677,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a58f74c734da141e1ed6de4ac3ec783d5" name="a58f74c734da141e1ed6de4ac3ec783d5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a58f74c734da141e1ed6de4ac3ec783d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a58f74c734da141e1ed6de4ac3ec783d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -526,7 +729,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a34f70c82b91163dd6378d266c974b52a" name="a34f70c82b91163dd6378d266c974b52a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34f70c82b91163dd6378d266c974b52a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a34f70c82b91163dd6378d266c974b52a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -575,7 +778,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a6013310af1ae7ad291f350ab220f8b9a" name="a6013310af1ae7ad291f350ab220f8b9a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6013310af1ae7ad291f350ab220f8b9a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6013310af1ae7ad291f350ab220f8b9a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -624,7 +827,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a52886ddd3389fe20ec6d8a1177d461b1" name="a52886ddd3389fe20ec6d8a1177d461b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52886ddd3389fe20ec6d8a1177d461b1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a52886ddd3389fe20ec6d8a1177d461b1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -676,7 +879,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ad3e3d081d2e3ed24e47f52b2ebacb261" name="ad3e3d081d2e3ed24e47f52b2ebacb261"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad3e3d081d2e3ed24e47f52b2ebacb261">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3e3d081d2e3ed24e47f52b2ebacb261">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -731,7 +934,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a97a06a1511151278b647a6535acea291" name="a97a06a1511151278b647a6535acea291"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97a06a1511151278b647a6535acea291">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a97a06a1511151278b647a6535acea291">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -781,7 +984,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a1089b59bde7436c5c88be2fea8405e2d" name="a1089b59bde7436c5c88be2fea8405e2d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1089b59bde7436c5c88be2fea8405e2d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a1089b59bde7436c5c88be2fea8405e2d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -835,7 +1038,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ae34bc4cc7f732cfd2ba704f5fe7acae4" name="ae34bc4cc7f732cfd2ba704f5fe7acae4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae34bc4cc7f732cfd2ba704f5fe7acae4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae34bc4cc7f732cfd2ba704f5fe7acae4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -901,7 +1104,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a7b1fa94558f76ffb4878740371f8302f" name="a7b1fa94558f76ffb4878740371f8302f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b1fa94558f76ffb4878740371f8302f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b1fa94558f76ffb4878740371f8302f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -953,7 +1156,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ac9d6debdd056ef373dd2f1fa94278ea1" name="ac9d6debdd056ef373dd2f1fa94278ea1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9d6debdd056ef373dd2f1fa94278ea1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9d6debdd056ef373dd2f1fa94278ea1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1002,7 +1205,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="af1575fa225ce0a8eb2b122e2d67a6d5f" name="af1575fa225ce0a8eb2b122e2d67a6d5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1575fa225ce0a8eb2b122e2d67a6d5f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#af1575fa225ce0a8eb2b122e2d67a6d5f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1051,7 +1254,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="aa01faceb505557016d21677b1f1c6927" name="aa01faceb505557016d21677b1f1c6927"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa01faceb505557016d21677b1f1c6927">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa01faceb505557016d21677b1f1c6927">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1100,7 +1303,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a5ec0d2a202899ba24077e863e86c3a92" name="a5ec0d2a202899ba24077e863e86c3a92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ec0d2a202899ba24077e863e86c3a92">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ec0d2a202899ba24077e863e86c3a92">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1150,7 +1353,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="aa1c334e1844b7c9e4a8ec22dbd9ff178" name="aa1c334e1844b7c9e4a8ec22dbd9ff178"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1c334e1844b7c9e4a8ec22dbd9ff178">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1c334e1844b7c9e4a8ec22dbd9ff178">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1202,7 +1405,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="af88e49deb494dc84337149c7b7ee7256" name="af88e49deb494dc84337149c7b7ee7256"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af88e49deb494dc84337149c7b7ee7256">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#af88e49deb494dc84337149c7b7ee7256">&#9670;&#160;</a></span>TEST_F() <span class="overload">[26/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1257,7 +1460,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a3533e395607aaedb7073d4dfd0da6e92" name="a3533e395607aaedb7073d4dfd0da6e92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3533e395607aaedb7073d4dfd0da6e92">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3533e395607aaedb7073d4dfd0da6e92">&#9670;&#160;</a></span>TEST_F() <span class="overload">[27/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1295,7 +1498,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a9de8f83ce7e484dba94add12d7e84119" name="a9de8f83ce7e484dba94add12d7e84119"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9de8f83ce7e484dba94add12d7e84119">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a9de8f83ce7e484dba94add12d7e84119">&#9670;&#160;</a></span>TEST_F() <span class="overload">[28/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1363,7 +1566,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="aea5056b9cc7425b0c34b0490835541ec" name="aea5056b9cc7425b0c34b0490835541ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea5056b9cc7425b0c34b0490835541ec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aea5056b9cc7425b0c34b0490835541ec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[29/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1424,7 +1627,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a978702830277663c6f4c847541585260" name="a978702830277663c6f4c847541585260"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a978702830277663c6f4c847541585260">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a978702830277663c6f4c847541585260">&#9670;&#160;</a></span>TEST_F() <span class="overload">[30/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1483,7 +1686,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a3c33cbd880933f846585ac8fa8e768dc" name="a3c33cbd880933f846585ac8fa8e768dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c33cbd880933f846585ac8fa8e768dc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[26/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c33cbd880933f846585ac8fa8e768dc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[31/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1519,7 +1722,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ac8e06ea3b01c58c5ad3e247f426313ae" name="ac8e06ea3b01c58c5ad3e247f426313ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8e06ea3b01c58c5ad3e247f426313ae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[27/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8e06ea3b01c58c5ad3e247f426313ae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[32/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1566,7 +1769,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a5eadc52acfa70d13a4df7293ab02a1d6" name="a5eadc52acfa70d13a4df7293ab02a1d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5eadc52acfa70d13a4df7293ab02a1d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[28/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a5eadc52acfa70d13a4df7293ab02a1d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[33/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1617,7 +1820,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ae055af1d9ad25bc3dbbb675b88b73a88" name="ae055af1d9ad25bc3dbbb675b88b73a88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae055af1d9ad25bc3dbbb675b88b73a88">&#9670;&#160;</a></span>TEST_F() <span class="overload">[29/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae055af1d9ad25bc3dbbb675b88b73a88">&#9670;&#160;</a></span>TEST_F() <span class="overload">[34/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1671,7 +1874,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a210592e6f753f5989d1b813d32134eec" name="a210592e6f753f5989d1b813d32134eec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a210592e6f753f5989d1b813d32134eec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[30/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a210592e6f753f5989d1b813d32134eec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[35/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1726,7 +1929,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a6296cbceab321f201c4617a39acd750d" name="a6296cbceab321f201c4617a39acd750d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6296cbceab321f201c4617a39acd750d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[31/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6296cbceab321f201c4617a39acd750d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[36/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1781,7 +1984,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a31f6d64221af11bb3cadb19192a6ec18" name="a31f6d64221af11bb3cadb19192a6ec18"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a31f6d64221af11bb3cadb19192a6ec18">&#9670;&#160;</a></span>TEST_F() <span class="overload">[32/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a31f6d64221af11bb3cadb19192a6ec18">&#9670;&#160;</a></span>TEST_F() <span class="overload">[37/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1831,7 +2034,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a040a9607fc2e935f7ca2f06f34e04501" name="a040a9607fc2e935f7ca2f06f34e04501"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a040a9607fc2e935f7ca2f06f34e04501">&#9670;&#160;</a></span>TEST_F() <span class="overload">[33/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a040a9607fc2e935f7ca2f06f34e04501">&#9670;&#160;</a></span>TEST_F() <span class="overload">[38/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1881,7 +2084,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="acac9b1508f60df2b48c40294d99f34e1" name="acac9b1508f60df2b48c40294d99f34e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acac9b1508f60df2b48c40294d99f34e1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[34/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#acac9b1508f60df2b48c40294d99f34e1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[39/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1960,7 +2163,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ab0ab5777e483ea1c7cf64c789d42f7d4" name="ab0ab5777e483ea1c7cf64c789d42f7d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab0ab5777e483ea1c7cf64c789d42f7d4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[35/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0ab5777e483ea1c7cf64c789d42f7d4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[40/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2014,7 +2217,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a3c3b8c40ae0753b94e345429c6c1b9fd" name="a3c3b8c40ae0753b94e345429c6c1b9fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c3b8c40ae0753b94e345429c6c1b9fd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[36/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c3b8c40ae0753b94e345429c6c1b9fd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[41/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2077,7 +2280,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ac5af99b8b81e3da3fe851f4831ff9ed8" name="ac5af99b8b81e3da3fe851f4831ff9ed8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac5af99b8b81e3da3fe851f4831ff9ed8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[37/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5af99b8b81e3da3fe851f4831ff9ed8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[42/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2133,7 +2336,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ae33b0fff3df99b98693b08194b7dbe0d" name="ae33b0fff3df99b98693b08194b7dbe0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae33b0fff3df99b98693b08194b7dbe0d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[38/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae33b0fff3df99b98693b08194b7dbe0d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[43/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2186,7 +2389,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a53993de618fcc260daa422bc0b50918b" name="a53993de618fcc260daa422bc0b50918b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a53993de618fcc260daa422bc0b50918b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[39/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a53993de618fcc260daa422bc0b50918b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[44/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2235,7 +2438,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ac66b370e25a8c8231b3391faea0a895b" name="ac66b370e25a8c8231b3391faea0a895b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac66b370e25a8c8231b3391faea0a895b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[40/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac66b370e25a8c8231b3391faea0a895b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[45/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2290,7 +2493,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a554d4c48b31a42d76e438ad934b49623" name="a554d4c48b31a42d76e438ad934b49623"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a554d4c48b31a42d76e438ad934b49623">&#9670;&#160;</a></span>TEST_F() <span class="overload">[41/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a554d4c48b31a42d76e438ad934b49623">&#9670;&#160;</a></span>TEST_F() <span class="overload">[46/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2350,7 +2553,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a6f518359ddf69c0da421bfcbff6b769b" name="a6f518359ddf69c0da421bfcbff6b769b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f518359ddf69c0da421bfcbff6b769b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[42/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f518359ddf69c0da421bfcbff6b769b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[47/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2438,7 +2641,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ace3d40b6a36b006fd6658da650d1e924" name="ace3d40b6a36b006fd6658da650d1e924"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace3d40b6a36b006fd6658da650d1e924">&#9670;&#160;</a></span>TEST_F() <span class="overload">[43/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ace3d40b6a36b006fd6658da650d1e924">&#9670;&#160;</a></span>TEST_F() <span class="overload">[48/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2492,7 +2695,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a003954d809427de42c962c1730f3f806" name="a003954d809427de42c962c1730f3f806"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a003954d809427de42c962c1730f3f806">&#9670;&#160;</a></span>TEST_F() <span class="overload">[44/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a003954d809427de42c962c1730f3f806">&#9670;&#160;</a></span>TEST_F() <span class="overload">[49/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2551,7 +2754,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a35a77b2170e74365de821f2ca08cee10" name="a35a77b2170e74365de821f2ca08cee10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35a77b2170e74365de821f2ca08cee10">&#9670;&#160;</a></span>TEST_F() <span class="overload">[45/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a35a77b2170e74365de821f2ca08cee10">&#9670;&#160;</a></span>TEST_F() <span class="overload">[50/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2621,7 +2824,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="abce9231ee4a795757c465b4a4c87a806" name="abce9231ee4a795757c465b4a4c87a806"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abce9231ee4a795757c465b4a4c87a806">&#9670;&#160;</a></span>TEST_F() <span class="overload">[46/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#abce9231ee4a795757c465b4a4c87a806">&#9670;&#160;</a></span>TEST_F() <span class="overload">[51/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2667,7 +2870,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a3433e5b3d06b68175a5a50a16b97351a" name="a3433e5b3d06b68175a5a50a16b97351a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3433e5b3d06b68175a5a50a16b97351a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[47/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3433e5b3d06b68175a5a50a16b97351a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[52/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2714,7 +2917,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a229c1f16e68e5fe80fc01b2064e62eeb" name="a229c1f16e68e5fe80fc01b2064e62eeb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a229c1f16e68e5fe80fc01b2064e62eeb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[48/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a229c1f16e68e5fe80fc01b2064e62eeb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[53/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2780,7 +2983,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a65cb09b90aa9192ffc4bd72007e88b39" name="a65cb09b90aa9192ffc4bd72007e88b39"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65cb09b90aa9192ffc4bd72007e88b39">&#9670;&#160;</a></span>TEST_F() <span class="overload">[49/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a65cb09b90aa9192ffc4bd72007e88b39">&#9670;&#160;</a></span>TEST_F() <span class="overload">[54/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2827,7 +3030,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ab2ad73b53a474b0f3a5e5e78f6f675eb" name="ab2ad73b53a474b0f3a5e5e78f6f675eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2ad73b53a474b0f3a5e5e78f6f675eb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[50/50]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2ad73b53a474b0f3a5e5e78f6f675eb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[55/55]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -2882,7 +3085,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_3291cceaca648ebc4ba25acfe38eae5c.html">Events</a></li><li class="navelem"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html">HolidayDateCalculatorTest.cpp</a></li>
-    <li class="footer">Generated on Tue Jul 14 2026 07:54:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 15 2026 07:59:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

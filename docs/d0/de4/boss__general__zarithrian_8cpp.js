@@ -9,7 +9,6 @@ var boss__general__zarithrian_8cpp =
       [ "EVENT_INTIDMDATING_ROAR", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31b490a602bb7617eb4eb5f271b38257", null ],
       [ "EVENT_SUMMON_ADDS1", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af7f0d0250077d4c51579d81e3b0db7b5", null ],
       [ "EVENT_SUMMON_ADDS2", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ef0eaa64a6484c04dd223efe5b4f227", null ],
-      [ "EVENT_KILL_TALK", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_BLAST_NOVA", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9e1344e054aca207ba2ec5cfdbb3c4aa", null ],
       [ "EVENT_LAVA_GOUT", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2a074344f62cd405347312727078904", null ],
       [ "MAX_PATH_FLAMECALLER_WAYPOINTS", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a42e391a37f26c6a27525ee75ae035ff2", null ]

@@ -178,7 +178,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html',''); initResiza
 <li>m_auraRaidUpdateMask&#160;:&#160;<a class="el" href="df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d">Pet</a>, <a class="el" href="d2/d4b/classPlayer.html#ad01db2db378191c4397594383701beeb">Player</a></li>
 <li>m_auraScaleMask&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#a80edfeafb18a9bc0fe50b5c7d4301a92">Spell</a></li>
 <li>m_auraStateAuras&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ae358ce699f0b5365d6746dfdabd6d4f4">Unit</a></li>
-<li>m_auraUpdateIterator&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a6a8cb97dceccf42cd091d73d2bef0601">Unit</a></li>
+<li>m_auraUpdateSnapshot&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ae3b1ffbc4fba3eb1380fa53994e470ea">Unit</a></li>
 <li>m_AutoDistributionTimeChecker&#160;:&#160;<a class="el" href="d1/d1a/classBattlegroundMgr.html#a48ace910e7ad1f2e3f025bdc774957bd">BattlegroundMgr</a></li>
 <li>m_autoRepeat&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#af8e7a207583b68ff524b4372e995664a">Spell</a></li>
 <li>m_AutoRepeatFirstCast&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a6ec7e1caae3ae4ee9dd6bb4813ebc22c">Unit</a></li>
@@ -1030,6 +1030,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html',''); initResiza
 <li>m_terrainBuilder&#160;:&#160;<a class="el" href="d4/dab/classMMAP_1_1MapBuilder.html#af82b3d2aa0ba72146b0ddefbf3619c86">MMAP::MapBuilder</a>, <a class="el" href="dd/d2d/classMMAP_1_1TileBuilder.html#ade1605fb1b68693516c9fb27f94b278d">MMAP::TileBuilder</a></li>
 <li>m_Testing&#160;:&#160;<a class="el" href="d1/d1a/classBattlegroundMgr.html#af0da868596488dade69b1323d3e88d9c">BattlegroundMgr</a>, <a class="el" href="d2/dbc/classlfg_1_1LFGMgr.html#a07b1f016513a06abbcd1e467b4e224b8">lfg::LFGMgr</a></li>
 <li>m_text&#160;:&#160;<a class="el" href="d3/d5f/classGuild_1_1BankTab.html#afc7ac5ed7c4c2d79170548fe061917eb">Guild::BankTab</a>, <a class="el" href="d0/dae/classItem.html#a3c52a99a534e3b94609de76c15587d47">Item</a></li>
+<li>m_textCooldowns&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#ab3f04d801ca803af0ab7f3006c328f8c">Creature</a></li>
 <li>m_textRepeat&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a17ef24bb4f9353de68a66ea905d3634c">Creature</a></li>
 <li>m_ThreadImp&#160;:&#160;<a class="el" href="db/d4a/classAcore_1_1Thread.html#ac2b69bbcfc8f20ac6aa2e517311b2861">Acore::Thread</a></li>
 <li>m_threads&#160;:&#160;<a class="el" href="d4/dab/classMMAP_1_1MapBuilder.html#afc097381dd4ebd9f0f997663a7817e29">MMAP::MapBuilder</a></li>
@@ -1585,6 +1586,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html',''); initResiza
 <li>mTalkerEntry&#160;:&#160;<a class="el" href="d0/d1f/classSmartScript.html#abd70c1f1a6ab1941b42a77d2c54c68f2">SmartScript</a></li>
 <li>mTemplate&#160;:&#160;<a class="el" href="d0/d1f/classSmartScript.html#a0cf7a32490a9fb855844fbd81106051a">SmartScript</a></li>
 <li>mTextMap&#160;:&#160;<a class="el" href="dc/d81/classCreatureTextMgr.html#ad25faab453d0f5d6270797eeeb5e2e40">CreatureTextMgr</a></li>
+<li>mTextOptionsMap&#160;:&#160;<a class="el" href="dc/d81/classCreatureTextMgr.html#aef06823ec3f9b56e8ee25b28b453193f">CreatureTextMgr</a></li>
 <li>mTextTimer&#160;:&#160;<a class="el" href="d0/d1f/classSmartScript.html#a67309c31e3bce6cc3b617605ebd1ede2">SmartScript</a></li>
 <li>mtime&#160;:&#160;<a class="el" href="d6/dd6/structLogMessage.html#a2dab9ed7c1aa8b784e74247667295e29">LogMessage</a></li>
 <li>mTimedActionList&#160;:&#160;<a class="el" href="d0/d1f/classSmartScript.html#ae12c777647104fa05e0404a760b8e9fb">SmartScript</a></li>
@@ -1608,7 +1610,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Jul 14 2026 07:56:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 15 2026 08:00:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

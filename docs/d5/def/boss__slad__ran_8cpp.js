@@ -9,8 +9,7 @@ var boss__slad__ran_8cpp =
       [ "NPC_SLADRAN_CONSTRICTORS", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],
       [ "MAX_CONSTRICTOR", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc7075615c62a740f793b19068462944", null ],
-      [ "MAX_SUMMONS", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
-      [ "EVENT_KILL_TALK", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "MAX_SUMMONS", "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ]
     ] ],
     [ "Spells", "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_POISON_NOVA", "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b", null ],

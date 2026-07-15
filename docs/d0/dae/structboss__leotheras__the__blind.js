@@ -7,6 +7,5 @@ var structboss__leotheras__the__blind =
     [ "ElfTime", "d0/dae/structboss__leotheras__the__blind.html#a52f101530de8883231faa7f5fe689691", null ],
     [ "MoveToTargetIfOutOfRange", "d0/dae/structboss__leotheras__the__blind.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
     [ "Reset", "d0/dae/structboss__leotheras__the__blind.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d0/dae/structboss__leotheras__the__blind.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d0/dae/structboss__leotheras__the__blind.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "UpdateAI", "d0/dae/structboss__leotheras__the__blind.html#a89deeb1888046d1f4756bcb6447d8f0d", null ]
 ];

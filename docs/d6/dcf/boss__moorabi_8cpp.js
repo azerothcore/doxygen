@@ -31,7 +31,6 @@ var boss__moorabi_8cpp =
       [ "EVENT_NUMBLING_SHOUT", "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a", null ],
       [ "EVENT_DETERMINED_STAB", "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3f23eb74244e1ad1b4311b6dc0c1891", null ],
       [ "EVENT_TRANSFORMATION", "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3ccbb371cea13ad106083c17f9c40f90", null ],
-      [ "EVENT_KILL_TALK", "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_PHANTOM", "d6/dcf/boss__moorabi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b56d1f01458c135d046a1cb12a0ac8b", null ]
     ] ],
     [ "AddSC_boss_moorabi", "d6/dcf/boss__moorabi_8cpp.html#afdf2728763fb0b3eb1dd510bb2b6bbce", null ]

@@ -2323,6 +2323,7 @@ var hierarchy =
     [ "CreatureTextLocale", "dc/db5/structCreatureTextLocale.html", null ],
     [ "CreatureTextLocalizer< Builder >", "d9/dff/classCreatureTextLocalizer.html", null ],
     [ "CreatureTextMgr", "dc/d81/classCreatureTextMgr.html", null ],
+    [ "CreatureTextOptions", "d0/d7b/structCreatureTextOptions.html", null ],
     [ "CreatureTypeEntry", "d9/d88/structCreatureTypeEntry.html", null ],
     [ "Acore::CreatureWorker< Do >", "d6/d85/structAcore_1_1CreatureWorker.html", null ],
     [ "CriteriaProgress", "d0/d69/structCriteriaProgress.html", null ],
@@ -2484,6 +2485,7 @@ var hierarchy =
         [ "GameObjectAIFactory< REAL_GO_AI >", "da/df8/structGameObjectAIFactory.html", null ]
       ] ]
     ] ],
+    [ "FakeAura", "d1/d3a/structFakeAura.html", null ],
     [ "Movement::FallInitializer", "dc/d8e/structMovement_1_1FallInitializer.html", null ],
     [ "std::false_type", null, [
       [ "Acore::is_tuple< typename >", "d4/da8/structAcore_1_1is__tuple.html", null ]
@@ -4730,10 +4732,12 @@ var hierarchy =
       [ "CascadeProcSuppressionTest", "d4/d65/classCascadeProcSuppressionTest.html", null ],
       [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ],
       [ "ExtraAttackChainProcTest", "d0/d17/classExtraAttackChainProcTest.html", null ],
+      [ "FindLoopingStartTimeTest", "d9/d79/classFindLoopingStartTimeTest.html", null ],
       [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", null ],
       [ "GameObjectSummonGroupTest", "de/d0c/classGameObjectSummonGroupTest.html", null ],
       [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", null ],
       [ "IntegrationTestFixture", "d2/de4/classIntegrationTestFixture.html", null ],
+      [ "LowLevelsMinPlayersOverrideTest", "dd/d7c/classLowLevelsMinPlayersOverrideTest.html", null ],
       [ "MissileBarrageTest", "d9/d82/classMissileBarrageTest.html", null ],
       [ "PeriodicAbsorbStealthProcTest", "d5/ddc/classPeriodicAbsorbStealthProcTest.html", null ],
       [ "PoolQuestReloadFixTest", "d4/d2d/classPoolQuestReloadFixTest.html", null ],

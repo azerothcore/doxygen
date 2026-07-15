@@ -13,7 +13,6 @@ var structboss__krik__thir_1_1boss__krik__thirAI =
     [ "SpellHitTarget", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ac638264dbb81c0ba004246c0801c4b85", null ],
     [ "SummonedCreatureDies", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
     [ "SummonWatcher", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a9c0e1d97ef039a5b607a54a856f4f51c", null ],
-    [ "_canTalk", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a6031d8dd33d1f1a312bf5212b34d2bd0", null ],
     [ "_firstCall", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a069ed0a0de9d467bb0a9aa0839d510f4", null ],
     [ "_initTalk", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a68a4994c750979b91e46160b0cba77b4", null ],
     [ "_minionInCombat", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ac07e8e45693b3239bc061e5500880833", null ],

@@ -17,8 +17,7 @@ var boss__keristrasza_8cpp =
       [ "EVENT_CRYSTAL_CHAINS", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4", null ],
       [ "EVENT_TAIL_SWEEP", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732", null ],
       [ "EVENT_HEALTH_CHECK", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8", null ],
-      [ "EVENT_ACHIEVEMENT_CHECK", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d", null ],
-      [ "EVENT_KILL_TALK", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_ACHIEVEMENT_CHECK", "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d", null ]
     ] ],
     [ "Yells", "df/d50/boss__keristrasza_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "df/d50/boss__keristrasza_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],

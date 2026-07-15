@@ -4,9 +4,6 @@ var boss__gal__darah_8cpp =
     [ "spell_galdarah_impaling_charge", "d8/d61/classspell__galdarah__impaling__charge.html", "d8/d61/classspell__galdarah__impaling__charge" ],
     [ "spell_galdarah_transform", "d1/df1/classspell__galdarah__transform.html", "d1/df1/classspell__galdarah__transform" ],
     [ "achievement_share_the_love", "d7/de4/classachievement__share__the__love.html", "d7/de4/classachievement__share__the__love" ],
-    [ "Events", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_KILL_TALK", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
-    ] ],
     [ "Spells", "da/de2/boss__gal__darah_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_START_VISUAL", "da/de2/boss__gal__darah_8cpp.html#a5bd342133be8c2137b831460acc9298caed86c17d4265ef0936ff5c0788c88f46", null ],
       [ "SPELL_ENRAGE", "da/de2/boss__gal__darah_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],

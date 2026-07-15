@@ -44,6 +44,7 @@ var boss__general__vezax_8cpp =
       [ "SPELL_CORRUPTED_WISDOM", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ad4717c300512cf000af07535db9faf42", null ],
       [ "SPELL_SHAMANISTIC_RAGE", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb", null ],
       [ "SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7", null ],
+      [ "SPELL_DRUID_CLEARCASTING", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1aee2326b83974734b30b07d367fddc295", null ],
       [ "SPELL_SUMMON_SARONITE_VAPORS", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a2b8edec48cdf6e3374cf2c94cfc7734d", null ],
       [ "NPC_SARONITE_VAPORS", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8", null ],
       [ "SPELL_SARONITE_VAPORS_DMG", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b8f601a6c2e439263cb1622f2a41f47", null ],

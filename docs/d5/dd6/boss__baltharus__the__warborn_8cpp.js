@@ -22,7 +22,6 @@ var boss__baltharus__the__warborn_8cpp =
       [ "EVENT_CHECK_HEALTH1", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab36d747a1c8dd4aa89b59ad5e09afc2d", null ],
       [ "EVENT_CHECK_HEALTH2", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf2720c6d7bcd1ff0e641f33cf445e8a", null ],
       [ "EVENT_CHECK_HEALTH3", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6e893ec8c0b4107222da5e593f4a9ad7", null ],
-      [ "EVENT_KILL_TALK", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_SUMMON_CLONE", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a03b79045f228cb74c77a71edb9a7c96a", null ],
       [ "EVENT_XERESTRASZA_EVENT_0", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae92b6eacbe840058aba98da75b4c574c", null ],
       [ "EVENT_XERESTRASZA_EVENT_1", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb4f5226906ce125fe5bb5d6b655c03b", null ],

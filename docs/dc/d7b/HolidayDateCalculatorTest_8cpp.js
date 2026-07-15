@@ -2,6 +2,12 @@ var HolidayDateCalculatorTest_8cpp =
 [
     [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", "d5/d72/classHolidayDateCalculatorTest" ],
     [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", "d6/d50/classFindStartTimeForStageTest" ],
+    [ "FindLoopingStartTimeTest", "d9/d79/classFindLoopingStartTimeTest.html", "d9/d79/classFindLoopingStartTimeTest" ],
+    [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#ae77ecd1f64fe5f242094011d8fa78936", null ],
+    [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a1f0fa13956199938646650014218b1cf", null ],
+    [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a46846ce0fb1c6b5fa421ee039e4a657e", null ],
+    [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#ade438a4033e5a59df425ed914a53a311", null ],
+    [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#abbeb6626e8514ddaefc48ae4b34a73d6", null ],
     [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a16adef8669d17e4aac23d942cf71573e", null ],
     [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a5f6cead798a7f7186f2c82d3e55e3dba", null ],
     [ "TEST_F", "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a79c8e85eb8522e0bf11a7807ddc64da6", null ],

@@ -19,8 +19,7 @@ var boss__anubarak_8cpp =
       [ "EVENT_SUMMON_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451", null ],
       [ "EVENT_SUMMON_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a", null ],
       [ "EVENT_SUMMON_DARTER", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6", null ],
-      [ "EVENT_SUMMON_ASSASSINS", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804", null ],
-      [ "EVENT_KILL_TALK", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_SUMMON_ASSASSINS", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804", null ]
     ] ],
     [ "Groups", "dd/dd2/boss__anubarak_8cpp.html#aa1a2a48db22cbb885dc5e6bda42b0c22", [
       [ "GROUP_EMERGED", "dd/dd2/boss__anubarak_8cpp.html#aa1a2a48db22cbb885dc5e6bda42b0c22ac6762b2873125ac73a850d2e103ec31a", null ],

@@ -313,24 +313,24 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  282</span>    {</div>
-<div class="line"><span class="lineno">  283</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  284</span>        {</div>
-<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  286</span>        }</div>
-<div class="line"><span class="lineno">  287</span> </div>
-<div class="line"><span class="lineno">  288</span>        <span class="keywordtype">float</span> radius = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcRadius(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>());</div>
-<div class="line"><span class="lineno">  289</span>        <span class="keywordflow">if</span> (!radius)</div>
-<div class="line"><span class="lineno">  290</span>        {</div>
-<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  292</span>        }</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>        <span class="keywordtype">float</span> distance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a73f3c7fa817faebff6b2752ba3bb1a50">GetDistance2d</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>());</div>
-<div class="line"><span class="lineno">  295</span>        <span class="keywordflow">if</span> (distance &gt; 1.0f)</div>
-<div class="line"><span class="lineno">  296</span>        {</div>
-<div class="line"><span class="lineno">  297</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * ((radius - distance) / radius)));</div>
-<div class="line"><span class="lineno">  298</span>        }</div>
-<div class="line"><span class="lineno">  299</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  271</span>    {</div>
+<div class="line"><span class="lineno">  272</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  273</span>        {</div>
+<div class="line"><span class="lineno">  274</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  275</span>        }</div>
+<div class="line"><span class="lineno">  276</span> </div>
+<div class="line"><span class="lineno">  277</span>        <span class="keywordtype">float</span> radius = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcRadius(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>());</div>
+<div class="line"><span class="lineno">  278</span>        <span class="keywordflow">if</span> (!radius)</div>
+<div class="line"><span class="lineno">  279</span>        {</div>
+<div class="line"><span class="lineno">  280</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  281</span>        }</div>
+<div class="line"><span class="lineno">  282</span> </div>
+<div class="line"><span class="lineno">  283</span>        <span class="keywordtype">float</span> distance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a73f3c7fa817faebff6b2752ba3bb1a50">GetDistance2d</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>());</div>
+<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (distance &gt; 1.0f)</div>
+<div class="line"><span class="lineno">  285</span>        {</div>
+<div class="line"><span class="lineno">  286</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * ((radius - distance) / radius)));</div>
+<div class="line"><span class="lineno">  287</span>        }</div>
+<div class="line"><span class="lineno">  288</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassSpellInfo_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition</b> SpellInfo.h:417</div></div>
@@ -343,7 +343,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01313">WorldObject::GetDistance2d()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00301">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00290">Register()</a>.</p>
 
 </div>
 </div>
@@ -397,14 +397,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  302</span>    {</div>
-<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a">spell_gruul_shatter_effect::CalculateDamage</a>);</div>
-<div class="line"><span class="lineno">  304</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  291</span>    {</div>
+<div class="line"><span class="lineno">  292</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a">spell_gruul_shatter_effect::CalculateDamage</a>);</div>
+<div class="line"><span class="lineno">  293</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
-<div class="ttc" id="aclassspell__gruul__shatter__effect_html_a170fb61e3a7358d42cc6506067fb978a"><div class="ttname"><a href="../../db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a">spell_gruul_shatter_effect::CalculateDamage</a></div><div class="ttdeci">void CalculateDamage()</div><div class="ttdef"><b>Definition</b> boss_gruul.cpp:281</div></div>
+<div class="ttc" id="aclassspell__gruul__shatter__effect_html_a170fb61e3a7358d42cc6506067fb978a"><div class="ttname"><a href="../../db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a">spell_gruul_shatter_effect::CalculateDamage</a></div><div class="ttdeci">void CalculateDamage()</div><div class="ttdef"><b>Definition</b> boss_gruul.cpp:270</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00281">CalculateDamage()</a>, <a class="el" href="../../#l00345">SpellScript::OnHit</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00270">CalculateDamage()</a>, <a class="el" href="../../#l00345">SpellScript::OnHit</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -417,7 +417,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d5e/classspell__gruul__shatter__effect.html">spell_gruul_shatter_effect</a></li>
-    <li class="footer">Generated on Tue Jul 14 2026 07:55:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 15 2026 08:00:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

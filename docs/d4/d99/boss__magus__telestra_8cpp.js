@@ -12,8 +12,7 @@ var boss__magus__telestra_8cpp =
       [ "EVENT_MAGUS_HEALTH2", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aad63bcc3bc32a304f4b2e7c424274976", null ],
       [ "EVENT_MAGUS_FAIL_ACHIEVEMENT", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4c66f7ea57166fb31142dd7fd3dbabd2", null ],
       [ "EVENT_MAGUS_MERGED", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1310fcd1582f4e4b54d066f248d9df9c", null ],
-      [ "EVENT_MAGUS_RELOCATE", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8acaf0f6669d6d4bd529b49ca9715194", null ],
-      [ "EVENT_KILL_TALK", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_MAGUS_RELOCATE", "d4/d99/boss__magus__telestra_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8acaf0f6669d6d4bd529b49ca9715194", null ]
     ] ],
     [ "Misc", "d4/d99/boss__magus__telestra_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NPC_FIRE_MAGUS", "d4/d99/boss__magus__telestra_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa625f629a319d94ac8bb3776aaa5f654", null ],

@@ -7,6 +7,5 @@ var structboss__kazrogal =
     [ "JustEngagedWith", "db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
     [ "KilledUnit", "db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa", null ],
     [ "Reset", "db/d1b/structboss__kazrogal.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "db/d1b/structboss__kazrogal.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "_markCounter", "db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a", null ]
 ];

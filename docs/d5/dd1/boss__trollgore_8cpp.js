@@ -11,8 +11,7 @@ var boss__trollgore_8cpp =
       [ "EVENT_SPELL_CRUSH", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad7c88f27cdb8737d7e739ac0aed636d5", null ],
       [ "EVENT_SPELL_CONSUME", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbf622b1440082a1b48fb217be4a18ad", null ],
       [ "EVENT_SPELL_CORPSE_EXPLODE", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad88a3894187c1d3569f3fcdc6042f664", null ],
-      [ "EVENT_SPAWN_INVADERS", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02dde6637b4851f5d691448fb3e6a15f", null ],
-      [ "EVENT_KILL_TALK", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "EVENT_SPAWN_INVADERS", "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02dde6637b4851f5d691448fb3e6a15f", null ]
     ] ],
     [ "Spells", "d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SUMMON_INVADER_A", "d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca855eb4ded5cc72d051020c4570ab3f72", null ],
