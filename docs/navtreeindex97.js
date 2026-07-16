@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a089abece3e94a26f04aa17410f5e39ef":[8,0,0,0,2,2,0,10,8,9],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a1a5ddcb64a0c2f2bb55f53ac2405cd19":[8,0,0,0,2,2,0,10,8,2],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a28eafd5c0cb7bb8e01efbb06f7b34233":[8,0,0,0,2,2,0,10,8,8],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a2d4b85c0008eabeb4461f01bccaf89f8":[8,0,0,0,2,2,0,10,8,10],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a364de25f6fd5bb612f3c4bc96219139b":[8,0,0,0,2,2,0,10,8,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33f0d261e3a684a48700d5958ae0f2e9":[8,0,0,0,1,2,48,7,0,502],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd":[8,0,0,0,1,2,48,7,0,388],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba34a1da5a5c71031de736abc630900af4":[8,0,0,0,1,2,48,7,0,298],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba359fcd3e8b0d320322f99187d076c8fc":[8,0,0,0,1,2,48,7,0,342],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba361d27a4d3da5cefbc7c7d25aecd8e3a":[8,0,0,0,1,2,48,7,0,18],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba36d5d95623fc1a018030767748115b69":[8,0,0,0,1,2,48,7,0,26]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba359fcd3e8b0d320322f99187d076c8fc":[8,0,0,0,1,2,48,7,0,342]
 };

@@ -3,7 +3,7 @@ var structboss__yoggsaron__sara =
     [ "boss_yoggsaron_sara", "d0/d75/structboss__yoggsaron__sara.html#ae980ceb429ca66a9fbd79350e1f3c120", null ],
     [ "AddPortals", "d0/d75/structboss__yoggsaron__sara.html#a2e907912c6a398fd6b2e80771cfcd4aa", null ],
     [ "AttackStart", "d0/d75/structboss__yoggsaron__sara.html#ac415641616399b0e61449da756cdc4d0", null ],
-    [ "DamageTaken", "d0/d75/structboss__yoggsaron__sara.html#a011ba69847dfa9eca5ead750a8db224b", null ],
+    [ "DamageTaken", "d0/d75/structboss__yoggsaron__sara.html#ab41397516bd9e50a44bd78deec4f065f", null ],
     [ "DespawnGossipKeepers", "d0/d75/structboss__yoggsaron__sara.html#a6cb0c616c8dc4916f03db8b3e476f3eb", null ],
     [ "DoAction", "d0/d75/structboss__yoggsaron__sara.html#ac3c61b3b5cc8d95946666805239d2c58", null ],
     [ "EnableSara", "d0/d75/structboss__yoggsaron__sara.html#a442993c5c7a1fba1cbffd99646f67a55", null ],

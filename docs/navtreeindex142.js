@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"d4/dd9/structAchievementCriteriaEntry.html#adbe014d9306e4474df0ea81fbd5e81f2":[7,0,118,108],
+"d4/dd9/structAchievementCriteriaEntry.html#adbe3793eee75fd8f9cb6050e04e7935b":[7,0,118,110],
 "d4/dd9/structAchievementCriteriaEntry.html#adc7dd192a39e1f2b9b0b2fbec1dfe877":[7,0,118,63],
 "d4/dd9/structAchievementCriteriaEntry.html#adcf228c243993fc4772e33e0ad8754e2":[7,0,118,41],
 "d4/dd9/structAchievementCriteriaEntry.html#ade5d89e25c8885bbc7da1868e3793152":[7,0,118,43],
@@ -180,16 +182,16 @@ var NAVTREEINDEX142 =
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a1605d492889200f2d18d6759882913aa":[5,0,0,8,0,19,7],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461":[5,0,0,8,0,19,0],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461":[7,0,0,5,0,19,0],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a611756a2205ffb2bccabb53929a4644b":[5,0,0,8,0,19,5],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a611756a2205ffb2bccabb53929a4644b":[7,0,0,5,0,19,5],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[5,0,0,8,0,19,1],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a611756a2205ffb2bccabb53929a4644b":[5,0,0,8,0,19,5],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[7,0,0,5,0,19,1],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6b693468375cc6b92870194e10eb4140":[7,0,0,5,0,19,3],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[5,0,0,8,0,19,1],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6b693468375cc6b92870194e10eb4140":[5,0,0,8,0,19,3],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[7,0,0,5,0,19,4],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6b693468375cc6b92870194e10eb4140":[7,0,0,5,0,19,3],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[5,0,0,8,0,19,4],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#ad941d54b994fbfe0f572348d18a790be":[7,0,0,5,0,19,2],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[7,0,0,5,0,19,4],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#ad941d54b994fbfe0f572348d18a790be":[5,0,0,8,0,19,2],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#ad941d54b994fbfe0f572348d18a790be":[7,0,0,5,0,19,2],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#af9bece7be346ed85c5b45cc07c7b176a":[5,0,0,8,0,19,6],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#af9bece7be346ed85c5b45cc07c7b176a":[7,0,0,5,0,19,6],
 "d4/de3/structnpc__living__constellation.html":[7,0,1950],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "d4/dea/structnpc__dalaran__mage_1_1npc__dalaran__mageAI.html#ae888e0e5d3302e0a47b6e3d41f166c67":[7,0,1752,0,5],
 "d4/dea/structnpc__dalaran__mage_1_1npc__dalaran__mageAI.html#ae896a065d2975c5f4d0a125261796215":[7,0,1752,0,0],
 "d4/deb/AES_8cpp.html":[8,0,0,0,0,3,1],
-"d4/dec/boss__the__maker_8cpp.html":[8,0,0,0,1,3,7,4,0,3],
-"d4/dec/boss__the__maker_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,0,3,1],
-"d4/dec/boss__the__maker_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,4,0,3,1,0]
+"d4/dec/boss__the__maker_8cpp.html":[8,0,0,0,1,3,7,4,0,3]
 };

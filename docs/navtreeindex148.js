@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3392,3],
+"d5/d34/classspell__item__lifegiving__gem.html#a85333c5f493b70037bcc1a1d42e97e9c":[7,0,3392,1],
 "d5/d34/classspell__item__lifegiving__gem.html#acfafbf43e12f72131e58434051dcc510":[7,0,3392,2],
 "d5/d34/structMovieEntry.html":[7,0,1566],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[7,0,1566,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a5b4a726aa496923d81c41b038e5f7449":[7,0,716,0,3],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a6cfebecaaf673e40f97a46a09947a1f0":[7,0,716,0,1],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a772d279407d724477560898559710433":[7,0,716,0,2],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[7,0,716,0,0],
-"d5/d4a/structzm__beacon.html":[7,0,4662],
-"d5/d4a/structzm__beacon.html#a0107bfd3b1df99568e02d6ca80042c86":[7,0,4662,8]
+"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[7,0,716,0,0]
 };

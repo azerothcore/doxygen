@@ -336,12 +336,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1597</span>    {</div>
-<div class="line"><span class="lineno"> 1598</span>        <span class="keywordflow">if</span> (!eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>() || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
-<div class="line"><span class="lineno"> 1599</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1600</span> </div>
-<div class="line"><span class="lineno"> 1601</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3">HasMechanicTemplateImmunity</a>(1ULL &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>);</div>
-<div class="line"><span class="lineno"> 1602</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1609</span>    {</div>
+<div class="line"><span class="lineno"> 1610</span>        <span class="keywordflow">if</span> (!eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>() || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
+<div class="line"><span class="lineno"> 1611</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1612</span> </div>
+<div class="line"><span class="lineno"> 1613</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ae57fa4c37ca2a3fedb00079f4160bcc7">GetProcTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3">HasMechanicTemplateImmunity</a>(1ULL &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>);</div>
+<div class="line"><span class="lineno"> 1614</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a></div><div class="ttdeci">@ MECHANIC_STUN</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1325</div></div>
 <div class="ttc" id="aclassCreature_html_a8e7b54fd59b12f4f10c19b24627a5dd3"><div class="ttname"><a href="../../db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3">Creature::HasMechanicTemplateImmunity</a></div><div class="ttdeci">bool HasMechanicTemplateImmunity(uint64 mask) const</div><div class="ttdef"><b>Definition</b> Creature.cpp:2229</div></div>
 <div class="ttc" id="aclassObject_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition</b> Object.h:205</div></div>
@@ -350,7 +350,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00462">ProcEventInfo::GetProcTarget()</a>, <a class="el" href="../../#l02229">Creature::HasMechanicTemplateImmunity()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l01325">MECHANIC_STUN</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01604">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01616">Register()</a>.</p>
 
 </div>
 </div>
@@ -404,16 +404,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1605</span>    {</div>
-<div class="line"><span class="lineno"> 1606</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a414fb49ed9bed761a3f2571ae3ef05aa">DoCheckEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a713b066aec82ebd7a48b58703e6d9691">AuraCheckEffectProcFn</a>(<a class="code hl_function" href="../../dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4">spell_mage_deep_freeze_immunity_state::CheckEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 1607</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1617</span>    {</div>
+<div class="line"><span class="lineno"> 1618</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a414fb49ed9bed761a3f2571ae3ef05aa">DoCheckEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a713b066aec82ebd7a48b58703e6d9691">AuraCheckEffectProcFn</a>(<a class="code hl_function" href="../../dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4">spell_mage_deep_freeze_immunity_state::CheckEffectProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 1619</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
-<div class="ttc" id="aSpellScript_8h_html_a713b066aec82ebd7a48b58703e6d9691"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a713b066aec82ebd7a48b58703e6d9691">AuraCheckEffectProcFn</a></div><div class="ttdeci">#define AuraCheckEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:835</div></div>
-<div class="ttc" id="aclassAuraScript_html_a414fb49ed9bed761a3f2571ae3ef05aa"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a414fb49ed9bed761a3f2571ae3ef05aa">AuraScript::DoCheckEffectProc</a></div><div class="ttdeci">HookList&lt; CheckEffectProcHandler &gt; DoCheckEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:834</div></div>
-<div class="ttc" id="aclassspell__mage__deep__freeze__immunity__state_html_af7756cdb71cc2acc15c56fffc49609f4"><div class="ttname"><a href="../../dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4">spell_mage_deep_freeze_immunity_state::CheckEffectProc</a></div><div class="ttdeci">bool CheckEffectProc(AuraEffect const *, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1596</div></div>
+<div class="ttc" id="aSpellScript_8h_html_a713b066aec82ebd7a48b58703e6d9691"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a713b066aec82ebd7a48b58703e6d9691">AuraCheckEffectProcFn</a></div><div class="ttdeci">#define AuraCheckEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:837</div></div>
+<div class="ttc" id="aclassAuraScript_html_a414fb49ed9bed761a3f2571ae3ef05aa"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a414fb49ed9bed761a3f2571ae3ef05aa">AuraScript::DoCheckEffectProc</a></div><div class="ttdeci">HookList&lt; CheckEffectProcHandler &gt; DoCheckEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:836</div></div>
+<div class="ttc" id="aclassspell__mage__deep__freeze__immunity__state_html_af7756cdb71cc2acc15c56fffc49609f4"><div class="ttname"><a href="../../dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4">spell_mage_deep_freeze_immunity_state::CheckEffectProc</a></div><div class="ttdeci">bool CheckEffectProc(AuraEffect const *, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1608</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00835">AuraCheckEffectProcFn</a>, <a class="el" href="../../#l01596">CheckEffectProc()</a>, <a class="el" href="../../#l00834">AuraScript::DoCheckEffectProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00837">AuraCheckEffectProcFn</a>, <a class="el" href="../../#l01608">CheckEffectProc()</a>, <a class="el" href="../../#l00836">AuraScript::DoCheckEffectProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -426,7 +426,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/dfb/classspell__mage__deep__freeze__immunity__state.html">spell_mage_deep_freeze_immunity_state</a></li>
-    <li class="footer">Generated on Wed Jul 15 2026 08:00:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Jul 16 2026 08:06:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

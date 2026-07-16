@@ -1,5 +1,7 @@
 var NAVTREEINDEX105 =
 {
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ab69245d2f874bef9796c151e5a27aaf7":[7,0,1621,0,3],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ac3a32a11e5f99d081371c49363509deb":[7,0,1621,0,12],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ad70b899bedb2b338a306f45e2b4eafd4":[7,0,1621,0,8],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ae959e46865951c2783fe97e824180050":[7,0,1621,0,10],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#aec19da0dd982c643b15dd3f9fae7338e":[7,0,1621,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[7,0,1799,4],
 "d3/d96/structnpc__eye__tentacle.html#a5f89f08634eeb79f0f9ac726cdf1841b":[7,0,1799,2],
 "d3/d96/structnpc__eye__tentacle.html#a715439dfa31b4cf9df7ddd678d912108":[7,0,1799,3],
-"d3/d96/structnpc__eye__tentacle.html#aac965d97034f4f623172297e4f82647e":[7,0,1799,1],
-"d3/d96/structnpc__eye__tentacle.html#aeaa4ec0553480b9490d5e52820c2b77f":[7,0,1799,5],
-"d3/d98/namespaceMageSpellFlags.html":[5,0,18]
+"d3/d96/structnpc__eye__tentacle.html#aac965d97034f4f623172297e4f82647e":[7,0,1799,1]
 };

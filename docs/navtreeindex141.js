@@ -1,5 +1,7 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a8fbaf0ab133a29ab460ec3cdd8d534f3":[8,0,0,0,1,3,7,1,5,16,2],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9b1e4c07831227b3e8a9aaeaa2eb229d":[8,0,0,0,1,3,7,1,5,16,11],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9eb85eaedbf643f0b6bc596a8b719d1e":[8,0,0,0,1,3,7,1,5,16,15],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ab2a6eb0728df4650d5339a15dce2793d":[8,0,0,0,1,3,7,1,5,16,14],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1ab5bc66abb2ba6d57d9fffcac142990a3":[8,0,0,0,1,3,7,1,5,16,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX141 =
 "d4/dd9/structAchievementCriteriaEntry.html#ad54675c37ba0661d5452014656b7547a":[7,0,118,14],
 "d4/dd9/structAchievementCriteriaEntry.html#ad814974edc13b0ad59aa7ed178fd93f6":[7,0,118,25],
 "d4/dd9/structAchievementCriteriaEntry.html#ad8ee991ffab7388d713c438db372f199":[7,0,118,98],
-"d4/dd9/structAchievementCriteriaEntry.html#adb080c7935d608545ec2fb7a31cab34f":[7,0,118,87],
-"d4/dd9/structAchievementCriteriaEntry.html#adbe014d9306e4474df0ea81fbd5e81f2":[7,0,118,108],
-"d4/dd9/structAchievementCriteriaEntry.html#adbe3793eee75fd8f9cb6050e04e7935b":[7,0,118,110]
+"d4/dd9/structAchievementCriteriaEntry.html#adb080c7935d608545ec2fb7a31cab34f":[7,0,118,87]
 };

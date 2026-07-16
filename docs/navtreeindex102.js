@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d3/d6d/classspell__dru__wild__growth__aura.html#aa9c1d6c644a3e42b21d1025fc3b06f69":[7,0,2917,0],
+"d3/d6d/classspell__dru__wild__growth__aura.html#ab59a1830ca97e1bda455da330a894d5c":[7,0,2917,4],
 "d3/d6d/classspell__dru__wild__growth__aura.html#abf597eb55f63858528325eef387fc344":[7,0,2917,2],
 "d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0":[7,0,2917,6],
 "d3/d6e/classgo__bear__trap.html":[7,0,1149],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#ae6187c9e1a8b3881140d756f4ee96ec5":[8,0,0,0,1,3,5,6,15,18],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a":[8,0,0,0,1,3,5,6,15,19],
 "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad":[8,0,0,0,1,3,5,6,15,14],
-"d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[8,0,0,0,1,3,5,6,15,17],
-"d3/d79/structboss__hazzarah.html":[7,0,538],
-"d3/d79/structboss__hazzarah.html#a18e382c03ff923bb851a9cd8e2541788":[7,0,538,2]
+"d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[8,0,0,0,1,3,5,6,15,17]
 };

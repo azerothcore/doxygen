@@ -1,5 +1,7 @@
 var NAVTREEINDEX133 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf4b3b7a5e8b4481dcb60a25093408bb2":[8,0,0,0,1,3,5,2,1,1,52,1],
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf95e858c15a693439ecb90ffa84284f5":[8,0,0,0,1,3,5,2,1,1,52,4],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ff":[8,0,0,0,1,3,5,2,1,1,62],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa1df5528670cb103391cd23efcd3e95ba":[8,0,0,0,1,3,5,2,1,1,62,2],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ffa49b64ec43e205ab38891e35d2785209e":[8,0,0,0,1,3,5,2,1,1,62,4],
@@ -242,12 +244,10 @@ var NAVTREEINDEX133 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[7,0,3085,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[7,0,3085,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[7,0,3085,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,8],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,8,1],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,8,1]
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,8,0]
 };

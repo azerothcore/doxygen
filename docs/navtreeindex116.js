@@ -1,5 +1,7 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#af88d4fc6135fec754944f18ed15df708":[7,0,1318,63],
+"d3/dd6/structinstance__blackrock__depths.html#afbd9fa7f45d2d673c2d6750bf59a6f5d":[7,0,1318,6],
 "d3/dd7/classinstance__trial__of__the__crusader.html":[7,0,1376],
 "d3/dd7/classinstance__trial__of__the__crusader.html#a764d871d02e4ff53b7cc3a8637dcddf9":[7,0,1376,1],
 "d3/dd7/classinstance__trial__of__the__crusader.html#a792034e9e5687bf5fa543175692bed66":[7,0,1376,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX116 =
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[7,0,2692,4],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a6d552ff58f7bb267cf4d20f2f5aedc7a":[7,0,2692,3],
 "d3/de7/classspell__q12459__seeds__of__natures__wrath.html":[7,0,3891],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[7,0,3891,0],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a7936186af106ae3ddeec3bc9b39ff127":[7,0,3891,1],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#aa8ce1f0413e19d8f6d403b220fc6749c":[7,0,3891,2]
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[7,0,3891,0]
 };

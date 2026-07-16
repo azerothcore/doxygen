@@ -7,7 +7,6 @@ var zone__thousand__needles_8cpp =
     [ "npc_plucky", "d7/d78/classnpc__plucky.html", "d7/d78/classnpc__plucky" ],
     [ "npc_plucky::npc_pluckyAI", "d1/d11/structnpc__plucky_1_1npc__pluckyAI.html", "d1/d11/structnpc__plucky_1_1npc__pluckyAI" ],
     [ "spell_panther_cage_key", "d5/d04/classspell__panther__cage__key.html", "d5/d04/classspell__panther__cage__key" ],
-    [ "GOSSIP_P", "de/dcc/zone__thousand__needles_8cpp.html#abe76f0bf6cd768a947537874b5a56330", null ],
     [ "Lakota", "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
       [ "SAY_LAKO_START", "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
       [ "SAY_LAKO_LOOK_OUT", "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
@@ -34,7 +33,9 @@ var zone__thousand__needles_8cpp =
     [ "Plucky", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
       [ "QUEST_SCOOP", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
       [ "SPELL_PLUCKY_HUMAN", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
-      [ "SPELL_PLUCKY_CHICKEN", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
+      [ "SPELL_PLUCKY_CHICKEN", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ],
+      [ "GOSSIP_MENU_PLUCKY", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ab51d50141e1bd6bb328482e0dd5dbeaf", null ],
+      [ "GOSSIP_OPTION_PHRASE", "de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a978e3e1b19e22b89304642e4a49f66aa", null ]
     ] ],
     [ "AddSC_thousand_needles", "de/dcc/zone__thousand__needles_8cpp.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
     [ "BanditLoc", "de/dcc/zone__thousand__needles_8cpp.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
