@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[8,0,0,0,1,2,24,3,25],
 "d9/d84/LootMgr_8h.html#a8015904fb38b1506755242730155cacc":[8,0,0,0,1,2,24,3,36],
 "d9/d84/LootMgr_8h.html#a87bdff8f6fa2a9f948153a770b0512ae":[8,0,0,0,1,2,24,3,35],
 "d9/d84/LootMgr_8h.html#a8c148c99c4a202233809e690e3759993":[8,0,0,0,1,2,24,3,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d8b/structboss__sothos.html#a3f3c0d0a079aad1306b638e8ff34f2f6":[7,0,724,10],
 "d9/d8b/structboss__sothos.html#a5719cd4a85527c256fb7f048be6489f7":[7,0,724,8],
 "d9/d8b/structboss__sothos.html#a5e18256858cd594b45628508500e5f1a":[7,0,724,9],
-"d9/d8b/structboss__sothos.html#a74725d8a4b3ce9fbfb9f06868fa02055":[7,0,724,7],
-"d9/d8b/structboss__sothos.html#aaaf7e317f146bb296c4ba6f57c5f72d4":[7,0,724,2]
+"d9/d8b/structboss__sothos.html#a74725d8a4b3ce9fbfb9f06868fa02055":[7,0,724,7]
 };

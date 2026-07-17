@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/d8b/ItemTemplate_8h.html#a59f191404caead502059bad31a2ce374":[8,0,0,0,1,2,16,4,6,57],
 "db/d8b/ItemTemplate_8h.html#a59f191404caead502059bad31a2ce374a12f6717b2ba149fcefe2c6ea3df0da7c":[8,0,0,0,1,2,16,4,6,57,2],
 "db/d8b/ItemTemplate_8h.html#a59f191404caead502059bad31a2ce374a51cc71250d2085db98a5d189e13e5e10":[8,0,0,0,1,2,16,4,6,57,4],
 "db/d8b/ItemTemplate_8h.html#a59f191404caead502059bad31a2ce374a5b651314950d95e33ec1081b90eef5ac":[8,0,0,0,1,2,16,4,6,57,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/d8d/classinstance__the__eye.html#a685064ba70095a3fc27ae1a8b33d3c88":[7,0,1371,1],
 "db/d8d/classinstance__the__eye.html#a811c7d161469f33ce4fb7d792ce30a4e":[7,0,1371,2],
 "db/d8d/structFireworkShowScheduleEntry.html":[7,0,1075],
-"db/d8d/structFireworkShowScheduleEntry.html#a0c49f62b35e906637890fee896c74951":[7,0,1075,2],
-"db/d8d/structFireworkShowScheduleEntry.html#a5cebf652fccc66cb5f98968036405d14":[7,0,1075,0]
+"db/d8d/structFireworkShowScheduleEntry.html#a0c49f62b35e906637890fee896c74951":[7,0,1075,2]
 };

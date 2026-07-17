@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8d16dbb16a44fbb20bc4735a9be75a82":[8,0,0,0,1,2,48,4,1,478],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8d41df3f64a68ce08d35ea37d9d1f150":[8,0,0,0,1,2,48,4,1,122],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8d50a88973ad684c4702dd8244dd1e00":[8,0,0,0,1,2,48,4,1,276],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8d6c819ed576d421792df703a33d093e":[8,0,0,0,1,2,48,4,1,143],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/d04/classspell__item__the__eye__of__diminution.html":[7,0,3466],
 "da/d04/classspell__item__the__eye__of__diminution.html#a37e277143b2ae6cd88260776941b59bf":[7,0,3466,2],
 "da/d04/classspell__item__the__eye__of__diminution.html#a5e7d089dd117b6b3a605ea2e8aea0b04":[7,0,3466,1],
-"da/d04/classspell__item__the__eye__of__diminution.html#a6faee23ed5947a904e58bfb38cf01d05":[7,0,3466,0],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html":[7,0,1790,0]
+"da/d04/classspell__item__the__eye__of__diminution.html#a6faee23ed5947a904e58bfb38cf01d05":[7,0,3466,0]
 };

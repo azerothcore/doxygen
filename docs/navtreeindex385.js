@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[7,0,2799,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[7,0,1380,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[7,0,1380,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[7,0,1380,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a6049433795be30eb31e240a4939ad42f":[7,0,2087,0,2],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[7,0,2087,0,4],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[7,0,2087,0,0],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac7c41ebfa7979907aea246af20bcf368":[7,0,2087,0,5],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2087,0,10]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac7c41ebfa7979907aea246af20bcf368":[7,0,2087,0,5]
 };

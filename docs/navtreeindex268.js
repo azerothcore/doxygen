@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/d5a/classAuctionHouseScript.html#acfc00998027675d76436d4d05f578f8c":[7,0,273,7],
 "da/d5a/classAuctionHouseScript.html#aed67026e34ef7e8dd4d975d0b0620463":[7,0,273,3],
 "da/d5a/classAuctionHouseScript.html#af3e9ec3b9834f9d72106430af40e8727":[7,0,273,0],
 "da/d5b/LootScript_8h.html":[8,0,0,0,1,2,38,0,63],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/d6d/cs__message_8cpp.html":[8,0,0,0,1,3,0,31],
 "da/d6d/cs__message_8cpp.html#a85760eb92ac87e8dcb18c91d31f09fc0":[8,0,0,0,1,3,0,31,1],
 "da/d6d/structboss__selin__fireheart.html":[7,0,706],
-"da/d6d/structboss__selin__fireheart.html#a0fc74ba75a482a67d19f4323df1f5e6c":[7,0,706,4],
-"da/d6d/structboss__selin__fireheart.html#a1330c499c04aee849bcbb3ebfe30eb1e":[7,0,706,2]
+"da/d6d/structboss__selin__fireheart.html#a0fc74ba75a482a67d19f4323df1f5e6c":[7,0,706,4]
 };

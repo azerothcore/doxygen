@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"db/d21/structboss__runemaster__molgeim.html#a2d779d09adfd1f19ce3655d8e9740a9f":[7,0,694,2],
 "db/d21/structboss__runemaster__molgeim.html#a33c0a2d070cf6d3d850c840b048de251":[7,0,694,4],
 "db/d21/structboss__runemaster__molgeim.html#a40d0466bfbe6fae8435fb4921bca6c1a":[7,0,694,8],
 "db/d21/structboss__runemaster__molgeim.html#a8d05dd3f38eb24cf5be700328a874ff1":[7,0,694,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "db/d33/structboss__svala_1_1boss__svalaAI.html#ae36faacbbd22ddde8d8f25540e583c14":[7,0,730,0,3],
 "db/d34/ChatPackets_8cpp.html":[8,0,0,0,1,2,39,0,7],
 "db/d35/classspell__dk__will__of__the__necropolis.html":[7,0,2839],
-"db/d35/classspell__dk__will__of__the__necropolis.html#a380b63aec7c567c8db60f4c69a4e6043":[7,0,2839,4],
-"db/d35/classspell__dk__will__of__the__necropolis.html#a5ab2041dcc342b087d8c6fd9b8d2635f":[7,0,2839,0]
+"db/d35/classspell__dk__will__of__the__necropolis.html#a380b63aec7c567c8db60f4c69a4e6043":[7,0,2839,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aec51ad24c8152f7f821576aa2fbaa5ad":[8,0,0,0,1,3,5,7,5,9,1],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,5,10],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dd4744c8d528ca10f6d77005740da62":[8,0,0,0,1,3,5,7,5,10,6],
 "dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298ca8eec3c63909f675d501a55c2edbaf1d4":[8,0,0,0,1,3,5,7,5,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d7d/classZoneScript.html#afa02089edff085ecd4eb7178b94ffe26":[7,0,4664,10],
 "dc/d7d/classZoneScript.html#afaf1aecaaaac82508b8f1c50712b8204":[7,0,4664,12],
 "dc/d7d/classachievement__quick__shave.html":[7,0,90],
-"dc/d7d/classachievement__quick__shave.html#a151c479da3d4cec05999ad8a249b100c":[7,0,90,1],
-"dc/d7d/classachievement__quick__shave.html#a6c2f1e60d2311922abbaf7e22e1e9e4b":[7,0,90,0]
+"dc/d7d/classachievement__quick__shave.html#a151c479da3d4cec05999ad8a249b100c":[7,0,90,1]
 };

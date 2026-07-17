@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/da1/structnpc__sartura__royal__guard.html#a2ed50f65847133c897facecbaa4711d8":[7,0,2115,3],
 "dc/da1/structnpc__sartura__royal__guard.html#a3ce2aeec4e5f26916ef50bdeea624c9d":[7,0,2115,0],
 "dc/da2/classArenaTeamFilterFactoryByUserInput.html":[7,0,202],
 "dc/da2/classArenaTeamFilterFactoryByUserInput.html#a79a78392d31f1fbf3d8475572d570c1c":[7,0,202,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eab39dfed80a659ee419a65a9f70cfecec":[8,0,0,0,1,3,7,3,2,3,2],
 "dc/dae/gruuls__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eaf12a0c8363fc94afbd555850e6a2482a":[8,0,0,0,1,3,7,3,2,3,4],
 "dc/dae/gruuls__lair_8h.html#ae30223b9f59e44b321d94c046c08d7f9":[8,0,0,0,1,3,7,3,2,6],
-"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,3,2,4],
-"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,7,3,2,4,2]
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,3,2,4]
 };

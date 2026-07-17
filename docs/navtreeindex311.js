@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[8,0,0,0,1,3,9,3,42,12],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1":[8,0,0,0,1,3,9,3,42,9],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea66401814c9b4995a8df906456f481b4e":[8,0,0,0,1,3,9,3,42,36],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332":[8,0,0,0,1,3,9,3,42,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748":[8,0,0,0,1,2,45,1,0,0],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ae5939466cf9b4fbb63eb136baf62767f":[8,0,0,0,1,2,45,1,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[8,0,0,0,1,2,45,1,5],
-"db/dfa/CharacterDatabaseCleaner_8h.html#afe5cf638b3ba626c9dc18258d4c528fa":[8,0,0,0,1,2,45,1,1],
-"db/dfa/classnpc__barnes.html":[7,0,1669]
+"db/dfa/CharacterDatabaseCleaner_8h.html#afe5cf638b3ba626c9dc18258d4c528fa":[8,0,0,0,1,2,45,1,1]
 };

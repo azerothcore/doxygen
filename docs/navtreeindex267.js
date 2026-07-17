@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb":[8,0,0,0,1,2,25,1,11,1],
 "da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047":[8,0,0,0,1,2,25,1,11,0],
 "da/d4f/Mail_8h.html#a400524cb6bb97f3dfaa616a2afae05db":[8,0,0,0,1,2,25,1,5],
 "da/d4f/Mail_8h.html#a5f97bcac5adeb0d52a6360c8aa0d0938":[8,0,0,0,1,2,25,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/d5a/classAuctionHouseScript.html#a3bb999a955b7b8670264c859094fe9a0":[7,0,273,8],
 "da/d5a/classAuctionHouseScript.html#a57f1ea958e80a30031eded088dd3c8af":[7,0,273,4],
 "da/d5a/classAuctionHouseScript.html#a622ac5271fb3a5ecf6444fb7fde17ed9":[7,0,273,6],
-"da/d5a/classAuctionHouseScript.html#a6b7ee2a551424c5a8442ce089d0fd1fc":[7,0,273,11],
-"da/d5a/classAuctionHouseScript.html#acfc00998027675d76436d4d05f578f8c":[7,0,273,7]
+"da/d5a/classAuctionHouseScript.html#a6b7ee2a551424c5a8442ce089d0fd1fc":[7,0,273,11]
 };

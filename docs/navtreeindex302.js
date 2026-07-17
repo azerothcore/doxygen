@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aab74ed564cfd021660a0f06b3879680f":[7,0,0,5,0,17,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aad6609f9c4c6af53555823d337af11e4":[7,0,0,5,0,17,5],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aad6609f9c4c6af53555823d337af11e4":[5,0,0,8,0,17,5],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ab53f2e507d41dc1ba9b015ba8292e043":[5,0,0,8,0,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a354273a236074478400a7255958e7205":[8,0,0,0,1,3,10,14,49,0],
 "db/dae/npcs__special_8cpp.html#a6a02751d6ef48d4b8ca7125539cca207a7869330fbc38aa53cc363fb0256985b5":[8,0,0,0,1,3,10,14,49,1],
 "db/dae/npcs__special_8cpp.html#a6c96dbebb9d167df0c52c1a3e2d8611e":[8,0,0,0,1,3,10,14,77],
-"db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344":[8,0,0,0,1,3,10,14,44],
-"db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138":[8,0,0,0,1,3,10,14,67]
+"db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344":[8,0,0,0,1,3,10,14,44]
 };

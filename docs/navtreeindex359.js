@@ -1,5 +1,6 @@
 var NAVTREEINDEX359 =
 {
+"dd/df9/structboss__urok__doomhowl.html#aff302dd58a2f0ef8d801b0b6813d3233":[7,0,769,3],
 "dd/dfa/classaura__class__call__wild__magic.html":[7,0,291],
 "dd/dfa/classaura__class__call__wild__magic.html#a72e043202c587e6c12d0b36d679cd071":[7,0,291,0],
 "dd/dfa/classaura__class__call__wild__magic.html#a7ca007283e34855ee825ae160653f4a3":[7,0,291,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX359 =
 "de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2":[8,0,0,0,1,2,11,0,1,8,1],
 "de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01":[8,0,0,0,1,2,11,0,1,8,3],
 "de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361":[8,0,0,0,1,2,11,0,1,8,7],
-"de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744":[8,0,0,0,1,2,11,0,1,8,6],
-"de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918":[8,0,0,0,1,2,11,0,1,8,2]
+"de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744":[8,0,0,0,1,2,11,0,1,8,6]
 };

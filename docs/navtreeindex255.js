@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"d9/dcd/classnpc__fel__infernal.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9":[7,0,1801,1],
 "d9/dcd/classnpc__fel__infernal.html#a768201a7516c9972800c941cf2079a11":[7,0,1801,2],
 "d9/dcd/classspell__anetheron__sleep.html":[7,0,2628],
 "d9/dcd/classspell__anetheron__sleep.html#a2b7ec1db13418f2e369faab6ec8422b4":[7,0,2628,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "d9/de3/classnpc__pos__collapsing__icicle.html":[7,0,2066],
 "d9/de3/classnpc__pos__collapsing__icicle.html#a42b29fe5d4e106c1e5e5b866a0074664":[7,0,2066,1],
 "d9/de3/classnpc__pos__collapsing__icicle.html#a96969ebe749b49ceb38920c63ec6fce3":[7,0,2066,2],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[7,0,13,11,3],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[5,0,34,11,3]
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[7,0,13,11,3]
 };

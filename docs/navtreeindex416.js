@@ -1,5 +1,6 @@
 var NAVTREEINDEX416 =
 {
+"df/dc9/classCreatureScript.html#ad99f4a96106b9dc5cf9c29304d781d6a":[7,0,956,7],
 "df/dc9/classCreatureScript.html#af19c64d23391f8b835f79bc6cf315caa":[7,0,956,3],
 "df/dc9/classCreatureScript.html#afa0053e299f9125cc288ea38652edecb":[7,0,956,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html":[7,0,1230,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX416 =
 "df/dd9/classUnit.html#a033b0aeec1d1e85ca8836020cb75cb1b":[7,0,4550,728],
 "df/dd9/classUnit.html#a035c71f6b73cfcccf15e66888206e282":[7,0,4550,127],
 "df/dd9/classUnit.html#a036ad4ff6abc98693085f9949bbc29ba":[7,0,4550,548],
-"df/dd9/classUnit.html#a038c33d98f2e26e760ad1849ac6b0195":[7,0,4550,714],
-"df/dd9/classUnit.html#a03b7d419687e45a3dd0a1fc4f94398b3":[7,0,4550,599]
+"df/dd9/classUnit.html#a038c33d98f2e26e760ad1849ac6b0195":[7,0,4550,714]
 };

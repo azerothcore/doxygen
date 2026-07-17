@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"db/dc8/structScriptedAI.html#abfab615775f65c53ec07c3ecfb7c4059":[7,0,2544,4],
 "db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37":[7,0,2544,39],
 "db/dc8/structScriptedAI.html#ac6d4be79fb1966ee5bdd1678ecab1340":[7,0,2544,11],
 "db/dc8/structScriptedAI.html#ac737070ba7a8645d0e0ccf6bd6107004":[7,0,2544,42],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "db/dce/classAura.html#af64f07e2756640cb9caf21433bd4e2b6":[7,0,289,78],
 "db/dce/classAura.html#af70f37c9e40b7038cf952c2969ae9ab2":[7,0,289,92],
 "db/dce/classAura.html#af94996c697b3f790489314b6175ab311":[7,0,289,0],
-"db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20":[7,0,289,108],
-"db/dce/classAura.html#af9803e108cc68b115fec9043b03f1118":[7,0,289,52]
+"db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20":[7,0,289,108]
 };

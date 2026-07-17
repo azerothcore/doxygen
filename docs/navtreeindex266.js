@@ -1,5 +1,6 @@
 var NAVTREEINDEX266 =
 {
+"da/d48/classnpc__spinestalker.html":[7,0,2147],
 "da/d48/classnpc__spinestalker.html#a477f951c79045d553901b1e6b6ad2d4f":[7,0,2147,1],
 "da/d48/classnpc__spinestalker.html#a725f1b1db90d700772bfb76e0f85f1f3":[7,0,2147,2],
 "da/d48/structICNpc.html":[7,0,1305],
@@ -248,6 +249,5 @@ var NAVTREEINDEX266 =
 "da/d4f/Mail_8h.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e":[8,0,0,0,1,2,25,1,10,4],
 "da/d4f/Mail_8h.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72":[8,0,0,0,1,2,25,1,10,2],
 "da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20":[8,0,0,0,1,2,25,1,11],
-"da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a":[8,0,0,0,1,2,25,1,11,2],
-"da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb":[8,0,0,0,1,2,25,1,11,1]
+"da/d4f/Mail_8h.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a":[8,0,0,0,1,2,25,1,11,2]
 };

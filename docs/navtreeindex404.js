@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d37/classHyperlinkDataTokenizer.html#a1fb14152c61205ce31fcf2bfeaeceeaf":[7,0,1299,0],
 "df/d37/classHyperlinkDataTokenizer.html#a42e18263129c27149bf9a91b3dc42418":[7,0,1299,2],
 "df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[7,0,1299,1],
 "df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[7,0,1299,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[8,0,0,0,1,3,7,1,10,15],
 "df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,1,10,17],
 "df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,7,1,10,18],
-"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,1,10,16],
-"df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,7,1,10,19]
+"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,1,10,16]
 };

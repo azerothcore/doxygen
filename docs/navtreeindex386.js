@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2087,0,10],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[7,0,2087,0,6],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[7,0,2087,0,7],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0":[7,0,2087,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298cac74b05f0e56f3e57978e9333f609d793":[8,0,0,0,1,3,2,16,2,3,3],
 "de/d89/boss__grilek_8cpp.html#aa903bbca1cf3f36df966a87d32b80409":[8,0,0,0,1,3,2,16,2,4],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,16,2,2],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa":[8,0,0,0,1,3,2,16,2,2,1],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9197ae5fb459530b43372148da0f977d":[8,0,0,0,1,3,2,16,2,2,5]
+"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa":[8,0,0,0,1,3,2,16,2,2,1]
 };

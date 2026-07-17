@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/d7e/classspell__rog__cut__to__the__chase.html":[7,0,3971],
 "da/d7e/classspell__rog__cut__to__the__chase.html#a88c2793fb6043d4d4e970a99df38681a":[7,0,3971,0],
 "da/d7e/classspell__rog__cut__to__the__chase.html#a9e69ca6fa962ccf17c090243a91b4d51":[7,0,3971,2],
 "da/d7e/classspell__rog__cut__to__the__chase.html#aa2b2e8a0b209d96828ad8c5dd84726b6":[7,0,3971,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/d85/structboss__morogrim__tidewalker.html#a2db94919e6d6f3d4eda4addc4248976e":[7,0,642,4],
 "da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[7,0,642,2],
 "da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[7,0,642,5],
-"da/d86/AuraScriptTestFramework_8h.html":[8,0,0,0,2,1,0],
-"da/d86/AuraScriptTestFramework_8h.html#ab8dc66c27ffce0980153941e8e7ab701":[8,0,0,0,2,1,0,4]
+"da/d86/AuraScriptTestFramework_8h.html":[8,0,0,0,2,1,0]
 };

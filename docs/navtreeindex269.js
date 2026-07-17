@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/d6d/structboss__selin__fireheart.html#a1330c499c04aee849bcbb3ebfe30eb1e":[7,0,706,2],
 "da/d6d/structboss__selin__fireheart.html#a36f409a006a09812452052d554d5e810":[7,0,706,1],
 "da/d6d/structboss__selin__fireheart.html#a396341d39bead723a7c6f716c08aa447":[7,0,706,10],
 "da/d6d/structboss__selin__fireheart.html#a5c874662b9bf518782b2dc824f1eb03d":[7,0,706,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a1b0aef90bfc405ec11a7645cd5f4cb15":[8,0,0,0,1,3,2,4,15,8,30],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a24a573bf62f453c9706f5179dc0e5d5c":[8,0,0,0,1,3,2,4,15,8,34],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214":[8,0,0,0,1,3,2,4,15,8,37],
-"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a38ec7dfb7c2498d7453f47d53c1c0ae3":[8,0,0,0,1,3,2,4,15,8,20],
-"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a39ba7b188f4550553037dcd4032d9899":[8,0,0,0,1,3,2,4,15,8,17]
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a38ec7dfb7c2498d7453f47d53c1c0ae3":[8,0,0,0,1,3,2,4,15,8,20]
 };

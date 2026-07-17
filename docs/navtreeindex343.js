@@ -1,5 +1,6 @@
 var NAVTREEINDEX343 =
 {
+"dd/d3b/structGameObjectTemplate.html#a354e13e46bcce767d7850bf82d4a17b6":[7,0,1120,44],
 "dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[7,0,1120,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[7,0,1120,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[7,0,1120,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX343 =
 "dd/d44/structboss__akilzon.html#af61142c59ca9c5868afe7bc94ca40dcf":[7,0,383,11],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html":[7,0,2084,0],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2084,0,5],
-"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a61f26115382f16f3d65c3d4e1c720f02":[7,0,2084,0,0],
-"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a6b3dd1552b5313dd04d07dc80eef06fe":[7,0,2084,0,2]
+"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#a61f26115382f16f3d65c3d4e1c720f02":[7,0,2084,0,0]
 };

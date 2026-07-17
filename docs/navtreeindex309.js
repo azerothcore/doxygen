@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833":[8,0,0,0,1,3,2,6,4,2,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a86bbb652876f394aaca15b4ed6e2bfa7":[8,0,0,0,1,3,2,6,4,4],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3":[8,0,0,0,1,3,2,6,4,3],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38":[8,0,0,0,1,3,2,6,4,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[5,0,34,28,8],
 "db/de2/structPoolObject.html":[7,0,2438],
 "db/de2/structPoolObject.html#a772dc7bc9e1ce25edba89977bf87e3f0":[7,0,2438,0],
-"db/de2/structPoolObject.html#ae10fa01f5959e231fe2c16d38d9f3615":[7,0,2438,2],
-"db/de2/structPoolObject.html#ae129795bb2f358af900dbc8892502123":[7,0,2438,1]
+"db/de2/structPoolObject.html#ae10fa01f5959e231fe2c16d38d9f3615":[7,0,2438,2]
 };

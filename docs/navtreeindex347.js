@@ -1,5 +1,6 @@
 var NAVTREEINDEX347 =
 {
+"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[7,0,652,6],
 "dd/d78/structboss__netherspite.html#a5610c1eb1e20fb09a0b4680b0170a691":[7,0,652,11],
 "dd/d78/structboss__netherspite.html#a61cf090860a7866ca0222dd79b697b13":[7,0,652,14],
 "dd/d78/structboss__netherspite.html#a98824fb7502f2774fc8e5b2c63eeaa7f":[7,0,652,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d80/structCharmInfo.html#a6f348d8d362564c7a4d150517dccc369":[7,0,880,17],
 "dd/d80/structCharmInfo.html#a70d95a3c96b66b5b7a6619b5a0fb80a7":[7,0,880,49],
 "dd/d80/structCharmInfo.html#a756730463842a6f399a19b6075159729":[7,0,880,6],
-"dd/d80/structCharmInfo.html#a79e1a8a988254a9833313430d44ba11e":[7,0,880,58],
-"dd/d80/structCharmInfo.html#a830ad219cd0f1647154bfd3a27862e4a":[7,0,880,1]
+"dd/d80/structCharmInfo.html#a79e1a8a988254a9833313430d44ba11e":[7,0,880,58]
 };

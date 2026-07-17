@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"dd/de4/structnpc__memory_1_1npc__memoryAI.html#a985c51bbfa2cceeb7601432491253aaf":[7,0,1981,0,2],
 "dd/de4/structnpc__memory_1_1npc__memoryAI.html#ad927d377d60b44f43808469042f5feb9":[7,0,1981,0,0],
 "dd/de5/classspell__item__skyguard__blasting__charges.html":[7,0,3451],
 "dd/de5/classspell__item__skyguard__blasting__charges.html#a365df14504a54e95e7d68d22a284e441":[7,0,3451,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "dd/df9/structboss__urok__doomhowl.html":[7,0,769],
 "dd/df9/structboss__urok__doomhowl.html#acb14f233eff038e0cc2ef0b44cac5357":[7,0,769,1],
 "dd/df9/structboss__urok__doomhowl.html#acf6c649e69b5e7104aa2ffca01fef6dc":[7,0,769,2],
-"dd/df9/structboss__urok__doomhowl.html#af1ee215f3d8d6471587ef184bdb0d47c":[7,0,769,0],
-"dd/df9/structboss__urok__doomhowl.html#aff302dd58a2f0ef8d801b0b6813d3233":[7,0,769,3]
+"dd/df9/structboss__urok__doomhowl.html#af1ee215f3d8d6471587ef184bdb0d47c":[7,0,769,0]
 };

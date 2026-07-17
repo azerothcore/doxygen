@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a4b19d38e2a84097c7c47c434d66be052":[7,0,666,0,10],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a54af3ec8de6d0fdb17ae0499645a02bd":[7,0,666,0,1],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a5b2d80b38623174b7913ed4d893f03c9":[7,0,666,0,11],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a6064594bc0e9bd008b76d498f4cdc36c":[7,0,666,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d78/structboss__netherspite.html#a16a028d881ad1439f699ca9e29c8ce11":[7,0,652,12],
 "dd/d78/structboss__netherspite.html#a24b4282d0004fe07810f9210211a28f4":[7,0,652,7],
 "dd/d78/structboss__netherspite.html#a3eab6bee2123d34e6d85fb519c047f00":[7,0,652,15],
-"dd/d78/structboss__netherspite.html#a41665f388b5abcf6d64e6f58326fe0cc":[7,0,652,0],
-"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[7,0,652,6]
+"dd/d78/structboss__netherspite.html#a41665f388b5abcf6d64e6f58326fe0cc":[7,0,652,0]
 };

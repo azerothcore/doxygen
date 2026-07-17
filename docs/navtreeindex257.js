@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"d9/df5/classspell__gen__elune__candle.html":[7,0,3031],
 "d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[7,0,3031,3],
 "d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[7,0,3031,0],
 "d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[7,0,3031,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3ade85de3cd9b6f69e9275d80818c425":[8,0,0,0,1,3,5,9,2,16,5,9],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a3eded988193ac9d874f3ceb16304781e":[8,0,0,0,1,3,5,9,2,16,5,37],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a403efeda2a088975e41ad8006db7f3f8":[8,0,0,0,1,3,5,9,2,16,5,39],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1":[8,0,0,0,1,3,5,9,2,16,5,15],
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a41c6772c0f791c3dc8f565a8ad2dbaa9":[8,0,0,0,1,3,5,9,2,16,5,47]
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1":[8,0,0,0,1,3,5,9,2,16,5,15]
 };

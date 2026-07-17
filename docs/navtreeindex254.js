@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ab08f49aabe76b623496da2fc0198a6c1":[7,0,456,0,1],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ac87b3ea34e9781f3843321ef874321fe":[7,0,456,0,0],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ae5d33f728077d5bbc3b7d74db8015f5d":[7,0,456,0,5],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#af4cc6489905f9702999cc23fd6a920c2":[7,0,456,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[7,0,2219,1],
 "d9/dcc/classnpc__torturer__lecraft.html#abdc8b33cd820c5cd14c999e7407897fe":[7,0,2219,2],
 "d9/dcd/MapInstanced_8h.html":[8,0,0,0,1,2,26,8],
-"d9/dcd/classnpc__fel__infernal.html":[7,0,1801],
-"d9/dcd/classnpc__fel__infernal.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9":[7,0,1801,1]
+"d9/dcd/classnpc__fel__infernal.html":[7,0,1801]
 };

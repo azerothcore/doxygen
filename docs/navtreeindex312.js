@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"db/dfa/classnpc__barnes.html":[7,0,1669],
 "db/dfa/classnpc__barnes.html#a47cafa3628d2ca99582140f2a72ff8db":[7,0,1669,3],
 "db/dfa/classnpc__barnes.html#a4e349ede566d9be90b82e7ebd9d71de3":[7,0,1669,2],
 "db/dfa/classnpc__barnes.html#aa04d577e318f16f581f82761b6014eb5":[7,0,1669,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,4,8,0,10,1],
 "db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[8,0,0,0,1,3,4,8,0,10,0],
 "db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463eaa4d13c017e0fc9745738ee9f2c912fa5":[8,0,0,0,1,3,4,8,0,10,2],
-"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,8,0,11],
-"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca065403a9c2770025d5996f808abf3e8f":[8,0,0,0,1,3,4,8,0,11,0]
+"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,8,0,11]
 };

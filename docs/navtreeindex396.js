@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/de9/SpellProcEquipmentTest_8cpp.html#a826e1a2b9df391b416c0bf8d9586a5ad":[8,0,0,0,2,2,0,10,18,21],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a8fcc51445a9700485ee8b28376c6c117":[8,0,0,0,2,2,0,10,18,19],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a90735b3ce2720109328c57102ce1e440":[8,0,0,0,2,2,0,10,18,27],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a9b1b2f9c2ec8710cd92e02376c5b8b56":[8,0,0,0,2,2,0,10,18,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[7,0,1295,0],
 "de/df4/classUnboundPlagueTargetSelector.html":[7,0,4548],
 "de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[7,0,4548,2],
-"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[7,0,4548,1],
-"de/df4/classUnboundPlagueTargetSelector.html#aedde7e013418bf6ff54cf3d3b8a70206":[7,0,4548,0]
+"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[7,0,4548,1]
 };

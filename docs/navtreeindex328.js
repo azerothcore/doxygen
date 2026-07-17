@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dc/d7d/classachievement__quick__shave.html#a6c2f1e60d2311922abbaf7e22e1e9e4b":[7,0,90,0],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html":[7,0,3716],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a125ce6c8dfdc6419b4409c72f74fcf85":[7,0,3716,2],
 "dc/d7d/classspell__pal__glyph__of__holy__light.html#a5992d94317d3da7400d5a9ab115e621e":[7,0,3716,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d8d/classVMAP_1_1TileAssembler.html#a15bb91fa77c238c1204f8f3f56e676a7":[5,0,31,18,9],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a3ed04f54c64010a0ad702b2da4161e3b":[7,0,11,18,5],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a3ed04f54c64010a0ad702b2da4161e3b":[5,0,31,18,5],
-"dc/d8d/classVMAP_1_1TileAssembler.html#a4e020e9814223203177a822a052ddfe4":[7,0,11,18,1],
-"dc/d8d/classVMAP_1_1TileAssembler.html#a4e020e9814223203177a822a052ddfe4":[5,0,31,18,1]
+"dc/d8d/classVMAP_1_1TileAssembler.html#a4e020e9814223203177a822a052ddfe4":[7,0,11,18,1]
 };

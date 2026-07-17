@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/d36/classspell__chapter2__persuasive__strike.html#affe2cd261752db89b1b418eb18a3370c":[7,0,2737,1],
 "da/d37/structEventMap_1_1Event.html":[7,0,1055,0],
 "da/d37/structEventMap_1_1Event.html#a0c6f6d46b2210c42e41fbeb1241c9e7d":[7,0,1055,0,1],
 "da/d37/structEventMap_1_1Event.html#a7b60d3d526fd45833d87165d8356f896":[7,0,1055,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/d48/adtfile_8h.html#a5e577b4c8e75312883ba4e8c571908ca":[8,0,0,0,3,4,2,6],
 "da/d48/adtfile_8h.html#abdc56edc46e0804c456749761cff8daf":[8,0,0,0,3,4,2,4],
 "da/d48/adtfile_8h.html#ac0029be4572a61d00eb1435db5526a74":[8,0,0,0,3,4,2,3],
-"da/d48/adtfile_8h.html#ac3f75fc482c41471364c2c3e8bd1dd96":[8,0,0,0,3,4,2,5],
-"da/d48/classnpc__spinestalker.html":[7,0,2147]
+"da/d48/adtfile_8h.html#ac3f75fc482c41471364c2c3e8bd1dd96":[8,0,0,0,3,4,2,5]
 };

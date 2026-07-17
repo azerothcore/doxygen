@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a47cdf4e03ced76b0d17a26165994f220":[8,0,0,0,1,3,7,5,3,1,1,1],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,5,3,1,1,2],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a16774215bba3b38580ea51987d64cff1acf921de439ae53b12be3c6c7b63438b8":[8,0,0,0,1,3,7,5,3,1,1,4],
 "dc/db6/boss__gatewatcher__ironhand_8cpp.html#a490f828a77063f37fdf34abf92a3d97c":[8,0,0,0,1,3,7,5,3,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dc9/ObjectGuid_8h.html#a5951d383f157ff0ed6d23ecef2213a4b":[8,0,0,0,1,2,16,5,5,12],
 "dc/dc9/ObjectGuid_8h.html#a62874da4f73709809fa3c7609d3e30af":[8,0,0,0,1,2,16,5,5,13],
 "dc/dc9/ObjectGuid_8h.html#a94ab551ce00fd82dea1532d47ad908bc":[8,0,0,0,1,2,16,5,5,20],
-"dc/dc9/ObjectGuid_8h.html#a95f3a6eef334b9fcdcaca879532c25d4":[8,0,0,0,1,2,16,5,5,22],
-"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750":[8,0,0,0,1,2,16,5,5,16]
+"dc/dc9/ObjectGuid_8h.html#a95f3a6eef334b9fcdcaca879532c25d4":[8,0,0,0,1,2,16,5,5,22]
 };

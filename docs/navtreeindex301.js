@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"db/da0/classnpc__ravenous__furbolg.html":[7,0,2099],
 "db/da0/classnpc__ravenous__furbolg.html#a1d7adf8eb055cb6ba82db2f173256fe9":[7,0,2099,1],
 "db/da0/classnpc__ravenous__furbolg.html#a284c366e6f5bd024d9627a83dd966669":[7,0,2099,2],
 "db/da0/classspell__sha__earthen__power.html":[7,0,4036],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a9e6a191ab52d02cb00e06ee451ad2cdd":[5,0,0,8,0,17,4],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aa42fdd06b21123d4386e5091504e7ec5":[7,0,0,5,0,17,9],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aa42fdd06b21123d4386e5091504e7ec5":[5,0,0,8,0,17,9],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aab74ed564cfd021660a0f06b3879680f":[5,0,0,8,0,17,17],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aab74ed564cfd021660a0f06b3879680f":[7,0,0,5,0,17,17]
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#aab74ed564cfd021660a0f06b3879680f":[5,0,0,8,0,17,17]
 };

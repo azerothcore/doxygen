@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"de/df4/classUnboundPlagueTargetSelector.html#aedde7e013418bf6ff54cf3d3b8a70206":[7,0,4548,0],
 "de/df4/cs__cache_8cpp.html":[8,0,0,0,1,3,0,7],
 "de/df4/cs__cache_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[8,0,0,0,1,3,0,7,1],
 "de/df5/classOutdoorPvPNA.html":[7,0,2364],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[7,0,4580,1],
 "df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[7,0,4580,4],
 "df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[7,0,4580,5],
-"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[7,0,4580,0],
-"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[7,0,4580,3]
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[7,0,4580,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6f4705e38326fefababf9b44fcc088c":[5,0,28,6,3],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6f9c59b96efbdfccf0e89aed19d8462":[5,0,28,6,507],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab70c47b254409bc7429a32b9e3188487":[5,0,28,6,107],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab77729a9cff0f7a91629222981580ec4":[5,0,28,6,461],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[7,0,3418,1],
 "dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[7,0,3418,3],
 "dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[7,0,3418,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[7,0,3418,5],
-"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[7,0,3418,2]
+"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[7,0,3418,5]
 };

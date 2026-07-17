@@ -1,5 +1,6 @@
 var NAVTREEINDEX280 =
 {
+"da/dbf/TypeContainerFunctionsPtr_8h.html#a6823f2f647f14752459f26981d4c26b7":[8,0,0,0,0,6,6,1],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#a6c9d620966c3418af1971dc8326ccb4a":[8,0,0,0,0,6,6,5],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#a9113786a11594dfcecc6d3bb4e1aadb2":[8,0,0,0,0,6,6,10],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ac344e92ea8d73f94dc08c6a52001ec3e":[8,0,0,0,0,6,6,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX280 =
 "da/dd9/classspell__gen__proc__on__victim.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88":[7,0,3087,0],
 "da/dda/classspell__sha__t10__elemental__4p__bonus.html":[7,0,4071],
 "da/dda/classspell__sha__t10__elemental__4p__bonus.html#a43ec587b6e8ac94baba7253dfec47640":[7,0,4071,1],
-"da/dda/classspell__sha__t10__elemental__4p__bonus.html#ad0824cc4c53915239d609aa117fc4691":[7,0,4071,2],
-"da/dda/classspell__sha__t10__elemental__4p__bonus.html#afb4fb2152937e62982aab2a17820d1d9":[7,0,4071,0]
+"da/dda/classspell__sha__t10__elemental__4p__bonus.html#ad0824cc4c53915239d609aa117fc4691":[7,0,4071,2]
 };

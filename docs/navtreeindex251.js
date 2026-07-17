@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"d9/d8b/structboss__sothos.html#aaaf7e317f146bb296c4ba6f57c5f72d4":[7,0,724,2],
 "d9/d8b/structboss__sothos.html#ace8a0c92ec3ab3e76cceb63c5b4a277b":[7,0,724,4],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html":[8,0,0,0,1,3,2,4,10],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a476e8ae7aed8806ba0a2d27be5703e1b":[8,0,0,0,1,3,2,4,10,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac2342c996dae69a2a9ce6317af3faa15":[8,0,0,0,1,3,2,15,8,5,0],
 "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744adcbe0bc3f26a53496f509add9b12cb24":[8,0,0,0,1,3,2,15,8,5,7],
 "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744adf6b7f3b07fcb2dd3869871d41c96420":[8,0,0,0,1,3,2,15,8,5,13],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aec695c41f1e7a100182585c0bda3d1c9":[8,0,0,0,1,3,2,15,8,5,8],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aef20e95909479b9ffbe6b99415eb85e0":[8,0,0,0,1,3,2,15,8,5,6]
+"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744aec695c41f1e7a100182585c0bda3d1c9":[8,0,0,0,1,3,2,15,8,5,8]
 };

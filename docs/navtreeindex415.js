@@ -1,5 +1,6 @@
 var NAVTREEINDEX415 =
 {
+"df/dbb/structboss__flame__leviathan.html#a2a095fed2c62ef3c9158a6b9d99bbe0e":[7,0,485,25],
 "df/dbb/structboss__flame__leviathan.html#a34cc75361cfbec3fd1f387d358031a1e":[7,0,485,7],
 "df/dbb/structboss__flame__leviathan.html#a3f4544b71913d7ece2b299891597db8e":[7,0,485,13],
 "df/dbb/structboss__flame__leviathan.html#a4238459188526ce304c44b93b2e86dcd":[7,0,485,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX415 =
 "df/dc9/classCreatureScript.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b":[7,0,956,9],
 "df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f":[7,0,956,5],
 "df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979":[7,0,956,8],
-"df/dc9/classCreatureScript.html#aba2be0f342cb9811bd0ebee954d7d36e":[7,0,956,10],
-"df/dc9/classCreatureScript.html#ad99f4a96106b9dc5cf9c29304d781d6a":[7,0,956,7]
+"df/dc9/classCreatureScript.html#aba2be0f342cb9811bd0ebee954d7d36e":[7,0,956,10]
 };

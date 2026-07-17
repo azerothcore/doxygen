@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[7,0,329,228],
 "df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[7,0,329,47],
 "df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[7,0,329,200],
 "df/da7/classBattleground.html#a34b10848a91db884b565b5b2f8e5085c":[7,0,329,68],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2220,0,4],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2220,0,7],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2220,0,3],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2220,0,6],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a98c18794124922e6946a82a324410837":[7,0,2220,0,1]
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2220,0,6]
 };

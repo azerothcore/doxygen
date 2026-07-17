@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa37866f2117a07a9d45dab441f33647af":[8,0,0,0,1,2,13,1,12,25],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa39890b6018a36386cee820c5c5d4b588":[8,0,0,0,1,2,13,1,12,23],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa39dcf73133a04df4cd96f4e71b4f034a":[8,0,0,0,1,2,13,1,12,15],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa3a2a275e4c42e0e1191b9196b141f003":[8,0,0,0,1,2,13,1,12,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1752,1],
 "de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[7,0,1752,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html":[7,0,304],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[7,0,304,4],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#a5846630b9df94b9f4784e59e7f320257":[7,0,304,1]
+"de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[7,0,304,4]
 };

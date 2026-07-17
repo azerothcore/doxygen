@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d8/d82/structAchievementCategoryEntry.html#a705e301dff461a8d7aefdc6fb29d39cc":[7,0,115,1],
 "d8/d83/blackwing__lair_8h.html":[8,0,0,0,1,3,2,1,2,0],
 "d8/d83/blackwing__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,1,2,0,1],
 "d8/d83/blackwing__lair_8h.html#a0661af2e41b6765f7a800eb4a9b37a62":[8,0,0,0,1,3,2,1,2,0,6],
@@ -109,10 +110,10 @@ var NAVTREEINDEX230 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4567,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4567,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4567,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,585],
@@ -190,8 +191,8 @@ var NAVTREEINDEX230 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,0,8,0,22],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[7,0,0,5,0,22,8],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[5,0,0,8,0,22,8],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[7,0,0,5,0,22,7],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[5,0,0,8,0,22,7],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[7,0,0,5,0,22,7],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[7,0,0,5,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[5,0,0,8,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[7,0,0,5,0,22,4],
@@ -206,8 +207,8 @@ var NAVTREEINDEX230 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[7,0,0,5,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,0,8,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[7,0,0,5,0,22,1],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[7,0,0,5,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,0,8,0,22,10],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[7,0,0,5,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,0,8,0,22,6],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[7,0,0,5,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[8,0,0,0,1,2,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a3e6898dbc2ee537b1ceb3ec010f41e9a":[8,0,0,0,1,3,5,9,2,5,11,2],
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a4085e50ab24b1c850f3d2bd794e7bcfd":[8,0,0,0,1,3,5,9,2,5,11,10],
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a4429f60bd78c6a9ed9807e56dcd85468":[8,0,0,0,1,3,5,9,2,5,11,4],
-"d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a6a9dab42d0ab9faad58f5a6150641dba":[8,0,0,0,1,3,5,9,2,5,11,6],
-"d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,9,2,5,11,9]
+"d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a6a9dab42d0ab9faad58f5a6150641dba":[8,0,0,0,1,3,5,9,2,5,11,6]
 };

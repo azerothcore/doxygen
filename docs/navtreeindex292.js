@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/d62/classOutdoorPvPMgr.html#ad07d15d5bbdf9d2e67a576d61e942b40":[7,0,2363,21],
 "db/d62/classOutdoorPvPMgr.html#ad39bacd781ddb165c680758643a54c56":[7,0,2363,13],
 "db/d62/classRegularGrid2D.html":[7,0,2515],
 "db/d62/classRegularGrid2D.html#a038d866c2d0b029b1b60991f0d7ac106":[7,0,2515,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/d6e/spell__item_8cpp.html#a21dcbee6643358d14668567243494c74":[8,0,0,0,1,3,9,4,270],
 "db/d6e/spell__item_8cpp.html#a21dcbee6643358d14668567243494c74a141bde7ef2f1ef5b7344825d5de01c05":[8,0,0,0,1,3,9,4,270,0],
 "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047":[8,0,0,0,1,3,9,4,228],
-"db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047a1376cca2fd34264140899d4a0c67a354":[8,0,0,0,1,3,9,4,228,4],
-"db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047a17fbd439c3695d277bc2b57b546fd698":[8,0,0,0,1,3,9,4,228,0]
+"db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047a1376cca2fd34264140899d4a0c67a354":[8,0,0,0,1,3,9,4,228,4]
 };

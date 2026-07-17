@@ -49,6 +49,7 @@ var LoginDatabase_8h =
       [ "LOGIN_UPD_LAST_ATTEMPT_IP", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba51a9baeacbb62b6c0a13f7be09e09792", null ],
       [ "LOGIN_UPD_ACCOUNT_ONLINE", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c6bf80dfd213b44e55395bc10e8ab0d", null ],
       [ "LOGIN_UPD_UPTIME_PLAYERS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba23af6192d23e6544e562ebe43f7e2b61", null ],
+      [ "LOGIN_UPD_REALM_ONLINE", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba36d10322c3f5f423576315b3d1fd4b6b", null ],
       [ "LOGIN_DEL_OLD_LOGS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbadf8e0a6fd09e4c466ccac9c553eda4df", null ],
       [ "LOGIN_DEL_ACCOUNT_ACCESS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba52284772870b1649e11a21df1af04991", null ],
       [ "LOGIN_DEL_ACCOUNT_ACCESS_BY_REALM", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5ab":[8,0,0,0,1,2,16,3,2,8],
 "dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650":[8,0,0,0,1,2,16,3,2,8,1],
 "dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e":[8,0,0,0,1,2,16,3,2,8,0],
 "dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e":[8,0,0,0,1,2,16,3,2,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/da3/structSpellProcEntry.html#aea5ca609c75ea7b314aec8ae0246297e":[7,0,4428,1],
 "dd/da4/Logger_8h.html":[8,0,0,0,0,9,12],
 "dd/da4/TransportMgr_8h.html":[8,0,0,0,1,2,26,17],
-"dd/da4/TransportMgr_8h.html#a05990a03a3ab902d6d79e9f33385b605":[8,0,0,0,1,2,26,17,12],
-"dd/da4/TransportMgr_8h.html#a41b04a0a994912eda6d213e37d97a0a9":[8,0,0,0,1,2,26,17,8]
+"dd/da4/TransportMgr_8h.html#a05990a03a3ab902d6d79e9f33385b605":[8,0,0,0,1,2,26,17,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7aebcdfc938aad8e15f24f026994dbb":[8,0,0,0,1,2,41,0,0,6,298],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08":[8,0,0,0,1,2,41,0,0,6,69],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7caec06da12516fc003278d36a7d07a":[8,0,0,0,1,2,41,0,0,6,101],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7eb197a8bd93b47521695875517c14e":[8,0,0,0,1,2,41,0,0,6,149],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/d36/classspell__chapter2__persuasive__strike.html":[7,0,2737],
 "da/d36/classspell__chapter2__persuasive__strike.html#a90a11fb3309325c93e7c052e172a0d0b":[7,0,2737,2],
 "da/d36/classspell__chapter2__persuasive__strike.html#aa06c722fbd75f11fa3ba43c77e68f15f":[7,0,2737,0],
-"da/d36/classspell__chapter2__persuasive__strike.html#aaadaf49a3757e78d69ffc32768945d16":[7,0,2737,3],
-"da/d36/classspell__chapter2__persuasive__strike.html#affe2cd261752db89b1b418eb18a3370c":[7,0,2737,1]
+"da/d36/classspell__chapter2__persuasive__strike.html#aaadaf49a3757e78d69ffc32768945d16":[7,0,2737,3]
 };

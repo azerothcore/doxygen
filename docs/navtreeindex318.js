@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7ae998459bacd411ec1d5bd96c434c9e4a":[8,0,0,0,1,3,5,9,2,6,29,24],
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7aea9e401b592974c50b5705f0fc267851":[8,0,0,0,1,3,5,9,2,6,29,16],
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7af99dcf0ab0e03ee261f6d13c166f99c0":[8,0,0,0,1,3,5,9,2,6,29,13],
-"dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7afda985944020ae0cc45ae864da535d35":[8,0,0,0,1,3,5,9,2,6,29,15],
-"dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7afe1e44fa82ead98d2175525f68e7f7d8":[8,0,0,0,1,3,5,9,2,6,29,27]
+"dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7afda985944020ae0cc45ae864da535d35":[8,0,0,0,1,3,5,9,2,6,29,15]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX423 =
 {
+"df/de7/cs__cast_8cpp.html":[8,0,0,0,1,3,0,8],
 "df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,8,1],
 "df/de9/classspell__pri__power__word__shield.html":[7,0,3797],
 "df/de9/classspell__pri__power__word__shield.html#a2edd0bcaa3b026cc70f9f6b58f53f486":[7,0,3797,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX423 =
 "df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,650,0],
 "df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[7,0,650,9],
 "df/df6/classspell__putricide__mutated__transformation.html":[7,0,3820],
-"df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3820,2],
-"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[7,0,3820,1]
+"df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3820,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/d4d/classmisc__commandscript.html#af7e879af94a5c48cd3c1194fdc118ec8":[7,0,1538,40],
 "d9/d4d/classmisc__commandscript.html#af8985f244751551efc7003b4510b8ea8":[7,0,1538,44],
 "d9/d4e/classboss__epoch.html":[7,0,460],
 "d9/d4e/classboss__epoch.html#a2673a4fb8c70d62009dfdc6daf23aee2":[7,0,460,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a81e8830ce306f6cfbcd04c92d3e0cc7f":[5,0,0,2,15],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,0,2,12],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#aca39508e7753f6ca5d9aa21a854c0a77":[5,0,0,2,16],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
-"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115]
+"d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13]
 };

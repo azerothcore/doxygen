@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/d8d/DBCStores_8cpp.html#a42baed7461a4b3c861402669d215cb9d":[8,0,0,0,1,2,14,0,79],
 "dd/d8d/DBCStores_8cpp.html#a4702d03a245a571da652d6c354d94cff":[8,0,0,0,1,2,14,0,99],
 "dd/d8d/DBCStores_8cpp.html#a48f208d73a9f906cf5f8f92d8d885fa9":[8,0,0,0,1,2,14,0,123],
 "dd/d8d/DBCStores_8cpp.html#a4a930a4ab8f7f7b96f932b5f22ac82ac":[8,0,0,0,1,2,14,0,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/d96/structnpc__buru__egg.html#abebb96dcb3d653bddd4210da6567fb87":[7,0,1702,3],
 "dd/d97/GameObjectData_8h.html":[8,0,0,0,1,2,16,3,2],
 "dd/d97/GameObjectData_8h.html#a7698721f2eb4f87abac1a64a64ecf676":[8,0,0,0,1,2,16,3,2,6],
-"dd/d97/GameObjectData_8h.html#ac148792c2982ecdddc593bf3871aa520":[8,0,0,0,1,2,16,3,2,7],
-"dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5ab":[8,0,0,0,1,2,16,3,2,8]
+"dd/d97/GameObjectData_8h.html#ac148792c2982ecdddc593bf3871aa520":[8,0,0,0,1,2,16,3,2,7]
 };

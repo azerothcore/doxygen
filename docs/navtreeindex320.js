@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/d34/structboss__murmur.html#a33ef5951ded28d26fbad832ec8c222e3":[7,0,645,6],
 "dc/d34/structboss__murmur.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d":[7,0,645,4],
 "dc/d34/structboss__murmur.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5":[7,0,645,2],
 "dc/d34/structboss__murmur.html#aa0f549c83a92302ece2323c75dd29acc":[7,0,645,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a524434f13a241064cffdabd82ff4d0ee":[5,0,28,6,601],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a524fd8ee5eff40b2758e7df6e551fd45":[5,0,28,6,616],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a52b754b8b25ec298321e9b8fe70d075a":[5,0,28,6,340],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a531dc9284dc06f6636e8f2f8c8fc71a4":[5,0,28,6,523],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a5380cde3704b0939446150930f5858aa":[5,0,28,6,127]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a531dc9284dc06f6636e8f2f8c8fc71a4":[5,0,28,6,523]
 };

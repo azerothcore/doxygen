@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,7,1,10,19],
 "df/d42/zone__ashenvale_8cpp.html":[8,0,0,0,1,3,4,14],
 "df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[8,0,0,0,1,3,4,14,5],
 "df/d42/zone__ashenvale_8cpp.html#a44aaebd71b577ea90de1a8b853f557ed":[8,0,0,0,1,3,4,14,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#afc9dbd840048c0031231bcdb7b2fcf04":[5,0,0,7,0,13],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html":[7,0,1648,0],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a23c200f2c7b9f5d02bed7af37bc69c33":[7,0,1648,0,2],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a25bc023e061a0845421a652b571a6e1e":[7,0,1648,0,4],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a27155b8880a2a86b733bcd074e977b59":[7,0,1648,0,1]
+"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a25bc023e061a0845421a652b571a6e1e":[7,0,1648,0,4]
 };

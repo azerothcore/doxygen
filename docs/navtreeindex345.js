@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca717f0f96796c5ba79a4cb9067e5abf9a":[8,0,0,0,1,3,4,9,7,9,13],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,4,9,7,9,5],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,4,9,7,9,4],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca93d7e60cfcfaf823d896f6d2af4b4160":[8,0,0,0,1,3,4,9,7,9,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html":[7,0,666,0],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a0ececc88bc520584d1c7baf8d7a5e7f6":[7,0,666,0,6],
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#a30babeb3c9644af4e9c6cbc879317299":[7,0,666,0,2],
-"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a3bd22d082434895c4779b121f926a8c4":[7,0,666,0,0],
-"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a4b19d38e2a84097c7c47c434d66be052":[7,0,666,0,10]
+"dd/d64/structboss__paletress_1_1boss__paletressAI.html#a3bd22d082434895c4779b121f926a8c4":[7,0,666,0,0]
 };

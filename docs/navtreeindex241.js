@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/d13/classspell__pri__renew.html":[7,0,3800],
 "d9/d13/classspell__pri__renew.html#a50102ae92f44fd7c2bd9afc3fec5a291":[7,0,3800,0],
 "d9/d13/classspell__pri__renew.html#a6e212284f72320356cfa2f0c2a59999d":[7,0,3800,2],
 "d9/d13/classspell__pri__renew.html#a985a52f71371443454d6dd36f7fe83b2":[7,0,3800,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3377],
 "d9/d29/classspell__item__goblin__bomb.html#a0877a96dde66adb988628ebb93fe15b6":[7,0,3377,2],
-"d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[7,0,3377,1],
-"d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[7,0,3377,0]
+"d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[7,0,3377,1]
 };

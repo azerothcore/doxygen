@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d8/dbf/classspell__hallows__end__base__fire.html":[7,0,3176],
 "d8/dbf/classspell__hallows__end__base__fire.html#a1d4b1c43305b3133e4ac7f8b6ce70727":[7,0,3176,4],
 "d8/dbf/classspell__hallows__end__base__fire.html#a3f23e4a8fecf83ba580c904f15e1e98b":[7,0,3176,2],
 "d8/dbf/classspell__hallows__end__base__fire.html#a4321da69ee59416bd50e621b804e5423":[7,0,3176,1],
@@ -69,20 +70,20 @@ var NAVTREEINDEX234 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[8,0,0,0,1,3,2,15,1,4,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,92],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[7,0,0,80],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[7,0,0,80,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,0,92,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,92,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,92,5],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,92,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,92,2],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,92,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[7,0,0,80,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,92,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,0,92,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
 "d8/dc2/classinstance__ulduar.html":[7,0,1378],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[7,0,1378,1],
 "d8/dc2/classinstance__ulduar.html#ae263428f4229c75b22f990dabe6b3c06":[7,0,1378,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,1,4,2],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca00b6c66776a6dde5a70cf1d0849302b1":[8,0,0,0,1,3,7,5,1,4,2,3],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3027bd3bcdc06e0ea4f687afdb22a8":[8,0,0,0,1,3,7,5,1,4,2,2],
-"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca6e5929f7725cfd1dc8c5f093c75fc25a":[8,0,0,0,1,3,7,5,1,4,2,1],
-"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca9245c7efff67ba5f7f5e13c68f6edee3":[8,0,0,0,1,3,7,5,1,4,2,4]
+"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca6e5929f7725cfd1dc8c5f093c75fc25a":[8,0,0,0,1,3,7,5,1,4,2,1]
 };

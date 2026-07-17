@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"da/dbe/structAcore_1_1UnitListSearcher.html":[7,0,0,114],
 "da/dbe/structAcore_1_1UnitListSearcher.html":[5,0,0,126],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a24c0de32dc3baa927962626421a343ae":[5,0,0,126,0],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a24c0de32dc3baa927962626421a343ae":[7,0,0,114,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315":[8,0,0,0,1,2,16,7,5,129],
 "da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315a12d05f2c63b809813d6d54c174f93598":[8,0,0,0,1,2,16,7,5,129,3],
 "da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315a4cf928a289d9c1cdfffc50383ce347e9":[8,0,0,0,1,2,16,7,5,129,0],
-"da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315a78781e33f9bef26795dc1d4080c90636":[8,0,0,0,1,2,16,7,5,129,2],
-"da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315ae8065357c205da7fc10a440372f89188":[8,0,0,0,1,2,16,7,5,129,1]
+"da/dbf/Player_8h.html#a7c33ee51eabd76272609a0ca6e26f315a78781e33f9bef26795dc1d4080c90636":[8,0,0,0,1,2,16,7,5,129,2]
 };

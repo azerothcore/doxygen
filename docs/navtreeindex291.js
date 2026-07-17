@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa99de59401390ffd56a0c649a99bb5984":[8,0,0,0,1,3,9,1,59,21],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9a8ec039dd1fa308bb6c1539e5e2636d":[8,0,0,0,1,3,9,1,59,24],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa9e51503d59b654fcd493dcfb26ec579b":[8,0,0,0,1,3,9,1,59,40],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4":[8,0,0,0,1,3,9,1,59,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d62/classOutdoorPvPMgr.html#aaae2ebe275de3da1282bd48b4dfc2ae9":[7,0,2363,14],
 "db/d62/classOutdoorPvPMgr.html#aae1d441ea9e1715154b8f630b4cd4b2c":[7,0,2363,18],
 "db/d62/classOutdoorPvPMgr.html#ab8f0f56d34805ccf6b7210e390b947f7":[7,0,2363,17],
-"db/d62/classOutdoorPvPMgr.html#ac3c4b3b6df6ae7787ff7072f3f46521f":[7,0,2363,11],
-"db/d62/classOutdoorPvPMgr.html#ad07d15d5bbdf9d2e67a576d61e942b40":[7,0,2363,21]
+"db/d62/classOutdoorPvPMgr.html#ac3c4b3b6df6ae7787ff7072f3f46521f":[7,0,2363,11]
 };

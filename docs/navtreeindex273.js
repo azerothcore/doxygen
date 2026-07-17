@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d86/AuraScriptTestFramework_8h.html#ab8dc66c27ffce0980153941e8e7ab701":[8,0,0,0,2,1,0,4],
 "da/d86/AuraScriptTestFramework_8h.html#ad89bc4ac2d1077d7e73a7e08336ff303":[8,0,0,0,2,1,0,5],
 "da/d86/classspell__toc5__light__rain.html":[7,0,4206],
 "da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[7,0,4206,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/d91/classCreatureTextBuilder.html#ab87c45c49aa07b4434e42b6d7948e8b3":[7,0,960,5],
 "da/d91/classCreatureTextBuilder.html#ac4b4f75821f4ff5855cafca91523cbca":[7,0,960,4],
 "da/d91/classCreatureTextBuilder.html#ac6e3bea125cd2b44a56f899c4aa35e1b":[7,0,960,3],
-"da/d91/classCreatureTextBuilder.html#afcd842c1482980c6232f3f19d21a1481":[7,0,960,7],
-"da/d91/classVMAP_1_1ModelSpawn.html":[7,0,11,15]
+"da/d91/classCreatureTextBuilder.html#afcd842c1482980c6232f3f19d21a1481":[7,0,960,7]
 };

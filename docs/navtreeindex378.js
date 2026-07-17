@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/d30/SpellMgr_8h.html#a423a80c889a3456a2b55e0e9c22ad060":[8,0,0,0,1,2,41,9,80],
 "de/d30/SpellMgr_8h.html#a43055c467538e4f4f39ae364a9922f9b":[8,0,0,0,1,2,41,9,56],
 "de/d30/SpellMgr_8h.html#a430fe2da99e9451cd34d4493ad7dde08":[8,0,0,0,1,2,41,9,84],
 "de/d30/SpellMgr_8h.html#a4d797e41da5b1af2e9d3554edb509bea":[8,0,0,0,1,2,41,9,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/d33/structboss__bronjahm.html#a767d4a601d7f912cd71823a51b31af1f":[7,0,420,4],
 "de/d33/structboss__bronjahm.html#aaaf64571ce6a542be93c6efe105278e8":[7,0,420,7],
 "de/d33/structboss__bronjahm.html#ab89333e2ee43ad384bdc71ac6f83c92e":[7,0,420,1],
-"de/d33/structboss__bronjahm.html#ad50a7aee4ebf9d0d5d9141b96e154996":[7,0,420,3],
-"de/d33/structboss__bronjahm.html#af2146b1ddb8cdc3e27d1cf573fe65df0":[7,0,420,5]
+"de/d33/structboss__bronjahm.html#ad50a7aee4ebf9d0d5d9141b96e154996":[7,0,420,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7afe1e44fa82ead98d2175525f68e7f7d8":[8,0,0,0,1,3,5,9,2,6,29,27],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3":[8,0,0,0,1,3,5,9,2,6,27],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a05d57556f0cbe68b6cb1f4b277fb9fd1":[8,0,0,0,1,3,5,9,2,6,27,3],
 "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a24b8bb21bb73c3a2cf4a1c0d16dd24b1":[8,0,0,0,1,3,5,9,2,6,27,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d34/structSpawnGroupTemplateData.html#ac7efc48c61e715027a8d651fda543ada":[7,0,2605,1],
 "dc/d34/structSpawnGroupTemplateData.html#ad53e068ead632ca66fbebe81e783fc52":[7,0,2605,2],
 "dc/d34/structboss__murmur.html":[7,0,645],
-"dc/d34/structboss__murmur.html#a1f40ead1b2269b97c69bd4db808d6bae":[7,0,645,5],
-"dc/d34/structboss__murmur.html#a33ef5951ded28d26fbad832ec8c222e3":[7,0,645,6]
+"dc/d34/structboss__murmur.html#a1f40ead1b2269b97c69bd4db808d6bae":[7,0,645,5]
 };

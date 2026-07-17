@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a3d50c7e9fa4855164e19604c2c4c8bfc":[8,0,0,0,1,3,5,18,55,10],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5dadd0d0bff2da4e5ccd02f7276f3a77":[8,0,0,0,1,3,5,18,55,11],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5fc9b09599e278ae70a72431be195ed7":[8,0,0,0,1,3,5,18,55,6],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[8,0,0,0,1,3,5,18,55,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[7,0,1315,0,0],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#af163238686bf22f11908f64ffb5cacca":[7,0,1315,0,1],
 "de/db3/classAccountActionIpLogger.html":[7,0,25],
-"de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[7,0,25,6],
-"de/db3/classAccountActionIpLogger.html#a2952adcd73d775b924671e5a69adaccb":[7,0,25,2]
+"de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[7,0,25,6]
 };

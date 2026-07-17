@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"dd/db3/classReputationMgr.html#a0fdd378dfbd1b63c1877c9141a20e2fe":[7,0,2519,3],
 "dd/db3/classReputationMgr.html#a1c217a2d0b1f4f1079f9353294a37170":[7,0,2519,40],
 "dd/db3/classReputationMgr.html#a1c38d246d7a9a69ed6530c16b86710ac":[7,0,2519,16],
 "dd/db3/classReputationMgr.html#a1d623c240abce45735737e66db0cb242":[7,0,2519,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a45e83b3bfa344391bb87c8088ae1c6a7":[7,0,3817,1],
 "dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a5ec23a02a4e617e6db8cf17d2bd36aff":[7,0,3817,2],
 "dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a8fbfac8e62d2534daf40194f7fe31945":[7,0,3817,0],
-"dd/dc7/razorfen__downs_8cpp.html":[8,0,0,0,1,3,4,6,1],
-"dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9":[8,0,0,0,1,3,4,6,1,6]
+"dd/dc7/razorfen__downs_8cpp.html":[8,0,0,0,1,3,4,6,1]
 };

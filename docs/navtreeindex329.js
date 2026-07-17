@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dc/d8d/classVMAP_1_1TileAssembler.html#a4e020e9814223203177a822a052ddfe4":[5,0,31,18,1],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a55392fc72758db7b4ea5fea85d7934ee":[7,0,11,18,6],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a55392fc72758db7b4ea5fea85d7934ee":[5,0,31,18,6],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a7190f8b7bf8b00367a113679a94fc5e7":[7,0,11,18,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dc/da1/structVendorItemData.html#ae80634592ce705c77c5aa53960f89c24":[7,0,4582,5],
 "dc/da1/structnpc__sartura__royal__guard.html":[7,0,2115],
 "dc/da1/structnpc__sartura__royal__guard.html#a0b162e1fcc925f65fedbfe235b59eb0e":[7,0,2115,1],
-"dc/da1/structnpc__sartura__royal__guard.html#a2b604aada12ca7f3e712cdbd1a3f397a":[7,0,2115,2],
-"dc/da1/structnpc__sartura__royal__guard.html#a2ed50f65847133c897facecbaa4711d8":[7,0,2115,3]
+"dc/da1/structnpc__sartura__royal__guard.html#a2b604aada12ca7f3e712cdbd1a3f397a":[7,0,2115,2]
 };

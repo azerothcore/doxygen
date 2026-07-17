@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a27155b8880a2a86b733bcd074e977b59":[7,0,1648,0,1],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a986f19145e46f5975f22a84a3e1b10ee":[7,0,1648,0,3],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[7,0,1648,0,0],
 "df/d54/classat__ring__of__law.html":[7,0,247],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/d65/instance__steam__vault_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,2,3,5],
 "df/d65/instance__steam__vault_8cpp.html#a59ddfa91084111da23b5d47482e4ff8d":[8,0,0,0,1,3,7,2,2,3,7],
 "df/d65/instance__steam__vault_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,7,2,2,3,6],
-"df/d65/instance__steam__vault_8cpp.html#a944f7f7f41e047f2a4f82fb9af0b4829":[8,0,0,0,1,3,7,2,2,3,4],
-"df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6a":[8,0,0,0,1,3,7,2,2,3,3]
+"df/d65/instance__steam__vault_8cpp.html#a944f7f7f41e047f2a4f82fb9af0b4829":[8,0,0,0,1,3,7,2,2,3,4]
 };

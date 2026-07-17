@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b":[8,0,0,0,1,3,2,16,11,4,4],
 "db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[8,0,0,0,1,3,2,16,11,4,7],
 "db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cafd3521571de9e08368645054056733f6":[8,0,0,0,1,3,2,16,11,4,8],
 "db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[8,0,0,0,1,3,2,16,11,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "db/d9d/classspell__pal__hand__of__salvation.html#a9c4a38bb60cc61156da5bd1b89b3e116":[7,0,3722,0],
 "db/d9e/classachievement__flirt__with__disaster__perf__check.html":[7,0,58],
 "db/d9e/classachievement__flirt__with__disaster__perf__check.html#a15e620be2f37f930477ba94293dbaf63":[7,0,58,1],
-"db/d9e/classachievement__flirt__with__disaster__perf__check.html#a8cb843ed26248ceff594ef552b0ae9ae":[7,0,58,0],
-"db/da0/classnpc__ravenous__furbolg.html":[7,0,2099]
+"db/d9e/classachievement__flirt__with__disaster__perf__check.html#a8cb843ed26248ceff594ef552b0ae9ae":[7,0,58,0]
 };

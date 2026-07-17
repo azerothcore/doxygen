@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dc/d23/classVehicle.html#a734ca64ff6fd5d0f43236101d197bff4":[7,0,4570,34],
 "dc/d23/classVehicle.html#a785bb6e6d50dfc67610174a394d6c930":[7,0,4570,36],
 "dc/d23/classVehicle.html#a7b143c640964b946a7f58899e6cacf8c":[7,0,4570,30],
 "dc/d23/classVehicle.html#a89302a361dbe5472d7c651114aeeabf1":[7,0,4570,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1]
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1]
 };

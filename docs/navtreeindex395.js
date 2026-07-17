@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/dd8/classInstanceMap.html#aac59e76c4c67bffa05b8c5994f004a18":[7,0,1387,1],
 "de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9":[7,0,1387,12],
 "de/dd8/classInstanceMap.html#aceb53450ca21e22bbf414f16d7923737":[7,0,1387,6],
 "de/dd8/classInstanceMap.html#ad60b7ef4ef14f36245394fd7c929aad2":[7,0,1387,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#a5a79ba391a641fd95efc3b6af237e3f1":[8,0,0,0,2,2,0,10,18,15],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a6b0aebac05d10989c3fef6121de2aaab":[8,0,0,0,2,2,0,10,18,28],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a7767386979d852a619b6dbe82c19c6dd":[8,0,0,0,2,2,0,10,18,1],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a8206c776b9fa437f90738f7a26407dd3":[8,0,0,0,2,2,0,10,18,16],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a826e1a2b9df391b416c0bf8d9586a5ad":[8,0,0,0,2,2,0,10,18,21]
+"de/de9/SpellProcEquipmentTest_8cpp.html#a8206c776b9fa437f90738f7a26407dd3":[8,0,0,0,2,2,0,10,18,16]
 };

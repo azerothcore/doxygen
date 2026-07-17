@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[5,0,34,11,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[7,0,13,11,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[5,0,34,11,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[7,0,13,11,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "d9/df5/classGmTicket.html#af473638ec7fcf9337e0a4123964f7230":[7,0,1140,50],
 "d9/df5/classGmTicket.html#af9b97c103035b485ddabc9fad4640c29":[7,0,1140,8],
 "d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[7,0,1140,12],
-"d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[7,0,1140,33],
-"d9/df5/classspell__gen__elune__candle.html":[7,0,3031]
+"d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[7,0,1140,33]
 };

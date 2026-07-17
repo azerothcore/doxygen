@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/de2/structPoolObject.html#ae129795bb2f358af900dbc8892502123":[7,0,2438,1],
 "db/de3/classspell__mutate__explode__bug.html":[7,0,3668],
 "db/de3/classspell__mutate__explode__bug.html#a587db6fa1dc5788e0cc9ec5e486e9393":[7,0,3668,1],
 "db/de3/classspell__mutate__explode__bug.html#a76e8285baf1d14d560ad764eeab86cd5":[7,0,3668,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09":[8,0,0,0,1,3,9,3,42,33],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea55750865a16ceb597832ea42120abcb6":[8,0,0,0,1,3,9,3,42,13],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491":[8,0,0,0,1,3,9,3,42,27],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[8,0,0,0,1,3,9,3,42,20],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[8,0,0,0,1,3,9,3,42,12]
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[8,0,0,0,1,3,9,3,42,20]
 };

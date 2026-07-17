@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3acfcbf4b7b73ff54cf73898fdb0e63c4f":[8,0,0,0,1,2,26,2,0,53],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1193ce6e856a199db5ccbe901e4fccc":[8,0,0,0,1,2,26,2,0,18],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad1e0a0cca147beae361a74e908c900fd":[8,0,0,0,1,2,26,2,0,65],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835":[8,0,0,0,1,2,26,2,0,58],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,4,0,2,3,2],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1aab11c139c2084261fe97e62ba3aa6c37":[8,0,0,0,1,3,7,4,0,2,3,3],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1aadb6c63e08a18de76bcc95ca2e830a6e":[8,0,0,0,1,3,7,4,0,2,3,0],
-"dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1abc6de548b25496a4fc5c761b73835d56":[8,0,0,0,1,3,7,4,0,2,3,1],
-"dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1ac06e5bbf853ac54e131d78954cadb856":[8,0,0,0,1,3,7,4,0,2,3,4]
+"dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1abc6de548b25496a4fc5c761b73835d56":[8,0,0,0,1,3,7,4,0,2,3,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a7adb52a4bf9c6c4d6d521dcefa0c2bc4":[8,0,0,0,1,3,5,8,2,6,5,0],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a997deec1589f9f518220a4ccf55700b0":[8,0,0,0,1,3,5,8,2,6,5,1],
 "df/d29/oculus_8h.html#a94bf697c818d14cdd636f8b753fcfe41":[8,0,0,0,1,3,5,8,2,6,11],
 "df/d29/oculus_8h.html#aabbb0aa4243e9c2d0e6bd744f45e0dd1":[8,0,0,0,1,3,5,8,2,6,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d36/classRedirectSpellEvent.html#a77d243d64c2fc651d71c42e10a315161":[7,0,2511,0],
 "df/d36/classRedirectSpellEvent.html#aecfa190843c1493b47652ccdac7ae9c3":[7,0,2511,4],
 "df/d37/ReputationMgr_8cpp.html":[8,0,0,0,1,2,37,0],
-"df/d37/classHyperlinkDataTokenizer.html":[7,0,1299],
-"df/d37/classHyperlinkDataTokenizer.html#a1fb14152c61205ce31fcf2bfeaeceeaf":[7,0,1299,0]
+"df/d37/classHyperlinkDataTokenizer.html":[7,0,1299]
 };

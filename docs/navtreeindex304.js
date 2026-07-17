@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"db/db8/classProcChanceTestHelper.html#a7439889744f4ef6e5c8e38d0c29760a4":[7,0,2457,33],
 "db/db8/classProcChanceTestHelper.html#a7e6ac7a1826cb4120992404ba8f1a277":[7,0,2457,39],
 "db/db8/classProcChanceTestHelper.html#a8dc56ead24e175f021aacf33410b8dbb":[7,0,2457,35],
 "db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9":[7,0,2457,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "db/dc8/structScriptedAI.html#ab980bff19a23900df4ccec18c5c06b76":[7,0,2544,44],
 "db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7":[7,0,2544,35],
 "db/dc8/structScriptedAI.html#abaddc3fb490d5cb946057da48ec92b38":[7,0,2544,16],
-"db/dc8/structScriptedAI.html#abd114e8ede4c3543d6d134393939a881":[7,0,2544,53],
-"db/dc8/structScriptedAI.html#abfab615775f65c53ec07c3ecfb7c4059":[7,0,2544,4]
+"db/dc8/structScriptedAI.html#abd114e8ede4c3543d6d134393939a881":[7,0,2544,53]
 };

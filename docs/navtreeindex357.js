@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[7,0,868,15],
 "dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[7,0,868,24],
 "dd/dd6/classcharacter__commandscript.html#a33f48334c2a9748cb47e8c65dc2a8c9d":[7,0,868,19],
 "dd/dd6/classcharacter__commandscript.html#a3c884bdd70a7cede02ad298f8ee6beb5":[7,0,868,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "dd/de4/structnpc__memory_1_1npc__memoryAI.html#a2ed2993e89728a3723456a67e13581f7":[7,0,1981,0,4],
 "dd/de4/structnpc__memory_1_1npc__memoryAI.html#a31bcb5041844ea5e3a076ad1366897e1":[7,0,1981,0,5],
 "dd/de4/structnpc__memory_1_1npc__memoryAI.html#a6cb74389f5aea91d2062e007ea08acd7":[7,0,1981,0,3],
-"dd/de4/structnpc__memory_1_1npc__memoryAI.html#a7b0484919d671877f29dfa05ca1265d9":[7,0,1981,0,1],
-"dd/de4/structnpc__memory_1_1npc__memoryAI.html#a985c51bbfa2cceeb7601432491253aaf":[7,0,1981,0,2]
+"dd/de4/structnpc__memory_1_1npc__memoryAI.html#a7b0484919d671877f29dfa05ca1265d9":[7,0,1981,0,1]
 };

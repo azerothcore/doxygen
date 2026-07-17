@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"da/dda/classspell__sha__t10__elemental__4p__bonus.html#afb4fb2152937e62982aab2a17820d1d9":[7,0,4071,0],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html":[7,0,2106,0],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a063a28cd36dbc709699e6d1d4e4ca9e3":[7,0,2106,0,1],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a1b4e12b199bf3ada517c895c5f387c4a":[7,0,2106,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "da/de4/classlfg_1_1Lfg5Guids.html":[5,0,17,0],
 "da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[7,0,5,0,10],
 "da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[5,0,17,0,10],
-"da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,17,0,5],
-"da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[7,0,5,0,5]
+"da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,17,0,5]
 };

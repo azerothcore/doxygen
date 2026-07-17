@@ -1,18 +1,19 @@
 var NAVTREEINDEX245 =
 {
+"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[7,0,0,115,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3652],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d62/Trainer_8h.html#ae4935022d4e3c686a8b51cd68a4f2b66":[8,0,0,0,1,2,16,1,11,2],
 "d9/d62/Trainer_8h.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094":[8,0,0,0,1,2,16,1,11,2,1],
 "d9/d62/Trainer_8h.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f":[8,0,0,0,1,2,16,1,11,2,0],
-"d9/d62/Trainer_8h.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264":[8,0,0,0,1,2,16,1,11,2,2],
-"d9/d62/databasePCH_8h.html":[8,0,0,0,1,1,2,0]
+"d9/d62/Trainer_8h.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264":[8,0,0,0,1,2,16,1,11,2,2]
 };

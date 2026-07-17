@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,5,7,14,12,9],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,7,14,12,10],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298cadce5afdd0a7949c94cdb4f1208c69cea":[8,0,0,0,1,3,5,7,14,12,12],
 "da/db3/boss__thaddius_8cpp.html#a5bd342133be8c2137b831460acc9298caedfb1b6f217ec62151423ee18aa4e640":[8,0,0,0,1,3,5,7,14,12,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "da/dbe/classPointMovementGenerator.html#af9838148fecfdb51a017c12f808fb563":[7,0,2431,18],
 "da/dbe/classPointMovementGenerator.html#af9e5b0c6f330f1a8e6382556d4c719f0":[7,0,2431,2],
 "da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html":[7,0,0,5,0,25],
-"da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html":[5,0,0,8,0,25],
-"da/dbe/structAcore_1_1UnitListSearcher.html":[7,0,0,114]
+"da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html":[5,0,0,8,0,25]
 };

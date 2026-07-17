@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html":[7,0,1790,0],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a1d192d0dd563dc2735b23a171b2bf659":[7,0,1790,0,2],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a2d56572acf042ba34f468f0ff3b0bd1a":[7,0,1790,0,3],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a9322622f679dbc311bd8983f5037bd2e":[7,0,1790,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/d11/classAsyncCallbackProcessor.html#a0a1b8fb7112485c9461387b6effcd56b":[7,0,215,1],
 "da/d11/classAsyncCallbackProcessor.html#a372d9496b9a1b3e3f718cefe50164209":[7,0,215,6],
 "da/d11/classAsyncCallbackProcessor.html#a47ef165fe4c31f46998f69e8e16625f1":[7,0,215,3],
-"da/d11/classAsyncCallbackProcessor.html#a4fce127f587a9da913a9e9061ba538e7":[7,0,215,5],
-"da/d11/classAsyncCallbackProcessor.html#ae95508c8bd67d6246279f37cbe6ca8d3":[7,0,215,4]
+"da/d11/classAsyncCallbackProcessor.html#a4fce127f587a9da913a9e9061ba538e7":[7,0,215,5]
 };

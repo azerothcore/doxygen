@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d8/d74/classWorldSession.html#afd519a2ae4f8deb94208a71b23a33aaf":[4,1,19,455],
 "d8/d74/classWorldSession.html#afd63e617c8ba942d98e84cefbf0d2f5d":[4,1,19,369],
 "d8/d74/classWorldSession.html#afe0db97dd7befa770b8ec4c26fa8736a":[4,1,19,554],
 "d8/d74/classWorldSession.html#afe75ec08fed48073822a0f1856759558":[4,1,19,110],
@@ -66,10 +67,10 @@ var NAVTREEINDEX229 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,991,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,991,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,991,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1612],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d82/classProcChainGuardTest.html#a5e053e184f84db65e68cd45de684cb61":[7,0,2456,1],
 "d8/d82/classProcChainGuardTest.html#ae940d909b8f828dc9715954b469b6408":[7,0,2456,0],
 "d8/d82/structAchievementCategoryEntry.html":[7,0,115],
-"d8/d82/structAchievementCategoryEntry.html#a4a79da5825cf01d38d6ab9d98e033964":[7,0,115,0],
-"d8/d82/structAchievementCategoryEntry.html#a705e301dff461a8d7aefdc6fb29d39cc":[7,0,115,1]
+"d8/d82/structAchievementCategoryEntry.html#a4a79da5825cf01d38d6ab9d98e033964":[7,0,115,0]
 };

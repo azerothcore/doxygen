@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html#aa67afc85c142006efad986859f14941c":[7,0,3467,4],
 "d8/dea/structboss__ormorok.html":[7,0,661],
 "d8/dea/structboss__ormorok.html#a15f2e30fa1780aadba6673f6537fc16f":[7,0,661,6],
 "d8/dea/structboss__ormorok.html#a22ac203db7c3b445e653798743e48764":[7,0,661,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/df8/structABNodeInfo.html#a2bbd1b49b9b72784d07be9db2a27fe77":[7,0,21,8],
 "d8/df8/structABNodeInfo.html#a345b2ce7c48e9d10d03ff484a0108389":[7,0,21,1],
 "d8/df8/structABNodeInfo.html#a7fb668b0b9563bb0779bf4a5daefded8":[7,0,21,5],
-"d8/df8/structABNodeInfo.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250":[7,0,21,3],
-"d8/df8/structABNodeInfo.html#acddac09017717cf5b2893ab83e1d10c8":[7,0,21,6]
+"d8/df8/structABNodeInfo.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250":[7,0,21,3]
 };
