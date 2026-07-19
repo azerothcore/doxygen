@@ -1,7 +1,12 @@
 var NAVTREEINDEX107 =
 {
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,42,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[7,0,2703],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#a05e6155abeb2720923ddf0d8cae54feb":[7,0,2703,0],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d":[7,0,2703,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436af8dd233f8daf0b8dfbc66606197ead09":[8,0,0,0,1,2,8,1,17,3,7],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2":[8,0,0,0,1,2,8,1,17,2],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a01b0c6ae5461b29ad7585b439183b87a":[8,0,0,0,1,2,8,1,17,2,13],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a04671e27271971362e7886597af3216d":[8,0,0,0,1,2,8,1,17,2,12],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a15ad8c525a7388423a06003f3532dbc9":[8,0,0,0,1,2,8,1,17,2,15],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a4192c5a1b304231c3beee84d99c7370a":[8,0,0,0,1,2,8,1,17,2,10],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a5865634853f43c8785d0594b724e6249":[8,0,0,0,1,2,8,1,17,2,0],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a68e4544e30ed3e20580c34b6612f1dad":[8,0,0,0,1,2,8,1,17,2,1],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a86c5e95cbdec6f6c3316fe3323c20550":[8,0,0,0,1,2,8,1,17,2,7]
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a04671e27271971362e7886597af3216d":[8,0,0,0,1,2,8,1,17,2,12]
 };

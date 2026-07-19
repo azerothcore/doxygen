@@ -1,5 +1,12 @@
 var NAVTREEINDEX173 =
 {
+"d6/d26/classGuild_1_1LogEntry.html#ad19e7364e1beba61c9b7a4383b6d42c6":[7,0,1274,4,8],
+"d6/d26/classGuild_1_1LogEntry.html#af61604a7dc0cc4da315a09fa5b207f37":[7,0,1274,4,0],
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html":[7,0,1149,0],
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[7,0,1149,0,3],
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a8901922d736bb0391da5618593ced5c5":[7,0,1149,0,2],
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a89c76f1563f541c572c48f8cf633aa6a":[7,0,1149,0,1],
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#ad97484d73bcea6a84909004c099eec34":[7,0,1149,0,0],
 "d6/d26/sunken__temple_8h.html":[8,0,0,0,1,3,2,11,1],
 "d6/d26/sunken__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,11,1,0],
 "d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[8,0,0,0,1,3,2,11,1,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d35/structHolidaysEntry.html#a6f9cf483200ac982bab7a66ff8bef33d":[7,0,1293,1],
 "d6/d35/structHolidaysEntry.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0":[7,0,1293,7],
 "d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b":[7,0,1293,2],
-"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[7,0,1293,5],
-"d6/d36/scourge__invasion_8h.html":[8,0,0,0,1,3,10,17],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1":[8,0,0,0,1,3,10,17,0],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0030a2af758cc78fa7c100254aebd325":[8,0,0,0,1,3,10,17,0,16],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a01ed3b3989bd126c945912cffc34576b":[8,0,0,0,1,3,10,17,0,52],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a05c1fac7a407c954114c290304f43a77":[8,0,0,0,1,3,10,17,0,46],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0974b7aa83393c84760a1d4beb362201":[8,0,0,0,1,3,10,17,0,1],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0b05e4cd42e87aaca6f4eee0f2b29c22":[8,0,0,0,1,3,10,17,0,50]
+"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[7,0,1293,5]
 };

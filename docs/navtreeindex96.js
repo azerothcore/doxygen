@@ -1,5 +1,10 @@
 var NAVTREEINDEX96 =
 {
+"d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[7,0,1803,5],
+"d3/d30/classnpc__finklestein.html#aa719b4bb95012c22ef8123e255e32edd":[7,0,1803,1],
+"d3/d30/classnpc__finklestein.html#ac82d5e5dc2e0539c90dfcfe17430548c":[7,0,1803,3],
+"d3/d31/classgo__scourge__enclosure.html":[7,0,1202],
+"d3/d31/classgo__scourge__enclosure.html#a3611232cb735f336087d4d3c90f66b8d":[7,0,1202,0],
 "d3/d31/classgo__scourge__enclosure.html#af505dd0a5d9224cd7586878d1fbd3351":[7,0,1202,1],
 "d3/d32/boss__yoggsaron_8cpp.html":[8,0,0,0,1,3,5,9,2,13],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08":[8,0,0,0,1,3,5,9,2,13,47],
@@ -244,10 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d36/BattlegroundUtils_8cpp.html":[8,0,0,0,1,2,8,18],
 "d3/d36/BattlegroundUtils_8cpp.html#a37cb97319fde2ce5eaaef583591063a9":[8,0,0,0,1,2,8,18,0],
 "d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[8,0,0,0,1,2,8,18,1],
-"d3/d36/classnpc__artorius.html":[7,0,1649],
-"d3/d36/classnpc__artorius.html#a2563f90fe1fd35c6bcf3f2296652981d":[7,0,1649,2],
-"d3/d36/classnpc__artorius.html#a2c91fcd777d0e0e7ab4927290ca04359":[7,0,1649,3],
-"d3/d36/classnpc__artorius.html#a832831aa19ef3694eee5bbae4d1d39e1":[7,0,1649,1],
-"d3/d36/classnpc__artorius.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57":[7,0,1649,4],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html":[8,0,0,0,2,2,0,10,8]
+"d3/d36/classnpc__artorius.html":[7,0,1649]
 };

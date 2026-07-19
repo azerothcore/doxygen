@@ -1,5 +1,10 @@
 var NAVTREEINDEX148 =
 {
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
+"d5/d34/classspell__item__lifegiving__gem.html":[7,0,3392],
+"d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[7,0,3392,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3392,3],
 "d5/d34/classspell__item__lifegiving__gem.html#a85333c5f493b70037bcc1a1d42e97e9c":[7,0,3392,1],
 "d5/d34/classspell__item__lifegiving__gem.html#acfafbf43e12f72131e58434051dcc510":[7,0,3392,2],
@@ -122,10 +127,10 @@ var NAVTREEINDEX148 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[8,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[8,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[8,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,0,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[7,0,0,5,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,0,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,0,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[7,0,0,5,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,0,8,0,28,0],
 "d5/d44/classspell__item__heartpierce__hero.html":[7,0,3388],
 "d5/d44/classspell__item__heartpierce__hero.html#a331d005fdb7ec53b49c1edc46209d8ea":[7,0,3388,1],
 "d5/d44/classspell__item__heartpierce__hero.html#a8a1afed2a17841f52c355214ab49b3af":[7,0,3388,2],
@@ -166,8 +171,8 @@ var NAVTREEINDEX148 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3177,2],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1824],
 "d5/d47/classnpc__frozen__orb.html#a2f9e1a2cb14ee9e5f24e02aa97697116":[7,0,1824,2],
 "d5/d47/classnpc__frozen__orb.html#ac14966722e39b2b6b3a907756701ed98":[7,0,1824,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d4a/classnpc__kinetic__bomb.html#abca5a72d3ac0d50a27e604e8e1491957":[7,0,1936,1],
 "d5/d4a/classnpc__kinetic__bomb.html#ae00630d96dc7a93ea13841c1f9e9be3b":[7,0,1936,2],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html":[7,0,716,0],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a2745ff26c165851c367e080d28652984":[7,0,716,0,4],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a468d45f9b9c2172f326068d59a74121a":[7,0,716,0,5],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a5b4a726aa496923d81c41b038e5f7449":[7,0,716,0,3],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a6cfebecaaf673e40f97a46a09947a1f0":[7,0,716,0,1],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a772d279407d724477560898559710433":[7,0,716,0,2],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[7,0,716,0,0]
+"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a2745ff26c165851c367e080d28652984":[7,0,716,0,4]
 };

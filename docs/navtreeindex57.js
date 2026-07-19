@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d3c/classspell__q12659__ahunaes__knife.html#a69336bea35240c0014693ae167d4124b":[7,0,3903,3],
 "d2/d3c/classspell__q12659__ahunaes__knife.html#ab8e5dcd009cca538c9921dcb9c5fe109":[7,0,3903,1],
 "d2/d3c/classspell__q12659__ahunaes__knife.html#ac92fd133395705e4cb3730bc96e1f787":[7,0,3903,2],
 "d2/d3c/classspell__q12659__ahunaes__knife.html#aef93741620dcf29179502f88891ad0b5":[7,0,3903,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d48/classChannel.html#a2373d8a5e6dbd3287b7e224bde423fe2":[7,0,864,78],
 "d2/d48/classChannel.html#a2423291c00a56156bea6418648e54129":[7,0,864,59],
 "d2/d48/classChannel.html#a2550ebfe294cb6f3ce18419fc4d24ddc":[7,0,864,41],
-"d2/d48/classChannel.html#a2772886447604cc172db51c60a992371":[7,0,864,58],
-"d2/d48/classChannel.html#a27976afe0c8d0082b95f84f43b41a350":[7,0,864,73]
+"d2/d48/classChannel.html#a2772886447604cc172db51c60a992371":[7,0,864,58]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a3112bf9e1da146cbd470e9fd2b4a893c":[8,0,0,0,1,3,7,1,5,16,0],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a476ffae45c8fa38abf1e26f67f6a30c8":[8,0,0,0,1,3,7,1,5,16,3],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a7284e6700ed912c65b87bbe8397455c0":[8,0,0,0,1,3,7,1,5,16,12],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a763b601cd117db9a02ed93a8c9004e68":[8,0,0,0,1,3,7,1,5,16,1],
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a84de229c7e84985182dd2fab47a4b4a2":[8,0,0,0,1,3,7,1,5,16,9],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a8fbaf0ab133a29ab460ec3cdd8d534f3":[8,0,0,0,1,3,7,1,5,16,2],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9b1e4c07831227b3e8a9aaeaa2eb229d":[8,0,0,0,1,3,7,1,5,16,11],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a9eb85eaedbf643f0b6bc596a8b719d1e":[8,0,0,0,1,3,7,1,5,16,15],
@@ -244,10 +249,5 @@ var NAVTREEINDEX141 =
 "d4/dd9/structAchievementCriteriaEntry.html#acdbda9f5c0990a48cfe34072daf8c60f":[7,0,118,24],
 "d4/dd9/structAchievementCriteriaEntry.html#acee9f520b0f0f22461b8193956b59883":[7,0,118,34],
 "d4/dd9/structAchievementCriteriaEntry.html#ad094774e675c7100bf502872f1d1c186":[7,0,118,118],
-"d4/dd9/structAchievementCriteriaEntry.html#ad1a9e33225c6e61a592509f6a8c4dbbb":[7,0,118,59],
-"d4/dd9/structAchievementCriteriaEntry.html#ad458e4ab3bab5c3733efe2eb06eb8ca0":[7,0,118,0],
-"d4/dd9/structAchievementCriteriaEntry.html#ad54675c37ba0661d5452014656b7547a":[7,0,118,14],
-"d4/dd9/structAchievementCriteriaEntry.html#ad814974edc13b0ad59aa7ed178fd93f6":[7,0,118,25],
-"d4/dd9/structAchievementCriteriaEntry.html#ad8ee991ffab7388d713c438db372f199":[7,0,118,98],
-"d4/dd9/structAchievementCriteriaEntry.html#adb080c7935d608545ec2fb7a31cab34f":[7,0,118,87]
+"d4/dd9/structAchievementCriteriaEntry.html#ad1a9e33225c6e61a592509f6a8c4dbbb":[7,0,118,59]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX178 =
 {
+"d6/d50/structRBACCommandData.html#ae871dc19c052c205378810f91534caf6":[7,0,2503,1],
+"d6/d51/boss__apothecary__hummel_8cpp.html":[8,0,0,0,1,3,2,9,0],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cf":[8,0,0,0,1,3,2,9,0,11],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26":[8,0,0,0,1,3,2,9,0,11,4],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc":[8,0,0,0,1,3,2,9,0,11,2],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203":[8,0,0,0,1,3,2,9,0,11,10],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe":[8,0,0,0,1,3,2,9,0,11,9],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,2,9,0,11,0],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8":[8,0,0,0,1,3,2,9,0,11,7],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520":[8,0,0,0,1,3,2,9,0,11,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[8,0,0,0,1,3,6,0,2],
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a3077d08865fa83f84cf956c392a9091c":[8,0,0,0,1,3,6,0,7],
 "d6/d5a/outdoorpvp__script__loader_8cpp.html#a489bdfb4854732e561b6b13b70f67a0f":[8,0,0,0,1,3,6,0,0],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#a69303ad6f661d8c009ee493dc4fd486c":[8,0,0,0,1,3,6,0,3],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#a6df553c8dd6e9b81e83110e7beab3646":[8,0,0,0,1,3,6,0,6],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#a6dfd2849f525333510ae4febbbc3ae1f":[8,0,0,0,1,3,6,0,5],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#ac97adfc1efbcf82840cffa915a55fecb":[8,0,0,0,1,3,6,0,1],
-"d6/d5a/structboss__doomwalker.html":[7,0,442],
-"d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[7,0,442,7],
-"d6/d5a/structboss__doomwalker.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f":[7,0,442,2],
-"d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[7,0,442,3]
+"d6/d5a/outdoorpvp__script__loader_8cpp.html#a69303ad6f661d8c009ee493dc4fd486c":[8,0,0,0,1,3,6,0,3]
 };

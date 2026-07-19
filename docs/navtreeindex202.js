@@ -1,5 +1,12 @@
 var NAVTREEINDEX202 =
 {
+"d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c":[7,0,944,10],
+"d7/d80/structCreatureBaseStats.html#a22c916bab3e2833ffbb643cae7f36edd":[7,0,944,5],
+"d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9":[7,0,944,8],
+"d7/d80/structCreatureBaseStats.html#a684901a59108e94987c23ad5085e306a":[7,0,944,12],
+"d7/d80/structCreatureBaseStats.html#a72249bb49bbcf08708bd30fc61e2cdea":[7,0,944,4],
+"d7/d80/structCreatureBaseStats.html#a8108d924e4de3ba741749e9386085e4f":[7,0,944,6],
+"d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d":[7,0,944,9],
 "d7/d80/structCreatureBaseStats.html#a9af752cb9fe9fbb64845cb7644e9b212":[7,0,944,15],
 "d7/d80/structCreatureBaseStats.html#a9fed8e3227aa2ad7b40579b0be615030":[7,0,944,7],
 "d7/d80/structCreatureBaseStats.html#aa11e229aed1ba159219e6d1a291b1c80":[7,0,944,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d8f/structWardenInitModuleRequest.html#a165f8a36446fcce8b7a062293df0bf5f":[7,0,4592,18],
 "d7/d8f/structWardenInitModuleRequest.html#a1ab1f531e78a9d9470927761e46064b7":[7,0,4592,14],
 "d7/d8f/structWardenInitModuleRequest.html#a1c98b029d1969ec971c5d1cfe6a4fc02":[7,0,4592,16],
-"d7/d8f/structWardenInitModuleRequest.html#a2364ed0bed18166f812d8acca1c2dad5":[7,0,4592,22],
-"d7/d8f/structWardenInitModuleRequest.html#a262f78fc37b19476acddc6a4c88b2e72":[7,0,4592,3],
-"d7/d8f/structWardenInitModuleRequest.html#a49538e0d9013b6049a9d77eafd9d5abe":[7,0,4592,15],
-"d7/d8f/structWardenInitModuleRequest.html#a4efddf625f54b8550b1a9a79b52d5269":[7,0,4592,9],
-"d7/d8f/structWardenInitModuleRequest.html#a5581ce736e7775672e3dfddac30f93a6":[7,0,4592,8],
-"d7/d8f/structWardenInitModuleRequest.html#a5c9088f1afebb8e6eb3681559c4a0335":[7,0,4592,6],
-"d7/d8f/structWardenInitModuleRequest.html#a5d703b2e3f2db47e48b9fddc42188b3f":[7,0,4592,1],
-"d7/d8f/structWardenInitModuleRequest.html#a6df8356687ff82f7a761829e29138ea1":[7,0,4592,4]
+"d7/d8f/structWardenInitModuleRequest.html#a2364ed0bed18166f812d8acca1c2dad5":[7,0,4592,22]
 };

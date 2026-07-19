@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/classspell__alert__drums.html#a6bef0ac760a319deed6f71fee213e885":[7,0,2618,3],
 "d1/d16/classspell__alert__drums.html#abacee7689888bf8c5d21b534a6d71b40":[7,0,2618,2],
 "d1/d16/structadt__liquid__instance.html":[7,0,138],
 "d1/d16/structadt__liquid__instance.html#a08a02703ec946d3a6fb6326c24b4f6cc":[7,0,138,12],
@@ -25,20 +26,20 @@ var NAVTREEINDEX27 =
 "d1/d17/ByteBuffer_8h.html":[8,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[8,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[8,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
 "d1/d17/classArenaSeasonMgr.html":[7,0,191],
 "d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[7,0,191,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[7,0,191,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a4a527e8281339163309ca5e4d40fbe2e":[8,0,0,0,2,2,0,10,10,16],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a5071a19c9d81a0c3ac637c0840edd597":[8,0,0,0,2,2,0,10,10,3],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a51240e8b59bee356e4a38c6b20fdf01b":[8,0,0,0,2,2,0,10,10,30],
-"d1/d1e/SpellProcChainGuardTest_8cpp.html#a59319505e14ebebd57b7770d0d755b71":[8,0,0,0,2,2,0,10,10,10],
-"d1/d1e/SpellProcChainGuardTest_8cpp.html#a5aaff474c85003cc29134ae0d94cde23":[8,0,0,0,2,2,0,10,10,24]
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a59319505e14ebebd57b7770d0d755b71":[8,0,0,0,2,2,0,10,10,10]
 };

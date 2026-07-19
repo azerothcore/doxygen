@@ -1,5 +1,10 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab049c01b8a39507684ccf7ccfd0cfff8":[8,0,0,0,1,2,48,7,0,121],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab0c3e3f9dc21f1190d33f933a1aa032f":[8,0,0,0,1,2,48,7,0,97],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab309e98fbeb11d75c619149b67d4b2f4":[8,0,0,0,1,2,48,7,0,66],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab317035a41bc4c288f3500f27b2aca58":[8,0,0,0,1,2,48,7,0,349],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab3ab3567451b2f52907c1d6ed173bcc2":[8,0,0,0,1,2,48,7,0,403],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab3c6b8854ae5506d2bd167dc4cb04fe0":[8,0,0,0,1,2,48,7,0,117],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab3db36db5e2b8f18301c5cb4ae869f07":[8,0,0,0,1,2,48,7,0,383],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab4547bd12af34303624ed8a230418e3c":[8,0,0,0,1,2,48,7,0,379],
@@ -162,8 +167,8 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[7,0,1215],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[7,0,1215,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[7,0,1215,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d4b/structboss__archimonde.html#a25e52499f80d4c3edb4dd5cf02b95d18":[7,0,401,0],
 "d3/d4b/structboss__archimonde.html#a31c526a5e72c4244df101918388c777c":[7,0,401,4],
 "d3/d4b/structboss__archimonde.html#a341ab97e59cfe989572fdcceff434e4e":[7,0,401,6],
-"d3/d4b/structboss__archimonde.html#a388a8bafb4407e371a58d3a7d090c754":[7,0,401,11],
-"d3/d4b/structboss__archimonde.html#a409cad381c6562f44fcf8f66a5965ec4":[7,0,401,2],
-"d3/d4b/structboss__archimonde.html#a552869a0fd5141094a021e3aaaada051":[7,0,401,10],
-"d3/d4b/structboss__archimonde.html#a6db990f64d884f1290c77b8ec73b8fb0":[7,0,401,5],
-"d3/d4b/structboss__archimonde.html#a905918f9fc654c4c1fa1aa99980d39e6":[7,0,401,7],
-"d3/d4b/structboss__archimonde.html#a93f93fe116c75a24dc15bb521b038a27":[7,0,401,9]
+"d3/d4b/structboss__archimonde.html#a388a8bafb4407e371a58d3a7d090c754":[7,0,401,11]
 };

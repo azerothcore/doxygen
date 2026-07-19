@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/classSpell.html#a5b4ebeb10ad576a529d0556064930297":[7,0,2609,343],
 "d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb":[7,0,2609,284],
 "d1/d16/classSpell.html#a5fd7b2fa3f7559c425c367852e187846":[7,0,2609,196],
 "d1/d16/classSpell.html#a60270bcdc75f67903cafd81eaf9a398a":[7,0,2609,199],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/classboss__lethon.html#a5d758979b061646830373de64b2b3af4":[7,0,608,1],
 "d1/d16/classspell__alert__drums.html":[7,0,2618],
 "d1/d16/classspell__alert__drums.html#a4b00497e095b5c43571b543252b31e58":[7,0,2618,1],
-"d1/d16/classspell__alert__drums.html#a66b366f4989d99a58b331e56024e4520":[7,0,2618,0],
-"d1/d16/classspell__alert__drums.html#a6bef0ac760a319deed6f71fee213e885":[7,0,2618,3]
+"d1/d16/classspell__alert__drums.html#a66b366f4989d99a58b331e56024e4520":[7,0,2618,0]
 };

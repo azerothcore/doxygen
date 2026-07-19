@@ -1,5 +1,10 @@
 var NAVTREEINDEX90 =
 {
+"d2/df5/classspell__vehicle__grab__pyrite.html":[7,0,4242],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a8fc8712a76939dea6831a9eb5b95f946":[7,0,4242,3],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a924ae640d448da777ce3ecb059c1c9b6":[7,0,4242,1],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a9580f04e1543262026818f0944bb96c3":[7,0,4242,0],
+"d2/df5/classspell__vehicle__grab__pyrite.html#ac05e58e9b5618b1f079bd1c4924a0f9f":[7,0,4242,2],
 "d2/df6/DBCStores_8h.html":[8,0,0,0,1,2,14,1],
 "d2/df6/DBCStores_8h.html#a00fc8b9059a4c808fe769f8e800c2919":[8,0,0,0,1,2,14,1,69],
 "d2/df6/DBCStores_8h.html#a01782477d22431b146db05c572f522da":[8,0,0,0,1,2,14,1,120],
@@ -244,10 +249,5 @@ var NAVTREEINDEX90 =
 "d2/dfb/structResetNotifier.html":[7,0,2523],
 "d2/dfb/structResetNotifier.html#a1472e21d9af04662f3574bc2c7d3890c":[7,0,2523,0],
 "d2/dfb/structResetNotifier.html#a725fc2c2504eecaa15841c27b367cd55":[7,0,2523,3],
-"d2/dfb/structResetNotifier.html#adf95512d4304962a5740b38c32ea28a7":[7,0,2523,2],
-"d2/dfb/structResetNotifier.html#adfcdcf148b002c641638ddc70d577b14":[7,0,2523,1],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html":[7,0,644,0],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a277e52b7086db7e6447c4ad07ff8c8a2":[7,0,644,0,0],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3471692c39233f3c25cdc875c0078f2c":[7,0,644,0,5],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3b2e5636b6c13bc243a067cacc7ab529":[7,0,644,0,1]
+"d2/dfb/structResetNotifier.html#adf95512d4304962a5740b38c32ea28a7":[7,0,2523,2]
 };

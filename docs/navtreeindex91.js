@@ -1,5 +1,10 @@
 var NAVTREEINDEX91 =
 {
+"d2/dfb/structResetNotifier.html#adfcdcf148b002c641638ddc70d577b14":[7,0,2523,1],
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html":[7,0,644,0],
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a277e52b7086db7e6447c4ad07ff8c8a2":[7,0,644,0,0],
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3471692c39233f3c25cdc875c0078f2c":[7,0,644,0,5],
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3b2e5636b6c13bc243a067cacc7ab529":[7,0,644,0,1],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108":[7,0,644,0,3],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#aa1693c8cc5bcc60a256f5d61f81cce1a":[7,0,644,0,4],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#adc83683c2f6a7073469cd2f5aa325717":[7,0,644,0,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a77e98bc345f7d27f145d4b29c4deb58e":[7,0,1944,1],
 "d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a94fdd0778818fcc6a8b818d38dde6f75":[7,0,1944,2],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[7,0,3927],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[7,0,3927,2],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[7,0,3927,0],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[7,0,3927,3],
-"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[7,0,3927,1],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[7,0,1846,0],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[7,0,1846,0,2]
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[7,0,3927,2]
 };

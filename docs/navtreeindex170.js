@@ -1,5 +1,12 @@
 var NAVTREEINDEX170 =
 {
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba1ac5ca668833328f0b3e6110b028cbef":[8,0,0,0,1,3,10,5,91,8],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba1fc1e9c412f7fa724113e107cf223bd4":[8,0,0,0,1,3,10,5,91,5],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba317e189a5cf5b01e4b6d99feccacafca":[8,0,0,0,1,3,10,5,91,2],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba41c2f1476d204bbe311a8717267ca675":[8,0,0,0,1,3,10,5,91,9],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba62452df477db11e876f8eaec42d3e9b7":[8,0,0,0,1,3,10,5,91,6],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba7b05caf02fe0a92cf685a8add1e47e0f":[8,0,0,0,1,3,10,5,91,4],
+"d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79ba913685e89a78ccb97f5c089c064f9faf":[8,0,0,0,1,3,10,5,91,1],
 "d6/d0c/go__scripts_8cpp.html#aa4a4802cff073e110549b83a996eb79baea59b299494301cbf54f39c2c95fa676":[8,0,0,0,1,3,10,5,91,7],
 "d6/d0c/go__scripts_8cpp.html#ab1491d39f2c0db10910a2216c3ba8711":[8,0,0,0,1,3,10,5,101],
 "d6/d0c/go__scripts_8cpp.html#ab3bd73bdd88e936930a8eb84b4b95a62":[8,0,0,0,1,3,10,5,50],
@@ -242,12 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d16/classThreatManager_1_1ThreatListIterator.html#ab048192b55edc518d7e88a16ef3fe75c":[7,0,4501,1,1],
 "d6/d16/classThreatManager_1_1ThreatListIterator.html#ab777887451473dfe77f428d40f8359ba":[7,0,4501,1,9],
 "d6/d16/classThreatManager_1_1ThreatListIterator.html#ac6f2a13304c433d61d1b69bb6d649347":[7,0,4501,1,6],
-"d6/d16/classThreatManager_1_1ThreatListIterator.html#adfa9c371d231a572a2ea728163e34614":[7,0,4501,1,2],
-"d6/d16/classThreatManager_1_1ThreatListIterator.html#aff62dfcc3d94c8355a42693ab1b97774":[7,0,4501,1,4],
-"d6/d16/classspell__hexlord__unstable__affliction.html":[7,0,3189],
-"d6/d16/classspell__hexlord__unstable__affliction.html#a1bbb71eeb2273c2ecd0eb774b68735dc":[7,0,3189,2],
-"d6/d16/classspell__hexlord__unstable__affliction.html#a415977576283972ce4a1050c70826d7c":[7,0,3189,0],
-"d6/d16/classspell__hexlord__unstable__affliction.html#a95dfbfe631e8ec9213a32c6f52d3feb1":[7,0,3189,1],
-"d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[7,0,3189,3],
-"d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[7,0,1373,0]
+"d6/d16/classThreatManager_1_1ThreatListIterator.html#adfa9c371d231a572a2ea728163e34614":[7,0,4501,1,2]
 };

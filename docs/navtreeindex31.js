@@ -1,5 +1,6 @@
 var NAVTREEINDEX31 =
 {
+"d1/d3a/MySQLThreading_8h.html":[8,0,0,0,1,1,0,20],
 "d1/d3a/MySQLThreading_8h.html#a70b74137156f0a22792c3cf95c54decc":[8,0,0,0,1,1,0,20,2],
 "d1/d3a/MySQLThreading_8h.html#aefa4bd51f34aad2d1a141c00a2310092":[8,0,0,0,1,1,0,20,0],
 "d1/d3a/MySQLThreading_8h.html#aff44554b66bd7ef0e21f1db5beb0b81a":[8,0,0,0,1,1,0,20,1],
@@ -78,16 +79,16 @@ var NAVTREEINDEX31 =
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[7,0,0,1,1,4],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[5,0,0,2,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[7,0,0,1,1,2],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[5,0,0,2,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[7,0,0,1,1,1],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[5,0,0,2,1,6],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[5,0,0,2,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[7,0,0,1,1,6],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,0,2,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[5,0,0,2,1,6],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[7,0,0,1,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,0,2,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[7,0,0,1,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[5,0,0,2,1,3],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[7,0,0,1,1,8],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[5,0,0,2,1,8],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[7,0,0,1,1,8],
 "d1/d42/CreatureAI_8cpp.html":[8,0,0,0,1,2,3,3],
 "d1/d42/CreatureAI_8cpp.html#a1ed41ad074263f6c0c63f38b7f51414b":[8,0,0,0,1,2,3,3,0],
 "d1/d42/CreatureAI_8cpp.html#a981f03ba3b8c59eb1fa9d22df158ba19":[8,0,0,0,1,2,3,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX31 =
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca78acdd51e0bf1c2da41f8646bb15b25b":[8,0,0,0,1,3,5,4,2,0,5,6],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298cacfbb84c268887505646fb54930d478cd":[8,0,0,0,1,3,5,4,2,0,5,0],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298caf55c40c1126f624e66da03e04bedf710":[8,0,0,0,1,3,5,4,2,0,5,3],
-"d1/d43/boss__forgemaster__garfrost_8cpp.html#a906ed67706bbc7d2cae677714c2eeecc":[8,0,0,0,1,3,5,4,2,0,7],
-"d1/d43/boss__forgemaster__garfrost_8cpp.html#ad5648754089b855d5188a842e1db96a6":[8,0,0,0,1,3,5,4,2,0,9]
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a906ed67706bbc7d2cae677714c2eeecc":[8,0,0,0,1,3,5,4,2,0,7]
 };

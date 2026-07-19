@@ -72,6 +72,7 @@ var LoginDatabase_8h =
       [ "LOGIN_SEL_BANS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba3aaf414ab637fb185b754418cd65c561", null ],
       [ "LOGIN_SEL_ACCOUNT_WHOIS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba579d27799f36ec2c5b9ed84e57f04acb", null ],
       [ "LOGIN_SEL_REALMLIST_SECURITY_LEVEL", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba6bca444ba538555f694f39b1f7817453", null ],
+      [ "LOGIN_UPD_REALMLIST_SECURITY_LEVEL", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaaa0e72bdb9a5efeeab835fd509feb460", null ],
       [ "LOGIN_DEL_ACCOUNT", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9e0cd899030e505d106466c297cd8fd1", null ],
       [ "LOGIN_SEL_AUTOBROADCAST", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d", null ],
       [ "LOGIN_SEL_AUTOBROADCAST_LOCALIZED", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba611ef0300194290a53f8242fe6d39f20", null ],

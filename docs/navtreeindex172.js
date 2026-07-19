@@ -1,5 +1,12 @@
 var NAVTREEINDEX172 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3426957cb278a246f58666bc72532b4f":[8,0,0,0,1,2,3,1,7,2,41],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da3789bebe4ac5d7307d977ba3921b21e3":[8,0,0,0,1,2,3,1,7,2,43],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4516cbe2e6e543c7edaafad4a168934b":[8,0,0,0,1,2,3,1,7,2,5],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da475964fdc4fa9938f5419a8e78f77362":[8,0,0,0,1,2,3,1,7,2,0],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4972fdbcc028529cda907dd1670396f2":[8,0,0,0,1,2,3,1,7,2,18],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da5b04f7b4c549c433df0c70d5d01c129b":[8,0,0,0,1,2,3,1,7,2,26],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da62a035d38f6092d2badda54f2d756799":[8,0,0,0,1,2,3,1,7,2,25],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452":[8,0,0,0,1,2,3,1,7,2,35],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da689c5f60276c8789b50634715d718f83":[8,0,0,0,1,2,3,1,7,2,12],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da6fc5e747d47f0ce1484abb1e308bf950":[8,0,0,0,1,2,3,1,7,2,10],
@@ -242,12 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d26/classGuild_1_1LogEntry.html#a75754f42f8a202a9a319c86515a3f0dd":[7,0,1274,4,6],
 "d6/d26/classGuild_1_1LogEntry.html#a7af4eac577f8da07540f81e185b2ad49":[7,0,1274,4,3],
 "d6/d26/classGuild_1_1LogEntry.html#a89e0192732a43dc44aff3730bc5ad445":[7,0,1274,4,7],
-"d6/d26/classGuild_1_1LogEntry.html#aba3f6f501c59e356166abe71082c421b":[7,0,1274,4,1],
-"d6/d26/classGuild_1_1LogEntry.html#ad19e7364e1beba61c9b7a4383b6d42c6":[7,0,1274,4,8],
-"d6/d26/classGuild_1_1LogEntry.html#af61604a7dc0cc4da315a09fa5b207f37":[7,0,1274,4,0],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html":[7,0,1149,0],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[7,0,1149,0,3],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a8901922d736bb0391da5618593ced5c5":[7,0,1149,0,2],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a89c76f1563f541c572c48f8cf633aa6a":[7,0,1149,0,1],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#ad97484d73bcea6a84909004c099eec34":[7,0,1149,0,0]
+"d6/d26/classGuild_1_1LogEntry.html#aba3f6f501c59e356166abe71082c421b":[7,0,1274,4,1]
 };

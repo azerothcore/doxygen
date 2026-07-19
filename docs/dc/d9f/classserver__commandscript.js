@@ -13,6 +13,7 @@ var classserver__commandscript =
     [ "HandleServerSetClosedCommand", "dc/d9f/classserver__commandscript.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
     [ "HandleServerSetLogLevelCommand", "dc/d9f/classserver__commandscript.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
     [ "HandleServerSetMotdCommand", "dc/d9f/classserver__commandscript.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerSetSecurityCommand", "dc/d9f/classserver__commandscript.html#aa2057e6a08f0bfd355aec0abf75d7c3f", null ],
     [ "HandleServerShutDownCancelCommand", "dc/d9f/classserver__commandscript.html#ae64357518538c1ce4d03a8d9968b4035", null ],
     [ "HandleServerShutDownCommand", "dc/d9f/classserver__commandscript.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

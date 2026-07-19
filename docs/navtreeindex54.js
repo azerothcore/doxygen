@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d25/arcatraz_8h.html#a57d2d4154291532e405ab880a40a999fa8017abd9a122264870cc629ad5dcca3a":[8,0,0,0,1,3,7,5,0,1,5,3],
 "d2/d25/arcatraz_8h.html#a57d2d4154291532e405ab880a40a999faa9a573639992c5177652ffddd2466e97":[8,0,0,0,1,3,7,5,0,1,5,1],
 "d2/d25/arcatraz_8h.html#a57d2d4154291532e405ab880a40a999fae0d29f314101dbc7ebae78c71acdbd3b":[8,0,0,0,1,3,7,5,0,1,5,4],
 "d2/d25/arcatraz_8h.html#a58a3a02927c13310edac87eddeed23da":[8,0,0,0,1,3,7,5,0,1,0],
@@ -205,14 +206,14 @@ var NAVTREEINDEX54 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[7,0,3179,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[7,0,3179,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[7,0,3179,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[7,0,0,122,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,0,134,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[7,0,0,122,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[7,0,0,122,1],
 "d2/d2b/classConfusedMovementGenerator.html":[7,0,921],
 "d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[7,0,921,13],
 "d2/d2b/classConfusedMovementGenerator.html#a212665e4306ca335181c255573d30a06":[7,0,921,2],
@@ -228,12 +229,12 @@ var NAVTREEINDEX54 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[7,0,921,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[7,0,921,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[7,0,921,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[7,0,13,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,34,10,3],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[7,0,13,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,34,10,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[7,0,13,10,3,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[7,0,13,10,3,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,34,10,3,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[7,0,13,10,3,0],
 "d2/d2b/structnpc__pool__of__tar.html":[7,0,2064],
 "d2/d2b/structnpc__pool__of__tar.html#a03de46dfa133992d094ab607a49b7236":[7,0,2064,0],
 "d2/d2b/structnpc__pool__of__tar.html#a61886862df88b41bf0c6959c9a564cea":[7,0,2064,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097":[8,0,0,0,1,2,16,11,2,8,3],
 "d2/d2c/VehicleDefines_8h.html#a2dadb2596b27d20ebbc12696cb7b9a74":[8,0,0,0,1,2,16,11,2,5],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54":[8,0,0,0,1,2,16,11,2,12],
-"d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae":[8,0,0,0,1,2,16,11,2,12,1],
-"d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b":[8,0,0,0,1,2,16,11,2,12,3]
+"d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae":[8,0,0,0,1,2,16,11,2,12,1]
 };

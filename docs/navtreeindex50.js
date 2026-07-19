@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1":[7,0,4518,11],
 "d1/df7/classTransactionBase.html#a261ad9d7423562ccbe2cac6d75c203bd":[7,0,4518,6],
 "d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3":[7,0,4518,5],
 "d1/df7/classTransactionBase.html#a377add6d6b5e34e774d2497d58f4a180":[7,0,4518,9],
@@ -26,16 +27,16 @@ var NAVTREEINDEX50 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3515,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1661],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[7,0,1661,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[7,0,1661,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d0a/classnpc__announcer__toc5.html#abf50bb7deb9e0bb04d9ac802aff5fa41":[7,0,1627,1],
 "d2/d0a/classnpc__announcer__toc5.html#ad2cc55ddc6696b9bfb22e68eab965fb0":[7,0,1627,3],
 "d2/d0a/classspell__ahune__minion__despawner.html":[7,0,2612],
-"d2/d0a/classspell__ahune__minion__despawner.html#a1bd01e1103d4959a5b3116e178a16a8f":[7,0,2612,2],
-"d2/d0a/classspell__ahune__minion__despawner.html#a9451ed26358c77ab4d35781fd8fb4b55":[7,0,2612,0]
+"d2/d0a/classspell__ahune__minion__despawner.html#a1bd01e1103d4959a5b3116e178a16a8f":[7,0,2612,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aed88295b29642e4fa1ddd958d18d4df6":[8,0,0,0,1,3,9,2,214,27],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aed9272c02358d6c3e5d20443a981d24b":[8,0,0,0,1,3,9,2,214,13],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aee45db189cb7fe3822ab527b9fecfb68":[8,0,0,0,1,3,9,2,214,12],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af3c70cd2faa18c4b284b7e590d543593":[8,0,0,0,1,3,9,2,214,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/df6/structnpc__ulduar__dark__rune__guardian.html#a5a3af42aaff640e8e286eda5a658c411":[7,0,2234,4],
 "d1/df6/structnpc__ulduar__dark__rune__guardian.html#acecc92ef5ad06821854f3afe4f2b673e":[7,0,2234,3],
 "d1/df7/classTransactionBase.html":[7,0,4518],
-"d1/df7/classTransactionBase.html#a06fa417f69e0a67da8f249333b1d189d":[7,0,4518,8],
-"d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1":[7,0,4518,11]
+"d1/df7/classTransactionBase.html#a06fa417f69e0a67da8f249333b1d189d":[7,0,4518,8]
 };

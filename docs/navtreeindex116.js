@@ -1,5 +1,10 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#ad6b0d267f510333e019c69b33842df80":[7,0,1318,13],
+"d3/dd6/structinstance__blackrock__depths.html#ae3d653fb0bb44a406be9b513c9b45972":[7,0,1318,47],
+"d3/dd6/structinstance__blackrock__depths.html#aef5731ac129108998b7d26f4da06cbc5":[7,0,1318,3],
+"d3/dd6/structinstance__blackrock__depths.html#af62cdd73dc89a054694a455d9fb1d957":[7,0,1318,1],
+"d3/dd6/structinstance__blackrock__depths.html#af848bc32ca0f209e6c7cb3c2a448df61":[7,0,1318,59],
 "d3/dd6/structinstance__blackrock__depths.html#af88d4fc6135fec754944f18ed15df708":[7,0,1318,63],
 "d3/dd6/structinstance__blackrock__depths.html#afbd9fa7f45d2d673c2d6750bf59a6f5d":[7,0,1318,6],
 "d3/dd7/classinstance__trial__of__the__crusader.html":[7,0,1376],
@@ -244,10 +249,5 @@ var NAVTREEINDEX116 =
 "d3/de4/classspell__gen__arcane__charge.html#aebb88f5ea803a590a099e4e6427d8276":[7,0,2983,1],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html":[7,0,2692],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a21aad38fe91580d3b8e0cc71dce7b1ad":[7,0,2692,1],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a4741bfaaea8bc956fd1020aca13a51c2":[7,0,2692,0],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a54b2ab23915e84b9c9728eb624dae47b":[7,0,2692,2],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[7,0,2692,4],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a6d552ff58f7bb267cf4d20f2f5aedc7a":[7,0,2692,3],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html":[7,0,3891],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[7,0,3891,0]
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a4741bfaaea8bc956fd1020aca13a51c2":[7,0,2692,0]
 };

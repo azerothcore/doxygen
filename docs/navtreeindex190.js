@@ -1,5 +1,12 @@
 var NAVTREEINDEX190 =
 {
+"d6/dda/structnpc__hor__lich__king.html#ad7c511cfa480c3b6801b63e63c0013c6":[7,0,1874,14],
+"d6/dda/structnpc__hor__lich__king.html#ae7f41d3aaa28699aee477dfada1a962f":[7,0,1874,3],
+"d6/dda/structnpc__hor__lich__king.html#af656d33ad0117378a75551d54d2a376f":[7,0,1874,11],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html":[7,0,2022,0],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2022,0,8],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a1f46c988316c1870f506a66f2390e79b":[7,0,2022,0,11],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a308b99ee4d07ed1de0cabd94dafd5dd8":[7,0,2022,0,1],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3cba2cd9a920816bee993ae2986639a0":[7,0,2022,0,4],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3fb01e6a8df3b8205f494f03faf8ace8":[7,0,2022,0,10],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a756a44feb79eb56f443ee16995a2566d":[7,0,2022,0,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX190 =
 "d6/dea/classspell__item__healing__injector.html#a248ae6d2c8f8d6c014a0164105773836":[7,0,3384,2],
 "d6/dea/classspell__item__healing__injector.html#a4dd5016439e8798083fe3d4fa5458731":[7,0,3384,1],
 "d6/dea/classspell__item__healing__injector.html#ae24fd6305b5d17c2fbb6f03238b385c6":[7,0,3384,0],
-"d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[7,0,3384,3],
-"d6/deb/UnitScript_8cpp.html":[8,0,0,0,1,2,38,0,86],
-"d6/deb/UnitScript_8cpp.html#aced42ee6099fa72848b9b4aef527ebc3":[8,0,0,0,1,2,38,0,86,0],
-"d6/deb/structnpc__blade__of__azzinoth.html":[7,0,1681],
-"d6/deb/structnpc__blade__of__azzinoth.html#a501e2d1ae9af813fd9c30395e7774983":[7,0,1681,3],
-"d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[7,0,1681,0],
-"d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[7,0,1681,1],
-"d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[7,0,1681,2]
+"d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[7,0,3384,3]
 };

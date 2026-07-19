@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7ab652dbca9c4dc475326463e0e5305849":[8,0,0,0,1,3,2,1,1,12,5,0],
 "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7acd14c398ef3e21a7ddeb5ad915eb8b2c":[8,0,0,0,1,3,2,1,1,12,5,3],
 "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7ad7d35337f79c6c88ff833e107ac47aff":[8,0,0,0,1,3,2,1,1,12,5,4],
 "d1/d58/boss__the__beast_8cpp.html#ab467ba90e5636027f0ef7f7806d64d25":[8,0,0,0,1,3,2,1,1,12,8],
@@ -207,8 +208,8 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[7,0,2068,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[7,0,2068,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[7,0,2068,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[7,0,13,16,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,16,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[7,0,13,16,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[7,0,13,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,16,1,0],
@@ -231,16 +232,16 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[7,0,210,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,0,90],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[7,0,0,78],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,90,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[7,0,0,78,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[7,0,0,78,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,90,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,90,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[7,0,0,78,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,90,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[7,0,0,78,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,90,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[7,0,0,78,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,0,90,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,90,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[7,0,0,78,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,0,90,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[7,0,3930],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[7,0,3930,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[7,0,3930,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d64/classspell__q14112__14145__chum__the__water.html#ae7bfcdf3306fe4c8532649ff7e892c57":[7,0,3930,0],
 "d1/d65/structgo__brewfest__music_1_1go__brewfest__musicAI.html":[7,0,1155,0],
 "d1/d65/structgo__brewfest__music_1_1go__brewfest__musicAI.html#a47ea5bbcd9d01b9eaf839bc779809aec":[7,0,1155,0,1],
-"d1/d65/structgo__brewfest__music_1_1go__brewfest__musicAI.html#a832bd6353b3c466c197b8c90b5bee8a8":[7,0,1155,0,0],
-"d1/d65/structgo__brewfest__music_1_1go__brewfest__musicAI.html#ad26a0309bdd4eafce4dfa310db929357":[7,0,1155,0,2]
+"d1/d65/structgo__brewfest__music_1_1go__brewfest__musicAI.html#a832bd6353b3c466c197b8c90b5bee8a8":[7,0,1155,0,0]
 };

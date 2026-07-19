@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d17/classspell__black__temple__summon__shadowfiends.html":[7,0,2681],
 "d2/d17/classspell__black__temple__summon__shadowfiends.html#a0038e566bc5054e4208fd727fcc266fa":[7,0,2681,0],
 "d2/d17/classspell__black__temple__summon__shadowfiends.html#a11e82a2b40dbbd9949a1dda3bd715679":[7,0,2681,3],
 "d2/d17/classspell__black__temple__summon__shadowfiends.html#a416b811c2676c598df0ac0e5906a94d3":[7,0,2681,2],
@@ -8,14 +9,14 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[7,0,298,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[7,0,298,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,298,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,3,1],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAuthHandler.html":[7,0,308],
 "d2/d19/structAuthHandler.html#a8074991652af9e5c8752dd4ff5e6e6cc":[7,0,308,0],
 "d2/d19/structAuthHandler.html#a952f7f7ff3017efa4c3d127baa848785":[7,0,308,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1e/classInstanceScript.html#ae9b6369a3b84cf474f74265c8c97f1fd":[7,0,1392,24],
 "d2/d1e/classInstanceScript.html#aecbeaf1f8119fe4ea44880d65a34454a":[7,0,1392,4],
 "d2/d1e/classInstanceScript.html#aedd4eef2e0653d655e20fdd5343b372e":[7,0,1392,26],
-"d2/d1e/classInstanceScript.html#aef0bfc4bd8c254d754202afe4a16bf0b":[7,0,1392,71],
-"d2/d1e/classInstanceScript.html#af16437156dbc2c7b111f0478b3d3e048":[7,0,1392,56]
+"d2/d1e/classInstanceScript.html#aef0bfc4bd8c254d754202afe4a16bf0b":[7,0,1392,71]
 };

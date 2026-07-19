@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d1/d74/classspell__ayamiss__swarmer__swarm.html#ac2e82c7e626658faa968f75c26688b43":[7,0,2653,3],
 "d1/d74/classspell__ayamiss__swarmer__swarm.html#ae856c6e70ededa95c0308596a9f980af":[7,0,2653,2],
 "d1/d75/classspell__hodir__shatter__chest.html":[7,0,3195],
 "d1/d75/classspell__hodir__shatter__chest.html#a4f4d8998d611354bce4f5531e6029d6b":[7,0,3195,0],
@@ -198,8 +199,8 @@ var NAVTREEINDEX36 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[7,0,1393,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[7,0,1393,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[7,0,1393,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[7,0,11,16],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,31,16],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[7,0,11,16],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[7,0,11,16,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,31,16,0],
 "d1/d80/classachievement__better__off__dred.html":[7,0,40],
@@ -223,16 +224,16 @@ var NAVTREEINDEX36 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab45e8c6dd9ea3552fed4b926136f80e6":[7,0,2008,0,6],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab5182ad65187c472b306e2177530d7b6":[7,0,2008,0,2],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[7,0,2008,0,5],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[7,0,0,12],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,24,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[7,0,0,12,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[7,0,0,12,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[7,0,0,12,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,0,24,3],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[7,0,0,12,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[8,0,0,0,1,3,7,5,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,1,1,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298ca40b7e7fb4db16cfa32adca9bba63968a":[8,0,0,0,1,3,7,5,1,1,3,1],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298ca80f816e308ae73e11c13b0a50463f4d7":[8,0,0,0,1,3,7,5,1,1,3,2],
-"d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298cab6a29cf7850b8f53c3fe0bc3a262c4cf":[8,0,0,0,1,3,7,5,1,1,3,6],
-"d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298cadbc336f6868821a6f7333fb6dc07b9f1":[8,0,0,0,1,3,7,5,1,1,3,3]
+"d1/d85/boss__high__botanist__freywinn_8cpp.html#a5bd342133be8c2137b831460acc9298cab6a29cf7850b8f53c3fe0bc3a262c4cf":[8,0,0,0,1,3,7,5,1,1,3,6]
 };

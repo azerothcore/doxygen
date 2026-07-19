@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faa0dbd19f5177a6ba9962e8ece5267e2b":[8,0,0,0,1,2,8,1,1,6,7],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fac8d82aeaabdf25e5accfb734b861d09e":[8,0,0,0,1,2,8,1,1,6,5],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435faf6081991f59a4655ecd5bd229467e81e":[8,0,0,0,1,2,8,1,1,6,6],
 "d2/d35/BattlegroundAB_8h.html#a5ce5aced5b18a9136cfd7a03348a9979":[8,0,0,0,1,2,8,1,1,12],
@@ -214,8 +215,8 @@ var NAVTREEINDEX56 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2214,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2214,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,983,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,983,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,983,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,983,2,1],
 "d2/d39/classboss__varos.html":[7,0,774],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,774,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,774,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#a076e4b548de5cad64b7d81ddd8c5194f":[7,0,3505,1],
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#a769d30c78e4feaa9cc0c581af5264c02":[7,0,3505,0],
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#af1c2b7baf0ff7164cafab8f1a53bbb18":[7,0,3505,2],
-"d2/d3c/classspell__q12659__ahunaes__knife.html":[7,0,3903],
-"d2/d3c/classspell__q12659__ahunaes__knife.html#a69336bea35240c0014693ae167d4124b":[7,0,3903,3]
+"d2/d3c/classspell__q12659__ahunaes__knife.html":[7,0,3903]
 };

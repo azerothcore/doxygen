@@ -1,5 +1,10 @@
 var NAVTREEINDEX146 =
 {
+"d5/d1b/classThreatManager.html#a8c9f733e7e3c781620feed4d2d11fb8d":[7,0,4501,32],
+"d5/d1b/classThreatManager.html#a8fc668195dc91cb83931e190cc00b510":[7,0,4501,3],
+"d5/d1b/classThreatManager.html#a9021052e624c8904e97004e4836598b4":[7,0,4501,74],
+"d5/d1b/classThreatManager.html#a97dcde7e6b404058ca0ae9c6398bb343":[7,0,4501,78],
+"d5/d1b/classThreatManager.html#a9810f766f0d449d620c7c7cddeddeacd":[7,0,4501,49],
 "d5/d1b/classThreatManager.html#aa2d9f83c7923b58580254be846a1f771":[7,0,4501,15],
 "d5/d1b/classThreatManager.html#aa72b714dec8d776298393abaab1f0d80":[7,0,4501,36],
 "d5/d1b/classThreatManager.html#aa8198b23540399ed0b2601c1ca824d60":[7,0,4501,76],
@@ -244,10 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d26/classspell__item__trinket__stack.html":[7,0,3476],
 "d5/d26/classspell__item__trinket__stack.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0":[7,0,3476,0],
 "d5/d26/classspell__item__trinket__stack.html#a49218a89f9915a14b3a98f073d382f91":[7,0,3476,4],
-"d5/d26/classspell__item__trinket__stack.html#a846a3dd6335fc2830e51fff2e5d82ee2":[7,0,3476,3],
-"d5/d26/classspell__item__trinket__stack.html#aec98f9b3b6fb458becb215d2c0e62149":[7,0,3476,1],
-"d5/d26/classspell__item__trinket__stack.html#af498da6d5732c51cf7b3e95633341107":[7,0,3476,2],
-"d5/d26/structnpc__obsidian__eradicator.html":[7,0,2015],
-"d5/d26/structnpc__obsidian__eradicator.html#a1697d83e89559f047d5bab652007bb61":[7,0,2015,3],
-"d5/d26/structnpc__obsidian__eradicator.html#a7c76c7d3a69e464c0dcb6a96226baa61":[7,0,2015,2]
+"d5/d26/classspell__item__trinket__stack.html#a846a3dd6335fc2830e51fff2e5d82ee2":[7,0,3476,3]
 };

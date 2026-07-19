@@ -1,5 +1,10 @@
 var NAVTREEINDEX97 =
 {
+"d3/d36/classnpc__artorius.html#a2563f90fe1fd35c6bcf3f2296652981d":[7,0,1649,2],
+"d3/d36/classnpc__artorius.html#a2c91fcd777d0e0e7ab4927290ca04359":[7,0,1649,3],
+"d3/d36/classnpc__artorius.html#a832831aa19ef3694eee5bbae4d1d39e1":[7,0,1649,1],
+"d3/d36/classnpc__artorius.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57":[7,0,1649,4],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html":[8,0,0,0,2,2,0,10,8],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a089abece3e94a26f04aa17410f5e39ef":[8,0,0,0,2,2,0,10,8,9],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a1a5ddcb64a0c2f2bb55f53ac2405cd19":[8,0,0,0,2,2,0,10,8,2],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a28eafd5c0cb7bb8e01efbb06f7b34233":[8,0,0,0,2,2,0,10,8,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba32ca23a03b4d20be81d5523cbd068b13":[8,0,0,0,1,2,48,7,0,238],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba335a6f82bf38f67eff45adef50ef840c":[8,0,0,0,1,2,48,7,0,87],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33ae5d1371942930679a02685355ebba":[8,0,0,0,1,2,48,7,0,324],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33b4849a50c18190ff6704e6a0e957ff":[8,0,0,0,1,2,48,7,0,74],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33e91708efb5ba457e31e9258638dca3":[8,0,0,0,1,2,48,7,0,28],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33f0d261e3a684a48700d5958ae0f2e9":[8,0,0,0,1,2,48,7,0,502],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3453af4ad45fba77fa427be023d1dffd":[8,0,0,0,1,2,48,7,0,388],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba34a1da5a5c71031de736abc630900af4":[8,0,0,0,1,2,48,7,0,298],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba359fcd3e8b0d320322f99187d076c8fc":[8,0,0,0,1,2,48,7,0,342]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba33b4849a50c18190ff6704e6a0e957ff":[8,0,0,0,1,2,48,7,0,74]
 };

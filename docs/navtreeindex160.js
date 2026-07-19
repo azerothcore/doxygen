@@ -1,5 +1,12 @@
 var NAVTREEINDEX160 =
 {
+"d5/db3/classMySQLConnection.html#ade1f91232f3b8714e738dd2f7cc30b32":[7,0,1570,7],
+"d5/db3/classMySQLConnection.html#ae4e9cf9807f0212a7d5051cad72b4e44":[7,0,1570,16],
+"d5/db3/classMySQLConnection.html#aefb504c18dc11aa656d309363da95f3e":[7,0,1570,4],
+"d5/db3/classMySQLConnection.html#af6c437f04a5b861f8a56c24a372348fe":[7,0,1570,38],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html":[7,0,584,0],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a0b305ec3029d149c3ca273cb7ba52e1b":[7,0,584,0,4],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a1ac1341c022c65f46b30a9c70b3f37ba":[7,0,584,0,12],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a21ac290b79119d47b7509b04b34ea16e":[7,0,584,0,7],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3004d23e6eaa3f2ef5942e96e0c17308":[7,0,584,0,11],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3a21a45072144b6f0421733466770267":[7,0,584,0,10],
@@ -242,12 +249,5 @@ var NAVTREEINDEX160 =
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065a96277e99fce632dafa4fd4dc36108e60":[8,0,0,0,1,3,5,2,0,0,16,0],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065aaf085a0eea027f75c291005b97cb46bd":[8,0,0,0,1,3,5,2,0,0,16,2],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ac3a4396238fbb11f537aa061424abe2b":[8,0,0,0,1,3,5,2,0,0,16,1],
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065acbff865e8b9b8593c0115a78538d222c":[8,0,0,0,1,3,5,2,0,0,16,6],
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ae91867f1a05437c18a1d58ad219cf00f":[8,0,0,0,1,3,5,2,0,0,16,9],
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af19d664ef227eb9bfc2779735274b4b4":[8,0,0,0,1,3,5,2,0,0,16,8],
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2":[8,0,0,0,1,3,5,2,0,0,16,4],
-"d5/dbc/namespaceDoodad.html":[5,0,11],
-"d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,11,0],
-"d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,11,1],
-"d5/dbc/structnpc__hadronox__crusherPackAI.html":[7,0,1853]
+"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065acbff865e8b9b8593c0115a78538d222c":[8,0,0,0,1,3,5,2,0,0,16,6]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX133 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269e":[8,0,0,0,1,3,5,2,1,1,52],
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269ea1cfa54c93b2929e2e740d8a99465d59f":[8,0,0,0,1,3,5,2,1,1,52,3],
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269ea287a9ea15b7f6c77548443f528b05273":[8,0,0,0,1,3,5,2,1,1,52,2],
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaaf085a0eea027f75c291005b97cb46bd":[8,0,0,0,1,3,5,2,1,1,52,0],
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf315f19cb8360fc7ddd7799ed823ab81":[8,0,0,0,1,3,5,2,1,1,52,5],
 "d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf4b3b7a5e8b4481dcb60a25093408bb2":[8,0,0,0,1,3,5,2,1,1,52,1],
 "d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf95e858c15a693439ecb90ffa84284f5":[8,0,0,0,1,3,5,2,1,1,52,4],
 "d4/d81/boss__faction__champions_8cpp.html#a848f82ef3e37f92b10e199f827cf59ff":[8,0,0,0,1,3,5,2,1,1,62],
@@ -244,10 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[7,0,3085,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[7,0,3085,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[7,0,3085,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,8,0]
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,8]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[7,0,3927,0],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#ac5f782da8b5e387c31e048759baf3e16":[7,0,3927,3],
+"d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[7,0,3927,1],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[7,0,1846,0],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[7,0,1846,0,2],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[7,0,1846,0,10],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a21f9c24e80145db0c6847c81261d0e8d":[7,0,1846,0,7],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a6f9730b746e195a99dc11357fd0387ba":[7,0,1846,0,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d0b/namespaceAcore.html#ab9dd42a824e7e453b99fa89a888c82f9":[5,0,0,225],
 "d3/d0b/namespaceAcore.html#abce75cbdcbf4a58be36bf161fe79f9c0":[5,0,0,163],
 "d3/d0b/namespaceAcore.html#abd5773b7124dcbc8deb88f522cdcc86f":[5,0,0,211],
-"d3/d0b/namespaceAcore.html#abe75d0f25949e80d5b51da03acf71f63":[5,0,0,203],
-"d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478":[5,0,0,242],
-"d3/d0b/namespaceAcore.html#ac344e92ea8d73f94dc08c6a52001ec3e":[5,0,0,215],
-"d3/d0b/namespaceAcore.html#ac486e8c9cdad8809eacd83339cdb121d":[5,0,0,238],
-"d3/d0b/namespaceAcore.html#ac6cb156df4b425a40366655daf1ba776":[5,0,0,218],
-"d3/d0b/namespaceAcore.html#aca0eb3f176889f6cc837d75915f5d668":[5,0,0,161]
+"d3/d0b/namespaceAcore.html#abe75d0f25949e80d5b51da03acf71f63":[5,0,0,203]
 };

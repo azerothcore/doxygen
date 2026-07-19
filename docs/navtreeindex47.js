@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a2269304af6a8e9cbb27a96e674e6b133":[8,0,0,0,1,3,9,11,45,50],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a3271d6132b8adae14e612e8f53d00936":[8,0,0,0,1,3,9,11,45,52],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a3488f55b7b057d4c96769b8363e9e617":[8,0,0,0,1,3,9,11,45,47],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a3d7643fe94261c79ba445ee942c4058b":[8,0,0,0,1,3,9,11,45,45],
@@ -223,8 +224,8 @@ var NAVTREEINDEX47 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
 "d1/de0/classnpc__stable__master.html":[7,0,2152],
 "d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[7,0,2152,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[7,0,2152,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca60787103f4bb5d3b0c72bcfa95094c87":[8,0,0,0,1,3,7,5,3,3,4,6],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ca264d7f9d091751c26ac1679eeaa35":[8,0,0,0,1,3,7,5,3,3,4,5],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542":[8,0,0,0,1,3,7,5,3,3,4,1],
-"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56":[8,0,0,0,1,3,7,5,3,3,4,2],
-"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cae759958cda5fba0a9771859e71a447a5":[8,0,0,0,1,3,7,5,3,3,4,9]
+"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56":[8,0,0,0,1,3,7,5,3,3,4,2]
 };

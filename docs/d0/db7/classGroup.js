@@ -97,6 +97,7 @@ var classGroup =
     [ "SendLootRollWon", "d0/db7/classGroup.html#afdb35f1d4e4528ed5ef3e958975b0d46", null ],
     [ "SendLootStartRoll", "d0/db7/classGroup.html#a6961cad4ce9ffb385351a99bb8e3c4a0", null ],
     [ "SendLootStartRollToPlayer", "d0/db7/classGroup.html#a98b4ff31721bfb0909677328acb168a7", null ],
+    [ "SendPendingRollsToPlayer", "d0/db7/classGroup.html#a59524968caf83e1449721ef94d540ce2", null ],
     [ "SendTargetIconList", "d0/db7/classGroup.html#a2174d73512b1cbc0e40926f7d6c6e4e9", null ],
     [ "SendUpdate", "d0/db7/classGroup.html#a5be377d96f4d118934fc0103a73877f3", null ],
     [ "SendUpdateToPlayer", "d0/db7/classGroup.html#a2e326d9b26ac715d85e2d4a49379cd55", null ],
