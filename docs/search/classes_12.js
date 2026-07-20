@@ -79,11 +79,10 @@ var searchData=
   ['restorefight_76',['RestoreFight',['../d2/d0f/classRestoreFight.html',1,'']]],
   ['resultiterator_77',['ResultIterator',['../dc/d21/structResultIterator.html',1,'']]],
   ['resultset_78',['ResultSet',['../d0/d92/classResultSet.html',1,'']]],
-  ['risenarchmagecheck_79',['RisenArchmageCheck',['../d2/d0a/classRisenArchmageCheck.html',1,'']]],
-  ['roll_80',['Roll',['../d5/d0a/classRoll.html',1,'']]],
-  ['rotatemovementgenerator_81',['RotateMovementGenerator',['../d8/d7b/classRotateMovementGenerator.html',1,'']]],
-  ['rotfaceheightcheck_82',['RotfaceHeightCheck',['../d3/d23/structRotfaceHeightCheck.html',1,'']]],
-  ['runeinfo_83',['RuneInfo',['../d0/d80/structRuneInfo.html',1,'']]],
-  ['runes_84',['Runes',['../d5/de7/structRunes.html',1,'']]],
-  ['runnable_85',['Runnable',['../d5/d27/classAcore_1_1Runnable.html',1,'Acore']]]
+  ['roll_79',['Roll',['../d5/d0a/classRoll.html',1,'']]],
+  ['rotatemovementgenerator_80',['RotateMovementGenerator',['../d8/d7b/classRotateMovementGenerator.html',1,'']]],
+  ['rotfaceheightcheck_81',['RotfaceHeightCheck',['../d3/d23/structRotfaceHeightCheck.html',1,'']]],
+  ['runeinfo_82',['RuneInfo',['../d0/d80/structRuneInfo.html',1,'']]],
+  ['runes_83',['Runes',['../d5/de7/structRunes.html',1,'']]],
+  ['runnable_84',['Runnable',['../d5/d27/classAcore_1_1Runnable.html',1,'Acore']]]
 ];

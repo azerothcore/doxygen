@@ -1269,7 +1269,13 @@ var Language_8h =
       [ "LANG_COMMAND_NPC_SHOWLOOT_QUEST", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac0574a0f93ef56f3801da11c31c6750d", null ],
       [ "LANG_COMMAND_GROUP_INVITES_ACCEPTING", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa38f9861bd6cce41482fd5e43238c4a28", null ],
       [ "LANG_COMMAND_GROUP_INVITES_ON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa2d2d681d9e9ef2cbc18f9499d70363af", null ],
-      [ "LANG_COMMAND_GROUP_INVITES_OFF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad74c19279d452e062230d9f828385cdb", null ]
+      [ "LANG_COMMAND_GROUP_INVITES_OFF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aad74c19279d452e062230d9f828385cdb", null ],
+      [ "LANG_ACCOUNT_FLAG_LIST_HEADER", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa995749d32364f5c79876fc1a28c32efb", null ],
+      [ "LANG_ACCOUNT_FLAG_LIST_EMPTY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa5d28353bfce6df777df6040d503f85bf", null ],
+      [ "LANG_ACCOUNT_FLAG_INVALID", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa89feb01b099be0313c2936aeb1dc4c4a", null ],
+      [ "LANG_ACCOUNT_FLAG_RESERVED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa31f842bea64b132961ac149ae2dd1068", null ],
+      [ "LANG_ACCOUNT_FLAG_ADDED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae89c3aa8e30b67d3f95c51319368be81", null ],
+      [ "LANG_ACCOUNT_FLAG_REMOVED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6c004becbd2bf5107fa71b34e7719a91", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

@@ -29,6 +29,7 @@ var boss__yoggsaron_8cpp =
     [ "spell_yogg_saron_empowered_aura", "d0/d9a/classspell__yogg__saron__empowered__aura.html", "d0/d9a/classspell__yogg__saron__empowered__aura" ],
     [ "spell_yogg_saron_insane_periodic_trigger", "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html", "d7/d1b/classspell__yogg__saron__insane__periodic__trigger" ],
     [ "spell_yogg_saron_insane_aura", "d4/d81/classspell__yogg__saron__insane__aura.html", "d4/d81/classspell__yogg__saron__insane__aura" ],
+    [ "spell_yogg_saron_sanity", "dc/d74/classspell__yogg__saron__sanity.html", "dc/d74/classspell__yogg__saron__sanity" ],
     [ "spell_yogg_saron_sanity_well_aura", "d3/d40/classspell__yogg__saron__sanity__well__aura.html", "d3/d40/classspell__yogg__saron__sanity__well__aura" ],
     [ "spell_keeper_freya_summon_sanity_well", "d5/d16/classspell__keeper__freya__summon__sanity__well.html", "d5/d16/classspell__keeper__freya__summon__sanity__well" ],
     [ "spell_yogg_saron_sanity_reduce", "d6/dc5/classspell__yogg__saron__sanity__reduce.html", "d6/dc5/classspell__yogg__saron__sanity__reduce" ],

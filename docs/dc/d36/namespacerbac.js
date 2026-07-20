@@ -659,6 +659,10 @@ var namespacerbac =
       [ "RBAC_PERM_COMMAND_SPELLINFO_ALL", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a558cbb18afe4c1918a38f747d43a5a3d", null ],
       [ "RBAC_PERM_COMMAND_SERVER_SET_SECURITY", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a608c2fd60fd2c9bb301b01999ba93f1a", null ],
       [ "RBAC_PERM_COMMAND_GROUP_INVITES", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04acb681494ef5f3700c262e63fe346e2ad", null ],
+      [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a867ff55dae206347666363510ea1786f", null ],
+      [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_LIST", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ad2c21dc636106c9fc30e9a8beaacc4e3", null ],
+      [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_ADD", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ad73e07eee25980f89013a5552d2bbac4", null ],
+      [ "RBAC_PERM_COMMAND_ACCOUNT_FLAG_REMOVE", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ad32c47667da35f0f85dcbe6919fb5b58", null ],
       [ "RBAC_PERM_MAX", "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3008e1acaafec3f062b9e4303e84cead", null ]
     ] ],
     [ "GetDebugPermissionString", "dc/d36/namespacerbac.html#ad45fe4229235a57fc4952a69ede78410", null ]

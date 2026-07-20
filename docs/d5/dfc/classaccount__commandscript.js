@@ -1,6 +1,7 @@
 var classaccount__commandscript =
 [
     [ "account_commandscript", "d5/dfc/classaccount__commandscript.html#acfea28449f30913389ab2eddfc512dbb", null ],
+    [ "ChangeAccountFlag", "d5/dfc/classaccount__commandscript.html#a40959a2fe4768af0c01522482b90484b", null ],
     [ "GetCommands", "d5/dfc/classaccount__commandscript.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
     [ "HandleAccount2FARemoveCommand", "d5/dfc/classaccount__commandscript.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
     [ "HandleAccount2FASetupCommand", "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c", null ],
@@ -8,6 +9,9 @@ var classaccount__commandscript =
     [ "HandleAccountCommand", "d5/dfc/classaccount__commandscript.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
     [ "HandleAccountCreateCommand", "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
     [ "HandleAccountDeleteCommand", "d5/dfc/classaccount__commandscript.html#a4bb0b76ef822011054d699df31f60d7e", null ],
+    [ "HandleAccountFlagAddCommand", "d5/dfc/classaccount__commandscript.html#a7808acde3baa83c399ca6bf936065cf2", null ],
+    [ "HandleAccountFlagListCommand", "d5/dfc/classaccount__commandscript.html#a12e56ff772b3ed2997dc979203c05e48", null ],
+    [ "HandleAccountFlagRemoveCommand", "d5/dfc/classaccount__commandscript.html#afba345af5a9da1ff68c7333015730ef3", null ],
     [ "HandleAccountLockCountryCommand", "d5/dfc/classaccount__commandscript.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
     [ "HandleAccountLockIpCommand", "d5/dfc/classaccount__commandscript.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
     [ "HandleAccountOnlineListCommand", "d5/dfc/classaccount__commandscript.html#a36cb5b885d6c0745303b386ad42541f6", null ],
@@ -17,5 +21,6 @@ var classaccount__commandscript =
     [ "HandleAccountSetAddonCommand", "d5/dfc/classaccount__commandscript.html#aca017dc33dab7c379d8203569775f21b", null ],
     [ "HandleAccountSetEmailCommand", "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
     [ "HandleAccountSetGmLevelCommand", "d5/dfc/classaccount__commandscript.html#a1aaee019de3b7802281e25e926fa4821", null ],
-    [ "HandleAccountSetPasswordCommand", "d5/dfc/classaccount__commandscript.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
+    [ "HandleAccountSetPasswordCommand", "d5/dfc/classaccount__commandscript.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ],
+    [ "ParseAccountFlagBit", "d5/dfc/classaccount__commandscript.html#a48924a519a26aca2d4558df9e696ec47", null ]
 ];

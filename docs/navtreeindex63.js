@@ -1,7 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d4b/classPlayer.html#ad0e9deaa17bba3a6092ce029689b8191":[7,0,2407,1127],
-"d2/d4b/classPlayer.html#ad11bdb534533d262b0ddaea8a5c03170":[7,0,2407,1005],
 "d2/d4b/classPlayer.html#ad145c437350c6a51bc985333c6dbaaaf":[7,0,2407,323],
 "d2/d4b/classPlayer.html#ad14976cdb7cc56b4a18ab79d5c8e9f43":[7,0,2407,135],
 "d2/d4b/classPlayer.html#ad16d2ba4c9f3a3d5c127728c4d2540d3":[7,0,2407,390],
@@ -240,14 +238,16 @@ var NAVTREEINDEX63 =
 "d2/d4b/classPlayer.html#affc0664ca9876d363ee641e2ce98bba0":[7,0,2407,1030],
 "d2/d4b/classPlayer.html#affc4b060ef3294d9bcdf34623ccd5ecb":[7,0,2407,451],
 "d2/d4b/classPlayer.html#affdbd69b2c33a4a6123e764703b6bd57":[7,0,2407,1061],
-"d2/d4b/classSuckBackEvent.html":[7,0,4470],
-"d2/d4b/classSuckBackEvent.html#a4d8bc09803f7786022c1836457ded488":[7,0,4470,3],
-"d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[7,0,4470,0],
-"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4470,1],
-"d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4470,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
+"d2/d4b/classSuckBackEvent.html":[7,0,4473],
+"d2/d4b/classSuckBackEvent.html#a4d8bc09803f7786022c1836457ded488":[7,0,4473,3],
+"d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[7,0,4473,0],
+"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4473,1],
+"d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4473,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0]
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2]
 };

@@ -10,7 +10,7 @@ var searchData=
   ['account_5fcommandscript_7',['account_commandscript',['../d5/dfc/classaccount__commandscript.html',1,'']]],
   ['accountactioniplogger_8',['AccountActionIpLogger',['../de/db3/classAccountActionIpLogger.html',1,'']]],
   ['accountdata_9',['AccountData',['../da/dac/structAccountData.html',1,'']]],
-  ['accountflagtext_10',['AccountFlagText',['../db/dda/structAccountFlagText.html',1,'']]],
+  ['accountflagname_10',['AccountFlagName',['../d5/d15/structAccountFlagName.html',1,'']]],
   ['accountidentifier_11',['AccountIdentifier',['../d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html',1,'Acore::ChatCommands']]],
   ['accountinfo_12',['AccountInfo',['../d0/ddf/structAccountInfo.html',1,'']]],
   ['accountinfoqueryholderperrealm_13',['AccountInfoQueryHolderPerRealm',['../d1/dcd/classAccountInfoQueryHolderPerRealm.html',1,'']]],

@@ -348,27 +348,27 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  948</span>    {</div>
-<div class="line"><span class="lineno">  949</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  950</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
-<div class="line"><span class="lineno">  951</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
-<div class="line"><span class="lineno">  952</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  953</span> </div>
-<div class="line"><span class="lineno">  954</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* xt002 = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetVehicleCreatureBase())</div>
-<div class="line"><span class="lineno">  955</span>            xt002-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a">DATA_TRANSFERED_HEALTH</a>, damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
-<div class="line"><span class="lineno">  956</span> </div>
-<div class="line"><span class="lineno">  957</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  958</span>        <span class="keywordflow">if</span> (now - <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">_lastOrbTime</a> &gt;= <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb">OrbCooldown</a>)</div>
-<div class="line"><span class="lineno">  959</span>        {</div>
-<div class="line"><span class="lineno">  960</span>            <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">_lastOrbTime</a> = now;</div>
-<div class="line"><span class="lineno">  961</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  962</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  963</span>        }</div>
-<div class="line"><span class="lineno">  964</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  969</span>    {</div>
+<div class="line"><span class="lineno">  970</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  971</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
+<div class="line"><span class="lineno">  972</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
+<div class="line"><span class="lineno">  973</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  974</span> </div>
+<div class="line"><span class="lineno">  975</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* xt002 = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetVehicleCreatureBase())</div>
+<div class="line"><span class="lineno">  976</span>            xt002-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a">DATA_TRANSFERED_HEALTH</a>, damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>());</div>
+<div class="line"><span class="lineno">  977</span> </div>
+<div class="line"><span class="lineno">  978</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  979</span>        <span class="keywordflow">if</span> (now - <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">_lastOrbTime</a> &gt;= <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb">OrbCooldown</a>)</div>
+<div class="line"><span class="lineno">  980</span>        {</div>
+<div class="line"><span class="lineno">  981</span>            <a class="code hl_variable" href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">_lastOrbTime</a> = now;</div>
+<div class="line"><span class="lineno">  982</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  983</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  984</span>        }</div>
+<div class="line"><span class="lineno">  985</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aTimer_8h_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition</b> Timer.h:103</div></div>
-<div class="ttc" id="aboss__xt002_8cpp_html_a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a">DATA_TRANSFERED_HEALTH</a></div><div class="ttdeci">@ DATA_TRANSFERED_HEALTH</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:116</div></div>
-<div class="ttc" id="aboss__xt002_8cpp_html_a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a></div><div class="ttdeci">@ SPELL_HEART_OVERLOAD_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:64</div></div>
+<div class="ttc" id="aboss__xt002_8cpp_html_a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a33efeffeed908e11564074793f0a397cacee7ef2c7b890bacf49e895cb351b17a">DATA_TRANSFERED_HEALTH</a></div><div class="ttdeci">@ DATA_TRANSFERED_HEALTH</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:117</div></div>
+<div class="ttc" id="aboss__xt002_8cpp_html_a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a></div><div class="ttdeci">@ SPELL_HEART_OVERLOAD_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:65</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
@@ -377,10 +377,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:373</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:470</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
-<div class="ttc" id="aclassspell__xt002__exposed__heart_html_a4522510d836abf625b019674c1c5281f"><div class="ttname"><a href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">spell_xt002_exposed_heart::_lastOrbTime</a></div><div class="ttdeci">uint32 _lastOrbTime</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:972</div></div>
-<div class="ttc" id="aclassspell__xt002__exposed__heart_html_a4a0204623a0db8d1474d0e72e71226eb"><div class="ttname"><a href="../../d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb">spell_xt002_exposed_heart::OrbCooldown</a></div><div class="ttdeci">static constexpr uint32 OrbCooldown</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:945</div></div>
+<div class="ttc" id="aclassspell__xt002__exposed__heart_html_a4522510d836abf625b019674c1c5281f"><div class="ttname"><a href="../../d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f">spell_xt002_exposed_heart::_lastOrbTime</a></div><div class="ttdeci">uint32 _lastOrbTime</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:993</div></div>
+<div class="ttc" id="aclassspell__xt002__exposed__heart_html_a4a0204623a0db8d1474d0e72e71226eb"><div class="ttname"><a href="../../d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb">spell_xt002_exposed_heart::OrbCooldown</a></div><div class="ttdeci">static constexpr uint32 OrbCooldown</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:966</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00972">_lastOrbTime</a>, <a class="el" href="../../#l00116">DATA_TRANSFERED_HEALTH</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00470">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00945">OrbCooldown</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00064">SPELL_HEART_OVERLOAD_TRIGGER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00993">_lastOrbTime</a>, <a class="el" href="../../#l00117">DATA_TRANSFERED_HEALTH</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00470">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00966">OrbCooldown</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00065">SPELL_HEART_OVERLOAD_TRIGGER</a>.</p>
 
 </div>
 </div>
@@ -434,9 +434,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  967</span>    {</div>
-<div class="line"><span class="lineno">  968</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">spell_xt002_exposed_heart::OnProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e">SPELL_AURA_MOD_DAMAGE_PERCENT_TAKEN</a>);</div>
-<div class="line"><span class="lineno">  969</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  988</span>    {</div>
+<div class="line"><span class="lineno">  989</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">spell_xt002_exposed_heart::OnProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e">SPELL_AURA_MOD_DAMAGE_PERCENT_TAKEN</a>);</div>
+<div class="line"><span class="lineno">  990</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e">SPELL_AURA_MOD_DAMAGE_PERCENT_TAKEN</a></div><div class="ttdeci">@ SPELL_AURA_MOD_DAMAGE_PERCENT_TAKEN</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:150</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:867</div></div>
@@ -472,12 +472,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  941</span>    {</div>
-<div class="line"><span class="lineno">  942</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a> });</div>
-<div class="line"><span class="lineno">  943</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  962</span>    {</div>
+<div class="line"><span class="lineno">  963</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b7a480374ed4d1d0ab7dfa1f741edb0">SPELL_HEART_OVERLOAD_TRIGGER</a> });</div>
+<div class="line"><span class="lineno">  964</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">SPELL_HEART_OVERLOAD_TRIGGER</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00065">SPELL_HEART_OVERLOAD_TRIGGER</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -501,9 +501,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  972</span>{};</div>
+<div class="fragment"><div class="line"><span class="lineno">  993</span>{};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00947">OnProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00968">OnProc()</a>.</p>
 
 </div>
 </div>
@@ -527,7 +527,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00947">OnProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00968">OnProc()</a>.</p>
 
 </div>
 </div>
@@ -540,7 +540,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dec/classspell__xt002__exposed__heart.html">spell_xt002_exposed_heart</a></li>
-    <li class="footer">Generated on Sun Jul 19 2026 08:10:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jul 20 2026 08:51:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

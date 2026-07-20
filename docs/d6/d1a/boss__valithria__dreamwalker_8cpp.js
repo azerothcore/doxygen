@@ -1,6 +1,5 @@
 var boss__valithria__dreamwalker_8cpp =
 [
-    [ "RisenArchmageCheck", "d2/d0a/classRisenArchmageCheck.html", "d2/d0a/classRisenArchmageCheck" ],
     [ "ManaVoidSelector", "d4/d6b/structManaVoidSelector.html", "d4/d6b/structManaVoidSelector" ],
     [ "DelayedCastEvent", "dd/d01/classDelayedCastEvent.html", "dd/d01/classDelayedCastEvent" ],
     [ "AuraRemoveEvent", "db/df8/classAuraRemoveEvent.html", "db/df8/classAuraRemoveEvent" ],
@@ -38,7 +37,8 @@ var boss__valithria__dreamwalker_8cpp =
     [ "Actions", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_ENTER_COMBAT", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998", null ],
       [ "MISSED_PORTALS", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c", null ],
-      [ "ACTION_DEATH", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f", null ]
+      [ "ACTION_DEATH", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f", null ],
+      [ "ACTION_SETUP_ARCHMAGES", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce", null ]
     ] ],
     [ "Events", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_INTRO_TALK", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d69a5e6edd359d09d40f129a7841881", null ],
@@ -97,6 +97,11 @@ var boss__valithria__dreamwalker_8cpp =
       [ "SPELL_ROT_WORM_SPAWNER", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dbe1d99d7001fc114076614f510fc05", null ],
       [ "SPELL_EMERALD_VIGOR", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad7f8ac76e48c4c06ab845b8ce8c3fa81", null ],
       [ "SPELL_TWISTED_NIGHTMARE", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa0b57c02b066d396d78f91bfa3568b1e", null ]
+    ] ],
+    [ "SummonGroups", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81e", [
+      [ "SUMMON_GROUP_ALL", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8", null ],
+      [ "SUMMON_GROUP_10", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3", null ],
+      [ "SUMMON_GROUP_25", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7", null ]
     ] ],
     [ "Texts", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_LICH_KING_INTRO", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2550735cdd6c2765682564e1027f0c6c", null ],

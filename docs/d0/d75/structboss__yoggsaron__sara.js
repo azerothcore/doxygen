@@ -18,7 +18,6 @@ var structboss__yoggsaron__sara =
     [ "Reset", "d0/d75/structboss__yoggsaron__sara.html#a92e3a017c536d49f09acace1285506ec", null ],
     [ "SpawnClouds", "d0/d75/structboss__yoggsaron__sara.html#a99a7e54703067a7d52f69cfc7e5ca982", null ],
     [ "SpawnTentacle", "d0/d75/structboss__yoggsaron__sara.html#a1c28e0554d3b8741e9f8d30cd9e96a57", null ],
-    [ "SpellHitTarget", "d0/d75/structboss__yoggsaron__sara.html#a52422e3f597a1601511af6b82d620d4c", null ],
     [ "SummonDeathOrbs", "d0/d75/structboss__yoggsaron__sara.html#af934d1108ce1c5e513daf283016064d3", null ],
     [ "UpdateAI", "d0/d75/structboss__yoggsaron__sara.html#af636ca790f3ebf71821bd3afd12aef2d", null ],
     [ "UpdateKeeperSpawns", "d0/d75/structboss__yoggsaron__sara.html#a8e35aa5461cf9188728d6814aa075124", null ],

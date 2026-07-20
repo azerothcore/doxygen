@@ -1,6 +1,6 @@
 var classMMAP_1_1MapBuilder =
 [
-    [ "MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html#ab62a5a82ac36624721b8e2f163774971", null ],
+    [ "MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html#a4d5a8361c8b6be5dd0d229aaf6d64f97", null ],
     [ "~MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html#aef85f4c8c7f4d69255dfb5e48ecc1c6b", null ],
     [ "buildMap", "d4/dab/classMMAP_1_1MapBuilder.html#ad03f36a25938f99df3dab2806cecfaa0", null ],
     [ "buildMaps", "d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e", null ],
@@ -24,7 +24,6 @@ var classMMAP_1_1MapBuilder =
     [ "m_config", "d4/dab/classMMAP_1_1MapBuilder.html#a463182715b30fcb37c225daf2e006521", null ],
     [ "m_debugOutput", "d4/dab/classMMAP_1_1MapBuilder.html#ae68a24d427865a7e3b2f2a2c9748d7f0", null ],
     [ "m_mapid", "d4/dab/classMMAP_1_1MapBuilder.html#a3dfc20dcb3b5e8e85a6f3fa7e2cfd057", null ],
-    [ "m_offMeshFilePath", "d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0", null ],
     [ "m_rcContext", "d4/dab/classMMAP_1_1MapBuilder.html#a89ef1a7fa881b10710e7850b5f4226f6", null ],
     [ "m_skipBattlegrounds", "d4/dab/classMMAP_1_1MapBuilder.html#ab3e398f460a9c880d09d90efa40802eb", null ],
     [ "m_skipContinents", "d4/dab/classMMAP_1_1MapBuilder.html#a5d5f764203520de0f3de746d06b9ce6f", null ],

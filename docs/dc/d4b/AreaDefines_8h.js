@@ -213,6 +213,7 @@ var AreaDefines_8h =
       [ "MAP_AUCHINDOUN_MANA_TOMBS", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830", null ],
       [ "MAP_AUCHINDOUN_AUCHENAI_CRYPTS", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba330acc87a9348337564fdd6a8b53a15b", null ],
       [ "MAP_THE_ESCAPE_FROM_DURNHOLDE", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba6efcd09935902d0f04179f872d7f84b4", null ],
+      [ "MAP_BLADES_EDGE_ARENA", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbad3bd9d753d5f3e93fae10f2b441f338a", null ],
       [ "MAP_BLACK_TEMPLE", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab52840c4009bfeef8454490bc55c61db", null ],
       [ "MAP_GRUULS_LAIR", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba64470192b7ae97d515941bdbea353510", null ],
       [ "MAP_EYE_OF_THE_STORM", "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7460c86126f29fe941d171186f81631e", null ],

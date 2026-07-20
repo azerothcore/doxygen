@@ -1,6 +1,5 @@
 var NAVTREEINDEX13 =
 {
-"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[7,0,1048,93],
 "d0/d8c/classEnumUtils.html#a530800a1db54a25fc05968066ca6bc00":[7,0,1048,76],
 "d0/d8c/classEnumUtils.html#a5454b740ce1ac05526d97dd35fbc9511":[7,0,1048,37],
 "d0/d8c/classEnumUtils.html#a56feebca73ac73c6f1c0db0105c091a9":[7,0,1048,77],
@@ -102,11 +101,11 @@ var NAVTREEINDEX13 =
 "d0/d8c/classnpc__mistress__of__pain.html":[7,0,1991],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[7,0,1991,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[7,0,1991,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3587],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3587,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3587,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[7,0,3587,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3587,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3586],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3586,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3586,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[7,0,3586,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3586,3],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html":[7,0,1722,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a0732307643a442bc3f070b9cc91d78c9":[7,0,1722,0,4],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a2ed09d31771e9c225d8d8b40ba8f0f82":[7,0,1722,0,2],
@@ -123,10 +122,10 @@ var NAVTREEINDEX13 =
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[7,0,1710,0,2],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a8ebaca725aba2c3aed8856fb23228ae1":[7,0,1710,0,1],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#ae91de64c440e71e612f34e37b90076d5":[7,0,1710,0,0],
-"d0/d8f/classspell__murmur__thundering__storm.html":[7,0,3665],
-"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[7,0,3665,2],
-"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[7,0,3665,1],
-"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[7,0,3665,0],
+"d0/d8f/classspell__murmur__thundering__storm.html":[7,0,3666],
+"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[7,0,3666,2],
+"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[7,0,3666,1],
+"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[7,0,3666,0],
 "d0/d91/BattlegroundIC_8h.html":[8,0,0,0,1,2,8,1,11],
 "d0/d91/BattlegroundIC_8h.html#a049af3560e17980d576075a47c35388c":[8,0,0,0,1,2,8,1,11,26],
 "d0/d91/BattlegroundIC_8h.html#a1128797b076699b79f556063e82a58d5":[8,0,0,0,1,2,8,1,11,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX13 =
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a8e5259242d2275b026deb873ad932ffe":[8,0,0,0,1,2,8,1,11,10,90],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a8fa3e06af6ab72c779a04b7ef6a9d51b":[8,0,0,0,1,2,8,1,11,10,40],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a9011f9779cfa7ca512bf0e69900bc248":[8,0,0,0,1,2,8,1,11,10,73],
-"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a91ae24491f0d6a4a6314b7212d1c86da":[8,0,0,0,1,2,8,1,11,10,32]
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a91ae24491f0d6a4a6314b7212d1c86da":[8,0,0,0,1,2,8,1,11,10,32],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a927953238d1fab011effb8829649a834":[8,0,0,0,1,2,8,1,11,10,12]
 };

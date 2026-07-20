@@ -131,8 +131,6 @@ $(document).ready(function(){initNavTree('d6/d1a/boss__valithria__dreamwalker_8c
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d0a/classRisenArchmageCheck.html">RisenArchmageCheck</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d6b/structManaVoidSelector.html">ManaVoidSelector</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d01/classDelayedCastEvent.html">DelayedCastEvent</a></td></tr>
@@ -345,9 +343,20 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c">MISSED_PORTALS</a> = 2
 , <br />
 &#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f">ACTION_DEATH</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce">ACTION_SETUP_ARCHMAGES</a> = 4
 <br />
  }</td></tr>
 <tr class="separator:a250372292659bed7ae290d8621f88ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a132910a4b8d30adc216643de31e9c81e" id="r_a132910a4b8d30adc216643de31e9c81e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81e">SummonGroups</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8">SUMMON_GROUP_ALL</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3">SUMMON_GROUP_10</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7">SUMMON_GROUP_25</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:a132910a4b8d30adc216643de31e9c81e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -375,13 +384,16 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998" name="a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998"></a>ACTION_ENTER_COMBAT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c" name="a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c"></a>MISSED_PORTALS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f" name="a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f"></a>ACTION_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce" name="a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce"></a>ACTION_SETUP_ARCHMAGES&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
-<div class="line"><span class="lineno">  142</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998">ACTION_ENTER_COMBAT</a> = 1,</div>
-<div class="line"><span class="lineno">  143</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c">MISSED_PORTALS</a>      = 2,</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f">ACTION_DEATH</a>        = 3,</div>
-<div class="line"><span class="lineno">  145</span>};</div>
+<div class="line"><span class="lineno">  142</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998">ACTION_ENTER_COMBAT</a>    = 1,</div>
+<div class="line"><span class="lineno">  143</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c">MISSED_PORTALS</a>         = 2,</div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f">ACTION_DEATH</a>           = 3,</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce">ACTION_SETUP_ARCHMAGES</a> = 4,</div>
+<div class="line"><span class="lineno">  146</span>};</div>
 <div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c">MISSED_PORTALS</a></div><div class="ttdeci">@ MISSED_PORTALS</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:143</div></div>
+<div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa82d8d35104fe83576580367f1400b1ce">ACTION_SETUP_ARCHMAGES</a></div><div class="ttdeci">@ ACTION_SETUP_ARCHMAGES</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:145</div></div>
 <div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998">ACTION_ENTER_COMBAT</a></div><div class="ttdeci">@ ACTION_ENTER_COMBAT</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:142</div></div>
 <div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad9d3362941ed8193b956c3bdee296d7f">ACTION_DEATH</a></div><div class="ttdeci">@ ACTION_DEATH</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:144</div></div>
 </div><!-- fragment -->
@@ -616,6 +628,33 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a132910a4b8d30adc216643de31e9c81e" name="a132910a4b8d30adc216643de31e9c81e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a132910a4b8d30adc216643de31e9c81e">&#9670;&#160;</a></span>SummonGroups</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81e">SummonGroups</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8" name="a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8"></a>SUMMON_GROUP_ALL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3" name="a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3"></a>SUMMON_GROUP_10&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7" name="a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7"></a>SUMMON_GROUP_25&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  149</span>{</div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8">SUMMON_GROUP_ALL</a> = 1,</div>
+<div class="line"><span class="lineno">  151</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3">SUMMON_GROUP_10</a>  = 2,</div>
+<div class="line"><span class="lineno">  152</span>    <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7">SUMMON_GROUP_25</a>  = 3,</div>
+<div class="line"><span class="lineno">  153</span>};</div>
+<div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea4809ea5b2f763376f90ccb2af056d5e3">SUMMON_GROUP_10</a></div><div class="ttdeci">@ SUMMON_GROUP_10</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:151</div></div>
+<div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea66267182816faad5a1c98349a10171c7">SUMMON_GROUP_25</a></div><div class="ttdeci">@ SUMMON_GROUP_25</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:152</div></div>
+<div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea88dc00e082579e6bfa961b74f8530eb8">SUMMON_GROUP_ALL</a></div><div class="ttdeci">@ SUMMON_GROUP_ALL</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:150</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <a id="aa80bce1d0ea05213c0d6c327126caf31" name="aa80bce1d0ea05213c0d6c327126caf31"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa80bce1d0ea05213c0d6c327126caf31">&#9670;&#160;</a></span>Texts</h2>
 
@@ -705,14 +744,14 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 1409</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
 <div class="ttc" id="aclassachievement__portal__jockey_html"><div class="ttname"><a href="../../dc/d51/classachievement__portal__jockey.html">achievement_portal_jockey</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1375</div></div>
-<div class="ttc" id="aclassboss__valithria__dreamwalker_html"><div class="ttname"><a href="../../dc/da5/classboss__valithria__dreamwalker.html">boss_valithria_dreamwalker</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:286</div></div>
+<div class="ttc" id="aclassboss__valithria__dreamwalker_html"><div class="ttname"><a href="../../dc/da5/classboss__valithria__dreamwalker.html">boss_valithria_dreamwalker</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:279</div></div>
 <div class="ttc" id="aclassnpc__blazing__skeleton_html"><div class="ttname"><a href="../../d6/d9b/classnpc__blazing__skeleton.html">npc_blazing_skeleton</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:863</div></div>
 <div class="ttc" id="aclassnpc__blistering__zombie_html"><div class="ttname"><a href="../../dc/d19/classnpc__blistering__zombie.html">npc_blistering_zombie</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:970</div></div>
 <div class="ttc" id="aclassnpc__gluttonous__abomination_html"><div class="ttname"><a href="../../da/dca/classnpc__gluttonous__abomination.html">npc_gluttonous_abomination</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1035</div></div>
-<div class="ttc" id="aclassnpc__green__dragon__combat__trigger_html"><div class="ttname"><a href="../../dd/d36/classnpc__green__dragon__combat__trigger.html">npc_green_dragon_combat_trigger</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:487</div></div>
-<div class="ttc" id="aclassnpc__risen__archmage_html"><div class="ttname"><a href="../../d2/d3d/classnpc__risen__archmage.html">npc_risen_archmage</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:656</div></div>
+<div class="ttc" id="aclassnpc__green__dragon__combat__trigger_html"><div class="ttname"><a href="../../dd/d36/classnpc__green__dragon__combat__trigger.html">npc_green_dragon_combat_trigger</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:480</div></div>
+<div class="ttc" id="aclassnpc__risen__archmage_html"><div class="ttname"><a href="../../d2/d3d/classnpc__risen__archmage.html">npc_risen_archmage</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:655</div></div>
 <div class="ttc" id="aclassnpc__suppresser_html"><div class="ttname"><a href="../../d4/d3d/classnpc__suppresser.html">npc_suppresser</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:919</div></div>
-<div class="ttc" id="aclassnpc__the__lich__king__controller_html"><div class="ttname"><a href="../../d1/db5/classnpc__the__lich__king__controller.html">npc_the_lich_king_controller</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:567</div></div>
+<div class="ttc" id="aclassnpc__the__lich__king__controller_html"><div class="ttname"><a href="../../d1/db5/classnpc__the__lich__king__controller.html">npc_the_lich_king_controller</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:566</div></div>
 <div class="ttc" id="aclassnpc__valithria__cloud_html"><div class="ttname"><a href="../../d5/dc2/classnpc__valithria__cloud.html">npc_valithria_cloud</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:799</div></div>
 <div class="ttc" id="aclassnpc__valithria__portal_html"><div class="ttname"><a href="../../d1/db4/classnpc__valithria__portal.html">npc_valithria_portal</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:766</div></div>
 <div class="ttc" id="aclassspell__dreamwalker__decay__periodic__timer__aura_html"><div class="ttname"><a href="../../d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html">spell_dreamwalker_decay_periodic_timer_aura</a></div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1189</div></div>
@@ -743,7 +782,7 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{4210.813f, 2484.443f, 364.9558f, 0.01745329f};</div>
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{4210.813f, 2484.443f, 364.9558f, 0.01745329f};</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -753,7 +792,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html">boss_valithria_dreamwalker.cpp</a></li>
-    <li class="footer">Generated on Sun Jul 19 2026 08:08:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jul 20 2026 08:50:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

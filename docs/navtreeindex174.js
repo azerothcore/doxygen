@@ -1,5 +1,17 @@
 var NAVTREEINDEX174 =
 {
+"d6/d34/structModuleString.html":[7,0,1555],
+"d6/d34/structModuleString.html#a2258fd4a2b331369a95988cfa6b42f4c":[7,0,1555,0],
+"d6/d35/structHolidaysEntry.html":[7,0,1293],
+"d6/d35/structHolidaysEntry.html#a082b59a0ead8223e590cbb371f3ad122":[7,0,1293,0],
+"d6/d35/structHolidaysEntry.html#a10cae1b1fbb91930209a714c545b129b":[7,0,1293,3],
+"d6/d35/structHolidaysEntry.html#a1119824959b87fb312209a998a5869b1":[7,0,1293,4],
+"d6/d35/structHolidaysEntry.html#a2209ecbb78f1f467491506cc97df57e4":[7,0,1293,8],
+"d6/d35/structHolidaysEntry.html#a6d82bc7a66d227f61c3be2260a3d03f5":[7,0,1293,6],
+"d6/d35/structHolidaysEntry.html#a6f9cf483200ac982bab7a66ff8bef33d":[7,0,1293,1],
+"d6/d35/structHolidaysEntry.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0":[7,0,1293,7],
+"d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b":[7,0,1293,2],
+"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[7,0,1293,5],
 "d6/d36/scourge__invasion_8h.html":[8,0,0,0,1,3,10,17],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1":[8,0,0,0,1,3,10,17,0],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0030a2af758cc78fa7c100254aebd325":[8,0,0,0,1,3,10,17,0,16],
@@ -237,17 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aaab0e844e0d38160c2e487c654cee469":[8,0,0,0,1,3,10,17,4,16],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ad2cba3b596efdffb848def1858e6143e":[8,0,0,0,1,3,10,17,4,4],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952adae79a1dd4151e202435bb74e7fe8574":[8,0,0,0,1,3,10,17,4,15],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae5f83282e51f1f5d8162ea510d746cc7":[8,0,0,0,1,3,10,17,4,14],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae9ad948fbac84f4ef83e5ced847db8f2":[8,0,0,0,1,3,10,17,4,0],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae9da601952efc0672b30fc0d8480ca27":[8,0,0,0,1,3,10,17,4,12],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aea1180af3e6171f36db3ab50ed8a0a0a":[8,0,0,0,1,3,10,17,4,8],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aea478c58dbafb71c57c3c45b4e32b138":[8,0,0,0,1,3,10,17,4,9],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4":[8,0,0,0,1,3,10,17,5],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[8,0,0,0,1,3,10,17,5,0],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[8,0,0,0,1,3,10,17,5,1],
-"d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[8,0,0,0,1,3,10,17,5,2],
-"d6/d36/structWardenModuleUse.html":[7,0,4595],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[7,0,4595,0],
-"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[7,0,4595,3],
-"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[7,0,4595,1]
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ae5f83282e51f1f5d8162ea510d746cc7":[8,0,0,0,1,3,10,17,4,14]
 };

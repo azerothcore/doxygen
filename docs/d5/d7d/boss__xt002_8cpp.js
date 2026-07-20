@@ -7,6 +7,7 @@ var boss__xt002_8cpp =
     [ "npc_boombot", "d8/d96/structnpc__boombot.html", "d8/d96/structnpc__boombot" ],
     [ "npc_life_spark", "d7/d8d/structnpc__life__spark.html", "d7/d8d/structnpc__life__spark" ],
     [ "npc_xt_void_zone", "d6/d5f/structnpc__xt__void__zone.html", "d6/d5f/structnpc__xt__void__zone" ],
+    [ "spell_xt002_searing_light_gravity_bomb", "da/d99/classspell__xt002__searing__light__gravity__bomb.html", "da/d99/classspell__xt002__searing__light__gravity__bomb" ],
     [ "spell_xt002_searing_light_spawn_life_spark", "d0/d03/classspell__xt002__searing__light__spawn__life__spark.html", "d0/d03/classspell__xt002__searing__light__spawn__life__spark" ],
     [ "spell_xt002_gravity_bomb_aura", "da/d57/classspell__xt002__gravity__bomb__aura.html", "da/d57/classspell__xt002__gravity__bomb__aura" ],
     [ "spell_xt002_gravity_bomb_damage", "d0/dab/classspell__xt002__gravity__bomb__damage.html", "d0/dab/classspell__xt002__gravity__bomb__damage" ],

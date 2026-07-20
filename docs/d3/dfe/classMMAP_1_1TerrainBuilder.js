@@ -16,7 +16,7 @@ var classMMAP_1_1TerrainBuilder =
     [ "loadHeightMap", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
     [ "loadMap", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
     [ "loadMap", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a4071ed1464f7beb4d8567def275139e4", null ],
-    [ "loadOffMeshConnections", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a8df6feed791e1b6ca3ab46e6001c0f32", null ],
+    [ "loadOffMeshConnections", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a5b2c6ca253cef1a96c78d3b53147690d", null ],
     [ "loadVMap", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184", null ],
     [ "transform", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
     [ "usesLiquids", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],

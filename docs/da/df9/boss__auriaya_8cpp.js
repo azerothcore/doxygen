@@ -44,6 +44,7 @@ var boss__auriaya_8cpp =
       [ "ACTION_FERAL_DEATH", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aad86c711c19c9d2a348c6b86e8ba11bb", null ],
       [ "ACTION_DESPAWN_ADDS", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
       [ "ACTION_FERAL_DEATH_WITH_STACK", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f7f3244cd4be6c55b5eb80bfcd46024", null ],
+      [ "ACTION_SENTRY_DEATH", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a653c64661203523781821f37ecd4e192", null ],
       [ "DATA_CRAZY_CAT", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4b813c76eb5434a6e5b01872739ad12", null ],
       [ "DATA_NINE_LIVES", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a856c5a375d28eedfa9246b0c0a0ea863", null ]
     ] ],
