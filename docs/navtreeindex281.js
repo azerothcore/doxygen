@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"da/dd7/classspell__najentus__needle__spine.html#a972574075c86c32593982add71dc893f":[7,0,3671,2],
 "da/dd7/classspell__najentus__needle__spine.html#ae483ea2ecc541f52f37456f6e9d4b380":[7,0,3671,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[7,0,5,8],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html":[5,0,17,8],
@@ -11,8 +12,8 @@ var NAVTREEINDEX281 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[7,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,17,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[7,0,5,8,4],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,17,8,0],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[7,0,5,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,17,8,0],
 "da/dd8/classHashMapHolder.html":[7,0,1281],
 "da/dd8/classHashMapHolder.html#a314b4ce3265136fe326b909fe6ef6716":[7,0,1281,2],
 "da/dd8/classHashMapHolder.html#a52cc052c8d73d5b700c7f9253138942f":[7,0,1281,4],
@@ -60,6 +61,7 @@ var NAVTREEINDEX281 =
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#ae78dc64f858573b234210ca175e5bdd9":[7,0,2106,0,6],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#aff6e86057086db1319bb680e52e41634":[7,0,2106,0,4],
 "da/ddc/classSmartAI.html":[7,0,2587],
+"da/ddc/classSmartAI.html#a01a0c9bceb97d1e0fbff9835bf975eeb":[7,0,2587,71],
 "da/ddc/classSmartAI.html#a01ea2dffccc963431690e9632b17ee47":[7,0,2587,91],
 "da/ddc/classSmartAI.html#a0703303e75e72db47a04204e8c5f1710":[7,0,2587,0],
 "da/ddc/classSmartAI.html#a07852e36657f8d0f66063825c825812a":[7,0,2587,106],
@@ -184,7 +186,6 @@ var NAVTREEINDEX281 =
 "da/ddc/classSmartAI.html#aee1f9ae0a22e6b509026e209d51b4d73":[7,0,2587,36],
 "da/ddc/classSmartAI.html#aee67b82ba775d7efb9f2c7b056c23cb6":[7,0,2587,39],
 "da/ddc/classSmartAI.html#aee92e85eab4861db72d5566f718cf403":[7,0,2587,50],
-"da/ddc/classSmartAI.html#af01b4cb79656e7113218748da2200285":[7,0,2587,71],
 "da/ddc/classSmartAI.html#af233f4b851803e57109acd745d4c7b1d":[7,0,2587,43],
 "da/ddc/classSmartAI.html#af3af7f64edab082958d39b9b96f671ef":[7,0,2587,125],
 "da/ddc/classSmartAI.html#af537d9871fc9a5b5697ccada419c3419":[7,0,2587,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#acd3961c7c81f88a341cb71888c55c882":[7,0,2274,0,0],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#acf85448a221a37be819b7ab82f4f9fdc":[7,0,2274,0,4],
 "da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#af9b40af943ee8a7c9bd8866f116871fc":[7,0,2274,0,5],
-"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#afbd441c5ebf2207d37da1a905be1a247":[7,0,2274,0,1],
-"da/de2/boss__ebonroc_8cpp.html":[8,0,0,0,1,3,2,1,2,3]
+"da/de1/structnpc__vengeful__shade_1_1npc__vengeful__shadeAI.html#afbd441c5ebf2207d37da1a905be1a247":[7,0,2274,0,1]
 };

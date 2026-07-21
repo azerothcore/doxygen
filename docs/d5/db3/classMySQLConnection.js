@@ -12,7 +12,7 @@ var classMySQLConnection =
     [ "Close", "d5/db3/classMySQLConnection.html#a5ac81d3dd7c4cb4829ac3bb22f340f2c", null ],
     [ "CommitTransaction", "d5/db3/classMySQLConnection.html#a38c23f6a8fab723a3b6c467595da9f0b", null ],
     [ "DoPrepareStatements", "d5/db3/classMySQLConnection.html#adbbc19c106d49383d9f696de3f168a27", null ],
-    [ "EscapeString", "d5/db3/classMySQLConnection.html#a5422a4d24e8b76bbb7b98d1e53b6264d", null ],
+    [ "EscapeString", "d5/db3/classMySQLConnection.html#a22812694db5169cf5e4393d4eefa2fde", null ],
     [ "Execute", "d5/db3/classMySQLConnection.html#a023f265786596b49b876b5d8eb6fd4b8", null ],
     [ "Execute", "d5/db3/classMySQLConnection.html#ac9bb537b21f3780c8f1a0c11297706d6", null ],
     [ "ExecuteTransaction", "d5/db3/classMySQLConnection.html#a33bfca5cf068fad1c3c675ae37f2f310", null ],

@@ -1,7 +1,7 @@
 var classflag96 =
 [
     [ "flag96", "dc/dd4/classflag96.html#a489bcb41948c71aaee236389ffe54a42", null ],
-    [ "flag96", "dc/dd4/classflag96.html#aba036b2e11561fd76165054e06dbf6b4", null ],
+    [ "flag96", "dc/dd4/classflag96.html#a723294a32e26db22e98041192a8c57e6", null ],
     [ "flag96", "dc/dd4/classflag96.html#a29ce17d3901e06cbc1c76393016078f9", null ],
     [ "HasFlag", "dc/dd4/classflag96.html#a2c9141d8a8ecb0d83097a3a3a53de579", null ],
     [ "IsEqual", "dc/dd4/classflag96.html#a4423feea3f91d51a14f2d10da5c5b4c3", null ],

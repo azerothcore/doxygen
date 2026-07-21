@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/d67/structAuctionSearchUpdateBid.html#a6ebbff1fcebe77ed4735483ad481fd00":[7,0,286,1],
 "da/d67/structAuctionSearchUpdateBid.html#a843bcff41f694075ea056d9a3c71467f":[7,0,286,3],
 "da/d67/structAuctionSearchUpdateBid.html#ad7ecaf272e5cc8fe61e0b448d05b6d27":[7,0,286,0],
 "da/d68/classgo__scourge__cage.html":[7,0,1201],
@@ -113,16 +114,16 @@ var NAVTREEINDEX269 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[7,0,0,4,4,3],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[7,0,0,4,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[7,0,0,4,4,4],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[7,0,0,4,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,4,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,4,2],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[7,0,0,4,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,4,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,4,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,4,0],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[7,0,0,4,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[7,0,0,4,4,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[7,0,1886,0],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a158589b567d22c8f6e0be462bad8299d":[7,0,1886,0,2],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a5ea52a1ee3730630d1efbdac4ad24c80":[7,0,1886,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a8d5d83037194b58b0d89aaa1e4604172":[8,0,0,0,1,3,2,4,15,7,23],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a9a76b7d52e1b61f70025a2ebcd36bfa0":[8,0,0,0,1,3,2,4,15,7,31],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5a9da44d71dc3f4783e7da1aa417f1afc5":[8,0,0,0,1,3,2,4,15,7,28],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5aa91a5d868390cf05295a117b9ec9f16e":[8,0,0,0,1,3,2,4,15,7,38],
-"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5aaf84902f02853108bee74dcc14f65ba1":[8,0,0,0,1,3,2,4,15,7,22]
+"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5aa91a5d868390cf05295a117b9ec9f16e":[8,0,0,0,1,3,2,4,15,7,38]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a032399a8694d3b2b1da724a5a08794e8":[8,0,0,0,1,3,5,6,9,37,23],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[8,0,0,0,1,3,5,6,9,37,11],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[8,0,0,0,1,3,5,6,9,37,20],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a26fc06a292e662d31b926b7459d6a61b":[8,0,0,0,1,3,5,6,9,37,3],
@@ -208,8 +209,8 @@ var NAVTREEINDEX396 =
 "de/dec/PointMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,15],
 "de/dee/classConditionScript.html":[7,0,914],
 "de/dee/classConditionScript.html#a2d8a4e71f20c290428c3a86cedfcaab7":[7,0,914,2],
-"de/dee/classConditionScript.html#a546130ee7ed33c7763115cb0d1506a1b":[7,0,914,0],
 "de/dee/classConditionScript.html#ac4f8325e3fa1e11437056818a0267342":[7,0,914,1],
+"de/dee/classConditionScript.html#aceb390c81ea5ba54a1ff0b8c21e69348":[7,0,914,0],
 "de/dee/classcast__commandscript.html":[7,0,855],
 "de/dee/classcast__commandscript.html#a14da4e4674b065c8e8f3d1946a037bda":[7,0,855,2],
 "de/dee/classcast__commandscript.html#a156ca81fba7155205dae106aa4c221d6":[7,0,855,7],
@@ -225,7 +226,7 @@ var NAVTREEINDEX396 =
 "de/df0/SpellInfoCorrections_8cpp.html":[8,0,0,0,1,2,41,7],
 "de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[8,0,0,0,1,2,41,7,0],
 "de/df0/structArenaSeasonReward.html":[7,0,192],
-"de/df0/structArenaSeasonReward.html#a2f04bbb871ab3b90f5dc3121e2bff213":[7,0,192,1],
+"de/df0/structArenaSeasonReward.html#a22d6afdbc88c47d18dc840d537ae4150":[7,0,192,1],
 "de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[7,0,192,2],
 "de/df0/structArenaSeasonReward.html#ac4c8cff64cf2eb7f34d28080a2a5528b":[7,0,192,3],
 "de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[7,0,192,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c167711f76366adc8cf61625480f6da":[8,0,0,0,1,3,2,20,2,0],
 "de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afb7e438d6473a60fc5b3033d846b8cc3":[8,0,0,0,1,3,2,20,2,1],
 "de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,20,4],
-"de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bb6ecbd56340192fb160a288f42d69f":[8,0,0,0,1,3,2,20,4,1],
-"de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298ca12cc1a7913b3324d03e18e7efef54df9":[8,0,0,0,1,3,2,20,4,2]
+"de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bb6ecbd56340192fb160a288f42d69f":[8,0,0,0,1,3,2,20,4,1]
 };

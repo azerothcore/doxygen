@@ -1,6 +1,6 @@
 var classAllBattlegroundScript =
 [
-    [ "AllBattlegroundScript", "d3/ddf/classAllBattlegroundScript.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
+    [ "AllBattlegroundScript", "d3/ddf/classAllBattlegroundScript.html#ae62e26f80f4d69e8d58124756fc2726e", null ],
     [ "CanAddGroupToMatchingPool", "d3/ddf/classAllBattlegroundScript.html#abc41913ad3720d0dcd6d04da2588c7e5", null ],
     [ "CanFillPlayersToBG", "d3/ddf/classAllBattlegroundScript.html#a3c70c7c71f2b941cf42607806ea19874", null ],
     [ "CanSendMessageBGQueue", "d3/ddf/classAllBattlegroundScript.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],

@@ -1124,7 +1124,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  780</span>                <span class="keywordflow">if</span> (_player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a5aa219a691b0c5212fda9de12dfd72e9">GetItemCount</a>(quest-&gt;RequiredItemId[i], <span class="keyword">false</span>) &gt;= quest-&gt;RequiredItemCount[i])</div>
 <div class="line"><span class="lineno">  781</span>                    qsitr-&gt;second.ItemCount[i] = quest-&gt;RequiredItemCount[i];</div>
 <div class="line"><span class="lineno">  782</span> </div>
-<div class="line"><span class="lineno">  783</span>        <span class="keywordflow">if</span> (_player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#aa620106c0c7396e8264a4d8e0e4dc4d9">CanCompleteQuest</a>(quest-&gt;GetQuestId()))</div>
+<div class="line"><span class="lineno">  783</span>        <span class="keywordflow">if</span> (_player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#afe32cc7ee3c5bb8351400fe13f8a5dd0">CanCompleteQuest</a>(quest-&gt;GetQuestId()))</div>
 <div class="line"><span class="lineno">  784</span>        {</div>
 <div class="line"><span class="lineno">  785</span>            _player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a67b53af432006bf83e80cb6991b6e146">CompleteQuest</a>(quest-&gt;GetQuestId());</div>
 <div class="line"><span class="lineno">  786</span>            canComplete = <span class="keyword">true</span>;</div>
@@ -1189,7 +1189,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html_a218f48b60269525adf800c1a7278f232"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a218f48b60269525adf800c1a7278f232">Player::getQuestStatusMap</a></div><div class="ttdeci">QuestStatusMap &amp; getQuestStatusMap()</div><div class="ttdef"><b>Definition</b> Player.h:1647</div></div>
 <div class="ttc" id="aclassPlayer_html_a5aa219a691b0c5212fda9de12dfd72e9"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a5aa219a691b0c5212fda9de12dfd72e9">Player::GetItemCount</a></div><div class="ttdeci">uint32 GetItemCount(uint32 item, bool inBankAlso=false, Item *skipItem=nullptr) const</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:330</div></div>
 <div class="ttc" id="aclassPlayer_html_a67b53af432006bf83e80cb6991b6e146"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a67b53af432006bf83e80cb6991b6e146">Player::CompleteQuest</a></div><div class="ttdeci">void CompleteQuest(uint32 quest_id)</div><div class="ttdef"><b>Definition</b> PlayerQuest.cpp:601</div></div>
-<div class="ttc" id="aclassPlayer_html_aa620106c0c7396e8264a4d8e0e4dc4d9"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#aa620106c0c7396e8264a4d8e0e4dc4d9">Player::CanCompleteQuest</a></div><div class="ttdeci">bool CanCompleteQuest(uint32 quest_id, const QuestStatusData *q_savedStatus=nullptr)</div><div class="ttdef"><b>Definition</b> PlayerQuest.cpp:291</div></div>
+<div class="ttc" id="aclassPlayer_html_afe32cc7ee3c5bb8351400fe13f8a5dd0"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#afe32cc7ee3c5bb8351400fe13f8a5dd0">Player::CanCompleteQuest</a></div><div class="ttdeci">bool CanCompleteQuest(uint32 quest_id, QuestStatusData const *q_savedStatus=nullptr)</div><div class="ttdef"><b>Definition</b> PlayerQuest.cpp:291</div></div>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9ba867a38ad15c0c30df59b8e16cef0f63f"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba867a38ad15c0c30df59b8e16cef0f63f">SMSG_QUESTGIVER_REQUEST_ITEMS</a></div><div class="ttdeci">@ SMSG_QUESTGIVER_REQUEST_ITEMS</div><div class="ttdef"><b>Definition</b> Opcodes.h:425</div></div>
 <div class="ttc" id="astructQuestRequestItemsLocale_html"><div class="ttname"><a href="../../d7/de2/structQuestRequestItemsLocale.html">QuestRequestItemsLocale</a></div><div class="ttdef"><b>Definition</b> QuestDef.h:197</div></div>
 </div><!-- fragment -->
@@ -1485,7 +1485,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dd6/classPlayerMenu.html">PlayerMenu</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

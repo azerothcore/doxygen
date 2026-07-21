@@ -12,6 +12,6 @@ var StringFormat_8h =
     [ "StringFormatTo", "d6/d2f/StringFormat_8h.html#a7c53f407c3169d5a97d012ca3470880d", null ],
     [ "StringVFormat", "d6/d2f/StringFormat_8h.html#acc68f8d815604ae13c370c09fbb60efd", null ],
     [ "StringVFormatTo", "d6/d2f/StringFormat_8h.html#a17112c1b25595793b63f24de06f90081", null ],
-    [ "Trim", "d6/d2f/StringFormat_8h.html#a3213c569cd380bda3b76fe3f730899ff", null ],
+    [ "Trim", "d6/d2f/StringFormat_8h.html#ad9cd9e0eab5d7794778d1270b2720337", null ],
     [ "TrimRightInPlace", "d6/d2f/StringFormat_8h.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

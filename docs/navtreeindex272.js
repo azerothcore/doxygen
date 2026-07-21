@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cae69e2264948bdd529250fbebad159275":[8,0,0,0,1,3,2,12,4,19,13],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9":[8,0,0,0,1,3,2,12,4,19,22],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298caeeb67d5e636ef9b33739d0c43f0e3ccc":[8,0,0,0,1,3,2,12,4,19,10],
 "da/d7e/classMapGrid.html":[7,0,1515],
@@ -226,14 +227,14 @@ var NAVTREEINDEX272 =
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[7,0,1003,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,34,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[7,0,13,8,15],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[7,0,13,8,15,1],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
 "da/d83/magtheridons__lair_8h.html":[8,0,0,0,1,3,7,4,2,2],
 "da/d83/magtheridons__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,2,2,0],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[8,0,0,0,1,3,7,4,2,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/d83/magtheridons__lair_8h.html#ac775c9e24464893354eebc42d9ee1d0a":[8,0,0,0,1,3,7,4,2,2,2],
 "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504":[8,0,0,0,1,3,7,4,2,2,5],
 "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504a3e2a47382c165581b8de4e00dcf12dd1":[8,0,0,0,1,3,7,4,2,2,5,1],
-"da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504ac3d10776a3cac1cf50615e056ee00320":[8,0,0,0,1,3,7,4,2,2,5,0],
-"da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,4,2,2,3]
+"da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504ac3d10776a3cac1cf50615e056ee00320":[8,0,0,0,1,3,7,4,2,2,5,0]
 };

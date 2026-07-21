@@ -1,6 +1,6 @@
 var classPlayerScript =
 [
-    [ "PlayerScript", "d0/d5b/classPlayerScript.html#ae5a7eb549a6bd087874e948dd62a2ed2", null ],
+    [ "PlayerScript", "d0/d5b/classPlayerScript.html#a30e15304619f094ee9520f7f750d9e74", null ],
     [ "AnticheatCheckMovementInfo", "d0/d5b/classPlayerScript.html#a24ea964cdfd442a28789e578fe843146", null ],
     [ "AnticheatHandleDoubleJump", "d0/d5b/classPlayerScript.html#a74cbb5207c77ee2167de0767b70b0332", null ],
     [ "AnticheatSetCanFlybyServer", "d0/d5b/classPlayerScript.html#af8af279f295984499a2c86383bab7fc7", null ],
@@ -70,7 +70,7 @@ var classPlayerScript =
     [ "OnPlayerCanInitTrade", "d0/d5b/classPlayerScript.html#a40f2adf16006991bc044a92c3eb93175", null ],
     [ "OnPlayerCanJoinInArenaQueue", "d0/d5b/classPlayerScript.html#ad43d75de0c95360d8ce296d2415613e2", null ],
     [ "OnPlayerCanJoinInBattlegroundQueue", "d0/d5b/classPlayerScript.html#a20848bb0164df83c152f4a7de89b14ec", null ],
-    [ "OnPlayerCanJoinLfg", "d0/d5b/classPlayerScript.html#a9fb3b566553250bf325cf4b9c0ed7c92", null ],
+    [ "OnPlayerCanJoinLfg", "d0/d5b/classPlayerScript.html#ac2f6913269bfd1125f1076941c2637fb", null ],
     [ "OnPlayerCanLearnTalent", "d0/d5b/classPlayerScript.html#a4f4f8a7c5eb4f93e487fef760d1b8a87", null ],
     [ "OnPlayerCanPlaceAuctionBid", "d0/d5b/classPlayerScript.html#a3b94bc0974c5f7564fd98b848546b676", null ],
     [ "OnPlayerCanRepopAtGraveyard", "d0/d5b/classPlayerScript.html#aa78bd0f92ec5282196d3723fe0488d64", null ],
@@ -123,7 +123,7 @@ var classPlayerScript =
     [ "OnPlayerGiveReputation", "d0/d5b/classPlayerScript.html#a9c16c9dc1b84759abb159913e3657509", null ],
     [ "OnPlayerGiveXP", "d0/d5b/classPlayerScript.html#a6c551a0298321975bdc82854a96631b6", null ],
     [ "OnPlayerGossipSelect", "d0/d5b/classPlayerScript.html#a029041b780393eb50916111cee237486", null ],
-    [ "OnPlayerGossipSelectCode", "d0/d5b/classPlayerScript.html#adebc479bb5d0ba38ab37607f8da3c22c", null ],
+    [ "OnPlayerGossipSelectCode", "d0/d5b/classPlayerScript.html#a1737fd82d88fa138e34056cac1258b6a", null ],
     [ "OnPlayerGroupRollRewardItem", "d0/d5b/classPlayerScript.html#a05e289a55570181ee3ff2c8934abe284", null ],
     [ "OnPlayerHasActivePowerType", "d0/d5b/classPlayerScript.html#a080a93a771d0b5785582de95e3a8d4e9", null ],
     [ "OnPlayerIsClass", "d0/d5b/classPlayerScript.html#aad9c53f38209b82f76e73a8bf847c452", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"df/d01/cs__npc_8cpp.html#ae99689f5e8e57f75adfcf54370ed979d":[8,0,0,0,1,3,0,35,7],
 "df/d01/cs__npc_8cpp.html#afc1ed6083684621f30fbabb23d2986c0":[8,0,0,0,1,3,0,35,4],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html":[7,0,0,5,9],
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html":[5,0,0,8,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a8122b6f122b7a936d2a9a63016f74c0b":[8,0,0,0,1,3,2,1,1,0,6,11],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a98bf89eb64f42b149d5c60959239de69":[8,0,0,0,1,3,2,1,1,0,6,22],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a9c2be1294a0f496c499e732e48048980":[8,0,0,0,1,3,2,1,1,0,6,6],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ab5b7db92d452173b23d5cc0cfc2b24f4":[8,0,0,0,1,3,2,1,1,0,6,10],
-"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22abb4346b52f32e220c100845e9d81af46":[8,0,0,0,1,3,2,1,1,0,6,13]
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22ab5b7db92d452173b23d5cc0cfc2b24f4":[8,0,0,0,1,3,2,1,1,0,6,10]
 };

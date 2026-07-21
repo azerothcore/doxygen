@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[8,0,0,0,1,3,9,10,60,4],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[8,0,0,0,1,3,9,10,60,11],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[8,0,0,0,1,3,9,10,60,19],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019aea53f66ddd3e2f9b434deda1b1f87d64":[8,0,0,0,1,3,9,10,60,44],
@@ -73,6 +74,7 @@ var NAVTREEINDEX417 =
 "df/dd9/classUnit.html#a04761e1ca5da7ae844483fabda56d432":[7,0,4553,805],
 "df/dd9/classUnit.html#a04a66c0ec19dafbd2c85574bc2e75100":[7,0,4553,4],
 "df/dd9/classUnit.html#a04eac3be7ccc3a12db515b6d2ea20f07":[7,0,4553,633],
+"df/dd9/classUnit.html#a058c680a210cfa568f03a78d827ce734":[7,0,4553,617],
 "df/dd9/classUnit.html#a05a7dcd96c1301724694c6934563b92e":[7,0,4553,768],
 "df/dd9/classUnit.html#a05e3e75fa26b33d0af910830f2b0e818":[7,0,4553,609],
 "df/dd9/classUnit.html#a05e8016f2af572e9019e2fc10f7e77d1":[7,0,4553,787],
@@ -86,7 +88,6 @@ var NAVTREEINDEX417 =
 "df/dd9/classUnit.html#a0839378167049038c2857252d3b14738":[7,0,4553,380],
 "df/dd9/classUnit.html#a085d47fd164802e379e9a90a528da2d3":[7,0,4553,224],
 "df/dd9/classUnit.html#a087d27124192bac6a5418e91c7a38275":[7,0,4553,392],
-"df/dd9/classUnit.html#a08f1592d69bb8113f4e6dfcb08d3a494":[7,0,4553,617],
 "df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90":[7,0,4553,837],
 "df/dd9/classUnit.html#a0914a3a6a93fcb7bb3774e21c4a42208":[7,0,4553,573],
 "df/dd9/classUnit.html#a091d2d0de3fe2cde3ab61dfd1cde58d5":[7,0,4553,315],
@@ -95,7 +96,6 @@ var NAVTREEINDEX417 =
 "df/dd9/classUnit.html#a0a250126bc1ae99a1b9e2a4310a124b5":[7,0,4553,487],
 "df/dd9/classUnit.html#a0ab8d73c0a9b2b4e1568fbdb75077fc4":[7,0,4553,155],
 "df/dd9/classUnit.html#a0abdc922cb68a81459935b54b59fad2e":[7,0,4553,689],
-"df/dd9/classUnit.html#a0b11b9c93b383ee00d362c72e4ba7e8e":[7,0,4553,282],
 "df/dd9/classUnit.html#a0b571ebf5bf71fdca61ecf0038597972":[7,0,4553,542],
 "df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8":[7,0,4553,191],
 "df/dd9/classUnit.html#a0b9296b6abf70819b7134313d2b5167b":[7,0,4553,864],

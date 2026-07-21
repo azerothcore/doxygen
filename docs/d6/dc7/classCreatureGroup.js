@@ -9,7 +9,7 @@ var classCreatureGroup =
     [ "FormationReset", "d6/dc7/classCreatureGroup.html#a1b206e69df855ed13f3b687017474a1a", null ],
     [ "GetId", "d6/dc7/classCreatureGroup.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
     [ "GetLeader", "d6/dc7/classCreatureGroup.html#a160d77342c8e11d97f66def5ff795929", null ],
-    [ "GetMembers", "d6/dc7/classCreatureGroup.html#a889df9f73068078942c5e4cef1669e35", null ],
+    [ "GetMembers", "d6/dc7/classCreatureGroup.html#a466b2270725b39e2c4d5dbdee7e68ef4", null ],
     [ "GetNewTargetForMember", "d6/dc7/classCreatureGroup.html#af6204f37e817c59cd556d76a5a19bf77", null ],
     [ "IsAnyMemberAlive", "d6/dc7/classCreatureGroup.html#adf09b1ad9b9f48f56ea1f2e0e6579689", null ],
     [ "IsEmpty", "d6/dc7/classCreatureGroup.html#ad88320d89fba23f6cdf5fd0b4de33c18", null ],

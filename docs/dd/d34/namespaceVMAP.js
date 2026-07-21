@@ -56,10 +56,10 @@ var namespaceVMAP =
       [ "VMAP_LOAD_RESULT_OK", "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
       [ "VMAP_LOAD_RESULT_IGNORED", "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
     ] ],
-    [ "IntersectTriangle", "dd/d34/namespaceVMAP.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
-    [ "IsInsideOrAboveBound", "dd/d34/namespaceVMAP.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ],
+    [ "IntersectTriangle", "dd/d34/namespaceVMAP.html#a1dfba6966e499a368a393b5b52e5c6f8", null ],
+    [ "IsInsideOrAboveBound", "dd/d34/namespaceVMAP.html#af71b89398ed4323940f67baaf58f2cd7", null ],
     [ "operator&", "dd/d34/namespaceVMAP.html#a3c25bdb4d30c345cd6760935e2c456f4", null ],
-    [ "readChunk", "dd/d34/namespaceVMAP.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "readChunk", "dd/d34/namespaceVMAP.html#aa923966c6cf6ce644b8335506d5f1fce", null ],
     [ "GAMEOBJECT_MODELS", "dd/d34/namespaceVMAP.html#ada4191301386f881525b3f0b0760cb60", null ],
     [ "gVMapMgr", "dd/d34/namespaceVMAP.html#a3fb33e0008bbbabc087f99a45e512784", null ],
     [ "RAW_VMAP_MAGIC", "dd/d34/namespaceVMAP.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],

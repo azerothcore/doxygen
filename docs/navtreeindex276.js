@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af97a2dc80ff18b4258e2137c60c5983d":[7,0,1366,0,6],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#afce97e50bbc6d935c183b1ed21f6c993":[7,0,1366,0,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html":[8,0,0,0,1,3,7,13],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2":[8,0,0,0,1,3,7,13,44],
@@ -221,8 +222,8 @@ var NAVTREEINDEX276 =
 "da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[7,0,2873,3],
 "da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[7,0,2873,0],
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[7,0,2873,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html#acf955037c246f7b5f12cc5338b300b63":[7,0,1801,0,5],
 "da/db0/structnpc__fel__infernal_1_1npc__fel__infernalAI.html#aedec8729b9be931a74fe00d1aa649848":[7,0,1801,0,1],
 "da/db2/classspell__mage__glyph__of__ice__block.html":[7,0,3581],
-"da/db2/classspell__mage__glyph__of__ice__block.html#a43ab86331d22e82a95371c86cb8c2dc9":[7,0,3581,0],
-"da/db2/classspell__mage__glyph__of__ice__block.html#a70bcd72b90cfd3230cd8c012fabb5512":[7,0,3581,2]
+"da/db2/classspell__mage__glyph__of__ice__block.html#a43ab86331d22e82a95371c86cb8c2dc9":[7,0,3581,0]
 };

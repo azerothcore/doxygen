@@ -1,6 +1,6 @@
 var classAccountScript =
 [
-    [ "AccountScript", "df/d30/classAccountScript.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "AccountScript", "df/d30/classAccountScript.html#a2554f46fcf6ff81b353513916771b8d1", null ],
     [ "CanAccountCreateCharacter", "df/d30/classAccountScript.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
     [ "OnAccountLogin", "df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
     [ "OnBeforeAccountDelete", "df/d30/classAccountScript.html#a631f7deca08644da2613142c667618a8", null ],

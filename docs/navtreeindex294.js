@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19ad5cced2c1f78531384ef8138b66bc97b":[8,0,0,0,1,3,9,4,176,1],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846":[8,0,0,0,1,3,9,4,280],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[8,0,0,0,1,3,9,4,280,0],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[8,0,0,0,1,3,9,4,271],
@@ -209,14 +210,15 @@ var NAVTREEINDEX294 =
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[7,0,0,108,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,0,120,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[7,0,0,108,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
 "db/d72/structLootItem.html":[7,0,1478],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[7,0,1478,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[7,0,1478,5],
 "db/d72/structLootItem.html#a0e1dbe84cef1c5f3111b08f25dbb859d":[7,0,1478,11],
+"db/d72/structLootItem.html#a1229224cb41005dbd8d8fa8407ced2ef":[7,0,1478,4],
 "db/d72/structLootItem.html#a1912ff0623715b0e5266379fcf8d7170":[7,0,1478,2],
 "db/d72/structLootItem.html#a25903e281fe742404fd8ddef6c3c53bd":[7,0,1478,10],
 "db/d72/structLootItem.html#a2d10d36b949b8adc0c463912b3f04768":[7,0,1478,20],
@@ -230,7 +232,6 @@ var NAVTREEINDEX294 =
 "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2":[7,0,1478,1],
 "db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5":[7,0,1478,7],
 "db/d72/structLootItem.html#a9021fa353f7538706349702498a4e778":[7,0,1478,13],
-"db/d72/structLootItem.html#ab84a909c705155c4e9aa1b59fd38ae52":[7,0,1478,4],
 "db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f":[7,0,1478,6],
 "db/d72/structLootItem.html#ae9f49e27fd81c235fdc2c754918f55c4":[7,0,1478,9],
 "db/d72/structLootItem.html#aec6043508b50b16f04e9b4fbf8742677":[7,0,1478,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/d73/classspell__q12641__rain__of__darkness.html":[7,0,3903],
 "db/d73/classspell__q12641__rain__of__darkness.html#a7447499330dc583210b7a172265dbb69":[7,0,3903,1],
 "db/d73/classspell__q12641__rain__of__darkness.html#a75e577bbe27b2742f6209b7d295dcafa":[7,0,3903,2],
-"db/d73/classspell__q12641__rain__of__darkness.html#ae5e63f8d6e9e3fa05a82cd5708b44527":[7,0,3903,0],
-"db/d74/classspell__botanica__shift__form__aura.html":[7,0,2706]
+"db/d73/classspell__q12641__rain__of__darkness.html#ae5e63f8d6e9e3fa05a82cd5708b44527":[7,0,3903,0]
 };

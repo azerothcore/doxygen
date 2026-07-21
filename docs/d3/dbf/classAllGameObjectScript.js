@@ -1,9 +1,9 @@
 var classAllGameObjectScript =
 [
-    [ "AllGameObjectScript", "d3/dbf/classAllGameObjectScript.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
+    [ "AllGameObjectScript", "d3/dbf/classAllGameObjectScript.html#ab973d5cd7d6941988585b531a9bb812c", null ],
     [ "CanGameObjectGossipHello", "d3/dbf/classAllGameObjectScript.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
     [ "CanGameObjectGossipSelect", "d3/dbf/classAllGameObjectScript.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
-    [ "CanGameObjectGossipSelectCode", "d3/dbf/classAllGameObjectScript.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
+    [ "CanGameObjectGossipSelectCode", "d3/dbf/classAllGameObjectScript.html#a52cacc900fffa3d1ee1d058052c9cfb4", null ],
     [ "CanGameObjectQuestAccept", "d3/dbf/classAllGameObjectScript.html#a0c99183b04355ecfb3460bc371b58805", null ],
     [ "CanGameObjectQuestReward", "d3/dbf/classAllGameObjectScript.html#a55eb61a5e4386908db998ceff1dff359", null ],
     [ "GetGameObjectAI", "d3/dbf/classAllGameObjectScript.html#afe0c610693bc883415952ba350596788", null ],

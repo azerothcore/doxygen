@@ -1004,7 +1004,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  329</span>    std::shared_ptr&lt;std::thread&gt; soapThread;</div>
 <div class="line"><span class="lineno">  330</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;SOAP.Enabled&quot;</span>, <span class="keyword">false</span>))</div>
 <div class="line"><span class="lineno">  331</span>    {</div>
-<div class="line"><span class="lineno">  332</span>        soapThread.reset(<span class="keyword">new</span> std::thread(<a class="code hl_function" href="../../d2/da4/ACSoap_8cpp.html#a69e574c9a3cecf7c395cd036bb672ed3">ACSoapThread</a>, <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;SOAP.IP&quot;</span>, <span class="stringliteral">&quot;127.0.0.1&quot;</span>), <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;SOAP.Port&quot;</span>, 7878))),</div>
+<div class="line"><span class="lineno">  332</span>        soapThread.reset(<span class="keyword">new</span> std::thread(<a class="code hl_function" href="../../d2/da4/ACSoap_8cpp.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11">ACSoapThread</a>, <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;SOAP.IP&quot;</span>, <span class="stringliteral">&quot;127.0.0.1&quot;</span>), <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;SOAP.Port&quot;</span>, 7878))),</div>
 <div class="line"><span class="lineno">  333</span>            [](std::thread* thr)</div>
 <div class="line"><span class="lineno">  334</span>        {</div>
 <div class="line"><span class="lineno">  335</span>            thr-&gt;join();</div>
@@ -1092,7 +1092,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  418</span> </div>
 <div class="line"><span class="lineno">  419</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d39/classWorld.html#a0e4ac5f6fc42a6cf71d8d3b229646c92">World::GetExitCode</a>();</div>
 <div class="line"><span class="lineno">  420</span>}</div>
-<div class="ttc" id="aACSoap_8cpp_html_a69e574c9a3cecf7c395cd036bb672ed3"><div class="ttname"><a href="../../d2/da4/ACSoap_8cpp.html#a69e574c9a3cecf7c395cd036bb672ed3">ACSoapThread</a></div><div class="ttdeci">void ACSoapThread(const std::string &amp;host, uint16 port)</div><div class="ttdef"><b>Definition</b> ACSoap.cpp:26</div></div>
+<div class="ttc" id="aACSoap_8cpp_html_a6c4b2ef1ce6f27015352f0c8b7a3bf11"><div class="ttname"><a href="../../d2/da4/ACSoap_8cpp.html#a6c4b2ef1ce6f27015352f0c8b7a3bf11">ACSoapThread</a></div><div class="ttdeci">void ACSoapThread(std::string const &amp;host, uint16 port)</div><div class="ttdef"><b>Definition</b> ACSoap.cpp:26</div></div>
 <div class="ttc" id="aBattlegroundMgr_8h_html_abe50926a988d0fff4ee6ba0358c6b278"><div class="ttname"><a href="../../dd/d3a/BattlegroundMgr_8h.html#abe50926a988d0fff4ee6ba0358c6b278">sBattlegroundMgr</a></div><div class="ttdeci">#define sBattlegroundMgr</div><div class="ttdef"><b>Definition</b> BattlegroundMgr.h:190</div></div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:153</div></div>
@@ -1797,7 +1797,7 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

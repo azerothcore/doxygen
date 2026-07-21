@@ -8,9 +8,9 @@ var vmapexport_8h =
     [ "ExtractGameobjectModels", "d3/d21/vmapexport_8h.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
     [ "ExtractSingleModel", "d3/d21/vmapexport_8h.html#a6a96194f748b715f0400249583336ae5", null ],
     [ "ExtractSingleWmo", "d3/d21/vmapexport_8h.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d3/d21/vmapexport_8h.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "FileExists", "d3/d21/vmapexport_8h.html#a874186e82eed7dae3208c2d8500c5cb7", null ],
     [ "GenerateUniqueObjectId", "d3/d21/vmapexport_8h.html#a6a3d179f34597554b17a122f27cd6be5", null ],
     [ "strToLower", "d3/d21/vmapexport_8h.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "szWorkDirWmo", "d3/d21/vmapexport_8h.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
+    [ "szWorkDirWmo", "d3/d21/vmapexport_8h.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
     [ "WmoDoodads", "d3/d21/vmapexport_8h.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

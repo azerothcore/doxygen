@@ -1,8 +1,8 @@
 var classRASession =
 [
     [ "RASession", "d7/dc0/classRASession.html#a59333e209be4ab694ad5bc62f4c245ce", null ],
-    [ "CheckAccessLevel", "d7/dc0/classRASession.html#a72963e43e085c28b7d4bb50dfa45433a", null ],
-    [ "CheckPassword", "d7/dc0/classRASession.html#abf15291f3135a382d314feb8a5d72e9e", null ],
+    [ "CheckAccessLevel", "d7/dc0/classRASession.html#a5e6456826b0cc2636ade4b62f6408659", null ],
+    [ "CheckPassword", "d7/dc0/classRASession.html#a3f8d6a0826d06e8916036c2cb7a62707", null ],
     [ "CommandFinished", "d7/dc0/classRASession.html#a547d5f26b74209003a8a3c7f8aa4af5d", null ],
     [ "CommandPrint", "d7/dc0/classRASession.html#adda3b14e26103155c0a154e4673e8627", null ],
     [ "GetRemoteIpAddress", "d7/dc0/classRASession.html#aff8957db5a0cceec4fddeb7950bba557", null ],

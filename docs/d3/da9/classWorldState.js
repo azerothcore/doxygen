@@ -70,7 +70,7 @@ var classWorldState =
     [ "StopSunsReachPhase", "d3/da9/classWorldState.html#a97eabce4c25bd59dabb9b417574cc2cb", null ],
     [ "StopSunwellGatePhase", "d3/da9/classWorldState.html#afbd4d4141d81f26e9fb6508b628e7e59", null ],
     [ "SummonMouth", "d3/da9/classWorldState.html#a93b53e82f0e852bd8c96151fc95e1152", null ],
-    [ "SummonPallid", "d3/da9/classWorldState.html#a532dda18bff01067da90c6ce303f7a04", null ],
+    [ "SummonPallid", "d3/da9/classWorldState.html#a5d399d89c8d1a9d0e69cbccfeee4c38c", null ],
     [ "Update", "d3/da9/classWorldState.html#a392dd15b70d42ff2ce9f74605d495513", null ],
     [ "_adalSongOfBattleTimer", "d3/da9/classWorldState.html#aedccbddea39cd0a6ddf835147ca27da1", null ],
     [ "_isMagtheridonHeadSpawnedAlliance", "d3/da9/classWorldState.html#a6408344019152591c457b63601aac4dd", null ],

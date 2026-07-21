@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a812e4e461c0ebed6f7c4cc36e88a3367":[7,0,2905,1],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a9abf4baaba572636dba3980e5ae777c5":[7,0,2905,0],
 "de/da1/classspell__mage__summon__water__elemental.html":[7,0,3602],
 "de/da1/classspell__mage__summon__water__elemental.html#a349e674aa5e07f59dc0a0d78a25aa0cd":[7,0,3602,2],
@@ -47,7 +48,7 @@ var NAVTREEINDEX389 =
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[7,0,91,0],
 "de/da2/classnpc__maxx__a__million__escort.html":[7,0,1976],
 "de/da2/classnpc__maxx__a__million__escort.html#a958a88b495594dd8e14919d950ac917a":[7,0,1976,1],
-"de/da2/classnpc__maxx__a__million__escort.html#af3c2f2708702f7d25e712c63a45e69e0":[7,0,1976,3],
+"de/da2/classnpc__maxx__a__million__escort.html#aa9a3c655ed09b1264afd8e9ca6965bf5":[7,0,1976,3],
 "de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[7,0,1976,2],
 "de/da2/classspell__gen__reduced__above__60__aura.html":[7,0,3092],
 "de/da2/classspell__gen__reduced__above__60__aura.html#a4be139ae22c20468be1930195097d98a":[7,0,3092,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c7295e2064c07f435c2743037c37e7b":[8,0,0,0,1,1,0,0,1,1,107],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c742fa4d396849296ce95360a7ea0dc":[8,0,0,0,1,1,0,0,1,1,347],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c9403d39057bc4235278637f4535595":[8,0,0,0,1,1,0,0,1,1,160],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[8,0,0,0,1,1,0,0,1,1,470],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6d8e811c7e58ddcd2e45c5805d5bad44":[8,0,0,0,1,1,0,0,1,1,55]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[8,0,0,0,1,1,0,0,1,1,470]
 };

@@ -138,7 +138,7 @@ var classObjectMgr =
     [ "GetItemTemplateStoreFast", "d5/dfb/classObjectMgr.html#a919e3a59b677c04e2a197e0df4e33807", null ],
     [ "GetLegacySpawnGroup", "d5/dfb/classObjectMgr.html#a4bb5070672c5d82c383546ff023d8e06", null ],
     [ "GetLinkedRespawnGuid", "d5/dfb/classObjectMgr.html#a28960687ef2ab6560fb3ea4d51a7cd70", null ],
-    [ "GetLocaleString", "d5/dfb/classObjectMgr.html#aa4ae733dc2cda662b9679c15bcafcb7e", null ],
+    [ "GetLocaleString", "d5/dfb/classObjectMgr.html#a600843cd7e5533340712c03a7d7b61f1", null ],
     [ "GetLocaleString", "d5/dfb/classObjectMgr.html#afaf0c44e499261c10276edc4c3cb15a0", null ],
     [ "GetMailLevelReward", "d5/dfb/classObjectMgr.html#a80aaa83cee360b95cb6b85c4571e459e", null ],
     [ "GetMapEntranceTrigger", "d5/dfb/classObjectMgr.html#af340964425e5064b355be9391021becd", null ],

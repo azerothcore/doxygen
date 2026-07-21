@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html":[7,0,4127],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a1e63e7798ab5e55415eb0277f3160fa3":[7,0,4127,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[7,0,4127,2],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a8cc68fadf4ae20a9de24c75d2f61301f":[7,0,4127,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a07cff6b252eb9b08855bc8bd7e5d7735":[7,0,1386,0,13],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a0da827e64e90a1f97b75038621a195ff":[7,0,1386,0,2],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a1f33ff891c8289a49dd2b979a064c323":[7,0,1386,0,10],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a48ec95fa51ddf50aa0249a3798bbc898":[7,0,1386,0,12],
-"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a7649a9bcdfafd3c8d7001555e60910af":[7,0,1386,0,4]
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#a48ec95fa51ddf50aa0249a3798bbc898":[7,0,1386,0,12]
 };

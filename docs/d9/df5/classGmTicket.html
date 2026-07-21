@@ -196,8 +196,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8b1458726184ca00045c7752de90c958"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad46f6e65554bbe4646273e9a3164d817" id="r_ad46f6e65554bbe4646273e9a3164d817"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/classGmTicket.html#ad46f6e65554bbe4646273e9a3164d817">FormatMessageString</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> &amp;handler, bool detailed=false) const</td></tr>
 <tr class="separator:ad46f6e65554bbe4646273e9a3164d817"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a838f706c8133b88b0d031d882a27d190" id="r_a838f706c8133b88b0d031d882a27d190"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/classGmTicket.html#a838f706c8133b88b0d031d882a27d190">FormatMessageString</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> &amp;handler, const char *szClosedName, const char *szAssignedToName, const char *szUnassignedName, const char *szDeletedName) const</td></tr>
-<tr class="separator:a838f706c8133b88b0d031d882a27d190"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3874c6299425548303f9369df80f015" id="r_aa3874c6299425548303f9369df80f015"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/classGmTicket.html#aa3874c6299425548303f9369df80f015">FormatMessageString</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> &amp;handler, char const *szClosedName, char const *szAssignedToName, char const *szUnassignedName, char const *szDeletedName) const</td></tr>
+<tr class="separator:aa3874c6299425548303f9369df80f015"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae3c6b3988f6da7ab2244c2c1084e9db2" id="r_ae3c6b3988f6da7ab2244c2c1084e9db2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/classGmTicket.html#ae3c6b3988f6da7ab2244c2c1084e9db2">SetChatLog</a> (std::list&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; time, std::string const &amp;log)</td></tr>
 <tr class="separator:ae3c6b3988f6da7ab2244c2c1084e9db2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5e67c27b0fc2b4e41c2beb4aa831c4b3" id="r_a5e67c27b0fc2b4e41c2beb4aa831c4b3"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df5/classGmTicket.html#a5e67c27b0fc2b4e41c2beb4aa831c4b3">GetChatLog</a> () const</td></tr>
@@ -499,8 +499,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a838f706c8133b88b0d031d882a27d190" name="a838f706c8133b88b0d031d882a27d190"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a838f706c8133b88b0d031d882a27d190">&#9670;&#160;</a></span>FormatMessageString() <span class="overload">[2/2]</span></h2>
+<a id="aa3874c6299425548303f9369df80f015" name="aa3874c6299425548303f9369df80f015"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3874c6299425548303f9369df80f015">&#9670;&#160;</a></span>FormatMessageString() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -514,25 +514,25 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>szClosedName</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>szAssignedToName</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>szUnassignedName</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>szDeletedName</em>&#160;</td>
         </tr>
         <tr>
@@ -749,7 +749,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00159">_id</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00361">TicketMgr::AddTicket()</a>, <a class="el" href="../../#l03987">Player::DeleteFromDB()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00121">ticket_commandscript::HandleGMTicketCloseByIdCommand()</a>, <a class="el" href="../../#l00156">ticket_commandscript::HandleGMTicketCommentCommand()</a>, <a class="el" href="../../#l00196">ticket_commandscript::HandleGMTicketCompleteCommand()</a>, <a class="el" href="../../#l00030">WorldSession::HandleGMTicketCreateOpcode()</a>, <a class="el" href="../../#l00237">ticket_commandscript::HandleGMTicketDeleteByIdCommand()</a>, <a class="el" href="../../#l00485">ticket_commandscript::HandleGMTicketResponseDeleteCommand()</a>, <a class="el" href="../../#l00329">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l00302">TicketMgr::LoadTickets()</a>, and <a class="el" href="../../#l00434">ticket_commandscript::TicketResponseAppend()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00361">TicketMgr::AddTicket()</a>, <a class="el" href="../../#l04033">Player::DeleteFromDB()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00121">ticket_commandscript::HandleGMTicketCloseByIdCommand()</a>, <a class="el" href="../../#l00156">ticket_commandscript::HandleGMTicketCommentCommand()</a>, <a class="el" href="../../#l00196">ticket_commandscript::HandleGMTicketCompleteCommand()</a>, <a class="el" href="../../#l00030">WorldSession::HandleGMTicketCreateOpcode()</a>, <a class="el" href="../../#l00237">ticket_commandscript::HandleGMTicketDeleteByIdCommand()</a>, <a class="el" href="../../#l00485">ticket_commandscript::HandleGMTicketResponseDeleteCommand()</a>, <a class="el" href="../../#l00329">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l00302">TicketMgr::LoadTickets()</a>, and <a class="el" href="../../#l00434">ticket_commandscript::TicketResponseAppend()</a>.</p>
 
 </div>
 </div>
@@ -1687,9 +1687,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  239</span>{</div>
 <div class="line"><span class="lineno">  240</span>    player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#aa2eae30c1e0af118b9a6b5db0a1929b7">TeleportTo</a>(<a class="code hl_variable" href="../../d9/df5/classGmTicket.html#aabb7d436a42e9c7a59614f8d35c3e52d">_mapId</a>, <a class="code hl_variable" href="../../d9/df5/classGmTicket.html#ac7cb10066393c0bc17f51a790893a1d9">_posX</a>, <a class="code hl_variable" href="../../d9/df5/classGmTicket.html#aa72da869d87fc7d3a467a508f38fbb3e">_posY</a>, <a class="code hl_variable" href="../../d9/df5/classGmTicket.html#a40633017efb1d1ce9c4f1e4c1c6484f9">_posZ</a>, 0.0f, 0);</div>
 <div class="line"><span class="lineno">  241</span>}</div>
-<div class="ttc" id="aclassPlayer_html_aa2eae30c1e0af118b9a6b5db0a1929b7"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#aa2eae30c1e0af118b9a6b5db0a1929b7">Player::TeleportTo</a></div><div class="ttdeci">bool TeleportTo(uint32 mapid, float x, float y, float z, float orientation, uint32 options=0, Unit *target=nullptr, bool newInstance=false)</div><div class="ttdef"><b>Definition</b> Player.cpp:1353</div></div>
+<div class="ttc" id="aclassPlayer_html_aa2eae30c1e0af118b9a6b5db0a1929b7"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#aa2eae30c1e0af118b9a6b5db0a1929b7">Player::TeleportTo</a></div><div class="ttdeci">bool TeleportTo(uint32 mapid, float x, float y, float z, float orientation, uint32 options=0, Unit *target=nullptr, bool newInstance=false)</div><div class="ttdef"><b>Definition</b> Player.cpp:1399</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00166">_mapId</a>, <a class="el" href="../../#l00163">_posX</a>, <a class="el" href="../../#l00164">_posY</a>, <a class="el" href="../../#l00165">_posZ</a>, and <a class="el" href="../../#l01353">Player::TeleportTo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00166">_mapId</a>, <a class="el" href="../../#l00163">_posX</a>, <a class="el" href="../../#l00164">_posY</a>, <a class="el" href="../../#l00165">_posZ</a>, and <a class="el" href="../../#l01399">Player::TeleportTo()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00495">go_commandscript::HandleGoTicketCommand()</a>.</p>
 
@@ -2279,7 +2279,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/df5/classGmTicket.html">GmTicket</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

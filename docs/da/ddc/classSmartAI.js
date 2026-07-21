@@ -71,7 +71,7 @@ var classSmartAI =
     [ "SetWPPauseTimer", "da/ddc/classSmartAI.html#a84af95d422892ad176c80c7491070fef", null ],
     [ "sGossipHello", "da/ddc/classSmartAI.html#ab3dab2651ea4db36edbbc855eb18ecda", null ],
     [ "sGossipSelect", "da/ddc/classSmartAI.html#aa717313e99b188db63d96dbb3fa416f5", null ],
-    [ "sGossipSelectCode", "da/ddc/classSmartAI.html#af01b4cb79656e7113218748da2200285", null ],
+    [ "sGossipSelectCode", "da/ddc/classSmartAI.html#a01a0c9bceb97d1e0fbff9835bf975eeb", null ],
     [ "sOnGameEvent", "da/ddc/classSmartAI.html#abd0d666370a6a32d44f49fc64401a64c", null ],
     [ "SpellHit", "da/ddc/classSmartAI.html#a4fa912634bd883211227fb9736a71bce", null ],
     [ "SpellHitTarget", "da/ddc/classSmartAI.html#a411a6388351dad5020b032fa2ace71bc", null ],

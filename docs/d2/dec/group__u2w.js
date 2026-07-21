@@ -580,7 +580,7 @@ var group__u2w =
       [ "LoadPermissionsAsync", "d8/d74/classWorldSession.html#a8ae16528d9b7f706c05997ed2fc4857e", null ],
       [ "LoadTutorialsData", "d8/d74/classWorldSession.html#a197540733cdf2cdb422ab15306962559", null ],
       [ "LogoutPlayer", "d8/d74/classWorldSession.html#a099e000ffd0bca5636a508218d17eb8e", null ],
-      [ "LogUnexpectedOpcode", "d8/d74/classWorldSession.html#a7203b6f025621b08fc8d6e6bfffe4a87", null ],
+      [ "LogUnexpectedOpcode", "d8/d74/classWorldSession.html#a56a6d461fc99ace2113f862b3bc31c68", null ],
       [ "LogUnprocessedTail", "d8/d74/classWorldSession.html#ab490ba72d0258b94f40b3eee9cb5adae", null ],
       [ "moveItems", "d8/d74/classWorldSession.html#a1f99a7c0ff091962a132d9971aa34656", null ],
       [ "operator=", "d8/d74/classWorldSession.html#ac18167cbf822ae58c88cf859295ed543", null ],

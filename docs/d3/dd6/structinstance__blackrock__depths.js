@@ -6,7 +6,7 @@ var structinstance__blackrock__depths =
     [ "GetGuidData", "d3/dd6/structinstance__blackrock__depths.html#aef5731ac129108998b7d26f4da06cbc5", null ],
     [ "GetSaveData", "d3/dd6/structinstance__blackrock__depths.html#a841e437ea489a59eda6925b9435864a9", null ],
     [ "Initialize", "d3/dd6/structinstance__blackrock__depths.html#ad21eade0eaa7adfa0080396bf35aef3b", null ],
-    [ "Load", "d3/dd6/structinstance__blackrock__depths.html#afbd9fa7f45d2d673c2d6750bf59a6f5d", null ],
+    [ "Load", "d3/dd6/structinstance__blackrock__depths.html#a233268edaa20065fcd1b6376905d2984", null ],
     [ "OnCreatureCreate", "d3/dd6/structinstance__blackrock__depths.html#acebf7341a04358dc614000eb3f0a03d2", null ],
     [ "OnGameObjectCreate", "d3/dd6/structinstance__blackrock__depths.html#a4e225faf5c7c27c703f43e1c75a0cb15", null ],
     [ "OnPlayerEnter", "d3/dd6/structinstance__blackrock__depths.html#ace4e96c4258008c52ef9e7a7a8e1d858", null ],

@@ -10,7 +10,7 @@ var structinstance__trial__of__the__champion_1_1instance__trial__of__the__champi
     [ "Initialize", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab77f583b714b73c85c3b82fc2fbb3ad9", null ],
     [ "InstanceCleanup", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ab44f15e5e59b4a5c5bb8388d5aef48e1", null ],
     [ "IsEncounterInProgress", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a9540f0514d4b1636e32294b9a8ab72f5", null ],
-    [ "Load", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a60d444b276c64cfbb641ed9f9da7d7bb", null ],
+    [ "Load", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae2cbc875538c547ca6e6b9bf341c213d", null ],
     [ "OnCreatureCreate", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a925ce6161478e51dc37e1ea60b48f08e", null ],
     [ "OnGameObjectCreate", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae17340753f10e9baf05d5c98f65ba3c4", null ],
     [ "OnPlayerEnter", "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a8f1ad4ce07f3f3d535c452c111d66400", null ],

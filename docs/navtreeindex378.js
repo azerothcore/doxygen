@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/d2f/structFactionTemplateEntry.html#a349650c7af717e3c67392a0b9d1970e1":[7,0,1060,6],
 "de/d2f/structFactionTemplateEntry.html#a4d3bfc9845c9d20f2e9e42f3247e1977":[7,0,1060,4],
 "de/d2f/structFactionTemplateEntry.html#a52d5e1e5b01946a3d6d66158910e9f6d":[7,0,1060,1],
 "de/d2f/structFactionTemplateEntry.html#a6842badfb5e7e0ad3a26d250426c64b6":[7,0,1060,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26":[8,0,0,0,1,2,41,9,66,5],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105":[8,0,0,0,1,2,41,9,66,18],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40":[8,0,0,0,1,2,41,9,66,25],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a92ea6e4f95430b1579ae29b233f1e1ed":[8,0,0,0,1,2,41,9,66,10],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a968d75fc25f1413369015f9ba98870b4":[8,0,0,0,1,2,41,9,66,20]
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a92ea6e4f95430b1579ae29b233f1e1ed":[8,0,0,0,1,2,41,9,66,10]
 };

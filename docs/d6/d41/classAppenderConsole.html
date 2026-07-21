@@ -313,12 +313,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  202</span>        }</div>
 <div class="line"><span class="lineno">  203</span> </div>
 <div class="line"><span class="lineno">  204</span>        <a class="code hl_function" href="../../d6/d41/classAppenderConsole.html#a9303f9408e1cbfc086fba15bf9a4ce59">SetColor</a>(stdout_stream, <a class="code hl_variable" href="../../d6/d41/classAppenderConsole.html#acdf277241cd25715e48500a15ab6bd30">_colors</a>[index]);</div>
-<div class="line"><span class="lineno">  205</span>        <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a8391493892d35ff6816f9457caee3e77">utf8printf</a>(stdout_stream ? stdout : stderr, <span class="stringliteral">&quot;%s%s\n&quot;</span>, message-&gt;prefix.c_str(), message-&gt;text.c_str());</div>
+<div class="line"><span class="lineno">  205</span>        <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a2d3026ee238cd61d23f6a58cf6318d72">utf8printf</a>(stdout_stream ? stdout : stderr, <span class="stringliteral">&quot;%s%s\n&quot;</span>, message-&gt;prefix.c_str(), message-&gt;text.c_str());</div>
 <div class="line"><span class="lineno">  206</span>        <a class="code hl_function" href="../../d6/d41/classAppenderConsole.html#a4a3e55c9229947a25d4191bbfa348bf5">ResetColor</a>(stdout_stream);</div>
 <div class="line"><span class="lineno">  207</span>    }</div>
 <div class="line"><span class="lineno">  208</span>    <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  209</span>    {</div>
-<div class="line"><span class="lineno">  210</span>        <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a8391493892d35ff6816f9457caee3e77">utf8printf</a>(stdout_stream ? stdout : stderr, <span class="stringliteral">&quot;%s%s\n&quot;</span>, message-&gt;prefix.c_str(), message-&gt;text.c_str());</div>
+<div class="line"><span class="lineno">  210</span>        <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a2d3026ee238cd61d23f6a58cf6318d72">utf8printf</a>(stdout_stream ? stdout : stderr, <span class="stringliteral">&quot;%s%s\n&quot;</span>, message-&gt;prefix.c_str(), message-&gt;text.c_str());</div>
 <div class="line"><span class="lineno">  211</span>    }</div>
 <div class="line"><span class="lineno">  212</span>}</div>
 <div class="ttc" id="aLogCommon_8h_html_ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a></div><div class="ttdeci">@ LOG_LEVEL_DEBUG</div><div class="ttdef"><b>Definition</b> LogCommon.h:31</div></div>
@@ -327,7 +327,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aLogCommon_8h_html_ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a></div><div class="ttdeci">@ LOG_LEVEL_TRACE</div><div class="ttdef"><b>Definition</b> LogCommon.h:32</div></div>
 <div class="ttc" id="aLogCommon_8h_html_ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a></div><div class="ttdeci">@ LOG_LEVEL_WARN</div><div class="ttdef"><b>Definition</b> LogCommon.h:29</div></div>
 <div class="ttc" id="aLogCommon_8h_html_ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4"><div class="ttname"><a href="../../de/deb/LogCommon_8h.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a></div><div class="ttdeci">@ LOG_LEVEL_INFO</div><div class="ttdef"><b>Definition</b> LogCommon.h:30</div></div>
-<div class="ttc" id="aUtil_8cpp_html_a8391493892d35ff6816f9457caee3e77"><div class="ttname"><a href="../../d9/da5/Util_8cpp.html#a8391493892d35ff6816f9457caee3e77">utf8printf</a></div><div class="ttdeci">void utf8printf(FILE *out, const char *str,...)</div><div class="ttdef"><b>Definition</b> Util.cpp:501</div></div>
+<div class="ttc" id="aUtil_8cpp_html_a2d3026ee238cd61d23f6a58cf6318d72"><div class="ttname"><a href="../../d9/da5/Util_8cpp.html#a2d3026ee238cd61d23f6a58cf6318d72">utf8printf</a></div><div class="ttdeci">void utf8printf(FILE *out, char const *str,...)</div><div class="ttdef"><b>Definition</b> Util.cpp:501</div></div>
 <div class="ttc" id="aclassAppenderConsole_html_a4a3e55c9229947a25d4191bbfa348bf5"><div class="ttname"><a href="../../d6/d41/classAppenderConsole.html#a4a3e55c9229947a25d4191bbfa348bf5">AppenderConsole::ResetColor</a></div><div class="ttdeci">void ResetColor(bool stdout_stream)</div><div class="ttdef"><b>Definition</b> AppenderConsole.cpp:162</div></div>
 <div class="ttc" id="aclassAppenderConsole_html_a9303f9408e1cbfc086fba15bf9a4ce59"><div class="ttname"><a href="../../d6/d41/classAppenderConsole.html#a9303f9408e1cbfc086fba15bf9a4ce59">AppenderConsole::SetColor</a></div><div class="ttdeci">void SetColor(bool stdout_stream, ColorTypes color)</div><div class="ttdef"><b>Definition</b> AppenderConsole.cpp:75</div></div>
 </div><!-- fragment -->
@@ -678,7 +678,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d41/classAppenderConsole.html">AppenderConsole</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

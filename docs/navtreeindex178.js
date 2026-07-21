@@ -191,7 +191,7 @@ var NAVTREEINDEX178 =
 "d6/d55/classnpc__tournament__training__dummy.html#a31257c155c3a49c69771156800cf6340":[7,0,2220,2],
 "d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[7,0,2220,1],
 "d6/d56/classnpc__kurenai__captive.html":[7,0,1942],
-"d6/d56/classnpc__kurenai__captive.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a":[7,0,1942,3],
+"d6/d56/classnpc__kurenai__captive.html#a5e87cd850d0fc6272d89dd3c7901af5f":[7,0,1942,3],
 "d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[7,0,1942,2],
 "d6/d56/classnpc__kurenai__captive.html#ae0e283bfc476f2d9e602158fa8720cdc":[7,0,1942,1],
 "d6/d56/classspell__dru__owlkin__frenzy.html":[7,0,2890],

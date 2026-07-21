@@ -376,9 +376,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  135</span>{</div>
 <div class="line"><span class="lineno">  136</span>    <span class="comment">// Atomic increment for pending_requests</span></div>
 <div class="line"><span class="lineno">  137</span>    <a class="code hl_variable" href="../../d3/db8/classMapUpdater.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>.fetch_add(1, std::memory_order_release);</div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_variable" href="../../d3/db8/classMapUpdater.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../d7/d29/classProducerConsumerQueue.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(request);</div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_variable" href="../../d3/db8/classMapUpdater.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../d7/d29/classProducerConsumerQueue.html#ac7598291c31b28aaf95408ffe017c85a">Push</a>(request);</div>
 <div class="line"><span class="lineno">  139</span>}</div>
-<div class="ttc" id="aclassProducerConsumerQueue_html_abd3bd3c88fbd7d8edb721fc5f89da5ed"><div class="ttname"><a href="../../d7/d29/classProducerConsumerQueue.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(const T &amp;value)</div><div class="ttdef"><b>Definition</b> PCQueue.h:39</div></div>
+<div class="ttc" id="aclassProducerConsumerQueue_html_ac7598291c31b28aaf95408ffe017c85a"><div class="ttname"><a href="../../d7/d29/classProducerConsumerQueue.html#ac7598291c31b28aaf95408ffe017c85a">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(T const &amp;value)</div><div class="ttdef"><b>Definition</b> PCQueue.h:39</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00048">_queue</a>, <a class="el" href="../../#l00049">pending_requests</a>, and <a class="el" href="../../#l00039">ProducerConsumerQueue&lt; T &gt;::Push()</a>.</p>
 
@@ -697,7 +697,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/db8/classMapUpdater.html">MapUpdater</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

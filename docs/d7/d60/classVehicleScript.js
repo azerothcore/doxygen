@@ -1,6 +1,6 @@
 var classVehicleScript =
 [
-    [ "VehicleScript", "d7/d60/classVehicleScript.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "VehicleScript", "d7/d60/classVehicleScript.html#a35a301eed5615f07831eb840ca48d469", null ],
     [ "OnAddPassenger", "d7/d60/classVehicleScript.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
     [ "OnInstall", "d7/d60/classVehicleScript.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
     [ "OnInstallAccessory", "d7/d60/classVehicleScript.html#ad59ae4c47404abb86e05ae983704f6ea", null ],

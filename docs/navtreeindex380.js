@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"de/d3b/classMotionMaster.html#aa7daeb9ba8434cb77aff7e5b60130e89":[7,0,1557,24],
+"de/d3b/classMotionMaster.html#aa9152d2b3f487116690c08a7df43bafd":[7,0,1557,12],
 "de/d3b/classMotionMaster.html#aaa45030e4e988d3337350cc2a8385f4c":[7,0,1557,73],
 "de/d3b/classMotionMaster.html#aafe3a2f555b597f7904269a640c9dfd1":[7,0,1557,44],
 "de/d3b/classMotionMaster.html#ab8dd6cc77c73d04fef110e14b0735023":[7,0,1557,17],
@@ -18,7 +20,6 @@ var NAVTREEINDEX380 =
 "de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4":[7,0,1557,20],
 "de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[7,0,1557,26],
 "de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[7,0,1557,4],
-"de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[7,0,1557,48],
 "de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[7,0,1557,34],
 "de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[7,0,1557,50],
 "de/d3b/classspell__vazruden__call__nazan.html":[7,0,4241],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d3d/structboss__freya__healthy__spore.html#a8d8b6fe5895efb48750a65c2dfe8a1df":[7,0,496,3],
 "de/d3d/structboss__freya__healthy__spore.html#abc2492b9cf96cb00940b18fac549fb00":[7,0,496,0],
 "de/d3d/structboss__freya__healthy__spore.html#abe3f794707aa722e73b1728700876083":[7,0,496,1],
-"de/d3d/structboss__freya__healthy__spore.html#ac8c952848687cd883aaefe466b799e3b":[7,0,496,2],
-"de/d3e/structnpc__azure__mage__slayer.html":[7,0,1660]
+"de/d3d/structboss__freya__healthy__spore.html#ac8c952848687cd883aaefe466b799e3b":[7,0,496,2]
 };

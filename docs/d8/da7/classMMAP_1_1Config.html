@@ -344,8 +344,8 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        <span class="keyword">const</span> MapOverride* mapOverride = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keyword">const</span> TileOverride* tileOverride = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   77</span>        MapOverride <span class="keyword">const</span>* mapOverride = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   78</span>        TileOverride <span class="keyword">const</span>* tileOverride = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   79</span> </div>
 <div class="line"><span class="lineno">   80</span>        <span class="comment">// Lookup map and tile overrides</span></div>
 <div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (<span class="keyword">auto</span> mapIt = <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#afd31b92dc677d3410816388010438141">_maps</a>.find(mapID); mapIt != <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#afd31b92dc677d3410816388010438141">_maps</a>.end())</div>
@@ -372,39 +372,39 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  102</span> </div>
 <div class="line"><span class="lineno">  103</span>        <span class="comment">// Resolve vertex settings</span></div>
 <div class="line"><span class="lineno">  104</span>        <span class="keywordtype">int</span> vertexPerMap = resolveInt(</div>
-<div class="line"><span class="lineno">  105</span>            [](<span class="keyword">const</span> TileOverride*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
-<div class="line"><span class="lineno">  106</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;vertexPerMapEdge; },</div>
+<div class="line"><span class="lineno">  105</span>            [](TileOverride <span class="keyword">const</span>*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
+<div class="line"><span class="lineno">  106</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;vertexPerMapEdge; },</div>
 <div class="line"><span class="lineno">  107</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411">vertexPerMapEdge</a></div>
 <div class="line"><span class="lineno">  108</span>        );</div>
 <div class="line"><span class="lineno">  109</span> </div>
 <div class="line"><span class="lineno">  110</span>        <span class="keywordtype">int</span> vertexPerTile = resolveInt(</div>
-<div class="line"><span class="lineno">  111</span>            [](<span class="keyword">const</span> TileOverride*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
-<div class="line"><span class="lineno">  112</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;vertexPerTileEdge; },</div>
+<div class="line"><span class="lineno">  111</span>            [](TileOverride <span class="keyword">const</span>*) { <span class="keywordflow">return</span> std::optional&lt;int&gt;{}; },</div>
+<div class="line"><span class="lineno">  112</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;vertexPerTileEdge; },</div>
 <div class="line"><span class="lineno">  113</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e">vertexPerTileEdge</a></div>
 <div class="line"><span class="lineno">  114</span>        );</div>
 <div class="line"><span class="lineno">  115</span> </div>
 <div class="line"><span class="lineno">  116</span>        ResolvedMeshConfig config;</div>
 <div class="line"><span class="lineno">  117</span>        config.walkableSlopeAngle = resolveFloat(</div>
-<div class="line"><span class="lineno">  118</span>            [](<span class="keyword">const</span> TileOverride* t) { <span class="keywordflow">return</span> t-&gt;walkableSlopeAngle; },</div>
-<div class="line"><span class="lineno">  119</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;walkableSlopeAngle; },</div>
+<div class="line"><span class="lineno">  118</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableSlopeAngle; },</div>
+<div class="line"><span class="lineno">  119</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableSlopeAngle; },</div>
 <div class="line"><span class="lineno">  120</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528">walkableSlopeAngle</a></div>
 <div class="line"><span class="lineno">  121</span>        );</div>
 <div class="line"><span class="lineno">  122</span> </div>
 <div class="line"><span class="lineno">  123</span>        config.walkableRadius = resolveInt(</div>
-<div class="line"><span class="lineno">  124</span>            [](<span class="keyword">const</span> TileOverride* t) { <span class="keywordflow">return</span> t-&gt;walkableRadius; },</div>
-<div class="line"><span class="lineno">  125</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;walkableRadius; },</div>
+<div class="line"><span class="lineno">  124</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableRadius; },</div>
+<div class="line"><span class="lineno">  125</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableRadius; },</div>
 <div class="line"><span class="lineno">  126</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140">walkableRadius</a></div>
 <div class="line"><span class="lineno">  127</span>        );</div>
 <div class="line"><span class="lineno">  128</span> </div>
 <div class="line"><span class="lineno">  129</span>        config.walkableHeight = resolveInt(</div>
-<div class="line"><span class="lineno">  130</span>            [](<span class="keyword">const</span> TileOverride* t) { <span class="keywordflow">return</span> t-&gt;walkableHeight; },</div>
-<div class="line"><span class="lineno">  131</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;walkableHeight; },</div>
+<div class="line"><span class="lineno">  130</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableHeight; },</div>
+<div class="line"><span class="lineno">  131</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableHeight; },</div>
 <div class="line"><span class="lineno">  132</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486">walkableHeight</a></div>
 <div class="line"><span class="lineno">  133</span>        );</div>
 <div class="line"><span class="lineno">  134</span> </div>
 <div class="line"><span class="lineno">  135</span>        config.walkableClimb = resolveInt(</div>
-<div class="line"><span class="lineno">  136</span>            [](<span class="keyword">const</span> TileOverride* t) { <span class="keywordflow">return</span> t-&gt;walkableClimb; },</div>
-<div class="line"><span class="lineno">  137</span>            [](<span class="keyword">const</span> MapOverride* m) { <span class="keywordflow">return</span> m-&gt;walkableClimb; },</div>
+<div class="line"><span class="lineno">  136</span>            [](TileOverride <span class="keyword">const</span>* t) { <span class="keywordflow">return</span> t-&gt;walkableClimb; },</div>
+<div class="line"><span class="lineno">  137</span>            [](MapOverride <span class="keyword">const</span>* m) { <span class="keywordflow">return</span> m-&gt;walkableClimb; },</div>
 <div class="line"><span class="lineno">  138</span>            <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a86d09da3b6ec6b938e4c6ba5caf90b92">_global</a>.<a class="code hl_variable" href="../../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec">walkableClimb</a></div>
 <div class="line"><span class="lineno">  139</span>        );</div>
 <div class="line"><span class="lineno">  140</span> </div>
@@ -507,19 +507,19 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  168</span> </div>
 <div class="line"><span class="lineno">  169</span>        fkyaml::node mmapsNode = root[<span class="stringliteral">&quot;mmapsConfig&quot;</span>];</div>
 <div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>        <span class="keyword">auto</span> tryFloat = [](<span class="keyword">const</span> fkyaml::node&amp; n, <span class="keyword">const</span> <span class="keywordtype">char</span>* key, <span class="keywordtype">float</span>&amp; out)</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keyword">auto</span> tryFloat = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">float</span>&amp; out)</div>
 <div class="line"><span class="lineno">  172</span>        {</div>
 <div class="line"><span class="lineno">  173</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;float&gt;();</div>
 <div class="line"><span class="lineno">  174</span>        };</div>
-<div class="line"><span class="lineno">  175</span>        <span class="keyword">auto</span> tryInt = [](<span class="keyword">const</span> fkyaml::node&amp; n, <span class="keyword">const</span> <span class="keywordtype">char</span>* key, <span class="keywordtype">int</span>&amp; out)</div>
+<div class="line"><span class="lineno">  175</span>        <span class="keyword">auto</span> tryInt = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">int</span>&amp; out)</div>
 <div class="line"><span class="lineno">  176</span>        {</div>
 <div class="line"><span class="lineno">  177</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;int&gt;();</div>
 <div class="line"><span class="lineno">  178</span>        };</div>
-<div class="line"><span class="lineno">  179</span>        <span class="keyword">auto</span> tryBoolean = [](<span class="keyword">const</span> fkyaml::node&amp; n, <span class="keyword">const</span> <span class="keywordtype">char</span>* key, <span class="keywordtype">bool</span>&amp; out)</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keyword">auto</span> tryBoolean = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, <span class="keywordtype">bool</span>&amp; out)</div>
 <div class="line"><span class="lineno">  180</span>        {</div>
 <div class="line"><span class="lineno">  181</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;bool&gt;();</div>
 <div class="line"><span class="lineno">  182</span>        };</div>
-<div class="line"><span class="lineno">  183</span>        <span class="keyword">auto</span> tryString = [](<span class="keyword">const</span> fkyaml::node&amp; n, <span class="keyword">const</span> <span class="keywordtype">char</span>* key, std::string&amp; out)</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keyword">auto</span> tryString = [](fkyaml::node <span class="keyword">const</span>&amp; n, <span class="keywordtype">char</span> <span class="keyword">const</span>* key, std::string&amp; out)</div>
 <div class="line"><span class="lineno">  184</span>        {</div>
 <div class="line"><span class="lineno">  185</span>            <span class="keywordflow">if</span> (n.contains(key)) out = n[key].get_value&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">  186</span>        };</div>
@@ -617,7 +617,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  278</span>        }</div>
 <div class="line"><span class="lineno">  279</span> </div>
 <div class="line"><span class="lineno">  280</span>        <span class="comment">// Resolve data dir path. Maybe we need to use an executable path instead of the current dir.</span></div>
-<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../de/d19/namespaceMMAP.html#aa116779ddd87038d6077a805710a7e4d">isCurrentDirectory</a>(<a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a>.string()) &amp;&amp; !std::filesystem::exists(<a class="code hl_function" href="../../d8/da7/classMMAP_1_1Config.html#a1d0f34239a4770006e4f53d0f28ba8ed">MapsPath</a>()))</div>
+<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../de/d19/namespaceMMAP.html#ad9121353c9023aea25c21180346e97ad">isCurrentDirectory</a>(<a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a>.string()) &amp;&amp; !std::filesystem::exists(<a class="code hl_function" href="../../d8/da7/classMMAP_1_1Config.html#a1d0f34239a4770006e4f53d0f28ba8ed">MapsPath</a>()))</div>
 <div class="line"><span class="lineno">  282</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span> execPath = std::filesystem::path(<a class="code hl_function" href="../../de/d19/namespaceMMAP.html#acc9fa8dfc5903454eab1eb410866b694">executableDirectoryPath</a>()); std::filesystem::exists(execPath/ <span class="stringliteral">&quot;maps&quot;</span>))</div>
 <div class="line"><span class="lineno">  283</span>                <a class="code hl_variable" href="../../d8/da7/classMMAP_1_1Config.html#a33a4ab30ac8424499f7b11cffcd4740b">_dataDir</a> = execPath;</div>
 <div class="line"><span class="lineno">  284</span> </div>
@@ -630,8 +630,8 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassMMAP_1_1Config_html_a9fcfcb466c608d6618d4f800cf6418a1"><div class="ttname"><a href="../../d8/da7/classMMAP_1_1Config.html#a9fcfcb466c608d6618d4f800cf6418a1">MMAP::Config::_offmeshConnections</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _offmeshConnections</div><div class="ttdef"><b>Definition</b> Config.h:159</div></div>
 <div class="ttc" id="aclassMMAP_1_1Config_html_ad2f941932465884d64cd27fce82eaa33"><div class="ttname"><a href="../../d8/da7/classMMAP_1_1Config.html#ad2f941932465884d64cd27fce82eaa33">MMAP::Config::_skipJunkMaps</a></div><div class="ttdeci">bool _skipJunkMaps</div><div class="ttdef"><b>Definition</b> Config.h:153</div></div>
 <div class="ttc" id="aclassMMAP_1_1Config_html_afcac72fd98752013061aaca541011d1c"><div class="ttname"><a href="../../d8/da7/classMMAP_1_1Config.html#afcac72fd98752013061aaca541011d1c">MMAP::Config::_skipLiquid</a></div><div class="ttdeci">bool _skipLiquid</div><div class="ttdef"><b>Definition</b> Config.h:151</div></div>
-<div class="ttc" id="anamespaceMMAP_html_aa116779ddd87038d6077a805710a7e4d"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#aa116779ddd87038d6077a805710a7e4d">MMAP::isCurrentDirectory</a></div><div class="ttdeci">bool isCurrentDirectory(const std::string &amp;pathStr)</div><div class="ttdef"><b>Definition</b> Config.cpp:36</div></div>
 <div class="ttc" id="anamespaceMMAP_html_acc9fa8dfc5903454eab1eb410866b694"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#acc9fa8dfc5903454eab1eb410866b694">MMAP::executableDirectoryPath</a></div><div class="ttdeci">std::string executableDirectoryPath()</div><div class="ttdef"><b>Definition</b> PathCommon.h:39</div></div>
+<div class="ttc" id="anamespaceMMAP_html_ad9121353c9023aea25c21180346e97ad"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#ad9121353c9023aea25c21180346e97ad">MMAP::isCurrentDirectory</a></div><div class="ttdeci">bool isCurrentDirectory(std::string const &amp;pathStr)</div><div class="ttdef"><b>Definition</b> Config.cpp:36</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00157">_dataDir</a>, <a class="el" href="../../#l00155">_debugOutput</a>, <a class="el" href="../../#l00148">_global</a>, <a class="el" href="../../#l00149">_maps</a>, <a class="el" href="../../#l00159">_offmeshConnections</a>, <a class="el" href="../../#l00154">_skipBattlegrounds</a>, <a class="el" href="../../#l00152">_skipContinents</a>, <a class="el" href="../../#l00153">_skipJunkMaps</a>, <a class="el" href="../../#l00151">_skipLiquid</a>, <a class="el" href="../../#l00039">MMAP::executableDirectoryPath()</a>, <a class="el" href="../../#l00036">MMAP::isCurrentDirectory()</a>, <a class="el" href="../../#l00075">MapsPath()</a>, <a class="el" href="../../#l00145">MMAP::Config::GlobalConfig::maxSimplificationError</a>, <a class="el" href="../../#l00135">MMAP::Config::GlobalConfig::vertexPerMapEdge</a>, <a class="el" href="../../#l00141">MMAP::Config::GlobalConfig::vertexPerTileEdge</a>, <a class="el" href="../../#l00090">MMAP::Config::TileOverride::walkableClimb</a>, <a class="el" href="../../#l00131">MMAP::Config::GlobalConfig::walkableClimb</a>, <a class="el" href="../../#l00089">MMAP::Config::TileOverride::walkableHeight</a>, <a class="el" href="../../#l00127">MMAP::Config::GlobalConfig::walkableHeight</a>, <a class="el" href="../../#l00088">MMAP::Config::TileOverride::walkableRadius</a>, <a class="el" href="../../#l00123">MMAP::Config::GlobalConfig::walkableRadius</a>, <a class="el" href="../../#l00087">MMAP::Config::TileOverride::walkableSlopeAngle</a>, <a class="el" href="../../#l00094">MMAP::Config::MapOverride::walkableSlopeAngle</a>, and <a class="el" href="../../#l00119">MMAP::Config::GlobalConfig::walkableSlopeAngle</a>.</p>
 
@@ -1098,7 +1098,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d8/da7/classMMAP_1_1Config.html">Config</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

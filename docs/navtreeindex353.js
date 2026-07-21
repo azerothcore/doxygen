@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea2d3e090b42693ee3eda1af3f2dc302f7":[8,0,0,0,1,3,5,23,42,12],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea2fff83fa74dc86f6ed580776924e8467":[8,0,0,0,1,3,5,23,42,38],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea34665fd42d73c2fec9c29b2c8dcec8bd":[8,0,0,0,1,3,5,23,42,25],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea3aa3a5041a3a4e386ca2ef97273b9b27":[8,0,0,0,1,3,5,23,42,16],
@@ -133,7 +134,7 @@ var NAVTREEINDEX353 =
 "dd/db7/classAllSpellScript.html#a3cf7b45d8e9f5b23e2753d1624c4af78":[7,0,159,3],
 "dd/db7/classAllSpellScript.html#a54e0b823c538c41507c541db025d5295":[7,0,159,7],
 "dd/db7/classAllSpellScript.html#a5d02de785a4e1cf5103110828fac5e75":[7,0,159,6],
-"dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[7,0,159,0],
+"dd/db7/classAllSpellScript.html#a8c4266bf7a21c199eac02b5422c358e8":[7,0,159,0],
 "dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[7,0,159,10],
 "dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[7,0,159,12],
 "dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[7,0,159,14],
@@ -191,10 +192,10 @@ var NAVTREEINDEX353 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,641,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4336],
 "dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[7,0,4336,3],
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[7,0,4336,1],
@@ -208,7 +209,7 @@ var NAVTREEINDEX353 =
 "dd/dbd/structYells.html#a198a3a5a4ad037b591fc3b85675bdfe1":[7,0,4664,3],
 "dd/dbd/structYells.html#a407acf5c908aa44a169adc1e88a70ab4":[7,0,4664,1],
 "dd/dbd/structYells.html#a55a6ee677ab51120867f542e5a5745b0":[7,0,4664,0],
-"dd/dbd/structYells.html#a9ed157ddf2c274d021820723b1ebe00e":[7,0,4664,2],
+"dd/dbd/structYells.html#a7da4e50b658a76a42d128849d597fc0e":[7,0,4664,2],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html":[7,0,1820,0],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[7,0,1820,0,4],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[7,0,1820,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#af0ce341df018dafdce89f75fcb9f0063":[7,0,1986,0,9],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#aff28c68ed9575440f5732df855ab4372":[7,0,1986,0,12],
 "dd/dc4/classspell__item__spell__reflectors.html":[7,0,3455],
-"dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed":[7,0,3455,0],
-"dd/dc4/classspell__item__spell__reflectors.html#aa9ddc9f2a0ded66e81be51cec24a0e4b":[7,0,3455,1]
+"dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed":[7,0,3455,0]
 };

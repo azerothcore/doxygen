@@ -18,5 +18,5 @@ var wmo_8h =
       [ "WMO_MATERIAL_COLLIDE_HIT", "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
     ] ],
     [ "Extract", "d7/d14/wmo_8h.html#a9148b3ef5b412564a285737b0bd104dd", null ],
-    [ "fixCoords", "d7/d14/wmo_8h.html#ab265837fe64577975f97318431c69e9c", null ]
+    [ "fixCoords", "d7/d14/wmo_8h.html#aac8f4a449b4a5d07be9ff66ee59a6f6c", null ]
 ];

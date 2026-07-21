@@ -198,7 +198,7 @@ var NAVTREEINDEX11 =
 "d0/d81/structGtNPCManaCostScalerEntry.html#a4d2880eb4c15dca8148ee5aa21920e6d":[7,0,1265,0],
 "d0/d83/classat__twin__emperors.html":[7,0,258],
 "d0/d83/classat__twin__emperors.html#a343d482857fa0a45c42f593e591f7754":[7,0,258,0],
-"d0/d83/classat__twin__emperors.html#adf3120b7bf611e0246abb2970711ada3":[7,0,258,1],
+"d0/d83/classat__twin__emperors.html#a466ba3bbf21b33f064a056eef63291ce":[7,0,258,1],
 "d0/d83/classspell__gen__use__spell__base__level__check.html":[7,0,3124],
 "d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[7,0,3124,0],
 "d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[7,0,3124,1],

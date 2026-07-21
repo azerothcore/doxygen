@@ -4,7 +4,7 @@ var structLootItem =
     [ "LootItem", "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2", null ],
     [ "AddAllowedLooter", "db/d72/structLootItem.html#a1912ff0623715b0e5266379fcf8d7170", null ],
     [ "AllowedForPlayer", "db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202", null ],
-    [ "GetAllowedLooters", "db/d72/structLootItem.html#ab84a909c705155c4e9aa1b59fd38ae52", null ],
+    [ "GetAllowedLooters", "db/d72/structLootItem.html#a1229224cb41005dbd8d8fa8407ced2ef", null ],
     [ "allowedGUIDs", "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c", null ],
     [ "conditions", "db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f", null ],
     [ "count", "db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5", null ],

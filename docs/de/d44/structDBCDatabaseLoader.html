@@ -187,13 +187,13 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   30</span>{</div>
 <div class="line"><span class="lineno">   31</span>    <span class="comment">// Get sql index position</span></div>
 <div class="line"><span class="lineno">   32</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> indexPos = -1;</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_variable" href="../../de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11">_recordSize</a> = <a class="code hl_function" href="../../d7/da4/classDBCFileLoader.html#a990308cf88d2772db090c37a66e9f9e5">DBCFileLoader::GetFormatRecordSize</a>(<a class="code hl_variable" href="../../de/d44/structDBCDatabaseLoader.html#aa749118514d0b784ac6df295bd820d8e">_dbcFormat</a>, &amp;indexPos);</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_variable" href="../../de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11">_recordSize</a> = <a class="code hl_function" href="../../d7/da4/classDBCFileLoader.html#acbca26ec315c5f6ea59c9f1cbd70c376">DBCFileLoader::GetFormatRecordSize</a>(<a class="code hl_variable" href="../../de/d44/structDBCDatabaseLoader.html#aa749118514d0b784ac6df295bd820d8e">_dbcFormat</a>, &amp;indexPos);</div>
 <div class="line"><span class="lineno">   34</span> </div>
 <div class="line"><span class="lineno">   35</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11">_recordSize</a>);</div>
 <div class="line"><span class="lineno">   36</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
-<div class="ttc" id="aclassDBCFileLoader_html_a990308cf88d2772db090c37a66e9f9e5"><div class="ttname"><a href="../../d7/da4/classDBCFileLoader.html#a990308cf88d2772db090c37a66e9f9e5">DBCFileLoader::GetFormatRecordSize</a></div><div class="ttdeci">static uint32 GetFormatRecordSize(const char *format, int32 *index_pos=nullptr)</div><div class="ttdef"><b>Definition</b> DBCFileLoader.cpp:128</div></div>
+<div class="ttc" id="aclassDBCFileLoader_html_acbca26ec315c5f6ea59c9f1cbd70c376"><div class="ttname"><a href="../../d7/da4/classDBCFileLoader.html#acbca26ec315c5f6ea59c9f1cbd70c376">DBCFileLoader::GetFormatRecordSize</a></div><div class="ttdeci">static uint32 GetFormatRecordSize(char const *format, int32 *index_pos=nullptr)</div><div class="ttdef"><b>Definition</b> DBCFileLoader.cpp:128</div></div>
 <div class="ttc" id="astructDBCDatabaseLoader_html_a52b5b86f0efb8ad0716bc0171a3aa740"><div class="ttname"><a href="../../de/d44/structDBCDatabaseLoader.html#a52b5b86f0efb8ad0716bc0171a3aa740">DBCDatabaseLoader::_stringPool</a></div><div class="ttdeci">std::vector&lt; char * &gt; &amp; _stringPool</div><div class="ttdef"><b>Definition</b> DBCDatabaseLoader.h:35</div></div>
 <div class="ttc" id="astructDBCDatabaseLoader_html_a6721538ebbcfe020fb195d44b3bdbd11"><div class="ttname"><a href="../../de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11">DBCDatabaseLoader::_recordSize</a></div><div class="ttdeci">uint32 _recordSize</div><div class="ttdef"><b>Definition</b> DBCDatabaseLoader.h:34</div></div>
 <div class="ttc" id="astructDBCDatabaseLoader_html_aa749118514d0b784ac6df295bd820d8e"><div class="ttname"><a href="../../de/d44/structDBCDatabaseLoader.html#aa749118514d0b784ac6df295bd820d8e">DBCDatabaseLoader::_dbcFormat</a></div><div class="ttdeci">char const  * _dbcFormat</div><div class="ttdef"><b>Definition</b> DBCDatabaseLoader.h:32</div></div>
@@ -566,7 +566,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d44/structDBCDatabaseLoader.html">DBCDatabaseLoader</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

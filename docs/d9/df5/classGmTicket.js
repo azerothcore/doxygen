@@ -7,7 +7,7 @@ var classGmTicket =
     [ "DeleteFromDB", "d9/df5/classGmTicket.html#a1e583391ddb0c22d7648c68b0bc501a1", null ],
     [ "DeleteResponse", "d9/df5/classGmTicket.html#a88428e6391ded9b91cf8a92c3d17956d", null ],
     [ "FormatMessageString", "d9/df5/classGmTicket.html#ad46f6e65554bbe4646273e9a3164d817", null ],
-    [ "FormatMessageString", "d9/df5/classGmTicket.html#a838f706c8133b88b0d031d882a27d190", null ],
+    [ "FormatMessageString", "d9/df5/classGmTicket.html#aa3874c6299425548303f9369df80f015", null ],
     [ "GetAssignedPlayer", "d9/df5/classGmTicket.html#af9b97c103035b485ddabc9fad4640c29", null ],
     [ "GetAssignedToGUID", "d9/df5/classGmTicket.html#a01fe170eec6ec9739a0cccb6364e74ce", null ],
     [ "GetAssignedToName", "d9/df5/classGmTicket.html#aef45def874581550aa1b21081b586efa", null ],

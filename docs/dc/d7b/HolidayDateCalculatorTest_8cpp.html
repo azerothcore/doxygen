@@ -464,10 +464,10 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1425</span>    uint32_t stageLengthMin = 72 * 60;</div>
 <div class="line"><span class="lineno"> 1426</span> </div>
 <div class="line"><span class="lineno"> 1427</span>    time_t curTime = MakeTime(2026, 6, 1); <span class="comment">// way after both dates</span></div>
-<div class="line"><span class="lineno"> 1428</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1428</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1429</span>    EXPECT_EQ(result, 0);</div>
 <div class="line"><span class="lineno"> 1430</span>}</div>
-<div class="ttc" id="aclassHolidayDateCalculator_html_ad67e9add59e743a47b087e62737eab7e"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a></div><div class="ttdeci">static time_t FindStartTimeForStage(const uint32_t *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:651</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_adb0b9bcaeaa1aab1a11f59e57a08653b"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a></div><div class="ttdeci">static time_t FindStartTimeForStage(uint32_t const *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:651</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00651">HolidayDateCalculator::FindStartTimeForStage()</a>.</p>
 
@@ -502,7 +502,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1411</span>    uint32_t dates[26] = {};</div>
 <div class="line"><span class="lineno"> 1412</span>    time_t curTime = MakeTime(2026, 6, 1);</div>
 <div class="line"><span class="lineno"> 1413</span> </div>
-<div class="line"><span class="lineno"> 1414</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, 0, 168 * 60, curTime);</div>
+<div class="line"><span class="lineno"> 1414</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, 0, 168 * 60, curTime);</div>
 <div class="line"><span class="lineno"> 1415</span>    EXPECT_EQ(result, 0);</div>
 <div class="line"><span class="lineno"> 1416</span>}</div>
 </div><!-- fragment -->
@@ -543,7 +543,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1357</span>    time_t stageOffset = 0;</div>
 <div class="line"><span class="lineno"> 1358</span>    uint32_t stageLengthMin = 72 * 60; <span class="comment">// 3 days</span></div>
 <div class="line"><span class="lineno"> 1359</span> </div>
-<div class="line"><span class="lineno"> 1360</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1360</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1361</span>    EXPECT_EQ(result, MakeTime(2026, 4, 3));</div>
 <div class="line"><span class="lineno"> 1362</span>}</div>
 </div><!-- fragment -->
@@ -584,7 +584,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1329</span>    time_t stageOffset = 0;</div>
 <div class="line"><span class="lineno"> 1330</span>    uint32_t stageLengthMin = 72 * 60; <span class="comment">// 72 hours = 3 days</span></div>
 <div class="line"><span class="lineno"> 1331</span> </div>
-<div class="line"><span class="lineno"> 1332</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1332</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1333</span>    EXPECT_EQ(result, MakeTime(2026, 3, 6));</div>
 <div class="line"><span class="lineno"> 1334</span>}</div>
 </div><!-- fragment -->
@@ -625,7 +625,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1343</span>    time_t stageOffset = 0;</div>
 <div class="line"><span class="lineno"> 1344</span>    uint32_t stageLengthMin = 72 * 60; <span class="comment">// 3 days</span></div>
 <div class="line"><span class="lineno"> 1345</span> </div>
-<div class="line"><span class="lineno"> 1346</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1346</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1347</span>    EXPECT_EQ(result, MakeTime(2026, 3, 6));</div>
 <div class="line"><span class="lineno"> 1348</span>}</div>
 </div><!-- fragment -->
@@ -668,7 +668,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1401</span>    <span class="comment">// curTime = Mar 20 (well past the entire holiday)</span></div>
 <div class="line"><span class="lineno"> 1402</span>    time_t curTime = MakeTime(2026, 3, 20);</div>
 <div class="line"><span class="lineno"> 1403</span> </div>
-<div class="line"><span class="lineno"> 1404</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1404</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1405</span>    EXPECT_EQ(result, MakeTime(2026, 4, 3) + stageOffset);</div>
 <div class="line"><span class="lineno"> 1406</span>}</div>
 </div><!-- fragment -->
@@ -719,7 +719,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1384</span>    <span class="comment">// Fixed:   startTime(Mar 6) + 72h + 168h = Mar 16, so curTime &lt; that -&gt; correct</span></div>
 <div class="line"><span class="lineno"> 1385</span>    time_t curTime = MakeTime(2026, 3, 14, 12);</div>
 <div class="line"><span class="lineno"> 1386</span> </div>
-<div class="line"><span class="lineno"> 1387</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
+<div class="line"><span class="lineno"> 1387</span>    time_t result = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(dates, 26, stageOffset, stageLengthMin, curTime);</div>
 <div class="line"><span class="lineno"> 1388</span>    <span class="comment">// Should return Mar 6 + stageOffset = Mar 9 (stage 2 start)</span></div>
 <div class="line"><span class="lineno"> 1389</span>    EXPECT_EQ(result, MakeTime(2026, 3, 6) + stageOffset);</div>
 <div class="line"><span class="lineno"> 1390</span>}</div>
@@ -760,7 +760,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  447</span> </div>
 <div class="line"><span class="lineno">  448</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 2000; year &lt;= 2030; ++year)</div>
 <div class="line"><span class="lineno">  449</span>    {</div>
-<div class="line"><span class="lineno">  450</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(brewfest, year);</div>
+<div class="line"><span class="lineno">  450</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(brewfest, year);</div>
 <div class="line"><span class="lineno">  451</span> </div>
 <div class="line"><span class="lineno">  452</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  453</span> </div>
@@ -770,7 +770,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  457</span>    }</div>
 <div class="line"><span class="lineno">  458</span>}</div>
 <div class="ttc" id="aHolidayDateCalculator_8h_html_a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387"><div class="ttname"><a href="../../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">HolidayCalculationType::FIXED_DATE</a></div><div class="ttdeci">@ FIXED_DATE</div></div>
-<div class="ttc" id="aclassHolidayDateCalculator_html_a101d5befdf785359441da4cf7b577b32"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a></div><div class="ttdeci">static std::tm CalculateHolidayDate(const HolidayRule &amp;rule, int year)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:482</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_a210710c9e3c17b35c4c90a118d6fa8b5"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a></div><div class="ttdeci">static std::tm CalculateHolidayDate(HolidayRule const &amp;rule, int year)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:482</div></div>
 <div class="ttc" id="astructHolidayRule_html"><div class="ttname"><a href="../../d6/d23/structHolidayRule.html">HolidayRule</a></div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.h:49</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00482">HolidayDateCalculator::CalculateHolidayDate()</a>, and <a class="el" href="../../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387">FIXED_DATE</a>.</p>
@@ -809,8 +809,8 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  465</span> </div>
 <div class="line"><span class="lineno">  466</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 2000; year &lt;= 2030; ++year)</div>
 <div class="line"><span class="lineno">  467</span>    {</div>
-<div class="line"><span class="lineno">  468</span>        std::tm brewfestDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(brewfest, year);</div>
-<div class="line"><span class="lineno">  469</span>        std::tm piratesDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(piratesDay, year);</div>
+<div class="line"><span class="lineno">  468</span>        std::tm brewfestDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(brewfest, year);</div>
+<div class="line"><span class="lineno">  469</span>        std::tm piratesDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(piratesDay, year);</div>
 <div class="line"><span class="lineno">  470</span> </div>
 <div class="line"><span class="lineno">  471</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  472</span> </div>
@@ -1017,17 +1017,17 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1213</span> </div>
 <div class="line"><span class="lineno"> 1214</span>    <span class="comment">// 2025 first occurrences:</span></div>
 <div class="line"><span class="lineno"> 1215</span>    <span class="comment">// Elwynn (offset 0): March (first month where month % 3 == 0)</span></div>
-<div class="line"><span class="lineno"> 1216</span>    std::tm elwynn2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(elwynnRule, 2025);</div>
+<div class="line"><span class="lineno"> 1216</span>    std::tm elwynn2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(elwynnRule, 2025);</div>
 <div class="line"><span class="lineno"> 1217</span>    EXPECT_EQ(elwynn2025.tm_mon + 1, 3) &lt;&lt; <span class="stringliteral">&quot;Elwynn first occurrence should be March&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1218</span>    EXPECT_EQ(elwynn2025.tm_wday, 0) &lt;&lt; <span class="stringliteral">&quot;Should be Sunday&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1219</span> </div>
 <div class="line"><span class="lineno"> 1220</span>    <span class="comment">// Mulgore (offset 1): January (first month where month % 3 == 1)</span></div>
-<div class="line"><span class="lineno"> 1221</span>    std::tm mulgore2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(mulgoreRule, 2025);</div>
+<div class="line"><span class="lineno"> 1221</span>    std::tm mulgore2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(mulgoreRule, 2025);</div>
 <div class="line"><span class="lineno"> 1222</span>    EXPECT_EQ(mulgore2025.tm_mon + 1, 1) &lt;&lt; <span class="stringliteral">&quot;Mulgore first occurrence should be January&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1223</span>    EXPECT_EQ(mulgore2025.tm_wday, 0) &lt;&lt; <span class="stringliteral">&quot;Should be Sunday&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1224</span> </div>
 <div class="line"><span class="lineno"> 1225</span>    <span class="comment">// Terokkar (offset 2): February (first month where month % 3 == 2)</span></div>
-<div class="line"><span class="lineno"> 1226</span>    std::tm terokkar2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(terokkarRule, 2025);</div>
+<div class="line"><span class="lineno"> 1226</span>    std::tm terokkar2025 = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(terokkarRule, 2025);</div>
 <div class="line"><span class="lineno"> 1227</span>    EXPECT_EQ(terokkar2025.tm_mon + 1, 2) &lt;&lt; <span class="stringliteral">&quot;Terokkar first occurrence should be February&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1228</span>    EXPECT_EQ(terokkar2025.tm_wday, 0) &lt;&lt; <span class="stringliteral">&quot;Should be Sunday&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1229</span>}</div>
@@ -1329,7 +1329,7 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1259</span>{</div>
 <div class="line"><span class="lineno"> 1260</span>    <span class="comment">// Verify all three Darkmoon Faire locations are in the HolidayRules</span></div>
-<div class="line"><span class="lineno"> 1261</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; rules = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#af9cc71880618916280c3b783001f9a09">HolidayDateCalculator::GetHolidayRules</a>();</div>
+<div class="line"><span class="lineno"> 1261</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; rules = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ae3925d27fb35d153c03600b6a1802b54">HolidayDateCalculator::GetHolidayRules</a>();</div>
 <div class="line"><span class="lineno"> 1262</span> </div>
 <div class="line"><span class="lineno"> 1263</span>    <span class="keywordtype">bool</span> foundElwynn = <span class="keyword">false</span>, foundMulgore = <span class="keyword">false</span>, foundTerokkar = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1264</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rule : rules)</div>
@@ -1346,7 +1346,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1275</span>    EXPECT_TRUE(foundMulgore) &lt;&lt; <span class="stringliteral">&quot;Darkmoon Faire Mulgore (375) should be in HolidayRules&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1276</span>    EXPECT_TRUE(foundTerokkar) &lt;&lt; <span class="stringliteral">&quot;Darkmoon Faire Terokkar (376) should be in HolidayRules&quot;</span>;</div>
 <div class="line"><span class="lineno"> 1277</span>}</div>
-<div class="ttc" id="aclassHolidayDateCalculator_html_af9cc71880618916280c3b783001f9a09"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#af9cc71880618916280c3b783001f9a09">HolidayDateCalculator::GetHolidayRules</a></div><div class="ttdeci">static const std::vector&lt; HolidayRule &gt; &amp; GetHolidayRules()</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:146</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_ae3925d27fb35d153c03600b6a1802b54"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ae3925d27fb35d153c03600b6a1802b54">HolidayDateCalculator::GetHolidayRules</a></div><div class="ttdeci">static std::vector&lt; HolidayRule &gt; const &amp; GetHolidayRules()</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:146</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6">DARKMOON_FAIRE</a>, and <a class="el" href="../../#l00146">HolidayDateCalculator::GetHolidayRules()</a>.</p>
 
@@ -1654,7 +1654,7 @@ Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  409</span>{</div>
 <div class="line"><span class="lineno">  410</span>    <span class="comment">// Fixed date holidays should have same month/day every year</span></div>
 <div class="line"><span class="lineno">  411</span>    <span class="comment">// Note: Brewfest, Harvest Festival, and Winter Veil are now dynamic (not fixed date)</span></div>
-<div class="line"><span class="lineno">  412</span>    <span class="keyword">struct </span>FixedHolidayTestCase { uint32_t holidayId; <span class="keywordtype">int</span> month; <span class="keywordtype">int</span> day; <span class="keyword">const</span> <span class="keywordtype">char</span>* name; };</div>
+<div class="line"><span class="lineno">  412</span>    <span class="keyword">struct </span>FixedHolidayTestCase { uint32_t holidayId; <span class="keywordtype">int</span> month; <span class="keywordtype">int</span> day; <span class="keywordtype">char</span> <span class="keyword">const</span>* name; };</div>
 <div class="line"><span class="lineno">  413</span>    std::vector&lt;FixedHolidayTestCase&gt; testCases = {</div>
 <div class="line"><span class="lineno">  414</span>        { 341, 6, 21, <span class="stringliteral">&quot;Midsummer Fire Festival&quot;</span> },</div>
 <div class="line"><span class="lineno">  415</span>        { 62,  7,  4, <span class="stringliteral">&quot;Fireworks Spectacular&quot;</span> },</div>
@@ -1669,7 +1669,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  424</span> </div>
 <div class="line"><span class="lineno">  425</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 1900; year &lt;= 2200; ++year)</div>
 <div class="line"><span class="lineno">  426</span>        {</div>
-<div class="line"><span class="lineno">  427</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
+<div class="line"><span class="lineno">  427</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
 <div class="line"><span class="lineno">  428</span> </div>
 <div class="line"><span class="lineno">  429</span>            SCOPED_TRACE(std::string(tc.name) + <span class="stringliteral">&quot; Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  430</span> </div>
@@ -1751,7 +1751,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  511</span> </div>
 <div class="line"><span class="lineno">  512</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 1900; year &lt;= 2200; ++year)</div>
 <div class="line"><span class="lineno">  513</span>    {</div>
-<div class="line"><span class="lineno">  514</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(harvestFestival, year);</div>
+<div class="line"><span class="lineno">  514</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(harvestFestival, year);</div>
 <div class="line"><span class="lineno">  515</span> </div>
 <div class="line"><span class="lineno">  516</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  517</span> </div>
@@ -1800,7 +1800,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  491</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 2000; year &lt;= 2030; ++year)</div>
 <div class="line"><span class="lineno">  492</span>    {</div>
 <div class="line"><span class="lineno">  493</span>        std::tm equinox = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a266780f29cf8969f74aa1e7ba56c71f6">HolidayDateCalculator::CalculateAutumnEquinox</a>(year);</div>
-<div class="line"><span class="lineno">  494</span>        std::tm harvest = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(harvestFestival, year);</div>
+<div class="line"><span class="lineno">  494</span>        std::tm harvest = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(harvestFestival, year);</div>
 <div class="line"><span class="lineno">  495</span> </div>
 <div class="line"><span class="lineno">  496</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  497</span> </div>
@@ -1860,7 +1860,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  747</span>        <span class="comment">// All holiday calculations should produce valid dates</span></div>
 <div class="line"><span class="lineno">  748</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rule : <a class="code hl_class" href="../../d3/db5/classHolidayDateCalculator.html">HolidayDateCalculator</a>::GetHolidayRules())</div>
 <div class="line"><span class="lineno">  749</span>        {</div>
-<div class="line"><span class="lineno">  750</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
+<div class="line"><span class="lineno">  750</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
 <div class="line"><span class="lineno">  751</span>            EXPECT_TRUE(IsValidDate(year, date.tm_mon + 1, date.tm_mday))</div>
 <div class="line"><span class="lineno">  752</span>                &lt;&lt; <span class="stringliteral">&quot;Invalid date for holiday &quot;</span> &lt;&lt; rule.holidayId;</div>
 <div class="line"><span class="lineno">  753</span>        }</div>
@@ -1960,7 +1960,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  941</span> </div>
 <div class="line"><span class="lineno">  942</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 2000; year &lt;= 2100; ++year)</div>
 <div class="line"><span class="lineno">  943</span>    {</div>
-<div class="line"><span class="lineno">  944</span>        std::tm fromRule = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(lunarFestival, year);</div>
+<div class="line"><span class="lineno">  944</span>        std::tm fromRule = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(lunarFestival, year);</div>
 <div class="line"><span class="lineno">  945</span>        std::tm cny = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a341be2e060a41c0be7a70fdabe608c6b">HolidayDateCalculator::CalculateLunarNewYear</a>(year);</div>
 <div class="line"><span class="lineno">  946</span> </div>
 <div class="line"><span class="lineno">  947</span>        <span class="comment">// Expected: CNY - 1 day</span></div>
@@ -2023,7 +2023,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  974</span> </div>
 <div class="line"><span class="lineno">  975</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; tc : testCases)</div>
 <div class="line"><span class="lineno">  976</span>    {</div>
-<div class="line"><span class="lineno">  977</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(lunarFestival, tc.year);</div>
+<div class="line"><span class="lineno">  977</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(lunarFestival, tc.year);</div>
 <div class="line"><span class="lineno">  978</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(tc.year));</div>
 <div class="line"><span class="lineno">  979</span>        ExpectDate(date, tc.year, tc.month, tc.day);</div>
 <div class="line"><span class="lineno">  980</span>    }</div>
@@ -2317,7 +2317,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  354</span> </div>
 <div class="line"><span class="lineno">  355</span>        <span class="comment">// Get calculated Noblegarden from holiday rule</span></div>
 <div class="line"><span class="lineno">  356</span>        <a class="code hl_struct" href="../../d6/d23/structHolidayRule.html">HolidayRule</a> noblegarden = { 181, <a class="code hl_enumvalue" href="../../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e">HolidayCalculationType::EASTER_OFFSET</a>, 0, 0, 0, 1 };</div>
-<div class="line"><span class="lineno">  357</span>        std::tm calculated = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(noblegarden, year);</div>
+<div class="line"><span class="lineno">  357</span>        std::tm calculated = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(noblegarden, year);</div>
 <div class="line"><span class="lineno">  358</span> </div>
 <div class="line"><span class="lineno">  359</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  360</span> </div>
@@ -2538,7 +2538,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  283</span>        date.tm_mday = tc.day;</div>
 <div class="line"><span class="lineno">  284</span>        mktime(&amp;date);</div>
 <div class="line"><span class="lineno">  285</span> </div>
-<div class="line"><span class="lineno">  286</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(date);</div>
+<div class="line"><span class="lineno">  286</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a>(date);</div>
 <div class="line"><span class="lineno">  287</span>        std::tm unpacked = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9a1229709b2406953d4627e753a543b3">HolidayDateCalculator::UnpackDate</a>(packed);</div>
 <div class="line"><span class="lineno">  288</span> </div>
 <div class="line"><span class="lineno">  289</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Date: &quot;</span> + std::to_string(tc.year) + <span class="stringliteral">&quot;-&quot;</span> +</div>
@@ -2546,7 +2546,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  291</span>        ExpectDate(unpacked, tc.year, tc.month, tc.day);</div>
 <div class="line"><span class="lineno">  292</span>    }</div>
 <div class="line"><span class="lineno">  293</span>}</div>
-<div class="ttc" id="aclassHolidayDateCalculator_html_ab39f6c1b37867d57464a6243c14e3610"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a></div><div class="ttdeci">static uint32_t PackDate(const std::tm &amp;date)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:575</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_a14e9aaaad7d51ffe047f66ad32739807"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a></div><div class="ttdeci">static uint32_t PackDate(std::tm const &amp;date)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:575</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00575">HolidayDateCalculator::PackDate()</a>, and <a class="el" href="../../#l00595">HolidayDateCalculator::UnpackDate()</a>.</p>
 
@@ -2593,7 +2593,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  778</span>        date.tm_mday = 15;</div>
 <div class="line"><span class="lineno">  779</span>        mktime(&amp;date);</div>
 <div class="line"><span class="lineno">  780</span> </div>
-<div class="line"><span class="lineno">  781</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(date);</div>
+<div class="line"><span class="lineno">  781</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a>(date);</div>
 <div class="line"><span class="lineno">  782</span>        std::tm unpacked = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9a1229709b2406953d4627e753a543b3">HolidayDateCalculator::UnpackDate</a>(packed);</div>
 <div class="line"><span class="lineno">  783</span> </div>
 <div class="line"><span class="lineno">  784</span>        <span class="comment">// Year offset 32 masked with 0x1F (5 bits) = 0, so unpacked year = 2000</span></div>
@@ -2611,7 +2611,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  796</span>        date.tm_mday = 1;</div>
 <div class="line"><span class="lineno">  797</span>        mktime(&amp;date);</div>
 <div class="line"><span class="lineno">  798</span> </div>
-<div class="line"><span class="lineno">  799</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(date);</div>
+<div class="line"><span class="lineno">  799</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a>(date);</div>
 <div class="line"><span class="lineno">  800</span>        std::tm unpacked = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9a1229709b2406953d4627e753a543b3">HolidayDateCalculator::UnpackDate</a>(packed);</div>
 <div class="line"><span class="lineno">  801</span> </div>
 <div class="line"><span class="lineno">  802</span>        <span class="comment">// Year offset 35 masked with 0x1F = 3, so unpacked year = 2003</span></div>
@@ -2627,7 +2627,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  812</span>        date.tm_mday = 31;</div>
 <div class="line"><span class="lineno">  813</span>        mktime(&amp;date);</div>
 <div class="line"><span class="lineno">  814</span> </div>
-<div class="line"><span class="lineno">  815</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(date);</div>
+<div class="line"><span class="lineno">  815</span>        uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a>(date);</div>
 <div class="line"><span class="lineno">  816</span>        std::tm unpacked = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9a1229709b2406953d4627e753a543b3">HolidayDateCalculator::UnpackDate</a>(packed);</div>
 <div class="line"><span class="lineno">  817</span> </div>
 <div class="line"><span class="lineno">  818</span>        EXPECT_EQ(unpacked.tm_year + 1900, 2030) &lt;&lt; <span class="stringliteral">&quot;Year 2030 should pack/unpack correctly&quot;</span>;</div>
@@ -2679,7 +2679,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  307</span>                original.tm_mday = day;</div>
 <div class="line"><span class="lineno">  308</span>                mktime(&amp;original);</div>
 <div class="line"><span class="lineno">  309</span> </div>
-<div class="line"><span class="lineno">  310</span>                uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(original);</div>
+<div class="line"><span class="lineno">  310</span>                uint32_t packed = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807">HolidayDateCalculator::PackDate</a>(original);</div>
 <div class="line"><span class="lineno">  311</span>                std::tm unpacked = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a9a1229709b2406953d4627e753a543b3">HolidayDateCalculator::UnpackDate</a>(packed);</div>
 <div class="line"><span class="lineno">  312</span> </div>
 <div class="line"><span class="lineno">  313</span>                EXPECT_EQ(original.tm_year, unpacked.tm_year);</div>
@@ -2733,7 +2733,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  386</span> </div>
 <div class="line"><span class="lineno">  387</span>        <span class="comment">// Get calculated date using rule with -4 offset</span></div>
 <div class="line"><span class="lineno">  388</span>        <a class="code hl_struct" href="../../d6/d23/structHolidayRule.html">HolidayRule</a> pilgrimsBounty = { 404, <a class="code hl_enumvalue" href="../../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1">HolidayCalculationType::NTH_WEEKDAY</a>, 11, 4, <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(<a class="code hl_enumvalue" href="../../d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755">Weekday::THURSDAY</a>), -4 };</div>
-<div class="line"><span class="lineno">  389</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(pilgrimsBounty, year);</div>
+<div class="line"><span class="lineno">  389</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(pilgrimsBounty, year);</div>
 <div class="line"><span class="lineno">  390</span> </div>
 <div class="line"><span class="lineno">  391</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  392</span> </div>
@@ -2780,7 +2780,7 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  688</span>{</div>
 <div class="line"><span class="lineno">  689</span>    <span class="comment">// Run all holiday calculations for entire range to ensure no crashes</span></div>
-<div class="line"><span class="lineno">  690</span>    <span class="keyword">const</span> std::vector&lt;HolidayRule&gt;&amp; rules = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#af9cc71880618916280c3b783001f9a09">HolidayDateCalculator::GetHolidayRules</a>();</div>
+<div class="line"><span class="lineno">  690</span>    std::vector&lt;HolidayRule&gt; <span class="keyword">const</span>&amp; rules = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ae3925d27fb35d153c03600b6a1802b54">HolidayDateCalculator::GetHolidayRules</a>();</div>
 <div class="line"><span class="lineno">  691</span> </div>
 <div class="line"><span class="lineno">  692</span>    <span class="keywordtype">int</span> totalCalculations = 0;</div>
 <div class="line"><span class="lineno">  693</span> </div>
@@ -2807,7 +2807,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  714</span>        <span class="comment">// Test all holiday rules</span></div>
 <div class="line"><span class="lineno">  715</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rule : rules)</div>
 <div class="line"><span class="lineno">  716</span>        {</div>
-<div class="line"><span class="lineno">  717</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
+<div class="line"><span class="lineno">  717</span>            std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(rule, year);</div>
 <div class="line"><span class="lineno">  718</span>            EXPECT_TRUE(IsValidDate(year, date.tm_mon + 1, date.tm_mday))</div>
 <div class="line"><span class="lineno">  719</span>                &lt;&lt; <span class="stringliteral">&quot;Invalid holiday date for holiday &quot;</span> &lt;&lt; rule.holidayId &lt;&lt; <span class="stringliteral">&quot; year &quot;</span> &lt;&lt; year;</div>
 <div class="line"><span class="lineno">  720</span>            totalCalculations++;</div>
@@ -3012,7 +3012,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  555</span> </div>
 <div class="line"><span class="lineno">  556</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 1900; year &lt;= 2200; ++year)</div>
 <div class="line"><span class="lineno">  557</span>    {</div>
-<div class="line"><span class="lineno">  558</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(winterVeil, year);</div>
+<div class="line"><span class="lineno">  558</span>        std::tm date = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(winterVeil, year);</div>
 <div class="line"><span class="lineno">  559</span> </div>
 <div class="line"><span class="lineno">  560</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  561</span> </div>
@@ -3061,7 +3061,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  536</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> year = 2000; year &lt;= 2030; ++year)</div>
 <div class="line"><span class="lineno">  537</span>    {</div>
 <div class="line"><span class="lineno">  538</span>        std::tm solstice = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#aeeb30fa2ae99b92963b2c7309d0314e7">HolidayDateCalculator::CalculateWinterSolstice</a>(year);</div>
-<div class="line"><span class="lineno">  539</span>        std::tm winterVeilDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a101d5befdf785359441da4cf7b577b32">HolidayDateCalculator::CalculateHolidayDate</a>(winterVeil, year);</div>
+<div class="line"><span class="lineno">  539</span>        std::tm winterVeilDate = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5">HolidayDateCalculator::CalculateHolidayDate</a>(winterVeil, year);</div>
 <div class="line"><span class="lineno">  540</span> </div>
 <div class="line"><span class="lineno">  541</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Year: &quot;</span> + std::to_string(year));</div>
 <div class="line"><span class="lineno">  542</span> </div>
@@ -3085,7 +3085,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_3291cceaca648ebc4ba25acfe38eae5c.html">Events</a></li><li class="navelem"><a class="el" href="../../dc/d7b/HolidayDateCalculatorTest_8cpp.html">HolidayDateCalculatorTest.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,13 @@
 var NAVTREEINDEX416 =
 {
+"df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[7,0,2340,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[7,0,2340,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[7,0,819],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,819,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[7,0,819,4],
@@ -63,14 +64,14 @@ var NAVTREEINDEX416 =
 "df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[7,0,956,1],
 "df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[7,0,956,6],
 "df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[7,0,956,4],
+"df/dc9/classCreatureScript.html#a3cfb4f448a41e845897dfd9119a22fff":[7,0,956,7],
 "df/dc9/classCreatureScript.html#a41562245c4a44843363d6b0ce32ce48d":[7,0,956,2],
 "df/dc9/classCreatureScript.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b":[7,0,956,9],
 "df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f":[7,0,956,5],
 "df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979":[7,0,956,8],
 "df/dc9/classCreatureScript.html#aba2be0f342cb9811bd0ebee954d7d36e":[7,0,956,10],
-"df/dc9/classCreatureScript.html#ad99f4a96106b9dc5cf9c29304d781d6a":[7,0,956,7],
+"df/dc9/classCreatureScript.html#ae3f271ebb0a1fc4dca17856ef9a891ea":[7,0,956,0],
 "df/dc9/classCreatureScript.html#af19c64d23391f8b835f79bc6cf315caa":[7,0,956,3],
-"df/dc9/classCreatureScript.html#afa0053e299f9125cc288ea38652edecb":[7,0,956,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html":[7,0,1230,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a509e6d8401380c326a0f565a6b903d7a":[7,0,1230,0,2],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a955625e2315008a2e36936d44f825060":[7,0,1230,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX416 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac1572b9954091f37dd26ffafcb1929ce":[8,0,0,0,1,3,9,10,60,46],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800":[8,0,0,0,1,3,9,10,60,21],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac8ef7c5754c0bb80e76854002cb7ed64":[8,0,0,0,1,3,9,10,60,38],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[8,0,0,0,1,3,9,10,60,7],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[8,0,0,0,1,3,9,10,60,4]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[8,0,0,0,1,3,9,10,60,7]
 };

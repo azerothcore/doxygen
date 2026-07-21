@@ -94,9 +94,9 @@ var NAVTREEINDEX58 =
 "d2/d48/classChannel.html#afeb2054e25d360f81743ee64e6002e79":[7,0,864,12],
 "d2/d48/classGameEventScript.html":[7,0,1104],
 "d2/d48/classGameEventScript.html#a0e61a9e1379aef55af93a593af84a3cc":[7,0,1104,2],
+"d2/d48/classGameEventScript.html#a3985d493941ff03552a73103fe536b40":[7,0,1104,0],
 "d2/d48/classGameEventScript.html#a4813f26f03e5ba79a740bf30558e604c":[7,0,1104,3],
 "d2/d48/classGameEventScript.html#aadab9593da561e9b19202d09b53cba36":[7,0,1104,1],
-"d2/d48/classGameEventScript.html#ac43a9c70638ad56b69b5841ee8410374":[7,0,1104,0],
 "d2/d48/classspell__fungal__decay.html":[7,0,2965],
 "d2/d48/classspell__fungal__decay.html#a1c79b1016361eabb5cef57a893bccfcf":[7,0,2965,1],
 "d2/d48/classspell__fungal__decay.html#a6189a5ea90b1951b21a7e9ef36700ed9":[7,0,2965,0],
@@ -147,6 +147,7 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a0514871236c42f709acc23c4ab03ab26":[7,0,2407,1355],
 "d2/d4b/classPlayer.html#a0542b6516a0fd726b776f44c70cb144a":[7,0,2407,1335],
 "d2/d4b/classPlayer.html#a055e4caedbc7bb2eef92cb1d5384b2bf":[7,0,2407,217],
+"d2/d4b/classPlayer.html#a0585a4a251e2ed5da2a6ed31d425fded":[7,0,2407,689],
 "d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a":[7,0,2407,644],
 "d2/d4b/classPlayer.html#a05ae9f6b36aa18967fdbd885d2d5561c":[7,0,2407,1273],
 "d2/d4b/classPlayer.html#a05bb029284e19efd1dd7eb4cfaef27fa":[7,0,2407,148],
@@ -155,7 +156,6 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a0630226888b7e05baf09eba9ca5a67ca":[7,0,2407,1182],
 "d2/d4b/classPlayer.html#a06380d627aa5fee572465587fbdd53e4":[7,0,2407,1064],
 "d2/d4b/classPlayer.html#a066f6c8e45649b3627e7f88d99e6b350":[7,0,2407,1070],
-"d2/d4b/classPlayer.html#a0692c4b02041f347c34a49054a549836":[7,0,2407,307],
 "d2/d4b/classPlayer.html#a06cd820961fe07e87607b0d975dbe0c3":[7,0,2407,831],
 "d2/d4b/classPlayer.html#a06df9524620fd5e4cac350d385e641b7":[7,0,2407,755],
 "d2/d4b/classPlayer.html#a07349c209dcfece0b679a0a4d762eb98":[7,0,2407,1314],
@@ -172,7 +172,6 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a09a67b9de6e43d0bc70bbeb403def557":[7,0,2407,1288],
 "d2/d4b/classPlayer.html#a09b2b2876e99a05175578e35eef393d6":[7,0,2407,591],
 "d2/d4b/classPlayer.html#a09f82d39cc77e3761fe3c8f30306f802":[7,0,2407,1333],
-"d2/d4b/classPlayer.html#a0a0ab72b82316cfc57923b5df1d5d2ea":[7,0,2407,715],
 "d2/d4b/classPlayer.html#a0a237df4b314f239917dceb45f32c4d0":[7,0,2407,385],
 "d2/d4b/classPlayer.html#a0a4dc5dbc656abdc90695b8dd643f1c7":[7,0,2407,179],
 "d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da":[7,0,2407,425],
@@ -249,5 +248,6 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a195b154ea522c10d7d41c97ea8c7c7ef":[7,0,2407,395],
 "d2/d4b/classPlayer.html#a1980ae0f693c9ac8d8d13ccec0ac8994":[7,0,2407,769],
 "d2/d4b/classPlayer.html#a19a1f8c91c4e8c51954f356136aaf752":[7,0,2407,427],
-"d2/d4b/classPlayer.html#a19bbf6b69162d450ba445efbf11ff573":[7,0,2407,885]
+"d2/d4b/classPlayer.html#a19bbf6b69162d450ba445efbf11ff573":[7,0,2407,885],
+"d2/d4b/classPlayer.html#a19ea15940b7b8e6ed7480b3dc3702bee":[7,0,2407,655]
 };

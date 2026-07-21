@@ -11,7 +11,7 @@ var structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI =
     [ "KilledUnit", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a325834b73d181e0506e1ea40380cddac", null ],
     [ "Reset", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a7eec8900602522cf39dd3a8dba733649", null ],
     [ "SpellHitTarget", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a868b18df67744868a8f694e7df7f1e66", null ],
-    [ "Summon", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a933a9e13ca59d1d1049038f9f182470b", null ],
+    [ "Summon", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#ae5000dbf09948dd63dbcb057430a2b7e", null ],
     [ "SummonedCreatureDespawn", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
     [ "SummonWaveP1", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
     [ "SummonWaveP2", "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a72971bdfe394da6fe94ce340143ab060", null ],

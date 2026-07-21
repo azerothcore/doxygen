@@ -18,8 +18,8 @@ var NAVTREEINDEX16 =
 "d0/da4/classSpellImplicitTargetInfo.html#ae5a138c973300efce4744ea260108097":[7,0,4408,10],
 "d0/da6/BattlegroundWS_8cpp.html":[8,0,0,0,1,2,8,1,20],
 "d0/da6/classMailScript.html":[7,0,1499],
-"d0/da6/classMailScript.html#a009eaf9dd8d44427e8e5c91a92ebb5c5":[7,0,1499,0],
 "d0/da6/classMailScript.html#ab4e3f0552ffc705ef44e8ca6c36f2be7":[7,0,1499,1],
+"d0/da6/classMailScript.html#ac88f68e8ad89f950d7d3b486b03770d9":[7,0,1499,0],
 "d0/da6/classspell__warr__second__wind.html":[7,0,4327],
 "d0/da6/classspell__warr__second__wind.html#a2cde3c808e4ad060bb34c30507f210b7":[7,0,4327,1],
 "d0/da6/classspell__warr__second__wind.html#a77739dee36e546ff0e91a2a266a8e107":[7,0,4327,0],
@@ -89,7 +89,7 @@ var NAVTREEINDEX16 =
 "d0/dad/classPreparedResultSet.html#abcbe474eb95b356120258e61873cd719":[7,0,2450,9],
 "d0/dad/classPreparedResultSet.html#acd4d9b8c86f6fd19305b1499d553dfe3":[7,0,2450,17],
 "d0/dad/classSpellScriptLoader.html":[7,0,4449],
-"d0/dad/classSpellScriptLoader.html#a0ae97b8f3cf24f46b98a121d35bdeadf":[7,0,4449,0],
+"d0/dad/classSpellScriptLoader.html#a3b6fe2ba310f95c438b7cf941865fe46":[7,0,4449,0],
 "d0/dad/classSpellScriptLoader.html#a6f3a101a0517ba1440399809cf7f5b5b":[7,0,4449,2],
 "d0/dad/classSpellScriptLoader.html#a9c60850e39ffe3d151a128b12777859d":[7,0,4449,1],
 "d0/dad/classSpellScriptLoader.html#ae60bf9957b950c7f5c9927f71510dc06":[7,0,4449,3],
@@ -242,12 +242,12 @@ var NAVTREEINDEX16 =
 "d0/dae/classItem.html#a7d3c3f14ebfbb9ab132e8e39dd6e3788":[7,0,1400,106],
 "d0/dae/classItem.html#a832970d43976538c4092cf5d09706546":[7,0,1400,33],
 "d0/dae/classItem.html#a884d2b63022a7b93f3bd27947c9222af":[7,0,1400,34],
+"d0/dae/classItem.html#a88bae194de8d67c229bda429617c9670":[7,0,1400,103],
 "d0/dae/classItem.html#a8f2b36b50a6a8c249373b46d9615e024":[7,0,1400,49],
 "d0/dae/classItem.html#a914ac8138075e91a2f86aeef0cace5ba":[7,0,1400,110],
 "d0/dae/classItem.html#a9287453495e250d441f16cb12f9f77f5":[7,0,1400,42],
 "d0/dae/classItem.html#a9299016cce302d89754528f7cb7ffb2d":[7,0,1400,72],
 "d0/dae/classItem.html#a99b0a6a75ee480ff3586f191bb64a19a":[7,0,1400,38],
 "d0/dae/classItem.html#a9cfc6018f00d26fff0ccf082ad2a5599":[7,0,1400,18],
-"d0/dae/classItem.html#a9f88246dc5897db068da95ed1f473eec":[7,0,1400,66],
-"d0/dae/classItem.html#a9fa58bddfa32f487e6ab892ec0d938f4":[7,0,1400,58]
+"d0/dae/classItem.html#a9f88246dc5897db068da95ed1f473eec":[7,0,1400,66]
 };

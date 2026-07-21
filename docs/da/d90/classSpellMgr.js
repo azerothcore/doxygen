@@ -40,7 +40,7 @@ var classSpellMgr =
     [ "GetSpellInfo", "da/d90/classSpellMgr.html#a5f55093e0190a68e75b2f3f49a07e853", null ],
     [ "GetSpellInfoStoreSize", "da/d90/classSpellMgr.html#aca8a0eccca0aa32dc2cc9802597c0256", null ],
     [ "GetSpellLearnSkill", "da/d90/classSpellMgr.html#a5447b1a2108c3f9ae01d5a29a4adaed4", null ],
-    [ "GetSpellLinked", "da/d90/classSpellMgr.html#a584653ee18b92069bbfe9e934eeef3bb", null ],
+    [ "GetSpellLinked", "da/d90/classSpellMgr.html#ab214b22e0ca50c423634b10b191d29a7", null ],
     [ "GetSpellMixologyBonus", "da/d90/classSpellMgr.html#a427b7f918b77886b820f3a7518271bc0", null ],
     [ "GetSpellProcEntry", "da/d90/classSpellMgr.html#aa5fc4532b216d557e88841f5ffc00865", null ],
     [ "GetSpellRank", "da/d90/classSpellMgr.html#abff37b8018ffb588f42b2c0a4c229783", null ],

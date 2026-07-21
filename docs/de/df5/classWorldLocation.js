@@ -10,7 +10,7 @@ var classWorldLocation =
     [ "GetWorldLocation", "de/df5/classWorldLocation.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
     [ "GetWorldLocation", "de/df5/classWorldLocation.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
     [ "SetMapId", "de/df5/classWorldLocation.html#ac425c27c61ecc169fe3df61991011988", null ],
-    [ "WorldRelocate", "de/df5/classWorldLocation.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
     [ "WorldRelocate", "de/df5/classWorldLocation.html#adc762865d564319245ffc3363c080365", null ],
+    [ "WorldRelocate", "de/df5/classWorldLocation.html#a019c9b00af8ee60c911430d1ce758662", null ],
     [ "m_mapId", "de/df5/classWorldLocation.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

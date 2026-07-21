@@ -7,7 +7,7 @@ var structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme
     [ "GetGuidData", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#adc795bd78af72bd6bda8546a756a94e0", null ],
     [ "GetSaveData", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ad0d4cd6646c52dba390193b38df00d6f", null ],
     [ "IsEncounterInProgress", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#ad64c44c62f429cbca6c2e720a35a7b41", null ],
-    [ "Load", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a7981d6fc2a4f4113d9844ffd9a917473", null ],
+    [ "Load", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a6e99fb9452849eb2d2664eb787a46aad", null ],
     [ "OnCreatureCreate", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a160e3b02d40abecbc16533972433fe9b", null ],
     [ "OnGameObjectCreate", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a6fe2831227ec9f43882cf19849689a45", null ],
     [ "OnPlayerEnter", "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a09088000395dbd2b1255c02b4867898d", null ],

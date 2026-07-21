@@ -119,7 +119,7 @@ var classSpellInfo =
     [ "SetCritCapable", "d2/de9/classSpellInfo.html#a79f537bec2a06fb538a6ad7f888c7b8b", null ],
     [ "SetSpellValid", "d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4", null ],
     [ "SetStackableWithRanks", "d2/de9/classSpellInfo.html#ae1fc77c6b4babcfdc890410618418bf9", null ],
-    [ "ValidateAttribute6SpellDamageMods", "d2/de9/classSpellInfo.html#a22c160b08675a57daf18ecb7bf660695", null ],
+    [ "ValidateAttribute6SpellDamageMods", "d2/de9/classSpellInfo.html#ad7c8a5adcb3672c6cee96f29e5f4283e", null ],
     [ "SpellMgr", "d2/de9/classSpellInfo.html#a6777ed104be1415313f7d3cbd395e203", null ],
     [ "_auraState", "d2/de9/classSpellInfo.html#a5f67d59406d383cca6627b51d37d4a7a", null ],
     [ "_diminishInfoNonTriggered", "d2/de9/classSpellInfo.html#a36307a37a01baa4622b5a78dcc65e68e", null ],

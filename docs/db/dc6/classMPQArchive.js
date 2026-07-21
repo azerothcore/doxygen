@@ -1,8 +1,8 @@
 var classMPQArchive =
 [
-    [ "MPQArchive", "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "MPQArchive", "db/dc6/classMPQArchive.html#a01c755d82896f5eff33101151ee78fda", null ],
     [ "~MPQArchive", "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "MPQArchive", "db/dc6/classMPQArchive.html#a01c755d82896f5eff33101151ee78fda", null ],
     [ "~MPQArchive", "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2", null ],
     [ "close", "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
     [ "close", "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259", null ],

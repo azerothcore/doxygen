@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf68adafa8f4b00b73e1aa794a689e45c":[8,0,0,0,1,3,2,4,5,2,1],
 "de/d87/boss__netherspite_8cpp.html#a56bc96a8aa9bd958a1424749416d8bd4":[8,0,0,0,1,3,2,4,5,8],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,5,5],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d6e490960801191a590241ba200b2c":[8,0,0,0,1,3,2,4,5,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "de/d93/Utilities_2TypeList_8h.html#a3f33370510f6a20f2c280ddb7aee8113":[8,0,0,0,0,15,40,6],
 "de/d93/Utilities_2TypeList_8h.html#a47058396f75885b2327eea9530b910d7":[8,0,0,0,0,15,40,3],
 "de/d93/Utilities_2TypeList_8h.html#a63f3ebca59abc8aeb41648f6f79da7f3":[8,0,0,0,0,15,40,7],
-"de/d93/Utilities_2TypeList_8h.html#a86386611f0e1cc0f7e33cb9bc0403679":[8,0,0,0,0,15,40,5],
-"de/d93/Utilities_2TypeList_8h.html#a9c605be8d96841d40f90f900dfdae16a":[8,0,0,0,0,15,40,11]
+"de/d93/Utilities_2TypeList_8h.html#a86386611f0e1cc0f7e33cb9bc0403679":[8,0,0,0,0,15,40,5]
 };

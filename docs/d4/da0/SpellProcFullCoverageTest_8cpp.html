@@ -154,8 +154,8 @@ Functions</h2></td></tr>
 <tr class="separator:afb0b14156daeeb9b9dd48b3feccaf629"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a289c402ebbd887d1bbc5c1198dff836c" id="r_a289c402ebbd887d1bbc5c1198dff836c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html#a289c402ebbd887d1bbc5c1198dff836c">TEST_P</a> (<a class="el" href="../../da/d6b/classSpellProcFullCoverageTest.html">SpellProcFullCoverageTest</a>, SpellId_NonZero)</td></tr>
 <tr class="separator:a289c402ebbd887d1bbc5c1198dff836c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65dba2c6bf60f6f7db00efd6b4edb00c" id="r_a65dba2c6bf60f6f7db00efd6b4edb00c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html#a65dba2c6bf60f6f7db00efd6b4edb00c">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../da/d6b/classSpellProcFullCoverageTest.html">SpellProcFullCoverageTest</a>, ::testing::ValuesIn(<a class="el" href="../../da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](const ::testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
-<tr class="separator:a65dba2c6bf60f6f7db00efd6b4edb00c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61682528719e3b8378b320b23c04a5fe" id="r_a61682528719e3b8378b320b23c04a5fe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html#a61682528719e3b8378b320b23c04a5fe">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../da/d6b/classSpellProcFullCoverageTest.html">SpellProcFullCoverageTest</a>, ::testing::ValuesIn(<a class="el" href="../../da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](::testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; const &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
+<tr class="separator:a61682528719e3b8378b320b23c04a5fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a211abe742bb26f4df00d5d809796614d" id="r_a211abe742bb26f4df00d5d809796614d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html#a211abe742bb26f4df00d5d809796614d">TEST_F</a> (<a class="el" href="../../d7/dc8/classSpellProcCoverageStatsTest.html">SpellProcCoverageStatsTest</a>, CountEntriesWithCooldown)</td></tr>
 <tr class="separator:a211abe742bb26f4df00d5d809796614d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae9fadbe0c8fda36e7ad66d20ac078dcd" id="r_ae9fadbe0c8fda36e7ad66d20ac078dcd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html#ae9fadbe0c8fda36e7ad66d20ac078dcd">TEST_F</a> (<a class="el" href="../../d7/dc8/classSpellProcCoverageStatsTest.html">SpellProcCoverageStatsTest</a>, CountEntriesWithChance)</td></tr>
@@ -205,8 +205,8 @@ DESIGN NOTE: Why Tests Skip Certain Entries</h1>
 
 <p class="definition">Definition in file <a class="el" href="../../">SpellProcFullCoverageTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="a65dba2c6bf60f6f7db00efd6b4edb00c" name="a65dba2c6bf60f6f7db00efd6b4edb00c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a65dba2c6bf60f6f7db00efd6b4edb00c">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
+<a id="a61682528719e3b8378b320b23c04a5fe" name="a61682528719e3b8378b320b23c04a5fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61682528719e3b8378b320b23c04a5fe">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -232,7 +232,7 @@ DESIGN NOTE: Why Tests Skip Certain Entries</h1>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">[] (const ::testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
+          <td class="paramtype">[] (::testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; const &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -1073,7 +1073,7 @@ DESIGN NOTE: Why Tests Skip Certain Entries</h1>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d4/da0/SpellProcFullCoverageTest_8cpp.html">SpellProcFullCoverageTest.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

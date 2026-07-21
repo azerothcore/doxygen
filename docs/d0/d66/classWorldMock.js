@@ -50,8 +50,8 @@ var classWorldMock =
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a20a5e8c290816fdd26206e0e9e20a81b", null ],
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#ac4a652fc74cdc208c7b182ee46697e7a", null ],
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a07d2b2f63cc1767d822c5f012cc02a26", null ],
-    [ "MOCK_METHOD", "d0/d66/classWorldMock.html#ad86c656afaef0b67e067128776f6602b", null ],
-    [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a03c12edf530bafab93118efb438dbc13", null ],
+    [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a25840b17901e7b96eae5b8d80ccae4db", null ],
+    [ "MOCK_METHOD", "d0/d66/classWorldMock.html#ac91f59970b2abd067ef6be827affcf84", null ],
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a5a8d89b7b9bd61bf3ee9df9ab54ea079", null ],
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a8fa0da884af3dfe6e2be6756a2df14cc", null ],
     [ "MOCK_METHOD", "d0/d66/classWorldMock.html#a40416316a4ab9a3677dec3cbff0ccbdd", null ]

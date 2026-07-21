@@ -134,8 +134,8 @@ Classes</h2></td></tr>
 Functions</h2></td></tr>
 <tr class="memitem:a9c2b63e811e5bae6092ac12f33e514b8" id="r_a9c2b63e811e5bae6092ac12f33e514b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html#a9c2b63e811e5bae6092ac12f33e514b8">TEST_P</a> (<a class="el" href="../../dd/da3/classSpellProcDBCValidationParamTest.html">SpellProcDBCValidationParamTest</a>, EntryHasValidSpellId)</td></tr>
 <tr class="separator:a9c2b63e811e5bae6092ac12f33e514b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1bcaae4dcd5fec113966d51c2f6f60d0" id="r_a1bcaae4dcd5fec113966d51c2f6f60d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html#a1bcaae4dcd5fec113966d51c2f6f60d0">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../dd/da3/classSpellProcDBCValidationParamTest.html">SpellProcDBCValidationParamTest</a>, ::testing::ValuesIn(<a class="el" href="../../da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](const testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
-<tr class="separator:a1bcaae4dcd5fec113966d51c2f6f60d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac236754bdabd912728a4ccf0d50768c1" id="r_ac236754bdabd912728a4ccf0d50768c1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html#ac236754bdabd912728a4ccf0d50768c1">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../dd/da3/classSpellProcDBCValidationParamTest.html">SpellProcDBCValidationParamTest</a>, ::testing::ValuesIn(<a class="el" href="../../da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; const &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
+<tr class="separator:ac236754bdabd912728a4ccf0d50768c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3140cdc3c6be8230853a19725adce0df" id="r_a3140cdc3c6be8230853a19725adce0df"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html#a3140cdc3c6be8230853a19725adce0df">TEST_F</a> (<a class="el" href="../../d5/d38/classSpellProcDBCValidationTest.html">SpellProcDBCValidationTest</a>, CountEntriesWithDBCData)</td></tr>
 <tr class="separator:a3140cdc3c6be8230853a19725adce0df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4dd4a9f2ad7b9f9c90f178e412d6853a" id="r_a4dd4a9f2ad7b9f9c90f178e412d6853a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html#a4dd4a9f2ad7b9f9c90f178e412d6853a">TEST_F</a> (<a class="el" href="../../d5/d38/classSpellProcDBCValidationTest.html">SpellProcDBCValidationTest</a>, CountEntriesAddingValue)</td></tr>
@@ -177,8 +177,8 @@ DBC DATA POPULATION STATUS</h1>
 
 <p class="definition">Definition in file <a class="el" href="../../">SpellProcDBCValidationTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="a1bcaae4dcd5fec113966d51c2f6f60d0" name="a1bcaae4dcd5fec113966d51c2f6f60d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1bcaae4dcd5fec113966d51c2f6f60d0">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
+<a id="ac236754bdabd912728a4ccf0d50768c1" name="ac236754bdabd912728a4ccf0d50768c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac236754bdabd912728a4ccf0d50768c1">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -204,7 +204,7 @@ DBC DATA POPULATION STATUS</h1>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">[] (const testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
+          <td class="paramtype">[] (testing::TestParamInfo&lt; <a class="el" href="../../d4/d07/structSpellProcTestEntry.html">SpellProcTestEntry</a> &gt; const &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -723,7 +723,7 @@ DBC DATA POPULATION STATUS</h1>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d1/d18/SpellProcDBCValidationTest_8cpp.html">SpellProcDBCValidationTest.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

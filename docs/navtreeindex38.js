@@ -69,7 +69,7 @@ var NAVTREEINDEX38 =
 "d1/d8f/classProcScenarioBuilder.html#af4384e41337a13ef371e037b55cc2073":[7,0,2461,8],
 "d1/d8f/classProcScenarioBuilder.html#aff4fa0bf04b9a27900a8b89380f419bd":[7,0,2461,10],
 "d1/d8f/classnpc__kerlonian.html":[7,0,1931],
-"d1/d8f/classnpc__kerlonian.html#a257d24295318605ac2fd5554315dfd63":[7,0,1931,3],
+"d1/d8f/classnpc__kerlonian.html#a353f482c843066031397b1bfaf193b5f":[7,0,1931,3],
 "d1/d8f/classnpc__kerlonian.html#a8a5ab1fde9f21ac256d5168ef3f17f87":[7,0,1931,1],
 "d1/d8f/classnpc__kerlonian.html#a93d93ba13d8521fee39801473b7c4b6a":[7,0,1931,2],
 "d1/d90/MMapMgr_8h.html":[8,0,0,0,0,1,0,2],
@@ -183,8 +183,8 @@ var NAVTREEINDEX38 =
 "d1/d95/SpellProcTargetResolutionTest_8cpp.html#ae0ceced3da7b46834d403b94be7bd498":[8,0,0,0,2,2,0,10,25,1],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[7,0,13,22],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[5,0,34,22],
-"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[5,0,34,22,0],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[7,0,13,22,0],
+"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[5,0,34,22,0],
 "d1/d95/classnpc__bone__spike.html":[7,0,1687],
 "d1/d95/classnpc__bone__spike.html#a887a9156f550ca55047fa501e1709d95":[7,0,1687,2],
 "d1/d95/classnpc__bone__spike.html#ac93d7a45eaeae8d7adf2a3b313825aed":[7,0,1687,1],
@@ -247,7 +247,7 @@ var NAVTREEINDEX38 =
 "d1/d9c/MapUpdater_8cpp.html":[8,0,0,0,1,2,26,13],
 "d1/d9c/classChannelRights.html":[7,0,866],
 "d1/d9c/classChannelRights.html#a4b7dc06e8839da5a6d50b5d4dae76c1b":[7,0,866,6],
+"d1/d9c/classChannelRights.html#a7beaed8c82905e7c019c799153e862c4":[7,0,866,1],
 "d1/d9c/classChannelRights.html#a7fbfd84470bf1b4bf564eec0315f6c8d":[7,0,866,0],
-"d1/d9c/classChannelRights.html#a9883582d36b8cc67ab5d649670441000":[7,0,866,5],
-"d1/d9c/classChannelRights.html#ac689ce079b171bbbdbc062ad7521f21c":[7,0,866,1]
+"d1/d9c/classChannelRights.html#a9883582d36b8cc67ab5d649670441000":[7,0,866,5]
 };

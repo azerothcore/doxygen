@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a32281f8dfa1c8af8fe6bcac2a8be4220":[7,0,1975,0,0],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,1975,0,2],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a624c256f29d3cefed0bb909da3841853":[7,0,1975,0,5],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6":[7,0,1975,0,8],
@@ -14,7 +15,6 @@ var NAVTREEINDEX395 =
 "de/dd5/classMiscScript.html#a100f72c7b930788c5d3a4a0d2dd2d9d9":[7,0,1539,14],
 "de/dd5/classMiscScript.html#a1434e3a2638144a9ddd4e2834a4983be":[7,0,1539,15],
 "de/dd5/classMiscScript.html#a14cf20bad86e743a0ddc225d780ed13c":[7,0,1539,10],
-"de/dd5/classMiscScript.html#a19700d3ee246e42852d3b9993157d2e8":[7,0,1539,17],
 "de/dd5/classMiscScript.html#a2160ea9f05168a3018ab34ebddee18cc":[7,0,1539,13],
 "de/dd5/classMiscScript.html#a25d97a2c91563263da76e5d67358edce":[7,0,1539,4],
 "de/dd5/classMiscScript.html#a2c2b480dd47c6e8a2ebd4e19ead442fc":[7,0,1539,12],
@@ -24,12 +24,13 @@ var NAVTREEINDEX395 =
 "de/dd5/classMiscScript.html#a52619636b636036f454dd0d9129754fa":[7,0,1539,16],
 "de/dd5/classMiscScript.html#a6eb3eb8a451ddc1abdf4a238b4e08253":[7,0,1539,5],
 "de/dd5/classMiscScript.html#a7857523e8dec674efbec50f8bfdf108b":[7,0,1539,8],
+"de/dd5/classMiscScript.html#a862c1dd69948f68f07766cf3698ed734":[7,0,1539,0],
 "de/dd5/classMiscScript.html#a8918c758dd84f447f321f009030615ff":[7,0,1539,1],
 "de/dd5/classMiscScript.html#aac9b8415ab2002a1d4ad2f26211fa4e2":[7,0,1539,3],
+"de/dd5/classMiscScript.html#ac155160d38e99d096d96dd96a17f8628":[7,0,1539,17],
 "de/dd5/classMiscScript.html#acdf0d559e38565bdb55ccb666f39d9f4":[7,0,1539,9],
 "de/dd5/classMiscScript.html#adcf037b59a970e43b99f1c8f4b35cde5":[7,0,1539,6],
 "de/dd5/classMiscScript.html#ae2977af97c42c0eedb4081a0d7984b01":[7,0,1539,11],
-"de/dd5/classMiscScript.html#afbd758be34ed4b7045525250cb2cf5be":[7,0,1539,0],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html":[7,0,1667,0],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a30dc40f8922f8f34d6ad7ec3053413e4":[7,0,1667,0,7],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a34d51c96005f620c0010948acb6c89ec":[7,0,1667,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44],
 "de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[8,0,0,0,1,3,5,6,9,47],
 "de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[8,0,0,0,1,3,5,6,9,49],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,9,37],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a032399a8694d3b2b1da724a5a08794e8":[8,0,0,0,1,3,5,6,9,37,23]
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,9,37]
 };

@@ -323,7 +323,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassObject_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition</b> Object.h:117</div></div>
 <div class="ttc" id="astructItemPosCount_html"><div class="ttname"><a href="../../de/d2c/structItemPosCount.html">ItemPosCount</a></div><div class="ttdef"><b>Definition</b> Player.h:752</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00272">Item::GetCount()</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00274">Item::GetMaxStackCount()</a>, and <a class="el" href="../../#l13368">ItemPosCount::isContainedIn()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00272">Item::GetCount()</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00274">Item::GetMaxStackCount()</a>, and <a class="el" href="../../#l13414">ItemPosCount::isContainedIn()</a>.</p>
 
 </div>
 </div>
@@ -667,14 +667,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  841</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  842</span> </div>
 <div class="line"><span class="lineno">  843</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> slots = 0;</div>
-<div class="line"><span class="lineno">  844</span>    <span class="keywordflow">if</span> (Member <span class="keyword">const</span>* member = <a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a7e8085f102e8217d015a10c3f1b05316">m_pGuild</a>-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a828c4a38bd1520e4f993dd8350c64f8b">GetMember</a>(<a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a1914b960d8990c651e46a50951f5ab42">m_pPlayer</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno">  844</span>    <span class="keywordflow">if</span> (Member <span class="keyword">const</span>* member = <a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a7e8085f102e8217d015a10c3f1b05316">m_pGuild</a>-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a8c49d8c4cdfd3c2d7a7c046d003fe876">GetMember</a>(<a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a1914b960d8990c651e46a50951f5ab42">m_pPlayer</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
 <div class="line"><span class="lineno">  845</span>        slots = <a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a7e8085f102e8217d015a10c3f1b05316">m_pGuild</a>-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a4e4488776daa471ffb5a31c0770633e6">_GetMemberRemainingSlots</a>(*member, <a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#add3ef514f68db7f0c93e6a07a95b0340">m_container</a>);</div>
 <div class="line"><span class="lineno">  846</span> </div>
 <div class="line"><span class="lineno">  847</span>    <span class="keywordflow">return</span> slots != 0;</div>
 <div class="line"><span class="lineno">  848</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aclassGuild_html_a4e4488776daa471ffb5a31c0770633e6"><div class="ttname"><a href="../../de/d79/classGuild.html#a4e4488776daa471ffb5a31c0770633e6">Guild::_GetMemberRemainingSlots</a></div><div class="ttdeci">int32 _GetMemberRemainingSlots(Member const &amp;member, uint8 tabId) const</div><div class="ttdef"><b>Definition</b> Guild.cpp:2581</div></div>
-<div class="ttc" id="aclassGuild_html_a828c4a38bd1520e4f993dd8350c64f8b"><div class="ttname"><a href="../../de/d79/classGuild.html#a828c4a38bd1520e4f993dd8350c64f8b">Guild::GetMember</a></div><div class="ttdeci">const Member * GetMember(ObjectGuid guid) const</div><div class="ttdef"><b>Definition</b> Guild.h:381</div></div>
+<div class="ttc" id="aclassGuild_html_a8c49d8c4cdfd3c2d7a7c046d003fe876"><div class="ttname"><a href="../../de/d79/classGuild.html#a8c49d8c4cdfd3c2d7a7c046d003fe876">Guild::GetMember</a></div><div class="ttdeci">Member const * GetMember(ObjectGuid guid) const</div><div class="ttdef"><b>Definition</b> Guild.h:381</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00621">Guild::MoveItemData::GetContainer()</a>, and <a class="el" href="../../db/de2/classGuild_1_1MoveItemData.html#acd5b03ccd86cd16b477f9df7afde1c08">Guild::MoveItemData::IsBank()</a>.</p>
 
@@ -989,7 +989,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d79/classGuild.html">Guild</a></li><li class="navelem"><a class="el" href="../../d6/d86/classGuild_1_1BankMoveItemData.html">BankMoveItemData</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -145,8 +145,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8ed4fc4a7b268adbef8cb7846be4aa88"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2ad6e5bd41a585cf94c2e7d56358178" id="r_ad2ad6e5bd41a585cf94c2e7d56358178"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178">getDirFileName</a> (unsigned int mapId, int, int) const override</td></tr>
 <tr class="separator:ad2ad6e5bd41a585cf94c2e7d56358178"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a07b3ebc028b5832083bca9751b4f681c" id="r_a07b3ebc028b5832083bca9751b4f681c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d56/classVMAP_1_1VMapMgr2.html#a07b3ebc028b5832083bca9751b4f681c">existsMap</a> (const char *basePath, unsigned int mapId, int x, int y) override</td></tr>
-<tr class="separator:a07b3ebc028b5832083bca9751b4f681c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af18b011f8c9939da7813fafbc3bfe014" id="r_af18b011f8c9939da7813fafbc3bfe014"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d56/classVMAP_1_1VMapMgr2.html#af18b011f8c9939da7813fafbc3bfe014">existsMap</a> (char const *basePath, unsigned int mapId, int x, int y) override</td></tr>
+<tr class="separator:af18b011f8c9939da7813fafbc3bfe014"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classVMAP_1_1IVMapMgr"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classVMAP_1_1IVMapMgr')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d58/classVMAP_1_1IVMapMgr.html">VMAP::IVMapMgr</a></td></tr>
 <tr class="memitem:a8fcc2ababfadc1bf662c56645c04841e inherit pub_methods_classVMAP_1_1IVMapMgr" id="r_a8fcc2ababfadc1bf662c56645c04841e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d58/classVMAP_1_1IVMapMgr.html#a8fcc2ababfadc1bf662c56645c04841e">IVMapMgr</a> ()</td></tr>
 <tr class="separator:a8fcc2ababfadc1bf662c56645c04841e inherit pub_methods_classVMAP_1_1IVMapMgr"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -327,8 +327,8 @@ Static Protected Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a07b3ebc028b5832083bca9751b4f681c" name="a07b3ebc028b5832083bca9751b4f681c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a07b3ebc028b5832083bca9751b4f681c">&#9670;&#160;</a></span>existsMap()</h2>
+<a id="af18b011f8c9939da7813fafbc3bfe014" name="af18b011f8c9939da7813fafbc3bfe014"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af18b011f8c9939da7813fafbc3bfe014">&#9670;&#160;</a></span>existsMap()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -339,7 +339,7 @@ Static Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="../../dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a> VMAP::VMapMgr2::existsMap </td>
           <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
           <td class="paramname"><em>basePath</em>, </td>
         </tr>
         <tr>
@@ -373,11 +373,11 @@ Static Protected Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="../../da/d58/classVMAP_1_1IVMapMgr.html#a5eaf056f98ad00308f22cad73ee80f15">VMAP::IVMapMgr</a>.</p>
+<p>Implements <a class="el" href="../../da/d58/classVMAP_1_1IVMapMgr.html#ab63074f237876ebc9b93242f44c95b40">VMAP::IVMapMgr</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   63</span>    {</div>
-<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a05bc1ec03ddd82516a45d2ff82274fe9">StaticMapTree::CanLoadMap</a>(std::string(basePath), mapId, x, y);</div>
+<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a3cb92935986c8a46c099afb163bc338d">StaticMapTree::CanLoadMap</a>(std::string(basePath), mapId, x, y);</div>
 <div class="line"><span class="lineno">   65</span>    }</div>
-<div class="ttc" id="aclassVMAP_1_1StaticMapTree_html_a05bc1ec03ddd82516a45d2ff82274fe9"><div class="ttname"><a href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a05bc1ec03ddd82516a45d2ff82274fe9">VMAP::StaticMapTree::CanLoadMap</a></div><div class="ttdeci">static LoadResult CanLoadMap(const std::string &amp;basePath, uint32 mapID, uint32 tileX, uint32 tileY)</div><div class="ttdef"><b>Definition</b> MapTree.cpp:216</div></div>
+<div class="ttc" id="aclassVMAP_1_1StaticMapTree_html_a3cb92935986c8a46c099afb163bc338d"><div class="ttname"><a href="../../d9/d67/classVMAP_1_1StaticMapTree.html#a3cb92935986c8a46c099afb163bc338d">VMAP::StaticMapTree::CanLoadMap</a></div><div class="ttdeci">static LoadResult CanLoadMap(std::string const &amp;basePath, uint32 mapID, uint32 tileX, uint32 tileY)</div><div class="ttdef"><b>Definition</b> MapTree.cpp:216</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00216">VMAP::StaticMapTree::CanLoadMap()</a>.</p>
 
@@ -612,7 +612,7 @@ Static Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d34/namespaceVMAP.html">VMAP</a></li><li class="navelem"><a class="el" href="../../df/d56/classVMAP_1_1VMapMgr2.html">VMapMgr2</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

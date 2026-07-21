@@ -104,6 +104,6 @@ var zone__zuldrak_8cpp =
     [ "AddSC_zuldrak", "d7/d1f/zone__zuldrak_8cpp.html#a595341879dbea9e321816938e73a4d7b", null ],
     [ "AA_AURA_ID", "d7/d1f/zone__zuldrak_8cpp.html#a4408cfc9a2f0da1e41850de7868c7b8a", null ],
     [ "AA_ITEM_ENTRY", "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d", null ],
-    [ "AA_ITEM_NAME", "d7/d1f/zone__zuldrak_8cpp.html#a109a40c1b9a7cd8fec46087dee6c07d4", null ],
+    [ "AA_ITEM_NAME", "d7/d1f/zone__zuldrak_8cpp.html#ac2fc964398023752f07e215383993679", null ],
     [ "scourgeDisguiseTextIDs", "d7/d1f/zone__zuldrak_8cpp.html#a6be38154dc707bc5a8c5306ad197cb35", null ]
 ];

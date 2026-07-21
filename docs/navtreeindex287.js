@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259":[8,0,0,0,1,3,9,6,54,25],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37":[8,0,0,0,1,3,9,6,54,37],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6":[8,0,0,0,1,3,9,6,54,15],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a411e5e12431c6e471cfef84417376074":[8,0,0,0,1,3,9,6,54,48],
@@ -115,8 +116,8 @@ var NAVTREEINDEX287 =
 "db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[7,0,4362,1],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[7,0,4362,0],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html":[7,0,263],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html#a725de49be12116f2f7e77edd31a096ae":[7,0,263,1],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[7,0,263,0],
+"db/d18/classat__zulgurub__edge__of__madness__speech.html#ab04b77d7521296cd271f763274d09841":[7,0,263,1],
 "db/d18/classspell__gen__fixate__aura.html":[7,0,3036],
 "db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[7,0,3036,0],
 "db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[7,0,3036,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[8,0,0,0,1,3,2,7,0,2,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[8,0,0,0,1,3,2,7,0,2,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[8,0,0,0,1,3,2,7,0,2,7],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[8,0,0,0,1,3,2,7,0,2,11],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[8,0,0,0,1,3,2,7,0,2,8]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[8,0,0,0,1,3,2,7,0,2,11]
 };

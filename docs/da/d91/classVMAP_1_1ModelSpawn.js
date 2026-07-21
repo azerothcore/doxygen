@@ -1,9 +1,9 @@
 var classVMAP_1_1ModelSpawn =
 [
-    [ "GetBounds", "da/d91/classVMAP_1_1ModelSpawn.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "da/d91/classVMAP_1_1ModelSpawn.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
+    [ "GetBounds", "da/d91/classVMAP_1_1ModelSpawn.html#a74182e3f2b6cd6eb1ec9a09a76749537", null ],
+    [ "operator==", "da/d91/classVMAP_1_1ModelSpawn.html#aa32a53f51fd441bb19c4e3f6a269f33e", null ],
     [ "readFromFile", "da/d91/classVMAP_1_1ModelSpawn.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "da/d91/classVMAP_1_1ModelSpawn.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
+    [ "writeToFile", "da/d91/classVMAP_1_1ModelSpawn.html#af7ab85f7ab03ed4c9eadde9bba1a1857", null ],
     [ "adtId", "da/d91/classVMAP_1_1ModelSpawn.html#a4ebcfe8326eff028e722c9972a16200b", null ],
     [ "flags", "da/d91/classVMAP_1_1ModelSpawn.html#acfc7a76db09013abfad8e42aaae59f52", null ],
     [ "iBound", "da/d91/classVMAP_1_1ModelSpawn.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],

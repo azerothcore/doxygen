@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a95c39cd7d3e9f5eea7e394aac9becf5e":[8,0,0,0,1,2,16,5,0,4,6,137],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a974f785c9af14d16f5f31d6311d42405":[8,0,0,0,1,2,16,5,0,4,6,276],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a976a3b06037931872edb8d6eef9ad102":[8,0,0,0,1,2,16,5,0,4,6,255],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a9869304e410089930c00c9a915e45103":[8,0,0,0,1,2,16,5,0,4,6,103],
@@ -229,7 +230,7 @@ var NAVTREEINDEX402 =
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,2,2,1,2,2],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c":[8,0,0,0,1,3,2,2,1,2,1],
 "df/d24/classnpc__daphne__stilwell.html":[7,0,1755],
-"df/d24/classnpc__daphne__stilwell.html#ad7b293efc802506a825f202e34cb0f4d":[7,0,1755,3],
+"df/d24/classnpc__daphne__stilwell.html#a421a7eb4c1391eb82f7874b081c66a36":[7,0,1755,3],
 "df/d24/classnpc__daphne__stilwell.html#ad844c5f0409936d7068ee55271506041":[7,0,1755,1],
 "df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[7,0,1755,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[7,0,0,89],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#accfe8a0cea8af9c9474d25fc3e7c7e22":[7,0,3275,0],
 "df/d25/classspell__rog__setup.html":[7,0,3990],
 "df/d25/classspell__rog__setup.html#a13ccd1c89767d0dcf041217466390759":[7,0,3990,1],
-"df/d25/classspell__rog__setup.html#a4f29ca53813534b1af20e09281288e95":[7,0,3990,2],
-"df/d25/classspell__rog__setup.html#a5e48b25b15b60aa284ca61e900e0f87e":[7,0,3990,0]
+"df/d25/classspell__rog__setup.html#a4f29ca53813534b1af20e09281288e95":[7,0,3990,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a45ce85a8a6c9362ad04194b0518066c9":[7,0,1348,0,13],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a5043a99a4a3d1c86a4a7026757ebdc14":[7,0,1348,0,11],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a559b482989ee8f91f1ba412683856d89":[7,0,1348,0,20],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a58b0b5142cbae350d6cc61c89a3792af":[7,0,1348,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dc/df2/classspellinfo__commandscript.html#af3097eebfcb538fc7a391472bc4c9d7d":[7,0,4410,16],
 "dc/df3/WorldMapScript_8cpp.html":[8,0,0,0,1,2,38,0,92],
 "dc/df3/WorldMapScript_8cpp.html#a729e333e6d0c4e5e353dd22c9612f446":[8,0,0,0,1,2,38,0,92,0],
-"dc/df4/classspell__q13010__jokkum__summon.html":[7,0,3923],
-"dc/df4/classspell__q13010__jokkum__summon.html#a98c5df8b6c561a5aa7d766b639f3c2c8":[7,0,3923,0]
+"dc/df4/classspell__q13010__jokkum__summon.html":[7,0,3923]
 };

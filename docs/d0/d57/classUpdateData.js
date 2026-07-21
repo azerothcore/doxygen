@@ -2,8 +2,8 @@ var classUpdateData =
 [
     [ "UpdateData", "d0/d57/classUpdateData.html#a7164bb9338d6362f427d75025c9026b6", null ],
     [ "AddOutOfRangeGUID", "d0/d57/classUpdateData.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
-    [ "AddUpdateBlock", "d0/d57/classUpdateData.html#a620f0036078833a3b5ce1245274595f8", null ],
-    [ "AddUpdateBlock", "d0/d57/classUpdateData.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "AddUpdateBlock", "d0/d57/classUpdateData.html#a742f2bc2f8c78f0a4fb0871efa309382", null ],
+    [ "AddUpdateBlock", "d0/d57/classUpdateData.html#a66fd30f02a3c70a4a4de5be8e87d19df", null ],
     [ "BuildPacket", "d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
     [ "Clear", "d0/d57/classUpdateData.html#adc0750db190d94fed3bfef72da75066c", null ],
     [ "HasData", "d0/d57/classUpdateData.html#a067577372028ad59aea7942f0cd4a5c2", null ],

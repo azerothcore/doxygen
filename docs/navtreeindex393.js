@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875":[8,0,0,0,1,3,7,4,3,5,3,10],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ab06103838f89d78fc1580d51fa13503a":[8,0,0,0,1,3,7,4,3,5,3,7],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22abf6aceeb13c42866b5cd82d397a3f3eb":[8,0,0,0,1,3,7,4,3,5,3,0],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ac870568dc5af12a7b5d0c97429e0b9c1":[8,0,0,0,1,3,7,4,3,5,3,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a42a62d1683f7c1e5f1e356bcdd80f6d2":[8,0,0,0,1,3,5,4,0,0,6,2],
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a49b64ec43e205ab38891e35d2785209e":[8,0,0,0,1,3,5,4,0,0,6,1],
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[8,0,0,0,1,3,5,4,0,0,6,0],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aecd620118a6d4fca771c9a2e088dffa8":[8,0,0,0,1,3,5,4,0,0,6,4],
-"de/dc0/classspell__black__temple__skeleton__shot__aura.html":[7,0,2678]
+"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aecd620118a6d4fca771c9a2e088dffa8":[8,0,0,0,1,3,5,4,0,0,6,4]
 };

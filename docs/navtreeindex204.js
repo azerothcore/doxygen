@@ -247,7 +247,7 @@ var NAVTREEINDEX204 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ad159a5a46ab35f151177b59f32dea649":[7,0,835,0,25],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ade40ddc2750f52942911de204b74bbea":[7,0,835,0,9],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[7,0,835,0,29],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1]
 };

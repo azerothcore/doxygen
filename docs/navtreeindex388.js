@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"de/d93/Utilities_2TypeList_8h.html#a9c605be8d96841d40f90f900dfdae16a":[8,0,0,0,0,15,40,11],
 "de/d93/Utilities_2TypeList_8h.html#ab6a868461567e901fbc55cdc2377b4ec":[8,0,0,0,0,15,40,10],
 "de/d93/Utilities_2TypeList_8h.html#af3502a542fe8940c5967acc190cef55a":[8,0,0,0,0,15,40,8],
 "de/d93/Utilities_2TypeList_8h.html#af5885336c2d6f4bac05b7ab6a79d1ba9":[8,0,0,0,0,15,40,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "de/da1/ThreatManagerTest_8cpp.html":[8,0,0,0,2,2,0,2,2],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html":[7,0,2905],
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a2d72f5771d6563260a6e81122e4a2be5":[7,0,2905,3],
-"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a4e98fbf669c030263ed2e5759a5bd6e8":[7,0,2905,2],
-"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a812e4e461c0ebed6f7c4cc36e88a3367":[7,0,2905,1]
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a4e98fbf669c030263ed2e5759a5bd6e8":[7,0,2905,2]
 };

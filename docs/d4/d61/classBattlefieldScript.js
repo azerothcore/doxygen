@@ -1,6 +1,6 @@
 var classBattlefieldScript =
 [
-    [ "BattlefieldScript", "d4/d61/classBattlefieldScript.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "BattlefieldScript", "d4/d61/classBattlefieldScript.html#a8b975d588e1b44aecebcbbb1b547d02c", null ],
     [ "IsDatabaseBound", "d4/d61/classBattlefieldScript.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
     [ "OnBattlefieldBeforeInvitePlayerToWar", "d4/d61/classBattlefieldScript.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
     [ "OnBattlefieldPlayerEnterZone", "d4/d61/classBattlefieldScript.html#adf7c217eadc6106b1ce3c353a411edf8", null ],

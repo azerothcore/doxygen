@@ -1,6 +1,6 @@
 var classAuctionHouseScript =
 [
-    [ "AuctionHouseScript", "da/d5a/classAuctionHouseScript.html#af3e9ec3b9834f9d72106430af40e8727", null ],
+    [ "AuctionHouseScript", "da/d5a/classAuctionHouseScript.html#a9295854f6aff87a3d0d2d50c35e88312", null ],
     [ "OnAuctionAdd", "da/d5a/classAuctionHouseScript.html#a39d172304de882d87f87e14d1df107da", null ],
     [ "OnAuctionExpire", "da/d5a/classAuctionHouseScript.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
     [ "OnAuctionRemove", "da/d5a/classAuctionHouseScript.html#aed67026e34ef7e8dd4d975d0b0620463", null ],

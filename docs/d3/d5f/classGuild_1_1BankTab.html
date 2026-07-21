@@ -128,8 +128,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afb645aa2e4219558eb2f493782804657"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5945b66216eebcb4ac68a6e429c15972" id="r_a5945b66216eebcb4ac68a6e429c15972"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html#a5945b66216eebcb4ac68a6e429c15972">SetText</a> (std::string_view text)</td></tr>
 <tr class="separator:a5945b66216eebcb4ac68a6e429c15972"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3ca58dcc1997788226c6fe0d5b690c7" id="r_ac3ca58dcc1997788226c6fe0d5b690c7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html#ac3ca58dcc1997788226c6fe0d5b690c7">SendText</a> (const <a class="el" href="../../de/d79/classGuild.html">Guild</a> *guild, <a class="el" href="../../d8/d74/classWorldSession.html">WorldSession</a> *session) const</td></tr>
-<tr class="separator:ac3ca58dcc1997788226c6fe0d5b690c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1a085572a311b2cd1a3ae3edb4af4dd" id="r_af1a085572a311b2cd1a3ae3edb4af4dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html#af1a085572a311b2cd1a3ae3edb4af4dd">SendText</a> (<a class="el" href="../../de/d79/classGuild.html">Guild</a> const *guild, <a class="el" href="../../d8/d74/classWorldSession.html">WorldSession</a> *session) const</td></tr>
+<tr class="separator:af1a085572a311b2cd1a3ae3edb4af4dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0360f82663e5f9e073bcb28affcdf0b3" id="r_a0360f82663e5f9e073bcb28affcdf0b3"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html#a0360f82663e5f9e073bcb28affcdf0b3">GetName</a> () const</td></tr>
 <tr class="separator:a0360f82663e5f9e073bcb28affcdf0b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2406a477fff518690b1a9656d0c2129b" id="r_a2406a477fff518690b1a9656d0c2129b"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html#a2406a477fff518690b1a9656d0c2129b">GetIcon</a> () const</td></tr>
@@ -462,8 +462,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ac3ca58dcc1997788226c6fe0d5b690c7" name="ac3ca58dcc1997788226c6fe0d5b690c7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac3ca58dcc1997788226c6fe0d5b690c7">&#9670;&#160;</a></span>SendText()</h2>
+<a id="af1a085572a311b2cd1a3ae3edb4af4dd" name="af1a085572a311b2cd1a3ae3edb4af4dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1a085572a311b2cd1a3ae3edb4af4dd">&#9670;&#160;</a></span>SendText()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -471,7 +471,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void Guild::BankTab::SendText </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../de/d79/classGuild.html">Guild</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d79/classGuild.html">Guild</a> const *&#160;</td>
           <td class="paramname"><em>guild</em>, </td>
         </tr>
         <tr>
@@ -501,11 +501,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  515</span>    <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  516</span>    {</div>
 <div class="line"><span class="lineno">  517</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;guild&quot;</span>, <span class="stringliteral">&quot;MSG_QUERY_GUILD_BANK_TEXT [Broadcast]: Tabid: {}, Text: {}&quot;</span>, <a class="code hl_variable" href="../../d3/d5f/classGuild_1_1BankTab.html#ab055a2b7500c83c96a78c396dc60588a">m_tabId</a>, <a class="code hl_variable" href="../../d3/d5f/classGuild_1_1BankTab.html#afc7ac5ed7c4c2d79170548fe061917eb">m_text</a>);</div>
-<div class="line"><span class="lineno">  518</span>        guild-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a16a63bd6373e87c43bf74572f5c4f0ca">BroadcastPacket</a>(textQuery.<a class="code hl_function" href="../../d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd">Write</a>());</div>
+<div class="line"><span class="lineno">  518</span>        guild-&gt;BroadcastPacket(textQuery.<a class="code hl_function" href="../../d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd">Write</a>());</div>
 <div class="line"><span class="lineno">  519</span>    }</div>
 <div class="line"><span class="lineno">  520</span>}</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
-<div class="ttc" id="aclassGuild_html_a16a63bd6373e87c43bf74572f5c4f0ca"><div class="ttname"><a href="../../de/d79/classGuild.html#a16a63bd6373e87c43bf74572f5c4f0ca">Guild::BroadcastPacket</a></div><div class="ttdeci">void BroadcastPacket(WorldPacket const *packet) const</div><div class="ttdef"><b>Definition</b> Guild.cpp:2162</div></div>
 <div class="ttc" id="aclassWorldPackets_1_1Guild_1_1GuildBankTextQueryResult_html"><div class="ttname"><a href="../../d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html">WorldPackets::Guild::GuildBankTextQueryResult</a></div><div class="ttdef"><b>Definition</b> GuildPackets.h:567</div></div>
 <div class="ttc" id="aclassWorldPackets_1_1Guild_1_1GuildBankTextQueryResult_html_abfc5522a0f94086474493db85ed1ef73"><div class="ttname"><a href="../../d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73">WorldPackets::Guild::GuildBankTextQueryResult::Tab</a></div><div class="ttdeci">uint8 Tab</div><div class="ttdef"><b>Definition</b> GuildPackets.h:573</div></div>
 <div class="ttc" id="aclassWorldPackets_1_1Guild_1_1GuildBankTextQueryResult_html_acb6b28dcf56b821e3c0d5b58f6baa2dd"><div class="ttname"><a href="../../d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd">WorldPackets::Guild::GuildBankTextQueryResult::Write</a></div><div class="ttdeci">WorldPacket const * Write() override</div><div class="ttdef"><b>Definition</b> GuildPackets.cpp:424</div></div>
@@ -823,7 +822,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d79/classGuild.html">Guild</a></li><li class="navelem"><a class="el" href="../../d3/d5f/classGuild_1_1BankTab.html">BankTab</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

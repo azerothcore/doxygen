@@ -1,5 +1,6 @@
 var NAVTREEINDEX266 =
 {
+"da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca014db384d07b4224f6b4980ad0128484":[8,0,0,0,1,3,4,9,1,14,16],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca079fdbedeb449ce76d26fa93301be553":[8,0,0,0,1,3,4,9,1,14,6],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823":[8,0,0,0,1,3,4,9,1,14,0],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca21995793f1ce70377bca9f1674a6b269":[8,0,0,0,1,3,4,9,1,14,3],
@@ -29,15 +30,15 @@ var NAVTREEINDEX266 =
 "da/d47/boss__cthun_8cpp.html#aed31bd88fed65a845df7d4c20e4017de":[8,0,0,0,1,3,4,9,1,19],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[7,0,0,4,0,4],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[5,0,0,7,0,4],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,4,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[7,0,0,4,0,4,0],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,4,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[7,0,0,4,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,7,0,4,2],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,4,1],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[7,0,0,4,0,4,1],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,4,1],
 "da/d48/adtfile_8h.html":[8,0,0,0,3,4,2],
-"da/d48/adtfile_8h.html#a05f8969fb6d17548033afc24b906a83f":[8,0,0,0,3,4,2,7],
 "da/d48/adtfile_8h.html#a5e577b4c8e75312883ba4e8c571908ca":[8,0,0,0,3,4,2,6],
+"da/d48/adtfile_8h.html#a939d4568b4058bf826a517f55cb963af":[8,0,0,0,3,4,2,7],
 "da/d48/adtfile_8h.html#abdc56edc46e0804c456749761cff8daf":[8,0,0,0,3,4,2,4],
 "da/d48/adtfile_8h.html#ac0029be4572a61d00eb1435db5526a74":[8,0,0,0,3,4,2,3],
 "da/d48/adtfile_8h.html#ac3f75fc482c41471364c2c3e8bd1dd96":[8,0,0,0,3,4,2,5],
@@ -100,10 +101,10 @@ var NAVTREEINDEX266 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#aca9a42766818ffc52919d66ab1017745":[8,0,0,0,2,2,0,10,17,16],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#acf2364ee45cd14949ea8fa599d15207b":[8,0,0,0,2,2,0,10,17,11],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[8,0,0,0,2,2,0,10,17,2],
-"da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
+"da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[7,0,0,107,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,119,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX266 =
 "da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a24c1b5043c1527db8d6914a8fb02986f":[8,0,0,0,1,3,5,12,9,11,1],
 "da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a2591c22e9ce3ae7dd9c2109f970584ae":[8,0,0,0,1,3,5,12,9,11,0],
 "da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a2ed27d2f164982bd3119a136ea526449":[8,0,0,0,1,3,5,12,9,11,7],
-"da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a4db5d8cf30f4034d12288b47f45efb20":[8,0,0,0,1,3,5,12,9,11,3],
-"da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a53154198d91f02a577bca9becc42372f":[8,0,0,0,1,3,5,12,9,11,4]
+"da/d4c/violet__hold_8h.html#aa2d25b105d4377f355576c5ccb1dd302a4db5d8cf30f4034d12288b47f45efb20":[8,0,0,0,1,3,5,12,9,11,3]
 };

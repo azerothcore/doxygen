@@ -8,7 +8,7 @@ var CharacterDatabaseCleaner_8h =
       [ "CLEANING_FLAG_QUESTSTATUS", "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
     ] ],
     [ "AchievementProgressCheck", "db/dfa/CharacterDatabaseCleaner_8h.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "db/dfa/CharacterDatabaseCleaner_8h.html#ab98182e5f92f72090600314cc41f0d39", null ],
+    [ "CheckUnique", "db/dfa/CharacterDatabaseCleaner_8h.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
     [ "CleanCharacterAchievementProgress", "db/dfa/CharacterDatabaseCleaner_8h.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
     [ "CleanCharacterQuestStatus", "db/dfa/CharacterDatabaseCleaner_8h.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
     [ "CleanCharacterSkills", "db/dfa/CharacterDatabaseCleaner_8h.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],

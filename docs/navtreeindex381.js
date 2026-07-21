@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"de/d3e/structnpc__azure__mage__slayer.html":[7,0,1660],
 "de/d3e/structnpc__azure__mage__slayer.html#a412a23b56efad90af180dee17f9f2be3":[7,0,1660,2],
 "de/d3e/structnpc__azure__mage__slayer.html#a8f537bf85f7d50dda0f3e2e9cb7bd293":[7,0,1660,0],
 "de/d3e/structnpc__azure__mage__slayer.html#aadb7b09a9fbdd9ca8f04ba38e79901b3":[7,0,1660,3],
@@ -146,8 +147,8 @@ var NAVTREEINDEX381 =
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[7,0,4187,0],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[7,0,4187,1],
 "de/d4a/classWorldMapScript.html":[7,0,4646],
-"de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[7,0,4646,0],
 "de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[7,0,4646,2],
+"de/d4a/classWorldMapScript.html#a87448909610514b3a7d75f9ef5076696":[7,0,4646,0],
 "de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[7,0,4646,1],
 "de/d4a/classspell__brewfest__toss__mug.html":[7,0,2715],
 "de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[7,0,2715,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "de/d4c/classgo__ancient__skull__pile.html":[7,0,1144],
 "de/d4c/classgo__ancient__skull__pile.html#a53793cf5f47e812751c2e5ebfe4d1603":[7,0,1144,0],
 "de/d4c/classgo__ancient__skull__pile.html#a6d6fd73be859dc00f214796ec2f9bed2":[7,0,1144,2],
-"de/d4c/classgo__ancient__skull__pile.html#afc258eaeb7586f0f539223c21f82ea63":[7,0,1144,1],
-"de/d4d/classspell__summon__noblegarden__bunny__controller.html":[7,0,4127]
+"de/d4c/classgo__ancient__skull__pile.html#afc258eaeb7586f0f539223c21f82ea63":[7,0,1144,1]
 };

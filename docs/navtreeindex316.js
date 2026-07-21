@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/d0d/structboss__kurinnaxx.html#aa8b471e6239080b2a5f70e50e07a9621":[7,0,601,0],
 "dc/d0d/structboss__kurinnaxx.html#adb749c8737888a099ad7a3d58292a612":[7,0,601,2],
 "dc/d0e/structRealmBuildInfo.html":[7,0,2506],
 "dc/d0e/structRealmBuildInfo.html#a0df61c036a57b8a3efde5d180dc38131":[7,0,2506,2],
@@ -233,8 +234,8 @@ var NAVTREEINDEX316 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[8,0,0,0,1,3,2,1,0,4,2,1],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[8,0,0,0,1,3,2,1,0,4,2,0],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[8,0,0,0,1,3,2,1,0,4,1],
-"dc/d20/structSHostageInfo.html":[7,0,2572],
-"dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[7,0,2572,1]
+"dc/d20/structSHostageInfo.html":[7,0,2572]
 };

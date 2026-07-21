@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,17,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab8e65545f0d47cadc3a694ec3d7024e3":[5,0,17,2,13],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab8e65545f0d47cadc3a694ec3d7024e3":[7,0,5,2,13],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad6100d5fc961fee2f0d40a5907ff466b":[5,0,17,2,26],
@@ -115,7 +116,7 @@ var NAVTREEINDEX405 =
 "df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[7,0,335,2],
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[7,0,335,0],
 "df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[7,0,833],
-"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a01ceb11072dfedbd099c2461f817c895":[7,0,833,0],
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a18367901bcdf982ed7390aa1f80b5a1a":[7,0,833,0],
 "df/d45/classSpellProcDisableEffectsTest.html":[7,0,4430],
 "df/d45/classSpellProcDisableEffectsTest.html#a43a467bfcff58079e28fece9bfe3464c":[7,0,4430,0],
 "df/d45/classSpellProcDisableEffectsTest.html#ac82c59da0a73f393dcef17d666ef65bf":[7,0,4430,1],
@@ -175,8 +176,8 @@ var NAVTREEINDEX405 =
 "df/d4b/classachievement__heartbreaker.html":[7,0,64],
 "df/d4b/classachievement__heartbreaker.html#ab3a2539ae5dc74743beb0dc0ea0147af":[7,0,64,1],
 "df/d4b/classachievement__heartbreaker.html#ad81925fc32d7cf914b7be44aabe49b39":[7,0,64,0],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,0,80],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[7,0,0,68],
+"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,0,80],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[7,0,2140,0],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a147921788b07f5e776e03aaf15049cf0":[7,0,2140,0,4],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[7,0,2140,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[8,0,0,0,1,3,5,8,1,2,3,1],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[8,0,0,0,1,3,5,8,1,2,3,4],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[8,0,0,0,1,3,5,8,1,2,3,3],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[8,0,0,0,1,3,5,8,1,2,3,0],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[7,0,4151]
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[8,0,0,0,1,3,5,8,1,2,3,0]
 };

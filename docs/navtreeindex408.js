@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,1,0,0,10],
 "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ca2b24731fb3131900d8eadbc449646":[8,0,0,0,1,3,5,1,0,0,10,10],
 "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a244f05bb61f2bdd96ebdc94c1d47b5b9":[8,0,0,0,1,3,5,1,0,0,10,9],
 "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3734c86ac06de7a9410c15d33dc43051":[8,0,0,0,1,3,5,1,0,0,10,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX408 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aed06635aabcb47fd700ab1a894bad13c":[7,0,693,0,7],
 "df/d7b/classAuraMunchingQueue.html":[7,0,296],
 "df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[7,0,296,7],
-"df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[7,0,296,5],
-"df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[7,0,296,6]
+"df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[7,0,296,5]
 };

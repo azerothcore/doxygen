@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb":[8,0,0,0,1,3,5,18,56,2],
 "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c":[8,0,0,0,1,3,5,18,56,0],
 "de/da6/zone__dragonblight_8cpp.html#aa0bde757544a3b1dcc305bff0e6ca9bb":[8,0,0,0,1,3,5,18,60],
 "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9":[8,0,0,0,1,3,5,18,58],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a59e0bcfcc3952275c85e15b9812b1584":[8,0,0,0,1,3,7,4,3,5,3,1],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a62d91e26ea20366580c9ab9f8be2781d":[8,0,0,0,1,3,7,4,3,5,3,8],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e":[8,0,0,0,1,3,7,4,3,5,3,12],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a8ba24c0631934a42c70fd4ed5ba69da8":[8,0,0,0,1,3,7,4,3,5,3,5],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875":[8,0,0,0,1,3,7,4,3,5,3,10]
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a8ba24c0631934a42c70fd4ed5ba69da8":[8,0,0,0,1,3,7,4,3,5,3,5]
 };

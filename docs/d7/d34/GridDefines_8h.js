@@ -41,8 +41,8 @@ var GridDefines_8h =
     [ "IsValidMapCoord", "d7/d34/GridDefines_8h.html#a62d3e020a11429b8f6077c1ae189ac26", null ],
     [ "IsValidMapCoord", "d7/d34/GridDefines_8h.html#a355df1d62e245473475d330ef6c45bae", null ],
     [ "NormalizeMapCoord", "d7/d34/GridDefines_8h.html#a081c4b764dd94224c4a046465c5c6274", null ],
-    [ "operator!=", "d7/d34/GridDefines_8h.html#af248e8cd4ecc7161bfb1e6aa879f3cd5", null ],
-    [ "operator==", "d7/d34/GridDefines_8h.html#aa7265bcec280e27580381098105c0cae", null ],
+    [ "operator!=", "d7/d34/GridDefines_8h.html#a36a5bb4a9c8eabe4a8b4bac7a9155989", null ],
+    [ "operator==", "d7/d34/GridDefines_8h.html#a30f2df992b14df9f193fbe3b1fdfc710", null ],
     [ "TYPELIST_2", "d7/d34/GridDefines_8h.html#a987ca992ed85d8443fad01cb4e12c3ea", null ],
     [ "TYPELIST_4", "d7/d34/GridDefines_8h.html#a4a59f608393c8212378abeeab7ab1e34", null ],
     [ "TYPELIST_5", "d7/d34/GridDefines_8h.html#a39b4829445d6f736c035f7c3ebfbbdda", null ]

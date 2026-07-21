@@ -337,7 +337,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  155</span>        <span class="keywordflow">if</span> (entry.HitMask != 0)</div>
 <div class="line"><span class="lineno">  156</span>        {</div>
 <div class="line"><span class="lineno">  157</span>            <span class="comment">// Return first set bit</span></div>
-<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [mask, name] : <a class="code hl_variable" href="../../d4/da8/SpellProcDataDrivenTest_8cpp.html#a46d18d926208a684776339a2bc9dbeea">HIT_MASK_SCENARIOS</a>)</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [mask, name] : <a class="code hl_variable" href="../../d4/da8/SpellProcDataDrivenTest_8cpp.html#a1301638ea7b5194b1a8a10b150daa695">HIT_MASK_SCENARIOS</a>)</div>
 <div class="line"><span class="lineno">  159</span>            {</div>
 <div class="line"><span class="lineno">  160</span>                <span class="keywordflow">if</span> (entry.HitMask &amp; mask)</div>
 <div class="line"><span class="lineno">  161</span>                    <span class="keywordflow">return</span> mask;</div>
@@ -346,7 +346,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>        <span class="keywordflow">return</span> scenario ? scenario-&gt;defaultHitMask : <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>;</div>
 <div class="line"><span class="lineno">  165</span>    }</div>
 <div class="ttc" id="aSpellMgr_8h_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition</b> SpellMgr.h:257</div></div>
-<div class="ttc" id="aSpellProcDataDrivenTest_8cpp_html_a46d18d926208a684776339a2bc9dbeea"><div class="ttname"><a href="../../d4/da8/SpellProcDataDrivenTest_8cpp.html#a46d18d926208a684776339a2bc9dbeea">HIT_MASK_SCENARIOS</a></div><div class="ttdeci">static const std::vector&lt; std::pair&lt; uint32, const char * &gt; &gt; HIT_MASK_SCENARIOS</div><div class="ttdef"><b>Definition</b> SpellProcDataDrivenTest.cpp:80</div></div>
+<div class="ttc" id="aSpellProcDataDrivenTest_8cpp_html_a1301638ea7b5194b1a8a10b150daa695"><div class="ttname"><a href="../../d4/da8/SpellProcDataDrivenTest_8cpp.html#a1301638ea7b5194b1a8a10b150daa695">HIT_MASK_SCENARIOS</a></div><div class="ttdeci">static const std::vector&lt; std::pair&lt; uint32, char const  * &gt; &gt; HIT_MASK_SCENARIOS</div><div class="ttdef"><b>Definition</b> SpellProcDataDrivenTest.cpp:80</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00046">ProcFlagScenario::defaultHitMask</a>, <a class="el" href="../../#l00080">HIT_MASK_SCENARIOS</a>, <a class="el" href="../../#l00029">SpellProcTestEntry::HitMask</a>, and <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>.</p>
 
@@ -775,7 +775,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d77/classSpellProcDatabaseTest.html">SpellProcDatabaseTest</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

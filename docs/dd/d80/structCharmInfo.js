@@ -24,7 +24,7 @@ var structCharmInfo =
     [ "IsCommandFollow", "dd/d80/structCharmInfo.html#ad773a76312512848455f04490f494539", null ],
     [ "IsFollowing", "dd/d80/structCharmInfo.html#a565c393e227624a53d503d5a38c9234e", null ],
     [ "IsReturning", "dd/d80/structCharmInfo.html#a6c7fd5cb2ad02009e66d53b0da537947", null ],
-    [ "LoadPetActionBar", "dd/d80/structCharmInfo.html#a2f3eef517ee265187d0f65f625588343", null ],
+    [ "LoadPetActionBar", "dd/d80/structCharmInfo.html#a451085d40adabb9a6dd586897147e913", null ],
     [ "RemoveSpellFromActionBar", "dd/d80/structCharmInfo.html#a93f7c4488083f45136ae1c90c74d7342", null ],
     [ "RemoveStayPosition", "dd/d80/structCharmInfo.html#a073f5e139ea3b0155ffef63b37574073", null ],
     [ "RestoreState", "dd/d80/structCharmInfo.html#a03d345ed642bf670ba2ff0935ddaf7db", null ],

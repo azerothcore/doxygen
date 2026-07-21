@@ -1,6 +1,7 @@
 var NAVTREEINDEX291 =
 {
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3177],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7":[8,0,0,0,1,2,3,0,9,1,6],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[8,0,0,0,1,2,3,0,9,1,1],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c":[8,0,0,0,1,2,3,0,9,1,3],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[8,0,0,0,1,2,3,0,9,1,11],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896":[8,0,0,0,1,2,3,0,9,1,0]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[8,0,0,0,1,2,3,0,9,1,11]
 };

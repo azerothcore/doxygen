@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d9f/classTestCreature.html#a14b977c061ad7205565165ab95e26b7b":[7,0,4498,4],
 "dc/d9f/classTestCreature.html#a1b7dc8fdaa7410f56fcb7c0c09c330cc":[7,0,4498,5],
 "dc/d9f/classTestCreature.html#a1bed4f4dbd27e6a39bd492e90aac3c87":[7,0,4498,0],
 "dc/d9f/classTestCreature.html#a2843b8b064a7590fdc300eca55130510":[7,0,4498,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/da9/structnpc__ulduar__dark__rune__sentinel.html#a836d5ed8691a08303622389475380eae":[7,0,2235,4],
 "dc/da9/structnpc__ulduar__dark__rune__sentinel.html#aa1985f0abdfa41a0fb9568e30048f24b":[7,0,2235,5],
 "dc/da9/structnpc__ulduar__dark__rune__sentinel.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267":[7,0,2235,0],
-"dc/da9/structnpc__ulduar__dark__rune__sentinel.html#ab5401b3309fffcaebbcbc6b665ab77a1":[7,0,2235,2],
-"dc/da9/structnpc__ulduar__dark__rune__sentinel.html#ae0c37055a213f91a46b68d7286ef3867":[7,0,2235,3]
+"dc/da9/structnpc__ulduar__dark__rune__sentinel.html#ab5401b3309fffcaebbcbc6b665ab77a1":[7,0,2235,2]
 };

@@ -1,13 +1,14 @@
 var NAVTREEINDEX407 =
 {
+"df/d5d/classspell__dru__revitalize.html":[7,0,2894],
 "df/d5d/classspell__dru__revitalize.html#a3699a230042bd646d459bd7dcf73e3b6":[7,0,2894,3],
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[7,0,2894,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[7,0,2894,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[7,0,2894,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[7,0,9,2,0],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,29,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[7,0,9,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[5,0,29,2,0],
 "df/d5e/boss__buru_8cpp.html":[8,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[8,0,0,0,1,3,4,8,1,3,0],
@@ -129,7 +130,7 @@ var NAVTREEINDEX407 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a89c5c3a90fad1719bc4d2e2cb611e8c7":[7,0,1803,0,9],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad6ec9c020ba2f8eae9250a89fbe9490d":[7,0,1803,0,1],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[7,0,1803,0,6],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[7,0,1803,0,5],
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae02bbd8282d928b21b54058816f7a90c":[7,0,1803,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[7,0,1803,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[7,0,3165],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3165,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1afeb65a504eab07dee7a433b2b94dfa48":[8,0,0,0,1,3,5,1,0,0,12,27],
 "df/d71/boss__sartharion_8cpp.html#a16e282c892201d37cc8cb653e1959b3c":[8,0,0,0,1,3,5,1,0,0,21],
 "df/d71/boss__sartharion_8cpp.html#a187ea6ec7d8c9b5ca662d70bb7f03d33":[8,0,0,0,1,3,5,1,0,0,20],
-"df/d71/boss__sartharion_8cpp.html#a246583ee5e73a186704f589c35e9edf5":[8,0,0,0,1,3,5,1,0,0,27],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,1,0,0,10]
+"df/d71/boss__sartharion_8cpp.html#a246583ee5e73a186704f589c35e9edf5":[8,0,0,0,1,3,5,1,0,0,27]
 };

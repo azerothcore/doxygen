@@ -8,7 +8,7 @@ var classGuild_1_1BankTab =
     [ "GetText", "d3/d5f/classGuild_1_1BankTab.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
     [ "LoadFromDB", "d3/d5f/classGuild_1_1BankTab.html#a016c23dc9710058e969ccfc51501afd6", null ],
     [ "LoadItemFromDB", "d3/d5f/classGuild_1_1BankTab.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
-    [ "SendText", "d3/d5f/classGuild_1_1BankTab.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
+    [ "SendText", "d3/d5f/classGuild_1_1BankTab.html#af1a085572a311b2cd1a3ae3edb4af4dd", null ],
     [ "SetInfo", "d3/d5f/classGuild_1_1BankTab.html#afb645aa2e4219558eb2f493782804657", null ],
     [ "SetItem", "d3/d5f/classGuild_1_1BankTab.html#a3013ae191efb43063162f4cbb5508392", null ],
     [ "SetText", "d3/d5f/classGuild_1_1BankTab.html#a5945b66216eebcb4ac68a6e429c15972", null ],

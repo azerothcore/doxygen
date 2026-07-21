@@ -44,8 +44,8 @@ var classIWorld =
     [ "SetRealmName", "d5/d4d/classIWorld.html#a1c88b825902f5caa4ec0f80e8f464463", null ],
     [ "setStringConfig", "d5/d4d/classIWorld.html#a32b749f1cf1e1c5c969909bb36c337fa", null ],
     [ "ShutdownCancel", "d5/d4d/classIWorld.html#a4a67939a2a73f8d812f8b3bc040d522e", null ],
-    [ "ShutdownMsg", "d5/d4d/classIWorld.html#a0c9bd3a70458fe655bfc9492b4169118", null ],
-    [ "ShutdownServ", "d5/d4d/classIWorld.html#a6e0a6af1ba566fd0ecfef456b88a1e89", null ],
+    [ "ShutdownMsg", "d5/d4d/classIWorld.html#ae7f14a4cc2464dda285c403d4b77cdcc", null ],
+    [ "ShutdownServ", "d5/d4d/classIWorld.html#aae865c60d56050a88ae263bff31ce1b8", null ],
     [ "Update", "d5/d4d/classIWorld.html#a7ddf36a5bbbab3288e2e069062fd90b9", null ],
     [ "UpdateAreaDependentAuras", "d5/d4d/classIWorld.html#a443ddacd3a14959ccfd2d2283c9903e2", null ],
     [ "UpdateRealmCharCount", "d5/d4d/classIWorld.html#a9a374eb71d8bac4976c16e1bd246df11", null ]

@@ -8,7 +8,7 @@ var classWardenPayloadMgr =
     [ "GetPayloadCountInQueue", "d4/d08/classWardenPayloadMgr.html#ae3878c7264337d646f7a5d503907d7aa", null ],
     [ "GetPayloadsInQueue", "d4/d08/classWardenPayloadMgr.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
     [ "QueuePayload", "d4/d08/classWardenPayloadMgr.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
-    [ "RegisterPayload", "d4/d08/classWardenPayloadMgr.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
+    [ "RegisterPayload", "d4/d08/classWardenPayloadMgr.html#a559720ea589f439ddc031b38c9042a96", null ],
     [ "RegisterPayload", "d4/d08/classWardenPayloadMgr.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
     [ "UnregisterPayload", "d4/d08/classWardenPayloadMgr.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
     [ "CachedChecks", "d4/d08/classWardenPayloadMgr.html#a65c6878274bc49b921714278d77eed56", null ],

@@ -117,13 +117,13 @@ $(document).ready(function(){initNavTree('d1/d7f/classVMAP_1_1MyCollisionDetecti
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:afe38618ab1de028db0657601f1e51d21" id="r_afe38618ab1de028db0657601f1e51d21"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21">collisionLocationForMovingPointFixedAABox</a> (const G3D::Vector3 &amp;origin, const G3D::Vector3 &amp;dir, const G3D::AABox &amp;box, G3D::Vector3 &amp;location, bool &amp;Inside)</td></tr>
-<tr class="separator:afe38618ab1de028db0657601f1e51d21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe9c2f0e845059e5bee04823e28934df" id="r_afe9c2f0e845059e5bee04823e28934df"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df">collisionLocationForMovingPointFixedAABox</a> (G3D::Vector3 const &amp;origin, G3D::Vector3 const &amp;dir, G3D::AABox const &amp;box, G3D::Vector3 &amp;location, bool &amp;Inside)</td></tr>
+<tr class="separator:afe9c2f0e845059e5bee04823e28934df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="afe38618ab1de028db0657601f1e51d21" name="afe38618ab1de028db0657601f1e51d21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe38618ab1de028db0657601f1e51d21">&#9670;&#160;</a></span>collisionLocationForMovingPointFixedAABox()</h2>
+<a id="afe9c2f0e845059e5bee04823e28934df" name="afe9c2f0e845059e5bee04823e28934df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe9c2f0e845059e5bee04823e28934df">&#9670;&#160;</a></span>collisionLocationForMovingPointFixedAABox()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -134,19 +134,19 @@ Static Public Member Functions</h2></td></tr>
         <tr>
           <td class="memname">static bool VMAP::MyCollisionDetection::collisionLocationForMovingPointFixedAABox </td>
           <td>(</td>
-          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
           <td class="paramname"><em>origin</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
           <td class="paramname"><em>dir</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const G3D::AABox &amp;&#160;</td>
+          <td class="paramtype">G3D::AABox const &amp;&#160;</td>
           <td class="paramname"><em>box</em>, </td>
         </tr>
         <tr>
@@ -178,8 +178,8 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   61</span><span class="preprocessor">#define IR(x)   (reinterpret_cast&lt;G3D::uint32 const&amp;&gt;(x))</span></div>
 <div class="line"><span class="lineno">   62</span> </div>
 <div class="line"><span class="lineno">   63</span>            Inside = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   64</span>            <span class="keyword">const</span> G3D::Vector3&amp; MinB = box.low();</div>
-<div class="line"><span class="lineno">   65</span>            <span class="keyword">const</span> G3D::Vector3&amp; MaxB = box.high();</div>
+<div class="line"><span class="lineno">   64</span>            G3D::Vector3 <span class="keyword">const</span>&amp; MinB = box.low();</div>
+<div class="line"><span class="lineno">   65</span>            G3D::Vector3 <span class="keyword">const</span>&amp; MaxB = box.high();</div>
 <div class="line"><span class="lineno">   66</span>            G3D::Vector3 MaxT(-1.0f, -1.0f, -1.0f);</div>
 <div class="line"><span class="lineno">   67</span> </div>
 <div class="line"><span class="lineno">   68</span>            <span class="comment">// Find candidate planes.</span></div>
@@ -273,7 +273,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d34/namespaceVMAP.html">VMAP</a></li><li class="navelem"><a class="el" href="../../d1/d7f/classVMAP_1_1MyCollisionDetection.html">MyCollisionDetection</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

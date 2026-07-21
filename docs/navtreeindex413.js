@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/da4/classspell__pri__glyph__of__dispel__magic.html#a3e6027433902a5f8b4955c766cca51b4":[7,0,3781,1],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#a843b376abe1439d8431df9a70f40deb6":[7,0,3781,2],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#ae73e9e1681eb191bb7e90a09c89b6c0d":[7,0,3781,0],
 "df/da4/classspell__pri__glyph__of__dispel__magic.html#af13ff5845ea9121ceac37a4d93914f23":[7,0,3781,4],
@@ -27,6 +28,7 @@ var NAVTREEINDEX413 =
 "df/da7/classBattleground.html#a05e47c9a893fa250f3e43b54f548363c":[7,0,329,204],
 "df/da7/classBattleground.html#a062172a0a2771c8abf29db5bba402962":[7,0,329,143],
 "df/da7/classBattleground.html#a07105385f71c07160418f66e71e0b53e":[7,0,329,237],
+"df/da7/classBattleground.html#a074fa309fb06040c93c11c8c51d4da00":[7,0,329,195],
 "df/da7/classBattleground.html#a08b079bddbd3bbc5fd1ae22448738cf0":[7,0,329,171],
 "df/da7/classBattleground.html#a08e1612fa065bd42df3cee575c9f66fa":[7,0,329,41],
 "df/da7/classBattleground.html#a09632cebba6310e05423d0a145b84fcb":[7,0,329,65],
@@ -77,7 +79,6 @@ var NAVTREEINDEX413 =
 "df/da7/classBattleground.html#a37f268b9c45a92ecf3bf302b30cc704b":[7,0,329,21],
 "df/da7/classBattleground.html#a3841ee3e6ac8caec32e7b4dbfb344f9b":[7,0,329,247],
 "df/da7/classBattleground.html#a390e10b4efba4219eff511e1c4a831cc":[7,0,329,169],
-"df/da7/classBattleground.html#a39548195d203781af0e04927e7c1ba46":[7,0,329,195],
 "df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[7,0,329,197],
 "df/da7/classBattleground.html#a3a7570a487820ade935e0870f8cda0e7":[7,0,329,129],
 "df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[7,0,329,199],
@@ -150,7 +151,6 @@ var NAVTREEINDEX413 =
 "df/da7/classBattleground.html#a77600e04bfa234872910493ad0445174":[7,0,329,66],
 "df/da7/classBattleground.html#a778e2873f50d2478f009880e7226cfa4":[7,0,329,34],
 "df/da7/classBattleground.html#a77f6397211139bdceca667631ac4b10c":[7,0,329,193],
-"df/da7/classBattleground.html#a780e22fd6af1c9c2ab79572da99b63f2":[7,0,329,83],
 "df/da7/classBattleground.html#a79a1a73e449fb070c02ae1bbee9eff95":[7,0,329,145],
 "df/da7/classBattleground.html#a79eed84f1591d05ebc5d6adb07f82e24":[7,0,329,202],
 "df/da7/classBattleground.html#a7a7c17250b38807ec3ec78eeb789e34c":[7,0,329,244],
@@ -203,6 +203,7 @@ var NAVTREEINDEX413 =
 "df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9":[7,0,329,99],
 "df/da7/classBattleground.html#aac0f3dc367b90791647976d676328dd2":[7,0,329,192],
 "df/da7/classBattleground.html#aad6e28bc4586e9a4cd229a20f8170114":[7,0,329,205],
+"df/da7/classBattleground.html#aae38795cbe0509b6ffefe7ef0711eebe":[7,0,329,83],
 "df/da7/classBattleground.html#aaff9192d533142390f2d3a651528243e":[7,0,329,44],
 "df/da7/classBattleground.html#ab188798f704cc4f103aab7f94addd280":[7,0,329,212],
 "df/da7/classBattleground.html#ab40dd6ed08f1504cf72c0657b801037a":[7,0,329,117],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/da7/classBattleground.html#ad9d9477db10cb63be48148c66d68fca3":[7,0,329,42],
 "df/da7/classBattleground.html#ada82891b0df636385045ce4a8aa9e265":[7,0,329,28],
 "df/da7/classBattleground.html#adaa7c7b4db6828792ab1e2866ef732b6":[7,0,329,55],
-"df/da7/classBattleground.html#adb039c35985c751f5d13a73a8ca46c50":[7,0,329,76],
-"df/da7/classBattleground.html#adb606f987828217052b250766029a7f4":[7,0,329,67]
+"df/da7/classBattleground.html#adb039c35985c751f5d13a73a8ca46c50":[7,0,329,76]
 };

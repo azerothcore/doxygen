@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['objarray_0',['ObjArray',['../de/d3a/classBIHWrap.html#a19e64f06ddaf36271df3c1192908042b',1,'BIHWrap']]],
+  ['objarray_0',['ObjArray',['../de/d3a/classBIHWrap.html#a26c887928a917c2b802fdfe1bb294b9f',1,'BIHWrap']]],
   ['objectguidmap_1',['ObjectGuidMap',['../db/d8e/InstanceScript_8h.html#a3c451c29106077a2c6f8f88facbb2c69',1,'InstanceScript.h']]],
   ['objectinfomap_2',['ObjectInfoMap',['../db/d8e/InstanceScript_8h.html#ac2936b863aac3fd2483eae5e234ac053',1,'InstanceScript.h']]],
   ['objectlist_3',['ObjectList',['../d9/dac/ScriptedCreature_8h.html#acc68161fe019b33e9356ea1473fba71d',1,'ScriptedCreature.h']]],

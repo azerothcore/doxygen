@@ -57,7 +57,7 @@ var classAura =
     [ "GetApplicationList", "db/dce/classAura.html#a66f71f0ac319d34ae8cbe5bc4b4bcfb7", null ],
     [ "GetApplicationMap", "db/dce/classAura.html#a1f5268b496e4212bc6e5f887034d04b0", null ],
     [ "GetApplicationOfTarget", "db/dce/classAura.html#ac8b613264a2fe06bb7f39043d6d7af32", null ],
-    [ "GetApplicationOfTarget", "db/dce/classAura.html#aa5e42f1c32857e82102fd95bb46ec013", null ],
+    [ "GetApplicationOfTarget", "db/dce/classAura.html#a2c50fc66f2336dabbc94f8ba8b564194", null ],
     [ "GetApplyTime", "db/dce/classAura.html#ae88253dbdddede64cf443796dc155852", null ],
     [ "GetCaster", "db/dce/classAura.html#a6fc52109b7711606f15d9880fda8f815", null ],
     [ "GetCasterGUID", "db/dce/classAura.html#a3c4dfe75dad16fbf2afaf23ce77e4262", null ],

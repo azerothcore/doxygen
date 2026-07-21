@@ -1,7 +1,7 @@
 var classSafeUnitPointer =
 [
     [ "SafeUnitPointer", "d4/dbf/classSafeUnitPointer.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d4/dbf/classSafeUnitPointer.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "SafeUnitPointer", "d4/dbf/classSafeUnitPointer.html#a2ced82b4a80e1e2d91bbb1d63d5ca796", null ],
     [ "~SafeUnitPointer", "d4/dbf/classSafeUnitPointer.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
     [ "Initialize", "d4/dbf/classSafeUnitPointer.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
     [ "operator Unit *", "d4/dbf/classSafeUnitPointer.html#afee1d290f436472dd719ff83f41721f5", null ],

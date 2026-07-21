@@ -7,5 +7,5 @@ var adtfile_8h =
     [ "fixnamen", "da/d48/adtfile_8h.html#abdc56edc46e0804c456749761cff8daf", null ],
     [ "GetExtension", "da/d48/adtfile_8h.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
     [ "GetPlainName", "da/d48/adtfile_8h.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "da/d48/adtfile_8h.html#a05f8969fb6d17548033afc24b906a83f", null ]
+    [ "GetPlainName", "da/d48/adtfile_8h.html#a939d4568b4058bf826a517f55cb963af", null ]
 ];

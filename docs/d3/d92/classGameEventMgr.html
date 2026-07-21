@@ -3727,7 +3727,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1973</span> </div>
 <div class="line"><span class="lineno"> 1974</span>    <span class="keywordflow">if</span> (!singleDate)</div>
 <div class="line"><span class="lineno"> 1975</span>    {</div>
-<div class="line"><span class="lineno"> 1976</span>        time_t start = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(</div>
+<div class="line"><span class="lineno"> 1976</span>        time_t start = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a>(</div>
 <div class="line"><span class="lineno"> 1977</span>            holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>, <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a>, stageOffset, event.<a class="code hl_variable" href="../../da/d99/structGameEventData.html#a72bff4c3a62db350460993d804a461ea">Length</a>, curTime);</div>
 <div class="line"><span class="lineno"> 1978</span>        <span class="keywordflow">if</span> (start)</div>
 <div class="line"><span class="lineno"> 1979</span>            <span class="keyword">event</span>.Start = start;</div>
@@ -3772,7 +3772,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aCommon_8h_html_ac78ba8a81d12635c129fe2f92ca46c6f"><div class="ttname"><a href="../../dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a></div><div class="ttdeci">constexpr auto HOUR</div><div class="ttdef"><b>Definition</b> Common.h:48</div></div>
 <div class="ttc" id="aDBCStructure_8h_html_ae4bf557cbdd070d5483ea758ef1ef0f2"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#ae4bf557cbdd070d5483ea758ef1ef0f2">MAX_HOLIDAY_DURATIONS</a></div><div class="ttdeci">#define MAX_HOLIDAY_DURATIONS</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1122</div></div>
 <div class="ttc" id="aclassHolidayDateCalculator_html_a9ef0af4dccb02a045dd0c9a15330c9f0"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#a9ef0af4dccb02a045dd0c9a15330c9f0">HolidayDateCalculator::FindLoopingStartTime</a></div><div class="ttdeci">static time_t FindLoopingStartTime(uint32_t packedAnchor, time_t stageOffset, uint32_t occurenceMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:675</div></div>
-<div class="ttc" id="aclassHolidayDateCalculator_html_ad67e9add59e743a47b087e62737eab7e"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a></div><div class="ttdeci">static time_t FindStartTimeForStage(const uint32_t *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:651</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_adb0b9bcaeaa1aab1a11f59e57a08653b"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#adb0b9bcaeaa1aab1a11f59e57a08653b">HolidayDateCalculator::FindStartTimeForStage</a></div><div class="ttdeci">static time_t FindStartTimeForStage(uint32_t const *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:651</div></div>
 <div class="ttc" id="astructHolidaysEntry_html_a082b59a0ead8223e590cbb371f3ad122"><div class="ttname"><a href="../../d6/d35/structHolidaysEntry.html#a082b59a0ead8223e590cbb371f3ad122">HolidaysEntry::CalendarFilterType</a></div><div class="ttdeci">int32 CalendarFilterType</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1138</div></div>
 <div class="ttc" id="astructHolidaysEntry_html_afa2d93998650f88e62bfa76807961274"><div class="ttname"><a href="../../d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274">HolidaysEntry::Looping</a></div><div class="ttdeci">uint32 Looping</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1132</div></div>
 </div><!-- fragment -->
@@ -4826,7 +4826,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d92/classGameEventMgr.html">GameEventMgr</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

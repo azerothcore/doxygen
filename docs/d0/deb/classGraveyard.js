@@ -5,7 +5,7 @@ var classGraveyard =
     [ "FindGraveyardData", "d0/deb/classGraveyard.html#a54a4461db550d5383fded30a6ecd0408", null ],
     [ "GetClosestGraveyard", "d0/deb/classGraveyard.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
     [ "GetDefaultGraveyard", "d0/deb/classGraveyard.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "d0/deb/classGraveyard.html#addd1a184b9791c8c6a74fb228545741b", null ],
+    [ "GetGraveyard", "d0/deb/classGraveyard.html#a9909f874812997a16895e81fccff994a", null ],
     [ "GetGraveyard", "d0/deb/classGraveyard.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
     [ "GetGraveyardData", "d0/deb/classGraveyard.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
     [ "instance", "d0/deb/classGraveyard.html#aaaf39d71af738cac8dd427ca94a5689b", null ],

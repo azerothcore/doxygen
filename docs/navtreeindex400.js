@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcabfbc19d06d002a2b3e03ff2e13c3fb61":[4,2,16,2],
 "df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999":[4,2,16,0],
 "df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08":[4,2,16,1],
 "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2a8198be8f6c6a5b3e7588ffd64a95312f":[4,2,17,0],
@@ -229,8 +230,8 @@ var NAVTREEINDEX400 =
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afd09db3869f04306b07aef3cb2bd47e8":[8,0,0,0,1,3,2,1,1,15,9,9],
 "df/d1f/classnpc__tharnarian.html":[7,0,2182],
 "df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[7,0,2182,1],
+"df/d1f/classnpc__tharnarian.html#a88e82aa6c08fa85491c87d7a558efd9b":[7,0,2182,3],
 "df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[7,0,2182,2],
-"df/d1f/classnpc__tharnarian.html#aedf88edfd99292a68b8e08f9f05d8f00":[7,0,2182,3],
 "df/d20/GameObjectAI_8h.html":[8,0,0,0,1,2,3,0,3],
 "df/d20/areatrigger__scripts_8cpp.html":[8,0,0,0,1,3,10,2],
 "df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275":[8,0,0,0,1,3,10,2,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528":[8,0,0,0,1,3,10,2,9,6],
 "df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f":[8,0,0,0,1,3,10,2,9,5],
 "df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e":[8,0,0,0,1,3,10,2,9,4],
-"df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1":[8,0,0,0,1,3,10,2,9,2],
-"df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9":[8,0,0,0,1,3,10,2,9,3]
+"df/d20/areatrigger__scripts_8cpp.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1":[8,0,0,0,1,3,10,2,9,2]
 };

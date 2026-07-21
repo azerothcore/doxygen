@@ -727,8 +727,8 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a42c5089b52f7d95968276277d8a00fd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afaf0c44e499261c10276edc4c3cb15a0" id="r_afaf0c44e499261c10276edc4c3cb15a0"><td class="memItemLeft" align="right" valign="top">static std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfb/classObjectMgr.html#afaf0c44e499261c10276edc4c3cb15a0">GetLocaleString</a> (std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</td></tr>
 <tr class="separator:afaf0c44e499261c10276edc4c3cb15a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4ae733dc2cda662b9679c15bcafcb7e" id="r_aa4ae733dc2cda662b9679c15bcafcb7e"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfb/classObjectMgr.html#aa4ae733dc2cda662b9679c15bcafcb7e">GetLocaleString</a> (const std::vector&lt; std::string &gt; &amp;data, int loc_idx, std::string &amp;value)</td></tr>
-<tr class="separator:aa4ae733dc2cda662b9679c15bcafcb7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a600843cd7e5533340712c03a7d7b61f1" id="r_a600843cd7e5533340712c03a7d7b61f1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfb/classObjectMgr.html#a600843cd7e5533340712c03a7d7b61f1">GetLocaleString</a> (std::vector&lt; std::string &gt; const &amp;data, int loc_idx, std::string &amp;value)</td></tr>
+<tr class="separator:a600843cd7e5533340712c03a7d7b61f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -5336,7 +5336,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno"> 9927</span>    <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(wname);</div>
 <div class="line"><span class="lineno"> 9928</span> </div>
 <div class="line"><span class="lineno"> 9929</span>    <span class="comment">// Alternative first GameTele what contains wnameLow as substring in case no GameTele location found</span></div>
-<div class="line"><span class="lineno"> 9930</span>    <span class="keyword">const</span> <a class="code hl_struct" href="../../d4/d0f/structGameTele.html">GameTele</a>* alt = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 9930</span>    <a class="code hl_struct" href="../../d4/d0f/structGameTele.html">GameTele</a> <span class="keyword">const</span>* alt = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno"> 9931</span>    <span class="keywordflow">for</span> (GameTeleContainer::const_iterator itr = <a class="code hl_variable" href="../../d5/dfb/classObjectMgr.html#a1db36497949a8f600e1227fd797d4462">_gameTeleStore</a>.begin(); itr != <a class="code hl_variable" href="../../d5/dfb/classObjectMgr.html#a1db36497949a8f600e1227fd797d4462">_gameTeleStore</a>.end(); ++itr)</div>
 <div class="line"><span class="lineno"> 9932</span>    {</div>
 <div class="line"><span class="lineno"> 9933</span>        <span class="keywordflow">if</span> (itr-&gt;second.wnameLow == wname)</div>
@@ -6187,8 +6187,8 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 
 </div>
 </div>
-<a id="aa4ae733dc2cda662b9679c15bcafcb7e" name="aa4ae733dc2cda662b9679c15bcafcb7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4ae733dc2cda662b9679c15bcafcb7e">&#9670;&#160;</a></span>GetLocaleString() <span class="overload">[1/2]</span></h2>
+<a id="a600843cd7e5533340712c03a7d7b61f1" name="a600843cd7e5533340712c03a7d7b61f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a600843cd7e5533340712c03a7d7b61f1">&#9670;&#160;</a></span>GetLocaleString() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -6199,7 +6199,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
         <tr>
           <td class="memname">static void ObjectMgr::GetLocaleString </td>
           <td>(</td>
-          <td class="paramtype">const std::vector&lt; std::string &gt; &amp;&#160;</td>
+          <td class="paramtype">std::vector&lt; std::string &gt; const &amp;&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -6315,7 +6315,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1172</span>        <span class="keywordflow">if</span> (map_itr == <a class="code hl_variable" href="../../d5/dfb/classObjectMgr.html#a88a7808019c53209c483c079ba7ed021">_mailLevelRewardStore</a>.end())</div>
 <div class="line"><span class="lineno"> 1173</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno"> 1174</span> </div>
-<div class="line"><span class="lineno"> 1175</span>        <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span> &amp; set_itr : map_itr-&gt;second)</div>
+<div class="line"><span class="lineno"> 1175</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; set_itr : map_itr-&gt;second)</div>
 <div class="line"><span class="lineno"> 1176</span>            if (set_itr.raceMask &amp; raceMask)</div>
 <div class="line"><span class="lineno"> 1177</span>                return &amp;set_itr;</div>
 <div class="line"><span class="lineno"> 1178</span> </div>
@@ -6469,9 +6469,9 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="ttc" id="aclassObjectMgr_html_ade11768f3e9835b1d822c337b985bf10"><div class="ttname"><a href="../../d5/dfb/classObjectMgr.html#ade11768f3e9835b1d822c337b985bf10">ObjectMgr::_playerShapeshiftModel</a></div><div class="ttdeci">PlayerShapeshiftModelMap _playerShapeshiftModel</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1719</div></div>
 <div class="ttc" id="aclassObject_html_a0958df7e77da48c2cfb6fad103a9ea44"><div class="ttname"><a href="../../d8/d4b/classObject.html#a0958df7e77da48c2cfb6fad103a9ea44">Object::GetByteValue</a></div><div class="ttdeci">uint8 GetByteValue(uint16 index, uint8 offset) const</div><div class="ttdef"><b>Definition</b> Object.cpp:312</div></div>
 <div class="ttc" id="aclassPlayer_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition</b> Player.h:2137</div></div>
-<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:17007</div></div>
+<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:17009</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01719">_playerShapeshiftModel</a>, <a class="el" href="../../#l00063">GENDER_NONE</a>, <a class="el" href="../../#l00312">Object::GetByteValue()</a>, <a class="el" href="../../#l17007">Unit::getRace()</a>, <a class="el" href="../../#l02137">Player::GetTeamId()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00181">PLAYER_BYTES</a>, <a class="el" href="../../#l00183">PLAYER_BYTES_3</a>, <a class="el" href="../../#l00513">PLAYER_BYTES_3_OFFSET_GENDER</a>, and <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01719">_playerShapeshiftModel</a>, <a class="el" href="../../#l00063">GENDER_NONE</a>, <a class="el" href="../../#l00312">Object::GetByteValue()</a>, <a class="el" href="../../#l17009">Unit::getRace()</a>, <a class="el" href="../../#l02137">Player::GetTeamId()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00181">PLAYER_BYTES</a>, <a class="el" href="../../#l00183">PLAYER_BYTES_3</a>, <a class="el" href="../../#l00513">PLAYER_BYTES_3_OFFSET_GENDER</a>, and <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>.</p>
 
 </div>
 </div>
@@ -8915,7 +8915,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 7623</span>        }</div>
 <div class="line"><span class="lineno"> 7624</span> </div>
 <div class="line"><span class="lineno"> 7625</span>        <span class="comment">//Sort all arrays for priority</span></div>
-<div class="line"><span class="lineno"> 7626</span>        <span class="keyword">auto</span> sortFunction = [](<span class="keyword">const</span> <a class="code hl_struct" href="../../d5/d34/structProgressionRequirement.html">ProgressionRequirement</a>* <span class="keyword">const</span> a, <span class="keyword">const</span> <a class="code hl_struct" href="../../d5/d34/structProgressionRequirement.html">ProgressionRequirement</a>* <span class="keyword">const</span> b) {<span class="keywordflow">return</span> a-&gt;<a class="code hl_variable" href="../../d5/d34/structProgressionRequirement.html#a3a66018ae4e7a7e755962f1edae58d29">priority</a> &gt; b-&gt;priority; };</div>
+<div class="line"><span class="lineno"> 7626</span>        <span class="keyword">auto</span> sortFunction = [](<a class="code hl_struct" href="../../d5/d34/structProgressionRequirement.html">ProgressionRequirement</a> <span class="keyword">const</span>* <span class="keyword">const</span> a, <a class="code hl_struct" href="../../d5/d34/structProgressionRequirement.html">ProgressionRequirement</a> <span class="keyword">const</span>* <span class="keyword">const</span> b) {<span class="keywordflow">return</span> a-&gt;<a class="code hl_variable" href="../../d5/d34/structProgressionRequirement.html#a3a66018ae4e7a7e755962f1edae58d29">priority</a> &gt; b-&gt;priority; };</div>
 <div class="line"><span class="lineno"> 7627</span>        std::sort(ar-&gt;achievements.begin(), ar-&gt;achievements.end(), sortFunction);</div>
 <div class="line"><span class="lineno"> 7628</span>        std::sort(ar-&gt;quests.begin(), ar-&gt;quests.end(), sortFunction);</div>
 <div class="line"><span class="lineno"> 7629</span>        std::sort(ar-&gt;items.begin(), ar-&gt;items.end(), sortFunction);</div>
@@ -9257,7 +9257,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">10757</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">10758</span>        }</div>
 <div class="line"><span class="lineno">10759</span> </div>
-<div class="line"><span class="lineno">10760</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">10760</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno">10761</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno">10762</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">10763</span> </div>
@@ -9269,7 +9269,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">10769</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Broadcast Text Locales in {} ms&quot;</span>, locales_count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
 <div class="line"><span class="lineno">10770</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">10771</span>}</div>
-<div class="ttc" id="aCommon_8cpp_html_a8051d28826d995169bd4ce60310d5d65"><div class="ttname"><a href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a></div><div class="ttdeci">LocaleConstant GetLocaleByName(const std::string &amp;name)</div><div class="ttdef"><b>Definition</b> Common.cpp:78</div></div>
+<div class="ttc" id="aCommon_8cpp_html_a3193e61abf2ddeae08f61cd4f13c6250"><div class="ttname"><a href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a></div><div class="ttdeci">LocaleConstant GetLocaleByName(std::string const &amp;name)</div><div class="ttdef"><b>Definition</b> Common.cpp:78</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01684">_broadcastTextStore</a>, <a class="el" href="../../#l00383">AddLocaleString()</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00078">GetLocaleByName()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00126">LOCALE_enUS</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
@@ -10047,7 +10047,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">  408</span> </div>
 <div class="line"><span class="lineno">  409</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">  410</span> </div>
-<div class="line"><span class="lineno">  411</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">  411</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno">  412</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno">  413</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  414</span> </div>
@@ -11927,7 +11927,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1381</span> </div>
 <div class="line"><span class="lineno"> 1382</span>        <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 1383</span> </div>
-<div class="line"><span class="lineno"> 1384</span>        <span class="keyword">const</span> <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a>* <a class="code hl_variable" href="../../db/dec/instance__violet__hold_8cpp.html#a03bbafc34e5890481edb24bb48d0dd38">goData</a> = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guid);</div>
+<div class="line"><span class="lineno"> 1384</span>        <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a> <span class="keyword">const</span>* <a class="code hl_variable" href="../../db/dec/instance__violet__hold_8cpp.html#a03bbafc34e5890481edb24bb48d0dd38">goData</a> = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guid);</div>
 <div class="line"><span class="lineno"> 1385</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/dec/instance__violet__hold_8cpp.html#a03bbafc34e5890481edb24bb48d0dd38">goData</a>)</div>
 <div class="line"><span class="lineno"> 1386</span>        {</div>
 <div class="line"><span class="lineno"> 1387</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;GameObject (GUID: {}) does not exist but has a record in `gameobject_addon`&quot;</span>, guid);</div>
@@ -12265,7 +12265,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 7812</span> </div>
 <div class="line"><span class="lineno"> 7813</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 7814</span> </div>
-<div class="line"><span class="lineno"> 7815</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 7815</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 7816</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 7817</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 7818</span> </div>
@@ -13353,7 +13353,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">  439</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MenuID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">  440</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> OptionID = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
 <div class="line"><span class="lineno">  441</span> </div>
-<div class="line"><span class="lineno">  442</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">  442</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno">  443</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno">  444</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  445</span> </div>
@@ -13680,7 +13680,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 3275</span> </div>
 <div class="line"><span class="lineno"> 3276</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 3277</span> </div>
-<div class="line"><span class="lineno"> 3278</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 3278</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 3279</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 3280</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 3281</span> </div>
@@ -13729,7 +13729,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 3952</span> </div>
 <div class="line"><span class="lineno"> 3953</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 3954</span> </div>
-<div class="line"><span class="lineno"> 3955</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 3955</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 3956</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 3957</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 3958</span> </div>
@@ -14595,7 +14595,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1947</span>        {</div>
 <div class="line"><span class="lineno"> 1948</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788a4d9216e2d888b88021afdc9e0d024e75">CREATURE_TO_CREATURE</a>:</div>
 <div class="line"><span class="lineno"> 1949</span>                {</div>
-<div class="line"><span class="lineno"> 1950</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(guidLow);</div>
+<div class="line"><span class="lineno"> 1950</span>                    <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a> <span class="keyword">const</span>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(guidLow);</div>
 <div class="line"><span class="lineno"> 1951</span>                    <span class="keywordflow">if</span> (!slave)</div>
 <div class="line"><span class="lineno"> 1952</span>                    {</div>
 <div class="line"><span class="lineno"> 1953</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Creature (guid) {} not found in creature table&quot;</span>, guidLow);</div>
@@ -14603,7 +14603,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1955</span>                        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 1956</span>                    }</div>
 <div class="line"><span class="lineno"> 1957</span> </div>
-<div class="line"><span class="lineno"> 1958</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(linkedGuidLow);</div>
+<div class="line"><span class="lineno"> 1958</span>                    <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a> <span class="keyword">const</span>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(linkedGuidLow);</div>
 <div class="line"><span class="lineno"> 1959</span>                    <span class="keywordflow">if</span> (!master)</div>
 <div class="line"><span class="lineno"> 1960</span>                    {</div>
 <div class="line"><span class="lineno"> 1961</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Creature (linkedGuid) {} not found in creature table&quot;</span>, linkedGuidLow);</div>
@@ -14632,7 +14632,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1984</span>                }</div>
 <div class="line"><span class="lineno"> 1985</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788a2c8559212e011407a2d93458f83bec56">CREATURE_TO_GO</a>:</div>
 <div class="line"><span class="lineno"> 1986</span>                {</div>
-<div class="line"><span class="lineno"> 1987</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(guidLow);</div>
+<div class="line"><span class="lineno"> 1987</span>                    <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a> <span class="keyword">const</span>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(guidLow);</div>
 <div class="line"><span class="lineno"> 1988</span>                    <span class="keywordflow">if</span> (!slave)</div>
 <div class="line"><span class="lineno"> 1989</span>                    {</div>
 <div class="line"><span class="lineno"> 1990</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Creature (guid) {} not found in creature table&quot;</span>, guidLow);</div>
@@ -14640,7 +14640,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 1992</span>                        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 1993</span>                    }</div>
 <div class="line"><span class="lineno"> 1994</span> </div>
-<div class="line"><span class="lineno"> 1995</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(linkedGuidLow);</div>
+<div class="line"><span class="lineno"> 1995</span>                    <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a> <span class="keyword">const</span>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(linkedGuidLow);</div>
 <div class="line"><span class="lineno"> 1996</span>                    <span class="keywordflow">if</span> (!master)</div>
 <div class="line"><span class="lineno"> 1997</span>                    {</div>
 <div class="line"><span class="lineno"> 1998</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Gameobject (linkedGuid) {} not found in gameobject table&quot;</span>, linkedGuidLow);</div>
@@ -14669,7 +14669,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 2021</span>                }</div>
 <div class="line"><span class="lineno"> 2022</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788ae1a085562d9302f77a44f6954d527025">GO_TO_GO</a>:</div>
 <div class="line"><span class="lineno"> 2023</span>                {</div>
-<div class="line"><span class="lineno"> 2024</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guidLow);</div>
+<div class="line"><span class="lineno"> 2024</span>                    <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a> <span class="keyword">const</span>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guidLow);</div>
 <div class="line"><span class="lineno"> 2025</span>                    <span class="keywordflow">if</span> (!slave)</div>
 <div class="line"><span class="lineno"> 2026</span>                    {</div>
 <div class="line"><span class="lineno"> 2027</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Gameobject (guid) {} not found in gameobject table&quot;</span>, guidLow);</div>
@@ -14677,7 +14677,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 2029</span>                        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 2030</span>                    }</div>
 <div class="line"><span class="lineno"> 2031</span> </div>
-<div class="line"><span class="lineno"> 2032</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(linkedGuidLow);</div>
+<div class="line"><span class="lineno"> 2032</span>                    <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a> <span class="keyword">const</span>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(linkedGuidLow);</div>
 <div class="line"><span class="lineno"> 2033</span>                    <span class="keywordflow">if</span> (!master)</div>
 <div class="line"><span class="lineno"> 2034</span>                    {</div>
 <div class="line"><span class="lineno"> 2035</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Gameobject (linkedGuid) {} not found in gameobject table&quot;</span>, linkedGuidLow);</div>
@@ -14706,7 +14706,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 2058</span>                }</div>
 <div class="line"><span class="lineno"> 2059</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d5/dfb/classObjectMgr.html#a80052208ab278557703a6f8596e93788aedd60fddb3acbc79ae0a926a98913913">GO_TO_CREATURE</a>:</div>
 <div class="line"><span class="lineno"> 2060</span>                {</div>
-<div class="line"><span class="lineno"> 2061</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guidLow);</div>
+<div class="line"><span class="lineno"> 2061</span>                    <a class="code hl_struct" href="../../df/dd2/structGameObjectData.html">GameObjectData</a> <span class="keyword">const</span>* slave = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#a5f538904db7cb3d5ca3fdc66a0b895b0">GetGameObjectData</a>(guidLow);</div>
 <div class="line"><span class="lineno"> 2062</span>                    <span class="keywordflow">if</span> (!slave)</div>
 <div class="line"><span class="lineno"> 2063</span>                    {</div>
 <div class="line"><span class="lineno"> 2064</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Gameobject (guid) {} not found in gameobject table&quot;</span>, guidLow);</div>
@@ -14714,7 +14714,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 2066</span>                        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 2067</span>                    }</div>
 <div class="line"><span class="lineno"> 2068</span> </div>
-<div class="line"><span class="lineno"> 2069</span>                    <span class="keyword">const</span> <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(linkedGuidLow);</div>
+<div class="line"><span class="lineno"> 2069</span>                    <a class="code hl_struct" href="../../dd/d52/structCreatureData.html">CreatureData</a> <span class="keyword">const</span>* master = <a class="code hl_function" href="../../d5/dfb/classObjectMgr.html#adc3808f352d620f87ddf3e1cfe24b49f">GetCreatureData</a>(linkedGuidLow);</div>
 <div class="line"><span class="lineno"> 2070</span>                    <span class="keywordflow">if</span> (!master)</div>
 <div class="line"><span class="lineno"> 2071</span>                    {</div>
 <div class="line"><span class="lineno"> 2072</span>                        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;LinkedRespawn: Creature (linkedGuid) {} not found in creature table&quot;</span>, linkedGuidLow);</div>
@@ -14929,7 +14929,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 9641</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 9642</span>        }</div>
 <div class="line"><span class="lineno"> 9643</span> </div>
-<div class="line"><span class="lineno"> 9644</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 9644</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 9645</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 9646</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 9647</span> </div>
@@ -15069,7 +15069,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 6789</span> </div>
 <div class="line"><span class="lineno"> 6790</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 6791</span> </div>
-<div class="line"><span class="lineno"> 6792</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 6792</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 6793</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 6794</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 6795</span> </div>
@@ -15126,7 +15126,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 6538</span> </div>
 <div class="line"><span class="lineno"> 6539</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 6540</span> </div>
-<div class="line"><span class="lineno"> 6541</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 6541</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 6542</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 6543</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 6544</span> </div>
@@ -15404,7 +15404,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">  470</span>    <span class="keywordflow">do</span></div>
 <div class="line"><span class="lineno">  471</span>    {</div>
 <div class="line"><span class="lineno">  472</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  473</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[0].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">  473</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[0].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno">  474</span>        std::string word = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">  475</span> </div>
 <div class="line"><span class="lineno">  476</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry = fields[2].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
@@ -16307,7 +16307,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">  509</span> </div>
 <div class="line"><span class="lineno">  510</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">  511</span> </div>
-<div class="line"><span class="lineno">  512</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">  512</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno">  513</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno">  514</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  515</span> </div>
@@ -16712,7 +16712,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 7106</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 7107</span>        }</div>
 <div class="line"><span class="lineno"> 7108</span> </div>
-<div class="line"><span class="lineno"> 7109</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 7109</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[2].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 7110</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 7111</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 7112</span> </div>
@@ -16759,7 +16759,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 5905</span> </div>
 <div class="line"><span class="lineno"> 5906</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 5907</span> </div>
-<div class="line"><span class="lineno"> 5908</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno"> 5908</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(fields[1].Get&lt;std::string&gt;());</div>
 <div class="line"><span class="lineno"> 5909</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 5910</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 5911</span> </div>
@@ -16871,7 +16871,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 7136</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 7137</span>        std::string localeName = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno"> 7138</span> </div>
-<div class="line"><span class="lineno"> 7139</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(localeName);</div>
+<div class="line"><span class="lineno"> 7139</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(localeName);</div>
 <div class="line"><span class="lineno"> 7140</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 7141</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 7142</span> </div>
@@ -17119,7 +17119,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno"> 7165</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno"> 7166</span>        std::string localeName = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno"> 7167</span> </div>
-<div class="line"><span class="lineno"> 7168</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(localeName);</div>
+<div class="line"><span class="lineno"> 7168</span>        <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(localeName);</div>
 <div class="line"><span class="lineno"> 7169</span>        <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno"> 7170</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 7171</span> </div>
@@ -19697,7 +19697,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">10174</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> trainerId = fields[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
 <div class="line"><span class="lineno">10175</span>            std::string localeName = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
 <div class="line"><span class="lineno">10176</span> </div>
-<div class="line"><span class="lineno">10177</span>            <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65">GetLocaleByName</a>(localeName);</div>
+<div class="line"><span class="lineno">10177</span>            <a class="code hl_enumeration" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_function" href="../../d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250">GetLocaleByName</a>(localeName);</div>
 <div class="line"><span class="lineno">10178</span>            <span class="keywordflow">if</span> (locale == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>)</div>
 <div class="line"><span class="lineno">10179</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">10180</span> </div>
@@ -23572,7 +23572,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dfb/classObjectMgr.html">ObjectMgr</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

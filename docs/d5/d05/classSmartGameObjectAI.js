@@ -8,7 +8,7 @@ var classSmartGameObjectAI =
     [ "GetScript", "d5/d05/classSmartGameObjectAI.html#a8fdf6339cad962502381081955776634", null ],
     [ "GossipHello", "d5/d05/classSmartGameObjectAI.html#a319ac690004b4d0328e3a70696bb6c83", null ],
     [ "GossipSelect", "d5/d05/classSmartGameObjectAI.html#ab5cb3c976d87d9e9f255734f5e7c74d2", null ],
-    [ "GossipSelectCode", "d5/d05/classSmartGameObjectAI.html#a64a59b5f17c806746a68788ec1c58495", null ],
+    [ "GossipSelectCode", "d5/d05/classSmartGameObjectAI.html#ae1dacc85c9c578355cfc79783c21f3cb", null ],
     [ "InitializeAI", "d5/d05/classSmartGameObjectAI.html#a3234fa3fc75125edca47ef0360f3029d", null ],
     [ "JustSummoned", "d5/d05/classSmartGameObjectAI.html#af5bbf64c3111ef16c5c5f90e80458798", null ],
     [ "OnGameEvent", "d5/d05/classSmartGameObjectAI.html#a343888265676cb96eaa331d15a2611fe", null ],

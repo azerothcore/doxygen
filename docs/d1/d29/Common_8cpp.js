@@ -1,7 +1,7 @@
 var Common_8cpp =
 [
     [ "CleanStringForMysqlQuery", "d1/d29/Common_8cpp.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d1/d29/Common_8cpp.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetLocaleByName", "d1/d29/Common_8cpp.html#a3193e61abf2ddeae08f61cd4f13c6250", null ],
     [ "GetNameByLocaleConstant", "d1/d29/Common_8cpp.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
     [ "IsLocaleValid", "d1/d29/Common_8cpp.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
     [ "accountFlagNames", "d1/d29/Common_8cpp.html#a77b8b95357d9fd48d99c7e82eb567fc0", null ],

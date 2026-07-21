@@ -3,7 +3,7 @@ var namespaces_dup =
     [ "Acore", "d3/d0b/namespaceAcore.html", "d3/d0b/namespaceAcore" ],
     [ "AddonMgr", "de/dfb/namespaceAddonMgr.html", [
       [ "BannedAddonList", "de/dfb/namespaceAddonMgr.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-      [ "GetAddonInfo", "de/dfb/namespaceAddonMgr.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+      [ "GetAddonInfo", "de/dfb/namespaceAddonMgr.html#a6edf9a462d4afcaff40e69da1e75cca5", null ],
       [ "GetBannedAddons", "de/dfb/namespaceAddonMgr.html#ad7d0938e7463238a86e8c811e1a58800", null ],
       [ "LoadFromDB", "de/dfb/namespaceAddonMgr.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
       [ "SaveAddon", "de/dfb/namespaceAddonMgr.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
@@ -19,13 +19,13 @@ var namespaces_dup =
       [ "HandleSpectatorSpectateCommand", "d6/dee/namespaceArenaSpectator.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
       [ "HandleSpectatorWatchCommand", "d6/dee/namespaceArenaSpectator.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
       [ "SendCommand", "d6/dee/namespaceArenaSpectator.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
-      [ "SendCommand_Aura", "d6/dee/namespaceArenaSpectator.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27", null ],
-      [ "SendCommand_Cooldown", "d6/dee/namespaceArenaSpectator.html#a5e336b6d62f2d9e24551cfb96c7a8679", null ],
-      [ "SendCommand_GUID", "d6/dee/namespaceArenaSpectator.html#af537ad9da6345b285d2d726b640a0340", null ],
-      [ "SendCommand_Spell", "d6/dee/namespaceArenaSpectator.html#a461f69ba88de17058481bc77a3e9f7bb", null ],
-      [ "SendCommand_String", "d6/dee/namespaceArenaSpectator.html#ac7839fd6177447b31578a19f8ee8e42a", null ],
-      [ "SendCommand_UInt32Value", "d6/dee/namespaceArenaSpectator.html#ae899637e3543ca40ec63e98bf0426f58", null ],
-      [ "SendPacketTo", "d6/dee/namespaceArenaSpectator.html#abc5c395f3697c21f09c4e70a81f02497", null ],
+      [ "SendCommand_Aura", "d6/dee/namespaceArenaSpectator.html#aa91b97db06e674ba164d16553f06bd78", null ],
+      [ "SendCommand_Cooldown", "d6/dee/namespaceArenaSpectator.html#a6ac67ec99795d45c6966aff3a3131712", null ],
+      [ "SendCommand_GUID", "d6/dee/namespaceArenaSpectator.html#ad7435c751432d6ae5879dd991afedb0b", null ],
+      [ "SendCommand_Spell", "d6/dee/namespaceArenaSpectator.html#a5907920bd398f8a871b5a57bc5d31bf5", null ],
+      [ "SendCommand_String", "d6/dee/namespaceArenaSpectator.html#aef6e3ee8768fae8862eaa6443f72599f", null ],
+      [ "SendCommand_UInt32Value", "d6/dee/namespaceArenaSpectator.html#a9ecfc7fe94ba63752a0a11967ab67acf", null ],
+      [ "SendPacketTo", "d6/dee/namespaceArenaSpectator.html#a2df095851f72dcb92f74c87c9fbc56f1", null ],
       [ "ShouldSendAura", "d6/dee/namespaceArenaSpectator.html#a29f78349223aca49d417c3f818b2dd4c", null ]
     ] ],
     [ "AuthHelper", "d9/d86/namespaceAuthHelper.html", [
@@ -56,7 +56,7 @@ var namespaces_dup =
         [ "CLEANING_FLAG_QUESTSTATUS", "d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
       ] ],
       [ "AchievementProgressCheck", "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-      [ "CheckUnique", "d3/d13/namespaceCharacterDatabaseCleaner.html#ab98182e5f92f72090600314cc41f0d39", null ],
+      [ "CheckUnique", "d3/d13/namespaceCharacterDatabaseCleaner.html#a4bdf9f5cb65f0bc9c5227d484cd5446f", null ],
       [ "CleanCharacterAchievementProgress", "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
       [ "CleanCharacterQuestStatus", "d3/d13/namespaceCharacterDatabaseCleaner.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
       [ "CleanCharacterSkills", "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],

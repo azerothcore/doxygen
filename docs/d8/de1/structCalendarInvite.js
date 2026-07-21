@@ -19,7 +19,7 @@ var structCalendarInvite =
     [ "SetSenderGUID", "d8/de1/structCalendarInvite.html#a3c96fcc1c359391adfba17197a1e9b1e", null ],
     [ "SetStatus", "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e", null ],
     [ "SetStatusTime", "d8/de1/structCalendarInvite.html#a8f7abd6edf8178d5b318023b2b8c07f0", null ],
-    [ "SetText", "d8/de1/structCalendarInvite.html#a9dc7b0dbcab93de989bf6e3806b9c730", null ],
+    [ "SetText", "d8/de1/structCalendarInvite.html#a02371dcc3e5bc1534af20eaa7a1c5bef", null ],
     [ "_eventId", "d8/de1/structCalendarInvite.html#abc834aa4f0c75fc49320e110a2f5cb2b", null ],
     [ "_invitee", "d8/de1/structCalendarInvite.html#ab61ee5b537d41a60cac7457acc9fab39", null ],
     [ "_inviteId", "d8/de1/structCalendarInvite.html#a68f5a8f97f68d0ab2303f0dcfa8138ef", null ],

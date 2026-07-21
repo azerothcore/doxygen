@@ -2,7 +2,7 @@ var classLockedQueue =
 [
     [ "LockedQueue", "d2/d8b/classLockedQueue.html#a5ce001c1fba3468b513aa7e345113128", null ],
     [ "~LockedQueue", "d2/d8b/classLockedQueue.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "d2/d8b/classLockedQueue.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
+    [ "add", "d2/d8b/classLockedQueue.html#a1c63880c3df79c1b93e9e4a3b2fbbb3d", null ],
     [ "cancel", "d2/d8b/classLockedQueue.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
     [ "cancelled", "d2/d8b/classLockedQueue.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
     [ "empty", "d2/d8b/classLockedQueue.html#a8d62ae6a4bb93f89816714ccbb519753", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX422 =
 {
+"df/dda/classspell__mage__focus__magic.html#a787008462dce35eb27deda41301b146d":[7,0,3577,0],
 "df/dda/classspell__mage__focus__magic.html#a9383231fc71c6239507fdf8765d63f3d":[7,0,3577,6],
 "df/dda/classspell__mage__focus__magic.html#a9760351c28f5f9948f0b64ae2ca91c24":[7,0,3577,2],
 "df/dda/classspell__mage__focus__magic.html#aa4ef731870355dc386fcd07c5f19d090":[7,0,3577,4],
@@ -151,12 +152,12 @@ var NAVTREEINDEX422 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[7,0,11,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[7,0,11,23,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a72cdf8414d32846375122393b9911861":[5,0,31,23,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a72cdf8414d32846375122393b9911861":[7,0,11,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,31,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[7,0,11,23,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[7,0,11,23,0],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,31,23,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac19908f21c5b0ab0b2ee756a14c0f9bc":[5,0,31,23,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac19908f21c5b0ab0b2ee756a14c0f9bc":[7,0,11,23,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[7,0,741,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a122582c974aa1e68638ea196ea2f6771":[7,0,741,0,9],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[7,0,741,0,3],
@@ -173,7 +174,7 @@ var NAVTREEINDEX422 =
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#ad2258d2039a789f99ad4c0766726df85":[7,0,741,0,2],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#af96f6054547e377f401972273e6e86aa":[7,0,741,0,4],
 "df/de0/classat__zulgurub__entrance__speech.html":[7,0,264],
-"df/de0/classat__zulgurub__entrance__speech.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5":[7,0,264,1],
+"df/de0/classat__zulgurub__entrance__speech.html#a7f719eab3ca9fa7d5e7a26f721dc9f50":[7,0,264,1],
 "df/de0/classat__zulgurub__entrance__speech.html#afef11c6a7e97befd07072826fa13be55":[7,0,264,0],
 "df/de0/structMechanicImmune.html":[7,0,1528],
 "df/de0/structMechanicImmune.html#a492e5e3c2373adba005034514b0a5a1e":[7,0,1528,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX422 =
 "df/de3/classMapInstanced.html#aa27d6f90288f23d34117c7d68160e04c":[7,0,1517,2],
 "df/de3/classMapInstanced.html#aaff2d76ae18bb7416e0cc8c16e0375d7":[7,0,1517,8],
 "df/de3/classMapInstanced.html#ad57ef8f1654b494b8c20f6af461653f4":[7,0,1517,4],
-"df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[7,0,1517,14],
-"df/de3/classMapInstanced.html#af30e91e40c171ddbf7400f310283c43c":[7,0,1517,1]
+"df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[7,0,1517,14]
 };

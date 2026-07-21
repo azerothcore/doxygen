@@ -1,5 +1,6 @@
 var NAVTREEINDEX285 =
 {
+"da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f7f3244cd4be6c55b5eb80bfcd46024":[8,0,0,0,1,3,5,9,2,2,9,3],
 "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0":[8,0,0,0,1,3,5,9,2,2,9,2],
 "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aad86c711c19c9d2a348c6b86e8ba11bb":[8,0,0,0,1,3,5,9,2,2,9,1],
 "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4b813c76eb5434a6e5b01872739ad12":[8,0,0,0,1,3,5,9,2,2,9,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX285 =
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html":[7,0,768,0],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a0cb60f308637cbd152faf274b3e5f636":[7,0,768,0,1],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a2168a2e1b36607b76614bdef54b02bc3":[7,0,768,0,8],
-"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a249b7dc28dfc40c2a782ef32b88dbb48":[7,0,768,0,4],
-"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a4357dc2e9b1d714d780db6ce3f60728b":[7,0,768,0,7]
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a249b7dc28dfc40c2a782ef32b88dbb48":[7,0,768,0,4]
 };

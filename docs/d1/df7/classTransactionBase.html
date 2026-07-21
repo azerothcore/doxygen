@@ -376,7 +376,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   66</span> </div>
 <div class="line"><span class="lineno">   67</span>                    <span class="keyword">delete</span> stmt;</div>
 <div class="line"><span class="lineno">   68</span>                }</div>
-<div class="line"><span class="lineno">   69</span>                <span class="keywordflow">catch</span> (<span class="keyword">const</span> std::bad_variant_access&amp; ex)</div>
+<div class="line"><span class="lineno">   69</span>                <span class="keywordflow">catch</span> (std::bad_variant_access <span class="keyword">const</span>&amp; ex)</div>
 <div class="line"><span class="lineno">   70</span>                {</div>
 <div class="line"><span class="lineno">   71</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;&gt; PreparedStatementBase not found in SQLElementData. {}&quot;</span>, ex.what());</div>
 <div class="line"><span class="lineno">   72</span>                    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
@@ -389,7 +389,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   79</span>                {</div>
 <div class="line"><span class="lineno">   80</span>                    std::get&lt;std::string&gt;(data.element).clear();</div>
 <div class="line"><span class="lineno">   81</span>                }</div>
-<div class="line"><span class="lineno">   82</span>                <span class="keywordflow">catch</span> (<span class="keyword">const</span> std::bad_variant_access&amp; ex)</div>
+<div class="line"><span class="lineno">   82</span>                <span class="keywordflow">catch</span> (std::bad_variant_access <span class="keyword">const</span>&amp; ex)</div>
 <div class="line"><span class="lineno">   83</span>                {</div>
 <div class="line"><span class="lineno">   84</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;&gt; std::string not found in SQLElementData. {}&quot;</span>, ex.what());</div>
 <div class="line"><span class="lineno">   85</span>                    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
@@ -567,7 +567,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/df7/classTransactionBase.html">TransactionBase</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

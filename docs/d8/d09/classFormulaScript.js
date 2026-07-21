@@ -1,6 +1,6 @@
 var classFormulaScript =
 [
-    [ "FormulaScript", "d8/d09/classFormulaScript.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "FormulaScript", "d8/d09/classFormulaScript.html#a6d945a3c85aada82cdeb86e0aea63bde", null ],
     [ "OnAfterArenaRatingCalculation", "d8/d09/classFormulaScript.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
     [ "OnBaseGainCalculation", "d8/d09/classFormulaScript.html#ab154eaf469d5fe3e86c364940816270a", null ],
     [ "OnBeforeUpdatingPersonalRating", "d8/d09/classFormulaScript.html#a2208a5684c95b936aa9ca1ae863d9682", null ],

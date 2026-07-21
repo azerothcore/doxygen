@@ -192,8 +192,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab4b0ea63ff350768aedc13ab7dbbf576"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae99d902c882462c230177ae98b8d6ddd" id="r_ae99d902c882462c230177ae98b8d6ddd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d90/classSpellMgr.html#ae99d902c882462c230177ae98b8d6ddd">IsArenaAllowedEnchancment</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ench_id) const</td></tr>
 <tr class="separator:ae99d902c882462c230177ae98b8d6ddd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a584653ee18b92069bbfe9e934eeef3bb" id="r_a584653ee18b92069bbfe9e934eeef3bb"><td class="memItemLeft" align="right" valign="top">const std::vector&lt; <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d90/classSpellMgr.html#a584653ee18b92069bbfe9e934eeef3bb">GetSpellLinked</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spell_id) const</td></tr>
-<tr class="separator:a584653ee18b92069bbfe9e934eeef3bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab214b22e0ca50c423634b10b191d29a7" id="r_ab214b22e0ca50c423634b10b191d29a7"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d90/classSpellMgr.html#ab214b22e0ca50c423634b10b191d29a7">GetSpellLinked</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spell_id) const</td></tr>
+<tr class="separator:ab214b22e0ca50c423634b10b191d29a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2167cf52f6947d5dc921b3f08afce83a" id="r_a2167cf52f6947d5dc921b3f08afce83a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89">PetLevelupSpellSet</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d90/classSpellMgr.html#a2167cf52f6947d5dc921b3f08afce83a">GetPetLevelupSpellList</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> petFamily) const</td></tr>
 <tr class="separator:a2167cf52f6947d5dc921b3f08afce83a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aacc0a22eca190f3633657be4d3387e9d" id="r_aacc0a22eca190f3633657be4d3387e9d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d00/structPetDefaultSpellsEntry.html">PetDefaultSpellsEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d90/classSpellMgr.html#aacc0a22eca190f3633657be4d3387e9d">GetPetDefaultSpellsEntry</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> id) const</td></tr>
@@ -894,7 +894,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00497">DeleteSpellFromAllPlayers()</a>, <a class="el" href="../../#l00490">IsSpellValid()</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03193">Player::_addSpell()</a>, and <a class="el" href="../../#l02955">Player::addTalent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03239">Player::_addSpell()</a>, and <a class="el" href="../../#l03001">Player::addTalent()</a>.</p>
 
 </div>
 </div>
@@ -1964,14 +1964,14 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a584653ee18b92069bbfe9e934eeef3bb" name="a584653ee18b92069bbfe9e934eeef3bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a584653ee18b92069bbfe9e934eeef3bb">&#9670;&#160;</a></span>GetSpellLinked()</h2>
+<a id="ab214b22e0ca50c423634b10b191d29a7" name="ab214b22e0ca50c423634b10b191d29a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab214b22e0ca50c423634b10b191d29a7">&#9670;&#160;</a></span>GetSpellLinked()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const std::vector&lt; <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; * SpellMgr::GetSpellLinked </td>
+          <td class="memname">std::vector&lt; <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; const  * SpellMgr::GetSpellLinked </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
           <td class="paramname"><em>spell_id</em></td><td>)</td>
@@ -2782,7 +2782,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 2654</span>            <span class="keywordflow">if</span> (!creatureFamily-&gt;<a class="code hl_variable" href="../../dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e">skillLine</a>[j])</div>
 <div class="line"><span class="lineno"> 2655</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno"> 2656</span> </div>
-<div class="line"><span class="lineno"> 2657</span>            <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d8/d97/structSkillLineAbilityEntry.html">SkillLineAbilityEntry</a> <span class="keyword">const</span>* skillLine : <a class="code hl_function" href="../../dd/d8d/DBCStores_8cpp.html#a2aeaf8baea1aaf85ca9fe37004e531f3">GetSkillLineAbilitiesBySkillLine</a>(creatureFamily-&gt;skillLine[j]))</div>
+<div class="line"><span class="lineno"> 2657</span>            <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d8/d97/structSkillLineAbilityEntry.html">SkillLineAbilityEntry</a> <span class="keyword">const</span>* skillLine : <a class="code hl_function" href="../../dd/d8d/DBCStores_8cpp.html#ae9d9b7ada59f9682bb148b26a296e49e">GetSkillLineAbilitiesBySkillLine</a>(creatureFamily-&gt;skillLine[j]))</div>
 <div class="line"><span class="lineno"> 2658</span>            {</div>
 <div class="line"><span class="lineno"> 2659</span>                <span class="keywordflow">if</span> (skillLine-&gt;AcquireMethod != <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a5af614298393d3986bae9de58785ba60a15510a00af2cfb684d30c98f0018018f">SKILL_LINE_ABILITY_LEARNED_ON_SKILL_LEARN</a>)</div>
 <div class="line"><span class="lineno"> 2660</span>                    <span class="keywordflow">continue</span>;</div>
@@ -2808,8 +2808,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 2680</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno"> 2681</span>}</div>
 <div class="ttc" id="aDBCEnums_8h_html_a5af614298393d3986bae9de58785ba60a15510a00af2cfb684d30c98f0018018f"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a5af614298393d3986bae9de58785ba60a15510a00af2cfb684d30c98f0018018f">SKILL_LINE_ABILITY_LEARNED_ON_SKILL_LEARN</a></div><div class="ttdeci">@ SKILL_LINE_ABILITY_LEARNED_ON_SKILL_LEARN</div><div class="ttdef"><b>Definition</b> DBCEnums.h:361</div></div>
-<div class="ttc" id="aDBCStores_8cpp_html_a2aeaf8baea1aaf85ca9fe37004e531f3"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a2aeaf8baea1aaf85ca9fe37004e531f3">GetSkillLineAbilitiesBySkillLine</a></div><div class="ttdeci">const std::vector&lt; SkillLineAbilityEntry const * &gt; &amp; GetSkillLineAbilitiesBySkillLine(uint32 skillLine)</div><div class="ttdef"><b>Definition</b> DBCStores.cpp:916</div></div>
 <div class="ttc" id="aDBCStores_8cpp_html_ab8fc0f1eab613ede3226e9ee68cb8508"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#ab8fc0f1eab613ede3226e9ee68cb8508">sCreatureFamilyStore</a></div><div class="ttdeci">DBCStorage&lt; CreatureFamilyEntry &gt; sCreatureFamilyStore(CreatureFamilyfmt)</div></div>
+<div class="ttc" id="aDBCStores_8cpp_html_ae9d9b7ada59f9682bb148b26a296e49e"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#ae9d9b7ada59f9682bb148b26a296e49e">GetSkillLineAbilitiesBySkillLine</a></div><div class="ttdeci">std::vector&lt; SkillLineAbilityEntry const * &gt; const &amp; GetSkillLineAbilitiesBySkillLine(uint32 skillLine)</div><div class="ttdef"><b>Definition</b> DBCStores.cpp:916</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_aff302d7ad23409ef738f15bcb560ed89"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89">PetLevelupSpellSet</a></div><div class="ttdeci">std::multimap&lt; uint32, uint32 &gt; PetLevelupSpellSet</div><div class="ttdef"><b>Definition</b> SpellMgr.h:595</div></div>
 <div class="ttc" id="aclassSpellInfo_html_a0696e18f727a511bfa4ac86a8c16b9f0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a0696e18f727a511bfa4ac86a8c16b9f0">SpellInfo::SpellLevel</a></div><div class="ttdeci">uint32 SpellLevel</div><div class="ttdef"><b>Definition</b> SpellInfo.h:384</div></div>
 <div class="ttc" id="astructCreatureFamilyEntry_html"><div class="ttname"><a href="../../dd/dcd/structCreatureFamilyEntry.html">CreatureFamilyEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:754</div></div>
@@ -12344,7 +12344,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d90/classSpellMgr.html">SpellMgr</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:51:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:19:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

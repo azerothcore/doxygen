@@ -956,7 +956,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  315</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/df1/classMetric.html#a9cd2480c3f41c12433a663faa88d1ed5">_enabled</a>)</div>
 <div class="line"><span class="lineno">  316</span>    {</div>
 <div class="line"><span class="lineno">  317</span>        <a class="code hl_variable" href="../../da/df1/classMetric.html#aaae9789c14c301c4d4568755c1e879cd">_overallStatusTimer</a>-&gt;expires_at(<a class="code hl_function" href="../../da/d62/namespaceAcore_1_1Asio_1_1SteadyTimer.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(<a class="code hl_variable" href="../../da/df1/classMetric.html#a5f5943d40f6a4e0d1f3694aca6acd630">_overallStatusTimerInterval</a>));</div>
-<div class="line"><span class="lineno">  318</span>        <a class="code hl_variable" href="../../da/df1/classMetric.html#aaae9789c14c301c4d4568755c1e879cd">_overallStatusTimer</a>-&gt;async_wait([<span class="keyword">this</span>](<span class="keyword">const</span> boost::system::error_code&amp;)</div>
+<div class="line"><span class="lineno">  318</span>        <a class="code hl_variable" href="../../da/df1/classMetric.html#aaae9789c14c301c4d4568755c1e879cd">_overallStatusTimer</a>-&gt;async_wait([<span class="keyword">this</span>](boost::system::error_code <span class="keyword">const</span>&amp;)</div>
 <div class="line"><span class="lineno">  319</span>        {</div>
 <div class="line"><span class="lineno">  320</span>            <a class="code hl_variable" href="../../da/df1/classMetric.html#a5ac9faa55dc2f33cde3ff872d58127ec">_overallStatusTimerTriggered</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  321</span>            <a class="code hl_function" href="../../da/df1/classMetric.html#a57334426f5b1e719de6619f14fb602eb">ScheduleOverallStatusLog</a>();</div>
@@ -1683,7 +1683,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/df1/classMetric.html">Metric</a></li>
-    <li class="footer">Generated on Mon Jul 20 2026 08:50:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 21 2026 08:18:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a4687238d6a8dc1c5c509b413260c74bf":[8,0,0,0,1,3,10,14,56,30],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a4cfe791d03f0d2d2cd358e59097e61e0":[8,0,0,0,1,3,10,14,56,32],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a510f1c1f1d188b273c413a3abc41f656":[8,0,0,0,1,3,10,14,56,18],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a51752a1da77b22812e8972d1a7e11d5f":[8,0,0,0,1,3,10,14,56,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/db7/instance__hyjal_8cpp.html#aaad50890c4534c5b5c848a9b85f3d8fe":[8,0,0,0,1,3,4,1,0,7,7],
 "db/db7/instance__hyjal_8cpp.html#ade7b4d2fdf8cd15fa4985554885eb881":[8,0,0,0,1,3,4,1,0,7,5],
 "db/db7/instance__trial__of__the__champion_8cpp.html":[8,0,0,0,1,3,5,2,0,3],
-"db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[8,0,0,0,1,3,5,2,0,3,2],
-"db/db7/instance__trial__of__the__champion_8cpp.html#a70438d12d4153aa7d510c89551abf7c9":[8,0,0,0,1,3,5,2,0,3,3]
+"db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[8,0,0,0,1,3,5,2,0,3,2]
 };

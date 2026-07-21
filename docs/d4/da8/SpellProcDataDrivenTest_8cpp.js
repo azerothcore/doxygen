@@ -18,6 +18,6 @@ var SpellProcDataDrivenTest_8cpp =
     [ "TEST_F", "d4/da8/SpellProcDataDrivenTest_8cpp.html#af19b76fda089568c8f35bafb48da71dd", null ],
     [ "TEST_F", "d4/da8/SpellProcDataDrivenTest_8cpp.html#a3af47a3780558b73350c1d46d609de77", null ],
     [ "TEST_F", "d4/da8/SpellProcDataDrivenTest_8cpp.html#a0e7a4faf11231646940f63c7df7a8e65", null ],
-    [ "HIT_MASK_SCENARIOS", "d4/da8/SpellProcDataDrivenTest_8cpp.html#a46d18d926208a684776339a2bc9dbeea", null ],
+    [ "HIT_MASK_SCENARIOS", "d4/da8/SpellProcDataDrivenTest_8cpp.html#a1301638ea7b5194b1a8a10b150daa695", null ],
     [ "PROC_FLAG_SCENARIOS", "d4/da8/SpellProcDataDrivenTest_8cpp.html#af191df4d9a6c137921b953a96941fe03", null ]
 ];

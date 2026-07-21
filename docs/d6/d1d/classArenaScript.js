@@ -1,6 +1,6 @@
 var classArenaScript =
 [
-    [ "ArenaScript", "d6/d1d/classArenaScript.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "ArenaScript", "d6/d1d/classArenaScript.html#a6ee4251edaae00038858fa340c2c840e", null ],
     [ "CanAddMember", "d6/d1d/classArenaScript.html#aa85728dd471c2f4d58ed1794e741d060", null ],
     [ "CanSaveArenaStatsForMember", "d6/d1d/classArenaScript.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
     [ "CanSaveToDB", "d6/d1d/classArenaScript.html#a164257b5ed4a0808d709870cdf73ed3b", null ],

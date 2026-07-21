@@ -130,8 +130,8 @@ var NAVTREEINDEX173 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[7,0,2989,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[7,0,2989,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[7,0,2989,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[7,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[7,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[7,0,13,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[7,0,13,12,0,0],
@@ -148,7 +148,6 @@ var NAVTREEINDEX173 =
 "d6/d2f/StringFormat_8h.html#a17112c1b25595793b63f24de06f90081":[8,0,0,0,0,15,30,11],
 "d6/d2f/StringFormat_8h.html#a1b97349dfcb88c6974882d7e34c55895":[8,0,0,0,0,15,30,8],
 "d6/d2f/StringFormat_8h.html#a300bea6aa9ed219f5f3636b900db3ac9":[8,0,0,0,0,15,30,0],
-"d6/d2f/StringFormat_8h.html#a3213c569cd380bda3b76fe3f730899ff":[8,0,0,0,0,15,30,12],
 "d6/d2f/StringFormat_8h.html#a32c972cafca136b88de5b298d6cba338":[8,0,0,0,0,15,30,1],
 "d6/d2f/StringFormat_8h.html#a6f5584cc7346fd1972b3e8a74036467f":[8,0,0,0,0,15,30,5],
 "d6/d2f/StringFormat_8h.html#a712bea71ec99d750664fd46c690a1ad9":[8,0,0,0,0,15,30,3],
@@ -159,6 +158,7 @@ var NAVTREEINDEX173 =
 "d6/d2f/StringFormat_8h.html#abd5773b7124dcbc8deb88f522cdcc86f":[8,0,0,0,0,15,30,7],
 "d6/d2f/StringFormat_8h.html#ac78200daa5bc5f1d4c50a1df47a7a4db":[8,0,0,0,0,15,30,13],
 "d6/d2f/StringFormat_8h.html#acc68f8d815604ae13c370c09fbb60efd":[8,0,0,0,0,15,30,10],
+"d6/d2f/StringFormat_8h.html#ad9cd9e0eab5d7794778d1270b2720337":[8,0,0,0,0,15,30,12],
 "d6/d2f/classachievement__hadronox__denied.html":[7,0,63],
 "d6/d2f/classachievement__hadronox__denied.html#a0ee9c8fb90a43bc011c75026d6bcc2e5":[7,0,63,1],
 "d6/d2f/classachievement__hadronox__denied.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0":[7,0,63,0],
@@ -246,8 +246,8 @@ var NAVTREEINDEX173 =
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245":[7,0,0,5,0,4,3],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[7,0,0,5,0,4,0],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[5,0,0,8,0,4,0],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[7,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[5,0,0,8,0,4,2],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[5,0,0,8,0,4,1],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[7,0,0,5,0,4,1]
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[7,0,0,5,0,4,2],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[7,0,0,5,0,4,1],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[5,0,0,8,0,4,1]
 };

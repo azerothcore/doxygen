@@ -1,6 +1,6 @@
 var classPetScript =
 [
-    [ "PetScript", "dd/d0b/classPetScript.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "PetScript", "dd/d0b/classPetScript.html#a8acfb58efba8975dbfdfd36e34dd667e", null ],
     [ "CanResetTalents", "dd/d0b/classPetScript.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
     [ "CanUnlearnSpellDefault", "dd/d0b/classPetScript.html#af150efd719bbb619df792ebc6705bb0a", null ],
     [ "CanUnlearnSpellSet", "dd/d0b/classPetScript.html#a84cba94813ffa26e1a245b814feb0349", null ],

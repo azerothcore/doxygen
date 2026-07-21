@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,4,1,0,1,6,0],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html":[8,0,0,0,1,3,7,2,2,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dd":[8,0,0,0,1,3,7,2,2,1,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,2,2,1,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1":[7,0,1721,0,4],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9":[7,0,1721,0,1],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#affa24c62af088b4b216aaa4789f6a40e":[7,0,1721,0,2],
-"dc/dc3/boss__ghazan_8cpp.html":[8,0,0,0,1,3,7,2,3,0],
-"dc/dc3/boss__ghazan_8cpp.html#a6b7605f750dab7f676edcd83f54c249a":[8,0,0,0,1,3,7,2,3,0,3]
+"dc/dc3/boss__ghazan_8cpp.html":[8,0,0,0,1,3,7,2,3,0]
 };

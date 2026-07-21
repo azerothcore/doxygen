@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a383986e4e1b1b96e5c921fcf222b7bf8":[8,0,0,0,1,2,38,0,77,1,107],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38b3899c46b1d16f8071921fd6dd1516":[8,0,0,0,1,2,38,0,77,1,95],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38bd0023c59c4a5bc8761e35b54466c0":[8,0,0,0,1,2,38,0,77,1,3],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[8,0,0,0,1,2,38,0,77,1,133],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/dce/classspell__lurker__below__spout.html#adb983cc531fa666648bbdb432684ff1d":[7,0,3555,1],
 "dd/dce/classspell__lurker__below__spout.html#aecefab535157dbe8e42aff3b23cd685b":[7,0,3555,3],
 "dd/dce/structboss__gurtogg__bloodboil.html":[7,0,530],
-"dd/dce/structboss__gurtogg__bloodboil.html#a0847173efbae252c2fbbaf1be17097cb":[7,0,530,4],
-"dd/dce/structboss__gurtogg__bloodboil.html#a10456695efc6ea0b8eace24b94c37cc3":[7,0,530,3]
+"dd/dce/structboss__gurtogg__bloodboil.html#a0847173efbae252c2fbbaf1be17097cb":[7,0,530,4]
 };

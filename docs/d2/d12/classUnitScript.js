@@ -1,6 +1,6 @@
 var classUnitScript =
 [
-    [ "UnitScript", "d2/d12/classUnitScript.html#a109b6b1a101953feb0f157729f3df5d2", null ],
+    [ "UnitScript", "d2/d12/classUnitScript.html#a08bf5c84f5d4044a7b64406fb79071dd", null ],
     [ "CanSetPhaseMask", "d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf", null ],
     [ "DealDamage", "d2/d12/classUnitScript.html#a4b161e889eee3572a41c33a144d12cdf", null ],
     [ "IfNormalReaction", "d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2", null ],

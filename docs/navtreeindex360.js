@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d01/classIpLocationStore.html#a82360c1ce130670fde23d42135f91324":[7,0,1399,1],
 "de/d01/classIpLocationStore.html#ad740adf9b81b37cf147dc00e220b29db":[7,0,1399,3],
 "de/d01/classIpLocationStore.html#af7b7a5a4fc65c6af966be27f7bf7e07d":[7,0,1399,5],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html":[7,0,1742,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ada2da0b184a1c1cb0ab4cd7de4e0b12d":[8,0,0,0,1,4,7,70,32],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9adfd56d9763c20bc6841ea111355f7fb8":[8,0,0,0,1,4,7,70,0],
 "de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ae9792bed3edc29b3870d0beeddeaddff":[8,0,0,0,1,4,7,70,21],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9aef610581fb01ca1ab592e295f8fcc9c7":[8,0,0,0,1,4,7,70,20],
-"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9afb24c57b1d6f73868280156db88f0af2":[8,0,0,0,1,4,7,70,4]
+"de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9aef610581fb01ca1ab592e295f8fcc9c7":[8,0,0,0,1,4,7,70,20]
 };

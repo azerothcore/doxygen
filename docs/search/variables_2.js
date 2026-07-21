@@ -15,7 +15,7 @@ var searchData=
   ['bagguid_12',['BagGuid',['../d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925',1,'WorldPackets::Item::BuyItemInSlot']]],
   ['bagslot_13',['BagSlot',['../d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9',1,'WorldPackets::Item::BuyItemInSlot']]],
   ['bagspecscolors_14',['bagSpecsColors',['../d8/dba/cs__inventory_8cpp.html#aabf9a2b965ae6153eb18635be4468eb6',1,'cs_inventory.cpp']]],
-  ['bagspecstostring_15',['bagSpecsToString',['../d8/dba/cs__inventory_8cpp.html#ac004d76eb746ea415b16f1b512a057b6',1,'cs_inventory.cpp']]],
+  ['bagspecstostring_15',['bagSpecsToString',['../d8/dba/cs__inventory_8cpp.html#a758bde8028be4374074af543003db6c1',1,'cs_inventory.cpp']]],
   ['balllightningenabled_16',['ballLightningEnabled',['../d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a487582d59f0d717c3ec53679ad36f99a',1,'boss_thaddius::boss_thaddiusAI']]],
   ['baltharusthewarbornguid_17',['BaltharusTheWarbornGUID',['../d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a99cb15668a0eb037fc7edd6a2340ca33',1,'instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript']]],
   ['bambervoid_18',['bAmberVoid',['../dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a9dfa8834bfea20a8f4a39c958e38bcbd',1,'instance_oculus::instance_oculus_InstanceMapScript']]],

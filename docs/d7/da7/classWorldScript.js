@@ -1,6 +1,6 @@
 var classWorldScript =
 [
-    [ "WorldScript", "d7/da7/classWorldScript.html#a89b4180130e22738c2898562de6b9145", null ],
+    [ "WorldScript", "d7/da7/classWorldScript.html#a729919f2184c74cab388b5e5e509bc37", null ],
     [ "OnAfterConfigLoad", "d7/da7/classWorldScript.html#affadabcae325631b2683ef458c6d13ee", null ],
     [ "OnAfterUnloadAllMaps", "d7/da7/classWorldScript.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
     [ "OnBeforeConfigLoad", "d7/da7/classWorldScript.html#a78baa1285b6495d7beace131dfba8400", null ],

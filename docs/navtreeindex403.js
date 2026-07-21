@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/d25/classspell__rog__setup.html#a5e48b25b15b60aa284ca61e900e0f87e":[7,0,3990,0],
 "df/d26/server_2apps_2worldserver_2Main_8cpp.html":[4,0,2],
 "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html":[7,0,1709,0],
 "df/d26/structnpc__captain__grondel_1_1npc__captain__grondelAI.html#a4af8548092b49653805224bd4c0ac0a2":[7,0,1709,0,2],
@@ -105,7 +106,7 @@ var NAVTREEINDEX403 =
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae89b397bafdcb06e94fa94c18ef0d2c8":[7,0,2103,0,0],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9":[7,0,2103,0,11],
 "df/d2a/StringFormat_8cpp.html":[8,0,0,0,0,15,29],
-"df/d2a/StringFormat_8cpp.html#a39e286b6ca47198eba4d5e31cef66aa5":[8,0,0,0,0,15,29,0],
+"df/d2a/StringFormat_8cpp.html#a126fa934a2d42bdadbea619988538b00":[8,0,0,0,0,15,29,0],
 "df/d2a/classboss__sjonnir__dwarf.html":[7,0,715],
 "df/d2a/classboss__sjonnir__dwarf.html#a3589ae3bef1bbfe0fc5381e341c0995b":[7,0,715,1],
 "df/d2a/classboss__sjonnir__dwarf.html#a945d8e753e1a54dc348848b9c2dd6cce":[7,0,715,2],
@@ -188,7 +189,7 @@ var NAVTREEINDEX403 =
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa14c943127f3ae15ef51e18fcc3aa97":[8,0,0,0,1,3,5,7,3,5,2],
 "df/d30/classAccountScript.html":[7,0,31],
 "df/d30/classAccountScript.html#a23261a238db9ddd618ebb6a45aaabcbf":[7,0,31,6],
-"df/d30/classAccountScript.html#a3720bf412499a13ba4b41fc5c9f96b7c":[7,0,31,0],
+"df/d30/classAccountScript.html#a2554f46fcf6ff81b353513916771b8d1":[7,0,31,0],
 "df/d30/classAccountScript.html#a3de6453c132bb3d76b6888b87f988d2d":[7,0,31,8],
 "df/d30/classAccountScript.html#a45d58c0f669f37b24e3dabf0ac4b2423":[7,0,31,7],
 "df/d30/classAccountScript.html#a631f7deca08644da2613142c667618a8":[7,0,31,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/d30/classspell__auchenai__possess.html#ad413f14193013058e1775f80b457a81d":[7,0,2646,2],
 "df/d30/classspell__auchenai__possess.html#aebc61b57ed8038488ec06c14483b2099":[7,0,2646,4],
 "df/d30/classspell__auchenai__possess.html#af120bb9d6a0c3d338706613540849412":[7,0,2646,1],
-"df/d31/classspell__hun__generic__scaling.html":[7,0,3217],
-"df/d31/classspell__hun__generic__scaling.html#a136c8cedca7630543b8937e77571ead1":[7,0,3217,5]
+"df/d31/classspell__hun__generic__scaling.html":[7,0,3217]
 };

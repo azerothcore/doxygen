@@ -12,7 +12,7 @@ var classConditionMgr =
     [ "GetConditionReferences", "d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61", null ],
     [ "GetConditionsForNotGroupedEntry", "d9/df7/classConditionMgr.html#a590ab6033439469fdde6a3ebfcaa21cb", null ],
     [ "GetConditionsForNpcVendorEvent", "d9/df7/classConditionMgr.html#a6f86dcf2e04de63376659333f5b7acce", null ],
-    [ "GetConditionsForObjectVisibility", "d9/df7/classConditionMgr.html#a629ec771affd24907a6d3b3b82a27457", null ],
+    [ "GetConditionsForObjectVisibility", "d9/df7/classConditionMgr.html#af814429709fd7d1105493570997389e2", null ],
     [ "GetConditionsForSmartEvent", "d9/df7/classConditionMgr.html#ac4ee112d1f9c762bf24e247732d69214", null ],
     [ "GetConditionsForSpellClickEvent", "d9/df7/classConditionMgr.html#a8133a3ac114b90d848ea66f9e1b2ebbc", null ],
     [ "GetConditionsForVehicleSpell", "d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef", null ],
