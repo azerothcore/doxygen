@@ -11,6 +11,7 @@ var namespaceWorldPackets_1_1Misc =
     [ "PlayMusic", "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html", "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic" ],
     [ "PlayObjectSound", "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html", "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound" ],
     [ "Playsound", "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html", "d0/d72/classWorldPackets_1_1Misc_1_1Playsound" ],
+    [ "PlayTimeWarning", "d6/df6/classWorldPackets_1_1Misc_1_1PlayTimeWarning.html", "d6/df6/classWorldPackets_1_1Misc_1_1PlayTimeWarning" ],
     [ "RandomRoll", "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html", "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll" ],
     [ "RandomRollClient", "d3/d65/classWorldPackets_1_1Misc_1_1RandomRollClient.html", "d3/d65/classWorldPackets_1_1Misc_1_1RandomRollClient" ],
     [ "StartMirrorTimer", "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html", "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer" ],

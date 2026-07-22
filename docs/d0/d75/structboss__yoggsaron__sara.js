@@ -1,6 +1,7 @@
 var structboss__yoggsaron__sara =
 [
     [ "boss_yoggsaron_sara", "d0/d75/structboss__yoggsaron__sara.html#ae980ceb429ca66a9fbd79350e1f3c120", null ],
+    [ "ActivateKeepers", "d0/d75/structboss__yoggsaron__sara.html#a2af4fdfc0324791ef84337e118950957", null ],
     [ "AddPortals", "d0/d75/structboss__yoggsaron__sara.html#a2e907912c6a398fd6b2e80771cfcd4aa", null ],
     [ "AttackStart", "d0/d75/structboss__yoggsaron__sara.html#ac415641616399b0e61449da756cdc4d0", null ],
     [ "DamageTaken", "d0/d75/structboss__yoggsaron__sara.html#ab41397516bd9e50a44bd78deec4f065f", null ],

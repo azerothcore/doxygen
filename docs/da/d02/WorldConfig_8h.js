@@ -497,6 +497,7 @@ var WorldConfig_8h =
       [ "CONFIG_TRIAL_LEVEL_CAP", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aa255f562f1579d1796b41c2d496bf60d", null ],
       [ "CONFIG_TRIAL_MONEY_CAP", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad192577499f14502abc3768b57464549", null ],
       [ "CONFIG_TRIAL_TRADE_SKILL_CAP", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a723a8a3e7b8379a7790c375d78b866d3", null ],
+      [ "CONFIG_CAIS_ENABLED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afe0fa3dbaed687a52aa1f89911ac352b", null ],
       [ "MAX_NUM_SERVER_CONFIGS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7cebf4fbc55ce913c4f3fd3b8992c8c7", null ]
     ] ]
 ];

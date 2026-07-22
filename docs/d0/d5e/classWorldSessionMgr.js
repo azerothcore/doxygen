@@ -36,6 +36,8 @@ var classWorldSessionMgr =
     [ "SetPlayerAmountLimit", "d0/d5e/classWorldSessionMgr.html#a773b78393737216b3e8cbb506f5335ca", null ],
     [ "UpdateMaxSessionCounters", "d0/d5e/classWorldSessionMgr.html#a4d5f21e27d14a2dee1ff4e48bdb7b341", null ],
     [ "UpdateSessions", "d0/d5e/classWorldSessionMgr.html#a6234855de299f067b0b61e690f532835", null ],
+    [ "_accountsPlayHistory", "d0/d5e/classWorldSessionMgr.html#aa4e1e9012a500cfac4baaeba37f64b29", null ],
+    [ "_accountsPlayHistoryPruneTimer", "d0/d5e/classWorldSessionMgr.html#a0e0982385e50071daca16e4bf53306f2", null ],
     [ "_addSessQueue", "d0/d5e/classWorldSessionMgr.html#acf06a5c5685db9b266d9323bb915d4aa", null ],
     [ "_disconnects", "d0/d5e/classWorldSessionMgr.html#a4dc377ec8326db07146d0521d0c0907d", null ],
     [ "_maxActiveSessionCount", "d0/d5e/classWorldSessionMgr.html#a564d19d48fb433cc9a85c1434d6ecf81", null ],

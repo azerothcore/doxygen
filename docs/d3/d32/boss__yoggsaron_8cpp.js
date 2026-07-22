@@ -47,6 +47,9 @@ var boss__yoggsaron_8cpp =
       [ "SPELL_EMPOWERING_SHADOWS_HEAL_25", "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50a3bd4848422c18cdef6ad955b0938f622", null ]
     ] ],
     [ "Misc", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
+      [ "ACTION_ACTIVATE_KEEPER", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91f8d73e9d88d27b7995dfe3f3c9892e", null ],
+      [ "ACTION_VOICE_STOP", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7", null ],
+      [ "ACTION_VOICE_START", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75", null ],
       [ "ACTION_UNSUMMON_CLOUDS", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab47703ed48eaa5237cacf25632bfac19", null ],
       [ "ACTION_DESPAWN_ADDS", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
       [ "ACTION_START_SUMMONING", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88aaf3eed19bc6c33c495cbeec83393b", null ],
@@ -80,7 +83,6 @@ var boss__yoggsaron_8cpp =
       [ "NPC_GUARDIAN_OF_YS", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a022a64153f8ac64bd22883f78ce0a1d4", null ],
       [ "NPC_SANITY_WELL", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a59b5dd8939e8cce174a056513339d396", null ],
       [ "NPC_YOGG_SARON", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a410c2060d0090664c0d5958e116dd0e4", null ],
-      [ "NPC_VOICE_OF_YOGG_SARON", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959acb32fb6ef5552af61de27da686be3b2f", null ],
       [ "NPC_YOGG_SARON_VISION", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aa260a1f5edc9dabe13993e70c6aa4b62", null ],
       [ "NPC_CRUSHER_TENTACLE", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a792be3bbc18d92ac1d011f73976e28e9", null ],
       [ "NPC_CONSTRICTOR_TENTACLE", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a4dc3c9ef6343b2ed9aafad0f5fe3287f", null ],

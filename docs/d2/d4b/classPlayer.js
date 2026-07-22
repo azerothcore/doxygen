@@ -372,6 +372,7 @@ var classPlayer =
     [ "GetLastPetSpell", "d2/d4b/classPlayer.html#a64cced6a2ea62ddc91a8fed06a205f27", null ],
     [ "GetLastPotionId", "d2/d4b/classPlayer.html#a77fff5c7965fd91c3d6fcfcd1fd80257", null ],
     [ "GetLastUsedRune", "d2/d4b/classPlayer.html#ae2d917b91c172ade7920ee6a0b9a1a23", null ],
+    [ "GetLearnSpellSpecMask", "d2/d4b/classPlayer.html#a563603affb41e3fa9ba2c94656202832", null ],
     [ "GetLevelPlayedTime", "d2/d4b/classPlayer.html#aa95cacc62e481538768fc172a1cb946d", null ],
     [ "GetLootGUID", "d2/d4b/classPlayer.html#a73449c7eadffc4d2b0c6eb4a12affc25", null ],
     [ "GetMail", "d2/d4b/classPlayer.html#aefca3e04a72cb2041f037c9593fa708f", null ],

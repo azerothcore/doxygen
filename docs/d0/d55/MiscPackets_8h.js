@@ -16,5 +16,6 @@ var MiscPackets_8h =
     [ "WorldPackets::Misc::CrossedInebriationThreshold", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold" ],
     [ "WorldPackets::Misc::UITime", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime" ],
     [ "WorldPackets::Misc::Complain", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain" ],
-    [ "WorldPackets::Misc::ComplainResult", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult.html", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult" ]
+    [ "WorldPackets::Misc::ComplainResult", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult.html", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult" ],
+    [ "WorldPackets::Misc::PlayTimeWarning", "d6/df6/classWorldPackets_1_1Misc_1_1PlayTimeWarning.html", "d6/df6/classWorldPackets_1_1Misc_1_1PlayTimeWarning" ]
 ];

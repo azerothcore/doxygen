@@ -40,5 +40,16 @@ var WorldSession_8h =
       [ "PARTY_OP_UNINVITE", "d2/dec/group__u2w.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
       [ "PARTY_OP_LEAVE", "d2/dec/group__u2w.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
       [ "PARTY_OP_SWAP", "d2/dec/group__u2w.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
-    ] ]
+    ] ],
+    [ "PlayTimeFlag", "d2/dec/group__u2w.html#gab0f782c25a543ef68ccbf19bcf280d29", [
+      [ "PTF_APPROACHING_PARTIAL_PLAY_TIME", "d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29afd6689f2acd9a847caf26b96c4d3e13e", null ],
+      [ "PTF_APPROACHING_NO_PLAY_TIME", "d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a50659081fefa503f91ce881b46598b59", null ],
+      [ "PTF_UNK_1", "d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a67efe9768ed897824b189876a39cdf40", null ],
+      [ "PTF_UNK_2", "d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a5ea9700b06131482b2364468e8d031d7", null ],
+      [ "PTF_UNHEALTHY_TIME", "d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a7634120a596bc4d65246fb26c6356bdb", null ]
+    ] ],
+    [ "PLAY_TIME_LIMIT_APPROACHING_FULL", "d2/dec/group__u2w.html#ga99d2b892339f367e4992d8c083c707d6", null ],
+    [ "PLAY_TIME_LIMIT_APPROACHING_PARTIAL", "d2/dec/group__u2w.html#ga334dbe31e9d355426b23715e36bfbfa8", null ],
+    [ "PLAY_TIME_LIMIT_FULL", "d2/dec/group__u2w.html#ga977e6e9ea35bcce39c27928e801d2c66", null ],
+    [ "PLAY_TIME_LIMIT_PARTIAL", "d2/dec/group__u2w.html#ga571b1b33a44fba02cb1da26849294a9d", null ]
 ];

@@ -110,7 +110,8 @@ $(document).ready(function(){initNavTree('da/d53/WorldSession_8h.html','../../')
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">WorldSession.h File Reference<div class="ingroups"><a class="el" href="../../d2/dec/group__u2w.html">User to World Communication</a></div></div></div>
 </div><!--header-->
 <div class="contents">
@@ -120,6 +121,7 @@ $(document).ready(function(){initNavTree('da/d53/WorldSession_8h.html','../../')
 <code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
@@ -272,6 +274,30 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:gae6a6780680157e01b09a257d84b150c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gab0f782c25a543ef68ccbf19bcf280d29" id="r_gab0f782c25a543ef68ccbf19bcf280d29"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dec/group__u2w.html#gab0f782c25a543ef68ccbf19bcf280d29">PlayTimeFlag</a> : uint32 { <br />
+&#160;&#160;<a class="el" href="../../d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29afd6689f2acd9a847caf26b96c4d3e13e">PTF_APPROACHING_PARTIAL_PLAY_TIME</a> = 0x1000
+, <br />
+&#160;&#160;<a class="el" href="../../d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a50659081fefa503f91ce881b46598b59">PTF_APPROACHING_NO_PLAY_TIME</a> = 0x2000
+, <br />
+&#160;&#160;<a class="el" href="../../d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a67efe9768ed897824b189876a39cdf40">PTF_UNK_1</a> = 0x20000000
+, <br />
+&#160;&#160;<a class="el" href="../../d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a5ea9700b06131482b2364468e8d031d7">PTF_UNK_2</a> = 0x40000000
+, <br />
+&#160;&#160;<a class="el" href="../../d2/dec/group__u2w.html#ggab0f782c25a543ef68ccbf19bcf280d29a7634120a596bc4d65246fb26c6356bdb">PTF_UNHEALTHY_TIME</a> = 0x80000000
+<br />
+ }</td></tr>
+<tr class="separator:gab0f782c25a543ef68ccbf19bcf280d29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ga334dbe31e9d355426b23715e36bfbfa8" id="r_ga334dbe31e9d355426b23715e36bfbfa8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dec/group__u2w.html#ga334dbe31e9d355426b23715e36bfbfa8">PLAY_TIME_LIMIT_APPROACHING_PARTIAL</a> = <a class="el" href="../../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>(2) + <a class="el" href="../../d2/d75/Duration_8h.html#af2161f9db850581e2228078614990df8">Minutes</a>(30)</td></tr>
+<tr class="separator:ga334dbe31e9d355426b23715e36bfbfa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga571b1b33a44fba02cb1da26849294a9d" id="r_ga571b1b33a44fba02cb1da26849294a9d"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dec/group__u2w.html#ga571b1b33a44fba02cb1da26849294a9d">PLAY_TIME_LIMIT_PARTIAL</a> = <a class="el" href="../../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>(3)</td></tr>
+<tr class="separator:ga571b1b33a44fba02cb1da26849294a9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga99d2b892339f367e4992d8c083c707d6" id="r_ga99d2b892339f367e4992d8c083c707d6"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dec/group__u2w.html#ga99d2b892339f367e4992d8c083c707d6">PLAY_TIME_LIMIT_APPROACHING_FULL</a> = <a class="el" href="../../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>(4) + <a class="el" href="../../d2/d75/Duration_8h.html#af2161f9db850581e2228078614990df8">Minutes</a>(30)</td></tr>
+<tr class="separator:ga99d2b892339f367e4992d8c083c707d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga977e6e9ea35bcce39c27928e801d2c66" id="r_ga977e6e9ea35bcce39c27928e801d2c66"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dec/group__u2w.html#ga977e6e9ea35bcce39c27928e801d2c66">PLAY_TIME_LIMIT_FULL</a> = <a class="el" href="../../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>(5)</td></tr>
+<tr class="separator:ga977e6e9ea35bcce39c27928e801d2c66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -279,7 +305,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_315286625446b425c001eecd2b17ef1a.html">Server</a></li><li class="navelem"><a class="el" href="../../da/d53/WorldSession_8h.html">WorldSession.h</a></li>
-    <li class="footer">Generated on Tue Jul 21 2026 08:18:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jul 22 2026 08:19:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
