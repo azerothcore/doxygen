@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daceca3c889fc7f521c62886d5c890332c":[8,0,0,0,1,2,7,0,1,17,27],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad37016932bb6d19c2bd649a185ede936":[8,0,0,0,1,2,7,0,1,17,25],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad5e71a439ac8c7d779b13298d7a53601":[8,0,0,0,1,2,7,0,1,17,20],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daea82d06a107d2ac3668a6b11607d4c51":[8,0,0,0,1,2,7,0,1,17,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[7,0,2232,1],
 "d6/d56/classnpc__kurenai__captive.html":[7,0,1948],
 "d6/d56/classnpc__kurenai__captive.html#a5e87cd850d0fc6272d89dd3c7901af5f":[7,0,1948,3],
-"d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[7,0,1948,2],
-"d6/d56/classnpc__kurenai__captive.html#ae0e283bfc476f2d9e602158fa8720cdc":[7,0,1948,1]
+"d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[7,0,1948,2]
 };

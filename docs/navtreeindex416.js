@@ -1,5 +1,9 @@
 var NAVTREEINDEX416 =
 {
+"df/dbb/structboss__flame__leviathan.html#a3f4544b71913d7ece2b299891597db8e":[7,0,486,13],
+"df/dbb/structboss__flame__leviathan.html#a4238459188526ce304c44b93b2e86dcd":[7,0,486,11],
+"df/dbb/structboss__flame__leviathan.html#a48d7411965fc5bbc8fe9d7579d020633":[7,0,486,0],
+"df/dbb/structboss__flame__leviathan.html#a4c582c2aa94989fef40457afbff9577a":[7,0,486,20],
 "df/dbb/structboss__flame__leviathan.html#a68aa6766bc44e29856fdcd96b558dce6":[7,0,486,23],
 "df/dbb/structboss__flame__leviathan.html#a7b05024f5098a612688b08f1f47f67e0":[7,0,486,3],
 "df/dbb/structboss__flame__leviathan.html#a81c5419fcf7cb7b0ecca065d6648ca50":[7,0,486,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX416 =
 "df/dc9/classCreatureScript.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b":[7,0,957,9],
 "df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f":[7,0,957,5],
 "df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979":[7,0,957,8],
-"df/dc9/classCreatureScript.html#aba2be0f342cb9811bd0ebee954d7d36e":[7,0,957,10],
-"df/dc9/classCreatureScript.html#ae3f271ebb0a1fc4dca17856ef9a891ea":[7,0,957,0],
-"df/dc9/classCreatureScript.html#af19c64d23391f8b835f79bc6cf315caa":[7,0,957,3],
-"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html":[7,0,1232,0],
-"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a509e6d8401380c326a0f565a6b903d7a":[7,0,1232,0,2]
+"df/dc9/classCreatureScript.html#aba2be0f342cb9811bd0ebee954d7d36e":[7,0,957,10]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX211 =
 {
+"d7/da4/classspell__item__restless__strength.html#a690f78253492b2d509d0ce1cf7807ffa":[7,0,3441,3],
 "d7/da4/classspell__item__restless__strength.html#aed93f4b7af2194f765375b8f5e0318f7":[7,0,3441,0],
 "d7/da4/classspell__item__restless__strength.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a":[7,0,3441,2],
 "d7/da5/classat__karazhan__atiesh__aran.html":[7,0,238],
@@ -248,6 +249,5 @@ var NAVTREEINDEX211 =
 "d7/db0/classMap.html#a6b210d5d959becdde97ad0ed245dd2a0":[7,0,1507,191],
 "d7/db0/classMap.html#a6c6f51ed8a59dfb423889c1493422a7d":[7,0,1507,51],
 "d7/db0/classMap.html#a6cfc02d418c8e4b86e5d2de54560e87f":[7,0,1507,207],
-"d7/db0/classMap.html#a6e10cccecdf92b1e308b0196b2885217":[7,0,1507,176],
-"d7/db0/classMap.html#a6fa4399d7c32cd8691c92e1a15ffb5b6":[7,0,1507,196]
+"d7/db0/classMap.html#a6e10cccecdf92b1e308b0196b2885217":[7,0,1507,176]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX127 =
 {
+"d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7d3e13f7a79db8c5b11aa3b77add6883":[8,0,0,0,1,3,5,10,0,1,6,3],
 "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa467eec31320e37f6518124c6a8ca057":[8,0,0,0,1,3,5,10,0,1,6,1],
 "d4/d4f/classAggressorAI.html":[7,0,149],
 "d4/d4f/classAggressorAI.html#a2d4ba3a557832466f29906972d1e14fd":[7,0,149,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d57/classspell__send__mug__control__aura.html#ac8b584ffbb1a8787f70370d94586ed77":[7,0,4029,0],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html":[7,0,1231,0],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a33f98d1de05b539a66c4103b4c61de1f":[7,0,1231,0,3],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a4370be2b59ea50bf5ea2285bfbf4e242":[7,0,1231,0,0],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a50ad8b248381a6d9fac7a291796966d6":[7,0,1231,0,5]
+"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a4370be2b59ea50bf5ea2285bfbf4e242":[7,0,1231,0,0]
 };

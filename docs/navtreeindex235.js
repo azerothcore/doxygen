@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/dc6/classcheat__commandscript.html#ae406c5d444b10ba65b79f8ff9d949c24":[7,0,891,7],
 "d8/dc8/structnpc__ulduar__hodir__priest.html":[7,0,2252],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#a10b5f3575c2de311d54c15220c68f4b7":[7,0,2252,6],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#a2dd6faeb45ba2278e1b4693d20550d4e":[7,0,2252,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/dd6/DBCfmt_8h.html#a81ec700b34b76772ade19900d83ab8f7":[8,0,0,0,1,4,0,3,33],
 "d8/dd6/DBCfmt_8h.html#a82005783b0058ee75e142aadf0404944":[8,0,0,0,1,4,0,3,102],
 "d8/dd6/DBCfmt_8h.html#a820eb69553ad65aaf06f6f041dd20cf9":[8,0,0,0,1,4,0,3,23],
-"d8/dd6/DBCfmt_8h.html#a85ab47c77236ce9c9e7d7434943df7b8":[8,0,0,0,1,4,0,3,53],
-"d8/dd6/DBCfmt_8h.html#a869276e5adcc0d86a807b7060e965c3c":[8,0,0,0,1,4,0,3,76]
+"d8/dd6/DBCfmt_8h.html#a85ab47c77236ce9c9e7d7434943df7b8":[8,0,0,0,1,4,0,3,53]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX422 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#a8cf213a45cc881f9486a730dd18d0a92":[5,0,34,18,16],
+"df/dd9/classWorldPackets_1_1Array.html#a8cf213a45cc881f9486a730dd18d0a92":[7,0,13,18,16],
+"df/dd9/classWorldPackets_1_1Array.html#a974cea46868d70d22b04745d92a1860f":[5,0,34,18,20],
+"df/dd9/classWorldPackets_1_1Array.html#a974cea46868d70d22b04745d92a1860f":[7,0,13,18,20],
 "df/dd9/classWorldPackets_1_1Array.html#aa48bde3281324c7dc98f43f37ba96266":[7,0,13,18,9],
 "df/dd9/classWorldPackets_1_1Array.html#aa48bde3281324c7dc98f43f37ba96266":[5,0,34,18,9],
 "df/dd9/classWorldPackets_1_1Array.html#abd548ee195aee9f14bd62264024d93a3":[7,0,13,18,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX422 =
 "df/ddb/structviolet__hold__trashAI.html#ab0e73a03d6e36a35eb393127bce3dad3":[7,0,4598,9],
 "df/ddb/structviolet__hold__trashAI.html#ab189607a468514d6c472ac40e6f3d85b":[7,0,4598,4],
 "df/ddb/structviolet__hold__trashAI.html#ab2d2157977ae2482217fa8ac344b30af":[7,0,4598,1],
-"df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57":[7,0,4598,11],
-"df/ddb/structviolet__hold__trashAI.html#acd512cd3722a2edf0ca539272ded3c79":[7,0,4598,6],
-"df/ddb/structviolet__hold__trashAI.html#ad0c756eb5bef8036cb47ebcc9e6915df":[7,0,4598,2],
-"df/ddb/structviolet__hold__trashAI.html#ae98d0cd977d59cbfe567fa6e294cde7e":[7,0,4598,8],
-"df/ddb/structviolet__hold__trashAI.html#aef3db235b8e28b8e2728cb0f2fb59053":[7,0,4598,5]
+"df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57":[7,0,4598,11]
 };

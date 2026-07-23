@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/d03/structModelHeader.html#a82fa640b98fcff23b65d15ae3ecc889a":[7,0,1553,59],
 "d9/d03/structModelHeader.html#a87e3a307fb8f1346c0c4b65b5170b6af":[7,0,1553,28],
 "d9/d03/structModelHeader.html#a88e801690480b58b32839d6770a1e400":[7,0,1553,52],
 "d9/d03/structModelHeader.html#a8908876de58a5735a497ea5fe4c47cfe":[7,0,1553,23],
@@ -32,14 +33,14 @@ var NAVTREEINDEX241 =
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[7,0,3878,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[7,0,0,4,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,0,7,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,7,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[7,0,0,4,0,1,2],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,7,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,0,7,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,7,0,1,1],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[7,0,0,4,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,0,7,0,1,3],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,7,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[7,0,0,4,0,1,3],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,0,7,0,1,3],
 "d9/d08/classMapPreloadRequest.html":[7,0,1521],
 "d9/d08/classMapPreloadRequest.html#a688f4e2c5517c29c10c0810325211b50":[7,0,1521,1],
 "d9/d08/classMapPreloadRequest.html#aa207469ff8369f9b5559b35404d16847":[7,0,1521,2],
@@ -111,12 +112,12 @@ var NAVTREEINDEX241 =
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,34,10,4,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[7,0,13,10,4,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,34,10,4,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,34,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[7,0,13,10,4,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,34,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,34,10,4,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,34,10,4,1],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[7,0,2636],
 "d9/d13/classspell__anubisath__mortal__strike.html#a3c5a192302ec6d531037f8b5da1565f2":[7,0,2636,2],
 "d9/d13/classspell__anubisath__mortal__strike.html#a5945e24db52c6bacae7221b085dc877b":[7,0,2636,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d20/classWhoListPlayerInfo.html#af4aafb1613b7228aa321855e4984a413":[7,0,4634,7],
 "d9/d20/classWhoListPlayerInfo.html#afc57c7cbfab62a5ca76015f6934eeb12":[7,0,4634,24],
 "d9/d21/instance__old__hillsbrad_8cpp.html":[8,0,0,0,1,3,4,1,2,3],
-"d9/d21/instance__old__hillsbrad_8cpp.html#a04c9058e75a93a56057912eb1c896bd0":[8,0,0,0,1,3,4,1,2,3,4],
-"d9/d21/instance__old__hillsbrad_8cpp.html#a2b3faa69a9526f156ca7bae70c720075":[8,0,0,0,1,3,4,1,2,3,2]
+"d9/d21/instance__old__hillsbrad_8cpp.html#a04c9058e75a93a56057912eb1c896bd0":[8,0,0,0,1,3,4,1,2,3,4]
 };

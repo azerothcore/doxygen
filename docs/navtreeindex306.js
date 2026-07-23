@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"db/dca/structboss__rajaxx.html#a8dad79921559359b6aa7149641925fe5":[7,0,683,2],
 "db/dca/structboss__rajaxx.html#a9231a20150ed6eae0cbc79c8386f7371":[7,0,683,1],
 "db/dca/structboss__rajaxx.html#a9b949bea61ceb45ec1b3e452f218c227":[7,0,683,3],
 "db/dca/structboss__rajaxx.html#afca05f7afabb4c0e181ce3757acb3bcb":[7,0,683,0],
@@ -12,10 +13,10 @@ var NAVTREEINDEX306 =
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[8,0,0,0,1,1,0,17,11],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[7,0,7,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[7,0,7,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[7,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[7,0,7,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[7,0,3905],
@@ -191,12 +192,12 @@ var NAVTREEINDEX306 =
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html#adae41617f38a71ccec183f419d677cfd":[7,0,3046,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[7,0,13,7,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[5,0,34,7,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[7,0,13,7,1,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[5,0,34,7,1,1],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[7,0,13,7,1,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[7,0,13,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,34,7,1,2],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[7,0,13,7,1,0],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[5,0,34,7,1,0],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[7,0,13,7,1,0],
 "db/dd3/icecrown__citadel_8cpp.html":[8,0,0,0,1,3,5,6,12],
 "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1":[8,0,0,0,1,3,5,6,12,82],
 "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92":[8,0,0,0,1,3,5,6,12,82,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca69dcb1b68764f166b4a264804923daa8":[8,0,0,0,1,3,5,6,12,88,13],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca748c886ad604af3db71d021ecb7f3b52":[8,0,0,0,1,3,5,6,12,88,26],
 "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[8,0,0,0,1,3,5,6,12,88,31],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca84bf54ddc9f0c3d4d4b0723b0deee624":[8,0,0,0,1,3,5,6,12,88,21],
-"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca87a0b544898d104fdb12cce43f5a017c":[8,0,0,0,1,3,5,6,12,88,23]
+"db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca84bf54ddc9f0c3d4d4b0723b0deee624":[8,0,0,0,1,3,5,6,12,88,21]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[8,0,0,0,1,3,5,9,2,1,12,4],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a8af35ba8d407858ebd5eb5ccebd0fcf5":[8,0,0,0,1,3,5,9,2,1,12,5],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a94c76b59138e1ce34314b5bd42963b03":[8,0,0,0,1,3,5,9,2,1,12,6],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ab0b53acc2b4505b4fea9d904562757d0":[8,0,0,0,1,3,5,9,2,1,12,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "d9/d92/Metric_8h.html#ad88ae7d281622a32a700443aa3dc51f9":[8,0,0,0,0,10,1,10],
 "d9/d92/Metric_8h.html#adf91483a75eca0531263536ce38d9339":[8,0,0,0,0,10,1,11],
 "d9/d92/VehicleScript_8cpp.html":[8,0,0,0,1,2,38,0,88],
-"d9/d92/VehicleScript_8cpp.html#af505a519aaa0d7e6070eb203075ff98d":[8,0,0,0,1,2,38,0,88,0],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html":[7,0,4096]
+"d9/d92/VehicleScript_8cpp.html#af505a519aaa0d7e6070eb203075ff98d":[8,0,0,0,1,2,38,0,88,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974affaa99fd89462376a8df5c7a0ccc39ed":[8,0,0,0,1,3,7,5,2,2,23,35],
 "d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2":[8,0,0,0,1,3,7,5,2,2,25],
 "d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,2,2,25,13],
 "d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2a09a9a9b81d2121c8f6f3f298c6ccd02e":[8,0,0,0,1,3,7,5,2,2,25,4],
@@ -39,10 +40,10 @@ var NAVTREEINDEX130 =
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[8,0,0,0,1,3,7,5,2,2,27],
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html":[7,0,7,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
+"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[7,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d72/structboss__anubrekhan.html#ad748de528ca78739236b9586ddaa19bd":[7,0,396,0],
 "d4/d72/structboss__anubrekhan.html#af1a01ff6c9790e1660619767c16cfd94":[7,0,396,3],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html":[7,0,2071,0],
-"d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e":[7,0,2071,0,1],
-"d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a17a0e1e7a35f608a9ec86ce4e959b52e":[7,0,2071,0,5]
+"d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e":[7,0,2071,0,1]
 };

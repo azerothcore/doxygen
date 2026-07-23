@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"d3/def/classProcTestScenario.html#a8928fbb771f94e66af2a24c6c2a3351d":[7,0,2470,10],
 "d3/def/classProcTestScenario.html#aa5e30fdf4a8b4912a48ce12aa7763624":[7,0,2470,4],
 "d3/def/classProcTestScenario.html#aba69369df56d3d631a9a62bcde791537":[7,0,2470,0],
 "d3/def/classProcTestScenario.html#ad0ca3530818d3091ab420bd76aab8dcb":[7,0,2470,7],
@@ -25,10 +26,10 @@ var NAVTREEINDEX118 =
 "d3/df0/classAcore_1_1PowerCheck.html":[7,0,0,101],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[7,0,0,101,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,0,113,1],
-"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[7,0,0,101,3],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,0,113,3],
-"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[7,0,0,101,0],
+"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[7,0,0,101,3],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,0,113,0],
+"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[7,0,0,101,0],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[5,0,0,113,2],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[7,0,0,101,2],
 "d3/df0/classinstance__serpent__shrine.html":[7,0,1361],
@@ -42,8 +43,8 @@ var NAVTREEINDEX118 =
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a5c4d887fd352e97c10a52bb095d8e33d":[7,0,13,14,5,2],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a97d19e4fe5ccc50afaf91d58321d31ec":[5,0,34,14,5,1],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a97d19e4fe5ccc50afaf91d58321d31ec":[7,0,13,14,5,1],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#aec524e18a6a0fb666061bd08b17ff9cb":[7,0,13,14,5,0],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#aec524e18a6a0fb666061bd08b17ff9cb":[5,0,34,14,5,0],
+"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#aec524e18a6a0fb666061bd08b17ff9cb":[7,0,13,14,5,0],
 "d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html":[7,0,395,0],
 "d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html#a141aa4e5169359962d0a229434cd010a":[7,0,395,0,2],
 "d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html#a1702bb381ff62d12b8bbef7b29469048":[7,0,395,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "d3/df7/classBattlefieldMgr.html#a4d6325668521e88a17a67318970570e1":[7,0,327,19],
 "d3/df7/classBattlefieldMgr.html#a62c5a7865d10618b0db6e098a99d0230":[7,0,327,20],
 "d3/df7/classBattlefieldMgr.html#a733f42fdc343d070220e8c56f24fe4ac":[7,0,327,11],
-"d3/df7/classBattlefieldMgr.html#a89aa3d5d27fe61a13e381f13c599de90":[7,0,327,12],
-"d3/df7/classBattlefieldMgr.html#a94f2a876f8ea677bfb8bc3acfd8f238b":[7,0,327,6]
+"d3/df7/classBattlefieldMgr.html#a89aa3d5d27fe61a13e381f13c599de90":[7,0,327,12]
 };

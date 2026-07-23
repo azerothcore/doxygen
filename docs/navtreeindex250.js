@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d7c/SpellProcChargeTest_8cpp.html#add201c56e63c8e3d4b9541d4b0ad8d1f":[8,0,0,0,2,2,0,10,12,6],
 "d9/d7c/SpellProcChargeTest_8cpp.html#af6b7ce5004d831afafdd960e76b497b9":[8,0,0,0,2,2,0,10,12,1],
 "d9/d7c/SpellProcChargeTest_8cpp.html#af9b31ad83d3c0000b3862f4271c5a670":[8,0,0,0,2,2,0,10,12,4],
 "d9/d7c/SpellProcChargeTest_8cpp.html#afdc5df5f8196781ca55254eda1bd09d0":[8,0,0,0,2,2,0,10,12,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[8,0,0,0,1,3,5,9,2,1,12],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a009ff3dd3a834eca415ba266c513203f":[8,0,0,0,1,3,5,9,2,1,12,8],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a0ca75d3d28cc8715d58618900624c42c":[8,0,0,0,1,3,5,9,2,1,12,7],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,9,2,1,12,15],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[8,0,0,0,1,3,5,9,2,1,12,4]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,9,2,1,12,15]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a85612eac22d3233e620eb11e6e1b48b0":[5,0,0,7,1,6],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[7,0,0,4,1,5],
 "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html#a9be9cfb6a40c527e8f6b6ad381ed5b42":[5,0,0,7,1,5],
 "d9/db4/classnpc__giant__spotlight.html":[7,0,1840],
@@ -144,8 +145,8 @@ var NAVTREEINDEX254 =
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,0,137],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,0,137,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[7,0,0,125,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,0,137,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[7,0,0,125,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,0,137,1],
 "d9/dc5/classConfigValueCache.html":[7,0,921],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[7,0,921,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[7,0,921,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/dc7/npc__taxi_8cpp.html":[8,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[8,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[8,0,0,0,1,3,10,13,2,9],
-"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[8,0,0,0,1,3,10,13,2,2],
-"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[8,0,0,0,1,3,10,13,2,12]
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[8,0,0,0,1,3,10,13,2,2]
 };

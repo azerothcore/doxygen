@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/d72/classFollowerAI.html#a21a4c066ea3d6983c1b6e1f02d24cbae":[7,0,1085,21],
 "de/d72/classFollowerAI.html#a34d732db8b189e0243854ad3b87cb70f":[7,0,1085,9],
 "de/d72/classFollowerAI.html#a4111b102cd96f99de90f8c752b156325":[7,0,1085,18],
 "de/d72/classFollowerAI.html#a5a78e0409af05f030d1b3b429926773e":[7,0,1085,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[7,0,1605,0,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c1bbe079c065745782adfa13b030515":[7,0,1605,0,2],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c604dfa9deaaff7b71116b5b54c8771":[7,0,1605,0,4],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[7,0,1605,0,5],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aac071887c100f91cc7ffc545ea6439d9":[7,0,1605,0,6]
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[7,0,1605,0,5]
 };

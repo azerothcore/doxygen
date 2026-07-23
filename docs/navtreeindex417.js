@@ -1,5 +1,9 @@
 var NAVTREEINDEX417 =
 {
+"df/dc9/classCreatureScript.html#ae3f271ebb0a1fc4dca17856ef9a891ea":[7,0,957,0],
+"df/dc9/classCreatureScript.html#af19c64d23391f8b835f79bc6cf315caa":[7,0,957,3],
+"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html":[7,0,1232,0],
+"df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a509e6d8401380c326a0f565a6b903d7a":[7,0,1232,0,2],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a955625e2315008a2e36936d44f825060":[7,0,1232,0,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#af688bab2dc3d938951adb303e8b8d88b":[7,0,1232,0,1],
 "df/dcb/classspell__sha__item__mana__surge.html":[7,0,4065],
@@ -245,9 +249,5 @@ var NAVTREEINDEX417 =
 "df/dd9/classUnit.html#a035c71f6b73cfcccf15e66888206e282":[7,0,4563,127],
 "df/dd9/classUnit.html#a038c33d98f2e26e760ad1849ac6b0195":[7,0,4563,713],
 "df/dd9/classUnit.html#a03b7d419687e45a3dd0a1fc4f94398b3":[7,0,4563,598],
-"df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660":[7,0,4563,613],
-"df/dd9/classUnit.html#a0458f2adbdd0dd5b78adbbc16994d585":[7,0,4563,708],
-"df/dd9/classUnit.html#a04761e1ca5da7ae844483fabda56d432":[7,0,4563,805],
-"df/dd9/classUnit.html#a04a66c0ec19dafbd2c85574bc2e75100":[7,0,4563,4],
-"df/dd9/classUnit.html#a04eac3be7ccc3a12db515b6d2ea20f07":[7,0,4563,633]
+"df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660":[7,0,4563,613]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d26/classBattlefield.html#a8769e6e2532775a616c921f435f4afc6":[7,0,326,109],
 "d6/d26/classBattlefield.html#a884220e104b3c366e8b67f77a87ea282":[7,0,326,49],
 "d6/d26/classBattlefield.html#a89ce40ad00095262048e4d9cf079fbe0":[7,0,326,86],
 "d6/d26/classBattlefield.html#a8a4b67d63f6a5be37a1aafdb7a0c6870":[7,0,326,45],
@@ -188,8 +189,8 @@ var NAVTREEINDEX173 =
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[7,0,2995,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[7,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[7,0,13,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[7,0,13,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[7,0,13,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[7,0,13,12,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ac07e909721d1416608ea01e8819e3b00":[7,0,1338,0,5],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ac3fffb02ed557b60e22852bdd79cdc9a":[7,0,1338,0,2],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ac4a2ec6b3fb06cfd9b11486e62e076a3":[7,0,1338,0,23],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ad9242c9a8e4ea51243b8e526eb82a51b":[7,0,1338,0,21],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#add9c97be76cdb85bb0cfd24bdf5c99e9":[7,0,1338,0,13]
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ad9242c9a8e4ea51243b8e526eb82a51b":[7,0,1338,0,21]
 };

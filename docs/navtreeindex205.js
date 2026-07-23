@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e0d3ce9854a5b1d31d1604daf6703c7":[8,0,0,0,1,3,4,1,2,0,2,1],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca67c89fedb9ed5c08346fcda63bc9290f":[8,0,0,0,1,3,4,1,2,0,2,5],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cf4c32c97f8b49d7f92498043339aed":[8,0,0,0,1,3,4,1,2,0,2,4],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298cae3140193bf6c37d3cea4a80f8ce53892":[8,0,0,0,1,3,4,1,2,0,2,3],
@@ -73,10 +74,10 @@ var NAVTREEINDEX205 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ad159a5a46ab35f151177b59f32dea649":[7,0,836,0,25],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ade40ddc2750f52942911de204b74bbea":[7,0,836,0,9],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[7,0,836,0,29],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[7,0,13,14,8,0],
@@ -84,16 +85,16 @@ var NAVTREEINDEX205 =
 "d7/d9e/classboss__drakkari__colossus.html":[7,0,445],
 "d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[7,0,445,2],
 "d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[7,0,445,1],
-"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
+"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,33,1,1],
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,33,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[7,0,12,1,0],
-"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,33,1,2],
+"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html":[7,0,417,0],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a65f7fd4f73c727eeb5988d7ec77b94ce":[7,0,417,0,3],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a96e27eaba5c9e422981d78123ed9c83d":[7,0,417,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1902561b0a2faf44cb38b26e5461c372":[8,0,0,0,1,2,28,2,0,307],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19322b6db25466e154a522b8628ec334":[8,0,0,0,1,2,28,2,0,721],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa194f14c9631d37efaef6397f5ad00329":[8,0,0,0,1,2,28,2,0,1133],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19606134adb1183280e048195e3cb0f4":[8,0,0,0,1,2,28,2,0,1214],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19e68ab83b2d5503e715f09827b6aeea":[8,0,0,0,1,2,28,2,0,484]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19606134adb1183280e048195e3cb0f4":[8,0,0,0,1,2,28,2,0,1214]
 };

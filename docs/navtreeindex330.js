@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d90/classachievement__volunteer__work.html":[7,0,107],
 "dc/d90/classachievement__volunteer__work.html#a43db6e553b370f139ac376840fdf6d70":[7,0,107,0],
 "dc/d90/classachievement__volunteer__work.html#abdbbe9165d3d72d76fe685ebce5e304d":[7,0,107,1],
 "dc/d90/classspell__rog__vanish__purge.html":[7,0,4009],
@@ -19,10 +20,10 @@ var NAVTREEINDEX330 =
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e":[8,0,0,0,1,3,4,26,2,5],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967":[8,0,0,0,1,3,4,26,2,2],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6":[8,0,0,0,1,3,4,26,2,3],
-"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html":[7,0,0,5,0,12],
 "dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html":[5,0,0,8,0,12],
-"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[7,0,0,5,0,12,0],
+"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html":[7,0,0,5,0,12],
 "dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[5,0,0,8,0,12,0],
+"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[7,0,0,5,0,12,0],
 "dc/d92/structnpc__anub__ar__crusher__necromancer.html":[7,0,1633],
 "dc/d92/structnpc__anub__ar__crusher__necromancer.html#a469d30b357551c4ce77f040bea79e951":[7,0,1633,0],
 "dc/d92/structnpc__anub__ar__crusher__necromancer.html#a67889b3a207ab26b7895e2f7996359b1":[7,0,1633,2],
@@ -55,8 +56,8 @@ var NAVTREEINDEX330 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[7,0,0,77,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[7,0,0,77,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,0,89,5],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,0,89,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[7,0,0,77,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,0,89,0],
 "dc/d97/classspell__warl__seduction.html":[7,0,4299],
 "dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[7,0,4299,0],
 "dc/d97/classspell__warl__seduction.html#a7596065e5ffcacf099a5984f5d940c11":[7,0,4299,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a400b6883120411ec56a2dfbd882d4a9a":[8,0,0,0,1,2,16,7,18,6,18],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4078ca445ad8622845aafa78d7a16062":[8,0,0,0,1,2,16,7,18,6,0],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504":[8,0,0,0,1,2,16,7,18,6,6],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a68f96a81d73ae2cd5bf6197a0b0eda00":[8,0,0,0,1,2,16,7,18,6,17],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a6a2bbe4239fa0fc43704eb5ca72a3add":[8,0,0,0,1,2,16,7,18,6,15]
+"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a68f96a81d73ae2cd5bf6197a0b0eda00":[8,0,0,0,1,2,16,7,18,6,17]
 };

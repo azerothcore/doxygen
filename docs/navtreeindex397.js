@@ -1,5 +1,9 @@
 var NAVTREEINDEX397 =
 {
+"de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,10,18,13],
+"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3747],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3747,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3747,0],
 "de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3747,2],
 "de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3747,1],
 "de/dea/structnpc__corrupted__totem.html":[7,0,1734],
@@ -245,9 +249,5 @@ var NAVTREEINDEX397 =
 "de/df5/classOutdoorPvPNA.html#a312c5f2aaa35a9f83740c1bdd9772b9e":[7,0,2370,5],
 "de/df5/classOutdoorPvPNA.html#a4074a96974fe1b5e6d9149c8eee36e71":[7,0,2370,9],
 "de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[7,0,2370,1],
-"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[7,0,2370,10],
-"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[7,0,2370,2],
-"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[7,0,2370,3],
-"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[7,0,2370,0],
-"de/df5/classOutdoorPvPNA.html#ae7dd540746946513cd7bf8e29296c068":[7,0,2370,6]
+"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[7,0,2370,10]
 };

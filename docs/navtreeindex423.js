@@ -1,5 +1,9 @@
 var NAVTREEINDEX423 =
 {
+"df/ddb/structviolet__hold__trashAI.html#acd512cd3722a2edf0ca539272ded3c79":[7,0,4598,6],
+"df/ddb/structviolet__hold__trashAI.html#ad0c756eb5bef8036cb47ebcc9e6915df":[7,0,4598,2],
+"df/ddb/structviolet__hold__trashAI.html#ae98d0cd977d59cbfe567fa6e294cde7e":[7,0,4598,8],
+"df/ddb/structviolet__hold__trashAI.html#aef3db235b8e28b8e2728cb0f2fb59053":[7,0,4598,5],
 "df/ddc/classTaskScheduler.html":[7,0,4498],
 "df/ddc/classTaskScheduler.html#a0254703c6e20f5214682fbad8f96dcb2":[7,0,4498,22],
 "df/ddc/classTaskScheduler.html#a05c6f74e1be5aa699988908b3151b901":[7,0,4498,35],
@@ -245,9 +249,5 @@ var NAVTREEINDEX423 =
 "df/de7/classOutdoorPvPTF.html#aff6c829b47c073150e5f5bf5d58477da":[7,0,2373,11],
 "df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b":[7,0,2373,8],
 "df/de7/cs__cast_8cpp.html":[8,0,0,0,1,3,0,8],
-"df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,8,1],
-"df/de9/classspell__pri__power__word__shield.html":[7,0,3804],
-"df/de9/classspell__pri__power__word__shield.html#a2edd0bcaa3b026cc70f9f6b58f53f486":[7,0,3804,0],
-"df/de9/classspell__pri__power__word__shield.html#a32aaab12105c9b1c09edfa8a444ced9c":[7,0,3804,2],
-"df/de9/classspell__pri__power__word__shield.html#aaf1e16dbc8d33aadcbf74dc4cebe715b":[7,0,3804,1]
+"df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,8,1]
 };

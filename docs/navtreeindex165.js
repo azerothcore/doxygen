@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[7,0,1367,0,25],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[7,0,1367,0,4],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[7,0,1367,0,23],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[7,0,1367,0,32],
@@ -138,10 +139,10 @@ var NAVTREEINDEX165 =
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1003],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1003,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1003,9],
@@ -166,16 +167,16 @@ var NAVTREEINDEX165 =
 "d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
 "d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
+"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[7,0,0,65,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[5,0,0,77,1],
-"d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,77,2],
+"d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[7,0,0,65,2],
+"d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,77,2],
 "d5/df0/classspell__item__gift__of__the__harvester.html":[7,0,3378],
 "d5/df0/classspell__item__gift__of__the__harvester.html#a31d69034f463d552afa4063bf89271da":[7,0,3378,0],
 "d5/df0/classspell__item__gift__of__the__harvester.html#a5bb1eff829db1f7ecd3dbf61b821c328":[7,0,3378,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aa80ecce6e0b6166a6ae2407ec1135ca7c":[8,0,0,0,1,3,7,5,0,0,5,5],
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aa925b22f9bb6a6aec9ab589cdc637babd":[8,0,0,0,1,3,7,5,0,0,5,12],
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aaad93d0f29eb1ee1e6c1c617169b04dc6":[8,0,0,0,1,3,7,5,0,0,5,1],
-"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aabf88ac9dab7ac3a3c24244d70a7bd184":[8,0,0,0,1,3,7,5,0,0,5,11],
-"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aade37e2cf08e4dbeb31bab51762a6eccf":[8,0,0,0,1,3,7,5,0,0,5,4]
+"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aabf88ac9dab7ac3a3c24244d70a7bd184":[8,0,0,0,1,3,7,5,0,0,5,11]
 };

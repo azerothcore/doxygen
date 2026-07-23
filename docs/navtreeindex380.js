@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"de/d34/classspell__gordunni__trap.html":[7,0,3146],
 "de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[7,0,3146,2],
 "de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[7,0,3146,1],
 "de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[7,0,3146,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da68c1ec7408566a34bc264bd9eca1cb53":[8,0,0,0,1,2,20,1,11,3],
 "de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da795eafeca5cb33a35458e5d646975039":[8,0,0,0,1,2,20,1,11,6],
 "de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9daab8058da6edb35b7c3c459a000e9dd0c":[8,0,0,0,1,2,20,1,11,4],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9dacd9a792ab0f7517ea210ea164e3f8b9f":[8,0,0,0,1,2,20,1,11,8],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9daff365b501c0206847eac2c3d02b21961":[8,0,0,0,1,2,20,1,11,5]
+"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9dacd9a792ab0f7517ea210ea164e3f8b9f":[8,0,0,0,1,2,20,1,11,8]
 };

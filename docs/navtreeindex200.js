@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/d52/classSpellEvent.html#ac8158bfbe916ff6207b2f6608308ae24":[7,0,4414,3],
 "d7/d53/classspell__item__power__circle.html":[7,0,3432],
 "d7/d53/classspell__item__power__circle.html#a0f9174b9cf14dd8bf0c8c444600511b1":[7,0,3432,5],
 "d7/d53/classspell__item__power__circle.html#a34e2585c500c5975d6549cd1b7602b18":[7,0,3432,1],
@@ -247,7 +248,6 @@ var NAVTREEINDEX200 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1062,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0]
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1]
 };

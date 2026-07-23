@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"d6/d00/classspell__mage__arcane__potency.html#ab75f7630b98e266b08d0317bd852b1a9":[7,0,3567,1],
 "d6/d00/structObjectGuidTraits.html":[7,0,2333],
 "d6/d00/structObjectGuidTraits.html#a42e5a0249b84d4e8175a4cb65480bbcf":[7,0,2333,1],
 "d6/d00/structObjectGuidTraits.html#a77d72711ba9384384f9fd789f778e8c8":[7,0,2333,0],
@@ -98,20 +99,20 @@ var NAVTREEINDEX169 =
 "d6/d07/Tuples_8h.html#aac12e702d41e9aa126f7d39f0f295252":[8,0,0,0,0,15,39,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,0,8,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[7,0,0,5,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[7,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[5,0,0,8,6,4],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[7,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[7,0,0,5,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[5,0,0,8,6,0],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,0,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[7,0,0,5,6,7],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,0,8,6,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,0,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[7,0,0,5,6,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,0,8,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,0,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[7,0,0,5,6,2],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[7,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,0,8,6,5],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[7,0,0,5,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[7,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,0,8,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[7,0,0,5,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,0,8,6,1],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[7,0,0,5,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[7,0,2018],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be":[8,0,0,0,1,3,10,5,76,0],
 "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310":[8,0,0,0,1,3,10,5,76,1],
 "d6/d0c/go__scripts_8cpp.html#a34fc42b84d94303ffa0825e8c0f922b3":[8,0,0,0,1,3,10,5,64],
-"d6/d0c/go__scripts_8cpp.html#a34fc42b84d94303ffa0825e8c0f922b3a0dab569e9ded0955c5a53b07f71a52c1":[8,0,0,0,1,3,10,5,64,1],
-"d6/d0c/go__scripts_8cpp.html#a34fc42b84d94303ffa0825e8c0f922b3a8e249767760a017a8f397b7885544557":[8,0,0,0,1,3,10,5,64,2]
+"d6/d0c/go__scripts_8cpp.html#a34fc42b84d94303ffa0825e8c0f922b3a0dab569e9ded0955c5a53b07f71a52c1":[8,0,0,0,1,3,10,5,64,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"da/d9e/classSmartAIMgr.html#a58e82f8670d6827bd914e98bf4edb3aa":[7,0,2594,12],
 "da/d9e/classSmartAIMgr.html#a5d1a87fe89c2db59bacf496766304f3c":[7,0,2594,2],
 "da/d9e/classSmartAIMgr.html#a6f01c4d9414b194e671141aa560b1f06":[7,0,2594,13],
 "da/d9e/classSmartAIMgr.html#a710c4df0ccbc1f1112bfe45d5f2e9c52":[7,0,2594,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "da/da7/structboss__rokmar__the__crackler.html#aed9cf4a866d5e70647125a08885fb809":[7,0,692,2],
 "da/da8/classspell__dru__glyph__of__barkskin.html":[7,0,2875],
 "da/da8/classspell__dru__glyph__of__barkskin.html#a9ea55387324cbcecc72b82a58bcd9a48":[7,0,2875,1],
-"da/da8/classspell__dru__glyph__of__barkskin.html#aafa30eef7a8c8aac3699edc4afb97f19":[7,0,2875,3],
-"da/da8/classspell__dru__glyph__of__barkskin.html#ae65e0a22aab9802ed869b7fb6e823d9e":[7,0,2875,2]
+"da/da8/classspell__dru__glyph__of__barkskin.html#aafa30eef7a8c8aac3699edc4afb97f19":[7,0,2875,3]
 };

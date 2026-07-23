@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[7,0,160,9],
 "dd/db8/classnpc__massive__jormungar.html":[7,0,1980],
 "dd/db8/classnpc__massive__jormungar.html#a68e3557e967ef633ba59fa81e661b80c":[7,0,1980,2],
 "dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[7,0,1980,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a1f60bcbf3a4221c59643457106460b64":[8,0,0,0,1,3,5,9,2,10,26,25],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a242b1d7745ca37671f734c17434711d2":[8,0,0,0,1,3,5,9,2,10,26,3],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a2ebc764a08cc1d08045321a6144f533f":[8,0,0,0,1,3,5,9,2,10,26,29],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a392480db320976b99b87f1ed72a4a2cd":[8,0,0,0,1,3,5,9,2,10,26,31],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a3b2c7fcb2e459b9d83d1cf773092480c":[8,0,0,0,1,3,5,9,2,10,26,19]
+"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a392480db320976b99b87f1ed72a4a2cd":[8,0,0,0,1,3,5,9,2,10,26,31]
 };

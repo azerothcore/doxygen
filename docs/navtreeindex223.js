@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/d37/classGuild_1_1RankInfo.html#ad7ff7ee31212be87b5cb580edef3cc16":[7,0,1276,9,20],
 "d8/d37/classGuild_1_1RankInfo.html#adb568b8ad70d0b42d834af5e2bf528d2":[7,0,1276,9,4],
 "d8/d37/classGuild_1_1RankInfo.html#ae9f8001f2546582256b7d916d4f2b1d6":[7,0,1276,9,10],
 "d8/d37/classGuild_1_1RankInfo.html#aeb209d1e53f55b5b48bcd00979014eb8":[7,0,1276,9,17],
@@ -215,12 +216,12 @@ var NAVTREEINDEX223 =
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,34,8,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,34,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[7,0,13,8,9,5],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,34,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[7,0,13,8,9,1],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[7,0,13,8,9,0],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,34,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[7,0,13,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[7,0,13,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,34,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[7,0,13,8,9,3],
 "d8/d48/classspell__rog__cold__blood.html":[7,0,3980],
 "d8/d48/classspell__rog__cold__blood.html#a24faa9992523bc87df7f5ebccfb42233":[7,0,3980,2],
 "d8/d48/classspell__rog__cold__blood.html#a2e564758a050827108955f73a08e72e7":[7,0,3980,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d4b/classObject.html#a139043a10260048589bb9c61292df815":[7,0,2328,113],
 "d8/d4b/classObject.html#a16c312c58a003a2d7f33a3bbc8a95a3f":[7,0,2328,103],
 "d8/d4b/classObject.html#a190839bf696f5032a67219787ba2e772":[7,0,2328,21],
-"d8/d4b/classObject.html#a1938ffb46fe5a170588fa3ba7784b85c":[7,0,2328,25],
-"d8/d4b/classObject.html#a1ae8ab32fd7bdec9e9cc0eb4c5ba68e9":[7,0,2328,38]
+"d8/d4b/classObject.html#a1938ffb46fe5a170588fa3ba7784b85c":[7,0,2328,25]
 };

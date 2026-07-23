@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2316],
 "d8/de1/structnpc__zealot__zath.html#a146679c4eb3eec444ff1dcd9a780110a":[7,0,2316,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/df4/structnpc__sunblade__arch__mage.html#a0d0349ea507b1f8431014c55eef5ce0e":[7,0,2175,2],
 "d8/df4/structnpc__sunblade__arch__mage.html#a25cc45033c55f1099b50eab4b4f497ee":[7,0,2175,0],
 "d8/df4/structnpc__sunblade__arch__mage.html#a3289fbad5f987a3d5d9986a31a1c442f":[7,0,2175,3],
-"d8/df4/structnpc__sunblade__arch__mage.html#aa6680f06651316996868907b1d28126c":[7,0,2175,4],
-"d8/df4/structnpc__sunblade__arch__mage.html#aadeae32d691229b7b7b531175b8a5018":[7,0,2175,1]
+"d8/df4/structnpc__sunblade__arch__mage.html#aa6680f06651316996868907b1d28126c":[7,0,2175,4]
 };

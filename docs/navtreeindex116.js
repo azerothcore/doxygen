@@ -1,5 +1,6 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#a4d1280002d0ebde09c2c14930a838ff4":[7,0,1320,22],
 "d3/dd6/structinstance__blackrock__depths.html#a4d194b034dad5655ec474e6a8b1d9639":[7,0,1320,57],
 "d3/dd6/structinstance__blackrock__depths.html#a4e225faf5c7c27c703f43e1c75a0cb15":[7,0,1320,8],
 "d3/dd6/structinstance__blackrock__depths.html#a4e927a25871c83c3d5232fea65101aec":[7,0,1320,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d3/de1/boss__kologarn_8cpp.html#aa65e3b9110a22f8242eb7a6008565c52":[8,0,0,0,1,3,5,9,2,8,19],
 "d3/de1/boss__kologarn_8cpp.html#ae137fb738d524b299f3c238c8e1e464a":[8,0,0,0,1,3,5,9,2,8,20],
 "d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330e":[8,0,0,0,1,3,5,9,2,8,16],
-"d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea28824cd9e208b5a6ad23f09936b52dc1":[8,0,0,0,1,3,5,9,2,8,16,7],
-"d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea4499a262ebedae953f1dd03dea0268c8":[8,0,0,0,1,3,5,9,2,8,16,8]
+"d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330ea28824cd9e208b5a6ad23f09936b52dc1":[8,0,0,0,1,3,5,9,2,8,16,7]
 };

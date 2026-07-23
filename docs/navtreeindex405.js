@@ -1,5 +1,9 @@
 var NAVTREEINDEX405 =
 {
+"df/d37/classHyperlinkDataTokenizer.html#a4f74f1647780c9f2769443dbfeba6a7e":[7,0,1301,1],
+"df/d37/classHyperlinkDataTokenizer.html#ab497f7f0b3cab4b8c4813ba443ff1c91":[7,0,1301,3],
+"df/d38/structboss__eviscerator.html":[7,0,469],
+"df/d38/structboss__eviscerator.html#a14ec212beaa553f8f68e7718e29dcbd9":[7,0,469,2],
 "df/d38/structboss__eviscerator.html#a2228d79b63df840eb4cb28117f24dcf9":[7,0,469,0],
 "df/d38/structboss__eviscerator.html#abeac01454b05ca88a89093b0f74c4a1f":[7,0,469,4],
 "df/d38/structboss__eviscerator.html#af31de4643026e44c80252e156a39bc69":[7,0,469,1],
@@ -166,8 +170,8 @@ var NAVTREEINDEX405 =
 "df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[5,0,17,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9dd895f4dc07c128f08f05fba4f947a8":[7,0,5,2,3],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9dd895f4dc07c128f08f05fba4f947a8":[5,0,17,2,3],
-"df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[7,0,5,2,19],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[5,0,17,2,19],
+"df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[7,0,5,2,19],
 "df/d3e/classlfg_1_1LfgGroupData.html#aa272606655d08afc1763caf9311035c3":[7,0,5,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#aa272606655d08afc1763caf9311035c3":[5,0,17,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#aac29414393890237f16203443190c72b":[7,0,5,2,25],
@@ -245,9 +249,5 @@ var NAVTREEINDEX405 =
 "df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,7,1,10,18],
 "df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,7,1,10,16],
 "df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,7,1,10,19],
-"df/d42/zone__ashenvale_8cpp.html":[8,0,0,0,1,3,4,14],
-"df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[8,0,0,0,1,3,4,14,5],
-"df/d42/zone__ashenvale_8cpp.html#a44aaebd71b577ea90de1a8b853f557ed":[8,0,0,0,1,3,4,14,4],
-"df/d42/zone__ashenvale_8cpp.html#a5bc25863ec332eb1c8498f84556810c2":[8,0,0,0,1,3,4,14,3],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057":[8,0,0,0,1,3,4,14,2]
+"df/d42/zone__ashenvale_8cpp.html":[8,0,0,0,1,3,4,14]
 };

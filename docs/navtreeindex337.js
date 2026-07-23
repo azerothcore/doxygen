@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dc/dee/SpellMgr_8cpp.html#a59735a3ed46ce3add4f949e4c9e041f8":[8,0,0,0,1,2,41,8,10],
 "dc/dee/SpellMgr_8cpp.html#a70fb722e03fe637ce7c9979a00725a3c":[8,0,0,0,1,2,41,8,5],
 "dc/dee/SpellMgr_8cpp.html#aacbfece2441a495ad1e709acd28bc9b7":[8,0,0,0,1,2,41,8,13],
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[8,0,0,0,1,2,41,8,2],
@@ -133,12 +134,12 @@ var NAVTREEINDEX337 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[7,0,777,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[7,0,777,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,14,0,6],
 "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e":[8,0,0,0,1,3,2,14,0,6,1],
 "dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63":[8,0,0,0,1,3,2,14,0,6,0],
-"dc/dff/instance__uldaman_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e":[8,0,0,0,1,3,2,14,0,7],
-"dc/dff/instance__uldaman_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,14,0,5]
+"dc/dff/instance__uldaman_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e":[8,0,0,0,1,3,2,14,0,7]
 };

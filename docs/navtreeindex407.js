@@ -1,5 +1,9 @@
 var NAVTREEINDEX407 =
 {
+"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[7,0,1650,0,0],
+"df/d54/classat__ring__of__law.html":[7,0,248],
+"df/d54/classat__ring__of__law.html#a650536f556e248944921a09a110ef414":[7,0,248,1],
+"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[7,0,248,0],
 "df/d54/classat__underbog__ghazan.html":[7,0,261],
 "df/d54/classat__underbog__ghazan.html#a82d82a14a3d5c5125c331df126b9006a":[7,0,261,1],
 "df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[7,0,261,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX407 =
 "df/d65/instance__steam__vault_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,7,2,2,3,6],
 "df/d65/instance__steam__vault_8cpp.html#a944f7f7f41e047f2a4f82fb9af0b4829":[8,0,0,0,1,3,7,2,2,3,4],
 "df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6a":[8,0,0,0,1,3,7,2,2,3,3],
-"df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884":[8,0,0,0,1,3,7,2,2,3,3,1],
-"df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992":[8,0,0,0,1,3,7,2,2,3,3,0],
-"df/d65/structnpc__controller.html":[7,0,1727],
-"df/d65/structnpc__controller.html#a3c75fb509d5cf4b4d417c97b409615b1":[7,0,1727,0],
-"df/d65/structnpc__controller.html#a69628677de225d76a8c89b4626e0f32b":[7,0,1727,1]
+"df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884":[8,0,0,0,1,3,7,2,2,3,3,1]
 };

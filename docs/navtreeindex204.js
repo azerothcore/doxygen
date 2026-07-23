@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/d95/classPoolMgr.html":[7,0,2443],
 "d7/d95/classPoolMgr.html#a0507f5d6e02d54d69672158046d58889":[7,0,2443,3],
 "d7/d95/classPoolMgr.html#a050879176e76af42d4655703216399ba":[7,0,2443,6],
 "d7/d95/classPoolMgr.html#a07dd1def859a46c4c155c8d881fb2acb":[7,0,2443,39],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6233e6d3621443e4224dd31a05b3947d":[8,0,0,0,1,3,4,1,2,0,1,0],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a4bbf0643af31e91e7eda6e4ea28707ae":[8,0,0,0,1,3,4,1,2,0,5],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,1,2,0,2],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[8,0,0,0,1,3,4,1,2,0,2,2],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e0d3ce9854a5b1d31d1604daf6703c7":[8,0,0,0,1,3,4,1,2,0,2,1]
+"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[8,0,0,0,1,3,4,1,2,0,2,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/da7/classAuraScript_1_1CheckProcHandler.html#a977558dc8838a05259effc268235696a":[7,0,299,5,1],
 "db/da7/classAuraScript_1_1CheckProcHandler.html#abcb28d1a2f32402511c1e659b2f3b443":[7,0,299,5,2],
 "db/da7/classspell__item__darkmoon__card__greatness.html":[7,0,3342],
 "db/da7/classspell__item__darkmoon__card__greatness.html#a114692bbf6fd7600c56e794a5f6ddb29":[7,0,3342,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598ab74e28fb4f8552c290a9e99b0b141ff0":[8,0,0,0,1,3,10,14,64,10],
 "db/dae/npcs__special_8cpp.html#ab1a05554962315040b1cb6a2c2703598afa33fa343d181011a17f6569e48fafa0":[8,0,0,0,1,3,10,14,64,7],
 "db/dae/npcs__special_8cpp.html#abb0394a982786b5bdf274cb49a729acd":[8,0,0,0,1,3,10,14,80],
-"db/dae/npcs__special_8cpp.html#ac394506529cbfcafcad4b3aa3678f1b7":[8,0,0,0,1,3,10,14,47],
-"db/dae/npcs__special_8cpp.html#acf1d996d78c09ab94ee913fc8c170c61":[8,0,0,0,1,3,10,14,75]
+"db/dae/npcs__special_8cpp.html#ac394506529cbfcafcad4b3aa3678f1b7":[8,0,0,0,1,3,10,14,47]
 };

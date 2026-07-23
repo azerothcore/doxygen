@@ -1,5 +1,9 @@
 var NAVTREEINDEX424 =
 {
+"df/de9/classspell__pri__power__word__shield.html":[7,0,3804],
+"df/de9/classspell__pri__power__word__shield.html#a2edd0bcaa3b026cc70f9f6b58f53f486":[7,0,3804,0],
+"df/de9/classspell__pri__power__word__shield.html#a32aaab12105c9b1c09edfa8a444ced9c":[7,0,3804,2],
+"df/de9/classspell__pri__power__word__shield.html#aaf1e16dbc8d33aadcbf74dc4cebe715b":[7,0,3804,1],
 "df/dea/classspell__mt__phoenix__burn.html":[7,0,3670],
 "df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[7,0,3670,2],
 "df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[7,0,3670,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX424 =
 "df/df6/classspell__putricide__mutated__transformation.html":[7,0,3827],
 "df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3827,2],
 "df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[7,0,3827,1],
-"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[7,0,3827,3],
-"df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[7,0,3827,0],
-"df/df6/structHealthCheckEventData.html":[7,0,1288],
-"df/df6/structHealthCheckEventData.html#a2610f9688b27212eb3470f55718c61f0":[7,0,1288,0],
-"df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[7,0,1288,3]
+"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[7,0,3827,3]
 };

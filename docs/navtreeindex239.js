@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d8/df4/structnpc__sunblade__arch__mage.html#aadeae32d691229b7b7b531175b8a5018":[7,0,2175,1],
 "d8/df6/AreaBoundary_8h.html":[8,0,0,0,1,2,26,1],
 "d8/df6/TypeContainerFunctions_8h.html":[8,0,0,0,0,6,5],
 "d8/df6/TypeContainerFunctions_8h.html#a004e19a128115c0f3b2a08e3d1fb2659":[8,0,0,0,0,6,5,0],
@@ -131,12 +132,12 @@ var NAVTREEINDEX239 =
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[7,0,2357,1],
 "d8/dfc/CreatureAIRegistry_8h.html":[8,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[8,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
 "d8/dfc/structAcore_1_1unary__function.html":[5,0,0,123],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
+"d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[7,0,0,111,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[7,0,0,111,0],
+"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[7,0,558,0,8],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9":[7,0,558,0,6],
@@ -177,8 +178,8 @@ var NAVTREEINDEX239 =
 "d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac366552c654266ed276b5dfc8b840807":[8,0,0,0,1,3,2,16,6,6,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html":[7,0,0,120],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html":[5,0,0,132],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[5,0,0,132,3],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[7,0,0,120,3],
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[5,0,0,132,3],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a2910a3c0a932f2d3ea7d10d4541cbb39":[5,0,0,132,8],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a2910a3c0a932f2d3ea7d10d4541cbb39":[7,0,0,120,8],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a42fce9834443194e090e022f3f7618b0":[5,0,0,132,4],
@@ -197,8 +198,8 @@ var NAVTREEINDEX239 =
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#aae2b654236e3a85d9ba0b5ce48d5c315":[5,0,0,132,5],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[7,0,0,120,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ac484deeb43ead6b9ea73182da97ff3ba":[5,0,0,132,2],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[7,0,0,120,1],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[5,0,0,132,1],
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#ace0642ee6949a06f9b94e350b49e64c1":[7,0,0,120,1],
 "d8/dff/boss__urok__doomhowl_8cpp.html":[8,0,0,0,1,3,2,1,1,13],
 "d8/dff/boss__urok__doomhowl_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,1,1,13,2],
 "d8/dff/boss__urok__doomhowl_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,1,1,13,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d8/dff/structCalendarEvent.html#adaa40ae2ebbe9b50b1b2370d3b40d91c":[7,0,850,19],
 "d8/dff/structCalendarEvent.html#adc569b53aeb4d9892f025aa40e58750f":[7,0,850,12],
 "d8/dff/structCalendarEvent.html#addb78b7996e091a9b234c45ac7e1635c":[7,0,850,10],
-"d8/dff/structCalendarEvent.html#ae15c35f26ccf8eaaa658dfe31045551d":[7,0,850,7],
-"d8/dff/structCalendarEvent.html#ae2ad380a63bd2a0c854a236c929875f9":[7,0,850,17]
+"d8/dff/structCalendarEvent.html#ae15c35f26ccf8eaaa658dfe31045551d":[7,0,850,7]
 };

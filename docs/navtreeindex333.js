@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089a9ff71e63988ee36ea0dfb82be3941636":[8,0,0,0,1,3,2,16,7,15,0],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,2,16,7,11],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11605ffe1e4fb33916f88522429e5466":[8,0,0,0,1,3,2,16,7,11,2],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ecea0c9267d7c02bd089696692b1b85":[8,0,0,0,1,3,2,16,7,11,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dc/dcb/structnpc__jenny.html#afbd142855602bcf7a8cd8e4cc4760cf0":[7,0,1932,4],
 "dc/dcc/classspell__item__ultrasafe__transporter.html":[7,0,3482],
 "dc/dcc/classspell__item__ultrasafe__transporter.html#a14bf65690e857c6a16dfcd8e036abbbb":[7,0,3482,0],
-"dc/dcc/classspell__item__ultrasafe__transporter.html#a2ec497a2dfe2364ad9011aba8532e73c":[7,0,3482,1],
-"dc/dcc/classspell__item__ultrasafe__transporter.html#af54f926b69002b2277dad34e1773e450":[7,0,3482,3]
+"dc/dcc/classspell__item__ultrasafe__transporter.html#a2ec497a2dfe2364ad9011aba8532e73c":[7,0,3482,1]
 };

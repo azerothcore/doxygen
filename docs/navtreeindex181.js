@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca4db1a37026f4c5794eeee0f82f03257e":[8,0,0,0,1,3,4,1,0,5,10,23],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca559de54704bf485e506f5cadff10e67a":[8,0,0,0,1,3,4,1,0,5,10,19],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca56b8164eccd158728563e8bbb3919e4a":[8,0,0,0,1,3,4,1,0,5,10,21],
 "d6/d6f/hyjal_8cpp.html#a5bd342133be8c2137b831460acc9298ca58ded91cb3c92499be38f0586eb20db8":[8,0,0,0,1,3,4,1,0,5,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d79/structLootStoreItem.html#a20411103b449a9176b3bc665f909f06f":[7,0,1484,3],
 "d6/d79/structLootStoreItem.html#a374a94e34095a1beb38abca43069d0b6":[7,0,1484,11],
 "d6/d79/structLootStoreItem.html#a5a2fe7ae48508b88bbdfc70fc4035f31":[7,0,1484,10],
-"d6/d79/structLootStoreItem.html#a5df1d4fde5f3358470bd16f7ad9154c1":[7,0,1484,6],
-"d6/d79/structLootStoreItem.html#a87cc7956b131a16aee7bd5d4808193df":[7,0,1484,2]
+"d6/d79/structLootStoreItem.html#a5df1d4fde5f3358470bd16f7ad9154c1":[7,0,1484,6]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX399 =
 {
+"df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[7,0,4628,1],
+"df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[7,0,4628,0],
+"df/d05/structWebTargetSelector.html#ad21c9ac380f7b97aacc06f08f1c45974":[7,0,4628,2],
+"df/d07/boss__moira__bronzebeard_8cpp.html":[8,0,0,0,1,3,2,1,0,12],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a29a0f8102133b2b7a4725af19e7af487":[8,0,0,0,1,3,2,1,0,12,8],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a32e9e6a7e8297c20c16b2890feac65ae":[8,0,0,0,1,3,2,1,0,12,7],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,12,2],
@@ -15,12 +19,12 @@ var NAVTREEINDEX399 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[8,0,0,0,1,3,2,1,0,12,4],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[7,0,13,13,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,34,13,0],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,34,13,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[7,0,13,13,0,1],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,34,13,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[7,0,13,13,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[5,0,34,13,0,0],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,34,13,0,2],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[7,0,13,13,0,2],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,34,13,0,2],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[7,0,3664],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html#aa9f5924b3f12c666c53ddc2b9b80aeea":[7,0,3664,2],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[7,0,3664,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX399 =
 "df/d14/classPet.html#a0595dccf2ddfc73bffb69512ca6c79ce":[7,0,2399,81],
 "df/d14/classPet.html#a08deaa012267337fe991915fa6114e72":[7,0,2399,0],
 "df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7":[7,0,2399,57],
-"df/d14/classPet.html#a0f1272e143553fa21884ebad628d31c8":[7,0,2399,36],
-"df/d14/classPet.html#a10d8a224dc5726395aa872a6caaf9429":[7,0,2399,54],
-"df/d14/classPet.html#a1223cf843907fc54e5428e12b3f85de6":[7,0,2399,78],
-"df/d14/classPet.html#a13ab01f117d87d02badb7f4f4e98710b":[7,0,2399,13],
-"df/d14/classPet.html#a16d96ee5a28389b29128ede8702096ee":[7,0,2399,32]
+"df/d14/classPet.html#a0f1272e143553fa21884ebad628d31c8":[7,0,2399,36]
 };

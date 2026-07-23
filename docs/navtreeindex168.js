@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d5/dfb/classObjectMgr.html#aae223106c7e84e2dbeea81fd7a18c0ea":[7,0,2335,318],
 "d5/dfb/classObjectMgr.html#aae41970aa16dbfd5e18ee30002016502":[7,0,2335,123],
 "d5/dfb/classObjectMgr.html#aae5dd3c768f7c1d189032dadad0b3f3e":[7,0,2335,57],
 "d5/dfb/classObjectMgr.html#aae5dd401627f5f4cb92572ede8b65043":[7,0,2335,44],
@@ -195,8 +196,8 @@ var NAVTREEINDEX168 =
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[7,0,24,4],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[7,0,24,7],
 "d5/dfc/classaccount__commandscript.html#afba345af5a9da1ff68c7333015730ef3":[7,0,24,11],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[7,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[8,0,0,0,1,3,5,10,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d00/classspell__mage__arcane__potency.html#a42f67d758360e142c9434186a07c1a71":[7,0,3567,4],
 "d6/d00/classspell__mage__arcane__potency.html#a7a1066e9cde0a782db105ef32003274d":[7,0,3567,2],
 "d6/d00/classspell__mage__arcane__potency.html#a9895aa713e01c6322363c743049c1bc8":[7,0,3567,0],
-"d6/d00/classspell__mage__arcane__potency.html#aac269ad519a8c15334526629786b60b3":[7,0,3567,3],
-"d6/d00/classspell__mage__arcane__potency.html#ab75f7630b98e266b08d0317bd852b1a9":[7,0,3567,1]
+"d6/d00/classspell__mage__arcane__potency.html#aac269ad519a8c15334526629786b60b3":[7,0,3567,3]
 };

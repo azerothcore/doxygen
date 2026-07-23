@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[8,0,0,0,1,3,10,13,2,12],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2643442342f258b423a515f080a54e20":[8,0,0,0,1,3,10,13,2,5],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da3fbc05f4296e0da814e110a6f7b8f859":[8,0,0,0,1,3,10,13,2,3],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da66d02c125fcaff2b92cee6086eb94b30":[8,0,0,0,1,3,10,13,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html":[5,0,34,14,13],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[7,0,13,14,13,4],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[5,0,34,14,13,4],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[5,0,34,14,13,6],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[7,0,13,14,13,6]
 };

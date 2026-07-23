@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[7,0,3855,0],
 "db/d2a/classspell__warr__extra__proc.html":[7,0,4322],
 "db/d2a/classspell__warr__extra__proc.html#a41b42a2d219904cdaf2a714d97e500f7":[7,0,4322,0],
 "db/d2a/classspell__warr__extra__proc.html#a95c26300614ecdab588ddcc256fc1fd6":[7,0,4322,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d3a/classnpc__conversing__with__the__depths__trigger.html":[7,0,1728],
 "db/d3a/classnpc__conversing__with__the__depths__trigger.html#a55ba213da86650d44ea1493b26fdb7f2":[7,0,1728,1],
 "db/d3a/classnpc__conversing__with__the__depths__trigger.html#a61c337bfe1efb3589cf0df91d9082236":[7,0,1728,2],
-"db/d3d/classspell__igb__incinerating__blast.html":[7,0,3278],
-"db/d3d/classspell__igb__incinerating__blast.html#a0f16b4b35985d658dc185aa88ab099ed":[7,0,3278,3]
+"db/d3d/classspell__igb__incinerating__blast.html":[7,0,3278]
 };

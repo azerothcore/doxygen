@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e76c33295c4469c0995f9891c4ba780":[8,0,0,0,1,3,2,4,1,1,6],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca8934d7c1a86aa663dd516e759a774822":[8,0,0,0,1,3,2,4,1,1,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca96e3140ab635d00121baf8c0ee6a76ad":[8,0,0,0,1,3,2,4,1,1,0],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bb78e60c9b828cf088458619da656f8":[8,0,0,0,1,3,2,4,1,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af62d0d20e8f7f312c1cd57ba3816bf70":[7,0,675,0,10],
 "dc/d08/classCharacterDeleteActionIpLogger.html":[7,0,876],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a16bc6247d220c1b6c52808cb4a522c11":[7,0,876,3],
-"dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[7,0,876,0],
-"dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[7,0,876,1]
+"dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[7,0,876,0]
 };

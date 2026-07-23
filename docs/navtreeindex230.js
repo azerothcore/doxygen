@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d8/d7d/classMMapTargetData.html#a5edafa643af641922f35fe25b30540c9":[7,0,1545,2],
 "d8/d7d/classMMapTargetData.html#a7f089d873690e8ea549f6345b6598fc4":[7,0,1545,9],
 "d8/d7d/classMMapTargetData.html#a8f3a424dd9fabdfff4522487334e931e":[7,0,1545,5],
 "d8/d7d/classMMapTargetData.html#aeaf1e739388ab834e8c845fa366bbfd3":[7,0,1545,8],
@@ -229,10 +230,10 @@ var NAVTREEINDEX230 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4580,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,586,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[7,0,586,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d88/classspell__dru__primal__tenacity.html#ae63ad15db90ebe73d73e77e232f4d695":[7,0,2898,3],
 "d8/d88/classspell__dru__primal__tenacity.html#af7df70d0bd68d12032b5b57faa789a87":[7,0,2898,0],
 "d8/d8a/classByteBufferInvalidValueException.html":[7,0,845],
-"d8/d8a/classByteBufferInvalidValueException.html#a30cc1225522916e05abf95e14805d7a3":[7,0,845,1],
-"d8/d8a/classByteBufferInvalidValueException.html#a6ee22161167faf11555c6e6b15422cd8":[7,0,845,0]
+"d8/d8a/classByteBufferInvalidValueException.html#a30cc1225522916e05abf95e14805d7a3":[7,0,845,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d8/d74/classWorldSession.html#aceaa5f5dc42baa1681bbf98e538b2064":[4,1,19,527],
 "d8/d74/classWorldSession.html#aceda438e135f3dacc72ef80dabaa2c95":[4,1,19,398],
 "d8/d74/classWorldSession.html#acf3e1aef200477cf89c07f4597933efe":[4,1,19,241],
 "d8/d74/classWorldSession.html#ad07244d822b9576e992919a96327f0b8":[4,1,19,63],
@@ -184,12 +185,12 @@ var NAVTREEINDEX229 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,992,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,992,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,992,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1614],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1614,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1614,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d7d/classMMapTargetData.html#a2b5741029d07e216c6632e250e934e0a":[7,0,1545,1],
 "d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb":[7,0,1545,0],
 "d8/d7d/classMMapTargetData.html#a3547f93af46826a051f1164ac1fc9ccc":[7,0,1545,3],
-"d8/d7d/classMMapTargetData.html#a5506c303d668bbead180fe2a8c2ed48e":[7,0,1545,7],
-"d8/d7d/classMMapTargetData.html#a5edafa643af641922f35fe25b30540c9":[7,0,1545,2]
+"d8/d7d/classMMapTargetData.html#a5506c303d668bbead180fe2a8c2ed48e":[7,0,1545,7]
 };

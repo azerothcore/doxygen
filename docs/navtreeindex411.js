@@ -1,5 +1,9 @@
 var NAVTREEINDEX411 =
 {
+"df/d89/SkillDiscovery_8cpp.html#a0c80a6b86b3b7bd5e9c238efa802919b":[8,0,0,0,1,2,40,0,1],
+"df/d89/SkillDiscovery_8cpp.html#a1d624484e07efeeabc8a73a10c75ca4d":[8,0,0,0,1,2,40,0,7],
+"df/d89/SkillDiscovery_8cpp.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[8,0,0,0,1,2,40,0,3],
+"df/d89/SkillDiscovery_8cpp.html#ab50472e4f1f892eb77ce660ef00d808a":[8,0,0,0,1,2,40,0,4],
 "df/d89/SkillDiscovery_8cpp.html#ab7ec6a8662e4edd3167deb3c917d2eab":[8,0,0,0,1,2,40,0,2],
 "df/d89/SkillDiscovery_8cpp.html#abdf3c2fcf65212466dfb54053e35024c":[8,0,0,0,1,2,40,0,5],
 "df/d89/SkillDiscovery_8cpp.html#addd95f0a239a27ed32cd943aa1052019":[8,0,0,0,1,2,40,0,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX411 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a48fa8a4094331da081e93470af5a34b4":[7,0,674,0,1],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a4bd0bc39045aa42c024489957bacb630":[7,0,674,0,12],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5743d3b9db43e31b7de861338f657a3e":[7,0,674,0,0],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5cc920075198e9dfdbfae94d32099392":[7,0,674,0,3],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a643617bf24bdc575e439bcf22a8dd050":[7,0,674,0,17],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a68abd0f9cfe5dd0813d5e7e9b29e4914":[7,0,674,0,15],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a6caada5f7cd8afac81256f1ca6a57af7":[7,0,674,0,18],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c":[7,0,674,0,5]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5cc920075198e9dfdbfae94d32099392":[7,0,674,0,3]
 };

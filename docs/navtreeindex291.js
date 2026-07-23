@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,8,4,11],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,8,4,11,4],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,8,4,11,2],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,8,4,11,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d57/classCircularBuffer.html#a43ba1c722307cdbbf38f8ba1ec7f64c6":[7,0,898,10],
 "db/d57/classCircularBuffer.html#a4ad34b67dc4924addf79905732203d2a":[7,0,898,11],
 "db/d57/classCircularBuffer.html#a7509cc5ef0dd0a9f731c47b05929580c":[7,0,898,3],
-"db/d57/classCircularBuffer.html#aa2b9389da6cd912b4dd54d89ca1d69ee":[7,0,898,8],
-"db/d57/classCircularBuffer.html#aa4762ba2167d8b9560ff39328b4b3afa":[7,0,898,12]
+"db/d57/classCircularBuffer.html#aa2b9389da6cd912b4dd54d89ca1d69ee":[7,0,898,8]
 };
