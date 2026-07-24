@@ -3,6 +3,7 @@ var ulduar_8cpp =
     [ "npc_ulduar_keeper", "d4/d9e/classnpc__ulduar__keeper.html", "d4/d9e/classnpc__ulduar__keeper" ],
     [ "npc_ulduar_keeper::npc_ulduar_keeperAI", "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI.html", "d6/d93/structnpc__ulduar__keeper_1_1npc__ulduar__keeperAI" ],
     [ "spell_ulduar_energy_sap_aura", "d7/d0b/classspell__ulduar__energy__sap__aura.html", "d7/d0b/classspell__ulduar__energy__sap__aura" ],
+    [ "spell_ulduar_random_aggro_periodic", "dd/df2/classspell__ulduar__random__aggro__periodic.html", "dd/df2/classspell__ulduar__random__aggro__periodic" ],
     [ "npc_ulduar_snow_mound", "da/d76/structnpc__ulduar__snow__mound.html", "da/d76/structnpc__ulduar__snow__mound" ],
     [ "npc_ulduar_storm_tempered_keeper", "dd/d33/structnpc__ulduar__storm__tempered__keeper.html", "dd/d33/structnpc__ulduar__storm__tempered__keeper" ],
     [ "npc_ulduar_arachnopod_destroyer", "d6/d59/structnpc__ulduar__arachnopod__destroyer.html", "d6/d59/structnpc__ulduar__arachnopod__destroyer" ],

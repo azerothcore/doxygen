@@ -28,5 +28,6 @@ var classCharacterCache =
     [ "UpdateCharacterGroup", "d4/d8b/classCharacterCache.html#a7d75ec8ca02a957e2e4885e53f0ac776", null ],
     [ "UpdateCharacterGuildId", "d4/d8b/classCharacterCache.html#acac49f94f842a1cf958893e74f09892c", null ],
     [ "UpdateCharacterLevel", "d4/d8b/classCharacterCache.html#aa8a8cd9d82dcde82353b1b956a01789d", null ],
-    [ "UpdateCharacterMailCount", "d4/d8b/classCharacterCache.html#a71f60cf47d60d67a517f300757a91e98", null ]
+    [ "UpdateCharacterMailCount", "d4/d8b/classCharacterCache.html#a69754ec26c0ddb49bb120659f86b4901", null ],
+    [ "MailMgr", "d4/d8b/classCharacterCache.html#a8fed275600ca3cecb9e8e48e7f0880b1", null ]
 ];

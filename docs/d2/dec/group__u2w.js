@@ -609,7 +609,6 @@ var group__u2w =
       [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a353a7ba0eff62fdad9e13ee67af143a3", null ],
       [ "SendAreaTriggerMessage", "d8/d74/classWorldSession.html#a6578d3d0d7077a6d211016a93241e061", null ],
       [ "SendArenaTeamCommandResult", "d8/d74/classWorldSession.html#ad1fe9d70cc66e8a257ad84f0d2f7634c", null ],
-      [ "SendAttackStop", "d8/d74/classWorldSession.html#ac5bc11bdefcc756f5fa7ec9d98a90a33", null ],
       [ "SendAuctionBidderNotification", "d8/d74/classWorldSession.html#abd50ab388e3b222aac2cb85de40dc326", null ],
       [ "SendAuctionCommandResult", "d8/d74/classWorldSession.html#adad74cb45da1c9ca108bd59beb95cca0", null ],
       [ "SendAuctionHello", "d8/d74/classWorldSession.html#a02825225ab804d5f3bbcdd9ce5da981b", null ],

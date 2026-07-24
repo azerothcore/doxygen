@@ -111,6 +111,7 @@ var spell__generic_8cpp =
     [ "spell_gen_whisper_gulch_yogg_saron_whisper", "da/dc9/classspell__gen__whisper__gulch__yogg__saron__whisper.html", "da/dc9/classspell__gen__whisper__gulch__yogg__saron__whisper" ],
     [ "spell_gen_eject_all_passengers", "d6/dad/classspell__gen__eject__all__passengers.html", "d6/dad/classspell__gen__eject__all__passengers" ],
     [ "spell_gen_eject_passenger", "d3/df4/classspell__gen__eject__passenger.html", "d3/df4/classspell__gen__eject__passenger" ],
+    [ "spell_gen_ethereal_pet_aura", "d7/db6/classspell__gen__ethereal__pet__aura.html", "d7/db6/classspell__gen__ethereal__pet__aura" ],
     [ "spell_gen_charmed_unit_spell_cooldown", "d0/d12/classspell__gen__charmed__unit__spell__cooldown.html", "d0/d12/classspell__gen__charmed__unit__spell__cooldown" ],
     [ "spell_contagion_of_rot", "da/daf/classspell__contagion__of__rot.html", "da/daf/classspell__contagion__of__rot" ],
     [ "spell_silithyst", "d6/dc8/classspell__silithyst.html", "d6/dc8/classspell__silithyst" ],

@@ -380,6 +380,7 @@ var annotated_dup =
         [ "EmoteClient", "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html", "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient" ]
       ] ],
       [ "Combat", "d1/db8/namespaceWorldPackets_1_1Combat.html", [
+        [ "SAttackStop", "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html", "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop" ],
         [ "SetSheathed", "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html", "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed" ]
       ] ],
       [ "CombatLog", "d8/de5/namespaceWorldPackets_1_1CombatLog.html", [
@@ -1417,6 +1418,7 @@ var annotated_dup =
     [ "CasterAI", "de/d3a/classCasterAI.html", "de/d3a/classCasterAI" ],
     [ "CastQuill", "d2/d10/classCastQuill.html", "d2/d10/classCastQuill" ],
     [ "CastRunesEvent", "de/dd1/classCastRunesEvent.html", "de/dd1/classCastRunesEvent" ],
+    [ "CatsTargetSelector", "d3/d03/classCatsTargetSelector.html", "d3/d03/classCatsTargetSelector" ],
     [ "Cell", "df/df1/structCell.html", "df/df1/structCell" ],
     [ "CellArea", "d2/db5/structCellArea.html", "d2/db5/structCellArea" ],
     [ "CellObjectGuids", "dc/d6a/structCellObjectGuids.html", "dc/d6a/structCellObjectGuids" ],
@@ -2056,6 +2058,7 @@ var annotated_dup =
     [ "MailDraft", "d0/de9/classMailDraft.html", "d0/de9/classMailDraft" ],
     [ "MailItemInfo", "d0/d3b/structMailItemInfo.html", "d0/d3b/structMailItemInfo" ],
     [ "MailLevelReward", "df/d10/structMailLevelReward.html", "df/d10/structMailLevelReward" ],
+    [ "MailMgr", "d5/d37/classMailMgr.html", "d5/d37/classMailMgr" ],
     [ "MailReceiver", "d7/d58/classMailReceiver.html", "d7/d58/classMailReceiver" ],
     [ "MailScript", "d0/da6/classMailScript.html", "d0/da6/classMailScript" ],
     [ "MailSender", "de/d1e/classMailSender.html", "de/d1e/classMailSender" ],
@@ -3210,6 +3213,8 @@ var annotated_dup =
     [ "spell_astromancer_wrath_of_the_astromancer", "d3/dff/classspell__astromancer__wrath__of__the__astromancer.html", "d3/dff/classspell__astromancer__wrath__of__the__astromancer" ],
     [ "spell_auchenai_possess", "df/d30/classspell__auchenai__possess.html", "df/d30/classspell__auchenai__possess" ],
     [ "spell_aura_of_despair_aura", "d9/dee/classspell__aura__of__despair__aura.html", "d9/dee/classspell__aura__of__despair__aura" ],
+    [ "spell_auriaya_feral_essence_removal", "dc/de9/classspell__auriaya__feral__essence__removal.html", "dc/de9/classspell__auriaya__feral__essence__removal" ],
+    [ "spell_auriaya_feral_rush", "dc/d9e/classspell__auriaya__feral__rush.html", "dc/d9e/classspell__auriaya__feral__rush" ],
     [ "spell_auriaya_sentinel_blast", "d4/d66/classspell__auriaya__sentinel__blast.html", "d4/d66/classspell__auriaya__sentinel__blast" ],
     [ "spell_auto_repair", "d2/d1a/classspell__auto__repair.html", "d2/d1a/classspell__auto__repair" ],
     [ "spell_axe_flurry", "db/dc5/classspell__axe__flurry.html", "db/dc5/classspell__axe__flurry" ],
@@ -3593,6 +3598,7 @@ var annotated_dup =
     [ "spell_gen_eject_passenger", "d3/df4/classspell__gen__eject__passenger.html", "d3/df4/classspell__gen__eject__passenger" ],
     [ "spell_gen_elemental_shield", "de/d05/classspell__gen__elemental__shield.html", "de/d05/classspell__gen__elemental__shield" ],
     [ "spell_gen_elune_candle", "d9/df5/classspell__gen__elune__candle.html", "d9/df5/classspell__gen__elune__candle" ],
+    [ "spell_gen_ethereal_pet_aura", "d7/db6/classspell__gen__ethereal__pet__aura.html", "d7/db6/classspell__gen__ethereal__pet__aura" ],
     [ "spell_gen_feign_death_all_flags", "d6/d38/classspell__gen__feign__death__all__flags.html", "d6/d38/classspell__gen__feign__death__all__flags" ],
     [ "spell_gen_feign_death_no_dyn_flag", "da/d51/classspell__gen__feign__death__no__dyn__flag.html", "da/d51/classspell__gen__feign__death__no__dyn__flag" ],
     [ "spell_gen_feign_death_no_prevent_emotes", "df/d75/classspell__gen__feign__death__no__prevent__emotes.html", "df/d75/classspell__gen__feign__death__no__prevent__emotes" ],
@@ -4792,6 +4798,7 @@ var annotated_dup =
     [ "spell_ulduar_arachnopod_damaged_aura", "d4/de8/classspell__ulduar__arachnopod__damaged__aura.html", "d4/de8/classspell__ulduar__arachnopod__damaged__aura" ],
     [ "spell_ulduar_energy_sap_aura", "d7/d0b/classspell__ulduar__energy__sap__aura.html", "d7/d0b/classspell__ulduar__energy__sap__aura" ],
     [ "spell_ulduar_mimiron_mine_explosion", "d4/d95/classspell__ulduar__mimiron__mine__explosion.html", "d4/d95/classspell__ulduar__mimiron__mine__explosion" ],
+    [ "spell_ulduar_random_aggro_periodic", "dd/df2/classspell__ulduar__random__aggro__periodic.html", "dd/df2/classspell__ulduar__random__aggro__periodic" ],
     [ "spell_ulduar_squeezed_lifeless", "d4/da4/classspell__ulduar__squeezed__lifeless.html", "d4/da4/classspell__ulduar__squeezed__lifeless" ],
     [ "spell_ulduar_stone_grip_aura", "d6/d30/classspell__ulduar__stone__grip__aura.html", "d6/d30/classspell__ulduar__stone__grip__aura" ],
     [ "spell_ulduar_stone_grip_cast_target", "db/d52/classspell__ulduar__stone__grip__cast__target.html", "db/d52/classspell__ulduar__stone__grip__cast__target" ],

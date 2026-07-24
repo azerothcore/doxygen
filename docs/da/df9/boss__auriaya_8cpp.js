@@ -2,8 +2,11 @@ var boss__auriaya_8cpp =
 [
     [ "boss_auriaya", "d6/de4/structboss__auriaya.html", "d6/de4/structboss__auriaya" ],
     [ "npc_auriaya_sanctum_sentry", "d9/dbd/structnpc__auriaya__sanctum__sentry.html", "d9/dbd/structnpc__auriaya__sanctum__sentry" ],
+    [ "CatsTargetSelector", "d3/d03/classCatsTargetSelector.html", "d3/d03/classCatsTargetSelector" ],
     [ "npc_auriaya_feral_defender", "d1/d24/structnpc__auriaya__feral__defender.html", "d1/d24/structnpc__auriaya__feral__defender" ],
     [ "spell_auriaya_sentinel_blast", "d4/d66/classspell__auriaya__sentinel__blast.html", "d4/d66/classspell__auriaya__sentinel__blast" ],
+    [ "spell_auriaya_feral_essence_removal", "dc/de9/classspell__auriaya__feral__essence__removal.html", "dc/de9/classspell__auriaya__feral__essence__removal" ],
+    [ "spell_auriaya_feral_rush", "dc/d9e/classspell__auriaya__feral__rush.html", "dc/d9e/classspell__auriaya__feral__rush" ],
     [ "achievement_auriaya_crazy_cat_lady", "d9/d2e/classachievement__auriaya__crazy__cat__lady.html", "d9/d2e/classachievement__auriaya__crazy__cat__lady" ],
     [ "achievement_auriaya_nine_lives", "d9/d0d/classachievement__auriaya__nine__lives.html", "d9/d0d/classachievement__auriaya__nine__lives" ],
     [ "AuriayaEvents", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eac", [
@@ -13,11 +16,13 @@ var boss__auriaya_8cpp =
       [ "EVENT_GUARDIAN_SWARM", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacac3814436a3490d75a0ffd8f7f7f5547d", null ],
       [ "EVENT_SENTINEL_BLAST", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca1b3f76a6c47994411b4f2c801eca13aa", null ],
       [ "EVENT_REMOVE_IMMUNE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacad9a0308c0851420ef518b98c6e3fe192", null ],
-      [ "EVENT_RESPAWN_FERAL_DEFENDER", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca61e9650a536070a1519603b727f99bc8", null ],
       [ "EVENT_SAVAGE_POUNCE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacae0cf791545158754919cea4d5601ecb5", null ],
       [ "EVENT_RIP_FLESH", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca6fefff45657f5398bd5d2bdf73ced117", null ],
       [ "EVENT_FERAL_RUSH", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacaa0a14f5cc7673939e738dd40a99c7eaf", null ],
-      [ "EVENT_FERAL_POUNCE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca5378ddfce745b5bdbc1e2b1ab88c73b2", null ]
+      [ "EVENT_FERAL_POUNCE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca5378ddfce745b5bdbc1e2b1ab88c73b2", null ],
+      [ "EVENT_RESPAWN_DEFENDER", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacac44a41828e1058339de7941446bbe472", null ],
+      [ "EVENT_RESPAWN_DEFENDER_2", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacae6c1ecfcc4f88ab863c363cc497b4beb", null ],
+      [ "EVENT_RESPAWN_DEFENDER_3", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca72a9f41039a1dc01e44d4439613a56b1", null ]
     ] ],
     [ "AuriayaNPC", "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29f", [
       [ "NPC_FERAL_DEFENDER", "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fae9458a3edab778dc2f3052c1f6002db5", null ],
@@ -35,15 +40,23 @@ var boss__auriaya_8cpp =
       [ "SPELL_RIP_FLESH", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a0592873f13574d7eec7c84add29f668f", null ],
       [ "SPELL_STRENGTH_OF_THE_PACK", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a0755cfe44314ff437b240c064d638deb", null ],
       [ "SPELL_FERAL_ESSENCE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588adfbd3570513c2ecf5945df86c2a41c41", null ],
+      [ "SPELL_FERAL_ESSENCE_REMOVAL", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588aa7dec0cea6a579627b59432fb0b948f5", null ],
+      [ "SPELL_SUMMON_ESSENCE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a469d580ec1eea100c9fcaba6f845267a", null ],
       [ "SPELL_FERAL_POUNCE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a981644a8f04fad1b428740d878b57ba0", null ],
       [ "SPELL_FERAL_RUSH", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ac2344681f225227c5ea9efde84818d0d", null ],
+      [ "SPELL_FERAL_RUSH_2", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a9008f39090d9bbfb580846062572b841", null ],
+      [ "SPELL_SHADOW_PAWS", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a1bcd52a9750c5eedf6d65e0180f6b279", null ],
+      [ "SPELL_REDUCE_CRIT_CHANCE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ac6b6d309129023aef2bcd4f50774b016", null ],
+      [ "SPELL_RANDOM_AGGRO_PERIODIC", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a593359940eac55e87b227354f9293c98", null ],
+      [ "SPELL_PERMANENT_FEIGN_DEATH", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ae088c5aedcf64c242ca695d8b31ba6a4", null ],
+      [ "SPELL_CLEAR_ALL_DEBUFFS", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588a0b01bb6d3fb8443b07a687c16d86009d", null ],
+      [ "SPELL_DROWNED_STATE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ad504823e1543b353294b434e1d55434d", null ],
+      [ "SPELL_FULL_HEAL", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588ac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ],
       [ "SPELL_SEEPING_FERAL_ESSENCE", "da/df9/boss__auriaya_8cpp.html#a117abb10e9b9aca1e500cf8ef0ffe588adf5b9164cdd22a32dd64451fadacb543", null ]
     ] ],
     [ "Misc", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACTION_FERAL_RESPAWN", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad297856d6cb8aa1524663a5b5a282d5e", null ],
       [ "ACTION_FERAL_DEATH", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aad86c711c19c9d2a348c6b86e8ba11bb", null ],
       [ "ACTION_DESPAWN_ADDS", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
-      [ "ACTION_FERAL_DEATH_WITH_STACK", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f7f3244cd4be6c55b5eb80bfcd46024", null ],
       [ "ACTION_SENTRY_DEATH", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a653c64661203523781821f37ecd4e192", null ],
       [ "DATA_CRAZY_CAT", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4b813c76eb5434a6e5b01872739ad12", null ],
       [ "DATA_NINE_LIVES", "da/df9/boss__auriaya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a856c5a375d28eedfa9246b0c0a0ea863", null ]

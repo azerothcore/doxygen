@@ -315,7 +315,6 @@ var classObjectMgr =
     [ "RemoveCreatureFromGrid", "d5/dfb/classObjectMgr.html#aacc77cb8f7b33f634f26e6e8ea13c6a6", null ],
     [ "RemoveGameobjectFromGrid", "d5/dfb/classObjectMgr.html#aee5bf2d410bd989c8fdc396faca3d82c", null ],
     [ "RemoveVendorItem", "d5/dfb/classObjectMgr.html#a51a87889e7c90034631452539b5002b7", null ],
-    [ "ReturnOrDeleteOldMails", "d5/dfb/classObjectMgr.html#ac65b21dac480eff1abe878b87eb6b186", null ],
     [ "SetCreatureLinkedRespawn", "d5/dfb/classObjectMgr.html#ac44c306a607392440a84788b83ab00ba", null ],
     [ "SetDBCLocaleIndex", "d5/dfb/classObjectMgr.html#aff7a95599cbe0e0d5911a1a98781137d", null ],
     [ "SetHighestGuids", "d5/dfb/classObjectMgr.html#af04c04e526c0910a99ec75ac30140c38", null ],
