@@ -12,7 +12,5 @@ var structboss__noth_1_1boss__nothAI =
     [ "StartGroundPhase", "d2/de7/structboss__noth_1_1boss__nothAI.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
     [ "SummonHelper", "d2/de7/structboss__noth_1_1boss__nothAI.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
     [ "UpdateAI", "d2/de7/structboss__noth_1_1boss__nothAI.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "d2/de7/structboss__noth_1_1boss__nothAI.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "summons", "d2/de7/structboss__noth_1_1boss__nothAI.html#a4e95ad18274331e402124d4a8424cb18", null ],
     [ "timesInBalcony", "d2/de7/structboss__noth_1_1boss__nothAI.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

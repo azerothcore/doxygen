@@ -81,6 +81,8 @@ var boss__blood__prince__council_8cpp =
       [ "SPELL_KINETIC_BOMB", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca01faf2264b24003601fcd0f0af3c17a8", null ],
       [ "SPELL_SHOCK_VORTEX", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caec9a5303d03493bd357830851aff11e5", null ],
       [ "SPELL_EMPOWERED_SHOCK_VORTEX", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298cad5f8174b280671bf9b4ad3274795a6b7", null ],
+      [ "SPELL_REMOVE_EMPOWERED_BLOOD", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caaa559fee8443f54c99531fdff8d6270a", null ],
+      [ "SPELL_CLEAR_ALL_STATUS_AILMENTS", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca43d7cd1b228502552713361c29bd372e", null ],
       [ "SPELL_UNSTABLE", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa239d6bdc143db9b9cede4d82045d40f", null ],
       [ "SPELL_KINETIC_BOMB_VISUAL", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bbba3c48455b8cd80c7a1bace0a1bdc", null ],
       [ "SPELL_KINETIC_BOMB_EXPLOSION", "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca812530bc07542589a4298199dd112d6c", null ],

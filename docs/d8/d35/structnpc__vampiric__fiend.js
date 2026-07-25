@@ -1,0 +1,8 @@
+var structnpc__vampiric__fiend =
+[
+    [ "npc_vampiric_fiend", "d8/d35/structnpc__vampiric__fiend.html#a4ddef98ac3b9d166980243b0dbe821f7", null ],
+    [ "EnterEvadeMode", "d8/d35/structnpc__vampiric__fiend.html#ac9f90234d1f100c671f70b249a339314", null ],
+    [ "JustEngagedWith", "d8/d35/structnpc__vampiric__fiend.html#a6167d1529b88c3b85cf21547b89bbc98", null ],
+    [ "UpdateAI", "d8/d35/structnpc__vampiric__fiend.html#aba3a8c1bfaa1f841f820e9540bc2267a", null ],
+    [ "_scheduler", "d8/d35/structnpc__vampiric__fiend.html#a8978bf1ffc6009b29c738ebe3232887f", null ]
+];

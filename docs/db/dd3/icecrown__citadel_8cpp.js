@@ -29,6 +29,21 @@ var icecrown__citadel_8cpp =
     [ "npc_alchemist_adrianna", "d3/d4f/classnpc__alchemist__adrianna.html", "d3/d4f/classnpc__alchemist__adrianna" ],
     [ "npc_arthas_teleport_visual", "d9/d74/classnpc__arthas__teleport__visual.html", "d9/d74/classnpc__arthas__teleport__visual" ],
     [ "npc_arthas_teleport_visual::npc_arthas_teleport_visualAI", "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html", "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI" ],
+    [ "ICCOrbControllerMinionSearch", "d8/d95/classICCOrbControllerMinionSearch.html", "d8/d95/classICCOrbControllerMinionSearch" ],
+    [ "npc_icc_orb_controller", "d6/d9d/structnpc__icc__orb__controller.html", "d6/d9d/structnpc__icc__orb__controller" ],
+    [ "DarkFallenAI", "dd/d28/structDarkFallenAI.html", "dd/d28/structDarkFallenAI" ],
+    [ "npc_darkfallen_blood_knight", "db/d77/structnpc__darkfallen__blood__knight.html", "db/d77/structnpc__darkfallen__blood__knight" ],
+    [ "npc_darkfallen_noble", "df/df2/structnpc__darkfallen__noble.html", "df/df2/structnpc__darkfallen__noble" ],
+    [ "npc_vampiric_fiend", "d8/d35/structnpc__vampiric__fiend.html", "d8/d35/structnpc__vampiric__fiend" ],
+    [ "npc_darkfallen_archmage", "dd/ddc/structnpc__darkfallen__archmage.html", "dd/ddc/structnpc__darkfallen__archmage" ],
+    [ "npc_darkfallen_advisor", "df/d04/structnpc__darkfallen__advisor.html", "df/d04/structnpc__darkfallen__advisor" ],
+    [ "npc_darkfallen_tactician", "d6/d3c/structnpc__darkfallen__tactician.html", "d6/d3c/structnpc__darkfallen__tactician" ],
+    [ "go_empowering_blood_orb", "d9/d56/structgo__empowering__blood__orb.html", "d9/d56/structgo__empowering__blood__orb" ],
+    [ "spell_icc_empowered_blood", "d6/df8/classspell__icc__empowered__blood.html", "d6/df8/classspell__icc__empowered__blood" ],
+    [ "spell_icc_empowered_blood_3", "d4/d78/classspell__icc__empowered__blood__3.html", "d4/d78/classspell__icc__empowered__blood__3" ],
+    [ "spell_icc_siphon_essence", "d1/dc0/classspell__icc__siphon__essence.html", "d1/dc0/classspell__icc__siphon__essence" ],
+    [ "spell_darkfallen_blood_mirror", "d5/d90/classspell__darkfallen__blood__mirror.html", "d5/d90/classspell__darkfallen__blood__mirror" ],
+    [ "spell_generic_remove_empowered_blood", "d2/daa/classspell__generic__remove__empowered__blood.html", "d2/daa/classspell__generic__remove__empowered__blood" ],
     [ "spell_icc_stoneform_aura", "d1/d34/classspell__icc__stoneform__aura.html", "d1/d34/classspell__icc__stoneform__aura" ],
     [ "spell_icc_sprit_alarm", "dd/d2c/classspell__icc__sprit__alarm.html", "dd/d2c/classspell__icc__sprit__alarm" ],
     [ "spell_icc_geist_alarm", "d6/d8c/classspell__icc__geist__alarm.html", "d6/d8c/classspell__icc__geist__alarm" ],
@@ -86,10 +101,14 @@ var icecrown__citadel_8cpp =
       [ "ACTION_START_GAUNTLET", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa840f14c0588f0609c97c592a3413780f", null ],
       [ "ACTION_RESURRECT_CAPTAINS", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa763928c1cdc373328e1c5bbf45c54770", null ],
       [ "ACTION_CAPTAIN_DIES", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa62d87b7c4f12d67f7a3fcdd7e17faa4b", null ],
-      [ "ACTION_RESET_EVENT", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa3f45d16b7a9fe2edb41c01c0eaddad53", null ]
+      [ "ACTION_RESET_EVENT", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa3f45d16b7a9fe2edb41c01c0eaddad53", null ],
+      [ "ACTION_SIPHON_INTERRUPTED", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfae58da21aa407cbcaa8050d0b4d49efc2", null ],
+      [ "ACTION_EVADE", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa1efd1ebb79948c07da234803c164e84a", null ],
+      [ "ACTION_COMBAT", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa4907fe62657ba25ce598bf0a49f8a693", null ]
     ] ],
     [ "DataTypesICC", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1", [
-      [ "DATA_DAMNED_KILLS", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92", null ]
+      [ "DATA_DAMNED_KILLS", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92", null ],
+      [ "DATA_GUID", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1ad054869e4092482dae7634f1f9808a02", null ]
     ] ],
     [ "EventIds", "db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_AWAKEN_WARD_1", "db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a8284521dd3c95ce68fe2748319344748", null ],
@@ -211,7 +230,31 @@ var icecrown__citadel_8cpp =
       [ "SPELL_FEL_IRON_BOMB_UNDEAD", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cab2efc32bfb29c4cd01c4bef790f3a99f", null ],
       [ "SPELL_MACHINE_GUN_UNDEAD", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298caec331ddbb1996da1479f32d35b033bd3", null ],
       [ "SPELL_ROCKET_LAUNCH_UNDEAD", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cabe756b5d07f57fde75e9f48c89b1e0c4", null ],
-      [ "SPELL_SOUL_MISSILE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac1fe7428f588c6a1cd6cf964f9a8476b", null ]
+      [ "SPELL_SOUL_MISSILE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac1fe7428f588c6a1cd6cf964f9a8476b", null ],
+      [ "SPELL_EMPOWERED_BLOOD_2", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ca1cadc836252112323444534a0ffd4", null ],
+      [ "SPELL_EMPOWERED_BLOOD_3", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8473df542184e65c5ced327ffd0ecebe", null ],
+      [ "SPELL_EMPOWERED_BLOOD_4", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cafb20e2cac1bf575d7d1d75047f644de3", null ],
+      [ "SPELL_ORB_CONTROLLER_ACTIVE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca43f6230dcf54d1c3d9eb9e6cb3a7c32a", null ],
+      [ "SPELL_BLOOD_ORB_VISUAL", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cabadd7a626df644210daf83672ef422e9", null ],
+      [ "SPELL_SIPHON_ESSENCE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cae6d42205710b2e9a3bb694204a8576e4", null ],
+      [ "SPELL_VAMPIRIC_AURA", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cac3264b4827dd7cd605ca41583aa457db", null ],
+      [ "SPELL_BLOOD_MIRROR", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca099fd3cf023e8c10b7e9605967af5a87", null ],
+      [ "SPELL_BLOOD_MIRROR_2", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6eaff6a9e3e4d7b80bddae7dd0f747bc", null ],
+      [ "SPELL_BLOOD_MIRROR_DAMAGE_SHARE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cae64693d3398873e010b8f2868038fdfa", null ],
+      [ "SPELL_UNHOLY_STRIKE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca7bed553986c8f934f84be99fdb16ca6b", null ],
+      [ "SPELL_SHADOW_BOLT", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_CHAINS_OF_SHADOW", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca3f5e865777d4b541c854758d87c7d6d9", null ],
+      [ "SPELL_FIREBALL", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_AMPLIFY_MAGIC", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98", null ],
+      [ "SPELL_BLAST_WAVE", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88", null ],
+      [ "SPELL_POLYMORPH_ALLY", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e09b40fee1ace09bcae9383096cdc30", null ],
+      [ "SPELL_POLYMORPH", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f", null ],
+      [ "SPELL_LICH_SLAP", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca905dd7b6c0084c5533393a1c5526dca5", null ],
+      [ "SPELL_SHROUD_OF_SPELL_WARDING", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b1bec850787a5a1028a9b53c27a1dbb", null ],
+      [ "SPELL_DISEASE_CLOUD", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298caa61e1ada0cfbb3e19124d0d5c4b4b9d4", null ],
+      [ "SPELL_LEECHING_ROOT", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cafab28f408c3607b0d03751134293e346", null ],
+      [ "SPELL_SHADOWSTEP", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca06a46fcede8911f2df5a8196db465132", null ],
+      [ "SPELL_BLOOD_SAP", "db/dd3/icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca2ec94b372d44f9c0c2b591d64ee69188", null ]
     ] ],
     [ "SpireFrostwyrm", "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6", [
       [ "SPELL_BLIZZARD", "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a8271bf723a74d49c9a4cf81f134cf956", null ],
@@ -267,6 +310,7 @@ var icecrown__citadel_8cpp =
       [ "SAY_CROK_DEATH", "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abd9da536d8b1c0225bc2d059242ed03f", null ]
     ] ],
     [ "AddSC_icecrown_citadel", "db/dd3/icecrown__citadel_8cpp.html#a7f5b85629316855f1d0b3e872e130015", null ],
+    [ "DarkFallensEmotes", "db/dd3/icecrown__citadel_8cpp.html#afe0733c2d9edfa91aaeaafa9f4dc7a10", null ],
     [ "sesi_spells", "db/dd3/icecrown__citadel_8cpp.html#a32363ea6863e46b9be021fd6a1bf45a4", null ],
     [ "VengefulWP", "db/dd3/icecrown__citadel_8cpp.html#a1d016ea84659aa4d877239d20bf2f980", null ]
 ];

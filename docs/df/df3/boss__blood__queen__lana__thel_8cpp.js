@@ -70,7 +70,8 @@ var boss__blood__queen__lana__thel_8cpp =
       [ "SPELL_TWILIGHT_BLOODBOLT_FROM_WHIRL", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca267041234aea7e8f0799ab5668472079", null ],
       [ "SPELL_INCITE_TERROR", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ced87c12aae4403718d5009d4655e51", null ],
       [ "SPELL_BLOODBOLT_WHIRL", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca99e0e84a84c3ccfc43ff26b6ae871dac", null ],
-      [ "SPELL_ANNIHILATE", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cf42e828d39cadd23a9fd81b86a3c4b", null ]
+      [ "SPELL_ANNIHILATE", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cf42e828d39cadd23a9fd81b86a3c4b", null ],
+      [ "SPELL_CLEAR_ALL_STATUS_AILMENTS", "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca43d7cd1b228502552713361c29bd372e", null ]
     ] ],
     [ "Texts", "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_AGGRO", "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],

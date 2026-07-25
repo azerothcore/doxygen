@@ -9,7 +9,5 @@ var structboss__loatheb_1_1boss__loathebAI =
     [ "Reset", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
     [ "SummonedCreatureDies", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
     [ "UpdateAI", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "doomCounter", "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#aed5c631ede2eea27451a74ae21221325", null ]
 ];
