@@ -117,6 +117,8 @@ $(document).ready(function(){initNavTree('db/d20/instance__scarlet__monastery_8c
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">scarletmonastery.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -125,6 +127,10 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dbd/classinstance__scarlet__monastery.html">instance_scarlet_monastery</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html">instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d46/classspell__forgiveness__dummy__visual.html">spell_forgiveness_dummy_visual</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dde/classspell__transform__ghost__visual.html">spell_transform_ghost_visual</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -162,13 +168,6 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a19acf5cf631b82922ff0a2ca3149ee9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2dda8ffeef12ccba431be57e1f2b035" id="r_ad2dda8ffeef12ccba431be57e1f2b035"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035">AshbringerSpell</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a> = 28697
-, <br />
-&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a> = 28443
-<br />
- }</td></tr>
-<tr class="separator:ad2dda8ffeef12ccba431be57e1f2b035"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afb6eb4f28419b652027fad41104a6d22" id="r_afb6eb4f28419b652027fad41104a6d22"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22">DataTypes</a> { <br />
 &#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c">TYPE_MOGRAINE_AND_WHITE_EVENT</a> = 1
 , <br />
@@ -192,6 +191,17 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:afb6eb4f28419b652027fad41104a6d22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2dda8ffeef12ccba431be57e1f2b035" id="r_ad2dda8ffeef12ccba431be57e1f2b035"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035">AshbringerSpell</a> { <br />
+&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a> = 28697
+, <br />
+&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439">SPELL_FORGIVENESS_IMPACTKIT</a> = 317
+, <br />
+&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a> = 28443
+, <br />
+&#160;&#160;<a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934">SPELL_TRANSFORM_IMPACTKIT</a> =500
+<br />
+ }</td></tr>
+<tr class="separator:ad2dda8ffeef12ccba431be57e1f2b035"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -200,8 +210,8 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:afa746db7c47bc921410170f8ad86128d" id="r_afa746db7c47bc921410170f8ad86128d"><td class="memItemLeft" align="right" valign="top">float const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afa746db7c47bc921410170f8ad86128d">CATHEDRAL_PULL_RANGE</a> = 80.0f</td></tr>
-<tr class="separator:afa746db7c47bc921410170f8ad86128d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cb569e0f0b914007ee3ad82380ea82d" id="r_a6cb569e0f0b914007ee3ad82380ea82d"><td class="memItemLeft" align="right" valign="top">float constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a6cb569e0f0b914007ee3ad82380ea82d">CATHEDRAL_PULL_RANGE</a> = 80.0f</td></tr>
+<tr class="separator:a6cb569e0f0b914007ee3ad82380ea82d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
 <a id="a19acf5cf631b82922ff0a2ca3149ee9d" name="a19acf5cf631b82922ff0a2ca3149ee9d"></a>
@@ -232,39 +242,39 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51" name="a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51"></a>GO_CHAPEL_DOOR&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787" name="a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787"></a>GO_HIGH_INQUISITOR_DOOR&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587">NPC_COMMANDER_MOGRAINE</a>         = 3976,</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61">NPC_INQUISITOR_WHITEMANE</a>       = 3977,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525">NPC_SCARLET_SORCERER</a>           = 4294,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb">NPC_SCARLET_MYRIDON</a>            = 4295,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33">NPC_SCARLET_DEFENDER</a>           = 4298,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff">NPC_SCARLET_CHAPLAIN</a>           = 4299,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645">NPC_SCARLET_WIZARD</a>             = 4300,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819">NPC_SCARLET_CENTURION</a>          = 4301,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc">NPC_SCARLET_CHAMPION</a>           = 4302,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049">NPC_SCARLET_ABBOT</a>              = 4303,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf">NPC_SCARLET_MONK</a>               = 4540,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197">NPC_FAIRBANKS</a>                  = 4542,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5">NPC_HIGHLORD_MOGRAINE</a>          = 16062,</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51">GO_CHAPEL_DOOR</a>                 = 104591,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787">GO_HIGH_INQUISITOR_DOOR</a>        = 104600</div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61">NPC_INQUISITOR_WHITEMANE</a></div><div class="ttdeci">@ NPC_INQUISITOR_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:25</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51">GO_CHAPEL_DOOR</a></div><div class="ttdeci">@ GO_CHAPEL_DOOR</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:38</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787">GO_HIGH_INQUISITOR_DOOR</a></div><div class="ttdeci">@ GO_HIGH_INQUISITOR_DOOR</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:39</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049">NPC_SCARLET_ABBOT</a></div><div class="ttdeci">@ NPC_SCARLET_ABBOT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:33</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525">NPC_SCARLET_SORCERER</a></div><div class="ttdeci">@ NPC_SCARLET_SORCERER</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:26</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb">NPC_SCARLET_MYRIDON</a></div><div class="ttdeci">@ NPC_SCARLET_MYRIDON</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:27</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf">NPC_SCARLET_MONK</a></div><div class="ttdeci">@ NPC_SCARLET_MONK</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:34</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645">NPC_SCARLET_WIZARD</a></div><div class="ttdeci">@ NPC_SCARLET_WIZARD</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:30</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5">NPC_HIGHLORD_MOGRAINE</a></div><div class="ttdeci">@ NPC_HIGHLORD_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:36</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587">NPC_COMMANDER_MOGRAINE</a></div><div class="ttdeci">@ NPC_COMMANDER_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:24</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff">NPC_SCARLET_CHAPLAIN</a></div><div class="ttdeci">@ NPC_SCARLET_CHAPLAIN</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:29</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819">NPC_SCARLET_CENTURION</a></div><div class="ttdeci">@ NPC_SCARLET_CENTURION</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:31</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197">NPC_FAIRBANKS</a></div><div class="ttdeci">@ NPC_FAIRBANKS</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:35</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc">NPC_SCARLET_CHAMPION</a></div><div class="ttdeci">@ NPC_SCARLET_CHAMPION</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:32</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33">NPC_SCARLET_DEFENDER</a></div><div class="ttdeci">@ NPC_SCARLET_DEFENDER</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:28</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587">NPC_COMMANDER_MOGRAINE</a>         = 3976,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61">NPC_INQUISITOR_WHITEMANE</a>       = 3977,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525">NPC_SCARLET_SORCERER</a>           = 4294,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb">NPC_SCARLET_MYRIDON</a>            = 4295,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33">NPC_SCARLET_DEFENDER</a>           = 4298,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff">NPC_SCARLET_CHAPLAIN</a>           = 4299,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645">NPC_SCARLET_WIZARD</a>             = 4300,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819">NPC_SCARLET_CENTURION</a>          = 4301,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc">NPC_SCARLET_CHAMPION</a>           = 4302,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049">NPC_SCARLET_ABBOT</a>              = 4303,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf">NPC_SCARLET_MONK</a>               = 4540,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197">NPC_FAIRBANKS</a>                  = 4542,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5">NPC_HIGHLORD_MOGRAINE</a>          = 16062,</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51">GO_CHAPEL_DOOR</a>                 = 104591,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787">GO_HIGH_INQUISITOR_DOOR</a>        = 104600</div>
+<div class="line"><span class="lineno">   42</span>};</div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61">NPC_INQUISITOR_WHITEMANE</a></div><div class="ttdeci">@ NPC_INQUISITOR_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:27</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51">GO_CHAPEL_DOOR</a></div><div class="ttdeci">@ GO_CHAPEL_DOOR</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:40</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787">GO_HIGH_INQUISITOR_DOOR</a></div><div class="ttdeci">@ GO_HIGH_INQUISITOR_DOOR</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:41</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049">NPC_SCARLET_ABBOT</a></div><div class="ttdeci">@ NPC_SCARLET_ABBOT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:35</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525">NPC_SCARLET_SORCERER</a></div><div class="ttdeci">@ NPC_SCARLET_SORCERER</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:28</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb">NPC_SCARLET_MYRIDON</a></div><div class="ttdeci">@ NPC_SCARLET_MYRIDON</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:29</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf">NPC_SCARLET_MONK</a></div><div class="ttdeci">@ NPC_SCARLET_MONK</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:36</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645">NPC_SCARLET_WIZARD</a></div><div class="ttdeci">@ NPC_SCARLET_WIZARD</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:32</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5">NPC_HIGHLORD_MOGRAINE</a></div><div class="ttdeci">@ NPC_HIGHLORD_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:38</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587">NPC_COMMANDER_MOGRAINE</a></div><div class="ttdeci">@ NPC_COMMANDER_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:26</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff">NPC_SCARLET_CHAPLAIN</a></div><div class="ttdeci">@ NPC_SCARLET_CHAPLAIN</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:31</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819">NPC_SCARLET_CENTURION</a></div><div class="ttdeci">@ NPC_SCARLET_CENTURION</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:33</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197">NPC_FAIRBANKS</a></div><div class="ttdeci">@ NPC_FAIRBANKS</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:37</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc">NPC_SCARLET_CHAMPION</a></div><div class="ttdeci">@ NPC_SCARLET_CHAMPION</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:34</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33">NPC_SCARLET_DEFENDER</a></div><div class="ttdeci">@ NPC_SCARLET_DEFENDER</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:30</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -281,19 +291,20 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b" name="ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b"></a>SPELL_FORGIVENESS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439" name="ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439"></a>SPELL_FORGIVENESS_IMPACTKIT&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6" name="ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6"></a>SPELL_TRANSFORM_GHOST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934" name="ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934"></a>SPELL_TRANSFORM_IMPACTKIT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <span class="comment">//Highlord Mograine Spells</span></div>
-<div class="line"><span class="lineno">   45</span>    <span class="comment">//Needs Fix: Increased the visual effect of spells on hit</span></div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a>               = 28697,</div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <span class="comment">//High Inquisitor Fairbanks</span></div>
-<div class="line"><span class="lineno">   49</span>    <span class="comment">//Needs Fix: Increased the visual effect of spells on hit</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a>           = 28443</div>
-<div class="line"><span class="lineno">   51</span>};</div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a></div><div class="ttdeci">@ SPELL_TRANSFORM_GHOST</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:50</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a></div><div class="ttdeci">@ SPELL_FORGIVENESS</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:46</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
+<div class="line"><span class="lineno">  267</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a> = 28697,</div>
+<div class="line"><span class="lineno">  268</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439">SPELL_FORGIVENESS_IMPACTKIT</a> = 317,</div>
+<div class="line"><span class="lineno">  269</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a> = 28443,</div>
+<div class="line"><span class="lineno">  270</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934">SPELL_TRANSFORM_IMPACTKIT</a>=500</div>
+<div class="line"><span class="lineno">  271</span>};</div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439">SPELL_FORGIVENESS_IMPACTKIT</a></div><div class="ttdeci">@ SPELL_FORGIVENESS_IMPACTKIT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:268</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6">SPELL_TRANSFORM_GHOST</a></div><div class="ttdeci">@ SPELL_TRANSFORM_GHOST</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:269</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b">SPELL_FORGIVENESS</a></div><div class="ttdeci">@ SPELL_FORGIVENESS</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:267</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934">SPELL_TRANSFORM_IMPACTKIT</a></div><div class="ttdeci">@ SPELL_TRANSFORM_IMPACTKIT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:270</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -320,30 +331,30 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d" name="afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d"></a>DATA_DOOR_CHAPEL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485" name="afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485"></a>GAMEOBJECT_PUMPKIN_SHRINE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c">TYPE_MOGRAINE_AND_WHITE_EVENT</a> = 1,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f">TYPE_ASHBRINGER_EVENT</a>         = 2,</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb">DATA_MOGRAINE</a>                 = 3,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15">DATA_WHITEMANE</a>                = 4,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849">DATA_DOOR_WHITEMANE</a>           = 5,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a">DATA_HORSEMAN_EVENT</a>           = 6,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19">DATA_VORREL</a>                   = 7,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b">DATA_ARCANIST_DOAN</a>            = 8,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d">DATA_DOOR_CHAPEL</a>              = 9,</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485">GAMEOBJECT_PUMPKIN_SHRINE</a>     = 10</div>
-<div class="line"><span class="lineno">   67</span>};</div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d">DATA_DOOR_CHAPEL</a></div><div class="ttdeci">@ DATA_DOOR_CHAPEL</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:64</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb">DATA_MOGRAINE</a></div><div class="ttdeci">@ DATA_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:58</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15">DATA_WHITEMANE</a></div><div class="ttdeci">@ DATA_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:59</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849">DATA_DOOR_WHITEMANE</a></div><div class="ttdeci">@ DATA_DOOR_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:60</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f">TYPE_ASHBRINGER_EVENT</a></div><div class="ttdeci">@ TYPE_ASHBRINGER_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:56</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b">DATA_ARCANIST_DOAN</a></div><div class="ttdeci">@ DATA_ARCANIST_DOAN</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:63</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a">DATA_HORSEMAN_EVENT</a></div><div class="ttdeci">@ DATA_HORSEMAN_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:61</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19">DATA_VORREL</a></div><div class="ttdeci">@ DATA_VORREL</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:62</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485">GAMEOBJECT_PUMPKIN_SHRINE</a></div><div class="ttdeci">@ GAMEOBJECT_PUMPKIN_SHRINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:66</div></div>
-<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c">TYPE_MOGRAINE_AND_WHITE_EVENT</a></div><div class="ttdeci">@ TYPE_MOGRAINE_AND_WHITE_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:55</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c">TYPE_MOGRAINE_AND_WHITE_EVENT</a> = 1,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f">TYPE_ASHBRINGER_EVENT</a>         = 2,</div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb">DATA_MOGRAINE</a>                 = 3,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15">DATA_WHITEMANE</a>                = 4,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849">DATA_DOOR_WHITEMANE</a>           = 5,</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a">DATA_HORSEMAN_EVENT</a>           = 6,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19">DATA_VORREL</a>                   = 7,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b">DATA_ARCANIST_DOAN</a>            = 8,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d">DATA_DOOR_CHAPEL</a>              = 9,</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485">GAMEOBJECT_PUMPKIN_SHRINE</a>     = 10</div>
+<div class="line"><span class="lineno">   58</span>};</div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d">DATA_DOOR_CHAPEL</a></div><div class="ttdeci">@ DATA_DOOR_CHAPEL</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:55</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb">DATA_MOGRAINE</a></div><div class="ttdeci">@ DATA_MOGRAINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:49</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15">DATA_WHITEMANE</a></div><div class="ttdeci">@ DATA_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:50</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849">DATA_DOOR_WHITEMANE</a></div><div class="ttdeci">@ DATA_DOOR_WHITEMANE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:51</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f">TYPE_ASHBRINGER_EVENT</a></div><div class="ttdeci">@ TYPE_ASHBRINGER_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:47</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a4d9ae05cea1b6e2767d1a6894276681b">DATA_ARCANIST_DOAN</a></div><div class="ttdeci">@ DATA_ARCANIST_DOAN</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:54</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a6d59bbe5ba180b5d231465cb8122dc1a">DATA_HORSEMAN_EVENT</a></div><div class="ttdeci">@ DATA_HORSEMAN_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:52</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19">DATA_VORREL</a></div><div class="ttdeci">@ DATA_VORREL</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:53</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485">GAMEOBJECT_PUMPKIN_SHRINE</a></div><div class="ttdeci">@ GAMEOBJECT_PUMPKIN_SHRINE</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:57</div></div>
+<div class="ttc" id="ainstance__scarlet__monastery_8cpp_html_afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c"><div class="ttname"><a href="../../db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c">TYPE_MOGRAINE_AND_WHITE_EVENT</a></div><div class="ttdeci">@ TYPE_MOGRAINE_AND_WHITE_EVENT</div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:46</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -362,29 +373,44 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  275</span>{</div>
-<div class="line"><span class="lineno">  276</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/dbd/classinstance__scarlet__monastery.html">instance_scarlet_monastery</a>();</div>
-<div class="line"><span class="lineno">  277</span>}</div>
-<div class="ttc" id="aclassinstance__scarlet__monastery_html"><div class="ttname"><a href="../../dc/dbd/classinstance__scarlet__monastery.html">instance_scarlet_monastery</a></div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:72</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  320</span>{</div>
+<div class="line"><span class="lineno">  321</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/dbd/classinstance__scarlet__monastery.html">instance_scarlet_monastery</a>();</div>
+<div class="line"><span class="lineno">  322</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d46/classspell__forgiveness__dummy__visual.html">spell_forgiveness_dummy_visual</a>);</div>
+<div class="line"><span class="lineno">  323</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/dde/classspell__transform__ghost__visual.html">spell_transform_ghost_visual</a>);</div>
+<div class="line"><span class="lineno">  324</span>}</div>
+<div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aclassinstance__scarlet__monastery_html"><div class="ttname"><a href="../../dc/dbd/classinstance__scarlet__monastery.html">instance_scarlet_monastery</a></div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:63</div></div>
+<div class="ttc" id="aclassspell__forgiveness__dummy__visual_html"><div class="ttname"><a href="../../d5/d46/classspell__forgiveness__dummy__visual.html">spell_forgiveness_dummy_visual</a></div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:275</div></div>
+<div class="ttc" id="aclassspell__transform__ghost__visual_html"><div class="ttname"><a href="../../d7/dde/classspell__transform__ghost__visual.html">spell_transform_ghost_visual</a></div><div class="ttdef"><b>Definition</b> instance_scarlet_monastery.cpp:301</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+
 <p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="afa746db7c47bc921410170f8ad86128d" name="afa746db7c47bc921410170f8ad86128d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa746db7c47bc921410170f8ad86128d">&#9670;&#160;</a></span>CATHEDRAL_PULL_RANGE</h2>
+<a id="a6cb569e0f0b914007ee3ad82380ea82d" name="a6cb569e0f0b914007ee3ad82380ea82d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6cb569e0f0b914007ee3ad82380ea82d">&#9670;&#160;</a></span>CATHEDRAL_PULL_RANGE</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float const CATHEDRAL_PULL_RANGE = 80.0f</td>
+          <td class="memname">float constexpr CATHEDRAL_PULL_RANGE = 80.0f</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00132">instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00123">instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript::SetData()</a>.</p>
 
 </div>
 </div>
@@ -394,7 +420,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_d24bca12e9309aa7fe30851098c5d03d.html">ScarletMonastery</a></li><li class="navelem"><a class="el" href="../../db/d20/instance__scarlet__monastery_8cpp.html">instance_scarlet_monastery.cpp</a></li>
-    <li class="footer">Generated on Sat Jul 25 2026 08:00:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jul 26 2026 08:18:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

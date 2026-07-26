@@ -21,7 +21,6 @@ var boss__algalon__the__observer_8cpp =
     [ "COLLAPSING_STAR_COUNT", "d1/d43/boss__algalon__the__observer_8cpp.html#a9216c63a81a8ea3aac160f88ea487aa2", null ],
     [ "LIVING_CONSTELLATION_COUNT", "d1/d43/boss__algalon__the__observer_8cpp.html#a876b80e12cc4b361b0482e8eb4ec0090", null ],
     [ "Actions", "d1/d43/boss__algalon__the__observer_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
-      [ "ACTION_START_INTRO", "d1/d43/boss__algalon__the__observer_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66", null ],
       [ "ACTION_FINISH_INTRO", "d1/d43/boss__algalon__the__observer_8cpp.html#a250372292659bed7ae290d8621f88ccfa43b62c86140ec9df91ef965fc83cffc9", null ],
       [ "ACTION_ACTIVATE_STAR", "d1/d43/boss__algalon__the__observer_8cpp.html#a250372292659bed7ae290d8621f88ccfa9ef14524851adc9c9aa3529ea184efef", null ],
       [ "ACTION_BIG_BANG", "d1/d43/boss__algalon__the__observer_8cpp.html#a250372292659bed7ae290d8621f88ccfab779d20c5182f0b93f5bf31b794271a7", null ],
@@ -41,6 +40,7 @@ var boss__algalon__the__observer_8cpp =
       [ "EVENT_SUMMON_ALGALON", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc342ba72fc5255f5a8145b31ed9e869", null ],
       [ "EVENT_BRANN_OUTRO_1", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a03dea2ed2bcb0e0168bd2d1f9064b578", null ],
       [ "EVENT_BRANN_OUTRO_2", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0d490adc0624b98b3522effeb1c793fd", null ],
+      [ "EVENT_BRANN_REACH_TALK_POINT", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af4d245a2f89dee6be2b66db6a3d941b5", null ],
       [ "EVENT_INTRO_1", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a256fd25f172fa42871e6171e67568f28", null ],
       [ "EVENT_INTRO_2", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a33886550fcce093bd39450d188489113", null ],
       [ "EVENT_INTRO_3", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad59301158e6d930fd6318326d74e141c", null ],
@@ -76,6 +76,9 @@ var boss__algalon__the__observer_8cpp =
       [ "EVENT_DESPAWN_ALGALON_3", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a421a4f2126701e63d8ff8df0dc744daa", null ],
       [ "EVENT_DESPAWN_ALGALON_4", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9b75130cc559b3a4d7a8f7b54a7e35bb", null ],
       [ "EVENT_DESPAWN_ALGALON_5", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a49464961db5e396b652a28808d6e7efa", null ],
+      [ "EVENT_INTRO_CHANNEL", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abe6e13aebd26cae481b5c5c2f7886d35", null ],
+      [ "EVENT_INTRO_SUMMON", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaa1d3b01e5de1d6ffbfaea611c4407e4", null ],
+      [ "EVENT_INTRO_DESCEND", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a512effd66f98b6ced8996ac9f145ee07", null ],
       [ "EVENT_ARCANE_BARRAGE", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa98b5046dccbd2cdd90f928575433934", null ]
     ] ],
     [ "Misc", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
@@ -85,6 +88,7 @@ var boss__algalon__the__observer_8cpp =
       [ "POINT_BRANN_OUTRO_END", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9ac8b755298604cf0fac6542bc0fa702", null ],
       [ "POINT_ALGALON_LAND", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88075a2fc04113127901439c2a65cf26", null ],
       [ "POINT_ALGALON_OUTRO", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ada9239941fdeca976230b53b8365bdac", null ],
+      [ "POINT_ALGALON_FLOAT", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aefcf0de3837ca8b5821a2c633c863639", null ],
       [ "EVENT_ID_SUPERMASSIVE_START", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8d9c7b95bc1ba4938d9fc571eac01ecf", null ],
       [ "DATA_HAS_FED_ON_TEARS", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a79a2d18d0ea34346af6a14dddc2fbca8", null ],
       [ "DATA_HERALD_OF_THE_TITANS", "d1/d43/boss__algalon__the__observer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ca19396b97788f000a24940997be4a9", null ]
@@ -148,6 +152,7 @@ var boss__algalon__the__observer_8cpp =
       [ "SAY_ALGALON_KILL", "d1/d43/boss__algalon__the__observer_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5fa7dd948ec21d90110e121b14fe089", null ]
     ] ],
     [ "AddSC_boss_algalon_the_observer", "d1/d43/boss__algalon__the__observer_8cpp.html#a31cf025e3352070dc79f39f31508cd29", null ],
+    [ "AlgalonFloatPos", "d1/d43/boss__algalon__the__observer_8cpp.html#a693bd5b258f88757dde3446fdfdc25b4", null ],
     [ "AlgalonOutroPos", "d1/d43/boss__algalon__the__observer_8cpp.html#a2a5ed8b2830e27add9a4a215427687f9", null ],
     [ "BrannIntroSpawnPos", "d1/d43/boss__algalon__the__observer_8cpp.html#aeeb061299a20d936b10ca54816e5c9bb", null ],
     [ "BrannIntroWaypoint", "d1/d43/boss__algalon__the__observer_8cpp.html#a2cafc773a01e11477e7d163ab3c66238", null ],

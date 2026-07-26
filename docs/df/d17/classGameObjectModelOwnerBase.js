@@ -7,5 +7,6 @@ var classGameObjectModelOwnerBase =
     [ "GetPhaseMask", "df/d17/classGameObjectModelOwnerBase.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
     [ "GetPosition", "df/d17/classGameObjectModelOwnerBase.html#a82e89b7fac5f46a25519674930294ed8", null ],
     [ "GetScale", "df/d17/classGameObjectModelOwnerBase.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "df/d17/classGameObjectModelOwnerBase.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "IsSpawned", "df/d17/classGameObjectModelOwnerBase.html#ad824da6970d512c344160714cd7ec434", null ],
+    [ "IsTransport", "df/d17/classGameObjectModelOwnerBase.html#a20a14793cdbb1ed63219cd6211feadc3", null ]
 ];

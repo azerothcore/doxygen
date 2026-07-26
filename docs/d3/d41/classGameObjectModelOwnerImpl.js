@@ -8,5 +8,6 @@ var classGameObjectModelOwnerImpl =
     [ "GetPosition", "d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988", null ],
     [ "GetScale", "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
     [ "IsSpawned", "d3/d41/classGameObjectModelOwnerImpl.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "IsTransport", "d3/d41/classGameObjectModelOwnerImpl.html#a1ca672aa490bd608de30bda7501fc03e", null ],
     [ "_owner", "d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

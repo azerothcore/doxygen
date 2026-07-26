@@ -4,7 +4,7 @@ var structboss__skeram =
     [ "DoTeleport", "d2/dcf/structboss__skeram.html#a96166ddebd5906868b872c39a6755a70", null ],
     [ "EnterEvadeMode", "d2/dcf/structboss__skeram.html#ab050e31d661c8c089d175de231b0eeb2", null ],
     [ "JustDied", "d2/dcf/structboss__skeram.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "d2/dcf/structboss__skeram.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustEngagedWith", "d2/dcf/structboss__skeram.html#a7904bcd8f02209a40c9dfff8d3f5ad4b", null ],
     [ "JustSummoned", "d2/dcf/structboss__skeram.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
     [ "KilledUnit", "d2/dcf/structboss__skeram.html#a185cb6686d37e064278260ebe5fae13a", null ],
     [ "Reset", "d2/dcf/structboss__skeram.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],

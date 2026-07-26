@@ -2,6 +2,8 @@ var instance__scarlet__monastery_8cpp =
 [
     [ "instance_scarlet_monastery", "dc/dbd/classinstance__scarlet__monastery.html", "dc/dbd/classinstance__scarlet__monastery" ],
     [ "instance_scarlet_monastery::instance_scarlet_monastery_InstanceMapScript", "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html", "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript" ],
+    [ "spell_forgiveness_dummy_visual", "d5/d46/classspell__forgiveness__dummy__visual.html", "d5/d46/classspell__forgiveness__dummy__visual" ],
+    [ "spell_transform_ghost_visual", "d7/dde/classspell__transform__ghost__visual.html", "d7/dde/classspell__transform__ghost__visual" ],
     [ "AshbringerEventMisc", "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9d", [
       [ "NPC_COMMANDER_MOGRAINE", "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587", null ],
       [ "NPC_INQUISITOR_WHITEMANE", "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da097781861b71fede32d782fa6683de61", null ],
@@ -21,7 +23,9 @@ var instance__scarlet__monastery_8cpp =
     ] ],
     [ "AshbringerSpell", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035", [
       [ "SPELL_FORGIVENESS", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b", null ],
-      [ "SPELL_TRANSFORM_GHOST", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6", null ]
+      [ "SPELL_FORGIVENESS_IMPACTKIT", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439", null ],
+      [ "SPELL_TRANSFORM_GHOST", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6", null ],
+      [ "SPELL_TRANSFORM_IMPACTKIT", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934", null ]
     ] ],
     [ "DataTypes", "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "TYPE_MOGRAINE_AND_WHITE_EVENT", "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c", null ],
@@ -36,5 +40,5 @@ var instance__scarlet__monastery_8cpp =
       [ "GAMEOBJECT_PUMPKIN_SHRINE", "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485", null ]
     ] ],
     [ "AddSC_instance_scarlet_monastery", "db/d20/instance__scarlet__monastery_8cpp.html#a67ff809187d02c20986ede33691ed9b2", null ],
-    [ "CATHEDRAL_PULL_RANGE", "db/d20/instance__scarlet__monastery_8cpp.html#afa746db7c47bc921410170f8ad86128d", null ]
+    [ "CATHEDRAL_PULL_RANGE", "db/d20/instance__scarlet__monastery_8cpp.html#a6cb569e0f0b914007ee3ad82380ea82d", null ]
 ];

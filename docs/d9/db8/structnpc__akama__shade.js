@@ -11,7 +11,6 @@ var structnpc__akama__shade =
     [ "sGossipSelect", "d9/db8/structnpc__akama__shade.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
     [ "UpdateAI", "d9/db8/structnpc__akama__shade.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
     [ "_died", "d9/db8/structnpc__akama__shade.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
-    [ "_generators", "d9/db8/structnpc__akama__shade.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
     [ "_sayLowHealth", "d9/db8/structnpc__akama__shade.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
     [ "instance", "d9/db8/structnpc__akama__shade.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

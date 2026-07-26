@@ -21,6 +21,7 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "SpawnHodirChests", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a8f797cc9fd11c4483cf900e11b400a7a", null ],
     [ "SpawnLeviathanEncounterVehicles", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5088f3f2083ec3ed5ba3466abea76252", null ],
     [ "Update", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a10e90c445612261f1433d9323d4b6469", null ],
+    [ "_algalonResummonPending", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab8ab0683dd5ba257a34d7f900bc06dae", null ],
     [ "_events", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a47588681fe4458e29d1867e908c4998b", null ],
     [ "_hmHodir", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab77f8f29c1a367e25934f94e2ddf91f7", null ],
     [ "_leviathanTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7256ef4116fe178f6e6bc4fb2ccdedc4", null ],

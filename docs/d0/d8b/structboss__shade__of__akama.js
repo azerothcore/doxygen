@@ -7,6 +7,6 @@ var structboss__shade__of__akama =
     [ "Reset", "d0/d8b/structboss__shade__of__akama.html#a19a1aca1a599704612ac845001895b4f", null ],
     [ "SpellHit", "d0/d8b/structboss__shade__of__akama.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
     [ "UpdateAI", "d0/d8b/structboss__shade__of__akama.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d0/d8b/structboss__shade__of__akama.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "d0/d8b/structboss__shade__of__akama.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "channelers", "d0/d8b/structboss__shade__of__akama.html#a258bbeecb517a04ab8e3bac2a753a5bd", null ],
+    [ "generators", "d0/d8b/structboss__shade__of__akama.html#a94a1010bce54768ee2dca72d4f6eec34", null ]
 ];
