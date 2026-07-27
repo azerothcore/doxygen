@@ -348,7 +348,7 @@ var searchData=
   ['text_5fberserk_345',['TEXT_BERSERK',['../dc/d30/boss__hodir_8cpp.html#ae7521b78042d15a40eb39b60a718c957a1b76ee7114f807aa35c3888381f392b9',1,'boss_hodir.cpp']]],
   ['text_5fbk_5fintro_346',['TEXT_BK_INTRO',['../d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daee186dd5d792d9cc556da9986ac9aa57',1,'trial_of_the_champion.h']]],
   ['text_5fbk_5fmeaning_347',['TEXT_BK_MEANING',['../d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da2041788576122be87da07f5cc80407a3',1,'trial_of_the_champion.h']]],
-  ['text_5fbroadcast_5fcower_348',['TEXT_BROADCAST_COWER',['../dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64a608d56f35d323aa9a56f118fb29a0b61',1,'chapter5.cpp']]],
+  ['text_5fbroadcast_5fcower_348',['TEXT_BROADCAST_COWER',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a608d56f35d323aa9a56f118fb29a0b61',1,'zone_the_scarlet_enclave.cpp']]],
   ['text_5fdeath_349',['TEXT_DEATH',['../dc/d30/boss__hodir_8cpp.html#ae7521b78042d15a40eb39b60a718c957af8b238ae98e59a1d10ffbe601b871fd7',1,'boss_hodir.cpp']]],
   ['text_5fdecahedral_5fdwarven_5fdice_350',['TEXT_DECAHEDRAL_DWARVEN_DICE',['../de/d5a/classspell__item__decahedral__dwarven__dice.html#a5d8d732ee693765b82c6c31e8ee8dff7a70628cdf2ca4d57abfe1223cff84601b',1,'spell_item_decahedral_dwarven_dice']]],
   ['text_5felder_5fkekek_5f1_351',['TEXT_ELDER_KEKEK_1',['../dd/d7d/childrens__week_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3dd8ab04a3e0ac26955fccea41590162',1,'childrens_week.cpp']]],

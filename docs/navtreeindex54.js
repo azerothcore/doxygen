@@ -1,8 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#acdd6cf9c3ae465789199977dfd1359ca":[7,0,1357,0,0],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#acf1dd616fed72cbee46589033d7b8c4e":[7,0,1357,0,3],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#ad982d547c371715e98a3cefd54527450":[7,0,1357,0,4],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#ae076d9060c48bc71d20a5a2e0cb6f530":[7,0,1357,0,31],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#ae1d25d01e7f7b51f657505f9bc56a3b2":[7,0,1357,0,6],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#af469b698af7af04c4da28ce6c1026e1d":[7,0,1357,0,27],
@@ -236,10 +233,10 @@ var NAVTREEINDEX54 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[7,0,3202,3],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[7,0,0,122,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[7,0,0,122,1],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
 "d2/d2b/classConfusedMovementGenerator.html":[7,0,923],
@@ -249,5 +246,8 @@ var NAVTREEINDEX54 =
 "d2/d2b/classConfusedMovementGenerator.html#a694dd083a1c01378e4877939f78309b8":[7,0,923,0],
 "d2/d2b/classConfusedMovementGenerator.html#a734a73ffa4008898a170b913aafce899":[7,0,923,8],
 "d2/d2b/classConfusedMovementGenerator.html#a82c2458b43334f06cae1a91224753fd3":[7,0,923,5],
-"d2/d2b/classConfusedMovementGenerator.html#a8703ba139d90194a481388a543a14de6":[7,0,923,9]
+"d2/d2b/classConfusedMovementGenerator.html#a8703ba139d90194a481388a543a14de6":[7,0,923,9],
+"d2/d2b/classConfusedMovementGenerator.html#a8f1e9d0e00517b0d7f88b4213fd25104":[7,0,923,7],
+"d2/d2b/classConfusedMovementGenerator.html#a9e2a3f0e1a99436b33a883a1ac797f43":[7,0,923,4],
+"d2/d2b/classConfusedMovementGenerator.html#ab18018803d8e194e9d2220eb8c6450ac":[7,0,923,6]
 };

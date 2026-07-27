@@ -1,8 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d73/classScriptMgr.html#aecc948fd1ff2d5869c2d4e7c3aee1071":[7,0,2563,252],
-"d2/d73/classScriptMgr.html#aecded93344c5f89e84304620d9b409c8":[7,0,2563,29],
-"d2/d73/classScriptMgr.html#aee7104d0065d40f7c507504f0547ea77":[7,0,2563,89],
 "d2/d73/classScriptMgr.html#aeeaffe3f650dbd80792cf8dc9011210c":[7,0,2563,16],
 "d2/d73/classScriptMgr.html#aeeefbd1e7754f567fab8a584e77bd9a8":[7,0,2563,69],
 "d2/d73/classScriptMgr.html#aef846d613d16bd629c82361175228753":[7,0,2563,341],
@@ -225,10 +222,10 @@ var NAVTREEINDEX69 =
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html":[5,0,34,14,9],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[5,0,34,14,9,0],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[7,0,13,14,9,0],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[5,0,34,14,9,2],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[5,0,34,14,9,1],
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[7,0,13,14,9,1],
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[5,0,34,14,9,1],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[5,0,34,14,9,3],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[7,0,13,14,9,3],
 "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html":[7,0,331,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX69 =
 "d2/d87/classnpc__dark__nucleus.html":[7,0,1768],
 "d2/d87/classnpc__dark__nucleus.html#a14459f4f41ef568decbc952fdcd4ffd5":[7,0,1768,1],
 "d2/d87/classnpc__dark__nucleus.html#a1f59ae45c1a84a6faca5a8bb62fc16fc":[7,0,1768,2],
-"d2/d87/classspell__black__temple__curse__of__vitality__aura.html":[7,0,2695]
+"d2/d87/classspell__black__temple__curse__of__vitality__aura.html":[7,0,2695],
+"d2/d87/classspell__black__temple__curse__of__vitality__aura.html#a40a98b79b445d3cebe3f195cb9c03a80":[7,0,2695,1],
+"d2/d87/classspell__black__temple__curse__of__vitality__aura.html#a44c261ff549ddf0b1dad5ae6d0ff2432":[7,0,2695,2],
+"d2/d87/classspell__black__temple__curse__of__vitality__aura.html#aef6afe014ce90711cd7628563aada2a4":[7,0,2695,0]
 };

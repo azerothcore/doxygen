@@ -1,8 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a50de6b9989b59df9b7ab2dcde0c5592a":[8,0,0,0,1,3,2,1,3,6,6,0],
-"d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61e900515aec51ba22cfdd63c1082fc7":[8,0,0,0,1,3,2,1,3,6,6,4],
-"d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6009ed4080909bdd62ab6175ce26709":[8,0,0,0,1,3,2,1,3,6,6,3],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6addfe924b2f0ce0eceb2a811186f83825":[8,0,0,0,1,3,2,1,3,6,6,5],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afb2f70eb1f6da7d3fde623dc94304bcd":[8,0,0,0,1,3,2,1,3,6,6,7],
 "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afba753ad41eca923af6245603dd0c380":[8,0,0,0,1,3,2,1,3,6,6,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX22 =
 "d0/df3/BattlegroundEY_8h.html#afe12e9c84415caf455b17f632d6aeba3ae89c96248599408451ba22818a779a72":[8,0,0,0,1,2,8,1,9,9,0],
 "d0/df3/WeatherMgr_8h.html":[4,2,3],
 "d0/df3/classspell__item__feast.html":[7,0,3392],
-"d0/df3/classspell__item__feast.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7":[7,0,3392,2]
+"d0/df3/classspell__item__feast.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7":[7,0,3392,2],
+"d0/df3/classspell__item__feast.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf":[7,0,3392,0],
+"d0/df3/classspell__item__feast.html#addbe722d9f3727578f817789e3010bab":[7,0,3392,3],
+"d0/df3/classspell__item__feast.html#af89783564da25769be15e22291717f6a":[7,0,3392,1]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
-"d1/de0/classnpc__stable__master.html":[7,0,2175],
-"d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[7,0,2175,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[7,0,2175,1],
 "d1/de1/OutdoorPvPMgr_8cpp.html":[8,0,0,0,1,2,32,2],
 "d1/de1/structQuestMenuItem.html":[7,0,2504],
@@ -249,5 +246,8 @@ var NAVTREEINDEX48 =
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a0fe9048e296d787a40432723242bf3d8":[8,0,0,0,1,3,9,2,215,3],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a11863def8598b3dc0e03477db3152fdd":[8,0,0,0,1,3,9,2,215,35],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a13ed09bab4d7f0f08aaf3549e14d73e5":[8,0,0,0,1,3,9,2,215,20],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a1c4da6655bb56c8ba901a578cfae055c":[8,0,0,0,1,3,9,2,215,26]
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a1c4da6655bb56c8ba901a578cfae055c":[8,0,0,0,1,3,9,2,215,26],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a265d9569eea6e841d7c759652cbeac75":[8,0,0,0,1,3,9,2,215,29],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a2be7c82f16e390459bfeb49dc086674c":[8,0,0,0,1,3,9,2,215,25],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3405b52166828001c0c08676dc52ad43":[8,0,0,0,1,3,9,2,215,2]
 };

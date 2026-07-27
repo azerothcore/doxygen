@@ -1,8 +1,5 @@
 var NAVTREEINDEX58 =
 {
-"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a73f775b30ad36a595e0d8532067ba042":[7,0,529,0,5],
-"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a74aea4294c26414d3b60983d14d36e31":[7,0,529,0,4],
-"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3":[7,0,529,0,1],
 "d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#ac26671336eec2d84b56a3552d50f8e0a":[7,0,529,0,0],
 "d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#af1b8dafb0aa47ba22b3601d8bf639c22":[7,0,529,0,3],
 "d2/d48/PreparedStatement_8h.html":[8,0,0,0,1,1,0,23],
@@ -148,8 +145,8 @@ var NAVTREEINDEX58 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[7,0,1062,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[7,0,1062,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[7,0,1062,6],
-"d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
 "d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
+"d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
 "d2/d4a/classinstance__zulaman.html":[7,0,1390],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[7,0,1390,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[7,0,1390,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a12c144fe6e00820ed8929e0547ab04f3":[7,0,2425,416],
 "d2/d4b/classPlayer.html#a12df4ea630b3c23a5fd7658b0a672440":[7,0,2425,309],
 "d2/d4b/classPlayer.html#a134b59d7dbce095547fdfd3f2ed1cfb4":[7,0,2425,571],
-"d2/d4b/classPlayer.html#a134bcbd463d0048b59372a89f6c455af":[7,0,2425,881]
+"d2/d4b/classPlayer.html#a134bcbd463d0048b59372a89f6c455af":[7,0,2425,881],
+"d2/d4b/classPlayer.html#a1384058274c2fa617eb864e4fa699944":[7,0,2425,355],
+"d2/d4b/classPlayer.html#a13c0bf4665310c8d6b2541fe60c34f3c":[7,0,2425,721],
+"d2/d4b/classPlayer.html#a1418383e9acced614cdc50e96398f714":[7,0,2425,1020]
 };

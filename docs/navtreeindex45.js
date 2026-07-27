@@ -1,8 +1,5 @@
 var NAVTREEINDEX45 =
 {
-"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac37f9d18ead85c9dcf6e9339e1ad5a6c":[8,0,0,0,1,2,3,2,5,17,92],
-"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac54290de05514593a33dfd8939a1b0ac":[8,0,0,0,1,2,3,2,5,17,24],
-"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592":[8,0,0,0,1,2,3,2,5,17,11],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac6b42e7800fdc7486ade9da36c075ebc":[8,0,0,0,1,2,3,2,5,17,47],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad4e03433ae0f618a4973db76834d0c61":[8,0,0,0,1,2,3,2,5,17,14],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad5cc76b5f579aef51fc34146221282ea":[8,0,0,0,1,2,3,2,5,17,87],
@@ -218,10 +215,10 @@ var NAVTREEINDEX45 =
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html":[5,0,34,8,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a05dec559746537669fcf32f52a171b44":[7,0,13,8,3,0],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a05dec559746537669fcf32f52a171b44":[5,0,34,8,3,0],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[7,0,13,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[5,0,34,8,3,3],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[7,0,13,8,3,2],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[7,0,13,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[5,0,34,8,3,2],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[7,0,13,8,3,2],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[5,0,34,8,3,1],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[7,0,13,8,3,1],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html":[7,0,3794],
@@ -249,5 +246,8 @@ var NAVTREEINDEX45 =
 "d1/dc9/structboss__drakkisath.html#ac1cb21a95bbfcfbffc5a3046b233c183":[7,0,447,4],
 "d1/dc9/structboss__drakkisath.html#aec0bd29626d8b59e33bfba370788ac40":[7,0,447,3],
 "d1/dc9/structnpc__razorscale__harpoon__fire__state.html":[7,0,2122],
-"d1/dc9/structnpc__razorscale__harpoon__fire__state.html#a5bcb95382dc80bae1f4f05c306fb52bf":[7,0,2122,0]
+"d1/dc9/structnpc__razorscale__harpoon__fire__state.html#a5bcb95382dc80bae1f4f05c306fb52bf":[7,0,2122,0],
+"d1/dc9/structnpc__razorscale__harpoon__fire__state.html#a660573750d12c82394a9f911a3973e02":[7,0,2122,4],
+"d1/dc9/structnpc__razorscale__harpoon__fire__state.html#aa7a12bae703c1a7d215dc0181f9ad532":[7,0,2122,1],
+"d1/dc9/structnpc__razorscale__harpoon__fire__state.html#aad5f2d32fffaacec3485b0743f4267aa":[7,0,2122,3]
 };

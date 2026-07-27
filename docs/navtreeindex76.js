@@ -1,8 +1,5 @@
 var NAVTREEINDEX76 =
 {
-"d2/dd6/classOutdoorPvP.html#a8cb50fd8f92ea14fdbcfd1d9ded30ebe":[7,0,2368,23],
-"d2/dd6/classOutdoorPvP.html#a9be276336a495a1dc01745012829a753":[7,0,2368,21],
-"d2/dd6/classOutdoorPvP.html#aa7dedd71991c47b076b4a6f1ea4836d6":[7,0,2368,10],
 "d2/dd6/classOutdoorPvP.html#aa8761a78ff0a1882a6886fe328c9f26d":[7,0,2368,18],
 "d2/dd6/classOutdoorPvP.html#aa924cc1d9448fd7607e671d8a06f9497":[7,0,2368,35],
 "d2/dd6/classOutdoorPvP.html#aab6b1bcfcef2a332c5c58e778a4106a2":[7,0,2368,13],
@@ -42,10 +39,10 @@ var NAVTREEINDEX76 =
 "d2/dd7/RegularGrid_8h.html":[8,0,0,0,0,1,8],
 "d2/dd7/RegularGrid_8h.html#a7a4127f14f16563da90eb3c836bc404f":[8,0,0,0,0,1,8,4],
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[8,0,0,0,0,1,8,5],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html":[7,0,0,41],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,0,53],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html":[7,0,0,41],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX76 =
 "d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html":[7,0,3879],
 "d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a56dd6ce5acad6c8a10eabfc3f35879fe":[7,0,3879,0],
 "d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a5700d7cc8b52ec0351e3d7bf851274b7":[7,0,3879,2],
-"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a58dc6668172d046cef3046649928c124":[7,0,3879,1]
+"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#a58dc6668172d046cef3046649928c124":[7,0,3879,1],
+"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#afa6d5fe15882f33ae1a1d137db9caf8c":[7,0,3879,3],
+"d2/de5/namespaceAcore_1_1Encoding.html":[5,0,0,5],
+"d2/de7/MovementPacketBuilder_8cpp.html":[8,0,0,0,1,2,31,1,0]
 };

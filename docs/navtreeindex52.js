@@ -1,8 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca0867d18249c1cbe0515a67320e1ee5fd":[8,0,0,0,1,3,2,4,8,1,4],
-"d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca242b1d7745ca37671f734c17434711d2":[8,0,0,0,1,3,2,4,8,1,5],
-"d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca2ffe719e752bc84060f0f8e4242de755":[8,0,0,0,1,3,2,4,8,1,0],
 "d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,2,4,8,1,6],
 "d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca694b69d86383f665becbce0011f3470c":[8,0,0,0,1,3,2,4,8,1,7],
 "d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298ca8292be8b884e8107e42cde2aa18b44b3":[8,0,0,0,1,3,2,4,8,1,1],
@@ -39,10 +36,10 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,299,1,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,3,0],
 "d2/d19/structAuthHandler.html":[7,0,309],
@@ -249,5 +246,8 @@ var NAVTREEINDEX52 =
 "d2/d1e/classInstanceScript.html#aabf2846cb52b0f3c61e4336ae4561ec7":[7,0,1398,63],
 "d2/d1e/classInstanceScript.html#aaca04997ea7db3a265ca8d8ee453c89f":[7,0,1398,82],
 "d2/d1e/classInstanceScript.html#aacfa51e0b75db08711520ae82e4118c1":[7,0,1398,109],
-"d2/d1e/classInstanceScript.html#aad8e3e3621b18bc920d278936bf8fe5b":[7,0,1398,94]
+"d2/d1e/classInstanceScript.html#aad8e3e3621b18bc920d278936bf8fe5b":[7,0,1398,94],
+"d2/d1e/classInstanceScript.html#aae0168ac9dde4d86b5f5038814ef5aa2":[7,0,1398,54],
+"d2/d1e/classInstanceScript.html#aaf098718cd0212593342678c1eb959e2":[7,0,1398,110],
+"d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44":[7,0,1398,32]
 };

@@ -24,7 +24,7 @@ var searchData=
   ['kologarnsays_21',['KologarnSays',['../d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53c',1,'boss_kologarn.cpp']]],
   ['kologarnsounds_22',['KologarnSounds',['../d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330e',1,'boss_kologarn.cpp']]],
   ['kologarnspells_23',['KologarnSpells',['../d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89c',1,'boss_kologarn.cpp']]],
-  ['koltira_24',['Koltira',['../db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4',1,'chapter2.cpp']]],
+  ['koltira_24',['Koltira',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4',1,'zone_the_scarlet_enclave.cpp']]],
   ['korwild_25',['KorWild',['../da/da4/zone__shadowmoon__valley_8cpp.html#a1926a7ae3a01665143776b73cc14a69e',1,'zone_shadowmoon_valley.cpp']]],
   ['kservant_26',['KServant',['../de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b',1,'zone_shattrath_city.cpp']]],
   ['ktactions_27',['KTActions',['../d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1',1,'boss_kaelthas.cpp']]],

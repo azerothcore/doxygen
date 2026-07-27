@@ -99,7 +99,7 @@ var searchData=
   ['kologarnsays_96',['KologarnSays',['../d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53c',1,'boss_kologarn.cpp']]],
   ['kologarnsounds_97',['KologarnSounds',['../d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330e',1,'boss_kologarn.cpp']]],
   ['kologarnspells_98',['KologarnSpells',['../d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89c',1,'boss_kologarn.cpp']]],
-  ['koltira_99',['Koltira',['../db/da5/chapter2_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4',1,'chapter2.cpp']]],
+  ['koltira_99',['Koltira',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4',1,'zone_the_scarlet_enclave.cpp']]],
   ['koralondeath_100',['KoralonDeath',['../dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a544c022446c0ddb39797417271ec1259',1,'instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript']]],
   ['korwild_101',['KorWild',['../da/da4/zone__shadowmoon__valley_8cpp.html#a1926a7ae3a01665143776b73cc14a69e',1,'zone_shadowmoon_valley.cpp']]],
   ['krickcenterpos_102',['KrickCenterPos',['../dd/dac/pit__of__saron_8h.html#a24046ff0193d2913ae35aaa983b79978',1,'pit_of_saron.h']]],

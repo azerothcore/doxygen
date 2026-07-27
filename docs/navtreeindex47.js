@@ -1,8 +1,5 @@
 var NAVTREEINDEX47 =
 {
-"d1/dd5/classRandomMovementGenerator.html#a92d7354c8ed7f212dadb9592de0939e8":[7,0,2516,8],
-"d1/dd5/classRandomMovementGenerator.html#a973ee4bdf2e90f7de2b99ae1df9f6028":[7,0,2516,14],
-"d1/dd5/classRandomMovementGenerator.html#aa09f453a7853bdf6bb143414aa86e274":[7,0,2516,2],
 "d1/dd5/classRandomMovementGenerator.html#aae1ad7a92bb3471d4651588baba81b0a":[7,0,2516,11],
 "d1/dd5/classRandomMovementGenerator.html#ac7ebbd23fd3dd18ebca3a0698ca65cb8":[7,0,2516,16],
 "d1/dd5/classRandomMovementGenerator.html#ad5880ec25953f9f6495b503d92621021":[7,0,2516,24],
@@ -243,11 +240,14 @@ var NAVTREEINDEX47 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[7,0,1487,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[7,0,1487,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[7,0,1487,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1]
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
+"d1/de0/classnpc__stable__master.html":[7,0,2175],
+"d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[7,0,2175,2]
 };

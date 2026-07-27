@@ -1,5 +1,14 @@
 var NAVTREEINDEX229 =
 {
+"d8/d74/classWorldSession.html#aa1007895cfb5be2941e85348c281612d":[4,1,19,461],
+"d8/d74/classWorldSession.html#aa16819928aa64c135a8abeafdac78110":[4,1,19,78],
+"d8/d74/classWorldSession.html#aa183080e0b0ec6a8038cc3ee784afbd2":[4,1,19,371],
+"d8/d74/classWorldSession.html#aa25780c994c1beed1f89ea9ddb4d9648":[4,1,19,533],
+"d8/d74/classWorldSession.html#aa355f874eeb39b2fac37e538b2c4c805":[4,1,19,323],
+"d8/d74/classWorldSession.html#aa371efb78c38b2b9cc8f42327a3b615d":[4,1,19,510],
+"d8/d74/classWorldSession.html#aa3fc0f873562ddc702a0f9106b617b39":[4,1,19,260],
+"d8/d74/classWorldSession.html#aa47b29f93c889f8934845b9806180456":[4,1,19,387],
+"d8/d74/classWorldSession.html#aa5239d0d34442a38a0700a41d1f79b74":[4,1,19,519],
 "d8/d74/classWorldSession.html#aa55a2f354cedb203c47f3ceb726e93a4":[4,1,19,586],
 "d8/d74/classWorldSession.html#aa59070ede5d3baacd3ae4afe959bcf63":[4,1,19,182],
 "d8/d74/classWorldSession.html#aa5e9525f072893c9d063753ae85c2b35":[4,1,19,562],
@@ -240,14 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda1408ee1329bcb762ee45fb865ee58d9e":[7,0,123,1,2],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedaad0795d71aa92acdd2da8c8ed3d42471":[7,0,123,1,1],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedae56d39bbbd70987d9e5839b4ca0e983c":[7,0,123,1,3],
-"d8/d77/classAchievementMgr.html#a609f1328333a605b938575d55b061d8f":[7,0,123,5],
-"d8/d77/classAchievementMgr.html#a6ab19372da640991eeb1fba0c43d8e08":[7,0,123,26],
-"d8/d77/classAchievementMgr.html#a6eebdde97187856c115223c4fba3160c":[7,0,123,3],
-"d8/d77/classAchievementMgr.html#a7683a0c816137b1d61d97b457ae6e8b6":[7,0,123,33],
-"d8/d77/classAchievementMgr.html#a77ab8c7741b56fda8a20a7593656d808":[7,0,123,38],
-"d8/d77/classAchievementMgr.html#a79bc930bd6ee111a0c3b49c928fd8468":[7,0,123,34],
-"d8/d77/classAchievementMgr.html#a8700a8f83cca4a1d70a18d6c1bc78807":[7,0,123,15],
-"d8/d77/classAchievementMgr.html#a893f912444b98ab96736f44b91f8e297":[7,0,123,25],
-"d8/d77/classAchievementMgr.html#a8967d4542618ac17350d4e9369d4f2e2":[7,0,123,19],
-"d8/d77/classAchievementMgr.html#a8d0931f8e230bb12de7b6e5d8b63cd82":[7,0,123,21]
+"d8/d77/classAchievementMgr.html#a609f1328333a605b938575d55b061d8f":[7,0,123,5]
 };

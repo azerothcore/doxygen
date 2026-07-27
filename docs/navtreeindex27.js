@@ -1,8 +1,5 @@
 var NAVTREEINDEX27 =
 {
-"d1/d16/classSpell.html#afc4ea6974c4844907d9d54781458a8ac":[7,0,2626,25],
-"d1/d16/classSpell.html#afd62651d0d2f121dd6ac78cfdb202bb5":[7,0,2626,157],
-"d1/d16/classSpell.html#afe1dc2964e62c0a82ff87bfab3b48021":[7,0,2626,137],
 "d1/d16/classSpell.html#afec646b713f94bf7e2fc8cd21d46a012":[7,0,2626,19],
 "d1/d16/classSpell.html#afecdd65c73b267d8cb2b9525bed5f851":[7,0,2626,54],
 "d1/d16/classSpell.html#aff5477a54c2dfe98575d5ea12984b86f":[7,0,2626,29],
@@ -40,18 +37,18 @@ var NAVTREEINDEX27 =
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[8,0,0,0,1,4,2,1,6],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
 "d1/d17/classArenaSeasonMgr.html":[7,0,192],
 "d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[7,0,192,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[7,0,192,12],
@@ -249,5 +246,8 @@ var NAVTREEINDEX27 =
 "d1/d1e/AchievementScript_8cpp.html#ac6173262cca5c83f03287161a75446ab":[8,0,0,0,1,2,38,0,4,0],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html":[8,0,0,0,2,2,0,10,10],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a057a869b522ef7c027f230aab341d719":[8,0,0,0,2,2,0,10,10,25],
-"d1/d1e/SpellProcChainGuardTest_8cpp.html#a08b5b072a5fa78fe96a38353673bc7d4":[8,0,0,0,2,2,0,10,10,28]
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a08b5b072a5fa78fe96a38353673bc7d4":[8,0,0,0,2,2,0,10,10,28],
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a1f4b9781a25551b1db62d7597c50c08d":[8,0,0,0,2,2,0,10,10,2],
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a2e91af600e2c51ac8b213ccfbd828ff0":[8,0,0,0,2,2,0,10,10,18],
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a382fdda4389c386542ab238b318743eb":[8,0,0,0,2,2,0,10,10,20]
 };

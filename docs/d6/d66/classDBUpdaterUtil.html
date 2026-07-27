@@ -122,11 +122,17 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:a8ab8efffe5408f97f438e06766f65ec9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65cf44a18a72ba92f91a667e41f9da80" id="r_a65cf44a18a72ba92f91a667e41f9da80"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80">CheckExecutable</a> ()</td></tr>
 <tr class="separator:a65cf44a18a72ba92f91a667e41f9da80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99eb37994b14f350308d174d1c04c7fe" id="r_a99eb37994b14f350308d174d1c04c7fe"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html#a99eb37994b14f350308d174d1c04c7fe">MarkUpdateFailed</a> ()</td></tr>
+<tr class="separator:a99eb37994b14f350308d174d1c04c7fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8653546fe6b32d170da7350700c19613" id="r_a8653546fe6b32d170da7350700c19613"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html#a8653546fe6b32d170da7350700c19613">GetFailedUpdateCount</a> ()</td></tr>
+<tr class="separator:a8653546fe6b32d170da7350700c19613"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-methods" name="pri-static-methods"></a>
 Static Private Member Functions</h2></td></tr>
 <tr class="memitem:a31499b458f0ff0ec518980f51d6a242a" id="r_a31499b458f0ff0ec518980f51d6a242a"><td class="memItemLeft" align="right" valign="top">static std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html#a31499b458f0ff0ec518980f51d6a242a">corrected_path</a> ()</td></tr>
 <tr class="separator:a31499b458f0ff0ec518980f51d6a242a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19ef6f04dc5827b04a8cdcb34329464d" id="r_a19ef6f04dc5827b04a8cdcb34329464d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a> ()</td></tr>
+<tr class="separator:a19ef6f04dc5827b04a8cdcb34329464d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
@@ -178,7 +184,7 @@ Static Private Member Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00061">corrected_path()</a>, <a class="el" href="../../#l00032">GetCorrectedMySQLExecutable()</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, and <a class="el" href="../../#l00280">Acore::SearchExecutableInPath()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00360">DBUpdater&lt; T &gt;::Populate()</a>, <a class="el" href="../../#l00224">DBUpdater&lt; T &gt;::Update()</a>, and <a class="el" href="../../#l00299">DBUpdater&lt; T &gt;::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00376">DBUpdater&lt; T &gt;::Populate()</a>, <a class="el" href="../../#l00240">DBUpdater&lt; T &gt;::Update()</a>, and <a class="el" href="../../#l00315">DBUpdater&lt; T &gt;::Update()</a>.</p>
 
 </div>
 </div>
@@ -210,6 +216,38 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   65</span>}</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00040">CheckExecutable()</a>, and <a class="el" href="../../#l00032">GetCorrectedMySQLExecutable()</a>.</p>
+
+</div>
+</div>
+<a id="a19ef6f04dc5827b04a8cdcb34329464d" name="a19ef6f04dc5827b04a8cdcb34329464d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19ef6f04dc5827b04a8cdcb34329464d">&#9670;&#160;</a></span>failed_updates()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp; DBUpdaterUtil::failed_updates </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keyword">static</span> <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">return</span> count;</div>
+<div class="line"><span class="lineno">   71</span>}</div>
+<div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00078">GetFailedUpdateCount()</a>, and <a class="el" href="../../#l00073">MarkUpdateFailed()</a>.</p>
 
 </div>
 </div>
@@ -245,7 +283,72 @@ Static Private Member Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00061">corrected_path()</a>, and <a class="el" href="../../#l00048">BuiltInConfig::GetMySQLExecutable()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00452">DBUpdater&lt; T &gt;::ApplyFile()</a>, and <a class="el" href="../../#l00040">CheckExecutable()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">DBUpdater&lt; T &gt;::ApplyFile()</a>, and <a class="el" href="../../#l00040">CheckExecutable()</a>.</p>
+
+</div>
+</div>
+<a id="a8653546fe6b32d170da7350700c19613" name="a8653546fe6b32d170da7350700c19613"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8653546fe6b32d170da7350700c19613">&#9670;&#160;</a></span>GetFailedUpdateCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DBUpdaterUtil::GetFailedUpdateCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d66/classDBUpdaterUtil.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a>();</div>
+<div class="line"><span class="lineno">   81</span>}</div>
+<div class="ttc" id="aclassDBUpdaterUtil_html_a19ef6f04dc5827b04a8cdcb34329464d"><div class="ttname"><a href="../../d6/d66/classDBUpdaterUtil.html#a19ef6f04dc5827b04a8cdcb34329464d">DBUpdaterUtil::failed_updates</a></div><div class="ttdeci">static uint32 &amp; failed_updates()</div><div class="ttdef"><b>Definition</b> DBUpdater.cpp:67</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00067">failed_updates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00070">main()</a>, and <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
+
+</div>
+</div>
+<a id="a99eb37994b14f350308d174d1c04c7fe" name="a99eb37994b14f350308d174d1c04c7fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99eb37994b14f350308d174d1c04c7fe">&#9670;&#160;</a></span>MarkUpdateFailed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DBUpdaterUtil::MarkUpdateFailed </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
+<div class="line"><span class="lineno">   75</span>    ++<a class="code hl_function" href="../../d6/d66/classDBUpdaterUtil.html#a19ef6f04dc5827b04a8cdcb34329464d">failed_updates</a>();</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00067">failed_updates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00468">DBUpdater&lt; T &gt;::ApplyFile()</a>.</p>
 
 </div>
 </div>
@@ -259,7 +362,7 @@ Static Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html">DBUpdaterUtil</a></li>
-    <li class="footer">Generated on Sun Jul 26 2026 08:18:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jul 27 2026 09:41:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

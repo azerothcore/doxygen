@@ -1,8 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[8,0,0,0,1,3,7,6,4,2],
-"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298ca84d5ce6183758d5e6c2b12dd33ffe2d5":[8,0,0,0,1,3,7,6,4,4],
-"d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298cabf5cd16a11ad20e4d1147d0360b81b30":[8,0,0,0,1,3,7,6,4,7],
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,7,6,4,10],
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#a5bd342133be8c2137b831460acc9298caf588879040679f230627746ba20726bd":[8,0,0,0,1,3,7,6,4,9],
 "d0/dd0/boss__doomlord__kazzak_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,7,6,5],
@@ -46,8 +43,8 @@ var NAVTREEINDEX20 =
 "d0/dd4/classspell__black__temple__bloodbolt.html#aa15afaa9990f29a9e71c1d6395d5de12":[7,0,2691,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html":[7,0,0,60],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html":[5,0,0,72],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[5,0,0,72,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[7,0,0,60,2],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[5,0,0,72,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[7,0,0,60,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,0,72,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[7,0,0,60,0],
@@ -133,8 +130,8 @@ var NAVTREEINDEX20 =
 "d0/dda/classgo__fel__crystalforge.html#aa44708a617edd51651da49918ab776e5":[7,0,1177,0],
 "d0/dda/classgo__fel__crystalforge.html#aae9f4beff251efb7b29e1988ddd51eaf":[7,0,1177,1],
 "d0/ddc/WardenPayloadMgr_8h.html":[8,0,0,0,1,2,46,9],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[7,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,0,8,0,30],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[7,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[7,0,0,5,0,30,0],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,0,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[8,0,0,0,1,2,16,7,13],
@@ -249,5 +246,8 @@ var NAVTREEINDEX20 =
 "d0/dde/classspell__dk__improved__blood__presence__triggered.html#a2a008e6d73c39d789aa176e9e5872544":[7,0,2830,0],
 "d0/dde/classspell__dk__improved__blood__presence__triggered.html#a83bcce64d93f0eaf286bbfd17062832e":[7,0,2830,3],
 "d0/dde/classspell__dk__improved__blood__presence__triggered.html#abd05fec42193d2de8f42e95d8c90d8ca":[7,0,2830,1],
-"d0/dde/classspell__dk__improved__blood__presence__triggered.html#ad160e59cf489a1d2fbaa11b1e919826a":[7,0,2830,4]
+"d0/dde/classspell__dk__improved__blood__presence__triggered.html#ad160e59cf489a1d2fbaa11b1e919826a":[7,0,2830,4],
+"d0/dde/classspell__saviana__conflagration__init.html":[7,0,4046],
+"d0/dde/classspell__saviana__conflagration__init.html#a144224b42aabc0402b729dcc808d779d":[7,0,4046,2],
+"d0/dde/classspell__saviana__conflagration__init.html#a687cff5dcfcd7d9253182eb604d7a780":[7,0,4046,0]
 };

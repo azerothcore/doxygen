@@ -44,7 +44,7 @@ var searchData=
   ['restflag_41',['RestFlag',['../da/dbf/Player_8h.html#a6573e61697135eebcc2945e003612f5a',1,'Player.h']]],
   ['restlessstrength_42',['RestlessStrength',['../db/d6e/spell__item_8cpp.html#aba5b39902cbe27852767109bbf1325c2',1,'spell_item.cpp']]],
   ['returnedsevenfold_43',['ReturnedSevenfold',['../d3/d6e/zone__sholazar__basin_8cpp.html#a7b01305328c922efa79ac54c3a969ee3',1,'zone_sholazar_basin.cpp']]],
-  ['returntocapital_44',['ReturnToCapital',['../dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64',1,'chapter5.cpp']]],
+  ['returntocapital_44',['ReturnToCapital',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64',1,'zone_the_scarlet_enclave.cpp']]],
   ['ribbonpole_45',['RibbonPole',['../d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8',1,'midsummer.cpp']]],
   ['rigglebassbait_46',['RiggleBassbait',['../db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432c',1,'npcs_special.cpp']]],
   ['ringo_47',['Ringo',['../de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592',1,'zone_ungoro_crater.cpp']]],

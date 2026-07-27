@@ -1,5 +1,14 @@
 var NAVTREEINDEX227 =
 {
+"d8/d70/classboss__renataki.html":[7,0,689],
+"d8/d70/classboss__renataki.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a":[7,0,689,2],
+"d8/d70/classboss__renataki.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6":[7,0,689,1],
+"d8/d71/FrostboltPvPTest_8cpp.html":[8,0,0,0,2,2,0,10,4],
+"d8/d71/FrostboltPvPTest_8cpp.html#a3c2cf023118b4939342706355b5e3e23":[8,0,0,0,2,2,0,10,4,0],
+"d8/d71/classspell__item__brittle__armor.html":[7,0,3356],
+"d8/d71/classspell__item__brittle__armor.html#a74dc9d9a57ed410b3c0d690418bfb4eb":[7,0,3356,1],
+"d8/d71/classspell__item__brittle__armor.html#a8769cbce815d1f1c457979743e10535c":[7,0,3356,2],
+"d8/d71/classspell__item__brittle__armor.html#a9309c0e435240bc656b3bfde2d923a9a":[7,0,3356,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html":[7,0,3811],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a2da64a27cfa5a68464f8f3a885e09751":[7,0,3811,2],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[7,0,3811,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d74/classWorldSession.html#a45cafabe37b4d230ec861de42588af05":[4,1,19,493],
 "d8/d74/classWorldSession.html#a460438021e2bbb551f6bb4a7a4077845":[4,1,19,638],
 "d8/d74/classWorldSession.html#a462ec92e222d0bef7fd110ff78cc44aa":[4,1,19,137],
-"d8/d74/classWorldSession.html#a46d2c5eafeb7750f0d082489da756511":[4,1,19,97],
-"d8/d74/classWorldSession.html#a4762f07280842b47417cacebeb847b63":[4,1,19,170],
-"d8/d74/classWorldSession.html#a47f3035a702dcec5384d575593efd0c9":[4,1,19,161],
-"d8/d74/classWorldSession.html#a47fa0d32b0cbbffadfcbf99d0cacc8ec":[4,1,19,541],
-"d8/d74/classWorldSession.html#a47fd2385b73c7888e3048839127ff8f6":[4,1,19,1],
-"d8/d74/classWorldSession.html#a485122853dc7095cbedeea73ec307f43":[4,1,19,442],
-"d8/d74/classWorldSession.html#a48aa6a0623a2a8c3e6bc58753a525d0b":[4,1,19,310],
-"d8/d74/classWorldSession.html#a4926aeffc64b347414dedf9b3076f3df":[4,1,19,605],
-"d8/d74/classWorldSession.html#a4937159253f27798485871f0c0de0427":[4,1,19,77],
-"d8/d74/classWorldSession.html#a4964da39742dc5f458afc081b94c3450":[4,1,19,414]
+"d8/d74/classWorldSession.html#a46d2c5eafeb7750f0d082489da756511":[4,1,19,97]
 };

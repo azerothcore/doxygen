@@ -37,7 +37,7 @@ var searchData=
   ['whispergulchyoggsaronwhisper_34',['WhisperGulchYoggSaronWhisper',['../d1/de4/spell__generic_8cpp.html#a747b30db0b6c4ed647b3277333ec4ee3',1,'spell_generic.cpp']]],
   ['whoarethey_35',['Whoarethey',['../db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cf',1,'spell_quest.cpp']]],
   ['wildwyrm_36',['WildWyrm',['../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cde',1,'zone_storm_peaks.cpp']]],
-  ['win_5ffriends_37',['win_friends',['../db/da5/chapter2_8cpp.html#a4c1e144641d137d320608174c3ada70b',1,'chapter2.cpp']]],
+  ['win_5ffriends_37',['win_friends',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70b',1,'zone_the_scarlet_enclave.cpp']]],
   ['windstone_38',['WindStone',['../d3/d9d/zone__silithus_8cpp.html#a361cd56fa15fc5ff8fd8a1a16547580a',1,'zone_silithus.cpp']]],
   ['wintergardegryphon_39',['WintergardeGryphon',['../de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9',1,'zone_dragonblight.cpp']]],
   ['wintergraspdata_40',['WintergraspData',['../d6/d4f/BattlefieldWG_8h.html#af04419dd4a56b38933efe04940c180e1',1,'BattlefieldWG.h']]],

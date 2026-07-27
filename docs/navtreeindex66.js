@@ -1,8 +1,5 @@
 var NAVTREEINDEX66 =
 {
-"d2/d5f/Tokenize_8h.html":[8,0,0,0,0,15,38],
-"d2/d5f/Tokenize_8h.html#a6b121485ace4118b9006db1fb89f90f2":[8,0,0,0,0,15,38,3],
-"d2/d5f/Tokenize_8h.html#a6d70d7cc315896984da481f843d6f95f":[8,0,0,0,0,15,38,1],
 "d2/d5f/Tokenize_8h.html#aafa458089884fd3ec682db1762ced09d":[8,0,0,0,0,15,38,2],
 "d2/d5f/Tokenize_8h.html#ac486e8c9cdad8809eacd83339cdb121d":[8,0,0,0,0,15,38,0],
 "d2/d5f/classspell__voa__lightning__nova.html":[7,0,4285],
@@ -223,14 +220,14 @@ var NAVTREEINDEX66 =
 "d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347":[8,0,0,0,1,2,16,1,9,7,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html":[5,0,31,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html":[7,0,11,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,31,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[7,0,11,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,31,1,6],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,31,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[7,0,11,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,31,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,31,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[7,0,11,1,4],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[7,0,11,1,2],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,31,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,31,1,2],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[7,0,11,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[7,0,11,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,31,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[7,0,11,1,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX66 =
 "d2/d6f/classspell__item__rocket__boots.html#a1b4ff1b3b518a2e4bad1836de6793561":[7,0,3463,4],
 "d2/d6f/classspell__item__rocket__boots.html#a47aa868fbabee8a3988bcc93402b8cfb":[7,0,3463,3],
 "d2/d6f/classspell__item__rocket__boots.html#a86b4413dd25f96fb197604007171a8d1":[7,0,3463,1],
-"d2/d6f/classspell__item__rocket__boots.html#a8d0c2f18927e811f3d3cdee94e3623c0":[7,0,3463,5]
+"d2/d6f/classspell__item__rocket__boots.html#a8d0c2f18927e811f3d3cdee94e3623c0":[7,0,3463,5],
+"d2/d6f/classspell__item__rocket__boots.html#ab1800d2550b944dcfa9967cc0e79c5ee":[7,0,3463,2],
+"d2/d6f/classspell__item__rocket__boots.html#af92fe276563a8ca0d939d881dba8adda":[7,0,3463,0],
+"d2/d6f/classspell__pri__shadow__word__death.html":[7,0,3831]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d2/d39/classspell__rog__tricks__of__the__trade.html#abcc738fc154e6be5de168fb23be806f4":[7,0,4026,1],
-"d2/d39/classspell__rog__tricks__of__the__trade.html#ac81d60d54a87a23bd9481934f5753de0":[7,0,4026,2],
-"d2/d3a/structnpc__brewfest__bark__trigger.html":[7,0,1702],
 "d2/d3a/structnpc__brewfest__bark__trigger.html#a110d654792e1f5dae8b17f014ea3d425":[7,0,1702,0],
 "d2/d3a/structnpc__brewfest__bark__trigger.html#a271a440f21b4abddd9aa087e1e64a3d0":[7,0,1702,2],
 "d2/d3a/structnpc__brewfest__bark__trigger.html#aca27445a1d9868a2cbd3a6a89dd806df":[7,0,1702,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX57 =
 "d2/d45/structnpc__deathstalker__fearleia.html#a92c6d31e801164dc0c4ddc8c47f134b6":[7,0,1779,0],
 "d2/d47/ArenaTeamFilter_8h.html":[8,0,0,0,1,2,8,0,4],
 "d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html":[7,0,529,0],
-"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a1715ab3f3f25b56517f6ded84acdbd9f":[7,0,529,0,2]
+"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a1715ab3f3f25b56517f6ded84acdbd9f":[7,0,529,0,2],
+"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a73f775b30ad36a595e0d8532067ba042":[7,0,529,0,5],
+"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a74aea4294c26414d3b60983d14d36e31":[7,0,529,0,4],
+"d2/d47/structboss__grobbulus__poison__cloud_1_1boss__grobbulus__poison__cloudAI.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3":[7,0,529,0,1]
 };

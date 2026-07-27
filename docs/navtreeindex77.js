@@ -1,8 +1,5 @@
 var NAVTREEINDEX77 =
 {
-"d2/de5/classspell__q10923__evil__draws__near__periodic__aura.html#afa6d5fe15882f33ae1a1d137db9caf8c":[7,0,3879,3],
-"d2/de5/namespaceAcore_1_1Encoding.html":[5,0,0,5],
-"d2/de7/MovementPacketBuilder_8cpp.html":[8,0,0,0,1,2,31,1,0],
 "d2/de7/MovementPacketBuilder_8cpp.html#a04fba7015071fbd9335a9723c694e511":[8,0,0,0,1,2,31,1,0,4],
 "d2/de7/MovementPacketBuilder_8cpp.html#a36206fc0a1fcffec4fbb7696f2fba68a":[8,0,0,0,1,2,31,1,0,1],
 "d2/de7/MovementPacketBuilder_8cpp.html#a512a47e7c442a3d5260ff7ec7b4d69bb":[8,0,0,0,1,2,31,1,0,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX77 =
 "d2/de9/classSpellInfo.html#afbedf3c95f43d0342dbcd3e3faf1c451":[7,0,4444,180],
 "d2/de9/classSpellInfo.html#afc8742bc858cb12197c005168931cb2d":[7,0,4444,106],
 "d2/de9/classSpellInfo.html#afd255235dc8bb42bf6c91024f14850e8":[7,0,4444,18],
-"d2/de9/classspell__apothecary__validate__area.html":[7,0,2654]
+"d2/de9/classspell__apothecary__validate__area.html":[7,0,2654],
+"d2/de9/classspell__apothecary__validate__area.html#a1a510f9cf49df69c5904cb79c8cdc860":[7,0,2654,4],
+"d2/de9/classspell__apothecary__validate__area.html#a2832f131d99608923ade8070e17da86d":[7,0,2654,3],
+"d2/de9/classspell__apothecary__validate__area.html#a4c7627dc20c4dafcee4d6faf97d3914e":[7,0,2654,0]
 };
