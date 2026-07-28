@@ -1,6 +1,6 @@
 var boss__onyxia_8cpp =
 [
-    [ "sOnyxMove", "d3/d81/structsOnyxMove.html", "d3/d81/structsOnyxMove" ],
+    [ "OnyxiaMove", "d7/dbe/structOnyxiaMove.html", "d7/dbe/structOnyxiaMove" ],
     [ "boss_onyxia", "d1/d88/structboss__onyxia.html", "d1/d88/structboss__onyxia" ],
     [ "npc_onyxian_lair_guard", "df/dc8/structnpc__onyxian__lair__guard.html", "df/dc8/structnpc__onyxian__lair__guard" ],
     [ "Events", "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
@@ -35,6 +35,12 @@ var boss__onyxia_8cpp =
       [ "PHASE_AIRPHASE", "d3/d4a/boss__onyxia_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a03a36958caee750e0dd58927b044893d", null ],
       [ "PHASE_LANDED", "d3/d4a/boss__onyxia_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a3b22f584999edb763336ca64613c288d", null ]
     ] ],
+    [ "Points", "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463e", [
+      [ "POINT_GROUND_SOUTH", "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463eac91919cb03d7ebfa09470d771c0c16f2", null ],
+      [ "POINT_TAKEOFF", "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1c6e632d42e6df5451aed43bb661d6f0", null ],
+      [ "POINT_PRE_LAND", "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463ea603e20f341c92e8e34d4417d2284e7e3", null ],
+      [ "POINT_LAND", "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f", null ]
+    ] ],
     [ "Spells", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_WINGBUFFET", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375", null ],
       [ "SPELL_FLAMEBREATH", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786", null ],
@@ -65,5 +71,5 @@ var boss__onyxia_8cpp =
       [ "SAY_EVADE", "d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad089ecf6b1860e0cf125942c8697880d", null ]
     ] ],
     [ "AddSC_boss_onyxia", "d3/d4a/boss__onyxia_8cpp.html#ad2db27e6c9cca073dd3485a6d0b0cd21", null ],
-    [ "OnyxiaMoveData", "d3/d4a/boss__onyxia_8cpp.html#ad0be7435fee4f4e551faab03c92623f3", null ]
+    [ "OnyxiaMoveData", "d3/d4a/boss__onyxia_8cpp.html#a2b339896f762dc448176a5f8ca0a5b59", null ]
 ];

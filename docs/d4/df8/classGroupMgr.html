@@ -286,15 +286,15 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>[group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>()] = group;</div>
-<div class="line"><span class="lineno">   93</span>}</div>
-<div class="ttc" id="aclassGroup_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition</b> Group.cpp:2440</div></div>
-<div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:145</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>[group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>()] = group;</div>
+<div class="line"><span class="lineno">   97</span>}</div>
+<div class="ttc" id="aclassGroup_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition</b> Group.cpp:2512</div></div>
+<div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:149</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02440">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02512">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00104">LoadGroups()</a>.</p>
 
 </div>
 </div>
@@ -312,23 +312,23 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> newGroupId = <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    <span class="comment">// find the lowest available id starting from the current _nextGroupId</span></div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; 0xFFFFFFFF &amp;&amp; ++<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.size() &amp;&amp; <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>]);</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == 0xFFFFFFFF)</div>
-<div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Group ID overflow!! Can&#39;t continue, shutting down server.&quot;</span>);</div>
-<div class="line"><span class="lineno">   75</span>        <a class="code hl_function" href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
-<div class="line"><span class="lineno">   76</span>    }</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">return</span> newGroupId;</div>
-<div class="line"><span class="lineno">   79</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> newGroupId = <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    <span class="comment">// find the lowest available id starting from the current _nextGroupId</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; 0xFFFFFFFF &amp;&amp; ++<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> &lt; <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.size() &amp;&amp; <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>]);</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == 0xFFFFFFFF)</div>
+<div class="line"><span class="lineno">   77</span>    {</div>
+<div class="line"><span class="lineno">   78</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.worldserver&quot;</span>, <span class="stringliteral">&quot;Group ID overflow!! Can&#39;t continue, shutting down server.&quot;</span>);</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_function" href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
+<div class="line"><span class="lineno">   80</span>    }</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> newGroupId;</div>
+<div class="line"><span class="lineno">   83</span>}</div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aclassGroupMgr_html_af260c73ba61242f741103bdfe6d6fb9e"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">GroupMgr::_groupIds</a></div><div class="ttdeci">GroupIds _groupIds</div><div class="ttdef"><b>Definition</b> GroupMgr.h:46</div></div>
-<div class="ttc" id="aclassObjectGuid_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:122</div></div>
+<div class="ttc" id="aclassObjectGuid_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:125</div></div>
 <div class="ttc" id="aclassWorld_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition</b> World.h:188</div></div>
 <div class="ttc" id="agroup__world_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition</b> World.h:54</div></div>
 </div><!-- fragment -->
@@ -351,17 +351,17 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
-<div class="line"><span class="lineno">   83</span>    GroupContainer::const_iterator itr = <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.find(groupId);</div>
-<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.end())</div>
-<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   88</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
+<div class="line"><span class="lineno">   87</span>    GroupContainer::const_iterator itr = <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.find(groupId);</div>
+<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.end())</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   92</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00048">GroupStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00104">LoadGroups()</a>.</p>
 
 </div>
 </div>
@@ -395,7 +395,7 @@ Private Member Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00046">_groupIds</a>, <a class="el" href="../../#l00047">_nextGroupId</a>, and <a class="el" href="../../#l00021">CharacterDatabase</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00104">LoadGroups()</a>.</p>
 
 </div>
 </div>
@@ -448,105 +448,105 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>        <span class="comment">// Delete all groups whose leader does not exist</span></div>
-<div class="line"><span class="lineno">  106</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE leaderGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
-<div class="line"><span class="lineno">  107</span> </div>
-<div class="line"><span class="lineno">  108</span>        <span class="comment">// Delete all groups with less than 2 members</span></div>
-<div class="line"><span class="lineno">  109</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE guid NOT IN (SELECT guid FROM group_member GROUP BY guid HAVING COUNT(guid) &gt; 1)&quot;</span>);</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>        <span class="comment">// Delete invalid lfg_data</span></div>
-<div class="line"><span class="lineno">  112</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE lfg_data FROM lfg_data LEFT JOIN `groups` ON lfg_data.guid = groups.guid WHERE groups.guid IS NULL OR groups.groupType &lt;&gt; 12&quot;</span>);</div>
-<div class="line"><span class="lineno">  113</span>        <span class="comment">// CharacterDatabase.DirectExecute(&quot;DELETE `groups` FROM `groups` LEFT JOIN lfg_data ON groups.guid = lfg_data.guid WHERE groups.groupType=12 AND lfg_data.guid IS NULL&quot;); // group should be left so binds are cleared when disbanded</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    {</div>
+<div class="line"><span class="lineno">  107</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>        <span class="comment">// Delete all groups whose leader does not exist</span></div>
+<div class="line"><span class="lineno">  110</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE leaderGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>        <span class="comment">// Delete all groups with less than 2 members</span></div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM `groups` WHERE guid NOT IN (SELECT guid FROM group_member GROUP BY guid HAVING COUNT(guid) &gt; 1)&quot;</span>);</div>
 <div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>        <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a6881453ec34dc2d9416069a87b1a3234">InitGroupIds</a>();</div>
-<div class="line"><span class="lineno">  116</span> </div>
-<div class="line"><span class="lineno">  117</span>        <span class="comment">//                                                        0              1           2             3                 4      5          6      7         8       9</span></div>
-<div class="line"><span class="lineno">  118</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT g.leaderGuid, g.lootMethod, g.looterGuid, g.lootThreshold, g.icon1, g.icon2, g.icon3, g.icon4, g.icon5, g.icon6&quot;</span></div>
-<div class="line"><span class="lineno">  119</span>                             <span class="comment">//  10         11          12         13              14                  15            16        17          18</span></div>
-<div class="line"><span class="lineno">  120</span>                             <span class="stringliteral">&quot;, g.icon7, g.icon8, g.groupType, g.difficulty, g.raidDifficulty, g.masterLooterGuid, g.guid, lfg.dungeon, lfg.state FROM `groups` g LEFT JOIN lfg_data lfg ON lfg.guid = g.guid ORDER BY g.guid ASC&quot;</span>);</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  123</span>        {</div>
-<div class="line"><span class="lineno">  124</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group definitions. DB table `groups` is empty!&quot;</span>);</div>
-<div class="line"><span class="lineno">  125</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  126</span>        }</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  128</span>        {</div>
-<div class="line"><span class="lineno">  129</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">  130</span>            <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  131</span>            {</div>
-<div class="line"><span class="lineno">  132</span>                <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  133</span>                <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>;</div>
-<div class="line"><span class="lineno">  134</span>                <span class="keywordflow">if</span> (!group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#af7d56d93449ead0315be8602c7112f96">LoadGroupFromDB</a>(fields))</div>
-<div class="line"><span class="lineno">  135</span>                {</div>
-<div class="line"><span class="lineno">  136</span>                    <span class="keyword">delete</span> group;</div>
-<div class="line"><span class="lineno">  137</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  138</span>                }</div>
-<div class="line"><span class="lineno">  139</span>                <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#abb97c613417573dc4cafa117065e7cf8">AddGroup</a>(group);</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>                <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a8bface2b6600801ebcd1cbb9070ec3ef">RegisterGroupId</a>(group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  142</span> </div>
-<div class="line"><span class="lineno">  143</span>                ++count;</div>
-<div class="line"><span class="lineno">  144</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  145</span> </div>
-<div class="line"><span class="lineno">  146</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  147</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  148</span>        }</div>
-<div class="line"><span class="lineno">  149</span>    }</div>
-<div class="line"><span class="lineno">  150</span> </div>
-<div class="line"><span class="lineno">  151</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading Group Members...&quot;</span>);</div>
-<div class="line"><span class="lineno">  152</span>    {</div>
-<div class="line"><span class="lineno">  153</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  115</span>        <span class="comment">// Delete invalid lfg_data</span></div>
+<div class="line"><span class="lineno">  116</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE lfg_data FROM lfg_data LEFT JOIN `groups` ON lfg_data.guid = groups.guid WHERE groups.guid IS NULL OR groups.groupType &lt;&gt; 12&quot;</span>);</div>
+<div class="line"><span class="lineno">  117</span>        <span class="comment">// CharacterDatabase.DirectExecute(&quot;DELETE `groups` FROM `groups` LEFT JOIN lfg_data ON groups.guid = lfg_data.guid WHERE groups.groupType=12 AND lfg_data.guid IS NULL&quot;); // group should be left so binds are cleared when disbanded</span></div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>        <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a6881453ec34dc2d9416069a87b1a3234">InitGroupIds</a>();</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>        <span class="comment">//                                                        0              1           2             3                 4      5          6      7         8       9</span></div>
+<div class="line"><span class="lineno">  122</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT g.leaderGuid, g.lootMethod, g.looterGuid, g.lootThreshold, g.icon1, g.icon2, g.icon3, g.icon4, g.icon5, g.icon6&quot;</span></div>
+<div class="line"><span class="lineno">  123</span>                             <span class="comment">//  10         11          12         13              14                  15            16        17          18</span></div>
+<div class="line"><span class="lineno">  124</span>                             <span class="stringliteral">&quot;, g.icon7, g.icon8, g.groupType, g.difficulty, g.raidDifficulty, g.masterLooterGuid, g.guid, lfg.dungeon, lfg.state FROM `groups` g LEFT JOIN lfg_data lfg ON lfg.guid = g.guid ORDER BY g.guid ASC&quot;</span>);</div>
+<div class="line"><span class="lineno">  125</span> </div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  127</span>        {</div>
+<div class="line"><span class="lineno">  128</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group definitions. DB table `groups` is empty!&quot;</span>);</div>
+<div class="line"><span class="lineno">  129</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  130</span>        }</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  132</span>        {</div>
+<div class="line"><span class="lineno">  133</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  134</span>            <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  135</span>            {</div>
+<div class="line"><span class="lineno">  136</span>                <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  137</span>                <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>;</div>
+<div class="line"><span class="lineno">  138</span>                <span class="keywordflow">if</span> (!group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#af7d56d93449ead0315be8602c7112f96">LoadGroupFromDB</a>(fields))</div>
+<div class="line"><span class="lineno">  139</span>                {</div>
+<div class="line"><span class="lineno">  140</span>                    <span class="keyword">delete</span> group;</div>
+<div class="line"><span class="lineno">  141</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  142</span>                }</div>
+<div class="line"><span class="lineno">  143</span>                <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#abb97c613417573dc4cafa117065e7cf8">AddGroup</a>(group);</div>
+<div class="line"><span class="lineno">  144</span> </div>
+<div class="line"><span class="lineno">  145</span>                <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a8bface2b6600801ebcd1cbb9070ec3ef">RegisterGroupId</a>(group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>                ++count;</div>
+<div class="line"><span class="lineno">  148</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group definitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  151</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  152</span>        }</div>
+<div class="line"><span class="lineno">  153</span>    }</div>
 <div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>        <span class="comment">// Delete all rows from group_member with no group</span></div>
-<div class="line"><span class="lineno">  156</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE guid NOT IN (SELECT guid FROM `groups`)&quot;</span>);</div>
-<div class="line"><span class="lineno">  157</span>        <span class="comment">// Delete all members that does not exist</span></div>
-<div class="line"><span class="lineno">  158</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE memberGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
-<div class="line"><span class="lineno">  159</span> </div>
-<div class="line"><span class="lineno">  160</span>        <span class="comment">//                                                    0        1           2            3       4</span></div>
-<div class="line"><span class="lineno">  161</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT guid, memberGuid, memberFlags, subgroup, roles FROM group_member ORDER BY guid&quot;</span>);</div>
-<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  163</span>        {</div>
-<div class="line"><span class="lineno">  164</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group members. DB table `group_member` is empty!&quot;</span>);</div>
-<div class="line"><span class="lineno">  165</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  166</span>        }</div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  168</span>        {</div>
-<div class="line"><span class="lineno">  169</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  171</span>            {</div>
-<div class="line"><span class="lineno">  172</span>                <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  173</span>                <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a2af93882e217f762df95ba21af191c89">GetGroupByGUID</a>(fields[0].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  174</span> </div>
-<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">if</span> (group)</div>
-<div class="line"><span class="lineno">  176</span>                    group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#ab55738e3f596e337883fc86f590eb1ab">LoadMemberFromDB</a>(fields[1].Get&lt;uint32&gt;(), fields[2].Get&lt;uint8&gt;(), fields[3].Get&lt;uint8&gt;(), fields[4].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>                ++count;</div>
-<div class="line"><span class="lineno">  179</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group members in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  182</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  183</span>        }</div>
-<div class="line"><span class="lineno">  184</span>    }</div>
-<div class="line"><span class="lineno">  185</span>}</div>
+<div class="line"><span class="lineno">  155</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading Group Members...&quot;</span>);</div>
+<div class="line"><span class="lineno">  156</span>    {</div>
+<div class="line"><span class="lineno">  157</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>        <span class="comment">// Delete all rows from group_member with no group</span></div>
+<div class="line"><span class="lineno">  160</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE guid NOT IN (SELECT guid FROM `groups`)&quot;</span>);</div>
+<div class="line"><span class="lineno">  161</span>        <span class="comment">// Delete all members that does not exist</span></div>
+<div class="line"><span class="lineno">  162</span>        <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.DirectExecute(<span class="stringliteral">&quot;DELETE FROM group_member WHERE memberGuid NOT IN (SELECT guid FROM characters)&quot;</span>);</div>
+<div class="line"><span class="lineno">  163</span> </div>
+<div class="line"><span class="lineno">  164</span>        <span class="comment">//                                                    0        1           2            3       4</span></div>
+<div class="line"><span class="lineno">  165</span>        <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT guid, memberGuid, memberFlags, subgroup, roles FROM group_member ORDER BY guid&quot;</span>);</div>
+<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  167</span>        {</div>
+<div class="line"><span class="lineno">  168</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 group members. DB table `group_member` is empty!&quot;</span>);</div>
+<div class="line"><span class="lineno">  169</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  170</span>        }</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  172</span>        {</div>
+<div class="line"><span class="lineno">  173</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  175</span>            {</div>
+<div class="line"><span class="lineno">  176</span>                <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  177</span>                <a class="code hl_class" href="../../d0/db7/classGroup.html">Group</a>* group = <a class="code hl_function" href="../../d4/df8/classGroupMgr.html#a2af93882e217f762df95ba21af191c89">GetGroupByGUID</a>(fields[0].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>                <span class="keywordflow">if</span> (group)</div>
+<div class="line"><span class="lineno">  180</span>                    group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#ab55738e3f596e337883fc86f590eb1ab">LoadMemberFromDB</a>(fields[1].Get&lt;uint32&gt;(), fields[2].Get&lt;uint8&gt;(), fields[3].Get&lt;uint8&gt;(), fields[4].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>                ++count;</div>
+<div class="line"><span class="lineno">  183</span>            } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} group members in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  186</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  187</span>        }</div>
+<div class="line"><span class="lineno">  188</span>    }</div>
+<div class="line"><span class="lineno">  189</span>}</div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:153</div></div>
 <div class="ttc" id="aLog_8h_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:149</div></div>
 <div class="ttc" id="aTimer_8h_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition</b> Timer.h:131</div></div>
 <div class="ttc" id="aTimer_8h_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition</b> Timer.h:103</div></div>
 <div class="ttc" id="aclassField_html"><div class="ttname"><a href="../../d7/d24/classField.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition</b> Field.h:98</div></div>
-<div class="ttc" id="aclassGroupMgr_html_a2af93882e217f762df95ba21af191c89"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#a2af93882e217f762df95ba21af191c89">GroupMgr::GetGroupByGUID</a></div><div class="ttdeci">Group * GetGroupByGUID(ObjectGuid::LowType guid) const</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:81</div></div>
+<div class="ttc" id="aclassGroupMgr_html_a2af93882e217f762df95ba21af191c89"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#a2af93882e217f762df95ba21af191c89">GroupMgr::GetGroupByGUID</a></div><div class="ttdeci">Group * GetGroupByGUID(ObjectGuid::LowType guid) const</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:85</div></div>
 <div class="ttc" id="aclassGroupMgr_html_a6881453ec34dc2d9416069a87b1a3234"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#a6881453ec34dc2d9416069a87b1a3234">GroupMgr::InitGroupIds</a></div><div class="ttdeci">void InitGroupIds()</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:42</div></div>
 <div class="ttc" id="aclassGroupMgr_html_a8bface2b6600801ebcd1cbb9070ec3ef"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#a8bface2b6600801ebcd1cbb9070ec3ef">GroupMgr::RegisterGroupId</a></div><div class="ttdeci">void RegisterGroupId(ObjectGuid::LowType groupId)</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:54</div></div>
-<div class="ttc" id="aclassGroupMgr_html_abb97c613417573dc4cafa117065e7cf8"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#abb97c613417573dc4cafa117065e7cf8">GroupMgr::AddGroup</a></div><div class="ttdeci">void AddGroup(Group *group)</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:90</div></div>
-<div class="ttc" id="aclassGroup_html"><div class="ttname"><a href="../../d0/db7/classGroup.html">Group</a></div><div class="ttdef"><b>Definition</b> Group.h:176</div></div>
-<div class="ttc" id="aclassGroup_html_ab55738e3f596e337883fc86f590eb1ab"><div class="ttname"><a href="../../d0/db7/classGroup.html#ab55738e3f596e337883fc86f590eb1ab">Group::LoadMemberFromDB</a></div><div class="ttdeci">void LoadMemberFromDB(ObjectGuid::LowType guidLow, uint8 memberFlags, uint8 subgroup, uint8 roles)</div><div class="ttdef"><b>Definition</b> Group.cpp:263</div></div>
-<div class="ttc" id="aclassGroup_html_af7d56d93449ead0315be8602c7112f96"><div class="ttname"><a href="../../d0/db7/classGroup.html#af7d56d93449ead0315be8602c7112f96">Group::LoadGroupFromDB</a></div><div class="ttdeci">bool LoadGroupFromDB(Field *field)</div><div class="ttdef"><b>Definition</b> Group.cpp:208</div></div>
+<div class="ttc" id="aclassGroupMgr_html_abb97c613417573dc4cafa117065e7cf8"><div class="ttname"><a href="../../d4/df8/classGroupMgr.html#abb97c613417573dc4cafa117065e7cf8">GroupMgr::AddGroup</a></div><div class="ttdeci">void AddGroup(Group *group)</div><div class="ttdef"><b>Definition</b> GroupMgr.cpp:94</div></div>
+<div class="ttc" id="aclassGroup_html"><div class="ttname"><a href="../../d0/db7/classGroup.html">Group</a></div><div class="ttdef"><b>Definition</b> Group.h:177</div></div>
+<div class="ttc" id="aclassGroup_html_ab55738e3f596e337883fc86f590eb1ab"><div class="ttname"><a href="../../d0/db7/classGroup.html#ab55738e3f596e337883fc86f590eb1ab">Group::LoadMemberFromDB</a></div><div class="ttdeci">void LoadMemberFromDB(ObjectGuid::LowType guidLow, uint8 memberFlags, uint8 subgroup, uint8 roles)</div><div class="ttdef"><b>Definition</b> Group.cpp:264</div></div>
+<div class="ttc" id="aclassGroup_html_af7d56d93449ead0315be8602c7112f96"><div class="ttname"><a href="../../d0/db7/classGroup.html#af7d56d93449ead0315be8602c7112f96">Group::LoadGroupFromDB</a></div><div class="ttdeci">bool LoadGroupFromDB(Field *field)</div><div class="ttdef"><b>Definition</b> Group.cpp:209</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l02440">Group::GetGUID()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, <a class="el" href="../../#l00208">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00263">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00094">AddGroup()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00085">GetGroupByGUID()</a>, <a class="el" href="../../#l02512">Group::GetGUID()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, <a class="el" href="../../#l00209">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00264">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
 
 </div>
 </div>
@@ -566,18 +566,22 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <span class="comment">// Allocation was done in InitGroupIds()</span></div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[groupId] = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   58</span> </div>
-<div class="line"><span class="lineno">   59</span>    <span class="comment">// Groups are pulled in ascending order from db and _nextGroupId is initialized with 1,</span></div>
-<div class="line"><span class="lineno">   60</span>    <span class="comment">// so if the instance id is used, increment</span></div>
-<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == groupId)</div>
-<div class="line"><span class="lineno">   62</span>        ++<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
-<div class="line"><span class="lineno">   63</span>}</div>
+<div class="line"><span class="lineno">   56</span>    <span class="comment">// InitGroupIds() sizes the bitmap to the local MAX(guid) at startup. In cluster mode the</span></div>
+<div class="line"><span class="lineno">   57</span>    <span class="comment">// group service assigns ids (auto-increment), which can exceed that bound, so grow on demand.</span></div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (groupId &gt;= <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.size())</div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>.resize(groupId + 1);</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#af260c73ba61242f741103bdfe6d6fb9e">_groupIds</a>[groupId] = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <span class="comment">// Groups are pulled in ascending order from db and _nextGroupId is initialized with 1,</span></div>
+<div class="line"><span class="lineno">   64</span>    <span class="comment">// so if the instance id is used, increment</span></div>
+<div class="line"><span class="lineno">   65</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a> == groupId)</div>
+<div class="line"><span class="lineno">   66</span>        ++<a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#a4e41d7444f8b7d3dbb54569be80b65f9">_nextGroupId</a>;</div>
+<div class="line"><span class="lineno">   67</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00046">_groupIds</a>, and <a class="el" href="../../#l00047">_nextGroupId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00104">LoadGroups()</a>.</p>
 
 </div>
 </div>
@@ -596,11 +600,11 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.erase(group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">   98</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_variable" href="../../d4/df8/classGroupMgr.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.erase(group-&gt;<a class="code hl_function" href="../../d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
+<div class="line"><span class="lineno">  102</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02440">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02512">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
 
 </div>
 </div>
@@ -625,7 +629,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">GenerateGroupId()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00069">GenerateGroupId()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
 
 </div>
 </div>
@@ -649,7 +653,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">GenerateGroupId()</a>, <a class="el" href="../../#l00025">GroupMgr()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00069">GenerateGroupId()</a>, <a class="el" href="../../#l00025">GroupMgr()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
 
 </div>
 </div>
@@ -673,7 +677,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l00095">RemoveGroup()</a>, and <a class="el" href="../../#l00030">~GroupMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00094">AddGroup()</a>, <a class="el" href="../../#l00085">GetGroupByGUID()</a>, <a class="el" href="../../#l00099">RemoveGroup()</a>, and <a class="el" href="../../#l00030">~GroupMgr()</a>.</p>
 
 </div>
 </div>
@@ -687,7 +691,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/df8/classGroupMgr.html">GroupMgr</a></li>
-    <li class="footer">Generated on Mon Jul 27 2026 09:41:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 28 2026 08:26:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

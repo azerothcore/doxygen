@@ -1062,6 +1062,7 @@ var classPlayer =
     [ "UnsummonPetTemporaryIfAny", "d2/d4b/classPlayer.html#a70bb54941b7ecb5d2cba657c93a82117", null ],
     [ "Update", "d2/d4b/classPlayer.html#a3d1d239c7d4c925f73e036371f3679c2", null ],
     [ "UpdateAchievementCriteria", "d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634", null ],
+    [ "UpdateAdditionalSaves", "d2/d4b/classPlayer.html#a143d897039420194c9a5c68817ae5da4", null ],
     [ "UpdateAfkReport", "d2/d4b/classPlayer.html#affdbd69b2c33a4a6123e764703b6bd57", null ],
     [ "UpdateAllCritPercentages", "d2/d4b/classPlayer.html#ab8087f17924c1131b42f05293686545c", null ],
     [ "UpdateAllRatings", "d2/d4b/classPlayer.html#ab6c81c6fe5ebea0898723d86ea318033", null ],

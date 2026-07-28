@@ -1957,12 +1957,15 @@ var hierarchy =
     [ "WorldPackets::Array< uint32, 50 >", "df/dd9/classWorldPackets_1_1Array.html", null ],
     [ "AsyncAcceptor", "dc/d89/classAsyncAcceptor.html", null ],
     [ "AsyncCallbackProcessor< T >", "da/d11/classAsyncCallbackProcessor.html", null ],
+    [ "AsyncCallbackProcessor< AsyncTask< bool > >", "da/d11/classAsyncCallbackProcessor.html", null ],
     [ "AsyncCallbackProcessor< QueryCallback >", "da/d11/classAsyncCallbackProcessor.html", null ],
     [ "AsyncCallbackProcessor< SQLQueryHolderCallback >", "da/d11/classAsyncCallbackProcessor.html", null ],
     [ "AsyncCallbackProcessor< TransactionCallback >", "da/d11/classAsyncCallbackProcessor.html", null ],
     [ "Acore::AsyncProcessResult", "da/df5/classAcore_1_1AsyncProcessResult.html", [
       [ "Acore::AsyncProcessResultImplementation", "d4/dc1/classAcore_1_1AsyncProcessResultImplementation.html", null ]
     ] ],
+    [ "AsyncTask< T >", "da/d03/classAsyncTask.html", null ],
+    [ "AsyncTask< bool >", "da/d03/classAsyncTask.html", null ],
     [ "AttackPosition", "dd/d5f/structAttackPosition.html", null ],
     [ "AuctionEntry", "d7/d83/structAuctionEntry.html", null ],
     [ "AuctionEntryItemEnchants", "da/d74/structAuctionEntryItemEnchants.html", null ],
@@ -2152,6 +2155,7 @@ var hierarchy =
     [ "BigNumber", "d4/d8a/classBigNumber.html", null ],
     [ "BIH", "d0/de7/classBIH.html", null ],
     [ "BIHWrap< T, BoundsFunc >", "de/d3a/classBIHWrap.html", null ],
+    [ "InstanceMapLoadRows::BindRow", "de/dc6/structInstanceMapLoadRows_1_1BindRow.html", null ],
     [ "BloodboltHitCheck", "df/dee/classBloodboltHitCheck.html", null ],
     [ "BoardCell", "d6/da0/structBoardCell.html", null ],
     [ "BoneStormMoveTargetSelector", "d3/d44/structBoneStormMoveTargetSelector.html", null ],
@@ -2792,7 +2796,9 @@ var hierarchy =
     [ "IgbExplosionCheck", "de/ddc/classIgbExplosionCheck.html", null ],
     [ "IgbTeleportOnVictoryCheck", "da/d8c/classIgbTeleportOnVictoryCheck.html", null ],
     [ "ImmunityInfo", "da/d44/structImmunityInfo.html", null ],
+    [ "InstanceMapLoadRows", "d8/da3/structInstanceMapLoadRows.html", null ],
     [ "InstancePlayerBind", "d6/dbf/structInstancePlayerBind.html", null ],
+    [ "InstanceMapLoadRows::InstanceRow", "db/d25/structInstanceMapLoadRows_1_1InstanceRow.html", null ],
     [ "InstanceSave", "d7/d91/classInstanceSave.html", null ],
     [ "InstanceSaveMgr", "d6/dee/classInstanceSaveMgr.html", null ],
     [ "InstanceTemplate", "d1/d7e/structInstanceTemplate.html", null ],
@@ -3240,6 +3246,7 @@ var hierarchy =
     [ "ObjectRegistry< T, Key >", "d8/df1/classObjectRegistry.html", null ],
     [ "Acore::ObjectTypeIdCheck", "d5/d34/classAcore_1_1ObjectTypeIdCheck.html", null ],
     [ "ObjectVisibilityContainer", "d3/d9f/classObjectVisibilityContainer.html", null ],
+    [ "OnyxiaMove", "d7/dbe/structOnyxiaMove.html", null ],
     [ "OpcodeHandler", "da/d15/classOpcodeHandler.html", [
       [ "ClientOpcodeHandler", "d5/ddc/classClientOpcodeHandler.html", [
         [ "PacketHandler< PacketClass, HandlerFunction >", "d3/db9/classPacketHandler.html", null ],
@@ -4603,7 +4610,6 @@ var hierarchy =
     [ "SocketMgr< WorldSocket >", "df/d41/classSocketMgr.html", [
       [ "WorldSocketMgr", "d5/d92/classWorldSocketMgr.html", null ]
     ] ],
-    [ "sOnyxMove", "d3/d81/structsOnyxMove.html", null ],
     [ "SoundEntriesEntry", "db/d8d/structSoundEntriesEntry.html", null ],
     [ "SpawnAssociation", "de/d87/structSpawnAssociation.html", null ],
     [ "SpawnData", "d7/dc4/structSpawnData.html", [
@@ -4806,6 +4812,10 @@ var hierarchy =
     [ "boost::asio::time_traits< Time >", "d3/da7/structboost_1_1asio_1_1time__traits.html", null ],
     [ "TimeTracker", "db/d88/structTimeTracker.html", null ],
     [ "TimeTrackerSmall", "d6/d1a/structTimeTrackerSmall.html", null ],
+    [ "ToCloud9GroupHooks", "df/d2e/classToCloud9GroupHooks.html", null ],
+    [ "ToCloud9GrpcHandler", "df/d1a/classToCloud9GrpcHandler.html", null ],
+    [ "ToCloud9GuildHooks", "d6/ded/classToCloud9GuildHooks.html", null ],
+    [ "ToCloud9Sidecar", "de/d02/classToCloud9Sidecar.html", null ],
     [ "Acore::Impl::ChatCommands::TokenizeResult", "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html", null ],
     [ "TorlothCinematic", "d0/d87/structTorlothCinematic.html", null ],
     [ "TotemCategoryEntry", "d3/d88/structTotemCategoryEntry.html", null ],

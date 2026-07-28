@@ -69,6 +69,7 @@ var searchData=
   ['aurascript_5ffunction_5ftype_5fdefines_66',['AURASCRIPT_FUNCTION_TYPE_DEFINES',['../dc/db2/SpellScript_8h.html#a3101f4f4902188b1fc7c024f151b638b',1,'SpellScript.h']]],
   ['auth_5flogon_5fchallenge_5finitial_5fsize_67',['AUTH_LOGON_CHALLENGE_INITIAL_SIZE',['../d3/d1f/AuthSession_8cpp.html#a38c5f396c839f5f22ec0ec7a5b2a5019',1,'AuthSession.cpp']]],
   ['av_5fevent_5fstart_5fbattle_68',['AV_EVENT_START_BATTLE',['../d3/dd4/BattlegroundAV_8h.html#a333f1c045e3883c4f54cc0de87aa6dc3',1,'BattlegroundAV.h']]],
-  ['azeroth_5fplatform_5fstr_69',['AZEROTH_PLATFORM_STR',['../dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971',1,'GitRevision.cpp']]],
-  ['azjolnerubscriptname_70',['AzjolNerubScriptName',['../dc/da4/azjol__nerub_8h.html#a49c3c3627ce229fce6b1f55755bcb7d7',1,'azjol_nerub.h']]]
+  ['available_5fmaps_5fall_5fmaps_69',['AVAILABLE_MAPS_ALL_MAPS',['../d0/d7c/TC9Sidecar_8cpp.html#a3ce088496ac6391921eb6558a8bfa534',1,'TC9Sidecar.cpp']]],
+  ['azeroth_5fplatform_5fstr_70',['AZEROTH_PLATFORM_STR',['../dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971',1,'GitRevision.cpp']]],
+  ['azjolnerubscriptname_71',['AzjolNerubScriptName',['../dc/da4/azjol__nerub_8h.html#a49c3c3627ce229fce6b1f55755bcb7d7',1,'azjol_nerub.h']]]
 ];

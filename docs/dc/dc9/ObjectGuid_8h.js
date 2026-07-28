@@ -55,5 +55,6 @@ var ObjectGuid_8h =
     [ "operator<<", "dc/dc9/ObjectGuid_8h.html#a039758f4b57c94c411a4c3882334ada8", null ],
     [ "operator<<", "dc/dc9/ObjectGuid_8h.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
     [ "operator>>", "dc/dc9/ObjectGuid_8h.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "dc/dc9/ObjectGuid_8h.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "operator>>", "dc/dc9/ObjectGuid_8h.html#a95f3a6eef334b9fcdcaca879532c25d4", null ],
+    [ "DEFAULT_NON_CROSSREALM_REALM_ID", "dc/dc9/ObjectGuid_8h.html#a22e4df27ab300736f6c42ab0e28112a3", null ]
 ];

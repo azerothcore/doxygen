@@ -187,15 +187,15 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <span class="comment">// Collect shared pointers into a set to avoid deleting the same memory more than once</span></div>
-<div class="line"><span class="lineno">   28</span>    std::set&lt;TransportSpline*&gt; splines;</div>
-<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808">keyFrames</a>.size(); ++i)</div>
-<div class="line"><span class="lineno">   30</span>        splines.insert(<a class="code hl_variable" href="../../df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808">keyFrames</a>[i].Spline);</div>
-<div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">for</span> (std::set&lt;TransportSpline*&gt;::iterator itr = splines.begin(); itr != splines.end(); ++itr)</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keyword">delete</span> *itr;</div>
-<div class="line"><span class="lineno">   34</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <span class="comment">// Collect shared pointers into a set to avoid deleting the same memory more than once</span></div>
+<div class="line"><span class="lineno">   31</span>    std::set&lt;TransportSpline*&gt; splines;</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808">keyFrames</a>.size(); ++i)</div>
+<div class="line"><span class="lineno">   33</span>        splines.insert(<a class="code hl_variable" href="../../df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808">keyFrames</a>[i].Spline);</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">for</span> (std::set&lt;TransportSpline*&gt;::iterator itr = splines.begin(); itr != splines.end(); ++itr)</div>
+<div class="line"><span class="lineno">   36</span>        <span class="keyword">delete</span> *itr;</div>
+<div class="line"><span class="lineno">   37</span>}</div>
 <div class="ttc" id="astructTransportTemplate_html_ac714531f226ca06c3586cf3f6cc06808"><div class="ttname"><a href="../../df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808">TransportTemplate::keyFrames</a></div><div class="ttdeci">KeyFrameVec keyFrames</div><div class="ttdef"><b>Definition</b> TransportMgr.h:78</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00078">keyFrames</a>.</p>
@@ -215,7 +215,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00481">MotionTransport::CalculateSegmentPos()</a>, and <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00566">MotionTransport::CalculateSegmentPos()</a>, and <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>.</p>
 
 </div>
 </div>
@@ -231,7 +231,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00481">MotionTransport::CalculateSegmentPos()</a>, and <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00566">MotionTransport::CalculateSegmentPos()</a>, and <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>.</p>
 
 </div>
 </div>
@@ -247,7 +247,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00051">TransportMgr::LoadTransportTemplates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00054">TransportMgr::LoadTransportTemplates()</a>.</p>
 
 </div>
 </div>
@@ -263,7 +263,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00359">TransportMgr::CreateTransport()</a>, <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00051">TransportMgr::LoadTransportTemplates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00362">TransportMgr::CreateTransport()</a>, <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00054">TransportMgr::LoadTransportTemplates()</a>.</p>
 
 </div>
 </div>
@@ -279,7 +279,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00359">TransportMgr::CreateTransport()</a>, <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>, <a class="el" href="../../#l00077">MotionTransport::GetKeyFrames()</a>, and <a class="el" href="../../#l00025">~TransportTemplate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00362">TransportMgr::CreateTransport()</a>, <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>, <a class="el" href="../../#l00077">MotionTransport::GetKeyFrames()</a>, and <a class="el" href="../../#l00028">~TransportTemplate()</a>.</p>
 
 </div>
 </div>
@@ -295,7 +295,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00051">TransportMgr::LoadTransportTemplates()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00054">TransportMgr::LoadTransportTemplates()</a>.</p>
 
 </div>
 </div>
@@ -311,7 +311,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">MotionTransport::CreateMoTrans()</a>, and <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00118">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00141">MotionTransport::HandleFirstDepartureSync()</a>.</p>
 
 </div>
 </div>
@@ -325,7 +325,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/dc5/structTransportTemplate.html">TransportTemplate</a></li>
-    <li class="footer">Generated on Mon Jul 27 2026 09:42:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 28 2026 08:27:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

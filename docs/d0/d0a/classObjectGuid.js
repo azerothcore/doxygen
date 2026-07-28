@@ -17,6 +17,7 @@ var classObjectGuid =
     [ "GetMaxCounter", "d0/d0a/classObjectGuid.html#ac69dc2d5462b778d2149c0df5ee7ea19", null ],
     [ "GetMaxCounter", "d0/d0a/classObjectGuid.html#a06b15f04dc99c1efd6ca2c1ad2207f2f", null ],
     [ "GetRawValue", "d0/d0a/classObjectGuid.html#a65626f4640cb4f79c66ce9d5dda8ab27", null ],
+    [ "GetRealmID", "d0/d0a/classObjectGuid.html#a69e28b98ae5200208e1bb5de922e66f3", null ],
     [ "GetTypeId", "d0/d0a/classObjectGuid.html#aec33d5606d9f4935de431adeffce0ab2", null ],
     [ "GetTypeId", "d0/d0a/classObjectGuid.html#ad710d0c62644d1f6f872a33eaac8508d", null ],
     [ "GetTypeName", "d0/d0a/classObjectGuid.html#ad724f21d9bb544bf3f519ecd1d01665c", null ],

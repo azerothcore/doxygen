@@ -477,6 +477,7 @@ var CharacterDatabase_8h =
       [ "CHAR_SANITIZE_INSTANCE_SAVED_DATA", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af587971999e37249714f8e2fc2bb71d7", null ],
       [ "CHAR_SEL_WORLD_STATE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170", null ],
       [ "CHAR_REP_WORLD_STATE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abf43baa4a9b3a683d0b3750ab9ffa6d5", null ],
+      [ "CHAR_NO_OP_PROVIDE_REALM_CONTEXT", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a024fc37563f41acb30182ac4e6bf4f25", null ],
       [ "MAX_CHARACTERDATABASE_STATEMENTS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5b593e0435142ef21e410519c43efd8", null ]
     ] ]
 ];

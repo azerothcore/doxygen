@@ -87,6 +87,7 @@ var classSmartAI =
     [ "UpdateAI", "da/ddc/classSmartAI.html#a79fe4b1434996b19949d3045bbea8196", null ],
     [ "UpdateDespawn", "da/ddc/classSmartAI.html#ae4ca3b9840e41984e4bd2911ac85f2f5", null ],
     [ "UpdateFollow", "da/ddc/classSmartAI.html#a9fcc2ba804b1ad3b0cc020a1f26e39a9", null ],
+    [ "UpdateMeleeStance", "da/ddc/classSmartAI.html#aa2d754e1c31fdf8970f1f75c2420899f", null ],
     [ "UpdatePath", "da/ddc/classSmartAI.html#a1bf5b14038fae82f76fc0012007d4b26", null ],
     [ "WaypointPathEnded", "da/ddc/classSmartAI.html#a19ea78761fe93a5c4c75dd0abb6c03fd", null ],
     [ "WaypointPathStarted", "da/ddc/classSmartAI.html#a54e8a836d3f7358dd77df7996d824e80", null ],

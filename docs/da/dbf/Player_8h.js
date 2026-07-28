@@ -101,7 +101,8 @@ var Player_8h =
     [ "AdditionalSaving", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755", [
       [ "ADDITIONAL_SAVING_NONE", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755a32e552f3a0c23a33401b6bb2e90b8753", null ],
       [ "ADDITIONAL_SAVING_INVENTORY_AND_GOLD", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755a0e79848772fb35db024b1d9cfd8a55b2", null ],
-      [ "ADDITIONAL_SAVING_QUEST_STATUS", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755ae07ddeb5ee480f16943f43b31e53ebba", null ]
+      [ "ADDITIONAL_SAVING_QUEST_STATUS", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755ae07ddeb5ee480f16943f43b31e53ebba", null ],
+      [ "ADDITIONAL_SAVING_ACHIEVEMENTS", "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755a8909e870774b381b9868e1f3cefc472f", null ]
     ] ],
     [ "AtLoginFlags", "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcb", [
       [ "AT_LOGIN_NONE", "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba3c65bd9b9ddfef144eee2270448f9326", null ],

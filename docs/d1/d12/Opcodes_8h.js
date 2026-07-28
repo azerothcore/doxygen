@@ -1317,6 +1317,8 @@ var Opcodes_8h =
       [ "SMSG_COMMENTATOR_SKIRMISH_QUEUE_RESULT1", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba9851407340444dc67285b41a10a25ab5", null ],
       [ "SMSG_COMMENTATOR_SKIRMISH_QUEUE_RESULT2", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba8a4789d153f69ac7d4dc8af4ed5a4d4b", null ],
       [ "SMSG_MULTIPLE_MOVES", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9badce30bf6127a66d93f232f17af6b6610", null ],
+      [ "TC9_CMSG_PREPARE_FOR_REDIRECT", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9bac5d5cf3dccf755fa3655372b44463fba", null ],
+      [ "TC9_SMSG_READY_FOR_REDIRECT", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba315d94931767ad2e26835916a60a0e7e", null ],
       [ "NUM_MSG_TYPES", "d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba668dea903d6cb358007f6d957e2a20d7", null ]
     ] ],
     [ "PacketProcessing", "d2/dec/group__u2w.html#gadb1f3eec4312420ff005e4d832f82ef4", [

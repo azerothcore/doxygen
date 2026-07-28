@@ -388,12 +388,12 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  227</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2">_threatenedByMe</a>.empty(), <span class="stringliteral">&quot;ThreatManager::~ThreatManager - %s: we are still threatening %zu things, one of them is %s.&quot;</span>, <a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#abc3a5e41485bc429460d5a54e57a33d2">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>().c_str(), <a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2">_threatenedByMe</a>.size(), <a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2">_threatenedByMe</a>.begin()-&gt;first.ToString().c_str());</div>
 <div class="line"><span class="lineno">  228</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
-<div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:47</div></div>
+<div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:48</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:114</div></div>
 <div class="ttc" id="aclassThreatManager_html_a0280ec607bc65e30a0f8d641d3f3e1d2"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2">ThreatManager::_threatenedByMe</a></div><div class="ttdeci">std::unordered_map&lt; ObjectGuid, ThreatReference * &gt; _threatenedByMe</div><div class="ttdef"><b>Definition</b> ThreatManager.h:228</div></div>
 <div class="ttc" id="aclassThreatManager_html_a9021052e624c8904e97004e4836598b4"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#a9021052e624c8904e97004e4836598b4">ThreatManager::_myThreatListEntries</a></div><div class="ttdeci">std::unordered_map&lt; ObjectGuid, ThreatReference * &gt; _myThreatListEntries</div><div class="ttdef"><b>Definition</b> ThreatManager.h:214</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00214">_myThreatListEntries</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00228">_threatenedByMe</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00214">_myThreatListEntries</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00228">_threatenedByMe</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00048">ObjectGuid::ToString()</a>.</p>
 
 </div>
 </div>
@@ -713,7 +713,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a2a641a00b3a67cda4040622eaf46212e"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2a641a00b3a67cda4040622eaf46212e">SPELL_AURA_MOD_THREAT</a></div><div class="ttdeci">@ SPELL_AURA_MOD_THREAT</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:73</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a39b60e1f12cca9b6873cb817e7717351a89d11fccf6d29a9b12a0375c105b2105"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a39b60e1f12cca9b6873cb817e7717351a89d11fccf6d29a9b12a0375c105b2105">SPELLMOD_THREAT</a></div><div class="ttdeci">@ SPELLMOD_THREAT</div><div class="ttdef"><b>Definition</b> SpellDefines.h:78</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:847</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1085</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1086</div></div>
 <div class="ttc" id="aclassThreatManager_html"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html">ThreatManager</a></div><div class="ttdef"><b>Definition</b> ThreatManager.h:90</div></div>
 <div class="ttc" id="aclassThreatManager_html_ad02b72f5c0220cc9eb5b6cb4957248e9"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#ad02b72f5c0220cc9eb5b6cb4957248e9">ThreatManager::_multiSchoolModifiers</a></div><div class="ttdeci">std::unordered_map&lt; std::underlying_type&lt; SpellSchoolMask &gt;::type, float &gt; _multiSchoolModifiers</div><div class="ttdef"><b>Definition</b> ThreatManager.h:230</div></div>
 <div class="ttc" id="aclassUnit_html_a2e6a98844f96c211f47b911a2766ada8"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2e6a98844f96c211f47b911a2766ada8">Unit::GetSpellModOwner</a></div><div class="ttdeci">Player * GetSpellModOwner() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:12938</div></div>
@@ -1885,7 +1885,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  687</span>}</div>
 <div class="ttc" id="aErrors_8h_html_aee2b3b5656453513bc51a5979b247a67"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#aee2b3b5656453513bc51a5979b247a67">ASSERT_NOTNULL</a></div><div class="ttdeci">#define ASSERT_NOTNULL(pointer)</div><div class="ttdef"><b>Definition</b> Errors.h:85</div></div>
 <div class="ttc" id="aclassCreatureAI_html"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html">CreatureAI</a></div><div class="ttdef"><b>Definition</b> CreatureAI.h:69</div></div>
-<div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:121</div></div>
 <div class="ttc" id="aclassThreatManager_html_aa8198b23540399ed0b2601c1ca824d60"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#aa8198b23540399ed0b2601c1ca824d60">ThreatManager::_needsAIUpdate</a></div><div class="ttdeci">std::vector&lt; ObjectGuid &gt; _needsAIUpdate</div><div class="ttdef"><b>Definition</b> ThreatManager.h:218</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a288324cfca487d8ecc2eab8a6014c513"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a></div><div class="ttdeci">auto MapGetValuePtr(M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</div><div class="ttdef"><b>Definition</b> Containers.h:216</div></div>
 <div class="ttc" id="anamespaceAcore_html"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html">Acore</a></div><div class="ttdef"><b>Definition</b> AsioHacksFwd.h:47</div></div>
@@ -2016,7 +2016,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  920</span>    inMap = ref;</div>
 <div class="line"><span class="lineno">  921</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00228">_threatenedByMe</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00228">_threatenedByMe</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00048">ObjectGuid::ToString()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00392">AddThreat()</a>.</p>
 
@@ -2065,7 +2065,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  898</span>    <span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../df/d53/classThreatReferenceImpl.html">ThreatReferenceImpl</a>*<span class="keyword">&gt;</span>(ref)-&gt;_handle = <a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#a8243fc7fd016a6b996a6531542d7a73c">_sortedThreatList</a>-&gt;push(ref);</div>
 <div class="line"><span class="lineno">  899</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00214">_myThreatListEntries</a>, <a class="el" href="../../#l00211">_needClientUpdate</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00214">_myThreatListEntries</a>, <a class="el" href="../../#l00211">_needClientUpdate</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l00048">ObjectGuid::ToString()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00392">AddThreat()</a>.</p>
 
@@ -2169,7 +2169,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00196">_owner</a>, and <a class="el" href="../../#l00228">_threatenedByMe</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l00335">CombatManager::EndAllPvECombat()</a>, <a class="el" href="../../#l03169">misc_commandscript::HandleCombatStopCommand()</a>, <a class="el" href="../../#l00051">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00676">WorldSession::LogoutPlayer()</a>, and <a class="el" href="../../#l00714">Map::RemovePlayerFromMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">PetAI::_stopAttack()</a>, <a class="el" href="../../#l00335">CombatManager::EndAllPvECombat()</a>, <a class="el" href="../../#l03169">misc_commandscript::HandleCombatStopCommand()</a>, <a class="el" href="../../#l00051">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l00677">WorldSession::LogoutPlayer()</a>, and <a class="el" href="../../#l00717">Map::RemovePlayerFromMap()</a>.</p>
 
 </div>
 </div>
@@ -2424,11 +2424,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  860</span>    <a class="code hl_variable" href="../../d5/d1b/classThreatManager.html#abc3a5e41485bc429460d5a54e57a33d2">_owner</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a0f8d05be503013c4e84dddae9adf150a">SendMessageToSet</a>(&amp;data, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  861</span>}</div>
 <div class="ttc" id="aclassObject_html_a27858daca373d521d26feea68d1906a8"><div class="ttname"><a href="../../d8/d4b/classObject.html#a27858daca373d521d26feea68d1906a8">Object::GetPackGUID</a></div><div class="ttdeci">PackedGuid const &amp; GetPackGUID() const</div><div class="ttdef"><b>Definition</b> Object.h:116</div></div>
-<div class="ttc" id="aclassWorldObject_html_a0f8d05be503013c4e84dddae9adf150a"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a0f8d05be503013c4e84dddae9adf150a">WorldObject::SendMessageToSet</a></div><div class="ttdeci">virtual void SendMessageToSet(WorldPacket const *data, bool self) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2162</div></div>
+<div class="ttc" id="aclassWorldObject_html_a0f8d05be503013c4e84dddae9adf150a"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a0f8d05be503013c4e84dddae9adf150a">WorldObject::SendMessageToSet</a></div><div class="ttdeci">virtual void SendMessageToSet(WorldPacket const *data, bool self) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2166</div></div>
 <div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9ba7bde9c1a7e8b4c9ad7af2f2392fdf57b"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba7bde9c1a7e8b4c9ad7af2f2392fdf57b">SMSG_THREAT_CLEAR</a></div><div class="ttdeci">@ SMSG_THREAT_CLEAR</div><div class="ttdef"><b>Definition</b> Opcodes.h:1187</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l02162">WorldObject::SendMessageToSet()</a>, and <a class="el" href="../../#l01187">SMSG_THREAT_CLEAR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l02166">WorldObject::SendMessageToSet()</a>, and <a class="el" href="../../#l01187">SMSG_THREAT_CLEAR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00575">ClearAllThreat()</a>.</p>
 
@@ -2465,7 +2465,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  869</span>}</div>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9baa16b3827f769179ecf0b907f48b61042"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baa16b3827f769179ecf0b907f48b61042">SMSG_THREAT_REMOVE</a></div><div class="ttdeci">@ SMSG_THREAT_REMOVE</div><div class="ttdef"><b>Definition</b> Opcodes.h:1186</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l02162">WorldObject::SendMessageToSet()</a>, and <a class="el" href="../../#l01186">SMSG_THREAT_REMOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l02166">WorldObject::SendMessageToSet()</a>, and <a class="el" href="../../#l01186">SMSG_THREAT_REMOVE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00567">ClearThreat()</a>, and <a class="el" href="../../#l00075">ThreatReference::UpdateOffline()</a>.</p>
 
@@ -2518,7 +2518,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9ba70193a130c4db1265bcca4abca87d635"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba70193a130c4db1265bcca4abca87d635">SMSG_THREAT_UPDATE</a></div><div class="ttdeci">@ SMSG_THREAT_UPDATE</div><div class="ttdef"><b>Definition</b> Opcodes.h:1185</div></div>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9ba742d3120bd2f4c6c9a5b80825227e275"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba742d3120bd2f4c6c9a5b80825227e275">SMSG_HIGHEST_THREAT_UPDATE</a></div><div class="ttdeci">@ SMSG_HIGHEST_THREAT_UPDATE</div><div class="ttdef"><b>Definition</b> Opcodes.h:1184</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00222">_currentVictimRef</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l00273">ThreatReference::GetVictim()</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l02162">WorldObject::SendMessageToSet()</a>, <a class="el" href="../../#l01184">SMSG_HIGHEST_THREAT_UPDATE</a>, <a class="el" href="../../#l01185">SMSG_THREAT_UPDATE</a>, and <a class="el" href="../../#l00330">ByteBuffer::wpos()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00222">_currentVictimRef</a>, <a class="el" href="../../#l00196">_owner</a>, <a class="el" href="../../#l00213">_sortedThreatList</a>, <a class="el" href="../../#l00116">Object::GetPackGUID()</a>, <a class="el" href="../../#l00273">ThreatReference::GetVictim()</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l02166">WorldObject::SendMessageToSet()</a>, <a class="el" href="../../#l01184">SMSG_HIGHEST_THREAT_UPDATE</a>, <a class="el" href="../../#l01185">SMSG_THREAT_UPDATE</a>, and <a class="el" href="../../#l00330">ByteBuffer::wpos()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00608">UpdateVictim()</a>.</p>
 
@@ -3390,7 +3390,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d1b/classThreatManager.html">ThreatManager</a></li>
-    <li class="footer">Generated on Mon Jul 27 2026 09:42:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Jul 28 2026 08:27:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

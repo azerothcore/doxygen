@@ -10,9 +10,13 @@ var onyxias__lair_8h =
       [ "ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER", "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04", null ]
     ] ],
+    [ "eActions", "d3/ddf/onyxias__lair_8h.html#ace94c7be4d33645f5931bcaf341637ec", [
+      [ "ACTION_WHELP_SUMMONED", "d3/ddf/onyxias__lair_8h.html#ace94c7be4d33645f5931bcaf341637eca1e6935b00a3cb520225c7a3fc9b66086", null ]
+    ] ],
     [ "eCreatures", "d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8", [
       [ "NPC_ONYXIA", "d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
       [ "NPC_ONYXIAN_WHELP", "d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
+      [ "NPC_ONYXIA_TRIGGER", "d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8a26d33beda386437c9d6cdea87fa0b12a", null ],
       [ "NPC_ONYXIAN_LAIR_GUARD", "d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ]
     ] ],
     [ "eGameObjects", "d3/ddf/onyxias__lair_8h.html#a0b356f44d43edb1bff30f404c9469250", [
