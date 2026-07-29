@@ -4,6 +4,7 @@ var structboss__hodir =
     [ "CanAIAttack", "d4/d22/structboss__hodir.html#a6d12ec37b287d5e283f3207593435d60", null ],
     [ "DamageTaken", "d4/d22/structboss__hodir.html#a388eaf944b07001390f4f1796a8918b7", null ],
     [ "DoAction", "d4/d22/structboss__hodir.html#af12f631de82a8668d77728ccb7ace4f1", null ],
+    [ "DoHelperVictoryEmotes", "d4/d22/structboss__hodir.html#a60b899abe9b1ab2c04be675d3ce54f68", null ],
     [ "GetData", "d4/d22/structboss__hodir.html#a35dd93db8580c4b8a971f129e3fd3827", null ],
     [ "GetHardmodeChest", "d4/d22/structboss__hodir.html#a4e075098d5ae6f553efcac0b76e777b5", null ],
     [ "GetHelper", "d4/d22/structboss__hodir.html#a7cdb38932e616696f96008c321f9189c", null ],

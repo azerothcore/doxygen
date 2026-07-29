@@ -3,6 +3,7 @@ var structnpc__ulduar__hodir__mage =
     [ "npc_ulduar_hodir_mage", "d6/d60/structnpc__ulduar__hodir__mage.html#a1f16ae119ae7819348b3013bac867b68", null ],
     [ "AttackStart", "d6/d60/structnpc__ulduar__hodir__mage.html#aa486b501aefeb70beb325feece5ec34c", null ],
     [ "CanAIAttack", "d6/d60/structnpc__ulduar__hodir__mage.html#afe11d15da8769f50db470460cf759c2d", null ],
+    [ "DoAction", "d6/d60/structnpc__ulduar__hodir__mage.html#abe5801b4b042dbc363dacbb3290b43e1", null ],
     [ "EnterEvadeMode", "d6/d60/structnpc__ulduar__hodir__mage.html#a7c942a1ad420731a6e57ede7720d164b", null ],
     [ "JustDied", "d6/d60/structnpc__ulduar__hodir__mage.html#a411b6a3b456fb216f96a9426a13e3369", null ],
     [ "MoveInLineOfSight", "d6/d60/structnpc__ulduar__hodir__mage.html#aab476b5a585b30d429bdcae64a18424c", null ],

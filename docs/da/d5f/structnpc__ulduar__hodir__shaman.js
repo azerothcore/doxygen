@@ -3,6 +3,7 @@ var structnpc__ulduar__hodir__shaman =
     [ "npc_ulduar_hodir_shaman", "da/d5f/structnpc__ulduar__hodir__shaman.html#a3277cda17d5409be3426bdaa61e092cd", null ],
     [ "AttackStart", "da/d5f/structnpc__ulduar__hodir__shaman.html#a933908d61afac33002411874060c0f74", null ],
     [ "CanAIAttack", "da/d5f/structnpc__ulduar__hodir__shaman.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "DoAction", "da/d5f/structnpc__ulduar__hodir__shaman.html#ae27325cc9b794a84d82faa0f410fa844", null ],
     [ "EnterEvadeMode", "da/d5f/structnpc__ulduar__hodir__shaman.html#afa6124e630cd878659172a06df68d39f", null ],
     [ "JustDied", "da/d5f/structnpc__ulduar__hodir__shaman.html#a08af85d3446c86443ff5a620b159d000", null ],
     [ "MoveInLineOfSight", "da/d5f/structnpc__ulduar__hodir__shaman.html#a29de52dcae485f00403dae8e28ff1395", null ],

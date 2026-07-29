@@ -45,7 +45,14 @@ var boss__hodir_8cpp =
       [ "EVENT_SHAMAN_STORM_CLOUD", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648ae0c9b2106c14b9b97ea4053eb7697658", null ],
       [ "EVENT_MAGE_TOASTY_FIRE", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a5df15a28c62715434cc846a7dbc03eae", null ],
       [ "EVENT_MAGE_FIREBALL", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648affaa5d90542bdd0e389ad6863a8b3c90", null ],
-      [ "EVENT_MAGE_MELT_ICE", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648addfac274c9b761b45b7a75e0b3717dab", null ]
+      [ "EVENT_MAGE_MELT_ICE", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648addfac274c9b761b45b7a75e0b3717dab", null ],
+      [ "EVENT_VICTORY_CHEER_2", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a687fda616dd7b559d30832aee1363f79", null ],
+      [ "EVENT_VICTORY_CHEER_3", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a56cb2f0b9db95af0c1377a72f09479d8", null ],
+      [ "EVENT_VICTORY_DANCE", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648af14ed1ee0a84a18749d407eae2e488a7", null ],
+      [ "EVENT_VICTORY_DESPAWN", "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648abcd7077dc639e5ca4ec1e08640a7df26", null ]
+    ] ],
+    [ "HodirHelperActions", "dc/d30/boss__hodir_8cpp.html#a60ddf4a10cef039765c94ccc1a5cee30", [
+      [ "ACTION_VICTORY_EMOTE", "dc/d30/boss__hodir_8cpp.html#a60ddf4a10cef039765c94ccc1a5cee30aa99678f70aeb0390cb816f7119d043cd", null ]
     ] ],
     [ "HodirNPCs", "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3", [
       [ "NPC_PAN_FIELD_MEDIC_PENNY", "dc/d30/boss__hodir_8cpp.html#a30a5c3bf7d466a6e204548a6a169a8f3a24b8bb21bb73c3a2cf4a1c0d16dd24b1", null ],

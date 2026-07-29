@@ -9,6 +9,7 @@ var boss__mimiron_8cpp =
     [ "spell_mimiron_rocket_strike", "db/d23/classspell__mimiron__rocket__strike.html", "db/d23/classspell__mimiron__rocket__strike" ],
     [ "spell_mimiron_rocket_strike_target_select", "d9/dce/classspell__mimiron__rocket__strike__target__select.html", "d9/dce/classspell__mimiron__rocket__strike__target__select" ],
     [ "npc_ulduar_mimiron_rocket", "d1/d49/structnpc__ulduar__mimiron__rocket.html", "d1/d49/structnpc__ulduar__mimiron__rocket" ],
+    [ "spell_mimiron_summon_rocket_strike", "d1/dea/classspell__mimiron__summon__rocket__strike.html", "d1/dea/classspell__mimiron__summon__rocket__strike" ],
     [ "npc_ulduar_bot_summon_trigger", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html", "d4/ddf/structnpc__ulduar__bot__summon__trigger" ],
     [ "spell_mimiron_magnetic_core_summon", "d9/dc2/classspell__mimiron__magnetic__core__summon.html", "d9/dc2/classspell__mimiron__magnetic__core__summon" ],
     [ "spell_mimiron_magnetic_core_aura", "d3/dad/classspell__mimiron__magnetic__core__aura.html", "d3/dad/classspell__mimiron__magnetic__core__aura" ],
@@ -19,6 +20,7 @@ var boss__mimiron_8cpp =
     [ "npc_ulduar_flames_spread", "de/da1/structnpc__ulduar__flames__spread.html", "de/da1/structnpc__ulduar__flames__spread" ],
     [ "npc_ulduar_emergency_fire_bot", "d0/d7e/structnpc__ulduar__emergency__fire__bot.html", "d0/d7e/structnpc__ulduar__emergency__fire__bot" ],
     [ "npc_ulduar_rocket_strike_trigger", "db/d24/structnpc__ulduar__rocket__strike__trigger.html", "db/d24/structnpc__ulduar__rocket__strike__trigger" ],
+    [ "spell_mimiron_rocket_strike_aura", "d6/d82/classspell__mimiron__rocket__strike__aura.html", "d6/d82/classspell__mimiron__rocket__strike__aura" ],
     [ "achievement_mimiron_firefighter", "d9/d7b/classachievement__mimiron__firefighter.html", "d9/d7b/classachievement__mimiron__firefighter" ],
     [ "achievement_mimiron_set_up_us_the_bomb_11", "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html", "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11" ],
     [ "achievement_mimiron_set_up_us_the_bomb_12", "d2/d32/classachievement__mimiron__set__up__us__the__bomb__12.html", "d2/d32/classachievement__mimiron__set__up__us__the__bomb__12" ],
@@ -88,7 +90,8 @@ var boss__mimiron_8cpp =
       [ "EVENT_FROST_BOMB", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a4f1abcbf6dd50f3b0d3c6088aa4415bd", null ],
       [ "EVENT_SUMMON_EMERGENCY_FIRE_BOTS", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3ab8af7426c971eafffea092e255453c50", null ],
       [ "EVENT_EMERGENCY_BOT_CHECK", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a5f79c6464a77e10c074d45618ad189d7", null ],
-      [ "EVENT_EMERGENCY_BOT_ATTACK", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3aafc05f1a1784838cc87a3691268a59ba", null ]
+      [ "EVENT_EMERGENCY_BOT_ATTACK", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3aafc05f1a1784838cc87a3691268a59ba", null ],
+      [ "EVENT_ROCKET_FIRE", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a5dbacfc471203229de7653f199fbe544", null ]
     ] ],
     [ "GOs", "dc/d29/boss__mimiron_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5", [
       [ "GO_DOOR_1", "dc/d29/boss__mimiron_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a47a5d29e5a9ad3883fdbe8e60542fd89", null ],
@@ -153,6 +156,7 @@ var boss__mimiron_8cpp =
       [ "SPELL_ROCKET_STRIKE_BOTH", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab2fa4d3a1ca7c6f7901f965d2f7c59e3", null ],
       [ "SPELL_ROCKET_STRIKE_TARGET", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a9719f164a40ddf0d1d8f4e176e882397", null ],
       [ "SPELL_SUMMON_ROCKET_STRIKE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a0bd25548f6795c804109ead67732b4c8", null ],
+      [ "SPELL_ROCKET_STRIKE_DAMAGE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57", null ],
       [ "NPC_ROCKET_VISUAL", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab8bb8aef1ab887efa0b5946640079239", null ],
       [ "NPC_ROCKET_STRIKE_N", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a7d54a0e92a20042c08728a8c32aaee87", null ],
       [ "SPELL_RAPID_BURST", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a4dbb469f809ee5093ec69669a41eca2a", null ],

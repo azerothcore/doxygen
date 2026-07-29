@@ -3,6 +3,7 @@ var structnpc__ulduar__hodir__priest =
     [ "npc_ulduar_hodir_priest", "d8/dc8/structnpc__ulduar__hodir__priest.html#af18269ae027e71f86796e723111227b4", null ],
     [ "AttackStart", "d8/dc8/structnpc__ulduar__hodir__priest.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
     [ "CanAIAttack", "d8/dc8/structnpc__ulduar__hodir__priest.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "DoAction", "d8/dc8/structnpc__ulduar__hodir__priest.html#a73f077b4436e06a13e59944cebd5cca0", null ],
     [ "EnterEvadeMode", "d8/dc8/structnpc__ulduar__hodir__priest.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
     [ "JustDied", "d8/dc8/structnpc__ulduar__hodir__priest.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
     [ "MoveInLineOfSight", "d8/dc8/structnpc__ulduar__hodir__priest.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],

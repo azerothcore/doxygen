@@ -71,6 +71,7 @@ var boss__yoggsaron_8cpp =
       [ "EVENT_PHASE_ONE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],
+      [ "EVENT_PHASE_WIPE_RECOVERY", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a24bc0ff79a0142f8199261b4a51ff588", null ],
       [ "CRITERIA_NOT_GETTING_OLDER", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162", null ],
       [ "YS_P3_LUNATIC_GAZE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec", null ],
       [ "DATA_GET_KEEPERS_COUNT", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],
@@ -182,7 +183,9 @@ var boss__yoggsaron_8cpp =
       [ "EVENT_YS_LUNATIC_GAZE", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca7e2621e34e4c3c4e6a46b0a1ab6e5193", null ],
       [ "EVENT_YS_DEAFENING_ROAR", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becafb22afbd3942e643a3e3bac59f225f37", null ],
       [ "EVENT_YS_SUMMON_GUARDIAN", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca65a648a9c4133306ef85708699e52aa3", null ],
-      [ "EVENT_YS_SHADOW_BEACON", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becab7ae01ae4c1b2d5b0b7ab2e9ea406754", null ]
+      [ "EVENT_YS_SHADOW_BEACON", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becab7ae01ae4c1b2d5b0b7ab2e9ea406754", null ],
+      [ "EVENT_SARA_WIPE_OPEN_DOOR", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca6b0013fb3eaec7a96f49533643ddd10f", null ],
+      [ "EVENT_SARA_WIPE_RESPAWN", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becae19523c4d6891d635da02cad646bcdd0", null ]
     ] ],
     [ "YoggSpells", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08", [
       [ "SPELL_KEEPER_ACTIVE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2f17f57ee72712ea502e8cd1341c95df", null ],
