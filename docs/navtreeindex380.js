@@ -1,5 +1,16 @@
 var NAVTREEINDEX380 =
 {
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12":[8,0,0,0,1,2,41,9,68,2],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799":[8,0,0,0,1,2,41,9,68,1],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9afe0f4a94a112a1886a8ec9ce5b29e382":[8,0,0,0,1,2,41,9,68,12],
+"de/d30/SpellMgr_8h.html#a324bcfedb9d45ed36bd7457067482db8":[8,0,0,0,1,2,41,9,16],
+"de/d30/SpellMgr_8h.html#a32c0062c9375f8172af06d8d93eda685":[8,0,0,0,1,2,41,9,50],
+"de/d30/SpellMgr_8h.html#a35697cceaf39daf069d06c53e8e3cdf7":[8,0,0,0,1,2,41,9,76],
+"de/d30/SpellMgr_8h.html#a387f031811a92887df5962b41c7b2532":[8,0,0,0,1,2,41,9,58],
+"de/d30/SpellMgr_8h.html#a38a52b76af6f14f7d3ad3282be428da8":[8,0,0,0,1,2,41,9,15],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620":[8,0,0,0,1,2,41,9,72],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0cbc9ff250313715ea194c4fe1df791e":[8,0,0,0,1,2,41,9,72,16],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0fab403afacd213d4cfd78fd61420455":[8,0,0,0,1,2,41,9,72,1],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a1272d6059a779c53157d1dd19f942ee1":[8,0,0,0,1,2,41,9,72,11],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a18d42ef83f46c23f2d20e5c921c453db":[8,0,0,0,1,2,41,9,72,10],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a26de2b5bc1367cfe3e0110aeb22bdfed":[8,0,0,0,1,2,41,9,72,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX380 =
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488":[8,0,0,0,1,2,16,7,20,1,0],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[8,0,0,0,1,2,16,7,20,1,1],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[8,0,0,0,1,2,16,7,20,1,3],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[8,0,0,0,1,2,16,7,20,1,2],
-"de/d31/classspell__fatal__strike.html":[7,0,2963],
-"de/d31/classspell__fatal__strike.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd":[7,0,2963,1],
-"de/d31/classspell__fatal__strike.html#a3f7a01fcf8ef7cb151e29406b2b682a9":[7,0,2963,3],
-"de/d31/classspell__fatal__strike.html#ac628b5ddf18bae3b18b2512f1a92149f":[7,0,2963,2],
-"de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa":[7,0,2963,0],
-"de/d32/classspell__mage__glyph__of__icy__veins.html":[7,0,3612],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a396023bc98b70b6357630e45a2278afc":[7,0,3612,1],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a6af4e80cf3c88320a6157e986a4b719f":[7,0,3612,2],
-"de/d32/classspell__mage__glyph__of__icy__veins.html#a746a66c768e1987eb3752a41b19b822d":[7,0,3612,0],
-"de/d33/classHordeChannelMgr.html":[7,0,1305],
-"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[7,0,1305,0]
+"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[8,0,0,0,1,2,16,7,20,1,2]
 };

@@ -101,6 +101,7 @@ var boss__sartharion_8cpp =
       [ "SPELL_SARTHARION_FLAME_BREATH", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a5588f1fbccd919c9d0575c39c8b629", null ],
       [ "SPELL_SARTHARION_TAIL_LASH", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2", null ],
       [ "SPELL_CYCLONE_AURA_PERIODIC", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d", null ],
+      [ "SPELL_LAVA_STRIKE", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca2feebbb437680e7fcb42f8288867cc4a", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8c198b2e3db7fa4634ad2cc2aa2837", null ],
       [ "SPELL_LAVA_STRIKE_DUMMY_TRIGGER", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cad9434b530b8dfc291bc8ba2fe99427bf", null ],
       [ "SPELL_LAVA_STRIKE_SUMMON", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cabac67098db3f5da8eaa4f7ba6d52bf7d", null ],

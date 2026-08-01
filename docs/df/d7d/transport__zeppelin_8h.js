@@ -19,7 +19,8 @@ var transport__zeppelin_8h =
       [ "EVENT_OG_TO_UC_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a995774e8491af931828dba45955065ff", null ],
       [ "EVENT_UC_TO_OG_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a3fcf4fc5145b77ab22eea5a29b1298ce", null ],
       [ "EVENT_UC_TO_GROMGOL_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a294ed6ed695d3b69af3c2739d05ab84a", null ],
-      [ "EVENT_GROMGOL_TO_UC_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8", null ]
+      [ "EVENT_GROMGOL_TO_UC_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a5ba57a07d4d85759cbaac823104741c8", null ],
+      [ "EVENT_WK_DEPARTURE", "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0", null ]
     ] ],
     [ "ZeppelinMaster", "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16a", [
       [ "NPC_NEZRAZ", "df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa9dafa4aafab1e41697e00451566d77a5", null ],
@@ -41,6 +42,9 @@ var transport__zeppelin_8h =
       [ "NPC_CHIEF_OFFICER_COPPERNUT", "df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a1a94d73b5d5e70d7c17e463556e8e876", null ],
       [ "NPC_SKY_CAPTAIN_CABLELAMP", "df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84", null ],
       [ "NPC_WATCHER_UMJIN", "df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8", null ]
+    ] ],
+    [ "ZeppelinTransport", "df/d7d/transport__zeppelin_8h.html#ab056b3dcfb6a8a0900235d92e3b5677a", [
+      [ "GO_WESTGUARD_ZEPPELIN", "df/d7d/transport__zeppelin_8h.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d", null ]
     ] ],
     [ "SEARCH_RANGE_ZEPPELIN_MASTER", "df/d7d/transport__zeppelin_8h.html#ab326c00672be06c22ee74bd2dc7a3ce0", null ]
 ];
