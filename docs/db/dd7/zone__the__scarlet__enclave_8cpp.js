@@ -12,7 +12,6 @@ var zone__the__scarlet__enclave_8cpp =
     [ "spell_lich_king_whisper", "d0/d70/classspell__lich__king__whisper.html", "d0/d70/classspell__lich__king__whisper" ],
     [ "npc_koltira_deathweaver", "da/d18/structnpc__koltira__deathweaver.html", "da/d18/structnpc__koltira__deathweaver" ],
     [ "npc_scarlet_courier", "d5/d71/structnpc__scarlet__courier.html", "d5/d71/structnpc__scarlet__courier" ],
-    [ "npc_a_special_surprise", "db/d6f/structnpc__a__special__surprise.html", "db/d6f/structnpc__a__special__surprise" ],
     [ "npc_acherus_necromancer", "dd/d46/structnpc__acherus__necromancer.html", "dd/d46/structnpc__acherus__necromancer" ],
     [ "npc_gothik_the_harvester", "d2/df2/structnpc__gothik__the__harvester.html", "d2/df2/structnpc__gothik__the__harvester" ],
     [ "spell_chapter2_persuasive_strike", "da/d36/classspell__chapter2__persuasive__strike.html", "da/d36/classspell__chapter2__persuasive__strike" ],
@@ -338,20 +337,6 @@ var zone__the__scarlet__enclave_8cpp =
       [ "SPELL_SHOOT", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c", null ],
       [ "GO_INCONSPICUOUS_TREE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc", null ],
       [ "NPC_SCARLET_COURIER", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981", null ]
-    ] ],
-    [ "SpecialSurprise", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41", [
-      [ "SAY_EXEC_START", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5", null ],
-      [ "SAY_EXEC_PROG", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175", null ],
-      [ "SAY_EXEC_NAME", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d", null ],
-      [ "SAY_EXEC_RECOG", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6", null ],
-      [ "SAY_EXEC_NOREM", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0", null ],
-      [ "SAY_EXEC_THINK", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32", null ],
-      [ "SAY_EXEC_LISTEN", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4", null ],
-      [ "SAY_EXEC_TIME", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2", null ],
-      [ "SAY_EXEC_WAITING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36", null ],
-      [ "EMOTE_DIES", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560", null ],
-      [ "SAY_PLAGUEFIST", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499", null ],
-      [ "NPC_PLAGUEFIST", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819", null ]
     ] ],
     [ "spells_lich_king_whisper", "db/dd7/zone__the__scarlet__enclave_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
       [ "SPELL_LICH_KING_VO_BLOCKER", "db/dd7/zone__the__scarlet__enclave_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],

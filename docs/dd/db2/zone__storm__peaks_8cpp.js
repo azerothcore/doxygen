@@ -30,6 +30,7 @@ var zone__storm__peaks_8cpp =
     [ "npc_oathbound_warder", "de/d6c/structnpc__oathbound__warder.html", "de/d6c/structnpc__oathbound__warder" ],
     [ "spell_q13010_jokkum_summon", "dc/df4/classspell__q13010__jokkum__summon.html", "dc/df4/classspell__q13010__jokkum__summon" ],
     [ "spell_riding_jokkum", "d6/d8f/classspell__riding__jokkum.html", "d6/d8f/classspell__riding__jokkum" ],
+    [ "spell_q13048_time_period", "d7/d55/classspell__q13048__time__period.html", "d7/d55/classspell__q13048__time__period" ],
     [ "BrunnhildarPrisoner", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],

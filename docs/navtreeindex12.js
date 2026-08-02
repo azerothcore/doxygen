@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"d0/d87/classgo__wg__vehicle__teleporter.html#a074ead770a3da6e9ffa4180a3525f4c8":[7,0,1236,1],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a113aaf42c095000c1a016bfe60df11e7":[7,0,1236,2],
 "d0/d87/structTorlothCinematic.html":[7,0,4565],
 "d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[7,0,4565,1],
@@ -198,12 +199,12 @@ var NAVTREEINDEX12 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445af39adcb38f10e84d7ff9bac76f41031c":[8,0,0,0,1,3,5,9,2,11,20,29],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445afac75551d89cf02f03b570d29ed0112a":[8,0,0,0,1,3,5,9,2,11,20,47],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445aff76c6cd555921be6b77505f82d6e85f":[8,0,0,0,1,3,5,9,2,11,20,10],
-"d0/d89/structnpc__algalon__worm__hole.html":[7,0,1627],
-"d0/d89/structnpc__algalon__worm__hole.html#a033382dbd57714e815eed8ef6e4adfaf":[7,0,1627,4],
-"d0/d89/structnpc__algalon__worm__hole.html#a077425b35d86c007daa93fc8b1fd9717":[7,0,1627,1],
-"d0/d89/structnpc__algalon__worm__hole.html#a16f644be53169adc67fc971bdeaa7263":[7,0,1627,3],
-"d0/d89/structnpc__algalon__worm__hole.html#a363814abdee714faddfd966b11a4fddc":[7,0,1627,2],
-"d0/d89/structnpc__algalon__worm__hole.html#a546bd0ede2586fcbe3812698b68528d4":[7,0,1627,0],
+"d0/d89/structnpc__algalon__worm__hole.html":[7,0,1626],
+"d0/d89/structnpc__algalon__worm__hole.html#a033382dbd57714e815eed8ef6e4adfaf":[7,0,1626,4],
+"d0/d89/structnpc__algalon__worm__hole.html#a077425b35d86c007daa93fc8b1fd9717":[7,0,1626,1],
+"d0/d89/structnpc__algalon__worm__hole.html#a16f644be53169adc67fc971bdeaa7263":[7,0,1626,3],
+"d0/d89/structnpc__algalon__worm__hole.html#a363814abdee714faddfd966b11a4fddc":[7,0,1626,2],
+"d0/d89/structnpc__algalon__worm__hole.html#a546bd0ede2586fcbe3812698b68528d4":[7,0,1626,0],
 "d0/d8a/ScriptMgr_8h.html":[8,0,0,0,1,2,38,3],
 "d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087":[8,0,0,0,1,2,38,3,2],
 "d0/d8b/structboss__moragg.html":[7,0,642],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d8c/classEnumUtils.html#a2f86068aae0a1fc6bd0d74acf80bc591":[7,0,1052,87],
 "d0/d8c/classEnumUtils.html#a2fb6e6eec75d9cee896525c4e0242a48":[7,0,1052,135],
 "d0/d8c/classEnumUtils.html#a32730c3c4b62ab5f3c58f12b53894906":[7,0,1052,15],
-"d0/d8c/classEnumUtils.html#a33df3bb9277025d2b98a40b5d171782a":[7,0,1052,116],
-"d0/d8c/classEnumUtils.html#a34383c7ecf792da04a7feb40cb16f791":[7,0,1052,132]
+"d0/d8c/classEnumUtils.html#a33df3bb9277025d2b98a40b5d171782a":[7,0,1052,116]
 };

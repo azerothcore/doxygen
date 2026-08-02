@@ -8,6 +8,7 @@ var structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapS
     [ "IsEncounterInProgress", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ae75d01e5cd0787e5a0a17e39bbf53567", null ],
     [ "OnCreatureCreate", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a577cdfa8f49c2ec0f3fc8fd836345f8d", null ],
     [ "OnGameObjectCreate", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a5b658dd42d84a74033c12217ca67ea11", null ],
+    [ "OnUnitDeath", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a70bc65a42f9031e41d2a12c4a8a24d61", null ],
     [ "ReadSaveDataMore", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a46bb87153d9b09876c720f9bc1d16a5d", null ],
     [ "SetData", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a276ec28a0276f07da3940243c76c53e1", null ],
     [ "WriteSaveDataMore", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aeb55af0c6e517499a4153cfbd3fe2eae", null ],
