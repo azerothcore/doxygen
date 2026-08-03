@@ -1,9 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/d5e/classGridTerrainData.html#a0741c8d46e938fcf7b18fe7c9254b629":[7,0,1258,16],
-"de/d5e/classGridTerrainData.html#a07d7e85ff8386eaad8c9d1d32414e3b9":[7,0,1258,9],
-"de/d5e/classGridTerrainData.html#a1269f47abd6faf5304494c85628bb961":[7,0,1258,4],
-"de/d5e/classGridTerrainData.html#a1cf2965cea22f5a98ad2d737e372ac18":[7,0,1258,1],
 "de/d5e/classGridTerrainData.html#a2425f13f62b37931192acdc02127c243":[7,0,1258,18],
 "de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[7,0,1258,14],
 "de/d5e/classGridTerrainData.html#a2e3b2ea01f5ce3f93944529d73fa70de":[7,0,1258,10],
@@ -221,8 +217,8 @@ var NAVTREEINDEX385 =
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9":[8,0,0,0,1,3,2,23,5,4],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,34,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[7,0,13,6,30],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,34,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[7,0,13,6,30,2],
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,34,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[7,0,13,6,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[5,0,34,6,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[7,0,13,6,30,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX385 =
 "de/d69/structnpc__isle__of__conquest__turret_1_1npc__isle__of__conquest__turretAI.html#afc8b8a9be6b0908fcb83af57bef7a57a":[7,0,1944,0,2],
 "de/d6a/classNotInStomachSelector.html":[7,0,1610],
 "de/d6a/classNotInStomachSelector.html#a189c90e585ecef8ffbcbe9227c588946":[7,0,1610,1],
-"de/d6a/classNotInStomachSelector.html#a766a75e73261ac8bb76c90e8befd21ad":[7,0,1610,0]
+"de/d6a/classNotInStomachSelector.html#a766a75e73261ac8bb76c90e8befd21ad":[7,0,1610,0],
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html":[7,0,2016,0],
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a2994e5658035bb2cfe6f3cdab4c507fc":[7,0,2016,0,0],
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a490bf07de00cc5c59b5f0024317d8125":[7,0,2016,0,2],
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5":[7,0,2016,0,4]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX141 =
 {
-"d4/dd0/classWorldObject.html#a407a8530b35f6729c71bbbc2b3e4f36f":[7,0,4700,26],
-"d4/dd0/classWorldObject.html#a40c87362a137976ff1a46388793c5122":[7,0,4700,50],
-"d4/dd0/classWorldObject.html#a40f0974be3005abb7313b4688e4cdfe3":[7,0,4700,139],
 "d4/dd0/classWorldObject.html#a41cc408a2870e2f50321f5573e462e82":[7,0,4700,65],
 "d4/dd0/classWorldObject.html#a41d85385408958edcecb5883dd89c3d9":[7,0,4700,199],
 "d4/dd0/classWorldObject.html#a427232fadbffe7fede5c3318dd02b039":[7,0,4700,20],
@@ -163,11 +160,11 @@ var NAVTREEINDEX141 =
 "d4/dd0/classWorldObject.html#afb0998855682f99a84683de812ae3dc4":[7,0,4700,147],
 "d4/dd0/classWorldObject.html#afc786081f657fd125cfc0b7d938305e9":[7,0,4700,180],
 "d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[7,0,4700,8],
-"d4/dd1/classspell__gen__dalaran__disguise.html":[7,0,3044],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3044,3],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3044,0],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[7,0,3044,1],
-"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[7,0,3044,2],
+"d4/dd1/classspell__gen__dalaran__disguise.html":[7,0,3043],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3043,3],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3043,0],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[7,0,3043,1],
+"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[7,0,3043,2],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html":[7,0,67],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#a87fd2d5702fe33ee8b09042c66897636":[7,0,67,0],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#aa77aa6129967601ede2f3fc44b2ee1aa":[7,0,67,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX141 =
 "d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0":[7,0,4381,3],
 "d4/dd6/classspell__warr__vigilance.html#a624d09c6f1a177912a1c7cab30d89c7b":[7,0,4381,6],
 "d4/dd6/classspell__warr__vigilance.html#a644aaf343b41f049f34ff7387c613bf1":[7,0,4381,4],
-"d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e":[7,0,4381,2]
+"d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e":[7,0,4381,2],
+"d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b":[7,0,4381,1],
+"d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6":[7,0,4381,0],
+"d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[7,0,4381,8]
 };

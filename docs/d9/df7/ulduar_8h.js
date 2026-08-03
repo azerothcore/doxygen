@@ -176,6 +176,7 @@ var ulduar_8h =
       [ "EVENT_TOWER_OF_FROST_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78af940e143a749cc46af18f08274f1235e", null ],
       [ "EVENT_TOWER_OF_FLAMES_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa9c0bcc591d9bcd8ba08093abceb2380", null ],
       [ "EVENT_TOWER_OF_LIFE_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7b606af2fab76214cf1bb5840a2aec55", null ],
+      [ "EVENT_HODIR_SHATTER_CHEST", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ab65fee22819ec7a251e2a52c6bd9eecd", null ],
       [ "ACTION_LEVIATHAN_REFRESH_TOWERS", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a3ba8009dda0238e2c90d217191be586e", null ],
       [ "ACTION_TOWER_OF_STORM_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a42abfabf7bacde3b765407a9956babf6", null ],
       [ "ACTION_TOWER_OF_FROST_DESTROYED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ad5c27996801d50d6be6f4f24bb371a85", null ],

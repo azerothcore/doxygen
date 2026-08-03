@@ -267,7 +267,7 @@ var classCreature =
     [ "_playerDamageReq", "db/dd5/classCreature.html#ae5ab87b05a210d9f8d6fc3eb00da2143", null ],
     [ "_respawnCompatibilityMode", "db/dd5/classCreature.html#a78dc752865ca05b12da5c97336f68126", null ],
     [ "_sparringPct", "db/dd5/classCreature.html#a69f907d08a41e37ff2c0519f1b030a19", null ],
-    [ "_spellFocusInfo", "db/dd5/classCreature.html#a151f08c7522c849fd1383e89a9d326b6", null ],
+    [ "_spellFocusInfo", "db/dd5/classCreature.html#a0801a08a185cc2f31678edcdbc6a0ad1", null ],
     [ "_spellFocusTarget", "db/dd5/classCreature.html#acfda068283a7b0195f3671d0fa587db4", null ],
     [ "Delay", "db/dd5/classCreature.html#aad86470956fa645f58e4c2a3d87b60d6", null ],
     [ "DisableLootReward", "db/dd5/classCreature.html#ae1edc2f713a5f110f165d14f9361610e", null ],

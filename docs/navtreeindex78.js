@@ -1,8 +1,5 @@
 var NAVTREEINDEX78 =
 {
-"d2/de9/classSpellInfo.html#a9ab37b7b7987ad85cc0bbaad45f2b905":[7,0,4456,132],
-"d2/de9/classSpellInfo.html#a9aff74ad92b9a933cdcffe41ffd2d659":[7,0,4456,134],
-"d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[7,0,4456,117],
 "d2/de9/classSpellInfo.html#aa006aa12bf45b271115fe1c6b03177e1":[7,0,4456,193],
 "d2/de9/classSpellInfo.html#aa068893ef3d4d1905d2bca2e2990bd14":[7,0,4456,17],
 "d2/de9/classSpellInfo.html#aa2eabd23552c5904652236e468bcdecf":[7,0,4456,93],
@@ -73,12 +70,12 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#afbedf3c95f43d0342dbcd3e3faf1c451":[7,0,4456,180],
 "d2/de9/classSpellInfo.html#afc8742bc858cb12197c005168931cb2d":[7,0,4456,106],
 "d2/de9/classSpellInfo.html#afd255235dc8bb42bf6c91024f14850e8":[7,0,4456,18],
-"d2/de9/classspell__apothecary__validate__area.html":[7,0,2659],
-"d2/de9/classspell__apothecary__validate__area.html#a1a510f9cf49df69c5904cb79c8cdc860":[7,0,2659,4],
-"d2/de9/classspell__apothecary__validate__area.html#a2832f131d99608923ade8070e17da86d":[7,0,2659,3],
-"d2/de9/classspell__apothecary__validate__area.html#a4c7627dc20c4dafcee4d6faf97d3914e":[7,0,2659,0],
-"d2/de9/classspell__apothecary__validate__area.html#a84ed93d5235781d9d53a47fff39d3ad2":[7,0,2659,2],
-"d2/de9/classspell__apothecary__validate__area.html#aecb62c147905d0a4fe60086b8028df0b":[7,0,2659,1],
+"d2/de9/classspell__apothecary__validate__area.html":[7,0,2658],
+"d2/de9/classspell__apothecary__validate__area.html#a1a510f9cf49df69c5904cb79c8cdc860":[7,0,2658,4],
+"d2/de9/classspell__apothecary__validate__area.html#a2832f131d99608923ade8070e17da86d":[7,0,2658,3],
+"d2/de9/classspell__apothecary__validate__area.html#a4c7627dc20c4dafcee4d6faf97d3914e":[7,0,2658,0],
+"d2/de9/classspell__apothecary__validate__area.html#a84ed93d5235781d9d53a47fff39d3ad2":[7,0,2658,2],
+"d2/de9/classspell__apothecary__validate__area.html#aecb62c147905d0a4fe60086b8028df0b":[7,0,2658,1],
 "d2/dea/Guild_8h.html":[8,0,0,0,1,2,21,1],
 "d2/dea/Guild_8h.html#a06a0aa0a30a110150b9f76a3be9ee59d":[8,0,0,0,1,2,21,1,21],
 "d2/dea/Guild_8h.html#a06a0aa0a30a110150b9f76a3be9ee59da0e9ffb6d5c2c9909a0eca1ede00ee816":[8,0,0,0,1,2,21,1,21,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX78 =
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0fcbab58d501df4771df38afc41cf72b":[8,0,0,0,1,3,7,0,3,1,1,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,7,0,3,1,3],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,0,3,1,3,4],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba13e3c4fbf4ffac2b5a7fc5c14d049293":[8,0,0,0,1,3,7,0,3,1,3,3]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba13e3c4fbf4ffac2b5a7fc5c14d049293":[8,0,0,0,1,3,7,0,3,1,3,3],
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,3,1,3,1],
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,3,1,3,2],
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,3,1,3,0]
 };

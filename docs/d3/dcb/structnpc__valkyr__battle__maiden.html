@@ -497,7 +497,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2655</span>: <a class="code hl_class" href="../../d8/dcd/classPassiveAI.html">PassiveAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2574</span>: <a class="code hl_class" href="../../d8/dcd/classPassiveAI.html">PassiveAI</a>(creature) { }</div>
 <div class="ttc" id="aclassPassiveAI_html"><div class="ttname"><a href="../../d8/dcd/classPassiveAI.html">PassiveAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -527,21 +527,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2662</span>    {</div>
-<div class="line"><span class="lineno"> 2663</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2664</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 2665</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a>);</div>
-<div class="line"><span class="lineno"> 2666</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2667</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 500;</div>
-<div class="line"><span class="lineno"> 2668</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a> = 0;</div>
-<div class="line"><span class="lineno"> 2669</span> </div>
-<div class="line"><span class="lineno"> 2670</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>);</div>
-<div class="line"><span class="lineno"> 2671</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a> += 4.0f;</div>
-<div class="line"><span class="lineno"> 2672</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a> -= 3.5f;</div>
-<div class="line"><span class="lineno"> 2673</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a> -= 5.0f;</div>
-<div class="line"><span class="lineno"> 2674</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 2675</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a73a7d3d9c51705f6e06d3cb8149a0212">SetPosition</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>, 0.0f);</div>
-<div class="line"><span class="lineno"> 2676</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2581</span>    {</div>
+<div class="line"><span class="lineno"> 2582</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2583</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 2584</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a>);</div>
+<div class="line"><span class="lineno"> 2585</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2586</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 500;</div>
+<div class="line"><span class="lineno"> 2587</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a> = 0;</div>
+<div class="line"><span class="lineno"> 2588</span> </div>
+<div class="line"><span class="lineno"> 2589</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>);</div>
+<div class="line"><span class="lineno"> 2590</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a> += 4.0f;</div>
+<div class="line"><span class="lineno"> 2591</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a> -= 3.5f;</div>
+<div class="line"><span class="lineno"> 2592</span>        <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a> -= 5.0f;</div>
+<div class="line"><span class="lineno"> 2593</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 2594</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a73a7d3d9c51705f6e06d3cb8149a0212">SetPosition</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>, 0.0f);</div>
+<div class="line"><span class="lineno"> 2595</span>    }</div>
 <div class="ttc" id="aUnitDefines_8h_html_affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NON_ATTACKABLE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:258</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aclassCreature_html_a73a7d3d9c51705f6e06d3cb8149a0212"><div class="ttname"><a href="../../db/dd5/classCreature.html#a73a7d3d9c51705f6e06d3cb8149a0212">Creature::SetPosition</a></div><div class="ttdeci">void SetPosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition</b> Creature.cpp:3293</div></div>
@@ -552,13 +552,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition</b> Unit.h:749</div></div>
 <div class="ttc" id="aclassWorldObject_html_a7182e916128ed9d0942413c0f14315a7"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">WorldObject::setActive</a></div><div class="ttdeci">void setActive(bool isActiveObject)</div><div class="ttdef"><b>Definition</b> Object.cpp:1086</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
-<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a26087a56f66a399c4b444a7e226d82f3"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">npc_valkyr_battle_maiden::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2658</div></div>
-<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a55eb219c646ecd63b99745792c1c8a03"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">npc_valkyr_battle_maiden::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2658</div></div>
-<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a83cf215a2f4c8fea4c87c4dc43398298"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">npc_valkyr_battle_maiden::phase</a></div><div class="ttdeci">uint32 phase</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2659</div></div>
-<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_ab6843fb900cebc4659a98837a6d678a7"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">npc_valkyr_battle_maiden::FlyBackTimer</a></div><div class="ttdeci">uint32 FlyBackTimer</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2657</div></div>
-<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_af9781f785ebde34cab533cff9cf2b8db"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">npc_valkyr_battle_maiden::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2658</div></div>
+<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a26087a56f66a399c4b444a7e226d82f3"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">npc_valkyr_battle_maiden::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2577</div></div>
+<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a55eb219c646ecd63b99745792c1c8a03"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">npc_valkyr_battle_maiden::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2577</div></div>
+<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_a83cf215a2f4c8fea4c87c4dc43398298"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">npc_valkyr_battle_maiden::phase</a></div><div class="ttdeci">uint32 phase</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2578</div></div>
+<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_ab6843fb900cebc4659a98837a6d678a7"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">npc_valkyr_battle_maiden::FlyBackTimer</a></div><div class="ttdeci">uint32 FlyBackTimer</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2576</div></div>
+<div class="ttc" id="astructnpc__valkyr__battle__maiden_html_af9781f785ebde34cab533cff9cf2b8db"><div class="ttname"><a href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">npc_valkyr_battle_maiden::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2577</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00193">MotionMaster::Clear()</a>, <a class="el" href="../../#l02657">FlyBackTimer</a>, <a class="el" href="../../#l01757">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l02659">phase</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l16545">Unit::SetCanFly()</a>, <a class="el" href="../../#l03293">Creature::SetPosition()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, <a class="el" href="../../#l02658">x</a>, <a class="el" href="../../#l02658">y</a>, and <a class="el" href="../../#l02658">z</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00193">MotionMaster::Clear()</a>, <a class="el" href="../../#l02576">FlyBackTimer</a>, <a class="el" href="../../#l01757">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l02578">phase</a>, <a class="el" href="../../#l01086">WorldObject::setActive()</a>, <a class="el" href="../../#l16545">Unit::SetCanFly()</a>, <a class="el" href="../../#l03293">Creature::SetPosition()</a>, <a class="el" href="../../#l00749">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, <a class="el" href="../../#l02577">x</a>, <a class="el" href="../../#l02577">y</a>, and <a class="el" href="../../#l02577">z</a>.</p>
 
 </div>
 </div>
@@ -589,70 +589,70 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2679</span>    {</div>
-<div class="line"><span class="lineno"> 2680</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 2681</span>        {</div>
-<div class="line"><span class="lineno"> 2682</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 2683</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9534e161f94312c5ee5c81fd75cc16ee">IsSummon</a>())</div>
-<div class="line"><span class="lineno"> 2684</span>            {</div>
-<div class="line"><span class="lineno"> 2685</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> * summoner = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../dc/d88/classTempSummon.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>())</div>
-<div class="line"><span class="lineno"> 2686</span>                {</div>
-<div class="line"><span class="lineno"> 2687</span>                    player = summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2688</span>                }</div>
-<div class="line"><span class="lineno"> 2689</span>            }</div>
-<div class="line"><span class="lineno"> 2690</span> </div>
-<div class="line"><span class="lineno"> 2691</span>            <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno"> 2692</span>            {</div>
-<div class="line"><span class="lineno"> 2693</span>                <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a> = 3;</div>
-<div class="line"><span class="lineno"> 2694</span>            }</div>
-<div class="line"><span class="lineno"> 2695</span> </div>
-<div class="line"><span class="lineno"> 2696</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a>)</div>
-<div class="line"><span class="lineno"> 2697</span>            {</div>
-<div class="line"><span class="lineno"> 2698</span>                <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno"> 2699</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 2700</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a8ee2bab93393673c4064816feb072fe2">EMOTE_STATE_FLYGRABCLOSED</a>);</div>
-<div class="line"><span class="lineno"> 2701</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 500;</div>
-<div class="line"><span class="lineno"> 2702</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2703</span>                <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno"> 2704</span>                    <span class="keywordflow">if</span> (player)</div>
-<div class="line"><span class="lineno"> 2705</span>                    {</div>
-<div class="line"><span class="lineno"> 2706</span>                        player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7b65f5354be0a698bf59435f5434709a">GetClosePoint</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>, <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>());</div>
-<div class="line"><span class="lineno"> 2707</span>                    }</div>
-<div class="line"><span class="lineno"> 2708</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a> += 2.5f;</div>
-<div class="line"><span class="lineno"> 2709</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a> -= 2.0f;</div>
-<div class="line"><span class="lineno"> 2710</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a> -= 1.5f;</div>
-<div class="line"><span class="lineno"> 2711</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a35fb18b3487e4b5f746102c7038e563f">MovePoint</a>(0, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>);</div>
-<div class="line"><span class="lineno"> 2712</span>                    <span class="keywordflow">if</span> (player)</div>
-<div class="line"><span class="lineno"> 2713</span>                    {</div>
-<div class="line"><span class="lineno"> 2714</span>                        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">SetTarget</a>(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 2715</span>                    }</div>
-<div class="line"><span class="lineno"> 2716</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2717</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 4500;</div>
-<div class="line"><span class="lineno"> 2718</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2719</span>                <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno"> 2720</span>                    <span class="keywordflow">if</span> (player &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#aa2ef3be9c954d2f741a1fbbe9d95fad0">isResurrectRequested</a>())</div>
-<div class="line"><span class="lineno"> 2721</span>                    {</div>
-<div class="line"><span class="lineno"> 2722</span>                        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a4a890afc0924460f073909ff8f157092">EMOTE_ONESHOT_CUSTOM_SPELL_01</a>);</div>
-<div class="line"><span class="lineno"> 2723</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(player, <a class="code hl_enumvalue" href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38">SPELL_REVIVE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2724</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833">WHISPER_REVIVE</a>, player);</div>
-<div class="line"><span class="lineno"> 2725</span>                    }</div>
-<div class="line"><span class="lineno"> 2726</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 5000;</div>
-<div class="line"><span class="lineno"> 2727</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2728</span>                <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno"> 2729</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 2730</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 3000;</div>
-<div class="line"><span class="lineno"> 2731</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2732</span>                <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno"> 2733</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
-<div class="line"><span class="lineno"> 2734</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2735</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 2736</span>                    <span class="comment">//Nothing To DO</span></div>
-<div class="line"><span class="lineno"> 2737</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2738</span>            }</div>
-<div class="line"><span class="lineno"> 2739</span>            ++<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a>;</div>
-<div class="line"><span class="lineno"> 2740</span>        }</div>
-<div class="line"><span class="lineno"> 2741</span>        <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> -= diff;</div>
-<div class="line"><span class="lineno"> 2742</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2598</span>    {</div>
+<div class="line"><span class="lineno"> 2599</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 2600</span>        {</div>
+<div class="line"><span class="lineno"> 2601</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 2602</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9534e161f94312c5ee5c81fd75cc16ee">IsSummon</a>())</div>
+<div class="line"><span class="lineno"> 2603</span>            {</div>
+<div class="line"><span class="lineno"> 2604</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> * summoner = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../dc/d88/classTempSummon.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>())</div>
+<div class="line"><span class="lineno"> 2605</span>                {</div>
+<div class="line"><span class="lineno"> 2606</span>                    player = summoner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2607</span>                }</div>
+<div class="line"><span class="lineno"> 2608</span>            }</div>
+<div class="line"><span class="lineno"> 2609</span> </div>
+<div class="line"><span class="lineno"> 2610</span>            <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno"> 2611</span>            {</div>
+<div class="line"><span class="lineno"> 2612</span>                <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a> = 3;</div>
+<div class="line"><span class="lineno"> 2613</span>            }</div>
+<div class="line"><span class="lineno"> 2614</span> </div>
+<div class="line"><span class="lineno"> 2615</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a>)</div>
+<div class="line"><span class="lineno"> 2616</span>            {</div>
+<div class="line"><span class="lineno"> 2617</span>                <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno"> 2618</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 2619</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a8ee2bab93393673c4064816feb072fe2">EMOTE_STATE_FLYGRABCLOSED</a>);</div>
+<div class="line"><span class="lineno"> 2620</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 500;</div>
+<div class="line"><span class="lineno"> 2621</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2622</span>                <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno"> 2623</span>                    <span class="keywordflow">if</span> (player)</div>
+<div class="line"><span class="lineno"> 2624</span>                    {</div>
+<div class="line"><span class="lineno"> 2625</span>                        player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7b65f5354be0a698bf59435f5434709a">GetClosePoint</a>(<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>, <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>());</div>
+<div class="line"><span class="lineno"> 2626</span>                    }</div>
+<div class="line"><span class="lineno"> 2627</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a> += 2.5f;</div>
+<div class="line"><span class="lineno"> 2628</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a> -= 2.0f;</div>
+<div class="line"><span class="lineno"> 2629</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a> -= 1.5f;</div>
+<div class="line"><span class="lineno"> 2630</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a35fb18b3487e4b5f746102c7038e563f">MovePoint</a>(0, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a26087a56f66a399c4b444a7e226d82f3">x</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a55eb219c646ecd63b99745792c1c8a03">y</a>, <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#af9781f785ebde34cab533cff9cf2b8db">z</a>);</div>
+<div class="line"><span class="lineno"> 2631</span>                    <span class="keywordflow">if</span> (player)</div>
+<div class="line"><span class="lineno"> 2632</span>                    {</div>
+<div class="line"><span class="lineno"> 2633</span>                        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">SetTarget</a>(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 2634</span>                    }</div>
+<div class="line"><span class="lineno"> 2635</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2636</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 4500;</div>
+<div class="line"><span class="lineno"> 2637</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2638</span>                <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno"> 2639</span>                    <span class="keywordflow">if</span> (player &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#aa2ef3be9c954d2f741a1fbbe9d95fad0">isResurrectRequested</a>())</div>
+<div class="line"><span class="lineno"> 2640</span>                    {</div>
+<div class="line"><span class="lineno"> 2641</span>                        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a4a890afc0924460f073909ff8f157092">EMOTE_ONESHOT_CUSTOM_SPELL_01</a>);</div>
+<div class="line"><span class="lineno"> 2642</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(player, <a class="code hl_enumvalue" href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38">SPELL_REVIVE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2643</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833">WHISPER_REVIVE</a>, player);</div>
+<div class="line"><span class="lineno"> 2644</span>                    }</div>
+<div class="line"><span class="lineno"> 2645</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 5000;</div>
+<div class="line"><span class="lineno"> 2646</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2647</span>                <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno"> 2648</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 2649</span>                    <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> = 3000;</div>
+<div class="line"><span class="lineno"> 2650</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2651</span>                <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno"> 2652</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
+<div class="line"><span class="lineno"> 2653</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2654</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 2655</span>                    <span class="comment">//Nothing To DO</span></div>
+<div class="line"><span class="lineno"> 2656</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2657</span>            }</div>
+<div class="line"><span class="lineno"> 2658</span>            ++<a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#a83cf215a2f4c8fea4c87c4dc43398298">phase</a>;</div>
+<div class="line"><span class="lineno"> 2659</span>        }</div>
+<div class="line"><span class="lineno"> 2660</span>        <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html#ab6843fb900cebc4659a98837a6d678a7">FlyBackTimer</a> -= diff;</div>
+<div class="line"><span class="lineno"> 2661</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0e527855c554e31654c9beb340145574a4a890afc0924460f073909ff8f157092"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a4a890afc0924460f073909ff8f157092">EMOTE_ONESHOT_CUSTOM_SPELL_01</a></div><div class="ttdeci">@ EMOTE_ONESHOT_CUSTOM_SPELL_01</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2001</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a0e527855c554e31654c9beb340145574a8ee2bab93393673c4064816feb072fe2"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a8ee2bab93393673c4064816feb072fe2">EMOTE_STATE_FLYGRABCLOSED</a></div><div class="ttdeci">@ EMOTE_STATE_FLYGRABCLOSED</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2051</div></div>
 <div class="ttc" id="aclassCreature_html_a50cbb98572134a854c21c0ff8221c380"><div class="ttname"><a href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">Creature::SetTarget</a></div><div class="ttdeci">void SetTarget(ObjectGuid guid=ObjectGuid::Empty) override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3560</div></div>
@@ -672,10 +672,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_a7b65f5354be0a698bf59435f5434709a"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7b65f5354be0a698bf59435f5434709a">WorldObject::GetClosePoint</a></div><div class="ttdeci">bool GetClosePoint(float &amp;x, float &amp;y, float &amp;z, float size, float distance2d=0, float angle=0, WorldObject const *forWho=nullptr, bool force=false) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2820</div></div>
 <div class="ttc" id="aclassWorldObject_html_ae3ccd7ee8fcb156805c61b83e5c016ae"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">WorldObject::GetObjectSize</a></div><div class="ttdeci">float GetObjectSize() const</div><div class="ttdef"><b>Definition</b> Object.cpp:2892</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
-<div class="ttc" id="azone__the__scarlet__enclave_8cpp_html_a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833"><div class="ttname"><a href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833">WHISPER_REVIVE</a></div><div class="ttdeci">@ WHISPER_REVIVE</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2650</div></div>
-<div class="ttc" id="azone__the__scarlet__enclave_8cpp_html_a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38"><div class="ttname"><a href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38">SPELL_REVIVE</a></div><div class="ttdeci">@ SPELL_REVIVE</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2645</div></div>
+<div class="ttc" id="azone__the__scarlet__enclave_8cpp_html_a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833"><div class="ttname"><a href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833">WHISPER_REVIVE</a></div><div class="ttdeci">@ WHISPER_REVIVE</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2569</div></div>
+<div class="ttc" id="azone__the__scarlet__enclave_8cpp_html_a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38"><div class="ttname"><a href="../../db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38">SPELL_REVIVE</a></div><div class="ttdeci">@ SPELL_REVIVE</div><div class="ttdef"><b>Definition</b> zone_the_scarlet_enclave.cpp:2564</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00179">UnitAI::DoCast()</a>, <a class="el" href="../../#l02001">EMOTE_ONESHOT_CUSTOM_SPELL_01</a>, <a class="el" href="../../#l02051">EMOTE_STATE_FLYGRABCLOSED</a>, <a class="el" href="../../#l02657">FlyBackTimer</a>, <a class="el" href="../../#l02820">WorldObject::GetClosePoint()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01757">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02892">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00044">TempSummon::GetSummonerUnit()</a>, <a class="el" href="../../#l02187">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l01855">Player::isResurrectRequested()</a>, <a class="el" href="../../#l00795">Unit::IsSummon()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00240">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l02659">phase</a>, <a class="el" href="../../#l03560">Creature::SetTarget()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, <a class="el" href="../../#l02645">SPELL_REVIVE</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, <a class="el" href="../../#l00732">Unit::ToTempSummon()</a>, <a class="el" href="../../#l02650">WHISPER_REVIVE</a>, <a class="el" href="../../#l02658">x</a>, <a class="el" href="../../#l02658">y</a>, and <a class="el" href="../../#l02658">z</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00179">UnitAI::DoCast()</a>, <a class="el" href="../../#l02001">EMOTE_ONESHOT_CUSTOM_SPELL_01</a>, <a class="el" href="../../#l02051">EMOTE_STATE_FLYGRABCLOSED</a>, <a class="el" href="../../#l02576">FlyBackTimer</a>, <a class="el" href="../../#l02820">WorldObject::GetClosePoint()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01757">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02892">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00044">TempSummon::GetSummonerUnit()</a>, <a class="el" href="../../#l02187">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l01855">Player::isResurrectRequested()</a>, <a class="el" href="../../#l00795">Unit::IsSummon()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00240">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l02578">phase</a>, <a class="el" href="../../#l03560">Creature::SetTarget()</a>, <a class="el" href="../../#l11085">Unit::SetVisible()</a>, <a class="el" href="../../#l03343">Creature::SetWalk()</a>, <a class="el" href="../../#l02564">SPELL_REVIVE</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, <a class="el" href="../../#l00732">Unit::ToTempSummon()</a>, <a class="el" href="../../#l02569">WHISPER_REVIVE</a>, <a class="el" href="../../#l02577">x</a>, <a class="el" href="../../#l02577">y</a>, and <a class="el" href="../../#l02577">z</a>.</p>
 
 </div>
 </div>
@@ -692,7 +692,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02661">Reset()</a>, and <a class="el" href="../../#l02678">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02580">Reset()</a>, and <a class="el" href="../../#l02597">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -708,7 +708,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02661">Reset()</a>, and <a class="el" href="../../#l02678">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02580">Reset()</a>, and <a class="el" href="../../#l02597">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -724,7 +724,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02661">Reset()</a>, and <a class="el" href="../../#l02678">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02580">Reset()</a>, and <a class="el" href="../../#l02597">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -740,7 +740,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02661">Reset()</a>, and <a class="el" href="../../#l02678">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02580">Reset()</a>, and <a class="el" href="../../#l02597">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -756,7 +756,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02661">Reset()</a>, and <a class="el" href="../../#l02678">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02580">Reset()</a>, and <a class="el" href="../../#l02597">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -769,7 +769,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dcb/structnpc__valkyr__battle__maiden.html">npc_valkyr_battle_maiden</a></li>
-    <li class="footer">Generated on Sun Aug 2 2026 08:15:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Aug 3 2026 09:35:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

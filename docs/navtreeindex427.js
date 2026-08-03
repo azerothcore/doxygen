@@ -1,8 +1,5 @@
 var NAVTREEINDEX427 =
 {
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[8,0,0,0,1,3,2,25,1,0],
-"df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[8,0,0,0,1,3,2,25,2],
-"df/dfc/classspell__item__pet__healing.html":[7,0,3455],
 "df/dfc/classspell__item__pet__healing.html#a357e5c8a332989f93276667da1adf9f6":[7,0,3455,2],
 "df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[7,0,3455,1],
 "df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[7,0,3455,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX427 =
 "dir_e56388218ded62e9fe679e8749c12bd9.html":[8,0,0,0,1,3,7,0,1],
 "dir_e5b41f27617119c832debc7577c7457a.html":[8,0,0,0,1,2,25],
 "dir_e6878661719ebb39ea055d86137d95ee.html":[8,0,0,0,0,13],
-"dir_e83c9d0a1780a629eb22febc87da63b1.html":[8,0,0,0,1,2,16]
+"dir_e83c9d0a1780a629eb22febc87da63b1.html":[8,0,0,0,1,2,16],
+"dir_e8df728d6a6e829c2d0f8060a021b576.html":[8,0,0,0,0,2],
+"dir_e9c6e9721fb85b8a3de8a5f0877c7991.html":[8,0,0,0,1,3,2,1,1],
+"dir_ea33f7fc30415360daedf4b963058d3d.html":[8,0,0,0,1,2,36]
 };

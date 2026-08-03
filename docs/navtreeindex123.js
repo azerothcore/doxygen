@@ -1,8 +1,5 @@
 var NAVTREEINDEX123 =
 {
-"d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a2da6ef4d69e5bd387625b986b8039850":[8,0,0,0,1,3,5,4,1,3,8,2],
-"d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a3ba2ddb44205ed8f33890f12960c800b":[8,0,0,0,1,3,5,4,1,3,8,20],
-"d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a3ecdbeb9c3ad1c0b48df2bdf1bc6a006":[8,0,0,0,1,3,5,4,1,3,8,4],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a4eb9519977379a55a0fce7d1d96af797":[8,0,0,0,1,3,5,4,1,3,8,22],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a58aa6348137fad9a6844b7985d762a88":[8,0,0,0,1,3,5,4,1,3,8,23],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a6192ce5c7f05b93952861ccc2aa47c3d":[8,0,0,0,1,3,5,4,1,3,8,3],
@@ -217,10 +214,10 @@ var NAVTREEINDEX123 =
 "d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,3978,1],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,3978,2],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,3978,3],
-"d4/d21/classspell__drain__mana.html":[7,0,2870],
-"d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2870,2],
-"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2870,0],
-"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[7,0,2870,1],
+"d4/d21/classspell__drain__mana.html":[7,0,2869],
+"d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2869,2],
+"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2869,0],
+"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[7,0,2869,1],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html":[8,0,0,0,1,3,7,4,3,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,3,3,5],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,4,3,3,5,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX123 =
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#a6f7a6e66abcf4f4dd685bbb805920900":[7,0,475,0,3],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#a7ac2e510568a9dad710beaad42db0544":[7,0,475,0,1],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#a830dfa4fed62b4588ea8866174d3653a":[7,0,475,0,2],
-"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#a9febd1d69c27140ddd2ac018181c67ec":[7,0,475,0,8]
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#a9febd1d69c27140ddd2ac018181c67ec":[7,0,475,0,8],
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#aa4fac163e31dcd9353238f993259d5ec":[7,0,475,0,6],
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#aa5cd735c22d46e1b756f87f3952033a1":[7,0,475,0,4],
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#acee81492b9b751df587a3a2cdd691ab3":[7,0,475,0,5]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2520001e4fe2a621d4b6b232413b5a73":[8,0,0,0,1,2,16,10,5,53,20],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea258aae10f381a608fa0ea602c9db7e81":[8,0,0,0,1,2,16,10,5,53,27],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2820ab7c24d9ae9e7c2522c5cd60da32":[8,0,0,0,1,2,16,10,5,53,14],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2ca084c2061b3ebd16a486bd8e64a0d2":[8,0,0,0,1,2,16,10,5,53,28],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea37c195e8bf305bc76cd18324824ad4e0":[8,0,0,0,1,2,16,10,5,53,19],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea44e12d41e08bdc27e6c7736e593ad8e1":[8,0,0,0,1,2,16,10,5,53,9],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d":[8,0,0,0,1,2,16,10,5,53,5],
@@ -170,9 +166,9 @@ var NAVTREEINDEX41 =
 "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6ddab3ddc12b0760eec54f45b90b8671af4d":[8,0,0,0,1,2,16,10,5,52,1],
 "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6ddabb35437d15ab9bfc3b7dbf7bac7c0dee":[8,0,0,0,1,2,16,10,5,52,0],
 "d1/daf/Unit_8h.html#afef08589b9944f10d66bdc1de74d0270":[8,0,0,0,1,2,16,10,5,62],
-"d1/daf/classnpc__toc__paladin.html":[7,0,2234],
-"d1/daf/classnpc__toc__paladin.html#a15766ea4414701040c738251302177af":[7,0,2234,2],
-"d1/daf/classnpc__toc__paladin.html#af11025a2a4be2b2c982ad31241d47180":[7,0,2234,1],
+"d1/daf/classnpc__toc__paladin.html":[7,0,2233],
+"d1/daf/classnpc__toc__paladin.html#a15766ea4414701040c738251302177af":[7,0,2233,2],
+"d1/daf/classnpc__toc__paladin.html#af11025a2a4be2b2c982ad31241d47180":[7,0,2233,1],
 "d1/daf/classspell__q11919__q11940__drake__hunt__aura.html":[7,0,3915],
 "d1/daf/classspell__q11919__q11940__drake__hunt__aura.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e":[7,0,3915,1],
 "d1/daf/classspell__q11919__q11940__drake__hunt__aura.html#a632e81cc39bdcd0f5adcc684231d1171":[7,0,3915,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX41 =
 "d1/db4/boss__thekal_8cpp.html#a5bd342133be8c2137b831460acc9298caf4b3b7a5e8b4481dcb60a25093408bb2":[8,0,0,0,1,3,2,15,10,5,9],
 "d1/db4/boss__thekal_8cpp.html#a5bd342133be8c2137b831460acc9298cafa4e2a4c2a24bc29010bc0903e35ee22":[8,0,0,0,1,3,2,15,10,5,12],
 "d1/db4/boss__thekal_8cpp.html#a5bd342133be8c2137b831460acc9298cafbd2315db151a6840a9721c58617f3fc":[8,0,0,0,1,3,2,15,10,5,14],
-"d1/db4/classinstance__sunken__temple.html":[7,0,1375]
+"d1/db4/classinstance__sunken__temple.html":[7,0,1375],
+"d1/db4/classinstance__sunken__temple.html#a123b052c1cd1487588c88bf2611bc53b":[7,0,1375,1],
+"d1/db4/classinstance__sunken__temple.html#a1a783056b681f1f3b90e2e33e6a4a86d":[7,0,1375,2],
+"d1/db4/classnpc__valithria__portal.html":[7,0,2288],
+"d1/db4/classnpc__valithria__portal.html#a6014d7a57dfe5d21f63c03b3efcbdfc8":[7,0,2288,1]
 };

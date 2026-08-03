@@ -13,12 +13,12 @@ var structnpc__ulduar__vx001 =
     [ "SetData", "df/dda/structnpc__ulduar__vx001.html#a8ae4ce7110f8ad7f7b800924220133b0", null ],
     [ "SpellHit", "df/dda/structnpc__ulduar__vx001.html#a10fe94210982e31e3cb48614d74a8e67", null ],
     [ "UpdateAI", "df/dda/structnpc__ulduar__vx001.html#ab8f9d5f73674dd351731210f5e053fd9", null ],
+    [ "_barrageOrientation", "df/dda/structnpc__ulduar__vx001.html#adae1f634d47364c0715a2cc4075d3cf3", null ],
     [ "_events", "df/dda/structnpc__ulduar__vx001.html#adc9d977da6b2d24230fdc242461217da", null ],
     [ "_fighting", "df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a", null ],
     [ "_isEvading", "df/dda/structnpc__ulduar__vx001.html#acdb4d264fea9a15c62b32173d0b674a3", null ],
     [ "_leftArm", "df/dda/structnpc__ulduar__vx001.html#a5c15b3c1aad51569cc8b6fe3a371f0bb", null ],
+    [ "_nextBarrageArc", "df/dda/structnpc__ulduar__vx001.html#a3ce924268138611d056878d77bea2985", null ],
     [ "_phase", "df/dda/structnpc__ulduar__vx001.html#a09d6c576c0edf23d46e53c3909a82b00", null ],
-    [ "_spinningUpOrientation", "df/dda/structnpc__ulduar__vx001.html#aa80b621fdd89e000c945552ac38495f2", null ],
-    [ "_spinningUpTimer", "df/dda/structnpc__ulduar__vx001.html#a349f58e878588ba2dcb2dd2da64a9f87", null ],
     [ "instance", "df/dda/structnpc__ulduar__vx001.html#a720b4fdc32d067cdb91589bdc1724299", null ]
 ];

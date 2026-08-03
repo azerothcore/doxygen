@@ -1,9 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb":[8,0,0,0,1,3,5,18,56,2],
-"de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c":[8,0,0,0,1,3,5,18,56,0],
-"de/da6/zone__dragonblight_8cpp.html#aa0bde757544a3b1dcc305bff0e6ca9bb":[8,0,0,0,1,3,5,18,60],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9":[8,0,0,0,1,3,5,18,58],
 "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a01f955c72d8d431c507ab329e9035d52":[8,0,0,0,1,3,5,18,58,3],
 "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a2cde59b0a4db66da80a3c1bbf39a0d4f":[8,0,0,0,1,3,5,18,58,7],
 "de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a3aa7dd30f9eeea1e9280a23f00a5ce76":[8,0,0,0,1,3,5,18,58,2],
@@ -202,11 +198,11 @@ var NAVTREEINDEX394 =
 "de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[7,0,4712,0],
 "de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[7,0,4712,1],
 "de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[7,0,4712,4],
-"de/dad/classspell__despawner__self.html":[7,0,2796],
-"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[7,0,2796,3],
-"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[7,0,2796,2],
-"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[7,0,2796,1],
-"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[7,0,2796,0],
+"de/dad/classspell__despawner__self.html":[7,0,2795],
+"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[7,0,2795,3],
+"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[7,0,2795,2],
+"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[7,0,2795,1],
+"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[7,0,2795,0],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[7,0,176],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[7,0,176,1],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[7,0,176,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX394 =
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a0a4629ac79798699788a63a24ccf8dd6":[8,0,0,0,1,3,7,4,3,5,3,6],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a3c2e42f2da7b4f256d291998e86b61fb":[8,0,0,0,1,3,7,4,3,5,3,3],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a48cd245ca33338ebeffd89b1ff82e494":[8,0,0,0,1,3,7,4,3,5,3,2],
-"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a59e0bcfcc3952275c85e15b9812b1584":[8,0,0,0,1,3,7,4,3,5,3,1]
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a59e0bcfcc3952275c85e15b9812b1584":[8,0,0,0,1,3,7,4,3,5,3,1],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a62d91e26ea20366580c9ab9f8be2781d":[8,0,0,0,1,3,7,4,3,5,3,8],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e":[8,0,0,0,1,3,7,4,3,5,3,12],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a8ba24c0631934a42c70fd4ed5ba69da8":[8,0,0,0,1,3,7,4,3,5,3,5],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875":[8,0,0,0,1,3,7,4,3,5,3,10]
 };

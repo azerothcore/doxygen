@@ -1,8 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3827,2],
-"d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3827,0],
-"d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3827,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
@@ -210,12 +207,12 @@ var NAVTREEINDEX54 =
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7adaae331a9f2b83cc198f7bdd130fc3c8d8":[8,0,0,0,1,2,36,2,19,12],
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7adada41fcb30316a71cc3c1f9a32a4f487c":[8,0,0,0,1,2,36,2,19,5],
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7adaf684e0d6b4efab2cf6a32452b9bba335":[8,0,0,0,1,2,36,2,19,15],
-"d2/d27/classspell__dru__omen__of__clarity.html":[7,0,2915],
-"d2/d27/classspell__dru__omen__of__clarity.html#a1b7b855383b04bd1b627c6f1e33ad7a5":[7,0,2915,0],
-"d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[7,0,2915,2],
-"d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[7,0,2915,3],
-"d2/d27/classspell__dru__omen__of__clarity.html#a5a3006bb5d54d68b8eb529a8c680c5c0":[7,0,2915,4],
-"d2/d27/classspell__dru__omen__of__clarity.html#a726af9faf0170050f662cb1cc99e6ec8":[7,0,2915,1],
+"d2/d27/classspell__dru__omen__of__clarity.html":[7,0,2914],
+"d2/d27/classspell__dru__omen__of__clarity.html#a1b7b855383b04bd1b627c6f1e33ad7a5":[7,0,2914,0],
+"d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[7,0,2914,2],
+"d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[7,0,2914,3],
+"d2/d27/classspell__dru__omen__of__clarity.html#a5a3006bb5d54d68b8eb529a8c680c5c0":[7,0,2914,4],
+"d2/d27/classspell__dru__omen__of__clarity.html#a726af9faf0170050f662cb1cc99e6ec8":[7,0,2914,1],
 "d2/d27/classspell__warr__deep__wounds.html":[7,0,4356],
 "d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[7,0,4356,2],
 "d2/d27/classspell__warr__deep__wounds.html#a42ff645d6c8e94353ae118327af5f4e6":[7,0,4356,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX54 =
 "d2/d27/structnpc__azure__invader.html#ac178244e22f71a15d7af91946cf961ef":[7,0,1668,3],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html":[7,0,3924],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[7,0,3924,2],
-"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[7,0,3924,1]
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[7,0,3924,1],
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[7,0,3924,0],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[7,0,1321,0],
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a048a2b16ae9917c7edc9bf7023986ac3":[7,0,1321,0,1]
 };

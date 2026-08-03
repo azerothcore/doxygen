@@ -11,7 +11,6 @@ var zone__the__scarlet__enclave_8cpp =
     [ "spell_lich_king_vo_blocker", "da/ddf/classspell__lich__king__vo__blocker.html", "da/ddf/classspell__lich__king__vo__blocker" ],
     [ "spell_lich_king_whisper", "d0/d70/classspell__lich__king__whisper.html", "d0/d70/classspell__lich__king__whisper" ],
     [ "npc_koltira_deathweaver", "da/d18/structnpc__koltira__deathweaver.html", "da/d18/structnpc__koltira__deathweaver" ],
-    [ "npc_scarlet_courier", "d5/d71/structnpc__scarlet__courier.html", "d5/d71/structnpc__scarlet__courier" ],
     [ "npc_acherus_necromancer", "dd/d46/structnpc__acherus__necromancer.html", "dd/d46/structnpc__acherus__necromancer" ],
     [ "npc_gothik_the_harvester", "d2/df2/structnpc__gothik__the__harvester.html", "d2/df2/structnpc__gothik__the__harvester" ],
     [ "spell_chapter2_persuasive_strike", "da/d36/classspell__chapter2__persuasive__strike.html", "da/d36/classspell__chapter2__persuasive__strike" ],
@@ -330,13 +329,6 @@ var zone__the__scarlet__enclave_8cpp =
     ] ],
     [ "Says_VBM", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4", [
       [ "WHISPER_REVIVE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
-    ] ],
-    [ "ScarletCourierEnum", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4", [
-      [ "SAY_TREE1", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794", null ],
-      [ "SAY_TREE2", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc", null ],
-      [ "SPELL_SHOOT", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "GO_INCONSPICUOUS_TREE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc", null ],
-      [ "NPC_SCARLET_COURIER", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981", null ]
     ] ],
     [ "spells_lich_king_whisper", "db/dd7/zone__the__scarlet__enclave_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
       [ "SPELL_LICH_KING_VO_BLOCKER", "db/dd7/zone__the__scarlet__enclave_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],

@@ -1,9 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[7,0,274,2],
-"df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[7,0,274,3],
-"df/d1d/structAuctionHousePlayerInfo.html#ac88c2c37d92c9e4a8502a870a580fa01":[7,0,274,1],
-"df/d1d/structAuctionHousePlayerInfo.html#acb80e9b49dda9771679b871cf862d876":[7,0,274,0],
 "df/d1e/classUpdatableScript.html":[7,0,4611],
 "df/d1e/classUpdatableScript.html#a2d6cf85d1eb98438b5022804296eff11":[7,0,4611,0],
 "df/d1e/classUpdatableScript.html#abf328325e08aa0d6adf36e6f70b02328":[7,0,4611,1],
@@ -65,10 +61,10 @@ var NAVTREEINDEX403 =
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf87c780432ca26b887bf986d5a7a4b6":[8,0,0,0,1,3,2,1,1,15,9,4],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afc3e2fe9429a9d43bb8e00ffe69703cf":[8,0,0,0,1,3,2,1,1,15,9,3],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afd09db3869f04306b07aef3cb2bd47e8":[8,0,0,0,1,3,2,1,1,15,9,9],
-"df/d1f/classnpc__tharnarian.html":[7,0,2210],
-"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[7,0,2210,1],
-"df/d1f/classnpc__tharnarian.html#a88e82aa6c08fa85491c87d7a558efd9b":[7,0,2210,3],
-"df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[7,0,2210,2],
+"df/d1f/classnpc__tharnarian.html":[7,0,2209],
+"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[7,0,2209,1],
+"df/d1f/classnpc__tharnarian.html#a88e82aa6c08fa85491c87d7a558efd9b":[7,0,2209,3],
+"df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[7,0,2209,2],
 "df/d20/GameObjectAI_8h.html":[8,0,0,0,1,2,3,0,3],
 "df/d20/areatrigger__scripts_8cpp.html":[8,0,0,0,1,3,10,2],
 "df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275":[8,0,0,0,1,3,10,2,16],
@@ -249,5 +245,9 @@ var NAVTREEINDEX403 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45dbd0c48d73e6f2f250ec0d8bb6c8d1":[8,0,0,0,1,2,16,5,0,4,6,259],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[8,0,0,0,1,2,16,5,0,4,6,302],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49274b75b31edf1b32e1922b5e37fb0c":[8,0,0,0,1,2,16,5,0,4,6,9],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70":[8,0,0,0,1,2,16,5,0,4,6,28]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49af271c782fa1b5d80c569f71f65d70":[8,0,0,0,1,2,16,5,0,4,6,28],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4a39bc64daabfb9fda53c98cc4ce8caa":[8,0,0,0,1,2,16,5,0,4,6,110],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4dd058bb7ac3e02a35dddb4452d59a27":[8,0,0,0,1,2,16,5,0,4,6,165],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4f5133c7b83b63079278a987a443cba0":[8,0,0,0,1,2,16,5,0,4,6,20],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4f8a6a5eb8a791757df4a36f5c16ab96":[8,0,0,0,1,2,16,5,0,4,6,95]
 };

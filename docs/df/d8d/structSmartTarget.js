@@ -51,6 +51,7 @@ var structSmartTarget =
     [ "roleSelection", "df/d8d/structSmartTarget.html#a430510504aebb2e9f37278bdd231ab3b", null ],
     [ "seatMask", "df/d8d/structSmartTarget.html#a61f23fdc1b87de34bd2a6b08d1cae97d", null ],
     [ "self", "df/d8d/structSmartTarget.html#a726279330a1fa9fc4fb89a3d338bf04d", null ],
+    [ "sharedOwnerEntities", "df/d8d/structSmartTarget.html#adc159e6efef539f36d90011175b70423", null ],
     [ "spellId", "df/d8d/structSmartTarget.html#a2ed93baf995e552b1bf290ca7a3c21d9", null ],
     [ "stored", "df/d8d/structSmartTarget.html#a21810f28a0a9df4e55facf1d182bd68c", null ],
     [ "summonedCreatures", "df/d8d/structSmartTarget.html#a1ba3e14c4939fd13f5babb176fadfe53", null ],

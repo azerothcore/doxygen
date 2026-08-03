@@ -1,12 +1,5 @@
 var NAVTREEINDEX196 =
 {
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225aaa2144855201fe0233eb91629cc538d0":[8,0,0,0,1,3,5,25,15,23],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225aad99497d75603f4e802a2924f0637347":[8,0,0,0,1,3,5,25,15,22],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab2f216d476c5cdb1914c8ac8a18949e0":[8,0,0,0,1,3,5,25,15,56],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab5d7847a95bf64c602931af03e7f386b":[8,0,0,0,1,3,5,25,15,34],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab707159fc22afb11d605ff5d1613b06b":[8,0,0,0,1,3,5,25,15,39],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab9ecddc81db4d32e0f18c02e0e8c8040":[8,0,0,0,1,3,5,25,15,28],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225abd0575cd83ccbb6cfce2ed374c32de7a":[8,0,0,0,1,3,5,25,15,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225acf3a968930869175f0e246ed4bb6974d":[8,0,0,0,1,3,5,25,15,2],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad04d02024aed7c6c845173693a791bab":[8,0,0,0,1,3,5,25,15,50],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad1729d180ff95f67da7db9ff5be43192":[8,0,0,0,1,3,5,25,15,42],
@@ -152,10 +145,10 @@ var NAVTREEINDEX196 =
 "d7/d24/classField.html#af5ffe1fcb3acbd7806c9e1f28fa2f358":[7,0,1070,1],
 "d7/d24/classField.html#af6fa4dc59b02e3417833a8dbae2a70f0":[7,0,1070,20],
 "d7/d24/classField.html#afbdbd4f90407c728afb0f815c1e0a44a":[7,0,1070,18],
-"d7/d24/classspell__cthun__dark__glare.html":[7,0,2779],
-"d7/d24/classspell__cthun__dark__glare.html#a31d1d590f0e6fc2e56322d606961828f":[7,0,2779,2],
-"d7/d24/classspell__cthun__dark__glare.html#a3ec2840ab1d853a1546c64a2d158e75f":[7,0,2779,0],
-"d7/d24/classspell__cthun__dark__glare.html#a511e54100036307aa5d37bc959405c73":[7,0,2779,1],
+"d7/d24/classspell__cthun__dark__glare.html":[7,0,2778],
+"d7/d24/classspell__cthun__dark__glare.html#a31d1d590f0e6fc2e56322d606961828f":[7,0,2778,2],
+"d7/d24/classspell__cthun__dark__glare.html#a3ec2840ab1d853a1546c64a2d158e75f":[7,0,2778,0],
+"d7/d24/classspell__cthun__dark__glare.html#a511e54100036307aa5d37bc959405c73":[7,0,2778,1],
 "d7/d25/classspell__illidan__draw__soul.html":[7,0,3322],
 "d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[7,0,3322,1],
 "d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[7,0,3322,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX196 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22abbf2ef8e817a22ff60e7ba379089c6c6":[8,0,0,0,1,3,2,1,0,1,6,21],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ac13133ba13780ce50a289ee44bc39854":[8,0,0,0,1,3,2,1,0,1,6,1],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ac4b24491dd9bf6de185bcac2a288ede4":[8,0,0,0,1,3,2,1,0,1,6,17],
-"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ac56e520c600555a3556d141c310a957d":[8,0,0,0,1,3,2,1,0,1,6,16]
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ac56e520c600555a3556d141c310a957d":[8,0,0,0,1,3,2,1,0,1,6,16],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22acc35e4f1fce7a20dd5f125c2a9af5fc1":[8,0,0,0,1,3,2,1,0,1,6,18],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ace3beec4204e7970ce4f0d60c7f88eae":[8,0,0,0,1,3,2,1,0,1,6,19],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ad52ecae8e6baa0483641ffd628de6b39":[8,0,0,0,1,3,2,1,0,1,6,11],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ad81c4f51887e860c7c51accd225d17bc":[8,0,0,0,1,3,2,1,0,1,6,31],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ad8d51c3a06c2c1a588c392f6edf238ba":[8,0,0,0,1,3,2,1,0,1,6,13],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22adb192726b0c70f2b1a8e9c8a849f7b14":[8,0,0,0,1,3,2,1,0,1,6,8],
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22adc7caf597f1cc358437f568f979073f3":[8,0,0,0,1,3,2,1,0,1,6,20]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX77 =
 {
-"d2/de1/classlearn__commandscript.html#af7393dfd87f9742cfc7220896c4eeb1b":[7,0,1445,8],
-"d2/de1/structnpc__pet__mage__mirror__image.html":[7,0,2072],
-"d2/de1/structnpc__pet__mage__mirror__image.html#a074611355768dc2072da69ed9d72242b":[7,0,2072,8],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a2761cc9bf3a8bb7908d3db6d929721ba":[7,0,2072,0],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a49d57ba93cd88816f68c16d56d3b8cd2":[7,0,2072,3],
 "d2/de1/structnpc__pet__mage__mirror__image.html#a66d513908aa88504d0cbe4ce9bf222be":[7,0,2072,2],
@@ -14,9 +11,9 @@ var NAVTREEINDEX77 =
 "d2/de1/structnpc__pet__mage__mirror__image.html#aa219b3adc38b625c6885089895b941b4":[7,0,2072,5],
 "d2/de1/structnpc__pet__mage__mirror__image.html#ab65a74ef0f1e253bf9df4e4f7c6856a3":[7,0,2072,6],
 "d2/de3/CellImpl_8h.html":[8,0,0,0,1,2,19,0,1],
-"d2/de3/classnpc__shadowmoon__tuber__node.html":[7,0,2154],
-"d2/de3/classnpc__shadowmoon__tuber__node.html#a5f641af77e2fd78fe67b34fa18bf6b73":[7,0,2154,2],
-"d2/de3/classnpc__shadowmoon__tuber__node.html#a98e8c7a84789457900fa342cca209d41":[7,0,2154,1],
+"d2/de3/classnpc__shadowmoon__tuber__node.html":[7,0,2153],
+"d2/de3/classnpc__shadowmoon__tuber__node.html#a5f641af77e2fd78fe67b34fa18bf6b73":[7,0,2153,2],
+"d2/de3/classnpc__shadowmoon__tuber__node.html#a98e8c7a84789457900fa342cca209d41":[7,0,2153,1],
 "d2/de4/VehicleHandler_8cpp.html":[8,0,0,0,1,2,22,34],
 "d2/de4/classIntegrationTestFixture.html":[7,0,1404],
 "d2/de4/classIntegrationTestFixture.html#a14a887c379c1bab8270e4e447d6d3710":[7,0,1404,8],
@@ -249,5 +246,8 @@ var NAVTREEINDEX77 =
 "d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[7,0,4456,163],
 "d2/de9/classSpellInfo.html#a9904a9ebdd084815af5ef6d1653ffbbd":[7,0,4456,153],
 "d2/de9/classSpellInfo.html#a99fae2785bf72093933e2d0ab107c18f":[7,0,4456,55],
-"d2/de9/classSpellInfo.html#a9a2b7ff5d4740b1c2e01b29a126ec306":[7,0,4456,49]
+"d2/de9/classSpellInfo.html#a9a2b7ff5d4740b1c2e01b29a126ec306":[7,0,4456,49],
+"d2/de9/classSpellInfo.html#a9ab37b7b7987ad85cc0bbaad45f2b905":[7,0,4456,132],
+"d2/de9/classSpellInfo.html#a9aff74ad92b9a933cdcffe41ffd2d659":[7,0,4456,134],
+"d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[7,0,4456,117]
 };

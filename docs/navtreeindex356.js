@@ -1,9 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364":[8,0,0,0,1,3,4,6,1,4,14],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52":[8,0,0,0,1,3,4,6,1,4,21],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4":[8,0,0,0,1,3,4,6,1,4,17],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963":[8,0,0,0,1,3,4,6,1,4,18],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e":[8,0,0,0,1,3,4,6,1,4,20],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635":[8,0,0,0,1,3,4,6,1,4,2],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405":[8,0,0,0,1,3,4,6,1,4,16],
@@ -164,9 +160,9 @@ var NAVTREEINDEX356 =
 "dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[8,0,0,0,1,3,5,9,2,10,27],
 "dd/dca/boss__razorscale_8cpp.html#ac6b389b2aa85676209b50e2536c72aaf":[8,0,0,0,1,3,5,9,2,10,33],
 "dd/dca/boss__razorscale_8cpp.html#af53e92667f401fa6a714e7673631ad10":[8,0,0,0,1,3,5,9,2,10,36],
-"dd/dca/classnpc__spiritual__insight.html":[7,0,2178],
-"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[7,0,2178,2],
-"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[7,0,2178,1],
+"dd/dca/classnpc__spiritual__insight.html":[7,0,2177],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[7,0,2177,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[7,0,2177,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[8,0,0,0,1,2,38,0,33],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[8,0,0,0,1,2,38,0,33,0],
 "dd/dcb/PlayerScript_8h.html":[8,0,0,0,1,2,38,0,77],
@@ -249,5 +245,9 @@ var NAVTREEINDEX356 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a61781f07e1030f0042df1878535a17a7":[8,0,0,0,1,2,38,0,77,1,17],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a62b5809b69bb0f23bf32c7b962a4b855":[8,0,0,0,1,2,38,0,77,1,142],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a641372d82f6143581ad0345905c69650":[8,0,0,0,1,2,38,0,77,1,105],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6421c7cbc39dc79d7f9f1482564d28ae":[8,0,0,0,1,2,38,0,77,1,74]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6421c7cbc39dc79d7f9f1482564d28ae":[8,0,0,0,1,2,38,0,77,1,74],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a677f4389b0d892e9d5ae1556370acb18":[8,0,0,0,1,2,38,0,77,1,139],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a67ca5760e41722c9da606740e48d63fa":[8,0,0,0,1,2,38,0,77,1,58],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a67fa98a63aaaa5df4f928d9062ef3fb7":[8,0,0,0,1,2,38,0,77,1,106],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6825a8dfe60d3444e58624b2ef353eb4":[8,0,0,0,1,2,38,0,77,1,76]
 };

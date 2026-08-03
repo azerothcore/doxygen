@@ -212,5 +212,7 @@ var boss__mimiron_8cpp =
       [ "TALK_COMPUTER_ZERO", "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a29c5bf84120b3c70381c5f15053011e9", null ]
     ] ],
     [ "AddSC_boss_mimiron", "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5", null ],
-    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ]
+    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ],
+    [ "VX001_BARRAGE_ARC_START", "dc/d29/boss__mimiron_8cpp.html#a007f0b8e4ca58abc0ba03f571679bf60", null ],
+    [ "VX001_BARRAGE_ARC_STEP", "dc/d29/boss__mimiron_8cpp.html#a2bb7e27b666798e6939e74d1e3ab62f8", null ]
 ];
