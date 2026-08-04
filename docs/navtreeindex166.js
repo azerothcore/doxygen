@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/dea/structFireworkShow.html#ae6a3fa59e1eb384255c247abadc962d5":[7,0,1077,4],
 "d5/deb/classnpc__mr__bigglesworth.html":[7,0,2015],
 "d5/deb/classnpc__mr__bigglesworth.html#a3d5957253ef3af4f48f5bfaf4d93ce0f":[7,0,2015,1],
 "d5/deb/classnpc__mr__bigglesworth.html#a51e81be4146e8e40a82ecf4018cb955d":[7,0,2015,0],
@@ -116,12 +117,12 @@ var NAVTREEINDEX166 =
 "d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
 "d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
+"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
-"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[7,0,0,65,0],
+"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[5,0,0,77,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,77,2],
@@ -242,12 +243,11 @@ var NAVTREEINDEX166 =
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[5,0,0,7,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[7,0,0,4,0,0,0],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a6ffbf1b2887c79b97a1804a601ea585e":[5,0,0,7,0,0,0],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[7,0,0,4,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[5,0,0,7,0,0,1],
+"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#a872daea2854f6243884ec35734f94d2e":[7,0,0,4,0,0,1],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[7,0,0,4,0,0,2],
 "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html#acbb2b3fc4989e4bb51e3440dcb753719":[5,0,0,7,0,0,2],
 "d5/df2/boss__fathomlord__karathress_8cpp.html":[8,0,0,0,1,3,7,2,0,0],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782faf":[8,0,0,0,1,3,7,2,0,0,8],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782fafa662013e4fb1d21b9546682e07ed133e0":[8,0,0,0,1,3,7,2,0,0,8,2],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782fafade62fe4f24a4588a2fc5066d962d0f1b":[8,0,0,0,1,3,7,2,0,0,8,0]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#a13cee5c55c4ca6264b249087b9782fafa662013e4fb1d21b9546682e07ed133e0":[8,0,0,0,1,3,7,2,0,0,8,2]
 };

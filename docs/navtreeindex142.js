@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[7,0,4381,8],
 "d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[7,0,4381,5],
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html":[7,0,2124],
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html#a15fa73dea3b9b86a6d1b42f9d1296d6e":[7,0,2124,5],
@@ -207,10 +208,10 @@ var NAVTREEINDEX142 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1080,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1080,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1080,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1935,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1935,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1935,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae023eb68fc066ba5713baaf3b0595f0c":[7,0,535,0,5],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[7,0,535,0,0],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae6b8c72ad3d36ee6eea624a7d79ca26b":[7,0,535,0,4],
-"d4/dde/Random_8cpp.html":[8,0,0,0,0,15,20],
-"d4/dde/Random_8cpp.html#a131ba7587aa544a7e73ff9884d6bc784":[8,0,0,0,0,15,20,12]
+"d4/dde/Random_8cpp.html":[8,0,0,0,0,15,20]
 };

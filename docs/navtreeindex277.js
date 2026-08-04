@@ -1,5 +1,8 @@
 var NAVTREEINDEX277 =
 {
+"da/d9e/classSmartAIMgr.html#ad24d5454bfab13924494a83889b16577":[7,0,2611,17],
+"da/d9e/classSmartAIMgr.html#ad29edf0f46841b176529e386a669cba0":[7,0,2611,23],
+"da/d9e/classSmartAIMgr.html#ada782861c6465b53febcb835c201b46b":[7,0,2611,3],
 "da/d9e/classSmartAIMgr.html#adb011836ffb01660a069ced11c24aa81":[7,0,2611,14],
 "da/d9e/classSmartAIMgr.html#aecba247ae946b0183089e889c0ca3aa2":[7,0,2611,11],
 "da/d9e/classSmartAIMgr.html#af0d63c3897cd3f3520d4f4f8cd709d19":[7,0,2611,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX277 =
 "da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[7,0,4157,0],
 "da/daa/BattlegroundRV_8cpp.html":[8,0,0,0,1,2,8,1,16],
 "da/daa/BattlegroundRV_8cpp.html#a20f119684cfae65594c4cb1fc59e60c1":[8,0,0,0,1,2,8,1,16,1],
-"da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[8,0,0,0,1,2,8,1,16,3],
-"da/daa/BattlegroundRV_8cpp.html#abb49be7549db0a88e8b5fcd470741084":[8,0,0,0,1,2,8,1,16,2],
-"da/daa/BattlegroundRV_8cpp.html#adea63e30cefe486dd1cbeb0353fdaeb2":[8,0,0,0,1,2,8,1,16,0],
-"da/daa/classMetricStopWatch.html":[7,0,1544]
+"da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[8,0,0,0,1,2,8,1,16,3]
 };

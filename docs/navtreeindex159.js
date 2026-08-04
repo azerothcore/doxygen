@@ -1,11 +1,12 @@
 var NAVTREEINDEX159 =
 {
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[8,0,0,0,1,2,44,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[8,0,0,0,1,2,44,1,10],
@@ -233,9 +234,9 @@ var NAVTREEINDEX159 =
 "d5/dab/structLoadedHoleData.html":[7,0,1470],
 "d5/dab/structLoadedHoleData.html#a496f77513e47d89adfcc2f32d4bc1242":[7,0,1470,1],
 "d5/dab/structLoadedHoleData.html#a72531c15631ba45fe0c0ed962557e993":[7,0,1470,0],
-"d5/dab/structSpellVisualEntry.html":[7,0,4502],
-"d5/dab/structSpellVisualEntry.html#ae9ab544537448113f628c22ed8c91a27":[7,0,4502,1],
-"d5/dab/structSpellVisualEntry.html#af8f9e79164ee3c7a617f63552bb23816":[7,0,4502,0],
+"d5/dab/structSpellVisualEntry.html":[7,0,4504],
+"d5/dab/structSpellVisualEntry.html#ae9ab544537448113f628c22ed8c91a27":[7,0,4504,1],
+"d5/dab/structSpellVisualEntry.html#af8f9e79164ee3c7a617f63552bb23816":[7,0,4504,0],
 "d5/dab/structnpc__invis__infernal__caster_1_1npc__invis__infernal__casterAI.html":[7,0,1939,0],
 "d5/dab/structnpc__invis__infernal__caster_1_1npc__invis__infernal__casterAI.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c":[7,0,1939,0,1],
 "d5/dab/structnpc__invis__infernal__caster_1_1npc__invis__infernal__casterAI.html#a1188ecc4752d5ab1c2f81602187282f2":[7,0,1939,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dac/classAllMapScript.html":[7,0,159],
 "d5/dac/classAllMapScript.html#a1a4b75a1845923bcf68481ecc0d6b77c":[7,0,159,1],
 "d5/dac/classAllMapScript.html#a42e4af596effb07a00b353164f32cec9":[7,0,159,6],
-"d5/dac/classAllMapScript.html#a56aa53bfb0a1cb7ad7cb677771739b46":[7,0,159,2],
-"d5/dac/classAllMapScript.html#a6bebd1e6e36b5714598439a6c6dfaad6":[7,0,159,4]
+"d5/dac/classAllMapScript.html#a56aa53bfb0a1cb7ad7cb677771739b46":[7,0,159,2]
 };

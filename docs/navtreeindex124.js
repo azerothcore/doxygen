@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#acee81492b9b751df587a3a2cdd691ab3":[7,0,475,0,5],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#af2fbf866f87d568ee6028f0931d3b74e":[7,0,475,0,7],
 "d4/d22/structboss__hodir.html":[7,0,554],
 "d4/d22/structboss__hodir.html#a054fe2dcd8480d3d0b50ce2776e64194":[7,0,554,0],
@@ -212,11 +213,11 @@ var NAVTREEINDEX124 =
 "d4/d2a/FormulasTest_8cpp.html#a8ffadf8c8dbffb858cf2a925473d6bff":[8,0,0,0,2,2,0,7,0,3],
 "d4/d2a/FormulasTest_8cpp.html#a9b7a926251db0fa2bd2678cee360e161":[8,0,0,0,2,2,0,7,0,5],
 "d4/d2a/FormulasTest_8cpp.html#ac23831b7258f696b9e9a4972c42b5a4c":[8,0,0,0,2,2,0,7,0,1],
-"d4/d2a/structVendorItemCount.html":[7,0,4635],
-"d4/d2a/structVendorItemCount.html#a0b88ba4ea590abbdc9234ff4a2a335fa":[7,0,4635,3],
-"d4/d2a/structVendorItemCount.html#a225158bbb56d6666ba4918155f08f993":[7,0,4635,2],
-"d4/d2a/structVendorItemCount.html#abdf2d2900f75bb2b8d9727bab8fcbbc3":[7,0,4635,0],
-"d4/d2a/structVendorItemCount.html#aff4c062138792ffb37dadb19b725c87c":[7,0,4635,1],
+"d4/d2a/structVendorItemCount.html":[7,0,4637],
+"d4/d2a/structVendorItemCount.html#a0b88ba4ea590abbdc9234ff4a2a335fa":[7,0,4637,3],
+"d4/d2a/structVendorItemCount.html#a225158bbb56d6666ba4918155f08f993":[7,0,4637,2],
+"d4/d2a/structVendorItemCount.html#abdf2d2900f75bb2b8d9727bab8fcbbc3":[7,0,4637,0],
+"d4/d2a/structVendorItemCount.html#aff4c062138792ffb37dadb19b725c87c":[7,0,4637,1],
 "d4/d2b/GameObject_8cpp.html":[8,0,0,0,1,2,16,3,0],
 "d4/d2b/OutdoorPvPHP_8h.html":[8,0,0,0,1,3,6,6],
 "d4/d2b/OutdoorPvPHP_8h.html#a01aada98c8079ea71a361cba06e10640":[8,0,0,0,1,3,6,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,0,1,6,0],
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4d8e5b12f693213d64aa0c3015681ca3":[8,0,0,0,1,3,5,9,0,1,6,1],
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,0,1,6,2],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01":[8,0,0,0,1,3,5,9,0,1,3],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a3fc75f85681abc880dc451562f449186":[8,0,0,0,1,3,5,9,0,1,3,3]
+"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01":[8,0,0,0,1,3,5,9,0,1,3]
 };

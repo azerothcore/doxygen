@@ -1,5 +1,9 @@
 var NAVTREEINDEX358 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,0,1,1,8],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b01bb6d3fb8443b07a687c16d86009d":[8,0,0,0,1,3,5,0,1,1,8,9],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca179e7766f313d1186b34946a356a5b2f":[8,0,0,0,1,3,5,0,1,1,8,2],
+"dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca27d96b654d5c6b9afa5d3f6cfc610237":[8,0,0,0,1,3,5,0,1,1,8,5],
 "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca3327d5768c4dabad04a0ba3acb78453a":[8,0,0,0,1,3,5,0,1,1,8,12],
 "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3":[8,0,0,0,1,3,5,0,1,1,8,6],
 "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca40d06437d7a7173d382508725aa066ab":[8,0,0,0,1,3,5,0,1,1,8,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX358 =
 "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa35ed4e2a44ff747f8953376b5dc90390":[8,0,0,0,1,3,5,1,1,2,29,1],
 "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa4ff3d7d7271f8cb2caba11688d679b6a":[8,0,0,0,1,3,5,1,1,2,29,3],
 "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfac7a7e5ecf3f499fdefd66d6f7ab4a3da":[8,0,0,0,1,3,5,1,1,2,29,2],
-"dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfaf1fbd131f332796c421842f377ae13cf":[8,0,0,0,1,3,5,1,1,2,29,0],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,1,1,2,30],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a08dcf80da4581a30b56fe575a3a9a5e1":[8,0,0,0,1,3,5,1,1,2,30,11],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1c91ba3622275cbdbbc43618f4b56187":[8,0,0,0,1,3,5,1,1,2,30,13],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64":[8,0,0,0,1,3,5,1,1,2,30,6]
+"dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfaf1fbd131f332796c421842f377ae13cf":[8,0,0,0,1,3,5,1,1,2,29,0]
 };

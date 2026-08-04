@@ -1,7 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d8/de3/classnpc__murkdeep.html#a72d44d786bcba4dea5ccedd33e7dbd3c":[7,0,2020,1],
-"d8/de3/classnpc__murkdeep.html#ab9f8faa3adaf1f251e1248fbe0f46468":[7,0,2020,2],
 "d8/de4/structBossBoundaryEntry.html":[7,0,829],
 "d8/de4/structBossBoundaryEntry.html#a7b474c6b9225102ba08864256d07d9e6":[7,0,829,1],
 "d8/de4/structBossBoundaryEntry.html#af9fc7d02d16d4fb3547273428553cf05":[7,0,829,0],
@@ -183,6 +181,10 @@ var NAVTREEINDEX239 =
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0e8e8685ce8c1eea2b60e8bf6aeed782":[7,0,4150,2],
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#a879b657d94c1faf6225fe64f907cdf82":[7,0,4150,3],
 "d8/df2/classspell__sindragosa__soul__preservation__aura.html#afcadfbdd84608e827b89c64bf03c8501":[7,0,4150,1],
+"d8/df2/classspell__yogg__saron__squeeze__aura.html":[7,0,4428],
+"d8/df2/classspell__yogg__saron__squeeze__aura.html#a2afc759693aa4dfbd0ac33b1b770e995":[7,0,4428,1],
+"d8/df2/classspell__yogg__saron__squeeze__aura.html#a3cac25c6136b5dce491b24b7fb0ed33a":[7,0,4428,0],
+"d8/df2/classspell__yogg__saron__squeeze__aura.html#a8fbcf904caf526f37d4a7984791d9fd0":[7,0,4428,2],
 "d8/df2/cs__player_8cpp.html":[8,0,0,0,1,3,0,37],
 "d8/df2/cs__player_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516":[8,0,0,0,1,3,0,37,1],
 "d8/df3/CreatureAIImpl_8h.html":[8,0,0,0,1,2,3,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX239 =
 "d8/df6/TypeContainerFunctions_8h.html#a4a2ba920c83bbc4f563a35d0572b5722":[8,0,0,0,0,6,5,4],
 "d8/df6/TypeContainerFunctions_8h.html#a5161a06285195a661d1f827f51265471":[8,0,0,0,0,6,5,34],
 "d8/df6/TypeContainerFunctions_8h.html#a5b1d0e0bf338351b10667ef3ef2fa5ec":[8,0,0,0,0,6,5,3],
-"d8/df6/TypeContainerFunctions_8h.html#a5f6cfb84d3b9010f1cccee55575aeb8f":[8,0,0,0,0,6,5,14],
-"d8/df6/TypeContainerFunctions_8h.html#a6c4691a788e1b4403de11caa6a13222d":[8,0,0,0,0,6,5,12],
-"d8/df6/TypeContainerFunctions_8h.html#a7eb6517212935878abc51faf4bcca654":[8,0,0,0,0,6,5,37]
+"d8/df6/TypeContainerFunctions_8h.html#a5f6cfb84d3b9010f1cccee55575aeb8f":[8,0,0,0,0,6,5,14]
 };

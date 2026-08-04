@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#acebbfa8da88d8d683ba5ea6463f6b5f7":[7,0,1794,0,10],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ad6838d98e34a32cbed42c77cdf096070":[7,0,1794,0,8],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae393f8d3cb47f38a4c4314a262826d03":[7,0,1794,0,9],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae5a1d416c712803ec0b80ae7ccf29e2d":[7,0,1794,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6b866fde1e4447450ede6ab06e8d3ce4":[8,0,0,0,1,2,49,7,0,465],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6bed8c2e8c0ddbd0819273935d676dd6":[8,0,0,0,1,2,49,7,0,246],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6c1f198e6ecb3910910a86dde772c0f1":[8,0,0,0,1,2,49,7,0,72],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6c31c4a289421e4d39284d63bbde3894":[8,0,0,0,1,2,49,7,0,288],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6d1f431d1c5c40df00663e7fcf2b1ab2":[8,0,0,0,1,2,49,7,0,224]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6c31c4a289421e4d39284d63bbde3894":[8,0,0,0,1,2,49,7,0,288]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX268 =
 {
+"da/d4c/violet__hold_8h.html#a0bb7365a02c1bb98957103454ceb870f":[8,0,0,0,1,3,5,12,9,33],
+"da/d4c/violet__hold_8h.html#a0e79b9b50d9f175b1097eb1edcd0055e":[8,0,0,0,1,3,5,12,9,16],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fd":[8,0,0,0,1,3,5,12,9,6],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda0cc4acf3fec9fdc88632063f505cc7ca":[8,0,0,0,1,3,5,12,9,6,12],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda113fc6b3ce53913ebf02a9899637fe1d":[8,0,0,0,1,3,5,12,9,6,21],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda13a3c71269462465269120eb901fed35":[8,0,0,0,1,3,5,12,9,6,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX268 =
 "da/d53/classspell__q12237__drop__off__villager.html#abff433d61c798d17882292b6b0956a58":[7,0,3921,1],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html":[7,0,515,0],
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a22f6ff041e61c94df73a938162fa26f5":[7,0,515,0,1],
-"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3093369d5f3c7e2a1a5828671ac0af0a":[7,0,515,0,6],
-"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3a7e578d64a760cd38712c725eecc97d":[7,0,515,0,7],
-"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a4168a5883052810d137f59d3b104bc24":[7,0,515,0,0],
-"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a49be533142c82a95a136dc2dcbf4843c":[7,0,515,0,2]
+"da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3093369d5f3c7e2a1a5828671ac0af0a":[7,0,515,0,6]
 };

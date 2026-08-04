@@ -1,5 +1,9 @@
 var NAVTREEINDEX346 =
 {
+"dd/d47/classspell__hun__kill__command__pet.html#aec327c219229ae9d59cb491eef2d95d3":[7,0,3254,3],
+"dd/d48/UpdateMask_8h.html":[8,0,0,0,1,2,16,5,0,5],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[7,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,7,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[7,0,449,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[7,0,449,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[7,0,449,0,5],
@@ -216,9 +220,9 @@ var NAVTREEINDEX346 =
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4":[8,0,0,0,1,0,0,2,1,3,0],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[8,0,0,0,1,0,0,2,1,3,1],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[8,0,0,0,1,0,0,2,1,3,3],
-"dd/d57/structSQLElementData.html":[7,0,4506],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[7,0,4506,0],
-"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[7,0,4506,1],
+"dd/d57/structSQLElementData.html":[7,0,4508],
+"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[7,0,4508,0],
+"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[7,0,4508,1],
 "dd/d58/boss__twinemperors_8cpp.html":[8,0,0,0,1,3,4,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,4,9,7,5],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[8,0,0,0,1,3,4,9,7,5,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,4,9,7,9,4],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca93d7e60cfcfaf823d896f6d2af4b4160":[8,0,0,0,1,3,4,9,7,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caadca9e3f7a259baf7c4c346388e9cb4a":[8,0,0,0,1,3,4,9,7,9,1],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caaf9b59e8724e42ea3e99eb7ce68eb524":[8,0,0,0,1,3,4,9,7,9,2],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,4,9,7,9,6],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,9,7,9,12],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caec5ad6f4170f697acf9499e4e06bb065":[8,0,0,0,1,3,4,9,7,9,10],
-"dd/d58/boss__twinemperors_8cpp.html#a74fcc9d77216554d31706b93ba8d241a":[8,0,0,0,1,3,4,9,7,12]
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caaf9b59e8724e42ea3e99eb7ce68eb524":[8,0,0,0,1,3,4,9,7,9,2]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX345 =
 {
+"dd/d3b/structGameObjectTemplate.html#a658cbe9bd4886349fa90f271c61cfe3f":[7,0,1124,150],
+"dd/d3b/structGameObjectTemplate.html#a658fd26d2199672d1e3abf08163ba50d":[7,0,1124,125],
+"dd/d3b/structGameObjectTemplate.html#a65e33aac04896c9f9b68808ae6724056":[7,0,1124,39],
+"dd/d3b/structGameObjectTemplate.html#a6607724bec98dae5d9926ef95be96d83":[7,0,1124,143],
 "dd/d3b/structGameObjectTemplate.html#a66b21ad3e927e8f04e796f29ef836554":[7,0,1124,84],
 "dd/d3b/structGameObjectTemplate.html#a67aa14ccaea3181f5e9b359fb28d31ec":[7,0,1124,158],
 "dd/d3b/structGameObjectTemplate.html#a6855d22b6b51a65765c41be9a6f205dc":[7,0,1124,103],
@@ -130,8 +134,8 @@ var NAVTREEINDEX345 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[8,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[8,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
@@ -238,16 +242,12 @@ var NAVTREEINDEX345 =
 "dd/d46/structnpc__acherus__necromancer.html#ab911195c28abe5272e55f46eafc43e75":[7,0,1611,5],
 "dd/d46/structnpc__acherus__necromancer.html#abbdce81693f05dd84eeba1c933866bb0":[7,0,1611,9],
 "dd/d46/structnpc__acherus__necromancer.html#af7b896a75a62e948a6a4e02eec2e4471":[7,0,1611,4],
-"dd/d47/classSpellCritDamageBonusOrderTest.html":[7,0,4443],
+"dd/d47/classSpellCritDamageBonusOrderTest.html":[7,0,4445],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html":[7,0,100],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[7,0,100,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[7,0,100,0],
 "dd/d47/classspell__hun__kill__command__pet.html":[7,0,3254],
 "dd/d47/classspell__hun__kill__command__pet.html#a2bade504b1ab2c2869ecaf8873864d19":[7,0,3254,2],
 "dd/d47/classspell__hun__kill__command__pet.html#a675a17a574539f2da85a5401afc18fec":[7,0,3254,0],
-"dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[7,0,3254,1],
-"dd/d47/classspell__hun__kill__command__pet.html#aec327c219229ae9d59cb491eef2d95d3":[7,0,3254,3],
-"dd/d48/UpdateMask_8h.html":[8,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,7,0,0,0],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[7,0,2,0,0,0]
+"dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[7,0,3254,1]
 };

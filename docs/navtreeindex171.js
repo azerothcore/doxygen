@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d0c/go__scripts_8cpp.html#a90070712c532a8c26b7acca5702f0737":[8,0,0,0,1,3,10,5,86],
 "d6/d0c/go__scripts_8cpp.html#a90070712c532a8c26b7acca5702f0737a53a10f03018ca8517c37544f34675e65":[8,0,0,0,1,3,10,5,86,0],
 "d6/d0c/go__scripts_8cpp.html#a9a5872ac0107bd51af8cb73c2452d5b9":[8,0,0,0,1,3,10,5,55],
 "d6/d0c/go__scripts_8cpp.html#a9db4934c439fa28011f80f576c937514":[8,0,0,0,1,3,10,5,61],
@@ -247,7 +248,6 @@ var NAVTREEINDEX171 =
 "d6/d15/structnpc__hivezara__stinger.html#a433d31057f1732ef7ef15d2023e18b8a":[7,0,1890,1],
 "d6/d15/structnpc__hivezara__stinger.html#ac9438c9dd260a41d6248f2adcc14b555":[7,0,1890,0],
 "d6/d15/structnpc__hivezara__stinger.html#ae8e893c90942a469628c393d5b5380cc":[7,0,1890,2],
-"d6/d16/classThreatManager_1_1ThreatListIterator.html":[7,0,4551,1],
-"d6/d16/classThreatManager_1_1ThreatListIterator.html#a4d45ae04b885844bd84fc8ba13316991":[7,0,4551,1,3],
-"d6/d16/classThreatManager_1_1ThreatListIterator.html#a6fd3aa74e738a871fc79292789fe8002":[7,0,4551,1,0]
+"d6/d16/classThreatManager_1_1ThreatListIterator.html":[7,0,4553,1],
+"d6/d16/classThreatManager_1_1ThreatListIterator.html#a4d45ae04b885844bd84fc8ba13316991":[7,0,4553,1,3]
 };

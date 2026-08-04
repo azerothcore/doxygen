@@ -1,5 +1,8 @@
 var NAVTREEINDEX285 =
 {
+"da/de9/classspell__dru__treant__scaling.html#a5d6e7b92f4335176388a877e72c0e92c":[7,0,2938,1],
+"da/de9/classspell__dru__treant__scaling.html#a7e3dc351574f6d6ad3424eb7df7092df":[7,0,2938,5],
+"da/de9/classspell__dru__treant__scaling.html#ab5713a34ced4d2e2a67b43e98d7a55c0":[7,0,2938,6],
 "da/de9/classspell__dru__treant__scaling.html#ae4f96de2c558a4b0fd7659442aa3d92b":[7,0,2938,3],
 "da/de9/classspell__dru__treant__scaling.html#aeebb14424a6ae336edd4b66d824d648a":[7,0,2938,4],
 "da/de9/classspell__dru__treant__scaling.html#af1d4558f6132d3c2abc71ec1dabee2e8":[7,0,2938,0],
@@ -113,13 +116,13 @@ var NAVTREEINDEX285 =
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[7,0,1422,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[7,0,1422,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[7,0,1422,6],
-"da/def/structSpellCooldown.html":[7,0,4441],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4441,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[7,0,4441,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[7,0,4441,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[7,0,4441,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4441,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[7,0,4441,0],
+"da/def/structSpellCooldown.html":[7,0,4443],
+"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4443,2],
+"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[7,0,4443,5],
+"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[7,0,4443,4],
+"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[7,0,4443,1],
+"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4443,3],
+"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[7,0,4443,0],
 "da/df1/classMetric.html":[7,0,1542],
 "da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[7,0,1542,29],
 "da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[7,0,1542,27],
@@ -246,8 +249,5 @@ var NAVTREEINDEX285 =
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739":[8,0,0,0,1,0,0,0,1,0,24],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9":[8,0,0,0,1,0,0,0,1,0,18],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34":[8,0,0,0,1,0,0,0,1,0,5],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d":[8,0,0,0,1,0,0,0,1,0,9],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d":[8,0,0,0,1,0,0,0,1,0,7],
-"da/df4/AuthCodes_8h.html#a96896fc9dad2c304f681a24776f6726b":[8,0,0,0,1,0,0,0,1,5],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2":[8,0,0,0,1,0,0,0,1,1]
+"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d":[8,0,0,0,1,0,0,0,1,0,9]
 };

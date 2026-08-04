@@ -1,7 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/d63/structCreatureImmunities.html#ab87ff32c7b9d25f238245df1b646c49a":[7,0,953,0],
-"d8/d64/firework__show__Stormwind_8h.html":[8,0,0,0,1,3,3,0,8],
 "d8/d64/firework__show__Stormwind_8h.html#a378278257abadcd4369abd66f412d8e6":[8,0,0,0,1,3,3,0,8,2],
 "d8/d64/firework__show__Stormwind_8h.html#ae843a13f6116ce380e3890397d825ae6":[8,0,0,0,1,3,3,0,8,0],
 "d8/d64/firework__show__Stormwind_8h.html#af98c86c5b3725a8753fc620996c94b7f":[8,0,0,0,1,3,3,0,8,1],
@@ -66,8 +64,8 @@ var NAVTREEINDEX227 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2636,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3549],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3549,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3549,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX227 =
 "d8/d74/classWorldSession.html#a0db1aebe0674e458799ca993b896745b":[4,1,19,281],
 "d8/d74/classWorldSession.html#a0fa06565358c96d8f68e0f71617d07b2":[4,1,19,529],
 "d8/d74/classWorldSession.html#a0fb624285b8586c08119413dba3c5178":[4,1,19,95],
-"d8/d74/classWorldSession.html#a1040c4718bd9659a1320ab72841ffe04":[4,1,19,468]
+"d8/d74/classWorldSession.html#a1040c4718bd9659a1320ab72841ffe04":[4,1,19,468],
+"d8/d74/classWorldSession.html#a116f3e73eacf4e6723edf40a527d3513":[4,1,19,622],
+"d8/d74/classWorldSession.html#a118217e3cd5b6408858db5f61dacda10":[4,1,19,297]
 };

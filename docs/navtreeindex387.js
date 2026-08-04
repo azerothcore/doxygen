@@ -1,5 +1,9 @@
 var NAVTREEINDEX387 =
 {
+"de/d72/namespacelfg.html#adac5e1437b49269ef8924ba9881272d5":[5,0,17,39],
+"de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b":[5,0,17,65],
+"de/d72/namespacelfg.html#aeaebe53b818ad905c96d2cc56c18b7ca":[5,0,17,63],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05":[5,0,17,52],
 "de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,17,52,2],
 "de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051":[5,0,17,52,1],
 "de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce":[5,0,17,52,0],
@@ -236,8 +240,8 @@ var NAVTREEINDEX387 =
 "de/d79/classGuild.html#af63746ebc0f20a688ebe68ee66e92fbe":[7,0,1282,83],
 "de/d79/classGuild.html#af76df3509c1f01fd6bf2ff07aea4de36":[7,0,1282,58],
 "de/d79/classGuild.html#af805b19f736df4c51bacbf96a8e5d38c":[7,0,1282,102],
-"de/d79/classSpellProcAttributeTest.html":[7,0,4468],
-"de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[7,0,4468,0],
+"de/d79/classSpellProcAttributeTest.html":[7,0,4470],
+"de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[7,0,4470,0],
 "de/d79/structMMAP_1_1IntermediateValues.html":[7,0,6,1],
 "de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,1],
 "de/d79/structMMAP_1_1IntermediateValues.html#a0789235bd020d359060e919a65851646":[5,0,20,1,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX387 =
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[7,0,6,1,9],
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[5,0,20,1,9],
 "de/d79/structMMAP_1_1IntermediateValues.html#a5f49b8fa815abb24d0b4902936478738":[5,0,20,1,2],
-"de/d79/structMMAP_1_1IntermediateValues.html#a5f49b8fa815abb24d0b4902936478738":[7,0,6,1,2],
-"de/d79/structMMAP_1_1IntermediateValues.html#a6affbebfb3bf252ad9c608f6b772a7a4":[5,0,20,1,5],
-"de/d79/structMMAP_1_1IntermediateValues.html#a6affbebfb3bf252ad9c608f6b772a7a4":[7,0,6,1,5],
-"de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[5,0,20,1,11],
-"de/d79/structMMAP_1_1IntermediateValues.html#a947a3a6873c619bfdc1a99da670a95bd":[7,0,6,1,11]
+"de/d79/structMMAP_1_1IntermediateValues.html#a5f49b8fa815abb24d0b4902936478738":[7,0,6,1,2]
 };

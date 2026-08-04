@@ -1,5 +1,13 @@
 var NAVTREEINDEX415 =
 {
+"df/da1/classboss__baltharus__the__warborn.html#aababb8862273d60f140dce675131783d":[7,0,411,1],
+"df/da1/classboss__baltharus__the__warborn.html#afe7ecf8635c8c0a051047a801c2a8d54":[7,0,411,2],
+"df/da1/classspell__q12730__quenching__mist.html":[7,0,3946],
+"df/da1/classspell__q12730__quenching__mist.html#a2fab66e86d3c0207183db72ecbb6fc6c":[7,0,3946,0],
+"df/da1/classspell__q12730__quenching__mist.html#ac924ebbc893476cabab5f05120d0cd8d":[7,0,3946,2],
+"df/da1/classspell__q12730__quenching__mist.html#ada327cf500aec62fdf34f9d8a4ccd6e2":[7,0,3946,3],
+"df/da1/classspell__q12730__quenching__mist.html#ae0e3b459c71933c25da8136cdcddf200":[7,0,3946,1],
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[7,0,4048],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[7,0,4048,1],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a7009dd0e842898d03caa89e92447749d":[7,0,4048,0],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a8f21cb8ab1145fe32a78a682445cfc2d":[7,0,4048,2],
@@ -107,12 +115,12 @@ var NAVTREEINDEX415 =
 "df/da5/classspell__ice__spear__control__aura.html#a94bee50f214d0a61fa81c4cca1b38fb2":[7,0,3293,0],
 "df/da5/classspell__ice__spear__control__aura.html#ade8d57db324f02734e1752f49976dc9d":[7,0,3293,3],
 "df/da5/classspell__ice__spear__control__aura.html#ae1479b53d8c0575947a7ce7cae4747c4":[7,0,3293,2],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[7,0,13,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[5,0,34,1,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[7,0,13,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[7,0,13,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,34,1,0,1],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[7,0,13,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,34,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[7,0,13,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[7,0,13,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,34,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[7,0,3180],
@@ -241,13 +249,5 @@ var NAVTREEINDEX415 =
 "df/da7/classBattleground.html#a6e94cab0f83e750a3dc055601d98983b":[7,0,331,207],
 "df/da7/classBattleground.html#a6edc5a1f00d1196ceac9fdd755ccbaf6":[7,0,331,231],
 "df/da7/classBattleground.html#a6f861fa621a33725ad81bf5e5fa15cae":[7,0,331,156],
-"df/da7/classBattleground.html#a7069a6a0c423667739380b827d5826e8":[7,0,331,160],
-"df/da7/classBattleground.html#a7096403fa0cdcdf39f652ed71bc0f4d0":[7,0,331,60],
-"df/da7/classBattleground.html#a70e5ab71ed89ba73f2a459c9f42813e5":[7,0,331,149],
-"df/da7/classBattleground.html#a71418b0fceb061e0aa10a549adf42d9d":[7,0,331,141],
-"df/da7/classBattleground.html#a7266bc3ebcc9f1d768a1dabfc3f2f68d":[7,0,331,101],
-"df/da7/classBattleground.html#a77600e04bfa234872910493ad0445174":[7,0,331,66],
-"df/da7/classBattleground.html#a778e2873f50d2478f009880e7226cfa4":[7,0,331,34],
-"df/da7/classBattleground.html#a77f6397211139bdceca667631ac4b10c":[7,0,331,193],
-"df/da7/classBattleground.html#a79a1a73e449fb070c02ae1bbee9eff95":[7,0,331,145]
+"df/da7/classBattleground.html#a7069a6a0c423667739380b827d5826e8":[7,0,331,160]
 };

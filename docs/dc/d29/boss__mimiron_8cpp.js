@@ -31,7 +31,8 @@ var boss__mimiron_8cpp =
     [ "GetVX001", "dc/d29/boss__mimiron_8cpp.html#acb8328e170a92d1db4eabfe0852921c0", null ],
     [ "Actions", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "DO_DISABLE_AERIAL", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9", null ],
-      [ "DO_ENABLE_AERIAL", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ]
+      [ "DO_ENABLE_AERIAL", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ],
+      [ "DO_DESPAWN_SUMMONS", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f", null ]
     ] ],
     [ "EVENTS", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_SIT_LMK2", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a3a1a48db029f9535241cbc1ba696f821", null ],

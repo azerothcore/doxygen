@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3233,0],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3233,1],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3233,2],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[7,0,2062],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d59/classAutobroadcastMgr.html#a9064ad588e8a02d9b60974af4da1c7cf":[7,0,314,0],
 "d6/d59/classAutobroadcastMgr.html#aadbd8ca926a64be4fbbe832fd633ee88":[7,0,314,10],
 "d6/d59/classAutobroadcastMgr.html#ace584bb6b66c8944e1405ec0af686d3a":[7,0,314,6],
-"d6/d59/classAutobroadcastMgr.html#aead196df7f590d43c89f179ca0bd4a68":[7,0,314,2],
-"d6/d59/structnpc__ulduar__arachnopod__destroyer.html":[7,0,2259]
+"d6/d59/classAutobroadcastMgr.html#aead196df7f590d43c89f179ca0bd4a68":[7,0,314,2]
 };

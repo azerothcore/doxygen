@@ -1,5 +1,8 @@
 var NAVTREEINDEX282 =
 {
+"da/dca/structCharacterCustomizeInfo.html#ade5b2dff213547ab4d707070f8979085":[4,1,16,6],
+"da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5],
+"da/dcb/classspell__skeram__arcane__explosion.html":[7,0,4155],
 "da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[7,0,4155,0],
 "da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[7,0,4155,1],
 "da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[7,0,4155,2],
@@ -58,12 +61,12 @@ var NAVTREEINDEX282 =
 "da/dd0/namespacePlayerSettingsStore.html#a2e2d73056f0c30ed8b22419fed1c3d6a":[5,0,27,3],
 "da/dd0/namespacePlayerSettingsStore.html#ab725e991f09f03e0413ffe44fa807ead":[5,0,27,4],
 "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745":[5,0,27,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[5,0,0,49],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[7,0,0,37],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[5,0,0,49],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,0,49,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[7,0,0,37,6],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[7,0,0,37,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,49,3],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[7,0,0,37,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,49,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[7,0,0,37,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,49,5],
@@ -72,8 +75,8 @@ var NAVTREEINDEX282 =
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[7,0,0,37,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[7,0,0,37,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,49,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,49,4],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[7,0,0,37,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,49,4],
 "da/dd3/RaceMgr_8cpp.html":[8,0,0,0,1,2,16,7,15],
 "da/dd3/structMovementGeneratorFactory.html":[7,0,1573],
 "da/dd3/structMovementGeneratorFactory.html#a8b473ae9fa2af60a7fa92727ce163305":[7,0,1573,0],
@@ -108,8 +111,8 @@ var NAVTREEINDEX282 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,17,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,17,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[7,0,5,8,4],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[7,0,5,8,0],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,17,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[7,0,5,8,0],
 "da/dd8/classHashMapHolder.html":[7,0,1289],
 "da/dd8/classHashMapHolder.html#a314b4ce3265136fe326b909fe6ef6716":[7,0,1289,2],
 "da/dd8/classHashMapHolder.html#a52cc052c8d73d5b700c7f9253138942f":[7,0,1289,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX282 =
 "da/ddc/classSmartAI.html#aa77bb76a177d34f1cf1ff9c5e0e9f560":[7,0,2610,19],
 "da/ddc/classSmartAI.html#aa80ac99a0ef777f8eecfa9a8498ffa06":[7,0,2610,15],
 "da/ddc/classSmartAI.html#ab2c2a0c3b99e27b7093473bb2402247a":[7,0,2610,60],
-"da/ddc/classSmartAI.html#ab3dab2651ea4db36edbbc855eb18ecda":[7,0,2610,69],
-"da/ddc/classSmartAI.html#ab463aa11d25dce9eb8394bef93fc79f0":[7,0,2610,81],
-"da/ddc/classSmartAI.html#ab787e7902668b6f68932cf3fa9df73a8":[7,0,2610,23],
-"da/ddc/classSmartAI.html#ab8e48c01cd01d012dd2fe6a1fd379fed":[7,0,2610,112]
+"da/ddc/classSmartAI.html#ab3dab2651ea4db36edbbc855eb18ecda":[7,0,2610,69]
 };

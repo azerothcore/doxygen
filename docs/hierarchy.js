@@ -866,6 +866,7 @@ var hierarchy =
         [ "spell_yogg_saron_protective_gaze_aura", "d0/d21/classspell__yogg__saron__protective__gaze__aura.html", null ],
         [ "spell_yogg_saron_sanity_well_aura", "d3/d40/classspell__yogg__saron__sanity__well__aura.html", null ],
         [ "spell_yogg_saron_shadow_beacon_aura", "d2/d35/classspell__yogg__saron__shadow__beacon__aura.html", null ],
+        [ "spell_yogg_saron_squeeze_aura", "d8/df2/classspell__yogg__saron__squeeze__aura.html", null ],
         [ "spell_z_check_aura", "d3/d0c/classspell__z__check__aura.html", null ]
       ] ],
       [ "SpellScript", "df/d92/classSpellScript.html", [
@@ -1799,6 +1800,7 @@ var hierarchy =
         [ "spell_xt002_submerged", "df/d02/classspell__xt002__submerged.html", null ],
         [ "spell_xt002_tympanic_tantrum", "db/d17/classspell__xt002__tympanic__tantrum.html", null ],
         [ "spell_yogg_saron_brain_link", "d5/de0/classspell__yogg__saron__brain__link.html", null ],
+        [ "spell_yogg_saron_constrictor_tentacle", "df/d23/classspell__yogg__saron__constrictor__tentacle.html", null ],
         [ "spell_yogg_saron_destabilization_matrix", "dc/d9d/classspell__yogg__saron__destabilization__matrix.html", null ],
         [ "spell_yogg_saron_empowering_shadows", "d4/d16/classspell__yogg__saron__empowering__shadows.html", null ],
         [ "spell_yogg_saron_in_the_maws_of_the_old_god", "d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html", null ],

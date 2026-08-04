@@ -1,5 +1,9 @@
 var NAVTREEINDEX391 =
 {
+"de/da1/classspell__mage__summon__water__elemental.html#a9440e067db7bc5c48c973dfd61f1a95e":[7,0,3634,1],
+"de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[7,0,3634,0],
+"de/da1/instance__magisters__terrace_8cpp.html":[8,0,0,0,1,3,2,5,4],
+"de/da1/instance__magisters__terrace_8cpp.html#a39e3bff767d59081afebb72eeb3a1646":[8,0,0,0,1,3,2,5,4,2],
 "de/da1/instance__magisters__terrace_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,5,4,4],
 "de/da1/instance__magisters__terrace_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,5,4,5],
 "de/da1/instance__magisters__terrace_8cpp.html#a6fd9df921f79258a02d22baaf7a1caca":[8,0,0,0,1,3,2,5,4,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX391 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[8,0,0,0,1,1,0,0,1,1,473],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6d8e811c7e58ddcd2e45c5805d5bad44":[8,0,0,0,1,1,0,0,1,1,55],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6dbfe303ba7e06723b161f79795033f1":[8,0,0,0,1,1,0,0,1,1,327],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6e6fd079d997391e6ee9b25acb9a16d7":[8,0,0,0,1,1,0,0,1,1,454],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6efda824872b7a039b98a488799aaccb":[8,0,0,0,1,1,0,0,1,1,183],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6f350288bf7e380f8881934cd586906f":[8,0,0,0,1,1,0,0,1,1,19],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a701bce839c2f405c942c6484ebf46832":[8,0,0,0,1,1,0,0,1,1,144],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a709497e07cca98e88c4441e0eba8314d":[8,0,0,0,1,1,0,0,1,1,220]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6e6fd079d997391e6ee9b25acb9a16d7":[8,0,0,0,1,1,0,0,1,1,454]
 };

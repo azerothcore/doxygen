@@ -1,5 +1,12 @@
 var NAVTREEINDEX426 =
 {
+"df/df0/structboss__tavarok.html#a64cae2439cd6e4334ced5d4ef01ef942":[7,0,737,2],
+"df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[7,0,737,1],
+"df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[7,0,737,0],
+"df/df1/ConditionScript_8cpp.html":[8,0,0,0,1,2,38,0,39],
+"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[8,0,0,0,1,2,38,0,39,0],
+"df/df1/structCell.html":[7,0,863],
+"df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[7,0,863,1],
 "df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[7,0,863,10],
 "df/df1/structCell.html#a13c2328ec9e465adf403610ffc4f8753":[7,0,863,19],
 "df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686":[7,0,863,22],
@@ -242,12 +249,5 @@ var NAVTREEINDEX426 =
 "df/dfa/structnpc__hover__disk.html#add98702312084df553e24bcd4b632bb3":[7,0,1900,6],
 "df/dfa/structnpc__hover__disk.html#ae4141e5aed3cfdbf8d76ad55ce4463d9":[7,0,1900,2],
 "df/dfa/structnpc__hover__disk.html#af6f8ef0df4b64540f99adebdd709b00e":[7,0,1900,0],
-"df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,25],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e":[8,0,0,0,1,3,2,25,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,25,1,1],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[8,0,0,0,1,3,2,25,1,3],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa":[8,0,0,0,1,3,2,25,1,2],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[8,0,0,0,1,3,2,25,1,0],
-"df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[8,0,0,0,1,3,2,25,2],
-"df/dfc/classspell__item__pet__healing.html":[7,0,3455]
+"df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,25]
 };

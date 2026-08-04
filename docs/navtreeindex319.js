@@ -1,5 +1,8 @@
 var NAVTREEINDEX319 =
 {
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[8,0,0,0,1,3,7,5,0,5,1],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,0,5,1,3],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,5,0,5,1,0],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,5,0,5,1,1],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93":[8,0,0,0,1,3,7,5,0,5,1,2],
 "dc/d28/BaseEncoding_8h.html":[8,0,0,0,0,7,4],
@@ -90,6 +93,7 @@ var NAVTREEINDEX319 =
 "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5":[8,0,0,0,1,3,5,9,2,9,37],
 "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,5,9,2,9,29],
 "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757":[8,0,0,0,1,3,5,9,2,9,29,1],
+"dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfab24c6a36c5164b1d0cf040f9a668a06f":[8,0,0,0,1,3,5,9,2,9,29,2],
 "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9":[8,0,0,0,1,3,5,9,2,9,29,0],
 "dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be":[8,0,0,0,1,3,5,9,2,9,27],
 "dc/d29/boss__mimiron_8cpp.html#a2bb7e27b666798e6939e74d1e3ab62f8":[8,0,0,0,1,3,5,9,2,9,40],
@@ -206,14 +210,14 @@ var NAVTREEINDEX319 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[8,0,0,0,1,3,5,9,2,9,26],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[7,0,3035],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[7,0,3035,3],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[7,0,3035,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa8e531c18de08e4bad88428fed785d3e6":[8,0,0,0,1,3,7,1,0,5,5],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faca41db9c2a1e5d4549b9962459b451b0":[8,0,0,0,1,3,7,1,0,5,0],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999facfa7ddf5e74d67bae385a4810e53c0d2":[8,0,0,0,1,3,7,1,0,5,10],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fad5f0d81e93ec0420e250ff8e372664dc":[8,0,0,0,1,3,7,1,0,5,9],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faed80640b9f8e020c6113658cf627e0d2":[8,0,0,0,1,3,7,1,0,5,1],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faf2b61afbf91bac6c005eb31068291ca9":[8,0,0,0,1,3,7,1,0,5,12],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,1,0,3],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea0352ccde5ec007d91ab171794df14466":[8,0,0,0,1,3,7,1,0,3,6]
+"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fad5f0d81e93ec0420e250ff8e372664dc":[8,0,0,0,1,3,7,1,0,5,9]
 };

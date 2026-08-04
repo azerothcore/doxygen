@@ -1,5 +1,6 @@
 var NAVTREEINDEX117 =
 {
+"d3/ddf/classAllBattlegroundScript.html#abc41913ad3720d0dcd6d04da2588c7e5":[7,0,153,1],
 "d3/ddf/classAllBattlegroundScript.html#acf48de938b3535c1d64d5e69b7e4c3cc":[7,0,153,14],
 "d3/ddf/classAllBattlegroundScript.html#adea000f8e6470a2d69843c2894102086":[7,0,153,10],
 "d3/ddf/classAllBattlegroundScript.html#ae315ebbf606d85f59b6c0e6558283088":[7,0,153,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX117 =
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca108707b5ed70718a2be6322e7b3600df":[8,0,0,0,1,3,3,4,22,31],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca17744a5a7b9b550ff4be6d202f80ed8f":[8,0,0,0,1,3,3,4,22,0],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca1cc653b1b97e5ede98e63884fa252a2b":[8,0,0,0,1,3,3,4,22,9],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca1f091009d41851e1f30344d171bb8920":[8,0,0,0,1,3,3,4,22,35],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca343a1a06321bd9717118413da9458e14":[8,0,0,0,1,3,3,4,22,27]
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca1f091009d41851e1f30344d171bb8920":[8,0,0,0,1,3,3,4,22,35]
 };

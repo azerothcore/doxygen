@@ -1,5 +1,13 @@
 var NAVTREEINDEX411 =
 {
+"df/d76/structnpc__rookery__hatcher.html#a4fd5ed979e2c3d600e89e4592b7da98c":[7,0,2138,5],
+"df/d76/structnpc__rookery__hatcher.html#a58d6bb3ba8d39c0e92d30f4c124e3734":[7,0,2138,1],
+"df/d76/structnpc__rookery__hatcher.html#a9d2e256f8df44254cc0301fe2b1fa628":[7,0,2138,2],
+"df/d76/structnpc__rookery__hatcher.html#ab4740540a6fc2661c3c99bd2569a0bfa":[7,0,2138,0],
+"df/d76/structnpc__rookery__hatcher.html#ab49d35c9d22408b01e27c8c7933433e0":[7,0,2138,4],
+"df/d76/structnpc__rookery__hatcher.html#ac49345c80e58f7c0094fe1b62ac4bf84":[7,0,2138,6],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html":[7,0,2217,0],
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a511da19703e30f6e82e59c5223bf2770":[7,0,2217,0,1],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a537ed9f2d0a638d01e877d9ca1e7fdf0":[7,0,2217,0,6],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a5e6da0a5f5190d7959faff60851e679a":[7,0,2217,0,2],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[7,0,2217,0,4],
@@ -20,8 +28,8 @@ var NAVTREEINDEX411 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2871,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2871,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2871,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2827],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2827,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2827,1],
@@ -214,8 +222,8 @@ var NAVTREEINDEX411 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,445,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX411 =
 "df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[7,0,766,7],
 "df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[7,0,766,5],
 "df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[7,0,766,6],
-"df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[7,0,766,4],
-"df/d86/structboss__twilight__corrupter.html#a6c49eee2be24199418096cc48c50d384":[7,0,766,8],
-"df/d86/structboss__twilight__corrupter.html#a84803153e7e7d5d7efe0106139214b1f":[7,0,766,2],
-"df/d86/structboss__twilight__corrupter.html#aa18d2fc90e1ccd322ec9d3128ba206d2":[7,0,766,3],
-"df/d86/structboss__twilight__corrupter.html#afe06461e9f3e1549da6631d2f89406c4":[7,0,766,1],
-"df/d86/structboss__twilight__corrupter.html#afe140d6231d9ad8543e17c4a8a8230c0":[7,0,766,0],
-"df/d87/boss__freya_8cpp.html":[8,0,0,0,1,3,5,9,2,4],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,9,2,4,16],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2506c434b212867f6a797b2f6dbc44bc":[8,0,0,0,1,3,5,9,2,4,16,3]
+"df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[7,0,766,4]
 };

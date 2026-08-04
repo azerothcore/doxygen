@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d1e/ScriptedGossip_8h.html":[8,0,0,0,1,2,3,1,7],
 "d6/d1e/ScriptedGossip_8h.html#a1173986722a10754b5412d4788138674":[8,0,0,0,1,2,3,1,7,1],
 "d6/d1e/ScriptedGossip_8h.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5":[8,0,0,0,1,2,3,1,7,4],
 "d6/d1e/ScriptedGossip_8h.html#a5c0683057fc01d221b0ae877a0ab54df":[8,0,0,0,1,2,3,1,7,3],
@@ -110,15 +111,15 @@ var NAVTREEINDEX173 =
 "d6/d23/structHolidayRule.html#a55e1cf64111db7eeeec72c594b76c56d":[7,0,1300,2],
 "d6/d23/structHolidayRule.html#aaa9bf14668239ea561aecc33104e245a":[7,0,1300,3],
 "d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[7,0,1300,5],
-"d6/d23/structSpellValue.html":[7,0,4501],
-"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4501,7],
-"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4501,4],
-"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4501,0],
-"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4501,3],
-"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4501,5],
-"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4501,1],
-"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4501,6],
-"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4501,2],
+"d6/d23/structSpellValue.html":[7,0,4503],
+"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4503,7],
+"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4503,4],
+"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4503,0],
+"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4503,3],
+"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4503,5],
+"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4503,1],
+"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4503,6],
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4503,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2229,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2229,0,3],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2229,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d26/classBattlefield.html#aec2da8a188c4644ddeb9debf6d1abcb0":[7,0,327,60],
 "d6/d26/classBattlefield.html#aec3b826d5761b0d700d82d7091b0d390":[7,0,327,104],
 "d6/d26/classBattlefield.html#af08665cd919b9d39798cd02c110b3241":[7,0,327,74],
-"d6/d26/classBattlefield.html#af2ff5fe4ce801e1435bff3a7b3ffc029":[7,0,327,44],
-"d6/d26/classBattlefield.html#af5ee36760425c10d8b979c6caa45c78a":[7,0,327,1]
+"d6/d26/classBattlefield.html#af2ff5fe4ce801e1435bff3a7b3ffc029":[7,0,327,44]
 };

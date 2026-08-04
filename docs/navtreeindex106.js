@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/d92/classGameEventMgr.html#a16894713be97088401fef6f68cdb2496":[7,0,1106,30],
 "d3/d92/classGameEventMgr.html#a174197311760e9c22650e362368ec630":[7,0,1106,58],
 "d3/d92/classGameEventMgr.html#a1a07f3fb3ac74ddb929d00a0c5078186":[7,0,1106,65],
 "d3/d92/classGameEventMgr.html#a20af2f4af3d8b6e4310f04bc9ed86879":[7,0,1106,55],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d9d/SpellProcTest_8cpp.html#a7bb4dc4670712e509aa56f90095c830a":[8,0,0,0,2,2,0,10,26,31],
 "d3/d9d/SpellProcTest_8cpp.html#a8960f004f0ec6125e1f050a4690c4fc5":[8,0,0,0,2,2,0,10,26,18],
 "d3/d9d/SpellProcTest_8cpp.html#a8e35e147693aed9ce32e8c970241de58":[8,0,0,0,2,2,0,10,26,13],
-"d3/d9d/SpellProcTest_8cpp.html#a958146147289f3ce3744dc8947d23f7d":[8,0,0,0,2,2,0,10,26,2],
-"d3/d9d/SpellProcTest_8cpp.html#aacff8bfe70c3182a775e63bb44313ca0":[8,0,0,0,2,2,0,10,26,32]
+"d3/d9d/SpellProcTest_8cpp.html#a958146147289f3ce3744dc8947d23f7d":[8,0,0,0,2,2,0,10,26,2]
 };

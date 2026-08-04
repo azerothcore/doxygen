@@ -5,6 +5,7 @@ var structboss__yoggsaron__constrictor__tentacle =
     [ "GrabPlayer", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
     [ "IsSummonedBy", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a404e4ab66a757b6ff4fa492219198b91", null ],
     [ "JustDied", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "PassengerBoarded", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#afdef8417bffb0a2079199060b0c26980", null ],
     [ "SelectConstrictTarget", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
     [ "_playerGUID", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];
