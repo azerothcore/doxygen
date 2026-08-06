@@ -1,5 +1,7 @@
 var NAVTREEINDEX338 =
 {
+"dc/de8/structnpc__kalecgos__kj.html#ab5cc58e293e20172558e15fa28670633":[7,0,1949,5],
+"dc/de8/structnpc__kalecgos__kj.html#acf92559a2b06b8c9cce5c4887dd1316b":[7,0,1949,2],
 "dc/de9/Opcodes_8cpp.html":[8,0,0,0,1,2,39,1,0],
 "dc/de9/Opcodes_8cpp.html#a0adf4b5d8c638656581d9a62be18539e":[8,0,0,0,1,2,39,1,0,7],
 "dc/de9/Opcodes_8cpp.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e":[8,0,0,0,1,2,39,1,0,5],
@@ -152,14 +154,14 @@ var NAVTREEINDEX338 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4386,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4386,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4386,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,778],
@@ -247,7 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dfe/classQuestMenu.html#a14df9b6699c327853121ae032704db8d":[7,0,2508,1],
 "dc/dfe/classQuestMenu.html#a1a850cb70956f299ea91cb0d732ad202":[7,0,2508,4],
 "dc/dfe/classQuestMenu.html#a2338a6fb88c32bfb66fe524a8ffaa0d7":[7,0,2508,6],
-"dc/dfe/classQuestMenu.html#a49279a3943009f2d1475d792c2c3d21a":[7,0,2508,8],
-"dc/dfe/classQuestMenu.html#a60ba5b35499c6a9ed510300d3300421e":[7,0,2508,0],
-"dc/dfe/classQuestMenu.html#a7fe36e4a4acfc66a00f08034c470b5e3":[7,0,2508,7]
+"dc/dfe/classQuestMenu.html#a49279a3943009f2d1475d792c2c3d21a":[7,0,2508,8]
 };

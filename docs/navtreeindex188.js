@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a6f62f62ffa1c06baa2649901f02d13dc":[7,0,506,0,6],
+"d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a92139ad3720ba662f87c0b55ac77dbeb":[7,0,506,0,2],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#a96e1a262f368ab0f6885e955133b7ae8":[7,0,506,0,3],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#aaeff7d8bffb2ddcef5591c2c9be22ae2":[7,0,506,0,8],
 "d6/db4/structboss__galvangar_1_1boss__galvangarAI.html#ac1898cea6887fcfa182aa8a7a535c462":[7,0,506,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,2,2,3,1],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba6b64138da0b1c3fe73e449c84adb7055":[8,0,0,0,1,3,7,0,2,2,3,4],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,2,2,3,2],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,2,2,3,0],
-"d6/dc2/classFileLoader.html":[7,0,1073],
-"d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[7,0,1073,3]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,2,2,3,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX361 =
 {
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#afc490ae2382fd7097b3877c7f9eadf6b":[7,0,1885,0,5],
+"dd/df6/classLootValidatorRefMgr.html":[7,0,1495],
 "dd/df6/classLootValidatorRefMgr.html#a92c30fb269bc99820b6964a99ee86d98":[7,0,1495,6],
 "dd/df6/classLootValidatorRefMgr.html#a9fada63aa17222fc5e216f3904affafd":[7,0,1495,0],
 "dd/df6/classLootValidatorRefMgr.html#ac03e93ac8ad6fc91ec9d2961b8904217":[7,0,1495,4],
@@ -14,10 +16,10 @@ var NAVTREEINDEX361 =
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[5,0,0,18,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,0,18,1],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[7,0,0,6,1],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[7,0,0,41,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[7,0,0,41,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[5,0,0,53,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[7,0,0,41,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX361 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba":[7,0,1752,0,8],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a6c1d480fff0a4a6361986dc82a945534":[7,0,1752,0,4],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a8cb4c0126549dbb10e0b60d164ba7924":[7,0,1752,0,13],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a8f6b1618223d4660cce33d34d215f323":[7,0,1752,0,14],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a900611179c3c9d4ceffd86261f62151b":[7,0,1752,0,10],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a91be80fbce6f6f0ae6a249128ba319c9":[7,0,1752,0,18]
+"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a8f6b1618223d4660cce33d34d215f323":[7,0,1752,0,14]
 };

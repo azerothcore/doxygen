@@ -1,5 +1,7 @@
 var NAVTREEINDEX142 =
 {
+"d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b":[7,0,4381,1],
+"d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6":[7,0,4381,0],
 "d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969":[7,0,4381,8],
 "d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a":[7,0,4381,5],
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html":[7,0,2124],
@@ -247,7 +249,5 @@ var NAVTREEINDEX142 =
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a8a70e82f6c72760143148d9c9f8095cc":[7,0,535,0,2],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf":[7,0,535,0,1],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae023eb68fc066ba5713baaf3b0595f0c":[7,0,535,0,5],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[7,0,535,0,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae6b8c72ad3d36ee6eea624a7d79ca26b":[7,0,535,0,4],
-"d4/dde/Random_8cpp.html":[8,0,0,0,0,15,20]
+"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[7,0,535,0,0]
 };

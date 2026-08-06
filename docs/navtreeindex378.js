@@ -1,6 +1,8 @@
 var NAVTREEINDEX378 =
 {
+"de/d1e/classMailSender.html#a9ddda06cf5ecc55efdc4525353471c5b":[7,0,1511,3],
 "de/d20/classVMAP_1_1MapRayCallback.html":[5,0,31,10],
+"de/d20/classVMAP_1_1MapRayCallback.html":[7,0,11,10],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,31,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[7,0,11,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,31,10,5],
@@ -11,8 +13,8 @@ var NAVTREEINDEX378 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[7,0,11,10,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[7,0,11,10,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,31,10,1],
-"de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[5,0,31,10,2],
 "de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[7,0,11,10,2],
+"de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[5,0,31,10,2],
 "de/d20/structCharStartOutfitEntry.html":[7,0,884],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[7,0,884,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[7,0,884,1],
@@ -89,12 +91,12 @@ var NAVTREEINDEX378 =
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[8,0,0,0,1,3,0,46,1],
 "de/d24/structWMO_1_1MODD.html":[5,0,33,0],
 "de/d24/structWMO_1_1MODD.html":[7,0,12,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,33,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[7,0,12,0,0],
-"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,33,0,3],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,33,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[7,0,12,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[7,0,12,0,1],
+"de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,33,0,3],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,33,0,1],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[7,0,12,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[7,0,12,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,33,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[7,0,12,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX378 =
 "de/d25/classnpc__custodian__of__time.html#a57217b2dab1cab110f1c59526ca13c86":[7,0,1759,2],
 "de/d25/classnpc__custodian__of__time.html#a6018b30119ce819853a3c662b3d5347e":[7,0,1759,1],
 "de/d25/structnpc__black__morass__summoned__add.html":[7,0,1688],
-"de/d25/structnpc__black__morass__summoned__add.html#a437e7b72b985713d22883f3e33f30942":[7,0,1688,1],
-"de/d25/structnpc__black__morass__summoned__add.html#ab1551fc3e746dc724ea433f7a3daa786":[7,0,1688,0],
-"de/d26/classspell__mage__blazing__speed.html":[7,0,3595]
+"de/d25/structnpc__black__morass__summoned__add.html#a437e7b72b985713d22883f3e33f30942":[7,0,1688,1]
 };

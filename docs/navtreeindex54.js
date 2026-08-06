@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3827,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[7,0,3924,2],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[7,0,3924,1],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[7,0,3924,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[7,0,1321,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a048a2b16ae9917c7edc9bf7023986ac3":[7,0,1321,0,1]
+"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[7,0,1321,0]
 };

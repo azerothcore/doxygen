@@ -1,5 +1,9 @@
 var NAVTREEINDEX427 =
 {
+"df/dfa/structnpc__hover__disk.html#add98702312084df553e24bcd4b632bb3":[7,0,1900,6],
+"df/dfa/structnpc__hover__disk.html#ae4141e5aed3cfdbf8d76ad55ce4463d9":[7,0,1900,2],
+"df/dfa/structnpc__hover__disk.html#af6f8ef0df4b64540f99adebdd709b00e":[7,0,1900,0],
+"df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,25],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e":[8,0,0,0,1,3,2,25,1],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,25,1,1],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[8,0,0,0,1,3,2,25,1,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX427 =
 "dir_d9de844c1d859dc2cc6a65181dd33644.html":[8,0,0,0,1,2,8,1],
 "dir_da01a965bae6fd871215c00876339143.html":[8,0,0,0,1,3,7,3],
 "dir_ddeb450e5fe586f747c0635391d1d1d6.html":[8,0,0,0,1,3,2],
-"dir_df159a8f325d88d9d469ac728430a4fa.html":[8,0,0,0,1,4,0],
-"dir_e068b882fd581e5818b3e126213c1b22.html":[8,0,0,0,1,3,4,1,0],
-"dir_e09b2498ecb731f0e33a0d4703100d8f.html":[8,0,0,0,2,2,0,0],
-"dir_e130f032a9c2fe76630794320043c894.html":[8,0,0,0,1,2,20],
-"dir_e30894caaa8ce00721e2b63527d5c720.html":[8,0,0,0,1,2,10]
+"dir_df159a8f325d88d9d469ac728430a4fa.html":[8,0,0,0,1,4,0]
 };

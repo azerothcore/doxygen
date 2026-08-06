@@ -1,5 +1,7 @@
 var NAVTREEINDEX149 =
 {
+"d5/d37/classMailMgr.html#ac355df32c38e8619cf18cee283894c64":[7,0,1508,4],
+"d5/d37/classMailMgr.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf":[7,0,1508,5],
 "d5/d38/classSpellProcDBCValidationTest.html":[7,0,4478],
 "d5/d38/classSpellProcDBCValidationTest.html#a7c06feea09d0606a50198a307e43b989":[7,0,4478,1],
 "d5/d38/classSpellProcDBCValidationTest.html#aa4192b0ae6f716449e20ead2b5a5a387":[7,0,4478,0],
@@ -123,8 +125,8 @@ var NAVTREEINDEX149 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[7,0,3204,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[7,0,3204,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3204,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1843],
@@ -247,7 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a09668a45c49a57b5d70e2961a2ccdf9a":[8,0,0,0,1,3,5,8,2,5,20,6],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a20e83133eb94ba56940fd74c655fa3eb":[8,0,0,0,1,3,5,8,2,5,20,11],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a300f58de77f75b2f78df18d76a69ca14":[8,0,0,0,1,3,5,8,2,5,20,9],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75":[8,0,0,0,1,3,5,8,2,5,20,3],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a5ce8fff57a28a3412818d08a7a1de535":[8,0,0,0,1,3,5,8,2,5,20,10],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a5d2a7910d1b37d273b0cf215d624b394":[8,0,0,0,1,3,5,8,2,5,20,13]
+"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75":[8,0,0,0,1,3,5,8,2,5,20,3]
 };

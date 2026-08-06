@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d14/structboss__felblood__kaelthas.html#a984dcde8d78adbce00e307eb3c4d32b8":[7,0,482,2],
 "d2/d14/structboss__felblood__kaelthas.html#aae902304d9e7ef27bdb9bde8cdf85605":[7,0,482,3],
 "d2/d14/structboss__felblood__kaelthas.html#ab4e884a341fa25a555c160f6978861fc":[7,0,482,8],
 "d2/d14/structboss__felblood__kaelthas.html#abde9a26abd8eef0b8cd25cbd6522d899":[7,0,482,7],
@@ -15,16 +16,16 @@ var NAVTREEINDEX52 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[7,0,2218,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[7,0,2218,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[7,0,2218,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[7,0,13,10,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,34,10,2,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,34,10,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,34,10,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[7,0,13,10,2,4],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,34,10,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[7,0,13,10,2,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,34,10,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[7,0,13,10,2,3],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[5,0,34,10,2,3],
 "d2/d16/AppenderFile_8h.html":[8,0,0,0,0,9,5],
@@ -67,8 +68,8 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[7,0,300,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[7,0,300,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,300,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1e/classInstanceScript.html#a531bc9f189af75cdc2467833dd67f3ec":[7,0,1402,93],
 "d2/d1e/classInstanceScript.html#a5a3faff18c32a8f4da68b00489b7e480":[7,0,1402,17],
 "d2/d1e/classInstanceScript.html#a5d75e0efe4ec6f6af7cbe8cf0fb6b73f":[7,0,1402,99],
-"d2/d1e/classInstanceScript.html#a5d89beab2b27e46cd41fefd42172819c":[7,0,1402,73],
-"d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169":[7,0,1402,41]
+"d2/d1e/classInstanceScript.html#a5d89beab2b27e46cd41fefd42172819c":[7,0,1402,73]
 };

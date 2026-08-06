@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169":[7,0,1402,41],
 "d2/d1e/classInstanceScript.html#a677713180e18358e1e984f42805c0747":[7,0,1402,29],
 "d2/d1e/classInstanceScript.html#a6aee05b8d8e1ff0f9612b05c2437a9e3":[7,0,1402,105],
 "d2/d1e/classInstanceScript.html#a6db4f0154ca41ad05c475da9b95114a2":[7,0,1402,57],
@@ -108,16 +109,16 @@ var NAVTREEINDEX53 =
 "d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[7,0,225,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,34,6,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[7,0,13,6,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[5,0,34,6,5,2],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,34,6,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[7,0,13,6,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[7,0,13,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,34,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,34,6,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[7,0,13,6,5,4],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[7,0,13,6,5,1],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,34,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[7,0,13,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,34,6,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d22/classspell__midsummer__torch__catch.html#afb79a2cf5359e7ec69746cd89d8cd727":[7,0,3673,1],
 "d2/d22/classspell__pri__mana__burn.html":[7,0,3827],
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3827,2],
-"d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3827,0],
-"d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3827,1]
+"d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3827,0]
 };

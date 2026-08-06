@@ -1,5 +1,8 @@
 var NAVTREEINDEX398 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cadb1eb37231c55023fd8fbaff93d3b55f":[8,0,0,0,1,3,5,6,9,41,25],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823":[8,0,0,0,1,3,5,6,9,41,28],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298cadf215f2e28fb7711cb83fb64a2afd419":[8,0,0,0,1,3,5,6,9,41,0],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caee6ab46191fe4c69f1115b26c4a2e2ed":[8,0,0,0,1,3,5,6,9,41,14],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caeed2ad5ddd42421a39d77dd7ca3c8be7":[8,0,0,0,1,3,5,6,9,41,23],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298caf6baef7b50efba2a1dc5612c1d52150f":[8,0,0,0,1,3,5,6,9,41,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX398 =
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aa223fcf402ed5d99ea88275b357f398c":[7,0,2151,0,10],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aca6869f05555499b210c09889d3f6684":[7,0,2151,0,14],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#acf32d74b4f0454f01f7313df6b35c4d3":[7,0,2151,0,4],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#acf42a824739dd69d64c3b1e3eff6a944":[7,0,2151,0,11],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#ae3abcf75a666c5bd722ca060fca4a12c":[7,0,2151,0,3],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aeb17b772324aa2d985606659a2aee895":[7,0,2151,0,13],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#af6263dbfa9e4cbc6f7812a10894f3dd2":[7,0,2151,0,15]
+"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#acf42a824739dd69d64c3b1e3eff6a944":[7,0,2151,0,11]
 };

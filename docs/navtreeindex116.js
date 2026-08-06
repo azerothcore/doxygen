@@ -1,5 +1,7 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbafb6d3f5c5ef498dc94911ce69efbe431":[8,0,0,0,1,2,8,1,3,18,10],
+"d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbafc1b3dd21a85d5c5d149d45a72880084":[8,0,0,0,1,2,8,1,3,18,5],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cbafdf3b9a2b2b60e13b689ec27b187b28a":[8,0,0,0,1,2,8,1,3,18,31],
 "d3/dd4/BattlegroundAV_8h.html#ac2a8e4e2f67d5fe54a20debb1cd27ce0":[8,0,0,0,1,2,8,1,3,7],
 "d3/dd4/BattlegroundAV_8h.html#aca858a4b6c9af5391a8b2b422974ce25":[8,0,0,0,1,2,8,1,3,32],
@@ -97,8 +99,8 @@ var NAVTREEINDEX116 =
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[7,0,13,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[7,0,13,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[7,0,13,14,11,2],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[5,0,34,14,11,2],
 "d3/dd6/classat__blackrock__stadium.html":[7,0,221],
@@ -247,7 +249,5 @@ var NAVTREEINDEX116 =
 "d3/ddf/classAllBattlegroundScript.html#a638cd6beb9edf2c538f4ac079560a07c":[7,0,153,5],
 "d3/ddf/classAllBattlegroundScript.html#a8c2588bb5b7c193b0c85b26de5210dd5":[7,0,153,12],
 "d3/ddf/classAllBattlegroundScript.html#a91225952a9567a2408ea8b1f52660599":[7,0,153,13],
-"d3/ddf/classAllBattlegroundScript.html#a91c57b646aae6467e06b4cc13b89cfb4":[7,0,153,6],
-"d3/ddf/classAllBattlegroundScript.html#aa6affc2d98448a93ac15a2a54327cba9":[7,0,153,8],
-"d3/ddf/classAllBattlegroundScript.html#ab17a48ac48f6e6aac4a365b4e7673bc3":[7,0,153,15]
+"d3/ddf/classAllBattlegroundScript.html#a91c57b646aae6467e06b4cc13b89cfb4":[7,0,153,6]
 };

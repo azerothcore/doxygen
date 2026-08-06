@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4b/classPlayer.html#af6613958d93ff1f2ae4037a384940da1":[7,0,2430,73],
 "d2/d4b/classPlayer.html#af66560315fcbe492a24137bc8d96dd94":[7,0,2430,581],
 "d2/d4b/classPlayer.html#af6835b909da1b10179836294a7d27859":[7,0,2430,399],
 "d2/d4b/classPlayer.html#af695f8c83cb44fd167d7ef31abd46887":[7,0,2430,283],
@@ -57,10 +58,10 @@ var NAVTREEINDEX64 =
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4522,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d58/classEventProcessor.html#a29651ba6704e7908820af60ec37a2478":[7,0,1060,10],
 "d2/d58/classEventProcessor.html#a2db97870b30361980b2d72ef806de951":[7,0,1060,8],
 "d2/d58/classEventProcessor.html#a3ed0b93d52ff192098983a3e6a9c5acd":[7,0,1060,3],
-"d2/d58/classEventProcessor.html#a5c430ef08365f5eeca0f3321991bfaac":[7,0,1060,0],
-"d2/d58/classEventProcessor.html#a5f09366ac8e595f24b0c095f4127b9e7":[7,0,1060,11]
+"d2/d58/classEventProcessor.html#a5c430ef08365f5eeca0f3321991bfaac":[7,0,1060,0]
 };

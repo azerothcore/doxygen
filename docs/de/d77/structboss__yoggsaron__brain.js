@@ -5,6 +5,7 @@ var structboss__yoggsaron__brain =
     [ "DoAction", "de/d77/structboss__yoggsaron__brain.html#aff1761f23cd984cc5db31026f84b4218", null ],
     [ "GetData", "de/d77/structboss__yoggsaron__brain.html#a30593cbb193bf868f99d54279e04d39e", null ],
     [ "JustSummoned", "de/d77/structboss__yoggsaron__brain.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
+    [ "OnSpellCast", "de/d77/structboss__yoggsaron__brain.html#a33d573562e347d4c0580cf80fc9b84f9", null ],
     [ "PrepareChamberIllusion", "de/d77/structboss__yoggsaron__brain.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
     [ "PrepareIceCrownIllusion", "de/d77/structboss__yoggsaron__brain.html#adf41fc4e1adda0e969e06f490fe59414", null ],
     [ "PrepareStormwindIllusion", "de/d77/structboss__yoggsaron__brain.html#a193b18ba9aa03583659002c6a339c0c7", null ],

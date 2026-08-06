@@ -1,5 +1,8 @@
 var NAVTREEINDEX410 =
 {
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html":[7,0,3803],
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a074f54a4b022adc6ea34b3716dec745f":[7,0,3803,0],
+"df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a339df7ae9553fbae68ce791baef1df5e":[7,0,3803,2],
 "df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a725d5bc1f76614778b140f3061aa2e03":[7,0,3803,1],
 "df/d6c/classspell__sartharion__lava__strike.html":[7,0,4053],
 "df/d6c/classspell__sartharion__lava__strike.html#a3fd71e2a93f99f19443640a2147b1663":[7,0,4053,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX410 =
 "df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[7,0,4542,4],
 "df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[7,0,4542,5],
 "df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[7,0,4542,1],
-"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[7,0,4542,6],
-"df/d76/UpdateFetcher_8h.html":[8,0,0,0,1,1,3,3],
-"df/d76/structnpc__rookery__hatcher.html":[7,0,2138],
-"df/d76/structnpc__rookery__hatcher.html#a011cf0384a7bf6dd502a767d6667140a":[7,0,2138,3]
+"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[7,0,4542,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada40dd9762134361edcabbc7ad232b5723":[8,0,0,0,1,3,2,30,28,20],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada41df3c66984f5bfdbe69d8f254c4da0f":[8,0,0,0,1,3,2,30,28,78],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada42156050a47ad9b3d988ed9ae3d9b567":[8,0,0,0,1,3,2,30,28,36],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada42def052c25ddbd7a16f702b1d683c8b":[8,0,0,0,1,3,2,30,28,47],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada44a5bfecee69576bd4676fe9d11306b6":[8,0,0,0,1,3,2,30,28,84],
@@ -204,10 +206,10 @@ var NAVTREEINDEX311 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[7,0,2826,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[7,0,2826,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[7,0,2826,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[7,0,920],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,920,0],
 "db/ddb/classTaskContext.html":[7,0,4536],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "db/ddb/classTaskContext.html#adc1347e5fcff0bb21e45805b1cfd2809":[7,0,4536,22],
 "db/ddb/classTaskContext.html#adca01e15214852dd23d3e404ee3e1f21":[7,0,4536,1],
 "db/ddb/classTaskContext.html#add5a7d1e76bd0d0766c17920dadd5b61":[7,0,4536,27],
-"db/ddb/classTaskContext.html#ae60b6c797e99c416b84c5b9ae715b215":[7,0,4536,25],
-"db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5":[7,0,4536,18],
-"db/ddb/classnpc__black__knight__ghoul.html":[7,0,1685]
+"db/ddb/classTaskContext.html#ae60b6c797e99c416b84c5b9ae715b215":[7,0,4536,25]
 };

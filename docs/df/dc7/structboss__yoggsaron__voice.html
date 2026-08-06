@@ -493,16 +493,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2165</span>                                             : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 2166</span>    {</div>
-<div class="line"><span class="lineno"> 2167</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
-<div class="line"><span class="lineno"> 2168</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
-<div class="line"><span class="lineno"> 2169</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2179</span>                                             : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 2180</span>    {</div>
+<div class="line"><span class="lineno"> 2181</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
+<div class="line"><span class="lineno"> 2182</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
+<div class="line"><span class="lineno"> 2183</span>    }</div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:56</div></div>
-<div class="ttc" id="astructboss__yoggsaron__voice_html_a2c4eccdfa3eeb4ac7851e43bbd75b55b"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">boss_yoggsaron_voice::_current</a></div><div class="ttdeci">uint32 _current</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2173</div></div>
-<div class="ttc" id="astructboss__yoggsaron__voice_html_a52bf7b9b560f600b5b3647fefb3830bf"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">boss_yoggsaron_voice::_targets</a></div><div class="ttdeci">GuidVector _targets</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2172</div></div>
+<div class="ttc" id="astructboss__yoggsaron__voice_html_a2c4eccdfa3eeb4ac7851e43bbd75b55b"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">boss_yoggsaron_voice::_current</a></div><div class="ttdeci">uint32 _current</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2187</div></div>
+<div class="ttc" id="astructboss__yoggsaron__voice_html_a52bf7b9b560f600b5b3647fefb3830bf"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">boss_yoggsaron_voice::_targets</a></div><div class="ttdeci">GuidVector _targets</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2186</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02173">_current</a>, and <a class="el" href="../../#l02172">_targets</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02187">_current</a>, and <a class="el" href="../../#l02186">_targets</a>.</p>
 
 </div>
 </div>
@@ -532,23 +532,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2184</span>    {</div>
-<div class="line"><span class="lineno"> 2185</span>        <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a>)</div>
-<div class="line"><span class="lineno"> 2186</span>        {</div>
-<div class="line"><span class="lineno"> 2187</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2188</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2189</span>        }</div>
-<div class="line"><span class="lineno"> 2190</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a>)</div>
-<div class="line"><span class="lineno"> 2191</span>            <a class="code hl_function" href="../../df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d">Reset</a>();</div>
-<div class="line"><span class="lineno"> 2192</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2198</span>    {</div>
+<div class="line"><span class="lineno"> 2199</span>        <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a>)</div>
+<div class="line"><span class="lineno"> 2200</span>        {</div>
+<div class="line"><span class="lineno"> 2201</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2202</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2203</span>        }</div>
+<div class="line"><span class="lineno"> 2204</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (param == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a>)</div>
+<div class="line"><span class="lineno"> 2205</span>            <a class="code hl_function" href="../../df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d">Reset</a>();</div>
+<div class="line"><span class="lineno"> 2206</span>    }</div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac804f14f7f4b6ae732092ce11a1aef6a">SPELL_INSANE_PERIODIC</a></div><div class="ttdeci">@ SPELL_INSANE_PERIODIC</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:62</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53">SPELL_SANITY_BASE</a></div><div class="ttdeci">@ SPELL_SANITY_BASE</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:55</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75">ACTION_VOICE_START</a></div><div class="ttdeci">@ ACTION_VOICE_START</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:237</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6469a42b600da5917faadb514176fda7">ACTION_VOICE_STOP</a></div><div class="ttdeci">@ ACTION_VOICE_STOP</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:236</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:394</div></div>
-<div class="ttc" id="astructboss__yoggsaron__voice_html_a05a59e5c1e05f40fed219a2927e8006d"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d">boss_yoggsaron_voice::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2175</div></div>
+<div class="ttc" id="astructboss__yoggsaron__voice_html_a05a59e5c1e05f40fed219a2927e8006d"><div class="ttname"><a href="../../df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d">boss_yoggsaron_voice::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2189</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00237">ACTION_VOICE_START</a>, <a class="el" href="../../#l00236">ACTION_VOICE_STOP</a>, <a class="el" href="../../#l00394">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02175">Reset()</a>, <a class="el" href="../../#l00062">SPELL_INSANE_PERIODIC</a>, and <a class="el" href="../../#l00055">SPELL_SANITY_BASE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00237">ACTION_VOICE_START</a>, <a class="el" href="../../#l00236">ACTION_VOICE_STOP</a>, <a class="el" href="../../#l00394">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02189">Reset()</a>, <a class="el" href="../../#l00062">SPELL_INSANE_PERIODIC</a>, and <a class="el" href="../../#l00055">SPELL_SANITY_BASE</a>.</p>
 
 </div>
 </div>
@@ -576,19 +576,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2176</span>    {</div>
-<div class="line"><span class="lineno"> 2177</span>        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno"> 2178</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
-<div class="line"><span class="lineno"> 2179</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
-<div class="line"><span class="lineno"> 2180</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
-<div class="line"><span class="lineno"> 2181</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2190</span>    {</div>
+<div class="line"><span class="lineno"> 2191</span>        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno"> 2192</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.clear();</div>
+<div class="line"><span class="lineno"> 2193</span>        <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a> = 0;</div>
+<div class="line"><span class="lineno"> 2194</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
+<div class="line"><span class="lineno"> 2195</span>    }</div>
 <div class="ttc" id="aboss__sartura_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
-<div class="ttc" id="aclassUnit_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition</b> Unit.cpp:5591</div></div>
+<div class="ttc" id="aclassUnit_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition</b> Unit.cpp:5612</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02173">_current</a>, <a class="el" href="../../#l02172">_targets</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l05591">Unit::RemoveAllAuras()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02187">_current</a>, <a class="el" href="../../#l02186">_targets</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l05612">Unit::RemoveAllAuras()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02183">DoAction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02197">DoAction()</a>.</p>
 
 </div>
 </div>
@@ -627,18 +627,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2195</span>    {</div>
-<div class="line"><span class="lineno"> 2196</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a>)</div>
-<div class="line"><span class="lineno"> 2197</span>        {</div>
-<div class="line"><span class="lineno"> 2198</span>            <span class="comment">// Drive Me Crazy achievement failed</span></div>
-<div class="line"><span class="lineno"> 2199</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2200</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* yogg = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>))</div>
-<div class="line"><span class="lineno"> 2201</span>                    yogg-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a>);</div>
-<div class="line"><span class="lineno"> 2202</span> </div>
-<div class="line"><span class="lineno"> 2203</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(40, 2s);</div>
-<div class="line"><span class="lineno"> 2204</span>            <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.push_back(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 2205</span>        }</div>
-<div class="line"><span class="lineno"> 2206</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2209</span>    {</div>
+<div class="line"><span class="lineno"> 2210</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a>)</div>
+<div class="line"><span class="lineno"> 2211</span>        {</div>
+<div class="line"><span class="lineno"> 2212</span>            <span class="comment">// Drive Me Crazy achievement failed</span></div>
+<div class="line"><span class="lineno"> 2213</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2214</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* yogg = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>))</div>
+<div class="line"><span class="lineno"> 2215</span>                    yogg-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a>);</div>
+<div class="line"><span class="lineno"> 2216</span> </div>
+<div class="line"><span class="lineno"> 2217</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(40, 2s);</div>
+<div class="line"><span class="lineno"> 2218</span>            <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.push_back(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 2219</span>        }</div>
+<div class="line"><span class="lineno"> 2220</span>    }</div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e">SPELL_INSANE1</a></div><div class="ttdeci">@ SPELL_INSANE1</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:60</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973">ACTION_FAILED_DRIVE_ME_CRAZY</a></div><div class="ttdeci">@ ACTION_FAILED_DRIVE_ME_CRAZY</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:252</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
@@ -647,7 +647,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition</b> Object.cpp:1242</div></div>
 <div class="ttc" id="aulduar_8h_html_a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a></div><div class="ttdeci">@ BOSS_YOGGSARON</div><div class="ttdef"><b>Definition</b> ulduar.h:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02172">_targets</a>, <a class="el" href="../../#l00252">ACTION_FAILED_DRIVE_ME_CRAZY</a>, <a class="el" href="../../#l00043">BOSS_YOGGSARON</a>, <a class="el" href="../../#l00120">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01242">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00060">SPELL_INSANE1</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02186">_targets</a>, <a class="el" href="../../#l00252">ACTION_FAILED_DRIVE_ME_CRAZY</a>, <a class="el" href="../../#l00043">BOSS_YOGGSARON</a>, <a class="el" href="../../#l00120">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01242">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00060">SPELL_INSANE1</a>.</p>
 
 </div>
 </div>
@@ -678,30 +678,30 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2209</span>    {</div>
-<div class="line"><span class="lineno"> 2210</span>        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno"> 2211</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno"> 2212</span>        {</div>
-<div class="line"><span class="lineno"> 2213</span>            <span class="keywordflow">case</span> 40:</div>
-<div class="line"><span class="lineno"> 2214</span>                {</div>
-<div class="line"><span class="lineno"> 2215</span>                    <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> _guid = <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.at(<a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>);</div>
-<div class="line"><span class="lineno"> 2216</span>                    ++<a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>;</div>
-<div class="line"><span class="lineno"> 2217</span> </div>
-<div class="line"><span class="lineno"> 2218</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, _guid))</div>
-<div class="line"><span class="lineno"> 2219</span>                    {</div>
-<div class="line"><span class="lineno"> 2220</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a>, player);</div>
-<div class="line"><span class="lineno"> 2221</span>                    }</div>
-<div class="line"><span class="lineno"> 2222</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2223</span>                }</div>
-<div class="line"><span class="lineno"> 2224</span>        }</div>
-<div class="line"><span class="lineno"> 2225</span>    }</div>
-<div class="ttc" id="aboss__yoggsaron_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a></div><div class="ttdeci">@ WHISPER_VOICE_INSANE</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:332</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2223</span>    {</div>
+<div class="line"><span class="lineno"> 2224</span>        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno"> 2225</span>        <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno"> 2226</span>        {</div>
+<div class="line"><span class="lineno"> 2227</span>            <span class="keywordflow">case</span> 40:</div>
+<div class="line"><span class="lineno"> 2228</span>                {</div>
+<div class="line"><span class="lineno"> 2229</span>                    <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> _guid = <a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a52bf7b9b560f600b5b3647fefb3830bf">_targets</a>.at(<a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>);</div>
+<div class="line"><span class="lineno"> 2230</span>                    ++<a class="code hl_variable" href="../../df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b">_current</a>;</div>
+<div class="line"><span class="lineno"> 2231</span> </div>
+<div class="line"><span class="lineno"> 2232</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, _guid))</div>
+<div class="line"><span class="lineno"> 2233</span>                    {</div>
+<div class="line"><span class="lineno"> 2234</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a>, player);</div>
+<div class="line"><span class="lineno"> 2235</span>                    }</div>
+<div class="line"><span class="lineno"> 2236</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2237</span>                }</div>
+<div class="line"><span class="lineno"> 2238</span>        }</div>
+<div class="line"><span class="lineno"> 2239</span>    }</div>
+<div class="ttc" id="aboss__yoggsaron_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a17a9a825ef3bd972a68be6c424510ce0">WHISPER_VOICE_INSANE</a></div><div class="ttdeci">@ WHISPER_VOICE_INSANE</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:333</div></div>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:121</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1086</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a86236181ddfead8560067378e385f244"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer(Map const *, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:220</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02173">_current</a>, <a class="el" href="../../#l02172">_targets</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00332">WHISPER_VOICE_INSANE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02187">_current</a>, <a class="el" href="../../#l02186">_targets</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00333">WHISPER_VOICE_INSANE</a>.</p>
 
 </div>
 </div>
@@ -718,7 +718,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02165">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02175">Reset()</a>, and <a class="el" href="../../#l02208">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02179">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02189">Reset()</a>, and <a class="el" href="../../#l02222">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -734,7 +734,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02165">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02175">Reset()</a>, <a class="el" href="../../#l02194">SpellHitTarget()</a>, and <a class="el" href="../../#l02208">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02179">boss_yoggsaron_voice()</a>, <a class="el" href="../../#l02189">Reset()</a>, <a class="el" href="../../#l02208">SpellHitTarget()</a>, and <a class="el" href="../../#l02222">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -761,7 +761,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/dc7/structboss__yoggsaron__voice.html">boss_yoggsaron_voice</a></li>
-    <li class="footer">Generated on Wed Aug 5 2026 08:29:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Aug 6 2026 08:26:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

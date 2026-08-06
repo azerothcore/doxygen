@@ -1,5 +1,6 @@
 var NAVTREEINDEX51 =
 {
+"d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5":[8,0,0,0,1,2,3,4,6,3],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404":[8,0,0,0,1,2,3,4,6,2],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae":[8,0,0,0,1,2,3,4,6,1],
 "d2/d05/CreatureAI_8h.html#a8de08a341cdd207e19eef425c2f5f152":[8,0,0,0,1,2,3,4,1],
@@ -91,8 +92,8 @@ var NAVTREEINDEX51 =
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,34,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[7,0,13,12,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[7,0,13,12,2,0],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,34,12,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[7,0,13,12,2,0],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html":[7,0,3500],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a19094a96e052ec5b1b82aa9a124b30cc":[7,0,3500,2],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a29dfea997f49052f683cabdf01295126":[7,0,3500,1],
@@ -116,14 +117,14 @@ var NAVTREEINDEX51 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[8,0,0,0,1,2,38,0,19,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[8,0,0,0,1,2,38,0,19,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[8,0,0,0,1,2,38,0,19,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[7,0,0,90],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,0,102],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[7,0,0,90,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[7,0,0,90],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,0,102,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[7,0,0,90,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,102,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[7,0,0,90,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[7,0,0,90,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,0,102,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[7,0,0,90,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,0,102,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[7,0,0,90,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[7,0,2213],
@@ -177,8 +178,8 @@ var NAVTREEINDEX51 =
 "d2/d0f/classRestoreFight.html":[7,0,2549],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2549,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2549,0],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2549,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2549,2],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2549,3],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[7,0,2549,4],
 "d2/d0f/classspell__icc__web__wrap__aura.html":[7,0,3288],
 "d2/d0f/classspell__icc__web__wrap__aura.html#aad4497ba7cad48b9547e8696714d8c23":[7,0,3288,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d14/classnpcs__riverbreeze__and__silversky.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2":[7,0,2338,0],
 "d2/d14/structboss__felblood__kaelthas.html":[7,0,482],
 "d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218":[7,0,482,5],
-"d2/d14/structboss__felblood__kaelthas.html#a85abfb330ccc1fed5b9dc851d780f386":[7,0,482,0],
-"d2/d14/structboss__felblood__kaelthas.html#a984dcde8d78adbce00e307eb3c4d32b8":[7,0,482,2]
+"d2/d14/structboss__felblood__kaelthas.html#a85abfb330ccc1fed5b9dc851d780f386":[7,0,482,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX198 =
 {
+"d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[8,0,0,0,1,2,2,1,4],
+"d7/d34/AddonMgr_8h.html#a6edf9a462d4afcaff40e69da1e75cca5":[8,0,0,0,1,2,2,1,5],
 "d7/d34/AddonMgr_8h.html#a85021021149b7eb4d78cbe81e43d3d45":[8,0,0,0,1,2,2,1,8],
 "d7/d34/AddonMgr_8h.html#aaa12f5b754e6b664dbfb2428478bee03":[8,0,0,0,1,2,2,1,7],
 "d7/d34/AddonMgr_8h.html#ad7d0938e7463238a86e8c811e1a58800":[8,0,0,0,1,2,2,1,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a8845fefb53599e42b7c88a9f416f5d18":[8,0,0,0,1,3,5,4,0,3,5,8],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a96ef45a65b59f4aa5420bd3c53bd1ffe":[8,0,0,0,1,3,5,4,0,3,5,7],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08aab6ed41a6659914644c87548396c4d9b":[8,0,0,0,1,3,5,4,0,3,5,12],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08ab59791380fdc35c10d6b5e3558214e5b":[8,0,0,0,1,3,5,4,0,3,5,11],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08ad7b5f6d9b213f87c99f931b456390560":[8,0,0,0,1,3,5,4,0,3,5,2],
-"d7/d40/forge__of__souls_8h.html#a3c0c936a921822a81a5164ac22d1d2be":[8,0,0,0,1,3,5,4,0,3,2]
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08ab59791380fdc35c10d6b5e3558214e5b":[8,0,0,0,1,3,5,4,0,3,5,11]
 };

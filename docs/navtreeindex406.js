@@ -1,5 +1,8 @@
 var NAVTREEINDEX406 =
 {
+"df/d2e/classToCloud9GroupHooks.html":[7,0,4563],
+"df/d2e/classToCloud9GroupHooks.html#a05fc2da0da6f565a0bc4bc234a92046f":[7,0,4563,1],
+"df/d2e/classToCloud9GroupHooks.html#a0c066c39c344d750164735a4f549cf69":[7,0,4563,9],
 "df/d2e/classToCloud9GroupHooks.html#a0c63904979beb754131797a163000ec5":[7,0,4563,8],
 "df/d2e/classToCloud9GroupHooks.html#a104b63c83abe82809e16bc86b9649011":[7,0,4563,2],
 "df/d2e/classToCloud9GroupHooks.html#a56b706ee7923e004bc1097887d645793":[7,0,4563,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX406 =
 "df/d3b/classnpc__bunthen__plainswind.html#ad9b789ad3e958dee4733b142813b6302":[7,0,1710,0],
 "df/d3b/classnpc__bunthen__plainswind.html#ae2fe8bfb957dd8ea84d2585293c3b6eb":[7,0,1710,1],
 "df/d3c/classinstance__arcatraz.html":[7,0,1322],
-"df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[7,0,1322,1],
-"df/d3c/classinstance__arcatraz.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb":[7,0,1322,2],
-"df/d3c/classspell__the__cleansing__cleansing__soul.html":[7,0,4209],
-"df/d3c/classspell__the__cleansing__cleansing__soul.html#a02fd5ec715170198bfb3b4f6be0485b7":[7,0,4209,4]
+"df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[7,0,1322,1]
 };

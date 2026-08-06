@@ -1,5 +1,7 @@
 var NAVTREEINDEX346 =
 {
+"dd/d47/classspell__hun__kill__command__pet.html#a675a17a574539f2da85a5401afc18fec":[7,0,3254,0],
+"dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[7,0,3254,1],
 "dd/d47/classspell__hun__kill__command__pet.html#aec327c219229ae9d59cb491eef2d95d3":[7,0,3254,3],
 "dd/d48/UpdateMask_8h.html":[8,0,0,0,1,2,16,5,0,5],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[7,0,2,0,0,0],
@@ -36,14 +38,14 @@ var NAVTREEINDEX346 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[8,0,0,0,1,3,2,1,1,1,1,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[8,0,0,0,1,3,2,1,1,1,1,5],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[7,0,13,4,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[5,0,34,4,0],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a18e66148dc50a7ea7f98a57a122285ee":[5,0,34,4,0,2],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[7,0,13,4,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a18e66148dc50a7ea7f98a57a122285ee":[7,0,13,4,0,2],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[5,0,34,4,0,3],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a18e66148dc50a7ea7f98a57a122285ee":[5,0,34,4,0,2],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[7,0,13,4,0,3],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[5,0,34,4,0,4],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[5,0,34,4,0,3],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[7,0,13,4,0,4],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[5,0,34,4,0,4],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[5,0,34,4,0,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[7,0,13,4,0,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ae2143b20488064400c306004ee678a89":[5,0,34,4,0,1],
@@ -65,8 +67,8 @@ var NAVTREEINDEX346 =
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[7,0,2959,0],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[7,0,2959,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[7,0,2959,3],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[7,0,13,7,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[7,0,13,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca717f0f96796c5ba79a4cb9067e5abf9a":[8,0,0,0,1,3,4,9,7,9,13],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,4,9,7,9,5],
 "dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,4,9,7,9,4],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca93d7e60cfcfaf823d896f6d2af4b4160":[8,0,0,0,1,3,4,9,7,9,7],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caadca9e3f7a259baf7c4c346388e9cb4a":[8,0,0,0,1,3,4,9,7,9,1],
-"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298caaf9b59e8724e42ea3e99eb7ce68eb524":[8,0,0,0,1,3,4,9,7,9,2]
+"dd/d58/boss__twinemperors_8cpp.html#a5bd342133be8c2137b831460acc9298ca93d7e60cfcfaf823d896f6d2af4b4160":[8,0,0,0,1,3,4,9,7,9,7]
 };

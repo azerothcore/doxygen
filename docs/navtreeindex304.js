@@ -1,5 +1,7 @@
 var NAVTREEINDEX304 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae551d6ab15875a7513a7f6f79c650f2c":[8,0,0,0,1,3,10,14,63,1],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae8e15077d2b7b473011aa4474d68fd13":[8,0,0,0,1,3,10,14,63,6],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[8,0,0,0,1,3,10,14,63,3],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595":[8,0,0,0,1,3,10,14,60],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595a2ced7cd57bec439c9966fd4b41850718":[8,0,0,0,1,3,10,14,60,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX304 =
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,10,14,8],
 "db/db4/classSQLQueryHolder.html":[7,0,4510],
 "db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4510,0],
-"db/db5/structboss__hydross__the__unstable.html":[7,0,558],
-"db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[7,0,558,3],
-"db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[7,0,558,6]
+"db/db5/structboss__hydross__the__unstable.html":[7,0,558]
 };

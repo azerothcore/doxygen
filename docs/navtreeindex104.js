@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d7c/System_8cpp.html#af0a40bb14d588796c7c1c53a8ac873db":[8,0,0,0,3,1,8,72],
+"d3/d7c/System_8cpp.html#af540331f30878faa67d8a48550f0962c":[8,0,0,0,3,1,8,61],
 "d3/d7c/System_8cpp.html#afc674da665144f5a320e099d51659fce":[8,0,0,0,3,1,8,27],
 "d3/d7c/System_8cpp.html#afe04564375569fdbc2f87750057a2131":[8,0,0,0,3,1,8,46],
 "d3/d7c/classboss__darkmaster__gandling.html":[7,0,438],
@@ -53,14 +55,14 @@ var NAVTREEINDEX104 =
 "d3/d7f/structgo__sister__mercy.html#a3c29ef699afe163b9a505f472709a795":[7,0,1213,0],
 "d3/d7f/structgo__sister__mercy.html#a5ad9020e2717ef93d97a742ec16b14e6":[7,0,1213,1],
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
 "d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8ada99d35e19b3882c66d486a67a97c90d":[8,0,0,0,1,3,5,2,0,5,6,6],
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8ae102028a9e0fb2b310f4434359dd6a33":[8,0,0,0,1,3,5,2,0,5,6,2],
 "d3/d81/trial__of__the__champion_8h.html#af4a18fb1ab3a6e267dd5c1e49c98bae8afff5170720fc2777cf8d8415b8b48a1f":[8,0,0,0,1,3,5,2,0,5,6,3],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html":[7,0,2040,0],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#a1d6a80a4f7e9239a781bebaedfd389d7":[7,0,2040,0,3],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#a1dac85f0dae65d12740b54fe5d140a25":[7,0,2040,0,1]
+"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html":[7,0,2040,0]
 };

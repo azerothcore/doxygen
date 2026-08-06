@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d7/da7/boss__marli_8cpp.html#a99343660ea4c1af481f86d424ff700f6":[8,0,0,0,1,3,2,15,8,11],
+"d7/da7/boss__marli_8cpp.html#aa1ce80ad135a7c0e6ea6e8f1534a5c7f":[8,0,0,0,1,3,2,15,8,10],
 "d7/da7/boss__marli_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7":[8,0,0,0,1,3,2,15,8,9],
 "d7/da7/classWorldScript.html":[7,0,4705],
 "d7/da7/classWorldScript.html#a117234aac087ec653c83cfe01a6dce7a":[7,0,4705,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "d7/db0/classMap.html#a8910310aea20a0747375bf5a24330c73":[7,0,1516,193],
 "d7/db0/classMap.html#a89410ba454e24ecb7babd34872dc0876":[7,0,1516,27],
 "d7/db0/classMap.html#a89aaf29da90e9e1c4cc142e59ef0a358":[7,0,1516,203],
-"d7/db0/classMap.html#a8af57211e0e64295545f6f890044202e":[7,0,1516,50],
-"d7/db0/classMap.html#a8b39a5d788e26d1be04a8f97da427531":[7,0,1516,221],
-"d7/db0/classMap.html#a8c19801de29c39c3092344abeb3cb86a":[7,0,1516,222]
+"d7/db0/classMap.html#a8af57211e0e64295545f6f890044202e":[7,0,1516,50]
 };

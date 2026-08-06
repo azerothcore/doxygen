@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html":[7,0,1963,0],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a0778846d7d67f5d29ed3f7ef02f912f4":[7,0,1963,0,1],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1963,0,9],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a19a5190b72f78ee698d5fa2df6ac9b4b":[7,0,1963,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d2/df6/DBCStores_8h.html#aa53bca705fed162d9629e396b82f6bd1":[8,0,0,0,1,2,14,1,38],
 "d2/df6/DBCStores_8h.html#aa57995df6e9ddb569da6512bc452116f":[8,0,0,0,1,2,14,1,112],
 "d2/df6/DBCStores_8h.html#aa57f88af7117354b1e77be893e3471b5":[8,0,0,0,1,2,14,1,62],
-"d2/df6/DBCStores_8h.html#aa89da0f3bfcec6a8e8d8f702fd23ed39":[8,0,0,0,1,2,14,1,3],
-"d2/df6/DBCStores_8h.html#aa932907ab61c7d6f73178284e9ce2748":[8,0,0,0,1,2,14,1,50]
+"d2/df6/DBCStores_8h.html#aa89da0f3bfcec6a8e8d8f702fd23ed39":[8,0,0,0,1,2,14,1,3]
 };

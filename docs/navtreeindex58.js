@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d2/d45/classOutdoorPvPScript.html#ac22c6a9945738270452848f997d2818f":[7,0,2388,2],
 "d2/d45/classspell__illidari__council__empyreal__balance.html":[7,0,3335],
 "d2/d45/classspell__illidari__council__empyreal__balance.html#a253f9b428351519cbd4ee5c2341ea0c4":[7,0,3335,4],
 "d2/d45/classspell__illidari__council__empyreal__balance.html#a301008eff6b13a43070b3916925391ae":[7,0,3335,2],
@@ -178,8 +179,8 @@ var NAVTREEINDEX58 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[7,0,1063,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[7,0,1063,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[7,0,1063,6],
-"d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
+"d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
 "d2/d4a/classinstance__zulaman.html":[7,0,1393],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[7,0,1393,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[7,0,1393,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a0c82939c5e7d3788115636192c8193a8":[7,0,2430,579],
 "d2/d4b/classPlayer.html#a0cb45f8c742f6455c5fa34fdecdc6d0d":[7,0,2430,1297],
 "d2/d4b/classPlayer.html#a0cfca07e927178d20339bb8b36f318ba":[7,0,2430,8],
-"d2/d4b/classPlayer.html#a0d45904c854c2ac11a5f21a578c6ad00":[7,0,2430,1210],
-"d2/d4b/classPlayer.html#a0d99907a41953dfe2e4589a785503fc1":[7,0,2430,734]
+"d2/d4b/classPlayer.html#a0d45904c854c2ac11a5f21a578c6ad00":[7,0,2430,1210]
 };

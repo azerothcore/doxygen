@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d4f/BattlefieldWG_8h.html#afa91bfae2586fced971723e0554a6ffb":[8,0,0,0,1,2,7,0,1,49],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[7,0,3233],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3233,0],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3233,1],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3233,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d59/classAutobroadcastMgr.html#a75e5b978794a7010c8d9d3390d8690f9":[7,0,314,1],
 "d6/d59/classAutobroadcastMgr.html#a8be8fd36f843ffd435989c99ce0f9229":[7,0,314,7],
 "d6/d59/classAutobroadcastMgr.html#a9064ad588e8a02d9b60974af4da1c7cf":[7,0,314,0],
-"d6/d59/classAutobroadcastMgr.html#aadbd8ca926a64be4fbbe832fd633ee88":[7,0,314,10],
-"d6/d59/classAutobroadcastMgr.html#ace584bb6b66c8944e1405ec0af686d3a":[7,0,314,6],
-"d6/d59/classAutobroadcastMgr.html#aead196df7f590d43c89f179ca0bd4a68":[7,0,314,2]
+"d6/d59/classAutobroadcastMgr.html#aadbd8ca926a64be4fbbe832fd633ee88":[7,0,314,10]
 };

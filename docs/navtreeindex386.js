@@ -1,5 +1,7 @@
 var NAVTREEINDEX386 =
 {
+"de/d6a/classNotInStomachSelector.html#a189c90e585ecef8ffbcbe9227c588946":[7,0,1610,1],
+"de/d6a/classNotInStomachSelector.html#a766a75e73261ac8bb76c90e8befd21ad":[7,0,1610,0],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html":[7,0,2016,0],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a2994e5658035bb2cfe6f3cdab4c507fc":[7,0,2016,0,0],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a490bf07de00cc5c59b5f0024317d8125":[7,0,2016,0,2],
@@ -7,8 +9,8 @@ var NAVTREEINDEX386 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[7,0,2016,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[7,0,2016,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[7,0,2016,0,5],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html":[7,0,13,7,7],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html":[5,0,34,7,7],
+"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html":[7,0,13,7,7],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a1952e2d54b77437731b693f4eace83ac":[7,0,13,7,7,2],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a1952e2d54b77437731b693f4eace83ac":[5,0,34,7,7,2],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a3da812593b22ef506a9d61e16b5485d1":[7,0,13,7,7,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed":[5,0,17,55,4],
 "de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c":[5,0,17,55,2],
 "de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca":[5,0,17,55,0],
-"de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246":[5,0,17,55,1],
-"de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2":[5,0,17,55,3],
-"de/d72/namespacelfg.html#ad2856c4b4e624c3f15d89ccae35370c9":[5,0,17,32]
+"de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246":[5,0,17,55,1]
 };

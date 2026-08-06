@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,4,1,2,0,3],
+"d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,1,2,0,3,3],
 "d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,2,0,3,2],
 "d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,4,1,2,0,3,1],
 "d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbabde0ca14c874b2c3317dd55732863028":[8,0,0,0,1,3,4,1,2,0,3,0],
@@ -36,19 +38,19 @@ var NAVTREEINDEX206 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[7,0,300,2,0],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[7,0,300,2,1],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,300,2,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[7,0,13,14,8,0],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[5,0,34,14,8,0],
 "d7/d9e/classboss__drakkari__colossus.html":[7,0,446],
 "d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[7,0,446,2],
 "d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[7,0,446,1],
-"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
+"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa223c0f261c05fa263b0ca362298f7b8a":[8,0,0,0,1,2,28,2,0,354],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa2262a01cd26f344f75c733f5d32e689d":[8,0,0,0,1,2,28,2,0,135],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa229b4b99cf47a371d3633cc3f21800df":[8,0,0,0,1,2,28,2,0,3],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa22cd5243b77a38ed3c6386d7d74665cb":[8,0,0,0,1,2,28,2,0,45],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa22f460a9a313ff5ac4103d756fb21c78":[8,0,0,0,1,2,28,2,0,51],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa23131f6dee66c795b1b674bdd45a43f5":[8,0,0,0,1,2,28,2,0,426]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa22cd5243b77a38ed3c6386d7d74665cb":[8,0,0,0,1,2,28,2,0,45]
 };

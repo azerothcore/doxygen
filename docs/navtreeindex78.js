@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"d2/de9/classSpellInfo.html#a9bb4dbc14542a058814e1024186a87a4":[7,0,4458,117],
 "d2/de9/classSpellInfo.html#aa006aa12bf45b271115fe1c6b03177e1":[7,0,4458,193],
 "d2/de9/classSpellInfo.html#aa068893ef3d4d1905d2bca2e2990bd14":[7,0,4458,17],
 "d2/de9/classSpellInfo.html#aa2eabd23552c5904652236e468bcdecf":[7,0,4458,93],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,0,3,1,3,4],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba13e3c4fbf4ffac2b5a7fc5c14d049293":[8,0,0,0,1,3,7,0,3,1,3,3],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,3,1,3,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,3,1,3,2],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,3,1,3,0]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,3,1,3,2]
 };

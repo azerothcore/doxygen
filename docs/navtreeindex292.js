@@ -1,5 +1,7 @@
 var NAVTREEINDEX292 =
 {
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca0990e77dc4c2e45052288cf86c835736":[8,0,0,0,1,3,4,8,4,10,9],
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b42550e7426e596947b6cdb746c85d8":[8,0,0,0,1,3,4,8,4,10,0],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca3715553b8462d0361c06b8ba180f81f4":[8,0,0,0,1,3,4,8,4,10,11],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6450643edf8ddc355d8caf5603eb3cf5":[8,0,0,0,1,3,4,8,4,10,3],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a45310b58847615860efd30b51df72b":[8,0,0,0,1,3,4,8,4,10,6],
@@ -125,8 +127,8 @@ var NAVTREEINDEX292 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[8,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX292 =
 "db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a272067bef6dbab24024f7de990c10b64":[7,0,2009,0,2],
 "db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a4cc0dbd4aa2366115348bc1db273a5e2":[7,0,2009,0,0],
 "db/d56/IntegrationTestFixture_8h.html":[8,0,0,0,2,1,3],
-"db/d56/IntegrationTestFixture_8h.html#a2ba0fc21bd7fc2eb0be55b83f098c883":[8,0,0,0,2,1,3,1],
-"db/d56/IntegrationTestFixture_8h.html#af72a10157e381ef81a175a8ac4844d73":[8,0,0,0,2,1,3,2],
-"db/d56/classnpc__rabid__thistle__bear.html":[7,0,2113]
+"db/d56/IntegrationTestFixture_8h.html#a2ba0fc21bd7fc2eb0be55b83f098c883":[8,0,0,0,2,1,3,1]
 };

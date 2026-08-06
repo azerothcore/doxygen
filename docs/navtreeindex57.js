@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#ad9b4c5bfe589f9f6b1ea405752347585":[8,0,0,0,1,3,5,14,151],
 "d2/d38/northrend__script__loader_8cpp.html#ada8b6081df07a02725323b1c08577108":[8,0,0,0,1,3,5,14,77],
 "d2/d38/northrend__script__loader_8cpp.html#ae05057811020071be5480076d0ffe62b":[8,0,0,0,1,3,5,14,54],
 "d2/d38/northrend__script__loader_8cpp.html#ae344295d2e46a26142cddea95f183f6d":[8,0,0,0,1,3,5,14,103],
@@ -23,8 +24,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2241,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2241,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,987,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classboss__varos.html":[7,0,776],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,776,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,776,1],
@@ -148,8 +149,8 @@ var NAVTREEINDEX57 =
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[7,0,133,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[7,0,133,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[7,0,133,5],
-"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,133,7],
 "d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,133,8],
+"d2/d3f/classActivePoolData.html#a3eaf8cdcdea5103a6f8d414a11b485d0":[7,0,133,7],
 "d2/d3f/classActivePoolData.html#a8979fda780644f1e678b6569bc7ca6eb":[7,0,133,15],
 "d2/d3f/classActivePoolData.html#a904a2e30dd2c90c42efbd111fadb939b":[7,0,133,11],
 "d2/d3f/classActivePoolData.html#a9873ca821d26606ee06011a02bf3e1f8":[7,0,133,18],
@@ -157,8 +158,8 @@ var NAVTREEINDEX57 =
 "d2/d3f/classActivePoolData.html#ab64e67ec373ca97edab12662190e36c5":[7,0,133,20],
 "d2/d3f/classActivePoolData.html#ac06d473e60ddb91e027dabbd64d64961":[7,0,133,4],
 "d2/d3f/classActivePoolData.html#ac23fc621fc12c77718d5a1b9b9d928c4":[7,0,133,2],
-"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[7,0,133,12],
 "d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[7,0,133,13],
+"d2/d3f/classActivePoolData.html#ad305bcc1094ba640c2e961f2f56530b6":[7,0,133,12],
 "d2/d3f/classActivePoolData.html#ae4e61f0da2ed8848c3afced7af36e761":[7,0,133,19],
 "d2/d3f/classActivePoolData.html#ae5973d0bb86a4477a3471579c5697d51":[7,0,133,6],
 "d2/d3f/classActivePoolData.html#ae6cf482063504094ce47271cf8097001":[7,0,133,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html#af26c0361e6b7e480f59563d8630d6736":[7,0,2705,3],
 "d2/d45/classOutdoorPvPScript.html":[7,0,2388],
 "d2/d45/classOutdoorPvPScript.html#a1dfe19b5cc4e1eb2ad02ad8773aff290":[7,0,2388,0],
-"d2/d45/classOutdoorPvPScript.html#aa213974f384c88ab65f7b7308dadb026":[7,0,2388,1],
-"d2/d45/classOutdoorPvPScript.html#ac22c6a9945738270452848f997d2818f":[7,0,2388,2]
+"d2/d45/classOutdoorPvPScript.html#aa213974f384c88ab65f7b7308dadb026":[7,0,2388,1]
 };

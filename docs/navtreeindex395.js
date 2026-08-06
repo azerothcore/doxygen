@@ -1,5 +1,8 @@
 var NAVTREEINDEX395 =
 {
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a3c2e42f2da7b4f256d291998e86b61fb":[8,0,0,0,1,3,7,4,3,5,3,3],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a48cd245ca33338ebeffd89b1ff82e494":[8,0,0,0,1,3,7,4,3,5,3,2],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a59e0bcfcc3952275c85e15b9812b1584":[8,0,0,0,1,3,7,4,3,5,3,1],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a62d91e26ea20366580c9ab9f8be2781d":[8,0,0,0,1,3,7,4,3,5,3,8],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e":[8,0,0,0,1,3,7,4,3,5,3,12],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a8ba24c0631934a42c70fd4ed5ba69da8":[8,0,0,0,1,3,7,4,3,5,3,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX395 =
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html":[7,0,1459],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[7,0,1459,0],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#aeaa47302a91b5882afae3950ffc460cc":[7,0,1459,1],
-"de/dbf/structboss__maiden__of__virtue.html":[7,0,624],
-"de/dbf/structboss__maiden__of__virtue.html#a32dd66a297d11f5ffac1841bae15727a":[7,0,624,3],
-"de/dbf/structboss__maiden__of__virtue.html#a4cd0c7a566e23e5c3a43466214f35dd3":[7,0,624,0],
-"de/dbf/structboss__maiden__of__virtue.html#a6eded246318f6b47b46f45168e4a8069":[7,0,624,1]
+"de/dbf/structboss__maiden__of__virtue.html":[7,0,624]
 };

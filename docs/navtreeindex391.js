@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/da1/classspell__dru__t10__restoration__4p__bonus.html#a9abf4baaba572636dba3980e5ae777c5":[7,0,2930,0],
+"de/da1/classspell__mage__summon__water__elemental.html":[7,0,3634],
+"de/da1/classspell__mage__summon__water__elemental.html#a349e674aa5e07f59dc0a0d78a25aa0cd":[7,0,3634,2],
 "de/da1/classspell__mage__summon__water__elemental.html#a9440e067db7bc5c48c973dfd61f1a95e":[7,0,3634,1],
 "de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[7,0,3634,0],
 "de/da1/instance__magisters__terrace_8cpp.html":[8,0,0,0,1,3,2,5,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c7295e2064c07f435c2743037c37e7b":[8,0,0,0,1,1,0,0,1,1,107],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c742fa4d396849296ce95360a7ea0dc":[8,0,0,0,1,1,0,0,1,1,347],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c9403d39057bc4235278637f4535595":[8,0,0,0,1,1,0,0,1,1,160],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[8,0,0,0,1,1,0,0,1,1,473],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6d8e811c7e58ddcd2e45c5805d5bad44":[8,0,0,0,1,1,0,0,1,1,55],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6dbfe303ba7e06723b161f79795033f1":[8,0,0,0,1,1,0,0,1,1,327],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6e6fd079d997391e6ee9b25acb9a16d7":[8,0,0,0,1,1,0,0,1,1,454]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[8,0,0,0,1,1,0,0,1,1,473]
 };

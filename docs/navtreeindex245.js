@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/d46/structboss__baron__geddon.html#af81a1ef4345e55f3d537baeb0e9528f4":[7,0,412,2],
+"d9/d47/CharmInfo_8cpp.html":[8,0,0,0,1,2,16,10,0],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html":[7,0,2228,0],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a293d5fca2940432c4eea57c5de5a1fdc":[7,0,2228,0,3],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a54dee5d9b0f17bad21e8c1e275f0b222":[7,0,2228,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d56/structboss__ambassador__flamelash.html#a4585ec9b91b506fd78f344c1e8e83697":[7,0,391,2],
 "d9/d56/structboss__ambassador__flamelash.html#a4eec2a22080fb99671d4596a131957b1":[7,0,391,0],
 "d9/d56/structboss__ambassador__flamelash.html#a891ab6cb21b16f9a6bd08934bbe7257d":[7,0,391,8],
-"d9/d56/structboss__ambassador__flamelash.html#aa6e66bf78c714fad816e654ed37801e5":[7,0,391,5],
-"d9/d56/structboss__ambassador__flamelash.html#ac6c1674f7e6b5c9f2f4be052cdf509a1":[7,0,391,9],
-"d9/d56/structboss__ambassador__flamelash.html#ae34494448f93104750da92ff20730dc1":[7,0,391,1]
+"d9/d56/structboss__ambassador__flamelash.html#aa6e66bf78c714fad816e654ed37801e5":[7,0,391,5]
 };

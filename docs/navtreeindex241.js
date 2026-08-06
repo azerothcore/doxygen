@@ -1,11 +1,13 @@
 var NAVTREEINDEX241 =
 {
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,0,7,8,3],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[7,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,0,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[7,0,0,4,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[7,0,0,4,8,1],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,0,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[7,0,0,4,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,0,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[7,0,0,4,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,0,7,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[7,0,1269],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d03/structModelHeader.html#aa46258c76d1feea425da41be3cefb5da":[7,0,1562,61],
 "d9/d03/structModelHeader.html#aa7b9356ead53f64a1482c064369830d1":[7,0,1562,31],
 "d9/d03/structModelHeader.html#ab1539ff81b1b91ae400dbb5ca0630646":[7,0,1562,4],
-"d9/d03/structModelHeader.html#ab2ffe7bcb4d11558afc67da61ab1ab5f":[7,0,1562,30],
-"d9/d03/structModelHeader.html#ac1df2d7ce113d69d4f8c76132e285bb6":[7,0,1562,8],
-"d9/d03/structModelHeader.html#ac73b599d0e7b6a2bfddda1f98a8e9893":[7,0,1562,17]
+"d9/d03/structModelHeader.html#ab2ffe7bcb4d11558afc67da61ab1ab5f":[7,0,1562,30]
 };

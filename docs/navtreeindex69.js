@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d73/classScriptMgr.html#ac161802a226b7680d8bc8d5eed2faebc":[7,0,2568,268],
 "d2/d73/classScriptMgr.html#ac29a616feff173f4f5e831f9c999e804":[7,0,2568,63],
 "d2/d73/classScriptMgr.html#ac36cfa1025286bd3d9d7ca720e922743":[7,0,2568,229],
 "d2/d73/classScriptMgr.html#ac4740875e6cd686e95fda241a7ba3cf5":[7,0,2568,325],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d7d/classGroupReference.html#ac913ec0703c28cda068375d01c9cd72d":[7,0,1264,4],
 "d2/d7d/classspell__winter__veil__mistletoe.html":[7,0,4387],
 "d2/d7d/classspell__winter__veil__mistletoe.html#a05059d25127cd8d3aa51e4374963f9d9":[7,0,4387,1],
-"d2/d7d/classspell__winter__veil__mistletoe.html#aa1e74de390a8b71e43e43664981a36ff":[7,0,4387,3],
-"d2/d7d/classspell__winter__veil__mistletoe.html#aabe7d4213bbafdb6d072ba50bcfd1793":[7,0,4387,2]
+"d2/d7d/classspell__winter__veil__mistletoe.html#aa1e74de390a8b71e43e43664981a36ff":[7,0,4387,3]
 };

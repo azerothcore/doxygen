@@ -1,10 +1,11 @@
 var NAVTREEINDEX95 =
 {
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,0,51,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[7,0,0,39,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,0,51,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[7,0,0,39,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[7,0,0,39,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,0,51,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[7,0,0,39,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,0,51,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[7,0,0,39,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[7,0,2967],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d24/structBattlegroundABScore.html#a450504481d335230b3e035d4337694be":[7,0,333,7],
 "d3/d24/structBattlegroundABScore.html#a86ac6e9b19eaa7ed257f25f9f73c22cf":[7,0,333,1],
 "d3/d24/structBattlegroundABScore.html#a8ac00679dd8dfeef81f159b7a2b22027":[7,0,333,3],
-"d3/d24/structBattlegroundABScore.html#ad5365fcb2edd84180065badd1572ba8e":[7,0,333,5],
-"d3/d24/structBattlegroundABScore.html#ae219ecb551c89ad5a5cb22f1996a598b":[7,0,333,0]
+"d3/d24/structBattlegroundABScore.html#ad5365fcb2edd84180065badd1572ba8e":[7,0,333,5]
 };

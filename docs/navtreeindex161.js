@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3004d23e6eaa3f2ef5942e96e0c17308":[7,0,586,0,11],
+"d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3a21a45072144b6f0421733466770267":[7,0,586,0,10],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a3fa1e67bf942824cd40c5591f4e63a08":[7,0,586,0,0],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a440b758486cd95b7884fe2ce9bdfb28f":[7,0,586,0,6],
 "d5/db3/structboss__kelthuzad_1_1boss__kelthuzadAI.html#a49066a2fa1dc424a27262706c8af046a":[7,0,586,0,2],
@@ -84,8 +86,8 @@ var NAVTREEINDEX161 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4675,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dbc/namespaceDoodad.html#aaece844099afc9d83362feb37427d5ae":[5,0,11,0],
 "d5/dbc/namespaceDoodad.html#afd641f15b5ca6e58b68f26ef17a02912":[5,0,11,1],
 "d5/dbc/structnpc__hadronox__crusherPackAI.html":[7,0,1872],
-"d5/dbc/structnpc__hadronox__crusherPackAI.html#a050359a9f4a7556c6793337d7f654543":[7,0,1872,11],
-"d5/dbc/structnpc__hadronox__crusherPackAI.html#a0c84d3d559791416cdbc316cc3e8edfc":[7,0,1872,9],
-"d5/dbc/structnpc__hadronox__crusherPackAI.html#a1801b218fe0ad79b8e8710f2ffd177ad":[7,0,1872,6]
+"d5/dbc/structnpc__hadronox__crusherPackAI.html#a050359a9f4a7556c6793337d7f654543":[7,0,1872,11]
 };

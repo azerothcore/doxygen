@@ -1,5 +1,9 @@
 var NAVTREEINDEX426 =
 {
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[7,0,4167,2],
+"df/df0/structboss__tavarok.html":[7,0,737],
+"df/df0/structboss__tavarok.html#a0bea2cc724d92616056b7c5ca2dd03c1":[7,0,737,4],
+"df/df0/structboss__tavarok.html#a2c99df9457c548ee562fde920592ea88":[7,0,737,3],
 "df/df0/structboss__tavarok.html#a64cae2439cd6e4334ced5d4ef01ef942":[7,0,737,2],
 "df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[7,0,737,1],
 "df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[7,0,737,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX426 =
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[7,0,1900,3],
 "df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[7,0,1900,1],
 "df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[7,0,1900,4],
-"df/dfa/structnpc__hover__disk.html#ab7e712a9d5aec7c3112796316a7fe534":[7,0,1900,5],
-"df/dfa/structnpc__hover__disk.html#add98702312084df553e24bcd4b632bb3":[7,0,1900,6],
-"df/dfa/structnpc__hover__disk.html#ae4141e5aed3cfdbf8d76ad55ce4463d9":[7,0,1900,2],
-"df/dfa/structnpc__hover__disk.html#af6f8ef0df4b64540f99adebdd709b00e":[7,0,1900,0],
-"df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,25]
+"df/dfa/structnpc__hover__disk.html#ab7e712a9d5aec7c3112796316a7fe534":[7,0,1900,5]
 };

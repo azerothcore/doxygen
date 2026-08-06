@@ -1,5 +1,7 @@
 var NAVTREEINDEX314 =
 {
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954":[8,0,0,0,1,3,7,2,3,3,5],
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0":[8,0,0,0,1,3,7,2,3,3,5,8],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de":[8,0,0,0,1,3,7,2,3,3,5,7],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5":[8,0,0,0,1,3,7,2,3,3,5,6],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2":[8,0,0,0,1,3,7,2,3,3,5,9],
@@ -144,14 +146,14 @@ var NAVTREEINDEX314 =
 "db/df8/classAuraRemoveEvent.html#a14ac906a0fcff86f61983c570b0bd6ad":[7,0,299,1],
 "db/df8/classAuraRemoveEvent.html#a6fad41839e07e9545859be7c3afcfc36":[7,0,299,2],
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[7,0,299,3],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[7,0,13,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[7,0,13,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[7,0,13,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[7,0,13,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
 "db/df8/classpool__commandscript.html":[7,0,2458],
 "db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[7,0,2458,3],
 "db/df8/classpool__commandscript.html#a41308abbe25e1e50325923f62f2fa3af":[7,0,2458,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX314 =
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea2d9af9b440777be0003d10d23ed0d28e":[8,0,0,0,1,3,9,8,100,0],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea38daf73a2a6cc98a2e2505dedf8cc18c":[8,0,0,0,1,3,9,8,100,8],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea5d7269a03590d2b1dce1768ee3b1a982":[8,0,0,0,1,3,9,8,100,4],
-"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea70c2d25b528ea0962167f2f584c7302f":[8,0,0,0,1,3,9,8,100,3],
-"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea8a31a73da3e320aef306c1f0535b6203":[8,0,0,0,1,3,9,8,100,6],
-"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eab613d462dc40bcf09e00adb9dc80ffb3":[8,0,0,0,1,3,9,8,100,9]
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea70c2d25b528ea0962167f2f584c7302f":[8,0,0,0,1,3,9,8,100,3]
 };

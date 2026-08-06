@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ae12f4176e49438cfa248345cfe7c9947":[5,0,0,43,3],
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ae12f4176e49438cfa248345cfe7c9947":[7,0,0,31,3],
 "d5/d2a/classspell__valanar__kinetic__bomb.html":[7,0,4279],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a2c3d69419762c7f78688a22017a8c535":[7,0,4279,0],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a97c48254a0d7a0bd4bcf40f614bc5373":[7,0,4279,1],
@@ -184,16 +186,16 @@ var NAVTREEINDEX148 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[7,0,1139,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[7,0,1139,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[7,0,1139,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[7,0,0,92],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[7,0,0,92,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,104,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[7,0,0,92,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[7,0,0,92,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[7,0,3423],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[7,0,3423,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3423,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d37/classMailMgr.html#a6786cc5036259c23256b669da1146012":[7,0,1508,2],
 "d5/d37/classMailMgr.html#a699bf593d7f00470878504141e7fe3df":[7,0,1508,3],
 "d5/d37/classMailMgr.html#ab4ef5f6ca91286c732b257f267b06f14":[7,0,1508,7],
-"d5/d37/classMailMgr.html#abe24c4d840d5f2b05958a44cd63b8b35":[7,0,1508,1],
-"d5/d37/classMailMgr.html#ac355df32c38e8619cf18cee283894c64":[7,0,1508,4],
-"d5/d37/classMailMgr.html#ad22a9a0cf09a5dc7acaf14dfdd0bcdbf":[7,0,1508,5]
+"d5/d37/classMailMgr.html#abe24c4d840d5f2b05958a44cd63b8b35":[7,0,1508,1]
 };

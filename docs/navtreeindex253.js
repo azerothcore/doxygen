@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a27c4858d5972471ef91a269c11fc0494":[7,0,1364,0,4],
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a3542b2f1f54fc25720bba1b4f2d12e5f":[7,0,1364,0,7],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a52144a0152a2ea00066c0d24bdee0b74":[7,0,1364,0,11],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a52256dd98ae786bfe9bfc86ce036a060":[7,0,1364,0,9],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a5e28d815149507f4bc6a30e42d4034a4":[7,0,1364,0,16],
@@ -136,14 +138,14 @@ var NAVTREEINDEX253 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3018,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
 "d9/d9a/structboss__thorim__sif__blizzard.html":[7,0,759],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a019b50cc265dff0e92417482b85ccf64":[7,0,759,3],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,759,7],
@@ -162,8 +164,8 @@ var NAVTREEINDEX253 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8":[8,0,0,0,1,3,2,32,4],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798":[8,0,0,0,1,3,2,32,4,0],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[8,0,0,0,1,3,2,32,5],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[7,0,13,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,34,6,46],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[7,0,13,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[7,0,13,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,34,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html":[7,0,2239,0],
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#a31665a22920b416d7423958a3e2928ec":[7,0,2239,0,3],
 "d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#a83422ff3e140b57a484d98876a9a8070":[7,0,2239,0,1],
-"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#af13a18be542fb314c19af52f89d216b8":[7,0,2239,0,0],
-"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#afc23ba15d3ee925212e77b5211504c2b":[7,0,2239,0,2],
-"d9/da2/classspell__direbrew__summon__mole__machine__target__picker.html":[7,0,2798]
+"d9/da1/structnpc__toc__shadow__priest_1_1npc__toc__shadow__priestAI.html#af13a18be542fb314c19af52f89d216b8":[7,0,2239,0,0]
 };

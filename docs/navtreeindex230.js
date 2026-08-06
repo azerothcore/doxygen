@@ -1,5 +1,7 @@
 var NAVTREEINDEX230 =
 {
+"d8/d74/classWorldSession.html#ad2d4732a541b5738b20932e0d433c32d":[4,1,19,578],
+"d8/d74/classWorldSession.html#ad3c5d78007045cdf28b0ced568a403e1":[4,1,19,249],
 "d8/d74/classWorldSession.html#ad4cee24fef34032f1766fa0aaae9546e":[4,1,19,421],
 "d8/d74/classWorldSession.html#ad4e868baecdad6382b09e6bae18bc21d":[4,1,19,252],
 "d8/d74/classWorldSession.html#ad56282739321f3725c64b761316a9b03":[4,1,19,294],
@@ -171,8 +173,8 @@ var NAVTREEINDEX230 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,995,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,995,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html":[7,0,3475],
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a5f9e9d07879705917e1cd261808f0a8f":[7,0,3475,2],
 "d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a645e869079e711a87f1a957b42a35e98":[7,0,3475,0],
-"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a74cb62725d939000a1c4ab32b4f4335f":[7,0,3475,4],
-"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#ac86068a892255e38244c487a7456cd9f":[7,0,3475,3],
-"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b":[7,0,3475,1]
+"d8/d7d/classspell__item__shadowmourne__soul__fragment.html#a74cb62725d939000a1c4ab32b4f4335f":[7,0,3475,4]
 };

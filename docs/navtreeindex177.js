@@ -1,5 +1,7 @@
 var NAVTREEINDEX177 =
 {
+"d6/d39/classWorld.html#ab8a4dc27659673c4a45f280c35de9a00":[4,2,11,76],
+"d6/d39/classWorld.html#acb693bb895fc43a2317368ba607b32f4":[4,2,11,50],
 "d6/d39/classWorld.html#acbf5c62d62a3ef0e07f1e0a8074a210b":[4,2,11,37],
 "d6/d39/classWorld.html#acd831fed79e51f365e7b3015d18cef15":[4,2,11,88],
 "d6/d39/classWorld.html#ad3fdd0a6d0589e99a8b4cf2ce5cecf2d":[4,2,11,84],
@@ -179,12 +181,12 @@ var NAVTREEINDEX177 =
 "d6/d41/structboss__veknilash.html#ace8de3d9a397d0571da1f5bdd2ba84d5":[7,0,780,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[7,0,3,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,13,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[7,0,3,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,13,0,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[7,0,3,0,1],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[7,0,3,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,13,0,1],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,13,0,2],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[7,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[7,0,3,0,2],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,13,0,2],
 "d6/d46/classspell__sha__heroism.html":[7,0,4092],
 "d6/d46/classspell__sha__heroism.html#a1374c764b20b95febbca44c593bde218":[7,0,4092,3],
 "d6/d46/classspell__sha__heroism.html#a2eb14ea281b41b08acd4514c01aa938f":[7,0,4092,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d49/GroupHandler_8cpp.html":[8,0,0,0,1,2,22,13],
 "d6/d4b/classspell__electrical__storm__proc.html":[7,0,2949],
 "d6/d4b/classspell__electrical__storm__proc.html#a03b8e21e58988d9fc774205263c0817f":[7,0,2949,2],
-"d6/d4b/classspell__electrical__storm__proc.html#aa28bc0b1824d3d0825135fcd88057dfe":[7,0,2949,1],
-"d6/d4b/classspell__electrical__storm__proc.html#aeba1ceddd5b6fcd951e6ac789b50c5a5":[7,0,2949,3],
-"d6/d4b/classspell__electrical__storm__proc.html#aebe9055301495dd3a21736b9a2a35f31":[7,0,2949,0]
+"d6/d4b/classspell__electrical__storm__proc.html#aa28bc0b1824d3d0825135fcd88057dfe":[7,0,2949,1]
 };

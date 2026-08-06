@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"da/d08/classSQLOperation.html#aff1090554bc4a6fe7a33270e63416e19":[7,0,4509,4],
+"da/d09/VoiceChatHandler_8cpp.html":[8,0,0,0,1,2,22,35],
 "da/d0a/boss__baron__geddon_8cpp.html":[8,0,0,0,1,3,2,1,3,0],
 "da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,2,1,3,0,3],
 "da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa5163e38d154f523096097f5146ea2fed":[8,0,0,0,1,3,2,1,3,0,3,0],
@@ -188,8 +190,8 @@ var NAVTREEINDEX263 =
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[7,0,0,42,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,54,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[7,0,0,42,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[7,0,0,42,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,0,54,4],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[7,0,0,42,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,0,54,2],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[7,0,0,42,2],
 "da/d17/classat__naxxramas__hub__portal.html":[7,0,245],
@@ -247,7 +249,5 @@ var NAVTREEINDEX263 =
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca85f3fb4a4a321b0ba3ef645af803ce5c":[8,0,0,0,1,3,4,19,13,14],
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca86dbc2a0fe1ca73f9856d2a034e64bd9":[8,0,0,0,1,3,4,19,13,9],
 "da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca88e2b02c6ac4596782b9347d8107ffdb":[8,0,0,0,1,3,4,19,13,15],
-"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca892b72bdde0d826b340d523efc0b0dd2":[8,0,0,0,1,3,4,19,13,12],
-"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c89a941ed29e7a1f846c59f5dfe2812":[8,0,0,0,1,3,4,19,13,7],
-"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca9600ba054090842fb496f7bd44915360":[8,0,0,0,1,3,4,19,13,16]
+"da/d1d/zone__durotar_8cpp.html#a5bd342133be8c2137b831460acc9298ca892b72bdde0d826b340d523efc0b0dd2":[8,0,0,0,1,3,4,19,13,12]
 };

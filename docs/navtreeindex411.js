@@ -1,5 +1,8 @@
 var NAVTREEINDEX411 =
 {
+"df/d76/UpdateFetcher_8h.html":[8,0,0,0,1,1,3,3],
+"df/d76/structnpc__rookery__hatcher.html":[7,0,2138],
+"df/d76/structnpc__rookery__hatcher.html#a011cf0384a7bf6dd502a767d6667140a":[7,0,2138,3],
 "df/d76/structnpc__rookery__hatcher.html#a4fd5ed979e2c3d600e89e4592b7da98c":[7,0,2138,5],
 "df/d76/structnpc__rookery__hatcher.html#a58d6bb3ba8d39c0e92d30f4c124e3734":[7,0,2138,1],
 "df/d76/structnpc__rookery__hatcher.html#a9d2e256f8df44254cc0301fe2b1fa628":[7,0,2138,2],
@@ -28,8 +31,8 @@ var NAVTREEINDEX411 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2871,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2871,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2871,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
+"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2827],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2827,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2827,1],
@@ -220,8 +223,8 @@ var NAVTREEINDEX411 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[7,0,445,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[7,0,445,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,445,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX411 =
 "df/d86/npc__innkeeper_8cpp.html#a6bb09725b9e6b10b76686a9059038e6b":[8,0,0,0,1,3,10,9,3],
 "df/d86/npc__innkeeper_8cpp.html#ad2b2ba30383cca3be221f38a809e2da1":[8,0,0,0,1,3,10,9,6],
 "df/d86/structboss__twilight__corrupter.html":[7,0,766],
-"df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[7,0,766,7],
-"df/d86/structboss__twilight__corrupter.html#a27720f58056206c09bce41ae50018a83":[7,0,766,5],
-"df/d86/structboss__twilight__corrupter.html#a580fbaa55a5c0193c1ef2c6b281d8d9e":[7,0,766,6],
-"df/d86/structboss__twilight__corrupter.html#a637cdd43f2f9a4f773b4b8e8f3c88730":[7,0,766,4]
+"df/d86/structboss__twilight__corrupter.html#a1924750c9d41ed588a29aace3c40742d":[7,0,766,7]
 };

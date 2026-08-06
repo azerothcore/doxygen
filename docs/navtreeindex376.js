@@ -1,5 +1,7 @@
 var NAVTREEINDEX376 =
 {
+"de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884ae0082f0181132245fbaa008261def271":[8,0,0,0,1,4,7,86,11],
+"de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884aea6c07e7e38ca952fcb0ed0cf1000ae1":[8,0,0,0,1,4,7,86,0],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884aef45f9e84fd5f65792e0d9bf3ce08479":[8,0,0,0,1,4,7,86,4],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884af8fdf599d0dbc104d9974037ade00c5a":[8,0,0,0,1,4,7,86,1],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884af98bc2c2cd734383309397c2954d813e":[8,0,0,0,1,4,7,86,21],
@@ -94,12 +96,12 @@ var NAVTREEINDEX376 =
 "de/d0f/structnpc__anubisath__guardian.html#af87cc86141964c48f9c57ed5bade36a5":[7,0,1644,4],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html":[5,0,34,14,10],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html":[7,0,13,14,10],
-"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[7,0,13,14,10,2],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[5,0,34,14,10,2],
+"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[7,0,13,14,10,2],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[5,0,34,14,10,0],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[7,0,13,14,10,0],
-"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[7,0,13,14,10,1],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[5,0,34,14,10,1],
+"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[7,0,13,14,10,1],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#af80f4138f3689721f44059a9250246f0":[5,0,34,14,10,3],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#af80f4138f3689721f44059a9250246f0":[7,0,13,14,10,3],
 "de/d11/classnpc__centrifuge__construct.html":[7,0,1722],
@@ -247,7 +249,5 @@ var NAVTREEINDEX376 =
 "de/d19/namespaceMMAP.html#a6ddcf7a168396ad1ecedfc4e5fe04c09":[5,0,20,15],
 "de/d19/namespaceMMAP.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b":[5,0,20,15,0],
 "de/d19/namespaceMMAP.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289":[5,0,20,15,1],
-"de/d19/namespaceMMAP.html#a7eb8c24e8759cfd1ebd37b1efc72618b":[5,0,20,38],
-"de/d19/namespaceMMAP.html#a8c5ddef856ef804076860bb176c6d9e1":[5,0,20,28],
-"de/d19/namespaceMMAP.html#a94a0ee7c4f225dfc488737a7ba825bae":[5,0,20,36]
+"de/d19/namespaceMMAP.html#a7eb8c24e8759cfd1ebd37b1efc72618b":[5,0,20,38]
 };

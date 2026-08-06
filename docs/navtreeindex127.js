@@ -1,5 +1,7 @@
 var NAVTREEINDEX127 =
 {
+"d4/d3e/classBattlegroundSA.html#ada0cb515fadd9383d0a6f595c971b306":[7,0,354,15],
+"d4/d3e/classBattlegroundSA.html#adf8aace66db055efed5e9f4b3e83487d":[7,0,354,23],
 "d4/d3e/classBattlegroundSA.html#aed699a776840e6b940108321ba544fee":[7,0,354,31],
 "d4/d3e/classBattlegroundSA.html#aee36aa1f5725287cab919507895b74a7":[7,0,354,4],
 "d4/d3e/classBattlegroundSA.html#af06acbefa6ef6a7f660d948554d114c0":[7,0,354,27],
@@ -65,8 +67,8 @@ var NAVTREEINDEX127 =
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,34,6,8,2],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,34,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[7,0,13,6,8,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d52/classspell__dk__mark__of__blood.html#a9aa6b540ab7061d48290eb2a49113adf":[7,0,2838,1],
 "d4/d52/classspell__item__eye__of__grillok__aura.html":[7,0,3395],
 "d4/d52/classspell__item__eye__of__grillok__aura.html#a3fd2da3d7b1b8a78916515b7e3e188cf":[7,0,3395,1],
-"d4/d52/classspell__item__eye__of__grillok__aura.html#a62e5ab81f9548e4d983d0c4dde14eaad":[7,0,3395,2],
-"d4/d52/classspell__item__eye__of__grillok__aura.html#a889285ef034aaa7eaaa8e86fb5380cf0":[7,0,3395,0],
-"d4/d53/classspell__q10041__q10040__who__are__they.html":[7,0,3874]
+"d4/d52/classspell__item__eye__of__grillok__aura.html#a62e5ab81f9548e4d983d0c4dde14eaad":[7,0,3395,2]
 };

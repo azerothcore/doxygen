@@ -499,6 +499,7 @@ var classUnit =
     [ "InterruptNonMeleeSpells", "df/dd9/classUnit.html#a2bdfe38bdc28869a9002094e4341d56e", null ],
     [ "InterruptSpell", "df/dd9/classUnit.html#a080cb9749e810cdb61c36430b179c26f", null ],
     [ "InvalidateValuesUpdateCache", "df/dd9/classUnit.html#ac33ee9fe8097085f9fe8f742abe18103", null ],
+    [ "IsActionPreventedByCasting", "df/dd9/classUnit.html#a73eaec34505d2e76d0a3bc447fec00eb", null ],
     [ "IsAlive", "df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189", null ],
     [ "IsAlwaysDetectableFor", "df/dd9/classUnit.html#ae43c776e7729bf61a4377d9c60c9c9c0", null ],
     [ "IsAlwaysVisibleFor", "df/dd9/classUnit.html#ad0738116354d0033ff7b4a67f60dafca", null ],

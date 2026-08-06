@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eee":[8,0,0,0,1,3,9,2,222],
 "d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea764a76066ce6d4a4a24d9d5c81b5a35a":[8,0,0,0,1,3,9,2,222,0],
 "d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea79322018cec8d3216c4ededae910b28a":[8,0,0,0,1,3,9,2,222,1],
 "d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8":[8,0,0,0,1,3,9,2,171],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#a6faba05e56bdbd4453ee44f9de7dca2d":[7,0,2122,7],
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#a7adbb5b9fa95e7ab73ac5acf81ffefdc":[7,0,2122,5],
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#aa392619b8e14ec4092e78cfdfe367858":[7,0,2122,8],
-"d1/df0/structnpc__razorscale__dark__rune__guardian.html#ab4ab3b501994c55ce6c2a7b01b8ca70b":[7,0,2122,6],
-"d1/df0/structnpc__razorscale__dark__rune__guardian.html#ac1bb7e2ac921fa542ec414a204117f98":[7,0,2122,2]
+"d1/df0/structnpc__razorscale__dark__rune__guardian.html#ab4ab3b501994c55ce6c2a7b01b8ca70b":[7,0,2122,6]
 };

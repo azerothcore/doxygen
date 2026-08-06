@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2aa13346b22641608bfc1323d761f7221b":[8,0,0,0,1,3,2,1,1,0,5,24],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2aa549a7fb98f72c849212314432aeaf67":[8,0,0,0,1,3,2,1,1,0,5,0],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ab3c98649ecf63a6a57b6cf13ba197244":[8,0,0,0,1,3,2,1,1,0,5,26],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ab58790add8fc773362dc58ba755d2b1d":[8,0,0,0,1,3,2,1,1,0,5,6],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abf18d5fab6280b216ea80c5d2d031e4c":[8,0,0,0,1,3,2,1,1,0,5,16],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abfc1ea9e0deff82c8a2a17aaa321c334":[8,0,0,0,1,3,2,1,1,0,5,12],
@@ -232,8 +235,8 @@ var NAVTREEINDEX401 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[7,0,13,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,34,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[7,0,13,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[7,0,13,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,34,2,4,3],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[7,0,13,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[7,0,13,2,4,2],
 "df/d14/classspell__item__heartpierce.html":[7,0,3418],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[8,0,0,0,1,2,15,9,6,7],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b":[8,0,0,0,1,2,15,9,6,4],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57":[8,0,0,0,1,2,15,9,6,3],
-"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33":[8,0,0,0,1,2,15,9,6,6],
-"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a":[8,0,0,0,1,2,15,9,6,0],
-"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0":[8,0,0,0,1,2,15,9,6,8],
-"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1":[8,0,0,0,1,2,15,9,6,2]
+"df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33":[8,0,0,0,1,2,15,9,6,6]
 };

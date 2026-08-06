@@ -1,5 +1,7 @@
 var NAVTREEINDEX382 =
 {
+"de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[7,0,1568,4],
+"de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[7,0,1568,34],
 "de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[7,0,1568,50],
 "de/d3b/classspell__vazruden__call__nazan.html":[7,0,4288],
 "de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[7,0,4288,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX382 =
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a136381727f59e41e2a44b1a2df96f531":[7,0,1388,0,1],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a13d0e3aeaa877a24e0007ad3de4082a0":[7,0,1388,0,13],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a1c84731d3f370ba4dc81a4489a33b14b":[7,0,1388,0,16],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a2152552f089d16dbfe43de24d62c692e":[7,0,1388,0,18],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a26b1a6a56c786708f247145dbae7e142":[7,0,1388,0,2],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a373656d7281621244a9417a335bb6444":[7,0,1388,0,4]
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a2152552f089d16dbfe43de24d62c692e":[7,0,1388,0,18]
 };

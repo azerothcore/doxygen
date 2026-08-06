@@ -1,5 +1,7 @@
 var NAVTREEINDEX345 =
 {
+"dd/d3b/structGameObjectTemplate.html#a5f28879d64e2b29fd75c823890e2903c":[7,0,1124,38],
+"dd/d3b/structGameObjectTemplate.html#a63f6b5296456a06f2a0e461d73f6b3ea":[7,0,1124,12],
 "dd/d3b/structGameObjectTemplate.html#a658cbe9bd4886349fa90f271c61cfe3f":[7,0,1124,150],
 "dd/d3b/structGameObjectTemplate.html#a658fd26d2199672d1e3abf08163ba50d":[7,0,1124,125],
 "dd/d3b/structGameObjectTemplate.html#a65e33aac04896c9f9b68808ae6724056":[7,0,1124,39],
@@ -134,16 +136,16 @@ var NAVTREEINDEX345 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[8,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[8,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1390,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[7,0,100,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[7,0,100,0],
 "dd/d47/classspell__hun__kill__command__pet.html":[7,0,3254],
-"dd/d47/classspell__hun__kill__command__pet.html#a2bade504b1ab2c2869ecaf8873864d19":[7,0,3254,2],
-"dd/d47/classspell__hun__kill__command__pet.html#a675a17a574539f2da85a5401afc18fec":[7,0,3254,0],
-"dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[7,0,3254,1]
+"dd/d47/classspell__hun__kill__command__pet.html#a2bade504b1ab2c2869ecaf8873864d19":[7,0,3254,2]
 };

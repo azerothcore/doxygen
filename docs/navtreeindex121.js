@@ -1,5 +1,7 @@
 var NAVTREEINDEX121 =
 {
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[7,0,0,27,5],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[7,0,0,27,4],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
 "d4/d02/structSmartEvent.html":[7,0,2612],
@@ -198,14 +200,14 @@ var NAVTREEINDEX121 =
 "d4/d08/classWardenPayloadMgr.html#ae3878c7264337d646f7a5d503907d7aa":[7,0,4652,5],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html":[7,0,13,14,14],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html":[5,0,34,14,14],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[5,0,34,14,14,0],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[7,0,13,14,14,0],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[5,0,34,14,14,0],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a4c6df4b5647d8b71084c4495548cdd58":[7,0,13,14,14,2],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a4c6df4b5647d8b71084c4495548cdd58":[5,0,34,14,14,2],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[5,0,34,14,14,4],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[7,0,13,14,14,4],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[7,0,13,14,14,1],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[5,0,34,14,14,4],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[5,0,34,14,14,1],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[7,0,13,14,14,1],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[5,0,34,14,14,3],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[7,0,13,14,14,3],
 "d4/d08/classspell__pal__improved__aura.html":[7,0,3762],
@@ -247,7 +249,5 @@ var NAVTREEINDEX121 =
 "d4/d09/classspell__item__mind__amplify__dish.html#a359fba1475e52b24635cc8dda51cc922":[7,0,3439,3],
 "d4/d09/classspell__item__mind__amplify__dish.html#aa15334f23b837a005a34a12d238fc9d5":[7,0,3439,1],
 "d4/d09/structboss__volkhan.html":[7,0,790],
-"d4/d09/structboss__volkhan.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6":[7,0,790,2],
-"d4/d09/structboss__volkhan.html#a31f94b488a7c659af73fd68f58d0a8ed":[7,0,790,4],
-"d4/d09/structboss__volkhan.html#a3c8fcf00e363b3c195ce29c49fbb12c8":[7,0,790,16]
+"d4/d09/structboss__volkhan.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6":[7,0,790,2]
 };

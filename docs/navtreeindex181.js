@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/d66/classGameObjectAI.html#a3d314dc7b78be791545c130884e0254d":[7,0,1111,21],
+"d6/d66/classGameObjectAI.html#a68acb343e76a0c45513113b650929683":[7,0,1111,18],
 "d6/d66/classGameObjectAI.html#a7d26ef498d0e88030dde9543da9c80f5":[7,0,1111,9],
 "d6/d66/classGameObjectAI.html#a8459d37ce69b9a02c1ecd047ec704089":[7,0,1111,17],
 "d6/d66/classGameObjectAI.html#a88040926f54167d6682b6d9bf5c230a0":[7,0,1111,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d73/classspell__gluth__decimate__damage.html":[7,0,3166],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[7,0,3166,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3166,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0]
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16]
 };

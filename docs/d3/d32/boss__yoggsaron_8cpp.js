@@ -79,7 +79,8 @@ var boss__yoggsaron_8cpp =
       [ "DATA_GET_KEEPERS_COUNT", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a13bbe1d42655f757a07ed9cabb167487", null ],
       [ "DATA_GET_CURRENT_ILLUSION", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aca24480554e98d3a46f8901b5de1b49b", null ],
       [ "DATA_GET_SARA_PHASE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7698c0a6057bb1357560747807d7ef78", null ],
-      [ "DATA_GET_DRIVE_ME_CRAZY", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa6a8daeb98f26e663b3a990c319eaa01", null ]
+      [ "DATA_GET_DRIVE_ME_CRAZY", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa6a8daeb98f26e663b3a990c319eaa01", null ],
+      [ "DATA_YOGG_SARON_HEALTH", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac24140f026b60b522c9d6c318cd3eacd", null ]
     ] ],
     [ "NPCsGOs", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959", [
       [ "NPC_OMINOUS_CLOUD", "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a1ffbe78b2b001b80e097e419bd11fa06", null ],

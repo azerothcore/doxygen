@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7":[8,0,0,0,1,3,5,9,2,13,45,21],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7698c0a6057bb1357560747807d7ef78":[8,0,0,0,1,3,5,9,2,13,45,29],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7c1d6afa0ca98887aa7564db0532e60d":[8,0,0,0,1,3,5,9,2,13,45,20],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88aaf3eed19bc6c33c495cbeec83393b":[8,0,0,0,1,3,5,9,2,13,45,5],
@@ -11,6 +12,7 @@ var NAVTREEINDEX97 =
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab3149894fe283b632ed01890bb16a6ec":[8,0,0,0,1,3,5,9,2,13,45,26],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab47703ed48eaa5237cacf25632bfac19":[8,0,0,0,1,3,5,9,2,13,45,3],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6509e4f86f13cda155504bd57675f04":[8,0,0,0,1,3,5,9,2,13,45,11],
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac24140f026b60b522c9d6c318cd3eacd":[8,0,0,0,1,3,5,9,2,13,45,31],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aca24480554e98d3a46f8901b5de1b49b":[8,0,0,0,1,3,5,9,2,13,45,28],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ada5cbd34a3cd65b1de125d2fe6f8e0d9":[8,0,0,0,1,3,5,9,2,13,45,9],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae9f312480bca7d31c1fcf94fbbeb0973":[8,0,0,0,1,3,5,9,2,13,45,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7722420716c030b5abe7b760199df14d":[7,0,1794,0,12],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7d6fb37d1953630aa79f8665eca0db61":[7,0,1794,0,7],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a98a045606d9e689ef25a5068b81b1ebf":[7,0,1794,0,6],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a9d876ec76b51f743c71e67749c21d939":[7,0,1794,0,4],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abd5b37793aa2fb150c808b7dc7270763":[7,0,1794,0,2],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abe5162608ba0acd7360a630562ff5935":[7,0,1794,0,5]
+"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a9d876ec76b51f743c71e67749c21d939":[7,0,1794,0,4]
 };

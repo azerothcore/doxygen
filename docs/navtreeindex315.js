@@ -1,5 +1,7 @@
 var NAVTREEINDEX315 =
 {
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ea8a31a73da3e320aef306c1f0535b6203":[8,0,0,0,1,3,9,8,100,6],
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eab613d462dc40bcf09e00adb9dc80ffb3":[8,0,0,0,1,3,9,8,100,9],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eab8b7ae0375e7b901ee7e2723d65dd9b4":[8,0,0,0,1,3,9,8,100,7],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eabf693e2aea9864376828eb7923d088f9":[8,0,0,0,1,3,9,8,100,2],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eac7029027a3cc15823069a37136dd14ab":[8,0,0,0,1,3,9,8,100,5],
@@ -164,10 +166,10 @@ var NAVTREEINDEX315 =
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2324,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[7,0,396],
@@ -247,7 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d01/instance__hellfire__ramparts_8cpp.html":[8,0,0,0,1,3,7,4,1,4],
 "dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[8,0,0,0,1,3,7,4,1,4,2],
 "dc/d02/WeatherScript_8h.html":[8,0,0,0,1,2,38,0,91],
-"dc/d03/InstanceMapScript_8h.html":[8,0,0,0,1,2,38,0,60],
-"dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[8,0,0,0,1,2,38,0,60,2],
-"dc/d03/ScriptedEscortAI_8h.html":[8,0,0,0,1,2,3,1,3]
+"dc/d03/InstanceMapScript_8h.html":[8,0,0,0,1,2,38,0,60]
 };
