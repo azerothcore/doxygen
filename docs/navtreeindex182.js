@@ -249,5 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[8,0,0,0,2,2,0,10,11,16],
 "d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[8,0,0,0,2,2,0,10,11,9],
 "d6/d7c/WardenMac_8h.html":[8,0,0,0,1,2,47,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,32]
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20]
 };

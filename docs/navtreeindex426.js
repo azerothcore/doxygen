@@ -1,5 +1,7 @@
 var NAVTREEINDEX426 =
 {
+"df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[7,0,4167,0],
+"df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[7,0,4167,1],
 "df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[7,0,4167,2],
 "df/df0/structboss__tavarok.html":[7,0,737],
 "df/df0/structboss__tavarok.html#a0bea2cc724d92616056b7c5ca2dd03c1":[7,0,737,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX426 =
 "df/dfa/structnpc__hover__disk.html":[7,0,1900],
 "df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[7,0,1900,7],
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[7,0,1900,3],
-"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[7,0,1900,1],
-"df/dfa/structnpc__hover__disk.html#a9d1c7ac28f2c597864cf2c70ab0fb943":[7,0,1900,4],
-"df/dfa/structnpc__hover__disk.html#ab7e712a9d5aec7c3112796316a7fe534":[7,0,1900,5]
+"df/dfa/structnpc__hover__disk.html#a3ea3d44f74f26115f0a29fad134fcfc8":[7,0,1900,1]
 };
