@@ -6,5 +6,5 @@ var classspell__dk__blood__gorged =
     [ "PrepareAuraScript", "dd/d0f/classspell__dk__blood__gorged.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
     [ "Register", "dd/d0f/classspell__dk__blood__gorged.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
     [ "Validate", "dd/d0f/classspell__dk__blood__gorged.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTarget", "dd/d0f/classspell__dk__blood__gorged.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
+    [ "_procTargetGUID", "dd/d0f/classspell__dk__blood__gorged.html#ac9685f00854f4cf67a1fffada0b9461b", null ]
 ];

@@ -5,8 +5,8 @@ var zone__borean__tundra_8cpp =
     [ "npc_sinkhole_kill_credit::npc_sinkhole_kill_creditAI", "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html", "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI" ],
     [ "npc_khunok_the_behemoth", "dc/d95/classnpc__khunok__the__behemoth.html", "dc/d95/classnpc__khunok__the__behemoth" ],
     [ "npc_khunok_the_behemoth::npc_khunok_the_behemothAI", "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html", "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI" ],
-    [ "npc_nerubar_victim", "dd/d44/classnpc__nerubar__victim.html", "dd/d44/classnpc__nerubar__victim" ],
-    [ "npc_nerubar_victim::npc_nerubar_victimAI", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI" ],
+    [ "npc_nerubar_victim", "d8/d5e/structnpc__nerubar__victim.html", "d8/d5e/structnpc__nerubar__victim" ],
+    [ "spell_dispel_freed_soldier_debuff", "d7/da7/classspell__dispel__freed__soldier__debuff.html", "d7/da7/classspell__dispel__freed__soldier__debuff" ],
     [ "npc_lurgglbr", "d3/daa/classnpc__lurgglbr.html", "d3/daa/classnpc__lurgglbr" ],
     [ "npc_lurgglbr::npc_lurgglbrAI", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI.html", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI" ],
     [ "npc_jenny", "dc/dcb/structnpc__jenny.html", "dc/dcb/structnpc__jenny" ],
@@ -15,8 +15,6 @@ var zone__borean__tundra_8cpp =
     [ "npc_imprisoned_beryl_sorcerer::npc_imprisoned_beryl_sorcererAI", "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html", "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI" ],
     [ "npc_mootoo_the_younger", "d4/d14/classnpc__mootoo__the__younger.html", "d4/d14/classnpc__mootoo__the__younger" ],
     [ "npc_mootoo_the_younger::npc_mootoo_the_youngerAI", "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html", "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI" ],
-    [ "npc_bonker_togglevolt", "d9/d67/classnpc__bonker__togglevolt.html", "d9/d67/classnpc__bonker__togglevolt" ],
-    [ "npc_bonker_togglevolt::npc_bonker_togglevoltAI", "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html", "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI" ],
     [ "npc_valiance_keep_cannoneer", "d5/d8c/classnpc__valiance__keep__cannoneer.html", "d5/d8c/classnpc__valiance__keep__cannoneer" ],
     [ "npc_valiance_keep_cannoneer::npc_valiance_keep_cannoneerAI", "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html", "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI" ],
     [ "npc_warmage_coldarra", "d2/d86/classnpc__warmage__coldarra.html", "d2/d86/classnpc__warmage__coldarra" ],
@@ -29,6 +27,7 @@ var zone__borean__tundra_8cpp =
     [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
     [ "spell_soul_deflection", "df/d1d/classspell__soul__deflection.html", "df/d1d/classspell__soul__deflection" ],
     [ "spell_bloodspore_haze", "d4/d7b/classspell__bloodspore__haze.html", "d4/d7b/classspell__bloodspore__haze" ],
+    [ "npc_dusk", "de/d33/structnpc__dusk.html", "de/d33/structnpc__dusk" ],
     [ "ArcaneChains", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338dae", [
       [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daea281a473ba44c139884440cbe38ad8de0", null ],
       [ "SPELL_ARCANE_CHAINS_SUMMON_CHAINED_MAGE_HUNTER", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daeafd3d75fde3c031f9b17358271c3c919f", null ]
@@ -39,11 +38,12 @@ var zone__borean__tundra_8cpp =
       [ "EVENT_TALK", "d3/d09/zone__borean__tundra_8cpp.html#aa16fb89cb3bd6364485f6fc84fc8bb6bad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
       [ "EVENT_RESET_ORIENTATION", "d3/d09/zone__borean__tundra_8cpp.html#aa16fb89cb3bd6364485f6fc84fc8bb6bacd74828e60a02284062d0e5c708ed414", null ]
     ] ],
-    [ "BonkerTogglevolt", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dd", [
-      [ "NPC_BONKER_TOGGLEVOLT", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda84cc8537adb737ababc7f8f47b3f02e6", null ],
-      [ "QUEST_GET_ME_OUTA_HERE", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42", null ],
-      [ "SAY_BONKER_1", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda3300ceea0456cc026efa4f2ed6825fa0", null ],
-      [ "SAY_BONKER_2", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5", null ]
+    [ "DuskData", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16", [
+      [ "SAY_DUSK_PHYLACTERY", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16a687259080b82f5ca335c7ad54a72cdbf", null ],
+      [ "SPELL_DAN_EJECT", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16a0b5f472a4b63dabfec252720da5291ce", null ],
+      [ "PATH_DUSK", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16aeeba02a1660ad30f11e74226f7f70352", null ],
+      [ "NODE_DUSK_EJECT", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16a5fe093eefdb490fbc0c3d1eeddda5504", null ],
+      [ "POINT_DUSK_END", "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16a970039cd7ac92e9bbfa7408dbad56afc", null ]
     ] ],
     [ "eDrakeHunt", "d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71", [
       [ "SPELL_DRAKE_HATCHLING_SUBDUED", "d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71a47d19b0d1180cb9dabde16931af99d71", null ],
@@ -111,7 +111,9 @@ var zone__borean__tundra_8cpp =
       [ "SPELL_FREED_WARSONG_MAGE", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa0531386612b4f0ac7e08320993ae406a", null ],
       [ "SPELL_FREED_WARSONG_SHAMAN", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caabe628314503fae0d0b8239758cda3f70", null ],
       [ "SPELL_FREED_WARSONG_WARRIOR", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa5174ecc59fe0ab7dc99c2d89e1f3c004", null ],
-      [ "SPELL_FREED_WARSONG_PEON", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa9b76c76d294db83df1cc6506ca17f21a", null ]
+      [ "SPELL_FREED_WARSONG_PEON", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa9b76c76d294db83df1cc6506ca17f21a", null ],
+      [ "SPELL_FREED_SOLDIER_DEBUFF", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa25ad7bb1eeabf706e9f8ec2ab78ac6d4", null ],
+      [ "MAX_FREED_SOLDIERS", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caa9e42b763a54b558ca4cce927281ddf6d", null ]
     ] ],
     [ "NPCs", "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_TRANSITUS_SHIELD_DUMMY", "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0d02e350490e1dd285b5cade43f37588", null ],
@@ -143,5 +145,5 @@ var zone__borean__tundra_8cpp =
       [ "GO_VALIANCE_KEEP_CANNON_2", "d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0", null ]
     ] ],
     [ "AddSC_borean_tundra", "d3/d09/zone__borean__tundra_8cpp.html#abe6e80b96bfca08ba67a03a41a1107be", null ],
-    [ "nerubarVictims", "d3/d09/zone__borean__tundra_8cpp.html#a593edc6836aced49ac3587952f3517a7", null ]
+    [ "nerubarCaptiveSpells", "d3/d09/zone__borean__tundra_8cpp.html#a2cba7854daddfe3fa4c0de0fb46049b2", null ]
 ];

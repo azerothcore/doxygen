@@ -1,6 +1,7 @@
 var structnpc__ulduar__aerial__command__unit =
 [
     [ "npc_ulduar_aerial_command_unit", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7db419befea7054118ebd2b1d7835a38", null ],
+    [ "AttackStart", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a215a0b1f8fdf50f3968289f78aa964c5", null ],
     [ "DamageTaken", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
     [ "DoAction", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
     [ "EnterEvadeMode", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],

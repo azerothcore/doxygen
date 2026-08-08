@@ -14,6 +14,7 @@ var structboss__freya =
     [ "SpellHit", "d5/d97/structboss__freya.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
     [ "SpellHitTarget", "d5/d97/structboss__freya.html#a22c4097731727de032fd6db3c9cef7cf", null ],
     [ "UpdateAI", "d5/d97/structboss__freya.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_aliveAddsCount", "d5/d97/structboss__freya.html#a2994fd85d4fc14c93b5dd3b6113fe80b", null ],
     [ "_backToNature", "d5/d97/structboss__freya.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
     [ "_deforestation", "d5/d97/structboss__freya.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
     [ "_elderGUID", "d5/d97/structboss__freya.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],

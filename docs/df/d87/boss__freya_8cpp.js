@@ -121,6 +121,7 @@ var boss__freya_8cpp =
       [ "ACTION_REMOVE_2_STACK", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a853648b75be4547c89e3010b38275b2b", null ],
       [ "ACTION_RESPAWN_TRIO", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2506c434b212867f6a797b2f6dbc44bc", null ],
       [ "ACTION_LUMBERJACKED", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f3a4c4f65a02db119e97acdb0de3c70", null ],
+      [ "ACTION_ADD_DIED", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aef7550b570a170908ab7805255b6e143", null ],
       [ "EVENT_PHASE_ADDS", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb", null ],
       [ "EVENT_PHASE_FINAL", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ce227d3cc740f5d52c5d46259892d35", null ],
       [ "DATA_GET_ELDER_COUNT", "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],

@@ -8,5 +8,5 @@ var classspell__warr__vigilance =
     [ "PrepareAuraScript", "d4/dd6/classspell__warr__vigilance.html#aea23ff608c74017d98edcc146d3ba35a", null ],
     [ "Register", "d4/dd6/classspell__warr__vigilance.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
     [ "Validate", "d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "d4/dd6/classspell__warr__vigilance.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "_procTargetGUID", "d4/dd6/classspell__warr__vigilance.html#a88833abe90e8753336b7dc178b98f703", null ]
 ];

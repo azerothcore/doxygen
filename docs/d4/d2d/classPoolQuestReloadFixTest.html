@@ -166,34 +166,34 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  220</span>    {</div>
-<div class="line"><span class="lineno">  221</span>        <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a> = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureQuestRelationMap();</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>        <span class="comment">// Set up pool infrastructure (private members via friend access)</span></div>
-<div class="line"><span class="lineno">  224</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].MaxLimit = 1;</div>
-<div class="line"><span class="lineno">  225</span> </div>
-<div class="line"><span class="lineno">  226</span>        <span class="comment">// Create the pool group entry (Spawn1Object doesn&#39;t use pool group</span></div>
-<div class="line"><span class="lineno">  227</span>        <span class="comment">// internals, it only reads mQuestCreatureRelation)</span></div>
-<div class="line"><span class="lineno">  228</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].SetPoolId(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
-<div class="line"><span class="lineno">  229</span> </div>
-<div class="line"><span class="lineno">  230</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>] = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>;</div>
-<div class="line"><span class="lineno">  231</span> </div>
-<div class="line"><span class="lineno">  232</span>        <span class="comment">// Mark the quest as active/spawned</span></div>
-<div class="line"><span class="lineno">  233</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mSpawnedData.ActivateObject&lt;<a class="code hl_class" href="../../d1/d4f/classQuest.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>        <span class="comment">// Set up pool-side mapping: quest -&gt; creature</span></div>
-<div class="line"><span class="lineno">  236</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.insert(</div>
-<div class="line"><span class="lineno">  237</span>            PooledQuestRelation::value_type(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>));</div>
-<div class="line"><span class="lineno">  238</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  221</span>    {</div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a> = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureQuestRelationMap();</div>
+<div class="line"><span class="lineno">  223</span> </div>
+<div class="line"><span class="lineno">  224</span>        <span class="comment">// Set up pool infrastructure (private members via friend access)</span></div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].MaxLimit = 1;</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>        <span class="comment">// Create the pool group entry (Spawn1Object doesn&#39;t use pool group</span></div>
+<div class="line"><span class="lineno">  228</span>        <span class="comment">// internals, it only reads mQuestCreatureRelation)</span></div>
+<div class="line"><span class="lineno">  229</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>].SetPoolId(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  230</span> </div>
+<div class="line"><span class="lineno">  231</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap[<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>] = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>        <span class="comment">// Mark the quest as active/spawned</span></div>
+<div class="line"><span class="lineno">  234</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSpawnedData.AddSpawn&lt;<a class="code hl_class" href="../../d1/d4f/classQuest.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>        <span class="comment">// Set up pool-side mapping: quest -&gt; creature</span></div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.insert(</div>
+<div class="line"><span class="lineno">  238</span>            PooledQuestRelation::value_type(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>));</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1730</div></div>
-<div class="ttc" id="aPoolMgr_8h_html_a9189dd9c6265b9e6d57104dd61a5fe85"><div class="ttname"><a href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a></div><div class="ttdeci">#define sPoolMgr</div><div class="ttdef"><b>Definition</b> PoolMgr.h:177</div></div>
-<div class="ttc" id="aclassPoolQuestReloadFixTest_html_a26e68107bb625d0c5b6281c7df9199be"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">PoolQuestReloadFixTest::TEST_QUEST_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_QUEST_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:261</div></div>
-<div class="ttc" id="aclassPoolQuestReloadFixTest_html_a80a79959d4b5520f7acf671677a671e9"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">PoolQuestReloadFixTest::TEST_CREATURE_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_CREATURE_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:262</div></div>
-<div class="ttc" id="aclassPoolQuestReloadFixTest_html_aa81759d0539b72ad3cdda7d2231f8e63"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">PoolQuestReloadFixTest::TEST_POOL_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_POOL_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:263</div></div>
-<div class="ttc" id="aclassPoolQuestReloadFixTest_html_ae8b815994792f237cf6e1803b9eaa7f7"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">PoolQuestReloadFixTest::creatureQuestMap</a></div><div class="ttdeci">QuestRelations * creatureQuestMap</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:265</div></div>
+<div class="ttc" id="aPoolMgr_8h_html_a9189dd9c6265b9e6d57104dd61a5fe85"><div class="ttname"><a href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a></div><div class="ttdeci">#define sPoolMgr</div><div class="ttdef"><b>Definition</b> PoolMgr.h:216</div></div>
+<div class="ttc" id="aclassPoolQuestReloadFixTest_html_a26e68107bb625d0c5b6281c7df9199be"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">PoolQuestReloadFixTest::TEST_QUEST_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_QUEST_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:262</div></div>
+<div class="ttc" id="aclassPoolQuestReloadFixTest_html_a80a79959d4b5520f7acf671677a671e9"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">PoolQuestReloadFixTest::TEST_CREATURE_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_CREATURE_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:263</div></div>
+<div class="ttc" id="aclassPoolQuestReloadFixTest_html_aa81759d0539b72ad3cdda7d2231f8e63"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">PoolQuestReloadFixTest::TEST_POOL_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_POOL_ID</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:264</div></div>
+<div class="ttc" id="aclassPoolQuestReloadFixTest_html_ae8b815994792f237cf6e1803b9eaa7f7"><div class="ttname"><a href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">PoolQuestReloadFixTest::creatureQuestMap</a></div><div class="ttdeci">QuestRelations * creatureQuestMap</div><div class="ttdef"><b>Definition</b> PoolQuestReloadTest.cpp:266</div></div>
 <div class="ttc" id="aclassQuest_html"><div class="ttname"><a href="../../d1/d4f/classQuest.html">Quest</a></div><div class="ttdef"><b>Definition</b> QuestDef.h:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00265">creatureQuestMap</a>, <a class="el" href="../../#l01730">sObjectMgr</a>, <a class="el" href="../../#l00177">sPoolMgr</a>, <a class="el" href="../../#l00262">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00263">TEST_POOL_ID</a>, and <a class="el" href="../../#l00261">TEST_QUEST_ID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">creatureQuestMap</a>, <a class="el" href="../../#l01730">sObjectMgr</a>, <a class="el" href="../../#l00216">sPoolMgr</a>, <a class="el" href="../../#l00263">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00264">TEST_POOL_ID</a>, and <a class="el" href="../../#l00262">TEST_QUEST_ID</a>.</p>
 
 </div>
 </div>
@@ -219,27 +219,27 @@ Static Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        <span class="comment">// Clean up all test state from the singletons</span></div>
-<div class="line"><span class="lineno">  243</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
-<div class="line"><span class="lineno">  244</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
-<div class="line"><span class="lineno">  245</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
-<div class="line"><span class="lineno">  246</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mSpawnedData.RemoveObject&lt;<a class="code hl_class" href="../../d1/d4f/classQuest.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
-<div class="line"><span class="lineno">  247</span> </div>
-<div class="line"><span class="lineno">  248</span>        <span class="keyword">auto</span> range = <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.equal_range(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
-<div class="line"><span class="lineno">  249</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.erase(range.first, range.second);</div>
-<div class="line"><span class="lineno">  250</span> </div>
-<div class="line"><span class="lineno">  251</span>        <span class="keyword">auto</span> crRange = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;equal_range(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>);</div>
-<div class="line"><span class="lineno">  252</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = crRange.first; it != crRange.second; )</div>
-<div class="line"><span class="lineno">  253</span>        {</div>
-<div class="line"><span class="lineno">  254</span>            <span class="keywordflow">if</span> (it-&gt;second == <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>)</div>
-<div class="line"><span class="lineno">  255</span>                it = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;erase(it);</div>
-<div class="line"><span class="lineno">  256</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  257</span>                ++it;</div>
-<div class="line"><span class="lineno">  258</span>        }</div>
-<div class="line"><span class="lineno">  259</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <span class="comment">// Clean up all test state from the singletons</span></div>
+<div class="line"><span class="lineno">  244</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolTemplate.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mPoolQuestGroups.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  246</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSearchMap.erase(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
+<div class="line"><span class="lineno">  247</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestSpawnedData.RemoveSpawn&lt;<a class="code hl_class" href="../../d1/d4f/classQuest.html">Quest</a>&gt;(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#aa81759d0539b72ad3cdda7d2231f8e63">TEST_POOL_ID</a>);</div>
+<div class="line"><span class="lineno">  248</span> </div>
+<div class="line"><span class="lineno">  249</span>        <span class="keyword">auto</span> range = <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.equal_range(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>);</div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_define" href="../../d3/d84/PoolMgr_8h.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.erase(range.first, range.second);</div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>        <span class="keyword">auto</span> crRange = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;equal_range(<a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a80a79959d4b5520f7acf671677a671e9">TEST_CREATURE_ID</a>);</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = crRange.first; it != crRange.second; )</div>
+<div class="line"><span class="lineno">  254</span>        {</div>
+<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">if</span> (it-&gt;second == <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#a26e68107bb625d0c5b6281c7df9199be">TEST_QUEST_ID</a>)</div>
+<div class="line"><span class="lineno">  256</span>                it = <a class="code hl_variable" href="../../d4/d2d/classPoolQuestReloadFixTest.html#ae8b815994792f237cf6e1803b9eaa7f7">creatureQuestMap</a>-&gt;erase(it);</div>
+<div class="line"><span class="lineno">  257</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  258</span>                ++it;</div>
+<div class="line"><span class="lineno">  259</span>        }</div>
+<div class="line"><span class="lineno">  260</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00265">creatureQuestMap</a>, <a class="el" href="../../#l00177">sPoolMgr</a>, <a class="el" href="../../#l00262">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00263">TEST_POOL_ID</a>, and <a class="el" href="../../#l00261">TEST_QUEST_ID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">creatureQuestMap</a>, <a class="el" href="../../#l00216">sPoolMgr</a>, <a class="el" href="../../#l00263">TEST_CREATURE_ID</a>, <a class="el" href="../../#l00264">TEST_POOL_ID</a>, and <a class="el" href="../../#l00262">TEST_QUEST_ID</a>.</p>
 
 </div>
 </div>
@@ -264,7 +264,7 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">SetUp()</a>, and <a class="el" href="../../#l00240">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -288,7 +288,7 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">SetUp()</a>, and <a class="el" href="../../#l00240">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -312,7 +312,7 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">SetUp()</a>, and <a class="el" href="../../#l00240">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -336,7 +336,7 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00219">SetUp()</a>, and <a class="el" href="../../#l00240">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00220">SetUp()</a>, and <a class="el" href="../../#l00241">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -349,7 +349,7 @@ Static Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d2d/classPoolQuestReloadFixTest.html">PoolQuestReloadFixTest</a></li>
-    <li class="footer">Generated on Fri Aug 7 2026 07:19:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Aug 8 2026 06:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
