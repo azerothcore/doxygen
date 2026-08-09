@@ -15,5 +15,6 @@ var structboss__yoggsaron__brain =
     [ "_brainDamaged", "de/d77/structboss__yoggsaron__brain.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
     [ "_induceTimer", "de/d77/structboss__yoggsaron__brain.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
     [ "_tentacleCount", "de/d77/structboss__yoggsaron__brain.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
+    [ "_tentacleTotal", "de/d77/structboss__yoggsaron__brain.html#a2627b412b3a67eaea312bc269a516de7", null ],
     [ "summons", "de/d77/structboss__yoggsaron__brain.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
 ];

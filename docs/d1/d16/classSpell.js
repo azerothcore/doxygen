@@ -246,7 +246,7 @@ var classSpell =
     [ "PrepareTriggersExecutedOnHit", "d1/d16/classSpell.html#a1072304b8d45c2a33fbb6802583cbef0", null ],
     [ "RecalculateDelayMomentForDst", "d1/d16/classSpell.html#ab39db66c1dd7ec2020fb87bd7b72acde", null ],
     [ "ReSetTimer", "d1/d16/classSpell.html#ab59bbf4428bcb938c7e9af5a6ee9812a", null ],
-    [ "SearchAreaTargets", "d1/d16/classSpell.html#ad934ae4fd5d968b8633c20a3b7d89b83", null ],
+    [ "SearchAreaTargets", "d1/d16/classSpell.html#a3410bf3e596bb073ddb522fcca2f2d4f", null ],
     [ "SearchChainTargets", "d1/d16/classSpell.html#adebb4d624890184a3960d6edcb25eca2", null ],
     [ "SearchNearbyTarget", "d1/d16/classSpell.html#a542b2a19a72f114bfd8c39a322fb575d", null ],
     [ "SearchTargets", "d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708", null ],

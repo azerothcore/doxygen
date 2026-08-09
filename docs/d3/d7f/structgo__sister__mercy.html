@@ -214,7 +214,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  495</span>: <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  549</span>: <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go) { }</div>
 <div class="ttc" id="aclassGameObjectAI_html"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a></div><div class="ttdef"><b>Definition</b> GameObjectAI.h:33</div></div>
 </div><!-- fragment -->
 </div>
@@ -245,24 +245,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  499</span>    {</div>
-<div class="line"><span class="lineno">  500</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pathId = <a class="code hl_function" href="../../d1/d77/zone__howling__fjord_8cpp.html#a0727220183f34049d44da4f1ca096541">GetSorlofPathForShipEvent</a>(eventId);</div>
-<div class="line"><span class="lineno">  501</span>        <span class="keywordflow">if</span> (!pathId)</div>
-<div class="line"><span class="lineno">  502</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  503</span> </div>
-<div class="line"><span class="lineno">  504</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* sorlof = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c">NPC_SORLOF</a>, <a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7">SORLOF_SEARCH_RANGE</a>))</div>
-<div class="line"><span class="lineno">  505</span>            sorlof-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53">DATA_SORLOF_TAKE_PATH</a>, pathId);</div>
-<div class="line"><span class="lineno">  506</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  553</span>    {</div>
+<div class="line"><span class="lineno">  554</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pathId = <a class="code hl_function" href="../../d1/d77/zone__howling__fjord_8cpp.html#a0727220183f34049d44da4f1ca096541">GetSorlofPathForShipEvent</a>(eventId);</div>
+<div class="line"><span class="lineno">  555</span>        <span class="keywordflow">if</span> (!pathId)</div>
+<div class="line"><span class="lineno">  556</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  557</span> </div>
+<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* sorlof = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c">NPC_SORLOF</a>, <a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7">SORLOF_SEARCH_RANGE</a>))</div>
+<div class="line"><span class="lineno">  559</span>            sorlof-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53">DATA_SORLOF_TAKE_PATH</a>, pathId);</div>
+<div class="line"><span class="lineno">  560</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassGameObjectAI_html_a22a51a980875ccae8a285d7804967747"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">GameObjectAI::me</a></div><div class="ttdeci">GameObject *const me</div><div class="ttdef"><b>Definition</b> GameObjectAI.h:35</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2553</div></div>
-<div class="ttc" id="azone__howling__fjord_8cpp_html_a0727220183f34049d44da4f1ca096541"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a0727220183f34049d44da4f1ca096541">GetSorlofPathForShipEvent</a></div><div class="ttdeci">uint32 GetSorlofPathForShipEvent(uint32 eventId)</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:399</div></div>
-<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c">NPC_SORLOF</a></div><div class="ttdeci">@ NPC_SORLOF</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:315</div></div>
-<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53">DATA_SORLOF_TAKE_PATH</a></div><div class="ttdeci">@ DATA_SORLOF_TAKE_PATH</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:333</div></div>
-<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7">SORLOF_SEARCH_RANGE</a></div><div class="ttdeci">@ SORLOF_SEARCH_RANGE</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:329</div></div>
+<div class="ttc" id="azone__howling__fjord_8cpp_html_a0727220183f34049d44da4f1ca096541"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a0727220183f34049d44da4f1ca096541">GetSorlofPathForShipEvent</a></div><div class="ttdeci">uint32 GetSorlofPathForShipEvent(uint32 eventId)</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:453</div></div>
+<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412a6b91d4916a28ca9e8f5f0a7e58ac782c">NPC_SORLOF</a></div><div class="ttdeci">@ NPC_SORLOF</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:369</div></div>
+<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae162148a53be28931e224def26605a53">DATA_SORLOF_TAKE_PATH</a></div><div class="ttdeci">@ DATA_SORLOF_TAKE_PATH</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:387</div></div>
+<div class="ttc" id="azone__howling__fjord_8cpp_html_a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7"><div class="ttname"><a href="../../d1/d77/zone__howling__fjord_8cpp.html#a9b0df0995abb2c580c7117164c0fe412ae3736f36f4a37f82e18c990768aafcb7">SORLOF_SEARCH_RANGE</a></div><div class="ttdeci">@ SORLOF_SEARCH_RANGE</div><div class="ttdef"><b>Definition</b> zone_howling_fjord.cpp:383</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00333">DATA_SORLOF_TAKE_PATH</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00399">GetSorlofPathForShipEvent()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00315">NPC_SORLOF</a>, and <a class="el" href="../../#l00329">SORLOF_SEARCH_RANGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00387">DATA_SORLOF_TAKE_PATH</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00453">GetSorlofPathForShipEvent()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00369">NPC_SORLOF</a>, and <a class="el" href="../../#l00383">SORLOF_SEARCH_RANGE</a>.</p>
 
 </div>
 </div>
@@ -275,7 +275,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d7f/structgo__sister__mercy.html">go_sister_mercy</a></li>
-    <li class="footer">Generated on Sat Aug 8 2026 06:43:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Aug 9 2026 06:46:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

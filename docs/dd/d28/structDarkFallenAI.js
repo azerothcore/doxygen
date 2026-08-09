@@ -3,6 +3,7 @@ var structDarkFallenAI =
     [ "DarkFallenAI", "dd/d28/structDarkFallenAI.html#a0be0c32a52d954700c0677d111b82694", null ],
     [ "DoAction", "dd/d28/structDarkFallenAI.html#a5c1ba5dde31aa4d1f2f1e5fc45eb4b48", null ],
     [ "EnterEvadeMode", "dd/d28/structDarkFallenAI.html#a365a5d5aa68ce35963e180f36b23ffe9", null ],
+    [ "JustDied", "dd/d28/structDarkFallenAI.html#a59df972ab6f5a00df0217a984f5904de", null ],
     [ "JustEngagedWith", "dd/d28/structDarkFallenAI.html#a21705f88c5a6e25709b6f0db049379bd", null ],
     [ "Reset", "dd/d28/structDarkFallenAI.html#acaf883142e1620a84f8bf29801dd860c", null ],
     [ "ScheduleSpells", "dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7", null ],

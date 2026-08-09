@@ -48,6 +48,7 @@ var spell__generic_8cpp =
     [ "spell_gen_burn_brutallus", "d8/dd7/classspell__gen__burn__brutallus.html", "d8/dd7/classspell__gen__burn__brutallus" ],
     [ "spell_gen_cannibalize", "d1/d1c/classspell__gen__cannibalize.html", "d1/d1c/classspell__gen__cannibalize" ],
     [ "spell_gen_clear_debuffs", "df/da7/classspell__gen__clear__debuffs.html", "df/da7/classspell__gen__clear__debuffs" ],
+    [ "spell_gen_clear_demonic_circle", "d2/dcc/classspell__gen__clear__demonic__circle.html", "d2/dcc/classspell__gen__clear__demonic__circle" ],
     [ "spell_gen_create_lance", "d8/d17/classspell__gen__create__lance.html", "d8/d17/classspell__gen__create__lance" ],
     [ "spell_gen_moss_covered_feet", "d3/d60/classspell__gen__moss__covered__feet.html", "d3/d60/classspell__gen__moss__covered__feet" ],
     [ "spell_gen_netherbloom", "df/dbb/classspell__gen__netherbloom.html", "df/dbb/classspell__gen__netherbloom" ],
@@ -216,6 +217,9 @@ var spell__generic_8cpp =
     [ "ChokingVines", "d1/de4/spell__generic_8cpp.html#af687d1afc8a89facc5c7315966bc258f", [
       [ "SPELL_CHOKING_VINES", "d1/de4/spell__generic_8cpp.html#af687d1afc8a89facc5c7315966bc258fa9aeb530afe82488aea66be80fc952ebe", null ],
       [ "SPELL_CHOKING_WOUND", "d1/de4/spell__generic_8cpp.html#af687d1afc8a89facc5c7315966bc258fa9348d835ef7fd6fb4631aa5bfe1aa183", null ]
+    ] ],
+    [ "ClearDemonicCircle", "d1/de4/spell__generic_8cpp.html#a7fab1edbf00ed5ee23f9597fb60e9929", [
+      [ "SPELL_DEMONIC_CIRCLE_SUMMON", "d1/de4/spell__generic_8cpp.html#a7fab1edbf00ed5ee23f9597fb60e9929a050c75ea520c3cd27a673681fc15fbed", null ]
     ] ],
     [ "CloneWeaponSpells", "d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8", [
       [ "SPELL_COPY_WEAPON_AURA", "d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8aa47e8d111bae297a0692457e56d445f2", null ],

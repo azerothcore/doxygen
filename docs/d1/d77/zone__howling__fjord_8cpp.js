@@ -10,6 +10,7 @@ var zone__howling__fjord_8cpp =
     [ "spell_the_cleansing_cleansing_soul", "df/d3c/classspell__the__cleansing__cleansing__soul.html", "df/d3c/classspell__the__cleansing__cleansing__soul" ],
     [ "spell_the_cleansing_mirror_image_script_effect", "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html", "d3/d45/classspell__the__cleansing__mirror__image__script__effect" ],
     [ "spell_the_cleansing_on_death_cast_on_master", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master" ],
+    [ "spell_q11296_rivenwood_captives", "d4/dc8/classspell__q11296__rivenwood__captives.html", "d4/dc8/classspell__q11296__rivenwood__captives" ],
     [ "spell_sorlofs_booty_boulder_assault", "d8/dbe/classspell__sorlofs__booty__boulder__assault.html", "d8/dbe/classspell__sorlofs__booty__boulder__assault" ],
     [ "spell_sorlofs_booty_boulder_assault_hit", "dc/dab/classspell__sorlofs__booty__boulder__assault__hit.html", "dc/dab/classspell__sorlofs__booty__boulder__assault__hit" ],
     [ "npc_sorlof", "d5/dbe/structnpc__sorlof.html", "d5/dbe/structnpc__sorlof" ],
@@ -18,6 +19,14 @@ var zone__howling__fjord_8cpp =
     [ "spell_sorlofs_booty_big_gun_assault", "de/dd5/classspell__sorlofs__booty__big__gun__assault.html", "de/dd5/classspell__sorlofs__booty__big__gun__assault" ],
     [ "HawkHunting", "d1/d77/zone__howling__fjord_8cpp.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
       [ "SPELL_HAWK_HUNTING_ITEM", "d1/d77/zone__howling__fjord_8cpp.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
+    ] ],
+    [ "RivenwoodCaptives", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277", [
+      [ "SPELL_CAPTIVES_ON_QUEST", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277a7bfc24991745469431169752d0058a63", null ],
+      [ "SPELL_CAPTIVES_NOT_ON_QUEST", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277a37010e6e918f8e727f5afc293cf8e30a", null ],
+      [ "SPELL_SUMMON_FREED_SCOUT", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277a1ccdfe1bb552098d0947fa44fa4f968b", null ],
+      [ "SPELL_SUMMON_HOSTILE_START", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277a1885e281fc6c851167b2d24e2d127dea", null ],
+      [ "SPELL_SUMMON_HOSTILE_END", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277ad96433fe5596e69387c53a4432c0c27c", null ],
+      [ "NPC_FREED_SCOUT", "d1/d77/zone__howling__fjord_8cpp.html#a0406b0504bb5489bd1e1ab3bed6f8277a35332072efc4bb98475ab7ee56aa91e2", null ]
     ] ],
     [ "RodinLightningSpells", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3", [
       [ "SPELL_RODIN_LIGHTNING_START", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],

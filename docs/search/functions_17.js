@@ -130,7 +130,7 @@ var searchData=
   ['worldobjectlistsearcher_127',['WorldObjectListSearcher',['../d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7',1,'Acore::WorldObjectListSearcher']]],
   ['worldobjectscript_128',['WorldObjectScript',['../db/d0c/classWorldObjectScript.html#a3cadedd53ff5fffa76d05ce680095954',1,'WorldObjectScript']]],
   ['worldobjectsearcher_129',['WorldObjectSearcher',['../d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62',1,'Acore::WorldObjectSearcher']]],
-  ['worldobjectspellareatargetcheck_130',['WorldObjectSpellAreaTargetCheck',['../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a0a6275bc4d2bbf7da27e4b0df7245ec2',1,'Acore::WorldObjectSpellAreaTargetCheck']]],
+  ['worldobjectspellareatargetcheck_130',['WorldObjectSpellAreaTargetCheck',['../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a9fee9dd82aa2889eb82f73e3ca64e751',1,'Acore::WorldObjectSpellAreaTargetCheck']]],
   ['worldobjectspellconetargetcheck_131',['WorldObjectSpellConeTargetCheck',['../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e',1,'Acore::WorldObjectSpellConeTargetCheck']]],
   ['worldobjectspellnearbytargetcheck_132',['WorldObjectSpellNearbyTargetCheck',['../d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402',1,'Acore::WorldObjectSpellNearbyTargetCheck']]],
   ['worldobjectspelltargetcheck_133',['WorldObjectSpellTargetCheck',['../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a370a66c484d486ac6d2d3419a019c7cd',1,'Acore::WorldObjectSpellTargetCheck']]],

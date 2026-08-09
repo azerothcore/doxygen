@@ -10,9 +10,6 @@ var boss__general__vezax_8cpp =
     [ "spell_saronite_vapors_damage", "de/dd4/classspell__saronite__vapors__damage.html", "de/dd4/classspell__saronite__vapors__damage" ],
     [ "achievement_smell_saronite", "df/d77/classachievement__smell__saronite.html", "df/d77/classachievement__smell__saronite" ],
     [ "achievement_shadowdodger", "df/dd3/classachievement__shadowdodger.html", "df/dd3/classachievement__shadowdodger" ],
-    [ "VaporsText", "d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93e", [
-      [ "SAY_EMOTE_VAPORS", "d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954", null ]
-    ] ],
     [ "VezaxEvents", "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546", [
       [ "EVENT_SPELL_VEZAX_SHADOW_CRASH", "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a0f9f8655c874ed6677672caf1b0d3ba4", null ],
       [ "EVENT_SPELL_SEARING_FLAMES", "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546ac85dd5c61d13bc3def3fac9feff5b43d", null ],
@@ -38,6 +35,7 @@ var boss__general__vezax_8cpp =
       [ "SPELL_SURGE_OF_DARKNESS", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b0e2ea70a80eed9f0fce8465c41d189", null ],
       [ "SPELL_MARK_OF_THE_FACELESS_AURA", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a1d782cbdf316e946f4037a56349d436b", null ],
       [ "SPELL_MARK_OF_THE_FACELESS_EFFECT", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a9c07a1691f8b921f4bc889a7171ae15d", null ],
+      [ "SPELL_CLEAR_DEMONIC_CIRCLE", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1aa84e1b8ced797f2eaa3c73a4c9256e41", null ],
       [ "SPELL_AURA_OF_DESPAIR_1", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a90f62045abb14684c5f6a65a158611b2", null ],
       [ "SPELL_AURA_OF_DESPAIR_2", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a2b6e254f064c967dfc464486d15967f4", null ],
       [ "SPELL_CORRUPTED_RAGE", "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a1eb8abb1e30c6eb7e0067186567e9440", null ],
@@ -65,7 +63,9 @@ var boss__general__vezax_8cpp =
       [ "SAY_HARDMODE", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8aecf72087c7e1bd8acdabb2785154c48f", null ],
       [ "SAY_EMOTE_ANIMUS", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a92bcf11d1648ecebb99c4921e08f4c9b", null ],
       [ "SAY_EMOTE_BARRIER", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a864797f8afd535b198ea73acf5c497f7", null ],
-      [ "SAY_EMOTE_SURGE_OF_DARKNESS", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a3c092c4e1e18462abea4cf84af87bfab", null ]
+      [ "SAY_EMOTE_SURGE_OF_DARKNESS", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a3c092c4e1e18462abea4cf84af87bfab", null ],
+      [ "SAY_EMOTE_BARRIER_FADE", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8aeb5ca78fb483332aeeda2901d0f0929f", null ],
+      [ "SAY_EMOTE_VAPORS", "d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8ac51fb1605f030790acd10ceedb8aa954", null ]
     ] ],
     [ "AddSC_boss_vezax", "d8/d93/boss__general__vezax_8cpp.html#a5c6fe86ca515a67bca7dfaf2465a4b04", null ]
 ];

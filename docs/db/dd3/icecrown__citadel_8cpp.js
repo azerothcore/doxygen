@@ -106,6 +106,12 @@ var icecrown__citadel_8cpp =
       [ "ACTION_EVADE", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa1efd1ebb79948c07da234803c164e84a", null ],
       [ "ACTION_COMBAT", "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa4907fe62657ba25ce598bf0a49f8a693", null ]
     ] ],
+    [ "CrimsonHallTrashGuids", "db/dd3/icecrown__citadel_8cpp.html#a53cdd2a2014407ecfb8257a3d7205e54", [
+      [ "GUID_DARKFALLEN_ADVISOR", "db/dd3/icecrown__citadel_8cpp.html#a53cdd2a2014407ecfb8257a3d7205e54a465662fed3f68186581cab425e4a9864", null ],
+      [ "GUID_DARKFALLEN_ARCHMAGE", "db/dd3/icecrown__citadel_8cpp.html#a53cdd2a2014407ecfb8257a3d7205e54ae27f17d06a5a13c96dca001eb3e05c63", null ],
+      [ "GUID_DARKFALLEN_BLOOD_KNIGHT", "db/dd3/icecrown__citadel_8cpp.html#a53cdd2a2014407ecfb8257a3d7205e54a9d9a4d39a1a97d3d07e74be1015f038e", null ],
+      [ "GUID_DARKFALLEN_NOBLE", "db/dd3/icecrown__citadel_8cpp.html#a53cdd2a2014407ecfb8257a3d7205e54ae53a36872f0eac52f5c3260561bd858f", null ]
+    ] ],
     [ "DataTypesICC", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1", [
       [ "DATA_DAMNED_KILLS", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92", null ],
       [ "DATA_GUID", "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1ad054869e4092482dae7634f1f9808a02", null ]
@@ -310,7 +316,9 @@ var icecrown__citadel_8cpp =
       [ "SAY_CROK_DEATH", "db/dd3/icecrown__citadel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abd9da536d8b1c0225bc2d059242ed03f", null ]
     ] ],
     [ "AddSC_icecrown_citadel", "db/dd3/icecrown__citadel_8cpp.html#a7f5b85629316855f1d0b3e872e130015", null ],
+    [ "CALL_FOR_HELP_RADIUS", "db/dd3/icecrown__citadel_8cpp.html#a81e36578e597bd9fb0755cd2fcd3ffbd", null ],
     [ "DarkFallensEmotes", "db/dd3/icecrown__citadel_8cpp.html#afe0733c2d9edfa91aaeaafa9f4dc7a10", null ],
+    [ "ORB_CONTROLLER_MINION_RANGE", "db/dd3/icecrown__citadel_8cpp.html#a30a2362b1bded5cf46f29a0dd6e5ffa2", null ],
     [ "sesi_spells", "db/dd3/icecrown__citadel_8cpp.html#a32363ea6863e46b9be021fd6a1bf45a4", null ],
     [ "VengefulWP", "db/dd3/icecrown__citadel_8cpp.html#a1d016ea84659aa4d877239d20bf2f980", null ]
 ];

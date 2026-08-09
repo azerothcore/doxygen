@@ -19,7 +19,6 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "SetBossState", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a10f5aa7c08038cd156461bf0f84a4e0e", null ],
     [ "setChestsLootable", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5ef40665d44e1088042161ee9aa7f057", null ],
     [ "SetData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a73985b9658bd3091da745aecad9c4dff", null ],
-    [ "SpawnHodirChests", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a8f797cc9fd11c4483cf900e11b400a7a", null ],
     [ "SpawnLeviathanEncounterVehicles", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5088f3f2083ec3ed5ba3466abea76252", null ],
     [ "Update", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a10e90c445612261f1433d9323d4b6469", null ],
     [ "_algalonResummonPending", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab8ab0683dd5ba257a34d7f900bc06dae", null ],
@@ -30,7 +29,5 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "_leviathanVisualTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ac97df295fdc05b815ccf064d9a26e9", null ],
     [ "_mimironTramUsed", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5cde0ab5d71242b2f84915f873f46ce2", null ],
     [ "_repairSGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a2e4fba6a0015e0603ed822a6e1c45de8", null ],
-    [ "hardChestPosition", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e", null ],
-    [ "normalChestPosition", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aef7c9ab9977a037f1021efd9fe83e921", null ],
     [ "triggerAncientGatePosition", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a1aa6125e8effdb01b9012801ce45360f", null ]
 ];
