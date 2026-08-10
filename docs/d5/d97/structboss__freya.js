@@ -19,8 +19,7 @@ var structboss__freya =
     [ "_deforestation", "d5/d97/structboss__freya.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
     [ "_elderGUID", "d5/d97/structboss__freya.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
     [ "_lumberjacked", "d5/d97/structboss__freya.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "d5/d97/structboss__freya.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
     [ "_setPermutation", "d5/d97/structboss__freya.html#a987265a1775e47ac50e873c38cc1a753", null ],
     [ "_spawnedAmount", "d5/d97/structboss__freya.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "d5/d97/structboss__freya.html#ae141a7cf3554c606738774fe96a371dc", null ]
+    [ "_trioDown", "d5/d97/structboss__freya.html#afbf5fcebd50f968b1171c443818a3949", null ]
 ];

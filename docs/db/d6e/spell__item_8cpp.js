@@ -84,7 +84,6 @@ var spell__item_8cpp =
     [ "spell_item_socrethars_stone", "d6/d70/classspell__item__socrethars__stone.html", "d6/d70/classspell__item__socrethars__stone" ],
     [ "spell_item_demon_broiled_surprise", "d8/dae/classspell__item__demon__broiled__surprise.html", "d8/dae/classspell__item__demon__broiled__surprise" ],
     [ "spell_item_complete_raptor_capture", "dd/de6/classspell__item__complete__raptor__capture.html", "dd/de6/classspell__item__complete__raptor__capture" ],
-    [ "spell_item_impale_leviroth", "de/dcb/classspell__item__impale__leviroth.html", "de/dcb/classspell__item__impale__leviroth" ],
     [ "spell_item_brewfest_mount_transformation", "db/d81/classspell__item__brewfest__mount__transformation.html", "db/d81/classspell__item__brewfest__mount__transformation" ],
     [ "spell_item_brewfest_hops", "db/db0/classspell__item__brewfest__hops.html", "db/db0/classspell__item__brewfest__hops" ],
     [ "spell_item_nitro_boots", "d9/d5c/classspell__item__nitro__boots.html", "d9/d5c/classspell__item__nitro__boots" ],
@@ -433,10 +432,6 @@ var spell__item_8cpp =
     ] ],
     [ "IdolOfLongevity", "db/d6e/spell__item_8cpp.html#a3935c77646ac7740d612f52710df36d1", [
       [ "SPELL_HEALING_TOUCH_MANA", "db/d6e/spell__item_8cpp.html#a3935c77646ac7740d612f52710df36d1a7d9486fadf104f16827d26808c82a5ba", null ]
-    ] ],
-    [ "ImpaleLeviroth", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063", [
-      [ "NPC_LEVIROTH", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063a31043daa70bd527bed8ae1ddb4815d50", null ],
-      [ "SPELL_LEVIROTH_SELF_IMPALE", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063a418a0c50577664404ba564a5dc8b9b3e", null ]
     ] ],
     [ "InstantStatue", "db/d6e/spell__item_8cpp.html#a5009822b241b572e55f82d5ca8081af7", [
       [ "CREATURE_INSTANT_STATUE_PEDESTAL", "db/d6e/spell__item_8cpp.html#a5009822b241b572e55f82d5ca8081af7a2c9b0145ffa6b882a4dcba9adf08eb04", null ],

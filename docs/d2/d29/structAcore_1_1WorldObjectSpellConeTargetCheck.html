@@ -223,9 +223,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9203</span>        : <a class="code hl_function" href="../../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a9fee9dd82aa2889eb82f73e3ca64e751">WorldObjectSpellAreaTargetCheck</a>(range, caster, caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>(coneAngle)</div>
-<div class="line"><span class="lineno"> 9204</span>    {</div>
-<div class="line"><span class="lineno"> 9205</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9205</span>        : <a class="code hl_function" href="../../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a9fee9dd82aa2889eb82f73e3ca64e751">WorldObjectSpellAreaTargetCheck</a>(range, caster, caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>(coneAngle)</div>
+<div class="line"><span class="lineno"> 9206</span>    {</div>
+<div class="line"><span class="lineno"> 9207</span>    }</div>
 <div class="ttc" id="astructAcore_1_1WorldObjectSpellAreaTargetCheck_html_a9fee9dd82aa2889eb82f73e3ca64e751"><div class="ttname"><a href="../../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a9fee9dd82aa2889eb82f73e3ca64e751">Acore::WorldObjectSpellAreaTargetCheck::WorldObjectSpellAreaTargetCheck</a></div><div class="ttdeci">WorldObjectSpellAreaTargetCheck(float range, Position const *position, Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList, Acore::WorldObjectSpellAreaTargetSearchReason searchReason=Acore::WorldObjectSpellAreaTargetSearchReason::Area, SpellTargetReferenceTypes referenceType=TARGET_REFERENCE_TYPE_CASTER)</div><div class="ttdef"><b>Definition</b> Spell.cpp:9139</div></div>
 <div class="ttc" id="astructAcore_1_1WorldObjectSpellConeTargetCheck_html_a8f946789292320ea8b205dec5d1e1975"><div class="ttname"><a href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">Acore::WorldObjectSpellConeTargetCheck::_coneAngle</a></div><div class="ttdeci">float _coneAngle</div><div class="ttdef"><b>Definition</b> Spell.h:848</div></div>
 </div><!-- fragment -->
@@ -247,24 +247,24 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9208</span>    {</div>
-<div class="line"><span class="lineno"> 9209</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11">SPELL_ATTR0_CU_CONE_BACK</a>))</div>
-<div class="line"><span class="lineno"> 9210</span>        {</div>
-<div class="line"><span class="lineno"> 9211</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab1245a01671d8012b9aee4c915028900">isInBack</a>(target, <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
-<div class="line"><span class="lineno"> 9212</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9213</span>        }</div>
-<div class="line"><span class="lineno"> 9214</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c">SPELL_ATTR0_CU_CONE_LINE</a>))</div>
-<div class="line"><span class="lineno"> 9215</span>        {</div>
-<div class="line"><span class="lineno"> 9216</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>(), <a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>()))</div>
-<div class="line"><span class="lineno"> 9217</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9218</span>        }</div>
-<div class="line"><span class="lineno"> 9219</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 9220</span>        {</div>
-<div class="line"><span class="lineno"> 9221</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a058c680a210cfa568f03a78d827ce734">IsWithinBoundaryRadius</a>(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>()) &amp;&amp; !<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a00db62e79f895c1fe3893c95ee30b6fe">isInFront</a>(target, <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
-<div class="line"><span class="lineno"> 9222</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9223</span>        }</div>
-<div class="line"><span class="lineno"> 9224</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">WorldObjectSpellAreaTargetCheck::operator ()</a>(target);</div>
-<div class="line"><span class="lineno"> 9225</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9210</span>    {</div>
+<div class="line"><span class="lineno"> 9211</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11">SPELL_ATTR0_CU_CONE_BACK</a>))</div>
+<div class="line"><span class="lineno"> 9212</span>        {</div>
+<div class="line"><span class="lineno"> 9213</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ab1245a01671d8012b9aee4c915028900">isInBack</a>(target, <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
+<div class="line"><span class="lineno"> 9214</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9215</span>        }</div>
+<div class="line"><span class="lineno"> 9216</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c">SPELL_ATTR0_CU_CONE_LINE</a>))</div>
+<div class="line"><span class="lineno"> 9217</span>        {</div>
+<div class="line"><span class="lineno"> 9218</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27">HasInLine</a>(target, target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>(), <a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>()))</div>
+<div class="line"><span class="lineno"> 9219</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9220</span>        }</div>
+<div class="line"><span class="lineno"> 9221</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 9222</span>        {</div>
+<div class="line"><span class="lineno"> 9223</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a058c680a210cfa568f03a78d827ce734">IsWithinBoundaryRadius</a>(target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>()) &amp;&amp; !<a class="code hl_variable" href="../../de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a00db62e79f895c1fe3893c95ee30b6fe">isInFront</a>(target, <a class="code hl_variable" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975">_coneAngle</a>))</div>
+<div class="line"><span class="lineno"> 9224</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9225</span>        }</div>
+<div class="line"><span class="lineno"> 9226</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4">WorldObjectSpellAreaTargetCheck::operator ()</a>(target);</div>
+<div class="line"><span class="lineno"> 9227</span>    }</div>
 <div class="ttc" id="aSpellInfo_8h_html_a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11"><div class="ttname"><a href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da6f734acb36c68fcc4881a4d4e844ee11">SPELL_ATTR0_CU_CONE_BACK</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_CONE_BACK</div><div class="ttdef"><b>Definition</b> SpellInfo.h:178</div></div>
 <div class="ttc" id="aSpellInfo_8h_html_a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c"><div class="ttname"><a href="../../d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c">SPELL_ATTR0_CU_CONE_LINE</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_CONE_LINE</div><div class="ttdef"><b>Definition</b> SpellInfo.h:179</div></div>
 <div class="ttc" id="aclassObject_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition</b> Object.h:210</div></div>
@@ -295,7 +295,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09207">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09209">operator()()</a>.</p>
 
 </div>
 </div>
@@ -309,7 +309,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html">WorldObjectSpellConeTargetCheck</a></li>
-    <li class="footer">Generated on Sun Aug 9 2026 06:47:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Aug 10 2026 07:23:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

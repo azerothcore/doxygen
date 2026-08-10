@@ -1,5 +1,8 @@
 var NAVTREEINDEX11 =
 {
+"d0/d7e/structRealm.html#af77452a4cf7f632d692079615af4737c":[7,0,2528,12],
+"d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html":[7,0,720,0],
+"d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#a081fed07ce51e3bfd7a4ce051a4d79ee":[7,0,720,0,3],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#a446de23b703512497888b42ff781da39":[7,0,720,0,6],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#a51a189e6f1f6c9c6948194d3181a7426":[7,0,720,0,1],
 "d0/d7e/structboss__skadi__grauf_1_1boss__skadi__graufAI.html#a5c49a178b6729cd555c38e106deeb0a5":[7,0,720,0,10],
@@ -221,9 +224,9 @@ var NAVTREEINDEX11 =
 "d0/d83/classat__twin__emperors.html":[7,0,259],
 "d0/d83/classat__twin__emperors.html#a343d482857fa0a45c42f593e591f7754":[7,0,259,0],
 "d0/d83/classat__twin__emperors.html#a466ba3bbf21b33f064a056eef63291ce":[7,0,259,1],
-"d0/d83/classspell__gen__use__spell__base__level__check.html":[7,0,3154],
-"d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[7,0,3154,0],
-"d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[7,0,3154,1],
+"d0/d83/classspell__gen__use__spell__base__level__check.html":[7,0,3155],
+"d0/d83/classspell__gen__use__spell__base__level__check.html#a2d0e411f3b4a9efed35ee34c7bf03252":[7,0,3155,0],
+"d0/d83/classspell__gen__use__spell__base__level__check.html#a560ff22e718e8a975a2e2dc2340da917":[7,0,3155,1],
 "d0/d84/classspell__novos__despawn__crystal__handler.html":[7,0,3714],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a0efef7644706940e3929ce99cd162c91":[7,0,3714,2],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a51064b3a11f453724ae0879c80eaf8df":[7,0,3714,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d86/classAddonChannelCommandHandler.html#a85407d3478890e8f4c43377de7eb0993":[7,0,133,13],
 "d0/d86/classAddonChannelCommandHandler.html#a8ece640cb81b50ed8e0b90c40ff71f47":[7,0,133,7],
 "d0/d86/classAddonChannelCommandHandler.html#a9c87777b4249795b41163b2294f44746":[7,0,133,11],
-"d0/d86/classAddonChannelCommandHandler.html#aa3a06fffce2472b941163d062f1b3569":[7,0,133,6],
-"d0/d86/classAddonChannelCommandHandler.html#aae585fad45749fd46fa28d36fdad9760":[7,0,133,0],
-"d0/d86/classAddonChannelCommandHandler.html#abd1bb7d3ca143479bd50d908dc1f4136":[7,0,133,3],
-"d0/d86/classAddonChannelCommandHandler.html#ac1ed346507097817b3f8e00f0ae657a0":[7,0,133,9]
+"d0/d86/classAddonChannelCommandHandler.html#aa3a06fffce2472b941163d062f1b3569":[7,0,133,6]
 };

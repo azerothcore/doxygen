@@ -27,6 +27,8 @@ var zone__borean__tundra_8cpp =
     [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
     [ "spell_soul_deflection", "df/d1d/classspell__soul__deflection.html", "df/d1d/classspell__soul__deflection" ],
     [ "spell_bloodspore_haze", "d4/d7b/classspell__bloodspore__haze.html", "d4/d7b/classspell__bloodspore__haze" ],
+    [ "spell_q11652_rescue_injured_soldier", "d8/dd8/classspell__q11652__rescue__injured__soldier.html", "d8/dd8/classspell__q11652__rescue__injured__soldier" ],
+    [ "spell_q11652_soldier_rescued", "d8/d35/classspell__q11652__soldier__rescued.html", "d8/d35/classspell__q11652__soldier__rescued" ],
     [ "npc_dusk", "de/d33/structnpc__dusk.html", "de/d33/structnpc__dusk" ],
     [ "ArcaneChains", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338dae", [
       [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daea281a473ba44c139884440cbe38ad8de0", null ],
@@ -120,6 +122,10 @@ var zone__borean__tundra_8cpp =
       [ "NPC_WARMAGE_HOLLISTER", "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfe2b0c4bbf619124ae41cf241a92d91", null ],
       [ "NPC_WARMAGE_CALANDRA", "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfef4e3e9d0c3012b4a06a114c82e320", null ],
       [ "NPC_WARMAGE_WATKINS", "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5caf5c6cb25eec3d72f292188009227c607", null ]
+    ] ],
+    [ "RescueInjuredSoldier", "d3/d09/zone__borean__tundra_8cpp.html#a037d10edadc628a819668d1423dce3d3", [
+      [ "SPELL_SOLDIER_RESCUED", "d3/d09/zone__borean__tundra_8cpp.html#a037d10edadc628a819668d1423dce3d3a0d90e09d08c336fc0b8ae5d148d2688d", null ],
+      [ "SPELL_SOLDIER_RESCUED_CREDIT", "d3/d09/zone__borean__tundra_8cpp.html#a037d10edadc628a819668d1423dce3d3a7270608394b563fe8e6e948994a96b91", null ]
     ] ],
     [ "Sinkhole", "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4", [
       [ "GO_EXPLOSIVES_CART", "d3/d09/zone__borean__tundra_8cpp.html#abd65518da8e27d236b233422d5e9a8c4aedd9d6ec4a17069adbcf503754f4c1c0", null ],
