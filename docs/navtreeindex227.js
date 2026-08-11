@@ -1,6 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[5,0,0,56,0],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[7,0,0,44,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[5,0,0,56,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a985d622243d5c7c6c91eb01377b0f91b":[7,0,0,44,3],
@@ -13,18 +12,18 @@ var NAVTREEINDEX227 =
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966":[7,0,3413,3],
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429":[7,0,3413,0],
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a8753419b2fa1b1bb96a08bf54995e82c":[7,0,3413,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,34,10,9],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[7,0,13,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[7,0,13,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[7,0,13,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[7,0,13,10,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
 "d8/d60/structSavedItem.html":[7,0,2561],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[7,0,2561,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[7,0,2561,1],
@@ -159,8 +158,8 @@ var NAVTREEINDEX227 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[7,0,2637,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[7,0,2637,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2637,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3552],
@@ -249,5 +248,6 @@ var NAVTREEINDEX227 =
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[7,0,3821,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[7,0,3821,3],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[7,0,3821,1],
-"d8/d71/classspell__sindragosa__icy__grip.html":[7,0,4150]
+"d8/d71/classspell__sindragosa__icy__grip.html":[7,0,4150],
+"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[7,0,4150,2]
 };

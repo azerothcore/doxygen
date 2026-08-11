@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9d8c8977e3c03e8ca2edc816e4261268":[8,0,0,0,1,3,5,6,10,77,27],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e4ece37bc636b2ce41d7ba262e9643c":[8,0,0,0,1,3,5,6,10,77,19],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa38d3d09dae292b8956519db4243dae8":[8,0,0,0,1,3,5,6,10,77,11],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aac40b474d094835a1420817fde95c195":[8,0,0,0,1,3,5,6,10,77,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/d7e/classMapGrid.html#af342e8785feea680c8c7438cce7b5798":[7,0,1526,4],
 "da/d7e/classMapGrid.html#afb20d5812d84229b9afd77527e111fd0":[7,0,1526,11],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html":[7,0,3171],
-"da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[7,0,3171,1],
-"da/d7e/classspell__gnomeregan__radiation__bolt.html#a5f30f2af73eae022b9596939b2f88c0b":[7,0,3171,0]
+"da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[7,0,3171,1]
 };

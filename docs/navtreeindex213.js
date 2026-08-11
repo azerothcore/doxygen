@@ -1,6 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d7/db0/classMap.html#a466d8c86e43fa27805ef7133e0d1bdfa":[7,0,1516,104],
 "d7/db0/classMap.html#a47a77c5d24898011293372e4e17e8be8":[7,0,1516,207],
 "d7/db0/classMap.html#a47f4831d0426fda93b1384779cd6d9bb":[7,0,1516,285],
 "d7/db0/classMap.html#a47f9d54c257dbad88ea8cc07ad9d7668":[7,0,1516,151],
@@ -249,5 +248,6 @@ var NAVTREEINDEX213 =
 "d7/db1/structRepSpilloverTemplate.html#a1ffb9cddf950edfb17e9779691b09f07":[7,0,2541,1],
 "d7/db1/structRepSpilloverTemplate.html#aaad6e04ef66264f040ddd91ae7f4e04b":[7,0,2541,0],
 "d7/db1/structRepSpilloverTemplate.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4":[7,0,2541,2],
-"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[7,0,2233,0]
+"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[7,0,2233,0],
+"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a025d39c04e864ebd77f4f930ec20b1e5":[7,0,2233,0,0]
 };

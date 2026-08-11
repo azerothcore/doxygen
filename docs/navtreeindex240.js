@@ -1,6 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[7,0,242,0],
 "d8/df0/classat__lady__deathwhisper__entrance.html#a769c838c94a88af5492057909d88f3de":[7,0,242,1],
 "d8/df1/classObjectRegistry.html":[7,0,2353],
 "d8/df1/classObjectRegistry.html#a2734a0e6001f597b43e006bc9d84a6b1":[7,0,2353,2],
@@ -211,10 +210,10 @@ var NAVTREEINDEX240 =
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[7,0,2374,1],
 "d8/dfc/CreatureAIRegistry_8h.html":[8,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[8,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
 "d8/dfc/structAcore_1_1unary__function.html":[5,0,0,123],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
+"d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[7,0,0,111,1],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[7,0,0,111,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX240 =
 "d8/dfd/boss__jindo_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[8,0,0,0,1,3,2,15,6,9],
 "d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[8,0,0,0,1,3,2,15,6,7],
 "d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,15,6,7,0],
-"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,15,6,6]
+"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,15,6,6],
+"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1153ef20f3d1171c2fc54495b84d29e9":[8,0,0,0,1,3,2,15,6,6,3]
 };

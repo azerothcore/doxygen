@@ -1,15 +1,12 @@
 var NAVTREEINDEX384 =
 {
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a37fbb64246708db0e7c9788d8f06c04b":[7,0,6,8,4],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a37fbb64246708db0e7c9788d8f06c04b":[5,0,20,8,4],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a4dfcfc16d4c854bc210d8c6827d27ba7":[7,0,6,8,2],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a4dfcfc16d4c854bc210d8c6827d27ba7":[5,0,20,8,2],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[7,0,6,8,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[5,0,20,8,8],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[7,0,6,8,1],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[7,0,6,8,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[5,0,20,8,1],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,20,8,0],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[7,0,6,8,1],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[7,0,6,8,0],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,20,8,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[7,0,6,8,6],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[5,0,20,8,6],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[7,0,6,8,7],
@@ -71,8 +68,8 @@ var NAVTREEINDEX384 =
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[7,0,0,70],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[7,0,0,70,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,0,82,4],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,0,82,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[7,0,0,70,3],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,0,82,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[7,0,0,70,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,0,82,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[7,0,0,70,2],
@@ -184,8 +181,8 @@ var NAVTREEINDEX384 =
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[7,0,13,4,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,1,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[7,0,13,4,1,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,1,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,1,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[7,0,13,4,1,1],
 "de/d58/classinstance__icecrown__citadel.html":[7,0,1346],
@@ -249,5 +246,8 @@ var NAVTREEINDEX384 =
 "de/d59/LFG_8h.html#a7f47ec56c1412d2da0ff629b760e7f5f":[8,0,0,0,1,2,15,1,2],
 "de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48":[8,0,0,0,1,2,15,1,12],
 "de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48a1ee6c66f03d73ada1266e243a7835ce1":[8,0,0,0,1,2,15,1,12,0],
-"de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48a65a06ce48e454a1721c8c394594ce537":[8,0,0,0,1,2,15,1,12,1]
+"de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48a65a06ce48e454a1721c8c394594ce537":[8,0,0,0,1,2,15,1,12,1],
+"de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48a7d5a552c4731932b74db36b62e6da10e":[8,0,0,0,1,2,15,1,12,3],
+"de/d59/LFG_8h.html#a9c710ddffaf321c88671cbef76241a48ab27907ebbf74ff9165edaac702da279b":[8,0,0,0,1,2,15,1,12,2],
+"de/d59/LFG_8h.html#a9d097d73fe8f096de2098ac74022b643":[8,0,0,0,1,2,15,1,18]
 };

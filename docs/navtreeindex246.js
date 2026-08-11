@@ -1,6 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97":[8,0,0,0,1,2,38,0,22,2,0],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca171eb504c992f47238f139ee97e3a44c":[8,0,0,0,1,2,38,0,22,2,6],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca1ade505fcc41e631580a6e0e6256a034":[8,0,0,0,1,2,38,0,22,2,9],
 "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24":[8,0,0,0,1,2,38,0,22,2,1],
@@ -204,18 +203,18 @@ var NAVTREEINDEX246 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[7,0,0,115,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3690],
@@ -249,5 +248,6 @@ var NAVTREEINDEX246 =
 "d9/d5e/structnpc__stolen__soul.html#a6a1d6da5a448fd4b8910835d3a346e3a":[7,0,2186,2],
 "d9/d5e/structnpc__stolen__soul.html#a6efbe90928119902e4b5a7148b12cfac":[7,0,2186,8],
 "d9/d5e/structnpc__stolen__soul.html#a7bf369dd943ee36600a364d56b85db5a":[7,0,2186,5],
-"d9/d5e/structnpc__stolen__soul.html#a84a0bb8320b2332545748e010d855884":[7,0,2186,0]
+"d9/d5e/structnpc__stolen__soul.html#a84a0bb8320b2332545748e010d855884":[7,0,2186,0],
+"d9/d5e/structnpc__stolen__soul.html#a9f18ffbb42c988067b6dfa8355a4aba6":[7,0,2186,3]
 };

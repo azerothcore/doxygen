@@ -1,6 +1,5 @@
 var NAVTREEINDEX237 =
 {
-"d8/dd4/classspell__grobbulus__slime__spray.html":[7,0,3178],
 "d8/dd4/classspell__grobbulus__slime__spray.html#a87b57541a36d711ecbca6f485915c9ab":[7,0,3178,1],
 "d8/dd4/classspell__grobbulus__slime__spray.html#aa6302d9372bf6ea514d49d8c8e280781":[7,0,3178,0],
 "d8/dd4/classspell__grobbulus__slime__spray.html#ad7290a8d786f64fdf7b5b04a7770ff6d":[7,0,3178,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX237 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a67ffca532bd15bd7e869ac2ad1ad7207":[8,0,0,0,1,3,5,24,23,4],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a6de3a0b72b50d4da774908bcb02dce55":[8,0,0,0,1,3,5,24,23,13],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a6e7c042ec9d00dd714a20c64112cffab":[8,0,0,0,1,3,5,24,23,15],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a7825a6001d537deca8c661b6fc01f63a":[8,0,0,0,1,3,5,24,23,18]
+"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a7825a6001d537deca8c661b6fc01f63a":[8,0,0,0,1,3,5,24,23,18],
+"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a8524632b1d6a0ac718fd4ea7dc149866":[8,0,0,0,1,3,5,24,23,23]
 };

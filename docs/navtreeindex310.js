@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/dd5/classCreature.html#adb0289a582b4e95a3fb1141d9193aac6":[7,0,942,94],
 "db/dd5/classCreature.html#adbdbb5b9dc6da1d57c9c3de5fc9f7f7d":[7,0,942,104],
 "db/dd5/classCreature.html#adc4f35223eb98a4ce674a2c4b7e5b7bf":[7,0,942,161],
 "db/dd5/classCreature.html#adccf64447a9b0e22bed1b2f3b68b9ad9":[7,0,942,274],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41":[8,0,0,0,1,3,2,30,26],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a0d146a11bd98f9f335ac6fffee8a182b":[8,0,0,0,1,3,2,30,26,10],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5":[8,0,0,0,1,3,2,30,26,9],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb":[8,0,0,0,1,3,2,30,26,8],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a384b7a45547dd7ea79d9a5a31a1ff603":[8,0,0,0,1,3,2,30,26,6]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb":[8,0,0,0,1,3,2,30,26,8]
 };

@@ -1,9 +1,10 @@
 var NAVTREEINDEX280 =
 {
-"da/dbe/structAcore_1_1UnitListSearcher.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d":[7,0,0,114,1],
+"da/dbe/structAcore_1_1UnitListSearcher.html#a5fddd281a9f9cd10cf3948d4bf7b626f":[5,0,0,126,3],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d":[5,0,0,126,1],
-"da/dbe/structAcore_1_1UnitListSearcher.html#a92f9b0407e609b6c61f10d93aa49912f":[7,0,0,114,2],
+"da/dbe/structAcore_1_1UnitListSearcher.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d":[7,0,0,114,1],
 "da/dbe/structAcore_1_1UnitListSearcher.html#a92f9b0407e609b6c61f10d93aa49912f":[5,0,0,126,2],
+"da/dbe/structAcore_1_1UnitListSearcher.html#a92f9b0407e609b6c61f10d93aa49912f":[7,0,0,114,2],
 "da/dbe/structboss__magmus.html":[7,0,619],
 "da/dbe/structboss__magmus.html#a810cd11145957fe02f2099e9db7e59c8":[7,0,619,1],
 "da/dbe/structboss__magmus.html#aacd115473f44148837153a3a5842748c":[7,0,619,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX280 =
 "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91acedb9d51561c12e42f385009d07e2207":[8,0,0,0,1,2,16,7,5,123,0],
 "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91ad3c6af56c3c0aa946a3b53a0fb05078c":[8,0,0,0,1,2,16,7,5,123,1],
 "da/dbf/Player_8h.html#a7e844fbb704e6a04c7fc7d5efe39433e":[8,0,0,0,1,2,16,7,5,50],
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0c":[8,0,0,0,1,2,16,7,5,88],
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec":[8,0,0,0,1,2,16,7,5,88,1]
+"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0c":[8,0,0,0,1,2,16,7,5,88]
 };

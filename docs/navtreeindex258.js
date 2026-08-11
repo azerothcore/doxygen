@@ -1,9 +1,8 @@
 var NAVTREEINDEX258 =
 {
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,34,8,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[7,0,13,8,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,34,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[7,0,13,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[7,0,13,8,8,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX258 =
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a3d1611870945cd0c8cd7d4e7728cfd84":[7,0,1362,0,1],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a567ac5d9a17514ede5b84c5d78204072":[7,0,1362,0,3],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a74809429d3d2b1db5374dacf34d8a1b7":[7,0,1362,0,7],
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[7,0,1362,0,4]
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[7,0,1362,0,4],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[7,0,1362,0,6]
 };

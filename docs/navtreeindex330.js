@@ -1,8 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6f518359ddf69c0da421bfcbff6b769b":[8,0,0,0,2,2,0,5,0,49],
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a79c8e85eb8522e0bf11a7807ddc64da6":[8,0,0,0,2,2,0,5,0,10],
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a7b1fa94558f76ffb4878740371f8302f":[8,0,0,0,2,2,0,5,0,22],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a89806dd9604bf893e1be2c882c38b253":[8,0,0,0,2,2,0,5,0,11],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a972b708b984df50a1566665cfce9bf51":[8,0,0,0,2,2,0,5,0,12],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a978702830277663c6f4c847541585260":[8,0,0,0,2,2,0,5,0,32],
@@ -130,8 +127,8 @@ var NAVTREEINDEX330 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX330 =
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,0,8,0,40],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[7,0,446,0],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a3a0cd44c30eacac26bcfd1bbe2a18086":[7,0,446,0,4],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a75cbf6a164ab4337f86b600541c563f2":[7,0,446,0,3]
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#a75cbf6a164ab4337f86b600541c563f2":[7,0,446,0,3],
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aad8f28b7e45a7897cb758dff90aa46d8":[7,0,446,0,0],
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#abd9bef8fd2bd10a520d9569351bd925b":[7,0,446,0,6],
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#adb9ad99bc784a76da238ed2ee694d4f2":[7,0,446,0,5]
 };

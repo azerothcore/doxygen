@@ -1,5 +1,6 @@
 var NAVTREEINDEX265 =
 {
+"da/d2a/classPathMovementBase.html#a6b76e1527ed69ff631d7a72c309f264a":[7,0,2410,0],
 "da/d2a/classPathMovementBase.html#a7ceb52928f2198392980c3926516fd82":[7,0,2410,3],
 "da/d2a/classPathMovementBase.html#a953fcda0cf7764f659fc5a4a19408550":[7,0,2410,1],
 "da/d2a/classspell__delusions__of__jindo.html":[7,0,2793],
@@ -248,6 +249,5 @@ var NAVTREEINDEX265 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab4e25ba6068fba0c5d7c5ac8adbbf8fa":[8,0,0,0,1,2,41,0,0,6,56],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab6c4d806c60e94fec189c27a7a205576":[8,0,0,0,1,2,41,0,0,6,227],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7aebcdfc938aad8e15f24f026994dbb":[8,0,0,0,1,2,41,0,0,6,298],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08":[8,0,0,0,1,2,41,0,0,6,69],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7caec06da12516fc003278d36a7d07a":[8,0,0,0,1,2,41,0,0,6,101]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08":[8,0,0,0,1,2,41,0,0,6,69]
 };

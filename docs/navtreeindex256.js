@@ -1,6 +1,5 @@
 var NAVTREEINDEX256 =
 {
-"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3adc9354eda690dd3336b3c8598210b005":[8,0,0,0,1,3,5,9,0,3,5,5],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72d":[8,0,0,0,1,3,5,9,0,3,2],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0":[8,0,0,0,1,3,5,9,0,3,2,3],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da5b119756e7a925c1c23cfc53883506a7":[8,0,0,0,1,3,5,9,0,3,2,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX256 =
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a847c1db1bf92baeba47260ffbacbcdd9":[7,0,4334,5],
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a8c888218fde2176a3c3b5cb97fdce5de":[7,0,4334,2],
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#a9241ab85d616f4f17c52b3730c5434e1":[7,0,4334,6],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html#a9e1a5a07db18f6ff238276f9e1c44321":[7,0,4334,4]
+"d9/dd1/classspell__warl__improved__demonic__tactics.html#a9e1a5a07db18f6ff238276f9e1c44321":[7,0,4334,4],
+"d9/dd1/classspell__warl__improved__demonic__tactics.html#abd23b7e24d9688dd4b9cbe70cdd45d75":[7,0,4334,0]
 };

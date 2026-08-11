@@ -1,8 +1,5 @@
 var NAVTREEINDEX411 =
 {
-"df/d71/boss__sartharion_8cpp.html#a652af89c526306be62c634b9f03db993":[8,0,0,0,1,3,5,1,0,0,15],
-"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,5,1,0,0,11],
-"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca03fc4d23a88437ec87e5204eadc5e8d1":[8,0,0,0,1,3,5,1,0,0,11,6],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0cc2e07c558bd96e8b2a0cee3a1858b2":[8,0,0,0,1,3,5,1,0,0,11,3],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0e04c9e676c9885a1a0bdb7fe5608933":[8,0,0,0,1,3,5,1,0,0,11,7],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0ec96f1c508d36b39e9c829ff7336fe2":[8,0,0,0,1,3,5,1,0,0,11,8],
@@ -131,8 +128,8 @@ var NAVTREEINDEX411 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2873,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2873,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2873,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2829],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2829,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2829,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX411 =
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a628abde60b661eb144377f12c792b331":[8,0,0,0,1,3,10,20,0,8],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a6e4a87ae8612d4f5f219c534f0601588":[8,0,0,0,1,3,10,20,0,13],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a71ba8526f6b6da8d27559d08da3a043d":[8,0,0,0,1,3,10,20,0,3],
-"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a995774e8491af931828dba45955065ff":[8,0,0,0,1,3,10,20,0,15]
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a995774e8491af931828dba45955065ff":[8,0,0,0,1,3,10,20,0,15],
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042a9a576d577517ddbcaeb801b9833b7f84":[8,0,0,0,1,3,10,20,0,6],
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042aa3e2aa342e976c9298df23edb99e7d01":[8,0,0,0,1,3,10,20,0,11],
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042ac1182a82039ec21248a14b0dacd5fdf9":[8,0,0,0,1,3,10,20,0,9]
 };

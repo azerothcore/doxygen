@@ -1,6 +1,5 @@
 var NAVTREEINDEX247 =
 {
-"d9/d5e/structnpc__stolen__soul.html#a9f18ffbb42c988067b6dfa8355a4aba6":[7,0,2186,3],
 "d9/d5e/structnpc__stolen__soul.html#ab62526916f0ccd681383d37d19d94ccc":[7,0,2186,7],
 "d9/d5e/structnpc__stolen__soul.html#abcfed6b9b46ce48a15b31d062a1618f4":[7,0,2186,1],
 "d9/d5e/structnpc__stolen__soul.html#ade19b9cb41a674f6bd049a621970aeff":[7,0,2186,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX247 =
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[5,0,34,8,14],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a0116f5d02f18bf1a315fbf81b6467239":[5,0,34,8,14,2],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a0116f5d02f18bf1a315fbf81b6467239":[7,0,13,8,14,2],
+"d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a13200b200096a11e93a6d23fd6122378":[5,0,34,8,14,4],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a13200b200096a11e93a6d23fd6122378":[7,0,13,8,14,4]
 };

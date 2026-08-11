@@ -1,8 +1,5 @@
 var NAVTREEINDEX410 =
 {
-"df/d62/classspell__gen__vampiric__might.html#a36160ed669487cd87be364c2e37c0b0e":[7,0,3157,2],
-"df/d62/classspell__gen__vampiric__might.html#a8713f0e7fae54fc4f5ead19351bec0d8":[7,0,3157,0],
-"df/d62/classspell__gen__vampiric__might.html#ac2a7ac008dca96bb8dc272118d184f3d":[7,0,3157,1],
 "df/d62/classspell__gen__vampiric__might.html#acc97118979bfbcbb1d9fbd88e12c9650":[7,0,3157,3],
 "df/d64/classProcChainGuardSimulator.html":[7,0,2478],
 "df/d64/classProcChainGuardSimulator.html#a267703c4a51bf3e8020e3298c85b74b3":[7,0,2478,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX410 =
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cae06d190e6e951dd13743a9b5f5889580":[8,0,0,0,1,3,5,1,0,0,13,13],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cae897e1b7ea4d3b4240381193133f033a":[8,0,0,0,1,3,5,1,0,0,13,21],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298caebee9dab72ed85e0c73b5310cb74852d":[8,0,0,0,1,3,5,1,0,0,13,8],
-"df/d71/boss__sartharion_8cpp.html#a5f565ff039a329e2e69da179cc7152ac":[8,0,0,0,1,3,5,1,0,0,14]
+"df/d71/boss__sartharion_8cpp.html#a5f565ff039a329e2e69da179cc7152ac":[8,0,0,0,1,3,5,1,0,0,14],
+"df/d71/boss__sartharion_8cpp.html#a652af89c526306be62c634b9f03db993":[8,0,0,0,1,3,5,1,0,0,15],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,5,1,0,0,11],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca03fc4d23a88437ec87e5204eadc5e8d1":[8,0,0,0,1,3,5,1,0,0,11,6]
 };

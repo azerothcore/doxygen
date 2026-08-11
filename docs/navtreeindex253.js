@@ -1,6 +1,5 @@
 var NAVTREEINDEX253 =
 {
-"d9/d8f/dire__maul_8h.html#a048f71c2ce75235af7457a044b2d4af7":[8,0,0,0,1,3,4,2,1,5],
 "d9/d8f/dire__maul_8h.html#a16c2b8982727dd1439379712d87864b3":[8,0,0,0,1,3,4,2,1,4],
 "d9/d8f/dire__maul_8h.html#a16c2b8982727dd1439379712d87864b3a3cc94153311e437de2f5ef4bd75c0246":[8,0,0,0,1,3,4,2,1,4,0],
 "d9/d8f/dire__maul_8h.html#a16c2b8982727dd1439379712d87864b3a579d49a04d1d652d4360bfef047ff413":[8,0,0,0,1,3,4,2,1,4,1],
@@ -231,8 +230,8 @@ var NAVTREEINDEX253 =
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
 "d9/d9a/structboss__thorim__sif__blizzard.html":[7,0,758],
@@ -249,5 +248,6 @@ var NAVTREEINDEX253 =
 "d9/d9b/classnpc__frost__sphere.html#a3e6de3551306fb4c35aabbd4fc656ee6":[7,0,1837,2],
 "d9/d9c/classFrostwingGauntletRespawner.html":[7,0,1099],
 "d9/d9c/classFrostwingGauntletRespawner.html#ac13ad1cce91fa28dc81250672c125490":[7,0,1099,0],
-"d9/d9c/zone__western__plaguelands_8cpp.html":[8,0,0,0,1,3,2,32]
+"d9/d9c/zone__western__plaguelands_8cpp.html":[8,0,0,0,1,3,2,32],
+"d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8":[8,0,0,0,1,3,2,32,4]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"dd/dfe/GameObjectSummonGroupTest_8cpp.html":[8,0,0,0,2,2,0,6,0],
-"dd/dfe/GameObjectSummonGroupTest_8cpp.html#a0e990a163a2003f6224aa808aeb46965":[8,0,0,0,2,2,0,6,0,8],
-"dd/dfe/GameObjectSummonGroupTest_8cpp.html#a23d5442e6e9d8a8eb8b81d8c594dcb44":[8,0,0,0,2,2,0,6,0,6],
 "dd/dfe/GameObjectSummonGroupTest_8cpp.html#a54823c95da2a0c478c7fc82bafb5075e":[8,0,0,0,2,2,0,6,0,9],
 "dd/dfe/GameObjectSummonGroupTest_8cpp.html#a67cd5610a4da8f7101009bd9c59bc82e":[8,0,0,0,2,2,0,6,0,4],
 "dd/dfe/GameObjectSummonGroupTest_8cpp.html#a6b4d8d5065242a959f3b761c930eb11f":[8,0,0,0,2,2,0,6,0,7],
@@ -249,5 +246,8 @@ var NAVTREEINDEX362 =
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a38e1047c0f32ee1086b17ab937b93133":[8,0,0,0,1,3,7,4,0,0,3,6],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a43cb03f70352747a1b21db3ad18d45cc":[8,0,0,0,1,3,7,4,0,0,3,8],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,7,4,0,0,3,3],
-"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d":[8,0,0,0,1,3,7,4,0,0,3,1]
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d":[8,0,0,0,1,3,7,4,0,0,3,1],
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3":[8,0,0,0,1,3,7,4,0,0,3,2],
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521add420385ff32f4362b994bc24207cde2":[8,0,0,0,1,3,7,4,0,0,3,9],
+"de/d07/classHealInfoStub.html":[7,0,1292]
 };

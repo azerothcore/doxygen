@@ -1,6 +1,5 @@
 var NAVTREEINDEX243 =
 {
-"d9/d17/classnpc__firework.html":[7,0,1823],
 "d9/d17/classnpc__firework.html#a9732f7b6eb8b3638bb6280ff7a71bcf7":[7,0,1823,2],
 "d9/d17/classnpc__firework.html#a9efb6ed098e4eb3e24c30393cb5cb45d":[7,0,1823,1],
 "d9/d17/classspell__gen__weapon__coating__enchant.html":[7,0,3163],
@@ -192,8 +191,8 @@ var NAVTREEINDEX243 =
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
@@ -205,8 +204,8 @@ var NAVTREEINDEX243 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[7,0,3412,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,15,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[7,0,13,15,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,15,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[7,0,13,15,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,15,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[8,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[8,0,0,0,1,3,2,4,2,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX243 =
 "d9/d2c/structnpc__ranger__lilatha.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2117,4],
 "d9/d2c/structnpc__ranger__lilatha.html#a193bd47c7d7c4fb3d832a59bf55e8412":[7,0,2117,3],
 "d9/d2c/structnpc__ranger__lilatha.html#a3e804e483b51961193ee1079caba40be":[7,0,2117,1],
-"d9/d2c/structnpc__ranger__lilatha.html#abd13a89b41a289edefb9bc21588f8d29":[7,0,2117,0]
+"d9/d2c/structnpc__ranger__lilatha.html#abd13a89b41a289edefb9bc21588f8d29":[7,0,2117,0],
+"d9/d2c/structnpc__ranger__lilatha.html#acc38d4feacb5e7fa5ce9658b10447c4d":[7,0,2117,2]
 };

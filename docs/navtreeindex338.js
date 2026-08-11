@@ -1,8 +1,5 @@
 var NAVTREEINDEX338 =
 {
-"dc/de4/classPartyTimeEmoteEvent.html":[7,0,2405],
-"dc/de4/classPartyTimeEmoteEvent.html#a525efd58fc8465658208058e6dc5d31c":[7,0,2405,0],
-"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[7,0,2405,2],
 "dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[7,0,2405,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html":[7,0,1357,0],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a04ea989733a6ba1bed1990e1ea8baf1f":[7,0,1357,0,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX338 =
 "dc/df7/classspell__alar__ember__blast.html#a6590aab70049aa5e94ed48aeb99ab1d0":[7,0,2638,1],
 "dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[7,0,2638,0],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html":[7,0,4392],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4392,2]
+"dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4392,2],
+"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4392,1],
+"dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4392,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5]
 };

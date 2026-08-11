@@ -137,10 +137,6 @@ var boss__mimiron_8cpp =
       [ "NPC_MAGNETIC_CORE", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4", null ],
       [ "NPC_WORLD_TRIGGER", "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ]
     ] ],
-    [ "p3wx2LaserBarrage", "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4b", [
-      [ "SPELL_P3WX2_LASER_BARRAGE_1", "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba7f1c72490ff348ff0dd195c2b0b8235e", null ],
-      [ "SPELL_P3WX2_LASER_BARRAGE_2", "dc/d29/boss__mimiron_8cpp.html#a9ddadfa74c4f988c0b001ebf626c5d4ba802980b99ea6642c3488b4c41c7f5e43", null ]
-    ] ],
     [ "SpellData", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36", [
       [ "SPELL_BERSERK", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_NAPALM_SHELL", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a919fdd2f9d13164e43c55488a249b7e1", null ],
@@ -213,7 +209,6 @@ var boss__mimiron_8cpp =
       [ "TALK_COMPUTER_ZERO", "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a29c5bf84120b3c70381c5f15053011e9", null ]
     ] ],
     [ "AddSC_boss_mimiron", "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5", null ],
-    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ],
-    [ "VX001_BARRAGE_ARC_START", "dc/d29/boss__mimiron_8cpp.html#a007f0b8e4ca58abc0ba03f571679bf60", null ],
-    [ "VX001_BARRAGE_ARC_STEP", "dc/d29/boss__mimiron_8cpp.html#a2bb7e27b666798e6939e74d1e3ab62f8", null ]
+    [ "FaceBarrageArc", "dc/d29/boss__mimiron_8cpp.html#ade9efbea832ad4ad7704a224e792d207", null ],
+    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ]
 ];

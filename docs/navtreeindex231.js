@@ -1,6 +1,5 @@
 var NAVTREEINDEX231 =
 {
-"d8/d77/classAchievementMgr.html#acfda21b0f7b1174f8c890b926cbd1c09":[7,0,123,2],
 "d8/d77/classAchievementMgr.html#ad333f0b41c7b42059e64acd42bacb631":[7,0,123,9],
 "d8/d77/classAchievementMgr.html#ad46f33eeab1bd906f34ef3196ef78e47":[7,0,123,24],
 "d8/d77/classAchievementMgr.html#ada3b186b9b3b44c40c5f5c9c22ac33de":[7,0,123,20],
@@ -20,8 +19,8 @@ var NAVTREEINDEX231 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1622],
@@ -249,5 +248,6 @@ var NAVTREEINDEX231 =
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4f":[8,0,0,0,1,3,2,1,2,0,4],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa0429b55864dc1628ebf2cc160a93c1dc":[8,0,0,0,1,3,2,1,2,0,4,10],
 "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa216a1b67c03db33780efe17030c1832d":[8,0,0,0,1,3,2,1,2,0,4,18],
-"d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa22402b3c881e3f3dd16c43393faa7067":[8,0,0,0,1,3,2,1,2,0,4,28]
+"d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa22402b3c881e3f3dd16c43393faa7067":[8,0,0,0,1,3,2,1,2,0,4,28],
+"d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa29cb889cb42ed3e4fbeedfbee132b25f":[8,0,0,0,1,3,2,1,2,0,4,24]
 };

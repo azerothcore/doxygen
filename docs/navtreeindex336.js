@@ -1,8 +1,5 @@
 var NAVTREEINDEX336 =
 {
-"dc/dd4/classflag96.html#ac460f571a26d61462c2cda4b3388752c":[7,0,1081,6],
-"dc/dd4/classflag96.html#ac7fcf4d74fa4d6b580e3b204c97964dd":[7,0,1081,20],
-"dc/dd4/classflag96.html#ad7dd7bba12e955d0ec70e2df24d23ef9":[7,0,1081,17],
 "dc/dd4/classflag96.html#ad9b2afb9b2de6cd8a8779d1646efd2ab":[7,0,1081,13],
 "dc/dd4/classflag96.html#afed5a26552cc3d614fe7caec06d74170":[7,0,1081,16],
 "dc/dd6/MapReference_8h.html":[8,0,0,0,1,2,26,11],
@@ -249,5 +246,8 @@ var NAVTREEINDEX336 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[8,0,0,0,1,3,2,16,42],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[8,0,0,0,1,3,2,16,75],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4d8848387918b6d4fbc1efdbb445f12":[8,0,0,0,1,3,2,16,55],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[8,0,0,0,1,3,2,16,47]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[8,0,0,0,1,3,2,16,47],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aed31b52543c556f43d7268340ea660fe":[8,0,0,0,1,3,2,16,73],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[8,0,0,0,1,3,2,16,106],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af32a86ddb56934f5f61eb00bd7f62399":[8,0,0,0,1,3,2,16,136]
 };

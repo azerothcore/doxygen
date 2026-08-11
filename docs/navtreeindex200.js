@@ -1,6 +1,5 @@
 var NAVTREEINDEX200 =
 {
-"d7/d46/classAuraEffect.html#a7595664aebf24652d3ce95d6bdc18ebe":[7,0,295,22],
 "d7/d46/classAuraEffect.html#a7710e32fe9dc267292c3b15333521560":[7,0,295,118],
 "d7/d46/classAuraEffect.html#a7778b120e414f28e95e71ce96660149e":[7,0,295,2],
 "d7/d46/classAuraEffect.html#a7d45367044e196745676c63d61fbd89d":[7,0,295,201],
@@ -249,5 +248,6 @@ var NAVTREEINDEX200 =
 "d7/d4c/structnpc__underbat.html#ae137b6b763b3df6096c3bfd4dd7ee676":[7,0,2282,1],
 "d7/d4d/Corpse_8cpp.html":[8,0,0,0,1,2,16,0,0],
 "d7/d4d/classachievement__everything__counts.html":[7,0,53],
-"d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[7,0,53,1]
+"d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[7,0,53,1],
+"d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[7,0,53,0]
 };

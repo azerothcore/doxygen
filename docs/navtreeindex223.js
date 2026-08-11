@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/d25/structAcore_1_1PlayerDistWorker.html#aad16511b6a9aaa3eb561f636475ffe97":[7,0,0,94,3],
 "d8/d26/classCinematicMgr.html":[7,0,897],
 "d8/d26/classCinematicMgr.html#a0535dee9b0ec7aa6176809c6dca16b30":[7,0,897,3],
 "d8/d26/classCinematicMgr.html#a1f471f895c8cda67733cf3df29441886":[7,0,897,14],
@@ -30,10 +29,10 @@ var NAVTREEINDEX223 =
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[5,0,31,9,3],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[7,0,11,9,4],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[5,0,31,9,4],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[5,0,31,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[7,0,11,9,0],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[7,0,11,9,2],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[5,0,31,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[5,0,31,9,2],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[7,0,11,9,2],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#abd524e5a87daa798258d7851c526cd88":[5,0,31,9,1],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#abd524e5a87daa798258d7851c526cd88":[7,0,11,9,1],
 "d8/d28/classnpc__fos__leader__second.html":[7,0,1830],
@@ -187,8 +186,8 @@ var NAVTREEINDEX223 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[7,0,0,123,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,135,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[7,0,0,123,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[7,0,0,123,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
 "d8/d35/structnpc__vampiric__fiend.html":[7,0,2291],
 "d8/d35/structnpc__vampiric__fiend.html#a4ddef98ac3b9d166980243b0dbe821f7":[7,0,2291,0],
 "d8/d35/structnpc__vampiric__fiend.html#a6167d1529b88c3b85cf21547b89bbc98":[7,0,2291,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba579d27799f36ec2c5b9ed84e57f04acb":[8,0,0,0,1,1,0,0,3,1,68],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a4a29b257bff1e7be9cdbfc9bffae15":[8,0,0,0,1,1,0,0,3,1,82],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a9324a37ef24f3d2131dd3a24960d0a":[8,0,0,0,1,1,0,0,3,1,40],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5c1264159410cb73b61635879083b394":[8,0,0,0,1,1,0,0,3,1,24]
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5c1264159410cb73b61635879083b394":[8,0,0,0,1,1,0,0,3,1,24],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5eef388f328734f6de8b8e8573eee031":[8,0,0,0,1,1,0,0,3,1,95]
 };

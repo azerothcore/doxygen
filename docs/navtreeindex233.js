@@ -1,6 +1,5 @@
 var NAVTREEINDEX233 =
 {
-"d8/d93/classspell__trollgore__corpse__explode__aura.html":[7,0,4266],
 "d8/d93/classspell__trollgore__corpse__explode__aura.html#a362b16f69a19adae6b673bd9ead55a83":[7,0,4266,0],
 "d8/d93/classspell__trollgore__corpse__explode__aura.html#a3ffbd618820adf77b2c64a29816f5204":[7,0,4266,2],
 "d8/d93/classspell__trollgore__corpse__explode__aura.html#aa432052d61dc48066433b41b84ffbe5f":[7,0,4266,1],
@@ -114,8 +113,8 @@ var NAVTREEINDEX233 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[7,0,1700,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[7,0,1700,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[7,0,1700,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[7,0,13,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[7,0,13,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX233 =
 "d8/da3/structCreatureMovementData.html#ae701d7622d7e24c0b8673863a2d75742":[7,0,958,12],
 "d8/da3/structCreatureMovementData.html#af2c8281192f6234bd19e030237c77b5a":[7,0,958,3],
 "d8/da3/structGlobalCooldown.html":[7,0,1138],
-"d8/da3/structGlobalCooldown.html#a5859ccec9d1fdf0a8f11f5ab77c135a9":[7,0,1138,0]
+"d8/da3/structGlobalCooldown.html#a5859ccec9d1fdf0a8f11f5ab77c135a9":[7,0,1138,0],
+"d8/da3/structGlobalCooldown.html#a7e2fe46367bad59669b0f2fd33736b30":[7,0,1138,1]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,1,9],
-"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,1,0,1,9,5],
-"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2ac9a6ac26c8be32545f5070291b522c":[8,0,0,0,1,3,4,1,0,1,9,6],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,1,0,1,9,0],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50967943bb0b040ea4bf741a8cb2f99d":[8,0,0,0,1,3,4,1,0,1,9,2],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,0,1,9,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX334 =
 "dc/dc0/structnpc__azure__binder.html#a0a11617ac11bf6aacacc3b36ce90fdca":[7,0,1666,1],
 "dc/dc0/structnpc__azure__binder.html#add9f304212a1a10267e564cd939f3751":[7,0,1666,2],
 "dc/dc0/structnpc__azure__binder.html#ae273e78765faeb3e9604b7ce89ef6e6c":[7,0,1666,0],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html":[7,0,1730,0]
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html":[7,0,1730,0],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74":[7,0,1730,0,11],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a70ff1a69374b62bf6aadf1bfabe8bdb3":[7,0,1730,0,0],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0":[7,0,1730,0,5]
 };

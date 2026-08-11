@@ -1,8 +1,5 @@
 var NAVTREEINDEX418 =
 {
-"df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[7,0,135,3],
-"df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[7,0,135,4],
-"df/db9/structAddonInfo.html#a60ea66ed93b64c9e182226954a514f53":[7,0,135,0],
 "df/db9/structAddonInfo.html#a75e016fa7abee24757c89b97330a6192":[7,0,135,5],
 "df/db9/structAddonInfo.html#a7f0f2d817a2189b3acee5999f154ba60":[7,0,135,1],
 "df/db9/structAddonInfo.html#ace9f109c395ed84cc01ca4381222c25b":[7,0,135,2],
@@ -81,8 +78,8 @@ var NAVTREEINDEX418 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[7,0,0,79,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[7,0,0,79,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,91,2],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[7,0,0,79,4],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,91,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,0,91,1],
@@ -223,8 +220,8 @@ var NAVTREEINDEX418 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[7,0,2363,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[7,0,2363,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[7,0,2363,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX418 =
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2":[8,0,0,0,0,9,3,1,7],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e":[8,0,0,0,0,9,3,1,12],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62":[8,0,0,0,0,9,3,1,5],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66":[8,0,0,0,0,9,3,1,15]
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66":[8,0,0,0,0,9,3,1,15],
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca":[8,0,0,0,0,9,3,1,2],
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc":[8,0,0,0,0,9,3,1,6],
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5":[8,0,0,0,0,9,3,1,11]
 };

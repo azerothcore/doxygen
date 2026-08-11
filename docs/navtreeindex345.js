@@ -1,8 +1,5 @@
 var NAVTREEINDEX345 =
 {
-"dd/d3a/structKeyFrame.html#a23823648385abc72ffd8372468b98915":[7,0,1437,11],
-"dd/d3a/structKeyFrame.html#a29de8ef0d2ba8671a00557782b5b3ba0":[7,0,1437,0],
-"dd/d3a/structKeyFrame.html#a4197d8450563a6abd2826be37a2d0c0e":[7,0,1437,2],
 "dd/d3a/structKeyFrame.html#a4271d37fac21d8c41758fc5edbf793e2":[7,0,1437,5],
 "dd/d3a/structKeyFrame.html#a51fb15713126d4890bfe99dc00e421f7":[7,0,1437,10],
 "dd/d3a/structKeyFrame.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33":[7,0,1437,1],
@@ -237,17 +234,20 @@ var NAVTREEINDEX345 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1390,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a07a9861d018a35cd295f65b7e68a5bd1":[7,0,1390,0,8],
-"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1390,0,12]
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1390,0,12],
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a22e3c4bb29159588a96f13644218c427":[7,0,1390,0,11],
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a336bd80e5118d6b5cfa0f76f5d207fc5":[7,0,1390,0,9],
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a371a688192e9c7c239fc4c1de8e45877":[7,0,1390,0,3]
 };

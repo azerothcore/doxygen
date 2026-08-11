@@ -1,6 +1,5 @@
 var NAVTREEINDEX212 =
 {
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a07f8c8aa2ed37512b197084febed50ef":[7,0,3377,1],
 "d7/da2/classspell__item__deathbringers__will__heroic.html#a10d283df17223afb32c238844bb5db67":[7,0,3377,2],
 "d7/da2/classspell__item__deathbringers__will__heroic.html#a1ee914e76abd22ba119740aa4aa6805e":[7,0,3377,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html":[7,0,609,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX212 =
 "d7/db0/classMap.html#a4239f493c0e8fc66dac786ceac65afe3":[7,0,1516,11],
 "d7/db0/classMap.html#a43b5bdb50f8e3d9b9305475f62872d6c":[7,0,1516,118],
 "d7/db0/classMap.html#a447c175561e07c7d5de8d1127f192703":[7,0,1516,12],
-"d7/db0/classMap.html#a44d05ece35e49c5301b2b20a04ce2221":[7,0,1516,250]
+"d7/db0/classMap.html#a44d05ece35e49c5301b2b20a04ce2221":[7,0,1516,250],
+"d7/db0/classMap.html#a466d8c86e43fa27805ef7133e0d1bdfa":[7,0,1516,104]
 };

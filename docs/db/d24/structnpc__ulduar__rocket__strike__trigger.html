@@ -489,7 +489,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2411</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature) {}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2397</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature) {}</div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:56</div></div>
 </div><!-- fragment -->
 </div>
@@ -519,10 +519,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aa88ecdf57b44fb013c3fed4ff59aec0d">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2414</span>    {</div>
-<div class="line"><span class="lineno"> 2415</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a953b3d6d1871042810e52aa345e503b6">SPELL_ROCKET_STRIKE_AURA</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2416</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(6s);</div>
-<div class="line"><span class="lineno"> 2417</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2400</span>    {</div>
+<div class="line"><span class="lineno"> 2401</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a953b3d6d1871042810e52aa345e503b6">SPELL_ROCKET_STRIKE_AURA</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2402</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(6s);</div>
+<div class="line"><span class="lineno"> 2403</span>    }</div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a8aad05826c6de945fac0de45623cdf36a953b3d6d1871042810e52aa345e503b6"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a953b3d6d1871042810e52aa345e503b6">SPELL_ROCKET_STRIKE_AURA</a></div><div class="ttdeci">@ SPELL_ROCKET_STRIKE_AURA</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:59</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aclassCreature_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2199</div></div>
@@ -567,15 +567,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a14c40dcfec28989cc630fa571c67ebb7">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2420</span>    {</div>
-<div class="line"><span class="lineno"> 2421</span>        <span class="comment">// Detonate in sync with the incoming missile; the 64064 tick is suppressed (spell_mimiron_rocket_strike_aura).</span></div>
-<div class="line"><span class="lineno"> 2422</span>        <a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(1, <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(value));</div>
-<div class="line"><span class="lineno"> 2423</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2406</span>    {</div>
+<div class="line"><span class="lineno"> 2407</span>        <span class="comment">// Detonate in sync with the incoming missile; the 64064 tick is suppressed (spell_mimiron_rocket_strike_aura).</span></div>
+<div class="line"><span class="lineno"> 2408</span>        <a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(1, <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(value));</div>
+<div class="line"><span class="lineno"> 2409</span>    }</div>
 <div class="ttc" id="aDuration_8h_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition</b> Duration.h:27</div></div>
 <div class="ttc" id="aclassEventMap_html_aec6dde1456f6f7f802c3bda4cf4b713f"><div class="ttname"><a href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">EventMap::ScheduleEvent</a></div><div class="ttdeci">void ScheduleEvent(EventId eventId, Milliseconds time, GroupIndex group=0u, PhaseIndex phase=0u)</div><div class="ttdef"><b>Definition</b> EventMap.cpp:48</div></div>
-<div class="ttc" id="astructnpc__ulduar__rocket__strike__trigger_html_acdd7bdda1ecc5d6e5c18f1306153200a"><div class="ttname"><a href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">npc_ulduar_rocket_strike_trigger::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:2448</div></div>
+<div class="ttc" id="astructnpc__ulduar__rocket__strike__trigger_html_acdd7bdda1ecc5d6e5c18f1306153200a"><div class="ttname"><a href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">npc_ulduar_rocket_strike_trigger::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:2434</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02448">_events</a>, and <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02434">_events</a>, and <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>.</p>
 
 </div>
 </div>
@@ -614,19 +614,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2433</span>    {</div>
-<div class="line"><span class="lineno"> 2434</span>        <span class="keywordflow">if</span> (!target || !spell)</div>
-<div class="line"><span class="lineno"> 2435</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2436</span>        <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57">SPELL_ROCKET_STRIKE_DAMAGE</a>)</div>
-<div class="line"><span class="lineno"> 2437</span>        {</div>
-<div class="line"><span class="lineno"> 2438</span>            <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a>)</div>
-<div class="line"><span class="lineno"> 2439</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, 65040, <span class="keyword">true</span>); <span class="comment">// achievement Not-So-Friendly Fire</span></div>
-<div class="line"><span class="lineno"> 2440</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno"> 2441</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2442</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a>())</div>
-<div class="line"><span class="lineno"> 2443</span>                        c-&gt;AI()-&gt;SetData(0, 13);</div>
-<div class="line"><span class="lineno"> 2444</span>        }</div>
-<div class="line"><span class="lineno"> 2445</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2419</span>    {</div>
+<div class="line"><span class="lineno"> 2420</span>        <span class="keywordflow">if</span> (!target || !spell)</div>
+<div class="line"><span class="lineno"> 2421</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2422</span>        <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57">SPELL_ROCKET_STRIKE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno"> 2423</span>        {</div>
+<div class="line"><span class="lineno"> 2424</span>            <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a>)</div>
+<div class="line"><span class="lineno"> 2425</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, 65040, <span class="keyword">true</span>); <span class="comment">// achievement Not-So-Friendly Fire</span></div>
+<div class="line"><span class="lineno"> 2426</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno"> 2427</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2428</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a>())</div>
+<div class="line"><span class="lineno"> 2429</span>                        c-&gt;AI()-&gt;SetData(0, 13);</div>
+<div class="line"><span class="lineno"> 2430</span>        }</div>
+<div class="line"><span class="lineno"> 2431</span>    }</div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a2630dd6d5e18380948268eaf946745be"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be">GetMimiron</a></div><div class="ttdeci">#define GetMimiron()</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:274</div></div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca274d93f47af779b205f6727d83ad106b">NPC_ASSAULT_BOT</a></div><div class="ttdeci">@ NPC_ASSAULT_BOT</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:109</div></div>
 <div class="ttc" id="aboss__mimiron_8cpp_html_a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57">SPELL_ROCKET_STRIKE_DAMAGE</a></div><div class="ttdeci">@ SPELL_ROCKET_STRIKE_DAMAGE</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:64</div></div>
@@ -667,15 +667,15 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2426</span>    {</div>
-<div class="line"><span class="lineno"> 2427</span>        <a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
-<div class="line"><span class="lineno"> 2428</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>() == 1)</div>
-<div class="line"><span class="lineno"> 2429</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57">SPELL_ROCKET_STRIKE_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2430</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2412</span>    {</div>
+<div class="line"><span class="lineno"> 2413</span>        <a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
+<div class="line"><span class="lineno"> 2414</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html#acdd7bdda1ecc5d6e5c18f1306153200a">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>() == 1)</div>
+<div class="line"><span class="lineno"> 2415</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a96283f20631c5b1f25c4cf8363d9dc57">SPELL_ROCKET_STRIKE_DAMAGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2416</span>    }</div>
 <div class="ttc" id="aclassEventMap_html_a33ba1058edd639c98258ba3e123ac2f9"><div class="ttname"><a href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">EventMap::Update</a></div><div class="ttdeci">void Update(uint32 time)</div><div class="ttdef"><b>Definition</b> EventMap.h:67</div></div>
 <div class="ttc" id="aclassEventMap_html_a435dd6db2c6fbbaf80467b7a617c4237"><div class="ttname"><a href="../../d1/d2e/classEventMap.html#a435dd6db2c6fbbaf80467b7a617c4237">EventMap::ExecuteEvent</a></div><div class="ttdeci">EventId ExecuteEvent()</div><div class="ttdef"><b>Definition</b> EventMap.cpp:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02448">_events</a>, <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00064">SPELL_ROCKET_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02434">_events</a>, <a class="el" href="../../#l01361">Unit::CastSpell()</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00064">SPELL_ROCKET_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
 
 </div>
 </div>
@@ -700,7 +700,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02419">SetData()</a>, and <a class="el" href="../../#l02425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02405">SetData()</a>, and <a class="el" href="../../#l02411">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -713,7 +713,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d24/structnpc__ulduar__rocket__strike__trigger.html">npc_ulduar_rocket_strike_trigger</a></li>
-    <li class="footer">Generated on Mon Aug 10 2026 07:22:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Aug 11 2026 06:59:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

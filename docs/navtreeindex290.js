@@ -1,13 +1,14 @@
 var NAVTREEINDEX290 =
 {
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a87160b37ba61af4866fe3f410813fe9f":[7,0,1929,0,2],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a877c693b6ac736aa874926d8efe0d79a":[7,0,1929,0,5],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a9a662b435218a3e13ca58eb4a6b3af86":[7,0,1929,0,7],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a9d7b9bdcf9e185284dba5251a0deb0b3":[7,0,1929,0,10],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[7,0,1929,0,3],
 "db/d21/BattlefieldMgr_8h.html":[8,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d32/classWardenMac.html#af031f18554c5a96b4eb39371a92b9c51":[7,0,4656,8],
 "db/d32/classspell__ioc__gunship__portal.html":[7,0,3347],
 "db/d32/classspell__ioc__gunship__portal.html#a2d1dbae570206b358878020879708000":[7,0,3347,3],
-"db/d32/classspell__ioc__gunship__portal.html#a3ff7d46323da70df6ad11ddfcaf6cfbb":[7,0,3347,1],
-"db/d32/classspell__ioc__gunship__portal.html#a7cf32445caa09f2a2b3c52f68f315ba5":[7,0,3347,4]
+"db/d32/classspell__ioc__gunship__portal.html#a3ff7d46323da70df6ad11ddfcaf6cfbb":[7,0,3347,1]
 };

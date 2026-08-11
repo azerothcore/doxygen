@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb":[8,0,0,0,1,3,9,6,56,49],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b":[8,0,0,0,1,3,9,6,56,45],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4":[8,0,0,0,1,3,9,6,56,47],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a":[8,0,0,0,1,3,9,6,56,3],
@@ -235,12 +236,12 @@ var NAVTREEINDEX289 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,6,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,6,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1929,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1929,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1929,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a28aef0767b6adb0ccf0479dd50dc11a8":[7,0,1929,0,6],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a2e02aa8d441426aa51f46121eec0becb":[7,0,1929,0,8],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a321d689d645b4630e2e93e6251d5130c":[7,0,1929,0,4],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a34ad7cabe4cb86e23deb30ca0ce77db0":[7,0,1929,0,11],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a87160b37ba61af4866fe3f410813fe9f":[7,0,1929,0,2]
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a34ad7cabe4cb86e23deb30ca0ce77db0":[7,0,1929,0,11]
 };

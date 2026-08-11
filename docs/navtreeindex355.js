@@ -1,8 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b":[8,0,0,0,1,3,5,23,36,6],
-"dd/db2/zone__storm__peaks_8cpp.html#a13f23d172b595c02e80c65c040685644":[8,0,0,0,1,3,5,23,45],
-"dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757":[8,0,0,0,1,3,5,23,38],
 "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583":[8,0,0,0,1,3,5,23,38,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a1c503d9d493e180fe8a82bdeb6d07819":[8,0,0,0,1,3,5,23,38,3],
 "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a79c0eac8ad1de2d69a8a85cb05d1bd7c":[8,0,0,0,1,3,5,23,38,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX355 =
 "dd/dc1/MovementUtil_8cpp.html#aa6a1b38cb6e1507d88f0f45a4820990b":[8,0,0,0,1,2,31,1,3,5],
 "dd/dc1/MovementUtil_8cpp.html#aa927e4ada20ca56ce951239357407270":[8,0,0,0,1,2,31,1,3,6],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html":[7,0,3691],
-"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[7,0,3691,0]
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a27ad5fef0695f006c2f8795ac0fbce53":[7,0,3691,0],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[7,0,3691,1],
+"dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[7,0,3691,2],
+"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html":[7,0,2007,0]
 };

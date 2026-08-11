@@ -1,6 +1,5 @@
 var NAVTREEINDEX211 =
 {
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadafc7791dd3cef12dce705a49652a412":[8,0,0,0,1,2,28,2,0,1238],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadb3556b2934b78e1ce6b5e26f8d47a31":[8,0,0,0,1,2,28,2,0,545],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadb78ba8012b227da5ab1f560a362d453":[8,0,0,0,1,2,28,2,0,253],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadb7916321a6e4395b769d0beb1a30464":[8,0,0,0,1,2,28,2,0,855],
@@ -249,5 +248,6 @@ var NAVTREEINDEX211 =
 "d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[7,0,4445,1],
 "d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[7,0,4445,0],
 "d7/da2/classspell__item__deathbringers__will__heroic.html":[7,0,3377],
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a0564e0b3ae8c18c35d4c32feb7e365bd":[7,0,3377,0]
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a0564e0b3ae8c18c35d4c32feb7e365bd":[7,0,3377,0],
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a07f8c8aa2ed37512b197084febed50ef":[7,0,3377,1]
 };

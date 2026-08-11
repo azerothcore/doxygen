@@ -1,11 +1,8 @@
 var NAVTREEINDEX339 =
 {
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4392,1],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4392,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX339 =
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,7,1,3,16,15],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca953c08d385925d927621901577d5c252":[8,0,0,0,1,3,7,1,3,16,22],
 "dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bffb9c0448448681fe9169ecd20508a":[8,0,0,0,1,3,7,1,3,16,5],
-"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cf4c32c97f8b49d7f92498043339aed":[8,0,0,0,1,3,7,1,3,16,12]
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cf4c32c97f8b49d7f92498043339aed":[8,0,0,0,1,3,7,1,3,16,12],
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d9a2b67c5226ed789289b14d8bbb00b":[8,0,0,0,1,3,7,1,3,16,3],
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[8,0,0,0,1,3,7,1,3,16,28],
+"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298caa72ada5ab21465e365749d72aff5ea92":[8,0,0,0,1,3,7,1,3,16,10]
 };

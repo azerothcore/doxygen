@@ -1,5 +1,6 @@
 var NAVTREEINDEX318 =
 {
+"dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[7,0,2939,2],
 "dc/d0d/cs__disable_8cpp.html":[8,0,0,0,1,3,0,14],
 "dc/d0d/cs__disable_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[8,0,0,0,1,3,0,14,1],
 "dc/d0d/structboss__kurinnaxx.html":[7,0,602],
@@ -232,14 +233,14 @@ var NAVTREEINDEX318 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[7,0,3937,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[7,0,3937,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3937,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[8,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[8,0,0,0,1,3,2,1,0,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX318 =
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9cb9bf5bb86d78ba6568cb7b33b6000b":[8,0,0,0,1,3,2,1,0,4,3,0],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,2,1,0,4,3,2],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,4,2],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[8,0,0,0,1,3,2,1,0,4,2,1],
-"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[8,0,0,0,1,3,2,1,0,4,2,0]
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[8,0,0,0,1,3,2,1,0,4,2,1]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX341 =
 {
-"dd/d17/classboss__doomlord__kazzak.html#a460a32ce37aae852b48f1990406da9a4":[7,0,441,2],
-"dd/d17/classboss__doomlord__kazzak.html#ae4e4844d584ba71ebd3d8a341ba91462":[7,0,441,1],
-"dd/d17/pet__hunter_8cpp.html":[8,0,0,0,1,3,8,2],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e":[8,0,0,0,1,3,8,2,4],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f":[8,0,0,0,1,3,8,2,4,4],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280":[8,0,0,0,1,3,8,2,4,0],
@@ -84,14 +81,14 @@ var NAVTREEINDEX341 =
 "dd/d19/structnpc__time__rift.html#af2932c60efaea64d27d52b118b9a8095":[7,0,2221,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[7,0,0,56],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,0,68],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[7,0,0,56,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,0,68,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[7,0,0,56,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,0,68,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[7,0,0,56,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[7,0,0,56,2],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,0,68,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[7,0,0,56,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,0,68,1],
 "dd/d1b/classhonor__commandscript.html":[7,0,1304],
 "dd/d1b/classhonor__commandscript.html#a03caa77b436e3d513e1325badf05df33":[7,0,1304,2],
 "dd/d1b/classhonor__commandscript.html#a11831a3ea577f3f1e06fea3d0dbc0147":[7,0,1304,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX341 =
 "dd/d25/classspell__dru__maim__interrupt.html#a1970f27ef7eda74a48fccbdf963be87a":[7,0,2911,0],
 "dd/d25/classspell__dru__maim__interrupt.html#a21c898e51a477c008f708254619d3fc6":[7,0,2911,2],
 "dd/d25/classspell__dru__maim__interrupt.html#a435424c2bc9a2b491eb9535d5c13df60":[7,0,2911,1],
-"dd/d25/classspell__dru__maim__interrupt.html#ad2607d8ce696536f32d0a6eb77af4664":[7,0,2911,3]
+"dd/d25/classspell__dru__maim__interrupt.html#ad2607d8ce696536f32d0a6eb77af4664":[7,0,2911,3],
+"dd/d26/SocialMgr_8cpp.html":[8,0,0,0,1,2,16,7,17],
+"dd/d26/VehicleScript_8h.html":[8,0,0,0,1,2,38,0,89],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[7,0,13,10,12]
 };

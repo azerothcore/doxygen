@@ -1,6 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea07b151af8957c4730fe07f4c14290b05":[8,0,0,0,1,2,8,1,19,10,2],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea1c2e72b4533d78c59ed347490fe72517":[8,0,0,0,1,2,8,1,19,10,12],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea20239b336b99084edad9f45aa637fb98":[8,0,0,0,1,2,8,1,19,10,9],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2149a4c21e32a6b98b5c52356bce9e0d":[8,0,0,0,1,2,8,1,19,10,3],
@@ -81,8 +80,8 @@ var NAVTREEINDEX239 =
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2332],
@@ -249,5 +248,6 @@ var NAVTREEINDEX239 =
 "d8/def/PlayerCommand_8h.html":[8,0,0,0,1,3,0,56],
 "d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[8,0,0,0,1,3,0,56,0],
 "d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[8,0,0,0,1,3,0,56,1],
-"d8/df0/classat__lady__deathwhisper__entrance.html":[7,0,242]
+"d8/df0/classat__lady__deathwhisper__entrance.html":[7,0,242],
+"d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[7,0,242,0]
 };
