@@ -6,7 +6,7 @@ var structboss__gluth_1_1boss__gluthAI =
     [ "KilledUnit", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
     [ "MoveInLineOfSight", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
     [ "Reset", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SelectPlayerInRoom", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#aa8782d6d198ee8fa2a48ef2cde2c25c9", null ],
     [ "SummonedCreatureDies", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a115a1f1327a931067223734dbf414675", null ],
     [ "UpdateAI", "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a2505f7ebda7b623edfedf96979a4a920", null ]
 ];
