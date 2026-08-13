@@ -30,6 +30,7 @@ var zone__borean__tundra_8cpp =
     [ "spell_q11652_rescue_injured_soldier", "d8/dd8/classspell__q11652__rescue__injured__soldier.html", "d8/dd8/classspell__q11652__rescue__injured__soldier" ],
     [ "spell_q11652_soldier_rescued", "d8/d35/classspell__q11652__soldier__rescued.html", "d8/d35/classspell__q11652__soldier__rescued" ],
     [ "npc_dusk", "de/d33/structnpc__dusk.html", "de/d33/structnpc__dusk" ],
+    [ "spell_naked_caravan_guard_transform", "d0/d19/classspell__naked__caravan__guard__transform.html", "d0/d19/classspell__naked__caravan__guard__transform" ],
     [ "ArcaneChains", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338dae", [
       [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daea281a473ba44c139884440cbe38ad8de0", null ],
       [ "SPELL_ARCANE_CHAINS_SUMMON_CHAINED_MAGE_HUNTER", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daeafd3d75fde3c031f9b17358271c3c919f", null ]
@@ -106,6 +107,24 @@ var zone__borean__tundra_8cpp =
       [ "SAY_5", "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e", null ],
       [ "NPC_MOOTOO_THE_YOUNGER", "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a524035752d7dfd07fe1af0f7941bda1f", null ],
       [ "QUEST_ESCAPING_THE_MIST", "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22", null ]
+    ] ],
+    [ "NakedCaravanGuard", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63", [
+      [ "MODEL_GUARD_ORC_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a311569cd83833273dedd306741de1fb0", null ],
+      [ "MODEL_GUARD_FORSAKEN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a5c63b79792b3ea560b6302c220a716e2", null ],
+      [ "MODEL_GUARD_ORC_FEMALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a45e5844211ccec39e79a23cc3b8d9792", null ],
+      [ "MODEL_GUARD_TAUREN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a64b5a22013316336964bc2a3de538a8d", null ],
+      [ "MODEL_WORKER_ORC_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a41b83a1daa9ad366991e5060a40f2e4d", null ],
+      [ "MODEL_WORKER_FORSAKEN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a03eb3fbd461caea2766069505bcc98fc", null ],
+      [ "MODEL_WORKER_ORC_FEMALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63aa8b0d81a0c5184ddf0ddcd3001165647", null ],
+      [ "MODEL_WORKER_TROLL_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a5282aa8baeddaebbbbd95036cea7ee41", null ],
+      [ "MODEL_NAKED_GUARD_ORC_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a1be6ad902b54f0728784a87648cc6f34", null ],
+      [ "MODEL_NAKED_GUARD_FORSAKEN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a6ea2d600f518b6e22ec704658b43d43a", null ],
+      [ "MODEL_NAKED_GUARD_ORC_FEMALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a5b9ec4336af97ffcd0a090c21c3b5213", null ],
+      [ "MODEL_NAKED_GUARD_TAUREN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63ac1c3197856b3384185aea1785b0e200b", null ],
+      [ "MODEL_NAKED_WORKER_ORC_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63afe374d0c27e6607e224904dde21d0b1c", null ],
+      [ "MODEL_NAKED_WORKER_FORSAKEN_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a30078164e52737fa2b6a8f104679f92e", null ],
+      [ "MODEL_NAKED_WORKER_ORC_FEMALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a00fbd016fd2d9b96169d12e566a5f18b", null ],
+      [ "MODEL_NAKED_WORKER_TROLL_MALE", "d3/d09/zone__borean__tundra_8cpp.html#a002c7c6e5f91f239b9a80bf855ab9a63a8a9cab372b41ed3a6d6e5c96c1ebfc90", null ]
     ] ],
     [ "Nerubar", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36ca", [
       [ "NPC_WARSONG_PEON", "d3/d09/zone__borean__tundra_8cpp.html#aa544932c38ff85244b22bb2cc3ae36caad46b1abd1272b63396c8283aa1eae5d8", null ],

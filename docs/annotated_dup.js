@@ -4267,6 +4267,7 @@ var annotated_dup =
     [ "spell_najentus_hurl_spine", "d8/dbc/classspell__najentus__hurl__spine.html", "d8/dbc/classspell__najentus__hurl__spine" ],
     [ "spell_najentus_needle_spine", "da/dd7/classspell__najentus__needle__spine.html", "da/dd7/classspell__najentus__needle__spine" ],
     [ "spell_najentus_remove_spines", "d9/df2/classspell__najentus__remove__spines.html", "d9/df2/classspell__najentus__remove__spines" ],
+    [ "spell_naked_caravan_guard_transform", "d0/d19/classspell__naked__caravan__guard__transform.html", "d0/d19/classspell__naked__caravan__guard__transform" ],
     [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
     [ "spell_nether_portal_perseverence", "d8/dca/classspell__nether__portal__perseverence.html", "d8/dca/classspell__nether__portal__perseverence" ],
     [ "spell_nightbane_fireball_barrage", "d8/d0f/classspell__nightbane__fireball__barrage.html", "d8/d0f/classspell__nightbane__fireball__barrage" ],

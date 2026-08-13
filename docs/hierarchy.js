@@ -1434,6 +1434,7 @@ var hierarchy =
         [ "spell_najentus_hurl_spine", "d8/dbc/classspell__najentus__hurl__spine.html", null ],
         [ "spell_najentus_needle_spine", "da/dd7/classspell__najentus__needle__spine.html", null ],
         [ "spell_najentus_remove_spines", "d9/df2/classspell__najentus__remove__spines.html", null ],
+        [ "spell_naked_caravan_guard_transform", "d0/d19/classspell__naked__caravan__guard__transform.html", null ],
         [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", null ],
         [ "spell_nightbane_fireball_barrage", "d8/d0f/classspell__nightbane__fireball__barrage.html", null ],
         [ "spell_novos_despawn_crystal_handler", "d0/d84/classspell__novos__despawn__crystal__handler.html", null ],
