@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/d04/classspell__putricide__ooze__channel.html#a296ec09cec9661123ea5c86f3f262f32":[7,0,3866,3],
 "df/d04/classspell__putricide__ooze__channel.html#a7619f7ec6dc0ce14293414729731ed00":[7,0,3866,6],
 "df/d04/classspell__putricide__ooze__channel.html#a8338cc31a3c494c1cb24d015a11fbd64":[7,0,3866,1],
 "df/d04/classspell__putricide__ooze__channel.html#a9adbad7cc2185b22fb16135e78114548":[7,0,3866,2],
@@ -36,12 +37,12 @@ var NAVTREEINDEX401 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#ae016ad65dd0154ffa7d59f1e2a572d21":[8,0,0,0,1,3,2,1,0,12,9],
 "df/d07/boss__moira__bronzebeard_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[8,0,0,0,1,3,2,1,0,12,3],
 "df/d07/boss__moira__bronzebeard_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[8,0,0,0,1,3,2,1,0,12,4],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[7,0,13,13,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,34,13,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[7,0,13,13,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,34,13,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[7,0,13,13,0,1],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[5,0,34,13,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[7,0,13,13,0,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[5,0,34,13,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,34,13,0,2],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[7,0,13,13,0,2],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[7,0,3695],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d14/ObjectDefines_8h.html#ab6869459c32ee6c2253af552a1144ddc":[8,0,0,0,1,2,16,5,3,15],
 "df/d14/ObjectDefines_8h.html#ac0046f058b6628976d44bbe6847d4a36":[8,0,0,0,1,2,16,5,3,19],
 "df/d14/ObjectDefines_8h.html#ac04af878f8585da7f1264b4042bac15b":[8,0,0,0,1,2,16,5,3,3],
-"df/d14/ObjectDefines_8h.html#ac42804b48d734699eef6b8f584e2fb90":[8,0,0,0,1,2,16,5,3,22],
-"df/d14/ObjectDefines_8h.html#acce67ab26aa86441d3f07fb597fdf887":[8,0,0,0,1,2,16,5,3,29]
+"df/d14/ObjectDefines_8h.html#ac42804b48d734699eef6b8f584e2fb90":[8,0,0,0,1,2,16,5,3,22]
 };

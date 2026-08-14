@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"de/d79/classGuild.html#a16a63bd6373e87c43bf74572f5c4f0ca":[7,0,1282,49],
 "de/d79/classGuild.html#a17cdedbc4d68713f4a2be9e44a0c2e77":[7,0,1282,26],
 "de/d79/classGuild.html#a19ab0b7ff433180bafc6461c7588084c":[7,0,1282,21],
 "de/d79/classGuild.html#a19f2098d79ea84109f24e78120783f0f":[7,0,1282,106],
@@ -123,10 +124,10 @@ var NAVTREEINDEX388 =
 "de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[7,0,4478,0],
 "de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,1],
 "de/d79/structMMAP_1_1IntermediateValues.html":[7,0,6,1],
-"de/d79/structMMAP_1_1IntermediateValues.html#a0789235bd020d359060e919a65851646":[5,0,20,1,7],
 "de/d79/structMMAP_1_1IntermediateValues.html#a0789235bd020d359060e919a65851646":[7,0,6,1,7],
-"de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[5,0,20,1,9],
+"de/d79/structMMAP_1_1IntermediateValues.html#a0789235bd020d359060e919a65851646":[5,0,20,1,7],
 "de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[7,0,6,1,9],
+"de/d79/structMMAP_1_1IntermediateValues.html#a30baa88eb8e4c1516cdd1bfef5c071b3":[5,0,20,1,9],
 "de/d79/structMMAP_1_1IntermediateValues.html#a5f49b8fa815abb24d0b4902936478738":[5,0,20,1,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#a5f49b8fa815abb24d0b4902936478738":[7,0,6,1,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#a6affbebfb3bf252ad9c608f6b772a7a4":[7,0,6,1,5],
@@ -141,14 +142,14 @@ var NAVTREEINDEX388 =
 "de/d79/structMMAP_1_1IntermediateValues.html#a9946cab3804d9c53165d27d8960bd4c6":[7,0,6,1,3],
 "de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[7,0,6,1,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[5,0,20,1,13],
-"de/d79/structMMAP_1_1IntermediateValues.html#ac50648c10a0154b8204722d11cdd63ed":[5,0,20,1,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ac50648c10a0154b8204722d11cdd63ed":[7,0,6,1,6],
+"de/d79/structMMAP_1_1IntermediateValues.html#ac50648c10a0154b8204722d11cdd63ed":[5,0,20,1,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[5,0,20,1,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[7,0,6,1,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[5,0,20,1,1],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[7,0,6,1,1],
-"de/d79/structMMAP_1_1IntermediateValues.html#af5705f3d1e43dd4439be25e66b1c2cf3":[7,0,6,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#af5705f3d1e43dd4439be25e66b1c2cf3":[5,0,20,1,8],
+"de/d79/structMMAP_1_1IntermediateValues.html#af5705f3d1e43dd4439be25e66b1c2cf3":[7,0,6,1,8],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[7,0,6,1,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,1,12],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html":[7,0,3615],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "de/d80/classPetitionMgr.html#a90db48e86ad855a4f3c33347dc2991e6":[7,0,2423,11],
 "de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae":[7,0,2423,20],
 "de/d80/classPetitionMgr.html#aa612824469e47955f3a231e4abd9bc84":[7,0,2423,14],
-"de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873":[7,0,2423,10],
-"de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[7,0,2423,17]
+"de/d80/classPetitionMgr.html#ab23b6ae6303e2dabcde1981860da8873":[7,0,2423,10]
 };

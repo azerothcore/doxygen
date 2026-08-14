@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"de/dd8/classspell__reliquary__of__souls__fixate.html#a90c0513a6dba2f2e6619dd8c77544991":[7,0,4008,1],
 "de/dd9/AccountMgr_8h.html":[8,0,0,0,1,2,0,1],
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703e":[8,0,0,0,1,2,0,1,7],
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24":[8,0,0,0,1,2,0,1,7,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#a9dc67df2d3b729985c729fdbcf0c2af0":[8,0,0,0,2,2,0,10,18,8],
 "de/de9/SpellProcEquipmentTest_8cpp.html#aa5ab5594e4cc85dab1e756dfa063cdd7":[8,0,0,0,2,2,0,10,18,10],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ab5cd85585dc936ec2fb5a0b22c8cc838":[8,0,0,0,2,2,0,10,18,17],
-"de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[8,0,0,0,2,2,0,10,18,9],
-"de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,10,18,23]
+"de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[8,0,0,0,2,2,0,10,18,9]
 };

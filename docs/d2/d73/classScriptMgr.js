@@ -191,6 +191,7 @@ var classScriptMgr =
     [ "OnGetArenaPoints", "d2/d73/classScriptMgr.html#a624204432917df1cad8a9fb3be12e68f", null ],
     [ "OnGetPoints", "d2/d73/classScriptMgr.html#a2a9beee71cfeadde8116392c29a8c2e4", null ],
     [ "OnGetSlotByType", "d2/d73/classScriptMgr.html#a7a03ca4530b0f7ab2aa2a1af7e7df635", null ],
+    [ "OnGetStartPersonalRating", "d2/d73/classScriptMgr.html#a9ec14894aa63aa2c7b700f6cad56c850", null ],
     [ "OnGlobalItemDelFromDB", "d2/d73/classScriptMgr.html#a4c9e82924aff9615d6593415f5b9df8e", null ],
     [ "OnGlobalMirrorImageDisplayItem", "d2/d73/classScriptMgr.html#a8d781a19d85146b3598665d69d7a7f1e", null ],
     [ "OnGossipHello", "d2/d73/classScriptMgr.html#a058b3f0f4cabbb4c17870dec366d6bd0", null ],

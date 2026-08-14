@@ -1,5 +1,10 @@
 var NAVTREEINDEX177 =
 {
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6":[8,0,0,0,1,2,17,3,2,7],
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4":[8,0,0,0,1,2,17,3,2,4],
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387":[8,0,0,0,1,2,17,3,2,0],
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e":[8,0,0,0,1,2,17,3,2,2],
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06":[8,0,0,0,1,2,17,3,2,6],
 "d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5":[8,0,0,0,1,2,17,3,2,3],
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3a":[8,0,0,0,1,2,17,3,3],
 "d6/d39/HolidayDateCalculator_8h.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14":[8,0,0,0,1,2,17,3,3,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[7,0,4447,0],
 "d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[7,0,4447,1],
 "d6/d41/structboss__ragnaros.html":[7,0,682],
-"d6/d41/structboss__ragnaros.html#a0bd3c10d05c15fe817aa4250f5c811ac":[7,0,682,21],
-"d6/d41/structboss__ragnaros.html#a1658a56a33d91c51582395d7d71c3291":[7,0,682,17],
-"d6/d41/structboss__ragnaros.html#a16af36d04df40bd8e324da2ed6581d89":[7,0,682,16],
-"d6/d41/structboss__ragnaros.html#a187a798c94fcc62083db337d58c626c2":[7,0,682,18],
-"d6/d41/structboss__ragnaros.html#a227861ee536b4b2996404965f3abd4d0":[7,0,682,15],
-"d6/d41/structboss__ragnaros.html#a2d2733ff728c4e8a0855596cb4534906":[7,0,682,4]
+"d6/d41/structboss__ragnaros.html#a0bd3c10d05c15fe817aa4250f5c811ac":[7,0,682,21]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX155 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad66a2de44bc941b063aeb8d7ef744bb5":[8,0,0,0,1,2,0,3,4,349],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad691b146f9b2d46f74afa61c851408c2":[8,0,0,0,1,2,0,3,4,454],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad69db567856716c7788ed7297c86fd38":[8,0,0,0,1,2,0,3,4,579],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad6b219d6cc88e3fceb5c61a549fe32e3":[8,0,0,0,1,2,0,3,4,83],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad73e07eee25980f89013a5552d2bbac4":[8,0,0,0,1,2,0,3,4,647],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad79e03a96686e388db97bbdafe0429ce":[8,0,0,0,1,2,0,3,4,93],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad89ae7405a8b059b8f6e6d5c5181e0b0":[8,0,0,0,1,2,0,3,4,404],
@@ -149,8 +153,8 @@ var NAVTREEINDEX155 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[7,0,2452,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[7,0,2452,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2452,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d79/classCreatureAI.html#a6afb39c4bf86a1e882cc80fd7ec80a8f":[7,0,945,61],
 "d5/d79/classCreatureAI.html#a7066c4909aefe3f44ad24f910003aa59":[7,0,945,80],
 "d5/d79/classCreatureAI.html#a72028a0285dce8f813a4058cd957ee16":[7,0,945,78],
-"d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765":[7,0,945,83],
-"d5/d79/classCreatureAI.html#a7c039b3df20368e5dc6aca4811ca9084":[7,0,945,35],
-"d5/d79/classCreatureAI.html#a7c9b51cb63fa6d4673a2bcd88cfd0218":[7,0,945,49],
-"d5/d79/classCreatureAI.html#a7cd0b6bf7ee616d4d4e98045f7b808c0":[7,0,945,3],
-"d5/d79/classCreatureAI.html#a7f2469dbb7ee382f35c2a69c70519644":[7,0,945,8]
+"d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765":[7,0,945,83]
 };

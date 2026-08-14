@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"da/d99/structGameEventData.html#ab4e80a88f30560a3af0c6381e974687d":[7,0,1104,11],
 "da/d99/structGameEventData.html#ab7963b01d9e138d79f06274ea57b9590":[7,0,1104,0],
 "da/d99/structGameEventData.html#ae055378db69064ad4338ec2ddf6c7c75":[7,0,1104,2],
 "da/d9a/kalimdor__script__loader_8cpp.html":[8,0,0,0,1,3,4,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2f":[8,0,0,0,1,3,7,13,35],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fa11b3c7958186463c328f8b167dfecd51":[8,0,0,0,1,3,7,13,35,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fa1f076e1b94e0013d4a909d84bfa13bd1":[8,0,0,0,1,3,7,13,35,9],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2eae21cbf7d110ee89a9798ef6f00239":[8,0,0,0,1,3,7,13,35,24],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2f28314923d51a16fb6b9fc5ba2382b8":[8,0,0,0,1,3,7,13,35,15]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2eae21cbf7d110ee89a9798ef6f00239":[8,0,0,0,1,3,7,13,35,24]
 };

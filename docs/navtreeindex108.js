@@ -1,5 +1,9 @@
 var NAVTREEINDEX108 =
 {
+"d3/d9f/structboss__talon__king__ikiss.html#adcb1dca375ec548499da5a7690babc21":[7,0,735,5],
+"d3/d9f/structboss__talon__king__ikiss.html#ae8d94f89a67f3a321c88327c076ddd77":[7,0,735,3],
+"d3/da0/classinstance__sethekk__halls.html":[7,0,1369],
+"d3/da0/classinstance__sethekk__halls.html#ab50d296266cf377bfb34750ec36963ef":[7,0,1369,1],
 "d3/da0/classinstance__sethekk__halls.html#adc07afe1aa8132f70474f9a534ecb76c":[7,0,1369,2],
 "d3/da1/npc__professions_8cpp.html":[8,0,0,0,1,3,10,10],
 "d3/da1/npc__professions_8cpp.html#a052fee32e73cbec867c0371876f854f7":[8,0,0,0,1,3,10,10,29],
@@ -245,9 +249,5 @@ var NAVTREEINDEX108 =
 "d3/da8/classArenaTeamMgr.html#a5556877a1a789ae1156c462e57109aee":[7,0,205,6],
 "d3/da8/classArenaTeamMgr.html#a6342c06da7f6b3f995f4de6b5333c1f9":[7,0,205,15],
 "d3/da8/classArenaTeamMgr.html#a75121a3cd5d86b5b43b4ade8aa41e84a":[7,0,205,1],
-"d3/da8/classArenaTeamMgr.html#a7690edf56fdf485bf37aeb07be53169f":[7,0,205,8],
-"d3/da8/classArenaTeamMgr.html#a7d542a1eea7a8f9c5c3f91552b5e1a30":[7,0,205,24],
-"d3/da8/classArenaTeamMgr.html#a84f22067c492863d215955b26d40c295":[7,0,205,10],
-"d3/da8/classArenaTeamMgr.html#a8716557895c17d3de97334849654e7b6":[7,0,205,3],
-"d3/da8/classArenaTeamMgr.html#a8d8a727af5b394897f0f16c2f55e598d":[7,0,205,13]
+"d3/da8/classArenaTeamMgr.html#a7690edf56fdf485bf37aeb07be53169f":[7,0,205,8]
 };

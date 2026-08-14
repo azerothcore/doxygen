@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/db5/QueryHolder_8cpp.html":[8,0,0,0,1,1,0,26],
 "de/db5/classBattlegroundDS.html":[7,0,337],
 "de/db5/classBattlegroundDS.html#a041cd3c81d341ff12e2e103da44c19b8":[7,0,337,0],
 "de/db5/classBattlegroundDS.html#a0c7a45aa22e390d2760bf32720435d5e":[7,0,337,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d":[8,0,0,0,1,3,4,1,0,2,3,0],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca78dd404ee86524d51bcd1ba5160da7be":[8,0,0,0,1,3,4,1,0,2,3,1],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca938ccdbb9c9416feed54c170293796d8":[8,0,0,0,1,3,4,1,0,2,3,2],
-"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,1,0,2,3,4],
-"de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[8,0,0,0,1,3,4,1,0,2,5]
+"de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,1,0,2,3,4]
 };

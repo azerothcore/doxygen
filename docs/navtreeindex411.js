@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca18548935788e51eea627d670721d36e2":[8,0,0,0,1,3,5,1,0,0,13,7],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca25ebd6e7a85bc990b8150feb702ab896":[8,0,0,0,1,3,5,1,0,0,13,3],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca29798fe336e62e3f90e4243c44d76124":[8,0,0,0,1,3,5,1,0,0,13,22],
 "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298ca2eb0725518c805a4bbe293f8df42931b":[8,0,0,0,1,3,5,1,0,0,13,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/d7c/structboss__taldaram.html#a0f228ea10a538a9ecf70b9f54d399150":[7,0,734,12],
 "df/d7c/structboss__taldaram.html#a17ca98f742a06b1496b2216e984811d8":[7,0,734,8],
 "df/d7c/structboss__taldaram.html#a2252fef717c2da047dc2d823e70660c0":[7,0,734,1],
-"df/d7c/structboss__taldaram.html#a247e5357fcdf8da8e00bef09f3568ca3":[7,0,734,11],
-"df/d7c/structboss__taldaram.html#a3d5b4628d6fb2db91ed073b042eefdc4":[7,0,734,3]
+"df/d7c/structboss__taldaram.html#a247e5357fcdf8da8e00bef09f3568ca3":[7,0,734,11]
 };

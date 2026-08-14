@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a5fd08c4ff5ba410458a67eb91e612267":[7,0,3371,1],
 "dd/dbd/classspell__item__crystal__spire__of__karabor.html#adb21bbda83cf0fdc30e64cabc0fb0d1c":[7,0,3371,0],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html":[7,0,1839,0],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[7,0,1839,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ab66937b563d8655f61906478ab15a83c":[8,0,0,0,1,3,5,9,2,10,23,6],
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ac838b9da18caee25b789d613b22a71c5":[8,0,0,0,1,3,5,9,2,10,23,4],
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ae0f35f3f585fa7cae3d5b63ae472ab0b":[8,0,0,0,1,3,5,9,2,10,23,5],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815af2d12430be644d04aa039997bae6c6ba":[8,0,0,0,1,3,5,9,2,10,23,8],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815afa94eb3c4e008d61e992e067afdc47ea":[8,0,0,0,1,3,5,9,2,10,23,1]
+"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815af2d12430be644d04aa039997bae6c6ba":[8,0,0,0,1,3,5,9,2,10,23,8]
 };

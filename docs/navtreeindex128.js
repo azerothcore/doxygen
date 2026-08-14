@@ -1,5 +1,9 @@
 var NAVTREEINDEX128 =
 {
+"d4/d51/SpellProcPPMModifierTest_8cpp.html#a311a78c504af8345e2c9c3a859bdfa23":[8,0,0,0,2,2,0,10,22,5],
+"d4/d51/SpellProcPPMModifierTest_8cpp.html#a43454c0e6317092aedad285a01c1d525":[8,0,0,0,2,2,0,10,22,10],
+"d4/d51/SpellProcPPMModifierTest_8cpp.html#a54ef2e1e9f80b212b8e1d7263f2a4379":[8,0,0,0,2,2,0,10,22,9],
+"d4/d51/SpellProcPPMModifierTest_8cpp.html#a55269899b416b9a218ee32727ea41686":[8,0,0,0,2,2,0,10,22,12],
 "d4/d51/SpellProcPPMModifierTest_8cpp.html#a55af5ca86664564775172b5d49afe313":[8,0,0,0,2,2,0,10,22,7],
 "d4/d51/SpellProcPPMModifierTest_8cpp.html#a61b70ea722efdd0a5ef7fefae02d968e":[8,0,0,0,2,2,0,10,22,6],
 "d4/d51/SpellProcPPMModifierTest_8cpp.html#a62a9fc158e8997b1f0ca15a5f5c41c40":[8,0,0,0,2,2,0,10,22,17],
@@ -220,8 +224,8 @@ var NAVTREEINDEX128 =
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[7,0,0,5,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,0,8,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[7,0,0,5,0,15,4],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[7,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,0,8,0,15,2],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[7,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,0,8,0,15,3],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[7,0,0,5,0,15,3],
 "d4/d59/classat__scarshield__infiltrator.html":[7,0,250],
@@ -245,9 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d5a/classnpc__toc__warrior.html":[7,0,2242],
 "d4/d5a/classnpc__toc__warrior.html#a3e969be07603ef59389106769010660c":[7,0,2242,1],
 "d4/d5a/classnpc__toc__warrior.html#a557d9aa512c485e37b4a05b57ab3d1a4":[7,0,2242,2],
-"d4/d5a/classspell__player__mount__wyrm.html":[7,0,3808],
-"d4/d5a/classspell__player__mount__wyrm.html#a1a2a6547d994cdd8b375a45226b7c36f":[7,0,3808,3],
-"d4/d5a/classspell__player__mount__wyrm.html#a446c71ed3f5fa2ce653148f9567fd199":[7,0,3808,2],
-"d4/d5a/classspell__player__mount__wyrm.html#aac2e8e5e00bf25846f36f920acf98dca":[7,0,3808,0],
-"d4/d5a/classspell__player__mount__wyrm.html#aefda37f79ba45361ad91bd79f4e8a486":[7,0,3808,1]
+"d4/d5a/classspell__player__mount__wyrm.html":[7,0,3808]
 };

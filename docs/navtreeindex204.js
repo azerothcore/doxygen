@@ -1,5 +1,10 @@
 var NAVTREEINDEX204 =
 {
+"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526ae97aff1b319f95719407a49daa6d3161":[8,0,0,0,0,5,3,9,11],
+"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526aead6fd771496ad5d1954f8338f1fdafe":[8,0,0,0,0,5,3,9,17],
+"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af1a861dbf80e81561363604629189804":[8,0,0,0,0,5,3,9,3],
+"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774":[8,0,0,0,0,5,3,9,6],
+"d7/d83/classspell__gen__valthalak__amulet.html":[7,0,3156],
 "d7/d83/classspell__gen__valthalak__amulet.html#a096ce1292821f201af5f294877ee25e0":[7,0,3156,0],
 "d7/d83/classspell__gen__valthalak__amulet.html#a804d6dec38ea4e59a72ed09882dc9e95":[7,0,3156,1],
 "d7/d83/structAuctionEntry.html":[7,0,268],
@@ -244,10 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d91/classInstanceSave.html#a7d50f44ec594b4f97f8b7e4ddf2b2083":[7,0,1400,20],
 "d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db":[7,0,1400,8],
 "d7/d91/classInstanceSave.html#a86fe576f6d1aaf3084ff03054977ecc9":[7,0,1400,29],
-"d7/d91/classInstanceSave.html#a895f58095a9d9f0ec4cd12e2ae2e8282":[7,0,1400,21],
-"d7/d91/classInstanceSave.html#a89c8afd883451f16ce6423eb18fcc6be":[7,0,1400,27],
-"d7/d91/classInstanceSave.html#a90d9cedcf9b9e25c638fea6268d70bc4":[7,0,1400,30],
-"d7/d91/classInstanceSave.html#a92ce355e9be7f83d53307b6dcd354c5d":[7,0,1400,10],
-"d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91":[7,0,1400,5],
-"d7/d91/classInstanceSave.html#a94ad997458e97d7b7548ccbd88f3ac63":[7,0,1400,14]
+"d7/d91/classInstanceSave.html#a895f58095a9d9f0ec4cd12e2ae2e8282":[7,0,1400,21]
 };

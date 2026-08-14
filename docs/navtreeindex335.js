@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[7,0,673,12],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[7,0,673,0],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[7,0,673,10],
 "dc/dc0/structBattlegroundAVScore.html":[7,0,334],
@@ -215,8 +216,8 @@ var NAVTREEINDEX335 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[7,0,3896,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[7,0,0,71],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,83],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[7,0,0,71,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[7,0,0,71,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dc/dd3/structboss__aeonus.html#a649275c31e61f542a13fd791ee85277b":[7,0,382,2],
 "dc/dd3/structboss__aeonus.html#af823ef2187b852dc72d2f63020e1701b":[7,0,382,0],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[5,0,34,7,3],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[7,0,13,7,3],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[5,0,34,7,3,2]
+"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[7,0,13,7,3]
 };

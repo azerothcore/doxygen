@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067":[8,0,0,0,1,2,20,1,13,15],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647":[8,0,0,0,1,2,20,1,13,5],
 "de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[8,0,0,0,1,2,20,1,6],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[8,0,0,0,1,2,20,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "de/d48/classspell__sha__glyph__of__earth__shield.html#a933975b17f340d9f458dc95b77aa43ac":[7,0,4095,0],
 "de/d48/classspell__sha__glyph__of__earth__shield.html#ad9df49f481d936068ebee0d2f6179e9f":[7,0,4095,1],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html":[7,0,4239],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[7,0,4239,2],
-"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[7,0,4239,3]
+"de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a095e7530a0f2e7a76dc8bd3f75759089":[7,0,4239,2]
 };

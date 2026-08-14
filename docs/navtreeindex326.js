@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[7,0,4093,2],
 "dc/d44/classspell__sha__flurry__proc.html#a945c4617cba249ee76045ce032f12c3c":[7,0,4093,0],
 "dc/d44/classspell__sha__flurry__proc.html#abdcb401acb80eb732dbf56bbbcf79801":[7,0,4093,1],
 "dc/d44/cs__spectator_8cpp.html":[8,0,0,0,1,3,0,48],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a26e9d52bcf30e20484f21c591753b23b":[8,0,0,0,1,2,26,2,0,20],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a29509391af755a2d16bbc7dc9a34b777":[8,0,0,0,1,2,26,2,0,21],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2b3e2264e10df69b4fd91dddd6596e21":[8,0,0,0,1,2,26,2,0,5],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2dc05848dae9c1e9ddb3ba49785ebbfa":[8,0,0,0,1,2,26,2,0,130],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3432fe07a0374a355ca751758cf2c83b":[8,0,0,0,1,2,26,2,0,142]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2dc05848dae9c1e9ddb3ba49785ebbfa":[8,0,0,0,1,2,26,2,0,130]
 };

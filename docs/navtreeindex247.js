@@ -1,5 +1,10 @@
 var NAVTREEINDEX247 =
 {
+"d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[7,0,3690,1],
+"d9/d5b/classspell__moam__summon__mana__fiends.html#a994bb1f4670d16f6797b9e0df1d8c36c":[7,0,3690,2],
+"d9/d5b/classspell__summon__ice__spear__delayer.html":[7,0,4178],
+"d9/d5b/classspell__summon__ice__spear__delayer.html#ad0eb66e0bab8441e1bb3db42967df7ff":[7,0,4178,2],
+"d9/d5b/classspell__summon__ice__spear__delayer.html#ae07f6e7de08ada74b4cb9ac890c70c35":[7,0,4178,3],
 "d9/d5b/classspell__summon__ice__spear__delayer.html#aea6ca9c5d490f62ae737bfc07751da42":[7,0,4178,1],
 "d9/d5b/classspell__summon__ice__spear__delayer.html#afb5cc6129423cb4f7c3da50977da01f2":[7,0,4178,0],
 "d9/d5c/classspell__item__nitro__boots.html":[7,0,3451],
@@ -244,10 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d63/classTypeUnorderedMapContainer.html#adda6657e9a0fd08b105cd4d6b2baa9d3":[7,0,4607,6],
 "d9/d63/classspell__charge__shield__bomber__aura.html":[7,0,2765],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456b1b70fd6d9b6642ec959677fe08ff":[7,0,2765,2],
-"d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2765,1],
-"d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[7,0,2765,0],
-"d9/d63/classspell__charge__shield__bomber__aura.html#aa3260fa9a1a918e13ccfc9cd57f59d19":[7,0,2765,3],
-"d9/d63/classspell__destroy__door__seal__aura.html":[7,0,2797],
-"d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[7,0,2797,2],
-"d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[7,0,2797,1]
+"d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2765,1]
 };

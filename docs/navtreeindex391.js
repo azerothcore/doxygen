@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af13ac3a04aede9d88ccaac6032e460e2":[8,0,0,0,1,3,7,14,4,20],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af2cadb0345ed0bc59365598973e66c45":[8,0,0,0,1,3,7,14,4,4],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af45a56eca58cc62d6d5aa5b159fd1585":[8,0,0,0,1,3,7,14,4,6],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31af8d3ed2631595e72aed7bc34a5f96c9b":[8,0,0,0,1,3,7,14,4,1],
@@ -62,12 +63,12 @@ var NAVTREEINDEX391 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[7,0,13,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,34,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[7,0,13,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[7,0,13,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,34,6,43,1],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[7,0,13,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,34,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[7,0,13,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[7,0,13,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,34,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[7,0,13,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[7,0,13,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,34,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[7,0,13,6,43,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a1ff3b33acc4ed9097e36d66a797377b9":[8,0,0,0,1,1,0,0,1,1,226],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2047764ddea7e001409721dada81fb00":[8,0,0,0,1,1,0,0,1,1,125],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2077b91e0879f22f1ced54c833d269ec":[8,0,0,0,1,1,0,0,1,1,67],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a20fe2585c19b12bbf3ac12918027c221":[8,0,0,0,1,1,0,0,1,1,165],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2148d34956cff74422b62642cb49a471":[8,0,0,0,1,1,0,0,1,1,144]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a20fe2585c19b12bbf3ac12918027c221":[8,0,0,0,1,1,0,0,1,1,165]
 };

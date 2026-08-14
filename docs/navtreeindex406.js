@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[7,0,4581,2],
 "df/d29/oculus_8h.html":[8,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,8,2,6,0],
 "df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[8,0,0,0,1,3,5,8,2,6,4],
@@ -92,20 +93,20 @@ var NAVTREEINDEX406 =
 "df/d2a/structnpc__molten__golem.html#aa3521246b0c2bed18b5466879ec1d107":[7,0,2013,1],
 "df/d2a/structnpc__molten__golem.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e":[7,0,2013,4],
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[7,0,2013,6],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[7,0,13,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[7,0,13,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[7,0,13,6,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[7,0,13,6,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[7,0,13,6,40,1],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[7,0,13,6,40,4],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,34,6,40,4],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[7,0,13,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,34,6,40,6],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html":[7,0,2478,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[7,0,1394,0,20],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0ef170420596e91cf81b267f2f6bed93":[7,0,1394,0,5],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[7,0,1394,0,0],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[7,0,1394,0,15],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2dba82a79b82db7358638a59799b69e4":[7,0,1394,0,27]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[7,0,1394,0,15]
 };

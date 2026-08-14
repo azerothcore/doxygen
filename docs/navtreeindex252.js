@@ -1,5 +1,10 @@
 var NAVTREEINDEX252 =
 {
+"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba73564f8582e2a666fb3c4f4b4bc96bff":[8,0,0,0,1,2,24,3,19,3],
+"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba8d79cbace44f9ce8c9f1d4b2a970837e":[8,0,0,0,1,2,24,3,19,2],
+"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628ba9e805af736d9be20caf33f5ec0dc1d47":[8,0,0,0,1,2,24,3,19,1],
+"d9/d84/LootMgr_8h.html#ab10ff4858d8b83699f25198a47ad628baed81cb07716a14961fd4de42df7faf81":[8,0,0,0,1,2,24,3,19,0],
+"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09":[8,0,0,0,1,2,24,3,18],
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a01c8f3e37c72fc34643e0e2de70568eb":[8,0,0,0,1,2,24,3,18,1],
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a176acdde6aaa3a258043b2a43a550cb6":[8,0,0,0,1,2,24,3,18,10],
 "d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09a215f4ae3774466d13d03db3755225753":[8,0,0,0,1,2,24,3,18,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455":[8,0,0,0,1,3,2,4,10,10,4],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298cadc2aa0e9cb1b19943de3644dcc21e7e4":[8,0,0,0,1,3,2,4,10,10,20],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298cae1f03c6e6794e321d2c7b7863eeb1aca":[8,0,0,0,1,3,2,4,10,10,19],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298cae54e36a4b857409339590776e0e1bf32":[8,0,0,0,1,3,2,4,10,10,12],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf12ba70b4a001b26e4ae1866b0bda3a6":[8,0,0,0,1,3,2,4,10,10,16],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf164b2d7d465f8a1b42de2dd519c10a7":[8,0,0,0,1,3,2,4,10,10,10],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf72b4293cee71bba7611981892241f57":[8,0,0,0,1,3,2,4,10,10,5],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caff9621704258262228dc3a9943a6056f":[8,0,0,0,1,3,2,4,10,10,2],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,10,11]
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298cae54e36a4b857409339590776e0e1bf32":[8,0,0,0,1,3,2,4,10,10,12]
 };

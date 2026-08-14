@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[8,0,0,0,1,3,4,1,0,1,5,3],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[8,0,0,0,1,3,4,1,0,1,5,16],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a131160f2bc14eeba884641435ee938ad":[8,0,0,0,1,3,4,1,0,1,5,12],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a1c068d4f23d35de4584c55a0c132507f":[8,0,0,0,1,3,4,1,0,1,5,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[7,0,673,8],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[7,0,673,4],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[7,0,673,6],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[7,0,673,9],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[7,0,673,12]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[7,0,673,9]
 };

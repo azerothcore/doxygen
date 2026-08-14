@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"dd/ddb/class__SpellScript.html#ad3c16df6214a973fca3c62e4bc23f6a6":[7,0,18,5],
 "dd/ddb/class__SpellScript.html#ad501b6dde3e42c3af93589b117e2cafc":[7,0,18,14],
 "dd/ddb/class__SpellScript.html#ae22c1ed4b0e2742ee4c35de03c70d9d8":[7,0,18,7],
 "dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f":[7,0,18,20],
@@ -217,12 +218,12 @@ var NAVTREEINDEX360 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[7,0,3082,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,28],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[7,0,0,16],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[7,0,0,16,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dec/classChannelMgr.html#a92540d37b38ccc032665fa220349a4ec":[7,0,868,7],
 "dd/dec/classChannelMgr.html#aa671334be6933f374466666ec5c6cc46":[7,0,868,2],
 "dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[7,0,868,16],
-"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[7,0,868,10],
-"dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9":[7,0,868,14]
+"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[7,0,868,10]
 };

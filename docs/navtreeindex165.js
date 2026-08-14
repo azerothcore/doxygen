@@ -1,5 +1,9 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd7/classspell__sha__spirit__walk.html#aecbecbd753b8ed32d51971a090063ef4":[7,0,4117,0],
+"d5/dd8/boss__flamegor_8cpp.html":[8,0,0,0,1,3,2,1,2,5],
+"d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,2,1,2,5,1],
+"d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[8,0,0,0,1,3,2,1,2,5,1,0],
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,2,5,3],
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,2,1,2,5,3,2],
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298cacbdf7182ed52cd271184e17672067e2d":[8,0,0,0,1,3,2,1,2,5,3,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de7/classinstance__steam__vault.html":[7,0,1373],
 "d5/de7/classinstance__steam__vault.html#a3a2edb84cc7067d3c8fa2151b4763c5a":[7,0,1373,2],
 "d5/de7/classinstance__steam__vault.html#aa3417083841ccb50c8a2f29ba343e115":[7,0,1373,1],
-"d5/de7/structRunes.html":[7,0,2556],
-"d5/de7/structRunes.html#a88c702716eb3032c20ae5ed74922d923":[7,0,2556,1],
-"d5/de7/structRunes.html#a920d32d04ec7e872680a89b0c0a9b0ef":[7,0,2556,0],
-"d5/de7/structRunes.html#aac485530bfa81d54d9da3213fe917c29":[7,0,2556,2],
-"d5/de7/structRunes.html#ae58297e0766578b234604a97641501a1":[7,0,2556,3]
+"d5/de7/structRunes.html":[7,0,2556]
 };

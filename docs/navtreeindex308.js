@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa4907fe62657ba25ce598bf0a49f8a693":[8,0,0,0,1,3,5,6,12,96,7],
 "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa62d87b7c4f12d67f7a3fcdd7e17faa4b":[8,0,0,0,1,3,5,6,12,96,3],
 "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa763928c1cdc373328e1c5bbf45c54770":[8,0,0,0,1,3,5,6,12,96,2],
 "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa840f14c0588f0609c97c592a3413780f":[8,0,0,0,1,3,5,6,12,96,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae9073aa689450fca369fa99815804f61":[7,0,2216,0,18],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae91bdf876060d8ff6fdf4fbf797d07d8":[7,0,2216,0,0],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aeeeebf8e7c9351ce7ec6b9b86c6180da":[7,0,2216,0,24],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#af6b067b16ecd834513590e51e6ddd485":[7,0,2216,0,4],
-"db/dd5/classCreature.html":[7,0,942]
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#af6b067b16ecd834513590e51e6ddd485":[7,0,2216,0,4]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204":[8,0,0,0,1,3,2,28,6,2],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07":[8,0,0,0,1,3,2,28,6,3],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab":[8,0,0,0,1,3,2,28,6,13],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1":[8,0,0,0,1,3,2,28,6,0],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56":[8,0,0,0,1,3,2,28,6,9],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15":[8,0,0,0,1,3,2,28,6,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#afbf2d4e9c3e8e50815c398b97afb3970":[7,0,412,0,4],
 "d2/d6b/structMySQLType_3_01double_01_4.html":[7,0,1589],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html":[7,0,1637,0],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a53458483699ac026ff2cd36b5f061571":[7,0,1637,0,1],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a96e1bd089dfd21fa252bc6422d20bada":[7,0,1637,0,0],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#ab3dca17e0350d6d46a9069f97f2d12ef":[7,0,1637,0,3],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#acdcf4110b3815635ad173a70e7a1e603":[7,0,1637,0,2]
+"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a53458483699ac026ff2cd36b5f061571":[7,0,1637,0,1]
 };

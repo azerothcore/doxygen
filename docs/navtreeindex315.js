@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[7,0,4592,4],
 "db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[7,0,4592,5],
 "db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[7,0,4592,3],
 "db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[7,0,4592,1],
@@ -22,8 +23,8 @@ var NAVTREEINDEX315 =
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[7,0,298,3],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[7,0,13,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[7,0,13,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcae2bb0945c16986078d2c8b5f71272d7b":[8,0,0,0,1,3,9,8,105,0],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcafe0cf1a9db25cc05982796389558410a":[8,0,0,0,1,3,9,8,105,2],
 "db/dfb/spell__quest_8cpp.html#adcf71893f9ac87a85ac7a1562cdca6d3":[8,0,0,0,1,3,9,8,103],
-"db/dfb/spell__quest_8cpp.html#adcf71893f9ac87a85ac7a1562cdca6d3a52cf074227bd83fb6e8f2115f2225b26":[8,0,0,0,1,3,9,8,103,0],
-"db/dfb/spell__quest_8cpp.html#adf52d34d709391b95add43de7eedefff":[8,0,0,0,1,3,9,8,97]
+"db/dfb/spell__quest_8cpp.html#adcf71893f9ac87a85ac7a1562cdca6d3a52cf074227bd83fb6e8f2115f2225b26":[8,0,0,0,1,3,9,8,103,0]
 };

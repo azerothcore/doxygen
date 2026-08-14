@@ -1,5 +1,7 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f":[8,0,0,0,1,3,5,14,27],
+"d2/d38/northrend__script__loader_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[8,0,0,0,1,3,5,14,160],
 "d2/d38/northrend__script__loader_8cpp.html#aa3eb378aecbc387e203da1531a09d1b6":[8,0,0,0,1,3,5,14,56],
 "d2/d38/northrend__script__loader_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,14,95],
 "d2/d38/northrend__script__loader_8cpp.html#aa42fcae49fd433507a2251bd5975dc84":[8,0,0,0,1,3,5,14,91],
@@ -54,8 +56,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2241,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2241,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,987,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d42/structAuctionSearchAdd.html":[7,0,279],
 "d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[7,0,279,0],
 "d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[7,0,279,1],
-"d2/d43/classMovementHandlerScript.html":[7,0,1575],
-"d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[7,0,1575,1],
-"d2/d43/classMovementHandlerScript.html#aec794d21148c9ed382d80b6c30a676cd":[7,0,1575,0]
+"d2/d43/classMovementHandlerScript.html":[7,0,1575]
 };

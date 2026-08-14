@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b":[7,0,4505,67],
 "df/d92/classSpellScript.html#ad003dd5f9342f3155ab07dc6a6c92615":[7,0,4505,54],
 "df/d92/classSpellScript.html#ad3b76d0716ab3113b56ef35336e75709":[7,0,4505,36],
 "df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[7,0,4505,39],
@@ -32,19 +33,19 @@ var NAVTREEINDEX414 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[7,0,2243,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[7,0,2243,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[7,0,987,1],
-"df/d94/classDBCFile_1_1Iterator.html#a3885f293a5dba744603beffbf9f8b640":[7,0,987,1,9],
 "df/d94/classDBCFile_1_1Iterator.html#a3885f293a5dba744603beffbf9f8b640":[7,0,987,1,8],
-"df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,987,1,3],
+"df/d94/classDBCFile_1_1Iterator.html#a3885f293a5dba744603beffbf9f8b640":[7,0,987,1,9],
 "df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,987,1,2],
-"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,0],
+"df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,987,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,1],
+"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,987,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,987,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,987,1,5],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,987,1,4],
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[7,0,987,1,12],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,987,1,7],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,987,1,6],
+"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[7,0,987,1,7],
 "df/d94/classShockVortexExplodeEvent.html":[7,0,2594],
 "df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[7,0,2594,1],
 "df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[7,0,2594,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d9d/classMessageBuffer.html#acc13033dd688408760116899ca38f94e":[7,0,1541,12],
 "df/d9d/classMessageBuffer.html#ace3b4c6c430e225cccf5119467721735":[7,0,1541,17],
 "df/d9d/classMessageBuffer.html#ad5765765420af77b236d61f3c7bdadfa":[7,0,1541,8],
-"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[7,0,1541,5],
-"df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[7,0,1541,13]
+"df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[7,0,1541,5]
 };

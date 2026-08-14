@@ -6,5 +6,6 @@ var ArenaHookDefaultsTest_8cpp =
     [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#a6677d75c2b2c5b8a1b910e5b7a943867", null ],
     [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#abb810fe89abdcbd96e44ddf079e86cf3", null ],
     [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#a107778bcf48a658ed6e9f2a52234d6d0", null ],
-    [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#ab81f733e33491c5907ae23252337725c", null ]
+    [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#ab81f733e33491c5907ae23252337725c", null ],
+    [ "TEST_F", "d1/d32/ArenaHookDefaultsTest_8cpp.html#aebf0984dca47a71b73c8c7cca37100ce", null ]
 ];

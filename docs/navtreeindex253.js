@@ -1,5 +1,10 @@
 var NAVTREEINDEX253 =
 {
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf12ba70b4a001b26e4ae1866b0bda3a6":[8,0,0,0,1,3,2,4,10,10,16],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf164b2d7d465f8a1b42de2dd519c10a7":[8,0,0,0,1,3,2,4,10,10,10],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf72b4293cee71bba7611981892241f57":[8,0,0,0,1,3,2,4,10,10,5],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caff9621704258262228dc3a9943a6056f":[8,0,0,0,1,3,2,4,10,10,2],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,10,11],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,10,11,1],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba579e6c58ffcd03b92b428ca3ae9e71ad":[8,0,0,0,1,3,2,4,10,11,0],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,2,4,10,11,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22ae44ed29085b14444414b73bbd223d58e":[8,0,0,0,1,3,2,14,8,4,12],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22aef4fd113c1545998d07b032c3367ced1":[8,0,0,0,1,3,2,14,8,4,16],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22af7f03b173ce5d732418cf1cd2d313808":[8,0,0,0,1,3,2,14,8,4,7],
-"d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22afed37b4cccbefb71eae3b750ca256a8a":[8,0,0,0,1,3,2,14,8,4,13],
-"d9/d99/classspell__gen__basic__campfire.html":[7,0,3021],
-"d9/d99/classspell__gen__basic__campfire.html#a42dea7b58aed704a6aacd5d0aa0028d4":[7,0,3021,1],
-"d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[7,0,3021,3],
-"d9/d99/classspell__gen__basic__campfire.html#a7b0446133750fce7eda19dbde5abb3b1":[7,0,3021,2],
-"d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3021,0]
+"d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22afed37b4cccbefb71eae3b750ca256a8a":[8,0,0,0,1,3,2,14,8,4,13]
 };

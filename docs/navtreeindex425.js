@@ -1,5 +1,6 @@
 var NAVTREEINDEX425 =
 {
+"df/dda/classspell__mage__focus__magic.html#a1cabf65eacb5d10d9430a3ff320bfe1d":[7,0,3612,6],
 "df/dda/classspell__mage__focus__magic.html#a5b791c7cb8dae574fef801ce42dc6aa1":[7,0,3612,1],
 "df/dda/classspell__mage__focus__magic.html#a787008462dce35eb27deda41301b146d":[7,0,3612,0],
 "df/dda/classspell__mage__focus__magic.html#a9760351c28f5f9948f0b64ae2ca91c24":[7,0,3612,2],
@@ -145,8 +146,8 @@ var NAVTREEINDEX425 =
 "df/dde/classnpc__rinji.html":[7,0,2132],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[7,0,2132,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[7,0,2132,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[7,0,11,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a72cdf8414d32846375122393b9911861":[7,0,11,23,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX425 =
 "df/de3/classMapInstanced.html#aa27d6f90288f23d34117c7d68160e04c":[7,0,1528,2],
 "df/de3/classMapInstanced.html#aaff2d76ae18bb7416e0cc8c16e0375d7":[7,0,1528,8],
 "df/de3/classMapInstanced.html#ad57ef8f1654b494b8c20f6af461653f4":[7,0,1528,4],
-"df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[7,0,1528,14],
-"df/de3/classMapInstanced.html#af30e91e40c171ddbf7400f310283c43c":[7,0,1528,1]
+"df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[7,0,1528,14]
 };

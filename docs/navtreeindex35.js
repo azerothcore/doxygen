@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d61/structCreatureTemplate.html#ac21972c55a5bb6373e86bb00144855e2":[7,0,962,7],
 "d1/d61/structCreatureTemplate.html#acbd1c75616b592ed38bb2d364045e250":[7,0,962,25],
 "d1/d61/structCreatureTemplate.html#ad2e2f0d36f61d678cc700c26dc1a1385":[7,0,962,63],
 "d1/d61/structCreatureTemplate.html#adb9941ed12d10a54e04a7b4bee4310a8":[7,0,962,11],
@@ -21,8 +22,8 @@ var NAVTREEINDEX35 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,16,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[7,0,13,16,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,16,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[7,0,13,16,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,16,1,2],
 "d1/d63/GameTime_8h.html":[8,0,0,0,1,2,45,1],
 "d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[8,0,0,0,1,2,45,1,4],
 "d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[8,0,0,0,1,2,45,1,8],
@@ -39,16 +40,16 @@ var NAVTREEINDEX35 =
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[7,0,210,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[7,0,0,78],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,0,90],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,90,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[7,0,0,78,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,90,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,90,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[7,0,0,78,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,90,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[7,0,0,78,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,90,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[7,0,0,78,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,90,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,0,90,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[7,0,0,78,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,0,90,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[7,0,3975],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[7,0,3975,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[7,0,3975,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d6a/classspell__dk__death__grip.html#a8534cc52f42f0598088bf8500dd5e0e5":[7,0,2824,2],
 "d1/d6a/classspell__dk__death__grip.html#a8e8578447aafeea4a62e028dbe6c7419":[7,0,2824,1],
 "d1/d6a/classspell__dk__death__grip.html#ad68a099d3167534be3d9978d1fc2b4fe":[7,0,2824,0],
-"d1/d6a/classspell__dk__death__grip.html#af7aff878540dd34138aa479f532611b6":[7,0,2824,4],
-"d1/d6a/structinstance__halls__of__lightning_1_1instance__halls__of__lightning__InstanceMapScript.html":[7,0,1341,0]
+"d1/d6a/classspell__dk__death__grip.html#af7aff878540dd34138aa479f532611b6":[7,0,2824,4]
 };

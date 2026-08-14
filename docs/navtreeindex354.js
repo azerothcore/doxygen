@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4294],
 "dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4294,1],
 "dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4294,0],
 "dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4294,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[7,0,37,0],
 "dd/db1/classspell__gen__replenishment.html":[7,0,3127],
 "dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[7,0,3127,3],
-"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[7,0,3127,2],
-"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3127,0]
+"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[7,0,3127,2]
 };

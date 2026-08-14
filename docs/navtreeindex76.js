@@ -1,5 +1,9 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd1/structMovementInfo.html#af8c4c6db42364ec712398b317238c90b":[7,0,1576,11],
+"d2/dd1/structMovementInfo.html#afad84c80474a806e8abb4626ccfbcfaf":[7,0,1576,9],
+"d2/dd1/structMovementInfo.html#afc5605f3e357e6ca4f2c681329bb0302":[7,0,1576,21],
+"d2/dd1/structMovementInfo.html#aff0e449eb1567041f1a44c34e5fa85bc":[7,0,1576,3],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html":[7,0,603,0],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a162870aad6c99276f760b2e37b42c6c9":[7,0,603,0,17],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a277180410090d1857bcc8962e22d965d":[7,0,603,0,0],
@@ -131,8 +135,8 @@ var NAVTREEINDEX76 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
 "d2/ddb/structPyramidEventData.html":[7,0,2494],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[7,0,2494,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de0/classspell__yogg__saron__lunatic__gaze.html#a67da98b94fe491afa06b7a0cfa92982a":[7,0,4429,1],
 "d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d":[7,0,4429,0],
 "d2/de1/classlearn__commandscript.html":[7,0,1445],
-"d2/de1/classlearn__commandscript.html#a1e08e9289a6dccde021f3712db106c64":[7,0,1445,10],
-"d2/de1/classlearn__commandscript.html#a2a7cc02eb4417907b50d49bab39110cf":[7,0,1445,7],
-"d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[7,0,1445,14],
-"d2/de1/classlearn__commandscript.html#a44b538a1031ad69bec762f1a791cf11f":[7,0,1445,11],
-"d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[7,0,1445,0]
+"d2/de1/classlearn__commandscript.html#a1e08e9289a6dccde021f3712db106c64":[7,0,1445,10]
 };

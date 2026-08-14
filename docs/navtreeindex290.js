@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b":[8,0,0,0,1,3,2,6,0,5,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934":[8,0,0,0,1,3,2,6,0,5,3],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,6,0,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d":[8,0,0,0,1,3,2,6,0,6,8],
@@ -37,8 +38,8 @@ var NAVTREEINDEX290 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,695,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,695,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aea20be843c1f9c3402edd903b938292d":[7,0,2290,0,17],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#af547ffffa48ee8d7b0f6babbd0e9875e":[7,0,2290,0,0],
 "db/d31/classspell__hun__scatter__shot.html":[7,0,3270],
-"db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[7,0,3270,2],
-"db/d31/classspell__hun__scatter__shot.html#a5b25d03bb22995e1ba9deb7eec4ee35a":[7,0,3270,0]
+"db/d31/classspell__hun__scatter__shot.html#a547b3f71f9fc502dc589ad7b9b6f3cc2":[7,0,3270,2]
 };

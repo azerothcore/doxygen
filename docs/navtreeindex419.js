@@ -1,10 +1,11 @@
 var NAVTREEINDEX419 =
 {
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[7,0,821],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,821,2],
 "df/dc7/structboss__yoggsaron__voice.html#a094522e81d1d19de660b75fb06ea4224":[7,0,821,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800":[8,0,0,0,1,3,9,10,60,21],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac8ef7c5754c0bb80e76854002cb7ed64":[8,0,0,0,1,3,9,10,60,38],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399":[8,0,0,0,1,3,9,10,60,7],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[8,0,0,0,1,3,9,10,60,4],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[8,0,0,0,1,3,9,10,60,11]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836":[8,0,0,0,1,3,9,10,60,4]
 };

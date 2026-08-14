@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[7,0,399,1],
 "dc/d99/VMapFactory_8cpp.html":[8,0,0,0,0,1,0,3],
 "dc/d99/VMapFactory_8cpp.html#a3fb33e0008bbbabc087f99a45e512784":[8,0,0,0,0,1,0,3,0],
 "dc/d9a/classspell__hatch__eggs.html":[7,0,3216],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca720fa294c3624cd1c630b3d677b08171":[8,0,0,0,1,3,4,9,8,11,11],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca77ecc48a97adce5516fa8e4e1d3d67f4":[8,0,0,0,1,3,4,9,8,11,9],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca7832658376334e93d14cadd8fc6979d3":[8,0,0,0,1,3,4,9,8,11,6],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca79fc0c3a27102c92c5e0b3597c8df9f9":[8,0,0,0,1,3,4,9,8,11,3],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca96c58bdf6b780df881945c821b55cb12":[8,0,0,0,1,3,4,9,8,11,13]
+"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca79fc0c3a27102c92c5e0b3597c8df9f9":[8,0,0,0,1,3,4,9,8,11,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"da/df1/classMetric.html#a1474d1913f1db34a25d318b46e21a2b2":[7,0,1542,7],
 "da/df1/classMetric.html#a22934a06eb31e77c7ae3e26265a12272":[7,0,1542,3],
 "da/df1/classMetric.html#a268b52607a8f1551d5b4c58b71119902":[7,0,1542,6],
 "da/df1/classMetric.html#a28bb6c659cf9d832a85d3853f4a2a416":[7,0,1542,35],
@@ -172,10 +173,10 @@ var NAVTREEINDEX286 =
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[7,0,0,34,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,0,46,2],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[7,0,0,34,2],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[7,0,13,12,8],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[7,0,13,12,8,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[7,0,4377],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacadae3b32642ab8b6c6e415f0570d70e94":[8,0,0,0,1,3,5,9,2,2,9,1],
 "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacae0cf791545158754919cea4d5601ecb5":[8,0,0,0,1,3,5,9,2,2,9,6],
 "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacae6c1ecfcc4f88ab863c363cc497b4beb":[8,0,0,0,1,3,5,9,2,2,9,11],
-"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d":[8,0,0,0,1,3,5,9,2,2,9,0],
-"da/df9/boss__auriaya_8cpp.html#a8f90adeb34952ff3a402f1710f681580":[8,0,0,0,1,3,5,9,2,2,14]
+"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d":[8,0,0,0,1,3,5,9,2,2,9,0]
 };

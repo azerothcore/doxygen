@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/d82/classFlightPathMovementGenerator.html#aa83bc85f1b6cd6d5367d745ae31cc6fc":[7,0,1086,19],
 "db/d82/classFlightPathMovementGenerator.html#abd78eb2841908da8c3c18936d80f18e9":[7,0,1086,5],
 "db/d82/classFlightPathMovementGenerator.html#ac7bb92b99dc57a2b53b0a55e0a797678":[7,0,1086,14],
 "db/d82/classFlightPathMovementGenerator.html#ad4a14cf3b7497cf30e6305d52d94ecdb":[7,0,1086,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/d8a/SpellProcAttributeTest_8cpp.html#a7b6110dd7f69ae3d82810f21403f7392":[8,0,0,0,2,2,0,10,9,20],
 "db/d8a/SpellProcAttributeTest_8cpp.html#a80fcff3d8b881c44f37e83efbd0cc083":[8,0,0,0,2,2,0,10,9,24],
 "db/d8a/SpellProcAttributeTest_8cpp.html#a8765488ee7f541a834983dc128579db1":[8,0,0,0,2,2,0,10,9,33],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a91df1fb0dfad463863ff1fb97fc36ede":[8,0,0,0,2,2,0,10,9,29],
-"db/d8a/SpellProcAttributeTest_8cpp.html#aa4614962cf86c1517e1f57c1416b3416":[8,0,0,0,2,2,0,10,9,2]
+"db/d8a/SpellProcAttributeTest_8cpp.html#a91df1fb0dfad463863ff1fb97fc36ede":[8,0,0,0,2,2,0,10,9,29]
 };

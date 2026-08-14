@@ -1,5 +1,9 @@
 var NAVTREEINDEX106 =
 {
+"d3/d8f/classgo__pumpkin__shrine.html#ab9b05caa7ef7d740a0c46171c2160a19":[7,0,1201,0],
+"d3/d8f/classspell__dru__swift__flight__passive.html":[7,0,2930],
+"d3/d8f/classspell__dru__swift__flight__passive.html#a636331452bc95a4434f1b85e85ea6e7b":[7,0,2930,3],
+"d3/d8f/classspell__dru__swift__flight__passive.html#ab705e67f7abb72a13dfd32e7a6da4561":[7,0,2930,0],
 "d3/d8f/classspell__dru__swift__flight__passive.html#ac87f1c7ccb9aa9985d538c9d8611c850":[7,0,2930,1],
 "d3/d8f/classspell__dru__swift__flight__passive.html#ae4a75ef8bc755c8220b768d5ac87a728":[7,0,2930,2],
 "d3/d90/structboss__azuregos_1_1boss__azuregosAI.html":[7,0,408,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6":[7,0,3186,0],
 "d3/d9a/classspell__hadronox__leech__poison__aura.html#a7690603bd7b01ca6da2a73ac8ed36114":[7,0,3186,3],
 "d3/d9a/classspell__hadronox__leech__poison__aura.html#a7c0533650e772713233ea45b0264cbff":[7,0,3186,2],
-"d3/d9a/gamePCH_8h.html":[8,0,0,0,1,2,35,0],
-"d3/d9b/boss__mr__smite_8cpp.html":[8,0,0,0,1,3,2,2,0],
-"d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,2,0,2],
-"d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bab85340be0737f8787a236dc66b48c":[8,0,0,0,1,3,2,2,0,2,1],
-"d3/d9b/boss__mr__smite_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bc59a132e7b536f6c60e80c11c47f60":[8,0,0,0,1,3,2,2,0,2,13]
+"d3/d9a/gamePCH_8h.html":[8,0,0,0,1,2,35,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX147 =
 {
+"d5/d1b/classThreatManager.html#a87dcf3c4c5bd64be1d807d892aef8a1a":[7,0,4561,71],
+"d5/d1b/classThreatManager.html#a888f9abedaaa80ba341479ad65eb70f2":[7,0,4561,17],
+"d5/d1b/classThreatManager.html#a89495d06c48be8e0e3b08aacb17ad375":[7,0,4561,20],
+"d5/d1b/classThreatManager.html#a897a5a6e466a174d7ac808597bd8379c":[7,0,4561,35],
 "d5/d1b/classThreatManager.html#a8c9f733e7e3c781620feed4d2d11fb8d":[7,0,4561,32],
 "d5/d1b/classThreatManager.html#a8fc668195dc91cb83931e190cc00b510":[7,0,4561,3],
 "d5/d1b/classThreatManager.html#a9021052e624c8904e97004e4836598b4":[7,0,4561,74],
@@ -245,9 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d26/classspell__ignis__grab__initial.html":[7,0,3319],
 "d5/d26/classspell__ignis__grab__initial.html#a3bb460d50928bd1b57566dd6a50fa5cd":[7,0,3319,3],
 "d5/d26/classspell__ignis__grab__initial.html#a6128956f1037b62fff2e6f10ec22d956":[7,0,3319,1],
-"d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1":[7,0,3319,0],
-"d5/d26/classspell__ignis__grab__initial.html#ae445c98f5543df2f45b77b6cd54d58e7":[7,0,3319,2],
-"d5/d26/classspell__item__trinket__stack.html":[7,0,3510],
-"d5/d26/classspell__item__trinket__stack.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0":[7,0,3510,0],
-"d5/d26/classspell__item__trinket__stack.html#a49218a89f9915a14b3a98f073d382f91":[7,0,3510,4]
+"d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1":[7,0,3319,0]
 };

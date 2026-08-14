@@ -1,5 +1,9 @@
 var NAVTREEINDEX173 =
 {
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9":[8,0,0,0,1,3,5,2,0,2,6],
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a014c8826069f55e8c6b71dbe33a8fed8":[8,0,0,0,1,3,5,2,0,2,6,5],
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a14355ab4c6840e811b8e29da9c58e5df":[8,0,0,0,1,3,5,2,0,2,6,15],
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a16a80dfdff8c357a04514d8acb842227":[8,0,0,0,1,3,5,2,0,2,6,10],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a26834a4bffc2641fb3884f2146aa4327":[8,0,0,0,1,3,5,2,0,2,6,16],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a2f25d05b8a7a2a5b8ec276bed6588dec":[8,0,0,0,1,3,5,2,0,2,6,1],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a42bdc4529f83b0925eee1ec9d91d834c":[8,0,0,0,1,3,5,2,0,2,6,0],
@@ -84,6 +88,7 @@ var NAVTREEINDEX173 =
 "d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[7,0,190,8],
 "d6/d1d/classArenaScript.html#a164257b5ed4a0808d709870cdf73ed3b":[7,0,190,3],
 "d6/d1d/classArenaScript.html#a2b46190a3243f2306a74295975dca317":[7,0,190,6],
+"d6/d1d/classArenaScript.html#a353e524bf3e4e8065dafd2df3aad9479":[7,0,190,9],
 "d6/d1d/classArenaScript.html#a548ac21d5bd9be263935a298a3b5cd16":[7,0,190,7],
 "d6/d1d/classArenaScript.html#a6ee4251edaae00038858fa340c2c840e":[7,0,190,0],
 "d6/d1d/classArenaScript.html#a73719d3e62d1f7cf1f174292975f0f4f":[7,0,190,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d26/classBattlefield.html#a28d2e8b978f76158caa58f5890484a1b":[7,0,326,85],
 "d6/d26/classBattlefield.html#a29a7b061b5fff00c63dc34c584303578":[7,0,326,111],
 "d6/d26/classBattlefield.html#a2c7c3829ac332a114d40bb0846714aba":[7,0,326,121],
-"d6/d26/classBattlefield.html#a2e026c0f81ae7b5ebe455943a0743494":[7,0,326,105],
-"d6/d26/classBattlefield.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee":[7,0,326,97],
-"d6/d26/classBattlefield.html#a2f39fb7dc6ed0d149b5470c70ae00690":[7,0,326,25],
-"d6/d26/classBattlefield.html#a303f65fe125aa98d5ff0a235215946c0":[7,0,326,77],
-"d6/d26/classBattlefield.html#a3050acedd7e484b458448ee6f793411c":[7,0,326,9],
-"d6/d26/classBattlefield.html#a32281050c36a89eb240b33d6558c7bb2":[7,0,326,96]
+"d6/d26/classBattlefield.html#a2e026c0f81ae7b5ebe455943a0743494":[7,0,326,105]
 };

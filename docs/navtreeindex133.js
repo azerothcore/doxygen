@@ -1,5 +1,9 @@
 var NAVTREEINDEX133 =
 {
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0f85c6b0c7e9fc82c3ce4d36ecad809c":[8,0,0,0,1,3,2,1,2,6,13,25],
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1cce16ebce256d7e502f25efab676a3e":[8,0,0,0,1,3,2,1,2,6,13,20],
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25d9bfbe97fa9d66406d8dd48799eb4a":[8,0,0,0,1,3,2,1,2,6,13,14],
+"d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2867ab9328928a5bdaab3248d0a6c7c2":[8,0,0,0,1,3,2,1,2,6,13,4],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4242e2b47590f5b11aba8f6e6572afb1":[8,0,0,0,1,3,2,1,2,6,13,18],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51eadbae4d3e828f5f291c471e86c65d":[8,0,0,0,1,3,2,1,2,6,13,10],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a59ab9e9718759b878ad4debd8c211ed7":[8,0,0,0,1,3,2,1,2,6,13,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4a9a6d5858587723b4297b813e721b2992":[8,0,0,0,1,3,5,2,1,1,37,1],
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4abefae65b429eb037a9c2feb0b0b43a28":[8,0,0,0,1,3,5,2,1,1,37,6],
 "d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4aee372975ab7ca64a6e65ca533d4462ce":[8,0,0,0,1,3,5,2,1,1,37,0],
-"d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4af95cdd50d2420e04e3c789a75137a787":[8,0,0,0,1,3,5,2,1,1,37,4],
-"d4/d81/boss__faction__champions_8cpp.html#a704df41bc78df4d7a7b69667678bd967":[8,0,0,0,1,3,5,2,1,1,63],
-"d4/d81/boss__faction__champions_8cpp.html#a704df41bc78df4d7a7b69667678bd967a0c7b636d146fd0867dace071e49f48d3":[8,0,0,0,1,3,5,2,1,1,63,0],
-"d4/d81/boss__faction__champions_8cpp.html#a704df41bc78df4d7a7b69667678bd967af93c5ad79f6b283408944f28a4bef144":[8,0,0,0,1,3,5,2,1,1,63,1],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269e":[8,0,0,0,1,3,5,2,1,1,52]
+"d4/d81/boss__faction__champions_8cpp.html#a6c63234af4b68450f9c014e3614bc8f4af95cdd50d2420e04e3c789a75137a787":[8,0,0,0,1,3,5,2,1,1,37,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX266 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aa0eb1695ee2e3a50cc0b3844db0e7b3e":[8,0,0,0,1,2,41,0,0,6,290],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aa25d0b6d80f8d2a9d7ec7581c80b3a4b":[8,0,0,0,1,2,41,0,0,6,281],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aa51982ba2fbce76b94654ede71e61401":[8,0,0,0,1,2,41,0,0,6,305],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799aa59208c8449e301971c49b24d7c3b4f4":[8,0,0,0,1,2,41,0,0,6,253],
@@ -220,12 +221,12 @@ var NAVTREEINDEX266 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#aeb11687534fa7c1e76ea22cc07deb73d":[7,0,1920,0,3],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#af1726169fe63eb3ff1ed95eb0e10d2f0":[7,0,1920,0,4],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#afdb4215cd0578de7342b152783666ed6":[7,0,1920,0,2],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,34,6,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[7,0,13,6,33],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,34,6,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,34,6,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[7,0,13,6,33,3],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[7,0,13,6,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[5,0,34,6,33,5],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[7,0,13,6,33,5],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[5,0,34,6,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aa6309467f9f09725a8698de864b4e63c":[7,0,13,6,33,4],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abab86dd497de86088873178bf1d54b5b":[5,0,34,6,33,0],
@@ -234,10 +235,10 @@ var NAVTREEINDEX266 =
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#abb2489b9be8a0d4a20d209d6293d7d46":[7,0,13,6,33,1],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acd5105c31e0f56e680f3384e86186872":[7,0,13,6,33,2],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acd5105c31e0f56e680f3384e86186872":[5,0,34,6,33,2],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acddb77850a86348df197afc724c4eaa0":[7,0,13,6,33,6],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acddb77850a86348df197afc724c4eaa0":[5,0,34,6,33,6],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aec9fd9a1a3bfa040375193027b32cf24":[7,0,13,6,33,7],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#acddb77850a86348df197afc724c4eaa0":[7,0,13,6,33,6],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aec9fd9a1a3bfa040375193027b32cf24":[5,0,34,6,33,7],
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#aec9fd9a1a3bfa040375193027b32cf24":[7,0,13,6,33,7],
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html":[7,0,1632,0],
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#a0bd43e2482a12cda79566f761d448109":[7,0,1632,0,1],
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#a157af7db82bf943c298b63d8294067ce":[7,0,1632,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX266 =
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#a5a55cfec1d204b6657779938e93b6be5":[7,0,1632,0,3],
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#a7e1777ca319e4f6dafc1a035d05dabc0":[7,0,1632,0,12],
 "da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#aa51b7cdfb2a37310196c81a01f89a7dd":[7,0,1632,0,4],
-"da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4":[7,0,1632,0,0],
-"da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#ad125b9eb7052449a6b75eebde7a192e0":[7,0,1632,0,9]
+"da/d34/structnpc__anachronos__the__ancient_1_1npc__anachronos__the__ancientAI.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4":[7,0,1632,0,0]
 };

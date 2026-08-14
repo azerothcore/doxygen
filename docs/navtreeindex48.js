@@ -1,5 +1,7 @@
 var NAVTREEINDEX48 =
 {
+"d1/dde/structboss__ghazan.html":[7,0,515],
+"d1/dde/structboss__ghazan.html#a40a6dd5ed2954be7df4612a7552e1bc0":[7,0,515,7],
 "d1/dde/structboss__ghazan.html#a6b8c975a109dc5eb8a3e3fba03fe806e":[7,0,515,2],
 "d1/dde/structboss__ghazan.html#aa6c0c391355ac0b698d67796efd63062":[7,0,515,8],
 "d1/dde/structboss__ghazan.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2":[7,0,515,1],
@@ -51,8 +53,8 @@ var NAVTREEINDEX48 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
 "d1/de0/classnpc__stable__master.html":[7,0,2179],
@@ -247,7 +249,5 @@ var NAVTREEINDEX48 =
 "d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5daa132777a84f945951c8f51520238810d":[8,0,0,0,1,3,9,2,189,0],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84b":[8,0,0,0,1,3,9,2,210],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1dfbef9fcdf8fac682fd148f48b1d73f":[8,0,0,0,1,3,9,2,210,5],
-"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[8,0,0,0,1,3,9,2,210,6],
-"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[8,0,0,0,1,3,9,2,210,2],
-"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba7018d987be1cd92380fee03ccf20428c":[8,0,0,0,1,3,9,2,210,0]
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[8,0,0,0,1,3,9,2,210,6]
 };

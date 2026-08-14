@@ -1,5 +1,10 @@
 var NAVTREEINDEX214 =
 {
+"d7/db0/classMap.html#aedda73139371bda3ce643b02d1a7cbb8":[7,0,1516,219],
+"d7/db0/classMap.html#aee8361ee2df816c4b190726883995a8b":[7,0,1516,217],
+"d7/db0/classMap.html#aeeb628f470a20c8b4b5bc694c75ce871":[7,0,1516,234],
+"d7/db0/classMap.html#aefec0d45ddc4f90d9d5c68dfb65b5c5b":[7,0,1516,178],
+"d7/db0/classMap.html#af0a630f225718009751c788dbcbf5333":[7,0,1516,72],
 "d7/db0/classMap.html#af18e5d1cb5b4bc8a32bc110db9eb01e0":[7,0,1516,2],
 "d7/db0/classMap.html#af2990e58de7fd1209a0dfaa882e673e2":[7,0,1516,119],
 "d7/db0/classMap.html#af3ba8ab9646c178dbfc200b05f1fc61b":[7,0,1516,65],
@@ -221,8 +226,8 @@ var NAVTREEINDEX214 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2784,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX214 =
 "d7/dbc/structnpc__wild__wyrm.html":[7,0,2318],
 "d7/dbc/structnpc__wild__wyrm.html#a0ff51f46c203f3b1b8dea063463c5c4d":[7,0,2318,1],
 "d7/dbc/structnpc__wild__wyrm.html#a2e826c49b41a389ddfbeac3d3c7933f5":[7,0,2318,6],
-"d7/dbc/structnpc__wild__wyrm.html#a362052015873c615448bec978d744c9e":[7,0,2318,5],
-"d7/dbc/structnpc__wild__wyrm.html#a3d12d555ab7c992ca37e826609b3cd72":[7,0,2318,7],
-"d7/dbc/structnpc__wild__wyrm.html#a7adb3a9f2d17c55995218219c2af13a6":[7,0,2318,0],
-"d7/dbc/structnpc__wild__wyrm.html#a7fa0ac4d2feaf62b08c4667c8f0b7474":[7,0,2318,9],
-"d7/dbc/structnpc__wild__wyrm.html#adbbf5b93476eef2ef54f51d2523a726e":[7,0,2318,8],
-"d7/dbc/structnpc__wild__wyrm.html#adcc805b0880d95c185af4a587474c2d2":[7,0,2318,3]
+"d7/dbc/structnpc__wild__wyrm.html#a362052015873c615448bec978d744c9e":[7,0,2318,5]
 };

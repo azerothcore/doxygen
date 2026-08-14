@@ -1,5 +1,7 @@
 var NAVTREEINDEX52 =
 {
+"d2/d12/classUnitScript.html#a2137be3b52311693b6feda345cb3c7f7":[7,0,4618,19],
+"d2/d12/classUnitScript.html#a2ed2cf6d9725ae342adfada023538a28":[7,0,4618,10],
 "d2/d12/classUnitScript.html#a334ac1a9d8e29aa064d3625d59c7a167":[7,0,4618,9],
 "d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2":[7,0,4618,3],
 "d2/d12/classUnitScript.html#a36e7ba9d74892f59d0a36b76e78f4f80":[7,0,4618,21],
@@ -46,14 +48,14 @@ var NAVTREEINDEX52 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[7,0,2218,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[7,0,2218,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[7,0,2218,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,34,10,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[7,0,13,10,2,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,34,10,2,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[7,0,13,10,2,4],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,34,10,2,4],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[7,0,13,10,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[7,0,13,10,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,34,10,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[5,0,34,10,2,3],
@@ -104,8 +106,8 @@ var NAVTREEINDEX52 =
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAuthHandler.html":[7,0,309],
 "d2/d19/structAuthHandler.html#a8074991652af9e5c8752dd4ff5e6e6cc":[7,0,309,0],
 "d2/d19/structAuthHandler.html#a952f7f7ff3017efa4c3d127baa848785":[7,0,309,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1e/classInstanceScript.html#a04fbee37682f3a3e08a9ad726eb0223c":[7,0,1402,81],
 "d2/d1e/classInstanceScript.html#a07b3c70e8153dfd74edb86656bf2b254":[7,0,1402,59],
 "d2/d1e/classInstanceScript.html#a12d53fb1587ca588deed5b767a3ded8d":[7,0,1402,106],
-"d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1":[7,0,1402,34],
-"d2/d1e/classInstanceScript.html#a171f14d81fcb184893a4f28f76807611":[7,0,1402,21],
-"d2/d1e/classInstanceScript.html#a1961c04a44bb8d0fc3e5c6dc0c39790f":[7,0,1402,43]
+"d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1":[7,0,1402,34]
 };

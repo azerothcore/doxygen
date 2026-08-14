@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a1089b59bde7436c5c88be2fea8405e2d":[8,0,0,0,2,2,0,5,0,20],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a16adef8669d17e4aac23d942cf71573e":[8,0,0,0,2,2,0,5,0,8],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a1f0fa13956199938646650014218b1cf":[8,0,0,0,2,2,0,5,0,4],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a210592e6f753f5989d1b813d32134eec":[8,0,0,0,2,2,0,5,0,37],
@@ -149,16 +150,16 @@ var NAVTREEINDEX330 =
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[7,0,3454],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[7,0,3454,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[7,0,3454,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d89/classAsyncAcceptor.html#a1c36bf67a6bf2bda36eefca9ac2eb699":[7,0,214,7],
 "dc/d89/classAsyncAcceptor.html#a27230b467efdb08dbb9b0c0198db0936":[7,0,214,9],
 "dc/d89/classAsyncAcceptor.html#a2e120e7924841a5cc71ec57143ac47c9":[7,0,214,10],
-"dc/d89/classAsyncAcceptor.html#a6059f96aa17966e2480771340d3593db":[7,0,214,11],
-"dc/d89/classAsyncAcceptor.html#a91c22b6aba05bc493cfaf28a9203ce84":[7,0,214,4]
+"dc/d89/classAsyncAcceptor.html#a6059f96aa17966e2480771340d3593db":[7,0,214,11]
 };

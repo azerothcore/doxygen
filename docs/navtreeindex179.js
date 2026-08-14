@@ -1,5 +1,10 @@
 var NAVTREEINDEX179 =
 {
+"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aaefc6f5ebe0a804fc6cabdd169a2bb477":[8,0,0,0,1,2,7,0,1,24,5],
+"d6/d4f/BattlefieldWG_8h.html#a7533da481a8b39b95fb93adf24cece9f":[8,0,0,0,1,2,7,0,1,43],
+"d6/d4f/BattlefieldWG_8h.html#a84afa59c796c189bd3384964d40d3304":[8,0,0,0,1,2,7,0,1,32],
+"d6/d4f/BattlefieldWG_8h.html#a85c1e33a0ecee2863f4ccae3673ec75b":[8,0,0,0,1,2,7,0,1,45],
+"d6/d4f/BattlefieldWG_8h.html#a86b3d2d9b191f103258a41bbc5eb9a5f":[8,0,0,0,1,2,7,0,1,37],
 "d6/d4f/BattlefieldWG_8h.html#a977506d6d03f0f9f7761a41d5f9671fd":[8,0,0,0,1,2,7,0,1,35],
 "d6/d4f/BattlefieldWG_8h.html#a97f1be9ee7de4791a13b811da1894baf":[8,0,0,0,1,2,7,0,1,14],
 "d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2":[8,0,0,0,1,2,7,0,1,20],
@@ -244,10 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d51/structboss__krick_1_1boss__krickAI.html#a75349e2fc35832e7944fa4f772380baa":[7,0,598,0,3],
 "d6/d51/structboss__krick_1_1boss__krickAI.html#ac085bae551fd4d9e48b05481a86cca9f":[7,0,598,0,0],
 "d6/d51/structboss__krick_1_1boss__krickAI.html#ace248881cb71c1e91f33ff93489b6f3f":[7,0,598,0,1],
-"d6/d51/structboss__krick_1_1boss__krickAI.html#aea8dd89c8e4de1bebd94a26ead852119":[7,0,598,0,2],
-"d6/d51/structboss__krick_1_1boss__krickAI.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f":[7,0,598,0,4],
-"d6/d52/classspell__dru__idol__lifebloom.html":[7,0,2903],
-"d6/d52/classspell__dru__idol__lifebloom.html#a46a643985647d8a8e033b637b31214a5":[7,0,2903,2],
-"d6/d52/classspell__dru__idol__lifebloom.html#aaf21dafa72b58245f548ed946a49659d":[7,0,2903,0],
-"d6/d52/classspell__dru__idol__lifebloom.html#ac05d3ae466ad64ac590f399827aac0c9":[7,0,2903,1]
+"d6/d51/structboss__krick_1_1boss__krickAI.html#aea8dd89c8e4de1bebd94a26ead852119":[7,0,598,0,2]
 };

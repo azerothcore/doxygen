@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d3e/namespaceGameTime.html#ad5fc2a056410eeac2e2717f91cb8295c":[5,0,15,9],
 "df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2":[5,0,15,1],
 "df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,15,5],
 "df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,15,7],
@@ -237,17 +238,16 @@ var NAVTREEINDEX408 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[7,0,3852,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[7,0,3852,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[7,0,3852,0],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
 "df/d51/structMMAP_1_1MapTiles.html":[7,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[7,0,6,3,4],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[7,0,6,3,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[7,0,6,3,3],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
-"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[7,0,6,3,1],
+"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,20,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[7,0,6,3,5],
-"df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[7,0,6,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[5,0,20,3,0],
-"df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[7,0,6,3,2]
+"df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[7,0,6,3,0]
 };

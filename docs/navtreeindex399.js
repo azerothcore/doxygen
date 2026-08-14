@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,10,18,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,10,18,13],
 "de/de9/classspell__pal__righteous__vengeance.html":[7,0,3780],
 "de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3780,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "de/df5/classOutdoorPvPNA.html#a2ede6e7dc54424d9729a094557b14792":[7,0,2387,4],
 "de/df5/classOutdoorPvPNA.html#a312c5f2aaa35a9f83740c1bdd9772b9e":[7,0,2387,5],
 "de/df5/classOutdoorPvPNA.html#a4074a96974fe1b5e6d9149c8eee36e71":[7,0,2387,9],
-"de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[7,0,2387,1],
-"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[7,0,2387,10]
+"de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[7,0,2387,1]
 };

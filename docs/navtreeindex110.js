@@ -1,5 +1,9 @@
 var NAVTREEINDEX110 =
 {
+"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[8,0,0,0,1,3,2,15,0,7,2],
+"d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826":[8,0,0,0,1,3,2,15,0,11],
+"d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826a0ae9cb03e0fdc3b6ba005dcf01279360":[8,0,0,0,1,3,2,15,0,11,0],
+"d3/db0/boss__arlokk_8cpp.html#a99343660ea4c1af481f86d424ff700f6":[8,0,0,0,1,3,2,15,0,15],
 "d3/db0/boss__arlokk_8cpp.html#aa1ce80ad135a7c0e6ea6e8f1534a5c7f":[8,0,0,0,1,3,2,15,0,14],
 "d3/db0/boss__arlokk_8cpp.html#ab74f6a47b9052bbd7ca85f7a351b8339":[8,0,0,0,1,3,2,15,0,17],
 "d3/db0/boss__arlokk_8cpp.html#acc076415e2b16d4c659c079163e444da":[8,0,0,0,1,3,2,15,0,16],
@@ -81,10 +85,10 @@ var NAVTREEINDEX110 =
 "d3/db3/DynamicTree_8h.html":[8,0,0,0,0,1,7],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[7,0,11,19],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,31,19],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a29cfc8652bb5dbba5260e4faea0af2d7":[5,0,31,19,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a29cfc8652bb5dbba5260e4faea0af2d7":[7,0,11,19,1],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[7,0,11,19,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a29cfc8652bb5dbba5260e4faea0af2d7":[5,0,31,19,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,31,19,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[7,0,11,19,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[7,0,11,19,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,31,19,0],
 "d3/db3/structNpcFlagText.html":[7,0,2336],
@@ -178,8 +182,8 @@ var NAVTREEINDEX110 =
 "d3/db9/map__extractor_2mpq__libmpq_8cpp.html#a8ae40ebe73635e831bc65b70e7f97f3c":[8,0,0,0,3,1,6,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[7,0,13,8,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,34,8,12],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[7,0,13,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,34,8,12,1],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[7,0,13,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,34,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,34,8,12,2],
@@ -207,8 +211,8 @@ var NAVTREEINDEX110 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[7,0,6,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[7,0,6,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[7,0,4624,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX110 =
 "d3/dbd/DBCStructure_8h.html#aa7b34f321cc6fb7b11aac46ef9b08897":[8,0,0,0,1,4,0,7,137],
 "d3/dbd/DBCStructure_8h.html#ab66cd5828c451f68f55f1b054c29a8fc":[8,0,0,0,1,4,0,7,132],
 "d3/dbd/DBCStructure_8h.html#ab8e8a384bd12e49b286a3ee30ff11ff7":[8,0,0,0,1,4,0,7,117],
-"d3/dbd/DBCStructure_8h.html#aba26b8226744809f550efa818f10b186":[8,0,0,0,1,4,0,7,116],
-"d3/dbd/DBCStructure_8h.html#abec1611f7460fe442eeb44ec9c6e0338":[8,0,0,0,1,4,0,7,140],
-"d3/dbd/DBCStructure_8h.html#ac24517e5894a4a3cd7203781ea7e6304":[8,0,0,0,1,4,0,7,120],
-"d3/dbd/DBCStructure_8h.html#ac5733f5b58bf8a23a1919a005b5ec895":[8,0,0,0,1,4,0,7,131],
-"d3/dbd/DBCStructure_8h.html#ad93484e8f4ff5cbe27a41c4822b0c232":[8,0,0,0,1,4,0,7,138]
+"d3/dbd/DBCStructure_8h.html#aba26b8226744809f550efa818f10b186":[8,0,0,0,1,4,0,7,116]
 };

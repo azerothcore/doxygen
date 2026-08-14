@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3127,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3127,1],
 "dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3359],
 "dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3359,0],
@@ -236,8 +237,8 @@ var NAVTREEINDEX355 =
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab3f88b7443eb4f32339c3b687431fda2":[7,0,4390,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab9041b811e80e220828d5db59b724682":[7,0,4390,2],
 "dd/dbd/classspell__item__crystal__spire__of__karabor.html":[7,0,3371],
-"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a13c9e5a0a2a6945dfa5a4425be08703d":[7,0,3371,2],
-"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a5fd08c4ff5ba410458a67eb91e612267":[7,0,3371,1]
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a13c9e5a0a2a6945dfa5a4425be08703d":[7,0,3371,2]
 };

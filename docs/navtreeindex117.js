@@ -1,5 +1,9 @@
 var NAVTREEINDEX117 =
 {
+"d3/dda/classspell__pal__eye__for__an__eye.html#a304fd48cc79d3e7371212632d276b2ff":[7,0,3753,0],
+"d3/dda/classspell__pal__eye__for__an__eye.html#adc217147d7c150d66dad4d3e922cff96":[7,0,3753,3],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html":[7,0,4545,2],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a0ad5b4de404b1f8312341a28a1a58b5b":[7,0,4545,2,5],
 "d3/ddc/classTaskScheduler_1_1TaskQueue.html#a151898f14e9a1628ddb52b6840fcc4fc":[7,0,4545,2,3],
 "d3/ddc/classTaskScheduler_1_1TaskQueue.html#a5f5d6b5a4a5e4ec93ff94619485736cb":[7,0,4545,2,6],
 "d3/ddc/classTaskScheduler_1_1TaskQueue.html#a6efe3145679913fde4d4cc1f8cc819e6":[7,0,4545,2,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX117 =
 "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[8,0,0,0,1,3,5,7,11,2,0],
 "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb0fe50bb5faeeedf94f702e800ac9fe":[8,0,0,0,1,3,5,7,11,2,1],
 "d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html":[7,0,1936,0],
-"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a007c9c7a4047374574cad17e9309d7c1":[7,0,1936,0,2],
-"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a0973487623f1771c598648bc06a6d9a3":[7,0,1936,0,0],
-"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a54d0a5574175747779878dce0ebfd44f":[7,0,1936,0,4],
-"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a60428fa97c8f6520338d53ed368c4c35":[7,0,1936,0,5],
-"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a621a8cc3f6b9655760431d52766ca589":[7,0,1936,0,1]
+"d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#a007c9c7a4047374574cad17e9309d7c1":[7,0,1936,0,2]
 };

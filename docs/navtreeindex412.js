@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d7c/structboss__taldaram.html#a3d5b4628d6fb2db91ed073b042eefdc4":[7,0,734,3],
 "df/d7c/structboss__taldaram.html#a4b6c0f51fd3a2a8c00ef095eeeea785d":[7,0,734,4],
 "df/d7c/structboss__taldaram.html#a5ae9201a71fa665908f924647b262825":[7,0,734,6],
 "df/d7c/structboss__taldaram.html#a6438d3534aca5e4a92afb3e6c6e24f73":[7,0,734,0],
@@ -100,8 +101,8 @@ var NAVTREEINDEX412 =
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[7,0,13,6,36,1],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
 "df/d86/classnpc__professor__phizzlethorpe.html":[7,0,2103],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6f75aeca840902bba9038f262ed41fbe":[8,0,0,0,1,3,5,9,2,4,16,21],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa72d2a0f288eec28f92c56eb0bbda7654":[8,0,0,0,1,3,5,9,2,4,16,16],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa76c6ee97e4a927e209d667a285f861c9":[8,0,0,0,1,3,5,9,2,4,16,28],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa7dbdd49a7c5591191f25e690de641e48":[8,0,0,0,1,3,5,9,2,4,16,44],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa8a2e1108c381ff2b790a4b57839b6754":[8,0,0,0,1,3,5,9,2,4,16,53]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa7dbdd49a7c5591191f25e690de641e48":[8,0,0,0,1,3,5,9,2,4,16,44]
 };
