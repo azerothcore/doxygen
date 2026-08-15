@@ -425,7 +425,6 @@ var CharacterDatabase_8h =
       [ "CHAR_DEL_PET_AURAS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a99a8d87d9660870e76979128e9b16dcc", null ],
       [ "CHAR_DEL_PET_SPELL_COOLDOWNS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad29264d082de556c787d191e36412d64", null ],
       [ "CHAR_INS_PET_SPELL_COOLDOWN", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4ec2f88610d3f86d3c8cbcba7243f08a", null ],
-      [ "CHAR_DEL_PET_SPELL_BY_SPELL", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acecf274a531024a05b8983365b7347a1", null ],
       [ "CHAR_INS_PET_SPELL", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a909875186cea4b017db41f19894b8ed1", null ],
       [ "CHAR_INS_PET_AURA", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af250d5246ec1f508997531b17353c7c7", null ],
       [ "CHAR_DEL_PET_SPELLS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a76c7c794b3638b9cc7c055b2dcd22a5f", null ],
