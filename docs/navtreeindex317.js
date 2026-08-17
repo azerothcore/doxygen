@@ -1,5 +1,17 @@
 var NAVTREEINDEX317 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,7,4,2,0,10,5],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[8,0,0,0,1,3,7,4,2,0,10,3],
+"dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[8,0,0,0,1,3,7,4,2,0,9],
+"dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99aa96283caf31f749500082e1812dcefef3":[8,0,0,0,1,3,7,4,2,0,9,0],
+"dc/d07/boss__magtheridon_8cpp.html#ada1a60765162a3d503bec2ceb23a6c87":[8,0,0,0,1,3,7,4,2,0,12],
+"dc/d07/classInstanceMapScript.html":[7,0,1398],
+"dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[7,0,1398,1],
+"dc/d07/classInstanceMapScript.html#a4efcd2ea9d4bd654b7454cd55541af14":[7,0,1398,0],
+"dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[7,0,1398,2],
+"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[7,0,1398,3],
+"dc/d07/classnpc__captain__brandon.html":[7,0,1717],
+"dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[7,0,1717,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[7,0,1717,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html":[7,0,3282],
 "dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[7,0,3282,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#ae5b2e00b170a57b194b21445484c10bc":[7,0,686,0,7],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3":[7,0,686,0,10],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html":[7,0,1846,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[7,0,1846,0,0],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1846,0,6],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a93c41781e4cb037b56773bbbf36181b7":[7,0,1846,0,7],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712":[7,0,1846,0,9],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d":[7,0,1846,0,5],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aa14c07eaaa8d6381e8a821eab7a3d421":[7,0,1846,0,1],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aaaaa3e41deae0057bd659be5c579d226":[7,0,1846,0,2],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c":[7,0,1846,0,4],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[7,0,1846,0,10],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[7,0,1846,0,3],
-"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[7,0,1846,0,8],
-"dc/d0b/classTrainer_1_1Trainer.html":[7,0,10,1],
-"dc/d0b/classTrainer_1_1Trainer.html":[5,0,30,1]
+"dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a079f719ca488ed6fde2783b5db4f328b":[7,0,1846,0,0]
 };

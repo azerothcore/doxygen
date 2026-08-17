@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514":[8,0,0,0,1,2,49,6,8,6],
+"d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04":[8,0,0,0,1,2,49,6,8,2],
 "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66":[8,0,0,0,1,2,49,6,8,3],
 "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b":[8,0,0,0,1,2,49,6,8,4],
 "d7/d9a/WorldState_8h.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876":[8,0,0,0,1,2,49,6,8,1],
@@ -172,10 +174,10 @@ var NAVTREEINDEX206 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[7,0,299,2,0],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[7,0,299,2,1],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,299,2,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[7,0,13,14,8,0],
@@ -187,10 +189,10 @@ var NAVTREEINDEX206 =
 "d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,33,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,33,1,0],
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,33,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[7,0,12,1,0],
+"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,33,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,33,1,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html":[7,0,417,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06066bd7a19f8b53358e12ed45517a1b":[8,0,0,0,1,2,28,2,0,1102],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa061adca722b2433efed3281485789ece":[8,0,0,0,1,2,28,2,0,1264],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa062db88f381574ec00474b33724121a7":[8,0,0,0,1,2,28,2,0,687],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa065b71e9298a1ab1ffb113b903bd4215":[8,0,0,0,1,2,28,2,0,71],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0695be5d71d2f34e1a1c00e82ef3f6c7":[8,0,0,0,1,2,28,2,0,1086],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa06b30878462eab250067d5c657c26627":[8,0,0,0,1,2,28,2,0,769]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa065b71e9298a1ab1ffb113b903bd4215":[8,0,0,0,1,2,28,2,0,71]
 };

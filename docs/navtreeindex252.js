@@ -1,5 +1,17 @@
 var NAVTREEINDEX252 =
 {
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72a3101862a2a735a459ba0dcaac3ab61a3":[8,0,0,0,1,2,24,3,23,4],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72a4af9a16cec188deaf97d852c148100a0":[8,0,0,0,1,2,24,3,23,3],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72a7ac6d295725fd0d403dfc8c7d78ff753":[8,0,0,0,1,2,24,3,23,5],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72aa2bdaaae31f6ff3bd7178a6c18efaf29":[8,0,0,0,1,2,24,3,23,2],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72ab29a6966aa6e97faceaa118deacf52f0":[8,0,0,0,1,2,24,3,23,0],
+"d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72ae6236bdd834258840f22c2e32a08aa9d":[8,0,0,0,1,2,24,3,23,1],
+"d9/d84/LootMgr_8h.html#a2b487e26b2b104df71db0d0cdb218f70":[8,0,0,0,1,2,24,3,47],
+"d9/d84/LootMgr_8h.html#a2d34d3171cf6ee7b6e118d5b12be319e":[8,0,0,0,1,2,24,3,51],
+"d9/d84/LootMgr_8h.html#a2ffebb5466d0f97fdaa495088a046a51":[8,0,0,0,1,2,24,3,26],
+"d9/d84/LootMgr_8h.html#a31e68d51b0fcf3e28a4479991359a8b3":[8,0,0,0,1,2,24,3,44],
+"d9/d84/LootMgr_8h.html#a37571dff8ec8d0034df583b5dc062bf2":[8,0,0,0,1,2,24,3,17],
+"d9/d84/LootMgr_8h.html#a3dc44988fdd6d697ac3b459b0276e098":[8,0,0,0,1,2,24,3,13],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a":[8,0,0,0,1,2,24,3,24],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa24bcdb3d971392027fe44810f01679b0":[8,0,0,0,1,2,24,3,24,4],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa38fed431ec0ae02ffdd70ed6014f03a5":[8,0,0,0,1,2,24,3,24,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d8b/classMapGridManager.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a":[7,0,1527,7],
 "d9/d8b/classMapGridManager.html#a7994a71cea924e66996161b049eb1d44":[7,0,1527,4],
 "d9/d8b/classMapGridManager.html#a7d7957242615d753383e05a0ee5a1f82":[7,0,1527,11],
-"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[7,0,1527,6],
-"d9/d8b/classMapGridManager.html#aa2c2218a81a5d042925e5675948e242f":[7,0,1527,15],
-"d9/d8b/classMapGridManager.html#aab0a821d9672cd485c4966034c2243d5":[7,0,1527,12],
-"d9/d8b/classMapGridManager.html#ac5daa221eb530e0b34a1950431cb4496":[7,0,1527,1],
-"d9/d8b/classMapGridManager.html#acfac0df3926498e8a9aa581581f84e2c":[7,0,1527,18],
-"d9/d8b/classMapGridManager.html#ae2dd77cb2af985085103d49b4242f4a8":[7,0,1527,10],
-"d9/d8b/classMapGridManager.html#ae381b54e599dce0c02815faf82711200":[7,0,1527,13],
-"d9/d8b/classMapGridManager.html#af08729c03f8641a00ab1cc1b014214df":[7,0,1527,0],
-"d9/d8b/structboss__sothos.html":[7,0,725],
-"d9/d8b/structboss__sothos.html#a042578148cae9a0b9befb7c5747a8e99":[7,0,725,5],
-"d9/d8b/structboss__sothos.html#a1433dddccb71896016bc014bdf92b453":[7,0,725,1],
-"d9/d8b/structboss__sothos.html#a2d634aade37ea887f6bbf4b43baf061d":[7,0,725,3],
-"d9/d8b/structboss__sothos.html#a2e7283078d4049ff339f29c3fdfc69cf":[7,0,725,0]
+"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[7,0,1527,6]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX263 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af7ef0b3043872b9d78aaed5d658b19f6":[8,0,0,0,1,2,49,4,1,198],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af83be77fe30f5f7bd745497467b68248":[8,0,0,0,1,2,49,4,1,477],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af8ab41ca1e61801f86bb71f11d920fb3":[8,0,0,0,1,2,49,4,1,12],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afa08cb62c16cf20c5354d4ecf7134411":[8,0,0,0,1,2,49,4,1,304],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afacf9adb187a200f7dde730a74541923":[8,0,0,0,1,2,49,4,1,224],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afb28fa87adc7ebedf09576d6a7d16553":[8,0,0,0,1,2,49,4,1,307],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afbf23b8352cb923d9f223a06ed086e9d":[8,0,0,0,1,2,49,4,1,336],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afc34e37fdff15a62ed0f2eee5d374ebe":[8,0,0,0,1,2,49,4,1,163],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afc5622dfe648a63a0782ff4beb239c22":[8,0,0,0,1,2,49,4,1,125],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afcff5f630de05eb858b00a4e994f53b0":[8,0,0,0,1,2,49,4,1,260],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afd23beaadaae265b8ed12a1a5e48c6dc":[8,0,0,0,1,2,49,4,1,348],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0afe0fa3dbaed687a52aa1f89911ac352b":[8,0,0,0,1,2,49,4,1,492],
 "da/d02/classachievement__not__even__a__scratch.html":[7,0,85],
 "da/d02/classachievement__not__even__a__scratch.html#a0d025c09d35c3640016ab42e11dd96eb":[7,0,85,0],
 "da/d02/classachievement__not__even__a__scratch.html#a81f6c9bd36e5a3eea3fe0af24c9f1649":[7,0,85,1],
@@ -237,17 +249,5 @@ var NAVTREEINDEX263 =
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#ae7a8b27e0de0d15ddd43a5075d8f5125":[7,0,676,0,18],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc02a2d3c722a22a98bbb2ba14ba7b5b":[7,0,676,0,16],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc12adf72a109be78d5ff936e3432a8f":[7,0,676,0,3],
-"da/d0f/structnpc__brew__bubble.html":[7,0,1703],
-"da/d0f/structnpc__brew__bubble.html#a188d1b68bb939d518e72e844e53e9a7d":[7,0,1703,0],
-"da/d0f/structnpc__brew__bubble.html#a25018deaa206620f6e98ba722f689b8d":[7,0,1703,4],
-"da/d0f/structnpc__brew__bubble.html#a4bee73add756ba4b3137818b2dacd27f":[7,0,1703,5],
-"da/d0f/structnpc__brew__bubble.html#a7223d3397b32cf2969ea628c06ac2f19":[7,0,1703,1],
-"da/d0f/structnpc__brew__bubble.html#aa3ab8e07323b47751f72c5ebab24a1bb":[7,0,1703,3],
-"da/d0f/structnpc__brew__bubble.html#aea01d2c0f9ac883a8a8668164f16f932":[7,0,1703,2],
-"da/d10/classSpellProcTest.html":[7,0,4498],
-"da/d10/classSpellProcTest.html#a83fe2676ce2ae1374600de46967aeae5":[7,0,4498,0],
-"da/d10/classSpellProcTest.html#a98d5f98dfc4d63705920b7b164530022":[7,0,4498,5],
-"da/d10/classSpellProcTest.html#abd89fcaf8f8c38b5d992a21430f9ecdb":[7,0,4498,1],
-"da/d10/classSpellProcTest.html#ac06654664782d249c4233f79990c817b":[7,0,4498,4],
-"da/d10/classSpellProcTest.html#acb5697251398888a4cc282c359cfc4ec":[7,0,4498,2]
+"da/d0f/structnpc__brew__bubble.html":[7,0,1703]
 };

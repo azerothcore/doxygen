@@ -64,6 +64,7 @@ var LoginDatabase_8h =
       [ "LOGIN_UPD_SET_ACCOUNT_FLAG", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba442233bef9c041112bdb997b80b3e709", null ],
       [ "LOGIN_SEL_PINFO", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba44e737c1cd125eaccab2769989e87736", null ],
       [ "LOGIN_SEL_PINFO_BANS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd4ae1668c54c02e007187d029719583", null ],
+      [ "LOGIN_SEL_ACCOUNT_INFO_DETAILED", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba73d2dcee48fe58298cb858770f2725b8", null ],
       [ "LOGIN_SEL_GM_ACCOUNTS", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba74d4f8d423ca534ac55bf4e5c4476be8", null ],
       [ "LOGIN_SEL_ACCOUNT_INFO", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbacdaeac9e221d409bf4dd1216708e2d2b", null ],
       [ "LOGIN_SEL_ACCOUNT_ACCESS_GMLEVEL_TEST", "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbade93e8b26c186c59c89e009b7a72af65", null ],

@@ -1,5 +1,17 @@
 var NAVTREEINDEX246 =
 {
+"d9/d4d/classmisc__commandscript.html#acb839c6d840c7a8f9b0c01435420b0ad":[7,0,1549,23],
+"d9/d4d/classmisc__commandscript.html#ad19d4ed2e392cfe265c8ad6496188433":[7,0,1549,10],
+"d9/d4d/classmisc__commandscript.html#ad46d14681df626a56a2d800f86c0e2c0":[7,0,1549,56],
+"d9/d4d/classmisc__commandscript.html#ad5a53bcb8840bff1fb080e15715b1f6a":[7,0,1549,0],
+"d9/d4d/classmisc__commandscript.html#ad7a445556e92c64ab769cb2e3631a993":[7,0,1549,21],
+"d9/d4d/classmisc__commandscript.html#adc0ef6940602615062c716204c333f98":[7,0,1549,30],
+"d9/d4d/classmisc__commandscript.html#adc6779a70c7a79a7bd08a419d62edb88":[7,0,1549,19],
+"d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882":[7,0,1549,20],
+"d9/d4d/classmisc__commandscript.html#ae6c5ef3e0b0b812b4e3ba249f13f3249":[7,0,1549,47],
+"d9/d4d/classmisc__commandscript.html#af11cc1d015103bed5d1d2391f46d1df1":[7,0,1549,33],
+"d9/d4d/classmisc__commandscript.html#af18039cb343286cf2f510b5d75ed500e":[7,0,1549,58],
+"d9/d4d/classmisc__commandscript.html#af6dd391539dfcb985388805735c0c82e":[7,0,1549,32],
 "d9/d4d/classmisc__commandscript.html#af7e879af94a5c48cd3c1194fdc118ec8":[7,0,1549,40],
 "d9/d4d/classmisc__commandscript.html#af8985f244751551efc7003b4510b8ea8":[7,0,1549,44],
 "d9/d4e/classboss__epoch.html":[7,0,461],
@@ -237,17 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8ae0ed0e08e247b5a6e95eddaa6229f4":[8,0,0,0,1,3,2,1,2,8,2,0],
 "d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8db226de7aafdf5d3ddabad6dcbf52e4":[8,0,0,0,1,3,2,1,2,8,2,8],
 "d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac73323c87205f44a946f5a4bef2329e1":[8,0,0,0,1,3,2,1,2,8,2,6],
-"d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,2,8,2,10],
-"d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade6e8177257dd6b442542fcdc8d74470":[8,0,0,0,1,3,2,1,2,8,2,11],
-"d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aee63fb213a0dffcdc19df6f5227452a6":[8,0,0,0,1,3,2,1,2,8,2,3],
-"d9/d59/classActiveConstellationFilter.html":[7,0,132],
-"d9/d59/classActiveConstellationFilter.html#aae8aeaabdecc3d8ff68c8764b166741d":[7,0,132,0],
-"d9/d59/classspell__gen__food__heart__emote.html":[7,0,3070],
-"d9/d59/classspell__gen__food__heart__emote.html#a096bc5640e42232f7754251daf5b6a8a":[7,0,3070,1],
-"d9/d59/classspell__gen__food__heart__emote.html#a75a4f12269c7684335c3c09cd5002586":[7,0,3070,4],
-"d9/d59/classspell__gen__food__heart__emote.html#a85b849676d1c4c08921edff8d472da04":[7,0,3070,3],
-"d9/d59/classspell__gen__food__heart__emote.html#ab11cad89fe213256353c88c351a8743b":[7,0,3070,0],
-"d9/d59/classspell__gen__food__heart__emote.html#ae00430a1418a0c3e91ae340f1a33f157":[7,0,3070,2],
-"d9/d59/namespaceAcore_1_1ChatCommands.html":[5,0,0,2],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d":[5,0,0,2,14]
+"d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,2,8,2,10]
 };

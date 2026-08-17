@@ -1,5 +1,16 @@
 var NAVTREEINDEX222 =
 {
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,23,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
+"d8/d12/structboss__ayamiss.html":[7,0,406],
+"d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[7,0,406,1],
+"d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[7,0,406,0],
+"d8/d12/structboss__ayamiss.html#a10111f97236c2846181aa20f7d9b64fd":[7,0,406,7],
+"d8/d12/structboss__ayamiss.html#a166238b9395a426a7333cf71a38c6c5c":[7,0,406,8],
+"d8/d12/structboss__ayamiss.html#a4281f761256cd93c19aea0a76239512d":[7,0,406,5],
+"d8/d12/structboss__ayamiss.html#a52f584da6d3d1b87fe91528dc25b8c5e":[7,0,406,2],
+"d8/d12/structboss__ayamiss.html#a6bc1f0767785efb5a5fb005b49338032":[7,0,406,6],
+"d8/d12/structboss__ayamiss.html#aa6dd99f8085d1424acf07cc124ac210c":[7,0,406,9],
 "d8/d12/structboss__ayamiss.html#aaaf1b765256f4a6342d16bd7767f92cf":[7,0,406,4],
 "d8/d12/structboss__ayamiss.html#ab098ee0f8872d1cf9d34993c01971921":[7,0,406,10],
 "d8/d12/structboss__ayamiss.html#acddcbb06b7d5980e199ef11103fabf7c":[7,0,406,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d1c/structChannel_1_1PlayerInfo.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4":[7,0,867,0,11],
 "d8/d1c/structChannel_1_1PlayerInfo.html#af664dc84e5a60301c4fce6fda8971062":[7,0,867,0,1],
 "d8/d1c/structChannel_1_1PlayerInfo.html#afba1915e2dd4109928180e33884b8412":[7,0,867,0,12],
-"d8/d1d/TestMap_8cpp.html":[8,0,0,0,2,1,9],
-"d8/d1d/classnpc__pos__after__first__boss.html":[7,0,2086],
-"d8/d1d/classnpc__pos__after__first__boss.html#a3f807335f79218ecc70c32f5496267a6":[7,0,2086,2],
-"d8/d1d/classnpc__pos__after__first__boss.html#a76ae57195ceca454928245f2db12f68c":[7,0,2086,1],
-"d8/d1e/classspell__q55__sacred__cleansing.html":[7,0,3984],
-"d8/d1e/classspell__q55__sacred__cleansing.html#a4aa8a16350a7a55706841471fd985ca2":[7,0,3984,0],
-"d8/d1e/classspell__q55__sacred__cleansing.html#a50a8f2d777169aaeef88533b66b88fb2":[7,0,3984,1],
-"d8/d20/SpellAuras_8h.html":[8,0,0,0,1,2,41,0,4],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[7,0,0,48],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,0,60],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,0,60,3],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[7,0,0,48,3]
+"d8/d1d/TestMap_8cpp.html":[8,0,0,0,2,1,9]
 };

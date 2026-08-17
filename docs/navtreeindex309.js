@@ -1,5 +1,17 @@
 var NAVTREEINDEX309 =
 {
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4c08ed385886a118c165925602b1dff7":[7,0,2060,1],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc":[7,0,2060,6],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a862546ec66d8282c87169305711e4ec7":[7,0,2060,3],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a897e72a4bf279607903bce58a5a45c6f":[7,0,2060,2],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a8a7dd73d9d3af5ca00998735e45ee7e8":[7,0,2060,9],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9c89972cde36f3d2b5686485f0e2905f":[7,0,2060,8],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9df25627a92b8914ab8009be099f15d4":[7,0,2060,0],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#ae57f97ca9a08353e8ec8ebfadbd51541":[7,0,2060,12],
+"db/dd4/structLocationXYZ.html":[7,0,1474],
+"db/dd4/structLocationXYZ.html#a3e2454dd579de689289003a343e7f29c":[7,0,1474,1],
+"db/dd4/structLocationXYZ.html#a4fbcf991d732545b4f9c19689ff9d805":[7,0,1474,2],
+"db/dd4/structLocationXYZ.html#afeb59642abc7d5114668b2c27e315228":[7,0,1474,0],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html":[7,0,2216,0],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2216,0,17],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a1396da1a6a45041f0736ecd3cc09927c":[7,0,2216,0,15],
@@ -237,17 +249,5 @@ var NAVTREEINDEX309 =
 "db/dd5/classCreature.html#aa7f97b97742ff6d16381210a308494bf":[7,0,942,167],
 "db/dd5/classCreature.html#aa8a50e4ad6c377c87844b6db31c1489f":[7,0,942,199],
 "db/dd5/classCreature.html#aa910ed7a97488827b459b9d69887959f":[7,0,942,172],
-"db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080":[7,0,942,328],
-"db/dd5/classCreature.html#aab3f7b482f76f375c1cceb9ef087fb72":[7,0,942,254],
-"db/dd5/classCreature.html#aac094f3afa9cbb202f7a6e42c23122b1":[7,0,942,190],
-"db/dd5/classCreature.html#aad6252e11167d5ebb641460525cb8de6":[7,0,942,293],
-"db/dd5/classCreature.html#aad86470956fa645f58e4c2a3d87b60d6":[7,0,942,269],
-"db/dd5/classCreature.html#aae0c26e553c775e9155cf7a4807f1ee4":[7,0,942,156],
-"db/dd5/classCreature.html#aae2a22bc8c6e36666d02fa180bf9d111":[7,0,942,226],
-"db/dd5/classCreature.html#aae42d3324a3b51194ef5590836bc4d49":[7,0,942,127],
-"db/dd5/classCreature.html#ab06dd065270cc119cb5b63037190e311":[7,0,942,152],
-"db/dd5/classCreature.html#ab0dbb5f519f404a1003b7ef55112e79c":[7,0,942,7],
-"db/dd5/classCreature.html#ab0f40825f30e8009bf07077052e234f7":[7,0,942,186],
-"db/dd5/classCreature.html#ab1a73e378f1a219e03392a5c5b327b6f":[7,0,942,32],
-"db/dd5/classCreature.html#ab1fe599b19bd33530f5bba414fb41cfd":[7,0,942,76]
+"db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080":[7,0,942,328]
 };

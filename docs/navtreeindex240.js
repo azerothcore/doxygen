@@ -1,5 +1,17 @@
 var NAVTREEINDEX240 =
 {
+"d8/dea/boss__fankriss_8cpp.html#a176383498f6bddbc2f779253f716da68":[8,0,0,0,1,3,4,9,2,5],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,9,2,1],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a53f29498611380176725155a3c125aa5":[8,0,0,0,1,3,4,9,2,1,0],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94fb56eafc6cf28b54d7d1796d52ef31":[8,0,0,0,1,3,4,9,2,1,1],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,9,2,2],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f02be4390ec75af1bf63256f01b6536":[8,0,0,0,1,3,4,9,2,2,3],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a033bbc8d70ab488a51112be5178ecc":[8,0,0,0,1,3,4,9,2,2,1],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a712e11117a952e2d16997380e14e7":[8,0,0,0,1,3,4,9,2,2,2],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cab216c92590db1c7244215cb6fdbaa734":[8,0,0,0,1,3,4,9,2,2,5],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade121f34c7266b47676bbf62b73c7bb7":[8,0,0,0,1,3,4,9,2,2,6],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c":[8,0,0,0,1,3,4,9,2,2,0],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298caef499934292b1d16edd2de5e85c68913":[8,0,0,0,1,3,4,9,2,2,4],
 "d8/dea/boss__fankriss_8cpp.html#ab70fa8c13a3b5a522080410d24239695":[8,0,0,0,1,3,4,9,2,4],
 "d8/dea/boss__fankriss_8cpp.html#ad5084792878eac0ddee89b141241831c":[8,0,0,0,1,3,4,9,2,3],
 "d8/dea/classspell__archavon__rock__shards.html":[7,0,2664],
@@ -237,17 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df8/classAuthSession.html#a89c83cdde43f36c19d10716172aed04b":[7,0,310,1],
 "d8/df8/classAuthSession.html#a92f8fee9db6cdfb62545ff42c88c023f":[7,0,310,6],
 "d8/df8/classAuthSession.html#a95fe22aa168db55c1f3876e465d6beca":[7,0,310,20],
-"d8/df8/classAuthSession.html#a9fac4cb261cb121b1fed5bbae70855b8":[7,0,310,5],
-"d8/df8/classAuthSession.html#aa5ed4bd2d1037814782fbb345b59163b":[7,0,310,23],
-"d8/df8/classAuthSession.html#ab2d0efe156b204bd57db317d5dd1469a":[7,0,310,13],
-"d8/df8/classAuthSession.html#ab454aea5dde8d1d80c1f899e731045a8":[7,0,310,10],
-"d8/df8/classAuthSession.html#ab5bfe50f5cc0bbf745eb38c337c73d77":[7,0,310,9],
-"d8/df8/classAuthSession.html#ac2f108dc8c11bdc8f4d7853d8e463422":[7,0,310,18],
-"d8/df8/classAuthSession.html#ac48aab93700877bf5761593b13477ce0":[7,0,310,28],
-"d8/df8/classAuthSession.html#ac83f750802866266a63bdf30289e4d36":[7,0,310,2],
-"d8/df8/classAuthSession.html#ad7fa3ea3aee1d1ffa324a293c2ca0b08":[7,0,310,7],
-"d8/df8/classAuthSession.html#adb41530c1ae128b88b873e77c6d6d653":[7,0,310,24],
-"d8/df8/classAuthSession.html#ae4d2a496f4709fd0f6f2fe6a5928e130":[7,0,310,21],
-"d8/df8/classAuthSession.html#ae577d9cc22534d7fb7843758dedb7c8c":[7,0,310,19],
-"d8/df8/structABNodeInfo.html":[7,0,21]
+"d8/df8/classAuthSession.html#a9fac4cb261cb121b1fed5bbae70855b8":[7,0,310,5]
 };

@@ -1275,7 +1275,16 @@ var Language_8h =
       [ "LANG_ACCOUNT_FLAG_INVALID", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa89feb01b099be0313c2936aeb1dc4c4a", null ],
       [ "LANG_ACCOUNT_FLAG_RESERVED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa31f842bea64b132961ac149ae2dd1068", null ],
       [ "LANG_ACCOUNT_FLAG_ADDED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae89c3aa8e30b67d3f95c51319368be81", null ],
-      [ "LANG_ACCOUNT_FLAG_REMOVED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6c004becbd2bf5107fa71b34e7719a91", null ]
+      [ "LANG_ACCOUNT_FLAG_REMOVED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6c004becbd2bf5107fa71b34e7719a91", null ],
+      [ "LANG_ACCOUNT_INFO_JOINDATE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadf45d960ba4590a4c294fc8a11bd4bf6", null ],
+      [ "LANG_ACCOUNT_INFO_EXPANSION", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaa8f6440c3310d918b28182cafdcfde70", null ],
+      [ "LANG_ACCOUNT_INFO_LOCK_COUNTRY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27b24bb7657da322105c26ebf79bedca", null ],
+      [ "LANG_ACCOUNT_INFO_BANNED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa60103ed1aeafe8b5b354c1c42dbf42db", null ],
+      [ "LANG_ACCOUNT_INFO_CHARS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac560c499d30a47ac806a0e386c8a331f", null ],
+      [ "LANG_ACCOUNT_INFO_CHAR_ENTRY", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba6697157493b38296ae2767cb8bd5a3", null ],
+      [ "LANG_ACCOUNT_INFO_NO_CHARS", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4951fa62ec911e84279339a5040fd1b0", null ],
+      [ "LANG_ACCOUNT_INFO_CURRENT_IP", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6d7abf64c54d67aa549d221c7019d2c4", null ],
+      [ "LANG_ACCOUNT_INFO_CHAR_OFFLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1fb70cc56f36e84b3dcdf4f4e432d0bf", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

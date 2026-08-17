@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/db2/BattlegroundWS_8h.html#ae5f8a7cd4f42f719752da8c95249214aabe9a2e0c527ac4dbe235b6f04a64f016":[8,0,0,0,1,2,8,1,21,12,1],
 "d5/db2/BattlegroundWS_8h.html#afb194929fa7fa28ba1362df96d98f48c":[8,0,0,0,1,2,8,1,21,6],
 "d5/db2/BattlegroundWS_8h.html#afb194929fa7fa28ba1362df96d98f48ca0393e94e3ca8bdb8f88c188ae4651300":[8,0,0,0,1,2,8,1,21,6,0],
 "d5/db2/BattlegroundWS_8h.html#afb194929fa7fa28ba1362df96d98f48ca2f36e1a66bfe840de8d0b2c4f24c122d":[8,0,0,0,1,2,8,1,21,6,2],
@@ -150,10 +151,10 @@ var NAVTREEINDEX161 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[7,0,4683,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[7,0,4683,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4683,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240":[8,0,0,0,1,2,8,6,4,1],
 "d5/dba/classspell__magtheridon__shadow__grasp__visual.html":[7,0,3644],
 "d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a094004ccf6b4cae4d27bca639b76b899":[7,0,3644,3],
-"d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a34d09e48b69d32dae6c127fa0837be4b":[7,0,3644,2],
-"d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a5d68d9e15600119deca7179ffe00acda":[7,0,3644,1]
+"d5/dba/classspell__magtheridon__shadow__grasp__visual.html#a34d09e48b69d32dae6c127fa0837be4b":[7,0,3644,2]
 };

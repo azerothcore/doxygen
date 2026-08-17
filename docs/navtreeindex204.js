@@ -1,5 +1,7 @@
 var NAVTREEINDEX204 =
 {
+"d7/d83/WheatyExceptionReport_8h.html#a8b8500b4792f1666a4ae9b19ce264875":[8,0,0,0,0,5,3,3],
+"d7/d83/WheatyExceptionReport_8h.html#a9fff8ce906026fe3179e50e97182d90d":[8,0,0,0,0,5,3,11],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bf":[8,0,0,0,0,5,3,10],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfa3157bbb0d66cc4bc0ed83c406f168b75":[8,0,0,0,0,5,3,10,0],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfa4b96c675dc4859521127b63697f1a304":[8,0,0,0,0,5,3,10,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cc181e262a5de2003fff21e281fcb86":[8,0,0,0,1,3,7,5,0,3,3,5],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298caf183dc557c3ecd65b2d231d470a1f5c6":[8,0,0,0,1,3,7,5,0,3,3,1],
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298caf95e858c15a693439ecb90ffa84284f5":[8,0,0,0,1,3,7,5,0,3,3,3],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298cafa63300aa4ebffd0e035a8a25610ce1b":[8,0,0,0,1,3,7,5,0,3,3,2],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a757ea0d4b31a1b8bd53b33ec2b9f8e87":[8,0,0,0,1,3,7,5,0,3,4],
-"d7/d91/Mail_8cpp.html":[8,0,0,0,1,2,25,0]
+"d7/d90/boss__harbinger__skyriss_8cpp.html#a5bd342133be8c2137b831460acc9298cafa63300aa4ebffd0e035a8a25610ce1b":[8,0,0,0,1,3,7,5,0,3,3,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX197 =
 {
+"d7/d24/classField.html#a23a7fb387edbaa0589f8cf0d7c6ba099":[7,0,1070,8],
+"d7/d24/classField.html#a2bea76920c1b5c5122913feaa14d7e93":[7,0,1070,9],
 "d7/d24/classField.html#a2d858b57db608163c4a9b53d3f5862ef":[7,0,1070,10],
 "d7/d24/classField.html#a322f2550a5d565d447f93aa855fd0a56":[7,0,1070,19],
 "d7/d24/classField.html#a37bc9e080e1f1ccbb1048cee593cffea":[7,0,1070,12],
@@ -136,20 +138,20 @@ var NAVTREEINDEX197 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[7,0,13,6,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[7,0,13,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[7,0,13,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[7,0,13,6,47,0],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[7,0,13,6,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[7,0,13,6,47,2],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[7,0,13,6,47,5],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[7,0,4318],
 "d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf":[7,0,4318,0],
 "d7/d26/classspell__warl__demonic__aegis.html#a5869dc6372d479d85da1118d0c9ec8e6":[7,0,4318,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca307c028c73ad97c95b07e5449a1cb170":[8,0,0,0,1,3,5,6,8,18,15],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca4debec0e0a5b1b0ebedfdeb032def43c":[8,0,0,0,1,3,5,6,8,18,10],
 "d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca50ad689b2f503dce3a43384f6a4b3267":[8,0,0,0,1,3,5,6,8,18,18],
-"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[8,0,0,0,1,3,5,6,8,18,0],
-"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298caba1e6515747bf8031d80a79c33bf0969":[8,0,0,0,1,3,5,6,8,18,9],
-"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298cabf5964d8547068bb4af165c9a81cd2e4":[8,0,0,0,1,3,5,6,8,18,4]
+"d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[8,0,0,0,1,3,5,6,8,18,0]
 };

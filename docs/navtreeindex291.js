@@ -1,5 +1,17 @@
 var NAVTREEINDEX291 =
 {
+"db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[7,0,2441,0],
+"db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[7,0,2441,2],
+"db/d30/structboss__hydromancer__thespia.html":[7,0,556],
+"db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[7,0,556,0],
+"db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[7,0,556,1],
+"db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[7,0,556,3],
+"db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[7,0,556,2],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[7,0,766,0],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[7,0,766,0,9],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[7,0,766,0,1],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[7,0,766,0,8],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[7,0,766,0,3],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[7,0,766,0,7],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a9c945841926d5b08f37c6a720dd25a14":[7,0,766,0,6],
@@ -237,17 +249,5 @@ var NAVTREEINDEX291 =
 "db/d40/classspell__muru__darkness__aura.html#a9b82fde3e38054b686f9b2a110cfaa1e":[7,0,3704,1],
 "db/d41/classspell__brewfest__fill__keg.html":[7,0,2735],
 "db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[7,0,2735,1],
-"db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2735,2],
-"db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2735,0],
-"db/d41/structnpc__midsummer__bonfire.html":[7,0,2003],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[7,0,2003,0],
-"db/d41/structnpc__midsummer__bonfire.html#a1236b61f21ff1a1b85bbc7058ca8e17c":[7,0,2003,6],
-"db/d41/structnpc__midsummer__bonfire.html#a1f8bd11d0f49c0a44764a2f34e6ee147":[7,0,2003,4],
-"db/d41/structnpc__midsummer__bonfire.html#a2a398299b3584e3a871b1b6e83b4ff5f":[7,0,2003,1],
-"db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[7,0,2003,5],
-"db/d41/structnpc__midsummer__bonfire.html#a5c0894721d13dd49961c0687c100d7a5":[7,0,2003,10],
-"db/d41/structnpc__midsummer__bonfire.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5":[7,0,2003,11],
-"db/d41/structnpc__midsummer__bonfire.html#a9210a0a472d609f66895bfa0a8e324b0":[7,0,2003,2],
-"db/d41/structnpc__midsummer__bonfire.html#a9ad2102b2dea60fbb81c1578b97f34dc":[7,0,2003,3],
-"db/d41/structnpc__midsummer__bonfire.html#aa21c9f7a5d7ac29663d94da55ef34373":[7,0,2003,8]
+"db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2735,2]
 };

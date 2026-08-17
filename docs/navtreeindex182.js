@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d6/d6e/classDatabaseScript.html#a323ab8c4dc1e4c2501eeb833ce89ab87":[7,0,982,0],
+"d6/d6e/classDatabaseScript.html#ab52afc833cb462693f5e0d79cff6bb3f":[7,0,982,3],
 "d6/d6e/classDatabaseScript.html#af4321bb95ed9bb3bb0e5a8a93c89c235":[7,0,982,1],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html":[7,0,58],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html#a30a94a92aacc558d6833994c11f3ee8a":[7,0,58,0],
@@ -95,8 +97,8 @@ var NAVTREEINDEX182 =
 "d6/d73/classspell__gluth__decimate__damage.html":[7,0,3170],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[7,0,3170,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3170,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2008],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d79/classOPvPCapturePoint.html#a037adc12c044a9f5244f981d47f635c5":[7,0,2359,5],
 "d6/d79/classOPvPCapturePoint.html#a086088ad6ceefa780717788f17452ea5":[7,0,2359,42],
 "d6/d79/classOPvPCapturePoint.html#a091ce24cdf64c5d31902a4977a9ff820":[7,0,2359,31],
-"d6/d79/classOPvPCapturePoint.html#a095a169792ea6bb9793b116b08327286":[7,0,2359,36],
-"d6/d79/classOPvPCapturePoint.html#a1126a3446be336ec8518b9738147d69e":[7,0,2359,39],
-"d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373":[7,0,2359,33]
+"d6/d79/classOPvPCapturePoint.html#a095a169792ea6bb9793b116b08327286":[7,0,2359,36]
 };

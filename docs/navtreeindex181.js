@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/d5f/structnpc__xt__void__zone.html#ac392b70098ff8a486d1eb42c4dcd1551":[7,0,2328,0],
+"d6/d5f/structnpc__xt__void__zone.html#acfd9e9a23c88e74ad96a14f8fb560612":[7,0,2328,3],
 "d6/d60/BattlegroundRL_8cpp.html":[8,0,0,0,1,2,8,1,14],
 "d6/d60/ByteBuffer_8cpp.html":[8,0,0,0,1,4,2,0],
 "d6/d60/SQLOperation_8h.html":[8,0,0,0,1,1,0,30],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d6e/EnumFlag_8h.html#ac8aaa198de31cb5a3b217d0968f30a3b":[8,0,0,0,0,15,8,6],
 "d6/d6e/EnumFlag_8h.html#ae0992e010612850442fc56bcf2d44b47":[8,0,0,0,0,15,8,3],
 "d6/d6e/classDatabaseScript.html":[7,0,982],
-"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[7,0,982,2],
-"d6/d6e/classDatabaseScript.html#a323ab8c4dc1e4c2501eeb833ce89ab87":[7,0,982,0],
-"d6/d6e/classDatabaseScript.html#ab52afc833cb462693f5e0d79cff6bb3f":[7,0,982,3]
+"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[7,0,982,2]
 };

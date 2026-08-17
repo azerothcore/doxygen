@@ -1,5 +1,7 @@
 var NAVTREEINDEX177 =
 {
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca":[8,0,0,0,1,2,17,3,2,5],
+"d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1":[8,0,0,0,1,2,17,3,2,1],
 "d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6":[8,0,0,0,1,2,17,3,2,7],
 "d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4":[8,0,0,0,1,2,17,3,2,4],
 "d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387":[8,0,0,0,1,2,17,3,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d41/classgo__witherbark__totem__bundle.html#affcdff7ec6894add0acec842028efd2e":[7,0,1238,1],
 "d6/d41/structSpellCategoryEntry.html":[7,0,4447],
 "d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[7,0,4447,0],
-"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[7,0,4447,1],
-"d6/d41/structboss__ragnaros.html":[7,0,682],
-"d6/d41/structboss__ragnaros.html#a0bd3c10d05c15fe817aa4250f5c811ac":[7,0,682,21]
+"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[7,0,4447,1]
 };

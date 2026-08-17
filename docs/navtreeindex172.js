@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,17,23],
+"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca2342fc86e4d2f4811c11c75f70b37f0b":[8,0,0,0,1,3,5,17,23,3],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca501ce8c3a5ee1f583f1ce31104b928c9":[8,0,0,0,1,3,5,17,23,4],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca90e4351e35988c5a11a32d28821b08b1":[8,0,0,0,1,3,5,17,23,1],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca92e3488f1417b738ca6d93942b808f81":[8,0,0,0,1,3,5,17,23,5],
@@ -114,8 +116,8 @@ var NAVTREEINDEX172 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[7,0,3220,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[7,0,1382,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[7,0,1382,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a98f908e89630b23584982e298193cc0e":[7,0,1915,0,2],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc":[7,0,1915,0,8],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#aaa914f4c2b48bd24c2dd06bc3599f563":[7,0,1915,0,9],
-"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#abc5776b08b4fd43a4bb430f160eb630a":[7,0,1915,0,3],
-"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#ac8a30d8eba315b967c4e0713b14dcba7":[7,0,1915,0,1],
-"d6/d1b/boss__grand__champions_8cpp.html":[8,0,0,0,1,3,5,2,0,2]
+"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#abc5776b08b4fd43a4bb430f160eb630a":[7,0,1915,0,3]
 };

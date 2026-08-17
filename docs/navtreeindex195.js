@@ -1,5 +1,7 @@
 var NAVTREEINDEX195 =
 {
+"d7/d06/classspell__sindragosa__ice__tomb__filter.html#a6e541cad4c831ee2eaf19d72324ec38c":[7,0,4148,2],
+"d7/d06/classspell__sindragosa__ice__tomb__filter.html#aae21b2d9ecc5bfd317f065f1da46b696":[7,0,4148,0],
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html":[7,0,4240],
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#a5675fef373315edd34d096bb91c733b0":[7,0,4240,3],
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#a9635bf496ee3098e412ba7de633250b3":[7,0,4240,0],
@@ -7,10 +9,10 @@ var NAVTREEINDEX195 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[7,0,4240,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,14],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[8,0,0,0,1,2,38,0,14,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,2],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,2,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,2,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[7,0,0,4,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
@@ -182,8 +184,8 @@ var NAVTREEINDEX195 =
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[7,0,15,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,29,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0f/classPreparedStatement.html":[7,0,2474],
 "d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[7,0,2474,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[7,0,2474,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d19/classspell__broggok__poison__cloud.html":[7,0,2742],
 "d7/d19/classspell__broggok__poison__cloud.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f":[7,0,2742,3],
 "d7/d19/classspell__broggok__poison__cloud.html#a53541105e40202e4a73ecc38d84e9eca":[7,0,2742,0],
-"d7/d19/classspell__broggok__poison__cloud.html#a58cd762eb10d224bb188aaf167c816b9":[7,0,2742,2],
-"d7/d19/classspell__broggok__poison__cloud.html#a79c8829a86db535e254db009d5286430":[7,0,2742,1],
-"d7/d19/structnpc__future__you_1_1npc__future__youAI.html":[7,0,1845,0]
+"d7/d19/classspell__broggok__poison__cloud.html#a58cd762eb10d224bb188aaf167c816b9":[7,0,2742,2]
 };

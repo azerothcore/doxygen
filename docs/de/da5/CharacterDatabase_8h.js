@@ -286,6 +286,7 @@ var CharacterDatabase_8h =
       [ "CHAR_SEL_CHAR_DEL_INFO_BY_NAME_LIMIT", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ab0104274fc59efb985721165e92ba35b", null ],
       [ "CHAR_SEL_CHAR_DEL_INFO", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a3976212a82c71d9803d4ca5d74aec3e4", null ],
       [ "CHAR_SEL_CHARS_BY_ACCOUNT_ID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226", null ],
+      [ "CHAR_SEL_ACCOUNT_INFO_CHARS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aef7692823a8086f6e57f5e264b27dd9f", null ],
       [ "CHAR_SEL_CHAR_PINFO", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ab5ac5b27e4462959c743c4e75bd62cce", null ],
       [ "CHAR_SEL_PINFO_XP", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a03591e9179e17b3b79cd9943b93a2ce2", null ],
       [ "CHAR_SEL_PINFO_MAILS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad387f18d87d71d7c7d9fb2aefab3be8d", null ],
