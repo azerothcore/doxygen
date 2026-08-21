@@ -21,6 +21,7 @@ var zone__grizzly__hills_8cpp =
     [ "spell_z_check_aura", "d3/d0c/classspell__z__check__aura.html", "d3/d0c/classspell__z__check__aura" ],
     [ "spell_warhead_fuse_aura", "d5/d79/classspell__warhead__fuse__aura.html", "d5/d79/classspell__warhead__fuse__aura" ],
     [ "spell_frog_kiss", "d9/de9/classspell__frog__kiss.html", "d9/de9/classspell__frog__kiss" ],
+    [ "spell_q12058_the_runic_prophecies", "db/dd7/classspell__q12058__the__runic__prophecies.html", "db/dd7/classspell__q12058__the__runic__prophecies" ],
     [ "Floppy", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8", [
       [ "NPC_MRFLOPPY", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539", null ],
       [ "NPC_HUNGRY_WORG", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec", null ],

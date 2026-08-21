@@ -17,6 +17,23 @@ var culling__of__stratholme_8cpp =
       [ "GOSSIP_MENU_ACTION_MENU_SKIP", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789aa818e69319dcbcf1ab339dc85990d507", null ],
       [ "GOSSIP_MENU_ACTION_INTERFERE", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789af3365f8cde44ae1654753a52daad4726", null ]
     ] ],
+    [ "CrateCitizens", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12", [
+      [ "NPC_SERGEANT_MORIGAN", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12a886c710ed3065968ff7156befdf84c2a", null ],
+      [ "NPC_JENA_ANDERSON", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12a3ed97095f8f1e7243440a47746e870fd", null ],
+      [ "NPC_MALCOLM_MOORE", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12a32ba346dcd56f5546d550c325c2b3209", null ],
+      [ "NPC_SCRUFFY", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12aaa9d7a3c1bddfe4f79a2f6b3203eee90", null ],
+      [ "NPC_ROGER_OWENS", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12aa00b232ddb61fb5aaa569c7d5b8a2f4a", null ],
+      [ "NPC_BARTLEBY_BATTSON", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12a5183f3cd82a33d06551ab8d507561f96", null ],
+      [ "ACTION_CRATE_DISPELLED", "d2/d5b/culling__of__stratholme_8cpp.html#a030b6113afb50f9a78a678b4e3c6cd12a57f0e02aea089df59297483138b5203d", null ]
+    ] ],
+    [ "CrateIds", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54", [
+      [ "CRATE_PERELLI", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54a160f645e651407aab83bc23bd6ca9c69", null ],
+      [ "CRATE_OWENS", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54a80f7a31c96fb31ab50b22feb31599507", null ],
+      [ "CRATE_GOSLIN", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54a2007f6bb764e809ccad8d2f27e4cc2db", null ],
+      [ "CRATE_MOORE", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54a97bb3c6f5355f89f20213e78743712b6", null ],
+      [ "CRATE_BATTSON", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54aafb9c7594ce319cdbc3c9c211020a7ef", null ],
+      [ "MAX_CRATES", "d2/d5b/culling__of__stratholme_8cpp.html#ac63f74dcf0c00444668f338796c9ee54aa1be28aedcafe21647abca0256d21370", null ]
+    ] ],
     [ "Events", "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_COMBAT_EXORCISM", "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab3c99e562e9fd0eb0734bfc10a97566d", null ],
       [ "EVENT_COMBAT_HEALTH_CHECK", "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a962a843d97885c07c4cc6827cd8ee2a3", null ],
@@ -141,6 +158,9 @@ var culling__of__stratholme_8cpp =
       [ "SPELL_ARTHAS_CRUSADER_STRIKE", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b47b479a0f7ec8ca1ab1d390e964d9f", null ]
     ] ],
     [ "AddSC_culling_of_stratholme", "d2/d5b/culling__of__stratholme_8cpp.html#aede95fd2791156799c384e405533f8c8", null ],
+    [ "CratePos", "d2/d5b/culling__of__stratholme_8cpp.html#a27e84f60308459f0feb53e28aab8f007", null ],
+    [ "MalcolmMoorePos", "d2/d5b/culling__of__stratholme_8cpp.html#a800fbf54b045f1ee5e17a93fbc0e40b6", null ],
     [ "RiftAndSpawnsLocations", "d2/d5b/culling__of__stratholme_8cpp.html#a8f556ffa48b8a885796ac88b1eaecece", null ],
+    [ "ScruffyPos", "d2/d5b/culling__of__stratholme_8cpp.html#a5afa185244098e56253610ba4da64b70", null ],
     [ "WavesLocations", "d2/d5b/culling__of__stratholme_8cpp.html#ae00215a6d1897962dd50230182fbfe22", null ]
 ];

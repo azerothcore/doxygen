@@ -4481,6 +4481,7 @@ var annotated_dup =
     [ "spell_q11730_ultrasonic_screwdriver", "dd/d0b/classspell__q11730__ultrasonic__screwdriver.html", "dd/d0b/classspell__q11730__ultrasonic__screwdriver" ],
     [ "spell_q11919_q11940_drake_hunt_aura", "d1/daf/classspell__q11919__q11940__drake__hunt__aura.html", "d1/daf/classspell__q11919__q11940__drake__hunt__aura" ],
     [ "spell_q12014_steady_as_a_rock", "d8/d69/classspell__q12014__steady__as__a__rock.html", "d8/d69/classspell__q12014__steady__as__a__rock" ],
+    [ "spell_q12058_the_runic_prophecies", "db/dd7/classspell__q12058__the__runic__prophecies.html", "db/dd7/classspell__q12058__the__runic__prophecies" ],
     [ "spell_q12066_bunny_kill_credit", "d2/d59/classspell__q12066__bunny__kill__credit.html", "d2/d59/classspell__q12066__bunny__kill__credit" ],
     [ "spell_q12096_q12092_dummy", "df/d99/classspell__q12096__q12092__dummy.html", "df/d99/classspell__q12096__q12092__dummy" ],
     [ "spell_q12227_camera_shake", "d8/dde/classspell__q12227__camera__shake.html", "d8/dde/classspell__q12227__camera__shake" ],

@@ -1534,6 +1534,7 @@ var hierarchy =
         [ "spell_q11719_bloodspore_ruination_45997", "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html", null ],
         [ "spell_q11730_ultrasonic_screwdriver", "dd/d0b/classspell__q11730__ultrasonic__screwdriver.html", null ],
         [ "spell_q12014_steady_as_a_rock", "d8/d69/classspell__q12014__steady__as__a__rock.html", null ],
+        [ "spell_q12058_the_runic_prophecies", "db/dd7/classspell__q12058__the__runic__prophecies.html", null ],
         [ "spell_q12066_bunny_kill_credit", "d2/d59/classspell__q12066__bunny__kill__credit.html", null ],
         [ "spell_q12096_q12092_dummy", "df/d99/classspell__q12096__q12092__dummy.html", null ],
         [ "spell_q12227_camera_shake", "d8/dde/classspell__q12227__camera__shake.html", null ],
