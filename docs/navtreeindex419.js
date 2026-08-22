@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[7,0,763,0,3],
 "df/dc3/classspell__apothecary__throw__perfume.html":[7,0,2658],
 "df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[7,0,2658,1],
 "df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[7,0,2658,0],
@@ -67,10 +68,10 @@ var NAVTREEINDEX419 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[7,0,2363,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[7,0,821],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,821,2],
 "df/dc7/structboss__yoggsaron__voice.html#a094522e81d1d19de660b75fb06ea4224":[7,0,821,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[7,0,355,23],
 "df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[7,0,355,20],
 "df/dd5/classUlduarVehicleScaleTest.html":[7,0,4612],
-"df/dd5/spell__shaman_8cpp.html":[8,0,0,0,1,3,9,10],
-"df/dd5/spell__shaman_8cpp.html#a3082f46075e4e453c37bc429c9d57a1a":[8,0,0,0,1,3,9,10,61]
+"df/dd5/spell__shaman_8cpp.html":[8,0,0,0,1,3,9,10]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/d70/classspell__illidari__council__reflective__shield__aura.html":[7,0,3342],
 "df/d70/classspell__illidari__council__reflective__shield__aura.html#aa1f27d25209f14dd8bf711bc15cb9165":[7,0,3342,2],
 "df/d70/classspell__illidari__council__reflective__shield__aura.html#aa730b912aadcde53f6cd94c2a8c99493":[7,0,3342,3],
 "df/d70/classspell__illidari__council__reflective__shield__aura.html#acde2cbf4d196cba1fa2c02393c08fe9f":[7,0,3342,1],
@@ -220,8 +221,8 @@ var NAVTREEINDEX411 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2873,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2873,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2873,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2829],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2829,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2829,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/d79/Map_8h.html":[8,0,0,0,1,2,26,4],
 "df/d79/Map_8h.html#a04f98f085e5062cb0c3e86409a12ea0c":[8,0,0,0,1,2,26,4,15],
 "df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb":[8,0,0,0,1,2,26,4,9],
-"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[8,0,0,0,1,2,26,4,8],
-"df/d79/Map_8h.html#a1a089ded88651bc639ec064fe70adce1":[8,0,0,0,1,2,26,4,10]
+"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[8,0,0,0,1,2,26,4,8]
 };

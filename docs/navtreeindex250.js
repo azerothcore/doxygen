@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea94901fd7464232d0d19f5b5da93c37b6":[8,0,0,0,1,3,5,6,13,7,1],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea94b858b4c294a19859cd49e0753d4e9d":[8,0,0,0,1,3,5,6,13,7,10],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea955d6b744e1cbc26f51e597abc6c74c0":[8,0,0,0,1,3,5,6,13,7,54],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea9acb422d523772436fd8a08c9517687f":[8,0,0,0,1,3,5,6,13,7,23],
@@ -167,8 +168,8 @@ var NAVTREEINDEX250 =
 "d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2618,2],
 "d9/d6e/classSmartWaypointMgr.html#ac34eb4bd79106db2574cce0208a785e5":[7,0,2618,5],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[7,0,2618,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[7,0,5,16],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,17,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[7,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[7,0,5,16,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d74/classspell__yogg__saron__titanic__storm.html#a337cdb940a2001ac370768b02126d3c0":[7,0,4439,3],
 "d9/d74/classspell__yogg__saron__titanic__storm.html#a4e27a01b87e6f003ed52da45a4bda403":[7,0,4439,0],
 "d9/d74/classspell__yogg__saron__titanic__storm.html#abfe7ff12346d54fe3a0c1450897e58ee":[7,0,4439,1],
-"d9/d74/structCleanDamage.html":[7,0,902],
-"d9/d74/structCleanDamage.html#a040977b1579b62695b4cbcf0c2ffeaa8":[7,0,902,3]
+"d9/d74/structCleanDamage.html":[7,0,902]
 };

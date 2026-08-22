@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"d6/d6b/structnpc__sunblade__scout.html#ae4ca796fa8fd4aae6ac8f184638b3f97":[7,0,2191,3],
 "d6/d6d/classnpc__isle__of__conquest__turret.html":[7,0,1944],
 "d6/d6d/classnpc__isle__of__conquest__turret.html#a0f532e12439e900b3cb77619f1ecd17d":[7,0,1944,2],
 "d6/d6d/classnpc__isle__of__conquest__turret.html#ac080845203adef25e6841133b7e2f4dc":[7,0,1944,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[7,0,2835,3],
 "d6/d76/classspell__dk__improved__blood__presence.html#a88e98bcb11fb16696f789878f79c665c":[7,0,2835,0],
 "d6/d76/classspell__dk__improved__blood__presence.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2":[7,0,2835,1],
-"d6/d76/classspell__dk__improved__blood__presence.html#ac936c92c3a24fba95505243cd3e79c21":[7,0,2835,4],
-"d6/d77/GuildPackets_8h.html":[8,0,0,0,1,2,39,0,14]
+"d6/d76/classspell__dk__improved__blood__presence.html#ac936c92c3a24fba95505243cd3e79c21":[7,0,2835,4]
 };

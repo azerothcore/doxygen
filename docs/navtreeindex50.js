@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/dec/classnpc__zulaman__hostage.html#a114f6fbfab90944fd49babcba4b48a11":[7,0,2333,4],
 "d1/dec/classnpc__zulaman__hostage.html#a12f9ad1889cacb60103c1e921c2fa0e9":[7,0,2333,1],
 "d1/dec/classnpc__zulaman__hostage.html#a89d68a976f916a4de2196b57ec0026b0":[7,0,2333,3],
 "d1/ded/classspell__item__ashbringer.html":[7,0,3356],
@@ -120,12 +121,12 @@ var NAVTREEINDEX50 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3549,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d04/classBattlegroundAV.html#ac12d64da87bd105293b900cf9af0534a":[7,0,333,43],
 "d2/d04/classBattlegroundAV.html#ac37677f225b563c8751ac776b5179139":[7,0,333,55],
 "d2/d04/classBattlegroundAV.html#acb3bb3b97f1e68408b14e2f201f6193d":[7,0,333,50],
-"d2/d04/classBattlegroundAV.html#ad13b43f603876d7849db173ab235563d":[7,0,333,58],
-"d2/d04/classBattlegroundAV.html#adaeba210b38e298593c2af0a200c3470":[7,0,333,16]
+"d2/d04/classBattlegroundAV.html#ad13b43f603876d7849db173ab235563d":[7,0,333,58]
 };

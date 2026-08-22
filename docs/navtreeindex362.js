@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"dd/dfa/structboss__nightbane.html#a9a42862b459b6447a0a3b59828515337":[7,0,655,15],
 "dd/dfa/structboss__nightbane.html#aa27b56f7248f504d9a79de0f5f104961":[7,0,655,3],
 "dd/dfa/structboss__nightbane.html#aab88cfbfbf9bdb347683b6c49ee455ee":[7,0,655,14],
 "dd/dfa/structboss__nightbane.html#add269fc76dc2094109261d654e0cb75b":[7,0,655,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b":[8,0,0,0,1,2,11,0,1,7,9],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82":[8,0,0,0,1,2,11,0,1,7,17],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef":[8,0,0,0,1,2,11,0,1,7,22],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd":[8,0,0,0,1,2,11,0,1,7,29],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4":[8,0,0,0,1,2,11,0,1,7,18]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd":[8,0,0,0,1,2,11,0,1,7,29]
 };

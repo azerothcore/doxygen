@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/dbd/structnpc__auriaya__sanctum__sentry.html#a93ed6a0205a042ef1fc065fc6cfd94ee":[7,0,1664,4],
 "d9/dbd/structnpc__auriaya__sanctum__sentry.html#ae5ed159c476c8b4569de7e2730edf447":[7,0,1664,0],
 "d9/dbf/classGhoulTargetCheck.html":[7,0,1137],
 "d9/dbf/classGhoulTargetCheck.html#a6722cfe5a1ceecccf2c07924b2975f46":[7,0,1137,1],
@@ -52,8 +53,8 @@ var NAVTREEINDEX256 =
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,0,137],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,0,137,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[7,0,0,125,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[7,0,0,125,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,0,137,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[7,0,0,125,1],
 "d9/dc5/classConfigValueCache.html":[7,0,923],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[7,0,923,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[7,0,923,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX256 =
 "d9/dc9/classspell__halion__twilight__division.html":[7,0,3202],
 "d9/dc9/classspell__halion__twilight__division.html#a70a36683a235dec6044a8a32f20c606c":[7,0,3202,2],
 "d9/dc9/classspell__halion__twilight__division.html#a96b430cb0546fb599da22cd675660187":[7,0,3202,0],
-"d9/dc9/classspell__halion__twilight__division.html#ad0330cb78a330f05c18f33375f231fbc":[7,0,3202,1],
-"d9/dc9/classspell__halion__twilight__division.html#affa7ccf869e98eacd3a153cc645d704e":[7,0,3202,3]
+"d9/dc9/classspell__halion__twilight__division.html#ad0330cb78a330f05c18f33375f231fbc":[7,0,3202,1]
 };

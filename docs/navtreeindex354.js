@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"dd/daa/classOPvPCapturePointHP.html":[7,0,2365],
 "dd/daa/classOPvPCapturePointHP.html#a0191bec2d9492e21957ed9b4e0fed484":[7,0,2365,6],
 "dd/daa/classOPvPCapturePointHP.html#a42528a90eda9ec28dd00df3f0ec78a15":[7,0,2365,5],
 "dd/daa/classOPvPCapturePointHP.html#a7f5fa3e3bd28924965cc08f41b5d6bd8":[7,0,2365,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dad/PetitionMgr_8h.html#a541d3cf929662ff3a4ab97f63d54b16f":[8,0,0,0,1,2,33,1,6],
 "dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bb":[8,0,0,0,1,2,33,1,8],
 "dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d":[8,0,0,0,1,2,33,1,8,0],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[8,0,0,0,1,2,33,1,8,1],
-"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[8,0,0,0,1,2,33,1,8,3]
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[8,0,0,0,1,2,33,1,8,1]
 };

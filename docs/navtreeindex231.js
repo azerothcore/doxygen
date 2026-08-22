@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#aeec4396af4a93559f89dd422decc7357":[4,1,19,131],
 "d8/d74/classWorldSession.html#aef6f44be1a1518170e30c3b8944539af":[4,1,19,642],
 "d8/d74/classWorldSession.html#af03671c355206c4e5c53882414967a1d":[4,1,19,583],
 "d8/d74/classWorldSession.html#af10e5a58579be228d0653002b10d779c":[4,1,19,194],
@@ -107,8 +108,8 @@ var NAVTREEINDEX231 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1622],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea5c5a2c16d0f5d215beb0d22418600cb4":[8,0,0,0,1,3,2,4,6,7,6],
 "d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea603e20f341c92e8e34d4417d2284e7e3":[8,0,0,0,1,3,2,4,6,7,10],
 "d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea66ad71e367d912f648a95242e4be0454":[8,0,0,0,1,3,2,4,6,7,0],
-"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea7990dee802050e7f64fa765aaab7ad59":[8,0,0,0,1,3,2,4,6,7,7],
-"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,2,4,6,7,11]
+"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea7990dee802050e7f64fa765aaab7ad59":[8,0,0,0,1,3,2,4,6,7,7]
 };

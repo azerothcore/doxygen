@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/classspell__sha__fire__elemental__scaling.html#a9269eee5ef676c466e662305389988f0":[7,0,4090,3],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a9bf7cd6309b4724462b03c1080324f83":[7,0,4090,6],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#aa818ca9c4e7b1320f97931525faff1c4":[7,0,4090,4],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#abba0772c18bf98696dc1f236da79401e":[7,0,4090,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de6/class__SpellScript_1_1EffectNameCheck.html#a905224fb028ea0eab350773b7230f871":[7,0,18,2,3],
 "d5/de6/class__SpellScript_1_1EffectNameCheck.html#aa82307388bdda7864bb085a349b63f29":[7,0,18,2,0],
 "d5/de6/classaura__class__call__siphon__blessing.html":[7,0,291],
-"d5/de6/classaura__class__call__siphon__blessing.html#a149c974371f23268d2d929b483637b14":[7,0,291,1],
-"d5/de6/classaura__class__call__siphon__blessing.html#a6a2f42867a7082d2b8406c651d5dc484":[7,0,291,2]
+"d5/de6/classaura__class__call__siphon__blessing.html#a149c974371f23268d2d929b483637b14":[7,0,291,1]
 };

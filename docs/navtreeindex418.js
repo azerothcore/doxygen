@@ -1,5 +1,6 @@
 var NAVTREEINDEX418 =
 {
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,34,10,8,0],
 "df/db5/boss__meathook_8cpp.html":[8,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[8,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,4,1,1,3,4],
@@ -83,8 +84,8 @@ var NAVTREEINDEX418 =
 "df/db8/structnpc__tito.html#a96c47ca2e66bb984dfd2cfefa6bde643":[7,0,2224,3],
 "df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[7,0,2224,4],
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2224,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[7,0,13,6,50,2],
@@ -169,18 +170,18 @@ var NAVTREEINDEX418 =
 "df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[7,0,4456,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,0,91],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[7,0,0,79],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[7,0,0,79,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,0,91,5],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[7,0,0,79,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[7,0,0,79,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,91,2],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[7,0,0,79,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[7,0,0,79,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,91,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,0,91,1],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[7,0,0,79,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,91,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,0,91,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[7,0,0,79,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,0,91,0],
 "df/dbd/structnpc__pallid__horror.html":[7,0,2049],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[7,0,2049,10],
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[7,0,2049,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX418 =
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#a98474fcfbc56c7850ae054b7489eaa4f":[7,0,763,0,0],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ac4e2ed28ba7863630cd54c8f6c11455f":[7,0,763,0,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ad501bb34a0014be0abc965aae5383e21":[7,0,763,0,2],
-"df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[7,0,763,0,7],
-"df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[7,0,763,0,3]
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[7,0,763,0,7]
 };

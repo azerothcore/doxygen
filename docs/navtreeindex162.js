@@ -1,5 +1,6 @@
 var NAVTREEINDEX162 =
 {
+"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3cac8c7b33482e44350c2bd5e8dec713ad9":[8,0,0,0,1,2,8,6,5,14],
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3caca502d97b4ce3a42b0c4c4b097ea5872":[8,0,0,0,1,2,8,6,5,11],
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3cad93a3c8f9993d960fbd8235dc752d6f2":[8,0,0,0,1,2,8,6,5,4],
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3caedbaa3d036cb3b5652762b91df5f908a":[8,0,0,0,1,2,8,6,5,6],
@@ -136,18 +137,18 @@ var NAVTREEINDEX162 =
 "d5/dbf/classspell__dk__threat__of__thassarian.html#a393909e3765443aa4930d8036c36b132":[7,0,2859,0],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#aeaacd337fd8a02e7c19ead8912fc68d9":[7,0,2859,1],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#af37fd1db3dc6cbbe985734853ea59109":[7,0,2859,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[7,0,0,95],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,0,107],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[7,0,0,95],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,0,107,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[7,0,0,95,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[7,0,0,95,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,0,107,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,107,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[7,0,0,95,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,107,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[7,0,0,95,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,107,4],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[7,0,0,95,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,107,3],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[7,0,0,95,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[7,0,0,95,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,107,5],
 "d5/dc0/classspell__marli__transform.html":[7,0,3662],
@@ -248,6 +249,5 @@ var NAVTREEINDEX162 =
 "d5/dc7/classAppenderFile.html#af4ee583cbcd00d8d564189b0d62a1bb8":[7,0,164,5],
 "d5/dc7/classnpc__cairne__bloodhoof.html":[7,0,1713],
 "d5/dc7/classnpc__cairne__bloodhoof.html#a1c34470c46ae9e98684de0e786be28b7":[7,0,1713,2],
-"d5/dc7/classnpc__cairne__bloodhoof.html#a3519d94c5fcdc3d55e31c49c7773e56c":[7,0,1713,1],
-"d5/dc7/classspell__pal__aura__mastery.html":[7,0,3741]
+"d5/dc7/classnpc__cairne__bloodhoof.html#a3519d94c5fcdc3d55e31c49c7773e56c":[7,0,1713,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[7,0,713,0,20],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a87663e3f6d1c87c9def8eb1852adc029":[7,0,713,0,17],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a8ef89884c8d1b272d28dd7a6d2048964":[7,0,713,0,16],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a93859d74931e5b810e3c48e492103919":[7,0,713,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[7,0,2695,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[7,0,2695,4],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[7,0,2695,0],
-"da/dae/classspell__dru__glyph__of__shred.html":[7,0,2900],
-"da/dae/classspell__dru__glyph__of__shred.html#a87e742cdb4d12b287607d8d7cb00e84b":[7,0,2900,2]
+"da/dae/classspell__dru__glyph__of__shred.html":[7,0,2900]
 };

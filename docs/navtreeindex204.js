@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/d81/classOPvPCapturePointEP__EWT.html#a6d45df918aea00e9cb85a8940cb5c1c9":[7,0,2361,5],
 "d7/d81/classOPvPCapturePointEP__EWT.html#a7ce76f4fc8169c42f65267daf987a3b6":[7,0,2361,2],
 "d7/d81/classOPvPCapturePointEP__EWT.html#aa30e9cc01476eb20b188c7a13a405c3a":[7,0,2361,8],
 "d7/d81/classOPvPCapturePointEP__EWT.html#ac00c50b89e1218f87506778096a9d7cd":[7,0,2361,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d8f/structWardenInitModuleRequest.html#aee882e52535783c798f4294adec5cbf5":[7,0,4657,11],
 "d7/d90/ScriptObject_8h.html":[8,0,0,0,1,2,38,6],
 "d7/d90/ScriptObject_8h.html#ac7e3013df774904b0d331e5b0c6e93ad":[8,0,0,0,1,2,38,6,3],
-"d7/d90/boss__harbinger__skyriss_8cpp.html":[8,0,0,0,1,3,7,5,0,3],
-"d7/d90/boss__harbinger__skyriss_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,5,0,3,2]
+"d7/d90/boss__harbinger__skyriss_8cpp.html":[8,0,0,0,1,3,7,5,0,3]
 };

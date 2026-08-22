@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad10c256706225be97608ad6b7600e3d8":[8,0,0,0,1,3,10,17,6,62],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad2d480de4ad6e58dd9a4e5adfc6e3c08":[8,0,0,0,1,3,10,17,6,59],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad506b5ef5072bccbcad494e57d735fd9":[8,0,0,0,1,3,10,17,6,50],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824ad6ac708fa560fe80336bab5a75810436":[8,0,0,0,1,3,10,17,6,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d38/classspell__gen__feign__death__all__flags.html#a0635d5e34bfc62df1ec006b7818bffb2":[7,0,3062,3],
 "d6/d38/classspell__gen__feign__death__all__flags.html#a4925868cc5b61b7f35d59fdb27af27b6":[7,0,3062,2],
 "d6/d38/classspell__gen__feign__death__all__flags.html#a65ad32ded4246c3469f15b6ab167830e":[7,0,3062,0],
-"d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[7,0,3062,1],
-"d6/d38/instance__blackfathom__deeps_8cpp.html":[8,0,0,0,1,3,4,0,1]
+"d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[7,0,3062,1]
 };

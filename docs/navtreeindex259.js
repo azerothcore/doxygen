@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"d9/df5/classGmTicket.html#a6b8fc57ce6a3c3cf0f7135e0305fada2":[7,0,1144,35],
 "d9/df5/classGmTicket.html#a6df8d68ab86b31257d246623d27c924d":[7,0,1144,26],
 "d9/df5/classGmTicket.html#a726b123df35aea0f2853921a5a5ebb5c":[7,0,1144,0],
 "d9/df5/classGmTicket.html#a729aadab6e9d53f26dc28350f36742d8":[7,0,1144,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a91876d310676eef418844a12e3e2a08e":[8,0,0,0,1,3,5,9,2,16,4,3],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a94a5223afc91397ed7b50393d0fe65f2":[8,0,0,0,1,3,5,9,2,16,4,1],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a9c1b37616fddcf9fbb88c02e7728de85":[8,0,0,0,1,3,5,9,2,16,4,7],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aa4aae50a6c3aac87426550b4c536ddc6":[8,0,0,0,1,3,5,9,2,16,4,44],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aa6fba5745b6298314a9ff30d3ce5de5b":[8,0,0,0,1,3,5,9,2,16,4,52]
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aa4aae50a6c3aac87426550b4c536ddc6":[8,0,0,0,1,3,5,9,2,16,4,44]
 };

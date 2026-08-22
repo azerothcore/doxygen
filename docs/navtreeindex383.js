@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"de/d3c/structnpc__maiev__illidan.html#af0f1e48d3712039cb110d5a69a464009":[7,0,1992,9],
 "de/d3d/Group_8h.html":[8,0,0,0,1,2,20,1],
 "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5":[8,0,0,0,1,2,20,1,15],
 "de/d3d/Group_8h.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a22b822be00ad7f19f3700c3fe28d65db":[8,0,0,0,1,2,20,1,15,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f":[8,0,0,0,1,2,13,3,3,10],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0":[8,0,0,0,1,2,13,3,3,9],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68":[8,0,0,0,1,2,13,3,3,8],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a":[8,0,0,0,1,2,13,3,3,7],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296":[8,0,0,0,1,2,13,3,3,5]
+"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a":[8,0,0,0,1,2,13,3,3,7]
 };

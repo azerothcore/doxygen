@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a7d95681882ebd3aed213b0fb44492e8b":[7,0,1347,0,3],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a87fe01f64c145476121811c4037ea38f":[7,0,1347,0,9],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a94c416f2babd82942f538cb590ed1b00":[7,0,1347,0,1],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#a9fb268f006661035f305edfdc495bf20":[7,0,1347,0,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae254289261924da61dec6f0622aa57da":[8,0,0,0,1,3,2,30,28,10],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae32bc53e4b9084d30421747f1238480f":[8,0,0,0,1,3,2,30,28,13],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae4ce19a8065aa9b72faa1bb7bf240c59":[8,0,0,0,1,3,2,30,28,50],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae50eb7e5111826fba5098a4d6c533b68":[8,0,0,0,1,3,2,30,28,51],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae5fdda4bd97547b50b9d420139dd4be8":[8,0,0,0,1,3,2,30,28,0]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae50eb7e5111826fba5098a4d6c533b68":[8,0,0,0,1,3,2,30,28,51]
 };

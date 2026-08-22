@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d14/structIpLocationRecord.html#a10ffefef6ba7d81a23d5d29bc2ee599d":[7,0,1408,1],
 "db/d14/structIpLocationRecord.html#a1dba2f8a7697c7e6fd427089d556c19a":[7,0,1408,0],
 "db/d14/structIpLocationRecord.html#a844dfff114f6ce64b79c459527965bfb":[7,0,1408,5],
 "db/d14/structIpLocationRecord.html#a97d36332086a339e07b73955f23acd57":[7,0,1408,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[8,0,0,0,1,3,5,12,3,2,0],
 "db/d1d/structboss__ouro.html":[7,0,664],
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[7,0,664,12],
-"db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[7,0,664,14],
-"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[7,0,664,7]
+"db/d1d/structboss__ouro.html#a1f9afe42fad602f470456929214f40d3":[7,0,664,14]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d3/d98/structLocation.html#a3785e9b55ea3a7140086ce1f86232109":[7,0,1472,0],
 "d3/d98/structLocation.html#a69fc2438e52f6c0de3af13900ff38166":[7,0,1472,3],
 "d3/d98/structLocation.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7":[7,0,1472,1],
 "d3/d9a/classspell__dk__corpse__explosion.html":[7,0,2817],
@@ -232,8 +233,8 @@ var NAVTREEINDEX107 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[7,0,2727],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#a05e6155abeb2720923ddf0d8cae54feb":[7,0,2727,0],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d":[7,0,2727,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d9f/classObjectVisibilityContainer.html#a4f62fa8a0d950932342764c0eeb1a455":[7,0,2354,1],
 "d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445":[7,0,2354,15],
 "d3/d9f/classObjectVisibilityContainer.html#a567fc2f9f863466244482b94d31822cb":[7,0,2354,2],
-"d3/d9f/classObjectVisibilityContainer.html#a68d24d68b4bc7e9d46c52b5748418268":[7,0,2354,9],
-"d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25":[7,0,2354,5]
+"d3/d9f/classObjectVisibilityContainer.html#a68d24d68b4bc7e9d46c52b5748418268":[7,0,2354,9]
 };

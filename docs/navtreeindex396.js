@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a473a8fb4905e5d1333196797d7d0f371":[7,0,1768,0],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a50e0657f33f15bf2ffe83ca4041eb483":[7,0,1768,2],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a8686845ebef564c9fcaa115866c99749":[7,0,1768,6],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a999dd932fbaf22a8275dfdba150c3291":[7,0,1768,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/dc0/structBattlegroundTemplate.html#ac1bea263b53de8573cdb8eb890175495":[7,0,357,7],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html":[7,0,415,0],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a01121270bc30a75630e5da96c9f61519":[7,0,415,0,6],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a189de3b3ef51c7870399a7a31503ae24":[7,0,415,0,10],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a1b16dda892b2e6c94352cf13e6b961f4":[7,0,415,0,2]
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a189de3b3ef51c7870399a7a31503ae24":[7,0,415,0,10]
 };

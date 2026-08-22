@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[8,0,0,0,1,3,9,2,210,6],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[8,0,0,0,1,3,9,2,210,2],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba7018d987be1cd92380fee03ccf20428c":[8,0,0,0,1,3,9,2,210,0],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84baa02a3889b1f1c7a5045478e571b31975":[8,0,0,0,1,3,9,2,210,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96":[8,0,0,0,1,2,16,10,4,3],
 "d1/deb/Unit_8cpp.html#afef08589b9944f10d66bdc1de74d0270":[8,0,0,0,1,2,16,10,4,6],
 "d1/dec/classnpc__zulaman__hostage.html":[7,0,2333],
-"d1/dec/classnpc__zulaman__hostage.html#a0ae144dc154dd028b409c9d2393f890c":[7,0,2333,2],
-"d1/dec/classnpc__zulaman__hostage.html#a114f6fbfab90944fd49babcba4b48a11":[7,0,2333,4]
+"d1/dec/classnpc__zulaman__hostage.html#a0ae144dc154dd028b409c9d2393f890c":[7,0,2333,2]
 };

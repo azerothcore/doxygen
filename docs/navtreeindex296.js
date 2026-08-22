@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"db/d6e/spell__item_8cpp.html#a79daeb8797f30eb06dbe735fea605df7":[8,0,0,0,1,3,9,4,202],
 "db/d6e/spell__item_8cpp.html#a79daeb8797f30eb06dbe735fea605df7a823f79b900c5e2fa2ddc86b75cd28e1e":[8,0,0,0,1,3,9,4,202,0],
 "db/d6e/spell__item_8cpp.html#a7c83be18daa3cdaab096b0caf49520a2":[8,0,0,0,1,3,9,4,279],
 "db/d6e/spell__item_8cpp.html#a7d4c807402357080331d4dd659740af0":[8,0,0,0,1,3,9,4,203],
@@ -243,11 +244,10 @@ var NAVTREEINDEX296 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2564,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[7,0,2564,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2564,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1]
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2]
 };

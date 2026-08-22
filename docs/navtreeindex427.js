@@ -1,5 +1,6 @@
 var NAVTREEINDEX427 =
 {
+"df/df2/classspell__dk__blade__barrier.html#a2e572b677ad3b754316066f3e53edbbb":[7,0,2809,1],
 "df/df2/classspell__dk__blade__barrier.html#a4e1d93c20d0926d3ac93c23d9c139df6":[7,0,2809,0],
 "df/df2/classspell__dk__blade__barrier.html#acecdc9e5079c49b312521a65682b602a":[7,0,2809,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html":[7,0,3535],
@@ -248,6 +249,5 @@ var NAVTREEINDEX427 =
 "dir_1070012e9e40376f8468ff0aa5b77c71.html":[8,0,0,0,0],
 "dir_10cc9e05dd2639963b68719a523d1ea8.html":[8,0,0,0,1,2,31,2],
 "dir_10e0fdc55825859b4f92970a0e407994.html":[8,0,0,0,1,2,9],
-"dir_14e88a38456ce636c6ee65eed9c3a2a1.html":[8,0,0,0,1,3,5,10,0],
-"dir_15083f8b5066937009b1e1e793a7b821.html":[8,0,0,0,1,2,1]
+"dir_14e88a38456ce636c6ee65eed9c3a2a1.html":[8,0,0,0,1,3,5,10,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/dc7/classspell__pal__aura__mastery.html":[7,0,3741],
 "d5/dc7/classspell__pal__aura__mastery.html#a0ebac0cb6933ac4c562c3c91e06614dd":[7,0,3741,4],
 "d5/dc7/classspell__pal__aura__mastery.html#a1182bd57a03ad093b53e3864bdff127c":[7,0,3741,0],
 "d5/dc7/classspell__pal__aura__mastery.html#a6374ece2a04c3d5bc81bb31cc5bc78e1":[7,0,3741,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a2280e5cc5187a91917a1e517e80e960d":[7,0,2076,3],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a2df79acc05dd8489e9e994e044b45404":[7,0,2076,5],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#a3428642963fc9e7588ec92fd838f1af9":[7,0,2076,0],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[7,0,2076,4],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#ac274b9edb03ab13a8e95d8c4fe5055db":[7,0,2076,2]
+"d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[7,0,2076,4]
 };

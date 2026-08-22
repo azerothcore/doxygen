@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d6/dc8/classspell__silithyst.html#afda219a18001505ae7a2d01b1d5b25c0":[7,0,4146,0],
 "d6/dc9/classspell__vem__vengeance.html":[7,0,4302],
 "d6/dc9/classspell__vem__vengeance.html#a0e3a6fd6f3de3d81f535d67451568c45":[7,0,4302,2],
 "d6/dc9/classspell__vem__vengeance.html#a5e93e2cb92db31be03703ab2e5d082cd":[7,0,4302,1],
@@ -153,8 +154,8 @@ var NAVTREEINDEX190 =
 "d6/dcd/classspell__the__cleansing__shrine__cast.html#a49e425fa95e5107f38aa16e546674b7d":[7,0,4220,0],
 "d6/dcd/classspell__the__cleansing__shrine__cast.html#a9e7a1239e165131b70c437793b5371d0":[7,0,4220,2],
 "d6/dcd/classspell__the__cleansing__shrine__cast.html#aa3153a940a762a7ee09e7c62b6b61053":[7,0,4220,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[7,0,13,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,34,6,28],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[7,0,13,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[7,0,13,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[7,0,13,6,28,0],
@@ -163,8 +164,8 @@ var NAVTREEINDEX190 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[7,0,13,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,34,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[7,0,13,6,28,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[7,0,13,6,28,1],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,34,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[7,0,13,6,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[7,0,3260],
 "d6/dce/classspell__hun__lock__and__load.html#a0cbe419bde5ebc30dc599bbdd99d04eb":[7,0,3260,2],
 "d6/dce/classspell__hun__lock__and__load.html#a439aa5395d222291fbd5943f853d8961":[7,0,3260,1],
@@ -247,7 +248,6 @@ var NAVTREEINDEX190 =
 "d6/dd4/structboss__sacrolash.html#aa3128dae87d181e7ab93cf3a13723982":[7,0,696,7],
 "d6/dd4/structboss__sacrolash.html#adbcbd24a90549978032d31d1beeaa4e6":[7,0,696,2],
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[7,0,696,1],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,34,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[7,0,13,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[7,0,13,1,2,2]
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,34,1,2]
 };

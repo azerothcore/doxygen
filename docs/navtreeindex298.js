@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/d80/structinstance__blackrock__spire.html#a897c62eaa5895c196ce31cf380821e55":[7,0,1328,26],
 "db/d80/structinstance__blackrock__spire.html#a8a295c9f6ad4cb2bb79481ccf41b667f":[7,0,1328,9],
 "db/d80/structinstance__blackrock__spire.html#a8abf7ad14daa27fc750bc01b3a80d5b3":[7,0,1328,0],
 "db/d80/structinstance__blackrock__spire.html#a9397bd4889aa0de7452ea7f040a1864f":[7,0,1328,19],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad":[7,0,4569,2],
 "db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[7,0,4569,1],
 "db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[7,0,4569,5],
-"db/d88/utgarde__keep_8cpp.html":[8,0,0,0,1,3,5,10,0,4],
-"db/d88/utgarde__keep_8cpp.html#a0a556a898032cb18eabb6df4a3f482e1":[8,0,0,0,1,3,5,10,0,4,8]
+"db/d88/utgarde__keep_8cpp.html":[8,0,0,0,1,3,5,10,0,4]
 };

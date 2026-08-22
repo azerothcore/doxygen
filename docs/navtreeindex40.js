@@ -77,13 +77,14 @@ var NAVTREEINDEX40 =
 "d1/da9/boss__toravon_8cpp.html#afa530e4aa1607d79d7690c3d93df141d":[8,0,0,0,1,3,5,11,3,8],
 "d1/da9/structboss__flame__leviathan__defense__turret.html":[7,0,487],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#a17020dc7facabb0cacac3209277a73f7":[7,0,487,1],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a413187aa01c119d088846a216f093baa":[7,0,487,7],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a3e31c489f5bb4928cb9a3bc996940cd1":[7,0,487,4],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a413187aa01c119d088846a216f093baa":[7,0,487,8],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#a47ccbb6d0b4429763606b5a1e5719e79":[7,0,487,0],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a5f4fe282b2a9e1ba1f8dacd38572c94f":[7,0,487,6],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a5f4fe282b2a9e1ba1f8dacd38572c94f":[7,0,487,7],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#a6865c79397cb1c6efcba9952c9a9b61f":[7,0,487,3],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a9d6e48e613a65f7a3bec76ce6ea73574":[7,0,487,5],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a9d6e48e613a65f7a3bec76ce6ea73574":[7,0,487,6],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#ac15aadce1954d827b7e833ed761faf10":[7,0,487,2],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b":[7,0,487,4],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b":[7,0,487,5],
 "d1/daa/structboss__high__interrogator__gerstahn.html":[7,0,548],
 "d1/daa/structboss__high__interrogator__gerstahn.html#a0c3eb9b1aefb055f8c97d723c536d1ab":[7,0,548,4],
 "d1/daa/structboss__high__interrogator__gerstahn.html#a48508fa92aee209ea58257a1376ab7fb":[7,0,548,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6":[8,0,0,0,1,2,16,10,5,54],
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a48ed76ad4fb7d2c8869cc5abb7b916e3":[8,0,0,0,1,2,16,10,5,54,8],
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a5641e7d96ae7d9f3fd6c97b804910d58":[8,0,0,0,1,2,16,10,5,54,4],
-"d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a79274299b137c1f878a7b411595df7ef":[8,0,0,0,1,2,16,10,5,54,0],
-"d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a9f914d14cdb6832f4e393434f27e935d":[8,0,0,0,1,2,16,10,5,54,1]
+"d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a79274299b137c1f878a7b411595df7ef":[8,0,0,0,1,2,16,10,5,54,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaac915b161e815b180ec5f606f9526c7c3":[8,0,0,0,1,3,5,6,7,35,3],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaacaec7bd60b341c8f3b573d82517930cd":[8,0,0,0,1,3,5,6,7,35,0],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad391024e6fdd7a216255ef00a1cd6825":[8,0,0,0,1,3,5,6,7,35,2],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad75f2ba3df014f94ac8191634508c919":[8,0,0,0,1,3,5,6,7,35,8],
@@ -156,8 +157,8 @@ var NAVTREEINDEX239 =
 "d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
 "d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
-"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
 "d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
+"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
@@ -166,8 +167,8 @@ var NAVTREEINDEX239 =
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
-"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d":[8,0,0,0,1,3,2,1,1,14,2,6],
 "d8/de7/classnpc__announcer__toc10.html":[7,0,1636],
 "d8/de7/classnpc__announcer__toc10.html#a9a2bf1d3a215332744ca473041cc0520":[7,0,1636,2],
-"d8/de7/classnpc__announcer__toc10.html#ae495b19328c6a743dfd8f1cbf37a0bd6":[7,0,1636,0],
-"d8/de7/classnpc__announcer__toc10.html#afcc5262e7c49b7456af146de14805a06":[7,0,1636,1]
+"d8/de7/classnpc__announcer__toc10.html#ae495b19328c6a743dfd8f1cbf37a0bd6":[7,0,1636,0]
 };

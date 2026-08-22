@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d8/dcd/classPassiveAI.html#ad1ae1c9e8a101dabd89aeed5c71eb453":[7,0,2408,0],
 "d8/dcd/classPassiveAI.html#ae8aa0cf612d23e5b9438e3f2b443f3d9":[7,0,2408,4],
 "d8/dcd/classspell__rog__shiv.html":[7,0,4040],
 "d8/dcd/classspell__rog__shiv.html#a3635089640297e059a183322c7e8f7b9":[7,0,4040,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[7,0,3031,2],
 "d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[7,0,3031,1],
 "d8/dd8/ObjectMgr_8cpp.html":[8,0,0,0,1,2,18,2],
-"d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[8,0,0,0,1,2,18,2,15],
-"d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[8,0,0,0,1,2,18,2,8]
+"d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[8,0,0,0,1,2,18,2,15]
 };

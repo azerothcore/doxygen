@@ -1,5 +1,6 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daab9d163d2ba282279499f8d397f07858":[8,0,0,0,1,2,8,1,3,21,56],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daad0b1a9d60cd856ec90aac52dbffc1b4":[8,0,0,0,1,2,8,1,3,21,8],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dab8aead80a7e6f8ded85ac453edd5d48d":[8,0,0,0,1,2,8,1,3,21,67],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dabc942baab2c9add34b72fbfc8b53f8c5":[8,0,0,0,1,2,8,1,3,21,47],
@@ -163,10 +164,10 @@ var NAVTREEINDEX116 =
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1672,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd7/classinstance__trial__of__the__crusader.html#a792034e9e5687bf5fa543175692bed66":[7,0,1385,2],
 "d3/dd7/classspell__halion__twilight__realm__aura.html":[7,0,3206],
 "d3/dd7/classspell__halion__twilight__realm__aura.html#a2c9e4d82bd25f439e01a05700563b122":[7,0,3206,3],
-"d3/dd7/classspell__halion__twilight__realm__aura.html#a4eab0bd70eb884f7736e90f9001d3cc7":[7,0,3206,2],
-"d3/dd7/classspell__halion__twilight__realm__aura.html#ad072d243dd148e1b34aea29a2e5d175e":[7,0,3206,0]
+"d3/dd7/classspell__halion__twilight__realm__aura.html#a4eab0bd70eb884f7736e90f9001d3cc7":[7,0,3206,2]
 };

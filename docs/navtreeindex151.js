@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[7,0,13,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[7,0,3562],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[7,0,3562,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[7,0,3562,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX151 =
 "d5/d65/MoveSplineInitArgs_8h.html#a86528b2e04ddf38b80888e45d6b9c37d":[8,0,0,0,1,2,31,1,9,2],
 "d5/d65/Weather_8h.html":[4,2,1],
 "d5/d65/classspell__warl__eye__of__kilrogg.html":[7,0,4327],
-"d5/d65/classspell__warl__eye__of__kilrogg.html#a5c7d7c0b8880128121d66d39094f1965":[7,0,4327,2],
-"d5/d65/classspell__warl__eye__of__kilrogg.html#a9029865b5e06c4a9aa7f155f371c9125":[7,0,4327,1]
+"d5/d65/classspell__warl__eye__of__kilrogg.html#a5c7d7c0b8880128121d66d39094f1965":[7,0,4327,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"d9/d8a/LogOperation_8h.html":[8,0,0,0,0,9,16],
 "d9/d8a/structQuestSortEntry.html":[7,0,2514],
 "d9/d8a/structQuestSortEntry.html#a61c817f16c280ee29e1c91bdb0c2fda8":[7,0,2514,0],
 "d9/d8a/structStableSlotPricesEntry.html":[7,0,4523],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a975640cf2a355b698a781a70de842cca":[8,0,0,0,1,3,2,14,8,6,4],
 "d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ac01978c6fe524cb88c2f5933245ee834":[8,0,0,0,1,3,2,14,8,6,5],
 "d9/d98/zulaman_8h.html#a43dfa33903c585c05a4fd45c02f1bbe3":[8,0,0,0,1,3,2,14,8,7],
-"d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,2,14,8,3],
-"d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963ea0bdd8c8ef1d879df7c14109e4980b096":[8,0,0,0,1,3,2,14,8,3,16]
+"d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,2,14,8,3]
 };

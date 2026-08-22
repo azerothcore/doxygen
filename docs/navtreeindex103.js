@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04ae3bc9f0bc9e8b233ecab92950b015503":[8,0,0,0,1,3,5,22,20,2],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04af28f708690af58349b5b1dba31772287":[8,0,0,0,1,3,5,22,20,6],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04afb0e1911326aa5d48efab6088d861ed1":[8,0,0,0,1,3,5,22,20,11],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2":[8,0,0,0,1,3,5,22,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d7a/classspell__karazhan__blink.html#a02b89ff0a3ea53bb2740c7deb51279c2":[7,0,3540,0],
 "d3/d7a/classspell__karazhan__blink.html#a17784359e300e9d66c0c22bc5e7b6f6c":[7,0,3540,2],
 "d3/d7a/classspell__karazhan__blink.html#a55a794dbaf76a549bd11fbe2a2432609":[7,0,3540,1],
-"d3/d7a/classspell__karazhan__blink.html#af12eb55064f7f1f1063ec0ce2863bc57":[7,0,3540,3],
-"d3/d7c/AutobroadcastMgr_8cpp.html":[8,0,0,0,1,2,6,0]
+"d3/d7a/classspell__karazhan__blink.html#af12eb55064f7f1f1063ec0ce2863bc57":[7,0,3540,3]
 };

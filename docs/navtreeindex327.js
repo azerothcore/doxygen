@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7909afbd4e04b036c4d7301fed932635":[8,0,0,0,1,2,26,2,1,22],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8042aff64bde7d3eef7074fd7f58e7a4":[8,0,0,0,1,2,26,2,1,47],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba80550fe8aa02247ad9d89a84ae5691bc":[8,0,0,0,1,2,26,2,1,68],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba816e56ed100f5b887cccfd79e654906d":[8,0,0,0,1,2,26,2,1,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[7,0,3785,2],
 "dc/d4d/ArenaTeamHandler_8cpp.html":[8,0,0,0,1,2,22,2],
 "dc/d4d/enuminfo__LogCommon_8cpp.html":[8,0,0,0,0,9,7],
-"dc/d4e/classnpc__dalaran__warrior.html":[7,0,1762],
-"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[7,0,1762,1]
+"dc/d4e/classnpc__dalaran__warrior.html":[7,0,1762]
 };

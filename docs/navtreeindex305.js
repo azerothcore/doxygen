@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36":[8,0,0,0,1,3,10,14,71],
 "db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36a239048798e6e1ab018b5bd499b82a91d":[8,0,0,0,1,3,10,14,71,6],
 "db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36a2e667e83c312b0e99eac45ed69b94477":[8,0,0,0,1,3,10,14,71,7],
 "db/dae/npcs__special_8cpp.html#a4f0b9f8d729d65930eb9969920fc9c36a3ffeee57bab71a9da2810df9f573058a":[8,0,0,0,1,3,10,14,71,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,21,27],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0]
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0]
 };

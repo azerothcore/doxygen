@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d26/classBattlefield.html#a097d9c00c118b1f513db0bde2eeade1f":[7,0,326,23],
 "d6/d26/classBattlefield.html#a0c8cabca7668547d5ae4925fc2e1e3e1":[7,0,326,112],
 "d6/d26/classBattlefield.html#a0dab0e18b26f2fa8befcc1676f265922":[7,0,326,8],
 "d6/d26/classBattlefield.html#a109307b5765bac138d4d41b3cce64db4":[7,0,326,103],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d2c/classspell__gen__baby__murloc.html":[7,0,3018],
 "d6/d2c/classspell__gen__baby__murloc.html#a3d6b6ae0bde8ae51362c95df82604d68":[7,0,3018,0],
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[7,0,3018,3],
-"d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[7,0,3018,1],
-"d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[7,0,3018,2]
+"d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[7,0,3018,1]
 };

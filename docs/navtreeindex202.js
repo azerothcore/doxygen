@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d5a/structBannedAddon.html#aa7d9dbd83fd1ef10fb125c798e293606":[7,0,320,1],
 "d7/d5a/structBannedAddon.html#aadd8cb8602ec03455a91b4f49767fdc8":[7,0,320,0],
 "d7/d5a/structBannedAddon.html#acb8dbe824f71363eb81504f43a126d96":[7,0,320,4],
 "d7/d5a/structBannedAddon.html#af62257c39a4ae1eba959086e981b0d19":[7,0,320,3],
@@ -140,8 +141,8 @@ var NAVTREEINDEX202 =
 "d7/d61/classFactoryCreatureScript.html":[7,0,1065],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[7,0,1065,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1065,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
@@ -245,9 +246,8 @@ var NAVTREEINDEX202 =
 "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[7,0,710,9],
 "d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[7,0,710,10],
 "d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[7,0,710,16],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[7,0,13,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[5,0,34,6,32],
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html":[7,0,13,6,32],
 "d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[7,0,13,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0],
-"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#af795ad992ec1b55d741227bd2d4a62d1":[7,0,13,6,32,1]
+"d7/d67/classWorldPackets_1_1Guild_1_1GuildGetRoster.html#a9beccc6ee2416633c57d2da31fdc021a":[5,0,34,6,32,0]
 };

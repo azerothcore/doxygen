@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/da4/classspell__putricide__mutated__plague__aura.html#a109dc4f189a64ac3b5949191d6abd2be":[7,0,3860,0],
 "de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[7,0,3860,1],
 "de/da4/classspell__putricide__mutated__plague__aura.html#ab36a001ea8cd87703e2694e0765635c0":[7,0,3860,3],
 "de/da4/classspell__putricide__mutated__plague__aura.html#af9ce7433b620fdf1dea570561c514b3b":[7,0,3860,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a89ec4d0e8e79bcfa4b33ed7151cd368e":[8,0,0,0,1,1,0,0,1,1,133],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8a0a4450e9711e91aa5b2119921b8022":[8,0,0,0,1,1,0,0,1,1,404],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8abf3b5f7f1403dbf979c30f6614ba47":[8,0,0,0,1,1,0,0,1,1,21],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8af8802925321277befc1a6574600af2":[8,0,0,0,1,1,0,0,1,1,345],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226":[8,0,0,0,1,1,0,0,1,1,283]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8af8802925321277befc1a6574600af2":[8,0,0,0,1,1,0,0,1,1,345]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d1d/structboss__ouro.html#a20b0b4a3770564595f40e1375b2811d7":[7,0,664,7],
 "db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[7,0,664,2],
 "db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[7,0,664,9],
 "db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[7,0,664,0],
@@ -73,10 +74,10 @@ var NAVTREEINDEX290 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,6,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,6,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1929,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d2d/boss__hazzarah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf343851ace6eb214ffb559003c33529":[8,0,0,0,1,3,2,15,4,2,2],
 "db/d2d/boss__hazzarah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0b49bbd252c742e5e12547b6cd047e6":[8,0,0,0,1,3,2,15,4,2,0],
 "db/d2d/enuminfo__CreatureAI_8cpp.html":[8,0,0,0,1,2,3,11],
-"db/d2d/structLastPhaseIceTombTargetSelector.html":[7,0,1444],
-"db/d2d/structLastPhaseIceTombTargetSelector.html#a92a846ff557334b1f30d8e062a2c64e9":[7,0,1444,1]
+"db/d2d/structLastPhaseIceTombTargetSelector.html":[7,0,1444]
 };

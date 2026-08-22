@@ -1,5 +1,6 @@
 var NAVTREEINDEX343 =
 {
+"dd/d27/structSmartAction.html#a4266b65cda766e539c175613f9da86e3":[7,0,2609,222],
 "dd/d27/structSmartAction.html#a42d460c85387880967b92e11db1ddd1e":[7,0,2609,179],
 "dd/d27/structSmartAction.html#a4302e4c906faed45367b648225960cc5":[7,0,2609,217],
 "dd/d27/structSmartAction.html#a435c6226fea0340c9cb99c28edb071d1":[7,0,2609,286],
@@ -248,6 +249,5 @@ var NAVTREEINDEX343 =
 "dd/d28/structDarkFallenAI.html#a7ac28f3199786f5e75f11f19c8353cbc":[7,0,980,12],
 "dd/d28/structDarkFallenAI.html#a9bca7b1181e8227009d6b6403cc319e5":[7,0,980,9],
 "dd/d28/structDarkFallenAI.html#acaf883142e1620a84f8bf29801dd860c":[7,0,980,5],
-"dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7":[7,0,980,6],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[7,0,3522]
+"dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7":[7,0,980,6]
 };

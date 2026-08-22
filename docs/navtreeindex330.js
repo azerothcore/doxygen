@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8":[7,0,331,25],
 "dc/d78/classBattlegroundAB.html#a0bbc64eabc2bd3352e04008f06efda28":[7,0,331,9],
 "dc/d78/classBattlegroundAB.html#a13790fce0a5fae587e053a41e81ef2c2":[7,0,331,18],
 "dc/d78/classBattlegroundAB.html#a15e2f3de75d65863a1a4c92a2f7d1803":[7,0,331,24],
@@ -213,18 +214,18 @@ var NAVTREEINDEX330 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[7,0,2041,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[7,0,2041,0,9],
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[7,0,3454],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[7,0,3454,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[7,0,3454,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d85/classboss__prince__taldaram__icc.html":[7,0,675],
 "dc/d85/classboss__prince__taldaram__icc.html#a2a8c89206ab72afc68260f41a246da3b":[7,0,675,2],
 "dc/d85/classboss__prince__taldaram__icc.html#abe14f754e1daf597aa2b7d401f337c8d":[7,0,675,1],
-"dc/d86/UpdateData_8h.html":[8,0,0,0,1,2,16,5,0,1],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbad":[8,0,0,0,1,2,16,5,0,1,2]
+"dc/d86/UpdateData_8h.html":[8,0,0,0,1,2,16,5,0,1]
 };

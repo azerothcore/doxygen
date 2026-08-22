@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/de6/classaura__class__call__siphon__blessing.html#a6a2f42867a7082d2b8406c651d5dc484":[7,0,291,2],
 "d5/de6/classaura__class__call__siphon__blessing.html#ab77b8a7dca3dc9bbd20cdb498d1d317e":[7,0,291,3],
 "d5/de6/classaura__class__call__siphon__blessing.html#ac2196cc9de34e286581d44d147fe9d04":[7,0,291,0],
 "d5/de6/namespaceWorldPackets_1_1Item.html":[5,0,34,8],
@@ -176,8 +177,8 @@ var NAVTREEINDEX166 =
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1006],
@@ -208,8 +209,8 @@ var NAVTREEINDEX166 =
 "d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
 "d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3],
-"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[7,0,0,65,0],
+"d5/df0/classAcore_1_1HealthOrderPred.html#ac5d0408da69ecd6415c6f4eae61d11d8":[5,0,0,77,0],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[7,0,0,65,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#acb5867bddd0e5107139d52ff99817f5c":[5,0,0,77,1],
 "d5/df0/classAcore_1_1HealthOrderPred.html#ad9cae47d98b31687958cfca56b29c213":[5,0,0,77,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a51062b4ae7291ba8e7ee3116ef92ca22":[8,0,0,0,1,3,7,5,0,0,8,6],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a57eb1560196465e09c95b7307caa4336":[8,0,0,0,1,3,7,5,0,0,8,2],
 "d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a590bc00e9bbd5afdaee6bd387a3867ec":[8,0,0,0,1,3,7,5,0,0,8,13],
-"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a597403bf179d3048eb5648cfcb15a6ae":[8,0,0,0,1,3,7,5,0,0,8,20],
-"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a65b3c5ab4bbaf5d0234300c3b6cd3ce4":[8,0,0,0,1,3,7,5,0,0,8,27]
+"d5/df1/arcatraz_8cpp.html#a425396d91df18e0bee4a8785ec158ed9a597403bf179d3048eb5648cfcb15a6ae":[8,0,0,0,1,3,7,5,0,0,8,20]
 };

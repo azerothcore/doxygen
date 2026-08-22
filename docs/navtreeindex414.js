@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d8e/classspell__mage__burnout__trigger.html#aa694a1a7cbbe0f20226d7e616e19cefb":[7,0,3602,1],
 "df/d91/structboss__high__botanist__freywinn.html":[7,0,547],
 "df/d91/structboss__high__botanist__freywinn.html#a06adcf26cb264d35a16ca416661ab4bd":[7,0,547,4],
 "df/d91/structboss__high__botanist__freywinn.html#a7b370482ea195d0305cba339ce0cbab3":[7,0,547,1],
@@ -102,8 +103,8 @@ var NAVTREEINDEX414 =
 "df/d94/classDBCFile_1_1Iterator.html#a3885f293a5dba744603beffbf9f8b640":[7,0,987,1,8],
 "df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,987,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,987,1,2],
-"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,1],
+"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,987,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,987,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,987,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,987,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d9a/OutdoorPvPNA_8h.html#a767a89853ad9fbcea5e94bae963b3168":[8,0,0,0,1,3,6,8,12],
 "df/d9a/OutdoorPvPNA_8h.html#a793a1d2d8d6683df19de9b728d2af1de":[8,0,0,0,1,3,6,8,20],
 "df/d9a/OutdoorPvPNA_8h.html#a8c04516b1462a78d64563849fe3136a1":[8,0,0,0,1,3,6,8,17],
-"df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2":[8,0,0,0,1,3,6,8,9],
-"df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c":[8,0,0,0,1,3,6,8,9,2]
+"df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2":[8,0,0,0,1,3,6,8,9]
 };

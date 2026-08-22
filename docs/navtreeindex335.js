@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089":[8,0,0,0,1,3,2,15,7,15],
 "dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,15,7,15,1],
 "dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089a9ff71e63988ee36ea0dfb82be3941636":[8,0,0,0,1,3,2,15,7,15,0],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,2,15,7,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dc/dcb/structnpc__jenny.html#ab845ba4551900a03c5a995d348a1be55":[7,0,1947,0],
 "dc/dcb/structnpc__jenny.html#ac2115c122c2eac2d5a36d1795d1e6bf0":[7,0,1947,6],
 "dc/dcb/structnpc__jenny.html#acd0939cee3ecb9d961d09815d9c50f71":[7,0,1947,3],
-"dc/dcb/structnpc__jenny.html#afbd142855602bcf7a8cd8e4cc4760cf0":[7,0,1947,4],
-"dc/dcc/classspell__item__ultrasafe__transporter.html":[7,0,3511]
+"dc/dcb/structnpc__jenny.html#afbd142855602bcf7a8cd8e4cc4760cf0":[7,0,1947,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa72d93753018bc721cfac2de3380b483":[8,0,0,0,1,3,5,0,1,2,11,17],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab8414cca4f2b02adb5ec74ae78e7d69a":[8,0,0,0,1,3,5,0,1,2,11,7],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af296175ebd391dfe736268ab5e81a954":[8,0,0,0,1,3,5,0,1,2,11,9],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af62f869668ec24c0d97fd777c6eb7caa":[8,0,0,0,1,3,5,0,1,2,11,1],
@@ -52,18 +53,18 @@ var NAVTREEINDEX95 =
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[7,0,2101,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[7,0,2049,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[7,0,2049,0,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[7,0,0,39],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,0,51],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[7,0,0,39],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[7,0,0,39,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,0,51,1],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[7,0,0,39,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,0,51,0],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[7,0,0,39,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[7,0,0,39,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,0,51,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[7,0,0,39,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,0,51,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,0,51,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[7,0,0,39,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[7,0,0,39,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,0,51,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[7,0,2969],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[7,0,2969,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[7,0,2969,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d22/structboss__illidan__stormrage.html#aad32a8fab5f1ca21824790d2da4d086b":[7,0,562,4],
 "d3/d22/structboss__illidan__stormrage.html#ab07e90f48ee9e84298b24b8e7cdb192f":[7,0,562,5],
 "d3/d22/structboss__illidan__stormrage.html#abf29f9607351d35953d8d0e97779c3f9":[7,0,562,9],
-"d3/d22/structboss__illidan__stormrage.html#acdd75f289288b3e6de4136267d490519":[7,0,562,10],
-"d3/d22/structboss__illidan__stormrage.html#ad568e3993f74ad0dd0b2f4e630fcb7f1":[7,0,562,3]
+"d3/d22/structboss__illidan__stormrage.html#acdd75f289288b3e6de4136267d490519":[7,0,562,10]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d30/classThreatReference.html#a331c12f2fb44f6aa8698c0664bceb9e1":[7,0,4563,21],
 "df/d30/classThreatReference.html#a333a9178229706b9755a0f5eebb18143":[7,0,4563,19],
 "df/d30/classThreatReference.html#a3707675a0579b2fd35ebe03e739f5014":[7,0,4563,23],
 "df/d30/classThreatReference.html#a3ae6c5d55f39ae66627eaddd702b4cb6":[7,0,4563,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d3d/classspell__pal__item__t6__trinket.html#afe1282b6df7593066469f3ddf7ff8a33":[7,0,3770,1],
 "df/d3d/classspell__pal__item__t6__trinket.html#aff856108cd0b92c3a4eaeb4c354ee56f":[7,0,3770,3],
 "df/d3e/classlfg_1_1LfgGroupData.html":[5,0,17,2],
-"df/d3e/classlfg_1_1LfgGroupData.html":[7,0,5,2],
-"df/d3e/classlfg_1_1LfgGroupData.html#a0354922226bb3916310f7276e2191fb6":[5,0,17,2,14]
+"df/d3e/classlfg_1_1LfgGroupData.html":[7,0,5,2]
 };

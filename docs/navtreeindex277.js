@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"da/d97/classspell__trollgore__consume.html":[7,0,4267],
 "da/d97/classspell__trollgore__consume.html#a62cef31900cd61167823f3e66aa2d64b":[7,0,4267,0],
 "da/d97/classspell__trollgore__consume.html#aab4d84e896c8225d8d131558aaa71dbe":[7,0,4267,3],
 "da/d97/classspell__trollgore__consume.html#ac73b3f568ce54f9b59b2b23f069da3c1":[7,0,4267,2],
@@ -35,12 +36,12 @@ var NAVTREEINDEX277 =
 "da/d99/classBattlegroundMapScript.html#a0148a79556f82c990fe0fc494d03c7ab":[7,0,346,2],
 "da/d99/classBattlegroundMapScript.html#a90584770132eb71cffc6e25a674750ad":[7,0,346,1],
 "da/d99/classBattlegroundMapScript.html#aa976810defac9b6838553f8d28ea9366":[7,0,346,0],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[7,0,13,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[7,0,13,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[7,0,13,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[7,0,13,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,34,8,6,1],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[7,0,13,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[7,0,13,8,6,0],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,34,8,6,0],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html":[7,0,4413],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[7,0,713,0,9],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[7,0,713,0,19],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[7,0,713,0,14],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[7,0,713,0,12],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a741a811fd9832fb4275c51d2272d98f0":[7,0,713,0,20]
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5350ca3791fb777959de068933d121ba":[7,0,713,0,12]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX236 =
 {
+"d8/dbe/classspell__sorlofs__booty__boulder__assault.html#a0e1998798f47ebdccdc649925967be47":[7,0,4167,2],
 "d8/dbe/classspell__sorlofs__booty__boulder__assault.html#a4f11c9bd5563529e6b62db239a1ce1b7":[7,0,4167,4],
 "d8/dbe/classspell__sorlofs__booty__boulder__assault.html#a588bcf6f271491dc42eb8455fe594aea":[7,0,4167,1],
 "d8/dbe/classspell__sorlofs__booty__boulder__assault.html#aa78b0121f4c30f69d51695b2f5e74eb6":[7,0,4167,0],
@@ -121,22 +122,22 @@ var NAVTREEINDEX236 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb":[8,0,0,0,1,3,2,14,1,4,3],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6":[8,0,0,0,1,3,2,14,1,4,2],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[8,0,0,0,1,3,2,14,1,4,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[7,0,0,80],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,92],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[7,0,0,80],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[7,0,0,80,1],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,0,92,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,92,3],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,92,5],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,92,0],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[7,0,0,80,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,92,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,0,92,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
 "d8/dc2/classinstance__ulduar.html":[7,0,1387],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[7,0,1387,1],
 "d8/dc2/classinstance__ulduar.html#ae263428f4229c75b22f990dabe6b3c06":[7,0,1387,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX236 =
 "d8/dcd/classPassiveAI.html":[7,0,2408],
 "d8/dcd/classPassiveAI.html#a2960223799a5b3baedbdd7e664604865":[7,0,2408,3],
 "d8/dcd/classPassiveAI.html#a3a54c7d7268b8c2f4e081a99b4b0cd11":[7,0,2408,2],
-"d8/dcd/classPassiveAI.html#ac2aeba8cb148659de1ef97733fbb0651":[7,0,2408,1],
-"d8/dcd/classPassiveAI.html#ad1ae1c9e8a101dabd89aeed5c71eb453":[7,0,2408,0]
+"d8/dcd/classPassiveAI.html#ac2aeba8cb148659de1ef97733fbb0651":[7,0,2408,1]
 };

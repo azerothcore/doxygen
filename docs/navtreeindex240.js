@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d8/de7/classnpc__announcer__toc10.html#afcc5262e7c49b7456af146de14805a06":[7,0,1636,1],
 "d8/de7/classspell__sha__cleansing__totem__pulse.html":[7,0,4082],
 "d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[7,0,4082,2],
 "d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[7,0,4082,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df7/classspell__q12641__death__comes__from__on__high.html#ac293d1c1aac41808f81cad2974424c2e":[7,0,3944,1],
 "d8/df8/ScriptObjectFwd_8h.html":[8,0,0,0,1,2,38,7],
 "d8/df8/TestPlayer_8h.html":[8,0,0,0,2,1,11],
-"d8/df8/TypeContainer_8h.html":[8,0,0,0,0,6,4],
-"d8/df8/classAuthSession.html":[7,0,310]
+"d8/df8/TypeContainer_8h.html":[8,0,0,0,0,6,4]
 };

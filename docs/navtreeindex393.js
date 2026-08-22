@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b09e25702d8e92492884e876f013226":[8,0,0,0,1,1,0,0,1,1,283],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b5b1d6188848b4f6b8f3007bab57a86":[8,0,0,0,1,1,0,0,1,1,22],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b7a3863418371ab4f62a44ca202e5a0":[8,0,0,0,1,1,0,0,1,1,63],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2b4c7eec954ec3c9bbb73ad220fa":[8,0,0,0,1,1,0,0,1,1,372],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/da5/bug.html":[3],
 "de/da5/classboss__sjonnir__malformed__ooze.html":[7,0,718],
 "de/da5/classboss__sjonnir__malformed__ooze.html#a22807bb07692511c5ec87073d98c2604":[7,0,718,2],
-"de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[7,0,718,1],
-"de/da5/classinstance__ragefire__chasm.html":[7,0,1361]
+"de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[7,0,718,1]
 };

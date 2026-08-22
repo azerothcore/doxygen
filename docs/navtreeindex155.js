@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad0c2747c6a9e3d0b66f7c29bfc2c1e90":[8,0,0,0,1,2,0,3,4,474],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad0c5a08b6edc8313ff1f2ca23e1673b8":[8,0,0,0,1,2,0,3,4,57],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad0ebbe7dde414e7c638f173147d21a07":[8,0,0,0,1,2,0,3,4,400],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad130e93fbf984a8dca36cfcde98fb5e9":[8,0,0,0,1,2,0,3,4,329],
@@ -174,8 +175,8 @@ var NAVTREEINDEX155 =
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2452,11],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d79/classCreatureAI.html#a454866f22b192f0c78301be09ae69a86":[7,0,945,46],
 "d5/d79/classCreatureAI.html#a47d2c5e44ccbf09d7c2059bed31d216d":[7,0,945,40],
 "d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d":[7,0,945,15],
-"d5/d79/classCreatureAI.html#a48a05eee4e4b8bf6a6256368bb7bcb5e":[7,0,945,53],
-"d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbb":[7,0,945,0]
+"d5/d79/classCreatureAI.html#a48a05eee4e4b8bf6a6256368bb7bcb5e":[7,0,945,53]
 };

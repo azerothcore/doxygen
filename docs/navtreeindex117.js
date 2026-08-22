@@ -1,5 +1,6 @@
 var NAVTREEINDEX117 =
 {
+"d3/dd7/classspell__halion__twilight__realm__aura.html#ad072d243dd148e1b34aea29a2e5d175e":[7,0,3206,0],
 "d3/dd7/classspell__halion__twilight__realm__aura.html#ae657ceca517aa3f725ba72c18ddbaf1c":[7,0,3206,1],
 "d3/dd8/classnpc__taskmaster__fizzule.html":[7,0,2203],
 "d3/dd8/classnpc__taskmaster__fizzule.html#a6281de7424932fe6580ffefa199498d9":[7,0,2203,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX117 =
 "d3/de7/classspell__q12459__seeds__of__natures__wrath.html#aa8ce1f0413e19d8f6d403b220fc6749c":[7,0,3936,2],
 "d3/de8/boss__patchwerk_8cpp.html":[8,0,0,0,1,3,5,7,11],
 "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,11,3],
-"d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04":[8,0,0,0,1,3,5,7,11,3,0],
-"d3/de8/boss__patchwerk_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,7,11,5]
+"d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04":[8,0,0,0,1,3,5,7,11,3,0]
 };

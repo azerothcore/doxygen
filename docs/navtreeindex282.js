@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef":[8,0,0,0,1,2,16,7,5,95,3],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939":[8,0,0,0,1,2,16,7,5,119],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba":[8,0,0,0,1,2,16,7,5,119,0],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a9ad97828a3dd598a45dcbbcd3969879b":[8,0,0,0,1,2,16,7,5,119,2],
@@ -246,8 +247,7 @@ var NAVTREEINDEX282 =
 "da/dd0/namespacePlayerSettingsStore.html#aeaa79bb46d98ab2f4f5f3674d52f6745":[5,0,27,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[7,0,0,37],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html":[5,0,0,49],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[7,0,0,37,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,0,49,6],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,49,3],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[7,0,0,37,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[7,0,0,37,3]
 };

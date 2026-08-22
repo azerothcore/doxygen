@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"de/d53/classspell__tractor__beam__creator.html#abba5817280db6579e3e6e0b964655c6e":[7,0,4263,0],
 "de/d53/structboss__blackheart__the__inciter.html":[7,0,416],
 "de/d53/structboss__blackheart__the__inciter.html#a0648c4bbabf30efd706b973bf8028dbb":[7,0,416,6],
 "de/d53/structboss__blackheart__the__inciter.html#a1e7ca1ade637766d4c6039c50e9c85f7":[7,0,416,2],
@@ -25,8 +26,8 @@ var NAVTREEINDEX385 =
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,1,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,1,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,1,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[7,0,13,4,1,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,1,1],
 "de/d58/classinstance__icecrown__citadel.html":[7,0,1346],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[7,0,1346,1],
 "de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[7,0,1346,2],
@@ -118,8 +119,8 @@ var NAVTREEINDEX385 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3379,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[7,0,0,5,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[8,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[8,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,7,12,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa489db50a1a11e038d8c169a43469d191":[8,0,0,0,1,2,13,1,12,6],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa5034e6817eb9667302601ea6a24c6ec6":[8,0,0,0,1,2,13,1,12,26],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa52afa855ce9210293720109f9e5e3968":[8,0,0,0,1,2,13,1,12,12],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa5bf0865be8b0cc0ee949e4ea3b6f4597":[8,0,0,0,1,2,13,1,12,22],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa6b2a53c31569f588860df2126814887e":[8,0,0,0,1,2,13,1,12,8]
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa5bf0865be8b0cc0ee949e4ea3b6f4597":[8,0,0,0,1,2,13,1,12,22]
 };

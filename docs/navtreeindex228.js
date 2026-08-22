@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3552],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3552,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3552,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d74/classWorldSession.html#a2932892fe992dd518fd5929aaa7a46b7":[4,1,19,577],
 "d8/d74/classWorldSession.html#a29a70a4e237e15a2a76ffc5a17d2831c":[4,1,19,115],
 "d8/d74/classWorldSession.html#a29ae136a29749f46fd715f5362e40325":[4,1,19,190],
-"d8/d74/classWorldSession.html#a2a51e88cab8c007756b59edf45776fac":[4,1,19,154],
-"d8/d74/classWorldSession.html#a2a7c514b4cb8e43b968389256006abfc":[4,1,19,138]
+"d8/d74/classWorldSession.html#a2a51e88cab8c007756b59edf45776fac":[4,1,19,154]
 };

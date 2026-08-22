@@ -1,5 +1,6 @@
 var NAVTREEINDEX134 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a58979fa31408352fd96d63a25a25606dab957d7e6b9a51a2dfbae606e9ae5b9a5":[8,0,0,0,1,3,5,2,1,1,61,1],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32":[8,0,0,0,1,3,5,2,1,1,43],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32a03bab1d99d38cbee5d42684a5f86a7fc":[8,0,0,0,1,3,5,2,1,1,43,3],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32a045c92a887b944006a734b6c21a8947a":[8,0,0,0,1,3,5,2,1,1,43,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX134 =
 "d4/d8a/classBigNumber.html#a6e40ba741513c0cbb29a05a3b6254029":[7,0,374,16],
 "d4/d8a/classBigNumber.html#a7a23ad667552832044370678ccd5d2fb":[7,0,374,19],
 "d4/d8a/classBigNumber.html#a88dfbc205089c41b5134b18839e8a0fa":[7,0,374,23],
-"d4/d8a/classBigNumber.html#a93b90bce7034febfe487215dd0b10478":[7,0,374,37],
-"d4/d8a/classBigNumber.html#a948e4a418d123aae8fdfa1e5aa6ff455":[7,0,374,22]
+"d4/d8a/classBigNumber.html#a93b90bce7034febfe487215dd0b10478":[7,0,374,37]
 };

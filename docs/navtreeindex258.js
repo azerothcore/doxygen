@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html":[7,0,834],
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#ac79766d4e41cfb637ed0224b4f42f1c2":[7,0,834,1],
 "d9/dde/structBoundsTrait_3_01GameObjectModel_01_4.html#af54bd6c6ebe09db97b585d15e04ed707":[7,0,834,0],
 "d9/de0/structnpc__king__magni__bronzebeard.html":[7,0,1958],
@@ -36,12 +37,12 @@ var NAVTREEINDEX258 =
 "d9/de3/classnpc__pos__collapsing__icicle.html#a96969ebe749b49ceb38920c63ec6fce3":[7,0,2087,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[5,0,34,11,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[7,0,13,11,3],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[5,0,34,11,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[7,0,13,11,3,3],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[5,0,34,11,3,1],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[5,0,34,11,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[7,0,13,11,3,1],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,34,11,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[5,0,34,11,3,1],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[7,0,13,11,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,34,11,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[7,0,13,11,3,0],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[5,0,34,11,3,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html":[7,0,1823,0],
@@ -87,12 +88,12 @@ var NAVTREEINDEX258 =
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[7,0,88,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,34,8,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[7,0,13,8,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,34,8,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[7,0,13,8,8,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,34,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[7,0,13,8,8,3],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,34,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,34,8,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[7,0,13,8,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[7,0,13,8,8,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "d9/df5/classGmTicket.html#a6459c45f0d15a7a986529f6040e31a15":[7,0,1144,41],
 "d9/df5/classGmTicket.html#a67884c5001ecdc5cc22cfe939757edff":[7,0,1144,37],
 "d9/df5/classGmTicket.html#a6af8aeccb72ac9fc611b91fd3693d29d":[7,0,1144,30],
-"d9/df5/classGmTicket.html#a6b378ac66d4958af7198cfeb120239b3":[7,0,1144,44],
-"d9/df5/classGmTicket.html#a6b8fc57ce6a3c3cf0f7135e0305fada2":[7,0,1144,35]
+"d9/df5/classGmTicket.html#a6b378ac66d4958af7198cfeb120239b3":[7,0,1144,44]
 };

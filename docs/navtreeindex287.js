@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"da/df8/TicketMgr_8cpp.html#a347e0449afd73dbcc6c084dbe72af6c8":[8,0,0,0,1,2,44,0,0],
 "da/df8/classspell__putricide__mutated__transformation__dmg.html":[7,0,3863],
 "da/df8/classspell__putricide__mutated__transformation__dmg.html#a91b96940a9e72e632989b49f7e475dba":[7,0,3863,2],
 "da/df8/classspell__putricide__mutated__transformation__dmg.html#a92cc71f268793c616bed66d9a489a145":[7,0,3863,0],
@@ -211,10 +212,10 @@ var NAVTREEINDEX287 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[8,0,0,0,1,3,4,21,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d09/boss__devourer__of__souls_8cpp.html":[8,0,0,0,1,3,5,4,0,1],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,4,0,1,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b35e123ebb6defe81f9ccec5f66a6c8":[8,0,0,0,1,3,5,4,0,1,3,3],
-"db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23aee096f9ff69e2d3ee2d414bbb8031":[8,0,0,0,1,3,5,4,0,1,3,2],
-"db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4886258b9aa8a2b0a443971811f104c3":[8,0,0,0,1,3,5,4,0,1,3,0]
+"db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23aee096f9ff69e2d3ee2d414bbb8031":[8,0,0,0,1,3,5,4,0,1,3,2]
 };

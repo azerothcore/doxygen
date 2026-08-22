@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"db/df2/classHealInfo.html#aca2b1e31608a7c186a06e9bbe8977a9d":[7,0,1291,9],
 "db/df2/classHealInfo.html#ad291e8e65eb0a9a9054ac1827cf0d315":[7,0,1291,19],
 "db/df2/classHealInfo.html#adee6d7f3f911c6d3c46a17481dc3dec3":[7,0,1291,14],
 "db/df2/classHealInfo.html#ae656cf383df85bb88c6486e5aac1df5b":[7,0,1291,1],
@@ -87,8 +88,8 @@ var NAVTREEINDEX315 =
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[7,0,298,3],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[7,0,13,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[7,0,13,7,6,2],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887ea":[8,0,0,0,1,3,9,8,84],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2b4f620e8297fdc7167dbfc9b0394ffe":[8,0,0,0,1,3,9,8,84,5],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e":[8,0,0,0,1,3,9,8,84,4],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82":[8,0,0,0,1,3,9,8,84,1],
-"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3":[8,0,0,0,1,3,9,8,84,7]
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82":[8,0,0,0,1,3,9,8,84,1]
 };

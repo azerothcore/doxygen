@@ -1,5 +1,6 @@
 var NAVTREEINDEX108 =
 {
+"d3/d9f/classObjectVisibilityContainer.html#a7d497bf0dcc4c9342fabd4cbb6e93d25":[7,0,2354,5],
 "d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708":[7,0,2354,17],
 "d3/d9f/classObjectVisibilityContainer.html#ab6901d45f3920457bf6fbe6a89987375":[7,0,2354,13],
 "d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610":[7,0,2354,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html":[7,0,3103],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4098aa621012c5e3623ee905d2d2c8eb":[7,0,3103,1],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3103,3],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3103,2],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3103,0]
+"d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3103,2]
 };

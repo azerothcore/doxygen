@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[8,0,0,0,1,2,18,2,8],
 "d8/dd8/ObjectMgr_8cpp.html#a288e20914d793779cf9f2bfd9951b812":[8,0,0,0,1,2,18,2,5],
 "d8/dd8/ObjectMgr_8cpp.html#a288fa8c196f7adce5d43050849366b84":[8,0,0,0,1,2,18,2,6],
 "d8/dd8/ObjectMgr_8cpp.html#a2e3e576d2e15a5033a24dec106b42453":[8,0,0,0,1,2,18,2,12],
@@ -121,16 +122,16 @@ var NAVTREEINDEX238 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[7,0,177],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[7,0,177,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[7,0,177,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,34,14,1,0],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[7,0,13,14,1,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[5,0,34,14,1,1],
 "d8/ddc/classspell__claw__swipe__check.html":[7,0,2769],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa72e2e2c93caa2369d6d6449083be48f4":[8,0,0,0,1,3,5,6,7,35,6],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,6,7,35,11],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa9461affdc878fcf8439f29327db5cb82":[8,0,0,0,1,3,5,6,7,35,7],
-"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaab8c31801eddee13d8de2fe2a08fd32cb":[8,0,0,0,1,3,5,6,7,35,1],
-"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaac915b161e815b180ec5f606f9526c7c3":[8,0,0,0,1,3,5,6,7,35,3]
+"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaab8c31801eddee13d8de2fe2a08fd32cb":[8,0,0,0,1,3,5,6,7,35,1]
 };

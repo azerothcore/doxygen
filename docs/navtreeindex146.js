@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d5/d0a/classRoll.html#af0c8c87b3fa9cd45cf51e774123d3b58":[7,0,2552,3],
 "d5/d0a/classRoll.html#af4877388e7efe95452541a3d2788fa7f":[7,0,2552,7],
 "d5/d0a/classRoll.html#aff97626c4d749bf0acbd165f289b5a57":[7,0,2552,12],
 "d5/d0a/classspell__mage__molten__armor.html":[7,0,3634],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d1b/classThreatManager.html#a4120fe507639ad017d036825662875f1":[7,0,4562,66],
 "d5/d1b/classThreatManager.html#a44db700db3bdf0688034db81988b8da3":[7,0,4562,47],
 "d5/d1b/classThreatManager.html#a478ef6b5c03c289d8c10862b860a67a2":[7,0,4562,44],
-"d5/d1b/classThreatManager.html#a4821cb04dfdd7d09dd63037af6c71457":[7,0,4562,34],
-"d5/d1b/classThreatManager.html#a50f5dcf438ea7dae8ee31bf5b45c48a6":[7,0,4562,18]
+"d5/d1b/classThreatManager.html#a4821cb04dfdd7d09dd63037af6c71457":[7,0,4562,34]
 };

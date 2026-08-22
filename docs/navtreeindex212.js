@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafdea2a3754d6cede67a4c053a62fbd78":[8,0,0,0,1,2,28,2,0,1197],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafdeb7a6d2af203d992b42c185b3cb180":[8,0,0,0,1,2,28,2,0,961],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafe4df98e1c0749a8e40dc3dbda8f0a35":[8,0,0,0,1,2,28,2,0,398],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafe8564f36cd201d40dbdf051bcd8d2f9":[8,0,0,0,1,2,28,2,0,842],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#adf280483e6fd7f01d14472973c021a91":[7,0,733,0,4],
 "d7/db0/boss__zuramat_8cpp.html":[8,0,0,0,1,3,5,12,6],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,6,3],
-"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4":[8,0,0,0,1,3,5,12,6,3,0],
-"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a4244f6c1b9661e5daa2568875e16abe1":[8,0,0,0,1,3,5,12,6,3,1]
+"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4":[8,0,0,0,1,3,5,12,6,3,0]
 };

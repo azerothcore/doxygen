@@ -1,5 +1,6 @@
 var NAVTREEINDEX410 =
 {
+"df/d5c/classnpc__commandscript.html#a548ef7cacfcc92ac808ec0d41d51046b":[7,0,1732,11],
 "df/d5c/classnpc__commandscript.html#a54d157edc199e5bbd689263c6fbe3f46":[7,0,1732,13],
 "df/d5c/classnpc__commandscript.html#a559f127e3cfb04fd5bd0894bb12a2f0c":[7,0,1732,36],
 "df/d5c/classnpc__commandscript.html#a55d07e5a09c90c1327aee78559640394":[7,0,1732,17],
@@ -49,8 +50,8 @@ var NAVTREEINDEX410 =
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[7,0,2921,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[7,0,2921,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[7,0,2921,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[5,0,29,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[7,0,9,2,0],
 "df/d5e/boss__buru_8cpp.html":[8,0,0,0,1,3,4,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX410 =
 "df/d6f/structboss__thorim__arena__npcs.html#a849567e412254aa8d0d7da33b6b1522f":[7,0,752,0],
 "df/d6f/structboss__thorim__arena__npcs.html#aa4f90aadf8a9705fea03433195d41ad0":[7,0,752,1],
 "df/d6f/structboss__thorim__arena__npcs.html#aad99dd6ca7d3595222ce42b5b859e462":[7,0,752,7],
-"df/d6f/structboss__thorim__arena__npcs.html#abfd184437df3983659a9ae21a13638fb":[7,0,752,6],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html":[7,0,3342]
+"df/d6f/structboss__thorim__arena__npcs.html#abfd184437df3983659a9ae21a13638fb":[7,0,752,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/d35/boss__noth_8cpp.html#ada8b6081df07a02725323b1c08577108":[8,0,0,0,1,3,5,7,10,6],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,10,2],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a010a45ad2e735f90989f4e39464c5bec":[8,0,0,0,1,3,5,7,10,2,6],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a05787e8c78a39e72d5e2d5c6cb2bd8b4":[8,0,0,0,1,3,5,7,10,2,0],
@@ -23,8 +24,8 @@ var NAVTREEINDEX224 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[7,0,0,123,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,0,135,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[7,0,0,123,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[7,0,0,123,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,0,135,0],
 "d8/d35/structnpc__vampiric__fiend.html":[7,0,2291],
 "d8/d35/structnpc__vampiric__fiend.html#a4ddef98ac3b9d166980243b0dbe821f7":[7,0,2291,0],
 "d8/d35/structnpc__vampiric__fiend.html#a6167d1529b88c3b85cf21547b89bbc98":[7,0,2291,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a665a05c0338d9037767b5c828d3864e6":[8,0,0,0,1,3,5,10,1,6,3,4],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6adef69d8382b3e236bd756ce73be00b":[8,0,0,0,1,3,5,10,1,6,3,3],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6ae385f1b5cf0c41db3393c9038a4099":[8,0,0,0,1,3,5,10,1,6,3,6],
-"d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a751e961d7f54eb46a010a4cb9fd9cfba":[8,0,0,0,1,3,5,10,1,6,3,5],
-"d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,5,10,1,6,3,14]
+"d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a751e961d7f54eb46a010a4cb9fd9cfba":[8,0,0,0,1,3,5,10,1,6,3,5]
 };

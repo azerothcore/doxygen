@@ -1,15 +1,16 @@
 var NAVTREEINDEX347 =
 {
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a6ac00101ced46cebd1dd6a32c89374d2":[7,0,2961,0],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a7deecb2b7dfc410af30d8b14d941f74a":[7,0,2961,2],
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[7,0,2961,3],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[7,0,13,7,0],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[7,0,13,7,0,2],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[7,0,13,7,0,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[7,0,13,7,0,1],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4c/TemporarySummon_8cpp.html":[8,0,0,0,1,2,16,1,8],
 "dd/d4c/structnpc__rocknot.html":[7,0,2136],
 "dd/d4c/structnpc__rocknot.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2136,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d59/structMapDifficulty.html#a227aec55b5b774076882ea34f70d5d88":[7,0,1523,1],
 "dd/d59/structMapDifficulty.html#a7190131620b9eee0897ac7b4dd62949e":[7,0,1523,4],
 "dd/d59/structMapDifficulty.html#a8dd5436eaec4d0e67f8b41c8dd071148":[7,0,1523,2],
-"dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[7,0,1523,0],
-"dd/d59/structMapDifficulty.html#af82ad844bc4ac9585cb9df1963697e1b":[7,0,1523,3]
+"dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[7,0,1523,0]
 };

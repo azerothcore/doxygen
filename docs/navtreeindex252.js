@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"d9/d84/LootMgr_8h.html#a09f7e96fb3b750f94e246759397e7546":[8,0,0,0,1,2,24,3,33],
 "d9/d84/LootMgr_8h.html#a0c67423870bc7cc7f3c3999bc285280b":[8,0,0,0,1,2,24,3,46],
 "d9/d84/LootMgr_8h.html#a0e878bb1898269e2be94c066e18b6cac":[8,0,0,0,1,2,24,3,34],
 "d9/d84/LootMgr_8h.html#a10c103da8c7dee2fd4e431c086a4d411":[8,0,0,0,1,2,24,3,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#a6964ca668f02a8b5b1c3015503a41eef":[7,0,4054,2],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#a6b6eaf3e761f2c173c2e72f46b25595a":[7,0,4054,1],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html#afce64ba75f8370cab6b8f1e561b10587":[7,0,4054,0],
-"d9/d8a/ItemPackets_8h.html":[8,0,0,0,1,2,39,0,18],
-"d9/d8a/LogOperation_8h.html":[8,0,0,0,0,9,16]
+"d9/d8a/ItemPackets_8h.html":[8,0,0,0,1,2,39,0,18]
 };

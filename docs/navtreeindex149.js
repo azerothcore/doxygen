@@ -1,5 +1,6 @@
 var NAVTREEINDEX149 =
 {
+"d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a102448873f99b454f9ba2671ccf0b208":[8,0,0,0,1,3,5,6,0,29,11],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a158c563b968cd8f3a916e04b14e47527":[8,0,0,0,1,3,5,6,0,29,10],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1b91bc4a7143a08aed5e75fe3fb69298":[8,0,0,0,1,3,5,6,0,29,6],
 "d5/d33/boss__blood__prince__council_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1fe4ab197527c3a638ae46a1b470c6f5":[8,0,0,0,1,3,5,6,0,29,8],
@@ -20,14 +21,14 @@ var NAVTREEINDEX149 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[7,0,1139,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[7,0,0,92],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[7,0,0,92,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,104,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[7,0,0,92,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[7,0,0,92,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[7,0,0,92,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[7,0,0,92,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[7,0,0,92,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,0,104,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[7,0,0,92,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[7,0,3426],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[7,0,3426,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[7,0,3426,3],
@@ -207,8 +208,8 @@ var NAVTREEINDEX149 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[7,0,3208,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[7,0,3208,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3208,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1843],
@@ -248,6 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea0df93a814d231a1ed73741091195f817":[8,0,0,0,1,3,4,1,3,5,3,17],
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea0ece7da0ee549bb8bdb1d0559dabd1c3":[8,0,0,0,1,3,4,1,3,5,3,19],
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea12db3d9ed00d64b4815e0878a0f00d0a":[8,0,0,0,1,3,4,1,3,5,3,15],
-"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea1c1483d23171361876616fe9c598e71f":[8,0,0,0,1,3,4,1,3,5,3,2],
-"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea22b0f60e919807ba111b9445dd25d96e":[8,0,0,0,1,3,4,1,3,5,3,13]
+"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea1c1483d23171361876616fe9c598e71f":[8,0,0,0,1,3,4,1,3,5,3,2]
 };

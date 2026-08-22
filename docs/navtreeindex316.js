@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3":[8,0,0,0,1,3,9,8,84,7],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7":[8,0,0,0,1,3,9,8,84,6],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5":[8,0,0,0,1,3,9,8,84,2],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4":[8,0,0,0,1,3,9,8,84,3],
@@ -104,8 +105,8 @@ var NAVTREEINDEX316 =
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2324,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2324,3],
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2324,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
@@ -201,8 +202,8 @@ var NAVTREEINDEX316 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2323],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2323,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d07/boss__magtheridon_8cpp.html":[8,0,0,0,1,3,7,4,2,0],
 "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,7,4,2,0,8],
 "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa3115e606a56eb4374aacd98d4c96bd9b":[8,0,0,0,1,3,7,4,2,0,8,1],
-"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa626eb93598d6c9516f6e196e504d7f24":[8,0,0,0,1,3,7,4,2,0,8,3],
-"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa67bbf5085397a3e0b4df64157cd0abed":[8,0,0,0,1,3,7,4,2,0,8,2]
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa626eb93598d6c9516f6e196e504d7f24":[8,0,0,0,1,3,7,4,2,0,8,3]
 };

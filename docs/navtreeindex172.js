@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d13/structServerPktHeader.html#a761e294fccc02055a46bfc46656da706":[7,0,2587,0],
 "d6/d13/structServerPktHeader.html#adc69128832b16124c284c584e7540b11":[7,0,2587,3],
 "d6/d13/zone__dalaran_8cpp.html":[8,0,0,0,1,3,5,17],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[8,0,0,0,1,3,5,17,24],
@@ -134,14 +135,14 @@ var NAVTREEINDEX172 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[7,0,3220,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[7,0,1382,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[7,0,1382,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[7,0,13,6,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[7,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[7,0,13,6,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
 "d6/d18/classModel.html":[7,0,1560],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d1a/classOutdoorPvPEP.html#ab4915dfc03de08cad83eb48c4c789cb8":[7,0,2383,0],
 "d6/d1a/classOutdoorPvPEP.html#abef30d5cbe7c2cd52cd32ae29da1c9ce":[7,0,2383,6],
 "d6/d1a/classOutdoorPvPEP.html#ac1b185125fa1f8864d1062b65be24bdc":[7,0,2383,2],
-"d6/d1a/classOutdoorPvPEP.html#ac6a61c19ba96ca843eb12952d0c09078":[7,0,2383,1],
-"d6/d1a/classOutdoorPvPEP.html#acecc8126180c027cb3d685231e55d873":[7,0,2383,7]
+"d6/d1a/classOutdoorPvPEP.html#ac6a61c19ba96ca843eb12952d0c09078":[7,0,2383,1]
 };

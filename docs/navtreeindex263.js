@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af0d8643ea5e9da459b0ec49203038941":[8,0,0,0,1,2,49,4,1,211],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af0dec07495e5bb36ef8657d63838ed98":[8,0,0,0,1,2,49,4,1,199],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af1655587f05a59f0273209a63b22dbbd":[8,0,0,0,1,2,49,4,1,356],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af18020afe6a9ccf4bd155cd16c5f7993":[8,0,0,0,1,2,49,4,1,53],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/d0f/instance__utgarde__pinnacle_8cpp.html#a3469cdfafe3d81dca68950e7a6a6370d":[8,0,0,0,1,3,5,10,1,4,2],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,10,1,4,3],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,5,10,1,4,4],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html":[7,0,676,0],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a06a216b9f75f50bf0e738398da37082c":[7,0,676,0,2]
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html":[7,0,676,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d8/d92/GameEventMgr_8h.html":[8,0,0,0,1,2,17,1],
 "d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[8,0,0,0,1,2,17,1,7],
 "d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[8,0,0,0,1,2,17,1,11],
 "d8/d92/GameEventMgr_8h.html#ac4262be385ac879bb433e00533d835c0":[8,0,0,0,1,2,17,1,8],
@@ -203,12 +204,12 @@ var NAVTREEINDEX233 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[7,0,1700,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[7,0,13,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[7,0,2545],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[7,0,2545,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[7,0,2545,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a001e00435bb01b464573dbff8338c64a":[7,0,483,0,1],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a3af6cacb219928c3c89f7ce3d980ae88":[7,0,483,0,6],
 "d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a5807cd013ebe935f69bc1824386afd72":[7,0,483,0,7],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a742b6ab0990d54e011ac36fde2c2cca2":[7,0,483,0,11],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a7649f45cfc8bf05bf46b4e50319b4fb3":[7,0,483,0,0]
+"d8/d9f/structboss__festergut_1_1boss__festergutAI.html#a742b6ab0990d54e011ac36fde2c2cca2":[7,0,483,0,11]
 };

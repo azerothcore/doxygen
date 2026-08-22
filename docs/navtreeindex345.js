@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a9f36f099f7db4c3e1a06b8d4082e58c5":[7,0,2279,5],
 "dd/d33/structnpc__ulduar__storm__tempered__keeper.html#ae4dc8352fd0ff41974a33a4500d19e74":[7,0,2279,0],
 "dd/d34/classinstance__the__black__morass.html":[7,0,1378],
 "dd/d34/classinstance__the__black__morass.html#a44b01fc7ab23c8f4ecfa1e375a237463":[7,0,1378,2],
@@ -64,14 +65,14 @@ var NAVTREEINDEX345 =
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#aa932f572f1a8831ecf4bc5475b7598fb":[8,0,0,0,2,2,0,10,6,1],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ad8c6026ca0167ae177e227997c8e2388":[8,0,0,0,2,2,0,10,6,5],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ae30b40dccd8a24d78d006e8e9ac63f19":[8,0,0,0,2,2,0,10,6,3],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[7,0,0,5,0,31],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,0,8,0,31,0],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,0,8,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,0,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html":[7,0,3227],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acacf8df2d00899bed640c1be0d4287f2":[7,0,3227,3],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acc96d2a38e4da19e6cd6c72037a24202":[7,0,3227,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d3b/structGameObjectTemplate.html#ab2c7c4ea986d200b68addf7c63e005a0":[7,0,1124,161],
 "dd/d3b/structGameObjectTemplate.html#ab4f1cd91223e4cdbcc695cff01c5967c":[7,0,1124,18],
 "dd/d3b/structGameObjectTemplate.html#ab5c64efdea0f0aafcc80fccc209f670d":[7,0,1124,24],
-"dd/d3b/structGameObjectTemplate.html#ab62e41478910df05790ca9eca57b2ae1":[7,0,1124,26],
-"dd/d3b/structGameObjectTemplate.html#ab721121a5a2c21ce004cbc5b07e4a100":[7,0,1124,119]
+"dd/d3b/structGameObjectTemplate.html#ab62e41478910df05790ca9eca57b2ae1":[7,0,1124,26]
 };
