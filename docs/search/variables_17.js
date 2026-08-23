@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W']]],
+  ['w_0',['w',['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
   ['waittime_1',['waitTime',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef',1,'lfg::LfgQueueStatusData']]],
   ['waittimeavg_2',['waitTimeAvg',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc',1,'lfg::LfgQueueStatusData']]],
   ['waittimedps_3',['waitTimeDps',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf',1,'lfg::LfgQueueStatusData']]],
@@ -51,7 +51,7 @@ var searchData=
   ['weapon_5fspeed_5fstaff_48',['WEAPON_SPEED_STAFF',['../db/db8/classProcChanceTestHelper.html#acffda28a662863f651d0aae5587300cd',1,'ProcChanceTestHelper']]],
   ['weapon_5fspeed_5fvery_5fslow_49',['WEAPON_SPEED_VERY_SLOW',['../db/db8/classProcChanceTestHelper.html#a0caf6370ed23834f2a948c98410eaf42',1,'ProcChanceTestHelper']]],
   ['weathergrade_50',['WeatherGrade',['../d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d',1,'ZoneDynamicInfo']]],
-  ['weatherid_51',['weatherid',['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId'],['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID']]],
+  ['weatherid_51',['weatherid',['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID'],['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId']]],
   ['weegliguid_52',['WeegliGUID',['../df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1',1,'instance_zulfarrak::instance_zulfarrak_InstanceMapScript']]],
   ['week_53',['WEEK',['../dc/d33/Common_8h.html#a688431b3f57feed4c5408d11114cdf1a',1,'Common.h']]],
   ['weekday_54',['weekday',['../d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b',1,'HolidayRule']]],
@@ -123,7 +123,7 @@ var searchData=
   ['worldmapoverlayentryfmt_120',['WorldMapOverlayEntryfmt',['../d8/dd6/DBCfmt_8h.html#ab0eaceb243d0f66908b69a408e41ac3a',1,'DBCfmt.h']]],
   ['worldmock_5f_121',['worldMock_',['../dd/d7c/classLowLevelsMinPlayersOverrideTest.html#a87098b65420dc95aa878a9a4b15490b5',1,'LowLevelsMinPlayersOverrideTest']]],
   ['worldrotation_122',['WorldRotation',['../de/d1c/classGameObject.html#a783520d842e4147f88945f4d04ee0d6c',1,'GameObject']]],
-  ['worldstate_123',['worldstate',['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState'],['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate']]],
+  ['worldstate_123',['worldstate',['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState'],['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState']]],
   ['worldstate1_124',['worldState1',['../dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e',1,'GameObjectTemplate']]],
   ['worldstate2_125',['worldstate2',['../dd/d3b/structGameObjectTemplate.html#a08af1aef620d8dfa8c1ec9566f6c746e',1,'GameObjectTemplate']]],
   ['worldstate3_126',['worldstate3',['../dd/d3b/structGameObjectTemplate.html#a050e002c4a6bf7eb71ea6027587db6ac',1,'GameObjectTemplate']]],

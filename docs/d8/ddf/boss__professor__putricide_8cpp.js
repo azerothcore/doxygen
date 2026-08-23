@@ -10,6 +10,7 @@ var boss__professor__putricide_8cpp =
     [ "npc_volatile_ooze::npc_volatile_oozeAI", "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html", "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI" ],
     [ "npc_gas_cloud", "da/d6d/classnpc__gas__cloud.html", "da/d6d/classnpc__gas__cloud" ],
     [ "npc_gas_cloud::npc_gas_cloudAI", "d4/db1/structnpc__gas__cloud_1_1npc__gas__cloudAI.html", "d4/db1/structnpc__gas__cloud_1_1npc__gas__cloudAI" ],
+    [ "npc_putricide_mutated_abomination", "d3/d66/structnpc__putricide__mutated__abomination.html", "d3/d66/structnpc__putricide__mutated__abomination" ],
     [ "spell_putricide_slime_puddle", "dd/d8a/classspell__putricide__slime__puddle.html", "dd/d8a/classspell__putricide__slime__puddle" ],
     [ "spell_putricide_slime_puddle_spawn", "d2/dc2/classspell__putricide__slime__puddle__spawn.html", "d2/dc2/classspell__putricide__slime__puddle__spawn" ],
     [ "spell_putricide_grow_stacker_aura", "d3/d7d/classspell__putricide__grow__stacker__aura.html", "d3/d7d/classspell__putricide__grow__stacker__aura" ],

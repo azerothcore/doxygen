@@ -212,10 +212,10 @@ var NAVTREEINDEX97 =
 "d3/d34/structboss__yauj.html":[7,0,801],
 "d3/d34/structboss__yauj.html#a15ab7b6b35d29fb1552b11586163320e":[7,0,801,0],
 "d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[7,0,801,1],
-"d3/d35/classSendEncounterUnit.html":[7,0,2579],
-"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[7,0,2579,0],
-"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[7,0,2579,2],
-"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2579,1],
+"d3/d35/classSendEncounterUnit.html":[7,0,2580],
+"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[7,0,2580,0],
+"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[7,0,2580,2],
+"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2580,1],
 "d3/d36/BattlegroundUtils_8cpp.html":[8,0,0,0,1,2,8,18],
 "d3/d36/BattlegroundUtils_8cpp.html#a37cb97319fde2ce5eaaef583591063a9":[8,0,0,0,1,2,8,18,0],
 "d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[8,0,0,0,1,2,8,18,1],
@@ -247,7 +247,7 @@ var NAVTREEINDEX97 =
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2b9e360834e97f1938218405f9632c5":[8,0,0,0,2,2,0,10,8,5],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2c75192be295f76f95c1d28cb599452":[8,0,0,0,2,2,0,10,8,19],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae68d06799176ab8a4d7a6b42fc3e0b34":[8,0,0,0,2,2,0,10,8,22],
-"d3/d37/classspell__azjol__nerub__pound.html":[7,0,2685],
-"d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[7,0,2685,2],
-"d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[7,0,2685,1]
+"d3/d37/classspell__azjol__nerub__pound.html":[7,0,2686],
+"d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[7,0,2686,2],
+"d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[7,0,2686,1]
 };

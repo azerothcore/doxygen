@@ -2,6 +2,7 @@ var classToCloud9Sidecar =
 [
     [ "ToCloud9Sidecar", "de/d02/classToCloud9Sidecar.html#a589421382a8dc17eec8731ef6d13d95a", null ],
     [ "~ToCloud9Sidecar", "de/d02/classToCloud9Sidecar.html#aca4fc146244a3a1b6327a8ea3f112a69", null ],
+    [ "CheckLibsidecarAbi", "de/d02/classToCloud9Sidecar.html#ae578039d549561009894ab1449b9e4c5", null ],
     [ "ClusterModeEnabled", "de/d02/classToCloud9Sidecar.html#aa9917148a6e18765ece1844e64b3383d", null ],
     [ "Deinit", "de/d02/classToCloud9Sidecar.html#a21f705425061c38ea6a5e2a5addb4304", null ],
     [ "GenerateCharacterGuid", "de/d02/classToCloud9Sidecar.html#a47bc9d8f4350cb174f41e7e42d7ca357", null ],

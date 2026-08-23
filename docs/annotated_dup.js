@@ -2664,6 +2664,7 @@ var annotated_dup =
     [ "npc_prophet_velen", "d8/db5/structnpc__prophet__velen.html", "d8/db5/structnpc__prophet__velen" ],
     [ "npc_prospector_remtravel", "df/d57/classnpc__prospector__remtravel.html", "df/d57/classnpc__prospector__remtravel" ],
     [ "npc_pummeller", "d7/d60/structnpc__pummeller.html", "d7/d60/structnpc__pummeller" ],
+    [ "npc_putricide_mutated_abomination", "d3/d66/structnpc__putricide__mutated__abomination.html", "d3/d66/structnpc__putricide__mutated__abomination" ],
     [ "npc_putricide_oozeAI", "d9/d9f/classnpc__putricide__oozeAI.html", "d9/d9f/classnpc__putricide__oozeAI" ],
     [ "npc_q24545_lich_king", "d0/d99/classnpc__q24545__lich__king.html", "d0/d99/classnpc__q24545__lich__king" ],
     [ "npc_q24545_vegard", "d9/df2/classnpc__q24545__vegard.html", "d9/df2/classnpc__q24545__vegard" ],

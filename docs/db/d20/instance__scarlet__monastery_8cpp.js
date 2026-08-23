@@ -21,6 +21,20 @@ var instance__scarlet__monastery_8cpp =
       [ "GO_CHAPEL_DOOR", "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da24ebc0e380ba7f74d2454ce3fe31be51", null ],
       [ "GO_HIGH_INQUISITOR_DOOR", "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787", null ]
     ] ],
+    [ "AshbringerEventUnrelated", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05", [
+      [ "NPC_RABBIT", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a6b507c51667988a41d3020c26af2db9e", null ],
+      [ "NPC_INTERROGATOR_VISHAS", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a53713ddb24f070a66180520e0abaf2f0", null ],
+      [ "NPC_RAT", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05afbcb1f6d4b6e67f967069b9aab3a695d", null ],
+      [ "NPC_SCARLET_SENTRY", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a75befcfa394d4141540fb6ee306d2a3b", null ],
+      [ "NPC_SCARLET_SCRYER", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05afa376691cfb37e12ae6d3ea63dbf81aa", null ],
+      [ "NPC_UNFETTERED_SPIRIT", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05adb2f3d568362ad7b32f6f2730a79ce72", null ],
+      [ "NPC_SCARLET_TORTURER", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0ce6ce17f4bd616ac4b7f88cc1b8055b", null ],
+      [ "NPC_ANGUISHED_DEAD", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05aab2e5ba08392cc39f0a64b4205165fa9", null ],
+      [ "NPC_HAUNTING_PHANTASM", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0fcfe6f63ec53eec1c7288c2d2ad751b", null ],
+      [ "NPC_FALLON_CHAMPION", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a8929f3617463b1b89493c9d0c04e0705", null ],
+      [ "NPC_BLOODMAGE_THALNOS", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05af1e96a37071bf15216c5374cb9dde199", null ],
+      [ "NPC_SUFFERING_VICTIM", "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a8d9d03249a645df6574f7ef449f9201c", null ]
+    ] ],
     [ "AshbringerSpell", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035", [
       [ "SPELL_FORGIVENESS", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b", null ],
       [ "SPELL_FORGIVENESS_IMPACTKIT", "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439", null ],

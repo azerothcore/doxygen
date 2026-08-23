@@ -1,5 +1,9 @@
 var NAVTREEINDEX213 =
 {
+"d7/daf/structboss__taerar_1_1boss__taerarAI.html#adf280483e6fd7f01d14472973c021a91":[7,0,733,0,4],
+"d7/db0/boss__zuramat_8cpp.html":[8,0,0,0,1,3,5,12,6],
+"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,6,3],
+"d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4":[8,0,0,0,1,3,5,12,6,3,0],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a4244f6c1b9661e5daa2568875e16abe1":[8,0,0,0,1,3,5,12,6,3,1],
 "d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a72fb54e6e80932fa5fdf60b0a36ad813":[8,0,0,0,1,3,5,12,6,3,2],
 "d7/db0/boss__zuramat_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,6,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX213 =
 "d7/db0/classMap.html#ac3a435876862905d8cf4f39c40a274e3":[7,0,1516,154],
 "d7/db0/classMap.html#ac49bb2772730297b09a19579ced5b8c5":[7,0,1516,125],
 "d7/db0/classMap.html#ac508a81dedfae03cf7917d4cadb40e53":[7,0,1516,24],
-"d7/db0/classMap.html#ac5220af343d506037b56fbc5861ae027":[7,0,1516,112],
-"d7/db0/classMap.html#ac6cdaebabf597df48be6fe48d6172480":[7,0,1516,164],
-"d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[7,0,1516,106],
-"d7/db0/classMap.html#ac7638ec5527170f8177f6ab3b2faad7d":[7,0,1516,15],
-"d7/db0/classMap.html#ac8400a05940df113dbd075ec258472f0":[7,0,1516,190]
+"d7/db0/classMap.html#ac5220af343d506037b56fbc5861ae027":[7,0,1516,112]
 };
