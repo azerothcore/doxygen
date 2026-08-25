@@ -1,5 +1,9 @@
 var NAVTREEINDEX339 =
 {
+"dc/def/structboss__mechano__lord__capacitus.html#a6a408c654f91a44a40b3df52c0f2b093":[7,0,632,4],
+"dc/def/structboss__mechano__lord__capacitus.html#a9a0b2cac08002db63162f95b9476c251":[7,0,632,3],
+"dc/def/structboss__mechano__lord__capacitus.html#ab5867184d4e50a89a1afe25eb40e6bc3":[7,0,632,0],
+"dc/df0/DBUpdater_8h.html":[8,0,0,0,1,1,3,1],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010":[8,0,0,0,1,1,3,1,3],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c":[8,0,0,0,1,1,3,1,3,1],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[8,0,0,0,1,1,3,1,3,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX339 =
 "dd/d00/structUnitActionBarEntry.html#aa00953783b0b3de3beb755a054c77730":[7,0,4617,4],
 "dd/d00/structUnitActionBarEntry.html#aa50957a4c707ce3dbdfd62a75e3cb8eb":[7,0,4617,7],
 "dd/d00/structUnitActionBarEntry.html#afd77e2f64ec856059759d05ddf77876e":[7,0,4617,1],
-"dd/d00/structnpc__forest__frog.html":[7,0,1827],
-"dd/d00/structnpc__forest__frog.html#a3544a83bb22e12d247e562ef32e378c0":[7,0,1827,8],
-"dd/d00/structnpc__forest__frog.html#a5e6785d71bfb7f1d7b915723898a99fc":[7,0,1827,5],
-"dd/d00/structnpc__forest__frog.html#a6294f89eccdb9e5f9edbe8bccb164690":[7,0,1827,7],
-"dd/d00/structnpc__forest__frog.html#a6a5e24a11f8d2add6a3e9d71e2e647bb":[7,0,1827,0]
+"dd/d00/structnpc__forest__frog.html":[7,0,1827]
 };

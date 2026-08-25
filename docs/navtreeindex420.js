@@ -1,5 +1,9 @@
 var NAVTREEINDEX420 =
 {
+"df/dd4/structBattlegroundScore.html#a3b793df338929c4129e46a6a7fb6422f":[7,0,355,22],
+"df/dd4/structBattlegroundScore.html#a48bd0fadfbe327307702712c991a6866":[7,0,355,9],
+"df/dd4/structBattlegroundScore.html#a4c261e2bbed00da9b7e1865aeeedb48e":[7,0,355,21],
+"df/dd4/structBattlegroundScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,355,17],
 "df/dd4/structBattlegroundScore.html#a63896aeb8982219273915162085b603d":[7,0,355,8],
 "df/dd4/structBattlegroundScore.html#a6c8707bff5cba6cec40bd4fed4ac1f60":[7,0,355,10],
 "df/dd4/structBattlegroundScore.html#a769f81da2366d081d526aafec54da5e7":[7,0,355,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX420 =
 "df/dd9/classUnit.html#a1a31f211355be7b3046440d9f143b5a4":[7,0,4616,885],
 "df/dd9/classUnit.html#a1a827e55eb31db97c7e3dbf4fc36df31":[7,0,4616,480],
 "df/dd9/classUnit.html#a1aa013dc05741dbd3bc5a13aca1f54df":[7,0,4616,339],
-"df/dd9/classUnit.html#a1aa082e9622cb927207ac837ec6cab6f":[7,0,4616,52],
-"df/dd9/classUnit.html#a1afc1e413f12c5bd7bc00c926fa05833":[7,0,4616,73],
-"df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857":[7,0,4616,46],
-"df/dd9/classUnit.html#a1b3e9a1837499e7bc9f301b3a17d569e":[7,0,4616,938],
-"df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1":[7,0,4616,192]
+"df/dd9/classUnit.html#a1aa082e9622cb927207ac837ec6cab6f":[7,0,4616,52]
 };

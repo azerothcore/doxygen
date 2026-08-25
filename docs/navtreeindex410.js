@@ -1,5 +1,9 @@
 var NAVTREEINDEX410 =
 {
+"df/d5b/structQuestVisitor.html":[7,0,2517],
+"df/d5b/structQuestVisitor.html#a4e13ed545328e052481a0379e7f027a5":[7,0,2517,2],
+"df/d5b/structQuestVisitor.html#a864f3c2f78b80dbc4b65dffb0d38ab55":[7,0,2517,1],
+"df/d5b/structQuestVisitor.html#aea5c629ecdcd9c2bfc1253ef8e775c3a":[7,0,2517,0],
 "df/d5c/QueryPackets_8h.html":[8,0,0,0,1,2,39,0,30],
 "df/d5c/classnpc__commandscript.html":[7,0,1732],
 "df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662":[7,0,1732,40],
@@ -245,9 +249,5 @@ var NAVTREEINDEX410 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[7,0,522,0,15],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a6c2f0b49dec037f300206341bbb0f0a0":[7,0,522,0,8],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[7,0,522,0,3],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[7,0,522,0,6],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9c4e6647c05785664cd23fce73d8ca87":[7,0,522,0,4],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa2e622be4faa605aa7b13af333bd1a91":[7,0,522,0,5],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[7,0,522,0,10],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaec3668a6ff72ccee46148b2d9b4e3ad":[7,0,522,0,13]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[7,0,522,0,6]
 };

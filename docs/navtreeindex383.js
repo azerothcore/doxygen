@@ -1,5 +1,9 @@
 var NAVTREEINDEX383 =
 {
+"de/d3c/structPoolTemplateItem.html":[7,0,2466],
+"de/d3c/structPoolTemplateItem.html#a20ae19fc80deceb81adccb91b341fb82":[7,0,2466,0],
+"de/d3c/structPoolTemplateItem.html#ae8b951678ec65907370ffe700cd668c8":[7,0,2466,1],
+"de/d3c/structTriggeredByAuraSpellData.html":[7,0,4600],
 "de/d3c/structTriggeredByAuraSpellData.html#a3f4704eed73af1e37a3d09434cfcddae":[7,0,4600,0],
 "de/d3c/structTriggeredByAuraSpellData.html#a782e0056967e006748318af3112c0e43":[7,0,4600,1],
 "de/d3c/structTriggeredByAuraSpellData.html#a85d4782b76b060c172aaa6f914d400da":[7,0,4600,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX383 =
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ad8fc713bb9673e74bfd11bc653c71587":[7,0,2258,0,2],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#aedad685279012266637d29069ead9063":[7,0,2258,0,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#af5dbb99fe18d96665efd04bd53294636":[7,0,2258,0,5],
-"de/d43/DisableMgr_8h.html":[8,0,0,0,1,2,13,3],
-"de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[8,0,0,0,1,2,13,3,2],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[8,0,0,0,1,2,13,3,4],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[8,0,0,0,1,2,13,3,4,6],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707":[8,0,0,0,1,2,13,3,4,1]
+"de/d43/DisableMgr_8h.html":[8,0,0,0,1,2,13,3]
 };

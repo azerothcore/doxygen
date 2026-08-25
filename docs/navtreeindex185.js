@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa93ed50b9118a48c1349e294cba51e9e":[8,0,0,0,1,3,5,7,16,3,1],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aad52e47c0ecfd88fdb2cef2f2348cf15":[8,0,0,0,1,3,5,7,16,3,22],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aaf65dd61ce3ad2fe53fdebdc884e82cb":[8,0,0,0,1,3,5,7,16,3,5],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74ab439af8572dd1e99aa058b8685be81da":[8,0,0,0,1,3,5,7,16,3,37],
@@ -227,16 +228,16 @@ var NAVTREEINDEX185 =
 "d6/d85/classspell__brewfest__unfill__keg.html#a4f8ab6e42ddf2188ccca2640363b9925":[7,0,2742,1],
 "d6/d85/structAcore_1_1CreatureWorker.html":[5,0,0,59],
 "d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
-"d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,0,59,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[7,0,0,47,2],
+"d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0],
 "d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,0,59,2],
+"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[7,0,0,47,2],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[5,0,0,59,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#ac22f86d9a41701e7527d4840da256f11":[7,0,0,47,3],
 "d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[5,0,0,59,4],
 "d6/d85/structAcore_1_1CreatureWorker.html#adf514c89c894cdf2b44fc75d14c4f5b0":[7,0,0,47,4],
-"d6/d85/structAcore_1_1CreatureWorker.html#ae67044250380c521055f80c55de0bba5":[5,0,0,59,1],
 "d6/d85/structAcore_1_1CreatureWorker.html#ae67044250380c521055f80c55de0bba5":[7,0,0,47,1],
+"d6/d85/structAcore_1_1CreatureWorker.html#ae67044250380c521055f80c55de0bba5":[5,0,0,59,1],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html":[7,0,565,0],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#a2b12c03184b169a56a0e6696a107dc35":[7,0,565,0,4],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#a2f8048e591a818f073a65bfcfa49e66c":[7,0,565,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#aa5de5f986f8a6d3ba5f3aad84422eab6":[7,0,565,0,9],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#aaa0a45066ab7ad7d5a7543822d399947":[7,0,565,0,6],
 "d6/d85/structboss__infinite__corruptor_1_1boss__infinite__corruptorAI.html#add36192941eaabf7f3d1d41c572783bd":[7,0,565,0,0],
-"d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html":[7,0,1927,0],
-"d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html#a288bd5f8b4eaed7b1a960ed738330ae4":[7,0,1927,0,2]
+"d6/d85/structnpc__igb__ship__crew_1_1npc__igb__ship__crewAI.html":[7,0,1927,0]
 };

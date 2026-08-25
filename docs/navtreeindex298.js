@@ -1,5 +1,9 @@
 var NAVTREEINDEX298 =
 {
+"db/d80/structinstance__blackrock__spire.html":[7,0,1328],
+"db/d80/structinstance__blackrock__spire.html#a058ccab75160c9a68d97e495cc8a468b":[7,0,1328,3],
+"db/d80/structinstance__blackrock__spire.html#a14f30e099a3aa6bc2c9aa983b3531eb0":[7,0,1328,31],
+"db/d80/structinstance__blackrock__spire.html#a1cc3590281e0606e57964d5b3458daff":[7,0,1328,36],
 "db/d80/structinstance__blackrock__spire.html#a2073f26a8f7b7be5a05a07b5ca9bca73":[7,0,1328,21],
 "db/d80/structinstance__blackrock__spire.html#a207dfb0db6522141a2209cc8ab68fab9":[7,0,1328,14],
 "db/d80/structinstance__blackrock__spire.html#a250ce756e997f6cea3ca2151d91205f4":[7,0,1328,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX298 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccab201fb6f99100ebd0586058f6b7cc089":[8,0,0,0,1,3,5,8,0,0,17,19],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccac16dbd679d49a0bc62907ff58bf40bbd":[8,0,0,0,1,3,5,8,0,0,17,16],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad3ca9f2aada04e144ae1950528553e59":[8,0,0,0,1,3,5,8,0,0,17,8],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad6bac51bd08bb76348b62d336933fd7f":[8,0,0,0,1,3,5,8,0,0,17,1],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad9c6dd35ff783f0fc928f34b6217bb23":[8,0,0,0,1,3,5,8,0,0,17,34],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccadeef0eca9649649d312371d9bf27a82d":[8,0,0,0,1,3,5,8,0,0,17,27],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae6b4c4922a00d82fba3baa8762d92a4a":[8,0,0,0,1,3,5,8,0,0,17,30],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae9865db1c8e4d39c5d7a7678130880da":[8,0,0,0,1,3,5,8,0,0,17,20]
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad6bac51bd08bb76348b62d336933fd7f":[8,0,0,0,1,3,5,8,0,0,17,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,1,1,8,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba1cf4a5ff843af27788946b55052caa67":[8,0,0,0,1,3,2,1,1,8,5,3],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba39ae9387058b0d69113c328b8b347ae7":[8,0,0,0,1,3,2,1,1,8,5,2],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba3b65c21636aeef3e8871f725c9a48013":[8,0,0,0,1,3,2,1,1,8,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d6b/classspell__pal__light__s__beacon.html#acfdb90639eb05a5ec252c20c9f302fed":[7,0,3779,0],
 "d6/d6b/classspell__pal__light__s__beacon.html#ae9911ba6c95cfc6c345743b0f970062b":[7,0,3779,4],
 "d6/d6b/structnpc__sunblade__scout.html":[7,0,2192],
-"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2192,6],
-"d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[7,0,2192,2]
+"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2192,6]
 };

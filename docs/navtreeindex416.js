@@ -1,5 +1,9 @@
 var NAVTREEINDEX416 =
 {
+"df/da1/server_2game_2Time_2GameTime_8cpp.html#a9a28ffdb4bb387919d2dd70a51080ce0":[8,0,0,0,1,2,45,0,8],
+"df/da1/server_2game_2Time_2GameTime_8cpp.html#aa393fef2187ebdd6aa34379b0f1504d7":[8,0,0,0,1,2,45,0,10],
+"df/da1/server_2game_2Time_2GameTime_8cpp.html#ad5fc2a056410eeac2e2717f91cb8295c":[8,0,0,0,1,2,45,0,7],
+"df/da1/server_2game_2Time_2GameTime_8cpp.html#adbe1785d1327dedf2ac403b7cc8e99c2":[8,0,0,0,1,2,45,0,0],
 "df/da1/server_2game_2Time_2GameTime_8cpp.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[8,0,0,0,1,2,45,0,4],
 "df/da1/server_2game_2Time_2GameTime_8cpp.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[8,0,0,0,1,2,45,0,5],
 "df/da2/Battlefield_8h.html":[8,0,0,0,1,2,7,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX416 =
 "df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[7,0,330,246],
 "df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[7,0,330,216],
 "df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[7,0,330,173],
-"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[7,0,330,57],
-"df/da7/classBattleground.html#a84d07814b989beff0bd0d39c84776882":[7,0,330,128],
-"df/da7/classBattleground.html#a85ec5c36cbe6d2ab9788de1ce2d4ff20":[7,0,330,189],
-"df/da7/classBattleground.html#a85f8b79ff233149e0f83d33e5912ab76":[7,0,330,126],
-"df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[7,0,330,139]
+"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[7,0,330,57]
 };

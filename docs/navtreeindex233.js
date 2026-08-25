@@ -1,9 +1,10 @@
 var NAVTREEINDEX233 =
 {
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,0,8,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[7,0,0,5,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,0,8,0,22,10],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,0,8,0,22,6],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[7,0,0,5,0,22,6],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,0,8,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[8,0,0,0,1,2,17,1],
 "d8/d92/GameEventMgr_8h.html#a3c1c916d94272dfe845b9cc5e8fc292a":[8,0,0,0,1,2,17,1,7],
 "d8/d92/GameEventMgr_8h.html#a429db26781d2673aa2f031fc1327ffaf":[8,0,0,0,1,2,17,1,11],
@@ -206,14 +207,14 @@ var NAVTREEINDEX233 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[7,0,1700,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[7,0,1700,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[7,0,1700,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[7,0,13,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[7,0,2546],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[7,0,2546,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[7,0,2546,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d9f/classnpc__ringo.html":[7,0,2132],
 "d8/d9f/classnpc__ringo.html#a9bb46a7574306da2e75dd9867ef6037a":[7,0,2132,3],
 "d8/d9f/classnpc__ringo.html#aabccd10a446986487bbb09fc2d33cfd9":[7,0,2132,1],
-"d8/d9f/classnpc__ringo.html#aee6c9988f0c038c74b0deb3d44617ef1":[7,0,2132,2],
-"d8/d9f/structboss__festergut_1_1boss__festergutAI.html":[7,0,483,0]
+"d8/d9f/classnpc__ringo.html#aee6c9988f0c038c74b0deb3d44617ef1":[7,0,2132,2]
 };

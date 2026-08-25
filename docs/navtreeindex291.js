@@ -1,5 +1,9 @@
 var NAVTREEINDEX291 =
 {
+"db/d2c/custom__script__loader_8cpp.html#a068af514420f658f0c087bbb77628173":[8,0,0,0,1,3,1,0,0],
+"db/d2c/structVisibilitySettingData.html":[7,0,4652],
+"db/d2c/structVisibilitySettingData.html#aaa4faa0170181e409940b5441eb2f586":[7,0,4652,1],
+"db/d2c/structVisibilitySettingData.html#ad566fd5eff102929247b75cf5092a60b":[7,0,4652,2],
 "db/d2c/structVisibilitySettingData.html#af70453021c5ded85c73a4d5559dca2ea":[7,0,4652,0],
 "db/d2d/boss__hazzarah_8cpp.html":[8,0,0,0,1,3,2,15,4],
 "db/d2d/boss__hazzarah_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,15,4,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX291 =
 "db/d3e/structQEmote.html#a701c902af6f7f472511727bcc88ceeef":[7,0,2496,1],
 "db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1":[7,0,2496,0],
 "db/d3e/structnpc__cameron.html":[7,0,1714],
-"db/d3e/structnpc__cameron.html#a0bf53f40eeb4fe3ed7d62988bee0a912":[7,0,1714,2],
-"db/d3e/structnpc__cameron.html#a2ad97aaac0bd759921e0b75cfc88d07d":[7,0,1714,4],
-"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[7,0,1714,5],
-"db/d3e/structnpc__cameron.html#a45e47ec5c9dadc6f0899e83ac2e19cff":[7,0,1714,0],
-"db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0":[7,0,1714,1]
+"db/d3e/structnpc__cameron.html#a0bf53f40eeb4fe3ed7d62988bee0a912":[7,0,1714,2]
 };

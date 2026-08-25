@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[7,0,4712,8],
 "d4/dd1/classspell__gen__dalaran__disguise.html":[7,0,3048],
 "d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3048,3],
 "d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3048,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d4/dd9/structAchievementCriteriaEntry.html#aa897ae9dc82d2cbe5a2838182cd0b2a3":[7,0,119,85],
 "d4/dd9/structAchievementCriteriaEntry.html#ab277da6f7c8ad7fd2b2fe0b8f4d00def":[7,0,119,25],
 "d4/dd9/structAchievementCriteriaEntry.html#ab6ab9a9979b301e7835806d4f804886a":[7,0,119,92],
-"d4/dd9/structAchievementCriteriaEntry.html#ab7791794b156888aa990d9746a8cfefe":[7,0,119,43],
-"d4/dd9/structAchievementCriteriaEntry.html#ab787eb320776dc556073cdc3677beaa6":[7,0,119,50]
+"d4/dd9/structAchievementCriteriaEntry.html#ab7791794b156888aa990d9746a8cfefe":[7,0,119,43]
 };

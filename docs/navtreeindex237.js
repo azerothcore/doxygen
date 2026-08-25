@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d8/dcd/AbstractFollower_8h.html":[8,0,0,0,1,2,31,4],
 "d8/dcd/classPassiveAI.html":[7,0,2409],
 "d8/dcd/classPassiveAI.html#a2960223799a5b3baedbdd7e664604865":[7,0,2409,3],
 "d8/dcd/classPassiveAI.html#a3a54c7d7268b8c2f4e081a99b4b0cd11":[7,0,2409,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dd7/classMarkOfNatureTargetSelector.html":[7,0,1537],
 "d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[7,0,1537,1],
 "d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[7,0,1537,0],
-"d8/dd7/classspell__gen__burn__brutallus.html":[7,0,3032],
-"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[7,0,3032,0]
+"d8/dd7/classspell__gen__burn__brutallus.html":[7,0,3032]
 };

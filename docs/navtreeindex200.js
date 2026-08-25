@@ -1,5 +1,6 @@
 var NAVTREEINDEX200 =
 {
+"d7/d46/classAuraEffect.html#a1a030d85dec5fb20b11ef19206f6694c":[7,0,295,147],
 "d7/d46/classAuraEffect.html#a1a3ec4c7f1ca6b978189280b4f2424a7":[7,0,295,81],
 "d7/d46/classAuraEffect.html#a1cfa8fba22df7460cb11c768e8e6e3ba":[7,0,295,45],
 "d7/d46/classAuraEffect.html#a1d873a20f6269d508fee14b54f8190cb":[7,0,295,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d48/group__Acored.html#gad82d96de9a84a7d0325afcd3121344a4":[4,0,15],
 "d7/d48/group__Acored.html#gae4bea4699ff716ee22295d12bc9f1b9b":[4,0,8],
 "d7/d48/group__Acored.html#gaf86bc63df807e80b7a14688e48340fea":[4,0,7],
-"d7/d48/structTradeStatusInfo.html":[7,0,4582],
-"d7/d48/structTradeStatusInfo.html#a10427d72e5bafd643648638a1fe7e854":[7,0,4582,1]
+"d7/d48/structTradeStatusInfo.html":[7,0,4582]
 };

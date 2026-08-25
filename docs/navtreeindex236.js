@@ -1,5 +1,6 @@
 var NAVTREEINDEX236 =
 {
+"d8/dbe/classAuctionHouseMgr.html#aedd4944743f8a1734b99d32eb847ea6a":[7,0,271,21],
 "d8/dbe/classAuctionHouseMgr.html#aeef11ff6ea7ca5986429329c76041b96":[7,0,271,12],
 "d8/dbe/classAuctionHouseMgr.html#af286935d4668b00678e9851471a2b90c":[7,0,271,20],
 "d8/dbe/classAuctionHouseMgr.html#afbc20e682c8fcee1db078fa93f6cd075":[7,0,271,4],
@@ -126,22 +127,22 @@ var NAVTREEINDEX236 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb":[8,0,0,0,1,3,2,14,1,4,3],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6":[8,0,0,0,1,3,2,14,1,4,2],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[8,0,0,0,1,3,2,14,1,4,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,92],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[7,0,0,80],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,92],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[7,0,0,80,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,0,92,6],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,92,3],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,92,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,92,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[7,0,0,80,2],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,92,2],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[5,0,0,92,4],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#ae2bf2c0a0f431f5de445fbee26b60a57":[7,0,0,80,4],
 "d8/dc2/classinstance__ulduar.html":[7,0,1387],
 "d8/dc2/classinstance__ulduar.html#a32c2a76d1cd20f2ad1ab441eafe1b682":[7,0,1387,1],
 "d8/dc2/classinstance__ulduar.html#ae263428f4229c75b22f990dabe6b3c06":[7,0,1387,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX236 =
 "d8/dcc/structPlayerSetting.html#a74592e45f8ae4c5f411a982227f809f3":[7,0,2449,6],
 "d8/dcc/structPlayerSetting.html#a77d1fb11aa0039bbdae3ccc523f391ea":[7,0,2449,0],
 "d8/dcc/structPlayerSetting.html#a93a30a0d6104bdda8fd9b5778179a353":[7,0,2449,1],
-"d8/dcc/structPlayerSetting.html#af6e3149ff40b6b4ea2310b5c3254fce0":[7,0,2449,3],
-"d8/dcd/AbstractFollower_8h.html":[8,0,0,0,1,2,31,4]
+"d8/dcc/structPlayerSetting.html#af6e3149ff40b6b4ea2310b5c3254fce0":[7,0,2449,3]
 };

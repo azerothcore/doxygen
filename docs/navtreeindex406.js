@@ -1,5 +1,9 @@
 var NAVTREEINDEX406 =
 {
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3535,3],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[7,0,3535,4],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3535,0],
+"df/d22/classnpc__gunship__rocketeer.html":[7,0,1871],
 "df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[7,0,1871,2],
 "df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1871,1],
 "df/d23/classspell__black__temple__spell__absorption__aura.html":[7,0,2705],
@@ -245,9 +249,5 @@ var NAVTREEINDEX406 =
 "df/d30/boss__gluth_8cpp.html#aab85b5fd85bcf5fb7502bb23c974791c":[8,0,0,0,1,3,5,7,3,8],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,3,5],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a45a02971c185e780ad327934f4ea2259":[8,0,0,0,1,3,5,7,3,5,4],
-"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,7,3,5,1],
-"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b28b406cda8e52b72782b205ea9cadf":[8,0,0,0,1,3,5,7,3,5,0],
-"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a68aee4d3836ea1f092892343b48edaf3":[8,0,0,0,1,3,5,7,3,5,5],
-"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,3,5,3],
-"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa14c943127f3ae15ef51e18fcc3aa97":[8,0,0,0,1,3,5,7,3,5,2]
+"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,7,3,5,1]
 };

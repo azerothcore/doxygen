@@ -1,5 +1,9 @@
 var NAVTREEINDEX427 =
 {
+"df/df1/structCell.html#a6ccf5bbce503433022fce680363b4e3a":[7,0,863,14],
+"df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[7,0,863,12],
+"df/df1/structCell.html#a7d1cd3f96ae97b9685662645e027c388":[7,0,863,9],
+"df/df1/structCell.html#a7e3921913a75e9fb551235e974732e4c":[7,0,863,8],
 "df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[7,0,863,25],
 "df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[7,0,863,15],
 "df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[7,0,863,16],
@@ -245,9 +249,5 @@ var NAVTREEINDEX427 =
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4230],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4230,2],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4230,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4230,0],
-"df/dff/classinstance__old__hillsbrad.html":[7,0,1358],
-"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[7,0,1358,2],
-"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[7,0,1358,1],
-"dir_0357f93aab1892c02aa89cc280efb408.html":[8,0,0,0,1,3,7,2,3]
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4230,0]
 };

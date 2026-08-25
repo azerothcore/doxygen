@@ -1,5 +1,9 @@
 var NAVTREEINDEX278 =
 {
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[7,0,713,0],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[7,0,713,0,6],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0e92f831d702eda65309787c651f221b":[7,0,713,0,15],
+"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39":[7,0,713,0,10],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b":[7,0,713,0,9],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a3de52bd0571eab9df13809ff5a4b891c":[7,0,713,0,19],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a5245dbb8a3065f2da4815be744dce357":[7,0,713,0,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX278 =
 "da/dad/structboss__harbinger__skyriss.html#a873413da06569343225e6659f8277b2c":[7,0,538,1],
 "da/dad/structboss__harbinger__skyriss.html#a8f9e1bd87c80041e07b428ec300ceef8":[7,0,538,5],
 "da/dad/structboss__harbinger__skyriss.html#a97d84139a3e970e22d7d422f2f825f12":[7,0,538,4],
-"da/dad/structboss__harbinger__skyriss.html#adb4cdec41f4b61f82efdb78fe995c313":[7,0,538,3],
-"da/dae/classspell__black__template__harpooners__mark__aura.html":[7,0,2696],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7":[7,0,2696,1],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23":[7,0,2696,5],
-"da/dae/classspell__black__template__harpooners__mark__aura.html#a3b9838f26673ce344ca40f9f487ef878":[7,0,2696,2]
+"da/dad/structboss__harbinger__skyriss.html#adb4cdec41f4b61f82efdb78fe995c313":[7,0,538,3]
 };

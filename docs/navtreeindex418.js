@@ -1,5 +1,9 @@
 var NAVTREEINDEX418 =
 {
+"df/db2/MapScripts_8cpp.html":[8,0,0,0,1,2,38,1],
+"df/db2/structnpc__claw__tentacle.html":[7,0,1726],
+"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[7,0,1726,0],
+"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[7,0,1726,2],
 "df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[7,0,1726,1],
 "df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[7,0,1726,3],
 "df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[7,0,1726,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX418 =
 "df/dbf/classpet__commandscript.html#aeaa05b073553c0c0758ea99d982ce1cc":[7,0,2418,5],
 "df/dbf/classspell__item__mingos__fortune__generator.html":[7,0,3445],
 "df/dbf/classspell__item__mingos__fortune__generator.html#a2a414ce6309b0bbbdb3fb4612215ca03":[7,0,3445,3],
-"df/dbf/classspell__item__mingos__fortune__generator.html#a527f606fd6e583eab56146a689f73e69":[7,0,3445,1],
-"df/dbf/classspell__item__mingos__fortune__generator.html#ac34b3d95ea2888a164deaa3db6671e8b":[7,0,3445,2],
-"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[7,0,3445,0],
-"df/dc0/structHodirHelperData.html":[7,0,1297],
-"df/dc0/structHodirHelperData.html#accc6fc59e13a0897ae168fae33ee4c7d":[7,0,1297,0]
+"df/dbf/classspell__item__mingos__fortune__generator.html#a527f606fd6e583eab56146a689f73e69":[7,0,3445,1]
 };

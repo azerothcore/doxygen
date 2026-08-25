@@ -1,5 +1,6 @@
 var NAVTREEINDEX128 =
 {
+"d4/d50/classKillRewarder.html#a49f6f684f2fdeeb15642c8aaadbcc1a2":[7,0,1439,7],
 "d4/d50/classKillRewarder.html#a67d38f9bbf5ceffc4f1a5d3015d5894f":[7,0,1439,16],
 "d4/d50/classKillRewarder.html#a7166686977002152a99f929a82625def":[7,0,1439,3],
 "d4/d50/classKillRewarder.html#a7898dee0f9855664d07ca834ceabd3bb":[7,0,1439,26],
@@ -245,9 +246,8 @@ var NAVTREEINDEX128 =
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[7,0,0,5,0,15,0],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,0,8,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[7,0,0,5,0,15,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[7,0,0,5,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,0,8,0,15,4],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[7,0,0,5,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[7,0,0,5,0,15,2],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,0,8,0,15,2],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,0,8,0,15,3]
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,0,8,0,15,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX252 =
 {
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html":[7,0,1853,0],
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a20d1087e59daae9189d78f04ea2b2d05":[7,0,1853,0,3],
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a79f6703107eed52a3aeae30393507c0f":[7,0,1853,0,1],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a8567f936dd15933300497d5abe80a272":[7,0,1853,0,2],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#ae0f6686aaeacafce193e0d4590cf8c09":[7,0,1853,0,0],
 "d9/d84/LootMgr_8h.html":[8,0,0,0,1,2,24,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d88/structCreatureTypeEntry.html":[7,0,970],
 "d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[7,0,970,0],
 "d9/d89/classspellIdImmunityPredicate.html":[7,0,4465],
-"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[7,0,4465,0],
-"d9/d89/classspellIdImmunityPredicate.html#a125dfe727d668b5b9820adf1f7f0e0a8":[7,0,4465,2],
-"d9/d89/classspellIdImmunityPredicate.html#ae97afff7a6b3ea5dca917d3dbb9ef818":[7,0,4465,1],
-"d9/d89/classspell__rotface__unstable__ooze__explosion.html":[7,0,4055]
+"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[7,0,4465,0]
 };

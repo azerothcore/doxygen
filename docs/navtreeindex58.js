@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[7,0,279,1],
 "d2/d43/classMovementHandlerScript.html":[7,0,1575],
 "d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[7,0,1575,1],
 "d2/d43/classMovementHandlerScript.html#aec794d21148c9ed382d80b6c30a676cd":[7,0,1575,0],
@@ -190,8 +191,8 @@ var NAVTREEINDEX58 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[7,0,1063,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[7,0,1063,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[7,0,1063,6],
-"d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
+"d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
 "d2/d4a/classinstance__zulaman.html":[7,0,1393],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[7,0,1393,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[7,0,1393,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a0a4dc5dbc656abdc90695b8dd643f1c7":[7,0,2431,179],
 "d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da":[7,0,2431,427],
 "d2/d4b/classPlayer.html#a0a8d74504a10a162c77d4a64d652a1b5":[7,0,2431,1016],
-"d2/d4b/classPlayer.html#a0a99317d06564e3f8f01eb89d687f1d5":[7,0,2431,15],
-"d2/d4b/classPlayer.html#a0a9c9c9ab73ea5b8bb1a90ff0f4dd7c8":[7,0,2431,912]
+"d2/d4b/classPlayer.html#a0a99317d06564e3f8f01eb89d687f1d5":[7,0,2431,15]
 };

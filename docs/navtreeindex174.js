@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d25/WardenMac_8cpp.html":[8,0,0,0,1,2,47,6],
 "d6/d26/classBattlefield.html":[7,0,326],
 "d6/d26/classBattlefield.html#a01ee9fbc2466679c049ab67855ceccd8":[7,0,326,100],
 "d6/d26/classBattlefield.html#a03cc3567faced5d283ef433b1551b183":[7,0,326,94],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[7,0,3396,1],
 "d6/d2b/classspell__warl__shadowburn.html":[7,0,4350],
 "d6/d2b/classspell__warl__shadowburn.html#a3f474c143f64739187b6049cac5e4b38":[7,0,4350,2],
-"d6/d2b/classspell__warl__shadowburn.html#a65fa925d99065d028e328a92f2a13805":[7,0,4350,0],
-"d6/d2b/classspell__warl__shadowburn.html#a95dc732286adf4327f68e23015d58c21":[7,0,4350,1]
+"d6/d2b/classspell__warl__shadowburn.html#a65fa925d99065d028e328a92f2a13805":[7,0,4350,0]
 };

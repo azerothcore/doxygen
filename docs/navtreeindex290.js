@@ -1,5 +1,9 @@
 var NAVTREEINDEX290 =
 {
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[8,0,0,0,1,3,5,12,3,2],
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ee087423aeceb0f7c0aa5108e9b443b":[8,0,0,0,1,3,5,12,3,2,2],
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[8,0,0,0,1,3,5,12,3,2,1],
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[8,0,0,0,1,3,5,12,3,2,3],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad4c9e8b582aabca21c3f0c1e870e9840":[8,0,0,0,1,3,5,12,3,2,0],
 "db/d1d/structboss__ouro.html":[7,0,664],
 "db/d1d/structboss__ouro.html#a14a147b2cb47bbc5bd7cdeb49fd22328":[7,0,664,12],
@@ -91,8 +95,8 @@ var NAVTREEINDEX290 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,7,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,7,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,6,1],
@@ -112,12 +116,12 @@ var NAVTREEINDEX290 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[7,0,1929,0,3],
 "db/d21/BattlefieldMgr_8h.html":[8,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,695,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,695,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX290 =
 "db/d2b/structMap_1_1RespawnEntry.html#a6faeab5132f3e539848ebe29cee5a5a4":[7,0,1516,0,2],
 "db/d2b/structMap_1_1RespawnEntry.html#aaed69c7c6f9f78ecb365e233f1ff6dab":[7,0,1516,0,1],
 "db/d2b/structMap_1_1RespawnEntry.html#adb62060523d8d5b11f16f3202a157f26":[7,0,1516,0,0],
-"db/d2c/custom__script__loader_8cpp.html":[8,0,0,0,1,3,1,0],
-"db/d2c/custom__script__loader_8cpp.html#a068af514420f658f0c087bbb77628173":[8,0,0,0,1,3,1,0,0],
-"db/d2c/structVisibilitySettingData.html":[7,0,4652],
-"db/d2c/structVisibilitySettingData.html#aaa4faa0170181e409940b5441eb2f586":[7,0,4652,1],
-"db/d2c/structVisibilitySettingData.html#ad566fd5eff102929247b75cf5092a60b":[7,0,4652,2]
+"db/d2c/custom__script__loader_8cpp.html":[8,0,0,0,1,3,1,0]
 };

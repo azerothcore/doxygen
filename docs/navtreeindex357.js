@@ -1,5 +1,9 @@
 var NAVTREEINDEX357 =
 {
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,4,4],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca44b08a495efcb6d7aa09641aa7e69342":[8,0,0,0,1,3,2,4,4,4,8],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca4bddf234d010d7e4b6491f9ccc2e3223":[8,0,0,0,1,3,2,4,4,4,1],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca5420034f8378ea5641110a5ef69e2d8f":[8,0,0,0,1,3,2,4,4,4,3],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[8,0,0,0,1,3,2,4,4,4,6],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[8,0,0,0,1,3,2,4,4,4,0],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,2,4,4,4,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX357 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a93b3f841df316f44518989d98143cbbe":[8,0,0,0,1,2,38,0,77,1,94],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a944f86c364b1dce9a94ec8cc4ee31bbc":[8,0,0,0,1,2,38,0,77,1,86],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a968f589b33c3e1e12b9bc331129881de":[8,0,0,0,1,2,38,0,77,1,43],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a96aa3e5ae074904bb993a728bd585f94":[8,0,0,0,1,2,38,0,77,1,7],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97543ec0dc75c5e390325ce9e49c0b4b":[8,0,0,0,1,2,38,0,77,1,77],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[8,0,0,0,1,2,38,0,77,1,134],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[8,0,0,0,1,2,38,0,77,1,42],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[8,0,0,0,1,2,38,0,77,1,79]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a96aa3e5ae074904bb993a728bd585f94":[8,0,0,0,1,2,38,0,77,1,7]
 };

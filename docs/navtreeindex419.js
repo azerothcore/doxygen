@@ -1,5 +1,9 @@
 var NAVTREEINDEX419 =
 {
+"df/dbf/classspell__item__mingos__fortune__generator.html#ac34b3d95ea2888a164deaa3db6671e8b":[7,0,3445,2],
+"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[7,0,3445,0],
+"df/dc0/structHodirHelperData.html":[7,0,1297],
+"df/dc0/structHodirHelperData.html#accc6fc59e13a0897ae168fae33ee4c7d":[7,0,1297,0],
 "df/dc0/structHodirHelperData.html#aeca90e17f8b6f5b40f0f703ef9fe2b73":[7,0,1297,1],
 "df/dc1/classspell__pri__body__and__soul.html":[7,0,3818],
 "df/dc1/classspell__pri__body__and__soul.html#a0113a45bd4c28d1769df7b675de697ed":[7,0,3818,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX419 =
 "df/dd4/structBattlegroundScore.html#a0ea4320ce17cb7359ea5dc9d85d87f7d":[7,0,355,1],
 "df/dd4/structBattlegroundScore.html#a160090d244c87ebc76bbc7d8993169e7":[7,0,355,6],
 "df/dd4/structBattlegroundScore.html#a176231f2e25cdb279b04b29ac624df3d":[7,0,355,24],
-"df/dd4/structBattlegroundScore.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10":[7,0,355,25],
-"df/dd4/structBattlegroundScore.html#a3b793df338929c4129e46a6a7fb6422f":[7,0,355,22],
-"df/dd4/structBattlegroundScore.html#a48bd0fadfbe327307702712c991a6866":[7,0,355,9],
-"df/dd4/structBattlegroundScore.html#a4c261e2bbed00da9b7e1865aeeedb48e":[7,0,355,21],
-"df/dd4/structBattlegroundScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,355,17]
+"df/dd4/structBattlegroundScore.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10":[7,0,355,25]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX358 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97543ec0dc75c5e390325ce9e49c0b4b":[8,0,0,0,1,2,38,0,77,1,77],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[8,0,0,0,1,2,38,0,77,1,134],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[8,0,0,0,1,2,38,0,77,1,42],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[8,0,0,0,1,2,38,0,77,1,79],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[8,0,0,0,1,2,38,0,77,1,91],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[8,0,0,0,1,2,38,0,77,1,82],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[8,0,0,0,1,2,38,0,77,1,41],
@@ -245,9 +249,5 @@ var NAVTREEINDEX358 =
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804":[8,0,0,0,1,3,5,0,1,1,5,10],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451":[8,0,0,0,1,3,5,0,1,1,5,7],
 "dd/dd2/classspell__azgalor__doom.html":[7,0,2680],
-"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[7,0,2680,2],
-"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[7,0,2680,1],
-"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[7,0,2680,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2722],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2722,0]
+"dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[7,0,2680,2]
 };

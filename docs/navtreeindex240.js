@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,2,1,1,14,2,3],
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d":[8,0,0,0,1,3,2,1,1,14,2,6],
 "d8/de7/classnpc__announcer__toc10.html":[7,0,1636],
 "d8/de7/classnpc__announcer__toc10.html#a9a2bf1d3a215332744ca473041cc0520":[7,0,1636,2],
@@ -68,6 +69,8 @@ var NAVTREEINDEX240 =
 "d8/deb/classnpc__essence__of__twin.html#a6f37b7f1152098b41b07ddbae3613c63":[7,0,1812,1],
 "d8/deb/structboss__freya__iron__root.html":[7,0,498],
 "d8/deb/structboss__freya__iron__root.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f":[7,0,498,1],
+"d8/deb/structboss__freya__iron__root.html#a87fe9f9e32bcc44e8692fd317ab864db":[7,0,498,3],
+"d8/deb/structboss__freya__iron__root.html#abd0258796a696e6665ecd51b27cc0b1e":[7,0,498,2],
 "d8/deb/structboss__freya__iron__root.html#af35a268c89c025d95c13ea8c87d6516e":[7,0,498,0],
 "d8/ded/classat__cthun__center.html":[7,0,223],
 "d8/ded/classat__cthun__center.html#a75cf2b77215e0d50c1c89ec9b522ebc3":[7,0,223,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df6/structnpc__underbog__mushroom.html#a407cdb1096e5212dd0a50ea4fa401112":[7,0,2284,3],
 "d8/df6/structnpc__underbog__mushroom.html#a7c192010cc63715eaa3f38b1d1372936":[7,0,2284,1],
 "d8/df6/structnpc__underbog__mushroom.html#a9a8ed51b12809152ebe78dda69944d77":[7,0,2284,2],
-"d8/df7/classspell__q12641__death__comes__from__on__high.html":[7,0,3945],
-"d8/df7/classspell__q12641__death__comes__from__on__high.html#aa725a6ee483dfac46724d291de4ee54b":[7,0,3945,3],
-"d8/df7/classspell__q12641__death__comes__from__on__high.html#ab046ef0adc63c32a153ba4ea866f8dcd":[7,0,3945,0],
-"d8/df7/classspell__q12641__death__comes__from__on__high.html#ab145e1826eb63d0b6b1ea39a6c3c4d36":[7,0,3945,2]
+"d8/df7/classspell__q12641__death__comes__from__on__high.html":[7,0,3945]
 };

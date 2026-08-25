@@ -1,5 +1,9 @@
 var NAVTREEINDEX385 =
 {
+"de/d52/structboss__malygos.html#a88f42418d5a96d3b2630ee2975d420b1":[7,0,627,19],
+"de/d52/structboss__malygos.html#a92ba2c3af50769e45327f4081b753d1d":[7,0,627,10],
+"de/d52/structboss__malygos.html#aabdec2e6a2e955cc682b122430cbdcce":[7,0,627,15],
+"de/d52/structboss__malygos.html#ab1a3fa752819f459e6eb50748f8f65b0":[7,0,627,11],
 "de/d52/structboss__malygos.html#ab520ae358e31225469e96d8628c6314c":[7,0,627,14],
 "de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f":[7,0,627,0],
 "de/d52/structboss__malygos.html#ad471155b4ff59d163218653cc3dfc104":[7,0,627,9],
@@ -44,8 +48,8 @@ var NAVTREEINDEX385 =
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[7,0,13,4,1,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,1,2],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[7,0,13,4,1,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,1,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[7,0,13,4,1,1],
 "de/d58/classinstance__icecrown__citadel.html":[7,0,1346],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[7,0,1346,1],
 "de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[7,0,1346,2],
@@ -135,8 +139,8 @@ var NAVTREEINDEX385 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#a4c28987223d55f31aa6c5f3e349b62b7":[7,0,3380,2],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[7,0,3380,3],
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3380,1],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[7,0,0,5,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[8,0,0,0,1,3,5,7,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX385 =
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a388a20d6d720f5f44a67073fc40e98b6":[7,0,1857,0,8],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aae212c3aecdf82f509ed0bf841f16e59":[7,0,1857,0,2],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ab5403383f1fcd539cacf975dffbe2817":[7,0,1857,0,3],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ad7ed092509dd41fddd44a4024c011364":[7,0,1857,0,7],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ada8e501edfadbb55162532f081a4b48b":[7,0,1857,0,1],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ae45c6de238755eb069e0c182943da58c":[7,0,1857,0,0],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f":[7,0,1857,0,5],
-"de/d5f/ConditionMgr_8h.html":[8,0,0,0,1,2,13,1]
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ad7ed092509dd41fddd44a4024c011364":[7,0,1857,0,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a9ebe730e1ca4a8adafaaf46acc268a3e":[8,0,0,0,1,3,5,14,23],
 "d2/d38/northrend__script__loader_8cpp.html#a9f00ce106e938d97131447d0b3923d0a":[8,0,0,0,1,3,5,14,68],
 "d2/d38/northrend__script__loader_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f":[8,0,0,0,1,3,5,14,27],
 "d2/d38/northrend__script__loader_8cpp.html#aa15fb53e88840d607419b08bc777fb75":[8,0,0,0,1,3,5,14,160],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d41/classWDTFile.html#aa952c5bfe52a1aa851984a7e6dc963c9":[7,0,4676,2],
 "d2/d41/classWDTFile.html#ab3dac8623598bac1152a514a00126bf6":[7,0,4676,6],
 "d2/d42/structAuctionSearchAdd.html":[7,0,279],
-"d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[7,0,279,0],
-"d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[7,0,279,1]
+"d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[7,0,279,0]
 };

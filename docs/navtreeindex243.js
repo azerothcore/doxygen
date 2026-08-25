@@ -1,5 +1,8 @@
 var NAVTREEINDEX243 =
 {
+"d9/d10/structDiminishingReturn.html#aeb40601df7e6507c7fd83e3152541ba5":[7,0,1011,4],
+"d9/d11/classspell__halion__meteor__strike__marker__aura.html":[7,0,3197],
+"d9/d11/classspell__halion__meteor__strike__marker__aura.html#a96321003a002be0e4838901f03f8a5d8":[7,0,3197,0],
 "d9/d11/classspell__halion__meteor__strike__marker__aura.html#aaa2a16cff2e9aae77cdc1bb75c38f26a":[7,0,3197,3],
 "d9/d11/classspell__halion__meteor__strike__marker__aura.html#ad09a31813a7a03f8abf6dc9c151bb002":[7,0,3197,4],
 "d9/d11/classspell__halion__meteor__strike__marker__aura.html#ae5c880210cb50cf5320ee3595791eaa8":[7,0,3197,2],
@@ -27,14 +30,14 @@ var NAVTREEINDEX243 =
 "d9/d13/classAppender.html#aed555d5a182fefce9bb570201e9f005f":[7,0,161,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[7,0,13,10,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,34,10,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[7,0,13,10,4,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,34,10,4,3],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[7,0,13,10,4,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[7,0,13,10,4,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,34,10,4,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[7,0,13,10,4,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,34,10,4,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[7,0,13,10,4,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[7,0,13,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,34,10,4,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[7,0,13,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,34,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d26/structSpellLearnSkillNode.html":[7,0,4474],
 "d9/d26/structSpellLearnSkillNode.html#a064fece53cdaf07b072510b14200a968":[7,0,4474,3],
 "d9/d26/structSpellLearnSkillNode.html#a1c882f7d43c65954cb99566225660312":[7,0,4474,2],
-"d9/d26/structSpellLearnSkillNode.html#a1dd2289b0d3505cb50e8613595ad8c8e":[7,0,4474,0],
-"d9/d26/structSpellLearnSkillNode.html#a8bcbe05ff6a3220f9f05f52b16925f5d":[7,0,4474,1],
-"d9/d27/PlayerDump_8h.html":[8,0,0,0,1,2,46,3],
-"d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866":[8,0,0,0,1,2,46,3,3]
+"d9/d26/structSpellLearnSkillNode.html#a1dd2289b0d3505cb50e8613595ad8c8e":[7,0,4474,0]
 };

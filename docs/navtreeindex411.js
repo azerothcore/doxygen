@@ -1,5 +1,9 @@
 var NAVTREEINDEX411 =
 {
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9c4e6647c05785664cd23fce73d8ca87":[7,0,522,0,4],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa2e622be4faa605aa7b13af333bd1a91":[7,0,522,0,5],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[7,0,522,0,10],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaec3668a6ff72ccee46148b2d9b4e3ad":[7,0,522,0,13],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[7,0,522,0,12],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[7,0,522,0,11],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[7,0,522,0,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX411 =
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2830,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2830,1],
 "df/d78/classspell__dk__ghoul__thrash.html#a857a010e6426e931ca872f66803b99b9":[7,0,2830,2],
-"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[7,0,2830,3],
-"df/d78/classspell__hate__to__zero.html":[7,0,3218],
-"df/d78/classspell__hate__to__zero.html#a4998015873f0e0ca768c20b0f95fda90":[7,0,3218,3],
-"df/d78/classspell__hate__to__zero.html#a87777dce0e2bf1deba600b3ae7ce6b9c":[7,0,3218,0],
-"df/d78/classspell__hate__to__zero.html#a9fb8d980381264a2ef645f2e620abd21":[7,0,3218,2]
+"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[7,0,2830,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea7c745804a8ebe1e31fce50cac86e9e6a":[8,0,0,0,1,2,8,1,21,2,4],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea9051cae14ae8f58f9de645c87a45e01c":[8,0,0,0,1,2,8,1,21,2,9],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ead7db7cd7c39b7d45b4fde846f6ce35ab":[8,0,0,0,1,2,8,1,21,2,0],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437eae9561cf1891c2ddbc53f79f43240adf7":[8,0,0,0,1,2,8,1,21,2,11],
@@ -174,14 +175,14 @@ var NAVTREEINDEX161 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[7,0,4685,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[7,0,4685,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4685,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[7,0,1780],
 "d5/db6/classnpc__deathstalker__erland.html#a81b20bc8c7249a59d69ba63ab32a5f06":[7,0,1780,3],
 "d5/db6/classnpc__deathstalker__erland.html#ab59235f212ddb985056cb8e32719b723":[7,0,1780,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca4d75a01959fade0df3db076bd7c5690a":[8,0,0,0,1,2,8,6,5,3],
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca604ef0adfa5d8d26e1cd06c96443d7c0":[8,0,0,0,1,2,8,6,5,1],
 "d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca6c97f9288f5c74a49df5fd3beda71f7d":[8,0,0,0,1,2,8,6,5,13],
-"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc":[8,0,0,0,1,2,8,6,5,17],
-"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca6ffa2803290c499255e02a15ac6056af":[8,0,0,0,1,2,8,6,5,18]
+"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc":[8,0,0,0,1,2,8,6,5,17]
 };

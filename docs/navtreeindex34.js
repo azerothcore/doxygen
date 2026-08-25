@@ -1,8 +1,9 @@
 var NAVTREEINDEX34 =
 {
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[5,0,0,131,9],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[7,0,0,119,6],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a6b29bb94ed2ec6f508b25d45c11f72fd":[7,0,0,119,9],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[5,0,0,131,6],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a8cebd0149bfccc4fdeb30dda9505f0c0":[7,0,0,119,6],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[5,0,0,131,0],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#aad6ee62da3f21c7838767dd3af871ad7":[7,0,0,119,0],
 "d1/d55/GuildScript_8h.html":[8,0,0,0,1,2,38,0,58],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d61/structCreatureTemplate.html#ab562ded879398960d2c0c92b8cb51953":[7,0,962,17],
 "d1/d61/structCreatureTemplate.html#ab6aeaebc19c6096a52b1a11b410229c4":[7,0,962,2],
 "d1/d61/structCreatureTemplate.html#ab7e3eb3f73b1c2098efa410649e7be57":[7,0,962,43],
-"d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0":[7,0,962,35],
-"d1/d61/structCreatureTemplate.html#abf1474d7383c49eaa27e9d7f996cc03f":[7,0,962,21]
+"d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0":[7,0,962,35]
 };

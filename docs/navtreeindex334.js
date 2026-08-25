@@ -1,5 +1,9 @@
 var NAVTREEINDEX334 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a419d135d3d232ceabcb89fba6b5cc2b1":[8,0,0,0,1,2,41,11,72,3],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a4bfd62ef873930a2ed1f6da09b85296d":[8,0,0,0,1,2,41,11,72,24],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a59cf037b8b521ba0958c29e7a8a4c262":[8,0,0,0,1,2,41,11,72,14],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a67050daee69746f58a49b0f131a4a4de":[8,0,0,0,1,2,41,11,72,11],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a7ab83bc59e26f2a76b49c41feebe0726":[8,0,0,0,1,2,41,11,72,21],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9bab1f8dcc1dccde2a98e7f492c9d5a9":[8,0,0,0,1,2,41,11,72,10],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9c2d093615242927901d1c4c256212b2":[8,0,0,0,1,2,41,11,72,15],
@@ -245,9 +249,5 @@ var NAVTREEINDEX334 =
 "dc/db8/classspell__dk__necrosis.html#a1b2746e9013ecfbbc112d74a9229719f":[7,0,2843,0],
 "dc/db8/classspell__dk__necrosis.html#a3867a6c8278dc85b3a429652a7b5e81c":[7,0,2843,2],
 "dc/db8/classspell__dk__necrosis.html#ab38f961abbef4271df4ddce139d890df":[7,0,2843,3],
-"dc/db8/classspell__dk__necrosis.html#ac5020d66d7fca6246a4ccbbf5c681fee":[7,0,2843,4],
-"dc/db8/classspell__dk__necrosis.html#ad100e3d9794da0fac5802e9d059609a8":[7,0,2843,1],
-"dc/db8/structboss__mother__shahraz.html":[7,0,644],
-"dc/db8/structboss__mother__shahraz.html#a021c702e7eff266308fee8a4220a6ec7":[7,0,644,2],
-"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[7,0,644,3]
+"dc/db8/classspell__dk__necrosis.html#ac5020d66d7fca6246a4ccbbf5c681fee":[7,0,2843,4]
 };

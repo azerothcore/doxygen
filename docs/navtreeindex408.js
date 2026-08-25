@@ -1,5 +1,9 @@
 var NAVTREEINDEX408 =
 {
+"df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d":[7,0,362,17],
+"df/d3d/classBfCapturePoint.html#adc770791f08285d7bc5a4c59a0b8c542":[7,0,362,19],
+"df/d3d/classBfCapturePoint.html#afd5cbd6dd52834c59e119389b7e8a416":[7,0,362,24],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[5,0,34,10,15],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[7,0,13,10,15],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,34,10,15,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[7,0,13,10,15,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX408 =
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a147921788b07f5e776e03aaf15049cf0":[7,0,2167,0,4],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[7,0,2167,0,1],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a75611004a543bece9d3f51914547f2fe":[7,0,2167,0,3],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a95eaf518fb18b67820d6195cd525b017":[7,0,2167,0,2],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[7,0,2167,0,6],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[7,0,2167,0,5],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[7,0,2167,0,0],
-"df/d4e/WaypointDefines_8h.html":[8,0,0,0,1,2,31,2,0]
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a95eaf518fb18b67820d6195cd525b017":[7,0,2167,0,2]
 };

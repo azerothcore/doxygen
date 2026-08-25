@@ -218,6 +218,7 @@ var ulduar_8h =
       [ "NPC_HODIR", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7552fec4b076bba248d73303e456c451", null ],
       [ "NPC_THORIM", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a56e0ac9ce82008a01f4856d6c42a7016", null ],
       [ "NPC_FREYA", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_STRENGTHENED_IRON_ROOTS", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a114bde68f6ab0a62bcb7eacfdc754d37", null ],
       [ "NPC_VEZAX", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a009d7553ce7bdd277c9d53cc2524dcff", null ],
       [ "NPC_SARONITE_ANIMUS", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a9545669ca68caa507220b5b121475d3c", null ],
       [ "NPC_SARA", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a43a870e0638f36d495cd0f2dbeee07d2", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX405 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a63e75ffbe278d996f62d8f4ac29e0411":[8,0,0,0,1,2,16,5,0,4,6,1],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a64bf61552817623f34e04d0a90982a8e":[8,0,0,0,1,2,16,5,0,4,6,69],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a658f12c04ee4c831ac7c41627315b9d0":[8,0,0,0,1,2,16,5,0,4,6,166],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a65a8142f4727b52425e593eb2727d9f4":[8,0,0,0,1,2,16,5,0,4,6,91],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a67673a0f21c90e35af27aab8efbdee09":[8,0,0,0,1,2,16,5,0,4,6,122],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a690f68ac635bae698eb89a46410594ad":[8,0,0,0,1,2,16,5,0,4,6,13],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6989ac7439957bfcc2888cf130648b3a":[8,0,0,0,1,2,16,5,0,4,6,156],
@@ -245,9 +249,5 @@ var NAVTREEINDEX405 =
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[8,0,0,0,1,2,16,5,0,4,3,1],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3535],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[7,0,3535,2],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[7,0,3535,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3535,3],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[7,0,3535,4],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3535,0],
-"df/d22/classnpc__gunship__rocketeer.html":[7,0,1871]
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[7,0,3535,1]
 };

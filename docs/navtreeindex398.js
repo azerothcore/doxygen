@@ -1,5 +1,9 @@
 var NAVTREEINDEX398 =
 {
+"de/dd4/classspell__saronite__vapors__damage.html#aea2b951dd2353800958f654df58d8fd8":[7,0,4060,3],
+"de/dd4/classspell__saronite__vapors__damage.html#af963f0dcdf2a1bc040a597c06983f0a7":[7,0,4060,2],
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html":[7,0,1996,0],
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0519438fda724a06a0c6f8ed2d7d533d":[7,0,1996,0,7],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0de69b5fda6342217697ad264d64d4e6":[7,0,1996,0,1],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a32281f8dfa1c8af8fe6bcac2a8be4220":[7,0,1996,0,0],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,1996,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX398 =
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,6,9,42,8],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8824e48ce7b43d1d17c4059e3e04b4e4":[8,0,0,0,1,3,5,6,9,42,3],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa7c535c2bdebb4fae44045ee7ee5e403":[8,0,0,0,1,3,5,6,9,42,5],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,6,9,42,9],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af419b383d681d359cf16b9ec1488ade9":[8,0,0,0,1,3,5,6,9,42,4],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[8,0,0,0,1,3,5,6,9,40],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34":[8,0,0,0,1,3,5,6,9,40,0],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[8,0,0,0,1,3,5,6,9,40,3]
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,6,9,42,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d61/structCreatureTemplate.html#abf1474d7383c49eaa27e9d7f996cc03f":[7,0,962,21],
 "d1/d61/structCreatureTemplate.html#ac21972c55a5bb6373e86bb00144855e2":[7,0,962,7],
 "d1/d61/structCreatureTemplate.html#acbd1c75616b592ed38bb2d364045e250":[7,0,962,25],
 "d1/d61/structCreatureTemplate.html#ad2e2f0d36f61d678cc700c26dc1a1385":[7,0,962,63],
@@ -18,10 +19,10 @@ var NAVTREEINDEX35 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[7,0,2089,0,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[7,0,13,16,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,16,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[7,0,13,16,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[7,0,13,16,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,16,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[7,0,13,16,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,16,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[7,0,13,16,1,2],
 "d1/d63/GameTime_8h.html":[8,0,0,0,1,2,45,1],
@@ -42,8 +43,8 @@ var NAVTREEINDEX35 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,0,90],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,0,90,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[7,0,0,78,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[7,0,0,78,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,0,90,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[7,0,0,78,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[7,0,0,78,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,0,90,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,0,90,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d6a/classspell__dk__death__grip.html#a78321d1589e8d7f7fe8957a4939b6197":[7,0,2825,5],
 "d1/d6a/classspell__dk__death__grip.html#a8534cc52f42f0598088bf8500dd5e0e5":[7,0,2825,2],
 "d1/d6a/classspell__dk__death__grip.html#a8e8578447aafeea4a62e028dbe6c7419":[7,0,2825,1],
-"d1/d6a/classspell__dk__death__grip.html#ad68a099d3167534be3d9978d1fc2b4fe":[7,0,2825,0],
-"d1/d6a/classspell__dk__death__grip.html#af7aff878540dd34138aa479f532611b6":[7,0,2825,4]
+"d1/d6a/classspell__dk__death__grip.html#ad68a099d3167534be3d9978d1fc2b4fe":[7,0,2825,0]
 };

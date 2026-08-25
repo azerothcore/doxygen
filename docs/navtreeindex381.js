@@ -1,5 +1,9 @@
 var NAVTREEINDEX381 =
 {
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620aa087c9c6b23d8341f54b0d5bf29a5519":[8,0,0,0,1,2,41,9,72,6],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620aa22fb9f666c19eb4132e266e0de40d28":[8,0,0,0,1,2,41,9,72,12],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620ab629601eec5889b3eef25758493d86f5":[8,0,0,0,1,2,41,9,72,13],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620ac99f036c6231ddaa9566c25ac5b3b4d7":[8,0,0,0,1,2,41,9,72,7],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620ad3c525df8a59c4311cc891144b7599f2":[8,0,0,0,1,2,41,9,72,19],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620ad47e2af9f7af1672e05141f1f9ef3825":[8,0,0,0,1,2,41,9,72,15],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620af61ac475c4287b42b25dc663da03b117":[8,0,0,0,1,2,41,9,72,18],
@@ -245,9 +249,5 @@ var NAVTREEINDEX381 =
 "de/d33/classspell__item__darkmoon__card__illusion.html#ac9a6a96da8387d3c51fece7f0a968779":[7,0,3374,2],
 "de/d33/structboss__bronjahm.html":[7,0,421],
 "de/d33/structboss__bronjahm.html#a313bd4510e18ecb529b6358d28a3dc3f":[7,0,421,8],
-"de/d33/structboss__bronjahm.html#a3be47710012bd75a71574f7a4c69f678":[7,0,421,9],
-"de/d33/structboss__bronjahm.html#a44666a47b298efe48c4e86b8677d9845":[7,0,421,0],
-"de/d33/structboss__bronjahm.html#a47c7a8a8413b139cf2d217d33f39aa3d":[7,0,421,6],
-"de/d33/structboss__bronjahm.html#a5d515921e780974e2a70937ada8b232d":[7,0,421,2],
-"de/d33/structboss__bronjahm.html#a6d60b720210a9f196b1c006b557e7d25":[7,0,421,10]
+"de/d33/structboss__bronjahm.html#a3be47710012bd75a71574f7a4c69f678":[7,0,421,9]
 };

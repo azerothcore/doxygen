@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,6,7,36,4],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa72e2e2c93caa2369d6d6449083be48f4":[8,0,0,0,1,3,5,6,7,36,6],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,6,7,36,11],
 "d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa9461affdc878fcf8439f29327db5cb82":[8,0,0,0,1,3,5,6,7,36,7],
@@ -165,18 +166,18 @@ var NAVTREEINDEX239 =
 "d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
-"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
-"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
+"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2333],
 "d8/de1/structnpc__zealot__zath.html#a146679c4eb3eec444ff1dcd9a780110a":[7,0,2333,5],
 "d8/de1/structnpc__zealot__zath.html#a25e059f40de51d880f4ec209ff4dd924":[7,0,2333,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c0fc8302d639423bfa5dca8a664283d":[8,0,0,0,1,3,2,1,1,14,2,4],
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aabf34703e3f1e394aa7389703c7bab74":[8,0,0,0,1,3,2,1,1,14,2,2],
 "d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfc218d02de5494f973d94ea42630bc8":[8,0,0,0,1,3,2,1,1,14,2,0],
-"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,14,2,1],
-"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,2,1,1,14,2,3]
+"d8/de6/boss__warmaster__voone_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,14,2,1]
 };

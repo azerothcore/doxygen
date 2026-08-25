@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#aec4d165c6ee014b334c1744fb9357043":[4,1,19,103],
 "d8/d74/classWorldSession.html#aed26439574e040db313c6a5b5d2b6d2b":[4,1,19,192],
 "d8/d74/classWorldSession.html#aed37ffeb8c5b74e5762ed7b0a688951e":[4,1,19,313],
 "d8/d74/classWorldSession.html#aee220c902412cb694cd9b4664f5be749":[4,1,19,133],
@@ -112,10 +113,10 @@ var NAVTREEINDEX231 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1622],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1622,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1622,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d82/boss__nightbane_8cpp.html#a40e538ec4eadedae577668cfd4433350":[8,0,0,0,1,3,2,4,6,16],
 "d8/d82/boss__nightbane_8cpp.html#a438cd6cd4f67ae1b4df3c4141b4c0a99":[8,0,0,0,1,3,2,4,6,12],
 "d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,2,4,6,7],
-"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0c47f28e4cd8c9899afacb0200c07d57":[8,0,0,0,1,3,2,4,6,7,2],
-"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea2182a7b5bfae74b8ca084d1f70bd2f24":[8,0,0,0,1,3,2,4,6,7,3]
+"d8/d82/boss__nightbane_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0c47f28e4cd8c9899afacb0200c07d57":[8,0,0,0,1,3,2,4,6,7,2]
 };

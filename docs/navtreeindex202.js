@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d5a/classachievement__arena__by__type.html#a2042c808304e8ddf1849820491b9f1a3":[7,0,36,0],
 "d7/d5a/classachievement__arena__by__type.html#a5c38e5fef5eaf3d037864ba2aa80584a":[7,0,36,2],
 "d7/d5a/classachievement__arena__by__type.html#abebdbf19fbf1b79c30114a9cf4ff98a4":[7,0,36,1],
 "d7/d5a/structBannedAddon.html":[7,0,320],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d66/structboss__shade__of__aran.html#ac79c249652f1de37b0c7d31a86dd0e51":[7,0,710,4],
 "d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2":[7,0,710,6],
 "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[7,0,710,9],
-"d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[7,0,710,10],
-"d7/d66/structboss__shade__of__aran.html#afe99b96811ff1e61ea6bbdce42fe8d7d":[7,0,710,16]
+"d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[7,0,710,10]
 };

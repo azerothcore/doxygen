@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea0daaa0f52a80f5c29881ce2e836978cf":[8,0,0,0,1,3,4,1,3,5,3,11],
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea0df93a814d231a1ed73741091195f817":[8,0,0,0,1,3,4,1,3,5,3,17],
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea0ece7da0ee549bb8bdb1d0559dabd1c3":[8,0,0,0,1,3,4,1,3,5,3,19],
 "d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea12db3d9ed00d64b4815e0878a0f00d0a":[8,0,0,0,1,3,4,1,3,5,3,15],
@@ -245,9 +246,8 @@ var NAVTREEINDEX150 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[7,0,4225,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[7,0,4225,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[7,0,4225,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[7,0,13,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,34,6,52],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[7,0,13,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,34,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3]
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2]
 };

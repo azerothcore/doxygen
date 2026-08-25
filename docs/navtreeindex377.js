@@ -1,5 +1,9 @@
 var NAVTREEINDEX377 =
 {
+"de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6aa738151de42627a77a0624732fe6ba71":[8,0,0,0,1,4,7,41,1],
+"de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6ac72f5fbb9b7f0f6d339383c0fdcca622":[8,0,0,0,1,4,7,41,5],
+"de/d0a/SharedDefines_8h.html#aff4462a11392766622feb9f20463ffb6aef6e6e18af8edc27efc8b497b1bff3ea":[8,0,0,0,1,4,7,41,3],
+"de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f":[8,0,0,0,1,4,7,125],
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa12667dd3f55738c93e1ddb1351779b42":[8,0,0,0,1,4,7,125,1],
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa489ca32f412d460b8ae8f58a1aa8cf3d":[8,0,0,0,1,4,7,125,6],
 "de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc":[8,0,0,0,1,4,7,125,9],
@@ -52,10 +56,10 @@ var NAVTREEINDEX377 =
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html":[7,0,13,14,10],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[5,0,34,14,10,2],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a449c6537a692edae94f173236d0d449e":[7,0,13,14,10,2],
-"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[5,0,34,14,10,0],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[7,0,13,14,10,0],
-"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[5,0,34,14,10,1],
+"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a71a5435a0d9dbc648a83ec90ec99215f":[5,0,34,14,10,0],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[7,0,13,14,10,1],
+"de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#a90c79fdc1bf593e4d51f3d7a6e423eac":[5,0,34,14,10,1],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#af80f4138f3689721f44059a9250246f0":[5,0,34,14,10,3],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html#af80f4138f3689721f44059a9250246f0":[7,0,13,14,10,3],
 "de/d11/classnpc__centrifuge__construct.html":[7,0,1721],
@@ -185,8 +189,8 @@ var NAVTREEINDEX377 =
 "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6":[5,0,20,16,0],
 "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,16,1],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
-"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,32],
+"de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
 "de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f":[5,0,20,30],
 "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a":[5,0,20,34],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868":[5,0,20,17],
@@ -245,9 +249,5 @@ var NAVTREEINDEX377 =
 "de/d1c/classGameObject.html#a1050893a7eca246e58acfedd8bc87e30":[7,0,1109,87],
 "de/d1c/classGameObject.html#a118e9a30579144074dadffada06f0205":[7,0,1109,158],
 "de/d1c/classGameObject.html#a12000cdd8344e082611a6dafc6d283fa":[7,0,1109,155],
-"de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926":[7,0,1109,170],
-"de/d1c/classGameObject.html#a13dc382aac771aad5d6c96ebb2593de4":[7,0,1109,5],
-"de/d1c/classGameObject.html#a1415b5cb9b3b3f4f6691584c5b6d7324":[7,0,1109,37],
-"de/d1c/classGameObject.html#a156245845e147e22c8c89c88e85459e8":[7,0,1109,2],
-"de/d1c/classGameObject.html#a182d72a123211237f000795a39f5def9":[7,0,1109,38]
+"de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926":[7,0,1109,170]
 };

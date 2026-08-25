@@ -1,5 +1,9 @@
 var NAVTREEINDEX316 =
 {
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212adcb7cd282ac86f04ca8fe5f7e18afff3":[8,0,0,0,1,3,9,8,88,7],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afab1cf99094765c03ba4c7a5a2d5b7f0":[8,0,0,0,1,3,9,8,88,4],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afc70a74b4ff83ace1c62d0a27ed8e589":[8,0,0,0,1,3,9,8,88,10],
+"db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00c":[8,0,0,0,1,3,9,8,104],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca13f0566b0ca3096731d7cb26218482bb":[8,0,0,0,1,3,9,8,104,4],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca7227e70ca8ec20f54882a8e9d470c7c7":[8,0,0,0,1,3,9,8,104,5],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00cab191d4b8e855ae781da47adf39ca7f29":[8,0,0,0,1,3,9,8,104,2],
@@ -219,8 +223,8 @@ var NAVTREEINDEX316 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2324],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2324,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d05/structnpc__shade__of__jindo.html#a86fa95e806aea21fd6db332ea3f18a02":[7,0,2153,0],
 "dc/d05/structnpc__shade__of__jindo.html#aaf4eed2de98601844a32fec159f2f5fc":[7,0,2153,1],
 "dc/d05/structnpc__shade__of__jindo.html#abc18dabb6f4f0b85a3b5b2e6f830804f":[7,0,2153,3],
-"dc/d06/boss__curator_8cpp.html":[8,0,0,0,1,3,2,4,1],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,1,1],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca19fd751bdf0b8d401d30a76edb682723":[8,0,0,0,1,3,2,4,1,1,2],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca2754cdfe3abaa36af80434b488e4cc11":[8,0,0,0,1,3,2,4,1,1,3],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca65b03c8218033c2fbc5f7ccfb454c4f2":[8,0,0,0,1,3,2,4,1,1,7]
+"dc/d06/boss__curator_8cpp.html":[8,0,0,0,1,3,2,4,1]
 };

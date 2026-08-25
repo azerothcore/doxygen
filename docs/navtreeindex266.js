@@ -1,5 +1,9 @@
 var NAVTREEINDEX266 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e":[8,0,0,0,1,2,41,0,0,6,87],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68a0826b3af846b703a7fcd15437cd56":[8,0,0,0,1,2,41,0,0,6,250],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68aa3ccb3306f28df5cab299ef7c2e48":[8,0,0,0,1,2,41,0,0,6,195],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68f64263ab9715e5f33284b9992e8916":[8,0,0,0,1,2,41,0,0,6,49],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a69829b5093944e4f9eab44cc3f4db203":[8,0,0,0,1,2,41,0,0,6,156],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6a5808394c990e4ab270f17bc9415b16":[8,0,0,0,1,2,41,0,0,6,58],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[8,0,0,0,1,2,41,0,0,6,201],
@@ -245,9 +249,5 @@ var NAVTREEINDEX266 =
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0a8159a84689dbfd8c69ed523ce03817":[7,0,1931,0,0],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9":[7,0,1931,0,4],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a21def23073eeec051c1c97a813e0ea84":[7,0,1931,0,5],
-"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2f3e45b3f762ede62aa94a6ae3f2909f":[7,0,1931,0,2],
-"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#ac83c25091fdd3c7876a88927b758261f":[7,0,1931,0,6],
-"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#aedc82ee3bfa193a838d5af62533e19b4":[7,0,1931,0,3],
-"da/d32/classBattlegroundRL.html":[7,0,351],
-"da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[7,0,351,3]
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2f3e45b3f762ede62aa94a6ae3f2909f":[7,0,1931,0,2]
 };

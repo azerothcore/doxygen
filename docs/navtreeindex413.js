@@ -1,5 +1,9 @@
 var NAVTREEINDEX413 =
 {
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a3305ced5e8edcf6f636cdbf1f2ef862f":[8,0,0,0,1,3,5,9,2,4,14,2],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a433c3a28a5d051f56a8a8565c089e13b":[8,0,0,0,1,3,5,9,2,4,14,4],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a43c2b43d7aa194507dc7912f3f1c1560":[8,0,0,0,1,3,5,9,2,4,14,3],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[8,0,0,0,1,3,5,9,2,4,14,11],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a473c4bd4351fca7d4c76dc7e1d60dca0":[8,0,0,0,1,3,5,9,2,4,14,5],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4cf9839144b8e6fb679600dc4d642fb1":[8,0,0,0,1,3,5,9,2,4,14,22],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4de611c7f4dff66978a503bdf1ea78ef":[8,0,0,0,1,3,5,9,2,4,14,19],
@@ -245,9 +249,5 @@ var NAVTREEINDEX413 =
 "df/d8d/structSmartTarget.html#ad98d72d7ce77ca8c4ee3d4b2df604742":[7,0,2617,59],
 "df/d8d/structSmartTarget.html#adc159e6efef539f36d90011175b70423":[7,0,2617,51],
 "df/d8d/structSmartTarget.html#adc7617915da647fb6f70ddca99723c1e":[7,0,2617,22],
-"df/d8d/structSmartTarget.html#ae59a95b879b52ccd14f02f0194f3e0cd":[7,0,2617,35],
-"df/d8d/structSmartTarget.html#af648cbf7934ad423724a994f9cabc4b6":[7,0,2617,0],
-"df/d8d/structSmartTarget.html#af83071775da34749226ea32c6421d0dd":[7,0,2617,30],
-"df/d8d/structSmartTarget.html#afafd6378f6b9472ce21aab4addbc55b6":[7,0,2617,47],
-"df/d8d/structSmartTarget.html#afba5248cbd14b288788fb41f28d35453":[7,0,2617,60]
+"df/d8d/structSmartTarget.html#ae59a95b879b52ccd14f02f0194f3e0cd":[7,0,2617,35]
 };

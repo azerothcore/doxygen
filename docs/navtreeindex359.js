@@ -1,5 +1,9 @@
 var NAVTREEINDEX359 =
 {
+"dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[7,0,2680,1],
+"dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[7,0,2680,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2722],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2722,0],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[7,0,2722,2],
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[7,0,2722,1],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html":[7,0,3619],
@@ -245,9 +249,5 @@ var NAVTREEINDEX359 =
 "dd/dd6/classcharacter__commandscript.html#a5b3dbfc264d1f5b964c466ce8deb2092":[7,0,871,17],
 "dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61":[7,0,871,25],
 "dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[7,0,871,11],
-"dd/dd6/classcharacter__commandscript.html#a7f6eb67fff48f6a4596cc1f511dead55":[7,0,871,10],
-"dd/dd6/classcharacter__commandscript.html#a8658d515f4a760f41019cb59b6278ac0":[7,0,871,12],
-"dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361":[7,0,871,7],
-"dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45":[7,0,871,28],
-"dd/dd6/classcharacter__commandscript.html#aacb45e7e90071908d2029ed2a11bef35":[7,0,871,23]
+"dd/dd6/classcharacter__commandscript.html#a7f6eb67fff48f6a4596cc1f511dead55":[7,0,871,10]
 };

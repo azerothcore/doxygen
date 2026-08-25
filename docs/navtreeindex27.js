@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/classSpell.html#ae98f311ace07d1cb60074ea1a9e91cc8":[7,0,2632,266],
 "d1/d16/classSpell.html#ae9bfc0cb635c05a6868d232c020d01ed":[7,0,2632,5],
 "d1/d16/classSpell.html#aea283b771e17de65ccf1a7a36da54615":[7,0,2632,317],
 "d1/d16/classSpell.html#aecb2b2a5f569bd67fd97bc349250e5f5":[7,0,2632,348],
@@ -65,18 +66,18 @@ var NAVTREEINDEX27 =
 "d1/d17/ByteBuffer_8h.html":[8,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[8,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[8,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[7,0,0,112,4],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
 "d1/d17/classArenaSeasonMgr.html":[7,0,191],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a57cf874e315f0f9686b684151c37e740":[7,0,1393,0,16],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a5cb0702b7cad42f0760d360dfc3345f3":[7,0,1393,0,9],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a654947f2b1dce457f56327e7dff8ccf4":[7,0,1393,0,6],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a7381d84943028f66b339168724b467b8":[7,0,1393,0,12],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a79b3f358115fecb63e1cfb45801fdffb":[7,0,1393,0,11]
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a7381d84943028f66b339168724b467b8":[7,0,1393,0,12]
 };

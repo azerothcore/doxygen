@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab272e3fe4edd5b0f25024c9da85e83a2":[8,0,0,0,1,2,16,10,6,20,27],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab2b451f25e46a585909fe486fed58455":[8,0,0,0,1,2,16,10,6,20,37],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab8cffa5c4c0fe73c83358a50e733c202":[8,0,0,0,1,2,16,10,6,20,32],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544abba4f3d73cd61dfacf1b99a452039031":[8,0,0,0,1,2,16,10,6,20,25],
@@ -127,16 +128,16 @@ var NAVTREEINDEX220 =
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,0,58],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,0,58,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[7,0,0,46,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[7,0,0,46,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,0,58,1],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[7,0,0,46,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[7,0,0,46,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,0,58,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[7,0,0,46,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,0,58,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[7,0,0,46,3],
-"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[7,0,0,46,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,0,58,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[7,0,0,46,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[7,0,0,46,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,0,58,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[7,0,0,46,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html":[8,0,0,0,1,3,7,2,0,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[8,0,0,0,1,3,7,2,0,5,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,2,0,5,4],
@@ -173,10 +174,10 @@ var NAVTREEINDEX220 =
 "d7/dfb/classspell__gen__flurry__of__claws.html#a5fdf44f34765d0386d5c5490620c944a":[7,0,3069,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[7,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,0,7,0,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[7,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[7,0,0,4,0,2,1],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[7,0,0,4,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[8,0,0,0,0,3,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d02/classspell__teron__gorefiend__shadowy__construct.html#a647f21e79e3fef72cf84439fc84e708f":[7,0,4206,3],
 "d8/d02/classspell__teron__gorefiend__shadowy__construct.html#aff0dbed165d0e751db725f7eaaf76a11":[7,0,4206,0],
 "d8/d03/LootMgr_8cpp.html":[8,0,0,0,1,2,24,2],
-"d8/d03/LootMgr_8cpp.html#a08df83acd4a8d8591eebb3753e121fc7":[8,0,0,0,1,2,24,2,16],
-"d8/d03/LootMgr_8cpp.html#a09f7e96fb3b750f94e246759397e7546":[8,0,0,0,1,2,24,2,9]
+"d8/d03/LootMgr_8cpp.html#a08df83acd4a8d8591eebb3753e121fc7":[8,0,0,0,1,2,24,2,16]
 };

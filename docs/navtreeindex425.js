@@ -1,5 +1,9 @@
 var NAVTREEINDEX425 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a061f253140a631f9f50595426eec4bbc":[8,0,0,0,1,3,5,6,4,57,25],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0a9e8381d2d5c7958d0c9ba1b662f3b0":[8,0,0,0,1,3,5,6,4,57,7],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a14b2d2a857f743fe5aeeb1026b3821f6":[8,0,0,0,1,3,5,6,4,57,3],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d9d413d349a18814b717b8996ce6315":[8,0,0,0,1,3,5,6,4,57,11],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a24da4196a9be71cd2781f9bccea1d89f":[8,0,0,0,1,3,5,6,4,57,29],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a25a5a53c9d058cd0aad716d8aa1c1383":[8,0,0,0,1,3,5,6,4,57,8],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3052aa4a7f17d77561be9df21799ce79":[8,0,0,0,1,3,5,6,4,57,28],
@@ -245,9 +249,5 @@ var NAVTREEINDEX425 =
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a122582c974aa1e68638ea196ea2f6771":[7,0,742,0,10],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[7,0,742,0,4],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a16771a7a854f85dcc26e3510d31454af":[7,0,742,0,6],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a18dd6a61746effdf03cd0afbadd8a368":[7,0,742,0,9],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1a5eccca2b8c898ae0ed8ce6007fe0b9":[7,0,742,0,1],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a2c21b7023f7396566f7486591a653079":[7,0,742,0,12],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a3587b09a23d7aad81effd14bbda03291":[7,0,742,0,15],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a3b95513bd72806a928c0f57cf6ceb45a":[7,0,742,0,2]
+"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a18dd6a61746effdf03cd0afbadd8a368":[7,0,742,0,9]
 };

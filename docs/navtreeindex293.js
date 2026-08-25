@@ -1,5 +1,9 @@
 var NAVTREEINDEX293 =
 {
+"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[7,0,1548,1],
+"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[7,0,1548,0],
+"db/d50/classspell__halion__twilight__phasing__aura.html":[7,0,3206],
+"db/d50/classspell__halion__twilight__phasing__aura.html#a2e4fa91ed7b3270a1addb8e5b3a85d74":[7,0,3206,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a53c56711e31500f827123c08f44072cb":[7,0,3206,3],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a781994b0be4588f4df29399fc900ec69":[7,0,3206,1],
 "db/d50/classspell__halion__twilight__phasing__aura.html#aee648b80e7352edffb20fd60697e1d88":[7,0,3206,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX293 =
 "db/d5a/classnpc__sinkhole__kill__credit.html#a627d01aaaa3408986f2b4d171624e680":[7,0,2167,1],
 "db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html":[7,0,2431,0],
 "db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[7,0,2431,0,0],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a5efaf8479d7afb8c24e7f3389ad9c8cf":[7,0,2431,0,1],
-"db/d5c/BattlegroundAV_8cpp.html":[8,0,0,0,1,2,8,1,2],
-"db/d5c/classWarden.html":[7,0,4653],
-"db/d5c/classWarden.html#a00480a14958d2b3cffd2c29be090894e":[7,0,4653,8],
-"db/d5c/classWarden.html#a03da361299bfb94003f9cfd2bd751f73":[7,0,4653,0]
+"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a5efaf8479d7afb8c24e7f3389ad9c8cf":[7,0,2431,0,1]
 };

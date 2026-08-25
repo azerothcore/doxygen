@@ -1,5 +1,6 @@
 var NAVTREEINDEX197 =
 {
+"d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[7,0,621,5],
 "d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[7,0,621,2],
 "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[7,0,621,7],
 "d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[7,0,621,6],
@@ -157,10 +158,10 @@ var NAVTREEINDEX197 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[8,0,0,0,1,3,2,1,0,1,6,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[8,0,0,0,1,3,2,1,0,1,6,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[8,0,0,0,1,3,2,1,0,1,6,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[7,0,13,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[7,0,13,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d29/classProducerConsumerQueue.html#a54223137936cfa679327d01313adfa01":[7,0,2489,10],
 "d7/d29/classProducerConsumerQueue.html#a5fc3a20c094041e2da999c4b37d735f0":[7,0,2489,12],
 "d7/d29/classProducerConsumerQueue.html#a79b3575e4e25204841ad6b2ca43b0b38":[7,0,2489,0],
-"d7/d29/classProducerConsumerQueue.html#a7e9de516e77945411ad4f8bfa161489d":[7,0,2489,1],
-"d7/d29/classProducerConsumerQueue.html#a994ad012dfe4e9cd4d76d8eb9270f0d2":[7,0,2489,14]
+"d7/d29/classProducerConsumerQueue.html#a7e9de516e77945411ad4f8bfa161489d":[7,0,2489,1]
 };

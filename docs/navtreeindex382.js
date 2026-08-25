@@ -1,5 +1,9 @@
 var NAVTREEINDEX382 =
 {
+"de/d33/structboss__bronjahm.html#a44666a47b298efe48c4e86b8677d9845":[7,0,421,0],
+"de/d33/structboss__bronjahm.html#a47c7a8a8413b139cf2d217d33f39aa3d":[7,0,421,6],
+"de/d33/structboss__bronjahm.html#a5d515921e780974e2a70937ada8b232d":[7,0,421,2],
+"de/d33/structboss__bronjahm.html#a6d60b720210a9f196b1c006b557e7d25":[7,0,421,10],
 "de/d33/structboss__bronjahm.html#a767d4a601d7f912cd71823a51b31af1f":[7,0,421,4],
 "de/d33/structboss__bronjahm.html#aaaf64571ce6a542be93c6efe105278e8":[7,0,421,7],
 "de/d33/structboss__bronjahm.html#ab89333e2ee43ad384bdc71ac6f83c92e":[7,0,421,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX382 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[7,0,2216,0,11],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ad0ea32cef7b5fa79e980bc804fd0f22e":[7,0,2216,0,19],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ae764b73931eb22712fc4e22e0c15a080":[7,0,2216,0,27],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[7,0,2216,0,6],
-"de/d3c/structPoolTemplateItem.html":[7,0,2466],
-"de/d3c/structPoolTemplateItem.html#a20ae19fc80deceb81adccb91b341fb82":[7,0,2466,0],
-"de/d3c/structPoolTemplateItem.html#ae8b951678ec65907370ffe700cd668c8":[7,0,2466,1],
-"de/d3c/structTriggeredByAuraSpellData.html":[7,0,4600]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#afe5a4958d703cd9767f6b4051f3b0db2":[7,0,2216,0,6]
 };

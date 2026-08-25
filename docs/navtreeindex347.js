@@ -1,6 +1,10 @@
 var NAVTREEINDEX347 =
 {
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[7,0,13,4,0,3],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[7,0,13,4,0,4],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[5,0,34,4,0,4],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[5,0,34,4,0,0],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[7,0,13,4,0,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ae2143b20488064400c306004ee678a89":[5,0,34,4,0,1],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ae2143b20488064400c306004ee678a89":[7,0,13,4,0,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[7,0,13,8,2],
@@ -9,8 +13,8 @@ var NAVTREEINDEX347 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[7,0,13,8,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[7,0,13,8,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,34,8,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[7,0,13,8,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,34,8,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,34,8,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[7,0,13,8,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,34,8,2,2],
@@ -22,12 +26,12 @@ var NAVTREEINDEX347 =
 "dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[7,0,2962,3],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[7,0,13,7,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[7,0,13,7,0,2],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[7,0,13,7,0,0],
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[7,0,13,7,0,1],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4c/TemporarySummon_8cpp.html":[8,0,0,0,1,2,16,1,8],
 "dd/d4c/structnpc__rocknot.html":[7,0,2137],
 "dd/d4c/structnpc__rocknot.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2137,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d59/classServerMailMgr.html#a1a01dd7a8e5c45bc7c97203e4a04a768":[7,0,2585,6],
 "dd/d59/classServerMailMgr.html#a2e7a8cdc7ebdb51204823fd30a0449b3":[7,0,2585,2],
 "dd/d59/classServerMailMgr.html#a49aea924f27804d21fbe06e72e159df3":[7,0,2585,8],
-"dd/d59/classServerMailMgr.html#a57f8aea4b5bb15ff77b9ebd8e65e8092":[7,0,2585,4],
-"dd/d59/classServerMailMgr.html#a6bb75bdb34a25dd01fdc7e81b4e9b897":[7,0,2585,7],
-"dd/d59/classServerMailMgr.html#a85c3556138304b75ad3dec0014e56def":[7,0,2585,9],
-"dd/d59/classServerMailMgr.html#a96ae3a78694ca97d112c5d92884f2415":[7,0,2585,10],
-"dd/d59/classServerMailMgr.html#abc85cb07f717384fac09f4e2b0f59af1":[7,0,2585,5]
+"dd/d59/classServerMailMgr.html#a57f8aea4b5bb15ff77b9ebd8e65e8092":[7,0,2585,4]
 };

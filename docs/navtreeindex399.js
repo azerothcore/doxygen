@@ -1,5 +1,9 @@
 var NAVTREEINDEX399 =
 {
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af419b383d681d359cf16b9ec1488ade9":[8,0,0,0,1,3,5,6,9,42,4],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[8,0,0,0,1,3,5,6,9,40],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34":[8,0,0,0,1,3,5,6,9,40,0],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[8,0,0,0,1,3,5,6,9,40,3],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[8,0,0,0,1,3,5,6,9,40,2],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[8,0,0,0,1,3,5,6,9,40,1],
 "de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44],
@@ -245,9 +249,5 @@ var NAVTREEINDEX399 =
 "de/df1/structboss__ionar.html#a323da67c3ff33d09d07cf0369600a473":[7,0,567,0],
 "de/df1/structboss__ionar.html#a6ec30b8222b887ff51c8f41b8a9bdeef":[7,0,567,7],
 "de/df1/structboss__ionar.html#a85c0ba28de5a684435246539d2106dcd":[7,0,567,6],
-"de/df1/structboss__ionar.html#a8caea41ed747f86ae5d1437be1e95f8d":[7,0,567,1],
-"de/df1/structboss__ionar.html#ac37b88ca61994d12f731e50b5ddbbb0f":[7,0,567,4],
-"de/df1/structboss__ionar.html#ad6fb218e743bad9fec357ea7d862744d":[7,0,567,8],
-"de/df1/structboss__ionar.html#ae6b1225147bc146066185d4d21c19f14":[7,0,567,3],
-"de/df1/structboss__ionar.html#af74dda7ad9cd156036689694b3bb9986":[7,0,567,5]
+"de/df1/structboss__ionar.html#a8caea41ed747f86ae5d1437be1e95f8d":[7,0,567,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX409 =
 {
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa268004c1eedf086ae8345e0ba10e2ca":[7,0,2167,0,6],
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#aa45455a8d540d6f942c948cf56d11f05":[7,0,2167,0,5],
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[7,0,2167,0,0],
+"df/d4e/WaypointDefines_8h.html":[8,0,0,0,1,2,31,2,0],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863":[8,0,0,0,1,2,31,2,0,2],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[8,0,0,0,1,2,31,2,0,2,1],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[8,0,0,0,1,2,31,2,0,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX409 =
 "df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[8,0,0,0,1,1,0,16,5],
 "df/d5b/classinstance__stratholme.html":[7,0,1374],
 "df/d5b/classinstance__stratholme.html#a3d3d2e773029dd1c4bc1a59a94c4e015":[7,0,1374,2],
-"df/d5b/classinstance__stratholme.html#a42ac504b2790af8c37a44e87fbd9c6c1":[7,0,1374,1],
-"df/d5b/structQuestVisitor.html":[7,0,2517],
-"df/d5b/structQuestVisitor.html#a4e13ed545328e052481a0379e7f027a5":[7,0,2517,2],
-"df/d5b/structQuestVisitor.html#a864f3c2f78b80dbc4b65dffb0d38ab55":[7,0,2517,1],
-"df/d5b/structQuestVisitor.html#aea5c629ecdcd9c2bfc1253ef8e775c3a":[7,0,2517,0]
+"df/d5b/classinstance__stratholme.html#a42ac504b2790af8c37a44e87fbd9c6c1":[7,0,1374,1]
 };

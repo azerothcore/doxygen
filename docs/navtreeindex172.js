@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d13/classspell__rog__glyph__of__backstab.html#aab998e808ec9f53e87d92e71b3cc1c30":[7,0,4026,2],
 "d6/d13/structServerPktHeader.html":[7,0,2588],
 "d6/d13/structServerPktHeader.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2":[7,0,2588,2],
 "d6/d13/structServerPktHeader.html#a5d5cf573cebe47a10e3f17b840c7a4e1":[7,0,2588,4],
@@ -141,8 +142,8 @@ var NAVTREEINDEX172 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[7,0,1382,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[7,0,13,6,42,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d1a/classOutdoorPvPEP.html#a251b154abfaec9cbfb1a56e657ac5214":[7,0,2384,4],
 "d6/d1a/classOutdoorPvPEP.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1":[7,0,2384,11],
 "d6/d1a/classOutdoorPvPEP.html#a7e8fcf50f88bdb56b189877721a1f006":[7,0,2384,9],
-"d6/d1a/classOutdoorPvPEP.html#a974910b2f7f2d8cfaf43b6694bf4c2c7":[7,0,2384,8],
-"d6/d1a/classOutdoorPvPEP.html#a9e7404160b1220dc3cc2766a07f42ad2":[7,0,2384,3]
+"d6/d1a/classOutdoorPvPEP.html#a974910b2f7f2d8cfaf43b6694bf4c2c7":[7,0,2384,8]
 };

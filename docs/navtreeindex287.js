@@ -1,5 +1,9 @@
 var NAVTREEINDEX287 =
 {
+"da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[7,0,4379,1],
+"da/df6/classspell__warr__mocking__blow.html#ab21c47d1918a9e29ebe7b041421deaf7":[7,0,4379,2],
+"da/df7/TradeData_8cpp.html":[8,0,0,0,1,2,16,7,19],
+"da/df7/classspell__dk__glyph__of__scourge__strike__script.html":[7,0,2833],
 "da/df7/classspell__dk__glyph__of__scourge__strike__script.html#a5019887a078af86682eea3974bacf6dc":[7,0,2833,2],
 "da/df7/classspell__dk__glyph__of__scourge__strike__script.html#a653061d36c204fbd0d2dc1f983864bf1":[7,0,2833,1],
 "da/df7/classspell__dk__glyph__of__scourge__strike__script.html#ad9863535a38094779e765fe65450ce55":[7,0,2833,0],
@@ -214,8 +218,8 @@ var NAVTREEINDEX287 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[8,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[8,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[8,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX287 =
 "db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,1,0,1,3],
 "db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[8,0,0,0,1,3,5,1,0,1,2],
 "db/d08/classspell__hun__piercing__shots.html":[7,0,3267],
-"db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[7,0,3267,3],
-"db/d08/classspell__hun__piercing__shots.html#a269711969d98851c8275e3f44a706b97":[7,0,3267,4],
-"db/d08/classspell__hun__piercing__shots.html#a4ac70c7765266f36b7689ffcc2bed15d":[7,0,3267,1],
-"db/d08/classspell__hun__piercing__shots.html#a86e6da13f7162318e5c0a7c6f89c69c2":[7,0,3267,0],
-"db/d08/classspell__hun__piercing__shots.html#acc41c53bf96695dc8cc43ccaf08e4125":[7,0,3267,2]
+"db/d08/classspell__hun__piercing__shots.html#a1dcd66a66f7b069fede39b57f0abbb56":[7,0,3267,3]
 };

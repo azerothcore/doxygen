@@ -1,5 +1,6 @@
 var NAVTREEINDEX196 =
 {
+"d7/d16/classspell__call__wintergarde__gryphon.html#a431a556ab73f91ed63f5983e537834a5":[7,0,2752,3],
 "d7/d16/classspell__call__wintergarde__gryphon.html#aa0b9873dbd8c75a14fa88094d91eeeaa":[7,0,2752,1],
 "d7/d16/classspell__call__wintergarde__gryphon.html#aa0fad5e5a68131ebab5717ad0ce69669":[7,0,2752,2],
 "d7/d17/classspell__dreamwalker__decay__periodic__timer__aura.html":[7,0,2877],
@@ -85,12 +86,12 @@ var NAVTREEINDEX196 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[7,0,2308,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[7,0,2308,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[7,0,2308,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d22/structboss__lavanthor.html#ad264818ef0f539c48160de9dbebeac7f":[7,0,607,0],
 "d7/d22/structboss__lavanthor.html#aee499fcde639aaca7131dba9cca1d4d0":[7,0,607,1],
 "d7/d23/structboss__magus__telestra.html":[7,0,621],
-"d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[7,0,621,10],
-"d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[7,0,621,5]
+"d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[7,0,621,10]
 };
