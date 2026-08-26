@@ -42,7 +42,6 @@ var ulduar_8cpp =
       [ "NPC_SNOW_MOUND_8", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512", null ]
     ] ],
     [ "UldSpells", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53", [
-      [ "SPELL_SIMPLE_TELEPORT", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8", null ],
       [ "SPELL_KEEPER_TELEPORT", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef", null ],
       [ "SPELL_SNOW_MOUND_PARTICLES", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3", null ],
       [ "SPELL_ENERGY_SAP_10", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4", null ],

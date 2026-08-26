@@ -1,8 +1,5 @@
 var NAVTREEINDEX58 =
 {
-"d2/d42/structAuctionSearchAdd.html#a48e000b0e7d9411676fd2ccacf283163":[7,0,279,1],
-"d2/d43/classMovementHandlerScript.html":[7,0,1575],
-"d2/d43/classMovementHandlerScript.html#ac1604e58c8ecab26ce4159fb43a86a68":[7,0,1575,1],
 "d2/d43/classMovementHandlerScript.html#aec794d21148c9ed382d80b6c30a676cd":[7,0,1575,0],
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html":[7,0,2707],
 "d2/d43/classspell__black__temple__wyvern__sting__aura.html#a070e0dacb457d7dc0bd61594f0ed6d83":[7,0,2707,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a0a4dc5dbc656abdc90695b8dd643f1c7":[7,0,2431,179],
 "d2/d4b/classPlayer.html#a0a8049df86707056ac7d376363e8a3da":[7,0,2431,427],
 "d2/d4b/classPlayer.html#a0a8d74504a10a162c77d4a64d652a1b5":[7,0,2431,1016],
-"d2/d4b/classPlayer.html#a0a99317d06564e3f8f01eb89d687f1d5":[7,0,2431,15]
+"d2/d4b/classPlayer.html#a0a99317d06564e3f8f01eb89d687f1d5":[7,0,2431,15],
+"d2/d4b/classPlayer.html#a0a9c9c9ab73ea5b8bb1a90ff0f4dd7c8":[7,0,2431,912],
+"d2/d4b/classPlayer.html#a0ab8c6866d862a91fe46fb1ef3bca46f":[7,0,2431,77],
+"d2/d4b/classPlayer.html#a0ad9674569d0a59d4006221028a4bbe4":[7,0,2431,203]
 };

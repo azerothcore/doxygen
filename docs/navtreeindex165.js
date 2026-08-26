@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/classspell__apothecary__throw__cologne.html#a503ce41357f8195837c9b14f2468fb5b":[7,0,2658,3],
 "d5/dd6/classspell__apothecary__throw__cologne.html#acbff60b24bd0239880378b48cb97b6a4":[7,0,2658,0],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html":[7,0,4091],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a2db04d2d4af16e34cb69b71dbcd0c066":[7,0,4091,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af574a4b136ff42c597e30c83e4d463ca":[7,0,2224,0,12],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af5fd69b799c6227dba901f434e30c434":[7,0,2224,0,8],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#afb398bda1d6ee4d35527208e6c5bffee":[7,0,2224,0,4],
-"d5/de6/class__SpellScript_1_1EffectNameCheck.html":[7,0,18,2],
-"d5/de6/class__SpellScript_1_1EffectNameCheck.html#a31e545b0ae22cad4be815ea9e3b44377":[7,0,18,2,2]
+"d5/de6/class__SpellScript_1_1EffectNameCheck.html":[7,0,18,2]
 };

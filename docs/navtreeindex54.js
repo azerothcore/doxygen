@@ -1,8 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d22/boss__chess__event_8cpp.html#ac8fad6c2a1b96f0fad3a0b70b59b134a":[8,0,0,0,1,3,2,4,0,13],
-"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cff":[8,0,0,0,1,3,2,4,0,10],
-"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa0404f0380d45b0585b17dc08556b768b":[8,0,0,0,1,3,2,4,0,10,4],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa0b75a9d3f7e5f605adcf9701c914accd":[8,0,0,0,1,3,2,4,0,10,20],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa1ff426216096a91ca8fd563d250a6cab":[8,0,0,0,1,3,2,4,0,10,6],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa267f1511a952094f60889f8ecec5634b":[8,0,0,0,1,3,2,4,0,10,11],
@@ -37,8 +34,8 @@ var NAVTREEINDEX54 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3832,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1360,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[7,0,1360,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[7,0,1360,0,7],
@@ -249,5 +246,8 @@ var NAVTREEINDEX54 =
 "d2/d27/classspell__dru__omen__of__clarity.html#a5a3006bb5d54d68b8eb529a8c680c5c0":[7,0,2917,4],
 "d2/d27/classspell__dru__omen__of__clarity.html#a726af9faf0170050f662cb1cc99e6ec8":[7,0,2917,1],
 "d2/d27/classspell__warr__deep__wounds.html":[7,0,4365],
-"d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[7,0,4365,2]
+"d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[7,0,4365,2],
+"d2/d27/classspell__warr__deep__wounds.html#a42ff645d6c8e94353ae118327af5f4e6":[7,0,4365,1],
+"d2/d27/classspell__warr__deep__wounds.html#a436ed0843e0035308c69f0854decd7f2":[7,0,4365,0],
+"d2/d27/classspell__warr__deep__wounds.html#a93e68d77227297883aae472ef08fb67c":[7,0,4365,3]
 };

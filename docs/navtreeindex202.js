@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d5a/classachievement__arena__by__type.html":[7,0,36],
 "d7/d5a/classachievement__arena__by__type.html#a2042c808304e8ddf1849820491b9f1a3":[7,0,36,0],
 "d7/d5a/classachievement__arena__by__type.html#a5c38e5fef5eaf3d037864ba2aa80584a":[7,0,36,2],
 "d7/d5a/classachievement__arena__by__type.html#abebdbf19fbf1b79c30114a9cf4ff98a4":[7,0,36,1],
@@ -148,8 +149,8 @@ var NAVTREEINDEX202 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1065,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[8,0,0,0,1,3,2,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d66/structboss__shade__of__aran.html#a93bec133a8a1ba41aa9eb86ff19e5eca":[7,0,710,15],
 "d7/d66/structboss__shade__of__aran.html#ac79c249652f1de37b0c7d31a86dd0e51":[7,0,710,4],
 "d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2":[7,0,710,6],
-"d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[7,0,710,9],
-"d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4":[7,0,710,10]
+"d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda":[7,0,710,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d6/dc8/classspell__item__essence__of__life.html#a8158e7338b29b072f0c851771d0e8eee":[7,0,3398,0],
 "d6/dc8/classspell__item__essence__of__life.html#ae24336f87db322e546bd858bc50f2351":[7,0,3398,2],
 "d6/dc8/classspell__silithyst.html":[7,0,4147],
 "d6/dc8/classspell__silithyst.html#a54bcd84599d6e5a6d7f538e2b40b890b":[7,0,4147,1],
@@ -143,8 +144,8 @@ var NAVTREEINDEX190 =
 "d6/dcc/classspell__warr__intimidating__shout.html#a2fab1592d19331239b1ef63045389886":[7,0,4376,2],
 "d6/dcc/classspell__warr__intimidating__shout.html#a6224b3193474f569d09edaf29b40c2fb":[7,0,4376,0],
 "d6/dcc/classspell__warr__intimidating__shout.html#ad7478a1a70ebc52eda1c57dd4f143b67":[7,0,4376,1],
-"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,34,26],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[7,0,13,26],
+"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,34,26],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[7,0,13,26,0],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,34,26,0],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html":[7,0,2664],
@@ -161,14 +162,14 @@ var NAVTREEINDEX190 =
 "d6/dcd/classspell__the__cleansing__shrine__cast.html#aa3153a940a762a7ee09e7c62b6b61053":[7,0,4221,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[7,0,13,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,34,6,28],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[7,0,13,6,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,34,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[7,0,13,6,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,34,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[7,0,13,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,34,6,28,3],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[7,0,13,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,34,6,28,4],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[7,0,13,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,34,6,28,1],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[7,0,13,6,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[7,0,3261],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d6/dd4/structboss__sacrolash.html#a248d37df91c82069321fc5ea8b1e885d":[7,0,696,8],
 "d6/dd4/structboss__sacrolash.html#a4d99da498db0e5a60c7c25fcb91e5270":[7,0,696,6],
 "d6/dd4/structboss__sacrolash.html#a6e251340b2ba8a8300611cf229b93095":[7,0,696,0],
-"d6/dd4/structboss__sacrolash.html#a822576bf8588d4e45f1532e1980cc7c7":[7,0,696,4],
-"d6/dd4/structboss__sacrolash.html#a94214bc45414f61ff53102d6136b7b5c":[7,0,696,5]
+"d6/dd4/structboss__sacrolash.html#a822576bf8588d4e45f1532e1980cc7c7":[7,0,696,4]
 };

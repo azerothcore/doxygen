@@ -1,5 +1,16 @@
 var NAVTREEINDEX237 =
 {
+"d8/dcb/halls__of__lightning_8h.html#abc0f895e75d83443d4864eac025f5ccf":[8,0,0,0,1,3,5,9,0,4,2],
+"d8/dcb/halls__of__lightning_8h.html#ae17388a1ba919f74b2068aafe1637537":[8,0,0,0,1,3,5,9,0,4,8],
+"d8/dcc/namespacestd.html":[5,0,29],
+"d8/dcc/structPlayerSetting.html":[7,0,2449],
+"d8/dcc/structPlayerSetting.html#a1e81343732cd86cdf9974a1d96b73ba7":[7,0,2449,2],
+"d8/dcc/structPlayerSetting.html#a3621021d9c0c41c08b6300cd5dfcaf71":[7,0,2449,4],
+"d8/dcc/structPlayerSetting.html#a4ca3645233a466345d6be217d7a0df2b":[7,0,2449,5],
+"d8/dcc/structPlayerSetting.html#a74592e45f8ae4c5f411a982227f809f3":[7,0,2449,6],
+"d8/dcc/structPlayerSetting.html#a77d1fb11aa0039bbdae3ccc523f391ea":[7,0,2449,0],
+"d8/dcc/structPlayerSetting.html#a93a30a0d6104bdda8fd9b5778179a353":[7,0,2449,1],
+"d8/dcc/structPlayerSetting.html#af6e3149ff40b6b4ea2310b5c3254fce0":[7,0,2449,3],
 "d8/dcd/AbstractFollower_8h.html":[8,0,0,0,1,2,31,4],
 "d8/dcd/classPassiveAI.html":[7,0,2409],
 "d8/dcd/classPassiveAI.html#a2960223799a5b3baedbdd7e664604865":[7,0,2409,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dd6/Formulas_8h.html#ada8e56c81ab672d85f2ff274d109e477":[8,0,0,0,1,2,28,1,0],
 "d8/dd6/PlayerStorage_8cpp.html":[8,0,0,0,1,2,16,7,11],
 "d8/dd6/classnpc__hidden__cultist.html":[7,0,1881],
-"d8/dd6/classnpc__hidden__cultist.html#a4897006d9416f1177b0bc0e41df60293":[7,0,1881,2],
-"d8/dd6/classnpc__hidden__cultist.html#ab455b35fea966360e01fb8975adad989":[7,0,1881,1],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html":[7,0,2144,0],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a2ed920f949c4d8dbc6d6ff5b9149e749":[7,0,2144,0,3],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a45201c4a5b94fad948efe1d08e63e262":[7,0,2144,0,1],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a793d72078bd68b34fcdb7cd6587295dd":[7,0,2144,0,4],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a7f012a54ebce5307940eb7957f028d52":[7,0,2144,0,2],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a8436a87576c92ecc0b45106683d20e93":[7,0,2144,0,0],
-"d8/dd7/classMarkOfNatureTargetSelector.html":[7,0,1537],
-"d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[7,0,1537,1],
-"d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[7,0,1537,0],
-"d8/dd7/classspell__gen__burn__brutallus.html":[7,0,3032]
+"d8/dd6/classnpc__hidden__cultist.html#a4897006d9416f1177b0bc0e41df60293":[7,0,1881,2]
 };

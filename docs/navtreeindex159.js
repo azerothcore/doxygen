@@ -1,8 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,12,8,13,3],
-"d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97":[8,0,0,0,1,3,5,12,8,13,0],
-"d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,5,12,8,13,1],
 "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,5,12,8,13,2],
 "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50":[8,0,0,0,1,3,5,12,8,15],
 "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,12,8,15,0],
@@ -94,12 +91,12 @@ var NAVTREEINDEX159 =
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[5,0,0,45],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[8,0,0,0,1,2,44,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[8,0,0,0,1,2,44,1,10],
@@ -249,5 +246,8 @@ var NAVTREEINDEX159 =
 "d5/da7/classreset__commandscript.html#a831ccdc042337fb279bea03aeba51cbe":[7,0,2545,19],
 "d5/da7/classreset__commandscript.html#a8f622cd5602b05506186e6197eae9f6c":[7,0,2545,10],
 "d5/da7/classreset__commandscript.html#a948b9bfb26cb728ef75ac465db1f2d93":[7,0,2545,23],
-"d5/da7/classreset__commandscript.html#a95f99a6670c3cfecfd4d762c4fb229f2":[7,0,2545,12]
+"d5/da7/classreset__commandscript.html#a95f99a6670c3cfecfd4d762c4fb229f2":[7,0,2545,12],
+"d5/da7/classreset__commandscript.html#a99b70e6826b373fbd0124a4da9b1b9b5":[7,0,2545,25],
+"d5/da7/classreset__commandscript.html#a99bbf26ae77112821fa951010dd5d32b":[7,0,2545,0],
+"d5/da7/classreset__commandscript.html#a9b9159122e066644cddad3b19f692736":[7,0,2545,16]
 };

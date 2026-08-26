@@ -1,5 +1,16 @@
 var NAVTREEINDEX253 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[8,0,0,0,1,3,5,9,2,1,11,5],
+"d9/d88/classspell__pal__sheath__of__light.html":[7,0,3790],
+"d9/d88/classspell__pal__sheath__of__light.html#a0cdb80ee885922a9a38c0e2bea4d33af":[7,0,3790,4],
+"d9/d88/classspell__pal__sheath__of__light.html#a14978c8908b7a928459c2f6ef9adfac2":[7,0,3790,0],
+"d9/d88/classspell__pal__sheath__of__light.html#ab63e1f31dbc34dd2f44a6771631a2330":[7,0,3790,2],
+"d9/d88/classspell__pal__sheath__of__light.html#ac888d49403a03aaf9a37432c3c119241":[7,0,3790,1],
+"d9/d88/classspell__pal__sheath__of__light.html#ad88268da8fae421f76a5e644aae6b296":[7,0,3790,3],
+"d9/d88/structCreatureTypeEntry.html":[7,0,970],
+"d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[7,0,970,0],
+"d9/d89/classspellIdImmunityPredicate.html":[7,0,4465],
+"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[7,0,4465,0],
 "d9/d89/classspellIdImmunityPredicate.html#a125dfe727d668b5b9820adf1f7f0e0a8":[7,0,4465,2],
 "d9/d89/classspellIdImmunityPredicate.html#ae97afff7a6b3ea5dca917d3dbb9ef818":[7,0,4465,1],
 "d9/d89/classspell__rotface__unstable__ooze__explosion.html":[7,0,4055],
@@ -238,16 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d98/structboss__magtheridon.html#a2871d60efe88d3901bad9a4c5249fcfb":[7,0,620,9],
 "d9/d98/structboss__magtheridon.html#a3015fd8503a0da84e7b78c551587f8a3":[7,0,620,1],
 "d9/d98/structboss__magtheridon.html#a3d718a101047cd90448577ee520adf5e":[7,0,620,0],
-"d9/d98/structboss__magtheridon.html#a42aa45e199f76f567bc7a677f3d3aedf":[7,0,620,4],
-"d9/d98/structboss__magtheridon.html#a656e9595b30d014c54cc456d7f81f657":[7,0,620,7],
-"d9/d98/structboss__magtheridon.html#a6dd4891771771acf5456a129113e864e":[7,0,620,11],
-"d9/d98/structboss__magtheridon.html#a93fb4d888ebd6273bca0a128c8303996":[7,0,620,3],
-"d9/d98/structboss__magtheridon.html#aae56fde097d925bcf58be1d8e6bf50f4":[7,0,620,10],
-"d9/d98/structboss__magtheridon.html#ad1c95705a7018b4eb62cbee6f20fb65a":[7,0,620,8],
-"d9/d98/structboss__magtheridon.html#adca91ab2fbfe88cc79b19aaa4bff74cf":[7,0,620,2],
-"d9/d98/structboss__magtheridon.html#ae9b2f0929c2309e6bd57cc1241452d61":[7,0,620,6],
-"d9/d98/zulaman_8h.html":[8,0,0,0,1,3,2,14,8],
-"d9/d98/zulaman_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,14,8,0],
-"d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87":[8,0,0,0,1,3,2,14,8,6],
-"d9/d98/zulaman_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a1e58053c43ea495ecd1bfad82b605375":[8,0,0,0,1,3,2,14,8,6,3]
+"d9/d98/structboss__magtheridon.html#a42aa45e199f76f567bc7a677f3d3aedf":[7,0,620,4]
 };

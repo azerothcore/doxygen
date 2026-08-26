@@ -1,8 +1,5 @@
 var NAVTREEINDEX121 =
 {
-"d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184":[5,0,20,9,17],
-"d3/dfe/classMMAP_1_1TerrainBuilder.html#aecdd8a0ae2dab523925111197afe8835":[5,0,20,9,7],
-"d3/dfe/classMMAP_1_1TerrainBuilder.html#aecdd8a0ae2dab523925111197afe8835":[7,0,6,9,7],
 "d3/dfe/classMMAP_1_1TerrainBuilder.html#af47da985fc495b4a5fd8b32774e36b82":[5,0,20,9,11],
 "d3/dfe/classMMAP_1_1TerrainBuilder.html#af47da985fc495b4a5fd8b32774e36b82":[7,0,6,9,11],
 "d3/dfe/classspell__hun__intimidation.html":[7,0,3256],
@@ -70,16 +67,16 @@ var NAVTREEINDEX121 =
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html":[5,0,0,39],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a01b4592ac61d58ff39e5bb2eb1a1b997":[5,0,0,39,3],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a01b4592ac61d58ff39e5bb2eb1a1b997":[7,0,0,27,3],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[5,0,0,39,0],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[7,0,0,27,0],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[5,0,0,39,1],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[5,0,0,39,0],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[7,0,0,27,1],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[5,0,0,39,2],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[5,0,0,39,1],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[7,0,0,27,2],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[5,0,0,39,2],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[7,0,0,27,5],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[7,0,0,27,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[7,0,0,27,4],
 "d4/d02/structSmartEvent.html":[7,0,2613],
 "d4/d02/structSmartEvent.html#a01c1c375781eff47f24a4ce7459e72c1":[7,0,2613,63],
 "d4/d02/structSmartEvent.html#a03541d8d37d1ddb0e2c9cbd149c388b8":[7,0,2613,58],
@@ -249,5 +246,8 @@ var NAVTREEINDEX121 =
 "d4/d07/structSpellProcTestEntry.html#a74093101a8fe41b8bb641da9957d6ef2":[7,0,4501,17],
 "d4/d07/structSpellProcTestEntry.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1":[7,0,4501,21],
 "d4/d07/structSpellProcTestEntry.html#a8ae054e7700edebf204b6b9d5285b570":[7,0,4501,6],
-"d4/d07/structSpellProcTestEntry.html#a8b316b64763de61fabe8eee119a3c33b":[7,0,4501,15]
+"d4/d07/structSpellProcTestEntry.html#a8b316b64763de61fabe8eee119a3c33b":[7,0,4501,15],
+"d4/d07/structSpellProcTestEntry.html#a9e4e897bb784e63d991e76f8efd393ab":[7,0,4501,4],
+"d4/d07/structSpellProcTestEntry.html#aac7528939d9f28432649a5e947cb112b":[7,0,4501,11],
+"d4/d07/structSpellProcTestEntry.html#ab2356da98d2b2c9d250d1c86056a427c":[7,0,4501,20]
 };

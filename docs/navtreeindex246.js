@@ -1,5 +1,16 @@
 var NAVTREEINDEX246 =
 {
+"d9/d4d/classmisc__commandscript.html#a2efa08fa367c12e1ab4dad7c3cd12c4c":[7,0,1549,53],
+"d9/d4d/classmisc__commandscript.html#a30f3357c756005a431b2c14cac504d85":[7,0,1549,57],
+"d9/d4d/classmisc__commandscript.html#a359693465a7e6d3d3801172f015cbac9":[7,0,1549,45],
+"d9/d4d/classmisc__commandscript.html#a451aaca8aeba632f498b8d5b3e65936d":[7,0,1549,52],
+"d9/d4d/classmisc__commandscript.html#a4a51680a6d52c4f61e9a04bef2cb5ee3":[7,0,1549,54],
+"d9/d4d/classmisc__commandscript.html#a4d77ebd8451b181b500a4084a12775a1":[7,0,1549,9],
+"d9/d4d/classmisc__commandscript.html#a54c43e9d181f5b5bd06f229609264f64":[7,0,1549,38],
+"d9/d4d/classmisc__commandscript.html#a5712c979f5ffe069fa0a29b55b9f2772":[7,0,1549,8],
+"d9/d4d/classmisc__commandscript.html#a58cacccbb00f3cb6d71d5b084ad1771b":[7,0,1549,55],
+"d9/d4d/classmisc__commandscript.html#a592e80af21baa35581795350ab7ca976":[7,0,1549,14],
+"d9/d4d/classmisc__commandscript.html#a595d4e333cd2ac536317fee558bde24d":[7,0,1549,48],
 "d9/d4d/classmisc__commandscript.html#a5d6996cc2af57dd5abd6c9e9ca0cc044":[7,0,1549,36],
 "d9/d4d/classmisc__commandscript.html#a621e036c56caa93a63b27b1c317aa39c":[7,0,1549,1],
 "d9/d4d/classmisc__commandscript.html#a6f16f38e1a136fc1c64898837f500508":[7,0,1549,12],
@@ -238,16 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#adc08ca72736ceaa3372079114c6a5e01":[7,0,1384,0,0],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ade2cd2a0aba04b6c28c7daacf0b37ec3":[7,0,1384,0,15],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae17340753f10e9baf05d5c98f65ba3c4":[7,0,1384,0,12],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae2cbc875538c547ca6e6b9bf341c213d":[7,0,1384,0,10],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae8a167cd5926df74f408ca812900cd58":[7,0,1384,0,28],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aeb31455917e42eb8afe2a257a4340a3c":[7,0,1384,0,18],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aebb4773c1c7d8456e8570d98770917fb":[7,0,1384,0,33],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#af89006f67a014ea0c5574e8320d9ef23":[7,0,1384,0,35],
-"d9/d59/boss__vaelastrasz_8cpp.html":[8,0,0,0,1,3,2,1,2,8],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,1,2,8,4],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1a0679c966acb6fbb2bcc4507b1b95368a":[8,0,0,0,1,3,2,1,2,8,4,1],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1a11df6e5fae69ca5212a2fe4b803bae82":[8,0,0,0,1,3,2,1,2,8,4,2],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1a26f8245bbcdc38dda7c448f4a955f6a8":[8,0,0,0,1,3,2,1,2,8,4,4],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1a3d03dea9721c2cf1724ca82af4f4043a":[8,0,0,0,1,3,2,1,2,8,4,0],
-"d9/d59/boss__vaelastrasz_8cpp.html#a16774215bba3b38580ea51987d64cff1aef505a5a4d2de5282c436949300d156a":[8,0,0,0,1,3,2,1,2,8,4,3]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#ae2cbc875538c547ca6e6b9bf341c213d":[7,0,1384,0,10]
 };

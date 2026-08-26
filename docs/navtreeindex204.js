@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/d80/structCreatureBaseStats.html#adb28470cabe897215c3888e72d238ddf":[7,0,947,11],
 "d7/d81/MapTree_8cpp.html":[8,0,0,0,0,1,1,1],
 "d7/d81/classOPvPCapturePointEP__EWT.html":[7,0,2362],
 "d7/d81/classOPvPCapturePointEP__EWT.html#a0319f0d51624df44419976e7abd1b813":[7,0,2362,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d8f/structWardenInitModuleRequest.html#abe4fda2fc5578fe76b2d3370c479191e":[7,0,4658,2],
 "d7/d8f/structWardenInitModuleRequest.html#ac28c9edfa97a37d58ff2981edf9fe3cb":[7,0,4658,0],
 "d7/d8f/structWardenInitModuleRequest.html#ac9ad8e642e309dec3d30fa0da0525b4b":[7,0,4658,13],
-"d7/d8f/structWardenInitModuleRequest.html#ad77d736ef34332d7b92ca0c0d92148cb":[7,0,4658,19],
-"d7/d8f/structWardenInitModuleRequest.html#ad7bc62293d89cc9ab7d3311e1dc32697":[7,0,4658,21]
+"d7/d8f/structWardenInitModuleRequest.html#ad77d736ef34332d7b92ca0c0d92148cb":[7,0,4658,19]
 };

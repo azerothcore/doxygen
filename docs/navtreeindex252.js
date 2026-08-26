@@ -1,5 +1,16 @@
 var NAVTREEINDEX252 =
 {
+"d9/d83/AES_8h.html":[8,0,0,0,0,3,2],
+"d9/d83/structboss__freya__elder__stonebark.html":[7,0,496],
+"d9/d83/structboss__freya__elder__stonebark.html#a1a6b9897ffff95b29de351d02411f216":[7,0,496,1],
+"d9/d83/structboss__freya__elder__stonebark.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f":[7,0,496,2],
+"d9/d83/structboss__freya__elder__stonebark.html#a363a639d65fb746cca3410427f8a1e10":[7,0,496,3],
+"d9/d83/structboss__freya__elder__stonebark.html#a5d88a59b9c98981c3f7f049701fc76e3":[7,0,496,8],
+"d9/d83/structboss__freya__elder__stonebark.html#a913cd147d5a88189e183d817357946e3":[7,0,496,6],
+"d9/d83/structboss__freya__elder__stonebark.html#ac1edb11c975123a59bc4099acdefcd0f":[7,0,496,5],
+"d9/d83/structboss__freya__elder__stonebark.html#ad379afe772ff29d689bc763786d28793":[7,0,496,0],
+"d9/d83/structboss__freya__elder__stonebark.html#adc75d1735bc32fad8cad2abf4d8712fa":[7,0,496,7],
+"d9/d83/structboss__freya__elder__stonebark.html#ae10b5a8a477107432cbcc93c4da9c3ec":[7,0,496,4],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html":[7,0,1853,0],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a20d1087e59daae9189d78f04ea2b2d05":[7,0,1853,0,3],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a79f6703107eed52a3aeae30393507c0f":[7,0,1853,0,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ac53723233f464d1467e5b9b9a66dc668":[8,0,0,0,1,3,5,9,2,1,11,2],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ace47f30304fac10a2ca4b5b84b41d940":[8,0,0,0,1,3,5,9,2,1,11,13],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ad4b548d07dd6c22c83c4e35e9120d884":[8,0,0,0,1,3,5,9,2,1,11,0],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ae487e118e49537a7652f19dd68af9247":[8,0,0,0,1,3,5,9,2,1,11,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aeedecdc471dd1b5779b9b9290a95eeea":[8,0,0,0,1,3,5,9,2,1,11,5],
-"d9/d88/classspell__pal__sheath__of__light.html":[7,0,3790],
-"d9/d88/classspell__pal__sheath__of__light.html#a0cdb80ee885922a9a38c0e2bea4d33af":[7,0,3790,4],
-"d9/d88/classspell__pal__sheath__of__light.html#a14978c8908b7a928459c2f6ef9adfac2":[7,0,3790,0],
-"d9/d88/classspell__pal__sheath__of__light.html#ab63e1f31dbc34dd2f44a6771631a2330":[7,0,3790,2],
-"d9/d88/classspell__pal__sheath__of__light.html#ac888d49403a03aaf9a37432c3c119241":[7,0,3790,1],
-"d9/d88/classspell__pal__sheath__of__light.html#ad88268da8fae421f76a5e644aae6b296":[7,0,3790,3],
-"d9/d88/structCreatureTypeEntry.html":[7,0,970],
-"d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[7,0,970,0],
-"d9/d89/classspellIdImmunityPredicate.html":[7,0,4465],
-"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[7,0,4465,0]
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ae487e118e49537a7652f19dd68af9247":[8,0,0,0,1,3,5,9,2,1,11,1]
 };

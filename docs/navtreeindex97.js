@@ -1,8 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a835d4a5053557a32d48325b8ed8c35ec":[8,0,0,0,1,3,5,9,2,13,52,17],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8743fced78474c945d4d5b6cfd08137a":[8,0,0,0,1,3,5,9,2,13,52,89],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8746dea57df6d92475123fed0ad2a23e":[8,0,0,0,1,3,5,9,2,13,52,63],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a89a3415b4109023ec19d1ce4c988b0bd":[8,0,0,0,1,3,5,9,2,13,52,27],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8c43942afa45ca4dc86220f95fcaf973":[8,0,0,0,1,3,5,9,2,13,52,64],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8cf1d392f97e7fd80eb9423b207f78fd":[8,0,0,0,1,3,5,9,2,13,52,36],
@@ -249,5 +246,8 @@ var NAVTREEINDEX97 =
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2c75192be295f76f95c1d28cb599452":[8,0,0,0,2,2,0,10,8,19],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae68d06799176ab8a4d7a6b42fc3e0b34":[8,0,0,0,2,2,0,10,8,22],
 "d3/d37/classspell__azjol__nerub__pound.html":[7,0,2686],
-"d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[7,0,2686,2]
+"d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[7,0,2686,2],
+"d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[7,0,2686,1],
+"d3/d37/classspell__azjol__nerub__pound.html#aeddfd61eab5aa077ca07a924ec491285":[7,0,2686,0],
+"d3/d37/structnpc__pet__proto__drake__whelp.html":[7,0,2074]
 };

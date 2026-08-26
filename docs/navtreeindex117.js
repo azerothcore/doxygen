@@ -1,8 +1,5 @@
 var NAVTREEINDEX117 =
 {
-"d3/dd7/classinstance__trial__of__the__crusader.html#a764d871d02e4ff53b7cc3a8637dcddf9":[7,0,1385,1],
-"d3/dd7/classinstance__trial__of__the__crusader.html#a792034e9e5687bf5fa543175692bed66":[7,0,1385,2],
-"d3/dd7/classspell__halion__twilight__realm__aura.html":[7,0,3207],
 "d3/dd7/classspell__halion__twilight__realm__aura.html#a2c9e4d82bd25f439e01a05700563b122":[7,0,3207,3],
 "d3/dd7/classspell__halion__twilight__realm__aura.html#a4eab0bd70eb884f7736e90f9001d3cc7":[7,0,3207,2],
 "d3/dd7/classspell__halion__twilight__realm__aura.html#ad072d243dd148e1b34aea29a2e5d175e":[7,0,3207,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX117 =
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[7,0,2717,4],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a6d552ff58f7bb267cf4d20f2f5aedc7a":[7,0,2717,3],
 "d3/de7/classspell__q12459__seeds__of__natures__wrath.html":[7,0,3937],
-"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[7,0,3937,0]
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a39c913c3e3225a9b27d17d4ceadd3c70":[7,0,3937,0],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#a7936186af106ae3ddeec3bc9b39ff127":[7,0,3937,1],
+"d3/de7/classspell__q12459__seeds__of__natures__wrath.html#aa8ce1f0413e19d8f6d403b220fc6749c":[7,0,3937,2],
+"d3/de8/boss__patchwerk_8cpp.html":[8,0,0,0,1,3,5,7,11]
 };

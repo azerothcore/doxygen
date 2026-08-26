@@ -1,8 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d73/classScriptMgr.html#aafa237d4eef3adfcfd85213a31517c88":[7,0,2569,439],
-"d2/d73/classScriptMgr.html#aafeffd31a9339ee74d860cfece099b2e":[7,0,2569,458],
-"d2/d73/classScriptMgr.html#ab01e767c1d7465163d7b1ecc057bd6a2":[7,0,2569,224],
 "d2/d73/classScriptMgr.html#ab091b74073cba8b99a45c43ee4e6c84a":[7,0,2569,180],
 "d2/d73/classScriptMgr.html#ab153d164d5665cc7c10fa95dbd8140dd":[7,0,2569,311],
 "d2/d73/classScriptMgr.html#ab5228751fff388a1f295bb89ab63882d":[7,0,2569,19],
@@ -249,5 +246,8 @@ var NAVTREEINDEX69 =
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae00882057d559f1decbe5d4c3b1fb041":[8,0,0,0,1,3,4,10,1,1,4],
 "d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22ae688ed1c8bf1558a6ce589efc30b1abf":[8,0,0,0,1,3,4,10,1,1,9],
 "d2/d7b/classspell__dk__hungering__cold.html":[7,0,2834],
-"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[7,0,2834,2]
+"d2/d7b/classspell__dk__hungering__cold.html#a048f59b6b0d52232e3a953f173324fc2":[7,0,2834,2],
+"d2/d7b/classspell__dk__hungering__cold.html#a2f42e70482f71a4c275f70897b90ed72":[7,0,2834,1],
+"d2/d7b/classspell__dk__hungering__cold.html#afec3e119cb5ef12632b603225ccb5b8d":[7,0,2834,0],
+"d2/d7b/structnpc__razorscale__devouring__flame.html":[7,0,2126]
 };

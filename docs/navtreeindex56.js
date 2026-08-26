@@ -1,8 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d32/structCreatureTextEntry.html#a2bb58a07abc9eb7ffeb4db131de03924":[7,0,964,10],
-"d2/d32/structCreatureTextEntry.html#a3d1c888b73edee2474004de9d8714903":[7,0,964,3],
-"d2/d32/structCreatureTextEntry.html#a5675f6bcf159e1da503029771557e2a6":[7,0,964,11],
 "d2/d32/structCreatureTextEntry.html#a82b3db36b60a343d340677e8df6c7925":[7,0,964,9],
 "d2/d32/structCreatureTextEntry.html#a8405ab49781ba0cbcd8680ff6715b675":[7,0,964,6],
 "d2/d32/structCreatureTextEntry.html#a9bec9c2053f2efbac076831d4e928045":[7,0,964,7],
@@ -24,8 +21,8 @@ var NAVTREEINDEX56 =
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
 "d2/d34/structSpellCone.html":[7,0,4452],
 "d2/d34/structSpellCone.html#a7de6ce8a79e37a3097d6eaa5e1bf2210":[7,0,4452,0],
 "d2/d35/BattlegroundAB_8h.html":[8,0,0,0,1,2,8,1,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX56 =
 "d2/d38/northrend__script__loader_8cpp.html#a9af0523ebe9bbe9f299889c99a519d1c":[8,0,0,0,1,3,5,14,109],
 "d2/d38/northrend__script__loader_8cpp.html#a9c9f3c2d2d5cc92abb79db0962b76a3f":[8,0,0,0,1,3,5,14,79],
 "d2/d38/northrend__script__loader_8cpp.html#a9e387ee32ddd2cdaed044f0c966056c0":[8,0,0,0,1,3,5,14,149],
-"d2/d38/northrend__script__loader_8cpp.html#a9e93c2654d96f958e082e7985634433c":[8,0,0,0,1,3,5,14,114]
+"d2/d38/northrend__script__loader_8cpp.html#a9e93c2654d96f958e082e7985634433c":[8,0,0,0,1,3,5,14,114],
+"d2/d38/northrend__script__loader_8cpp.html#a9ebe730e1ca4a8adafaaf46acc268a3e":[8,0,0,0,1,3,5,14,23],
+"d2/d38/northrend__script__loader_8cpp.html#a9f00ce106e938d97131447d0b3923d0a":[8,0,0,0,1,3,5,14,68],
+"d2/d38/northrend__script__loader_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f":[8,0,0,0,1,3,5,14,27]
 };

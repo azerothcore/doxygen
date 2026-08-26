@@ -1,8 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,34,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,34,6,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[7,0,13,6,52,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX151 =
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685ae13158404c0517aa7d84cb212342743b":[8,0,0,0,1,2,16,1,7,11,6],
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685afde7f3852f31afa065b63e5c9a972cda":[8,0,0,0,1,2,16,1,7,11,14],
 "d5/d64/GossipDef_8h.html#a52b0d21ecf4f2918378441d53f18f777":[8,0,0,0,1,2,16,1,7,9],
-"d5/d64/GossipDef_8h.html#a77f54e2cb578197cf3c47df8c07b4f84":[8,0,0,0,1,2,16,1,7,8]
+"d5/d64/GossipDef_8h.html#a77f54e2cb578197cf3c47df8c07b4f84":[8,0,0,0,1,2,16,1,7,8],
+"d5/d65/MoveSplineInitArgs_8h.html":[8,0,0,0,1,2,31,1,9],
+"d5/d65/MoveSplineInitArgs_8h.html#a86528b2e04ddf38b80888e45d6b9c37d":[8,0,0,0,1,2,31,1,9,2],
+"d5/d65/Weather_8h.html":[4,2,1]
 };
