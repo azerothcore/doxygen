@@ -1,5 +1,15 @@
 var NAVTREEINDEX407 =
 {
+"df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[7,0,104,1],
+"df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[7,0,104,0],
+"df/d2d/classspell__sindragosa__mystic__buffet.html":[7,0,4156],
+"df/d2d/classspell__sindragosa__mystic__buffet.html#a24466e7a04722cc7559b086f89d2edc8":[7,0,4156,1],
+"df/d2d/classspell__sindragosa__mystic__buffet.html#a9ecea534f3dffdedf7d23b3b2461509d":[7,0,4156,2],
+"df/d2d/classspell__sindragosa__mystic__buffet.html#ad5a004ddfdc888c38e95c3a0b49ca73e":[7,0,4156,0],
+"df/d2d/structGossipMenus.html":[7,0,1245],
+"df/d2d/structGossipMenus.html#a6ec8df5fcc5126bdee656ca08c0a5edc":[7,0,1245,2],
+"df/d2d/structGossipMenus.html#a732aa82f621c312745ddbd6fe2e3e906":[7,0,1245,1],
+"df/d2d/structGossipMenus.html#a93edc2f0d71164b683c844b713befa85":[7,0,1245,0],
 "df/d2e/classToCloud9GroupHooks.html":[7,0,4573],
 "df/d2e/classToCloud9GroupHooks.html#a05fc2da0da6f565a0bc4bc234a92046f":[7,0,4573,1],
 "df/d2e/classToCloud9GroupHooks.html#a0c066c39c344d750164735a4f549cf69":[7,0,4573,9],
@@ -239,15 +249,5 @@ var NAVTREEINDEX407 =
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[7,0,1957,0,9],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[7,0,1957,0,4],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[7,0,1957,0,1],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[7,0,1957,0,7],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[7,0,1957,0,8],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[7,0,1957,0,5],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#abf30320da7f6fc6a4f213b0c4b2b24ce":[7,0,1957,0,3],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#ac4de8610671b000bdff5cf47f2aecd0f":[7,0,1957,0,6],
-"df/d3b/classnpc__bunthen__plainswind.html":[7,0,1709],
-"df/d3b/classnpc__bunthen__plainswind.html#a117f28d513ac645b9d3d908d052d2146":[7,0,1709,2],
-"df/d3b/classnpc__bunthen__plainswind.html#ad9b789ad3e958dee4733b142813b6302":[7,0,1709,0],
-"df/d3b/classnpc__bunthen__plainswind.html#ae2fe8bfb957dd8ea84d2585293c3b6eb":[7,0,1709,1],
-"df/d3c/classinstance__arcatraz.html":[7,0,1322],
-"df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[7,0,1322,1]
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[7,0,1957,0,7]
 };

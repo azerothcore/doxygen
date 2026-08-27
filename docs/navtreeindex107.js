@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d3/d98/structDynamicTreeLocationInfoCallback.html#adef79d7627daa66d88c7146704984622":[7,0,1033,4],
+"d3/d98/structDynamicTreeLocationInfoCallback.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e":[7,0,1033,6],
 "d3/d98/structLocation.html":[7,0,1472],
 "d3/d98/structLocation.html#a10fbad67977d8dd3911eb629c1797684":[7,0,1472,2],
 "d3/d98/structLocation.html#a3785e9b55ea3a7140086ce1f86232109":[7,0,1472,0],
@@ -229,12 +231,12 @@ var NAVTREEINDEX107 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[8,0,0,0,1,3,7,3,1,6],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[7,0,0,30],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,42],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,42,2],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[7,0,2728],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d9f/classObjectVisibilityContainer.html#a0c23e636a75c75c0b8976282b186a7f5":[7,0,2355,14],
 "d3/d9f/classObjectVisibilityContainer.html#a0f80121f5c696f8abf265255868e7d56":[7,0,2355,7],
 "d3/d9f/classObjectVisibilityContainer.html#a341d254635abb0e62e3050b0dbc8ef36":[7,0,2355,0],
-"d3/d9f/classObjectVisibilityContainer.html#a3697b9b06489bee6a9d63313569d6d3e":[7,0,2355,8],
-"d3/d9f/classObjectVisibilityContainer.html#a4f62fa8a0d950932342764c0eeb1a455":[7,0,2355,1],
-"d3/d9f/classObjectVisibilityContainer.html#a511c809d171be7e4e3a24f77838af445":[7,0,2355,15]
+"d3/d9f/classObjectVisibilityContainer.html#a3697b9b06489bee6a9d63313569d6d3e":[7,0,2355,8]
 };

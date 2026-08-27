@@ -1,5 +1,15 @@
 var NAVTREEINDEX411 =
 {
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[7,0,3198,0],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[7,0,3198,2],
+"df/d6b/classspell__illidan__shadow__prison__aura.html":[7,0,3335],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[7,0,3335,0],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[7,0,3335,2],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[7,0,3335,1],
+"df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[7,0,3335,3],
+"df/d6c/classnpc__cult__adherent.html":[7,0,1755],
+"df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[7,0,1755,2],
+"df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[7,0,1755,1],
 "df/d6c/classspell__pilgrims__bounty__turkey__tracker.html":[7,0,3808],
 "df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a074f54a4b022adc6ea34b3716dec745f":[7,0,3808,0],
 "df/d6c/classspell__pilgrims__bounty__turkey__tracker.html#a339df7ae9553fbae68ce791baef1df5e":[7,0,3808,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX411 =
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[7,0,3065,0],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[7,0,3065,2],
 "df/d75/classtele__commandscript.html":[7,0,4552],
-"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4552,0],
-"df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[7,0,4552,2],
-"df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[7,0,4552,9],
-"df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[7,0,4552,8],
-"df/d75/classtele__commandscript.html#a70fcde1c7c5a9e5297035862adca55c4":[7,0,4552,7],
-"df/d75/classtele__commandscript.html#a7a45fa39afa6bae2359a68b11a504bc5":[7,0,4552,10],
-"df/d75/classtele__commandscript.html#a8d429a38c01a19f8c89c87937ef24248":[7,0,4552,3],
-"df/d75/classtele__commandscript.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa":[7,0,4552,4],
-"df/d75/classtele__commandscript.html#ad3d85b0057797de2aceeb620cf62efc0":[7,0,4552,5],
-"df/d75/classtele__commandscript.html#aeab9bf62f33fd1d55055ba2ae7925f82":[7,0,4552,1],
-"df/d75/classtele__commandscript.html#af83e529b482654851a7a1ee77beb107e":[7,0,4552,6]
+"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4552,0]
 };

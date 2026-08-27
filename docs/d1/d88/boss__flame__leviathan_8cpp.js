@@ -43,12 +43,14 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07faa54533adef9ff9cd67857f7455e7", null ],
       [ "EVENT_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
-      [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ]
+      [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
+      [ "EVENT_CHECK_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ]
     ] ],
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],
       [ "NPC_SEAT", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550afde1ee16f7ce2e9ac37eda5286bdc4a1", null ],
       [ "NPC_LIQUID", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a9f151c8ed1d7dddc7c413473a0b32a90", null ],
+      [ "NPC_POOL_OF_TAR", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a9c48b89967b58a37fd58634c14ae367f", null ],
       [ "NPC_BRANN_RADIO", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a25c0c7ff17faaf2dd5ecba40f542ca27", null ],
       [ "NPC_THORIM_HAMMER_TARGET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a90d78b0bd632f7161f409e9bf597838c", null ],
       [ "NPC_THORIM_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a42fb03580eb6a12b82418816be1053ea", null ],

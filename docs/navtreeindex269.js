@@ -1,5 +1,10 @@
 var NAVTREEINDEX269 =
 {
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda6e4d926384ba52fc896c65b81c19b18c":[8,0,0,0,1,3,5,12,9,6,13],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda75d9a118fd53851181659a07edb75d35":[8,0,0,0,1,3,5,12,9,6,5],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda7747b0a8a3bed4ad48b3579eedb5cb1f":[8,0,0,0,1,3,5,12,9,6,14],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda7c6bd12ae52986083ef52674b9faa0a9":[8,0,0,0,1,3,5,12,9,6,24],
+"da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda833709b6f0f4420b7a0b7b059513e694":[8,0,0,0,1,3,5,12,9,6,9],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda87083a9f428ec24ea432fb05745279b9":[8,0,0,0,1,3,5,12,9,6,10],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda8f7444b04596b5af383d74be70d97c13":[8,0,0,0,1,3,5,12,9,6,4],
 "da/d4c/violet__hold_8h.html#a0f05f91fd722eb5a8cc993aaca3c15fda9132dbb7e224c1b476917674cae5dd28":[8,0,0,0,1,3,5,12,9,6,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX269 =
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921":[8,0,0,0,1,2,8,1,15,1,3],
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934":[8,0,0,0,1,2,8,1,15,1,2],
 "da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24":[8,0,0,0,1,2,8,1,15,2],
-"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac":[8,0,0,0,1,2,8,1,15,2,3],
-"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4":[8,0,0,0,1,2,8,1,15,2,2],
-"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813":[8,0,0,0,1,2,8,1,15,2,4],
-"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058":[8,0,0,0,1,2,8,1,15,2,1],
-"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636":[8,0,0,0,1,2,8,1,15,2,0],
-"da/d56/classspell__q12308__escape__from__silverbrook.html":[7,0,3935]
+"da/d56/BattlegroundRL_8h.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac":[8,0,0,0,1,2,8,1,15,2,3]
 };

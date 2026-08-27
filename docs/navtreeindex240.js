@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2":[8,0,0,0,1,3,2,1,1,14,4,5],
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,1,1,14,4,0],
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298cab0e989f0b2dc3581edd2550b8213e294":[8,0,0,0,1,3,2,1,1,14,4,6],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caec5ad6f4170f697acf9499e4e06bb065":[8,0,0,0,1,3,2,1,1,14,4,3],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[8,0,0,0,1,3,2,1,1,14,3],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a3591fbaf18a6ded8e48a289f43296fcd":[8,0,0,0,1,3,2,1,1,14,3,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df6/structnpc__spawn__of__marli.html":[7,0,2173],
 "d8/df6/structnpc__spawn__of__marli.html#a1b8afff5d90df02d16b81785026b2ff0":[7,0,2173,1],
 "d8/df6/structnpc__spawn__of__marli.html#a1c456e7deb43d2e4dd1abc6f702c3f75":[7,0,2173,3],
-"d8/df6/structnpc__spawn__of__marli.html#a1dcd5066de108203903f5767c4b375ea":[7,0,2173,0],
-"d8/df6/structnpc__spawn__of__marli.html#a79ef192d41af75e0dad0494776c75189":[7,0,2173,2],
-"d8/df6/structnpc__spawn__of__marli.html#ae9d30ec62ff25a454824ff4334ad2d99":[7,0,2173,4],
-"d8/df6/structnpc__ulduar__saronite__animus.html":[7,0,2277]
+"d8/df6/structnpc__spawn__of__marli.html#a1dcd5066de108203903f5767c4b375ea":[7,0,2173,0]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX330 =
 {
+"dc/d72/classspell__hun__animal__handler.html#a8f078f8370eacba197ceb2068b6a538d":[7,0,3240,2],
+"dc/d72/classspell__hun__animal__handler.html#ab249a493050c5527eeec8913e94cfc64":[7,0,3240,1],
+"dc/d72/classspell__hun__animal__handler.html#ac0018b57967a3d3ae71aa81745032f15":[7,0,3240,0],
+"dc/d73/classinventory__commandscript.html":[7,0,1407],
+"dc/d73/classinventory__commandscript.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3":[7,0,1407,2],
+"dc/d73/classinventory__commandscript.html#a765d3606093dd3e15bb59c058333dca7":[7,0,1407,0],
+"dc/d73/classinventory__commandscript.html#ac002b65cbe2e5dafc7614c7afa4a20e6":[7,0,1407,1],
+"dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html":[7,0,3902],
+"dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html#acd2d96959b0d8e9bf9968662218f36a1":[7,0,3902,0],
+"dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html#ace951b4fcd48b7d4434a387d666bed9b":[7,0,3902,2],
 "dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html#afea43ae4a9b9e64ed8e85627d5523a1e":[7,0,3902,1],
 "dc/d74/classinstance__utgarde__pinnacle.html":[7,0,1389],
 "dc/d74/classinstance__utgarde__pinnacle.html#a41bd06d5f42b09193c5f1b2bbb2323ac":[7,0,1389,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[7,0,968,0],
 "dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[7,0,968,11],
 "dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,968,8],
-"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[7,0,968,9],
-"dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[7,0,968,16],
-"dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[7,0,968,2],
-"dc/d81/classCreatureTextMgr.html#a2303c6343e233beb3f7a1ebda40e080e":[7,0,968,13],
-"dc/d81/classCreatureTextMgr.html#a5237341864a3082126bed703d68312b2":[7,0,968,4],
-"dc/d81/classCreatureTextMgr.html#a6f77e1f030bb16b585f9a75059a06f31":[7,0,968,1],
-"dc/d81/classCreatureTextMgr.html#a826a3cd2e991c358a98fced5512297dd":[7,0,968,7],
-"dc/d81/classCreatureTextMgr.html#a8b9dc67f09242b5ade7405663ca52fda":[7,0,968,12],
-"dc/d81/classCreatureTextMgr.html#a92acbdab30a8942859e01526144b9989":[7,0,968,6],
-"dc/d81/classCreatureTextMgr.html#a93c7fa546a0f41e7d59c6782aecee070":[7,0,968,10],
-"dc/d81/classCreatureTextMgr.html#aa36b6dd5010eea049973122bec4fceb1":[7,0,968,14]
+"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[7,0,968,9]
 };

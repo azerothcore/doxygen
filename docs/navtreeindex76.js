@@ -1,5 +1,7 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd1/structMovementInfo.html#a01585307a3db62a34f7d2e243dd52265":[7,0,1576,8],
+"d2/dd1/structMovementInfo.html#a10c1c9721558fd98d33bb43b3bfff837":[7,0,1576,18],
 "d2/dd1/structMovementInfo.html#a683565ad0865709083e81d07a8ce1395":[7,0,1576,13],
 "d2/dd1/structMovementInfo.html#a6f0c8141058d03f214afbd779a3420ee":[7,0,1576,7],
 "d2/dd1/structMovementInfo.html#a7a9353ff367c80cddeaddd63fcd32ddb":[7,0,1576,5],
@@ -54,8 +56,8 @@ var NAVTREEINDEX76 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[7,0,2120,0,4],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[7,0,13,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
@@ -150,8 +152,8 @@ var NAVTREEINDEX76 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[7,0,0,41],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX76 =
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a5d7a324073cfdbd01ae267964959f15b":[7,0,2088,0,2],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a849b06a045de5529706e83b03febe135":[7,0,2088,0,6],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc":[7,0,2088,0,1],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ad84905d1385bce0e431c2baf1158a343":[7,0,2088,0,3],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ade1c91217b6c6e33bfca60a69a51bbc0":[7,0,2088,0,8],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae03f3fef42fcbcecedaf38692d1e9131":[7,0,2088,0,0]
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ad84905d1385bce0e431c2baf1158a343":[7,0,2088,0,3]
 };

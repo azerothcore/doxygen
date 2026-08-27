@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acf4427f47dee3dc237e251dc35007d1c":[8,0,0,0,1,2,0,3,4,269],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acf51dfda4f50b97924d71ec882a42369":[8,0,0,0,1,2,0,3,4,547],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad09dc84e7d650f2644101f11a8f0f97d":[8,0,0,0,1,2,0,3,4,416],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad0c2747c6a9e3d0b66f7c29bfc2c1e90":[8,0,0,0,1,2,0,3,4,474],
@@ -175,10 +176,10 @@ var NAVTREEINDEX155 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[7,0,2453,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[7,0,2453,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2453,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d79/classCreatureAI.html#a3a8fee035f2cd3ed05f46f6ab042cd50":[7,0,945,69],
 "d5/d79/classCreatureAI.html#a3e4f2f89c0db37331135074c50285b47":[7,0,945,77],
 "d5/d79/classCreatureAI.html#a40ce129b0c97a9d38edbbfc888c53486":[7,0,945,17],
-"d5/d79/classCreatureAI.html#a454866f22b192f0c78301be09ae69a86":[7,0,945,46],
-"d5/d79/classCreatureAI.html#a47d2c5e44ccbf09d7c2059bed31d216d":[7,0,945,40]
+"d5/d79/classCreatureAI.html#a454866f22b192f0c78301be09ae69a86":[7,0,945,46]
 };

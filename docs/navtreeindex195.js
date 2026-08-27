@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#acf9101c5b776820039fd80e5d6e0c138":[7,0,601,0,3],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#adfa2ab8498279937bf497292d6e7cba5":[7,0,601,0,0],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae163fbd682f09f2a49fa71309284ed3b":[7,0,601,0,5],
 "d7/d05/structboss__krystallus_1_1boss__krystallusAI.html#ae8bdb2bca7c01c564adab93f1dd67720":[7,0,601,0,4],
@@ -38,8 +39,8 @@ var NAVTREEINDEX195 =
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[7,0,0,4,2,1],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,110],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[7,0,0,98,3],
@@ -207,8 +208,8 @@ var NAVTREEINDEX195 =
 "d7/d0e/struct__ItemStat.html":[7,0,15],
 "d7/d0e/struct__ItemStat.html#a5a5ee42445d9121f186c084dfbc31425":[7,0,15,1],
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[7,0,15,0],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,29,1],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
 "d7/d0f/classPreparedStatement.html":[7,0,2475],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d15/classspell__gen__replenishment__aura.html#a074a7de6cd4d930c1f23f6398c738bad":[7,0,3129,0],
 "d7/d15/classspell__gen__replenishment__aura.html#a335e1629b98bfacf6e4e565b94d4991e":[7,0,3129,3],
 "d7/d15/classspell__gen__replenishment__aura.html#a777803a61286e0eba31246d4771630df":[7,0,3129,1],
-"d7/d15/classspell__gen__replenishment__aura.html#ab76bc3927d3ce31ae061fe8577ca25f0":[7,0,3129,2],
-"d7/d16/classspell__call__wintergarde__gryphon.html":[7,0,2752]
+"d7/d15/classspell__gen__replenishment__aura.html#ab76bc3927d3ce31ae061fe8577ca25f0":[7,0,3129,2]
 };

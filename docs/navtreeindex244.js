@@ -1,5 +1,8 @@
 var NAVTREEINDEX244 =
 {
+"d9/d26/classCombatManager.html#acc6e9af2cbc04d0b3fdc7e69ec48875f":[7,0,910,37],
+"d9/d26/classCombatManager.html#acf57a9b7bfc3a5c20eed269981843fe5":[7,0,910,30],
+"d9/d26/classCombatManager.html#ad22c4b5afafcc89b0a6470043e8b37ca":[7,0,910,31],
 "d9/d26/classCombatManager.html#ad5c1a3f793b678e117cd7cad7943d93b":[7,0,910,21],
 "d9/d26/classCombatManager.html#ae1b4139bc2f5652b983747cee269a294":[7,0,910,22],
 "d9/d26/classCombatManager.html#ae5f04a95ed8f3794a5d4d9b51012de26":[7,0,910,39],
@@ -46,10 +49,10 @@ var NAVTREEINDEX244 =
 "d9/d28/structAreaPOIEntry.html#ad34c7f65fc077b39b6b71a1ff1a89cf5":[7,0,169,0],
 "d9/d28/structAreaPOIEntry.html#af9f4cd8b29daededd3d2b2f0cc53d213":[7,0,169,1],
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
@@ -178,8 +181,8 @@ var NAVTREEINDEX244 =
 "d9/d32/classAbstractFollower.html#aa4e43d8e60442eee41398648fd7fd45d":[7,0,23,4],
 "d9/d32/classAbstractFollower.html#acb394f5326ab5ea5146c79788a085647":[7,0,23,1],
 "d9/d32/classAbstractFollower.html#ad49748abec4bb2fe06cc8ba2699bdbd0":[7,0,23,3],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,34,6,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[7,0,13,6,25],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,34,6,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[7,0,13,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,34,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[7,0,13,6,25,0],
@@ -245,9 +248,6 @@ var NAVTREEINDEX244 =
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a03d5bc2bc2e7366c407d95c5b84127d9":[5,0,0,8,7,2],
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a15ef55147adf4d6957d62d9cc7e3544c":[7,0,0,5,7,4],
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a15ef55147adf4d6957d62d9cc7e3544c":[5,0,0,8,7,4],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a162b593f942b5a1f18468ad76e56816c":[5,0,0,8,7,17],
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a162b593f942b5a1f18468ad76e56816c":[7,0,0,5,7,17],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a2b50d27bb0e3c3f3ef22abee357f3194":[5,0,0,8,7,3],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a2b50d27bb0e3c3f3ef22abee357f3194":[7,0,0,5,7,3],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a363f6b4b036fb006f43040183eff37a4":[7,0,0,5,7,7]
+"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a162b593f942b5a1f18468ad76e56816c":[5,0,0,8,7,17]
 };

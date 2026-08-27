@@ -1,5 +1,15 @@
 var NAVTREEINDEX410 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#af18b011f8c9939da7813fafbc3bfe014":[7,0,11,21,5],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,31,21,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[7,0,11,21,3],
+"df/d57/blackrock__depths_8cpp.html":[8,0,0,0,1,3,2,1,0,0],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[8,0,0,0,1,3,2,1,0,0,7],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[8,0,0,0,1,3,2,1,0,0,7,3],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9":[8,0,0,0,1,3,2,1,0,0,7,2],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803":[8,0,0,0,1,3,2,1,0,0,7,5],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134":[8,0,0,0,1,3,2,1,0,0,7,1],
+"df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d":[8,0,0,0,1,3,2,1,0,0,7,4],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f":[8,0,0,0,1,3,2,1,0,0,7,0],
 "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0":[8,0,0,0,1,3,2,1,0,0,11],
 "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22":[8,0,0,0,1,3,2,1,0,0,11,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX410 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[7,0,1822,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[7,0,3198],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3198,3],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3198,1],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[7,0,3198,0],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[7,0,3198,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html":[7,0,3335],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[7,0,3335,0],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[7,0,3335,2],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[7,0,3335,1],
-"df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[7,0,3335,3],
-"df/d6c/classnpc__cult__adherent.html":[7,0,1755],
-"df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[7,0,1755,2],
-"df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[7,0,1755,1]
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3198,1]
 };

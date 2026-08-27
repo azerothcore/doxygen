@@ -1,5 +1,15 @@
 var NAVTREEINDEX396 =
 {
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ead5eef2e0cd9e77cc0d969043bee11b65":[8,0,0,0,1,3,7,4,3,5,2,18],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eae67a54fc8b72a8b1be28430884327b68":[8,0,0,0,1,3,7,4,3,5,2,1],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eae9d5a78c8f26d0a7dd17e531e1943b94":[8,0,0,0,1,3,7,4,3,5,2,6],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaeb7f0c36fab7086027d8cfa947bfe824":[8,0,0,0,1,3,7,4,3,5,2,5],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaed7587fc7a79d17f3cc304728e4f9a82":[8,0,0,0,1,3,7,4,3,5,2,8],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaf3b6aefd2fb5626550e1c0435635b2bc":[8,0,0,0,1,3,7,4,3,5,2,17],
+"de/dae/shattered__halls_8h.html#ab782d2e7b003115ac3607b5e73e7be4f":[8,0,0,0,1,3,7,4,3,5,1],
+"de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[8,0,0,0,1,3,7,4,3,5,4],
+"de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744a52f42ac688a13a610458ddb34ca3c4d9":[8,0,0,0,1,3,7,4,3,5,4,0],
+"de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744a76cc377730af5a132be175c81db9ac9b":[8,0,0,0,1,3,7,4,3,5,4,2],
 "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092":[8,0,0,0,1,3,7,4,3,5,4,1],
 "de/dae/shattered__halls_8h.html#ae6b8d459f26fe1836c08c664e0d73426":[8,0,0,0,1,3,7,4,3,5,0],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,4,3,5,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX396 =
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[8,0,0,0,1,2,22,21,0,3],
 "de/dbe/classspell__tsh__shadow__bolt.html":[7,0,4271],
 "de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[7,0,4271,0],
-"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[7,0,4271,2],
-"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[7,0,4271,1],
-"de/dbf/BattlefieldScript_8h.html":[8,0,0,0,1,2,38,0,32],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089":[8,0,0,0,1,2,38,0,32,1],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007":[8,0,0,0,1,2,38,0,32,1,1],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235":[8,0,0,0,1,2,38,0,32,1,0],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac":[8,0,0,0,1,2,38,0,32,1,7],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab":[8,0,0,0,1,2,38,0,32,1,3],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710":[8,0,0,0,1,2,38,0,32,1,4],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e":[8,0,0,0,1,2,38,0,32,1,6],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6":[8,0,0,0,1,2,38,0,32,1,2]
+"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[7,0,4271,2]
 };

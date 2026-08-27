@@ -1,5 +1,10 @@
 var NAVTREEINDEX285 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5acece87b17cabb8d31782232dd4c53656":[8,0,0,0,1,3,5,2,1,7,7,2],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad3a32c06bca452d4ec3da408f3fb5eb8":[8,0,0,0,1,3,5,2,1,7,7,12],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5af8f7a209e9b9e0909610ffbcb8fe94ca":[8,0,0,0,1,3,5,2,1,7,7,5],
+"da/de8/trial__of__the__crusader_8h.html#a0f04507daf1d41009237da1c747558c3":[8,0,0,0,1,3,5,2,1,7,15],
+"da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0":[8,0,0,0,1,3,5,2,1,7,8],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a0b811ff893a4ac0bccd9837fb305e240":[8,0,0,0,1,3,5,2,1,7,8,10],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a11fc4c91d3b5e34b92071643c1363d3f":[8,0,0,0,1,3,5,2,1,7,8,5],
 "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a1ace5c94f0afab5699acc6723638f0c2":[8,0,0,0,1,3,5,2,1,7,8,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX285 =
 "da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[7,0,3454,0],
 "da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[7,0,3454,1],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,4,0,0],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[8,0,0,0,3,4,0,0,10],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a7cde0074dfd288f2d70c0e035dacb28a":[8,0,0,0,3,4,0,0,5],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a82680783457cdcbe83db9eefe68f8a9b":[8,0,0,0,3,4,0,0,2],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa0d0fdc87fd135ef2bedb030901cdb9c":[8,0,0,0,3,4,0,0,3],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#aa79c2d3de4fcd200458c406f40b2ae64":[8,0,0,0,3,4,0,0,6],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#ab7903878916593daecbeb95b98115ab0":[8,0,0,0,3,4,0,0,4]
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[8,0,0,0,3,4,0,0,10]
 };

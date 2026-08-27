@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[8,0,0,0,1,3,2,1,0,8,2],
 "d6/d76/classspell__dk__improved__blood__presence.html":[7,0,2836],
 "d6/d76/classspell__dk__improved__blood__presence.html#a64f9e0f3d0376342767b912e32642c6c":[7,0,2836,2],
 "d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[7,0,2836,3],
@@ -124,16 +125,16 @@ var NAVTREEINDEX183 =
 "d6/d7c/WardenMac_8h.html":[8,0,0,0,1,2,47,7],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,32],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[7,0,0,20,0],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,32,1],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[7,0,0,20,1],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,32,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,0,32,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[7,0,0,20,2],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,0,32,4],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[7,0,0,20,4],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[7,0,0,20,3],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[5,0,0,32,3],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[7,0,0,20,3],
 "d6/d7d/classDynamicMapTree.html":[7,0,1029],
 "d6/d7d/classDynamicMapTree.html#a0e585c88cf1f457ad7018ad9c6a4c542":[7,0,1029,9],
 "d6/d7d/classDynamicMapTree.html#a12091e2b1cf1b5a8cfa4e3942ba750a4":[7,0,1029,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d81/zone__icecrown_8cpp.html#a26fdf8f41dae9f613e27ed7ff10c1f4f":[8,0,0,0,1,3,5,21,32],
 "d6/d81/zone__icecrown_8cpp.html#a26fdf8f41dae9f613e27ed7ff10c1f4fac1ed6cc24d50134d236b9981c5942495":[8,0,0,0,1,3,5,21,32,2],
 "d6/d81/zone__icecrown_8cpp.html#a26fdf8f41dae9f613e27ed7ff10c1f4fac4e710d998558ab8679b75cd51a8f0b8":[8,0,0,0,1,3,5,21,32,1],
-"d6/d81/zone__icecrown_8cpp.html#a26fdf8f41dae9f613e27ed7ff10c1f4fad63ad00abeed350e5b2deef795d5dde7":[8,0,0,0,1,3,5,21,32,0],
-"d6/d81/zone__icecrown_8cpp.html#a387a392730fae47ce46546f836792484":[8,0,0,0,1,3,5,21,37]
+"d6/d81/zone__icecrown_8cpp.html#a26fdf8f41dae9f613e27ed7ff10c1f4fad63ad00abeed350e5b2deef795d5dde7":[8,0,0,0,1,3,5,21,32,0]
 };

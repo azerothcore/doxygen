@@ -1,5 +1,17 @@
 var NAVTREEINDEX420 =
 {
+"df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[7,0,1114,4],
+"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[7,0,1114,3],
+"df/dd3/DetourExtended_8h.html":[8,0,0,0,0,11,1],
+"df/dd3/MovementTypedefs_8h.html":[8,0,0,0,1,2,31,1,2],
+"df/dd3/MovementTypedefs_8h.html#a15b376933a666c7f7c4600e62d7afe91":[8,0,0,0,1,2,31,1,2,6],
+"df/dd3/MovementTypedefs_8h.html#a40f989c23fe19e12628da3cd9e64edf4":[8,0,0,0,1,2,31,1,2,3],
+"df/dd3/MovementTypedefs_8h.html#a418fff34f8aed72d6d80876be5a33c58":[8,0,0,0,1,2,31,1,2,5],
+"df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[8,0,0,0,1,2,31,1,2,7],
+"df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[8,0,0,0,1,2,31,1,2,2],
+"df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[8,0,0,0,1,2,31,1,2,1],
+"df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[8,0,0,0,1,2,31,1,2,4],
+"df/dd3/classEmblemInfo.html":[7,0,1041],
 "df/dd3/classEmblemInfo.html#a08191c3c9cc48bde61ef0de81be34c90":[7,0,1041,13],
 "df/dd3/classEmblemInfo.html#a0bc92e459910ab6aad3ac35c8b613a5f":[7,0,1041,9],
 "df/dd3/classEmblemInfo.html#a0e6d684542535d537bdeba4104b7a18d":[7,0,1041,5],
@@ -237,17 +249,5 @@ var NAVTREEINDEX420 =
 "df/dd9/classUnit.html#a0d5a79b65e1057f354b9692580367ce5":[7,0,4616,249],
 "df/dd9/classUnit.html#a0d74177af4f180c8ec0af151313189c6":[7,0,4616,238],
 "df/dd9/classUnit.html#a0d8467fc487ce4c1eaecdbaab6cddd6f":[7,0,4616,776],
-"df/dd9/classUnit.html#a0e26ac5eae65e908edf086ec7a68cb3e":[7,0,4616,780],
-"df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19":[7,0,4616,787],
-"df/dd9/classUnit.html#a0ea8974d848966b4d3744c9cfdff6c53":[7,0,4616,827],
-"df/dd9/classUnit.html#a0ebd274732e84a9150104d8473a7cd8d":[7,0,4616,321],
-"df/dd9/classUnit.html#a0ed0c3a3a587eeab40abba42c3d0d593":[7,0,4616,652],
-"df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[7,0,4616,60],
-"df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe":[7,0,4616,195],
-"df/dd9/classUnit.html#a102dedba540065d396bb5b0731d7e62f":[7,0,4616,734],
-"df/dd9/classUnit.html#a110b13d199491bced26c3b6aa17ac1e1":[7,0,4616,236],
-"df/dd9/classUnit.html#a118d77ada5afa6d951bbcc7a6cf9b498":[7,0,4616,221],
-"df/dd9/classUnit.html#a119dc9c49811ea6ef6d7e3dd21d6c492":[7,0,4616,980],
-"df/dd9/classUnit.html#a119e11ced40afde3ed38a7234a5e8415":[7,0,4616,21],
-"df/dd9/classUnit.html#a11a2ba8f1d241167acab52b186c3fe43":[7,0,4616,6]
+"df/dd9/classUnit.html#a0e26ac5eae65e908edf086ec7a68cb3e":[7,0,4616,780]
 };

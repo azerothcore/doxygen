@@ -1,5 +1,11 @@
 var NAVTREEINDEX290 =
 {
+"db/d1b/SkillExtraItems_8cpp.html#ad732be66d93ed6e8f498077f27e2766b":[8,0,0,0,1,2,40,2,3],
+"db/d1b/classnpc__highlord__tirion__fordring__lh.html":[7,0,1887],
+"db/d1b/classnpc__highlord__tirion__fordring__lh.html#a96102a488330c54a3e3654c767e8e1a5":[7,0,1887,1],
+"db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[7,0,1887,2],
+"db/d1b/classspell__razorscale__flame__breath.html":[7,0,4002],
+"db/d1b/classspell__razorscale__flame__breath.html#a30c67c5c533add48412d6a9e1f6fc6b0":[7,0,4002,2],
 "db/d1b/classspell__razorscale__flame__breath.html#a324717ff0843627151dd23fe565a80ab":[7,0,4002,1],
 "db/d1b/classspell__razorscale__flame__breath.html#adbb57403c65e84ab217788ee3a9261b7":[7,0,4002,0],
 "db/d1b/classspell__shadowblink.html":[7,0,4137],
@@ -136,8 +142,8 @@ var NAVTREEINDEX290 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1929,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX290 =
 "db/d29/structBattlegroundEYPointIconsStruct.html#a322379024d155d293d1c0083c510d232":[7,0,341,0],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[7,0,341,1],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[7,0,341,2],
-"db/d29/structWardenCheck.html":[7,0,4654],
-"db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[7,0,4654,0],
-"db/d29/structWardenCheck.html#a15ecbc1a6582666a14423fa157d2fb84":[7,0,4654,5],
-"db/d29/structWardenCheck.html#a1fc1eba87b344d4681498aafcaa496cb":[7,0,4654,7],
-"db/d29/structWardenCheck.html#a51a0cea0381f2b64e9d240ac39591172":[7,0,4654,2],
-"db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2":[7,0,4654,3],
-"db/d29/structWardenCheck.html#a962795028d40645fe67e4290ea64b10b":[7,0,4654,4]
+"db/d29/structWardenCheck.html":[7,0,4654]
 };

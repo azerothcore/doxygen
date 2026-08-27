@@ -1,5 +1,15 @@
 var NAVTREEINDEX356 =
 {
+"dd/db3/classReputationMgr.html#a0e862045f71f48fa0b3a921be0ffd1be":[7,0,2543,45],
+"dd/db3/classReputationMgr.html#a0fdd378dfbd1b63c1877c9141a20e2fe":[7,0,2543,3],
+"dd/db3/classReputationMgr.html#a1c217a2d0b1f4f1079f9353294a37170":[7,0,2543,40],
+"dd/db3/classReputationMgr.html#a1c38d246d7a9a69ed6530c16b86710ac":[7,0,2543,16],
+"dd/db3/classReputationMgr.html#a1d623c240abce45735737e66db0cb242":[7,0,2543,19],
+"dd/db3/classReputationMgr.html#a21ebc36eb553e167a31a1a1518725366":[7,0,2543,22],
+"dd/db3/classReputationMgr.html#a25df865d507f9048ea68a39b8f30ad95":[7,0,2543,4],
+"dd/db3/classReputationMgr.html#a280ebed9e395766fdc239e3c3472b221":[7,0,2543,49],
+"dd/db3/classReputationMgr.html#a2a28399275abe81081862944af7fef3a":[7,0,2543,30],
+"dd/db3/classReputationMgr.html#a2b1c09394ed5cde4fb877a7274037a6a":[7,0,2543,8],
 "dd/db3/classReputationMgr.html#a413cd64f75d2a3bf8fecd896d8ff8b59":[7,0,2543,33],
 "dd/db3/classReputationMgr.html#a4d4912f002d09daec82501ec3bd7e511":[7,0,2543,13],
 "dd/db3/classReputationMgr.html#a58f870fddc369974199f4cc8305cad74":[7,0,2543,32],
@@ -112,8 +122,8 @@ var NAVTREEINDEX356 =
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9":[8,0,0,0,1,3,4,6,1,6],
 "dd/dc7/razorfen__downs_8cpp.html#aa1cc9839b8806bd940e01edfee8b8cee":[8,0,0,0,1,3,4,6,1,5],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afba":[8,0,0,0,1,3,4,6,1,4],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f":[8,0,0,0,1,3,4,6,1,4,12],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63":[8,0,0,0,1,3,4,6,1,4,1],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a":[8,0,0,0,1,3,4,6,1,4,11],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0":[8,0,0,0,1,3,4,6,1,4,3],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44":[8,0,0,0,1,3,4,6,1,4,4],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034":[8,0,0,0,1,3,4,6,1,4,0],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,6,1,4,15],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478":[8,0,0,0,1,3,4,6,1,4,10],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364":[8,0,0,0,1,3,4,6,1,4,14],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52":[8,0,0,0,1,3,4,6,1,4,21],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4":[8,0,0,0,1,3,4,6,1,4,17]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f":[8,0,0,0,1,3,4,6,1,4,12]
 };

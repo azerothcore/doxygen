@@ -1,5 +1,8 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298caec85cc617ef32ec7ad6edfa8a467f200":[8,0,0,0,1,3,5,6,7,37,25],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298caee71e15ffbc5fa56e34e1c733f9c6660":[8,0,0,0,1,3,5,6,7,37,13],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298caf78847cd2ef7432022773c880f0d5ca0":[8,0,0,0,1,3,5,6,7,37,36],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cafb8599c052973452f6599728948ec136":[8,0,0,0,1,3,5,6,7,37,23],
 "d8/ddf/boss__professor__putricide_8cpp.html#a6732edd84e2ba6e316960a8ffd532749":[8,0,0,0,1,3,5,6,7,40],
 "d8/ddf/boss__professor__putricide_8cpp.html#a8c9196278db737b57106a188b3c9ac57":[8,0,0,0,1,3,5,6,7,41],
@@ -173,10 +176,10 @@ var NAVTREEINDEX239 =
 "d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
 "d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
-"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
+"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,1,14,4],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0116639bee243d92b61fb03a198321e7":[8,0,0,0,1,3,2,1,1,14,4,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,1,1,14,4,2],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[8,0,0,0,1,3,2,1,1,14,4,4],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2":[8,0,0,0,1,3,2,1,1,14,4,5],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,1,1,14,4,0],
-"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298cab0e989f0b2dc3581edd2550b8213e294":[8,0,0,0,1,3,2,1,1,14,4,6]
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[8,0,0,0,1,3,2,1,1,14,4,4]
 };

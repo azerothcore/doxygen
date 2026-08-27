@@ -1,5 +1,11 @@
 var NAVTREEINDEX317 =
 {
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[7,0,2721,0],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[7,0,2721,2],
+"dc/d01/instance__hellfire__ramparts_8cpp.html":[8,0,0,0,1,3,7,4,1,4],
+"dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[8,0,0,0,1,3,7,4,1,4,2],
+"dc/d02/WeatherScript_8h.html":[8,0,0,0,1,2,38,0,91],
+"dc/d03/InstanceMapScript_8h.html":[8,0,0,0,1,2,38,0,60],
 "dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[8,0,0,0,1,2,38,0,60,2],
 "dc/d03/ScriptedEscortAI_8h.html":[8,0,0,0,1,2,3,1,3],
 "dc/d03/ScriptedEscortAI_8h.html#ad23dc39ce2da634e67360fab90e3b9e2":[8,0,0,0,1,2,3,1,3,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab00f045be0eab6cd75357f6cdba2dff6":[8,0,0,0,1,3,5,4,1,2,21,4],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab6392647c8a69ea8cc67b2d3fffb791b":[8,0,0,0,1,3,5,4,1,2,21,7],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab914fc0f3b81c9376193d3bf035de08f":[8,0,0,0,1,3,5,4,1,2,21,26],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf06f3ff83a1569f59d36555d0e4897a":[8,0,0,0,1,3,5,4,1,2,21,67],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1c4d6d44252f39ca3e714c838429572":[8,0,0,0,1,3,5,4,1,2,21,60],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1ff9f6df418335d6ecdaf14705e6634":[8,0,0,0,1,3,5,4,1,2,21,59],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4b51f48f97ba313306dd8f057f26a19":[8,0,0,0,1,3,5,4,1,2,21,63],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9eca9b8087de6873a64bfef98ab5cb9":[8,0,0,0,1,3,5,4,1,2,21,39],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad00ddd943bf0e9d2338afb8144805b93":[8,0,0,0,1,3,5,4,1,2,21,54],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad0e2076b92b09eb9eab90439592d6ef1":[8,0,0,0,1,3,5,4,1,2,21,37]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf06f3ff83a1569f59d36555d0e4897a":[8,0,0,0,1,3,5,4,1,2,21,67]
 };

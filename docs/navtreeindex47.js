@@ -1,5 +1,7 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a06dd2f7eb3f9b77db85549c3bf61c909":[8,0,0,0,1,2,16,4,3,13,2],
+"d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0f16ec84abff9137314f13fb1207175a":[8,0,0,0,1,2,16,4,3,13,4],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0fcd82c460a863e447c1bf184e4dbb70":[8,0,0,0,1,2,16,4,3,13,8],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a226a7168e97cf54a3e9f2118439280c0":[8,0,0,0,1,2,16,4,3,13,6],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a417be7128b791e461c3b386c969f14b8":[8,0,0,0,1,2,16,4,3,13,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dde/structboss__freya__lifebinder.html":[7,0,499],
 "d1/dde/structboss__freya__lifebinder.html#a1784d6e975192a7442cabb14f688737d":[7,0,499,0],
 "d1/dde/structboss__freya__lifebinder.html#a48a829c75000d93cfb3c6a02aa0af495":[7,0,499,1],
-"d1/dde/structboss__freya__lifebinder.html#a5c19f04cec9cd899feee7ce2878563cf":[7,0,499,3],
-"d1/dde/structboss__freya__lifebinder.html#ae43e7663ee263e223ff286ac1fedeef8":[7,0,499,2],
-"d1/dde/structboss__ghazan.html":[7,0,515]
+"d1/dde/structboss__freya__lifebinder.html#a5c19f04cec9cd899feee7ce2878563cf":[7,0,499,3]
 };

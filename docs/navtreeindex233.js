@@ -1,7 +1,10 @@
 var NAVTREEINDEX233 =
 {
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[7,0,0,5,0,22,4],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[7,0,0,5,0,22,7],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[7,0,0,5,0,22,5],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[5,0,0,8,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[5,0,0,8,0,22,4],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[7,0,0,5,0,22,4],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[5,0,0,8,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[7,0,0,5,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,0,8,0,22,2],
@@ -12,8 +15,8 @@ var NAVTREEINDEX233 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abd6dc5c1e3c56eb27856eddb46d5e6a6":[5,0,0,8,0,22,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[7,0,0,5,0,22,1],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ac2f0e09b76eb9d40d1b78279a81a5e65":[5,0,0,8,0,22,1],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,0,8,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[7,0,0,5,0,22,10],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#acb834f907b55195f2a27d69f89d84961":[5,0,0,8,0,22,10],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[7,0,0,5,0,22,6],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#ad83cb2c649a847d0cd04b5fd8ee8494c":[5,0,0,8,0,22,6],
 "d8/d92/GameEventMgr_8h.html":[8,0,0,0,1,2,17,1],
@@ -218,10 +221,10 @@ var NAVTREEINDEX233 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[7,0,1700,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[7,0,1700,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[7,0,1700,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[7,0,13,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d9f/GroupScript_8h.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2":[8,0,0,0,1,2,38,0,56,1,7],
 "d8/d9f/GroupScript_8h.html#a373b3fe6b402e8321892b8c1be74ab5da9b4d04fe85f908719f1412cb9b88e61c":[8,0,0,0,1,2,38,0,56,1,5],
 "d8/d9f/GroupScript_8h.html#a373b3fe6b402e8321892b8c1be74ab5daee0f42175b42d95f45380c1b70c786c3":[8,0,0,0,1,2,38,0,56,1,2],
-"d8/d9f/GroupScript_8h.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353":[8,0,0,0,1,2,38,0,56,1,4],
-"d8/d9f/classUnitAura.html":[7,0,4619],
-"d8/d9f/classUnitAura.html#a28f714404942bb5c614ac844cf937546":[7,0,4619,5],
-"d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124":[7,0,4619,8]
+"d8/d9f/GroupScript_8h.html#a373b3fe6b402e8321892b8c1be74ab5dafe9e82d7bdea3097607de1e375b0e353":[8,0,0,0,1,2,38,0,56,1,4]
 };

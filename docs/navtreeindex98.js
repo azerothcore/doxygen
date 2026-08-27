@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"d3/d37/classspell__azjol__nerub__pound.html#aeddfd61eab5aa077ca07a924ec491285":[7,0,2686,0],
+"d3/d37/structnpc__pet__proto__drake__whelp.html":[7,0,2074],
 "d3/d37/structnpc__pet__proto__drake__whelp.html#a4c7697ea29c172dcedbbf84d0b5b1d6f":[7,0,2074,1],
 "d3/d37/structnpc__pet__proto__drake__whelp.html#adfe4251e85cbc018628480c02e7bfd8c":[7,0,2074,0],
 "d3/d39/structboss__quartermaster__zigris.html":[7,0,680],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3d908fe1658eb8f1d98ce37fa347f61b":[8,0,0,0,1,2,49,7,0,53],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3e5228446d159365038a49e52d571ce7":[8,0,0,0,1,2,49,7,0,476],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3e7c1ba0b397d011e10ddf2ecbe144a1":[8,0,0,0,1,2,49,7,0,376],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3ef39848e789a8250406ed9a73ddb527":[8,0,0,0,1,2,49,7,0,433],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3f0b4ab58ecc38e49ef50d89ec626471":[8,0,0,0,1,2,49,7,0,170],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3f43c90c6fb157f528ffc599bbca015f":[8,0,0,0,1,2,49,7,0,384]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3ef39848e789a8250406ed9a73ddb527":[8,0,0,0,1,2,49,7,0,433]
 };

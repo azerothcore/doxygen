@@ -1,5 +1,11 @@
 var NAVTREEINDEX310 =
 {
+"db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993":[7,0,942,177],
+"db/dd5/classCreature.html#a5e86078e810051ce9423e9492471a685":[7,0,942,234],
+"db/dd5/classCreature.html#a60b1016d6fa165a27d5024eb906fba0c":[7,0,942,181],
+"db/dd5/classCreature.html#a60cb4364f3717bbfe85ff0377c2d4b7c":[7,0,942,27],
+"db/dd5/classCreature.html#a61746bc0aa3875b6d2b7bd24a224a2aa":[7,0,942,317],
+"db/dd5/classCreature.html#a619f4bf131f2245bde6865f07482901d":[7,0,942,256],
 "db/dd5/classCreature.html#a61a37a0a382345c7f35e49488149e5c0":[7,0,942,155],
 "db/dd5/classCreature.html#a6282e1a2c2eab600879d24b8cf8dba30":[7,0,942,257],
 "db/dd5/classCreature.html#a62cefec8b6fea046008b8ee72cce60a2":[7,0,942,36],
@@ -243,11 +249,5 @@ var NAVTREEINDEX310 =
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2":[8,0,0,0,1,3,5,1,1,5,2],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a09269c33f305ebf7ddbe031d7d1210f6":[8,0,0,0,1,3,5,1,1,5,2,9],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a094a404ca5d2635d588bcb118dc646a4":[8,0,0,0,1,3,5,1,1,5,2,15],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a0ffdc299480f640e47d0a991127234c8":[8,0,0,0,1,3,5,1,1,5,2,6],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a1a9303fb289c955428ca5e436d4eabf3":[8,0,0,0,1,3,5,1,1,5,2,1],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a3160b0ba2a9affe2182e5d8a6503695f":[8,0,0,0,1,3,5,1,1,5,2,14],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a322c0e4c652ad3d63654016c7b45daa6":[8,0,0,0,1,3,5,1,1,5,2,12],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a3bf89aacf9f32abc52213ab18c8e83d2":[8,0,0,0,1,3,5,1,1,5,2,7],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a3ed06f8c551908a811606c6584b82ec4":[8,0,0,0,1,3,5,1,1,5,2,0],
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a485409193a65a66ef0818cd585c2b18a":[8,0,0,0,1,3,5,1,1,5,2,17]
+"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a0ffdc299480f640e47d0a991127234c8":[8,0,0,0,1,3,5,1,1,5,2,6]
 };
