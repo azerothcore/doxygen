@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d3b/structGameObjectTemplate.html#a5173779bed75c4a873225939fed21e6f":[7,0,1124,184],
 "dd/d3b/structGameObjectTemplate.html#a53545b9e8587e958058cf73f86138d2f":[7,0,1124,126],
 "dd/d3b/structGameObjectTemplate.html#a5587c22b77f01036cad9d0a0b2e9a61c":[7,0,1124,74],
 "dd/d3b/structGameObjectTemplate.html#a55f6f8b28415d0bdee5ff0dda4d07051":[7,0,1124,188],
@@ -144,18 +145,18 @@ var NAVTREEINDEX346 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[8,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[8,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1390,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a07a9861d018a35cd295f65b7e68a5bd1":[7,0,1390,0,8],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1390,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d46/structnpc__acherus__necromancer.html#aa9805145b09ec5abced7207220e5261c":[7,0,1611,2],
 "dd/d46/structnpc__acherus__necromancer.html#ab911195c28abe5272e55f46eafc43e75":[7,0,1611,5],
 "dd/d46/structnpc__acherus__necromancer.html#abbdce81693f05dd84eeba1c933866bb0":[7,0,1611,9],
-"dd/d46/structnpc__acherus__necromancer.html#af7b896a75a62e948a6a4e02eec2e4471":[7,0,1611,4],
-"dd/d47/classSpellCritDamageBonusOrderTest.html":[7,0,4455]
+"dd/d46/structnpc__acherus__necromancer.html#af7b896a75a62e948a6a4e02eec2e4471":[7,0,1611,4]
 };

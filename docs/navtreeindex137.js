@@ -1,5 +1,6 @@
 var NAVTREEINDEX137 =
 {
+"d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14a1d40bc56c2c8c96770094245b20f00c0":[8,0,0,0,1,3,5,2,1,3,14,7],
 "d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14a1d75cdb8e025c0982dece2d6c07ac9a4":[8,0,0,0,1,3,5,2,1,3,14,8],
 "d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14a28fdc6d217ff67f1b1e3ca261aff3faf":[8,0,0,0,1,3,5,2,1,3,14,6],
 "d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14a3656a0ed9a7f7ca518cc4588d49dd9e7":[8,0,0,0,1,3,5,2,1,3,14,9],
@@ -137,8 +138,8 @@ var NAVTREEINDEX137 =
 "d4/da1/classMovement_1_1PacketBuilder.html#a255a4de5c8cdf224e822a4e7ffe0ee5a":[7,0,7,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5f460aac5726580ed4d053f97ce4b95a":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5f460aac5726580ed4d053f97ce4b95a":[7,0,7,10,0],
-"d4/da1/classMovement_1_1PacketBuilder.html#a7681143d50955bda880fbae74671a684":[7,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a7681143d50955bda880fbae74671a684":[5,0,21,10,2],
+"d4/da1/classMovement_1_1PacketBuilder.html#a7681143d50955bda880fbae74671a684":[7,0,7,10,2],
 "d4/da1/classspectator__commandscript.html":[7,0,2630],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[7,0,2630,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[7,0,2630,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX137 =
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ab83bf379938d5c90271a0445ee593a9d":[7,0,1346,0,58],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ab8df7fbe0dc068f73350d21c64250c4c":[7,0,1346,0,14],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ab9f53501c97d750222367e1cddc534c7":[7,0,1346,0,16],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#abbe0c8545852b972f4b9d71733d81ca8":[7,0,1346,0,22],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#abd9da2dcafda72fd4802743d50b74b79":[7,0,1346,0,4]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#abbe0c8545852b972f4b9d71733d81ca8":[7,0,1346,0,22]
 };

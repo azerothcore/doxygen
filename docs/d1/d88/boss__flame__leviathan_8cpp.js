@@ -79,6 +79,7 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_TOWER_OF_FROST", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53aa842a185022434fa00035001ebc01a71", null ],
       [ "SPELL_TOWER_OF_LIFE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a5ea33e6126f134b85ea11d2a46b2ee67", null ],
       [ "SPELL_HODIRS_FURY", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53ae1237ca2b71bf2bf0740b3218b20909f", null ],
+      [ "SPELL_HODIRS_FURY_STUN", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53ae52eae46bf4b2b7630f3da58c06489f8", null ],
       [ "SPELL_FREYA_WARD", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a028b043faeb2b40a757a5cfada259817", null ],
       [ "SPELL_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a48105a8ccc3842282a4656bafc698bde", null ],
       [ "SPELL_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a4bbb8b6054896524f46fa07c97412123", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#adb456f1f93be5329174a3199c9092825":[7,0,2230,0,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#af82baa22ae49ba268f494cb07287845e":[7,0,2230,0,1],
 "d6/d24/GridObjectLoader_8cpp.html":[8,0,0,0,1,2,19,4],
 "d6/d25/WardenMac_8cpp.html":[8,0,0,0,1,2,47,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d2b/classspell__item__elixir__of__shadows.html":[7,0,3396],
 "d6/d2b/classspell__item__elixir__of__shadows.html#a41b46d8918b59a1617f383b3eedfe343":[7,0,3396,0],
 "d6/d2b/classspell__item__elixir__of__shadows.html#a78f1476ed28eb1e80356dbf3d32918f5":[7,0,3396,2],
-"d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[7,0,3396,1],
-"d6/d2b/classspell__warl__shadowburn.html":[7,0,4350]
+"d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[7,0,3396,1]
 };

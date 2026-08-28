@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178":[8,0,0,0,1,3,5,15,36],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a0ac92ed472704313c5dc8cdc65935b00":[8,0,0,0,1,3,5,15,36,8],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a1e32811c8b718211a4bc078ce8a395e7":[8,0,0,0,1,3,5,15,36,9],
 "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a3b0b33e2e94be1336b9c2a1caa73d8dd":[8,0,0,0,1,3,5,15,36,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bba58d73ba5fe6ea145152a6c1e5018f0a7":[8,0,0,0,1,2,19,1,1,82,2],
 "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680":[8,0,0,0,1,2,19,1,1,82,0],
 "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180":[8,0,0,0,1,2,19,1,1,82,1],
-"d3/d0d/classnpc__icc__buff__switcher.html":[7,0,1909],
-"d3/d0d/classnpc__icc__buff__switcher.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba":[7,0,1909,1]
+"d3/d0d/classnpc__icc__buff__switcher.html":[7,0,1909]
 };

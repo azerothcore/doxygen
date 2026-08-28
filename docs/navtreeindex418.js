@@ -1,5 +1,6 @@
 var NAVTREEINDEX418 =
 {
+"df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[7,0,2873,0],
 "df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[7,0,2873,3],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[7,0,2092,0],
 "df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a1e1ab6c1d349a9543815a29ae185feec":[7,0,2092,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX418 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,91,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[7,0,0,79,4],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,91,3]
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3]
 };

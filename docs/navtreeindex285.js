@@ -1,5 +1,6 @@
 var NAVTREEINDEX285 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5abcd81fb0568be0c93c96e665f3230412":[8,0,0,0,1,3,5,2,1,7,7,1],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5acece87b17cabb8d31782232dd4c53656":[8,0,0,0,1,3,5,2,1,7,7,2],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad3a32c06bca452d4ec3da408f3fb5eb8":[8,0,0,0,1,3,5,2,1,7,7,12],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5af8f7a209e9b9e0909610ffbcb8fe94ca":[8,0,0,0,1,3,5,2,1,7,7,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX285 =
 "da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[7,0,3454,4],
 "da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[7,0,3454,0],
 "da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[7,0,3454,1],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,4,0,0],
-"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[8,0,0,0,3,4,0,0,10]
+"da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,4,0,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a18b2632c7e6f3079e8a2cafa094d1477":[8,0,0,0,1,2,16,6,2,8,34],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a213f9282a4c8984e0f80f63df1ee0070":[8,0,0,0,1,2,16,6,2,8,0],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff":[8,0,0,0,1,2,16,6,2,8,40],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[8,0,0,0,1,2,16,6,2,8,16],
@@ -138,8 +139,8 @@ var NAVTREEINDEX187 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[7,0,13,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[7,0,13,11,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d6/da6/classspell__kalecgos__spectral__realm__dummy.html#a85779288126b21f516f2feb0238ee65b":[7,0,3538,4],
 "d6/da7/WorldSession_8cpp.html":[4,1,1],
 "d6/da7/structboss__yoggsaron__keeper.html":[7,0,816],
-"d6/da7/structboss__yoggsaron__keeper.html#a272a77cb6f147f38825cd68d54f56a9a":[7,0,816,3],
-"d6/da7/structboss__yoggsaron__keeper.html#a54edd78e856dbf519a0e2d76ae781ab8":[7,0,816,1]
+"d6/da7/structboss__yoggsaron__keeper.html#a272a77cb6f147f38825cd68d54f56a9a":[7,0,816,3]
 };

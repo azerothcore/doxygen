@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d8/dcb/halls__of__lightning_8h.html#ab2c81b52518cf9b744e344bee6558c83aa53ad80b7b459e535100197347853cd0":[8,0,0,0,1,3,5,9,0,4,5,1],
 "d8/dcb/halls__of__lightning_8h.html#ab693e2b3138c7164f5ab5ce33d01188a":[8,0,0,0,1,3,5,9,0,4,3],
 "d8/dcb/halls__of__lightning_8h.html#ab693e2b3138c7164f5ab5ce33d01188aac3701fc9a9f8c0aa21c4450036382641":[8,0,0,0,1,3,5,9,0,4,3,0],
 "d8/dcb/halls__of__lightning_8h.html#aba51f7e18d1bf5bcc9ac3cce40574989":[8,0,0,0,1,3,5,9,0,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dd6/Formulas_8h.html#a812c722ab7eb34807d8cad9659d34245":[8,0,0,0,1,2,28,1,2],
 "d8/dd6/Formulas_8h.html#a9c310a4423fd5ada14fac549e4b1a6fd":[8,0,0,0,1,2,28,1,3],
 "d8/dd6/Formulas_8h.html#ab923dd9a0df7d75127965b40539d4a10":[8,0,0,0,1,2,28,1,1],
-"d8/dd6/Formulas_8h.html#ad25519337dcc6370a39a072c53386f55":[8,0,0,0,1,2,28,1,5],
-"d8/dd6/Formulas_8h.html#ada8e56c81ab672d85f2ff274d109e477":[8,0,0,0,1,2,28,1,0]
+"d8/dd6/Formulas_8h.html#ad25519337dcc6370a39a072c53386f55":[8,0,0,0,1,2,28,1,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884a728dfe8f063ee17267c3cbfc4b9ed133":[8,0,0,0,1,4,7,86,2],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884a7e5c2dacf3d57cdff1f2a09ddc8da27e":[8,0,0,0,1,4,7,86,13],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884a8ac7c61b7fd98ec74250e2b85c3ca07a":[8,0,0,0,1,4,7,86,15],
 "de/d0a/SharedDefines_8h.html#afafe9d186a337e0cf4a6fb7936200884aa5591f5b1c286c92ecae25f59c9fa082":[8,0,0,0,1,4,7,86,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "de/d19/namespaceMMAP.html#a32c90e1638c0f8693e2fc95201d2ec3f":[5,0,20,37],
 "de/d19/namespaceMMAP.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab":[5,0,20,21],
 "de/d19/namespaceMMAP.html#a38a7b5e8c1f223fda06e8b6b98c738e5":[5,0,20,24],
-"de/d19/namespaceMMAP.html#a39bc2d4fa649e77addef85b06c49b369":[5,0,20,25],
-"de/d19/namespaceMMAP.html#a44bbf7085ddd1deacaae673ea4ec357c":[5,0,20,29]
+"de/d19/namespaceMMAP.html#a39bc2d4fa649e77addef85b06c49b369":[5,0,20,25]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a9a27667c1b46ae88b9a690997dd1b961":[8,0,0,0,1,2,16,7,5,138,21],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a9bab7a9623982f2d11ebc858cc5f6059":[8,0,0,0,1,2,16,7,5,138,3],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aa8bdfbc44b4f2aba6e758345525a158a":[8,0,0,0,1,2,16,7,5,138,23],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aae49fd6029123f7364693287e339212a":[8,0,0,0,1,2,16,7,5,138,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX282 =
 "da/dcb/structboss__golemagg.html#aae54e1e74dd44329af4f66bf26b2e277":[7,0,519,6],
 "da/dcb/structboss__golemagg.html#ac663539bac3bcd858dfbfba6095172dd":[7,0,519,2],
 "da/dcb/structboss__golemagg.html#ac7a23be0a51bd73b5c5b8215ba31412e":[7,0,519,0],
-"da/dcb/structboss__golemagg.html#acf0917a65764074ebb11d51cb537c2f5":[7,0,519,1],
-"da/dcb/structboss__golemagg.html#ad581b8e54e08342041886b180c139db0":[7,0,519,4]
+"da/dcb/structboss__golemagg.html#acf0917a65764074ebb11d51cb537c2f5":[7,0,519,1]
 };

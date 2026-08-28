@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[7,0,1946,8],
 "dc/d39/structnpc__janalai__hatcher.html#ab1c3945160c55b2b2d63763eacced473":[7,0,1946,6],
 "dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[7,0,1946,11],
 "dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[7,0,1946,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d49/classSecretMgr.html#ab48b891b84f116dc5efffe0a10a82f79":[7,0,2576,3],
 "dc/d49/classSecretMgr.html#ae6f15def262312b17456583b4e548d99":[7,0,2576,2],
 "dc/d49/classSecretMgr.html#aff0b6ca546a62a3d6e7da52c3a2752bd":[7,0,2576,6],
-"dc/d49/classspell__gen__showlabel__on.html":[7,0,3135],
-"dc/d49/classspell__gen__showlabel__on.html#a2c88a98e1f76f62f745dbd83fa939506":[7,0,3135,0]
+"dc/d49/classspell__gen__showlabel__on.html":[7,0,3135]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX196 =
 {
+"d7/d15/classspell__gen__replenishment__aura.html#ab76bc3927d3ce31ae061fe8577ca25f0":[7,0,3129,2],
 "d7/d16/classspell__call__wintergarde__gryphon.html":[7,0,2752],
 "d7/d16/classspell__call__wintergarde__gryphon.html#a41beb2c890137328734d6adb14e08302":[7,0,2752,0],
 "d7/d16/classspell__call__wintergarde__gryphon.html#a431a556ab73f91ed63f5983e537834a5":[7,0,2752,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d22/structboss__lavanthor.html#a16d7cd5596c20c3663d63549b33c8b4a":[7,0,607,2],
 "d7/d22/structboss__lavanthor.html#a4bc5fa66192daab98027539efda37bdc":[7,0,607,3],
 "d7/d22/structboss__lavanthor.html#a6f68cd280561b428400a08a155f83ccb":[7,0,607,4],
-"d7/d22/structboss__lavanthor.html#ad264818ef0f539c48160de9dbebeac7f":[7,0,607,0],
-"d7/d22/structboss__lavanthor.html#aee499fcde639aaca7131dba9cca1d4d0":[7,0,607,1]
+"d7/d22/structboss__lavanthor.html#ad264818ef0f539c48160de9dbebeac7f":[7,0,607,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d1b/zone__stormwind__city_8cpp.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407":[8,0,0,0,1,3,2,29,10,0],
 "df/d1d/classWorldDatabaseConnection.html":[7,0,4704],
 "df/d1d/classWorldDatabaseConnection.html#a015f79a049d37f742232bc5ac10e9551":[7,0,4704,2],
 "df/d1d/classWorldDatabaseConnection.html#a0c03387d2c019c86d1fe4933eca6aae5":[7,0,4704,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3c778d3cc92d03237a82fa03aaa24964":[8,0,0,0,1,2,16,5,0,4,6,237],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3d832a9e544ad4bdfbae65fc2a6c7224":[8,0,0,0,1,2,16,5,0,4,6,57],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3f6547bdbc17d5e442dd68214f056fab":[8,0,0,0,1,2,16,5,0,4,6,241],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3fb014bd37a7c969b755e5191d9ae66a":[8,0,0,0,1,2,16,5,0,4,6,126],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a408d63e3a0c31166004d91ccd1846934":[8,0,0,0,1,2,16,5,0,4,6,107]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a3fb014bd37a7c969b755e5191d9ae66a":[8,0,0,0,1,2,16,5,0,4,6,126]
 };

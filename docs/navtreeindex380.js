@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b":[8,0,0,0,1,2,18,3,95,3],
 "de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1ab034e8b421a29b919345eb6f46f498fd":[8,0,0,0,1,2,18,3,95,1],
 "de/d25/classnpc__custodian__of__time.html":[7,0,1758],
 "de/d25/classnpc__custodian__of__time.html#a57217b2dab1cab110f1c59526ca13c86":[7,0,1758,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "de/d2f/structFactionTemplateEntry.html#ac70cef62b2ec646d593d8742a3c02f08":[7,0,1064,2],
 "de/d2f/structFactionTemplateEntry.html#ae53f6799be5ae4bf7ab047fd97a4a969":[7,0,1064,8],
 "de/d2f/structFactionTemplateEntry.html#af0d102e7e7ae480b2c61cf121bcd012a":[7,0,1064,0],
-"de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[7,0,1064,10],
-"de/d30/SpellMgr_8h.html":[8,0,0,0,1,2,41,9]
+"de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[7,0,1064,10]
 };

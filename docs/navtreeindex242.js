@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105ac51d39543e774ca2ee4ae53d52f03cb1":[8,0,0,0,1,3,7,1,2,21,1],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105ad3c7f007ed0566168c69a069c7ef59a4":[8,0,0,0,1,3,7,1,2,21,9],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105ad5108681cb841e0ece17578aa3b62758":[8,0,0,0,1,3,7,1,2,21,0],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105ada79f8ca274faf68481810978002f6d1":[8,0,0,0,1,3,7,1,2,21,26],
@@ -221,12 +222,12 @@ var NAVTREEINDEX242 =
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[7,0,3914,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[7,0,0,4,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,0,7,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[7,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,7,0,1,2],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[7,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,0,7,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[7,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,7,0,1,1],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[7,0,0,4,0,1,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[7,0,0,4,0,1,3],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[5,0,0,7,0,1,3],
 "d9/d08/classMapPreloadRequest.html":[7,0,1530],
@@ -236,8 +237,8 @@ var NAVTREEINDEX242 =
 "d9/d08/classMapPreloadRequest.html#ae6d0d229c7cd04152fd54d03aa69306a":[7,0,1530,3],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[7,0,0,1,6],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html":[5,0,0,2,6],
-"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[7,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[5,0,0,2,6,0],
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a72f92e01d1f385cf8d6ba7c31faa77e2":[7,0,0,1,6,0],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[5,0,0,2,6,1],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[7,0,0,1,6,1],
 "d9/d0c/SessionKeyGenerator_8h.html":[8,0,0,0,0,3,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d0c/classnpc__simone.html#ae2b1a653be3767881769b54607219757":[7,0,2164,4],
 "d9/d0d/classachievement__auriaya__nine__lives.html":[7,0,39],
 "d9/d0d/classachievement__auriaya__nine__lives.html#a750304bc946a7ecefec29dc18c429d3b":[7,0,39,0],
-"d9/d0d/classachievement__auriaya__nine__lives.html#ae1b7ee75a3e7343c3f5f8043b4e39362":[7,0,39,1],
-"d9/d0e/structemerald__dragonAI.html":[7,0,1042]
+"d9/d0d/classachievement__auriaya__nine__lives.html#ae1b7ee75a3e7343c3f5f8043b4e39362":[7,0,39,1]
 };

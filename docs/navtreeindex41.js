@@ -1,5 +1,6 @@
 var NAVTREEINDEX41 =
 {
+"d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a79274299b137c1f878a7b411595df7ef":[8,0,0,0,1,2,16,10,5,54,0],
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6a9f914d14cdb6832f4e393434f27e935d":[8,0,0,0,1,2,16,10,5,54,1],
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6ab243889b8ad4c8c14e665aa1b4a3067f":[8,0,0,0,1,2,16,10,5,54,2],
 "d1/daf/Unit_8h.html#a2e286ee4a83a7807f3dc1a62af7aafd6ada18913e4248795d60f430cc1561e56d":[8,0,0,0,1,2,16,10,5,54,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX41 =
 "d1/db2/structnpc__amanishi__lookout.html#ab94c8563d7c79279ed4922f1d0411ec9":[7,0,1627,2],
 "d1/db2/structnpc__amanishi__lookout.html#adf34c160c531164a459092f45588a7be":[7,0,1627,0],
 "d1/db2/structnpc__amanishi__lookout.html#ae9e6d22a781392107a7e50e5815c116c":[7,0,1627,3],
-"d1/db4/boss__thekal_8cpp.html":[8,0,0,0,1,3,2,15,10],
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,15,10,4]
+"d1/db4/boss__thekal_8cpp.html":[8,0,0,0,1,3,2,15,10]
 };

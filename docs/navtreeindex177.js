@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d38/classChatHandler.html#afdbe90fd350a062b2afae318284ce07d":[7,0,891,36],
 "d6/d38/classChatHandler.html#afdbeccdfa99d98175ce520f8eb5621dd":[7,0,891,55],
 "d6/d38/classChatHandler.html#affa04b48f8ce2a0c11b9e245e200f68b":[7,0,891,23],
 "d6/d38/classspell__gen__feign__death__all__flags.html":[7,0,3063],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d40/classboss__emalon.html#a2dd481292e02337bebd450f5c9821886":[7,0,457,1],
 "d6/d40/classboss__emalon.html#a345b0663ba89de5e37b87a436c48e446":[7,0,457,2],
 "d6/d40/classspell__eredar__twins__blaze.html":[7,0,2960],
-"d6/d40/classspell__eredar__twins__blaze.html#a20fdb423d5db4f1fa629a0f0480e2a9f":[7,0,2960,1],
-"d6/d40/classspell__eredar__twins__blaze.html#a98d9d84fd26d110efbbbaba9a19ef423":[7,0,2960,3]
+"d6/d40/classspell__eredar__twins__blaze.html#a20fdb423d5db4f1fa629a0f0480e2a9f":[7,0,2960,1]
 };

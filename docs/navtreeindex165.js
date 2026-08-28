@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/classspell__apothecary__throw__cologne.html#a132d35555f1d589caa65ecd3728976d5":[7,0,2658,2],
 "d5/dd6/classspell__apothecary__throw__cologne.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5":[7,0,2658,1],
 "d5/dd6/classspell__apothecary__throw__cologne.html#a503ce41357f8195837c9b14f2468fb5b":[7,0,2658,3],
 "d5/dd6/classspell__apothecary__throw__cologne.html#acbff60b24bd0239880378b48cb97b6a4":[7,0,2658,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#ac62ec499aba734d36249f8c00b36e2d4":[7,0,2224,0,3],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#aca05fee85997dffba6ec998b144b9495":[7,0,2224,0,6],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af574a4b136ff42c597e30c83e4d463ca":[7,0,2224,0,12],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af5fd69b799c6227dba901f434e30c434":[7,0,2224,0,8],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#afb398bda1d6ee4d35527208e6c5bffee":[7,0,2224,0,4]
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af5fd69b799c6227dba901f434e30c434":[7,0,2224,0,8]
 };

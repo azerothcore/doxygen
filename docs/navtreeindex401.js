@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"de/dfc/structnpc__flamewaker__priest.html#a87ebaf50263847a58c238ea2b7105b84":[7,0,1826,1],
 "de/dfc/structnpc__flamewaker__priest.html#a97c419bcf7fc02bfe792ed925f7857c2":[7,0,1826,5],
 "de/dfc/structnpc__flamewaker__priest.html#aa0b872053b56d11077d2dbe25c1870d1":[7,0,1826,0],
 "de/dfd/OutdoorPvPGH_8h.html":[8,0,0,0,1,3,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a1a0c0432924d86090fbda4628e8a1fa7":[8,0,0,0,1,3,2,1,1,0,5,27],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a1c7da222e3cbd70261d8fde5b4567ebe":[8,0,0,0,1,3,2,1,1,0,5,22],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a32cc23c6da3d110c70631aa99f4fc336":[8,0,0,0,1,3,2,1,1,0,5,17],
-"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a38a7f7ad51f4ec2e91337883781e0227":[8,0,0,0,1,3,2,1,1,0,5,28],
-"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a3ddb578e0a5da45528672cf30814abb9":[8,0,0,0,1,3,2,1,1,0,5,13]
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a38a7f7ad51f4ec2e91337883781e0227":[8,0,0,0,1,3,2,1,1,0,5,28]
 };

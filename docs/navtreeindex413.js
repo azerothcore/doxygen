@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[7,0,2935,4],
 "df/d86/npc__innkeeper_8cpp.html":[8,0,0,0,1,3,10,9],
 "df/d86/npc__innkeeper_8cpp.html#a022e344eaf73aa8ab6655d2c6aaac688":[8,0,0,0,1,3,10,9,7],
 "df/d86/npc__innkeeper_8cpp.html#a072a033da374692139d9d33e63be89ca":[8,0,0,0,1,3,10,9,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/d8d/structSmartTarget.html#a1d48117a9bdf1ffe54145ac2b583b501":[7,0,2617,16],
 "df/d8d/structSmartTarget.html#a21810f28a0a9df4e55facf1d182bd68c":[7,0,2617,53],
 "df/d8d/structSmartTarget.html#a283ae7d8a9e5b9b4a02c1ec8f0a28a48":[7,0,2617,46],
-"df/d8d/structSmartTarget.html#a28a91da4b59f75cd41df0e712337b291":[7,0,2617,31],
-"df/d8d/structSmartTarget.html#a2ed93baf995e552b1bf290ca7a3c21d9":[7,0,2617,52]
+"df/d8d/structSmartTarget.html#a28a91da4b59f75cd41df0e712337b291":[7,0,2617,31]
 };

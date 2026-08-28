@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"d9/d82/classspell__ruby__sanctum__rallying__shout.html#a0178e7c4f5509a4bb2c6ed3811fc9685":[7,0,4058,3],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a207c1fd89fd726054a881e342391d2a0":[7,0,4058,0],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#a47574795b2a262625c65ab23a4179684":[7,0,4058,2],
 "d9/d82/classspell__ruby__sanctum__rallying__shout.html#ae1e230ad204a280a261ebe0f21c7f8a5":[7,0,4058,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aa6f9a4e0a593778c4369b11d15d0bd48":[8,0,0,0,1,3,5,9,2,1,11,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6aafe8f1c7091206633ee41c4768b05ac4":[8,0,0,0,1,3,5,9,2,1,11,20],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6abc06872add94bd7b52c5f4f787d2fdf2":[8,0,0,0,1,3,5,9,2,1,11,3],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ac443a3c51bfff2ef923636c614020539":[8,0,0,0,1,3,5,9,2,1,11,11],
-"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ac53723233f464d1467e5b9b9a66dc668":[8,0,0,0,1,3,5,9,2,1,11,2]
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6ac443a3c51bfff2ef923636c614020539":[8,0,0,0,1,3,5,9,2,1,11,11]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/d93/classspell__item__swift__hand__justice__dummy.html#a88510ad234c654bbe3316f6557742f77":[7,0,3499,0],
 "de/d93/classspell__item__swift__hand__justice__dummy.html#adff2a6b6161cc6fa6a49bd55c088394c":[7,0,3499,1],
 "de/d93/classspell__item__swift__hand__justice__dummy.html#aeaae510592ba20f76e322701a9c30c17":[7,0,3499,2],
 "de/d95/classTicketMgr.html":[7,0,4567],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[7,0,4628,2],
 "de/da0/classspell__mage__imp__blizzard.html":[7,0,3625],
 "de/da0/classspell__mage__imp__blizzard.html#a4f3c644a91dab0641ef489fd2da171a2":[7,0,3625,2],
-"de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[7,0,3625,1],
-"de/da0/classspell__mage__imp__blizzard.html#a6fee4af68a8d312bcb543e0c67932cc9":[7,0,3625,3]
+"de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[7,0,3625,1]
 };

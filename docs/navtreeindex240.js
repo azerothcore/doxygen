@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[8,0,0,0,1,3,2,1,1,14,4,4],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2":[8,0,0,0,1,3,2,1,1,14,4,5],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,1,1,14,4,0],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298cab0e989f0b2dc3581edd2550b8213e294":[8,0,0,0,1,3,2,1,1,14,4,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df6/classspell__skadi__launch__harpoon.html#ad95c61a3977d7fa1c47902fb0a0d3843":[7,0,4161,1],
 "d8/df6/structnpc__spawn__of__marli.html":[7,0,2173],
 "d8/df6/structnpc__spawn__of__marli.html#a1b8afff5d90df02d16b81785026b2ff0":[7,0,2173,1],
-"d8/df6/structnpc__spawn__of__marli.html#a1c456e7deb43d2e4dd1abc6f702c3f75":[7,0,2173,3],
-"d8/df6/structnpc__spawn__of__marli.html#a1dcd5066de108203903f5767c4b375ea":[7,0,2173,0]
+"d8/df6/structnpc__spawn__of__marli.html#a1c456e7deb43d2e4dd1abc6f702c3f75":[7,0,2173,3]
 };

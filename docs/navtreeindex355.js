@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a2030d790b86a3852d60c2ba82ce29db1":[8,0,0,0,1,3,5,4,2,5,13,7],
 "dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a308f468e9a072be6e9693a794affc7b7":[8,0,0,0,1,3,5,4,2,5,13,4],
 "dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a39357c591028f8ea29cc773f854c9076":[8,0,0,0,1,3,5,4,2,5,13,8],
 "dd/dac/pit__of__saron_8h.html#ad26ea5475376c8d88db267721325c0d2a5e2c7186ad3c4769801e9fe7209c32a8":[8,0,0,0,1,3,5,4,2,5,13,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ad5b32ae894fa82cc4251ea6d2d7f658b":[8,0,0,0,1,3,5,23,40,7],
 "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae711329488894689e0f1358640cd9399":[8,0,0,0,1,3,5,23,40,0],
 "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae8457fa3c07267f329e0540b0a3b1549":[8,0,0,0,1,3,5,23,40,2],
-"dd/db3/classReputationMgr.html":[7,0,2543],
-"dd/db3/classReputationMgr.html#a0c7e77faf6bfabc7449ae097a8540d38":[7,0,2543,10]
+"dd/db3/classReputationMgr.html":[7,0,2543]
 };

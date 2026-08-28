@@ -1,5 +1,6 @@
 var NAVTREEINDEX383 =
 {
+"de/d3b/classMotionMaster.html#acfa8144831a07d09e6efba5a106ca43e":[7,0,1568,32],
 "de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f":[7,0,1568,38],
 "de/d3b/classMotionMaster.html#ad3e80736bf2830c3f11816811a42eaf6":[7,0,1568,2],
 "de/d3b/classMotionMaster.html#ad4ef2833bd62b482343d038e4398645c":[7,0,1568,47],
@@ -248,6 +249,5 @@ var NAVTREEINDEX383 =
 "de/d3e/structnpc__azure__mage__slayer.html#a8f537bf85f7d50dda0f3e2e9cb7bd293":[7,0,1669,0],
 "de/d3e/structnpc__azure__mage__slayer.html#aadb7b09a9fbdd9ca8f04ba38e79901b3":[7,0,1669,3],
 "de/d3e/structnpc__azure__mage__slayer.html#ad760e69d3246117726b2a2e066e6c5ce":[7,0,1669,1],
-"de/d3f/BattlegroundMgr_8cpp.html":[8,0,0,0,1,2,8,11],
-"de/d3f/classspell__igb__overheat__aura.html":[7,0,3311]
+"de/d3f/BattlegroundMgr_8cpp.html":[8,0,0,0,1,2,8,11]
 };

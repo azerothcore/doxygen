@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#ae7048a32a16757abc4bb083e379249b4":[4,1,19,311],
 "d8/d74/classWorldSession.html#ae70ca154a2f5cf4fd330c5718110e1e9":[4,1,19,227],
 "d8/d74/classWorldSession.html#ae855e41e6372454a909758ece8e6e82a":[4,1,19,601],
 "d8/d74/classWorldSession.html#ae89c152111180b1ce0ff736d54a022a8":[4,1,19,407],
@@ -129,8 +130,8 @@ var NAVTREEINDEX231 =
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1622],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1622,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1622,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a5d00583afa4e811e4f3cb8400787a990":[7,0,1943,0,5],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a69b395a9b9504737109870c5e8db74c8":[7,0,1943,0,3],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ab40287c6bfc67b09bf7336ea53116cab":[7,0,1943,0,2],
-"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ac7132ac84a64bccbcf8895cbc4a86f9c":[7,0,1943,0,1],
-"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#af4b8c80e7443bb671be253238b124910":[7,0,1943,0,4]
+"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ac7132ac84a64bccbcf8895cbc4a86f9c":[7,0,1943,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a3ddb578e0a5da45528672cf30814abb9":[8,0,0,0,1,3,2,1,1,0,5,13],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a429e55a9de628624ca3406538c5b72f3":[8,0,0,0,1,3,2,1,1,0,5,19],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a461abb41884a3ef6688ddedb03b29f07":[8,0,0,0,1,3,2,1,1,0,5,15],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a46caa76e421265b40e4fbe06bcc49e45":[8,0,0,0,1,3,2,1,1,0,5,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[7,0,13,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,34,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[7,0,13,2,4,2],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
-"df/d14/classspell__item__heartpierce.html":[7,0,3423]
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2]
 };

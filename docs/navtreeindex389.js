@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"de/d79/classGuild.html#aee0f99254e3c1fb88311876b2562e8a3":[7,0,1282,75],
 "de/d79/classGuild.html#aee9f5a339a9073219a29f634072c2f7e":[7,0,1282,13],
 "de/d79/classGuild.html#af0ea8e3ce20309b0790ad813777f1614":[7,0,1282,72],
 "de/d79/classGuild.html#af5cec12a703c5b02db7e4270c3b64c44":[7,0,1282,47],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d6e490960801191a590241ba200b2c":[8,0,0,0,1,3,2,4,5,5,0],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2385e82e98a5ec79d206aae4580c8504":[8,0,0,0,1,3,2,4,5,5,6],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca26438c32a6e128c85fccb573bc869f4a":[8,0,0,0,1,3,2,4,5,5,4],
-"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e7c9a294a6919b4b75ea034b46ae870":[8,0,0,0,1,3,2,4,5,5,2],
-"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca966a9f6d39c25574ae624c5b3eff675b":[8,0,0,0,1,3,2,4,5,5,1]
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e7c9a294a6919b4b75ea034b46ae870":[8,0,0,0,1,3,2,4,5,5,2]
 };

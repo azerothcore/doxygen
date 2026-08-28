@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d13/classspell__rog__glyph__of__backstab.html":[7,0,4026],
 "d6/d13/classspell__rog__glyph__of__backstab.html#a34fc7c89e962791d76c24c40bbdba827":[7,0,4026,0],
 "d6/d13/classspell__rog__glyph__of__backstab.html#a3558a23d2d428ee4f0bec8ae6c1afba5":[7,0,4026,1],
 "d6/d13/classspell__rog__glyph__of__backstab.html#aab998e808ec9f53e87d92e71b3cc1c30":[7,0,4026,2],
@@ -142,12 +143,12 @@ var NAVTREEINDEX172 =
 "d6/d16/classspell__hexlord__unstable__affliction.html#ac496e7bef875ca46660217e74fc3bc74":[7,0,3221,3],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html":[7,0,1382,0],
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[7,0,1382,0,0],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[7,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed28a8be687a7f82b1bd99b946a1f43b":[8,0,0,0,1,3,5,6,11,35,14],
 "d6/d1a/classOutdoorPvPEP.html":[7,0,2384],
 "d6/d1a/classOutdoorPvPEP.html#a09e5cf029656af3fc740b236596d42ee":[7,0,2384,10],
-"d6/d1a/classOutdoorPvPEP.html#a251b154abfaec9cbfb1a56e657ac5214":[7,0,2384,4],
-"d6/d1a/classOutdoorPvPEP.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1":[7,0,2384,11]
+"d6/d1a/classOutdoorPvPEP.html#a251b154abfaec9cbfb1a56e657ac5214":[7,0,2384,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/da7/classBattleground.html#a50d5eb3fe1e847aedc5584ea8a441bd8":[7,0,330,137],
 "df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af":[7,0,330,135],
 "df/da7/classBattleground.html#a55305a8fcb4f4eaa7cbb20a74a75fa2a":[7,0,330,206],
 "df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[7,0,330,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX417 =
 "df/dab/boss__krystallus_8cpp.html#af4edae984bfe1d62b750eec0e9b7c015":[8,0,0,0,1,3,5,9,1,0,7],
 "df/dae/classspell__drakkari__colossus__emerge.html":[7,0,2873],
 "df/dae/classspell__drakkari__colossus__emerge.html#a3ef0564565ea49265800422c835432b0":[7,0,2873,1],
-"df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[7,0,2873,2],
-"df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[7,0,2873,0]
+"df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[7,0,2873,2]
 };

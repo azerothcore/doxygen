@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a04c3d4dafb59b9f08115ce405896ddcd":[8,0,0,0,1,3,5,9,2,6,27,9],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a22bf3c326eb768b3ea8d3f16495f1992":[8,0,0,0,1,3,5,9,2,6,27,5],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a4bfcbc01426a0b2a40ae645419727741":[8,0,0,0,1,3,5,9,2,6,27,4],
 "dc/d30/boss__hodir_8cpp.html#a3e2150385905a950658cd5d6b1385648a4dc4e373cf25e10db7b0dd8776bcf3d2":[8,0,0,0,1,3,5,9,2,6,27,11],
@@ -180,10 +181,10 @@ var NAVTREEINDEX322 =
 "dc/d33/TaskScheduler_8h.html":[8,0,0,0,0,15,34],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[7,0,0,24],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,0,36],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[7,0,0,24,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,0,36,0],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[7,0,0,24,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[7,0,0,24,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,0,36,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[7,0,0,24,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,0,36,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[7,0,0,24,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[7,0,0,24,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d35/classadt__MHDR.html#a23b9fac4ccbdcae862135fa3cbe3061d":[7,0,145,22],
 "dc/d35/classadt__MHDR.html#a28a247f0addfd93d3eeed190516e515a":[7,0,145,1],
 "dc/d35/classadt__MHDR.html#a4936a7d0e5ad64f4f75f6550418f80e6":[7,0,145,6],
-"dc/d35/classadt__MHDR.html#a5014297529c070757b1a3672f679b83f":[7,0,145,0],
-"dc/d35/classadt__MHDR.html#a5d1b23b9a55361516d4dedbef5886d52":[7,0,145,9]
+"dc/d35/classadt__MHDR.html#a5014297529c070757b1a3672f679b83f":[7,0,145,0]
 };

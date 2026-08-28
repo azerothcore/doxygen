@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1":[7,0,1395,0,1],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#aeca34a55f3c378311ae1b46313cf22de":[7,0,1395,0,11],
 "de/d5c/structinstance__zulgurub_1_1instance__zulgurub__InstanceMapScript.html#af0e854382a2316363c50d60f03095097":[7,0,1395,0,9],
 "de/d5d/structinstance__sunwell__plateau_1_1instance__sunwell__plateau__InstanceMapScript.html":[7,0,1376,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "de/d66/classnpc__karynaku.html#a4cae1950fe3b7b4ae6f2e6691800ec47":[7,0,1950,1],
 "de/d66/classnpc__karynaku.html#aa6a3cb409cdbc990f1eee4137c7519d2":[7,0,1950,0],
 "de/d69/DisableMgr_8cpp.html":[8,0,0,0,1,2,13,2],
-"de/d69/classgo__skull__pile.html":[7,0,1214],
-"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[7,0,1214,3]
+"de/d69/classgo__skull__pile.html":[7,0,1214]
 };

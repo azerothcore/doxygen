@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[7,0,1957,0,7],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5d9f4039c87e1e57234af51cd4617022":[7,0,1957,0,8],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a7b14483f361a90b1ff2c5de06d6dbbaf":[7,0,1957,0,5],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#abf30320da7f6fc6a4f213b0c4b2b24ce":[7,0,1957,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX408 =
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1678,0,8],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a19c6ac3829ae4c38263eda116d56df88":[7,0,1678,0,6],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html#a1f24ea5604563c9a16c5a2a91ae078f1":[7,0,1678,0,1],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a27a8ceb27724f074de840d24dcf0e284":[7,0,1678,0,12],
-"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a47ac00c081635aeba9ef02a7f1bbd645":[7,0,1678,0,10]
+"df/d48/structnpc__barnes_1_1npc__barnesAI.html#a27a8ceb27724f074de840d24dcf0e284":[7,0,1678,0,12]
 };

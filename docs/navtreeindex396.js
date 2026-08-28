@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eac80c1eab903468e1ad601285c81c9f76":[8,0,0,0,1,3,7,4,3,5,2,15],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ead5eef2e0cd9e77cc0d969043bee11b65":[8,0,0,0,1,3,7,4,3,5,2,18],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eae67a54fc8b72a8b1be28430884327b68":[8,0,0,0,1,3,7,4,3,5,2,1],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eae9d5a78c8f26d0a7dd17e531e1943b94":[8,0,0,0,1,3,7,4,3,5,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898":[8,0,0,0,1,2,22,21,0,1],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[8,0,0,0,1,2,22,21,0,3],
 "de/dbe/classspell__tsh__shadow__bolt.html":[7,0,4271],
-"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[7,0,4271,0],
-"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[7,0,4271,2]
+"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[7,0,4271,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d59/structZoneDynamicInfo.html#a8c2c7772596ec58413bee2077e46790f":[7,0,4728,1],
 "d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d":[7,0,4728,5],
 "d7/d5a/classachievement__arena__by__type.html":[7,0,36],
 "d7/d5a/classachievement__arena__by__type.html#a2042c808304e8ddf1849820491b9f1a3":[7,0,36,0],
@@ -152,8 +153,8 @@ var NAVTREEINDEX202 =
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[8,0,0,0,1,3,2,21],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[8,0,0,0,1,3,2,21,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[8,0,0,0,1,3,2,21,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d66/structboss__shade__of__aran.html#a84a6941826c6c2f1f70965e8909f796e":[7,0,710,13],
 "d7/d66/structboss__shade__of__aran.html#a88c6677edc8a37ac1e36fe6f1688d847":[7,0,710,11],
 "d7/d66/structboss__shade__of__aran.html#a93bec133a8a1ba41aa9eb86ff19e5eca":[7,0,710,15],
-"d7/d66/structboss__shade__of__aran.html#ac79c249652f1de37b0c7d31a86dd0e51":[7,0,710,4],
-"d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2":[7,0,710,6]
+"d7/d66/structboss__shade__of__aran.html#ac79c249652f1de37b0c7d31a86dd0e51":[7,0,710,4]
 };

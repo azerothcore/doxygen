@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"de/d1e/classMailSender.html#a16466924bf75ea8203ba27c0f3e6188b":[7,0,1511,0],
 "de/d1e/classMailSender.html#a1bbced35b4600f9a45a421d28a33393b":[7,0,1511,11],
 "de/d1e/classMailSender.html#a45a312eda342d2197f15d73b47d7787b":[7,0,1511,9],
 "de/d1e/classMailSender.html#a64c99a49ec01d2226b6bf740edb380fb":[7,0,1511,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1":[8,0,0,0,1,2,18,3,95],
 "de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a0e2fa46595e86120500ebed3364c4517":[8,0,0,0,1,2,18,3,95,2],
 "de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a45a5df47172b7b6a42469001aaf5a980":[8,0,0,0,1,2,18,3,95,4],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169":[8,0,0,0,1,2,18,3,95,0],
-"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a74c910b835e0492fb79550380d3f163b":[8,0,0,0,1,2,18,3,95,3]
+"de/d25/ObjectMgr_8h.html#affa6a379d099508f3a01ff6af8eed1c1a5bdaad82dcbdf2065149c45bc78d8169":[8,0,0,0,1,2,18,3,95,0]
 };

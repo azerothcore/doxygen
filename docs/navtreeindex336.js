@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae":[8,0,0,0,1,2,16,5,5,16,3],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a":[8,0,0,0,1,2,16,5,5,16,9],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a":[8,0,0,0,1,2,16,5,5,16,10],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234":[8,0,0,0,1,2,16,5,5,16,2],
@@ -101,14 +102,14 @@ var NAVTREEINDEX336 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[7,0,3897,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,0,83],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[7,0,0,71],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[7,0,0,71,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,0,83,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[7,0,0,71,4],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,83,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,0,83,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[7,0,0,71,2],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,0,83,1],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,0,83,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[7,0,0,71,1],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,0,83,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,0,83,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[7,0,0,71,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,0,83,5],
@@ -137,8 +138,8 @@ var NAVTREEINDEX336 =
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html":[5,0,34,7,3],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[5,0,34,7,3,2],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a17f065fc6d5438d74f38bde67a841be7":[7,0,13,7,3,2],
-"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[7,0,13,7,3,0],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[5,0,34,7,3,0],
+"dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#a82e12a0f207590b6176253cf36a22d2f":[7,0,13,7,3,0],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#af03055514ef0e1e97f24c66d2cd94185":[5,0,34,7,3,1],
 "dc/dd4/classWorldPackets_1_1Instance_1_1ResetFailedNotify.html#af03055514ef0e1e97f24c66d2cd94185":[7,0,13,7,3,1],
 "dc/dd4/classflag96.html":[7,0,1081],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dc/dd9/classspell__pilgrims__bounty__food.html#a07ac70b6e91c61dcb59c368381a877dd":[7,0,3804,0],
 "dc/dd9/classspell__pilgrims__bounty__food.html#a55115ca986d5226588d168ced7ab1f55":[7,0,3804,1],
 "dc/dd9/classspell__pilgrims__bounty__food.html#ad8811bf48dfb564afcd82cf51b860255":[7,0,3804,2],
-"dc/dd9/structDuelInfo.html":[7,0,1022],
-"dc/dd9/structDuelInfo.html#a183f336e52fe7cdaa34dbb43991d0c39":[7,0,1022,0]
+"dc/dd9/structDuelInfo.html":[7,0,1022]
 };

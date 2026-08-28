@@ -1,5 +1,6 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd1/structMovementInfo.html":[7,0,1576],
 "d2/dd1/structMovementInfo.html#a01585307a3db62a34f7d2e243dd52265":[7,0,1576,8],
 "d2/dd1/structMovementInfo.html#a10c1c9721558fd98d33bb43b3bfff837":[7,0,1576,18],
 "d2/dd1/structMovementInfo.html#a683565ad0865709083e81d07a8ce1395":[7,0,1576,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX76 =
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a30d65bc3625ed22e11ed7e040451643c":[7,0,2088,0,9],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a5d7a324073cfdbd01ae267964959f15b":[7,0,2088,0,2],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a849b06a045de5529706e83b03febe135":[7,0,2088,0,6],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc":[7,0,2088,0,1],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ad84905d1385bce0e431c2baf1158a343":[7,0,2088,0,3]
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc":[7,0,2088,0,1]
 };

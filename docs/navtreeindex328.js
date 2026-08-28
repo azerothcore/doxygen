@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae214e438deb4c1109e5db7b7a65d0bf1":[8,0,0,0,1,2,26,2,0,148],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae502527b0aa6651de94c9f2cd833ab3c":[8,0,0,0,1,2,26,2,0,124],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7648b25c80ab6b38b3aab5449abdb89":[8,0,0,0,1,2,26,2,0,11],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7e1320fd0c7cf9303bc905eb83f7094":[8,0,0,0,1,2,26,2,0,3],
@@ -206,18 +207,18 @@ var NAVTREEINDEX328 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[7,0,13,6,44,5],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,34,6,44,5],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[7,0,13,6,44,1],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[5,0,34,6,44,1],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[7,0,13,6,44,1],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[7,0,13,6,44,0],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[5,0,34,6,44,0],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[5,0,34,6,44,12],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[7,0,13,6,44,12],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[5,0,34,6,44,3],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[5,0,34,6,44,12],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[7,0,13,6,44,3],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a9dad860d61da34048ab2d52ada0cb43f":[5,0,34,6,44,3],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[5,0,34,6,44,7],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[7,0,13,6,44,7],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[7,0,13,6,44,10],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[5,0,34,6,44,10],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[7,0,13,6,44,10],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[5,0,34,6,44,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[7,0,13,6,44,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#acb553637ff289603411fa5795a361deb":[5,0,34,6,44,4],
@@ -226,8 +227,8 @@ var NAVTREEINDEX328 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad3ee1ba956ea725db8588e3be3c57b18":[7,0,13,6,44,11],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[5,0,34,6,44,6],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[7,0,13,6,44,6],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[5,0,34,6,44,8],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[7,0,13,6,44,8],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[5,0,34,6,44,8],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html":[8,0,0,0,1,3,7,4,0,2],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,0,2,3],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,4,0,2,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a5bd342133be8c2137b831460acc9298cab121c93ef274ba2791c63674950ef6a6":[8,0,0,0,1,3,7,4,0,2,4,0],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a5bd342133be8c2137b831460acc9298caf73cbff9af5021e410493d873614519c":[8,0,0,0,1,3,7,4,0,2,4,4],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#af322170b8d6ad428560c7ab2512f2a6f":[8,0,0,0,1,3,7,4,0,2,5],
-"dc/d5b/classnpc__highborne__lamenter.html":[7,0,1885],
-"dc/d5b/classnpc__highborne__lamenter.html#a40316cf73a688e34e95dd41feef8612a":[7,0,1885,1]
+"dc/d5b/classnpc__highborne__lamenter.html":[7,0,1885]
 };

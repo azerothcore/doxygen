@@ -1,5 +1,6 @@
 var NAVTREEINDEX415 =
 {
+"df/d99/structboss__kalec.html#a4813ca02ed5ffc35add5279cc1ec277f":[7,0,580,2],
 "df/d99/structboss__kalec.html#a9c36e31c750e93840f30f001cdaca0da":[7,0,580,0],
 "df/d99/structboss__kalec.html#ab55da7584fa7f545761a5bd547245747":[7,0,580,3],
 "df/d99/structnpc__dark__iron__attack__generator.html":[7,0,1767],
@@ -248,6 +249,5 @@ var NAVTREEINDEX415 =
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e455c0ae51cf9a08598dfbd3cfad1a":[8,0,0,0,1,3,5,2,0,1,11,5],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca21dfd49364e5c7f56b32d3790ce58865":[8,0,0,0,1,3,5,2,0,1,11,4],
 "df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca34d4264f20ac34c576040adb9acd9de9":[8,0,0,0,1,3,5,2,0,1,11,13],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a3471e87129d66a53cc20a0bcca0a0e":[8,0,0,0,1,3,5,2,0,1,11,14],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3afb5f03f9d82ed90abb2f53de84c99f":[8,0,0,0,1,3,5,2,0,1,11,11]
+"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a3471e87129d66a53cc20a0bcca0a0e":[8,0,0,0,1,3,5,2,0,1,11,14]
 };

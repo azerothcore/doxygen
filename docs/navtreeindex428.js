@@ -1,5 +1,6 @@
 var NAVTREEINDEX428 =
 {
+"df/df8/classspell__mage__empowered__fire.html#a62a1ae18832157f00ee2eea31ff13d01":[7,0,3610,2],
 "df/df8/classspell__mage__empowered__fire.html#a9d6d6d752da222fd0edbb045840893fd":[7,0,3610,1],
 "df/df8/classspell__mage__empowered__fire.html#a9e8a8a231ee04be353be7f0bf320776b":[7,0,3610,4],
 "df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[7,0,3610,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX428 =
 "dir_c606529abee686f44b65a2777767c446.html":[8,0,0,0,1,3],
 "dir_c6385164885fcc1084c3c73758de0380.html":[8,0,0,0,1,2,19,0],
 "dir_c6a050c7db8efacb27792da37f17de7b.html":[8,0,0,0,1,2,16,9],
-"dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[8,0,0,0,1,2,22],
-"dir_c6c1ef729e7487551f9ee2947f9e6a75.html":[8,0,0,0,1,3,5,10,1]
+"dir_c6aa1690377d4e56e32ba0c89772ac1d.html":[8,0,0,0,1,2,22]
 };

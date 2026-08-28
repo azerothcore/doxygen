@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"dd/db3/classReputationMgr.html#a0c7e77faf6bfabc7449ae097a8540d38":[7,0,2543,10],
 "dd/db3/classReputationMgr.html#a0e862045f71f48fa0b3a921be0ffd1be":[7,0,2543,45],
 "dd/db3/classReputationMgr.html#a0fdd378dfbd1b63c1877c9141a20e2fe":[7,0,2543,3],
 "dd/db3/classReputationMgr.html#a1c217a2d0b1f4f1079f9353294a37170":[7,0,2543,40],
@@ -124,8 +125,8 @@ var NAVTREEINDEX356 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4392],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dc7/razorfen__downs_8cpp.html":[8,0,0,0,1,3,4,6,1],
 "dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9":[8,0,0,0,1,3,4,6,1,6],
 "dd/dc7/razorfen__downs_8cpp.html#aa1cc9839b8806bd940e01edfee8b8cee":[8,0,0,0,1,3,4,6,1,5],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afba":[8,0,0,0,1,3,4,6,1,4],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f":[8,0,0,0,1,3,4,6,1,4,12]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afba":[8,0,0,0,1,3,4,6,1,4]
 };

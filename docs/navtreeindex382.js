@@ -1,5 +1,6 @@
 var NAVTREEINDEX382 =
 {
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c":[8,0,0,0,1,2,41,9,66,6],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58":[8,0,0,0,1,2,41,9,66,29],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488":[8,0,0,0,1,2,41,9,66,31],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aec3e2077cfabdc92fbbc9a1858dd5c7b":[8,0,0,0,1,2,41,9,66,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX382 =
 "de/d3b/classMotionMaster.html#aaa45030e4e988d3337350cc2a8385f4c":[7,0,1568,73],
 "de/d3b/classMotionMaster.html#aafe3a2f555b597f7904269a640c9dfd1":[7,0,1568,44],
 "de/d3b/classMotionMaster.html#ab8dd6cc77c73d04fef110e14b0735023":[7,0,1568,17],
-"de/d3b/classMotionMaster.html#abd9c0d7eaa1a475ca8eb83f7667e6ace":[7,0,1568,6],
-"de/d3b/classMotionMaster.html#acfa8144831a07d09e6efba5a106ca43e":[7,0,1568,32]
+"de/d3b/classMotionMaster.html#abd9c0d7eaa1a475ca8eb83f7667e6ace":[7,0,1568,6]
 };

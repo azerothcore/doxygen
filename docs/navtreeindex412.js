@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4552,0],
 "df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[7,0,4552,2],
 "df/d75/classtele__commandscript.html#a2f68bad0f1af5d40fcefb8c394472b65":[7,0,4552,9],
 "df/d75/classtele__commandscript.html#a52852b7f3d7a6bbf68164e6918b9a141":[7,0,4552,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d86/classspell__dru__t3__2p__bonus.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d":[7,0,2935,0],
 "df/d86/classspell__dru__t3__2p__bonus.html#a38de7578466df47ebe6fc7b5bfab616b":[7,0,2935,3],
 "df/d86/classspell__dru__t3__2p__bonus.html#a506420e3e109bf8f4e7c83b101c80c3c":[7,0,2935,1],
-"df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[7,0,2935,2],
-"df/d86/classspell__dru__t3__2p__bonus.html#ad81044da0924211cbbaccc671839983c":[7,0,2935,4]
+"df/d86/classspell__dru__t3__2p__bonus.html#a5e81587c47cbb6f331b6d5f8f22d7616":[7,0,2935,2]
 };

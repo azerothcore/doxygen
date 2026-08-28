@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d72/classspell__hun__animal__handler.html":[7,0,3240],
 "dc/d72/classspell__hun__animal__handler.html#a8f078f8370eacba197ceb2068b6a538d":[7,0,3240,2],
 "dc/d72/classspell__hun__animal__handler.html#ab249a493050c5527eeec8913e94cfc64":[7,0,3240,1],
 "dc/d72/classspell__hun__animal__handler.html#ac0018b57967a3d3ae71aa81745032f15":[7,0,3240,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d81/classCreatureTextMgr.html":[7,0,968],
 "dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[7,0,968,0],
 "dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[7,0,968,11],
-"dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,968,8],
-"dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[7,0,968,9]
+"dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,968,8]
 };

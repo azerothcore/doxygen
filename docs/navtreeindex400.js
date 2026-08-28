@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a342c8b5bd49e8cfd94c41a58159e4f5c":[7,0,2152,0,6],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a4fb20172c48257aafe284b3934a9c357":[7,0,2152,0,1],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a5ed567ac16bef8f53a66a12fbaf4573e":[7,0,2152,0,16],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a7a037981d3d2a37abf0d3995283ac218":[7,0,2152,0,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "de/dfc/structnpc__flamewaker__priest.html":[7,0,1826],
 "de/dfc/structnpc__flamewaker__priest.html#a0fce5f31e414f6e3fd140015b0b4524c":[7,0,1826,4],
 "de/dfc/structnpc__flamewaker__priest.html#a168ff12b2a915358fb59b8ff255c697e":[7,0,1826,3],
-"de/dfc/structnpc__flamewaker__priest.html#a5c539171b96fd5a98ce044c5d47ef815":[7,0,1826,2],
-"de/dfc/structnpc__flamewaker__priest.html#a87ebaf50263847a58c238ea2b7105b84":[7,0,1826,1]
+"de/dfc/structnpc__flamewaker__priest.html#a5c539171b96fd5a98ce044c5d47ef815":[7,0,1826,2]
 };

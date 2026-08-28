@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d2d/classachievement__thorim__lose__your__illusion.html":[7,0,104],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a322df4f30445a84085615925f74a8a6b":[7,0,104,1],
 "df/d2d/classachievement__thorim__lose__your__illusion.html#a449dda8a7a3f19d0aabaf9ca353d70bb":[7,0,104,0],
 "df/d2d/classspell__sindragosa__mystic__buffet.html":[7,0,4156],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a0f3852f332d4027b5a00a67e20ec886b":[7,0,1957,0,0],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1391f0fffa2f57cbb630b34bfc78aa64":[7,0,1957,0,9],
 "df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a1ce9bf99879796652878990a773e6a2c":[7,0,1957,0,4],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[7,0,1957,0,1],
-"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a5780cb1c041d7a57f75e0dbeadc27814":[7,0,1957,0,7]
+"df/d3a/structnpc__kinetic__bomb_1_1npc__kinetic__bombAI.html#a52e913b244e58f99745926d021dc0d95":[7,0,1957,0,1]
 };

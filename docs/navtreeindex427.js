@@ -1,5 +1,6 @@
 var NAVTREEINDEX427 =
 {
+"df/ded/mechanar_8h.html#a39021e64713f2dfbd1788bb15384a774":[8,0,0,0,1,3,7,5,3,6,8],
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343":[8,0,0,0,1,3,7,5,3,6,3],
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343a1a2616300bcd960929e24f84f18a93af":[8,0,0,0,1,3,7,5,3,6,3,1],
 "df/ded/mechanar_8h.html#acd63cd93ca0fdfe8177c88f2bb3b5343a6bf5450598a85734fd601aadcb5c921b":[8,0,0,0,1,3,7,5,3,6,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX427 =
 "df/df7/boss__drakos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6932e5c5a0f6aec9e3041fe0c295119":[8,0,0,0,1,3,5,8,2,0,5,3],
 "df/df8/CombatHandler_8cpp.html":[8,0,0,0,1,2,22,11],
 "df/df8/classspell__mage__empowered__fire.html":[7,0,3610],
-"df/df8/classspell__mage__empowered__fire.html#a5c417d0c4e46ebd2356f2d78ba5eee14":[7,0,3610,3],
-"df/df8/classspell__mage__empowered__fire.html#a62a1ae18832157f00ee2eea31ff13d01":[7,0,3610,2]
+"df/df8/classspell__mage__empowered__fire.html#a5c417d0c4e46ebd2356f2d78ba5eee14":[7,0,3610,3]
 };

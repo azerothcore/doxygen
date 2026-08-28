@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/d58/classMapMgr.html#a4cdfa7a7388652aeba2f3e2f30a140a8":[7,0,1529,13],
 "d8/d58/classMapMgr.html#a4f4bd47119446bbb8265aa9b07120003":[7,0,1529,24],
 "d8/d58/classMapMgr.html#a56cf1faa23dcc6f4e2dd65bd3797d221":[7,0,1529,28],
 "d8/d58/classMapMgr.html#a5f8ae9583b0ac01a27abd0662a2f99fc":[7,0,1529,27],
@@ -106,8 +107,8 @@ var NAVTREEINDEX227 =
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[7,0,0,44,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[7,0,0,44,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[5,0,0,56,1],
-"d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[7,0,0,44,0],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[5,0,0,56,0],
+"d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[7,0,0,44,0],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[7,0,0,44,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a91fcbdcfb08964ebaacec8acae13476b":[5,0,0,56,2],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a985d622243d5c7c6c91eb01377b0f91b":[5,0,0,56,3],
@@ -120,18 +121,18 @@ var NAVTREEINDEX227 =
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a3ab2716cbccc1311992de44e6591d966":[7,0,3414,3],
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429":[7,0,3414,0],
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a8753419b2fa1b1bb96a08bf54995e82c":[7,0,3414,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,34,10,9],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[7,0,13,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[7,0,13,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[7,0,13,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[7,0,13,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[7,0,13,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
 "d8/d60/structSavedItem.html":[7,0,2562],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[7,0,2562,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[7,0,2562,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d6a/classspell__kormok__summon__bone__mages.html#a4f71583df2193274365944e6d228247c":[7,0,3566,1],
 "d8/d6a/classspell__kormok__summon__bone__mages.html#a51025308f88001f1f66d7f68f174f325":[7,0,3566,3],
 "d8/d6a/classspell__kormok__summon__bone__mages.html#a6ce169d6c1b106195f787b52ea433311":[7,0,3566,0],
-"d8/d6a/classspell__kormok__summon__bone__mages.html#aad8978dc0505d1fb80e2416f5525cbc7":[7,0,3566,2],
-"d8/d6a/structnpc__bessy_1_1npc__bessyAI.html":[7,0,1682,0]
+"d8/d6a/classspell__kormok__summon__bone__mages.html#aad8978dc0505d1fb80e2416f5525cbc7":[7,0,3566,2]
 };

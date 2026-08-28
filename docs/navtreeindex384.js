@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"de/d3f/classspell__igb__overheat__aura.html":[7,0,3311],
 "de/d3f/classspell__igb__overheat__aura.html#a24f79a4c59d4bf615a6de745ffa11d81":[7,0,3311,5],
 "de/d3f/classspell__igb__overheat__aura.html#a5f23d41765ec949486094a0da45be7e8":[7,0,3311,0],
 "de/d3f/classspell__igb__overheat__aura.html#a6bdc66b6028002b5fc873803a434b6b1":[7,0,3311,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[7,0,4181,2],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a8cc68fadf4ae20a9de24c75d2f61301f":[7,0,4181,3],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#aacd60538c8410fc313a09b1044ad6c7a":[7,0,4181,4],
-"de/d4d/classspell__summon__noblegarden__bunny__controller.html#ad39da0510c21855dd74abd93f33621c9":[7,0,4181,1],
-"de/d4d/events__script__loader_8cpp.html":[8,0,0,0,1,3,3,3]
+"de/d4d/classspell__summon__noblegarden__bunny__controller.html#ad39da0510c21855dd74abd93f33621c9":[7,0,4181,1]
 };

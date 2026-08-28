@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dc/dd9/structDuelInfo.html#a183f336e52fe7cdaa34dbb43991d0c39":[7,0,1022,0],
 "dc/dd9/structDuelInfo.html#a1b8b4c373b2e4243f8e33a391821528f":[7,0,1022,5],
 "dc/dd9/structDuelInfo.html#a2765770367c839ad28f804e2df3205cb":[7,0,1022,3],
 "dc/dd9/structDuelInfo.html#a8ff9ae1c990674b6ac0cd929f5114f23":[7,0,1022,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973aa8a554932a30e9159de25f854e900802":[8,0,0,0,1,3,3,1,34,23],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973aa9e0103d320395c7b3d83478e004268a":[8,0,0,0,1,3,3,1,34,8],
 "dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973aada263555448f72c6353399b21bfb84c":[8,0,0,0,1,3,3,1,34,18],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ab5e919448c2ee68b813a2115ca30a83c":[8,0,0,0,1,3,3,1,34,29],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ac8b56add24989032c805e09b8adb71d9":[8,0,0,0,1,3,3,1,34,26]
+"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973ab5e919448c2ee68b813a2115ca30a83c":[8,0,0,0,1,3,3,1,34,29]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html":[7,0,2481,5],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#a05786c8e0daef9a2da98f832c230d99c":[7,0,2481,5,1],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#a953f930e046655ca0d8f373362d3f334":[7,0,2481,5,0],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#aed48a1ad923118ac0a86d864e1e98519":[7,0,2481,5,2],
@@ -224,8 +225,8 @@ var NAVTREEINDEX320 =
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[7,0,3040],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[7,0,3040,3],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[7,0,3040,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d2a/black__temple_8h.html#a32b16118924e4b10aefafca72fff5e5f":[8,0,0,0,1,3,7,1,0,8],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,7,1,0,5],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa0effff99f23ad7afa973c32e132667ac":[8,0,0,0,1,3,7,1,0,5,11],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa1eb13881675a3055393d334f54354a4b":[8,0,0,0,1,3,7,1,0,5,3],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,7,1,0,5,6]
+"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa1eb13881675a3055393d334f54354a4b":[8,0,0,0,1,3,7,1,0,5,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX410 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#af18b011f8c9939da7813fafbc3bfe014":[5,0,31,21,5],
 "df/d56/classVMAP_1_1VMapMgr2.html#af18b011f8c9939da7813fafbc3bfe014":[7,0,11,21,5],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,31,21,3],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[7,0,11,21,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX410 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae02bbd8282d928b21b54058816f7a90c":[7,0,1822,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[7,0,1822,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[7,0,3198],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3198,3],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3198,1]
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[7,0,3198,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dc/de8/classBattlegroundIC.html#afb4961e6240b735b9c7b33ed3ba59e0c":[7,0,343,27],
 "dc/de8/structnpc__kalecgos__kj.html":[7,0,1949],
 "dc/de8/structnpc__kalecgos__kj.html#a57af12b97c6e250a50283b224bc5cb6f":[7,0,1949,7],
 "dc/de8/structnpc__kalecgos__kj.html#a5a6f22c34578ccb7a5c1696d8ed342d6":[7,0,1949,6],
@@ -161,14 +162,14 @@ var NAVTREEINDEX339 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4395,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4395,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4395,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#aef38e83e90c322bbef18b78e6339ef2e":[7,0,1278,0,1],
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#af4d933b56431d2f2755d87fb05922458":[7,0,1278,0,4],
 "dc/dfd/classspell__gen__throw__shield.html":[7,0,3150],
-"dc/dfd/classspell__gen__throw__shield.html#a1d7e2beafb55464f928ea5904441d698":[7,0,3150,1],
-"dc/dfd/classspell__gen__throw__shield.html#a422a77760004d6d6fac6bacdb1d436ff":[7,0,3150,0]
+"dc/dfd/classspell__gen__throw__shield.html#a1d7e2beafb55464f928ea5904441d698":[7,0,3150,1]
 };

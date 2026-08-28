@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad498385dc473aec465254d22cbfd27a3":[8,0,0,0,1,2,49,4,1,350],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad50ec2e0de801d877daf7f944d78b2fd":[8,0,0,0,1,2,49,4,1,105],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad680c56977376ad3651904efe84fbfd2":[8,0,0,0,1,2,49,4,1,85],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad6bd5d7abc2b2506204018a4d9c4e361":[8,0,0,0,1,2,49,4,1,278],
@@ -188,8 +189,8 @@ var NAVTREEINDEX263 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[7,0,844,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[7,0,844,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[7,0,844,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,58],
 "da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,59],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,58],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[7,0,844,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[7,0,844,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[7,0,844,69],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/d0a/boss__baron__geddon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa214943ff0c852409ba9986b13d8390e":[8,0,0,0,1,3,2,1,3,0,4,2],
 "da/d0a/classnpc__thrall__old__hillsbrad.html":[7,0,2217],
 "da/d0a/classnpc__thrall__old__hillsbrad.html#a17fcb00850503903f430506654e035c0":[7,0,2217,4],
-"da/d0a/classnpc__thrall__old__hillsbrad.html#a3e6fa750b095af3beac806a619e18328":[7,0,2217,1],
-"da/d0a/classnpc__thrall__old__hillsbrad.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c":[7,0,2217,2]
+"da/d0a/classnpc__thrall__old__hillsbrad.html#a3e6fa750b095af3beac806a619e18328":[7,0,2217,1]
 };

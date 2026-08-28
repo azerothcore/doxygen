@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[7,0,3198,1],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[7,0,3198,0],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[7,0,3198,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html":[7,0,3335],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[7,0,3065,1],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[7,0,3065,0],
 "df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[7,0,3065,2],
-"df/d75/classtele__commandscript.html":[7,0,4552],
-"df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4552,0]
+"df/d75/classtele__commandscript.html":[7,0,4552]
 };

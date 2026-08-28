@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dd6/Formulas_8h.html#ada8e56c81ab672d85f2ff274d109e477":[8,0,0,0,1,2,28,1,0],
 "d8/dd6/PlayerStorage_8cpp.html":[8,0,0,0,1,2,16,7,11],
 "d8/dd6/classnpc__hidden__cultist.html":[7,0,1881],
 "d8/dd6/classnpc__hidden__cultist.html#a4897006d9416f1177b0bc0e41df60293":[7,0,1881,2],
@@ -141,8 +142,8 @@ var NAVTREEINDEX238 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[7,0,177],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[7,0,177,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[7,0,177,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cac1dd70eabab1c99f4e0f016cf9dc3a3c":[8,0,0,0,1,3,5,6,7,37,1],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cac9424825da54b431ac1b5a1518896fef":[8,0,0,0,1,3,5,6,7,37,2],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cada940af6a253938eab0f60afa01bc9bb":[8,0,0,0,1,3,5,6,7,37,3],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cade6dad5b3f98b5a64593e45c865c8984":[8,0,0,0,1,3,5,6,7,37,31],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cae142a53297774de4f679799e445ee136":[8,0,0,0,1,3,5,6,7,37,5]
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298cade6dad5b3f98b5a64593e45c865c8984":[8,0,0,0,1,3,5,6,7,37,31]
 };

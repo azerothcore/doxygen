@@ -1,5 +1,6 @@
 var NAVTREEINDEX293 =
 {
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b42550e7426e596947b6cdb746c85d8":[8,0,0,0,1,3,4,8,4,10,0],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca3715553b8462d0361c06b8ba180f81f4":[8,0,0,0,1,3,4,8,4,10,11],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6450643edf8ddc355d8caf5603eb3cf5":[8,0,0,0,1,3,4,8,4,10,3],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a45310b58847615860efd30b51df72b":[8,0,0,0,1,3,4,8,4,10,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX293 =
 "db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a4cc0dbd4aa2366115348bc1db273a5e2":[7,0,2009,0,0],
 "db/d56/IntegrationTestFixture_8h.html":[8,0,0,0,2,1,3],
 "db/d56/IntegrationTestFixture_8h.html#a2ba0fc21bd7fc2eb0be55b83f098c883":[8,0,0,0,2,1,3,1],
-"db/d56/IntegrationTestFixture_8h.html#af72a10157e381ef81a175a8ac4844d73":[8,0,0,0,2,1,3,2],
-"db/d56/classnpc__rabid__thistle__bear.html":[7,0,2114]
+"db/d56/IntegrationTestFixture_8h.html#af72a10157e381ef81a175a8ac4844d73":[8,0,0,0,2,1,3,2]
 };

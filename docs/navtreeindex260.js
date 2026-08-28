@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a1d08c5704a19225cc66fd2fd05085e06":[8,0,0,0,1,3,5,9,2,16,4,4],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a1e27671d994bdae0db94efd8867f91ab":[8,0,0,0,1,3,5,9,2,16,4,61],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a1fe3a23c45b86f59b422855e495e4d8a":[8,0,0,0,1,3,5,9,2,16,4,31],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a23ea1e5fa78af91f0762f0c57048a141":[8,0,0,0,1,3,5,9,2,16,4,69],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "d9/dfb/structboss__temporus.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7":[7,0,737,3],
 "d9/dfb/structboss__temporus.html#a9186e51d240aff2ffaab99e3b423ded9":[7,0,737,1],
 "d9/dfb/structboss__temporus.html#a99356589a048debbc308b8431259da5c":[7,0,737,5],
-"d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[7,0,737,0],
-"d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[7,0,737,2]
+"d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[7,0,737,0]
 };

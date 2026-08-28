@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"d9/d98/structboss__magtheridon.html#a2871d60efe88d3901bad9a4c5249fcfb":[7,0,620,9],
 "d9/d98/structboss__magtheridon.html#a3015fd8503a0da84e7b78c551587f8a3":[7,0,620,1],
 "d9/d98/structboss__magtheridon.html#a3d718a101047cd90448577ee520adf5e":[7,0,620,0],
 "d9/d98/structboss__magtheridon.html#a42aa45e199f76f567bc7a677f3d3aedf":[7,0,620,4],
@@ -86,8 +87,8 @@ var NAVTREEINDEX254 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3022,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
@@ -112,16 +113,16 @@ var NAVTREEINDEX254 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8":[8,0,0,0,1,3,2,32,4],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798":[8,0,0,0,1,3,2,32,4,0],
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[8,0,0,0,1,3,2,32,5],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,34,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[7,0,13,6,46],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,34,6,46,2],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,34,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[7,0,13,6,46,2],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,34,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[7,0,13,6,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,34,6,46,0],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[7,0,13,6,46,0],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,34,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,34,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
 "d9/d9d/cs__account_8cpp.html":[8,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[8,0,0,0,1,3,0,0,1],
 "d9/d9e/HolidayDateCalculator_8cpp.html":[8,0,0,0,1,2,17,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "d9/da5/Util_8cpp.html#ad881ed438a9a0c698d3c9860d78d4a2b":[8,0,0,0,0,15,42,22],
 "d9/da5/Util_8cpp.html#ae6907a172659affe105e2c0e123ca5ed":[8,0,0,0,0,15,42,14],
 "d9/da5/Util_8cpp.html#aeaeb4d14bd6ff6536728bbf053805146":[8,0,0,0,0,15,42,25],
-"d9/da5/Util_8cpp.html#afa0874a9f505fbf81cd242c9ea33b379":[8,0,0,0,0,15,42,13],
-"d9/da6/classspell__q12589__shoot__rjr.html":[7,0,3939]
+"d9/da5/Util_8cpp.html#afa0874a9f505fbf81cd242c9ea33b379":[8,0,0,0,0,15,42,13]
 };

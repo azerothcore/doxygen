@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467":[8,0,0,0,1,2,16,4,3,13],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a06dd2f7eb3f9b77db85549c3bf61c909":[8,0,0,0,1,2,16,4,3,13,2],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0f16ec84abff9137314f13fb1207175a":[8,0,0,0,1,2,16,4,3,13,4],
 "d1/dd4/Item_8h.html#a81025563297f715d7ddef671b4b84467a0fcd82c460a863e447c1bf184e4dbb70":[8,0,0,0,1,2,16,4,3,13,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dde/pets__script__loader_8cpp.html#ac6a5b089240cd6b996928b3e7f9137b3":[8,0,0,0,1,3,8,6,1],
 "d1/dde/structboss__freya__lifebinder.html":[7,0,499],
 "d1/dde/structboss__freya__lifebinder.html#a1784d6e975192a7442cabb14f688737d":[7,0,499,0],
-"d1/dde/structboss__freya__lifebinder.html#a48a829c75000d93cfb3c6a02aa0af495":[7,0,499,1],
-"d1/dde/structboss__freya__lifebinder.html#a5c19f04cec9cd899feee7ce2878563cf":[7,0,499,3]
+"d1/dde/structboss__freya__lifebinder.html#a48a829c75000d93cfb3c6a02aa0af495":[7,0,499,1]
 };
