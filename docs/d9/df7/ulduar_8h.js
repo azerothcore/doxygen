@@ -307,6 +307,7 @@ var ulduar_8h =
       [ "PERSISTENT_DATA_C_OF_ULDUAR_MASK", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7acb2638bb40b78607b204fefd94f870cb", null ],
       [ "PERSISTENT_DATA_MAGE_BARRIER", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289", null ],
       [ "PERSISTENT_DATA_ALGALON_FIRST_PULL", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a82d9214f5129dbe5397eafe40e38c91d", null ],
+      [ "PERSISTENT_DATA_LEVIATHAN_VEHICLES_USABLE", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a8fc40be86fe99dbb702b52c7ce0f85a6", null ],
       [ "MAX_PERSISTENT_DATA", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ade8daf2d97d89b7bc637c9b5550e0449", null ]
     ] ],
     [ "GetUlduarAI", "d9/df7/ulduar_8h.html#aab0d4e386149b9e2e10cf46466c6e373", null ],

@@ -1,9 +1,14 @@
 var NAVTREEINDEX206 =
 {
-"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[7,0,2924,5],
-"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[7,0,2924,4],
-"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[7,0,2924,0],
-"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[7,0,2924,1],
+"d7/d98/structboss__captain__skarloc.html#ad69432da4a5beb5fcc8bbac155608a87":[7,0,426,9],
+"d7/d99/GridReference_8h.html":[8,0,0,0,1,2,19,6],
+"d7/d99/classspell__dru__savage__defense.html":[7,0,2925],
+"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[7,0,2925,3],
+"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[7,0,2925,2],
+"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[7,0,2925,5],
+"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[7,0,2925,4],
+"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[7,0,2925,0],
+"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[7,0,2925,1],
 "d7/d99/test_2server_2game_2Time_2GameTime_8cpp.html":[8,0,0,0,2,2,0,11,0],
 "d7/d99/test_2server_2game_2Time_2GameTime_8cpp.html#a60d79c395e268a6ed16df7a26967eb54":[8,0,0,0,2,2,0,11,0,0],
 "d7/d99/test_2server_2game_2Time_2GameTime_8cpp.html#abb15bbd2249642325aba11d926db8a48":[8,0,0,0,2,2,0,11,0,3],
@@ -216,8 +221,8 @@ var NAVTREEINDEX206 =
 "d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,33,1,1],
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[7,0,12,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,33,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f":[8,0,0,0,1,2,28,2,0,873],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0173d3992dd5ada2112da34dd3269613":[8,0,0,0,1,2,28,2,0,770],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01beea14b6896b96475c883c7d6bc61a":[8,0,0,0,1,2,28,2,0,1153],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01f4c97796480184bed4a1ef9f9339e6":[8,0,0,0,1,2,28,2,0,384],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa022e2e20570ae09318e3f31c17b7da91":[8,0,0,0,1,2,28,2,0,727],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0231fe807548beb9a1170bc5d37cf42b":[8,0,0,0,1,2,28,2,0,549],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0245ae36e14b9927ce4dfc9d7da6994c":[8,0,0,0,1,2,28,2,0,164],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0279a3480abfabe1e21b7937bd1eea06":[8,0,0,0,1,2,28,2,0,518],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa027f92fd01eacfdc0e1c757cb3ba4e2b":[8,0,0,0,1,2,28,2,0,204]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01f4c97796480184bed4a1ef9f9339e6":[8,0,0,0,1,2,28,2,0,384]
 };

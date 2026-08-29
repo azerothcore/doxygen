@@ -2880,6 +2880,7 @@ var hierarchy =
     [ "LanguageDesc", "d0/d1b/structLanguageDesc.html", null ],
     [ "LastPhaseIceTombTargetSelector", "db/d2d/structLastPhaseIceTombTargetSelector.html", null ],
     [ "LeechingThrowSelector", "d1/d8b/structLeechingThrowSelector.html", null ],
+    [ "LeviathanVehicle", "d2/d78/structLeviathanVehicle.html", null ],
     [ "lfg::Lfg5Guids", "da/de4/classlfg_1_1Lfg5Guids.html", null ],
     [ "lfg::LFGDungeonData", "dc/d8b/structlfg_1_1LFGDungeonData.html", null ],
     [ "LFGDungeonEntry", "d8/dbf/structLFGDungeonEntry.html", null ],

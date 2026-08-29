@@ -483,7 +483,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  554</span>: <a class="code hl_struct" href="../../d2/d0f/structVehicleAI.html">VehicleAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  560</span>: <a class="code hl_struct" href="../../d2/d0f/structVehicleAI.html">VehicleAI</a>(creature) { }</div>
 <div class="ttc" id="astructVehicleAI_html"><div class="ttname"><a href="../../d2/d0f/structVehicleAI.html">VehicleAI</a></div><div class="ttdef"><b>Definition</b> CombatAI.h:99</div></div>
 </div><!-- fragment -->
 </div>
@@ -514,33 +514,43 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#aa039cf7a893c697b56bc63a78580eb38">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  557</span>    {</div>
-<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>())</div>
-<div class="line"><span class="lineno">  559</span>        {</div>
-<div class="line"><span class="lineno">  560</span>            <span class="keywordflow">if</span> (vehicle-&gt;IsVehicleInUse())</div>
-<div class="line"><span class="lineno">  561</span>            {</div>
-<div class="line"><span class="lineno">  562</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* turret = vehicle-&gt;GetPassenger(7))</div>
-<div class="line"><span class="lineno">  563</span>                {</div>
-<div class="line"><span class="lineno">  564</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* turretVehicle = turret-&gt;GetVehicleKit())</div>
-<div class="line"><span class="lineno">  565</span>                    {</div>
-<div class="line"><span class="lineno">  566</span>                        <span class="keywordflow">if</span> (!turretVehicle-&gt;IsVehicleInUse())</div>
-<div class="line"><span class="lineno">  567</span>                        {</div>
-<div class="line"><span class="lineno">  568</span>                            turret-&gt;HandleSpellClick(clicker);</div>
-<div class="line"><span class="lineno">  569</span>                            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  570</span>                        }</div>
-<div class="line"><span class="lineno">  571</span>                    }</div>
-<div class="line"><span class="lineno">  572</span>                }</div>
-<div class="line"><span class="lineno">  573</span>            }</div>
-<div class="line"><span class="lineno">  574</span>        }</div>
-<div class="line"><span class="lineno">  575</span> </div>
-<div class="line"><span class="lineno">  576</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  577</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  563</span>    {</div>
+<div class="line"><span class="lineno">  564</span>        <a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>();</div>
+<div class="line"><span class="lineno">  565</span>        <span class="keywordflow">if</span> (!vehicle)</div>
+<div class="line"><span class="lineno">  566</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  567</span> </div>
+<div class="line"><span class="lineno">  568</span>        <span class="comment">// The driver seat is the only one a spell click may fill directly.</span></div>
+<div class="line"><span class="lineno">  569</span>        <span class="keywordflow">if</span> (vehicle-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a8a9a154b924fdf1f59ccede811dd644f">HasEmptySeat</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933a92096dbc055719db40a6ba2b3b5a9e24">SEAT_SIEGE_ENGINE_DRIVER</a>))</div>
+<div class="line"><span class="lineno">  570</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  571</span> </div>
+<div class="line"><span class="lineno">  572</span>        <span class="comment">// Someone is already driving: send the clicker to the turret while it is still free.</span></div>
+<div class="line"><span class="lineno">  573</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* turret = vehicle-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">GetPassenger</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933aef09331b199de03e66ef717cccfa83c3">SEAT_SIEGE_ENGINE_TURRET</a>))</div>
+<div class="line"><span class="lineno">  574</span>        {</div>
+<div class="line"><span class="lineno">  575</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* turretVehicle = turret-&gt;GetVehicleKit())</div>
+<div class="line"><span class="lineno">  576</span>            {</div>
+<div class="line"><span class="lineno">  577</span>                <span class="keywordflow">if</span> (!turretVehicle-&gt;IsVehicleInUse())</div>
+<div class="line"><span class="lineno">  578</span>                {</div>
+<div class="line"><span class="lineno">  579</span>                    turret-&gt;HandleSpellClick(clicker);</div>
+<div class="line"><span class="lineno">  580</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  581</span>                }</div>
+<div class="line"><span class="lineno">  582</span>            }</div>
+<div class="line"><span class="lineno">  583</span>        }</div>
+<div class="line"><span class="lineno">  584</span> </div>
+<div class="line"><span class="lineno">  585</span>        <span class="comment">// Driver and turret are both manned. The two remaining seats (VehicleSeat.dbc 4026 and 4027)</span></div>
+<div class="line"><span class="lineno">  586</span>        <span class="comment">// lack VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT, so the client never draws the Leave Vehicle button</span></div>
+<div class="line"><span class="lineno">  587</span>        <span class="comment">// and whoever boards one can no longer get off. They cannot be used on retail either.</span></div>
+<div class="line"><span class="lineno">  588</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  589</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
 <div class="ttc" id="aclassUnit_html_ae54fce65a1c084c982043777288895ec"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">Unit::GetVehicleKit</a></div><div class="ttdeci">Vehicle * GetVehicleKit() const</div><div class="ttdef"><b>Definition</b> Unit.h:1925</div></div>
 <div class="ttc" id="aclassVehicle_html"><div class="ttname"><a href="../../dc/d23/classVehicle.html">Vehicle</a></div><div class="ttdef"><b>Definition</b> Vehicle.h:28</div></div>
+<div class="ttc" id="aclassVehicle_html_a250a3ae75407ecbf79d3235a9c56679f"><div class="ttname"><a href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">Vehicle::GetPassenger</a></div><div class="ttdeci">Unit * GetPassenger(int8 seatId) const</div><div class="ttdef"><b>Definition</b> Vehicle.cpp:241</div></div>
+<div class="ttc" id="aclassVehicle_html_a8a9a154b924fdf1f59ccede811dd644f"><div class="ttname"><a href="../../dc/d23/classVehicle.html#a8a9a154b924fdf1f59ccede811dd644f">Vehicle::HasEmptySeat</a></div><div class="ttdeci">bool HasEmptySeat(int8 seatId) const</div><div class="ttdef"><b>Definition</b> Vehicle.cpp:233</div></div>
+<div class="ttc" id="aulduar_8cpp_html_a24953ef8392ea131e1d23c07aba0b933a92096dbc055719db40a6ba2b3b5a9e24"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933a92096dbc055719db40a6ba2b3b5a9e24">SEAT_SIEGE_ENGINE_DRIVER</a></div><div class="ttdeci">@ SEAT_SIEGE_ENGINE_DRIVER</div><div class="ttdef"><b>Definition</b> ulduar.cpp:554</div></div>
+<div class="ttc" id="aulduar_8cpp_html_a24953ef8392ea131e1d23c07aba0b933aef09331b199de03e66ef717cccfa83c3"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933aef09331b199de03e66ef717cccfa83c3">SEAT_SIEGE_ENGINE_TURRET</a></div><div class="ttdeci">@ SEAT_SIEGE_ENGINE_TURRET</div><div class="ttdef"><b>Definition</b> ulduar.cpp:555</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01925">Unit::GetVehicleKit()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00241">Vehicle::GetPassenger()</a>, <a class="el" href="../../#l01925">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00233">Vehicle::HasEmptySeat()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00554">SEAT_SIEGE_ENGINE_DRIVER</a>, and <a class="el" href="../../#l00555">SEAT_SIEGE_ENGINE_TURRET</a>.</p>
 
 </div>
 </div>
@@ -553,7 +563,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a></li>
-    <li class="footer">Generated on Fri Aug 28 2026 18:08:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Aug 29 2026 12:10:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

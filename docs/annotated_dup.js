@@ -2004,6 +2004,7 @@ var annotated_dup =
     [ "LastPhaseIceTombTargetSelector", "db/d2d/structLastPhaseIceTombTargetSelector.html", "db/d2d/structLastPhaseIceTombTargetSelector" ],
     [ "learn_commandscript", "d2/de1/classlearn__commandscript.html", "d2/de1/classlearn__commandscript" ],
     [ "LeechingThrowSelector", "d1/d8b/structLeechingThrowSelector.html", "d1/d8b/structLeechingThrowSelector" ],
+    [ "LeviathanVehicle", "d2/d78/structLeviathanVehicle.html", "d2/d78/structLeviathanVehicle" ],
     [ "lfg_commandscript", "d4/de2/classlfg__commandscript.html", "d4/de2/classlfg__commandscript" ],
     [ "LFGDungeonEntry", "d8/dbf/structLFGDungeonEntry.html", "d8/dbf/structLFGDungeonEntry" ],
     [ "LFGUpdateRequest", "d0/d76/classLFGUpdateRequest.html", "d0/d76/classLFGUpdateRequest" ],

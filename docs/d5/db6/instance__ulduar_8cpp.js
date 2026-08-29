@@ -1,5 +1,6 @@
 var instance__ulduar_8cpp =
 [
+    [ "LeviathanVehicle", "d2/d78/structLeviathanVehicle.html", "d2/d78/structLeviathanVehicle" ],
     [ "instance_ulduar", "d8/dc2/classinstance__ulduar.html", "d8/dc2/classinstance__ulduar" ],
     [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript" ],
     [ "AddSC_instance_ulduar", "d5/db6/instance__ulduar_8cpp.html#a93e6e71a7717be3946c53d3b6093e517", null ],
@@ -8,6 +9,7 @@ var instance__ulduar_8cpp =
     [ "creatureData", "d5/db6/instance__ulduar_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d5/db6/instance__ulduar_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "gameobjectData", "d5/db6/instance__ulduar_8cpp.html#a845a92716bd40c99a93eb0715cd737b0", null ],
+    [ "LEVIATHAN_VEHICLE_RESPAWN_DELAY", "d5/db6/instance__ulduar_8cpp.html#ac91cc067b8e0d8a138457debceccf10d", null ],
     [ "nextDelay", "d5/db6/instance__ulduar_8cpp.html#aa60d5d771d1a8c00e50a09d6ae6a0a13", null ],
     [ "ObservationRingKeeperBoss", "d5/db6/instance__ulduar_8cpp.html#a86957a8b94f0bd1ffc5ac686aea19e80", null ],
     [ "ObservationRingKeeperData", "d5/db6/instance__ulduar_8cpp.html#a6755ef0777c335a9aa03f94b33600e69", null ],

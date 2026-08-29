@@ -15,6 +15,10 @@ var ulduar_8cpp =
       [ "SPELL_ENERGY_SAP_DAMAGE_1", "db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab", null ],
       [ "SPELL_ENERGY_SAP_DAMAGE_2", "db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d", null ]
     ] ],
+    [ "SalvagedSiegeEngineSeats", "db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933", [
+      [ "SEAT_SIEGE_ENGINE_DRIVER", "db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933a92096dbc055719db40a6ba2b3b5a9e24", null ],
+      [ "SEAT_SIEGE_ENGINE_TURRET", "db/da2/ulduar_8cpp.html#a24953ef8392ea131e1d23c07aba0b933aef09331b199de03e66ef717cccfa83c3", null ]
+    ] ],
     [ "Texts", "db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "GOSSIP_MENU_FREYA", "db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033", null ],
       [ "NPC_TEXT_FREYA", "db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741", null ],
