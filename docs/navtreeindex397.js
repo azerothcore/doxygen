@@ -1,5 +1,10 @@
 var NAVTREEINDEX397 =
 {
+"de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[7,0,4260,1],
+"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[7,0,4260,3],
+"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[7,0,4260,0],
+"de/dbd/classOutdoorPvPGH.html":[7,0,2386],
+"de/dbd/classOutdoorPvPGH.html#a3d62cb27cfa415c9ba7fe5c18384a75d":[7,0,2386,3],
 "de/dbd/classOutdoorPvPGH.html#a619492e0a1fdf75f37554a2f19268660":[7,0,2386,0],
 "de/dbd/classOutdoorPvPGH.html#a78cf572faf727c302f9be496d91004e0":[7,0,2386,1],
 "de/dbd/classOutdoorPvPGH.html#a92c7e489717072ddc34f707fbe462cb2":[7,0,2386,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX397 =
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c":[8,0,0,0,1,3,4,30,8,3],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239":[8,0,0,0,1,3,4,30,8,0],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de":[8,0,0,0,1,3,4,30,8,4],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045":[8,0,0,0,1,3,4,30,8,1],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd":[8,0,0,0,1,3,4,30,8,2],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1":[8,0,0,0,1,3,4,30,10],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b":[8,0,0,0,1,3,4,30,10,0],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a978e3e1b19e22b89304642e4a49f66aa":[8,0,0,0,1,3,4,30,10,4],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ab51d50141e1bd6bb328482e0dd5dbeaf":[8,0,0,0,1,3,4,30,10,3]
+"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045":[8,0,0,0,1,3,4,30,8,1]
 };

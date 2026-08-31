@@ -1,5 +1,10 @@
 var NAVTREEINDEX291 =
 {
+"db/d25/classMysticBuffetTargetFilter.html#a60ef55fa8d6f511bba566ac3c8f8328a":[7,0,1600,2],
+"db/d25/classMysticBuffetTargetFilter.html#a76536b8960aa5e64fa8f7a02939d4295":[7,0,1600,1],
+"db/d25/structInstanceMapLoadRows_1_1InstanceRow.html":[7,0,1397,1],
+"db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#a14cbda11b8b949fe647a6851d15d6465":[7,0,1397,1,4],
+"db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#a31694740b0a3af858c12c51f0659fe3c":[7,0,1397,1,2],
 "db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#a50d57b4d7d0ba162ae1cc53ee4c4462c":[7,0,1397,1,1],
 "db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#acd444d68aab9efa6aace6f3964a40206":[7,0,1397,1,0],
 "db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#aefe57dc77cf3043b6c187fdb676d9c51":[7,0,1397,1,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX291 =
 "db/d37/structSearchableAuctionEntryItem.html#aa1c185178359f1cbd5afcedd38a0e69f":[7,0,2575,5],
 "db/d37/structSearchableAuctionEntryItem.html#aa3332c4ea806c944c9c4e95ddb31efa9":[7,0,2575,2],
 "db/d37/structSearchableAuctionEntryItem.html#af076353ee7ce0fd3665e13449c248629":[7,0,2575,1],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html":[7,0,2006],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a0161d569d4c1fb2e1bf69936312be8df":[7,0,2006,11],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a0a9961eb0c2d5afde8f96bb0580d1974":[7,0,2006,5],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a19eb48c537d58ad8f2021e9eabe4fae2":[7,0,2006,3],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a41e453f742a06bc7485e290756dbc746":[7,0,2006,12],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a55f16f2ced0045ea373e9d0a239301d1":[7,0,2006,7]
+"db/d39/structnpc__midsummer__ribbon__pole__target.html":[7,0,2006]
 };

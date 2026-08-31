@@ -1,5 +1,10 @@
 var NAVTREEINDEX391 =
 {
+"de/d92/classspell__frost__tomb__aura.html#a3c24d37ab4a6e16a577983c3f6bc2722":[7,0,2992,2],
+"de/d92/classspell__frost__tomb__aura.html#a5741a78ba0cc8c723e80b1847b3eb1bc":[7,0,2992,0],
+"de/d92/classspell__frost__tomb__aura.html#a748cd347867557b5048d9ba0c112cd80":[7,0,2992,1],
+"de/d92/classspell__frost__tomb__aura.html#afa86789ef14b1d06094705ba6cfb9205":[7,0,2992,3],
+"de/d93/ChannelMgr_8h.html":[8,0,0,0,1,2,11,0,3],
 "de/d93/ChannelMgr_8h.html#a06f16ee81d2214d67575f108b76f6333":[8,0,0,0,1,2,11,0,3,3],
 "de/d93/Utilities_2TypeList_8h.html":[8,0,0,0,0,15,40],
 "de/d93/Utilities_2TypeList_8h.html#a3f33370510f6a20f2c280ddb7aee8113":[8,0,0,0,0,15,40,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX391 =
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4466547bc1a5259a33354f2008d6cce7":[7,0,3189,2],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a52e45512e2bbe34b0bdbfaa273aeb997":[7,0,3189,7],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a80cbba741e8005a89a1bbf47a5fc82fb":[7,0,3189,0],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790":[7,0,3189,6],
-"de/d9e/classgo__tele__to__dalaran__crystal.html":[7,0,1222],
-"de/d9e/classgo__tele__to__dalaran__crystal.html#a7f754a29249653ca7848494310ef1a8d":[7,0,1222,1],
-"de/d9e/classgo__tele__to__dalaran__crystal.html#ab41268b7d568e8f189338f27cd90a62c":[7,0,1222,0],
-"de/d9f/cs__cheat_8cpp.html":[8,0,0,0,1,3,0,11],
-"de/d9f/cs__cheat_8cpp.html#aafc88882ff0af0beb4632ec2c929fc8c":[8,0,0,0,1,3,0,11,1]
+"de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790":[7,0,3189,6]
 };

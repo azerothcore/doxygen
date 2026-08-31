@@ -1,5 +1,10 @@
 var NAVTREEINDEX311 =
 {
+"db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[7,0,101,0],
+"db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[7,0,101,1],
+"db/dd6/instance__naxxramas_8cpp.html":[8,0,0,0,1,3,5,7,15],
+"db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,5,7,15,10],
+"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[8,0,0,0,1,3,5,7,15,12],
 "db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,7,15,8],
 "db/dd6/instance__naxxramas_8cpp.html#a4b033537221c1c9063ff056950ac6fdb":[8,0,0,0,1,3,5,7,15,15],
 "db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,5,7,15,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX311 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa3ba8bf7b86ad4ae22520569c02c7c66b":[8,0,0,0,1,3,2,30,24,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982":[8,0,0,0,1,3,2,30,24,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a946fafe9c84bca2b2b604d0729ca6bf7":[8,0,0,0,1,3,2,30,43],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3":[8,0,0,0,1,3,2,30,38],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38":[8,0,0,0,1,3,2,30,38,0],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cad":[8,0,0,0,1,3,2,30,28],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada00cc5284ba1107951f133a90541f15c8":[8,0,0,0,1,3,2,30,28,92],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada01153c6750e2b4481b0b2b8cb6d21400":[8,0,0,0,1,3,2,30,28,61],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada04121d882bd32a4c0ae82fa0c9d29f7e":[8,0,0,0,1,3,2,30,28,42]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3":[8,0,0,0,1,3,2,30,38]
 };

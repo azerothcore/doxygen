@@ -1,5 +1,10 @@
 var NAVTREEINDEX204 =
 {
+"d7/d80/structCreatureBaseStats.html#a684901a59108e94987c23ad5085e306a":[7,0,947,12],
+"d7/d80/structCreatureBaseStats.html#a72249bb49bbcf08708bd30fc61e2cdea":[7,0,947,4],
+"d7/d80/structCreatureBaseStats.html#a8108d924e4de3ba741749e9386085e4f":[7,0,947,6],
+"d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d":[7,0,947,9],
+"d7/d80/structCreatureBaseStats.html#a9af752cb9fe9fbb64845cb7644e9b212":[7,0,947,15],
 "d7/d80/structCreatureBaseStats.html#a9fed8e3227aa2ad7b40579b0be615030":[7,0,947,7],
 "d7/d80/structCreatureBaseStats.html#aa11e229aed1ba159219e6d1a291b1c80":[7,0,947,1],
 "d7/d80/structCreatureBaseStats.html#aa6f523ebb8ef75db99db555547fd55d7":[7,0,947,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d8f/structWardenInitModuleRequest.html#a2364ed0bed18166f812d8acca1c2dad5":[7,0,4659,22],
 "d7/d8f/structWardenInitModuleRequest.html#a262f78fc37b19476acddc6a4c88b2e72":[7,0,4659,3],
 "d7/d8f/structWardenInitModuleRequest.html#a49538e0d9013b6049a9d77eafd9d5abe":[7,0,4659,15],
-"d7/d8f/structWardenInitModuleRequest.html#a4efddf625f54b8550b1a9a79b52d5269":[7,0,4659,9],
-"d7/d8f/structWardenInitModuleRequest.html#a5581ce736e7775672e3dfddac30f93a6":[7,0,4659,8],
-"d7/d8f/structWardenInitModuleRequest.html#a5c9088f1afebb8e6eb3681559c4a0335":[7,0,4659,6],
-"d7/d8f/structWardenInitModuleRequest.html#a5d703b2e3f2db47e48b9fddc42188b3f":[7,0,4659,1],
-"d7/d8f/structWardenInitModuleRequest.html#a6df8356687ff82f7a761829e29138ea1":[7,0,4659,4],
-"d7/d8f/structWardenInitModuleRequest.html#a82bde8faee080fe079ee5788e80f367d":[7,0,4659,7]
+"d7/d8f/structWardenInitModuleRequest.html#a4efddf625f54b8550b1a9a79b52d5269":[7,0,4659,9]
 };

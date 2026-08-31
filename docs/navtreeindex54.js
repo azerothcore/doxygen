@@ -1,5 +1,9 @@
 var NAVTREEINDEX54 =
 {
+"d2/d22/boss__chess__event_8cpp.html#aad26009b924c030eec9ddb7ef6ffde13a98ea5b9ea5b9c6a24b53016e0d653519":[8,0,0,0,1,3,2,4,0,8,0],
+"d2/d22/boss__chess__event_8cpp.html#ab68224849615ea499832e57768e34427":[8,0,0,0,1,3,2,4,0,6],
+"d2/d22/boss__chess__event_8cpp.html#ab68224849615ea499832e57768e34427a3602314ef3711007bb5e2991b3b3db39":[8,0,0,0,1,3,2,4,0,6,1],
+"d2/d22/boss__chess__event_8cpp.html#ab68224849615ea499832e57768e34427a6947e3d2e11d159a5a1e525ae4090907":[8,0,0,0,1,3,2,4,0,6,0],
 "d2/d22/boss__chess__event_8cpp.html#ac8fad6c2a1b96f0fad3a0b70b59b134a":[8,0,0,0,1,3,2,4,0,13],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cff":[8,0,0,0,1,3,2,4,0,10],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa0404f0380d45b0585b17dc08556b768b":[8,0,0,0,1,3,2,4,0,10,4],
@@ -35,10 +39,10 @@ var NAVTREEINDEX54 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3833,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3833,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3833,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1360,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[7,0,1360,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[7,0,1360,0,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d27/classspell__dru__omen__of__clarity.html":[7,0,2918],
 "d2/d27/classspell__dru__omen__of__clarity.html#a1b7b855383b04bd1b627c6f1e33ad7a5":[7,0,2918,0],
 "d2/d27/classspell__dru__omen__of__clarity.html#a204655e4eea1cf8694c62ddae6d5a760":[7,0,2918,2],
-"d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[7,0,2918,3],
-"d2/d27/classspell__dru__omen__of__clarity.html#a5a3006bb5d54d68b8eb529a8c680c5c0":[7,0,2918,4],
-"d2/d27/classspell__dru__omen__of__clarity.html#a726af9faf0170050f662cb1cc99e6ec8":[7,0,2918,1],
-"d2/d27/classspell__warr__deep__wounds.html":[7,0,4366],
-"d2/d27/classspell__warr__deep__wounds.html#a0b69f667ea83dee61206bbc723020cbc":[7,0,4366,2]
+"d2/d27/classspell__dru__omen__of__clarity.html#a23e8088d6d9626ec4c3f8fc6e66c1e24":[7,0,2918,3]
 };

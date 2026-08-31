@@ -2,7 +2,6 @@ var structboss__thorim__start__npcs =
 [
     [ "boss_thorim_start_npcs", "d0/d19/structboss__thorim__start__npcs.html#a3ed7da48fc86ea00124181bb943a778d", null ],
     [ "DamageTaken", "d0/d19/structboss__thorim__start__npcs.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "d0/d19/structboss__thorim__start__npcs.html#af5a00c3bc633464e9fd5d02991845294", null ],
     [ "JustEngagedWith", "d0/d19/structboss__thorim__start__npcs.html#a636dd7264dd01aa5fc3c69af17425103", null ],
     [ "JustReachedHome", "d0/d19/structboss__thorim__start__npcs.html#a1a297f2937ab9ca9a13de939ba6f6522", null ],
     [ "Reset", "d0/d19/structboss__thorim__start__npcs.html#a37092466e579fe54a1dffe2ae0a2f689", null ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX198 =
 {
+"d7/d28/classspell__chapter5__return__to__capital.html#a43e28dbdfcd034a2a08f6d57171462ee":[7,0,2765,4],
+"d7/d28/classspell__chapter5__return__to__capital.html#a53f170244b390f7035e131fb5c79cb3f":[7,0,2765,1],
+"d7/d28/classspell__chapter5__return__to__capital.html#a6a2811ee701a254e2857ae5923ec9f5f":[7,0,2765,0],
+"d7/d29/SmartScript_8h.html":[8,0,0,0,1,2,3,2,3],
+"d7/d29/classProducerConsumerQueue.html":[7,0,2490],
 "d7/d29/classProducerConsumerQueue.html#a10e893856377f7f7a4be62c224a2aef3":[7,0,2490,3],
 "d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d":[7,0,2490,9],
 "d7/d29/classProducerConsumerQueue.html#a18c7223e356b338f9ddbc17eadc6a21e":[7,0,2490,13],
@@ -150,8 +155,8 @@ var NAVTREEINDEX198 =
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[7,0,13,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[7,0,13,12,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[7,0,13,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[7,0,13,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[7,0,2123],
@@ -244,10 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d37/structICNodePoint.html#ac4760cba40ba8916d66cae3712f7c641":[7,0,1313,3],
 "d7/d37/structICNodePoint.html#acecd97e26d19c82e934817ecbc2afce9":[7,0,1313,5],
 "d7/d37/structICNodePoint.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2":[7,0,1313,9],
-"d7/d37/structICNodePoint.html#ae80024986e048e05dca174d6b14964d3":[7,0,1313,2],
-"d7/d37/structnpc__necropolis__health.html":[7,0,2024],
-"d7/d37/structnpc__necropolis__health.html#a972687770c7afb0adfaac56f0cb73d5f":[7,0,2024,2],
-"d7/d37/structnpc__necropolis__health.html#a9dc3e7734c22adea687a69662a3c7afa":[7,0,2024,0],
-"d7/d37/structnpc__necropolis__health.html#aa9f17362d0e4dbcf275a5148a4c2392b":[7,0,2024,5],
-"d7/d37/structnpc__necropolis__health.html#ad357b3497d36d6471460c09d3f01ab3e":[7,0,2024,4]
+"d7/d37/structICNodePoint.html#ae80024986e048e05dca174d6b14964d3":[7,0,1313,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX400 =
 {
+"de/deb/structM2Header.html#ac40bbd37c559d5f7a3623cc511f2b98a":[7,0,1501,59],
+"de/deb/structM2Header.html#ac454302f9a9a85e16af1ad298247f63e":[7,0,1501,12],
+"de/deb/structM2Header.html#ac64b9118d8bb1f80538332f5f03b9dc1":[7,0,1501,53],
+"de/deb/structM2Header.html#acec46e1e44f73bca2452939cabcc9631":[7,0,1501,47],
+"de/deb/structM2Header.html#ad085f18e5d58d1c9a1e3d5b909ac0f56":[7,0,1501,39],
 "de/deb/structM2Header.html#ad1c83cf331351b857c2e7947c676ce97":[7,0,1501,13],
 "de/deb/structM2Header.html#ad7c7e68037544260c32dd858e756d800":[7,0,1501,35],
 "de/deb/structM2Header.html#adb985cadc4bac7834b3d413fb5e47088":[7,0,1501,60],
@@ -244,10 +249,5 @@ var NAVTREEINDEX400 =
 "de/dfa/classLogOperation.html":[7,0,1485],
 "de/dfa/classLogOperation.html#a19e5e4731bd71697876110348f86d737":[7,0,1485,0],
 "de/dfa/classLogOperation.html#a665effc48367f396f3e714f5d3d56d75":[7,0,1485,4],
-"de/dfa/classLogOperation.html#a966a4bfb45430860fa5be56fe8b48f79":[7,0,1485,2],
-"de/dfa/classLogOperation.html#aae305e293044badac1a628edd501ed35":[7,0,1485,1],
-"de/dfa/classLogOperation.html#af1d8611d116a3575e59a99e8cba5fc84":[7,0,1485,3],
-"de/dfa/classspell__item__make__a__wish.html":[7,0,3437],
-"de/dfa/classspell__item__make__a__wish.html#a054d9083b24183f4427fc0cb4985ba62":[7,0,3437,1],
-"de/dfa/classspell__item__make__a__wish.html#a0a01f5e290b91e58b4b0f8ba443eb7bf":[7,0,3437,4]
+"de/dfa/classLogOperation.html#a966a4bfb45430860fa5be56fe8b48f79":[7,0,1485,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX263 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acc35d8a8f61002583d1c994bd93592eb":[8,0,0,0,1,2,49,4,1,240],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acc76f8fafcfc3738822a6b709cd37608":[8,0,0,0,1,2,49,4,1,42],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acc7b5d56ec325b9a771489067a3a44f0":[8,0,0,0,1,2,49,4,1,184],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0accfa0e93b6c60e54b97e662630811163":[8,0,0,0,1,2,49,4,1,137],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acd8a3a7083a7edaf93df671dfec4f29b":[8,0,0,0,1,2,49,4,1,372],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acda928b24f31ffa5a03deaae20f0bbca":[8,0,0,0,1,2,49,4,1,192],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ace8ffd9bfed5b347f0090c309ebf3c6a":[8,0,0,0,1,2,49,4,1,10],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad08ee039e5c7668b086bd7a97a1d4c6e":[8,0,0,0,1,2,49,4,1,114],
@@ -244,10 +249,5 @@ var NAVTREEINDEX263 =
 "da/d08/classSQLOperation.html#aff1090554bc4a6fe7a33270e63416e19":[7,0,4520,4],
 "da/d09/VoiceChatHandler_8cpp.html":[8,0,0,0,1,2,22,35],
 "da/d0a/boss__baron__geddon_8cpp.html":[8,0,0,0,1,3,2,1,3,0],
-"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,2,1,3,0,3],
-"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa5163e38d154f523096097f5146ea2fed":[8,0,0,0,1,3,2,1,3,0,3,0],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,3,0,5],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e072139138a1aa0f4820669940855a2":[8,0,0,0,1,3,2,1,3,0,5,4],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ba35a20d685bfead078cebfceb73ab1":[8,0,0,0,1,3,2,1,3,0,5,3],
-"da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9f3eaef76d90f9f4efa2721af5b500ca":[8,0,0,0,1,3,2,1,3,0,5,2]
+"da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,2,1,3,0,3]
 };

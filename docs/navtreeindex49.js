@@ -1,5 +1,9 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181afd2a4f8f068e9ce48924b51ec1f4d2a6":[8,0,0,0,1,3,9,2,211,0],
+"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5d":[8,0,0,0,1,3,9,2,189],
+"d1/de4/spell__generic_8cpp.html#a6ff4d94081a3765325a821032cce1d5daa132777a84f945951c8f51520238810d":[8,0,0,0,1,3,9,2,189,0],
+"d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84b":[8,0,0,0,1,3,9,2,210],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1dfbef9fcdf8fac682fd148f48b1d73f":[8,0,0,0,1,3,9,2,210,5],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba1e3b0b8b99073eeeaa4e94e256efdc39":[8,0,0,0,1,3,9,2,210,6],
 "d1/de4/spell__generic_8cpp.html#a71fffd68f0a7c40f70054460cefdc84ba38c46ccc57a8deccc7df4edb41db1707":[8,0,0,0,1,3,9,2,210,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX49 =
 "d1/dea/structScalingStatDistributionEntry.html#a5e2447dd0f6b60e322105d8fcafd0010":[7,0,2564,0],
 "d1/dea/structScalingStatDistributionEntry.html#ab639dd94c53707ca160e13f71342730d":[7,0,2564,3],
 "d1/deb/Unit_8cpp.html":[8,0,0,0,1,2,16,10,4],
-"d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57":[8,0,0,0,1,2,16,10,4,5],
-"d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159":[8,0,0,0,1,2,16,10,4,4],
-"d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96":[8,0,0,0,1,2,16,10,4,3],
-"d1/deb/Unit_8cpp.html#afef08589b9944f10d66bdc1de74d0270":[8,0,0,0,1,2,16,10,4,6],
-"d1/dec/classnpc__zulaman__hostage.html":[7,0,2335]
+"d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57":[8,0,0,0,1,2,16,10,4,5]
 };

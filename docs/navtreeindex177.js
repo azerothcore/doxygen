@@ -1,5 +1,10 @@
 var NAVTREEINDEX177 =
 {
+"d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[7,0,891,25],
+"d6/d38/classChatHandler.html#adb2eb23afa00d3651e0c8ca426e76cd6":[7,0,891,3],
+"d6/d38/classChatHandler.html#ae10c7b226467f8e8e8eb149421f0fa51":[7,0,891,37],
+"d6/d38/classChatHandler.html#ae1f6d13efd06dc853be112de5cb6eb43":[7,0,891,50],
+"d6/d38/classChatHandler.html#ae88a523ef51a6d51d38a8d524e49b179":[7,0,891,27],
 "d6/d38/classChatHandler.html#aec14972a38f83070c444934023351250":[7,0,891,54],
 "d6/d38/classChatHandler.html#aed537f61e8cbb15ebbe11243c0834744":[7,0,891,9],
 "d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4":[7,0,891,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d3e/structNpcTextLocale.html#a40f69a13a202c350fdce2177288727e9":[7,0,2342,2],
 "d6/d3e/structNpcTextLocale.html#adf17307b9d00e0b63b9c2827fca96320":[7,0,2342,1],
 "d6/d3e/structNpcTextLocale.html#af1ddddeff75a1a51c51ebb1fec3f4f05":[7,0,2342,0],
-"d6/d3f/classitem__only__for__flight.html":[7,0,1417],
-"d6/d3f/classitem__only__for__flight.html#a88cdf17a85630aef703f93143ba41d4d":[7,0,1417,1],
-"d6/d3f/classitem__only__for__flight.html#a8f905266dc8f24cf35598a37e7018ff7":[7,0,1417,0],
-"d6/d40/classachievement__intense__cold.html":[7,0,70],
-"d6/d40/classachievement__intense__cold.html#a2377357d6bfc03e5b91354428d3da3de":[7,0,70,0],
-"d6/d40/classachievement__intense__cold.html#ab8a774af80a7fb1764df97c9eea57ffc":[7,0,70,1]
+"d6/d3f/classitem__only__for__flight.html":[7,0,1417]
 };

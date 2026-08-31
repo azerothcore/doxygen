@@ -1,5 +1,10 @@
 var NAVTREEINDEX261 =
 {
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a58658947c4fc115ea9c1d6f1edd1332e":[7,0,445,0,7],
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a59f9efbc2964eec057606d69458b4402":[7,0,445,0,8],
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a5e9c6da15df58a206533a7c718056c3e":[7,0,445,0,5],
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a8e72a38f6a605cafa2667ca585cf0761":[7,0,445,0,1],
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a93f73f204d07b4805f4a7dd240a96d13":[7,0,445,0,2],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#ab58d286bb6f0ea94c2eb70e52e513ad4":[7,0,445,0,3],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#ae1151f6fc9f9ca011a7d476f7d1c6927":[7,0,445,0,4],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#afc816b7d1c2705675560ddd13ecce22d":[7,0,445,0,9],
@@ -87,12 +92,12 @@ var NAVTREEINDEX261 =
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[7,0,13,6,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[7,0,13,6,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,34,6,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,34,6,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[7,0,13,6,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,34,6,3,0],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html":[7,0,13,14,7],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html":[5,0,34,14,7],
-"da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#aab5d1b5ceb0e9fffd588d95d92640897":[7,0,13,14,7,1],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#aab5d1b5ceb0e9fffd588d95d92640897":[5,0,34,14,7,1],
+"da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#aab5d1b5ceb0e9fffd588d95d92640897":[7,0,13,14,7,1],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#ac268090c33720d1975c3538acfe0ce7f":[5,0,34,14,7,0],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#ac268090c33720d1975c3538acfe0ce7f":[7,0,13,14,7,0],
 "da/d01/structNodeGroup.html":[7,0,1608],
@@ -244,10 +249,5 @@ var NAVTREEINDEX261 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a48f2db3026236c34c5370c5fd613e101":[8,0,0,0,1,2,49,4,1,34],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4a1071065a97c7cf071e32c8e61db4af":[8,0,0,0,1,2,49,4,1,45],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4a1966fddaea5a894d55a397cc5601a3":[8,0,0,0,1,2,49,4,1,33],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4aa6102fc0cf0df947d238cfecddce1a":[8,0,0,0,1,2,49,4,1,139],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4ba746bb25ddccb7da0f438b2af0cad7":[8,0,0,0,1,2,49,4,1,266],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c2ee0ab8ef74bdd9e3e0b12be1bfa82":[8,0,0,0,1,2,49,4,1,178],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c467b494c80543428ffc6059a7a24ed":[8,0,0,0,1,2,49,4,1,382],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c768205209b4bbd8767f0fb30892da5":[8,0,0,0,1,2,49,4,1,267],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4cfca73ccd5a1c8e172ac26c48faf29b":[8,0,0,0,1,2,49,4,1,483]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4aa6102fc0cf0df947d238cfecddce1a":[8,0,0,0,1,2,49,4,1,139]
 };

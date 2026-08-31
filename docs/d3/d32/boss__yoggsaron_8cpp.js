@@ -285,6 +285,7 @@ var boss__yoggsaron_8cpp =
       [ "SPELL_LUNATIC_GAZE_YS", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aae0309e5b43fc890d5878f87d421985e", null ],
       [ "SPELL_DEAFENING_ROAR", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aebf3efa796179c4cf450caa64d567448", null ],
       [ "SPELL_SHADOW_BEACON", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afc9b176b68234039e640febab5448faf", null ],
+      [ "SPELL_DEATH_ANIMATION", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a7926f8ce5c6de339cf0fdb9ad9c5121d", null ],
       [ "SPELL_SIMPLE_TELEPORT", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a58ded91cb3c92499be38f0586eb20db8", null ],
       [ "SPELL_EMPOWERED", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a323c6d3bcaaba09e5dae997863c9ded3", null ],
       [ "SPELL_EMPOWERED_PASSIVE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afca389d1b532e647a6ce58a0e5d09a03", null ],

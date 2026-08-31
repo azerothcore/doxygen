@@ -1,5 +1,10 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da79c2afd3abf240d3ac0f18c7b364e889":[8,0,0,0,1,2,8,1,3,21,55],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da79d2654259e6cab676756ad3626808d6":[8,0,0,0,1,2,8,1,3,21,18],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da7e4520af29785d8c28cfb772a405ede7":[8,0,0,0,1,2,8,1,3,21,10],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da83df762b1a53167eba35c0c4cbd5d7a7":[8,0,0,0,1,2,8,1,3,21,42],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da89dac2341460f38e447afd42934ed756":[8,0,0,0,1,2,8,1,3,21,54],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da8cc4338693178184141a9b11779f6da9":[8,0,0,0,1,2,8,1,3,21,4],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da9141bcfb11032f4d0b8718a2f79f677a":[8,0,0,0,1,2,8,1,3,21,66],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da92e3bd86019484a3c2b9ed3d63559779":[8,0,0,0,1,2,8,1,3,21,64],
@@ -171,16 +176,16 @@ var NAVTREEINDEX116 =
 "d3/dd5/structnpc__azure__sorceror.html#a462d57b8e8cd01a9ec1bd59a453f6ab5":[7,0,1673,3],
 "d3/dd5/structnpc__azure__sorceror.html#af4bc0ff9b938302c399bff528dd06769":[7,0,1673,1],
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1673,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[7,0,13,14,11,3],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[7,0,13,14,11,2],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[5,0,34,14,11,2],
 "d3/dd6/classat__blackrock__stadium.html":[7,0,220],
@@ -244,10 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd6/structinstance__blackrock__depths.html#ac61e405f121b917801e7081af8fb49c9":[7,0,1327,52],
 "d3/dd6/structinstance__blackrock__depths.html#ac65110d5a1c79e02857a9179a31ecb2b":[7,0,1327,11],
 "d3/dd6/structinstance__blackrock__depths.html#aca8b117df1b9b509df22037f51e6957d":[7,0,1327,65],
-"d3/dd6/structinstance__blackrock__depths.html#ace4e96c4258008c52ef9e7a7a8e1d858":[7,0,1327,9],
-"d3/dd6/structinstance__blackrock__depths.html#acebf7341a04358dc614000eb3f0a03d2":[7,0,1327,7],
-"d3/dd6/structinstance__blackrock__depths.html#ad21eade0eaa7adfa0080396bf35aef3b":[7,0,1327,5],
-"d3/dd6/structinstance__blackrock__depths.html#ad6b0d267f510333e019c69b33842df80":[7,0,1327,13],
-"d3/dd6/structinstance__blackrock__depths.html#ae3d653fb0bb44a406be9b513c9b45972":[7,0,1327,47],
-"d3/dd6/structinstance__blackrock__depths.html#aef5731ac129108998b7d26f4da06cbc5":[7,0,1327,3]
+"d3/dd6/structinstance__blackrock__depths.html#ace4e96c4258008c52ef9e7a7a8e1d858":[7,0,1327,9]
 };

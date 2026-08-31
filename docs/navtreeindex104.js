@@ -1,5 +1,10 @@
 var NAVTREEINDEX104 =
 {
+"d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad":[8,0,0,0,1,3,5,6,15,14],
+"d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[8,0,0,0,1,3,5,6,15,17],
+"d3/d79/structboss__hazzarah.html":[7,0,539],
+"d3/d79/structboss__hazzarah.html#a18e382c03ff923bb851a9cd8e2541788":[7,0,539,2],
+"d3/d79/structboss__hazzarah.html#a1c3969fbc027f054598ec4123abd6fa4":[7,0,539,3],
 "d3/d79/structboss__hazzarah.html#a61d92f1650a84ed9684d33879e54bd09":[7,0,539,5],
 "d3/d79/structboss__hazzarah.html#a73ba49b91addc9c03e1692587fe66a52":[7,0,539,0],
 "d3/d79/structboss__hazzarah.html#a9038a5b4276fda8a6865217a7c494eec":[7,0,539,1],
@@ -137,12 +142,12 @@ var NAVTREEINDEX104 =
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
 "d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
@@ -244,10 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da66a1d227f48f62bb48d34ba365341b41":[8,0,0,0,1,3,5,2,0,5,7,25],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da684865127e616cda12a798df9633a943":[8,0,0,0,1,3,5,2,0,5,7,18],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da6ab1042a83bcdcd198fcad942b5ca876":[8,0,0,0,1,3,5,2,0,5,7,17],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da73880732916773581dfd3d83e3de8be3":[8,0,0,0,1,3,5,2,0,5,7,0],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da77b7131fdabfed3c900d4528f14d1583":[8,0,0,0,1,3,5,2,0,5,7,23],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da7e87ec84ef4d652d2cd6c4af47d14f47":[8,0,0,0,1,3,5,2,0,5,7,10],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da7f552a11e10e7928cc34296052cdf8e2":[8,0,0,0,1,3,5,2,0,5,7,24],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da82778027f483ebfc8b076dece58d9a54":[8,0,0,0,1,3,5,2,0,5,7,1],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da89417e5ecb5ff4cd40fa7a8c1b2857d7":[8,0,0,0,1,3,5,2,0,5,7,14]
+"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da73880732916773581dfd3d83e3de8be3":[8,0,0,0,1,3,5,2,0,5,7,0]
 };

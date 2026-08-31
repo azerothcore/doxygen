@@ -1,5 +1,10 @@
 var NAVTREEINDEX271 =
 {
+"da/d64/PlayerUpdates_8cpp.html#a62188ab6a72d08b62bf37442dbbfdaa6":[8,0,0,0,1,2,16,7,14,1],
+"da/d64/PlayerUpdates_8cpp.html#a66adde9ba6a85d585f6e6e8355499aa6":[8,0,0,0,1,2,16,7,14,3],
+"da/d64/PlayerUpdates_8cpp.html#a6b71c41b4869661630086bd26c35b630":[8,0,0,0,1,2,16,7,14,7],
+"da/d64/PlayerUpdates_8cpp.html#a72b3624ee55553e28f82ef06d7c74c6a":[8,0,0,0,1,2,16,7,14,8],
+"da/d64/PlayerUpdates_8cpp.html#a74b7f95092456b1438f82ae741c77e3b":[8,0,0,0,1,2,16,7,14,4],
 "da/d64/PlayerUpdates_8cpp.html#a8172910e1dfdc7b56ca3931dd2fab1fb":[8,0,0,0,1,2,16,7,14,0],
 "da/d64/PlayerUpdates_8cpp.html#a9ad7cb34613338094db01b886d54cf25":[8,0,0,0,1,2,16,7,14,6],
 "da/d64/PlayerUpdates_8cpp.html#aa890f698ac89e4049e1107c05d065495":[8,0,0,0,1,2,16,7,14,2],
@@ -224,8 +229,8 @@ var NAVTREEINDEX271 =
 "da/d71/classFleeingMovementGenerator.html#adeb978816b67ec9542ccd131da1403be":[7,0,1085,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[7,0,0,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[5,0,0,7,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[5,0,0,7,4,7],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,0,7,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[7,0,0,4,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,4,8],
@@ -238,16 +243,11 @@ var NAVTREEINDEX271 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,4,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,4,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,4,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,4,0],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,4,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[7,0,0,4,4,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,4,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[7,0,1907,0],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a158589b567d22c8f6e0be462bad8299d":[7,0,1907,0,2],
-"da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a5ea52a1ee3730630d1efbdac4ad24c80":[7,0,1907,0,3],
-"da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a9e825f9d87df6227b73eb965488eff8a":[7,0,1907,0,4],
-"da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#ac2f5449b60cd137dbc1f6ddc8afe5309":[7,0,1907,0,0],
-"da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#af5c7b843b8e1a7c0864b55853bc62097":[7,0,1907,0,1],
-"da/d72/MovementGenerator_8h.html":[8,0,0,0,1,2,31,8],
-"da/d72/MovementGenerator_8h.html#aa270c1b96e4671274975a07340ba687a":[8,0,0,0,1,2,31,8,4]
+"da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a5ea52a1ee3730630d1efbdac4ad24c80":[7,0,1907,0,3]
 };

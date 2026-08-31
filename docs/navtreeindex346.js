@@ -1,5 +1,10 @@
 var NAVTREEINDEX346 =
 {
+"dd/d3b/structGameObjectTemplate.html#a354e13e46bcce767d7850bf82d4a17b6":[7,0,1124,44],
+"dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[7,0,1124,36],
+"dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[7,0,1124,65],
+"dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[7,0,1124,19],
+"dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[7,0,1124,23],
 "dd/d3b/structGameObjectTemplate.html#a38539460b81b3e661a761ed3482baa4b":[7,0,1124,81],
 "dd/d3b/structGameObjectTemplate.html#a38aeb43d791762fe229077588c05a9d3":[7,0,1124,60],
 "dd/d3b/structGameObjectTemplate.html#a3b25a117312579c3b1c724933d252e40":[7,0,1124,22],
@@ -160,16 +165,16 @@ var NAVTREEINDEX346 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1390,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a07a9861d018a35cd295f65b7e68a5bd1":[7,0,1390,0,8],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1390,0,12],
@@ -244,10 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d45/structItemRandomSuffixEntry.html":[7,0,1427],
 "dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[7,0,1427,3],
 "dd/d45/structItemRandomSuffixEntry.html#a45d752dfd00a75f69d919a88573ba4fc":[7,0,1427,0],
-"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[7,0,1427,1],
-"dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[7,0,1427,2],
-"dd/d46/PetPackets_8h.html":[8,0,0,0,1,2,39,0,28],
-"dd/d46/structnpc__acherus__necromancer.html":[7,0,1612],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2":[7,0,1612,0],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf":[7,0,1612,0,0]
+"dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[7,0,1427,1]
 };

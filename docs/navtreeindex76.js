@@ -1,5 +1,9 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd0/structnpc__hyjal__frost__wyrm.html#a23dace13bb2811dea43b63f0b970a2ce":[7,0,1902,3],
+"d2/dd0/structnpc__hyjal__frost__wyrm.html#a2ec3137dad743e4766ca402282d913c7":[7,0,1902,4],
+"d2/dd0/structnpc__hyjal__frost__wyrm.html#a550c20113f4ebe4015f9a8088888f99b":[7,0,1902,5],
+"d2/dd0/structnpc__hyjal__frost__wyrm.html#a7cdc8ef87d5ccb88777fa823e199b9ce":[7,0,1902,0],
 "d2/dd0/structnpc__hyjal__frost__wyrm.html#abaaea3bcbb8806ed9d807742273eb06d":[7,0,1902,1],
 "d2/dd0/structnpc__hyjal__frost__wyrm.html#adab2b42c582cee234aea37d187b66138":[7,0,1902,2],
 "d2/dd1/classPlayerOrPetCheck.html":[7,0,2448],
@@ -61,12 +65,12 @@ var NAVTREEINDEX76 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[7,0,2121,0,4],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[7,0,13,2,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[7,0,13,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[8,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5":[8,0,0,0,1,3,5,8,1,5,4],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44":[8,0,0,0,1,3,5,8,1,5,4,0],
@@ -157,8 +161,8 @@ var NAVTREEINDEX76 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,0,53],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX76 =
 "d2/ddf/structboss__chromaggus.html#abc27a22d82555fe3301708e9aaa61997":[7,0,427,7],
 "d2/ddf/structboss__chromaggus.html#ac8d72d4c3b265abca798c9ddc166df3b":[7,0,427,2],
 "d2/ddf/structboss__chromaggus.html#aed1d8ef49450c5495045bd62f0f3e2e6":[7,0,427,1],
-"d2/ddf/structboss__chromaggus.html#afec7a40681ff89c4712bc50b7bc49d6a":[7,0,427,6],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html":[7,0,2089,0],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f":[7,0,2089,0,10],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0e6b326b3c8102dd711c002537f2c339":[7,0,2089,0,7],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a1d43b002628080d5faf2fd59347a7f79":[7,0,2089,0,5]
+"d2/ddf/structboss__chromaggus.html#afec7a40681ff89c4712bc50b7bc49d6a":[7,0,427,6]
 };

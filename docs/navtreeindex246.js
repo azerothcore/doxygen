@@ -1,5 +1,10 @@
 var NAVTREEINDEX246 =
 {
+"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4600,2],
+"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4600,0],
+"d9/d4a/EscortMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,2],
+"d9/d4a/classinstance__ruins__of__ahnqiraj.html":[7,0,1365],
+"d9/d4a/classinstance__ruins__of__ahnqiraj.html#a6a661e961c2599498de0ccd41c0763b4":[7,0,1365,2],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html#adeacb1c68e4b12995a335d1bedde075a":[7,0,1365,1],
 "d9/d4d/classmisc__commandscript.html":[7,0,1550],
 "d9/d4d/classmisc__commandscript.html#a03837493d98e1a5dd69aa8e685ef343e":[7,0,1550,13],
@@ -244,10 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a7982ebb6e4d86c5dcdf3b172a755a2a6":[7,0,1384,0,36],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a7a0808ca854ac36c5f8ec5681429177f":[7,0,1384,0,23],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a7ff9fce46e80ea1fdf38f9cfaca58fbe":[7,0,1384,0,1],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a8a138a666a338ccef8c15e960725baf9":[7,0,1384,0,30],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a8f1ad4ce07f3f3d535c452c111d66400":[7,0,1384,0,13],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a925ce6161478e51dc37e1ea60b48f08e":[7,0,1384,0,11],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a9540f0514d4b1636e32294b9a8ab72f5":[7,0,1384,0,9],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a9c280422bcddaae9e839e232c71bae29":[7,0,1384,0,22],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#aa4189d7a2bdb2966f9a0b6790b7bcf5d":[7,0,1384,0,25]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a8a138a666a338ccef8c15e960725baf9":[7,0,1384,0,30]
 };

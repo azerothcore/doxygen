@@ -1,5 +1,10 @@
 var NAVTREEINDEX413 =
 {
+"df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[7,0,444,12],
+"df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,444,6],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX413 =
 "df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[7,0,4440,2],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[7,0,4440,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[7,0,4440,0],
-"df/d8c/namespaceAcore_1_1Banner.html":[5,0,0,1],
-"df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,0,1,0],
-"df/d8d/GlobalScript_8cpp.html":[8,0,0,0,1,2,38,0,53],
-"df/d8d/GlobalScript_8cpp.html#aab5e9d371cdc72eb5a60f210f00cdc34":[8,0,0,0,1,2,38,0,53,0],
-"df/d8d/RASession_8cpp.html":[8,0,0,0,1,0,1,3,0],
-"df/d8d/structSmartTarget.html":[7,0,2618]
+"df/d8c/namespaceAcore_1_1Banner.html":[5,0,0,1]
 };

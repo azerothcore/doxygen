@@ -1,5 +1,10 @@
 var NAVTREEINDEX412 =
 {
+"df/d72/structPeonRoleplay.html#a5b366c702c1cda6ea10ad0b58935f97c":[7,0,2414,1],
+"df/d72/structPeonRoleplay.html#acc63d01d5095adef28b9746c520be973":[7,0,2414,0],
+"df/d72/structgunship__npc__AI.html":[7,0,1287],
+"df/d72/structgunship__npc__AI.html#a30c13cb755638fcf05d1ad9a476210d3":[7,0,1287,0],
+"df/d72/structgunship__npc__AI.html#a3bae54b656fc5ed8c6fef80bd1721c71":[7,0,1287,3],
 "df/d72/structgunship__npc__AI.html#a59d237475ae309755d429cfac77d6630":[7,0,1287,8],
 "df/d72/structgunship__npc__AI.html#a7c2da25bb962c32fa350ee1f12f86ca4":[7,0,1287,1],
 "df/d72/structgunship__npc__AI.html#ab5276a099bcf56c5a25b3a52be516b5c":[7,0,1287,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX412 =
 "df/d81/structboss__dorothee.html#a762209d2bf78cc21c48a426732f2354e":[7,0,444,5],
 "df/d81/structboss__dorothee.html#a840bcbad78ff881ef3a803ffa23d3c6e":[7,0,444,10],
 "df/d81/structboss__dorothee.html#a8bd5b4753c2d8f8aced0c036912f10f1":[7,0,444,0],
-"df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[7,0,444,4],
-"df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[7,0,444,12],
-"df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,444,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2]
+"df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[7,0,444,4]
 };

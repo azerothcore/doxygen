@@ -1,5 +1,10 @@
 var NAVTREEINDEX161 =
 {
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437e":[8,0,0,0,1,2,8,1,21,2],
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea143eab6f072004d7ef36368cb8c5a6a3":[8,0,0,0,1,2,8,1,21,2,1],
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea36af47cda77304e638481f35504abea3":[8,0,0,0,1,2,8,1,21,2,8],
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea4f5b487f8295f37e178068745a94bda6":[8,0,0,0,1,2,8,1,21,2,7],
+"d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea51f1a9dded781ca1a5242035967c4564":[8,0,0,0,1,2,8,1,21,2,10],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea5991d30e9de154a6093c3f21dc2bc44b":[8,0,0,0,1,2,8,1,21,2,6],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea59a76ae693811bbdab4546b3fc0ef127":[8,0,0,0,1,2,8,1,21,2,3],
 "d5/db2/BattlegroundWS_8h.html#a7c9154e6ca4e1207a973b539247c437ea77ad95d4c0d7d63c715ae047e8ee5eb5":[8,0,0,0,1,2,8,1,21,2,2],
@@ -180,12 +185,12 @@ var NAVTREEINDEX161 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4686,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[7,0,1781],
 "d5/db6/classnpc__deathstalker__erland.html#a81b20bc8c7249a59d69ba63ab32a5f06":[7,0,1781,3],
 "d5/db6/classnpc__deathstalker__erland.html#ab59235f212ddb985056cb8e32719b723":[7,0,1781,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa4405261c9e2ef19502e7e683f5d50599":[8,0,0,0,1,2,8,6,8,1],
 "d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa7417fe6be6e65f6c6624065d21d8a67d":[8,0,0,0,1,2,8,6,8,0],
 "d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa79d6199c026b36a46345fd73dd98211f":[8,0,0,0,1,2,8,6,8,7],
-"d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e":[8,0,0,0,1,2,8,6,8,6],
-"d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aaa0f054a6e3ee861880e5b5d5456534d5":[8,0,0,0,1,2,8,6,8,2],
-"d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aaa218bd11a0df7666bff40edceccdc7e3":[8,0,0,0,1,2,8,6,8,5],
-"d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aabdca49c47f5919deea0cbc99e949e39a":[8,0,0,0,1,2,8,6,8,4],
-"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3c":[8,0,0,0,1,2,8,6,5],
-"d5/dba/ArenaTeam_8h.html#aaef5689eecf34c2bfc684e272a576b3ca00fe0fff5f647873a102d0ff5aafa713":[8,0,0,0,1,2,8,6,5,16]
+"d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e":[8,0,0,0,1,2,8,6,8,6]
 };

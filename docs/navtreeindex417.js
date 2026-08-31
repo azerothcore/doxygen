@@ -1,5 +1,10 @@
 var NAVTREEINDEX417 =
 {
+"df/da7/classBattleground.html#a433454b346105d74c55e2be3804ec09a":[7,0,330,186],
+"df/da7/classBattleground.html#a43fdcee5d3e10760490e433f05c374d4":[7,0,330,210],
+"df/da7/classBattleground.html#a4427dab664622266761c922569963904":[7,0,330,154],
+"df/da7/classBattleground.html#a443984ae7462dfbde7b32e9b41ff22a9":[7,0,330,220],
+"df/da7/classBattleground.html#a4477b9b46a8133a2bb3f992cf8be6124":[7,0,330,248],
 "df/da7/classBattleground.html#a447ecd1d9bc9efd8efac2bf4900dc665":[7,0,330,72],
 "df/da7/classBattleground.html#a44bf60cb7a2d83f6b83dcc5fececb528":[7,0,330,23],
 "df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[7,0,330,89],
@@ -244,10 +249,5 @@ var NAVTREEINDEX417 =
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,9,1,0,6,1],
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab9eb8f4d4045b8d34928378cb15f3d4a":[8,0,0,0,1,3,5,9,1,0,6,3],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[8,0,0,0,1,3,5,9,1,0,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[8,0,0,0,1,3,5,9,1,0,5,3],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[8,0,0,0,1,3,5,9,1,0,5,1],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[8,0,0,0,1,3,5,9,1,0,5,6],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[8,0,0,0,1,3,5,9,1,0,5,4],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[8,0,0,0,1,3,5,9,1,0,5,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0":[8,0,0,0,1,3,5,9,1,0,5,2]
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[8,0,0,0,1,3,5,9,1,0,5,3]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX260 =
 {
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b":[8,0,0,0,1,3,5,9,2,16,3,3],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3":[8,0,0,0,1,3,5,9,2,16,3,9],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392ad29c233976c6d3b541ab98fae0ed2c35":[8,0,0,0,1,3,5,9,2,16,3,11],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4":[8,0,0,0,1,3,5,9,2,16,3,4],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2":[8,0,0,0,1,3,5,9,2,16,4],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a06f41a511c243ae0da7873a35c0d3fae":[8,0,0,0,1,3,5,9,2,16,4,54],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a077677c7905fb459eec26c7552c0f6a1":[8,0,0,0,1,3,5,9,2,16,4,66],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a0c35f8343f37fb453bfcc0ce0664a543":[8,0,0,0,1,3,5,9,2,16,4,68],
@@ -244,10 +249,5 @@ var NAVTREEINDEX260 =
 "d9/dfa/classnpc__anubisath__sentinel.html#ae19b8ba3766ede8f715dad5ff8d4b2d2":[7,0,1646,2],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html":[7,0,445,0],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a28594cf76c5b1977a4f70ba0c3811646":[7,0,445,0,0],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a2e97f8f1f5c53efba04afc213f410870":[7,0,445,0,10],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a58658947c4fc115ea9c1d6f1edd1332e":[7,0,445,0,7],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a59f9efbc2964eec057606d69458b4402":[7,0,445,0,8],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a5e9c6da15df58a206533a7c718056c3e":[7,0,445,0,5],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a8e72a38f6a605cafa2667ca585cf0761":[7,0,445,0,1],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a93f73f204d07b4805f4a7dd240a96d13":[7,0,445,0,2]
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a2e97f8f1f5c53efba04afc213f410870":[7,0,445,0,10]
 };

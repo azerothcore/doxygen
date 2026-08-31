@@ -1,5 +1,10 @@
 var NAVTREEINDEX418 =
 {
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[8,0,0,0,1,3,5,9,1,0,5,1],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[8,0,0,0,1,3,5,9,1,0,5,6],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[8,0,0,0,1,3,5,9,1,0,5,4],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[8,0,0,0,1,3,5,9,1,0,5,5],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0":[8,0,0,0,1,3,5,9,1,0,5,2],
 "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af5c6ff57b4f8cef772f5da1de76dbde8":[8,0,0,0,1,3,5,9,1,0,5,0],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[8,0,0,0,1,3,5,9,1,0,4],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e":[8,0,0,0,1,3,5,9,1,0,4,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX418 =
 "df/dbb/structboss__flame__leviathan.html#af1c783c6c936356f270b9ae482e8c1a9":[7,0,486,26],
 "df/dbb/structboss__flame__leviathan.html#af7efd745e49df1305deb9e11797d310e":[7,0,486,1],
 "df/dbb/structboss__flame__leviathan.html#afbc842ddf2366a3d0fdda8304b9cc6ac":[7,0,486,16],
-"df/dbc/structDialogue.html":[7,0,1008],
-"df/dbc/structDialogue.html#a7dac5c31d7df501f28eee3e1dec0523a":[7,0,1008,0],
-"df/dbc/structDialogue.html#ab7851f383e7221c6ff2700ee345d9504":[7,0,1008,1],
-"df/dbc/structMalleableGooSelector.html":[7,0,1515],
-"df/dbc/structMalleableGooSelector.html#a5adb1e89ab7d5733514a8fefc5de6a35":[7,0,1515,0],
-"df/dbc/structMalleableGooSelector.html#a6cd991b360895b4b3405f0cd9e63879f":[7,0,1515,2]
+"df/dbc/structDialogue.html":[7,0,1008]
 };

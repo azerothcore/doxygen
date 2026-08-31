@@ -1,5 +1,10 @@
 var NAVTREEINDEX392 =
 {
+"de/d9e/classgo__tele__to__dalaran__crystal.html":[7,0,1222],
+"de/d9e/classgo__tele__to__dalaran__crystal.html#a7f754a29249653ca7848494310ef1a8d":[7,0,1222,1],
+"de/d9e/classgo__tele__to__dalaran__crystal.html#ab41268b7d568e8f189338f27cd90a62c":[7,0,1222,0],
+"de/d9f/cs__cheat_8cpp.html":[8,0,0,0,1,3,0,11],
+"de/d9f/cs__cheat_8cpp.html#aafc88882ff0af0beb4632ec2c929fc8c":[8,0,0,0,1,3,0,11,1],
 "de/d9f/structSkillPerfectItemEntry.html":[7,0,2605],
 "de/d9f/structSkillPerfectItemEntry.html#a057605f8867d4df5cb290318598a2908":[7,0,2605,3],
 "de/d9f/structSkillPerfectItemEntry.html#a678f9908440187faad38c0e1ffaf82de":[7,0,2605,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX392 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5747c146ecb9e10f2ce727463ed21f30":[8,0,0,0,1,1,0,0,1,1,242],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a575c225e5786c7f67860f17b720cc52b":[8,0,0,0,1,1,0,0,1,1,189],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a57956a36fcd4659efda494947d8c2af6":[8,0,0,0,1,1,0,0,1,1,300],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a592d052fc721ce7c3e698aec1034549b":[8,0,0,0,1,1,0,0,1,1,106],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a597bd4df13ce8d2be083304c8a23d793":[8,0,0,0,1,1,0,0,1,1,177],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a59eb8919771bd324ba7a4f4b71e85387":[8,0,0,0,1,1,0,0,1,1,339],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23":[8,0,0,0,1,1,0,0,1,1,168],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5bb4a38bd69d9a0eb461a649d282df43":[8,0,0,0,1,1,0,0,1,1,228],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5c2671ab1919145e1b624a95af859375":[8,0,0,0,1,1,0,0,1,1,54]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a592d052fc721ce7c3e698aec1034549b":[8,0,0,0,1,1,0,0,1,1,106]
 };

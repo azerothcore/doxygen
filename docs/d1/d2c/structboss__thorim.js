@@ -19,6 +19,7 @@ var structboss__thorim =
     [ "SpawnCommoners", "d1/d2c/structboss__thorim.html#af99d7d5055b6c719dd32b9116c857dee", null ],
     [ "SpellHit", "d1/d2c/structboss__thorim.html#a9b7dbefb5528c1b7cfb9f71fac93095e", null ],
     [ "SpellHitTarget", "d1/d2c/structboss__thorim.html#af318bd5b6948a4c06c9849aa31986fa7", null ],
+    [ "SummonedCreatureDies", "d1/d2c/structboss__thorim.html#acd107bd9e7ce1e523987b25e9f87fdd5", null ],
     [ "UpdateAI", "d1/d2c/structboss__thorim.html#a9bea04c636ab457fedda5a5794ab636d", null ],
     [ "_encounterFinished", "d1/d2c/structboss__thorim.html#a14d88dc567edeea04ab6907a31a38f4c", null ],
     [ "_hardMode", "d1/d2c/structboss__thorim.html#a277a614129564a2c3ff379ccd153a812", null ],

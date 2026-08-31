@@ -1,5 +1,10 @@
 var NAVTREEINDEX390 =
 {
+"de/d85/classspell__item__linken__boomerang.html#ac3d5052bf045082fb8bc02c72a0dba39":[7,0,3432,3],
+"de/d85/classspell__item__linken__boomerang.html#ae8ce5a315886ede30eda7d3682e4ef06":[7,0,3432,0],
+"de/d86/structAuctionHouseEntry.html":[7,0,270],
+"de/d86/structAuctionHouseEntry.html#a1bf77c1b14731def0e3de44143df2eed":[7,0,270,3],
+"de/d86/structAuctionHouseEntry.html#a4b857e3c4c333b2a86f7f5d08bcc883d":[7,0,270,2],
 "de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80":[7,0,270,0],
 "de/d86/structAuctionHouseEntry.html#af7bb868f1a1e8d570ce7b6cb10ad87d9":[7,0,270,1],
 "de/d87/boss__netherspite_8cpp.html":[8,0,0,0,1,3,2,4,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX390 =
 "de/d92/classLootTemplate_1_1LootGroup.html#ab306f81dc00d214e0ec8ac3903eff42e":[7,0,1494,0,15],
 "de/d92/classLootTemplate_1_1LootGroup.html#ac7690d157243edebe340baf2e274546f":[7,0,1494,0,4],
 "de/d92/classLootTemplate_1_1LootGroup.html#adee692736847d987093655aac3f23be8":[7,0,1494,0,9],
-"de/d92/classspell__frost__tomb__aura.html":[7,0,2992],
-"de/d92/classspell__frost__tomb__aura.html#a3c24d37ab4a6e16a577983c3f6bc2722":[7,0,2992,2],
-"de/d92/classspell__frost__tomb__aura.html#a5741a78ba0cc8c723e80b1847b3eb1bc":[7,0,2992,0],
-"de/d92/classspell__frost__tomb__aura.html#a748cd347867557b5048d9ba0c112cd80":[7,0,2992,1],
-"de/d92/classspell__frost__tomb__aura.html#afa86789ef14b1d06094705ba6cfb9205":[7,0,2992,3],
-"de/d93/ChannelMgr_8h.html":[8,0,0,0,1,2,11,0,3]
+"de/d92/classspell__frost__tomb__aura.html":[7,0,2992]
 };

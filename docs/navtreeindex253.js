@@ -1,5 +1,10 @@
 var NAVTREEINDEX253 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a36d8ae781b8e0bdf8c139cc4330487cb":[8,0,0,0,1,3,5,9,2,1,11,4],
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a4dd1689dacf938259619bfa64cc4884c":[8,0,0,0,1,3,5,9,2,1,11,17],
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a5e94c5cfb5b4253f7ba60ceadbacb670":[8,0,0,0,1,3,5,9,2,1,11,8],
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a60b0fac6871c1a16eb87f738814965ee":[8,0,0,0,1,3,5,9,2,1,11,18],
+"d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a677d90c347b96a3827e6fc6fbf5bfa65":[8,0,0,0,1,3,5,9,2,1,11,6],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a76af383762c772ec9e1f0d68573c71b7":[8,0,0,0,1,3,5,9,2,1,11,10],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a7f91c42b0edcfc7c33264b5554420b22":[8,0,0,0,1,3,5,9,2,1,11,16],
 "d9/d88/boss__assembly__of__iron_8cpp.html#af7c789403bc1aac38dff7490423f9db6a828e7361c168c448546d63839055b64f":[8,0,0,0,1,3,5,9,2,1,11,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d97/classSplineRawInitializer.html#a878f8d8b2bc4b7c0e5c92d3055a437af":[7,0,4518,1],
 "d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html":[7,0,4290],
 "d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a0b6916dd3f6172e59edf477f203c85b1":[7,0,4290,1],
-"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a945ec4037120992e8a2986e7fd2e2c96":[7,0,4290,2],
-"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#aa6582457cd0502ca263433d04b40b64f":[7,0,4290,0],
-"d9/d98/classPlayerDumpWriter.html":[7,0,2444],
-"d9/d98/classPlayerDumpWriter.html#a060152c060b37c4bf1208a99edc4a840":[7,0,2444,0],
-"d9/d98/classPlayerDumpWriter.html#a17457008e1262c0aed284469e55841c6":[7,0,2444,2],
-"d9/d98/classPlayerDumpWriter.html#a2863e88ee13debe77e4b1d3d0960d18a":[7,0,2444,8]
+"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a945ec4037120992e8a2986e7fd2e2c96":[7,0,4290,2]
 };

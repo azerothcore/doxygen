@@ -1,5 +1,10 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf2720c6d7bcd1ff0e641f33cf445e8a":[8,0,0,0,1,3,5,1,1,0,11,4],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3092c2e5c7c1033ea02e8c0db12fda0":[8,0,0,0,1,3,5,1,1,0,11,12],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,1,1,0,11,1],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfd6514fd030d36cc726d8f90567548d":[8,0,0,0,1,3,5,1,1,0,11,10],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae92b6eacbe840058aba98da75b4c574c":[8,0,0,0,1,3,5,1,1,0,11,7],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb4f5226906ce125fe5bb5d6b655c03b":[8,0,0,0,1,3,5,1,1,0,11,8],
 "d5/dd6/classnpc__toc__shadow__priest.html":[7,0,2241],
 "d5/dd6/classnpc__toc__shadow__priest.html#a05020cd5c5363933dcea7a5901d1ac21":[7,0,2241,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html#ad948e7cb5a64ed5bd202c10b28285d9c":[7,0,4180,4],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html":[7,0,2225,0],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a0b681d6cc1566e6193f7eb143ab2bd5e":[7,0,2225,0,7],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2225,0,9],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a38959c7a5b502b5716a5c09b0f6ae8a4":[7,0,2225,0,0],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a41f24de5f824d84edb69c6b2bdca6d4e":[7,0,2225,0,5],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a495e0762614020ef6d7b741447099326":[7,0,2225,0,1],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e":[7,0,2225,0,11],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a891b31661705ed4df634059e6165d499":[7,0,2225,0,2]
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2225,0,9]
 };

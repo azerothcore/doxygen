@@ -1,5 +1,10 @@
 var NAVTREEINDEX401 =
 {
+"de/dfa/classLogOperation.html#aae305e293044badac1a628edd501ed35":[7,0,1485,1],
+"de/dfa/classLogOperation.html#af1d8611d116a3575e59a99e8cba5fc84":[7,0,1485,3],
+"de/dfa/classspell__item__make__a__wish.html":[7,0,3437],
+"de/dfa/classspell__item__make__a__wish.html#a054d9083b24183f4427fc0cb4985ba62":[7,0,3437,1],
+"de/dfa/classspell__item__make__a__wish.html#a0a01f5e290b91e58b4b0f8ba443eb7bf":[7,0,3437,4],
 "de/dfa/classspell__item__make__a__wish.html#a5679f34290f90dbcaf15f09eca0fb20f":[7,0,3437,3],
 "de/dfa/classspell__item__make__a__wish.html#aa4904ed55b5e216e0af5e32508372d4e":[7,0,3437,2],
 "de/dfa/classspell__item__make__a__wish.html#ad303a5c1bbbab3766bd5e9ab753b2a01":[7,0,3437,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX401 =
 "df/d0e/classspell__igb__burning__pitch__selector.html#a04166e4e5a4ba082755433555855cb30":[7,0,3304,1],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[7,0,3304,3],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[7,0,3304,0],
-"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[7,0,3304,2],
-"df/d10/structMailLevelReward.html":[7,0,1508],
-"df/d10/structMailLevelReward.html#a2b678ac953209691b38d583cffab55b5":[7,0,1508,4],
-"df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[7,0,1508,3],
-"df/d10/structMailLevelReward.html#a3e98aa5c30b0b5648784f9aaf5349a76":[7,0,1508,1],
-"df/d10/structMailLevelReward.html#accd52642cbbab457b69dba54a6ffa23b":[7,0,1508,0]
+"df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[7,0,3304,2]
 };

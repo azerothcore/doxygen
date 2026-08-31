@@ -1,5 +1,9 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/zone__silverpine__forest_8cpp.html":[8,0,0,0,1,3,2,28],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117":[8,0,0,0,1,3,2,28,7],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5":[8,0,0,0,1,3,2,28,7,3],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a2eae21cbf7d110ee89a9798ef6f00239":[8,0,0,0,1,3,2,28,7,1],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a37a618ea7771d6b731851ae8b9a71789":[8,0,0,0,1,3,2,28,7,4],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,28,7,2],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a5f9017092c9843fc6c48bd100c50f167":[8,0,0,0,1,3,2,28,7,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cad151db45f722a9be31fb12a4c8ca7841":[8,0,0,0,1,3,7,0,1,0,3,5],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cad434ff150c6b4a05fa0e2d914374690b":[8,0,0,0,1,3,7,0,1,0,3,3],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a61c12d9bc9d7218ba82ddbd82849fa66":[8,0,0,0,1,3,7,0,1,0,5],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,1,0,2],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753aa3cfde7d25d8a91eed5459e3f5de350e":[8,0,0,0,1,3,7,0,1,0,2,0],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,7,0,1,0,4],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,1,0,4,1],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,1,0,4,2]
+"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,1,0,2]
 };

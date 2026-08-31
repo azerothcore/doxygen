@@ -1,11 +1,12 @@
 var NAVTREEINDEX9 =
 {
+"d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a557676064707e2597a10e9b2efc9d09a":[5,0,34,10,0,3],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a5a5cc78c807ce5d1e455bedd283c0f4d":[7,0,13,10,0,1],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a5a5cc78c807ce5d1e455bedd283c0f4d":[5,0,34,10,0,1],
-"d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a7cc02360329a0b67c67fb5798d1e658d":[5,0,34,10,0,8],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a7cc02360329a0b67c67fb5798d1e658d":[7,0,13,10,0,8],
-"d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#aa1cf8c3159d1334186b28c0abf0b5bec":[7,0,13,10,0,0],
+"d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#a7cc02360329a0b67c67fb5798d1e658d":[5,0,34,10,0,8],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#aa1cf8c3159d1334186b28c0abf0b5bec":[5,0,34,10,0,0],
+"d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#aa1cf8c3159d1334186b28c0abf0b5bec":[7,0,13,10,0,0],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#ac436590edc1d7de977edb9472100d9a2":[7,0,13,10,0,5],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#ac436590edc1d7de977edb9472100d9a2":[5,0,34,10,0,5],
 "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html#aece15ac467b310fc170844119978aa2a":[5,0,34,10,0,7],
@@ -80,10 +81,10 @@ var NAVTREEINDEX9 =
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[7,0,13,10,10,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[7,0,13,10,10,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,34,10,10,0],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,34,10,10,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[7,0,13,10,10,1],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,34,10,10,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,34,10,10,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[7,0,13,10,10,2],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,34,10,10,2],
 "d0/d72/classspell__felmyst__fog__of__corruption.html":[7,0,2970],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a043d135ea2c37f6e4352aa2fba2bb21c":[7,0,2970,3],
 "d0/d72/classspell__felmyst__fog__of__corruption.html#a5ee63545a338e00bfcb8dcc2f3f67db3":[7,0,2970,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d76/structinstance__blackwing__lair.html#ad17a7e6c445a33ccf504e3346f4337d5":[7,0,1329,7],
 "d0/d76/structinstance__blackwing__lair.html#adb5f0436eca9ff1ae539590416a93994":[7,0,1329,15],
 "d0/d76/structinstance__blackwing__lair.html#ae9dfe41953a427db9c3d87825dc4123b":[7,0,1329,22],
-"d0/d76/structinstance__blackwing__lair.html#aeb857871a07bea6822da067041c0a126":[7,0,1329,23],
-"d0/d76/structinstance__blackwing__lair.html#af5e25c709a68da078cbaca38e4f692d8":[7,0,1329,21]
+"d0/d76/structinstance__blackwing__lair.html#aeb857871a07bea6822da067041c0a126":[7,0,1329,23]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX310 =
 {
+"db/dd5/classCreature.html#a50eddd7e74f6c37d89b760293d9a821c":[7,0,942,80],
+"db/dd5/classCreature.html#a511bd8030c9e98f8f96fa0cf2b3e59eb":[7,0,942,75],
+"db/dd5/classCreature.html#a518123152fbb46da36aee1c1ac6f02cd":[7,0,942,326],
+"db/dd5/classCreature.html#a52052c27ad82e36c304fc913f3124223":[7,0,942,141],
+"db/dd5/classCreature.html#a527cd042842be888c384015eb9ce65f0":[7,0,942,106],
 "db/dd5/classCreature.html#a52ad9185174d0709f5dd2052d770f642":[7,0,942,62],
 "db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12":[7,0,942,206],
 "db/dd5/classCreature.html#a533da58134d6187e3f8d05744b9c75bf":[7,0,942,239],
@@ -244,10 +249,5 @@ var NAVTREEINDEX310 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1693,0,13],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1693,0,2],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[7,0,1693,0,9],
-"db/dd6/classachievement__split__personality.html":[7,0,101],
-"db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[7,0,101,0],
-"db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[7,0,101,1],
-"db/dd6/instance__naxxramas_8cpp.html":[8,0,0,0,1,3,5,7,15],
-"db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,5,7,15,10],
-"db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80":[8,0,0,0,1,3,5,7,15,12]
+"db/dd6/classachievement__split__personality.html":[7,0,101]
 };

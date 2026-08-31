@@ -1,5 +1,10 @@
 var NAVTREEINDEX240 =
 {
+"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faab8f407096c5f3f605cb87401cd5dd01e":[8,0,0,0,1,3,5,9,1,1,2,1],
+"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faad95330b3d45c48517e7d806752878756":[8,0,0,0,1,3,5,9,1,1,2,3],
+"d8/de5/namespaceWorldPackets_1_1CombatLog.html":[5,0,34,5],
+"d8/de6/GroupMgr_8h.html":[8,0,0,0,1,2,20,3],
+"d8/de6/GroupMgr_8h.html#a9b001b22670103435cf11551af9fa71e":[8,0,0,0,1,2,20,3,1],
 "d8/de6/boss__warmaster__voone_8cpp.html":[8,0,0,0,1,3,2,1,1,14],
 "d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4":[8,0,0,0,1,3,2,1,1,14,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4a07a997e9e94ff0c05366cf511ae15023":[8,0,0,0,1,3,2,1,1,14,1,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a519489b8d951173a806e86cfe075faf1":[7,0,299,6,2],
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a56bfb0fd0d860678920445d1182c09ef":[7,0,299,6,1],
 "d8/df6/classspell__gen__clone__weapon.html":[7,0,3040],
-"d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[7,0,3040,1],
-"d8/df6/classspell__gen__clone__weapon.html#ab3f415ae783f2a778178cc3319b32773":[7,0,3040,0],
-"d8/df6/classspell__gen__clone__weapon.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a":[7,0,3040,2],
-"d8/df6/classspell__icc__soul__missile.html":[7,0,3291],
-"d8/df6/classspell__icc__soul__missile.html#a808d2283be9714c14f22a2df0a52dd61":[7,0,3291,1],
-"d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[7,0,3291,2]
+"d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[7,0,3040,1]
 };

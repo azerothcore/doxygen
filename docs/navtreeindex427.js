@@ -1,5 +1,10 @@
 var NAVTREEINDEX427 =
 {
+"df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[7,0,2300,1],
+"df/ded/classnpc__venomhide__hatchling.html#a96110b752965d751ab7b466c4f67e333":[7,0,2300,2],
+"df/ded/classspell__gen__whisper__to__controller.html":[7,0,3167],
+"df/ded/classspell__gen__whisper__to__controller.html#a1a44bfb68010c34470ee72c9dcdfc3b4":[7,0,3167,2],
+"df/ded/classspell__gen__whisper__to__controller.html#a3317bfc299c6c8c81ef6dfd75ff773f0":[7,0,3167,1],
 "df/ded/classspell__gen__whisper__to__controller.html#a4788a8ce7c88378c8b55d1fe60200b71":[7,0,3167,0],
 "df/ded/classspell__gen__whisper__to__controller.html#ad242bd4bb5f9be8767b170fd2cc9c444":[7,0,3167,3],
 "df/ded/mechanar_8h.html":[8,0,0,0,1,3,7,5,3,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX427 =
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,8,2,0,7,0],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,8,2,0,7,1],
 "df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[8,0,0,0,1,3,5,8,2,0,7,4],
-"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa62890e77a96ea677db2e97d05cf9b3f":[8,0,0,0,1,3,5,8,2,0,7,3],
-"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,8,2,0,6],
-"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3df00e451a027ccc48488b61a54f01c5":[8,0,0,0,1,3,5,8,2,0,6,3],
-"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca626925ba86f88514659778da36ed7122":[8,0,0,0,1,3,5,8,2,0,6,1],
-"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,5,8,2,0,6,5],
-"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca96a05afd42764dee65dc6b579e8e4795":[8,0,0,0,1,3,5,8,2,0,6,2]
+"df/df7/boss__drakos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa62890e77a96ea677db2e97d05cf9b3f":[8,0,0,0,1,3,5,8,2,0,7,3]
 };

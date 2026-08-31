@@ -1,5 +1,7 @@
 var NAVTREEINDEX42 =
 {
+"d1/db2/structnpc__amanishi__lookout.html#ae9e6d22a781392107a7e50e5815c116c":[7,0,1628,3],
+"d1/db4/boss__thekal_8cpp.html":[8,0,0,0,1,3,2,15,10],
 "d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,15,10,4],
 "d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,15,10,4,1],
 "d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b942bcbae4fe8e343cc371a3e5d2560":[8,0,0,0,1,3,2,15,10,4,2],
@@ -195,8 +197,8 @@ var NAVTREEINDEX42 =
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[7,0,4034,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,0,57],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[7,0,0,45],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,0,57,3],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,0,57,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,0,57,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX42 =
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19":[8,0,0,0,1,3,5,10,0,5,4],
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a0f739f109c96e6321817dfb79268576c":[8,0,0,0,1,3,5,10,0,5,4,11],
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a3224d1038b2c6ca502bf6fcd5c41c4a4":[8,0,0,0,1,3,5,10,0,5,4,16],
-"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322":[8,0,0,0,1,3,5,10,0,5,4,5],
-"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a5b89223911c2633f67f1a2216e76b9e9":[8,0,0,0,1,3,5,10,0,5,4,4],
-"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a6649cdf4259f42e0a186448cffaa903b":[8,0,0,0,1,3,5,10,0,5,4,13]
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322":[8,0,0,0,1,3,5,10,0,5,4,5]
 };

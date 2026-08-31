@@ -1,5 +1,10 @@
 var NAVTREEINDEX232 =
 {
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[7,0,3461,2],
+"d8/d81/VMapMgr2_8cpp.html":[8,0,0,0,0,1,0,5],
+"d8/d81/classspell__q12987__read__pronouncement.html":[7,0,3967],
+"d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[7,0,3967,0],
+"d8/d81/classspell__q12987__read__pronouncement.html#a8c09775f642335252c6e548900dc9d3a":[7,0,3967,2],
 "d8/d81/classspell__q12987__read__pronouncement.html#abd02e129b1201449d473a66aea77d569":[7,0,3967,1],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html":[7,0,1944,0],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a0cb655d324ddde173dcfdee069c0f694":[7,0,1944,0,0],
@@ -180,10 +185,10 @@ var NAVTREEINDEX232 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4634,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,586,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[7,0,586,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX232 =
 "d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[7,0,1305,6],
 "d8/d8e/classHookList.html#a6dffd4b0ef103e34fca8d474856ca8d3":[7,0,1305,2],
 "d8/d8e/classHookList.html#ab7d2c8fa95d8256bba7b6b3ccdcff251":[7,0,1305,1],
-"d8/d8e/classHookList.html#ae5c430c031dffae3c3b270c527b0cc70":[7,0,1305,4],
-"d8/d90/classinstance__blackfathom__deeps.html":[7,0,1326],
-"d8/d90/classinstance__blackfathom__deeps.html#a4600a7e6191582c1bee684989a970e0f":[7,0,1326,1],
-"d8/d90/classinstance__blackfathom__deeps.html#a62cdab4f3118ab030b4ef55243690f73":[7,0,1326,2],
-"d8/d91/namespaceAcore_1_1XP.html":[5,0,0,17],
-"d8/d91/namespaceAcore_1_1XP.html#a304088bebc0743c764589112d2ba3b7f":[5,0,0,17,5]
+"d8/d8e/classHookList.html#ae5c430c031dffae3c3b270c527b0cc70":[7,0,1305,4]
 };

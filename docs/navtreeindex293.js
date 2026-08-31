@@ -1,5 +1,10 @@
 var NAVTREEINDEX293 =
 {
+"db/d4d/classspell__dru__glyph__of__starfire__dummy.html#a9cc42ed6528e9e6dd253808c59286e02":[7,0,2904,1],
+"db/d4d/classspell__dru__glyph__of__starfire__dummy.html#abe19ae79c5bf1b0104cc3bc16570853a":[7,0,2904,3],
+"db/d4d/classspell__gen__jubling__cooldown.html":[7,0,3087],
+"db/d4d/classspell__gen__jubling__cooldown.html#a27e2575e538732ac76add53f2f8f6832":[7,0,3087,0],
+"db/d4d/classspell__gen__jubling__cooldown.html#a4ee74f6d8a61a8ba38ece33176c18f84":[7,0,3087,2],
 "db/d4d/classspell__gen__jubling__cooldown.html#ad7c98be6cca23fb1484a6b77bcc7bc9d":[7,0,3087,1],
 "db/d4d/classspell__gen__jubling__cooldown.html#aef9eef1819652e0fce1cd4b3ba9c387c":[7,0,3087,3],
 "db/d4e/boss__ossirian_8cpp.html":[8,0,0,0,1,3,4,8,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX293 =
 "db/d55/structboss__majordomo.html#ae1522ff98f287c5b7b4755b1f57d3337":[7,0,624,13],
 "db/d55/structboss__majordomo.html#af71fe99c6434c7be66a33793d0bbd8f8":[7,0,624,18],
 "db/d55/structboss__majordomo.html#afbfabce9d4c1adccc3c1e3623109f06c":[7,0,624,5],
-"db/d55/structboss__majordomo.html#afd1ba8fc24239f2846b3a6f7c1c452c9":[7,0,624,0],
-"db/d55/structboss__majordomo.html#affefdf791e18427db9e51c4cc5ca32f6":[7,0,624,4],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html":[7,0,1221,0],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a5c59db4b4d21b9e7de9bbb8835f31f2a":[7,0,1221,0,1],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a87dc192a13cecf834d49cd04451224cd":[7,0,1221,0,0],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a9884081855fc45776a6b12b9a68890e4":[7,0,1221,0,5]
+"db/d55/structboss__majordomo.html#afd1ba8fc24239f2846b3a6f7c1c452c9":[7,0,624,0]
 };

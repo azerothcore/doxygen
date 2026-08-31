@@ -1,5 +1,7 @@
 var NAVTREEINDEX45 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a30a844a56debd2ffffde7e8d50c6c6b6":[8,0,0,0,1,2,3,2,5,17,86],
+"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a35e08b8e960aaf679ed5eb9b9d125a0b":[8,0,0,0,1,2,3,2,5,17,18],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a36263ff8411c1e706516f7897df655e1":[8,0,0,0,1,2,3,2,5,17,49],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a365f5358a92378c79fe8544e60b02177":[8,0,0,0,1,2,3,2,5,17,63],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a367730f9015b22862df4081db141d7ea":[8,0,0,0,1,2,3,2,5,17,2],
@@ -139,10 +141,10 @@ var NAVTREEINDEX45 =
 "d1/dc3/classspell__gluth__decimate.html#a635ff34619767f657778016e1eb901aa":[7,0,3171,3],
 "d1/dc3/classspell__gluth__decimate.html#af5f279ad20e9153f201262eaa7615978":[7,0,3171,2],
 "d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[7,0,3171,0],
-"d1/dc3/structAcore_1_1dependant__false.html":[7,0,0,49],
 "d1/dc3/structAcore_1_1dependant__false.html":[5,0,0,61],
-"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,0,61,0],
+"d1/dc3/structAcore_1_1dependant__false.html":[7,0,0,49],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[7,0,0,49,0],
+"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,0,61,0],
 "d1/dc3/struct__Spell.html":[7,0,17],
 "d1/dc3/struct__Spell.html#a16909465a3a20dbab6e3ca2e3c807f17":[7,0,17,2],
 "d1/dc3/struct__Spell.html#a39657ff9e561a3c86a671f7b3c78ef98":[7,0,17,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX45 =
 "d1/dc8/Util_8h.html#ad19f654934ceb3d0029e708c6088049d":[8,0,0,0,0,15,43,31],
 "d1/dc8/Util_8h.html#ad2cdb146d255c1ac3eb953e62880e095":[8,0,0,0,0,15,43,35],
 "d1/dc8/Util_8h.html#ad64d0d38c0770cbea682c439fc38ce4f":[8,0,0,0,0,15,43,18],
-"d1/dc8/Util_8h.html#ad881ed438a9a0c698d3c9860d78d4a2b":[8,0,0,0,0,15,43,57],
-"d1/dc8/Util_8h.html#ad8c859d0a3ac1d2c7f59c70086381642":[8,0,0,0,0,15,43,44],
-"d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0":[8,0,0,0,0,15,43,10]
+"d1/dc8/Util_8h.html#ad881ed438a9a0c698d3c9860d78d4a2b":[8,0,0,0,0,15,43,57]
 };

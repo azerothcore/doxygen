@@ -1,5 +1,9 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a9af0523ebe9bbe9f299889c99a519d1c":[8,0,0,0,1,3,5,14,109],
+"d2/d38/northrend__script__loader_8cpp.html#a9c9f3c2d2d5cc92abb79db0962b76a3f":[8,0,0,0,1,3,5,14,79],
+"d2/d38/northrend__script__loader_8cpp.html#a9e387ee32ddd2cdaed044f0c966056c0":[8,0,0,0,1,3,5,14,149],
+"d2/d38/northrend__script__loader_8cpp.html#a9e93c2654d96f958e082e7985634433c":[8,0,0,0,1,3,5,14,114],
 "d2/d38/northrend__script__loader_8cpp.html#a9ebe730e1ca4a8adafaaf46acc268a3e":[8,0,0,0,1,3,5,14,23],
 "d2/d38/northrend__script__loader_8cpp.html#a9f00ce106e938d97131447d0b3923d0a":[8,0,0,0,1,3,5,14,68],
 "d2/d38/northrend__script__loader_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f":[8,0,0,0,1,3,5,14,27],
@@ -58,8 +62,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2243,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2243,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,987,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d41/classWDTFile.html#a445fe73204fd378e2b63a83d9f5dca0a":[7,0,4677,1],
 "d2/d41/classWDTFile.html#a54ab64288144b9cf4904e67bb359e524":[7,0,4677,4],
 "d2/d41/classWDTFile.html#a6ec4f95ff866585403670b620a42a857":[7,0,4677,5],
-"d2/d41/classWDTFile.html#a91a33f89cae35254f52e8c4f1c33e2cb":[7,0,4677,3],
-"d2/d41/classWDTFile.html#aa952c5bfe52a1aa851984a7e6dc963c9":[7,0,4677,2],
-"d2/d41/classWDTFile.html#ab3dac8623598bac1152a514a00126bf6":[7,0,4677,6],
-"d2/d42/structAuctionSearchAdd.html":[7,0,279],
-"d2/d42/structAuctionSearchAdd.html#a40116c721d736fe362a3dab56e6b3113":[7,0,279,0]
+"d2/d41/classWDTFile.html#a91a33f89cae35254f52e8c4f1c33e2cb":[7,0,4677,3]
 };

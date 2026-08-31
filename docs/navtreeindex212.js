@@ -1,5 +1,10 @@
 var NAVTREEINDEX212 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa6efde7f735c12fd061f8d0ed916b4e":[8,0,0,0,1,2,28,2,0,456],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafaabdabe1999e0e992366ba2c12319b6":[8,0,0,0,1,2,28,2,0,119],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb56f430e18ada9d3d3f65127bc1642b":[8,0,0,0,1,2,28,2,0,930],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb604ce3969b6f443feaad2a2bfea260":[8,0,0,0,1,2,28,2,0,1262],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb":[8,0,0,0,1,2,28,2,0,449],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb98fe06d5243d6967ff167b5bec83fd":[8,0,0,0,1,2,28,2,0,663],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafbb4ed30633ee4807288f151df010b96":[8,0,0,0,1,2,28,2,0,248],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafbce7b5a6549744e8c2c78602cf46dbd":[8,0,0,0,1,2,28,2,0,1008],
@@ -244,10 +249,5 @@ var NAVTREEINDEX212 =
 "d7/daf/classboss__noth.html#a2760f1ec46a21f22de0e57527cbe9768":[7,0,656,1],
 "d7/daf/classboss__noth.html#a534f30792c051ab44c6c07c9347893e5":[7,0,656,2],
 "d7/daf/classspell__hun__disengage.html":[7,0,3250],
-"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[7,0,3250,2],
-"d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[7,0,3250,0],
-"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[7,0,3250,1],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html":[7,0,733,0],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a08babc3ca2cd76891b9c0e196e461c79":[7,0,733,0,1],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a2d49f2ce95d16cfc1b9525256f0a6bc2":[7,0,733,0,11]
+"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[7,0,3250,2]
 };

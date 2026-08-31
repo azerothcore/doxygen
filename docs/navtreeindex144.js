@@ -1,5 +1,10 @@
 var NAVTREEINDEX144 =
 {
+"d4/de5/classPacketFilter.html#accfa43359c62d2e9d6c38086c77374bd":[4,1,11,0],
+"d4/de5/classPacketFilter.html#ad3723289ea93f1095cf82584268335d9":[4,1,11,4],
+"d4/de5/classspell__gen__planting__scourge__banner.html":[7,0,3113],
+"d4/de5/classspell__gen__planting__scourge__banner.html#a0ffb1cb313060770227621edb16c3a0d":[7,0,3113,1],
+"d4/de5/classspell__gen__planting__scourge__banner.html#a5e100554f868649d4edea011fe767b8b":[7,0,3113,0],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html":[7,0,4081],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html#a15f077618950e4526ffcee9ee172d89f":[7,0,4081,1],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html#a8765e8f662c4279669c955108ff356e3":[7,0,4081,0],
@@ -74,8 +79,8 @@ var NAVTREEINDEX144 =
 "d4/dee/structboss__quagmirran.html":[7,0,679],
 "d4/dee/structboss__quagmirran.html#a28253b6653bd2e26e7f246c71a88b625":[7,0,679,1],
 "d4/dee/structboss__quagmirran.html#a7f6289b86216b052f434a1417023e22c":[7,0,679,0],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[5,0,0,37],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[7,0,0,25],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[5,0,0,37],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[7,0,0,25,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[5,0,0,37,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[7,0,0,25,0],
@@ -97,8 +102,8 @@ var NAVTREEINDEX144 =
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html#accc757e0a23103242865f0ce3085f9d9":[7,0,2883,0],
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html#ace665321732f59f13b2ef831c71c2f18":[7,0,2883,3],
 "d4/df2/MovementPacketBuilder_8h.html":[8,0,0,0,1,2,31,1,1],
-"d4/df2/structAcore_1_1type__list.html":[7,0,0,110],
 "d4/df2/structAcore_1_1type__list.html":[5,0,0,122],
+"d4/df2/structAcore_1_1type__list.html":[7,0,0,110],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html":[7,0,2482,2],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html#a3384bf3ae58fb0977f8fa81f84d940e2":[7,0,2482,2,2],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html#a3b53871ecd10bd1f6d624431b0907b90":[7,0,2482,2,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX144 =
 "d4/df7/structAchievementCriteriaDataSet.html#a0abc37729d2f3c400bb7cfde212f51c0":[7,0,118,5],
 "d4/df7/structAchievementCriteriaDataSet.html#a297f02665679b19961998fb529d064e4":[7,0,118,2],
 "d4/df7/structAchievementCriteriaDataSet.html#a49a70316b169e50ad64ff51d6a568bbc":[7,0,118,0],
-"d4/df7/structAchievementCriteriaDataSet.html#a5055f8710c48379035e132e8f20577dc":[7,0,118,1],
-"d4/df7/structAchievementCriteriaDataSet.html#a6abf189d95226b370cfcfe7b628ed7c0":[7,0,118,6],
-"d4/df7/structAchievementCriteriaDataSet.html#a8edbe32d695308633fa7abfc91d2a1a1":[7,0,118,3],
-"d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[7,0,118,4],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[7,0,0,36],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,0,48]
+"d4/df7/structAchievementCriteriaDataSet.html#a5055f8710c48379035e132e8f20577dc":[7,0,118,1]
 };

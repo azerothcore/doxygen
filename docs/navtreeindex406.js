@@ -1,5 +1,10 @@
 var NAVTREEINDEX406 =
 {
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98":[8,0,0,0,1,2,16,5,0,4,5],
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98a0dadb5eae03b1016a434daf8a85812b1":[8,0,0,0,1,2,16,5,0,4,5,3],
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98a33c80ae0f59eb77bb0c60ad19614c3cc":[8,0,0,0,1,2,16,5,0,4,5,2],
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98a61c3cb66fef4709ef0e13388b1da3e27":[8,0,0,0,1,2,16,5,0,4,5,5],
+"df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98a950d7d85da26690aa29ee92cd38c029a":[8,0,0,0,1,2,16,5,0,4,5,0],
 "df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98aa2fef0c60d701512aecc588d1c45c274":[8,0,0,0,1,2,16,5,0,4,5,1],
 "df/d21/UpdateFields_8h.html#a3a7fe22e4a9448b53c4dc1fb45104e98ae676dc41ea4f052d9e8f8e9f759bf600":[8,0,0,0,1,2,16,5,0,4,5,4],
 "df/d21/UpdateFields_8h.html#a529e4bfaaee7e3c2dc52aaa447287cfb":[8,0,0,0,1,2,16,5,0,4,4],
@@ -206,8 +211,8 @@ var NAVTREEINDEX406 =
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1":[8,0,0,0,1,3,5,8,2,6,3,9],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa5927bac3b5dbcbb4d84d36552c1f6c1":[8,0,0,0,1,3,5,8,2,6,3,2],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a":[8,0,0,0,1,3,5,8,2,6,3,5],
-"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[7,0,0,5,0,23],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,0,8,0,23],
+"df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[7,0,0,5,0,23],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[7,0,2132,0],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a00872042199924a14089c1057c479ff7":[7,0,2132,0,9],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a47ed52a4a0511d7b1e3eb4bd5da409ca":[7,0,2132,0,6],
@@ -243,11 +248,6 @@ var NAVTREEINDEX406 =
 "df/d2a/structnpc__molten__golem.html#aa3521246b0c2bed18b5466879ec1d107":[7,0,2014,1],
 "df/d2a/structnpc__molten__golem.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e":[7,0,2014,4],
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[7,0,2014,6],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[7,0,13,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[7,0,13,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5]
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[7,0,13,6,40]
 };

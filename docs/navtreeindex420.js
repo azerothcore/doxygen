@@ -1,5 +1,10 @@
 var NAVTREEINDEX420 =
 {
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[7,0,1656,0,7],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#afb48cc1c2e254c292c33eade74b6fad7":[7,0,1656,0,1],
+"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html":[7,0,1872,0],
+"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a4b4e2839e426bdb752beea09394f13dc":[7,0,1872,0,1],
+"df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#a7dd7f3625b177a96bcfdc5e46d944562":[7,0,1872,0,2],
 "df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#aa9e722f32cd95fff8c72db5a41d0e84c":[7,0,1872,0,0],
 "df/dce/structnpc__gunship__rocketeer_1_1npc__gunship__rocketeerAI.html#af73d71750f116fb90be1c2acba75ca70":[7,0,1872,0,3],
 "df/dcf/classspell__love__is__in__the__air__romantic__picnic.html":[7,0,3590],
@@ -244,10 +249,5 @@ var NAVTREEINDEX420 =
 "df/dd9/classUnit.html#a091d2d0de3fe2cde3ab61dfd1cde58d5":[7,0,4617,315],
 "df/dd9/classUnit.html#a099b958ed2828d6b4cd1aa996acdd005":[7,0,4617,51],
 "df/dd9/classUnit.html#a09eacd80ca37afbf0d99ae8542d84fcd":[7,0,4617,509],
-"df/dd9/classUnit.html#a0a250126bc1ae99a1b9e2a4310a124b5":[7,0,4617,487],
-"df/dd9/classUnit.html#a0ab8d73c0a9b2b4e1568fbdb75077fc4":[7,0,4617,155],
-"df/dd9/classUnit.html#a0abdc922cb68a81459935b54b59fad2e":[7,0,4617,690],
-"df/dd9/classUnit.html#a0b571ebf5bf71fdca61ecf0038597972":[7,0,4617,543],
-"df/dd9/classUnit.html#a0b6417e1489c3f2e1ced1e0384d48ff8":[7,0,4617,191],
-"df/dd9/classUnit.html#a0b9296b6abf70819b7134313d2b5167b":[7,0,4617,866]
+"df/dd9/classUnit.html#a0a250126bc1ae99a1b9e2a4310a124b5":[7,0,4617,487]
 };

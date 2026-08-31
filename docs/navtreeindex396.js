@@ -1,5 +1,10 @@
 var NAVTREEINDEX396 =
 {
+"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ead5913bf5ac10d4e02b2fcd2ad0b9275b":[8,0,0,0,1,3,7,4,3,5,5,2],
+"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae503c4471d43b67c9370f5d6f185762c":[8,0,0,0,1,3,7,4,3,5,5,0],
+"de/dae/shattered__halls_8h.html#a76fa2bf8f4dabe14697e5c37734906b1":[8,0,0,0,1,3,7,4,3,5,6],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,4,3,5,2],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea1949ef1eb6d1685cfc8ba6c0815c06ce":[8,0,0,0,1,3,7,4,3,5,2,3],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea27ec76638d0f7fb90c1aa161c7d2911a":[8,0,0,0,1,3,7,4,3,5,2,13],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea29c2c4667cb593f215943bc2329b76d8":[8,0,0,0,1,3,7,4,3,5,2,16],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea31b50415af4b65bac9fc5551b17146a9":[8,0,0,0,1,3,7,4,3,5,2,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX396 =
 "de/dbb/classspell__freezing__circle.html#ac89a628f1aba54aa2ade876a4f7911b8":[7,0,2984,1],
 "de/dbb/classspell__freezing__circle.html#aed63b40f8e2cc6fd32dd536a2d56c7c3":[7,0,2984,3],
 "de/dbb/classspell__ticking__time__bomb__aura.html":[7,0,4260],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a213b50ebb7ce248a36dd78167d1190bb":[7,0,4260,2],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[7,0,4260,1],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[7,0,4260,3],
-"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[7,0,4260,0],
-"de/dbd/classOutdoorPvPGH.html":[7,0,2386],
-"de/dbd/classOutdoorPvPGH.html#a3d62cb27cfa415c9ba7fe5c18384a75d":[7,0,2386,3]
+"de/dbb/classspell__ticking__time__bomb__aura.html#a213b50ebb7ce248a36dd78167d1190bb":[7,0,4260,2]
 };

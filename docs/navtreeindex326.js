@@ -1,5 +1,10 @@
 var NAVTREEINDEX326 =
 {
+"dc/d39/classspell__communique__trigger.html#a0375b541f2a90e337fee61ced6d8f3ec":[7,0,2775,1],
+"dc/d39/classspell__communique__trigger.html#a66c530b497e4952b457bbfa50a036c07":[7,0,2775,2],
+"dc/d39/classspell__communique__trigger.html#a968333dcfe0553ad73879f3042db5511":[7,0,2775,3],
+"dc/d39/classspell__communique__trigger.html#ade9ff4db63fecf726776f6e4b36bb437":[7,0,2775,0],
+"dc/d39/classspell__item__noblegarden__chocolate.html":[7,0,3454],
 "dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3454,4],
 "dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[7,0,3454,1],
 "dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[7,0,3454,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63f66cb197f5cc43c231cd4758fcc228":[8,0,0,0,1,3,5,7,13,3,12],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94c2a8317a1737e1281190629eeb6855":[8,0,0,0,1,3,5,7,13,3,3],
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,13,3,0],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa01791719f85184f63a33a611a915e2b":[8,0,0,0,1,3,5,7,13,3,7],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa4c535acb8c4322e059df4a57b14bf11":[8,0,0,0,1,3,5,7,13,3,9],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abda46ba2baef05ca366eda88abde76a0":[8,0,0,0,1,3,5,7,13,3,5],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abe3ac13e4769e945ff1bca6c51c6d736":[8,0,0,0,1,3,5,7,13,3,6],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac6daafb50ca151d594546783ae4044e6":[8,0,0,0,1,3,5,7,13,3,10],
-"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7748bbd75996b6fd1580c54fc1e883b":[8,0,0,0,1,3,5,7,13,3,4]
+"dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa01791719f85184f63a33a611a915e2b":[8,0,0,0,1,3,5,7,13,3,7]
 };

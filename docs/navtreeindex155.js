@@ -1,5 +1,10 @@
 var NAVTREEINDEX155 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb9c42007757cfd58e655cae9cb8a9b8":[8,0,0,0,1,2,0,3,4,526],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acbcc1e173f9409e23707162aa54718f0":[8,0,0,0,1,2,0,3,4,141],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acbf5e5763ee012522ef88856b8023814":[8,0,0,0,1,2,0,3,4,206],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acc56ddb498e76c11c1b297cd8519e0ae":[8,0,0,0,1,2,0,3,4,357],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acc6ece1a231f33ba73953f8cb5788829":[8,0,0,0,1,2,0,3,4,439],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acca7027b15f2b217668a823b45b11258":[8,0,0,0,1,2,0,3,4,344],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acd19f8ed9397b6ced453e0520255d958":[8,0,0,0,1,2,0,3,4,488],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acd1d436189faa7ccf08b83e1447a2e2a":[8,0,0,0,1,2,0,3,4,435],
@@ -181,10 +186,10 @@ var NAVTREEINDEX155 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[7,0,2454,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[7,0,2454,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2454,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d79/classCreatureAI.html#a12d4493d7e3dbb67131e360638efb2d3":[7,0,945,2],
 "d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300":[7,0,945,31],
 "d5/d79/classCreatureAI.html#a17d2cc91d7cdcfa323aaf5ada6ac8a7b":[7,0,945,67],
-"d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33":[7,0,945,9],
-"d5/d79/classCreatureAI.html#a1b57ae64a42c982865b94cd889a18bd4":[7,0,945,66],
-"d5/d79/classCreatureAI.html#a1e545b8b2c9f8538d8663ef06c2c1030":[7,0,945,62],
-"d5/d79/classCreatureAI.html#a23339dc1273ac7175316fa6548e13bee":[7,0,945,45],
-"d5/d79/classCreatureAI.html#a2cd6b0fae96bbe1d547274d40d1fb586":[7,0,945,24],
-"d5/d79/classCreatureAI.html#a39a72debf9a7ab05cd350c08eb463180":[7,0,945,28]
+"d5/d79/classCreatureAI.html#a18697bb982e25e72f50eac5aa56c7d33":[7,0,945,9]
 };

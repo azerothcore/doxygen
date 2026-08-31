@@ -1,5 +1,10 @@
 var NAVTREEINDEX98 =
 {
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#adc248b654ba37d17805c085a73b5caa4":[8,0,0,0,2,2,0,10,8,13],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#adcb3e2e59c18273567517073dba880f6":[8,0,0,0,2,2,0,10,8,1],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#adfc27e70e188d4249a0bca1cfe629a0b":[8,0,0,0,2,2,0,10,8,16],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2b88365c6b1f408d161344563db98cf":[8,0,0,0,2,2,0,10,8,14],
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2b9e360834e97f1938218405f9632c5":[8,0,0,0,2,2,0,10,8,5],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae2c75192be295f76f95c1d28cb599452":[8,0,0,0,2,2,0,10,8,19],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#ae68d06799176ab8a4d7a6b42fc3e0b34":[8,0,0,0,2,2,0,10,8,22],
 "d3/d37/classspell__azjol__nerub__pound.html":[7,0,2687],
@@ -244,10 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3b210b894369bbbb8cb1de7a5f51c9c3":[8,0,0,0,1,2,49,7,0,356],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3b90a0c10cbbfed1e2136858154f265d":[8,0,0,0,1,2,49,7,0,122],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3b972a334585ca387cdbc20a9e56e78b":[8,0,0,0,1,2,49,7,0,351],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3bc5bc1f249040ac9690b47f37a762a1":[8,0,0,0,1,2,49,7,0,310],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3c150acdf1b8bcd17a034fb0520e78ff":[8,0,0,0,1,2,49,7,0,98],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3c2653f64f43dab97738752b11f01f94":[8,0,0,0,1,2,49,7,0,432],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3c764765160ece36da2a750d5e0e1eb5":[8,0,0,0,1,2,49,7,0,198],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3cd48212a9f112ce60e8b7ebd5d49192":[8,0,0,0,1,2,49,7,0,253],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3ceb411ef60cd97089a937682d8964ed":[8,0,0,0,1,2,49,7,0,27]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba3bc5bc1f249040ac9690b47f37a762a1":[8,0,0,0,1,2,49,7,0,310]
 };

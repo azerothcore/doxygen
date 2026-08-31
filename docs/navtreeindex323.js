@@ -1,5 +1,10 @@
 var NAVTREEINDEX323 =
 {
+"dc/d34/structSpawnGroupTemplateData.html#ad53e068ead632ca66fbebe81e783fc52":[7,0,2629,2],
+"dc/d34/structboss__murmur.html":[7,0,646],
+"dc/d34/structboss__murmur.html#a1f40ead1b2269b97c69bd4db808d6bae":[7,0,646,5],
+"dc/d34/structboss__murmur.html#a33ef5951ded28d26fbad832ec8c222e3":[7,0,646,6],
+"dc/d34/structboss__murmur.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d":[7,0,646,4],
 "dc/d34/structboss__murmur.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5":[7,0,646,2],
 "dc/d34/structboss__murmur.html#aa0f549c83a92302ece2323c75dd29acc":[7,0,646,3],
 "dc/d34/structboss__murmur.html#aab66339a7436c3c483297b25f6859558":[7,0,646,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50722a9924543eca54f82e0099a49c80":[5,0,28,6,215],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50758d2d604fb8d2b0fa683fd0ccfa70":[5,0,28,6,382],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a50c90b60ddf4cfb66c00724cb1b56d01":[5,0,28,6,531],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a51f587bdc16c3b9229ae4a770297df6c":[5,0,28,6,293],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a524434f13a241064cffdabd82ff4d0ee":[5,0,28,6,601],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a524fd8ee5eff40b2758e7df6e551fd45":[5,0,28,6,616],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a52b754b8b25ec298321e9b8fe70d075a":[5,0,28,6,340],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a531dc9284dc06f6636e8f2f8c8fc71a4":[5,0,28,6,523],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a5380cde3704b0939446150930f5858aa":[5,0,28,6,127]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a51f587bdc16c3b9229ae4a770297df6c":[5,0,28,6,293]
 };

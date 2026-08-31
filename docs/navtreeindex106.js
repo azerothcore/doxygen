@@ -1,5 +1,10 @@
 var NAVTREEINDEX106 =
 {
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ae959e46865951c2783fe97e824180050":[7,0,1632,0,10],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#aec19da0dd982c643b15dd3f9fae7338e":[7,0,1632,0,0],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#af2cc55a3f35a70a4a9630b4b843f8db7":[7,0,1632,0,4],
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#af8aa57d58c05da9a8194bc6565d7a096":[7,0,1632,0,5],
+"d3/d8e/structnpc__demonic__vapor__trail.html":[7,0,1785],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a21e2223f58156da2fbe1803554623ecd":[7,0,1785,3],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d":[7,0,1785,1],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a5bd024ea050372e982a183da59b45904":[7,0,1785,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d96/structnpc__eye__tentacle.html#aac965d97034f4f623172297e4f82647e":[7,0,1819,1],
 "d3/d96/structnpc__eye__tentacle.html#aeaa4ec0553480b9490d5e52820c2b77f":[7,0,1819,5],
 "d3/d98/namespaceMageSpellFlags.html":[5,0,18],
-"d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f":[5,0,18,1],
-"d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805":[5,0,18,2],
-"d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3":[5,0,18,0],
-"d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52":[5,0,18,3],
-"d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296":[5,0,18,4],
-"d3/d98/structDynamicTreeLocationInfoCallback.html":[7,0,1033]
+"d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f":[5,0,18,1]
 };

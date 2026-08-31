@@ -1,5 +1,10 @@
 var NAVTREEINDEX305 =
 {
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432cacaede6ae298215c72f1c4acfe00d429a":[8,0,0,0,1,3,10,14,62,6],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432cadbda97c561737ec437461bb71782ab0b":[8,0,0,0,1,3,10,14,62,7],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432caf0524fca22413f63cd3f0a06743311fb":[8,0,0,0,1,3,10,14,62,5],
+"db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dc":[8,0,0,0,1,3,10,14,65],
+"db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaa9755362a9acfae168bccbac75fa72a9":[8,0,0,0,1,3,10,14,65,0],
 "db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dcaca9435fa0a08ba04cdc82214238636c1":[8,0,0,0,1,3,10,14,65,1],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2":[8,0,0,0,1,3,10,14,63],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a002ae32bd37624e20b770a04f8fe4c39":[8,0,0,0,1,3,10,14,63,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX305 =
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4075,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4075,1],
 "db/db4/SpellProcCooldownTest_8cpp.html":[8,0,0,0,2,2,0,10,14],
-"db/db4/SpellProcCooldownTest_8cpp.html#a370529a902674d7c3d85a958b68f014a":[8,0,0,0,2,2,0,10,14,4],
-"db/db4/SpellProcCooldownTest_8cpp.html#a46fee264bedefac5bf751dc80e5175ca":[8,0,0,0,2,2,0,10,14,3],
-"db/db4/SpellProcCooldownTest_8cpp.html#a4828c96b86819a1f862c5c123463c3f6":[8,0,0,0,2,2,0,10,14,10],
-"db/db4/SpellProcCooldownTest_8cpp.html#a63a215a846e19ee49b60cd43e3a95dbb":[8,0,0,0,2,2,0,10,14,5],
-"db/db4/SpellProcCooldownTest_8cpp.html#a64a32de59b301ddb3b2a8827bacd43cf":[8,0,0,0,2,2,0,10,14,9],
-"db/db4/SpellProcCooldownTest_8cpp.html#a877730b0890fd65b53503d867be13db2":[8,0,0,0,2,2,0,10,14,2]
+"db/db4/SpellProcCooldownTest_8cpp.html#a370529a902674d7c3d85a958b68f014a":[8,0,0,0,2,2,0,10,14,4]
 };

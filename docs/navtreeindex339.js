@@ -1,5 +1,10 @@
 var NAVTREEINDEX339 =
 {
+"dc/de8/classBattlegroundIC.html#a8a49db361c0eb191c09cda113b088cc0":[7,0,343,32],
+"dc/de8/classBattlegroundIC.html#a8e82886d2fdbbd7fbc0e187aaf9a23ee":[7,0,343,16],
+"dc/de8/classBattlegroundIC.html#a98c203768a32a7d8613d4b7d298ac78b":[7,0,343,4],
+"dc/de8/classBattlegroundIC.html#aa1f5073ec2c5f4aff0de3d1167f3fae5":[7,0,343,36],
+"dc/de8/classBattlegroundIC.html#aa471865e0453c6e1aa09445cd7cd46f1":[7,0,343,15],
 "dc/de8/classBattlegroundIC.html#ab79c104bfaedffc7196a34cec6e28d7f":[7,0,343,29],
 "dc/de8/classBattlegroundIC.html#abe6e82f855559a527b5bf202d3914e55":[7,0,343,25],
 "dc/de8/classBattlegroundIC.html#abf392eaf04298c86b09a5b0f524650de":[7,0,343,39],
@@ -179,10 +184,10 @@ var NAVTREEINDEX339 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
@@ -244,10 +249,5 @@ var NAVTREEINDEX339 =
 "dc/dfb/classspell__gruul__ground__slam.html#a32619710179250a6a0b408856a888153":[7,0,3181,1],
 "dc/dfb/classspell__gruul__ground__slam.html#a5a5b921dc45418485919e599e80f8ca8":[7,0,3181,0],
 "dc/dfb/classspell__gruul__ground__slam.html#a66d91a87078c663903cd836344eec867":[7,0,3181,4],
-"dc/dfb/classspell__gruul__ground__slam.html#aa753fd45caa1b515911d8fdf6fa78754":[7,0,3181,3],
-"dc/dfb/classspell__gruul__ground__slam.html#afb61d7dcc8ad52da4dcad3d7593f08ad":[7,0,3181,2],
-"dc/dfb/classspell__mage__deep__freeze__immunity__state.html":[7,0,3609],
-"dc/dfb/classspell__mage__deep__freeze__immunity__state.html#a1025c7edec455f647c5c37ffebdf7576":[7,0,3609,1],
-"dc/dfb/classspell__mage__deep__freeze__immunity__state.html#a282d4aced8b34e5d800e13dc8e71ef7b":[7,0,3609,2],
-"dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4":[7,0,3609,0]
+"dc/dfb/classspell__gruul__ground__slam.html#aa753fd45caa1b515911d8fdf6fa78754":[7,0,3181,3]
 };

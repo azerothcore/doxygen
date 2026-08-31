@@ -1,5 +1,10 @@
 var NAVTREEINDEX118 =
 {
+"d3/de4/classspell__gen__arcane__charge.html#aebb88f5ea803a590a099e4e6427d8276":[7,0,3013,1],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html":[7,0,2718],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a21aad38fe91580d3b8e0cc71dce7b1ad":[7,0,2718,1],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a4741bfaaea8bc956fd1020aca13a51c2":[7,0,2718,0],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a54b2ab23915e84b9c9728eb624dae47b":[7,0,2718,2],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a5542dca73b5cc2ec1c724fe536e8a15f":[7,0,2718,4],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a6d552ff58f7bb267cf4d20f2f5aedc7a":[7,0,2718,3],
 "d3/de7/classspell__q12459__seeds__of__natures__wrath.html":[7,0,3938],
@@ -194,12 +199,12 @@ var NAVTREEINDEX118 =
 "d3/dee/classinstance__gruuls__lair.html#ae091404d09e614fe893c20e8ed90d2c4":[7,0,1339,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[5,0,0,8,13,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[7,0,0,5,13,0],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[5,0,0,8,13,0,3],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[7,0,0,5,13,0,3],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[5,0,0,8,13,0,0],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[5,0,0,8,13,0,3],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[7,0,0,5,13,0,0],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[7,0,0,5,13,0,1],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[5,0,0,8,13,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[5,0,0,8,13,0,1],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[7,0,0,5,13,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[5,0,0,8,13,0,2],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[7,0,0,5,13,0,2],
 "d3/def/classProcTestScenario.html":[7,0,2489],
@@ -244,10 +249,5 @@ var NAVTREEINDEX118 =
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[7,0,0,101,2],
 "d3/df0/classinstance__serpent__shrine.html":[7,0,1368],
 "d3/df0/classinstance__serpent__shrine.html#aa81add2f4aeb8b2084bcc81c05b606c7":[7,0,1368,2],
-"d3/df0/classinstance__serpent__shrine.html#aac4fc7113307805138ba4ce4a9adff09":[7,0,1368,1],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[7,0,13,14,5],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[5,0,34,14,5],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a1c09d090cd3b7fc73becca4f523141f6":[7,0,13,14,5,3],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a1c09d090cd3b7fc73becca4f523141f6":[5,0,34,14,5,3],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a5c4d887fd352e97c10a52bb095d8e33d":[7,0,13,14,5,2]
+"d3/df0/classinstance__serpent__shrine.html#aac4fc7113307805138ba4ce4a9adff09":[7,0,1368,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX399 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca09e45a23051683bd46e7723f524ecd82":[8,0,0,0,1,3,5,6,9,41,1],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ab956e60d6e548b21f81fcc09a9b429":[8,0,0,0,1,3,5,6,9,41,22],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,6,9,41,5],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bb7f9a430179692fe95ffeea097e13c":[8,0,0,0,1,3,5,6,9,41,4],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d42626d23878c805befd09cd0c7a8b5":[8,0,0,0,1,3,5,6,9,41,21],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca2036558ddc62685dd0de184d4fb40c8f":[8,0,0,0,1,3,5,6,9,41,27],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d2702c1c121e1139359d986fbab12a":[8,0,0,0,1,3,5,6,9,41,29],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca298078eb33598580f0178446c4ba3f89":[8,0,0,0,1,3,5,6,9,41,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX399 =
 "de/deb/structM2Header.html#aba0c84ae340e0c10b57c28f1f213b1f1":[7,0,1501,48],
 "de/deb/structM2Header.html#abc8298f0df518c86849014e16f31f366":[7,0,1501,54],
 "de/deb/structM2Header.html#abe770c6c73bcf50d11b867df69985ec3":[7,0,1501,26],
-"de/deb/structM2Header.html#ac1d0efcfbc4dc0c535b80018f7b1e2f4":[7,0,1501,21],
-"de/deb/structM2Header.html#ac40bbd37c559d5f7a3623cc511f2b98a":[7,0,1501,59],
-"de/deb/structM2Header.html#ac454302f9a9a85e16af1ad298247f63e":[7,0,1501,12],
-"de/deb/structM2Header.html#ac64b9118d8bb1f80538332f5f03b9dc1":[7,0,1501,53],
-"de/deb/structM2Header.html#acec46e1e44f73bca2452939cabcc9631":[7,0,1501,47],
-"de/deb/structM2Header.html#ad085f18e5d58d1c9a1e3d5b909ac0f56":[7,0,1501,39]
+"de/deb/structM2Header.html#ac1d0efcfbc4dc0c535b80018f7b1e2f4":[7,0,1501,21]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX395 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a5f1eac793b3bed36b380734fb1cddb9b":[8,0,0,0,1,3,5,18,61],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1b":[8,0,0,0,1,3,5,18,48],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba0d64583c8b42baf946ae044bd1f20f2c":[8,0,0,0,1,3,5,18,48,0],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba3d72001c4a7b95e6ee5ac0670025e730":[8,0,0,0,1,3,5,18,48,3],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba64c07f7991328575dcb4772f7974b753":[8,0,0,0,1,3,5,18,48,7],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1ba9cd8ea4614708f216dfa4907e1538dc4":[8,0,0,0,1,3,5,18,48,5],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baa7b1cb1588729a3e7a074312de37fd24":[8,0,0,0,1,3,5,18,48,4],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baabf12a7652b75fc54ea15fbaeb4604f2":[8,0,0,0,1,3,5,18,48,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX395 =
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[7,0,175,0],
 "de/dae/shattered__halls_8h.html":[8,0,0,0,1,3,7,4,3,5],
 "de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[8,0,0,0,1,3,7,4,3,5,5],
-"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea722d32cb48f5efa1492c4547df687fff":[8,0,0,0,1,3,7,4,3,5,5,1],
-"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ead5913bf5ac10d4e02b2fcd2ad0b9275b":[8,0,0,0,1,3,7,4,3,5,5,2],
-"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae503c4471d43b67c9370f5d6f185762c":[8,0,0,0,1,3,7,4,3,5,5,0],
-"de/dae/shattered__halls_8h.html#a76fa2bf8f4dabe14697e5c37734906b1":[8,0,0,0,1,3,7,4,3,5,6],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,4,3,5,2],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea1949ef1eb6d1685cfc8ba6c0815c06ce":[8,0,0,0,1,3,7,4,3,5,2,3]
+"de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea722d32cb48f5efa1492c4547df687fff":[8,0,0,0,1,3,7,4,3,5,5,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX257 =
 {
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#ae275ad8483f304f2c78d83974e3d604e":[7,0,1391,0,30],
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#ae7596702aac45b27accffb1e561552f2":[7,0,1391,0,28],
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#af0a884b2a2faa9dfb6586919d8342517":[7,0,1391,0,26],
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#af6d5339c402a0e4ff71ff6df22fed621":[7,0,1391,0,24],
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#affb9a5f86add192818cab331be70bed3":[7,0,1391,0,4],
 "d9/dc8/GuildPackets_8cpp.html":[8,0,0,0,1,2,39,0,13],
 "d9/dc8/GuildPackets_8cpp.html#abd3549ec2eebc439058205da8ae53eb3":[8,0,0,0,1,2,39,0,13,1],
 "d9/dc8/GuildPackets_8cpp.html#ae8a45300d819957eb5ed8c659180c750":[8,0,0,0,1,2,39,0,13,0],
@@ -194,8 +199,8 @@ var NAVTREEINDEX257 =
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[7,0,13,14,13,3],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[5,0,34,14,13,1],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[7,0,13,14,13,1],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[7,0,13,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[5,0,34,14,13,5],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[7,0,13,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[5,0,34,14,13,2],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[7,0,13,14,13,2],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[7,0,13,14,13,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX257 =
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76":[8,0,0,0,1,3,4,29,8,3],
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046":[8,0,0,0,1,3,4,29,8,7],
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86":[8,0,0,0,1,3,4,29,8,5],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658":[8,0,0,0,1,3,4,29,10],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b":[8,0,0,0,1,3,4,29,10,4],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd":[8,0,0,0,1,3,4,29,10,3],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423":[8,0,0,0,1,3,4,29,10,2],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e":[8,0,0,0,1,3,4,29,10,0],
-"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e":[8,0,0,0,1,3,4,29,10,1]
+"d9/ddc/zone__the__barrens_8cpp.html#aa59efdc816049c3fc44f4f97e12a5658":[8,0,0,0,1,3,4,29,10]
 };

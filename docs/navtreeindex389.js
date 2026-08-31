@@ -1,5 +1,10 @@
 var NAVTREEINDEX389 =
 {
+"de/d79/classGuild.html#ad897c70e81cc04541fe54498cff5f0d8":[7,0,1282,111],
+"de/d79/classGuild.html#ada0bd10a22291059151d9ef42b1e3bba":[7,0,1282,129],
+"de/d79/classGuild.html#ada75072cb9454accd8b5e859615a6b88":[7,0,1282,30],
+"de/d79/classGuild.html#addaab43239a5b98c8b4c0b4f13150ccd":[7,0,1282,79],
+"de/d79/classGuild.html#ae04c4a0c1976c884a8926cbfae29a408":[7,0,1282,73],
 "de/d79/classGuild.html#ae0ae8ead712acb0a209b42d08197daae":[7,0,1282,103],
 "de/d79/classGuild.html#ae3b50f9118a606289a169f5d2addd894":[7,0,1282,32],
 "de/d79/classGuild.html#ae3ece52e40aa4cc373116b7c32fbb761":[7,0,1282,132],
@@ -244,10 +249,5 @@ var NAVTREEINDEX389 =
 "de/d85/classspell__item__linken__boomerang.html#a113219d3376a23f8889f26f10744e7cb":[7,0,3432,4],
 "de/d85/classspell__item__linken__boomerang.html#a12ef13dbc3e9cd95fb1d57bf393735e3":[7,0,3432,5],
 "de/d85/classspell__item__linken__boomerang.html#a2bbcf5ee2d41362c80a4649a4cf7e260":[7,0,3432,2],
-"de/d85/classspell__item__linken__boomerang.html#a5a5253b6d152b1af78de663c09451536":[7,0,3432,1],
-"de/d85/classspell__item__linken__boomerang.html#ac3d5052bf045082fb8bc02c72a0dba39":[7,0,3432,3],
-"de/d85/classspell__item__linken__boomerang.html#ae8ce5a315886ede30eda7d3682e4ef06":[7,0,3432,0],
-"de/d86/structAuctionHouseEntry.html":[7,0,270],
-"de/d86/structAuctionHouseEntry.html#a1bf77c1b14731def0e3de44143df2eed":[7,0,270,3],
-"de/d86/structAuctionHouseEntry.html#a4b857e3c4c333b2a86f7f5d08bcc883d":[7,0,270,2]
+"de/d85/classspell__item__linken__boomerang.html#a5a5253b6d152b1af78de663c09451536":[7,0,3432,1]
 };

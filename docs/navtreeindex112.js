@@ -1,5 +1,10 @@
 var NAVTREEINDEX112 =
 {
+"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#ad0c6798e28784ed547102414f4c6a31f":[5,0,0,94,2],
+"d3/dce/classDaranavanMoveEvent.html":[7,0,979],
+"d3/dce/classDaranavanMoveEvent.html#a7585edb957755efbc6064f232d50ea4e":[7,0,979,2],
+"d3/dce/classDaranavanMoveEvent.html#ada0ebc4a9c9f949dd0155a554a553543":[7,0,979,1],
+"d3/dce/classDaranavanMoveEvent.html#add38d87b9108c09aa9b9fd60f12abcde":[7,0,979,0],
 "d3/dce/structMySQLBind.html":[7,0,1581],
 "d3/dcf/Battleground_8h.html":[8,0,0,0,1,2,8,10],
 "d3/dcf/Battleground_8h.html#a090be1583e0cd521bceae7dfeaf51ff0":[8,0,0,0,1,2,8,10,25],
@@ -244,10 +249,5 @@ var NAVTREEINDEX112 =
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9":[8,0,0,0,1,4,0,2,28],
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9a319c961bd0442d8a6cc838e6dad28175":[8,0,0,0,1,4,0,2,28,0],
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9aa9a058d60db14ffc3f1cc5ef8339ff14":[8,0,0,0,1,4,0,2,28,3],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ab4f612b5c13e82251823d80d0ab728b6":[8,0,0,0,1,4,0,2,28,4],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ad30ca726d1f53514633e18d10c09e665":[8,0,0,0,1,4,0,2,28,1],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ae33c109f713bf214b65d889e5d7fd2fe":[8,0,0,0,1,4,0,2,28,2],
-"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338":[8,0,0,0,1,4,0,2,29],
-"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338a26dc47471dd2702245b35d54d6033609":[8,0,0,0,1,4,0,2,29,1],
-"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338a38bd9f58c5c6d1af77b2ffc12077f6bb":[8,0,0,0,1,4,0,2,29,5]
+"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ab4f612b5c13e82251823d80d0ab728b6":[8,0,0,0,1,4,0,2,28,4]
 };

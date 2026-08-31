@@ -1,5 +1,10 @@
 var NAVTREEINDEX316 =
 {
+"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa02a9330a59bb21bcb5a9b07acbfeadcd":[8,0,0,0,1,3,9,8,119,0],
+"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa10ecfcbeb3286a3292832d54efaa59fa":[8,0,0,0,1,3,9,8,119,2],
+"db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa972f9b13a33886bee9c952216c9b7acf":[8,0,0,0,1,3,9,8,119,1],
+"db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037a":[8,0,0,0,1,3,9,8,94],
+"db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037aa05eb4219fa55ce288eeb0bf15fc6b735":[8,0,0,0,1,3,9,8,94,0],
 "db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037aa9b96b3d155055bc8c275e371caeac3f6":[8,0,0,0,1,3,9,8,94,1],
 "db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393":[8,0,0,0,1,3,9,8,85],
 "db/dfb/spell__quest_8cpp.html#a34ecb91e4969e5150ef251a2c3b40393a5c802bb2430a03a62c19a3c5450c2a48":[8,0,0,0,1,3,9,8,85,2],
@@ -188,10 +193,10 @@ var NAVTREEINDEX316 =
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[7,0,395],
 "db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[7,0,395,1],
 "db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[7,0,395,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX316 =
 "db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[7,0,1867,2],
 "dc/d00/AllCreatureScript_8h.html":[8,0,0,0,1,2,38,0,13],
 "dc/d01/classdisable__commandscript.html":[7,0,1012],
-"dc/d01/classdisable__commandscript.html#a0dfe1ac5224935dd42c6a30daf6cc099":[7,0,1012,13],
-"dc/d01/classdisable__commandscript.html#a23ddab0c714a5adea49d14ecde36391b":[7,0,1012,8],
-"dc/d01/classdisable__commandscript.html#a3c0250b78258394e78fd918dc43f90a2":[7,0,1012,5],
-"dc/d01/classdisable__commandscript.html#a52376d1885f74d00589acb3443860df9":[7,0,1012,2],
-"dc/d01/classdisable__commandscript.html#a529428b7674ca3446a441bdf65fab756":[7,0,1012,15],
-"dc/d01/classdisable__commandscript.html#a5c0400ab0321c2d181f6288fd828c56a":[7,0,1012,1]
+"dc/d01/classdisable__commandscript.html#a0dfe1ac5224935dd42c6a30daf6cc099":[7,0,1012,13]
 };

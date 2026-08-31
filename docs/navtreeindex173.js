@@ -1,5 +1,10 @@
 var NAVTREEINDEX173 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7c0e1852fcd144d0d92508fa578622ec":[8,0,0,0,1,3,5,6,11,35,17],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a940b14f0f905e53023d00376c939ff5d":[8,0,0,0,1,3,5,6,11,35,10],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,6,11,35,1],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d69a5e6edd359d09d40f129a7841881":[8,0,0,0,1,3,5,6,11,35,0],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa716fa5ebbc5fba4e08a499f206bdd3b":[8,0,0,0,1,3,5,6,11,35,8],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb22a836d53f57d40253021bdcde3894":[8,0,0,0,1,3,5,6,11,35,4],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed28a8be687a7f82b1bd99b946a1f43b":[8,0,0,0,1,3,5,6,11,35,14],
 "d6/d1a/classOutdoorPvPEP.html":[7,0,2385],
@@ -244,10 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d23/structHolidayRule.html#aaa9bf14668239ea561aecc33104e245a":[7,0,1300,3],
 "d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[7,0,1300,5],
 "d6/d23/structSpellValue.html":[7,0,4514],
-"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4514,7],
-"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4514,4],
-"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4514,0],
-"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4514,3],
-"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4514,5],
-"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4514,1]
+"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4514,7]
 };

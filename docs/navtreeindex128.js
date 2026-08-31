@@ -1,5 +1,10 @@
 var NAVTREEINDEX128 =
 {
+"d4/d4f/classspell__dk__death__and__decay__aura.html#aa8c6fc66e1483370681ae6f7fdf5b676":[7,0,2823,2],
+"d4/d50/classKillRewarder.html":[7,0,1439],
+"d4/d50/classKillRewarder.html#a02ea9a4467b10e4985d41eaf1d8ed141":[7,0,1439,11],
+"d4/d50/classKillRewarder.html#a0d27e75392a5dcc8a93117676cee3aed":[7,0,1439,21],
+"d4/d50/classKillRewarder.html#a1b4a83e1d7ef12260fd08a68f7838b80":[7,0,1439,14],
 "d4/d50/classKillRewarder.html#a2420c470b3b1d1b8968100cd4fd84fed":[7,0,1439,23],
 "d4/d50/classKillRewarder.html#a28eeb5f3cdafc1c6c1fc3305e03cbf8f":[7,0,1439,10],
 "d4/d50/classKillRewarder.html#a443fd709f4bf0be629cae510e7263807":[7,0,1439,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a038a827f7fe179ff56ab581efdf08790":[7,0,2993,0],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a6018f3a74a1b61042bb0ff6c02b76611":[7,0,2993,2],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd":[7,0,2993,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[7,0,0,5,0,15],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[5,0,0,8,0,15],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[7,0,0,5,0,15,0],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[5,0,0,8,0,15,0],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[7,0,0,5,0,15,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,0,8,0,15,1]
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[5,0,0,8,0,15]
 };

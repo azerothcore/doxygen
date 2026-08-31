@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"d0/d41/classspell__magic__eater__food.html#a5864bbba50001cdb84b0015d08134c56":[7,0,3640,1],
 "d0/d41/classspell__magic__eater__food.html#a5a41ac9e41201ec3defc05c324a792c9":[7,0,3640,2],
 "d0/d41/structAUTH__LOGON__PROOF__C.html":[7,0,304],
 "d0/d41/structAUTH__LOGON__PROOF__C.html#a51b29f49e940bffa67988d9bc2b16aa4":[7,0,304,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "d0/d56/structnpc__hyjal__gargoyle.html#ae10a90c817a7df8d0d6ed18c9cdf6387":[7,0,1903,3],
 "d0/d56/structnpc__hyjal__gargoyle.html#ae213c71426f438dd2b27699d7de23664":[7,0,1903,2],
 "d0/d56/structnpc__hyjal__gargoyle.html#af314bb183bde44680eeb136d2a08c142":[7,0,1903,5],
-"d0/d57/classUpdateData.html":[7,0,4625],
-"d0/d57/classUpdateData.html#a067577372028ad59aea7942f0cd4a5c2":[7,0,4625,6]
+"d0/d57/classUpdateData.html":[7,0,4625]
 };

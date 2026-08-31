@@ -1,5 +1,10 @@
 var NAVTREEINDEX378 =
 {
+"de/d19/ConditionMgr_8cpp.html":[8,0,0,0,1,2,13,0],
+"de/d19/namespaceMMAP.html":[5,0,20],
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101":[5,0,20,16],
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6":[5,0,20,16,0],
+"de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[5,0,20,16,1],
 "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c":[5,0,20,26],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,32],
 "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc":[5,0,20,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX378 =
 "de/d1c/classGameObject.html#aff6309b0741d1236cefa86abe6c442b0":[7,0,1109,173],
 "de/d1c/namespacepitKillBoundary.html":[5,0,25],
 "de/d1c/namespacepitKillBoundary.html#ae137fb738d524b299f3c238c8e1e464a":[5,0,25,0],
-"de/d1d/structnpc__phalanx.html":[7,0,2079],
-"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2079,0],
-"de/d1d/structnpc__phalanx.html#a3b0c33207bf5090abeb9860585c222b4":[7,0,2079,5],
-"de/d1d/structnpc__phalanx.html#a54ad76cd7e8d3be058ad3d5153e5b144":[7,0,2079,3],
-"de/d1d/structnpc__phalanx.html#a9297d5fb869eb9a65ef9143a56347a53":[7,0,2079,1],
-"de/d1d/structnpc__phalanx.html#aad01cc9d5ac167c21547e8b0b2bda4a7":[7,0,2079,2]
+"de/d1d/structnpc__phalanx.html":[7,0,2079]
 };

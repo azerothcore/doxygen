@@ -1,5 +1,9 @@
 var NAVTREEINDEX78 =
 {
+"d2/de9/classSpellInfo.html#a74f4db121e6f113d34825a6e437c8d97":[7,0,4469,3],
+"d2/de9/classSpellInfo.html#a75b3a93f43d40d6268103e412cf57797":[7,0,4469,144],
+"d2/de9/classSpellInfo.html#a75e80fd4e12d1c445584627bb4bf9c84":[7,0,4469,72],
+"d2/de9/classSpellInfo.html#a78bbf3a5574a188116846fbc77a57768":[7,0,4469,194],
 "d2/de9/classSpellInfo.html#a7909fc70161065f6107211ee8ed3c6bf":[7,0,4469,178],
 "d2/de9/classSpellInfo.html#a79f537bec2a06fb538a6ad7f888c7b8b":[7,0,4469,116],
 "d2/de9/classSpellInfo.html#a7a74ea4ffeca2826ffa10f7b4e586ab5":[7,0,4469,123],
@@ -245,9 +249,5 @@ var NAVTREEINDEX78 =
 "d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7a7733a2d4555e5b4a35031df77c9ef5d8":[8,0,0,0,1,2,21,1,25,9],
 "d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7a966fe8d17446997c93187cadac659f7e":[8,0,0,0,1,2,21,1,25,13],
 "d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7a9cee3982eb7862d62e7f00414c4703be":[8,0,0,0,1,2,21,1,25,11],
-"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7aaa6488e65239f554a6b825bceed19a48":[8,0,0,0,1,2,21,1,25,15],
-"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7aaa7ecd3d86acfd15c0da455338af9249":[8,0,0,0,1,2,21,1,25,6],
-"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7aca613b727c5d49d66286ca7ef13d8486":[8,0,0,0,1,2,21,1,25,16],
-"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7adef53b5c69909e7c695d9237707c0da7":[8,0,0,0,1,2,21,1,25,5],
-"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7af1b7986e010de928a797b01027a54281":[8,0,0,0,1,2,21,1,25,8]
+"d2/dea/Guild_8h.html#abe65a5c09114479eec37ae55f24aaaa7aaa6488e65239f554a6b825bceed19a48":[8,0,0,0,1,2,21,1,25,15]
 };

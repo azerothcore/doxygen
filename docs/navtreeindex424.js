@@ -1,5 +1,10 @@
 var NAVTREEINDEX424 =
 {
+"df/dd9/classUnit.html#ac9e9d7b49785cf2346dcf77934be5279":[7,0,4617,928],
+"df/dd9/classUnit.html#aca68c5f1fec00c4e6a5253236b8230ab":[7,0,4617,506],
+"df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c":[7,0,4617,654],
+"df/dd9/classUnit.html#acac59d316acd489b822df5ed45df5b61":[7,0,4617,713],
+"df/dd9/classUnit.html#acb4079c53b6b1969e3cab1f58412d5ec":[7,0,4617,115],
 "df/dd9/classUnit.html#acb620bb1bc586e11931985a018e932fd":[7,0,4617,519],
 "df/dd9/classUnit.html#acb800095887418d08fdfa8ade11f0074":[7,0,4617,716],
 "df/dd9/classUnit.html#acb92bf6c1e072ae3c845bce5b4b4fdab":[7,0,4617,364],
@@ -244,10 +249,5 @@ var NAVTREEINDEX424 =
 "df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275":[7,0,13,18,19],
 "df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275":[5,0,34,18,19],
 "df/dd9/classWorldPackets_1_1Array.html#af11a3a13899d1d06ac8acd54f49dfc6e":[7,0,13,18,12],
-"df/dd9/classWorldPackets_1_1Array.html#af11a3a13899d1d06ac8acd54f49dfc6e":[5,0,34,18,12],
-"df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[7,0,13,18,1],
-"df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1":[5,0,34,18,1],
-"df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[7,0,13,18,5],
-"df/dd9/classWorldPackets_1_1Array.html#afce3457c601054a23960e7ee1b74bcbe":[5,0,34,18,5],
-"df/dda/boss__icecrown__gunship__battle_8cpp.html":[8,0,0,0,1,3,5,6,4]
+"df/dd9/classWorldPackets_1_1Array.html#af11a3a13899d1d06ac8acd54f49dfc6e":[5,0,34,18,12]
 };
