@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['bachievcacherare_1',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
   ['bachievcheese_2',['bAchievCheese',['../d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf',1,'boss_hodir']]],
   ['bachievcoolestfriends_3',['bAchievCoolestFriends',['../d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03',1,'boss_hodir']]],
@@ -43,7 +43,7 @@ var searchData=
   ['basedamage_40',['BaseDamage',['../d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
   ['basehealth_41',['basehealth',['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth'],['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth']]],
   ['baselevel_42',['baselevel',['../d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel'],['../d5/dc7/structSpellEntry.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel']]],
-  ['basemana_43',['basemana',['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana'],['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana']]],
+  ['basemana_43',['basemana',['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana'],['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana']]],
   ['basemovespeed_44',['basemovespeed',['../d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp'],['../d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp']]],
   ['basepoints_45',['BasePoints',['../da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676',1,'SpellEffectInfo']]],
   ['baserepclassmask_46',['BaseRepClassMask',['../de/d14/structFactionEntry.html#ae73655de567de3766fcb3bbfb7f9eed3',1,'FactionEntry']]],
@@ -256,7 +256,7 @@ var searchData=
   ['bounding_5fradius_253',['bounding_radius',['../dd/d4f/structCreatureModelInfo.html#a9f4a794b06bcbe31fc0a104cc97b91a4',1,'CreatureModelInfo']]],
   ['boundingbox_254',['BoundingBox',['../de/deb/structM2Header.html#a8e68b2699e159da2ab97658ab596700f',1,'M2Header']]],
   ['boundingsphereradius_255',['BoundingSphereRadius',['../de/deb/structM2Header.html#a5dd5a1175c8231f1c10233067ef8d4d7',1,'M2Header']]],
-  ['bounds_256',['bounds',['../d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea',1,'ADT::MODF::Bounds'],['../d5/d98/structVMAP_1_1GroupModel__Raw.html#a830d79fdd2f21164bd805051352a3aa8',1,'VMAP::GroupModel_Raw::bounds'],['../d0/de7/classBIH.html#ae112545e132f8dd509674e164a172f61',1,'BIH::bounds']]],
+  ['bounds_256',['bounds',['../d5/d98/structVMAP_1_1GroupModel__Raw.html#a830d79fdd2f21164bd805051352a3aa8',1,'VMAP::GroupModel_Raw::bounds'],['../d0/de7/classBIH.html#ae112545e132f8dd509674e164a172f61',1,'BIH::bounds'],['../d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea',1,'ADT::MODF::Bounds']]],
   ['boxbroadcasttextid_257',['BoxBroadcastTextID',['../db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88',1,'GossipMenuItems']]],
   ['boxcoded_258',['BoxCoded',['../db/df2/structGossipMenuItems.html#a4f7ba04e2d1078909d9587569504f4cd',1,'GossipMenuItems']]],
   ['boxmessage_259',['BoxMessage',['../d7/d75/structGossipMenuItem.html#a450f6063a89db2d152370bc997c844a3',1,'GossipMenuItem']]],

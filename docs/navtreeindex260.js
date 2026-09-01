@@ -1,5 +1,11 @@
 var NAVTREEINDEX260 =
 {
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba":[8,0,0,0,1,3,5,9,2,16,3,8],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,5,9,2,16,3,14],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c":[8,0,0,0,1,3,5,9,2,16,3,5],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27":[8,0,0,0,1,3,5,9,2,16,3,10],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985":[8,0,0,0,1,3,5,9,2,16,3,7],
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a97a54c0b03a5f29d8d47743c902ec60f":[8,0,0,0,1,3,5,9,2,16,3,6],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b":[8,0,0,0,1,3,5,9,2,16,3,3],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3":[8,0,0,0,1,3,5,9,2,16,3,9],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392ad29c233976c6d3b541ab98fae0ed2c35":[8,0,0,0,1,3,5,9,2,16,3,11],
@@ -239,15 +245,9 @@ var NAVTREEINDEX260 =
 "d9/df9/classinstance__hellfire__ramparts.html":[7,0,1344],
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[7,0,1344,2],
 "d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[7,0,1344,1],
-"d9/df9/classspell__dk__pestilence.html":[7,0,2845],
-"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[7,0,2845,3],
-"d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[7,0,2845,1],
-"d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[7,0,2845,2],
-"d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[7,0,2845,0],
-"d9/dfa/classnpc__anubisath__sentinel.html":[7,0,1646],
-"d9/dfa/classnpc__anubisath__sentinel.html#ada1ab0d1857fe52020e798d9710a66cb":[7,0,1646,1],
-"d9/dfa/classnpc__anubisath__sentinel.html#ae19b8ba3766ede8f715dad5ff8d4b2d2":[7,0,1646,2],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html":[7,0,445,0],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a28594cf76c5b1977a4f70ba0c3811646":[7,0,445,0,0],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a2e97f8f1f5c53efba04afc213f410870":[7,0,445,0,10]
+"d9/df9/classspell__dk__pestilence.html":[7,0,2846],
+"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[7,0,2846,3],
+"d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[7,0,2846,1],
+"d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[7,0,2846,2],
+"d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[7,0,2846,0]
 };

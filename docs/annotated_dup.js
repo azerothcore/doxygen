@@ -2699,6 +2699,7 @@ var annotated_dup =
     [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", "d5/dae/structnpc__rodin__lightning__enabler" ],
     [ "npc_rookery_hatcher", "df/d76/structnpc__rookery__hatcher.html", "df/d76/structnpc__rookery__hatcher" ],
     [ "npc_rotting_frost_giant", "dd/d14/classnpc__rotting__frost__giant.html", "dd/d14/classnpc__rotting__frost__giant" ],
+    [ "npc_salvaged_chopper", "da/dc6/structnpc__salvaged__chopper.html", "da/dc6/structnpc__salvaged__chopper" ],
     [ "npc_salvaged_siege_engine", "d1/d96/structnpc__salvaged__siege__engine.html", "d1/d96/structnpc__salvaged__siege__engine" ],
     [ "npc_sanguine_spirit", "d2/dfc/structnpc__sanguine__spirit.html", "d2/dfc/structnpc__sanguine__spirit" ],
     [ "npc_sartura_royal_guard", "dc/da1/structnpc__sartura__royal__guard.html", "dc/da1/structnpc__sartura__royal__guard" ],

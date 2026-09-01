@@ -11,6 +11,7 @@ var boss__flame__leviathan_8cpp =
     [ "npc_pool_of_tar", "d2/d2b/structnpc__pool__of__tar.html", "d2/d2b/structnpc__pool__of__tar" ],
     [ "npc_storm_beacon_spawn", "d4/d3b/structnpc__storm__beacon__spawn.html", "d4/d3b/structnpc__storm__beacon__spawn" ],
     [ "boss_flame_leviathan_safety_container", "dc/dab/structboss__flame__leviathan__safety__container.html", "dc/dab/structboss__flame__leviathan__safety__container" ],
+    [ "npc_salvaged_chopper", "da/dc6/structnpc__salvaged__chopper.html", "da/dc6/structnpc__salvaged__chopper" ],
     [ "go_ulduar_tower", "dc/d51/classgo__ulduar__tower.html", "dc/d51/classgo__ulduar__tower" ],
     [ "spell_load_into_catapult_aura", "d6/d58/classspell__load__into__catapult__aura.html", "d6/d58/classspell__load__into__catapult__aura" ],
     [ "spell_auto_repair", "d2/d1a/classspell__auto__repair.html", "d2/d1a/classspell__auto__repair" ],
@@ -111,6 +112,11 @@ var boss__flame__leviathan_8cpp =
       [ "ACTION_START_BRANN_EVENT", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae4a2b814a20663576ffdaabaaba64ece", null ],
       [ "ACTION_DESPAWN_ADDS", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
       [ "ACTION_DELAY_CANNON", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0acc301295db4db245993798dadb18f", null ]
+    ] ],
+    [ "SalvagedChopper", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0", [
+      [ "SPELL_GRAB_PYRITE", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0aa9d1131bf397df498ccfd8cf2624acfd", null ],
+      [ "SPELL_EJECT_PASSENGER", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0a4ab6bd96c61c6e3ccf1bc2506f0b393e", null ],
+      [ "SEAT_CHOPPER_PASSENGER", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0a136aa8af86d0d2c31ef817e17d048ee2", null ]
     ] ],
     [ "Seats", "d1/d88/boss__flame__leviathan_8cpp.html#a368d9bac660a99128940c2ca60672d55", [
       [ "SEAT_PLAYER", "d1/d88/boss__flame__leviathan_8cpp.html#a368d9bac660a99128940c2ca60672d55a0aef8deb5880e5db697b0ca606cbabce", null ],

@@ -56,7 +56,8 @@ var zone__storm__peaks_8cpp =
       [ "SPELL_TIME_SHIFT", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ac57a87cb312f3d95f613c22e48a0ef10", null ],
       [ "SPELL_TIME_LAPSE", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65", null ],
       [ "SPELL_FROST_BREATH", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a", null ],
-      [ "SPELL_FROST_CLEAVE", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef", null ]
+      [ "SPELL_FROST_CLEAVE", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7ad956a4247c496b57f6cc7830638007ef", null ],
+      [ "ACTION_TLPD_REVEAL", "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7af84da3ec9f707316fe2e1b5fe30a35ba", null ]
     ] ],
     [ "FreedProtoDrake", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4", [
       [ "NPC_DRAKE", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a", null ],

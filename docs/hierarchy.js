@@ -6096,6 +6096,7 @@ var hierarchy =
           [ "npc_pilgrims_bounty_chair", "d4/d39/structnpc__pilgrims__bounty__chair.html", null ],
           [ "npc_preparations_for_war_vehicle", "d6/dba/structnpc__preparations__for__war__vehicle.html", null ],
           [ "npc_putricide_mutated_abomination", "d3/d66/structnpc__putricide__mutated__abomination.html", null ],
+          [ "npc_salvaged_chopper", "da/dc6/structnpc__salvaged__chopper.html", null ],
           [ "npc_salvaged_siege_engine", "d1/d96/structnpc__salvaged__siege__engine.html", null ],
           [ "npc_toc5_player_vehicle::npc_toc5_player_vehicleAI", "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html", null ],
           [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html", null ],
