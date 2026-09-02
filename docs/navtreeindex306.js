@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5":[8,0,0,0,1,2,11,2,0],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028":[8,0,0,0,1,2,11,2,0,0],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[8,0,0,0,1,2,11,2,0,1],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2],
@@ -131,14 +132,14 @@ var NAVTREEINDEX306 =
 "db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96":[7,0,2483,29],
 "db/db8/classProcChanceTestHelper.html#af3edb0d11fc98b2a470c76d5614764f5":[7,0,2483,34],
 "db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297":[7,0,2483,7],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[5,0,34,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[7,0,13,6,9],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[5,0,34,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[7,0,13,6,9,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[5,0,34,6,9,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[7,0,13,6,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[5,0,34,6,9,4],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[5,0,34,6,9,2],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[7,0,13,6,9,2],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[5,0,34,6,9,2],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a52af0d2b4e092daf0719bdf325c51652":[7,0,13,6,9,1],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a52af0d2b4e092daf0719bdf325c51652":[5,0,34,6,9,1],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a72ac06ace5e7974d666e3fc3d626e3c0":[5,0,34,6,9,7],
@@ -149,10 +150,10 @@ var NAVTREEINDEX306 =
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#abe711cd2da225fdc73eabe2ad6bd3f5d":[5,0,34,6,9,3],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[5,0,34,6,9,8],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[7,0,13,6,9,8],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad401eb3444f5ae50781e634e1f55eba1":[5,0,34,6,9,6],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad401eb3444f5ae50781e634e1f55eba1":[7,0,13,6,9,6],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad799195b259f92aa4e71e1ee8fd99741":[7,0,13,6,9,5],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad401eb3444f5ae50781e634e1f55eba1":[5,0,34,6,9,6],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad799195b259f92aa4e71e1ee8fd99741":[5,0,34,6,9,5],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad799195b259f92aa4e71e1ee8fd99741":[7,0,13,6,9,5],
 "db/db8/classspell__winter__veil__racer__rocket__slam.html":[7,0,4399],
 "db/db8/classspell__winter__veil__racer__rocket__slam.html#a76a070da8e719198463010499f595599":[7,0,4399,1],
 "db/db8/classspell__winter__veil__racer__rocket__slam.html#a7e5a03d304f0f6fe8d06ed5df12259dd":[7,0,4399,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "db/dc4/classspell__svala__ritual__strike.html#aaa02dab30b29e6f646db52468fc35eb2":[7,0,4189,2],
 "db/dc4/instance__shadowfang__keep_8cpp.html":[8,0,0,0,1,3,2,8,1],
 "db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66":[8,0,0,0,1,3,2,8,1,4],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb":[8,0,0,0,1,3,2,8,1,4,0],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c":[8,0,0,0,1,3,2,8,1,4,1]
+"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb":[8,0,0,0,1,3,2,8,1,4,0]
 };

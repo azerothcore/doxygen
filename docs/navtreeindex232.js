@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[7,0,3232,3],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[7,0,3232,1],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[7,0,3232,2],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#ae22cd3b6f7cf515e80dd1125349dd152":[7,0,3232,0],
@@ -189,10 +190,10 @@ var NAVTREEINDEX232 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4635,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4635,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4635,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d8/d8d/structboss__lady__malande.html#a8cb693d203463dcba809e7ffc23c6868":[7,0,604,0],
 "d8/d8d/structboss__lady__malande.html#ad5cf6e7b0000c7f96d8606088fb13d31":[7,0,604,1],
 "d8/d8d/structboss__lady__malande.html#af4b5f376e387851e15517de03636acde":[7,0,604,2],
-"d8/d8e/classHookList.html":[7,0,1305],
-"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[7,0,1305,5]
+"d8/d8e/classHookList.html":[7,0,1305]
 };

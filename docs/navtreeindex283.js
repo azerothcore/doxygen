@@ -1,5 +1,6 @@
 var NAVTREEINDEX283 =
 {
+"da/dca/structBattlegroundSAScore.html#aa31cd91ede928c57cd201dba61f7f585":[7,0,354,2],
 "da/dca/structBattlegroundSAScore.html#ab31c13442be48941f5dab4214b95cde9":[7,0,354,5],
 "da/dca/structBattlegroundSAScore.html#aba47bb1ec440f405bfde8513c60ae576":[7,0,354,3],
 "da/dca/structBattlegroundSAScore.html#ac49c28efa42cfad7232268de4be45e66":[7,0,354,6],
@@ -79,16 +80,16 @@ var NAVTREEINDEX283 =
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[7,0,0,37,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[7,0,0,37,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,0,49,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,49,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[7,0,0,37,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,49,5],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,0,49,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[7,0,0,37,5],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,0,49,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,0,49,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[7,0,0,37,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[7,0,0,37,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,0,49,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,49,4],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[7,0,0,37,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,0,49,4],
 "da/dd3/RaceMgr_8cpp.html":[8,0,0,0,1,2,16,7,15],
 "da/dd3/structMovementGeneratorFactory.html":[7,0,1574],
 "da/dd3/structMovementGeneratorFactory.html#a8b473ae9fa2af60a7fa92727ce163305":[7,0,1574,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX283 =
 "da/ddc/classSmartAI.html#a99dc100930ffd0db7444ee5ee3be1bef":[7,0,2613,24],
 "da/ddc/classSmartAI.html#a99edcaa78b6955cf27959e3469389265":[7,0,2613,123],
 "da/ddc/classSmartAI.html#a9a7fa7dee79549501c14b36485190604":[7,0,2613,18],
-"da/ddc/classSmartAI.html#a9c16d3870704c2e0a49dcba7f518c2b4":[7,0,2613,102],
-"da/ddc/classSmartAI.html#a9e31b1d6489daf301ef45a5c0acc8ab6":[7,0,2613,17]
+"da/ddc/classSmartAI.html#a9c16d3870704c2e0a49dcba7f518c2b4":[7,0,2613,102]
 };

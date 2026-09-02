@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5":[8,0,0,0,1,2,31,6,7,1],
 "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0":[8,0,0,0,1,2,31,6,7,3],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5":[8,0,0,0,1,2,31,6,9],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e":[8,0,0,0,1,2,31,6,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[7,0,264,0],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#ab04b77d7521296cd271f763274d09841":[7,0,264,1],
 "db/d18/classspell__gen__fixate__aura.html":[7,0,3070],
-"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[7,0,3070,0],
-"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[7,0,3070,1]
+"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[7,0,3070,0]
 };

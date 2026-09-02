@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/d81/structboss__dorothee.html#a0e76c828a1c7c49741963b6e98003a66":[7,0,444,7],
 "df/d81/structboss__dorothee.html#a1b9cf1e58d68d249249a8b0d082b725a":[7,0,444,1],
 "df/d81/structboss__dorothee.html#a20e6555e2117a62fce3af7f7fb7167cc":[7,0,444,11],
 "df/d81/structboss__dorothee.html#a258cc9ce32f314e723d5345ac18336bf":[7,0,444,13],
@@ -215,18 +216,18 @@ var NAVTREEINDEX413 =
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[8,0,0,0,1,2,8,14,5,5],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[8,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[8,0,0,0,1,2,8,14,7],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[7,0,0,57],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,0,69],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[7,0,0,57],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[7,0,0,57,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,0,69,0],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,0,69,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[7,0,0,57,6],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[7,0,0,57,2],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,0,69,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,0,69,2],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[7,0,0,57,2],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,0,69,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[7,0,0,57,5],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[7,0,0,57,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,0,69,1],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[7,0,0,57,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,0,69,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[7,0,0,57,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,0,69,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
 "df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
 "df/d8b/classspell__item__rocket__chicken.html":[7,0,3475],
-"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3475,0],
-"df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[7,0,3475,1]
+"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3475,0]
 };

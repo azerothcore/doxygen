@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaad9f428a765a2bfa3672a04a1ae6fb0e4":[8,0,0,0,1,3,9,2,170,1],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaaf5425e89724cffc9aed525501870c4cd":[8,0,0,0,1,3,9,2,170,7],
 "d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181":[8,0,0,0,1,3,9,2,211],
 "d1/de4/spell__generic_8cpp.html#a6a69005325ae6dc437bf5e46694a7181a77e5136a326ac7c59e3ba8cc0ede9b35":[8,0,0,0,1,3,9,2,211,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/dea/classspell__mimiron__summon__rocket__strike.html#a57fcc7a0e078c344e50863ba1951f244":[7,0,3687,1],
 "d1/dea/classspell__mimiron__summon__rocket__strike.html#afae92a0d4e41fc2fd00b1fd0b6b11a22":[7,0,3687,0],
 "d1/dea/structScalingStatDistributionEntry.html":[7,0,2565],
-"d1/dea/structScalingStatDistributionEntry.html#a0392e52a26bb4e1d1927fa7f76c674b8":[7,0,2565,1],
-"d1/dea/structScalingStatDistributionEntry.html#a5ce5b18749d3c75878b310bdc8427b1f":[7,0,2565,2]
+"d1/dea/structScalingStatDistributionEntry.html#a0392e52a26bb4e1d1927fa7f76c674b8":[7,0,2565,1]
 };

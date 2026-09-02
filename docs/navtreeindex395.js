@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ac7c0153e61eb7d2da0748c4f50c3d9fd":[8,0,0,0,1,3,5,18,46,27],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ac829750b3b412d26bf25155e284292bb":[8,0,0,0,1,3,5,18,46,19],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1acac9956c22f7d2d6039a6e6f16cfd69d":[8,0,0,0,1,3,5,18,46,32],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ad49b16ea232a8aed4c24552a6aa134d6":[8,0,0,0,1,3,5,18,46,18],
@@ -139,10 +140,10 @@ var NAVTREEINDEX395 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[7,0,0,1,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[7,0,0,1,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,0,2,1,0,1],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[7,0,0,1,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,0,2,1,0,2],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,0,2,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[7,0,0,1,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[7,0,0,1,1,0,3],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,0,2,1,0,3],
 "de/da9/classMotionTransport.html":[7,0,1570],
 "de/da9/classMotionTransport.html#a00417cfdf5901d38c0adf04f8d734dcf":[7,0,1570,19],
 "de/da9/classMotionTransport.html#a09f55f2b1ee17805d3ffdafd10eac768":[7,0,1570,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[7,0,4726,5],
 "de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[7,0,4726,2],
 "de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[7,0,4726,0],
-"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[7,0,4726,1],
-"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[7,0,4726,4]
+"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[7,0,4726,1]
 };

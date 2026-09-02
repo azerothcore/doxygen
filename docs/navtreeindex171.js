@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d6/d0b/boss__anzu_8cpp.html#abf2a4d1001b5e23f729fc1941f192d35":[8,0,0,0,1,3,7,0,2,0,6],
 "d6/d0b/classspell__dk__acclimation.html":[7,0,2805],
 "d6/d0b/classspell__dk__acclimation.html#a34919ab1f3b2d4e98536c3ded56cf5fc":[7,0,2805,4],
 "d6/d0b/classspell__dk__acclimation.html#a5ab16c8eb40822679739e15a2ceac715":[7,0,2805,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f":[8,0,0,0,1,3,2,5,5,7,6],
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,2,5,5,7,4],
 "d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3":[8,0,0,0,1,3,2,5,5,7,1],
-"d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3":[8,0,0,0,1,3,2,5,5,7,3],
-"d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15":[8,0,0,0,1,3,2,5,5,7,7]
+"d6/d11/magisters__terrace_8h.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3":[8,0,0,0,1,3,2,5,5,7,3]
 };

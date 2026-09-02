@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d2a/instance__pit__of__saron_8cpp.html":[8,0,0,0,1,3,5,4,2,3],
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[8,0,0,0,1,3,5,4,2,3,2],
 "df/d2a/structnpc__molten__golem.html":[7,0,2014],
 "df/d2a/structnpc__molten__golem.html#a1936beed47707f2f0e560d7d3b3440ba":[7,0,2014,2],
@@ -11,20 +12,20 @@ var NAVTREEINDEX407 =
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[7,0,2014,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[7,0,13,6,40],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[7,0,13,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[7,0,13,6,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[7,0,13,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,34,6,40,1],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[7,0,13,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,34,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[7,0,13,6,40,4],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,34,6,40,6],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[7,0,13,6,40,6],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html":[7,0,2481,1],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a10e8ad619c9766fdf49cd29662c3d9e0":[7,0,2481,1,0],
 "df/d2b/structProcChainGuardSimulator_1_1ProcRecord.html#a5df33ebca29ea3ce1088307c138a28e4":[7,0,2481,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca97d212c44ade2e69b7857fe7a63be64b":[8,0,0,0,1,3,4,9,4,4,10],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caae4d22aece6a0216306160b1d1cdc659":[8,0,0,0,1,3,4,9,4,4,6],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[8,0,0,0,1,3,4,9,4,4,2],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[8,0,0,0,1,3,4,9,4,4,5],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,9,4,4,3]
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[8,0,0,0,1,3,4,9,4,4,5]
 };

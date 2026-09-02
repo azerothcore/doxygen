@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ab3188e7760c55994214f4c7b52e00fb6":[8,0,0,0,1,3,5,4,1,3,13,26],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ab3949e992b8085402fad0f2f1c8af03b":[8,0,0,0,1,3,5,4,1,3,13,66],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ab6cbc99df36f1dcfb2d724485a286c3b":[8,0,0,0,1,3,5,4,1,3,13,45],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ab936de25a3a737813845dcc6d21e0d6a":[8,0,0,0,1,3,5,4,1,3,13,76],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#ab68f844aa58f5d22586ba6d7526fc7ae":[7,0,1842,0,0],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#abc75688914cd4f984448dd3f21527d89":[7,0,1842,0,3],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#ac75d1c18a8f70ff88f5925a3df6e5924":[7,0,1842,0,11],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#accae0992a349361d85200863f5ac4f81":[7,0,1842,0,8],
-"d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html":[7,0,1880,0]
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#accae0992a349361d85200863f5ac4f81":[7,0,1842,0,8]
 };

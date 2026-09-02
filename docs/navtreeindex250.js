@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,6,13,13,0],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7":[8,0,0,0,1,3,5,6,13,13,2],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae62fa6cf4d75b21f368ca4b2ad33f332":[8,0,0,0,1,3,5,6,13,13,6],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09afab7428e2d2c6226b7727e1de390fb80":[8,0,0,0,1,3,5,6,13,13,11],
@@ -210,8 +211,8 @@ var NAVTREEINDEX250 =
 "d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2621,2],
 "d9/d6e/classSmartWaypointMgr.html#ac34eb4bd79106db2574cce0208a785e5":[7,0,2621,5],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[7,0,2621,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[7,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[7,0,5,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[7,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,17,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[7,0,5,16,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d71/AuthDefines_8h.html#a7cbcb71452529a2addaab3b112dba4d7":[8,0,0,0,0,3,0,2,0],
 "d9/d71/AuthDefines_8h.html#accf22e06a217bb405f0ee6f240d2e263":[8,0,0,0,0,3,0,2,1],
 "d9/d71/classat__baltharus__plateau.html":[7,0,218],
-"d9/d71/classat__baltharus__plateau.html#ac7acc8816b298446ac9bb8d6b82f27b6":[7,0,218,0],
-"d9/d71/classat__baltharus__plateau.html#aea08e30eb57d5d84b78b8891c4a45afb":[7,0,218,1]
+"d9/d71/classat__baltharus__plateau.html#ac7acc8816b298446ac9bb8d6b82f27b6":[7,0,218,0]
 };

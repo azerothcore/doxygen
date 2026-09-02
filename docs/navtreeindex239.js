@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca643c8da7dd05686abbc86bd7a81c647b":[8,0,0,0,1,3,5,6,7,37,7],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a36b3dd73b5ddd5187b2e1f8fe860da":[8,0,0,0,1,3,5,6,7,37,22],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6baa922408c42ba726e7d02cf86038d8":[8,0,0,0,1,3,5,6,7,37,27],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c7194afc6a3dd4c9d53c1dc2f7e9ffa":[8,0,0,0,1,3,5,6,7,37,18],
@@ -201,14 +202,14 @@ var NAVTREEINDEX239 =
 "d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
-"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de5/boss__maiden__of__grief_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[8,0,0,0,1,3,5,9,1,1,5],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[8,0,0,0,1,3,5,9,1,1,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a19b2a44ab973e5455800e27c52741dc7":[8,0,0,0,1,3,5,9,1,1,3,1],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[8,0,0,0,1,3,5,9,1,1,3,4],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a9cfd52b71d003bd58e61a4d460726243":[8,0,0,0,1,3,5,9,1,1,3,3]
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[8,0,0,0,1,3,5,9,1,1,3,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX117 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#abf04a0b9fc252ea4a4789d0b52d5f742":[7,0,1327,23],
 "d3/dd6/structinstance__blackrock__depths.html#ac1733be99347c846156c9c77d25b6431":[7,0,1327,58],
 "d3/dd6/structinstance__blackrock__depths.html#ac2836acf790bd0fe91a7ddc92388b231":[7,0,1327,10],
 "d3/dd6/structinstance__blackrock__depths.html#ac61e405f121b917801e7081af8fb49c9":[7,0,1327,52],
@@ -248,6 +249,5 @@ var NAVTREEINDEX117 =
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a8b1230d7a14f87966ecf834fcbf83b58":[7,0,3804,6],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#ac01bc37e10b1072fb12aeb0bbfbdcc41":[7,0,3804,4],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#ad42047dcb29d96224f6bd44064b1da32":[7,0,3804,2],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#ae974eed8254bace2a758917a4b629fa9":[7,0,3804,1],
-"d3/de2/classspell__q5561__kodo__roundup__kodo__kombobulator.html":[7,0,3986]
+"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#ae974eed8254bace2a758917a4b629fa9":[7,0,3804,1]
 };

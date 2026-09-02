@@ -1,5 +1,6 @@
 var NAVTREEINDEX235 =
 {
+"d8/dab/classspell__oculus__soar__aura.html":[7,0,3732],
 "d8/dab/classspell__oculus__soar__aura.html#a09481646f8ec90b0135d93d83cc18929":[7,0,3732,4],
 "d8/dab/classspell__oculus__soar__aura.html#a3ec47d5d9fdbdcfe671e02c3b0f55980":[7,0,3732,1],
 "d8/dab/classspell__oculus__soar__aura.html#abb453e3d38677be7082f2cd4e43134cc":[7,0,3732,0],
@@ -239,8 +240,8 @@ var NAVTREEINDEX235 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,0,41],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[7,0,0,29,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,0,41,4],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,0,41,2],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[7,0,0,29,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,41,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[7,0,0,29,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[7,0,0,29,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,0,41,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[7,0,0,29,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,0,41,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[5,0,0,41,6]
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,0,41,0]
 };

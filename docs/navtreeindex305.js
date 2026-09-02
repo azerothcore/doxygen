@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"db/dae/npcs__special_8cpp.html#a1896308cb3a61422f078cf36a4cdfb11a57f5b5899e1415f29ab85aabb791f7ca":[8,0,0,0,1,3,10,14,69,1],
 "db/dae/npcs__special_8cpp.html#a1896308cb3a61422f078cf36a4cdfb11ab51fc07aebf70478f57299a1eac9bb8f":[8,0,0,0,1,3,10,14,69,0],
 "db/dae/npcs__special_8cpp.html#a1a9b49c92afce478448095e22a81f3e3":[8,0,0,0,1,3,10,14,78],
 "db/dae/npcs__special_8cpp.html#a211a53ccdd9e750147d3d5db4b462a97":[8,0,0,0,1,3,10,14,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56":[8,0,0,0,1,2,11,2,1,1],
 "db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654":[8,0,0,0,1,2,11,2,1,2],
 "db/db2/Chat_8cpp.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919":[8,0,0,0,1,2,11,2,1,3],
-"db/db2/Chat_8cpp.html#a493fba30c4b66be28baeb971844ea593":[8,0,0,0,1,2,11,2,3],
-"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5":[8,0,0,0,1,2,11,2,0]
+"db/db2/Chat_8cpp.html#a493fba30c4b66be28baeb971844ea593":[8,0,0,0,1,2,11,2,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a93f8126d2e36ad7caab980f1c3f83a14":[8,0,0,0,1,3,5,14,141],
 "d2/d38/northrend__script__loader_8cpp.html#a94963838fa62017b6c828d31ff1061ee":[8,0,0,0,1,3,5,14,58],
 "d2/d38/northrend__script__loader_8cpp.html#a97a8037c279c09143b2ba1235a2895f2":[8,0,0,0,1,3,5,14,75],
 "d2/d38/northrend__script__loader_8cpp.html#a97b0b02539772c66fbc310236f683e94":[8,0,0,0,1,3,5,14,20],
@@ -66,8 +67,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2244,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2244,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,987,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d40/classnpc__zafod__boombox.html":[7,0,2333],
 "d2/d40/classnpc__zafod__boombox.html#a7124746ed3f25ae6d96a2fa1910d98d0":[7,0,2333,1],
 "d2/d40/classnpc__zafod__boombox.html#af80f6913cef53d39cafdcd47b2cd07f0":[7,0,2333,2],
-"d2/d41/classWDTFile.html":[7,0,4678],
-"d2/d41/classWDTFile.html#a10c133d9b2f8d39cb6c2b3d8c2791b78":[7,0,4678,0]
+"d2/d41/classWDTFile.html":[7,0,4678]
 };

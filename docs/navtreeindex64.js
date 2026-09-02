@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4b/classPlayer.html#af2f7e0ca5f73a84f43d5efbe13a19dfb":[7,0,2433,511],
 "d2/d4b/classPlayer.html#af30525fcf507cfc5f665e70eb6181318":[7,0,2433,822],
 "d2/d4b/classPlayer.html#af31174c3b93f030f1db92db62cfd798c":[7,0,2433,1270],
 "d2/d4b/classPlayer.html#af37c2193907bc6a6860b7e25954531e0":[7,0,2433,108],
@@ -81,12 +82,12 @@ var NAVTREEINDEX64 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[7,0,13,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[7,0,3472],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[7,0,3472,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[7,0,3472,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44a":[8,0,0,0,1,3,3,9,6],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d":[8,0,0,0,1,3,3,9,6,9],
 "d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a":[8,0,0,0,1,3,3,9,6,5],
-"d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e":[8,0,0,0,1,3,3,9,6,4],
-"d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3":[8,0,0,0,1,3,3,9,6,3]
+"d2/d57/winter__veil_8cpp.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e":[8,0,0,0,1,3,3,9,6,4]
 };

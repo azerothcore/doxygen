@@ -552,7 +552,8 @@ var spell__generic_8cpp =
       [ "SPELL_VAMPIRIC_TOUCH_HEAL", "d1/de4/spell__generic_8cpp.html#a3ae7119db8726658814a385667cf85f0a90fcc8b98d0b0db478320c39c9b93a38", null ]
     ] ],
     [ "VehicleScaling", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149", [
-      [ "SPELL_GEAR_SCALING", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149ac04ed98a6262941fb06bd5ce16442cce", null ]
+      [ "SPELL_GEAR_SCALING", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149ac04ed98a6262941fb06bd5ce16442cce", null ],
+      [ "SPELL_GEAR_SCALING_ULDUAR", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149a3774adb50014df8be0512402e6f7332a", null ]
     ] ],
     [ "VendorBarkTrigger", "d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eee", [
       [ "NPC_AMPHITHEATER_VENDOR", "d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea764a76066ce6d4a4a24d9d5c81b5a35a", null ],

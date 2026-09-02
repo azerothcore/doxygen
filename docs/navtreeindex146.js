@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d5/d09/classspell__ooze__zap__channel__end.html#a30a87266b89021caf7d05c45397f70d1":[7,0,3738,0],
 "d5/d09/classspell__ooze__zap__channel__end.html#a43a92b346088d710719722e8feed9634":[7,0,3738,1],
 "d5/d09/classspell__ooze__zap__channel__end.html#a8b5097b623adbc1d8a10d7b1c4c248ab":[7,0,3738,3],
 "d5/d09/classspell__ooze__zap__channel__end.html#ad7a53cc6a24197c050ed8577f6c6cc12":[7,0,3738,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[7,0,4147,1],
 "d5/d1b/classThreatManager.html":[7,0,4565],
 "d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2":[7,0,4565,83],
-"d5/d1b/classThreatManager.html#a04989efc16410d6f29034b5392b27f3f":[7,0,4565,7],
-"d5/d1b/classThreatManager.html#a06b7720ed966d97fcf0449531f9aa5da":[7,0,4565,2]
+"d5/d1b/classThreatManager.html#a04989efc16410d6f29034b5392b27f3f":[7,0,4565,7]
 };

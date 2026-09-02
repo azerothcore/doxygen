@@ -1,5 +1,6 @@
 var NAVTREEINDEX418 =
 {
+"df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2869,3],
 "df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2869,2],
 "df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2869,1],
 "df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[7,0,2869,0],
@@ -91,16 +92,16 @@ var NAVTREEINDEX418 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[7,0,1751,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[7,0,1751,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[7,0,1751,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[7,0,13,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[7,0,13,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[7,0,13,10,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,34,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[7,0,13,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,34,10,8,3],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[7,0,13,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,34,10,8,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[7,0,13,10,8,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[7,0,13,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,34,10,8,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[7,0,13,10,8,0],
 "df/db5/boss__meathook_8cpp.html":[8,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[8,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,4,1,1,3,4],
@@ -186,10 +187,10 @@ var NAVTREEINDEX418 =
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2227,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,34,6,50,2],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[7,0,13,6,50,2],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,34,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[7,0,13,6,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,34,6,50,0],
 "df/db9/structAddonInfo.html":[7,0,135],
@@ -248,6 +249,5 @@ var NAVTREEINDEX418 =
 "df/dbb/structboss__flame__leviathan.html#a918059906db32d003e9fe9b45544713c":[7,0,486,5],
 "df/dbb/structboss__flame__leviathan.html#aa1c2f7cf26d6d5c22333519430b4807a":[7,0,486,4],
 "df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,20],
-"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,17],
-"df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,23]
+"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,17]
 };

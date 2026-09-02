@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d4b/structboss__archimonde.html#aba420f926ccdfc6feeb16a0e6d67267f":[7,0,402,1],
 "d3/d4b/structboss__archimonde.html#ac4246d0fd80ed0edfd39b2008a97eeca":[7,0,402,8],
 "d3/d4b/structboss__archimonde.html#ad967688caad8a6c7530bfd4709aecb06":[7,0,402,13],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html":[7,0,1781,0],
@@ -93,10 +94,10 @@ var NAVTREEINDEX101 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[7,0,1067,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[7,0,13,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[7,0,13,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[7,0,13,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[7,0,13,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[7,0,3677],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[7,0,3677,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[7,0,3677,0],
@@ -179,12 +180,12 @@ var NAVTREEINDEX101 =
 "d3/d5d/classspell__saviana__conflagration__throwback.html#a0077abbe11092b9636c3bb7b5c367946":[7,0,4066,2],
 "d3/d5d/classspell__saviana__conflagration__throwback.html#a55dec84643f9bd536c7c73b5909ab303":[7,0,4066,1],
 "d3/d5d/classspell__saviana__conflagration__throwback.html#a647f39eb125537cd7545ab4115be1091":[7,0,4066,0],
-"d3/d5d/structVMAP_1_1MapSpawns.html":[7,0,11,11],
 "d3/d5d/structVMAP_1_1MapSpawns.html":[5,0,31,11],
-"d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[7,0,11,11,1],
+"d3/d5d/structVMAP_1_1MapSpawns.html":[7,0,11,11],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[5,0,31,11,1],
-"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,31,11,0],
+"d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[7,0,11,11,1],
 "d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[7,0,11,11,0],
+"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,31,11,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[5,0,0,44],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[7,0,0,32],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[5,0,0,44,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d62/classOPvPCapturePointNA.html#a139da552f460d580aa35d0efc8f04fb7":[7,0,2369,8],
 "d3/d62/classOPvPCapturePointNA.html#a19b67929abc1cce6fbbc227f0944d4ab":[7,0,2369,18],
 "d3/d62/classOPvPCapturePointNA.html#a1b314dbcb0d2c2452da8e6c0129ecdec":[7,0,2369,10],
-"d3/d62/classOPvPCapturePointNA.html#a1e86902a7e55bba632c9bfee4e18c238":[7,0,2369,24],
-"d3/d62/classOPvPCapturePointNA.html#a230d7dfe468e1e89f885bafdfde652c8":[7,0,2369,14]
+"d3/d62/classOPvPCapturePointNA.html#a1e86902a7e55bba632c9bfee4e18c238":[7,0,2369,24]
 };

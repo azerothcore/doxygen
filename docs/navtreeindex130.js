@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d61/classBattlefieldScript.html#a3d02622460b0fcc0ae0d5d559fe5f436":[7,0,328,1],
 "d4/d61/classBattlefieldScript.html#a3e88ff9ad3772d558ab72123127a550e":[7,0,328,6],
 "d4/d61/classBattlefieldScript.html#a835001d04260cafe35021108e2ede851":[7,0,328,5],
 "d4/d61/classBattlefieldScript.html#a8b975d588e1b44aecebcbbb1b547d02c":[7,0,328,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974afb2a5aef33bf9e61c6b2b625c4ffb43f":[8,0,0,0,1,3,7,5,2,2,23,31],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974afb576b651dead360a9dfd1409b5e99ea":[8,0,0,0,1,3,7,5,2,2,23,17],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974affaa99fd89462376a8df5c7a0ccc39ed":[8,0,0,0,1,3,7,5,2,2,23,35],
-"d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2":[8,0,0,0,1,3,7,5,2,2,25],
-"d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,2,2,25,13]
+"d4/d67/boss__kaelthas_8cpp.html#a9277c8f922b8b07fb2586e4f5a1b0ef2":[8,0,0,0,1,3,7,5,2,2,25]
 };

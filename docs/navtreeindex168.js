@@ -1,9 +1,10 @@
 var NAVTREEINDEX168 =
 {
+"d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,17,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[7,0,5,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,17,3,4],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[7,0,5,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,17,3,2],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[7,0,5,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[7,0,5,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,17,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,17,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d5/dfb/classObjectMgr.html#a80aaa83cee360b95cb6b85c4571e459e":[7,0,2354,135],
 "d5/dfb/classObjectMgr.html#a80e4d9c63a79d297ecf7fbf51035ccbf":[7,0,2354,28],
 "d5/dfb/classObjectMgr.html#a81cdd7e0531cb6bb7d9766d9826adc09":[7,0,2354,194],
-"d5/dfb/classObjectMgr.html#a8220b51e8c3e39c9d2c99293e60c2c05":[7,0,2354,102],
-"d5/dfb/classObjectMgr.html#a82337c24de95c10235ff7b7a3d41fefa":[7,0,2354,379]
+"d5/dfb/classObjectMgr.html#a8220b51e8c3e39c9d2c99293e60c2c05":[7,0,2354,102]
 };

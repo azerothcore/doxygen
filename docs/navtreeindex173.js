@@ -1,5 +1,6 @@
 var NAVTREEINDEX173 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d3d147dbdefaa5a8280f3d1bcc15ea8":[8,0,0,0,1,3,5,6,11,35,16],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3fe130a1ffc1da78e4ed40eed398259f":[8,0,0,0,1,3,5,6,11,35,2],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48a513f29bfbc131b39a1734dd59323c":[8,0,0,0,1,3,5,6,11,35,9],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56d55c53b4e0fe1d263dddd948b3c29d":[8,0,0,0,1,3,5,6,11,35,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a5afd50fdc8393a12cd39a56c342f9179":[7,0,3574,1],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a6489e3a58421da7c448a24d6673564c5":[7,0,3574,0],
 "d6/d23/structHolidayRule.html":[7,0,1300],
-"d6/d23/structHolidayRule.html#a2105d2c9d4b2867650f0a3b67b035416":[7,0,1300,1],
-"d6/d23/structHolidayRule.html#a25f2529332f23c93b37e5c918032eb3d":[7,0,1300,4]
+"d6/d23/structHolidayRule.html#a2105d2c9d4b2867650f0a3b67b035416":[7,0,1300,1]
 };

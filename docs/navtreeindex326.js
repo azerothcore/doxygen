@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dc/d37/cs__lookup_8cpp.html":[8,0,0,0,1,3,0,29],
 "dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[8,0,0,0,1,3,0,29,1],
 "dc/d38/classspell__ahune__spanky__hands.html":[7,0,2638],
 "dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[7,0,2638,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caa3d23300dbc2574a11981b6aac1ddf51":[8,0,0,0,1,3,5,7,13,5,6],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cac6acbf11d05843e56c9048a89bd6fd12":[8,0,0,0,1,3,5,7,13,5,9],
 "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cac82d546d00dd6af58e94f9bbf0f6fad4":[8,0,0,0,1,3,5,7,13,5,3],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cace9ccdb83b868b64c6d32698148b04b9":[8,0,0,0,1,3,5,7,13,5,8],
-"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,7,13,5,5]
+"dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cace9ccdb83b868b64c6d32698148b04b9":[8,0,0,0,1,3,5,7,13,5,8]
 };

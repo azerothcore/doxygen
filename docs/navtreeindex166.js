@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/de5/classspell__summon__gauntlet__mobs__periodic.html#a9e470116c80cf56b425e344d73e44533":[7,0,4181,3],
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html#ac7450be0713ce98e7986d322a58289f6":[7,0,4181,2],
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html#ac9b99d9328affec2787691f80e0cc9c3":[7,0,4181,1],
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html#ad948e7cb5a64ed5bd202c10b28285d9c":[7,0,4181,4],
@@ -201,8 +202,8 @@ var NAVTREEINDEX166 =
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1006],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#a4275afcc93c5281d9865601a2d9dabaa":[7,0,1370,0,4],
 "d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#a7752d5bfe1d1c5eef2c450df7677a69e":[7,0,1370,0,5],
 "d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#a9dc908fdaef98aa6eb81fd1709eee9e4":[7,0,1370,0,2],
-"d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#ad876ebd581c470f5a3075129076bd1fb":[7,0,1370,0,1],
-"d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#ada5f19c96bfe623b110389ede032ef53":[7,0,1370,0,0]
+"d5/df0/structinstance__shadow__labyrinth_1_1instance__shadow__labyrinth__InstanceMapScript.html#ad876ebd581c470f5a3075129076bd1fb":[7,0,1370,0,1]
 };

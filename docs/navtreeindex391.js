@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/d92/classLootTemplate_1_1LootGroup.html#a55a98102081eca760af46fe2158ad6e4":[7,0,1494,0,6],
 "de/d92/classLootTemplate_1_1LootGroup.html#a5654d18106376d9fb168dfd8e27f1355":[7,0,1494,0,8],
 "de/d92/classLootTemplate_1_1LootGroup.html#a5a4dfbbfaf6c6f87217c124f387d7951":[7,0,1494,0,13],
 "de/d92/classLootTemplate_1_1LootGroup.html#a66528563891f68cc71cf2e82c0c55f78":[7,0,1494,0,0],
@@ -229,16 +230,16 @@ var NAVTREEINDEX391 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,34,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[7,0,13,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,34,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,34,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[7,0,13,6,43,1],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,34,6,43,5],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,34,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[7,0,13,6,43,5],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,34,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,34,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[7,0,13,6,43,4],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[7,0,13,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,34,6,43,3],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,34,6,43,2],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[7,0,13,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[7,0,13,6,43,2],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,34,6,43,2],
 "de/d9d/FormulaScript_8cpp.html":[8,0,0,0,1,2,38,0,47],
 "de/d9d/FormulaScript_8cpp.html#a774b8f7659d09535a55ac9bbdcf46025":[8,0,0,0,1,2,38,0,47,0],
 "de/d9d/classinstance__pit__of__saron.html":[7,0,1360],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/d9d/classnpc__prof__alchemy.html#a2377df97a293fb3fcbe7f70d4d815b75":[7,0,2100,3],
 "de/d9d/classnpc__prof__alchemy.html#a2d4c7337b40be323a384a9e755fc3145":[7,0,2100,4],
 "de/d9d/classnpc__prof__alchemy.html#a43ea842214fc507c34586d12df8f7fea":[7,0,2100,0],
-"de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[7,0,2100,5],
-"de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[7,0,2100,1]
+"de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[7,0,2100,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX426 =
 {
+"df/ddc/classTaskScheduler.html#a16b63643c58023c8e22f75e5782af4bf":[7,0,4549,20],
 "df/ddc/classTaskScheduler.html#a1a4145dfbe6e4914a05ddfe6895a2272":[7,0,4549,26],
 "df/ddc/classTaskScheduler.html#a32b427f48c112891c6914243975d75e5":[7,0,4549,44],
 "df/ddc/classTaskScheduler.html#a34a5818482e3b5c4dd804c559badc988":[7,0,4549,31],
@@ -64,10 +65,10 @@ var NAVTREEINDEX426 =
 "df/dde/classnpc__rinji.html":[7,0,2134],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[7,0,2134,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[7,0,2134,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[7,0,11,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[7,0,11,23,2],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a72cdf8414d32846375122393b9911861":[5,0,31,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a72cdf8414d32846375122393b9911861":[7,0,11,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[7,0,11,23,3],
@@ -194,14 +195,14 @@ var NAVTREEINDEX426 =
 "df/de4/classachievement__commandscript.html#a81a8dc82481b38763d846444b9846da7":[7,0,51,2],
 "df/de4/classachievement__commandscript.html#ac1c40d7b3b628cc206c44eae18592292":[7,0,51,0],
 "df/de4/classachievement__commandscript.html#adeac4e6f74f006daa76b0ebb8ea1469c":[7,0,51,1],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[5,0,34,14,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[7,0,13,14,0],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[5,0,34,14,0,2],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html":[5,0,34,14,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[7,0,13,14,0,2],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a0d30347159622093b52d0936d93a63bf":[5,0,34,14,0,2],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a3c49c83653ef26f2dcaf5c73c29066e0":[7,0,13,14,0,0],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#a3c49c83653ef26f2dcaf5c73c29066e0":[5,0,34,14,0,0],
-"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[5,0,34,14,0,1],
 "df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[7,0,13,14,0,1],
+"df/de5/classWorldPackets_1_1Quest_1_1PushQuestToParty.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c":[5,0,34,14,0,1],
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,0,7],
 "df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,0,7,9],
 "df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,0,7,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX426 =
 "df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[7,0,3704,1],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[7,0,2141,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[7,0,2141,0,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[7,0,2141,0,0],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[7,0,2141,0,3]
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[7,0,2141,0,0]
 };

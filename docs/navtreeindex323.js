@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298cab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,4,1,0,4,2,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,4,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[8,0,0,0,1,3,4,1,0,4,3,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[8,0,0,0,1,3,4,1,0,4,3,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4cc1ee3bc0c4bf7cffe251bcc59f8aca":[5,0,28,6,259],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4cc35d23dcc7d3c74b51ccc810140271":[5,0,28,6,332],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4d10d32af71c92ce496e6f46be88a9f7":[5,0,28,6,110],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4da45a19c743b10698e66175c349ad3b":[5,0,28,6,242],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4e282240319394c3e060f5c0b54c43ba":[5,0,28,6,417]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a4da45a19c743b10698e66175c349ad3b":[5,0,28,6,242]
 };

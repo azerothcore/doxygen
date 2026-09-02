@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#ae0b55ae5b0c63510bae45f290615ab8e":[7,0,677,0,5],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#ae373180193d65c1555c1649af8e08f6c":[7,0,677,0,4],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#af3b8b1bca2e5c043b5cf7a2df771dce1":[7,0,677,0,2],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#af789687d10fce3b216c2d562ac7798a0":[7,0,677,0,15],
@@ -142,14 +143,14 @@ var NAVTREEINDEX268 =
 "da/d47/boss__cthun_8cpp.html#aaff9bf4a1193d28032a46428a879f03da2e7a5a16d1b02b8f007bb10455f4cab6":[8,0,0,0,1,3,4,9,1,15,0],
 "da/d47/boss__cthun_8cpp.html#ab8e578024252e20584d588a8fc688105":[8,0,0,0,1,3,4,9,1,20],
 "da/d47/boss__cthun_8cpp.html#aed31bd88fed65a845df7d4c20e4017de":[8,0,0,0,1,3,4,9,1,19],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[7,0,0,4,0,4],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[5,0,0,7,0,4],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,4,0],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[7,0,0,4,0,4],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[7,0,0,4,0,4,0],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,4,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,7,0,4,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[7,0,0,4,0,4,2],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,4,1],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[7,0,0,4,0,4,1],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,4,1],
 "da/d48/adtfile_8h.html":[8,0,0,0,3,4,2],
 "da/d48/adtfile_8h.html#a5e577b4c8e75312883ba4e8c571908ca":[8,0,0,0,3,4,2,6],
 "da/d48/adtfile_8h.html#a939d4568b4058bf826a517f55cb963af":[8,0,0,0,3,4,2,7],
@@ -217,12 +218,12 @@ var NAVTREEINDEX268 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[8,0,0,0,2,2,0,10,17,2],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
 "da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[7,0,0,107,2],
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,119,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[7,0,0,107,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[7,0,0,107,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,119,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,0,119,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[7,0,0,107,0],
 "da/d4b/classCastArmageddon.html":[7,0,858],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#af13f2f59692b16ad24d17442efe9f834":[7,0,2020,0,14],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#afd7e3b65e8091e5f24367c8de65df200":[7,0,2020,0,3],
 "da/d4c/structPageText.html":[7,0,2405],
-"da/d4c/structPageText.html#a9c13498341adce66590cb198b720f96f":[7,0,2405,1],
-"da/d4c/structPageText.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef":[7,0,2405,0]
+"da/d4c/structPageText.html#a9c13498341adce66590cb198b720f96f":[7,0,2405,1]
 };

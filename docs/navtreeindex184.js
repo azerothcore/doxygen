@@ -1,5 +1,6 @@
 var NAVTREEINDEX184 =
 {
+"d6/d80/classForcedDespawnDelayEvent.html#aa4fa09703f39ae8bbe0b7483a27d9cc3":[7,0,1090,2],
 "d6/d80/classForcedDespawnDelayEvent.html#ad3cf785f62ec0d7069493fee39227bc3":[7,0,1090,0],
 "d6/d80/structSpellItemEnchantmentConditionEntry.html":[7,0,4474],
 "d6/d80/structSpellItemEnchantmentConditionEntry.html#a670fb4e2a31958f81d46047f74d9916f":[7,0,4474,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a37ae402a006ea406e34ede30d118e441":[8,0,0,0,1,3,5,7,16,3,44],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a3bb2ba0806aae32a93caf2aeb4404f8b":[8,0,0,0,1,3,5,7,16,3,30],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a407c124b86eff8525c357212d6434800":[8,0,0,0,1,3,5,7,16,3,20],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a44c18c5bb7d91fcc4a63405e64803980":[8,0,0,0,1,3,5,7,16,3,47],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5057e82919bcf77dbf93f23725e97a37":[8,0,0,0,1,3,5,7,16,3,27]
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a44c18c5bb7d91fcc4a63405e64803980":[8,0,0,0,1,3,5,7,16,3,47]
 };

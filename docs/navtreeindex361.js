@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,19,29,8],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbad798849daf50b1b5f9f7d5428b5ab49a":[8,0,0,0,1,3,5,19,29,6],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbadbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,5,19,29,10],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8":[8,0,0,0,1,3,5,19,22],
@@ -133,16 +134,16 @@ var NAVTREEINDEX361 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[7,0,3085,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,0,28],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[7,0,0,16],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[7,0,0,16,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,28,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[7,0,3179],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[7,0,3179,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[7,0,3179,0],
@@ -194,8 +195,8 @@ var NAVTREEINDEX361 =
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[7,0,767,6],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[7,0,13,12,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,34,12,4],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,34,12,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[7,0,13,12,4,0],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,34,12,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,34,12,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[7,0,13,12,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[7,0,13,12,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a18103f56fd6f90f8c3aa53ff53b82492":[7,0,2923,3],
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a2c4e408e45995098b01a05815fffb34c":[7,0,2923,0],
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a8047fb4309487c7a529047ec5148a2e3":[7,0,2923,6],
-"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#aa01df2b86cf69508866f6e7d063c735a":[7,0,2923,2],
-"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#ac89215007d26494b6eaa690b23d6bbd8":[7,0,2923,5]
+"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#aa01df2b86cf69508866f6e7d063c735a":[7,0,2923,2]
 };

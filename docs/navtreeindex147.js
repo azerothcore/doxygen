@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d1b/classThreatManager.html#a06b7720ed966d97fcf0449531f9aa5da":[7,0,4565,2],
 "d5/d1b/classThreatManager.html#a08e8ca17055969844b8fce7d4e651faa":[7,0,4565,29],
 "d5/d1b/classThreatManager.html#a0a10124e1f64f2f76453f8bc536caca6":[7,0,4565,10],
 "d5/d1b/classThreatManager.html#a0ac9eb8984fa512f63dd577d05845360":[7,0,4565,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d23/structnpc__fos__corrupted__soul__fragment.html#a82a7ce4a8d07e7d4dab30d4f11aeb006":[7,0,1829,4],
 "d5/d23/structnpc__fos__corrupted__soul__fragment.html#a8dd94bd36392c75c4971aa50b83a5ada":[7,0,1829,2],
 "d5/d23/structnpc__fos__corrupted__soul__fragment.html#ad318f80454cf17b2b9d39a02a83e6e92":[7,0,1829,1],
-"d5/d24/MailMgr_8cpp.html":[8,0,0,0,1,2,25,2],
-"d5/d24/structboss__gehennas.html":[7,0,512]
+"d5/d24/MailMgr_8cpp.html":[8,0,0,0,1,2,25,2]
 };

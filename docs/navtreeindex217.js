@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d7/dc9/classBattlegroundWS.html#a7cc81588e7695ec07347d2f3eed6788a":[7,0,359,10],
 "d7/dc9/classBattlegroundWS.html#a8b22cc467b21c9a2d9c8a09a48957ac3":[7,0,359,29],
 "d7/dc9/classBattlegroundWS.html#a8fed1caa341eaebb2c226d83ea2078d4":[7,0,359,33],
 "d7/dc9/classBattlegroundWS.html#a92761ed16d529691ae6566ec706c25ab":[7,0,359,25],
@@ -29,22 +30,22 @@ var NAVTREEINDEX217 =
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html":[5,0,0,97],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a04c85a77d660bbc74279d1062dabc375":[7,0,0,85,2],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a04c85a77d660bbc74279d1062dabc375":[5,0,0,97,2],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a2fe620370289850eb0362823de2072d1":[7,0,0,85,1],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a2fe620370289850eb0362823de2072d1":[5,0,0,97,1],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a2fe620370289850eb0362823de2072d1":[7,0,0,85,1],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a64c5fce466521a6d6d78eeda0708d65e":[7,0,0,85,3],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a64c5fce466521a6d6d78eeda0708d65e":[5,0,0,97,3],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a67cef25e6f725ea42f0377df34d48495":[5,0,0,97,5],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a67cef25e6f725ea42f0377df34d48495":[7,0,0,85,5],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a67cef25e6f725ea42f0377df34d48495":[5,0,0,97,5],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a801d56a180e196943cfc2cefb6c5dda5":[7,0,0,85,4],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a801d56a180e196943cfc2cefb6c5dda5":[5,0,0,97,4],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[5,0,0,97,0],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[7,0,0,85,0],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[5,0,0,97,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[7,0,11,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[5,0,31,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[5,0,31,0,2],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[7,0,11,0,2],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[7,0,11,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[5,0,31,0,4],
+"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[7,0,11,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[5,0,31,0,3],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[7,0,11,0,3],
 "d7/dcc/wdtfile_8cpp.html":[8,0,0,0,3,4,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dd9/classspell__dream__fog__sleep.html#a5e93d0d708d2304d9166c47ad285ada5":[7,0,2878,3],
 "d7/dd9/classspell__dream__fog__sleep.html#a5ee420ce696d23d836ff6e9e1def6405":[7,0,2878,0],
 "d7/ddc/structBuildValuesCachePosPointers.html":[7,0,842],
-"d7/ddc/structBuildValuesCachePosPointers.html#a04e607123d1d1dde24611b573d25fedb":[7,0,842,8],
-"d7/ddc/structBuildValuesCachePosPointers.html#a1058d1650d656498f7dcd5139363a315":[7,0,842,6]
+"d7/ddc/structBuildValuesCachePosPointers.html#a04e607123d1d1dde24611b573d25fedb":[7,0,842,8]
 };

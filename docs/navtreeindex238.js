@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d8/dd6/DBCfmt_8h.html#ae20c61746e993973f9a21fc54d8cd949":[8,0,0,0,1,4,0,3,90],
 "d8/dd6/DBCfmt_8h.html#ae48b3dd3b49ff9f630acf2b9a1915e03":[8,0,0,0,1,4,0,3,0],
 "d8/dd6/DBCfmt_8h.html#ae5d373cb4d3649221df390ea8f7ff8d1":[8,0,0,0,1,4,0,3,63],
 "d8/dd6/DBCfmt_8h.html#ae75c1bb1753681a0699f8c3b7f78367f":[8,0,0,0,1,4,0,3,29],
@@ -166,12 +167,12 @@ var NAVTREEINDEX238 =
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,34,14,1,0],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[7,0,13,14,1,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[5,0,34,14,1,1],
 "d8/ddc/classspell__claw__swipe__check.html":[7,0,2772],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca353682bc516cda23a8618a05c9f084e2":[8,0,0,0,1,3,5,6,7,37,9],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d52f0ef67ddfa327574a1584c5c81e0":[8,0,0,0,1,3,5,6,7,37,11],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4de96fc5934cd6c5a652b85389f9c7fd":[8,0,0,0,1,3,5,6,7,37,41],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d6e982b2eeb4cdb3ac6e7bbc8e0edb2":[8,0,0,0,1,3,5,6,7,37,20],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca643c8da7dd05686abbc86bd7a81c647b":[8,0,0,0,1,3,5,6,7,37,7]
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d6e982b2eeb4cdb3ac6e7bbc8e0edb2":[8,0,0,0,1,3,5,6,7,37,20]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,1,9,6],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca076daa7ca407e32a85aaf56d1f22100a":[8,0,0,0,1,3,7,1,9,6,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dc7878b2fbd4648a8a46443f095bfd4":[8,0,0,0,1,3,7,1,9,6,4],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca755ded2fc6ebfb3993d61559acda3d86":[8,0,0,0,1,3,7,1,9,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/d72/classAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,30,6],
 "df/d72/classAccountMgr.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,30,24],
 "df/d72/classAccountMgr.html#a8280510b2564ec6ea76727218c1687b3":[7,0,30,19],
-"df/d72/classAccountMgr.html#a9cef07e9cdeb656405b9589482c19ee5":[7,0,30,22],
-"df/d72/classAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,30,14]
+"df/d72/classAccountMgr.html#a9cef07e9cdeb656405b9589482c19ee5":[7,0,30,22]
 };

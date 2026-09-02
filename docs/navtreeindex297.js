@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fa1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,9,4,261,0],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fa33122b8ae8aaf879525eb5f2c37883e8":[8,0,0,0,1,3,9,4,261,2],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fa846055c995374082714483a6b39bc963":[8,0,0,0,1,3,9,4,261,3],
 "db/d6e/spell__item_8cpp.html#ad8ee9e885c2ec33d5dddfcb25a87226fac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,9,4,261,4],
@@ -88,12 +89,12 @@ var NAVTREEINDEX297 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2567,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
 "db/d72/structLootItem.html":[7,0,1489],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[7,0,1489,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[7,0,1489,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/d79/namespaceAcore_1_1TimeDiff.html#a5fb1c8d14d370751c6202fc87b27bf96":[5,0,0,15,4],
 "db/d79/namespaceAcore_1_1TimeDiff.html#abbd89694b6a3e24a701ce6971b2cd37d":[5,0,0,15,3],
 "db/d79/namespaceAcore_1_1TimeDiff.html#ac9bde42940b2570f3865385200b56af8":[5,0,0,15,0],
-"db/d7a/namespaceWorldPackets_1_1Bank.html":[5,0,34,0],
-"db/d7a/structItemLocale.html":[7,0,1424]
+"db/d7a/namespaceWorldPackets_1_1Bank.html":[5,0,34,0]
 };

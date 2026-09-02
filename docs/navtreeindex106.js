@@ -1,5 +1,6 @@
 var NAVTREEINDEX106 =
 {
+"d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a60af9e06e872adfab6e7dbac73dfbece":[7,0,1632,0,9],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a7772c5b4f80b75ffe7b0641321029059":[7,0,1632,0,7],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a9cb72ea49977b65c42c80f6e53cfa021":[7,0,1632,0,1],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#aa19310d516a578dcd2d13d4298da0f58":[7,0,1632,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179":[7,0,4055,0],
 "d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[7,0,4055,1],
 "d3/d96/structnpc__eye__tentacle.html":[7,0,1819],
-"d3/d96/structnpc__eye__tentacle.html#a106deeb95d74597377d32e81695dc3c9":[7,0,1819,0],
-"d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[7,0,1819,4]
+"d3/d96/structnpc__eye__tentacle.html#a106deeb95d74597377d32e81695dc3c9":[7,0,1819,0]
 };

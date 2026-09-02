@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470af943853ce9b3ea92ffcb2800a81f6c5f":[8,0,0,0,1,3,5,9,2,1,10,10],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[8,0,0,0,1,3,5,9,2,1,14],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a89736e77b2eea60ae64a7400ebd31893":[8,0,0,0,1,3,5,9,2,1,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#ae98a3422967f57a06fda6c9b72567ad4":[8,0,0,0,1,3,5,9,2,1,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#a3eb08758389ea4d3e2329ffb7af9fff4":[7,0,871,0,3],
 "d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#a4849bd1f43fd15eea1991948abdc576d":[7,0,871,0,1],
 "d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#a65a101727094841d34e8775bb7504cba":[7,0,871,0,2],
-"d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#ad146b84be01ec07a5fee8184f0cc2da9":[7,0,871,0,0],
-"d9/d97/classSplineRawInitializer.html":[7,0,4519]
+"d9/d96/structcharacter__commandscript_1_1DeletedInfo.html#ad146b84be01ec07a5fee8184f0cc2da9":[7,0,871,0,0]
 };

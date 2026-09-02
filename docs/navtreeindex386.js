@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,12,5],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a60154d304ccf236b597cc0f34480c058":[8,0,0,0,1,3,5,7,12,5,1],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a666261989d27e91bdd049a9b5566ef12":[8,0,0,0,1,3,5,7,12,5,2],
 "de/d5b/boss__razuvious_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6f13ee3dc4b64db9586ad9592d094b":[8,0,0,0,1,3,5,7,12,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6":[8,0,0,0,1,3,2,23,3,3],
 "de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894":[8,0,0,0,1,3,2,23,3,2],
 "de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a":[8,0,0,0,1,3,2,23,3,11],
-"de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca":[8,0,0,0,1,3,2,23,3,4],
-"de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057":[8,0,0,0,1,3,2,23,3,10]
+"de/d62/zone__ghostlands_8cpp.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca":[8,0,0,0,1,3,2,23,3,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX104 =
 {
+"d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ac81f89b50257e14d80f843cf2d441bb6":[8,0,0,0,1,3,5,6,15,5,9],
 "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad16c15617c8b86f09966510dcf3c89c2":[8,0,0,0,1,3,5,6,15,5,8],
 "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4add7ee1265338ba7ab46c6008f5dbf78b":[8,0,0,0,1,3,5,6,15,5,5],
 "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ae221cb4f772bba78450613364ff9f309":[8,0,0,0,1,3,5,6,15,5,3],
@@ -154,8 +155,8 @@ var NAVTREEINDEX104 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[8,0,0,0,1,2,38,0,55,0],
 "d3/d81/classAbominationDespawner.html":[7,0,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da309d4b27e60997ec74da1aa40a21afbf":[8,0,0,0,1,3,5,2,0,5,7,26],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da33e151fea365393ffb2b982f6c11cbeb":[8,0,0,0,1,3,5,2,0,5,7,31],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da3fed9aaf56a863e8a0a904238a2d38e0":[8,0,0,0,1,3,5,2,0,5,7,20],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da405f884804281f693564b54dd0296333":[8,0,0,0,1,3,5,2,0,5,7,22],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da4fdcb5c6e3653623fa3f713a6d26a582":[8,0,0,0,1,3,5,2,0,5,7,32]
+"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da405f884804281f693564b54dd0296333":[8,0,0,0,1,3,5,2,0,5,7,22]
 };

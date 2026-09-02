@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a838c71a4b129e05dd4342f8bc095a441":[8,0,0,0,1,3,10,17,6,35],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a8571d53be8933f1e51eb7eab8421a103":[8,0,0,0,1,3,10,17,6,49],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a859004a6df9a4b1103d72a054e8e3739":[8,0,0,0,1,3,10,17,6,7],
 "d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a88a775d8d31b7fdca5af90af481d0ceb":[8,0,0,0,1,3,10,17,6,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d38/classChatHandler.html#ac305cc34f7904158a6832bf2110e94e1":[7,0,891,63],
 "d6/d38/classChatHandler.html#ac3950d97f94ebc522133ea4a254924ca":[7,0,891,71],
 "d6/d38/classChatHandler.html#ac4ce969c7140178f87e53e1db676b407":[7,0,891,66],
-"d6/d38/classChatHandler.html#ac65d809c0ef89e094ece2258ab1cac7b":[7,0,891,19],
-"d6/d38/classChatHandler.html#ac910f883652c712f97b8db31fb4bd609":[7,0,891,14]
+"d6/d38/classChatHandler.html#ac65d809c0ef89e094ece2258ab1cac7b":[7,0,891,19]
 };

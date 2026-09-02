@@ -1,8 +1,9 @@
 var NAVTREEINDEX108 =
 {
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,42,2],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[7,0,2730],
@@ -248,6 +249,5 @@ var NAVTREEINDEX108 =
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2":[8,0,0,0,1,2,8,1,17,2],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a01b0c6ae5461b29ad7585b439183b87a":[8,0,0,0,1,2,8,1,17,2,13],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a04671e27271971362e7886597af3216d":[8,0,0,0,1,2,8,1,17,2,12],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a15ad8c525a7388423a06003f3532dbc9":[8,0,0,0,1,2,8,1,17,2,15],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a4192c5a1b304231c3beee84d99c7370a":[8,0,0,0,1,2,8,1,17,2,10]
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2a15ad8c525a7388423a06003f3532dbc9":[8,0,0,0,1,2,8,1,17,2,15]
 };

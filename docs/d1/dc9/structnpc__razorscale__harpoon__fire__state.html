@@ -489,10 +489,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  935</span>                                                                   : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature), <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a>(0)</div>
-<div class="line"><span class="lineno">  936</span>    { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  938</span>                                                                   : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature), <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a>(0)</div>
+<div class="line"><span class="lineno">  939</span>    { }</div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:56</div></div>
-<div class="ttc" id="astructnpc__razorscale__harpoon__fire__state_html_af1c14d6762f9fc9f3a78f040a544bde4"><div class="ttname"><a href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">npc_razorscale_harpoon_fire_state::_repairProgress</a></div><div class="ttdeci">uint8 _repairProgress</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:991</div></div>
+<div class="ttc" id="astructnpc__razorscale__harpoon__fire__state_html_af1c14d6762f9fc9f3a78f040a544bde4"><div class="ttname"><a href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">npc_razorscale_harpoon_fire_state::_repairProgress</a></div><div class="ttdeci">uint8 _repairProgress</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:994</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -522,35 +522,35 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  955</span>    {</div>
-<div class="line"><span class="lineno">  956</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb">ACTION_FIRE_STATE_RESET</a>)</div>
-<div class="line"><span class="lineno">  957</span>        {</div>
-<div class="line"><span class="lineno">  958</span>            <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
-<div class="line"><span class="lineno">  959</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  960</span>        }</div>
-<div class="line"><span class="lineno">  961</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4aea2e9cf37df9343123b428140c18d1cf">ACTION_FIRE_STATE_REPAIR</a> &amp;&amp; <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &lt; <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>)</div>
-<div class="line"><span class="lineno">  962</span>        {</div>
-<div class="line"><span class="lineno">  963</span>            <span class="keywordflow">if</span> (++<a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &gt;= <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>)</div>
-<div class="line"><span class="lineno">  964</span>            {</div>
-<div class="line"><span class="lineno">  965</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* brokenHarpoon = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a9b4f6f89ac0c568027d93a7940e78c48">GO_RAZOR_BROKEN_HARPOON</a>, 5.0f))</div>
-<div class="line"><span class="lineno">  966</span>                {</div>
-<div class="line"><span class="lineno">  967</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> buildAction = 0;</div>
-<div class="line"><span class="lineno">  968</span>                    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
-<div class="line"><span class="lineno">  969</span>                        <span class="keywordflow">if</span> (brokenHarpoon-&gt;GetExactDist2dSq(<a class="code hl_variable" href="../../dd/dca/boss__razorscale_8cpp.html#aaf955398ce6d09985da893fc469d626c">BrokenHarpoonPos</a>[i].<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../dd/dca/boss__razorscale_8cpp.html#aaf955398ce6d09985da893fc469d626c">BrokenHarpoonPos</a>[i].<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>()) &lt; 1.0f)</div>
-<div class="line"><span class="lineno">  970</span>                        {</div>
-<div class="line"><span class="lineno">  971</span>                            buildAction = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35593f078aa85c5e5e2496c213b373ea">ACTION_BUILD_HARPOON_1</a> + i;</div>
-<div class="line"><span class="lineno">  972</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  973</span>                        }</div>
-<div class="line"><span class="lineno">  974</span> </div>
-<div class="line"><span class="lineno">  975</span>                    brokenHarpoon-&gt;RemoveFromWorld();</div>
-<div class="line"><span class="lineno">  976</span> </div>
-<div class="line"><span class="lineno">  977</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* commander = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306">NPC_EXPEDITION_COMMANDER</a>, 200.0f))</div>
-<div class="line"><span class="lineno">  978</span>                        <span class="keywordflow">if</span> (buildAction)</div>
-<div class="line"><span class="lineno">  979</span>                            commander-&gt;AI()-&gt;DoAction(buildAction);</div>
-<div class="line"><span class="lineno">  980</span>                }</div>
-<div class="line"><span class="lineno">  981</span>            }</div>
-<div class="line"><span class="lineno">  982</span>        }</div>
-<div class="line"><span class="lineno">  983</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  958</span>    {</div>
+<div class="line"><span class="lineno">  959</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb">ACTION_FIRE_STATE_RESET</a>)</div>
+<div class="line"><span class="lineno">  960</span>        {</div>
+<div class="line"><span class="lineno">  961</span>            <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
+<div class="line"><span class="lineno">  962</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  963</span>        }</div>
+<div class="line"><span class="lineno">  964</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4aea2e9cf37df9343123b428140c18d1cf">ACTION_FIRE_STATE_REPAIR</a> &amp;&amp; <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &lt; <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  965</span>        {</div>
+<div class="line"><span class="lineno">  966</span>            <span class="keywordflow">if</span> (++<a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &gt;= <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  967</span>            {</div>
+<div class="line"><span class="lineno">  968</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* brokenHarpoon = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a9b4f6f89ac0c568027d93a7940e78c48">GO_RAZOR_BROKEN_HARPOON</a>, 5.0f))</div>
+<div class="line"><span class="lineno">  969</span>                {</div>
+<div class="line"><span class="lineno">  970</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> buildAction = 0;</div>
+<div class="line"><span class="lineno">  971</span>                    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
+<div class="line"><span class="lineno">  972</span>                        <span class="keywordflow">if</span> (brokenHarpoon-&gt;GetExactDist2dSq(<a class="code hl_variable" href="../../dd/dca/boss__razorscale_8cpp.html#aaf955398ce6d09985da893fc469d626c">BrokenHarpoonPos</a>[i].<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), <a class="code hl_variable" href="../../dd/dca/boss__razorscale_8cpp.html#aaf955398ce6d09985da893fc469d626c">BrokenHarpoonPos</a>[i].<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>()) &lt; 1.0f)</div>
+<div class="line"><span class="lineno">  973</span>                        {</div>
+<div class="line"><span class="lineno">  974</span>                            buildAction = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35593f078aa85c5e5e2496c213b373ea">ACTION_BUILD_HARPOON_1</a> + i;</div>
+<div class="line"><span class="lineno">  975</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  976</span>                        }</div>
+<div class="line"><span class="lineno">  977</span> </div>
+<div class="line"><span class="lineno">  978</span>                    brokenHarpoon-&gt;RemoveFromWorld();</div>
+<div class="line"><span class="lineno">  979</span> </div>
+<div class="line"><span class="lineno">  980</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* commander = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306">NPC_EXPEDITION_COMMANDER</a>, 200.0f))</div>
+<div class="line"><span class="lineno">  981</span>                        <span class="keywordflow">if</span> (buildAction)</div>
+<div class="line"><span class="lineno">  982</span>                            commander-&gt;AI()-&gt;DoAction(buildAction);</div>
+<div class="line"><span class="lineno">  983</span>                }</div>
+<div class="line"><span class="lineno">  984</span>            }</div>
+<div class="line"><span class="lineno">  985</span>        }</div>
+<div class="line"><span class="lineno">  986</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aboss__razorscale_8cpp_html_a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb"><div class="ttname"><a href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb">ACTION_FIRE_STATE_RESET</a></div><div class="ttdeci">@ ACTION_FIRE_STATE_RESET</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:133</div></div>
@@ -568,7 +568,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aulduar_8h_html_a73f5d28752ceaaa887c1a1a2c7006904a9b4f6f89ac0c568027d93a7940e78c48"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a9b4f6f89ac0c568027d93a7940e78c48">GO_RAZOR_BROKEN_HARPOON</a></div><div class="ttdeci">@ GO_RAZOR_BROKEN_HARPOON</div><div class="ttdef"><b>Definition</b> ulduar.h:324</div></div>
 <div class="ttc" id="aulduar_8h_html_abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306">NPC_EXPEDITION_COMMANDER</a></div><div class="ttdeci">@ NPC_EXPEDITION_COMMANDER</div><div class="ttdef"><b>Definition</b> ulduar.h:192</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00991">_repairProgress</a>, <a class="el" href="../../#l00124">ACTION_BUILD_HARPOON_1</a>, <a class="el" href="../../#l00134">ACTION_FIRE_STATE_REPAIR</a>, <a class="el" href="../../#l00133">ACTION_FIRE_STATE_RESET</a>, <a class="el" href="../../#l00179">BrokenHarpoonPos</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l02562">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l00164">FIRE_STATE_MAX_PROGRESS</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00324">GO_RAZOR_BROKEN_HARPOON</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00192">NPC_EXPEDITION_COMMANDER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00994">_repairProgress</a>, <a class="el" href="../../#l00124">ACTION_BUILD_HARPOON_1</a>, <a class="el" href="../../#l00134">ACTION_FIRE_STATE_REPAIR</a>, <a class="el" href="../../#l00133">ACTION_FIRE_STATE_RESET</a>, <a class="el" href="../../#l00179">BrokenHarpoonPos</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l02562">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l00164">FIRE_STATE_MAX_PROGRESS</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00324">GO_RAZOR_BROKEN_HARPOON</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00192">NPC_EXPEDITION_COMMANDER</a>.</p>
 
 </div>
 </div>
@@ -597,12 +597,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a6905aa5db0b3501623c040689946350e">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  986</span>    {</div>
-<div class="line"><span class="lineno">  987</span>        <span class="keywordflow">return</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab">FIRE_STATE_REPAIR</a> &amp;&amp; <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &gt;= <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>) ? 1 : 0;</div>
-<div class="line"><span class="lineno">  988</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  989</span>    {</div>
+<div class="line"><span class="lineno">  990</span>        <span class="keywordflow">return</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab">FIRE_STATE_REPAIR</a> &amp;&amp; <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> &gt;= <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64">FIRE_STATE_MAX_PROGRESS</a>) ? 1 : 0;</div>
+<div class="line"><span class="lineno">  991</span>    }</div>
 <div class="ttc" id="aboss__razorscale_8cpp_html_a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab"><div class="ttname"><a href="../../dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab">FIRE_STATE_REPAIR</a></div><div class="ttdeci">@ FIRE_STATE_REPAIR</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:163</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00991">_repairProgress</a>, <a class="el" href="../../#l00164">FIRE_STATE_MAX_PROGRESS</a>, and <a class="el" href="../../#l00163">FIRE_STATE_REPAIR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00994">_repairProgress</a>, <a class="el" href="../../#l00164">FIRE_STATE_MAX_PROGRESS</a>, and <a class="el" href="../../#l00163">FIRE_STATE_REPAIR</a>.</p>
 
 </div>
 </div>
@@ -630,11 +630,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  939</span>    {</div>
-<div class="line"><span class="lineno">  940</span>        <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
-<div class="line"><span class="lineno">  941</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  942</span>    {</div>
+<div class="line"><span class="lineno">  943</span>        <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
+<div class="line"><span class="lineno">  944</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00991">_repairProgress</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00994">_repairProgress</a>.</p>
 
 </div>
 </div>
@@ -673,21 +673,21 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  944</span>    {</div>
-<div class="line"><span class="lineno">  945</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a7400052aae10fcb8a8047d9a930a6d47">SPELL_FIREBOLT</a>)</div>
-<div class="line"><span class="lineno">  946</span>        {</div>
-<div class="line"><span class="lineno">  947</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a487114691210a6bd476deeaa3d9b08c9">SPELL_HARPOON_FIRE_STATE</a>);</div>
-<div class="line"><span class="lineno">  948</span>            <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
-<div class="line"><span class="lineno">  949</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* commander = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306">NPC_EXPEDITION_COMMANDER</a>, 200.0f))</div>
-<div class="line"><span class="lineno">  950</span>                commander-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a85029401bdc8f1e42737232b55f34620">ACTION_DESTROY_HARPOONS</a>);</div>
-<div class="line"><span class="lineno">  951</span>        }</div>
-<div class="line"><span class="lineno">  952</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  947</span>    {</div>
+<div class="line"><span class="lineno">  948</span>        <span class="keywordflow">if</span> (spellInfo-&gt;Id == <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a7400052aae10fcb8a8047d9a930a6d47">SPELL_FIREBOLT</a>)</div>
+<div class="line"><span class="lineno">  949</span>        {</div>
+<div class="line"><span class="lineno">  950</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a487114691210a6bd476deeaa3d9b08c9">SPELL_HARPOON_FIRE_STATE</a>);</div>
+<div class="line"><span class="lineno">  951</span>            <a class="code hl_variable" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html#af1c14d6762f9fc9f3a78f040a544bde4">_repairProgress</a> = 0;</div>
+<div class="line"><span class="lineno">  952</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* commander = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c8718505213491fce404468dc7a0306">NPC_EXPEDITION_COMMANDER</a>, 200.0f))</div>
+<div class="line"><span class="lineno">  953</span>                commander-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a85029401bdc8f1e42737232b55f34620">ACTION_DESTROY_HARPOONS</a>);</div>
+<div class="line"><span class="lineno">  954</span>        }</div>
+<div class="line"><span class="lineno">  955</span>    }</div>
 <div class="ttc" id="aboss__razorscale_8cpp_html_a29d37fca4f8a8dd6c68f41b400234b29a487114691210a6bd476deeaa3d9b08c9"><div class="ttname"><a href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a487114691210a6bd476deeaa3d9b08c9">SPELL_HARPOON_FIRE_STATE</a></div><div class="ttdeci">@ SPELL_HARPOON_FIRE_STATE</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:50</div></div>
 <div class="ttc" id="aboss__razorscale_8cpp_html_a29d37fca4f8a8dd6c68f41b400234b29a7400052aae10fcb8a8047d9a930a6d47"><div class="ttname"><a href="../../dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a7400052aae10fcb8a8047d9a930a6d47">SPELL_FIREBOLT</a></div><div class="ttdeci">@ SPELL_FIREBOLT</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:40</div></div>
 <div class="ttc" id="aboss__razorscale_8cpp_html_a4adf0f9c33f5fc3f400143d7a9d89dd4a85029401bdc8f1e42737232b55f34620"><div class="ttname"><a href="../../dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a85029401bdc8f1e42737232b55f34620">ACTION_DESTROY_HARPOONS</a></div><div class="ttdeci">@ ACTION_DESTROY_HARPOONS</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:128</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:399</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00991">_repairProgress</a>, <a class="el" href="../../#l00128">ACTION_DESTROY_HARPOONS</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00192">NPC_EXPEDITION_COMMANDER</a>, <a class="el" href="../../#l00040">SPELL_FIREBOLT</a>, and <a class="el" href="../../#l00050">SPELL_HARPOON_FIRE_STATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00994">_repairProgress</a>, <a class="el" href="../../#l00128">ACTION_DESTROY_HARPOONS</a>, <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l02553">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, <a class="el" href="../../#l00192">NPC_EXPEDITION_COMMANDER</a>, <a class="el" href="../../#l00040">SPELL_FIREBOLT</a>, and <a class="el" href="../../#l00050">SPELL_HARPOON_FIRE_STATE</a>.</p>
 
 </div>
 </div>
@@ -712,7 +712,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00954">DoAction()</a>, <a class="el" href="../../#l00985">GetData()</a>, <a class="el" href="../../#l00938">Reset()</a>, and <a class="el" href="../../#l00943">SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00957">DoAction()</a>, <a class="el" href="../../#l00988">GetData()</a>, <a class="el" href="../../#l00941">Reset()</a>, and <a class="el" href="../../#l00946">SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -725,7 +725,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dc9/structnpc__razorscale__harpoon__fire__state.html">npc_razorscale_harpoon_fire_state</a></li>
-    <li class="footer">Generated on Tue Sep 1 2026 11:00:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 2 2026 10:28:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

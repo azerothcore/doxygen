@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/structboss__razorscale.html#ad92c40cfcc483717bb8ca08214c22add":[7,0,685,14],
 "d2/d5b/structboss__razorscale.html#adad076aca788a317eb8085b22ae4d9ed":[7,0,685,7],
 "d2/d5b/structboss__razorscale.html#adde8b13457bb6376ec48492e689026f3":[7,0,685,23],
 "d2/d5b/structboss__razorscale.html#ae30c01218215370bab7c5a139847c9dd":[7,0,685,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298ca01403f46ad9c5f2409e0159074061c8a":[8,0,0,0,1,3,7,0,1,0,3,0],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,7,0,1,0,3,1],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[8,0,0,0,1,3,7,0,1,0,3,2],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cab564d33bd4b2ca77c33e056a52b7cd9f":[8,0,0,0,1,3,7,0,1,0,3,6],
-"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cac7699dd711775d06e8eee8f6c29ec544":[8,0,0,0,1,3,7,0,1,0,3,4]
+"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cab564d33bd4b2ca77c33e056a52b7cd9f":[8,0,0,0,1,3,7,0,1,0,3,6]
 };

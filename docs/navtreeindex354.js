@@ -1,5 +1,6 @@
 var NAVTREEINDEX354 =
 {
+"dd/da2/classnpc__spirit__shade.html#a166f6a9abf7c0e33374c2f998c0524c3":[7,0,2178,2],
 "dd/da2/classnpc__spirit__shade.html#a891ede5651789274496d6426daf9937d":[7,0,2178,1],
 "dd/da2/structboss__epoch__hunter.html":[7,0,462],
 "dd/da2/structboss__epoch__hunter.html#a2571f98f36d1271f3911617e0fdfba54":[7,0,462,2],
@@ -45,12 +46,12 @@ var NAVTREEINDEX354 =
 "dd/da4/structnpc__hive__zara__larva.html#a6890c58106450d654062f548a80cb42f":[7,0,1889,2],
 "dd/da4/structnpc__hive__zara__larva.html#aa8333a25c0e184dd75db580b03ef9cb2":[7,0,1889,3],
 "dd/da5/TestCreature_8h.html":[8,0,0,0,2,1,8],
-"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html":[5,0,34,14,12],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html":[7,0,13,14,12],
-"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[5,0,34,14,12,0],
+"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html":[5,0,34,14,12],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[7,0,13,14,12,0],
-"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[5,0,34,14,12,1],
+"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#a9b4b63df9e35135e17df5d87fb7e24df":[5,0,34,14,12,0],
 "dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[7,0,13,14,12,1],
+"dd/da5/classWorldPackets_1_1Quest_1_1QuestUpdateAddItem.html#af60dccc05c2033f9cf855977d7f827e0":[5,0,34,14,12,1],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html":[7,0,4229],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a637ba0717ae0f6f736f5532ed65ca301":[7,0,4229,0],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a744c4aa76387be4aa76a69fbcaa7932e":[7,0,4229,3],
@@ -67,12 +68,12 @@ var NAVTREEINDEX354 =
 "dd/da8/classParallelogramBoundary.html#ad81a1a1f4e82de0e7a31bf13a87bac2b":[7,0,2407,2],
 "dd/da8/classParallelogramBoundary.html#ad81b9baeb70d5856ea8cdd3f787abf29":[7,0,2407,4],
 "dd/da8/classParallelogramBoundary.html#af29e70a9febaa9d80d0ce7223e2c6fc3":[7,0,2407,1],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html":[7,0,0,116],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html":[5,0,0,128],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html":[7,0,0,116],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[5,0,0,128,3],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a103a8ef30ce4c0753913b6ecb6cf4e92":[7,0,0,116,3],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,0,128,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[7,0,0,116,5],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,0,128,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[5,0,0,128,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[7,0,0,116,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[7,0,0,116,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX354 =
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eadfb481ac1d05bd7782b614a5370061d5":[8,0,0,0,1,3,5,4,2,5,6,35],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae05818faa9b2eafc435ec94d1b7e87b2":[8,0,0,0,1,3,5,4,2,5,6,27],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae1724b36e5090d033401a3348621673e":[8,0,0,0,1,3,5,4,2,5,6,41],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae3db6d1269e55900967db7bc83183c12":[8,0,0,0,1,3,5,4,2,5,6,25],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaef3b9ae6274df8381227b7d7cd1d66ad":[8,0,0,0,1,3,5,4,2,5,6,29]
+"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae3db6d1269e55900967db7bc83183c12":[8,0,0,0,1,3,5,4,2,5,6,25]
 };

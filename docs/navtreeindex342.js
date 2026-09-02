@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/d19/OutdoorPvP_8h.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6":[8,0,0,0,1,2,32,1,6,0],
 "dd/d19/OutdoorPvP_8h.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b":[8,0,0,0,1,2,32,1,6,5],
 "dd/d19/classspell__uldaman__stoned__aura.html":[7,0,4278],
 "dd/d19/classspell__uldaman__stoned__aura.html#a2e3b53977f188ed28d9deedbcbc03e6b":[7,0,4278,2],
@@ -24,10 +25,10 @@ var NAVTREEINDEX342 =
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[7,0,0,56],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[7,0,0,56,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,0,68,0],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,0,68,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[7,0,0,56,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,0,68,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[7,0,0,56,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,0,68,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[7,0,0,56,1],
 "dd/d1b/classhonor__commandscript.html":[7,0,1304],
@@ -194,16 +195,16 @@ var NAVTREEINDEX342 =
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[7,0,13,10,12],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[7,0,13,10,12,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[7,0,13,10,12,4],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,34,10,12,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[7,0,13,10,12,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,34,10,12,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[7,0,13,10,12,0],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[7,0,13,10,12,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,34,10,12,3],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,12,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[7,0,13,10,12,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[7,0,13,10,12,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,12,5],
 "dd/d26/structtf__tower__world__state.html":[7,0,4563],
 "dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[7,0,4563,1],
 "dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[7,0,4563,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d27/Timer_8h.html#aea6a25b38e19ecccfdefaf43a55575f3af670ea66cfb0e90bd6090472ad692694":[8,0,0,0,0,15,36,5,2],
 "dd/d27/Timer_8h.html#af415b3b5ef693e8bd9a8b7f5088ab704":[8,0,0,0,0,15,36,22],
 "dd/d27/Timer_8h.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[8,0,0,0,0,15,36,33],
-"dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[8,0,0,0,0,15,36,21],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html":[7,0,0,0,2]
+"dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[8,0,0,0,0,15,36,21]
 };

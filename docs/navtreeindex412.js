@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d72/classAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,30,14],
 "df/d72/classAccountMgr.html#aad6ce3f5a8bd050b81515c579d9548de":[7,0,30,16],
 "df/d72/classAccountMgr.html#aade930bbbd0d61e850349b741c6d8a75":[7,0,30,21],
 "df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696":[7,0,30,29],
@@ -71,8 +72,8 @@ var NAVTREEINDEX412 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2876,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2876,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2876,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
+"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2832],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2832,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2832,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d81/classspell__dk__wandering__plague.html#adab73c94c659d7421c9c6887d956cd83":[7,0,2866,0],
 "df/d81/cs__chatfilter_8cpp.html":[8,0,0,0,1,3,0,10],
 "df/d81/cs__chatfilter_8cpp.html#aee5ca3527878cd26d04712c7dc6b8611":[8,0,0,0,1,3,0,10,1],
-"df/d81/structboss__dorothee.html":[7,0,444],
-"df/d81/structboss__dorothee.html#a0e76c828a1c7c49741963b6e98003a66":[7,0,444,7]
+"df/d81/structboss__dorothee.html":[7,0,444]
 };

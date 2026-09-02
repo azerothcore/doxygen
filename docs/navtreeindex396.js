@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[7,0,4726,4],
 "de/dad/classspell__despawner__self.html":[7,0,2799],
 "de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[7,0,2799,3],
 "de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[7,0,2799,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/dbb/classChatLogScript.html":[7,0,892],
 "de/dbb/classChatLogScript.html#a4291524fdb6bbe7b92ebb3a35fb942c4":[7,0,892,1],
 "de/dbb/classChatLogScript.html#a64e3f0cc978eef23590ae97bb0b1320a":[7,0,892,3],
-"de/dbb/classChatLogScript.html#a9b69a5da200d9fe1275d2c7dd3576e87":[7,0,892,5],
-"de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[7,0,892,0]
+"de/dbb/classChatLogScript.html#a9b69a5da200d9fe1275d2c7dd3576e87":[7,0,892,5]
 };

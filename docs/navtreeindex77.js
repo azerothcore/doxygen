@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"d2/ddf/structboss__chromaggus.html#a7a9e301d17657ace82b4243814cbb52c":[7,0,427,3],
 "d2/ddf/structboss__chromaggus.html#abc27a22d82555fe3301708e9aaa61997":[7,0,427,7],
 "d2/ddf/structboss__chromaggus.html#ac8d72d4c3b265abca798c9ddc166df3b":[7,0,427,2],
 "d2/ddf/structboss__chromaggus.html#aed1d8ef49450c5495045bd62f0f3e2e6":[7,0,427,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "d2/de9/classSpellInfo.html#a6c038b16dbe3eacfcdd424c6075b8f78":[7,0,4470,91],
 "d2/de9/classSpellInfo.html#a6c19e9a1b420634cd7201e09b9bd0cbc":[7,0,4470,9],
 "d2/de9/classSpellInfo.html#a6c850f0b16a449a66623bfbc42b5b6e1":[7,0,4470,43],
-"d2/de9/classSpellInfo.html#a6cc135f2b87d1fecd6e7db475f9039dd":[7,0,4470,40],
-"d2/de9/classSpellInfo.html#a6dc0b0fd741c87fae3faccea295b0616":[7,0,4470,155]
+"d2/de9/classSpellInfo.html#a6cc135f2b87d1fecd6e7db475f9039dd":[7,0,4470,40]
 };

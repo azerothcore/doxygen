@@ -1,5 +1,6 @@
 var NAVTREEINDEX71 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#aa6c0736588f97a738088b88b77427c11":[8,0,0,0,1,3,10,3,20],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa6c0736588f97a738088b88b77427c11a440b7b1ca6ffd7f7417fdfb153741c14":[8,0,0,0,1,3,10,3,20,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aa6c0736588f97a738088b88b77427c11a7592cc42bef6e84e91eeb30bbf25d206":[8,0,0,0,1,3,10,3,20,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#aabef9c5c7a434027ce4d3af6e2b77430":[8,0,0,0,1,3,10,3,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX71 =
 "d2/d99/structboss__jormungarAI.html#a08cfa4cc7bf270926bf1d3fc8089318f":[7,0,576,17],
 "d2/d99/structboss__jormungarAI.html#a16e42748b51576e6acb7cb30794b47bf":[7,0,576,16],
 "d2/d99/structboss__jormungarAI.html#a2a9278b547776c84b756b6fb2fc89e67":[7,0,576,4],
-"d2/d99/structboss__jormungarAI.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2":[7,0,576,13],
-"d2/d99/structboss__jormungarAI.html#a4be09bf0ae4c96d77edd5b1577b8aa28":[7,0,576,9]
+"d2/d99/structboss__jormungarAI.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2":[7,0,576,13]
 };

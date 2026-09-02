@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#ade144d6b86e2612cbff571638f50809d":[4,1,19,514],
 "d8/d74/classWorldSession.html#ade7c34dde80cd5c52237230fd4bdbb3e":[4,1,19,447],
 "d8/d74/classWorldSession.html#adedd1f6c1ec350250fd1433f059f56e1":[4,1,19,317],
 "d8/d74/classWorldSession.html#adee389c2ebc5fde94e99522a67a8b63b":[4,1,19,620],
@@ -146,8 +147,8 @@ var NAVTREEINDEX231 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,995,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,995,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348":[7,0,2170,0,3],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d":[7,0,2170,0,6],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#afc140e6f9fc1ec78914aecc5150345b0":[7,0,2170,0,9],
-"d8/d80/classspell__hodir__storm__cloud__aura.html":[7,0,3232],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[7,0,3232,3]
+"d8/d80/classspell__hodir__storm__cloud__aura.html":[7,0,3232]
 };

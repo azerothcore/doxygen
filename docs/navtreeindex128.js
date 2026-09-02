@@ -1,5 +1,6 @@
 var NAVTREEINDEX128 =
 {
+"d4/d4f/classAggressorAI.html":[7,0,148],
 "d4/d4f/classAggressorAI.html#a2d4ba3a557832466f29906972d1e14fd":[7,0,148,0],
 "d4/d4f/classAggressorAI.html#a7867a9ca7249eb94a712e34833fae930":[7,0,148,1],
 "d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b":[7,0,148,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a33f98d1de05b539a66c4103b4c61de1f":[7,0,1237,0,3],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a4370be2b59ea50bf5ea2285bfbf4e242":[7,0,1237,0,0],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a50ad8b248381a6d9fac7a291796966d6":[7,0,1237,0,5],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a73f129b7b636a1178fe3402cf1e6c50d":[7,0,1237,0,1],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#ab44f563b8f117a19ac78508c3cba72e9":[7,0,1237,0,4]
+"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a73f129b7b636a1178fe3402cf1e6c50d":[7,0,1237,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d73/classScriptMgr.html#aab5b5387fc8504063cbbc58c816cbeff":[7,0,2571,18],
 "d2/d73/classScriptMgr.html#aac32f6cd268a047b432ca0ce297041ac":[7,0,2571,6],
 "d2/d73/classScriptMgr.html#aac7fd884593edc3064b7525e13500478":[7,0,2571,405],
 "d2/d73/classScriptMgr.html#aad44e76eba33d08fba15f219cf7bc3f3":[7,0,2571,298],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac792f91930c869ce919f8fd96b3fb076":[7,0,2206,0,0],
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ae7c14a4cf5af178525e5a41c0ba34d4b":[7,0,2206,0,2],
 "d2/d7a/wailing__caverns_8h.html":[8,0,0,0,1,3,4,10,1],
-"d2/d7a/wailing__caverns_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,10,1,0],
-"d2/d7a/wailing__caverns_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,4,10,1,1]
+"d2/d7a/wailing__caverns_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,10,1,0]
 };

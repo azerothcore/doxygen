@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#acb95eeebd0317f1d95bc48d6b9e7e962":[7,0,2324,0,3],
 "de/dcc/zone__thousand__needles_8cpp.html":[8,0,0,0,1,3,4,30],
 "de/dcc/zone__thousand__needles_8cpp.html#a58e024bcebfefe3b44080ac0751c36bd":[8,0,0,0,1,3,4,30,11],
 "de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502":[8,0,0,0,1,3,4,30,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "de/de3/structboss__ick_1_1boss__ickAI.html#a27598604e65417225acd41d6f05cc717":[7,0,560,0,5],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a2d6192f314e76886204c7248d141260a":[7,0,560,0,3],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a5d90395d45509f8aeb244f4a4743d07d":[7,0,560,0,9],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a618c4e704d9a90d8bf4fac2d22bda6b3":[7,0,560,0,7],
-"de/de3/structboss__ick_1_1boss__ickAI.html#a72c90af745b63202edc36b84b3f4df12":[7,0,560,0,0]
+"de/de3/structboss__ick_1_1boss__ickAI.html#a618c4e704d9a90d8bf4fac2d22bda6b3":[7,0,560,0,7]
 };

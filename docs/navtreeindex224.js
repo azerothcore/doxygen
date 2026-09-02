@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/d32/structboss__eadric_1_1boss__eadricAI.html#a461043fe1bff0f5478e2a57504e7477c":[7,0,452,0,0],
 "d8/d32/structboss__eadric_1_1boss__eadricAI.html#a5804ea238fd1c32201c3be943d2fe5ca":[7,0,452,0,8],
 "d8/d32/structboss__eadric_1_1boss__eadricAI.html#a8776bc2937ed9dc4decd1e71929edf65":[7,0,452,0,5],
 "d8/d32/structboss__eadric_1_1boss__eadricAI.html#aa20253b3f0aec2678b2e3b1c3a9d1a47":[7,0,452,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a3766e5ed1f75c242f45b24c90eef7e11":[7,0,4079,0],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a67d4b92cc494b6081247a90e8d4c9628":[7,0,4079,4],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a6ac1d4f1d82aabb39526aca92636a41f":[7,0,4079,3],
-"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a9959966856601f79a83931a7a7ecff91":[7,0,4079,2],
-"d8/d3a/structItemSetEntry.html":[7,0,1430]
+"d8/d3a/classspell__sha__ancestral__awakening__proc.html#a9959966856601f79a83931a7a7ecff91":[7,0,4079,2]
 };

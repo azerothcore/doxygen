@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[7,0,1835,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[7,0,1835,1],
 "dc/db5/classspell__festergut__gaseous__blight.html":[7,0,2975],
 "dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[7,0,2975,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dc/dc8/classspell__pri__guardian__spirit.html":[7,0,3826],
 "dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[7,0,3826,6],
 "dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[7,0,3826,3],
-"dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3826,1],
-"dc/dc8/classspell__pri__guardian__spirit.html#a88aa9623f587bb7b5e91da83c76f562a":[7,0,3826,2]
+"dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3826,1]
 };

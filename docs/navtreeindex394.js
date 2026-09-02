@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad35bb2ccffcd0d232e8e8a2dedbf9118":[8,0,0,0,1,1,0,0,1,1,216],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad36c95b853245b86130b905093c902a2":[8,0,0,0,1,1,0,0,1,1,387],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad387f18d87d71d7c7d9fb2aefab3be8d":[8,0,0,0,1,1,0,0,1,1,287],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad49066ee79f5c4e00aeb19d2b8766192":[8,0,0,0,1,1,0,0,1,1,323],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ab63aad78f3dd76799756a301db026e78":[8,0,0,0,1,3,5,18,46,24],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ab840db7b34a45481217511d9908dcbab":[8,0,0,0,1,3,5,18,46,44],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1abdcaa4b436fd75d96166d4bc252c9a01":[8,0,0,0,1,3,5,18,46,36],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1abea821f4daf0fe73a7c60b6e7dd2cb19":[8,0,0,0,1,3,5,18,46,38],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ac7c0153e61eb7d2da0748c4f50c3d9fd":[8,0,0,0,1,3,5,18,46,27]
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1abea821f4daf0fe73a7c60b6e7dd2cb19":[8,0,0,0,1,3,5,18,46,38]
 };

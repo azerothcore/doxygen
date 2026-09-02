@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/d48/structnpc__medivh__bm.html#a87f092fccd5b485bdf0bd0449bd57265":[7,0,2001,5],
 "d9/d48/structnpc__medivh__bm.html#a8eb87f4d80d83725af017657c599d458":[7,0,2001,1],
 "d9/d48/structnpc__medivh__bm.html#aa5a54d0b2b069947dd59eee77cbdf21b":[7,0,2001,2],
 "d9/d48/structnpc__medivh__bm.html#ad6dbbef1b6fbccd9dd224af1a15a6c90":[7,0,2001,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a179902f20d47e3916a2a5b4d52d34728":[7,0,1384,0,27],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a29cfd8b261f0ba2faed7248dbf848c1d":[7,0,1384,0,29],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a2b33e3a1175daa94d5660087a8354f23":[7,0,1384,0,6],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a45e98ac906c7b587720835df65642e6e":[7,0,1384,0,20],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a4d830f1dd5b87c2d179c59d85a87104a":[7,0,1384,0,37]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a45e98ac906c7b587720835df65642e6e":[7,0,1384,0,20]
 };

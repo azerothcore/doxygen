@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#aab3addd8d01ba7a406ad6cabb769986e":[7,0,1391,0,19],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#ab2304b827458f5dfbbb34250cbc47367":[7,0,1391,0,12],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#ab47e7162695bb88a9fdcc6bc28d5833f":[7,0,1391,0,27],
 "d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#abb260b964d46ae778124cc912772e1dd":[7,0,1391,0,5],
@@ -201,16 +202,16 @@ var NAVTREEINDEX257 =
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[5,0,34,14,13,4],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[7,0,13,14,13,6],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[5,0,34,14,13,6],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[5,0,34,14,13,3],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[7,0,13,14,13,3],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[5,0,34,14,13,3],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[7,0,13,14,13,1],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[5,0,34,14,13,1],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[7,0,13,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[5,0,34,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[5,0,34,14,13,2],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[7,0,13,14,13,2],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[7,0,13,14,13,0],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[5,0,34,14,13,0],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[7,0,13,14,13,0],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[7,0,2472],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a731c4d061ea551b10c488cad55c88113":[7,0,2472,0],
 "d9/ddb/ObjectVisibilityContainer_8h.html":[8,0,0,0,1,2,16,5,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716":[8,0,0,0,1,3,4,29,8],
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9":[8,0,0,0,1,3,4,29,8,4],
 "d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a":[8,0,0,0,1,3,4,29,8,8],
-"d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b":[8,0,0,0,1,3,4,29,8,6],
-"d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94":[8,0,0,0,1,3,4,29,8,1]
+"d9/ddc/zone__the__barrens_8cpp.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b":[8,0,0,0,1,3,4,29,8,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a12f4fcf5920f3bc52e3f7d942a042aa0":[8,0,0,0,1,3,5,1,1,0,11,14],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3b87ad9f032b834b9f8b8edc53fe3a31":[8,0,0,0,1,3,5,1,1,0,11,9],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6e893ec8c0b4107222da5e593f4a9ad7":[8,0,0,0,1,3,5,1,1,0,11,5],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f4588c58a38c4477c9ce9d67e293d1d":[8,0,0,0,1,3,5,1,1,0,11,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de5/classinstance__maraudon.html#ac4f5c7c3ee755226449c96b3e351f12d":[7,0,1351,2],
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html":[7,0,4181],
 "d5/de5/classspell__summon__gauntlet__mobs__periodic.html#a578dbb8c828e3acf36b21a38628c94e1":[7,0,4181,5],
-"d5/de5/classspell__summon__gauntlet__mobs__periodic.html#a70a154ea5c19c36630e94c5214ee6722":[7,0,4181,0],
-"d5/de5/classspell__summon__gauntlet__mobs__periodic.html#a9e470116c80cf56b425e344d73e44533":[7,0,4181,3]
+"d5/de5/classspell__summon__gauntlet__mobs__periodic.html#a70a154ea5c19c36630e94c5214ee6722":[7,0,4181,0]
 };

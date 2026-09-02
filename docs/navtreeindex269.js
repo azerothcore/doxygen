@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/d4c/structPageText.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef":[7,0,2405,0],
 "da/d4c/violet__hold_8h.html":[8,0,0,0,1,3,5,12,9],
 "da/d4c/violet__hold_8h.html#a010ab021da28385aeeb36c541f954cdc":[8,0,0,0,1,3,5,12,9,37],
 "da/d4c/violet__hold_8h.html#a01f9cd79d36cfca9abc3129f02ed93ba":[8,0,0,0,1,3,5,12,9,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "da/d53/classnpc__frozen__orb__stalker.html#a7f025c829106aa6668427f913d07a722":[7,0,1845,1],
 "da/d53/classnpc__frozen__orb__stalker.html#af33e27138a70286bac561113ed09f350":[7,0,1845,2],
 "da/d53/classnpc__tooga.html":[7,0,2246],
-"da/d53/classnpc__tooga.html#a45ae4f9be8d69553d557b33df9fbde3b":[7,0,2246,3],
-"da/d53/classnpc__tooga.html#a6ea6a9e4dea1ab98475dae13680ceeaf":[7,0,2246,1]
+"da/d53/classnpc__tooga.html#a45ae4f9be8d69553d557b33df9fbde3b":[7,0,2246,3]
 };

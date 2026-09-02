@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5057e82919bcf77dbf93f23725e97a37":[8,0,0,0,1,3,5,7,16,3,27],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a589bd45cb38b494d630564742084e4fc":[8,0,0,0,1,3,5,7,16,3,25],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5ace59ad6ac164cbdd9f0f471f8b9205":[8,0,0,0,1,3,5,7,16,3,29],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5b431d9134be78095de92487c788752c":[8,0,0,0,1,3,5,7,16,3,42],
@@ -214,10 +215,10 @@ var NAVTREEINDEX185 =
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[7,0,574,3],
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,31,20],
 "d6/d85/classVMAP_1_1VMapFactory.html":[7,0,11,20],
-"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[7,0,11,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,31,20,0],
-"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[7,0,11,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[5,0,31,20,1],
+"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
 "d6/d85/classlookup__commandscript.html":[7,0,1486],
 "d6/d85/classlookup__commandscript.html#a18786c0065ea14eacaa7f8e8082b2be4":[7,0,1486,17],
 "d6/d85/classlookup__commandscript.html#a1d29ab8746669b45885fea32815d09a4":[7,0,1486,12],
@@ -245,9 +246,8 @@ var NAVTREEINDEX185 =
 "d6/d85/classspell__brewfest__unfill__keg.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e":[7,0,2744,2],
 "d6/d85/classspell__brewfest__unfill__keg.html#a46dfe7b2f8598d24f17868266d1571c6":[7,0,2744,0],
 "d6/d85/classspell__brewfest__unfill__keg.html#a4f8ab6e42ddf2188ccca2640363b9925":[7,0,2744,1],
-"d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
 "d6/d85/structAcore_1_1CreatureWorker.html":[5,0,0,59],
+"d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,0,59,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0],
-"d6/d85/structAcore_1_1CreatureWorker.html#aa9a450b147aafe46a49135f5c5be668e":[5,0,0,59,2]
+"d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0]
 };

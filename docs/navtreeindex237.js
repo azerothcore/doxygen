@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d8/dcb/classBGQueueInviteEvent.html#a608c24288f24bc4da77124257320c741":[7,0,371,6],
 "d8/dcb/classBGQueueInviteEvent.html#acee27900339fdcebbfd21bb0e602654d":[7,0,371,0],
 "d8/dcb/classBGQueueInviteEvent.html#ad9adc44cc1cde3b0b820740852bdb3ce":[7,0,371,5],
 "d8/dcb/halls__of__lightning_8h.html":[8,0,0,0,1,3,5,9,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d8/dd6/DBCfmt_8h.html#add18020ae04f21f15e709f54fb24ce7e":[8,0,0,0,1,4,0,3,106],
 "d8/dd6/DBCfmt_8h.html#ade554da74d26f293d377fd1089514951":[8,0,0,0,1,4,0,3,55],
 "d8/dd6/DBCfmt_8h.html#adf8b8e5906d0a846642f9a453bfbbe66":[8,0,0,0,1,4,0,3,99],
-"d8/dd6/DBCfmt_8h.html#adf93e51dcf3f0082f3b749dcd6a98ab5":[8,0,0,0,1,4,0,3,18],
-"d8/dd6/DBCfmt_8h.html#ae20c61746e993973f9a21fc54d8cd949":[8,0,0,0,1,4,0,3,90]
+"d8/dd6/DBCfmt_8h.html#adf93e51dcf3f0082f3b749dcd6a98ab5":[8,0,0,0,1,4,0,3,18]
 };

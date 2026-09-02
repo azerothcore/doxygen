@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d4/de4/classspell__warl__glyph__of__life__tap.html#a9296b52700f070af311047166f6a913b":[7,0,4334,0],
 "d4/de4/classspell__warl__glyph__of__life__tap.html#affbd8840159048b6ea55ab98900d38c0":[7,0,4334,2],
 "d4/de5/Base64_8cpp.html":[8,0,0,0,0,7,2],
 "d4/de5/classPacketFilter.html":[4,1,11],
@@ -89,16 +90,16 @@ var NAVTREEINDEX144 =
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[5,0,0,37],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[5,0,0,37,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[7,0,0,25,4],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[7,0,0,25,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[5,0,0,37,0],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[7,0,0,25,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[7,0,0,25,2],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[5,0,0,37,2],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[7,0,0,25,3],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[5,0,0,37,3],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,0,37,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[7,0,0,25,1],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,0,37,5],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,0,37,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[7,0,0,25,5],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,0,37,5],
 "d4/df1/classat__icc__spire__frostwyrm.html":[7,0,235],
 "d4/df1/classat__icc__spire__frostwyrm.html#a67e320fb8ada7cb2c87f5944395fa174":[7,0,235,1],
 "d4/df1/classat__icc__spire__frostwyrm.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8":[7,0,235,0],
@@ -108,8 +109,8 @@ var NAVTREEINDEX144 =
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html#accc757e0a23103242865f0ce3085f9d9":[7,0,2884,0],
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html#ace665321732f59f13b2ef831c71c2f18":[7,0,2884,3],
 "d4/df2/MovementPacketBuilder_8h.html":[8,0,0,0,1,2,31,1,1],
-"d4/df2/structAcore_1_1type__list.html":[7,0,0,110],
 "d4/df2/structAcore_1_1type__list.html":[5,0,0,122],
+"d4/df2/structAcore_1_1type__list.html":[7,0,0,110],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html":[7,0,2483,2],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html#a3384bf3ae58fb0977f8fa81f84d940e2":[7,0,2483,2,2],
 "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html#a3b53871ecd10bd1f6d624431b0907b90":[7,0,2483,2,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d4/df7/classConfigMgr.html#ac2d5c14f32b1d8dfb3e8736f5aef5e7e":[7,0,921,20],
 "d4/df7/classConfigMgr.html#ac30a389fa563bf0360ac833a4a029573":[7,0,921,8],
 "d4/df7/classConfigMgr.html#ac7257754613b850d43951a0d6e1074b9":[7,0,921,17],
-"d4/df7/classConfigMgr.html#ad002777983ff9399976fc5d4447536de":[7,0,921,6],
-"d4/df7/classConfigMgr.html#ae8b4473b24540d12468cb994b89b78b8":[7,0,921,14]
+"d4/df7/classConfigMgr.html#ad002777983ff9399976fc5d4447536de":[7,0,921,6]
 };

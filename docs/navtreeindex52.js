@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d10/classmessage__commandscript.html#a2b0b67076e1cb4c51964d13ec4ab9829":[7,0,1541,0],
 "d2/d10/classmessage__commandscript.html#a786902b70345712c6dba9f638695dd9e":[7,0,1541,6],
 "d2/d10/classmessage__commandscript.html#a85e2965e4a8fe01ba4a7775a28ef0005":[7,0,1541,2],
 "d2/d10/classmessage__commandscript.html#a9a02c97677250136f9717968a9f47b73":[7,0,1541,8],
@@ -58,8 +59,8 @@ var NAVTREEINDEX52 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[7,0,2221,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[7,0,2221,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[7,0,2221,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,34,10,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[7,0,13,10,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
@@ -110,14 +111,14 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[7,0,299,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[7,0,299,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,299,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,3,1],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAuthHandler.html":[7,0,309],
 "d2/d19/structAuthHandler.html#a8074991652af9e5c8752dd4ff5e6e6cc":[7,0,309,0],
 "d2/d19/structAuthHandler.html#a952f7f7ff3017efa4c3d127baa848785":[7,0,309,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1d/structMapEntry.html#adc919dc1d095da8c0f1624abfcca2cf6":[7,0,1526,18],
 "d2/d1d/structMapEntry.html#ade7b243c7089975899c78760e196c1fa":[7,0,1526,3],
 "d2/d1d/structMapEntry.html#ae7bb16d92e0542f875162214b3743830":[7,0,1526,8],
-"d2/d1d/structMapEntry.html#af036a047dd6a68deb3dc61cff5bb6958":[7,0,1526,2],
-"d2/d1e/classInstanceScript.html":[7,0,1402]
+"d2/d1d/structMapEntry.html#af036a047dd6a68deb3dc61cff5bb6958":[7,0,1526,2]
 };

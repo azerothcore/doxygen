@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d6/ddb/classDamageInfoStub.html":[7,0,977],
 "d6/ddb/classDamageInfoStub.html#a051ea5b1fef3497e9e60e0b94878c83a":[7,0,977,26],
 "d6/ddb/classDamageInfoStub.html#a0c06178531e48b4917139857f8e8647f":[7,0,977,4],
 "d6/ddb/classDamageInfoStub.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c":[7,0,977,12],
@@ -228,8 +229,8 @@ var NAVTREEINDEX192 =
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[7,0,1691,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[7,0,13,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[7,0,13,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d6/dec/classspell__xt002__exposed__heart.html#acc8a07807e5c306af285cb5889ef2c41":[7,0,4412,2],
 "d6/dec/classspell__xt002__exposed__heart.html#ad17cfc0369da547475e43bd2970cf3f2":[7,0,4412,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[7,0,0,97],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,109],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,109,2]
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,109]
 };

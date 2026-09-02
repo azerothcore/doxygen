@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cac7699dd711775d06e8eee8f6c29ec544":[8,0,0,0,1,3,7,0,1,0,3,4],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cad151db45f722a9be31fb12a4c8ca7841":[8,0,0,0,1,3,7,0,1,0,3,5],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a5bd342133be8c2137b831460acc9298cad434ff150c6b4a05fa0e2d914374690b":[8,0,0,0,1,3,7,0,1,0,3,3],
 "d2/d6a/boss__nexusprince__shaffar_8cpp.html#a61c12d9bc9d7218ba82ddbd82849fa66":[8,0,0,0,1,3,7,0,1,0,5],
@@ -80,20 +81,20 @@ var NAVTREEINDEX67 =
 "d2/d6e/TemporarySummon_8h.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347":[8,0,0,0,1,2,16,1,9,7,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html":[7,0,11,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html":[5,0,31,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,31,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[7,0,11,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,31,1,6],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,31,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[7,0,11,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,31,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,31,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[7,0,11,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,31,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,31,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[7,0,11,1,2],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,31,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[7,0,11,1,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[7,0,11,1,5],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,31,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,31,1,5],
-"d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[7,0,11,1,3],
+"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[7,0,11,1,5],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[5,0,31,1,3],
+"d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[7,0,11,1,3],
 "d2/d6f/classgo__seer__of__zebhalak.html":[7,0,1210],
 "d2/d6f/classgo__seer__of__zebhalak.html#a423f16e878d67f7dc6ec3860afabacf4":[7,0,1210,0],
 "d2/d6f/classgo__seer__of__zebhalak.html#a84009789ce8e8d0d7c42996fde161135":[7,0,1210,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d73/classScriptMgr.html#a2c35ada0fe41142cb687a6e4f1f6b4e3":[7,0,2571,44],
 "d2/d73/classScriptMgr.html#a2c88f8dbd1711ba0ea679fba58acaa42":[7,0,2571,249],
 "d2/d73/classScriptMgr.html#a2d358a49455cf396972b768bafbfd51c":[7,0,2571,206],
-"d2/d73/classScriptMgr.html#a2d7ef1f7387ee953c39ea0d2781256dd":[7,0,2571,483],
-"d2/d73/classScriptMgr.html#a2e8d1fc341a0ddf3a91fd68bd34df170":[7,0,2571,36]
+"d2/d73/classScriptMgr.html#a2d7ef1f7387ee953c39ea0d2781256dd":[7,0,2571,483]
 };

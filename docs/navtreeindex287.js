@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a":[8,0,0,0,1,0,0,0,1,0,12],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3":[8,0,0,0,1,0,0,0,1,0,17],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae":[8,0,0,0,1,0,0,0,1,0,8],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c":[8,0,0,0,1,0,0,0,1,0,4],
@@ -62,12 +63,12 @@ var NAVTREEINDEX287 =
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,0,46,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[7,0,0,34,2],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,0,46,2],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[7,0,13,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[7,0,13,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[7,0,13,12,8,0],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[7,0,13,12,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[7,0,4381],
 "da/df6/classspell__warr__mocking__blow.html#a94893e6dd048f0028540e5ce15ed7b1d":[7,0,4381,0],
 "da/df6/classspell__warr__mocking__blow.html#a999b019665dec9b0690a1019be428072":[7,0,4381,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d01/classTestSpellEntryHelper.html#a43d22d9da0f5ad65a570e06c6d0879b6":[7,0,4562,15],
 "db/d01/classTestSpellEntryHelper.html#a624882a20497cf5d1fd8ed2abd9421d0":[7,0,4562,11],
 "db/d01/classTestSpellEntryHelper.html#a639ff4b1423de03e6430d43c6097bef6":[7,0,4562,13],
-"db/d01/classTestSpellEntryHelper.html#a88f8f08b3f6e6c81afdc47516798052d":[7,0,4562,12],
-"db/d01/classTestSpellEntryHelper.html#a9461b84bb0ee2937a28727b1b79c9a30":[7,0,4562,2]
+"db/d01/classTestSpellEntryHelper.html#a88f8f08b3f6e6c81afdc47516798052d":[7,0,4562,12]
 };

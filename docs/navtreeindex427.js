@@ -1,5 +1,6 @@
 var NAVTREEINDEX427 =
 {
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[7,0,2141,0,3],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ab061ea54c2b36f6f1c2ec7841202e684":[7,0,2141,0,4],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ae96994e7c02a1fb8df8ef9fe80d7bc41":[7,0,2141,0,2],
 "df/dec/classnpc__cos__stratholme__citizien.html":[7,0,1745],
@@ -52,8 +53,8 @@ var NAVTREEINDEX427 =
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,34,17,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[7,0,13,17,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,34,17,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,17,0,0,1],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[7,0,13,17,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,34,17,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[7,0,378],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[7,0,378,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[7,0,378,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX427 =
 "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[7,0,1294,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[7,0,1294,8],
 "df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[7,0,1294,7],
-"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[7,0,1294,9],
-"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[7,0,1294,1]
+"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[7,0,1294,9]
 };
