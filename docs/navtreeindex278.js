@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"da/d9e/classSmartAIMgr.html#a710c4df0ccbc1f1112bfe45d5f2e9c52":[7,0,2614,5],
 "da/d9e/classSmartAIMgr.html#a819e55257c9a9bfb1eb951d650a36843":[7,0,2614,15],
 "da/d9e/classSmartAIMgr.html#a88cb07fff5522d4a982c63963f914f75":[7,0,2614,6],
 "da/d9e/classSmartAIMgr.html#a99cb71cb69ba38b8bebd6edbdbf34221":[7,0,2614,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "da/da8/classspell__dru__glyph__of__barkskin.html#aafa30eef7a8c8aac3699edc4afb97f19":[7,0,2899,3],
 "da/da8/classspell__dru__glyph__of__barkskin.html#ae65e0a22aab9802ed869b7fb6e823d9e":[7,0,2899,2],
 "da/da8/classspell__dru__glyph__of__barkskin.html#ae8764fc6c284a13f610e55933b24102e":[7,0,2899,0],
-"da/da9/classinstance__ruby__sanctum.html":[7,0,1364],
-"da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[7,0,1364,1]
+"da/da9/classinstance__ruby__sanctum.html":[7,0,1364]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d3b/structGameObjectTemplate.html#a22bc76089fb51bff1e32ab9a8736153c":[7,0,1124,168],
 "dd/d3b/structGameObjectTemplate.html#a259bf0cf9e7817c1988cf53f28170440":[7,0,1124,127],
 "dd/d3b/structGameObjectTemplate.html#a2a51882cc74f07131c149d93f10dbee2":[7,0,1124,165],
 "dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[7,0,1124,83],
@@ -178,14 +179,14 @@ var NAVTREEINDEX346 =
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1390,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a07a9861d018a35cd295f65b7e68a5bd1":[7,0,1390,0,8],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1390,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d44/structboss__akilzon.html#a9c8eeed625f33153819df19b6c2c5670":[7,0,384,7],
 "dd/d44/structboss__akilzon.html#aaa712019eb5d17684d7f048f81e36270":[7,0,384,10],
 "dd/d44/structboss__akilzon.html#acde7c47a3ebee988753cd2af93fe16d4":[7,0,384,8],
-"dd/d44/structboss__akilzon.html#ad5c56493e1e6331ae09bb70b920282fc":[7,0,384,9],
-"dd/d44/structboss__akilzon.html#af61142c59ca9c5868afe7bc94ca40dcf":[7,0,384,11]
+"dd/d44/structboss__akilzon.html#ad5c56493e1e6331ae09bb70b920282fc":[7,0,384,9]
 };

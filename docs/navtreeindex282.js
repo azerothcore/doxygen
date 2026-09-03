@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"da/dbf/Player_8h.html#aac0050072f7da545cd0cba11d1b31878":[8,0,0,0,1,2,16,7,5,92],
 "da/dbf/Player_8h.html#aac0050072f7da545cd0cba11d1b31878a3c02fabd410b96b92470cb192490a5cf":[8,0,0,0,1,2,16,7,5,92,0],
 "da/dbf/Player_8h.html#aac0050072f7da545cd0cba11d1b31878a42fe9b18fe144cd36092e0593c140df5":[8,0,0,0,1,2,16,7,5,92,1],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0":[8,0,0,0,1,2,16,7,5,138],
@@ -248,6 +249,5 @@ var NAVTREEINDEX282 =
 "da/dca/classnpc__gluttonous__abomination.html#a895d1afcfc62bcaac6cc0d20465f1e7a":[7,0,1856,1],
 "da/dca/classnpc__gluttonous__abomination.html#aedbd808da5e8ea0e2111e78be9d846ce":[7,0,1856,2],
 "da/dca/structBattlegroundSAScore.html":[7,0,354],
-"da/dca/structBattlegroundSAScore.html#a169a2a0a51edb6564e98c4b55f3e8a3b":[7,0,354,4],
-"da/dca/structBattlegroundSAScore.html#a57bf8241b404571cda5a8e113c334eab":[7,0,354,1]
+"da/dca/structBattlegroundSAScore.html#a169a2a0a51edb6564e98c4b55f3e8a3b":[7,0,354,4]
 };

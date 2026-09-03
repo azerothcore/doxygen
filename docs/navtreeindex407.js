@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d2a/classspell__eject__passenger__wild__wyrm.html#ae3b2b7d9745ed8b83268a8f57e66eb31":[7,0,2952,2],
 "df/d2a/instance__pit__of__saron_8cpp.html":[8,0,0,0,1,3,5,4,2,3],
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[8,0,0,0,1,3,5,4,2,3,2],
 "df/d2a/structnpc__molten__golem.html":[7,0,2014],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca59bc7eb1544165237ea07097690bfd0a":[8,0,0,0,1,3,4,9,4,4,1],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca97d212c44ade2e69b7857fe7a63be64b":[8,0,0,0,1,3,4,9,4,4,10],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caae4d22aece6a0216306160b1d1cdc659":[8,0,0,0,1,3,4,9,4,4,6],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[8,0,0,0,1,3,4,9,4,4,2],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cacd3d2857540d1845378d1d64847d3f49":[8,0,0,0,1,3,4,9,4,4,5]
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[8,0,0,0,1,3,4,9,4,4,2]
 };

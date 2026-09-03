@@ -1,5 +1,6 @@
 var NAVTREEINDEX418 =
 {
+"df/daa/classspell__doomfire.html":[7,0,2869],
 "df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2869,3],
 "df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2869,2],
 "df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2869,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX418 =
 "df/dbb/structboss__flame__leviathan.html#a89855ce8707cde1853d4fc4b0edab092":[7,0,486,29],
 "df/dbb/structboss__flame__leviathan.html#a918059906db32d003e9fe9b45544713c":[7,0,486,5],
 "df/dbb/structboss__flame__leviathan.html#aa1c2f7cf26d6d5c22333519430b4807a":[7,0,486,4],
-"df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,20],
-"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,17]
+"df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,20]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1abea821f4daf0fe73a7c60b6e7dd2cb19":[8,0,0,0,1,3,5,18,46,38],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ac7c0153e61eb7d2da0748c4f50c3d9fd":[8,0,0,0,1,3,5,18,46,27],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ac829750b3b412d26bf25155e284292bb":[8,0,0,0,1,3,5,18,46,19],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1acac9956c22f7d2d6039a6e6f16cfd69d":[8,0,0,0,1,3,5,18,46,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "de/dad/classWorldUpdateTime.html#a6b8a8d1b61f9ecec591165fa334972fc":[7,0,4726,7],
 "de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[7,0,4726,5],
 "de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[7,0,4726,2],
-"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[7,0,4726,0],
-"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[7,0,4726,1]
+"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[7,0,4726,0]
 };

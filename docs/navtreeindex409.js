@@ -1,5 +1,6 @@
 var NAVTREEINDEX409 =
 {
+"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[7,0,1525,4],
 "df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[7,0,1525,2],
 "df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[7,0,1525,1],
 "df/d44/classspell__low__health__trigger.html":[7,0,3592],
@@ -248,6 +249,5 @@ var NAVTREEINDEX409 =
 "df/d55/classspell__sindragosa__icy__grip__jump.html":[7,0,4156],
 "df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[7,0,4156,1],
 "df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[7,0,4156,2],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[7,0,4156,0],
-"df/d56/classAreaBoundary.html":[7,0,167]
+"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[7,0,4156,0]
 };

@@ -1,12 +1,13 @@
 var NAVTREEINDEX334 =
 {
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[5,0,34,14,4,6],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[7,0,13,14,4,5],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[7,0,13,14,4,6],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[5,0,34,14,4,5],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[7,0,13,14,4,5],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad7cf8778e608128fad236f9eb7448c66":[7,0,13,14,4,0],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad7cf8778e608128fad236f9eb7448c66":[5,0,34,14,4,0],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[5,0,34,14,4,1],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[7,0,13,14,4,1],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[5,0,34,14,4,1],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[5,0,34,14,4,3],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[7,0,13,14,4,3],
 "dc/dae/gruuls__lair_8h.html":[8,0,0,0,1,3,7,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[7,0,530,0],
 "dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[7,0,530,4],
 "dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[7,0,530,2],
-"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[7,0,530,3],
-"dc/db5/classnpc__frenzied__worgen.html":[7,0,1835]
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[7,0,530,3]
 };

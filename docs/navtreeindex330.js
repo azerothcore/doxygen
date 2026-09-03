@@ -1,10 +1,11 @@
 var NAVTREEINDEX330 =
 {
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,0,30,0],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[7,0,0,18,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,0,30,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[7,0,0,18,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,0,30,3],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[7,0,0,18,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,0,30,3],
 "dc/d70/boss__grobbulus_8cpp.html":[8,0,0,0,1,3,5,7,5],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,5,7,5,7],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[8,0,0,0,1,3,5,7,5,7,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d7d/classZoneScript.html":[7,0,4731],
 "dc/d7d/classZoneScript.html#a3101d469bb171957177011fc0a76999b":[7,0,4731,5],
 "dc/d7d/classZoneScript.html#a321c2fc00f1d3d261a4887a1e74f4244":[7,0,4731,15],
-"dc/d7d/classZoneScript.html#a3519b281545e348167893060c2aa352c":[7,0,4731,0],
-"dc/d7d/classZoneScript.html#a61c1ab81f65b4bfdf638eec002cb498c":[7,0,4731,11]
+"dc/d7d/classZoneScript.html#a3519b281545e348167893060c2aa352c":[7,0,4731,0]
 };

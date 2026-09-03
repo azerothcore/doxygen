@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c":[8,0,0,0,1,2,47,5,3],
 "db/d90/WardenCheckMgr_8h.html#a80604a840828219101f07100a7a48dad":[8,0,0,0,1,2,47,5,7],
 "db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1":[8,0,0,0,1,2,47,5,4],
 "db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13":[8,0,0,0,1,2,47,5,4,1],
@@ -164,18 +165,18 @@ var NAVTREEINDEX302 =
 "db/d96/firework__show__Exodar_8h.html#a62ccee24b6a90b61a19256b66e97c1dd":[8,0,0,0,1,3,3,0,3,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[5,0,0,96],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[7,0,0,84],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[7,0,0,84,4],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[5,0,0,96,4],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[5,0,0,96,0],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[7,0,0,84,4],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[7,0,0,84,0],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a46cde63433cf803205006ad775fe73b5":[5,0,0,96,0],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[5,0,0,96,1],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a4bf0dee77fb4979a02eebdc610995640":[7,0,0,84,1],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[7,0,0,84,5],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[5,0,0,96,5],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[7,0,0,84,2],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a68965425169b93053eadad91403855e0":[7,0,0,84,5],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[5,0,0,96,2],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#aca71a09421fdf412489f7f54cf4bc379":[7,0,0,84,3],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#ac41947606f4344e19edb13aa58f0a5a7":[7,0,0,84,2],
 "db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#aca71a09421fdf412489f7f54cf4bc379":[5,0,0,96,3],
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#aca71a09421fdf412489f7f54cf4bc379":[7,0,0,84,3],
 "db/d98/boss__venoxis_8cpp.html":[8,0,0,0,1,3,2,15,11],
 "db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,15,11,3],
 "db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1ae2eb91d9c6d4fcc91a33d9be46526683":[8,0,0,0,1,3,2,15,11,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "db/d9c/structboss__shirrak__the__dead__watcher.html#aabca8240dfdc6603f0c244286a4d2cfe":[7,0,712,2],
 "db/d9d/classGridRefMgr.html":[7,0,1257],
 "db/d9d/classGridRefMgr.html#a1e4e67ba11ac8da077942a6581647bf3":[7,0,1257,1],
-"db/d9d/classGridRefMgr.html#a266acb421cfc6ccc56dc2acff3202971":[7,0,1257,2],
-"db/d9d/classGridRefMgr.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52":[7,0,1257,6]
+"db/d9d/classGridRefMgr.html#a266acb421cfc6ccc56dc2acff3202971":[7,0,1257,2]
 };

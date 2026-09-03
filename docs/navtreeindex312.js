@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba4d9bc6861ef764baa7f475ebda2a133b":[8,0,0,0,1,3,2,30,33,5],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba946cf2ea381d689ffcef19f0a24a835f":[8,0,0,0,1,3,2,30,33,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bab9bf0eb9d1355ba598d6bcca86c3cc16":[8,0,0,0,1,3,2,30,33,6],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bac2d30da7b378ca6e232c2578d3456ce6":[8,0,0,0,1,3,2,30,33,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "db/ddb/classConfigException.html":[7,0,920],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,920,0],
 "db/ddb/classTaskContext.html":[7,0,4548],
-"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[7,0,4548,20],
-"db/ddb/classTaskContext.html#a0cac55da6d10d0a74c9f83689d028174":[7,0,4548,28]
+"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[7,0,4548,20]
 };

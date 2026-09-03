@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"de/dbb/classChatLogScript.html#a9b69a5da200d9fe1275d2c7dd3576e87":[7,0,892,5],
 "de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[7,0,892,0],
 "de/dbb/classChatLogScript.html#ae7ca6f582695b3aabfd7255beb3e8d07":[7,0,892,2],
 "de/dbb/classChatLogScript.html#af891f7acb0a562c394db0a1763cc6ccd":[7,0,892,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a3c43ede2df7b1ea61b0f1625e2e1461c":[7,0,2324,0,9],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a7cad21f0b3286ed75256a49c315069ce":[7,0,2324,0,1],
 "de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a86929e8a2f3433f37e4dda03e3011193":[7,0,2324,0,2],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a9207ffdb39627b1262ec209fe41d6d0a":[7,0,2324,0,7],
-"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#aa5284a284c074f32cee85d29aea00f2f":[7,0,2324,0,8]
+"de/dcc/structnpc__wizzlecrank__shredder_1_1npc__wizzlecrank__shredderAI.html#a9207ffdb39627b1262ec209fe41d6d0a":[7,0,2324,0,7]
 };

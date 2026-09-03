@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"de/d92/classLootTemplate_1_1LootGroup.html#a5486b1c43c6af31681d5c442957d5cf1":[7,0,1494,0,16],
 "de/d92/classLootTemplate_1_1LootGroup.html#a55a98102081eca760af46fe2158ad6e4":[7,0,1494,0,6],
 "de/d92/classLootTemplate_1_1LootGroup.html#a5654d18106376d9fb168dfd8e27f1355":[7,0,1494,0,8],
 "de/d92/classLootTemplate_1_1LootGroup.html#a5a4dfbbfaf6c6f87217c124f387d7951":[7,0,1494,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "de/d9d/classnpc__prof__alchemy.html":[7,0,2100],
 "de/d9d/classnpc__prof__alchemy.html#a2377df97a293fb3fcbe7f70d4d815b75":[7,0,2100,3],
 "de/d9d/classnpc__prof__alchemy.html#a2d4c7337b40be323a384a9e755fc3145":[7,0,2100,4],
-"de/d9d/classnpc__prof__alchemy.html#a43ea842214fc507c34586d12df8f7fea":[7,0,2100,0],
-"de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[7,0,2100,5]
+"de/d9d/classnpc__prof__alchemy.html#a43ea842214fc507c34586d12df8f7fea":[7,0,2100,0]
 };

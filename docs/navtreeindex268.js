@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#ad0eb4dec4e48e63c4ce1656616ada626":[7,0,677,0,8],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#ae0b55ae5b0c63510bae45f290615ab8e":[7,0,677,0,5],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#ae373180193d65c1555c1649af8e08f6c":[7,0,677,0,4],
 "da/d3e/structboss__professor__putricide_1_1boss__professor__putricideAI.html#af3b8b1bca2e5c043b5cf7a2df771dce1":[7,0,677,0,2],
@@ -216,14 +217,14 @@ var NAVTREEINDEX268 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#aca9a42766818ffc52919d66ab1017745":[8,0,0,0,2,2,0,10,17,16],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#acf2364ee45cd14949ea8fa599d15207b":[8,0,0,0,2,2,0,10,17,11],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[8,0,0,0,2,2,0,10,17,2],
-"da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
 "da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
+"da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[7,0,0,107,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[7,0,0,107,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,0,119,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[7,0,0,107,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,0,119,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[7,0,0,107,0],
 "da/d4b/classCastArmageddon.html":[7,0,858],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#aec8a2a424ff10099437cbc7e7ca03ae3":[7,0,2020,0,10],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#af13f2f59692b16ad24d17442efe9f834":[7,0,2020,0,14],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#afd7e3b65e8091e5f24367c8de65df200":[7,0,2020,0,3],
-"da/d4c/structPageText.html":[7,0,2405],
-"da/d4c/structPageText.html#a9c13498341adce66590cb198b720f96f":[7,0,2405,1]
+"da/d4c/structPageText.html":[7,0,2405]
 };

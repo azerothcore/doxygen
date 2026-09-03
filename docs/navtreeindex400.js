@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"de/deb/structM2Header.html#a99351e33e3e66270ffd11dd2c4d5925d":[7,0,1501,10],
 "de/deb/structM2Header.html#a9d3afd1f545d59c8c19b45fbf8498e86":[7,0,1501,6],
 "de/deb/structM2Header.html#aa2ddc1846fe0bbf4e1c36e2550f56a1e":[7,0,1501,67],
 "de/deb/structM2Header.html#aa66ba2bfafb3bf7692a957ee4ad8efd9":[7,0,1501,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "de/df9/classspell__warr__slam.html#ad2eec86cff225cc0bd806e31596fb127":[7,0,4387,0],
 "de/df9/structVMAP_1_1GModelRayCallback.html":[5,0,31,2],
 "de/df9/structVMAP_1_1GModelRayCallback.html":[7,0,11,2],
-"de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[5,0,31,2,3],
-"de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[7,0,11,2,3]
+"de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[5,0,31,2,3]
 };

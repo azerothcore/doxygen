@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/da7/classBattleground.html#a3a7570a487820ade935e0870f8cda0e7":[7,0,330,129],
 "df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[7,0,330,199],
 "df/da7/classBattleground.html#a3bd710cf2081404fde874444ea2f1981":[7,0,330,15],
 "df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[7,0,330,239],
@@ -248,6 +249,5 @@ var NAVTREEINDEX417 =
 "df/daa/classLambdaBasicEvent.html":[7,0,1441],
 "df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[7,0,1441,2],
 "df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[7,0,1441,0],
-"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1441,1],
-"df/daa/classspell__doomfire.html":[7,0,2869]
+"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1441,1]
 };

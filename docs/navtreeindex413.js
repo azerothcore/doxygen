@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/d81/structboss__dorothee.html":[7,0,444],
 "df/d81/structboss__dorothee.html#a0e76c828a1c7c49741963b6e98003a66":[7,0,444,7],
 "df/d81/structboss__dorothee.html#a1b9cf1e58d68d249249a8b0d082b725a":[7,0,444,1],
 "df/d81/structboss__dorothee.html#a20e6555e2117a62fce3af7f7fb7167cc":[7,0,444,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[7,0,412,2],
 "df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
 "df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
-"df/d8b/classspell__item__rocket__chicken.html":[7,0,3475],
-"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3475,0]
+"df/d8b/classspell__item__rocket__chicken.html":[7,0,3475]
 };

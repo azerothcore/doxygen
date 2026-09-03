@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/d16/structnpc__chicken__cluck_1_1npc__chicken__cluckAI.html#a5a32f458a7f09282e7ac53fa7d6255b4":[7,0,1726,0,3],
 "de/d16/structnpc__chicken__cluck_1_1npc__chicken__cluckAI.html#a854eae196c68cb1e4dd1c1773870ef9a":[7,0,1726,0,1],
 "de/d16/structnpc__chicken__cluck_1_1npc__chicken__cluckAI.html#a86c8f74d0a55b9a041a789f16de8189d":[7,0,1726,0,4],
 "de/d16/structnpc__chicken__cluck_1_1npc__chicken__cluckAI.html#aa5d6d3ea3ad4d0f81781581a39933fc8":[7,0,1726,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/d1c/classGameObject.html#aeddb38924ac9becb945bfeb1e1ec3dde":[7,0,1109,145],
 "de/d1c/classGameObject.html#af04c152c687095d645995d94e83a47ab":[7,0,1109,80],
 "de/d1c/classGameObject.html#af471774b4f051afbab17ef53cb61938e":[7,0,1109,183],
-"de/d1c/classGameObject.html#af7301d48623a8b169565a540ae42fdf5":[7,0,1109,99],
-"de/d1c/classGameObject.html#afa906176e0f1a445ac515b09e9c4f773":[7,0,1109,191]
+"de/d1c/classGameObject.html#af7301d48623a8b169565a540ae42fdf5":[7,0,1109,99]
 };

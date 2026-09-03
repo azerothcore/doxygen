@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/d23/classVehicle.html#a89302a361dbe5472d7c651114aeeabf1":[7,0,4638,35],
 "dc/d23/classVehicle.html#a8a9a154b924fdf1f59ccede811dd644f":[7,0,4638,18],
 "dc/d23/classVehicle.html#a9086db467f2f71f20bc02ed2330a8c37":[7,0,4638,31],
 "dc/d23/classVehicle.html#a9cf07492fbc0a7a2532ebaea9bc13c5d":[7,0,4638,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[8,0,0,0,1,3,5,9,2,9,26],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d24/structnpc__hyjal__ground__trash.html#aa92481bcf993c4eda5ef271145200d77":[7,0,1904,2],
 "db/d24/structnpc__hyjal__ground__trash.html#ad94fe6d4dca64fa8eec183481f82bb39":[7,0,1904,3],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html":[7,0,2278],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html#a14fc5830fe192856bd7c99f78de91070":[7,0,2278,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d37/classspell__gen__retaliation__toc.html":[7,0,3132],
 "db/d37/classspell__gen__retaliation__toc.html#a0185b616c63a3e9c20495b1c89ec6c68":[7,0,3132,4],
 "db/d37/classspell__gen__retaliation__toc.html#a15a781accded2e018cbf306e7a129eb9":[7,0,3132,0],
-"db/d37/classspell__gen__retaliation__toc.html#a4ed5d197b1d62bec0fec20f8cce90b7a":[7,0,3132,3],
-"db/d37/classspell__gen__retaliation__toc.html#ab64670a7714248d9bfb52d96cf7a6c70":[7,0,3132,2]
+"db/d37/classspell__gen__retaliation__toc.html#a4ed5d197b1d62bec0fec20f8cce90b7a":[7,0,3132,3]
 };

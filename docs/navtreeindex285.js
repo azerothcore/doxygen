@@ -1,5 +1,6 @@
 var NAVTREEINDEX285 =
 {
+"da/de8/boss__broggok_8cpp.html":[8,0,0,0,1,3,7,4,0,1],
 "da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,4,0,1,4],
 "da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298ca53aca891b27c32c84e1da919e607b1a2":[8,0,0,0,1,3,7,4,0,1,4,2],
 "da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ab0bda74bcf7baf41bcd485a9ce0edc":[8,0,0,0,1,3,7,4,0,1,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX285 =
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a01a66f4d8d66e4614c1c900c5a1c37ff":[8,0,0,0,1,3,5,2,1,7,2,0],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a07aab14b97658eba7b4d96cf0737ad05":[8,0,0,0,1,3,5,2,1,7,2,1],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a0c79d38a1fed28b5910f30a1b94b418b":[8,0,0,0,1,3,5,2,1,7,2,6],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a14e37a1a13bab56bee4263ceb45c69bc":[8,0,0,0,1,3,5,2,1,7,2,2],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2a98fd53128e0c2438aed5eab57b6df9":[8,0,0,0,1,3,5,2,1,7,2,8]
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a14e37a1a13bab56bee4263ceb45c69bc":[8,0,0,0,1,3,5,2,1,7,2,2]
 };

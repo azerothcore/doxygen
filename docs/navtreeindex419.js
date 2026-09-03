@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,17],
 "df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,23],
 "df/dbb/structboss__flame__leviathan.html#ac84312fff12d10097d4364dc0dac8207":[7,0,486,12],
 "df/dbb/structboss__flame__leviathan.html#acdcac20923bb0a52abef0590f03b8b05":[7,0,486,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[7,0,4107,4],
 "df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[7,0,4107,0],
 "df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[7,0,4107,3],
-"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[7,0,4107,2],
-"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[7,0,4107,1]
+"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[7,0,4107,2]
 };

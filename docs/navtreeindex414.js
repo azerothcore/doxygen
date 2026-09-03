@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3475,0],
 "df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[7,0,3475,1],
 "df/d8b/classspell__item__rocket__chicken.html#a4a13827baeb7ed4f2681ab114d44eb37":[7,0,3475,2],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html":[7,0,3913],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ad1e9ac4b158ee387369ac1aeeb5abe4c":[7,0,674,0,21],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#adf0e15ab7cae6d73d0ac4d97d63de6b3":[7,0,674,0,7],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae15f486fd0942f9f310b0b60cc29b288":[7,0,674,0,10],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae4492fa7c4e6fdab52e2a31c1a0b078a":[7,0,674,0,16],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae6a8cdf1ce40ab5898e4ab906d0ed41b":[7,0,674,0,11]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae4492fa7c4e6fdab52e2a31c1a0b078a":[7,0,674,0,16]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d72/classAccountMgr.html#a9cef07e9cdeb656405b9589482c19ee5":[7,0,30,22],
 "df/d72/classAccountMgr.html#aa215c9a96c37b8a5d76d980ecf8de114":[7,0,30,14],
 "df/d72/classAccountMgr.html#aad6ce3f5a8bd050b81515c579d9548de":[7,0,30,16],
 "df/d72/classAccountMgr.html#aade930bbbd0d61e850349b741c6d8a75":[7,0,30,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d81/classspell__dk__wandering__plague.html#a8cf5e4224f46b6f836d517f90fd135d4":[7,0,2866,1],
 "df/d81/classspell__dk__wandering__plague.html#adab73c94c659d7421c9c6887d956cd83":[7,0,2866,0],
 "df/d81/cs__chatfilter_8cpp.html":[8,0,0,0,1,3,0,10],
-"df/d81/cs__chatfilter_8cpp.html#aee5ca3527878cd26d04712c7dc6b8611":[8,0,0,0,1,3,0,10,1],
-"df/d81/structboss__dorothee.html":[7,0,444]
+"df/d81/cs__chatfilter_8cpp.html#aee5ca3527878cd26d04712c7dc6b8611":[8,0,0,0,1,3,0,10,1]
 };

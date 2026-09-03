@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"d9/df3/structboss__yoggsaron__cloud.html":[7,0,806],
 "d9/df3/structboss__yoggsaron__cloud.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,806,9],
 "d9/df3/structboss__yoggsaron__cloud.html#a280ad77f30f06c01ee16434794814767":[7,0,806,1],
 "d9/df3/structboss__yoggsaron__cloud.html#a2c321419548e8ce151d639c3fbd7b1b4":[7,0,806,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392":[8,0,0,0,1,3,5,9,2,16,3],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a126c5ec496a2450c64ac21a3cf91b4dd":[8,0,0,0,1,3,5,9,2,16,3,1],
 "d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3":[8,0,0,0,1,3,5,9,2,16,3,0],
-"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6":[8,0,0,0,1,3,5,9,2,16,3,13],
-"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a24474e3db4b8776d9a3eaab350ba370f":[8,0,0,0,1,3,5,9,2,16,3,2]
+"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6":[8,0,0,0,1,3,5,9,2,16,3,13]
 };

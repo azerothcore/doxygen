@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"de/df9/structVMAP_1_1GModelRayCallback.html#a09ef515a1b16d184071e708ed9245b3d":[7,0,11,2,3],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a3b9d4f8dbb3d1ba83932d99f7763a1f5":[5,0,31,2,1],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a3b9d4f8dbb3d1ba83932d99f7763a1f5":[7,0,11,2,1],
 "de/df9/structVMAP_1_1GModelRayCallback.html#a53c56761318819e5bfde72bf82f92ec3":[5,0,31,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[8,0,0,0,1,2,16,5,7,3],
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[8,0,0,0,1,2,16,5,7,2],
 "df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[8,0,0,0,1,2,16,5,7,2,0],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[8,0,0,0,1,2,16,5,7,2,1],
-"df/d0b/classspell__q10935__the__exorcism__of__colonel__jules.html":[7,0,3900]
+"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816":[8,0,0,0,1,2,16,5,7,2,1]
 };

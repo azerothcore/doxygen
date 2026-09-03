@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/d9d/classnpc__prof__alchemy.html#a548224b30494636b9ee292a533fc7b39":[7,0,2100,5],
 "de/d9d/classnpc__prof__alchemy.html#ac9df824e0923ca86189a53ae391b43c0":[7,0,2100,1],
 "de/d9d/classnpc__prof__alchemy.html#add760c538c7882e1ad8331b8ded74f5c":[7,0,2100,2],
 "de/d9d/classnpc__prof__alchemy.html#ae4c861cf383f39d2e5ceebc9be4b568c":[7,0,2100,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4f4c09b0f656e868d1cde3fca1c65f45":[8,0,0,0,1,1,0,0,1,1,181],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4fa546567463a2a56b44e8914af818f5":[8,0,0,0,1,1,0,0,1,1,378],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4fd2df1747826bf976d44dc3c679ee61":[8,0,0,0,1,1,0,0,1,1,460],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a504541deebca11d7990da4501e20d8d7":[8,0,0,0,1,1,0,0,1,1,309],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a509a9198e21d1d5bc8e77b4e2b89a4d3":[8,0,0,0,1,1,0,0,1,1,455]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a504541deebca11d7990da4501e20d8d7":[8,0,0,0,1,1,0,0,1,1,309]
 };
