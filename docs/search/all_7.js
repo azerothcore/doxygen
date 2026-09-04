@@ -283,7 +283,7 @@ var searchData=
   ['ge_5fsigned_5foff_280',['GE_SIGNED_OFF',['../d2/dea/Guild_8h.html#a06a0aa0a30a110150b9f76a3be9ee59daa42cdde19a25a9a63f9b3239641ff605',1,'Guild.h']]],
   ['ge_5fsigned_5fon_281',['GE_SIGNED_ON',['../d2/dea/Guild_8h.html#a06a0aa0a30a110150b9f76a3be9ee59dae1b52b8ecf858eb756e92de351ffecf4',1,'Guild.h']]],
   ['ge_5ftabardchange_282',['GE_TABARDCHANGE',['../d2/dea/Guild_8h.html#a06a0aa0a30a110150b9f76a3be9ee59da45306f2f4d9a144a27d85dd6f4d54911',1,'Guild.h']]],
-  ['gear_5fcommandscript_283',['gear_commandscript',['../d2/d68/classgear__commandscript.html',1,'gear_commandscript'],['../d2/d68/classgear__commandscript.html#a2e37c7d761982f7185b2418ae5aa4315',1,'gear_commandscript::gear_commandscript()']]],
+  ['gear_5fcommandscript_283',['gear_commandscript',['../d2/d68/classgear__commandscript.html#a2e37c7d761982f7185b2418ae5aa4315',1,'gear_commandscript::gear_commandscript()'],['../d2/d68/classgear__commandscript.html',1,'gear_commandscript']]],
   ['geistguid_284',['geistguid',['../d2/df2/structnpc__gothik__the__harvester.html#a0360b0fbaf1a37445fb760067c493c45',1,'npc_gothik_the_harvester::geistGUID'],['../dd/d46/structnpc__acherus__necromancer.html#a85d1d46abb4703ad814e2069c3252966',1,'npc_acherus_necromancer::geistGUID']]],
   ['gemenchantid_285',['GemEnchantId',['../d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#a680481a1dcc0a163cabeb02e426d89cd',1,'Acore::Hyperlinks::ItemLinkData']]],
   ['gemguids_286',['GemGuids',['../da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a',1,'WorldPackets::Item::SocketGems']]],
