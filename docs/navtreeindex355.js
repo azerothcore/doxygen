@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae1724b36e5090d033401a3348621673e":[8,0,0,0,1,3,5,4,2,5,6,41],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eae3db6d1269e55900967db7bc83183c12":[8,0,0,0,1,3,5,4,2,5,6,25],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaef3b9ae6274df8381227b7d7cd1d66ad":[8,0,0,0,1,3,5,4,2,5,6,29],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963eaff692f04110af216d14842afc84f956d":[8,0,0,0,1,3,5,4,2,5,6,37],
@@ -168,10 +169,10 @@ var NAVTREEINDEX355 =
 "dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[7,0,3130,2],
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3130,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3130,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3362],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3362,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3362,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3362,1],
+"dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3361],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3361,0],
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3361,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3361,1],
 "dd/db2/classGenericCreatureScript.html":[7,0,1131],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[7,0,1131,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1131,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01":[8,0,0,0,1,3,5,23,33],
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628":[8,0,0,0,1,3,5,23,33,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144":[8,0,0,0,1,3,5,23,42],
-"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47":[8,0,0,0,1,3,5,23,42,2],
-"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144ac943cef8ef9283a27474714f809fa92d":[8,0,0,0,1,3,5,23,42,1]
+"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144a6923288b5e7614e6f220db0c42710b47":[8,0,0,0,1,3,5,23,42,2]
 };

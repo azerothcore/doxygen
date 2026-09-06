@@ -2,6 +2,7 @@ var PlayerUpdates_8cpp =
 [
     [ "BeforeVisibilityDestroy", "da/d64/PlayerUpdates_8cpp.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
     [ "BeforeVisibilityDestroy< Creature >", "da/d64/PlayerUpdates_8cpp.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "CraftSkillGainChance", "da/d64/PlayerUpdates_8cpp.html#a134a6c7afbcd70ce083895705f755d2d", null ],
     [ "getProbabilityOfLevelUp", "da/d64/PlayerUpdates_8cpp.html#aa890f698ac89e4049e1107c05d065495", null ],
     [ "SkillGainChance", "da/d64/PlayerUpdates_8cpp.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
     [ "UpdateVisibilityOf_helper", "da/d64/PlayerUpdates_8cpp.html#a74b7f95092456b1438f82ae741c77e3b", null ],

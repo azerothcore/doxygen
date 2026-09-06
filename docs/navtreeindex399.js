@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"de/de3/structboss__ick_1_1boss__ickAI.html#a5d90395d45509f8aeb244f4a4743d07d":[7,0,560,0,9],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a618c4e704d9a90d8bf4fac2d22bda6b3":[7,0,560,0,7],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a72c90af745b63202edc36b84b3f4df12":[7,0,560,0,0],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a74bd63ac9558ecec52affaa7440360a1":[7,0,560,0,10],
@@ -170,11 +171,11 @@ var NAVTREEINDEX399 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[8,0,0,0,2,2,0,10,18,9],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,10,18,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,10,18,13],
-"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3783],
-"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3783,3],
-"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3783,0],
-"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3783,2],
-"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3783,1],
+"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3782],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3782,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3782,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3782,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3782,1],
 "de/dea/structnpc__corrupted__totem.html":[7,0,1742],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[7,0,1742,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[7,0,1742,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "de/deb/structM2Header.html#a8ea82d3a657beb4ccb7a536c7186ec7a":[7,0,1501,63],
 "de/deb/structM2Header.html#a8f0e0ee5b86676aeca52169482a064df":[7,0,1501,27],
 "de/deb/structM2Header.html#a9481f813c0509802e511d326a4d9ef3c":[7,0,1501,24],
-"de/deb/structM2Header.html#a95dd62284219efb375c5e258ca676bc6":[7,0,1501,50],
-"de/deb/structM2Header.html#a96fbb6535b0a3b6fe789cfbc4a42c0b2":[7,0,1501,40]
+"de/deb/structM2Header.html#a95dd62284219efb375c5e258ca676bc6":[7,0,1501,50]
 };

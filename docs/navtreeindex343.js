@@ -1,8 +1,9 @@
 var NAVTREEINDEX343 =
 {
+"dd/d27/Timer_8h.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[8,0,0,0,0,15,36,33],
 "dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[8,0,0,0,0,15,36,21],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html":[7,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html":[5,0,0,0,3],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html":[7,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[7,0,0,0,2,0],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,0,0,3,0],
 "dd/d27/classOPvPCapturePointTF.html":[7,0,2370],
@@ -17,10 +18,10 @@ var NAVTREEINDEX343 =
 "dd/d27/classOPvPCapturePointTF.html#ace7e183b6dd438b9649e9ee60c6d00e2":[7,0,2370,10],
 "dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe":[7,0,2370,3],
 "dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[7,0,2370,0],
-"dd/d27/classspell__mage__dragon__breath.html":[7,0,3611],
-"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[7,0,3611,0],
-"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[7,0,3611,1],
-"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[7,0,3611,2],
+"dd/d27/classspell__mage__dragon__breath.html":[7,0,3610],
+"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[7,0,3610,0],
+"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[7,0,3610,1],
+"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[7,0,3610,2],
 "dd/d27/structSmartAction.html":[7,0,2612],
 "dd/d27/structSmartAction.html#a033767c66047cb24b21bbb97221d78aa":[7,0,2612,193],
 "dd/d27/structSmartAction.html#a04ef38fdb43231aa69107411cb76bb97":[7,0,2612,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX343 =
 "dd/d27/structSmartAction.html#abebf0616208c26add234febbab6dedb3":[7,0,2612,281],
 "dd/d27/structSmartAction.html#ac01ccb88e519826133c4e3dec9463087":[7,0,2612,34],
 "dd/d27/structSmartAction.html#ac070ac78cfc84706501605b24d235033":[7,0,2612,104],
-"dd/d27/structSmartAction.html#ac1ed3db6d21c2caaea3ee15609ba46ed":[7,0,2612,219],
-"dd/d27/structSmartAction.html#ac289571666aa82e6efc54bec3e982e0a":[7,0,2612,41]
+"dd/d27/structSmartAction.html#ac1ed3db6d21c2caaea3ee15609ba46ed":[7,0,2612,219]
 };

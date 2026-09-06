@@ -3841,7 +3841,6 @@ var annotated_dup =
     [ "spell_hun_volley_trigger", "d4/dd3/classspell__hun__volley__trigger.html", "d4/dd3/classspell__hun__volley__trigger" ],
     [ "spell_hun_wyvern_sting", "d5/d8b/classspell__hun__wyvern__sting.html", "d5/d8b/classspell__hun__wyvern__sting" ],
     [ "spell_hydross_cleansing_field_aura", "d3/dab/classspell__hydross__cleansing__field__aura.html", "d3/dab/classspell__hydross__cleansing__field__aura" ],
-    [ "spell_hydross_cleansing_field_command", "da/d3d/classspell__hydross__cleansing__field__command.html", "da/d3d/classspell__hydross__cleansing__field__command" ],
     [ "spell_hydross_mark_of_hydross", "dc/d07/classspell__hydross__mark__of__hydross.html", "dc/d07/classspell__hydross__mark__of__hydross" ],
     [ "spell_icc_empowered_blood", "d6/df8/classspell__icc__empowered__blood.html", "d6/df8/classspell__icc__empowered__blood" ],
     [ "spell_icc_empowered_blood_3", "d4/d78/classspell__icc__empowered__blood__3.html", "d4/d78/classspell__icc__empowered__blood__3" ],

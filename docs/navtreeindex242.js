@@ -1,5 +1,8 @@
 var NAVTREEINDEX242 =
 {
+"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9":[8,0,0,0,1,2,8,3,1,2],
+"d9/d02/boss__illidan_8cpp.html":[8,0,0,0,1,3,7,1,2],
+"d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105":[8,0,0,0,1,3,7,1,2,21],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105a019db0559c4e5a474173f8ee45126949":[8,0,0,0,1,3,7,1,2,21,11],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105a01c768a6610094703eee37fa0490debf":[8,0,0,0,1,3,7,1,2,21,14],
 "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105a1174eeafad949f9a932bbefef27552a3":[8,0,0,0,1,3,7,1,2,21,5],
@@ -238,16 +241,13 @@ var NAVTREEINDEX242 =
 "d9/d04/classboss__azuregos.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83":[7,0,408,2],
 "d9/d04/classboss__azuregos.html#a48590db0037870ca5c9425a468e5ea3a":[7,0,408,1],
 "d9/d04/classboss__azuregos.html#a73220e54a3a53931e740f3c53c3bf20c":[7,0,408,3],
-"d9/d06/classspell__q11515__fel__siphon__dummy.html":[7,0,3916],
-"d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[7,0,3916,1],
-"d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[7,0,3916,0],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html":[7,0,3915],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[7,0,3915,1],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[7,0,3915,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,0,7,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[7,0,0,4,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[7,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,0,7,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,0,7,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[5,0,0,7,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a3d9382dd50447477f9f04bc0f055e55c":[7,0,0,4,0,1,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a45556cc3ac64a6692ef08d6d93d48a4d":[7,0,0,4,0,1,3]
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[7,0,0,4,0,1,0]
 };

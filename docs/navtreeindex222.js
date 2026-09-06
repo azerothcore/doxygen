@@ -1,5 +1,8 @@
 var NAVTREEINDEX222 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca07d2d64afe1d104a6294f6c161b4ad56":[8,0,0,0,1,3,2,11,0,6,6],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f":[8,0,0,0,1,3,2,11,0,6,1],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca182564b00847fc1a9b1bb7f1b1f74914":[8,0,0,0,1,3,2,11,0,6,22],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca19cd88abb3a3a66a70491977a62462bb":[8,0,0,0,1,3,2,11,0,6,17],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca1d91cb6545e73ac366f0af8a251f3319":[8,0,0,0,1,3,2,11,0,6,5],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca22997c96557fa99050a3803cc5c5df3a":[8,0,0,0,1,3,2,11,0,6,8],
@@ -60,8 +63,8 @@ var NAVTREEINDEX222 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[7,0,13,23,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[7,0,13,23,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,23,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,23,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
 "d8/d12/structboss__ayamiss.html":[7,0,406],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[7,0,406,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[7,0,406,0],
@@ -183,10 +186,10 @@ var NAVTREEINDEX222 =
 "d8/d18/classinstance__shadowfang__keep.html":[7,0,1371],
 "d8/d18/classinstance__shadowfang__keep.html#a5c076ed86470247de5b4e3733b70fa25":[7,0,1371,2],
 "d8/d18/classinstance__shadowfang__keep.html#aa6817df7270fbf9397c6b66b28d0f6f8":[7,0,1371,1],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html":[7,0,3865],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a5b9f23b815b1c85ecf2e56c626ce5077":[7,0,3865,0],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a9207d9f59026e1beb7c266ee3a1ef884":[7,0,3865,1],
-"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc":[7,0,3865,2],
+"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html":[7,0,3864],
+"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a5b9f23b815b1c85ecf2e56c626ce5077":[7,0,3864,0],
+"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#a9207d9f59026e1beb7c266ee3a1ef884":[7,0,3864,1],
+"d8/d18/classspell__putricide__mutated__transformation__dismiss__aura.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc":[7,0,3864,2],
 "d8/d18/structnpc__obsidian__nullifier.html":[7,0,2038],
 "d8/d18/structnpc__obsidian__nullifier.html#a37cf1d335dd3735b262e82828c4f904a":[7,0,2038,3],
 "d8/d18/structnpc__obsidian__nullifier.html#a9897eab3b71dd0a6a2ea598951b095cd":[7,0,2038,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a7b49323d8ed43bd879d95e4798eadbd0":[8,0,0,0,1,3,10,12,6,7],
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a816e796693162a325889759fec978faf":[8,0,0,0,1,3,10,12,6,0],
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a98bccf366154d8dbc5a65b4c1e9a466d":[8,0,0,0,1,3,10,12,6,12],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699aaaf2d11bfd889a617e21d7d27c4a147d":[8,0,0,0,1,3,10,12,6,1],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699abb9f754a03ddaddc3e1f21615562d1b6":[8,0,0,0,1,3,10,12,6,11],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699ad4d7fe972b6e280e7b144da8d2ebefd8":[8,0,0,0,1,3,10,12,6,10],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699af60fa3aee8dd197cc23ec263218d2757":[8,0,0,0,1,3,10,12,6,3]
+"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699aaaf2d11bfd889a617e21d7d27c4a147d":[8,0,0,0,1,3,10,12,6,1]
 };

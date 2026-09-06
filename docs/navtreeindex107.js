@@ -116,10 +116,10 @@ var NAVTREEINDEX107 =
 "d3/d9d/classBoundaryIntersectBoundary.html#ab0239437fa92e39d144bf3856eb347c7":[7,0,831,3],
 "d3/d9d/classBoundaryIntersectBoundary.html#ad8bbf96e48d18ef87ac31dea8bcb023b":[7,0,831,1],
 "d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[7,0,831,0],
-"d3/d9d/classspell__item__goblin__weather__machine.html":[7,0,3417],
-"d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[7,0,3417,1],
-"d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[7,0,3417,0],
-"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[7,0,3417,2],
+"d3/d9d/classspell__item__goblin__weather__machine.html":[7,0,3416],
+"d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[7,0,3416,1],
+"d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[7,0,3416,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[7,0,3416,2],
 "d3/d9d/structChrRacesEntry.html":[7,0,895],
 "d3/d9d/structChrRacesEntry.html#a33a01b1c26b21706d9898af246f2a0df":[7,0,895,2],
 "d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b":[7,0,895,1],
@@ -248,6 +248,6 @@ var NAVTREEINDEX107 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[8,0,0,0,1,3,7,3,1,6],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[7,0,0,30],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,42],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0]
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0]
 };

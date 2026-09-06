@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"db/dd5/classCreature.html#a44f3a1de88c1b21cd831eccceeef3fe1":[7,0,942,160],
 "db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951":[7,0,942,112],
 "db/dd5/classCreature.html#a46f2520f25c51c18ee7ff7d4eed4c7dc":[7,0,942,10],
 "db/dd5/classCreature.html#a47a8fb84d400cbaf887915dee7160a18":[7,0,942,193],
@@ -241,13 +242,12 @@ var NAVTREEINDEX310 =
 "db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[7,0,942,248],
 "db/dd5/classCreature.html#afdc6255d8e9d59b0e2be97d471f7b0d0":[7,0,942,168],
 "db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[7,0,942,310],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3596],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3596,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3596,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3596,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3595],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3595,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3595,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3595,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[7,0,1693,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[7,0,1693,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[7,0,1693,0,1],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[7,0,1693,0,11],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[7,0,1693,0,4]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[7,0,1693,0,11]
 };

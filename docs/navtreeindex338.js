@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da08150c311936b1b69b145916b6bc3350":[8,0,0,0,1,3,3,1,30,0],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da12c82f45b86197dd890afecf13ff0f54":[8,0,0,0,1,3,3,1,30,1],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201":[8,0,0,0,1,3,3,1,30,3],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad9a15738ffeb4bf6f8eab5e9dd25f7d4":[8,0,0,0,1,3,3,1,30,2],
@@ -175,11 +176,11 @@ var NAVTREEINDEX338 =
 "dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[7,0,2890,0],
 "dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[7,0,2890,1],
 "dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[7,0,2890,2],
-"dc/de3/classspell__pal__beacon__of__light.html":[7,0,3747],
-"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[7,0,3747,3],
-"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[7,0,3747,0],
-"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[7,0,3747,1],
-"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[7,0,3747,2],
+"dc/de3/classspell__pal__beacon__of__light.html":[7,0,3746],
+"dc/de3/classspell__pal__beacon__of__light.html#a426b39c9733464c5d69d707d4e931f64":[7,0,3746,3],
+"dc/de3/classspell__pal__beacon__of__light.html#a4fcdb073b4140311f31c5965ea7d1316":[7,0,3746,0],
+"dc/de3/classspell__pal__beacon__of__light.html#ad332660b3b30ecb7b5c949c702574879":[7,0,3746,1],
+"dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[7,0,3746,2],
 "dc/de3/structboss__isalien.html":[7,0,568],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[7,0,568,5],
 "dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[7,0,568,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dc/de8/classBattlegroundIC.html#a2329a98ce3beede2e9c52b058ffc7267":[7,0,343,22],
 "dc/de8/classBattlegroundIC.html#a3527588819711b4a5f2f23d279fe7a22":[7,0,343,37],
 "dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30":[7,0,343,12],
-"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[7,0,343,18],
-"dc/de8/classBattlegroundIC.html#a40e3f213ab179fed03eaf522671b8ed4":[7,0,343,28]
+"dc/de8/classBattlegroundIC.html#a3fb33b010acec53b7382a9c34acae4de":[7,0,343,18]
 };

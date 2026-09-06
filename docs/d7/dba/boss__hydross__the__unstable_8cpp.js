@@ -2,18 +2,21 @@ var boss__hydross__the__unstable_8cpp =
 [
     [ "boss_hydross_the_unstable", "db/db5/structboss__hydross__the__unstable.html", "db/db5/structboss__hydross__the__unstable" ],
     [ "spell_hydross_cleansing_field_aura", "d3/dab/classspell__hydross__cleansing__field__aura.html", "d3/dab/classspell__hydross__cleansing__field__aura" ],
-    [ "spell_hydross_cleansing_field_command", "da/d3d/classspell__hydross__cleansing__field__command.html", "da/d3d/classspell__hydross__cleansing__field__command" ],
     [ "spell_hydross_mark_of_hydross", "dc/d07/classspell__hydross__mark__of__hydross.html", "dc/d07/classspell__hydross__mark__of__hydross" ],
+    [ "Actions", "d7/dba/boss__hydross__the__unstable_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_ENTER_CLEANSING_FIELD", "d7/dba/boss__hydross__the__unstable_8cpp.html#a250372292659bed7ae290d8621f88ccfadfac0e6aa117cbc967b967f62b8da74f", null ],
+      [ "ACTION_LEAVE_CLEANSING_FIELD", "d7/dba/boss__hydross__the__unstable_8cpp.html#a250372292659bed7ae290d8621f88ccfa85dfc62c6ee24c960a6da6b68a8bc422", null ]
+    ] ],
     [ "Misc", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "GROUP_ABILITIES", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab77bbe102634006229e15f0a32fb6c9a", null ],
       [ "GROUP_OOC_PURIFY_ELEMENTALS", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a558ece05ea4bf602ff92fe4fc873ccef", null ],
       [ "NPC_PURIFIED_WATER_ELEMENTAL", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a323bafdfab86f2b54325c5bd1ce5e860", null ],
       [ "NPC_PURE_SPAWN_OF_HYDROSS", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0a029a0a7069770d043bef7102c72d27", null ],
-      [ "NPC_TAINTED_HYDROSS_ELEMENTAL", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac2675d2ee7f3132446520c3cfc2532d1", null ]
+      [ "NPC_TAINTED_HYDROSS_ELEMENTAL", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac2675d2ee7f3132446520c3cfc2532d1", null ],
+      [ "NPC_HYDROSS_BEAM_HELPER", "d7/dba/boss__hydross__the__unstable_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6cc9c16ff53ac17b5a8e8b0c6922a9de", null ]
     ] ],
     [ "Spells", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CLEANSING_FIELD_AURA", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cad05540a865fb464c2c8a5691ab6be684", null ],
-      [ "SPELL_CLEANSING_FIELD", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a6b2e218852f5bde51e847a28483df2", null ],
       [ "SPELL_BLUE_BEAM", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca23af1d66e2807bf653c5e7f7b6cfa3c7", null ],
       [ "SPELL_ELEMENTAL_SPAWNIN", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cb245e974030db7310343a47cb503ce", null ],
       [ "SPELL_PURIFY_ELEMENTAL", "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca435a662cb2c388062966d67b8a599a46", null ],

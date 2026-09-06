@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[7,0,330,197],
 "df/da7/classBattleground.html#a3a7570a487820ade935e0870f8cda0e7":[7,0,330,129],
 "df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[7,0,330,199],
 "df/da7/classBattleground.html#a3bd710cf2081404fde874444ea2f1981":[7,0,330,15],
@@ -195,14 +196,14 @@ var NAVTREEINDEX417 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[7,0,330,243],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[7,0,330,24],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[7,0,330,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[7,0,13,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[7,0,13,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[7,0,3038],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[7,0,3038,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[7,0,3038,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX417 =
 "df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[7,0,1724,1],
 "df/daa/classLambdaBasicEvent.html":[7,0,1441],
 "df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[7,0,1441,2],
-"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[7,0,1441,0],
-"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1441,1]
+"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[7,0,1441,0]
 };

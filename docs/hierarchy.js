@@ -325,7 +325,6 @@ var hierarchy =
         [ "spell_hun_viper_attack_speed", "d8/d28/classspell__hun__viper__attack__speed.html", null ],
         [ "spell_hun_wyvern_sting", "d5/d8b/classspell__hun__wyvern__sting.html", null ],
         [ "spell_hydross_cleansing_field_aura", "d3/dab/classspell__hydross__cleansing__field__aura.html", null ],
-        [ "spell_hydross_cleansing_field_command", "da/d3d/classspell__hydross__cleansing__field__command.html", null ],
         [ "spell_hydross_mark_of_hydross", "dc/d07/classspell__hydross__mark__of__hydross.html", null ],
         [ "spell_icc_empowered_blood", "d6/df8/classspell__icc__empowered__blood.html", null ],
         [ "spell_icc_empowered_blood_3", "d4/d78/classspell__icc__empowered__blood__3.html", null ],
