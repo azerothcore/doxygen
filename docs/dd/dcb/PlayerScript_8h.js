@@ -63,6 +63,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_BEING_CHARMED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a67ca5760e41722c9da606740e48d63fa", null ],
       [ "PLAYERHOOK_ON_AFTER_SET_VISIBLE_ITEM_SLOT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a35874bb6e4d573dd21e1c79c64804d38", null ],
       [ "PLAYERHOOK_ON_AFTER_MOVE_ITEM_FROM_INVENTORY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938", null ],
+      [ "PLAYERHOOK_ON_AFTER_MOVE_ITEM_TO_INVENTORY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2b18b8770fe63f09162f18a839ef9594", null ],
       [ "PLAYERHOOK_ON_EQUIP", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48ac1860f792469c42281167e11a5857", null ],
       [ "PLAYERHOOK_ON_UNEQUIP_ITEM", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadd48e0b0bf28a62bf7c1e4212ba5577", null ],
       [ "PLAYERHOOK_ON_PLAYER_JOIN_BG", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02453111bfc178b81ea188400c41936d", null ],
@@ -188,6 +189,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_GET_REPUTATION_PRICE_DISCOUNT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6ab7c0df791ba236cbef2183084901a1", null ],
       [ "PLAYERHOOK_ON_LEARN_TAXI_NODE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af6b1f556c93039f69df4d7ee8396ea3b", null ],
       [ "PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675", null ],
+      [ "PLAYERHOOK_ON_AFTER_TAKE_ITEM_FROM_MAIL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2e15f842374590b7e5b007d7c2845130", null ],
       [ "PLAYERHOOK_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

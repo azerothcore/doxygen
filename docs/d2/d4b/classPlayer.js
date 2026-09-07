@@ -675,7 +675,7 @@ var classPlayer =
     [ "ModifySpellCooldown", "d2/d4b/classPlayer.html#ac7492fb571501eddda995ff043fa46b7", null ],
     [ "MoneyChanged", "d2/d4b/classPlayer.html#ab941b16982ef92a3ce3f62b7b861ea61", null ],
     [ "MoveItemFromInventory", "d2/d4b/classPlayer.html#a7bde776a4e665d044083f1a9924ec7f5", null ],
-    [ "MoveItemToInventory", "d2/d4b/classPlayer.html#a8958c44c319200e710b60af00dbd5309", null ],
+    [ "MoveItemToInventory", "d2/d4b/classPlayer.html#a6ec02b419f68890183be1feeeca36a86", null ],
     [ "MustDelayTeleport", "d2/d4b/classPlayer.html#ad4765f5f31e484e3fd7c8a39ede36499", null ],
     [ "NeedSendSpectatorData", "d2/d4b/classPlayer.html#a0e0d50a8cdedda02db6c52eca13f6ace", null ],
     [ "NeedToSaveGlyphs", "d2/d4b/classPlayer.html#af547b3a363996e03e6dcfa44854684ae", null ],

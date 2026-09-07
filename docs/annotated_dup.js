@@ -1730,6 +1730,7 @@ var annotated_dup =
     [ "go_duskwither_spire_power_source", "d4/d42/classgo__duskwither__spire__power__source.html", "d4/d42/classgo__duskwither__spire__power__source" ],
     [ "go_elune_fire", "d9/d66/classgo__elune__fire.html", "d9/d66/classgo__elune__fire" ],
     [ "go_empowering_blood_orb", "d9/d56/structgo__empowering__blood__orb.html", "d9/d56/structgo__empowering__blood__orb" ],
+    [ "go_enchanted_scarlet_thread", "da/d6e/classgo__enchanted__scarlet__thread.html", "da/d6e/classgo__enchanted__scarlet__thread" ],
     [ "go_eredar_twins_blaze", "d6/dc9/structgo__eredar__twins__blaze.html", "d6/dc9/structgo__eredar__twins__blaze" ],
     [ "go_ethereum_prison", "d4/d25/classgo__ethereum__prison.html", "d4/d25/classgo__ethereum__prison" ],
     [ "go_ethereum_stasis", "d5/de0/classgo__ethereum__stasis.html", "d5/de0/classgo__ethereum__stasis" ],

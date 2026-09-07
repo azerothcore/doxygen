@@ -28,6 +28,7 @@ var stratholme_8h =
       [ "TYPE_BARON_FIGHT", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22a20b493eca080b60d4d854835546ef6c9", null ],
       [ "TYPE_MALLOW", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22aabc90ab10db913d9d1dc3f1896ed6432", null ],
       [ "TYPE_BARTHILAS_RUN", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22a6a15c24514e6fad36a5669bd7b81d640", null ],
+      [ "DATA_SCARLET_THREAD_LOOTED", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22a76777686fc7e015d66daf82cefa85f17", null ],
       [ "DATA_BARON_RUN_NONE", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22a5f6581b4258bfd30b06e3f8717237df4", null ],
       [ "DATA_BARON_RUN_GATE", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22aa257aed5aa36050c7df97aa2fc805b1b", null ],
       [ "DATA_JARIEN", "d0/d0b/stratholme_8h.html#afb6eb4f28419b652027fad41104a6d22ad99b4b6309ed5a4470817882c23c9bef", null ],
@@ -55,6 +56,7 @@ var stratholme_8h =
       [ "GO_JARIEN_AND_SOTHOS_HEIRLOOMS", "d0/d0b/stratholme_8h.html#acd8b54d8672687df8df94cb3d9a2a744adf7f482c01391417c2921f0f8c3ee5ca", null ]
     ] ],
     [ "MiscIds", "d0/d0b/stratholme_8h.html#a0b64fe674ad16039fc11cab49bc4ef87", [
+      [ "ITEM_ENCHANTED_SCARLET_THREAD", "d0/d0b/stratholme_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a73e9a8e631f3805772abb266e1a4da60", null ],
       [ "SAY_BLACK_GUARD_INIT", "d0/d0b/stratholme_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a18633df361b58116f0520b570d51ef18", null ],
       [ "SAY_BARON_INIT_YELL", "d0/d0b/stratholme_8h.html#a0b64fe674ad16039fc11cab49bc4ef87ac7f46628cabf4586d64b625e27608a5e", null ],
       [ "SAY_BRAON_ZIGGURAT_FALL_YELL", "d0/d0b/stratholme_8h.html#a0b64fe674ad16039fc11cab49bc4ef87a969ea8be935ea09de19f7753bb4debaf", null ],

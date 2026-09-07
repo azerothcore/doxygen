@@ -13,6 +13,7 @@ var classSpellInfo =
     [ "ApplyAllSpellImmunitiesTo", "d2/de9/classSpellInfo.html#a910589a69440308d9cddfb4bc741e457", null ],
     [ "CalcCastTime", "d2/de9/classSpellInfo.html#ad629e83ce2d6c6eef6111351eaadc281", null ],
     [ "CalcPowerCost", "d2/de9/classSpellInfo.html#ad0c4a259fce678a7e551e18d90b0c795", null ],
+    [ "CanBeRedirectedBySpellMagnet", "d2/de9/classSpellInfo.html#aa4ad762f78781a87f7d6f007f8516fd9", null ],
     [ "CanBeUsedInCombat", "d2/de9/classSpellInfo.html#a7e496d4dc01e50c75feab5c951c17894", null ],
     [ "CanDispelAura", "d2/de9/classSpellInfo.html#a109423f74f1db3f9e9ec8f0f0b4a1e5e", null ],
     [ "CanPierceImmuneAura", "d2/de9/classSpellInfo.html#ac0cf4a1a9d0053c1b2a80c84ac7cec64", null ],

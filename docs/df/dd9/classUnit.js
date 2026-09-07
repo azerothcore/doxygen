@@ -324,6 +324,7 @@ var classUnit =
     [ "GetProcAurasTriggeredOnEvent", "df/dd9/classUnit.html#a0ebd274732e84a9150104d8473a7cd8d", null ],
     [ "getRace", "df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1", null ],
     [ "getRaceMask", "df/dd9/classUnit.html#a9819c2f13647afe6ac172fb5313cfd83", null ],
+    [ "GetRageWeaponSpeedHitFactor", "df/dd9/classUnit.html#a6006eef28382a59a63d9f0c0abd0292d", null ],
     [ "GetRandomContactPoint", "df/dd9/classUnit.html#a428f255fb17386374a4bcce7f2f94a51", null ],
     [ "GetRangedCritChanceReduction", "df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e", null ],
     [ "GetRangedCritDamageReduction", "df/dd9/classUnit.html#a64497e8974d3530ff0c6a1c2654ba964", null ],

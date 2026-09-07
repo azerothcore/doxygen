@@ -75,6 +75,7 @@ var boss__razorscale_8cpp =
       [ "POINT_RAZORSCALE_FLIGHT_2", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a1cf42794c2d51247c1ddeabb9ff41f93", null ],
       [ "POINT_DEFENDER_ATTACK", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a883ef561701d263a7b9297927385d73a", null ],
       [ "WORLD_STATE_RAZORSCALE_MUSIC", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a31b28cbd105aa5e5c6c8fef561ec7b40", null ],
+      [ "DATA_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a3acf810c5d0cbddb612eb2c5567d26fa", null ],
       [ "FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab", null ],
       [ "FIRE_STATE_MAX_PROGRESS", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64", null ]
     ] ],

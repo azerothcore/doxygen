@@ -21,7 +21,7 @@ var classUnitStub =
     [ "HasAura", "dc/d3b/classUnitStub.html#a0096bd8b110bb563ccb435a25f9cfbb7", null ],
     [ "HasSpellCooldown", "dc/d3b/classUnitStub.html#a1962f1814c51133caa67a49eb13bda41", null ],
     [ "IsAlive", "dc/d3b/classUnitStub.html#aeb679a4ecf81db1dc312110c4568ff3a", null ],
-    [ "IsFriendlyTo", "dc/d3b/classUnitStub.html#ac0accfe7d0daa99e4ffb696404028d84", null ],
+    [ "IsFriendlyTo", "dc/d3b/classUnitStub.html#a6827f2cb56f5155597cbf5f5cac3447c", null ],
     [ "IsPlayer", "dc/d3b/classUnitStub.html#a36b84f92bb3ad03e61484b08e82660bc", null ],
     [ "RecordCast", "dc/d3b/classUnitStub.html#a325b88fd791c254c7587fdaae4e272cc", null ],
     [ "RemoveAuraStub", "dc/d3b/classUnitStub.html#a64eccedbe33e3feb966ddd81a12aa2e0", null ],

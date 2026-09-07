@@ -6,7 +6,7 @@ var classAuraScriptProcTestFixture =
     [ "CreateSpellInfo", "d6/d59/classAuraScriptProcTestFixture.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
     [ "SetUp", "d6/d59/classAuraScriptProcTestFixture.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
     [ "TearDown", "d6/d59/classAuraScriptProcTestFixture.html#a782580d41f8233b93d51fe347601e730", null ],
-    [ "TestCanProc", "d6/d59/classAuraScriptProcTestFixture.html#a409ccb130f529cb20e5164b465e05ca6", null ],
+    [ "TestCanProc", "d6/d59/classAuraScriptProcTestFixture.html#a6827c531761877b01d44665a4eb90f61", null ],
     [ "TestSpellFamilyMatch", "d6/d59/classAuraScriptProcTestFixture.html#a97d06c4fdf207051543fbf8c9207242e", null ],
     [ "_context", "d6/d59/classAuraScriptProcTestFixture.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
     [ "_spellInfos", "d6/d59/classAuraScriptProcTestFixture.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]

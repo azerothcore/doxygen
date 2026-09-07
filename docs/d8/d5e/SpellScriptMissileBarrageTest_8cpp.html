@@ -182,10 +182,6 @@ Variables</h2></td></tr>
 <tr class="separator:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae58d0c097ed2d1cccbf272f42b835d52" id="r_ae58d0c097ed2d1cccbf272f42b835d52"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a> = 0x00000001</td></tr>
 <tr class="separator:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8bd1511afd5de6e1475292711b50296" id="r_ae8bd1511afd5de6e1475292711b50296"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296">MageSpellFlags::FROSTFIRE_BOLT</a> = 0x00000000</td></tr>
-<tr class="separator:ae8bd1511afd5de6e1475292711b50296"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abfd925917520301832811c8b3b1b8ae3" id="r_abfd925917520301832811c8b3b1b8ae3"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3">MageSpellFlags::ARCANE_BARRAGE</a> = 0x00000000</td></tr>
-<tr class="separator:abfd925917520301832811c8b3b1b8ae3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="../../df/dd9/classUnit.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior. </p>
@@ -242,11 +238,11 @@ Variables</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Effective proc rate as percentage </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">return</span> dbcChance * (checkProcRate / 100.0f);</div>
-<div class="line"><span class="lineno">  187</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  183</span>{</div>
+<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">return</span> dbcChance * (checkProcRate / 100.0f);</div>
+<div class="line"><span class="lineno">  185</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00203">TEST_F()</a>, <a class="el" href="../../#l00189">TEST_F()</a>, <a class="el" href="../../#l00210">TEST_F()</a>, and <a class="el" href="../../#l00196">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00201">TEST_F()</a>, <a class="el" href="../../#l00187">TEST_F()</a>, <a class="el" href="../../#l00208">TEST_F()</a>, and <a class="el" href="../../#l00194">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -297,7 +293,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> rollResult &lt; 50;</div>
 <div class="line"><span class="lineno">   67</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00097">MissileBarrageTest::RunStatisticalTest()</a>, <a class="el" href="../../#l00115">TEST_F()</a>, <a class="el" href="../../#l00265">TEST_F()</a>, <a class="el" href="../../#l00253">TEST_F()</a>, <a class="el" href="../../#l00259">TEST_F()</a>, <a class="el" href="../../#l00145">TEST_F()</a>, and <a class="el" href="../../#l00135">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00095">MissileBarrageTest::RunStatisticalTest()</a>, <a class="el" href="../../#l00113">TEST_F()</a>, <a class="el" href="../../#l00263">TEST_F()</a>, <a class="el" href="../../#l00251">TEST_F()</a>, <a class="el" href="../../#l00257">TEST_F()</a>, <a class="el" href="../../#l00143">TEST_F()</a>, and <a class="el" href="../../#l00133">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -326,14 +322,14 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <span class="comment">// Arcane Blast should always pass CheckProc, regardless of the roll result</span></div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  119</span>    {</div>
-<div class="line"><span class="lineno">  120</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>, roll))</div>
-<div class="line"><span class="lineno">  121</span>            &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should always proc, but failed with roll=&quot;</span> &lt;&lt; roll;</div>
-<div class="line"><span class="lineno">  122</span>    }</div>
-<div class="line"><span class="lineno">  123</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// Arcane Blast should always pass CheckProc, regardless of the roll result</span></div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 100; roll++)</div>
+<div class="line"><span class="lineno">  117</span>    {</div>
+<div class="line"><span class="lineno">  118</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>, roll))</div>
+<div class="line"><span class="lineno">  119</span>            &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should always proc, but failed with roll=&quot;</span> &lt;&lt; roll;</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+<div class="line"><span class="lineno">  121</span>}</div>
 <div class="ttc" id="aSpellScriptMissileBarrageTest_8cpp_html_aefcad72982a8fa6f771f8bef56c3070c"><div class="ttname"><a href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a></div><div class="ttdeci">bool SimulateMissileBarrageCheckProc(uint32 spellFamilyFlags0, int rollResult)</div><div class="ttdoc">Simulates the CheckProc logic from spell_mage_missile_barrage.</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:57</div></div>
 <div class="ttc" id="anamespaceMageSpellFlags_html_a3cf9b20a3fe729ee462b2431e9ba830f"><div class="ttname"><a href="../../d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a></div><div class="ttdeci">constexpr uint32 ARCANE_BLAST</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:74</div></div>
 </div><!-- fragment -->
@@ -366,10 +362,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>);</div>
-<div class="line"><span class="lineno">  128</span>    EXPECT_NEAR(rate, 100.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should have 100% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>);</div>
+<div class="line"><span class="lineno">  126</span>    EXPECT_NEAR(rate, 100.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should have 100% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  127</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>.</p>
 
@@ -400,15 +396,15 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
-<div class="line"><span class="lineno">  267</span>    <span class="comment">// Test that exactly the Arcane Blast flag triggers 100% rate</span></div>
-<div class="line"><span class="lineno">  268</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000000, 99));</div>
-<div class="line"><span class="lineno">  269</span> </div>
-<div class="line"><span class="lineno">  270</span>    <span class="comment">// Combined flags should also work if Arcane Blast is present</span></div>
-<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000001, 99));</div>
-<div class="line"><span class="lineno">  272</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000020, 99));</div>
-<div class="line"><span class="lineno">  273</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0xFFFFFFFF, 99));</div>
-<div class="line"><span class="lineno">  274</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  264</span>{</div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">// Test that exactly the Arcane Blast flag triggers 100% rate</span></div>
+<div class="line"><span class="lineno">  266</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000000, 99));</div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>    <span class="comment">// Combined flags should also work if Arcane Blast is present</span></div>
+<div class="line"><span class="lineno">  269</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000001, 99));</div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000020, 99));</div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0xFFFFFFFF, 99));</div>
+<div class="line"><span class="lineno">  272</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
@@ -439,10 +435,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>{</div>
-<div class="line"><span class="lineno">  163</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a>);</div>
-<div class="line"><span class="lineno">  164</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Missiles should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
+<div class="line"><span class="lineno">  161</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a>);</div>
+<div class="line"><span class="lineno">  162</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Missiles should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  163</span>}</div>
 <div class="ttc" id="anamespaceMageSpellFlags_html_ab9ece6fbb0862f8f3dce9aa99843c805"><div class="ttname"><a href="../../d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a></div><div class="ttdeci">constexpr uint32 ARCANE_MISSILES</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:75</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00075">MageSpellFlags::ARCANE_MISSILES</a>.</p>
@@ -474,10 +470,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <span class="comment">// Roll of 49 should succeed (&lt; 50)</span></div>
-<div class="line"><span class="lineno">  256</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 49));</div>
-<div class="line"><span class="lineno">  257</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
+<div class="line"><span class="lineno">  253</span>    <span class="comment">// Roll of 49 should succeed (&lt; 50)</span></div>
+<div class="line"><span class="lineno">  254</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 49));</div>
+<div class="line"><span class="lineno">  255</span>}</div>
 <div class="ttc" id="anamespaceMageSpellFlags_html_ae58d0c097ed2d1cccbf272f42b835d52"><div class="ttname"><a href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a></div><div class="ttdeci">constexpr uint32 FIREBALL</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:76</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
@@ -509,10 +505,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">// Roll of 50 should fail (&gt;= 50)</span></div>
-<div class="line"><span class="lineno">  262</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 50));</div>
-<div class="line"><span class="lineno">  263</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  258</span>{</div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// Roll of 50 should fail (&gt;= 50)</span></div>
+<div class="line"><span class="lineno">  260</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 50));</div>
+<div class="line"><span class="lineno">  261</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
@@ -543,32 +539,32 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  222</span>{</div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">// Expected DBC proc chances for each rank</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="comment">// Note: These should match the actual DBC values</span></div>
-<div class="line"><span class="lineno">  225</span>    <span class="keyword">struct </span>RankData</div>
-<div class="line"><span class="lineno">  226</span>    {</div>
-<div class="line"><span class="lineno">  227</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
-<div class="line"><span class="lineno">  228</span>        <span class="keywordtype">int</span> expectedChance;</div>
-<div class="line"><span class="lineno">  229</span>    };</div>
-<div class="line"><span class="lineno">  230</span> </div>
-<div class="line"><span class="lineno">  231</span>    std::vector&lt;RankData&gt; ranks = {</div>
-<div class="line"><span class="lineno">  232</span>        { 44404, 4 },   <span class="comment">// Rank 1: 4% (actually 8% in some versions)</span></div>
-<div class="line"><span class="lineno">  233</span>        { 44405, 8 },   <span class="comment">// Rank 2</span></div>
-<div class="line"><span class="lineno">  234</span>        { 44406, 12 },  <span class="comment">// Rank 3</span></div>
-<div class="line"><span class="lineno">  235</span>        { 44407, 16 },  <span class="comment">// Rank 4</span></div>
-<div class="line"><span class="lineno">  236</span>        { 44408, 20 },  <span class="comment">// Rank 5</span></div>
-<div class="line"><span class="lineno">  237</span>    };</div>
-<div class="line"><span class="lineno">  238</span> </div>
-<div class="line"><span class="lineno">  239</span>    <span class="comment">// This documents the expected values - actual verification would require SpellMgr</span></div>
-<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rank : ranks)</div>
-<div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Spell ID: &quot;</span> + std::to_string(rank.spellId));</div>
-<div class="line"><span class="lineno">  243</span>        <span class="comment">// The actual DBC lookup would be:</span></div>
-<div class="line"><span class="lineno">  244</span>        <span class="comment">// SpellInfo const* spellInfo = sSpellMgr-&gt;GetSpellInfo(rank.spellId);</span></div>
-<div class="line"><span class="lineno">  245</span>        <span class="comment">// EXPECT_EQ(spellInfo-&gt;ProcChance, rank.expectedChance);</span></div>
-<div class="line"><span class="lineno">  246</span>    }</div>
-<div class="line"><span class="lineno">  247</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
+<div class="line"><span class="lineno">  221</span>    <span class="comment">// Expected DBC proc chances for each rank</span></div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// Note: These should match the actual DBC values</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="keyword">struct </span>RankData</div>
+<div class="line"><span class="lineno">  224</span>    {</div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
+<div class="line"><span class="lineno">  226</span>        <span class="keywordtype">int</span> expectedChance;</div>
+<div class="line"><span class="lineno">  227</span>    };</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>    std::vector&lt;RankData&gt; ranks = {</div>
+<div class="line"><span class="lineno">  230</span>        { 44404, 4 },   <span class="comment">// Rank 1: 4% (actually 8% in some versions)</span></div>
+<div class="line"><span class="lineno">  231</span>        { 44405, 8 },   <span class="comment">// Rank 2</span></div>
+<div class="line"><span class="lineno">  232</span>        { 44406, 12 },  <span class="comment">// Rank 3</span></div>
+<div class="line"><span class="lineno">  233</span>        { 44407, 16 },  <span class="comment">// Rank 4</span></div>
+<div class="line"><span class="lineno">  234</span>        { 44408, 20 },  <span class="comment">// Rank 5</span></div>
+<div class="line"><span class="lineno">  235</span>    };</div>
+<div class="line"><span class="lineno">  236</span> </div>
+<div class="line"><span class="lineno">  237</span>    <span class="comment">// This documents the expected values - actual verification would require SpellMgr</span></div>
+<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rank : ranks)</div>
+<div class="line"><span class="lineno">  239</span>    {</div>
+<div class="line"><span class="lineno">  240</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Spell ID: &quot;</span> + std::to_string(rank.spellId));</div>
+<div class="line"><span class="lineno">  241</span>        <span class="comment">// The actual DBC lookup would be:</span></div>
+<div class="line"><span class="lineno">  242</span>        <span class="comment">// SpellInfo const* spellInfo = sSpellMgr-&gt;GetSpellInfo(rank.spellId);</span></div>
+<div class="line"><span class="lineno">  243</span>        <span class="comment">// EXPECT_EQ(spellInfo-&gt;ProcChance, rank.expectedChance);</span></div>
+<div class="line"><span class="lineno">  244</span>    }</div>
+<div class="line"><span class="lineno">  245</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 </div><!-- fragment -->
 </div>
@@ -598,14 +594,14 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
-<div class="line"><span class="lineno">  205</span>    <span class="comment">// Rank 1: 4% base chance * 100% CheckProc = 4% effective</span></div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  207</span>    EXPECT_NEAR(effective, 4.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  208</span>}</div>
-<div class="ttc" id="aSpellScriptMissileBarrageTest_8cpp_html_ac2dda4615e476c49664c332dfe3e309b"><div class="ttname"><a href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a></div><div class="ttdeci">float CalculateEffectiveProcRate(float dbcChance, float checkProcRate)</div><div class="ttdoc">Calculate the effective proc rate combining DBC chance and CheckProc.</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:184</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
+<div class="line"><span class="lineno">  203</span>    <span class="comment">// Rank 1: 4% base chance * 100% CheckProc = 4% effective</span></div>
+<div class="line"><span class="lineno">  204</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 100.0f);</div>
+<div class="line"><span class="lineno">  205</span>    EXPECT_NEAR(effective, 4.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  206</span>}</div>
+<div class="ttc" id="aSpellScriptMissileBarrageTest_8cpp_html_ac2dda4615e476c49664c332dfe3e309b"><div class="ttname"><a href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a></div><div class="ttdeci">float CalculateEffectiveProcRate(float dbcChance, float checkProcRate)</div><div class="ttdoc">Calculate the effective proc rate combining DBC chance and CheckProc.</div><div class="ttdef"><b>Definition</b> SpellScriptMissileBarrageTest.cpp:182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
@@ -634,13 +630,13 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    <span class="comment">// Rank 5: 20% base chance * 100% CheckProc = 20% effective</span></div>
-<div class="line"><span class="lineno">  192</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  193</span>    EXPECT_NEAR(effective, 20.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  194</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Rank 5: 20% base chance * 100% CheckProc = 20% effective</span></div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 100.0f);</div>
+<div class="line"><span class="lineno">  191</span>    EXPECT_NEAR(effective, 20.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  192</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
@@ -669,13 +665,13 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  211</span>{</div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">// Rank 1: 4% base chance * 50% CheckProc = 2% effective</span></div>
-<div class="line"><span class="lineno">  213</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  214</span>    EXPECT_NEAR(effective, 2.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  215</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  209</span>{</div>
+<div class="line"><span class="lineno">  210</span>    <span class="comment">// Rank 1: 4% base chance * 50% CheckProc = 2% effective</span></div>
+<div class="line"><span class="lineno">  211</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 50.0f);</div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_NEAR(effective, 2.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  213</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
@@ -704,13 +700,13 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    <span class="comment">// Rank 5: 20% base chance * 50% CheckProc = 10% effective</span></div>
-<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  200</span>    EXPECT_NEAR(effective, 10.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  201</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  195</span>{</div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Rank 5: 20% base chance * 50% CheckProc = 10% effective</span></div>
+<div class="line"><span class="lineno">  197</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 50.0f);</div>
+<div class="line"><span class="lineno">  198</span>    EXPECT_NEAR(effective, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  199</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CalculateEffectiveProcRate()</a>.</p>
 
 </div>
 </div>
@@ -739,14 +735,14 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    <span class="comment">// Rolls 50-99 should fail</span></div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 50; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  149</span>    {</div>
-<div class="line"><span class="lineno">  150</span>        EXPECT_FALSE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  151</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should NOT proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&gt;= 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  152</span>    }</div>
-<div class="line"><span class="lineno">  153</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// Rolls 50-99 should fail</span></div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 50; roll &lt; 100; roll++)</div>
+<div class="line"><span class="lineno">  147</span>    {</div>
+<div class="line"><span class="lineno">  148</span>        EXPECT_FALSE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
+<div class="line"><span class="lineno">  149</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should NOT proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&gt;= 50)&quot;</span>;</div>
+<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="line"><span class="lineno">  151</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
@@ -777,14 +773,14 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
-<div class="line"><span class="lineno">  137</span>    <span class="comment">// Rolls 0-49 should succeed</span></div>
-<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 50; roll++)</div>
-<div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  141</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&lt; 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Rolls 0-49 should succeed</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 50; roll++)</div>
+<div class="line"><span class="lineno">  137</span>    {</div>
+<div class="line"><span class="lineno">  138</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
+<div class="line"><span class="lineno">  139</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&lt; 50)&quot;</span>;</div>
+<div class="line"><span class="lineno">  140</span>    }</div>
+<div class="line"><span class="lineno">  141</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
 
@@ -815,10 +811,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
-<div class="line"><span class="lineno">  157</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>);</div>
-<div class="line"><span class="lineno">  158</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Fireball should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  159</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  154</span>{</div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>);</div>
+<div class="line"><span class="lineno">  156</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Fireball should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  157</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>.</p>
 
@@ -849,11 +845,11 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    <span class="comment">// Any spell that doesn&#39;t have the Arcane Blast flag should get 50% rate</span></div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(0x00000000);</div>
-<div class="line"><span class="lineno">  171</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Other spells should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  172</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Any spell that doesn&#39;t have the Arcane Blast flag should get 50% rate</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(0x00000000);</div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Other spells should have 50% CheckProc pass rate&quot;</span>;</div>
+<div class="line"><span class="lineno">  170</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -863,7 +859,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d8/d5e/SpellScriptMissileBarrageTest_8cpp.html">SpellScriptMissileBarrageTest.cpp</a></li>
-    <li class="footer">Generated on Sun Sep 6 2026 10:08:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 7 2026 11:23:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

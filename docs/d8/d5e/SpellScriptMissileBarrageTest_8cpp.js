@@ -18,9 +18,7 @@ var SpellScriptMissileBarrageTest_8cpp =
     [ "TEST_F", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aeab0a3a6edde33d54feef5dd9ceea629", null ],
     [ "TEST_F", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ab581bb40fc8c18dc8273db253cad2d44", null ],
     [ "TEST_F", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ad0e7264881bbb5fe5752d47c56930961", null ],
-    [ "ARCANE_BARRAGE", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#abfd925917520301832811c8b3b1b8ae3", null ],
     [ "ARCANE_BLAST", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#a3cf9b20a3fe729ee462b2431e9ba830f", null ],
     [ "ARCANE_MISSILES", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ab9ece6fbb0862f8f3dce9aa99843c805", null ],
-    [ "FIREBALL", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ae58d0c097ed2d1cccbf272f42b835d52", null ],
-    [ "FROSTFIRE_BOLT", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ae8bd1511afd5de6e1475292711b50296", null ]
+    [ "FIREBALL", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ae58d0c097ed2d1cccbf272f42b835d52", null ]
 ];

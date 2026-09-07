@@ -4402,6 +4402,7 @@ var hierarchy =
         [ "go_dragonflayer_cage", "d1/d1b/classgo__dragonflayer__cage.html", null ],
         [ "go_duskwither_spire_power_source", "d4/d42/classgo__duskwither__spire__power__source.html", null ],
         [ "go_elune_fire", "d9/d66/classgo__elune__fire.html", null ],
+        [ "go_enchanted_scarlet_thread", "da/d6e/classgo__enchanted__scarlet__thread.html", null ],
         [ "go_ethereum_prison", "d4/d25/classgo__ethereum__prison.html", null ],
         [ "go_ethereum_stasis", "d5/de0/classgo__ethereum__stasis.html", null ],
         [ "go_evil_book_for_dummies", "d7/de9/classgo__evil__book__for__dummies.html", null ],
