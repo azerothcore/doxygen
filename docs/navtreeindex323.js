@@ -1,6 +1,5 @@
 var NAVTREEINDEX323 =
 {
-"dc/d33/structPendingSpellCastRequest.html":[7,0,2415],
 "dc/d33/structPendingSpellCastRequest.html#a28f12287e339fd0c6cc9ea8c89c26113":[7,0,2415,5],
 "dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4":[7,0,2415,2],
 "dc/d33/structPendingSpellCastRequest.html#a6ee868c6161e49dc8774ab357f313116":[7,0,2415,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX323 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a41048c554f837d7ae4d7950518ce2204":[5,0,28,6,88],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a410f47825205a76863ae400baeb0a0d6":[5,0,28,6,380],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a416c64c9aeb6f48cb3aca22a60b34b46":[5,0,28,6,609],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a41846c996c9ddd3286f694d5874acde5":[5,0,28,6,342]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a41846c996c9ddd3286f694d5874acde5":[5,0,28,6,342],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a41feb721c5869d5fba13e6248f513ca6":[5,0,28,6,221]
 };

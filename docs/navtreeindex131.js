@@ -1,5 +1,8 @@
 var NAVTREEINDEX131 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ae088c5aedcf64c242ca695d8b31ba6a4":[8,0,0,0,1,3,7,5,2,2,23,50],
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ae12c4c0926c63651261449ac06d86c54":[8,0,0,0,1,3,7,5,2,2,23,1],
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ae417753e5c96c534356889f6fa94ab9c":[8,0,0,0,1,3,7,5,2,2,23,25],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ae4ccd71da672cd021682c47fc6ac6fee":[8,0,0,0,1,3,7,5,2,2,23,14],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974ae7c72cd1735401297a07208a0df513a3":[8,0,0,0,1,3,7,5,2,2,23,15],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974aead45dd1e61ab048794c33c3ee80ef0f":[8,0,0,0,1,3,7,5,2,2,23,27],
@@ -51,16 +54,16 @@ var NAVTREEINDEX131 =
 "d4/d67/classMovement_1_1counter.html":[7,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[7,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[7,0,7,1,2],
-"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[7,0,7,1,1],
+"d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[7,0,1236],
 "d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[7,0,1236,1],
 "d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[7,0,1236,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d70/classspell__sindragosa__permeating__chill__aura.html#a51794aa0a42180d9a0f4e9f6d5febca4":[7,0,4159,1],
 "d4/d70/classspell__sindragosa__permeating__chill__aura.html#ad701d353f03eb5a1ccca28a6530555db":[7,0,4159,0],
 "d4/d72/DynamicVisibility_8cpp.html":[8,0,0,0,1,2,27,2],
-"d4/d72/structboss__anubrekhan.html":[7,0,396],
-"d4/d72/structboss__anubrekhan.html#a12b4f2878b54f5bd34c470d2c7b40098":[7,0,396,8],
-"d4/d72/structboss__anubrekhan.html#a1a495fddf89c4c92136d1fd61fba6594":[7,0,396,6],
-"d4/d72/structboss__anubrekhan.html#a30d2e7464cffc6894882897ed0d66c6a":[7,0,396,7]
+"d4/d72/structboss__anubrekhan.html":[7,0,396]
 };

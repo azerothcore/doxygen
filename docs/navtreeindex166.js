@@ -1,5 +1,8 @@
 var NAVTREEINDEX166 =
 {
+"d5/de3/classspell__razorscale__firebolt.html":[7,0,4003],
+"d5/de3/classspell__razorscale__firebolt.html#a5b94fde8602f7f00342bd81dc9c8cc11":[7,0,4003,1],
+"d5/de3/classspell__razorscale__firebolt.html#a6d990937a5fd06a877b775f719ba5a9f":[7,0,4003,2],
 "d5/de3/classspell__razorscale__firebolt.html#aa7fcef13b5a4ba40092f2f95842349ff":[7,0,4003,0],
 "d5/de4/Bag_8cpp.html":[8,0,0,0,1,2,16,4,0,0],
 "d5/de4/classitem__petrov__cluster__bombs.html":[7,0,1419],
@@ -216,12 +219,12 @@ var NAVTREEINDEX166 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[8,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1006],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1006,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1006,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX166 =
 "d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
 "d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[5,0,0,77],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[5,0,0,77,3],
-"d5/df0/classAcore_1_1HealthOrderPred.html#a93e2e41a9849d6c2ecfffcaffa74acee":[7,0,0,65,3]
+"d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65]
 };

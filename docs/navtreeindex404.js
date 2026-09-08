@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d19/structnpc__eoe__wyrmrest__skytalon.html":[7,0,1810],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a350828bdc56029dcbfb863efef4d9d8e":[7,0,1810,3],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a647ba18085c9522d8075c62ed9ce5b18":[7,0,1810,1],
 "df/d19/structnpc__eoe__wyrmrest__skytalon.html#a65df31829e801154ee20d55ad1c15721":[7,0,1810,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a0fe359ec96eaec9b896e4a41553c0aa4":[8,0,0,0,1,2,16,5,0,4,6,253],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a0ff7d78ee790a0dfb2f59eb2297b954d":[8,0,0,0,1,2,16,5,0,4,6,98],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a10674c45e01f88895742624d8065dea7":[8,0,0,0,1,2,16,5,0,4,6,53],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a10f74198d1ee97bc89e51e4cb618910a":[8,0,0,0,1,2,16,5,0,4,6,92],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a114e5f046c491f51fcc9e6754b6575ea":[8,0,0,0,1,2,16,5,0,4,6,46]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a10f74198d1ee97bc89e51e4cb618910a":[8,0,0,0,1,2,16,5,0,4,6,92]
 };

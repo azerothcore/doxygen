@@ -1,5 +1,7 @@
 var NAVTREEINDEX41 =
 {
+"d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a6ffe8acca082a77325b9c052e71775d8":[8,0,0,0,1,2,16,10,5,51,2],
+"d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a85637bc3b7127fbfc1d35d5e3ca4a95c":[8,0,0,0,1,2,16,10,5,51,1],
 "d1/daf/Unit_8h.html#a114d5261840f2cea1ebee7abcad43e10":[8,0,0,0,1,2,16,10,5,35],
 "d1/daf/Unit_8h.html#a114d5261840f2cea1ebee7abcad43e10a13f6d70c134b3744ab0581ab8df32177":[8,0,0,0,1,2,16,10,5,35,0],
 "d1/daf/Unit_8h.html#a114d5261840f2cea1ebee7abcad43e10ad445af08f58d13cde94091cab97f7deb":[8,0,0,0,1,2,16,10,5,35,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX41 =
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html":[7,0,4279],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[7,0,4279,2],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[7,0,4279,1],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[7,0,4279,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[7,0,4405],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[7,0,4405,0]
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[7,0,4279,0]
 };

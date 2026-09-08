@@ -1,6 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa55d5b6f12a0b84c16d19e7eef0027bd":[5,0,28,6,158],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa61ad41f7682a16391b200970e7e44d3":[5,0,28,6,197],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa665e8bcd7fc83468e9f3ffd053007ae":[5,0,28,6,199],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aa68185e40caf0650ae7ea06e8f62f1a1":[5,0,28,6,515],
@@ -249,5 +248,6 @@ var NAVTREEINDEX325 =
 "dc/d36/structboss__amanitar.html#a138049712649ff414950d9d0ca05d712":[7,0,389,2],
 "dc/d36/structboss__amanitar.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43":[7,0,389,5],
 "dc/d36/structboss__amanitar.html#a4ba2415d6134cdc435114cd3af235b6d":[7,0,389,7],
-"dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[7,0,389,0]
+"dc/d36/structboss__amanitar.html#a660bdf8dd64bbffda4ee1ec603c41402":[7,0,389,0],
+"dc/d36/structboss__amanitar.html#a6b3cf0ea01ce34b4281116ca8387732d":[7,0,389,1]
 };

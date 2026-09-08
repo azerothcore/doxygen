@@ -1,6 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8":[8,0,0,0,1,2,19,9,35,1],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca4042a3edb61fea753b1db70d894ac4eb":[8,0,0,0,1,2,19,9,35,6],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38":[8,0,0,0,1,2,19,9,35,0],
 "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca54788e1cdd051e56eea54771f3bf62d9":[8,0,0,0,1,2,19,9,35,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX305 =
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[8,0,0,0,1,3,10,14,58,0],
 "db/daf/structboss__eramas__brightblaze.html":[7,0,463],
 "db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[7,0,463,0],
-"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[7,0,463,1]
+"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[7,0,463,1],
+"db/db0/classBinarySpellDetectionTest.html":[7,0,377]
 };

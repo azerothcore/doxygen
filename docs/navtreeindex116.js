@@ -1,5 +1,8 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da385435c83f6cc46235c3788e4b2e25b7":[8,0,0,0,1,2,8,1,3,21,6],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da3b6dd61ba4da98d03c4399bbbed3bb6c":[8,0,0,0,1,2,8,1,3,21,36],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da3d5babca24ae1b8a4e85038d0de81b7b":[8,0,0,0,1,2,8,1,3,21,21],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da3d7ff200391d80f084bb7ec99f825556":[8,0,0,0,1,2,8,1,3,21,52],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da3ec50f2074ddefe152937f1be5d1aa69":[8,0,0,0,1,2,8,1,3,21,17],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da3eea28b34c81fbf904fb6e903347ae9a":[8,0,0,0,1,2,8,1,3,21,28],
@@ -198,8 +201,8 @@ var NAVTREEINDEX116 =
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[7,0,13,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[5,0,34,14,11,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd6/structinstance__blackrock__depths.html#a8c26a220be539eb3df3bb20f1afeffa5":[7,0,1328,60],
 "d3/dd6/structinstance__blackrock__depths.html#a92785b52a57dd9596f9fe05b98078899":[7,0,1328,28],
 "d3/dd6/structinstance__blackrock__depths.html#a939cabbe840c584979c70b4616d93301":[7,0,1328,30],
-"d3/dd6/structinstance__blackrock__depths.html#a9450ddfaf1c43be4a7d2249117276364":[7,0,1328,41],
-"d3/dd6/structinstance__blackrock__depths.html#a98e7c1b2c82a7bd81b4d2848230dd6f0":[7,0,1328,35],
-"d3/dd6/structinstance__blackrock__depths.html#a9dc2169c550bcb15f3b4617be8a0e806":[7,0,1328,33],
-"d3/dd6/structinstance__blackrock__depths.html#a9de6fb7f43f4abd0d295e0f9210b99a3":[7,0,1328,18]
+"d3/dd6/structinstance__blackrock__depths.html#a9450ddfaf1c43be4a7d2249117276364":[7,0,1328,41]
 };

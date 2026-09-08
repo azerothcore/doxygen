@@ -1,5 +1,8 @@
 var NAVTREEINDEX246 =
 {
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#ab4f4b11e2b250fb24de6c069c5e38208":[7,0,2232,0,2],
+"d9/d48/CinematicMgr_8cpp.html":[8,0,0,0,1,2,16,7,0],
+"d9/d48/classnpc__torloth__the__magnificent.html":[7,0,2248],
 "d9/d48/classnpc__torloth__the__magnificent.html#a252796a19dcebe210eecb4d9ae150e5d":[7,0,2248,1],
 "d9/d48/classnpc__torloth__the__magnificent.html#a94c206fb75cc6f50c6127908b5b5205f":[7,0,2248,2],
 "d9/d48/classspell__gahzranka__slam.html":[7,0,2999],
@@ -246,8 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d56/structboss__ambassador__flamelash.html#afdf68272e1acd47a8c6e4a0c18f0b6bf":[7,0,390,3],
 "d9/d56/structgo__empowering__blood__orb.html":[7,0,1172],
 "d9/d56/structgo__empowering__blood__orb.html#a19b23d9b9ae467eb5be7fc30b1c2154f":[7,0,1172,5],
-"d9/d56/structgo__empowering__blood__orb.html#a284de01132efc6ed4d865e14ae100bd8":[7,0,1172,3],
-"d9/d56/structgo__empowering__blood__orb.html#a2b176a2b97ebb96e60ed381533cc4ebb":[7,0,1172,1],
-"d9/d56/structgo__empowering__blood__orb.html#a40cf117590ac657c216478cb43725bf5":[7,0,1172,6],
-"d9/d56/structgo__empowering__blood__orb.html#a4d6719a0ba25b25ca61baa7e1785636b":[7,0,1172,0]
+"d9/d56/structgo__empowering__blood__orb.html#a284de01132efc6ed4d865e14ae100bd8":[7,0,1172,3]
 };

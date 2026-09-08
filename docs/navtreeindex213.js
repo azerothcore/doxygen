@@ -1,5 +1,8 @@
 var NAVTREEINDEX213 =
 {
+"d7/daa/LFG_8cpp.html#a9d097d73fe8f096de2098ac74022b643":[8,0,0,0,1,2,15,0,2],
+"d7/daa/LFG_8cpp.html#adc336ffd636b51b0052448739671d46b":[8,0,0,0,1,2,15,0,1],
+"d7/daa/LFG_8cpp.html#aeaebe53b818ad905c96d2cc56c18b7ca":[8,0,0,0,1,2,15,0,0],
 "d7/daa/structnpc__tyrande__whisperwind.html":[7,0,2259],
 "d7/daa/structnpc__tyrande__whisperwind.html#a598bd2dec22715413dcbd7ed6ca3be3c":[7,0,2259,2],
 "d7/daa/structnpc__tyrande__whisperwind.html#a707f6167de4eafc6d81613d0edc29436":[7,0,2259,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX213 =
 "d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f":[7,0,1518,273],
 "d7/db0/classMap.html#aa42c0d09457694f91dc5f29d61ac394c":[7,0,1518,6],
 "d7/db0/classMap.html#aa4a9cf9ea9782b2a748e563420f5b24f":[7,0,1518,79],
-"d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946":[7,0,1518,57],
-"d7/db0/classMap.html#aa6b4598db359095ac0b6b446862c717c":[7,0,1518,184],
-"d7/db0/classMap.html#aa95d8065e23713c2d990a3927e9fe0fc":[7,0,1518,85],
-"d7/db0/classMap.html#aa9b5bb86f1587c7d68dde0f30e022d53":[7,0,1518,211]
+"d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946":[7,0,1518,57]
 };

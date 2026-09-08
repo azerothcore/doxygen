@@ -1,5 +1,8 @@
 var NAVTREEINDEX71 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a64ee4ae15b5c511fe3b002bd8ab2fc10":[8,0,0,0,1,3,10,3,25,3],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a69b7878773c5b06004dba75928e2788a":[8,0,0,0,1,3,10,3,25,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762af122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,10,3,25,5],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a83f17b53adb83655ce7b22f04e03c135":[8,0,0,0,1,3,10,3,24],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a83f17b53adb83655ce7b22f04e03c135a52deb10d7fb29c5ac86b6ad84c17eebd":[8,0,0,0,1,3,10,3,24,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a83f17b53adb83655ce7b22f04e03c135a888353c8f969e659e816a5e81143a68b":[8,0,0,0,1,3,10,3,24,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX71 =
 "d2/d98/structboss__kiljaeden.html#a53f78e51932d98886fadd9422adf96ce":[7,0,589,3],
 "d2/d98/structboss__kiljaeden.html#a573b32098eac346f3f9485eb46792b1b":[7,0,589,0],
 "d2/d98/structboss__kiljaeden.html#a6878b5b88a45f1a5d70d866e9850041d":[7,0,589,14],
-"d2/d98/structboss__kiljaeden.html#a82376e807061529bfd8fb4e52d409acf":[7,0,589,7],
-"d2/d98/structboss__kiljaeden.html#a8e765740602b4f9efddafa5f2bdc8909":[7,0,589,5],
-"d2/d98/structboss__kiljaeden.html#a9ad882dda480a564406628bfde386e57":[7,0,589,1],
-"d2/d98/structboss__kiljaeden.html#aa45b8e5f598f68183b390e3239f0f75c":[7,0,589,11]
+"d2/d98/structboss__kiljaeden.html#a82376e807061529bfd8fb4e52d409acf":[7,0,589,7]
 };

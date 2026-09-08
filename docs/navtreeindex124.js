@@ -1,5 +1,8 @@
 var NAVTREEINDEX124 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a841956620dda1005c6b7d187c9985a71":[8,0,0,0,1,3,5,4,1,3,13,58],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a89ff42ca7c867d9d2f768eb9ae403204":[8,0,0,0,1,3,5,4,1,3,13,83],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8f0530e42084399c8a568ca01ab080f1":[8,0,0,0,1,3,5,4,1,3,13,40],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a928c4af065458759700b304a6fd83a19":[8,0,0,0,1,3,5,4,1,3,13,8],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a92d8d674ef7ad6da1474c7f75c7d6e49":[8,0,0,0,1,3,5,4,1,3,13,71],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a98ab877f4ab2f0226c645e96b7d6f970":[8,0,0,0,1,3,5,4,1,3,13,19],
@@ -223,8 +226,8 @@ var NAVTREEINDEX124 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2715],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2715,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2715,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a9ea722d45efe2ee4eff041e480ff1c79":[7,0,1369,0,1],
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#acdba0cea9bdbe929a30bd2f790a613f9":[7,0,1369,0,9],
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#ad2863bc954ae25a5d96d06db0250cda3":[7,0,1369,0,6],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#ae5f77169c337420852962fe7ddba3006":[7,0,1369,0,3],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#af3ca65eef9902a029f5b836d0b6fd58a":[7,0,1369,0,7],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html":[7,0,1843,0],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a116908f5689d6d75570379f13ed0bd90":[7,0,1843,0,4]
+"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#ae5f77169c337420852962fe7ddba3006":[7,0,1369,0,3]
 };

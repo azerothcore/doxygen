@@ -1,5 +1,8 @@
 var NAVTREEINDEX200 =
 {
+"d7/d44/structnpc__xt__toy__pile.html#ab0924af7ecfd54f1744b11af76ca2834":[7,0,2331,3],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html":[7,0,2959],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html#a393a46618a4e1928b8149e04b4823726":[7,0,2959,4],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#a58e6bae0c4c203c704cfa6cfdd6d560f":[7,0,2959,2],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#a717e3428afd59fa3a5e9916887d88273":[7,0,2959,0],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#ac2ba66696c791d47c7c485aec6028f0b":[7,0,2959,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d46/classAuraEffect.html#af93cf68cd8854d93010663353043e4a2":[7,0,295,209],
 "d7/d46/classAuraEffect.html#af9b15db701d1d804b52a425b23c1e154":[7,0,295,188],
 "d7/d46/classAuraEffect.html#afa9f84f40fa41ddee3d6fb22c8bd3ac4":[7,0,295,135],
-"d7/d46/classAuraEffect.html#afbc68f3158a932f36315f4348dba5914":[7,0,295,68],
-"d7/d46/classAuraEffect.html#afc2f180bb606c2d4f11ae239d3293dbf":[7,0,295,206],
-"d7/d46/classAuraEffect.html#afc337a50bc9fb1f9f8cb4c7dc8d51572":[7,0,295,132],
-"d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee":[7,0,295,14]
+"d7/d46/classAuraEffect.html#afbc68f3158a932f36315f4348dba5914":[7,0,295,68]
 };

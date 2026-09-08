@@ -1,5 +1,8 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#ad5b723c9992445c7e94a7a5d37b34542":[4,1,19,566],
+"d8/d74/classWorldSession.html#ad688c054bde91d1acfa594cd5594ad8d":[4,1,19,82],
+"d8/d74/classWorldSession.html#ad70fa7d984edada0d5f13226f894f939":[4,1,19,57],
 "d8/d74/classWorldSession.html#ad7bfadeca7afc9471cdf437d9dc1f583":[4,1,19,559],
 "d8/d74/classWorldSession.html#ad7da5a511933702628b8e6508f6b1217":[4,1,19,612],
 "d8/d74/classWorldSession.html#ad80ce4ba80b7da5141724479f170384a":[4,1,19,141],
@@ -164,8 +167,8 @@ var NAVTREEINDEX231 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,995,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,995,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,995,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d7e/OutdoorPvPNA_8cpp.html":[8,0,0,0,1,3,6,7],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a03015585e7619177355fefd05f85e1c7":[8,0,0,0,1,3,6,7,2],
 "d8/d7e/OutdoorPvPNA_8cpp.html#a3428675268608e5372767fc629259d5c":[8,0,0,0,1,3,6,7,5],
-"d8/d7e/OutdoorPvPNA_8cpp.html#a37af66c813e135cc11bd1dc663b35697":[8,0,0,0,1,3,6,7,4],
-"d8/d7e/OutdoorPvPNA_8cpp.html#a531a4e8a5291c048ad0f3b0fc64b29d9":[8,0,0,0,1,3,6,7,6],
-"d8/d7e/OutdoorPvPNA_8cpp.html#ab1d33448696056a0951a0c306a511f1e":[8,0,0,0,1,3,6,7,3],
-"d8/d7e/classspell__gen__mirrored__soul.html":[7,0,3096]
+"d8/d7e/OutdoorPvPNA_8cpp.html#a37af66c813e135cc11bd1dc663b35697":[8,0,0,0,1,3,6,7,4]
 };

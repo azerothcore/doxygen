@@ -1,5 +1,8 @@
 var NAVTREEINDEX100 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaf80bb8f1bfc37b91f8d7290547ad7a7":[8,0,0,0,1,2,49,7,0,431],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab04894003b871193e1bd37000df67e72":[8,0,0,0,1,2,49,7,0,136],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab049c01b8a39507684ccf7ccfd0cfff8":[8,0,0,0,1,2,49,7,0,121],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab0c3e3f9dc21f1190d33f933a1aa032f":[8,0,0,0,1,2,49,7,0,97],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab309e98fbeb11d75c619149b67d4b2f4":[8,0,0,0,1,2,49,7,0,66],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab317035a41bc4c288f3500f27b2aca58":[8,0,0,0,1,2,49,7,0,349],
@@ -246,8 +249,5 @@ var NAVTREEINDEX100 =
 "d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a3f98767367564734c9877d1870aac31b":[7,0,2706,2],
 "d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a450460769e0e54e06f1b64b3c63ba0de":[7,0,2706,3],
 "d3/d4b/classboss__eregos.html":[7,0,464],
-"d3/d4b/classboss__eregos.html#a105820f29aa1391d77a56e024c4b5637":[7,0,464,1],
-"d3/d4b/classboss__eregos.html#aee43f0dfee70ab9618c560a27504cb02":[7,0,464,2],
-"d3/d4b/structboss__archimonde.html":[7,0,402],
-"d3/d4b/structboss__archimonde.html#a1e295ff6ae857c7a022acf967afd0de0":[7,0,402,12]
+"d3/d4b/classboss__eregos.html#a105820f29aa1391d77a56e024c4b5637":[7,0,464,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX162 =
 {
+"d5/db9/classSeveredEssenceSpellInfo.html#aad126da206abceb6a66dcda1cbd3b28b":[7,0,2594,3],
+"d5/db9/classSeveredEssenceSpellInfo.html#acfcb10f019ebaf4d2130bcdbc059c7e7":[7,0,2594,1],
+"d5/db9/classSeveredEssenceSpellInfo.html#ae5fc8cb423536f631591d3b72bfd06dd":[7,0,2594,4],
 "d5/db9/classSeveredEssenceSpellInfo.html#ae9fdf89271339b93f306c4aa0871f844":[7,0,2594,2],
 "d5/dba/ArenaTeam_8h.html":[8,0,0,0,1,2,8,6],
 "d5/dba/ArenaTeam_8h.html#a1fcb206499884c4432a2fb3f1bc2e9f8":[8,0,0,0,1,2,8,6,6],
@@ -181,12 +184,12 @@ var NAVTREEINDEX162 =
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,0,107,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,107,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[7,0,0,95,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,107,4],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[7,0,0,95,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,107,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[7,0,0,95,3],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,107,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[7,0,0,95,5],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,107,5],
 "d5/dc0/classspell__marli__transform.html":[7,0,3665],
 "d5/dc0/classspell__marli__transform.html#a56bf9c77cf96b1e34543a59fc2a308b2":[7,0,3665,1],
 "d5/dc0/classspell__marli__transform.html#a92734043e53b5e1ef81fa9b5ccce135e":[7,0,3665,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX162 =
 "d5/dc5/SecretMgr_8cpp.html#a7e7cfdab68c3e6a9600329d157ed30e7":[8,0,0,0,1,4,4,0,2],
 "d5/dc5/classspell__four__horsemen__mark__aura.html":[7,0,2985],
 "d5/dc5/classspell__four__horsemen__mark__aura.html#a5674396828adf4e80102ed2277f1e08a":[7,0,2985,3],
-"d5/dc5/classspell__four__horsemen__mark__aura.html#a72a01dea703436b2a220a9976da60fa6":[7,0,2985,0],
-"d5/dc5/classspell__four__horsemen__mark__aura.html#adb17425258d4fb2c0c464236e15f32d7":[7,0,2985,1],
-"d5/dc5/classspell__four__horsemen__mark__aura.html#af026c126029c68ed8b7c6c1886720e4c":[7,0,2985,2],
-"d5/dc5/classspell__item__light__lamp.html":[7,0,3430]
+"d5/dc5/classspell__four__horsemen__mark__aura.html#a72a01dea703436b2a220a9976da60fa6":[7,0,2985,0]
 };

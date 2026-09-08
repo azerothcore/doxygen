@@ -1,5 +1,8 @@
 var NAVTREEINDEX224 =
 {
+"d8/d31/classnpc__valkyr__shadowguard.html#a8ee90e21499eebf240c57419454c3829":[7,0,2294,1],
+"d8/d31/classnpc__valkyr__shadowguard.html#ad84cb094a17e4fb88d3e883c98ce7f5a":[7,0,2294,2],
+"d8/d31/classspell__item__mad__alchemists__potion.html":[7,0,3436],
 "d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569":[7,0,3436,2],
 "d8/d31/classspell__item__mad__alchemists__potion.html#a73717914aa23764fa16c8a2965798a6a":[7,0,3436,1],
 "d8/d31/classspell__item__mad__alchemists__potion.html#a8127429829afd4b82395a821a4bea19c":[7,0,3436,0],
@@ -76,8 +79,8 @@ var NAVTREEINDEX224 =
 "d8/d35/classspell__q11652__soldier__rescued.html#a693522c8a05e2d86837bf16ef2a777b4":[7,0,3920,2],
 "d8/d35/classspell__q11652__soldier__rescued.html#ae1a2cdf4819859e11d6a70104c6d431a":[7,0,3920,3],
 "d8/d35/classspell__q11652__soldier__rescued.html#ae3af1398dec6d6f5faac8e026a6966df":[7,0,3920,1],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[7,0,0,123],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,0,135],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[7,0,0,123],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[7,0,0,123,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,0,135,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[7,0,0,123,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d37/classspell__hun__bestial__wrath.html#a2a9c657ccffbacfc661c6bb1dc41d9de":[7,0,3246,1],
 "d8/d37/classspell__hun__bestial__wrath.html#a4b34bd5ce9d3e948d6c712d71ed71b2d":[7,0,3246,2],
 "d8/d37/classspell__hun__bestial__wrath.html#ac1bc3f881c31c5ab90785a62a5f5b5ae":[7,0,3246,0],
-"d8/d38/LogOperation_8cpp.html":[8,0,0,0,0,9,15],
-"d8/d38/classspell__sapphiron__frost__explosion.html":[7,0,4061],
-"d8/d38/classspell__sapphiron__frost__explosion.html#a452937a4e95b40366f915213ec475a84":[7,0,4061,1],
-"d8/d38/classspell__sapphiron__frost__explosion.html#a4d5340e7b2e3326ff36b4d61d1faeaa9":[7,0,4061,0]
+"d8/d38/LogOperation_8cpp.html":[8,0,0,0,0,9,15]
 };

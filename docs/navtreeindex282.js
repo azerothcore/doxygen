@@ -1,6 +1,5 @@
 var NAVTREEINDEX282 =
 {
-"da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcb":[8,0,0,0,1,2,16,7,5,87],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba06050e392f96594aa17d23cb85ec5a22":[8,0,0,0,1,2,16,7,5,87,3],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba0e52bd573c6218d6fd8b712f4453f8b9":[8,0,0,0,1,2,16,7,5,87,2],
 "da/dbf/Player_8h.html#aa6b2dcfd7e0c4f62b238241afe792fcba3c65bd9b9ddfef144eee2270448f9326":[8,0,0,0,1,2,16,7,5,87,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX282 =
 "da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#af8998dee977a1ac3ab16077558b8bc1d":[7,0,3759,0],
 "da/dc7/classspell__pal__glyph__of__holy__light__dummy.html#afb9d057bd6b06804ec42b0ff723fd022":[7,0,3759,4],
 "da/dc8/classServerScript.html":[7,0,2592],
-"da/dc8/classServerScript.html#a1f2e87caed202bbcde98e2cb0c8f19c6":[7,0,2592,5]
+"da/dc8/classServerScript.html#a1f2e87caed202bbcde98e2cb0c8f19c6":[7,0,2592,5],
+"da/dc8/classServerScript.html#a22b726d849ee171482ca7d6e0e1e4527":[7,0,2592,4]
 };

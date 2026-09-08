@@ -1,5 +1,8 @@
 var NAVTREEINDEX173 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad1388697854144d327b8463933f39e4d":[8,0,0,0,1,3,5,6,11,36,18],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cad7f8ac76e48c4c06ab845b8ce8c3fa81":[8,0,0,0,1,3,5,6,11,36,34],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caeb9d0d34b45aeb88c7bfbed344b3a080":[8,0,0,0,1,3,5,6,11,36,9],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,6,11,38],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a06a474c29c4ea8b840388135a87bd5fa":[8,0,0,0,1,3,5,6,11,38,4],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2550735cdd6c2765682564e1027f0c6c":[8,0,0,0,1,3,5,6,11,38,0],
@@ -147,16 +150,16 @@ var NAVTREEINDEX173 =
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[7,0,2858,2],
 "d6/d1c/classspell__dk__scent__of__blood__trigger.html#aed547ead2b8822f08eb1530f4b29e2f8":[7,0,2858,1],
 "d6/d1d/classArenaScript.html":[7,0,190],
-"d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[7,0,190,8],
+"d6/d1d/classArenaScript.html#a13b22ad00d3742589532e6e522258834":[7,0,190,9],
 "d6/d1d/classArenaScript.html#a164257b5ed4a0808d709870cdf73ed3b":[7,0,190,3],
-"d6/d1d/classArenaScript.html#a2b46190a3243f2306a74295975dca317":[7,0,190,6],
-"d6/d1d/classArenaScript.html#a353e524bf3e4e8065dafd2df3aad9479":[7,0,190,9],
-"d6/d1d/classArenaScript.html#a548ac21d5bd9be263935a298a3b5cd16":[7,0,190,7],
+"d6/d1d/classArenaScript.html#a2b46190a3243f2306a74295975dca317":[7,0,190,7],
+"d6/d1d/classArenaScript.html#a548ac21d5bd9be263935a298a3b5cd16":[7,0,190,8],
 "d6/d1d/classArenaScript.html#a6ee4251edaae00038858fa340c2c840e":[7,0,190,0],
 "d6/d1d/classArenaScript.html#a73719d3e62d1f7cf1f174292975f0f4f":[7,0,190,2],
+"d6/d1d/classArenaScript.html#a861017e6b667cc6aba182246a3c40329":[7,0,190,5],
 "d6/d1d/classArenaScript.html#aa85728dd471c2f4d58ed1794e741d060":[7,0,190,1],
 "d6/d1d/classArenaScript.html#ab6c90bb55c238fada3e9ddc993333d0d":[7,0,190,4],
-"d6/d1d/classArenaScript.html#ae67b000b16f56309da56f672a9f2b423":[7,0,190,5],
+"d6/d1d/classArenaScript.html#ae67b000b16f56309da56f672a9f2b423":[7,0,190,6],
 "d6/d1d/classnpc__icc__putricades__trap.html":[7,0,1917],
 "d6/d1d/classnpc__icc__putricades__trap.html#a42ab1cb27234ebd10755dbbedce5f187":[7,0,1917,2],
 "d6/d1d/classnpc__icc__putricades__trap.html#ae022f2991fee4143fb965c53e4d4da5c":[7,0,1917,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6":[8,0,0,0,1,2,38,0,28,1,4],
 "d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7":[8,0,0,0,1,2,38,0,28,1,2],
 "d6/d21/WardenWin_8h.html":[8,0,0,0,1,2,47,11],
-"d6/d21/classspell__sha__spirit__hunt.html":[7,0,4120],
-"d6/d21/classspell__sha__spirit__hunt.html#a0e488d9d96e37a20887f0befc1950dd5":[7,0,4120,3],
-"d6/d21/classspell__sha__spirit__hunt.html#a7152aa6ab02938d981ee83875e533b32":[7,0,4120,2],
-"d6/d21/classspell__sha__spirit__hunt.html#ac9df7bea2f626b95291c18c740968da6":[7,0,4120,1]
+"d6/d21/classspell__sha__spirit__hunt.html":[7,0,4120]
 };

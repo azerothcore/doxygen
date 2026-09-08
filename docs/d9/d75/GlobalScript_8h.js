@@ -12,6 +12,7 @@ var GlobalScript_8h =
       [ "GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf", null ],
       [ "GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441", null ],
       [ "GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f", null ],
+      [ "GLOBALHOOK_ON_ARENA_WEEK_RESET", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fa2acc0c2b1e365c74c5485e7da3d57ef1", null ],
       [ "GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1", null ],
       [ "GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6", null ],
       [ "GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b", null ],

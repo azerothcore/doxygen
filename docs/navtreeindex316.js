@@ -1,6 +1,5 @@
 var NAVTREEINDEX316 =
 {
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c":[8,0,0,0,1,2,46,1,0,4],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748":[8,0,0,0,1,2,46,1,0,0],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ae5939466cf9b4fbb63eb136baf62767f":[8,0,0,0,1,2,46,1,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[8,0,0,0,1,2,46,1,5],
@@ -228,10 +227,10 @@ var NAVTREEINDEX316 =
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2328,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[7,0,395],
@@ -249,5 +248,6 @@ var NAVTREEINDEX316 =
 "db/dfe/boss__ayamiss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,8,0,9],
 "db/dfe/boss__ayamiss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a63ef90e5b0bec898c7ea3c77dada536c":[8,0,0,0,1,3,4,8,0,9,1],
 "db/dfe/boss__ayamiss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adef11da557dccd5a91a703247500a4fe":[8,0,0,0,1,3,4,8,0,9,0],
-"db/dfe/boss__ayamiss_8cpp.html#a437c726360a62423faa83c5f778682a7":[8,0,0,0,1,3,4,8,0,15]
+"db/dfe/boss__ayamiss_8cpp.html#a437c726360a62423faa83c5f778682a7":[8,0,0,0,1,3,4,8,0,15],
+"db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,4,8,0,10]
 };

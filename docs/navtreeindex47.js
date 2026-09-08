@@ -1,5 +1,7 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92ac471a8351d0ee9246eae44accefad11c":[8,0,0,0,1,2,16,4,3,6,8],
+"d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92ac57edaeb525761728424f7da88d414c1":[8,0,0,0,1,2,16,4,3,6,1],
 "d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92ad66660853beef2901b4b9f6ca0e1ebd4":[8,0,0,0,1,2,16,4,3,6,6],
 "d1/dd4/Item_8h.html#a3561178c2cb0c7f26665f84ea7f69843":[8,0,0,0,1,2,16,4,3,3],
 "d1/dd4/Item_8h.html#a468d419c5aa228b6604358f9af3f15c6":[8,0,0,0,1,2,16,4,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dda/classspell__festergut__blighted__spores__aura.html#a85be360bb15482ff34b7f1d04d949b1d":[7,0,2975,2],
 "d1/dda/classspell__festergut__blighted__spores__aura.html#ab14e7410cf542d9f4043800a3b86c664":[7,0,2975,3],
 "d1/ddc/classspell__kael__pyroblast.html":[7,0,3526],
-"d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[7,0,3526,0],
-"d1/ddc/classspell__kael__pyroblast.html#a14aafc65b554c0ada5684c46ae1f57c8":[7,0,3526,2],
-"d1/ddc/classspell__kael__pyroblast.html#afa186c0b0728e3462f8984189613f9a7":[7,0,3526,1]
+"d1/ddc/classspell__kael__pyroblast.html#a0b0a4e033a1410a5b0def33cf87c853c":[7,0,3526,0]
 };

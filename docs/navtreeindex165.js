@@ -1,5 +1,8 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,1,1,0,13,1],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7068f2f91b7cdd8c6d55f3038e4bcbcf":[8,0,0,0,1,3,5,1,1,0,13,0],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73dc781d4c23102953ac7a25e40d9ce1":[8,0,0,0,1,3,5,1,1,0,13,13],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7e3b9f2b39a966a6213fb43c59f2028e":[8,0,0,0,1,3,5,1,1,0,13,3],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7ed0b7bde9634116efa6580b7e7093b0":[8,0,0,0,1,3,5,1,1,0,13,10],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,1,1,0,13,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3508,0],
 "d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3508,3],
 "d5/de3/classspell__item__totem__of__flowing__water.html#ad3e4a18ce21270eede17e29faa7dd897":[7,0,3508,2],
-"d5/de3/classspell__item__totem__of__flowing__water.html#af6ca1636d67b2d9f81a8743706ffb800":[7,0,3508,1],
-"d5/de3/classspell__razorscale__firebolt.html":[7,0,4003],
-"d5/de3/classspell__razorscale__firebolt.html#a5b94fde8602f7f00342bd81dc9c8cc11":[7,0,4003,1],
-"d5/de3/classspell__razorscale__firebolt.html#a6d990937a5fd06a877b775f719ba5a9f":[7,0,4003,2]
+"d5/de3/classspell__item__totem__of__flowing__water.html#af6ca1636d67b2d9f81a8743706ffb800":[7,0,3508,1]
 };

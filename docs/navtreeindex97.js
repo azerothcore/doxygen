@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2b6c19d1321094af955678cba4a3d7cf":[8,0,0,0,1,3,5,9,2,13,52,42],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2f17f57ee72712ea502e8cd1341c95df":[8,0,0,0,1,3,5,9,2,13,52,0],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c":[8,0,0,0,1,3,5,9,2,13,52,32],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a30ed59e157c841e06d5ebd657abf6f64":[8,0,0,0,1,3,5,9,2,13,52,25],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a323c6d3bcaaba09e5dae997863c9ded3":[8,0,0,0,1,3,5,9,2,13,52,87],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34750416371c3cfbb458703657b7a711":[8,0,0,0,1,3,5,9,2,13,52,62],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2583,1],
 "d3/d36/BattlegroundUtils_8cpp.html":[8,0,0,0,1,2,8,18],
 "d3/d36/BattlegroundUtils_8cpp.html#a37cb97319fde2ce5eaaef583591063a9":[8,0,0,0,1,2,8,18,0],
-"d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[8,0,0,0,1,2,8,18,1],
-"d3/d36/classnpc__artorius.html":[7,0,1660],
-"d3/d36/classnpc__artorius.html#a2563f90fe1fd35c6bcf3f2296652981d":[7,0,1660,2],
-"d3/d36/classnpc__artorius.html#a2c91fcd777d0e0e7ab4927290ca04359":[7,0,1660,3]
+"d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[8,0,0,0,1,2,8,18,1]
 };

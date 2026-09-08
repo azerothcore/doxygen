@@ -1,5 +1,6 @@
 var NAVTREEINDEX418 =
 {
+"df/da8/MapCollisionData_8h.html":[8,0,0,0,1,2,26,6],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[7,0,2099,0],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[7,0,2099,0,2],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[7,0,2099,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX418 =
 "df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,5,0,0,6,6],
 "df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,5,0,0,6,4],
 "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[7,0,1956,0],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[7,0,1956,0,0],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[7,0,1956,0,1]
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[7,0,1956,0,0]
 };

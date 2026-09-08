@@ -1,6 +1,5 @@
 var NAVTREEINDEX271 =
 {
-"da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3441a24486ec686d42b7320e6f105139":[7,0,1331,0,4],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3492a327f4c0d637fd5701f3997c1887":[7,0,1331,0,15],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3894ce1d0dff79cee2ff0df51d19e1ea":[7,0,1331,0,6],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a50c371edc425191f610a0e8a6b44d2ab":[7,0,1331,0,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX271 =
 "da/d71/classFleeingMovementGenerator.html#a89dd4d270b35e855c268374d8bfc3ebb":[7,0,1085,1],
 "da/d71/classFleeingMovementGenerator.html#aa739940493313028f17d306c1b23da52":[7,0,1085,6],
 "da/d71/classFleeingMovementGenerator.html#ab0e0f55df28f7cbcf108191e1e129634":[7,0,1085,8],
-"da/d71/classFleeingMovementGenerator.html#ad78ed87cc8d2569a2744ef43957ba498":[7,0,1085,5]
+"da/d71/classFleeingMovementGenerator.html#ad78ed87cc8d2569a2744ef43957ba498":[7,0,1085,5],
+"da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7":[7,0,1085,9]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX56 =
 {
+"d2/d31/structnpc__phantom__mage.html#a270f664ad9545f672405d051d1a8932a":[7,0,2082,3],
+"d2/d31/structnpc__phantom__mage.html#a3900181fe1328a3450e2e71bf30abbd7":[7,0,2082,6],
 "d2/d31/structnpc__phantom__mage.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a":[7,0,2082,5],
 "d2/d31/structnpc__phantom__mage.html#a79170c6d6aa434d291e50cd2153ee25a":[7,0,2082,1],
 "d2/d31/structnpc__phantom__mage.html#a8adf87e600eeab3678f369ab48b73927":[7,0,2082,2],
@@ -39,8 +41,8 @@ var NAVTREEINDEX56 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[7,0,3452,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
 "d2/d34/structSpellCone.html":[7,0,4454],
@@ -247,7 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[8,0,0,0,1,3,5,14,76],
 "d2/d38/northrend__script__loader_8cpp.html#a845dd351180fbb326bb015c6e0270840":[8,0,0,0,1,3,5,14,16],
 "d2/d38/northrend__script__loader_8cpp.html#a870aa227d58b1011e55005faae584065":[8,0,0,0,1,3,5,14,86],
-"d2/d38/northrend__script__loader_8cpp.html#a87e445f60f4b39a5f42df070e70f150d":[8,0,0,0,1,3,5,14,119],
-"d2/d38/northrend__script__loader_8cpp.html#a88dfb5e1f3bdbc3644a90d55d5aa6fb1":[8,0,0,0,1,3,5,14,104],
-"d2/d38/northrend__script__loader_8cpp.html#a8a8dca95effdef5c526abbf25caebaa3":[8,0,0,0,1,3,5,14,99]
+"d2/d38/northrend__script__loader_8cpp.html#a87e445f60f4b39a5f42df070e70f150d":[8,0,0,0,1,3,5,14,119]
 };

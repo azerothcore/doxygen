@@ -10,6 +10,7 @@ var classPet =
     [ "_SaveSpells", "df/d14/classPet.html#a62481470d2548378d2ca31c8f8af70d2", null ],
     [ "addSpell", "df/d14/classPet.html#a6ef6bcc790ed519905e1878a25a8cbc6", null ],
     [ "AddToWorld", "df/d14/classPet.html#a3c482ec7706059ac839d59cb54431671", null ],
+    [ "CastPendingSpell", "df/d14/classPet.html#ad3e342db06413b0771a78e4695bad90f", null ],
     [ "CastPetAuras", "df/d14/classPet.html#a462dc421828060d0478ca6a3ae0a2a57", null ],
     [ "CastWhenWillAvailable", "df/d14/classPet.html#ab9c3c5e18aa1585b489fc2d5983284f6", null ],
     [ "CleanupActionBar", "df/d14/classPet.html#a8f56752c756a9a41e647e03712b9466b", null ],

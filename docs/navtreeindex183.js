@@ -1,5 +1,8 @@
 var NAVTREEINDEX183 =
 {
+"d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a5d006fae9f9d39fb5ffa345a83679bf0":[8,0,0,0,1,3,7,15,20,11],
+"d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a778fa3329cf61d166a6168c371359e29":[8,0,0,0,1,3,7,15,20,0],
+"d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a8c1471c1cbdafc84aac25cc6ea9e703f":[8,0,0,0,1,3,7,15,20,6],
 "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a941c2f8289835f0d4d722d36f99771d2":[8,0,0,0,1,3,7,15,20,10],
 "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747ab01073d031c0a97242ef078283d2cbd6":[8,0,0,0,1,3,7,15,20,7],
 "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747ab8d817f19c8a0ee26e791ad4a270d090":[8,0,0,0,1,3,7,15,20,4],
@@ -157,8 +160,8 @@ var NAVTREEINDEX183 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[8,0,0,0,2,2,0,10,12,16],
 "d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[8,0,0,0,2,2,0,10,12,9],
 "d6/d7c/WardenMac_8h.html":[8,0,0,0,1,2,47,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,32],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[7,0,0,20,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,32,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d7f/classUpdateFetcher.html#ad6852ab3a0f89c161bc2ddf581c8b393":[7,0,4628,28],
 "d6/d7f/classUpdateFetcher.html#ad793c30d5c418199250afb3dbc7acfb5":[7,0,4628,12],
 "d6/d7f/classUpdateFetcher.html#ad8dd66f9b12ae37fd657a8983a9ea6a1":[7,0,4628,19],
-"d6/d7f/classUpdateFetcher.html#adace6180bb32614655fb1f99bbf4c1ef":[7,0,4628,15],
-"d6/d7f/classUpdateFetcher.html#adb2996b906800fb0cdb5cf7ae14353d0":[7,0,4628,6],
-"d6/d7f/classUpdateFetcher.html#aea00e99b87bd24fd182676bf79e68c95":[7,0,4628,29],
-"d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[7,0,4628,20]
+"d6/d7f/classUpdateFetcher.html#adace6180bb32614655fb1f99bbf4c1ef":[7,0,4628,15]
 };

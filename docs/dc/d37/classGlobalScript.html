@@ -147,6 +147,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ae76b6676b24c1e33ba7f020e3a9ce3e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a42cbfd8f6c10feb1012b7e5dad67ef84" id="r_a42cbfd8f6c10feb1012b7e5dad67ef84"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d37/classGlobalScript.html#a42cbfd8f6c10feb1012b7e5dad67ef84">OnBeforeUpdateArenaPoints</a> (<a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a> *, std::map&lt; <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &amp;)</td></tr>
 <tr class="separator:a42cbfd8f6c10feb1012b7e5dad67ef84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc45434c7dafd183582163065c279d93" id="r_adc45434c7dafd183582163065c279d93"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d37/classGlobalScript.html#adc45434c7dafd183582163065c279d93">OnArenaWeekReset</a> ()</td></tr>
+<tr class="separator:adc45434c7dafd183582163065c279d93"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad03b87900646cdead06f820e0091d1ff" id="r_ad03b87900646cdead06f820e0091d1ff"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d37/classGlobalScript.html#ad03b87900646cdead06f820e0091d1ff">OnAfterUpdateEncounterState</a> (<a class="el" href="../../d7/db0/classMap.html">Map</a> *, <a class="el" href="../../df/d79/Map_8h.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a>, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>, std::list&lt; <a class="el" href="../../d8/de7/structDungeonEncounter.html">DungeonEncounter</a> const * &gt; const *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, bool)</td></tr>
 <tr class="separator:ad03b87900646cdead06f820e0091d1ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92ebe4fc11cd0d2e0bd87dcd047c4523" id="r_a92ebe4fc11cd0d2e0bd87dcd047c4523"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d37/classGlobalScript.html#a92ebe4fc11cd0d2e0bd87dcd047c4523">OnBeforeWorldObjectSetPhaseMask</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;, bool &amp;, bool &amp;)</td></tr>
@@ -224,21 +226,21 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  148</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a>)</div>
-<div class="line"><span class="lineno">  149</span>{</div>
-<div class="line"><span class="lineno">  150</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">  153</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;GlobalScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">  156</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  153</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a>)</div>
+<div class="line"><span class="lineno">  154</span>{</div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">  156</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">  158</span>            enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;GlobalScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">  161</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
-<div class="ttc" id="aGlobalScript_8h_html_a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a"><div class="ttname"><a href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a></div><div class="ttdeci">@ GLOBALHOOK_END</div><div class="ttdef"><b>Definition</b> GlobalScript.h:50</div></div>
+<div class="ttc" id="aGlobalScript_8h_html_a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a"><div class="ttname"><a href="../../d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a></div><div class="ttdeci">@ GLOBALHOOK_END</div><div class="ttdef"><b>Definition</b> GlobalScript.h:51</div></div>
 <div class="ttc" id="aclassScriptObject_html"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html">ScriptObject</a></div><div class="ttdef"><b>Definition</b> ScriptObject.h:43</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:775</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:776</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00775">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00050">GLOBALHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00776">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00051">GLOBALHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -276,9 +278,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00142">ScriptMgr::AfterInstanceGameObjectCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00147">ScriptMgr::AfterInstanceGameObjectCreate()</a>.</p>
 
 </div>
 </div>
@@ -333,7 +335,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00042">ScriptMgr::OnAfterCalculateLootGroupAmount()</a>.</p>
 
@@ -362,7 +364,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00067">ScriptMgr::OnAfterInitializeLockedDungeons()</a>.</p>
 
@@ -431,7 +433,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00037">ScriptMgr::OnAfterRefCount()</a>.</p>
 
@@ -506,9 +508,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00077">ScriptMgr::OnAfterUpdateEncounterState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00082">ScriptMgr::OnAfterUpdateEncounterState()</a>.</p>
 
 </div>
 </div>
@@ -545,9 +547,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00102">ScriptMgr::OnAllowedForPlayerLootCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00107">ScriptMgr::OnAllowedForPlayerLootCheck()</a>.</p>
 
 </div>
 </div>
@@ -584,9 +586,37 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
+<div class="fragment"><div class="line"><span class="lineno">  100</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00107">ScriptMgr::OnAllowedToLootContainerCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00112">ScriptMgr::OnAllowedToLootContainerCheck()</a>.</p>
+
+</div>
+</div>
+<a id="adc45434c7dafd183582163065c279d93" name="adc45434c7dafd183582163065c279d93"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc45434c7dafd183582163065c279d93">&#9670;&#160;</a></span>OnArenaWeekReset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void GlobalScript::OnArenaWeekReset </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00077">ScriptMgr::OnArenaWeekReset()</a>.</p>
 
 </div>
 </div>
@@ -647,7 +677,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00047">ScriptMgr::OnBeforeDropAddItem()</a>.</p>
 
@@ -698,7 +728,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   69</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00057">ScriptMgr::OnBeforeLootEqualChanced()</a>.</p>
 
@@ -749,9 +779,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  106</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00131">ScriptMgr::OnBeforeSetBossState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00136">ScriptMgr::OnBeforeSetBossState()</a>.</p>
 
 </div>
 </div>
@@ -788,7 +818,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00072">ScriptMgr::OnBeforeUpdateArenaPoints()</a>.</p>
 
@@ -845,9 +875,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00082">ScriptMgr::OnBeforeWorldObjectSetPhaseMask()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00087">ScriptMgr::OnBeforeWorldObjectSetPhaseMask()</a>.</p>
 
 </div>
 </div>
@@ -896,7 +926,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00062">ScriptMgr::OnInitializeLockedDungeons()</a>.</p>
 
@@ -925,9 +955,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  103</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00117">ScriptMgr::OnInstanceIdRemoved()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00122">ScriptMgr::OnInstanceIdRemoved()</a>.</p>
 
 </div>
 </div>
@@ -970,9 +1000,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; };</div>
+<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00087">ScriptMgr::OnIsAffectedBySpellModCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ScriptMgr::OnIsAffectedBySpellModCheck()</a>.</p>
 
 </div>
 </div>
@@ -1009,7 +1039,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00024">ScriptMgr::OnGlobalItemDelFromDB()</a>.</p>
 
@@ -1066,7 +1096,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; };</div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; };</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00052">ScriptMgr::OnItemRoll()</a>.</p>
 
@@ -1095,9 +1125,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00097">ScriptMgr::OnLoadSpellCustomAttr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00102">ScriptMgr::OnLoadSpellCustomAttr()</a>.</p>
 
 </div>
 </div>
@@ -1134,7 +1164,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00032">ScriptMgr::OnGlobalMirrorImageDisplayItem()</a>.</p>
 
@@ -1185,9 +1215,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; };</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ScriptMgr::OnSpellHealingBonusTakenNegativeModifiers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00097">ScriptMgr::OnSpellHealingBonusTakenNegativeModifiers()</a>.</p>
 
 </div>
 </div>
@@ -1201,7 +1231,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d37/classGlobalScript.html">GlobalScript</a></li>
-    <li class="footer">Generated on Mon Sep 7 2026 11:23:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Sep 8 2026 10:29:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

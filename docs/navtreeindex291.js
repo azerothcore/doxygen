@@ -1,6 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/d23/IVMapMgr_8h.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165":[8,0,0,0,0,1,0,0,7,2],
 "db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316":[8,0,0,0,0,1,0,0,4],
 "db/d23/classspell__mimiron__rocket__strike.html":[7,0,3684],
 "db/d23/classspell__mimiron__rocket__strike.html#a16f739f70b052f71293846903aab8fdd":[7,0,3684,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX291 =
 "db/d35/structGraveyardStruct.html#af2e239c4c76dff49090f8f1d8eb4d455":[7,0,1251,5],
 "db/d35/structGraveyardStruct.html#af4e60380e8434e5b8f573d2172ddf656":[7,0,1251,1],
 "db/d36/OutdoorPvPMgr_8h.html":[8,0,0,0,1,2,32,3],
-"db/d36/OutdoorPvPMgr_8h.html#a7f16e829e6dd717c8a6a20fd1aa783cc":[8,0,0,0,1,2,32,3,3]
+"db/d36/OutdoorPvPMgr_8h.html#a7f16e829e6dd717c8a6a20fd1aa783cc":[8,0,0,0,1,2,32,3,3],
+"db/d36/OutdoorPvPMgr_8h.html#af3942e94a2b618e59d9a607df883023b":[8,0,0,0,1,2,32,3,2]
 };

@@ -246,8 +246,8 @@ var NAVTREEINDEX400 =
 "de/df6/TC9Sidecar_8h.html":[8,0,0,0,1,2,42,8],
 "de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb":[8,0,0,0,1,2,42,8,2],
 "de/df6/TC9Sidecar_8h.html#a913ea4496407eed4f786059d99f61b95":[8,0,0,0,1,2,42,8,1],
-"de/df7/classWorldPackets_1_1Packet.html":[7,0,13,25],
 "de/df7/classWorldPackets_1_1Packet.html":[5,0,34,25],
+"de/df7/classWorldPackets_1_1Packet.html":[7,0,13,25],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,34,25,2],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[7,0,13,25,2]
 };

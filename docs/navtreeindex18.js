@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"d0/db7/classGroup.html#a90ca71517a5b2b0d97a68a536890f5b1":[7,0,1261,51],
+"d0/db7/classGroup.html#a97cd83cdf6de49725ad1675061c650a7":[7,0,1261,59],
 "d0/db7/classGroup.html#a98838ea79e25a97479508e20c1457ec1":[7,0,1261,24],
 "d0/db7/classGroup.html#a98b4ff31721bfb0909677328acb168a7":[7,0,1261,98],
 "d0/db7/classGroup.html#a9a193907190ab4b2a1866a755cad882e":[7,0,1261,50],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6b942156061240615506e184a65fc179":[8,0,0,0,1,3,2,7,2,3,0],
 "d0/dbc/boss__kormok_8cpp.html#af7d03eb78c1077802718200368e8028e":[8,0,0,0,1,3,2,7,2,7],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[7,0,0,1,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[5,0,0,2,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[5,0,0,2,2,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[7,0,0,1,2,2]
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[5,0,0,2,2]
 };

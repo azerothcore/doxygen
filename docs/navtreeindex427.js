@@ -1,5 +1,6 @@
 var NAVTREEINDEX427 =
 {
+"df/de7/classOutdoorPvPTF.html#a4836d80df43fb3af7f3c0fd76cbaf20b":[7,0,2394,19],
 "df/de7/classOutdoorPvPTF.html#a50576e4a5957a45205341bcb503f045b":[7,0,2394,18],
 "df/de7/classOutdoorPvPTF.html#a531956513de1703c5017193cd6d5f04b":[7,0,2394,6],
 "df/de7/classOutdoorPvPTF.html#a54856e667989fda0c208783691acb3f5":[7,0,2394,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX427 =
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a78b0d391090e9d2424da315bf1f696e9":[7,0,419,0,2],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a7a6f58a3af0e9b2bf4665f6ab161cf88":[7,0,419,0,11],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a7a74b7241f0ff736bdff7088ee384695":[7,0,419,0,14],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a8a4d21d7ab9ad827c88a7869000c3628":[7,0,419,0,18],
-"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ab28467f9b11a87162dae0306a1f2fb20":[7,0,419,0,0]
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a8a4d21d7ab9ad827c88a7869000c3628":[7,0,419,0,18]
 };

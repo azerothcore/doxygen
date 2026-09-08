@@ -1,5 +1,7 @@
 var NAVTREEINDEX38 =
 {
+"d1/d88/structboss__onyxia.html#a424a1815a0f51097c184f7582f1b2f45":[7,0,661,7],
+"d1/d88/structboss__onyxia.html#a4278354db54db2190f8e5639d51f180e":[7,0,661,1],
 "d1/d88/structboss__onyxia.html#a529d07414467a41b67ec9e79ded31810":[7,0,661,0],
 "d1/d88/structboss__onyxia.html#a53c242fdf9037ad3fb2309b180c9ce7c":[7,0,661,4],
 "d1/d88/structboss__onyxia.html#a7b0df8fb7524d223c14f360c2eb9e282":[7,0,661,10],
@@ -50,8 +52,8 @@ var NAVTREEINDEX38 =
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a02ddadcc871a8c3f80e10a58e245933e":[7,0,0,91,2],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[5,0,0,103,1],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[7,0,0,91,1],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,103,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,91,4],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,103,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#aa383d969e3df0f3af7f2740d271dc376":[5,0,0,103,3],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#aa383d969e3df0f3af7f2740d271dc376":[7,0,0,91,3],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#ae373bee24a50a7eda232b51769c042aa":[5,0,0,103,5],
@@ -60,12 +62,12 @@ var NAVTREEINDEX38 =
 "d1/d8b/structLeechingThrowSelector.html#a22a123333a8fbd50ccd4c37afe28d2f0":[7,0,1447,2],
 "d1/d8b/structLeechingThrowSelector.html#a4308c7be06e2e70d3a269b6dc78420cb":[7,0,1447,0],
 "d1/d8b/structLeechingThrowSelector.html#a76c7746a9b0aee52201881c4d9572bde":[7,0,1447,1],
-"d1/d8c/structMovement_1_1CommonInitializer.html":[7,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html":[5,0,21,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html":[7,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[5,0,21,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[7,0,7,0,2],
-"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[7,0,7,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,21,0,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[7,0,7,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,21,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[7,0,7,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,21,0,3],
@@ -226,9 +228,9 @@ var NAVTREEINDEX38 =
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214ba":[8,0,0,0,1,2,38,0,26,1],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0":[8,0,0,0,1,2,38,0,26,1,0],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58":[8,0,0,0,1,2,38,0,26,1,8],
+"d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa64231f9346550b7461f8f19765a39e2d":[8,0,0,0,1,2,38,0,26,1,7],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657":[8,0,0,0,1,2,38,0,26,1,2],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e":[8,0,0,0,1,2,38,0,26,1,3],
-"d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa9e73148fd32bc3b7d3bcaa1ca3571f68":[8,0,0,0,1,2,38,0,26,1,7],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588":[8,0,0,0,1,2,38,0,26,1,1],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09":[8,0,0,0,1,2,38,0,26,1,4],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7":[8,0,0,0,1,2,38,0,26,1,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX38 =
 "d1/d94/classspell__sha__mana__spring__totem.html#a619dab878b3d6e332a15d772dd148e26":[7,0,4114,2],
 "d1/d94/classspell__sha__mana__spring__totem.html#a6990bc24605167d38772f391aa2a5376":[7,0,4114,0],
 "d1/d94/classspell__sha__mana__spring__totem.html#af85da0790eb36b91266ffa45888068d6":[7,0,4114,1],
-"d1/d94/structnpc__cairne__bloodhoof_1_1npc__cairne__bloodhoofAI.html":[7,0,1715,0],
-"d1/d94/structnpc__cairne__bloodhoof_1_1npc__cairne__bloodhoofAI.html#a2efb1949abe83dadf62b5c868ae57fe2":[7,0,1715,0,5],
-"d1/d94/structnpc__cairne__bloodhoof_1_1npc__cairne__bloodhoofAI.html#a6bdca667875353db2badc40fd95a1ce4":[7,0,1715,0,8]
+"d1/d94/structnpc__cairne__bloodhoof_1_1npc__cairne__bloodhoofAI.html":[7,0,1715,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX420 =
 {
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[7,0,1195,0,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#adf185ee702e9e74f65204b90786f9eb4":[7,0,1195,0,1],
 "df/dc8/structnpc__onyxian__lair__guard.html":[7,0,2046],
 "df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[7,0,2046,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX420 =
 "df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[7,0,3232,1],
 "df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[7,0,3232,2],
 "df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[7,0,3232,0],
-"df/dd9/classUnit.html":[7,0,4618],
-"df/dd9/classUnit.html#a000570a88dd253d3746e6ff5ac1c918b":[7,0,4618,410]
+"df/dd9/classUnit.html":[7,0,4618]
 };

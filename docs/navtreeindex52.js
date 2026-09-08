@@ -1,5 +1,7 @@
 var NAVTREEINDEX52 =
 {
+"d2/d0f/structVehicleAI.html#aeb8d08eeea0ac12a72ff5dbaf40e9835":[7,0,4640,0],
+"d2/d0f/structVehicleAI.html#afcee52b5173ec8b9850da63c1d58cded":[7,0,4640,2],
 "d2/d10/classCastQuill.html":[7,0,860],
 "d2/d10/classCastQuill.html#a26a971a575e4b9503cd1da73d43ebd1e":[7,0,860,1],
 "d2/d10/classCastQuill.html#a923234809186bcbdf02457f4be095519":[7,0,860,0],
@@ -67,12 +69,12 @@ var NAVTREEINDEX52 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[7,0,2222,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[7,0,2222,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[7,0,2222,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[7,0,13,10,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,34,10,2,1],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,34,10,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[7,0,13,10,2,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,34,10,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,34,10,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[7,0,13,10,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,34,10,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,34,10,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[7,0,13,10,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[7,0,13,10,2,0],
@@ -121,12 +123,12 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,299,1,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,3],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,3,1],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,3,0],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[7,0,0,4,0,3,0],
 "d2/d19/structAuthHandler.html":[7,0,309],
 "d2/d19/structAuthHandler.html#a8074991652af9e5c8752dd4ff5e6e6cc":[7,0,309,0],
 "d2/d19/structAuthHandler.html#a952f7f7ff3017efa4c3d127baa848785":[7,0,309,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1d/structMapEntry.html#a4e9a18b9335b79bb079b5255d24dd6d7":[7,0,1527,6],
 "d2/d1d/structMapEntry.html#a617a23fd33a5853f20a7b1cbda6f6e3a":[7,0,1527,17],
 "d2/d1d/structMapEntry.html#a6b2df07886f44e0ed0b0442c7f392fd2":[7,0,1527,11],
-"d2/d1d/structMapEntry.html#a6bf547a0414908596a7b37db8bd36719":[7,0,1527,19],
-"d2/d1d/structMapEntry.html#a91e885a7b5d19824156187fb749f449b":[7,0,1527,22],
-"d2/d1d/structMapEntry.html#a9946bfab35c05fcc85dc1c60d7614ec5":[7,0,1527,5]
+"d2/d1d/structMapEntry.html#a6bf547a0414908596a7b37db8bd36719":[7,0,1527,19]
 };

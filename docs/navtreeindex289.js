@@ -1,6 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[7,0,4446,1],
 "db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[7,0,4446,0],
 "db/d0f/structnpc__ahune__bunny.html":[7,0,1619],
 "db/d0f/structnpc__ahune__bunny.html#a15fdcc2fda18e118f398ccc055f52942":[7,0,1619,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX289 =
 "db/d17/classCharacterCreateInfo.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e":[4,1,14,12],
 "db/d17/classCharacterCreateInfo.html#a15baddc70b46d48bd9f128e73aaac606":[4,1,14,10],
 "db/d17/classCharacterCreateInfo.html#a41e354593f59bc8546688a37c2a5e504":[4,1,14,3],
-"db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9]
+"db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9],
+"db/d17/classCharacterCreateInfo.html#a5a88b2c2556dd1239c417ea4fcc55287":[4,1,14,5]
 };

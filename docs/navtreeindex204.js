@@ -1,13 +1,16 @@
 var NAVTREEINDEX204 =
 {
+"d7/d7d/classnpc__pet__trainer.html":[7,0,2079],
+"d7/d7d/classnpc__pet__trainer.html#a4ecf9ac0abf43a00dc6bff2d2283eb37":[7,0,2079,2],
+"d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[7,0,2079,1],
 "d7/d7e/CreatureScript_8cpp.html":[8,0,0,0,1,2,38,0,41],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[8,0,0,0,1,2,38,0,41,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[7,0,13,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[7,0,13,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[7,0,13,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[7,0,13,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[7,0,13,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[7,0,13,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d8f/boss__loatheb_8cpp.html":[8,0,0,0,1,3,5,7,8],
 "d7/d8f/boss__loatheb_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[8,0,0,0,1,3,5,7,8,5],
 "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,8,3],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca18455dbfc5454ddc2d6528de7c6960af":[8,0,0,0,1,3,5,7,8,3,3],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca9038f4cc50f0a54f2d2459b7693f7926":[8,0,0,0,1,3,5,7,8,3,1],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca95ecacd46588aabd8108dfad886e51f2":[8,0,0,0,1,3,5,7,8,3,2],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298cab772eb1076b88dddc73db9d9cf89f0cd":[8,0,0,0,1,3,5,7,8,3,0]
+"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca18455dbfc5454ddc2d6528de7c6960af":[8,0,0,0,1,3,5,7,8,3,3]
 };

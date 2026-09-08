@@ -1,5 +1,8 @@
 var NAVTREEINDEX109 =
 {
+"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a7a62cf4dea814047abe9c4976c5332d8":[8,0,0,0,1,2,8,1,17,3,4],
+"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a8f6b8a2367f6ac3a20072f3ba8c9a086":[8,0,0,0,1,2,8,1,17,3,12],
+"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436abb499da8fbad32b04f1e4f58c41c3626":[8,0,0,0,1,2,8,1,17,3,9],
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436abc7c897e3b2b98567ca3bb2fb6479613":[8,0,0,0,1,2,8,1,17,3,10],
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436acd2d36c88c323a70c215211b46817c2f":[8,0,0,0,1,2,8,1,17,3,0],
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436ad57f0a28806c289aafbe47a03ad72ac0":[8,0,0,0,1,2,8,1,17,3,1],
@@ -31,8 +34,8 @@ var NAVTREEINDEX109 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3107,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3107,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3107,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,205],
@@ -246,8 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dae/structnpc__apothecary__frye.html#ab1dc310e90c591b44ce4d5bcf1bac930":[7,0,1651,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,34,10,17],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[7,0,13,10,17],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,34,10,17,3],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[7,0,13,10,17,3],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,34,10,17,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[7,0,13,10,17,1]
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,34,10,17,3]
 };

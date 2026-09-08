@@ -1,5 +1,8 @@
 var NAVTREEINDEX221 =
 {
+"d7/dff/structDynamicTreeIntersectionCallback.html#a1805d508be79660d90f991e4453c2c9a":[7,0,1032,3],
+"d7/dff/structDynamicTreeIntersectionCallback.html#a52e7470145db9cc4c2369024fbf7bbb8":[7,0,1032,5],
+"d7/dff/structDynamicTreeIntersectionCallback.html#a616d15c3cce00574d604591bc8af4140":[7,0,1032,1],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a6235d0b9a1ebff77e0d16c90a9fb9b36":[7,0,1032,2],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a6559c66c8451c32078187a1c43b3a85e":[7,0,1032,4],
 "d7/dff/structDynamicTreeIntersectionCallback.html#a77d71c68e20f4d19059317b307c27441":[7,0,1032,0],
@@ -89,12 +92,12 @@ var NAVTREEINDEX221 =
 "d8/d03/structDungeonEncounterEntry.html#a61c1ac724c8eb96907d2ea9402a8f9ce":[7,0,1025,4],
 "d8/d03/structDungeonEncounterEntry.html#aa9828ccc644a11f9cb35fbcc7d31a827":[7,0,1025,3],
 "d8/d03/structDungeonEncounterEntry.html#af4f26f56526b945e392ddaf6b2d43fa1":[7,0,1025,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,0,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[7,0,0,4,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,0,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[7,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,0,7,0,7,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,0,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[7,0,0,4,0,7,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,0,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[7,0,0,4,0,7,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,0,7,0,7,0],
 "d8/d05/RASession_8h.html":[8,0,0,0,1,0,1,3,1],
@@ -217,10 +220,10 @@ var NAVTREEINDEX221 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[8,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[7,0,11,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[7,0,11,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[7,0,11,0,1,3],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[7,0,11,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[7,0,11,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,31,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[7,0,11,0,1,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac98fdfb490fa896cecb40ae427f4ea75":[8,0,0,0,1,3,2,11,0,7,3],
 "d8/d11/boss__brutallus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0a5ce28f9a4f81727db1b5e521ca9f8":[8,0,0,0,1,3,2,11,0,7,2],
 "d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[8,0,0,0,1,3,2,11,0,8],
-"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca0ec13a75093f46a55544f192e307c7df":[8,0,0,0,1,3,2,11,0,8,0],
-"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca1a97163364826a65825f8e71976362c8":[8,0,0,0,1,3,2,11,0,8,1],
-"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca7e923c7c2a4e3e70d9642e27e1ea7d2d":[8,0,0,0,1,3,2,11,0,8,5],
-"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463caaff7201ebe3a2de7322accea1f9266f6":[8,0,0,0,1,3,2,11,0,8,6]
+"d8/d11/boss__brutallus_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca0ec13a75093f46a55544f192e307c7df":[8,0,0,0,1,3,2,11,0,8,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX197 =
 {
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acebc7ccb891364a3963896b971f23eb7":[8,0,0,0,1,3,2,1,3,9,2,0],
+"d7/d22/classGossipMenu.html":[7,0,1241],
+"d7/d22/classGossipMenu.html#a02393cb3a0a3b9cf3ccfc788479bd1ca":[7,0,1241,6],
 "d7/d22/classGossipMenu.html#a0dd173ce7a9995c9bac5080e53d78b07":[7,0,1241,18],
 "d7/d22/classGossipMenu.html#a143ee125ba5709c1a3f5fb75fb9ade1c":[7,0,1241,12],
 "d7/d22/classGossipMenu.html#a258217dfb85114323231ded153b0099d":[7,0,1241,23],
@@ -196,18 +199,18 @@ var NAVTREEINDEX197 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[8,0,0,0,1,3,2,1,0,1,6,14],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[7,0,13,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[7,0,13,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[7,0,13,6,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[7,0,13,6,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[7,0,13,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[7,0,13,6,47,0],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[7,0,13,6,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[7,0,13,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[7,0,13,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,34,6,47,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d27/structboss__kologarn.html#a5ecb293f05940091d3c824025d474bd3":[7,0,591,16],
 "d7/d27/structboss__kologarn.html#a658921f3049414613e5b2245d6137c61":[7,0,591,14],
 "d7/d27/structboss__kologarn.html#a660ae775be9cf6c5e506a31d97c720fa":[7,0,591,20],
-"d7/d27/structboss__kologarn.html#a6638cf2efb62d2a2b861e78e360554f3":[7,0,591,8],
-"d7/d27/structboss__kologarn.html#a74183a296b722f14ff6d06751733f425":[7,0,591,1],
-"d7/d27/structboss__kologarn.html#a785ca1b78ef1c04b3c1d5f0b243b99d9":[7,0,591,0],
-"d7/d27/structboss__kologarn.html#a78f85fbbf7da9a6b8dd78859ec727bf5":[7,0,591,4]
+"d7/d27/structboss__kologarn.html#a6638cf2efb62d2a2b861e78e360554f3":[7,0,591,8]
 };

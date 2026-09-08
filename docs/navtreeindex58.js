@@ -1,5 +1,7 @@
 var NAVTREEINDEX58 =
 {
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af0934839b977ffdaee8d2049e2fd7ea9":[7,0,1386,0,51],
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af15c9db333a539ba7dc0cfe2225b527f":[7,0,1386,0,18],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af2ecec115ad745e5a064417c92906f3c":[7,0,1386,0,38],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af34a38e133bdad4dd5574a02fdcfc184":[7,0,1386,0,26],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af8f04df04aaf30fe62dd2f0ce7f41426":[7,0,1386,0,11],
@@ -208,8 +210,8 @@ var NAVTREEINDEX58 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[7,0,1063,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[7,0,1063,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[7,0,1063,6],
-"d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
 "d2/d49/structAcore_1_1find__type__if.html":[7,0,0,51],
+"d2/d49/structAcore_1_1find__type__if.html":[5,0,0,63],
 "d2/d4a/classinstance__zulaman.html":[7,0,1394],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[7,0,1394,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[7,0,1394,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a06380d627aa5fee572465587fbdd53e4":[7,0,2434,1067],
 "d2/d4b/classPlayer.html#a066f6c8e45649b3627e7f88d99e6b350":[7,0,2434,1073],
 "d2/d4b/classPlayer.html#a06cd820961fe07e87607b0d975dbe0c3":[7,0,2434,833],
-"d2/d4b/classPlayer.html#a06df9524620fd5e4cac350d385e641b7":[7,0,2434,757],
-"d2/d4b/classPlayer.html#a07349c209dcfece0b679a0a4d762eb98":[7,0,2434,1317],
-"d2/d4b/classPlayer.html#a076fb952331e730a803764e116a8a03a":[7,0,2434,1048]
+"d2/d4b/classPlayer.html#a06df9524620fd5e4cac350d385e641b7":[7,0,2434,757]
 };

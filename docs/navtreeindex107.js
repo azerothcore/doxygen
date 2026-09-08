@@ -1,5 +1,8 @@
 var NAVTREEINDEX107 =
 {
+"d3/d93/classPathGenerator.html#af899ff75492f319fc08a385e852c6b3e":[7,0,2413,41],
+"d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[7,0,2413,13],
+"d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[7,0,2413,45],
 "d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[7,0,2413,8],
 "d3/d96/classspell__rotface__mutated__infection.html":[7,0,4055],
 "d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[7,0,4055,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88":[8,0,0,0,1,3,7,3,1,5,23],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526":[8,0,0,0,1,3,7,3,1,5,15],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327":[8,0,0,0,1,3,7,3,1,5,2],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58":[8,0,0,0,1,3,7,3,1,5,10],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,3,1,5,3],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7":[8,0,0,0,1,3,7,3,1,5,21],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e":[8,0,0,0,1,3,7,3,1,5,5]
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58":[8,0,0,0,1,3,7,3,1,5,10]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX288 =
 {
-"da/dff/classspell__q2203__thaumaturgy__channel.html#a9378252b6711cc0bec3e63efce026495":[7,0,3981,3],
 "da/dff/classspell__q2203__thaumaturgy__channel.html#ac3741617faacf83a707f1359aab1886e":[7,0,3981,2],
 "da/dff/classspell__sha__imp__water__shield.html":[7,0,4104],
 "da/dff/classspell__sha__imp__water__shield.html#a982264a8ea20344b66269a3edd814db7":[7,0,4104,0],
@@ -64,14 +63,14 @@ var NAVTREEINDEX288 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[8,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[8,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[8,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[7,0,0,93,3],
 "db/d03/classspell__gen__model__visible.html":[7,0,3098],
@@ -249,5 +248,6 @@ var NAVTREEINDEX288 =
 "db/d0d/classspell__gen__disabled__above__63.html#a9e54ae3e90ee8bf0fab966a497f761b3":[7,0,3055,0],
 "db/d0e/classspell__zuljin__zap.html":[7,0,4446],
 "db/d0e/classspell__zuljin__zap.html#a2f5d255de09818203e498c0090bdd3fb":[7,0,4446,2],
-"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[7,0,4446,3]
+"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[7,0,4446,3],
+"db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[7,0,4446,1]
 };

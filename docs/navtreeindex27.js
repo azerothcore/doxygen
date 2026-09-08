@@ -1,5 +1,7 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/classSpell.html#adebb4d624890184a3960d6edcb25eca2":[7,0,2635,247],
+"d1/d16/classSpell.html#adedc2349e92848ab5bd8508d44c0bcae":[7,0,2635,101],
 "d1/d16/classSpell.html#adf73d7635455658b3a96095e59e20d68":[7,0,2635,273],
 "d1/d16/classSpell.html#ae0145f14c4a608000c5b928e9cb4e099":[7,0,2635,254],
 "d1/d16/classSpell.html#ae1d3075f42cccfa27b9ea322c2b7b44d":[7,0,2635,61],
@@ -81,10 +83,10 @@ var NAVTREEINDEX27 =
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1b/structMmapTileHeader.html#a6ca977b85a993eb6721e3bfe9fd3abfd":[7,0,1557,4],
 "d1/d1b/structMmapTileHeader.html#ace0ec88460c97f1438de2d0e6a9d7774":[7,0,1557,2],
 "d1/d1b/structMmapTileHeader.html#aeb4e622161a4bb42cff42d37542f0254":[7,0,1557,7],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html":[7,0,1394,0],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a070925eb76b8af866819844411da1beb":[7,0,1394,0,4],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1623080f2466aeca03f048decc34bdb5":[7,0,1394,0,10]
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html":[7,0,1394,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9eca":[8,0,0,0,1,3,9,2,170],
+"d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa05c3d1c27810fa1cd65e10490a0ce0dc":[8,0,0,0,1,3,9,2,170,3],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa1bd5887729091e38a32ba156bce58ce9":[8,0,0,0,1,3,9,2,170,5],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa31e2678991cd9cd181253d54dd085710":[8,0,0,0,1,3,9,2,170,8],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa4604b873be2e190457ebd14e13aeffea":[8,0,0,0,1,3,9,2,170,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[7,0,2096,0,5],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a44460335986bcedf35dc295c242df6da":[7,0,2096,0,7],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a51769d22a4cb448fae90d827e2494581":[7,0,2096,0,0],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a6c4d82c46547bbb2f86dd7f9fa88c743":[7,0,2096,0,3],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a8f8bbb06c50215c90cf11ddbc925ba5d":[7,0,2096,0,2],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#ac0d1550855988fe6f562e8a0a6ada80f":[7,0,2096,0,1]
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a6c4d82c46547bbb2f86dd7f9fa88c743":[7,0,2096,0,3]
 };

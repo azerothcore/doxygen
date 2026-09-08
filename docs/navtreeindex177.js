@@ -1,5 +1,8 @@
 var NAVTREEINDEX177 =
 {
+"d6/d38/classChatHandler.html#a93c66f4db98f9fa0e8f09445f36acdac":[7,0,891,18],
+"d6/d38/classChatHandler.html#a951840fcd02a7b80eba052ff0639aad9":[7,0,891,20],
+"d6/d38/classChatHandler.html#a9819eb4f3d8aecfe12d794fe87c811f4":[7,0,891,13],
 "d6/d38/classChatHandler.html#a9eb9fd8a86753697f7b978b80b6d7a7f":[7,0,891,52],
 "d6/d38/classChatHandler.html#aa6ba050fe60067fcfb5fe02b4f2d5530":[7,0,891,24],
 "d6/d38/classChatHandler.html#aaabf84568161763e66bf375c14f100c5":[7,0,891,69],
@@ -246,8 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc":[7,0,4672,15],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a3647a0939dc194bcb19df468b27bc531":[7,0,4672,12],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79":[7,0,4672,9],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a40e51e600c2e50fc3f0f51a7f9d801ac":[7,0,4672,1],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d":[7,0,4672,28],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582":[7,0,4672,27],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a593c784ebcca7f8c431df4573fa874c6":[7,0,4672,2]
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a40e51e600c2e50fc3f0f51a7f9d801ac":[7,0,4672,1]
 };

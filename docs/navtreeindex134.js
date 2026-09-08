@@ -1,5 +1,8 @@
 var NAVTREEINDEX134 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,2,1,1,48,6],
+"d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a1e430a06e27041177b6695016a4df3f8":[8,0,0,0,1,3,5,2,1,1,48,7],
+"d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a361e156e4e2b1aab5b2a522871b5abdb":[8,0,0,0,1,3,5,2,1,1,48,4],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a3afb459a719cb129b98a146ade206c97":[8,0,0,0,1,3,5,2,1,1,48,0],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,5,2,1,1,48,2],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1ab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,5,2,1,1,48,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX134 =
 "d4/d89/classspell__item__necrotic__touch.html":[7,0,3451],
 "d4/d89/classspell__item__necrotic__touch.html#a1d45afc30c8dd6de0a01285778117033":[7,0,3451,1],
 "d4/d89/classspell__item__necrotic__touch.html#a2e83dd62bfcbe23e38b62e8299a52ee5":[7,0,3451,0],
-"d4/d89/classspell__item__necrotic__touch.html#a30e57e0b04e16a4a232c6a18801fafa0":[7,0,3451,4],
-"d4/d89/classspell__item__necrotic__touch.html#a37700b8597a3945d30700c5e8b60404a":[7,0,3451,3],
-"d4/d89/classspell__item__necrotic__touch.html#ab468329029c4bc3c16475585b3451615":[7,0,3451,2],
-"d4/d8a/classBigNumber.html":[7,0,374]
+"d4/d89/classspell__item__necrotic__touch.html#a30e57e0b04e16a4a232c6a18801fafa0":[7,0,3451,4]
 };

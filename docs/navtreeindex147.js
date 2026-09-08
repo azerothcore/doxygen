@@ -1,5 +1,8 @@
 var NAVTREEINDEX147 =
 {
+"d5/d17/structnpc__love__in__air__snivel__real.html":[7,0,1987],
+"d5/d17/structnpc__love__in__air__snivel__real.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028":[7,0,1987,1],
+"d5/d17/structnpc__love__in__air__snivel__real.html#a22ed25da8fe3441ef0e4183390983f40":[7,0,1987,2],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a3bbee1ff355581772b337268775b8fbc":[7,0,1987,4],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a9f5b36d35ced9eb27375ca13fcfbc55d":[7,0,1987,0],
 "d5/d17/structnpc__love__in__air__snivel__real.html#ab1685b1ee34c81c689af3c3466b185f0":[7,0,1987,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8":[7,0,2575,7],
 "d5/d23/classScriptRegistry.html#abf04ad36ed630be4499f0be2d53016a9":[7,0,2575,4],
 "d5/d23/classScriptRegistry.html#ac0554c5200368592f5d0bfb1025935fe":[7,0,2575,5],
-"d5/d23/classScriptRegistry.html#ac67b828a489c483ceaaa745b2dd7ef57":[7,0,2575,12],
-"d5/d23/classScriptRegistry.html#ac9d98df16d3857ca556acda331064063":[7,0,2575,0],
-"d5/d23/classScriptRegistry.html#ad1fcde41ec854314c5e1cc50b916ac5d":[7,0,2575,3],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html":[7,0,3092]
+"d5/d23/classScriptRegistry.html#ac67b828a489c483ceaaa745b2dd7ef57":[7,0,2575,12]
 };

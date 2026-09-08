@@ -1,5 +1,8 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eab8f0405f877cd4ac00fcbb41afa69f21":[8,0,0,0,1,3,5,6,7,34,0],
+"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eafabebc18bc02e50c56c22cbb1c8cd9c2":[8,0,0,0,1,3,5,6,7,34,2],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,6,7,37],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca083ff881600452988daa1991bf941da1":[8,0,0,0,1,3,5,6,7,37,21],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca09121e62a28418c9ebf693978ec275fe":[8,0,0,0,1,3,5,6,7,37,19],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a4e04ac6b5dc62969c46db76b96dbd8":[8,0,0,0,1,3,5,6,7,37,33],
@@ -215,14 +218,14 @@ var NAVTREEINDEX239 =
 "d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
 "d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
-"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
+"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[7,0,3234,0],
 "d8/de3/Warden_8cpp.html":[8,0,0,0,1,2,47,2],
 "d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc":[8,0,0,0,1,2,47,2,1],
-"d8/de3/classnpc__murkdeep.html":[7,0,2022],
-"d8/de3/classnpc__murkdeep.html#a72d44d786bcba4dea5ccedd33e7dbd3c":[7,0,2022,1],
-"d8/de3/classnpc__murkdeep.html#ab9f8faa3adaf1f251e1248fbe0f46468":[7,0,2022,2],
-"d8/de4/structBossBoundaryEntry.html":[7,0,829]
+"d8/de3/classnpc__murkdeep.html":[7,0,2022]
 };

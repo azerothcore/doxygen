@@ -1,5 +1,8 @@
 var NAVTREEINDEX117 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#a98e7c1b2c82a7bd81b4d2848230dd6f0":[7,0,1328,35],
+"d3/dd6/structinstance__blackrock__depths.html#a9dc2169c550bcb15f3b4617be8a0e806":[7,0,1328,33],
+"d3/dd6/structinstance__blackrock__depths.html#a9de6fb7f43f4abd0d295e0f9210b99a3":[7,0,1328,18],
 "d3/dd6/structinstance__blackrock__depths.html#aac5ce1d1832d3eefa462fabc22bbfb86":[7,0,1328,40],
 "d3/dd6/structinstance__blackrock__depths.html#aacde8b6e3400a6ad29ab48e8a48c8fab":[7,0,1328,27],
 "d3/dd6/structinstance__blackrock__depths.html#aae0c0472c96936794c083a12f035562b":[7,0,1328,51],
@@ -246,8 +249,5 @@ var NAVTREEINDEX117 =
 "d3/de2/classbf__commandscript.html#a806ca440ae1b51fffefee9d298dab3df":[7,0,361,0],
 "d3/de2/classbf__commandscript.html#a97f0192d7ccd3532cfceaebff9f242be":[7,0,361,1],
 "d3/de2/classbf__commandscript.html#ab2e116060bb747e9ae9237c49b8cc2c9":[7,0,361,4],
-"d3/de2/classbf__commandscript.html#abe18a8f6f91de5a1984f09c711136919":[7,0,361,3],
-"d3/de2/classbf__commandscript.html#ae942a3c7f13cc77b3cf36078d798e0fe":[7,0,361,6],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html":[7,0,3804],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a11f2c759a5587eb865560eceff5b8414":[7,0,3804,9]
+"d3/de2/classbf__commandscript.html#abe18a8f6f91de5a1984f09c711136919":[7,0,361,3]
 };

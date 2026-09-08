@@ -1,5 +1,7 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/structboss__razorscale.html#a7dc864d3e60c786cc8153121b39938c5":[7,0,685,1],
+"d2/d5b/structboss__razorscale.html#a809b1ee8e83d6de04f99b723b329c434":[7,0,685,12],
 "d2/d5b/structboss__razorscale.html#a997bbed5df4521b21b2749e47a2b8413":[7,0,685,5],
 "d2/d5b/structboss__razorscale.html#aa60eb42c00c6d801a7b716cea40412d2":[7,0,685,0],
 "d2/d5b/structboss__razorscale.html#aa8e48aff86695d3469c7600ee1899f03":[7,0,685,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d68/classgear__commandscript.html":[7,0,1129],
 "d2/d68/classgear__commandscript.html#a28cd5680f07f984326d79d91adbbfd70":[7,0,1129,2],
 "d2/d68/classgear__commandscript.html#a2e37c7d761982f7185b2418ae5aa4315":[7,0,1129,0],
-"d2/d68/classgear__commandscript.html#a9212aa39f13c646b1b8cf8be78cc8a6a":[7,0,1129,1],
-"d2/d68/classgear__commandscript.html#acca4bc7e8cae51ee2a6172b32f87aa56":[7,0,1129,3],
-"d2/d68/cs__guild_8cpp.html":[8,0,0,0,1,3,0,21]
+"d2/d68/classgear__commandscript.html#a9212aa39f13c646b1b8cf8be78cc8a6a":[7,0,1129,1]
 };

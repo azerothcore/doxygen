@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae545ba052a6fa30be07df12cfc0ecb23":[8,0,0,0,1,2,16,5,0,4,6,305],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae5ad8d6ff4a41e4faa29493d611c7e20":[8,0,0,0,1,2,16,5,0,4,6,55],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae60d62db6a3a5df74356f3c12f2d99bc":[8,0,0,0,1,2,16,5,0,4,6,125],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae6173f0310815b32f65cbd7983309c6a":[8,0,0,0,1,2,16,5,0,4,6,274],
@@ -147,14 +148,14 @@ var NAVTREEINDEX406 =
 "df/d24/classnpc__daphne__stilwell.html#a421a7eb4c1391eb82f7874b081c66a36":[7,0,1766,3],
 "df/d24/classnpc__daphne__stilwell.html#ad844c5f0409936d7068ee55271506041":[7,0,1766,1],
 "df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[7,0,1766,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,0,101],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[7,0,0,89],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,0,101,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,0,101],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[7,0,0,89,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,0,101,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[7,0,0,89,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,0,101,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,0,101,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[7,0,0,89,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,0,101,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[7,0,0,89,3],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,0,101,3],
 "df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[7,0,3314],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6db3f4b328b75648a6d31bc6768e682b":[8,0,0,0,1,3,5,8,2,6,3,8],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,5,8,2,6,3,4],
 "df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9217a2c5da8154c43f1792f28314cfca":[8,0,0,0,1,3,5,8,2,6,3,11],
-"df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9b7c03525728fee152dfff24a6d41988":[8,0,0,0,1,3,5,8,2,6,3,10],
-"df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1":[8,0,0,0,1,3,5,8,2,6,3,9]
+"df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9b7c03525728fee152dfff24a6d41988":[8,0,0,0,1,3,5,8,2,6,3,10]
 };

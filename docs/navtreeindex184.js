@@ -1,5 +1,8 @@
 var NAVTREEINDEX184 =
 {
+"d6/d7f/classUpdateFetcher.html#adb2996b906800fb0cdb5cf7ae14353d0":[7,0,4628,6],
+"d6/d7f/classUpdateFetcher.html#aea00e99b87bd24fd182676bf79e68c95":[7,0,4628,29],
+"d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[7,0,4628,20],
 "d6/d7f/classspell__egg__event.html":[7,0,2951],
 "d6/d7f/classspell__egg__event.html#a53bed6f1af71fd309a04bc004d07be80":[7,0,2951,2],
 "d6/d7f/classspell__egg__event.html#a804097903354ab3a730f0fe3eb5ec863":[7,0,2951,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html#a185e04be9d28b9ac6755ade2cd552293":[7,0,381,0,0],
 "d6/d84/DatabaseWorker_8h.html":[8,0,0,0,1,1,0,9],
 "d6/d84/classboss__trollgore.html":[7,0,764],
-"d6/d84/classboss__trollgore.html#a6da1349da296a3dc3d29527a8e3c2b7d":[7,0,764,2],
-"d6/d84/classboss__trollgore.html#a95102f1fae6c667e0780b8b388fc156b":[7,0,764,1],
-"d6/d84/naxxramas_8h.html":[8,0,0,0,1,3,5,7,16],
-"d6/d84/naxxramas_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,7,16,0]
+"d6/d84/classboss__trollgore.html#a6da1349da296a3dc3d29527a8e3c2b7d":[7,0,764,2]
 };

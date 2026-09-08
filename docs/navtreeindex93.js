@@ -1,5 +1,8 @@
 var NAVTREEINDEX93 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaae6bdc12da8e88058f468f069ca7f263a":[8,0,0,0,1,3,5,15,37,2],
+"d3/d09/zone__borean__tundra_8cpp.html#a2cba7854daddfe3fa4c0de0fb46049b2":[8,0,0,0,1,3,5,15,51],
+"d3/d09/zone__borean__tundra_8cpp.html#a3c4fddc9e17ba9560e22ab30a70a1d89":[8,0,0,0,1,3,5,15,38],
 "d3/d09/zone__borean__tundra_8cpp.html#a3c4fddc9e17ba9560e22ab30a70a1d89a3d688ee26e65da6f4b2c4043b113cc5b":[8,0,0,0,1,3,5,15,38,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a3c4fddc9e17ba9560e22ab30a70a1d89a76b3cb34476e8d27159c5a6a827a3565":[8,0,0,0,1,3,5,15,38,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a566e76eccb635130a0299f291b4e1af8":[8,0,0,0,1,3,5,15,39],
@@ -246,8 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d0b/namespaceAcore.html#afe44e70d4fae1d3c112291bd985e82b1":[5,0,0,219],
 "d3/d0b/namespaceAcore.html#aff8647e74ff6e2ecbfc14dd083ea63fa":[5,0,0,167],
 "d3/d0b/namespaceAcore.html#affed0a39c687fd0d71e1838f7d91d106":[5,0,0,198],
-"d3/d0c/AuthCrypt_8cpp.html":[8,0,0,0,0,3,0,0],
-"d3/d0c/classspell__item__trauma.html":[7,0,3511],
-"d3/d0c/classspell__item__trauma.html#a27569fe686e50246768fca4a7625fe0d":[7,0,3511,1],
-"d3/d0c/classspell__item__trauma.html#a4f4eaa4aeeac9257804957671c16233f":[7,0,3511,2]
+"d3/d0c/AuthCrypt_8cpp.html":[8,0,0,0,0,3,0,0]
 };

@@ -8,6 +8,7 @@ var classGlobalScript =
     [ "OnAfterUpdateEncounterState", "dc/d37/classGlobalScript.html#ad03b87900646cdead06f820e0091d1ff", null ],
     [ "OnAllowedForPlayerLootCheck", "dc/d37/classGlobalScript.html#a2f263f57d2e8317f0312881fc7f7c8e7", null ],
     [ "OnAllowedToLootContainerCheck", "dc/d37/classGlobalScript.html#aed04144e009683fd3ced38905b244c39", null ],
+    [ "OnArenaWeekReset", "dc/d37/classGlobalScript.html#adc45434c7dafd183582163065c279d93", null ],
     [ "OnBeforeDropAddItem", "dc/d37/classGlobalScript.html#ab403945c8443ba970489a5da923fbb31", null ],
     [ "OnBeforeLootEqualChanced", "dc/d37/classGlobalScript.html#ad6d3a51c35e8718533d0809fd132a253", null ],
     [ "OnBeforeSetBossState", "dc/d37/classGlobalScript.html#aa71f55a96e0d580fde44291656084356", null ],

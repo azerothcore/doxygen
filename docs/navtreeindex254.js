@@ -1,5 +1,9 @@
 var NAVTREEINDEX254 =
 {
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a99cb15668a0eb037fc7edd6a2340ca33":[7,0,1365,0,8],
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#aaee1be892a411ed2fe720aff91c1dbbe":[7,0,1365,0,2],
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#ac53fa1af91c66a264fdd016abe40168c":[7,0,1365,0,5],
+"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#ad92ac599589bdd8b7c3aa055b451f0cf":[7,0,1365,0,10],
 "d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#aefcf3beb1d5da118c80d3af9eb21ec99":[7,0,1365,0,15],
 "d9/d94/boss__eviscerator_8cpp.html":[8,0,0,0,1,3,2,1,0,5],
 "d9/d94/boss__eviscerator_8cpp.html#a1d468a93bd60904f1256bc1e923149b1":[8,0,0,0,1,3,2,1,0,5,5],
@@ -125,14 +129,14 @@ var NAVTREEINDEX254 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3025,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
 "d9/d9a/structboss__thorim__sif__blizzard.html":[7,0,758],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a019b50cc265dff0e92417482b85ccf64":[7,0,758,3],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,758,7],
@@ -159,8 +163,8 @@ var NAVTREEINDEX254 =
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[7,0,13,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,34,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[7,0,13,6,46,0],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,34,6,46,3],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,34,6,46,3],
 "d9/d9d/cs__account_8cpp.html":[8,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[8,0,0,0,1,3,0,0,1],
 "d9/d9e/HolidayDateCalculator_8cpp.html":[8,0,0,0,1,2,17,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX254 =
 "d9/da2/classspell__direbrew__summon__mole__machine__target__picker.html#aaad3c8870d8ad748e3ac07287da32e84":[7,0,2803,0],
 "d9/da2/enuminfo__Item_8cpp.html":[8,0,0,0,1,2,16,4,1],
 "d9/da3/classspell__dru__barkskin.html":[7,0,2890],
-"d9/da3/classspell__dru__barkskin.html#a6c105609c1ee61a8f845018550b2e3ba":[7,0,2890,2],
-"d9/da3/classspell__dru__barkskin.html#aae9f02415a256ce01b81c3dd6fdafb33":[7,0,2890,0],
-"d9/da3/classspell__dru__barkskin.html#ac1f03d22c5fdb1c07a0e0859e08bd561":[7,0,2890,3],
-"d9/da3/classspell__dru__barkskin.html#ad27880f797137cae09381e860727e2f7":[7,0,2890,1],
-"d9/da3/structTableStruct.html":[7,0,4542]
+"d9/da3/classspell__dru__barkskin.html#a6c105609c1ee61a8f845018550b2e3ba":[7,0,2890,2]
 };

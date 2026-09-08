@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[7,0,1956,0,1],
 "df/dbb/BankPackets_8cpp.html":[8,0,0,0,1,2,39,0,1],
 "df/dbb/classspell__gen__netherbloom.html":[7,0,3102],
 "df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[7,0,3102,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#a95e882b892a79b464a521a8367b2e9b7":[7,0,4509,3,2],
 "df/dc8/classSpellScript_1_1DestinationTargetSelectHandler.html#ab5ffcc89b7232afddd6bc47e7c347b79":[7,0,4509,3,0],
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html":[7,0,1195,0],
-"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[7,0,1195,0,2],
-"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[7,0,1195,0,0]
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[7,0,1195,0,2]
 };

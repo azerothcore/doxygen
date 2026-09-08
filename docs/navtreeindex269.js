@@ -1,6 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7cb5e81a09283c1ca915ec4419363af4":[7,0,2021,0,12],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7fe22201514986bc20fbe9e7f27d410a":[7,0,2021,0,9],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#aa29123d2482962c17a48e66db205207b":[7,0,2021,0,0],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#ab72a5bf5b6313b51002ff96ca8ee4971":[7,0,2021,0,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX269 =
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca85d96ef804a0c366c85f52db0d55ae30":[8,0,0,0,1,3,5,8,2,1,4,6],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298caf34ac77a67eb676c4090d4fe63883bfd":[8,0,0,0,1,3,5,8,2,1,4,7],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298cafaca7cc2e3c9b1357d49a10fec6b9bf3":[8,0,0,0,1,3,5,8,2,1,4,4],
-"da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,8,2,1,2]
+"da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,8,2,1,2],
+"da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1b1dcb6ac5c8e7ac82ef9a13c8e8b334":[8,0,0,0,1,3,5,8,2,1,2,2]
 };

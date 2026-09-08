@@ -1,5 +1,8 @@
 var NAVTREEINDEX106 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,7,1,8,10,13],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caea3ed8b979b3a59b5f1cfa805e42a176":[8,0,0,0,1,3,7,1,8,10,8],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cafe4e4e1fb7bb1e9df3e6c6b5fd0b1606":[8,0,0,0,1,3,7,1,8,10,0],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[8,0,0,0,1,3,7,1,8,11],
 "d3/d8d/classspell__mage__master__of__elements.html":[7,0,3633],
 "d3/d8d/classspell__mage__master__of__elements.html#a23dc61d8a007832a37ab7da71c36537d":[7,0,3633,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d93/classPathGenerator.html#adb8163fc50d31e411781534f4cb1bb69":[7,0,2413,6],
 "d3/d93/classPathGenerator.html#add68d67c880853ff8935fc04a25a722b":[7,0,2413,23],
 "d3/d93/classPathGenerator.html#ae6f6aaa515643b811cb2cd1f1b43e549":[7,0,2413,36],
-"d3/d93/classPathGenerator.html#af342f5fda65dc66c3b9b975fca899c75":[7,0,2413,31],
-"d3/d93/classPathGenerator.html#af899ff75492f319fc08a385e852c6b3e":[7,0,2413,41],
-"d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[7,0,2413,13],
-"d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[7,0,2413,45]
+"d3/d93/classPathGenerator.html#af342f5fda65dc66c3b9b975fca899c75":[7,0,2413,31]
 };

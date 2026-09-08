@@ -1,5 +1,7 @@
 var NAVTREEINDEX28 =
 {
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a070925eb76b8af866819844411da1beb":[7,0,1394,0,4],
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1623080f2466aeca03f048decc34bdb5":[7,0,1394,0,10],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a16b67dce6407db52ec7571c9bbc9f8c5":[7,0,1394,0,13],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a195e4175f943bfaf42ded378cde928e4":[7,0,1394,0,1],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1cf2834e928692c69fdfcf7ae8910745":[7,0,1394,0,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX28 =
 "d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64":[8,0,0,0,1,2,38,4,0],
 "d1/d2d/ScriptMgrMacros_8h.html#a80951f767a7c77417a671490893db073":[8,0,0,0,1,2,38,4,3],
 "d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1":[8,0,0,0,1,2,38,4,2],
-"d1/d2d/ScriptMgrMacros_8h.html#a9dedac0cb410c9d87f0470ffd0eb6c66":[8,0,0,0,1,2,38,4,5],
-"d1/d2d/ScriptMgrMacros_8h.html#aceff01aa3f5ab68a0253704ef30041df":[8,0,0,0,1,2,38,4,4],
-"d1/d2d/SpellScriptLoader_8h.html":[8,0,0,0,1,2,38,0,81]
+"d1/d2d/ScriptMgrMacros_8h.html#a9dedac0cb410c9d87f0470ffd0eb6c66":[8,0,0,0,1,2,38,4,5]
 };
