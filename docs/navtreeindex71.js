@@ -1,5 +1,13 @@
 var NAVTREEINDEX71 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#a64bbd191ff8adcd734165e2585f8b5aa":[8,0,0,0,1,3,10,3,31],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6":[8,0,0,0,1,3,10,3,28],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a3c94bdb6a74b968ac5d9625a9d7bc6b9":[8,0,0,0,1,3,10,3,28,0],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a529a83b6506bc0567da3876e73b811e6":[8,0,0,0,1,3,10,3,28,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762":[8,0,0,0,1,3,10,3,25],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a06418808c696e688f006dcf08820b8f9":[8,0,0,0,1,3,10,3,25,4],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a363c3e7f7bb9a12d4924a79c97581a56":[8,0,0,0,1,3,10,3,25,2],
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a38eeee81428ca2033a198b7bce3e3d53":[8,0,0,0,1,3,10,3,25,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a64ee4ae15b5c511fe3b002bd8ab2fc10":[8,0,0,0,1,3,10,3,25,3],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a69b7878773c5b06004dba75928e2788a":[8,0,0,0,1,3,10,3,25,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762af122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,10,3,25,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX71 =
 "d2/d95/zone__crystalsong__forest_8cpp.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa":[8,0,0,0,1,3,5,16,2,0],
 "d2/d98/classnpc__zulian__prowler.html":[7,0,2338],
 "d2/d98/classnpc__zulian__prowler.html#a27ae990985976d02bb221b6d669fa849":[7,0,2338,1],
-"d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[7,0,2338,2],
-"d2/d98/structboss__kiljaeden.html":[7,0,589],
-"d2/d98/structboss__kiljaeden.html#a220cf460466c44a82ce3933d2c5f27f8":[7,0,589,10],
-"d2/d98/structboss__kiljaeden.html#a345f52703c9d72be2a67ff46ac1a0472":[7,0,589,12],
-"d2/d98/structboss__kiljaeden.html#a3b983a903618b5bfebf7b45819207fde":[7,0,589,9],
-"d2/d98/structboss__kiljaeden.html#a53f78e51932d98886fadd9422adf96ce":[7,0,589,3],
-"d2/d98/structboss__kiljaeden.html#a573b32098eac346f3f9485eb46792b1b":[7,0,589,0],
-"d2/d98/structboss__kiljaeden.html#a6878b5b88a45f1a5d70d866e9850041d":[7,0,589,14],
-"d2/d98/structboss__kiljaeden.html#a82376e807061529bfd8fb4e52d409acf":[7,0,589,7]
+"d2/d98/classnpc__zulian__prowler.html#a7e7d4f8164bbb728a1b83244c1e356f9":[7,0,2338,2]
 };

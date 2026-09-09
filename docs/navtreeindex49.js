@@ -1,5 +1,9 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52c":[8,0,0,0,1,3,9,2,182],
+"d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52ca2e8c52fec3d5fcd288739e434d41043f":[8,0,0,0,1,3,9,2,182,1],
+"d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52ca6674556ec6cc2e90c0bc9cffdc4bbbe5":[8,0,0,0,1,3,9,2,182,2],
+"d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52cae6fecf212aa06e9476fba6c8e25e5133":[8,0,0,0,1,3,9,2,182,0],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9eca":[8,0,0,0,1,3,9,2,170],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa05c3d1c27810fa1cd65e10490a0ce0dc":[8,0,0,0,1,3,9,2,170,3],
 "d1/de4/spell__generic_8cpp.html#a671e54351958d094b795a33d36bc9ecaa1bd5887729091e38a32ba156bce58ce9":[8,0,0,0,1,3,9,2,170,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4345,0],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4345,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[7,0,2096,0],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[7,0,2096,0,4],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[7,0,2096,0,5],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a44460335986bcedf35dc295c242df6da":[7,0,2096,0,7],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a51769d22a4cb448fae90d827e2494581":[7,0,2096,0,0],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a6c4d82c46547bbb2f86dd7f9fa88c743":[7,0,2096,0,3]
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[7,0,2096,0,4]
 };

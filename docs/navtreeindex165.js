@@ -1,5 +1,13 @@
 var NAVTREEINDEX165 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca68d8b8addc22e4fd2d387bcd172c36de":[8,0,0,0,1,3,5,1,1,0,12,6],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca81cfa8a13e85aea2e4ce00844f39e598":[8,0,0,0,1,3,5,1,1,0,12,0],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298cafadb93612e1e41b151175c91e1cfcb90":[8,0,0,0,1,3,5,1,1,0,12,1],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a70c4d1f4d3454199b02d94be43c31a62":[8,0,0,0,1,3,5,1,1,0,14],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,1,1,0,13],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,1,1,0,13,4],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2541326a53640981d350025c6a3956a7":[8,0,0,0,1,3,5,1,1,0,13,8],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2b42e61d933e80781efb4a75426ba0cf":[8,0,0,0,1,3,5,1,1,0,13,6],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,1,1,0,13,1],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7068f2f91b7cdd8c6d55f3038e4bcbcf":[8,0,0,0,1,3,5,1,1,0,13,0],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73dc781d4c23102953ac7a25e40d9ce1":[8,0,0,0,1,3,5,1,1,0,13,13],
@@ -241,13 +249,5 @@ var NAVTREEINDEX165 =
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,7,0,4,4],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63":[8,0,0,0,1,3,5,7,0,4,0],
 "d5/de3/boss__anubrekhan_8cpp.html#aca213155e8f076d7aaf870a8b79f12f3":[8,0,0,0,1,3,5,7,0,6],
-"d5/de3/classspell__halion__twilight__cutter.html":[7,0,3204],
-"d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3204,1],
-"d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3204,0],
-"d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[7,0,3204,2],
-"d5/de3/classspell__item__totem__of__flowing__water.html":[7,0,3508],
-"d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3508,0],
-"d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3508,3],
-"d5/de3/classspell__item__totem__of__flowing__water.html#ad3e4a18ce21270eede17e29faa7dd897":[7,0,3508,2],
-"d5/de3/classspell__item__totem__of__flowing__water.html#af6ca1636d67b2d9f81a8743706ffb800":[7,0,3508,1]
+"d5/de3/classspell__halion__twilight__cutter.html":[7,0,3204]
 };

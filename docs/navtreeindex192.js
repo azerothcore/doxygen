@@ -1,5 +1,13 @@
 var NAVTREEINDEX192 =
 {
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a308b99ee4d07ed1de0cabd94dafd5dd8":[7,0,2045,0,1],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3cba2cd9a920816bee993ae2986639a0":[7,0,2045,0,4],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3fb01e6a8df3b8205f494f03faf8ace8":[7,0,2045,0,10],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a756a44feb79eb56f443ee16995a2566d":[7,0,2045,0,5],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a8b510bce47929e85741f5debd857de8d":[7,0,2045,0,7],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a9280b604135308078860c20667da9819":[7,0,2045,0,9],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aa0633855e57f6681cfc68a8dfee9a733":[7,0,2045,0,0],
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1":[7,0,2045,0,6],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[7,0,2045,0,2],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#afc6c4faffd83b2fa4ddbb4ae78b622d9":[7,0,2045,0,3],
 "d6/ddb/boss__garr_8cpp.html":[8,0,0,0,1,3,2,1,3,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX192 =
 "d6/dea/classspell__item__healing__injector.html#af2e80d64787ad31e33d0d3c239f62c81":[7,0,3422,3],
 "d6/deb/UnitScript_8cpp.html":[8,0,0,0,1,2,38,0,86],
 "d6/deb/UnitScript_8cpp.html#aced42ee6099fa72848b9b4aef527ebc3":[8,0,0,0,1,2,38,0,86,0],
-"d6/deb/structnpc__blade__of__azzinoth.html":[7,0,1692],
-"d6/deb/structnpc__blade__of__azzinoth.html#a501e2d1ae9af813fd9c30395e7774983":[7,0,1692,3],
-"d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[7,0,1692,0],
-"d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[7,0,1692,1],
-"d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[7,0,1692,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[7,0,13,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1]
+"d6/deb/structnpc__blade__of__azzinoth.html":[7,0,1692]
 };

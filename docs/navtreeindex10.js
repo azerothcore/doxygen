@@ -1,5 +1,9 @@
 var NAVTREEINDEX10 =
 {
+"d0/d76/structinstance__blackwing__lair.html#a9b5f810bdaacd35144a3a054f706fca2":[7,0,1330,13],
+"d0/d76/structinstance__blackwing__lair.html#aa7d4423a1d3de7d1f28e03e1242ab29f":[7,0,1330,8],
+"d0/d76/structinstance__blackwing__lair.html#ab9d92beeef2b4cff728b3b07628be143":[7,0,1330,5],
+"d0/d76/structinstance__blackwing__lair.html#abd4fe01494c20a4b413392011ee8b901":[7,0,1330,12],
 "d0/d76/structinstance__blackwing__lair.html#ac396d405834c12dee713f9367a4d12db":[7,0,1330,19],
 "d0/d76/structinstance__blackwing__lair.html#acc616ac1ebc0a30b223b56db6d1d194d":[7,0,1330,0],
 "d0/d76/structinstance__blackwing__lair.html#ad17a7e6c445a33ccf504e3346f4337d5":[7,0,1330,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,0,35,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[7,0,0,23,4],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[5,0,0,35,4],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,0,35,2],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[7,0,0,23,2],
-"d0/d7e/structMySQLHandle.html":[7,0,1586],
-"d0/d7e/structRealm.html":[7,0,2532],
-"d0/d7e/structRealm.html#a0131d758f10cbae0c610c2c088299feb":[7,0,2532,10]
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,0,35,2]
 };

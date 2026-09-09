@@ -1,5 +1,9 @@
 var NAVTREEINDEX11 =
 {
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[7,0,0,23,2],
+"d0/d7e/structMySQLHandle.html":[7,0,1586],
+"d0/d7e/structRealm.html":[7,0,2532],
+"d0/d7e/structRealm.html#a0131d758f10cbae0c610c2c088299feb":[7,0,2532,10],
 "d0/d7e/structRealm.html#a1984cc9564b01b6456f31f77fd65a6d6":[7,0,2532,4],
 "d0/d7e/structRealm.html#a25e953d80aa3c80e068afe6b57f67d99":[7,0,2532,1],
 "d0/d7e/structRealm.html#a2a3f3db57bb7e6f69ca4f030b65c7331":[7,0,2532,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a51064b3a11f453724ae0879c80eaf8df":[7,0,3718,0],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#a7110d4136337d44aa0300ec82e5a6511":[7,0,3718,3],
 "d0/d84/classspell__novos__despawn__crystal__handler.html#aac26002ff107e609fb7258306b430f1b":[7,0,3718,1],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html":[7,0,2181,0],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab173cd8b623fcf8c36406155c91bc4db":[7,0,2181,0,0],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ab6b39190d1195915ea0b4b191d864da6":[7,0,2181,0,2],
-"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html#ad2dd22651470f47e7a7ba6f687ba54e9":[7,0,2181,0,1],
-"d0/d85/structnpc__garr__firesworn.html":[7,0,1849]
+"d0/d84/structnpc__spiritual__insight_1_1npc__spiritual__insightAI.html":[7,0,2181,0]
 };

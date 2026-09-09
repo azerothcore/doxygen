@@ -190,6 +190,10 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_LEARN_TAXI_NODE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af6b1f556c93039f69df4d7ee8396ea3b", null ],
       [ "PLAYERHOOK_ON_BEFORE_GET_LEVEL_FOR_XP_GAIN", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675", null ],
       [ "PLAYERHOOK_ON_AFTER_TAKE_ITEM_FROM_MAIL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2e15f842374590b7e5b007d7c2845130", null ],
+      [ "PLAYERHOOK_CAN_LEARN_SPELL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a6e2708c962ebcc83ad16531016d114a8", null ],
+      [ "PLAYERHOOK_ON_BEFORE_RECEIVE_SPELL_LIST_FROM_TRAINER", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac2d05cea718815b77361b41c76f07ac8", null ],
+      [ "PLAYERHOOK_ON_GET_TRAINER_SPELL_STATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b267cfb187ffea89dffee955e067bd", null ],
+      [ "PLAYERHOOK_ON_AFTER_TRAIN_SPELL", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a1988cb6fc0c09e87df42baca6d4da84a", null ],
       [ "PLAYERHOOK_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9", null ]
     ] ]
 ];

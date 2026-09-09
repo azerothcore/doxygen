@@ -1,5 +1,16 @@
 var NAVTREEINDEX271 =
 {
+"da/d5f/structnpc__ulduar__hodir__shaman.html#a8907c7300cef735a70b088de3c16cfb9":[7,0,2272,2],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#a933908d61afac33002411874060c0f74":[7,0,2272,1],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#aa09753bc9b54ea8dcc9b61a9ace77ae3":[7,0,2272,11],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#ab9aa67f07721c0bf60e9db75b5b3e888":[7,0,2272,7],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#adf8d9895cdd35712fa44e4a19de1315a":[7,0,2272,10],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#ae27325cc9b794a84d82faa0f410fa844":[7,0,2272,3],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#afa6124e630cd878659172a06df68d39f":[7,0,2272,4],
+"da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html":[7,0,1331,0],
+"da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a16315f7921b1960c7720f855cdddee96":[7,0,1331,0,8],
+"da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a18488afb78747a35ce7e3b4b9a2468b5":[7,0,1331,0,2],
+"da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3441a24486ec686d42b7320e6f105139":[7,0,1331,0,4],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3492a327f4c0d637fd5701f3997c1887":[7,0,1331,0,15],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a3894ce1d0dff79cee2ff0df51d19e1ea":[7,0,1331,0,6],
 "da/d60/structinstance__blood__furnace_1_1instance__blood__furnace__InstanceMapScript.html#a50c371edc425191f610a0e8a6b44d2ab":[7,0,1331,0,14],
@@ -238,16 +249,5 @@ var NAVTREEINDEX271 =
 "da/d70/classspell__gen__petrified__bark.html#aebe4db9304449686a544c8e4c4f26b81":[7,0,3114,2],
 "da/d71/classFleeingMovementGenerator.html":[7,0,1085],
 "da/d71/classFleeingMovementGenerator.html#a0e84bc32b599040c7f8ed9cdf92679e8":[7,0,1085,4],
-"da/d71/classFleeingMovementGenerator.html#a1b71b8e2f29109b5dee1e1661d54f74a":[7,0,1085,10],
-"da/d71/classFleeingMovementGenerator.html#a33bbc20fc564b7166965ca2f8e9b9211":[7,0,1085,13],
-"da/d71/classFleeingMovementGenerator.html#a4955c5c4b2d18c11da2b9d2a75524c16":[7,0,1085,12],
-"da/d71/classFleeingMovementGenerator.html#a56cbd33bf6cd8152f4586b2298c8fdf8":[7,0,1085,11],
-"da/d71/classFleeingMovementGenerator.html#a693ec24e9d51ea0f63d15e1c07afdb2d":[7,0,1085,2],
-"da/d71/classFleeingMovementGenerator.html#a77d3ae9533947a538220f9340ed7a907":[7,0,1085,7],
-"da/d71/classFleeingMovementGenerator.html#a84808dc91baadc114a6c283dd0ba6caa":[7,0,1085,0],
-"da/d71/classFleeingMovementGenerator.html#a89dd4d270b35e855c268374d8bfc3ebb":[7,0,1085,1],
-"da/d71/classFleeingMovementGenerator.html#aa739940493313028f17d306c1b23da52":[7,0,1085,6],
-"da/d71/classFleeingMovementGenerator.html#ab0e0f55df28f7cbcf108191e1e129634":[7,0,1085,8],
-"da/d71/classFleeingMovementGenerator.html#ad78ed87cc8d2569a2744ef43957ba498":[7,0,1085,5],
-"da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7":[7,0,1085,9]
+"da/d71/classFleeingMovementGenerator.html#a1b71b8e2f29109b5dee1e1661d54f74a":[7,0,1085,10]
 };

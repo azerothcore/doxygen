@@ -1,5 +1,9 @@
 var NAVTREEINDEX33 =
 {
+"d1/d49/classDatabaseWorkerPool.html#ac55c306dff67fad0674806500b20be2e":[7,0,984,3],
+"d1/d49/classDatabaseWorkerPool.html#ac70d274e2567dadf93ae9b284665a091":[7,0,984,10],
+"d1/d49/classDatabaseWorkerPool.html#ac7c9774a74e661a407009a63c85cfc39":[7,0,984,21],
+"d1/d49/classDatabaseWorkerPool.html#ac95606d8360ce139ec39a763e08cf929":[7,0,984,17],
 "d1/d49/classDatabaseWorkerPool.html#ad79b4f532e563071b4571092409013f5":[7,0,984,12],
 "d1/d49/classDatabaseWorkerPool.html#ae15d4d3ffe735226b82d1dcc2cdc65e1":[7,0,984,1],
 "d1/d49/classDatabaseWorkerPool.html#ae15d4d3ffe735226b82d1dcc2cdc65e1a3bbbe5224571567b87ac2ece1236915e":[7,0,984,1,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d53/classspell__mammoth__explosion.html#a909ec44339061a114697cacee5fba5b2":[7,0,3654,0],
 "d1/d53/classspell__mammoth__explosion.html#aa241c97b4e895d07fe89d03edca29912":[7,0,3654,2],
 "d1/d53/classspell__mammoth__explosion.html#aa84f4c29ca00789bb47661267549cda6":[7,0,3654,3],
-"d1/d53/classspell__mammoth__explosion.html#ac1bfb2b49cd335ca5961b984fadfffb8":[7,0,3654,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[7,0,0,119],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,0,131],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[7,0,0,119,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,0,131,1]
+"d1/d53/classspell__mammoth__explosion.html#ac1bfb2b49cd335ca5961b984fadfffb8":[7,0,3654,1]
 };

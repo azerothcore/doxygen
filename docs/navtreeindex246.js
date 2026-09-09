@@ -1,5 +1,15 @@
 var NAVTREEINDEX246 =
 {
+"d9/d46/structboss__baron__geddon.html#a2a5a0ca6e40ac736171a8b80b0e66dad":[7,0,411,1],
+"d9/d46/structboss__baron__geddon.html#a4ea01568770a91e6734d45e3730c62cc":[7,0,411,5],
+"d9/d46/structboss__baron__geddon.html#ad0e720b1ea3e92fabeea8b78a6416f3f":[7,0,411,3],
+"d9/d46/structboss__baron__geddon.html#aee0a2c6587a7f743491f3a3e31ed6527":[7,0,411,4],
+"d9/d46/structboss__baron__geddon.html#af81a1ef4345e55f3d537baeb0e9528f4":[7,0,411,2],
+"d9/d47/CharmInfo_8cpp.html":[8,0,0,0,1,2,16,10,0],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html":[7,0,2232,0],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a293d5fca2940432c4eea57c5de5a1fdc":[7,0,2232,0,3],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#a54dee5d9b0f17bad21e8c1e275f0b222":[7,0,2232,0,1],
+"d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#aa01bf528b10ed7bbdfe9b03694e51845":[7,0,2232,0,0],
 "d9/d47/structnpc__toc__dk_1_1npc__toc__dkAI.html#ab4f4b11e2b250fb24de6c069c5e38208":[7,0,2232,0,2],
 "d9/d48/CinematicMgr_8cpp.html":[8,0,0,0,1,2,16,7,0],
 "d9/d48/classnpc__torloth__the__magnificent.html":[7,0,2248],
@@ -239,15 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d56/structboss__ambassador__flamelash.html#a1332d0405911dcba90420a49936502aa":[7,0,390,7],
 "d9/d56/structboss__ambassador__flamelash.html#a1629ac221933d038d71c256de914121b":[7,0,390,4],
 "d9/d56/structboss__ambassador__flamelash.html#a2674933aca19741e3c27eee7636e6774":[7,0,390,6],
-"d9/d56/structboss__ambassador__flamelash.html#a2a11c3d01e99c6737c8b7459336bb021":[7,0,390,10],
-"d9/d56/structboss__ambassador__flamelash.html#a4585ec9b91b506fd78f344c1e8e83697":[7,0,390,2],
-"d9/d56/structboss__ambassador__flamelash.html#a4eec2a22080fb99671d4596a131957b1":[7,0,390,0],
-"d9/d56/structboss__ambassador__flamelash.html#a891ab6cb21b16f9a6bd08934bbe7257d":[7,0,390,8],
-"d9/d56/structboss__ambassador__flamelash.html#aa6e66bf78c714fad816e654ed37801e5":[7,0,390,5],
-"d9/d56/structboss__ambassador__flamelash.html#ac6c1674f7e6b5c9f2f4be052cdf509a1":[7,0,390,9],
-"d9/d56/structboss__ambassador__flamelash.html#ae34494448f93104750da92ff20730dc1":[7,0,390,1],
-"d9/d56/structboss__ambassador__flamelash.html#afdf68272e1acd47a8c6e4a0c18f0b6bf":[7,0,390,3],
-"d9/d56/structgo__empowering__blood__orb.html":[7,0,1172],
-"d9/d56/structgo__empowering__blood__orb.html#a19b23d9b9ae467eb5be7fc30b1c2154f":[7,0,1172,5],
-"d9/d56/structgo__empowering__blood__orb.html#a284de01132efc6ed4d865e14ae100bd8":[7,0,1172,3]
+"d9/d56/structboss__ambassador__flamelash.html#a2a11c3d01e99c6737c8b7459336bb021":[7,0,390,10]
 };

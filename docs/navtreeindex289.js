@@ -1,5 +1,16 @@
 var NAVTREEINDEX289 =
 {
+"db/d0d/classProcTestContext.html#ae25b85f794cc9174bc67a0a2d28fab8c":[7,0,2489,2],
+"db/d0d/classProcTestContext.html#ae2a9f04d30cbb14fc1d528a58521a602":[7,0,2489,11],
+"db/d0d/classProcTestContext.html#af0cf99f26f6f220bb2da889bcd139a5e":[7,0,2489,18],
+"db/d0d/classspell__gen__disabled__above__63.html":[7,0,3055],
+"db/d0d/classspell__gen__disabled__above__63.html#a51f9c0f92100c02e1fe7d127fecd902f":[7,0,3055,1],
+"db/d0d/classspell__gen__disabled__above__63.html#a5c89e7e53a7f41665ff25d57df8f7afb":[7,0,3055,2],
+"db/d0d/classspell__gen__disabled__above__63.html#a9e54ae3e90ee8bf0fab966a497f761b3":[7,0,3055,0],
+"db/d0e/classspell__zuljin__zap.html":[7,0,4446],
+"db/d0e/classspell__zuljin__zap.html#a2f5d255de09818203e498c0090bdd3fb":[7,0,4446,2],
+"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[7,0,4446,3],
+"db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[7,0,4446,1],
 "db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[7,0,4446,0],
 "db/d0f/structnpc__ahune__bunny.html":[7,0,1619],
 "db/d0f/structnpc__ahune__bunny.html#a15fdcc2fda18e118f398ccc055f52942":[7,0,1619,8],
@@ -238,16 +249,5 @@ var NAVTREEINDEX289 =
 "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a191694723c55d979d73034d21f0c73ce":[8,0,0,0,1,3,9,6,55,1],
 "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7":[8,0,0,0,1,3,9,6,55,0],
 "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a67a09daf360e96f7c5fc1725509e84c6":[8,0,0,0,1,3,9,6,55,5],
-"db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a94cce91ab20a9b642d5964a5b3d9d11d":[8,0,0,0,1,3,9,6,55,3],
-"db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75aa8b2ac8c64000c63f5c4362f941e20a3":[8,0,0,0,1,3,9,6,55,4],
-"db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75aae189eec4e2cfeb46d16d2586f8e37dd":[8,0,0,0,1,3,9,6,55,2],
-"db/d17/SmartAI_8cpp.html":[8,0,0,0,1,2,3,2,0],
-"db/d17/SmartAI_8cpp.html#ab6012619ba76775b314475ec60f8c7d7":[8,0,0,0,1,2,3,2,0,1],
-"db/d17/classCharacterCreateInfo.html":[4,1,14],
-"db/d17/classCharacterCreateInfo.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6":[4,1,14,7],
-"db/d17/classCharacterCreateInfo.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e":[4,1,14,12],
-"db/d17/classCharacterCreateInfo.html#a15baddc70b46d48bd9f128e73aaac606":[4,1,14,10],
-"db/d17/classCharacterCreateInfo.html#a41e354593f59bc8546688a37c2a5e504":[4,1,14,3],
-"db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9],
-"db/d17/classCharacterCreateInfo.html#a5a88b2c2556dd1239c417ea4fcc55287":[4,1,14,5]
+"db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a94cce91ab20a9b642d5964a5b3d9d11d":[8,0,0,0,1,3,9,6,55,3]
 };

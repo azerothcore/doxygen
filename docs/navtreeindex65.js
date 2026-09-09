@@ -1,5 +1,9 @@
 var NAVTREEINDEX65 =
 {
+"d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6":[8,0,0,0,1,3,3,9,8,0],
+"d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0":[8,0,0,0,1,3,3,9,8,3],
+"d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db":[8,0,0,0,1,3,3,9,8,1],
+"d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ff":[8,0,0,0,1,3,3,9,5],
 "d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64":[8,0,0,0,1,3,3,9,5,0],
 "d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd":[8,0,0,0,1,3,3,9,5,1],
 "d2/d57/winter__veil_8cpp.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4":[8,0,0,0,1,3,3,9,5,4],
@@ -51,14 +55,14 @@ var NAVTREEINDEX65 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[7,0,4247,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[7,0,4247,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[7,0,4247,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[7,0,13,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[7,0,13,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,34,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[7,0,13,0,3,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[7,0,13,0,3,2],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[7,0,1697],
 "d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[7,0,1697,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[7,0,1697,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d5b/structboss__razorscale.html#a16cab59be86221b991f382529884b17e":[7,0,685,9],
 "d2/d5b/structboss__razorscale.html#a2c65bb16401d956cbdf56923ad345015":[7,0,685,20],
 "d2/d5b/structboss__razorscale.html#a410854c247c7b28d3a933ef496988cb8":[7,0,685,22],
-"d2/d5b/structboss__razorscale.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b":[7,0,685,11],
-"d2/d5b/structboss__razorscale.html#a5d059d9571a04896c27fde1b6c5db4ce":[7,0,685,16],
-"d2/d5b/structboss__razorscale.html#a63e951ce71137869004732cfbecc6db3":[7,0,685,2],
-"d2/d5b/structboss__razorscale.html#a678ba10c9ab7af662c0a8e2dd9de6904":[7,0,685,15],
-"d2/d5b/structboss__razorscale.html#a722509fba200d997e50dc586184019ec":[7,0,685,10]
+"d2/d5b/structboss__razorscale.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b":[7,0,685,11]
 };

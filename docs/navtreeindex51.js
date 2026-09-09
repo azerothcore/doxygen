@@ -1,5 +1,9 @@
 var NAVTREEINDEX51 =
 {
+"d2/d04/classBattlegroundAV.html#a65e7532efee106ee3529c593c2e772f5":[7,0,333,47],
+"d2/d04/classBattlegroundAV.html#a6ac3561d84ee9b9dbbde1db795641921":[7,0,333,25],
+"d2/d04/classBattlegroundAV.html#a7177d62ef0590c50c2dde597c5348550":[7,0,333,15],
+"d2/d04/classBattlegroundAV.html#a797f06cae79c503186d4eaf560c073df":[7,0,333,52],
 "d2/d04/classBattlegroundAV.html#a7d773ee7736fc656d7df73be5bb57051":[7,0,333,31],
 "d2/d04/classBattlegroundAV.html#a801815fed5adbeb2806b07235bd3ac2d":[7,0,333,30],
 "d2/d04/classBattlegroundAV.html#a8463be82a090a96403e01a75ae2f4a6a":[7,0,333,44],
@@ -139,10 +143,10 @@ var NAVTREEINDEX51 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[7,0,2373,10],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[7,0,13,12,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,34,12,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,34,12,2,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,34,12,2,3],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[7,0,13,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,34,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,34,12,2,0],
@@ -229,10 +233,10 @@ var NAVTREEINDEX51 =
 "d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab":[8,0,0,0,1,2,12,1,3,1],
 "d2/d0f/Weather_8cpp.html":[4,2,0],
 "d2/d0f/classRestoreFight.html":[7,0,2553],
-"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2553,0],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2553,1],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2553,2],
+"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2553,0],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2553,3],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2553,2],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[7,0,2553,4],
 "d2/d0f/classspell__icc__web__wrap__aura.html":[7,0,3295],
 "d2/d0f/classspell__icc__web__wrap__aura.html#aad4497ba7cad48b9547e8696714d8c23":[7,0,3295,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d0f/structVehicleAI.html#a34000f32495dbee3a550147e1e86d761":[7,0,4640,10],
 "d2/d0f/structVehicleAI.html#a39ad0764dce6586aef86fcd96c2c221c":[7,0,4640,6],
 "d2/d0f/structVehicleAI.html#a3a46c5f18b019852460170e1200b11b4":[7,0,4640,9],
-"d2/d0f/structVehicleAI.html#a48213b69fa4f0034cdc3cd60841d0636":[7,0,4640,4],
-"d2/d0f/structVehicleAI.html#a505c1bacb159950e19518ad3b5740a3e":[7,0,4640,11],
-"d2/d0f/structVehicleAI.html#aac593372592d33fa008a66c6dcec1840":[7,0,4640,7],
-"d2/d0f/structVehicleAI.html#ad06972054ef4525411e859d291226783":[7,0,4640,1],
-"d2/d0f/structVehicleAI.html#ae95dc46465404271faaae4b2dc61277a":[7,0,4640,8]
+"d2/d0f/structVehicleAI.html#a48213b69fa4f0034cdc3cd60841d0636":[7,0,4640,4]
 };

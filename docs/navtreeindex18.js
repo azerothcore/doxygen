@@ -1,5 +1,9 @@
 var NAVTREEINDEX18 =
 {
+"d0/db7/classGroup.html#a8673af46d42f7541824cc94440807007":[7,0,1261,97],
+"d0/db7/classGroup.html#a87bc71b093868dd06cb534795b4d6d38":[7,0,1261,107],
+"d0/db7/classGroup.html#a8dde79e705459dd1a28dfbb3dd3ccaf7":[7,0,1261,73],
+"d0/db7/classGroup.html#a8ef9013547d8d5051eb995787adcd9a2":[7,0,1261,10],
 "d0/db7/classGroup.html#a90ca71517a5b2b0d97a68a536890f5b1":[7,0,1261,51],
 "d0/db7/classGroup.html#a97cd83cdf6de49725ad1675061c650a7":[7,0,1261,59],
 "d0/db7/classGroup.html#a98838ea79e25a97479508e20c1457ec1":[7,0,1261,24],
@@ -245,9 +249,5 @@ var NAVTREEINDEX18 =
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298cafb7e760b4230da02a4957194799ea86f":[8,0,0,0,1,3,2,7,2,5,4],
 "d0/dbc/boss__kormok_8cpp.html#a6bfb096b035b5f41b71e1a57bff59113":[8,0,0,0,1,3,2,7,2,6],
 "d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,7,2,3],
-"d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a08b5bb6f0eef304cda34e83a271c0cd6":[8,0,0,0,1,3,2,7,2,3,1],
-"d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6b942156061240615506e184a65fc179":[8,0,0,0,1,3,2,7,2,3,0],
-"d0/dbc/boss__kormok_8cpp.html#af7d03eb78c1077802718200368e8028e":[8,0,0,0,1,3,2,7,2,7],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[7,0,0,1,2],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html":[5,0,0,2,2]
+"d0/dbc/boss__kormok_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a08b5bb6f0eef304cda34e83a271c0cd6":[8,0,0,0,1,3,2,7,2,3,1]
 };

@@ -27,5 +27,7 @@ var boss__emalon_8cpp =
       [ "SPELL_LIGHTNING_NOVA", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298caac47796ae5355ebf558988c4c62b8e28", null ]
     ] ],
     [ "AddSC_boss_emalon", "d8/d65/boss__emalon_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f", null ],
+    [ "MINION_RESPAWN_MAX_DIST", "d8/d65/boss__emalon_8cpp.html#ab4e0aae6960430ff28fa6c5c20ad1de9", null ],
+    [ "MINION_RESPAWN_MIN_DIST", "d8/d65/boss__emalon_8cpp.html#a89091b32cf86790ba9af5932f8197654", null ],
     [ "TempestMinions", "d8/d65/boss__emalon_8cpp.html#aafa35d9805b997859cde4b169584554b", null ]
 ];

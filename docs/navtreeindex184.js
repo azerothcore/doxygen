@@ -1,5 +1,13 @@
 var NAVTREEINDEX184 =
 {
+"d6/d7f/classUpdateFetcher.html#aba8b6a3e4101d39c2ce7ddd6856c7ad1":[7,0,4628,4],
+"d6/d7f/classUpdateFetcher.html#abd11bb24a80148b6df4d0d35c9c88c51":[7,0,4628,13],
+"d6/d7f/classUpdateFetcher.html#acd434dd3fa7a7b5dc0af64926d07dfcd":[7,0,4628,21],
+"d6/d7f/classUpdateFetcher.html#ace16a0c67cff7fc411d470b3085d90d8":[7,0,4628,5],
+"d6/d7f/classUpdateFetcher.html#ad6852ab3a0f89c161bc2ddf581c8b393":[7,0,4628,28],
+"d6/d7f/classUpdateFetcher.html#ad793c30d5c418199250afb3dbc7acfb5":[7,0,4628,12],
+"d6/d7f/classUpdateFetcher.html#ad8dd66f9b12ae37fd657a8983a9ea6a1":[7,0,4628,19],
+"d6/d7f/classUpdateFetcher.html#adace6180bb32614655fb1f99bbf4c1ef":[7,0,4628,15],
 "d6/d7f/classUpdateFetcher.html#adb2996b906800fb0cdb5cf7ae14353d0":[7,0,4628,6],
 "d6/d7f/classUpdateFetcher.html#aea00e99b87bd24fd182676bf79e68c95":[7,0,4628,29],
 "d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[7,0,4628,20],
@@ -241,13 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d82/classspell__mimiron__rocket__strike__aura.html#abbf60dac3d36d0833e6509aac83f2b49":[7,0,3685,2],
 "d6/d82/classspell__valanar__kinetic__bomb__aura.html":[7,0,4292],
 "d6/d82/classspell__valanar__kinetic__bomb__aura.html#a577523701b5a4ea2def4999e634c8862":[7,0,4292,1],
-"d6/d82/classspell__valanar__kinetic__bomb__aura.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0":[7,0,4292,0],
-"d6/d82/classspell__valanar__kinetic__bomb__aura.html#a9cfabcbbb9805a902fdd2d1b327dc4c7":[7,0,4292,3],
-"d6/d82/classspell__valanar__kinetic__bomb__aura.html#aaad9185c62333de4d6704b22780edd28":[7,0,4292,2],
-"d6/d83/LootItemStorage_8cpp.html":[8,0,0,0,1,2,24,0],
-"d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html":[7,0,381,0],
-"d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html#a185e04be9d28b9ac6755ade2cd552293":[7,0,381,0,0],
-"d6/d84/DatabaseWorker_8h.html":[8,0,0,0,1,1,0,9],
-"d6/d84/classboss__trollgore.html":[7,0,764],
-"d6/d84/classboss__trollgore.html#a6da1349da296a3dc3d29527a8e3c2b7d":[7,0,764,2]
+"d6/d82/classspell__valanar__kinetic__bomb__aura.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0":[7,0,4292,0]
 };

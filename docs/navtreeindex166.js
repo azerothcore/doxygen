@@ -1,5 +1,13 @@
 var NAVTREEINDEX166 =
 {
+"d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3204,1],
+"d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3204,0],
+"d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[7,0,3204,2],
+"d5/de3/classspell__item__totem__of__flowing__water.html":[7,0,3508],
+"d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3508,0],
+"d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3508,3],
+"d5/de3/classspell__item__totem__of__flowing__water.html#ad3e4a18ce21270eede17e29faa7dd897":[7,0,3508,2],
+"d5/de3/classspell__item__totem__of__flowing__water.html#af6ca1636d67b2d9f81a8743706ffb800":[7,0,3508,1],
 "d5/de3/classspell__razorscale__firebolt.html":[7,0,4003],
 "d5/de3/classspell__razorscale__firebolt.html#a5b94fde8602f7f00342bd81dc9c8cc11":[7,0,4003,1],
 "d5/de3/classspell__razorscale__firebolt.html#a6d990937a5fd06a877b775f719ba5a9f":[7,0,4003,2],
@@ -219,12 +227,12 @@ var NAVTREEINDEX166 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[8,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1006],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1006,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1006,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX166 =
 "d5/def/structChrClassesEntry.html#a2d0b7155b03af29bd982f31eba26ec24":[7,0,894,3],
 "d5/def/structChrClassesEntry.html#a43fbe48c99e297ea09e9e1f2edd6a4ea":[7,0,894,5],
 "d5/def/structChrClassesEntry.html#a74aec35dc161a7e830453b9365a6f107":[7,0,894,4],
-"d5/def/structChrClassesEntry.html#a7a0a35bbb69320565d991f4a349dc01b":[7,0,894,0],
-"d5/def/structChrClassesEntry.html#a7c57eabd8d94849cd8536b013a8d4138":[7,0,894,2],
-"d5/def/structChrClassesEntry.html#a9da8d8d20126e9dc161b1dd64a19fe59":[7,0,894,1],
-"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html":[7,0,449,0],
-"d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html#ab0d0f8a7ec6567e8811d09721f6fa9ed":[7,0,449,0,0],
-"d5/df0/PetitionsHandler_8cpp.html":[8,0,0,0,1,2,22,24],
-"d5/df0/WeatherScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
-"d5/df0/WeatherScript_8cpp.html#aa691cee39a36861af34c3315e7aa582b":[8,0,0,0,1,2,38,0,90,0],
-"d5/df0/classAcore_1_1HealthOrderPred.html":[7,0,0,65]
+"d5/def/structChrClassesEntry.html#a7a0a35bbb69320565d991f4a349dc01b":[7,0,894,0]
 };

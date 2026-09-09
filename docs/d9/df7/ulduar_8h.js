@@ -115,6 +115,7 @@ var ulduar_8h =
       [ "GO_LEVIATHAN_DOORS", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1", null ],
       [ "GO_LIGHTNING_WALL1", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904aeabcfedbee959ff7db15113b21e7ba1a", null ],
       [ "GO_LIGHTNING_WALL2", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904af18f7ee1e8d8e17b686781fd16238dff", null ],
+      [ "GO_ULDUAR_PROTECTIVE_BUBBLE", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904ac46bec01df7ed96fefefde199e640c22", null ],
       [ "GO_MIMIRONS_TARGETTING_CRYSTAL", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a5a201f0d881977deb5218ea0f6dcf1d4", null ],
       [ "GO_FREYAS_TARGETTING_CRYSTAL", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904afe59b5fb8e937badcf0d05987bbd6810", null ],
       [ "GO_HODIRS_TARGETTING_CRYSTAL", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904ae393d1ec34d4aa55af9a01ba84cb9b5e", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX25 =
 {
+"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,0,129,0],
+"d1/d05/structMmapTileRecastConfig.html":[7,0,1558],
+"d1/d05/structMmapTileRecastConfig.html#a16440d4ea4533b065cfa8aac216c275a":[7,0,1558,11],
+"d1/d05/structMmapTileRecastConfig.html#a37b48fdf0ff629ff18e262cf1b74604a":[7,0,1558,2],
 "d1/d05/structMmapTileRecastConfig.html#a49b023bc34148196590dfd5c42fe49f6":[7,0,1558,1],
 "d1/d05/structMmapTileRecastConfig.html#a620f2c8f7dae449054a0c9f7fdbb7bdd":[7,0,1558,6],
 "d1/d05/structMmapTileRecastConfig.html#a6a95c1c214c3102d2618eaf3df850232":[7,0,1558,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a32e917a293fa4ebd41a1cd1914debaff":[7,0,2635,53],
 "d1/d16/classSpell.html#a33769199858a923c7875863722c7ac4e":[7,0,2635,301],
 "d1/d16/classSpell.html#a3378c5e643dbbde893606505c42817b5":[7,0,2635,226],
-"d1/d16/classSpell.html#a33c67fa14e2f2d76f6e0369170fdac2f":[7,0,2635,212],
-"d1/d16/classSpell.html#a33c6addb2f24e2bb07610004409c0686":[7,0,2635,302],
-"d1/d16/classSpell.html#a33ed094e3dd4ee24c1a5169e93047333":[7,0,2635,281],
-"d1/d16/classSpell.html#a3410bf3e596bb073ddb522fcca2f2d4f":[7,0,2635,246],
-"d1/d16/classSpell.html#a3410dfd5def917fb41e5a9c923246d2f":[7,0,2635,146]
+"d1/d16/classSpell.html#a33c67fa14e2f2d76f6e0369170fdac2f":[7,0,2635,212]
 };

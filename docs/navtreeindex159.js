@@ -1,5 +1,13 @@
 var NAVTREEINDEX159 =
 {
+"d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9":[8,0,0,0,1,3,5,12,8,22],
+"d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df":[8,0,0,0,1,3,5,12,8,22,3],
+"d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6":[8,0,0,0,1,3,5,12,8,22,2],
+"d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974":[8,0,0,0,1,3,5,12,8,22,0],
+"d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97":[8,0,0,0,1,3,5,12,8,22,1],
+"d5/d9c/violet__hold_8cpp.html#a4d1c4ff51073f003f5d430153811d5d6":[8,0,0,0,1,3,5,12,8,17],
+"d5/d9c/violet__hold_8cpp.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b":[8,0,0,0,1,3,5,12,8,17,0],
+"d5/d9c/violet__hold_8cpp.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd":[8,0,0,0,1,3,5,12,8,17,1],
 "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3c":[8,0,0,0,1,3,5,12,8,23],
 "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae":[8,0,0,0,1,3,5,12,8,23,1],
 "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172":[8,0,0,0,1,3,5,12,8,23,0],
@@ -123,12 +131,12 @@ var NAVTREEINDEX159 =
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[7,0,0,33],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[8,0,0,0,1,2,44,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[8,0,0,0,1,2,44,1,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX159 =
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#a5bd342133be8c2137b831460acc9298caf449fe258d0ab41f9eea3eb1ff26dda1":[8,0,0,0,1,3,2,1,1,7,3,0],
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#a934b2523d92c5bd9efd2add4089877cb":[8,0,0,0,1,3,2,1,1,7,4],
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#ac63995bcf91834ff1fb67924bb465e62":[8,0,0,0,1,3,2,1,1,7,6],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,1,7,2],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[8,0,0,0,1,3,2,1,1,7,2,3],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa2fa30e2b0ebb3c3255416c9a8dec98a":[8,0,0,0,1,3,2,1,1,7,2,0],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab87c635c83596216636fa80e5fc2e066":[8,0,0,0,1,3,2,1,1,7,2,1],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,7,2,2],
-"d5/da5/boss__overlord__wyrmthalak_8cpp.html#afe85dd46e905f955680082b127a758c0":[8,0,0,0,1,3,2,1,1,7,5],
-"d5/da6/classspell__the__lich__king__cast__back__to__caster.html":[7,0,4225],
-"d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a19492e616ac6e69187bca4499175071e":[7,0,4225,1],
-"d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a3446174d3308f535c27581b63ade9e8a":[7,0,4225,2]
+"d5/da5/boss__overlord__wyrmthalak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,1,7,2]
 };

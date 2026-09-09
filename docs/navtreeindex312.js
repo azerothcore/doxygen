@@ -1,5 +1,16 @@
 var NAVTREEINDEX312 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1ab0ba98cb6d4e115d23d38ae6bd858e3c":[8,0,0,0,1,3,2,30,32,17],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1abfc7d54e74db92362bf3ea462b72d431":[8,0,0,0,1,3,2,30,32,12],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1ae890adead55474482b5031f6a3ac6b6b":[8,0,0,0,1,3,2,30,32,18],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af0bfd11832b7b0c618f4f777cec9a666":[8,0,0,0,1,3,2,30,32,22],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af1a666ea0d02fcaa052b6a4e232855f5":[8,0,0,0,1,3,2,30,32,10],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1afb793747c717daaa6a0d41719459878f":[8,0,0,0,1,3,2,30,32,14],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a4a9cc76e41bd77e034f57ac5663bfbe8":[8,0,0,0,1,3,2,30,25],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8":[8,0,0,0,1,3,2,30,25,1],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7":[8,0,0,0,1,3,2,30,25,0],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70b":[8,0,0,0,1,3,2,30,40],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70ba03b5589ad37e3b3fd76b0cfcda7eeb5e":[8,0,0,0,1,3,2,30,40,13],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967":[8,0,0,0,1,3,2,30,40,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6":[8,0,0,0,1,3,2,30,40,4],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951":[8,0,0,0,1,3,2,30,40,8],
@@ -238,16 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1aaf01f8dbe437f4c2fa1d65529842855b":[8,0,0,0,1,3,2,30,30,15],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1ab8f6a75550e032359358b34f634cba55":[8,0,0,0,1,3,2,30,30,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1abac8db7b68507c26bf24c39c203e9152":[8,0,0,0,1,3,2,30,30,6],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1ac4f4af4c40595895f52705d2ed665394":[8,0,0,0,1,3,2,30,30,5],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1ad5f46fcf508a833354863a9a08ae8afe":[8,0,0,0,1,3,2,30,30,3],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1af0ee01b71bd8c307a33c49cde72893db":[8,0,0,0,1,3,2,30,30,7],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1af224d8dc029d63e029d2899003bb50ea":[8,0,0,0,1,3,2,30,30,17],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1af9c36dd82029898e9edd9f0220c2546b":[8,0,0,0,1,3,2,30,30,13],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aeb95da9b3eb8c0da9ad295722d84945b":[8,0,0,0,1,3,2,30,44],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64":[8,0,0,0,1,3,2,30,35],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a1cef0f177cd2966e4518d2d3dbfb2954":[8,0,0,0,1,3,2,30,35,2],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a281b29a4bf903ad047692a5d1a49ab85":[8,0,0,0,1,3,2,30,35,9],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a2f40ed3f965729d8ec33e2359ef5fc95":[8,0,0,0,1,3,2,30,35,6],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a33bb2c810a28c5cfaae4b4cec80e1b10":[8,0,0,0,1,3,2,30,35,3],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aed30148e36f529292aee0375972d6f64a43371f715496aed6472c9b0ae7e21241":[8,0,0,0,1,3,2,30,35,4]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1ac4f4af4c40595895f52705d2ed665394":[8,0,0,0,1,3,2,30,30,5]
 };

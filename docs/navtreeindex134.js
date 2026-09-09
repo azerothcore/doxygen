@@ -1,5 +1,13 @@
 var NAVTREEINDEX134 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1a4d1744e7196bab33757de44b5cee0258":[8,0,0,0,1,3,5,2,1,1,40,6],
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1a5433de6a2ef066eae09afdb74cec4658":[8,0,0,0,1,3,5,2,1,1,40,4],
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1a9ad2ccfa253f4ce3df97eff0f5e257a7":[8,0,0,0,1,3,5,2,1,1,40,3],
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1acfc64128a84be1d7d19c808c45d9a1e1":[8,0,0,0,1,3,5,2,1,1,40,1],
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1ae9dd990a9bb360b30e55604ce4f6664c":[8,0,0,0,1,3,5,2,1,1,40,2],
+"d4/d81/boss__faction__champions_8cpp.html#a4314216bb5596fd6fce4ba2f44bc7fe1af6347ecd9aa86efe5243c2ea13496f04":[8,0,0,0,1,3,5,2,1,1,40,5],
+"d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1":[8,0,0,0,1,3,5,2,1,1,48],
+"d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a01403f46ad9c5f2409e0159074061c8a":[8,0,0,0,1,3,5,2,1,1,48,3],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,2,1,1,48,6],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a1e430a06e27041177b6695016a4df3f8":[8,0,0,0,1,3,5,2,1,1,48,7],
 "d4/d81/boss__faction__champions_8cpp.html#a44af0fe40963ffb9aed6b44b987b00d1a361e156e4e2b1aab5b2a522871b5abdb":[8,0,0,0,1,3,5,2,1,1,48,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX134 =
 "d4/d88/Log_8cpp.html":[8,0,0,0,0,9,8],
 "d4/d88/structnpc__lor__themar__theron.html":[7,0,1981],
 "d4/d88/structnpc__lor__themar__theron.html#aa9eafbacdb75bfbf772c901ce96119c6":[7,0,1981,2],
-"d4/d88/structnpc__lor__themar__theron.html#acf8b65675cc46949440a829fc1adf5fc":[7,0,1981,0],
-"d4/d88/structnpc__lor__themar__theron.html#ad2615cc062c8c1f4b01fc9e253fe34d4":[7,0,1981,1],
-"d4/d89/classnpc__toc__dk.html":[7,0,2232],
-"d4/d89/classnpc__toc__dk.html#ac5252f0f7ab993c8187aff17dac7a795":[7,0,2232,2],
-"d4/d89/classnpc__toc__dk.html#ac8b2c11f64f9cc6f4be91be1e3184b8a":[7,0,2232,1],
-"d4/d89/classspell__item__necrotic__touch.html":[7,0,3451],
-"d4/d89/classspell__item__necrotic__touch.html#a1d45afc30c8dd6de0a01285778117033":[7,0,3451,1],
-"d4/d89/classspell__item__necrotic__touch.html#a2e83dd62bfcbe23e38b62e8299a52ee5":[7,0,3451,0],
-"d4/d89/classspell__item__necrotic__touch.html#a30e57e0b04e16a4a232c6a18801fafa0":[7,0,3451,4]
+"d4/d88/structnpc__lor__themar__theron.html#acf8b65675cc46949440a829fc1adf5fc":[7,0,1981,0]
 };

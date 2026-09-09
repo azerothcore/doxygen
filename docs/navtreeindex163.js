@@ -1,5 +1,13 @@
 var NAVTREEINDEX163 =
 {
+"d5/dc5/SecretMgr_8cpp.html#a03463ea440a7f843bdf8415f362a49f5":[8,0,0,0,1,4,4,0,3],
+"d5/dc5/SecretMgr_8cpp.html#a39b73180b1b7c528faf5774c3a2a7676":[8,0,0,0,1,4,4,0,4],
+"d5/dc5/SecretMgr_8cpp.html#a70a4d0f8c2ee51e0b67794cea19657d1":[8,0,0,0,1,4,4,0,1],
+"d5/dc5/SecretMgr_8cpp.html#a7a4c8b2d083fa8310d30aa4b21217766":[8,0,0,0,1,4,4,0,5],
+"d5/dc5/SecretMgr_8cpp.html#a7e7cfdab68c3e6a9600329d157ed30e7":[8,0,0,0,1,4,4,0,2],
+"d5/dc5/classspell__four__horsemen__mark__aura.html":[7,0,2985],
+"d5/dc5/classspell__four__horsemen__mark__aura.html#a5674396828adf4e80102ed2277f1e08a":[7,0,2985,3],
+"d5/dc5/classspell__four__horsemen__mark__aura.html#a72a01dea703436b2a220a9976da60fa6":[7,0,2985,0],
 "d5/dc5/classspell__four__horsemen__mark__aura.html#adb17425258d4fb2c0c464236e15f32d7":[7,0,2985,1],
 "d5/dc5/classspell__four__horsemen__mark__aura.html#af026c126029c68ed8b7c6c1886720e4c":[7,0,2985,2],
 "d5/dc5/classspell__item__light__lamp.html":[7,0,3430],
@@ -241,13 +249,5 @@ var NAVTREEINDEX163 =
 "d5/dce/outland__script__loader_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[8,0,0,0,1,3,7,8,26],
 "d5/dce/outland__script__loader_8cpp.html#a8c9725cac978bfa0eb0405faa6588549":[8,0,0,0,1,3,7,8,99],
 "d5/dce/outland__script__loader_8cpp.html#a8dd853c0aa921219f801bf5bdcfaedf9":[8,0,0,0,1,3,7,8,54],
-"d5/dce/outland__script__loader_8cpp.html#a944f7f7f41e047f2a4f82fb9af0b4829":[8,0,0,0,1,3,7,8,88],
-"d5/dce/outland__script__loader_8cpp.html#a9635474efd3864a1fd97e1d7b77d46ca":[8,0,0,0,1,3,7,8,40],
-"d5/dce/outland__script__loader_8cpp.html#a96d51617c4818c06de68961b8bd2bacc":[8,0,0,0,1,3,7,8,9],
-"d5/dce/outland__script__loader_8cpp.html#a98c9216d522184f8377a09a4733b2e9d":[8,0,0,0,1,3,7,8,38],
-"d5/dce/outland__script__loader_8cpp.html#a9aa3518f4196a7c844ab6ffafbc91068":[8,0,0,0,1,3,7,8,39],
-"d5/dce/outland__script__loader_8cpp.html#a9dded692c6272b6a82505b0581e607a0":[8,0,0,0,1,3,7,8,14],
-"d5/dce/outland__script__loader_8cpp.html#a9df48fc21316c84ffdd140741d0dd476":[8,0,0,0,1,3,7,8,36],
-"d5/dce/outland__script__loader_8cpp.html#aa4b29bcdc0ed0806ce7ee236ea323aaf":[8,0,0,0,1,3,7,8,65],
-"d5/dce/outland__script__loader_8cpp.html#ab3a34e5f5a1433a62cdca43b8f13182c":[8,0,0,0,1,3,7,8,82]
+"d5/dce/outland__script__loader_8cpp.html#a944f7f7f41e047f2a4f82fb9af0b4829":[8,0,0,0,1,3,7,8,88]
 };

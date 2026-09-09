@@ -1,5 +1,13 @@
 var NAVTREEINDEX206 =
 {
+"d7/d95/classPoolMgr.html#ae3dbde9c46f8152b35f5d2d287447747":[7,0,2464,59],
+"d7/d95/classPoolMgr.html#ae4c6785df0887431da243334bbdb7f3c":[7,0,2464,58],
+"d7/d95/classPoolMgr.html#ae71fbf288f097e66b05d7bc4843b276c":[7,0,2464,17],
+"d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13":[7,0,2464,55],
+"d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867":[7,0,2464,50],
+"d7/d95/classPoolMgr.html#affe49daff934817d20d97c62bbcb799e":[7,0,2464,7],
+"d7/d95/classnpc__vengeful__shade.html":[7,0,2300],
+"d7/d95/classnpc__vengeful__shade.html#a99c535efd94fbd5bded8fd9555bb6eaf":[7,0,2300,1],
 "d7/d95/classnpc__vengeful__shade.html#afa2c672015b43d83bd55050ed020f7e5":[7,0,2300,2],
 "d7/d96/classboss__ysondre.html":[7,0,822],
 "d7/d96/classboss__ysondre.html#a0da215d7bc8ee86216887e682b9335c3":[7,0,822,2],
@@ -237,17 +245,9 @@ var NAVTREEINDEX206 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[7,0,299,2,0],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[7,0,299,2,1],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,299,2,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[7,0,13,14,8,0],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[5,0,34,14,8,0],
-"d7/d9e/classboss__drakkari__colossus.html":[7,0,445],
-"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[7,0,445,2],
-"d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[7,0,445,1],
-"d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
-"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1]
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2]
 };

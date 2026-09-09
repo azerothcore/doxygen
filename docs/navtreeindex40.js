@@ -1,5 +1,9 @@
 var NAVTREEINDEX40 =
 {
+"d1/da5/structnpc__azure__captain.html#a6a69ea3d3eb75601f723a10eab68c260":[7,0,1669,3],
+"d1/da5/structnpc__azure__captain.html#a9aacf1533414ade27973ddcc46434978":[7,0,1669,2],
+"d1/da5/structnpc__azure__captain.html#abbdba89267506b8dd1e93ea0e059979c":[7,0,1669,0],
+"d1/da5/structnpc__azure__captain.html#ae9b8cc434f2b5690f3abc55d557cbd54":[7,0,1669,1],
 "d1/da6/structWaveData.html":[7,0,4668],
 "d1/da6/structWaveData.html#a09f696e37f96e7da259fc026a7c4fd83":[7,0,4668,0],
 "d1/da6/structWaveData.html#a0a9807e31c2d5c769bc0a020941b234c":[7,0,4668,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dae/classdebug__commandscript.html#ae835b43df7a7828c76e00882083fc29c":[7,0,996,44],
 "d1/dae/classdebug__commandscript.html#aec99137aa0b990df4be071ea6b7a45ff":[7,0,996,41],
 "d1/dae/classdebug__commandscript.html#af661244d384f7ba7a4c4d4c21be301cc":[7,0,996,3],
-"d1/dae/classdebug__commandscript.html#afc98239f8690fd3eae898c3f11d91e0c":[7,0,996,5],
-"d1/dae/classdebug__commandscript.html#afd04362c8f0190a968dcdc4795a6ed95":[7,0,996,46],
-"d1/daf/Unit_8h.html":[8,0,0,0,1,2,16,10,5],
-"d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735":[8,0,0,0,1,2,16,10,5,51],
-"d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a6e506f81d8257be9b031ecaf9d9922d1":[8,0,0,0,1,2,16,10,5,51,0]
+"d1/dae/classdebug__commandscript.html#afc98239f8690fd3eae898c3f11d91e0c":[7,0,996,5]
 };

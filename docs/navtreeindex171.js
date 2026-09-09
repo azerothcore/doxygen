@@ -1,5 +1,13 @@
 var NAVTREEINDEX171 =
 {
+"d6/d0a/classspell__gen__black__magic__enchant.html#ab0746e7fa614f09708f89ed3ef93fca9":[7,0,3028,2],
+"d6/d0a/classspell__gen__black__magic__enchant.html#afa477049b9a4fa18594b203a6066d205":[7,0,3028,0],
+"d6/d0b/boss__anzu_8cpp.html":[8,0,0,0,1,3,7,0,2,0],
+"d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,2,0,3],
+"d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298ca01317207f01fec5b2daa78bb64b528d2":[8,0,0,0,1,3,7,0,2,0,3,1],
+"d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e62d64501defa8b93c0ef622cefce09":[8,0,0,0,1,3,7,0,2,0,3,4],
+"d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298ca4b45da5043a66b0fc15a3ed4499ce518":[8,0,0,0,1,3,7,0,2,0,3,3],
+"d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298cab0dea4de61535b7690ae66cfa6440f58":[8,0,0,0,1,3,7,0,2,0,3,2],
 "d6/d0b/boss__anzu_8cpp.html#a5bd342133be8c2137b831460acc9298caf603707542058ae07e71e67afc81a166":[8,0,0,0,1,3,7,0,2,0,3,0],
 "d6/d0b/boss__anzu_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,2,0,2],
 "d6/d0b/boss__anzu_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a06a4cee53dcc6b01997222c187afa7bf":[8,0,0,0,1,3,7,0,2,0,2,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d11/classBreakableCCProcTest.html#a90bb496c51cd49d187389e714360afca":[7,0,839,0],
 "d6/d11/classBreakableCCProcTest.html#ad18ef661fd5ab748c1c2c5d193b2a7d0":[7,0,839,4],
 "d6/d11/classBreakableCCProcTest.html#af90043fc0fe122bcbb1c60efcb56a92b":[7,0,839,1],
-"d6/d11/magisters__terrace_8h.html":[8,0,0,0,1,3,2,5,5],
-"d6/d11/magisters__terrace_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,5,5,0],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867d":[8,0,0,0,1,3,2,5,5,8],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a":[8,0,0,0,1,3,2,5,5,8,3],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7":[8,0,0,0,1,3,2,5,5,8,0],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64":[8,0,0,0,1,3,2,5,5,8,1],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086":[8,0,0,0,1,3,2,5,5,8,2],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25":[8,0,0,0,1,3,2,5,5,8,4],
-"d6/d11/magisters__terrace_8h.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd":[8,0,0,0,1,3,2,5,5,8,5]
+"d6/d11/magisters__terrace_8h.html":[8,0,0,0,1,3,2,5,5]
 };

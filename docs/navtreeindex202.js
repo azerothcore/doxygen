@@ -1,5 +1,13 @@
 var NAVTREEINDEX202 =
 {
+"d7/d56/classspell__brutallus__burn.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16":[7,0,2751,2],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html":[7,0,3629],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#a6c38df91dbe0cf277d1d50a40edd4589":[7,0,3629,1],
+"d7/d56/classspell__mage__incanters__absorbtion__base__AuraScript.html#aa16aba75a066e83cb56660a0e29e7453":[7,0,3629,0],
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html":[7,0,1954,0],
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0e1e6beaa98090d8bf8a17d28a9ee733":[7,0,1954,0,4],
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0f7a4566ca93a174c92fe10e904af480":[7,0,1954,0,0],
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a1df028085cf1cb9e8152cdb70a3d28b1":[7,0,1954,0,5],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a20fac33bf3322ad0caf72ea883680b8d":[7,0,1954,0,3],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a8b0a606510d278f26099a125d583377a":[7,0,1954,0,2],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a8cfd8d869f8a313d041d89f8d0daa1bb":[7,0,1954,0,7],
@@ -185,12 +193,12 @@ var NAVTREEINDEX202 =
 "d7/d61/classFactoryCreatureScript.html":[7,0,1065],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[7,0,1065,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1065,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[8,0,0,0,1,3,2,21],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[8,0,0,0,1,3,2,21,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[8,0,0,0,1,3,2,21,6,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942":[8,0,0,0,1,3,2,21,8,16],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc":[8,0,0,0,1,3,2,21,8,13],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7f96446be0a530da18223bb22482eb13":[8,0,0,0,1,3,2,21,5],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb":[8,0,0,0,1,3,2,21,5,0],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521":[8,0,0,0,1,3,2,21,4],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a":[8,0,0,0,1,3,2,21,4,1],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f":[8,0,0,0,1,3,2,21,4,0],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7":[8,0,0,0,1,3,2,21,4,5],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4":[8,0,0,0,1,3,2,21,4,4],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1":[8,0,0,0,1,3,2,21,4,6],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8":[8,0,0,0,1,3,2,21,4,3],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d":[8,0,0,0,1,3,2,21,4,2]
+"d7/d61/zone__elwynn__forest_8cpp.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb":[8,0,0,0,1,3,2,21,5,0]
 };

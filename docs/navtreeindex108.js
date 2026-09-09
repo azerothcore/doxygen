@@ -1,5 +1,13 @@
 var NAVTREEINDEX108 =
 {
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a60e7f4938fc88cf1649f00a81e4ea95b":[8,0,0,0,1,3,7,3,1,5,20],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a69fcca2d13e03c684fa0459f960ef9a7":[8,0,0,0,1,3,7,3,1,5,19],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,7,3,1,5,17],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a70217cff0adeb1a0499b1651a82f03ef":[8,0,0,0,1,3,7,3,1,5,16],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a70309c041527816c73053b7d9b387f88":[8,0,0,0,1,3,7,3,1,5,23],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a920803a7ad734282762d93767b701526":[8,0,0,0,1,3,7,3,1,5,15],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a95b1d5ce0a72c3cd74ad2936384e0327":[8,0,0,0,1,3,7,3,1,5,2],
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a98984f299eb2988a14d18b17e10cae58":[8,0,0,0,1,3,7,3,1,5,10],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,3,1,5,3],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00ab7f9ec669b70354ccaba25559dda41d7":[8,0,0,0,1,3,7,3,1,5,21],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00abfd4b3a49fefdc02e654db0e63326f1e":[8,0,0,0,1,3,7,3,1,5,5],
@@ -12,10 +20,10 @@ var NAVTREEINDEX108 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[7,0,0,30],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,42,2],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[7,0,0,30,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,0,42,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[7,0,0,30,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,0,42,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[7,0,0,30,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[7,0,2731],
@@ -241,13 +249,5 @@ var NAVTREEINDEX108 =
 "d3/da5/classspell__vem__knockback.html#ac8412777c84abfe56262d6d83163e9a1":[7,0,4304,2],
 "d3/da6/BattlegroundRV_8h.html":[8,0,0,0,1,2,8,1,17],
 "d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436":[8,0,0,0,1,2,8,1,17,3],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4":[8,0,0,0,1,2,8,1,17,3,6],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a04808f08eb598192b617907fd51e0a15":[8,0,0,0,1,2,8,1,17,3,13],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a25271eab61123d9887adb758a9f79b58":[8,0,0,0,1,2,8,1,17,3,11],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a258356e82cf4da9b5e751765bf518895":[8,0,0,0,1,2,8,1,17,3,14],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a25d784ddd4f2eaeb962ab84de9fb23d0":[8,0,0,0,1,2,8,1,17,3,16],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a3810356845120e6dae0fdd79cee11a47":[8,0,0,0,1,2,8,1,17,3,3],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a46acd9a6aca7218ab030d97ac5e43a4a":[8,0,0,0,1,2,8,1,17,3,8],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a51eab52cbe9e830c225687812f461673":[8,0,0,0,1,2,8,1,17,3,15],
-"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a5811c26c50bd9b7c7254e4904b243c18":[8,0,0,0,1,2,8,1,17,3,5]
+"d3/da6/BattlegroundRV_8h.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4":[8,0,0,0,1,2,8,1,17,3,6]
 };

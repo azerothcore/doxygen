@@ -1,5 +1,13 @@
 var NAVTREEINDEX92 =
 {
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#aafcf7f832f3c5412bc1c71fc59dec003":[7,0,2050,8],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#ab15331d6fd3a2783a4c95d49e4dbe7b2":[7,0,2050,0],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#abd7728d7ac2a59b436385069ffc62c9d":[7,0,2050,10],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#ac99fa024d5c71c37e94d0ff17808e2d4":[7,0,2050,14],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#ae7927006050c6eab309671b2d39ac74e":[7,0,2050,3],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#ae921b29ac3e5d5f7b39cd660848242f0":[7,0,2050,12],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#aece047445959751d8bff83ed3555a382":[7,0,2050,2],
+"d2/dff/boss__balinda_8cpp.html":[8,0,0,0,1,3,2,0,1],
 "d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,2,0,1,1],
 "d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a192438ec5d0934ed1bec419036328553":[8,0,0,0,1,3,2,0,1,1,0],
 "d2/dff/boss__balinda_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,0,1,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d09/zone__borean__tundra_8cpp.html#a037d10edadc628a819668d1423dce3d3a0d90e09d08c336fc0b8ae5d148d2688d":[8,0,0,0,1,3,5,15,44,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a037d10edadc628a819668d1423dce3d3a7270608394b563fe8e6e948994a96b91":[8,0,0,0,1,3,5,15,44,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00d":[8,0,0,0,1,3,5,15,49],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0":[8,0,0,0,1,3,5,15,49,1],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00dac8a2c336b9eed7a90513476a0d95a8be":[8,0,0,0,1,3,5,15,49,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753ea":[8,0,0,0,1,3,5,15,37],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa11d28e938d92955f4e096347075ac6e0":[8,0,0,0,1,3,5,15,37,6],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa4024ad02fa31b228201d11fbec9c6d21":[8,0,0,0,1,3,5,15,37,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa5681cf83031a2d10efdb337c6284b03a":[8,0,0,0,1,3,5,15,37,5],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaaae46fbdb48cbc6ec3a220effb7ada8d4":[8,0,0,0,1,3,5,15,37,4],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaab0ff1d42340a3323d3b025ac6c22404f":[8,0,0,0,1,3,5,15,37,1],
-"d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaabb8c2fd739e45ae208f80ef33ec0a5d8":[8,0,0,0,1,3,5,15,37,3]
+"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0":[8,0,0,0,1,3,5,15,49,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX50 =
 {
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[7,0,2096,0,5],
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a44460335986bcedf35dc295c242df6da":[7,0,2096,0,7],
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a51769d22a4cb448fae90d827e2494581":[7,0,2096,0,0],
+"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a6c4d82c46547bbb2f86dd7f9fa88c743":[7,0,2096,0,3],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a8f8bbb06c50215c90cf11ddbc925ba5d":[7,0,2096,0,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#ac0d1550855988fe6f562e8a0a6ada80f":[7,0,2096,0,1],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#ac81d85e0ceb0b571373f44475baa36df":[7,0,2096,0,6],
@@ -145,12 +149,12 @@ var NAVTREEINDEX50 =
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1672],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[7,0,1672,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[7,0,1672,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d04/classBattlegroundAV.html#a513060614915a5d0b5c513a5e6a35410":[7,0,333,35],
 "d2/d04/classBattlegroundAV.html#a608dc42a00ef8b541d97ca17d28149b8":[7,0,333,19],
 "d2/d04/classBattlegroundAV.html#a620e8e207b67bce220351ff4fa1e517d":[7,0,333,33],
-"d2/d04/classBattlegroundAV.html#a63bcb42e763575d625e1c8d2ed20ebf1":[7,0,333,41],
-"d2/d04/classBattlegroundAV.html#a65e7532efee106ee3529c593c2e772f5":[7,0,333,47],
-"d2/d04/classBattlegroundAV.html#a6ac3561d84ee9b9dbbde1db795641921":[7,0,333,25],
-"d2/d04/classBattlegroundAV.html#a7177d62ef0590c50c2dde597c5348550":[7,0,333,15],
-"d2/d04/classBattlegroundAV.html#a797f06cae79c503186d4eaf560c073df":[7,0,333,52]
+"d2/d04/classBattlegroundAV.html#a63bcb42e763575d625e1c8d2ed20ebf1":[7,0,333,41]
 };

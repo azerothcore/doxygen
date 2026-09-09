@@ -1,5 +1,13 @@
 var NAVTREEINDEX146 =
 {
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[5,0,0,31,4],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[5,0,0,31,5],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[7,0,0,19,5],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[5,0,0,31,6],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[7,0,0,19,6],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[5,0,0,31,1],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[7,0,0,19,1],
+"d5/d09/classPetAura.html":[7,0,2423],
 "d5/d09/classPetAura.html#a216021a7ad893ae6ca65ea068dd6eedb":[7,0,2423,8],
 "d5/d09/classPetAura.html#a38087712cef92ad55dc84f96e2b9e300":[7,0,2423,5],
 "d5/d09/classPetAura.html#a6c020340ff467b5f2d00c3b5f9fee817":[7,0,2423,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd":[8,0,0,0,1,3,2,17,2,7],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873":[8,0,0,0,1,3,2,17,2,11],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21":[8,0,0,0,1,3,2,17,2,0],
-"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3":[8,0,0,0,1,3,2,17,2,5],
-"d5/d16/classspell__keeper__freya__summon__sanity__well.html":[7,0,3549],
-"d5/d16/classspell__keeper__freya__summon__sanity__well.html#a648fb610fb1914efac7f2cb6e1bb4290":[7,0,3549,1],
-"d5/d16/classspell__keeper__freya__summon__sanity__well.html#aa24cfd6feec65f466e74c68484815c1e":[7,0,3549,0],
-"d5/d16/classspell__keeper__freya__summon__sanity__well.html#ac1c0076665edc6a2b3a0228340020a1e":[7,0,3549,2],
-"d5/d16/structboss__lucifron.html":[7,0,615],
-"d5/d16/structboss__lucifron.html#a632be7d3aaa9cc2360fce6871918a4b1":[7,0,615,0],
-"d5/d16/structboss__lucifron.html#a9ebfc9877165aaadd2ea446995f4cf99":[7,0,615,2],
-"d5/d16/structboss__lucifron.html#ae392b01817d9160ef0c80387406ad6fa":[7,0,615,1]
+"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3":[8,0,0,0,1,3,2,17,2,5]
 };

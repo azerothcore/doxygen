@@ -1,5 +1,13 @@
 var NAVTREEINDEX147 =
 {
+"d5/d16/classspell__keeper__freya__summon__sanity__well.html":[7,0,3549],
+"d5/d16/classspell__keeper__freya__summon__sanity__well.html#a648fb610fb1914efac7f2cb6e1bb4290":[7,0,3549,1],
+"d5/d16/classspell__keeper__freya__summon__sanity__well.html#aa24cfd6feec65f466e74c68484815c1e":[7,0,3549,0],
+"d5/d16/classspell__keeper__freya__summon__sanity__well.html#ac1c0076665edc6a2b3a0228340020a1e":[7,0,3549,2],
+"d5/d16/structboss__lucifron.html":[7,0,615],
+"d5/d16/structboss__lucifron.html#a632be7d3aaa9cc2360fce6871918a4b1":[7,0,615,0],
+"d5/d16/structboss__lucifron.html#a9ebfc9877165aaadd2ea446995f4cf99":[7,0,615,2],
+"d5/d16/structboss__lucifron.html#ae392b01817d9160ef0c80387406ad6fa":[7,0,615,1],
 "d5/d17/structnpc__love__in__air__snivel__real.html":[7,0,1987],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028":[7,0,1987,1],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a22ed25da8fe3441ef0e4183390983f40":[7,0,1987,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05":[7,0,2575,9],
 "d5/d23/classScriptRegistry.html#a4274e01ddb2659f125970b97014da00e":[7,0,2575,13],
 "d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd":[7,0,2575,10],
-"d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622":[7,0,2575,8],
-"d5/d23/classScriptRegistry.html#a575c2a2974f9e002a8a3bb1b858a2912":[7,0,2575,1],
-"d5/d23/classScriptRegistry.html#a57e93b2fa2db2a29fa4c12714e217d43":[7,0,2575,14],
-"d5/d23/classScriptRegistry.html#a8d784f25a47c9ca4be72fca0215bf1c8":[7,0,2575,6],
-"d5/d23/classScriptRegistry.html#aa66e44e9291be980d12f4167f699c680":[7,0,2575,11],
-"d5/d23/classScriptRegistry.html#aa86b74a2560deae81f5c2a38cf1f72c8":[7,0,2575,7],
-"d5/d23/classScriptRegistry.html#abf04ad36ed630be4499f0be2d53016a9":[7,0,2575,4],
-"d5/d23/classScriptRegistry.html#ac0554c5200368592f5d0bfb1025935fe":[7,0,2575,5],
-"d5/d23/classScriptRegistry.html#ac67b828a489c483ceaaa745b2dd7ef57":[7,0,2575,12]
+"d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622":[7,0,2575,8]
 };

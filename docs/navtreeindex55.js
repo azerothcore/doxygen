@@ -1,5 +1,9 @@
 var NAVTREEINDEX55 =
 {
+"d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada2ad75f4c7763d73db54dc62a5dd604d3":[8,0,0,0,1,2,36,2,19,3],
+"d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada3babe1bfcae1e2c0c0f4b399eabcdaab":[8,0,0,0,1,2,36,2,19,14],
+"d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada3e7201a507f2f10de112891952cc9a4f":[8,0,0,0,1,2,36,2,19,11],
+"d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada4726399798328d7ca8e96079d8938024":[8,0,0,0,1,2,36,2,19,9],
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada49d3399783473d7ca4b2d1e76dcabfac":[8,0,0,0,1,2,36,2,19,1],
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada4afd8bfda28dd7b52858a29f88d80a1f":[8,0,0,0,1,2,36,2,19,8],
 "d2/d27/QuestDef_8h.html#afa444be95c64570168d2ecd6732aa7ada733d4cbb745e91f0d9b144facca67b27":[8,0,0,0,1,2,36,2,19,13],
@@ -68,8 +72,8 @@ var NAVTREEINDEX55 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[7,0,3214,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[7,0,3214,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[7,0,3214,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[7,0,0,122,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
@@ -95,8 +99,8 @@ var NAVTREEINDEX55 =
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,34,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[7,0,13,10,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,34,10,3,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[7,0,13,10,3,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,34,10,3,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[7,0,13,10,3,0],
 "d2/d2b/structnpc__pool__of__tar.html":[7,0,2087],
 "d2/d2b/structnpc__pool__of__tar.html#a03de46dfa133992d094ab607a49b7236":[7,0,2087,0],
 "d2/d2b/structnpc__pool__of__tar.html#a61886862df88b41bf0c6959c9a564cea":[7,0,2087,2],
@@ -230,8 +234,8 @@ var NAVTREEINDEX55 =
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[7,0,13,7,5,4],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[5,0,34,7,5,4],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[7,0,13,7,5,3],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[5,0,34,7,5,3],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[7,0,13,7,5,3],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[7,0,3595],
 "d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[7,0,3595,2],
 "d2/d31/classspell__madrigosa__activate__barrier.html#ad55914fdc6771e09a508572d59ad30ed":[7,0,3595,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d31/structboss__servant__quarters.html#a00d31d9421903b6a92c03a3bd0382328":[7,0,708,3],
 "d2/d31/structboss__servant__quarters.html#a273a09b1242968a5dd45ab9866fbe481":[7,0,708,4],
 "d2/d31/structboss__servant__quarters.html#a3b9df7ab573f22a9e15761cb662db404":[7,0,708,1],
-"d2/d31/structboss__servant__quarters.html#a520142de5e8d2911684b18c85a3f37e2":[7,0,708,6],
-"d2/d31/structboss__servant__quarters.html#a6a41cfd67310077803733190645050e4":[7,0,708,5],
-"d2/d31/structboss__servant__quarters.html#aedf2869e3fbc1ebd13caedffa60bbf5f":[7,0,708,0],
-"d2/d31/structboss__servant__quarters.html#afe4a4a78824851f63ce560a60d55cee3":[7,0,708,2],
-"d2/d31/structnpc__phantom__mage.html":[7,0,2082]
+"d2/d31/structboss__servant__quarters.html#a520142de5e8d2911684b18c85a3f37e2":[7,0,708,6]
 };

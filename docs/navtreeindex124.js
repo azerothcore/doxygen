@@ -1,5 +1,13 @@
 var NAVTREEINDEX124 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a7127ea1aaa19b02dba5210f3e0d59027":[8,0,0,0,1,3,5,4,1,3,13,4],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a7f5b67306349f38566f2c2509c739d60":[8,0,0,0,1,3,5,4,1,3,13,47],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a800fbab7d9796285b151916518d4ef8c":[8,0,0,0,1,3,5,4,1,3,13,11],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8139f09a125bcff861939fd6fb4d054f":[8,0,0,0,1,3,5,4,1,3,13,35],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83723489e700cdad48c4b497900b07e4":[8,0,0,0,1,3,5,4,1,3,13,14],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83b0bd7fe47a9d47ec60aed062c0fa18":[8,0,0,0,1,3,5,4,1,3,13,77],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83d8ff631b83cf7438514e61d8a9c5a6":[8,0,0,0,1,3,5,4,1,3,13,37],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83f322cea32d954b21a77e39e6ea1ff6":[8,0,0,0,1,3,5,4,1,3,13,74],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a841956620dda1005c6b7d187c9985a71":[8,0,0,0,1,3,5,4,1,3,13,58],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a89ff42ca7c867d9d2f768eb9ae403204":[8,0,0,0,1,3,5,4,1,3,13,83],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8f0530e42084399c8a568ca01ab080f1":[8,0,0,0,1,3,5,4,1,3,13,40],
@@ -226,8 +234,8 @@ var NAVTREEINDEX124 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2715],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2715,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2715,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d27/classspell__pal__hand__of__sacrifice__aura.html#afaab88988769ddc720deb44f06de3d7d":[7,0,3763,4],
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html":[7,0,1369,0],
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a3e83985648f2951ee33d440c9c98bf72":[7,0,1369,0,0],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a570b73c8ecd0e1ab6ac2889405be6ef0":[7,0,1369,0,10],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff":[7,0,1369,0,8],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a8a2214e169acace8578c1863daf0a04c":[7,0,1369,0,2],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a921442812da891a6651ddd235d4a98f9":[7,0,1369,0,4],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a9aeb7b25aa1446fff655b4c8fd6c47ad":[7,0,1369,0,5],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a9ea722d45efe2ee4eff041e480ff1c79":[7,0,1369,0,1],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#acdba0cea9bdbe929a30bd2f790a613f9":[7,0,1369,0,9],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#ad2863bc954ae25a5d96d06db0250cda3":[7,0,1369,0,6],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#ae5f77169c337420852962fe7ddba3006":[7,0,1369,0,3]
+"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a570b73c8ecd0e1ab6ac2889405be6ef0":[7,0,1369,0,10]
 };
