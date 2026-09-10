@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a1a948f78596a7fdbbd550a390cf10d0b":[8,0,0,0,1,3,9,2,213,1],
+"d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a3e065e34b0631e5a8f30c7346d805739":[8,0,0,0,1,3,9,2,213,0],
 "d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52c":[8,0,0,0,1,3,9,2,182],
 "d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52ca2e8c52fec3d5fcd288739e434d41043f":[8,0,0,0,1,3,9,2,182,1],
 "d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52ca6674556ec6cc2e90c0bc9cffdc4bbbe5":[8,0,0,0,1,3,9,2,182,2],
@@ -237,17 +239,15 @@ var NAVTREEINDEX49 =
 "d1/de9/classnpc__captain__saeed.html#a8a5bee9f908b10451b8d4720dff85670":[7,0,1722,1],
 "d1/de9/classnpc__captain__saeed.html#a8ace4d924b6f33312d914fb6ce1e0ea6":[7,0,1722,4],
 "d1/de9/classnpc__captain__saeed.html#aa6a232f6c2dd39483273cac41af9a7d7":[7,0,1722,2],
-"d1/de9/classspell__garfrost__permafrost.html":[7,0,3002],
-"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[7,0,3002,1],
-"d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[7,0,3002,5],
-"d1/de9/classspell__garfrost__permafrost.html#a6adc9b6ca86da6cd9465fa0da150dcca":[7,0,3002,4],
-"d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[7,0,3002,2],
-"d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[7,0,3002,3],
-"d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[7,0,3002,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4345],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4345,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4345,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4345,2],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[7,0,2096,0],
-"d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[7,0,2096,0,4]
+"d1/de9/classspell__garfrost__permafrost.html":[7,0,3004],
+"d1/de9/classspell__garfrost__permafrost.html#a356b6ace97d07df22a232d2287072b5e":[7,0,3004,1],
+"d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213":[7,0,3004,5],
+"d1/de9/classspell__garfrost__permafrost.html#a6adc9b6ca86da6cd9465fa0da150dcca":[7,0,3004,4],
+"d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[7,0,3004,2],
+"d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[7,0,3004,3],
+"d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[7,0,3004,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4347],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4347,1],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4347,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4347,2]
 };

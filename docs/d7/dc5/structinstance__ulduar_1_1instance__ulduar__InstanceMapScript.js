@@ -18,6 +18,7 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "OpenIfDone", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a258f09abf91ada78d8b8ed4b7bd3a45d", null ],
     [ "PlayBrannRhydianLine", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af0d84285c9e84605f8b0a90c9a22fb38", null ],
     [ "ProcessEvent", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a0c6b524be9fd61ec03e48d1f99f5e005", null ],
+    [ "respawnHodirHardmodeChest", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a0b67e3ff242f14e4da598e0bf8e34c71", null ],
     [ "ScheduleLeviathanVehicleRespawn", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae1ed3e78b681abe62d64b5db1cc3df50", null ],
     [ "SetBossState", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a10f5aa7c08038cd156461bf0f84a4e0e", null ],
     [ "setChestsLootable", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5ef40665d44e1088042161ee9aa7f057", null ],

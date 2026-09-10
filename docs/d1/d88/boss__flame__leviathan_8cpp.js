@@ -5,6 +5,7 @@ var boss__flame__leviathan_8cpp =
     [ "boss_flame_leviathan_defense_turret", "d1/da9/structboss__flame__leviathan__defense__turret.html", "d1/da9/structboss__flame__leviathan__defense__turret" ],
     [ "boss_flame_leviathan_overload_device", "d8/df4/structboss__flame__leviathan__overload__device.html", "d8/df4/structboss__flame__leviathan__overload__device" ],
     [ "npc_freya_ward", "d6/df2/structnpc__freya__ward.html", "d6/df2/structnpc__freya__ward" ],
+    [ "npc_freya_ward_summon", "da/dcd/structnpc__freya__ward__summon.html", "da/dcd/structnpc__freya__ward__summon" ],
     [ "npc_hodirs_fury", "d0/d19/structnpc__hodirs__fury.html", "d0/d19/structnpc__hodirs__fury" ],
     [ "npc_mimirons_inferno", "d6/d73/structnpc__mimirons__inferno.html", "d6/d73/structnpc__mimirons__inferno" ],
     [ "npc_thorims_hammer", "d0/da1/structnpc__thorims__hammer.html", "d0/da1/structnpc__thorims__hammer" ],
@@ -45,7 +46,8 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
-      [ "EVENT_CHECK_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ]
+      [ "EVENT_CHECK_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
+      [ "EVENT_LASH", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22fa755486a1fb689392a1b568e9ad02", null ]
     ] ],
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],
@@ -84,6 +86,7 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_FREYA_WARD", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a028b043faeb2b40a757a5cfada259817", null ],
       [ "SPELL_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a48105a8ccc3842282a4656bafc698bde", null ],
       [ "SPELL_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a4bbb8b6054896524f46fa07c97412123", null ],
+      [ "SPELL_LASH", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a5bdf06ed77620fc3f318aed1bd5123e9", null ],
       [ "SPELL_FREYA_DUMMY_BLUE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a92ab76e93690eb2dd6fd9e4573c5ef20", null ],
       [ "SPELL_FREYA_DUMMY_GREEN", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53affdfbb86450de2cf3551bbf953658419", null ],
       [ "SPELL_FREYA_DUMMY_YELLOW", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a0ae04b6c96c371deec950ca177482211", null ],

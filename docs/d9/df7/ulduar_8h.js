@@ -24,6 +24,7 @@ var ulduar_8h =
       [ "TYPE_WATCHERS", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a15b8f0ad566e2ee3517480eb04ceee1b", null ],
       [ "TYPE_HODIR_HM_FAIL", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a94a5223afc91397ed7b50393d0fe65f2", null ],
       [ "TYPE_WINTER_CACHE", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a11376879b9fac35d2f7e043c766516a8", null ],
+      [ "TYPE_HODIR_HM_RESET", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a9e43d0612cb33b38ee4a4334273db91e", null ],
       [ "DATA_STEELBREAKER", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a91876d310676eef418844a12e3e2a08e", null ],
       [ "DATA_MOLGEIM", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a1d08c5704a19225cc66fd2fd05085e06", null ],
       [ "DATA_BRUNDIR", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a3c352a7a9602b06133c910c1babac319", null ],

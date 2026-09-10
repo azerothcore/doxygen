@@ -45,6 +45,7 @@ var zone__dragonblight_8cpp =
     [ "spell_dragonblight_flame_fury", "d2/d02/classspell__dragonblight__flame__fury.html", "d2/d02/classspell__dragonblight__flame__fury" ],
     [ "spell_dragonblight_devour_ghoul", "dc/d75/classspell__dragonblight__devour__ghoul.html", "dc/d75/classspell__dragonblight__devour__ghoul" ],
     [ "spell_dragonblight_devour_ghoul_periodic", "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html", "d9/dcd/classspell__dragonblight__devour__ghoul__periodic" ],
+    [ "spell_alystros_lapsing_dream_aura", "d5/d43/classspell__alystros__lapsing__dream__aura.html", "d5/d43/classspell__alystros__lapsing__dream__aura" ],
     [ "chainGun", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8", [
       [ "NPC_INJURED_7TH_LEGION_SOLDER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a87aa2131266fab5fcd2341454c85291a", null ],
       [ "SPELL_FEAR_AURA_WITH_COWER", "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a", null ]
@@ -231,6 +232,9 @@ var zone__dragonblight_8cpp =
       [ "SAY_HOURGLASS_RANDOM_8", "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809adc7ad0f9c316fc5f84c74d792511f47b", null ],
       [ "SAY_HOURGLASS_END_1", "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a3d50c7e9fa4855164e19604c2c4c8bfc", null ],
       [ "SAY_HOURGLASS_END_2", "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5dadd0d0bff2da4e5ccd02f7276f3a77", null ]
+    ] ],
+    [ "LapsingDream", "de/da6/zone__dragonblight_8cpp.html#a0f6db0f26cee19495049a38dd6de5343", [
+      [ "SPELL_LAPSING_DREAM_SLOW", "de/da6/zone__dragonblight_8cpp.html#a0f6db0f26cee19495049a38dd6de5343ab8308c4bf290727ffce6fde3d92cd2b1", null ]
     ] ],
     [ "StrengthenAncientsMisc", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51ac", [
       [ "SAY_WALKER_FRIENDLY", "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c", null ],

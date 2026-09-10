@@ -1,5 +1,7 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da0f719f811e02958e3d6ca2e4ed011277":[8,0,0,0,1,2,8,1,3,21,38],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da13f93baddf789702dcfa5c35194279c8":[8,0,0,0,1,2,8,1,3,21,57],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da1498be1e049b500e9d4eb7e0821557d4":[8,0,0,0,1,2,8,1,3,21,31],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da186cc266710092efe9dd18b1ef9500c2":[8,0,0,0,1,2,8,1,3,21,9],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da19edaf1bdb387c465cdc139e15b6cbfd":[8,0,0,0,1,2,8,1,3,21,40],
@@ -203,18 +205,18 @@ var NAVTREEINDEX116 =
 "d3/dd5/structnpc__azure__sorceror.html#a462d57b8e8cd01a9ec1bd59a453f6ab5":[7,0,1674,3],
 "d3/dd5/structnpc__azure__sorceror.html#af4bc0ff9b938302c399bff528dd06769":[7,0,1674,1],
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1674,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[5,0,34,14,11,0],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a900078368c8626a81dc4718f5aed7b71":[7,0,13,14,11,0],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[7,0,13,14,11,3],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#ada7d9d3d874403ffb3472affb40c0f2b":[5,0,34,14,11,3],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[5,0,34,14,11,2],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[7,0,13,14,11,2],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#afafc0742bc5d17222b981142fc10a9c5":[5,0,34,14,11,2],
 "d3/dd6/classat__blackrock__stadium.html":[7,0,220],
 "d3/dd6/classat__blackrock__stadium.html#a691b4614d6f28733f01a38d8420b823b":[7,0,220,1],
 "d3/dd6/classat__blackrock__stadium.html#a9f577437f231a189c02e50e71ffcb85a":[7,0,220,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd6/structinstance__blackrock__depths.html#a5141b15a4dbb8612ee81d661dbee0620":[7,0,1328,42],
 "d3/dd6/structinstance__blackrock__depths.html#a61205bc0a9f8da99726232d0bd41a917":[7,0,1328,64],
 "d3/dd6/structinstance__blackrock__depths.html#a698cd1a8abeed06bbbac4d7c8d3e2f6c":[7,0,1328,14],
-"d3/dd6/structinstance__blackrock__depths.html#a6abfe06d7047c1bd4be8d52320f8c601":[7,0,1328,26],
-"d3/dd6/structinstance__blackrock__depths.html#a6cc7444cf883b1ccaf596f0b03e84527":[7,0,1328,49],
-"d3/dd6/structinstance__blackrock__depths.html#a76f17e9a98b69ba6755ffc589d1996d9":[7,0,1328,38]
+"d3/dd6/structinstance__blackrock__depths.html#a6abfe06d7047c1bd4be8d52320f8c601":[7,0,1328,26]
 };
