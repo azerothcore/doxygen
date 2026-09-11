@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a30ed336d552596211b3bfc316d223968":[7,0,2010,0,2],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a5e643192572f29f954a31b7b949f6525":[7,0,2010,0,5],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a74076048ea382816fa9c98a0d759af46":[7,0,2010,0,7],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a7dad659c4ba1db0460c23a3dc573eff2":[7,0,2010,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4ac81d33cfc9ea21287cddff54d2762c9e":[8,0,0,0,1,3,5,9,2,10,22,18],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4acb7bff3859b0bf9f174977b74e9b99c9":[8,0,0,0,1,3,5,9,2,10,22,5],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4aed64349f5367a9e783cbc2bf53e29522":[8,0,0,0,1,3,5,9,2,10,22,11],
-"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4afafa6ad7fb9270128ad8ebcf1b226e75":[8,0,0,0,1,3,5,9,2,10,22,9],
-"dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2":[8,0,0,0,1,3,5,9,2,10,24]
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4afafa6ad7fb9270128ad8ebcf1b226e75":[8,0,0,0,1,3,5,9,2,10,22,9]
 };

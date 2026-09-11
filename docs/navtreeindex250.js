@@ -249,5 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2623,2],
 "d9/d6e/classSmartWaypointMgr.html#ac34eb4bd79106db2574cce0208a785e5":[7,0,2623,5],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[7,0,2623,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[7,0,5,16]
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16]
 };

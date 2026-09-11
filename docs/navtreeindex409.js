@@ -1,5 +1,6 @@
 var NAVTREEINDEX409 =
 {
+"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#af2e752a791d75e50001060c4a9f18173":[7,0,1352,0,6],
 "df/d3f/classAliveCheck.html":[7,0,151],
 "df/d3f/classAliveCheck.html#a57b4f62b35a093665bb32073a086b8c5":[7,0,151,0],
 "df/d3f/classspell__hun__invigoration.html":[7,0,3262],
@@ -248,6 +249,5 @@ var NAVTREEINDEX409 =
 "df/d52/classAuraApplicationStub.html#ada36445f6f090c6652e0567a5333bb53":[7,0,294,1],
 "df/d52/classAuraApplicationStub.html#afaa194023ae92143078166c9a142a41d":[7,0,294,0],
 "df/d52/classAuraApplicationStub.html#afc3220aa9f0403a987ad07cec1c42ced":[7,0,294,11],
-"df/d52/structmap__fileheader.html":[7,0,1520],
-"df/d52/structmap__fileheader.html#a2691fbc981b2ed5e1d748cd9c0859548":[7,0,1520,9]
+"df/d52/structmap__fileheader.html":[7,0,1520]
 };

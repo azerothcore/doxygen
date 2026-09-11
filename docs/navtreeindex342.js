@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280":[8,0,0,0,1,3,8,2,4,0],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf":[8,0,0,0,1,3,8,2,4,1],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc":[8,0,0,0,1,3,8,2,4,2],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6":[8,0,0,0,1,3,8,2,4,3],
@@ -76,14 +77,14 @@ var NAVTREEINDEX342 =
 "dd/d19/structnpc__time__rift.html#ad554d8266ded70cadd8c00a3ff5a3321":[7,0,2226,9],
 "dd/d19/structnpc__time__rift.html#ae0ebd0268454ac0cac83235afd7f6363":[7,0,2226,5],
 "dd/d19/structnpc__time__rift.html#af2932c60efaea64d27d52b118b9a8095":[7,0,2226,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[7,0,0,56],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,0,68],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[7,0,0,56,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[7,0,0,56],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,0,68,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[7,0,0,56,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,0,68,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[7,0,0,56,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[7,0,0,56,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[7,0,0,56,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,0,68,1],
 "dd/d1b/classhonor__commandscript.html":[7,0,1305],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d26/VehicleScript_8h.html":[8,0,0,0,1,2,38,0,89],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,34,10,12],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[7,0,13,10,12],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[7,0,13,10,12,2]
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2]
 };

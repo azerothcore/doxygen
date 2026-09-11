@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"dd/dfd/classspell__halion__twilight__cutter__periodic__aura.html#ab126fe8d4387609e8834898c3b3a67ea":[7,0,3207,2],
 "dd/dfd/structnpc__adventurous__dwarf_1_1npc__adventurous__dwarfAI.html":[7,0,1614,0],
 "dd/dfd/structnpc__adventurous__dwarf_1_1npc__adventurous__dwarfAI.html#af953c5fef2ea8abbf7835b0bc5cf1b23":[7,0,1614,0,0],
 "dd/dfe/GameObjectSummonGroupTest_8cpp.html":[8,0,0,0,2,2,0,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a217584223ad4e053515b9ba1c45f6f1c":[8,0,0,0,1,3,7,4,0,0,3,0],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a2839e46e2718d788680e6ab738e5304b":[8,0,0,0,1,3,7,4,0,0,3,10],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a2aeb6a52358b7f3b9d29f01fd6c3c9b4":[8,0,0,0,1,3,7,4,0,0,3,4],
-"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a3073b7783a2fb29629dd8144a46cf27b":[8,0,0,0,1,3,7,4,0,0,3,7],
-"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a38e1047c0f32ee1086b17ab937b93133":[8,0,0,0,1,3,7,4,0,0,3,6]
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a3073b7783a2fb29629dd8144a46cf27b":[8,0,0,0,1,3,7,4,0,0,3,7]
 };

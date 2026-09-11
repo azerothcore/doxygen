@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/d33/structboss__svala_1_1boss__svalaAI.html#a7808767e79ebe4c5ac784ff7a32874f6":[7,0,731,0,1],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a86f376743055f99c066ad1a7c960b6c7":[7,0,731,0,7],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a934b1049b0a26574213379b994c9f42d":[7,0,731,0,13],
 "db/d33/structboss__svala_1_1boss__svalaAI.html#a9c6fca6d70c7c53048b137b7d8cc0861":[7,0,731,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/d48/classspell__shazzrah__gate__dummy.html#a66d0a1ab1a3dae5242a7396a750e73ad":[7,0,4145,4],
 "db/d48/classspell__shazzrah__gate__dummy.html#a72b3bbddf931fee1a12700c867b47f3d":[7,0,4145,3],
 "db/d48/classspell__shazzrah__gate__dummy.html#ac47cfe2bf2782202ac69ea7a91290c2f":[7,0,4145,0],
-"db/d48/structboss__gathios__the__shatterer.html":[7,0,511],
-"db/d48/structboss__gathios__the__shatterer.html#a1541f1efd3978a4c91b80e411aec6442":[7,0,511,3]
+"db/d48/structboss__gathios__the__shatterer.html":[7,0,511]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabc835e39fafdcf421624baa8fd9639c4":[8,0,0,0,1,3,5,9,2,4,16,38],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac5cb10c3d24688bd7cbd6fb2ba4c9ad5":[8,0,0,0,1,3,5,9,2,4,16,32],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac94d8a6a667e828cc2d8fab0f1545e33":[8,0,0,0,1,3,5,9,2,4,16,54],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644facda7b1d376aa194b2afe6abf76356696":[8,0,0,0,1,3,5,9,2,4,16,31],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[7,0,1844,2],
 "df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[7,0,1844,1],
 "df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html":[7,0,1922,0],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[7,0,1922,0,5],
-"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a7648c626ded6d3abef798b46c77f991d":[7,0,1922,0,2]
+"df/d92/structnpc__icc__skybreaker__marksman_1_1npc__icc__skybreaker__marksmanAI.html#a5aaffc1e78c255c95893be1537e520d6":[7,0,1922,0,5]
 };

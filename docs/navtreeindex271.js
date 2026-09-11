@@ -1,7 +1,7 @@
 var NAVTREEINDEX271 =
 {
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,17,14,0],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[7,0,5,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,17,14,0],
 "da/d5f/structnpc__ulduar__hodir__shaman.html":[7,0,2273],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a02476e4ddb2287c647a2a4bd7e342150":[7,0,2273,8],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a08af85d3446c86443ff5a620b159d000":[7,0,2273,5],

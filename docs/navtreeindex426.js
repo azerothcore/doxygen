@@ -1,5 +1,6 @@
 var NAVTREEINDEX426 =
 {
+"df/dda/structboss__bjarngrim.html#a9706ccb196a09fe5f16efb20578f83f0":[7,0,414,10],
 "df/dda/structboss__bjarngrim.html#a9cacb3d985fb9e4b2501ab4b4334cdab":[7,0,414,15],
 "df/dda/structboss__bjarngrim.html#ab0c5aea43ef8c40c0af6a336dccd2b97":[7,0,414,9],
 "df/dda/structboss__bjarngrim.html#ab698e8ea0de311b167d95c01ef1bee69":[7,0,414,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX426 =
 "df/de3/structBattlegroundEYCapturingPointStruct.html":[7,0,339],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a23524562fd9c875b29092ee7e7a4e44b":[7,0,339,2],
 "df/de3/structBattlegroundEYCapturingPointStruct.html#a4b25984504b15c7249d2e5866ad35962":[7,0,339,6],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a54164bcb9e4235b15d8a5d8a27fbe41c":[7,0,339,0],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a5c82eae433ee69b5bda8c96049a06422":[7,0,339,4]
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a54164bcb9e4235b15d8a5d8a27fbe41c":[7,0,339,0]
 };

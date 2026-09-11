@@ -1,5 +1,6 @@
 var NAVTREEINDEX359 =
 {
+"dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257":[8,0,0,0,1,3,4,11,2,2,5],
 "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301":[8,0,0,0,1,3,4,11,2,2,10],
 "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71":[8,0,0,0,1,3,4,11,2,2,0],
 "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095":[8,0,0,0,1,3,4,11,2,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX359 =
 "dd/dd4/classBattlegroundEY.html#ad89b248734547197ebd1dba7aac5382a":[7,0,338,41],
 "dd/dd4/classBattlegroundEY.html#adb29266557aa6023f590573b8576572c":[7,0,338,3],
 "dd/dd4/classBattlegroundEY.html#adf9eae0c87ba76ba271a6d31f191b3ff":[7,0,338,33],
-"dd/dd4/classBattlegroundEY.html#af433aaf1b91cecd69b734dde6886190b":[7,0,338,7],
-"dd/dd4/structboss__midnight.html":[7,0,635]
+"dd/dd4/classBattlegroundEY.html#af433aaf1b91cecd69b734dde6886190b":[7,0,338,7]
 };

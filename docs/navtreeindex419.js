@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2229,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/dc7/structboss__yoggsaron__voice.html#aa3570bf74b7caee5dcf844853a73d7e5":[7,0,821,4],
 "df/dc7/structboss__yoggsaron__voice.html#aae3b82dbb871f0f297bdacf975958492":[7,0,821,3],
 "df/dc7/structboss__yoggsaron__voice.html#abd4829f72aea74d3f9be6df3e40b08b5":[7,0,821,7],
-"df/dc7/structboss__yoggsaron__voice.html#ae9baa030c275b7f80d084f4e5d44aed2":[7,0,821,0],
-"df/dc8/AccountScript_8cpp.html":[8,0,0,0,1,2,38,0,0]
+"df/dc7/structboss__yoggsaron__voice.html#ae9baa030c275b7f80d084f4e5d44aed2":[7,0,821,0]
 };

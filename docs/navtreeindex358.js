@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2":[8,0,0,0,1,3,5,9,2,10,24],
 "dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2a61e900515aec51ba22cfdd63c1082fc7":[8,0,0,0,1,3,5,9,2,10,24,0],
 "dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2a8766dd77f11a611bc7d0bde1eff2629f":[8,0,0,0,1,3,5,9,2,10,24,3],
 "dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2ac254831385f10a22ed7b3cc98e8ac925":[8,0,0,0,1,3,5,9,2,10,24,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3":[8,0,0,0,1,3,4,11,2,4,0],
 "dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78e":[8,0,0,0,1,3,4,11,2,5],
 "dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319":[8,0,0,0,1,3,4,11,2,5,0],
-"dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3":[8,0,0,0,1,3,4,11,2,2],
-"dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257":[8,0,0,0,1,3,4,11,2,2,5]
+"dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3":[8,0,0,0,1,3,4,11,2,2]
 };

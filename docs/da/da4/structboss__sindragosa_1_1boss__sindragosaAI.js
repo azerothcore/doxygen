@@ -8,6 +8,7 @@ var structboss__sindragosa_1_1boss__sindragosaAI =
     [ "GetData", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a", null ],
     [ "JustDied", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615", null ],
     [ "JustEngagedWith", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#af0151f1cb6776a3a180b4e24332c8489", null ],
+    [ "JustReachedHome", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a532fa27b158defb9f52031442af8c33e", null ],
     [ "JustSummoned", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea", null ],
     [ "KilledUnit", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a27f5953a9cf68ec10a63622cf0f33d9b", null ],
     [ "MoveInLineOfSight", "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a17d93e98d5c8f91e8009674a4117bd39", null ],

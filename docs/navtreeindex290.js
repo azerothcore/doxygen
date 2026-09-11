@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a99a6890219a39d114247deb27765f765":[8,0,0,0,1,3,9,6,54,8],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa3a7ff54ec44ac0914e4b98f1f6ac2d8":[8,0,0,0,1,3,9,6,54,19],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4":[8,0,0,0,1,3,9,6,54,30],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2abba459dbd411c033d743f95a7ee50ffa":[8,0,0,0,1,3,9,6,54,22],
@@ -222,8 +223,8 @@ var NAVTREEINDEX290 =
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1932,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1932,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1932,0,9],
@@ -243,11 +244,10 @@ var NAVTREEINDEX290 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,695,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,695,12],
-"db/d21/structboss__runemaster__molgeim.html#a277b45a2b2399b91650907de2fb86b89":[7,0,695,10],
-"db/d21/structboss__runemaster__molgeim.html#a2d779d09adfd1f19ce3655d8e9740a9f":[7,0,695,2]
+"db/d21/structboss__runemaster__molgeim.html#a277b45a2b2399b91650907de2fb86b89":[7,0,695,10]
 };

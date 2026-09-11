@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dc/dd6/MapReference_8h.html":[8,0,0,0,1,2,26,11],
 "dc/dd6/boss__eredar__twins_8cpp.html":[8,0,0,0,1,3,2,11,1],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[8,0,0,0,1,3,2,11,1,9],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca17e03d2f8f2ad6e9ab898b86666742b4":[8,0,0,0,1,3,2,11,1,9,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX337 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[8,0,0,0,1,3,2,16,106],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af32a86ddb56934f5f61eb00bd7f62399":[8,0,0,0,1,3,2,16,136],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[8,0,0,0,1,3,2,16,66],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f":[8,0,0,0,1,3,2,16,27],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[8,0,0,0,1,3,2,16,18]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f":[8,0,0,0,1,3,2,16,27]
 };

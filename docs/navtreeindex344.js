@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/d27/structSmartAction.html#a9a81085df820a3a930c3c7bc457ea602":[7,0,2614,196],
 "dd/d27/structSmartAction.html#a9dabb506563475a7c0c0d8526a075900":[7,0,2614,35],
 "dd/d27/structSmartAction.html#a9e895273e41ee5f8da763c7281814aaf":[7,0,2614,151],
 "dd/d27/structSmartAction.html#aa0981596fb87554b453176c0d9f38043":[7,0,2614,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1":[8,0,0,0,1,3,2,11,7,5,11],
 "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa":[8,0,0,0,1,3,2,11,7,5,10],
 "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a3bdea36e5df0520614d00c8205e5aaf6":[8,0,0,0,1,3,2,11,7,5,7],
-"dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187":[8,0,0,0,1,3,2,11,7,5,3],
-"dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9":[8,0,0,0,1,3,2,11,7,5,4]
+"dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187":[8,0,0,0,1,3,2,11,7,5,3]
 };

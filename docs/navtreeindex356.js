@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a79c0eac8ad1de2d69a8a85cb05d1bd7c":[8,0,0,0,1,3,5,23,38,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a873c0d35bbe927d94c819ee5fe1bd58b":[8,0,0,0,1,3,5,23,38,2],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709":[8,0,0,0,1,3,5,23,31],
 "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a925c65c2e29b49b806662a8eb662cbd8":[8,0,0,0,1,3,5,23,31,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a29b00511d9a215fd0e00702e7a2dca0c":[7,0,3696,1],
 "dd/dc2/classspell__moorabi__mojo__frenzy__aura.html#a9753daf5cdc812e9027c1153b450686d":[7,0,3696,2],
 "dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html":[7,0,2010,0],
-"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a032cc1ad7a07ead4ced3afe99601d94f":[7,0,2010,0,1],
-"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a30ed336d552596211b3bfc316d223968":[7,0,2010,0,2]
+"dd/dc3/structnpc__millhouse__manastorm_1_1npc__millhouse__manastormAI.html#a032cc1ad7a07ead4ced3afe99601d94f":[7,0,2010,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX305 =
 {
+"db/dab/DBCFileLoader_8cpp.html":[8,0,0,0,0,4,0],
 "db/dab/GridTerrainData_8h.html":[8,0,0,0,1,2,19,9],
 "db/dab/GridTerrainData_8h.html#a0fc25db7841a9836359d1825ec78ca08":[8,0,0,0,1,2,19,9,19],
 "db/dab/GridTerrainData_8h.html#a14e2a0a2291347b0ef877bc9d70f7384":[8,0,0,0,1,2,19,9,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX305 =
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cd":[8,0,0,0,1,3,10,14,68],
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda48be430269d4b81aa898b2609dcf4e65":[8,0,0,0,1,3,10,14,68,0],
 "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda561ec693739cd4d708d30cbb62c2e47a":[8,0,0,0,1,3,10,14,68,2],
-"db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda65ecf5f641cdd72203a5581779276efd":[8,0,0,0,1,3,10,14,68,3],
-"db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda9ed0bf50447e59d35c3de3be58d76d35":[8,0,0,0,1,3,10,14,68,1]
+"db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda65ecf5f641cdd72203a5581779276efd":[8,0,0,0,1,3,10,14,68,3]
 };

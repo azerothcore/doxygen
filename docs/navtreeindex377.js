@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7e3d439029d59cb1d3a7bca2e76f0b5c":[8,0,0,0,1,4,7,103,21],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7eec3365a9b759bbad25b78f3b711c8a":[8,0,0,0,1,4,7,103,128],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7fc965f6ba4cb5b4025e9370631fe9df":[8,0,0,0,1,4,7,103,6],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a8229101142ccd5877f22793b49a9e497":[8,0,0,0,1,4,7,103,119],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "de/d13/classspell__mage__arcane__missiles.html#aa2f2d9175c4429f5743ad6cc54b1634a":[7,0,3600,3],
 "de/d13/classspell__mage__arcane__missiles.html#aabfc9dd5bd171c0b4d2166c8d671e6cf":[7,0,3600,4],
 "de/d13/cs__pet_8cpp.html":[8,0,0,0,1,3,0,36],
-"de/d13/cs__pet_8cpp.html#a9c7b2cae4f7afb6ae0c9ccc623877625":[8,0,0,0,1,3,0,36,1],
-"de/d14/cs__gear_8cpp.html":[8,0,0,0,1,3,0,16]
+"de/d13/cs__pet_8cpp.html#a9c7b2cae4f7afb6ae0c9ccc623877625":[8,0,0,0,1,3,0,36,1]
 };

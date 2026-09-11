@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,34,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[7,0,13,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[7,0,3190],
 "df/da6/classspell__gurtogg__eject.html#a21740b341acce23e284a3d4ceea9b6e0":[7,0,3190,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX417 =
 "df/da7/classBattleground.html#ae9c47a05eed6233afe1ad40512afe72d":[7,0,330,242],
 "df/da7/classBattleground.html#aeb6671f7026e3408efcb265c61d5aa46":[7,0,330,185],
 "df/da7/classBattleground.html#aeca76c7784c6139d856cc5e3aaeaf2fa":[7,0,330,50],
-"df/da7/classBattleground.html#af0ef5b2f3626d3835bd556b0c2d7a9f3":[7,0,330,187],
-"df/da7/classBattleground.html#af103a9c8201c16555018d6328ab4e064":[7,0,330,238]
+"df/da7/classBattleground.html#af0ef5b2f3626d3835bd556b0c2d7a9f3":[7,0,330,187]
 };

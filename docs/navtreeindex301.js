@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba57e1a1164659d27fa30795381e32a8ed":[8,0,0,0,1,2,16,4,6,62,0],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba75f26016f11d8834e342696518d642c1":[8,0,0,0,1,2,16,4,6,62,9],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba856092e44af8c547640bd444f5f63861":[8,0,0,0,1,2,16,4,6,62,14],
 "db/d8b/ItemTemplate_8h.html#a5bf3156ee73151a0fc4ac0306aa0531ba8d9c0b5f4dcbb40362a45d46ce6983e1":[8,0,0,0,1,2,16,4,6,62,2],
@@ -178,8 +179,8 @@ var NAVTREEINDEX301 =
 "db/d8c/classspell__grip.html#afa2a6d4653311d2f76831ef14d34c0dd":[7,0,3181,3],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[5,0,0,8,0,18],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html":[7,0,0,5,0,18],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a48cf3f3df0e07e220d44096e7b628a72":[7,0,0,5,0,18,5],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a48cf3f3df0e07e220d44096e7b628a72":[5,0,0,8,0,18,5],
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a48cf3f3df0e07e220d44096e7b628a72":[7,0,0,5,0,18,5],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a50c4384a9719bc33f1e997dadc177bb6":[7,0,0,5,0,18,12],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a50c4384a9719bc33f1e997dadc177bb6":[5,0,0,8,0,18,12],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a50e51a5c55d146c67d834c86aee4daef":[7,0,0,5,0,18,1],
@@ -190,14 +191,14 @@ var NAVTREEINDEX301 =
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a7b92f80ef21e6a0a799f3b4197453117":[7,0,0,5,0,18,10],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a8b18e436b6e7d8040b2a9667d06baaa0":[7,0,0,5,0,18,3],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a8b18e436b6e7d8040b2a9667d06baaa0":[5,0,0,8,0,18,3],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a9b7c7996bcc4a601c957d2bfc66ec41c":[7,0,0,5,0,18,6],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a9b7c7996bcc4a601c957d2bfc66ec41c":[5,0,0,8,0,18,6],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aa4373a403bed4b58eac5e83099f32b4f":[5,0,0,8,0,18,9],
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a9b7c7996bcc4a601c957d2bfc66ec41c":[7,0,0,5,0,18,6],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aa4373a403bed4b58eac5e83099f32b4f":[7,0,0,5,0,18,9],
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aa4373a403bed4b58eac5e83099f32b4f":[5,0,0,8,0,18,9],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aabf608d55fbdbed0db92a80049e8835f":[7,0,0,5,0,18,4],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aabf608d55fbdbed0db92a80049e8835f":[5,0,0,8,0,18,4],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#ab825b76e8cb19ad6d6bc6cb35780e89b":[7,0,0,5,0,18,14],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#ab825b76e8cb19ad6d6bc6cb35780e89b":[5,0,0,8,0,18,14],
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#ab825b76e8cb19ad6d6bc6cb35780e89b":[7,0,0,5,0,18,14],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#abb0aa9f55f86ab7d54b7b3a894dcd237":[5,0,0,8,0,18,7],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#abb0aa9f55f86ab7d54b7b3a894dcd237":[7,0,0,5,0,18,7],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#abcee148bb3da225ec4a4c67abcc90316":[7,0,0,5,0,18,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "db/d8e/InstanceScript_8h.html#a141fd6fe34ebbd5c3ad507db42f41b4a":[8,0,0,0,1,2,23,3,11],
 "db/d8e/InstanceScript_8h.html#a17be047bdb4b0361cdee9637ff279e9f":[8,0,0,0,1,2,23,3,16],
 "db/d8e/InstanceScript_8h.html#a2b83b4959bad3f736ee0463c50b9477d":[8,0,0,0,1,2,23,3,23],
-"db/d8e/InstanceScript_8h.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c":[8,0,0,0,1,2,23,3,23,4],
-"db/d8e/InstanceScript_8h.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22":[8,0,0,0,1,2,23,3,23,1]
+"db/d8e/InstanceScript_8h.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c":[8,0,0,0,1,2,23,3,23,4]
 };

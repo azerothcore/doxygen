@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dc/d9e/classspell__auriaya__feral__rush.html":[7,0,2678],
 "dc/d9e/classspell__auriaya__feral__rush.html#a3a0f411a652a5753a543f57433212425":[7,0,2678,0],
 "dc/d9e/classspell__auriaya__feral__rush.html#a56f021a02c261dfb694e57af35c0ca14":[7,0,2678,3],
 "dc/d9e/classspell__auriaya__feral__rush.html#a858cc1c717a7cadc9eac41b89738d7e1":[7,0,2678,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dc/da9/structboss__illidari__council__memberAI.html":[7,0,564],
 "dc/da9/structboss__illidari__council__memberAI.html#a1006bbdb6e39b6ceb52037e1b3cdb788":[7,0,564,1],
 "dc/da9/structboss__illidari__council__memberAI.html#a135c8e8f4113b1c9c05e5b26e61e639c":[7,0,564,4],
-"dc/da9/structboss__illidari__council__memberAI.html#a203310b84d71a24145b1c39e7faff182":[7,0,564,2],
-"dc/da9/structboss__illidari__council__memberAI.html#a5c43bfb6e1781a83bfad36668ac724f2":[7,0,564,5]
+"dc/da9/structboss__illidari__council__memberAI.html#a203310b84d71a24145b1c39e7faff182":[7,0,564,2]
 };

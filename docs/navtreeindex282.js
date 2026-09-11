@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"da/dbf/Player_8h.html#a946f1b98541e5df18b4b45f6fb144ce8ac1724959d706b685bccc6fdd33e5dcd7":[8,0,0,0,1,2,16,7,5,137,1],
 "da/dbf/Player_8h.html#a95dadd52b33da56e706760fd70e83681":[8,0,0,0,1,2,16,7,5,45],
 "da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29":[8,0,0,0,1,2,16,7,5,127],
 "da/dbf/Player_8h.html#a95f398bf1c0950ba72e11f4a395aba29a1409f730f8ce0935d0987666ec35724b":[8,0,0,0,1,2,16,7,5,127,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX282 =
 "da/dc5/classspell__mother__shahraz__fatal__attraction.html#aa8f0401dd004e816b8071381289116fa":[7,0,3701,0],
 "da/dc6/structnpc__partygoer.html":[7,0,2055],
 "da/dc6/structnpc__partygoer.html#a423df8a3de7d23221ea4d62a0c65fefc":[7,0,2055,3],
-"da/dc6/structnpc__partygoer.html#a9012ff95e5cead3c02f9eeb30f29a9f6":[7,0,2055,1],
-"da/dc6/structnpc__partygoer.html#a9e934091894987ec091b03090bf733e5":[7,0,2055,5]
+"da/dc6/structnpc__partygoer.html#a9012ff95e5cead3c02f9eeb30f29a9f6":[7,0,2055,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"db/df8/classspell__valanar__kinetic__bomb__summon.html":[7,0,4296],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html#a3677d2e7db842f899e6e2d2c8c9a3d42":[7,0,4296,1],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html#a37899f12707930d038de38bae92c9aff":[7,0,4296,0],
 "db/df8/classspell__valanar__kinetic__bomb__summon.html#a4caabf8afac621ef70bbbac1a2b5177e":[7,0,4296,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "db/dfb/structnpc__wounded__skirmisher.html":[7,0,2329],
 "db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[7,0,2329,0],
 "db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[7,0,2329,5],
-"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[7,0,2329,2],
-"db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2329,4]
+"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[7,0,2329,2]
 };

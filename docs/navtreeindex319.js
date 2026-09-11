@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/d0e/structRealmBuildInfo.html":[7,0,2534],
 "dc/d0e/structRealmBuildInfo.html#a0df61c036a57b8a3efde5d180dc38131":[7,0,2534,2],
 "dc/d0e/structRealmBuildInfo.html#a0eb78564680f771e325536a0ab77382a":[7,0,2534,4],
 "dc/d0e/structRealmBuildInfo.html#a461f8c749a874405584dc1fd3fe1d805":[7,0,2534,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[8,0,0,0,1,3,2,1,0,4,2,0],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[8,0,0,0,1,3,2,1,0,4,1],
 "dc/d20/structSHostageInfo.html":[7,0,2600],
-"dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[7,0,2600,1],
-"dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[7,0,2600,2]
+"dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[7,0,2600,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"de/df5/classWorldLocation.html#adc762865d564319245ffc3363c080365":[7,0,4710,10],
 "de/df5/classWorldLocation.html#aed21eb7d191b1e34ebd1456b427fbb2c":[7,0,4710,7],
 "de/df5/structAreaTableEntry.html":[7,0,171],
 "de/df5/structAreaTableEntry.html#a048ac249318efd9aa35bb705bfb92dc8":[7,0,171,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[7,0,4650,1],
 "df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[7,0,4650,4],
 "df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[7,0,4650,5],
-"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[7,0,4650,0],
-"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[7,0,4650,3]
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[7,0,4650,0]
 };
