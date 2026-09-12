@@ -3,6 +3,7 @@ var namespaceAcore_1_1Hyperlinks_1_1LinkTags =
     [ "achievement", "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html", "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement" ],
     [ "base_tag", "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html", "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag" ],
     [ "enchant", "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html", "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant" ],
+    [ "found", "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html", "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found" ],
     [ "glyph", "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html", "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph" ],
     [ "item", "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html", "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item" ],
     [ "quest", "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html", "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest" ],

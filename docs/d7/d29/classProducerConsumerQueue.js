@@ -7,6 +7,7 @@ var classProducerConsumerQueue =
     [ "Empty", "d7/d29/classProducerConsumerQueue.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
     [ "Pop", "d7/d29/classProducerConsumerQueue.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
     [ "Push", "d7/d29/classProducerConsumerQueue.html#ac7598291c31b28aaf95408ffe017c85a", null ],
+    [ "Reset", "d7/d29/classProducerConsumerQueue.html#a3837624afaf35f764f6cdd50dfe023c8", null ],
     [ "Shutdown", "d7/d29/classProducerConsumerQueue.html#aff2060f9ae351caf2da543a5379911ca", null ],
     [ "Size", "d7/d29/classProducerConsumerQueue.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
     [ "WaitAndPop", "d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d", null ],

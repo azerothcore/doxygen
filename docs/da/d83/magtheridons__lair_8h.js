@@ -8,7 +8,8 @@ var magtheridons__lair_8h =
       [ "MAX_ENCOUNTER", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d", null ],
       [ "DATA_CHANNELER_COMBAT", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a9497cf460ff607a3d232a0fdb1029d6e", null ],
       [ "DATA_ACTIVATE_CUBES", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22aceea55df04e9d938e73941f40b6f7fe2", null ],
-      [ "DATA_COLLAPSE", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a20bf1397d524025e1025418b1429c5c8", null ]
+      [ "DATA_COLLAPSE", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a20bf1397d524025e1025418b1429c5c8", null ],
+      [ "DATA_MAGTHERIDON_RELEASED", "da/d83/magtheridons__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a6ae08c13e638f5c542a84999737c494b", null ]
     ] ],
     [ "GoIds", "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43", [
       [ "GO_MAGTHERIDON_DOORS", "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43abef35d671c52be0e6694a4f11d485dda", null ],
@@ -23,7 +24,8 @@ var magtheridons__lair_8h =
     ] ],
     [ "MagtheridonActions", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504", [
       [ "ACTION_RELEASE_MAGTHERIDON", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504ac3d10776a3cac1cf50615e056ee00320", null ],
-      [ "ACTION_BANISH_SELF", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504a3e2a47382c165581b8de4e00dcf12dd1", null ]
+      [ "ACTION_BANISH_SELF", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504a3e2a47382c165581b8de4e00dcf12dd1", null ],
+      [ "ACTION_RESET_ENCOUNTER", "da/d83/magtheridons__lair_8h.html#af039be22c0aa824141354795e8898504a1b1c2e9fbaceb3cb2fb8fd35fae82587", null ]
     ] ],
     [ "NpcIds", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3", [
       [ "NPC_MAGTHERIDON", "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a06b5aeac270c86765bd3713844233f5f", null ],

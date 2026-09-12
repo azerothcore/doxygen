@@ -34,6 +34,7 @@ var annotated_dup =
           [ "achievement", "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html", "d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement" ],
           [ "base_tag", "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html", "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag" ],
           [ "enchant", "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html", "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant" ],
+          [ "found", "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html", "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found" ],
           [ "glyph", "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html", "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph" ],
           [ "item", "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html", "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item" ],
           [ "quest", "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html", "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest" ],
@@ -42,6 +43,7 @@ var annotated_dup =
           [ "trade", "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html", "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade" ]
         ] ],
         [ "AchievementLinkData", "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html", "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData" ],
+        [ "FoundLinkData", "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html", "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData" ],
         [ "GlyphLinkData", "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html", "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData" ],
         [ "HyperlinkColor", "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html", "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor" ],
         [ "HyperlinkInfo", "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html", "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo" ],
@@ -2017,6 +2019,7 @@ var annotated_dup =
     [ "LinkValidator", "d4/dde/structLinkValidator.html", "d4/dde/structLinkValidator" ],
     [ "LinkValidator< LinkTags::achievement >", "dd/d30/structLinkValidator_3_01LinkTags_1_1achievement_01_4.html", "dd/d30/structLinkValidator_3_01LinkTags_1_1achievement_01_4" ],
     [ "LinkValidator< LinkTags::enchant >", "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4.html", "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4" ],
+    [ "LinkValidator< LinkTags::found >", "d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4.html", "d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4" ],
     [ "LinkValidator< LinkTags::glyph >", "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4.html", "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4" ],
     [ "LinkValidator< LinkTags::item >", "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html", "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4" ],
     [ "LinkValidator< LinkTags::quest >", "d3/dfb/structLinkValidator_3_01LinkTags_1_1quest_01_4.html", "d3/dfb/structLinkValidator_3_01LinkTags_1_1quest_01_4" ],

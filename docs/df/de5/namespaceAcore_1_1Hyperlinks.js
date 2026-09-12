@@ -2,6 +2,7 @@ var namespaceAcore_1_1Hyperlinks =
 [
     [ "LinkTags", "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html", "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags" ],
     [ "AchievementLinkData", "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData.html", "d9/db3/structAcore_1_1Hyperlinks_1_1AchievementLinkData" ],
+    [ "FoundLinkData", "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html", "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData" ],
     [ "GlyphLinkData", "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html", "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData" ],
     [ "HyperlinkColor", "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html", "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor" ],
     [ "HyperlinkInfo", "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html", "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo" ],

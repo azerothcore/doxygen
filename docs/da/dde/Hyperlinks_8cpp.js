@@ -9,6 +9,7 @@ var Hyperlinks_8cpp =
     [ "LinkValidator< LinkTags::glyph >", "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4.html", "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4" ],
     [ "LinkValidator< LinkTags::talent >", "d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html", "d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4" ],
     [ "LinkValidator< LinkTags::trade >", "d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html", "d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4" ],
+    [ "LinkValidator< LinkTags::found >", "d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4.html", "d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4" ],
     [ "TryValidateAs", "da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af", null ],
     [ "toHex", "da/dde/Hyperlinks_8cpp.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
     [ "ValidateAs", "da/dde/Hyperlinks_8cpp.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],

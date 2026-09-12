@@ -145,6 +145,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc5/structLinkValidator_3_01LinkTags_1_1trade_01_4.html">LinkValidator&lt; LinkTags::trade &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4.html">LinkValidator&lt; LinkTags::found &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
@@ -204,9 +206,20 @@ Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>{ <span class="keywordflow">return</span> (c &gt;= <span class="charliteral">&#39;0&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;9&#39;</span>) ? c - <span class="charliteral">&#39;0&#39;</span> + 0x10 : (c &gt;= <span class="charliteral">&#39;a&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;f&#39;</span>) ? c - <span class="charliteral">&#39;a&#39;</span> + 0x1a : 0x00; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (c &gt;= <span class="charliteral">&#39;0&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;9&#39;</span>)</div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">return</span> c - <span class="charliteral">&#39;0&#39;</span> + 0x10;</div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">if</span> (c &gt;= <span class="charliteral">&#39;a&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;f&#39;</span>)</div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">return</span> c - <span class="charliteral">&#39;a&#39;</span> + 0x1a;</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (c &gt;= <span class="charliteral">&#39;A&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;F&#39;</span>)</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">return</span> c - <span class="charliteral">&#39;A&#39;</span> + 0x1a;</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">return</span> 0x00;</div>
+<div class="line"><span class="lineno">   42</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00033">Acore::Hyperlinks::ParseSingleHyperlink()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00045">Acore::Hyperlinks::ParseSingleHyperlink()</a>.</p>
 
 </div>
 </div>
@@ -235,31 +248,31 @@ template&lt;typename TAG &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  328</span>{</div>
-<div class="line"><span class="lineno">  329</span>    std::decay_t&lt;typename TAG::value_type&gt; t;</div>
-<div class="line"><span class="lineno">  330</span>    <span class="keywordflow">if</span> (!TAG::StoreTo(t, info.data))</div>
-<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  332</span> </div>
-<div class="line"><span class="lineno">  333</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <span class="keyword">const</span> severity = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>));</div>
-<div class="line"><span class="lineno">  334</span>    <span class="keywordflow">if</span> (severity &gt;= 0)</div>
-<div class="line"><span class="lineno">  335</span>    {</div>
-<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d4/dde/structLinkValidator.html">LinkValidator&lt;TAG&gt;::IsColorValid</a>(t, info.color))</div>
-<div class="line"><span class="lineno">  337</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>        <span class="keywordflow">if</span> (severity &gt;= 1)</div>
-<div class="line"><span class="lineno">  340</span>        {</div>
-<div class="line"><span class="lineno">  341</span>            <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d4/dde/structLinkValidator.html">LinkValidator&lt;TAG&gt;::IsTextValid</a>(t, info.text))</div>
-<div class="line"><span class="lineno">  342</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  343</span>        }</div>
-<div class="line"><span class="lineno">  344</span>    }</div>
-<div class="line"><span class="lineno">  345</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  346</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  354</span>{</div>
+<div class="line"><span class="lineno">  355</span>    std::decay_t&lt;typename TAG::value_type&gt; t;</div>
+<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">if</span> (!TAG::StoreTo(t, info.data))</div>
+<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  358</span> </div>
+<div class="line"><span class="lineno">  359</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <span class="keyword">const</span> severity = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>));</div>
+<div class="line"><span class="lineno">  360</span>    <span class="keywordflow">if</span> (severity &gt;= 0)</div>
+<div class="line"><span class="lineno">  361</span>    {</div>
+<div class="line"><span class="lineno">  362</span>        <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d4/dde/structLinkValidator.html">LinkValidator&lt;TAG&gt;::IsColorValid</a>(t, info.color))</div>
+<div class="line"><span class="lineno">  363</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  364</span> </div>
+<div class="line"><span class="lineno">  365</span>        <span class="keywordflow">if</span> (severity &gt;= 1)</div>
+<div class="line"><span class="lineno">  366</span>        {</div>
+<div class="line"><span class="lineno">  367</span>            <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d4/dde/structLinkValidator.html">LinkValidator&lt;TAG&gt;::IsTextValid</a>(t, info.text))</div>
+<div class="line"><span class="lineno">  368</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  369</span>        }</div>
+<div class="line"><span class="lineno">  370</span>    }</div>
+<div class="line"><span class="lineno">  371</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  372</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a></div><div class="ttdeci">@ CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</div><div class="ttdef"><b>Definition</b> WorldConfig.h:246</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:318</div></div>
-<div class="ttc" id="astructLinkValidator_html"><div class="ttname"><a href="../../d4/dde/structLinkValidator.html">LinkValidator</a></div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:106</div></div>
+<div class="ttc" id="astructLinkValidator_html"><div class="ttname"><a href="../../d4/dde/structLinkValidator.html">LinkValidator</a></div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:118</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00243">Acore::Hyperlinks::HyperlinkInfo::color</a>, <a class="el" href="../../#l00246">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>, <a class="el" href="../../#l00245">Acore::Hyperlinks::HyperlinkInfo::data</a>, <a class="el" href="../../#l00318">sWorld</a>, and <a class="el" href="../../#l00246">Acore::Hyperlinks::HyperlinkInfo::text</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00257">Acore::Hyperlinks::HyperlinkInfo::color</a>, <a class="el" href="../../#l00246">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>, <a class="el" href="../../#l00259">Acore::Hyperlinks::HyperlinkInfo::data</a>, <a class="el" href="../../#l00318">sWorld</a>, and <a class="el" href="../../#l00260">Acore::Hyperlinks::HyperlinkInfo::text</a>.</p>
 
 </div>
 </div>
@@ -286,36 +299,37 @@ template&lt;typename TAG &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  351</span>{</div>
-<div class="line"><span class="lineno">  352</span>    <span class="keyword">using namespace </span>LinkTags;</div>
-<div class="line"><span class="lineno">  353</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(achievement);</div>
-<div class="line"><span class="lineno">  354</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(area);</div>
-<div class="line"><span class="lineno">  355</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(areatrigger);</div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature);</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature_entry);</div>
-<div class="line"><span class="lineno">  358</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(enchant);</div>
-<div class="line"><span class="lineno">  359</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameevent);</div>
-<div class="line"><span class="lineno">  360</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject);</div>
-<div class="line"><span class="lineno">  361</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject_entry);</div>
-<div class="line"><span class="lineno">  362</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(glyph);</div>
-<div class="line"><span class="lineno">  363</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(item);</div>
-<div class="line"><span class="lineno">  364</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(itemset);</div>
-<div class="line"><span class="lineno">  365</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(player);</div>
-<div class="line"><span class="lineno">  366</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(quest);</div>
-<div class="line"><span class="lineno">  367</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(skill);</div>
-<div class="line"><span class="lineno">  368</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(spell);</div>
-<div class="line"><span class="lineno">  369</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(talent);</div>
-<div class="line"><span class="lineno">  370</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(taxinode);</div>
-<div class="line"><span class="lineno">  371</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(tele);</div>
-<div class="line"><span class="lineno">  372</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(title);</div>
-<div class="line"><span class="lineno">  373</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(trade);</div>
-<div class="line"><span class="lineno">  374</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  375</span>}</div>
-<div class="ttc" id="aHyperlinks_8cpp_html_af1c86bff85f30ff113d5f78421c280af"><div class="ttname"><a href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a></div><div class="ttdeci">#define TryValidateAs(T)</div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:348</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  377</span>{</div>
+<div class="line"><span class="lineno">  378</span>    <span class="keyword">using namespace </span>LinkTags;</div>
+<div class="line"><span class="lineno">  379</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(achievement);</div>
+<div class="line"><span class="lineno">  380</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(area);</div>
+<div class="line"><span class="lineno">  381</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(areatrigger);</div>
+<div class="line"><span class="lineno">  382</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature);</div>
+<div class="line"><span class="lineno">  383</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature_entry);</div>
+<div class="line"><span class="lineno">  384</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(enchant);</div>
+<div class="line"><span class="lineno">  385</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(found);</div>
+<div class="line"><span class="lineno">  386</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameevent);</div>
+<div class="line"><span class="lineno">  387</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject);</div>
+<div class="line"><span class="lineno">  388</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject_entry);</div>
+<div class="line"><span class="lineno">  389</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(glyph);</div>
+<div class="line"><span class="lineno">  390</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(item);</div>
+<div class="line"><span class="lineno">  391</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(itemset);</div>
+<div class="line"><span class="lineno">  392</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(player);</div>
+<div class="line"><span class="lineno">  393</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(quest);</div>
+<div class="line"><span class="lineno">  394</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(skill);</div>
+<div class="line"><span class="lineno">  395</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(spell);</div>
+<div class="line"><span class="lineno">  396</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(talent);</div>
+<div class="line"><span class="lineno">  397</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(taxinode);</div>
+<div class="line"><span class="lineno">  398</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(tele);</div>
+<div class="line"><span class="lineno">  399</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(title);</div>
+<div class="line"><span class="lineno">  400</span>    <a class="code hl_define" href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(trade);</div>
+<div class="line"><span class="lineno">  401</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  402</span>}</div>
+<div class="ttc" id="aHyperlinks_8cpp_html_af1c86bff85f30ff113d5f78421c280af"><div class="ttname"><a href="../../da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a></div><div class="ttdeci">#define TryValidateAs(T)</div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:374</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00348">TryValidateAs</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00374">TryValidateAs</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00378">Acore::Hyperlinks::CheckAllLinks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00405">Acore::Hyperlinks::CheckAllLinks()</a>.</p>
 
 </div>
 </div>
@@ -325,7 +339,7 @@ template&lt;typename TAG &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../da/dde/Hyperlinks_8cpp.html">Hyperlinks.cpp</a></li>
-    <li class="footer">Generated on Fri Sep 11 2026 10:28:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 12 2026 09:58:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

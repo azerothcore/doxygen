@@ -2571,6 +2571,8 @@ var hierarchy =
     [ "fmt::formatter", null, [
       [ "fmt::formatter< WorldPackets::String< MaxBytesWithoutNullTerminator, Validators... > >", "db/d69/structfmt_1_1formatter_3_01WorldPackets_1_1String_3_01MaxBytesWithoutNullTerminator_00_01Validators_8_8_8_01_4_01_4.html", null ]
     ] ],
+    [ "Acore::Hyperlinks::LinkTags::found", "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html", null ],
+    [ "Acore::Hyperlinks::FoundLinkData", "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html", null ],
     [ "FreezeDetector", "d0/d35/classFreezeDetector.html", null ],
     [ "FriendInfo", "d7/d8c/structFriendInfo.html", null ],
     [ "Acore::FriendlyCCedInRange", "dd/d72/classAcore_1_1FriendlyCCedInRange.html", null ],
@@ -2980,6 +2982,7 @@ var hierarchy =
     [ "LinkValidator< T >", "d4/dde/structLinkValidator.html", null ],
     [ "LinkValidator< LinkTags::achievement >", "dd/d30/structLinkValidator_3_01LinkTags_1_1achievement_01_4.html", null ],
     [ "LinkValidator< LinkTags::enchant >", "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4.html", null ],
+    [ "LinkValidator< LinkTags::found >", "d6/d8b/structLinkValidator_3_01LinkTags_1_1found_01_4.html", null ],
     [ "LinkValidator< LinkTags::glyph >", "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4.html", null ],
     [ "LinkValidator< LinkTags::item >", "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html", null ],
     [ "LinkValidator< LinkTags::quest >", "d3/dfb/structLinkValidator_3_01LinkTags_1_1quest_01_4.html", null ],

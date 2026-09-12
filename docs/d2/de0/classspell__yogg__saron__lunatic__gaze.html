@@ -315,20 +315,31 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 2588</span>    {</div>
-<div class="line"><span class="lineno"> 2589</span>        std::list&lt;WorldObject*&gt; tmplist;</div>
-<div class="line"><span class="lineno"> 2590</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = targets.begin(); itr != targets.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2591</span>            <span class="keywordflow">if</span> ((*itr)-&gt;HasInArc(M_PI, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()))</div>
-<div class="line"><span class="lineno"> 2592</span>                tmplist.push_back(*itr);</div>
-<div class="line"><span class="lineno"> 2593</span> </div>
-<div class="line"><span class="lineno"> 2594</span>        targets.clear();</div>
-<div class="line"><span class="lineno"> 2595</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = tmplist.begin(); itr != tmplist.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2596</span>            targets.push_back(*itr);</div>
-<div class="line"><span class="lineno"> 2597</span>    }</div>
+<div class="line"><span class="lineno"> 2589</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 2590</span>        <span class="comment">// 64168 inherits SPELL_ATTR2_IGNORE_LINE_OF_SIGHT from the aura triggering it, so the illusion room walls have to be checked here</span></div>
+<div class="line"><span class="lineno"> 2591</span>        <span class="keywordtype">bool</span> ignoreLos = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a>);</div>
+<div class="line"><span class="lineno"> 2592</span> </div>
+<div class="line"><span class="lineno"> 2593</span>        targets.remove_if([caster, ignoreLos](<a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a>* target)</div>
+<div class="line"><span class="lineno"> 2594</span>        {</div>
+<div class="line"><span class="lineno"> 2595</span>            <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ac3e33df0464e0203a3b8f6b7d2ed9a62">HasInArc</a>(M_PI, caster))</div>
+<div class="line"><span class="lineno"> 2596</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2597</span> </div>
+<div class="line"><span class="lineno"> 2598</span>            <span class="keywordflow">return</span> !ignoreLos &amp;&amp; !caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(target, <a class="code hl_enumvalue" href="../../dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::ModelIgnoreFlags::M2</a>);</div>
+<div class="line"><span class="lineno"> 2599</span>        });</div>
+<div class="line"><span class="lineno"> 2600</span>    }</div>
+<div class="ttc" id="aSharedDefines_8h_html_a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668ae6f285b2042f990335ebcc501c5f2c82">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a></div><div class="ttdeci">@ SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:446</div></div>
+<div class="ttc" id="aclassSpellInfo_html_a975746d6b737abb063ea037327abfc5a"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">SpellInfo::HasAttribute</a></div><div class="ttdeci">bool HasAttribute(SpellAttr0 attribute) const</div><div class="ttdef"><b>Definition</b> SpellInfo.h:441</div></div>
+<div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
+<div class="ttc" id="aclassWorldObject_html"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html">WorldObject</a></div><div class="ttdef"><b>Definition</b> Object.h:476</div></div>
+<div class="ttc" id="aclassWorldObject_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition</b> Object.cpp:1407</div></div>
+<div class="ttc" id="anamespaceVMAP_html_a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9"><div class="ttname"><a href="../../dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::ModelIgnoreFlags::M2</a></div><div class="ttdeci">@ M2</div></div>
+<div class="ttc" id="astructPosition_html_ac3e33df0464e0203a3b8f6b7d2ed9a62"><div class="ttname"><a href="../../d0/df4/structPosition.html#ac3e33df0464e0203a3b8f6b7d2ed9a62">Position::HasInArc</a></div><div class="ttdeci">bool HasInArc(float arcangle, Position const *pos, float targetRadius=0.0f) const</div><div class="ttdef"><b>Definition</b> Position.cpp:148</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00148">Position::HasInArc()</a>, <a class="el" href="../../#l01407">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9">VMAP::M2</a>, and <a class="el" href="../../#l00446">SPELL_ATTR2_IGNORE_LINE_OF_SIGHT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02599">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02602">Register()</a>.</p>
 
 </div>
 </div>
@@ -382,9 +393,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2600</span>    {</div>
-<div class="line"><span class="lineno"> 2601</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno"> 2602</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2603</span>    {</div>
+<div class="line"><span class="lineno"> 2604</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno"> 2605</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1424</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
@@ -404,7 +415,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html">spell_yogg_saron_lunatic_gaze</a></li>
-    <li class="footer">Generated on Fri Sep 11 2026 10:29:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 12 2026 09:59:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
