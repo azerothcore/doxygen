@@ -1,5 +1,7 @@
 var NAVTREEINDEX120 =
 {
+"d3/df7/classBattlefieldMgr.html#a19b23ca8dc68ceaaca9078a33b62b70e":[7,0,327,9],
+"d3/df7/classBattlefieldMgr.html#a223e8c73e41441f25e557d78ddb97b81":[7,0,327,7],
 "d3/df7/classBattlefieldMgr.html#a244ce1743c237e95c08dc8861f3ce4b3":[7,0,327,14],
 "d3/df7/classBattlefieldMgr.html#a40a5ca1cd0f0baa8ffd47bc91700a7ac":[7,0,327,4],
 "d3/df7/classBattlefieldMgr.html#a458fb8b4943de82f0574ddd63ba466a9":[7,0,327,13],
@@ -15,16 +17,16 @@ var NAVTREEINDEX120 =
 "d3/df7/classBattlefieldMgr.html#af96d6d44aa8936f94c20d1bd92af2fb3":[7,0,327,15],
 "d3/df7/classBattlefieldMgr.html#afaa79f63a91c6b585b4bf10dfdf60af6":[7,0,327,2],
 "d3/df7/classMPQFile.html":[7,0,1582],
-"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1582,14],
 "d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1582,15],
+"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1582,14],
 "d3/df7/classMPQFile.html#a2eaa21c84572a7b62011361218f3971e":[7,0,1582,19],
 "d3/df7/classMPQFile.html#a2eaa21c84572a7b62011361218f3971e":[7,0,1582,18],
-"d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[7,0,1582,5],
 "d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[7,0,1582,2],
+"d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[7,0,1582,5],
 "d3/df7/classMPQFile.html#a51ae51b7a96f945592022a036f07b5b0":[7,0,1582,10],
 "d3/df7/classMPQFile.html#a51ae51b7a96f945592022a036f07b5b0":[7,0,1582,11],
-"d3/df7/classMPQFile.html#a62a74189592453dfdaf3643f80666612":[7,0,1582,17],
 "d3/df7/classMPQFile.html#a62a74189592453dfdaf3643f80666612":[7,0,1582,16],
+"d3/df7/classMPQFile.html#a62a74189592453dfdaf3643f80666612":[7,0,1582,17],
 "d3/df7/classMPQFile.html#a632260ab84b019c9174a832d447e7691":[7,0,1582,26],
 "d3/df7/classMPQFile.html#a8baf32918a435662a426c76a8c78fbd8":[7,0,1582,7],
 "d3/df7/classMPQFile.html#a8baf32918a435662a426c76a8c78fbd8":[7,0,1582,6],
@@ -42,8 +44,8 @@ var NAVTREEINDEX120 =
 "d3/df7/classMPQFile.html#ad8612ecd51a6c0dd226a936965753bdc":[7,0,1582,28],
 "d3/df7/classMPQFile.html#adfeffa15224b809afbe65352dfd97055":[7,0,1582,1],
 "d3/df7/classMPQFile.html#adfeffa15224b809afbe65352dfd97055":[7,0,1582,4],
-"d3/df7/classMPQFile.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e":[7,0,1582,9],
 "d3/df7/classMPQFile.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e":[7,0,1582,8],
+"d3/df7/classMPQFile.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e":[7,0,1582,9],
 "d3/df7/classMPQFile.html#ae17eee1ec4d2f5f5f794d2373b919bdb":[7,0,1582,27],
 "d3/df7/classmodify__commandscript.html":[7,0,1566],
 "d3/df7/classmodify__commandscript.html#a060326dbdeaf5429782790522ea55ffb":[7,0,1566,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX120 =
 "d3/dfc/classspell__item__frozen__shadoweave.html#ad59dce623cc1569bb4d9867f528a4fa8":[7,0,3413,3],
 "d3/dfc/structgo__father__flame.html":[7,0,1178],
 "d3/dfc/structgo__father__flame.html#aa23829f617c48bb6da57ff7977886e75":[7,0,1178,0],
-"d3/dfc/structgo__father__flame.html#ad0e85a66d65d908c532c2bfde0605b39":[7,0,1178,1],
-"d3/dfd/classachievement__getting__cold__in__here.html":[7,0,63],
-"d3/dfd/classachievement__getting__cold__in__here.html#a57fe7262a09036ffa88e985cb7e2f123":[7,0,63,0]
+"d3/dfc/structgo__father__flame.html#ad0e85a66d65d908c532c2bfde0605b39":[7,0,1178,1]
 };

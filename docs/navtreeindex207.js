@@ -1,5 +1,10 @@
 var NAVTREEINDEX207 =
 {
+"d7/d9b/SignalHandler_8h.html":[8,0,0,0,0,15,24],
+"d7/d9c/pet__dk_8cpp.html":[8,0,0,0,1,3,8,0],
+"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499":[8,0,0,0,1,3,8,0,6],
+"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b":[8,0,0,0,1,3,8,0,6,7],
+"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a5189df5fecf5b13ddd4039be46a59c4a":[8,0,0,0,1,3,8,0,6,1],
 "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a74639ec42972cefdd2205530da747e4b":[8,0,0,0,1,3,8,0,6,8],
 "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a7befee8ae802023214e825bee24cee5e":[8,0,0,0,1,3,8,0,6,6],
 "d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a887c6b33ed54be59ad7e0e8bf32563d9":[8,0,0,0,1,3,8,0,6,4],
@@ -14,8 +19,8 @@ var NAVTREEINDEX207 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,299,2,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[5,0,34,14,8],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[7,0,13,14,8,1],
+"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#a22e2ff4a700f9db48518cf5a9aec18f6":[5,0,34,14,8,1],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[7,0,13,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#ae1d6a81d589533b15c0358b4896afd91":[5,0,34,14,8,2],
 "d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html#afeb3eec9774e69822f3b5f9bf7b5f905":[7,0,13,14,8,0],
@@ -27,12 +32,12 @@ var NAVTREEINDEX207 =
 "d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,33,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[7,0,12,1,0],
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
 "d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,33,1,0],
-"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
+"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[7,0,12,1,0],
 "d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[5,0,33,1,2],
+"d7/d9e/structWMO_1_1MODS.html#ae93b772cbbe91b9ed55c78e22317c8dd":[7,0,12,1,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html":[7,0,417,0],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a65f7fd4f73c727eeb5988d7ec77b94ce":[7,0,417,0,3],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a96e27eaba5c9e422981d78123ed9c83d":[7,0,417,0,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX207 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa260c27fc665e9291679b2e0940f567ba":[8,0,0,0,1,2,28,2,0,152],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa265953b4f88a11c39ae054c5f4220814":[8,0,0,0,1,2,28,2,0,378],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa265a55090864fe7087a545f79d0357a7":[8,0,0,0,1,2,28,2,0,149],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa265cf267feda2dcefb3f2c8584ba892e":[8,0,0,0,1,2,28,2,0,481],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27058895be265e3b669d5d0e3297d9ae":[8,0,0,0,1,2,28,2,0,1256],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa27213d388c072022458e8848ae2f64c9":[8,0,0,0,1,2,28,2,0,306],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa2721a69a876c33ee0f00ff6a5350cfef":[8,0,0,0,1,2,28,2,0,737],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa2736b675d27d1fa34237178fb4cb183c":[8,0,0,0,1,2,28,2,0,394],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa273f2c6d51574adb7972bdce9bb8c7b4":[8,0,0,0,1,2,28,2,0,758]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa265cf267feda2dcefb3f2c8584ba892e":[8,0,0,0,1,2,28,2,0,481]
 };

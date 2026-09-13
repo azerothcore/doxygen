@@ -3,6 +3,7 @@ var structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapS
     [ "instance_the_slave_pens_InstanceMapScript", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a70db3eeeb55784250a13032728220005", null ],
     [ "GetGuidData", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a77e77209e779b774608f739b258ae419", null ],
     [ "OnCreatureCreate", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "OnGameObjectCreate", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a01268ee78431dfe1ed9c4bf960c92b1a", null ],
     [ "SetGuidData", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a21a29973bcf5ef6925239213ce50bab0", null ],
     [ "AhuneBunnyGUID", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
     [ "AhuneGUID", "d9/d38/structinstance__the__slave__pens_1_1instance__the__slave__pens__InstanceMapScript.html#a8ad4dab281db87bb2d14b925b450f09c", null ],

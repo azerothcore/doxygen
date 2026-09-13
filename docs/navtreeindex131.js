@@ -1,5 +1,7 @@
 var NAVTREEINDEX131 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a71bc612a1888cd1a218ee47a7c3514bf":[8,0,0,0,1,3,7,5,2,2,23,45],
+"d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a7a2bcdbde660d59005db90248f85fbfe":[8,0,0,0,1,3,7,5,2,2,23,30],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a7a7459cee426a15fdb6192309a39ad5a":[8,0,0,0,1,3,7,5,2,2,23,18],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a7dcbf7b902aa89b67a6fb32a608fc0f8":[8,0,0,0,1,3,7,5,2,2,23,33],
 "d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a846055c995374082714483a6b39bc963":[8,0,0,0,1,3,7,5,2,2,23,9],
@@ -67,18 +69,18 @@ var NAVTREEINDEX131 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[8,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[8,0,0,0,1,3,7,5,2,2,20,4],
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[8,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html":[7,0,7,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
+"d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
+"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[7,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[7,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[7,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[7,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[7,0,1236],
@@ -247,7 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201":[8,0,0,0,1,3,5,6,14,3,2],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c":[8,0,0,0,1,3,5,6,14,3,3],
 "d4/d6f/icecrown__citadel__teleport_8cpp.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2":[8,0,0,0,1,3,5,6,14,3,4],
-"d4/d6f/icecrown__citadel__teleport_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[8,0,0,0,1,3,5,6,14,4],
-"d4/d6f/structCoordPair.html":[7,0,937],
-"d4/d6f/structCoordPair.html#a082960c54e2077df370f891c0534b44f":[7,0,937,7]
+"d4/d6f/icecrown__citadel__teleport_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[8,0,0,0,1,3,5,6,14,4]
 };

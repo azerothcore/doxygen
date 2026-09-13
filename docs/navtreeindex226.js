@@ -1,5 +1,10 @@
 var NAVTREEINDEX226 =
 {
+"d8/d49/classspell__mark__of__the__faceless__drainhealth.html#ac7337b4ee8511f72b129fccc83b3241e":[7,0,3666,2],
+"d8/d49/classspell__mark__of__the__faceless__drainhealth.html#adb438b9bcf4be347aeabf6608fbfb8a4":[7,0,3666,0],
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html":[7,0,176],
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aa2e9a01adad7e195860bbc6c55131024":[7,0,176,0],
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aea1c4b45ae855d0cda81dbad102b8104":[7,0,176,1],
 "d8/d4b/ChatTextBuilder_8cpp.html":[8,0,0,0,1,2,43,0],
 "d8/d4b/classObject.html":[7,0,2350],
 "d8/d4b/classObject.html#a00340fbc92fd28dfaa5e945a7f5e5a77":[7,0,2350,16],
@@ -240,14 +245,9 @@ var NAVTREEINDEX226 =
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[7,0,0,66],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[7,0,0,66,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,0,78,2],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[7,0,0,66,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,0,78,1],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[7,0,0,66,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[7,0,0,66,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[5,0,0,78,3],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[7,0,0,66,0],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,0,78,0],
-"d8/d54/classspell__the__black__stalker__levitate.html":[7,0,4219],
-"d8/d54/classspell__the__black__stalker__levitate.html#a46aca18049e02d50f57579b3fdc705bd":[7,0,4219,3],
-"d8/d54/classspell__the__black__stalker__levitate.html#a7c1b4d0c8d2ad153cef62ce05fef814c":[7,0,4219,0],
-"d8/d54/classspell__the__black__stalker__levitate.html#a82da72fd4eed6773c1f3a4288caa8963":[7,0,4219,2]
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[7,0,0,66,0]
 };

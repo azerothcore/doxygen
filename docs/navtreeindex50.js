@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4348,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[7,0,2098,0],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[7,0,2098,0,4],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[7,0,2098,0,5],
@@ -145,16 +146,16 @@ var NAVTREEINDEX50 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[7,0,3555,0],
 "d1/df9/classspell__kelthuzad__void__blast.html#a5e33a371d519c2fdc8561f2ac8d9dd82":[7,0,3555,2],
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3555,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1673],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d04/classBattlegroundAV.html#a3f37f8a817a90e3d1a086a43a4b16163":[7,0,333,11],
 "d2/d04/classBattlegroundAV.html#a49c199681984e5db0c7e6743775b72c2":[7,0,333,20],
 "d2/d04/classBattlegroundAV.html#a4c23686707da15345afaf2b061d4d16a":[7,0,333,23],
-"d2/d04/classBattlegroundAV.html#a513060614915a5d0b5c513a5e6a35410":[7,0,333,35],
-"d2/d04/classBattlegroundAV.html#a608dc42a00ef8b541d97ca17d28149b8":[7,0,333,19]
+"d2/d04/classBattlegroundAV.html#a513060614915a5d0b5c513a5e6a35410":[7,0,333,35]
 };

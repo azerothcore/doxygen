@@ -1,5 +1,11 @@
 var NAVTREEINDEX426 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da5374d9040d208e9d49202cf3aa267aee":[8,0,0,0,1,3,5,6,4,55,15],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da5e91316dd9bc55cd79327e3af43cd664":[8,0,0,0,1,3,5,6,4,55,17],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da655e953f4ff6620016a8cdf7ee8a7458":[8,0,0,0,1,3,5,6,4,55,20],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da684d4af8b70ad778384e331084287a95":[8,0,0,0,1,3,5,6,4,55,4],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da71500497fb05b54559c21b0438d66540":[8,0,0,0,1,3,5,6,4,55,13],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da71fa32d971a209e8aab0390d87f52f62":[8,0,0,0,1,3,5,6,4,55,1],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da83f8445950e606075c4caaf6ca8e4ae3":[8,0,0,0,1,3,5,6,4,55,6],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9350ba008dc9d60086d570289e1b5bcb":[8,0,0,0,1,3,5,6,4,55,7],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9a3390a370dc386262db6857adddea15":[8,0,0,0,1,3,5,6,4,55,19],
@@ -243,11 +249,5 @@ var NAVTREEINDEX426 =
 "df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268abe5a07c776d1d85707d27f145495a3f8":[8,0,0,0,1,3,7,2,0,3,11,2],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a9df48fc21316c84ffdd140741d0dd476":[8,0,0,0,1,3,7,2,0,3,12],
 "df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[8,0,0,0,1,3,7,2,0,3,8],
-"df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99aa8a276adfb1bc4c990d9fcd7622ee8b44":[8,0,0,0,1,3,7,2,0,3,8,0],
-"df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99aa9ec61b4a64bb040b8e116599fa55c192":[8,0,0,0,1,3,7,2,0,3,8,1],
-"df/de3/classMapInstanced.html":[7,0,1531],
-"df/de3/classMapInstanced.html#a0fce5af3a96e35e9cbe44d73bac8b2df":[7,0,1531,13],
-"df/de3/classMapInstanced.html#a29380bc11b3e33278338bcff32b3cbec":[7,0,1531,11],
-"df/de3/classMapInstanced.html#a29f973e3e4bdfcfb0ea9bf6639b38108":[7,0,1531,3],
-"df/de3/classMapInstanced.html#a2d08c599bf826c4c98aaa9109e3b7a57":[7,0,1531,0]
+"df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99aa8a276adfb1bc4c990d9fcd7622ee8b44":[8,0,0,0,1,3,7,2,0,3,8,0]
 };

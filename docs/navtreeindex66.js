@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/structboss__razorscale.html#a2c65bb16401d956cbdf56923ad345015":[7,0,685,20],
 "d2/d5b/structboss__razorscale.html#a410854c247c7b28d3a933ef496988cb8":[7,0,685,22],
 "d2/d5b/structboss__razorscale.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b":[7,0,685,11],
 "d2/d5b/structboss__razorscale.html#a5d059d9571a04896c27fde1b6c5db4ce":[7,0,685,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d67/classwdt__MPHD.html#a9536fcb98293d1c09a1975b753f02ae8":[7,0,4680,5],
 "d2/d67/classwdt__MPHD.html#a9e2886eb133eb0e0bc8fa21a5b166d20":[7,0,4680,1],
 "d2/d67/classwdt__MPHD.html#aa0ccc34e7e7a2de4e9866819dbe0c72a":[7,0,4680,9],
-"d2/d67/classwdt__MPHD.html#aaa61a13b39e23a3efba960645e3e14a9":[7,0,4680,10],
-"d2/d67/classwdt__MPHD.html#ace847b2eee40844bb3fa880e3c1d1aa5":[7,0,4680,0]
+"d2/d67/classwdt__MPHD.html#aaa61a13b39e23a3efba960645e3e14a9":[7,0,4680,10]
 };

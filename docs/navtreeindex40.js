@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#ae5ca00ee9baead3392a9239dfb68d377":[7,0,2137,0,2],
 "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#af2535d7364641fadc98bca91ace9c906":[7,0,2137,0,1],
 "d1/da5/structnpc__azure__captain.html":[7,0,1670],
 "d1/da5/structnpc__azure__captain.html#a6a69ea3d3eb75601f723a10eab68c260":[7,0,1670,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/dae/classdebug__commandscript.html#acb00c42f3f276366ee36926dbd2d2566":[7,0,996,29],
 "d1/dae/classdebug__commandscript.html#acea93d7d4753edb3b86f4582eb60c7c4":[7,0,996,8],
 "d1/dae/classdebug__commandscript.html#ae4da5ca94e6941e8436051937966acfd":[7,0,996,6],
-"d1/dae/classdebug__commandscript.html#ae835b43df7a7828c76e00882083fc29c":[7,0,996,44],
-"d1/dae/classdebug__commandscript.html#aec99137aa0b990df4be071ea6b7a45ff":[7,0,996,41]
+"d1/dae/classdebug__commandscript.html#ae835b43df7a7828c76e00882083fc29c":[7,0,996,44]
 };

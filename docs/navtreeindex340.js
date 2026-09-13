@@ -1,5 +1,14 @@
 var NAVTREEINDEX340 =
 {
+"dc/df2/classspellinfo__commandscript.html#ac3061b665a5181048989626e59781087":[7,0,4474,3],
+"dc/df2/classspellinfo__commandscript.html#ac58355105d147793fab51cfaf3cbf3bb":[7,0,4474,2],
+"dc/df2/classspellinfo__commandscript.html#ad27a2a6252ab11030b6d75d7c25ac5dd":[7,0,4474,0],
+"dc/df2/classspellinfo__commandscript.html#af3097eebfcb538fc7a391472bc4c9d7d":[7,0,4474,16],
+"dc/df3/WorldMapScript_8cpp.html":[8,0,0,0,1,2,38,0,92],
+"dc/df3/WorldMapScript_8cpp.html#a729e333e6d0c4e5e353dd22c9612f446":[8,0,0,0,1,2,38,0,92,0],
+"dc/df4/classspell__q13010__jokkum__summon.html":[7,0,3973],
+"dc/df4/classspell__q13010__jokkum__summon.html#a98c5df8b6c561a5aa7d766b639f3c2c8":[7,0,3973,0],
+"dc/df4/classspell__q13010__jokkum__summon.html#a9c9a0fd43758a6441a086860e8276cc0":[7,0,3973,2],
 "dc/df4/classspell__q13010__jokkum__summon.html#ab5605e1d401d7a762fc8b5a530ecd640":[7,0,3973,1],
 "dc/df4/classspell__rog__mutilate.html":[7,0,4037],
 "dc/df4/classspell__rog__mutilate.html#a45629d348275833930bc5180e9a347f9":[7,0,4037,1],
@@ -27,10 +36,10 @@ var NAVTREEINDEX340 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[7,0,777,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[7,0,777,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX340 =
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f1bd42ffb5af53894294330160d81c7":[8,0,0,0,1,3,7,1,3,14,11],
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ec4ef61b2b9f290f7a24a38e8bcca72":[8,0,0,0,1,3,7,1,3,14,7],
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7579a786be0f0bdf977b6c34bdbb45d0":[8,0,0,0,1,3,7,1,3,14,13],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a925f99847ab3677c20b9961a493ea1a0":[8,0,0,0,1,3,7,1,3,14,9],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b1ef34aaf87bdac7604a05c5d35fcd5":[8,0,0,0,1,3,7,1,3,14,14],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa1f4a22248bf1922a1a9311dc9728691":[8,0,0,0,1,3,7,1,3,14,4],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab2c3a505fea24517878ba4a91ce9b953":[8,0,0,0,1,3,7,1,3,14,8],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aba4027a0bf01bbe406c51c579cde7f5e":[8,0,0,0,1,3,7,1,3,14,0],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac481544e562cf6de3c2373eb9508f164":[8,0,0,0,1,3,7,1,3,14,5],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac812ae68744286d23b88a6c004b377b1":[8,0,0,0,1,3,7,1,3,14,6],
-"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad827f9fb61a9d834f657d2e4a2ff3915":[8,0,0,0,1,3,7,1,3,14,10],
-"dd/d07/boss__illidari__council_8cpp.html#a4bf5e35233a8891171b10d43f2aef907":[8,0,0,0,1,3,7,1,3,17],
-"dd/d07/boss__illidari__council_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,1,3,16]
+"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a925f99847ab3677c20b9961a493ea1a0":[8,0,0,0,1,3,7,1,3,14,9]
 };

@@ -47,7 +47,9 @@ var the__slave__pens_8h =
     ] ],
     [ "SPGameObjectIds", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611c", [
       [ "GO_ICE_SPEAR", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611ca9b75ef7e173cd15b3202777fce52a66e", null ],
-      [ "GO_ICE_STONE", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611cab111ea8e2dbb3555a27b1a933059f1e0", null ]
+      [ "GO_ICE_STONE", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611cab111ea8e2dbb3555a27b1a933059f1e0", null ],
+      [ "GO_ICE_CHEST", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611cae02a86a06840f5135ecd2b7bf5c8742f", null ],
+      [ "GO_ICE_CHEST_2", "d7/d37/the__slave__pens_8h.html#a06cef748157acc5cdb608eba18a2611ca72e1556e836a8bcf71c5b10506de2eff", null ]
     ] ],
     [ "GetTheSlavePensAI", "d7/d37/the__slave__pens_8h.html#a105b38fe7319e4a168abd4c0592c50b5", null ],
     [ "EncounterCount", "d7/d37/the__slave__pens_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ]

@@ -1,5 +1,7 @@
 var NAVTREEINDEX109 =
 {
+"d3/da5/classspell__vael__burning__adrenaline.html#a4dd592093c1b00388a54fd8aa1b86904":[7,0,4292,3],
+"d3/da5/classspell__vael__burning__adrenaline.html#a754b44b62c131e20e1be94b3407e2006":[7,0,4292,0],
 "d3/da5/classspell__vael__burning__adrenaline.html#a92a58e6bcde5f80c6962ce1da47aca2d":[7,0,4292,1],
 "d3/da5/classspell__vem__knockback.html":[7,0,4307],
 "d3/da5/classspell__vem__knockback.html#a0f03a3e09e80ae50a5ddedcea1f9f30e":[7,0,4307,0],
@@ -50,8 +52,8 @@ var NAVTREEINDEX109 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3110,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3110,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3110,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,205],
@@ -247,7 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca41cca4c21173b2616bfca0b0759d7e21":[8,0,0,0,1,3,2,1,3,3,2,6],
 "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca4630efd0e3a193c672facd09f2ee6073":[8,0,0,0,1,3,2,1,3,3,2,3],
 "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca625344967b342b4920b0fd69edf45b14":[8,0,0,0,1,3,2,1,3,3,2,4],
-"d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[8,0,0,0,1,3,2,1,3,3,2,1],
-"d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298cac5cb10c3d24688bd7cbd6fb2ba4c9ad5":[8,0,0,0,1,3,2,1,3,3,2,7],
-"d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ccd71da672cd021682c47fc6ac6fee":[8,0,0,0,1,3,2,1,3,3,2,0]
+"d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[8,0,0,0,1,3,2,1,3,3,2,1]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX338 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab279af946b201e9b7ca1f80c6fd590c4":[8,0,0,0,1,3,2,16,111],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab3f2a91fe096585f54078e8884cb25f7":[8,0,0,0,1,3,2,16,122],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab467ba90e5636027f0ef7f7806d64d25":[8,0,0,0,1,3,2,16,92],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7":[8,0,0,0,1,3,2,16,65],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab5f9b5dcc2449941412d5a0629c1e6ba":[8,0,0,0,1,3,2,16,45],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab70bfc3e35342b240112821c6713855a":[8,0,0,0,1,3,2,16,51],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab760145468dc04c8ba5408193eab6d5f":[8,0,0,0,1,3,2,16,48],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab7638a8683078336510c473aae52860d":[8,0,0,0,1,3,2,16,72],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#abb36992caf0a693d29fb5bf8ceacb8b0":[8,0,0,0,1,3,2,16,70],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ac865e7add4724f06be48735f6bf1a542":[8,0,0,0,1,3,2,16,134],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ac8fad6c2a1b96f0fad3a0b70b59b134a":[8,0,0,0,1,3,2,16,16],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#acc31e61d9eaf6144ffd65028abca1ed9":[8,0,0,0,1,3,2,16,69],
@@ -240,14 +249,5 @@ var NAVTREEINDEX338 =
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222":[8,0,0,0,1,3,2,11,6,7,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b":[8,0,0,0,1,3,2,11,6,7,7],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d":[8,0,0,0,1,3,2,11,6,7,4],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[8,0,0,0,1,3,2,11,6,11],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bc":[8,0,0,0,1,3,2,11,6,9],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd":[8,0,0,0,1,3,2,11,6,9,4],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7":[8,0,0,0,1,3,2,11,6,9,5],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,11,6,9,1],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3":[8,0,0,0,1,3,2,11,6,9,0],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664":[8,0,0,0,1,3,2,11,6,9,2],
-"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff":[8,0,0,0,1,3,2,11,6,9,3],
-"dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,2,11,6,15],
-"dc/de2/classspell__dru__bear__form__passive.html":[7,0,2894]
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[8,0,0,0,1,3,2,11,6,11]
 };

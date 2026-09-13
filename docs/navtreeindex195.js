@@ -1,5 +1,8 @@
 var NAVTREEINDEX195 =
 {
+"d7/d01/structnpc__zuljin__vortex.html#a1331e714c5cafdc32033e73b6f3169aa":[7,0,2341,2],
+"d7/d01/structnpc__zuljin__vortex.html#a1ae6a08fe247e7bc812ed4f5ffebc519":[7,0,2341,3],
+"d7/d01/structnpc__zuljin__vortex.html#ab353794ef978151999fdd2294783e757":[7,0,2341,1],
 "d7/d01/structnpc__zuljin__vortex.html#af3af996adc0a0dba4af992234f8356fb":[7,0,2341,0],
 "d7/d02/FleeingMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,5],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html":[8,0,0,0,1,3,7,5,3,4],
@@ -96,20 +99,20 @@ var NAVTREEINDEX195 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[7,0,4247,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,14],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[8,0,0,0,1,2,38,0,14,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,3],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,3],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,3],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,3,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,3,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,3,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[7,0,0,4,3,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,0,110],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,0,110,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[7,0,0,98,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,110,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[7,0,0,98,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,110,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[7,0,0,98,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,110,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,110,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[7,0,0,98,0],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html":[8,0,0,0,1,3,5,4,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d0d/classspell__thorim__lightning__pillar__P2.html":[7,0,4258],
 "d7/d0d/classspell__thorim__lightning__pillar__P2.html#a2eaa34f9f3b3d255fc5091fb5b48f60a":[7,0,4258,2],
 "d7/d0d/classspell__thorim__lightning__pillar__P2.html#a3c8337cc17ec735fc97f5195a1e820b6":[7,0,4258,0],
-"d7/d0d/classspell__thorim__lightning__pillar__P2.html#ae0cc2794b1d2b8de442dbf30f7da8883":[7,0,4258,1],
-"d7/d0d/structboss__salramm_1_1boss__salrammAI.html":[7,0,697,0],
-"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a55c0bba93a90b5a3770c81b9c4d2fe5b":[7,0,697,0,8],
-"d7/d0d/structboss__salramm_1_1boss__salrammAI.html#a59bc42afcbb0ed2c2629bd0280836194":[7,0,697,0,2]
+"d7/d0d/classspell__thorim__lightning__pillar__P2.html#ae0cc2794b1d2b8de442dbf30f7da8883":[7,0,4258,1]
 };

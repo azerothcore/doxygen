@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04abe51220be0bc1149e1f0a77a00246e77":[8,0,0,0,1,2,0,3,4,208],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04abf0de958bb51a89346dbb98b3e7353ca":[8,0,0,0,1,2,0,3,4,23],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04abf262c935dbf784ad36eb13b73030fc5":[8,0,0,0,1,2,0,3,4,176],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04abf6917759daf21eb155b1c4c35dad6aa":[8,0,0,0,1,2,0,3,4,551],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04abf870a57cf67182b9896ca5eb6f2b434":[8,0,0,0,1,2,0,3,4,626],
@@ -231,8 +233,8 @@ var NAVTREEINDEX155 =
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2458,11],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/d76/structboss__faction__championsAI.html#aa8976d148ac4882063787f144ebeeea8":[7,0,473,7],
 "d5/d76/structboss__faction__championsAI.html#aae5bc496f0f17c2167dd8a47c8ae40cd":[7,0,473,5],
 "d5/d76/structboss__faction__championsAI.html#ac49f6c9994484a6d905362fd66ccf81e":[7,0,473,9],
-"d5/d76/structboss__faction__championsAI.html#acbb166d6ac50f11eae591ddf1dbba917":[7,0,473,2],
-"d5/d76/structboss__faction__championsAI.html#acff880f98ff81d25d02224931fe8ff93":[7,0,473,14],
-"d5/d76/structboss__faction__championsAI.html#ad5d17a7895d0c92f8c63fe5689564569":[7,0,473,4]
+"d5/d76/structboss__faction__championsAI.html#acbb166d6ac50f11eae591ddf1dbba917":[7,0,473,2]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX328 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a390f7c5bfa0d91ec030ed232e59be2d4":[8,0,0,0,1,2,26,2,0,57],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a392709478a63b3f3d8eed4d7113d7d12":[8,0,0,0,1,2,26,2,0,105],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a39f1f908c275ba3e434a3135c03c2f78":[8,0,0,0,1,2,26,2,0,63],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3b9dc32148870e258784cbea25b26d3d":[8,0,0,0,1,2,26,2,0,81],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3c1bbf25e615ddda433b67364eaf1b97":[8,0,0,0,1,2,26,2,0,110],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3cab71d24fc7023c34d1738558726f2c":[8,0,0,0,1,2,26,2,0,125],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e5c57d9c3c8994b83e673bd8100733f":[8,0,0,0,1,2,26,2,0,90],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3e621c6cd2dc3c6ecb49fecfd0ad0d57":[8,0,0,0,1,2,26,2,0,14],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3ed4099777e242071b7879a18f513160":[8,0,0,0,1,2,26,2,0,67],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d":[8,0,0,0,1,2,26,2,0,111],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4300310bf87aeb726746c717828ffff1":[8,0,0,0,1,2,26,2,0,147],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a43212ff5df35c5e033a1cc9064e8764e":[8,0,0,0,1,2,26,2,0,94],
@@ -240,14 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d56/structadvisor__baseAI.html#a008c30414ecebf4e2996d06b81539255":[7,0,147,5],
 "dc/d56/structadvisor__baseAI.html#a1e4b1ff264f4c1586515f56531b77dea":[7,0,147,3],
 "dc/d56/structadvisor__baseAI.html#a24d22ccec834770bc5bcf44119fb0045":[7,0,147,6],
-"dc/d56/structadvisor__baseAI.html#a3c68b7ee961af2d9dabb15c7e054d45b":[7,0,147,0],
-"dc/d56/structadvisor__baseAI.html#a4fc41f3985244b6baf25b3417f67054e":[7,0,147,7],
-"dc/d56/structadvisor__baseAI.html#a6491439ac2fd4acec3379a17be92251e":[7,0,147,4],
-"dc/d56/structadvisor__baseAI.html#a678d09ec3b3d5a4d922a0fc117192349":[7,0,147,1],
-"dc/d56/structadvisor__baseAI.html#a8da09edce761f1f1e1b7eb96ec7a529b":[7,0,147,2],
-"dc/d56/structadvisor__baseAI.html#aa89d3479b2e0bd8dd18572135aa45235":[7,0,147,8],
-"dc/d56/structadvisor__baseAI.html#ab6c4a3f241fa5417f0a1d450ddb811ca":[7,0,147,10],
-"dc/d56/structadvisor__baseAI.html#ae1c2011ba993c8d589bf6fe45602ac41":[7,0,147,9],
-"dc/d56/structnpc__eastvale__peasent.html":[7,0,1802],
-"dc/d56/structnpc__eastvale__peasent.html#a002ec21e0715b020aa19cd0839408033":[7,0,1802,2]
+"dc/d56/structadvisor__baseAI.html#a3c68b7ee961af2d9dabb15c7e054d45b":[7,0,147,0]
 };

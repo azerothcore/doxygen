@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d1d/structMapEntry.html#a368dda3514aeb177fb204fd73e9af2c4":[7,0,1528,16],
 "d2/d1d/structMapEntry.html#a39e6d2e230183f30e369c3bada111bfe":[7,0,1528,0],
 "d2/d1d/structMapEntry.html#a3ffc45e361a42d043c31c7a6d94e8d46":[7,0,1528,21],
 "d2/d1d/structMapEntry.html#a4e9a18b9335b79bb079b5255d24dd6d7":[7,0,1528,6],
@@ -168,22 +169,22 @@ var NAVTREEINDEX53 =
 "d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[7,0,224,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[7,0,13,6,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,34,6,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[5,0,34,6,5,2],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[7,0,13,6,5,3],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,34,6,5,3],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[7,0,13,6,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[7,0,13,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,34,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[7,0,13,6,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,34,6,5,4],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[7,0,13,6,5,1],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,34,6,5,5],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[7,0,13,6,5,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,34,6,5,0],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,34,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[7,0,13,6,5,0],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,34,6,5,6],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,34,6,5,0],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[7,0,13,6,5,6],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,34,6,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[5,0,34,6,5,7],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[7,0,13,6,5,7],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html":[7,0,1915,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557da8befe39d4d62a4701f1ec063d02e9cac":[8,0,0,0,1,3,2,4,0,5,13],
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557daa790faa3ded3ef9af3dfb54ba04923a0":[8,0,0,0,1,3,2,4,0,5,4],
 "d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dabb1459da832b3d2d1efbd8380ee976bb":[8,0,0,0,1,3,2,4,0,5,11],
-"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dadc33e864d043fc13e86d02717d78c17a":[8,0,0,0,1,3,2,4,0,5,1],
-"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dae3ceccc5908c2e85bade374da1205ba0":[8,0,0,0,1,3,2,4,0,5,14]
+"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dadc33e864d043fc13e86d02717d78c17a":[8,0,0,0,1,3,2,4,0,5,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX127 =
 {
+"d4/d3a/classSpellCastTargets.html#ad3c49b0121f60c337101ed9107dbc4e8":[7,0,4452,43],
+"d4/d3a/classSpellCastTargets.html#ad6da381507c41caca43a13f18901d679":[7,0,4452,67],
 "d4/d3a/classSpellCastTargets.html#ade0adf5ac613b5cadb186433b8e53a84":[7,0,4452,31],
 "d4/d3a/classSpellCastTargets.html#ae0701ae60cb2c9fa27365207e16f4105":[7,0,4452,34],
 "d4/d3a/classSpellCastTargets.html#ae45e32b127d5b65d8760b462f1c1f5b8":[7,0,4452,60],
@@ -143,10 +145,10 @@ var NAVTREEINDEX127 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[7,0,3016,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[7,0,3016,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[7,0,3016,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[7,0,13,15,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,34,15,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[7,0,13,15,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[7,0,13,15,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,34,15,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[7,0,13,15,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[7,0,2232,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[7,0,2232,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[7,0,2232,0,1],
@@ -195,14 +197,14 @@ var NAVTREEINDEX127 =
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[7,0,605,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,34,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,34,6,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,34,6,8,0],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[7,0,13,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,34,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[7,0,13,6,8,1],
 "d4/d46/classinstance__uldaman.html":[7,0,1387],
 "d4/d46/classinstance__uldaman.html#a672bb8b5a16d29d25a191ab90d8007b4":[7,0,1387,2],
 "d4/d46/classinstance__uldaman.html#a854807db729d15aa4a09aad051fe3bda":[7,0,1387,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d4d/classgo__commandscript.html#a88a8a00453f822322720476dfe91e866":[7,0,1164,14],
 "d4/d4d/classgo__commandscript.html#a8ba4cf43263d267e29efa76d6b92149d":[7,0,1164,9],
 "d4/d4d/classgo__commandscript.html#a98149f3632dbbce523926229ebd9c15a":[7,0,1164,18],
-"d4/d4d/classgo__commandscript.html#a9aee7c1cbfe76d988ad28cd64840222b":[7,0,1164,19],
-"d4/d4d/classgo__commandscript.html#aa02ff2eb7b64dd5f35cf7c7227482234":[7,0,1164,8],
-"d4/d4d/classgo__commandscript.html#ab74a387cae5095d9ea26bf70158d6a14":[7,0,1164,17]
+"d4/d4d/classgo__commandscript.html#a9aee7c1cbfe76d988ad28cd64840222b":[7,0,1164,19]
 };

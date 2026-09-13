@@ -1,5 +1,16 @@
 var NAVTREEINDEX399 =
 {
+"de/dd8/classInstanceMap.html#a73b2c530197b4061e3989d600be854d7":[7,0,1397,3],
+"de/dd8/classInstanceMap.html#a789efee0e05598f2eafe8a89461d51d0":[7,0,1397,15],
+"de/dd8/classInstanceMap.html#a7995cf4ab6a86f01be96a59ec56d28c1":[7,0,1397,14],
+"de/dd8/classInstanceMap.html#a840632baf9432e7d29a03c3c73a54d01":[7,0,1397,10],
+"de/dd8/classInstanceMap.html#a9d50fedced3e052f133b6d34d894b0ef":[7,0,1397,0],
+"de/dd8/classInstanceMap.html#aa7191fa5eeb80404dde25802e64878cc":[7,0,1397,4],
+"de/dd8/classInstanceMap.html#aabae71377e431f1690fa3934b1bd2a5c":[7,0,1397,19],
+"de/dd8/classInstanceMap.html#aabfd4a995353adcd4ab0bd64b8e59b7e":[7,0,1397,18],
+"de/dd8/classInstanceMap.html#aac59e76c4c67bffa05b8c5994f004a18":[7,0,1397,1],
+"de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9":[7,0,1397,12],
+"de/dd8/classInstanceMap.html#aceb53450ca21e22bbf414f16d7923737":[7,0,1397,6],
 "de/dd8/classInstanceMap.html#ad60b7ef4ef14f36245394fd7c929aad2":[7,0,1397,16],
 "de/dd8/classInstanceMap.html#ad86f85ab222182b0fe66a0fa19b916f6":[7,0,1397,20],
 "de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314":[7,0,1397,7],
@@ -238,16 +249,5 @@ var NAVTREEINDEX399 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#a2f54777bb68422618b3d7d5b0ff645e5":[8,0,0,0,2,2,0,10,19,11],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a38f6adc593e63ffbe81a955a145252b5":[8,0,0,0,2,2,0,10,19,4],
 "de/de9/SpellProcEquipmentTest_8cpp.html#a3ac72f13b7b7e3dd06a4a2233e0aeba0":[8,0,0,0,2,2,0,10,19,2],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a3b75afb0407abe3b5beac5a91e7052aa":[8,0,0,0,2,2,0,10,19,18],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a4ca0ffbde2d44686616ebf1bb9a7b59e":[8,0,0,0,2,2,0,10,19,3],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a54a1f7f841d77484dea2bb6220b78752":[8,0,0,0,2,2,0,10,19,14],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a56006585b0a2ca26e4138423161a620a":[8,0,0,0,2,2,0,10,19,22],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a5a02ad41e8c2496c404229ab9fabe30a":[8,0,0,0,2,2,0,10,19,7],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a5a79ba391a641fd95efc3b6af237e3f1":[8,0,0,0,2,2,0,10,19,15],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a6b0aebac05d10989c3fef6121de2aaab":[8,0,0,0,2,2,0,10,19,28],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a7767386979d852a619b6dbe82c19c6dd":[8,0,0,0,2,2,0,10,19,1],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a8206c776b9fa437f90738f7a26407dd3":[8,0,0,0,2,2,0,10,19,16],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a826e1a2b9df391b416c0bf8d9586a5ad":[8,0,0,0,2,2,0,10,19,21],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a8fcc51445a9700485ee8b28376c6c117":[8,0,0,0,2,2,0,10,19,19],
-"de/de9/SpellProcEquipmentTest_8cpp.html#a90735b3ce2720109328c57102ce1e440":[8,0,0,0,2,2,0,10,19,27]
+"de/de9/SpellProcEquipmentTest_8cpp.html#a3b75afb0407abe3b5beac5a91e7052aa":[8,0,0,0,2,2,0,10,19,18]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX134 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea64bfb6bd8ca118eec137b974eb1e89ca":[8,0,0,0,1,3,5,2,1,1,66,1],
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea8592e881c95a3dd79afcb9bd776950f6":[8,0,0,0,1,3,5,2,1,1,66,4],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaa83261adacd9fedf183a407abc4086ff":[8,0,0,0,1,3,5,2,1,1,66,0],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaacf68cb4ce5a32d9e670387086c1f185":[8,0,0,0,1,3,5,2,1,1,66,2],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eab25b4efbfeb76978714565aa3fb7cfe3":[8,0,0,0,1,3,5,2,1,1,66,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX134 =
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a5040c31467e9d3c6edc30b9133ec6873":[7,0,628,0,13],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6230dc14db38d43fb060f028cfde9d32":[7,0,628,0,7],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6bbc3ae1131f9becba0a35ea2e3a57dd":[7,0,628,0,5],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7358c7abb58a6c9ec200d06246d00d41":[7,0,628,0,3],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7f955c8399167d3f3aa974596f398c13":[7,0,628,0,16],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a875c046b8a2f4a01bded282143c6d1d0":[7,0,628,0,9]
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7358c7abb58a6c9ec200d06246d00d41":[7,0,628,0,3]
 };

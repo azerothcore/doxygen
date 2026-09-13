@@ -22,6 +22,7 @@ var classAuraApplication =
     [ "SetDisableMask", "d1/d61/classAuraApplication.html#af9f3adb73dfe0cfa9466091bb34e14ae", null ],
     [ "SetNeedClientUpdate", "d1/d61/classAuraApplication.html#ad15259f132b607f215d94e43ddd69009", null ],
     [ "SetRemoveMode", "d1/d61/classAuraApplication.html#a0e3151c2cc6217d0ada6c87a67b153f7", null ],
+    [ "Aura", "d1/d61/classAuraApplication.html#a97964cf84b9d24d3a7be4057811c4885", null ],
     [ "Unit::_ApplyAura", "d1/d61/classAuraApplication.html#a0ee9d6fcaabda925fdbf12feed2d6fbe", null ],
     [ "Unit::_ApplyAuraEffect", "d1/d61/classAuraApplication.html#a7bccd89e3e56acad8ccb5ff6fe004bc8", null ],
     [ "Unit::_CreateAuraApplication", "d1/d61/classAuraApplication.html#a70986d45ff7bcd29d8198bed9a4b8645", null ],

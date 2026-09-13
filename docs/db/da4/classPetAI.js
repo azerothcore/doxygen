@@ -24,6 +24,7 @@ var classPetAI =
     [ "ReceiveEmote", "db/da4/classPetAI.html#a0fdb1df9497319d5a874df78c74caf39", null ],
     [ "SelectNextTarget", "db/da4/classPetAI.html#add179efcb9c2ed0dd01aa3b2ac74004b", null ],
     [ "SpellHit", "db/da4/classPetAI.html#a42fba073be62e3a35fc671f288d6e02b", null ],
+    [ "StartChase", "db/da4/classPetAI.html#adce9ae35cf2bb90c5b9bfeccb93d9778", null ],
     [ "UpdateAI", "db/da4/classPetAI.html#aea55a7701940e23f90b68fd43a6367ff", null ],
     [ "UpdateAllies", "db/da4/classPetAI.html#a611f7bd5e1cf0cb592087bd836c2b922", null ],
     [ "combatRange", "db/da4/classPetAI.html#a4b9d25512fc4f8c9f0eb538542f72644", null ],

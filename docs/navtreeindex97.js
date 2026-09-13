@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a0395c851ef05d4982d504ce9f238f3bf":[8,0,0,0,1,3,5,9,2,13,52,14],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167":[8,0,0,0,1,3,5,9,2,13,52,39],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a0a64fc8af5ae1439ac850607743088dc":[8,0,0,0,1,3,5,9,2,13,52,11],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a13d25034aed5ba0b42a22447fac4af0d":[8,0,0,0,1,3,5,9,2,13,52,2],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2":[8,0,0,0,1,3,5,9,2,13,52,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d32/structboss__azgalor.html":[7,0,407],
 "d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[7,0,407,4],
 "d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[7,0,407,1],
-"d3/d32/structboss__azgalor.html#a49cc8abf458f82ad7d46c9c1563f0e98":[7,0,407,2],
-"d3/d32/structboss__azgalor.html#a4b067c3bccbd5f9c96c50d009250d3d0":[7,0,407,3],
-"d3/d32/structboss__azgalor.html#ac794e0eacc2d543fa62e4b521089f080":[7,0,407,0]
+"d3/d32/structboss__azgalor.html#a49cc8abf458f82ad7d46c9c1563f0e98":[7,0,407,2]
 };

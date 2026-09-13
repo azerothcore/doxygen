@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751":[8,0,0,0,1,3,9,2,213],
 "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a1a948f78596a7fdbbd550a390cf10d0b":[8,0,0,0,1,3,9,2,213,1],
 "d1/de4/spell__generic_8cpp.html#a605b4e6c751e95775a94ce14ca3cb751a3e065e34b0631e5a8f30c7346d805739":[8,0,0,0,1,3,9,2,213,0],
 "d1/de4/spell__generic_8cpp.html#a638c8dabaf7fa92e9c993c33173bb52c":[8,0,0,0,1,3,9,2,182],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[7,0,3005,0],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4348],
 "d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4348,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4348,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4348,2]
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4348,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d2/d57/winter__veil_8cpp.html":[8,0,0,0,1,3,3,9],
 "d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5":[8,0,0,0,1,3,3,9,8],
 "d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6":[8,0,0,0,1,3,3,9,8,2],
 "d2/d57/winter__veil_8cpp.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6":[8,0,0,0,1,3,3,9,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe9064c567a5a2e65b37324d22a21592":[8,0,0,0,1,3,4,1,1,5,11,2],
 "d2/d5b/structboss__razorscale.html":[7,0,685],
 "d2/d5b/structboss__razorscale.html#a11481dd5ffe2abc73d40b0aa291c6475":[7,0,685,21],
-"d2/d5b/structboss__razorscale.html#a16cab59be86221b991f382529884b17e":[7,0,685,9],
-"d2/d5b/structboss__razorscale.html#a2c65bb16401d956cbdf56923ad345015":[7,0,685,20]
+"d2/d5b/structboss__razorscale.html#a16cab59be86221b991f382529884b17e":[7,0,685,9]
 };

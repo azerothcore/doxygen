@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[7,0,2729,5],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[7,0,2729,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a52ea6041c5fe004c1e996a974cc59d5d":[7,0,2729,1],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a96cec6f1b51a2c0c03f89447c5306b5a":[7,0,2729,2],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#abe559b32aa82f19abb0a6d664b75c748":[7,0,2729,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d68/classspell__gen__bg__preparation.html#accf6cc89fed8dbf7c3cee201f1e9e806":[7,0,3029,0],
 "d6/d68/classspell__gen__bg__preparation.html#ad96a6059cb2f4bdf8e2b341d0a6e294f":[7,0,3029,4],
 "d6/d68/classspell__gen__bg__preparation.html#aff726eef4dbd10dd71f1614ab6755ea1":[7,0,3029,3],
-"d6/d68/structnpc__flameshocker.html":[7,0,1828],
-"d6/d68/structnpc__flameshocker.html#a13cb88e2b33df2d910fb73053684b420":[7,0,1828,2],
-"d6/d68/structnpc__flameshocker.html#aba94a5bcec75c649049d5816a53ace58":[7,0,1828,1]
+"d6/d68/structnpc__flameshocker.html":[7,0,1828]
 };

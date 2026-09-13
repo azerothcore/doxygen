@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92":[8,0,0,0,1,2,16,4,3,6],
 "d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92a21357760d23fb287e4af64cc1c5cf402":[8,0,0,0,1,2,16,4,3,6,7],
 "d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92a4f3eefa1ab48f4cac7e4a4932cb4969c":[8,0,0,0,1,2,16,4,3,6,3],
 "d1/dd4/Item_8h.html#a3019725fcb2ef7ad3892236a50138a92a5841ea3209bfbeca32b7e66943dcd36d":[8,0,0,0,1,2,16,4,3,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dda/boss__palehoof_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb4a3437f17d4001a54550be921e7fb6":[8,0,0,0,1,3,5,10,1,0,11,2],
 "d1/dda/boss__palehoof_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad2ed4c4bd0ef262007f3cbc1d55ba197":[8,0,0,0,1,3,5,10,1,0,11,3],
 "d1/dda/boss__palehoof_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae976290317d5bfbd0db04c40c565bb01":[8,0,0,0,1,3,5,10,1,0,11,5],
-"d1/dda/boss__palehoof_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb5ee071334c0d9543a540f2d894b545":[8,0,0,0,1,3,5,10,1,0,11,14],
-"d1/dda/classspell__festergut__blighted__spores__aura.html":[7,0,2978]
+"d1/dda/boss__palehoof_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb5ee071334c0d9543a540f2d894b545":[8,0,0,0,1,3,5,10,1,0,11,14]
 };

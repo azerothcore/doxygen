@@ -1,5 +1,10 @@
 var NAVTREEINDEX231 =
 {
+"d8/d74/classWorldSession.html#ac600e2c74800ca2d02e829e7d81c3758":[4,1,19,358],
+"d8/d74/classWorldSession.html#ac7cbfc10b2134790b1a5028b39ccd467":[4,1,19,506],
+"d8/d74/classWorldSession.html#ac842c43e781b3dc5d3cbdfc4ccf35e5d":[4,1,19,86],
+"d8/d74/classWorldSession.html#aca1fa4e583d3ee9709e97348be0b6fc2":[4,1,19,53],
+"d8/d74/classWorldSession.html#aca65f12c6d03bdd9cc8d62ffdc58b062":[4,1,19,395],
 "d8/d74/classWorldSession.html#acaf67e0a0e2ddc35192d551a813edd52":[4,1,19,10],
 "d8/d74/classWorldSession.html#acb15f4d0018c56cf8acbb0cb306998e1":[4,1,19,608],
 "d8/d74/classWorldSession.html#acb1cd7d51d9d03865d2830ac692ca8ff":[4,1,19,60],
@@ -244,10 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d7b/structnpc__twilight__summon.html#a998e2efd9e25915d32b953d684352511":[7,0,2259,4],
 "d8/d7b/structnpc__twilight__summon.html#aa909fac05e93a78d3f70222fb82a6841":[7,0,2259,2],
 "d8/d7b/structnpc__twilight__summon.html#afe47f7af23aa7ef5b59473579c649859":[7,0,2259,3],
-"d8/d7c/classnpc__memory.html":[7,0,2006],
-"d8/d7c/classnpc__memory.html#acebf31813025d323f9486d6575a60483":[7,0,2006,1],
-"d8/d7c/classnpc__memory.html#ad8e532d029217a06d11ae39810498976":[7,0,2006,2],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html":[7,0,3564],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a3282eb4c27b4256705bba47f4934c9b8":[7,0,3564,0],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a5493864b068de82015bc157f3d0899b3":[7,0,3564,4]
+"d8/d7c/classnpc__memory.html":[7,0,2006]
 };

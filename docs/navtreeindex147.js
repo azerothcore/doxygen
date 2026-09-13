@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf":[8,0,0,0,1,3,2,17,2,9],
+"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc":[8,0,0,0,1,3,2,17,2,2],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769":[8,0,0,0,1,3,2,17,2,3],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84":[8,0,0,0,1,3,2,17,2,6],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,17,2,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d22/classspell__lady__vashj__summons.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d":[7,0,3580,0,3],
 "d5/d22/classspell__lady__vashj__summons.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89":[7,0,3580,0,1],
 "d5/d22/classspell__lady__vashj__summons.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098":[7,0,3580,0,2],
-"d5/d22/classspell__lady__vashj__summons.html#a7fe65229c64c27909868f02439c1ef66":[7,0,3580,3],
-"d5/d22/classspell__lady__vashj__summons.html#aa670812f42c3082f42e0f232ee6bee16":[7,0,3580,2],
-"d5/d22/classspell__lady__vashj__summons.html#ab8bcdcfcad2a9998d95567006817711e":[7,0,3580,5]
+"d5/d22/classspell__lady__vashj__summons.html#a7fe65229c64c27909868f02439c1ef66":[7,0,3580,3]
 };

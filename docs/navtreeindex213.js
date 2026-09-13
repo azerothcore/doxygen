@@ -1,5 +1,10 @@
 var NAVTREEINDEX213 =
 {
+"d7/da7/classWorldScript.html#a7eab4282e8be8ef2a643478f9fe6e0e2":[7,0,4720,8],
+"d7/da7/classWorldScript.html#a83c76efd3de10b0a35c4a311c44d13c1":[7,0,4720,11],
+"d7/da7/classWorldScript.html#a8ec0a2cc97986db07698392e5c503571":[7,0,4720,5],
+"d7/da7/classWorldScript.html#ad28857965a9f6f993a47c95af6d9c5ad":[7,0,4720,13],
+"d7/da7/classWorldScript.html#af9c5296102d7ef0f716796788650ec4d":[7,0,4720,6],
 "d7/da7/classWorldScript.html#affadabcae325631b2683ef458c6d13ee":[7,0,4720,1],
 "d7/da7/classspell__dispel__freed__soldier__debuff.html":[7,0,2807],
 "d7/da7/classspell__dispel__freed__soldier__debuff.html#a0c6b2f8713f59b3048224f0cb7786913":[7,0,2807,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX213 =
 "d7/db0/classMap.html#a8cca171897a6372c1465759434e649c5":[7,0,1519,4],
 "d7/db0/classMap.html#a8d4da99e3b12b4c6badc6dfb701b477d":[7,0,1519,88],
 "d7/db0/classMap.html#a8de10cbc5e54efeefdf7b0744ad286e2":[7,0,1519,83],
-"d7/db0/classMap.html#a8e2d5bf6434d7c5964752f1a58327ba5":[7,0,1519,149],
-"d7/db0/classMap.html#a8f5d95bf620fdcd0b9ca80c2ba45e731":[7,0,1519,220],
-"d7/db0/classMap.html#a8fa628c3677cf75dd81d8eb4b58ea431":[7,0,1519,145],
-"d7/db0/classMap.html#a8fc6fda79e88f5335cb330332ef3e04d":[7,0,1519,92],
-"d7/db0/classMap.html#a90d917e995b780193a0820798fe4e2fa":[7,0,1519,246],
-"d7/db0/classMap.html#a91cf9a3e5c88348f3fb5e7fb013a8c68":[7,0,1519,248]
+"d7/db0/classMap.html#a8e2d5bf6434d7c5964752f1a58327ba5":[7,0,1519,149]
 };

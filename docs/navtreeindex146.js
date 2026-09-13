@@ -1,21 +1,23 @@
 var NAVTREEINDEX146 =
 {
+"d5/d08/structboss__bigbadwolf.html#ab788a0155a3ffe6535d58263eea16dee":[7,0,413,6],
+"d5/d08/structboss__bigbadwolf.html#aed0e9edc52f13b7b0cfa5047849c26a9":[7,0,413,8],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html":[7,0,0,19],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html":[5,0,0,31],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a1317c9df0d5792ad3122ff1ed1a31458":[7,0,0,19,2],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a1317c9df0d5792ad3122ff1ed1a31458":[5,0,0,31,2],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a1317c9df0d5792ad3122ff1ed1a31458":[7,0,0,19,2],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a93d850e2d5f094b97ca5c09bf1d236a9":[5,0,0,31,0],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#a93d850e2d5f094b97ca5c09bf1d236a9":[7,0,0,19,0],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa00b184a24ea73293114f92126f58f24":[5,0,0,31,3],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa00b184a24ea73293114f92126f58f24":[7,0,0,19,3],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[7,0,0,19,4],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[5,0,0,31,4],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#aa4acf0089c978408e30b08d539f2512f":[7,0,0,19,4],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[7,0,0,19,5],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#ad386efa8206906fd99816694a6a8d69b":[5,0,0,31,5],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[7,0,0,19,6],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af5ce329f3493b97f59c61c3e87af48b1":[5,0,0,31,6],
-"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[7,0,0,19,1],
 "d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[5,0,0,31,1],
+"d5/d09/classAcore_1_1AnyAoETargetUnitInObjectRangeCheck.html#af9a0c32593544a73aae22cd397eef63a":[7,0,0,19,1],
 "d5/d09/classPetAura.html":[7,0,2425],
 "d5/d09/classPetAura.html#a216021a7ad893ae6ca65ea068dd6eedb":[7,0,2425,8],
 "d5/d09/classPetAura.html#a38087712cef92ad55dc84f96e2b9e300":[7,0,2425,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d15/zone__arathi__highlands_8cpp.html":[8,0,0,0,1,3,2,17],
 "d5/d15/zone__arathi__highlands_8cpp.html#a1e4a782474f0928dbacdf32c0ba395fd":[8,0,0,0,1,3,2,17,3],
 "d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1":[8,0,0,0,1,3,2,17,2],
-"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e":[8,0,0,0,1,3,2,17,2,8],
-"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf":[8,0,0,0,1,3,2,17,2,9],
-"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc":[8,0,0,0,1,3,2,17,2,2]
+"d5/d15/zone__arathi__highlands_8cpp.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e":[8,0,0,0,1,3,2,17,2,8]
 };

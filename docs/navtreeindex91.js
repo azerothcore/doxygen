@@ -1,5 +1,7 @@
 var NAVTREEINDEX91 =
 {
+"d2/df6/DBCStores_8h.html#a2f846cf57275e67141135e1405200ac4":[8,0,0,0,1,2,14,1,121],
+"d2/df6/DBCStores_8h.html#a30af7e6070cc27a332c6c13c04f9d940":[8,0,0,0,1,2,14,1,129],
 "d2/df6/DBCStores_8h.html#a3102be8c4050f49639a6748f21fa55a1":[8,0,0,0,1,2,14,1,27],
 "d2/df6/DBCStores_8h.html#a31100350e05ae841ea6d58f61c2865f9":[8,0,0,0,1,2,14,1,58],
 "d2/df6/DBCStores_8h.html#a35540115c04e81ac523b3c256093afe7":[8,0,0,0,1,2,14,1,114],
@@ -247,7 +249,5 @@ var NAVTREEINDEX91 =
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a27173bdb8e63f52563cbf15f10bfeb8a":[7,0,2052,7],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a2fbda53115c9b69d2d01a77b3b60710d":[7,0,2052,15],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3781dde3a7fb066620ada4bda214d9d7":[7,0,2052,5],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3f4a61d141c51a29eaefc8118b5311e0":[7,0,2052,13],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7425750b8bd904de4bdf90a70f17ba52":[7,0,2052,1],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7a28c8050615a13148092b1d6f0f8bea":[7,0,2052,6]
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3f4a61d141c51a29eaefc8118b5311e0":[7,0,2052,13]
 };

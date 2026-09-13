@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[8,0,0,0,1,3,5,14,60],
 "d2/d38/northrend__script__loader_8cpp.html#a7f5b85629316855f1d0b3e872e130015":[8,0,0,0,1,3,5,14,124],
 "d2/d38/northrend__script__loader_8cpp.html#a81d8c56de5920b1e73d7955e1c7399ed":[8,0,0,0,1,3,5,14,134],
 "d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[8,0,0,0,1,3,5,14,76],
@@ -83,8 +84,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2247,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2247,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,987,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,987,2,1],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ac273b1babf440931b3b2d6f6ded3189a":[7,0,1386,0,42],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#acecad7aafc47ed88bb60c383cff489da":[7,0,1386,0,0],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad22a732215e4b3c37897050cbd45f4a2":[7,0,1386,0,14],
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad4ec6097aafc049bf053e078c88f8eb7":[7,0,1386,0,8],
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad5b58403cc2952aa3c477393ddd077f1":[7,0,1386,0,2]
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad4ec6097aafc049bf053e078c88f8eb7":[7,0,1386,0,8]
 };

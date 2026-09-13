@@ -1,7 +1,14 @@
 var NAVTREEINDEX240 =
 {
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
+"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
+"d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
+"d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
+"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
+"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
@@ -10,8 +17,8 @@ var NAVTREEINDEX240 =
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
-"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
+"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2338],
 "d8/de1/structnpc__zealot__zath.html#a146679c4eb3eec444ff1dcd9a780110a":[7,0,2338,5],
 "d8/de1/structnpc__zealot__zath.html#a25e059f40de51d880f4ec209ff4dd924":[7,0,2338,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX240 =
 "d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913":[8,0,0,0,1,3,2,1,0,3,2],
 "d8/df3/boss__anubshiah_8cpp.html#ae93ad6c1747bf265a5125392f6a37696":[8,0,0,0,1,3,2,1,0,3,3],
 "d8/df3/classspell__marrowgar__coldflame.html":[7,0,3672],
-"d8/df3/classspell__marrowgar__coldflame.html#a19dec2c1cbe72d90fa86960d7bb21277":[7,0,3672,1],
-"d8/df3/classspell__marrowgar__coldflame.html#aa2c6c9de775ecce9f84485e0ac64a651":[7,0,3672,2],
-"d8/df3/classspell__marrowgar__coldflame.html#abeb703f8f050677bafb8f5ce4173751a":[7,0,3672,0],
-"d8/df3/classspell__marrowgar__coldflame.html#ae8eb94536a9f08138b42cfe8ea711eaa":[7,0,3672,3],
-"d8/df3/structSkillStatusData.html":[7,0,2611],
-"d8/df3/structSkillStatusData.html#a232801ad25897a82739916d5be4fdc22":[7,0,2611,2],
-"d8/df3/structSkillStatusData.html#a51ccb328b807f2c7fd275d843218f466":[7,0,2611,1],
-"d8/df3/structSkillStatusData.html#a7594ceb20110da34f3aa68ac69996b94":[7,0,2611,0]
+"d8/df3/classspell__marrowgar__coldflame.html#a19dec2c1cbe72d90fa86960d7bb21277":[7,0,3672,1]
 };

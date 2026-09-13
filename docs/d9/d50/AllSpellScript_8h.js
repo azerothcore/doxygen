@@ -17,6 +17,7 @@ var AllSpellScript_8h =
       [ "ALLSPELLHOOK_ON_CAST_CANCEL", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca8609d846ffb50c947ba7ce276574eb1b", null ],
       [ "ALLSPELLHOOK_ON_CAST", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbcad5907139bae1d7c4e54bbefc0ba2736e", null ],
       [ "ALLSPELLHOOK_ON_PREPARE", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca30ba5433856bdc6314c33882855a0058", null ],
+      [ "ALLSPELLHOOK_ON_IS_AURA_EXCLUSIVE_BY_SPECIFIC_WITH", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca116a156ccd5421f6083e7c6bf4be1abb", null ],
       [ "ALLSPELLHOOK_END", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f", null ]
     ] ]
 ];

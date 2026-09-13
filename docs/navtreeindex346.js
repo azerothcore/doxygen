@@ -1,5 +1,14 @@
 var NAVTREEINDEX346 =
 {
+"dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#aa932f572f1a8831ecf4bc5475b7598fb":[8,0,0,0,2,2,0,10,7,1],
+"dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ad8c6026ca0167ae177e227997c8e2388":[8,0,0,0,2,2,0,10,7,5],
+"dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ae30b40dccd8a24d78d006e8e9ac63f19":[8,0,0,0,2,2,0,10,7,3],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[7,0,0,5,0,31],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,0,8,0,31,0],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,0,8,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,0,8,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html":[7,0,3234],
@@ -240,14 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d3c/classspell__rog__vanish.html#a08f7e508b50fc44ced0b7ff04e22b333":[7,0,4053,3],
 "dd/d3c/classspell__rog__vanish.html#a1f5983124756eca5666ca6adbe5a4544":[7,0,4053,2],
 "dd/d3c/classspell__rog__vanish.html#a6117d7b2720f719d801b5f6e0e719f5f":[7,0,4053,1],
-"dd/d3c/classspell__rog__vanish.html#ab33c9312c9ac4096140a82f381d83235":[7,0,4053,0],
-"dd/d3d/classnpc__living__mojo.html":[7,0,1977],
-"dd/d3d/classnpc__living__mojo.html#a2b8ca6e1b26debfafd74e022825c889e":[7,0,1977,2],
-"dd/d3d/classnpc__living__mojo.html#af24190023549b4ec5fa47b5959618a8a":[7,0,1977,1],
-"dd/d3d/instance__razorfen__kraul_8cpp.html":[8,0,0,0,1,3,4,7,0],
-"dd/d3d/instance__razorfen__kraul_8cpp.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0":[8,0,0,0,1,3,4,7,0,2],
-"dd/d3e/classspell__wintergrasp__water.html":[7,0,4411],
-"dd/d3e/classspell__wintergrasp__water.html#a01225e48eaf2a6dfe13da245725b0a64":[7,0,4411,2],
-"dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[7,0,4411,1],
-"dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[7,0,4411,0]
+"dd/d3c/classspell__rog__vanish.html#ab33c9312c9ac4096140a82f381d83235":[7,0,4053,0]
 };

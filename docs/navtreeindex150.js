@@ -1,5 +1,7 @@
 var NAVTREEINDEX150 =
 {
+"d5/d45/structNPCVendorEntry.html":[7,0,2347],
+"d5/d45/structNPCVendorEntry.html#a04534ff42e5889995b5203a3257bc864":[7,0,2347,4],
 "d5/d45/structNPCVendorEntry.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5":[7,0,2347,2],
 "d5/d45/structNPCVendorEntry.html#aa500da847d94a9b70cb3a26b782059b3":[7,0,2347,3],
 "d5/d45/structNPCVendorEntry.html#ac826dc078ef456ed93bf23175bce243d":[7,0,2347,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX150 =
 "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a455c0751e1f24e332e0b80b443d2471b":[8,0,0,0,1,3,5,7,7,7,5],
 "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,7,7,7,14],
 "d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a517e00d4940a605d1b2fa3cd8c7d4450":[8,0,0,0,1,3,5,7,7,7,12],
-"d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a58167d4ecf194f99a754104f8e2c8bf9":[8,0,0,0,1,3,5,7,7,7,2],
-"d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a6215687894ecbb3c8140f6ab2f0b0ac6":[8,0,0,0,1,3,5,7,7,7,8],
-"d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a64f1b89d5fd98f2cd77c2f123ec084ad":[8,0,0,0,1,3,5,7,7,7,13]
+"d5/d50/boss__kelthuzad_8cpp.html#a5667b805d857c6d28f83f6038a0272d3a58167d4ecf194f99a754104f8e2c8bf9":[8,0,0,0,1,3,5,7,7,7,2]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX339 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bc":[8,0,0,0,1,3,2,11,6,9],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd":[8,0,0,0,1,3,2,11,6,9,4],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7":[8,0,0,0,1,3,2,11,6,9,5],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,11,6,9,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3":[8,0,0,0,1,3,2,11,6,9,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664":[8,0,0,0,1,3,2,11,6,9,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff":[8,0,0,0,1,3,2,11,6,9,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,2,11,6,15],
+"dc/de2/classspell__dru__bear__form__passive.html":[7,0,2894],
 "dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[7,0,2894,3],
 "dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[7,0,2894,0],
 "dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[7,0,2894,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX339 =
 "dc/df2/classspellinfo__commandscript.html#a722cffaeb5c589b4531f8359abb8d8cc":[7,0,4474,11],
 "dc/df2/classspellinfo__commandscript.html#a8cfeddef3a5baba97b39e3cd22413222":[7,0,4474,17],
 "dc/df2/classspellinfo__commandscript.html#a92168f9a69c5e5437002234b951b7c00":[7,0,4474,19],
-"dc/df2/classspellinfo__commandscript.html#ac14dc8bce275faf9414e730668de5228":[7,0,4474,8],
-"dc/df2/classspellinfo__commandscript.html#ac3061b665a5181048989626e59781087":[7,0,4474,3],
-"dc/df2/classspellinfo__commandscript.html#ac58355105d147793fab51cfaf3cbf3bb":[7,0,4474,2],
-"dc/df2/classspellinfo__commandscript.html#ad27a2a6252ab11030b6d75d7c25ac5dd":[7,0,4474,0],
-"dc/df2/classspellinfo__commandscript.html#af3097eebfcb538fc7a391472bc4c9d7d":[7,0,4474,16],
-"dc/df3/WorldMapScript_8cpp.html":[8,0,0,0,1,2,38,0,92],
-"dc/df3/WorldMapScript_8cpp.html#a729e333e6d0c4e5e353dd22c9612f446":[8,0,0,0,1,2,38,0,92,0],
-"dc/df4/classspell__q13010__jokkum__summon.html":[7,0,3973],
-"dc/df4/classspell__q13010__jokkum__summon.html#a98c5df8b6c561a5aa7d766b639f3c2c8":[7,0,3973,0],
-"dc/df4/classspell__q13010__jokkum__summon.html#a9c9a0fd43758a6441a086860e8276cc0":[7,0,3973,2]
+"dc/df2/classspellinfo__commandscript.html#ac14dc8bce275faf9414e730668de5228":[7,0,4474,8]
 };

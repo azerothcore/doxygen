@@ -1,5 +1,14 @@
 var NAVTREEINDEX290 =
 {
+"db/d16/spell__paladin_8cpp.html#a2cd94a913b63488e2ac0619107111e5c":[8,0,0,0,1,3,9,6,58],
+"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8b":[8,0,0,0,1,3,9,6,53],
+"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8ba63f7bdf1bb315cf30a107d98014572cd":[8,0,0,0,1,3,9,6,53,1],
+"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8baec02aee5d1ddbf18c1056beea3fdcc73":[8,0,0,0,1,3,9,6,53,0],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2":[8,0,0,0,1,3,9,6,54],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a01760921e1ce9717bb061e5840bf14d6":[8,0,0,0,1,3,9,6,54,24],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a1f2acc4593cd362743d28f0062c8556f":[8,0,0,0,1,3,9,6,54,25],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a25417ede9d3b9e24c3545b86c4f10a1d":[8,0,0,0,1,3,9,6,54,12],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a29938e5075a82e72dd33c868a4699d33":[8,0,0,0,1,3,9,6,54,15],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a2a728fbd36cfa237a046175daa08457f":[8,0,0,0,1,3,9,6,54,21],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a2b2efcffac2df52f63a9d044133d8850":[8,0,0,0,1,3,9,6,54,11],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a2c7f7fcc39e3a4bc3f726469dd6510b8":[8,0,0,0,1,3,9,6,54,2],
@@ -237,17 +246,8 @@ var NAVTREEINDEX290 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,7,1],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1933,0],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1933,0,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1933,0,9],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1afe3245dc18db3c0bf6801b5ca20d31":[7,0,1933,0,0],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a28aef0767b6adb0ccf0479dd50dc11a8":[7,0,1933,0,6],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a2e02aa8d441426aa51f46121eec0becb":[7,0,1933,0,8],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a321d689d645b4630e2e93e6251d5130c":[7,0,1933,0,4],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a34ad7cabe4cb86e23deb30ca0ce77db0":[7,0,1933,0,11],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a87160b37ba61af4866fe3f410813fe9f":[7,0,1933,0,2]
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX128 =
 {
+"d4/d4d/classgo__commandscript.html#aa02ff2eb7b64dd5f35cf7c7227482234":[7,0,1164,8],
+"d4/d4d/classgo__commandscript.html#ab74a387cae5095d9ea26bf70158d6a14":[7,0,1164,17],
 "d4/d4d/classgo__commandscript.html#ab7fbdfbfdd9b1f94966044f4873e18a7":[7,0,1164,10],
 "d4/d4d/classgo__commandscript.html#adbcec5db26748dbb65d0c84d08f2a9b8":[7,0,1164,5],
 "d4/d4d/classgo__commandscript.html#ae01287fc270a629b5b81117e71ac4ee8":[7,0,1164,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7ed9fdb9b70668eb01c9b8080e2a96b5":[8,0,0,0,1,3,2,14,2,8,21],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f81baf6969513eaac167c67c10ded6c":[8,0,0,0,1,3,2,14,2,8,1],
 "d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8681e957519ffa860cefaf0a99ea84b6":[8,0,0,0,1,3,2,14,2,8,31],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b283e2526f4cc3a247a244848c646de":[8,0,0,0,1,3,2,14,2,8,27],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8f5ee5e0b3084223315a5cfbae0c99ea":[8,0,0,0,1,3,2,14,2,8,25],
-"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca979d013c10fe66b30025960eae7ee32d":[8,0,0,0,1,3,2,14,2,8,33]
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b283e2526f4cc3a247a244848c646de":[8,0,0,0,1,3,2,14,2,8,27]
 };

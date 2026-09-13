@@ -1,5 +1,7 @@
 var NAVTREEINDEX169 =
 {
+"d5/dfb/classObjectMgr.html#a6db0c379795b5ea5e039517e924c30d8":[7,0,2357,6],
+"d5/dfb/classObjectMgr.html#a6ec5d1aad541672047fcfbfaf15560b3":[7,0,2357,93],
 "d5/dfb/classObjectMgr.html#a6fac8c63928296d5e7a6eb699db1a61a":[7,0,2357,206],
 "d5/dfb/classObjectMgr.html#a7022f3e16c4bf1d8211747bd6f15c1db":[7,0,2357,49],
 "d5/dfb/classObjectMgr.html#a705268248e287f74b77915b9fed87e21":[7,0,2357,188],
@@ -247,7 +249,5 @@ var NAVTREEINDEX169 =
 "d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[7,0,2741,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[7,0,2741,3],
 "d5/dfb/classspell__uk__second__wind.html":[7,0,4279],
-"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[7,0,4279,3],
-"d5/dfb/classspell__uk__second__wind.html#a55ce8f27fa326da9b68db7f4cd4bc334":[7,0,4279,2],
-"d5/dfb/classspell__uk__second__wind.html#a8641ddd1b6722a30b167d170adb47fd8":[7,0,4279,1]
+"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[7,0,4279,3]
 };

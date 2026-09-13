@@ -1,5 +1,16 @@
 var NAVTREEINDEX382 =
 {
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a":[8,0,0,0,1,2,41,9,67,5],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a117311409fa1e6f10bbd1c95d834ea29":[8,0,0,0,1,2,41,9,67,10],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a1f27638c60972862d26b4e06571644d6":[8,0,0,0,1,2,41,9,67,20],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a3ab6ef392a42ff92930e029af8070983":[8,0,0,0,1,2,41,9,67,7],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a4392934e10d89ec0b192e675ac6c081b":[8,0,0,0,1,2,41,9,67,21],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a65e067ba38cebd257f27cee9ea8af6d4":[8,0,0,0,1,2,41,9,67,23],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a6dac91ba03d68eaf8fadc25648d3546a":[8,0,0,0,1,2,41,9,67,15],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a94a1aa9ac3cd331d95f2d0c421f35f59":[8,0,0,0,1,2,41,9,67,24],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a970bdf3e5f6192a44f1047c0a9c01310":[8,0,0,0,1,2,41,9,67,2],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46aa0c2a4e7377d6217e94cc8fc7c77b5b2":[8,0,0,0,1,2,41,9,67,1],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab68139e4e6c4de1ec554ce13cc339d6d":[8,0,0,0,1,2,41,9,67,9],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab6bcbd6b1f2b6e6f5ad36b83930db9d8":[8,0,0,0,1,2,41,9,67,3],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab92a05b298c10d1c2b9c3a2af4fe819b":[8,0,0,0,1,2,41,9,67,25],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46abaa632530ec78fe5964cb1591b91e3b9":[8,0,0,0,1,2,41,9,67,19],
@@ -238,16 +249,5 @@ var NAVTREEINDEX382 =
 "de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416":[7,0,840,13],
 "de/d34/structBroadcastText.html#abab322532f769f25ad0241422e066c3c":[7,0,840,0],
 "de/d34/structBroadcastText.html#acbce2101751bdaed47315c23f5058a7b":[7,0,840,7],
-"de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,840,5],
-"de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[7,0,840,4],
-"de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,840,10],
-"de/d34/structSpellDurationEntry.html":[7,0,4464],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4464,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4464,0],
-"de/d36/classnpc__mrfloppy.html":[7,0,2020],
-"de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[7,0,2020,1],
-"de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[7,0,2020,2],
-"de/d37/classadt__MFBO.html":[7,0,143],
-"de/d37/classadt__MFBO.html#a29dc30be1cb7f5439e023865ff5a4853":[7,0,143,1],
-"de/d37/classadt__MFBO.html#a8c64958fb4e18bc3bcfaf7dbfde9f178":[7,0,143,2]
+"de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,840,5]
 };

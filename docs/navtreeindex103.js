@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"d3/d6c/classAuraEffectStub.html#ad656908e7808dd11adcde87535a81e89":[7,0,296,6],
+"d3/d6c/classAuraEffectStub.html#ae386fc8d6aa7ee54dc462956d3fe3b2a":[7,0,296,3],
 "d3/d6c/classAuraEffectStub.html#ae7f6f6a1d7e0690843fa4ddb079540e7":[7,0,296,21],
 "d3/d6c/classAuraEffectStub.html#aedb1f7c6f08de5e06ec2b9eed5797854":[7,0,296,20],
 "d3/d6c/classAuraEffectStub.html#aee06a27d9047462bd3e2cb3ac5ae4b57":[7,0,296,14],
@@ -8,12 +10,12 @@ var NAVTREEINDEX103 =
 "d3/d6c/classboss__gothik.html#aea7aec86c4132521fb7b9b6e87baf289":[7,0,522,2],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html":[5,0,0,7,2],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html":[7,0,0,4,2],
-"d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[5,0,0,7,2,1],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[7,0,0,4,2,1],
+"d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[5,0,0,7,2,1],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a057a5b8b65db8b8084b79a217a95308d":[5,0,0,7,2,0],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a057a5b8b65db8b8084b79a217a95308d":[7,0,0,4,2,0],
-"d3/d6d/classAcore_1_1RespawnDo.html":[5,0,0,117],
 "d3/d6d/classAcore_1_1RespawnDo.html":[7,0,0,105],
+"d3/d6d/classAcore_1_1RespawnDo.html":[5,0,0,117],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,0,117,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[7,0,0,105,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[7,0,0,105,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b5be84f696318f18e5804a29772777a":[8,0,0,0,1,3,5,4,1,0,1,2],
 "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7467a172c1d1643bb355dd55ef5d96a":[8,0,0,0,1,3,5,4,1,0,1,0],
 "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[8,0,0,0,1,3,5,4,1,0,1,3],
-"d3/d79/instance__icecrown__citadel_8cpp.html":[8,0,0,0,1,3,5,6,15],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a170700d5462c2039742fc511288aadaa":[8,0,0,0,1,3,5,6,15,13],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a20e95e9d752a6952f8388301cd386103":[8,0,0,0,1,3,5,6,15,21]
+"d3/d79/instance__icecrown__citadel_8cpp.html":[8,0,0,0,1,3,5,6,15]
 };

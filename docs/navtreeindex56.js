@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d31/structboss__servant__quarters.html#a273a09b1242968a5dd45ab9866fbe481":[7,0,708,4],
 "d2/d31/structboss__servant__quarters.html#a3b9df7ab573f22a9e15761cb662db404":[7,0,708,1],
 "d2/d31/structboss__servant__quarters.html#a520142de5e8d2911684b18c85a3f37e2":[7,0,708,6],
 "d2/d31/structboss__servant__quarters.html#a6a41cfd67310077803733190645050e4":[7,0,708,5],
@@ -45,8 +46,8 @@ var NAVTREEINDEX56 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[7,0,3455,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[7,0,3455,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[7,0,3455,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d38/northrend__script__loader_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[8,0,0,0,1,3,5,14,137],
 "d2/d38/northrend__script__loader_8cpp.html#a7960228710cc1d4d14425e2f87b2afb2":[8,0,0,0,1,3,5,14,15],
 "d2/d38/northrend__script__loader_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[8,0,0,0,1,3,5,14,10],
-"d2/d38/northrend__script__loader_8cpp.html#a7ca432272eaa02df22ec89371e09a4e0":[8,0,0,0,1,3,5,14,29],
-"d2/d38/northrend__script__loader_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[8,0,0,0,1,3,5,14,60]
+"d2/d38/northrend__script__loader_8cpp.html#a7ca432272eaa02df22ec89371e09a4e0":[8,0,0,0,1,3,5,14,29]
 };

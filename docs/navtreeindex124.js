@@ -1,5 +1,7 @@
 var NAVTREEINDEX124 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a572a12c47ffdeaff606ec4d52930bddb":[8,0,0,0,1,3,5,4,1,3,13,17],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a57f06875f5195f6b7584bbb3606cd57c":[8,0,0,0,1,3,5,4,1,3,13,56],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a6014388e78ada18fe8a04c3a5065cd5a":[8,0,0,0,1,3,5,4,1,3,13,15],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a605b937f25b1e2759a61ab8aca53c777":[8,0,0,0,1,3,5,4,1,3,13,64],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a61a228e3bc9272cedcd5f056ed7494ac":[8,0,0,0,1,3,5,4,1,3,13,82],
@@ -243,11 +245,9 @@ var NAVTREEINDEX124 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2718],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2718,1],
-"d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2718,2],
-"d4/d27/classspell__blood__council__shadow__prison__aura.html#aa6ea31d8757b42bdea42d30b758a9c6d":[7,0,2718,3],
-"d4/d27/classspell__blood__council__shadow__prison__aura.html#ac0aba414bc0f9f947b7bba9bd41f47b8":[7,0,2718,0]
+"d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2718,2]
 };

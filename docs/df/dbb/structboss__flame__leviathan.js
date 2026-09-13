@@ -3,7 +3,6 @@ var structboss__flame__leviathan =
     [ "boss_flame_leviathan", "df/dbb/structboss__flame__leviathan.html#a48d7411965fc5bbc8fe9d7579d020633", null ],
     [ "ActivateTowers", "df/dbb/structboss__flame__leviathan.html#af7efd745e49df1305deb9e11797d310e", null ],
     [ "AttackStart", "df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288", null ],
-    [ "BindPlayers", "df/dbb/structboss__flame__leviathan.html#a7b05024f5098a612688b08f1f47f67e0", null ],
     [ "EnterEvadeMode", "df/dbb/structboss__flame__leviathan.html#aa1c2f7cf26d6d5c22333519430b4807a", null ],
     [ "GetData", "df/dbb/structboss__flame__leviathan.html#a918059906db32d003e9fe9b45544713c", null ],
     [ "InitializeAI", "df/dbb/structboss__flame__leviathan.html#a20fc22fdc34b25dbb16a2c8ee8b31c50", null ],

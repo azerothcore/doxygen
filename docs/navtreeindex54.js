@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d22/boss__chess__event_8cpp.html#a8b868f145323416ed49f818a8dc9557dae3ceccc5908c2e85bade374da1205ba0":[8,0,0,0,1,3,2,4,0,5,14],
 "d2/d22/boss__chess__event_8cpp.html#a93de1abbe5ca9b0310834761850021cc":[8,0,0,0,1,3,2,4,0,11],
 "d2/d22/boss__chess__event_8cpp.html#a93de1abbe5ca9b0310834761850021cca219975e90d2895651c2efa01e8927bc0":[8,0,0,0,1,3,2,4,0,11,5],
 "d2/d22/boss__chess__event_8cpp.html#a93de1abbe5ca9b0310834761850021cca225e78ab4733a039dab2296fa40dad5d":[8,0,0,0,1,3,2,4,0,11,1],
@@ -62,8 +63,8 @@ var NAVTREEINDEX54 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3837,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1361,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[7,0,1361,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[7,0,1361,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0ad6ed262c7d4bab0e5f35ee80d0024f30":[8,0,0,0,1,2,36,2,18,10],
 "d2/d27/QuestDef_8h.html#ac0edcb86ea5fca813b3c69e348fe74c0ae2367e7a54baeef7f8b830a16c187ecf":[8,0,0,0,1,2,36,2,18,3],
 "d2/d27/QuestDef_8h.html#aca7218f1a80ba33fb21a51073850202e":[8,0,0,0,1,2,36,2,11],
-"d2/d27/QuestDef_8h.html#acf2c83159c7b7d9270380dafa7ab8d11":[8,0,0,0,1,2,36,2,14],
-"d2/d27/QuestDef_8h.html#ad2f1fa1fe4676a225f4c3319310907aa":[8,0,0,0,1,2,36,2,12]
+"d2/d27/QuestDef_8h.html#acf2c83159c7b7d9270380dafa7ab8d11":[8,0,0,0,1,2,36,2,14]
 };

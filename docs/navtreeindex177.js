@@ -1,5 +1,7 @@
 var NAVTREEINDEX177 =
 {
+"d6/d38/classChatHandler.html#a3295cee708d267aac165f9ee55d2e615":[7,0,891,4],
+"d6/d38/classChatHandler.html#a32d9594c0f5df4a72b00ec72a4547623":[7,0,891,6],
 "d6/d38/classChatHandler.html#a407d61f3770c8adc65c605b74004d3c4":[7,0,891,65],
 "d6/d38/classChatHandler.html#a49e489ae9f5a06082835cfa9bcb67b43":[7,0,891,49],
 "d6/d38/classChatHandler.html#a50cde803fdedb545931d81453d3131b7":[7,0,891,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a5947a4415b63f8bbda4d53c44ccebf74":[7,0,1952,0,6],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a737a9016c93d621bf8cfa29d6b66b345":[7,0,1952,0,7],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#adc08551a256220bab144ef26d89c4263":[7,0,1952,0,1],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afa2a1bcdeef51e9f984307f576a1ff6e":[7,0,1952,0,5],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afbb4e4c74c2634a442171f06bb2eff08":[7,0,1952,0,8],
-"d6/d3d/classspell__hun__kill__command.html":[7,0,3264]
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afa2a1bcdeef51e9f984307f576a1ff6e":[7,0,1952,0,5]
 };

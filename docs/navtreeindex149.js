@@ -1,5 +1,7 @@
 var NAVTREEINDEX149 =
 {
+"d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b9987e72e0938bc86d2d328e33d2129":[8,0,0,0,1,3,5,6,0,31,33],
+"d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca43be28a344b7343168c98c8ea657aecc":[8,0,0,0,1,3,5,6,0,31,17],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca43d7cd1b228502552713361c29bd372e":[8,0,0,0,1,3,5,6,0,31,29],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca564daa6608515bfc0e424a94fd2b8b89":[8,0,0,0,1,3,5,6,0,31,11],
 "d5/d33/boss__blood__prince__council_8cpp.html#a5bd342133be8c2137b831460acc9298ca7415aa1a5a6135ea98b41d685e82c65b":[8,0,0,0,1,3,5,6,0,31,8],
@@ -70,10 +72,10 @@ var NAVTREEINDEX149 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[7,0,1139,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[7,0,1139,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[7,0,1139,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[7,0,0,92],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,104,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,0,104],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[7,0,0,92,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,0,104,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[7,0,0,92,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,0,104,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,0,104,1],
@@ -220,8 +222,8 @@ var NAVTREEINDEX149 =
 "d5/d43/classspell__alystros__lapsing__dream__aura.html#ac198489764c878822e38a1ea225ab287":[7,0,2655,1],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[7,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,0,8,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,0,8,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[7,0,0,5,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,0,8,0,28,0],
 "d5/d44/classspell__item__heartpierce__hero.html":[7,0,3429],
 "d5/d44/classspell__item__heartpierce__hero.html#a331d005fdb7ec53b49c1edc46209d8ea":[7,0,3429,1],
 "d5/d44/classspell__item__heartpierce__hero.html#a8a1afed2a17841f52c355214ab49b3af":[7,0,3429,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d45/classspell__warl__seed__of__corruption__damage.html":[7,0,4351],
 "d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[7,0,4351,0],
 "d5/d45/classspell__warl__seed__of__corruption__damage.html#a51d7035477ba4e3994ef3161edc4cc69":[7,0,4351,1],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[7,0,4351,2],
-"d5/d45/structNPCVendorEntry.html":[7,0,2347],
-"d5/d45/structNPCVendorEntry.html#a04534ff42e5889995b5203a3257bc864":[7,0,2347,4]
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[7,0,4351,2]
 };

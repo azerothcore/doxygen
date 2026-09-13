@@ -1,5 +1,8 @@
 var NAVTREEINDEX192 =
 {
+"d6/dda/structnpc__hor__lich__king.html":[7,0,1898],
+"d6/dda/structnpc__hor__lich__king.html#a0b5247d0e23ede8b867343803cec9774":[7,0,1898,8],
+"d6/dda/structnpc__hor__lich__king.html#a2d062432ca688b498c99b1a404939482":[7,0,1898,0],
 "d6/dda/structnpc__hor__lich__king.html#a44b63fa387d05676c992cc100fb92806":[7,0,1898,5],
 "d6/dda/structnpc__hor__lich__king.html#a56b91c8d991778306bfea3702d94f1e7":[7,0,1898,7],
 "d6/dda/structnpc__hor__lich__king.html#a5bac2be147e9725b68f56f056a341442":[7,0,1898,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX192 =
 "d6/de9/boss__felmyst_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f":[8,0,0,0,1,3,2,11,2,11],
 "d6/de9/classspell__gen__crab__disguise.html":[7,0,3051],
 "d6/de9/classspell__gen__crab__disguise.html#a0ed19bc16fa8e2da2332766bbc1110e5":[7,0,3051,4],
-"d6/de9/classspell__gen__crab__disguise.html#a6bc23ff885f4fbc25d00fe35173bad3e":[7,0,3051,0],
-"d6/de9/classspell__gen__crab__disguise.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc":[7,0,3051,3],
-"d6/de9/classspell__gen__crab__disguise.html#ac7388aa4c0746ce963cbbb97dbfb4765":[7,0,3051,2],
-"d6/de9/classspell__gen__crab__disguise.html#aed62006fe08bfaad0a8bb51d5e739c67":[7,0,3051,1]
+"d6/de9/classspell__gen__crab__disguise.html#a6bc23ff885f4fbc25d00fe35173bad3e":[7,0,3051,0]
 };

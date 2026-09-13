@@ -20,6 +20,7 @@ var classChaseMovementGenerator =
     [ "SetOffsetAndAngle", "dd/dcb/classChaseMovementGenerator.html#a9b29cbccc856e2ca05f7a3d83bbe03b0", null ],
     [ "unitSpeedChanged", "dd/dcb/classChaseMovementGenerator.html#a81cb99fcec507afb4b0dc8d8a3081cdc", null ],
     [ "_angle", "dd/dcb/classChaseMovementGenerator.html#a40340fa8d9408a63c564b2a08e9b892a", null ],
+    [ "_fallbackPositioning", "dd/dcb/classChaseMovementGenerator.html#ab0567cf1d03116cd65b0cab461eccece", null ],
     [ "_lastTargetPosition", "dd/dcb/classChaseMovementGenerator.html#a80f2f31af93c87371208f2febd03f698", null ],
     [ "_movingTowards", "dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6", null ],
     [ "_mutualChase", "dd/dcb/classChaseMovementGenerator.html#a023e40670b8265260c4e3460bd1bf60c", null ],

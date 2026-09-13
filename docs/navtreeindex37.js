@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d7a/boss__grandmaster__vorpil_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bb3f7214745b5e9789671b55bd90ee":[8,0,0,0,1,3,7,0,3,2,3,4],
 "d1/d7a/boss__grandmaster__vorpil_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[8,0,0,0,1,3,7,0,3,2,3,3],
 "d1/d7a/boss__grandmaster__vorpil_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[8,0,0,0,1,3,7,0,3,2,3,5],
 "d1/d7a/boss__grandmaster__vorpil_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,3,2,2],
@@ -36,10 +37,10 @@ var NAVTREEINDEX37 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[7,0,1404,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[7,0,1404,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[7,0,1404,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,31,16],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[7,0,11,16],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[5,0,31,16,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,31,16],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[7,0,11,16,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[5,0,31,16,0],
 "d1/d80/classachievement__better__off__dred.html":[7,0,41],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[7,0,41,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[7,0,41,1],
@@ -61,12 +62,12 @@ var NAVTREEINDEX37 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab45e8c6dd9ea3552fed4b926136f80e6":[7,0,2033,0,6],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#ab5182ad65187c472b306e2177530d7b6":[7,0,2033,0,2],
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[7,0,2033,0,5],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[7,0,0,12],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,24,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[7,0,0,12,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[7,0,0,12,4],
@@ -239,8 +240,8 @@ var NAVTREEINDEX37 =
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[7,0,13,6,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[5,0,34,6,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[7,0,13,6,18,2],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[7,0,13,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,34,6,18,1],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[7,0,13,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[5,0,34,6,18,3],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[7,0,13,6,18,3],
 "d1/d88/structTurretAI.html":[7,0,4609],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d88/structTurretAI.html#a47c1c38ddcc1f473104fb698fe338684":[7,0,4609,2],
 "d1/d88/structTurretAI.html#a4cffbf9bcb29468dad6a6583c905b99a":[7,0,4609,5],
 "d1/d88/structTurretAI.html#aa2d308443a31d8a06bbc63517695dfef":[7,0,4609,4],
-"d1/d88/structTurretAI.html#aac81fb574d70369fb006fb7ba22a0784":[7,0,4609,3],
-"d1/d88/structTurretAI.html#ab6eb7cf777595a4b196373123da19bea":[7,0,4609,1]
+"d1/d88/structTurretAI.html#aac81fb574d70369fb006fb7ba22a0784":[7,0,4609,3]
 };

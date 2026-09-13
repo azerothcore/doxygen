@@ -1,5 +1,16 @@
 var NAVTREEINDEX384 =
 {
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290":[8,0,0,0,1,2,20,1,13,3],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109":[8,0,0,0,1,2,20,1,13,20],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39":[8,0,0,0,1,2,20,1,13,1],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8":[8,0,0,0,1,2,20,1,13,16],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806":[8,0,0,0,1,2,20,1,13,6],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec":[8,0,0,0,1,2,20,1,13,8],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c":[8,0,0,0,1,2,20,1,13,0],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db":[8,0,0,0,1,2,20,1,13,9],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd":[8,0,0,0,1,2,20,1,13,13],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e":[8,0,0,0,1,2,20,1,13,12],
+"de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af":[8,0,0,0,1,2,20,1,13,19],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e":[8,0,0,0,1,2,20,1,13,10],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721":[8,0,0,0,1,2,20,1,13,7],
 "de/d3d/Group_8h.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65":[8,0,0,0,1,2,20,1,13,21],
@@ -238,16 +249,5 @@ var NAVTREEINDEX384 =
 "de/d47/classOPvPCapturePointGH.html#aec741b9102829bf77850dc06a49bb8da":[7,0,2370,5],
 "de/d47/classOPvPCapturePointGH.html#afe53e37a3a1dc4a7068c03302f26b981":[7,0,2370,1],
 "de/d47/classOPvPCapturePointGH.html#afea733c44d129d9a5af78a8337d9e04a":[7,0,2370,3],
-"de/d47/classspell__warl__nether__protection.html":[7,0,4346],
-"de/d47/classspell__warl__nether__protection.html#a28c409af8e7a8115ce86f2a51fff1afd":[7,0,4346,1],
-"de/d47/classspell__warl__nether__protection.html#a334db12ee8ed29b34269a0ca3172d7b4":[7,0,4346,2],
-"de/d47/classspell__warl__nether__protection.html#a392724c604ce325415aaa3410e18a60c":[7,0,4346,3],
-"de/d47/classspell__warl__nether__protection.html#ae202a117ff86eee618dfdf4600746de5":[7,0,4346,0],
-"de/d47/classspell__warl__nether__protection.html#af0b153ca9e28a3cdc06a30ff30b46f39":[7,0,4346,4],
-"de/d48/classspell__halion__twilight__mending.html":[7,0,3210],
-"de/d48/classspell__halion__twilight__mending.html#a3016c31c072d6417bbe47c2891059718":[7,0,3210,2],
-"de/d48/classspell__halion__twilight__mending.html#ad13b3924815ac3da7902c8292a760943":[7,0,3210,0],
-"de/d48/classspell__halion__twilight__mending.html#aeea718bce7dd5aa4ac33bbd1a95a65c0":[7,0,3210,1],
-"de/d48/classspell__sha__glyph__of__earth__shield.html":[7,0,4102],
-"de/d48/classspell__sha__glyph__of__earth__shield.html#a54dd9a2a6646282897cabec00f092525":[7,0,4102,2]
+"de/d47/classspell__warl__nether__protection.html":[7,0,4346]
 };

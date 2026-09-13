@@ -1,5 +1,14 @@
 var NAVTREEINDEX333 =
 {
+"dc/d9a/classspell__hatch__eggs.html#a77ba184428cfbb8ec3cc4670f78741e0":[7,0,3223,1],
+"dc/d9a/classspell__hatch__eggs.html#aa7695bddd766d5adefb04710d41894f6":[7,0,3223,0],
+"dc/d9a/classspell__hatch__eggs.html#adbc2f1c4ec64b95ec72c82f36f12d928":[7,0,3223,2],
+"dc/d9a/classspell__pal__divine__storm__dummy.html":[7,0,3757],
+"dc/d9a/classspell__pal__divine__storm__dummy.html#a5dd09977efde2d3433aff4d35687d5e8":[7,0,3757,4],
+"dc/d9a/classspell__pal__divine__storm__dummy.html#a85a60a3ada7ea2b8c995bc156be36fe2":[7,0,3757,0],
+"dc/d9a/classspell__pal__divine__storm__dummy.html#a9180a01674a1f56c287d40bfbdf6d841":[7,0,3757,3],
+"dc/d9a/classspell__pal__divine__storm__dummy.html#aa9a0fb36eafd8535fcd2bddda56d7107":[7,0,3757,5],
+"dc/d9a/classspell__pal__divine__storm__dummy.html#adfb7e3fbb52aa349573b95c457823900":[7,0,3757,2],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#af51f59f6cb8e2a6d99b3c05cebfcfa89":[7,0,3757,1],
 "dc/d9a/instance__ragefire__chasm_8cpp.html":[8,0,0,0,1,3,4,5,0],
 "dc/d9a/instance__ragefire__chasm_8cpp.html#ace0e54ffe3a81b932d5ce1977698f5ac":[8,0,0,0,1,3,4,5,0,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX333 =
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca96c58bdf6b780df881945c821b55cb12":[8,0,0,0,1,3,4,9,8,11,13],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cab4f35d409651939890684af40c656ee7":[8,0,0,0,1,3,4,9,8,11,4],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cad6415069d70d20ddf21fd5830b51fd8b":[8,0,0,0,1,3,4,9,8,11,7],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cada13f30745205499d79dfd16e6315d33":[8,0,0,0,1,3,4,9,8,11,2],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298caf6cc8585af50f22cf19744d8eccb8882":[8,0,0,0,1,3,4,9,8,11,12],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[8,0,0,0,1,3,4,9,8,10],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5c62cc125907a273eb107e2a0ea9f1ee":[8,0,0,0,1,3,4,9,8,10,2],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219aa1e61c1060b8bd09030ca6eb82320fbf":[8,0,0,0,1,3,4,9,8,10,1],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[8,0,0,0,1,3,4,9,8,10,0],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[8,0,0,0,1,3,4,9,8,9],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[8,0,0,0,1,3,4,9,8,9,0],
-"dc/da8/boss__viscidus_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[8,0,0,0,1,3,4,9,8,14],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7":[8,0,0,0,1,3,4,9,8,7]
+"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cada13f30745205499d79dfd16e6315d33":[8,0,0,0,1,3,4,9,8,11,2]
 };

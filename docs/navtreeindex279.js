@@ -1,5 +1,14 @@
 var NAVTREEINDEX279 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[8,0,0,0,1,3,7,13,36,4],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[8,0,0,0,1,3,7,13,36,28],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686":[8,0,0,0,1,3,7,13,36,20],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[8,0,0,0,1,3,7,13,36,13],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[8,0,0,0,1,3,7,13,36,24],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129":[8,0,0,0,1,3,7,13,36,3],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6":[8,0,0,0,1,3,7,13,36,23],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582":[8,0,0,0,1,3,7,13,36,1],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89acc28d36f2859b93e18fa1a0c8e2e0f88":[8,0,0,0,1,3,7,13,36,11],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ad2fd0ec562d50f32148c9252379bb20f":[8,0,0,0,1,3,7,13,36,22],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89adf1cf0863ae1a073c5715469f763a51c":[8,0,0,0,1,3,7,13,36,25],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ae00c2ae7cc2379845930d79d7945a2f9":[8,0,0,0,1,3,7,13,36,18],
@@ -144,10 +153,10 @@ var NAVTREEINDEX279 =
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[7,0,13,8,10,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[7,0,13,8,10,2],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,34,8,10,2],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[7,0,13,8,10,2],
 "da/daf/classspell__contagion__of__rot.html":[7,0,2781],
 "da/daf/classspell__contagion__of__rot.html#a0f33043317402119aa14e50a1eb6c227":[7,0,2781,2],
 "da/daf/classspell__contagion__of__rot.html#a159ee8a9b0af729ed01f7632adb58863":[7,0,2781,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX279 =
 "da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[7,0,1499,1],
 "da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[7,0,1499,3],
 "da/db4/classat__commander__dawnforge.html":[7,0,222],
-"da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[7,0,222,0],
-"da/db4/classat__commander__dawnforge.html#a240a2a8a3de913c840c0a14fa4427e7e":[7,0,222,1],
-"da/db4/classspell__warl__nightfall.html":[7,0,4347],
-"da/db4/classspell__warl__nightfall.html#a760f228c118e9a89a3adc2767290f6f5":[7,0,4347,1],
-"da/db4/classspell__warl__nightfall.html#a79bcdad48c19c0db70960552f6b4e2d3":[7,0,4347,0],
-"da/db4/classspell__warl__nightfall.html#acdc499d8cae2de0edcfd2c19319e0175":[7,0,4347,3],
-"da/db4/classspell__warl__nightfall.html#ace2673bc17210f349e47586c0e626dc5":[7,0,4347,2],
-"da/db5/boss__ambassador__hellmaw_8cpp.html":[8,0,0,0,1,3,7,0,3,0],
-"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,0,3,0,1],
-"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ea25df5d0311ff5aa6cb5889f791d1c":[8,0,0,0,1,3,7,0,3,0,1,2]
+"da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[7,0,222,0]
 };

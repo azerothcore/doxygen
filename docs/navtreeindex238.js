@@ -1,5 +1,12 @@
 var NAVTREEINDEX238 =
 {
+"d8/dd6/DBCfmt_8h.html#a7128db636c2266d27f7de1ec49effd64":[8,0,0,0,1,4,0,3,5],
+"d8/dd6/DBCfmt_8h.html#a71a5e066a4afd5830aa2fd971b4dc0d9":[8,0,0,0,1,4,0,3,39],
+"d8/dd6/DBCfmt_8h.html#a77353e8984ed24ec8ec2dbefc2cde720":[8,0,0,0,1,4,0,3,32],
+"d8/dd6/DBCfmt_8h.html#a78848df924fb8387c980a546cddf4d6b":[8,0,0,0,1,4,0,3,16],
+"d8/dd6/DBCfmt_8h.html#a7b73d00012583f3f9b19f7ff47592ba3":[8,0,0,0,1,4,0,3,65],
+"d8/dd6/DBCfmt_8h.html#a7dc8655fce93259051dbbaa93016db57":[8,0,0,0,1,4,0,3,60],
+"d8/dd6/DBCfmt_8h.html#a804190f2937789857492be7c664d777c":[8,0,0,0,1,4,0,3,27],
 "d8/dd6/DBCfmt_8h.html#a80a9b3c3eda13a8ef3b8f5193f84b016":[8,0,0,0,1,4,0,3,58],
 "d8/dd6/DBCfmt_8h.html#a80bc2498b780d6b3bb628300305ae900":[8,0,0,0,1,4,0,3,103],
 "d8/dd6/DBCfmt_8h.html#a81ec700b34b76772ade19900d83ab8f7":[8,0,0,0,1,4,0,3,33],
@@ -211,14 +218,14 @@ var NAVTREEINDEX238 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[7,0,177],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[7,0,177,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[7,0,177,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,34,14,1,0],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[7,0,13,14,1,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX238 =
 "d8/ddd/classnpc__cos__chromie__middle.html#a37ebdd257ef22554c81cf3c062856141":[7,0,1745,2],
 "d8/ddd/classnpc__cos__chromie__middle.html#ad9e733b4dd69f58d880aebcfe06cbf96":[7,0,1745,3],
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[7,0,3673],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[7,0,3673,1],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[7,0,3673,2],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[7,0,3673,0],
-"d8/ddd/classspell__sha__mana__tide.html":[7,0,4118],
-"d8/ddd/classspell__sha__mana__tide.html#a0093da1cb71f87bb7302bf6ccc9a255c":[7,0,4118,0],
-"d8/ddd/classspell__sha__mana__tide.html#a0332788648661d5c2665c5d1431e4ca7":[7,0,4118,2],
-"d8/ddd/classspell__sha__mana__tide.html#aecb5c0c9f5258a3ce7ff18cf08f89845":[7,0,4118,3],
-"d8/ddd/classspell__sha__mana__tide.html#afd362a7dd0373e9480445a99023a5c8c":[7,0,4118,1]
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[7,0,3673,1]
 };

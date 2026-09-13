@@ -1,5 +1,14 @@
 var NAVTREEINDEX355 =
 {
+"dd/dac/classspell__black__knight__ghoul__explode.html":[7,0,2699],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[7,0,2699,0],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[7,0,2699,1],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a9322b834fadc89b4fbc19dbbc762f205":[7,0,2699,2],
+"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4301],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4301,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4301,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4301,2],
+"dd/dac/pit__of__saron_8h.html":[8,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[8,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,2,5,3],
 "dd/dac/pit__of__saron_8h.html#a13bf201e0331fb88a7d079c97321c506":[8,0,0,0,1,3,5,4,2,5,21],
@@ -240,14 +249,5 @@ var NAVTREEINDEX355 =
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[7,0,18,0,3],
 "dd/db1/classachievement__assembly__of__iron.html":[7,0,37],
 "dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[7,0,37,2],
-"dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[7,0,37,1],
-"dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[7,0,37,0],
-"dd/db1/classspell__gen__replenishment.html":[7,0,3134],
-"dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[7,0,3134,3],
-"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[7,0,3134,2],
-"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3134,0],
-"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3134,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3365],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3365,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3365,2]
+"dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[7,0,37,1]
 };

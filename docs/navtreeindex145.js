@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d4/df6/classnpc__deaths__fel__cannon.html#a4cf91cd1f28637f359e06bccd30e0338":[7,0,1782,2],
+"d4/df6/classnpc__deaths__fel__cannon.html#a87ecaca75061928600b5114d3913dd26":[7,0,1782,1],
 "d4/df6/classspell__item__sunwell__exalted__tank__neck.html":[7,0,3503],
 "d4/df6/classspell__item__sunwell__exalted__tank__neck.html#a736fe794862b3a8c08a05f3a773d9a7b":[7,0,3503,1],
 "d4/df6/classspell__item__sunwell__exalted__tank__neck.html#aac352153b98f5c718af224487a8525c4":[7,0,3503,0],
@@ -51,8 +53,8 @@ var NAVTREEINDEX145 =
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a770d30e207e41a8f985776787d53f2cf":[7,0,0,36,4],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[5,0,0,48,1],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[7,0,0,36,1],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[7,0,0,36,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[5,0,0,48,5],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[7,0,0,36,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[5,0,0,48,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[7,0,0,36,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aebfaeac77c40d4c7938cbdd488defc51":[5,0,0,48,3],
@@ -236,8 +238,8 @@ var NAVTREEINDEX145 =
 "d5/d08/classWorldSession_1_1DosProtection.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b":[4,1,19,0,1,3],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html":[5,0,0,5,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html":[7,0,0,3,0],
-"d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[7,0,0,3,0,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[5,0,0,5,0,0],
+"d5/d08/structAcore_1_1Encoding_1_1Base32.html#a16eb5c0306f404a3be454430abd01610":[7,0,0,3,0,0],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[5,0,0,5,0,1],
 "d5/d08/structAcore_1_1Encoding_1_1Base32.html#a5c439d87d1532c68023e2d612d874e5f":[7,0,0,3,0,1],
 "d5/d08/structboss__bigbadwolf.html":[7,0,413],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d08/structboss__bigbadwolf.html#a529fad938a0ef7261f1c2d589b6ff29c":[7,0,413,3],
 "d5/d08/structboss__bigbadwolf.html#a661d9b619be30764ba5b89d71de870e9":[7,0,413,7],
 "d5/d08/structboss__bigbadwolf.html#a7755bf925d919c73075a41f8774280c0":[7,0,413,4],
-"d5/d08/structboss__bigbadwolf.html#a8e004a1feac796ed467eba744f211827":[7,0,413,5],
-"d5/d08/structboss__bigbadwolf.html#ab788a0155a3ffe6535d58263eea16dee":[7,0,413,6],
-"d5/d08/structboss__bigbadwolf.html#aed0e9edc52f13b7b0cfa5047849c26a9":[7,0,413,8]
+"d5/d08/structboss__bigbadwolf.html#a8e004a1feac796ed467eba744f211827":[7,0,413,5]
 };

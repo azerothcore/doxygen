@@ -1,5 +1,15 @@
 var NAVTREEINDEX319 =
 {
+"dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[5,0,30,1,15],
+"dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[7,0,10,1,15],
+"dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[5,0,30,1,16],
+"dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[7,0,10,1,16],
+"dc/d0b/cs__mail_8cpp.html":[8,0,0,0,1,3,0,30],
+"dc/d0b/cs__mail_8cpp.html#a60390ceaf08c6b305bdc77fd27243938":[8,0,0,0,1,3,0,30,1],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html":[7,0,1622,0],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f":[7,0,1622,0,3],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a062eb272826d52ffd9b72054f970b761":[7,0,1622,0,0],
+"dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56":[7,0,1622,0,6],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a474231c0ce93b4db0789bcc8f6767c19":[7,0,1622,0,2],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf":[7,0,1622,0,5],
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3":[7,0,1622,0,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e":[8,0,0,0,1,2,16,0,1,3,3],
 "dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79":[8,0,0,0,1,2,16,0,1,3,4],
 "dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80":[8,0,0,0,1,2,16,0,1,3,6],
-"dc/d1d/Corpse_8h.html#aec0512ffe7d6a8f7dd8330c334bb4fc3":[8,0,0,0,1,2,16,0,1,2],
-"dc/d1d/TOTP_8h.html":[8,0,0,0,0,3,19],
-"dc/d1d/classspell__q12611__deathbolt.html":[7,0,3945],
-"dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[7,0,3945,0],
-"dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[7,0,3945,2],
-"dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3945,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0]
+"dc/d1d/Corpse_8h.html#aec0512ffe7d6a8f7dd8330c334bb4fc3":[8,0,0,0,1,2,16,0,1,2]
 };

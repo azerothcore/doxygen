@@ -1,5 +1,14 @@
 var NAVTREEINDEX299 =
 {
+"db/d84/WorldModel_8cpp.html#af71b89398ed4323940f67baaf58f2cd7":[8,0,0,0,0,1,2,5,6],
+"db/d84/boss__maexxna_8cpp.html":[8,0,0,0,1,3,5,7,9],
+"db/d84/boss__maexxna_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,5,7,9,6],
+"db/d84/boss__maexxna_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa175b02410fe3146dcd9cffd33d97a14b":[8,0,0,0,1,3,5,7,9,6,1],
+"db/d84/boss__maexxna_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa5ba3530ff0aa31436cedd43b997efd0b":[8,0,0,0,1,3,5,7,9,6,2],
+"db/d84/boss__maexxna_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aacf3360cd72b73c503a3ae660b3628ad1":[8,0,0,0,1,3,5,7,9,6,0],
+"db/d84/boss__maexxna_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,9,8],
+"db/d84/boss__maexxna_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31363885aae51a82b0c5101ca116d06f":[8,0,0,0,1,3,5,7,9,8,1],
+"db/d84/boss__maexxna_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8579f90c977275cbbc5ec9c9e647fb2f":[8,0,0,0,1,3,5,7,9,8,0],
 "db/d84/boss__maexxna_8cpp.html#a35836a69346ed481b9f2f7070f3c7802":[8,0,0,0,1,3,5,7,9,11],
 "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,9,9],
 "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca03a4fc7c45692e02262506049fae6e67":[8,0,0,0,1,3,5,7,9,9,4],
@@ -188,10 +197,10 @@ var NAVTREEINDEX299 =
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[7,0,13,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[7,0,13,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[7,0,3391],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[7,0,3391,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[7,0,3391,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX299 =
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aec44e315616920ba8224be8c4831f5e9":[7,0,2570,1,3],
 "db/d8b/ItemTemplate_8h.html":[8,0,0,0,1,2,16,4,6],
 "db/d8b/ItemTemplate_8h.html#a02411d2e55d8ffa000a775af803d54b8":[8,0,0,0,1,2,16,4,6,26],
-"db/d8b/ItemTemplate_8h.html#a0873187b0ac36dd5187c0f5486232e88":[8,0,0,0,1,2,16,4,6,8],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87df":[8,0,0,0,1,2,16,4,6,43],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa037e907341dba27f5ccbd425c934669f":[8,0,0,0,1,2,16,4,6,43,31],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa137fbae8c35ff4d62653f346b487cc24":[8,0,0,0,1,2,16,4,6,43,28],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa1712dec23fd3f29c808987774e46f00d":[8,0,0,0,1,2,16,4,6,43,29],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa1b2993fa316463d35ee6f06236a22be0":[8,0,0,0,1,2,16,4,6,43,26],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa324f044771288fb1427d0cbfa169e5fd":[8,0,0,0,1,2,16,4,6,43,27],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa3c6af245bec421e78c4fe53c635d5c1f":[8,0,0,0,1,2,16,4,6,43,11],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa50f78549ecd1cfb28e11b90427a3be0f":[8,0,0,0,1,2,16,4,6,43,4],
-"db/d8b/ItemTemplate_8h.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa57b18dd65368564f4488e9275f60cce2":[8,0,0,0,1,2,16,4,6,43,16]
+"db/d8b/ItemTemplate_8h.html#a0873187b0ac36dd5187c0f5486232e88":[8,0,0,0,1,2,16,4,6,8]
 };

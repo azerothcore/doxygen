@@ -1,5 +1,12 @@
 var NAVTREEINDEX239 =
 {
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[7,0,3673,2],
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#ac6017cbe86b328aef00f707051c67e5f":[7,0,3673,0],
+"d8/ddd/classspell__sha__mana__tide.html":[7,0,4118],
+"d8/ddd/classspell__sha__mana__tide.html#a0093da1cb71f87bb7302bf6ccc9a255c":[7,0,4118,0],
+"d8/ddd/classspell__sha__mana__tide.html#a0332788648661d5c2665c5d1431e4ca7":[7,0,4118,2],
+"d8/ddd/classspell__sha__mana__tide.html#aecb5c0c9f5258a3ce7ff18cf08f89845":[7,0,4118,3],
+"d8/ddd/classspell__sha__mana__tide.html#afd362a7dd0373e9480445a99023a5c8c":[7,0,4118,1],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html":[7,0,4484],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[7,0,4484,5],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[7,0,4484,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX239 =
 "d8/de1/structCalendarInvite.html#ac2b323dd70802562c497414e2cec300a":[7,0,852,3],
 "d8/de1/structCalendarInvite.html#ad6a17313390686f6a8fd2c7af26b98f9":[7,0,852,11],
 "d8/de1/structCalendarInvite.html#ae05cd257558e98112528a997e1faba02":[7,0,852,4],
-"d8/de1/structCalendarInvite.html#af3d5020fcca737e10a4aaac8b2194566":[7,0,852,8],
-"d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
-"d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
-"d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
-"d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
-"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4]
+"d8/de1/structCalendarInvite.html#af3d5020fcca737e10a4aaac8b2194566":[7,0,852,8]
 };

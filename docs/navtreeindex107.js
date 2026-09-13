@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d3/d93/classPathGenerator.html#a9b2aabc098350fbaa706a9f665a90290":[7,0,2415,4],
+"d3/d93/classPathGenerator.html#a9bf293e30e092de38ce34e28b056f8cc":[7,0,2415,26],
 "d3/d93/classPathGenerator.html#a9e468ed33ceb7560e3d15cf7e7fe317c":[7,0,2415,32],
 "d3/d93/classPathGenerator.html#aa053d5dc66fb7249d819620f796c74ae":[7,0,2415,39],
 "d3/d93/classPathGenerator.html#aa334bc297d29c02baec5cb374e056a41":[7,0,2415,27],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d9d/zone__silithus_8cpp.html#ab69ef601d31d0264381d9af5e06f7769":[8,0,0,0,1,3,4,25,13],
 "d3/d9d/zone__silithus_8cpp.html#af5b8990a489280bda89e738cb3648330":[8,0,0,0,1,3,4,25,19],
 "d3/d9e/boss__high__king__maulgar_8cpp.html":[8,0,0,0,1,3,7,3,1],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00":[8,0,0,0,1,3,7,3,1,5],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,3,1,5,4],
-"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00a196972e452f4cb5df032e5119d25f163":[8,0,0,0,1,3,7,3,1,5,12]
+"d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00":[8,0,0,0,1,3,7,3,1,5]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX357 =
 {
+"dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[7,0,4397,3],
+"dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[7,0,4397,1],
+"dd/dbc/classspell__warr__vigilance__trigger.html#ab3f88b7443eb4f32339c3b687431fda2":[7,0,4397,0],
+"dd/dbc/classspell__warr__vigilance__trigger.html#ab9041b811e80e220828d5db59b724682":[7,0,4397,2],
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html":[7,0,3377],
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a13c9e5a0a2a6945dfa5a4425be08703d":[7,0,3377,2],
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html#a5fd08c4ff5ba410458a67eb91e612267":[7,0,3377,1],
+"dd/dbd/classspell__item__crystal__spire__of__karabor.html#adb21bbda83cf0fdc30e64cabc0fb0d1c":[7,0,3377,0],
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html":[7,0,1843,0],
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[7,0,1843,0,4],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[7,0,1843,0,3],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a2c5729ee3371e562869878ff3a7b84bd":[7,0,1843,0,1],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a8575d258d63e28626cffd7fc2160bee6":[7,0,1843,0,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX357 =
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a3acf810c5d0cbddb612eb2c5567d26fa":[8,0,0,0,1,3,5,9,2,10,23,13],
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a4f5a377c770cfb8046bf454acbaf00e8":[8,0,0,0,1,3,5,9,2,10,23,7],
 "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a596691d7b994e62c6f542043af3804ce":[8,0,0,0,1,3,5,9,2,10,23,0],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64":[8,0,0,0,1,3,5,9,2,10,23,15],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a814b6083880224047258f88a8cee65fb":[8,0,0,0,1,3,5,9,2,10,23,3],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a883ef561701d263a7b9297927385d73a":[8,0,0,0,1,3,5,9,2,10,23,11],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815aa1c1f5ec64e71eb8c14abb9c01abbff9":[8,0,0,0,1,3,5,9,2,10,23,2],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ab66937b563d8655f61906478ab15a83c":[8,0,0,0,1,3,5,9,2,10,23,6],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ac838b9da18caee25b789d613b22a71c5":[8,0,0,0,1,3,5,9,2,10,23,4],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ae0f35f3f585fa7cae3d5b63ae472ab0b":[8,0,0,0,1,3,5,9,2,10,23,5],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815af2d12430be644d04aa039997bae6c6ba":[8,0,0,0,1,3,5,9,2,10,23,8],
-"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815afa94eb3c4e008d61e992e067afdc47ea":[8,0,0,0,1,3,5,9,2,10,23,1],
-"dd/dca/boss__razorscale_8cpp.html#a8d33a4b692cf0305163b2684fbd27141":[8,0,0,0,1,3,5,9,2,10,29],
-"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4":[8,0,0,0,1,3,5,9,2,10,22]
+"dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64":[8,0,0,0,1,3,5,9,2,10,23,15]
 };

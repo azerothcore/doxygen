@@ -1,5 +1,6 @@
 var NAVTREEINDEX41 =
 {
+"d1/dae/classdebug__commandscript.html#aec99137aa0b990df4be071ea6b7a45ff":[7,0,996,41],
 "d1/dae/classdebug__commandscript.html#af661244d384f7ba7a4c4d4c21be301cc":[7,0,996,3],
 "d1/dae/classdebug__commandscript.html#afc98239f8690fd3eae898c3f11d91e0c":[7,0,996,5],
 "d1/dae/classdebug__commandscript.html#afd04362c8f0190a968dcdc4795a6ed95":[7,0,996,46],
@@ -248,6 +249,5 @@ var NAVTREEINDEX41 =
 "d1/db0/classspell__item__multiphase__goggles.html":[7,0,3453],
 "d1/db0/classspell__item__multiphase__goggles.html#a0fdd3c926bb1b2846579102e64e8e18c":[7,0,3453,1],
 "d1/db0/classspell__item__multiphase__goggles.html#a56d819c88a4e70a89cef5183e3c5b728":[7,0,3453,3],
-"d1/db0/classspell__item__multiphase__goggles.html#aa86d7b45f028773b8666c06d3a0e60b4":[7,0,3453,0],
-"d1/db0/classspell__item__multiphase__goggles.html#aa93b45e31c33caf3ea51a26846566b34":[7,0,3453,2]
+"d1/db0/classspell__item__multiphase__goggles.html#aa86d7b45f028773b8666c06d3a0e60b4":[7,0,3453,0]
 };

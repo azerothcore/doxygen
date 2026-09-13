@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d6/d68/structnpc__flameshocker.html#a13cb88e2b33df2d910fb73053684b420":[7,0,1828,2],
+"d6/d68/structnpc__flameshocker.html#aba94a5bcec75c649049d5816a53ace58":[7,0,1828,1],
 "d6/d68/structnpc__flameshocker.html#ac1631ee1802a4014d71bd86567f5d5dd":[7,0,1828,0],
 "d6/d68/structnpc__flameshocker.html#adca7cd4e6ac78c0425d4377d66669f40":[7,0,1828,3],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html":[7,0,2250,0],
@@ -184,8 +186,8 @@ var NAVTREEINDEX182 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3177,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2012],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[7,0,2012,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2012,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d75/structnpc__ame_1_1npc__ameAI.html#a9b77f94f112477509c3163945ceb8201":[7,0,1633,0,1],
 "d6/d75/structnpc__ame_1_1npc__ameAI.html#ab09c72c4ea50313c23a53d3862aeddea":[7,0,1633,0,2],
 "d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877":[7,0,1633,0,7],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6":[7,0,1633,0,0],
-"d6/d75/zone__terokkar__forest_8cpp.html":[8,0,0,0,1,3,7,15],
-"d6/d75/zone__terokkar__forest_8cpp.html#a06eb16b2a9cfacc1641cf49759c7615e":[8,0,0,0,1,3,7,15,22]
+"d6/d75/structnpc__ame_1_1npc__ameAI.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6":[7,0,1633,0,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"d6/d1f/classspell__halion__marks__aura.html":[7,0,3202],
+"d6/d1f/classspell__halion__marks__aura.html#a01e8677e4f55dbb55cca1bf16dec48b2":[7,0,3202,6],
 "d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[7,0,3202,2],
 "d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[7,0,3202,0],
 "d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[7,0,3202,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a2fc9b40d72eea88b2245e6b01b17384a":[7,0,2116,0,6],
 "d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a52f64cef6159a3bfe29a6ac551b5bbe2":[7,0,2116,0,1],
 "d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a77aad4a0446fac68a5d1785acbe825eb":[7,0,2116,0,5],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a9453e2fe00c656ded0bad4d9036dbd2a":[7,0,2116,0,2],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a9cf57308ea588cc2febb0bb2666c2afe":[7,0,2116,0,3],
-"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#ab30068f7082176c279e0667f72d750a3":[7,0,2116,0,7]
+"d6/d27/structnpc__q24545__wretched__ghoul_1_1npc__q24545__wretched__ghoulAI.html#a9453e2fe00c656ded0bad4d9036dbd2a":[7,0,2116,0,2]
 };

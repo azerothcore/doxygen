@@ -231,6 +231,7 @@ var classScriptMgr =
     [ "OnInstanceIdRemoved", "d2/d73/classScriptMgr.html#af5638f34bef3c0c3e432408c03ec0b2c", null ],
     [ "OnInstanceSave", "d2/d73/classScriptMgr.html#a0e9e758ea3434711d2756a3682c8ae90", null ],
     [ "OnIsAffectedBySpellModCheck", "d2/d73/classScriptMgr.html#ad943009b55ebc27bccc5d6bb418e5feb", null ],
+    [ "OnIsAuraExclusiveBySpecificWith", "d2/d73/classScriptMgr.html#a87283df6dae7114e7908b3c9294e3dee", null ],
     [ "OnItemCreate", "d2/d73/classScriptMgr.html#ac36cfa1025286bd3d9d7ca720e922743", null ],
     [ "OnItemExpire", "d2/d73/classScriptMgr.html#af889d02943352d1bd95325ed382032e6", null ],
     [ "OnItemRemove", "d2/d73/classScriptMgr.html#ae030dcc3a7543c443bd6ef00d9f617bf", null ],

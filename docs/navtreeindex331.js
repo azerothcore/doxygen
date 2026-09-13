@@ -1,5 +1,14 @@
 var NAVTREEINDEX331 =
 {
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a229c1f16e68e5fe80fc01b2064e62eeb":[8,0,0,0,2,2,0,5,0,55],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a31f6d64221af11bb3cadb19192a6ec18":[8,0,0,0,2,2,0,5,0,39],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a3433e5b3d06b68175a5a50a16b97351a":[8,0,0,0,2,2,0,5,0,54],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a34f70c82b91163dd6378d266c974b52a":[8,0,0,0,2,2,0,5,0,15],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a3533e395607aaedb7073d4dfd0da6e92":[8,0,0,0,2,2,0,5,0,29],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a35a77b2170e74365de821f2ca08cee10":[8,0,0,0,2,2,0,5,0,52],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a3c33cbd880933f846585ac8fa8e768dc":[8,0,0,0,2,2,0,5,0,33],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a3c3b8c40ae0753b94e345429c6c1b9fd":[8,0,0,0,2,2,0,5,0,43],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a46846ce0fb1c6b5fa421ee039e4a657e":[8,0,0,0,2,2,0,5,0,5],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a52886ddd3389fe20ec6d8a1177d461b1":[8,0,0,0,2,2,0,5,0,17],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a53993de618fcc260daa422bc0b50918b":[8,0,0,0,2,2,0,5,0,46],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a554d4c48b31a42d76e438ad934b49623":[8,0,0,0,2,2,0,5,0,48],
@@ -141,8 +150,8 @@ var NAVTREEINDEX331 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
@@ -240,14 +249,5 @@ var NAVTREEINDEX331 =
 "dc/d89/classAsyncAcceptor.html#a91c22b6aba05bc493cfaf28a9203ce84":[7,0,214,4],
 "dc/d89/classAsyncAcceptor.html#aadf8a9dfb6c1c2acb5d3deb5ca6839e5":[7,0,214,6],
 "dc/d89/classAsyncAcceptor.html#acde256fa08ae9fc7b785d5b5038cb6ae":[7,0,214,8],
-"dc/d89/classAsyncAcceptor.html#ad7f6d43d134ef97e31061c43408c4c17":[7,0,214,1],
-"dc/d89/classAsyncAcceptor.html#ae2443c046b245262497e407c9a5b7b3f":[7,0,214,3],
-"dc/d89/classAsyncAcceptor.html#ae5e66fec6b3a21263be2b87edd5d07dd":[7,0,214,13],
-"dc/d89/classAsyncAcceptor.html#ae67025eb8e17fa2e21a31ef2c1126d3e":[7,0,214,0],
-"dc/d89/classnpc__gunship.html":[7,0,1869],
-"dc/d89/classnpc__gunship.html#a86b3ba622bd6e606cd21f7c7d8dddd1b":[7,0,1869,1],
-"dc/d89/classnpc__gunship.html#adcd37802a2850f4ec8892f3495d5dc16":[7,0,1869,2],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html":[5,0,0,8,0],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a068db55731856ca7770e1b09a4225aa2":[5,0,0,8,0,41],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a1106e69269315156c6019b7812547ce9":[5,0,0,8,0,37]
+"dc/d89/classAsyncAcceptor.html#ad7f6d43d134ef97e31061c43408c4c17":[7,0,214,1]
 };

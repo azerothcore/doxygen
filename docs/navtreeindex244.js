@@ -1,5 +1,12 @@
 var NAVTREEINDEX244 =
 {
+"d9/d20/classWhoListPlayerInfo.html#a701cf843b5e6cea8385b172ca83e0e15":[7,0,4692,4],
+"d9/d20/classWhoListPlayerInfo.html#a7e25cdf1d9049a84270f9ad5c6ce7107":[7,0,4692,13],
+"d9/d20/classWhoListPlayerInfo.html#a8d82352fc915903769f22532330861eb":[7,0,4692,22],
+"d9/d20/classWhoListPlayerInfo.html#aa18fcdffe693100aacbd345c32641fed":[7,0,4692,0],
+"d9/d20/classWhoListPlayerInfo.html#aaf1a4d5511681b40c35dfa4a5eca3e11":[7,0,4692,2],
+"d9/d20/classWhoListPlayerInfo.html#ac4d213071630ef58d19a1c6044d9de58":[7,0,4692,14],
+"d9/d20/classWhoListPlayerInfo.html#ac7a2520681c66632c0ae4cbeb8ddce64":[7,0,4692,3],
 "d9/d20/classWhoListPlayerInfo.html#ac7d9dc1689f73d568f62e0ccbe578dc8":[7,0,4692,5],
 "d9/d20/classWhoListPlayerInfo.html#ad28490bd0c8c378e72748038ee6668cc":[7,0,4692,10],
 "d9/d20/classWhoListPlayerInfo.html#ad35b89e99f1b443a13a2f4ddfc3ea052":[7,0,4692,21],
@@ -123,8 +130,8 @@ var NAVTREEINDEX244 =
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3418],
@@ -229,8 +236,8 @@ var NAVTREEINDEX244 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[7,0,3725,2],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[7,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,0,8,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,0,8,0,5,0],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[7,0,0,5,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,0,8,0,5,0],
 "d9/d31/RBAC_8cpp.html":[8,0,0,0,1,2,0,2],
 "d9/d31/RBAC_8cpp.html#ad45fe4229235a57fc4952a69ede78410":[8,0,0,0,1,2,0,2,0],
 "d9/d31/SharedDefines_8cpp.html":[8,0,0,0,1,4,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d31/structnpc__hyldsmeet__protodrake.html#a0067d3b394c967946e329ea25c2dc315":[7,0,1911,1],
 "d9/d31/structnpc__hyldsmeet__protodrake.html#a409a5f5eace583ef874421819c975ed8":[7,0,1911,0],
 "d9/d31/structnpc__hyldsmeet__protodrake.html#a49ce0b6b324b968b1b2902c1db037a53":[7,0,1911,2],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a":[7,0,1911,4],
-"d9/d31/structnpc__hyldsmeet__protodrake.html#af9a5984f66eb3a1a26e8c1640bcf7597":[7,0,1911,3],
-"d9/d32/CombatAI_8cpp.html":[8,0,0,0,1,2,3,0,0],
-"d9/d32/classAbstractFollower.html":[7,0,23],
-"d9/d32/classAbstractFollower.html#a08d292896f2419dd73ae68c8e1238d4b":[7,0,23,0],
-"d9/d32/classAbstractFollower.html#a43f037557454528a956c379d9efb42ac":[7,0,23,2],
-"d9/d32/classAbstractFollower.html#aa4e43d8e60442eee41398648fd7fd45d":[7,0,23,4],
-"d9/d32/classAbstractFollower.html#acb394f5326ab5ea5146c79788a085647":[7,0,23,1]
+"d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a":[7,0,1911,4]
 };
