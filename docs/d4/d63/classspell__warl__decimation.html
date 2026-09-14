@@ -338,9 +338,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassProcEventInfo_html_a759add2c89e786125196eb6bd3b20c6d"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">ProcEventInfo::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:301</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_a89d8ab0bf0b01e3e1ca4ae10a3cbde10"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">ProcEventInfo::GetActor</a></div><div class="ttdeci">Unit * GetActor()</div><div class="ttdef"><b>Definition</b> Unit.h:460</div></div>
 <div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:340</div></div>
-<div class="ttc" id="aclassUnit_html_a995649c1c671b039d4279bd01108e675"><div class="ttname"><a href="../../df/dd9/classUnit.html#a995649c1c671b039d4279bd01108e675">Unit::HasAuraState</a></div><div class="ttdeci">bool HasAuraState(AuraStateType flag, SpellInfo const *spellProto=nullptr, Unit const *Caster=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:7694</div></div>
+<div class="ttc" id="aclassUnit_html_a995649c1c671b039d4279bd01108e675"><div class="ttname"><a href="../../df/dd9/classUnit.html#a995649c1c671b039d4279bd01108e675">Unit::HasAuraState</a></div><div class="ttdeci">bool HasAuraState(AuraStateType flag, SpellInfo const *spellProto=nullptr, Unit const *Caster=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:7390</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01293">AURA_STATE_HEALTHLESS_35_PERCENT</a>, <a class="el" href="../../#l00461">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00460">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l00301">ProcEventInfo::GetSpellInfo()</a>, and <a class="el" href="../../#l07694">Unit::HasAuraState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01293">AURA_STATE_HEALTHLESS_35_PERCENT</a>, <a class="el" href="../../#l00461">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l00460">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l00301">ProcEventInfo::GetSpellInfo()</a>, and <a class="el" href="../../#l07390">Unit::HasAuraState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01410">Register()</a>.</p>
 
@@ -399,11 +399,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno"> 1411</span>    {</div>
 <div class="line"><span class="lineno"> 1412</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d4/d63/classspell__warl__decimation.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce">spell_warl_decimation::CheckProc</a>);</div>
 <div class="line"><span class="lineno"> 1413</span>    }</div>
-<div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:830</div></div>
-<div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
+<div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:831</div></div>
+<div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:830</div></div>
 <div class="ttc" id="aclassspell__warl__decimation_html_ad99bf14a9b71a9ff7b2ccb73eaae41ce"><div class="ttname"><a href="../../d4/d63/classspell__warl__decimation.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce">spell_warl_decimation::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1401</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00830">AuraCheckProcFn</a>, <a class="el" href="../../#l01401">CheckProc()</a>, and <a class="el" href="../../#l00829">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00831">AuraCheckProcFn</a>, <a class="el" href="../../#l01401">CheckProc()</a>, and <a class="el" href="../../#l00830">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -416,7 +416,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d63/classspell__warl__decimation.html">spell_warl_decimation</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 11:00:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:34:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

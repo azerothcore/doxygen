@@ -165,6 +165,8 @@ Friends</h2></td></tr>
 <tr class="separator:a377add6d6b5e34e774d2497d58f4a180"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a06fa417f69e0a67da8f249333b1d189d" id="r_a06fa417f69e0a67da8f249333b1d189d"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df7/classTransactionBase.html#a06fa417f69e0a67da8f249333b1d189d">MySQLConnection</a></td></tr>
 <tr class="separator:a06fa417f69e0a67da8f249333b1d189d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaeb95f0085e90a3270c273b1873a587d" id="r_aaeb95f0085e90a3270c273b1873a587d"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df7/classTransactionBase.html#aaeb95f0085e90a3270c273b1873a587d">ModuleDatabasePool</a></td></tr>
+<tr class="separator:aaeb95f0085e90a3270c273b1873a587d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58" id="r_a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d1/df7/classTransactionBase.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td></tr>
 <tr class="separator:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -219,7 +221,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>(); }</div>
 <div class="ttc" id="aclassTransactionBase_html_a35e0ce11de325a1b286d90a2936d4aa3"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a35e0ce11de325a1b286d90a2936d4aa3">TransactionBase::Cleanup</a></div><div class="ttdeci">void Cleanup()</div><div class="ttdef"><b>Definition</b> Transaction.cpp:50</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,12 +249,12 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.emplace_back(data);</div>
 <div class="line"><span class="lineno">   39</span>}</div>
 <div class="ttc" id="aSQLOperation_8h_html_abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a"><div class="ttname"><a href="../../d6/d60/SQLOperation_8h.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a></div><div class="ttdeci">@ SQL_ELEMENT_RAW</div><div class="ttdef"><b>Definition</b> SQLOperation.h:28</div></div>
-<div class="ttc" id="aclassTransactionBase_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition</b> Transaction.h:55</div></div>
+<div class="ttc" id="aclassTransactionBase_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition</b> Transaction.h:56</div></div>
 <div class="ttc" id="astructSQLElementData_html"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html">SQLElementData</a></div><div class="ttdef"><b>Definition</b> SQLOperation.h:34</div></div>
 <div class="ttc" id="astructSQLElementData_html_ae5400b2932fe1a8c514c38fb6bab392f"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f">SQLElementData::element</a></div><div class="ttdeci">std::variant&lt; PreparedStatementBase *, std::string &gt; element</div><div class="ttdef"><b>Definition</b> SQLOperation.h:35</div></div>
 <div class="ttc" id="astructSQLElementData_html_afb3f8dc82da740b1aaae165cb6a5b218"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218">SQLElementData::type</a></div><div class="ttdeci">SQLElementDataType type</div><div class="ttdef"><b>Definition</b> SQLOperation.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00055">m_queries</a>, <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00056">m_queries</a>, <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
 
 </div>
 </div>
@@ -291,9 +293,9 @@ template&lt;typename... Args&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   49</span>    }</div>
 <div class="ttc" id="aclassTransactionBase_html_a867b7a92080104278aef5fb4975a4a52"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a867b7a92080104278aef5fb4975a4a52">TransactionBase::Append</a></div><div class="ttdeci">void Append(std::string_view sql)</div><div class="ttdef"><b>Definition</b> Transaction.cpp:33</div></div>
 <div class="ttc" id="anamespaceAcore_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
 </div><!-- fragment -->
@@ -332,7 +334,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   48</span>}</div>
 <div class="ttc" id="aSQLOperation_8h_html_abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d"><div class="ttname"><a href="../../d6/d60/SQLOperation_8h.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d">SQL_ELEMENT_PREPARED</a></div><div class="ttdeci">@ SQL_ELEMENT_PREPARED</div><div class="ttdef"><b>Definition</b> SQLOperation.h:29</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00067">Transaction&lt; T &gt;::Append()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">Transaction&lt; T &gt;::Append()</a>.</p>
 
 </div>
 </div>
@@ -406,9 +408,9 @@ template&lt;typename... Args&gt; </div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 <div class="ttc" id="aLog_8h_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:141</div></div>
 <div class="ttc" id="aclassPreparedStatementBase_html"><div class="ttname"><a href="../../de/db4/classPreparedStatementBase.html">PreparedStatementBase</a></div><div class="ttdef"><b>Definition</b> PreparedStatement.h:68</div></div>
-<div class="ttc" id="aclassTransactionBase_html_aa82af96128bfcee997423a54396d40d4"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#aa82af96128bfcee997423a54396d40d4">TransactionBase::_cleanedUp</a></div><div class="ttdeci">bool _cleanedUp</div><div class="ttdef"><b>Definition</b> Transaction.h:58</div></div>
+<div class="ttc" id="aclassTransactionBase_html_aa82af96128bfcee997423a54396d40d4"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#aa82af96128bfcee997423a54396d40d4">TransactionBase::_cleanedUp</a></div><div class="ttdeci">bool _cleanedUp</div><div class="ttdef"><b>Definition</b> Transaction.h:59</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00058">_cleanedUp</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00055">m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">_cleanedUp</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00056">m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>.</p>
 
 </div>
 </div>
@@ -434,7 +436,7 @@ template&lt;typename... Args&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.size(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.size(); }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -452,6 +454,28 @@ template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">friend class <a class="el" href="../../d1/d49/classDatabaseWorkerPool.html">DatabaseWorkerPool</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaeb95f0085e90a3270c273b1873a587d" name="aaeb95f0085e90a3270c273b1873a587d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaeb95f0085e90a3270c273b1873a587d">&#9670;&#160;</a></span>ModuleDatabasePool</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d1/d40/classModuleDatabasePool.html">ModuleDatabasePool</a></td>
         </tr>
       </table>
   </td>
@@ -527,7 +551,7 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{<span class="keyword">false</span>};</div>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>{<span class="keyword">false</span>};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00050">Cleanup()</a>.</p>
 
@@ -567,7 +591,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/df7/classTransactionBase.html">TransactionBase</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 11:00:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:34:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

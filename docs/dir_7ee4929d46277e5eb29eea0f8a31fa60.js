@@ -33,5 +33,6 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "SpellProcUnitIntegrationTest.cpp", "d8/d61/SpellProcUnitIntegrationTest_8cpp.html", "d8/d61/SpellProcUnitIntegrationTest_8cpp" ],
     [ "SpellScriptMissileBarrageTest.cpp", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html", "d8/d5e/SpellScriptMissileBarrageTest_8cpp" ],
     [ "VehicleScalingUlduarTest.cpp", "dc/d15/VehicleScalingUlduarTest_8cpp.html", "dc/d15/VehicleScalingUlduarTest_8cpp" ],
-    [ "WildGrowthTickScalingTest.cpp", "d1/d1e/WildGrowthTickScalingTest_8cpp.html", "d1/d1e/WildGrowthTickScalingTest_8cpp" ]
+    [ "WildGrowthTickScalingTest.cpp", "d1/d1e/WildGrowthTickScalingTest_8cpp.html", "d1/d1e/WildGrowthTickScalingTest_8cpp" ],
+    [ "WorldObjectCastApiTest.cpp", "d7/d3e/WorldObjectCastApiTest_8cpp.html", "d7/d3e/WorldObjectCastApiTest_8cpp" ]
 ];

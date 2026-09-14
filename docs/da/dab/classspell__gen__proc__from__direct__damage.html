@@ -330,9 +330,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  793</span>        <span class="keywordflow">return</span> !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>() || !eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>()-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#af03fc255803866edc9a7941ba8c6c84b">IsTargetingArea</a>();</div>
 <div class="line"><span class="lineno">  794</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_a759add2c89e786125196eb6bd3b20c6d"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">ProcEventInfo::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:301</div></div>
-<div class="ttc" id="aclassSpellInfo_html_af03fc255803866edc9a7941ba8c6c84b"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#af03fc255803866edc9a7941ba8c6c84b">SpellInfo::IsTargetingArea</a></div><div class="ttdeci">bool IsTargetingArea() const</div><div class="ttdef"><b>Definition</b> SpellInfo.cpp:1066</div></div>
+<div class="ttc" id="aclassSpellInfo_html_af03fc255803866edc9a7941ba8c6c84b"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#af03fc255803866edc9a7941ba8c6c84b">SpellInfo::IsTargetingArea</a></div><div class="ttdeci">bool IsTargetingArea() const</div><div class="ttdef"><b>Definition</b> SpellInfo.cpp:1070</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00301">ProcEventInfo::GetSpellInfo()</a>, and <a class="el" href="../../#l01066">SpellInfo::IsTargetingArea()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00301">ProcEventInfo::GetSpellInfo()</a>, and <a class="el" href="../../#l01070">SpellInfo::IsTargetingArea()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00796">Register()</a>.</p>
 
@@ -391,11 +391,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  797</span>    {</div>
 <div class="line"><span class="lineno">  798</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../da/dab/classspell__gen__proc__from__direct__damage.html#af742bdfd97c9202d50ed7aa1cf8e7d49">spell_gen_proc_from_direct_damage::CheckProc</a>);</div>
 <div class="line"><span class="lineno">  799</span>    }</div>
-<div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:830</div></div>
-<div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
+<div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:831</div></div>
+<div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:830</div></div>
 <div class="ttc" id="aclassspell__gen__proc__from__direct__damage_html_af742bdfd97c9202d50ed7aa1cf8e7d49"><div class="ttname"><a href="../../da/dab/classspell__gen__proc__from__direct__damage.html#af742bdfd97c9202d50ed7aa1cf8e7d49">spell_gen_proc_from_direct_damage::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:791</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00830">AuraCheckProcFn</a>, <a class="el" href="../../#l00791">CheckProc()</a>, and <a class="el" href="../../#l00829">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00831">AuraCheckProcFn</a>, <a class="el" href="../../#l00791">CheckProc()</a>, and <a class="el" href="../../#l00830">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -408,7 +408,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dab/classspell__gen__proc__from__direct__damage.html">spell_gen_proc_from_direct_damage</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 11:00:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:34:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

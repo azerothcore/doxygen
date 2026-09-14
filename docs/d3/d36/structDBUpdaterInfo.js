@@ -1,0 +1,7 @@
+var structDBUpdaterInfo =
+[
+    [ "baseFilesDirectory", "d3/d36/structDBUpdaterInfo.html#a5e5118773a1b9e24e5596a7f10619d25", null ],
+    [ "dbModuleName", "d3/d36/structDBUpdaterInfo.html#a5a485515422456042698ea7c032ed787", null ],
+    [ "displayName", "d3/d36/structDBUpdaterInfo.html#a57927cddcbf6173d7439f1ff95e6a090", null ],
+    [ "sourceDirectory", "d3/d36/structDBUpdaterInfo.html#a9d6b5f07a3d4671a674bca583a1410b6", null ]
+];

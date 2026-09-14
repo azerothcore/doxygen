@@ -34,6 +34,9 @@ var boss__algalon__the__observer_8cpp =
       [ "PHASE_MASK_NO_UPDATE", "d1/d43/boss__algalon__the__observer_8cpp.html#a65010c7561f9dc2c58066c5933a3f5bdae1b77c81e6d3b4a062c5401abc8debaf", null ],
       [ "PHASE_MASK_NO_CAST_CHECK", "d1/d43/boss__algalon__the__observer_8cpp.html#a65010c7561f9dc2c58066c5933a3f5bdace7280cc7060441a85accb3026a7c9ae", null ]
     ] ],
+    [ "EventGroups", "d1/d43/boss__algalon__the__observer_8cpp.html#a1b10b77865251702395e967f7d08cba4", [
+      [ "GROUP_COMBAT", "d1/d43/boss__algalon__the__observer_8cpp.html#a1b10b77865251702395e967f7d08cba4a8a276adfb1bc4c990d9fcd7622ee8b44", null ]
+    ] ],
     [ "Events", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_DESPAWN_CONSOLE", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff95fdcc26253e1f7e50e35d1d62fb4f", null ],
       [ "EVENT_BRANN_MOVE_INTRO", "d1/d43/boss__algalon__the__observer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a92df491b0512e5a74f416a9cbf4abd05", null ],

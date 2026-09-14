@@ -244,6 +244,8 @@ Friends</h2></td></tr>
 <tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58" id="r_a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/db3/classMySQLConnection.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td></tr>
 <tr class="separator:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaeb95f0085e90a3270c273b1873a587d" id="r_aaeb95f0085e90a3270c273b1873a587d"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db3/classMySQLConnection.html#aaeb95f0085e90a3270c273b1873a587d">ModuleDatabasePool</a></td></tr>
+<tr class="separator:aaeb95f0085e90a3270c273b1873a587d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa254e4dbbdf587d4c97b626ddd33a501" id="r_aa254e4dbbdf587d4c97b626ddd33a501"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db3/classMySQLConnection.html#aa254e4dbbdf587d4c97b626ddd33a501">PingOperation</a></td></tr>
 <tr class="separator:aa254e4dbbdf587d4c97b626ddd33a501"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -295,12 +297,12 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   55</span>    <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#a4e958b3355a1b39ea672dc27dd38366a">m_connectionInfo</a>(connInfo),</div>
 <div class="line"><span class="lineno">   56</span>    <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aa9a08dc366602dfb95e58b02a9eb1063">m_connectionFlags</a>(<a class="code hl_enumvalue" href="../../d7/dcd/MySQLConnection_8h.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946">CONNECTION_SYNCH</a>) { }</div>
 <div class="ttc" id="aMySQLConnection_8h_html_a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946"><div class="ttname"><a href="../../d7/dcd/MySQLConnection_8h.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946">CONNECTION_SYNCH</a></div><div class="ttdeci">@ CONNECTION_SYNCH</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:38</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_a3d2337c42a0463bca0bb123f238f9ba7"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a3d2337c42a0463bca0bb123f238f9ba7">MySQLConnection::m_queue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; SQLOperation * &gt; * m_queue</div><div class="ttdoc">MySQL Handle.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:111</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_a4e958b3355a1b39ea672dc27dd38366a"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a4e958b3355a1b39ea672dc27dd38366a">MySQLConnection::m_connectionInfo</a></div><div class="ttdeci">MySQLConnectionInfo &amp; m_connectionInfo</div><div class="ttdoc">Core worker task.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:113</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_aa9a08dc366602dfb95e58b02a9eb1063"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aa9a08dc366602dfb95e58b02a9eb1063">MySQLConnection::m_connectionFlags</a></div><div class="ttdeci">ConnectionFlags m_connectionFlags</div><div class="ttdoc">Connection info (used for logging)</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:114</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_ac1a09db6a84f77c5d0dadd777d99b72d"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#ac1a09db6a84f77c5d0dadd777d99b72d">MySQLConnection::m_prepareError</a></div><div class="ttdeci">bool m_prepareError</div><div class="ttdoc">Are we reconnecting?</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:107</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_aceac12bbc78307049e6685ebcc59237f"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">MySQLConnection::m_Mysql</a></div><div class="ttdeci">MySQLHandle * m_Mysql</div><div class="ttdoc">Was there any error while preparing statements?</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:108</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_af6c437f04a5b861f8a56c24a372348fe"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#af6c437f04a5b861f8a56c24a372348fe">MySQLConnection::m_reconnecting</a></div><div class="ttdeci">bool m_reconnecting</div><div class="ttdoc">PreparedStatements storage.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:106</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_a3d2337c42a0463bca0bb123f238f9ba7"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a3d2337c42a0463bca0bb123f238f9ba7">MySQLConnection::m_queue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; SQLOperation * &gt; * m_queue</div><div class="ttdoc">MySQL Handle.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:112</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_a4e958b3355a1b39ea672dc27dd38366a"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a4e958b3355a1b39ea672dc27dd38366a">MySQLConnection::m_connectionInfo</a></div><div class="ttdeci">MySQLConnectionInfo &amp; m_connectionInfo</div><div class="ttdoc">Core worker task.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:114</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_aa9a08dc366602dfb95e58b02a9eb1063"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aa9a08dc366602dfb95e58b02a9eb1063">MySQLConnection::m_connectionFlags</a></div><div class="ttdeci">ConnectionFlags m_connectionFlags</div><div class="ttdoc">Connection info (used for logging)</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:115</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_ac1a09db6a84f77c5d0dadd777d99b72d"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#ac1a09db6a84f77c5d0dadd777d99b72d">MySQLConnection::m_prepareError</a></div><div class="ttdeci">bool m_prepareError</div><div class="ttdoc">Are we reconnecting?</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:108</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_aceac12bbc78307049e6685ebcc59237f"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">MySQLConnection::m_Mysql</a></div><div class="ttdeci">MySQLHandle * m_Mysql</div><div class="ttdoc">Was there any error while preparing statements?</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:109</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_af6c437f04a5b861f8a56c24a372348fe"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#af6c437f04a5b861f8a56c24a372348fe">MySQLConnection::m_reconnecting</a></div><div class="ttdeci">bool m_reconnecting</div><div class="ttdoc">PreparedStatements storage.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:107</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -342,9 +344,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#a4093dd78c16775e1762b9cdfd7d9823b">m_worker</a> = std::make_unique&lt;DatabaseWorker&gt;(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#a3d2337c42a0463bca0bb123f238f9ba7">m_queue</a>, <span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno">   67</span>}</div>
 <div class="ttc" id="aMySQLConnection_8h_html_a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9"><div class="ttname"><a href="../../d7/dcd/MySQLConnection_8h.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9">CONNECTION_ASYNC</a></div><div class="ttdeci">@ CONNECTION_ASYNC</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:37</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_a4093dd78c16775e1762b9cdfd7d9823b"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a4093dd78c16775e1762b9cdfd7d9823b">MySQLConnection::m_worker</a></div><div class="ttdeci">std::unique_ptr&lt; DatabaseWorker &gt; m_worker</div><div class="ttdoc">Queue shared with other asynchronous connections.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:112</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_a4093dd78c16775e1762b9cdfd7d9823b"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a4093dd78c16775e1762b9cdfd7d9823b">MySQLConnection::m_worker</a></div><div class="ttdeci">std::unique_ptr&lt; DatabaseWorker &gt; m_worker</div><div class="ttdoc">Queue shared with other asynchronous connections.</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00111">m_queue</a>, and <a class="el" href="../../#l00112">m_worker</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">m_queue</a>, and <a class="el" href="../../#l00113">m_worker</a>.</p>
 
 </div>
 </div>
@@ -550,7 +552,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="astructMySQLConnectionInfo_html_a37b89660afb3ee085e817836e9d1d01f"><div class="ttname"><a href="../../d4/dcc/structMySQLConnectionInfo.html#a37b89660afb3ee085e817836e9d1d01f">MySQLConnectionInfo::port_or_socket</a></div><div class="ttdeci">std::string port_or_socket</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:50</div></div>
 <div class="ttc" id="astructMySQLConnectionInfo_html_a7e65a418ad668772e4ce1b298d92f10a"><div class="ttname"><a href="../../d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a">MySQLConnectionInfo::database</a></div><div class="ttdeci">std::string database</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:48</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00037">CONNECTION_ASYNC</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00049">MySQLConnectionInfo::host</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00114">m_connectionFlags</a>, <a class="el" href="../../#l00113">m_connectionInfo</a>, <a class="el" href="../../#l00108">m_Mysql</a>, <a class="el" href="../../#l00106">m_reconnecting</a>, <a class="el" href="../../#l00087">Open()</a>, <a class="el" href="../../#l00050">MySQLConnectionInfo::port_or_socket</a>, and <a class="el" href="../../#l00169">PrepareStatements()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00037">CONNECTION_ASYNC</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00049">MySQLConnectionInfo::host</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00115">m_connectionFlags</a>, <a class="el" href="../../#l00114">m_connectionInfo</a>, <a class="el" href="../../#l00109">m_Mysql</a>, <a class="el" href="../../#l00107">m_reconnecting</a>, <a class="el" href="../../#l00087">Open()</a>, <a class="el" href="../../#l00050">MySQLConnectionInfo::port_or_socket</a>, and <a class="el" href="../../#l00169">PrepareStatements()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00253">_Query()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00202">Execute()</a>, and <a class="el" href="../../#l00175">Execute()</a>.</p>
 
@@ -670,7 +672,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassPreparedStatementBase_html_ac5e94130932a8975a95cd830051cbeab"><div class="ttname"><a href="../../de/db4/classPreparedStatementBase.html#ac5e94130932a8975a95cd830051cbeab">PreparedStatementBase::GetIndex</a></div><div class="ttdeci">uint32 GetIndex() const</div><div class="ttdef"><b>Definition</b> PreparedStatement.h:123</div></div>
 <div class="ttc" id="astructMySQLResult_html"><div class="ttname"><a href="../../dc/da1/structMySQLResult.html">MySQLResult</a></div><div class="ttdef"><b>Definition</b> MySQLHacks.h:25</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, <a class="el" href="../../#l00089">MySQLPreparedStatement::ClearParameters()</a>, <a class="el" href="../../#l00056">MySQLPreparedStatement::GetBind()</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00044">MySQLPreparedStatement::GetParameterCount()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, <a class="el" href="../../#l00189">MySQLPreparedStatement::getQueryString()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, <a class="el" href="../../#l00089">MySQLPreparedStatement::ClearParameters()</a>, <a class="el" href="../../#l00056">MySQLPreparedStatement::GetBind()</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00044">MySQLPreparedStatement::GetParameterCount()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, <a class="el" href="../../#l00189">MySQLPreparedStatement::getQueryString()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -758,7 +760,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  365</span>}</div>
 <div class="ttc" id="astructMySQLField_html"><div class="ttname"><a href="../../d4/d6a/structMySQLField.html">MySQLField</a></div><div class="ttdef"><b>Definition</b> MySQLHacks.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00253">_Query()</a>, <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00537">Query()</a>, and <a class="el" href="../../#l00310">Query()</a>.</p>
 
@@ -814,9 +816,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   83</span>        <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a> = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   84</span>    }</div>
 <div class="line"><span class="lineno">   85</span>}</div>
-<div class="ttc" id="aclassMySQLConnection_html_a5d82989a517e562adb833004fd56ff2a"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a5d82989a517e562adb833004fd56ff2a">MySQLConnection::m_stmts</a></div><div class="ttdeci">PreparedStatementContainer m_stmts</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:105</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_a5d82989a517e562adb833004fd56ff2a"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a5d82989a517e562adb833004fd56ff2a">MySQLConnection::m_stmts</a></div><div class="ttdeci">PreparedStatementContainer m_stmts</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:106</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>, <a class="el" href="../../#l00105">m_stmts</a>, and <a class="el" href="../../#l00112">m_worker</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>, <a class="el" href="../../#l00106">m_stmts</a>, and <a class="el" href="../../#l00113">m_worker</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00069">~MySQLConnection()</a>.</p>
 
@@ -910,7 +912,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  458</span>    <span class="keywordflow">return</span> mysql_real_escape_string(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a>, to, from, length);</div>
 <div class="line"><span class="lineno">  459</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -979,7 +981,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  250</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  251</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, <a class="el" href="../../#l00089">MySQLPreparedStatement::ClearParameters()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00056">MySQLPreparedStatement::GetBind()</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00044">MySQLPreparedStatement::GetParameterCount()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, <a class="el" href="../../#l00189">MySQLPreparedStatement::getQueryString()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00068">MySQLPreparedStatement::BindParameters()</a>, <a class="el" href="../../#l00089">MySQLPreparedStatement::ClearParameters()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00056">MySQLPreparedStatement::GetBind()</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00044">MySQLPreparedStatement::GetParameterCount()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, <a class="el" href="../../#l00189">MySQLPreparedStatement::getQueryString()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -1024,9 +1026,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  199</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  200</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00110">getMSTimeDiff()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00367">BeginTransaction()</a>, <a class="el" href="../../#l00377">CommitTransaction()</a>, <a class="el" href="../../#l00039">BasicStatementTask::Execute()</a>, <a class="el" href="../../#l00084">PreparedStatementTask::Execute()</a>, <a class="el" href="../../#l00202">Execute()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00382">ExecuteTransaction()</a>, and <a class="el" href="../../#l00372">RollbackTransaction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00367">BeginTransaction()</a>, <a class="el" href="../../#l00377">CommitTransaction()</a>, <a class="el" href="../../#l00122">ModuleDatabasePool::DirectExecute()</a>, <a class="el" href="../../#l00039">BasicStatementTask::Execute()</a>, <a class="el" href="../../#l00084">PreparedStatementTask::Execute()</a>, <a class="el" href="../../#l00155">ModuleDatabasePool::Execute()</a>, <a class="el" href="../../#l00202">Execute()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00382">ExecuteTransaction()</a>, and <a class="el" href="../../#l00372">RollbackTransaction()</a>.</p>
 
 </div>
 </div>
@@ -1128,7 +1130,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00367">BeginTransaction()</a>, <a class="el" href="../../#l00377">CommitTransaction()</a>, <a class="el" href="../../#l00175">Execute()</a>, <a class="el" href="../../#l00466">GetLastError()</a>, <a class="el" href="../../#l00141">LOG_FATAL</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00372">RollbackTransaction()</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00028">SQL_ELEMENT_RAW</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00131">TransactionTask::TryExecute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00199">ModuleDatabasePool::DirectCommitTransaction()</a>, and <a class="el" href="../../#l00131">TransactionTask::TryExecute()</a>.</p>
 
 </div>
 </div>
@@ -1150,7 +1152,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  468</span>    <span class="keywordflow">return</span> mysql_errno(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a>);</div>
 <div class="line"><span class="lineno">  469</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00382">ExecuteTransaction()</a>.</p>
 
@@ -1192,7 +1194,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  502</span>    <span class="keywordflow">return</span> ret;</div>
 <div class="line"><span class="lineno">  503</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">CONNECTION_ASYNC</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00114">m_connectionFlags</a>, <a class="el" href="../../#l00113">m_connectionInfo</a>, and <a class="el" href="../../#l00105">m_stmts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00037">CONNECTION_ASYNC</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00115">m_connectionFlags</a>, <a class="el" href="../../#l00114">m_connectionInfo</a>, and <a class="el" href="../../#l00106">m_stmts</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00253">_Query()</a>, and <a class="el" href="../../#l00202">Execute()</a>.</p>
 
@@ -1224,7 +1226,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  488</span>    <span class="keywordflow">return</span> mysql_get_server_info(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a>);</div>
 <div class="line"><span class="lineno">  489</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -1254,7 +1256,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  483</span>    <span class="keywordflow">return</span> mysql_get_server_version(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a>);</div>
 <div class="line"><span class="lineno">  484</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -1284,9 +1286,11 @@ Friends</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  472</span>{</div>
 <div class="line"><span class="lineno">  473</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aba6677ab672aece8ec00b4a3c33aeff4">m_Mutex</a>.try_lock();</div>
 <div class="line"><span class="lineno">  474</span>}</div>
-<div class="ttc" id="aclassMySQLConnection_html_aba6677ab672aece8ec00b4a3c33aeff4"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aba6677ab672aece8ec00b4a3c33aeff4">MySQLConnection::m_Mutex</a></div><div class="ttdeci">std::mutex m_Mutex</div><div class="ttdoc">Connection flags (for preparing relevant statements)</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:115</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_aba6677ab672aece8ec00b4a3c33aeff4"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#aba6677ab672aece8ec00b4a3c33aeff4">MySQLConnection::m_Mutex</a></div><div class="ttdeci">std::mutex m_Mutex</div><div class="ttdoc">Connection flags (for preparing relevant statements)</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00115">m_Mutex</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00116">m_Mutex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00240">ModuleDatabasePool::GetFreeConnection()</a>.</p>
 
 </div>
 </div>
@@ -1397,7 +1401,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="astructMySQLConnectionInfo_html_af5a51bd38ce1d58f65444d69b0283966"><div class="ttname"><a href="../../d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966">MySQLConnectionInfo::password</a></div><div class="ttdeci">std::string password</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:47</div></div>
 <div class="ttc" id="astructMySQLHandle_html"><div class="ttname"><a href="../../d0/d7e/structMySQLHandle.html">MySQLHandle</a></div><div class="ttdef"><b>Definition</b> MySQLHacks.h:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00049">MySQLConnectionInfo::host</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00113">m_connectionInfo</a>, <a class="el" href="../../#l00108">m_Mysql</a>, <a class="el" href="../../#l00106">m_reconnecting</a>, <a class="el" href="../../#l00047">MySQLConnectionInfo::password</a>, <a class="el" href="../../#l00050">MySQLConnectionInfo::port_or_socket</a>, <a class="el" href="../../#l00051">MySQLConnectionInfo::ssl</a>, and <a class="el" href="../../#l00046">MySQLConnectionInfo::user</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00049">MySQLConnectionInfo::host</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00114">m_connectionInfo</a>, <a class="el" href="../../#l00109">m_Mysql</a>, <a class="el" href="../../#l00107">m_reconnecting</a>, <a class="el" href="../../#l00047">MySQLConnectionInfo::password</a>, <a class="el" href="../../#l00050">MySQLConnectionInfo::port_or_socket</a>, <a class="el" href="../../#l00051">MySQLConnectionInfo::ssl</a>, and <a class="el" href="../../#l00046">MySQLConnectionInfo::user</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>.</p>
 
@@ -1447,7 +1451,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  463</span>    mysql_ping(<a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a>);</div>
 <div class="line"><span class="lineno">  464</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00047">PingOperation::Execute()</a>.</p>
 
@@ -1524,7 +1528,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  535</span>}</div>
 <div class="ttc" id="astructMySQLStmt_html"><div class="ttname"><a href="../../d5/d63/structMySQLStmt.html">MySQLStmt</a></div><div class="ttdef"><b>Definition</b> MySQLHacks.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00114">m_connectionFlags</a>, <a class="el" href="../../#l00108">m_Mysql</a>, <a class="el" href="../../#l00107">m_prepareError</a>, and <a class="el" href="../../#l00105">m_stmts</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00115">m_connectionFlags</a>, <a class="el" href="../../#l00109">m_Mysql</a>, <a class="el" href="../../#l00108">m_prepareError</a>, and <a class="el" href="../../#l00106">m_stmts</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00021">CharacterDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00021">LoginDatabaseConnection::DoPrepareStatements()</a>, and <a class="el" href="../../#l00021">WorldDatabaseConnection::DoPrepareStatements()</a>.</p>
 
@@ -1550,7 +1554,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  173</span>}</div>
 <div class="ttc" id="aclassMySQLConnection_html_adbbc19c106d49383d9f696de3f168a27"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#adbbc19c106d49383d9f696de3f168a27">MySQLConnection::DoPrepareStatements</a></div><div class="ttdeci">virtual void DoPrepareStatements()=0</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d5/db3/classMySQLConnection.html#adbbc19c106d49383d9f696de3f168a27">DoPrepareStatements()</a>, and <a class="el" href="../../#l00107">m_prepareError</a>.</p>
+<p class="reference">References <a class="el" href="../../d5/db3/classMySQLConnection.html#adbbc19c106d49383d9f696de3f168a27">DoPrepareStatements()</a>, and <a class="el" href="../../#l00108">m_prepareError</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00555">_HandleMySQLErrno()</a>.</p>
 
@@ -1590,7 +1594,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 <div class="ttc" id="aclassPreparedResultSet_html"><div class="ttname"><a href="../../d0/dad/classPreparedResultSet.html">PreparedResultSet</a></div><div class="ttdef"><b>Definition</b> QueryResult.h:99</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, and <a class="el" href="../../#l00108">m_Mysql</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00326">_Query()</a>, <a class="el" href="../../#l00055">MySQLPreparedStatement::GetSTMT()</a>, and <a class="el" href="../../#l00109">m_Mysql</a>.</p>
 
 </div>
 </div>
@@ -1627,7 +1631,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00326">_Query()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00039">BasicStatementTask::Execute()</a>, <a class="el" href="../../#l00084">PreparedStatementTask::Execute()</a>, and <a class="el" href="../../#l00077">SQLQueryHolderTask::Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00039">BasicStatementTask::Execute()</a>, <a class="el" href="../../#l00084">PreparedStatementTask::Execute()</a>, <a class="el" href="../../#l00077">SQLQueryHolderTask::Execute()</a>, <a class="el" href="../../#l00170">ModuleDatabasePool::Query()</a>, and <a class="el" href="../../#l00135">ModuleDatabasePool::Query()</a>.</p>
 
 </div>
 </div>
@@ -1683,7 +1687,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  478</span>    <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#aba6677ab672aece8ec00b4a3c33aeff4">m_Mutex</a>.unlock();</div>
 <div class="line"><span class="lineno">  479</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00115">m_Mutex</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00116">m_Mutex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00199">ModuleDatabasePool::DirectCommitTransaction()</a>, <a class="el" href="../../#l00122">ModuleDatabasePool::DirectExecute()</a>, <a class="el" href="../../#l00155">ModuleDatabasePool::Execute()</a>, <a class="el" href="../../#l00170">ModuleDatabasePool::Query()</a>, and <a class="el" href="../../#l00135">ModuleDatabasePool::Query()</a>.</p>
 
 </div>
 </div>
@@ -1701,6 +1707,28 @@ template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">friend class <a class="el" href="../../d1/d49/classDatabaseWorkerPool.html">DatabaseWorkerPool</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaeb95f0085e90a3270c273b1873a587d" name="aaeb95f0085e90a3270c273b1873a587d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaeb95f0085e90a3270c273b1873a587d">&#9670;&#160;</a></span>ModuleDatabasePool</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d1/d40/classModuleDatabasePool.html">ModuleDatabasePool</a></td>
         </tr>
       </table>
   </td>
@@ -1937,7 +1965,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00074">Close()</a>, <a class="el" href="../../#l00021">CharacterDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00021">LoginDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00021">WorldDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, and <a class="el" href="../../#l00505">PrepareStatement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00074">Close()</a>, <a class="el" href="../../#l00021">CharacterDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00021">LoginDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00021">WorldDatabaseConnection::DoPrepareStatements()</a>, <a class="el" href="../../#l00491">GetPreparedStatement()</a>, <a class="el" href="../../#l00505">PrepareStatement()</a>, and <a class="el" href="../../#l00075">ModuleDatabasePool::PrepareStatements()</a>.</p>
 
 </div>
 </div>
@@ -1977,7 +2005,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/db3/classMySQLConnection.html">MySQLConnection</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 10:59:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:33:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

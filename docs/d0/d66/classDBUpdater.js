@@ -1,9 +1,6 @@
 var classDBUpdater =
 [
     [ "Path", "d0/d66/classDBUpdater.html#a8e14a1b2501580674ae1e2f4baed3b31", null ],
-    [ "Apply", "d0/d66/classDBUpdater.html#a4c57e0e07d384f0bd0622e40965fbe0a", null ],
-    [ "ApplyFile", "d0/d66/classDBUpdater.html#a8594bcbe35f1ea0e55ac2661671dab91", null ],
-    [ "ApplyFile", "d0/d66/classDBUpdater.html#a3014d597c6e9b501dac403cf6e6a35b9", null ],
     [ "Create", "d0/d66/classDBUpdater.html#a5d74c8144ba217bd72baa89549bc7985", null ],
     [ "GetBaseFilesDirectory", "d0/d66/classDBUpdater.html#ac9174a612ddd80249ff6f7dd6ba72e3b", null ],
     [ "GetBaseFilesDirectory", "d0/d66/classDBUpdater.html#ae791a0ab4068b76860a5503e94028b90", null ],
@@ -18,16 +15,20 @@ var classDBUpdater =
     [ "GetDBModuleName", "d0/d66/classDBUpdater.html#a62f2e1fea15869b61b4be76c4dd9cb75", null ],
     [ "GetDBModuleName", "d0/d66/classDBUpdater.html#a307a8c73dca871a5ef551ac6fc6f6c9f", null ],
     [ "GetDBModuleName", "d0/d66/classDBUpdater.html#af1edc78d5fff2964c8aeade0914627a0", null ],
+    [ "GetSourceDirectory", "d0/d66/classDBUpdater.html#a0aee52e68ffa7268aebcb5b10ca33e05", null ],
+    [ "GetSourceDirectory", "d0/d66/classDBUpdater.html#a9d08202a651710393fdc8a4c1cc743fc", null ],
+    [ "GetSourceDirectory", "d0/d66/classDBUpdater.html#a0477309b4aacc78d26b656a98e04c813", null ],
+    [ "GetSourceDirectory", "d0/d66/classDBUpdater.html#a2188d076f3bd9757b40408b6f576fe38", null ],
     [ "GetTableName", "d0/d66/classDBUpdater.html#ad0caf6c5d7ba28efadc14a9ebac43c9e", null ],
     [ "GetTableName", "d0/d66/classDBUpdater.html#a2e6794ed3f52fa52e03bcf4792d4c194", null ],
     [ "GetTableName", "d0/d66/classDBUpdater.html#abde87bf69cbf0aa48e2c7be6799f3754", null ],
     [ "GetTableName", "d0/d66/classDBUpdater.html#a61e8308a7e8feaec9ddcd9cc9d952a63", null ],
+    [ "GetUpdaterInfo", "d0/d66/classDBUpdater.html#aa316dec4c91143f3bfc9253c0cd0bbd3", null ],
     [ "IsEnabled", "d0/d66/classDBUpdater.html#a832f3d52780e35a67486c3028aa5c5bb", null ],
     [ "IsEnabled", "d0/d66/classDBUpdater.html#afb3804b72ca248745c88fdcf6708dd83", null ],
     [ "IsEnabled", "d0/d66/classDBUpdater.html#adbdd53aa05764d55960e87b8911723b7", null ],
     [ "IsEnabled", "d0/d66/classDBUpdater.html#aa4bd2974f787e0ef294e82863f0b11c8", null ],
     [ "Populate", "d0/d66/classDBUpdater.html#accc1bcaf3ec3cabc8bfbd976b6804e3e", null ],
-    [ "Retrieve", "d0/d66/classDBUpdater.html#a2b775714659eec97e62010e8cde62328", null ],
     [ "Update", "d0/d66/classDBUpdater.html#a5cafc768301dbfa02e79afa5c0d07ecb", null ],
     [ "Update", "d0/d66/classDBUpdater.html#a261c8c0fbf6d0532436ce0457617f238", null ]
 ];

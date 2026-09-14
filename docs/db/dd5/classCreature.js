@@ -137,7 +137,7 @@ var classCreature =
     [ "IsFreeToMove", "db/dd5/classCreature.html#a2b6328798457f01a979d8a096efc2bd2", null ],
     [ "IsGuard", "db/dd5/classCreature.html#af04dcde6450a79eac41b53df9549c993", null ],
     [ "IsImmunedToSpell", "db/dd5/classCreature.html#a22cbdca149b752e92820dcf9c3c4255a", null ],
-    [ "IsImmunedToSpellEffect", "db/dd5/classCreature.html#ad92b88f1a748368af7bf2ff848928d2c", null ],
+    [ "IsImmunedToSpellEffect", "db/dd5/classCreature.html#a9446376243c4cc1dea7375360a1fb9ec", null ],
     [ "IsImmuneToKnockback", "db/dd5/classCreature.html#a18fdd336d8a720d8279974ed0253eed2", null ],
     [ "IsInEvadeMode", "db/dd5/classCreature.html#aef9d08b3201a7ca820db28b6bbdd9463", null ],
     [ "IsInvisibleDueToDespawn", "db/dd5/classCreature.html#a8ecaf02862224e9d25423760afd45d12", null ],

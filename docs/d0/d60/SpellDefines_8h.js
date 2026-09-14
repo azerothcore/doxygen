@@ -2,6 +2,8 @@ var SpellDefines_8h =
 [
     [ "CustomSpellValues", "d0/dae/classCustomSpellValues.html", "d0/dae/classCustomSpellValues" ],
     [ "SpellImmune", "dd/dcd/structSpellImmune.html", "dd/dcd/structSpellImmune" ],
+    [ "CastSpellTargetArg", "d0/d51/structCastSpellTargetArg.html", "d0/d51/structCastSpellTargetArg" ],
+    [ "CastSpellExtraArgs", "d8/d35/structCastSpellExtraArgs.html", "d8/d35/structCastSpellExtraArgs" ],
     [ "MAX_SPELLMOD", "d0/d60/SpellDefines_8h.html#ae3264dd4fffa9d9f378061c12b25b991", null ],
     [ "CustomSpellValueMod", "d0/d60/SpellDefines_8h.html#a9712a6b6a8f9f5f194085aed5e4ef7b4", null ],
     [ "SpellImmuneList", "d0/d60/SpellDefines_8h.html#af3217da0ade707b636c550ca6a151251", null ],

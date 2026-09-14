@@ -27,6 +27,7 @@ var classSpellScript =
     [ "GetExplTargetItem", "df/d92/classSpellScript.html#a1a0656c9f2b3ff11078f5cbf5168b3e6", null ],
     [ "GetExplTargetUnit", "df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767", null ],
     [ "GetExplTargetWorldObject", "df/d92/classSpellScript.html#a8cb24d6fead886579688b8a4cd57c63d", null ],
+    [ "GetGObjCaster", "df/d92/classSpellScript.html#ac67c99868e062687a716b33c4e874c18", null ],
     [ "GetHitAura", "df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd", null ],
     [ "GetHitCreature", "df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a", null ],
     [ "GetHitDamage", "df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493", null ],

@@ -92,5 +92,6 @@ var spell__priest_8cpp =
       [ "SPELL_PRIEST_DIVINE_PROVIDENCE_R1", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faead2486496bee0d1c950addeca1be8ae", null ]
     ] ],
     [ "AddSC_priest_spell_scripts", "de/d21/spell__priest_8cpp.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "CalculateSpellAmount", "de/d21/spell__priest_8cpp.html#abd19b76a117934f1d1b241ca48cc12ae", null ]
+    [ "CalculateSpellAmount", "de/d21/spell__priest_8cpp.html#abd19b76a117934f1d1b241ca48cc12ae", null ],
+    [ "IsLightwellEntry", "de/d21/spell__priest_8cpp.html#a554505145d7e041453b78da8c2129c65", null ]
 ];

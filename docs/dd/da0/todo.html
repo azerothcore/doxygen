@@ -192,7 +192,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878">ByteBuffer::read&lt; std::string &gt;</a>  ()</dt>
 <dd><a class="anchor" id="_todo000249"></a>Make a <a class="el" href="../../d6/d60/ByteBuffer_8cpp.html">ByteBuffer.cpp</a> and move all this inlining to it.  </dd>
 <dt>Member <a class="el" href="../../d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6de">CharacterFlags</a>  </dt>
-<dd><a class="anchor" id="_todo000043"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
+<dd><a class="anchor" id="_todo000046"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../db/dd5/classCreature.html#ab6b53aeb869c6542525bddfad563098a">Creature::CanAssistTo</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *u, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *enemy, bool checkfaction=true) const</dt>
 <dd><a class="anchor" id="_todo000031"></a>: Implement aggro range, detection range and assistance range templates  </dd>
 <dt>Member <a class="el" href="../../db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c">Creature::SelectLevel</a>  (bool changelevel=true)</dt>
@@ -244,9 +244,9 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../de/d1c/classGameObject.html#af7301d48623a8b169565a540ae42fdf5">GameObject::ModifyHealth</a>  (int32 change, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *attackerOrHealer=nullptr, uint32 spellId=0)</dt>
 <dd><a class="anchor" id="_todo000037"></a>: is there any packet for healing?  </dd>
 <dt>Member <a class="el" href="../../de/d1c/classGameObject.html#ae38c7dd568ca56e2736bd0bb1c89ed8b">GameObject::Update</a>  (uint32 p_time) override</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000034"></a>This is activation radius. Casting radius must be selected from spell data. </p>
-<p class="interdd"><a class="anchor" id="_todo000035"></a></p>
-<p class="enddd"><a class="anchor" id="_todo000036"></a>Move activated state code to GO_ACTIVATED, in this place just check for activation and set state.  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000036"></a>Move activated state code to GO_ACTIVATED, in this place just check for activation and set state. </p>
+<p class="interdd"><a class="anchor" id="_todo000034"></a>This is activation radius. Casting radius must be selected from spell data. </p>
+<p class="enddd"><a class="anchor" id="_todo000035"></a> </p>
 </dd>
 <dt>Member <a class="el" href="../../db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038">Garments</a>  </dt>
 <dd><a class="anchor" id="_todo000207"></a>get text for each NPC  </dd>
@@ -259,7 +259,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d1/da2/classgobject__commandscript.html#a23717867956cc0da99e3640d2b790346">gobject_commandscript::HandleGameObjectAddCommand</a>  (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, GameObjectEntry objectId, Optional&lt; int32 &gt; spawnTimeSecs)</dt>
 <dd><a class="anchor" id="_todo000156"></a>is it really necessary to add both the real and DB table guid here ?  </dd>
 <dt>Member <a class="el" href="../../db/d90/classGuardian.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b">Guardian::InitStatsForLevel</a>  (uint8 level)</dt>
-<dd><a class="anchor" id="_todo000042"></a>: Move stat mods code to pet passive auras  </dd>
+<dd><a class="anchor" id="_todo000045"></a>: Move stat mods code to pet passive auras  </dd>
 <dt>Member <a class="el" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e">HunterSpells</a>  </dt>
 <dd><a class="anchor" id="_todo000199"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d0/d76/structinstance__blackwing__lair.html#a71e2889ad19c4d445b1a9e3e852f5408">instance_blackwing_lair::SetBossState</a>  (uint32 type, EncounterState state) override</dt>
@@ -341,35 +341,35 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <p class="enddd"><a class="anchor" id="_todo000094"></a>play with the values here  </p>
 </dd>
 <dt>Member <a class="el" href="../../df/d14/classPet.html#a6628391579f132dd36b5e8af5ea97f12">Pet::LoadPetFromDB</a>  (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *owner, uint32 petEntry, uint32 petnumber, bool current, uint32 healthPct=0, bool fullMana=false)</dt>
-<dd><a class="anchor" id="_todo000041"></a>pets should be summoned from real cast instead of just faking it?  </dd>
+<dd><a class="anchor" id="_todo000044"></a>pets should be summoned from real cast instead of just faking it?  </dd>
 <dt>Member <a class="el" href="../../db/da4/classPetAI.html#add179efcb9c2ed0dd01aa3b2ac74004b">PetAI::SelectNextTarget</a>  (bool allowAutoSelect) const</dt>
 <dd><a class="anchor" id="_todo000009"></a>: try for another target  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a107e0be6e83289162958bd63740896d0">Player::_addSpell</a>  (uint32 spellId, uint8 addSpecMask, bool temporary, bool learnFromSkill=false)</dt>
-<dd><a class="anchor" id="_todo000049"></a>confirm if rogues start wth lockpicking skill at level 1 but only recieve the spell to use it at level 16  </dd>
+<dd><a class="anchor" id="_todo000052"></a>confirm if rogues start wth lockpicking skill at level 1 but only recieve the spell to use it at level 16  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a880f923297cbcb633e779211cb0491d5">Player::CanUninviteFromGroup</a>  (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> targetPlayerGUID=<a class="el" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>) const</dt>
-<dd><a class="anchor" id="_todo000051"></a>: Should also be sent when anyone has recently left combat, with an aprox ~5 seconds timer.  </dd>
+<dd><a class="anchor" id="_todo000054"></a>: Should also be sent when anyone has recently left combat, with an aprox ~5 seconds timer.  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#afe61127b89674eafbd247abd747de7cb">Player::CanUseItem</a>  (<a class="el" href="../../d0/dae/classItem.html">Item</a> *pItem, bool not_loading=true) const</dt>
-<dd><a class="anchor" id="_todo000054"></a>: when you right-click already equipped item it throws EQUIP_ERR_NO_REQUIRED_PROFICIENCY.  </dd>
+<dd><a class="anchor" id="_todo000057"></a>: when you right-click already equipped item it throws EQUIP_ERR_NO_REQUIRED_PROFICIENCY.  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a65bb3db597d1270dc003940447d1c594">Player::Create</a>  (<a class="el" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guidlow, <a class="el" href="../../db/d17/classCharacterCreateInfo.html">CharacterCreateInfo</a> *createInfo)</dt>
-<dd><a class="anchor" id="_todo000044"></a>: need more checks against packet modifications  </dd>
+<dd><a class="anchor" id="_todo000047"></a>: need more checks against packet modifications  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a3cfde27f7bf5836d52e9219c53035399">Player::GetDodgeFromAgility</a>  (float &amp;diminishing, float &amp;nondiminishing)</dt>
-<dd><a class="anchor" id="_todo000050"></a>: research if talents/effects that increase total agility by x% should increase non-diminishing part  </dd>
+<dd><a class="anchor" id="_todo000053"></a>: research if talents/effects that increase total agility by x% should increase non-diminishing part  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a21733ac1a37808b9c1b76b2167d17fb1">Player::GiveLevel</a>  (uint8 level)</dt>
-<dd><a class="anchor" id="_todo000048"></a>find some better solution  </dd>
+<dd><a class="anchor" id="_todo000051"></a>find some better solution  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#acd2de16de2e3ffc77b0440a4b4447136">Player::HandleDrowning</a>  (uint32 time_diff)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000045"></a>: Check this formula </p>
-<p class="enddd"><a class="anchor" id="_todo000046"></a>: Check this formula  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000048"></a>: Check this formula </p>
+<p class="enddd"><a class="anchor" id="_todo000049"></a>: Check this formula  </p>
 </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a236ffb188a4dc65c0493c6c0254add8e">Player::Regenerate</a>  (Powers power)</dt>
-<dd><a class="anchor" id="_todo000047"></a>: possible use of miscvalueb instead of amount  </dd>
+<dd><a class="anchor" id="_todo000050"></a>: possible use of miscvalueb instead of amount  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a558ae516e2abd8e8be169518d7209053">Player::SendPreparedQuest</a>  (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid)</dt>
-<dd><a class="anchor" id="_todo000052"></a>verify if check for !quest-&gt;IsDaily() is really correct (possibly not)  </dd>
+<dd><a class="anchor" id="_todo000055"></a>verify if check for !quest-&gt;IsDaily() is really correct (possibly not)  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#ae23f409c33c100b59edddc9986335bbb">Player::SetVirtualItemSlot</a>  (uint8 i, <a class="el" href="../../d0/dae/classItem.html">Item</a> *item)</dt>
-<dd><a class="anchor" id="_todo000053"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
+<dd><a class="anchor" id="_todo000056"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#a3d1d239c7d4c925f73e036371f3679c2">Player::Update</a>  (uint32 time) override</dt>
-<dd><a class="anchor" id="_todo000056"></a>add weapon, skill check  </dd>
+<dd><a class="anchor" id="_todo000059"></a>add weapon, skill check  </dd>
 <dt>Member <a class="el" href="../../d2/d4b/classPlayer.html#ab0a89fbfeb233f45420d3b7ff016ada6">Player::UpdateFFAPvPState</a>  (bool reset=true)</dt>
-<dd><a class="anchor" id="_todo000057"></a>: should we always synchronize UNIT_FIELD_BYTES_2, 1 of controller  </dd>
+<dd><a class="anchor" id="_todo000060"></a>: should we always synchronize UNIT_FIELD_BYTES_2, 1 of controller  </dd>
 <dt>Member <a class="el" href="../../d9/d98/classPlayerDumpWriter.html#a17457008e1262c0aed284469e55841c6">PlayerDumpWriter::GetDump</a>  (<a class="el" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> guid, std::string &amp;dump)</dt>
 <dd><p class="startdd"><a class="anchor" id="_todo000151"></a></p>
 <p class="interdd"><a class="anchor" id="_todo000152"></a>Add a dump level option to skip some non-important tables </p>
@@ -444,12 +444,12 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#ae725849679772b2ba09107720606bea4">Spell::IsAutoActionResetSpell</a>  () const</dt>
 <dd><a class="anchor" id="_todo000129"></a>changed SPELL_INTERRUPT_FLAG_AUTOATTACK -&gt; SPELL_INTERRUPT_FLAG_INTERRUPT to fix compile - is this check correct at all?  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#a1072304b8d45c2a33fbb6802583cbef0">Spell::PrepareTriggersExecutedOnHit</a>  ()</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000131"></a>: move this to scripts </p>
-<p class="enddd"><a class="anchor" id="_todo000130"></a>: move this to scripts  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000130"></a>: move this to scripts </p>
+<p class="enddd"><a class="anchor" id="_todo000131"></a>: move this to scripts  </p>
 </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#abab498e09375d4d37fb48f8f5daeb30f">Spell::SelectEffectTypeImplicitTargets</a>  (uint8 effIndex)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000118"></a>: this is a workaround - corpses should be added to spell target map too, but we can't do that so we add owner instead </p>
-<p class="enddd"><a class="anchor" id="_todo000117"></a>: this is a workaround - target shouldn't be stored in target map for those spells  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000117"></a>: this is a workaround - target shouldn't be stored in target map for those spells </p>
+<p class="enddd"><a class="anchor" id="_todo000118"></a>: this is a workaround - corpses should be added to spell target map too, but we can't do that so we add owner instead  </p>
 </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#ae0145f14c4a608000c5b928e9cb4e099">Spell::SelectImplicitCasterDestTargets</a>  (SpellEffIndex effIndex, <a class="el" href="../../d0/da4/classSpellImplicitTargetInfo.html">SpellImplicitTargetInfo</a> const &amp;targetType)</dt>
 <dd><a class="anchor" id="_todo000116"></a>fix this check  </dd>
@@ -478,8 +478,8 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d3/db0/cs__misc_8cpp.html#a1706df7feb0ef4f693c388033ace5fb7">SPELL_STUCK</a>  </dt>
 <dd><a class="anchor" id="_todo000158"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Member <a class="el" href="../../d5/d43/SpellEffects_8cpp.html#a294b5954f08aebdafe9e5a6f00e2dc82">SpellEffects</a>  [TOTAL_SPELL_EFFECTS]</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000115"></a>: this import is not necessary for compilation and marked as unused by the IDE </p>
-<p class="enddd"><a class="anchor" id="_todo000132"></a>: this import is not necessary for compilation and marked as unused by the IDE  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000132"></a>: this import is not necessary for compilation and marked as unused by the IDE </p>
+<p class="enddd"><a class="anchor" id="_todo000115"></a>: this import is not necessary for compilation and marked as unused by the IDE  </p>
 </dd>
 <dt>Member <a class="el" href="../../de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a679d126c8b099282bf161092f9bf1cf2">SPELLFAMILYFLAG_SHAMAN_TOTEM_EFFECTS</a>  </dt>
 <dd><a class="anchor" id="_todo000148"></a>: Figure out a more accurate name for the following familyflag(s)  </dd>
@@ -538,37 +538,31 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d1/d88/structTurretAI.html#a47c1c38ddcc1f473104fb698fe338684">TurretAI::CanAIAttack</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *who) const override</dt>
 <dd><a class="anchor" id="_todo000008"></a>: use one function to replace it  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a8d910c36ac5d61171ee5ddaeb696292c">Unit::Attack</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, bool meleeAttack)</dt>
-<dd><a class="anchor" id="_todo000062"></a>: Implement aggro range, detection range and assistance range templates  </dd>
+<dd><a class="anchor" id="_todo000063"></a>: Implement aggro range, detection range and assistance range templates  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a>  (<a class="el" href="../../d4/d3a/classSpellCastTargets.html">SpellCastTargets</a> const &amp;targets, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d0/dae/classCustomSpellValues.html">CustomSpellValues</a> const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, <a class="el" href="../../d0/dae/classItem.html">Item</a> *castItem=nullptr, <a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> const *triggeredByAura=nullptr, <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> originalCaster=<a class="el" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>)</dt>
-<dd><a class="anchor" id="_todo000058"></a>: this is a workaround - not needed anymore, but required for some scripts :(  </dd>
+<dd><a class="anchor" id="_todo000061"></a>: this is a workaround - not needed anymore, but required for some scripts :(  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#ad330a634cb3f9e8f57f83381da974f5a">Unit::DealDamageShieldDamage</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim)</dt>
-<dd><a class="anchor" id="_todo000059"></a>: Move this to a packet handler  </dd>
+<dd><a class="anchor" id="_todo000062"></a>: Move this to a packet handler  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a>  () const</dt>
 <dd><a class="anchor" id="_todo000072"></a>: move this in <a class="el" href="../../d8/d4b/classObject.html">Object</a> class or move GetUInt32value here but keep consistency  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *killer, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellProto=nullptr, <a class="el" href="../../d1/d16/classSpell.html">Spell</a> const *spell=nullptr)</dt>
 <dd><a class="anchor" id="_todo000069"></a>: do instance binding anyway if the charmer/owner is offline  </dd>
-<dt>Member <a class="el" href="../../df/dd9/classUnit.html#ab9c186b46da7139d5da042b142f845ad">Unit::ModSpellCastTime</a>  (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellProto, int32 &amp;castTime, <a class="el" href="../../d1/d16/classSpell.html">Spell</a> *spell=nullptr)</dt>
-<dd><a class="anchor" id="_todo000068"></a>:(MadAgos) Eventually check and delete the bool argument  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#ab0e60001cb1e64b243e1874b82ce93ac">Unit::RemovePlayerFromVision</a>  (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player)</dt>
-<dd><a class="anchor" id="_todo000064"></a>: This isn't right, if a previously active object was set to active with e.g. Mind Vision this will make them no longer active  </dd>
+<dd><a class="anchor" id="_todo000065"></a>: This isn't right, if a previously active object was set to active with e.g. Mind Vision this will make them no longer active  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a>  (WeaponAttackType type=BASE_ATTACK)</dt>
 <dd><a class="anchor" id="_todo000074"></a>- Look to convert to std::chrono  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a4c962e74f029779c6250302636a5f8e6">Unit::SetCharm</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *target, bool apply)</dt>
-<dd><a class="anchor" id="_todo000063"></a>: maybe we can use this flag to check if controlled by player  </dd>
+<dd><a class="anchor" id="_todo000064"></a>: maybe we can use this flag to check if controlled by player  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">Unit::SetFacingToObject</a>  (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *object, Milliseconds timed=0ms)</dt>
 <dd><a class="anchor" id="_todo000070"></a>figure out under what conditions creature will move towards object instead of facing it where it currently is.  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#aa6ce8b2e82075c03c6086fdb83b9ab35">Unit::SpellCriticalHealingBonus</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *caster, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellProto, uint32 damage, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *victim)</dt>
-<dd><a class="anchor" id="_todo000066"></a>: write here full calculation for melee/ranged spells  </dd>
-<dt>Member <a class="el" href="../../df/dd9/classUnit.html#aa965ffc2869aa61458fded9dfbd89768">Unit::SpellHitResult</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, <a class="el" href="../../d1/d16/classSpell.html">Spell</a> const *spell, bool canReflect=false)</dt>
-<dd><a class="anchor" id="_todo000061"></a>: client not show miss log for this spells - so need find info for this in dbc and use it!  </dd>
-<dt>Member <a class="el" href="../../df/dd9/classUnit.html#a8698eb184506578c00250d3c4c352722">Unit::SpellHitResult</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spell, bool canReflect=false)</dt>
-<dd><a class="anchor" id="_todo000060"></a>: client not show miss log for this spells - so need find info for this in dbc and use it!  </dd>
+<dd><a class="anchor" id="_todo000067"></a>: write here full calculation for melee/ranged spells  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a19b843f2c35e489dbaf84213288e1bbe">Unit::SpellTakenCritChance</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *caster, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellProto, SpellSchoolMask schoolMask, float doneChance, WeaponAttackType attackType, bool skipEffectCheck) const</dt>
-<dd><a class="anchor" id="_todo000065"></a>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked.  </dd>
+<dd><a class="anchor" id="_todo000066"></a>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked.  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc">Unit::ToPet</a>  ()</dt>
 <dd><a class="anchor" id="_todo000073"></a>: move this in <a class="el" href="../../d8/d4b/classObject.html">Object</a> ckass as others casting pointers  </dd>
 <dt>Member <a class="el" href="../../df/dd9/classUnit.html#ac85eb152580735addb4e7022ae2b3d4c">Unit::UpdateSpeed</a>  (UnitMoveType mtype, bool forced)</dt>
-<dd><a class="anchor" id="_todo000067"></a>possible affect only on MOVE_RUN  </dd>
+<dd><a class="anchor" id="_todo000068"></a>possible affect only on MOVE_RUN  </dd>
 <dt>Member <a class="el" href="../../d0/ddd/classUnitAI.html#a201d5172cecf024e16cd3cad9ed99623">UnitAI::JustEnteredCombat</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *)</dt>
 <dd><a class="anchor" id="_todo000012"></a>Never invoked right now. Preparation for Combat Threat refactor  </dd>
 <dt>Member <a class="el" href="../../d8/d9f/classUnitAura.html#add5ce04446338e078c5986420abfd16e">UnitAura::FillTargetMap</a>  (std::map&lt; Unit *, uint8 &gt; &amp;targets, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *caster) override</dt>
@@ -585,13 +579,19 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dd><a class="anchor" id="_todo000256"></a>: compress to bit field  </dd>
 <dt>Member <a class="el" href="../../d6/d39/classWorld.html#a5844e926808161034ab8e94ddcd113ee">World::getAllowMovement</a>  () const override</dt>
 <dd><a class="anchor" id="_todo000154"></a>Actions on m_allowMovement still to be implemented Is movement allowed?  </dd>
+<dt>Member <a class="el" href="../../d4/dd0/classWorldObject.html#a9aa1834cd32eface5af820974547ac70">WorldObject::ModSpellCastTime</a>  (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellProto, int32 &amp;castTime, <a class="el" href="../../d1/d16/classSpell.html">Spell</a> *spell=nullptr) const</dt>
+<dd><a class="anchor" id="_todo000041"></a>:(MadAgos) Eventually check and delete the bool argument  </dd>
+<dt>Member <a class="el" href="../../d4/dd0/classWorldObject.html#acd94bf13bfc0299ac273ad45fabe7f31">WorldObject::SpellHitResult</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, <a class="el" href="../../d1/d16/classSpell.html">Spell</a> const *spell, bool canReflect=false)</dt>
+<dd><a class="anchor" id="_todo000043"></a>: client not show miss log for this spells - so need find info for this in dbc and use it!  </dd>
+<dt>Member <a class="el" href="../../d4/dd0/classWorldObject.html#ac52ba551812443de3d254d98eae6e62a">WorldObject::SpellHitResult</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellInfo, bool canReflect=false)</dt>
+<dd><a class="anchor" id="_todo000042"></a>: client not show miss log for this spells - so need find info for this in dbc and use it!  </dd>
 <dt>Member <a class="el" href="../../d8/d74/classWorldSession.html#a29a70a4e237e15a2a76ffc5a17d2831c">WorldSession::HandleCalendarGetCalendar</a>  (<a class="el" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> &amp;recvData)</dt>
 <dd><a class="anchor" id="_todo000079"></a>: Fix this, how we do know how many and what holidays to send?  </dd>
 <dt>Member <a class="el" href="../../d8/d74/classWorldSession.html#a71d05311517ad35d39072ea808aae6fd">WorldSession::HandleCastSpellOpcode</a>  (<a class="el" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> &amp;recvPacket)</dt>
 <dd><a class="anchor" id="_todo000086"></a>: Preparation for #23204  </dd>
 <dt>Member <a class="el" href="../../d8/d74/classWorldSession.html#abb51ac5b8c3910c53d21fb22f7b95557">WorldSession::HandleCharCreateOpcode</a>  (<a class="el" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> &amp;recvPacket)</dt>
-<dd><p class="startdd"><a class="anchor" id="_todo000080"></a>what to if account already has characters of both races? </p>
-<p class="enddd"><a class="anchor" id="_todo000081"></a>check if cinematic already shown? (already logged in?; cinematic field)  </p>
+<dd><p class="startdd"><a class="anchor" id="_todo000081"></a>check if cinematic already shown? (already logged in?; cinematic field) </p>
+<p class="enddd"><a class="anchor" id="_todo000080"></a>what to if account already has characters of both races?  </p>
 </dd>
 <dt>Member <a class="el" href="../../d8/d74/classWorldSession.html#a8f639e76bbec1c643a5e2664056abe8e">WorldSession::HandleLogoutRequestOpcode</a>  (<a class="el" href="../../d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html">WorldPackets::Character::LogoutRequest</a> &amp;logoutRequest)</dt>
 <dd><a class="anchor" id="_todo000082"></a>: Possibly add RBAC permission to log out in combat  </dd>
@@ -610,7 +610,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../d2/d1b/classWorldSocket.html#aedad34b701aa41ce57fd8b5a4a5cb0f7">WorldSocket::ReadDataHandler</a>  ()</dt>
 <dd><a class="anchor" id="_todo000102"></a>: handle this packet in the same way of CMSG_TIME_SYNC_RESP  </dd>
 <dt>Member <a class="el" href="../../da/d64/PlayerUpdates_8cpp.html#afabbcd46bf6f03c5dca10b117810b710">ZONE_UPDATE_INTERVAL</a>  </dt>
-<dd><a class="anchor" id="_todo000055"></a>: this import is not necessary for compilation and marked as unused by the IDE </dd>
+<dd><a class="anchor" id="_todo000058"></a>: this import is not necessary for compilation and marked as unused by the IDE </dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
@@ -618,7 +618,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Sep 13 2026 10:59:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:33:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

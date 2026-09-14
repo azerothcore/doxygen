@@ -114,10 +114,13 @@ $(document).ready(function(){initNavTree('dc/df0/DBUpdater_8h.html','../../'); i
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseUpdatePool.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
 <code>#include &lt;filesystem&gt;</code><br />
 <code>#include &lt;string&gt;</code><br />
+<code>#include &lt;string_view&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -127,7 +130,11 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d66/classDBUpdaterUtil.html">DBUpdaterUtil</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d36/structDBUpdaterInfo.html">DBUpdaterInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/classModuleDBUpdater.html">ModuleDBUpdater</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
@@ -178,7 +185,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_ac632e0cb7d565e729369f2b018d776c.html">Updater</a></li><li class="navelem"><a class="el" href="../../dc/df0/DBUpdater_8h.html">DBUpdater.h</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 10:59:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:33:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

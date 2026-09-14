@@ -31,6 +31,7 @@ var classMySQLConnection =
     [ "RollbackTransaction", "d5/db3/classMySQLConnection.html#a5b774adbbd056adf560f9b7cfcf2393a", null ],
     [ "Unlock", "d5/db3/classMySQLConnection.html#ab2a72378169f8cb860c9c217a198f97b", null ],
     [ "DatabaseWorkerPool", "d5/db3/classMySQLConnection.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "ModuleDatabasePool", "d5/db3/classMySQLConnection.html#aaeb95f0085e90a3270c273b1873a587d", null ],
     [ "PingOperation", "d5/db3/classMySQLConnection.html#aa254e4dbbdf587d4c97b626ddd33a501", null ],
     [ "m_connectionFlags", "d5/db3/classMySQLConnection.html#aa9a08dc366602dfb95e58b02a9eb1063", null ],
     [ "m_connectionInfo", "d5/db3/classMySQLConnection.html#a4e958b3355a1b39ea672dc27dd38366a", null ],

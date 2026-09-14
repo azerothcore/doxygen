@@ -400,11 +400,11 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aDatabaseEnvFwd_8h_html_ad8826e834522c9cacfd021d4529b4f87"><div class="ttname"><a href="../../d0/d5e/DatabaseEnvFwd_8h.html#ad8826e834522c9cacfd021d4529b4f87">TransactionFuture</a></div><div class="ttdeci">std::future&lt; bool &gt; TransactionFuture</div><div class="ttdef"><b>Definition</b> DatabaseEnvFwd.h:58</div></div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
 <div class="ttc" id="aclassDatabaseWorkerPool_html_a2abae7a058f85531e85c2c6bf54d3012"><div class="ttname"><a href="../../d1/d49/classDatabaseWorkerPool.html#a2abae7a058f85531e85c2c6bf54d3012">DatabaseWorkerPool::Enqueue</a></div><div class="ttdeci">void Enqueue(SQLOperation *op)</div><div class="ttdef"><b>Definition</b> DatabaseWorkerPool.cpp:474</div></div>
-<div class="ttc" id="aclassTransactionCallback_html"><div class="ttname"><a href="../../db/df0/classTransactionCallback.html">TransactionCallback</a></div><div class="ttdef"><b>Definition</b> Transaction.h:109</div></div>
-<div class="ttc" id="aclassTransactionWithResultTask_html"><div class="ttname"><a href="../../d8/d06/classTransactionWithResultTask.html">TransactionWithResultTask</a></div><div class="ttdef"><b>Definition</b> Transaction.h:96</div></div>
-<div class="ttc" id="aclassTransactionWithResultTask_html_a5bc976207b1d695c8e8c052b0eacc7a6"><div class="ttname"><a href="../../d8/d06/classTransactionWithResultTask.html#a5bc976207b1d695c8e8c052b0eacc7a6">TransactionWithResultTask::GetFuture</a></div><div class="ttdeci">TransactionFuture GetFuture()</div><div class="ttdef"><b>Definition</b> Transaction.h:100</div></div>
+<div class="ttc" id="aclassTransactionCallback_html"><div class="ttname"><a href="../../db/df0/classTransactionCallback.html">TransactionCallback</a></div><div class="ttdef"><b>Definition</b> Transaction.h:110</div></div>
+<div class="ttc" id="aclassTransactionWithResultTask_html"><div class="ttname"><a href="../../d8/d06/classTransactionWithResultTask.html">TransactionWithResultTask</a></div><div class="ttdef"><b>Definition</b> Transaction.h:97</div></div>
+<div class="ttc" id="aclassTransactionWithResultTask_html_a5bc976207b1d695c8e8c052b0eacc7a6"><div class="ttname"><a href="../../d8/d06/classTransactionWithResultTask.html#a5bc976207b1d695c8e8c052b0eacc7a6">TransactionWithResultTask::GetFuture</a></div><div class="ttdeci">TransactionFuture GetFuture()</div><div class="ttdef"><b>Definition</b> Transaction.h:101</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">TransactionWithResultTask::GetFuture()</a>, and <a class="el" href="../../#l00157">LOG_DEBUG</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00101">TransactionWithResultTask::GetFuture()</a>, and <a class="el" href="../../#l00157">LOG_DEBUG</a>.</p>
 
 </div>
 </div>
@@ -579,7 +579,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  276</span> </div>
 <div class="line"><span class="lineno">  277</span>    <a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a2abae7a058f85531e85c2c6bf54d3012">Enqueue</a>(<span class="keyword">new</span> <a class="code hl_class" href="../../dd/d2c/classTransactionTask.html">TransactionTask</a>(transaction));</div>
 <div class="line"><span class="lineno">  278</span>}</div>
-<div class="ttc" id="aclassTransactionTask_html"><div class="ttname"><a href="../../dd/d2c/classTransactionTask.html">TransactionTask</a></div><div class="ttdef"><b>Definition</b> Transaction.h:75</div></div>
+<div class="ttc" id="aclassTransactionTask_html"><div class="ttname"><a href="../../dd/d2c/classTransactionTask.html">TransactionTask</a></div><div class="ttdef"><b>Definition</b> Transaction.h:76</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00157">LOG_DEBUG</a>.</p>
 
@@ -725,7 +725,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  544</span>    connection-&gt;Unlock();</div>
 <div class="line"><span class="lineno">  545</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00455">DBUpdater&lt; T &gt;::Apply()</a>, and <a class="el" href="../../#l00110">DatabaseWorkerPool&lt; T &gt;::DirectExecute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00110">DatabaseWorkerPool&lt; T &gt;::DirectExecute()</a>.</p>
 
 </div>
 </div>
@@ -1103,8 +1103,6 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aclassDatabaseWorkerPool_html_a4b545f574e6c28675137a4735ff9d070"><div class="ttname"><a href="../../d1/d49/classDatabaseWorkerPool.html#a4b545f574e6c28675137a4735ff9d070">DatabaseWorkerPool::_connectionInfo</a></div><div class="ttdeci">std::unique_ptr&lt; MySQLConnectionInfo &gt; _connectionInfo</div><div class="ttdef"><b>Definition</b> DatabaseWorkerPool.h:234</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00234">DatabaseWorkerPool&lt; T &gt;::_connectionInfo</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00461">DBUpdater&lt; T &gt;::ApplyFile()</a>, <a class="el" href="../../#l00468">DBUpdater&lt; T &gt;::ApplyFile()</a>, <a class="el" href="../../#l00190">DBUpdater&lt; T &gt;::Create()</a>, and <a class="el" href="../../#l00240">DBUpdater&lt; T &gt;::Update()</a>.</p>
 
 </div>
 </div>
@@ -1543,7 +1541,7 @@ template&lt;class T &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00055">ResultSet::GetRowCount()</a>, and <a class="el" href="../../#l00188">ResultSet::NextRow()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00133">DatabaseWorkerPool&lt; T &gt;::Query()</a>, and <a class="el" href="../../#l00449">DBUpdater&lt; T &gt;::Retrieve()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00133">DatabaseWorkerPool&lt; T &gt;::Query()</a>.</p>
 
 </div>
 </div>
@@ -1856,7 +1854,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d49/classDatabaseWorkerPool.html">DatabaseWorkerPool</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 10:59:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:33:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

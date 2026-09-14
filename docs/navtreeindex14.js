@@ -1,5 +1,17 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a020bcd95e6523fecf7e2981953107455":[8,0,0,0,1,2,8,1,11,10,10],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a036151610864be65400d995dc234afc3":[8,0,0,0,1,2,8,1,11,10,86],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a0cedba16166c4b3e113f09d5f3a51fea":[8,0,0,0,1,2,8,1,11,10,69],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a0d71a102314b4736c1235b313e097d88":[8,0,0,0,1,2,8,1,11,10,52],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a105b35fe12e93464ff1d949e69b6bd0b":[8,0,0,0,1,2,8,1,11,10,29],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a106cf724ee69f7f8bf8622733e3112c3":[8,0,0,0,1,2,8,1,11,10,102],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a15473ad469cbc6bdb58593f983117190":[8,0,0,0,1,2,8,1,11,10,91],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1586d28a4302cf70a82b191a96f05b59":[8,0,0,0,1,2,8,1,11,10,98],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1747b0834f88df533f6f2779824f9115":[8,0,0,0,1,2,8,1,11,10,89],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1a073d334d176cf83a7829e4dde189d2":[8,0,0,0,1,2,8,1,11,10,41],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1a437e43a34e783ede2859e417b77241":[8,0,0,0,1,2,8,1,11,10,48],
+"d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a1bb487cf2600f55ea08ddf6bf9ff1210":[8,0,0,0,1,2,8,1,11,10,21],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a209076ff524b36e49c90065c3c01fca9":[8,0,0,0,1,2,8,1,11,10,51],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a219ee3d280e1ea260eeb9b184dc5b777":[8,0,0,0,1,2,8,1,11,10,70],
 "d0/d91/BattlegroundIC_8h.html#a41caa75dc9a8bdf6bc67f14f8b5f6af9a2250de02b6a0531c86cb1e52d52efd13":[8,0,0,0,1,2,8,1,11,10,67],
@@ -237,17 +249,5 @@ var NAVTREEINDEX14 =
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac0c0f95efbe7afeb0072a81df6fa787a":[8,0,0,0,1,2,8,1,11,15,22],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac1071c75731d3303415c264e87688171":[8,0,0,0,1,2,8,1,11,15,46],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac2344792a57294937f3d781414cb42f2":[8,0,0,0,1,2,8,1,11,15,17],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac62e7f05f68fc898487a6e00b28a9938":[8,0,0,0,1,2,8,1,11,15,85],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac66870e59481ea70f05cfee46d34df0b":[8,0,0,0,1,2,8,1,11,15,86],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417acd7735d8ddcc0a48a36d57185a5d597c":[8,0,0,0,1,2,8,1,11,15,40],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ace51e045423513263496cdd7519b3965":[8,0,0,0,1,2,8,1,11,15,78],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ad32903c4624e85270a6dcbdd2bcd5d90":[8,0,0,0,1,2,8,1,11,15,2],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ad723df655ab9169aee0358d17d0a6330":[8,0,0,0,1,2,8,1,11,15,33],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ad81b8514fc5519908c2afce4cce73441":[8,0,0,0,1,2,8,1,11,15,1],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417addb6fc033929f2de2e0472d307b74664":[8,0,0,0,1,2,8,1,11,15,13],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ae02343396773ae8b9e3f3babc961d40f":[8,0,0,0,1,2,8,1,11,15,41],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ae2c8dbe4ba4ebac0a07cca5d2d881650":[8,0,0,0,1,2,8,1,11,15,58],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ae5d7b1ee6c892ac84ce04df9d210503f":[8,0,0,0,1,2,8,1,11,15,70],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ae6456bcc6cd76b070bb134bb23e0344f":[8,0,0,0,1,2,8,1,11,15,76],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417aeaeebaaf24db69a8e164a9ce23f62675":[8,0,0,0,1,2,8,1,11,15,65]
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417ac62e7f05f68fc898487a6e00b28a9938":[8,0,0,0,1,2,8,1,11,15,85]
 };

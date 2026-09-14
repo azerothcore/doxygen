@@ -185,9 +185,9 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(statement);</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>    {</div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_function" href="../../d1/df7/classTransactionBase.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(statement);</div>
+<div class="line"><span class="lineno">   71</span>    }</div>
 <div class="ttc" id="aclassTransactionBase_html_a8e099a4f8775b5e5e3b95ad0273a716f"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a8e099a4f8775b5e5e3b95ad0273a716f">TransactionBase::AppendPreparedStatement</a></div><div class="ttdeci">void AppendPreparedStatement(PreparedStatementBase *statement)</div><div class="ttdef"><b>Definition</b> Transaction.cpp:42</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00042">TransactionBase::AppendPreparedStatement()</a>.</p>
@@ -218,12 +218,12 @@ template&lt;typename T &gt; </div>
 <div class="line"><span class="lineno">   38</span>    <a class="code hl_variable" href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">m_queries</a>.emplace_back(data);</div>
 <div class="line"><span class="lineno">   39</span>}</div>
 <div class="ttc" id="aSQLOperation_8h_html_abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a"><div class="ttname"><a href="../../d6/d60/SQLOperation_8h.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a">SQL_ELEMENT_RAW</a></div><div class="ttdeci">@ SQL_ELEMENT_RAW</div><div class="ttdef"><b>Definition</b> SQLOperation.h:28</div></div>
-<div class="ttc" id="aclassTransactionBase_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition</b> Transaction.h:55</div></div>
+<div class="ttc" id="aclassTransactionBase_html_a156f1a8316358c05285778e5734eade1"><div class="ttname"><a href="../../d1/df7/classTransactionBase.html#a156f1a8316358c05285778e5734eade1">TransactionBase::m_queries</a></div><div class="ttdeci">std::vector&lt; SQLElementData &gt; m_queries</div><div class="ttdef"><b>Definition</b> Transaction.h:56</div></div>
 <div class="ttc" id="astructSQLElementData_html"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html">SQLElementData</a></div><div class="ttdef"><b>Definition</b> SQLOperation.h:34</div></div>
 <div class="ttc" id="astructSQLElementData_html_ae5400b2932fe1a8c514c38fb6bab392f"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f">SQLElementData::element</a></div><div class="ttdeci">std::variant&lt; PreparedStatementBase *, std::string &gt; element</div><div class="ttdef"><b>Definition</b> SQLOperation.h:35</div></div>
 <div class="ttc" id="astructSQLElementData_html_afb3f8dc82da740b1aaae165cb6a5b218"><div class="ttname"><a href="../../dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218">SQLElementData::type</a></div><div class="ttdeci">SQLElementDataType type</div><div class="ttdef"><b>Definition</b> SQLOperation.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00055">TransactionBase::m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">SQLElementData::element</a>, <a class="el" href="../../#l00056">TransactionBase::m_queries</a>, <a class="el" href="../../#l00029">SQL_ELEMENT_PREPARED</a>, and <a class="el" href="../../#l00036">SQLElementData::type</a>.</p>
 
 </div>
 </div>
@@ -264,10 +264,10 @@ template&lt;typename... Args&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_function" href="../../df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444">Append</a>(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-<div class="ttc" id="aclassTransaction_html_a290b052f7cbd321c646e9e5e19484444"><div class="ttname"><a href="../../df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444">Transaction::Append</a></div><div class="ttdeci">void Append(PreparedStatement&lt; T &gt; *statement)</div><div class="ttdef"><b>Definition</b> Transaction.h:67</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444">Append</a>(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   49</span>    }</div>
+<div class="ttc" id="aclassTransaction_html_a290b052f7cbd321c646e9e5e19484444"><div class="ttname"><a href="../../df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444">Transaction::Append</a></div><div class="ttdeci">void Append(PreparedStatement&lt; T &gt; *statement)</div><div class="ttdef"><b>Definition</b> Transaction.h:68</div></div>
 <div class="ttc" id="anamespaceAcore_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:44</div></div>
 </div><!-- fragment -->
 </div>
@@ -282,7 +282,7 @@ template&lt;typename... Args&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d28/classTransaction.html">Transaction</a></li>
-    <li class="footer">Generated on Sun Sep 13 2026 11:00:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Sep 14 2026 11:34:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
