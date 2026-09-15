@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d81/classAbominationDespawner.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e":[7,0,22,0],
 "d3/d81/classAbominationDespawner.html#a58b8faac1cdffa7230783a1d6439fcfb":[7,0,22,1],
 "d3/d81/classAbominationDespawner.html#af9089e566905b885887a5714ad5b0741":[7,0,22,2],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html":[7,0,1350,0],
@@ -240,14 +241,13 @@ var NAVTREEINDEX105 =
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#ae9d2f6b53898db04da58efe0deeceea5":[7,0,1704,0,4],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#af1aafdc45abcdfbdbea7f5b67f3bc620":[7,0,1704,0,1],
 "d3/d88/SpellHandler_8cpp.html":[8,0,0,0,1,2,22,30],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[7,0,13,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[7,0,13,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,34,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[7,0,13,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,34,1,1,2],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[7,0,13,1,1,3],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[7,0,13,1,1,1]
 };

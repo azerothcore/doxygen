@@ -1047,6 +1047,7 @@ var hierarchy =
         [ "spell_freezing_cloud_area_left", "dd/de8/classspell__freezing__cloud__area__left.html", null ],
         [ "spell_freezing_cloud_area_right", "d6/d13/classspell__freezing__cloud__area__right.html", null ],
         [ "spell_freya_attuned_to_nature_dose_reduction", "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html", null ],
+        [ "spell_freya_brightleaf_unstable_sun_beam", "dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html", null ],
         [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", null ],
         [ "spell_frog_kiss", "d9/de9/classspell__frog__kiss.html", null ],
         [ "spell_frost_giant_death_plague", "db/d77/classspell__frost__giant__death__plague.html", null ],

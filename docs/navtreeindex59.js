@@ -1,11 +1,11 @@
 var NAVTREEINDEX59 =
 {
-"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3346,0],
-"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3346,1],
-"d2/d48/classspell__item__anti__venom.html":[7,0,3367],
-"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3367,2],
-"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3367,0],
-"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3367,1],
+"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3347,0],
+"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3347,1],
+"d2/d48/classspell__item__anti__venom.html":[7,0,3368],
+"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3368,2],
+"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3368,0],
+"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3368,1],
 "d2/d48/structFactionState.html":[7,0,1068],
 "d2/d48/structFactionState.html#a052caeeae1ecdca831097591e0fddaf6":[7,0,1068,4],
 "d2/d48/structFactionState.html#a287fe9e8ec5da58ae3f5096045eebf31":[7,0,1068,5],

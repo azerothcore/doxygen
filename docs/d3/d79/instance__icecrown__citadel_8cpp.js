@@ -39,6 +39,7 @@ var instance__icecrown__citadel_8cpp =
     [ "AddSC_instance_icecrown_citadel", "d3/d79/instance__icecrown__citadel_8cpp.html#a658ab117fdf89fd0f299ab8b309d41d2", null ],
     [ "boundaries", "d3/d79/instance__icecrown__citadel_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d3/d79/instance__icecrown__citadel_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "DARKWHISPER_ELEVATOR_DWELL_TIME", "d3/d79/instance__icecrown__citadel_8cpp.html#a4261b9a32b9ea2e0c2bb700926e4da64", null ],
     [ "doorData", "d3/d79/instance__icecrown__citadel_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "GoSpiritAlarm_1", "d3/d79/instance__icecrown__citadel_8cpp.html#a170700d5462c2039742fc511288aadaa", null ],
     [ "GoSpiritAlarm_2", "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad", null ],

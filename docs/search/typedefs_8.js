@@ -11,5 +11,6 @@ var searchData=
   ['hmac_5fsha1_8',['HMAC_SHA1',['../d7/dcd/namespaceAcore_1_1Crypto.html#a5186a2a02e2301ec3ea7b37d8b41097f',1,'Acore::Crypto']]],
   ['hmac_5fsha256_9',['HMAC_SHA256',['../d7/dcd/namespaceAcore_1_1Crypto.html#a80d906d20826d6c963f50eba5f7c4c2a',1,'Acore::Crypto']]],
   ['holestype_10',['HolesType',['../d5/dab/structLoadedHoleData.html#a72531c15631ba45fe0c0ed962557e993',1,'LoadedHoleData']]],
-  ['hours_11',['Hours',['../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083',1,'Duration.h']]]
+  ['holidaymainstagemap_11',['HolidayMainStageMap',['../d3/d92/classGameEventMgr.html#abc306f7fda5fb8447e4f78fc1da42d37',1,'GameEventMgr']]],
+  ['hours_12',['Hours',['../d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083',1,'Duration.h']]]
 ];

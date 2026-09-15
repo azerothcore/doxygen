@@ -1,8 +1,14 @@
 var NAVTREEINDEX344 =
 {
-"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[7,0,3621,0],
-"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[7,0,3621,1],
-"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[7,0,3621,2],
+"dd/d27/classOPvPCapturePointTF.html#aa1e2611ef1b260ab363fd2645de142b0":[7,0,2380,1],
+"dd/d27/classOPvPCapturePointTF.html#ace20d19311478a136ae0b75016c36ea8":[7,0,2380,4],
+"dd/d27/classOPvPCapturePointTF.html#ace7e183b6dd438b9649e9ee60c6d00e2":[7,0,2380,10],
+"dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe":[7,0,2380,3],
+"dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[7,0,2380,0],
+"dd/d27/classspell__mage__dragon__breath.html":[7,0,3622],
+"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[7,0,3622,0],
+"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[7,0,3622,1],
+"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[7,0,3622,2],
 "dd/d27/structSmartAction.html":[7,0,2622],
 "dd/d27/structSmartAction.html#a033767c66047cb24b21bbb97221d78aa":[7,0,2622,193],
 "dd/d27/structSmartAction.html#a04ef38fdb43231aa69107411cb76bb97":[7,0,2622,30],
@@ -243,11 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d27/structSmartAction.html#ac9eb9b95cab08a8be11fce0ddfa4ee42":[7,0,2622,174],
 "dd/d27/structSmartAction.html#acb0d94f4c525efba979f578a08257dd4":[7,0,2622,294],
 "dd/d27/structSmartAction.html#acb376c3753c76b793fcad88e701562e0":[7,0,2622,266],
-"dd/d27/structSmartAction.html#acc9eb53e012606ff390c7fa4dbcd22ff":[7,0,2622,246],
-"dd/d27/structSmartAction.html#aceae3dcd3652d218153b2cd8b269bffb":[7,0,2622,187],
-"dd/d27/structSmartAction.html#acfc67f1cc35227d77db319132471f5a6":[7,0,2622,211],
-"dd/d27/structSmartAction.html#acfdb8dbe79dee0d8558fe9e9f2070640":[7,0,2622,43],
-"dd/d27/structSmartAction.html#acfecd88a57f366350452dba7ccc11455":[7,0,2622,14],
-"dd/d27/structSmartAction.html#acff32c26bdfa92b6b99526b93624c376":[7,0,2622,73],
-"dd/d27/structSmartAction.html#ad03d88052bcb0053febb348db5f9df37":[7,0,2622,310]
+"dd/d27/structSmartAction.html#acc9eb53e012606ff390c7fa4dbcd22ff":[7,0,2622,246]
 };

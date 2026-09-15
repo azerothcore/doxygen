@@ -1,5 +1,6 @@
 var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
 [
+    [ "AuraLoadedStateTest.cpp", "d8/d8e/AuraLoadedStateTest_8cpp.html", "d8/d8e/AuraLoadedStateTest_8cpp" ],
     [ "BinarySpellDetectionTest.cpp", "d7/dd2/BinarySpellDetectionTest_8cpp.html", "d7/dd2/BinarySpellDetectionTest_8cpp" ],
     [ "BreakableCCProcTest.cpp", "dd/d9c/BreakableCCProcTest_8cpp.html", "dd/d9c/BreakableCCProcTest_8cpp" ],
     [ "CascadeProcSuppressionTest.cpp", "d0/d9e/CascadeProcSuppressionTest_8cpp.html", "d0/d9e/CascadeProcSuppressionTest_8cpp" ],

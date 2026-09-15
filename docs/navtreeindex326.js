@@ -1,5 +1,11 @@
 var NAVTREEINDEX326 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab85be090a2ff91aff774671c79b7a372":[5,0,28,6,390],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab89e37011476c89fe5ad1733979e288b":[5,0,28,6,540],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab9bc31f25357b45b4051fda956f155c6":[5,0,28,6,39],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab9bc6381f487a1874cffd9c2e20ded9b":[5,0,28,6,546],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aba1961f477d88c3ef8ae52a1a171eff0":[5,0,28,6,600],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abb2f6a44e9b7228640f3f59d790c7454":[5,0,28,6,227],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abb34dda07407816d518044d42122d42d":[5,0,28,6,178],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abb91c68968e982d900dfb2cad89c6bb6":[5,0,28,6,636],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04abbba6bd2e42796e5543e88a2a5589614":[5,0,28,6,500],
@@ -238,16 +244,10 @@ var NAVTREEINDEX326 =
 "dc/d39/classspell__communique__trigger.html#a66c530b497e4952b457bbfa50a036c07":[7,0,2787,2],
 "dc/d39/classspell__communique__trigger.html#a968333dcfe0553ad73879f3042db5511":[7,0,2787,3],
 "dc/d39/classspell__communique__trigger.html#ade9ff4db63fecf726776f6e4b36bb437":[7,0,2787,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html":[7,0,3465],
-"dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3465,4],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[7,0,3465,1],
-"dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[7,0,3465,3],
-"dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[7,0,3465,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[7,0,3465,5],
-"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[7,0,3465,2],
-"dc/d39/structnpc__janalai__hatcher.html":[7,0,1957],
-"dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[7,0,1957,10],
-"dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[7,0,1957,0],
-"dc/d39/structnpc__janalai__hatcher.html#a3a0170bc53f9f8f96090e34097b90c2c":[7,0,1957,4],
-"dc/d39/structnpc__janalai__hatcher.html#a4ae2157e37bb93b7465e029e526a6ce4":[7,0,1957,3]
+"dc/d39/classspell__item__noblegarden__chocolate.html":[7,0,3466],
+"dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3466,4],
+"dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[7,0,3466,1],
+"dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[7,0,3466,3],
+"dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[7,0,3466,0],
+"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[7,0,3466,5]
 };

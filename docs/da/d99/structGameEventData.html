@@ -139,7 +139,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a72bff4c3a62db350460993d804a461ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9c9979bdece8534af216b693a2a58a80" id="r_a9c9979bdece8534af216b693a2a58a80"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/structGameEventData.html#a9c9979bdece8534af216b693a2a58a80">HolidayId</a> {<a class="el" href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>}</td></tr>
 <tr class="separator:a9c9979bdece8534af216b693a2a58a80"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44c52795eed59abdff72cdebdccc50ca" id="r_a44c52795eed59abdff72cdebdccc50ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/structGameEventData.html#a44c52795eed59abdff72cdebdccc50ca">HolidayStage</a></td></tr>
+<tr class="memitem:a44c52795eed59abdff72cdebdccc50ca" id="r_a44c52795eed59abdff72cdebdccc50ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/structGameEventData.html#a44c52795eed59abdff72cdebdccc50ca">HolidayStage</a> {0}</td></tr>
 <tr class="separator:a44c52795eed59abdff72cdebdccc50ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6288a7c28aba2927c3e91f5d2f517a60" id="r_a6288a7c28aba2927c3e91f5d2f517a60"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5">GameEventState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d99/structGameEventData.html#a6288a7c28aba2927c3e91f5d2f517a60">State</a> {<a class="el" href="../../d8/d92/GameEventMgr_8h.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921">GAMEEVENT_NORMAL</a>}</td></tr>
 <tr class="separator:a6288a7c28aba2927c3e91f5d2f517a60"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -309,7 +309,7 @@ Public Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   65</span>{<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>};</div>
 <div class="ttc" id="aSharedDefines_8h_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:2975</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01914">GameEventMgr::SetHolidayEventTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01929">GameEventMgr::SetHolidayEventTime()</a>.</p>
 
 </div>
 </div>
@@ -320,12 +320,13 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GameEventData::HolidayStage</td>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GameEventData::HolidayStage {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01914">GameEventMgr::SetHolidayEventTime()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{0};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01929">GameEventMgr::SetHolidayEventTime()</a>.</p>
 
 </div>
 </div>
@@ -342,7 +343,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   64</span>{0};          <span class="comment">// length of the event (minutes) after finishing all conditions</span></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00073">isValid()</a>, <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l01914">GameEventMgr::SetHolidayEventTime()</a>, <a class="el" href="../../#l00137">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00194">GameEventMgr::StopEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00078">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00073">isValid()</a>, <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l01929">GameEventMgr::SetHolidayEventTime()</a>, <a class="el" href="../../#l00137">GameEventMgr::StartEvent()</a>, and <a class="el" href="../../#l00194">GameEventMgr::StopEvent()</a>.</p>
 
 </div>
 </div>
@@ -376,7 +377,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   63</span>{0};       <span class="comment">// time between end and start</span></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00078">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01914">GameEventMgr::SetHolidayEventTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00078">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00327">GameEventMgr::LoadEvents()</a>, and <a class="el" href="../../#l01929">GameEventMgr::SetHolidayEventTime()</a>.</p>
 
 </div>
 </div>
@@ -437,7 +438,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d99/structGameEventData.html">GameEventData</a></li>
-    <li class="footer">Generated on Mon Sep 14 2026 11:33:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Sep 15 2026 10:54:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

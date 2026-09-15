@@ -123,7 +123,7 @@ var searchData=
   ['worldmapoverlayentryfmt_120',['WorldMapOverlayEntryfmt',['../d8/dd6/DBCfmt_8h.html#ab0eaceb243d0f66908b69a408e41ac3a',1,'DBCfmt.h']]],
   ['worldmock_5f_121',['worldMock_',['../dd/d7c/classLowLevelsMinPlayersOverrideTest.html#a87098b65420dc95aa878a9a4b15490b5',1,'LowLevelsMinPlayersOverrideTest']]],
   ['worldrotation_122',['WorldRotation',['../de/d1c/classGameObject.html#a783520d842e4147f88945f4d04ee0d6c',1,'GameObject']]],
-  ['worldstate_123',['worldstate',['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState']]],
+  ['worldstate_123',['worldstate',['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState'],['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate']]],
   ['worldstate1_124',['worldState1',['../dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e',1,'GameObjectTemplate']]],
   ['worldstate2_125',['worldstate2',['../dd/d3b/structGameObjectTemplate.html#a08af1aef620d8dfa8c1ec9566f6c746e',1,'GameObjectTemplate']]],
   ['worldstate3_126',['worldstate3',['../dd/d3b/structGameObjectTemplate.html#a050e002c4a6bf7eb71ea6027587db6ac',1,'GameObjectTemplate']]],

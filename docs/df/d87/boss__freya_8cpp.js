@@ -12,6 +12,7 @@ var boss__freya_8cpp =
     [ "achievement_freya_getting_back_to_nature", "dc/d13/classachievement__freya__getting__back__to__nature.html", "dc/d13/classachievement__freya__getting__back__to__nature" ],
     [ "achievement_freya_knock_on_wood", "d3/dec/classachievement__freya__knock__on__wood.html", "d3/dec/classachievement__freya__knock__on__wood" ],
     [ "spell_freya_attuned_to_nature_dose_reduction", "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html", "da/d44/classspell__freya__attuned__to__nature__dose__reduction" ],
+    [ "spell_freya_brightleaf_unstable_sun_beam", "dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html", "dd/dcb/classspell__freya__brightleaf__unstable__sun__beam" ],
     [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", "db/d9a/classspell__freya__unstable__sun__beam" ],
     [ "AlliesGroup", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53", [
       [ "GROUP_TRIO", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53a2be85ff32dc0a2941d3152f401166f20", null ],

@@ -1,5 +1,11 @@
 var NAVTREEINDEX274 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a34cb9d4f5c054f2dc0bbb68c584e02":[8,0,0,0,1,3,5,6,10,76,52],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a58ae278ec10faf43f7dde8f7bc5030":[8,0,0,0,1,3,5,6,10,76,78],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3ac6c652d46d4853039249c46045dc07":[8,0,0,0,1,3,5,6,10,76,15],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e752f9a45ea2f5e597d3798bc115943":[8,0,0,0,1,3,5,6,10,76,72],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca3f7cf20b5d35d4d6821150f9c98fa35b":[8,0,0,0,1,3,5,6,10,76,45],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[8,0,0,0,1,3,5,6,10,76,26],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4395f0b5b835d9573a230823018c41a2":[8,0,0,0,1,3,5,6,10,76,25],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf":[8,0,0,0,1,3,5,6,10,76,51],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca45fc8673f164308f0c496cc16271b1e5":[8,0,0,0,1,3,5,6,10,76,14],
@@ -202,10 +208,10 @@ var NAVTREEINDEX274 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae473b3ffeef20cbb9d61a70f66598c9f":[8,0,0,0,1,3,5,6,10,72,19],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff6d1325e3e2cd0077e376988d8cd859":[8,0,0,0,1,3,5,6,10,72,70],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff7ee4bd2a3d0493e491afac2e180aec":[8,0,0,0,1,3,5,6,10,72,30],
-"da/d79/classspell__threatening__gaze__charge.html":[7,0,4270],
-"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[7,0,4270,0],
-"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[7,0,4270,2],
-"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4270,1],
+"da/d79/classspell__threatening__gaze__charge.html":[7,0,4271],
+"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[7,0,4271,0],
+"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[7,0,4271,2],
+"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4271,1],
 "da/d7b/MapMgr_8h.html":[8,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX274 =
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca74c00f89abc0143f350afbd313290fe1":[8,0,0,0,1,3,2,11,4,18,26],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca754d1c0b1237fcfb2781ca455ffea8d6":[8,0,0,0,1,3,2,11,4,18,17],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca83b6f08b783b63bce587338b730087e0":[8,0,0,0,1,3,2,11,4,18,7],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca8c85aa9667a5f3a97e7a8fc3f12cb55d":[8,0,0,0,1,3,2,11,4,18,30],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca932e5119cab130b385a29a52daa4984e":[8,0,0,0,1,3,2,11,4,18,10],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca9b2fe611de69fd59bd39eb3f4e0625db":[8,0,0,0,1,3,2,11,4,18,23],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca9d205378dfed5e1e6cdf62ae4a8115d6":[8,0,0,0,1,3,2,11,4,18,11],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca9d6bd9991260be2d34ae4e3da8f7bbe8":[8,0,0,0,1,3,2,11,4,18,34],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca9ea4e5476466ecdc57642c298242ce7c":[8,0,0,0,1,3,2,11,4,18,37],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca9efba486d167df678c9308bd71d8042f":[8,0,0,0,1,3,2,11,4,18,19]
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca8c85aa9667a5f3a97e7a8fc3f12cb55d":[8,0,0,0,1,3,2,11,4,18,30]
 };

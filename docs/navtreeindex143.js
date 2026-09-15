@@ -1,5 +1,9 @@
 var NAVTREEINDEX143 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[7,0,117,2],
+"d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[7,0,117,39],
+"d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[7,0,117,16],
+"d4/dd8/structAchievementCriteriaData.html#a0bb28562878237fe2bb5249ffddaf89a":[7,0,117,44],
 "d4/dd8/structAchievementCriteriaData.html#a0d3fc06f57718915428227a946c018af":[7,0,117,10],
 "d4/dd8/structAchievementCriteriaData.html#a0fc858d0a27adde6685e00b1ad073fa8":[7,0,117,27],
 "d4/dd8/structAchievementCriteriaData.html#a10abf16cc22c72aac4cadb6910457207":[7,0,117,17],
@@ -190,8 +194,8 @@ var NAVTREEINDEX143 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1085,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1946,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1946,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1946,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dde/Random_8cpp.html#af901d57f29ff48f701a375e44a0f1261":[8,0,0,0,0,15,20,9],
 "d4/dde/classnpc__elder__clearwater.html":[7,0,1811],
 "d4/dde/classnpc__elder__clearwater.html#a2d316a2d2c892cecc134cea46b5bf2a8":[7,0,1811,4],
-"d4/dde/classnpc__elder__clearwater.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04":[7,0,1811,2],
-"d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[7,0,1811,3],
-"d4/dde/classnpc__elder__clearwater.html#abeee1650938a71762bb0c148ea9834d1":[7,0,1811,1],
-"d4/dde/classspell__dk__rune__tap__party.html":[7,0,2866],
-"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[7,0,2866,1]
+"d4/dde/classnpc__elder__clearwater.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04":[7,0,1811,2]
 };
