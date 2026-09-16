@@ -578,6 +578,12 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a7d7a26b2f396254c6258ebb51c636fc0">EVENT_HALOF</a> = 8
 , <br />
 &#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62">EVENT_ENDED</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39">GROUP_WAVE_PLAGUEBRINGERS</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d">GROUP_WAVE_CAPTAINS</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d">GROUP_WAVE_HALOF</a> = 2
 <br />
  }</td></tr>
 <tr class="separator:adc6d71d7da6e47d9baa23eeca72ce832"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -670,6 +676,9 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832a975074f293d29171f8a92a1200f4f0a9" name="adc6d71d7da6e47d9baa23eeca72ce832a975074f293d29171f8a92a1200f4f0a9"></a>EVENT_WAVE_SPAWN&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832a7d7a26b2f396254c6258ebb51c636fc0" name="adc6d71d7da6e47d9baa23eeca72ce832a7d7a26b2f396254c6258ebb51c636fc0"></a>EVENT_HALOF&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62" name="adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62"></a>EVENT_ENDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39" name="adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39"></a>GROUP_WAVE_PLAGUEBRINGERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d" name="adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d"></a>GROUP_WAVE_CAPTAINS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d" name="adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d"></a>GROUP_WAVE_HALOF&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno"> 1686</span>{</div>
 <div class="line"><span class="lineno"> 1687</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1ebc63cb3206d070bf31d20eaa47b071">SPELL_BLESSING_OF_THE_CRUSADE</a>       = 58026,</div>
@@ -706,7 +715,12 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 1718</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a975074f293d29171f8a92a1200f4f0a9">EVENT_WAVE_SPAWN</a>                    = 7,</div>
 <div class="line"><span class="lineno"> 1719</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a7d7a26b2f396254c6258ebb51c636fc0">EVENT_HALOF</a>                         = 8,</div>
 <div class="line"><span class="lineno"> 1720</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62">EVENT_ENDED</a>                         = 9,</div>
-<div class="line"><span class="lineno"> 1721</span>};</div>
+<div class="line"><span class="lineno"> 1721</span> </div>
+<div class="line"><span class="lineno"> 1722</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39">GROUP_WAVE_PLAGUEBRINGERS</a>           = 0,</div>
+<div class="line"><span class="lineno"> 1723</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d">GROUP_WAVE_CAPTAINS</a>                 = 1,</div>
+<div class="line"><span class="lineno"> 1724</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d">GROUP_WAVE_HALOF</a>                    = 2,</div>
+<div class="line"><span class="lineno"> 1725</span>};</div>
+<div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d">GROUP_WAVE_CAPTAINS</a></div><div class="ttdeci">@ GROUP_WAVE_CAPTAINS</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1723</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a17a69be4ebf12ea9ab77d626ab4c6f4d"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a17a69be4ebf12ea9ab77d626ab4c6f4d">BANNER_SAY</a></div><div class="ttdeci">@ BANNER_SAY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1702</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a17c9debeb079d541a0d4e5ab242316f5"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a17c9debeb079d541a0d4e5ab242316f5">DALFORS_SAY_PRE_1</a></div><div class="ttdeci">@ DALFORS_SAY_PRE_1</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1703</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a1cd628fe8ad12d4928e8a1c4eb98ef76"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1cd628fe8ad12d4928e8a1c4eb98ef76">EVENT_START_FIGHT</a></div><div class="ttdeci">@ EVENT_START_FIGHT</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1717</div></div>
@@ -715,6 +729,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a256fd25f172fa42871e6171e67568f28"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a256fd25f172fa42871e6171e67568f28">EVENT_INTRO_1</a></div><div class="ttdeci">@ EVENT_INTRO_1</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1713</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a31d9d300cdaf55e35fe5e82398aab206"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a31d9d300cdaf55e35fe5e82398aab206">SPELL_CRUSADERS_SPIRE_VICTORY</a></div><div class="ttdeci">@ SPELL_CRUSADERS_SPIRE_VICTORY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1689</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a33886550fcce093bd39450d188489113"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a33886550fcce093bd39450d188489113">EVENT_INTRO_2</a></div><div class="ttdeci">@ EVENT_INTRO_2</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1714</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39">GROUP_WAVE_PLAGUEBRINGERS</a></div><div class="ttdeci">@ GROUP_WAVE_PLAGUEBRINGERS</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1722</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a40caac803a16ce93df2fbf68fe9042f7"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a40caac803a16ce93df2fbf68fe9042f7">NPC_HALOF_THE_DEATHBRINGER</a></div><div class="ttdeci">@ NPC_HALOF_THE_DEATHBRINGER</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1699</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a46c467599f797bb6282c4d94bc07aa73"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a46c467599f797bb6282c4d94bc07aa73">SPELL_THREAT_PULSE</a></div><div class="ttdeci">@ SPELL_THREAT_PULSE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1688</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832a59f657d43c34b1e92f9bfdd8c023c5e5"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a59f657d43c34b1e92f9bfdd8c023c5e5">NPC_BLESSED_BANNER</a></div><div class="ttdeci">@ NPC_BLESSED_BANNER</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1692</div></div>
@@ -729,6 +744,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832aa73961d18c1921ae998afc109ecd8310"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aa73961d18c1921ae998afc109ecd8310">EVENT_MASON_ACTION</a></div><div class="ttdeci">@ EVENT_MASON_ACTION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1716</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832ab0a6b9d5072ab9fa63e4b4fc4b67a38b"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ab0a6b9d5072ab9fa63e4b4fc4b67a38b">SPELL_TORCH</a></div><div class="ttdeci">@ SPELL_TORCH</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1690</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832abed3be0a49c183ee18de761ee2dac0a8"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832abed3be0a49c183ee18de761ee2dac0a8">NPC_CRUSADER_LORD_DALFORS</a></div><div class="ttdeci">@ NPC_CRUSADER_LORD_DALFORS</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1693</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d">GROUP_WAVE_HALOF</a></div><div class="ttdeci">@ GROUP_WAVE_HALOF</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1724</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832ad01d59790d3a417ff098f9143a424c3a"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad01d59790d3a417ff098f9143a424c3a">DALFORS_SAY_PRE_2</a></div><div class="ttdeci">@ DALFORS_SAY_PRE_2</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1704</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832ad59301158e6d930fd6318326d74e141c"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad59301158e6d930fd6318326d74e141c">EVENT_INTRO_3</a></div><div class="ttdeci">@ EVENT_INTRO_3</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1715</div></div>
 <div class="ttc" id="azone__icecrown_8cpp_html_adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62">EVENT_ENDED</a></div><div class="ttdeci">@ EVENT_ENDED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1720</div></div>
@@ -762,29 +778,29 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab" name="accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab"></a>POINT_FLY_AWAY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8" name="accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8"></a>EVENT_FLY_AWAY&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno"> 2044</span>{</div>
-<div class="line"><span class="lineno"> 2045</span>    <span class="comment">// Spells</span></div>
-<div class="line"><span class="lineno"> 2046</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca">SPELL_GRAB</a>             = 59318,</div>
-<div class="line"><span class="lineno"> 2047</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9">SPELL_PING_BUNNY</a>       = 59375,</div>
-<div class="line"><span class="lineno"> 2048</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb">SPELL_IMMOLATION</a>       = 54690,</div>
-<div class="line"><span class="lineno"> 2049</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973">SPELL_EXPLOSION</a>        = 59335,</div>
-<div class="line"><span class="lineno"> 2050</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b">SPELL_RIDE</a>             = 56687,</div>
-<div class="line"><span class="lineno"> 2051</span> </div>
-<div class="line"><span class="lineno"> 2052</span>    <span class="comment">// Points</span></div>
-<div class="line"><span class="lineno"> 2053</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327">POINT_GRAB_DECOY</a>       = 1,</div>
-<div class="line"><span class="lineno"> 2054</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab">POINT_FLY_AWAY</a>         = 2,</div>
-<div class="line"><span class="lineno"> 2055</span> </div>
-<div class="line"><span class="lineno"> 2056</span>    <span class="comment">// Events</span></div>
-<div class="line"><span class="lineno"> 2057</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8">EVENT_FLY_AWAY</a>         = 1</div>
-<div class="line"><span class="lineno"> 2058</span>};</div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973">SPELL_EXPLOSION</a></div><div class="ttdeci">@ SPELL_EXPLOSION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2049</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb">SPELL_IMMOLATION</a></div><div class="ttdeci">@ SPELL_IMMOLATION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2048</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca">SPELL_GRAB</a></div><div class="ttdeci">@ SPELL_GRAB</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2046</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9">SPELL_PING_BUNNY</a></div><div class="ttdeci">@ SPELL_PING_BUNNY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2047</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327">POINT_GRAB_DECOY</a></div><div class="ttdeci">@ POINT_GRAB_DECOY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2053</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab">POINT_FLY_AWAY</a></div><div class="ttdeci">@ POINT_FLY_AWAY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2054</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b">SPELL_RIDE</a></div><div class="ttdeci">@ SPELL_RIDE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2050</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8">EVENT_FLY_AWAY</a></div><div class="ttdeci">@ EVENT_FLY_AWAY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2057</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2020</span>{</div>
+<div class="line"><span class="lineno"> 2021</span>    <span class="comment">// Spells</span></div>
+<div class="line"><span class="lineno"> 2022</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca">SPELL_GRAB</a>             = 59318,</div>
+<div class="line"><span class="lineno"> 2023</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9">SPELL_PING_BUNNY</a>       = 59375,</div>
+<div class="line"><span class="lineno"> 2024</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb">SPELL_IMMOLATION</a>       = 54690,</div>
+<div class="line"><span class="lineno"> 2025</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973">SPELL_EXPLOSION</a>        = 59335,</div>
+<div class="line"><span class="lineno"> 2026</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b">SPELL_RIDE</a>             = 56687,</div>
+<div class="line"><span class="lineno"> 2027</span> </div>
+<div class="line"><span class="lineno"> 2028</span>    <span class="comment">// Points</span></div>
+<div class="line"><span class="lineno"> 2029</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327">POINT_GRAB_DECOY</a>       = 1,</div>
+<div class="line"><span class="lineno"> 2030</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab">POINT_FLY_AWAY</a>         = 2,</div>
+<div class="line"><span class="lineno"> 2031</span> </div>
+<div class="line"><span class="lineno"> 2032</span>    <span class="comment">// Events</span></div>
+<div class="line"><span class="lineno"> 2033</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8">EVENT_FLY_AWAY</a>         = 1</div>
+<div class="line"><span class="lineno"> 2034</span>};</div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a0a7756a84f2f30a389576b6c33086973">SPELL_EXPLOSION</a></div><div class="ttdeci">@ SPELL_EXPLOSION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2025</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a13f0566b0ca3096731d7cb26218482bb">SPELL_IMMOLATION</a></div><div class="ttdeci">@ SPELL_IMMOLATION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2024</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca">SPELL_GRAB</a></div><div class="ttdeci">@ SPELL_GRAB</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2022</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a7317b5744bbdef8ec0de48be4e4469a9">SPELL_PING_BUNNY</a></div><div class="ttdeci">@ SPELL_PING_BUNNY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2023</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a8707dee5103fdd7d52427963dc840327">POINT_GRAB_DECOY</a></div><div class="ttdeci">@ POINT_GRAB_DECOY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2029</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383aca3b05354a38dab06632e912627733ab">POINT_FLY_AWAY</a></div><div class="ttdeci">@ POINT_FLY_AWAY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2030</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acb8f040f79b312883fa2a0f4d5e4b79b">SPELL_RIDE</a></div><div class="ttdeci">@ SPELL_RIDE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2026</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383acc1fb5fc01aef70e2bc4dca65c231da8">EVENT_FLY_AWAY</a></div><div class="ttdeci">@ EVENT_FLY_AWAY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2033</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1421,10 +1437,10 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911" name="ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911"></a>SPELL_WATER_TERROR_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno"> 2129</span>{</div>
-<div class="line"><span class="lineno"> 2130</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911">SPELL_WATER_TERROR_FROST_NOVA</a> = 57668</div>
-<div class="line"><span class="lineno"> 2131</span>};</div>
-<div class="ttc" id="azone__icecrown_8cpp_html_ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911">SPELL_WATER_TERROR_FROST_NOVA</a></div><div class="ttdeci">@ SPELL_WATER_TERROR_FROST_NOVA</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2130</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2105</span>{</div>
+<div class="line"><span class="lineno"> 2106</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911">SPELL_WATER_TERROR_FROST_NOVA</a> = 57668</div>
+<div class="line"><span class="lineno"> 2107</span>};</div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911">SPELL_WATER_TERROR_FROST_NOVA</a></div><div class="ttdeci">@ SPELL_WATER_TERROR_FROST_NOVA</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2106</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1443,33 +1459,33 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2152</span>{</div>
-<div class="line"><span class="lineno"> 2153</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/dab/classnpc__black__knight__graveyard.html">npc_black_knight_graveyard</a>();</div>
-<div class="line"><span class="lineno"> 2154</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a>();</div>
-<div class="line"><span class="lineno"> 2155</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d28/classnpc__llod__generic.html">npc_llod_generic</a>();</div>
-<div class="line"><span class="lineno"> 2156</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/de1/classnpc__lord__arete.html">npc_lord_arete</a>();</div>
-<div class="line"><span class="lineno"> 2157</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d9d/classnpc__boneguard__footman.html">npc_boneguard_footman</a>();</div>
-<div class="line"><span class="lineno"> 2158</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d54/classnpc__tirions__gambit__tirion.html">npc_tirions_gambit_tirion</a>();</div>
-<div class="line"><span class="lineno"> 2159</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d93/classspell__switch__infragreen__bomber__station.html">spell_switch_infragreen_bomber_station</a>);</div>
-<div class="line"><span class="lineno"> 2160</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a>, <a class="code hl_class" href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a>);</div>
-<div class="line"><span class="lineno"> 2161</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a>);</div>
-<div class="line"><span class="lineno"> 2162</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a>);</div>
-<div class="line"><span class="lineno"> 2163</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db0/classnpc__infra__green__bomber__generic.html">npc_infra_green_bomber_generic</a>();</div>
-<div class="line"><span class="lineno"> 2164</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a>);</div>
-<div class="line"><span class="lineno"> 2165</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d16/classspell__deliver__gryphon.html">spell_deliver_gryphon</a>);</div>
-<div class="line"><span class="lineno"> 2166</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d9e/classnpc__guardian__pavilion.html">npc_guardian_pavilion</a>();</div>
-<div class="line"><span class="lineno"> 2167</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d55/classnpc__tournament__training__dummy.html">npc_tournament_training_dummy</a>();</div>
-<div class="line"><span class="lineno"> 2168</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a>();</div>
-<div class="line"><span class="lineno"> 2169</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a>();</div>
-<div class="line"><span class="lineno"> 2170</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a>);</div>
-<div class="line"><span class="lineno"> 2171</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2128</span>{</div>
+<div class="line"><span class="lineno"> 2129</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/dab/classnpc__black__knight__graveyard.html">npc_black_knight_graveyard</a>();</div>
+<div class="line"><span class="lineno"> 2130</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a>();</div>
+<div class="line"><span class="lineno"> 2131</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d28/classnpc__llod__generic.html">npc_llod_generic</a>();</div>
+<div class="line"><span class="lineno"> 2132</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/de1/classnpc__lord__arete.html">npc_lord_arete</a>();</div>
+<div class="line"><span class="lineno"> 2133</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d9d/classnpc__boneguard__footman.html">npc_boneguard_footman</a>();</div>
+<div class="line"><span class="lineno"> 2134</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d54/classnpc__tirions__gambit__tirion.html">npc_tirions_gambit_tirion</a>();</div>
+<div class="line"><span class="lineno"> 2135</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d93/classspell__switch__infragreen__bomber__station.html">spell_switch_infragreen_bomber_station</a>);</div>
+<div class="line"><span class="lineno"> 2136</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a>, <a class="code hl_class" href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a>);</div>
+<div class="line"><span class="lineno"> 2137</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a>);</div>
+<div class="line"><span class="lineno"> 2138</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a>);</div>
+<div class="line"><span class="lineno"> 2139</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db0/classnpc__infra__green__bomber__generic.html">npc_infra_green_bomber_generic</a>();</div>
+<div class="line"><span class="lineno"> 2140</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a>);</div>
+<div class="line"><span class="lineno"> 2141</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d16/classspell__deliver__gryphon.html">spell_deliver_gryphon</a>);</div>
+<div class="line"><span class="lineno"> 2142</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d9e/classnpc__guardian__pavilion.html">npc_guardian_pavilion</a>();</div>
+<div class="line"><span class="lineno"> 2143</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d55/classnpc__tournament__training__dummy.html">npc_tournament_training_dummy</a>();</div>
+<div class="line"><span class="lineno"> 2144</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a>();</div>
+<div class="line"><span class="lineno"> 2145</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a>();</div>
+<div class="line"><span class="lineno"> 2146</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a>);</div>
+<div class="line"><span class="lineno"> 2147</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:90</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
 <div class="ttc" id="aclassnpc__battle__at__valhalas_html"><div class="ttname"><a href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:135</div></div>
 <div class="ttc" id="aclassnpc__black__knight__graveyard_html"><div class="ttname"><a href="../../d0/dab/classnpc__black__knight__graveyard.html">npc_black_knight_graveyard</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:42</div></div>
-<div class="ttc" id="aclassnpc__blessed__banner_html"><div class="ttname"><a href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1770</div></div>
+<div class="ttc" id="aclassnpc__blessed__banner_html"><div class="ttname"><a href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1774</div></div>
 <div class="ttc" id="aclassnpc__boneguard__footman_html"><div class="ttname"><a href="../../db/d9d/classnpc__boneguard__footman.html">npc_boneguard_footman</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:628</div></div>
-<div class="ttc" id="aclassnpc__frostbrood__skytalon_html"><div class="ttname"><a href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2061</div></div>
+<div class="ttc" id="aclassnpc__frostbrood__skytalon_html"><div class="ttname"><a href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2037</div></div>
 <div class="ttc" id="aclassnpc__guardian__pavilion_html"><div class="ttname"><a href="../../dd/d9e/classnpc__guardian__pavilion.html">npc_guardian_pavilion</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1488</div></div>
 <div class="ttc" id="aclassnpc__infra__green__bomber__generic_html"><div class="ttname"><a href="../../d6/db0/classnpc__infra__green__bomber__generic.html">npc_infra_green_bomber_generic</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1259</div></div>
 <div class="ttc" id="aclassnpc__llod__generic_html"><div class="ttname"><a href="../../d6/d28/classnpc__llod__generic.html">npc_llod_generic</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:397</div></div>
@@ -1479,7 +1495,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aclassspell__anti__air__rocket__bomber_html"><div class="ttname"><a href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1242</div></div>
 <div class="ttc" id="aclassspell__charge__shield__bomber__aura_html"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1170</div></div>
 <div class="ttc" id="aclassspell__charge__shield__bomber_html"><div class="ttname"><a href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1139</div></div>
-<div class="ttc" id="aclassspell__crashing__wave_html"><div class="ttname"><a href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2135</div></div>
+<div class="ttc" id="aclassspell__crashing__wave_html"><div class="ttname"><a href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2111</div></div>
 <div class="ttc" id="aclassspell__deliver__gryphon_html"><div class="ttname"><a href="../../dd/d16/classspell__deliver__gryphon.html">spell_deliver_gryphon</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1446</div></div>
 <div class="ttc" id="aclassspell__fight__fire__bomber_html"><div class="ttname"><a href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1197</div></div>
 <div class="ttc" id="aclassspell__onslaught__or__call__bone__gryphon_html"><div class="ttname"><a href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1417</div></div>
@@ -1509,13 +1525,13 @@ Variables</h2></td></tr>
 <div class="line">    {6422.950f, 423.335f, 510.451f, 0.0f}, </div>
 <div class="line">    {6426.343f, 420.515f, 508.650f, 0.0f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1724</span>{</div>
-<div class="line"><span class="lineno"> 1725</span>    {6458.703f, 403.858f, 490.498f, 3.1205f}, <span class="comment">// Dalfors spawn point</span></div>
-<div class="line"><span class="lineno"> 1726</span>    {6422.950f, 423.335f, 510.451f, 0.0f}, <span class="comment">// Dalfors intro pos</span></div>
-<div class="line"><span class="lineno"> 1727</span>    {6426.343f, 420.515f, 508.650f, 0.0f}, <span class="comment">// Dalfors fight pos</span></div>
-<div class="line"><span class="lineno"> 1728</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1728</span>{</div>
+<div class="line"><span class="lineno"> 1729</span>    {6458.703f, 403.858f, 490.498f, 3.1205f}, <span class="comment">// Dalfors spawn point</span></div>
+<div class="line"><span class="lineno"> 1730</span>    {6422.950f, 423.335f, 510.451f, 0.0f}, <span class="comment">// Dalfors intro pos</span></div>
+<div class="line"><span class="lineno"> 1731</span>    {6426.343f, 420.515f, 508.650f, 0.0f}, <span class="comment">// Dalfors fight pos</span></div>
+<div class="line"><span class="lineno"> 1732</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01810">npc_blessed_banner::npc_blessed_bannerAI::JustSummoned()</a>, and <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1536,13 +1552,13 @@ Variables</h2></td></tr>
 <div class="line">    {6428.163f, 421.960f, 508.297f, 0.0f}, </div>
 <div class="line">    {6414.335f, 454.904f, 511.395f, 2.8972f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1749</span>{</div>
-<div class="line"><span class="lineno"> 1750</span>    {6462.929f, 409.826f, 489.392f, 3.0968f}, <span class="comment">// mason1 spawn point</span></div>
-<div class="line"><span class="lineno"> 1751</span>    {6428.163f, 421.960f, 508.297f, 0.0f}, <span class="comment">// mason1 intro pos</span></div>
-<div class="line"><span class="lineno"> 1752</span>    {6414.335f, 454.904f, 511.395f, 2.8972f}, <span class="comment">// mason1 action pos</span></div>
-<div class="line"><span class="lineno"> 1753</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1753</span>{</div>
+<div class="line"><span class="lineno"> 1754</span>    {6462.929f, 409.826f, 489.392f, 3.0968f}, <span class="comment">// mason1 spawn point</span></div>
+<div class="line"><span class="lineno"> 1755</span>    {6428.163f, 421.960f, 508.297f, 0.0f}, <span class="comment">// mason1 intro pos</span></div>
+<div class="line"><span class="lineno"> 1756</span>    {6414.335f, 454.904f, 511.395f, 2.8972f}, <span class="comment">// mason1 action pos</span></div>
+<div class="line"><span class="lineno"> 1757</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1563,13 +1579,13 @@ Variables</h2></td></tr>
 <div class="line">    {6426.250f, 419.194f, 508.219f, 0.0f}, </div>
 <div class="line">    {6415.014f, 446.849f, 511.395f, 3.1241f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1756</span>{</div>
-<div class="line"><span class="lineno"> 1757</span>    {6462.650f, 405.670f, 489.576f, 2.9414f}, <span class="comment">// mason2 spawn point</span></div>
-<div class="line"><span class="lineno"> 1758</span>    {6426.250f, 419.194f, 508.219f, 0.0f}, <span class="comment">// mason2 intro pos</span></div>
-<div class="line"><span class="lineno"> 1759</span>    {6415.014f, 446.849f, 511.395f, 3.1241f}, <span class="comment">// mason2 action pos</span></div>
-<div class="line"><span class="lineno"> 1760</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1760</span>{</div>
+<div class="line"><span class="lineno"> 1761</span>    {6462.650f, 405.670f, 489.576f, 2.9414f}, <span class="comment">// mason2 spawn point</span></div>
+<div class="line"><span class="lineno"> 1762</span>    {6426.250f, 419.194f, 508.219f, 0.0f}, <span class="comment">// mason2 intro pos</span></div>
+<div class="line"><span class="lineno"> 1763</span>    {6415.014f, 446.849f, 511.395f, 3.1241f}, <span class="comment">// mason2 action pos</span></div>
+<div class="line"><span class="lineno"> 1764</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1590,13 +1606,13 @@ Variables</h2></td></tr>
 <div class="line">    {6423.855f, 416.598f, 508.305f, 0.0f}, </div>
 <div class="line">    {6417.070f, 438.824f, 511.395f, 3.6651f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1763</span>{</div>
-<div class="line"><span class="lineno"> 1764</span>    {6462.646f, 401.218f, 489.601f, 2.7864f}, <span class="comment">// mason3 spawn point</span></div>
-<div class="line"><span class="lineno"> 1765</span>    {6423.855f, 416.598f, 508.305f, 0.0f}, <span class="comment">// mason3 intro pos</span></div>
-<div class="line"><span class="lineno"> 1766</span>    {6417.070f, 438.824f, 511.395f, 3.6651f}, <span class="comment">// mason3 action pos</span></div>
-<div class="line"><span class="lineno"> 1767</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1767</span>{</div>
+<div class="line"><span class="lineno"> 1768</span>    {6462.646f, 401.218f, 489.601f, 2.7864f}, <span class="comment">// mason3 spawn point</span></div>
+<div class="line"><span class="lineno"> 1769</span>    {6423.855f, 416.598f, 508.305f, 0.0f}, <span class="comment">// mason3 intro pos</span></div>
+<div class="line"><span class="lineno"> 1770</span>    {6417.070f, 438.824f, 511.395f, 3.6651f}, <span class="comment">// mason3 action pos</span></div>
+<div class="line"><span class="lineno"> 1771</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1616,12 +1632,12 @@ Variables</h2></td></tr>
 <div class="line">    {6462.025f, 403.681f, 489.721f, 3.1007f}, </div>
 <div class="line">    {6421.480f, 423.576f, 510.781f, 5.7421f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1731</span>{</div>
-<div class="line"><span class="lineno"> 1732</span>    {6462.025f, 403.681f, 489.721f, 3.1007f}, <span class="comment">// priest1 spawn point</span></div>
-<div class="line"><span class="lineno"> 1733</span>    {6421.480f, 423.576f, 510.781f, 5.7421f}, <span class="comment">// priest1 intro pos</span></div>
-<div class="line"><span class="lineno"> 1734</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1735</span>{</div>
+<div class="line"><span class="lineno"> 1736</span>    {6462.025f, 403.681f, 489.721f, 3.1007f}, <span class="comment">// priest1 spawn point</span></div>
+<div class="line"><span class="lineno"> 1737</span>    {6421.480f, 423.576f, 510.781f, 5.7421f}, <span class="comment">// priest1 intro pos</span></div>
+<div class="line"><span class="lineno"> 1738</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1641,12 +1657,12 @@ Variables</h2></td></tr>
 <div class="line">    {6463.969f, 407.198f, 489.240f, 2.2689f}, </div>
 <div class="line">    {6419.778f, 421.404f, 510.972f, 5.7421f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1737</span>{</div>
-<div class="line"><span class="lineno"> 1738</span>    {6463.969f, 407.198f, 489.240f, 2.2689f}, <span class="comment">// priest2 spawn point</span></div>
-<div class="line"><span class="lineno"> 1739</span>    {6419.778f, 421.404f, 510.972f, 5.7421f}, <span class="comment">// priest2 intro pos</span></div>
-<div class="line"><span class="lineno"> 1740</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1741</span>{</div>
+<div class="line"><span class="lineno"> 1742</span>    {6463.969f, 407.198f, 489.240f, 2.2689f}, <span class="comment">// priest2 spawn point</span></div>
+<div class="line"><span class="lineno"> 1743</span>    {6419.778f, 421.404f, 510.972f, 5.7421f}, <span class="comment">// priest2 intro pos</span></div>
+<div class="line"><span class="lineno"> 1744</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1666,12 +1682,12 @@ Variables</h2></td></tr>
 <div class="line">    {6464.371f, 400.944f, 489.186f, 6.1610f}, </div>
 <div class="line">    {6423.516f, 425.782f, 510.774f, 5.7421f}, </div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1743</span>{</div>
-<div class="line"><span class="lineno"> 1744</span>    {6464.371f, 400.944f, 489.186f, 6.1610f}, <span class="comment">// priest3 spawn point</span></div>
-<div class="line"><span class="lineno"> 1745</span>    {6423.516f, 425.782f, 510.774f, 5.7421f}, <span class="comment">// priest3 intro pos</span></div>
-<div class="line"><span class="lineno"> 1746</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1747</span>{</div>
+<div class="line"><span class="lineno"> 1748</span>    {6464.371f, 400.944f, 489.186f, 6.1610f}, <span class="comment">// priest3 spawn point</span></div>
+<div class="line"><span class="lineno"> 1749</span>    {6423.516f, 425.782f, 510.774f, 5.7421f}, <span class="comment">// priest3 intro pos</span></div>
+<div class="line"><span class="lineno"> 1750</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01832">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1681,7 +1697,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html">zone_icecrown.cpp</a></li>
-    <li class="footer">Generated on Tue Sep 15 2026 10:54:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 16 2026 10:43:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

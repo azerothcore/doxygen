@@ -61,7 +61,10 @@ var zone__icecrown_8cpp =
       [ "EVENT_START_FIGHT", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1cd628fe8ad12d4928e8a1c4eb98ef76", null ],
       [ "EVENT_WAVE_SPAWN", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a975074f293d29171f8a92a1200f4f0a9", null ],
       [ "EVENT_HALOF", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a7d7a26b2f396254c6258ebb51c636fc0", null ],
-      [ "EVENT_ENDED", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62", null ]
+      [ "EVENT_ENDED", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62", null ],
+      [ "GROUP_WAVE_PLAGUEBRINGERS", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39", null ],
+      [ "GROUP_WAVE_CAPTAINS", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a0191d68ed25c0e506b69877d6f50b86d", null ],
+      [ "GROUP_WAVE_HALOF", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d", null ]
     ] ],
     [ "BorrowedTechnologyAndVolatility", "d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383", [
       [ "SPELL_GRAB", "d6/d81/zone__icecrown_8cpp.html#accd05966dd315fd033526ca59b504383a399d29cb7ddcee9c8af71bbbcb9d2dca", null ],

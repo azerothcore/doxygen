@@ -7,6 +7,6 @@ var structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI 
     [ "SpellHit", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
     [ "UpdateAI", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b", null ],
     [ "_events", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_guardList", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#ac1496627bdf326163256045bd068bc4f", null ],
     [ "_instance", "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

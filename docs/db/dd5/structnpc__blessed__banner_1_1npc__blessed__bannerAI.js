@@ -12,7 +12,6 @@ var structnpc__blessed__banner_1_1npc__blessed__bannerAI =
     [ "guidHalof", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
     [ "guidMason", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
     [ "guidPriest", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a38e98094f05c09ea19a4f44771194b2e", null ],
     [ "PhaseCount", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c", null ],
     [ "Summons", "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

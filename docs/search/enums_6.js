@@ -37,7 +37,7 @@ var searchData=
   ['goblinbomb_34',['GoblinBomb',['../db/d6e/spell__item_8cpp.html#ad2b3659bba0251fbe57c1ce8cfe34b52',1,'spell_item.cpp']]],
   ['goblinweathermachiene_35',['GoblinWeatherMachiene',['../db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69',1,'spell_item.cpp']]],
   ['goids_36',['goids',['../d6/d26/sunken__temple_8h.html#aff286ae066e6cc855674e730f4adba43',1,'GoIds:&#160;sunken_temple.h'],['../d9/d8f/dire__maul_8h.html#aff286ae066e6cc855674e730f4adba43',1,'GoIds:&#160;dire_maul.h'],['../de/d09/maraudon_8h.html#aff286ae066e6cc855674e730f4adba43',1,'GoIds:&#160;maraudon.h'],['../da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43',1,'GoIds:&#160;magtheridons_lair.h']]],
-  ['gordunnitrap_37',['GordunniTrap',['../d3/daf/zone__feralas_8cpp.html#ae11511f5835ecdfec73fde1f9f29431c',1,'zone_feralas.cpp']]],
+  ['gordunnitrapspells_37',['GordunniTrapSpells',['../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5',1,'zone_feralas.cpp']]],
   ['gormokevents_38',['GormokEvents',['../d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47bea',1,'boss_northrend_beasts.cpp']]],
   ['gormoknpcs_39',['GormokNPCs',['../d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfb',1,'boss_northrend_beasts.cpp']]],
   ['gormokspells_40',['GormokSpells',['../d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769',1,'boss_northrend_beasts.cpp']]],

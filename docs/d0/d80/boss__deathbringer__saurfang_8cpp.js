@@ -25,11 +25,16 @@ var boss__deathbringer__saurfang_8cpp =
       [ "ACTION_CONTINUE_INTRO", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa4e66ba88f7772364c5bb35f3e16d8542", null ],
       [ "ACTION_CHARGE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa3ecea0c9267d7c02bd089696692b1b85", null ],
       [ "ACTION_START_OUTRO", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa1e48223d65976de6bf5075cbb44d0199", null ],
-      [ "ACTION_DESPAWN", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa4a1db5ac9eab0c6fe2c8c2258a568d50", null ],
       [ "ACTION_INTRO_DONE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfaea03e99f5d2105750a0babff4084813f", null ],
       [ "ACTION_EVADE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa1efd1ebb79948c07da234803c164e84a", null ],
       [ "ACTION_GAIN_SCENT_OF_BLOOD", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa60909c05d10c098adcbe8cb141872ef8", null ],
-      [ "ACTION_MARK_OF_THE_FALLEN_CHAMPION", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfab254c40fbc2ac116fbb4419b8b523f18", null ]
+      [ "ACTION_MARK_OF_THE_FALLEN_CHAMPION", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfab254c40fbc2ac116fbb4419b8b523f18", null ],
+      [ "ACTION_READY_WEAPONS", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfae629be2cfd30a4079c8d121a569dd07e", null ],
+      [ "ACTION_OUTRO_DESCEND", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa356c9a7126292d564ad41494c8a85f2f", null ],
+      [ "ACTION_OUTRO_KNEEL", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa7803024b7df6ac2d2daeacebe1d19b88", null ],
+      [ "ACTION_OUTRO_RETREAT", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfacc4a6e85d12f9203eed7392c4b2e7124", null ],
+      [ "ACTION_OUTRO_FALL_IN", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa8c0828c12d5d9e36b6a77893684f9dff", null ],
+      [ "ACTION_OUTRO_STAND_DOWN", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfaa316d78e4c7edaed1e9c94b49ee3ec37", null ]
     ] ],
     [ "EventTypes", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8", [
       [ "EVENT_INTRO_ALLIANCE_1", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ae37967b8bc7ff45c1b2e22e2bf28f984", null ],
@@ -75,12 +80,21 @@ var boss__deathbringer__saurfang_8cpp =
       [ "EVENT_OUTRO_ALLIANCE_18", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a1740aeb2846ba5739d0fa12cfb1e60a8", null ],
       [ "EVENT_OUTRO_ALLIANCE_19", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ae366f0c76b9ade0b457393f0b9f4defd", null ],
       [ "EVENT_OUTRO_ALLIANCE_20", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a586167435ef0785d9eaca2ebfade1fc1", null ],
-      [ "EVENT_OUTRO_ALLIANCE_21", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a1d7307cc69ec6243603e5a1af669fd76", null ],
       [ "EVENT_OUTRO_HORDE_1", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8aba5e7f65ee95eee276a4d98ce360913f", null ],
-      [ "EVENT_OUTRO_HORDE_2", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a4b40022e1c65bd2198403ffd8c904430", null ],
       [ "EVENT_OUTRO_HORDE_3", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a51922fb68837a76ceb03ebf0859d8744", null ],
       [ "EVENT_OUTRO_HORDE_4", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ad9cedd1d4e2bc157b2628db688baa637", null ],
-      [ "EVENT_OUTRO_HORDE_5", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ac3b1bc36cb425281a1fcd79c3a8310b3", null ]
+      [ "EVENT_OUTRO_HORDE_GUARDS_KNEEL", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a2ef478739fa1de00ce23b9c33a86e67b", null ],
+      [ "EVENT_OUTRO_HORDE_PICKUP", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a1d6268daef03ec093017906c48b270ba", null ],
+      [ "EVENT_OUTRO_HORDE_LEAVE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a301c90ba6027abe56fb34c5a8c6e9f0c", null ],
+      [ "EVENT_OUTRO_A_GUARDS_KNEEL", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ac1da1838b1a2339020dd88055f265f0e", null ],
+      [ "EVENT_OUTRO_A_SAURFANG_NOD", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8af0b8da8bb02fcb9b7fcb80b0560fac2b", null ],
+      [ "EVENT_OUTRO_A_JAINA_SMILE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a67b0a418a385eaec70d95068d8137551", null ],
+      [ "EVENT_OUTRO_A_SAURFANG_LEAVE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ac78213b99792435c6f2143f5f777f409", null ],
+      [ "EVENT_OUTRO_A_DISMISS", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a4d424400c804d19fe2a61227ff7d1d93", null ],
+      [ "EVENT_OUTRO_A_ROYALS", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8adacee5dc85156b5b2772b0b53677d278", null ],
+      [ "EVENT_OUTRO_A_PORTAL_CLOSE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a30ae152ef9ce065e7b7b602cb8bf9ed7", null ],
+      [ "EVENT_OUTRO_A_SAURFANG_ADVANCE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8aa95ed4ddd3a7416faa42c2262b164fff", null ],
+      [ "EVENT_OUTRO_A_ZEPPELIN_RELEASE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8ab80a684f3691bfc14696d1492b72de1c", null ]
     ] ],
     [ "MovePoints", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd", [
       [ "POINT_SAURFANG", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdaf8c6a626b44ba51cca2b90046cb884e8", null ],
@@ -88,7 +102,16 @@ var boss__deathbringer__saurfang_8cpp =
       [ "POINT_CHARGE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda7c2c20bf46a4b40d7e34b4f3d27a36ba", null ],
       [ "POINT_CHOKE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda0cf854b741f7723747af29c3aab6fdd6", null ],
       [ "POINT_CORPSE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda56dbda2a975289db981cbcdc0de03ca3", null ],
-      [ "POINT_FINAL", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae0d327f4239f9e394bc2cb6cdb5cdcc1", null ]
+      [ "POINT_FINAL", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae0d327f4239f9e394bc2cb6cdb5cdcc1", null ],
+      [ "POINT_TRANSPORTER", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdacbe21ec735da385f2a9b6745fe4aa630", null ],
+      [ "POINT_RETREAT", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda7479e8ba3e4c301e7caf23a0d5310401", null ],
+      [ "POINT_A_MURADIN_STAND", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac59e31e5d467ff88c97be24e9e173711", null ],
+      [ "POINT_A_SAURFANG_MEET", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda58d0bd81fb464c6827051c7cf2dbecdf", null ],
+      [ "POINT_A_CORPSE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda3655ba9806bb99d5a73b3b9f91440899", null ],
+      [ "POINT_A_VARIAN", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda511b04175951fbd199d76068c33bb077", null ],
+      [ "POINT_A_EXIT", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdaaa87f29184745fb1b60d6ea799518a7b", null ],
+      [ "POINT_A_STAND_DOWN", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae8588322dd9cea78a34ce332ed710af4", null ],
+      [ "POINT_A_MURADIN_HOME", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda9c172b18bb80d7241ed37d7393b358db", null ]
     ] ],
     [ "Phases", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219", [
       [ "PHASE_INTRO_A", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a71a9f3502920635df082cf530d423f72", null ],
@@ -127,6 +150,7 @@ var boss__deathbringer__saurfang_8cpp =
       [ "SAY_OUTRO_HORDE_2", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad205a77cdd5ea9095934b196b097a7d9", null ],
       [ "SAY_OUTRO_HORDE_3", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa223527ac89eae19d9c6443b7e7db99b1", null ],
       [ "SAY_OUTRO_HORDE_4", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa4ac0ce112df0ca8306f6b07fdcf611ea", null ],
+      [ "SAY_OUTRO_ALLIANCE_SAURFANG_NOD", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaacf30386fbcee89b09e057d93e8a00b2a", null ],
       [ "SAY_INTRO_ALLIANCE_1", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaaa9ab7d6f4a473e2838949979b515098e", null ],
       [ "SAY_INTRO_ALLIANCE_4", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa734376b0120073215f62d6d5969a7182", null ],
       [ "SAY_INTRO_ALLIANCE_5", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaaf7949ef6e4546c0e81a6908b8ad0d501", null ],
@@ -142,6 +166,7 @@ var boss__deathbringer__saurfang_8cpp =
       [ "SAY_OUTRO_ALLIANCE_21", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa348aeff138f4ac593ab200d8da906773", null ],
       [ "SAY_OUTRO_ALLIANCE_17", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa546d7affcf6acc0bc84c36582082dbd0", null ],
       [ "SAY_OUTRO_ALLIANCE_19", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa5c883ec1daf845bc0e966d82b7af7a1c", null ],
+      [ "SAY_OUTRO_ALLIANCE_JAINA_SMILE", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaab0d6924bfa5ac20d413c693b991baac3", null ],
       [ "SAY_OUTRO_ALLIANCE_11", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaaf361dd4245ca82e2b090861777eef8e5", null ],
       [ "SAY_OUTRO_ALLIANCE_16", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaace03bb68992d4ac45a9fbbca88a2e89f", null ],
       [ "SAY_OUTRO_ALLIANCE_18", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad2643460e20b86800c3d4179aae799c9", null ],
@@ -171,8 +196,17 @@ var boss__deathbringer__saurfang_8cpp =
       [ "SPELL_ACHIEVEMENT", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55", null ]
     ] ],
     [ "AddSC_boss_deathbringer_saurfang", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a97b0b02539772c66fbc310236f683e94", null ],
+    [ "allianceGuardOffset", "d0/d80/boss__deathbringer__saurfang_8cpp.html#abd2ffeb09d72e8edd5c383332fdcf49d", null ],
+    [ "allianceJainaPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#aa4f60bd49fd6cbf06d959058fc70d2ce", null ],
+    [ "allianceMuradinPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ad99bcb0c5ab0a8737cfb2d610adfe653", null ],
+    [ "allianceSaurfangMeetPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#adfc5b7238e9bd4d3e6c32755f7320cb9", null ],
+    [ "allianceSaurfangPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a181ee17da9c5def3316d2bb6cde3c252", null ],
+    [ "allianceVarianMeetPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a1d92ceb7c9ca1a8981e67ca48fc86fd4", null ],
+    [ "allianceVarianPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ae2c4695c480efd0724e488f0d3726fd3", null ],
     [ "chargePos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a442ce4eb9b1fce5bba661b8df62266bd", null ],
     [ "chokePos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ab5bfc257883a48feb1411e5ac2e12ac8", null ],
     [ "deathbringerPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a339fd79b7b91e2485b75946290967613", null ],
-    [ "firstStepPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ad3af270ef42c8e3c606dd76eb87b8c49", null ]
+    [ "finalPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a732b07ce7e5415e62a1d187ef8ab87ed", null ],
+    [ "firstStepPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ad3af270ef42c8e3c606dd76eb87b8c49", null ],
+    [ "transporterPos", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5357e9aacd95ccf64a95d1c18a87cfbf", null ]
 ];

@@ -127,8 +127,10 @@ Inheritance diagram for spell_gordunni_trap:</div>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:adc581ed46587afcc8be3800ae79105f6" id="r_adc581ed46587afcc8be3800ae79105f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6">PrepareSpellScript</a> (<a class="el" href="../../de/d34/classspell__gordunni__trap.html">spell_gordunni_trap</a>)</td></tr>
 <tr class="separator:adc581ed46587afcc8be3800ae79105f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9c26a7e5f6cba4f1146cb626dbcf8ed" id="r_af9c26a7e5f6cba4f1146cb626dbcf8ed"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed">HandleDummy</a> ()</td></tr>
-<tr class="separator:af9c26a7e5f6cba4f1146cb626dbcf8ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28c0efdb7274372a43e286a923e08f56" id="r_a28c0efdb7274372a43e286a923e08f56"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d34/classspell__gordunni__trap.html#a28c0efdb7274372a43e286a923e08f56">Validate</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *) override</td></tr>
+<tr class="separator:a28c0efdb7274372a43e286a923e08f56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a478665938b298fa87bde5bd764bcde18" id="r_a478665938b298fa87bde5bd764bcde18"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d34/classspell__gordunni__trap.html#a478665938b298fa87bde5bd764bcde18">HandleDummy</a> (<a class="el" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ff">SpellEffIndex</a>)</td></tr>
+<tr class="separator:a478665938b298fa87bde5bd764bcde18"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7d09808ea2fdec450fcd129e996bd245" id="r_a7d09808ea2fdec450fcd129e996bd245"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245">Register</a> () override</td></tr>
 <tr class="separator:a7d09808ea2fdec450fcd129e996bd245"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -242,8 +244,6 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:ae85c836ab2da173942a40b53561df1fb inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3c16df6214a973fca3c62e4bc23f6a6 inherit pub_methods_class__SpellScript" id="r_ad3c16df6214a973fca3c62e4bc23f6a6"><td class="memItemLeft" align="right" valign="top">std::string const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad3c16df6214a973fca3c62e4bc23f6a6">_GetScriptName</a> () const</td></tr>
 <tr class="separator:ad3c16df6214a973fca3c62e4bc23f6a6 inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a95e7862a5807bff409f13aea8306077e inherit pub_methods_class__SpellScript" id="r_a95e7862a5807bff409f13aea8306077e"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">Validate</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
-<tr class="separator:a95e7862a5807bff409f13aea8306077e inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3b8fb5dd2bc5ca4dd34da5a98a76443 inherit pub_methods_class__SpellScript" id="r_ad3b8fb5dd2bc5ca4dd34da5a98a76443"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">Load</a> ()</td></tr>
 <tr class="separator:ad3b8fb5dd2bc5ca4dd34da5a98a76443 inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad501b6dde3e42c3af93589b117e2cafc inherit pub_methods_class__SpellScript" id="r_ad501b6dde3e42c3af93589b117e2cafc"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad501b6dde3e42c3af93589b117e2cafc">Unload</a> ()</td></tr>
@@ -293,8 +293,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="af9c26a7e5f6cba4f1146cb626dbcf8ed" name="af9c26a7e5f6cba4f1146cb626dbcf8ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9c26a7e5f6cba4f1146cb626dbcf8ed">&#9670;&#160;</a></span>HandleDummy()</h2>
+<a id="a478665938b298fa87bde5bd764bcde18" name="a478665938b298fa87bde5bd764bcde18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a478665938b298fa87bde5bd764bcde18">&#9670;&#160;</a></span>HandleDummy()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -305,6 +305,7 @@ Additional Inherited Members</h2></td></tr>
         <tr>
           <td class="memname">void spell_gordunni_trap::HandleDummy </td>
           <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ff">SpellEffIndex</a>&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -315,24 +316,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno">   36</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* chest = caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c">SummonGameObject</a>(<a class="code hl_enumvalue" href="../../d3/daf/zone__feralas_8cpp.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab">GO_GORDUNNI_DIRT_MOUND</a>, caster-&gt;GetPositionX(), caster-&gt;GetPositionY(), caster-&gt;GetPositionZ(), 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0))</div>
-<div class="line"><span class="lineno">   37</span>            {</div>
-<div class="line"><span class="lineno">   38</span>                chest-&gt;SetSpellId(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id);</div>
-<div class="line"><span class="lineno">   39</span>                caster-&gt;RemoveGameObject(chest, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   40</span>            }</div>
-<div class="line"><span class="lineno">   41</span>    }</div>
-<div class="ttc" id="aclassGameObject_html"><div class="ttname"><a href="../../de/d1c/classGameObject.html">GameObject</a></div><div class="ttdef"><b>Definition</b> GameObject.h:120</div></div>
-<div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:416</div></div>
-<div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
+<div class="line"><span class="lineno">   41</span>        target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1) ? <a class="code hl_enumvalue" href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a> : <a class="code hl_enumvalue" href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a>);</div>
+<div class="line"><span class="lineno">   42</span>    }</div>
+<div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
+<div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:453</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
-<div class="ttc" id="aclassWorldObject_html_ae5570989260234d213323c44ab5fb44c"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c">WorldObject::SummonGameObject</a></div><div class="ttdeci">GameObject * SummonGameObject(uint32 entry, float x, float y, float z, float ang, float rotation0, float rotation1, float rotation2, float rotation3, uint32 respawnTime, bool checkTransport=true, GOSummonType summonType=GO_SUMMON_TIMED_OR_CORPSE_DESPAWN)</div><div class="ttdef"><b>Definition</b> Object.cpp:2467</div></div>
-<div class="ttc" id="azone__feralas_8cpp_html_ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab"><div class="ttname"><a href="../../d3/daf/zone__feralas_8cpp.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab">GO_GORDUNNI_DIRT_MOUND</a></div><div class="ttdeci">@ GO_GORDUNNI_DIRT_MOUND</div><div class="ttdef"><b>Definition</b> zone_feralas.cpp:26</div></div>
+<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1359</div></div>
+<div class="ttc" id="azone__feralas_8cpp_html_a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6"><div class="ttname"><a href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a></div><div class="ttdeci">@ SPELL_GORDUNNI_DIRT_MOUND_CHEST</div><div class="ttdef"><b>Definition</b> zone_feralas.cpp:24</div></div>
+<div class="ttc" id="azone__feralas_8cpp_html_a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57"><div class="ttname"><a href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a></div><div class="ttdeci">@ SPELL_GORDUNNI_DIRT_MOUND_JUNK</div><div class="ttdef"><b>Definition</b> zone_feralas.cpp:25</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00416">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00026">GO_GORDUNNI_DIRT_MOUND</a>, and <a class="el" href="../../#l02467">WorldObject::SummonGameObject()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01359">Unit::CastSpell()</a>, <a class="el" href="../../#l00453">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00024">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a>, <a class="el" href="../../#l00025">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00043">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00044">Register()</a>.</p>
 
 </div>
 </div>
@@ -386,14 +383,50 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a7effb149f3d70abf83a46673d6e7705d">OnCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed">spell_gordunni_trap::HandleDummy</a>);</div>
-<div class="line"><span class="lineno">   46</span>    }</div>
-<div class="ttc" id="aSpellScript_8h_html_aa0eb707cdfb0f2fafeafd6ab32274654"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a></div><div class="ttdeci">#define SpellCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:324</div></div>
-<div class="ttc" id="aclassSpellScript_html_a7effb149f3d70abf83a46673d6e7705d"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a7effb149f3d70abf83a46673d6e7705d">SpellScript::OnCast</a></div><div class="ttdeci">HookList&lt; CastHandler &gt; OnCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:321</div></div>
-<div class="ttc" id="aclassspell__gordunni__trap_html_af9c26a7e5f6cba4f1146cb626dbcf8ed"><div class="ttname"><a href="../../de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed">spell_gordunni_trap::HandleDummy</a></div><div class="ttdeci">void HandleDummy()</div><div class="ttdef"><b>Definition</b> zone_feralas.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>    {</div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d34/classspell__gordunni__trap.html#a478665938b298fa87bde5bd764bcde18">spell_gordunni_trap::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:769</div></div>
+<div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
+<div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
+<div class="ttc" id="aclassspell__gordunni__trap_html_a478665938b298fa87bde5bd764bcde18"><div class="ttname"><a href="../../de/d34/classspell__gordunni__trap.html#a478665938b298fa87bde5bd764bcde18">spell_gordunni_trap::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_feralas.cpp:38</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">HandleDummy()</a>, <a class="el" href="../../#l00321">SpellScript::OnCast</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00038">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00769">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+
+</div>
+</div>
+<a id="a28c0efdb7274372a43e286a923e08f56" name="a28c0efdb7274372a43e286a923e08f56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28c0efdb7274372a43e286a923e08f56">&#9670;&#160;</a></span>Validate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool spell_gordunni_trap::Validate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">private</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
+<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a64eb574b6b4376c663ae3a98d44cf3a6">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a>, <a class="code hl_enumvalue" href="../../d3/daf/zone__feralas_8cpp.html#a9070084706f8f406bab249f3de3ab1e5a9ea4bcd1bfa060af96a1f901c1ddfd57">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a> });</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">SPELL_GORDUNNI_DIRT_MOUND_CHEST</a>, <a class="el" href="../../#l00025">SPELL_GORDUNNI_DIRT_MOUND_JUNK</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -406,7 +439,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d34/classspell__gordunni__trap.html">spell_gordunni_trap</a></li>
-    <li class="footer">Generated on Tue Sep 15 2026 10:55:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Sep 16 2026 10:44:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

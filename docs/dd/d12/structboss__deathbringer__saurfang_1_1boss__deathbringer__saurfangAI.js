@@ -21,5 +21,6 @@ var structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI =
     [ "_fallenChampionCastCount", "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#abb61bde3297dae343db32cd689decbcb", null ],
     [ "_frenzied", "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a947f97388142548dfa279218697d9347", null ],
     [ "_introDone", "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac45f8f405a06a256dbf5194c601699d8", null ],
+    [ "_outroStarted", "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac7a8883f38ee770c4ccee7d6bd3d4e38", null ],
     [ "_transportCheckTimer", "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a83e7662a983666e77ab282a9ec96a93b", null ]
 ];

@@ -247,7 +247,7 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#adcbe378ad3281f0034e8910d9be22f03":[8,0,0,0,2,2,0,10,15,24],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#adfde388a2edbae2c884134ab41ec3d7f":[8,0,0,0,2,2,0,10,15,9],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aee8ad5db1865ea9bb580d42c177b066d":[8,0,0,0,2,2,0,10,15,21],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[7,0,0,23],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,0,35],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[5,0,0,35,5]
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[7,0,0,23],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[7,0,0,23,5]
 };

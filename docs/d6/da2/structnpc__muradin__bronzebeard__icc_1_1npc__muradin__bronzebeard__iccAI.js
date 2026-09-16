@@ -7,6 +7,10 @@ var structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI =
     [ "SpellHit", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
     [ "UpdateAI", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
     [ "_events", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "_guardList", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a394b54fde0f1336fdf161482ea4d1115", null ],
+    [ "_instance", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#af1d8694678b10e5393c658ba0b20f47a", null ],
+    [ "_outroJainaGUID", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a21a44922a06bd3105a0aeb12ffda0d4a", null ],
+    [ "_outroSaurfangGUID", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#abbff68eecae6764afcb3ec1178c1777c", null ],
+    [ "_outroVarianGUID", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a78cf107f8fc698ac30167d1bdbc8c617", null ],
+    [ "_outroZeppelinWait", "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#ab7e0deb9d6c786c224fac2e274f516c8", null ]
 ];
