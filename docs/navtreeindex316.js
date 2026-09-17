@@ -1,5 +1,13 @@
 var NAVTREEINDEX316 =
 {
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cab197ca800b89fe5f62e660c40d21b9ba":[8,0,0,0,1,3,4,9,11,10,21],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cabc33b11540726249fc549e501d963cc4":[8,0,0,0,1,3,4,9,11,10,3],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7165f0a4b15a18b290c92c53991b33e":[8,0,0,0,1,3,4,9,11,10,23],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cac7fe4a075b9a9af0d891907d2f36a97b":[8,0,0,0,1,3,4,9,11,10,7],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[8,0,0,0,1,3,4,9,11,10,26],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298cae2406a11d1bdb8b16b814464c4e4aa3f":[8,0,0,0,1,3,4,9,11,10,0],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf0e20cad46ac003fdde837c171d8e9d3":[8,0,0,0,1,3,4,9,11,10,19],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf1e07bb745ccec2dbcf6b568b94d6a50":[8,0,0,0,1,3,4,9,11,10,11],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806":[8,0,0,0,1,3,4,9,11,10,27],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,4,9,11,9],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca369262a57814d253735f74572072131f":[8,0,0,0,1,3,4,9,11,9,0],
@@ -107,12 +115,12 @@ var NAVTREEINDEX316 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[7,0,13,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[7,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[7,0,13,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[7,0,13,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[7,0,13,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[7,0,13,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[7,0,3330],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[7,0,3330,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[7,0,3330,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX316 =
 "db/df4/classspell__hodir__biting__cold__player__aura.html":[7,0,3237],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#a3e7343f124b66a55d9a6cbf0ab085309":[7,0,3237,5],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#a3f6653b4ca202d9b0971189930e8b463":[7,0,3237,4],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#a9dd8f32c8ec709a14be15b46745b692b":[7,0,3237,6],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#aa62be73e00d9cb512806787eaf1c4144":[7,0,3237,0],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ab31989a4abd6b5cb08818b0e082c7d9f":[7,0,3237,1],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ad9664bff267b330565d3c706e1752e9d":[7,0,3237,2],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[7,0,3237,3],
-"db/df4/structTransportRotationEntry.html":[7,0,4607],
-"db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[7,0,4607,0],
-"db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[7,0,4607,2],
-"db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[7,0,4607,4]
+"db/df4/classspell__hodir__biting__cold__player__aura.html#a9dd8f32c8ec709a14be15b46745b692b":[7,0,3237,6]
 };

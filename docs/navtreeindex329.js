@@ -1,5 +1,13 @@
 var NAVTREEINDEX329 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a053a06f4ea853c58639599700024bcc2":[8,0,0,0,1,2,26,2,0,123],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a05d79f5f3fdcacccee161795e05a604e":[8,0,0,0,1,2,26,2,0,115],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a06815ffc7c194a7fea0350c4d87e5a5f":[8,0,0,0,1,2,26,2,0,155],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a073f493bd498c3b0e39c8455620f4a3a":[8,0,0,0,1,2,26,2,0,117],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a07d256cbd49d2ed3c40cee10ac0b2f9f":[8,0,0,0,1,2,26,2,0,99],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a086807a8253958daffbd2a70da0fa675":[8,0,0,0,1,2,26,2,0,132],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a0a2a568eba296a75ba8c3fb7e5e12c93":[8,0,0,0,1,2,26,2,0,89],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1348d8d2f2cbd3c64da924fcaf5b659e":[8,0,0,0,1,2,26,2,0,35],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a15abbb0707ca7a1ad0404000922879c5":[8,0,0,0,1,2,26,2,0,30],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506":[8,0,0,0,1,2,26,2,0,9],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b5d78f04f1f0d7d3b5bb5d7611adfba":[8,0,0,0,1,2,26,2,0,127],
@@ -241,13 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d55/classnpc__kaya__flathoof.html#ad7cce0c1a30abe5bc0bffa777c40c79a":[7,0,1962,2],
 "dc/d56/LootScript_8cpp.html":[8,0,0,0,1,2,38,0,62],
 "dc/d56/classTypeVectorContainer.html":[7,0,4623],
-"dc/d56/classTypeVectorContainer.html#a05f606f459c905632d1452727bc93a0d":[7,0,4623,0],
-"dc/d56/classTypeVectorContainer.html#a095f3a1caf74ca4e9e12ecca538a0cc4":[7,0,4623,5],
-"dc/d56/classTypeVectorContainer.html#a260f2bd14ae022a5810539ba87cec51e":[7,0,4623,1],
-"dc/d56/classTypeVectorContainer.html#a791a9c0d1c878323960e529e0c7b66c8":[7,0,4623,3],
-"dc/d56/classTypeVectorContainer.html#ab67e427fb3f82553e2253288e036d1ae":[7,0,4623,2],
-"dc/d56/classTypeVectorContainer.html#abfb5e987b1c711d259896708887ca6d7":[7,0,4623,4],
-"dc/d56/structStoredLootItem.html":[7,0,4542],
-"dc/d56/structStoredLootItem.html#a076564a43a586c6b6d17cd64fca8e9fb":[7,0,4542,9],
-"dc/d56/structStoredLootItem.html#a12e1cb9403cc4f6ceb770c8cf50a1d17":[7,0,4542,11]
+"dc/d56/classTypeVectorContainer.html#a05f606f459c905632d1452727bc93a0d":[7,0,4623,0]
 };

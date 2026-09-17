@@ -1,5 +1,13 @@
 var NAVTREEINDEX362 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,34,6,6,0],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html":[7,0,1635],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[7,0,1635,8],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[7,0,1635,9],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a642390a59ff46236dc3b429f371ea8cd":[7,0,1635,4],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[7,0,1635,6],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[7,0,1635,0],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a8144ed8ada8cd4fb11d74393ed0c525a":[7,0,1635,2],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a98216e43888854ac93f22169a0e253e5":[7,0,1635,7],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#ad13b21d571833210b1c069b7ea8bea05":[7,0,1635,5],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#aead5ae4ffda9732829e39b8c485a3c3e":[7,0,1635,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX362 =
 "dd/de9/classGameObjectScript.html#a233712ff412081583a8295cf512da48d":[7,0,1126,13],
 "dd/de9/classGameObjectScript.html#a2fb7d0f8f01ce083643bc0cb810fc612":[7,0,1126,4],
 "dd/de9/classGameObjectScript.html#a4992d88f026bf906852f085db4e8768e":[7,0,1126,6],
-"dd/de9/classGameObjectScript.html#a4a0f5552320f636cc645f32d7fb7801c":[7,0,1126,0],
-"dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d":[7,0,1126,7],
-"dd/de9/classGameObjectScript.html#a612884c70eed9c56958ab49dc1e2bb1f":[7,0,1126,8],
-"dd/de9/classGameObjectScript.html#ab0be8c47662e19a0c40ae109d616b88f":[7,0,1126,9],
-"dd/de9/classGameObjectScript.html#ab93c178f2137e92da28665d28bfec1d5":[7,0,1126,10],
-"dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[7,0,1126,2],
-"dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[7,0,1126,12],
-"dd/dea/classspell__gen__holiday__buff__food.html":[7,0,3097],
-"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[7,0,3097,2]
+"dd/de9/classGameObjectScript.html#a4a0f5552320f636cc645f32d7fb7801c":[7,0,1126,0]
 };

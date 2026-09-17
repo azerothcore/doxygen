@@ -1,5 +1,13 @@
 var NAVTREEINDEX238 =
 {
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ab96273a14e3cec773d8fe79ca774ec52":[7,0,771,0,17],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ab9f197acf29e3616ef121d6c06573ccd":[7,0,771,0,1],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#abb34f62f4e4a7f88909b1293163b8c8e":[7,0,771,0,7],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#abeb96b1a52d3daf6d8df91a4ce96dfa8":[7,0,771,0,0],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ad195384e0216075b7cae67875a0d7284":[7,0,771,0,9],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ad298bdd2619770af73265b10e77f1190":[7,0,771,0,6],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#adbc7a01adc7dd95894f3d175677353e3":[7,0,771,0,8],
+"d8/dc3/structboss__urom_1_1boss__uromAI.html#ae4948d320ec32a56f514f8f01061c524":[7,0,771,0,19],
 "d8/dc6/classcheat__commandscript.html":[7,0,895],
 "d8/dc6/classcheat__commandscript.html#a119ad06c5b8be235853bb13c7cff724b":[7,0,895,2],
 "d8/dc6/classcheat__commandscript.html#a25ea712f2fb249e49f5f0b8244f743c5":[7,0,895,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX238 =
 "d8/dd6/DBCfmt_8h.html#a804190f2937789857492be7c664d777c":[8,0,0,0,1,4,0,3,27],
 "d8/dd6/DBCfmt_8h.html#a80a9b3c3eda13a8ef3b8f5193f84b016":[8,0,0,0,1,4,0,3,58],
 "d8/dd6/DBCfmt_8h.html#a80bc2498b780d6b3bb628300305ae900":[8,0,0,0,1,4,0,3,103],
-"d8/dd6/DBCfmt_8h.html#a81ec700b34b76772ade19900d83ab8f7":[8,0,0,0,1,4,0,3,33],
-"d8/dd6/DBCfmt_8h.html#a82005783b0058ee75e142aadf0404944":[8,0,0,0,1,4,0,3,102],
-"d8/dd6/DBCfmt_8h.html#a820eb69553ad65aaf06f6f041dd20cf9":[8,0,0,0,1,4,0,3,23],
-"d8/dd6/DBCfmt_8h.html#a85ab47c77236ce9c9e7d7434943df7b8":[8,0,0,0,1,4,0,3,53],
-"d8/dd6/DBCfmt_8h.html#a869276e5adcc0d86a807b7060e965c3c":[8,0,0,0,1,4,0,3,76],
-"d8/dd6/DBCfmt_8h.html#a8885c21f97968e67aa8c66d116012b07":[8,0,0,0,1,4,0,3,44],
-"d8/dd6/DBCfmt_8h.html#a9106613cd6306b455481f361a9bcfe6f":[8,0,0,0,1,4,0,3,61],
-"d8/dd6/DBCfmt_8h.html#a94c52639aeff626c57b45222193354a9":[8,0,0,0,1,4,0,3,86],
-"d8/dd6/DBCfmt_8h.html#a9806193fe9fe603088e8eccc3a6e7398":[8,0,0,0,1,4,0,3,48]
+"d8/dd6/DBCfmt_8h.html#a81ec700b34b76772ade19900d83ab8f7":[8,0,0,0,1,4,0,3,33]
 };

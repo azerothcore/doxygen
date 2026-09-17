@@ -1,5 +1,13 @@
 var NAVTREEINDEX405 =
 {
+"df/d17/group__world.html#gadba1100bafe6db8a242bdad35663e909":[4,2,51],
+"df/d17/group__world.html#gaea61d86d9a64dd5dbc8ea843aad97eb6":[4,2,40],
+"df/d17/group__world.html#gaeb74bbd4568c726a2443318aea6313d0":[4,2,53],
+"df/d17/group__world.html#gaeca3a72d5a44b5beb019b99cf0b30aff":[4,2,35],
+"df/d17/group__world.html#gaed38cecb6af95222638b2177fa48757c":[4,2,36],
+"df/d17/group__world.html#gaf7a3484daa8221287a4c325fb3a8080c":[4,2,44],
+"df/d17/group__world.html#gaf9ff2442cc875af4b6ca4bec7f41c965":[4,2,42],
+"df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcabfbc19d06d002a2b3e03ff2e13c3fb61":[4,2,16,2],
 "df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf18aae50edbb1083eb3b45656b52f999":[4,2,16,0],
 "df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08":[4,2,16,1],
 "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2a8198be8f6c6a5b3e7588ffd64a95312f":[4,2,17,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX405 =
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf87c780432ca26b887bf986d5a7a4b6":[8,0,0,0,1,3,2,1,1,15,9,4],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afc3e2fe9429a9d43bb8e00ffe69703cf":[8,0,0,0,1,3,2,1,1,15,9,3],
 "df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afd09db3869f04306b07aef3cb2bd47e8":[8,0,0,0,1,3,2,1,1,15,9,9],
-"df/d1f/classnpc__tharnarian.html":[7,0,2222],
-"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[7,0,2222,1],
-"df/d1f/classnpc__tharnarian.html#a88e82aa6c08fa85491c87d7a558efd9b":[7,0,2222,3],
-"df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[7,0,2222,2],
-"df/d20/GameObjectAI_8h.html":[8,0,0,0,1,2,3,0,3],
-"df/d20/areatrigger__scripts_8cpp.html":[8,0,0,0,1,3,10,2],
-"df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275":[8,0,0,0,1,3,10,2,16],
-"df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50":[8,0,0,0,1,3,10,2,16,2],
-"df/d20/areatrigger__scripts_8cpp.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94":[8,0,0,0,1,3,10,2,16,1]
+"df/d1f/classnpc__tharnarian.html":[7,0,2222]
 };

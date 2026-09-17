@@ -1,5 +1,13 @@
 var NAVTREEINDEX420 =
 {
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,4,1,1,3,2],
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[8,0,0,0,1,3,4,1,1,3,2,2],
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[8,0,0,0,1,3,4,1,1,3,2,0],
+"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[8,0,0,0,1,3,4,1,1,3,2,1],
+"df/db6/classspell__dtk__raise__dead__aura.html":[7,0,2958],
+"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[7,0,2958,3],
+"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[7,0,2958,1],
+"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[7,0,2958,2],
 "df/db6/classspell__dtk__raise__dead__aura.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3":[7,0,2958,0],
 "df/db6/classspell__gen__vehicle__scaling.html":[7,0,3174],
 "df/db6/classspell__gen__vehicle__scaling.html#a6feb7c77ba258688a83bdb86e9ee53f8":[7,0,3174,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX420 =
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[7,0,2818,1],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a49277dbcc2d7cc79f29226e9b242120b":[7,0,2818,2],
 "df/dc3/classspell__dk__anti__magic__shell__raid.html#a58c03a57bdfcba203159ae38683fdf14":[7,0,2818,5],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a730528baddf2087fb1c0898ac7ad76c5":[7,0,2818,4],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[7,0,2818,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[7,0,2818,0],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html":[7,0,3739],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[7,0,3739,2],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[7,0,3739,1],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[7,0,3739,3],
-"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[7,0,3739,0],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html":[8,0,0,0,1,3,2,1,2,1]
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a730528baddf2087fb1c0898ac7ad76c5":[7,0,2818,4]
 };

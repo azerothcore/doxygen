@@ -1,6 +1,14 @@
 var NAVTREEINDEX241 =
 {
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2345],
@@ -241,13 +249,5 @@ var NAVTREEINDEX241 =
 "d8/df3/structSkillStatusData.html#a232801ad25897a82739916d5be4fdc22":[7,0,2618,2],
 "d8/df3/structSkillStatusData.html#a51ccb328b807f2c7fd275d843218f466":[7,0,2618,1],
 "d8/df3/structSkillStatusData.html#a7594ceb20110da34f3aa68ac69996b94":[7,0,2618,0],
-"d8/df4/structboss__flame__leviathan__overload__device.html":[7,0,488],
-"d8/df4/structboss__flame__leviathan__overload__device.html#a3f313a637fd95e28db1265ae84f349a8":[7,0,488,1],
-"d8/df4/structboss__flame__leviathan__overload__device.html#a6cd506d0615b1db9d42bf4d4858f6b05":[7,0,488,0],
-"d8/df4/structnpc__sunblade__arch__mage.html":[7,0,2203],
-"d8/df4/structnpc__sunblade__arch__mage.html#a0d0349ea507b1f8431014c55eef5ce0e":[7,0,2203,2],
-"d8/df4/structnpc__sunblade__arch__mage.html#a25cc45033c55f1099b50eab4b4f497ee":[7,0,2203,0],
-"d8/df4/structnpc__sunblade__arch__mage.html#a3289fbad5f987a3d5d9986a31a1c442f":[7,0,2203,3],
-"d8/df4/structnpc__sunblade__arch__mage.html#aa6680f06651316996868907b1d28126c":[7,0,2203,4],
-"d8/df4/structnpc__sunblade__arch__mage.html#aadeae32d691229b7b7b531175b8a5018":[7,0,2203,1]
+"d8/df4/structboss__flame__leviathan__overload__device.html":[7,0,488]
 };

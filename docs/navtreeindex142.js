@@ -1,5 +1,9 @@
 var NAVTREEINDEX142 =
 {
+"d4/dd0/classWorldObject.html#a0b4cc2758ff4a939539d0adbac6aa53c":[7,0,4725,138],
+"d4/dd0/classWorldObject.html#a0ecfe05a8965ef2d2764685fff1cc961":[7,0,4725,150],
+"d4/dd0/classWorldObject.html#a0f50be7888e7adb64d542c540b7f5675":[7,0,4725,152],
+"d4/dd0/classWorldObject.html#a0f8d05be503013c4e84dddae9adf150a":[7,0,4725,182],
 "d4/dd0/classWorldObject.html#a0fdf0fc4f284b6024a5bfac7ae6e0384":[7,0,4725,178],
 "d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb":[7,0,4725,77],
 "d4/dd0/classWorldObject.html#a1087ef3824cf3d798c53ae070894b526":[7,0,4725,179],
@@ -245,9 +249,5 @@ var NAVTREEINDEX142 =
 "d4/dd2/structLajTransformData.html":[7,0,1446],
 "d4/dd2/structLajTransformData.html#a6a7f030a6445a46fe55640356e9c5124":[7,0,1446,0],
 "d4/dd2/structLajTransformData.html#a6cfbffba97934cc420964f9b6d7645a3":[7,0,1446,1],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html":[8,0,0,0,1,3,7,1,5],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,1,5,16],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a0e057683b7d5fcbbe845f939acaa2c23":[8,0,0,0,1,3,7,1,5,16,5],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a2f6233c1156cc83135bb5d9641f79bd7":[8,0,0,0,1,3,7,1,5,16,13],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a16774215bba3b38580ea51987d64cff1a3112bf9e1da146cbd470e9fd2b4a893c":[8,0,0,0,1,3,7,1,5,16,0]
+"d4/dd3/boss__reliquary__of__souls_8cpp.html":[8,0,0,0,1,3,7,1,5]
 };

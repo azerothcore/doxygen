@@ -1,5 +1,13 @@
 var NAVTREEINDEX389 =
 {
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a0cf5ecd9d7b3c92e2da836983323f378":[7,0,2244,0,4],
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a4e599ae2ee4e892795889bd57dd29e27":[7,0,2244,0,2],
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a80f80231bfe5b71bf415da3202c2e6fb":[7,0,2244,0,0],
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a81f384607ab7e8c4ed7385bdcddfd7a5":[7,0,2244,0,3],
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#aa270248ad9e0c319234ff0741270b465":[7,0,2244,0,1],
+"de/d71/QueryResult_8cpp.html":[8,0,0,0,1,1,0,32],
+"de/d72/classFollowerAI.html":[7,0,1093],
+"de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[7,0,1093,20],
 "de/d72/classFollowerAI.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00":[7,0,1093,14],
 "de/d72/classFollowerAI.html#a21a4c066ea3d6983c1b6e1f02d24cbae":[7,0,1093,21],
 "de/d72/classFollowerAI.html#a34d732db8b189e0243854ad3b87cb70f":[7,0,1093,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX389 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae9d975b95e389fb8035d337bd1da70c4":[7,0,1395,0,24],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb31bb99804ca856339d54e1054db632":[7,0,1395,0,8],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb9c936614467ac83b8be6b4c17c23ca":[7,0,1395,0,19],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aef93d0b1ecc6c7d252409f025e12ff1d":[7,0,1395,0,2],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af3c9652f2d8834357e8f3788914de294":[7,0,1395,0,27],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af62979800a5a262ff5f4fba546c64c59":[7,0,1395,0,5],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#afb44bdf61319bea21975898f9be0adac":[7,0,1395,0,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[7,0,1623,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a0c48e1cebec95e6de0b7d02a22658c40":[7,0,1623,0,1],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[7,0,1623,0,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c1bbe079c065745782adfa13b030515":[7,0,1623,0,2],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c604dfa9deaaff7b71116b5b54c8771":[7,0,1623,0,4]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aef93d0b1ecc6c7d252409f025e12ff1d":[7,0,1395,0,2]
 };

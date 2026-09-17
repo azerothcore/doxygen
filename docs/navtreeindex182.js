@@ -1,5 +1,9 @@
 var NAVTREEINDEX182 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298cabc1ac0c4dfcc765f4cce19935877a231":[8,0,0,0,1,3,2,1,1,8,4,0],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298cae4765d2d802cd237148c67913adabb5a":[8,0,0,0,1,3,2,1,1,8,4,4],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ccd71da672cd021682c47fc6ac6fee":[8,0,0,0,1,3,2,1,1,8,4,9],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,1,1,8,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba1cf4a5ff843af27788946b55052caa67":[8,0,0,0,1,3,2,1,1,8,5,3],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba39ae9387058b0d69113c328b8b347ae7":[8,0,0,0,1,3,2,1,1,8,5,2],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba3b65c21636aeef3e8871f725c9a48013":[8,0,0,0,1,3,2,1,1,8,5,1],
@@ -58,6 +62,7 @@ var NAVTREEINDEX182 =
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d":[8,0,0,0,1,3,2,1,0,15,3,5],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777":[8,0,0,0,1,3,2,1,0,15,3,2],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245":[8,0,0,0,1,3,2,1,0,15,3,16],
+"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da1d4cdb028fd5eb1ecea20bef8512f228":[8,0,0,0,1,3,2,1,0,15,3,21],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0":[8,0,0,0,1,3,2,1,0,15,3,4],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb":[8,0,0,0,1,3,2,1,0,15,3,6],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b":[8,0,0,0,1,3,2,1,0,15,3,12],
@@ -70,6 +75,7 @@ var NAVTREEINDEX182 =
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f":[8,0,0,0,1,3,2,1,0,15,3,10],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7":[8,0,0,0,1,3,2,1,0,15,3,14],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60":[8,0,0,0,1,3,2,1,0,15,3,8],
+"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9b8228d10e6c6ceedb8584b443aad500":[8,0,0,0,1,3,2,1,0,15,3,22],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173":[8,0,0,0,1,3,2,1,0,15,3,3],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88":[8,0,0,0,1,3,2,1,0,15,3,0],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a":[8,0,0,0,1,3,2,1,0,15,3,19],
@@ -80,6 +86,7 @@ var NAVTREEINDEX182 =
 "d6/d61/instance__blackrock__depths_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12":[8,0,0,0,1,3,2,1,0,15,4,0],
 "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dc":[8,0,0,0,1,3,2,1,0,15,2],
 "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71":[8,0,0,0,1,3,2,1,0,15,2,1],
+"d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca85cf012f4d8537981c5bdfcea50ad5f8":[8,0,0,0,1,3,2,1,0,15,2,2],
 "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62":[8,0,0,0,1,3,2,1,0,15,2,0],
 "d6/d61/instance__blackrock__depths_8cpp.html#ab4d1592137d12427d186be538badd18b":[8,0,0,0,1,3,2,1,0,15,6],
 "d6/d61/instance__blackrock__depths_8cpp.html#ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8":[8,0,0,0,1,3,2,1,0,15,6,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[7,0,3637,4],
 "d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[7,0,3637,2],
 "d6/d6b/classspell__pal__light__s__beacon.html":[7,0,3792],
-"d6/d6b/classspell__pal__light__s__beacon.html#a0fec47a0918ecfe3517c63190b27e91c":[7,0,3792,2],
-"d6/d6b/classspell__pal__light__s__beacon.html#a88b06e814ade33fad51c8036d963f654":[7,0,3792,3],
-"d6/d6b/classspell__pal__light__s__beacon.html#aa2e48771627700ee12153b13a094cea8":[7,0,3792,1],
-"d6/d6b/classspell__pal__light__s__beacon.html#acfdb90639eb05a5ec252c20c9f302fed":[7,0,3792,0],
-"d6/d6b/classspell__pal__light__s__beacon.html#ae9911ba6c95cfc6c345743b0f970062b":[7,0,3792,4],
-"d6/d6b/structnpc__sunblade__scout.html":[7,0,2204],
-"d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[7,0,2204,6],
-"d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[7,0,2204,2]
+"d6/d6b/classspell__pal__light__s__beacon.html#a0fec47a0918ecfe3517c63190b27e91c":[7,0,3792,2]
 };

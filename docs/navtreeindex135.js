@@ -1,5 +1,9 @@
 var NAVTREEINDEX135 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadac3e433073511298830a6d6c7b7871fb1":[8,0,0,0,1,3,5,2,1,1,46,9],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaf942ec6a614a398d5fb37e03c5fe5bee":[8,0,0,0,1,3,5,2,1,1,46,8],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9":[8,0,0,0,1,3,5,2,1,1,54],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a101c1b1c30439dc2e935ee87b7b51a95":[8,0,0,0,1,3,5,2,1,1,54,0],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a27bdd95528c81703a7768a704a29e5d3":[8,0,0,0,1,3,5,2,1,1,54,7],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a31604718f775e298f1e7c26524351a75":[8,0,0,0,1,3,5,2,1,1,54,6],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a748c886ad604af3db71d021ecb7f3b52":[8,0,0,0,1,3,5,2,1,1,54,1],
@@ -204,14 +208,14 @@ var NAVTREEINDEX135 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[7,0,3130,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[7,0,3130,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[7,0,3130,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,9],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,9],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,9],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,9,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,9,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,9,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,9,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,9,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,9,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,9,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,9,1],
 "d4/d8b/classCharacterCache.html":[7,0,875],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[7,0,875,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[7,0,875,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX135 =
 "d4/d8b/classCharacterCache.html#aebd1785e1a7682c0f7755a8b0a28d5c9":[7,0,875,15],
 "d4/d8b/namespaceAcore_1_1Types.html":[5,0,0,16],
 "d4/d8b/namespaceAcore_1_1Types.html#a67eb68c20f5616b2ea2a16a87784360a":[5,0,0,16,3],
-"d4/d8b/namespaceAcore_1_1Types.html#a6d4fe40146df0d52c6917d8cc920ac84":[5,0,0,16,1],
-"d4/d8b/namespaceAcore_1_1Types.html#aa6a7b1e80be2ae7ec2efb76185ee7b44":[5,0,0,16,0],
-"d4/d8b/namespaceAcore_1_1Types.html#ae544e1b7f5a34959b1b48592f67dd4e7":[5,0,0,16,2],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[7,0,2805],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a01e31df6c6ec9f6ae5bffb4b435caf8e":[7,0,2805,2]
+"d4/d8b/namespaceAcore_1_1Types.html#a6d4fe40146df0d52c6917d8cc920ac84":[5,0,0,16,1]
 };

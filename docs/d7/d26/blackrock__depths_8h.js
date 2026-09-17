@@ -25,6 +25,7 @@ var blackrock__depths_8h =
       [ "NPC_RAGEREAVER_GOLEM", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a3ee86cac9df08dcaa8ccab7abf35b3a3", null ],
       [ "NPC_WRATH_HAMMER_CONSTRUCT", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08aa300d2904e580a2b62d3bbd97ed6b762", null ],
       [ "NPC_GOLEM_LORD_ARGELMACH", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a826a36794e050b5e28524bd893f19265", null ],
+      [ "NPC_WARBRINGER_CONSTRUCT", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08adec930ed7dad1eb70904a9b4264ce8ad", null ],
       [ "NPC_COREN_DIREBREW", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a283bc2fe696da85674ec2e76057dd1e7", null ],
       [ "NPC_IRONHAND_GUARDIAN", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08a2cbe16f2e03b2e1754bf1232bd95c4e7", null ],
       [ "NPC_ARENA_SPECTATOR", "d7/d26/blackrock__depths_8h.html#a25a619e6b66096a4f05d048e4a96df08ae5c4d7e2e07d85e3db91a9d95c6f22e5", null ],

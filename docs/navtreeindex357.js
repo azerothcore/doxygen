@@ -1,5 +1,13 @@
 var NAVTREEINDEX357 =
 {
+"dd/db0/classnpc__freed__protodrake.html":[7,0,1843],
+"dd/db0/classnpc__freed__protodrake.html#a56e33e186800efa3fb86ca6a614e3b0b":[7,0,1843,1],
+"dd/db0/classnpc__freed__protodrake.html#a9680bf65cb97327396f58c297df1c8f5":[7,0,1843,2],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html":[7,0,1941,0],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a264874b9f6f0609792d4b3a325e54f59":[7,0,1941,0,3],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a43fa8bf8f22f0635261decd8b15ed6f5":[7,0,1941,0,1],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#acb187a58b0ba256b4e003655ac36db34":[7,0,1941,0,2],
+"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#ae8fbc36a15324b210a24a0e98357adc3":[7,0,1941,0,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html":[7,0,2167,0],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a1171f0cd40bd3d7198bab15b12edc131":[7,0,2167,0,4],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a14c5cee1c3032b8df4ad902eb273e9b0":[7,0,2167,0,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX357 =
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e89b71161222e725b57fce4f50e0ef4":[8,0,0,0,1,3,7,5,1,3,2,1],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bb3f7214745b5e9789671b55bd90ee":[8,0,0,0,1,3,7,5,1,3,2,0],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#adad310e84d622e1ea0240e0958bf5826":[8,0,0,0,1,3,7,5,1,3,3],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html":[7,0,4261],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a01cb7d25bef14a2266d81594544f6283":[7,0,4261,4],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a061e110b9a032a9bbd0a48f686d16a84":[7,0,4261,3],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a18c80010b9e8803b3c225acf2dd0b605":[7,0,4261,0],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a3a84a9d7109845d201b395f05f66d109":[7,0,4261,6],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#aa06b7505ff483bc5e534cc37d909b28c":[7,0,4261,5],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#af31fd5b1f9cdc67650eec5e305f095bf":[7,0,4261,1],
-"dd/dba/classspell__the__lich__king__valkyr__target__search.html#afcc1efc69d73086a9ab686855911e516":[7,0,4261,2],
-"dd/dba/structboss__moroes.html":[7,0,642]
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html":[7,0,4261]
 };

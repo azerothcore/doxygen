@@ -1,5 +1,13 @@
 var NAVTREEINDEX339 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a88fdc4b1d80593d591bea5e7ae8f0d14":[8,0,0,0,1,3,2,16,62],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8b42e9da259872a9fd536de7af047e7d":[8,0,0,0,1,3,2,16,15],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8c45aaff0bee880d1bac07d32d1747f1":[8,0,0,0,1,3,2,16,4],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[8,0,0,0,1,3,2,16,52],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a934b2523d92c5bd9efd2add4089877cb":[8,0,0,0,1,3,2,16,76],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a942a9ad3e1b872492dfc7d62615df103":[8,0,0,0,1,3,2,16,112],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a950a19cf6fbad1b9beea2d3b2cfe8a7f":[8,0,0,0,1,3,2,16,74],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[8,0,0,0,1,3,2,16,137],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9931154ef167189090827144138a3a7c":[8,0,0,0,1,3,2,16,103],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[8,0,0,0,1,3,2,16,138],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9ed2340a152ddd317bff9bfd72ed5e2a":[8,0,0,0,1,3,2,16,33],
@@ -241,13 +249,5 @@ var NAVTREEINDEX339 =
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ae5f91b4756b7b36ad49c0ea4a70a29cc":[8,0,0,0,1,3,3,1,32,9],
 "dc/ddf/structinstance__the__botanica_1_1instance__the__botanica__InstanceMapScript.html":[7,0,1385,0],
 "dc/ddf/structinstance__the__botanica_1_1instance__the__botanica__InstanceMapScript.html#a86c5e55fe8f7e40d041abbcdb2d23797":[7,0,1385,0,0],
-"dc/de1/SkillDiscovery_8h.html":[8,0,0,0,1,2,40,1],
-"dc/de1/SkillDiscovery_8h.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[8,0,0,0,1,2,40,1,0],
-"dc/de1/SkillDiscovery_8h.html#ab50472e4f1f892eb77ce660ef00d808a":[8,0,0,0,1,2,40,1,1],
-"dc/de1/SkillDiscovery_8h.html#abdf3c2fcf65212466dfb54053e35024c":[8,0,0,0,1,2,40,1,2],
-"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[8,0,0,0,1,2,40,1,3],
-"dc/de1/instance__sunwell__plateau_8cpp.html":[8,0,0,0,1,3,2,11,6],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[8,0,0,0,1,3,2,11,6,14],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216":[8,0,0,0,1,3,2,11,6,10],
-"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368":[8,0,0,0,1,3,2,11,6,10,1]
+"dc/de1/SkillDiscovery_8h.html":[8,0,0,0,1,2,40,1]
 };

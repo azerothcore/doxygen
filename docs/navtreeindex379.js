@@ -1,5 +1,13 @@
 var NAVTREEINDEX379 =
 {
+"de/d0f/structnpc__anubisath__guardian.html":[7,0,1654],
+"de/d0f/structnpc__anubisath__guardian.html#a16d1e70f0ca0fcef972ac45f82e885e6":[7,0,1654,3],
+"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[7,0,1654,1],
+"de/d0f/structnpc__anubisath__guardian.html#a69b3b2cee4c84cd6dccd3465b555ad12":[7,0,1654,6],
+"de/d0f/structnpc__anubisath__guardian.html#a7db1771f9083e14c177e37d7bf6690c5":[7,0,1654,0],
+"de/d0f/structnpc__anubisath__guardian.html#a9a9c805c92a3e8e96914d01accb01051":[7,0,1654,5],
+"de/d0f/structnpc__anubisath__guardian.html#a9f40c43ded16ad5934a5d5499f16ca76":[7,0,1654,2],
+"de/d0f/structnpc__anubisath__guardian.html#ad44455c43d53426a152547d5b0770bbe":[7,0,1654,7],
 "de/d0f/structnpc__anubisath__guardian.html#aee75f952ed14f5f6fab1f5117f6b8b9e":[7,0,1654,8],
 "de/d0f/structnpc__anubisath__guardian.html#af87cc86141964c48f9c57ed5bade36a5":[7,0,1654,4],
 "de/d11/classWorldPackets_1_1Quest_1_1QuestPushResult.html":[5,0,34,14,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX379 =
 "de/d1c/classGameObject.html#a3ffc6eafe29033d1b13cf84975c76d9d":[7,0,1114,43],
 "de/d1c/classGameObject.html#a4041309df4f69a0eb990f6a39cd7ceb7":[7,0,1114,145],
 "de/d1c/classGameObject.html#a42b616a16ebda41b5a79a488ca7db68b":[7,0,1114,64],
-"de/d1c/classGameObject.html#a459f7534a119356754104aff8936eb71":[7,0,1114,78],
-"de/d1c/classGameObject.html#a462386b3457bdd1da4821cd6e6f9c64c":[7,0,1114,89],
-"de/d1c/classGameObject.html#a46a56b13b3920779e3d18a48ade846d6":[7,0,1114,132],
-"de/d1c/classGameObject.html#a480c82a758a0654c31d5cda1ab8495e8":[7,0,1114,90],
-"de/d1c/classGameObject.html#a49b086bad4ba856afbe9216f3f786b1b":[7,0,1114,160],
-"de/d1c/classGameObject.html#a4a4ecdab74c6fdb99af8c35699a0a227":[7,0,1114,33],
-"de/d1c/classGameObject.html#a4bffa0ad80f3029235b3e886ba54adf7":[7,0,1114,72],
-"de/d1c/classGameObject.html#a4d9b613fec271533fb27c1a4d96adc39":[7,0,1114,166],
-"de/d1c/classGameObject.html#a4da22122e399a6fe1388138f3fb58ee5":[7,0,1114,41]
+"de/d1c/classGameObject.html#a459f7534a119356754104aff8936eb71":[7,0,1114,78]
 };

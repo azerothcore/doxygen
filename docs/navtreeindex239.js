@@ -1,5 +1,13 @@
 var NAVTREEINDEX239 =
 {
+"d8/dd6/DBCfmt_8h.html#a82005783b0058ee75e142aadf0404944":[8,0,0,0,1,4,0,3,102],
+"d8/dd6/DBCfmt_8h.html#a820eb69553ad65aaf06f6f041dd20cf9":[8,0,0,0,1,4,0,3,23],
+"d8/dd6/DBCfmt_8h.html#a85ab47c77236ce9c9e7d7434943df7b8":[8,0,0,0,1,4,0,3,53],
+"d8/dd6/DBCfmt_8h.html#a869276e5adcc0d86a807b7060e965c3c":[8,0,0,0,1,4,0,3,76],
+"d8/dd6/DBCfmt_8h.html#a8885c21f97968e67aa8c66d116012b07":[8,0,0,0,1,4,0,3,44],
+"d8/dd6/DBCfmt_8h.html#a9106613cd6306b455481f361a9bcfe6f":[8,0,0,0,1,4,0,3,61],
+"d8/dd6/DBCfmt_8h.html#a94c52639aeff626c57b45222193354a9":[8,0,0,0,1,4,0,3,86],
+"d8/dd6/DBCfmt_8h.html#a9806193fe9fe603088e8eccc3a6e7398":[8,0,0,0,1,4,0,3,48],
 "d8/dd6/DBCfmt_8h.html#a9c8eb13153c47192ccf34a753a9f75a4":[8,0,0,0,1,4,0,3,26],
 "d8/dd6/DBCfmt_8h.html#a9e62d22e73c19a3a3b72e8f5815b793e":[8,0,0,0,1,4,0,3,4],
 "d8/dd6/DBCfmt_8h.html#a9f96e6161c90bed931875df624642350":[8,0,0,0,1,4,0,3,101],
@@ -202,10 +210,10 @@ var NAVTREEINDEX239 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[7,0,177],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[7,0,177,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[7,0,177,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,34,14,1,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX239 =
 "d8/ddd/classspell__sha__mana__tide.html#a0332788648661d5c2665c5d1431e4ca7":[7,0,4126,2],
 "d8/ddd/classspell__sha__mana__tide.html#aecb5c0c9f5258a3ce7ff18cf08f89845":[7,0,4126,3],
 "d8/ddd/classspell__sha__mana__tide.html#afd362a7dd0373e9480445a99023a5c8c":[7,0,4126,1],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html":[7,0,4492],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[7,0,4492,5],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[7,0,4492,0],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[7,0,4492,3],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a51904be3790c99bded697b2cf7c8db23":[7,0,4492,6],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#a5cb7dbeeb9d28037771a2f235a95e0fe":[7,0,4492,7],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#aa3839fed2e3de0f7a01ad209eec2bdcd":[7,0,4492,4],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#ae69913fad91a8e5b140c206d2c5733e0":[7,0,4492,2],
-"d8/ddd/structSpellPeriodicAuraLogInfo.html#af69ed83578024b979dc9d65ff5ddc83b":[7,0,4492,1]
+"d8/ddd/structSpellPeriodicAuraLogInfo.html":[7,0,4492]
 };

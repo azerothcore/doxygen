@@ -1,5 +1,13 @@
 var NAVTREEINDEX347 =
 {
+"dd/d34/namespaceVMAP.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19":[5,0,31,31,0],
+"dd/d34/namespaceVMAP.html#af71b89398ed4323940f67baaf58f2cd7":[5,0,31,37],
+"dd/d35/classboss__icehowl.html":[7,0,558],
+"dd/d35/classboss__icehowl.html#ab3c9711fa6af17be9dc7331b42c408be":[7,0,558,1],
+"dd/d35/classboss__icehowl.html#ac77bf3b9d954b8c6be01d0209a80cc6a":[7,0,558,2],
+"dd/d36/BoundingIntervalHierarchy_8h.html":[8,0,0,0,0,1,4],
+"dd/d36/BoundingIntervalHierarchy_8h.html#a3b415e235398aa84c4f976084f8e130c":[8,0,0,0,0,1,4,7],
+"dd/d36/BoundingIntervalHierarchy_8h.html#accbb358028675c83675d8b34c386268d":[8,0,0,0,0,1,4,5],
 "dd/d36/BoundingIntervalHierarchy_8h.html#ad04403146f53e198de60b6c4bec4246e":[8,0,0,0,0,1,4,6],
 "dd/d36/RBACTest_8cpp.html":[8,0,0,0,2,2,0,0,0],
 "dd/d36/classnpc__green__dragon__combat__trigger.html":[7,0,1871],
@@ -241,13 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d3b/structGameObjectTemplate.html#ad8b06a94b8afb25729ec2d7fb095e69d":[7,0,1129,11],
 "dd/d3b/structGameObjectTemplate.html#ad9768a5e8a9d4574677ed4aa05f77770":[7,0,1129,7],
 "dd/d3b/structGameObjectTemplate.html#adb1ca224d0891106b9a9b8226f6fd7fd":[7,0,1129,100],
-"dd/d3b/structGameObjectTemplate.html#adea0c1ba8c2adb8ad68e86e5b6f48a91":[7,0,1129,54],
-"dd/d3b/structGameObjectTemplate.html#ae0a880ea131b729029d64dfa7b2f4b71":[7,0,1129,92],
-"dd/d3b/structGameObjectTemplate.html#ae1a3d689d734ae7d99efcc7c17772e5e":[7,0,1129,101],
-"dd/d3b/structGameObjectTemplate.html#ae46ba3987b7d815dc673bbb65540d60f":[7,0,1129,63],
-"dd/d3b/structGameObjectTemplate.html#ae69d6166c21142870ea98506b7d3b5bf":[7,0,1129,147],
-"dd/d3b/structGameObjectTemplate.html#ae83eb30ca0fea0a5d59ed2dd1da57b66":[7,0,1129,186],
-"dd/d3b/structGameObjectTemplate.html#aeb61da8fc4cae667e5a80dbd984b9869":[7,0,1129,55],
-"dd/d3b/structGameObjectTemplate.html#aebe02ef30ca8dc49dc0eb2d441b19ead":[7,0,1129,112],
-"dd/d3b/structGameObjectTemplate.html#aed3f01aa810aa209b2c15afb7302084b":[7,0,1129,189]
+"dd/d3b/structGameObjectTemplate.html#adea0c1ba8c2adb8ad68e86e5b6f48a91":[7,0,1129,54]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX298 =
 {
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa42676d62ec9ab2083a6e29f3ebfa31a":[8,0,0,0,1,3,9,4,176,4],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa7161ec6c3c0611495bbb6510658812c":[8,0,0,0,1,3,9,4,176,0],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ab76a679c0fba3121a9cb839cc942e75e":[8,0,0,0,1,3,9,4,176,3],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75acc223e155c76c1c8ce3eb5a50c0de3b2":[8,0,0,0,1,3,9,4,176,2],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ad1e429768af3299cc7ecb2adc89111bf":[8,0,0,0,1,3,9,4,176,1],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ada94b2f34bf731fdc7e9e2427e830555":[8,0,0,0,1,3,9,4,176,6],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75adcff5bd4613ee7a9a6b500645028aecc":[8,0,0,0,1,3,9,4,176,9],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ae501f7f1ef052292ae656542f698ba62":[8,0,0,0,1,3,9,4,176,7],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75af23823f48620da2089859eb7ac017a42":[8,0,0,0,1,3,9,4,176,8],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84c":[8,0,0,0,1,3,9,4,184],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81":[8,0,0,0,1,3,9,4,184,2],
@@ -177,8 +185,8 @@ var NAVTREEINDEX298 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2577,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX298 =
 "db/d77/classspell__frost__giant__death__plague.html#a3000d234134bb3d4b2e17fd1eff8f4f0":[7,0,3004,0],
 "db/d77/classspell__frost__giant__death__plague.html#a63e8e899cb1469dca26cd5fa34b85408":[7,0,3004,4],
 "db/d77/classspell__frost__giant__death__plague.html#a83b2fad7cdc189a17129e25a015952ff":[7,0,3004,2],
-"db/d77/classspell__frost__giant__death__plague.html#af058a0c458463bdba4a4eb73aa91c113":[7,0,3004,1],
-"db/d77/classspell__frost__giant__death__plague.html#af5e214ab418ca05ddd637c83d7a7e71a":[7,0,3004,3],
-"db/d77/structnpc__darkfallen__blood__knight.html":[7,0,1783],
-"db/d77/structnpc__darkfallen__blood__knight.html#ad275e8b9562587a61b8db4440eaf43b3":[7,0,1783,1],
-"db/d77/structnpc__darkfallen__blood__knight.html#ad5b43cff525dc18855a0b51a23fa6fd0":[7,0,1783,0],
-"db/d77/structnpc__love__in__air__snivel.html":[7,0,1995],
-"db/d77/structnpc__love__in__air__snivel.html#a2385ea44d9f44735b193add4a0d0485b":[7,0,1995,3],
-"db/d77/structnpc__love__in__air__snivel.html#a548db6245ef875ec47279246e437934c":[7,0,1995,5],
-"db/d77/structnpc__love__in__air__snivel.html#a9e712994663e3442359d2f574ebc812c":[7,0,1995,4]
+"db/d77/classspell__frost__giant__death__plague.html#af058a0c458463bdba4a4eb73aa91c113":[7,0,3004,1]
 };

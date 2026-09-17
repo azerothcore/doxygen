@@ -1,5 +1,13 @@
 var NAVTREEINDEX336 =
 {
+"dc/db2/SpellScript_8h.html#ac30b78d7dfb666e2634098493fb1b117":[8,0,0,0,1,2,41,11,58],
+"dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993":[8,0,0,0,1,2,41,11,39],
+"dc/db2/SpellScript_8h.html#ace2ab8300271d6f69779aed40a237b8f":[8,0,0,0,1,2,41,11,47],
+"dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780":[8,0,0,0,1,2,41,11,36],
+"dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1":[8,0,0,0,1,2,41,11,67],
+"dc/db2/SpellScript_8h.html#adc2aca3aa7cbad44c23b542d6bc0162a":[8,0,0,0,1,2,41,11,60],
+"dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d":[8,0,0,0,1,2,41,11,33],
+"dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84":[8,0,0,0,1,2,41,11,42],
 "dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826":[8,0,0,0,1,2,41,11,34],
 "dc/db2/SpellScript_8h.html#aecb97d532499a4b7bfaccc898401260c":[8,0,0,0,1,2,41,11,53],
 "dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc":[8,0,0,0,1,2,41,11,37],
@@ -241,13 +249,5 @@ var NAVTREEINDEX336 =
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,15,7,10,10],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,2,15,7,10,4],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae23fc4981b044e0c1934de2157bd5ca1":[8,0,0,0,1,3,2,15,7,10,6],
-"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[8,0,0,0,1,3,2,15,7,16],
-"dc/dbd/classinstance__scarlet__monastery.html":[7,0,1372],
-"dc/dbd/classinstance__scarlet__monastery.html#a1c66031217457809fbe56303085715a0":[7,0,1372,2],
-"dc/dbd/classinstance__scarlet__monastery.html#a8f068ebd98bd81dbb60dbccd795f1f3f":[7,0,1372,1],
-"dc/dbd/instance__onyxias__lair_8cpp.html":[8,0,0,0,1,3,4,4,1],
-"dc/dbd/instance__onyxias__lair_8cpp.html#a05fe21b6a553baae55b3b2523efaa9c3":[8,0,0,0,1,3,4,4,1,2],
-"dc/dbd/instance__onyxias__lair_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,4,4,1,3],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html":[7,0,2752],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a0fa160f1218cf838444f894716cb8aed":[7,0,2752,1]
+"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[8,0,0,0,1,3,2,15,7,16]
 };

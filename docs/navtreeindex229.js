@@ -1,5 +1,13 @@
 var NAVTREEINDEX229 =
 {
+"d8/d62/structLoot.html#ad6d73c9192e736f43618dbccb520e52d":[7,0,1494,40],
+"d8/d62/structLoot.html#adbad90a0f99352a0e7bbade60ffe8f57":[7,0,1494,5],
+"d8/d62/structLoot.html#ae54068e648f02a15fb56a75a882f6762":[7,0,1494,23],
+"d8/d62/structLoot.html#aea7caeb16e0fb3d9c9bcd7915c78de81":[7,0,1494,32],
+"d8/d62/structLoot.html#afa9a10adf695d6591d45a3afd74e0825":[7,0,1494,38],
+"d8/d63/structCreatureImmunities.html":[7,0,955],
+"d8/d63/structCreatureImmunities.html#a01290d95abdbcf391557c7d72be05ebe":[7,0,955,5],
+"d8/d63/structCreatureImmunities.html#a2b195291886ba333efd63d0edded1bb4":[7,0,955,3],
 "d8/d63/structCreatureImmunities.html#a587a27eae3c94be00522b6b84521ed3c":[7,0,955,6],
 "d8/d63/structCreatureImmunities.html#a61a5bcfce9d99c09aa58fd99afb97e5c":[7,0,955,2],
 "d8/d63/structCreatureImmunities.html#a81a36e982f45209bfd6d1b0bad843cc1":[7,0,955,4],
@@ -72,8 +80,8 @@ var NAVTREEINDEX229 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2650,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3566],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3566,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3566,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX229 =
 "d8/d74/classWorldSession.html#a062cb30191ab0ce6ae315b510cce36b1":[4,1,19,261],
 "d8/d74/classWorldSession.html#a062e088e5224575a64c97ada7e494f4c":[4,1,19,587],
 "d8/d74/classWorldSession.html#a0655f2d65166fcbc83e3220f98a987d4":[4,1,19,290],
-"d8/d74/classWorldSession.html#a075234f859dc518b7954f3c3f8139e00":[4,1,19,187],
-"d8/d74/classWorldSession.html#a07856bd07a1ee7d3165072fe89f886e7":[4,1,19,89],
-"d8/d74/classWorldSession.html#a07b4d4237cebf32cf556b35a4fbdef09":[4,1,19,547],
-"d8/d74/classWorldSession.html#a08ceccea178fdfeba6445d35b1ee4b33":[4,1,19,277],
-"d8/d74/classWorldSession.html#a0916328c7af1eddb9a7fd5cd6c57c39d":[4,1,19,271],
-"d8/d74/classWorldSession.html#a0937b5176fe0541de26db2537512007c":[4,1,19,272],
-"d8/d74/classWorldSession.html#a0aebc1b652257c35b387bdbfd995c28b":[4,1,19,150],
-"d8/d74/classWorldSession.html#a0cd09026bced483bee905cc5d9e74e19":[4,1,19,181],
-"d8/d74/classWorldSession.html#a0d4461102d29709bbacfb3176786c08c":[4,1,19,72]
+"d8/d74/classWorldSession.html#a075234f859dc518b7954f3c3f8139e00":[4,1,19,187]
 };

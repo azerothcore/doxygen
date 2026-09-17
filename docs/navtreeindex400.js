@@ -1,5 +1,13 @@
 var NAVTREEINDEX400 =
 {
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a3a0f6a1c3bad060c209e869c7c4dcd15":[7,0,4180,0],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a4649e83f5a8449d6b17dbb5b5c56cd00":[7,0,4180,1],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a9e272ccbcda76df669b2c15e6d2de061":[7,0,4180,2],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#aec08efe15452819d923c40030e464392":[7,0,4180,3],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html":[7,0,1686,0],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a30dc40f8922f8f34d6ad7ec3053413e4":[7,0,1686,0,7],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a34d51c96005f620c0010948acb6c89ec":[7,0,1686,0,1],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a508a5e3f0acafa98956bba6eb41f28fb":[7,0,1686,0,10],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a724de41f7b14755d704d5de335da380b":[7,0,1686,0,8],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a7bb96de89b9dc6b6f97443e9aec3ad61":[7,0,1686,0,4],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a90314990bc6404bf2a4005bb94213926":[7,0,1686,0,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX400 =
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac44e3da7743742f856230fb208f3afeb":[8,0,0,0,1,3,5,6,9,37,7],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad40fac9b7911b5d8c150f8d388adf4ab":[8,0,0,0,1,3,5,6,9,37,24],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,6,9,37,2],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,6,9,37,13],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[8,0,0,0,1,3,5,6,9,37,5],
-"de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[8,0,0,0,1,3,5,6,9,46],
-"de/de5/classnpc__tesla.html":[7,0,2220],
-"de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[7,0,2220,2],
-"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[7,0,2220,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html":[7,0,2769],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2769,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[7,0,2769,2]
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,6,9,37,13]
 };

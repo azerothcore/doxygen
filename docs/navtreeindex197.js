@@ -1,5 +1,12 @@
 var NAVTREEINDEX197 =
 {
+"d7/d11/structQuestCinematic.html#ad691f3cd40035e96547adf7528229119":[7,0,2516,1],
+"d7/d12/SkillHandler_8cpp.html":[8,0,0,0,1,2,22,28],
+"d7/d14/wmo_8h.html":[8,0,0,0,3,4,17],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3da":[8,0,0,0,3,4,17,7],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20":[8,0,0,0,3,4,17,7,2],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192":[8,0,0,0,3,4,17,7,3],
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b":[8,0,0,0,3,4,17,7,0],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc":[8,0,0,0,3,4,17,7,5],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a":[8,0,0,0,3,4,17,7,6],
 "d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885":[8,0,0,0,3,4,17,7,7],
@@ -104,8 +111,8 @@ var NAVTREEINDEX197 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -242,12 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d22/classGossipMenu.html#a73d538927373b67ad66380e14a33d00e":[7,0,1246,15],
 "d7/d22/classGossipMenu.html#a74963fbb82523fe99aced2bd8325e062":[7,0,1246,22],
 "d7/d22/classGossipMenu.html#a7d04c8b60bd9ec1ebec5537ef8233d0a":[7,0,1246,4],
-"d7/d22/classGossipMenu.html#a8b58b8a09b1363e56eb5b8f623009597":[7,0,1246,8],
-"d7/d22/classGossipMenu.html#a8fbffff023b7b3347e967d81cf801172":[7,0,1246,20],
-"d7/d22/classGossipMenu.html#a8fff76a2af9895fe41bc958712466191":[7,0,1246,13],
-"d7/d22/classGossipMenu.html#a95b4a761301c7d76437a2dea0bcd304a":[7,0,1246,14],
-"d7/d22/classGossipMenu.html#abbf16fa0780a4ce02f75e379bfefb2b9":[7,0,1246,16],
-"d7/d22/classGossipMenu.html#abdcc39069ea7c750308292f28e7277fe":[7,0,1246,21],
-"d7/d22/classGossipMenu.html#ac15f7a55f03d50cb50cb366150fb6fd8":[7,0,1246,2],
-"d7/d22/classGossipMenu.html#ac6ce4a1565afa7c86eb93ab0c981b866":[7,0,1246,5]
+"d7/d22/classGossipMenu.html#a8b58b8a09b1363e56eb5b8f623009597":[7,0,1246,8]
 };

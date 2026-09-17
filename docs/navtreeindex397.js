@@ -1,5 +1,13 @@
 var NAVTREEINDEX397 =
 {
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a09da691978ccf957c50a24789da8c884":[8,0,0,0,1,3,5,18,56,5],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a1c927e4dcdda9844ca6ee5943cf5ab4a":[8,0,0,0,1,3,5,18,56,7],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a3d50c7e9fa4855164e19604c2c4c8bfc":[8,0,0,0,1,3,5,18,56,10],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5dadd0d0bff2da4e5ccd02f7276f3a77":[8,0,0,0,1,3,5,18,56,11],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5fc9b09599e278ae70a72431be195ed7":[8,0,0,0,1,3,5,18,56,6],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[8,0,0,0,1,3,5,18,56,3],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[8,0,0,0,1,3,5,18,56,4],
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a87a8544d0aed9cd7282f6b18b8dd34dd":[8,0,0,0,1,3,5,18,56,2],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a98f9f2bac321e4c75e450f7a090e6a52":[8,0,0,0,1,3,5,18,56,0],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809acb7d3e659383a8bc3f3d4f4d89031b51":[8,0,0,0,1,3,5,18,56,1],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809ad72c1b6082b386167aefbcd06b866da8":[8,0,0,0,1,3,5,18,56,8],
@@ -241,13 +249,5 @@ var NAVTREEINDEX397 =
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a2376d12f379f75f5decfdc133c18403e":[7,0,3890,0],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#aa70bfd2e614f9bf68ad2972990f0f7f5":[7,0,3890,1],
 "de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[7,0,3890,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[7,0,1330,0],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a45792f7c2d1a042d68907a0f475634d1":[7,0,1330,0,2],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[7,0,1330,0,0],
-"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#af163238686bf22f11908f64ffb5cacca":[7,0,1330,0,1],
-"de/db3/classAccountActionIpLogger.html":[7,0,25],
-"de/db3/classAccountActionIpLogger.html#a0663e15ea1a29b3daa672c8b6a25548f":[7,0,25,6],
-"de/db3/classAccountActionIpLogger.html#a2952adcd73d775b924671e5a69adaccb":[7,0,25,2],
-"de/db3/classAccountActionIpLogger.html#a4b71aa9c1790e6d4033d884a17ce0a2f":[7,0,25,7],
-"de/db3/classAccountActionIpLogger.html#a73cad77bd83243cb10c4a1b4d7081e0b":[7,0,25,0]
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[7,0,1330,0]
 };

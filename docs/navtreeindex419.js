@@ -1,5 +1,13 @@
 var NAVTREEINDEX419 =
 {
+"df/da7/classBattleground.html#aa1eb8678ca1f6599e497ecce2df37624":[7,0,330,104],
+"df/da7/classBattleground.html#aa24da8c1e9ae0d11941e2ccdf053f022":[7,0,330,225],
+"df/da7/classBattleground.html#aa581b911d9d56c719740195687e298bb":[7,0,330,144],
+"df/da7/classBattleground.html#aa6cccb08a3e0650487dbd564f9dc07a0":[7,0,330,19],
+"df/da7/classBattleground.html#aaa7ab97fdd1ee4fda63deba7eabe9cb1":[7,0,330,88],
+"df/da7/classBattleground.html#aab82851015efc372f0f06ea8615cbee4":[7,0,330,132],
+"df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9":[7,0,330,99],
+"df/da7/classBattleground.html#aac0f3dc367b90791647976d676328dd2":[7,0,330,192],
 "df/da7/classBattleground.html#aad6e28bc4586e9a4cd229a20f8170114":[7,0,330,205],
 "df/da7/classBattleground.html#aae38795cbe0509b6ffefe7ef0711eebe":[7,0,330,83],
 "df/da7/classBattleground.html#aaff9192d533142390f2d3a651528243e":[7,0,330,44],
@@ -241,13 +249,5 @@ var NAVTREEINDEX419 =
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,1,1,3,3],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[8,0,0,0,1,3,4,1,1,3,3,0],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,4,1,1,3,3,2],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[8,0,0,0,1,3,4,1,1,3,3,1],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,4,1,1,3,2],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[8,0,0,0,1,3,4,1,1,3,2,2],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[8,0,0,0,1,3,4,1,1,3,2,0],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[8,0,0,0,1,3,4,1,1,3,2,1],
-"df/db6/classspell__dtk__raise__dead__aura.html":[7,0,2958],
-"df/db6/classspell__dtk__raise__dead__aura.html#a1207c9b2ba2e110c3f6c1309f5329d2a":[7,0,2958,3],
-"df/db6/classspell__dtk__raise__dead__aura.html#a71a31b421f192662c14bd6bf3d5eed9f":[7,0,2958,1],
-"df/db6/classspell__dtk__raise__dead__aura.html#a97411ddf89a10a962ba74d294eb653e7":[7,0,2958,2]
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[8,0,0,0,1,3,4,1,1,3,3,1]
 };

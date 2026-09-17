@@ -1,5 +1,13 @@
 var NAVTREEINDEX416 =
 {
+"df/d92/LootItemStorage_8h.html#aa16defe92374d7db2d28958ee8fce21d":[8,0,0,0,1,2,24,1,4],
+"df/d92/classSpellScript.html":[7,0,4520],
+"df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a":[7,0,4520,29],
+"df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f":[7,0,4520,56],
+"df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[7,0,4520,28],
+"df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[7,0,4520,25],
+"df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590":[7,0,4520,64],
+"df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f":[7,0,4520,22],
 "df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d":[7,0,4520,52],
 "df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f":[7,0,4520,35],
 "df/d92/classSpellScript.html#a1a0656c9f2b3ff11078f5cbf5168b3e6":[7,0,4520,24],
@@ -241,13 +249,5 @@ var NAVTREEINDEX416 =
 "df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,4,9,5,3],
 "df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,9,5,3,2],
 "df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,9,5,3,0],
-"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,9,5,3,1],
-"df/d9a/boss__sartura_8cpp.html#a556546807d4e4becfb941d281628e053":[8,0,0,0,1,3,4,9,5,5],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,9,5,4],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca1027812f467c97821d58530e30688f8d":[8,0,0,0,1,3,4,9,5,4,3],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,4,9,5,4,1],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca39e4c36b6e38cc1460619046a0525f7a":[8,0,0,0,1,3,4,9,5,4,4],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298cac28592c87d6b76a26f2a289a68630ee6":[8,0,0,0,1,3,4,9,5,4,5],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,9,5,4,2],
-"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,4,9,5,4,0]
+"df/d9a/boss__sartura_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,9,5,3,1]
 };

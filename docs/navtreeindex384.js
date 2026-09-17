@@ -1,5 +1,13 @@
 var NAVTREEINDEX384 =
 {
+"de/d33/structnpc__dusk.html#ac8f70426313aa6834285905e94f1d0d9":[7,0,1806,3],
+"de/d33/structnpc__healing__ward.html":[7,0,1889],
+"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[7,0,1889,5],
+"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[7,0,1889,0],
+"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[7,0,1889,1],
+"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[7,0,1889,4],
+"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2],
+"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[7,0,1889,3],
 "de/d34/classspell__gordunni__trap.html":[7,0,3187],
 "de/d34/classspell__gordunni__trap.html#a28c0efdb7274372a43e286a923e08f56":[7,0,3187,3],
 "de/d34/classspell__gordunni__trap.html#a478665938b298fa87bde5bd764bcde18":[7,0,3187,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX384 =
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fac623c8a2364508457861e33034f25d10":[8,0,0,0,1,2,20,1,16,2],
 "de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783":[8,0,0,0,1,2,20,1,9],
 "de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783a365361d3311869df05371342f7082143":[8,0,0,0,1,2,20,1,9,1],
-"de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192":[8,0,0,0,1,2,20,1,9,0],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9d":[8,0,0,0,1,2,20,1,11],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da0fd180911ad96ed8d444b6dfc6fd8777":[8,0,0,0,1,2,20,1,11,7],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c":[8,0,0,0,1,2,20,1,11,0],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da56b0705f4b91684e2bc6536d45c628bd":[8,0,0,0,1,2,20,1,11,2],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da5b80950bd3340d7de2b5a769001b9fec":[8,0,0,0,1,2,20,1,11,1],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da68c1ec7408566a34bc264bd9eca1cb53":[8,0,0,0,1,2,20,1,11,3],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da795eafeca5cb33a35458e5d646975039":[8,0,0,0,1,2,20,1,11,6],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9daab8058da6edb35b7c3c459a000e9dd0c":[8,0,0,0,1,2,20,1,11,4]
+"de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192":[8,0,0,0,1,2,20,1,9,0]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX386 =
 {
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8461f9dc90d1df9a91350d3e277fffeb":[7,0,4139,3],
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8b19c9d128d568be695f985e5ed28b2d":[7,0,4139,1],
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html#aa28268bdb7e3063cff0880baefe02824":[7,0,4139,0],
+"de/d44/structDBCDatabaseLoader.html":[7,0,990],
+"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[7,0,990,3],
+"de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[7,0,990,0],
+"de/d44/structDBCDatabaseLoader.html#a46f7d5670840892f7a8714ce0b6cde13":[7,0,990,4],
+"de/d44/structDBCDatabaseLoader.html#a52b5b86f0efb8ad0716bc0171a3aa740":[7,0,990,9],
 "de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11":[7,0,990,6],
 "de/d44/structDBCDatabaseLoader.html#a68e5ae50c980aa81b051d0622575bb2d":[7,0,990,2],
 "de/d44/structDBCDatabaseLoader.html#a7d93e6d37796f341edcf25062743c5b5":[7,0,990,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX386 =
 "de/d55/StartProcess_8cpp.html":[8,0,0,0,0,15,26],
 "de/d55/StartProcess_8cpp.html#a021f51138f5726e712f00bdddf9be729":[8,0,0,0,0,15,26,5],
 "de/d55/StartProcess_8cpp.html#a18bbd8a6717e647e963654123259a033":[8,0,0,0,0,15,26,2],
-"de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[8,0,0,0,0,15,26,4],
-"de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[8,0,0,0,0,15,26,6],
-"de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[8,0,0,0,0,15,26,3],
-"de/d58/ConfusedMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,34,4,1],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[7,0,13,4,1],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,1,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[7,0,13,4,1,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,1,2]
+"de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[8,0,0,0,0,15,26,4]
 };

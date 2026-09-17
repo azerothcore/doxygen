@@ -1,5 +1,13 @@
 var NAVTREEINDEX410 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a443fe6dc1a2569a5bad41e905c98fdc5":[7,0,5,2,15],
+"df/d3e/classlfg_1_1LfgGroupData.html#a472237dc72536de9b1f0b6dc36c52285":[5,0,17,2,1],
+"df/d3e/classlfg_1_1LfgGroupData.html#a472237dc72536de9b1f0b6dc36c52285":[7,0,5,2,1],
+"df/d3e/classlfg_1_1LfgGroupData.html#a5a2f71fce87432f13cc372cae89aa6e2":[7,0,5,2,4],
+"df/d3e/classlfg_1_1LfgGroupData.html#a5a2f71fce87432f13cc372cae89aa6e2":[5,0,17,2,4],
+"df/d3e/classlfg_1_1LfgGroupData.html#a645e2fd76111f49ccf80e11bd1e05fd1":[7,0,5,2,11],
+"df/d3e/classlfg_1_1LfgGroupData.html#a645e2fd76111f49ccf80e11bd1e05fd1":[5,0,17,2,11],
+"df/d3e/classlfg_1_1LfgGroupData.html#a6b55dde22dda026859e9a2e25aee39a6":[5,0,17,2,2],
 "df/d3e/classlfg_1_1LfgGroupData.html#a6b55dde22dda026859e9a2e25aee39a6":[7,0,5,2,2],
 "df/d3e/classlfg_1_1LfgGroupData.html#a6fa7cde38f9e3b2dcea18b0be1d13005":[5,0,17,2,20],
 "df/d3e/classlfg_1_1LfgGroupData.html#a6fa7cde38f9e3b2dcea18b0be1d13005":[7,0,5,2,20],
@@ -241,13 +249,5 @@ var NAVTREEINDEX410 =
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a33e0260425cf179daae147bfc1a570b4":[7,0,2068,6],
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a5ad13d23e35dcc1dab567ae2d8800cd6":[7,0,2068,11],
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a5ce762eb57204a1b4d8f0ea49be701a7":[7,0,2068,15],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a73e70d9deaa647edd2904dae180c9cef":[7,0,2068,2],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a8135321f4e5c01dc71e13f719e43d056":[7,0,2068,13],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a8299788ca453930977a605a2766d9e8d":[7,0,2068,17],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a980844a2d503761efe7e7cacef35bef1":[7,0,2068,5],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a998a0401bd975cc7d0da7fb33670a503":[7,0,2068,10],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#aa719acf874e7588ed6b73c437fb6765b":[7,0,2068,9],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abca2ddc0628899b0c5bd35210e303d00":[7,0,2068,12],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abd2bbbff0d1752bbc2d03021b8155155":[7,0,2068,3],
-"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ad004ccbe33b4eacff3ac5b5b28709df0":[7,0,2068,16]
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a73e70d9deaa647edd2904dae180c9cef":[7,0,2068,2]
 };

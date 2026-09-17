@@ -1,5 +1,13 @@
 var NAVTREEINDEX356 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73":[8,0,0,0,1,3,5,9,1,2,10,5],
+"dd/dab/boss__sjonnir_8cpp.html#a2d30eac68e5c2c089e34ea2ab4c7dc02":[8,0,0,0,1,3,5,9,1,2,13],
+"dd/dab/boss__sjonnir_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,9,1,2,12],
+"dd/dab/boss__sjonnir_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,1,2,12,2],
+"dd/dab/boss__sjonnir_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,1,2,12,0],
+"dd/dab/boss__sjonnir_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,1,2,12,1],
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,9,1,2,11],
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303":[8,0,0,0,1,3,5,9,1,2,11,5],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9":[8,0,0,0,1,3,5,9,1,2,11,8],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,5,9,1,2,11,0],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52":[8,0,0,0,1,3,5,9,1,2,11,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX356 =
 "dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0":[8,0,0,0,1,3,5,12,1,3],
 "dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0a7fb48d8d57a0e3c88045fdedccd2fdb8":[8,0,0,0,1,3,5,12,1,3,1],
 "dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0a8367267c337cb88f2698c8af675f8f14":[8,0,0,0,1,3,5,12,1,3,0],
-"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0aab89770a488ed2adf3a91f6045c6b7f7":[8,0,0,0,1,3,5,12,1,3,2],
-"dd/db0/classnpc__freed__protodrake.html":[7,0,1843],
-"dd/db0/classnpc__freed__protodrake.html#a56e33e186800efa3fb86ca6a614e3b0b":[7,0,1843,1],
-"dd/db0/classnpc__freed__protodrake.html#a9680bf65cb97327396f58c297df1c8f5":[7,0,1843,2],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html":[7,0,1941,0],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a264874b9f6f0609792d4b3a325e54f59":[7,0,1941,0,3],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#a43fa8bf8f22f0635261decd8b15ed6f5":[7,0,1941,0,1],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#acb187a58b0ba256b4e003655ac36db34":[7,0,1941,0,2],
-"dd/db0/structnpc__impaling__spear_1_1npc__impaling__spearAI.html#ae8fbc36a15324b210a24a0e98357adc3":[7,0,1941,0,0]
+"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0aab89770a488ed2adf3a91f6045c6b7f7":[8,0,0,0,1,3,5,12,1,3,2]
 };

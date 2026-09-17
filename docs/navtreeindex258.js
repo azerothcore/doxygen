@@ -1,5 +1,13 @@
 var NAVTREEINDEX258 =
 {
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cead4b3ebc1d8570c9223664c6afd3b6689":[8,0,0,0,1,3,2,1,0,14,3,3],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ceada3f790355f9def069a5a8fa2b4e3ce4":[8,0,0,0,1,3,2,1,0,14,3,4],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ceada479e75038fd984b505147f6716dcde":[8,0,0,0,1,3,2,1,0,14,3,0],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,14,6],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a5bd342133be8c2137b831460acc9298cad1e8111e03ae22cef2dc1d36ef346c33":[8,0,0,0,1,3,2,1,0,14,6,0],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a7bd8356be730809dff3c6afd8891c780":[8,0,0,0,1,3,2,1,0,14,7],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3a":[8,0,0,0,1,3,2,1,0,14,2],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aa2e843514087cb8fd60441d23a27e1ac2":[8,0,0,0,1,3,2,1,0,14,2,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aa642858fddb5ee881ee52f837caf26c76":[8,0,0,0,1,3,2,1,0,14,2,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aaa7f67195455307a7e892ac922058d8ad":[8,0,0,0,1,3,2,1,0,14,2,3],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aafa4bed13bae581434aa03949b75ea9f6":[8,0,0,0,1,3,2,1,0,14,2,2],
@@ -8,12 +16,12 @@ var NAVTREEINDEX258 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a475f1dbc77ce1f36d8de90816ac55b25":[8,0,0,0,1,3,2,1,0,14,4,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a6c9563271414c3c12336a92737d467f9":[8,0,0,0,1,3,2,1,0,14,4,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[8,0,0,0,1,3,2,1,0,14,4,2],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[7,0,13,2,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[7,0,13,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[7,0,13,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[7,0,13,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[8,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[8,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[8,0,0,0,1,3,10,13,2,9],
@@ -241,13 +249,5 @@ var NAVTREEINDEX258 =
 "d9/dd7/AllItemScript_8cpp.html":[8,0,0,0,1,2,38,0,16],
 "d9/dd7/AllItemScript_8cpp.html#a0f69164743e657905c670df85e97a29c":[8,0,0,0,1,2,38,0,16,0],
 "d9/dd7/AllItemScript_8cpp.html#a9f258d1e2f9fb6ce144923451b63f995":[8,0,0,0,1,2,38,0,16,1],
-"d9/dd7/CreatureAIRegistry_8cpp.html":[8,0,0,0,1,2,3,7],
-"d9/dd7/CreatureAIRegistry_8cpp.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[8,0,0,0,1,2,3,7,0],
-"d9/dd7/ProcEventInfoHelper_8h.html":[8,0,0,0,2,1,5],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html":[7,0,4264],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a399fc30c23c03d3c4964ec23faed7c18":[7,0,4264,2],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4":[7,0,4264,1],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a4ee6fe23e45481eea16f77d8de72742e":[7,0,4264,3],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d":[7,0,4264,4],
-"d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[7,0,4264,0]
+"d9/dd7/CreatureAIRegistry_8cpp.html":[8,0,0,0,1,2,3,7]
 };

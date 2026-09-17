@@ -1,5 +1,13 @@
 var NAVTREEINDEX247 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caa26b3bc8f89587e5402222bc702217b0":[8,0,0,0,1,3,2,11,5,10,22],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caaa3043663a6fe9f892108aa1d041afb9":[8,0,0,0,1,3,2,11,5,10,6],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caae47fdf4149ba16bbce9b9d71b6f0820":[8,0,0,0,1,3,2,11,5,10,5],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cade5d3fed872daab3cced8a6c73ff9c76":[8,0,0,0,1,3,2,11,5,10,16],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106":[8,0,0,0,1,3,2,11,5,10,9],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085":[8,0,0,0,1,3,2,11,5,10,20],
+"d9/d3f/boss__muru_8cpp.html#abb36992caf0a693d29fb5bf8ceacb8b0":[8,0,0,0,1,3,2,11,5,11],
+"d9/d3f/classspell__pri__pain__and__suffering__dummy.html":[7,0,3849],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#a7cd3757fddecca39b1b0bd95bb2b8e5b":[7,0,3849,1],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#ad2f75ba479a8523b0fffaae86204a25c":[7,0,3849,0],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#af0b1e469fec71b28ca349b9be9c6fdd7":[7,0,3849,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4":[8,0,0,0,1,2,3,0,15,10,2],
 "d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611":[8,0,0,0,1,2,3,0,15,10,3],
 "d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1":[8,0,0,0,1,2,3,0,15,10,4],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23":[8,0,0,0,1,2,3,0,15,10,0],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0":[8,0,0,0,1,2,3,0,15,10,1],
-"d9/d55/UnitAI_8h.html#afbd9552e4d9ae2fb45fe846c8e9775cf":[8,0,0,0,1,2,3,0,15,9],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html":[7,0,4057],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a1e53dfab9d98846d404ea7f57555c941":[7,0,4057,3],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a2280ebe1a928d0962c7f67e22405db18":[7,0,4057,2],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a6ed3efbadf6936d9c2f81ab1b97595ab":[7,0,4057,4],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a7dbe609ad8ced19cfa2b5625ed2a3923":[7,0,4057,1],
-"d9/d55/classspell__rog__tricks__of__the__trade__aura.html#a9baf177530d3096f06e8f37220cfb0fa":[7,0,4057,6]
+"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23":[8,0,0,0,1,2,3,0,15,10,0]
 };

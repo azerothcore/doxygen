@@ -1,5 +1,13 @@
 var NAVTREEINDEX392 =
 {
+"de/d8d/structArenaScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,189,4],
+"de/d8d/structArenaScore.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b":[7,0,189,3],
+"de/d8d/structArenaScore.html#ac96461b865fc7a9ba0cdfad6ae3fa96f":[7,0,189,2],
+"de/d8e/classspell__gen__random__target32.html":[7,0,3136],
+"de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[7,0,3136,1],
+"de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[7,0,3136,0],
+"de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[7,0,3136,2],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,0,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[7,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[7,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,0,8,8,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX392 =
 "de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[7,0,3161,1],
 "de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[7,0,3161,2],
 "de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[7,0,3161,0],
-"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[7,0,3161,3],
-"de/d98/zone__shattrath__city_8cpp.html":[8,0,0,0,1,3,7,14],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b":[8,0,0,0,1,3,7,14,3],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba00f3861bb3a25b5cacacc8a9c6deccd7":[8,0,0,0,1,3,7,14,3,21],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba03e770bf3dca79e16db0021dc8a3ef71":[8,0,0,0,1,3,7,14,3,6],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba125b4ea317d12715b14359c6236b4659":[8,0,0,0,1,3,7,14,3,9],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba259d6522a87397ef181b1e044655a03d":[8,0,0,0,1,3,7,14,3,19],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba54dd5f261513f2ff74ce1244ca6b1124":[8,0,0,0,1,3,7,14,3,18],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba64a7bf590ec27341ff76882ad6d5d704":[8,0,0,0,1,3,7,14,3,8]
+"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[7,0,3161,3]
 };

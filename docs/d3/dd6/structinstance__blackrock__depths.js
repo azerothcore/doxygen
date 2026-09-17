@@ -41,6 +41,8 @@ var structinstance__blackrock__depths =
     [ "GoGolemNGUID", "d3/dd6/structinstance__blackrock__depths.html#a76f17e9a98b69ba6755ffc589d1996d9", null ],
     [ "GoGolemSGUID", "d3/dd6/structinstance__blackrock__depths.html#a48fb43f5328537cb9f1ed50412f35c1c", null ],
     [ "GoLyceumGUID", "d3/dd6/structinstance__blackrock__depths.html#aac5ce1d1832d3eefa462fabc22bbfb86", null ],
+    [ "GoSecretDoorGUID", "d3/dd6/structinstance__blackrock__depths.html#a09bee6096f5fb76a115bd4d79a17dcb0", null ],
+    [ "GoSecretSafeGUID", "d3/dd6/structinstance__blackrock__depths.html#a58d65d289f67c780add5be0dda7cdcc7", null ],
     [ "GoSFNGUID", "d3/dd6/structinstance__blackrock__depths.html#a9450ddfaf1c43be4a7d2249117276364", null ],
     [ "GoSFSGUID", "d3/dd6/structinstance__blackrock__depths.html#a5141b15a4dbb8612ee81d661dbee0620", null ],
     [ "GoShadowDummyGUID", "d3/dd6/structinstance__blackrock__depths.html#a3785d130866070327d87dac996e67f19", null ],
@@ -65,5 +67,7 @@ var structinstance__blackrock__depths =
     [ "TombBossGUIDs", "d3/dd6/structinstance__blackrock__depths.html#a29d2bff52fdb52c2875a0a8f9d1446ad", null ],
     [ "TombEventCounter", "d3/dd6/structinstance__blackrock__depths.html#af88d4fc6135fec754944f18ed15df708", null ],
     [ "tombResetTimer", "d3/dd6/structinstance__blackrock__depths.html#a61205bc0a9f8da99726232d0bd41a917", null ],
-    [ "TombTimer", "d3/dd6/structinstance__blackrock__depths.html#aca8b117df1b9b509df22037f51e6957d", null ]
+    [ "TombTimer", "d3/dd6/structinstance__blackrock__depths.html#aca8b117df1b9b509df22037f51e6957d", null ],
+    [ "VaultWarderCenter", "d3/dd6/structinstance__blackrock__depths.html#a6d7c0741318503c6a6093ca3de73281b", null ],
+    [ "VaultWarderGUIDs", "d3/dd6/structinstance__blackrock__depths.html#a1ddd4c4fb735ae9aaf913bf12ef0300c", null ]
 ];

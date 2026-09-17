@@ -1,5 +1,13 @@
 var NAVTREEINDEX415 =
 {
+"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dacff0588861959fee53d2943e6e80772c":[8,0,0,0,1,3,5,9,2,4,16,8],
+"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dad93515bc74f74c4963e0e7c599daeeee":[8,0,0,0,1,3,5,9,2,4,16,7],
+"df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184daf617a786729f5d97a5fcd03f895d0c8f":[8,0,0,0,1,3,5,9,2,4,16,6],
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,9,2,4,19],
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,2,4,19,6],
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a076407c159ee539e0c00bd1226bac627":[8,0,0,0,1,3,5,9,2,4,19,8],
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1fcc24c539391a4925b8c139ea386478":[8,0,0,0,1,3,5,9,2,4,19,16],
+"df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a20bb696b3ec369136955621a71e9fad5":[8,0,0,0,1,3,5,9,2,4,19,4],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a21cb5e37cb8dcdcd693670b7114905ac":[8,0,0,0,1,3,5,9,2,4,19,0],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3e0bdf6956d53c51cdc08651cd13b663":[8,0,0,0,1,3,5,9,2,4,19,14],
 "df/d87/boss__freya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a45242c376918bfc1a16c6899d16d12a5":[8,0,0,0,1,3,5,9,2,4,19,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX415 =
 "df/d91/zone__teldrassil_8cpp.html#a3c3f043ac68f32b085d7fa2d72c7da94":[8,0,0,0,1,3,4,28,1],
 "df/d92/LootItemStorage_8h.html":[8,0,0,0,1,2,24,1],
 "df/d92/LootItemStorage_8h.html#a06515a8a4bd76cd02aa0ab99d3d7c64e":[8,0,0,0,1,2,24,1,2],
-"df/d92/LootItemStorage_8h.html#a06cc23df363d1d767959d7ab5ec29ad5":[8,0,0,0,1,2,24,1,3],
-"df/d92/LootItemStorage_8h.html#aa16defe92374d7db2d28958ee8fce21d":[8,0,0,0,1,2,24,1,4],
-"df/d92/classSpellScript.html":[7,0,4520],
-"df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a":[7,0,4520,29],
-"df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f":[7,0,4520,56],
-"df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd":[7,0,4520,28],
-"df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767":[7,0,4520,25],
-"df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590":[7,0,4520,64],
-"df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f":[7,0,4520,22]
+"df/d92/LootItemStorage_8h.html#a06cc23df363d1d767959d7ab5ec29ad5":[8,0,0,0,1,2,24,1,3]
 };

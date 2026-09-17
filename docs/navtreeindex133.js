@@ -1,5 +1,9 @@
 var NAVTREEINDEX133 =
 {
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7a15a2c5e800c390b1c073f0e768c0ff":[8,0,0,0,1,3,5,2,1,0,16,26],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7fadae1406ee8ef3cd6aee468fd37530":[8,0,0,0,1,3,5,2,1,0,16,16],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a8402ad1984647d8e20727fb14899568b":[8,0,0,0,1,3,5,2,1,0,16,27],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9c900e89338020fc265152560a0b45e9":[8,0,0,0,1,3,5,2,1,0,16,24],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9de5053a209b6640e69d2f9414d88943":[8,0,0,0,1,3,5,2,1,0,16,15],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9f20ed0dd0f8ce69aa2f4c5b771cef0f":[8,0,0,0,1,3,5,2,1,0,16,4],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac4438d8b4cf07d9e5eadf88b04b7cb99":[8,0,0,0,1,3,5,2,1,0,16,5],
@@ -51,8 +55,8 @@ var NAVTREEINDEX133 =
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[7,0,13,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[7,0,13,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,34,6,13,1],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[7,0,13,6,13,3],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,34,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[7,0,13,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,34,6,13,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#a8bbca6686ae324a50cd1598125280446":[7,0,2086,1],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab28951b483cab31bf5672fc74e7323e1":[7,0,2086,3],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab7f72d0d574322965f1d0b23f144f1be":[7,0,2086,4],
-"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ad9b48901b1d96e59ce60af6411a8baaf":[7,0,2086,2],
-"d4/d7e/NPCPackets_8h.html":[8,0,0,0,1,2,39,0,24],
-"d4/d7e/structnpc__assembly__lightning.html":[7,0,1671],
-"d4/d7e/structnpc__assembly__lightning.html#a0ae73d6c38064d80a7297045f2b829dd":[7,0,1671,7],
-"d4/d7e/structnpc__assembly__lightning.html#a13074c840c7e4dc94a2b30741f62ec00":[7,0,1671,8]
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ad9b48901b1d96e59ce60af6411a8baaf":[7,0,2086,2]
 };

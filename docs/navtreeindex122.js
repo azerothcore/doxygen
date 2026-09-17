@@ -1,10 +1,14 @@
 var NAVTREEINDEX122 =
 {
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a2c775f62eeabcb8af5306cbcedae322e":[7,0,0,27,0],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[5,0,0,39,1],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a3c316eacdd1c74c69d8297871f84d7b9":[7,0,0,27,1],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[5,0,0,39,2],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a6a9cffd02435913a5d7ee53cd1e8cc0b":[7,0,0,27,2],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[7,0,0,27,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[5,0,0,39,5],
-"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#a91de967d2376ea96b1fc0838094915cf":[7,0,0,27,5],
 "d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[7,0,0,27,4],
+"d4/d02/classAcore_1_1AnyGroupedUnitInObjectRangeCheck.html#ad083243ef5487aa374b19e3c82b0457c":[5,0,0,39,4],
 "d4/d02/structSmartEvent.html":[7,0,2625],
 "d4/d02/structSmartEvent.html#a01c1c375781eff47f24a4ce7459e72c1":[7,0,2625,63],
 "d4/d02/structSmartEvent.html#a03541d8d37d1ddb0e2c9cbd149c388b8":[7,0,2625,58],
@@ -210,8 +214,8 @@ var NAVTREEINDEX122 =
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[7,0,13,14,14,4],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[5,0,34,14,14,1],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[7,0,13,14,14,1],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[7,0,13,14,14,3],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[5,0,34,14,14,3],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[7,0,13,14,14,3],
 "d4/d08/classspell__pal__improved__aura.html":[7,0,3780],
 "d4/d08/classspell__pal__improved__aura.html#a148b20ba206ba69d2dcd84abbf7d17af":[7,0,3780,4],
 "d4/d08/classspell__pal__improved__aura.html#a441952100c103ccdf84c58827669faac":[7,0,3780,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d09/classnpc__image__of__medivh.html":[7,0,1940],
 "d4/d09/classnpc__image__of__medivh.html#a11769c47fda3f1c4d8d80329f70d1957":[7,0,1940,2],
 "d4/d09/classnpc__image__of__medivh.html#a55ee6f97bc7f144209927a2813cab6a9":[7,0,1940,1],
-"d4/d09/classspell__item__mind__amplify__dish.html":[7,0,3456],
-"d4/d09/classspell__item__mind__amplify__dish.html#a1b83195bdc148434f10a6c1ba3c0af0d":[7,0,3456,2],
-"d4/d09/classspell__item__mind__amplify__dish.html#a333c11c7ee2821bcc4d74d316f55bf5a":[7,0,3456,0],
-"d4/d09/classspell__item__mind__amplify__dish.html#a359fba1475e52b24635cc8dda51cc922":[7,0,3456,3],
-"d4/d09/classspell__item__mind__amplify__dish.html#aa15334f23b837a005a34a12d238fc9d5":[7,0,3456,1]
+"d4/d09/classspell__item__mind__amplify__dish.html":[7,0,3456]
 };

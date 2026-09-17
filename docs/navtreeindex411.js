@@ -1,5 +1,13 @@
 var NAVTREEINDEX411 =
 {
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a8135321f4e5c01dc71e13f719e43d056":[7,0,2068,13],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a8299788ca453930977a605a2766d9e8d":[7,0,2068,17],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a980844a2d503761efe7e7cacef35bef1":[7,0,2068,5],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a998a0401bd975cc7d0da7fb33670a503":[7,0,2068,10],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#aa719acf874e7588ed6b73c437fb6765b":[7,0,2068,9],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abca2ddc0628899b0c5bd35210e303d00":[7,0,2068,12],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abd2bbbff0d1752bbc2d03021b8155155":[7,0,2068,3],
+"df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ad004ccbe33b4eacff3ac5b5b28709df0":[7,0,2068,16],
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ae5408b18b589fb483095450bf1338b2f":[7,0,2068,1],
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ae6a8edeb3ee7a2bde5af81080d536d1f":[7,0,2068,14],
 "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#af3a1bf5f8f5b594aa7cd7542b6099a95":[7,0,2068,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX411 =
 "df/d5c/classnpc__commandscript.html#a5b18164d098d1b1567417e1a99c6b46b":[7,0,1742,30],
 "df/d5c/classnpc__commandscript.html#a5df385153bbb2b11c3bc04579ccb5724":[7,0,1742,39],
 "df/d5c/classnpc__commandscript.html#a5fefefb73d6b51eb506215a7f78e89a6":[7,0,1742,27],
-"df/d5c/classnpc__commandscript.html#a643f8c1351d29f1bff7888702edbd305":[7,0,1742,21],
-"df/d5c/classnpc__commandscript.html#a8686af61d6197dc490848a357db3bf4f":[7,0,1742,7],
-"df/d5c/classnpc__commandscript.html#a9476a80d830149da97934707ffcc31c7":[7,0,1742,20],
-"df/d5c/classnpc__commandscript.html#aa816bff3dd2915722add6d06604887ff":[7,0,1742,9],
-"df/d5c/classnpc__commandscript.html#aa8896b4302ed0626d0ae02d218a9a36e":[7,0,1742,0],
-"df/d5c/classnpc__commandscript.html#aa95dc7156bbca64a885882fc3cbbdacb":[7,0,1742,18],
-"df/d5c/classnpc__commandscript.html#aaf6746d287ad6f59ddfc54e20f5fd5e7":[7,0,1742,33],
-"df/d5c/classnpc__commandscript.html#ab16b17e314d718747ed066c418f4f61b":[7,0,1742,22],
-"df/d5c/classnpc__commandscript.html#ab722d7c262e1d4e4785c7de599a6d051":[7,0,1742,6]
+"df/d5c/classnpc__commandscript.html#a643f8c1351d29f1bff7888702edbd305":[7,0,1742,21]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX421 =
 {
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a9eb3dc519bd595b7c0193ae3519c136e":[7,0,2818,3],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#ade7f8805491a627cf3e8accdee178f3e":[7,0,2818,0],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html":[7,0,3739],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a445ce7331c36e507aa24466ff9a67781":[7,0,3739,2],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#a70f2c5c4656abb4798ad39b015fc2a9a":[7,0,3739,1],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[7,0,3739,3],
+"df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[7,0,3739,0],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html":[8,0,0,0,1,3,2,1,2,1],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,2,1,2,1,3],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f":[8,0,0,0,1,3,2,1,2,1,3,0],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa803d2e7c4916d465806dda8c50193087":[8,0,0,0,1,3,2,1,2,1,3,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX421 =
 "df/dd5/spell__shaman_8cpp.html#a6ad222c231a9194f1a898ad8e2279b9eac38e2c95dd0f0ad9b8e5ca4f5076ee52":[8,0,0,0,1,3,9,10,58,3],
 "df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186f":[8,0,0,0,1,3,9,10,59],
 "df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa24f974a95a3c173992a0fa5fe2d2f72e":[8,0,0,0,1,3,9,10,59,4],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090":[8,0,0,0,1,3,9,10,59,1],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa783b4ebd290063ab5c847a6496ff1ec6":[8,0,0,0,1,3,9,10,59,0],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fac1e54529e33af0de9c99ce45181740a9":[8,0,0,0,1,3,9,10,59,3],
-"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fadca6f1655cd140d0c79ed0641da19c62":[8,0,0,0,1,3,9,10,59,2],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019":[8,0,0,0,1,3,9,10,60],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a0429f0e2295855c5f82b8e560ecc80c6":[8,0,0,0,1,3,9,10,60,54],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a04c3dfea37fa8eeb0af97d7cd6e499a2":[8,0,0,0,1,3,9,10,60,29],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3":[8,0,0,0,1,3,9,10,60,13],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a244a5c83cff18f227412e94d0c6cb957":[8,0,0,0,1,3,9,10,60,24]
+"df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090":[8,0,0,0,1,3,9,10,59,1]
 };

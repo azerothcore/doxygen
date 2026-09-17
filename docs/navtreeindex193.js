@@ -1,5 +1,12 @@
 var NAVTREEINDEX193 =
 {
+"d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a905fe80abf73b71305ef87c01d631715":[8,0,0,0,1,3,2,1,3,1,4,1],
+"d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac0e23e0ccbc5af3e4750ff6d8dd4dfef":[8,0,0,0,1,3,2,1,3,1,4,0],
+"d6/ddb/classDamageInfoStub.html":[7,0,979],
+"d6/ddb/classDamageInfoStub.html#a051ea5b1fef3497e9e60e0b94878c83a":[7,0,979,26],
+"d6/ddb/classDamageInfoStub.html#a0c06178531e48b4917139857f8e8647f":[7,0,979,4],
+"d6/ddb/classDamageInfoStub.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c":[7,0,979,12],
+"d6/ddb/classDamageInfoStub.html#a2ec521265ea69e94924e10aad3fd1a6c":[7,0,979,17],
 "d6/ddb/classDamageInfoStub.html#a353709b9695720cd67a5ac8cec9a2672":[7,0,979,14],
 "d6/ddb/classDamageInfoStub.html#a37b0384b8dc1f9865100dd3c234e79a7":[7,0,979,16],
 "d6/ddb/classDamageInfoStub.html#a3d25fd3b20e5555af8d8d6bb745ba3ef":[7,0,979,25],
@@ -222,12 +229,12 @@ var NAVTREEINDEX193 =
 "d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[7,0,1700,0],
 "d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[7,0,1700,1],
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[7,0,1700,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[7,0,13,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[7,0,13,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[7,0,13,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[7,0,13,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[7,0,13,11,0,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
 "d6/dec/classachievement__bg__sa__artillery.html":[7,0,47],
@@ -242,12 +249,5 @@ var NAVTREEINDEX193 =
 "d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb":[7,0,4423,5],
 "d6/dec/classspell__xt002__exposed__heart.html#a94de5901e43000e99b478e9194d59ecd":[7,0,4423,0],
 "d6/dec/classspell__xt002__exposed__heart.html#acc8a07807e5c306af285cb5889ef2c41":[7,0,4423,2],
-"d6/dec/classspell__xt002__exposed__heart.html#ad17cfc0369da547475e43bd2970cf3f2":[7,0,4423,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[7,0,0,97],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,109],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,109,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[7,0,0,97,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,109,1],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[7,0,0,97,1],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,0,109,4]
+"d6/dec/classspell__xt002__exposed__heart.html#ad17cfc0369da547475e43bd2970cf3f2":[7,0,4423,3]
 };

@@ -4,7 +4,8 @@ var instance__blackrock__depths_8cpp =
     [ "instance_blackrock_depths", "d3/dd6/structinstance__blackrock__depths.html", "d3/dd6/structinstance__blackrock__depths" ],
     [ "Distances", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dc", [
       [ "RADIUS_RING_OF_LAW", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62", null ],
-      [ "DISTANCE_EMPEROR_ROOM", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71", null ]
+      [ "DISTANCE_EMPEROR_ROOM", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71", null ],
+      [ "DISTANCE_VAULT_WARDER", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca85cf012f4d8537981c5bdfcea50ad5f8", null ]
     ] ],
     [ "GameObjects", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3d", [
       [ "GO_ARENA1", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88", null ],
@@ -27,7 +28,9 @@ var instance__blackrock__depths_8cpp =
       [ "GO_GOLEM_ROOM_S", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83", null ],
       [ "GO_THRONE_ROOM", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f", null ],
       [ "GO_SPECTRAL_CHALICE", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a", null ],
-      [ "GO_CHEST_SEVEN", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1", null ]
+      [ "GO_CHEST_SEVEN", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1", null ],
+      [ "GO_SECRET_DOOR", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da1d4cdb028fd5eb1ecea20bef8512f228", null ],
+      [ "GO_SECRET_SAFE", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9b8228d10e6c6ceedb8584b443aad500", null ]
     ] ],
     [ "MiscData", "d6/d61/instance__blackrock__depths_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b", [
       [ "SPELL_STONED", "d6/d61/instance__blackrock__depths_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12", null ]

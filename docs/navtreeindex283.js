@@ -1,5 +1,13 @@
 var NAVTREEINDEX283 =
 {
+"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec":[8,0,0,0,1,2,16,7,5,88,1],
+"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc":[8,0,0,0,1,2,16,7,5,88,0],
+"da/dbf/Player_8h.html#a845b4a4f1fbd851dbce7bb2890187eb8":[8,0,0,0,1,2,16,7,5,70],
+"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9":[8,0,0,0,1,2,16,7,5,94],
+"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9a973db66483b40dab11286f59062d2678":[8,0,0,0,1,2,16,7,5,94,1],
+"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9aa3f8959351bc74f0fa1f77e1570e9aa2":[8,0,0,0,1,2,16,7,5,94,0],
+"da/dbf/Player_8h.html#a8b548b9b50daac698d7c2900ce310aa4":[8,0,0,0,1,2,16,7,5,34],
+"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167":[8,0,0,0,1,2,16,7,5,91],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a484b0fa66e46fb264b6373b6bf5e9e20":[8,0,0,0,1,2,16,7,5,91,2],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a4ce27fd088caf2063c85464cace1dd4d":[8,0,0,0,1,2,16,7,5,91,0],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a8b2e56a615bc771de8c15d9d17d2867d":[8,0,0,0,1,2,16,7,5,91,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX283 =
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ac344e92ea8d73f94dc08c6a52001ec3e":[8,0,0,0,0,6,6,13],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ae166e7e76c33c81464ce6c03126a9851":[8,0,0,0,0,6,6,0],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ae7e83af9675f10ea565b725be25b8c5e":[8,0,0,0,0,6,6,8],
-"da/dbf/TypeContainerFunctionsPtr_8h.html#aecc909b333bb7f55f438bfcf1ea3085f":[8,0,0,0,0,6,6,14],
-"da/dc0/classnpc__ioc__gunship__captain.html":[7,0,1952],
-"da/dc0/classnpc__ioc__gunship__captain.html#a43f3ce178df31fbf693acbfa8c32a339":[7,0,1952,2],
-"da/dc0/classnpc__ioc__gunship__captain.html#a6463d7bc12d5fe4fc8921ba5916ec906":[7,0,1952,1],
-"da/dc1/classspell__karazhan__overload__aura.html":[7,0,3556],
-"da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[7,0,3556,0],
-"da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[7,0,3556,2],
-"da/dc1/classspell__karazhan__overload__aura.html#a9a5f11a3024a14911b478cdf59a7abb9":[7,0,3556,3],
-"da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[7,0,3556,1]
+"da/dbf/TypeContainerFunctionsPtr_8h.html#aecc909b333bb7f55f438bfcf1ea3085f":[8,0,0,0,0,6,6,14]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX214 =
 {
+"d7/daa/structnpc__tyrande__whisperwind.html":[7,0,2268],
+"d7/daa/structnpc__tyrande__whisperwind.html#a598bd2dec22715413dcbd7ed6ca3be3c":[7,0,2268,2],
+"d7/daa/structnpc__tyrande__whisperwind.html#a707f6167de4eafc6d81613d0edc29436":[7,0,2268,1],
+"d7/daa/structnpc__tyrande__whisperwind.html#af716e954e59221d26ee88032e895fa18":[7,0,2268,0],
+"d7/dab/classboss__toravon.html":[7,0,763],
+"d7/dab/classboss__toravon.html#a6db140b1d232312300e20155830cb249":[7,0,763,2],
+"d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[7,0,763,1],
+"d7/dab/classnpc__tirion__fordring__tft.html":[7,0,2235],
 "d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[7,0,2235,1],
 "d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[7,0,2235,2],
 "d7/dab/structboss__glob__of__viscidus.html":[7,0,516],
@@ -241,13 +249,5 @@ var NAVTREEINDEX214 =
 "d7/db0/classMap.html#aa5eada6f20e4dfecef62fe82e6668946":[7,0,1524,57],
 "d7/db0/classMap.html#aa6b4598db359095ac0b6b446862c717c":[7,0,1524,184],
 "d7/db0/classMap.html#aa95d8065e23713c2d990a3927e9fe0fc":[7,0,1524,85],
-"d7/db0/classMap.html#aa9b5bb86f1587c7d68dde0f30e022d53":[7,0,1524,211],
-"d7/db0/classMap.html#aac08f57892cff35a0d8f3216a9706aa4":[7,0,1524,235],
-"d7/db0/classMap.html#aac4872f039e434e42170fb5eb45691f2":[7,0,1524,84],
-"d7/db0/classMap.html#aacf0b757635832275eecd6a91e6bf900":[7,0,1524,136],
-"d7/db0/classMap.html#aacf7286dae69a90d212fdef84a7686b1":[7,0,1524,43],
-"d7/db0/classMap.html#aad4660ab136a74469c5cf790d932391f":[7,0,1524,132],
-"d7/db0/classMap.html#aae3a929aefb05046ef304ffba10aae71":[7,0,1524,137],
-"d7/db0/classMap.html#aae6ae9e8b45a9da8e8808a3c91806c72":[7,0,1524,29],
-"d7/db0/classMap.html#aaee44ddf86b18fce2f095ee28d8e0e1a":[7,0,1524,91]
+"d7/db0/classMap.html#aa9b5bb86f1587c7d68dde0f30e022d53":[7,0,1524,211]
 };

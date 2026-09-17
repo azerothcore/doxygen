@@ -1,5 +1,13 @@
 var NAVTREEINDEX428 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[7,0,2750,2],
+"df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[7,0,2750,1],
+"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[7,0,2750,4],
+"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[7,0,2750,3],
+"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[7,0,2750,5],
+"df/de3/boss__leotheras__the__blind_8cpp.html":[8,0,0,0,1,3,7,2,0,3],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,2,0,3,9],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdce7ad61e391f64294777e90a00175":[8,0,0,0,1,3,7,2,0,3,9,0],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de3bbd791800c0cc1336f4d61904765":[8,0,0,0,1,3,7,2,0,3,9,2],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a81010c7b22ac0dd95b2f5b9188f505be":[8,0,0,0,1,3,7,2,0,3,9,1],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,0,3,10],
@@ -241,13 +249,5 @@ var NAVTREEINDEX428 =
 "df/df2/structnpc__darkfallen__noble.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f":[7,0,1784,1],
 "df/df2/structnpc__darkfallen__noble.html#a566c1938cadfb6fd9d171f84529e9495":[7,0,1784,0],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html":[8,0,0,0,1,3,5,6,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[8,0,0,0,1,3,5,6,1,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,6,1,17],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,5,6,1,17,2],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[8,0,0,0,1,3,5,6,1,17,0],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[8,0,0,0,1,3,5,6,1,17,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463eac6cabd19d685d8d2601495f5b03ed1bc":[8,0,0,0,1,3,5,6,1,17,3],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,6,1,19],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca03d6def31f88803cf8b2ac4fef64f2dd":[8,0,0,0,1,3,5,6,1,19,19],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca09cc11608c1abbe2287b59409bd31222":[8,0,0,0,1,3,5,6,1,19,2]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[8,0,0,0,1,3,5,6,1,24]
 };

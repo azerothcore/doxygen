@@ -1,5 +1,13 @@
 var NAVTREEINDEX290 =
 {
+"db/d0b/structTypeList.html":[7,0,4620],
+"db/d0b/structTypeList.html#a8b16ba737e930ebc023b8cea8231f678":[7,0,4620,1],
+"db/d0b/structTypeList.html#ac5c6d38e71241055f58984e88368494a":[7,0,4620,0],
+"db/d0b/structboss__ahune.html":[7,0,383],
+"db/d0b/structboss__ahune.html#a2b906881621e59143a916c588beb70e7":[7,0,383,3],
+"db/d0b/structboss__ahune.html#a46b477aef635de1d3ec88baa2465089f":[7,0,383,4],
+"db/d0b/structboss__ahune.html#a6404a8255566f2eaa061a89025e2bdcd":[7,0,383,2],
+"db/d0b/structboss__ahune.html#a9e197e8a5ecbad8487c7bad7647e6d2c":[7,0,383,1],
 "db/d0b/structboss__ahune.html#aa3d15e1ab37843761d9f7c56d2e5a319":[7,0,383,0],
 "db/d0b/structboss__ahune.html#aad68758720cc1cb703f8f2dc72c09af2":[7,0,383,7],
 "db/d0b/structboss__ahune.html#aaffc4f54544c8aa4529b249560ddeeec":[7,0,383,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX290 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee":[8,0,0,0,1,3,9,6,56,17],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f":[8,0,0,0,1,3,9,6,56,51],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332":[8,0,0,0,1,3,9,6,56,16],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd":[8,0,0,0,1,3,9,6,56,41],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117":[8,0,0,0,1,3,9,6,56,36],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f":[8,0,0,0,1,3,9,6,56,2],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b":[8,0,0,0,1,3,9,6,56,11],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e":[8,0,0,0,1,3,9,6,56,44],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814":[8,0,0,0,1,3,9,6,56,38],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5":[8,0,0,0,1,3,9,6,56,20],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554":[8,0,0,0,1,3,9,6,56,8],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac":[8,0,0,0,1,3,9,6,56,21]
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd":[8,0,0,0,1,3,9,6,56,41]
 };

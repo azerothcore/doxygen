@@ -1,5 +1,13 @@
 var NAVTREEINDEX417 =
 {
+"df/d9a/boss__sartura_8cpp.html#a556546807d4e4becfb941d281628e053":[8,0,0,0,1,3,4,9,5,5],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,9,5,4],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca1027812f467c97821d58530e30688f8d":[8,0,0,0,1,3,4,9,5,4,3],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,4,9,5,4,1],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298ca39e4c36b6e38cc1460619046a0525f7a":[8,0,0,0,1,3,4,9,5,4,4],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298cac28592c87d6b76a26f2a289a68630ee6":[8,0,0,0,1,3,4,9,5,4,5],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,9,5,4,2],
+"df/d9a/boss__sartura_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,4,9,5,4,0],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[8,0,0,0,1,3,4,9,5,2],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691":[8,0,0,0,1,3,4,9,5,2,1],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a1f971ef9ea8a68f3ddec81062b2d4d9c":[8,0,0,0,1,3,4,9,5,2,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX417 =
 "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187f":[8,0,0,0,1,2,7,2,5],
 "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010":[8,0,0,0,1,2,7,2,5,0],
 "df/da2/classPoolGroup.html":[7,0,2472],
-"df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8":[7,0,2472,16],
-"df/da2/classPoolGroup.html#a0e1dcff97b86df3bc9c6d43457a87db2":[7,0,2472,15],
-"df/da2/classPoolGroup.html#a20e8e8f1db5333436f339ee5805900f2":[7,0,2472,9],
-"df/da2/classPoolGroup.html#a2920cdf967b5b6ea19a359b12805defb":[7,0,2472,12],
-"df/da2/classPoolGroup.html#a3cc7d666db80bccc58ab194cbe852fd9":[7,0,2472,14],
-"df/da2/classPoolGroup.html#a62eba301a08d55ebb86ba6aa2c8fe603":[7,0,2472,6],
-"df/da2/classPoolGroup.html#a6bc374614124ed84cb80e1ac980c30fe":[7,0,2472,11],
-"df/da2/classPoolGroup.html#a6f7c9a7f666f2875d295b12fcf44bdec":[7,0,2472,13],
-"df/da2/classPoolGroup.html#a70c2f975cc24a42e0bb051f194dbfeb3":[7,0,2472,17]
+"df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8":[7,0,2472,16]
 };

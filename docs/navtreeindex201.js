@@ -1,5 +1,13 @@
 var NAVTREEINDEX201 =
 {
+"d7/d45/classspell__entropius__void__zone__visual__aura.html#a58e6bae0c4c203c704cfa6cfdd6d560f":[7,0,2969,2],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html#a717e3428afd59fa3a5e9916887d88273":[7,0,2969,0],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html#ac2ba66696c791d47c7c485aec6028f0b":[7,0,2969,3],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html#ae389028340dc25ee0260ed3e9f1d5ceb":[7,0,2969,1],
+"d7/d45/structboss__yoggsaron__lich__king.html":[7,0,817],
+"d7/d45/structboss__yoggsaron__lich__king.html#a196ffc443569494bed79f623dd9cdca3":[7,0,817,5],
+"d7/d45/structboss__yoggsaron__lich__king.html#a3c20d6227f0f13d46b9841369d55a43e":[7,0,817,0],
+"d7/d45/structboss__yoggsaron__lich__king.html#a4210fa70a3c22efa213cb6e6b6cd7d24":[7,0,817,2],
 "d7/d45/structboss__yoggsaron__lich__king.html#a79a25a561dc2b19cdf18aa105a50ecd9":[7,0,817,4],
 "d7/d45/structboss__yoggsaron__lich__king.html#a97244534b8c6a69807388b620df2263f":[7,0,817,7],
 "d7/d45/structboss__yoggsaron__lich__king.html#aae9e4b456b2bca4a9b43b98419ec60e0":[7,0,817,6],
@@ -241,13 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d46/classAuraEffect.html#afbc68f3158a932f36315f4348dba5914":[7,0,295,68],
 "d7/d46/classAuraEffect.html#afc2f180bb606c2d4f11ae239d3293dbf":[7,0,295,206],
 "d7/d46/classAuraEffect.html#afc337a50bc9fb1f9f8cb4c7dc8d51572":[7,0,295,132],
-"d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee":[7,0,295,14],
-"d7/d46/classAuraEffect.html#afebebaa8f9f33d8354d624561c34b461":[7,0,295,217],
-"d7/d46/classAuraEffect.html#aff76927ae90362081a6ca6c8c77004f6":[7,0,295,136],
-"d7/d46/classAuraEffect.html#aff934af743b5031d558ffc9a4b55d6de":[7,0,295,223],
-"d7/d46/classAuraEffect.html#affc17fba71418fb11e2cffbb0b1710b6":[7,0,295,144],
-"d7/d48/classAreaTrigger__at__stormwright__shelf.html":[7,0,182],
-"d7/d48/classAreaTrigger__at__stormwright__shelf.html#a97cdf51a8992b3d9edc138351770fd75":[7,0,182,0],
-"d7/d48/classAreaTrigger__at__stormwright__shelf.html#ab635f9328b35f3570211cf6ffc60a4c6":[7,0,182,1],
-"d7/d48/group__Acored.html":[4,0]
+"d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee":[7,0,295,14]
 };

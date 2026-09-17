@@ -1,5 +1,13 @@
 var NAVTREEINDEX291 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117":[8,0,0,0,1,3,9,6,56,36],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f":[8,0,0,0,1,3,9,6,56,2],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b":[8,0,0,0,1,3,9,6,56,11],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e":[8,0,0,0,1,3,9,6,56,44],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814":[8,0,0,0,1,3,9,6,56,38],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5":[8,0,0,0,1,3,9,6,56,20],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554":[8,0,0,0,1,3,9,6,56,8],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac":[8,0,0,0,1,3,9,6,56,21],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded":[8,0,0,0,1,3,9,6,56,23],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a":[8,0,0,0,1,3,9,6,56,12],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ad76aefe78f4704e340284a102e676ea9":[8,0,0,0,1,3,9,6,56,32],
@@ -241,13 +249,5 @@ var NAVTREEINDEX291 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a6cb569e0f0b914007ee3ad82380ea82d":[8,0,0,0,1,3,2,6,0,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035":[8,0,0,0,1,3,2,6,0,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439":[8,0,0,0,1,3,2,6,0,6,1],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6":[8,0,0,0,1,3,2,6,0,6,2],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aa1d8489994f84d14fd73af02ed96cd0b":[8,0,0,0,1,3,2,6,0,6,0],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035aea4bd0203f250aef3bb515a6adda3934":[8,0,0,0,1,3,2,6,0,6,3],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,6,0,7],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a08f339278e2a60fbb305dfb799a83e8d":[8,0,0,0,1,3,2,6,0,7,8],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1183107df36da23266fd9938a3132beb":[8,0,0,0,1,3,2,6,0,7,2],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a1bbe6ba29894f9acdfb438806a772a15":[8,0,0,0,1,3,2,6,0,7,3],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a22d7b5af60d6fd3250b798a4cc63a849":[8,0,0,0,1,3,2,6,0,7,4],
-"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a3168eeac2a7f78f49d3629059412345f":[8,0,0,0,1,3,2,6,0,7,1]
+"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6":[8,0,0,0,1,3,2,6,0,6,2]
 };

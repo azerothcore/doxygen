@@ -1,5 +1,13 @@
 var NAVTREEINDEX383 =
 {
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364a94531c66384df3b7d85cde04d8fc69c3":[8,0,0,0,1,2,41,9,74,4],
+"de/d30/SpellMgr_8h.html#a857cdca6f7927f4ad8af6f976954c364ab1d1e1ee19258b6887cd47a4c865544f":[8,0,0,0,1,2,41,9,74,5],
+"de/d30/SpellMgr_8h.html#a86ed4228aa3581416498515c136ed4fb":[8,0,0,0,1,2,41,9,55],
+"de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444":[8,0,0,0,1,2,41,9,54],
+"de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[8,0,0,0,1,2,41,9,27],
+"de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[8,0,0,0,1,2,41,9,51],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[8,0,0,0,1,2,41,9,64],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[8,0,0,0,1,2,41,9,64,1],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[8,0,0,0,1,2,41,9,64,0],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[8,0,0,0,1,2,41,9,64,2],
 "de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[8,0,0,0,1,2,41,9,33],
@@ -241,13 +249,5 @@ var NAVTREEINDEX383 =
 "de/d33/structnpc__dusk.html#a49cade56e631668c946edb6753172c87":[7,0,1806,1],
 "de/d33/structnpc__dusk.html#a4f749f98c178a32b211bbd38b9447607":[7,0,1806,4],
 "de/d33/structnpc__dusk.html#aaff19f52995db17f4dab953e2e928c68":[7,0,1806,2],
-"de/d33/structnpc__dusk.html#ab142eb266e64af625a8a38d3234ded72":[7,0,1806,0],
-"de/d33/structnpc__dusk.html#ac8f70426313aa6834285905e94f1d0d9":[7,0,1806,3],
-"de/d33/structnpc__healing__ward.html":[7,0,1889],
-"de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[7,0,1889,5],
-"de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[7,0,1889,0],
-"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[7,0,1889,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[7,0,1889,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2],
-"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[7,0,1889,3]
+"de/d33/structnpc__dusk.html#ab142eb266e64af625a8a38d3234ded72":[7,0,1806,0]
 };

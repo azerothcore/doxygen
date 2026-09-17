@@ -1,5 +1,13 @@
 var NAVTREEINDEX388 =
 {
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faf346b42db2a33729fa82322e5b422843":[8,0,0,0,1,2,13,1,12,24],
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff018c19627d2a3c3767b8c3665cd1eb":[8,0,0,0,1,2,13,1,12,19],
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff449b5123285287f62d0c80459a9f53":[8,0,0,0,1,2,13,1,12,0],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130c":[8,0,0,0,1,2,13,1,14],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca16e6b230456dd107d885b134aeffce9c":[8,0,0,0,1,2,13,1,14,3],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130ca88cb9f816708ae33f7de954d41f59479":[8,0,0,0,1,2,13,1,14,0],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cab4cc0bcddba1153b89a678c402562b1e":[8,0,0,0,1,2,13,1,14,2],
+"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130cacb9164a9b62f8feb668161d90daa98ea":[8,0,0,0,1,2,13,1,14,1],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0":[8,0,0,0,1,2,13,1,13],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a01b7b91ea994f8e304d9402772d4c74d":[8,0,0,0,1,2,13,1,13,54],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a048336ee4c8a2540b67eb5d4e4e4f974":[8,0,0,0,1,2,13,1,13,46],
@@ -241,13 +249,5 @@ var NAVTREEINDEX388 =
 "de/d6e/structBattlegroundWGScore.html#ab400c9fb692ff157eb4809f0536c05f7":[7,0,358,7],
 "de/d6f/AsioHacksFwd_8h.html":[8,0,0,0,0,0,0],
 "de/d6f/AsioHacksFwd_8h.html#a27a44b709519f6caccf33bc420c4698b":[8,0,0,0,0,0,0,0],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html":[7,0,2244,0],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a0cf5ecd9d7b3c92e2da836983323f378":[7,0,2244,0,4],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a4e599ae2ee4e892795889bd57dd29e27":[7,0,2244,0,2],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a80f80231bfe5b71bf415da3202c2e6fb":[7,0,2244,0,0],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#a81f384607ab7e8c4ed7385bdcddfd7a5":[7,0,2244,0,3],
-"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html#aa270248ad9e0c319234ff0741270b465":[7,0,2244,0,1],
-"de/d71/QueryResult_8cpp.html":[8,0,0,0,1,1,0,32],
-"de/d72/classFollowerAI.html":[7,0,1093],
-"de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[7,0,1093,20]
+"de/d6f/structnpc__toc__hunter_1_1npc__toc__hunterAI.html":[7,0,2244,0]
 };

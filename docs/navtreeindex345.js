@@ -1,5 +1,13 @@
 var NAVTREEINDEX345 =
 {
+"dd/d27/structSmartAction.html#a622f16ef99b42106e5ddec59f549f41a":[7,0,2622,23],
+"dd/d27/structSmartAction.html#a62e2657f90bc0d133f3a37686716a7a0":[7,0,2622,298],
+"dd/d27/structSmartAction.html#a63d2a4b614e574b263391e665ef8176d":[7,0,2622,285],
+"dd/d27/structSmartAction.html#a63ece9f31b536da4a18595614044fa22":[7,0,2622,133],
+"dd/d27/structSmartAction.html#a63efdce1a8477af7a2644befdf55f9ea":[7,0,2622,137],
+"dd/d27/structSmartAction.html#a654eaa80277cced61f830b3a22e82dec":[7,0,2622,272],
+"dd/d27/structSmartAction.html#a666fc5ad986fa2226881582926323b75":[7,0,2622,200],
+"dd/d27/structSmartAction.html#a670e24cdc4631f71fde56a425b671f81":[7,0,2622,268],
 "dd/d27/structSmartAction.html#a6752b6f90d7420d4fb8a58a0a7555b9f":[7,0,2622,31],
 "dd/d27/structSmartAction.html#a6833fd3a0af29135e623fbbb783fb8d6":[7,0,2622,239],
 "dd/d27/structSmartAction.html#a6b0404b1f0bbfbbbce723fe334d98e3d":[7,0,2622,252],
@@ -241,13 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a47d844a9700cd8add793e3f3088d1b82":[7,0,4119,1],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a7f2ddbf54a4932277ad91eb0036915ab":[7,0,4119,0],
 "dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#a97f5239399e7135b02000722eaf837ad":[7,0,4119,3],
-"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[7,0,4119,2],
-"dd/d2c/sunwell__plateau_8h.html":[8,0,0,0,1,3,2,11,7],
-"dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf":[8,0,0,0,1,3,2,11,7,8],
-"dd/d2c/sunwell__plateau_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,11,7,0],
-"dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7":[8,0,0,0,1,3,2,11,7,2],
-"dd/d2c/sunwell__plateau_8h.html#a299463d4f94e7e799027f3d0d0bdc3b9":[8,0,0,0,1,3,2,11,7,1],
-"dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[8,0,0,0,1,3,2,11,7,7],
-"dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928":[8,0,0,0,1,3,2,11,7,7,0],
-"dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,2,11,7,6]
+"dd/d2c/classspell__sha__item__t10__elemental__2p__bonus.html#ad40dfc164ab98fc9734e1ed15ea14c17":[7,0,4119,2]
 };
