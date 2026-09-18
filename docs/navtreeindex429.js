@@ -1,5 +1,14 @@
 var NAVTREEINDEX429 =
 {
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[7,0,3549,4],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[7,0,3549,0],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#a656b512d5bef657004a72acbf7875760":[7,0,3549,3],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html#aa0705dee3edeca7b61f82581f367e94a":[7,0,3549,1],
+"df/df2/structnpc__darkfallen__noble.html":[7,0,1784],
+"df/df2/structnpc__darkfallen__noble.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f":[7,0,1784,1],
+"df/df2/structnpc__darkfallen__noble.html#a566c1938cadfb6fd9d171f84529e9495":[7,0,1784,0],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html":[8,0,0,0,1,3,5,6,1],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[8,0,0,0,1,3,5,6,1,24],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,6,1,17],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,5,6,1,17,2],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[8,0,0,0,1,3,5,6,1,17,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX429 =
 "dir_17ca352e0da451bdc8da27b828d8df3a.html":[8,0,0,0,1,3,4,1,1],
 "dir_194825e12c2d485a086ff6b2f8f6a902.html":[8,0,0,0,1,3,2,2],
 "dir_1c21bdf82e19ee3628235ac53838e383.html":[8,0,0,0,1,2,3,2],
-"dir_1d0cd413e006ec6494118012b4dd808f.html":[8,0,0,0,1,2,16,4,0],
-"dir_1d52b325e67c39c8e747041193659d29.html":[8,0,0,0,1,3,4,7],
-"dir_1e2b35566ac0cf24ea791bcb2545ed2e.html":[8,0,0,0,2],
-"dir_1f027580b311da06667d11b38cd36bc4.html":[8,0,0,0,1,0,1,1],
-"dir_1f3214457037742cde290c7511bc5bd6.html":[8,0,0,0,1,2,3,1],
-"dir_1fd92d9a30d0fdf42a981ea00259f736.html":[8,0,0,0,1,2,39,1],
-"dir_212cab7aa189befb69033d54678b54b0.html":[8,0,0,0,1,3,2,13],
-"dir_21848b791f33e40a23e6d092548069d2.html":[8,0,0,0,1,3,4,5],
-"dir_22de0d38c781b430619603c756a2179f.html":[8,0,0,0,1,3,7,2],
-"dir_23d74cf01fe3f1f57e5987f77f0efe4c.html":[8,0,0,0,1,3,5,1,1]
+"dir_1d0cd413e006ec6494118012b4dd808f.html":[8,0,0,0,1,2,16,4,0]
 };

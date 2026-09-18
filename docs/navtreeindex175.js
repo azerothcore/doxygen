@@ -1,5 +1,8 @@
 var NAVTREEINDEX175 =
 {
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2242,0],
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2242,0,3],
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2242,0,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#adb456f1f93be5329174a3199c9092825":[7,0,2242,0,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#af82baa22ae49ba268f494cb07287845e":[7,0,2242,0,1],
 "d6/d24/GridObjectLoader_8cpp.html":[8,0,0,0,1,2,19,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d2b/classspell__icc__yf__frozen__orb__aura.html#a208c4d59e20cd802cf2f4643fa0d6253":[7,0,3308,0],
 "d6/d2b/classspell__icc__yf__frozen__orb__aura.html#ae1f5555dcadb48ba59bf9571073f4a99":[7,0,3308,3],
 "d6/d2b/classspell__icc__yf__frozen__orb__aura.html#af1d284c4686f739b02b350a6c0a166c2":[7,0,3308,1],
-"d6/d2b/classspell__item__elixir__of__shadows.html":[7,0,3409],
-"d6/d2b/classspell__item__elixir__of__shadows.html#a41b46d8918b59a1617f383b3eedfe343":[7,0,3409,0],
-"d6/d2b/classspell__item__elixir__of__shadows.html#a78f1476ed28eb1e80356dbf3d32918f5":[7,0,3409,2],
-"d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[7,0,3409,1]
+"d6/d2b/classspell__item__elixir__of__shadows.html":[7,0,3409]
 };

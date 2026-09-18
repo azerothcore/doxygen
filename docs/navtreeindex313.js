@@ -1,5 +1,12 @@
 var NAVTREEINDEX313 =
 {
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a0d6a2eda99d95b1ee3403d8c63415800":[7,0,3938,0],
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a68920ab07d955763e8a627e6cb35638c":[7,0,3938,1],
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a918cf6968f6eec5a4025324bd7f78747":[7,0,3938,2],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html":[8,0,0,0,1,3,2,30],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4":[8,0,0,0,1,3,2,30,36],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833":[8,0,0,0,1,3,2,30,36,0],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0":[8,0,0,0,1,3,2,30,29],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0a5306e5f74f768fc37cb75e361f8836ce":[8,0,0,0,1,3,2,30,29,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0aab1104f8c2f8269d74409816be80ef69":[8,0,0,0,1,3,2,30,29,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2b56f12a5305ced51b0059ef1dbc37b4":[8,0,0,0,1,3,2,30,27],
@@ -242,12 +249,5 @@ var NAVTREEINDEX313 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a62bc3c734fe1b4348083c45271acea0e":[8,0,0,0,1,3,2,30,31,69],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a68d4e2444fef5f152f4de4f81dba92f5":[8,0,0,0,1,3,2,30,31,58],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a69b20147b35200f70f62530932b4e30f":[8,0,0,0,1,3,2,30,31,42],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a6a178dd73731969d4a476db6dfcdc091":[8,0,0,0,1,3,2,30,31,28],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a6f49e8b2680bff69ddc051b51dcf662c":[8,0,0,0,1,3,2,30,31,53],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a6fa78ab02fd7eb515a2df5c52880e273":[8,0,0,0,1,3,2,30,31,30],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a73b9d9d672d9f3eac0a6066e6f6b7b26":[8,0,0,0,1,3,2,30,31,56],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a75939db4321595651c140236e4b3290f":[8,0,0,0,1,3,2,30,31,66],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a7700e116d21b9df9605eadd617d90c0c":[8,0,0,0,1,3,2,30,31,57],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a771daa25f4e6a0f4d8a098f66b1e84e3":[8,0,0,0,1,3,2,30,31,19],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a78028d6895fec5fb1dc6c58de0604bf5":[8,0,0,0,1,3,2,30,31,68]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a6a178dd73731969d4a476db6dfcdc091":[8,0,0,0,1,3,2,30,31,28]
 };

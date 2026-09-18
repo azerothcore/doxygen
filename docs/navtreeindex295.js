@@ -1,7 +1,11 @@
 var NAVTREEINDEX295 =
 {
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
+"db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,0,0,5,11],
+"db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3224],
@@ -245,9 +249,5 @@ var NAVTREEINDEX295 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1":[8,0,0,0,1,2,3,0,9,1,13],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406":[8,0,0,0,1,2,3,0,9,1,4],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5":[8,0,0,0,1,2,3,0,9,1,8],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a":[8,0,0,0,1,2,3,0,9,1,9],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7":[8,0,0,0,1,2,3,0,9,1,6],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[8,0,0,0,1,2,3,0,9,1,1],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c":[8,0,0,0,1,2,3,0,9,1,3],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[8,0,0,0,1,2,3,0,9,1,11]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a":[8,0,0,0,1,2,3,0,9,1,9]
 };

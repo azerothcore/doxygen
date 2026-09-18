@@ -1,5 +1,14 @@
 var NAVTREEINDEX413 =
 {
+"df/d70/classspell__illidari__council__reflective__shield__aura.html":[7,0,3356],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa1f27d25209f14dd8bf711bc15cb9165":[7,0,3356,2],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa730b912aadcde53f6cd94c2a8c99493":[7,0,3356,3],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#acde2cbf4d196cba1fa2c02393c08fe9f":[7,0,3356,1],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#ae6879f1d8c27f19cf3e3ada0b34d568f":[7,0,3356,0],
+"df/d71/boss__sartharion_8cpp.html":[8,0,0,0,1,3,5,1,0,0],
+"df/d71/boss__sartharion_8cpp.html#a13fbc56bcad2ea316b9238eab480e53a":[8,0,0,0,1,3,5,1,0,0,26],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,1,0,0,12],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a03de1f1acaf34bf5b5cbcc0b962a7b70":[8,0,0,0,1,3,5,1,0,0,12,13],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a04f34f9a84f65db54c87b37f31b196cc":[8,0,0,0,1,3,5,1,0,0,12,32],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[8,0,0,0,1,3,5,1,0,0,12,1],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[8,0,0,0,1,3,5,1,0,0,12,26],
@@ -240,14 +249,5 @@ var NAVTREEINDEX413 =
 "df/d79/Map_8h.html":[8,0,0,0,1,2,26,4],
 "df/d79/Map_8h.html#a04f98f085e5062cb0c3e86409a12ea0c":[8,0,0,0,1,2,26,4,15],
 "df/d79/Map_8h.html#a092c3d2c90fd46d14455e6ff2413dabb":[8,0,0,0,1,2,26,4,9],
-"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[8,0,0,0,1,2,26,4,8],
-"df/d79/Map_8h.html#a1a089ded88651bc639ec064fe70adce1":[8,0,0,0,1,2,26,4,10],
-"df/d79/Map_8h.html#a1fae3a663f0e007e557bb415f89b8318":[8,0,0,0,1,2,26,4,13],
-"df/d79/Map_8h.html#a37ba261cbc15afa0e5cb95e9d34fe115":[8,0,0,0,1,2,26,4,11],
-"df/d79/Map_8h.html#a48df2f2b831ed13fcc0eef2e9d017b4d":[8,0,0,0,1,2,26,4,14],
-"df/d79/Map_8h.html#a6ca566ddeb275c5d65ead48048181bff":[8,0,0,0,1,2,26,4,12],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[8,0,0,0,1,2,26,4,17],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[8,0,0,0,1,2,26,4,17,3],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d":[8,0,0,0,1,2,26,4,17,1],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c":[8,0,0,0,1,2,26,4,17,2]
+"df/d79/Map_8h.html#a0c8d9f4ee232e2a0f72ae665fc6dc189":[8,0,0,0,1,2,26,4,8]
 };

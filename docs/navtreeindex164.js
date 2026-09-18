@@ -1,5 +1,6 @@
 var NAVTREEINDEX164 =
 {
+"d5/dc7/classAppenderFile.html#af4ee583cbcd00d8d564189b0d62a1bb8":[7,0,164,5],
 "d5/dc7/classnpc__cairne__bloodhoof.html":[7,0,1723],
 "d5/dc7/classnpc__cairne__bloodhoof.html#a1c34470c46ae9e98684de0e786be28b7":[7,0,1723,2],
 "d5/dc7/classnpc__cairne__bloodhoof.html#a3519d94c5fcdc3d55e31c49c7773e56c":[7,0,1723,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX164 =
 "d5/dce/outland__script__loader_8cpp.html#af79bca9b81cdd4bec8ed244213f42deb":[8,0,0,0,1,3,7,8,20],
 "d5/dce/outland__script__loader_8cpp.html#af803a0e2dfb7f53b6682e02b90bef865":[8,0,0,0,1,3,7,8,78],
 "d5/dce/outland__script__loader_8cpp.html#af8878a94693e7e2e32962d79c7a83e80":[8,0,0,0,1,3,7,8,44],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html":[7,0,2087],
-"d5/dce/structnpc__pet__shaman__fire__elemental.html#a2280e5cc5187a91917a1e517e80e960d":[7,0,2087,3]
+"d5/dce/structnpc__pet__shaman__fire__elemental.html":[7,0,2087]
 };

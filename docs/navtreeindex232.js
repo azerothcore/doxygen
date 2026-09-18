@@ -1,5 +1,8 @@
 var NAVTREEINDEX232 =
 {
+"d8/d74/classWorldSession.html#acb8731f8643ade8fc3e15ff477b17a3c":[4,1,19,408],
+"d8/d74/classWorldSession.html#acc00c470e98121301ce448829af2aec0":[4,1,19,393],
+"d8/d74/classWorldSession.html#acd2c78aa4cb128a17959ce983c22a264":[4,1,19,338],
 "d8/d74/classWorldSession.html#acd88f06108300ca092691a6a1535855a":[4,1,19,592],
 "d8/d74/classWorldSession.html#aceaa5f5dc42baa1681bbf98e538b2064":[4,1,19,527],
 "d8/d74/classWorldSession.html#aceda438e135f3dacc72ef80dabaa2c95":[4,1,19,398],
@@ -188,8 +191,8 @@ var NAVTREEINDEX232 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,1000,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,1000,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1000,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX232 =
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a57b42bf7b94ef5b23092ed097ce016e8":[7,0,3572,3],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a6083e35b4289b8a960dd6b223e1d02b5":[7,0,3572,2],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a8622351d9984d2de69ccd67d37fd52b9":[7,0,3572,1],
-"d8/d7d/classMMapTargetData.html":[7,0,1562],
-"d8/d7d/classMMapTargetData.html#a130fe2b359f583acab99c51eb9d0b1ad":[7,0,1562,4],
-"d8/d7d/classMMapTargetData.html#a23c52d1c7b528867bfe1a43e042eea3c":[7,0,1562,6],
-"d8/d7d/classMMapTargetData.html#a2b5741029d07e216c6632e250e934e0a":[7,0,1562,1]
+"d8/d7d/classMMapTargetData.html":[7,0,1562]
 };

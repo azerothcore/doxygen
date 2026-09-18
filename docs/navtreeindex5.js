@@ -1,7 +1,7 @@
 var NAVTREEINDEX5 =
 {
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[5,0,34,0,1,3],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[7,0,13,0,1,3],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[5,0,34,0,1,3],
 "d0/d41/classspell__magic__eater__food.html":[7,0,3652],
 "d0/d41/classspell__magic__eater__food.html#a2c9f565aec4c42900037dd387549df18":[7,0,3652,0],
 "d0/d41/classspell__magic__eater__food.html#a5864bbba50001cdb84b0015d08134c56":[7,0,3652,1],

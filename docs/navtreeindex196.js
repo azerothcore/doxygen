@@ -1,5 +1,8 @@
 var NAVTREEINDEX196 =
 {
+"d7/d04/classgo__arcane__prison.html":[7,0,1155],
+"d7/d04/classgo__arcane__prison.html#a0f9d414ce1f3f3e734cb79a554f7523e":[7,0,1155,1],
+"d7/d04/classgo__arcane__prison.html#ad73ac33d843027de0e516de8f90c45a0":[7,0,1155,0],
 "d7/d05/boss__gorosh__the__dervish_8cpp.html":[8,0,0,0,1,3,2,1,0,7],
 "d7/d05/boss__gorosh__the__dervish_8cpp.html#a4b8bbdeaf3e3ae8e9fef6cb47dc1bd3c":[8,0,0,0,1,3,2,1,0,7,2],
 "d7/d05/boss__gorosh__the__dervish_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,7,1],
@@ -56,8 +59,8 @@ var NAVTREEINDEX196 =
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[8,0,0,0,1,2,38,0,14,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,0,7,3],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[7,0,0,4,3],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,3,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[7,0,0,4,3,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,0,7,3,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[7,0,0,4,3,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,0,7,3,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[7,0,0,98],
@@ -66,10 +69,10 @@ var NAVTREEINDEX196 =
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,0,110,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[7,0,0,98,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,0,110,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[7,0,0,98,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,0,110,2],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,110,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[7,0,0,98,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[7,0,0,98,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,0,110,0],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html":[8,0,0,0,1,3,5,4,2,2],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,4,2,2,3],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca02d05fb030e834dcdcac430b478a599c":[8,0,0,0,1,3,5,4,2,2,3,1],
@@ -229,8 +232,8 @@ var NAVTREEINDEX196 =
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[7,0,15,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,29,1],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0f/classPreparedStatement.html":[7,0,2487],
 "d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[7,0,2487,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[7,0,2487,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d10/structboss__freya__nature__bomb.html#a18e66d31a4bd243ec3f7d438beacad77":[7,0,500,4],
 "d7/d10/structboss__freya__nature__bomb.html#aae8b388dfa69896dd82557c1a4dcd135":[7,0,500,2],
 "d7/d10/structboss__freya__nature__bomb.html#ad2a679ba554a44f28d1f09a10fc88ec9":[7,0,500,1],
-"d7/d10/structboss__freya__nature__bomb.html#affadb797817ddf512209d1d71097baf3":[7,0,500,5],
-"d7/d11/structQuestCinematic.html":[7,0,2516],
-"d7/d11/structQuestCinematic.html#a77b33f8998f85808b58052079b1cab54":[7,0,2516,0],
-"d7/d11/structQuestCinematic.html#accfccceaedffb3ad4d02231fb0bfeee5":[7,0,2516,2]
+"d7/d10/structboss__freya__nature__bomb.html#affadb797817ddf512209d1d71097baf3":[7,0,500,5]
 };

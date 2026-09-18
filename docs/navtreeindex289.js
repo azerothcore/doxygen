@@ -1,5 +1,9 @@
 var NAVTREEINDEX289 =
 {
+"da/df9/classDynamicVisibilityMgr.html":[7,0,1039],
+"da/df9/classDynamicVisibilityMgr.html#a35ebd0fcbdec8a3287f714cbe9becbcc":[7,0,1039,4],
+"da/df9/classDynamicVisibilityMgr.html#a58687646bbf83723e8ad2925ee50452c":[7,0,1039,1],
+"da/df9/classDynamicVisibilityMgr.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6":[7,0,1039,0],
 "da/df9/classDynamicVisibilityMgr.html#aa95443d7050249a44cad2f16fa0026e5":[7,0,1039,3],
 "da/df9/classDynamicVisibilityMgr.html#ac402ec0cb86192ce264d7909e09da5ac":[7,0,1039,2],
 "da/dfa/classnpc__fel__guard__hound.html":[7,0,1829],
@@ -137,14 +141,14 @@ var NAVTREEINDEX289 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[8,0,0,0,1,3,4,21,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[7,0,0,93,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
 "db/d03/classspell__gen__model__visible.html":[7,0,3109],
 "db/d03/classspell__gen__model__visible.html#a1527c59b43a26db344e5a4d2900ea9b0":[7,0,3109,2],
 "db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b":[7,0,3109,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX289 =
 "db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[8,0,0,0,3,2,9,3,3],
 "db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[8,0,0,0,3,2,9,3,0],
 "db/d0b/classspell__oculus__evasive__charges__aura.html":[7,0,3738],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#a2cb77175d7341752bdd8733cfcfe8ed3":[7,0,3738,3],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#a4de69fb4aa8e1506581ed01c42dc8f76":[7,0,3738,4],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#a6764750586be8b57d52a2dba87d89e76":[7,0,3738,1],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#ac852d761940494f78b50ba3b060057a2":[7,0,3738,0],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#acc93a6d463501a23b73bd1ac1f99854e":[7,0,3738,2]
+"db/d0b/classspell__oculus__evasive__charges__aura.html#a2cb77175d7341752bdd8733cfcfe8ed3":[7,0,3738,3]
 };

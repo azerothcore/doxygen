@@ -1,5 +1,8 @@
 var NAVTREEINDEX174 =
 {
+"d6/d1a/classOutdoorPvPEP.html":[7,0,2396],
+"d6/d1a/classOutdoorPvPEP.html#a09e5cf029656af3fc740b236596d42ee":[7,0,2396,10],
+"d6/d1a/classOutdoorPvPEP.html#a251b154abfaec9cbfb1a56e657ac5214":[7,0,2396,4],
 "d6/d1a/classOutdoorPvPEP.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1":[7,0,2396,11],
 "d6/d1a/classOutdoorPvPEP.html#a7e8fcf50f88bdb56b189877721a1f006":[7,0,2396,9],
 "d6/d1a/classOutdoorPvPEP.html#a974910b2f7f2d8cfaf43b6694bf4c2c7":[7,0,2396,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4526,5],
 "d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4526,1],
 "d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4526,6],
-"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4526,2],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2242,0],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2242,0,3],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2242,0,2]
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4526,2]
 };

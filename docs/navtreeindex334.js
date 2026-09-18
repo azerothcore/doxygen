@@ -1,5 +1,14 @@
 var NAVTREEINDEX334 =
 {
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[7,0,0,77,4],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,0,89,4],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,0,89,2],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[7,0,0,77,2],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,0,89,1],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[7,0,0,77,1],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[7,0,0,77,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,0,89,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,0,89,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[7,0,0,77,0],
 "dc/d97/classspell__warl__seduction.html":[7,0,4358],
 "dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[7,0,4358,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX334 =
 "dc/da7/classRectangleBoundary.html#a3eff421dfe942634814e7526334f1c07":[7,0,2546,2],
 "dc/da7/classRectangleBoundary.html#a77db64ebe7e7f5e9621bbbd6e38837e1":[7,0,2546,4],
 "dc/da7/classRectangleBoundary.html#a9ec96dfb6b1ee804cceaae2f2dce6a22":[7,0,2546,3],
-"dc/da7/classRectangleBoundary.html#af401f84700a15fa1d4fcf78358a74735":[7,0,2546,0],
-"dc/da7/classRectangleBoundary.html#af5a7e35d5d9ff23c722643141f01a916":[7,0,2546,5],
-"dc/da7/classspell__item__chicken__cover.html":[7,0,3381],
-"dc/da7/classspell__item__chicken__cover.html#a070e83b84feb418f02327240daebede7":[7,0,3381,2],
-"dc/da7/classspell__item__chicken__cover.html#a0c2965e62feb26ca764636fcd3a1f885":[7,0,3381,3],
-"dc/da7/classspell__item__chicken__cover.html#a13b4ea32e03dec26d0cdaa9537abb3b0":[7,0,3381,0],
-"dc/da7/classspell__item__chicken__cover.html#a48934cde38c6f3b18087267b616ff338":[7,0,3381,4],
-"dc/da7/classspell__item__chicken__cover.html#a78506404ba25b054a9ab3f7176a5d4fc":[7,0,3381,1],
-"dc/da7/scourge__invasion_8cpp.html":[8,0,0,0,1,3,10,16],
-"dc/da7/scourge__invasion_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[8,0,0,0,1,3,10,16,15]
+"dc/da7/classRectangleBoundary.html#af401f84700a15fa1d4fcf78358a74735":[7,0,2546,0]
 };

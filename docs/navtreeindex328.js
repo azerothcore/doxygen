@@ -1,5 +1,12 @@
 var NAVTREEINDEX328 =
 {
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9aed97c932510c91b6057175b2df166f63":[8,0,0,0,1,3,5,11,0,3,6],
+"dc/d41/boss__archavon_8cpp.html#ad1aff64c18cd0f2107efa6558feccc87":[8,0,0,0,1,3,5,11,0,5],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,11,0,4],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,11,0,4,4],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a99e900d1f78c1ea6848cffb8217744df":[8,0,0,0,1,3,5,11,0,4,0],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[8,0,0,0,1,3,5,11,0,4,2],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[8,0,0,0,1,3,5,11,0,4,3],
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec0cacf230c40894b2d6e9f94c3f7022":[8,0,0,0,1,3,5,11,0,4,1],
 "dc/d42/IntermediateValues_8h.html":[8,0,0,0,3,2,3],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html":[7,0,1339,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX328 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae180979a6923a49cd31fb76e1de5e55b":[8,0,0,0,1,2,26,2,1,70],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae2d94258b386f6a9db97cc035d0eefae":[8,0,0,0,1,2,26,2,1,27],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae3631ecfc1ab6ce423f274722be16158":[8,0,0,0,1,2,26,2,1,33],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[8,0,0,0,1,2,26,2,1,50],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaec8ed9235928b91e5b601505d58dace0":[8,0,0,0,1,2,26,2,1,73],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[8,0,0,0,1,2,26,2,1,11],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf578bcbfa373b10d63c5d2f9638daf34":[8,0,0,0,1,2,26,2,1,14],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf5d07a264accc4376d12233736d19343":[8,0,0,0,1,2,26,2,1,82],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3":[8,0,0,0,1,2,26,2,0],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a00446449607842e52572a37cd7b020ad":[8,0,0,0,1,2,26,2,0,88],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a039436e4e28ff7cefc5cd5fbc5fb74b2":[8,0,0,0,1,2,26,2,0,119]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[8,0,0,0,1,2,26,2,1,50]
 };

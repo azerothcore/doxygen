@@ -1,5 +1,8 @@
 var NAVTREEINDEX254 =
 {
+"d9/d85/structboss__algalon__the__observer.html#ae1f987efb9b167719520ff9e560da568":[7,0,386,8],
+"d9/d85/structboss__algalon__the__observer.html#ae8b810a6495b7c2fb8bba59252655b76":[7,0,386,7],
+"d9/d85/structboss__algalon__the__observer.html#aed6084e6c8f289905675d0c908653855":[7,0,386,23],
 "d9/d85/structboss__algalon__the__observer.html#af61dc178b3c0f5757d5dfce067b5d07f":[7,0,386,1],
 "d9/d85/structboss__algalon__the__observer.html#afff79a02e3ac0a6755e071589d3616e9":[7,0,386,19],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html":[7,0,2061,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX254 =
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html#a72bfd4cf6c734d1f1070a1560131667d":[7,0,2077,1],
 "d9/d90/structnpc__pet__gen__soul__trader__beacon.html#ae0a6d4850a0a0da4bd04227b11bae9e4":[7,0,2077,4],
 "d9/d90/zone__eversong__woods_8cpp.html":[8,0,0,0,1,3,2,22],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e":[8,0,0,0,1,3,2,22,3],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9":[8,0,0,0,1,3,2,22,3,4],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886":[8,0,0,0,1,3,2,22,3,1],
-"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081":[8,0,0,0,1,3,2,22,3,5]
+"d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e":[8,0,0,0,1,3,2,22,3]
 };

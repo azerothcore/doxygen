@@ -1,5 +1,8 @@
 var NAVTREEINDEX207 =
 {
+"d7/d95/classnpc__vengeful__shade.html#afa2c672015b43d83bd55050ed020f7e5":[7,0,2309,2],
+"d7/d96/classboss__ysondre.html":[7,0,822],
+"d7/d96/classboss__ysondre.html#a0da215d7bc8ee86216887e682b9335c3":[7,0,822,2],
 "d7/d96/classboss__ysondre.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d":[7,0,822,1],
 "d7/d96/classspell__venture__pilot__summon.html":[7,0,4317],
 "d7/d96/classspell__venture__pilot__summon.html#a0bffbc57932a2efe33a9912d608eb79d":[7,0,4317,2],
@@ -245,9 +248,6 @@ var NAVTREEINDEX207 =
 "d7/d9e/classboss__drakkari__colossus.html":[7,0,445],
 "d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[7,0,445,2],
 "d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[7,0,445,1],
-"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1],
 "d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
-"d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
-"d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,33,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1]
+"d7/d9e/structWMO_1_1MODS.html":[5,0,33,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX193 =
 {
+"d6/ddb/boss__garr_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,2,1,3,1,6],
+"d6/ddb/boss__garr_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9851b3194524dab474f3994fed4a2608":[8,0,0,0,1,3,2,1,3,1,6,0],
+"d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,3,1,4],
 "d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a905fe80abf73b71305ef87c01d631715":[8,0,0,0,1,3,2,1,3,1,4,1],
 "d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac0e23e0ccbc5af3e4750ff6d8dd4dfef":[8,0,0,0,1,3,2,1,3,1,4,0],
 "d6/ddb/classDamageInfoStub.html":[7,0,979],
@@ -229,10 +232,10 @@ var NAVTREEINDEX193 =
 "d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[7,0,1700,0],
 "d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[7,0,1700,1],
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[7,0,1700,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[7,0,13,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[7,0,13,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[7,0,13,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[7,0,13,11,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX193 =
 "d6/dec/classspell__xt002__exposed__heart.html":[7,0,4423],
 "d6/dec/classspell__xt002__exposed__heart.html#a1b4efd5e774d4bd561a30830c3be8045":[7,0,4423,1],
 "d6/dec/classspell__xt002__exposed__heart.html#a4522510d836abf625b019674c1c5281f":[7,0,4423,4],
-"d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb":[7,0,4423,5],
-"d6/dec/classspell__xt002__exposed__heart.html#a94de5901e43000e99b478e9194d59ecd":[7,0,4423,0],
-"d6/dec/classspell__xt002__exposed__heart.html#acc8a07807e5c306af285cb5889ef2c41":[7,0,4423,2],
-"d6/dec/classspell__xt002__exposed__heart.html#ad17cfc0369da547475e43bd2970cf3f2":[7,0,4423,3]
+"d6/dec/classspell__xt002__exposed__heart.html#a4a0204623a0db8d1474d0e72e71226eb":[7,0,4423,5]
 };

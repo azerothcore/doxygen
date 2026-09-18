@@ -244,10 +244,10 @@ var NAVTREEINDEX1 =
 "d0/d15/structAchievementRewardLocale.html":[7,0,126],
 "d0/d15/structAchievementRewardLocale.html#a95f203f9e53a61988a4d2af6ac6820a2":[7,0,126,1],
 "d0/d15/structAchievementRewardLocale.html#ad9bd686973c6e59518889bd5d9b6a11f":[7,0,126,0],
-"d0/d15/structAcore_1_1PlayerWorker.html":[5,0,0,112],
 "d0/d15/structAcore_1_1PlayerWorker.html":[7,0,0,100],
+"d0/d15/structAcore_1_1PlayerWorker.html":[5,0,0,112],
 "d0/d15/structAcore_1_1PlayerWorker.html#a018b799be67c284d6ed5c7a368ef1985":[7,0,0,100,1],
 "d0/d15/structAcore_1_1PlayerWorker.html#a018b799be67c284d6ed5c7a368ef1985":[5,0,0,112,1],
-"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[5,0,0,112,2],
-"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[7,0,0,100,2]
+"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[7,0,0,100,2],
+"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[5,0,0,112,2]
 };

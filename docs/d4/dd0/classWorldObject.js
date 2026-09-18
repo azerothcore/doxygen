@@ -144,6 +144,7 @@ var classWorldObject =
     [ "isNeedNotify", "d4/dd0/classWorldObject.html#a266350f5eebd01138f89f659d1eb7505", null ],
     [ "IsNeverVisible", "d4/dd0/classWorldObject.html#a374795ac4206644fe9de6a2791c78360", null ],
     [ "IsOutdoors", "d4/dd0/classWorldObject.html#a7173e6e4dbc3b94da8fc25e791ff6c0e", null ],
+    [ "IsPositionDataUpdatePending", "d4/dd0/classWorldObject.html#a809c68e7ee86304408e8f44e63bfc819", null ],
     [ "IsSelfOrInSameMap", "d4/dd0/classWorldObject.html#a5f9bf74852e013f57c57ac1893afc89e", null ],
     [ "IsUpdateNeeded", "d4/dd0/classWorldObject.html#a810c1217b049c0d3721ee3c18c389105", null ],
     [ "IsValidAssistTarget", "d4/dd0/classWorldObject.html#ab79ebfc1667d179e3f26db7dabd968c7", null ],

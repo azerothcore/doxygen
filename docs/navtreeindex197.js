@@ -1,5 +1,8 @@
 var NAVTREEINDEX197 =
 {
+"d7/d11/structQuestCinematic.html":[7,0,2516],
+"d7/d11/structQuestCinematic.html#a77b33f8998f85808b58052079b1cab54":[7,0,2516,0],
+"d7/d11/structQuestCinematic.html#accfccceaedffb3ad4d02231fb0bfeee5":[7,0,2516,2],
 "d7/d11/structQuestCinematic.html#ad691f3cd40035e96547adf7528229119":[7,0,2516,1],
 "d7/d12/SkillHandler_8cpp.html":[8,0,0,0,1,2,22,28],
 "d7/d14/wmo_8h.html":[8,0,0,0,3,4,17],
@@ -109,8 +112,8 @@ var NAVTREEINDEX197 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[7,0,2320,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
@@ -246,8 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d22/classGossipMenu.html#a57bbd11a89194b24566279bb846edd54":[7,0,1246,0],
 "d7/d22/classGossipMenu.html#a61be1f9f0c25093a19d2a6b1c46bfd84":[7,0,1246,7],
 "d7/d22/classGossipMenu.html#a6bc424e3e19032ac7516a566412436d1":[7,0,1246,10],
-"d7/d22/classGossipMenu.html#a73d538927373b67ad66380e14a33d00e":[7,0,1246,15],
-"d7/d22/classGossipMenu.html#a74963fbb82523fe99aced2bd8325e062":[7,0,1246,22],
-"d7/d22/classGossipMenu.html#a7d04c8b60bd9ec1ebec5537ef8233d0a":[7,0,1246,4],
-"d7/d22/classGossipMenu.html#a8b58b8a09b1363e56eb5b8f623009597":[7,0,1246,8]
+"d7/d22/classGossipMenu.html#a73d538927373b67ad66380e14a33d00e":[7,0,1246,15]
 };

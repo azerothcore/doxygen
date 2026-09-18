@@ -1,5 +1,8 @@
 var NAVTREEINDEX178 =
 {
+"d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4":[7,0,893,32],
+"d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c":[7,0,893,31],
+"d6/d38/classChatHandler.html#afcaa57574b1d32eaf14a7ce688e52f77":[7,0,893,48],
 "d6/d38/classChatHandler.html#afdbe90fd350a062b2afae318284ce07d":[7,0,893,36],
 "d6/d38/classChatHandler.html#afdbeccdfa99d98175ce520f8eb5621dd":[7,0,893,55],
 "d6/d38/classChatHandler.html#affa04b48f8ce2a0c11b9e245e200f68b":[7,0,893,23],
@@ -246,8 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d40/classachievement__intense__cold.html#a2377357d6bfc03e5b91354428d3da3de":[7,0,70,0],
 "d6/d40/classachievement__intense__cold.html#ab8a774af80a7fb1764df97c9eea57ffc":[7,0,70,1],
 "d6/d40/classboss__emalon.html":[7,0,457],
-"d6/d40/classboss__emalon.html#a2dd481292e02337bebd450f5c9821886":[7,0,457,1],
-"d6/d40/classboss__emalon.html#a345b0663ba89de5e37b87a436c48e446":[7,0,457,2],
-"d6/d40/classspell__eredar__twins__blaze.html":[7,0,2973],
-"d6/d40/classspell__eredar__twins__blaze.html#a20fdb423d5db4f1fa629a0f0480e2a9f":[7,0,2973,1]
+"d6/d40/classboss__emalon.html#a2dd481292e02337bebd450f5c9821886":[7,0,457,1]
 };

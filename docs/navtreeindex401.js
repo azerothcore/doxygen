@@ -1,5 +1,14 @@
 var NAVTREEINDEX401 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[8,0,0,0,1,3,5,6,9,37,0],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a946a4be20de34c6e60bef92fb1f0d255":[8,0,0,0,1,3,5,6,9,37,21],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,6,9,37,1],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9c1eb82ba397495012178faa3efce8f9":[8,0,0,0,1,3,5,6,9,37,18],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4075684a4370ce40174307ddb8c7e83":[8,0,0,0,1,3,5,6,9,37,22],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac44e3da7743742f856230fb208f3afeb":[8,0,0,0,1,3,5,6,9,37,7],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad40fac9b7911b5d8c150f8d388adf4ab":[8,0,0,0,1,3,5,6,9,37,24],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,5,6,9,37,2],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,6,9,37,13],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[8,0,0,0,1,3,5,6,9,37,5],
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[8,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[7,0,2220],
@@ -240,14 +249,5 @@ var NAVTREEINDEX401 =
 "de/df2/spell__rogue_8cpp.html#a540405afe3345e19487d2db693272b2a":[8,0,0,0,1,3,9,9,37],
 "de/df2/spell__rogue_8cpp.html#a68df6411a1d33b37aed8e2cb7d35de0f":[8,0,0,0,1,3,9,9,33],
 "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523":[8,0,0,0,1,3,9,9,35],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452":[8,0,0,0,1,3,9,9,35,8],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1":[8,0,0,0,1,3,9,9,35,12],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a2727c83f5ec6b10e80e2e0663e240c8e":[8,0,0,0,1,3,9,9,35,15],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a":[8,0,0,0,1,3,9,9,35,11],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a40a5daaa3cee076b99c5d0b0329e9ee8":[8,0,0,0,1,3,9,9,35,13],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419":[8,0,0,0,1,3,9,9,35,6],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a48c4c6509d0ad5ce3016b51167105674":[8,0,0,0,1,3,9,9,35,17],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a60344bd5443c6530f2f82c9d1c526577":[8,0,0,0,1,3,9,9,35,14],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220":[8,0,0,0,1,3,9,9,35,2],
-"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a69f1d9a13075e6bbbdac5be5b4189305":[8,0,0,0,1,3,9,9,35,10]
+"de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452":[8,0,0,0,1,3,9,9,35,8]
 };

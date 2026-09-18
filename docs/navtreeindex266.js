@@ -1,5 +1,9 @@
 var NAVTREEINDEX266 =
 {
+"da/d16/classspell__q10714__on__spirits__wings.html#a73358b2272ad12faef006b1ef633cac0":[7,0,3899,4],
+"da/d16/classspell__q10714__on__spirits__wings.html#a7c6aa891b012a0e1820fbe67976d68fd":[7,0,3899,3],
+"da/d16/classspell__q10714__on__spirits__wings.html#ac97d07fb0d964bf3fb29d8bee57fc8e7":[7,0,3899,2],
+"da/d16/classspell__q10714__on__spirits__wings.html#ae396c96647e36da357bdc70e11e3145f":[7,0,3899,0],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html":[7,0,4263],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a16b01725a1b2a105df365e0b178a4f0f":[7,0,4263,3],
 "da/d16/classspell__the__lich__king__vile__spirit__move__target__search.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8":[7,0,4263,5],
@@ -17,8 +21,8 @@ var NAVTREEINDEX266 =
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[7,0,0,42,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,0,54,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[7,0,0,42,1],
-"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,0,54,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[7,0,0,42,5],
+"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,0,54,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[7,0,0,42,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,54,0],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,0,54,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX266 =
 "da/d2a/classPathMovementBase.html#a7ceb52928f2198392980c3926516fd82":[7,0,2423,3],
 "da/d2a/classPathMovementBase.html#a953fcda0cf7764f659fc5a4a19408550":[7,0,2423,1],
 "da/d2a/classspell__delusions__of__jindo.html":[7,0,2807],
-"da/d2a/classspell__delusions__of__jindo.html#a561799e6241b1fe17cd09f17c447107b":[7,0,2807,0],
-"da/d2a/classspell__delusions__of__jindo.html#ad98ba2831e93bd601b51a5c6a7e8441d":[7,0,2807,1],
-"da/d2a/classspell__delusions__of__jindo.html#ad9b601b73631285cb5a79e30dfe4a8cc":[7,0,2807,2],
-"da/d2a/classspell__delusions__of__jindo.html#adb339686c5e9dcb298712455dc8435bf":[7,0,2807,3],
-"da/d2d/SpellAuraDefines_8h.html":[8,0,0,0,1,2,41,0,0]
+"da/d2a/classspell__delusions__of__jindo.html#a561799e6241b1fe17cd09f17c447107b":[7,0,2807,0]
 };

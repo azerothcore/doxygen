@@ -1,5 +1,8 @@
 var NAVTREEINDEX234 =
 {
+"d8/d88/classspell__dru__primal__tenacity.html#ab5b59d975e71e0e12bf41e8d173b9491":[7,0,2933,5],
+"d8/d88/classspell__dru__primal__tenacity.html#ac7316995b7682a6fafe47ff2547956b0":[7,0,2933,4],
+"d8/d88/classspell__dru__primal__tenacity.html#ae63ad15db90ebe73d73e77e232f4d695":[7,0,2933,3],
 "d8/d88/classspell__dru__primal__tenacity.html#af7df70d0bd68d12032b5b57faa789a87":[7,0,2933,0],
 "d8/d8a/classByteBufferInvalidValueException.html":[7,0,846],
 "d8/d8a/classByteBufferInvalidValueException.html#a30cc1225522916e05abf95e14805d7a3":[7,0,846,1],
@@ -66,10 +69,10 @@ var NAVTREEINDEX234 =
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[5,0,0,8,0,22,8],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[7,0,0,5,0,22,7],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a294c3b743ac4b1a1b878d02a6580d3ca":[5,0,0,8,0,22,7],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[7,0,0,5,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[5,0,0,8,0,22,5],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[7,0,0,5,0,22,4],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a6d4a54adde98e638428a8d314a6e4356":[7,0,0,5,0,22,5],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[5,0,0,8,0,22,4],
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a7b1008103a94f6dc068d3e839c924ea6":[7,0,0,5,0,22,4],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[5,0,0,8,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a864e81c56946ca97bf24b392ff8f0b8f":[7,0,0,5,0,22,3],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#aaeb128830c7705a455343d173dc3ae5a":[5,0,0,8,0,22,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d97/structSkillLineAbilityEntry.html#aca5e15003099e1fdbd2eaa701b96f162":[7,0,2614,9],
 "d8/d97/structSkillLineAbilityEntry.html#acfd38780584b90ca40a1e1cd59605832":[7,0,2614,4],
 "d8/d99/structPetStable_1_1PetInfo.html":[7,0,2441,0],
-"d8/d99/structPetStable_1_1PetInfo.html#a1bee56222719503aef508dd3f2ddd2f1":[7,0,2441,0,0],
-"d8/d99/structPetStable_1_1PetInfo.html#a25a72a18fd6e38dea4db6ff8d3942423":[7,0,2441,0,10],
-"d8/d99/structPetStable_1_1PetInfo.html#a39ee3606989e65fc284a6701482c2aa9":[7,0,2441,0,6],
-"d8/d99/structPetStable_1_1PetInfo.html#a40d2f28579271de9b1533b5d412fecbb":[7,0,2441,0,2]
+"d8/d99/structPetStable_1_1PetInfo.html#a1bee56222719503aef508dd3f2ddd2f1":[7,0,2441,0,0]
 };

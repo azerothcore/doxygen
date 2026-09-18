@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/dd6/classspell__sha__fire__elemental__scaling.html":[7,0,4104],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a2db04d2d4af16e34cb69b71dbcd0c066":[7,0,4104,1],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a4ecc412bb7d5e89a886c9ad4cc562187":[7,0,4104,2],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a5b35686a2ddd761343d811a8472c1c3b":[7,0,4104,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#afb398bda1d6ee4d35527208e6c5bffee":[7,0,2236,0,4],
 "d5/de6/class__SpellScript_1_1EffectNameCheck.html":[7,0,18,2],
 "d5/de6/class__SpellScript_1_1EffectNameCheck.html#a31e545b0ae22cad4be815ea9e3b44377":[7,0,18,2,2],
-"d5/de6/class__SpellScript_1_1EffectNameCheck.html#a729d7f07669dedec50f009a87b8f32a4":[7,0,18,2,1],
-"d5/de6/class__SpellScript_1_1EffectNameCheck.html#a905224fb028ea0eab350773b7230f871":[7,0,18,2,3]
+"d5/de6/class__SpellScript_1_1EffectNameCheck.html#a729d7f07669dedec50f009a87b8f32a4":[7,0,18,2,1]
 };

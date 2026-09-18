@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d8/ddd/classspell__sha__mana__tide.html#aecb5c0c9f5258a3ce7ff18cf08f89845":[7,0,4126,3],
+"d8/ddd/classspell__sha__mana__tide.html#afd362a7dd0373e9480445a99023a5c8c":[7,0,4126,1],
+"d8/ddd/structSpellPeriodicAuraLogInfo.html":[7,0,4492],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a26b18592b0aebbdc6a00e8f91fd2a75a":[7,0,4492,5],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9":[7,0,4492,0],
 "d8/ddd/structSpellPeriodicAuraLogInfo.html#a51041b901727b4f595d2a886520626ff":[7,0,4492,3],
@@ -245,9 +248,6 @@ var NAVTREEINDEX240 =
 "d8/de1/structCalendarInvite.html#af4637e1f05f816c0cc5aae9c06a55e21":[7,0,852,25],
 "d8/de1/structCalendarInvite.html#af4f4c4d69190b16bf82010118efc2a86":[7,0,852,5],
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
-"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
 "d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2]
+"d8/de1/structTrainer_1_1Spell.html":[5,0,30,0]
 };

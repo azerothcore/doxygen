@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d5/dfb/classObjectMgr.html#a8dcd3630588191575b287f45dc221ec4":[7,0,2364,381],
 "d5/dfb/classObjectMgr.html#a8df473a640a69afccd6f212a25fc90b4":[7,0,2364,145],
 "d5/dfb/classObjectMgr.html#a8e06c62264966bb3c8738361e3114bf0":[7,0,2364,138],
 "d5/dfb/classObjectMgr.html#a8e31dbfaa0ab5749d6d6f1f30f796a70":[7,0,2364,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[8,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[8,0,0,0,1,3,5,10,1,2,8],
-"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,10,1,2,7],
-"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,10,1,2,7,7]
+"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,10,1,2,7]
 };

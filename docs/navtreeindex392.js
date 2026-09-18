@@ -1,5 +1,14 @@
 var NAVTREEINDEX392 =
 {
+"de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[7,0,4129,3],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,8,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[7,0,0,5,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,0,8,0,26,0],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[7,0,0,5,0,26,0],
+"de/d8d/structArenaScore.html":[7,0,189],
+"de/d8d/structArenaScore.html#a3fe2ab34a9abc4d8c4ff863334cf2c84":[7,0,189,1],
+"de/d8d/structArenaScore.html#a486ee0e05ac5160f0fb174e2a1e061bb":[7,0,189,5],
+"de/d8d/structArenaScore.html#a58f1391de4e67750dad211b10704499f":[7,0,189,0],
 "de/d8d/structArenaScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,189,4],
 "de/d8d/structArenaScore.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b":[7,0,189,3],
 "de/d8d/structArenaScore.html#ac96461b865fc7a9ba0cdfad6ae3fa96f":[7,0,189,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX392 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[8,0,0,0,1,3,7,1,4,8,12],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[8,0,0,0,1,3,7,1,4,8,16],
 "de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[8,0,0,0,1,3,7,1,4,10],
-"de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[8,0,0,0,1,3,7,1,4,11],
-"de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[8,0,0,0,1,3,7,1,4,12],
-"de/d97/classboss__tyrannus.html":[7,0,769],
-"de/d97/classboss__tyrannus.html#a81373192ffea8817cb72b80f4629da43":[7,0,769,1],
-"de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[7,0,769,2],
-"de/d98/classspell__gen__teleporting.html":[7,0,3161],
-"de/d98/classspell__gen__teleporting.html#a56c9ab120239252982cab8b96ac8c5fe":[7,0,3161,1],
-"de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[7,0,3161,2],
-"de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[7,0,3161,0],
-"de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[7,0,3161,3]
+"de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[8,0,0,0,1,3,7,1,4,11]
 };

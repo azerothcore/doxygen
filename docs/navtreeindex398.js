@@ -1,5 +1,14 @@
 var NAVTREEINDEX398 =
 {
+"de/db2/classspell__black__template__free__friend.html#a0ece61d7bed3e19ee6f6175a55c0733d":[7,0,2708,1],
+"de/db2/classspell__black__template__free__friend.html#a827cefe322562f0e8ea7cfa58b9a776b":[7,0,2708,2],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html":[7,0,3890],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a0b32bf9d565d7d6f606150f70fc244a0":[7,0,3890,3],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a1aee8ca0cc33f949371fa5cbb4745ccd":[7,0,3890,4],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#a2376d12f379f75f5decfdc133c18403e":[7,0,3890,0],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#aa70bfd2e614f9bf68ad2972990f0f7f5":[7,0,3890,1],
+"de/db2/classspell__pvp__trinket__wotf__shared__cd.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1":[7,0,3890,2],
+"de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html":[7,0,1330,0],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a45792f7c2d1a042d68907a0f475634d1":[7,0,1330,0,2],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#a886ed4c1485fdedcc176341210eee31a":[7,0,1330,0,0],
 "de/db2/structinstance__azjol__nerub_1_1instance__azjol__nerub__InstanceScript.html#af163238686bf22f11908f64ffb5cacca":[7,0,1330,0,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX398 =
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a46c906dfeb367134885dc5248b50dbd0":[7,0,415,0,0],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a58c32a4802a93755d7c8129c01901cdf":[7,0,415,0,5],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a718a51ec39cb9a10225a7bc76a069a3b":[7,0,415,0,8],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[7,0,415,0,13],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a77d1dc632828691fa07a543544bd266c":[7,0,415,0,3],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a8a9b3f248f3d889b1804c387396d3054":[7,0,415,0,1],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ac25e3299bc9787d5bbad22263ebab235":[7,0,415,0,11],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#acde711225a78e54d4bc1e0fde41e951d":[7,0,415,0,12],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ae67498247b9d631c4ca6af0acb1c76af":[7,0,415,0,7],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#af8600ff24856d079df7e9c59f49850b2":[7,0,415,0,9],
-"de/dc1/MailMgr_8h.html":[8,0,0,0,1,2,25,3],
-"de/dc1/MailMgr_8h.html#ab61afccf5f4ef47bc62e8e4ce634b4f6":[8,0,0,0,1,2,25,3,1],
-"de/dc1/classadt__MCNK.html":[7,0,141]
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[7,0,415,0,13]
 };

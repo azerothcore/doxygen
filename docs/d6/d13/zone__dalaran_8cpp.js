@@ -89,8 +89,6 @@ var zone__dalaran_8cpp =
       [ "MAIL_DELIVER_DELAY_MAX", "d6/d13/zone__dalaran_8cpp.html#afba7f93d4b17225a719509ccbe555b99a29b6c02138daeab5867e56371147df4e", null ]
     ] ],
     [ "NPCs", "d6/d13/zone__dalaran_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
-      [ "NPC_APPLEBOUGH_A", "d6/d13/zone__dalaran_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabef96866eac2fb76f07f761333e2ed08", null ],
-      [ "NPC_SWEETBERRY_H", "d6/d13/zone__dalaran_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1fb3b8a3629edc351f33f35271e21b30", null ],
       [ "NPC_SILVER_COVENANT_GUARDIAN_MAGE", "d6/d13/zone__dalaran_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca2d81e82f48df7ac39fe27346d739c0d8", null ],
       [ "NPC_SUNREAVER_GUARDIAN_MAGE", "d6/d13/zone__dalaran_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca44024434b287b08d5f9f809096824f48", null ]
     ] ],
@@ -117,5 +115,9 @@ var zone__dalaran_8cpp =
       [ "NPC_DND_DALARAN_TOY_STORE_PLANE_STRING_HOOK", "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62a26852ea5db6655cbfc7033e4de72b535", null ],
       [ "SPELL_TOY_PLANE_CABLE", "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62ad3f0ab909e9486b235f8fc23c15de68e", null ]
     ] ],
-    [ "AddSC_dalaran", "d6/d13/zone__dalaran_8cpp.html#a5ebbccfb8fead6175403fae95cd9df29", null ]
+    [ "AddSC_dalaran", "d6/d13/zone__dalaran_8cpp.html#a5ebbccfb8fead6175403fae95cd9df29", null ],
+    [ "IsInsideWMOGroups", "d6/d13/zone__dalaran_8cpp.html#abf145573617378f3cf6b1c7bfd787ac7", null ],
+    [ "GUARD_WATCH_RANGE", "d6/d13/zone__dalaran_8cpp.html#a71607df5022adf09285ca90f85099960", null ],
+    [ "WMO_GROUPS_SILVER_ENCLAVE", "d6/d13/zone__dalaran_8cpp.html#ad185b3d37c21739ecfd1c4e62fa6c67b", null ],
+    [ "WMO_GROUPS_SUNREAVERS_SANCTUARY", "d6/d13/zone__dalaran_8cpp.html#ae522a817fffd59464f5ca9d517e9dff7", null ]
 ];

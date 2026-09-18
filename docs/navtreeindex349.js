@@ -1,5 +1,14 @@
 var NAVTREEINDEX349 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[7,0,4103,7],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a82067899470366c2cbf21bba08061ce1":[7,0,4103,2],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a8aae94d6d6a9ec1fa7d47f88874cce4f":[7,0,4103,8],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#aa333430da4cf3303822d5f048cb9d5a4":[7,0,4103,5],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ac72434a046c28a4887971cf83d574a6e":[7,0,4103,1],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ad7185292820feb168565648133c9e2cc":[7,0,4103,4],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[7,0,4103,6],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[7,0,569,0],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a38e308b66b0f35d3efe6916b03e4391c":[7,0,569,0,5],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a6d60480e39fa89dbcc0facce9f0b69a3":[7,0,569,0,1],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a7880ea86e7a03f5b14875065a83a206a":[7,0,569,0,0],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a878635ef0673325943e6026ad76c2b06":[7,0,569,0,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX349 =
 "dd/d5a/structBfWGGameObjectBuilding.html#ae963cc5bd41ff4cd6ce08f6abbaf98af":[7,0,366,4],
 "dd/d5a/structBfWGGameObjectBuilding.html#ae9da48817573f5fb94c31a347e228588":[7,0,366,11],
 "dd/d5b/World_8h.html":[4,2,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[7,0,0,0,0],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[5,0,0,0,1],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[5,0,0,0,1,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[7,0,0,0,0,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a1165b11f60d138d56eba43657fc299cd":[5,0,0,0,1,6],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a1165b11f60d138d56eba43657fc299cd":[7,0,0,0,0,6],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a22cdb3c45a6dbacb13f90f654bc0c65d":[7,0,0,0,0,7],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a22cdb3c45a6dbacb13f90f654bc0c65d":[5,0,0,0,1,7],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a51e3067d9ba9b0b4a557a7e586b1ef91":[5,0,0,0,1,3],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a51e3067d9ba9b0b4a557a7e586b1ef91":[7,0,0,0,0,3]
+"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[7,0,0,0,0]
 };

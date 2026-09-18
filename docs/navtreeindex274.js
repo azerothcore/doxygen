@@ -1,5 +1,9 @@
 var NAVTREEINDEX274 =
 {
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a1b0aef90bfc405ec11a7645cd5f4cb15":[8,0,0,0,1,3,2,4,15,8,30],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a24a573bf62f453c9706f5179dc0e5d5c":[8,0,0,0,1,3,2,4,15,8,34],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214":[8,0,0,0,1,3,2,4,15,8,37],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a38ec7dfb7c2498d7453f47d53c1c0ae3":[8,0,0,0,1,3,2,4,15,8,20],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a39ba7b188f4550553037dcd4032d9899":[8,0,0,0,1,3,2,4,15,8,17],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641":[8,0,0,0,1,3,2,4,15,8,0],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a40248422d79a7c0dddc3797bb431bd50":[8,0,0,0,1,3,2,4,15,8,22],
@@ -245,9 +249,5 @@ var NAVTREEINDEX274 =
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e4ece37bc636b2ce41d7ba262e9643c":[8,0,0,0,1,3,5,6,10,77,19],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa38d3d09dae292b8956519db4243dae8":[8,0,0,0,1,3,5,6,10,77,11],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aac40b474d094835a1420817fde95c195":[8,0,0,0,1,3,5,6,10,77,13],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab622acd5eda370a7197fffca826e91e9":[8,0,0,0,1,3,5,6,10,77,10],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abd70d679333d055a3a564508cf0f55d3":[8,0,0,0,1,3,5,6,10,77,18],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac0678c4ff28098b3cdaf66642fd5a3af":[8,0,0,0,1,3,5,6,10,77,8],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac25909e1a6347d77bf2ea8dafdf751f2":[8,0,0,0,1,3,5,6,10,77,28],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aca09e1dbdab009734e55670879e8dda8":[8,0,0,0,1,3,5,6,10,77,17]
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab622acd5eda370a7197fffca826e91e9":[8,0,0,0,1,3,5,6,10,77,10]
 };

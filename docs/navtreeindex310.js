@@ -1,5 +1,9 @@
 var NAVTREEINDEX310 =
 {
+"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617":[8,0,0,0,1,3,5,6,12,101],
+"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617a7ffe42a340d09e31932bae8ae328841d":[8,0,0,0,1,3,5,6,12,101,0],
+"db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617aa0c076cc9699b60503a8410bf3a13de7":[8,0,0,0,1,3,5,6,12,101,1],
+"db/dd3/icecrown__citadel_8cpp.html#a1d016ea84659aa4d877239d20bf2f980":[8,0,0,0,1,3,5,6,12,112],
 "db/dd3/icecrown__citadel_8cpp.html#a226bdb7f1825092d789760b9ae593ad2":[8,0,0,0,1,3,5,6,12,95],
 "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,5,6,12,96],
 "db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa1efd1ebb79948c07da234803c164e84a":[8,0,0,0,1,3,5,6,12,96,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX310 =
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ab3fac4faa54b273d67df8f1c39cc2f29":[7,0,2229,0,2],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#abfee2eb8ef6086b162fddcd69372ddc8":[7,0,2229,0,11],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac0227757e89b0d86c77e3b306f12901f":[7,0,2229,0,22],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac0f5110c0a7b10f1a14433916ca3bea9":[7,0,2229,0,7],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac36d7100de7444fcd711eaeecd510ac3":[7,0,2229,0,6],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac3bb42dd096d49e138399aac2d0616c0":[7,0,2229,0,3],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#addb829b3cef88f6430c2a1ae5251105f":[7,0,2229,0,23],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae097af2a0aaeecc237a73ab3d4fafb0f":[7,0,2229,0,12]
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac0f5110c0a7b10f1a14433916ca3bea9":[7,0,2229,0,7]
 };

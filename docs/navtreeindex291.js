@@ -1,5 +1,9 @@
 var NAVTREEINDEX291 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee":[8,0,0,0,1,3,9,6,56,17],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f":[8,0,0,0,1,3,9,6,56,51],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332":[8,0,0,0,1,3,9,6,56,16],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd":[8,0,0,0,1,3,9,6,56,41],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117":[8,0,0,0,1,3,9,6,56,36],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f":[8,0,0,0,1,3,9,6,56,2],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b":[8,0,0,0,1,3,9,6,56,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX291 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05af1e96a37071bf15216c5374cb9dde199":[8,0,0,0,1,3,2,6,0,5,10],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05afa376691cfb37e12ae6d3ea63dbf81aa":[8,0,0,0,1,3,2,6,0,5,4],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05afbcb1f6d4b6e67f967069b9aab3a695d":[8,0,0,0,1,3,2,6,0,5,2],
-"db/d20/instance__scarlet__monastery_8cpp.html#a67ff809187d02c20986ede33691ed9b2":[8,0,0,0,1,3,2,6,0,8],
-"db/d20/instance__scarlet__monastery_8cpp.html#a6cb569e0f0b914007ee3ad82380ea82d":[8,0,0,0,1,3,2,6,0,9],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035":[8,0,0,0,1,3,2,6,0,6],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a7cd99daf81e5f83097e530e5ee935439":[8,0,0,0,1,3,2,6,0,6,1],
-"db/d20/instance__scarlet__monastery_8cpp.html#ad2dda8ffeef12ccba431be57e1f2b035a810798185c2acdd45d9ff6620ea274d6":[8,0,0,0,1,3,2,6,0,6,2]
+"db/d20/instance__scarlet__monastery_8cpp.html#a67ff809187d02c20986ede33691ed9b2":[8,0,0,0,1,3,2,6,0,8]
 };

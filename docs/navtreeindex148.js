@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"d5/d1b/classThreatManager.html#a6b409b59afce53618356a343e9a43dab":[7,0,4576,52],
 "d5/d1b/classThreatManager.html#a70cdfcc43f2355aab3fdc49f28bb2833":[7,0,4576,64],
 "d5/d1b/classThreatManager.html#a721fedb78b025672ab0e61d883c32792":[7,0,4576,81],
 "d5/d1b/classThreatManager.html#a738ee601fbad4acc5568ee8a3e08ab47":[7,0,4576,62],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a938786843f128c05425e1815ea9b62e2":[8,0,0,0,2,2,0,10,22,14],
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a9981745ce0440564d4cee7e7a2573384":[8,0,0,0,2,2,0,10,22,21],
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a9d6c0c00ff0c2e27e03100ab2562a155":[8,0,0,0,2,2,0,10,22,9],
-"d5/d26/SpellProcIntegrationTest_8cpp.html#aa064813f9fa646811ab3aeb1b0c6e23e":[8,0,0,0,2,2,0,10,22,3],
-"d5/d26/SpellProcIntegrationTest_8cpp.html#ab7dc82e964c4a43a5b8de72542405cbf":[8,0,0,0,2,2,0,10,22,8]
+"d5/d26/SpellProcIntegrationTest_8cpp.html#aa064813f9fa646811ab3aeb1b0c6e23e":[8,0,0,0,2,2,0,10,22,3]
 };

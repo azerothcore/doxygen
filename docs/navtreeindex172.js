@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d0b/structboss__flame__leviathan__seat.html#ad902023776db0a5d846168167974f694":[7,0,490,6],
 "d6/d0b/structboss__flame__leviathan__seat.html#aec34fec1a6a3857ea7895a2762bf82d0":[7,0,490,4],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html":[7,0,616,0],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a11cda2b905ef2381c317a01e4163be00":[7,0,616,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d13/classspell__freezing__cloud__area__right.html#a0db5183ec1aa7f490202ac41cd00b153":[7,0,2998,2],
 "d6/d13/classspell__freezing__cloud__area__right.html#a6f3d275e5ff06a6fc37f143d6394bf45":[7,0,2998,0],
 "d6/d13/classspell__freezing__cloud__area__right.html#aa97e0b2f4a8e33d412501f6625ab1504":[7,0,2998,1],
-"d6/d13/classspell__freezing__cloud__area__right.html#abb3ca41a50087763d731d1f911065e14":[7,0,2998,4],
-"d6/d13/classspell__freezing__cloud__area__right.html#acd4b270dbe27be417892e0a4183ffa0d":[7,0,2998,3]
+"d6/d13/classspell__freezing__cloud__area__right.html#abb3ca41a50087763d731d1f911065e14":[7,0,2998,4]
 };
