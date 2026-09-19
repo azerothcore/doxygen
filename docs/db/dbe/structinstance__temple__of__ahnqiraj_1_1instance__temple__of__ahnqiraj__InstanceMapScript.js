@@ -1,6 +1,7 @@
 var structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript =
 [
     [ "instance_temple_of_ahnqiraj_InstanceMapScript", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "CheckRequiredBosses", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a003cc712426d33bae421a2973aa9cd39", null ],
     [ "GetData", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
     [ "Initialize", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
     [ "OnCreatureCreate", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#affc7045f944251fb27683133f511029f", null ],

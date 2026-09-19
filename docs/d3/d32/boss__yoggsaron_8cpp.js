@@ -197,7 +197,10 @@ var boss__yoggsaron_8cpp =
       [ "EVENT_DEATH_RAY_ACTIVE", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becac91909d26c210c9e1ea12a3d9ebe0832", null ],
       [ "EVENT_DEATH_RAY_MOVE", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca9b69ef666eeb4844ef6954163d4e30a2", null ],
       [ "EVENT_SARA_WIPE_OPEN_DOOR", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca6b0013fb3eaec7a96f49533643ddd10f", null ],
-      [ "EVENT_SARA_WIPE_RESPAWN", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becae19523c4d6891d635da02cad646bcdd0", null ]
+      [ "EVENT_SARA_WIPE_RESPAWN", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becae19523c4d6891d635da02cad646bcdd0", null ],
+      [ "EVENT_GUARDIAN_SPAWN_VISUAL", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becadf1c4907c9fc97a6f5081838881e3690", null ],
+      [ "EVENT_GUARDIAN_SPAWN_RELEASE", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530becadb231c1fb02d6dd51a96c865732f9f77", null ],
+      [ "EVENT_GUARDIAN_DRAIN_LIFE", "d3/d32/boss__yoggsaron_8cpp.html#a8eb7ffda51a05ade06197b7d5f530beca6c0cc96867e9216824af7b21c24ccca3", null ]
     ] ],
     [ "YoggSpells", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08", [
       [ "SPELL_KEEPER_ACTIVE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2f17f57ee72712ea502e8cd1341c95df", null ],
@@ -293,6 +296,7 @@ var boss__yoggsaron_8cpp =
       [ "SPELL_RECENTLY_SPAWNED", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8743fced78474c945d4d5b6cfd08137a", null ]
     ] ],
     [ "AddSC_boss_yoggsaron", "d3/d32/boss__yoggsaron_8cpp.html#a1d921e98e5be4d4d399cc5b1401c5d10", null ],
+    [ "ApplyEmpoweredStacks", "d3/d32/boss__yoggsaron_8cpp.html#ab2ed262ea67008c537678a5e8433d22f", null ],
     [ "GossipKeepersPos", "d3/d32/boss__yoggsaron_8cpp.html#a655187d10949d0652e41a036f5f10b81", null ],
     [ "KeepersPos", "d3/d32/boss__yoggsaron_8cpp.html#a8c07356d9b21bb80237c513d277112c3", null ],
     [ "Middle", "d3/d32/boss__yoggsaron_8cpp.html#a40748663b5ac87efa1a03300b56a5f2f", null ],

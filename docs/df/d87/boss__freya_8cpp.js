@@ -12,6 +12,7 @@ var boss__freya_8cpp =
     [ "achievement_freya_getting_back_to_nature", "dc/d13/classachievement__freya__getting__back__to__nature.html", "dc/d13/classachievement__freya__getting__back__to__nature" ],
     [ "achievement_freya_knock_on_wood", "d3/dec/classachievement__freya__knock__on__wood.html", "d3/dec/classachievement__freya__knock__on__wood" ],
     [ "spell_freya_attuned_to_nature_dose_reduction", "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html", "da/d44/classspell__freya__attuned__to__nature__dose__reduction" ],
+    [ "spell_freya_tidal_wave", "d4/da0/classspell__freya__tidal__wave.html", "d4/da0/classspell__freya__tidal__wave" ],
     [ "spell_freya_brightleaf_unstable_sun_beam", "dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html", "dd/dcb/classspell__freya__brightleaf__unstable__sun__beam" ],
     [ "spell_freya_unstable_sun_beam", "db/d9a/classspell__freya__unstable__sun__beam.html", "db/d9a/classspell__freya__unstable__sun__beam" ],
     [ "AlliesGroup", "df/d87/boss__freya_8cpp.html#a9be7e6e314d76eb62f0c956bb4cfab53", [
@@ -41,7 +42,6 @@ var boss__freya_8cpp =
       [ "EVENT_ANCIENT_CONSERVATOR_NATURE_FURY", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4de611c7f4dff66978a503bdf1ea78ef", null ],
       [ "EVENT_ANCIENT_CONSERVATOR_GRIP", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a31f296b7dc55c430e7e5ed7d05f8f9da", null ],
       [ "EVENT_WATER_SPIRIT_CHARGE", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8007a600382bf9f2b0976c4f895c2aed", null ],
-      [ "EVENT_WATER_SPIRIT_DAMAGE", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4cf9839144b8e6fb679600dc4d642fb1", null ],
       [ "EVENT_STORM_LASHER_LIGHTNING_LASH", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289aa0065312e4cd2d95814094d99bc222e8", null ],
       [ "EVENT_STORM_LASHER_STORMBOLT", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1242bda27cc3b925c6b9f90e4d7b5570", null ],
       [ "EVENT_DETONATING_LASHER_FLAME_LASH", "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ab0894d46cb2148828318903683a96a31", null ]
