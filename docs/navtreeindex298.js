@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846":[8,0,0,0,1,3,9,4,278],
 "db/d6e/spell__item_8cpp.html#a97fa30f86b938886a3f3790bc8d66846a261d99f1be2393dea82ceaf237878deb":[8,0,0,0,1,3,9,4,278,0],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13":[8,0,0,0,1,3,9,4,269],
 "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046":[8,0,0,0,1,3,9,4,269,2],
@@ -201,12 +202,12 @@ var NAVTREEINDEX298 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2577,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[7,0,2577,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2577,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
 "db/d72/structLootItem.html":[7,0,1496],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/d74/classspell__botanica__shift__form__aura.html":[7,0,2745],
 "db/d74/classspell__botanica__shift__form__aura.html#a990cab2c1d9fb544bf11c9fd4e5495ac":[7,0,2745,2],
 "db/d74/classspell__botanica__shift__form__aura.html#aad39e53d6b3fc673c115f79ca0bc9b68":[7,0,2745,1],
-"db/d74/classspell__botanica__shift__form__aura.html#ac176c59497cc2196c19dc8a1b9f8056d":[7,0,2745,0],
-"db/d74/classspell__botanica__shift__form__aura.html#ad392a897546cb64e550dd8b0709ba0ab":[7,0,2745,4]
+"db/d74/classspell__botanica__shift__form__aura.html#ac176c59497cc2196c19dc8a1b9f8056d":[7,0,2745,0]
 };

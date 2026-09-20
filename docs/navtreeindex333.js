@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dc/d86/structPacketHeader_1_1OptionalData.html#aa10551a3c7371bafa9b27919e37b16ff":[7,0,2413,0,0],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html":[7,0,1167,0],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a37f83dbbb05e461d613a4c38001f785c":[7,0,1167,0,3],
 "dc/d86/structgo__celestial__planetarium__access_1_1go__celestial__planetarium__accessAI.html#a9b2bfb74a12e3258476387fc78cde574":[7,0,1167,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dc/d93/classSlaveRunEvent.html":[7,0,2620],
 "dc/d93/classSlaveRunEvent.html#a33e2ce4cea1edf2e0967696c41667f15":[7,0,2620,2],
 "dc/d93/classSlaveRunEvent.html#a4560b275b0870cdbd192b2610893b47c":[7,0,2620,0],
-"dc/d93/classSlaveRunEvent.html#a81db67be136525dea5a9cd84180be165":[7,0,2620,1],
-"dc/d93/classspell__summon__amanishi__sentries.html":[7,0,4192]
+"dc/d93/classSlaveRunEvent.html#a81db67be136525dea5a9cd84180be165":[7,0,2620,1]
 };

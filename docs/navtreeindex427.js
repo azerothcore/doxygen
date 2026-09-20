@@ -1,5 +1,6 @@
 var NAVTREEINDEX427 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6e219b6ec1095c361bd6384205f3ab5a":[8,0,0,0,1,3,5,6,4,57,21],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a751a177e9753634ff67369c6dc315d9c":[8,0,0,0,1,3,5,6,4,57,24],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a78bbe08e6007188499933e592adf84cb":[8,0,0,0,1,3,5,6,4,57,0],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7bab4447dbe477353931faa9fef2a7f6":[8,0,0,0,1,3,5,6,4,57,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX427 =
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#aa5050ea97f0f92a39f3db856af5cd28e":[7,0,742,0,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#ad2258d2039a789f99ad4c0766726df85":[7,0,742,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#af96f6054547e377f401972273e6e86aa":[7,0,742,0,5],
-"df/de0/classat__zulgurub__entrance__speech.html":[7,0,265],
-"df/de0/classat__zulgurub__entrance__speech.html#a7f719eab3ca9fa7d5e7a26f721dc9f50":[7,0,265,1]
+"df/de0/classat__zulgurub__entrance__speech.html":[7,0,265]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX419 =
 {
+"df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[7,0,330,106],
 "df/da7/classBattleground.html#a8c499d8b29631281063c066fe908a9be":[7,0,330,251],
 "df/da7/classBattleground.html#a8ca3356d984db0c5b6e09d61cf7a406c":[7,0,330,103],
 "df/da7/classBattleground.html#a8f4e174fb4339f237fd3974f3612d1ff":[7,0,330,211],
@@ -248,6 +249,5 @@ var NAVTREEINDEX419 =
 "df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[7,0,1736,5],
 "df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[7,0,1736,4],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[7,0,1760,0],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[7,0,1760,0,3],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[7,0,1760,0,1]
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[7,0,1760,0,3]
 };

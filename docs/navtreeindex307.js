@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a6b47384acbb2a44a07cf1411de2826e5":[8,0,0,0,1,3,10,14,59,10],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a71a366d893eb8190c8e501891f530374":[8,0,0,0,1,3,10,14,59,27],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a769d18fcc935349f55543cafcb10ee2a":[8,0,0,0,1,3,10,14,59,0],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a7b23c73e28b4739ee9f0e41661b4f4ae":[8,0,0,0,1,3,10,14,59,29],
@@ -208,10 +209,10 @@ var NAVTREEINDEX307 =
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558":[5,0,21,16,0],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642":[5,0,21,16,4],
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,21,27],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
 "db/db8/classProcChanceTestHelper.html":[7,0,2493],
 "db/db8/classProcChanceTestHelper.html#a0030bcefe26a228bb36f5b3913fa1e48":[7,0,2493,27],
 "db/db8/classProcChanceTestHelper.html#a050a7405275f53b24207e5a94f0f2dcd":[7,0,2493,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96":[7,0,2493,29],
 "db/db8/classProcChanceTestHelper.html#af3edb0d11fc98b2a470c76d5614764f5":[7,0,2493,34],
 "db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297":[7,0,2493,7],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[5,0,34,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[7,0,13,6,9]
 };

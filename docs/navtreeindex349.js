@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4c/TemporarySummon_8cpp.html":[8,0,0,0,1,2,16,1,8],
 "dd/d4c/structnpc__rocknot.html":[7,0,2148],
 "dd/d4c/structnpc__rocknot.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2148,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/d5a/structBfWGGameObjectBuilding.html#a2f1e928509a53a7024bff2c10be306c3":[7,0,366,17],
 "dd/d5a/structBfWGGameObjectBuilding.html#a343e1dede32e1b3d89561f002355c172":[7,0,366,20],
 "dd/d5a/structBfWGGameObjectBuilding.html#a48e7cf336d213225b79c2aaab57dfa8b":[7,0,366,1],
-"dd/d5a/structBfWGGameObjectBuilding.html#a53c3befcba120fc19f450f6d98206114":[7,0,366,2],
-"dd/d5a/structBfWGGameObjectBuilding.html#a69e9f758b6fc68c02a53d0a90ff2e14a":[7,0,366,0]
+"dd/d5a/structBfWGGameObjectBuilding.html#a53c3befcba120fc19f450f6d98206114":[7,0,366,2]
 };

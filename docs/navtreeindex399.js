@@ -1,5 +1,6 @@
 var NAVTREEINDEX399 =
 {
+"de/dc0/structBattlegroundTemplate.html#a5fbb1a76221e9d15bd7cca13581f7b14":[7,0,357,5],
 "de/dc0/structBattlegroundTemplate.html#a790f55d480d1454a5f6e5713c04314b7":[7,0,357,3],
 "de/dc0/structBattlegroundTemplate.html#a8477d2156c8aa5bb89da038d1a779698":[7,0,357,9],
 "de/dc0/structBattlegroundTemplate.html#a8a99bf73debf5835e58537bee33fe2ad":[7,0,357,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX399 =
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6":[7,0,2007,0,8],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a6b9a435245ddce156d0657aa9e35175b":[7,0,2007,0,10],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a72eb39e259aed0ab230d4d43722cba13":[7,0,2007,0,3],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a749690b386c0c726d11b77bc705b9b01":[7,0,2007,0,4],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#aa50d3a21103dc769d162b1c917100630":[7,0,2007,0,9]
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a749690b386c0c726d11b77bc705b9b01":[7,0,2007,0,4]
 };

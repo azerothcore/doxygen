@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"de/db1/classRaceMgr.html#a78e384652a5e52776f13085d14e6037a":[7,0,2531,0],
 "de/db1/classRaceMgr.html#a93d2f89ab56fa6d4c20547b411b0a812":[7,0,2531,7],
 "de/db1/classRaceMgr.html#ab783bff98d389f35ef89f45327cec299":[7,0,2531,3],
 "de/db1/classRaceMgr.html#ac54cc09b38129b4d7cfc02767c8ba41e":[7,0,2531,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[7,0,357,2],
 "de/dc0/structBattlegroundTemplate.html#a324a4e557ce66089ec1111a9dae6e1de":[7,0,357,4],
 "de/dc0/structBattlegroundTemplate.html#a49fdf96a08376830a06956fd501cfa78":[7,0,357,6],
-"de/dc0/structBattlegroundTemplate.html#a51ce3b9fdb2f51f439fee7c8b48e3918":[7,0,357,1],
-"de/dc0/structBattlegroundTemplate.html#a5fbb1a76221e9d15bd7cca13581f7b14":[7,0,357,5]
+"de/dc0/structBattlegroundTemplate.html#a51ce3b9fdb2f51f439fee7c8b48e3918":[7,0,357,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca39830a88116af885ed6d769960af61ca":[8,0,0,0,1,3,7,1,4,8,8],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca5fcda4485906d968fda02a961319085d":[8,0,0,0,1,3,7,1,4,8,11],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca6705e7dadee2dd3403374f42166db929":[8,0,0,0,1,3,7,1,4,8,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b39310aedae8c463ba027790ef07c39":[8,0,0,0,1,3,7,1,4,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/da2/classnpc__maxx__a__million__escort.html":[7,0,2008],
 "de/da2/classnpc__maxx__a__million__escort.html#a958a88b495594dd8e14919d950ac917a":[7,0,2008,1],
 "de/da2/classnpc__maxx__a__million__escort.html#aa9a3c655ed09b1264afd8e9ca6965bf5":[7,0,2008,3],
-"de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[7,0,2008,2],
-"de/da2/classspell__gen__reduced__above__60__aura.html":[7,0,3139]
+"de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[7,0,2008,2]
 };

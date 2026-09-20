@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"dd/de8/classSpellProcCooldownTest.html#a502fcdf3eb4a377df1616262ca7b8d01":[7,0,4498,0],
 "dd/de8/classspell__capacitus__polarity__shift.html":[7,0,2770],
 "dd/de8/classspell__capacitus__polarity__shift.html#a4c1177fc89310598b6ba7cddf7f47cd1":[7,0,2770,0],
 "dd/de8/classspell__capacitus__polarity__shift.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29":[7,0,2770,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "dd/dfa/structboss__nightbane.html#a28ded4432525290ff7e81d03545d46cf":[7,0,655,23],
 "dd/dfa/structboss__nightbane.html#a2cdc3d7e7f83391eaf96e92f20ea703b":[7,0,655,9],
 "dd/dfa/structboss__nightbane.html#a39ed84d01215f9f8427e5c599e424927":[7,0,655,22],
-"dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[7,0,655,13],
-"dd/dfa/structboss__nightbane.html#a55a8cf6e293b0c7ad3865340412aa31e":[7,0,655,24]
+"dd/dfa/structboss__nightbane.html#a536b576c59bfe91e88823634978e174d":[7,0,655,13]
 };

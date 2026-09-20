@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[7,0,2622,115],
 "dd/d27/structSmartAction.html#a4adacb044619cfa2b4c37c072a865628":[7,0,2622,264],
 "dd/d27/structSmartAction.html#a4b0169783ff0fed5b2a6f2a67d224d03":[7,0,2622,32],
 "dd/d27/structSmartAction.html#a4b6266a03609d3d3b09aa5167ba22e52":[7,0,2622,178],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d29/structboss__firemaw.html#a2d2be691020b8aa81f82ffab91a86e42":[7,0,484,0],
 "dd/d29/structboss__firemaw.html#a63d0f449d04ad3d86f4ede9a0f9696a9":[7,0,484,1],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html":[7,0,3376],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[7,0,3376,0],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a56326701447b3a88d9022ca1f1c184a6":[7,0,3376,2]
+"dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[7,0,3376,0]
 };

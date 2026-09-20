@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  416</span> </div>
 <div class="line"><span class="lineno">  417</span>                <span class="keywordflow">if</span> (target-&gt;HasSpell(<a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb">SPELL_SHAMANISTIC_RAGE</a>))</div>
 <div class="line"><span class="lineno">  418</span>                    caster-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a1eb8abb1e30c6eb7e0067186567e9440">SPELL_CORRUPTED_RAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  419</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;HasSpell(<a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a>) || target-&gt;HasSpell(<a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a> + 1) || target-&gt;HasSpell(<a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a> + 2))</div>
+<div class="line"><span class="lineno">  419</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;HasAnyAuras(<a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a>, <a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a> + 1, <a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7">SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1</a> + 2))</div>
 <div class="line"><span class="lineno">  420</span>                    caster-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ad4717c300512cf000af07535db9faf42">SPELL_CORRUPTED_WISDOM</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  421</span>            }</div>
 <div class="line"><span class="lineno">  422</span>    }</div>
@@ -536,7 +536,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dee/classspell__aura__of__despair__aura.html">spell_aura_of_despair_aura</a></li>
-    <li class="footer">Generated on Sat Sep 19 2026 10:11:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Sep 20 2026 10:30:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

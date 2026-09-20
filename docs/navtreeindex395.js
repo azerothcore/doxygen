@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a87f4012edfae1432d8cadfb45a4e1686":[8,0,0,0,1,1,0,0,1,1,199],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a880da191fa86cb646accf336868acb69":[8,0,0,0,1,1,0,0,1,1,259],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8907acf05ccd3a0a184963cac916c548":[8,0,0,0,1,1,0,0,1,1,365],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a899de096af13eece8c050afc22ab6034":[8,0,0,0,1,1,0,0,1,1,410],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,1,1,9,2,0],
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298caa87262d7dbc51fbcccf3295b75b9f57a":[8,0,0,0,1,3,2,1,1,9,2,1],
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298cafe72013e61149247089c4f3b8aaa38cc":[8,0,0,0,1,3,2,1,1,9,2,3],
-"de/da5/boss__quartermaster__zigris_8cpp.html#aaf687df9c57b16f17860687156e63e40":[8,0,0,0,1,3,2,1,1,9,3],
-"de/da5/boss__quartermaster__zigris_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,1,9,1]
+"de/da5/boss__quartermaster__zigris_8cpp.html#aaf687df9c57b16f17860687156e63e40":[8,0,0,0,1,3,2,1,1,9,3]
 };

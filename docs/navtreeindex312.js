@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"db/dd5/classCreature.html#ab26405afc43fce337c2497290045a04f":[7,0,944,61],
 "db/dd5/classCreature.html#ab3aa8c41875b4a783d31695e1c136d52":[7,0,944,282],
 "db/dd5/classCreature.html#ab3f04d801ca803af0ab7f3006c328f8c":[7,0,944,323],
 "db/dd5/classCreature.html#ab3f28ac02133420e537305b38948388a":[7,0,944,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd7/classinstance__halls__of__reflection.html#a7ba187f20dcbba1461fef98c00a96f20":[7,0,1348,29],
 "db/dd7/classinstance__halls__of__reflection.html#a7dd6a375b394245a495a40e6fa04f640":[7,0,1348,14],
 "db/dd7/classinstance__halls__of__reflection.html#a7e65420bf619b44c5edd7fe2a31c9023":[7,0,1348,2],
-"db/dd7/classinstance__halls__of__reflection.html#a8f19238ec61ed8de63ea1968558b1963":[7,0,1348,18],
-"db/dd7/classinstance__halls__of__reflection.html#aa1345ed4481164b1659f5565f1512e98":[7,0,1348,30]
+"db/dd7/classinstance__halls__of__reflection.html#a8f19238ec61ed8de63ea1968558b1963":[7,0,1348,18]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099":[8,0,0,0,1,3,9,7,39,9],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2":[8,0,0,0,1,3,9,7,39,7],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5":[8,0,0,0,1,3,9,7,39,2],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014":[8,0,0,0,1,3,9,7,39,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "de/d28/classrbac_1_1RBACData.html#a8774fca5d4f07a4096e7ccce07effe8d":[5,0,28,0,30],
 "de/d28/classrbac_1_1RBACData.html#a8774fca5d4f07a4096e7ccce07effe8d":[7,0,8,0,30],
 "de/d28/classrbac_1_1RBACData.html#a8992e3a8561b49432abf5143cd61beb3":[7,0,8,0,28],
-"de/d28/classrbac_1_1RBACData.html#a8992e3a8561b49432abf5143cd61beb3":[5,0,28,0,28],
-"de/d28/classrbac_1_1RBACData.html#a8d11517aec8e8b77920ae257f4175be0":[5,0,28,0,4]
+"de/d28/classrbac_1_1RBACData.html#a8992e3a8561b49432abf5143cd61beb3":[5,0,28,0,28]
 };

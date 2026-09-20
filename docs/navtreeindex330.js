@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d51/classspell__gen__mounted__charge.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc":[7,0,3113,1],
 "dc/d51/classspell__gen__mounted__charge.html#a2cdda449ab11438347e7dd32fd058e6d":[7,0,3113,3],
 "dc/d51/classspell__gen__mounted__charge.html#ad8d2871e6277dd982653fa864010d084":[7,0,3113,0],
 "dc/d51/model_8h.html":[8,0,0,0,3,4,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d64/classspell__pri__item__t6__trinket.html#a283f05b3649e3c137679ab92386f7a84":[7,0,3843,2],
 "dc/d64/classspell__pri__item__t6__trinket.html#a4805c758dc85e065cdb9550a5856fe31":[7,0,3843,3],
 "dc/d64/classspell__pri__item__t6__trinket.html#af27f9408725ff9c7ec17e8ae352234a9":[7,0,3843,0],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[5,0,34,6,23],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[7,0,13,6,23]
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[5,0,34,6,23]
 };

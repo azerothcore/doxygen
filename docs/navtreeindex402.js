@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"de/df1/zone__duskwood_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[8,0,0,0,1,3,2,19,3],
 "de/df1/zone__duskwood_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a075209927f03e99c695fcf57e68d1611":[8,0,0,0,1,3,2,19,3,0],
 "de/df1/zone__duskwood_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,19,3,1],
 "de/df1/zone__duskwood_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,2,19,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a66afc21dd0fd740c2723516b8c33a319":[7,0,0,118,7],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a66afc21dd0fd740c2723516b8c33a319":[5,0,0,130,7],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a765d65a90639b34a8cf9f42fdd6ae653":[7,0,0,118,9],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a765d65a90639b34a8cf9f42fdd6ae653":[5,0,0,130,9],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a94d30e81eb509ff4fd3dac7c207c819b":[7,0,0,118,5]
+"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a765d65a90639b34a8cf9f42fdd6ae653":[5,0,0,130,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a827336e7de5ddacb68914026d6f0be49":[8,0,0,0,1,3,5,18,52,27],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a84af0617fbeb30df550bc4e30aa4111c":[8,0,0,0,1,3,5,18,52,32],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a978570851fb11600b5c393dbcfbab6f0":[8,0,0,0,1,3,5,18,52,24],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a9f89730139b41009bb23ed7bc1018d75":[8,0,0,0,1,3,5,18,52,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "de/db1/classRaceMgr.html#a3f27d5d4ae27c1ebe2462f35dbace85e":[7,0,2531,10],
 "de/db1/classRaceMgr.html#a5cf45d0a57727daee3432fca51479c32":[7,0,2531,4],
 "de/db1/classRaceMgr.html#a694fca25b429d99dad214ea277ade0c7":[7,0,2531,9],
-"de/db1/classRaceMgr.html#a6e8a0ba72a13d62321246cb4c11a6f4d":[7,0,2531,2],
-"de/db1/classRaceMgr.html#a78e384652a5e52776f13085d14e6037a":[7,0,2531,0]
+"de/db1/classRaceMgr.html#a6e8a0ba72a13d62321246cb4c11a6f4d":[7,0,2531,2]
 };

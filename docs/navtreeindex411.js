@@ -1,5 +1,6 @@
 var NAVTREEINDEX411 =
 {
+"df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[8,0,0,0,1,2,31,2,0,2,2],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[8,0,0,0,1,2,31,2,0,2,4],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843":[8,0,0,0,1,2,31,2,0,2,3],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff":[8,0,0,0,1,2,31,2,0,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX411 =
 "df/d5b/structQuestVisitor.html#a864f3c2f78b80dbc4b65dffb0d38ab55":[7,0,2529,1],
 "df/d5b/structQuestVisitor.html#aea5c629ecdcd9c2bfc1253ef8e775c3a":[7,0,2529,0],
 "df/d5c/QueryPackets_8h.html":[8,0,0,0,1,2,39,0,30],
-"df/d5c/classnpc__commandscript.html":[7,0,1742],
-"df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662":[7,0,1742,40]
+"df/d5c/classnpc__commandscript.html":[7,0,1742]
 };

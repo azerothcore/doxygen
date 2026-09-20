@@ -1,5 +1,6 @@
 var NAVTREEINDEX295 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,0,0,5,8],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca0191744df42ac27cb16895d2f704b93f":[8,0,0,0,1,3,5,0,0,5,8,6],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca06a46fcede8911f2df5a8196db465132":[8,0,0,0,1,3,5,0,0,5,8,11],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fb91657a745deb3bc36cac8d6b20aa0":[8,0,0,0,1,3,5,0,0,5,8,3],
@@ -18,10 +19,10 @@ var NAVTREEINDEX295 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3225],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[7,0,3225,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[7,0,3225,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX295 =
 "db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc":[7,0,784,12],
 "db/d5c/structboss__vezax.html#addfa8398f2a1c21b7ed44547fa6e2899":[7,0,784,2],
 "db/d5c/structboss__vezax.html#ae43a0164f3ac1876b6e6cd5f6f241ffb":[7,0,784,13],
-"db/d5d/classspell__algalon__cosmic__smash__damage.html":[7,0,2656],
-"db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6":[7,0,2656,1]
+"db/d5d/classspell__algalon__cosmic__smash__damage.html":[7,0,2656]
 };

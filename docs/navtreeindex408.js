@@ -1,5 +1,6 @@
 var NAVTREEINDEX408 =
 {
+"df/d23/classspell__black__temple__spell__absorption__aura.html":[7,0,2718],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[7,0,2718,2],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[7,0,2718,0],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a85840e7d27a7ed256c45de87f4486d45":[7,0,2718,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX408 =
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,3,5,3],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa14c943127f3ae15ef51e18fcc3aa97":[8,0,0,0,1,3,5,7,3,5,2],
 "df/d30/classAccountScript.html":[7,0,32],
-"df/d30/classAccountScript.html#a23261a238db9ddd618ebb6a45aaabcbf":[7,0,32,6],
-"df/d30/classAccountScript.html#a2554f46fcf6ff81b353513916771b8d1":[7,0,32,0]
+"df/d30/classAccountScript.html#a23261a238db9ddd618ebb6a45aaabcbf":[7,0,32,6]
 };

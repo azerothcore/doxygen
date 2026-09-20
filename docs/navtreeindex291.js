@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c":[8,0,0,0,1,3,9,6,56,9],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5":[8,0,0,0,1,3,9,6,56,19],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931":[8,0,0,0,1,3,9,6,56,27],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a84d4d85a0afb339915b83ecbe1010e2e":[8,0,0,0,1,3,9,6,56,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[8,0,0,0,1,3,2,6,0,4,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[8,0,0,0,1,3,2,6,0,4,7],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[8,0,0,0,1,3,2,6,0,4,11],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[8,0,0,0,1,3,2,6,0,4,8],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[8,0,0,0,1,3,2,6,0,4,4]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[8,0,0,0,1,3,2,6,0,4,8]
 };

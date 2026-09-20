@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1cd696264341903a5ac26b2532905ab":[8,0,0,0,1,3,5,4,1,1,2,3],
 "dd/d1f/classspell__exploding__orb__auto__grow__aura.html":[7,0,2978],
 "dd/d1f/classspell__exploding__orb__auto__grow__aura.html#a4653ccb0d93d056adf3b14056865787c":[7,0,2978,2],
 "dd/d1f/classspell__exploding__orb__auto__grow__aura.html#a61417176afec531ca2bf6e80eb72ac6a":[7,0,2978,0],
@@ -85,10 +86,10 @@ var NAVTREEINDEX344 =
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[7,0,13,10,12],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[7,0,13,10,12,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[7,0,13,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,12,4],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,34,10,12,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[7,0,13,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[7,0,13,10,12,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,34,10,12,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,34,10,12,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[7,0,13,10,12,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[7,0,13,10,12,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d27/structSmartAction.html#a4455335eeb643222636ab78dfcb64149":[7,0,2622,306],
 "dd/d27/structSmartAction.html#a44afde0676b9bf14380c4b9232011cb2":[7,0,2622,159],
 "dd/d27/structSmartAction.html#a44b1e831693e0a9a01c111f9701647e8":[7,0,2622,48],
-"dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[7,0,2622,125],
-"dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[7,0,2622,115]
+"dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[7,0,2622,125]
 };

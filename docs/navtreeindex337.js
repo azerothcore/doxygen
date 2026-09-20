@@ -1,5 +1,6 @@
 var NAVTREEINDEX337 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,2,15,7,14,5],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cabd8110f8d36f579f159e45afc797b229":[8,0,0,0,1,3,2,15,7,14,6],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[8,0,0,0,1,3,2,15,7,14,7],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,2,15,7,14,3],
@@ -238,16 +239,15 @@ var NAVTREEINDEX337 =
 "dc/dcc/structnpc__shattrath__daily__quest.html":[7,0,2172],
 "dc/dcc/structnpc__shattrath__daily__quest.html#ab6aa71e4738fdce1b59d379249a868d5":[7,0,2172,0],
 "dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[7,0,2172,1],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[7,0,0,4,0,3],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[5,0,0,7,0,3],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[7,0,0,4,0,3],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
 "dc/dcf/classVerasEnvenom.html":[7,0,4663],
 "dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4663,1],
-"dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[7,0,4663,3],
-"dc/dcf/classVerasEnvenom.html#ac8c5f4fcb63ea5141a71b56324de0b1f":[7,0,4663,0]
+"dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[7,0,4663,3]
 };

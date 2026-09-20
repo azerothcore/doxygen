@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"da/d7e/classMapGrid.html#ab4cc593ffc908ac1053aeebaa1b24b9f":[7,0,1534,18],
 "da/d7e/classMapGrid.html#abe1310870b050c893ffa3821e59bcce4":[7,0,1534,15],
 "da/d7e/classMapGrid.html#ac0ac36a4c55b5a1dc7fd9963a63f325b":[7,0,1534,6],
 "da/d7e/classMapGrid.html#addd3c1c8a2093380c305d0d22daeb12a":[7,0,1534,20],
@@ -184,10 +185,10 @@ var NAVTREEINDEX276 =
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
 "da/d83/magtheridons__lair_8h.html":[8,0,0,0,1,3,7,4,2,2],
 "da/d83/magtheridons__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,2,2,0],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[8,0,0,0,1,3,7,4,2,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[7,0,643,5],
 "da/d86/AuraScriptTestFramework_8h.html":[8,0,0,0,2,1,0],
 "da/d86/AuraScriptTestFramework_8h.html#ab8dc66c27ffce0980153941e8e7ab701":[8,0,0,0,2,1,0,4],
-"da/d86/AuraScriptTestFramework_8h.html#ad89bc4ac2d1077d7e73a7e08336ff303":[8,0,0,0,2,1,0,5],
-"da/d86/classspell__toc5__light__rain.html":[7,0,4275]
+"da/d86/AuraScriptTestFramework_8h.html#ad89bc4ac2d1077d7e73a7e08336ff303":[8,0,0,0,2,1,0,5]
 };

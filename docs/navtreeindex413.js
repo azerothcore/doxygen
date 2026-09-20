@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[7,0,522,0,7],
 "df/d6f/namespaceAcore_1_1Module.html":[5,0,0,9],
 "df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,0,9,0],
 "df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,0,9,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/d78/classspell__hate__to__zero.html#a87777dce0e2bf1deba600b3ae7ce6b9c":[7,0,3233,0],
 "df/d78/classspell__hate__to__zero.html#a9fb8d980381264a2ef645f2e620abd21":[7,0,3233,2],
 "df/d78/classspell__hate__to__zero.html#ab61b4076aab18c0a6593c234209a2c1d":[7,0,3233,1],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html":[7,0,774,0],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a1c2fdf4351a43047f02bec1d46423cb8":[7,0,774,0,4]
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html":[7,0,774,0]
 };

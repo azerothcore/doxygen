@@ -1,10 +1,10 @@
 var NAVTREEINDEX24 =
 {
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[7,0,0,50,5],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,0,62,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[7,0,0,50,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[5,0,0,62,3],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,0,62,0],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[7,0,0,50,0],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,0,62,0],
 "d0/dfe/classBattleExperienceEvent.html":[7,0,325],
 "d0/dfe/classBattleExperienceEvent.html#a0155536d5c2be329a1f3b57c4d852098":[7,0,325,2],
 "d0/dfe/classBattleExperienceEvent.html#a22f0d7e59f579362be4576180d0977b8":[7,0,325,3],
@@ -230,8 +230,8 @@ var NAVTREEINDEX24 =
 "d1/d01/structWMOLiquidVert.html#a6c08b6fa33e12a9900218d0d0b8b78d5":[7,0,4713,1],
 "d1/d01/structWMOLiquidVert.html#a7638f586a055c48a46e36471543ff72f":[7,0,4713,0],
 "d1/d02/BattlefieldWG_8cpp.html":[8,0,0,0,1,2,7,0,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,34,17,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[7,0,13,17,1],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,34,17,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[5,0,34,17,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[7,0,13,17,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,34,17,1,2],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662":[7,0,1742,40],
 "df/d5c/classnpc__commandscript.html#a0b63867896d7979cd73016b499d2b0b4":[7,0,1742,3],
 "df/d5c/classnpc__commandscript.html#a0bad5809380706d0569a3c0235f14af2":[7,0,1742,15],
 "df/d5c/classnpc__commandscript.html#a0d2565ece36041bc6c07d1ccdbfdc7fa":[7,0,1742,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[7,0,522,0,10],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaec3668a6ff72ccee46148b2d9b4e3ad":[7,0,522,0,13],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[7,0,522,0,12],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[7,0,522,0,11],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[7,0,522,0,7]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[7,0,522,0,11]
 };

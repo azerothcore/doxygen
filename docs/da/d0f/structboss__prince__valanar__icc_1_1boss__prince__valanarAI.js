@@ -14,6 +14,7 @@ var structboss__prince__valanar__icc_1_1boss__prince__valanarAI =
     [ "JustSummoned", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a3a9bad35893608e8580c0fd64db5bd37", null ],
     [ "KilledUnit", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a3a2d2290213fff1baf8946166fed72ac", null ],
     [ "Reset", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a9208c67592cfdcea597a58184eaf9c2d", null ],
+    [ "ResetPrince", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a946d4b8a1cceae0ee5c2f152eafe48ec", null ],
     [ "SpellHit", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a878db347de46937a10603d8d04d42025", null ],
     [ "UpdateAI", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a485b5124a59447ac4b0b6b0a61ae297f", null ],
     [ "_canDie", "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc02a2d3c722a22a98bbb2ba14ba7b5b", null ],

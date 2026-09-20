@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[7,0,13,6,23],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[5,0,34,6,23,0],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[7,0,13,6,23,0],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[7,0,13,6,23,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dc/d78/classBattlegroundAB.html#a82678df6d68f7d5d762cbca8ab215f13":[7,0,331,14],
 "dc/d78/classBattlegroundAB.html#a8e4540ac02ee30fbf5284ca19807ed0a":[7,0,331,26],
 "dc/d78/classBattlegroundAB.html#a94a57fa4c05fba5ef64b909bc292c798":[7,0,331,7],
-"dc/d78/classBattlegroundAB.html#aa48d02d4e88bb3860945b4de7e413241":[7,0,331,8],
-"dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5":[7,0,331,6]
+"dc/d78/classBattlegroundAB.html#aa48d02d4e88bb3860945b4de7e413241":[7,0,331,8]
 };

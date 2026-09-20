@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[7,0,1395,0,12],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a1d589ed9120bc085be6cb3008ee2e7f9":[7,0,1395,0,10],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a4dde64ab83db8c95305232f681a10fdb":[7,0,1395,0,28],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a4f34dc25f4a9fcd8666fb7f320910dd3":[7,0,1395,0,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[7,0,2120,0,4],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[7,0,2120,0,0],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac7c41ebfa7979907aea246af20bcf368":[7,0,2120,0,5],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2120,0,10],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[7,0,2120,0,6]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2120,0,10]
 };

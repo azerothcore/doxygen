@@ -1,5 +1,6 @@
 var NAVTREEINDEX410 =
 {
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[7,0,13,10,15,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[5,0,34,10,15,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[7,0,13,10,15,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[7,0,13,10,15,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX410 =
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#af2050289be6bc1c47d1ad40fc4bfa313":[7,0,2179,0,0],
 "df/d4e/WaypointDefines_8h.html":[8,0,0,0,1,2,31,2,0],
 "df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863":[8,0,0,0,1,2,31,2,0,2],
-"df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[8,0,0,0,1,2,31,2,0,2,1],
-"df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[8,0,0,0,1,2,31,2,0,2,2]
+"df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[8,0,0,0,1,2,31,2,0,2,1]
 };

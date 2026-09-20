@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#aa50d3a21103dc769d162b1c917100630":[7,0,2007,0,9],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#ad4c671be4f16f23ddf2f2f84b0bd4c94":[7,0,2007,0,6],
 "de/dd5/CommandScript_8h.html":[8,0,0,0,1,2,38,0,38],
 "de/dd5/classMiscScript.html":[7,0,1558],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[8,0,0,0,1,3,5,6,9,49],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,9,37],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a032399a8694d3b2b1da724a5a08794e8":[8,0,0,0,1,3,5,6,9,37,23],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[8,0,0,0,1,3,5,6,9,37,11],
-"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[8,0,0,0,1,3,5,6,9,37,20]
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[8,0,0,0,1,3,5,6,9,37,11]
 };

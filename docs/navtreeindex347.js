@@ -1,5 +1,6 @@
 var NAVTREEINDEX347 =
 {
+"dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2":[5,0,31,32],
 "dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2":[5,0,31,32,1],
 "dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31":[5,0,31,32,2],
 "dd/d34/namespaceVMAP.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38":[5,0,31,32,0],
@@ -54,14 +55,14 @@ var NAVTREEINDEX347 =
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#aa932f572f1a8831ecf4bc5475b7598fb":[8,0,0,0,2,2,0,10,8,1],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ad8c6026ca0167ae177e227997c8e2388":[8,0,0,0,2,2,0,10,8,5],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ae30b40dccd8a24d78d006e8e9ac63f19":[8,0,0,0,2,2,0,10,8,3],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[7,0,0,5,0,31],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,0,8,0,31,0],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,0,8,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,0,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html":[7,0,3243],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acacf8df2d00899bed640c1be0d4287f2":[7,0,3243,3],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acc96d2a38e4da19e6cd6c72037a24202":[7,0,3243,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d3b/structGameObjectTemplate.html#abaa8305304efc7c2b2c4e34e193b7f49":[7,0,1129,116],
 "dd/d3b/structGameObjectTemplate.html#abaca379bf55b3a1d2843b24dc193ddf3":[7,0,1129,52],
 "dd/d3b/structGameObjectTemplate.html#abce6b163842d2c417ec037578cb30bc5":[7,0,1129,37],
-"dd/d3b/structGameObjectTemplate.html#abcf70152170d7b4cf2166eb7fff428c4":[7,0,1129,174],
-"dd/d3b/structGameObjectTemplate.html#abeca02391fbdf614e0ef029afbe2534d":[7,0,1129,40]
+"dd/d3b/structGameObjectTemplate.html#abcf70152170d7b4cf2166eb7fff428c4":[7,0,1129,174]
 };

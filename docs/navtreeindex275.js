@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3184a0f0772b61f55acad5d928537283":[8,0,0,0,1,3,5,6,10,77,16],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47e1867f1bf298627e9bc34658dd44c5":[8,0,0,0,1,3,5,6,10,77,30],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4c9cb7c1dfc01b36910f28006b71d606":[8,0,0,0,1,3,5,6,10,77,5],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a614e8967907ac08fdbeea584db1647e4":[8,0,0,0,1,3,5,6,10,77,12],
@@ -109,10 +110,10 @@ var NAVTREEINDEX275 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4272,1],
 "da/d7b/MapMgr_8h.html":[8,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,29,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,29,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[8,0,0,0,1,3,2,11,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[8,0,0,0,1,3,2,11,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[8,0,0,0,1,3,2,11,4,18,40],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "da/d7e/classMapGrid.html#aa7f59d7fc8495edd56e249db74eff51e":[7,0,1534,9],
 "da/d7e/classMapGrid.html#aac6ec5cd9e82da228cb04371dec1872e":[7,0,1534,25],
 "da/d7e/classMapGrid.html#ab06fea0242fc3c684fb5cd27ae7f7621":[7,0,1534,22],
-"da/d7e/classMapGrid.html#ab22e3c6e9432cd589cb6665169036ba8":[7,0,1534,13],
-"da/d7e/classMapGrid.html#ab4cc593ffc908ac1053aeebaa1b24b9f":[7,0,1534,18]
+"da/d7e/classMapGrid.html#ab22e3c6e9432cd589cb6665169036ba8":[7,0,1534,13]
 };

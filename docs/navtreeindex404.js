@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[8,0,0,0,1,3,2,1,1,0,7,8],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[8,0,0,0,1,3,2,1,1,0,7,5],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7a779e1a0e8de1430067af278fc96af2":[8,0,0,0,1,3,2,1,1,0,7,2],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7bea8e90477623f05c541bdd342245e7":[8,0,0,0,1,3,2,1,1,0,7,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/d17/classGameObjectModelOwnerBase.html#ae3eddc6c841c3644f50cb3300f80cee2":[7,0,1124,2],
 "df/d17/group__world.html":[4,2],
 "df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7":[4,2,12],
-"df/d17/group__world.html#ga06d1e4f345fc9b7a45e5b1b9f1919efc":[4,2,16],
-"df/d17/group__world.html#ga07ff1c03b6fb225388d418496c18d3be":[4,2,34]
+"df/d17/group__world.html#ga06d1e4f345fc9b7a45e5b1b9f1919efc":[4,2,16]
 };

@@ -2,7 +2,7 @@ var structboss__terestian__illhoof =
 [
     [ "boss_terestian_illhoof", "db/df1/structboss__terestian__illhoof.html#a5750bf4f12ac01216335a926f885e136", null ],
     [ "JustDied", "db/df1/structboss__terestian__illhoof.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "db/df1/structboss__terestian__illhoof.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustEngagedWith", "db/df1/structboss__terestian__illhoof.html#a1c48b03152be7188e471399fad8979d7", null ],
     [ "JustSummoned", "db/df1/structboss__terestian__illhoof.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
     [ "KilledUnit", "db/df1/structboss__terestian__illhoof.html#ab7de8b406de200eec981fab79a56dcd7", null ],
     [ "Reset", "db/df1/structboss__terestian__illhoof.html#a685b00f0e3317740412adfc48df1c3fb", null ],

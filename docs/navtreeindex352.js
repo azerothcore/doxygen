@@ -1,5 +1,6 @@
 var NAVTREEINDEX352 =
 {
+"dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22aa7b4fd09965de1c2b2fe9d192aaf4edc":[8,0,0,0,1,3,3,2,16,15],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22ab407734a47614dcb58bc1afe162b1aec":[8,0,0,0,1,3,3,2,16,26],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22ac3f38579268ba48d691f02fb56f4b616":[8,0,0,0,1,3,3,2,16,2],
 "dd/d7d/childrens__week_8cpp.html#a2f2591166460d6d958c50f3317939e22ad8fa72fa3e7331eb5a8963bc50e02c7c":[8,0,0,0,1,3,3,2,16,14],
@@ -90,16 +91,16 @@ var NAVTREEINDEX352 =
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#a8a72bd229fb92e389ec311142ca2a139":[5,0,0,52,9],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#a95fa5b0dac0017e43bc5683fb040836d":[5,0,0,52,3],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#a95fa5b0dac0017e43bc5683fb040836d":[7,0,0,40,3],
-"dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aa25ef6456bed8f4e599a48c7c1448363":[5,0,0,52,2],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aa25ef6456bed8f4e599a48c7c1448363":[7,0,0,40,2],
+"dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aa25ef6456bed8f4e599a48c7c1448363":[5,0,0,52,2],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ab19bfdfea57f6de2bbef93aff14481ec":[5,0,0,52,4],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ab19bfdfea57f6de2bbef93aff14481ec":[7,0,0,40,4],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ab8414d5a971d77718de7f610bb000443":[5,0,0,52,6],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ab8414d5a971d77718de7f610bb000443":[7,0,0,40,6],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#abee1c6def8872acea5f34f0ae22aa467":[5,0,0,52,11],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#abee1c6def8872acea5f34f0ae22aa467":[7,0,0,40,11],
-"dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ae804b558c6912a00405070e170572407":[7,0,0,40,10],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ae804b558c6912a00405070e170572407":[5,0,0,52,10],
+"dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#ae804b558c6912a00405070e170572407":[7,0,0,40,10],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aeb2086c6034a734b92b3cb8d0382a293":[5,0,0,52,0],
 "dd/d7d/classAcore_1_1CheckedBufferOutputIterator.html#aeb2086c6034a734b92b3cb8d0382a293":[7,0,0,40,0],
 "dd/d7e/classspell__putricide__unstable__experiment.html":[7,0,3890],
@@ -248,6 +249,5 @@ var NAVTREEINDEX352 =
 "dd/d86/structboss__hadronox.html#ab58a7949dd4797849cf98152e541b9a9":[7,0,533,10],
 "dd/d86/structboss__hadronox.html#aef361a41c7a3db94c00b594dd82ffabd":[7,0,533,12],
 "dd/d87/classnpc__wg__quest__giver.html":[7,0,2327],
-"dd/d87/classnpc__wg__quest__giver.html#a68589ab4ce9f43247154f3c66d8107b8":[7,0,2327,0],
-"dd/d87/classnpc__wg__quest__giver.html#a9d42e558d68eee9f0f96ac1f8cd1a409":[7,0,2327,3]
+"dd/d87/classnpc__wg__quest__giver.html#a68589ab4ce9f43247154f3c66d8107b8":[7,0,2327,0]
 };

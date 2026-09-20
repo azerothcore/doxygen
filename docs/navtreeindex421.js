@@ -1,5 +1,6 @@
 var NAVTREEINDEX421 =
 {
+"df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[7,0,3832,0],
 "df/dc1/classspell__pri__body__and__soul.html#af7d9ac7e014bbda32275bb584f5e2660":[7,0,3832,3],
 "df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[7,0,3832,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html":[7,0,763,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX421 =
 "df/dd4/structBattlegroundScore.html#a6c8707bff5cba6cec40bd4fed4ac1f60":[7,0,355,10],
 "df/dd4/structBattlegroundScore.html#a769f81da2366d081d526aafec54da5e7":[7,0,355,0],
 "df/dd4/structBattlegroundScore.html#a7e92af662817ddaac630db378e941ebb":[7,0,355,13],
-"df/dd4/structBattlegroundScore.html#a8624cd06dba95d86e60f62675baf044c":[7,0,355,2],
-"df/dd4/structBattlegroundScore.html#a96b8bb236b9e997ecc4e6fed72a8bf00":[7,0,355,11]
+"df/dd4/structBattlegroundScore.html#a8624cd06dba95d86e60f62675baf044c":[7,0,355,2]
 };

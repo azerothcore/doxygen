@@ -1,5 +1,6 @@
 var NAVTREEINDEX420 =
 {
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[7,0,1760,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[7,0,1760,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[7,0,1760,0,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,34,10,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX420 =
 "df/dc1/classspell__pri__body__and__soul.html":[7,0,3832],
 "df/dc1/classspell__pri__body__and__soul.html#a0113a45bd4c28d1769df7b675de697ed":[7,0,3832,2],
 "df/dc1/classspell__pri__body__and__soul.html#a63844728796945e892985720296d0c07":[7,0,3832,5],
-"df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[7,0,3832,4],
-"df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[7,0,3832,0]
+"df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[7,0,3832,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2":[8,0,0,0,1,3,7,12,12,2],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800aca2132a9fb3f52ef6b935470b5f0712b":[8,0,0,0,1,3,7,12,12,6],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800adb84ff3325e5e417b4181ca493f156f7":[8,0,0,0,1,3,7,12,12,5],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffa":[8,0,0,0,1,3,7,12,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "dd/dd6/classnpc__aeranas.html":[7,0,1623],
 "dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[7,0,1623,1],
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[7,0,1623,2],
-"dd/dd6/structboss__falric.html":[7,0,475],
-"dd/dd6/structboss__falric.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a":[7,0,475,7]
+"dd/dd6/structboss__falric.html":[7,0,475]
 };

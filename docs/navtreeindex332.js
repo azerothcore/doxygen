@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5":[7,0,331,6],
 "dc/d78/classBattlegroundAB.html#ab9eaaca1dc857575752639f423e2a6bd":[7,0,331,17],
 "dc/d78/classBattlegroundAB.html#abfc070463f0c2d35152551b24f156dd8":[7,0,331,31],
 "dc/d78/classBattlegroundAB.html#acb2e6aa203a1587d0ac3bc9b3723e115":[7,0,331,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1":[8,0,0,0,1,2,16,5,0,1,1,7],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd":[8,0,0,0,1,2,16,5,0,1,1,3],
 "dc/d86/structPacketHeader_1_1OptionalData.html":[7,0,2413,0],
-"dc/d86/structPacketHeader_1_1OptionalData.html#a6e6fb49cad093530f6ba650ca2ff57af":[7,0,2413,0,1],
-"dc/d86/structPacketHeader_1_1OptionalData.html#aa10551a3c7371bafa9b27919e37b16ff":[7,0,2413,0,0]
+"dc/d86/structPacketHeader_1_1OptionalData.html#a6e6fb49cad093530f6ba650ca2ff57af":[7,0,2413,0,1]
 };

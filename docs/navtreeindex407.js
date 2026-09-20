@@ -1,5 +1,6 @@
 var NAVTREEINDEX407 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6989ac7439957bfcc2888cf130648b3a":[8,0,0,0,1,2,16,5,0,4,6,156],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6a312f5578b89833bcfac93ba4cd6281":[8,0,0,0,1,2,16,5,0,4,6,93],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b03ad8147a368bbf29c0b92b12b0679":[8,0,0,0,1,2,16,5,0,4,6,32],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b4c3379fbf86b796b86c3771f6c1f15":[8,0,0,0,1,2,16,5,0,4,6,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX407 =
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3549,0],
 "df/d22/classnpc__gunship__rocketeer.html":[7,0,1882],
 "df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[7,0,1882,2],
-"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1882,1],
-"df/d23/classspell__black__temple__spell__absorption__aura.html":[7,0,2718]
+"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1882,1]
 };

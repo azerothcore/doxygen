@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"dd/dd6/structboss__falric.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a":[7,0,475,7],
 "dd/dd6/structboss__falric.html#a099280eb7f2b40df3fbecfa9fe35fac4":[7,0,475,9],
 "dd/dd6/structboss__falric.html#a4ade4a16095031988e2ae50602cd0da8":[7,0,475,3],
 "dd/dd6/structboss__falric.html#a68c6b3012bbb1e7542c9b4db2f596463":[7,0,475,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "dd/de7/classspell__sha__t3__6p__bonus.html#ae1ac0e47e529c729f04fb2e37ae4c1f9":[7,0,4138,1],
 "dd/de7/classspell__sha__t3__6p__bonus.html#affb8d0a167e6f1bef1aaabd5eb99fe38":[7,0,4138,2],
 "dd/de8/classSpellProcCooldownTest.html":[7,0,4498],
-"dd/de8/classSpellProcCooldownTest.html#a1209729d4d037c8bb63d685fa9bdd07a":[7,0,4498,1],
-"dd/de8/classSpellProcCooldownTest.html#a502fcdf3eb4a377df1616262ca7b8d01":[7,0,4498,0]
+"dd/de8/classSpellProcCooldownTest.html#a1209729d4d037c8bb63d685fa9bdd07a":[7,0,4498,1]
 };

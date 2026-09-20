@@ -1,8 +1,8 @@
 var NAVTREEINDEX188 =
 {
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[7,0,991,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,991,3,10],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,991,3,9],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,991,3,10],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[7,0,991,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[7,0,991,3,16],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html":[7,0,2006,0],
@@ -166,10 +166,10 @@ var NAVTREEINDEX188 =
 "d6/d9c/zone__bloodmyst__isle_8cpp.html#aa14073eff8de36ab4c416f5ae7bd8cd0ab537460526db8a8c87c52ee41e0e20c4":[8,0,0,0,1,3,4,16,2,2],
 "d6/d9c/zone__bloodmyst__isle_8cpp.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3":[8,0,0,0,1,3,4,16,2,3],
 "d6/d9d/EventMap_8cpp.html":[8,0,0,0,0,15,10],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[7,0,13,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
