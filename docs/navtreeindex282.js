@@ -1,13 +1,10 @@
 var NAVTREEINDEX282 =
 {
-"da/dbe/classPointMovementGenerator.html#ab2aa66a088a7bcf06c2b4fe6b5acf824":[7,0,2467,18],
-"da/dbe/classPointMovementGenerator.html#ae391133673b9907bc73966479bc71e95":[7,0,2467,16],
-"da/dbe/classPointMovementGenerator.html#ae5ccfacff01eae1ac14009ced2eb3fc0":[7,0,2467,24],
-"da/dbe/classPointMovementGenerator.html#af1f16559c7683a4f6841c597d81ac310":[7,0,2467,1],
-"da/dbe/classPointMovementGenerator.html#af49ef70c422e7acbeb5cb6a55130ab61":[7,0,2467,5],
-"da/dbe/classPointMovementGenerator.html#af728b5d511fde310fcc249ef26b59267":[7,0,2467,22],
-"da/dbe/classPointMovementGenerator.html#af9838148fecfdb51a017c12f808fb563":[7,0,2467,17],
-"da/dbe/classPointMovementGenerator.html#af9e5b0c6f330f1a8e6382556d4c719f0":[7,0,2467,2],
+"da/dbe/classPointMovementGenerator.html#af1f16559c7683a4f6841c597d81ac310":[7,0,2466,1],
+"da/dbe/classPointMovementGenerator.html#af49ef70c422e7acbeb5cb6a55130ab61":[7,0,2466,5],
+"da/dbe/classPointMovementGenerator.html#af728b5d511fde310fcc249ef26b59267":[7,0,2466,22],
+"da/dbe/classPointMovementGenerator.html#af9838148fecfdb51a017c12f808fb563":[7,0,2466,17],
+"da/dbe/classPointMovementGenerator.html#af9e5b0c6f330f1a8e6382556d4c719f0":[7,0,2466,2],
 "da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html":[5,0,0,8,0,25],
 "da/dbe/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple.html":[7,0,0,5,0,25],
 "da/dbe/structAcore_1_1UnitListSearcher.html":[5,0,0,126],
@@ -249,5 +246,8 @@ var NAVTREEINDEX282 =
 "da/dbf/Player_8h.html#a732fdd0c458850a5f5358b561f98bd86":[8,0,0,0,1,2,16,7,5,63],
 "da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0":[8,0,0,0,1,2,16,7,5,128],
 "da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0a22f1eb514a3b39d4d56ab6674462a108":[8,0,0,0,1,2,16,7,5,128,4],
-"da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0a6bfe592fb6b291a4b36a368622993c41":[8,0,0,0,1,2,16,7,5,128,0]
+"da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0a6bfe592fb6b291a4b36a368622993c41":[8,0,0,0,1,2,16,7,5,128,0],
+"da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0a91bcc18424dfcded1b00779f5d1a7549":[8,0,0,0,1,2,16,7,5,128,1],
+"da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0ac32f530381d1dffef4d64471ab064f24":[8,0,0,0,1,2,16,7,5,128,3],
+"da/dbf/Player_8h.html#a75f8edcec885477d69dc4642bc33d0c0ae42fb772378eda3f5bb08dcd53e4b36c":[8,0,0,0,1,2,16,7,5,128,2]
 };

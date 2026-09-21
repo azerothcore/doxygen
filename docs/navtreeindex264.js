@@ -1,8 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a9462c2609a755b6c1d2343f83b2a896a":[8,0,0,0,1,2,49,4,1,399],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a953b875c3c59a399fc0255787ed00d92":[8,0,0,0,1,2,49,4,1,469],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a95d9ea4ed5d3beb2efffda545e0df9f7":[8,0,0,0,1,2,49,4,1,120],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a95ec5050ddcf7bc1bc50a245d818f24e":[8,0,0,0,1,2,49,4,1,397],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a96cb2db8caf36a95983799ccb3f7b130":[8,0,0,0,1,2,49,4,1,409],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a970001cce0f8ebb6407f11f5ccd1d806":[8,0,0,0,1,2,49,4,1,95],
@@ -239,15 +236,18 @@ var NAVTREEINDEX264 =
 "da/d03/classAsyncTask.html#ad6f8ee54d3e1b0736e34362cd30f1365":[7,0,216,2],
 "da/d03/classAsyncTask.html#aecfe1b8d9ab2be59f564939dde44cfb9":[7,0,216,5],
 "da/d03/classAsyncTask.html#af4b96cd278382c34dbaaa3782df8371b":[7,0,216,9],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[7,0,3690],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[7,0,3690,2],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[7,0,3690,1],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[7,0,3690,0],
-"da/d04/classspell__item__the__eye__of__diminution.html":[7,0,3515],
-"da/d04/classspell__item__the__eye__of__diminution.html#a37e277143b2ae6cd88260776941b59bf":[7,0,3515,2],
-"da/d04/classspell__item__the__eye__of__diminution.html#a5e7d089dd117b6b3a605ea2e8aea0b04":[7,0,3515,1],
-"da/d04/classspell__item__the__eye__of__diminution.html#a6faee23ed5947a904e58bfb38cf01d05":[7,0,3515,0],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[7,0,3689],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[7,0,3689,2],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[7,0,3689,1],
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[7,0,3689,0],
+"da/d04/classspell__item__the__eye__of__diminution.html":[7,0,3514],
+"da/d04/classspell__item__the__eye__of__diminution.html#a37e277143b2ae6cd88260776941b59bf":[7,0,3514,2],
+"da/d04/classspell__item__the__eye__of__diminution.html#a5e7d089dd117b6b3a605ea2e8aea0b04":[7,0,3514,1],
+"da/d04/classspell__item__the__eye__of__diminution.html#a6faee23ed5947a904e58bfb38cf01d05":[7,0,3514,0],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html":[7,0,1815,0],
 "da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a1d192d0dd563dc2735b23a171b2bf659":[7,0,1815,0,2],
-"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a2d56572acf042ba34f468f0ff3b0bd1a":[7,0,1815,0,3]
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a2d56572acf042ba34f468f0ff3b0bd1a":[7,0,1815,0,3],
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#a9322622f679dbc311bd8983f5037bd2e":[7,0,1815,0,1],
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#aa487c906c1c0d15dc7761c7288e7d3c6":[7,0,1815,0,0],
+"da/d06/structnpc__enraged__spirit_1_1npc__enraged__spiritAI.html#adc3d04d66f2b4de7a970f2cd5e476a2b":[7,0,1815,0,4]
 };

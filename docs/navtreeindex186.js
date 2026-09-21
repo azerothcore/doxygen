@@ -1,8 +1,5 @@
 var NAVTREEINDEX186 =
 {
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a0bbc010ef1709048bb59ea68933e86ab":[8,0,0,0,1,3,5,7,16,3,34],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a16a8c4ee9604e0c0d383dd0872184807":[8,0,0,0,1,3,5,7,16,3,51],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a18f4c86ba400892599f6d933ed0ff7be":[8,0,0,0,1,3,5,7,16,3,48],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a1974da3c84583512436efbedf45456b5":[8,0,0,0,1,3,5,7,16,3,10],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a1b7fa61b279f6106f947fd297bf47fe5":[8,0,0,0,1,3,5,7,16,3,9],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a2250a9c5099e4cc1be07364cdb70a71a":[8,0,0,0,1,3,5,7,16,3,35],
@@ -226,8 +223,8 @@ var NAVTREEINDEX186 =
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[7,0,574,3],
 "d6/d85/classVMAP_1_1VMapFactory.html":[7,0,11,20],
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,31,20],
-"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,31,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[7,0,11,20,0],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,31,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[5,0,31,20,1],
 "d6/d85/classlookup__commandscript.html":[7,0,1493],
@@ -249,5 +246,8 @@ var NAVTREEINDEX186 =
 "d6/d85/classlookup__commandscript.html#aa30508ee184862074c5fe62c0c7ffe32":[7,0,1493,19],
 "d6/d85/classlookup__commandscript.html#aaedbcd15d635cb78796ce291e0a02bdf":[7,0,1493,16],
 "d6/d85/classlookup__commandscript.html#ae5d3d29fc6c1b0c1bec154afe869074e":[7,0,1493,15],
-"d6/d85/classlookup__commandscript.html#af5534b376e0dfb77077dc1a4aec8e9a7":[7,0,1493,3]
+"d6/d85/classlookup__commandscript.html#af5534b376e0dfb77077dc1a4aec8e9a7":[7,0,1493,3],
+"d6/d85/classlookup__commandscript.html#afa4675def99dd1e40e5421d70f77e2be":[7,0,1493,10],
+"d6/d85/classlookup__commandscript.html#afb1833fb396c6f811fa24020f22460d4":[7,0,1493,1],
+"d6/d85/classspell__brewfest__unfill__keg.html":[7,0,2754]
 };

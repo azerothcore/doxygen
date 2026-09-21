@@ -1,8 +1,5 @@
 var NAVTREEINDEX304 =
 {
-"db/d95/eye__of__eternity_8h.html#ae13721540dc0ce9423633d9b5fbdeef2":[8,0,0,0,1,3,5,8,0,1,17],
-"db/d95/eye__of__eternity_8h.html#ae66e95c14537a74ebd7d32542aa359ca":[8,0,0,0,1,3,5,8,0,1,15],
-"db/d95/eye__of__eternity_8h.html#aebb24d76e19a3b6a6d7ae1bfd9e26cb7":[8,0,0,0,1,3,5,8,0,1,5],
 "db/d95/eye__of__eternity_8h.html#aebb24d76e19a3b6a6d7ae1bfd9e26cb7a0cfe965094cb6dc81dcd3dccb705fdc9":[8,0,0,0,1,3,5,8,0,1,5,0],
 "db/d95/eye__of__eternity_8h.html#aebb24d76e19a3b6a6d7ae1bfd9e26cb7a7d3bf92600d8abda852576de19108bef":[8,0,0,0,1,3,5,8,0,1,5,3],
 "db/d95/eye__of__eternity_8h.html#aebb24d76e19a3b6a6d7ae1bfd9e26cb7a95cd53e27639aff7a462f9a30b0185bd":[8,0,0,0,1,3,5,8,0,1,5,2],
@@ -92,10 +89,10 @@ var NAVTREEINDEX304 =
 "db/d99/structnpc__malchezaar__axe.html#a1a5615f2def10add30e7917b770ebc74":[7,0,2004,0],
 "db/d99/structnpc__malchezaar__axe.html#a202ba6922a426f87909eefbccd070175":[7,0,2004,3],
 "db/d99/structnpc__malchezaar__axe.html#a4a9f90e66359b304622d4f79653f9fd0":[7,0,2004,2],
-"db/d9a/classspell__freya__unstable__sun__beam.html":[7,0,3003],
-"db/d9a/classspell__freya__unstable__sun__beam.html#a1038ca2384a31671dab1d72e1232cfe1":[7,0,3003,2],
-"db/d9a/classspell__freya__unstable__sun__beam.html#a96f279fbc08f23f0b7e7f807dc0ddd7a":[7,0,3003,1],
-"db/d9a/classspell__freya__unstable__sun__beam.html#a977f0687005cdbd585be0704e5ce20d8":[7,0,3003,0],
+"db/d9a/classspell__freya__unstable__sun__beam.html":[7,0,3002],
+"db/d9a/classspell__freya__unstable__sun__beam.html#a1038ca2384a31671dab1d72e1232cfe1":[7,0,3002,2],
+"db/d9a/classspell__freya__unstable__sun__beam.html#a96f279fbc08f23f0b7e7f807dc0ddd7a":[7,0,3002,1],
+"db/d9a/classspell__freya__unstable__sun__beam.html#a977f0687005cdbd585be0704e5ce20d8":[7,0,3002,0],
 "db/d9c/WorldGlobals_8h.html":[8,0,0,0,1,2,18,5],
 "db/d9c/WorldGlobals_8h.html#abde160907db136b0b0c16309add3ae94":[8,0,0,0,1,2,18,5,2],
 "db/d9c/classgo__wind__stone.html":[7,0,1243],
@@ -249,5 +246,8 @@ var NAVTREEINDEX304 =
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac4493474709553948ff708a0ab8de06f":[5,0,21,7,0,27],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac5a23746207a86ea9d433b3b22b97952":[5,0,21,7,0,2],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac5a23746207a86ea9d433b3b22b97952":[7,0,7,7,0,2],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac7be8873500e6257d241f9d867db0ccb":[5,0,21,7,0,9]
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac7be8873500e6257d241f9d867db0ccb":[5,0,21,7,0,9],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac7be8873500e6257d241f9d867db0ccb":[7,0,7,7,0,9],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cad547bba0033d0763fda8be974bf3e61e":[5,0,21,7,0,25],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cad547bba0033d0763fda8be974bf3e61e":[7,0,7,7,0,25]
 };

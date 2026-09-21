@@ -1,8 +1,5 @@
 var NAVTREEINDEX339 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5572660f4524aea5809df726c465d3f1":[8,0,0,0,1,3,2,16,88],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[8,0,0,0,1,3,2,16,31],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57604b634eb000dd3a77ed767652d105":[8,0,0,0,1,3,2,16,93],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a57729392acbf8df56faae2a7865f65b4":[8,0,0,0,1,3,2,16,119],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5c92c13d577422c37a1de0e3b5b4a020":[8,0,0,0,1,3,2,16,113],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a5ccf6dda552246620e7ef4626abaa82b":[8,0,0,0,1,3,2,16,28],
@@ -94,11 +91,11 @@ var NAVTREEINDEX339 =
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[8,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[8,0,0,0,1,3,3,0,10,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78":[8,0,0,0,1,3,3,0,10,2],
-"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,4030],
-"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,4030,2],
-"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,4030,3],
-"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,4030,1],
-"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,4030,0],
+"dc/ddd/classspell__rimefang__icy__blast.html":[7,0,4029],
+"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[7,0,4029,2],
+"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[7,0,4029,3],
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[7,0,4029,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[7,0,4029,0],
 "dc/dde/QuestPackets_8h.html":[8,0,0,0,1,2,39,0,32],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[8,0,0,0,1,3,7,0,0,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[8,0,0,0,1,3,7,0,0,2,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX339 =
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea4c699153018141923bc67370ea550fc2":[8,0,0,0,1,3,3,1,44,5],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea5bc3bbf967481311be4408e109d3984a":[8,0,0,0,1,3,3,1,44,7],
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea705362846c84af3c7965bdb23caffe14":[8,0,0,0,1,3,3,1,44,2],
-"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea7832ee7e0c769012c8b8736099b6b227":[8,0,0,0,1,3,3,1,44,6]
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea7832ee7e0c769012c8b8736099b6b227":[8,0,0,0,1,3,3,1,44,6],
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea812240450bf07c5c29c219d953665fa5":[8,0,0,0,1,3,3,1,44,8],
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea82564c43d592033e9e8bfc6181450928":[8,0,0,0,1,3,3,1,44,0],
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8eadddc942268210bdb243ecdb59e76fb74":[8,0,0,0,1,3,3,1,44,3]
 };

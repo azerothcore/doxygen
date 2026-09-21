@@ -1,8 +1,5 @@
 var NAVTREEINDEX407 =
 {
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6989ac7439957bfcc2888cf130648b3a":[8,0,0,0,1,2,16,5,0,4,6,156],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6a312f5578b89833bcfac93ba4cd6281":[8,0,0,0,1,2,16,5,0,4,6,93],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b03ad8147a368bbf29c0b92b12b0679":[8,0,0,0,1,2,16,5,0,4,6,32],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b4c3379fbf86b796b86c3771f6c1f15":[8,0,0,0,1,2,16,5,0,4,6,33],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b7e5537e6e872969b970851dfb9767d":[8,0,0,0,1,2,16,5,0,4,6,217],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6d4a274cf53b00cfcea24a3479588031":[8,0,0,0,1,2,16,5,0,4,6,40],
@@ -241,13 +238,16 @@ var NAVTREEINDEX407 =
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66":[8,0,0,0,1,2,16,5,0,4,3,2],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf":[8,0,0,0,1,2,16,5,0,4,3,7],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[8,0,0,0,1,2,16,5,0,4,3,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3549],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[7,0,3549,2],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[7,0,3549,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3549,3],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[7,0,3549,4],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3549,0],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3548],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[7,0,3548,2],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[7,0,3548,1],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3548,3],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[7,0,3548,4],
+"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3548,0],
 "df/d22/classnpc__gunship__rocketeer.html":[7,0,1882],
 "df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[7,0,1882,2],
-"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1882,1]
+"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1882,1],
+"df/d23/classspell__black__temple__spell__absorption__aura.html":[7,0,2717],
+"df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[7,0,2717,2],
+"df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[7,0,2717,0]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"de/d1c/classGameObject.html#a27c07f578dbb723ccc0a0985bb77e29a":[7,0,1114,65],
-"de/d1c/classGameObject.html#a289833acf259f1eb262ab9be701a3e86":[7,0,1114,169],
-"de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead":[7,0,1114,49],
 "de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[7,0,1114,61],
 "de/d1c/classGameObject.html#a2afa3260c75f1241110a9abcead5aefa":[7,0,1114,75],
 "de/d1c/classGameObject.html#a2b9359375ec398ba32d5611901536f20":[7,0,1114,36],
@@ -166,13 +163,13 @@ var NAVTREEINDEX380 =
 "de/d1c/classGameObject.html#aff6309b0741d1236cefa86abe6c442b0":[7,0,1114,174],
 "de/d1c/namespacepitKillBoundary.html":[5,0,25],
 "de/d1c/namespacepitKillBoundary.html#ae137fb738d524b299f3c238c8e1e464a":[5,0,25,0],
-"de/d1d/structnpc__phalanx.html":[7,0,2089],
-"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2089,0],
-"de/d1d/structnpc__phalanx.html#a3b0c33207bf5090abeb9860585c222b4":[7,0,2089,5],
-"de/d1d/structnpc__phalanx.html#a54ad76cd7e8d3be058ad3d5153e5b144":[7,0,2089,3],
-"de/d1d/structnpc__phalanx.html#a9297d5fb869eb9a65ef9143a56347a53":[7,0,2089,1],
-"de/d1d/structnpc__phalanx.html#aad01cc9d5ac167c21547e8b0b2bda4a7":[7,0,2089,2],
-"de/d1d/structnpc__phalanx.html#ad59e6e32b53dbf797bc62e116ae2a12d":[7,0,2089,4],
+"de/d1d/structnpc__phalanx.html":[7,0,2088],
+"de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a":[7,0,2088,0],
+"de/d1d/structnpc__phalanx.html#a3b0c33207bf5090abeb9860585c222b4":[7,0,2088,5],
+"de/d1d/structnpc__phalanx.html#a54ad76cd7e8d3be058ad3d5153e5b144":[7,0,2088,3],
+"de/d1d/structnpc__phalanx.html#a9297d5fb869eb9a65ef9143a56347a53":[7,0,2088,1],
+"de/d1d/structnpc__phalanx.html#aad01cc9d5ac167c21547e8b0b2bda4a7":[7,0,2088,2],
+"de/d1d/structnpc__phalanx.html#ad59e6e32b53dbf797bc62e116ae2a12d":[7,0,2088,4],
 "de/d1e/WardenWin_8cpp.html":[8,0,0,0,1,2,47,10],
 "de/d1e/WardenWin_8cpp.html#a259abc7d98e16cefc14404b5886cbc09":[8,0,0,0,1,2,47,10,5],
 "de/d1e/WardenWin_8cpp.html#a5506a4e4233b2c380f79ad1225c4dc93":[8,0,0,0,1,2,47,10,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX380 =
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366":[8,0,0,0,1,3,9,7,39,8],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690":[8,0,0,0,1,3,9,7,39,22],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0":[8,0,0,0,1,3,9,7,39,20],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d":[8,0,0,0,1,3,9,7,39,10]
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d":[8,0,0,0,1,3,9,7,39,10],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099":[8,0,0,0,1,3,9,7,39,9],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2":[8,0,0,0,1,3,9,7,39,7],
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5":[8,0,0,0,1,3,9,7,39,2]
 };

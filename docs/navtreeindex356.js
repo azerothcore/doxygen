@@ -1,8 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,8,1,0,5],
-"dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,8,1,0,5,1],
-"dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a168d82eedd177f391f05f6f95a3f0df3":[8,0,0,0,1,3,5,8,1,0,5,4],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,8,1,0,5,0],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a830fe4e2ec5af7a92b2ff25ad20ff5d7":[8,0,0,0,1,3,5,8,1,0,5,3],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abffc3fc1240455feed5cef007b9fb76b":[8,0,0,0,1,3,5,8,1,0,5,2],
@@ -52,14 +49,14 @@ var NAVTREEINDEX356 =
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74":[8,0,0,0,1,3,5,9,1,2,8,2],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848":[8,0,0,0,1,3,5,9,1,2,8,3],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[8,0,0,0,1,3,5,9,1,2,8,1],
-"dd/dac/classspell__black__knight__ghoul__explode.html":[7,0,2706],
-"dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[7,0,2706,0],
-"dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[7,0,2706,1],
-"dd/dac/classspell__black__knight__ghoul__explode.html#a9322b834fadc89b4fbc19dbbc762f205":[7,0,2706,2],
-"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4310],
-"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4310,1],
-"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4310,0],
-"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4310,2],
+"dd/dac/classspell__black__knight__ghoul__explode.html":[7,0,2705],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[7,0,2705,0],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[7,0,2705,1],
+"dd/dac/classspell__black__knight__ghoul__explode.html#a9322b834fadc89b4fbc19dbbc762f205":[7,0,2705,2],
+"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4309],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4309,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4309,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4309,2],
 "dd/dac/pit__of__saron_8h.html":[8,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[8,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,2,5,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX356 =
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[8,0,0,0,1,3,5,12,1,2,4],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[8,0,0,0,1,3,5,12,1,2,6],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a75b13fc62a4d1499ac5db4508a22b31c":[8,0,0,0,1,3,5,12,1,2,3],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[8,0,0,0,1,3,5,12,1,2,5]
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[8,0,0,0,1,3,5,12,1,2,5],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af7367c4fd2983cfdf945a7c40dae1fe0":[8,0,0,0,1,3,5,12,1,2,1],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,1,6],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,12,1,6,2]
 };

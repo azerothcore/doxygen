@@ -1,8 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2":[8,0,0,0,1,3,7,12,12,2],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800aca2132a9fb3f52ef6b935470b5f0712b":[8,0,0,0,1,3,7,12,12,6],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800adb84ff3325e5e417b4181ca493f156f7":[8,0,0,0,1,3,7,12,12,5],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffa":[8,0,0,0,1,3,7,12,13],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab":[8,0,0,0,1,3,7,12,13,11],
 "dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647":[8,0,0,0,1,3,7,12,13,0],
@@ -103,11 +100,11 @@ var NAVTREEINDEX361 =
 "dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[7,0,635,1],
 "dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[7,0,635,10],
 "dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[7,0,635,5],
-"dd/dd5/classspell__dk__scent__of__blood.html":[7,0,2867],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[7,0,2867,3],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[7,0,2867,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[7,0,2867,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[7,0,2867,1],
+"dd/dd5/classspell__dk__scent__of__blood.html":[7,0,2866],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[7,0,2866,3],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[7,0,2866,0],
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[7,0,2866,2],
+"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[7,0,2866,1],
 "dd/dd6/boss__halion_8cpp.html":[8,0,0,0,1,3,5,1,1,2],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,1,1,2,31],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[8,0,0,0,1,3,5,1,1,2,31,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX361 =
 "dd/dd6/classnpc__aeranas.html":[7,0,1623],
 "dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[7,0,1623,1],
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[7,0,1623,2],
-"dd/dd6/structboss__falric.html":[7,0,475]
+"dd/dd6/structboss__falric.html":[7,0,475],
+"dd/dd6/structboss__falric.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a":[7,0,475,7],
+"dd/dd6/structboss__falric.html#a099280eb7f2b40df3fbecfa9fe35fac4":[7,0,475,9],
+"dd/dd6/structboss__falric.html#a4ade4a16095031988e2ae50602cd0da8":[7,0,475,3]
 };
