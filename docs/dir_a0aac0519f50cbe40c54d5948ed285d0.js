@@ -80,6 +80,8 @@ var dir_a0aac0519f50cbe40c54d5948ed285d0 =
     [ "PlayerScript.h", "dd/dcb/PlayerScript_8h.html", "dd/dcb/PlayerScript_8h" ],
     [ "ServerScript.cpp", "de/d80/ServerScript_8cpp.html", "de/d80/ServerScript_8cpp" ],
     [ "ServerScript.h", "d8/d16/ServerScript_8h.html", "d8/d16/ServerScript_8h" ],
+    [ "SessionScript.cpp", "d4/d05/SessionScript_8cpp.html", "d4/d05/SessionScript_8cpp" ],
+    [ "SessionScript.h", "d3/db9/SessionScript_8h.html", "d3/db9/SessionScript_8h" ],
     [ "SpellScriptLoader.cpp", "d7/d49/SpellScriptLoader_8cpp.html", "d7/d49/SpellScriptLoader_8cpp" ],
     [ "SpellScriptLoader.h", "d1/d2d/SpellScriptLoader_8h.html", "d1/d2d/SpellScriptLoader_8h" ],
     [ "TicketScript.cpp", "d2/d8a/TicketScript_8cpp.html", "d2/d8a/TicketScript_8cpp" ],

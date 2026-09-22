@@ -2,6 +2,7 @@ var classGlobalScript =
 [
     [ "GlobalScript", "dc/d37/classGlobalScript.html#a331351fa405d95ee6469ca094a25ac1c", null ],
     [ "AfterInstanceGameObjectCreate", "dc/d37/classGlobalScript.html#aaf3fcef66636071ca9def455ff356868", null ],
+    [ "CanCreateLfgProposal", "dc/d37/classGlobalScript.html#ae5bf9c7ac86128b03fb63c42401bd0e6", null ],
     [ "OnAfterCalculateLootGroupAmount", "dc/d37/classGlobalScript.html#a43efa65b032111032e290371a0df0a60", null ],
     [ "OnAfterInitializeLockedDungeons", "dc/d37/classGlobalScript.html#ae76b6676b24c1e33ba7f020e3a9ce3e5", null ],
     [ "OnAfterRefCount", "dc/d37/classGlobalScript.html#ac25cacd2f032ada74b7cb3cd35ddeb84", null ],

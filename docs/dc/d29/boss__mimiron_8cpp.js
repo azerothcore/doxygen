@@ -160,6 +160,8 @@ var boss__mimiron_8cpp =
       [ "SPELL_RAPID_BURST_DAMAGE_1", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36aeee5938f0bf2b68520b5a3fdf54011ee", null ],
       [ "SPELL_RAPID_BURST_DAMAGE_2", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a1ed45b60bc630b347fbea9143a85c449", null ],
       [ "SPELL_SUMMON_BURST_TARGET", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab30658575090f7dd7c5dc76917b1f48b", null ],
+      [ "SPELL_RAPID_BURST_TARGET_ME", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a9b9cdb6ff60c482035c115c419d074dc", null ],
+      [ "NPC_BURST_TARGET", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a18833a1ac1c87d732d1257cf23c6cbdb", null ],
       [ "SPELL_SPINNING_UP", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36adc736b0d73dd062a61c4ac518eb8833b", null ],
       [ "SPELL_PLASMA_BALL_P1", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a18b534cd2b176ebd8867e4825a7c0c7f", null ],
       [ "SPELL_PLASMA_BALL_P2", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a0c693c93150256fa9b384d04b0fd13e0", null ],

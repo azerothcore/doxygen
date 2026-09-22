@@ -10,6 +10,7 @@ var DBCStores_8h =
       [ "CONTENT_61_70", "d2/df6/DBCStores_8h.html#adb4039320bbc363da97cee8d73c6cae3a0bd1720e4f1744924485f32a2425e314", null ],
       [ "CONTENT_71_80", "d2/df6/DBCStores_8h.html#adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5", null ]
     ] ],
+    [ "FindTextSoundEmoteFor", "d2/df6/DBCStores_8h.html#a45634cb42b7a7cead731c342ffbedaec", null ],
     [ "GetBattlegroundBracketById", "d2/df6/DBCStores_8h.html#a985e497bdaf99981b762999b19d0724c", null ],
     [ "GetBattlegroundBracketByLevel", "d2/df6/DBCStores_8h.html#a73d34d857e5e1ebc289eda1dc36e4d7e", null ],
     [ "GetCharStartOutfitEntry", "d2/df6/DBCStores_8h.html#accdbe5db6fa908c53b90259351646f72", null ],
@@ -44,6 +45,7 @@ var DBCStores_8h =
     [ "sBankBagSlotPricesStore", "d2/df6/DBCStores_8h.html#ac23ee38f90604810485a3d0adfdf8cf6", null ],
     [ "sBarberShopStyleStore", "d2/df6/DBCStores_8h.html#aa53bca705fed162d9629e396b82f6bd1", null ],
     [ "sBattlemasterListStore", "d2/df6/DBCStores_8h.html#a77e97d6c628460065eabb2f3711329c1", null ],
+    [ "sCharSectionsStore", "d2/df6/DBCStores_8h.html#ad3ab80afbb1ee8d20e8158d116644de0", null ],
     [ "sCharStartOutfitStore", "d2/df6/DBCStores_8h.html#a5fbdd3a66062c9929ca941f686924aeb", null ],
     [ "sCharTitlesStore", "d2/df6/DBCStores_8h.html#a818a5659ef6ff267f5b971ce776e3223", null ],
     [ "sChatChannelsStore", "d2/df6/DBCStores_8h.html#a954802aea348c1906cf838396ff8aa07", null ],
@@ -64,6 +66,7 @@ var DBCStores_8h =
     [ "sDurabilityCostsStore", "d2/df6/DBCStores_8h.html#a2b4e37a2d421c3cd682ce97113facb88", null ],
     [ "sDurabilityQualityStore", "d2/df6/DBCStores_8h.html#a31100350e05ae841ea6d58f61c2865f9", null ],
     [ "sEmotesStore", "d2/df6/DBCStores_8h.html#af0a6d713c423c9007d822c1a913228b4", null ],
+    [ "sEmotesTextSoundStore", "d2/df6/DBCStores_8h.html#a650a97083870c30f2ad564e1d7a9c793", null ],
     [ "sEmotesTextStore", "d2/df6/DBCStores_8h.html#af713c93466124de2378b9125a508160b", null ],
     [ "sFactionStore", "d2/df6/DBCStores_8h.html#a4775bebd7a4da6cda2520c367fb411c2", null ],
     [ "sFactionTemplateStore", "d2/df6/DBCStores_8h.html#aa57f88af7117354b1e77be893e3471b5", null ],

@@ -8,6 +8,7 @@ var ServerScript_8h =
       [ "SERVERHOOK_ON_SOCKET_CLOSE", "d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
       [ "SERVERHOOK_CAN_PACKET_SEND", "d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
       [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_ON_PACKET_SENT", "d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad452528992b6907471f3b05d896e4c42", null ],
       [ "SERVERHOOK_END", "d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
     ] ]
 ];

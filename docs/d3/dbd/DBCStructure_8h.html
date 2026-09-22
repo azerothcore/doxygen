@@ -150,6 +150,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d20/structCharStartOutfitEntry.html">CharStartOutfitEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d2d/structCharSectionsEntry.html">CharSectionsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d31/structCharTitlesEntry.html">CharTitlesEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db7/structChatChannelsEntry.html">ChatChannelsEntry</a></td></tr>
@@ -187,6 +189,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d3e/structEmotesEntry.html">EmotesEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d20/structEmotesTextEntry.html">EmotesTextEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8e/structEmotesTextSoundEntry.html">EmotesTextSoundEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d14/structFactionEntry.html">FactionEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -433,6 +437,26 @@ Typedefs</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
+<tr class="memitem:a770c5b815d7cb33a88796de56caea903" id="r_a770c5b815d7cb33a88796de56caea903"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903">CharSectionFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a">SECTION_FLAG_PLAYER</a> = 0x01
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86">SECTION_FLAG_DEATH_KNIGHT</a> = 0x04
+<br />
+ }</td></tr>
+<tr class="separator:a770c5b815d7cb33a88796de56caea903"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a72f0a438493ce008fcb5c7b55a9d1e" id="r_a0a72f0a438493ce008fcb5c7b55a9d1e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1e">CharSectionType</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5">SECTION_TYPE_SKIN</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b">SECTION_TYPE_FACE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9">SECTION_TYPE_FACIAL_HAIR</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361">SECTION_TYPE_HAIR</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088">SECTION_TYPE_UNDERWEAR</a> = 4
+<br />
+ }</td></tr>
+<tr class="separator:a0a72f0a438493ce008fcb5c7b55a9d1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86846f30ebbb1a9ce21222e1a3e26494" id="r_a86846f30ebbb1a9ce21222e1a3e26494"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a> { <br />
 &#160;&#160;<a class="el" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01
 , <br />
@@ -958,6 +982,63 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a770c5b815d7cb33a88796de56caea903" name="a770c5b815d7cb33a88796de56caea903"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a770c5b815d7cb33a88796de56caea903">&#9670;&#160;</a></span>CharSectionFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903">CharSectionFlags</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a" name="a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a"></a>SECTION_FLAG_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86" name="a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86"></a>SECTION_FLAG_DEATH_KNIGHT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  632</span>{</div>
+<div class="line"><span class="lineno">  633</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a">SECTION_FLAG_PLAYER</a>         = 0x01,</div>
+<div class="line"><span class="lineno">  634</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86">SECTION_FLAG_DEATH_KNIGHT</a>   = 0x04</div>
+<div class="line"><span class="lineno">  635</span>};</div>
+<div class="ttc" id="aDBCStructure_8h_html_a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a">SECTION_FLAG_PLAYER</a></div><div class="ttdeci">@ SECTION_FLAG_PLAYER</div><div class="ttdef"><b>Definition</b> DBCStructure.h:633</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86">SECTION_FLAG_DEATH_KNIGHT</a></div><div class="ttdeci">@ SECTION_FLAG_DEATH_KNIGHT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:634</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a0a72f0a438493ce008fcb5c7b55a9d1e" name="a0a72f0a438493ce008fcb5c7b55a9d1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a72f0a438493ce008fcb5c7b55a9d1e">&#9670;&#160;</a></span>CharSectionType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1e">CharSectionType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5" name="a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5"></a>SECTION_TYPE_SKIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b" name="a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b"></a>SECTION_TYPE_FACE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9" name="a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9"></a>SECTION_TYPE_FACIAL_HAIR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361" name="a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361"></a>SECTION_TYPE_HAIR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088" name="a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088"></a>SECTION_TYPE_UNDERWEAR&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  638</span>{</div>
+<div class="line"><span class="lineno">  639</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5">SECTION_TYPE_SKIN</a>           = 0,</div>
+<div class="line"><span class="lineno">  640</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b">SECTION_TYPE_FACE</a>           = 1,</div>
+<div class="line"><span class="lineno">  641</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9">SECTION_TYPE_FACIAL_HAIR</a>    = 2,</div>
+<div class="line"><span class="lineno">  642</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361">SECTION_TYPE_HAIR</a>           = 3,</div>
+<div class="line"><span class="lineno">  643</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088">SECTION_TYPE_UNDERWEAR</a>      = 4</div>
+<div class="line"><span class="lineno">  644</span>};</div>
+<div class="ttc" id="aDBCStructure_8h_html_a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9">SECTION_TYPE_FACIAL_HAIR</a></div><div class="ttdeci">@ SECTION_TYPE_FACIAL_HAIR</div><div class="ttdef"><b>Definition</b> DBCStructure.h:641</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361">SECTION_TYPE_HAIR</a></div><div class="ttdeci">@ SECTION_TYPE_HAIR</div><div class="ttdef"><b>Definition</b> DBCStructure.h:642</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088">SECTION_TYPE_UNDERWEAR</a></div><div class="ttdeci">@ SECTION_TYPE_UNDERWEAR</div><div class="ttdef"><b>Definition</b> DBCStructure.h:643</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b">SECTION_TYPE_FACE</a></div><div class="ttdeci">@ SECTION_TYPE_FACE</div><div class="ttdef"><b>Definition</b> DBCStructure.h:640</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5">SECTION_TYPE_SKIN</a></div><div class="ttdeci">@ SECTION_TYPE_SKIN</div><div class="ttdef"><b>Definition</b> DBCStructure.h:639</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <a id="a86846f30ebbb1a9ce21222e1a3e26494" name="a86846f30ebbb1a9ce21222e1a3e26494"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a86846f30ebbb1a9ce21222e1a3e26494">&#9670;&#160;</a></span>ChrRacesFlags</h2>
 
@@ -974,14 +1055,14 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d" name="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"></a>CHRRACES_FLAGS_BARE_FEET&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b" name="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"></a>CHRRACES_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  672</span>{</div>
-<div class="line"><span class="lineno">  673</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01,</div>
-<div class="line"><span class="lineno">  674</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a>    = 0x02,</div>
-<div class="line"><span class="lineno">  675</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a>    = 0x04</div>
-<div class="line"><span class="lineno">  676</span>};</div>
-<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition</b> DBCStructure.h:673</div></div>
-<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CHRRACES_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:675</div></div>
-<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a></div><div class="ttdeci">@ CHRRACES_FLAGS_BARE_FEET</div><div class="ttdef"><b>Definition</b> DBCStructure.h:674</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  699</span>{</div>
+<div class="line"><span class="lineno">  700</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01,</div>
+<div class="line"><span class="lineno">  701</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a>    = 0x02,</div>
+<div class="line"><span class="lineno">  702</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a>    = 0x04</div>
+<div class="line"><span class="lineno">  703</span>};</div>
+<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition</b> DBCStructure.h:700</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CHRRACES_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:702</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a></div><div class="ttdeci">@ CHRRACES_FLAGS_BARE_FEET</div><div class="ttdef"><b>Definition</b> DBCStructure.h:701</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -999,10 +1080,10 @@ Variables</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900" name="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"></a>CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  770</span>{</div>
-<div class="line"><span class="lineno">  771</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a>     = 0x00000080</div>
-<div class="line"><span class="lineno">  772</span>};</div>
-<div class="ttc" id="aDBCStructure_8h_html_a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:771</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  797</span>{</div>
+<div class="line"><span class="lineno">  798</span>    <a class="code hl_enumvalue" href="../../d3/dbd/DBCStructure_8h.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a>     = 0x00000080</div>
+<div class="line"><span class="lineno">  799</span>};</div>
+<div class="ttc" id="aDBCStructure_8h_html_a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:798</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1037,7 +1118,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_df159a8f325d88d9d469ac728430a4fa.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d3/dbd/DBCStructure_8h.html">DBCStructure.h</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 11:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Sep 22 2026 10:49:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

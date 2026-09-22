@@ -1,6 +1,7 @@
 var classAllMapScript =
 [
     [ "AllMapScript", "d5/dac/classAllMapScript.html#a84f63a79158f667f291070d0cbb553ea", null ],
+    [ "CanSendObjectUpdatesToPlayer", "d5/dac/classAllMapScript.html#a9748ad2d03db713c1f5d856ebf1329ad", null ],
     [ "OnBeforeCreateInstanceScript", "d5/dac/classAllMapScript.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
     [ "OnCreateMap", "d5/dac/classAllMapScript.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
     [ "OnDestroyInstance", "d5/dac/classAllMapScript.html#a990130b4cd594c1cd04368aea300a49e", null ],

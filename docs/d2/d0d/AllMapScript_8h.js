@@ -9,6 +9,7 @@ var AllMapScript_8h =
       [ "ALLMAPHOOK_ON_CREATE_MAP", "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
       [ "ALLMAPHOOK_ON_DESTROY_MAP", "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
       [ "ALLMAPHOOK_ON_MAP_UPDATE", "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_CAN_SEND_OBJECT_UPDATES_TO_PLAYER", "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ab71f788a9cdc8f8d9168caa5584d9a47", null ],
       [ "ALLMAPHOOK_END", "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
     ] ]
 ];

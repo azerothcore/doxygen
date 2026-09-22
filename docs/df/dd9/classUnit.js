@@ -252,6 +252,7 @@ var classUnit =
     [ "GetEffectiveResistChance", "df/dd9/classUnit.html#a63515fd0231aba9a3d8141b275678af8", null ],
     [ "GetExtraUnitMovementFlags", "df/dd9/classUnit.html#aa4e50cc99e722844b8ca61d19c925527", null ],
     [ "GetFaction", "df/dd9/classUnit.html#a9629129db92c05662079a6b36d61c610", null ],
+    [ "GetFactionReactionTo", "df/dd9/classUnit.html#a3c65b132b4e704daa83f72a2e800b1b6", null ],
     [ "GetFactionReactionTo", "df/dd9/classUnit.html#a667b6590091b9dc4c23f69ad18492dfd", null ],
     [ "GetFactionTemplateEntry", "df/dd9/classUnit.html#a26754ab73d0b608e451efc717f996d34", null ],
     [ "GetFirstControlled", "df/dd9/classUnit.html#ab2f97b33e63c3155f5d423512712b2e6", null ],

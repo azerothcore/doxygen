@@ -7,6 +7,6 @@ var structBattlegroundEY_1_1CapturePointInfo =
     [ "_areaTrigger", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
     [ "_barStatus", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
     [ "_ownerTeamId", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "_playerGuid", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a6afee10a7c333790b597ae264547ee89", null ],
+    [ "_playersCount", "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a7316d0eccaa25b9f30a39c48635e4c16", null ]
 ];

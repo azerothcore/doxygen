@@ -16,6 +16,8 @@ var structItemTemplate =
     [ "IsConjuredConsumable", "d4/d69/structItemTemplate.html#a82c8f9a213148dd8e888e452fa489867", null ],
     [ "IsCurrencyToken", "d4/d69/structItemTemplate.html#a42069b477ed74c043460bf09ff8c2641", null ],
     [ "IsPotion", "d4/d69/structItemTemplate.html#a1f5f69eb4c076ab0f261d80be2dc62f9", null ],
+    [ "IsRangedWeapon", "d4/d69/structItemTemplate.html#a3e057c79d9b7e4e8ea4551dda073dd41", null ],
+    [ "IsWeapon", "d4/d69/structItemTemplate.html#acab6a59e481a10a32b0084f212ca5432", null ],
     [ "IsWeaponVellum", "d4/d69/structItemTemplate.html#af62a60d717fe0a65fc5da2c6d91ae8bb", null ],
     [ "AllowableClass", "d4/d69/structItemTemplate.html#a2fc17d32190cf5a0e9605002bbeabda0", null ],
     [ "AllowableRace", "d4/d69/structItemTemplate.html#a9f7db681c7f74725a86979ee6fc35477", null ],

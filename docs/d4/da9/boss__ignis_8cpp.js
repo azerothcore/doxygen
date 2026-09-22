@@ -37,6 +37,7 @@ var boss__ignis_8cpp =
       [ "SPELL_GRAB", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba399d29cb7ddcee9c8af71bbbcb9d2dca", null ],
       [ "SPELL_GRAB_TRIGGERED", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3", null ],
       [ "SPELL_GRAB_CONTROL_2", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba36edcd23c5475457ebc9c1b6fa284442", null ],
+      [ "SPELL_KILL_ALL_CONSTRUCTS", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395bad396a1b8306d0f0950b6f1e23a6fdee3", null ],
       [ "SPELL_SCORCHED_GROUND", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395baeb4b015e2cc39f156559c2f214042158", null ],
       [ "SPELL_HEAT_AREA", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba2adde576f86ca0dac01eeb141434fd00", null ],
       [ "SPELL_HEAT_BUFF", "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba2eafb8513e00a03882597f28841065e9", null ],

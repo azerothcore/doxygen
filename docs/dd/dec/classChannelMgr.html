@@ -107,10 +107,10 @@ $(document).ready(function(){initNavTree('dd/dec/classChannelMgr.html','../../')
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-static-attribs">Static Public Attributes</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#pri-static-attribs">Static Private Attributes</a> &#124;
@@ -131,6 +131,13 @@ Inheritance diagram for ChannelMgr:</div>
   </map>
 </div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a84c686f095464d67f750309244a47ba5" id="r_a84c686f095464d67f750309244a47ba5"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; std::wstring, <a class="el" href="../../d2/d48/classChannel.html">Channel</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a></td></tr>
+<tr class="separator:a84c686f095464d67f750309244a47ba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e153c81aede8182160b0a5ab89e5b4b" id="r_a4e153c81aede8182160b0a5ab89e5b4b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; std::string, <a class="el" href="../../d1/d9c/classChannelRights.html">ChannelRights</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelRightsMap</a></td></tr>
+<tr class="separator:a4e153c81aede8182160b0a5ab89e5b4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aa671334be6933f374466666ec5c6cc46" id="r_aa671334be6933f374466666ec5c6cc46"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#aa671334be6933f374466666ec5c6cc46">ChannelMgr</a> (<a class="el" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId)</td></tr>
@@ -141,6 +148,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a92540d37b38ccc032665fa220349a4ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a89dbd4095eeeb79ae59947beb2d2cd17" id="r_a89dbd4095eeeb79ae59947beb2d2cd17"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d48/classChannel.html">Channel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a89dbd4095eeeb79ae59947beb2d2cd17">GetChannel</a> (std::string const &amp;name, <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *p, bool pkt=true)</td></tr>
 <tr class="separator:a89dbd4095eeeb79ae59947beb2d2cd17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26ffff762f0aa2d28be005fb2d914821" id="r_a26ffff762f0aa2d28be005fb2d914821"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a26ffff762f0aa2d28be005fb2d914821">GetChannels</a> () const</td></tr>
+<tr class="separator:a26ffff762f0aa2d28be005fb2d914821"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -159,13 +168,6 @@ Static Public Member Functions</h2></td></tr>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:a41bbe928d2e50c899a10b4b7da0e1a68" id="r_a41bbe928d2e50c899a10b4b7da0e1a68"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a41bbe928d2e50c899a10b4b7da0e1a68">_channelIdMax</a> = 0</td></tr>
 <tr class="separator:a41bbe928d2e50c899a10b4b7da0e1a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a84c686f095464d67f750309244a47ba5" id="r_a84c686f095464d67f750309244a47ba5"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; std::wstring, <a class="el" href="../../d2/d48/classChannel.html">Channel</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a></td></tr>
-<tr class="separator:a84c686f095464d67f750309244a47ba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e153c81aede8182160b0a5ab89e5b4b" id="r_a4e153c81aede8182160b0a5ab89e5b4b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; std::string, <a class="el" href="../../d1/d9c/classChannelRights.html">ChannelRights</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelRightsMap</a></td></tr>
-<tr class="separator:a4e153c81aede8182160b0a5ab89e5b4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -193,19 +195,11 @@ Static Private Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">typedef std::unordered_map&lt;std::wstring, <a class="el" href="../../d2/d48/classChannel.html">Channel</a>*&gt; <a class="el" href="../../dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5">ChannelMgr::ChannelMap</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -215,19 +209,11 @@ Static Private Attributes</h2></td></tr>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">typedef std::map&lt;std::string, <a class="el" href="../../d1/d9c/classChannelRights.html">ChannelRights</a>&gt; <a class="el" href="../../dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelMgr::ChannelRightsMap</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
@@ -258,7 +244,7 @@ Static Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   34</span>                              : <a class="code hl_variable" href="../../dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed">_teamId</a>(teamId)</div>
 <div class="line"><span class="lineno">   35</span>    { }</div>
-<div class="ttc" id="aclassChannelMgr_html_a1ac5de545c0cb91088176fae883748ed"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed">ChannelMgr::_teamId</a></div><div class="ttdeci">TeamId _teamId</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:52</div></div>
+<div class="ttc" id="aclassChannelMgr_html_a1ac5de545c0cb91088176fae883748ed"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed">ChannelMgr::_teamId</a></div><div class="ttdeci">TeamId _teamId</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -282,9 +268,9 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   29</span> </div>
 <div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd">channels</a>.clear();</div>
 <div class="line"><span class="lineno">   31</span>}</div>
-<div class="ttc" id="aclassChannelMgr_html_a823810bd463e51a0fb007712717f13dd"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd">ChannelMgr::channels</a></div><div class="ttdeci">ChannelMap channels</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:51</div></div>
+<div class="ttc" id="aclassChannelMgr_html_a823810bd463e51a0fb007712717f13dd"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd">ChannelMgr::channels</a></div><div class="ttdeci">ChannelMap channels</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:52</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">channels</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">channels</a>.</p>
 
 </div>
 </div>
@@ -335,7 +321,7 @@ Static Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00034">CONFIG_ALLOW_TWO_SIDE_INTERACTION_CHANNEL</a>, <a class="el" href="../../#l00318">sWorld</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00267">WorldSession::HandleChannelAnnouncements()</a>, <a class="el" href="../../#l00237">WorldSession::HandleChannelBan()</a>, <a class="el" href="../../#l00207">WorldSession::HandleChannelInvite()</a>, <a class="el" href="../../#l00222">WorldSession::HandleChannelKick()</a>, <a class="el" href="../../#l00092">WorldSession::HandleChannelList()</a>, <a class="el" href="../../#l00279">WorldSession::HandleChannelModerateOpcode()</a>, <a class="el" href="../../#l00147">WorldSession::HandleChannelModerator()</a>, <a class="el" href="../../#l00177">WorldSession::HandleChannelMute()</a>, <a class="el" href="../../#l00135">WorldSession::HandleChannelOwner()</a>, <a class="el" href="../../#l00105">WorldSession::HandleChannelPassword()</a>, <a class="el" href="../../#l00120">WorldSession::HandleChannelSetOwner()</a>, <a class="el" href="../../#l00252">WorldSession::HandleChannelUnban()</a>, <a class="el" href="../../#l00162">WorldSession::HandleChannelUnmoderator()</a>, <a class="el" href="../../#l00192">WorldSession::HandleChannelUnmute()</a>, <a class="el" href="../../#l00336">WorldSession::HandleClearChannelWatch()</a>, <a class="el" href="../../#l00298">WorldSession::HandleGetChannelMemberCount()</a>, <a class="el" href="../../#l00025">WorldSession::HandleJoinChannel()</a>, <a class="el" href="../../#l00076">WorldSession::HandleLeaveChannel()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00321">WorldSession::HandleSetChannelWatch()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, <a class="el" href="../../#l00468">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00506">Player::UpdateLocalChannels()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00267">WorldSession::HandleChannelAnnouncements()</a>, <a class="el" href="../../#l00237">WorldSession::HandleChannelBan()</a>, <a class="el" href="../../#l00207">WorldSession::HandleChannelInvite()</a>, <a class="el" href="../../#l00222">WorldSession::HandleChannelKick()</a>, <a class="el" href="../../#l00092">WorldSession::HandleChannelList()</a>, <a class="el" href="../../#l00279">WorldSession::HandleChannelModerateOpcode()</a>, <a class="el" href="../../#l00147">WorldSession::HandleChannelModerator()</a>, <a class="el" href="../../#l00177">WorldSession::HandleChannelMute()</a>, <a class="el" href="../../#l00135">WorldSession::HandleChannelOwner()</a>, <a class="el" href="../../#l00105">WorldSession::HandleChannelPassword()</a>, <a class="el" href="../../#l00120">WorldSession::HandleChannelSetOwner()</a>, <a class="el" href="../../#l00252">WorldSession::HandleChannelUnban()</a>, <a class="el" href="../../#l00162">WorldSession::HandleChannelUnmoderator()</a>, <a class="el" href="../../#l00192">WorldSession::HandleChannelUnmute()</a>, <a class="el" href="../../#l00336">WorldSession::HandleClearChannelWatch()</a>, <a class="el" href="../../#l00298">WorldSession::HandleGetChannelMemberCount()</a>, <a class="el" href="../../#l00025">WorldSession::HandleJoinChannel()</a>, <a class="el" href="../../#l00076">WorldSession::HandleLeaveChannel()</a>, <a class="el" href="../../#l00061">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00321">WorldSession::HandleSetChannelWatch()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, <a class="el" href="../../#l00469">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00507">Player::UpdateLocalChannels()</a>.</p>
 
 </div>
 </div>
@@ -396,7 +382,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassChannelMgr_html_ae85b95eac40037d5066efa17fb484bc5"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5">ChannelMgr::MakeNotOnPacket</a></div><div class="ttdeci">void MakeNotOnPacket(WorldPacket *data, std::string const &amp;name)</div><div class="ttdef"><b>Definition</b> ChannelMgr.cpp:225</div></div>
 <div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l05864">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">channels</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l05864">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
 
 </div>
 </div>
@@ -431,12 +417,40 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
 <div class="line"><span class="lineno">  215</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">channelRightsEmpty</a>;</div>
 <div class="line"><span class="lineno">  216</span>}</div>
-<div class="ttc" id="aclassChannelMgr_html_adfc7c2e0156b2dc290c1c0f307a6911f"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f">ChannelMgr::channels_rights</a></div><div class="ttdeci">static ChannelRightsMap channels_rights</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:53</div></div>
-<div class="ttc" id="aclassChannelMgr_html_aecb848ba8e3cfa8ccdb84a1f62a26ab9"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">ChannelMgr::channelRightsEmpty</a></div><div class="ttdeci">static ChannelRights channelRightsEmpty</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:54</div></div>
+<div class="ttc" id="aclassChannelMgr_html_adfc7c2e0156b2dc290c1c0f307a6911f"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f">ChannelMgr::channels_rights</a></div><div class="ttdeci">static ChannelRightsMap channels_rights</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:54</div></div>
+<div class="ttc" id="aclassChannelMgr_html_aecb848ba8e3cfa8ccdb84a1f62a26ab9"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">ChannelMgr::channelRightsEmpty</a></div><div class="ttdeci">static ChannelRights channelRightsEmpty</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:55</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">channelRightsEmpty</a>, and <a class="el" href="../../#l00053">channels_rights</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00055">channelRightsEmpty</a>, and <a class="el" href="../../#l00054">channels_rights</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">Channel::Channel()</a>.</p>
+
+</div>
+</div>
+<a id="a26ffff762f0aa2d28be005fb2d914821" name="a26ffff762f0aa2d28be005fb2d914821"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26ffff762f0aa2d28be005fb2d914821">&#9670;&#160;</a></span>GetChannels()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a> const  &amp; ChannelMgr::GetChannels </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd">channels</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00052">channels</a>.</p>
 
 </div>
 </div>
@@ -483,9 +497,9 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  137</span>}</div>
 <div class="ttc" id="aclassChannel_html"><div class="ttname"><a href="../../d2/d48/classChannel.html">Channel</a></div><div class="ttdef"><b>Definition</b> Channel.h:144</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">_teamId</a>, <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">_teamId</a>, <a class="el" href="../../#l00052">channels</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00506">Player::UpdateLocalChannels()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00469">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00507">Player::UpdateLocalChannels()</a>.</p>
 
 </div>
 </div>
@@ -565,7 +579,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespaceAcore_html"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html">Acore</a></div><div class="ttdef"><b>Definition</b> AsioHacksFwd.h:47</div></div>
 <div class="ttc" id="anamespaceAcore_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition</b> Tokenize.cpp:20</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">channels_rights</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00218">SetChannelRightsFor()</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00054">channels_rights</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00218">SetChannelRightsFor()</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
 
@@ -665,14 +679,14 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab">CHAR_DEL_CHANNEL</a></div><div class="ttdeci">@ CHAR_DEL_CHANNEL</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:186</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition</b> SharedDefines.h:747</div></div>
-<div class="ttc" id="aclassChannelMgr_html_a41bbe928d2e50c899a10b4b7da0e1a68"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a41bbe928d2e50c899a10b4b7da0e1a68">ChannelMgr::_channelIdMax</a></div><div class="ttdeci">static uint32 _channelIdMax</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:48</div></div>
+<div class="ttc" id="aclassChannelMgr_html_a41bbe928d2e50c899a10b4b7da0e1a68"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a41bbe928d2e50c899a10b4b7da0e1a68">ChannelMgr::_channelIdMax</a></div><div class="ttdeci">static uint32 _channelIdMax</div><div class="ttdef"><b>Definition</b> ChannelMgr.h:49</div></div>
 <div class="ttc" id="aclassChannelMgr_html_a62fd837572c3c88d8848115c98587401"><div class="ttname"><a href="../../dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401">ChannelMgr::forTeam</a></div><div class="ttdeci">static ChannelMgr * forTeam(TeamId teamId)</div><div class="ttdef"><b>Definition</b> ChannelMgr.cpp:33</div></div>
 <div class="ttc" id="aclassChannel_html_a5238e1b4133ac9d8a495fefeded33f50"><div class="ttname"><a href="../../d2/d48/classChannel.html#a5238e1b4133ac9d8a495fefeded33f50">Channel::SetPassword</a></div><div class="ttdeci">void SetPassword(std::string const &amp;npassword)</div><div class="ttdef"><b>Definition</b> Channel.h:186</div></div>
 <div class="ttc" id="aclassChannel_html_a823cf051e190465f7486feb695c99d13"><div class="ttname"><a href="../../d2/d48/classChannel.html#a823cf051e190465f7486feb695c99d13">Channel::AddBan</a></div><div class="ttdeci">void AddBan(ObjectGuid guid, uint32 time)</div><div class="ttdef"><b>Definition</b> Channel.h:196</div></div>
 <div class="ttc" id="aclassPreparedStatementBase_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition</b> PreparedStatement.h:77</div></div>
 <div class="ttc" id="aclassPreparedStatement_html"><div class="ttname"><a href="../../d7/d0f/classPreparedStatement.html">PreparedStatement</a></div><div class="ttdef"><b>Definition</b> PreparedStatement.h:157</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">_channelIdMax</a>, <a class="el" href="../../#l00196">Channel::AddBan()</a>, <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00186">CHAR_DEL_CHANNEL</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00033">forTeam()</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00186">Channel::SetPassword()</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_channelIdMax</a>, <a class="el" href="../../#l00196">Channel::AddBan()</a>, <a class="el" href="../../#l00052">channels</a>, <a class="el" href="../../#l00186">CHAR_DEL_CHANNEL</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00033">forTeam()</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00186">Channel::SetPassword()</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
 
@@ -789,7 +803,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  223</span>}</div>
 <div class="ttc" id="aclassChannelRights_html"><div class="ttname"><a href="../../d1/d9c/classChannelRights.html">ChannelRights</a></div><div class="ttdef"><b>Definition</b> Channel.h:119</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">channels_rights</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00054">channels_rights</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00166">LoadChannelRights()</a>.</p>
 
@@ -888,7 +902,7 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00139">GetChannel()</a>, <a class="el" href="../../#l00121">GetJoinChannel()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, and <a class="el" href="../../#l00025">~ChannelMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00139">GetChannel()</a>, <a class="el" href="../../#l00043">GetChannels()</a>, <a class="el" href="../../#l00121">GetJoinChannel()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, and <a class="el" href="../../#l00025">~ChannelMgr()</a>.</p>
 
 </div>
 </div>
@@ -926,7 +940,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dec/classChannelMgr.html">ChannelMgr</a></li>
-    <li class="footer">Generated on Mon Sep 21 2026 11:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Sep 22 2026 10:50:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

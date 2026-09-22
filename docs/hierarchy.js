@@ -2234,6 +2234,7 @@ var hierarchy =
     ] ],
     [ "ChargeTargetSelector", "d4/da8/classChargeTargetSelector.html", null ],
     [ "CharmInfo", "dd/d80/structCharmInfo.html", null ],
+    [ "CharSectionsEntry", "d3/d2d/structCharSectionsEntry.html", null ],
     [ "CharStartOutfitEntry", "de/d20/structCharStartOutfitEntry.html", null ],
     [ "CharTitlesEntry", "d2/d31/structCharTitlesEntry.html", null ],
     [ "ChaseAngle", "d6/dfd/structChaseAngle.html", null ],
@@ -2471,6 +2472,7 @@ var hierarchy =
     [ "Acore::EmoteChatBuilder", "d0/dfe/classAcore_1_1EmoteChatBuilder.html", null ],
     [ "EmotesEntry", "d8/d3e/structEmotesEntry.html", null ],
     [ "EmotesTextEntry", "de/d20/structEmotesTextEntry.html", null ],
+    [ "EmotesTextSoundEntry", "d2/d8e/structEmotesTextSoundEntry.html", null ],
     [ "std::enable_shared_from_this", null, [
       [ "Socket< AuthSession >", "d4/d33/classSocket.html", [
         [ "AuthSession", "d8/df8/classAuthSession.html", null ]
@@ -4578,6 +4580,7 @@ var hierarchy =
         [ "lfg::LFGPlayerScript", "df/d55/classlfg_1_1LFGPlayerScript.html", null ]
       ] ],
       [ "ServerScript", "da/dc8/classServerScript.html", null ],
+      [ "SessionScript", "de/d34/classSessionScript.html", null ],
       [ "SpellScriptLoader", "d0/dad/classSpellScriptLoader.html", [
         [ "GenericSpellAndAuraScriptLoader< Ts >", "dc/dde/classGenericSpellAndAuraScriptLoader.html", null ],
         [ "spell_q11515_fel_siphon_dummy", "d9/d06/classspell__q11515__fel__siphon__dummy.html", null ],

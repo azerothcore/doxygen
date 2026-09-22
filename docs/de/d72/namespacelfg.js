@@ -57,6 +57,7 @@ var namespacelfg =
       [ "LFG_INCOMPATIBLES_HAS_IGNORES", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
       [ "LFG_INCOMPATIBLES_NO_ROLES", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
       [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_INCOMPATIBLES_REJECTED_BY_SCRIPT", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6ad9a68f4c00296cf1819fa4a4cd29a1f3", null ],
       [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
       [ "LFG_COMPATIBLES_MATCH", "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
     ] ],

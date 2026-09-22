@@ -7,6 +7,7 @@ var classChannelMgr =
     [ "forTeam", "dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401", null ],
     [ "GetChannel", "dd/dec/classChannelMgr.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
     [ "GetChannelRightsFor", "dd/dec/classChannelMgr.html#a418644f22226851f452e7698eab973eb", null ],
+    [ "GetChannels", "dd/dec/classChannelMgr.html#a26ffff762f0aa2d28be005fb2d914821", null ],
     [ "GetJoinChannel", "dd/dec/classChannelMgr.html#a92540d37b38ccc032665fa220349a4ec", null ],
     [ "LoadChannelRights", "dd/dec/classChannelMgr.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
     [ "LoadChannels", "dd/dec/classChannelMgr.html#a73e822c758aacb7f959407b100b9aff6", null ],

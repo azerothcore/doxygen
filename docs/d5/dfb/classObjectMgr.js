@@ -72,6 +72,7 @@ var classObjectMgr =
     [ "GetAcoreString", "d5/dfb/classObjectMgr.html#a1f2d676d43f5f53bc2376fee1e6f690f", null ],
     [ "GetAcoreStringForDBCLocale", "d5/dfb/classObjectMgr.html#ad26b4b358a07e8e432da89b531415584", null ],
     [ "GetAllAreaTriggerScriptData", "d5/dfb/classObjectMgr.html#a60389bfb3b7118cb22af68bcf2baf290", null ],
+    [ "GetAllAreaTriggerTeleports", "d5/dfb/classObjectMgr.html#a08cfbfb01547548df589e19bc9dfcd70", null ],
     [ "GetAllCreatureData", "d5/dfb/classObjectMgr.html#a40d6db811042b293fb0b7e5da8481bb1", null ],
     [ "GetAllGOData", "d5/dfb/classObjectMgr.html#a7811cbd2903c3d89cf57c0e896a60e11", null ],
     [ "GetAreaTrigger", "d5/dfb/classObjectMgr.html#a433d75ea2b18aaccc68760e917a62494", null ],

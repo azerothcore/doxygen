@@ -23,6 +23,7 @@ var GlobalScript_8h =
       [ "GLOBALHOOK_ON_INSTANCEID_REMOVED", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c", null ],
       [ "GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203", null ],
       [ "GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872", null ],
+      [ "GLOBALHOOK_CAN_CREATE_LFG_PROPOSAL", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fad0b6e7a19cdc19629565be749f17bbca", null ],
       [ "GLOBALHOOK_END", "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a", null ]
     ] ]
 ];

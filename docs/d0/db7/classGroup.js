@@ -61,6 +61,8 @@ var classGroup =
     [ "GetMemberSlots", "d0/db7/classGroup.html#a03662b1a5ee6f8d5e5efda6abea0ee24", null ],
     [ "GetRaidDifficulty", "d0/db7/classGroup.html#a97cd83cdf6de49725ad1675061c650a7", null ],
     [ "GetRoll", "d0/db7/classGroup.html#a7f6d43ec13639c97fc25362e6fe601d3", null ],
+    [ "GetRolls", "d0/db7/classGroup.html#ae2ef1de80971f472e0682620e58ccf3d", null ],
+    [ "GetTargetIcon", "d0/db7/classGroup.html#aafed9f43df11a199de60b11261970a53", null ],
     [ "GroupLoot", "d0/db7/classGroup.html#a4a8143286450dca8134736fcfa77903f", null ],
     [ "HasFreeSlotSubGroup", "d0/db7/classGroup.html#aafeaef93c3c515654678785f54b013ac", null ],
     [ "InInstance", "d0/db7/classGroup.html#a08e937032248647f8398f4ccbbda2861", null ],

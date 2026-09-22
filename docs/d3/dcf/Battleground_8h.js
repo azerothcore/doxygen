@@ -10,6 +10,7 @@ var Battleground_8h =
     [ "RESURRECTION_INTERVAL", "d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab", null ],
     [ "SPEED_BUFF_RESPAWN_TIME", "d3/dcf/Battleground_8h.html#a3d5aab4a2019d812fd4fbcb3316422f6", null ],
     [ "ArenaType", "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50", [
+      [ "ARENA_TYPE_NONE", "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50a3abb94c265144c09e0e8d4cd4f56557b", null ],
       [ "ARENA_TYPE_2v2", "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01", null ],
       [ "ARENA_TYPE_3v3", "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50aa98d0a1c6432cd3013d20e83937726be", null ],
       [ "ARENA_TYPE_5v5", "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512", null ]

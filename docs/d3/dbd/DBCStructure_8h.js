@@ -11,6 +11,7 @@ var DBCStructure_8h =
     [ "BarberShopStyleEntry", "da/d46/structBarberShopStyleEntry.html", "da/d46/structBarberShopStyleEntry" ],
     [ "BattlemasterListEntry", "d5/d2a/structBattlemasterListEntry.html", "d5/d2a/structBattlemasterListEntry" ],
     [ "CharStartOutfitEntry", "de/d20/structCharStartOutfitEntry.html", "de/d20/structCharStartOutfitEntry" ],
+    [ "CharSectionsEntry", "d3/d2d/structCharSectionsEntry.html", "d3/d2d/structCharSectionsEntry" ],
     [ "CharTitlesEntry", "d2/d31/structCharTitlesEntry.html", "d2/d31/structCharTitlesEntry" ],
     [ "ChatChannelsEntry", "d3/db7/structChatChannelsEntry.html", "d3/db7/structChatChannelsEntry" ],
     [ "ChrClassesEntry", "d5/def/structChrClassesEntry.html", "d5/def/structChrClassesEntry" ],
@@ -30,6 +31,7 @@ var DBCStructure_8h =
     [ "DurabilityQualityEntry", "d7/dd4/structDurabilityQualityEntry.html", "d7/dd4/structDurabilityQualityEntry" ],
     [ "EmotesEntry", "d8/d3e/structEmotesEntry.html", "d8/d3e/structEmotesEntry" ],
     [ "EmotesTextEntry", "de/d20/structEmotesTextEntry.html", "de/d20/structEmotesTextEntry" ],
+    [ "EmotesTextSoundEntry", "d2/d8e/structEmotesTextSoundEntry.html", "d2/d8e/structEmotesTextSoundEntry" ],
     [ "FactionEntry", "de/d14/structFactionEntry.html", "de/d14/structFactionEntry" ],
     [ "FactionTemplateEntry", "de/d2f/structFactionTemplateEntry.html", "de/d2f/structFactionTemplateEntry" ],
     [ "GameObjectArtKitEntry", "d9/dc0/structGameObjectArtKitEntry.html", "d9/dc0/structGameObjectArtKitEntry" ],
@@ -148,6 +150,17 @@ var DBCStructure_8h =
     [ "TaxiPathNodesByPath", "d3/dbd/DBCStructure_8h.html#a0a9bd32b40fdd19846034d6430c681cb", null ],
     [ "TaxiPathSetBySource", "d3/dbd/DBCStructure_8h.html#a8d9b837c2c4d75978949b5718741443a", null ],
     [ "TaxiPathSetForSource", "d3/dbd/DBCStructure_8h.html#a96a7676e14471f288073e4d2ce5fb580", null ],
+    [ "CharSectionFlags", "d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903", [
+      [ "SECTION_FLAG_PLAYER", "d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903a9c21258190bfaf04cc1538fd38d6815a", null ],
+      [ "SECTION_FLAG_DEATH_KNIGHT", "d3/dbd/DBCStructure_8h.html#a770c5b815d7cb33a88796de56caea903ad29319ba0af1d85a47584d6136e07c86", null ]
+    ] ],
+    [ "CharSectionType", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1e", [
+      [ "SECTION_TYPE_SKIN", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eae7b9a1ebf56772953e105ea10590e8c5", null ],
+      [ "SECTION_TYPE_FACE", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1eada98d04f5e96e2e517a5504ccbaa128b", null ],
+      [ "SECTION_TYPE_FACIAL_HAIR", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1bb1ccec209c8724b78c37cfe0ad27d9", null ],
+      [ "SECTION_TYPE_HAIR", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea1f507fd27b9a49a27aba290def5a4361", null ],
+      [ "SECTION_TYPE_UNDERWEAR", "d3/dbd/DBCStructure_8h.html#a0a72f0a438493ce008fcb5c7b55a9d1ea70cc1a1e5f85941c1f96eeaf5caa4088", null ]
+    ] ],
     [ "ChrRacesFlags", "d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494", [
       [ "CHRRACES_FLAGS_NOT_PLAYABLE", "d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c", null ],
       [ "CHRRACES_FLAGS_BARE_FEET", "d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d", null ],

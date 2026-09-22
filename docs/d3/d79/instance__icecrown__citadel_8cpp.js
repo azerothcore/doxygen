@@ -17,6 +17,12 @@ var instance__icecrown__citadel_8cpp =
       [ "EVENT_FESTERGUT_VALVE_USED", "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad16c15617c8b86f09966510dcf3c89c2", null ],
       [ "EVENT_ROTFACE_VALVE_USED", "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ac81f89b50257e14d80f843cf2d441bb6", null ]
     ] ],
+    [ "SaurfangCampPaths", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995d", [
+      [ "PATH_CAMP_SHELY_STEELBOWELS", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995dad5c08dca4f652e04af84070eb04ec6a6", null ],
+      [ "PATH_CAMP_BRAZIE_GETZ", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995da582bea7652de64382601fe37be374412", null ],
+      [ "PATH_CAMP_APOTHECARY_CANDITH_TOMAS", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995daefc7991a3728b1d352369d4d90e74545", null ],
+      [ "PATH_CAMP_MORGAN_DAYBLAZE", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995da67a2aed52f22fb031e92bbfe8933eb0d", null ]
+    ] ],
     [ "Say", "d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_SOULS_LICH_KING_RAND_WHISPER", "d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae", null ]
     ] ],
@@ -27,7 +33,8 @@ var instance__icecrown__citadel_8cpp =
       [ "BLOOD_BEAM_VISUAL_LHAND", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42", null ],
       [ "BLOOD_BEAM_VISUAL_LLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cacb658ca309c42891a8c8014561e1c6fc", null ],
       [ "BLOOD_BEAM_VISUAL_RLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cad5eeedaba302aaf24730d9b863f8c4bb", null ],
-      [ "VOID_ZONE_VISUAL", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09", null ]
+      [ "VOID_ZONE_VISUAL", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09", null ],
+      [ "SPELL_SIMPLE_TELEPORT", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca58ded91cb3c92499be38f0586eb20db8", null ]
     ] ],
     [ "TimedEvents", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23", [
       [ "EVENT_UPDATE_EXECUTION_TIME", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ae04c80deaecaec658637034fca6d4a61", null ],
@@ -39,16 +46,17 @@ var instance__icecrown__citadel_8cpp =
       [ "EVENT_SAURFANG_ZEPPELIN_DOCK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a6a50856ec6f2893503fdde8624929784", null ],
       [ "EVENT_SAURFANG_OUTRO_TIMEOUT", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a14f8e6240194301117c14d7cf25e1e9f", null ],
       [ "EVENT_SAURFANG_ZEPPELIN_REMOVE", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ac434dacacf29364e222eb72c071de0e0", null ],
-      [ "EVENT_SAURFANG_CAMP_TELEPORTERS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ae2b35f41290c0d6f9099a96ad58169e4", null ],
+      [ "EVENT_SAURFANG_CAMP_ACTIVATE", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a50810c0919c2c946c08eed211ae377c8", null ],
       [ "EVENT_SAURFANG_CAMP_WORKERS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a3766c43184dd98691f86b71c9c580a71", null ],
+      [ "EVENT_SAURFANG_CAMP_WORKER_0_RUN", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ab8c7a29908df7a461692744b82f082ee", null ],
+      [ "EVENT_SAURFANG_CAMP_WORKER_1_RUN", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a85123279339305b941e0da23919a9a55", null ],
+      [ "EVENT_SAURFANG_CAMP_WORKER_0_WORK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a8b3955bbb41a52904e0667929e2cd48f", null ],
+      [ "EVENT_SAURFANG_CAMP_WORKER_1_WORK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a1da794032fd267a4dff2559a86de883f", null ],
       [ "EVENT_SAURFANG_CAMP_TENTS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ac5cfbe748a7d34f34a2037edd8e10da9", null ],
-      [ "EVENT_SAURFANG_CAMP_WORKERS_OUT", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23aa99cf32db52096f63428029201072ca4", null ],
-      [ "EVENT_SAURFANG_CAMP_VENDORS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a76f9c6139ccdbe94f6510ab1814ce2b3", null ],
-      [ "EVENT_SAURFANG_CAMP_SMITH_ARRIVE", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a74bed2f97f966071e2d0f636d0108336", null ],
-      [ "EVENT_SAURFANG_CAMP_WORKERS_BACK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a812211623e5ed113a2d24d05d290f1ba", null ],
-      [ "EVENT_SAURFANG_CAMP_VENDOR_ARRIVE", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a144054b756a4235b07536f22bd6605ba", null ]
+      [ "EVENT_SAURFANG_CAMP_VENDORS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a76f9c6139ccdbe94f6510ab1814ce2b3", null ]
     ] ],
     [ "AddSC_instance_icecrown_citadel", "d3/d79/instance__icecrown__citadel_8cpp.html#a658ab117fdf89fd0f299ab8b309d41d2", null ],
+    [ "RunTimeTo", "d3/d79/instance__icecrown__citadel_8cpp.html#ac1c87c6183da99718ca0957638d748f9", null ],
     [ "boundaries", "d3/d79/instance__icecrown__citadel_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d3/d79/instance__icecrown__citadel_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "DARKWHISPER_ELEVATOR_DWELL_TIME", "d3/d79/instance__icecrown__citadel_8cpp.html#a4261b9a32b9ea2e0c2bb700926e4da64", null ],
@@ -66,16 +74,14 @@ var instance__icecrown__citadel_8cpp =
     [ "SaurfangCampForgePosA", "d3/d79/instance__icecrown__citadel_8cpp.html#a1d77f9e5c4e95fb367faed291a67d5da", null ],
     [ "SaurfangCampGeneralGoodsPos", "d3/d79/instance__icecrown__citadel_8cpp.html#ae54414052e2b0098959caf63d5249821", null ],
     [ "SaurfangCampGeneralGoodsPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#a95b1c3ac2e86a7595504212854ec17f3", null ],
-    [ "SaurfangCampGoodsDetourPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#ae65e6521b471c0c549d455f41d42caa0", null ],
-    [ "SaurfangCampSmithDetourPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a74fc2f0dfd32e66056fd80be6b17e2fe", null ],
-    [ "SaurfangCampSmithDetourPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#aef10dee0777fa4a757749f9a31fe515b", null ],
     [ "SaurfangCampTeleporterPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a8c79c3a62b6973039ad67c7534cd4366", null ],
     [ "SaurfangCampTentPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#afd2bea553bf20753acf4128ba21ef6fa", null ],
     [ "SaurfangCampTentPosH", "d3/d79/instance__icecrown__citadel_8cpp.html#a20f7cb81b57a95fae6896cacfe482c4b", null ],
-    [ "SaurfangCampWorkerTravel", "d3/d79/instance__icecrown__citadel_8cpp.html#a778113088dad9110ebf8c54f2a434cbf", null ],
-    [ "SaurfangOutroPortalPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a6d47555a03c671abf02c5898dfc582b5", null ],
+    [ "SaurfangCampWorkPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#a52c08a277ee20a0390d98850e00be570", null ],
+    [ "SaurfangCampWorkPosH", "d3/d79/instance__icecrown__citadel_8cpp.html#a94ad69690361fadffc25c5755b375c02", null ],
     [ "SaurfangOutroZeppelinDockRange", "d3/d79/instance__icecrown__citadel_8cpp.html#aab025be546cc6349f6202e72d3c8e3e6", null ],
     [ "SaurfangOutroZeppelinPos", "d3/d79/instance__icecrown__citadel_8cpp.html#ab1e56f91bd2ce7071aa1972dc8410563", null ],
+    [ "SaurfangZeppelinPassengerOffset", "d3/d79/instance__icecrown__citadel_8cpp.html#a06c57b7049c932318b57b1ef8b15bea9", null ],
     [ "SindragosaSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a", null ],
     [ "SylvanasSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a73945b4ee0d52e4d0bd69ddfeb7604fa", null ],
     [ "UtherSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a20e95e9d752a6952f8388301cd386103", null ],

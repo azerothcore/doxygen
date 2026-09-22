@@ -11,6 +11,7 @@ var classBattlegroundIC =
     [ "FillInitialWorldStates", "dc/de8/classBattlegroundIC.html#a4a5ee6dea0efcf02039934e1fc721b31", null ],
     [ "GetClosestGraveyard", "dc/de8/classBattlegroundIC.html#ac3d7672be3cc735fe5fa945319a0898d", null ],
     [ "GetGateIDFromEntry", "dc/de8/classBattlegroundIC.html#a6208616b3ab5d3e47366ff43568d5975", null ],
+    [ "GetICNodePoint", "dc/de8/classBattlegroundIC.html#ac162b3728f73db66fbb4d65386a89c01", null ],
     [ "GetNextBanner", "dc/de8/classBattlegroundIC.html#a19db310e56e24ac18198087cf14d937e", null ],
     [ "GetNodeState", "dc/de8/classBattlegroundIC.html#a3efd5175076dc47ff235af74f246da30", null ],
     [ "GetWorldStateFromGateEntry", "dc/de8/classBattlegroundIC.html#ad203c33c38957ade34c92e9cd5cd82b7", null ],
