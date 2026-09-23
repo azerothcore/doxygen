@@ -1,6 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3707],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[7,0,3707,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX249 =
 "d9/d63/classTypeUnorderedMapContainer.html#a289258c9015016a70d2867df7e113def":[7,0,4625,5],
 "d9/d63/classTypeUnorderedMapContainer.html#a5a9666fc5f0136a778d8c542a386d4bf":[7,0,4625,4],
 "d9/d63/classTypeUnorderedMapContainer.html#a653b00a9d570ae9d9276a061beda3f35":[7,0,4625,1],
-"d9/d63/classTypeUnorderedMapContainer.html#ad61d9aa314133d8eba934fe56cff48e0":[7,0,4625,3]
+"d9/d63/classTypeUnorderedMapContainer.html#ad61d9aa314133d8eba934fe56cff48e0":[7,0,4625,3],
+"d9/d63/classTypeUnorderedMapContainer.html#adda6657e9a0fd08b105cd4d6b2baa9d3":[7,0,4625,6]
 };

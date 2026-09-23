@@ -1,6 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d4/d3c/brann__bronzebeard_8cpp.html#a49fc24188539cabd30ad001d855d225aae8692a3df639ca2ee892cfde012069fe":[8,0,0,0,1,3,5,9,1,3,7,0],
 "d4/d3c/brann__bronzebeard_8cpp.html#a49fc24188539cabd30ad001d855d225aaff3700d402ddbf5ff5a2645aa560cbc1":[8,0,0,0,1,3,5,9,1,3,7,4],
 "d4/d3c/brann__bronzebeard_8cpp.html#a4a7a99e31a4c3a2d6d4ea55835e8d8d7":[8,0,0,0,1,3,5,9,1,3,17],
 "d4/d3c/brann__bronzebeard_8cpp.html#a4d506003ef46dcfcd2997e90578fcbd5":[8,0,0,0,1,3,5,9,1,3,6],
@@ -109,8 +108,8 @@ var NAVTREEINDEX128 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[7,0,3027,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[7,0,3027,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[7,0,3027,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[7,0,13,15,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,34,15,4],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[7,0,13,15,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,34,15,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[7,0,13,15,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[7,0,2240,0],
@@ -161,12 +160,12 @@ var NAVTREEINDEX128 =
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[7,0,605,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,34,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,34,6,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,34,6,8,0],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,34,6,8,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[7,0,13,6,8,1],
 "d4/d46/classinstance__uldaman.html":[7,0,1394],
@@ -249,5 +248,6 @@ var NAVTREEINDEX128 =
 "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa467eec31320e37f6518124c6a8ca057":[8,0,0,0,1,3,5,10,0,1,6,1],
 "d4/d4f/classAggressorAI.html":[7,0,148],
 "d4/d4f/classAggressorAI.html#a2d4ba3a557832466f29906972d1e14fd":[7,0,148,0],
-"d4/d4f/classAggressorAI.html#a7867a9ca7249eb94a712e34833fae930":[7,0,148,1]
+"d4/d4f/classAggressorAI.html#a7867a9ca7249eb94a712e34833fae930":[7,0,148,1],
+"d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b":[7,0,148,2]
 };

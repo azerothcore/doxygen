@@ -1,6 +1,5 @@
 var NAVTREEINDEX72 =
 {
-"d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[7,0,2581,57],
 "d2/d8f/structScriptInfo.html#a9bd4877584a1b9cd57cb2e99ed663a4c":[7,0,2581,51],
 "d2/d8f/structScriptInfo.html#a9f71c987bc9f39d6542cf2b7e70ad055":[7,0,2581,3],
 "d2/d8f/structScriptInfo.html#aa662f7e7d7eb2ecf9e90086371b38a5d":[7,0,2581,61],
@@ -185,8 +184,8 @@ var NAVTREEINDEX72 =
 "d2/d9a/classnpc__gothik__trigger.html":[7,0,1870],
 "d2/d9a/classnpc__gothik__trigger.html#a6975122d49b0d76fb2b33b310a7ccb71":[7,0,1870,1],
 "d2/d9a/classnpc__gothik__trigger.html#a9b3b47e95d2c41c109a9ccd3915b89ff":[7,0,1870,2],
-"d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html":[5,0,20,7],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html":[7,0,6,7],
+"d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html":[5,0,20,7],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html#a70ec58f039b03d2fed3cb7692622c4dc":[7,0,6,7,0],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html#a70ec58f039b03d2fed3cb7692622c4dc":[5,0,20,7,0],
 "d2/d9a/structboss__fathomguard__sharkkis.html":[7,0,478],
@@ -249,5 +248,6 @@ var NAVTREEINDEX72 =
 "d2/da1/structSpell_1_1GOTargetInfo.html#aedfa36678be863a558ecd0ecc07cc544":[7,0,2646,0,1],
 "d2/da2/classspell__gen__ds__flush__knockback.html":[7,0,3072],
 "d2/da2/classspell__gen__ds__flush__knockback.html#a54bb0fe145f99ea484724052c8bb1227":[7,0,3072,2],
-"d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[7,0,3072,1]
+"d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[7,0,3072,1],
+"d2/da2/classspell__gen__ds__flush__knockback.html#af6d3dd97d3254dbfcd6b611b26e0e61d":[7,0,3072,0]
 };

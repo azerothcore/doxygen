@@ -1,6 +1,5 @@
 var NAVTREEINDEX71 =
 {
-"d2/d84/structBattlegroundAB_1_1CapturePointInfo.html":[7,0,331,0],
 "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html#a43228afe59b8fa004d2c740dd6262f8e":[7,0,331,0,3],
 "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html#a47ba3bbadd15909726e87dc5adc67686":[7,0,331,0,0],
 "d2/d84/structBattlegroundAB_1_1CapturePointInfo.html#a58adc22a7246dd7362efcf9d9a1891ad":[7,0,331,0,2],
@@ -48,10 +47,10 @@ var NAVTREEINDEX71 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8b656a464525e881944e72e9486b0eb9":[7,0,2051,0,7],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8ecaebfcf1c1fbe8ed263be6148ccef6":[7,0,2051,0,5],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[7,0,2051,0,4],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[7,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,0,5,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[7,0,0,3,1,1],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[7,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,0,5,1,1],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[7,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[7,0,0,3,1,0],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,0,5,1,0],
 "d2/d8a/TicketScript_8cpp.html":[8,0,0,0,1,2,38,0,84],
@@ -98,8 +97,8 @@ var NAVTREEINDEX71 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,0,67,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[7,0,0,55,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,0,67,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[7,0,0,55,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,0,67,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[7,0,0,55,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,0,67,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[7,0,0,55,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,0,67,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX71 =
 "d2/d8f/structScriptInfo.html#a950d9dd96507f8899c571682934bce7a":[7,0,2581,33],
 "d2/d8f/structScriptInfo.html#a978ce757c179a2f009f6e13774ab8afe":[7,0,2581,32],
 "d2/d8f/structScriptInfo.html#a98139443889cfa2bc14e3b24ad58a8fc":[7,0,2581,45],
-"d2/d8f/structScriptInfo.html#a99a0e689690b668dc35678414257f17a":[7,0,2581,59]
+"d2/d8f/structScriptInfo.html#a99a0e689690b668dc35678414257f17a":[7,0,2581,59],
+"d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[7,0,2581,57]
 };

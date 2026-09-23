@@ -1,6 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3":[8,0,0,0,1,3,6,2,6,1],
 "d8/d70/OutdoorPvPEP_8h.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc":[8,0,0,0,1,3,6,2,6,3],
 "d8/d70/OutdoorPvPEP_8h.html#adae054ab5e44ffc0c7a528c417aff670":[8,0,0,0,1,3,6,2,14],
 "d8/d70/OutdoorPvPEP_8h.html#af18f636f66cc238611a1f2dd03b2ddcb":[8,0,0,0,1,3,6,2,26],
@@ -249,5 +248,6 @@ var NAVTREEINDEX230 =
 "d8/d74/classWorldSession.html#a4436af8c79f7757142c966d4e87af84b":[4,1,19,177],
 "d8/d74/classWorldSession.html#a4468ba5e2473de51ebaa0e7e1d2e9e14":[4,1,19,634],
 "d8/d74/classWorldSession.html#a45cafabe37b4d230ec861de42588af05":[4,1,19,494],
-"d8/d74/classWorldSession.html#a460438021e2bbb551f6bb4a7a4077845":[4,1,19,640]
+"d8/d74/classWorldSession.html#a460438021e2bbb551f6bb4a7a4077845":[4,1,19,640],
+"d8/d74/classWorldSession.html#a462ec92e222d0bef7fd110ff78cc44aa":[4,1,19,137]
 };

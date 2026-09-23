@@ -1,6 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada51fc486ed3d64b5824569705339c4cdf":[8,0,0,0,1,3,2,30,28,34],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada587ec5269dc8c00fcede4453ca5feeb1":[8,0,0,0,1,3,2,30,28,74],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,2,30,28,85],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada5b24ca68418733e9b7dd40e4cfe016d0":[8,0,0,0,1,3,2,30,28,31],
@@ -249,5 +248,6 @@ var NAVTREEINDEX314 =
 "db/ddb/classnpc__black__knight__ghoul.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0":[7,0,1697,1],
 "db/ddb/classnpc__blood__queen__lana__thel.html":[7,0,1706],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[7,0,1706,2],
-"db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[7,0,1706,1]
+"db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[7,0,1706,1],
+"db/ddc/ItemPackets_8cpp.html":[8,0,0,0,1,2,39,0,17]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a71d875578da0ac5e5ef35114fa0fe497":[8,0,0,0,1,3,5,2,1,3,13,4],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a907eda8d0c124f843484a3768c09353a":[8,0,0,0,1,3,5,2,1,3,13,2],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aac17b82b05bda4ebb03cc50649402ac0":[8,0,0,0,1,3,5,2,1,3,13,7],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769abc140d9f29940e54fb6a6b98a72979a7":[8,0,0,0,1,3,5,2,1,3,13,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX138 =
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a5ff171e60550d324e843a218b596adff":[7,0,1354,0,30],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a5ffc03f0e405a78d1eaed27d1ee6fb98":[7,0,1354,0,50],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a612b1ed413ec93d3570ab401cfab7abd":[7,0,1354,0,83],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a62e5a79ba042dcb0356a53357acf1ab9":[7,0,1354,0,73]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a62e5a79ba042dcb0356a53357acf1ab9":[7,0,1354,0,73],
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a68e3286d52c922444bdb8ebf3579d01e":[7,0,1354,0,82]
 };

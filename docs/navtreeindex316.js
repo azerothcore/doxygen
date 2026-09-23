@@ -1,6 +1,5 @@
 var NAVTREEINDEX316 =
 {
-"db/de6/structTargetInfo.html#a6c17740427f4f90c7c2e4fb4854ab4b3":[7,0,4561,5],
 "db/de6/structTargetInfo.html#a85196e5b5865856962898c18001880c7":[7,0,4561,3],
 "db/de6/structTargetInfo.html#a89bba366b26686d41288e9b2e725eb75":[7,0,4561,8],
 "db/de6/structTargetInfo.html#a908278bd46f9be3e1191f4883f9eb32f":[7,0,4561,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX316 =
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5":[8,0,0,0,1,3,7,2,3,3,5,6],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2":[8,0,0,0,1,3,7,2,3,3,5,9],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed":[8,0,0,0,1,3,7,2,3,3,5,3],
-"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b":[8,0,0,0,1,3,7,2,3,3,5,5]
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b":[8,0,0,0,1,3,7,2,3,3,5,5],
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,7,2,3,3,5,1]
 };

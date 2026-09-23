@@ -1,6 +1,5 @@
 var NAVTREEINDEX234 =
 {
-"d8/d83/blackwing__lair_8h.html#a82a479b9c6b812beefeb3a8ced1438aa":[8,0,0,0,1,3,2,1,2,0,2],
 "d8/d83/blackwing__lair_8h.html#a99e2d9e686221aea62f0c3c69adf41af":[8,0,0,0,1,3,2,1,2,0,3],
 "d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034":[8,0,0,0,1,3,2,1,2,0,5],
 "d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a0f43fc873c98f50d6e927819dfb898f8":[8,0,0,0,1,3,2,1,2,0,5,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX234 =
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a2b8edec48cdf6e3374cf2c94cfc7734d":[8,0,0,0,1,3,5,9,2,5,13,17],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b0e2ea70a80eed9f0fce8465c41d189":[8,0,0,0,1,3,5,9,2,5,13,6],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a3b8f601a6c2e439263cb1622f2a41f47":[8,0,0,0,1,3,5,9,2,5,13,19],
-"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4863107801f09934a453e224f6615c76":[8,0,0,0,1,3,5,9,2,5,13,20]
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4863107801f09934a453e224f6615c76":[8,0,0,0,1,3,5,9,2,5,13,20],
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7":[8,0,0,0,1,3,5,9,2,5,13,15]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX237 =
 {
-"d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d25f01fd5e72e1023957bc915f3ba25":[8,0,0,0,1,3,5,7,4,14,6],
 "d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a523968170d66b0e44feedbac7613b293":[8,0,0,0,1,3,5,7,4,14,4],
 "d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab20f5b26ef86cfaf2a6a061d6687358b":[8,0,0,0,1,3,5,7,4,14,1],
 "d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae05dc092bb50bad35884fc7f2c334fb5":[8,0,0,0,1,3,5,7,4,14,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX237 =
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,0,8,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[7,0,0,5,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,0,8,0,10,0],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0]
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
+"d8/dbf/structLFGDungeonEntry.html":[7,0,1457]
 };

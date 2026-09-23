@@ -1,6 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/d09/TerrainBuilder_8cpp.html#a42b8b790a3d284e7116bcad1c391b8f9":[8,0,0,0,3,2,8,7],
 "df/d09/TerrainBuilder_8cpp.html#a59daadc7c96729526e05982ec6600bb1":[8,0,0,0,3,2,8,6],
 "df/d09/TerrainBuilder_8cpp.html#a5ec110bd30ec47fcd087aaf5d572de28":[8,0,0,0,3,2,8,13],
 "df/d09/TerrainBuilder_8cpp.html#a661f965d11d7da56890b64484d871441":[8,0,0,0,3,2,8,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX404 =
 "df/d14/classPet.html#a8b746e4d29e8c0b9f1ed2d7b3be2c0f7":[7,0,2430,56],
 "df/d14/classPet.html#a8c7308b81b808c23b878b99cb78d6598":[7,0,2430,62],
 "df/d14/classPet.html#a8ed323b81d6c9692ab2455d14e9e640e":[7,0,2430,16],
-"df/d14/classPet.html#a8f56752c756a9a41e647e03712b9466b":[7,0,2430,13]
+"df/d14/classPet.html#a8f56752c756a9a41e647e03712b9466b":[7,0,2430,13],
+"df/d14/classPet.html#a92463c5ce83b9c8f0a74ccd685a86078":[7,0,2430,48]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX216 =
 {
-"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aee871ff356bcfd38162a5f6c9bd3c994":[7,0,586,0,7],
 "d7/db3/structboss__olm__the__summoner.html":[7,0,659],
 "d7/db3/structboss__olm__the__summoner.html#a07cde4fc7bc882db40b51426dc40ab93":[7,0,659,1],
 "d7/db3/structboss__olm__the__summoner.html#a448ba3a88156e80eebad44585791ab21":[7,0,659,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX216 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,2,1,4,15,7],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae1af0b90925faa94026f02e3322dff5d":[8,0,0,0,1,3,5,2,1,4,15,5],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af30a7c83908023513ec50a5bd4da3833":[8,0,0,0,1,3,5,2,1,4,15,3],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[8,0,0,0,1,3,5,2,1,4,14]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[8,0,0,0,1,3,5,2,1,4,14],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a1628fb0c56457783cf8b51260c089a77":[8,0,0,0,1,3,5,2,1,4,14,7]
 };

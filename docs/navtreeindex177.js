@@ -1,6 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a213cb11cf2a4c3f15c4135be099c746b":[8,0,0,0,1,3,10,17,0,43],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a22f67734d2a5672927ca70a8cd9925cf":[8,0,0,0,1,3,10,17,0,8],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a2408efa0dbdb07f300f597c4e3130f99":[8,0,0,0,1,3,10,17,0,23],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a27c781dfa53284d01b5e17522950c078":[8,0,0,0,1,3,10,17,0,41],
@@ -249,5 +248,6 @@ var NAVTREEINDEX177 =
 "d6/d38/classAchievementGlobalMgr.html#a1dc84c9b8243eb9bc8626e63fb421023":[7,0,122,22],
 "d6/d38/classAchievementGlobalMgr.html#a1ef8eb6c302f0d5deb887f9b03b1ea4a":[7,0,122,24],
 "d6/d38/classAchievementGlobalMgr.html#a29193ffa36b0698e365d57b25dbcafb9":[7,0,122,10],
-"d6/d38/classAchievementGlobalMgr.html#a2b4dc8e045dd563567a55570e37b86fb":[7,0,122,14]
+"d6/d38/classAchievementGlobalMgr.html#a2b4dc8e045dd563567a55570e37b86fb":[7,0,122,14],
+"d6/d38/classAchievementGlobalMgr.html#a2c86d0034b6246f85737d17cb96abe7f":[7,0,122,33]
 };

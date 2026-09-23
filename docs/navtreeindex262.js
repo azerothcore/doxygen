@@ -1,6 +1,5 @@
 var NAVTREEINDEX262 =
 {
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acec1edac7a5f12066ff1eece952bcbb7":[8,0,0,0,1,3,5,9,2,16,4,44],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acf1fb682eb9a04679d941e02b7bfd470":[8,0,0,0,1,3,5,9,2,16,4,48],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad5c985923ec772e9f8e41e2ff4fd9528":[8,0,0,0,1,3,5,9,2,16,4,42],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad8828c678b2dfc9e6712c730388aaa02":[8,0,0,0,1,3,5,9,2,16,4,36],
@@ -249,5 +248,6 @@ var NAVTREEINDEX262 =
 "d9/dfd/structPoolSession.html#a6915499b95c29a00cde15c5a7f562158":[7,0,2477,1],
 "d9/dff/classCreatureTextLocalizer.html":[7,0,970],
 "d9/dff/classCreatureTextLocalizer.html#a1a03d45dfd3c6c5f6f4995d5efe238a5":[7,0,970,1],
-"d9/dff/classCreatureTextLocalizer.html#a1d8d97d3e423810d044a8155b182899d":[7,0,970,3]
+"d9/dff/classCreatureTextLocalizer.html#a1d8d97d3e423810d044a8155b182899d":[7,0,970,3],
+"d9/dff/classCreatureTextLocalizer.html#a660b352a1c1855f4b10a8aebef88133f":[7,0,970,5]
 };

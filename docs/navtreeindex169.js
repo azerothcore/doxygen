@@ -1,6 +1,5 @@
 var NAVTREEINDEX169 =
 {
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[7,0,0,74,2],
 "d5/df2/structMySQLType_3_01int8_01_4.html":[7,0,1606],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html":[7,0,1745,0],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a07845a436ded9c799b742ac9e27cc1bd":[7,0,1745,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX169 =
 "d5/dfb/classObjectMgr.html#a52e400d11bffc1861b9e6ec28d95ddfb":[7,0,2365,357],
 "d5/dfb/classObjectMgr.html#a52ea3c1999492494c02a676cc140b521":[7,0,2365,287],
 "d5/dfb/classObjectMgr.html#a52fa237587b2523bc8b14f7140e8705f":[7,0,2365,224],
-"d5/dfb/classObjectMgr.html#a5311a0ce8112034af0df23fc54fb0a7e":[7,0,2365,231]
+"d5/dfb/classObjectMgr.html#a5311a0ce8112034af0df23fc54fb0a7e":[7,0,2365,231],
+"d5/dfb/classObjectMgr.html#a536421a05c0882a479d172469c16339f":[7,0,2365,367]
 };

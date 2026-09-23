@@ -1,6 +1,5 @@
 var NAVTREEINDEX258 =
 {
-"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a7df4da85c40ba1c34063df9b2df5874b":[7,0,457,0,6],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a895f302d336faa0c3f93854314d3b427":[7,0,457,0,4],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a9a3b4e6df73586125c0369aa2d3666df":[7,0,457,0,3],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ab08f49aabe76b623496da2fc0198a6c1":[7,0,457,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX258 =
 "d9/dcc/classnpc__swarm__scarab.html":[7,0,2211],
 "d9/dcc/classnpc__swarm__scarab.html#a1d0969526e57ca50c9a499c83f978fd2":[7,0,2211,1],
 "d9/dcc/classnpc__swarm__scarab.html#ae12fe8a7c6ee09fc16bd152f59c2d936":[7,0,2211,2],
-"d9/dcc/classnpc__torturer__lecraft.html":[7,0,2260]
+"d9/dcc/classnpc__torturer__lecraft.html":[7,0,2260],
+"d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[7,0,2260,1]
 };

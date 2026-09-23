@@ -1,6 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"d5/d99/firework__show__BootyBay_8h.html#aed5048221cf1d35ad3d4989da8786617":[8,0,0,0,1,3,3,0,2,2],
 "d5/d99/firework__show__BootyBay_8h.html#aeff31f29bacaf8ca10d5caee61627422":[8,0,0,0,1,3,3,0,2,1],
 "d5/d99/instance__arcatraz_8cpp.html":[8,0,0,0,1,3,7,5,0,6],
 "d5/d99/instance__arcatraz_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,5,0,6,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX160 =
 "d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#aa3aca24bc97bcd9a2030fccf6782cf9c":[7,0,1983,0,6],
 "d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#afb9763ade36bd742398a8bca961c136b":[7,0,1983,0,2],
 "d5/da4/classspell__warl__soul__leech.html":[7,0,4369],
-"d5/da4/classspell__warl__soul__leech.html#a1ebfd477399cbac2cba33cfd90db72e6":[7,0,4369,0]
+"d5/da4/classspell__warl__soul__leech.html#a1ebfd477399cbac2cba33cfd90db72e6":[7,0,4369,0],
+"d5/da4/classspell__warl__soul__leech.html#a28c281aeef80409b419753f71da80f92":[7,0,4369,3]
 };

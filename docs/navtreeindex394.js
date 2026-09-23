@@ -1,6 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,34,6,43,2],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[7,0,13,6,43,2],
 "de/d9d/FormulaScript_8cpp.html":[8,0,0,0,1,2,38,0,47],
 "de/d9d/FormulaScript_8cpp.html#a774b8f7659d09535a55ac9bbdcf46025":[8,0,0,0,1,2,38,0,47,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX394 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a494e95a33cf6fd5a044ae914d78eba5f":[8,0,0,0,1,1,0,0,1,1,0],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4c80798544de3c08a54a8b3262fa1f92":[8,0,0,0,1,1,0,0,1,1,445],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4cf872a07776f267c8ccf99d70064df6":[8,0,0,0,1,1,0,0,1,1,173],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4dcfa493a586b17a803ce013c1a278a5":[8,0,0,0,1,1,0,0,1,1,7]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4dcfa493a586b17a803ce013c1a278a5":[8,0,0,0,1,1,0,0,1,1,7],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4de0ed9177d3b3e4d9e9b1854088b34d":[8,0,0,0,1,1,0,0,1,1,105]
 };

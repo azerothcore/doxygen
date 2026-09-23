@@ -1,6 +1,5 @@
 var NAVTREEINDEX190 =
 {
-"d6/db3/structPetSpell.html":[7,0,2441],
 "d6/db3/structPetSpell.html#a0600418cb460fdaf8093bfa609e796c8":[7,0,2441,1],
 "d6/db3/structPetSpell.html#a4c4a7d0f299ae4e2ceb146a741057032":[7,0,2441,2],
 "d6/db3/structPetSpell.html#a9460571d6fc219ab8c475aab34fc9494":[7,0,2441,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX190 =
 "d6/dc1/ChatCommandTags_8h.html#ac61bb0d0d29d3ccc94188eb93516adf5":[8,0,0,0,1,2,11,1,7,14],
 "d6/dc1/ChatCommandTags_8h.html#ae9ad890da39c16320a177ed5fbdffdf1":[8,0,0,0,1,2,11,1,7,12],
 "d6/dc1/ChatCommandTags_8h.html#af98497f511ab4c536bd80e08ff605c04":[8,0,0,0,1,2,11,1,7,11],
-"d6/dc1/classspell__xt002__stand.html":[7,0,4432]
+"d6/dc1/classspell__xt002__stand.html":[7,0,4432],
+"d6/dc1/classspell__xt002__stand.html#a679cf770e38e1fda66f8a64fff53f968":[7,0,4432,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX111 =
 {
-"d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c7f832eea62a03032fd69d34ebd3a4f":[8,0,0,0,1,3,2,15,0,9,5],
 "d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298ca50e3d81c5a603b0e8714957f0f9417ed":[8,0,0,0,1,3,2,15,0,9,6],
 "d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298ca694b69d86383f665becbce0011f3470c":[8,0,0,0,1,3,2,15,0,9,3],
 "d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[8,0,0,0,1,3,2,15,0,9,0],
@@ -196,12 +195,12 @@ var NAVTREEINDEX111 =
 "d3/db9/classPacketHandler.html#ae28d6ea18799c4dc90be8225fd2fad66":[7,0,2412,0],
 "d3/db9/map__extractor_2mpq__libmpq_8cpp.html":[8,0,0,0,3,1,6],
 "d3/db9/map__extractor_2mpq__libmpq_8cpp.html#a8ae40ebe73635e831bc65b70e7f97f3c":[8,0,0,0,3,1,6,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[7,0,13,8,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,34,8,12],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[7,0,13,8,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[7,0,13,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,34,8,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,34,8,12,0],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,34,8,12,2],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[7,0,13,8,12,2],
 "d3/dbb/Battleground_8cpp.html":[8,0,0,0,1,2,8,9],
@@ -225,12 +224,12 @@ var NAVTREEINDEX111 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[7,0,6,0,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,20,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[7,0,6,0,2,1],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[7,0,6,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[7,0,4642,1],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#a02538aefc1b014b60957d4c67793000f":[7,0,4642,1,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aca34dff6659f2da63f31e12bb41cf3d0":[7,0,4642,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX111 =
 "d3/dbd/DBCStructure_8h.html#a22f3ed43957e7cda0874bdf343b03d4b":[8,0,0,0,1,4,0,7,137],
 "d3/dbd/DBCStructure_8h.html#a3ac65d8635b4379f0d5b75a0e2dfd9c8":[8,0,0,0,1,4,0,7,117],
 "d3/dbd/DBCStructure_8h.html#a40412d1e32e215a5270cf717434ae108":[8,0,0,0,1,4,0,7,124],
-"d3/dbd/DBCStructure_8h.html#a415cc3633225b2cfe241a12bce9aeb9b":[8,0,0,0,1,4,0,7,145]
+"d3/dbd/DBCStructure_8h.html#a415cc3633225b2cfe241a12bce9aeb9b":[8,0,0,0,1,4,0,7,145],
+"d3/dbd/DBCStructure_8h.html#a5925e58fbd29a3a77ff05ab092fa1f77":[8,0,0,0,1,4,0,7,138]
 };

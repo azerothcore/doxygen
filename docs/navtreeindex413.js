@@ -1,6 +1,5 @@
 var NAVTREEINDEX413 =
 {
-"df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[7,0,3821,1],
 "df/d68/classinstance__blood__furnace.html":[7,0,1338],
 "df/d68/classinstance__blood__furnace.html#a885ba94e1777dfd6586daca304622d3d":[7,0,1338,2],
 "df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[7,0,1338,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX413 =
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae9af40d90c3f2ee62c2642e8167025bb":[8,0,0,0,1,3,5,1,0,0,9,12],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb7030afec0f5f6b581bd6ebc1ef8cf4":[8,0,0,0,1,3,5,1,0,0,9,18],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa0f48eb71475a09fc15e50ec0ebb216":[8,0,0,0,1,3,5,1,0,0,9,4],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6686ed7d552a8aa82e258dd8606832":[8,0,0,0,1,3,5,1,0,0,9,15]
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6686ed7d552a8aa82e258dd8606832":[8,0,0,0,1,3,5,1,0,0,9,15],
+"df/d72/classAccountMgr.html":[7,0,30]
 };

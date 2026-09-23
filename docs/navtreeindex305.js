@@ -1,6 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a61a40ce0b6ea77a9af8604e6ee99bbf6":[5,0,21,7,30],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a6c53cb3b6c36d1e7e058ce077d515fe2":[7,0,7,7,10],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a6c53cb3b6c36d1e7e058ce077d515fe2":[5,0,21,7,10],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a6cee62e57b7634cbd0f9c1e32937a05a":[7,0,7,7,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX305 =
 "db/da4/classPetAI.html#acccb6f24c7b1bb0762d542fdc013b330":[7,0,2432,8],
 "db/da4/classPetAI.html#ad917a38ff0553bd974694f37242076b0":[7,0,2432,5],
 "db/da4/classPetAI.html#adce9ae35cf2bb90c5b9bfeccb93d9778":[7,0,2432,24],
-"db/da4/classPetAI.html#add179efcb9c2ed0dd01aa3b2ac74004b":[7,0,2432,22]
+"db/da4/classPetAI.html#add179efcb9c2ed0dd01aa3b2ac74004b":[7,0,2432,22],
+"db/da4/classPetAI.html#adea0e094c01741e6d883a3a378ceaced":[7,0,2432,15]
 };

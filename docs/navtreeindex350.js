@@ -1,6 +1,5 @@
 var NAVTREEINDEX350 =
 {
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a193f6b29e1a4f07a90b5839e7cd9bd05":[8,0,0,0,1,3,4,9,7,6,2],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a485374e988cafa135e5776f1f3aa8638":[8,0,0,0,1,3,4,9,7,6,1],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f091068e93fe04fde1b2d77d34d5fcf":[8,0,0,0,1,3,4,9,7,6,3],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af43e097e08b8abfcf8578505722488c0":[8,0,0,0,1,3,4,9,7,6,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX350 =
 "dd/d63/structlfg_1_1LfgProposalPlayer.html":[7,0,5,11],
 "dd/d63/structlfg_1_1LfgProposalPlayer.html#a54ab4a0f32cc3abc7489fc9c3655fe99":[7,0,5,11,3],
 "dd/d63/structlfg_1_1LfgProposalPlayer.html#a54ab4a0f32cc3abc7489fc9c3655fe99":[5,0,17,11,3],
-"dd/d63/structlfg_1_1LfgProposalPlayer.html#a80f7d0f3597201dc7fca4d08dd3b7a38":[5,0,17,11,0]
+"dd/d63/structlfg_1_1LfgProposalPlayer.html#a80f7d0f3597201dc7fca4d08dd3b7a38":[5,0,17,11,0],
+"dd/d63/structlfg_1_1LfgProposalPlayer.html#a80f7d0f3597201dc7fca4d08dd3b7a38":[7,0,5,11,0]
 };

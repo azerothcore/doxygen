@@ -1,6 +1,5 @@
 var NAVTREEINDEX157 =
 {
-"d5/d76/classPlayerTaxi.html#a4313e575d9bd2a60852f5e944f79ac71":[7,0,2466,10],
 "d5/d76/classPlayerTaxi.html#a487e2760da8446a3c34dddc2d4c5c0f5":[7,0,2466,7],
 "d5/d76/classPlayerTaxi.html#a52ed114d167bcc8079fe37c410b25b31":[7,0,2466,20],
 "d5/d76/classPlayerTaxi.html#a6261b2b052d1a8385a480372450c7191":[7,0,2466,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX157 =
 "d5/d7c/classAuctionHouseSearcher.html#a09e01dd8840a50f6b6dd5f70ad9ec10c":[7,0,275,2],
 "d5/d7c/classAuctionHouseSearcher.html#a145da4d009d9814a4e76fae0d02f33e4":[7,0,275,6],
 "d5/d7c/classAuctionHouseSearcher.html#a1b70b786bf6e57d9d9cae8f34f0d779b":[7,0,275,4],
-"d5/d7c/classAuctionHouseSearcher.html#a443577cfba0af003e7e0e8834474a6c1":[7,0,275,3]
+"d5/d7c/classAuctionHouseSearcher.html#a443577cfba0af003e7e0e8834474a6c1":[7,0,275,3],
+"d5/d7c/classAuctionHouseSearcher.html#a53caf3298638d325a8b9e97584296ad3":[7,0,275,5]
 };

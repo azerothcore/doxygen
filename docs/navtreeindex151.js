@@ -1,6 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"d5/d43/classspell__alystros__lapsing__dream__aura.html#a0db3843573837c53aeeaca69a6019d06":[7,0,2664,3],
 "d5/d43/classspell__alystros__lapsing__dream__aura.html#a39e103c4bd60ce54eb7ecbdb37013e04":[7,0,2664,0],
 "d5/d43/classspell__alystros__lapsing__dream__aura.html#a66933e6f4b5689b0b05de63aa7402354":[7,0,2664,2],
 "d5/d43/classspell__alystros__lapsing__dream__aura.html#ac198489764c878822e38a1ea225ab287":[7,0,2664,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX151 =
 "d5/d4f/structSkillDiscoveryEntry.html":[7,0,2614],
 "d5/d4f/structSkillDiscoveryEntry.html#a301cae078fe1943cae045e94dc3d38ad":[7,0,2614,1],
 "d5/d4f/structSkillDiscoveryEntry.html#a54c0f12153c6e63a37e5da44d233b271":[7,0,2614,0],
-"d5/d4f/structSkillDiscoveryEntry.html#a61e0edc8fee1fa4045d846668d08449c":[7,0,2614,3]
+"d5/d4f/structSkillDiscoveryEntry.html#a61e0edc8fee1fa4045d846668d08449c":[7,0,2614,3],
+"d5/d4f/structSkillDiscoveryEntry.html#a71cf2c48937e5a2a3c6dd8c499a860a7":[7,0,2614,2]
 };

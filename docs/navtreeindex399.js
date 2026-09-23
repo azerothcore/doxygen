@@ -1,6 +1,5 @@
 var NAVTREEINDEX399 =
 {
-"de/db9/structnpc__highlord__darion__mograine.html#aa07c3ee6c928cb383ce4904f81215e52":[7,0,1899,6],
 "de/db9/structnpc__highlord__darion__mograine.html#aadce21a79e49b42c8bf950408f7055c7":[7,0,1899,13],
 "de/db9/structnpc__highlord__darion__mograine.html#aaff5b7f078177efc4e4bf1f7201fd7a8":[7,0,1899,10],
 "de/db9/structnpc__highlord__darion__mograine.html#abce72b1d643e2468f980e554eb5bbc78":[7,0,1899,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX399 =
 "de/dcc/classspell__dk__blood__boil.html#ae9eeb78d006bc01dd05fdd726dea9b90":[7,0,2826,3],
 "de/dcc/classspell__dk__blood__boil.html#afdbb71f81aacc9ac1a5119707952ec52":[7,0,2826,4],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html":[7,0,3212],
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a0ff7bbd0dea458b15231ecf419b1c49c":[7,0,3212,3]
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a0ff7bbd0dea458b15231ecf419b1c49c":[7,0,3212,3],
+"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[7,0,3212,0]
 };

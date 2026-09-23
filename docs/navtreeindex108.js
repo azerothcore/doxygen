@@ -1,6 +1,5 @@
 var NAVTREEINDEX108 =
 {
-"d3/d9a/classspell__dk__corpse__explosion.html#a731aa2c0a2b67b8a15cab72ea2cb961a":[7,0,2833,0],
 "d3/d9a/classspell__dk__corpse__explosion.html#a810fc65eb5d7160366d63210bad9caea":[7,0,2833,3],
 "d3/d9a/classspell__dk__corpse__explosion.html#a93984e8b831cb4c37ec2726d44532d43":[7,0,2833,7],
 "d3/d9a/classspell__dk__corpse__explosion.html#a9e67ea51300569a0e163cb3e427b086e":[7,0,2833,6],
@@ -216,8 +215,8 @@ var NAVTREEINDEX108 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00aed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,7,3,1,5,7],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a79b8e9b872a1c2b80ceefb2d55901a00af01fc976fe7d4ab3beae4c372bc5920c":[8,0,0,0,1,3,7,3,1,5,11],
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[8,0,0,0,1,3,7,3,1,6],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,42],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[7,0,0,30],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,0,42],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,0,42,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[7,0,0,30,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,0,42,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX108 =
 "d3/d9f/classObjectVisibilityContainer.html#abf9656ab1132b64e991bcf267fc10c7f":[7,0,2368,6],
 "d3/d9f/classObjectVisibilityContainer.html#ac2a417b5314139baf38ba1d7754bb5bb":[7,0,2368,16],
 "d3/d9f/classObjectVisibilityContainer.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9":[7,0,2368,4],
-"d3/d9f/classObjectVisibilityContainer.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7":[7,0,2368,12]
+"d3/d9f/classObjectVisibilityContainer.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7":[7,0,2368,12],
+"d3/d9f/classspell__eadric__radiance.html":[7,0,2962]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX410 =
 {
-"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[7,0,1628,1],
 "df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[7,0,1628,2],
 "df/d39/boss__ouro_8cpp.html":[8,0,0,0,1,3,4,9,4],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,9,4,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX410 =
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9":[8,0,0,0,1,3,4,14,2,20],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10":[8,0,0,0,1,3,4,14,2,8],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4":[8,0,0,0,1,3,4,14,2,12],
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e":[8,0,0,0,1,3,4,14,2,0]
+"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e":[8,0,0,0,1,3,4,14,2,0],
+"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203":[8,0,0,0,1,3,4,14,2,14]
 };

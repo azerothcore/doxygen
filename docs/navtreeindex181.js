@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,2,8,0,11,0],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8":[8,0,0,0,1,3,2,8,0,11,7],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520":[8,0,0,0,1,3,2,8,0,11,8],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b":[8,0,0,0,1,3,2,8,0,11,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX181 =
 "d6/d5a/structboss__doomwalker.html":[7,0,443],
 "d6/d5a/structboss__doomwalker.html#a0004e96e25d8f5ad9393e3cdb3a4ce70":[7,0,443,7],
 "d6/d5a/structboss__doomwalker.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f":[7,0,443,2],
-"d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[7,0,443,3]
+"d6/d5a/structboss__doomwalker.html#a2335eb642940397f73ee2a8051624e8e":[7,0,443,3],
+"d6/d5a/structboss__doomwalker.html#a3105c50e512c6f709985cece619b131f":[7,0,443,6]
 };

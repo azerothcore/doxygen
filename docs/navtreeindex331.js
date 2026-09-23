@@ -1,6 +1,5 @@
 var NAVTREEINDEX331 =
 {
-"dc/d5b/classnpc__highborne__lamenter.html#a40316cf73a688e34e95dd41feef8612a":[7,0,1898,1],
 "dc/d5b/classnpc__highborne__lamenter.html#aad8ccb43b325b797f60a16e338458a1e":[7,0,1898,2],
 "dc/d5b/classspell__shield__of__runes__aura.html":[7,0,4160],
 "dc/d5b/classspell__shield__of__runes__aura.html#a4d7ec990112b4ed602bcacf5a6de6722":[7,0,4160,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX331 =
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[8,0,0,0,1,3,5,7,5,8,3],
 "dc/d70/classnpc__toc5__grand__champion__minion.html":[7,0,2239],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[7,0,2239,2],
-"dc/d70/classnpc__toc5__grand__champion__minion.html#a5761757b3cbbbce8ada4770805eb8de5":[7,0,2239,1]
+"dc/d70/classnpc__toc5__grand__champion__minion.html#a5761757b3cbbbce8ada4770805eb8de5":[7,0,2239,1],
+"dc/d72/classspell__hun__animal__handler.html":[7,0,3257]
 };

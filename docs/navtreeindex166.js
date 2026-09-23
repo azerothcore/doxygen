@@ -1,6 +1,5 @@
 var NAVTREEINDEX166 =
 {
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[7,0,0,86,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,0,98,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[7,0,0,9,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[5,0,0,21,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX166 =
 "d5/ddf/structVehicleSeatEntry.html#ab1c19e606220684af3c1fdfb5a32b259":[7,0,4661,16],
 "d5/ddf/structVehicleSeatEntry.html#ab310030ee3865d249f794e70a44ac16e":[7,0,4661,2],
 "d5/ddf/structVehicleSeatEntry.html#ab918a96014a7e62d470bc59ab2cea389":[7,0,4661,50],
-"d5/ddf/structVehicleSeatEntry.html#abb1423e7e62199c346974e3e15a751f1":[7,0,4661,41]
+"d5/ddf/structVehicleSeatEntry.html#abb1423e7e62199c346974e3e15a751f1":[7,0,4661,41],
+"d5/ddf/structVehicleSeatEntry.html#abb2deed68525c0282a9005590267f525":[7,0,4661,14]
 };

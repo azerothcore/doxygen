@@ -1,6 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX189 =
 "d6/db3/classrbac_1_1RBACPermission.html#ac9626c0aae11a3189fc15d086fb0bd96":[5,0,28,1,2],
 "d6/db3/classrbac_1_1RBACPermission.html#ac9626c0aae11a3189fc15d086fb0bd96":[7,0,8,1,2],
 "d6/db3/classrbac_1_1RBACPermission.html#ae02a379ae6f8bee804942a4ca6d98aba":[7,0,8,1,7],
-"d6/db3/classrbac_1_1RBACPermission.html#ae02a379ae6f8bee804942a4ca6d98aba":[5,0,28,1,7]
+"d6/db3/classrbac_1_1RBACPermission.html#ae02a379ae6f8bee804942a4ca6d98aba":[5,0,28,1,7],
+"d6/db3/structPetSpell.html":[7,0,2441]
 };

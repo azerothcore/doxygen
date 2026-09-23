@@ -1,6 +1,5 @@
 var NAVTREEINDEX263 =
 {
-"d9/dff/classCreatureTextLocalizer.html#a660b352a1c1855f4b10a8aebef88133f":[7,0,970,5],
 "d9/dff/classCreatureTextLocalizer.html#a799f1007b9977224d71da1451c3454e1":[7,0,970,0],
 "d9/dff/classCreatureTextLocalizer.html#ab2c364aa9d45ca2267db2641b26821f7":[7,0,970,2],
 "d9/dff/classCreatureTextLocalizer.html#adf9260955b0141e85ff47c66350244e2":[7,0,970,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX263 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6a82a75c9690c9708cd7aca7bf7a5150":[8,0,0,0,1,2,49,4,1,337],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6acf391b249adcd3a0a975f11cae8dca":[8,0,0,0,1,2,49,4,1,17],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6ba08877ba8ea72bd3b13c437470f9cf":[8,0,0,0,1,2,49,4,1,419],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c0a1ef6c12b46c4da4d3bf6f3f76a9c":[8,0,0,0,1,2,49,4,1,163]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c0a1ef6c12b46c4da4d3bf6f3f76a9c":[8,0,0,0,1,2,49,4,1,163],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c1a65bf4f0356e5a62c0ebc5ee2877c":[8,0,0,0,1,2,49,4,1,238]
 };

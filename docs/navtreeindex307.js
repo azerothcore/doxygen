@@ -1,6 +1,5 @@
 var NAVTREEINDEX307 =
 {
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2":[8,0,0,0,1,3,10,14,56],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a030cec311538ee7847326d6ac83c30d1":[8,0,0,0,1,3,10,14,56,43],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f":[8,0,0,0,1,3,10,14,56,47],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a1618c39099c8b1a4099533bfc05abb14":[8,0,0,0,1,3,10,14,56,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX307 =
 "db/db7/classspell__portal__effect__acherus.html":[7,0,3826],
 "db/db7/classspell__portal__effect__acherus.html#a053451bd9ae6f7d639d0a977be843bc0":[7,0,3826,2],
 "db/db7/classspell__portal__effect__acherus.html#a36bb2b95651889eaa0321a7a327e173f":[7,0,3826,1],
-"db/db7/classspell__portal__effect__acherus.html#a6d16f25c93eef3c17ae6b4a43d884279":[7,0,3826,3]
+"db/db7/classspell__portal__effect__acherus.html#a6d16f25c93eef3c17ae6b4a43d884279":[7,0,3826,3],
+"db/db7/classspell__portal__effect__acherus.html#ab0ed12fadaea4c96c7f6e43b7b385653":[7,0,3826,4]
 };

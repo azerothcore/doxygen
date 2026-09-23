@@ -1,6 +1,5 @@
 var NAVTREEINDEX285 =
 {
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2d17fee7344a23b9bf6c47ee10f1e436":[7,0,1348,0,4],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a39611dead845510e26b16e8eb54114a2":[7,0,1348,0,6],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a39875572cef853eb3d3f624366e3f93f":[7,0,1348,0,12],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a3ed3ada72ca634b0888f182a93c9e657":[7,0,1348,0,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX285 =
 "da/ddc/classSmartAI.html#aea6a1ce8d6d74dcff2d9987779c10836":[7,0,2625,83],
 "da/ddc/classSmartAI.html#aee1f9ae0a22e6b509026e209d51b4d73":[7,0,2625,36],
 "da/ddc/classSmartAI.html#aee67b82ba775d7efb9f2c7b056c23cb6":[7,0,2625,39],
-"da/ddc/classSmartAI.html#aee92e85eab4861db72d5566f718cf403":[7,0,2625,50]
+"da/ddc/classSmartAI.html#aee92e85eab4861db72d5566f718cf403":[7,0,2625,50],
+"da/ddc/classSmartAI.html#af233f4b851803e57109acd745d4c7b1d":[7,0,2625,43]
 };

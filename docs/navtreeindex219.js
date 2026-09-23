@@ -1,6 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d7/dd1/structnpc__harrison__jones.html#a8f15098ad66e2d13ddfababc2ad2e33b":[7,0,1889,4],
 "d7/dd1/structnpc__harrison__jones.html#ad3ead59986b9340529bb6c6f42dbc137":[7,0,1889,7],
 "d7/dd1/structnpc__harrison__jones.html#adb995a4b18607a5bd7555ce6989c2525":[7,0,1889,9],
 "d7/dd1/structnpc__harrison__jones.html#ae408c9533166f8919c121053a3efff6c":[7,0,1889,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX219 =
 "d7/de9/classAcore_1_1NearestPlayerInObjectRangeCheck.html#ab55f93d7c5d6ca3461bcbe49010fcb83":[7,0,0,87,4],
 "d7/de9/classAcore_1_1NearestPlayerInObjectRangeCheck.html#ab55f93d7c5d6ca3461bcbe49010fcb83":[5,0,0,99,4],
 "d7/de9/classAcore_1_1NearestPlayerInObjectRangeCheck.html#ae8e57c69baf8bdaf0448864d4afbb1a4":[7,0,0,87,0],
-"d7/de9/classAcore_1_1NearestPlayerInObjectRangeCheck.html#ae8e57c69baf8bdaf0448864d4afbb1a4":[5,0,0,99,0]
+"d7/de9/classAcore_1_1NearestPlayerInObjectRangeCheck.html#ae8e57c69baf8bdaf0448864d4afbb1a4":[5,0,0,99,0],
+"d7/de9/classgo__evil__book__for__dummies.html":[7,0,1184]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX260 =
 {
-"d9/de2/structCalcDamageInfo.html#ab95e1e4746b966f1301d997fdac99c94":[7,0,850,5],
 "d9/de2/structCalcDamageInfo.html#ae42a8a3750633d94e661ac9d5a9aa8df":[7,0,850,8],
 "d9/de2/structCalcDamageInfo.html#aebe14d91f54da0b25a07ff3d59df6ec2":[7,0,850,1],
 "d9/de2/structCalcDamageInfo.html#af2976fa1245b3e3177dcbac464345829":[7,0,850,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX260 =
 "d9/df5/classGmTicket.html#ab941a0267d51bd3abad5197c4bde0c99":[7,0,1151,49],
 "d9/df5/classGmTicket.html#abc79eedcdd1db1c55cc8d600e45c854b":[7,0,1151,13],
 "d9/df5/classGmTicket.html#ac7cb10066393c0bc17f51a790893a1d9":[7,0,1151,57],
-"d9/df5/classGmTicket.html#acae258582deceab5ae10399f4979d47c":[7,0,1151,27]
+"d9/df5/classGmTicket.html#acae258582deceab5ae10399f4979d47c":[7,0,1151,27],
+"d9/df5/classGmTicket.html#ad46f6e65554bbe4646273e9a3164d817":[7,0,1151,6]
 };

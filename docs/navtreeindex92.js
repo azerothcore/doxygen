@@ -1,6 +1,5 @@
 var NAVTREEINDEX92 =
 {
-"d2/df6/DBCStores_8h.html#af01c29c525d4cac9994861f2233d3f78":[8,0,0,0,1,2,14,1,91],
 "d2/df6/DBCStores_8h.html#af0a6d713c423c9007d822c1a913228b4":[8,0,0,0,1,2,14,1,61],
 "d2/df6/DBCStores_8h.html#af595b9c42699d6d324b070d0f03f7c56":[8,0,0,0,1,2,14,1,85],
 "d2/df6/DBCStores_8h.html#af713c93466124de2378b9125a508160b":[8,0,0,0,1,2,14,1,63],
@@ -249,5 +248,6 @@ var NAVTREEINDEX92 =
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a84c1fa0cc33bee6747fa9b4f0517cdc8":[7,0,520,0,13],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#ac335bc89ad58f80a2e8db2dd8a31e2c9":[7,0,520,0,1],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#ac3cddf6197c638289f6841740b78bd88":[7,0,520,0,12],
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#ad74b771ba3f84e7dc5b038559c4e7bbb":[7,0,520,0,10]
+"d3/d03/structboss__gormok_1_1boss__gormokAI.html#ad74b771ba3f84e7dc5b038559c4e7bbb":[7,0,520,0,10],
+"d3/d03/structboss__gormok_1_1boss__gormokAI.html#adf5d8f5a9e275f12da122701f0606083":[7,0,520,0,9]
 };

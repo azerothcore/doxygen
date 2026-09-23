@@ -1,6 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"dd/dce/structboss__gurtogg__bloodboil.html#a0847173efbae252c2fbbaf1be17097cb":[7,0,531,4],
 "dd/dce/structboss__gurtogg__bloodboil.html#a10456695efc6ea0b8eace24b94c37cc3":[7,0,531,3],
 "dd/dce/structboss__gurtogg__bloodboil.html#a42db4d9fab6edfc392e1886c7d2770cb":[7,0,531,2],
 "dd/dce/structboss__gurtogg__bloodboil.html#a60e6439bab689eb88a18612b6b46c713":[7,0,531,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX361 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c1dda2b360ae67c176c671da25d0a58":[8,0,0,0,1,3,5,1,1,2,32,13],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caa23f0852bd7a9a8d7983113dad337467":[8,0,0,0,1,3,5,1,1,2,32,20],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caa932d8829093f32605f60f73620df5e5":[8,0,0,0,1,3,5,1,1,2,32,24],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caab57ea052e5939556b5374499f5f918d":[8,0,0,0,1,3,5,1,1,2,32,8]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caab57ea052e5939556b5374499f5f918d":[8,0,0,0,1,3,5,1,1,2,32,8],
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caac0491ef41263c4f5ab3e3676d3557bf":[8,0,0,0,1,3,5,1,1,2,32,33]
 };

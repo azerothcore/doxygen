@@ -1,6 +1,5 @@
 var NAVTREEINDEX342 =
 {
-"dc/dfc/classByteBufferPositionException.html#a6c2e31012a8ccf20d52c6431e024a576":[7,0,847,0],
 "dc/dfc/classByteBufferPositionException.html#aba8b7764a5517fa3e4a26d7ced1ad38f":[7,0,847,1],
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html":[7,0,1286,0],
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a16fe41ae30d54abaf12f68672b93dc32":[7,0,1286,0,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX342 =
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html":[5,0,34,6,10],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[5,0,34,6,10,0],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[7,0,13,6,10,0],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,34,6,10,3]
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,34,6,10,3],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[7,0,13,6,10,3]
 };

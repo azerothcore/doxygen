@@ -1,6 +1,5 @@
 var NAVTREEINDEX401 =
 {
-"de/de2/structgo__bells_1_1go__bellsAI.html#ab2491e9d27266ea69a5a9163e8c1b35b":[7,0,1161,0,3],
 "de/de2/structgo__bells_1_1go__bellsAI.html#ab466f67665577f22bfe6cdb94d0a008b":[7,0,1161,0,1],
 "de/de2/structgo__bells_1_1go__bellsAI.html#abf6ca2fc64f5764936a6d0179d40c2fa":[7,0,1161,0,4],
 "de/de3/classspell__dk__death__and__decay.html":[7,0,2836],
@@ -249,5 +248,6 @@ var NAVTREEINDEX401 =
 "de/deb/structM2Header.html#a64f93f8362a9d229250cab728e66f8de":[7,0,1510,7],
 "de/deb/structM2Header.html#a65999bfae38d96013222370f9828c960":[7,0,1510,61],
 "de/deb/structM2Header.html#a6824f28b2b8783473498df9f6ac78115":[7,0,1510,58],
-"de/deb/structM2Header.html#a69b7e6e64cff924b4ce51ee9f0eac0d5":[7,0,1510,41]
+"de/deb/structM2Header.html#a69b7e6e64cff924b4ce51ee9f0eac0d5":[7,0,1510,41],
+"de/deb/structM2Header.html#a6ab5c0ff4e2b5a8d91fc5a9cd78c08bb":[7,0,1510,65]
 };

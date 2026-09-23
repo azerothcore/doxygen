@@ -1,6 +1,5 @@
 var NAVTREEINDEX284 =
 {
-"da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11acb3de73ceab8349ae331fb86a0379e09":[8,0,0,0,1,2,16,7,5,101,1],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103":[8,0,0,0,1,2,16,7,5,107],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103a91c9a62241f28714002f84dbbddf768f":[8,0,0,0,1,2,16,7,5,107,2],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103ac77fdbe212fe2d09fd2f8dea5cec42cf":[8,0,0,0,1,2,16,7,5,107,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX284 =
 "da/dcc/structGameTeleVisitor.html#adbfeb8f2823f763fdae25b87fbbdcfbf":[7,0,1135,0],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html":[7,0,1348,0],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a03ace9a6ac87deb8c9d1f358e67697d1":[7,0,1348,0,2],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2b703178ee848ebb7ab750d7560a7b1e":[7,0,1348,0,5]
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2b703178ee848ebb7ab750d7560a7b1e":[7,0,1348,0,5],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2d17fee7344a23b9bf6c47ee10f1e436":[7,0,1348,0,4]
 };

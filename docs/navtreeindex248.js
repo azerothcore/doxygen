@@ -1,6 +1,5 @@
 var NAVTREEINDEX248 =
 {
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html":[7,0,595,0],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a0e57ee42e45e55b1a69ac7cb0f1d2666":[7,0,595,0,4],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a102c10792d9e7df61d920b5a43f58e51":[7,0,595,0,2],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a3f5bc42a141011e543d1215eac09dc74":[7,0,595,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX248 =
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6]
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3]
 };

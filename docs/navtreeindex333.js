@@ -1,6 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,971,8],
 "dc/d81/classCreatureTextMgr.html#a129039b5a7d2de067656cd6e47de43dd":[7,0,971,9],
 "dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[7,0,971,16],
 "dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[7,0,971,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX333 =
 "dc/d8d/classVMAP_1_1TileAssembler.html#a8a2bf7e978b49407f3b4b2086c7497c4":[5,0,31,18,8],
 "dc/d8d/classVMAP_1_1TileAssembler.html#a8a2bf7e978b49407f3b4b2086c7497c4":[7,0,11,18,8],
 "dc/d8d/classVMAP_1_1TileAssembler.html#ab339dfc2062edfb47e77b042e5cf058f":[5,0,31,18,11],
-"dc/d8d/classVMAP_1_1TileAssembler.html#ab339dfc2062edfb47e77b042e5cf058f":[7,0,11,18,11]
+"dc/d8d/classVMAP_1_1TileAssembler.html#ab339dfc2062edfb47e77b042e5cf058f":[7,0,11,18,11],
+"dc/d8d/classVMAP_1_1TileAssembler.html#ab3ed8e882c59d777d8c5312449b86753":[5,0,31,18,2]
 };

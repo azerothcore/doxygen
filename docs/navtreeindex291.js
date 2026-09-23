@@ -1,6 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/d13/ScriptMgr_8cpp.html":[8,0,0,0,1,2,38,2],
 "db/d13/ScriptMgr_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[8,0,0,0,1,2,38,2,1],
 "db/d13/SmartAI_8h.html":[8,0,0,0,1,2,3,2,1],
 "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54":[8,0,0,0,1,2,3,2,1,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX291 =
 "db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990":[7,0,582,4],
 "db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a":[7,0,582,7],
 "db/d1b/structboss__kazrogal.html#a7721debceeefaeb69e71855b8e8742f8":[7,0,582,1],
-"db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa":[7,0,582,5]
+"db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa":[7,0,582,5],
+"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[7,0,582,3]
 };

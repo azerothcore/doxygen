@@ -1,6 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a9dce02909356193476e66586aee87f1d":[7,0,3722,0],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#abc349f12f375b1f284eb78a363e8172a":[7,0,3722,3],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#add4f000f81d5d4112719c6dd7464163c":[7,0,3722,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html":[7,0,4260],
@@ -249,5 +248,6 @@ var NAVTREEINDEX203 =
 "d7/d60/classVehicleScript.html#ad4094366aba1fb6a1ff19361d1be9210":[7,0,4658,4],
 "d7/d60/classVehicleScript.html#ad59ae4c47404abb86e05ae983704f6ea":[7,0,4658,3],
 "d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html":[7,0,3703],
-"d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html#a261a63e366c22c6bf2d1d7dfec97c6e2":[7,0,3703,2]
+"d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html#a261a63e366c22c6bf2d1d7dfec97c6e2":[7,0,3703,2],
+"d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html#aefe0621647cd9e25f19063eb5ce4dd69":[7,0,3703,0]
 };

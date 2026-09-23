@@ -1,6 +1,5 @@
 var NAVTREEINDEX318 =
 {
-"db/dfb/spell__quest_8cpp.html#a625d1892e04f12a55350f01fc8abb07d":[8,0,0,0,1,3,9,8,122],
 "db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690":[8,0,0,0,1,3,9,8,110],
 "db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8":[8,0,0,0,1,3,9,8,110,0],
 "db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115":[8,0,0,0,1,3,9,8,78],
@@ -249,5 +248,6 @@ var NAVTREEINDEX318 =
 "dc/d03/ScriptedEscortAI_8h.html#ad23dc39ce2da634e67360fab90e3b9e2":[8,0,0,0,1,2,3,1,3,2],
 "dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08a":[8,0,0,0,1,2,3,1,3,3],
 "dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6":[8,0,0,0,1,2,3,1,3,3,3],
-"dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92":[8,0,0,0,1,2,3,1,3,3,1]
+"dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92":[8,0,0,0,1,2,3,1,3,3,1],
+"dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5":[8,0,0,0,1,2,3,1,3,3,0]
 };

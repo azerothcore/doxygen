@@ -1,6 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d8/d4d/classspell__dru__savage__roar__aura.html#afa99d3e45e4a54c41b59ec317ffdd9b9":[7,0,2941,2],
 "d8/d4d/isle__of__conquest_8cpp.html":[8,0,0,0,1,3,5,13],
 "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cd":[8,0,0,0,1,3,5,13,14],
 "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda22070086d807390f3a1abd3e58ebf829":[8,0,0,0,1,3,5,13,14,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX228 =
 "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ac2dda4615e476c49664c332dfe3e309b":[8,0,0,0,2,2,0,10,32,1],
 "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#acd2cc80be83d1ce20f5f41d590dcbd82":[8,0,0,0,2,2,0,10,32,11],
 "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ad0e7264881bbb5fe5752d47c56930961":[8,0,0,0,2,2,0,10,32,17],
-"d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ae58d0c097ed2d1cccbf272f42b835d52":[8,0,0,0,2,2,0,10,32,20]
+"d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#ae58d0c097ed2d1cccbf272f42b835d52":[8,0,0,0,2,2,0,10,32,20],
+"d8/d5e/SpellScriptMissileBarrageTest_8cpp.html#aeab0a3a6edde33d54feef5dd9ceea629":[8,0,0,0,2,2,0,10,32,15]
 };

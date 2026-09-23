@@ -1,6 +1,5 @@
 var NAVTREEINDEX197 =
 {
-"d7/d0c/classspell__sladran__grip__of__sladran__aura.html":[7,0,4181],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#a2087e4de62f7aabb72315e92c28c7bd6":[7,0,4181,0],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ab71db011b1cc1f3a2e85cd6b6f115242":[7,0,4181,1],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ad8a16d599a11fa4409d132f66e37e04e":[7,0,4181,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX197 =
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a63363baf38d51bc1f20a394d3858d2a7":[8,0,0,0,1,3,5,25,15,27],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a6dfb4874a898790c86691547bd4a093c":[8,0,0,0,1,3,5,25,15,4],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a6e4f243799c8977dcf2c8d31f1f58614":[8,0,0,0,1,3,5,25,15,8],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a7c2acaa8c5f8f5c89a0207669b16940b":[8,0,0,0,1,3,5,25,15,5]
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a7c2acaa8c5f8f5c89a0207669b16940b":[8,0,0,0,1,3,5,25,15,5],
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a7cd8428f5bd1d2d5d84436f3ffe852a7":[8,0,0,0,1,3,5,25,15,11]
 };

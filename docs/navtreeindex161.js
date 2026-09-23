@@ -1,6 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d5/da4/classspell__warl__soul__leech.html#a28c281aeef80409b419753f71da80f92":[7,0,4369,3],
 "d5/da4/classspell__warl__soul__leech.html#aadbaea984fedb04e77b92174efd5e83d":[7,0,4369,1],
 "d5/da4/classspell__warl__soul__leech.html#aedd1652a571275a305db70fbbe6f725c":[7,0,4369,2],
 "d5/da5/boss__hakkar_8cpp.html":[8,0,0,0,1,3,2,15,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX161 =
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[7,0,11,26,1],
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,31,26,1],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[7,0,11,26,8],
-"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,31,26,8]
+"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,31,26,8],
+"d5/db0/classVMAP_1_1WorldModel.html#af3daef8196713ae776e1f39f347f8074":[5,0,31,26,4]
 };

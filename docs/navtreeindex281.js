@@ -1,6 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
 "da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0],
 "da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[4,1,10,1],
 "da/dad/CombatPackets_8cpp.html":[8,0,0,0,1,2,39,0,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX281 =
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a24e4031367eb59ad7a9ea352bd0b4ccd":[7,0,437,0,5],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a2c525445ad39ddc47366f3f632014d89":[7,0,437,0,13],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a32fbc731852f46fbdd36b36764dd2303":[7,0,437,0,9],
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a3681da718192f0f961282fa4f655355e":[7,0,437,0,15]
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a3681da718192f0f961282fa4f655355e":[7,0,437,0,15],
+"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93":[7,0,437,0,14]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d5/dee/classachievement__less__rabi.html#a16b200bf93fa2571c8b31359ad7ca151":[7,0,77,1],
 "d5/dee/classachievement__less__rabi.html#aee43dd7623f7fecc20a0acb15f342a99":[7,0,77,0],
 "d5/dee/structboss__gatewatcher__iron__hand.html":[7,0,510],
 "d5/dee/structboss__gatewatcher__iron__hand.html#a1973142412b4094dbd9fa51600741148":[7,0,510,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX168 =
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[7,0,0,74,1],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,0,86,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[7,0,0,74,3],
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[5,0,0,86,2]
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[5,0,0,86,2],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[7,0,0,74,2]
 };

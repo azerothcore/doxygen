@@ -1,6 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"db/da4/classPetAI.html#adea0e094c01741e6d883a3a378ceaced":[7,0,2432,15],
 "db/da4/classPetAI.html#ae395f8a622199714c0204f8df0bd3c0d":[7,0,2432,6],
 "db/da4/classPetAI.html#aea55a7701940e23f90b68fd43a6367ff":[7,0,2432,25],
 "db/da4/classPetAI.html#aebd92475342c2905052a2ea9601c1423":[7,0,2432,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX306 =
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a8be77a82a338bb45d912b34df244a028":[8,0,0,0,1,3,10,14,57,4],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038aa40f1875a834eb2c596968854936a49e":[8,0,0,0,1,3,10,14,57,8],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ab86f26324aef233637b1392709d211a6":[8,0,0,0,1,3,10,14,57,10],
-"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ac552be3f5be69e2ffe52b569556c9a8d":[8,0,0,0,1,3,10,14,57,0]
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038ac552be3f5be69e2ffe52b569556c9a8d":[8,0,0,0,1,3,10,14,57,0],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2":[8,0,0,0,1,3,10,14,56]
 };

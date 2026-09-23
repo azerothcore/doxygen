@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d6f/namespaceMapObject.html#a9148b3ef5b412564a285737b0bd104dd":[5,0,19,0],
 "d2/d70/TC9GroupHooks_8cpp.html":[8,0,0,0,1,2,42,1],
 "d2/d70/classspell__flamewreath.html":[7,0,2994],
 "d2/d70/classspell__flamewreath.html#a2f75199a90e52cff770f46bce76d5149":[7,0,2994,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX68 =
 "d2/d73/classScriptMgr.html#a5e2eb1dab9dddb7a34ce1e8b73cb3800":[7,0,2582,209],
 "d2/d73/classScriptMgr.html#a5e3af0e6979df547e603ef30f2f72057":[7,0,2582,41],
 "d2/d73/classScriptMgr.html#a5e4a565ee78927b0954f24695e6a5314":[7,0,2582,182],
-"d2/d73/classScriptMgr.html#a5e7e924d7d22a102ccca8cf330e14283":[7,0,2582,133]
+"d2/d73/classScriptMgr.html#a5e7e924d7d22a102ccca8cf330e14283":[7,0,2582,133],
+"d2/d73/classScriptMgr.html#a5ef418257355a639f678ba69d2384808":[7,0,2582,335]
 };

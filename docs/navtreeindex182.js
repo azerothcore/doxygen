@@ -1,6 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d6/d5a/structboss__doomwalker.html#a3105c50e512c6f709985cece619b131f":[7,0,443,6],
 "d6/d5a/structboss__doomwalker.html#a47811086ff98b1a09af5300af94b6c0e":[7,0,443,0],
 "d6/d5a/structboss__doomwalker.html#aba08b227d629c9f35e59f465e29c267b":[7,0,443,5],
 "d6/d5a/structboss__doomwalker.html#ac0ffd491ac9a4923e3977e09e8ba310e":[7,0,443,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX182 =
 "d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[7,0,1118,15],
 "d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5":[7,0,1118,5],
 "d6/d66/classGameObjectAI.html#afc78344df8960b50913bc434fd01351f":[7,0,1118,2],
-"d6/d66/classspell__vehicle__warhead__fuse.html":[7,0,4317]
+"d6/d66/classspell__vehicle__warhead__fuse.html":[7,0,4317],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[7,0,4317,2]
 };

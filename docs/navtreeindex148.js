@@ -1,6 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"d5/d12/classspell__dru__survival__instincts__aura.html#a86b51ec85105b0396972f0c3d7b770c1":[7,0,2945,4],
 "d5/d12/classspell__dru__survival__instincts__aura.html#a9c2591beacd941893338109719c03e3f":[7,0,2945,0],
 "d5/d13/PlayerTaxi_8cpp.html":[8,0,0,0,1,2,16,7,12],
 "d5/d13/PlayerTaxi_8cpp.html#aa8a947319a6f00895a3c443f5cb258ad":[8,0,0,0,1,2,16,7,12,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX148 =
 "d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8a443b167286c78f0c6b3b96700c2511":[8,0,0,0,1,3,5,4,0,4,2,0],
 "d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad33e457bb5c02665f5762cece534a2b6":[8,0,0,0,1,3,5,4,0,4,2,3],
 "d5/d21/instance__forge__of__souls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,4,0,4,5],
-"d5/d21/instance__forge__of__souls_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,5,4,0,4,4]
+"d5/d21/instance__forge__of__souls_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,5,4,0,4,4],
+"d5/d22/classBasicEvent.html":[7,0,323]
 };

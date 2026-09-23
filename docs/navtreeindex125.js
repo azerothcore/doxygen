@@ -1,6 +1,5 @@
 var NAVTREEINDEX125 =
 {
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ab9edeb844c5791a853b9f6534e592979":[8,0,0,0,1,3,5,4,1,3,13,21],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ac80a67bcec8995faea329a1574b588cb":[8,0,0,0,1,3,5,4,1,3,13,18],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acda471822322dc05ef7803ad7da5afd6":[8,0,0,0,1,3,5,4,1,3,13,23],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf15aa78dad945df7c9e69b25c950cbe":[8,0,0,0,1,3,5,4,1,3,13,55],
@@ -249,5 +248,6 @@ var NAVTREEINDEX125 =
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#accae0992a349361d85200863f5ac4f81":[7,0,1854,0,8],
 "d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html":[7,0,1892,0],
 "d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html#a11a4f3270ff260e30da89017dad38433":[7,0,1892,0,2],
-"d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html#a2b73957d7890549f4b02488c5527fcef":[7,0,1892,0,0]
+"d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html#a2b73957d7890549f4b02488c5527fcef":[7,0,1892,0,0],
+"d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html#a8422c157214195d7166ede35c9c05d19":[7,0,1892,0,1]
 };

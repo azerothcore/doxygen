@@ -1,6 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,8,2,3,3],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,8,2,3,3,3],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,8,2,3,3,0],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[8,0,0,0,1,3,5,8,2,3,3,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX184 =
 "d6/d7d/classDynamicMapTree.html#a1229eb7e83b481cb72ffc9ae4a3a28a8":[7,0,1035,4],
 "d6/d7d/classDynamicMapTree.html#a1af866551a1ea151551ebb856797528d":[7,0,1035,2],
 "d6/d7d/classDynamicMapTree.html#a23586412c7ada2ad96a772c20c4b56e8":[7,0,1035,7],
-"d6/d7d/classDynamicMapTree.html#a5ddd01b0ca8738dc03ecda04ea38b1ed":[7,0,1035,8]
+"d6/d7d/classDynamicMapTree.html#a5ddd01b0ca8738dc03ecda04ea38b1ed":[7,0,1035,8],
+"d6/d7d/classDynamicMapTree.html#a6d33c22d53a1c2b8120e80c1f508cfb0":[7,0,1035,1]
 };

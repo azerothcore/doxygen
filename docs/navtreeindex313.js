@@ -1,6 +1,5 @@
 var NAVTREEINDEX313 =
 {
-"db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a94e91c225cd5c537c8683e0000f050d0":[8,0,0,0,1,3,5,1,1,5,2,18],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ac45a218d766deae2e0c0721c26038758":[8,0,0,0,1,3,5,1,1,5,2,2],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2acb940cb7a249b2537334b2469d742ed1":[8,0,0,0,1,3,5,1,1,5,2,3],
 "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ad65bffa8c2e8ec9043068b1aff2af372":[8,0,0,0,1,3,5,1,1,5,2,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX313 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada42def052c25ddbd7a16f702b1d683c8b":[8,0,0,0,1,3,2,30,28,47],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada44a5bfecee69576bd4676fe9d11306b6":[8,0,0,0,1,3,2,30,28,84],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada4ac19c13f7cc04932ce868a0c052c588":[8,0,0,0,1,3,2,30,28,82],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada511ac3d9ea58b6390f3785441f8f701d":[8,0,0,0,1,3,2,30,28,63]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada511ac3d9ea58b6390f3785441f8f701d":[8,0,0,0,1,3,2,30,28,63],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada51fc486ed3d64b5824569705339c4cdf":[8,0,0,0,1,3,2,30,28,34]
 };

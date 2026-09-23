@@ -1,6 +1,5 @@
 var NAVTREEINDEX255 =
 {
-"d9/d8b/structboss__sothos.html#a1433dddccb71896016bc014bdf92b453":[7,0,725,1],
 "d9/d8b/structboss__sothos.html#a2d634aade37ea887f6bbf4b43baf061d":[7,0,725,3],
 "d9/d8b/structboss__sothos.html#a2e7283078d4049ff339f29c3fdfc69cf":[7,0,725,0],
 "d9/d8b/structboss__sothos.html#a35e247fa9bfe00927b844af8d0ef916f":[7,0,725,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX255 =
 "d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64":[8,0,0,0,1,3,2,14,8,1],
 "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[8,0,0,0,1,3,2,14,8,5],
 "d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a153c48431c2bf66e37650df7a410ad55":[8,0,0,0,1,3,2,14,8,5,14],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a1c5777b09961e594e335a1811524a3af":[8,0,0,0,1,3,2,14,8,5,11]
+"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a1c5777b09961e594e335a1811524a3af":[8,0,0,0,1,3,2,14,8,5,11],
+"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a3014989d85dcf7af706c8ed7467fb704":[8,0,0,0,1,3,2,14,8,5,10]
 };

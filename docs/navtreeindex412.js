@@ -1,6 +1,5 @@
 var NAVTREEINDEX412 =
 {
-"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[5,0,17,9,3],
 "df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[7,0,5,9,3],
 "df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[5,0,17,9,5],
 "df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[7,0,5,9,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX412 =
 "df/d66/Creature_8h.html#aa92b7ce1a721a3955751ae25cf01b22a":[8,0,0,0,1,2,16,1,1,6],
 "df/d66/classspell__pilgrims__bounty__food__aura.html":[7,0,3821],
 "df/d66/classspell__pilgrims__bounty__food__aura.html#a80660b1417ab33edaf2c4cd517e10e30":[7,0,3821,0],
-"df/d66/classspell__pilgrims__bounty__food__aura.html#ab7f0aa924dfe8043e44cd794f72e4555":[7,0,3821,2]
+"df/d66/classspell__pilgrims__bounty__food__aura.html#ab7f0aa924dfe8043e44cd794f72e4555":[7,0,3821,2],
+"df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[7,0,3821,1]
 };

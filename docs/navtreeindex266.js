@@ -1,6 +1,5 @@
 var NAVTREEINDEX266 =
 {
-"da/d0e/classspell__azjol__nerub__impale__summon.html#a2a3602af522bb8658c1bfdede1234efd":[7,0,2700,0],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#a89827e4db37bea4847c79265d95386c6":[7,0,2700,2],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#aba235111ea4e186064a85295466f2a3f":[7,0,2700,1],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html":[8,0,0,0,1,3,5,10,1,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX266 =
 "da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#ad99a318c6b3ee834aa3c3591a0f8a330":[7,0,3548,1],
 "da/d20/classspell__pri__t3__4p__bonus.html":[7,0,3863],
 "da/d20/classspell__pri__t3__4p__bonus.html#a22dea9fb57d89b1d4813722968b5429f":[7,0,3863,3],
-"da/d20/classspell__pri__t3__4p__bonus.html#a512ec25fe649e42930d64effa4f7868b":[7,0,3863,0]
+"da/d20/classspell__pri__t3__4p__bonus.html#a512ec25fe649e42930d64effa4f7868b":[7,0,3863,0],
+"da/d20/classspell__pri__t3__4p__bonus.html#a6118148ac0e641a6c3e4490c2cdd86c0":[7,0,3863,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX70 =
 {
-"d2/d73/classScriptMgr.html#adfb81c8ed955f0baf744788f79f27bc6":[7,0,2582,445],
 "d2/d73/classScriptMgr.html#adfd9e1638d448f2b352572f7d0cea5de":[7,0,2582,42],
 "d2/d73/classScriptMgr.html#ae030dcc3a7543c443bd6ef00d9f617bf":[7,0,2582,238],
 "d2/d73/classScriptMgr.html#ae056072cbe7167a44afabc0aeea63182":[7,0,2582,177],
@@ -244,10 +243,11 @@ var NAVTREEINDEX70 =
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html":[7,0,13,14,9],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[5,0,34,14,9,0],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5c6cca2526e2a6b11b85e8ab7233436b":[7,0,13,14,9,0],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[5,0,34,14,9,2],
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a5dd83b2c88a07236d8937b2d536d5056":[7,0,13,14,9,2],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[5,0,34,14,9,1],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a7fea7dac43d6988dff5f38218bceb626":[7,0,13,14,9,1],
 "d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[5,0,34,14,9,3],
-"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[7,0,13,14,9,3]
+"d2/d84/classWorldPackets_1_1Quest_1_1QuestLogSwapQuest.html#a9a98532db2a51821efc95b11b8379f28":[7,0,13,14,9,3],
+"d2/d84/structBattlegroundAB_1_1CapturePointInfo.html":[7,0,331,0]
 };

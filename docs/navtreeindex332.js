@@ -1,6 +1,5 @@
 var NAVTREEINDEX332 =
 {
-"dc/d72/classspell__hun__animal__handler.html":[7,0,3257],
 "dc/d72/classspell__hun__animal__handler.html#a8f078f8370eacba197ceb2068b6a538d":[7,0,3257,2],
 "dc/d72/classspell__hun__animal__handler.html#ab249a493050c5527eeec8913e94cfc64":[7,0,3257,1],
 "dc/d72/classspell__hun__animal__handler.html#ac0018b57967a3d3ae71aa81745032f15":[7,0,3257,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX332 =
 "dc/d7e/classboss__essence__of__desire.html#a5006ce57dd19c2a80e961dedca8c503d":[7,0,467,1],
 "dc/d81/classCreatureTextMgr.html":[7,0,971],
 "dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[7,0,971,0],
-"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[7,0,971,11]
+"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[7,0,971,11],
+"dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,971,8]
 };

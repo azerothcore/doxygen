@@ -1,6 +1,5 @@
 var NAVTREEINDEX347 =
 {
-"dd/d31/DBUpdater_8cpp.html#a16a33693c8570aff221401b100547fb7":[8,0,0,0,1,1,3,0,1],
 "dd/d31/DBUpdater_8cpp.html#a753e207671f7af3815a056247f2de3ce":[8,0,0,0,1,1,3,0,0],
 "dd/d31/DBUpdater_8cpp.html#ace05c45d1df6cb7f16487ef1aa8bc9f7":[8,0,0,0,1,1,3,0,2],
 "dd/d31/classspell__mirkblood__blood__mirror__target__picker.html":[7,0,3702],
@@ -249,5 +248,6 @@ var NAVTREEINDEX347 =
 "dd/d3b/structGameObjectTemplate.html#a35e7623a0939226209bc5021ae6fe162":[7,0,1131,36],
 "dd/d3b/structGameObjectTemplate.html#a36594121daf6468e56c5f7a07db31e9c":[7,0,1131,65],
 "dd/d3b/structGameObjectTemplate.html#a367f04e8008640ab726b2e9e7e239b2d":[7,0,1131,19],
-"dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[7,0,1131,23]
+"dd/d3b/structGameObjectTemplate.html#a381078fb25d7a0168f5b84e300322529":[7,0,1131,23],
+"dd/d3b/structGameObjectTemplate.html#a38539460b81b3e661a761ed3482baa4b":[7,0,1131,81]
 };

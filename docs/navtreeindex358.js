@@ -1,6 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a":[8,0,0,0,1,3,5,23,35,4],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26":[8,0,0,0,1,3,5,23,35,0],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78":[8,0,0,0,1,3,5,23,35,1],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65":[8,0,0,0,1,3,5,23,35,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX358 =
 "dd/dc6/structWaveCreature.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b":[7,0,4681,0],
 "dd/dc6/structWaveCreature.html#ac3d4d211ebb927b1b9a376ee956e1b26":[7,0,4681,1],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html":[7,0,2171,0],
-"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[7,0,2171,0,1]
+"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a38f0630d4e18cea01de343afdcb96db3":[7,0,2171,0,1],
+"dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#a3fbae63669c8382097b0bcb936301945":[7,0,2171,0,7]
 };

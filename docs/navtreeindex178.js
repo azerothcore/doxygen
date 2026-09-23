@@ -1,6 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/d38/classAchievementGlobalMgr.html#a2c86d0034b6246f85737d17cb96abe7f":[7,0,122,33],
 "d6/d38/classAchievementGlobalMgr.html#a320b3d6426c884ad39bf358a28035f15":[7,0,122,17],
 "d6/d38/classAchievementGlobalMgr.html#a3557adfed8bf2fbca323acba9f665f47":[7,0,122,7],
 "d6/d38/classAchievementGlobalMgr.html#a451ad1d64eb342c5e0347d1d6aba5605":[7,0,122,19],
@@ -249,5 +248,6 @@ var NAVTREEINDEX178 =
 "d6/d39/classWorld.html#afcff4834a924e6d6ec051052b707acc7":[4,2,11,86],
 "d6/d39/classWorld.html#afef544af0f989b2d3ea975f22d02fb46":[4,2,11,58],
 "d6/d39/classspell__karathress__power__of__caribdis.html":[7,0,3555],
-"d6/d39/classspell__karathress__power__of__caribdis.html#a4d3d6350a06b6c7382792670c04e38e1":[7,0,3555,0]
+"d6/d39/classspell__karathress__power__of__caribdis.html#a4d3d6350a06b6c7382792670c04e38e1":[7,0,3555,0],
+"d6/d39/classspell__karathress__power__of__caribdis.html#aa6aa32b3adc89ac405f071fa9b804778":[7,0,3555,2]
 };

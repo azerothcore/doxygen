@@ -1,6 +1,5 @@
 var NAVTREEINDEX309 =
 {
-"db/dc6/structboss__darkweaver__syth.html#a4f719165e07206c5a378412b3f82ff86":[7,0,438,0],
 "db/dc6/structboss__darkweaver__syth.html#aaf6dab75e66734e930c5732749f3d69a":[7,0,438,2],
 "db/dc6/structboss__darkweaver__syth.html#adf7e44e3fdc7241baa5f9eddafcb6d40":[7,0,438,1],
 "db/dc7/classWorldPackets_1_1Instance_1_1ResetInstances.html":[5,0,34,7,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX309 =
 "db/dce/classAura.html#a7af03c4091eed4aab81dd2d0613b4eca":[7,0,290,146],
 "db/dce/classAura.html#a7e2bf3f6ccfcf6531a3cb146f1eb5405":[7,0,290,14],
 "db/dce/classAura.html#a7f7d613279717173c13708425f3a8083":[7,0,290,110],
-"db/dce/classAura.html#a851e18dcd4b806db1cd3843a7814d15a":[7,0,290,126]
+"db/dce/classAura.html#a851e18dcd4b806db1cd3843a7814d15a":[7,0,290,126],
+"db/dce/classAura.html#a87be004e2c34b6652cd5350689b24dc3":[7,0,290,28]
 };

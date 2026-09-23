@@ -1,6 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"d5/d8b/classspell__hun__wyvern__sting.html#a1a06aa5d8254f0d33ecb38df72d97d20":[7,0,3297,0],
 "d5/d8b/classspell__hun__wyvern__sting.html#a9f02f6b1287d320fee15fec18b61cfe7":[7,0,3297,2],
 "d5/d8b/classspell__hun__wyvern__sting.html#abb54f08b1932e3638537656360d3aad8":[7,0,3297,1],
 "d5/d8b/instance__scholomance_8cpp.html":[8,0,0,0,1,3,2,7,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX159 =
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[7,0,11,5,8],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[5,0,31,5,8],
 "d5/d99/firework__show__BootyBay_8h.html":[8,0,0,0,1,3,3,0,2],
-"d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99":[8,0,0,0,1,3,3,0,2,0]
+"d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99":[8,0,0,0,1,3,3,0,2,0],
+"d5/d99/firework__show__BootyBay_8h.html#aed5048221cf1d35ad3d4989da8786617":[8,0,0,0,1,3,3,0,2,2]
 };

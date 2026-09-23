@@ -1,6 +1,5 @@
 var NAVTREEINDEX176 =
 {
-"d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea69f27809bb75172648a8556f0f746846":[8,0,0,0,1,3,2,10,1,4,0],
 "d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae5c5fb3a95e85644746e7ea68b61f61f":[8,0,0,0,1,3,2,10,1,4,1],
 "d6/d26/sunken__temple_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,2,10,1,1],
 "d6/d26/sunken__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea545a64377f33327f0489a8b5106b85f7":[8,0,0,0,1,3,2,10,1,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX176 =
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0b05e4cd42e87aaca6f4eee0f2b29c22":[8,0,0,0,1,3,10,17,0,50],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a0ce3e1b1f7bbaf32882d2137fa6599c4":[8,0,0,0,1,3,10,17,0,9],
 "d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a1128c3a55d394e44026d26750376f979":[8,0,0,0,1,3,10,17,0,24],
-"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a17a7eba2ea62a40cf0714f23b44643d5":[8,0,0,0,1,3,10,17,0,49]
+"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a17a7eba2ea62a40cf0714f23b44643d5":[8,0,0,0,1,3,10,17,0,49],
+"d6/d36/scourge__invasion_8h.html#a420b9fde63f938fb018d12fe9be818c1a213cb11cf2a4c3f15c4135be099c746b":[8,0,0,0,1,3,10,17,0,43]
 };

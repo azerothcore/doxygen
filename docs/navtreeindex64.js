@@ -1,6 +1,5 @@
 var NAVTREEINDEX64 =
 {
-"d2/d4b/classPlayer.html#ad7e77cd57824c0ca08d2c88a8b1c3aec":[7,0,2444,734],
 "d2/d4b/classPlayer.html#ad7f0dece22565cff85cf480640177e92":[7,0,2444,1153],
 "d2/d4b/classPlayer.html#ad85a165bbe702e0672596173dfba1e14":[7,0,2444,175],
 "d2/d4b/classPlayer.html#ad85f59e6d191446185bdfe622f61372b":[7,0,2444,213],
@@ -213,16 +212,16 @@ var NAVTREEINDEX64 =
 "d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[7,0,4548,0],
 "d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4548,1],
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4548,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[7,0,13,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[7,0,13,8,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[7,0,3486],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[7,0,3486,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[7,0,3486,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX64 =
 "d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[7,0,3550,1],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a4bb5cfd2cc8503b3a840fc68624a33c1":[7,0,3550,2],
 "d2/d50/classspell__kaelthas__summon__weapons.html#acfe80e22e6c78dba50155f7f20c0678b":[7,0,3550,0],
-"d2/d50/tools_2dbimport_2Main_8cpp.html":[8,0,0,0,3,0,0]
+"d2/d50/tools_2dbimport_2Main_8cpp.html":[8,0,0,0,3,0,0],
+"d2/d50/tools_2dbimport_2Main_8cpp.html#a1551df43a48f1dbf64dbec1e47b07eea":[8,0,0,0,3,0,0,3]
 };

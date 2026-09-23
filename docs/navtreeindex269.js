@@ -1,6 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2f3e45b3f762ede62aa94a6ae3f2909f":[7,0,1944,0,2],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#ac83c25091fdd3c7876a88927b758261f":[7,0,1944,0,6],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#aedc82ee3bfa193a838d5af62533e19b4":[7,0,1944,0,3],
 "da/d32/classBattlegroundRL.html":[7,0,351],
@@ -249,5 +248,6 @@ var NAVTREEINDEX269 =
 "da/d44/classspell__fight__fire__bomber.html#a47bae4bdc488480f91517465d8e1b784":[7,0,2991,1],
 "da/d44/classspell__fight__fire__bomber.html#a7131340678ca685db98e2087661321a9":[7,0,2991,2],
 "da/d44/classspell__fight__fire__bomber.html#a85874062bceced2694fff725649df892":[7,0,2991,0],
-"da/d44/classspell__fight__fire__bomber.html#af1b74ceee10fc48a0b85d4a284103950":[7,0,2991,3]
+"da/d44/classspell__fight__fire__bomber.html#af1b74ceee10fc48a0b85d4a284103950":[7,0,2991,3],
+"da/d44/classspell__freya__attuned__to__nature__dose__reduction.html":[7,0,3002]
 };

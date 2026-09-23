@@ -1,6 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae214e438deb4c1109e5db7b7a65d0bf1":[8,0,0,0,1,2,26,2,0,149],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae502527b0aa6651de94c9f2cd833ab3c":[8,0,0,0,1,2,26,2,0,124],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7648b25c80ab6b38b3aab5449abdb89":[8,0,0,0,1,2,26,2,0,11],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7e1320fd0c7cf9303bc905eb83f7094":[8,0,0,0,1,2,26,2,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX330 =
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a5bd342133be8c2137b831460acc9298cab121c93ef274ba2791c63674950ef6a6":[8,0,0,0,1,3,7,4,0,2,4,0],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a5bd342133be8c2137b831460acc9298caf73cbff9af5021e410493d873614519c":[8,0,0,0,1,3,7,4,0,2,4,4],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#af322170b8d6ad428560c7ab2512f2a6f":[8,0,0,0,1,3,7,4,0,2,5],
-"dc/d5b/classnpc__highborne__lamenter.html":[7,0,1898]
+"dc/d5b/classnpc__highborne__lamenter.html":[7,0,1898],
+"dc/d5b/classnpc__highborne__lamenter.html#a40316cf73a688e34e95dd41feef8612a":[7,0,1898,1]
 };

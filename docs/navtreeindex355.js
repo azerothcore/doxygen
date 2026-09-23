@@ -1,6 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"dd/d96/classnpc__volatile__ooze.html":[7,0,2319],
 "dd/d96/classnpc__volatile__ooze.html#a22847e44812a0b13b92cfcca3a70204e":[7,0,2319,1],
 "dd/d96/classnpc__volatile__ooze.html#a66b4918c14d90d5550ddc8dbe90c2e01":[7,0,2319,2],
 "dd/d96/structboss__warp__splinter.html":[7,0,795],
@@ -249,5 +248,6 @@ var NAVTREEINDEX355 =
 "dd/da3/classspell__fire__festival__fortitude.html#a50ee42c11937759b6c52c2ab994481c4":[7,0,2992,0],
 "dd/da3/classspell__fire__festival__fortitude.html#a8dc12a723c2da948c38119e3fc34df35":[7,0,2992,1],
 "dd/da3/structBankBagSlotPricesEntry.html":[7,0,318],
-"dd/da3/structBankBagSlotPricesEntry.html#a4f030d8b8b87aff67e0d8319c6b53310":[7,0,318,0]
+"dd/da3/structBankBagSlotPricesEntry.html#a4f030d8b8b87aff67e0d8319c6b53310":[7,0,318,0],
+"dd/da3/structBankBagSlotPricesEntry.html#a9b81ec4b4638763b738862d6c184e2a9":[7,0,318,1]
 };

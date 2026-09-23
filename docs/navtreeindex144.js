@@ -1,6 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"d4/dd9/structAchievementCriteriaEntry.html#a0876ca5b1d04066a14ed1ba3396a9080":[7,0,119,126],
 "d4/dd9/structAchievementCriteriaEntry.html#a0a422b01a170413cff68bbe3c5e041b1":[7,0,119,27],
 "d4/dd9/structAchievementCriteriaEntry.html#a0d8d971e7aeffcb01d9ccd7efe93a335":[7,0,119,67],
 "d4/dd9/structAchievementCriteriaEntry.html#a0fc768ea751f542fc49a0d5ab2a3e1bd":[7,0,119,54],
@@ -249,5 +248,6 @@ var NAVTREEINDEX144 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[7,0,1696,0,7],
 "d4/ddf/structnpc__ulduar__bot__summon__trigger.html":[7,0,2274],
 "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a16d36c154b6851c0081cc05f838b0fed":[7,0,2274,0],
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a2530742a19275efe92eeded4dce67567":[7,0,2274,5]
+"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a2530742a19275efe92eeded4dce67567":[7,0,2274,5],
+"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a39c909b67fcdc81542470b6e96256fd5":[7,0,2274,4]
 };

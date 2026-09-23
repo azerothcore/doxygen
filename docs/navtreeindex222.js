@@ -1,6 +1,5 @@
 var NAVTREEINDEX222 =
 {
-"d7/df6/structnpc__grimstone.html#a848b405425ef4bb3dc20a4ec4ea081af":[7,0,1874,7],
 "d7/df6/structnpc__grimstone.html#a85b795cfd49343d300cdd1b1f028e141":[7,0,1874,4],
 "d7/df6/structnpc__grimstone.html#aa246b08433ad44365e2bfe47a9025001":[7,0,1874,13],
 "d7/df6/structnpc__grimstone.html#aea0c13489f4f17008b44d054b9a1cf3a":[7,0,1874,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX222 =
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a65fece9452930c49056d89cf32ff9650":[8,0,0,0,1,3,9,12,39,33],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a6d54589b1b5e425c22e9be31f219ca16":[8,0,0,0,1,3,9,12,39,29],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a7e63f177522f5b1da2e10336b0b45c4f":[8,0,0,0,1,3,9,12,39,34],
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a8312e081b6f8026b4318a0f9c0177a2f":[8,0,0,0,1,3,9,12,39,15]
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a8312e081b6f8026b4318a0f9c0177a2f":[8,0,0,0,1,3,9,12,39,15],
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a891585ba56d53bdcca05bf5ce579e0c8":[8,0,0,0,1,3,9,12,39,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX363 =
 {
-"dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba7794ace87705e2898f8b60f1f5228110":[8,0,0,0,1,3,5,19,29,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decba9cf2faff07cd45e6ad2b3079df78c447":[8,0,0,0,1,3,5,19,29,7],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbac7b7264f3ed2f23ac1abe23f74fd84c2":[8,0,0,0,1,3,5,19,29,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#aaf1bc1106d94f173cb963d729989decbacf0e09ec5d3579ff8de698c1cd310978":[8,0,0,0,1,3,5,19,29,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX363 =
 "dd/df2/classat__icc__start__blood__quickening.html":[7,0,236],
 "dd/df2/classat__icc__start__blood__quickening.html#a544b0591b19a62e5c8a6efcfffd98326":[7,0,236,0],
 "dd/df2/classat__icc__start__blood__quickening.html#a814670e127b1eace6068a553b23d00f7":[7,0,236,1],
-"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html":[7,0,2936]
+"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html":[7,0,2936],
+"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a02ef50b047ac0ac8932d37234ad4ae2f":[7,0,2936,4]
 };

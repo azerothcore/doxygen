@@ -1,6 +1,5 @@
 var NAVTREEINDEX348 =
 {
-"dd/d3b/structGameObjectTemplate.html#a38539460b81b3e661a761ed3482baa4b":[7,0,1131,81],
 "dd/d3b/structGameObjectTemplate.html#a38aeb43d791762fe229077588c05a9d3":[7,0,1131,60],
 "dd/d3b/structGameObjectTemplate.html#a3b25a117312579c3b1c724933d252e40":[7,0,1131,22],
 "dd/d3b/structGameObjectTemplate.html#a3b25c483e197fb6ce050314cc2c41863":[7,0,1131,115],
@@ -249,5 +248,6 @@ var NAVTREEINDEX348 =
 "dd/d46/PetPackets_8h.html":[8,0,0,0,1,2,39,0,28],
 "dd/d46/structnpc__acherus__necromancer.html":[7,0,1623],
 "dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2":[7,0,1623,0],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf":[7,0,1623,0,0]
+"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf":[7,0,1623,0,0],
+"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec":[7,0,1623,0,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX328 =
 {
-"dc/d39/structnpc__janalai__hatcher.html#ab39ab27d8057b52b77637faefd48e8e6":[7,0,1959,11],
 "dc/d39/structnpc__janalai__hatcher.html#ab5cc0c5f73593128b6d6e023aa4ce609":[7,0,1959,7],
 "dc/d39/structnpc__janalai__hatcher.html#ab775a888ae1002eed3ed548ab89ca2e4":[7,0,1959,5],
 "dc/d39/structnpc__janalai__hatcher.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12":[7,0,1959,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX328 =
 "dc/d49/classSecretMgr.html#aff0b6ca546a62a3d6e7da52c3a2752bd":[7,0,2589,6],
 "dc/d49/classspell__gen__showlabel__on.html":[7,0,3152],
 "dc/d49/classspell__gen__showlabel__on.html#a2c88a98e1f76f62f745dbd83fa939506":[7,0,3152,0],
-"dc/d49/classspell__gen__showlabel__on.html#a93dcf131a040c95ef1b8cc5ec1d3bc37":[7,0,3152,1]
+"dc/d49/classspell__gen__showlabel__on.html#a93dcf131a040c95ef1b8cc5ec1d3bc37":[7,0,3152,1],
+"dc/d4a/classAuctionHouseWorkerThread.html":[7,0,278]
 };

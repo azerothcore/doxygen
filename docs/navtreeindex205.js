@@ -1,6 +1,5 @@
 var NAVTREEINDEX205 =
 {
-"d7/d70/structnpc__icc__spire__frostwyrm.html#ab3364130aacf675602317651a244ae2c":[7,0,1934,1],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#abfc762cea6b7e40aaaff50b933410127":[7,0,1934,3],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#ad193a9355e11ea25792e6285d375a488":[7,0,1934,7],
 "d7/d70/structnpc__invisible__tractor__beam__source.html":[7,0,1953],
@@ -249,5 +248,6 @@ var NAVTREEINDEX205 =
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,9,1,4,3],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a7799016b55afde2db1b879d1a71ad9":[8,0,0,0,1,3,2,9,1,4,9],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[8,0,0,0,1,3,2,9,1,4,2],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,2,9,1,4,8]
+"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,2,9,1,4,8],
+"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[8,0,0,0,1,3,2,9,1,4,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX187 =
 {
-"d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7ab3b19a1df4ad499c62a9d286a6a1c68a":[8,0,0,0,1,3,5,7,16,5,25],
 "d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7abf380981fa89ed13b0487fd0275fe6ef":[8,0,0,0,1,3,5,7,16,5,3],
 "d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7ac025a3279f2371bf6621f647ca2fe257":[8,0,0,0,1,3,5,7,16,5,32],
 "d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7acee54695aea8f1097ce5fe1a83b499b9":[8,0,0,0,1,3,5,7,16,5,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX187 =
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a4ae899da49e9f03f3ea23559ccc2e561":[7,0,2272,12],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a51a2ad26cba213816a207f7f69591b4a":[7,0,2272,8],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a5c3643f96efcfbc0272d906b083ef7a3":[7,0,2272,4],
-"d6/d8f/structnpc__ulduar__aerial__command__unit.html#a63f7b08da3b96b12fb93e2366c4617b7":[7,0,2272,2]
+"d6/d8f/structnpc__ulduar__aerial__command__unit.html#a63f7b08da3b96b12fb93e2366c4617b7":[7,0,2272,2],
+"d6/d8f/structnpc__ulduar__aerial__command__unit.html#a6976c445331a25cd2735e963a102157c":[7,0,2272,15]
 };

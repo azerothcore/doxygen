@@ -1,6 +1,5 @@
 var NAVTREEINDEX400 =
 {
-"de/dcc/classspell__halion__leave__twilight__realm__aura.html#a7165da94ce589afcd24411a308802c18":[7,0,3212,0],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49":[7,0,3212,1],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#ab8361bc1d2cc786b52f1fc2b7ff09527":[7,0,3212,2],
 "de/dcc/classspell__halion__leave__twilight__realm__aura.html#acf29b80b7b74c3f409e1f046b8062994":[7,0,3212,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX400 =
 "de/de1/classspell__pri__imp__shadowform.html#ac81521531646341356525465bac2a816":[7,0,3842,0],
 "de/de2/structgo__bells_1_1go__bellsAI.html":[7,0,1161,0],
 "de/de2/structgo__bells_1_1go__bellsAI.html#a46c66442078cee28a76fc412746ca026":[7,0,1161,0,2],
-"de/de2/structgo__bells_1_1go__bellsAI.html#a6f22847c66a3b5faded35da799359846":[7,0,1161,0,0]
+"de/de2/structgo__bells_1_1go__bellsAI.html#a6f22847c66a3b5faded35da799359846":[7,0,1161,0,0],
+"de/de2/structgo__bells_1_1go__bellsAI.html#ab2491e9d27266ea69a5a9163e8c1b35b":[7,0,1161,0,3]
 };

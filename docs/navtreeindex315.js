@@ -1,6 +1,5 @@
 var NAVTREEINDEX315 =
 {
-"db/ddc/ItemPackets_8cpp.html":[8,0,0,0,1,2,39,0,17],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[7,0,13,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[7,0,13,6,48,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX315 =
 "db/de6/ServiceWin32_8cpp.html":[8,0,0,0,0,12,0],
 "db/de6/structTargetInfo.html":[7,0,4561],
 "db/de6/structTargetInfo.html#a2de96d62297ff614fc3702bec035ce5b":[7,0,4561,6],
-"db/de6/structTargetInfo.html#a5bdf23f41a4a748f96dd9fffa8e8a838":[7,0,4561,2]
+"db/de6/structTargetInfo.html#a5bdf23f41a4a748f96dd9fffa8e8a838":[7,0,4561,2],
+"db/de6/structTargetInfo.html#a6c17740427f4f90c7c2e4fb4854ab4b3":[7,0,4561,5]
 };

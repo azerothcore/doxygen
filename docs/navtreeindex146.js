@@ -1,6 +1,5 @@
 var NAVTREEINDEX146 =
 {
-"d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3":[8,0,0,0,1,3,2,1,2,7,3],
 "d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a2f41794aafc9d878c1d2e3aa735cbf44":[8,0,0,0,1,3,2,1,2,7,3,2],
 "d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a94e576c5e1cd6e3c291b9d20e35a3463":[8,0,0,0,1,3,2,1,2,7,3,3],
 "d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3aae6a7bd26e8ee17a505a5f6c6f720316":[8,0,0,0,1,3,2,1,2,7,3,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX146 =
 "d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#a003e9c77e59008ea78b3f1e9977ab5d6":[7,0,4091,2],
 "d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#a858929800089fee1a06948bda1c8806f":[7,0,4091,1],
 "d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#ac74d25501690970c607a146eec02ab24":[7,0,4091,0],
-"d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html":[7,0,2244,0]
+"d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html":[7,0,2244,0],
+"d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html#a4aa59b136b97859d15b39fd2fbbdf53d":[7,0,2244,0,2]
 };

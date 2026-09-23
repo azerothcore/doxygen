@@ -1,6 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dc/d8d/classVMAP_1_1TileAssembler.html#ab3ed8e882c59d777d8c5312449b86753":[5,0,31,18,2],
 "dc/d8d/classVMAP_1_1TileAssembler.html#ab3ed8e882c59d777d8c5312449b86753":[7,0,11,18,2],
 "dc/d8d/classVMAP_1_1TileAssembler.html#ad444a6005a59975ed0ca78f180dcba7d":[5,0,31,18,7],
 "dc/d8d/classVMAP_1_1TileAssembler.html#ad444a6005a59975ed0ca78f180dcba7d":[7,0,11,18,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX334 =
 "dc/da1/structnpc__sartura__royal__guard.html#a3ce2aeec4e5f26916ef50bdeea624c9d":[7,0,2156,0],
 "dc/da2/classArenaTeamFilterFactoryByUserInput.html":[7,0,202],
 "dc/da2/classArenaTeamFilterFactoryByUserInput.html#a79a78392d31f1fbf3d8475572d570c1c":[7,0,202,1],
-"dc/da2/classArenaTeamFilterFactoryByUserInput.html#ae35ff456f56290032c4c62d252a83690":[7,0,202,0]
+"dc/da2/classArenaTeamFilterFactoryByUserInput.html#ae35ff456f56290032c4c62d252a83690":[7,0,202,0],
+"dc/da2/classnpc__saurfang__event.html":[7,0,2157]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"d9/d16/structMetricData.html#a09832a09e989c3851e72f4ec198f0e20":[7,0,1553,6],
 "d9/d16/structMetricData.html#a6a7956fedac99271428968ba339f464f":[7,0,1553,0],
 "d9/d16/structMetricData.html#a8248a27d920ca431493750e3f2dec48b":[7,0,1553,3],
 "d9/d16/structMetricData.html#a857d2d4843480b9967334f079351292a":[7,0,1553,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX245 =
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[8,0,0,0,1,3,2,4,2,3],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,2,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,2,2,3],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba27ce692ed085c6170fc7b22e4ed99c49":[8,0,0,0,1,3,2,4,2,2,2]
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba27ce692ed085c6170fc7b22e4ed99c49":[8,0,0,0,1,3,2,4,2,2,2],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,2,2,0]
 };

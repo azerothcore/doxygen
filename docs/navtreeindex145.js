@@ -1,6 +1,5 @@
 var NAVTREEINDEX145 =
 {
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a39c909b67fcdc81542470b6e96256fd5":[7,0,2274,4],
 "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a4ec8487028b188347cf0c9a080076fe6":[7,0,2274,2],
 "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a776782a85892d2d674773573be25bfa0":[7,0,2274,1],
 "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a788d3eaba382e3af897678f6709a0242":[7,0,2274,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX145 =
 "d4/df6/Position_8cpp.html#a72e22c3226b5f361848aef2c75a6d3fb":[8,0,0,0,1,2,16,5,10,2],
 "d4/df6/Position_8cpp.html#ab63323f8a9ade40ddd90338538b5c9b5":[8,0,0,0,1,2,16,5,10,1],
 "d4/df6/Position_8cpp.html#af223d782e9dcf0f80ed4009360aa0d80":[8,0,0,0,1,2,16,5,10,3],
-"d4/df6/boss__razorgore_8cpp.html":[8,0,0,0,1,3,2,1,2,7]
+"d4/df6/boss__razorgore_8cpp.html":[8,0,0,0,1,3,2,1,2,7],
+"d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3":[8,0,0,0,1,3,2,1,2,7,3]
 };

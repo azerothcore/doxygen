@@ -1,6 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/d45/classAuraStub.html#a302b190366d2c9361ef69b86296a36d3":[7,0,301,22],
 "d8/d45/classAuraStub.html#a349ac0a5abc039a57ec407295f5e4007":[7,0,301,6],
 "d8/d45/classAuraStub.html#a399397839eb3f7f72660b0edf4449fda":[7,0,301,20],
 "d8/d45/classAuraStub.html#a3ca4c53254b1d30a5ade59d874cac50b":[7,0,301,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX227 =
 "d8/d4d/classspell__dru__savage__roar__aura.html#a4d2941ebb326d603ac08f428f811c29b":[7,0,2941,0],
 "d8/d4d/classspell__dru__savage__roar__aura.html#a78e30a950b9fc08dff5072028816b8b4":[7,0,2941,3],
 "d8/d4d/classspell__dru__savage__roar__aura.html#ac1e50413041edbecd5cc4189a1121cb5":[7,0,2941,1],
-"d8/d4d/classspell__dru__savage__roar__aura.html#ac3502abb9d6ef213ffd2413eba7916b2":[7,0,2941,4]
+"d8/d4d/classspell__dru__savage__roar__aura.html#ac3502abb9d6ef213ffd2413eba7916b2":[7,0,2941,4],
+"d8/d4d/classspell__dru__savage__roar__aura.html#afa99d3e45e4a54c41b59ec317ffdd9b9":[7,0,2941,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX192 =
 {
-"d6/dcc/classBag.html#ae0593c22c7dd8b32cab469af92fb200c":[7,0,316,0],
 "d6/dcc/classBag.html#ae34ce4a4d974410aca8880ee0db1cf18":[7,0,316,14],
 "d6/dcc/classBag.html#ae6e6f304dbac50eb9ee6a0628c7cb391":[7,0,316,11],
 "d6/dcc/classspell__close__rift__aura.html":[7,0,2786],
@@ -249,5 +248,6 @@ var NAVTREEINDEX192 =
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca1821fff7f4e5ed40d07d375ace29f292":[8,0,0,0,1,3,5,10,1,1,17,13],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bca3850b747604287d44c8cd7152f7e":[8,0,0,0,1,3,5,10,1,1,17,12],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca30865b6396c660d23d602cb1ba43475b":[8,0,0,0,1,3,5,10,1,1,17,5],
-"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca46135dc5d83b3aa0e93c9c6931550ad5":[8,0,0,0,1,3,5,10,1,1,17,14]
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca46135dc5d83b3aa0e93c9c6931550ad5":[8,0,0,0,1,3,5,10,1,1,17,14],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bfa2e7394ccef49cfcc2ffcfc378203":[8,0,0,0,1,3,5,10,1,1,17,15]
 };

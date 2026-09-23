@@ -1,6 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dc/d26/Trainer_8cpp.html":[8,0,0,0,1,2,16,1,10],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html":[8,0,0,0,1,3,7,5,0,5],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a0882a32bfa1f067701d921a72b7c79b5":[8,0,0,0,1,3,7,5,0,5,3],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,0,5,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX322 =
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa1eb13881675a3055393d334f54354a4b":[8,0,0,0,1,3,7,1,0,5,3],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,7,1,0,5,6],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa4953136f0d1a5c81a6423295903ce5eb":[8,0,0,0,1,3,7,1,0,5,4],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7245352acd89bb98f7bb88d42891147e":[8,0,0,0,1,3,7,1,0,5,8]
+"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7245352acd89bb98f7bb88d42891147e":[8,0,0,0,1,3,7,1,0,5,8],
+"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7378981eb780646c36b9d8773f548625":[8,0,0,0,1,3,7,1,0,5,2]
 };

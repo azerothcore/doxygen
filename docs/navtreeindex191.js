@@ -1,6 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"d6/dc1/classspell__xt002__stand.html#a679cf770e38e1fda66f8a64fff53f968":[7,0,4432,0],
 "d6/dc1/classspell__xt002__stand.html#a89fe5ca5efcc45278bdd9017cfeaaf3f":[7,0,4432,1],
 "d6/dc1/classspell__xt002__stand.html#adc76a70e73cba42c0f9935b3b43d17cd":[7,0,4432,2],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html":[8,0,0,0,1,3,7,0,2,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX191 =
 "d6/dcc/classBag.html#ac1f55a19c69604914ab2f7576d3be016":[7,0,316,5],
 "d6/dcc/classBag.html#ad2fdcedba1dec947bfddfcd55a4d92a0":[7,0,316,19],
 "d6/dcc/classBag.html#ad5f4da5a3bc645d29c15651190a41d5e":[7,0,316,8],
-"d6/dcc/classBag.html#ad8c47ab6e44c8dd8713d4af4b07a5df4":[7,0,316,12]
+"d6/dcc/classBag.html#ad8c47ab6e44c8dd8713d4af4b07a5df4":[7,0,316,12],
+"d6/dcc/classBag.html#ae0593c22c7dd8b32cab469af92fb200c":[7,0,316,0]
 };

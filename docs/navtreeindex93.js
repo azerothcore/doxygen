@@ -1,6 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"d3/d03/structboss__gormok_1_1boss__gormokAI.html#adf5d8f5a9e275f12da122701f0606083":[7,0,520,0,9],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#aff3dab2b81e39198ca84330e6094aa8e":[7,0,520,0,0],
 "d3/d04/classSpellProcEquipmentTest.html":[7,0,4508],
 "d3/d04/classSpellProcEquipmentTest.html#aae16272567352cb8730edcba3908a08f":[7,0,4508,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX93 =
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[7,0,3179,0],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[7,0,3179,1],
 "d3/d0a/classspell__necropolis__beam.html":[7,0,3728],
-"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[7,0,3728,0]
+"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[7,0,3728,0],
+"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[7,0,3728,1]
 };

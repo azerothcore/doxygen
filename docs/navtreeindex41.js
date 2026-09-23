@@ -1,6 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"d1/dab/classspell__hookshot__aura.html#ac528c63dedbf16f1f88c3d6ffdb9ef69":[7,0,3250,2],
 "d1/dab/structboss__mimiron.html":[7,0,636],
 "d1/dab/structboss__mimiron.html#a0b1497cf1fc3cca2db670b74eb4745ee":[7,0,636,7],
 "d1/dab/structboss__mimiron.html#a1fe4524d60414c100e0489bb77396033":[7,0,636,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX41 =
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a6a87e4624cd0ceb45668005528094937":[8,0,0,0,1,2,16,10,5,41,4],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a753de913b5eed5c74aaa9d3b567a3980":[8,0,0,0,1,2,16,10,5,41,3],
 "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a955f8a1e9b85ae1f13831001779d0dc9":[8,0,0,0,1,2,16,10,5,41,5],
-"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930adb4991dc5d3badb8e27bb713ecebb178":[8,0,0,0,1,2,16,10,5,41,1]
+"d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930adb4991dc5d3badb8e27bb713ecebb178":[8,0,0,0,1,2,16,10,5,41,1],
+"d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3":[8,0,0,0,1,2,16,10,5,36]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/d16/structboss__marwyn.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd":[7,0,630,0],
 "d8/d16/structboss__marwyn.html#ae8d1b8908983af8bff1f13641472817f":[7,0,630,7],
 "d8/d16/structboss__marwyn.html#aee335b57c5249ecd4ce843e0f1694e80":[7,0,630,8],
 "d8/d17/ObjectAccessor_8h.html":[8,0,0,0,1,2,18,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a6cb5d9bdf26bc96a24e5660ca3b3758b":[5,0,0,106,1],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#aad16511b6a9aaa3eb561f636475ffe97":[5,0,0,106,3],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#aad16511b6a9aaa3eb561f636475ffe97":[7,0,0,94,3],
-"d8/d26/classCinematicMgr.html":[7,0,900]
+"d8/d26/classCinematicMgr.html":[7,0,900],
+"d8/d26/classCinematicMgr.html#a0535dee9b0ec7aa6176809c6dca16b30":[7,0,900,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7":[7,0,1751,0,18],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#acd3edee41c80992ee97130eac6912c18":[7,0,1751,0,2],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aee85ef406a6bc0644ec2e35a4a7f22d5":[7,0,1751,0,4],
 "de/d92/classLootTemplate_1_1LootGroup.html":[7,0,1503,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX393 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[7,0,13,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,34,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,34,6,43,3],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[7,0,13,6,43,3]
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[7,0,13,6,43,3],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,34,6,43,2]
 };

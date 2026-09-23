@@ -1,6 +1,5 @@
 var NAVTREEINDEX242 =
 {
-"d8/deb/SpellAuraEffects_8h.html#a9e98d9a1c1cc41922f386b184fd7ce67":[8,0,0,0,1,2,41,0,2,2],
 "d8/deb/classnpc__essence__of__twin.html":[7,0,1824],
 "d8/deb/classnpc__essence__of__twin.html#a019de64e5e01e611acfda5db4c279b19":[7,0,1824,0],
 "d8/deb/classnpc__essence__of__twin.html#a6f37b7f1152098b41b07ddbae3613c63":[7,0,1824,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX242 =
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[7,0,0,111,0],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0]
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0],
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[7,0,558,0,8]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX415 =
 {
-"df/d7f/structboss__novos.html#a1cbe1a2536171688e78da2cfda04effa":[7,0,657,10],
 "df/d7f/structboss__novos.html#a2488d1b0be72b76e2ea125dad3986217":[7,0,657,12],
 "df/d7f/structboss__novos.html#a47ae86a8b48aeebebfca23ee44d4563e":[7,0,657,3],
 "df/d7f/structboss__novos.html#a5a6651d0e08c0557d53174d40da0fac3":[7,0,657,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX415 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,0,69,4],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[7,0,0,57,4],
 "df/d88/classspell__hallows__end__trick.html":[7,0,3230],
-"df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[7,0,3230,2]
+"df/d88/classspell__hallows__end__trick.html#a0fbc130652e58d9418cb3c5036b6aed2":[7,0,3230,2],
+"df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[7,0,3230,0]
 };

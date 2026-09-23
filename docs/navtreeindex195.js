@@ -1,6 +1,5 @@
 var NAVTREEINDEX195 =
 {
-"d6/df0/classspell__twisted__reflection.html#ab5728e2c3df5b887c26f2485575087ff":[7,0,4289,1],
 "d6/df1/classspell__sha__astral__shift.html":[7,0,4094],
 "d6/df1/classspell__sha__astral__shift.html#a55c4409f74c86853d0bf5b157f6c194c":[7,0,4094,5],
 "d6/df1/classspell__sha__astral__shift.html#a7b71990051faaa083110408c13b8401f":[7,0,4094,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX195 =
 "d6/dfd/structboss__zuramat.html#a76c2de51333f57db6612effb92d07bd1":[7,0,826,5],
 "d6/dfd/structboss__zuramat.html#ae3f00d76928cbd6adf7882f4cccc0518":[7,0,826,6],
 "d6/dfd/structboss__zuramat.html#af033b96498fb71059701caad1fed8f8a":[7,0,826,0],
-"d6/dfd/structboss__zuramat.html#afc8869687e9a6050cfee2c674ef7e7f1":[7,0,826,8]
+"d6/dfd/structboss__zuramat.html#afc8869687e9a6050cfee2c674ef7e7f1":[7,0,826,8],
+"d6/dfe/classnpc__toc__hunter.html":[7,0,2245]
 };

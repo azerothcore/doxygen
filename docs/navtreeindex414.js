@@ -1,6 +1,5 @@
 var NAVTREEINDEX414 =
 {
-"df/d72/classAccountMgr.html":[7,0,30],
 "df/d72/classAccountMgr.html#a05785c0cba8eb448ae4efeffaf5f862e":[7,0,30,11],
 "df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27],
 "df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX414 =
 "df/d7f/structboss__novos.html#a05511ce949e0dc1a8e64832625b1bc64":[7,0,657,16],
 "df/d7f/structboss__novos.html#a0601276c570ee0912e3014ad60774f9a":[7,0,657,13],
 "df/d7f/structboss__novos.html#a0aecc4467b0a29a8e8eb7df9a8e68d71":[7,0,657,17],
-"df/d7f/structboss__novos.html#a0f5bde7e5d7fd31887d22a6151e99c48":[7,0,657,1]
+"df/d7f/structboss__novos.html#a0f5bde7e5d7fd31887d22a6151e99c48":[7,0,657,1],
+"df/d7f/structboss__novos.html#a1cbe1a2536171688e78da2cfda04effa":[7,0,657,10]
 };

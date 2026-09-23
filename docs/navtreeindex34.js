@@ -1,6 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"d1/d4f/classQuest.html#a7b29e769ae395f8de78b955f4aa2b38d":[7,0,2514,48],
 "d1/d4f/classQuest.html#a7b47bf51aef847aedff290015cb53b38":[7,0,2514,161],
 "d1/d4f/classQuest.html#a7c067ea4d0fbf622a17eec3ad7414594":[7,0,2514,71],
 "d1/d4f/classQuest.html#a7c14cc8094f7a08b53ce973c78639cb3":[7,0,2514,162],
@@ -114,12 +113,12 @@ var NAVTREEINDEX34 =
 "d1/d53/classspell__mammoth__explosion.html#ac1bfb2b49cd335ca5961b984fadfffb8":[7,0,3668,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[7,0,0,119],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,0,131],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,0,131,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[7,0,0,119,1],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,0,131,1],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[5,0,0,131,4],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[7,0,0,119,4],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,0,131,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[7,0,0,119,8],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a1d6dc64937ae790d7414456e4644c13b":[5,0,0,131,8],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[5,0,0,131,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a28ded6ec2d69f1a1bd298a9aa11206e1":[7,0,0,119,3],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7":[5,0,0,131,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX34 =
 "d1/d5c/structbrd__ironhand__guardian.html#a1b162039fc21a7eddddd22ed9c97e9cb":[7,0,838,3],
 "d1/d5c/structbrd__ironhand__guardian.html#a635a59a53948b6e252a15384d784a969":[7,0,838,0],
 "d1/d5c/structbrd__ironhand__guardian.html#a7677681c4d39ed73f4143caa66a1a5de":[7,0,838,1],
-"d1/d5c/structbrd__ironhand__guardian.html#a8840ead9b577888ec2ac15d68ddffe71":[7,0,838,2]
+"d1/d5c/structbrd__ironhand__guardian.html#a8840ead9b577888ec2ac15d68ddffe71":[7,0,838,2],
+"d1/d5d/classboss__mr__smite.html":[7,0,645]
 };

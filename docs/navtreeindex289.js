@@ -1,6 +1,5 @@
 var NAVTREEINDEX289 =
 {
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53":[8,0,0,0,1,2,38,0,9,2,11],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb":[8,0,0,0,1,2,38,0,9,2,19],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323":[8,0,0,0,1,2,38,0,9,2,10],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5":[8,0,0,0,1,2,38,0,9,2,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX289 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1]
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[7,0,0,93,3]
 };

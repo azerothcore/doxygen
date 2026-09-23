@@ -1,6 +1,5 @@
 var NAVTREEINDEX179 =
 {
-"d6/d39/classspell__karathress__power__of__caribdis.html#aa6aa32b3adc89ac405f071fa9b804778":[7,0,3555,2],
 "d6/d39/classspell__karathress__power__of__caribdis.html#ac9231c238adf7e733d55bc6098daddc0":[7,0,3555,1],
 "d6/d3a/cs__bag_8cpp.html":[8,0,0,0,1,3,0,4],
 "d6/d3a/cs__bag_8cpp.html#a8fa1e803122341d611168b2b62fde4e5":[8,0,0,0,1,3,0,4,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX179 =
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[7,0,11,25,6],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[5,0,31,25,6],
 "d6/d4c/structboss__pathaleon__the__calculator.html":[7,0,670],
-"d6/d4c/structboss__pathaleon__the__calculator.html#a0224d47bc85fe54c0cfded69b55e57b3":[7,0,670,3]
+"d6/d4c/structboss__pathaleon__the__calculator.html#a0224d47bc85fe54c0cfded69b55e57b3":[7,0,670,3],
+"d6/d4c/structboss__pathaleon__the__calculator.html#a3ba024e86ceb83ebb26afcc11a75791d":[7,0,670,4]
 };

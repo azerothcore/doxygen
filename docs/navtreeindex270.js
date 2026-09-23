@@ -1,6 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"da/d44/classspell__freya__attuned__to__nature__dose__reduction.html":[7,0,3002],
 "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html#a269167ff78ae3110193f7cfe4b4c0ef4":[7,0,3002,0],
 "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html#a79975a7f3e523c0feb87d3e084f98808":[7,0,3002,1],
 "da/d44/classspell__freya__attuned__to__nature__dose__reduction.html#aec017333dfc19701472dad3987538e69":[7,0,3002,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX270 =
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80ae121092839706733b71c636b1ca9b9ab":[8,0,0,0,1,3,5,12,9,7,4],
 "da/d4c/violet__hold_8h.html#a543dcb5e72bf511136d67291c2881f80ae8e4a359bfda90e3069bfedaeb0c9223":[8,0,0,0,1,3,5,12,9,7,8],
 "da/d4c/violet__hold_8h.html#a584f552f8fb04cc894388a7c32771830":[8,0,0,0,1,3,5,12,9,12],
-"da/d4c/violet__hold_8h.html#a65f60397d6fe59dc180d39acd7a5a7af":[8,0,0,0,1,3,5,12,9,8]
+"da/d4c/violet__hold_8h.html#a65f60397d6fe59dc180d39acd7a5a7af":[8,0,0,0,1,3,5,12,9,8],
+"da/d4c/violet__hold_8h.html#a65f60397d6fe59dc180d39acd7a5a7afa0163c0b2425a6bc5658f01e6b42d4cdb":[8,0,0,0,1,3,5,12,9,8,1]
 };

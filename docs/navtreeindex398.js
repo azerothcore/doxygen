@@ -1,6 +1,5 @@
 var NAVTREEINDEX398 =
 {
-"de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8":[8,0,0,0,1,3,2,15,5,4],
 "de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8a442f7cb62d0db88501e0eee95acd1701":[8,0,0,0,1,3,2,15,5,4,1],
 "de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8a96e2c79d95b3dd0d90100123f1302f85":[8,0,0,0,1,3,2,15,5,4,0],
 "de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84":[8,0,0,0,1,3,2,15,5,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX398 =
 "de/db9/structnpc__highlord__darion__mograine.html#a7eb1df2352397d310c103021fb9cf6aa":[7,0,1899,23],
 "de/db9/structnpc__highlord__darion__mograine.html#a918e690e583f56b614c40962e6f03584":[7,0,1899,7],
 "de/db9/structnpc__highlord__darion__mograine.html#a97316e53810639305928a489e940a924":[7,0,1899,15],
-"de/db9/structnpc__highlord__darion__mograine.html#a9acef8952a1963862117f2f2442d5bc4":[7,0,1899,14]
+"de/db9/structnpc__highlord__darion__mograine.html#a9acef8952a1963862117f2f2442d5bc4":[7,0,1899,14],
+"de/db9/structnpc__highlord__darion__mograine.html#aa07c3ee6c928cb383ce4904f81215e52":[7,0,1899,6]
 };

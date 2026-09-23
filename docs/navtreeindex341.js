@@ -1,6 +1,5 @@
 var NAVTREEINDEX341 =
 {
-"dc/de8/classBattlegroundIC.html#abf392eaf04298c86b09a5b0f524650de":[7,0,343,40],
 "dc/de8/classBattlegroundIC.html#abfa82175f6e7b461ffccdf4cd300f296":[7,0,343,22],
 "dc/de8/classBattlegroundIC.html#ac0682d6c6402a7aed48f84f9e06a711b":[7,0,343,0],
 "dc/de8/classBattlegroundIC.html#ac162b3728f73db66fbb4d65386a89c01":[7,0,343,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX341 =
 "dc/dfb/classspell__mage__deep__freeze__immunity__state.html#a1025c7edec455f647c5c37ffebdf7576":[7,0,3624,1],
 "dc/dfb/classspell__mage__deep__freeze__immunity__state.html#a282d4aced8b34e5d800e13dc8e71ef7b":[7,0,3624,2],
 "dc/dfb/classspell__mage__deep__freeze__immunity__state.html#af7756cdb71cc2acc15c56fffc49609f4":[7,0,3624,0],
-"dc/dfc/classByteBufferPositionException.html":[7,0,847]
+"dc/dfc/classByteBufferPositionException.html":[7,0,847],
+"dc/dfc/classByteBufferPositionException.html#a6c2e31012a8ccf20d52c6431e024a576":[7,0,847,0]
 };

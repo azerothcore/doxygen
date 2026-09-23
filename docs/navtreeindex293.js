@@ -1,6 +1,5 @@
 var NAVTREEINDEX293 =
 {
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[7,0,723,0,6],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[7,0,723,0,4],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[7,0,723,0,1],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[7,0,723,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX293 =
 "db/d3d/classspell__igb__incinerating__blast.html#ae7a8d0cc36708b11f8eefebd5df0a980":[7,0,3325,1],
 "db/d3d/classspell__igb__incinerating__blast.html#af082a763f6524aeb5ae2eb3c82fd12e5":[7,0,3325,5],
 "db/d3d/classspell__item__mana__injector.html":[7,0,3454],
-"db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[7,0,3454,0]
+"db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[7,0,3454,0],
+"db/d3d/classspell__item__mana__injector.html#a8847e05e6eeafd801fca5423d0689432":[7,0,3454,2]
 };

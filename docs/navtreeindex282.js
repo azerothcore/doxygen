@@ -1,6 +1,5 @@
 var NAVTREEINDEX282 =
 {
-"da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93":[7,0,437,0,14],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a68adf734efff345529dbb74bebe15798":[7,0,437,0,10],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a745d411fc485892529cb4cc6f06ba3af":[7,0,437,0,16],
 "da/db9/structboss__darkmaster__gandling_1_1boss__darkmaster__gandlingAI.html#a7ca1847b3223c82f7c190546809c49bc":[7,0,437,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX282 =
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda8972cf61a8fe94379d50f9b737894863":[8,0,0,0,1,2,16,7,5,121,4],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda8de0423ce1a8d2ebbbb183eadd16395c":[8,0,0,0,1,2,16,7,5,121,1],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda945e4b3576964b0f0d216c1c7f5184f5":[8,0,0,0,1,2,16,7,5,121,16],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda98fa49b932c897b052a6065a1979045b":[8,0,0,0,1,2,16,7,5,121,20]
+"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda98fa49b932c897b052a6065a1979045b":[8,0,0,0,1,2,16,7,5,121,20],
+"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda9a591d06e9f3ca54de79e7b643d468f9":[8,0,0,0,1,2,16,7,5,121,3]
 };

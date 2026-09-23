@@ -1,6 +1,5 @@
 var NAVTREEINDEX180 =
 {
-"d6/d4c/structboss__pathaleon__the__calculator.html#a3ba024e86ceb83ebb26afcc11a75791d":[7,0,670,4],
 "d6/d4c/structboss__pathaleon__the__calculator.html#a679dc3ccc23c6def44e0f0669822e146":[7,0,670,0],
 "d6/d4c/structboss__pathaleon__the__calculator.html#a814cb56cc18277cb4adbd7dc8a82b06d":[7,0,670,2],
 "d6/d4c/structboss__pathaleon__the__calculator.html#a899fd2e1e01ac1347e43bcb290babc5b":[7,0,670,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX180 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26":[8,0,0,0,1,3,2,8,0,11,4],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc":[8,0,0,0,1,3,2,8,0,11,2],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203":[8,0,0,0,1,3,2,8,0,11,10],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe":[8,0,0,0,1,3,2,8,0,11,9]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe":[8,0,0,0,1,3,2,8,0,11,9],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,2,8,0,11,0]
 };

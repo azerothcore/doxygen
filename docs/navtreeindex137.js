@@ -1,6 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/d90/classgo__southfury__moonstone.html#aed27e57e8232e156177c293ad0c0b4bb":[7,0,1224,0],
 "d4/d90/classspell__q10036__torgos.html":[7,0,3894],
 "d4/d90/classspell__q10036__torgos.html#a698e367b59ce770a9b4d9fe6890edf46":[7,0,3894,0],
 "d4/d90/classspell__q10036__torgos.html#aa55fa06e76b1f34e319e16984405ed20":[7,0,3894,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX137 =
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769":[8,0,0,0,1,3,5,2,1,3,13],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a2a02baa6f6b0fc05418cc7cec5b10907":[8,0,0,0,1,3,5,2,1,3,13,6],
 "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a3d856bd5617569f31a5ba1155f5262da":[8,0,0,0,1,3,5,2,1,3,13,3],
-"d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a68040025176606dd28ce098bde0c1676":[8,0,0,0,1,3,5,2,1,3,13,5]
+"d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a68040025176606dd28ce098bde0c1676":[8,0,0,0,1,3,5,2,1,3,13,5],
+"d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a71d875578da0ac5e5ef35114fa0fe497":[8,0,0,0,1,3,5,2,1,3,13,4]
 };

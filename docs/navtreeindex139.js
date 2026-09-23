@@ -1,6 +1,5 @@
 var NAVTREEINDEX139 =
 {
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a68e3286d52c922444bdb8ebf3579d01e":[7,0,1354,0,82],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a69c931f90ef4709344e243b3e463c763":[7,0,1354,0,89],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a6e5772e74fec6595374d8341591af681":[7,0,1354,0,67],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#a6f6446cedc105d48054ab8229c9036e4":[7,0,1354,0,122],
@@ -249,5 +248,6 @@ var NAVTREEINDEX139 =
 "d4/dab/classMMAP_1_1MapBuilder.html#ad757b128d73f36665ccc63fbc28f2e74":[7,0,6,2,12],
 "d4/dab/classMMAP_1_1MapBuilder.html#ad757b128d73f36665ccc63fbc28f2e74":[5,0,20,2,12],
 "d4/dab/classMMAP_1_1MapBuilder.html#add36069c0521738ff600d6a4c63aae43":[5,0,20,2,34],
-"d4/dab/classMMAP_1_1MapBuilder.html#add36069c0521738ff600d6a4c63aae43":[7,0,6,2,34]
+"d4/dab/classMMAP_1_1MapBuilder.html#add36069c0521738ff600d6a4c63aae43":[7,0,6,2,34],
+"d4/dab/classMMAP_1_1MapBuilder.html#ae68a24d427865a7e3b2f2a2c9748d7f0":[5,0,20,2,22]
 };

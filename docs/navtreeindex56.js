@@ -1,6 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116":[8,0,0,0,1,2,16,11,2,9],
 "d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0":[8,0,0,0,1,2,16,11,2,9,3],
 "d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d":[8,0,0,0,1,2,16,11,2,9,2],
 "d2/d2c/VehicleDefines_8h.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427":[8,0,0,0,1,2,16,11,2,9,1],
@@ -95,16 +94,16 @@ var NAVTREEINDEX56 =
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html":[7,0,2516],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[7,0,2516,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[7,0,2516,0],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[5,0,34,7,5],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[7,0,13,7,5],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[5,0,34,7,5],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[7,0,13,7,5,0],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[5,0,34,7,5,2],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[7,0,13,7,5,2],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[7,0,13,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[7,0,13,7,5,4],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[7,0,13,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[5,0,34,7,5,4],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[7,0,13,7,5,4],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[5,0,34,7,5,3],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[7,0,13,7,5,3],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[7,0,3609],
@@ -164,8 +163,8 @@ var NAVTREEINDEX56 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[7,0,3466,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[7,0,3466,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[7,0,3466,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX56 =
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba6db06b2b26df09a77ac22be870092a9f":[8,0,0,0,1,2,8,1,1,7,3],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba":[8,0,0,0,1,2,8,1,1,7,9],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9bababa1c289a4cc48f49d5158962c7a654ea":[8,0,0,0,1,2,8,1,1,7,0],
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacbe3a72209c0fb6f9567d37056c651d3":[8,0,0,0,1,2,8,1,1,7,5]
+"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacbe3a72209c0fb6f9567d37056c651d3":[8,0,0,0,1,2,8,1,1,7,5],
+"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacf222243191f9ac4a83ff33723f923b4":[8,0,0,0,1,2,8,1,1,7,2]
 };

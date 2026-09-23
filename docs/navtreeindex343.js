@@ -1,6 +1,5 @@
 var NAVTREEINDEX343 =
 {
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[7,0,13,6,10,3],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,34,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[7,0,13,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[7,0,13,6,10,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX343 =
 "dd/d19/structnpc__time__rift.html#a7872706f9b5bdee7e6ca2d94e39e592f":[7,0,2235,11],
 "dd/d19/structnpc__time__rift.html#a8eab9c3011c885321d59e2884318d0e8":[7,0,2235,8],
 "dd/d19/structnpc__time__rift.html#aa312223ece9f0f1c4ac2861aed3988a9":[7,0,2235,10],
-"dd/d19/structnpc__time__rift.html#ab553bcc40699a63310feaaa7b1bd2604":[7,0,2235,0]
+"dd/d19/structnpc__time__rift.html#ab553bcc40699a63310feaaa7b1bd2604":[7,0,2235,0],
+"dd/d19/structnpc__time__rift.html#ab5924378c7978c6fae95f9861040c63d":[7,0,2235,6]
 };

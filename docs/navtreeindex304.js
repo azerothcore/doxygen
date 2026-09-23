@@ -1,6 +1,5 @@
 var NAVTREEINDEX304 =
 {
-"db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html#a0702d4cf577ac00688a7b93bfe656952":[7,0,1720,0,4],
 "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html#a15843fcdc5d9eb34df7869b56a0b16ac":[7,0,1720,0,1],
 "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html#a46e03a19bac91a800154e3c873235800":[7,0,1720,0,5],
 "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html#ac9ba0806b9702cebe9171d9ba8962b0f":[7,0,1720,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX304 =
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a51f45c2efce0c0ccd16e79d96051cf11":[5,0,21,7,1],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a6114527c0a5e68d0e3f049b54ec9d161":[5,0,21,7,39],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a6114527c0a5e68d0e3f049b54ec9d161":[7,0,7,7,39],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a61a40ce0b6ea77a9af8604e6ee99bbf6":[7,0,7,7,30]
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a61a40ce0b6ea77a9af8604e6ee99bbf6":[7,0,7,7,30],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a61a40ce0b6ea77a9af8604e6ee99bbf6":[5,0,21,7,30]
 };

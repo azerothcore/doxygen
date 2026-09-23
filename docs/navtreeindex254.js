@@ -1,6 +1,5 @@
 var NAVTREEINDEX254 =
 {
-"d9/d84/LootMgr_8h.html#a31e68d51b0fcf3e28a4479991359a8b3":[8,0,0,0,1,2,24,3,44],
 "d9/d84/LootMgr_8h.html#a37571dff8ec8d0034df583b5dc062bf2":[8,0,0,0,1,2,24,3,17],
 "d9/d84/LootMgr_8h.html#a3dc44988fdd6d697ac3b459b0276e098":[8,0,0,0,1,2,24,3,13],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5a":[8,0,0,0,1,2,24,3,24],
@@ -249,5 +248,6 @@ var NAVTREEINDEX254 =
 "d9/d8b/classMapGridManager.html#ae381b54e599dce0c02815faf82711200":[7,0,1537,13],
 "d9/d8b/classMapGridManager.html#af08729c03f8641a00ab1cc1b014214df":[7,0,1537,0],
 "d9/d8b/structboss__sothos.html":[7,0,725],
-"d9/d8b/structboss__sothos.html#a042578148cae9a0b9befb7c5747a8e99":[7,0,725,5]
+"d9/d8b/structboss__sothos.html#a042578148cae9a0b9befb7c5747a8e99":[7,0,725,5],
+"d9/d8b/structboss__sothos.html#a1433dddccb71896016bc014bdf92b453":[7,0,725,1]
 };

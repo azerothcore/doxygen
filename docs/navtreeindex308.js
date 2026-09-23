@@ -1,6 +1,5 @@
 var NAVTREEINDEX308 =
 {
-"db/db7/classspell__portal__effect__acherus.html#ab0ed12fadaea4c96c7f6e43b7b385653":[7,0,3826,4],
 "db/db7/classspell__portal__effect__acherus.html#add6229e3f0241ccedf446a5a37cf72ce":[7,0,3826,0],
 "db/db7/instance__hyjal_8cpp.html":[8,0,0,0,1,3,4,1,0,7],
 "db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[8,0,0,0,1,3,4,1,0,7,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX308 =
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#aa05839a8dd785a2472e8e5f3a9fc58b0":[7,0,3711,3],
 "db/dc6/structboss__darkweaver__syth.html":[7,0,438],
 "db/dc6/structboss__darkweaver__syth.html#a1904c2596dd455f84625974beec4a2c8":[7,0,438,3],
-"db/dc6/structboss__darkweaver__syth.html#a484a6dea12ca9e5a20f0a0761461c1f5":[7,0,438,4]
+"db/dc6/structboss__darkweaver__syth.html#a484a6dea12ca9e5a20f0a0761461c1f5":[7,0,438,4],
+"db/dc6/structboss__darkweaver__syth.html#a4f719165e07206c5a378412b3f82ff86":[7,0,438,0]
 };

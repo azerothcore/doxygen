@@ -1,6 +1,5 @@
 var NAVTREEINDEX300 =
 {
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,0,87,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[7,0,0,75,0],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,0,87,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[7,0,3201],
@@ -249,5 +248,6 @@ var NAVTREEINDEX300 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca1cd628fe8ad12d4928e8a1c4eb98ef76":[8,0,0,0,1,3,5,8,0,0,17,2],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2540a47ff8857839a4ebbc67ec05b566":[8,0,0,0,1,3,5,8,0,0,17,26],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2732c5cf318e5e59e92861ae3cedd89d":[8,0,0,0,1,3,5,8,0,0,17,35],
-"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca28a4e676373a783496c1784ecd7b16df":[8,0,0,0,1,3,5,8,0,0,17,17]
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca28a4e676373a783496c1784ecd7b16df":[8,0,0,0,1,3,5,8,0,0,17,17],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca298ce1d34272beb5393b71b66d3207ef":[8,0,0,0,1,3,5,8,0,0,17,10]
 };

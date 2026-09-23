@@ -1,6 +1,5 @@
 var NAVTREEINDEX280 =
 {
-"da/da3/DatabaseUpdatePool_8h.html":[8,0,0,0,1,1,0,8],
 "da/da3/classgroup__commandscript.html":[7,0,1269],
 "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1269,8],
 "da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1269,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX280 =
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[7,0,3908,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[7,0,3908,3],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3908,2],
-"da/dac/structAccountData.html":[4,1,10]
+"da/dac/structAccountData.html":[4,1,10],
+"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2]
 };

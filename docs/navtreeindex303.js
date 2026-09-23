@@ -1,6 +1,5 @@
 var NAVTREEINDEX303 =
 {
-"db/d8b/ItemTemplate_8h.html#adb51e1a5ff4571a95438745017ce06b1a61200aad1bce988a4b44e834eafd0a4e":[8,0,0,0,1,2,16,4,6,53,2],
 "db/d8b/ItemTemplate_8h.html#adb51e1a5ff4571a95438745017ce06b1add0cd0c0e3e76f1fbd9c100b48ef9693":[8,0,0,0,1,2,16,4,6,53,4],
 "db/d8b/ItemTemplate_8h.html#adb51e1a5ff4571a95438745017ce06b1aec68e77f7cad1eb5f4f0ae1fe8a3d718":[8,0,0,0,1,2,16,4,6,53,1],
 "db/d8b/ItemTemplate_8h.html#adfff4e703ebe650a498c14955e22cfdb":[8,0,0,0,1,2,16,4,6,48],
@@ -249,5 +248,6 @@ var NAVTREEINDEX303 =
 "db/d92/classboss__tharon__ja.html":[7,0,743],
 "db/d92/classboss__tharon__ja.html#ab24612418cb66ed0c1e64fba5ebaa50f":[7,0,743,2],
 "db/d92/classboss__tharon__ja.html#ac34f8f33ea75dc0107222d3720788f7a":[7,0,743,1],
-"db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html":[7,0,1720,0]
+"db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html":[7,0,1720,0],
+"db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html#a0702d4cf577ac00688a7b93bfe656952":[7,0,1720,0,4]
 };

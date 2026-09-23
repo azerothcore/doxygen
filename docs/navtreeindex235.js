@@ -1,6 +1,5 @@
 var NAVTREEINDEX235 =
 {
-"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7":[8,0,0,0,1,3,5,9,2,5,13,15],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a4ca592edb75f801e335cbc4b7b719177":[8,0,0,0,1,3,5,9,2,5,13,25],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a54b6d0d1097b3ab12e902f6fad56018c":[8,0,0,0,1,3,5,9,2,5,13,2],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a5a29d553d47c6de551b2b886ce6c67cd":[8,0,0,0,1,3,5,9,2,5,13,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX235 =
 "d8/da3/classCalendarMgr.html#ade6215768a0079dbeb6982c58a851931":[7,0,853,13],
 "d8/da3/classCalendarMgr.html#adf4f7e50b71197ee679bb16defecd119":[7,0,853,34],
 "d8/da3/classCalendarMgr.html#ae35dd19d179c427a77b87cbf5c4827d3":[7,0,853,4],
-"d8/da3/classCalendarMgr.html#af4b378a6789efa5fa40970185ce0b91d":[7,0,853,1]
+"d8/da3/classCalendarMgr.html#af4b378a6789efa5fa40970185ce0b91d":[7,0,853,1],
+"d8/da3/classgo__crystal__prison.html":[7,0,1172]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX411 =
 {
-"df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203":[8,0,0,0,1,3,4,14,2,14],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1":[8,0,0,0,1,3,4,14,2,1],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5":[8,0,0,0,1,3,4,14,2,2],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63":[8,0,0,0,1,3,4,14,2,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX411 =
 "df/d55/classlfg_1_1LFGPlayerScript.html":[7,0,5,9],
 "df/d55/classlfg_1_1LFGPlayerScript.html":[5,0,17,9],
 "df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[7,0,5,9,4],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[5,0,17,9,4]
+"df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[5,0,17,9,4],
+"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[5,0,17,9,3]
 };

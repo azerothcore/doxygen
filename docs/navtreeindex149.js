@@ -1,6 +1,5 @@
 var NAVTREEINDEX149 =
 {
-"d5/d22/classBasicEvent.html":[7,0,323],
 "d5/d22/classBasicEvent.html#a0c3860e1c8854c2db20a225944792afd":[7,0,323,2],
 "d5/d22/classBasicEvent.html#a1ee71d72964b7124e8e137b02c81eac2":[7,0,323,6],
 "d5/d22/classBasicEvent.html#a2ee03f01e03347d04eb38a215d10f036":[7,0,323,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX149 =
 "d5/d31/structgo__ahune__ice__spear.html#ae498fc1f71906af2f20e95dea4df4a2b":[7,0,1152,2],
 "d5/d32/boss__doomwalker_8cpp.html":[8,0,0,0,1,3,7,7],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,7,1],
-"d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,7,7,1,4]
+"d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,7,7,1,4],
+"d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[8,0,0,0,1,3,7,7,1,0]
 };

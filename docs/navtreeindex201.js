@@ -1,6 +1,5 @@
 var NAVTREEINDEX201 =
 {
-"d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[7,0,1822,2],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html":[7,0,3696],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a524c071390365b7dab59bc7a79b50f15":[7,0,3696,4],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a5750666947a5899d7ef46678eadb4872":[7,0,3696,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX201 =
 "d7/d46/classAuraEffect.html#a95b987b958ac0ce5653d44029a31ea59":[7,0,295,116],
 "d7/d46/classAuraEffect.html#a964b95da784412c60c9310227a614549":[7,0,295,192],
 "d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0":[7,0,295,208],
-"d7/d46/classAuraEffect.html#a9939adabdadcf853bbabb848afb5e8b4":[7,0,295,115]
+"d7/d46/classAuraEffect.html#a9939adabdadcf853bbabb848afb5e8b4":[7,0,295,115],
+"d7/d46/classAuraEffect.html#a9b5fb8fd52b54a9fc55491d48a62df4f":[7,0,295,75]
 };

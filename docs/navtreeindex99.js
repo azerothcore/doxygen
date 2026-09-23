@@ -1,6 +1,5 @@
 var NAVTREEINDEX99 =
 {
-"d3/d41/classGameObjectModelOwnerImpl.html#adb8b3b555ad6cd75c1ee7a1f71a08af7":[7,0,1127,0],
 "d3/d41/classGameObjectModelOwnerImpl.html#ae47eb25d16de37122042402443db6f3d":[7,0,1127,7],
 "d3/d41/classGameObjectModelOwnerImpl.html#af8553967b9788d69da9fcb8cdb647f9c":[7,0,1127,1],
 "d3/d41/classnpc__wg__queue.html":[7,0,2329],
@@ -249,5 +248,6 @@ var NAVTREEINDEX99 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5fe0fd9527aee8250fc87d6357cea7f1":[8,0,0,0,1,2,49,7,0,119],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba620d3f7aa2d066cad4a299818d6f6df5":[8,0,0,0,1,2,49,7,0,338],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba621fc61707bae7fc661e2960f388e8c9":[8,0,0,0,1,2,49,7,0,140],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6226e13d0404c5d56ace9cf5b4d6ca60":[8,0,0,0,1,2,49,7,0,30]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6226e13d0404c5d56ace9cf5b4d6ca60":[8,0,0,0,1,2,49,7,0,30],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6270ad11bca67e0f3496779e29ce1915":[8,0,0,0,1,2,49,7,0,367]
 };

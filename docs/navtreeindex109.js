@@ -1,6 +1,5 @@
 var NAVTREEINDEX109 =
 {
-"d3/d9f/classspell__eadric__radiance.html":[7,0,2962],
 "d3/d9f/classspell__eadric__radiance.html#a5ede43deece629a38f5482280983b59a":[7,0,2962,1],
 "d3/d9f/classspell__eadric__radiance.html#a79d34d7e517b27e44c6a91d6056dfec7":[7,0,2962,0],
 "d3/d9f/classspell__eadric__radiance.html#aec3d0ed996e9cbfed9fb78c5f16e254f":[7,0,2962,2],
@@ -243,11 +242,12 @@ var NAVTREEINDEX109 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3121,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3121,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3121,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,205],
 "d3/da8/classArenaTeamMgr.html#a01ce085cf6d7c90b6ffb40a531dfc2a1":[7,0,205,18],
-"d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[7,0,205,16]
+"d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[7,0,205,16],
+"d3/da8/classArenaTeamMgr.html#a0b0428d66b7523b4c0674c260642685c":[7,0,205,21]
 };

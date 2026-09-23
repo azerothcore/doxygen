@@ -1,6 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,2,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,2,4,2,2,1],
 "d9/d2c/DBCFileLoader_8h.html":[8,0,0,0,0,4,1],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960":[8,0,0,0,0,4,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX246 =
 "d9/d3a/classVec2D.html#a75ed774d1e92660f66c759be950f6320":[7,0,4650,4],
 "d9/d3a/classVec2D.html#a78ed609bf7ea314e77fa03071b6ae13d":[7,0,4650,1],
 "d9/d3a/classVec2D.html#a81c39278742b274ddb77c5e1366eb686":[7,0,4650,17],
-"d9/d3a/classVec2D.html#a94b617ea521632c36048445b5ed835ed":[7,0,4650,5]
+"d9/d3a/classVec2D.html#a94b617ea521632c36048445b5ed835ed":[7,0,4650,5],
+"d9/d3a/classVec2D.html#a9ca3bbbdff0a35a4dfb9935b3bc07aa4":[7,0,4650,8]
 };

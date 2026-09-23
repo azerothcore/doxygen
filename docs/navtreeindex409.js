@@ -1,6 +1,5 @@
 var NAVTREEINDEX409 =
 {
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a7b15a9c6db1a48c3766afcb41d66b61f":[7,0,2143,0,5],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#a8956324e2806393d26bf146f4e2c48b0":[7,0,2143,0,8],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aa27dd1e338145a65915262a8d44f7519":[7,0,2143,0,13],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aacd146fbfac94b8f82b3971ff74644cc":[7,0,2143,0,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX409 =
 "df/d38/structnpc__ahnqiraji__critter.html":[7,0,1628],
 "df/d38/structnpc__ahnqiraji__critter.html#a60e2dc1c52579a410d3435126bf39684":[7,0,1628,0],
 "df/d38/structnpc__ahnqiraji__critter.html#a645e16e9da29f6579320394201d0ada7":[7,0,1628,3],
-"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[7,0,1628,4]
+"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[7,0,1628,4],
+"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[7,0,1628,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"d4/d8a/classBigNumber.html#a20156698f9ba2361dd37c8239355d2da":[7,0,374,18],
 "d4/d8a/classBigNumber.html#a23f11982d4cf977d3402720805d944ef":[7,0,374,40],
 "d4/d8a/classBigNumber.html#a264db5871aec31b0f990f86ccc672ad6":[7,0,374,7],
 "d4/d8a/classBigNumber.html#a277a30ac66e478839331339eff0284e4":[7,0,374,46],
@@ -249,5 +248,6 @@ var NAVTREEINDEX136 =
 "d4/d90/classachievement__algalon__he__feeds__on__your__tears.html#a91f4ddbce55a50e563df701eb0bcfff7":[7,0,33,0],
 "d4/d90/classachievement__algalon__he__feeds__on__your__tears.html#affea33614581545c65513bfe533d7246":[7,0,33,1],
 "d4/d90/classgo__southfury__moonstone.html":[7,0,1224],
-"d4/d90/classgo__southfury__moonstone.html#a9d9708da940c1ee37f9eb4558ed97737":[7,0,1224,1]
+"d4/d90/classgo__southfury__moonstone.html#a9d9708da940c1ee37f9eb4558ed97737":[7,0,1224,1],
+"d4/d90/classgo__southfury__moonstone.html#aed27e57e8232e156177c293ad0c0b4bb":[7,0,1224,0]
 };

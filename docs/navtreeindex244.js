@@ -1,6 +1,5 @@
 var NAVTREEINDEX244 =
 {
-"d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca32f4b6cad46da583301923c3e16440f1":[8,0,0,0,1,3,7,1,2,26,6],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bc40517be40677903172b3800094268":[8,0,0,0,1,3,7,1,2,26,28],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df655038c675020ece2b7489723cffc":[8,0,0,0,1,3,7,1,2,26,27],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[8,0,0,0,1,3,7,1,2,26,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX244 =
 "d9/d16/classachievement__fa__la__la__la__ogrila.html":[7,0,54],
 "d9/d16/classachievement__fa__la__la__la__ogrila.html#ab98a8ab33fec62936bf3c235659c1445":[7,0,54,0],
 "d9/d16/classachievement__fa__la__la__la__ogrila.html#ad9f33606fcacfd698ed3a9fa22545022":[7,0,54,1],
-"d9/d16/structMetricData.html":[7,0,1553]
+"d9/d16/structMetricData.html":[7,0,1553],
+"d9/d16/structMetricData.html#a09832a09e989c3851e72f4ec198f0e20":[7,0,1553,6]
 };

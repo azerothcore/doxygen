@@ -1,6 +1,5 @@
 var NAVTREEINDEX257 =
 {
-"d9/da9/boss__rend__blackhand_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a12d3cd7c87013737b542c903dab8167b":[8,0,0,0,1,3,2,1,1,10,3,3],
 "d9/da9/boss__rend__blackhand_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb":[8,0,0,0,1,3,2,1,1,10,3,2],
 "d9/da9/boss__rend__blackhand_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa28636362ea68b4d0dd8a5df26acd00b":[8,0,0,0,1,3,2,1,1,10,3,4],
 "d9/da9/boss__rend__blackhand_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af6f43f72dd34ccc7aa9ce752e075efd6":[8,0,0,0,1,3,2,1,1,10,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX257 =
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a2c60642848b73bc00d1a8244d4fb4733":[7,0,457,0,7],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a4701d5a77b6ae7ce3432c81b7b6d14cf":[7,0,457,0,10],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a78312371e28b4be3c072dc870370b577":[7,0,457,0,11],
-"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a79a05156b690140e955a6e850ac41e5b":[7,0,457,0,2]
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a79a05156b690140e955a6e850ac41e5b":[7,0,457,0,2],
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a7df4da85c40ba1c34063df9b2df5874b":[7,0,457,0,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX204 =
 {
-"d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html#aefe0621647cd9e25f19063eb5ce4dd69":[7,0,3703,0],
 "d7/d60/classspell__mirkblood__dash__gash__return__to__tank__pre__spell.html#afb4d3414a0da5e2701ee114349cf64ce":[7,0,3703,1],
 "d7/d60/structboss__keristrasza.html":[7,0,587],
 "d7/d60/structboss__keristrasza.html#a13dce974fa83577397a80ff52de5d835":[7,0,587,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX204 =
 "d7/d70/structnpc__icc__spire__frostwyrm.html#a572add30e78af15a8d5d6918169802da":[7,0,1934,6],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#a822096df7b1803d92e05ca27d544bd26":[7,0,1934,9],
 "d7/d70/structnpc__icc__spire__frostwyrm.html#a8e7f148580d91d42959e972ef18b271b":[7,0,1934,5],
-"d7/d70/structnpc__icc__spire__frostwyrm.html#a8fdfc70108e3294e0fcc3c7ed895074e":[7,0,1934,0]
+"d7/d70/structnpc__icc__spire__frostwyrm.html#a8fdfc70108e3294e0fcc3c7ed895074e":[7,0,1934,0],
+"d7/d70/structnpc__icc__spire__frostwyrm.html#ab3364130aacf675602317651a244ae2c":[7,0,1934,1]
 };

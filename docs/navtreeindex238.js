@@ -1,6 +1,5 @@
 var NAVTREEINDEX238 =
 {
-"d8/dbf/structLFGDungeonEntry.html":[7,0,1457],
 "d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[7,0,1457,8],
 "d8/dbf/structLFGDungeonEntry.html#a2e6456d16cce98666b0ac63cebf0eb82":[7,0,1457,10],
 "d8/dbf/structLFGDungeonEntry.html#a4e8689fabe6b3ef5c495bf84fa1945b7":[7,0,1457,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX238 =
 "d8/dd2/classArenaTeamFilterTest.html#ab40dacafdb3c5de73cf66426d014a4fe":[7,0,203,4],
 "d8/dd2/classArenaTeamFilterTest.html#abb28ef64461635a540dad471b7b12ebc":[7,0,203,0],
 "d8/dd2/classArenaTeamFilterTest.html#ac6336ffa31e59a5d3acc227c674e9ea8":[7,0,203,6],
-"d8/dd2/classArenaTeamFilterTest.html#ace0b9a0c578a6b8ec1d33ad584aaf911":[7,0,203,1]
+"d8/dd2/classArenaTeamFilterTest.html#ace0b9a0c578a6b8ec1d33ad584aaf911":[7,0,203,1],
+"d8/dd2/classArenaTeamFilterTest.html#ae1629c69438e29ea7be460120132b68b":[7,0,203,3]
 };

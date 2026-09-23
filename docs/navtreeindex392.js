@@ -1,6 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a2ae263977948d2195b22a737c36bad20":[5,0,0,136,2],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7":[5,0,0,136,7],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a66bd07338943ee307be19f22326b29b7":[7,0,0,124,7],
 "de/d84/structAcore_1_1WorldObjectSpellTargetCheck.html#a70b9331b5871e2e4d92d642715c8192a":[5,0,0,136,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX392 =
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aa0d89f971b6e210d8550e89839e28f44":[7,0,1751,0,1],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aace73f2e878ebaf30634431f9f1068ab":[7,0,1751,0,23],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab34fe1b0bac1a694c6e76d3cebf67172":[7,0,1751,0,7],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab639db8fe4637a2068d94bb5e99d88ea":[7,0,1751,0,3]
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab639db8fe4637a2068d94bb5e99d88ea":[7,0,1751,0,3],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7":[7,0,1751,0,18]
 };

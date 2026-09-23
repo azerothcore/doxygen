@@ -1,6 +1,5 @@
 var NAVTREEINDEX295 =
 {
-"db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,4,8,4,7,6],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a52f8736ce3878b4b6aec10dbdc69e73e":[8,0,0,0,1,3,4,8,4,7,5],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a663ded1d712406d51e073e5a7fff69f5":[8,0,0,0,1,3,4,8,4,7,4],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a69decc0a4a53af32961659c1fa0f77b3":[8,0,0,0,1,3,4,8,4,7,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX295 =
 "db/d57/classCircularBuffer.html#af429f831da3fd31618d1c1612cd94ce7":[7,0,903,7],
 "db/d57/namespaceWorldPackets_1_1Query.html":[5,0,34,13],
 "db/d58/classspell__barreled__control__aura.html":[7,0,2704],
-"db/d58/classspell__barreled__control__aura.html#a0832c36a9497674374b2998398bfc3a4":[7,0,2704,0]
+"db/d58/classspell__barreled__control__aura.html#a0832c36a9497674374b2998398bfc3a4":[7,0,2704,0],
+"db/d58/classspell__barreled__control__aura.html#a89acb64235da1ff59da90a509fbeec9d":[7,0,2704,1]
 };

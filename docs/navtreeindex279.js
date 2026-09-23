@@ -1,6 +1,5 @@
 var NAVTREEINDEX279 =
 {
-"da/d97/classWorldPackets_1_1CompactArray.html#ae213ad313a4b0688763e882a2010c494":[5,0,34,20,3],
 "da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[7,0,13,20,11],
 "da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[5,0,34,20,11],
 "da/d97/classgo__sacred__fire__of__life.html":[7,0,1214],
@@ -249,5 +248,6 @@ var NAVTREEINDEX279 =
 "da/da1/classspell__mage__pet__scaling.html#a65b6f1a2b322c928fd9a5992380d2e95":[7,0,3652,1],
 "da/da1/classspell__mage__pet__scaling.html#a67cb7b817f29dd41aa7d0dc8c87dc820":[7,0,3652,6],
 "da/da1/classspell__mage__pet__scaling.html#abf0d76c220911d88990f3071f14a9d5a":[7,0,3652,3],
-"da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[7,0,3652,8]
+"da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[7,0,3652,8],
+"da/da3/DatabaseUpdatePool_8h.html":[8,0,0,0,1,1,0,8]
 };

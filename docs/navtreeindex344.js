@@ -1,6 +1,5 @@
 var NAVTREEINDEX344 =
 {
-"dd/d19/structnpc__time__rift.html#ab5924378c7978c6fae95f9861040c63d":[7,0,2235,6],
 "dd/d19/structnpc__time__rift.html#ad08ca716f120a45ee1688e03d2049aba":[7,0,2235,4],
 "dd/d19/structnpc__time__rift.html#ad554d8266ded70cadd8c00a3ff5a3321":[7,0,2235,9],
 "dd/d19/structnpc__time__rift.html#ae0ebd0268454ac0cac83235afd7f6363":[7,0,2235,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX344 =
 "dd/d27/classOPvPCapturePointTF.html#ace20d19311478a136ae0b75016c36ea8":[7,0,2381,4],
 "dd/d27/classOPvPCapturePointTF.html#ace7e183b6dd438b9649e9ee60c6d00e2":[7,0,2381,10],
 "dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe":[7,0,2381,3],
-"dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[7,0,2381,0]
+"dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[7,0,2381,0],
+"dd/d27/classspell__mage__dragon__breath.html":[7,0,3625]
 };

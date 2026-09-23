@@ -1,6 +1,5 @@
 var NAVTREEINDEX96 =
 {
-"d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#aa3ee5b49e9e1009d5be34214eefd2a6d":[7,0,2985,4],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#ae0d8cb63cf62e5015daa56463524aa27":[7,0,2985,1],
 "d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html":[7,0,4263],
 "d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html#a2b1d27e93a879681098a83d17c4d686a":[7,0,4263,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX96 =
 "d3/d24/structinstance__molten__core.html#a3587b8cf036cd3c3cd0e312792b808fa":[7,0,1361,0],
 "d3/d24/structinstance__molten__core.html#a5581618f1f8c6c2885ae3d780ff99ec8":[7,0,1361,5],
 "d3/d24/structinstance__molten__core.html#a6dade32c4c6fb80aa12ca4d4c4fed5ae":[7,0,1361,18],
-"d3/d24/structinstance__molten__core.html#a835722e7e7fedb40d3f4a486cfb2f3df":[7,0,1361,6]
+"d3/d24/structinstance__molten__core.html#a835722e7e7fedb40d3f4a486cfb2f3df":[7,0,1361,6],
+"d3/d24/structinstance__molten__core.html#a89cbb06ebad5f4f0cc61b86f7990dc33":[7,0,1361,4]
 };

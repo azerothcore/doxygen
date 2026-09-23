@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dc/d17/zone__redridge__mountains_8cpp.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe":[8,0,0,0,1,3,2,27,2,4],
 "dc/d18/structGameEventQuestToEventConditionNum.html":[7,0,1114],
 "dc/d18/structGameEventQuestToEventConditionNum.html#a78172859719e85a21c0a39e41c692cf4":[7,0,1114,0],
 "dc/d18/structGameEventQuestToEventConditionNum.html#a7cf6141e00b1a33063409c9828773b94":[7,0,1114,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#a05786c8e0daef9a2da98f832c230d99c":[7,0,2494,5,1],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#a953f930e046655ca0d8f373362d3f334":[7,0,2494,5,0],
 "dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#aed48a1ad923118ac0a86d864e1e98519":[7,0,2494,5,2],
-"dc/d26/DBCStore_8cpp.html":[8,0,0,0,1,4,0,5]
+"dc/d26/DBCStore_8cpp.html":[8,0,0,0,1,4,0,5],
+"dc/d26/Trainer_8cpp.html":[8,0,0,0,1,2,16,1,10]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX150 =
 {
-"d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[8,0,0,0,1,3,7,7,1,0],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9800763953f1a9c1bcaaed29bcaf48ed":[8,0,0,0,1,3,7,7,1,5],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca99eaf912c120c7fa6d85748ebf96aebb":[8,0,0,0,1,3,7,7,1,1],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f301d11bf86d5d4459d0094e2f87d0":[8,0,0,0,1,3,7,7,1,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX150 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[8,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[8,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[8,0,0,0,0,1,1,3,2],
-"d5/d43/classspell__alystros__lapsing__dream__aura.html":[7,0,2664]
+"d5/d43/classspell__alystros__lapsing__dream__aura.html":[7,0,2664],
+"d5/d43/classspell__alystros__lapsing__dream__aura.html#a0db3843573837c53aeeaca69a6019d06":[7,0,2664,3]
 };

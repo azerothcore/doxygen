@@ -1,6 +1,5 @@
 var NAVTREEINDEX259 =
 {
-"d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[7,0,2260,1],
 "d9/dcc/classnpc__torturer__lecraft.html#abdc8b33cd820c5cd14c999e7407897fe":[7,0,2260,2],
 "d9/dcd/MapInstanced_8h.html":[8,0,0,0,1,2,26,8],
 "d9/dcd/classnpc__fel__infernal.html":[7,0,1832],
@@ -249,5 +248,6 @@ var NAVTREEINDEX259 =
 "d9/de2/structCalcDamageInfo.html#a707ae69dcd96a0537202ed19baa4aeae":[7,0,850,6],
 "d9/de2/structCalcDamageInfo.html#a7298afcc76b856c5427f5e123030a797":[7,0,850,0],
 "d9/de2/structCalcDamageInfo.html#a73ef30ca87444da617b8c2e05b70e9fc":[7,0,850,14],
-"d9/de2/structCalcDamageInfo.html#ab57d348b500203649bf532405cd9ceec":[7,0,850,12]
+"d9/de2/structCalcDamageInfo.html#ab57d348b500203649bf532405cd9ceec":[7,0,850,12],
+"d9/de2/structCalcDamageInfo.html#ab95e1e4746b966f1301d997fdac99c94":[7,0,850,5]
 };

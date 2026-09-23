@@ -1,13 +1,12 @@
 var NAVTREEINDEX32 =
 {
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[7,0,0,1,1,6],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[5,0,0,2,1,6],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[7,0,0,1,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,0,2,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[7,0,0,1,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[7,0,0,1,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[5,0,0,2,1,3],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[7,0,0,1,1,8],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[5,0,0,2,1,8],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[7,0,0,1,1,8],
 "d1/d42/CreatureAI_8cpp.html":[8,0,0,0,1,2,3,3],
 "d1/d42/CreatureAI_8cpp.html#a1ed41ad074263f6c0c63f38b7f51414b":[8,0,0,0,1,2,3,3,0],
 "d1/d42/CreatureAI_8cpp.html#a981f03ba3b8c59eb1fa9d22df158ba19":[8,0,0,0,1,2,3,3,1],
@@ -194,16 +193,16 @@ var NAVTREEINDEX32 =
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a42052a416290a54d5479a402de578a73":[7,0,4232,0],
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a5f6aa972879b65c0207e47435d436a33":[7,0,4232,1],
 "d1/d43/classspell__the__black__stalker__magnetic__pull.html#a98efb2a9a68d7878af9d6f9d46db88c9":[7,0,4232,2],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[5,0,0,133],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[7,0,0,121],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a27df2d4c2d8c39b06a3e11681e16876e":[5,0,0,133,0],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html":[5,0,0,133],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a27df2d4c2d8c39b06a3e11681e16876e":[7,0,0,121,0],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a27df2d4c2d8c39b06a3e11681e16876e":[5,0,0,133,0],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[5,0,0,133,1],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[7,0,0,121,1],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[5,0,0,133,3],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[7,0,0,121,3],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[5,0,0,133,2],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[7,0,0,121,2],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[5,0,0,133,2],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a87252b8b2dd0d38417c236718aadaa98":[5,0,0,133,4],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a87252b8b2dd0d38417c236718aadaa98":[7,0,0,121,4],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#aad544cdfe9423a7967dfed64aeaed995":[5,0,0,133,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX32 =
 "d1/d44/structboss__nalorakk.html#a390142234210027d37f5e4ec7cea84ae":[7,0,649,13],
 "d1/d44/structboss__nalorakk.html#a4cf5656619dd9339000236ed6b006c90":[7,0,649,9],
 "d1/d44/structboss__nalorakk.html#a4dd18b28685e3dac2406c4e3d8be95aa":[7,0,649,0],
-"d1/d44/structboss__nalorakk.html#a6093dac3b1353a047174e5aae98c13d6":[7,0,649,15]
+"d1/d44/structboss__nalorakk.html#a6093dac3b1353a047174e5aae98c13d6":[7,0,649,15],
+"d1/d44/structboss__nalorakk.html#a6f79e518e3a356e0f6093afa8c438fe5":[7,0,649,4]
 };

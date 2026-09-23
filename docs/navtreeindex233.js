@@ -1,6 +1,5 @@
 var NAVTREEINDEX233 =
 {
-"d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bed":[7,0,123,1],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda01350f61ddba37a0f87b31d1ce3f4726":[7,0,123,1,0],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570beda1408ee1329bcb762ee45fb865ee58d9e":[7,0,123,1,2],
 "d8/d77/classAchievementMgr.html#a603f26aeade3f0731154bb50b9570bedaad0795d71aa92acdd2da8c8ed3d42471":[7,0,123,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX233 =
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfac4721074356592da23a4529af848b78f":[8,0,0,0,1,3,2,1,2,0,7,10],
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfafe8bcead8622621a7e4f847783271804":[8,0,0,0,1,3,2,1,2,0,7,2],
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfaff80c24224fa886f1a761924bd38034b":[8,0,0,0,1,3,2,1,2,0,7,1],
-"d8/d83/blackwing__lair_8h.html#a7b545b19f3c0a35967e17ed74f3f21b2":[8,0,0,0,1,3,2,1,2,0,0]
+"d8/d83/blackwing__lair_8h.html#a7b545b19f3c0a35967e17ed74f3f21b2":[8,0,0,0,1,3,2,1,2,0,0],
+"d8/d83/blackwing__lair_8h.html#a82a479b9c6b812beefeb3a8ced1438aa":[8,0,0,0,1,3,2,1,2,0,2]
 };

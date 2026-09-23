@@ -1,6 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html#a4aa59b136b97859d15b39fd2fbbdf53d":[7,0,2244,0,2],
 "d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html#a8a38da4063a22361b25835a67f14ff52":[7,0,2244,0,1],
 "d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html#adec973540bf3b046f54547fb845c06b1":[7,0,2244,0,3],
 "d5/d07/structnpc__toc__enh__shaman_1_1npc__toc__enh__shamanAI.html#ae1ef5395722e42660c1856d6faf52cbb":[7,0,2244,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX147 =
 "d5/d12/classspell__dru__survival__instincts__aura.html":[7,0,2945],
 "d5/d12/classspell__dru__survival__instincts__aura.html#a0be2a66b615dd926de7073392a8e5062":[7,0,2945,1],
 "d5/d12/classspell__dru__survival__instincts__aura.html#a36fb81d0bf4cf92773db60a70de52dda":[7,0,2945,3],
-"d5/d12/classspell__dru__survival__instincts__aura.html#a4763d0c69c12611244f68ba5a5b1ccce":[7,0,2945,2]
+"d5/d12/classspell__dru__survival__instincts__aura.html#a4763d0c69c12611244f68ba5a5b1ccce":[7,0,2945,2],
+"d5/d12/classspell__dru__survival__instincts__aura.html#a86b51ec85105b0396972f0c3d7b770c1":[7,0,2945,4]
 };

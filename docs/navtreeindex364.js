@@ -1,6 +1,5 @@
 var NAVTREEINDEX364 =
 {
-"dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a02ef50b047ac0ac8932d37234ad4ae2f":[7,0,2936,4],
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a18103f56fd6f90f8c3aa53ff53b82492":[7,0,2936,3],
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a2c4e408e45995098b01a05815fffb34c":[7,0,2936,0],
 "dd/df2/classspell__dru__rejuvenation__moonglade__2__set.html#a8047fb4309487c7a529047ec5148a2e3":[7,0,2936,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX364 =
 "de/d01/classIpLocationStore.html#a06384169031d2417a7f6bac54d3187a9":[7,0,1417,2],
 "de/d01/classIpLocationStore.html#a1b3a38bbd932ae50d55ff15374aa2f37":[7,0,1417,0],
 "de/d01/classIpLocationStore.html#a411302e6bf5e5e82e5cd59e78e66bd0b":[7,0,1417,4],
-"de/d01/classIpLocationStore.html#a82360c1ce130670fde23d42135f91324":[7,0,1417,1]
+"de/d01/classIpLocationStore.html#a82360c1ce130670fde23d42135f91324":[7,0,1417,1],
+"de/d01/classIpLocationStore.html#ad740adf9b81b37cf147dc00e220b29db":[7,0,1417,3]
 };

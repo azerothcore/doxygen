@@ -1,6 +1,5 @@
 var NAVTREEINDEX196 =
 {
-"d6/dfe/classnpc__toc__hunter.html":[7,0,2245],
 "d6/dfe/classnpc__toc__hunter.html#a73d4113df71626af7b8294e08373965e":[7,0,2245,1],
 "d6/dfe/classnpc__toc__hunter.html#a8b9d2a8186aefb3e411bd20c006207d4":[7,0,2245,2],
 "d6/dfe/classspell__hun__misdirection.html":[7,0,3280],
@@ -249,5 +248,6 @@ var NAVTREEINDEX196 =
 "d7/d0c/classspell__gen__haunted__aura.html#a65b8a9dcd836cb538d5d2bec3d03d4a2":[7,0,3098,1],
 "d7/d0c/classspell__gen__haunted__aura.html#a78c46695cab8da2280686ea49d88f036":[7,0,3098,0],
 "d7/d0c/classspell__gen__haunted__aura.html#ae6c2b365463345c71ed1a4acdee04a15":[7,0,3098,4],
-"d7/d0c/classspell__gen__haunted__aura.html#af722cf30e478802784178a9346bd1bdd":[7,0,3098,2]
+"d7/d0c/classspell__gen__haunted__aura.html#af722cf30e478802784178a9346bd1bdd":[7,0,3098,2],
+"d7/d0c/classspell__sladran__grip__of__sladran__aura.html":[7,0,4181]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX188 =
 {
-"d6/d8f/structnpc__ulduar__aerial__command__unit.html#a6976c445331a25cd2735e963a102157c":[7,0,2272,15],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7947005a05430e9734db3cf14eac0d17":[7,0,2272,16],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7db419befea7054118ebd2b1d7835a38":[7,0,2272,0],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7dc2920a7ff1a7d8ad346626dafeb18b":[7,0,2272,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX188 =
 "d6/d9c/zone__bloodmyst__isle_8cpp.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3":[8,0,0,0,1,3,4,16,2,3],
 "d6/d9d/EventMap_8cpp.html":[8,0,0,0,0,15,10],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[7,0,13,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4]
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1]
 };

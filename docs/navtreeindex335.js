@@ -1,6 +1,5 @@
 var NAVTREEINDEX335 =
 {
-"dc/da2/classnpc__saurfang__event.html":[7,0,2157],
 "dc/da2/classnpc__saurfang__event.html#a3bfce5457466360458498833098d660c":[7,0,2157,1],
 "dc/da2/classnpc__saurfang__event.html#a953842d2fa3380a8331faf3a42cb3177":[7,0,2157,2],
 "dc/da3/structPlayerSpell.html":[7,0,2464],
@@ -249,5 +248,6 @@ var NAVTREEINDEX335 =
 "dc/dae/gruuls__lair_8h.html#ae30223b9f59e44b321d94c046c08d7f9":[8,0,0,0,1,3,7,3,2,6],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,7,3,2,4],
 "dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a7913656ef56deb3793c0c5f3d999d80d":[8,0,0,0,1,3,7,3,2,4,2],
-"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ac09db2925e40836a675d938f0e4411cc":[8,0,0,0,1,3,7,3,2,4,3]
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22ac09db2925e40836a675d938f0e4411cc":[8,0,0,0,1,3,7,3,2,4,3],
+"dc/dae/gruuls__lair_8h.html#afb6eb4f28419b652027fad41104a6d22acc5f3c1f985f39faef5b26b393862a0f":[8,0,0,0,1,3,7,3,2,4,4]
 };

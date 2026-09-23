@@ -1,6 +1,5 @@
 var NAVTREEINDEX158 =
 {
-"d5/d7c/classAuctionHouseSearcher.html#a53caf3298638d325a8b9e97584296ad3":[7,0,275,5],
 "d5/d7c/classAuctionHouseSearcher.html#a772e65025ae498b8837222ae98f49c28":[7,0,275,10],
 "d5/d7c/classAuctionHouseSearcher.html#a7bb50e3e903c73a83469e7323917d40d":[7,0,275,8],
 "d5/d7c/classAuctionHouseSearcher.html#a84842935539c5ef8b02815cc8697e568":[7,0,275,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX158 =
 "d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#a188831088c892f68cef7498468b24899":[7,0,2246,0,0],
 "d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#aaf7fd7b143a4eb410465c7cb34c32d2f":[7,0,2246,0,1],
 "d5/d8a/structnpc__toc__mage_1_1npc__toc__mageAI.html#ab1910ce98f3d1b14e45acba22782d536":[7,0,2246,0,3],
-"d5/d8b/classspell__hun__wyvern__sting.html":[7,0,3297]
+"d5/d8b/classspell__hun__wyvern__sting.html":[7,0,3297],
+"d5/d8b/classspell__hun__wyvern__sting.html#a1a06aa5d8254f0d33ecb38df72d97d20":[7,0,3297,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX338 =
 {
-"dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0":[8,0,0,0,1,2,16,5,5,16,12],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2":[8,0,0,0,1,2,16,5,5,16,1],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f":[8,0,0,0,1,2,16,5,5,16,5],
 "dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae":[8,0,0,0,1,2,16,5,5,16,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX338 =
 "dc/dd9/classnpc__icc__valkyr__herald.html":[7,0,1935],
 "dc/dd9/classnpc__icc__valkyr__herald.html#a7537269841d0380d2dc9e4641705acf9":[7,0,1935,2],
 "dc/dd9/classnpc__icc__valkyr__herald.html#a9d06e0dec8cb960d34c2089c1c0d8ccb":[7,0,1935,1],
-"dc/dd9/classspell__igb__rocket__pack__useable__aura.html":[7,0,3332]
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html":[7,0,3332],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#a04f449a062b20e6f9ebc35857a051ed3":[7,0,3332,2]
 };

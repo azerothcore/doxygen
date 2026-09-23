@@ -1,6 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a891585ba56d53bdcca05bf5ce579e0c8":[8,0,0,0,1,3,9,12,39,2],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a8d09419d3d4dd2dcb3d43a7aaefd943f":[8,0,0,0,1,3,9,12,39,0],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a96ac7fb2ea32fd0f3032f2e2b6e1b5dd":[8,0,0,0,1,3,9,12,39,11],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aab352ffaf12be7d0e86602fe71974356":[8,0,0,0,1,3,9,12,39,30],
@@ -249,5 +248,6 @@ var NAVTREEINDEX223 =
 "d8/d16/structboss__marwyn.html#a7bd848b407d33942f05b48b6284506bb":[7,0,630,1],
 "d8/d16/structboss__marwyn.html#a89fd620d0e74675d671cb69cc917d024":[7,0,630,3],
 "d8/d16/structboss__marwyn.html#a93849e995d62ba5a220e08157d8758fa":[7,0,630,2],
-"d8/d16/structboss__marwyn.html#aad4dd7a1fb79c704c7e59581f938d2e9":[7,0,630,5]
+"d8/d16/structboss__marwyn.html#aad4dd7a1fb79c704c7e59581f938d2e9":[7,0,630,5],
+"d8/d16/structboss__marwyn.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd":[7,0,630,0]
 };

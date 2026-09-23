@@ -1,6 +1,5 @@
 var NAVTREEINDEX416 =
 {
-"df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[7,0,3230,0],
 "df/d88/classspell__hallows__end__trick.html#aab4303fff660c68db100e07a4423c39b":[7,0,3230,1],
 "df/d89/SkillDiscovery_8cpp.html":[8,0,0,0,1,2,40,0],
 "df/d89/SkillDiscovery_8cpp.html#a0c80a6b86b3b7bd5e9c238efa802919b":[8,0,0,0,1,2,40,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX416 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a1102dc1a5feabf3b4a9cf170835f8ade":[7,0,674,0,2],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a16265a5ba6d78302034b2a2804e59e24":[7,0,674,0,14],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a32615a07ab4974923a9f8ed3fb6b5eb5":[7,0,674,0,4],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a3eb78ce24d15d0a4df15cf4f19f78c00":[7,0,674,0,20]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a3eb78ce24d15d0a4df15cf4f19f78c00":[7,0,674,0,20],
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a46179701796a35d3cfdbcd6bef481bfc":[7,0,674,0,8]
 };

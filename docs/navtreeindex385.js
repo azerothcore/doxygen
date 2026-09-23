@@ -1,6 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"de/d3b/classMotionMaster.html#a3653f35f87e68975efc1a5ad340507f5":[7,0,1580,21],
 "de/d3b/classMotionMaster.html#a365cdbf1389a8ceb8ff25e52cfdc03af":[7,0,1580,66],
 "de/d3b/classMotionMaster.html#a36846e8d2c580d5ab2a6da0e020da70a":[7,0,1580,59],
 "de/d3b/classMotionMaster.html#a36dcfce00d1f98c084755aef95bb9d7b":[7,0,1580,62],
@@ -249,5 +248,6 @@ var NAVTREEINDEX385 =
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fa56f882d8c103fe1403a3ce1c1c890483":[8,0,0,0,1,2,15,5,35,3],
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fa681e478a8a9974b11422e4b00e07aa67":[8,0,0,0,1,2,15,5,35,7],
 "de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fab54cd511c649ecb334f1b782b8fe7d02":[8,0,0,0,1,2,15,5,35,0],
-"de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[8,0,0,0,1,2,15,5,35,2]
+"de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[8,0,0,0,1,2,15,5,35,2],
+"de/d3d/LFGMgr_8h.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617":[8,0,0,0,1,2,15,5,35,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX200 =
 {
-"d7/d32/classBIH_1_1BuildStats.html#a84aa8066e8e19902aecec45607d7a93d":[7,0,375,1,14],
 "d7/d32/classBIH_1_1BuildStats.html#a855eb250661d80a9313b926556e12168":[7,0,375,1,5],
 "d7/d32/classBIH_1_1BuildStats.html#a90121f1721624ae2be8b3e6860d02f23":[7,0,375,1,7],
 "d7/d32/classBIH_1_1BuildStats.html#a9a2e28e15f755a8a0b5751d62664734f":[7,0,375,1,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX200 =
 "d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[8,0,0,0,0,5,2,1],
 "d7/d3f/classnpc__eris__hevenfire.html":[7,0,1822],
 "d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[7,0,1822,3],
-"d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[7,0,1822,1]
+"d7/d3f/classnpc__eris__hevenfire.html#a77f0836dc0b19114316b8b67839d8033":[7,0,1822,1],
+"d7/d3f/classnpc__eris__hevenfire.html#ad67a81ad20fac785c199c16fea8fe6f8":[7,0,1822,2]
 };

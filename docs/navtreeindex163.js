@@ -1,6 +1,5 @@
 var NAVTREEINDEX163 =
 {
-"d5/db6/classWheatyExceptionReport.html#ab9866626b0f638ed7a0ed86cfd11106b":[7,0,4701,0],
 "d5/db6/classWheatyExceptionReport.html#abd65e937dfadd082d69c9fbbe0e13d83":[7,0,4701,17],
 "d5/db6/classWheatyExceptionReport.html#abe8959cd2c706b84981aeeb9ddaee3ae":[7,0,4701,15],
 "d5/db6/classWheatyExceptionReport.html#ac8e24040657d06faa610f8648365b432":[7,0,4701,23],
@@ -249,5 +248,6 @@ var NAVTREEINDEX163 =
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[7,0,0,95,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,107,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,107,5],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[7,0,0,95,5]
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[7,0,0,95,5],
+"d5/dc0/classspell__marli__transform.html":[7,0,3679]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX141 =
 {
-"d4/dc1/WaypointMovementGenerator_8cpp.html#a2cfd2302ba925854b6edc6af49bcb40a":[8,0,0,0,1,2,31,0,20,3],
 "d4/dc1/WaypointMovementGenerator_8cpp.html#a47a5affa854677472690918c4d16f998":[8,0,0,0,1,2,31,0,20,1],
 "d4/dc1/WaypointMovementGenerator_8cpp.html#a55b33fb4c6265551b0327903da9bff4c":[8,0,0,0,1,2,31,0,20,0],
 "d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca":[8,0,0,0,1,2,31,0,20,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX141 =
 "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca05567ac9f71cf7b6a6017693c46ed956":[8,0,0,0,1,3,2,11,3,9,5],
 "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca06386ec8e4cf106eb16f5e7db47da2d2":[8,0,0,0,1,3,2,11,3,9,13],
 "d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a80ca380f2d6cf16368d3f9c6fa320b":[8,0,0,0,1,3,2,11,3,9,6],
-"d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e4c8019cab150215b3400f95b9c5a83":[8,0,0,0,1,3,2,11,3,9,0]
+"d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e4c8019cab150215b3400f95b9c5a83":[8,0,0,0,1,3,2,11,3,9,0],
+"d4/dc9/boss__kalecgos_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d2702c1c121e1139359d986fbab12a":[8,0,0,0,1,3,2,11,3,9,10]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX349 =
 {
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec":[7,0,1623,0,2],
 "dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2aca9db407c87adeb91205451a67ffffc5":[7,0,1623,0,1],
 "dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2aff67cf343aa56c92996f9d55cd622a98":[7,0,1623,0,3],
 "dd/d46/structnpc__acherus__necromancer.html#a575ad749490b1eb3d2008edc617dac29":[7,0,1623,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX349 =
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[8,0,0,0,1,3,4,9,7,5,2],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[8,0,0,0,1,3,4,9,7,5,0],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f":[8,0,0,0,1,3,4,9,7,5,1],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,9,7,6]
+"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,9,7,6],
+"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a193f6b29e1a4f07a90b5839e7cd9bd05":[8,0,0,0,1,3,4,9,7,6,2]
 };

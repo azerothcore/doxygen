@@ -1,6 +1,5 @@
 var NAVTREEINDEX183 =
 {
-"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[7,0,4317,2],
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4317,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4317,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4317,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX183 =
 "d6/d73/structnpc__mimirons__inferno.html#aedcded9302c0cb9e29475f471bd0612e":[7,0,2021,0],
 "d6/d73/structnpc__mimirons__inferno.html#afbd0bcdbb24bf1dbdaacecf4b602922b":[7,0,2021,5],
 "d6/d73/structnpc__mimirons__inferno.html#afd800c3a1430fe19edf6fe21763b15d8":[7,0,2021,7],
-"d6/d75/boss__varos_8cpp.html":[8,0,0,0,1,3,5,8,2,3]
+"d6/d75/boss__varos_8cpp.html":[8,0,0,0,1,3,5,8,2,3],
+"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,8,2,3,3]
 };

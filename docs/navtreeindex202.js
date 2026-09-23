@@ -1,6 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/d46/classAuraEffect.html#a9b5fb8fd52b54a9fc55491d48a62df4f":[7,0,295,75],
 "d7/d46/classAuraEffect.html#a9b7657d41ca8a463e12dca94fffdddbc":[7,0,295,221],
 "d7/d46/classAuraEffect.html#a9bc0fe3e6f5ce7ec0c62d3f2e25ebfb9":[7,0,295,126],
 "d7/d46/classAuraEffect.html#a9bea1efab99a42212d85ea5c39921950":[7,0,295,72],
@@ -249,5 +248,6 @@ var NAVTREEINDEX202 =
 "d7/d4f/InstancePackets_8cpp.html":[8,0,0,0,1,2,39,0,15],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html":[7,0,3722],
 "d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a1a9dfb50cec61386c5e3a3556f5d2f53":[7,0,3722,2],
-"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a83195ac3c9536a3485e41bf2c04884f6":[7,0,3722,4]
+"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a83195ac3c9536a3485e41bf2c04884f6":[7,0,3722,4],
+"d7/d4f/classspell__muru__summon__blood__elves__periodic__aura.html#a9dce02909356193476e66586aee87f1d":[7,0,3722,0]
 };

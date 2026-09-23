@@ -1,6 +1,5 @@
 var NAVTREEINDEX243 =
 {
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[7,0,558,0,8],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9":[7,0,558,0,6],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a302879641400e0f0b329fd960256c9fb":[7,0,558,0,12],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a4149dd25a04d661448255858e57387f4":[7,0,558,0,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX243 =
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca20f4ddc0bc1fced7c0119e624491e689":[8,0,0,0,1,3,7,1,2,26,5],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca27207320f397ad27ede4bc6d2260ca54":[8,0,0,0,1,3,7,1,2,26,14],
 "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca2952d88a4f7c3bcffa15d6f65ab25083":[8,0,0,0,1,3,7,1,2,26,39],
-"d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b197a67ddc5aa697170968a192838df":[8,0,0,0,1,3,7,1,2,26,30]
+"d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b197a67ddc5aa697170968a192838df":[8,0,0,0,1,3,7,1,2,26,30],
+"d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca32f4b6cad46da583301923c3e16440f1":[8,0,0,0,1,3,7,1,2,26,6]
 };

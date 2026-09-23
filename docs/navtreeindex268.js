@@ -1,6 +1,5 @@
 var NAVTREEINDEX268 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf":[8,0,0,0,1,2,41,0,0,6,4],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6796b359cee58ecae94d38098c91e74e":[8,0,0,0,1,2,41,0,0,6,87],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68a0826b3af846b703a7fcd15437cd56":[8,0,0,0,1,2,41,0,0,6,250],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68aa3ccb3306f28df5cab299ef7c2e48":[8,0,0,0,1,2,41,0,0,6,195],
@@ -249,5 +248,6 @@ var NAVTREEINDEX268 =
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0729c584c3b65e5f25f4445de378f0ea":[7,0,1944,0,1],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0a8159a84689dbfd8c69ed523ce03817":[7,0,1944,0,0],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9":[7,0,1944,0,4],
-"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a21def23073eeec051c1c97a813e0ea84":[7,0,1944,0,5]
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a21def23073eeec051c1c97a813e0ea84":[7,0,1944,0,5],
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a2f3e45b3f762ede62aa94a6ae3f2909f":[7,0,1944,0,2]
 };

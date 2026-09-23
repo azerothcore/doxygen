@@ -1,6 +1,5 @@
 var NAVTREEINDEX292 =
 {
-"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[7,0,582,3],
 "db/d1b/structboss__kazrogal.html#acb9f4ee5d97b43082bf6fc0c424685ab":[7,0,582,6],
 "db/d1b/structboss__pandemonius.html":[7,0,668],
 "db/d1b/structboss__pandemonius.html#a05011127290350f11cc1a333b23dbb04":[7,0,668,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX292 =
 "db/d2a/classspell__warr__extra__proc.html#ab012775206fb6011eff8fbed293319c8":[7,0,4384,3],
 "db/d2a/classspell__warr__extra__proc.html#afb32150ac10ad392b63f40db05433835":[7,0,4384,2],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[7,0,723,0],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[7,0,723,0,7]
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[7,0,723,0,7],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[7,0,723,0,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"d5/d4f/structSkillDiscoveryEntry.html#a71cf2c48937e5a2a3c6dd8c499a860a7":[7,0,2614,2],
 "d5/d4f/structSkillDiscoveryEntry.html#a75ca40729917317173b2953c8f47f833":[7,0,2614,4],
 "d5/d50/boss__kelthuzad_8cpp.html":[8,0,0,0,1,3,5,7,7],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,7,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX152 =
 "d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8":[8,0,0,0,1,2,16,1,7,13],
 "d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8a01875547d8673a85e5964aa0f56a757f":[8,0,0,0,1,2,16,1,7,13,40],
 "d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8a0b438ecb3babedfd74fdd5452a5b0799":[8,0,0,0,1,2,16,1,7,13,15],
-"d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8a0b94f1368cd0a3065fcc7f6cdcbfd4bd":[8,0,0,0,1,2,16,1,7,13,38]
+"d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8a0b94f1368cd0a3065fcc7f6cdcbfd4bd":[8,0,0,0,1,2,16,1,7,13,38],
+"d5/d64/GossipDef_8h.html#a28a66f0e8dc3d7162bfad02639ffb5a8a1006d046d3cf70a701f651e5de477a2a":[8,0,0,0,1,2,16,1,7,13,20]
 };

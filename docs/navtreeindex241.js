@@ -1,6 +1,5 @@
 var NAVTREEINDEX241 =
 {
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0a1c0e8ac3731de8d878b6d04493c594":[8,0,0,0,1,2,8,1,19,11,26],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a0f22a303bdde42fd4ba2e555d8f3841c":[8,0,0,0,1,2,8,1,19,11,1],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a10b4cd7727e528609a0ff55b79daadd4":[8,0,0,0,1,2,8,1,19,11,7],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a1f85dcb64b1d4a625674ed40542f33d6":[8,0,0,0,1,2,8,1,19,11,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX241 =
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354":[8,0,0,0,1,2,41,0,2,3],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf":[8,0,0,0,1,2,41,0,2,3,2],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa":[8,0,0,0,1,2,41,0,2,3,1],
-"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5":[8,0,0,0,1,2,41,0,2,3,0]
+"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5":[8,0,0,0,1,2,41,0,2,3,0],
+"d8/deb/SpellAuraEffects_8h.html#a9e98d9a1c1cc41922f386b184fd7ce67":[8,0,0,0,1,2,41,0,2,2]
 };

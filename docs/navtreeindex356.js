@@ -1,6 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"dd/da3/structBankBagSlotPricesEntry.html#a9b81ec4b4638763b738862d6c184e2a9":[7,0,318,1],
 "dd/da3/structSpellProcEntry.html":[7,0,4506],
 "dd/da3/structSpellProcEntry.html#a2cb738b0d4579503fcb9bca7988f7e36":[7,0,4506,10],
 "dd/da3/structSpellProcEntry.html#a3815765c08f6b95cae6efb93fa98623b":[7,0,4506,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX356 =
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0df39fec12129fbfa1819886c0fbf1c1":[8,0,0,0,1,3,5,4,2,5,11,10],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a1bd85b8b26cfe06cebd01cffed5b5ae9":[8,0,0,0,1,3,5,4,2,5,11,9],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a73862ae73b0d44a1ec28f28de445ce4e":[8,0,0,0,1,3,5,4,2,5,11,2],
-"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a7432e3c630ed034bd36086e5a59d0275":[8,0,0,0,1,3,5,4,2,5,11,6]
+"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a7432e3c630ed034bd36086e5a59d0275":[8,0,0,0,1,3,5,4,2,5,11,6],
+"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a84f204ceca019b1adf3ef84032e68314":[8,0,0,0,1,3,5,4,2,5,11,3]
 };

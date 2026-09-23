@@ -1,6 +1,5 @@
 var NAVTREEINDEX250 =
 {
-"d9/d63/classTypeUnorderedMapContainer.html#adda6657e9a0fd08b105cd4d6b2baa9d3":[7,0,4625,6],
 "d9/d63/classspell__charge__shield__bomber__aura.html":[7,0,2781],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456b1b70fd6d9b6642ec959677fe08ff":[7,0,2781,2],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2781,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX250 =
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a83d28283f1301ec1df15f88df6d05f97":[8,0,0,0,1,3,5,6,13,5,85],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a85bce5991c697d0f9f83dc58de3b518c":[8,0,0,0,1,3,5,6,13,5,77],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a86c03c1d6dc66e784fb681c5c90471f4":[8,0,0,0,1,3,5,6,13,5,89],
-"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a87b5bbb402f9e4425edf9f48b6877758":[8,0,0,0,1,3,5,6,13,5,159]
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a87b5bbb402f9e4425edf9f48b6877758":[8,0,0,0,1,3,5,6,13,5,159],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a8860dba5ae1b2a2f5b4d2de99b5dbeda":[8,0,0,0,1,3,5,6,13,5,70]
 };

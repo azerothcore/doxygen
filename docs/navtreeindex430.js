@@ -1,6 +1,5 @@
 var NAVTREEINDEX430 =
 {
-"df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,651,2],
 "df/df5/structboss__nefarian.html#a6fdf265e453deb8f9a4214beacf3dbab":[7,0,651,3],
 "df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,651,0],
 "df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[7,0,651,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX430 =
 "dir_8a86f46c68fd9f4cbeaa550d3ee2afc5.html":[8,0,0,0,1,2,16,3],
 "dir_8af33554ddafa3432455437cc558c9c8.html":[8,0,0,0,1,2,41,0],
 "dir_8b777919d2ae980e2f3806300ea01226.html":[8,0,0,0,0,1,1],
-"dir_9190001e5b6939293a2fb2bd5f108b56.html":[8,0,0,0,1,2,21]
+"dir_9190001e5b6939293a2fb2bd5f108b56.html":[8,0,0,0,1,2,21],
+"dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html":[8,0,0,0,0,10]
 };

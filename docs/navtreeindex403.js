@@ -1,6 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"de/df7/classWorldPackets_1_1Packet.html#af7c79156d7b6cfe3142fc530f9ed262a":[7,0,13,25,7],
 "de/df9/classnpc__lk__wicked__spirit.html":[7,0,1989],
 "de/df9/classnpc__lk__wicked__spirit.html#ad75b36f2f7242dea685cd67dc72d0d30":[7,0,1989,2],
 "de/df9/classnpc__lk__wicked__spirit.html#adb5f0d5db260b3e5b4df3725c0b62827":[7,0,1989,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX403 =
 "df/d09/TerrainBuilder_8cpp.html#a14e2a0a2291347b0ef877bc9d70f7384":[8,0,0,0,3,2,8,9],
 "df/d09/TerrainBuilder_8cpp.html#a15a9245a53c00f1a8a89dd2d798cea9d":[8,0,0,0,3,2,8,4],
 "df/d09/TerrainBuilder_8cpp.html#a17d4c5ea32412f0fbe04a27f63d50e13":[8,0,0,0,3,2,8,10],
-"df/d09/TerrainBuilder_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[8,0,0,0,3,2,8,16]
+"df/d09/TerrainBuilder_8cpp.html#a1d57d156046bda88886b7488ab0b83bc":[8,0,0,0,3,2,8,16],
+"df/d09/TerrainBuilder_8cpp.html#a42b8b790a3d284e7116bcad1c391b8f9":[8,0,0,0,3,2,8,7]
 };
