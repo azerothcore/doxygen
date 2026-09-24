@@ -1,5 +1,8 @@
 var NAVTREEINDEX133 =
 {
+"d4/d72/structboss__anubrekhan.html#a9fcbc921973e0bd02867217d15efcc64":[7,0,396,5],
+"d4/d72/structboss__anubrekhan.html#ad748de528ca78739236b9586ddaa19bd":[7,0,396,0],
+"d4/d72/structboss__anubrekhan.html#af1a01ff6c9790e1660619767c16cfd94":[7,0,396,3],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html":[7,0,2098,0],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e":[7,0,2098,0,1],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a17a0e1e7a35f608a9ec86ce4e959b52e":[7,0,2098,0,5],
@@ -141,12 +144,12 @@ var NAVTREEINDEX133 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[8,0,0,0,1,3,5,2,1,0,18,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[7,0,13,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,34,6,13],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,34,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[7,0,13,6,13,1],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,34,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[7,0,13,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,34,6,13,3],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,34,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[7,0,13,6,13,0],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,34,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,34,6,13,2],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[7,0,13,6,13,2],
 "d4/d78/classspell__icc__empowered__blood__3.html":[7,0,3301],
@@ -182,8 +185,8 @@ var NAVTREEINDEX133 =
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,31,22,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[7,0,11,22,2],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[5,0,31,22,2],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[5,0,31,22,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[7,0,11,22,3],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html#abe509366e68fff92e07c1aacb90da04f":[5,0,31,22,3],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#aef7e8c21f6be4d6889faddda6b3be326":[7,0,11,22,0],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#aef7e8c21f6be4d6889faddda6b3be326":[5,0,31,22,0],
 "d4/d7b/boss__nefarian_8cpp.html":[8,0,0,0,1,3,2,1,2,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bf39e727bae2acf55f01141156a0fe4":[8,0,0,0,1,3,2,1,2,6,20,16],
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e616b5c61c28fa1f65c5d617551fee":[8,0,0,0,1,3,2,1,2,6,20,37],
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca2621f596f2fae741efa2318ecf38f173":[8,0,0,0,1,3,2,1,2,6,20,41],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca29ade286de34c333d408ac24f1218808":[8,0,0,0,1,3,2,1,2,6,20,17],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fc3fdc9ad71e4cfacaac06d249e296a":[8,0,0,0,1,3,2,1,2,6,20,7],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca383f58f6f3e25857fd5474eb43124011":[8,0,0,0,1,3,2,1,2,6,20,8],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca3858da518a56c73cd5ce667609eb7ca4":[8,0,0,0,1,3,2,1,2,6,20,33]
+"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca29ade286de34c333d408ac24f1218808":[8,0,0,0,1,3,2,1,2,6,20,17]
 };

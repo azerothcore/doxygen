@@ -1,5 +1,8 @@
 var NAVTREEINDEX129 =
 {
+"d4/d4f/classAggressorAI.html#a2d4ba3a557832466f29906972d1e14fd":[7,0,148,0],
+"d4/d4f/classAggressorAI.html#a7867a9ca7249eb94a712e34833fae930":[7,0,148,1],
+"d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b":[7,0,148,2],
 "d4/d4f/classspell__dk__death__and__decay__aura.html":[7,0,2837],
 "d4/d4f/classspell__dk__death__and__decay__aura.html#a6b76add02d3a1eeddd845c4f97d0632a":[7,0,2837,1],
 "d4/d4f/classspell__dk__death__and__decay__aura.html#a9d94b55656848d5b9f943b9b3bbfd889":[7,0,2837,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a4370be2b59ea50bf5ea2285bfbf4e242":[7,0,1245,0,0],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a50ad8b248381a6d9fac7a291796966d6":[7,0,1245,0,5],
 "d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#a73f129b7b636a1178fe3402cf1e6c50d":[7,0,1245,0,1],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#ab44f563b8f117a19ac78508c3cba72e9":[7,0,1245,0,4],
-"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#aff4dedbf3a6fea405722f7064633edb1":[7,0,1245,0,2],
-"d4/d58/classspell__frostwarden__handler__focus__fire.html":[7,0,3009],
-"d4/d58/classspell__frostwarden__handler__focus__fire.html#a038a827f7fe179ff56ab581efdf08790":[7,0,3009,0]
+"d4/d57/structgo__wind__stone_1_1go__wind__stoneAI.html#ab44f563b8f117a19ac78508c3cba72e9":[7,0,1245,0,4]
 };

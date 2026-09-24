@@ -329,6 +329,7 @@ var classScriptMgr =
     [ "OnPlayerCanJoinLfg", "d2/d73/classScriptMgr.html#a32281ec9968a5be1651ba4802b33e52b", null ],
     [ "OnPlayerCanLearnSpell", "d2/d73/classScriptMgr.html#a21ab4d268a5a7a593b2e8f29228afc65", null ],
     [ "OnPlayerCanLearnTalent", "d2/d73/classScriptMgr.html#ab153d164d5665cc7c10fa95dbd8140dd", null ],
+    [ "OnPlayerCanMarkAccountOffline", "d2/d73/classScriptMgr.html#a24efa1e9f701bef0cf4ffcc8f38b1fbf", null ],
     [ "OnPlayerCanPlaceAuctionBid", "d2/d73/classScriptMgr.html#a9d1ff94d4a386e82cf07dca82f8efad7", null ],
     [ "OnPlayerCanRepopAtGraveyard", "d2/d73/classScriptMgr.html#a6ffb09fe1445d9c2a12aa3a5336d7bed", null ],
     [ "OnPlayerCanResurrect", "d2/d73/classScriptMgr.html#a82d5fe3f34855a583e0acfd62048da83", null ],

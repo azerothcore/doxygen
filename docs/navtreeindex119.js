@@ -1,5 +1,8 @@
 var NAVTREEINDEX119 =
 {
+"d3/de4/classspell__gen__arcane__charge.html#adb3212ff52b5ad9ae2ce824dd1cf018a":[7,0,3029,0],
+"d3/de4/classspell__gen__arcane__charge.html#aebb88f5ea803a590a099e4e6427d8276":[7,0,3029,1],
+"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html":[7,0,2732],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a21aad38fe91580d3b8e0cc71dce7b1ad":[7,0,2732,1],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a4741bfaaea8bc956fd1020aca13a51c2":[7,0,2732,0],
 "d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html#a54b2ab23915e84b9c9728eb624dae47b":[7,0,2732,2],
@@ -237,17 +240,14 @@ var NAVTREEINDEX119 =
 "d3/df0/adt_8h.html#adad9f01017a76fb25b04611c100d3df7":[8,0,0,0,3,1,2,19],
 "d3/df0/classAcore_1_1PowerCheck.html":[7,0,0,101],
 "d3/df0/classAcore_1_1PowerCheck.html":[5,0,0,113],
-"d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,0,113,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[7,0,0,101,1],
-"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,0,113,3],
+"d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,0,113,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[7,0,0,101,3],
-"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,0,113,0],
+"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,0,113,3],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[7,0,0,101,0],
+"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,0,113,0],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[7,0,0,101,2],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[5,0,0,113,2],
 "d3/df0/classinstance__serpent__shrine.html":[7,0,1376],
-"d3/df0/classinstance__serpent__shrine.html#aa81add2f4aeb8b2084bcc81c05b606c7":[7,0,1376,2],
-"d3/df0/classinstance__serpent__shrine.html#aac4fc7113307805138ba4ce4a9adff09":[7,0,1376,1],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[5,0,34,14,5],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[7,0,13,14,5]
+"d3/df0/classinstance__serpent__shrine.html#aa81add2f4aeb8b2084bcc81c05b606c7":[7,0,1376,2]
 };

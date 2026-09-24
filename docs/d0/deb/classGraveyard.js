@@ -4,6 +4,7 @@ var classGraveyard =
     [ "AddGraveyardLink", "d0/deb/classGraveyard.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
     [ "FindGraveyardData", "d0/deb/classGraveyard.html#a54a4461db550d5383fded30a6ecd0408", null ],
     [ "GetClosestGraveyard", "d0/deb/classGraveyard.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
+    [ "GetClosestGraveyard", "d0/deb/classGraveyard.html#a27223a5d38806b836be3ff9e25d25378", null ],
     [ "GetDefaultGraveyard", "d0/deb/classGraveyard.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
     [ "GetGraveyard", "d0/deb/classGraveyard.html#a9909f874812997a16895e81fccff994a", null ],
     [ "GetGraveyard", "d0/deb/classGraveyard.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],

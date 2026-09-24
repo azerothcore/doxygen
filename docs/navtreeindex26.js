@@ -1,5 +1,7 @@
 var NAVTREEINDEX26 =
 {
+"d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a62d97adb310b55a2235737b854dc4aca":[7,0,689,0,5],
+"d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d":[7,0,689,0,4],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a71e717a2ea732729762aff7970439f74":[7,0,689,0,10],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a72e9a85d2215d3da197d50b6aa0b769e":[7,0,689,0,6],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#ab8b2b52a2ef8ea6586381234c9a3e3fc":[7,0,689,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#aa97dea4a1684b9818ac11df709e46ebc":[7,0,2646,192],
 "d1/d16/classSpell.html#aa9dcc23b576a259c40ba9acbf68b9125":[7,0,2646,300],
 "d1/d16/classSpell.html#aaa2bf5651dda412ff230f3a9dc5573de":[7,0,2646,128],
-"d1/d16/classSpell.html#aaa364320e4b035a013e177f35a288933":[7,0,2646,301],
-"d1/d16/classSpell.html#aabf1394716e3e14d0b24188c043d08c3":[7,0,2646,265],
-"d1/d16/classSpell.html#aacc980a2773f5e5b976dbe91386332b1":[7,0,2646,93]
+"d1/d16/classSpell.html#aaa364320e4b035a013e177f35a288933":[7,0,2646,301]
 };

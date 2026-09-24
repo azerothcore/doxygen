@@ -1,5 +1,8 @@
 var NAVTREEINDEX118 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#ace4e96c4258008c52ef9e7a7a8e1d858":[7,0,1335,9],
+"d3/dd6/structinstance__blackrock__depths.html#acebf7341a04358dc614000eb3f0a03d2":[7,0,1335,7],
+"d3/dd6/structinstance__blackrock__depths.html#ad21eade0eaa7adfa0080396bf35aef3b":[7,0,1335,5],
 "d3/dd6/structinstance__blackrock__depths.html#ad6b0d267f510333e019c69b33842df80":[7,0,1335,13],
 "d3/dd6/structinstance__blackrock__depths.html#ae3d653fb0bb44a406be9b513c9b45972":[7,0,1335,49],
 "d3/dd6/structinstance__blackrock__depths.html#aef5731ac129108998b7d26f4da06cbc5":[7,0,1335,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX118 =
 "d3/de2/classspell__q5561__kodo__roundup__kodo__kombobulator.html#abc4e276c4759bad63b692a467f2f88f2":[7,0,4000,2],
 "d3/de2/classspell__q5561__kodo__roundup__kodo__kombobulator.html#acdbb427ed3ebe9e2b8089a5bb50489a9":[7,0,4000,1],
 "d3/de4/classspell__gen__arcane__charge.html":[7,0,3029],
-"d3/de4/classspell__gen__arcane__charge.html#a18406f867561f9baf5a4cee8ce8ea59a":[7,0,3029,2],
-"d3/de4/classspell__gen__arcane__charge.html#adb3212ff52b5ad9ae2ce824dd1cf018a":[7,0,3029,0],
-"d3/de4/classspell__gen__arcane__charge.html#aebb88f5ea803a590a099e4e6427d8276":[7,0,3029,1],
-"d3/de7/classspell__blood__queen__frenzied__bloodthirst__aura.html":[7,0,2732]
+"d3/de4/classspell__gen__arcane__charge.html#a18406f867561f9baf5a4cee8ce8ea59a":[7,0,3029,2]
 };

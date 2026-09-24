@@ -1,5 +1,7 @@
 var NAVTREEINDEX57 =
 {
+"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacbe3a72209c0fb6f9567d37056c651d3":[8,0,0,0,1,2,8,1,1,7,5],
+"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacf222243191f9ac4a83ff33723f923b4":[8,0,0,0,1,2,8,1,1,7,2],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babae98af0ae16845e907101c448a4b27981":[8,0,0,0,1,2,8,1,1,7,1],
 "d2/d35/BattlegroundAB_8h.html#a6d6a352719d503f3002b193c412ec53b":[8,0,0,0,1,2,8,1,1,15],
 "d2/d35/BattlegroundAB_8h.html#a6f996d495e116848d3bd6384e501d51e":[8,0,0,0,1,2,8,1,1,17],
@@ -201,8 +203,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2255,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2255,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9":[8,0,0,0,1,3,7,2,0,4,5,1],
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421":[8,0,0,0,1,3,7,2,0,4,5,2],
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab5ce504033be3070a9dd1c8ee753183e":[8,0,0,0,1,3,7,2,0,4,5,0],
-"d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af90b3f4f3487db802150211ac829c7ae":[8,0,0,0,1,3,7,2,0,4,5,4],
-"d2/d3d/boss__lurker__below_8cpp.html#a55e6b22a71b5c615b82389bdf1717718":[8,0,0,0,1,3,7,2,0,4,8],
-"d2/d3d/boss__lurker__below_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,0,4,6]
+"d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af90b3f4f3487db802150211ac829c7ae":[8,0,0,0,1,3,7,2,0,4,5,4]
 };

@@ -9,7 +9,7 @@ var dir_c6aa1690377d4e56e32ba0c89772ac1d =
     [ "BattleGroundHandler.cpp", "d7/d65/BattleGroundHandler_8cpp.html", null ],
     [ "CalendarHandler.cpp", "dd/d8d/CalendarHandler_8cpp.html", "dd/d8d/CalendarHandler_8cpp" ],
     [ "ChannelHandler.cpp", "dc/d36/ChannelHandler_8cpp.html", null ],
-    [ "CharacterHandler.cpp", "d9/de6/CharacterHandler_8cpp.html", "d9/de6/CharacterHandler_8cpp" ],
+    [ "CharacterHandler.cpp", "d9/de6/CharacterHandler_8cpp.html", null ],
     [ "ChatHandler.cpp", "dc/d77/ChatHandler_8cpp.html", "dc/d77/ChatHandler_8cpp" ],
     [ "CombatHandler.cpp", "df/df8/CombatHandler_8cpp.html", null ],
     [ "DuelHandler.cpp", "da/d1c/DuelHandler_8cpp.html", null ],

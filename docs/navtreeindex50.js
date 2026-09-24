@@ -1,5 +1,7 @@
 var NAVTREEINDEX50 =
 {
+"d1/de4/spell__generic_8cpp.html#abda5febccbab2e6e96139e2858404ab5a2296ff83954af9e159920060942b5cf6":[8,0,0,0,1,3,9,2,181,1],
+"d1/de4/spell__generic_8cpp.html#abe1ce7161f3fe9c09efa1e4580acba6c":[8,0,0,0,1,3,9,2,228],
 "d1/de4/spell__generic_8cpp.html#ac2312ffa0b01ce8bf63b45b5f8620399":[8,0,0,0,1,3,9,2,179],
 "d1/de4/spell__generic_8cpp.html#ac2312ffa0b01ce8bf63b45b5f8620399ac61cb65d7d9b3ba66dc98fa8fdc9e602":[8,0,0,0,1,3,9,2,179,0],
 "d1/de4/spell__generic_8cpp.html#ac2941716297c47e58e65de027a53ce16":[8,0,0,0,1,3,9,2,227],
@@ -247,7 +249,5 @@ var NAVTREEINDEX50 =
 "d1/df7/classTransactionBase.html#aaeb95f0085e90a3270c273b1873a587d":[7,0,4600,8],
 "d1/df7/classspell__q12735__song__of__cleansing.html":[7,0,3972],
 "d1/df7/classspell__q12735__song__of__cleansing.html#a8866d650b96c4cae3201a2829cbeff3d":[7,0,3972,0],
-"d1/df7/classspell__q12735__song__of__cleansing.html#aa16f51aa8a4fea2a84cadbb01d18b635":[7,0,3972,1],
-"d1/df7/classspell__q12735__song__of__cleansing.html#aeaa094c8d1f3407bf56d58d88c2238a1":[7,0,3972,2],
-"d1/df8/Systemd_8h.html":[8,0,0,0,0,15,32]
+"d1/df7/classspell__q12735__song__of__cleansing.html#aa16f51aa8a4fea2a84cadbb01d18b635":[7,0,3972,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX98 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2eb33d0e8ac6241b547450dd5e455e21":[8,0,0,0,1,3,5,9,2,13,47,19],
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a32190383982551555998c9c8fbeb0a75":[8,0,0,0,1,3,5,9,2,13,47,2],
+"d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b":[8,0,0,0,1,3,5,9,2,13,47,26],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3d6aaca72ce1c9989df53cdba6145162":[8,0,0,0,1,3,5,9,2,13,47,28],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a435e4dde2b1557a4594e2f7b83a718d8":[8,0,0,0,1,3,5,9,2,13,47,22],
 "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a49e9e56a9157f50f5201c2f11d026cb8":[8,0,0,0,1,3,5,9,2,13,47,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[7,0,1127,6],
 "d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[7,0,1127,2],
 "d3/d41/classGameObjectModelOwnerImpl.html#a7909f7095341dde39bf47fc12a0c15b0":[7,0,1127,9],
-"d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988":[7,0,1127,5],
-"d3/d41/classGameObjectModelOwnerImpl.html#acb968e3bd921aac111a2e06f2604b040":[7,0,1127,3],
-"d3/d41/classGameObjectModelOwnerImpl.html#ad0b9a01502c49f16a47e35694d3e6c10":[7,0,1127,4],
-"d3/d41/classGameObjectModelOwnerImpl.html#adb8b3b555ad6cd75c1ee7a1f71a08af7":[7,0,1127,0]
+"d3/d41/classGameObjectModelOwnerImpl.html#a9ba2b29d30b38895effe97637e050988":[7,0,1127,5]
 };

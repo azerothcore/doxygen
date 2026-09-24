@@ -1,5 +1,13 @@
 var NAVTREEINDEX197 =
 {
+"d7/d0b/classspell__ulduar__energy__sap__aura.html#a7dca0398e78278c78dd80e9e6ca874e1":[7,0,4295,1],
+"d7/d0c/classspell__gen__haunted__aura.html":[7,0,3098],
+"d7/d0c/classspell__gen__haunted__aura.html#a6352d1ab3dd67efd9be171f7db20a62d":[7,0,3098,3],
+"d7/d0c/classspell__gen__haunted__aura.html#a65b8a9dcd836cb538d5d2bec3d03d4a2":[7,0,3098,1],
+"d7/d0c/classspell__gen__haunted__aura.html#a78c46695cab8da2280686ea49d88f036":[7,0,3098,0],
+"d7/d0c/classspell__gen__haunted__aura.html#ae6c2b365463345c71ed1a4acdee04a15":[7,0,3098,4],
+"d7/d0c/classspell__gen__haunted__aura.html#af722cf30e478802784178a9346bd1bdd":[7,0,3098,2],
+"d7/d0c/classspell__sladran__grip__of__sladran__aura.html":[7,0,4181],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#a2087e4de62f7aabb72315e92c28c7bd6":[7,0,4181,0],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ab71db011b1cc1f3a2e85cd6b6f115242":[7,0,4181,1],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ad8a16d599a11fa4409d132f66e37e04e":[7,0,4181,2],
@@ -209,8 +217,8 @@ var NAVTREEINDEX197 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -241,13 +249,5 @@ var NAVTREEINDEX197 =
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a450d5ad64e19b151479e382d19eb61a1":[8,0,0,0,1,3,5,25,15,19],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a454ffc8b486c751052b776728e70a63f":[8,0,0,0,1,3,5,25,15,32],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a45e64fe5da4a3306688af0164b823b74":[8,0,0,0,1,3,5,25,15,57],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a4dfba7e14e2574e5a6b3889c3aa94c48":[8,0,0,0,1,3,5,25,15,24],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a5541f4e886e92c01e01acbce6de6491f":[8,0,0,0,1,3,5,25,15,36],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a5752d325d7474aef059be90deecb85b9":[8,0,0,0,1,3,5,25,15,47],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a5c2abf3f2e5114c90d9b4d7e956bff0b":[8,0,0,0,1,3,5,25,15,45],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a63363baf38d51bc1f20a394d3858d2a7":[8,0,0,0,1,3,5,25,15,27],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a6dfb4874a898790c86691547bd4a093c":[8,0,0,0,1,3,5,25,15,4],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a6e4f243799c8977dcf2c8d31f1f58614":[8,0,0,0,1,3,5,25,15,8],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a7c2acaa8c5f8f5c89a0207669b16940b":[8,0,0,0,1,3,5,25,15,5],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a7cd8428f5bd1d2d5d84436f3ffe852a7":[8,0,0,0,1,3,5,25,15,11]
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a4dfba7e14e2574e5a6b3889c3aa94c48":[8,0,0,0,1,3,5,25,15,24]
 };

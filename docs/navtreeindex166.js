@@ -1,12 +1,19 @@
 var NAVTREEINDEX166 =
 {
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,0,98,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[7,0,0,86,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,0,98,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[7,0,0,86,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,0,98,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[7,0,0,86,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[7,0,0,86,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,0,98,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[7,0,0,9,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[5,0,0,21,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[7,0,0,9,0,1],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[5,0,0,21,0,1],
-"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[5,0,0,21,0,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[7,0,0,9,0,2],
+"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[5,0,0,21,0,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#acf03a4e600698c697e7bec942574c9ac":[7,0,0,9,0,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#acf03a4e600698c697e7bec942574c9ac":[5,0,0,21,0,0],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[7,0,2276],
@@ -242,12 +249,5 @@ var NAVTREEINDEX166 =
 "d5/ddf/structVehicleSeatEntry.html#a9cd0faff7b0c59b0587ed51edfdce5b9":[7,0,4661,26],
 "d5/ddf/structVehicleSeatEntry.html#a9d67a5683dbd00d7a44a7aa6d689d72e":[7,0,4661,4],
 "d5/ddf/structVehicleSeatEntry.html#aa5ba65f9fde082f0d7f4c593a1a2e492":[7,0,4661,34],
-"d5/ddf/structVehicleSeatEntry.html#aa9b0a31cb8db9d4d8724566494848c5b":[7,0,4661,27],
-"d5/ddf/structVehicleSeatEntry.html#aacefbac726d145ee15bacef96056c93b":[7,0,4661,45],
-"d5/ddf/structVehicleSeatEntry.html#ab022947134cbe315e84381a32cc2b504":[7,0,4661,33],
-"d5/ddf/structVehicleSeatEntry.html#ab1c19e606220684af3c1fdfb5a32b259":[7,0,4661,16],
-"d5/ddf/structVehicleSeatEntry.html#ab310030ee3865d249f794e70a44ac16e":[7,0,4661,2],
-"d5/ddf/structVehicleSeatEntry.html#ab918a96014a7e62d470bc59ab2cea389":[7,0,4661,50],
-"d5/ddf/structVehicleSeatEntry.html#abb1423e7e62199c346974e3e15a751f1":[7,0,4661,41],
-"d5/ddf/structVehicleSeatEntry.html#abb2deed68525c0282a9005590267f525":[7,0,4661,14]
+"d5/ddf/structVehicleSeatEntry.html#aa9b0a31cb8db9d4d8724566494848c5b":[7,0,4661,27]
 };

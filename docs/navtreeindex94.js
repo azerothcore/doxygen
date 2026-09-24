@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"d3/d0a/classspell__necropolis__beam.html":[7,0,3728],
+"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[7,0,3728,0],
+"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[7,0,3728,1],
 "d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[7,0,3728,2],
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html":[7,0,4115],
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#a9b8c97a29af60ec4a72d2ea85f5c08c4":[7,0,4115,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#aac707369555aa95807c11b1578ae80d2":[5,0,10,11],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#aca5826d283031348e5d6ae6eb75ad605":[5,0,10,6],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67":[5,0,10,0],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550":[5,0,10,0,3],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564":[5,0,10,0,2],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714":[5,0,10,0,1],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c":[5,0,10,0,4]
+"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550":[5,0,10,0,3]
 };

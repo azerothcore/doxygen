@@ -1,5 +1,12 @@
 var NAVTREEINDEX183 =
 {
+"d6/d66/classGameObjectAI.html#ad8b835bdd79598da6683c40501df5903":[7,0,1118,10],
+"d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c":[7,0,1118,19],
+"d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[7,0,1118,15],
+"d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5":[7,0,1118,5],
+"d6/d66/classGameObjectAI.html#afc78344df8960b50913bc434fd01351f":[7,0,1118,2],
+"d6/d66/classspell__vehicle__warhead__fuse.html":[7,0,4317],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[7,0,4317,2],
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4317,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4317,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4317,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d73/structnpc__mimirons__inferno.html#a77ddb0fbd9f0c2334df122d91913300b":[7,0,2021,3],
 "d6/d73/structnpc__mimirons__inferno.html#a7a0be8291200404285277c3689c54106":[7,0,2021,12],
 "d6/d73/structnpc__mimirons__inferno.html#a9b5176d6f1712d36283b0ebeeddee5b2":[7,0,2021,6],
-"d6/d73/structnpc__mimirons__inferno.html#ac74ee90383d6ac140d6187c6115716ed":[7,0,2021,10],
-"d6/d73/structnpc__mimirons__inferno.html#acc2e756af50ebde8300c46ec6f369760":[7,0,2021,4],
-"d6/d73/structnpc__mimirons__inferno.html#ade97188bb54f7b5a15a8a596355e4170":[7,0,2021,2],
-"d6/d73/structnpc__mimirons__inferno.html#aedcded9302c0cb9e29475f471bd0612e":[7,0,2021,0],
-"d6/d73/structnpc__mimirons__inferno.html#afbd0bcdbb24bf1dbdaacecf4b602922b":[7,0,2021,5],
-"d6/d73/structnpc__mimirons__inferno.html#afd800c3a1430fe19edf6fe21763b15d8":[7,0,2021,7],
-"d6/d75/boss__varos_8cpp.html":[8,0,0,0,1,3,5,8,2,3],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,8,2,3,3]
+"d6/d73/structnpc__mimirons__inferno.html#ac74ee90383d6ac140d6187c6115716ed":[7,0,2021,10]
 };

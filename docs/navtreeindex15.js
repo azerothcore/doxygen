@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a261e936a90a1bbb0b599d4e8e5e24b85":[8,0,0,0,1,2,8,1,11,15,3],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2801bc70276264321be82984df6fbbe8":[8,0,0,0,1,2,8,1,11,15,83],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2843d97368a82303248874e80b2b4819":[8,0,0,0,1,2,8,1,11,15,27],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2aae61bfad7260bf54c2ea6aef6fc99c":[8,0,0,0,1,2,8,1,11,15,71],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#a77b31ab1d2952c5d77e8a1ca9cf18405":[7,0,4349,3],
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#ae3711d9dff0acd196b1fae8e2285fb2a":[7,0,4349,2],
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#afa1f4cba7a02cb4a92a67c6e41d3349c":[7,0,4349,1],
-"d0/d9a/classspell__yogg__saron__empowered__aura.html":[7,0,4441],
-"d0/d9a/classspell__yogg__saron__empowered__aura.html#a529e89c1ae0074370da174defc086719":[7,0,4441,0]
+"d0/d9a/classspell__yogg__saron__empowered__aura.html":[7,0,4441]
 };

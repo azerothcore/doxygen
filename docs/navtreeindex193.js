@@ -1,5 +1,13 @@
 var NAVTREEINDEX193 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a3b338962b46bf75dd39d5d74d3ed2d4a":[8,0,0,0,1,3,5,10,1,1,20],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,10,1,1,17],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca12963cbf075e245f47724a9d5465257b":[8,0,0,0,1,3,5,10,1,1,17,8],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca1821fff7f4e5ed40d07d375ace29f292":[8,0,0,0,1,3,5,10,1,1,17,13],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bca3850b747604287d44c8cd7152f7e":[8,0,0,0,1,3,5,10,1,1,17,12],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca30865b6396c660d23d602cb1ba43475b":[8,0,0,0,1,3,5,10,1,1,17,5],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca46135dc5d83b3aa0e93c9c6931550ad5":[8,0,0,0,1,3,5,10,1,1,17,14],
+"d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bfa2e7394ccef49cfcc2ffcfc378203":[8,0,0,0,1,3,5,10,1,1,17,15],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca715a1b06da96a0e60a88af6eefb6add0":[8,0,0,0,1,3,5,10,1,1,17,17],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b6a5de071a30bd1e219f248d6350e5e":[8,0,0,0,1,3,5,10,1,1,17,9],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca83baf60081277a317606ffa369517f8d":[8,0,0,0,1,3,5,10,1,1,17,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX193 =
 "d6/de7/classspell__pri__mana__leech.html#a82218c6f6319c60c26a7d4ec01b64bf9":[7,0,3849,1],
 "d6/de7/classspell__pri__mana__leech.html#aa6165f28706d49940dd1f62065631119":[7,0,3849,5],
 "d6/de7/classspell__pri__mana__leech.html#ab8f483be4d01aa2460c90b043d7a441b":[7,0,3849,3],
-"d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[7,0,3849,2],
-"d6/de7/classspell__pri__mana__leech.html#adce0da60782bcdadbb42ec1c73fddec1":[7,0,3849,0],
-"d6/de9/boss__felmyst_8cpp.html":[8,0,0,0,1,3,2,11,2],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,2,11,2,8],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a06e40e13c3be8d3efb6a355b7b975287":[8,0,0,0,1,3,2,11,2,8,5],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,2,11,2,8,1],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b9cbb64cba3bb8333ecb8b0caddf83b":[8,0,0,0,1,3,2,11,2,8,6],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0":[8,0,0,0,1,3,2,11,2,8,2],
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a350b4672450d7269211c926ef5605dc9":[8,0,0,0,1,3,2,11,2,8,16]
+"d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[7,0,3849,2]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX144 =
 {
+"d4/dd9/structAchievementCriteriaEntry.html":[7,0,119],
+"d4/dd9/structAchievementCriteriaEntry.html#a00e201b605e2507b85a489c9d951751f":[7,0,119,116],
+"d4/dd9/structAchievementCriteriaEntry.html#a031b28157960a3d00cf0ae0bc86fcb47":[7,0,119,15],
+"d4/dd9/structAchievementCriteriaEntry.html#a0452734f5f0849ae41e0812924416c4c":[7,0,119,122],
+"d4/dd9/structAchievementCriteriaEntry.html#a083268faa95a36a1d89bf2421791a650":[7,0,119,114],
+"d4/dd9/structAchievementCriteriaEntry.html#a0876ca5b1d04066a14ed1ba3396a9080":[7,0,119,126],
 "d4/dd9/structAchievementCriteriaEntry.html#a0a422b01a170413cff68bbe3c5e041b1":[7,0,119,27],
 "d4/dd9/structAchievementCriteriaEntry.html#a0d8d971e7aeffcb01d9ccd7efe93a335":[7,0,119,67],
 "d4/dd9/structAchievementCriteriaEntry.html#a0fc768ea751f542fc49a0d5ab2a3e1bd":[7,0,119,54],
@@ -131,8 +137,8 @@ var NAVTREEINDEX144 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1087,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1948,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1948,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1948,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX144 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a54f3baa4767f8336ff4699de426aae61":[7,0,1696,0,6],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a6d39eb1f177e8670169f18fcfa2e3c4e":[7,0,1696,0,1],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a788141bf9be03161741d01d0aa4fe227":[7,0,1696,0,8],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[7,0,1696,0,3],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[7,0,1696,0,2],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[7,0,1696,0,7],
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html":[7,0,2274],
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a16d36c154b6851c0081cc05f838b0fed":[7,0,2274,0],
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a2530742a19275efe92eeded4dce67567":[7,0,2274,5],
-"d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a39c909b67fcdc81542470b6e96256fd5":[7,0,2274,4]
+"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[7,0,1696,0,3]
 };

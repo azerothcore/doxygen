@@ -1,6 +1,6 @@
 var classPointMovementGenerator =
 [
-    [ "PointMovementGenerator", "da/dbe/classPointMovementGenerator.html#a3dd92026da16159b6b53a9074c45a9ec", null ],
+    [ "PointMovementGenerator", "da/dbe/classPointMovementGenerator.html#ad8bc4ed2ec73dba4e5bdc9f1e2695598", null ],
     [ "DoFinalize", "da/dbe/classPointMovementGenerator.html#af1f16559c7683a4f6841c597d81ac310", null ],
     [ "DoInitialize", "da/dbe/classPointMovementGenerator.html#af9e5b0c6f330f1a8e6382556d4c719f0", null ],
     [ "DoReset", "da/dbe/classPointMovementGenerator.html#a6bcb5aa00fd281df102b3fb34dcbfea6", null ],
@@ -18,6 +18,7 @@ var classPointMovementGenerator =
     [ "_generatePath", "da/dbe/classPointMovementGenerator.html#a74611835dfb7cbaeaf177caec56be417", null ],
     [ "_hasBeenStalled", "da/dbe/classPointMovementGenerator.html#ae391133673b9907bc73966479bc71e95", null ],
     [ "_pauseTime", "da/dbe/classPointMovementGenerator.html#af9838148fecfdb51a017c12f808fb563", null ],
+    [ "_reverseOrientation", "da/dbe/classPointMovementGenerator.html#ab8c0026f0f7889cbe6782f407fa58234", null ],
     [ "_stalled", "da/dbe/classPointMovementGenerator.html#ab2aa66a088a7bcf06c2b4fe6b5acf824", null ],
     [ "i_orientation", "da/dbe/classPointMovementGenerator.html#a8c63903feea52d65dd4d013133207308", null ],
     [ "i_recalculateSpeed", "da/dbe/classPointMovementGenerator.html#a5247656bbf2460cd4b60c207022581ec", null ],

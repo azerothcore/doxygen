@@ -1,5 +1,11 @@
 var NAVTREEINDEX148 =
 {
+"d5/d12/classinstance__karazhan.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5":[7,0,1355,2],
+"d5/d12/classspell__dru__survival__instincts__aura.html":[7,0,2945],
+"d5/d12/classspell__dru__survival__instincts__aura.html#a0be2a66b615dd926de7073392a8e5062":[7,0,2945,1],
+"d5/d12/classspell__dru__survival__instincts__aura.html#a36fb81d0bf4cf92773db60a70de52dda":[7,0,2945,3],
+"d5/d12/classspell__dru__survival__instincts__aura.html#a4763d0c69c12611244f68ba5a5b1ccce":[7,0,2945,2],
+"d5/d12/classspell__dru__survival__instincts__aura.html#a86b51ec85105b0396972f0c3d7b770c1":[7,0,2945,4],
 "d5/d12/classspell__dru__survival__instincts__aura.html#a9c2591beacd941893338109719c03e3f":[7,0,2945,0],
 "d5/d13/PlayerTaxi_8cpp.html":[8,0,0,0,1,2,16,7,12],
 "d5/d13/PlayerTaxi_8cpp.html#aa8a947319a6f00895a3c443f5cb258ad":[8,0,0,0,1,2,16,7,12,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d21/instance__forge__of__souls_8cpp.html":[8,0,0,0,1,3,5,4,0,4],
 "d5/d21/instance__forge__of__souls_8cpp.html#a1ec461fda59c652788d1a38e62cdea20":[8,0,0,0,1,3,5,4,0,4,3],
 "d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,4,0,4,2],
-"d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a18fe058daf74ba8fb2251a5f0935d412":[8,0,0,0,1,3,5,4,0,4,2,1],
-"d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a26e27cf789e38aa6660c663b562bc249":[8,0,0,0,1,3,5,4,0,4,2,2],
-"d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8a443b167286c78f0c6b3b96700c2511":[8,0,0,0,1,3,5,4,0,4,2,0],
-"d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad33e457bb5c02665f5762cece534a2b6":[8,0,0,0,1,3,5,4,0,4,2,3],
-"d5/d21/instance__forge__of__souls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,4,0,4,5],
-"d5/d21/instance__forge__of__souls_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,5,4,0,4,4],
-"d5/d22/classBasicEvent.html":[7,0,323]
+"d5/d21/instance__forge__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a18fe058daf74ba8fb2251a5f0935d412":[8,0,0,0,1,3,5,4,0,4,2,1]
 };

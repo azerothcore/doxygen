@@ -5,6 +5,7 @@ var CreatureGroups_8h =
     [ "CreatureGroup", "d6/dc7/classCreatureGroup.html", "d6/dc7/classCreatureGroup" ],
     [ "sFormationMgr", "d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352", null ],
     [ "CreatureGroupInfoType", "d5/db3/CreatureGroups_8h.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "CreatureGroupMembersType", "d5/db3/CreatureGroups_8h.html#aca5ad8458d4d9e1da2c64850841b3a4a", null ],
     [ "GroupAIFlags", "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869c", [
       [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
       [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],

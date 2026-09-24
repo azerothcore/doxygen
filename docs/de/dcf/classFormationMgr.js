@@ -6,5 +6,6 @@ var classFormationMgr =
     [ "instance", "de/dcf/classFormationMgr.html#a871fec234a94e4adae07315a008acec3", null ],
     [ "LoadCreatureFormations", "de/dcf/classFormationMgr.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
     [ "RemoveCreatureFromGroup", "de/dcf/classFormationMgr.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "de/dcf/classFormationMgr.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "CreatureGroupMap", "de/dcf/classFormationMgr.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ],
+    [ "CreatureGroupMembers", "de/dcf/classFormationMgr.html#a565b84716797791f01e7be19b65fd996", null ]
 ];

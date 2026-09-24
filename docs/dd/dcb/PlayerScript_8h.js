@@ -41,6 +41,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_LOGIN", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a884042914564b750b19935073dc0d9cb", null ],
       [ "PLAYERHOOK_ON_BEFORE_LOGOUT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4cc6de75cb5eecef61848ad137123ef6", null ],
       [ "PLAYERHOOK_ON_LOGOUT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62", null ],
+      [ "PLAYERHOOK_CAN_MARK_ACCOUNT_OFFLINE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a368c058b9f3862907521720c6de6ab57", null ],
       [ "PLAYERHOOK_ON_CREATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48e5f4b7118a2abbd36fe0495a47dc04", null ],
       [ "PLAYERHOOK_ON_DELETE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a740a215f4d25f82d51014cb34317d4ed", null ],
       [ "PLAYERHOOK_ON_FAILED_DELETE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684", null ],

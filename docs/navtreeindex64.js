@@ -1,5 +1,7 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4b/classPlayer.html#ad7da6786f5e1327b2c1e7614c9a5b1be":[7,0,2444,78],
+"d2/d4b/classPlayer.html#ad7e77cd57824c0ca08d2c88a8b1c3aec":[7,0,2444,734],
 "d2/d4b/classPlayer.html#ad7f0dece22565cff85cf480640177e92":[7,0,2444,1153],
 "d2/d4b/classPlayer.html#ad85a165bbe702e0672596173dfba1e14":[7,0,2444,175],
 "d2/d4b/classPlayer.html#ad85f59e6d191446185bdfe622f61372b":[7,0,2444,213],
@@ -216,8 +218,8 @@ var NAVTREEINDEX64 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d50/classspell__kaelthas__summon__weapons.html":[7,0,3550],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[7,0,3550,1],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a4bb5cfd2cc8503b3a840fc68624a33c1":[7,0,3550,2],
-"d2/d50/classspell__kaelthas__summon__weapons.html#acfe80e22e6c78dba50155f7f20c0678b":[7,0,3550,0],
-"d2/d50/tools_2dbimport_2Main_8cpp.html":[8,0,0,0,3,0,0],
-"d2/d50/tools_2dbimport_2Main_8cpp.html#a1551df43a48f1dbf64dbec1e47b07eea":[8,0,0,0,3,0,0,3]
+"d2/d50/classspell__kaelthas__summon__weapons.html#acfe80e22e6c78dba50155f7f20c0678b":[7,0,3550,0]
 };

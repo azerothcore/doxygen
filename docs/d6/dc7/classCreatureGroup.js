@@ -21,6 +21,7 @@ var classCreatureGroup =
     [ "RemoveFormationMovement", "d6/dc7/classCreatureGroup.html#a93f43557cae43ebe978fc4a25c1d10a5", null ],
     [ "RemoveMember", "d6/dc7/classCreatureGroup.html#a8080ff17f223119659870c49db3ae6d9", null ],
     [ "RespawnFormation", "d6/dc7/classCreatureGroup.html#a4777b1e1b5a4d084ba0648917b372c47", null ],
+    [ "RespawnRemovedMembers", "d6/dc7/classCreatureGroup.html#a057e75c268c0344603e9732637a2c79f", null ],
     [ "m_Formed", "d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e", null ],
     [ "m_groupID", "d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333", null ],
     [ "m_leader", "d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677", null ],

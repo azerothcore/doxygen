@@ -1,5 +1,7 @@
 var NAVTREEINDEX24 =
 {
+"d0/dfc/structNPCStaveQuestAI.html#a0b2b9c251344f27d75a01e2ebc53dd5d":[7,0,2353,2],
+"d0/dfc/structNPCStaveQuestAI.html#a0ea30f49ac6a9f78a9c0429f2c20c4c5":[7,0,2353,23],
 "d0/dfc/structNPCStaveQuestAI.html#a1a9ccd1d254bdb80b87d997d91afd6d7":[7,0,2353,24],
 "d0/dfc/structNPCStaveQuestAI.html#a20069078ff60d49baafe02e8c7a95973":[7,0,2353,1],
 "d0/dfc/structNPCStaveQuestAI.html#a220e3c50c24ebfd33e368c159665076d":[7,0,2353,10],
@@ -25,18 +27,18 @@ var NAVTREEINDEX24 =
 "d0/dfc/structNPCStaveQuestAI.html#af18005dd457c320709921bcdd0f7895d":[7,0,2353,17],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[7,0,0,50],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,0,62],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,0,62,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[7,0,0,50,1],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,0,62,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[7,0,0,50,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,0,62,2],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,0,62,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[7,0,0,50,4],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,0,62,5],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,0,62,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[7,0,0,50,5],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,0,62,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[7,0,0,50,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[5,0,0,62,3],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[7,0,0,50,0],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,0,62,0],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[7,0,0,50,0],
 "d0/dfe/classBattleExperienceEvent.html":[7,0,325],
 "d0/dfe/classBattleExperienceEvent.html#a0155536d5c2be329a1f3b57c4d852098":[7,0,325,2],
 "d0/dfe/classBattleExperienceEvent.html#a22f0d7e59f579362be4576180d0977b8":[7,0,325,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298caaaf08cac3f2f4ff2df8f387bbc7ad1c1":[8,0,0,0,1,3,2,5,0,4,13],
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cab23091a4675ae2cd00fab8e947d4b813":[8,0,0,0,1,3,2,5,0,4,1],
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cad8561413c9977454df072d9c51d1ca1e":[8,0,0,0,1,3,2,5,0,4,6],
-"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cadd9e3abd43b555374709c3e1e12909f6":[8,0,0,0,1,3,2,5,0,4,7],
-"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cadeed243516bb8d30f9b0b71671272c17":[8,0,0,0,1,3,2,5,0,4,14],
-"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ccd71da672cd021682c47fc6ac6fee":[8,0,0,0,1,3,2,5,0,4,4]
+"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298cadd9e3abd43b555374709c3e1e12909f6":[8,0,0,0,1,3,2,5,0,4,7]
 };

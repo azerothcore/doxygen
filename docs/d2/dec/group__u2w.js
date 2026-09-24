@@ -36,6 +36,14 @@ var group__u2w =
       [ "Data", "da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
       [ "Time", "da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5", null ]
     ] ],
+    [ "LoginQueryHolder", "d4/d16/classLoginQueryHolder.html", [
+      [ "LoginQueryHolder", "d4/d16/classLoginQueryHolder.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+      [ "GetAccountId", "d4/d16/classLoginQueryHolder.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+      [ "GetGuid", "d4/d16/classLoginQueryHolder.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+      [ "Initialize", "d4/d16/classLoginQueryHolder.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+      [ "_accountId", "d4/d16/classLoginQueryHolder.html#a58897938e2c878d8665739ae38d5d116", null ],
+      [ "_guid", "d4/d16/classLoginQueryHolder.html#aaa4b96d92d6fc702daf07b801b9bdb08", null ]
+    ] ],
     [ "PacketFilter", "d4/de5/classPacketFilter.html", [
       [ "PacketFilter", "d4/de5/classPacketFilter.html#accfa43359c62d2e9d6c38086c77374bd", null ],
       [ "~PacketFilter", "d4/de5/classPacketFilter.html#a669531cfd9c06d5cf525986069117687", null ],
@@ -55,6 +63,7 @@ var group__u2w =
       [ "Process", "d9/d36/classWorldSessionFilter.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
     ] ],
     [ "CharacterCreateInfo", "db/d17/classCharacterCreateInfo.html", [
+      [ "CharacterCreateInfo", "db/d17/classCharacterCreateInfo.html#a9b19c0f868654d27235e0d0291a5603c", null ],
       [ "Player", "db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
       [ "WorldSession", "db/d17/classCharacterCreateInfo.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
       [ "CharCount", "db/d17/classCharacterCreateInfo.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
@@ -572,6 +581,7 @@ var group__u2w =
       [ "IsARecruiter", "d8/d74/classWorldSession.html#a6a48017465d827b8a05ce361edc01673", null ],
       [ "IsConnectionIdle", "d8/d74/classWorldSession.html#af8220799f0f3f2de469fd70c18da9233", null ],
       [ "IsGMAccount", "d8/d74/classWorldSession.html#a5f0e0c87ce30591b6fc4e9c711fcedd4", null ],
+      [ "IsHeadless", "d8/d74/classWorldSession.html#a1d08eac27f6b82efcaab29835913beaa", null ],
       [ "IsInternetGameRoomAccount", "d8/d74/classWorldSession.html#a00b2c8eab968b6f044bb71005c0fc87b", null ],
       [ "IsKicked", "d8/d74/classWorldSession.html#afd519a2ae4f8deb94208a71b23a33aaf", null ],
       [ "IsLegitCharacterForAccount", "d8/d74/classWorldSession.html#aa1007895cfb5be2941e85348c281612d", null ],
@@ -589,6 +599,7 @@ var group__u2w =
       [ "LogUnexpectedOpcode", "d8/d74/classWorldSession.html#a56a6d461fc99ace2113f862b3bc31c68", null ],
       [ "LogUnprocessedTail", "d8/d74/classWorldSession.html#ab490ba72d0258b94f40b3eee9cb5adae", null ],
       [ "moveItems", "d8/d74/classWorldSession.html#a1f99a7c0ff091962a132d9971aa34656", null ],
+      [ "NextQueuedPacket", "d8/d74/classWorldSession.html#af51f82e3837d6a41d0799823d1cb1854", null ],
       [ "operator=", "d8/d74/classWorldSession.html#ac18167cbf822ae58c88cf859295ed543", null ],
       [ "PlayerLoading", "d8/d74/classWorldSession.html#a6518fa6d76b730689eb44f2256af3726", null ],
       [ "PlayerLogout", "d8/d74/classWorldSession.html#a4daee2a43a82b4b9bb6d30a6fba54616", null ],
@@ -713,6 +724,7 @@ var group__u2w =
       [ "_addonMessageReceiveCount", "d8/d74/classWorldSession.html#a42429b06d755cc495d9e31d5aa2a9e12", null ],
       [ "_calendarEventCreationCooldown", "d8/d74/classWorldSession.html#a49eaf02202ba67bf4999b2bde0fa408e", null ],
       [ "_createTime", "d8/d74/classWorldSession.html#a5577c73616d5c823c2cb028fc31383e9", null ],
+      [ "_headless", "d8/d74/classWorldSession.html#a394478b5b40fb79f53fa32cb0f8b5af0", null ],
       [ "_kicked", "d8/d74/classWorldSession.html#afe93d84982d386ff9bf14cb620136a43", null ],
       [ "_lastUpdateTime", "d8/d74/classWorldSession.html#ae855e41e6372454a909758ece8e6e82a", null ],
       [ "_legitCharacters", "d8/d74/classWorldSession.html#a035249cfdf12d1764f074ab281ca8639", null ],

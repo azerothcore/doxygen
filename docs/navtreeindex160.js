@@ -1,5 +1,11 @@
 var NAVTREEINDEX160 =
 {
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#ad73c215408218900973df4dbdd8fcd18":[7,0,11,5,9],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[5,0,31,5,8],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[7,0,11,5,8],
+"d5/d99/firework__show__BootyBay_8h.html":[8,0,0,0,1,3,3,0,2],
+"d5/d99/firework__show__BootyBay_8h.html#ade8881c3a797a7937c46526f8c8adf99":[8,0,0,0,1,3,3,0,2,0],
+"d5/d99/firework__show__BootyBay_8h.html#aed5048221cf1d35ad3d4989da8786617":[8,0,0,0,1,3,3,0,2,2],
 "d5/d99/firework__show__BootyBay_8h.html#aeff31f29bacaf8ca10d5caee61627422":[8,0,0,0,1,3,3,0,2,1],
 "d5/d99/instance__arcatraz_8cpp.html":[8,0,0,0,1,3,7,5,0,6],
 "d5/d99/instance__arcatraz_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,5,0,6,3],
@@ -13,10 +19,10 @@ var NAVTREEINDEX160 =
 "d5/d9a/AchievementScript_8h.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048":[8,0,0,0,1,2,38,0,5,1,3],
 "d5/d9a/AchievementScript_8h.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1":[8,0,0,0,1,2,38,0,5,1,4],
 "d5/d9a/AchievementScript_8h.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782":[8,0,0,0,1,2,38,0,5,1,0],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[7,0,13,6,51],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[5,0,34,6,51],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[5,0,34,6,51,1],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[7,0,13,6,51],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[7,0,13,6,51,1],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[5,0,34,6,51,1],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[5,0,34,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[7,0,13,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#ad221eecdb16233251306fff3d9801f38":[7,0,13,6,51,2],
@@ -182,8 +188,8 @@ var NAVTREEINDEX160 =
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX160 =
 "d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#a37e5898e3dc1704be9fba2178567fd2a":[7,0,1983,0,3],
 "d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#a6ee56789d528c2b6dcb04abaff6806cb":[7,0,1983,0,4],
 "d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd":[7,0,1983,0,0],
-"d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#a8a4ec828f144f071c0c6f2bf48b69cc0":[7,0,1983,0,7],
-"d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#aa0d2113458887b73fe2af36f9d3ab0f1":[7,0,1983,0,5],
-"d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#aa3aca24bc97bcd9a2030fccf6782cf9c":[7,0,1983,0,6],
-"d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#afb9763ade36bd742398a8bca961c136b":[7,0,1983,0,2],
-"d5/da4/classspell__warl__soul__leech.html":[7,0,4369],
-"d5/da4/classspell__warl__soul__leech.html#a1ebfd477399cbac2cba33cfd90db72e6":[7,0,4369,0],
-"d5/da4/classspell__warl__soul__leech.html#a28c281aeef80409b419753f71da80f92":[7,0,4369,3]
+"d5/da3/structnpc__little__ooze_1_1npc__little__oozeAI.html#a8a4ec828f144f071c0c6f2bf48b69cc0":[7,0,1983,0,7]
 };

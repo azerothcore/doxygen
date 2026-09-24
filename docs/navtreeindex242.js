@@ -1,5 +1,16 @@
 var NAVTREEINDEX242 =
 {
+"d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[7,0,662,4],
+"d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[7,0,662,5],
+"d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[7,0,662,0],
+"d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[7,0,662,3],
+"d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[7,0,662,1],
+"d8/deb/SpellAuraEffects_8h.html":[8,0,0,0,1,2,41,0,2],
+"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354":[8,0,0,0,1,2,41,0,2,3],
+"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf":[8,0,0,0,1,2,41,0,2,3,2],
+"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa":[8,0,0,0,1,2,41,0,2,3,1],
+"d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5":[8,0,0,0,1,2,41,0,2,3,0],
+"d8/deb/SpellAuraEffects_8h.html#a9e98d9a1c1cc41922f386b184fd7ce67":[8,0,0,0,1,2,41,0,2,2],
 "d8/deb/classnpc__essence__of__twin.html":[7,0,1824],
 "d8/deb/classnpc__essence__of__twin.html#a019de64e5e01e611acfda5db4c279b19":[7,0,1824,0],
 "d8/deb/classnpc__essence__of__twin.html#a6f37b7f1152098b41b07ddbae3613c63":[7,0,1824,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX242 =
 "d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[7,0,4367,0],
 "d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[7,0,4367,2],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html":[7,0,2388],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[7,0,2388,0],
-"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[7,0,2388,1],
-"d8/dfc/CreatureAIRegistry_8h.html":[8,0,0,0,1,2,3,8],
-"d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[8,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[5,0,0,123],
-"d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[7,0,0,111,1],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[7,0,0,111,0],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[7,0,558,0,8]
+"d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[7,0,2388,0]
 };

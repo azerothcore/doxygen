@@ -165,10 +165,10 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8448</span>                                   : <a class="code hl_function" href="../../d5/d22/classBasicEvent.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>()</div>
-<div class="line"><span class="lineno"> 8449</span>{</div>
-<div class="line"><span class="lineno"> 8450</span>    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a> = spell;</div>
-<div class="line"><span class="lineno"> 8451</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8449</span>                                   : <a class="code hl_function" href="../../d5/d22/classBasicEvent.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>()</div>
+<div class="line"><span class="lineno"> 8450</span>{</div>
+<div class="line"><span class="lineno"> 8451</span>    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a> = spell;</div>
+<div class="line"><span class="lineno"> 8452</span>}</div>
 <div class="ttc" id="aclassBasicEvent_html_a9c3cd17edab7fc410f88bb680d756975"><div class="ttname"><a href="../../d5/d22/classBasicEvent.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent::BasicEvent</a></div><div class="ttdeci">BasicEvent()=default</div></div>
 <div class="ttc" id="aclassSpellEvent_html_a22cce1d722f5086932ae3e97c58d2921"><div class="ttname"><a href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">SpellEvent::m_Spell</a></div><div class="ttdeci">Spell * m_Spell</div><div class="ttdef"><b>Definition</b> Spell.cpp:566</div></div>
 </div><!-- fragment -->
@@ -190,21 +190,21 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 8454</span>{</div>
-<div class="line"><span class="lineno"> 8455</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
-<div class="line"><span class="lineno"> 8456</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a77ebded75e30f5242ccbd9db08dc93f6">cancel</a>();</div>
-<div class="line"><span class="lineno"> 8457</span> </div>
-<div class="line"><span class="lineno"> 8458</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>())</div>
-<div class="line"><span class="lineno"> 8459</span>    {</div>
-<div class="line"><span class="lineno"> 8460</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>;</div>
-<div class="line"><span class="lineno"> 8461</span>    }</div>
-<div class="line"><span class="lineno"> 8462</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 8463</span>    {</div>
-<div class="line"><span class="lineno"> 8464</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;spells&quot;</span>, <span class="stringliteral">&quot;~SpellEvent: {} {} tried to delete non-deletable spell {}. Was not deleted, causes memory leak.&quot;</span>,</div>
-<div class="line"><span class="lineno"> 8465</span>                       (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() ? <span class="stringliteral">&quot;Player&quot;</span> : <span class="stringliteral">&quot;Creature&quot;</span>), <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;GetCaster()-&gt;GetGUID().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>(), <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;m_spellInfo-&gt;Id);</div>
-<div class="line"><span class="lineno"> 8466</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
-<div class="line"><span class="lineno"> 8467</span>    }</div>
-<div class="line"><span class="lineno"> 8468</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8455</span>{</div>
+<div class="line"><span class="lineno"> 8456</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
+<div class="line"><span class="lineno"> 8457</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a77ebded75e30f5242ccbd9db08dc93f6">cancel</a>();</div>
+<div class="line"><span class="lineno"> 8458</span> </div>
+<div class="line"><span class="lineno"> 8459</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>())</div>
+<div class="line"><span class="lineno"> 8460</span>    {</div>
+<div class="line"><span class="lineno"> 8461</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>;</div>
+<div class="line"><span class="lineno"> 8462</span>    }</div>
+<div class="line"><span class="lineno"> 8463</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 8464</span>    {</div>
+<div class="line"><span class="lineno"> 8465</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;spells&quot;</span>, <span class="stringliteral">&quot;~SpellEvent: {} {} tried to delete non-deletable spell {}. Was not deleted, causes memory leak.&quot;</span>,</div>
+<div class="line"><span class="lineno"> 8466</span>                       (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() ? <span class="stringliteral">&quot;Player&quot;</span> : <span class="stringliteral">&quot;Creature&quot;</span>), <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;GetCaster()-&gt;GetGUID().<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">ToString</a>(), <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;m_spellInfo-&gt;Id);</div>
+<div class="line"><span class="lineno"> 8467</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno"> 8468</span>    }</div>
+<div class="line"><span class="lineno"> 8469</span>}</div>
 <div class="ttc" id="aErrors_8h_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition</b> Errors.h:76</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aSpell_8h_html_a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44"><div class="ttname"><a href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a></div><div class="ttdeci">@ SPELL_STATE_FINISHED</div><div class="ttdef"><b>Definition</b> Spell.h:239</div></div>
@@ -245,11 +245,11 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a5584968148a48bd7ba072515bd489963">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 8534</span>{</div>
-<div class="line"><span class="lineno"> 8535</span>    <span class="comment">// oops, the spell we try to do is aborted</span></div>
-<div class="line"><span class="lineno"> 8536</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
-<div class="line"><span class="lineno"> 8537</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a77ebded75e30f5242ccbd9db08dc93f6">cancel</a>();</div>
-<div class="line"><span class="lineno"> 8538</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8535</span>{</div>
+<div class="line"><span class="lineno"> 8536</span>    <span class="comment">// oops, the spell we try to do is aborted</span></div>
+<div class="line"><span class="lineno"> 8537</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
+<div class="line"><span class="lineno"> 8538</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a77ebded75e30f5242ccbd9db08dc93f6">cancel</a>();</div>
+<div class="line"><span class="lineno"> 8539</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l03809">Spell::cancel()</a>, <a class="el" href="../../#l00496">Spell::getState()</a>, <a class="el" href="../../#l00566">m_Spell</a>, and <a class="el" href="../../#l00239">SPELL_STATE_FINISHED</a>.</p>
 
@@ -290,67 +290,67 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 8471</span>{</div>
-<div class="line"><span class="lineno"> 8472</span>    <span class="comment">// update spell if it is not finished</span></div>
-<div class="line"><span class="lineno"> 8473</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
-<div class="line"><span class="lineno"> 8474</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acc435ce7ca5fc0510122e720a6aea580">update</a>(p_time);</div>
-<div class="line"><span class="lineno"> 8475</span> </div>
-<div class="line"><span class="lineno"> 8476</span>    <span class="comment">// check spell state to process</span></div>
-<div class="line"><span class="lineno"> 8477</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>())</div>
-<div class="line"><span class="lineno"> 8478</span>    {</div>
-<div class="line"><span class="lineno"> 8479</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>:</div>
-<div class="line"><span class="lineno"> 8480</span>            {</div>
-<div class="line"><span class="lineno"> 8481</span>                <span class="comment">// spell was finished, check deletable state</span></div>
-<div class="line"><span class="lineno"> 8482</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>())</div>
-<div class="line"><span class="lineno"> 8483</span>                {</div>
-<div class="line"><span class="lineno"> 8484</span>                    <span class="comment">// check, if we do have unfinished triggered spells</span></div>
-<div class="line"><span class="lineno"> 8485</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;                                <span class="comment">// spell is deletable, finish event</span></div>
-<div class="line"><span class="lineno"> 8486</span>                }</div>
-<div class="line"><span class="lineno"> 8487</span>                <span class="comment">// event will be re-added automatically at the end of routine)</span></div>
-<div class="line"><span class="lineno"> 8488</span>            }</div>
-<div class="line"><span class="lineno"> 8489</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 8490</span> </div>
-<div class="line"><span class="lineno"> 8491</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452">SPELL_STATE_DELAYED</a>:</div>
-<div class="line"><span class="lineno"> 8492</span>            {</div>
-<div class="line"><span class="lineno"> 8493</span>                <span class="comment">// first, check, if we have just started</span></div>
-<div class="line"><span class="lineno"> 8494</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>() != 0)</div>
-<div class="line"><span class="lineno"> 8495</span>                {</div>
-<div class="line"><span class="lineno"> 8496</span>                    {</div>
-<div class="line"><span class="lineno"> 8497</span>                        <span class="comment">// run the spell handler and think about what we can do next</span></div>
-<div class="line"><span class="lineno"> 8498</span>                        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> t_offset = e_time - <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>();</div>
-<div class="line"><span class="lineno"> 8499</span>                        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> n_offset = <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2">handle_delayed</a>(t_offset);</div>
-<div class="line"><span class="lineno"> 8500</span>                        <span class="keywordflow">if</span> (n_offset)</div>
-<div class="line"><span class="lineno"> 8501</span>                        {</div>
-<div class="line"><span class="lineno"> 8502</span>                            <span class="comment">// re-add us to the queue</span></div>
-<div class="line"><span class="lineno"> 8503</span>                            <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>() + n_offset, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 8504</span>                            <span class="keywordflow">return</span> <span class="keyword">false</span>;                       <span class="comment">// event not complete</span></div>
-<div class="line"><span class="lineno"> 8505</span>                        }</div>
-<div class="line"><span class="lineno"> 8506</span>                        <span class="comment">// event complete</span></div>
-<div class="line"><span class="lineno"> 8507</span>                        <span class="comment">// finish update event will be re-added automatically at the end of routine)</span></div>
-<div class="line"><span class="lineno"> 8508</span>                    }</div>
-<div class="line"><span class="lineno"> 8509</span>                }</div>
-<div class="line"><span class="lineno"> 8510</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 8511</span>                {</div>
-<div class="line"><span class="lineno"> 8512</span>                    <span class="comment">// delaying had just started, record the moment</span></div>
-<div class="line"><span class="lineno"> 8513</span>                    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a9572cd3b12252c7c177b0f6151a1c57b">SetDelayStart</a>(e_time);</div>
-<div class="line"><span class="lineno"> 8514</span>                    <span class="comment">// re-plan the event for the delay moment</span></div>
-<div class="line"><span class="lineno"> 8515</span>                    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, e_time + <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>(), <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 8516</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;                               <span class="comment">// event not complete</span></div>
-<div class="line"><span class="lineno"> 8517</span>                }</div>
-<div class="line"><span class="lineno"> 8518</span>            }</div>
-<div class="line"><span class="lineno"> 8519</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 8520</span> </div>
-<div class="line"><span class="lineno"> 8521</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 8522</span>            {</div>
-<div class="line"><span class="lineno"> 8523</span>                <span class="comment">// all other states</span></div>
-<div class="line"><span class="lineno"> 8524</span>                <span class="comment">// event will be re-added automatically at the end of routine)</span></div>
-<div class="line"><span class="lineno"> 8525</span>            } <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 8526</span>    }</div>
-<div class="line"><span class="lineno"> 8527</span> </div>
-<div class="line"><span class="lineno"> 8528</span>    <span class="comment">// spell processing not complete, plan event on the next update interval</span></div>
-<div class="line"><span class="lineno"> 8529</span>    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, e_time + 1, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 8530</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;                                           <span class="comment">// event not complete</span></div>
-<div class="line"><span class="lineno"> 8531</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8472</span>{</div>
+<div class="line"><span class="lineno"> 8473</span>    <span class="comment">// update spell if it is not finished</span></div>
+<div class="line"><span class="lineno"> 8474</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>() != <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>)</div>
+<div class="line"><span class="lineno"> 8475</span>        <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acc435ce7ca5fc0510122e720a6aea580">update</a>(p_time);</div>
+<div class="line"><span class="lineno"> 8476</span> </div>
+<div class="line"><span class="lineno"> 8477</span>    <span class="comment">// check spell state to process</span></div>
+<div class="line"><span class="lineno"> 8478</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a">getState</a>())</div>
+<div class="line"><span class="lineno"> 8479</span>    {</div>
+<div class="line"><span class="lineno"> 8480</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44">SPELL_STATE_FINISHED</a>:</div>
+<div class="line"><span class="lineno"> 8481</span>            {</div>
+<div class="line"><span class="lineno"> 8482</span>                <span class="comment">// spell was finished, check deletable state</span></div>
+<div class="line"><span class="lineno"> 8483</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>())</div>
+<div class="line"><span class="lineno"> 8484</span>                {</div>
+<div class="line"><span class="lineno"> 8485</span>                    <span class="comment">// check, if we do have unfinished triggered spells</span></div>
+<div class="line"><span class="lineno"> 8486</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;                                <span class="comment">// spell is deletable, finish event</span></div>
+<div class="line"><span class="lineno"> 8487</span>                }</div>
+<div class="line"><span class="lineno"> 8488</span>                <span class="comment">// event will be re-added automatically at the end of routine)</span></div>
+<div class="line"><span class="lineno"> 8489</span>            }</div>
+<div class="line"><span class="lineno"> 8490</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 8491</span> </div>
+<div class="line"><span class="lineno"> 8492</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452">SPELL_STATE_DELAYED</a>:</div>
+<div class="line"><span class="lineno"> 8493</span>            {</div>
+<div class="line"><span class="lineno"> 8494</span>                <span class="comment">// first, check, if we have just started</span></div>
+<div class="line"><span class="lineno"> 8495</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>() != 0)</div>
+<div class="line"><span class="lineno"> 8496</span>                {</div>
+<div class="line"><span class="lineno"> 8497</span>                    {</div>
+<div class="line"><span class="lineno"> 8498</span>                        <span class="comment">// run the spell handler and think about what we can do next</span></div>
+<div class="line"><span class="lineno"> 8499</span>                        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> t_offset = e_time - <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>();</div>
+<div class="line"><span class="lineno"> 8500</span>                        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> n_offset = <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2">handle_delayed</a>(t_offset);</div>
+<div class="line"><span class="lineno"> 8501</span>                        <span class="keywordflow">if</span> (n_offset)</div>
+<div class="line"><span class="lineno"> 8502</span>                        {</div>
+<div class="line"><span class="lineno"> 8503</span>                            <span class="comment">// re-add us to the queue</span></div>
+<div class="line"><span class="lineno"> 8504</span>                            <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4">GetDelayStart</a>() + n_offset, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 8505</span>                            <span class="keywordflow">return</span> <span class="keyword">false</span>;                       <span class="comment">// event not complete</span></div>
+<div class="line"><span class="lineno"> 8506</span>                        }</div>
+<div class="line"><span class="lineno"> 8507</span>                        <span class="comment">// event complete</span></div>
+<div class="line"><span class="lineno"> 8508</span>                        <span class="comment">// finish update event will be re-added automatically at the end of routine)</span></div>
+<div class="line"><span class="lineno"> 8509</span>                    }</div>
+<div class="line"><span class="lineno"> 8510</span>                }</div>
+<div class="line"><span class="lineno"> 8511</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 8512</span>                {</div>
+<div class="line"><span class="lineno"> 8513</span>                    <span class="comment">// delaying had just started, record the moment</span></div>
+<div class="line"><span class="lineno"> 8514</span>                    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a9572cd3b12252c7c177b0f6151a1c57b">SetDelayStart</a>(e_time);</div>
+<div class="line"><span class="lineno"> 8515</span>                    <span class="comment">// re-plan the event for the delay moment</span></div>
+<div class="line"><span class="lineno"> 8516</span>                    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, e_time + <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250">GetDelayMoment</a>(), <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 8517</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;                               <span class="comment">// event not complete</span></div>
+<div class="line"><span class="lineno"> 8518</span>                }</div>
+<div class="line"><span class="lineno"> 8519</span>            }</div>
+<div class="line"><span class="lineno"> 8520</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 8521</span> </div>
+<div class="line"><span class="lineno"> 8522</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 8523</span>            {</div>
+<div class="line"><span class="lineno"> 8524</span>                <span class="comment">// all other states</span></div>
+<div class="line"><span class="lineno"> 8525</span>                <span class="comment">// event will be re-added automatically at the end of routine)</span></div>
+<div class="line"><span class="lineno"> 8526</span>            } <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 8527</span>    }</div>
+<div class="line"><span class="lineno"> 8528</span> </div>
+<div class="line"><span class="lineno"> 8529</span>    <span class="comment">// spell processing not complete, plan event on the next update interval</span></div>
+<div class="line"><span class="lineno"> 8530</span>    <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334">GetCaster</a>()-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">AddEvent</a>(<span class="keyword">this</span>, e_time + 1, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 8531</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;                                           <span class="comment">// event not complete</span></div>
+<div class="line"><span class="lineno"> 8532</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 <div class="ttc" id="aSpell_8h_html_a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452"><div class="ttname"><a href="../../d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452">SPELL_STATE_DELAYED</a></div><div class="ttdeci">@ SPELL_STATE_DELAYED</div><div class="ttdef"><b>Definition</b> Spell.h:241</div></div>
 <div class="ttc" id="aclassEventProcessor_html_afd92abbbf10158540614eb615f7f2e2b"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#afd92abbbf10158540614eb615f7f2e2b">EventProcessor::AddEvent</a></div><div class="ttdeci">void AddEvent(BasicEvent *Event, uint64 e_time, bool set_addtime=true, uint8 eventGroup=0)</div><div class="ttdef"><b>Definition</b> EventProcessor.cpp:136</div></div>
@@ -389,9 +389,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a62c0483af9fd1885e779cf088a50eb02">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 8541</span>{</div>
-<div class="line"><span class="lineno"> 8542</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>();</div>
-<div class="line"><span class="lineno"> 8543</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8542</span>{</div>
+<div class="line"><span class="lineno"> 8543</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a>-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5">IsDeletable</a>();</div>
+<div class="line"><span class="lineno"> 8544</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00575">Spell::IsDeletable()</a>, and <a class="el" href="../../#l00566">m_Spell</a>.</p>
 
@@ -418,7 +418,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l08533">Abort()</a>, <a class="el" href="../../#l08470">Execute()</a>, <a class="el" href="../../#l08540">IsDeletable()</a>, <a class="el" href="../../#l08448">SpellEvent()</a>, and <a class="el" href="../../#l08453">~SpellEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08534">Abort()</a>, <a class="el" href="../../#l08471">Execute()</a>, <a class="el" href="../../#l08541">IsDeletable()</a>, <a class="el" href="../../#l08449">SpellEvent()</a>, and <a class="el" href="../../#l08454">~SpellEvent()</a>.</p>
 
 </div>
 </div>
@@ -431,7 +431,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d52/classSpellEvent.html">SpellEvent</a></li>
-    <li class="footer">Generated on Wed Sep 23 2026 10:40:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Sep 24 2026 11:00:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

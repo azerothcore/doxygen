@@ -1,5 +1,7 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/classSpell.html#aabf1394716e3e14d0b24188c043d08c3":[7,0,2646,265],
+"d1/d16/classSpell.html#aacc980a2773f5e5b976dbe91386332b1":[7,0,2646,93],
 "d1/d16/classSpell.html#aad0771ca788daebb0c74fb0cee8e66e1":[7,0,2646,355],
 "d1/d16/classSpell.html#aae2c319e6e5c0b49e1d34d400603c038":[7,0,2646,187],
 "d1/d16/classSpell.html#aae576ad2f883c6949ed14420b5b59f1f":[7,0,2646,354],
@@ -161,16 +163,16 @@ var NAVTREEINDEX27 =
 "d1/d17/ByteBuffer_8h.html":[8,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[8,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[8,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[7,0,0,112],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1a/classBattlegroundMgr.html#a6f737400752ea9c253c3710b0b54f223":[7,0,347,9],
 "d1/d1a/classBattlegroundMgr.html#a71cb750e7ae7a3daa282fcfc22d4f72b":[7,0,347,37],
 "d1/d1a/classBattlegroundMgr.html#a768bdb6dd924ddbce6a0f4258c8eb31e":[7,0,347,24],
-"d1/d1a/classBattlegroundMgr.html#a776ae6c49a52c81d2751698004153dc2":[7,0,347,6],
-"d1/d1a/classBattlegroundMgr.html#a7b3e1509d8fa26ae35088466bf6273c8":[7,0,347,49],
-"d1/d1a/classBattlegroundMgr.html#a7bc5b470cd81ad08b417f7d91f8973fd":[7,0,347,10]
+"d1/d1a/classBattlegroundMgr.html#a776ae6c49a52c81d2751698004153dc2":[7,0,347,6]
 };

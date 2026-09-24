@@ -1,5 +1,12 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da4972fdbcc028529cda907dd1670396f2":[8,0,0,0,1,2,3,1,7,2,18],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da5b04f7b4c549c433df0c70d5d01c129b":[8,0,0,0,1,2,3,1,7,2,26],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da62a035d38f6092d2badda54f2d756799":[8,0,0,0,1,2,3,1,7,2,25],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452":[8,0,0,0,1,2,3,1,7,2,35],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da689c5f60276c8789b50634715d718f83":[8,0,0,0,1,2,3,1,7,2,12],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da6fc5e747d47f0ce1484abb1e308bf950":[8,0,0,0,1,2,3,1,7,2,10],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da738bff94bbc7c86e115443b973af6972":[8,0,0,0,1,2,3,1,7,2,28],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da74961cb9067998b73aede1dc91568735":[8,0,0,0,1,2,3,1,7,2,9],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da75b76c4f028f36930e50b0a5f7fc968c":[8,0,0,0,1,2,3,1,7,2,30],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7802b547c7676b008f552f2dec200cdf":[8,0,0,0,1,2,3,1,7,2,27],
@@ -242,12 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d26/classGuild_1_1LogEntry.html#ad19e7364e1beba61c9b7a4383b6d42c6":[7,0,1290,4,8],
 "d6/d26/classGuild_1_1LogEntry.html#af61604a7dc0cc4da315a09fa5b207f37":[7,0,1290,4,0],
 "d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html":[7,0,1160,0],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[7,0,1160,0,3],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a8901922d736bb0391da5618593ced5c5":[7,0,1160,0,2],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a89c76f1563f541c572c48f8cf633aa6a":[7,0,1160,0,1],
-"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#ad97484d73bcea6a84909004c099eec34":[7,0,1160,0,0],
-"d6/d26/sunken__temple_8h.html":[8,0,0,0,1,3,2,10,1],
-"d6/d26/sunken__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,10,1,0],
-"d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[8,0,0,0,1,3,2,10,1,4],
-"d6/d26/sunken__temple_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea69f27809bb75172648a8556f0f746846":[8,0,0,0,1,3,2,10,1,4,0]
+"d6/d26/structgo__bear__trap_1_1go__bear__trapAI.html#a59f37a130326818dd922763ae9058fe7":[7,0,1160,0,3]
 };

@@ -196,6 +196,7 @@ var CharacterDatabase_8h =
       [ "CHAR_REP_CHARACTER_ARENA_STATS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88", null ],
       [ "CHAR_SEL_PLAYER_ARENA_TEAMS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe60b9a87596e77e25fc2c2ef0e10f87", null ],
       [ "CHAR_UPD_ARENA_TEAM_NAME", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aaa0df4c6813b69274736012db00752c1", null ],
+      [ "CHAR_UPD_ARENA_TEAM_EMBLEM", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5e4b41ab53ad7fcf720b50ca3395b1cd", null ],
       [ "CHAR_DEL_ALL_PETITION_SIGNATURES", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4279737ca8959ad4fcf43be093beb220", null ],
       [ "CHAR_DEL_PETITION_SIGNATURE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a3c85c49ba46f553cff779324959d74c9", null ],
       [ "CHAR_INS_PLAYER_ENTRY_POINT", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4ef99090c80fc51468d44dc7aaa6b42b", null ],

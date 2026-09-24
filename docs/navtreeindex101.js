@@ -1,5 +1,8 @@
 var NAVTREEINDEX101 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad86b891204c032c9310d3de0be234e10":[8,0,0,0,1,2,49,7,0,270],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad8877d31dc475772f5c08b71c0cddd37":[8,0,0,0,1,2,49,7,0,390],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bad8d51da4ce024faa7b1a870da76bb526":[8,0,0,0,1,2,49,7,0,182],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bada7f5005a32aea9d023ea681edc76388":[8,0,0,0,1,2,49,7,0,283],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21badb20b93eabe1e14ff8e818710c32d289":[8,0,0,0,1,2,49,7,0,134],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21badbe281ff32aeccdb285019beac62940d":[8,0,0,0,1,2,49,7,0,461],
@@ -82,8 +85,8 @@ var NAVTREEINDEX101 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,20,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,20,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[7,0,1231],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[7,0,1231,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[7,0,1231,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d50/structPlayerInfo.html#ad8d359374f74de40c1c591bb61976405":[7,0,2457,9],
 "d3/d50/structPlayerInfo.html#adf14854368c9351fe2fba3215194f2f9":[7,0,2457,5],
 "d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html":[7,0,1788,0],
-"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html#a2b3b5e168989db21fc047acaf01413d9":[7,0,1788,0,5],
-"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html#a49250dcdaed6de534de7a1fe3c5aa72c":[7,0,1788,0,1],
-"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html#a926c39a6e30507d9f9927f4f142e5a45":[7,0,1788,0,4],
-"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html#aa7750edc8051c8ee453143491dccf122":[7,0,1788,0,7]
+"d3/d52/structnpc__darnavan_1_1npc__darnavanAI.html#a2b3b5e168989db21fc047acaf01413d9":[7,0,1788,0,5]
 };
