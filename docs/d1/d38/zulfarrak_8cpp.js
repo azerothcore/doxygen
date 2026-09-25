@@ -10,6 +10,11 @@ var zulfarrak_8cpp =
     [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html", "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI" ],
     [ "GOSSIP_BLY", "d1/d38/zulfarrak_8cpp.html#acf686abbef9b59acbf66095340991aab", null ],
     [ "GOSSIP_WEEGLI", "d1/d38/zulfarrak_8cpp.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
+    [ "BlyEvents", "d1/d38/zulfarrak_8cpp.html#a2d8981df91d4126baea4d7c6ac0e159c", [
+      [ "EVENT_BLY_FIRST_REPLY", "d1/d38/zulfarrak_8cpp.html#a2d8981df91d4126baea4d7c6ac0e159ca51c8ac7b3dc80e6c73e555f5a6539bc4", null ],
+      [ "EVENT_BLY_SECOND_REPLY", "d1/d38/zulfarrak_8cpp.html#a2d8981df91d4126baea4d7c6ac0e159cad52c191e80ae272327b8c6964da0bf4f", null ],
+      [ "EVENT_BLY_HOSTILE", "d1/d38/zulfarrak_8cpp.html#a2d8981df91d4126baea4d7c6ac0e159caff771a3355337506ef31cbc5226491b6", null ]
+    ] ],
     [ "blySays", "d1/d38/zulfarrak_8cpp.html#a0170bb25aee4171b17fd972a5eb000a9", [
       [ "SAY_1", "d1/d38/zulfarrak_8cpp.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
       [ "SAY_2", "d1/d38/zulfarrak_8cpp.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
@@ -19,11 +24,29 @@ var zulfarrak_8cpp =
       [ "SPELL_SHIELD_BASH", "d1/d38/zulfarrak_8cpp.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
       [ "SPELL_REVENGE", "d1/d38/zulfarrak_8cpp.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
     ] ],
+    [ "CrewFactions", "d1/d38/zulfarrak_8cpp.html#a0dd5005f9ab50fbafbbb93d1a52c6521", [
+      [ "FACTION_BLY_HOSTILE", "d1/d38/zulfarrak_8cpp.html#a0dd5005f9ab50fbafbbb93d1a52c6521ac03ba4825ba248532e0c7615bada5a3a", null ],
+      [ "FACTION_WEEGLI_ESCAPE", "d1/d38/zulfarrak_8cpp.html#a0dd5005f9ab50fbafbbb93d1a52c6521a578ae845355d4ebba4ae5d3f81b36477", null ]
+    ] ],
     [ "ShadowPriestSezzizEnum", "d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7d", [
       [ "SPELL_SHADOW_BOLT", "d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
       [ "SPELL_PSYCHIC_SCREEM", "d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
       [ "SPELL_RENEW", "d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
       [ "SPELL_HEAL", "d1/d38/zulfarrak_8cpp.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
+    ] ],
+    [ "WeegliDoorStage", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1", [
+      [ "Idle", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1ae599161956d626eda4cb0a5ffb85271c", null ],
+      [ "Moving", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1adefe967ad0373b2274fc298f19125ca7", null ],
+      [ "Planting", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1abd7a3a605f0d57a2a83300d34436772e", null ],
+      [ "WaitingForExplosion", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1a5f490868b615f359058b650d3dd2d8cc", null ],
+      [ "Escaping", "d1/d38/zulfarrak_8cpp.html#a75433c4d84cf89c34cb50939fe98bec1abc981c3039a71ed117ca9addaeac5e0a", null ]
+    ] ],
+    [ "WeegliEvents", "d1/d38/zulfarrak_8cpp.html#a7104ee0eacfe146ec59bf2ac89e90793", [
+      [ "EVENT_WEEGLI_PLANT_BARREL", "d1/d38/zulfarrak_8cpp.html#a7104ee0eacfe146ec59bf2ac89e90793acf9ea7161bcac6e619b9740189a90706", null ],
+      [ "EVENT_WEEGLI_ESCAPE", "d1/d38/zulfarrak_8cpp.html#a7104ee0eacfe146ec59bf2ac89e90793a2b92e45997162150e3ce19db946bb161", null ]
+    ] ],
+    [ "WeegliPaths", "d1/d38/zulfarrak_8cpp.html#afd40ed66ce3106d1735104cbefb38007", [
+      [ "PATH_WEEGLI_ESCAPE", "d1/d38/zulfarrak_8cpp.html#afd40ed66ce3106d1735104cbefb38007ac010ddc23aca740c47a25c2e7cf03cf2", null ]
     ] ],
     [ "weegliSays", "d1/d38/zulfarrak_8cpp.html#a326e8498672fa7a2db9a390d360f7391", [
       [ "SAY_WEEGLI_OHNO", "d1/d38/zulfarrak_8cpp.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
@@ -37,5 +60,6 @@ var zulfarrak_8cpp =
       [ "SPELL_WEEGLIS_BARREL", "d1/d38/zulfarrak_8cpp.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
     ] ],
     [ "AddSC_zulfarrak", "d1/d38/zulfarrak_8cpp.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
-    [ "shadowpriestSezzizAdds", "d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
+    [ "shadowpriestSezzizAdds", "d1/d38/zulfarrak_8cpp.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ],
+    [ "WeegliDoorPosition", "d1/d38/zulfarrak_8cpp.html#a7ed1750461fd9328d5293dbdcda94ac1", null ]
 ];

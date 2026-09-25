@@ -809,6 +809,7 @@ var classPlayer =
     [ "Say", "d2/d4b/classPlayer.html#ad99e938d39bdd53e3835638f7ec07af1", null ],
     [ "Say", "d2/d4b/classPlayer.html#a6dc56656085ecb1d48e59b6a32d915ec", null ],
     [ "ScheduleDelayedOperation", "d2/d4b/classPlayer.html#a0f24c3667f14f1c317da43fec06f8342", null ],
+    [ "SelectCharmedAIGroupTarget", "d2/d4b/classPlayer.html#a9b933ae3c020ddcfe3b100cfea95997c", null ],
     [ "SendActionButtons", "d2/d4b/classPlayer.html#adead994e89251ab5ccf4347c4349685c", null ],
     [ "SendAttackSwingBadFacingAttack", "d2/d4b/classPlayer.html#a209a7a3971ad297c2aeee0a15cfce132", null ],
     [ "SendAttackSwingCancelAttack", "d2/d4b/classPlayer.html#a0eaf8ade1fc32527b845a3213bb27703", null ],

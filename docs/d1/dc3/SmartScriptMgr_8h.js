@@ -444,7 +444,9 @@ var SmartScriptMgr_8h =
       [ "FOLLOW_TYPE_SEMI_CIRCLE_FRONT", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a98eb5f76e5f0f2c393fdc755cf1eae8b", null ],
       [ "FOLLOW_TYPE_LINE", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e", null ],
       [ "FOLLOW_TYPE_COLUMN", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56", null ],
-      [ "FOLLOW_TYPE_ANGULAR", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9", null ]
+      [ "FOLLOW_TYPE_ANGULAR", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9", null ],
+      [ "FOLLOW_TYPE_SINGLE_FILE", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4", null ],
+      [ "FOLLOW_TYPE_MAX", "d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773", null ]
     ] ],
     [ "SmartScriptType", "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311ac", [
       [ "SMART_SCRIPT_TYPE_CREATURE", "d1/dc3/SmartScriptMgr_8h.html#a13c55333783218e0f0c80c780fb311aca30b85f93a2b0164f43cf33c539cb1ca8", null ],

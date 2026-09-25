@@ -5063,6 +5063,7 @@ var hierarchy =
           [ "CritterAI", "d7/d91/classCritterAI.html", [
             [ "npc_mr_bigglesworth", "d5/deb/classnpc__mr__bigglesworth.html", null ]
           ] ],
+          [ "boss_yoggsaron_cloud", "d9/df3/structboss__yoggsaron__cloud.html", null ],
           [ "boss_yoggsaron_descend_portal", "d7/d6a/structboss__yoggsaron__descend__portal.html", null ],
           [ "npc_kernobee::npc_kernobeeAI", "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html", null ],
           [ "npc_pet_gen_plump_turkey", "d8/dbb/structnpc__pet__gen__plump__turkey.html", null ],
@@ -5706,7 +5707,6 @@ var hierarchy =
             [ "boss_grand_champion::boss_grand_championAI", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html", null ],
             [ "boss_thorim_lightning_orb", "d5/d1e/structboss__thorim__lightning__orb.html", null ],
             [ "boss_thorim_sif_blizzard", "d9/d9a/structboss__thorim__sif__blizzard.html", null ],
-            [ "boss_yoggsaron_cloud", "d9/df3/structboss__yoggsaron__cloud.html", null ],
             [ "npc_ame::npc_ameAI", "d6/d75/structnpc__ame_1_1npc__ameAI.html", null ],
             [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html", null ],
             [ "npc_argent_soldier::npc_argent_soldierAI", "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html", null ],

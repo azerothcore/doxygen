@@ -5,6 +5,7 @@ var structgo__suppression__device =
     [ "Deactivate", "d4/d84/structgo__suppression__device.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
     [ "DoAction", "d4/d84/structgo__suppression__device.html#a036467db9b2661e7048216b03451861b", null ],
     [ "InitializeAI", "d4/d84/structgo__suppression__device.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "OnStateChanged", "d4/d84/structgo__suppression__device.html#aa4690aee138b9cdda0d2c98045bcb443", null ],
     [ "UpdateAI", "d4/d84/structgo__suppression__device.html#a00fb90b16c82f9d968cc29275c05675a", null ],
     [ "_active", "d4/d84/structgo__suppression__device.html#a1accabc06137c07e9f74ea91d068672c", null ],
     [ "_events", "d4/d84/structgo__suppression__device.html#a43fc9da45057e18811a0efc69e01edc8", null ],

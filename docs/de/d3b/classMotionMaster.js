@@ -30,6 +30,7 @@ var classMotionMaster =
     [ "MoveChase", "de/d3b/classMotionMaster.html#a2c05900f121b3da721e5edcd84e4102f", null ],
     [ "MoveChase", "de/d3b/classMotionMaster.html#a7375b540487d39e90ab4d4f5474ca1b1", null ],
     [ "MoveChase", "de/d3b/classMotionMaster.html#a3ff14061961bcc5cf1d34842683d90ac", null ],
+    [ "MoveCirclePath", "de/d3b/classMotionMaster.html#a0f8c302470c2d8edb35720ff22f83cbf", null ],
     [ "MoveCircleTarget", "de/d3b/classMotionMaster.html#ae586859e733b3db58835a05f4a2a7818", null ],
     [ "MoveConfused", "de/d3b/classMotionMaster.html#a6613b5eeaad9a696ced8de583f4ad498", null ],
     [ "MoveDistract", "de/d3b/classMotionMaster.html#acfa8144831a07d09e6efba5a106ca43e", null ],

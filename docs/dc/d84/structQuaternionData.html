@@ -174,7 +174,7 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="astructQuaternionData_html_ac222999cbb4681893fe591a5afc3587d"><div class="ttname"><a href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">QuaternionData::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition</b> GameObjectData.h:685</div></div>
 <div class="ttc" id="astructQuaternionData_html_aca37b701a67eefbf72922a5e7bf98cb2"><div class="ttname"><a href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">QuaternionData::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition</b> GameObjectData.h:684</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00051">FromEulerAnglesZYX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00052">FromEulerAnglesZYX()</a>.</p>
 
 </div>
 </div>
@@ -267,10 +267,10 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
-<div class="line"><span class="lineno">   53</span>    G3D::Quat quat(G3D::Matrix3::fromEulerAnglesZYX(Z, Y, X));</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d84/structQuaternionData.html#a8a582c133d5fba901470a776c7144432">QuaternionData</a>(quat.x, quat.y, quat.z, quat.w);</div>
-<div class="line"><span class="lineno">   55</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    G3D::Quat quat(G3D::Matrix3::fromEulerAnglesZYX(Z, Y, X));</div>
+<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d84/structQuaternionData.html#a8a582c133d5fba901470a776c7144432">QuaternionData</a>(quat.x, quat.y, quat.z, quat.w);</div>
+<div class="line"><span class="lineno">   56</span>}</div>
 <div class="ttc" id="astructQuaternionData_html_a8a582c133d5fba901470a776c7144432"><div class="ttname"><a href="../../dc/d84/structQuaternionData.html#a8a582c133d5fba901470a776c7144432">QuaternionData::QuaternionData</a></div><div class="ttdeci">QuaternionData()</div><div class="ttdef"><b>Definition</b> GameObjectData.h:689</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00689">QuaternionData()</a>.</p>
@@ -291,9 +291,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">return</span> fabs(<a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a> - 1.0f) &lt; 1e-5f;</div>
-<div class="line"><span class="lineno">   44</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">return</span> fabs(<a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a> + <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a> * <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a> - 1.0f) &lt; 1e-5f;</div>
+<div class="line"><span class="lineno">   45</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00687">w</a>, <a class="el" href="../../#l00684">x</a>, <a class="el" href="../../#l00685">y</a>, and <a class="el" href="../../#l00686">z</a>.</p>
 
@@ -332,9 +332,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    G3D::Matrix3(G3D::Quat(<a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a>)).toEulerAnglesZYX(Z, Y, X);</div>
-<div class="line"><span class="lineno">   49</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    G3D::Matrix3(G3D::Quat(<a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#aca37b701a67eefbf72922a5e7bf98cb2">x</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#ac222999cbb4681893fe591a5afc3587d">y</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a7418b0e143cc32169864d77870db5ad7">z</a>, <a class="code hl_variable" href="../../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a">w</a>)).toEulerAnglesZYX(Z, Y, X);</div>
+<div class="line"><span class="lineno">   50</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00687">w</a>, <a class="el" href="../../#l00684">x</a>, <a class="el" href="../../#l00685">y</a>, and <a class="el" href="../../#l00686">z</a>.</p>
 
@@ -353,7 +353,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00041">IsUnit()</a>, and <a class="el" href="../../#l00046">ToEulerAnglesZYX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00271">GameObject::Create()</a>, <a class="el" href="../../#l00042">IsUnit()</a>, and <a class="el" href="../../#l00047">ToEulerAnglesZYX()</a>.</p>
 
 </div>
 </div>
@@ -369,7 +369,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00041">IsUnit()</a>, and <a class="el" href="../../#l00046">ToEulerAnglesZYX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00271">GameObject::Create()</a>, <a class="el" href="../../#l00042">IsUnit()</a>, and <a class="el" href="../../#l00047">ToEulerAnglesZYX()</a>.</p>
 
 </div>
 </div>
@@ -385,7 +385,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00041">IsUnit()</a>, and <a class="el" href="../../#l00046">ToEulerAnglesZYX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00271">GameObject::Create()</a>, <a class="el" href="../../#l00042">IsUnit()</a>, and <a class="el" href="../../#l00047">ToEulerAnglesZYX()</a>.</p>
 
 </div>
 </div>
@@ -401,7 +401,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00041">IsUnit()</a>, and <a class="el" href="../../#l00046">ToEulerAnglesZYX()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00271">GameObject::Create()</a>, <a class="el" href="../../#l00042">IsUnit()</a>, and <a class="el" href="../../#l00047">ToEulerAnglesZYX()</a>.</p>
 
 </div>
 </div>
@@ -415,7 +415,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d84/structQuaternionData.html">QuaternionData</a></li>
-    <li class="footer">Generated on Thu Sep 24 2026 10:59:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Sep 25 2026 11:01:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

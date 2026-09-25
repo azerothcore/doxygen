@@ -318,6 +318,7 @@ var boss__the__lich__king_8cpp =
       [ "SAY_TERENAS_INTRO_3", "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47e1867f1bf298627e9bc34658dd44c5", null ]
     ] ],
     [ "AddSC_boss_the_lich_king", "da/d78/boss__the__lich__king_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3", null ],
+    [ "IsValidPlatformPosition", "da/d78/boss__the__lich__king_8cpp.html#a710bf28a6b2c69be6d39816ca76f45ba", null ],
     [ "IsValidPlatformTarget", "da/d78/boss__the__lich__king_8cpp.html#a8f35686a1928770ef6a57ed8f217845b", null ],
     [ "SendPacketToPlayers", "da/d78/boss__the__lich__king_8cpp.html#a286acf0ca9bbff8bb4fdf78905a0a470", null ],
     [ "CenterPosition", "da/d78/boss__the__lich__king_8cpp.html#ad87376e6ca5b12d8996ebb4e9fe119b9", null ],

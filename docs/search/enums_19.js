@@ -9,9 +9,11 @@ var searchData=
   ['zm_5fgraveyardstate_6',['Zm_GraveyardState',['../de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636',1,'OutdoorPvPZM.h']]],
   ['zm_5ftowerstatemask_7',['ZM_TowerStateMask',['../de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11c',1,'OutdoorPvPZM.h']]],
   ['zmcreaturetypes_8',['ZMCreatureTypes',['../de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5',1,'OutdoorPvPZM.h']]],
-  ['zulfarrakcreatures_9',['ZulFarrakCreatures',['../dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81',1,'zulfarrak.h']]],
-  ['zulfarrakdata_10',['ZulFarrakData',['../dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24',1,'zulfarrak.h']]],
-  ['zulfarrakgameobjects_11',['ZulFarrakGameobjects',['../dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78e',1,'zulfarrak.h']]],
-  ['zulianprowlerevents_12',['ZulianProwlerEvents',['../d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826',1,'boss_arlokk.cpp']]],
-  ['zulianprowlerspells_13',['ZulianProwlerSpells',['../d3/db0/boss__arlokk_8cpp.html#a031adb3f1270626c99916fb1133018ff',1,'boss_arlokk.cpp']]]
+  ['zulfarrakactions_9',['ZulFarrakActions',['../dd/dcb/zulfarrak_8h.html#a8843ce985bb736c3cd63e24732daf94a',1,'zulfarrak.h']]],
+  ['zulfarrakcreatures_10',['ZulFarrakCreatures',['../dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81',1,'zulfarrak.h']]],
+  ['zulfarrakdata_11',['ZulFarrakData',['../dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24',1,'zulfarrak.h']]],
+  ['zulfarrakgameobjects_12',['ZulFarrakGameobjects',['../dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78e',1,'zulfarrak.h']]],
+  ['zulfarrakpoints_13',['ZulFarrakPoints',['../dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959f',1,'zulfarrak.h']]],
+  ['zulianprowlerevents_14',['ZulianProwlerEvents',['../d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826',1,'boss_arlokk.cpp']]],
+  ['zulianprowlerspells_15',['ZulianProwlerSpells',['../d3/db0/boss__arlokk_8cpp.html#a031adb3f1270626c99916fb1133018ff',1,'boss_arlokk.cpp']]]
 ];

@@ -11,6 +11,5 @@ var structnpc__medivh__bm =
     [ "UpdateAI", "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
     [ "_airArray", "d9/d48/structnpc__medivh__bm.html#a6e766596b69b52690635ee91e6e8d164", null ],
     [ "_events", "d9/d48/structnpc__medivh__bm.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d9/d48/structnpc__medivh__bm.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
     [ "_instance", "d9/d48/structnpc__medivh__bm.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

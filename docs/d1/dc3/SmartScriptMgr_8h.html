@@ -1049,6 +1049,10 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56">FOLLOW_TYPE_COLUMN</a> = 5
 , <br />
 &#160;&#160;<a class="el" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9">FOLLOW_TYPE_ANGULAR</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4">FOLLOW_TYPE_SINGLE_FILE</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773">FOLLOW_TYPE_MAX</a>
 <br />
  }</td></tr>
 <tr class="separator:a81ef79b35706c659499bccc2d0786818"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -2654,6 +2658,8 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e" name="a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e"></a>FOLLOW_TYPE_LINE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56" name="a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56"></a>FOLLOW_TYPE_COLUMN&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9" name="a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9"></a>FOLLOW_TYPE_ANGULAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4" name="a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4"></a>FOLLOW_TYPE_SINGLE_FILE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773" name="a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773"></a>FOLLOW_TYPE_MAX&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno"> 1995</span>{</div>
 <div class="line"><span class="lineno"> 1996</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a3d297bf7140a15f78734a6c85fb3520b">FOLLOW_TYPE_CIRCLE</a>                     = 1,                  <span class="comment">// 360 degrees around leader, 90 degrees is the maximum angle</span></div>
@@ -2661,12 +2667,16 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 1998</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a98eb5f76e5f0f2c393fdc755cf1eae8b">FOLLOW_TYPE_SEMI_CIRCLE_FRONT</a>          = 3,                  <span class="comment">// 180 degrees in front of leader</span></div>
 <div class="line"><span class="lineno"> 1999</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e">FOLLOW_TYPE_LINE</a>                       = 4,                  <span class="comment">// front -&gt; back -&gt; front -&gt; back</span></div>
 <div class="line"><span class="lineno"> 2000</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56">FOLLOW_TYPE_COLUMN</a>                     = 5,                  <span class="comment">// left -&gt; right -&gt; left -&gt; right</span></div>
-<div class="line"><span class="lineno"> 2001</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9">FOLLOW_TYPE_ANGULAR</a>                    = 6                   <span class="comment">// geese-like formation 135 and 225 degrees behind leader</span></div>
-<div class="line"><span class="lineno"> 2002</span>};</div>
+<div class="line"><span class="lineno"> 2001</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9">FOLLOW_TYPE_ANGULAR</a>                    = 6,                  <span class="comment">// geese-like formation 135 and 225 degrees behind leader</span></div>
+<div class="line"><span class="lineno"> 2002</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4">FOLLOW_TYPE_SINGLE_FILE</a>                = 7,                  <span class="comment">// directly behind leader with increasing distance</span></div>
+<div class="line"><span class="lineno"> 2003</span>    <a class="code hl_enumvalue" href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773">FOLLOW_TYPE_MAX</a></div>
+<div class="line"><span class="lineno"> 2004</span>};</div>
+<div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a2d79cbbe5351fe59d2faae8f006b2773">FOLLOW_TYPE_MAX</a></div><div class="ttdeci">@ FOLLOW_TYPE_MAX</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2003</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818a3d297bf7140a15f78734a6c85fb3520b"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a3d297bf7140a15f78734a6c85fb3520b">FOLLOW_TYPE_CIRCLE</a></div><div class="ttdeci">@ FOLLOW_TYPE_CIRCLE</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:1996</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818a50b4e118b6c9a810ec7fc061a538a651"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a50b4e118b6c9a810ec7fc061a538a651">FOLLOW_TYPE_SEMI_CIRCLE_BEHIND</a></div><div class="ttdeci">@ FOLLOW_TYPE_SEMI_CIRCLE_BEHIND</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:1997</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818a98eb5f76e5f0f2c393fdc755cf1eae8b"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818a98eb5f76e5f0f2c393fdc755cf1eae8b">FOLLOW_TYPE_SEMI_CIRCLE_FRONT</a></div><div class="ttdeci">@ FOLLOW_TYPE_SEMI_CIRCLE_FRONT</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:1998</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818aa6e67c4ad806bcee39c034cfc828ab56">FOLLOW_TYPE_COLUMN</a></div><div class="ttdeci">@ FOLLOW_TYPE_COLUMN</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2000</div></div>
+<div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818ab4e14b007a46e06d73a718c455181ff4">FOLLOW_TYPE_SINGLE_FILE</a></div><div class="ttdeci">@ FOLLOW_TYPE_SINGLE_FILE</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2002</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818abc457f4eb4ba6f4a572060c7d26e04e9">FOLLOW_TYPE_ANGULAR</a></div><div class="ttdeci">@ FOLLOW_TYPE_ANGULAR</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:2001</div></div>
 <div class="ttc" id="aSmartScriptMgr_8h_html_a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e"><div class="ttname"><a href="../../d1/dc3/SmartScriptMgr_8h.html#a81ef79b35706c659499bccc2d0786818af38b36d7a0913cbfa36a7e03a460882e">FOLLOW_TYPE_LINE</a></div><div class="ttdeci">@ FOLLOW_TYPE_LINE</div><div class="ttdef"><b>Definition</b> SmartScriptMgr.h:1999</div></div>
 </div><!-- fragment -->
@@ -2989,7 +2999,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1c21bdf82e19ee3628235ac53838e383.html">SmartScripts</a></li><li class="navelem"><a class="el" href="../../d1/dc3/SmartScriptMgr_8h.html">SmartScriptMgr.h</a></li>
-    <li class="footer">Generated on Thu Sep 24 2026 10:59:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Sep 25 2026 11:00:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

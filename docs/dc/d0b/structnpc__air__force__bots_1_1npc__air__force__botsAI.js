@@ -6,5 +6,6 @@ var structnpc__air__force__bots_1_1npc__air__force__botsAI =
     [ "Reset", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
     [ "SummonGuard", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
     [ "SpawnAssoc", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedFactionTemplate", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a1cf2c5c3c7f3f0669f14f4543dbfd5dc", null ],
     [ "SpawnedGUID", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

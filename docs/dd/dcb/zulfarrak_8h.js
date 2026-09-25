@@ -17,6 +17,10 @@ var zulfarrak_8h =
       [ "PYRAMID_GATES_DESTROYED", "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
       [ "PYRAMID_DONE", "dd/dcb/zulfarrak_8h.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
     ] ],
+    [ "ZulFarrakActions", "dd/dcb/zulfarrak_8h.html#a8843ce985bb736c3cd63e24732daf94a", [
+      [ "ACTION_BLY_BETRAYAL", "dd/dcb/zulfarrak_8h.html#a8843ce985bb736c3cd63e24732daf94aa8efb846a4bab09283d8978c4e201ecbe", null ],
+      [ "ACTION_DESTROY_GATES", "dd/dcb/zulfarrak_8h.html#a8843ce985bb736c3cd63e24732daf94aaac0a090a8bfcef0b69c09f89a966bd7c", null ]
+    ] ],
     [ "ZulFarrakCreatures", "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
       [ "NPC_SANDFURY_CRETIN", "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
       [ "NPC_SANDFURY_SLAVE", "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
@@ -33,10 +37,17 @@ var zulfarrak_8h =
     ] ],
     [ "ZulFarrakData", "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24", [
       [ "DATA_PYRAMID", "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
-      [ "DATA_GAHZRILLA", "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
+      [ "DATA_GAHZRILLA", "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ],
+      [ "DATA_END_DOOR", "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24a49616b30bb002a37752cf1f69596a158", null ]
     ] ],
     [ "ZulFarrakGameobjects", "dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
       [ "GO_END_DOOR", "dd/dcb/zulfarrak_8h.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
+    ] ],
+    [ "ZulFarrakPoints", "dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959f", [
+      [ "POINT_CREW_STAIRS", "dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959fade6cba55fbd0e266956c59961cfcba59", null ],
+      [ "POINT_CREW_DESCENT", "dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959fa6d2a8a18ece842f0ef227e9909aa966b", null ],
+      [ "POINT_CREW_GATHER", "dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959faf1e2bd921d916b1ecffb03a967fb8fd3", null ],
+      [ "POINT_WEEGLI_DOOR", "dd/dcb/zulfarrak_8h.html#aae85f453002d044ab30b7c023c6d959faa0949de55bd9d3e116d26eef6016be29", null ]
     ] ],
     [ "GetZulFarrakAI", "dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
 ];
