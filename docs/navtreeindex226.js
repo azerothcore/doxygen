@@ -1,5 +1,13 @@
 var NAVTREEINDEX226 =
 {
+"d8/d35/structnpc__vampiric__fiend.html#aba3a8c1bfaa1f841f820e9540bc2267a":[7,0,2305,3],
+"d8/d35/structnpc__vampiric__fiend.html#ac9f90234d1f100c671f70b249a339314":[7,0,2305,1],
+"d8/d36/BigNumber_8h.html":[8,0,0,0,0,3,8],
+"d8/d36/MailScript_8cpp.html":[8,0,0,0,1,2,38,0,64],
+"d8/d36/MailScript_8cpp.html#a2c63e917d984cb7f72bcae15da56850c":[8,0,0,0,1,2,38,0,64,0],
+"d8/d36/classspell__dk__death__strike.html":[7,0,2843],
+"d8/d36/classspell__dk__death__strike.html#a2fe4b009fa3741c180e18730af5853e3":[7,0,2843,1],
+"d8/d36/classspell__dk__death__strike.html#a42fbc381d7ae89f1ac265fb15ebd864f":[7,0,2843,3],
 "d8/d36/classspell__dk__death__strike.html#a54f7f56a9122b623855eb9d11e34dfca":[7,0,2843,0],
 "d8/d36/classspell__dk__death__strike.html#a762c2320ab8d48e1284d81962a4b078f":[7,0,2843,2],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html":[7,0,2167,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX226 =
 "d8/d3e/classEscortMovementGenerator.html#a4c191a86f5ecc30ae5b34d7578d58d3e":[7,0,1063,1],
 "d8/d3e/classEscortMovementGenerator.html#a524bb8f72836dc5d1b63e429436b3a77":[7,0,1063,4],
 "d8/d3e/classEscortMovementGenerator.html#a61d74b098d1ae692ce305fa493aaa6d2":[7,0,1063,6],
-"d8/d3e/classEscortMovementGenerator.html#a91a6caae81e7715fdcf4c7134f88bc0b":[7,0,1063,0],
-"d8/d3e/classEscortMovementGenerator.html#a9f7048c5e49cc09f809496312a0c6550":[7,0,1063,10],
-"d8/d3e/classEscortMovementGenerator.html#ac4934d70ab62e08488cfc29c13355a7f":[7,0,1063,3],
-"d8/d3e/classEscortMovementGenerator.html#ad068798c6e186c1eb1a79f3872955e97":[7,0,1063,2],
-"d8/d3e/classEscortMovementGenerator.html#af6286fa4ed6afcc8a6c5f03575c774e6":[7,0,1063,9],
-"d8/d3e/classspell__dru__glyph__of__rejuvenation.html":[7,0,2915],
-"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a23746c343ca01160b73822e3457514d5":[7,0,2915,1],
-"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0":[7,0,2915,2],
-"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a715de16d0510d8b2cbd9e281c3e3274a":[7,0,2915,4]
+"d8/d3e/classEscortMovementGenerator.html#a91a6caae81e7715fdcf4c7134f88bc0b":[7,0,1063,0]
 };

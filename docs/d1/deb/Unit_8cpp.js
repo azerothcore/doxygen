@@ -1,7 +1,6 @@
 var Unit_8cpp =
 [
     [ "SplineHandler", "de/d59/classSplineHandler.html", "de/d59/classSplineHandler" ],
-    [ "spellIdImmunityPredicate", "d9/d89/classspellIdImmunityPredicate.html", "d9/d89/classspellIdImmunityPredicate" ],
     [ "AuraMunchingQueue", "df/d7b/classAuraMunchingQueue.html", "df/d7b/classAuraMunchingQueue" ],
     [ "ApplyPercentModFloatVar", "d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96", null ],
     [ "createProcFlags", "d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159", null ],

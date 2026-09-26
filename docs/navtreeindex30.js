@@ -1,6 +1,5 @@
 var NAVTREEINDEX30 =
 {
-"d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a8ca26c2b0a3606df26145d90200fcea2":[8,0,0,0,1,3,2,31,26,7],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a9b3552cf5f1de0f0251d3f629500545c":[8,0,0,0,1,3,2,31,26,0],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a9baa5d8343719df3d80176c1f8b6fbc9":[8,0,0,0,1,3,2,31,26,2],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6ad4ea7ee98257439361cf3fa03e9063a5":[8,0,0,0,1,3,2,31,26,9],
@@ -211,13 +210,13 @@ var NAVTREEINDEX30 =
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96":[8,0,0,0,1,2,8,1,13,1,4],
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5":[8,0,0,0,1,2,8,1,13,1,2],
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db":[8,0,0,0,1,2,8,1,13,1,3],
-"d1/d2f/structWintergraspObjectPositionData.html":[7,0,4707],
-"d1/d2f/structWintergraspObjectPositionData.html#a0e5dba26d6d335a9d1e5f40e737acddd":[7,0,4707,0],
-"d1/d2f/structWintergraspObjectPositionData.html#a374fff4b069e89489395246f378b4900":[7,0,4707,1],
-"d1/d2f/structWintergraspObjectPositionData.html#a44a8f3fd8d3cac7cfe61471d8b785ad4":[7,0,4707,4],
-"d1/d2f/structWintergraspObjectPositionData.html#ab557bbe497fc769b390cf0799b6aaed9":[7,0,4707,3],
-"d1/d2f/structWintergraspObjectPositionData.html#adebb903a00687e17d9088f5da2c97f4a":[7,0,4707,5],
-"d1/d2f/structWintergraspObjectPositionData.html#af8a4ec46795bcdbc77c76302a4cfe639":[7,0,4707,2],
+"d1/d2f/structWintergraspObjectPositionData.html":[7,0,4705],
+"d1/d2f/structWintergraspObjectPositionData.html#a0e5dba26d6d335a9d1e5f40e737acddd":[7,0,4705,0],
+"d1/d2f/structWintergraspObjectPositionData.html#a374fff4b069e89489395246f378b4900":[7,0,4705,1],
+"d1/d2f/structWintergraspObjectPositionData.html#a44a8f3fd8d3cac7cfe61471d8b785ad4":[7,0,4705,4],
+"d1/d2f/structWintergraspObjectPositionData.html#ab557bbe497fc769b390cf0799b6aaed9":[7,0,4705,3],
+"d1/d2f/structWintergraspObjectPositionData.html#adebb903a00687e17d9088f5da2c97f4a":[7,0,4705,5],
+"d1/d2f/structWintergraspObjectPositionData.html#af8a4ec46795bcdbc77c76302a4cfe639":[7,0,4705,2],
 "d1/d30/AdhocStatement_8cpp.html":[8,0,0,0,1,1,0,1],
 "d1/d30/PlayerDump_8cpp.html":[8,0,0,0,1,2,46,2],
 "d1/d30/PlayerDump_8cpp.html#a17802f71d1e9f88bd6ded0e79a8b4405":[8,0,0,0,1,2,46,2,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX30 =
 "d1/d30/PlayerDump_8cpp.html#ae8849d3a4dc3838acedf5f6f84242c08":[8,0,0,0,1,2,46,2,27],
 "d1/d30/PlayerDump_8cpp.html#aef6e6393d5903e926f3f8ed0d65501b3":[8,0,0,0,1,2,46,2,13],
 "d1/d30/PlayerDump_8cpp.html#aefd4f8ad39e21517e1160f4209e9492f":[8,0,0,0,1,2,46,2,12],
-"d1/d30/PlayerDump_8cpp.html#af32b9d84c5a117bcf96df822301d8350":[8,0,0,0,1,2,46,2,20]
+"d1/d30/PlayerDump_8cpp.html#af32b9d84c5a117bcf96df822301d8350":[8,0,0,0,1,2,46,2,20],
+"d1/d30/PlayerDump_8cpp.html#af5ecd510e3a4c642ed2250c17649f925":[8,0,0,0,1,2,46,2,15]
 };

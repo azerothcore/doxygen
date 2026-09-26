@@ -1,5 +1,10 @@
 var NAVTREEINDEX134 =
 {
+"d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1":[8,0,0,0,1,3,2,1,2,6,19],
+"d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a14f5cffcf85735f69f66bb8112bd4457":[8,0,0,0,1,3,2,1,2,6,19,3],
+"d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a27f69c3c3e6cab2172b100482d7c6bb4":[8,0,0,0,1,3,2,1,2,6,19,1],
+"d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a32ad740de1307057b30526621c5ca77a":[8,0,0,0,1,3,2,1,2,6,19,7],
+"d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a3d5212d11dc9a4134e00f51b2e8b410f":[8,0,0,0,1,3,2,1,2,6,19,2],
 "d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a4712c2a7231d098dd54a5dc48fb8f6e4":[8,0,0,0,1,3,2,1,2,6,19,8],
 "d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a4d8b9290dd71c0913307a34c0d212f35":[8,0,0,0,1,3,2,1,2,6,19,5],
 "d4/d7b/boss__nefarian_8cpp.html#a23564d04d2d24a7ae1afe5a1fbfbf9b1a5b15242a4d884f9e43e18c7220e36ac9":[8,0,0,0,1,3,2,1,2,6,19,4],
@@ -126,13 +131,13 @@ var NAVTREEINDEX134 =
 "d4/d7e/structnpc__assembly__lightning.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8":[7,0,1673,6],
 "d4/d7f/structPointOfInterestLocale.html":[7,0,2470],
 "d4/d7f/structPointOfInterestLocale.html#a624a1c1204cbc15acfc810a7720b8ea0":[7,0,2470,0],
-"d4/d80/structWMOAreaTableEntry.html":[7,0,4711],
-"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[7,0,4711,3],
-"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[7,0,4711,2],
-"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[7,0,4711,4],
-"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[7,0,4711,5],
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4711,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[7,0,4711,0],
+"d4/d80/structWMOAreaTableEntry.html":[7,0,4709],
+"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[7,0,4709,3],
+"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[7,0,4709,2],
+"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[7,0,4709,4],
+"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[7,0,4709,5],
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[7,0,4709,1],
+"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[7,0,4709,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[7,0,639,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[7,0,639,0,8],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[7,0,639,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX134 =
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32ae966325b0ed2963c00294c77b17cdba0":[8,0,0,0,1,3,5,2,1,1,39,1],
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32afd1ad45a706e3e00abda08f881af5764":[8,0,0,0,1,3,5,2,1,1,39,3],
 "d4/d81/boss__faction__champions_8cpp.html#a30d4fb7c05e2a196991c8a6a922d2e32aff85244e0514cda8af8ceae80e09fd15":[8,0,0,0,1,3,5,2,1,1,39,5],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13e":[8,0,0,0,1,3,5,2,1,1,66],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea49bf3817abf7efba119d3b0048651609":[8,0,0,0,1,3,5,2,1,1,66,7],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea64bfb6bd8ca118eec137b974eb1e89ca":[8,0,0,0,1,3,5,2,1,1,66,1],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea8592e881c95a3dd79afcb9bd776950f6":[8,0,0,0,1,3,5,2,1,1,66,4],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaa83261adacd9fedf183a407abc4086ff":[8,0,0,0,1,3,5,2,1,1,66,0],
-"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaacf68cb4ce5a32d9e670387086c1f185":[8,0,0,0,1,3,5,2,1,1,66,2]
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13e":[8,0,0,0,1,3,5,2,1,1,66]
 };

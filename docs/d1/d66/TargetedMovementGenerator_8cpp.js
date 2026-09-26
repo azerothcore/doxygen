@@ -5,5 +5,6 @@ var TargetedMovementGenerator_8cpp =
     [ "GetVelocity", "d1/d66/TargetedMovementGenerator_8cpp.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
     [ "IsMutualChase", "d1/d66/TargetedMovementGenerator_8cpp.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
     [ "IsValidPredictedPosition", "d1/d66/TargetedMovementGenerator_8cpp.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d1/d66/TargetedMovementGenerator_8cpp.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "PredictPosition", "d1/d66/TargetedMovementGenerator_8cpp.html#ada5b031ff95410ba84fd734c95c68099", null ],
+    [ "FOLLOW_CATCHUP_MAX_MULTIPLIER", "d1/d66/TargetedMovementGenerator_8cpp.html#ade9b07d0443f1dea9260aaecaebcc638", null ]
 ];

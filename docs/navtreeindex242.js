@@ -1,5 +1,13 @@
 var NAVTREEINDEX242 =
 {
+"d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html#ae198c80e6c72eeb72da0abcde8a0f13a":[7,0,2494,6,2],
+"d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html#af3e394eb5563aa4a76bd51d6c52f6db2":[7,0,2494,6,0],
+"d8/dea/boss__fankriss_8cpp.html":[8,0,0,0,1,3,4,9,2],
+"d8/dea/boss__fankriss_8cpp.html#a176383498f6bddbc2f779253f716da68":[8,0,0,0,1,3,4,9,2,5],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,9,2,1],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a53f29498611380176725155a3c125aa5":[8,0,0,0,1,3,4,9,2,1,0],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94fb56eafc6cf28b54d7d1796d52ef31":[8,0,0,0,1,3,4,9,2,1,1],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,9,2,2],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f02be4390ec75af1bf63256f01b6536":[8,0,0,0,1,3,4,9,2,2,3],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a033bbc8d70ab488a51112be5178ecc":[8,0,0,0,1,3,4,9,2,2,1],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a712e11117a952e2d16997380e14e7":[8,0,0,0,1,3,4,9,2,2,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX242 =
 "d8/df8/classAuthSession.html#a60c796bbf2a8a4d52eb75bb7ae567c7d":[7,0,310,15],
 "d8/df8/classAuthSession.html#a79d35828c93c4856d97243b52796740e":[7,0,310,0],
 "d8/df8/classAuthSession.html#a84a76453af6b61caaf81fca202c581e2":[7,0,310,22],
-"d8/df8/classAuthSession.html#a851bf3628a9b68423ddba57c6517c86a":[7,0,310,12],
-"d8/df8/classAuthSession.html#a892bb74d2438381be8ddd65a741d69dd":[7,0,310,4],
-"d8/df8/classAuthSession.html#a89c83cdde43f36c19d10716172aed04b":[7,0,310,1],
-"d8/df8/classAuthSession.html#a92f8fee9db6cdfb62545ff42c88c023f":[7,0,310,6],
-"d8/df8/classAuthSession.html#a95fe22aa168db55c1f3876e465d6beca":[7,0,310,20],
-"d8/df8/classAuthSession.html#a9fac4cb261cb121b1fed5bbae70855b8":[7,0,310,5],
-"d8/df8/classAuthSession.html#aa5ed4bd2d1037814782fbb345b59163b":[7,0,310,23],
-"d8/df8/classAuthSession.html#ab2d0efe156b204bd57db317d5dd1469a":[7,0,310,13],
-"d8/df8/classAuthSession.html#ab454aea5dde8d1d80c1f899e731045a8":[7,0,310,10]
+"d8/df8/classAuthSession.html#a851bf3628a9b68423ddba57c6517c86a":[7,0,310,12]
 };

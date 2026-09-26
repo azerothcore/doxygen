@@ -15,6 +15,7 @@ var structBattlegroundScore =
     [ "GetHealingDone", "df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb", null ],
     [ "GetHonorableKills", "df/dd4/structBattlegroundScore.html#a7e92af662817ddaac630db378e941ebb", null ],
     [ "GetKillingBlows", "df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779", null ],
+    [ "GetPlayerGuid", "df/dd4/structBattlegroundScore.html#a4d26e490899eb5af44e0723fb248f601", null ],
     [ "ToString", "df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14", null ],
     [ "UpdateScore", "df/dd4/structBattlegroundScore.html#a0c819926d046f7f9ab3f0511b4b5c03f", null ],
     [ "Arena", "df/dd4/structBattlegroundScore.html#a5f488c25aa439166d145713c67e7d085", null ],

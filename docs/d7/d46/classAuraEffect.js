@@ -201,6 +201,7 @@ var classAuraEffect =
     [ "HandleWaterBreathing", "d7/d46/classAuraEffect.html#ae0e6dfd8b1d19f6f3ab0d60f65e4427a", null ],
     [ "HasSpellClassMask", "d7/d46/classAuraEffect.html#ac47f45d58ef676d9e242852a80c96b01", null ],
     [ "IsAffectedOnSpell", "d7/d46/classAuraEffect.html#a71cd3938d8e16b4f6363e6978077aa8f", null ],
+    [ "IsEnabled", "d7/d46/classAuraEffect.html#ab882fb08ac37a212412de87051701b0d", null ],
     [ "IsPeriodic", "d7/d46/classAuraEffect.html#a7d45367044e196745676c63d61fbd89d", null ],
     [ "PeriodicTick", "d7/d46/classAuraEffect.html#af498cc64849486b0001f558da9c5c9ef", null ],
     [ "RecalculateAmount", "d7/d46/classAuraEffect.html#adc38a016285e442a485c9b9bc17a6105", null ],

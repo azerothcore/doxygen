@@ -1,5 +1,9 @@
 var NAVTREEINDEX284 =
 {
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a9a27667c1b46ae88b9a690997dd1b961":[8,0,0,0,1,2,16,7,5,138,21],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a9bab7a9623982f2d11ebc858cc5f6059":[8,0,0,0,1,2,16,7,5,138,3],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aa8bdfbc44b4f2aba6e758345525a158a":[8,0,0,0,1,2,16,7,5,138,23],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aae49fd6029123f7364693287e339212a":[8,0,0,0,1,2,16,7,5,138,0],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0aae52fbae709e72a95610f5606c4c7b00":[8,0,0,0,1,2,16,7,5,138,27],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0ac336ee698a4bedebf40b7c1743cd4719":[8,0,0,0,1,2,16,7,5,138,10],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0ac6a216a25bef87d0f42028ec7d299367":[8,0,0,0,1,2,16,7,5,138,7],
@@ -223,13 +227,15 @@ var NAVTREEINDEX284 =
 "da/dca/classnpc__gluttonous__abomination.html#a895d1afcfc62bcaac6cc0d20465f1e7a":[7,0,1868,1],
 "da/dca/classnpc__gluttonous__abomination.html#aedbd808da5e8ea0e2111e78be9d846ce":[7,0,1868,2],
 "da/dca/structBattlegroundSAScore.html":[7,0,354],
-"da/dca/structBattlegroundSAScore.html#a169a2a0a51edb6564e98c4b55f3e8a3b":[7,0,354,4],
+"da/dca/structBattlegroundSAScore.html#a1471746a2babcacb1a299714a93e4a4f":[7,0,354,4],
+"da/dca/structBattlegroundSAScore.html#a169a2a0a51edb6564e98c4b55f3e8a3b":[7,0,354,6],
 "da/dca/structBattlegroundSAScore.html#a57bf8241b404571cda5a8e113c334eab":[7,0,354,1],
+"da/dca/structBattlegroundSAScore.html#a86eb7e3f2235c711bd26b9fb7c7e105a":[7,0,354,5],
 "da/dca/structBattlegroundSAScore.html#aa31cd91ede928c57cd201dba61f7f585":[7,0,354,2],
-"da/dca/structBattlegroundSAScore.html#ab31c13442be48941f5dab4214b95cde9":[7,0,354,5],
+"da/dca/structBattlegroundSAScore.html#ab31c13442be48941f5dab4214b95cde9":[7,0,354,7],
 "da/dca/structBattlegroundSAScore.html#aba47bb1ec440f405bfde8513c60ae576":[7,0,354,3],
-"da/dca/structBattlegroundSAScore.html#ac49c28efa42cfad7232268de4be45e66":[7,0,354,6],
-"da/dca/structBattlegroundSAScore.html#aeb1310b64150dd51f91722574a9dd3fc":[7,0,354,7],
+"da/dca/structBattlegroundSAScore.html#ac49c28efa42cfad7232268de4be45e66":[7,0,354,8],
+"da/dca/structBattlegroundSAScore.html#aeb1310b64150dd51f91722574a9dd3fc":[7,0,354,9],
 "da/dca/structBattlegroundSAScore.html#afb1312e304eee973740cfe208657c5b9":[7,0,354,0],
 "da/dca/structCharacterCustomizeInfo.html":[4,1,17],
 "da/dca/structCharacterCustomizeInfo.html#a14321ea3595debe2836eceab8a82f944":[4,1,17,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX284 =
 "da/dcb/classspell__skeram__arcane__explosion.html":[7,0,4180],
 "da/dcb/classspell__skeram__arcane__explosion.html#a1ceb8f97a19b7c0434c430b388d0f76b":[7,0,4180,0],
 "da/dcb/classspell__skeram__arcane__explosion.html#a4a376e2a30c79ee2819c695e72535c0a":[7,0,4180,1],
-"da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[7,0,4180,2],
-"da/dcb/structboss__golemagg.html":[7,0,519],
-"da/dcb/structboss__golemagg.html#a27a5041fcf93a3da6fe2130af24de386":[7,0,519,5],
-"da/dcb/structboss__golemagg.html#aa68a9ff1858591b65ad650c18954bdea":[7,0,519,3],
-"da/dcb/structboss__golemagg.html#aae54e1e74dd44329af4f66bf26b2e277":[7,0,519,6],
-"da/dcb/structboss__golemagg.html#ac663539bac3bcd858dfbfba6095172dd":[7,0,519,2],
-"da/dcb/structboss__golemagg.html#ac7a23be0a51bd73b5c5b8215ba31412e":[7,0,519,0]
+"da/dcb/classspell__skeram__arcane__explosion.html#aaf7b4fba94d94331f6b35add2b836061":[7,0,4180,2]
 };

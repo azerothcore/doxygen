@@ -1,5 +1,14 @@
 var NAVTREEINDEX366 =
 {
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d":[8,0,0,0,1,3,7,4,0,0,3,1],
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3":[8,0,0,0,1,3,7,4,0,0,3,2],
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521add420385ff32f4362b994bc24207cde2":[8,0,0,0,1,3,7,4,0,0,3,9],
+"de/d07/classHealInfoStub.html":[7,0,1300],
+"de/d07/classHealInfoStub.html#a05ce52ae6ea15c8043dfeae236466017":[7,0,1300,8],
+"de/d07/classHealInfoStub.html#a1b6726177d88f4da4b4fa36e96136711":[7,0,1300,14],
+"de/d07/classHealInfoStub.html#a2228ffd4334cc5adff51e67394d19de9":[7,0,1300,17],
+"de/d07/classHealInfoStub.html#a2e5ac0bb798710d33e0ff4c29c8507a0":[7,0,1300,13],
+"de/d07/classHealInfoStub.html#a44c86cf0c0d87d9ceb9574ced0990845":[7,0,1300,16],
 "de/d07/classHealInfoStub.html#a4f50475819621d56efd4e359ed004483":[7,0,1300,12],
 "de/d07/classHealInfoStub.html#a5af3db6eed10c8b2cd17f0509f6085fa":[7,0,1300,7],
 "de/d07/classHealInfoStub.html#a5f7988705654a3b6f460ddbbecb3992b":[7,0,1300,9],
@@ -240,14 +249,5 @@ var NAVTREEINDEX366 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ae0ad241681bef520a2fa934ac91d7877":[8,0,0,0,1,4,7,63,129],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ae5ccf8f5ab7394b6ad92b0330c13c22b":[8,0,0,0,1,4,7,63,15],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aea3b9d865d4f9aa5da621149d6c6ad43":[8,0,0,0,1,4,7,63,135],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aebca501df25a950e4179be6d353daccc":[8,0,0,0,1,4,7,63,156],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aed5296737dcfccbe29bfaabe91f7eb23":[8,0,0,0,1,4,7,63,144],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aeec982db2671a1b0b77f2474515c7800":[8,0,0,0,1,4,7,63,99],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af12743cbe3dbf6fd27d949d6656bb9bf":[8,0,0,0,1,4,7,63,97],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af166732b056a7d4579e422dd37cd71ae":[8,0,0,0,1,4,7,63,20],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af2c8e3678e212a97baa86ec9deb1be87":[8,0,0,0,1,4,7,63,41],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af6b9d57fb8c3dc8bae8f9a3649aaacad":[8,0,0,0,1,4,7,63,3],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af6beec284c4651246a97f7c5a6c3d256":[8,0,0,0,1,4,7,63,84],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af8d2c87a978400bc97e5077b4902b225":[8,0,0,0,1,4,7,63,102],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574af932cac4b07ba4cc21cdef7adbcb757b":[8,0,0,0,1,4,7,63,73]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aebca501df25a950e4179be6d353daccc":[8,0,0,0,1,4,7,63,156]
 };

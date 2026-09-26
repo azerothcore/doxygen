@@ -1,5 +1,10 @@
 var NAVTREEINDEX125 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a699e8631767c46aa0222936f7d99e510":[8,0,0,0,1,3,5,4,1,3,13,53],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a6b281ebb353154d1e4c6b39eb83d65f4":[8,0,0,0,1,3,5,4,1,3,13,0],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a6d0d940772f1312b1ba19595221c1d32":[8,0,0,0,1,3,5,4,1,3,13,79],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a7127ea1aaa19b02dba5210f3e0d59027":[8,0,0,0,1,3,5,4,1,3,13,4],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a7f5b67306349f38566f2c2509c739d60":[8,0,0,0,1,3,5,4,1,3,13,47],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a800fbab7d9796285b151916518d4ef8c":[8,0,0,0,1,3,5,4,1,3,13,11],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8139f09a125bcff861939fd6fb4d054f":[8,0,0,0,1,3,5,4,1,3,13,35],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83723489e700cdad48c4b497900b07e4":[8,0,0,0,1,3,5,4,1,3,13,14],
@@ -233,8 +238,8 @@ var NAVTREEINDEX125 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2727],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2727,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2727,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d27/classspell__pal__hand__of__sacrifice__aura.html#a08e982eae6030fdc679663bfd38bca47":[7,0,3777,3],
 "d4/d27/classspell__pal__hand__of__sacrifice__aura.html#a252bd975a7639eab4e151249db974b7c":[7,0,3777,1],
 "d4/d27/classspell__pal__hand__of__sacrifice__aura.html#a51723a22f1062f44e8eb6848e1398595":[7,0,3777,2],
-"d4/d27/classspell__pal__hand__of__sacrifice__aura.html#a7662d85a5469c20edf6d2eefca820db3":[7,0,3777,0],
-"d4/d27/classspell__pal__hand__of__sacrifice__aura.html#afaab88988769ddc720deb44f06de3d7d":[7,0,3777,4],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html":[7,0,1376,0],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a3e83985648f2951ee33d440c9c98bf72":[7,0,1376,0,0],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a570b73c8ecd0e1ab6ac2889405be6ef0":[7,0,1376,0,10],
-"d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff":[7,0,1376,0,8]
+"d4/d27/classspell__pal__hand__of__sacrifice__aura.html#a7662d85a5469c20edf6d2eefca820db3":[7,0,3777,0]
 };

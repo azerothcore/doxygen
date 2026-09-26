@@ -1,5 +1,13 @@
 var NAVTREEINDEX217 =
 {
+"d7/dbd/classspell__item__vanquished__clutches.html#ae012e6852f079682fbafc776dec3455b":[7,0,3534,2],
+"d7/dbd/classspell__item__vanquished__clutches.html#afc10f1989ae4b9cff7527f2d73180cde":[7,0,3534,3],
+"d7/dbd/cs__gm_8cpp.html":[8,0,0,0,1,3,0,17],
+"d7/dbd/cs__gm_8cpp.html#a65c7b128fdf4dd9807ef514c24918e7b":[8,0,0,0,1,3,0,17,1],
+"d7/dbe/classspell__putricide__mutation__init.html":[7,0,3881],
+"d7/dbe/classspell__putricide__mutation__init.html#a0d6745dab09cdd228fc802e482c3d15c":[7,0,3881,2],
+"d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7":[7,0,3881,0],
+"d7/dbe/classspell__putricide__mutation__init.html#a95a250aeb3a41922c529f476d39f18e4":[7,0,3881,3],
 "d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54":[7,0,3881,1],
 "d7/dbe/structOnyxiaMove.html":[7,0,2370],
 "d7/dbe/structOnyxiaMove.html#a03176c6113b5fb3c873dc57e06c27d79":[7,0,2370,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae1ed3e78b681abe62d64b5db1cc3df50":[7,0,1395,0,19],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aec2bd58c5eaacf8522caa95224cbb5cb":[7,0,1395,0,41],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af0d84285c9e84605f8b0a90c9a22fb38":[7,0,1395,0,16],
-"d7/dc6/boss__galvangar_8cpp.html":[8,0,0,0,1,3,2,0,3],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,0,3,3],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[8,0,0,0,1,3,2,0,3,3,1],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[8,0,0,0,1,3,2,0,3,3,0],
-"d7/dc6/boss__galvangar_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[8,0,0,0,1,3,2,0,3,4],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,0,3,2],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,2,0,3,2,0],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[8,0,0,0,1,3,2,0,3,2,4],
-"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[8,0,0,0,1,3,2,0,3,2,1]
+"d7/dc6/boss__galvangar_8cpp.html":[8,0,0,0,1,3,2,0,3]
 };

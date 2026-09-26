@@ -1,5 +1,10 @@
 var NAVTREEINDEX98 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adc9cb2c8f2160717ec646336e9286b53":[8,0,0,0,1,3,5,9,2,13,52,15],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ae84684305059a1606f582290905e206e":[8,0,0,0,1,3,5,9,2,13,52,81],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aea69465d125cca0657956b9f9d40be17":[8,0,0,0,1,3,5,9,2,13,52,12],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aebf3efa796179c4cf450caa64d567448":[8,0,0,0,1,3,5,9,2,13,52,83],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aec8e6370f7859a47a5348de489da1a56":[8,0,0,0,1,3,5,9,2,13,52,19],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af13c306c0b3bc48fda5e80e1dbfb0184":[8,0,0,0,1,3,5,9,2,13,52,60],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af48505e67c6a4bed4ddcb395ebc81a89":[8,0,0,0,1,3,5,9,2,13,52,33],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af705f331e78877c4f65918835eba1bb3":[8,0,0,0,1,3,5,9,2,13,52,69],
@@ -244,10 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html":[7,0,1845,0],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#a9e80808035be749c87a1170f37ac3daf":[7,0,1845,0,0],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#a9e83b133444e977c35e90b700149472c":[7,0,1845,0,3],
-"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ab5781438300442bb7bcb4510aec9d233":[7,0,1845,0,2],
-"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ac2e34b9a53ff55d177327ec95dca5466":[7,0,1845,0,4],
-"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#af056f3c12a314acd8a7e8c6c381b9436":[7,0,1845,0,1],
-"d3/d3d/classnpc__draenei__survivor.html":[7,0,1803],
-"d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[7,0,1803,1],
-"d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[7,0,1803,2]
+"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ab5781438300442bb7bcb4510aec9d233":[7,0,1845,0,2]
 };

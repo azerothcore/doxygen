@@ -1,5 +1,10 @@
 var NAVTREEINDEX173 =
 {
+"d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564a88789829db8a93162b1d05164419cab8":[8,0,0,0,1,3,10,5,66,0],
+"d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564aa5d4774ba92c55a0e2ff32f7259bbfb1":[8,0,0,0,1,3,10,5,66,2],
+"d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564ac454101fa9ed0642363b53f00be63f01":[8,0,0,0,1,3,10,5,66,4],
+"d6/d0c/go__scripts_8cpp.html#a8252c989bb2e1eba66a22ecca709f564ade41a4f3dd7199b8ba227476db8b5c67":[8,0,0,0,1,3,10,5,66,3],
+"d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22":[8,0,0,0,1,3,10,5,75],
 "d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f":[8,0,0,0,1,3,10,5,75,0],
 "d6/d0c/go__scripts_8cpp.html#a8cacd7bf0ec09541e2b63cb4e6c4a1ac":[8,0,0,0,1,3,10,5,53],
 "d6/d0c/go__scripts_8cpp.html#a90070712c532a8c26b7acca5702f0737":[8,0,0,0,1,3,10,5,86],
@@ -244,10 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d15/classspell__gen__allow__cast__from__item__only.html":[7,0,3025],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html#a859ac50e6774471c232113e5c007f602":[7,0,3025,1],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html#a8a1367ad6c51a74e7cefbc2440eab697":[7,0,3025,0],
-"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[7,0,3025,2],
-"d6/d15/structHalaaIds.html":[7,0,1296],
-"d6/d15/structHalaaIds.html#a1fbc40a9798b89ae8b903b1f5a6a8e67":[7,0,1296,0],
-"d6/d15/structnpc__hivezara__stinger.html":[7,0,1903],
-"d6/d15/structnpc__hivezara__stinger.html#a35a6511ebc0301ae0bb22aafc91c8524":[7,0,1903,3],
-"d6/d15/structnpc__hivezara__stinger.html#a433d31057f1732ef7ef15d2023e18b8a":[7,0,1903,1]
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[7,0,3025,2]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX312 =
 {
+"db/dd5/classCreature.html#a46f2520f25c51c18ee7ff7d4eed4c7dc":[7,0,945,10],
+"db/dd5/classCreature.html#a47a8fb84d400cbaf887915dee7160a18":[7,0,945,193],
+"db/dd5/classCreature.html#a4900f245d9e3cdf9bae4c91e7d3acb9c":[7,0,945,188],
+"db/dd5/classCreature.html#a4bbc89c54481bce5d60cbad257d2f487":[7,0,945,11],
+"db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f":[7,0,945,46],
+"db/dd5/classCreature.html#a4d9a3c81e501b99b9a902440ee02926b":[7,0,945,164],
+"db/dd5/classCreature.html#a4e88b22d5cee056c894f8c1bf9e39a2f":[7,0,945,285],
+"db/dd5/classCreature.html#a4f6d3cf41d5f547bbcc37034e16bfb94":[7,0,945,123],
 "db/dd5/classCreature.html#a50495d0b3416a6bd81be169c9c3ea094":[7,0,945,101],
 "db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b":[7,0,945,263],
 "db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380":[7,0,945,232],
@@ -241,13 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[7,0,1704,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[7,0,1704,0,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[7,0,1704,0,11],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[7,0,1704,0,4],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[7,0,1704,0,8],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[7,0,1704,0,3],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[7,0,1704,0,0],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[7,0,1704,0,5],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[7,0,1704,0,7],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1704,0,6],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1704,0,13],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1704,0,12]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[7,0,1704,0,4]
 };

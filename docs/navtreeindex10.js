@@ -1,6 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4.html#a4704555f7e926f8facce237de6772a3d":[7,0,1468,1],
 "d0/d76/structLinkValidator_3_01LinkTags_1_1glyph_01_4.html#a4e2a1ab20d086987429174f41887bc45":[7,0,1468,0],
 "d0/d76/structinstance__blackwing__lair.html":[7,0,1337],
 "d0/d76/structinstance__blackwing__lair.html#a069b3a56def2564f026a3404bf0fd1c6":[7,0,1337,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#ac8de39cce4e4e53370683b6cfc3107df":[8,0,0,0,2,2,0,10,15,19],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#ac9c4ddea21cb583ab41f9664e0a55a27":[8,0,0,0,2,2,0,10,15,14],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#adcbe378ad3281f0034e8910d9be22f03":[8,0,0,0,2,2,0,10,15,24],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#adfde388a2edbae2c884134ab41ec3d7f":[8,0,0,0,2,2,0,10,15,9]
+"d0/d7e/SpellProcConditionsTest_8cpp.html#adfde388a2edbae2c884134ab41ec3d7f":[8,0,0,0,2,2,0,10,15,9],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#aee8ad5db1865ea9bb580d42c177b066d":[8,0,0,0,2,2,0,10,15,21]
 };

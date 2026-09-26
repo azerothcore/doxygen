@@ -1,5 +1,9 @@
 var NAVTREEINDEX268 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5747dc095a1f3ff0c331ecda00adf927":[8,0,0,0,1,2,41,0,0,6,164],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a579f6853986101dab8f4852793b3fffd":[8,0,0,0,1,2,41,0,0,6,28],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a580875b1aebc02e7661718120c88d561":[8,0,0,0,1,2,41,0,0,6,312],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a580ae19464afb0d72ab7d3414e14796b":[8,0,0,0,1,2,41,0,0,6,150],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5817711a0b3991073357ded1c749540b":[8,0,0,0,1,2,41,0,0,6,217],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a583bf7e94825b7252010ad12dd50ed6f":[8,0,0,0,1,2,41,0,0,6,236],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a596e3b9fe9debfe471e927863f3d739f":[8,0,0,0,1,2,41,0,0,6,288],
@@ -241,13 +245,9 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[8,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[8,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[8,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[7,0,4619],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4619,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4619,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4619,0],
-"da/d2e/classnpc__varian__wrynn.html":[7,0,2306],
-"da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[7,0,2306,1],
-"da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[7,0,2306,4],
-"da/d2e/classnpc__varian__wrynn.html#a95f6ff3f2a7db807b278d019e187ddec":[7,0,2306,3],
-"da/d2e/classnpc__varian__wrynn.html#aa5aa46f24a128e84ac2a837c012b2e02":[7,0,2306,2]
+"da/d2d/structTSPosition.html":[7,0,4617],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4617,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4617,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4617,0],
+"da/d2e/classnpc__varian__wrynn.html":[7,0,2306]
 };

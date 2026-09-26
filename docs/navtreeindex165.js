@@ -1,5 +1,10 @@
 var NAVTREEINDEX165 =
 {
+"d5/dc8/classspell__gen__5000__gold.html":[7,0,3022],
+"d5/dc8/classspell__gen__5000__gold.html#a0f0360e8b2db795046c3b76e6db0a97e":[7,0,3022,2],
+"d5/dc8/classspell__gen__5000__gold.html#a7bf5f9d28a916704bd1ece8acc64fe59":[7,0,3022,0],
+"d5/dc8/classspell__gen__5000__gold.html#ab9193654a0534dc82c4c93a3158f3f7a":[7,0,3022,1],
+"d5/dca/classspell__claw__rage__aura.html":[7,0,2784],
 "d5/dca/classspell__claw__rage__aura.html#a60313d4ba992b1dc81e7cdae942f1b3d":[7,0,2784,2],
 "d5/dca/classspell__claw__rage__aura.html#a7ed214de6769314a45540e9afdb82949":[7,0,2784,3],
 "d5/dca/classspell__claw__rage__aura.html#aa541a8bc034517d1f5d034ac51bd8dac":[7,0,2784,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX165 =
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee":[7,0,1905,0,6],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a94128223bddd84b8a678e49f3189cb75":[7,0,1905,0,4],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#aaf5ee73e8d3a52c51cbc64853843ed4e":[7,0,1905,0,5],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#acb29a6ddb6d06616e79f7431b66f167a":[7,0,1905,0,3],
-"d5/dd1/boss__trollgore_8cpp.html":[8,0,0,0,1,3,5,3,3],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,3,3,8],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,3,3,8,4],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2009e54e67292bb522a106376667b162":[8,0,0,0,1,3,5,3,3,8,2],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,3,3,8,0]
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#acb29a6ddb6d06616e79f7431b66f167a":[7,0,1905,0,3]
 };

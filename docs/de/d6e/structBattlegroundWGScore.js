@@ -4,6 +4,8 @@ var structBattlegroundWGScore =
     [ "BuildObjectivesBlock", "de/d6e/structBattlegroundWGScore.html#a804e56dbd666336d961cce2b0e4d6452", null ],
     [ "GetAttr1", "de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
     [ "GetAttr2", "de/d6e/structBattlegroundWGScore.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "GetFlagCaptures", "de/d6e/structBattlegroundWGScore.html#a458db7f27a7e4a002e11a9561327ea1c", null ],
+    [ "GetFlagReturns", "de/d6e/structBattlegroundWGScore.html#a7c602ee26cbca70d8496b68f331c3513", null ],
     [ "UpdateScore", "de/d6e/structBattlegroundWGScore.html#aa560d7f5f13dd235d43a9e3571090055", null ],
     [ "BattlegroundWS", "de/d6e/structBattlegroundWGScore.html#a4285b67c5d8593dce759422a4eb78c77", null ],
     [ "FlagCaptures", "de/d6e/structBattlegroundWGScore.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],

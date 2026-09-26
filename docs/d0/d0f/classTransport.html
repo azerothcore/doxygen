@@ -338,8 +338,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a86f138678e72e8cc4badf4b36dc3f941 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5589f3d5c698241d265c6d6bbec91898 inherit pub_methods_classGameObject" id="r_a5589f3d5c698241d265c6d6bbec91898"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a5589f3d5c698241d265c6d6bbec91898">GetLootRecipient</a> () const</td></tr>
 <tr class="separator:a5589f3d5c698241d265c6d6bbec91898 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a618db2716d9fbf23381adfcf9b8086e1 inherit pub_methods_classGameObject" id="r_a618db2716d9fbf23381adfcf9b8086e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a618db2716d9fbf23381adfcf9b8086e1">GetLootRecipientGUID</a> () const</td></tr>
+<tr class="separator:a618db2716d9fbf23381adfcf9b8086e1 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a389a8a8b76ab14d0758bfb4093bcf007 inherit pub_methods_classGameObject" id="r_a389a8a8b76ab14d0758bfb4093bcf007"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/db7/classGroup.html">Group</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a389a8a8b76ab14d0758bfb4093bcf007">GetLootRecipientGroup</a> () const</td></tr>
 <tr class="separator:a389a8a8b76ab14d0758bfb4093bcf007 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab386485a79b7ac41ba767de03afe536d inherit pub_methods_classGameObject" id="r_ab386485a79b7ac41ba767de03afe536d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#ab386485a79b7ac41ba767de03afe536d">GetLootRecipientGroupGUID</a> () const</td></tr>
+<tr class="separator:ab386485a79b7ac41ba767de03afe536d inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a772311dbda3d7391fe7ad16b277ea112 inherit pub_methods_classGameObject" id="r_a772311dbda3d7391fe7ad16b277ea112"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#a772311dbda3d7391fe7ad16b277ea112">SetLootRecipient</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *creature)</td></tr>
 <tr class="separator:a772311dbda3d7391fe7ad16b277ea112 inherit pub_methods_classGameObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab5ac8f189161e66aa507c1d0203d9a08 inherit pub_methods_classGameObject" id="r_ab5ac8f189161e66aa507c1d0203d9a08"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1c/classGameObject.html#ab5ac8f189161e66aa507c1d0203d9a08">SetLootRecipient</a> (<a class="el" href="../../d7/db0/classMap.html">Map</a> *map)</td></tr>
@@ -1732,7 +1736,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Implemented in <a class="el" href="../../de/da9/classMotionTransport.html#a828fbe7de6e25f06807c2a842ed65926">MotionTransport</a>, and <a class="el" href="../../d8/d57/classStaticTransport.html#ad4362ce7937c48ce0e5eb68ae97f789f">StaticTransport</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">GameObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l12236">Unit::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l01401">Player::TeleportTo()</a>, and <a class="el" href="../../#l00712">Creature::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00121">GameObject::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l12240">Unit::CleanupsBeforeDelete()</a>, <a class="el" href="../../#l00430">WorldSession::HandleMoverRelocation()</a>, <a class="el" href="../../#l01401">Player::TeleportTo()</a>, and <a class="el" href="../../#l00712">Creature::Update()</a>.</p>
 
 </div>
 </div>
@@ -1760,9 +1764,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   44</span>{ <a class="code hl_variable" href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">m_goValue</a>.<a class="code hl_variable" href="../../da/d37/unionGameObjectValue.html#a049255e30486113c3337079edbd80ff9">Transport</a>.<a class="code hl_variable" href="../../da/d37/unionGameObjectValue.html#a9e07a147b2be08a78f052e0cdb817111">PathProgress</a> = val; }</div>
-<div class="ttc" id="aclassGameObject_html_a12cdfce40157894849d8aac95302b926"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">GameObject::m_goValue</a></div><div class="ttdeci">GameObjectValue m_goValue</div><div class="ttdef"><b>Definition</b> GameObject.h:397</div></div>
+<div class="ttc" id="aclassGameObject_html_a12cdfce40157894849d8aac95302b926"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a12cdfce40157894849d8aac95302b926">GameObject::m_goValue</a></div><div class="ttdeci">GameObjectValue m_goValue</div><div class="ttdef"><b>Definition</b> GameObject.h:399</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00397">GameObject::m_goValue</a>, <a class="el" href="../../#l00054">GameObjectValue::PathProgress</a>, and <a class="el" href="../../da/d37/unionGameObjectValue.html#a049255e30486113c3337079edbd80ff9">GameObjectValue::Transport</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00399">GameObject::m_goValue</a>, <a class="el" href="../../#l00054">GameObjectValue::PathProgress</a>, and <a class="el" href="../../da/d37/unionGameObjectValue.html#a049255e30486113c3337079edbd80ff9">GameObjectValue::Transport</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00833">StaticTransport::Create()</a>, <a class="el" href="../../#l00068">MotionTransport::CreateMoTrans()</a>, <a class="el" href="../../#l00216">MotionTransport::Update()</a>, and <a class="el" href="../../#l00968">StaticTransport::Update()</a>.</p>
 
@@ -1802,7 +1806,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d0f/classTransport.html">Transport</a></li>
-    <li class="footer">Generated on Fri Sep 25 2026 11:01:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 26 2026 10:42:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

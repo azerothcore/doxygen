@@ -1,5 +1,10 @@
 var NAVTREEINDEX183 =
 {
+"d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80":[7,0,1000,0],
+"d6/d66/classDBUpdaterUtil.html#a8653546fe6b32d170da7350700c19613":[7,0,1000,4],
+"d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9":[7,0,1000,3],
+"d6/d66/classDBUpdaterUtil.html#a99eb37994b14f350308d174d1c04c7fe":[7,0,1000,5],
+"d6/d66/classGameObjectAI.html":[7,0,1118],
 "d6/d66/classGameObjectAI.html#a0d1207e28b98c2b92715a1a920f1a465":[7,0,1118,8],
 "d6/d66/classGameObjectAI.html#a17d3fa0b7adc67f7d5967b15bd585b93":[7,0,1118,14],
 "d6/d66/classGameObjectAI.html#a1eb34e87f4d7e66363b4270210e4aee3":[7,0,1118,24],
@@ -33,9 +38,9 @@ var NAVTREEINDEX183 =
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4317,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4317,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4317,0],
-"d6/d67/classSpellProcPipelineTest.html":[7,0,4511],
-"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4511,0],
-"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4511,1],
+"d6/d67/classSpellProcPipelineTest.html":[7,0,4509],
+"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4509,0],
+"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4509,1],
 "d6/d68/HMAC_8h.html":[8,0,0,0,0,3,14],
 "d6/d68/HMAC_8h.html#a5186a2a02e2301ec3ea7b37d8b41097f":[8,0,0,0,0,3,14,1],
 "d6/d68/HMAC_8h.html#a80d906d20826d6c963f50eba5f7c4c2a":[8,0,0,0,0,3,14,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a6bc71f7e43b47df962d9951e4f2e7a3c":[8,0,0,0,1,3,4,1,0,5,11,5],
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a7510de1379be0f2afa1ec59d828b6504":[8,0,0,0,1,3,4,1,0,5,11,3],
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268ab880b5422c06b07d0fa432477a8d35de":[8,0,0,0,1,3,4,1,0,5,11,1],
-"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268aca4e959e2a5577e0cae9ab870fa0a2a7":[8,0,0,0,1,3,4,1,0,5,11,2],
-"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268af3cde70bd611fd1ce40966c846f93e96":[8,0,0,0,1,3,4,1,0,5,11,4],
-"d6/d70/classspell__item__socrethars__stone.html":[7,0,3505],
-"d6/d70/classspell__item__socrethars__stone.html#a3bf16100687a002a0d3b95bea11dc90f":[7,0,3505,1],
-"d6/d70/classspell__item__socrethars__stone.html#a4698eab378b8cf6d4aeb595b53a9df13":[7,0,3505,3],
-"d6/d70/classspell__item__socrethars__stone.html#a8586b480a304f19741de62b606c9f456":[7,0,3505,2]
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268aca4e959e2a5577e0cae9ab870fa0a2a7":[8,0,0,0,1,3,4,1,0,5,11,2]
 };

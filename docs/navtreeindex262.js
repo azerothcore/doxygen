@@ -1,5 +1,9 @@
 var NAVTREEINDEX262 =
 {
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a5fc6d2c0a1c5fc9e9d7c7bb6a93d36e2":[8,0,0,0,1,3,5,9,2,16,4,33],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a60fc90610d8b5a35f5aa5cf2fc1d0b12":[8,0,0,0,1,3,5,9,2,16,4,66],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a61c67010d885160beb480f6888917af0":[8,0,0,0,1,3,5,9,2,16,4,50],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a72758feb9f8a134eba1aeb33ce2ceea5":[8,0,0,0,1,3,5,9,2,16,4,39],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a7929569ee4dea00a5ec553fc1236b21d":[8,0,0,0,1,3,5,9,2,16,4,27],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a796be4d4322b9e299863f5b0bbda4152":[8,0,0,0,1,3,5,9,2,16,4,49],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a7a92ce45ef61ae22b7e32d6f7dd5a512":[8,0,0,0,1,3,5,9,2,16,4,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX262 =
 "d9/dfc/classHealInfoStubBuilder.html#ab788ddcc209140ed3c10b02785471dcb":[7,0,1301,5],
 "d9/dfc/classHealInfoStubBuilder.html#ad0da544c651e387d8c6e9b272aa3db7b":[7,0,1301,8],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[7,0,2735],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[7,0,2735,1],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#add40d7731b07b30b595f76f7d4e983f4":[7,0,2735,2],
-"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#aede4900c9b71bf60ca61e03dd0b63aa8":[7,0,2735,0],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html":[7,0,3538],
-"d9/dfc/classspell__item__wraith__scythe__drain__life.html#a05c6a249b32f41d8d33b40d07bd3c44d":[7,0,3538,0]
+"d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[7,0,2735,1]
 };

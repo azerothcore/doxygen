@@ -1,6 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d44/structReputationOnKillEntry.html":[7,0,2557],
 "d1/d44/structReputationOnKillEntry.html#a053bd7825d0464ac322b449f3d243722":[7,0,2557,1],
 "d1/d44/structReputationOnKillEntry.html#a25f928a8f8c3a19b1aa9a5c41b0ba612":[7,0,2557,0],
 "d1/d44/structReputationOnKillEntry.html#a292b78f629723c3993a796eb256dd9b8":[7,0,2557,4],
@@ -85,20 +84,20 @@ var NAVTREEINDEX33 =
 "d1/d48/classSFMTRand.html#aa40843ec8c3162e4be6cbf8067f93c9b":[7,0,2606,0],
 "d1/d48/classSFMTRand.html#ac6267ac04c03814f574a155a4a0cffcb":[7,0,2606,2],
 "d1/d48/classSFMTRand.html#ace8e8802bdb710f3354d3ff7d619497c":[7,0,2606,8],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[5,0,34,16,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[7,0,13,16,0],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[5,0,34,16,0,3],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[5,0,34,16,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[7,0,13,16,0,3],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[5,0,34,16,0,3],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[5,0,34,16,0,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[7,0,13,16,0,0],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[7,0,13,16,0,4],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[5,0,34,16,0,4],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[7,0,13,16,0,4],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[5,0,34,16,0,1],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[7,0,13,16,0,1],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a684d15c5368e8065c78e9320eebb676b":[7,0,13,16,0,5],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a684d15c5368e8065c78e9320eebb676b":[5,0,34,16,0,5],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[5,0,34,16,0,2],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a684d15c5368e8065c78e9320eebb676b":[7,0,13,16,0,5],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[7,0,13,16,0,2],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[5,0,34,16,0,2],
 "d1/d49/classDatabaseWorkerPool.html":[7,0,988],
 "d1/d49/classDatabaseWorkerPool.html#a06540a1813cb10817d864e1288ad506f":[7,0,988,18],
 "d1/d49/classDatabaseWorkerPool.html#a0afa2a6d6159289aedf75b23bef19561":[7,0,988,29],
@@ -249,5 +248,6 @@ var NAVTREEINDEX33 =
 "d1/d4f/classQuest.html#a5429dda259c14662e1c87d59b73c5e3c":[7,0,2514,122],
 "d1/d4f/classQuest.html#a544ac67016b615f5bd86fef5970b5a54":[7,0,2514,94],
 "d1/d4f/classQuest.html#a57886dc304657391b76080b4ca7c3176":[7,0,2514,146],
-"d1/d4f/classQuest.html#a57f130f47b56399c9a36472ee2b5e4c4":[7,0,2514,93]
+"d1/d4f/classQuest.html#a57f130f47b56399c9a36472ee2b5e4c4":[7,0,2514,93],
+"d1/d4f/classQuest.html#a58e8d1e22f2097a2de9eaff8cdcea654":[7,0,2514,113]
 };

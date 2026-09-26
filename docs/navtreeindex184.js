@@ -1,5 +1,10 @@
 var NAVTREEINDEX184 =
 {
+"d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268af3cde70bd611fd1ce40966c846f93e96":[8,0,0,0,1,3,4,1,0,5,11,4],
+"d6/d70/classspell__item__socrethars__stone.html":[7,0,3505],
+"d6/d70/classspell__item__socrethars__stone.html#a3bf16100687a002a0d3b95bea11dc90f":[7,0,3505,1],
+"d6/d70/classspell__item__socrethars__stone.html#a4698eab378b8cf6d4aeb595b53a9df13":[7,0,3505,3],
+"d6/d70/classspell__item__socrethars__stone.html#a8586b480a304f19741de62b606c9f456":[7,0,3505,2],
 "d6/d70/classspell__item__socrethars__stone.html#ab3e697ba71654bf9b67e1d1660b3a7ea":[7,0,3505,4],
 "d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca":[7,0,3505,0],
 "d6/d71/classboss__meathook.html":[7,0,631],
@@ -10,8 +15,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html":[7,0,3188],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[7,0,3188,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3188,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2021],
@@ -244,10 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#a19f98cdb20306306e21a5cb7a72c7e49":[8,0,0,0,2,2,0,10,13,3],
 "d6/d7a/SpellProcChanceTest_8cpp.html#a252b150cbb92f8bc5cc7b595ce129f2b":[8,0,0,0,2,2,0,10,13,21],
 "d6/d7a/SpellProcChanceTest_8cpp.html#a33fb9c0f8fe1a60008d10c9561570517":[8,0,0,0,2,2,0,10,13,15],
-"d6/d7a/SpellProcChanceTest_8cpp.html#a3f40e343661b10279c3e3adb0e7dde6e":[8,0,0,0,2,2,0,10,13,14],
-"d6/d7a/SpellProcChanceTest_8cpp.html#a47c99d67681c44af53a6492d5994eed7":[8,0,0,0,2,2,0,10,13,2],
-"d6/d7a/SpellProcChanceTest_8cpp.html#a90b7470654e74b5d5fbf79e58877f945":[8,0,0,0,2,2,0,10,13,8],
-"d6/d7a/SpellProcChanceTest_8cpp.html#aa332c8542cc81c4bcfa3ea38de4d883e":[8,0,0,0,2,2,0,10,13,6],
-"d6/d7a/SpellProcChanceTest_8cpp.html#aa9a26d0333cdaf95363de72d974cf71d":[8,0,0,0,2,2,0,10,13,12],
-"d6/d7a/SpellProcChanceTest_8cpp.html#aac1c57c49df9c3786548c5015e7ecbe2":[8,0,0,0,2,2,0,10,13,4]
+"d6/d7a/SpellProcChanceTest_8cpp.html#a3f40e343661b10279c3e3adb0e7dde6e":[8,0,0,0,2,2,0,10,13,14]
 };

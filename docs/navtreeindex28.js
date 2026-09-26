@@ -1,6 +1,5 @@
 var NAVTREEINDEX28 =
 {
-"d1/d1a/classBattlegroundMgr.html#a7b3e1509d8fa26ae35088466bf6273c8":[7,0,347,49],
 "d1/d1a/classBattlegroundMgr.html#a7bc5b470cd81ad08b417f7d91f8973fd":[7,0,347,10],
 "d1/d1a/classBattlegroundMgr.html#a7c0fbb3bf811a9e9c7d20315fd6da963":[7,0,347,44],
 "d1/d1a/classBattlegroundMgr.html#a7fd63afbcb929e0a315507c9e6161898":[7,0,347,69],
@@ -249,5 +248,6 @@ var NAVTREEINDEX28 =
 "d1/d28/boss__swamplord__muselek_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,2,3,2,3,0],
 "d1/d28/boss__swamplord__muselek_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,2,3,2,3,1],
 "d1/d28/boss__swamplord__muselek_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaea3bc080b2997578e6287980ecc3de21":[8,0,0,0,1,3,7,2,3,2,3,2],
-"d1/d28/classspell__gen__damage__reduction__aura.html":[7,0,3066]
+"d1/d28/classspell__gen__damage__reduction__aura.html":[7,0,3066],
+"d1/d28/classspell__gen__damage__reduction__aura.html#a0eb56dc80c02932a0d7cf4cca7079c75":[7,0,3066,3]
 };

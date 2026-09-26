@@ -1,5 +1,8 @@
 var NAVTREEINDEX57 =
 {
+"d2/d35/BattlegroundAB_8h.html#a57b60dbaa9b05ef4b896e2b8ffebf130a9e536b4b805f5085efd3d6e570e3218d":[8,0,0,0,1,2,8,1,1,8,2],
+"d2/d35/BattlegroundAB_8h.html#a57b60dbaa9b05ef4b896e2b8ffebf130ae8f3a516a978e5c6f67b40db96ccb8ce":[8,0,0,0,1,2,8,1,1,8,3],
+"d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435f":[8,0,0,0,1,2,8,1,1,6],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa05ab1d3dfa7aca56f38869c7add7d8c6":[8,0,0,0,1,2,8,1,1,6,4],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa2e4e8add94027de8044faddefb510479":[8,0,0,0,1,2,8,1,1,6,10],
 "d2/d35/BattlegroundAB_8h.html#a5cb056ea89447224f409c66204c5435fa2f47d54a471f0afe71575cb09e67cac2":[8,0,0,0,1,2,8,1,1,6,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d3b/classspell__pal__divine__storm.html#ae8329a18e94b3830e19bcbcbdf055dd2":[7,0,3767,0],
 "d2/d3c/classboss__rotface.html":[7,0,694],
 "d2/d3c/classboss__rotface.html#a8896f5ed16c728d72a123b2e92a174fb":[7,0,694,1],
-"d2/d3c/classboss__rotface.html#a8a3ff9ef99da7d72ce2f7827bfc2564b":[7,0,694,2],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html":[7,0,3035],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa2b338da6aa545e588be3d3a72b1a747":[7,0,3035,2],
-"d2/d3c/classspell__gen__ayamiss__swarmer__loop.html#aa64e3d5a98804e2a05d3af1fdc5b2d30":[7,0,3035,3]
+"d2/d3c/classboss__rotface.html#a8a3ff9ef99da7d72ce2f7827bfc2564b":[7,0,694,2]
 };

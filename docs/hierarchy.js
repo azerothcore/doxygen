@@ -4676,8 +4676,6 @@ var hierarchy =
     [ "SpellEnchantProcEntry", "d0/d58/structSpellEnchantProcEntry.html", null ],
     [ "SpellEntry", "d5/dc7/structSpellEntry.html", null ],
     [ "SpellFocusObjectEntry", "d9/df1/structSpellFocusObjectEntry.html", null ],
-    [ "spellIdImmunityPredicate", "d9/d89/classspellIdImmunityPredicate.html", null ],
-    [ "SpellImmune", "dd/dcd/structSpellImmune.html", null ],
     [ "SpellImplicitTargetInfo", "d0/da4/classSpellImplicitTargetInfo.html", null ],
     [ "SpellInfo", "d2/de9/classSpellInfo.html", null ],
     [ "SpellInfoBuilder", "d0/d14/classSpellInfoBuilder.html", null ],

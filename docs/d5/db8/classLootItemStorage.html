@@ -476,7 +476,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  188</span>            <a class="code hl_struct" href="../../db/d72/structLootItem.html">LootItem</a> li;</div>
 <div class="line"><span class="lineno">  189</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a> = it2-&gt;itemid;</div>
 <div class="line"><span class="lineno">  190</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777">itemIndex</a> = it2-&gt;itemIndex;</div>
-<div class="line"><span class="lineno">  191</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5">count</a> = it2-&gt;count;</div>
+<div class="line"><span class="lineno">  191</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a683e0daa30d21da4096ab110226fda12">count</a> = it2-&gt;count;</div>
 <div class="line"><span class="lineno">  192</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a3dfa14b4a36b8750892b9cf6f3814ec9">follow_loot_rules</a> = it2-&gt;follow_loot_rules;</div>
 <div class="line"><span class="lineno">  193</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#ae9f49e27fd81c235fdc2c754918f55c4">freeforall</a> = it2-&gt;freeforall;</div>
 <div class="line"><span class="lineno">  194</span>            li.<a class="code hl_variable" href="../../db/d72/structLootItem.html#a0e1dbe84cef1c5f3111b08f25dbb859d">is_blocked</a> = it2-&gt;is_blocked;</div>
@@ -538,8 +538,8 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructLootItem_html_a3dfa14b4a36b8750892b9cf6f3814ec9"><div class="ttname"><a href="../../db/d72/structLootItem.html#a3dfa14b4a36b8750892b9cf6f3814ec9">LootItem::follow_loot_rules</a></div><div class="ttdeci">bool follow_loot_rules</div><div class="ttdef"><b>Definition</b> LootMgr.h:169</div></div>
 <div class="ttc" id="astructLootItem_html_a4d18c53f68ff454b7521e8afcab85b24"><div class="ttname"><a href="../../db/d72/structLootItem.html#a4d18c53f68ff454b7521e8afcab85b24">LootItem::is_underthreshold</a></div><div class="ttdeci">bool is_underthreshold</div><div class="ttdef"><b>Definition</b> LootMgr.h:166</div></div>
 <div class="ttc" id="astructLootItem_html_a665a75643f49ee93f469b7b7bc52a928"><div class="ttname"><a href="../../db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928">LootItem::randomPropertyId</a></div><div class="ttdeci">int32 randomPropertyId</div><div class="ttdef"><b>Definition</b> LootMgr.h:158</div></div>
+<div class="ttc" id="astructLootItem_html_a683e0daa30d21da4096ab110226fda12"><div class="ttname"><a href="../../db/d72/structLootItem.html#a683e0daa30d21da4096ab110226fda12">LootItem::count</a></div><div class="ttdeci">uint32 count</div><div class="ttdef"><b>Definition</b> LootMgr.h:162</div></div>
 <div class="ttc" id="astructLootItem_html_a688e1b5f1a3ae5b4215b330bc2969777"><div class="ttname"><a href="../../db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777">LootItem::itemIndex</a></div><div class="ttdeci">uint32 itemIndex</div><div class="ttdef"><b>Definition</b> LootMgr.h:156</div></div>
-<div class="ttc" id="astructLootItem_html_a8b08275cd4e1ebabc389fc2e933b1be5"><div class="ttname"><a href="../../db/d72/structLootItem.html#a8b08275cd4e1ebabc389fc2e933b1be5">LootItem::count</a></div><div class="ttdeci">uint8 count</div><div class="ttdef"><b>Definition</b> LootMgr.h:162</div></div>
 <div class="ttc" id="astructLootItem_html_a9021fa353f7538706349702498a4e778"><div class="ttname"><a href="../../db/d72/structLootItem.html#a9021fa353f7538706349702498a4e778">LootItem::is_looted</a></div><div class="ttdeci">bool is_looted</div><div class="ttdef"><b>Definition</b> LootMgr.h:163</div></div>
 <div class="ttc" id="astructLootItem_html_ac89b265105cce50b87fae1e75cf23b4f"><div class="ttname"><a href="../../db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f">LootItem::conditions</a></div><div class="ttdeci">ConditionList conditions</div><div class="ttdef"><b>Definition</b> LootMgr.h:159</div></div>
 <div class="ttc" id="astructLootItem_html_ae9f49e27fd81c235fdc2c754918f55c4"><div class="ttname"><a href="../../db/d72/structLootItem.html#ae9f49e27fd81c235fdc2c754918f55c4">LootItem::freeforall</a></div><div class="ttdeci">bool freeforall</div><div class="ttdef"><b>Definition</b> LootMgr.h:165</div></div>
@@ -795,7 +795,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/db8/classLootItemStorage.html">LootItemStorage</a></li>
-    <li class="footer">Generated on Fri Sep 25 2026 11:00:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Sep 26 2026 10:41:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

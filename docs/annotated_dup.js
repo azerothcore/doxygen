@@ -5040,8 +5040,6 @@ var annotated_dup =
     [ "SpellEntry", "d5/dc7/structSpellEntry.html", "d5/dc7/structSpellEntry" ],
     [ "SpellEvent", "d7/d52/classSpellEvent.html", "d7/d52/classSpellEvent" ],
     [ "SpellFocusObjectEntry", "d9/df1/structSpellFocusObjectEntry.html", "d9/df1/structSpellFocusObjectEntry" ],
-    [ "spellIdImmunityPredicate", "d9/d89/classspellIdImmunityPredicate.html", "d9/d89/classspellIdImmunityPredicate" ],
-    [ "SpellImmune", "dd/dcd/structSpellImmune.html", "dd/dcd/structSpellImmune" ],
     [ "SpellImplicitTargetInfo", "d0/da4/classSpellImplicitTargetInfo.html", "d0/da4/classSpellImplicitTargetInfo" ],
     [ "SpellInfo", "d2/de9/classSpellInfo.html", "d2/de9/classSpellInfo" ],
     [ "spellinfo_commandscript", "dc/df2/classspellinfo__commandscript.html", "dc/df2/classspellinfo__commandscript" ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX135 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea49bf3817abf7efba119d3b0048651609":[8,0,0,0,1,3,5,2,1,1,66,7],
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea64bfb6bd8ca118eec137b974eb1e89ca":[8,0,0,0,1,3,5,2,1,1,66,1],
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13ea8592e881c95a3dd79afcb9bd776950f6":[8,0,0,0,1,3,5,2,1,1,66,4],
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaa83261adacd9fedf183a407abc4086ff":[8,0,0,0,1,3,5,2,1,1,66,0],
+"d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eaacf68cb4ce5a32d9e670387086c1f185":[8,0,0,0,1,3,5,2,1,1,66,2],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eab25b4efbfeb76978714565aa3fb7cfe3":[8,0,0,0,1,3,5,2,1,1,66,8],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eabbef753ce28f570a451b274afd5fe2e5":[8,0,0,0,1,3,5,2,1,1,66,5],
 "d4/d81/boss__faction__champions_8cpp.html#a3f0f8bf3e3bfa8ba505cf6ec4005b13eacda9c7ee6bb48504f6800c78f59f881a":[8,0,0,0,1,3,5,2,1,1,66,6],
@@ -179,12 +184,12 @@ var NAVTREEINDEX135 =
 "d4/d81/classspell__yogg__saron__insane__aura.html#a0e2113cd165f9f6ce88ba6eea9034806":[7,0,4445,0],
 "d4/d81/classspell__yogg__saron__insane__aura.html#a5fb0837417b915676549370cc76c477d":[7,0,4445,1],
 "d4/d81/classspell__yogg__saron__insane__aura.html#a7f1844fded6ad112cc99d33f52e0799c":[7,0,4445,2],
-"d4/d81/structTransportAnimationEntry.html":[7,0,4607],
-"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[7,0,4607,3],
-"d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[7,0,4607,4],
-"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[7,0,4607,1],
-"d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[7,0,4607,2],
-"d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[7,0,4607,0],
+"d4/d81/structTransportAnimationEntry.html":[7,0,4605],
+"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[7,0,4605,3],
+"d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[7,0,4605,4],
+"d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[7,0,4605,1],
+"d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[7,0,4605,2],
+"d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[7,0,4605,0],
 "d4/d82/classspell__blight__worm__ingest.html":[7,0,2726],
 "d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[7,0,2726,1],
 "d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[7,0,2726,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX135 =
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a305f064869874d8620d794a7d26f6358":[7,0,628,0,14],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a4ba4ac7fabd3e74dc10a00a3188252e9":[7,0,628,0,0],
 "d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a5040c31467e9d3c6edc30b9133ec6873":[7,0,628,0,13],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6230dc14db38d43fb060f028cfde9d32":[7,0,628,0,7],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6bbc3ae1131f9becba0a35ea2e3a57dd":[7,0,628,0,5],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7358c7abb58a6c9ec200d06246d00d41":[7,0,628,0,3],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a7f955c8399167d3f3aa974596f398c13":[7,0,628,0,16],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a875c046b8a2f4a01bded282143c6d1d0":[7,0,628,0,9],
-"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a909f7fffc7e38cc6b0bba4edd45cb348":[7,0,628,0,8]
+"d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a6230dc14db38d43fb060f028cfde9d32":[7,0,628,0,7]
 };

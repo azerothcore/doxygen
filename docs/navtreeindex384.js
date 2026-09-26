@@ -1,5 +1,16 @@
 var NAVTREEINDEX384 =
 {
+"de/d30/SpellMgr_8h.html#ad3397bc4e1407330978a0adb42d4aa26":[8,0,0,0,1,2,41,9,24],
+"de/d30/SpellMgr_8h.html#ad621262d491c800fb5ddd016250dd46f":[8,0,0,0,1,2,41,9,79],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6":[8,0,0,0,1,2,41,9,62],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1295a3ab74d597709dccdf1265e59d8a":[8,0,0,0,1,2,41,9,62,52],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a12ae63600ccfe4296e546ef44d3ef3e9":[8,0,0,0,1,2,41,9,62,23],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a133ef040c5e5af695f03137d2aeba054":[8,0,0,0,1,2,41,9,62,10],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a13899f0b883bdae8051450ea98f98f55":[8,0,0,0,1,2,41,9,62,29],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a14ee51627f5c63cbd8d13141aae1c942":[8,0,0,0,1,2,41,9,62,5],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a15a0722a5c6a89022fcaf697df0f927c":[8,0,0,0,1,2,41,9,62,49],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1725d88f09298fec66cbe49832d4587e":[8,0,0,0,1,2,41,9,62,24],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a17e659065202f50148fd26019a3ed3a3":[8,0,0,0,1,2,41,9,62,2],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1864667d740deb130dfe62594472853f":[8,0,0,0,1,2,41,9,62,43],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1a748594451cc6774accf878f228c306":[8,0,0,0,1,2,41,9,62,7],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a27b064b97aec890c5266f040a6655818":[8,0,0,0,1,2,41,9,62,31],
@@ -238,16 +249,5 @@ var NAVTREEINDEX384 =
 "de/d38/classspell__gen__select__target__count.html#a9c54508790062277c8275d2466e93fb3":[7,0,3149,5],
 "de/d38/classspell__gen__select__target__count.html#acdf5daa848ae185b859c45a1271df68c":[7,0,3149,4],
 "de/d39/TestCreature_8cpp.html":[8,0,0,0,2,1,7],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html":[8,0,0,0,2,2,0,10,4],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48":[8,0,0,0,2,2,0,10,4,10],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a42dbae4a1b1bebe552097cb6d7192996":[8,0,0,0,2,2,0,10,4,2],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a496682ab03245df2e7c1e539fe7a1b3c":[8,0,0,0,2,2,0,10,4,3],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a510139ca0dbe6b263f79cdf71e8f3104":[8,0,0,0,2,2,0,10,4,5],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a82bc87ae06a613c804e98c7f1584cebd":[8,0,0,0,2,2,0,10,4,9],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#a9dbad8c1ef4a5f8cd46f58762938ef28":[8,0,0,0,2,2,0,10,4,7],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#abc49b8d509a71311b8f4ab364e4da973":[8,0,0,0,2,2,0,10,4,1],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#aca644b360370337d76d0d1f955f4bf91":[8,0,0,0,2,2,0,10,4,6],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#ae32b028257e04cd926bd3c20a6a63a02":[8,0,0,0,2,2,0,10,4,8],
-"de/d3a/ExtraAttackChainProcTest_8cpp.html#ae45135f1555115aa04a957f7786ef8eb":[8,0,0,0,2,2,0,10,4,4],
-"de/d3a/classBIHWrap.html":[7,0,376]
+"de/d3a/ExtraAttackChainProcTest_8cpp.html":[8,0,0,0,2,2,0,10,4]
 };

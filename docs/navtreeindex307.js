@@ -1,5 +1,13 @@
 var NAVTREEINDEX307 =
 {
+"db/dae/npcs__special_8cpp.html#a26f214a9e4075769a6d8cb03748abfa2":[8,0,0,0,1,3,10,14,46],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432c":[8,0,0,0,1,3,10,14,62],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432ca189095ebcbe2f2b9afdf5062c1c726ab":[8,0,0,0,1,3,10,14,62,0],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432ca21fec3be037c16056b472f3b12e6e9b6":[8,0,0,0,1,3,10,14,62,4],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432ca73bff58c1722a33d5519fbcacf65b862":[8,0,0,0,1,3,10,14,62,2],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432ca91c61635f4747fafd97c80b7f9bcfd60":[8,0,0,0,1,3,10,14,62,1],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432caa892cb7e6d32d24c26730dcc234aba2f":[8,0,0,0,1,3,10,14,62,3],
+"db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432cacaede6ae298215c72f1c4acfe00d429a":[8,0,0,0,1,3,10,14,62,6],
 "db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432cadbda97c561737ec437461bb71782ab0b":[8,0,0,0,1,3,10,14,62,7],
 "db/dae/npcs__special_8cpp.html#a27735fdf2e9d4261367469b08020432caf0524fca22413f63cd3f0a06743311fb":[8,0,0,0,1,3,10,14,62,5],
 "db/dae/npcs__special_8cpp.html#a2955cca9df1e3f8faa105a79669676dc":[8,0,0,0,1,3,10,14,65],
@@ -241,13 +249,5 @@ var NAVTREEINDEX307 =
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5":[8,0,0,0,1,2,11,2,0],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028":[8,0,0,0,1,2,11,2,0,0],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[8,0,0,0,1,2,11,2,0,1],
-"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2],
-"db/db2/Chat_8cpp.html#ae39447b85bcee503ddb354d2950d638a":[8,0,0,0,1,2,11,2,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4090],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4090,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4090,0],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4090,1],
-"db/db4/SpellProcCooldownTest_8cpp.html":[8,0,0,0,2,2,0,10,16],
-"db/db4/SpellProcCooldownTest_8cpp.html#a370529a902674d7c3d85a958b68f014a":[8,0,0,0,2,2,0,10,16,4],
-"db/db4/SpellProcCooldownTest_8cpp.html#a46fee264bedefac5bf751dc80e5175ca":[8,0,0,0,2,2,0,10,16,3]
+"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2]
 };

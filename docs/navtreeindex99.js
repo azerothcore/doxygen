@@ -1,5 +1,10 @@
 var NAVTREEINDEX99 =
 {
+"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ac2e34b9a53ff55d177327ec95dca5466":[7,0,1845,0,4],
+"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#af056f3c12a314acd8a7e8c6c381b9436":[7,0,1845,0,1],
+"d3/d3d/classnpc__draenei__survivor.html":[7,0,1803],
+"d3/d3d/classnpc__draenei__survivor.html#a1dca668a7c3f868677a9bf306288430c":[7,0,1803,1],
+"d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[7,0,1803,2],
 "d3/d3e/PassiveAI_8cpp.html":[8,0,0,0,1,2,3,0,6],
 "d3/d3f/classspell__item__healing__trance.html":[7,0,3438],
 "d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[7,0,3438,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4d614127167d834cc9c354e5a00280dc":[8,0,0,0,1,2,49,7,0,212],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4e03ca04f6d5e405cc9a2c9de06b042f":[8,0,0,0,1,2,49,7,0,275],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4e08d7a99237eca93b49249611e159fc":[8,0,0,0,1,2,49,7,0,274],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4ea70b3902c7178b1f3a96b22287e289":[8,0,0,0,1,2,49,7,0,468],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4f80727a46dd9d42bbaddbdd35c9dcc5":[8,0,0,0,1,2,49,7,0,268],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba501104b2b8650c0152dccc4fafa5d399":[8,0,0,0,1,2,49,7,0,489],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5014e50b35dd52bbf5e7d00ed4c6fc14":[8,0,0,0,1,2,49,7,0,412],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba5109e02a6465d50bc124fd24d7840b17":[8,0,0,0,1,2,49,7,0,55],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba536b07b304d3f1cb103e21fdd4396967":[8,0,0,0,1,2,49,7,0,226]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4ea70b3902c7178b1f3a96b22287e289":[8,0,0,0,1,2,49,7,0,468]
 };

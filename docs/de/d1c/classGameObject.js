@@ -49,6 +49,8 @@ var classGameObject =
     [ "GetLootMode", "de/d1c/classGameObject.html#acf03d26cfd0914aefc207eae53c5ffcf", null ],
     [ "GetLootRecipient", "de/d1c/classGameObject.html#a5589f3d5c698241d265c6d6bbec91898", null ],
     [ "GetLootRecipientGroup", "de/d1c/classGameObject.html#a389a8a8b76ab14d0758bfb4093bcf007", null ],
+    [ "GetLootRecipientGroupGUID", "de/d1c/classGameObject.html#ab386485a79b7ac41ba767de03afe536d", null ],
+    [ "GetLootRecipientGUID", "de/d1c/classGameObject.html#a618db2716d9fbf23381adfcf9b8086e1", null ],
     [ "getLootState", "de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead", null ],
     [ "GetNameForLocaleIdx", "de/d1c/classGameObject.html#ab9e968195513dd7b0fcb777c6ee25cb5", null ],
     [ "GetOwner", "de/d1c/classGameObject.html#a08fe8b2e3a798c80f5ca914be099b75d", null ],

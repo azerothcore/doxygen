@@ -1,5 +1,13 @@
 var NAVTREEINDEX314 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba946cf2ea381d689ffcef19f0a24a835f":[8,0,0,0,1,3,2,30,33,0],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bab9bf0eb9d1355ba598d6bcca86c3cc16":[8,0,0,0,1,3,2,30,33,6],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bac2d30da7b378ca6e232c2578d3456ce6":[8,0,0,0,1,3,2,30,33,3],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bacc6d33f1c0ebf1a434ff8d445570c028":[8,0,0,0,1,3,2,30,33,1],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bafb3b3ff0c180c391669df10af2f84672":[8,0,0,0,1,3,2,30,33,2],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a86bbb652876f394aaca15b4ed6e2bfa7":[8,0,0,0,1,3,2,30,41],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887ea":[8,0,0,0,1,3,2,30,24],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa3ba8bf7b86ad4ae22520569c02c7c66b":[8,0,0,0,1,3,2,30,24,0],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982":[8,0,0,0,1,3,2,30,24,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a946fafe9c84bca2b2b604d0729ca6bf7":[8,0,0,0,1,3,2,30,43],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a97df4b07a8686c29a9700c8d11af35e3":[8,0,0,0,1,3,2,30,38],
@@ -235,19 +243,11 @@ var NAVTREEINDEX314 =
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[7,0,2844,2],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[7,0,923],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,923,0],
-"db/ddb/classTaskContext.html":[7,0,4562],
-"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[7,0,4562,20],
-"db/ddb/classTaskContext.html#a0cac55da6d10d0a74c9f83689d028174":[7,0,4562,28],
-"db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda":[7,0,4562,23],
-"db/ddb/classTaskContext.html#a40aa7f8f29b300c5252ffd23c7e1632f":[7,0,4562,4],
-"db/ddb/classTaskContext.html#a47b03e1428d2b3df88a0664b93b0debc":[7,0,4562,17],
-"db/ddb/classTaskContext.html#a5c5bc5a317527f3dbc496e6e5a873505":[7,0,4562,14],
-"db/ddb/classTaskContext.html#a5c856d7c07fe8058ff53d35ccfb9b677":[7,0,4562,31],
-"db/ddb/classTaskContext.html#a686aee457802bc71b6560549c13239c9":[7,0,4562,24],
-"db/ddb/classTaskContext.html#a6aa85817c2bf7c7f2f868d4a0a9fdf98":[7,0,4562,6],
-"db/ddb/classTaskContext.html#a6dbb5d52d6e3d4a0f173fa23ccb80b25":[7,0,4562,3]
+"db/ddb/classTaskContext.html":[7,0,4560],
+"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[7,0,4560,20],
+"db/ddb/classTaskContext.html#a0cac55da6d10d0a74c9f83689d028174":[7,0,4560,28]
 };

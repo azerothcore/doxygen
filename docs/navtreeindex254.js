@@ -1,5 +1,13 @@
 var NAVTREEINDEX254 =
 {
+"d9/d83/structboss__freya__elder__stonebark.html#a5d88a59b9c98981c3f7f049701fc76e3":[7,0,496,8],
+"d9/d83/structboss__freya__elder__stonebark.html#a913cd147d5a88189e183d817357946e3":[7,0,496,6],
+"d9/d83/structboss__freya__elder__stonebark.html#ac1edb11c975123a59bc4099acdefcd0f":[7,0,496,5],
+"d9/d83/structboss__freya__elder__stonebark.html#ad379afe772ff29d689bc763786d28793":[7,0,496,0],
+"d9/d83/structboss__freya__elder__stonebark.html#adc75d1735bc32fad8cad2abf4d8712fa":[7,0,496,7],
+"d9/d83/structboss__freya__elder__stonebark.html#ae10b5a8a477107432cbcc93c4da9c3ec":[7,0,496,4],
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html":[7,0,1866,0],
+"d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a20d1087e59daae9189d78f04ea2b2d05":[7,0,1866,0,3],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a79f6703107eed52a3aeae30393507c0f":[7,0,1866,0,1],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#a8567f936dd15933300497d5abe80a272":[7,0,1866,0,2],
 "d9/d83/structnpc__giant__spotlight_1_1npc__giant__spotlightAI.html#ae0f6686aaeacafce193e0d4590cf8c09":[7,0,1866,0,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX254 =
 "d9/d88/classspell__pal__sheath__of__light.html":[7,0,3806],
 "d9/d88/classspell__pal__sheath__of__light.html#a0cdb80ee885922a9a38c0e2bea4d33af":[7,0,3806,4],
 "d9/d88/classspell__pal__sheath__of__light.html#a14978c8908b7a928459c2f6ef9adfac2":[7,0,3806,0],
-"d9/d88/classspell__pal__sheath__of__light.html#ab63e1f31dbc34dd2f44a6771631a2330":[7,0,3806,2],
-"d9/d88/classspell__pal__sheath__of__light.html#ac888d49403a03aaf9a37432c3c119241":[7,0,3806,1],
-"d9/d88/classspell__pal__sheath__of__light.html#ad88268da8fae421f76a5e644aae6b296":[7,0,3806,3],
-"d9/d88/structCreatureTypeEntry.html":[7,0,973],
-"d9/d88/structCreatureTypeEntry.html#a27cfc07c5aa7efe7a6f0cb62ea691f81":[7,0,973,0],
-"d9/d89/classspellIdImmunityPredicate.html":[7,0,4481],
-"d9/d89/classspellIdImmunityPredicate.html#a04893e34d418a0649d51dfa82b559d9c":[7,0,4481,0],
-"d9/d89/classspellIdImmunityPredicate.html#a125dfe727d668b5b9820adf1f7f0e0a8":[7,0,4481,2],
-"d9/d89/classspellIdImmunityPredicate.html#ae97afff7a6b3ea5dca917d3dbb9ef818":[7,0,4481,1]
+"d9/d88/classspell__pal__sheath__of__light.html#ab63e1f31dbc34dd2f44a6771631a2330":[7,0,3806,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX144 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a78c3bbfe421021d09dffa373ae62d989":[7,0,117,41],
+"d4/dd8/structAchievementCriteriaData.html#a790bccf5883fe54644b67a73e04d8016":[7,0,117,20],
+"d4/dd8/structAchievementCriteriaData.html#a7acf5ce2d114a00214de07116a21c447":[7,0,117,0],
+"d4/dd8/structAchievementCriteriaData.html#a7e47d759d0cc706a7b67eace6cd82485":[7,0,117,31],
+"d4/dd8/structAchievementCriteriaData.html#a9029e88777efe6c636fb8d6715ea4bab":[7,0,117,30],
 "d4/dd8/structAchievementCriteriaData.html#a9c9fdbf81e4e58b2fdda1016c98f15d9":[7,0,117,18],
 "d4/dd8/structAchievementCriteriaData.html#aa1fb52f0c05d2dc2ac0e1da7f0a7cd9e":[7,0,117,37],
 "d4/dd8/structAchievementCriteriaData.html#aa4f5aff62455a5e6383fda3d0e684328":[7,0,117,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX144 =
 "d4/dde/structboss__xt002.html#a6faa25629e12a242b38eec74e434ed16":[7,0,800,5],
 "d4/dde/structboss__xt002.html#a756db24bed94e455ed0576c2b5261afd":[7,0,800,20],
 "d4/dde/structboss__xt002.html#a7ae6062be8330b21296b05720fe7b99a":[7,0,800,6],
-"d4/dde/structboss__xt002.html#a7c2c48a83f48107f2beee753f1fcc6b8":[7,0,800,12],
-"d4/dde/structboss__xt002.html#a97470dbcc43d0f98fda4fcb9a70bb296":[7,0,800,9],
-"d4/dde/structboss__xt002.html#aa94cf49381e47338d1b2cfeebc2ec92c":[7,0,800,7],
-"d4/dde/structboss__xt002.html#ab26314d28056446e206d3839a5badff7":[7,0,800,4],
-"d4/dde/structboss__xt002.html#ac4ae43822c935c3ce1820bdc96d6ed2b":[7,0,800,15],
-"d4/dde/structboss__xt002.html#ad2ad9c50ebad8b23c08818cd7c7b88e1":[7,0,800,11]
+"d4/dde/structboss__xt002.html#a7c2c48a83f48107f2beee753f1fcc6b8":[7,0,800,12]
 };

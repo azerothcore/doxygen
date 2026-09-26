@@ -6,7 +6,7 @@ var classRoll =
     [ "getLoot", "d5/d0a/classRoll.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
     [ "setLoot", "d5/d0a/classRoll.html#a34869ee15d87708859cd51262ad160fc", null ],
     [ "targetObjectBuildLink", "d5/d0a/classRoll.html#a2dc422a05158521f857caf7dce005f72", null ],
-    [ "itemCount", "d5/d0a/classRoll.html#a7c98449785629933a0e5e8bee7deb272", null ],
+    [ "itemCount", "d5/d0a/classRoll.html#a5fd409d3f3748d38aefc9731544e7257", null ],
     [ "itemGUID", "d5/d0a/classRoll.html#af4877388e7efe95452541a3d2788fa7f", null ],
     [ "itemid", "d5/d0a/classRoll.html#a7b40118e2d489177a268301636b9994f", null ],
     [ "itemRandomPropId", "d5/d0a/classRoll.html#a5154a19624a6e0d9657a697f9b235491", null ],
