@@ -3578,6 +3578,7 @@ var hierarchy =
       [ "PreparedStatement< T >", "d7/d0f/classPreparedStatement.html", null ]
     ] ],
     [ "PreparedStatementData", "d1/d2a/structPreparedStatementData.html", null ],
+    [ "PreviousSessionInfo", "d1/d41/structPreviousSessionInfo.html", null ],
     [ "ProcChainGuardSimulator", "df/d64/classProcChainGuardSimulator.html", null ],
     [ "ProcChanceTestHelper", "db/db8/classProcChanceTestHelper.html", null ],
     [ "ProcEventInfo", "d0/dde/classProcEventInfo.html", null ],
@@ -4610,6 +4611,7 @@ var hierarchy =
     [ "ServerMailMgr", "dd/d59/classServerMailMgr.html", null ],
     [ "ServerPktHeader", "d6/d13/structServerPktHeader.html", null ],
     [ "SessionKeyGenerator< Hash >", "de/d8f/classSessionKeyGenerator.html", null ],
+    [ "SessionOutcome", "db/d34/structSessionOutcome.html", null ],
     [ "SeveredEssenceSpellInfo", "d5/db9/classSeveredEssenceSpellInfo.html", null ],
     [ "SFMTRand", "d1/d48/classSFMTRand.html", null ],
     [ "ShadowOfDeathSelector", "d9/d34/structShadowOfDeathSelector.html", null ],

@@ -2,6 +2,7 @@ var classserver__commandscript =
 [
     [ "server_commandscript", "dc/d9f/classserver__commandscript.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
     [ "GetCommands", "dc/d9f/classserver__commandscript.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "GetShutdownTypeString", "dc/d9f/classserver__commandscript.html#a3386a15e6f0f71212402a4470b253895", null ],
     [ "HandleServerCorpsesCommand", "dc/d9f/classserver__commandscript.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
     [ "HandleServerDebugCommand", "dc/d9f/classserver__commandscript.html#ac78145cb5c0888449756e4dbb36c005f", null ],
     [ "HandleServerExitCommand", "dc/d9f/classserver__commandscript.html#ab894b36baa95de647fb329fce6eed8fb", null ],
@@ -15,5 +16,6 @@ var classserver__commandscript =
     [ "HandleServerSetMotdCommand", "dc/d9f/classserver__commandscript.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
     [ "HandleServerSetSecurityCommand", "dc/d9f/classserver__commandscript.html#aa2057e6a08f0bfd355aec0abf75d7c3f", null ],
     [ "HandleServerShutDownCancelCommand", "dc/d9f/classserver__commandscript.html#ae64357518538c1ce4d03a8d9968b4035", null ],
-    [ "HandleServerShutDownCommand", "dc/d9f/classserver__commandscript.html#a514149a8d1dfc4513e0c71b69901767d", null ]
+    [ "HandleServerShutDownCommand", "dc/d9f/classserver__commandscript.html#a514149a8d1dfc4513e0c71b69901767d", null ],
+    [ "SendPreviousSessionInfo", "dc/d9f/classserver__commandscript.html#a0277b58c346af3b173cdab9e711e1eb1", null ]
 ];

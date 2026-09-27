@@ -1,5 +1,8 @@
 var NAVTREEINDEX13 =
 {
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a01912c7c4028db13d5f1095fce477908":[8,0,0,0,1,3,5,9,2,11,20,57],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0347a8d89f24e030b2bf2f6309992de9":[8,0,0,0,1,3,5,9,2,11,20,14],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a074b702ae99198e6bb4c840144bb0372":[8,0,0,0,1,3,5,9,2,11,20,42],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0755e10515b4b90b2d81da1b416da271":[8,0,0,0,1,3,5,9,2,11,20,24],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a079fdbedeb449ce76d26fa93301be553":[8,0,0,0,1,3,5,9,2,11,20,40],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0a80478ad8e7cc8360bb5fc47d26149c":[8,0,0,0,1,3,5,9,2,11,20,28],
@@ -231,11 +234,11 @@ var NAVTREEINDEX13 =
 "d0/d8c/classnpc__mistress__of__pain.html":[7,0,2025],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[7,0,2025,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[7,0,2025,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3638],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3638,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a4ec8eb1000a32fe3909e0ce32f5a83cd":[7,0,3638,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3638,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3638,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3640],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3640,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a4ec8eb1000a32fe3909e0ce32f5a83cd":[7,0,3640,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3640,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3640,3],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html":[7,0,1743,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a0732307643a442bc3f070b9cc91d78c9":[7,0,1743,0,4],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a2ed09d31771e9c225d8d8b40ba8f0f82":[7,0,1743,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX13 =
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a8177ed5bc5fd54b98f2f36c9389b8099":[7,0,1743,0,9],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a84beab3be0d7e5d5d3674a57b1928f09":[7,0,1743,0,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a907626beb601f789a725d88d45689eb2":[7,0,1743,0,7],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[7,0,1743,0,10],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#afa7fce3a9cccfcc7b088e72df9f312a4":[7,0,1743,0,5],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html":[7,0,1731,0],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[7,0,1731,0,2]
+"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[7,0,1743,0,10]
 };

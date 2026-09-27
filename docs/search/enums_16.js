@@ -20,7 +20,7 @@ var searchData=
   ['waterelementalpathids_17',['WaterElementalPathIds',['../d7/dba/boss__hydross__the__unstable_8cpp.html#afcc5e0865e6ec38509578afd6dd93dd8',1,'boss_hydross_the_unstable.cpp']]],
   ['waterterror_18',['WaterTerror',['../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081',1,'zone_icecrown.cpp']]],
   ['waypointmovetype_19',['WaypointMoveType',['../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863',1,'WaypointDefines.h']]],
-  ['waypoints_20',['Waypoints',['../da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54',1,'zulaman.cpp']]],
+  ['waypoints_20',['waypoints',['../da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54',1,'Waypoints:&#160;zulaman.cpp'],['../d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515df',1,'Waypoints:&#160;boss_onyxia.cpp']]],
   ['weapon_21',['Weapon',['../d3/db0/boss__arlokk_8cpp.html#ad9700e9db9d62004af4a04e4e13912c5',1,'boss_arlokk.cpp']]],
   ['weaponattacktype_22',['WeaponAttackType',['../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352',1,'Unit.h']]],
   ['weapondamagerange_23',['WeaponDamageRange',['../d1/daf/Unit_8h.html#a4961ced707837d09157e8296ab8a2507',1,'Unit.h']]],

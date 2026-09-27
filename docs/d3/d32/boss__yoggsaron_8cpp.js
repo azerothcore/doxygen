@@ -297,11 +297,9 @@ var boss__yoggsaron_8cpp =
     ] ],
     [ "AddSC_boss_yoggsaron", "d3/d32/boss__yoggsaron_8cpp.html#a1d921e98e5be4d4d399cc5b1401c5d10", null ],
     [ "ApplyEmpoweredStacks", "d3/d32/boss__yoggsaron_8cpp.html#ab2ed262ea67008c537678a5e8433d22f", null ],
-    [ "GossipKeepersPos", "d3/d32/boss__yoggsaron_8cpp.html#a655187d10949d0652e41a036f5f10b81", null ],
     [ "KeepersPos", "d3/d32/boss__yoggsaron_8cpp.html#a8c07356d9b21bb80237c513d277112c3", null ],
     [ "Middle", "d3/d32/boss__yoggsaron_8cpp.html#a40748663b5ac87efa1a03300b56a5f2f", null ],
     [ "SanityWellsPos", "d3/d32/boss__yoggsaron_8cpp.html#a6fc5a6dc0f00185fb8c0669071b98c1a", null ],
-    [ "TABLE_GOSSIP_ENTRY", "d3/d32/boss__yoggsaron_8cpp.html#a1f36aa5da591928c5859e94bfc665ae2", null ],
     [ "TABLE_KEEPER_ENTRY", "d3/d32/boss__yoggsaron_8cpp.html#a33c715771c98c52ca6e93a6c63582494", null ],
     [ "yoggPortalLoc", "d3/d32/boss__yoggsaron_8cpp.html#a24e97d868d452de43fd8267549dd8dc2", null ]
 ];

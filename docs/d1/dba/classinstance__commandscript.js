@@ -1,7 +1,9 @@
 var classinstance__commandscript =
 [
     [ "instance_commandscript", "d1/dba/classinstance__commandscript.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetBossName", "d1/dba/classinstance__commandscript.html#ad43fc6c424433ec6ad058b19bd081ff4", null ],
     [ "GetCommands", "d1/dba/classinstance__commandscript.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "GetEncounterNames", "d1/dba/classinstance__commandscript.html#ae1c2d4f20494465d73b2cc9e780d234d", null ],
     [ "HandleInstanceGetBossStateCommand", "d1/dba/classinstance__commandscript.html#a0530ca6481073d6bafd11596546140b0", null ],
     [ "HandleInstanceListBindsCommand", "d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233", null ],
     [ "HandleInstanceSaveDataCommand", "d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416", null ],

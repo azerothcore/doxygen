@@ -61,5 +61,6 @@ var classmisc__commandscript =
     [ "HandleUnFreezeCommand", "d9/d4d/classmisc__commandscript.html#af18039cb343286cf2f510b5d75ed500e", null ],
     [ "HandleUnmuteCommand", "d9/d4d/classmisc__commandscript.html#aa5417df78cdd5adc8b55e0ab276858e0", null ],
     [ "HandleUnPossessCommand", "d9/d4d/classmisc__commandscript.html#aa815be4c109311b571f2a1408691f5a3", null ],
-    [ "HandleUnstuckCommand", "d9/d4d/classmisc__commandscript.html#a2a7c311cf73af55543e7cab409acdb09", null ]
+    [ "HandleUnstuckCommand", "d9/d4d/classmisc__commandscript.html#a2a7c311cf73af55543e7cab409acdb09", null ],
+    [ "SendRemoveItemResult", "d9/d4d/classmisc__commandscript.html#a324a5b58ae0162f7c0718cc1f3a4d1c8", null ]
 ];

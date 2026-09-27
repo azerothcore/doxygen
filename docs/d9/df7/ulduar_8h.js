@@ -68,7 +68,6 @@ var ulduar_8h =
       [ "DATA_UNIVERSE_GLOBE", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acec1edac7a5f12066ff1eece952bcbb7", null ],
       [ "DATA_ALGALON_TRAPDOOR", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aea1a5384904e05f25e9f0c76b17532f3", null ],
       [ "DATA_BRANN_BRONZEBEARD_ALG", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aa4aae50a6c3aac87426550b4c536ddc6", null ],
-      [ "DATA_RESUMMON_ALGALON", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2af1d8fc3d1385af1516bddafcb7972106", null ],
       [ "DATA_DWARFAGEDDON", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acf1fb682eb9a04679d941e02b7bfd470", null ],
       [ "DATA_QUICK_SHAVE", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a796be4d4322b9e299863f5b0bbda4152", null ],
       [ "DATA_IRON_DWARF_MEDIUM_RARE", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a61c67010d885160beb480f6888917af0", null ],

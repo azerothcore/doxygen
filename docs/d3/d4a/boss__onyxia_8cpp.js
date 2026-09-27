@@ -48,7 +48,6 @@ var boss__onyxia_8cpp =
       [ "SPELL_TAILSWEEP", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cabddf8f08dbd8333ba566b5c4bd7d4a43", null ],
       [ "SPELL_FIREBALL", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963", null ],
       [ "SPELL_BELLOWINGROAR", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca388e680e928ba71900f3c7ee352d9afe", null ],
-      [ "SPELL_SUMMON_WHELP", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca45e5e34fed5331031a15d77b4fa54a3b", null ],
       [ "SPELL_SUMMON_LAIR_GUARD", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca8f8fb73b5b16b668ff27ecf036fe7137", null ],
       [ "SPELL_ERUPTION", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cad3aa09e162c24d71e623d266ac02a9e7", null ],
       [ "SPELL_OLG_BLASTNOVA", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca108118b8cfda84f3d1896834dd1b2644", null ],
@@ -61,6 +60,12 @@ var boss__onyxia_8cpp =
       [ "SPELL_BREATH_NW_TO_SE", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cad1840b2895f169a5ff88ecb077208260", null ],
       [ "SPELL_BREATH_SW_TO_NE", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cacd57e0b0afcf15c92b43598a8e1ef24a", null ],
       [ "SPELL_BREATH_NE_TO_SW", "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca133b596d1ec96015bb1535dd747f9802", null ]
+    ] ],
+    [ "Waypoints", "d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515df", [
+      [ "WP_GROUND_SOUTH", "d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515dfa337388879e1e98cf42f0009646e2ed8b", null ],
+      [ "WP_SOUTH", "d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515dfa35a14f6d4a38efc27cd294f7f20edae9", null ],
+      [ "WP_NORTH", "d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515dfa1d509a5655b1b3ce61499888db75fc51", null ],
+      [ "WP_SOUTH_EAST", "d3/d4a/boss__onyxia_8cpp.html#a60cfbb8f9643d99f4d4d64925bc515dfaaeded01f07dfaeb25344fdd1840100d0", null ]
     ] ],
     [ "Yells", "d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
