@@ -16,7 +16,7 @@ var onyxias__lair_8h =
     [ "CreatureIds", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963e", [
       [ "NPC_ONYXIA", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eac5297157e46436388d2a4e835c06de6e", null ],
       [ "NPC_ONYXIAN_WHELP", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea29f399e186a17314b99be364d738371a", null ],
-      [ "NPC_ONYXIA_TRIGGER", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea26d33beda386437c9d6cdea87fa0b12a", null ],
+      [ "NPC_WORLD_TRIGGER", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963ea2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ONYXIAN_LAIR_GUARD", "d3/ddf/onyxias__lair_8h.html#a92f6fd626e1834a4cc509efc1186963eac5a305bf78c6e737c665da793df48e49", null ]
     ] ],
     [ "DataTypes", "d3/ddf/onyxias__lair_8h.html#afb6eb4f28419b652027fad41104a6d22", [
@@ -26,7 +26,8 @@ var onyxias__lair_8h =
       [ "DATA_DEEP_BREATH_FAILED", "d3/ddf/onyxias__lair_8h.html#afb6eb4f28419b652027fad41104a6d22a3678a84e6e3ed1c831e230a816a5475d", null ]
     ] ],
     [ "GameObjectIds", "d3/ddf/onyxias__lair_8h.html#a57d2d4154291532e405ab880a40a999f", [
-      [ "GO_WHELP_SPAWNER", "d3/ddf/onyxias__lair_8h.html#a57d2d4154291532e405ab880a40a999fadf4548283b784850a8154cefa0fd360d", null ]
+      [ "GO_WHELP_SPAWNER", "d3/ddf/onyxias__lair_8h.html#a57d2d4154291532e405ab880a40a999fadf4548283b784850a8154cefa0fd360d", null ],
+      [ "GO_ONYXIA_EGG", "d3/ddf/onyxias__lair_8h.html#a57d2d4154291532e405ab880a40a999fa9d99529e25fcbd336fa69a6a99af39f6", null ]
     ] ],
     [ "SharedSpells", "d3/ddf/onyxias__lair_8h.html#ae4513ae49ac93cd63ad275f12e160d09", [
       [ "SPELL_SUMMON_WHELP", "d3/ddf/onyxias__lair_8h.html#ae4513ae49ac93cd63ad275f12e160d09a45e5e34fed5331031a15d77b4fa54a3b", null ]
