@@ -1,5 +1,7 @@
 var NAVTREEINDEX59 =
 {
+"d2/d48/classChannel.html#a12cdbead7d6224377be81a11307a2255":[7,0,869,104],
+"d2/d48/classChannel.html#a172b04356400bf92570d19cc0998c0ee":[7,0,869,99],
 "d2/d48/classChannel.html#a1762ce6425d268b8d99707138d094ded":[7,0,869,37],
 "d2/d48/classChannel.html#a19f17edeca27916930283234c74af60b":[7,0,869,50],
 "d2/d48/classChannel.html#a1bb73846d3ed451337d174ad2b97516a":[7,0,869,35],
@@ -111,14 +113,14 @@ var NAVTREEINDEX59 =
 "d2/d48/classspell__fungal__decay.html#a6189a5ea90b1951b21a7e9ef36700ed9":[7,0,3015,0],
 "d2/d48/classspell__fungal__decay.html#acfa6b5217a0e0e2654b7fa9c4092abd5":[7,0,3015,2],
 "d2/d48/classspell__fungal__decay.html#adddddd0689f4686a40b1db142b5d6ce2":[7,0,3015,3],
-"d2/d48/classspell__illidan__shadow__prison.html":[7,0,3353],
-"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[7,0,3353,2],
-"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3353,0],
-"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3353,1],
-"d2/d48/classspell__item__anti__venom.html":[7,0,3374],
-"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3374,2],
-"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3374,0],
-"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3374,1],
+"d2/d48/classspell__illidan__shadow__prison.html":[7,0,3354],
+"d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[7,0,3354,2],
+"d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[7,0,3354,0],
+"d2/d48/classspell__illidan__shadow__prison.html#ae8f3906007580963bda33cd0e420299b":[7,0,3354,1],
+"d2/d48/classspell__item__anti__venom.html":[7,0,3375],
+"d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[7,0,3375,2],
+"d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[7,0,3375,0],
+"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[7,0,3375,1],
 "d2/d48/structFactionState.html":[7,0,1070],
 "d2/d48/structFactionState.html#a052caeeae1ecdca831097591e0fddaf6":[7,0,1070,4],
 "d2/d48/structFactionState.html#a287fe9e8ec5da58ae3f5096045eebf31":[7,0,1070,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#a15f61ac6c3892e62c6a57153fe351902":[7,0,2445,609],
 "d2/d4b/classPlayer.html#a162791b0c680a9ce73e623d317f5519a":[7,0,2445,738],
 "d2/d4b/classPlayer.html#a162c04159ca13dd0822a7f1a68b0d978":[7,0,2445,1313],
-"d2/d4b/classPlayer.html#a166e763b3ee514c7bf1ba4303acfef6b":[7,0,2445,1090],
-"d2/d4b/classPlayer.html#a1677bb43ab6dc6675bbc278b8b8b8478":[7,0,2445,1264],
-"d2/d4b/classPlayer.html#a16af0566ddd1026a464ba101b2453a42":[7,0,2445,344]
+"d2/d4b/classPlayer.html#a166e763b3ee514c7bf1ba4303acfef6b":[7,0,2445,1090]
 };

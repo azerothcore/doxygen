@@ -3812,6 +3812,7 @@ var annotated_dup =
     [ "spell_hodir_storm_cloud_aura", "d8/d80/classspell__hodir__storm__cloud__aura.html", "d8/d80/classspell__hodir__storm__cloud__aura" ],
     [ "spell_hodir_storm_power_aura", "d8/de2/classspell__hodir__storm__power__aura.html", "d8/de2/classspell__hodir__storm__power__aura" ],
     [ "spell_hodir_toasty_fire_aura", "d0/d17/classspell__hodir__toasty__fire__aura.html", "d0/d17/classspell__hodir__toasty__fire__aura" ],
+    [ "spell_hookshot", "d9/d5c/classspell__hookshot.html", "d9/d5c/classspell__hookshot" ],
     [ "spell_hookshot_aura", "d1/dab/classspell__hookshot__aura.html", "d1/dab/classspell__hookshot__aura" ],
     [ "spell_hor_gunship_cannon_fire_aura", "d3/d23/classspell__hor__gunship__cannon__fire__aura.html", "d3/d23/classspell__hor__gunship__cannon__fire__aura" ],
     [ "spell_hor_shared_suffering_aura", "dc/d1c/classspell__hor__shared__suffering__aura.html", "dc/d1c/classspell__hor__shared__suffering__aura" ],

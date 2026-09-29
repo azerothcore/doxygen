@@ -3,6 +3,7 @@ var structboss__flame__leviathan__defense__turret =
     [ "boss_flame_leviathan_defense_turret", "d1/da9/structboss__flame__leviathan__defense__turret.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
     [ "CanAIAttack", "d1/da9/structboss__flame__leviathan__defense__turret.html#a17020dc7facabb0cacac3209277a73f7", null ],
     [ "DamageTaken", "d1/da9/structboss__flame__leviathan__defense__turret.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "EnterEvadeMode", "d1/da9/structboss__flame__leviathan__defense__turret.html#aeb9fe92f81b3734512106aa73c983a35", null ],
     [ "JustDied", "d1/da9/structboss__flame__leviathan__defense__turret.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
     [ "JustEnteredCombat", "d1/da9/structboss__flame__leviathan__defense__turret.html#a3e31c489f5bb4928cb9a3bc996940cd1", null ],
     [ "KilledUnit", "d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],

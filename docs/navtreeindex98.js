@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e":[8,0,0,0,1,3,5,9,2,13,52,20],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9aa8082d2cca5849c4c7379cba168818":[8,0,0,0,1,3,5,9,2,13,52,38],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061":[8,0,0,0,1,3,5,9,2,13,52,61],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aa641554ba74a9505ef793021405c568c":[8,0,0,0,1,3,5,9,2,13,52,73],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aa72ede58fa3714726fab8d4b7252f5fa":[8,0,0,0,1,3,5,9,2,13,52,52],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d37/classspell__azjol__nerub__pound.html":[7,0,2704],
 "d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[7,0,2704,2],
 "d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[7,0,2704,1],
-"d3/d37/classspell__azjol__nerub__pound.html#aeddfd61eab5aa077ca07a924ec491285":[7,0,2704,0],
-"d3/d39/structboss__quartermaster__zigris.html":[7,0,680],
-"d3/d39/structboss__quartermaster__zigris.html#a1d2f68327cc9b88fdd82d44ac8446d57":[7,0,680,0]
+"d3/d37/classspell__azjol__nerub__pound.html#aeddfd61eab5aa077ca07a924ec491285":[7,0,2704,0]
 };

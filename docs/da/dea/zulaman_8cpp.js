@@ -12,7 +12,6 @@ var zulaman_8cpp =
     [ "spell_alert_drums", "d1/d16/classspell__alert__drums.html", "d1/d16/classspell__alert__drums" ],
     [ "spell_summon_amanishi_sentries", "dc/d93/classspell__summon__amanishi__sentries.html", "dc/d93/classspell__summon__amanishi__sentries" ],
     [ "spell_call_of_the_beast", "d1/d77/classspell__call__of__the__beast.html", "d1/d77/classspell__call__of__the__beast" ],
-    [ "GOSSIP_HOSTAGE1", "da/dea/zulaman_8cpp.html#a7e5907213ed023454f786158e3b1f388", null ],
     [ "Actions", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_COMPLETE_GONG_RITUAL", "da/dea/zulaman_8cpp.html#a250372292659bed7ae290d8621f88ccfa0fd6958fdb6b383ab8afdd359422f564", null ]
     ] ],
@@ -102,6 +101,9 @@ var zulaman_8cpp =
     [ "Weapons", "da/dea/zulaman_8cpp.html#a2e238758e72da0491a67935310819213", [
       [ "WEAPON_MACE", "da/dea/zulaman_8cpp.html#a2e238758e72da0491a67935310819213a04e45ecea3ef465355a83bc8a34b9ac1", null ],
       [ "WEAPON_SPEAR", "da/dea/zulaman_8cpp.html#a2e238758e72da0491a67935310819213a704a5913fca77f96bb989586de4d5140", null ]
+    ] ],
+    [ "ZulAmanHostage", "da/dea/zulaman_8cpp.html#ad98f4957ccb5672a04a0ba94b12b426a", [
+      [ "GOSSIP_OPTION_HOSTAGE_FREE", "da/dea/zulaman_8cpp.html#ad98f4957ccb5672a04a0ba94b12b426aaa31a937409adc3745292577947f6ae20", null ]
     ] ],
     [ "AddSC_zulaman", "da/dea/zulaman_8cpp.html#a7a3a1617870dd5be1d8b53b0050691dc", null ],
     [ "IsDrum", "da/dea/zulaman_8cpp.html#ac3d86ae5eeaa7565d388a40e507d49fd", null ],

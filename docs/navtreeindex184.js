@@ -1,5 +1,9 @@
 var NAVTREEINDEX184 =
 {
+"d6/d6e/structboss__sartura.html#a8ad40cee9667500cb0e9533256d216c6":[7,0,704,8],
+"d6/d6e/structboss__sartura.html#a9a404743ac8491a9efc7091259706e0f":[7,0,704,1],
+"d6/d6e/structboss__sartura.html#ab1c024908117e8460eb89c062d3825dc":[7,0,704,4],
+"d6/d6e/structboss__sartura.html#ab3514ad48f622f65d67063723601f8de":[7,0,704,6],
 "d6/d6e/structboss__sartura.html#aceff44022b8d53da41ecfcb1e2317e01":[7,0,704,3],
 "d6/d6e/structboss__sartura.html#ae86d0a6b0cd591b3bb18333195109c22":[7,0,704,2],
 "d6/d6e/structboss__sartura.html#af3d093dab3f5191d5da2df36ca9c4a11":[7,0,704,7],
@@ -45,12 +49,12 @@ var NAVTREEINDEX184 =
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268ab880b5422c06b07d0fa432477a8d35de":[8,0,0,0,1,3,4,1,0,5,11,1],
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268aca4e959e2a5577e0cae9ab870fa0a2a7":[8,0,0,0,1,3,4,1,0,5,11,2],
 "d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268af3cde70bd611fd1ce40966c846f93e96":[8,0,0,0,1,3,4,1,0,5,11,4],
-"d6/d70/classspell__item__socrethars__stone.html":[7,0,3508],
-"d6/d70/classspell__item__socrethars__stone.html#a3bf16100687a002a0d3b95bea11dc90f":[7,0,3508,1],
-"d6/d70/classspell__item__socrethars__stone.html#a4698eab378b8cf6d4aeb595b53a9df13":[7,0,3508,3],
-"d6/d70/classspell__item__socrethars__stone.html#a8586b480a304f19741de62b606c9f456":[7,0,3508,2],
-"d6/d70/classspell__item__socrethars__stone.html#ab3e697ba71654bf9b67e1d1660b3a7ea":[7,0,3508,4],
-"d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca":[7,0,3508,0],
+"d6/d70/classspell__item__socrethars__stone.html":[7,0,3509],
+"d6/d70/classspell__item__socrethars__stone.html#a3bf16100687a002a0d3b95bea11dc90f":[7,0,3509,1],
+"d6/d70/classspell__item__socrethars__stone.html#a4698eab378b8cf6d4aeb595b53a9df13":[7,0,3509,3],
+"d6/d70/classspell__item__socrethars__stone.html#a8586b480a304f19741de62b606c9f456":[7,0,3509,2],
+"d6/d70/classspell__item__socrethars__stone.html#ab3e697ba71654bf9b67e1d1660b3a7ea":[7,0,3509,4],
+"d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca":[7,0,3509,0],
 "d6/d71/classboss__meathook.html":[7,0,631],
 "d6/d71/classboss__meathook.html#a044c8ec4a419e5c5a8b290df9c0ad169":[7,0,631,1],
 "d6/d71/classboss__meathook.html#ae8ee3631ff1f80f4fad99e4eca042ad8":[7,0,631,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d79/classOPvPCapturePoint.html#abfc98c11a311a094fa6f3e3a60c4d716":[7,0,2374,14],
 "d6/d79/classOPvPCapturePoint.html#ac3ed6a7323dc5d369135778fd68a7137":[7,0,2374,44],
 "d6/d79/classOPvPCapturePoint.html#ad41ad9b5db99be93435ddbf1bc9377d2":[7,0,2374,38],
-"d6/d79/classOPvPCapturePoint.html#ada5de9d6309ca48f77a1be61033fe9d4":[7,0,2374,15],
-"d6/d79/classOPvPCapturePoint.html#adc968f6934c72d739311599fc0507664":[7,0,2374,12],
-"d6/d79/classOPvPCapturePoint.html#af0783cf541490ac2f3d57890bfe56e0a":[7,0,2374,1],
-"d6/d79/classOPvPCapturePoint.html#af2005ba5ee09922c40445e63d8e738ae":[7,0,2374,3],
-"d6/d79/classOPvPCapturePoint.html#af248138232871c9f7c207644631ee77e":[7,0,2374,25]
+"d6/d79/classOPvPCapturePoint.html#ada5de9d6309ca48f77a1be61033fe9d4":[7,0,2374,15]
 };

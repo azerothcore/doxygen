@@ -1,5 +1,9 @@
 var NAVTREEINDEX181 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daa05bbd13b7b5bacc03c1305d572d1acb":[8,0,0,0,1,2,7,0,1,17,8],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daae834a356f2fdf660c497c266ebdab4f":[8,0,0,0,1,2,7,0,1,17,23],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daaf8d3e346bcc814898919edfd1fe90be":[8,0,0,0,1,2,7,0,1,17,9],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dab5ab89eecddb77f7eac790254e6833de":[8,0,0,0,1,2,7,0,1,17,12],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dab6437d1b56bdd3dbed3dad05ed79dfcd":[8,0,0,0,1,2,7,0,1,17,1],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dac7ca7dae60d6d6b8268e747e1f50be3d":[8,0,0,0,1,2,7,0,1,17,17],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daceca3c889fc7f521c62886d5c890332c":[8,0,0,0,1,2,7,0,1,17,27],
@@ -53,10 +57,10 @@ var NAVTREEINDEX181 =
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59afa5b9730efaeb2b61238f0cbba17ee7e":[8,0,0,0,1,2,7,0,1,25,0],
 "d6/d4f/BattlefieldWG_8h.html#af6f262846205790266deb3d01c08807d":[8,0,0,0,1,2,7,0,1,41],
 "d6/d4f/BattlefieldWG_8h.html#afa91bfae2586fced971723e0554a6ffb":[8,0,0,0,1,2,7,0,1,49],
-"d6/d4f/classspell__huhuran__poison__bolt.html":[7,0,3258],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3258,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3258,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3258,2],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[7,0,3259],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3259,0],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3259,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3259,2],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[7,0,2076],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[7,0,2076,1],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[7,0,2076,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d54/structMajordomoAddData.html#a31f8d24efb19c2d0e697f35b911e3237":[7,0,1523,4],
 "d6/d54/structMajordomoAddData.html#a9b8cc2b43ffbf268e470169e00e66671":[7,0,1523,1],
 "d6/d54/structMajordomoAddData.html#aa068ada34e1275cbf97b21f74dfd2881":[7,0,1523,0],
-"d6/d54/structMajordomoAddData.html#ae3a0444e88158123f4d6359328e89a1d":[7,0,1523,2],
-"d6/d55/classnpc__tournament__training__dummy.html":[7,0,2262],
-"d6/d55/classnpc__tournament__training__dummy.html#a31257c155c3a49c69771156800cf6340":[7,0,2262,2],
-"d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[7,0,2262,1],
-"d6/d56/classnpc__kurenai__captive.html":[7,0,1976]
+"d6/d54/structMajordomoAddData.html#ae3a0444e88158123f4d6359328e89a1d":[7,0,1523,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX125 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a0e679351aa4e2c2a89596396a9491ea9":[8,0,0,0,1,3,5,4,1,3,13,32],
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a1417358a359f3199a37e9f5456ef338a":[8,0,0,0,1,3,5,4,1,3,13,3],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a14b78f05f5d1fa4c51d755ede754a60d":[8,0,0,0,1,3,5,4,1,3,13,29],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a15978ab22b16e9e277d716fa565487f5":[8,0,0,0,1,3,5,4,1,3,13,54],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a185e84b6b8dccd7bc3926b36f646c5be":[8,0,0,0,1,3,5,4,1,3,13,6],
@@ -113,11 +115,11 @@ var NAVTREEINDEX125 =
 "d4/d1f/classnpc__pos__leader__second.html":[7,0,2105],
 "d4/d1f/classnpc__pos__leader__second.html#ac403cfc86247990d78c9cf4179df8b87":[7,0,2105,2],
 "d4/d1f/classnpc__pos__leader__second.html#ac4758674cc97eae0937264fa028e6da5":[7,0,2105,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,4007],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,4007,0],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,4007,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,4007,2],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,4007,3],
+"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,4008],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,4008,0],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,4008,1],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,4008,2],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,4008,3],
 "d4/d21/classspell__drain__mana.html":[7,0,2890],
 "d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2890,2],
 "d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2890,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d25/classRealmList.html#a70954d518dc4559e0aca0388f13db411":[7,0,2547,7],
 "d4/d25/classRealmList.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0":[7,0,2547,12],
 "d4/d25/classRealmList.html#abe7dfad5160a08a5852cb1436a06eaa9":[7,0,2547,1],
-"d4/d25/classRealmList.html#ac07fe3cd4fc18169af4f63b207902e95":[7,0,2547,15],
-"d4/d25/classRealmList.html#ae15cf59b00e8e8e561f266d5dd3e11ae":[7,0,2547,10],
-"d4/d25/classRealmList.html#aea053134fe293fbd4a8801b25fbb44ca":[7,0,2547,8]
+"d4/d25/classRealmList.html#ac07fe3cd4fc18169af4f63b207902e95":[7,0,2547,15]
 };

@@ -1,6 +1,8 @@
 var structboss__flame__leviathan__seat =
 [
     [ "boss_flame_leviathan_seat", "d6/d0b/structboss__flame__leviathan__seat.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "ActivateTurret", "d6/d0b/structboss__flame__leviathan__seat.html#a444d5abcb47488ffedd5d3a6737e7f2c", null ],
+    [ "ActivateTurrets", "d6/d0b/structboss__flame__leviathan__seat.html#abb69910faf565fc1b484baa1ad9d5f11", null ],
     [ "AttackStart", "d6/d0b/structboss__flame__leviathan__seat.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
     [ "EnterEvadeMode", "d6/d0b/structboss__flame__leviathan__seat.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
     [ "PassengerBoarded", "d6/d0b/structboss__flame__leviathan__seat.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX107 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca3bc9425a735318dae09e859906200280":[8,0,0,0,1,3,7,1,8,10,14],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca415eb9e55c30eee92bf6a7476cf52205":[8,0,0,0,1,3,7,1,8,10,3],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca424b1f1f76f674732f3add8ed9ed31fc":[8,0,0,0,1,3,7,1,8,10,9],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca4cf0fedf4693013eb330aad6d94e55e3":[8,0,0,0,1,3,7,1,8,10,12],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca60744ba9a2e4a61e4a5daf9300af4126":[8,0,0,0,1,3,7,1,8,10,4],
@@ -12,12 +14,12 @@ var NAVTREEINDEX107 =
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caea3ed8b979b3a59b5f1cfa805e42a176":[8,0,0,0,1,3,7,1,8,10,8],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cafe4e4e1fb7bb1e9df3e6c6b5fd0b1606":[8,0,0,0,1,3,7,1,8,10,0],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[8,0,0,0,1,3,7,1,8,11],
-"d3/d8d/classspell__mage__master__of__elements.html":[7,0,3650],
-"d3/d8d/classspell__mage__master__of__elements.html#a23dc61d8a007832a37ab7da71c36537d":[7,0,3650,0],
-"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[7,0,3650,4],
-"d3/d8d/classspell__mage__master__of__elements.html#a4f614fe81d829d8a1ceb7500f9557948":[7,0,3650,2],
-"d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6":[7,0,3650,1],
-"d3/d8d/classspell__mage__master__of__elements.html#acd807de02a83a97a78572d672fb16027":[7,0,3650,3],
+"d3/d8d/classspell__mage__master__of__elements.html":[7,0,3651],
+"d3/d8d/classspell__mage__master__of__elements.html#a23dc61d8a007832a37ab7da71c36537d":[7,0,3651,0],
+"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[7,0,3651,4],
+"d3/d8d/classspell__mage__master__of__elements.html#a4f614fe81d829d8a1ceb7500f9557948":[7,0,3651,2],
+"d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6":[7,0,3651,1],
+"d3/d8d/classspell__mage__master__of__elements.html#acd807de02a83a97a78572d672fb16027":[7,0,3651,3],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html":[7,0,1643,0],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a2c459e96b3599cda8560582a4fb4253a":[7,0,1643,0,11],
 "d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#a4e516705efff20a62124514ba14c8161":[7,0,1643,0,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d93/classPathGenerator.html#a9bf293e30e092de38ce34e28b056f8cc":[7,0,2424,26],
 "d3/d93/classPathGenerator.html#a9e468ed33ceb7560e3d15cf7e7fe317c":[7,0,2424,32],
 "d3/d93/classPathGenerator.html#aa053d5dc66fb7249d819620f796c74ae":[7,0,2424,39],
-"d3/d93/classPathGenerator.html#aa334bc297d29c02baec5cb374e056a41":[7,0,2424,27],
-"d3/d93/classPathGenerator.html#aaaa1643caa8abdae5dacd366bce40900":[7,0,2424,12],
-"d3/d93/classPathGenerator.html#abc7c05d24c738034f8262cb0f173fde9":[7,0,2424,9]
+"d3/d93/classPathGenerator.html#aa334bc297d29c02baec5cb374e056a41":[7,0,2424,27]
 };

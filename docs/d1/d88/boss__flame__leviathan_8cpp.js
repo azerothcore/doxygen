@@ -20,6 +20,7 @@ var boss__flame__leviathan_8cpp =
     [ "FlameLeviathanPursuedTargetSelector", "d9/d36/classFlameLeviathanPursuedTargetSelector.html", "d9/d36/classFlameLeviathanPursuedTargetSelector" ],
     [ "spell_pursue", "db/de9/classspell__pursue.html", "db/de9/classspell__pursue" ],
     [ "spell_vehicle_throw_passenger", "d2/ddd/classspell__vehicle__throw__passenger.html", "d2/ddd/classspell__vehicle__throw__passenger" ],
+    [ "spell_hookshot", "d9/d5c/classspell__hookshot.html", "d9/d5c/classspell__hookshot" ],
     [ "spell_hookshot_aura", "d1/dab/classspell__hookshot__aura.html", "d1/dab/classspell__hookshot__aura" ],
     [ "spell_tar_blaze_aura", "d1/dcb/classspell__tar__blaze__aura.html", "d1/dcb/classspell__tar__blaze__aura" ],
     [ "spell_vehicle_grab_pyrite", "d2/df5/classspell__vehicle__grab__pyrite.html", "d2/df5/classspell__vehicle__grab__pyrite" ],
@@ -158,5 +159,6 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_ADD_PYRITE", "d1/d88/boss__flame__leviathan_8cpp.html#a9ca9930133c0aef2df1d265647c65913aa6627afafadeab52cc878e16a77ea097", null ]
     ] ],
     [ "AddSC_boss_flame_leviathan", "d1/d88/boss__flame__leviathan_8cpp.html#aa9a1c9184b96f553f89f128ccd3416a2", null ],
+    [ "IsLeviathanSeatAvailable", "d1/d88/boss__flame__leviathan_8cpp.html#a897641d80ed1f5907755f69e2c4255c1", null ],
     [ "homePos", "d1/d88/boss__flame__leviathan_8cpp.html#a7e9dac54eb35b150aafb679175615cf4", null ]
 ];

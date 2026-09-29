@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d2/d8e/structboss__freya__summons.html#acec319d89a49da510093411f681fb950":[7,0,501,5],
+"d2/d8e/structboss__freya__summons.html#af7e842a7bc2be806816a942026670d71":[7,0,501,4],
 "d2/d8f/structScriptInfo.html":[7,0,2583],
 "d2/d8f/structScriptInfo.html#a00dc415dd1ba72128b3355d92d5162ac":[7,0,2583,43],
 "d2/d8f/structScriptInfo.html#a022c03597c896586bf07356b2513b091":[7,0,2583,19],
@@ -150,15 +152,15 @@ var NAVTREEINDEX72 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[7,0,2827,5],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[7,0,2827,4],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[7,0,2827,3],
-"d2/d93/classspell__item__healing__touch__refund.html":[7,0,3440],
-"d2/d93/classspell__item__healing__touch__refund.html#a18da1331c481cd3871194f8af735b6df":[7,0,3440,2],
-"d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[7,0,3440,0],
-"d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[7,0,3440,1],
-"d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[7,0,3440,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4420],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4420,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4420,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4420,0],
+"d2/d93/classspell__item__healing__touch__refund.html":[7,0,3441],
+"d2/d93/classspell__item__healing__touch__refund.html#a18da1331c481cd3871194f8af735b6df":[7,0,3441,2],
+"d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[7,0,3441,0],
+"d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[7,0,3441,1],
+"d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[7,0,3441,3],
+"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4421],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4421,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4421,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4421,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[8,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[8,0,0,0,1,3,5,16,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d2/d9a/structboss__fathomguard__sharkkis.html#a73f887b3f829027fc336a8e4a9c5b963":[7,0,478,8],
 "d2/d9a/structboss__fathomguard__sharkkis.html#ab71689fda10d6d31dd2bfc72026bd755":[7,0,478,6],
 "d2/d9a/structboss__fathomguard__sharkkis.html#ad3dc90987a8b01fcd55799f66d18906c":[7,0,478,7],
-"d2/d9a/structboss__fathomguard__sharkkis.html#affc3a4422ce62311879bef6df104c9b9":[7,0,478,0],
-"d2/d9b/boss__warlord__kalithresh_8cpp.html":[8,0,0,0,1,3,7,2,2,2],
-"d2/d9b/boss__warlord__kalithresh_8cpp.html#a107ef59bf22424f517c10e7a3778eb75":[8,0,0,0,1,3,7,2,2,2,5]
+"d2/d9a/structboss__fathomguard__sharkkis.html#affc3a4422ce62311879bef6df104c9b9":[7,0,478,0]
 };

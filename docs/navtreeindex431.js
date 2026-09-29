@@ -1,5 +1,16 @@
 var NAVTREEINDEX431 =
 {
+"df/dfc/classspell__item__pet__healing.html#a357e5c8a332989f93276667da1adf9f6":[7,0,3479,2],
+"df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[7,0,3479,1],
+"df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[7,0,3479,3],
+"df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[7,0,3479,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4251],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4251,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4251,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4251,0],
+"df/dff/classinstance__old__hillsbrad.html":[7,0,1366],
+"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[7,0,1366,2],
+"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[7,0,1366,1],
 "dir_0357f93aab1892c02aa89cc280efb408.html":[8,0,0,0,1,3,7,2,3],
 "dir_035874e76bcc0de7e09cf1c5f0f17641.html":[8,0,0,0,1,3,7,4],
 "dir_061ff0d10708e1c5472606e1cd5f9de4.html":[8,0,0,0,1,3,7,5,3],
@@ -238,16 +249,5 @@ var NAVTREEINDEX431 =
 "dir_e83c9d0a1780a629eb22febc87da63b1.html":[8,0,0,0,1,2,16],
 "dir_e8df728d6a6e829c2d0f8060a021b576.html":[8,0,0,0,0,2],
 "dir_e9c6e9721fb85b8a3de8a5f0877c7991.html":[8,0,0,0,1,3,2,1,1],
-"dir_ea33f7fc30415360daedf4b963058d3d.html":[8,0,0,0,1,2,36],
-"dir_ea4c1b50a572fe0f418ec2f6e29d2b3b.html":[8,0,0,0,2,2,0,8],
-"dir_ee257430e29f6025af1a91f2d4e4e3f4.html":[8,0,0,0,1,3,2,1],
-"dir_ee82ee7794f367a672177b3bd595def7.html":[8,0,0,0],
-"dir_ef7aca743453a8310aabb86ba904b3f6.html":[8,0,0,0,1,2,41],
-"dir_efb9d7c5ce6f8141e7a681492cf39a92.html":[8,0,0,0,1,3,7,5,2],
-"dir_f0a1abf8767dec3b65a65862f1558cd7.html":[8,0,0,0,3,3],
-"dir_f14d503eb20eb3c7d3fc8afc057e3bad.html":[8,0,0,0,1,2,0],
-"dir_f49ad253a5d89b6cfd4cfde27040fa87.html":[8,0,0,0,1,2,46],
-"dir_f5e4129fec19524b88796969e1224b90.html":[8,0,0,0,2,2,0,11],
-"dir_f6031702e2b504d935bb677a6d4d89df.html":[8,0,0,0,1,3,5,3],
-"dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html":[8,0,0,0,0,14]
+"dir_ea33f7fc30415360daedf4b963058d3d.html":[8,0,0,0,1,2,36]
 };

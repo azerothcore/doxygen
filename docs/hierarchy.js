@@ -1187,6 +1187,7 @@ var hierarchy =
         [ "spell_hodir_flash_freeze", "de/d15/classspell__hodir__flash__freeze.html", null ],
         [ "spell_hodir_icicle_force_cast", "d6/de5/classspell__hodir__icicle__force__cast.html", null ],
         [ "spell_hodir_periodic_icicle", "de/d18/classspell__hodir__periodic__icicle.html", null ],
+        [ "spell_hookshot", "d9/d5c/classspell__hookshot.html", null ],
         [ "spell_hos_dark_matter_size", "d9/d67/classspell__hos__dark__matter__size.html", null ],
         [ "spell_huhuran_poison_bolt", "d6/d4f/classspell__huhuran__poison__bolt.html", null ],
         [ "spell_hun_bestial_wrath", "d8/d37/classspell__hun__bestial__wrath.html", null ],
