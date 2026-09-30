@@ -1,5 +1,8 @@
 var NAVTREEINDEX413 =
 {
+"df/d57/classnpc__prospector__remtravel.html#a4bc2e5264a7a2184bf8d90b7d4045cc8":[7,0,2118,3],
+"df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[7,0,2118,1],
+"df/d57/classnpc__prospector__remtravel.html#aa8e1bb551036684b05c1b3bea4c66b1d":[7,0,2118,2],
 "df/d58/classspell__gen__obsidian__armor.html":[7,0,3122],
 "df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[7,0,3122,0],
 "df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[7,0,3122,1],
@@ -86,8 +89,8 @@ var NAVTREEINDEX413 =
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[7,0,2940,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[7,0,9,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[5,0,29,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[7,0,9,2,0],
 "df/d5e/boss__buru_8cpp.html":[8,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[8,0,0,0,1,3,4,8,1,3,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX413 =
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[7,0,315,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html":[7,0,340],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[7,0,340,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[7,0,340,2],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[7,0,340,5],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[7,0,340,4],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[7,0,340,0]
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[7,0,340,2]
 };

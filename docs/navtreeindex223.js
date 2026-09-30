@@ -1,5 +1,7 @@
 var NAVTREEINDEX223 =
 {
+"d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59":[8,0,0,0,1,4,3,1,3],
+"d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457":[8,0,0,0,1,4,3,1,3,6],
 "d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be":[8,0,0,0,1,4,3,1,3,5],
 "d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae":[8,0,0,0,1,4,3,1,3,4],
 "d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c":[8,0,0,0,1,4,3,1,3,1],
@@ -53,10 +55,10 @@ var NAVTREEINDEX223 =
 "d8/d03/structDungeonEncounterEntry.html#af4f26f56526b945e392ddaf6b2d43fa1":[7,0,1031,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[7,0,0,4,0,8],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,0,7,0,8],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,0,7,0,8,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[7,0,0,4,0,8,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[7,0,0,4,0,8,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,0,7,0,8,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,0,7,0,8,1],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[7,0,0,4,0,8,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[7,0,0,4,0,8,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,0,7,0,8,0],
 "d8/d05/RASession_8h.html":[8,0,0,0,1,0,1,3,1],
@@ -177,12 +179,12 @@ var NAVTREEINDEX223 =
 "d8/d0d/classboss__general__zarithrian.html#a22ba4e0769dd9404ae043fb9c16233ff":[7,0,514,2],
 "d8/d0d/instance__maraudon_8cpp.html":[8,0,0,0,1,3,4,3,0],
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[8,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[7,0,11,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[7,0,11,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[7,0,11,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[7,0,11,0,1,3],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[7,0,11,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,31,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[7,0,11,0,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8ca9869ef6eb8a8344613903761bba5d":[8,0,0,0,1,3,2,11,0,6,33],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8cea4c239a4f0804fe58750df06d7105":[8,0,0,0,1,3,2,11,0,6,36],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8fafe8f8f4a3b3a917375fdf93d2ef66":[8,0,0,0,1,3,2,11,0,6,14],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca9bbf4b94be1f4adc4d7ff99452ff0a85":[8,0,0,0,1,3,2,11,0,6,27],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca9cf42663f71e108eecde8b425d1d1e09":[8,0,0,0,1,3,2,11,0,6,25],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caa7a8209a537a07d0bf6865750115a0ad":[8,0,0,0,1,3,2,11,0,6,28]
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca9bbf4b94be1f4adc4d7ff99452ff0a85":[8,0,0,0,1,3,2,11,0,6,27]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX202 =
 {
+"d7/d46/classAuraEffect.html#a3b1c8a621c824d3d9e5021c9503193f6":[7,0,295,123],
+"d7/d46/classAuraEffect.html#a3b46362827d3489a5f34a9d34efa489f":[7,0,295,62],
 "d7/d46/classAuraEffect.html#a3c497a3c954b0bade630ac996c440fa3":[7,0,295,176],
 "d7/d46/classAuraEffect.html#a3dd65a07ecb6f2cfdecbed6a15c8ef08":[7,0,295,61],
 "d7/d46/classAuraEffect.html#a3e9174d203a34abc924e9a58efb2473c":[7,0,295,79],
@@ -247,7 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d4a/drak__tharon__keep_8h.html":[8,0,0,0,1,3,5,3,4],
 "d7/d4a/drak__tharon__keep_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,3,4,0],
 "d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[8,0,0,0,1,3,5,3,4,5],
-"d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da872a29bbcdf333d58b341830c52d9747":[8,0,0,0,1,3,5,3,4,5,3],
-"d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da9541a9bdc57c98b10da0de6276e80ba5":[8,0,0,0,1,3,5,3,4,5,0],
-"d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dab6e2061ac74c4f6e0182f2a59279f4f0":[8,0,0,0,1,3,5,3,4,5,1]
+"d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da872a29bbcdf333d58b341830c52d9747":[8,0,0,0,1,3,5,3,4,5,3]
 };

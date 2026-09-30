@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da9c6e084d01b2702bee5fa586c65136f6":[8,0,0,0,1,2,7,0,1,17,18],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da9d244e105e93ae687fe11dfc8d9c4822":[8,0,0,0,1,2,7,0,1,17,10],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daa05bbd13b7b5bacc03c1305d572d1acb":[8,0,0,0,1,2,7,0,1,17,8],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daae834a356f2fdf660c497c266ebdab4f":[8,0,0,0,1,2,7,0,1,17,23],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daaf8d3e346bcc814898919edfd1fe90be":[8,0,0,0,1,2,7,0,1,17,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d54/structMajordomoAddData.html":[7,0,1523],
 "d6/d54/structMajordomoAddData.html#a2f2b0aaace557361a21d1072f36933dc":[7,0,1523,3],
 "d6/d54/structMajordomoAddData.html#a31f8d24efb19c2d0e697f35b911e3237":[7,0,1523,4],
-"d6/d54/structMajordomoAddData.html#a9b8cc2b43ffbf268e470169e00e66671":[7,0,1523,1],
-"d6/d54/structMajordomoAddData.html#aa068ada34e1275cbf97b21f74dfd2881":[7,0,1523,0],
-"d6/d54/structMajordomoAddData.html#ae3a0444e88158123f4d6359328e89a1d":[7,0,1523,2]
+"d6/d54/structMajordomoAddData.html#a9b8cc2b43ffbf268e470169e00e66671":[7,0,1523,1]
 };

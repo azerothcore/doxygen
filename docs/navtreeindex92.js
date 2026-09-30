@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d2/df6/DBCStores_8h.html#a93774d2a6c6b1edecd697d6e60a8402d":[8,0,0,0,1,2,14,1,27],
 "d2/df6/DBCStores_8h.html#a94ccee26fc9e3db300a19b1c455440ff":[8,0,0,0,1,2,14,1,68],
 "d2/df6/DBCStores_8h.html#a954802aea348c1906cf838396ff8aa07":[8,0,0,0,1,2,14,1,44],
 "d2/df6/DBCStores_8h.html#a964b37604f60d70884e831743b554c5e":[8,0,0,0,1,2,14,1,102],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#aa60d5d2d534aa6e9fe7c77703bab5fce":[7,0,1936,0,5],
 "d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#acfbaa73491940a916f8d0a0b852bcc61":[7,0,1936,0,3],
 "d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#ad14a1d8cfe749d54a801a3902aa49e1d":[7,0,1936,0,4],
-"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#ae08f9c54d08b0eae5ad71d69f06a6544":[7,0,1936,0,10],
-"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#af8a298ccbd6f22a0a4416ed6cb082e67":[7,0,1936,0,7]
+"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#ae08f9c54d08b0eae5ad71d69f06a6544":[7,0,1936,0,10]
 };

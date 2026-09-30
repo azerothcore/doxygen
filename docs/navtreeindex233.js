@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#ada84df34770512a63204f4fc500d268a":[4,1,20,454],
+"d8/d74/classWorldSession.html#adad74cb45da1c9ca108bd59beb95cca0":[4,1,20,501],
 "d8/d74/classWorldSession.html#adb6ceb87b7400f5e95a5a289795b46cf":[4,1,20,561],
 "d8/d74/classWorldSession.html#adc5517d80512262fe3b6c1c887bacba8":[4,1,20,33],
 "d8/d74/classWorldSession.html#adcb19de68fab4449b1460d0f9ca44845":[4,1,20,87],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d7e/classspell__gen__mirrored__soul.html#a71029016013dc48cf1e882a1fb520187":[7,0,3113,1],
 "d8/d7e/classspell__gen__mirrored__soul.html#a993331721d98f6d0b4c225a9c32708bd":[7,0,3113,0],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html":[7,0,2182,0],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a0d36e4903448c5a03115df0dff3480c8":[7,0,2182,0,10],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a2ecc5e8289252b2936f36de9921294e0":[7,0,2182,0,0],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a50afc82c80cede8dcf3240a116463411":[7,0,2182,0,1]
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a0d36e4903448c5a03115df0dff3480c8":[7,0,2182,0,10]
 };

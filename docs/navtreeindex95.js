@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[7,0,807],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a0ae04ac300d4f08b12f7edaa75dbe208":[7,0,807,2],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7":[7,0,807,6],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a381b56eb1c81f893fd061cf4aead0bc4":[7,0,807,7],
@@ -56,16 +57,16 @@ var NAVTREEINDEX95 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f":[5,0,10,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[5,0,10,5],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa":[5,0,10,1],
-"d3/d13/structADT_1_1MODF.html":[7,0,1,1],
 "d3/d13/structADT_1_1MODF.html":[5,0,2,1],
-"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,2,1,2],
+"d3/d13/structADT_1_1MODF.html":[7,0,1,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
+"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,2,1,2],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[7,0,1,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,2,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[7,0,1,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[7,0,1,1,6],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,2,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[7,0,1,1,4],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[7,0,1,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d19/structArenaTeamScore.html":[7,0,206],
 "d3/d19/structArenaTeamScore.html#a017cd1a4d90a466b42aeab8ff1a12f3a":[7,0,206,0],
 "d3/d19/structArenaTeamScore.html#a0c4048053f5f5cabe5bfbfdde8eded86":[7,0,206,7],
-"d3/d19/structArenaTeamScore.html#a1e82169562a459371f973932d22e2f15":[7,0,206,8],
-"d3/d19/structArenaTeamScore.html#a28c3a055e1ad69693470f38fe676f0c6":[7,0,206,2]
+"d3/d19/structArenaTeamScore.html#a1e82169562a459371f973932d22e2f15":[7,0,206,8]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX414 =
 {
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[7,0,340,5],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[7,0,340,4],
+"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[7,0,340,0],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[7,0,340,3],
 "df/d6e/BattlegroundBE_8cpp.html":[8,0,0,0,1,2,8,1,4],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html":[7,0,522,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX414 =
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[7,0,2337,0],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[7,0,2337,0,3],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[7,0,2337,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[7,0,2337,0,2],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[7,0,2337,0,1],
-"df/d77/classachievement__smell__saronite.html":[7,0,99],
-"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[7,0,99,0]
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[7,0,2337,0,2]
 };

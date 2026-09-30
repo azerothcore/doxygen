@@ -1,5 +1,8 @@
 var NAVTREEINDEX350 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a35d58947074659d2692877dfcf13e4bd":[7,0,4111,0],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a527213b389be9b1953f423ae84eb16ee":[7,0,4111,3],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#a671a588ae36323c11b33a45d652290de":[7,0,4111,7],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a82067899470366c2cbf21bba08061ce1":[7,0,4111,2],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#a8aae94d6d6a9ec1fa7d47f88874cce4f":[7,0,4111,8],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#aa333430da4cf3303822d5f048cb9d5a4":[7,0,4111,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d5a/structBfWGGameObjectBuilding.html#ae48e5946636b67fea33a6313329b4725":[7,0,366,8],
 "dd/d5a/structBfWGGameObjectBuilding.html#ae770e04de54fd1a425a78bb30f57d02e":[7,0,366,18],
 "dd/d5a/structBfWGGameObjectBuilding.html#ae963cc5bd41ff4cd6ce08f6abbaf98af":[7,0,366,4],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae9da48817573f5fb94c31a347e228588":[7,0,366,11],
-"dd/d5b/World_8h.html":[4,2,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[5,0,0,0,1],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[7,0,0,0,0]
+"dd/d5a/structBfWGGameObjectBuilding.html#ae9da48817573f5fb94c31a347e228588":[7,0,366,11]
 };

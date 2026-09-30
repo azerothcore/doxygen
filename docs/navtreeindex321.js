@@ -1,13 +1,16 @@
 var NAVTREEINDEX321 =
 {
+"dc/d0b/classTrainer_1_1Trainer.html#ab489dbe1c41096ef281e42c594bd874c":[7,0,10,1,6],
+"dc/d0b/classTrainer_1_1Trainer.html#ab6b3b04ead675db50fa4dc4f4f5786e7":[7,0,10,1,11],
+"dc/d0b/classTrainer_1_1Trainer.html#ab6b3b04ead675db50fa4dc4f4f5786e7":[5,0,30,1,11],
 "dc/d0b/classTrainer_1_1Trainer.html#ab8a22da42d8087d0f4cfe4dc338d1c20":[5,0,30,1,4],
 "dc/d0b/classTrainer_1_1Trainer.html#ab8a22da42d8087d0f4cfe4dc338d1c20":[7,0,10,1,4],
 "dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[7,0,10,1,9],
 "dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[5,0,30,1,9],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[5,0,30,1,20],
 "dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[7,0,10,1,20],
-"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[5,0,30,1,13],
 "dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[7,0,10,1,13],
+"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[5,0,30,1,13],
 "dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[5,0,30,1,15],
 "dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[7,0,10,1,15],
 "dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[5,0,30,1,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d1c/classDatabaseWorkerPoolAdapter.html#acffa90573e6f9d4889d62f4c9d57b28b":[7,0,989,4],
 "dc/d1c/classDatabaseWorkerPoolAdapter.html#afaf15e7b5a8305b7766452f68b0e5763":[7,0,989,0],
 "dc/d1c/classspell__hor__shared__suffering__aura.html":[7,0,3256],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[7,0,3256,2],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a4b95717cb19116b81f3eec798089abad":[7,0,3256,0],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a581645fa151531aaf7b562a8739d5616":[7,0,3256,1],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[7,0,3256,3]
+"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[7,0,3256,2]
 };

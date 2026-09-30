@@ -1,5 +1,8 @@
 var NAVTREEINDEX399 =
 {
+"de/db0/classspell__mage__ice__block.html#ade3a3f956ae8be922bd1d2204919d360":[7,0,3643,0],
+"de/db0/classspell__mage__ice__block.html#af40f92afae93778e477c50ddf18c8adc":[7,0,3643,2],
+"de/db0/classspell__warl__siphon__life.html":[7,0,4373],
 "de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[7,0,4373,4],
 "de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[7,0,4373,2],
 "de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[7,0,4373,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX399 =
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7":[8,0,0,0,1,3,5,4,0,0,7,6],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,5,4,0,0,7,7],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,5,4,0,0,7,1],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0":[8,0,0,0,1,3,5,4,0,0,7,10],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac0c93648701099cc7bb94911ca117cb9":[8,0,0,0,1,3,5,4,0,0,7,8],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cad4e9598e401126e84132d489043d6ddd":[8,0,0,0,1,3,5,4,0,0,7,0],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cad53b6fe782be52b1713eb64b7213baee":[8,0,0,0,1,3,5,4,0,0,7,4]
+"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0":[8,0,0,0,1,3,5,4,0,0,7,10]
 };

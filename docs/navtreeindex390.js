@@ -1,5 +1,8 @@
 var NAVTREEINDEX390 =
 {
+"de/d6d/classServerOpcodeHandler.html":[4,1,8],
+"de/d6e/classnpc__dalaran__mage.html":[7,0,1773],
+"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1773,1],
 "de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[7,0,1773,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html":[7,0,305],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[7,0,305,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX390 =
 "de/d75/classDelayedSummonEvent.html":[7,0,1009],
 "de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[7,0,1009,2],
 "de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[7,0,1009,3],
-"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[7,0,1009,0],
-"de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[7,0,1009,1],
-"de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[7,0,1009,4],
-"de/d75/classspell__dk__death__pact.html":[7,0,2844]
+"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[7,0,1009,0]
 };

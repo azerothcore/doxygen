@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d2/def/classspell__oculus__shock__lance.html#a2c2b391b223ab92b6d644b739419a1d3":[7,0,3749,2],
 "d2/def/classspell__oculus__shock__lance.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c":[7,0,3749,1],
 "d2/def/classspell__oculus__shock__lance.html#a773c608119a84cc3f02e7b4d786f2741":[7,0,3749,3],
 "d2/def/classspell__oculus__shock__lance.html#abb2bf75cc347597b17ed5e4ccd213132":[7,0,3749,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d2/df6/DBCStores_8h.html#a8ae647bb7d8e287fad6b9c16f98937ec":[8,0,0,0,1,2,14,1,70],
 "d2/df6/DBCStores_8h.html#a8fa5165e326c9ed4fe01315086248ba8":[8,0,0,0,1,2,14,1,69],
 "d2/df6/DBCStores_8h.html#a8fad327db5cfa5d1208bb88e6567ecf7":[8,0,0,0,1,2,14,1,89],
-"d2/df6/DBCStores_8h.html#a8fe3e71e773f85860435551373463e73":[8,0,0,0,1,2,14,1,106],
-"d2/df6/DBCStores_8h.html#a93774d2a6c6b1edecd697d6e60a8402d":[8,0,0,0,1,2,14,1,27]
+"d2/df6/DBCStores_8h.html#a8fe3e71e773f85860435551373463e73":[8,0,0,0,1,2,14,1,106]
 };

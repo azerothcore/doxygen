@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"d2/d5e/classspell__rog__deadly__brew.html#a297383c7eae5cc846be4a0f9e28c7e52":[7,0,4044,0],
 "d2/d5e/classspell__rog__deadly__brew.html#a41590ae5cb30b97cdf1db02266dd2c7c":[7,0,4044,3],
 "d2/d5e/classspell__rog__deadly__brew.html#a813cb759ccbe0464334890008d5e5a7a":[7,0,4044,2],
 "d2/d5e/structbrann__bronzebeard.html":[7,0,837],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a348be00901f9e6daea7868e4f9a97fda":[7,0,773,0,5],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a45973c4d4e3eceda259dce148d1c9f5d":[7,0,773,0,14],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a4ab3dc211231f94ca371a089b9ab9461":[7,0,773,0,12],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a9dc0074d598b5432fbdc94b9bb8e012e":[7,0,773,0,7],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#aacd9b128f978fe9c8a996cf725f05359":[7,0,773,0,11]
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a9dc0074d598b5432fbdc94b9bb8e012e":[7,0,773,0,7]
 };

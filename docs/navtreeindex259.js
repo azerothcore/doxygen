@@ -1,5 +1,7 @@
 var NAVTREEINDEX259 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[8,0,0,0,1,3,10,13,2],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[8,0,0,0,1,3,10,13,2,9],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[8,0,0,0,1,3,10,13,2,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[8,0,0,0,1,3,10,13,2,12],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2643442342f258b423a515f080a54e20":[8,0,0,0,1,3,10,13,2,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX259 =
 "d9/dd9/structgo__transport__the__purple__princess.html#ac5b73f1bea180797169138f8e9228783":[7,0,1235,1],
 "d9/dda/PCQueue_8h.html":[8,0,0,0,0,14,2],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html":[5,0,34,14,13],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html":[7,0,13,14,13],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[7,0,13,14,13,4],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[5,0,34,14,13,4]
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html":[7,0,13,14,13]
 };

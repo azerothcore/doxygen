@@ -1,5 +1,8 @@
 var NAVTREEINDEX345 =
 {
+"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a116d2bc302ca74ae39d98f8d5849e757":[7,0,3516,1],
+"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a1642e1c445baac2be49a32797f21ca31":[7,0,3516,0],
+"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a8c0d81f8480be1853679d1f2a20ecfbb":[7,0,3516,2],
 "dd/d22/classspell__red__sky__effect.html":[7,0,4026],
 "dd/d22/classspell__red__sky__effect.html#a31fdc4d630a4a6647d2a9b1100aecdad":[7,0,4026,1],
 "dd/d22/classspell__red__sky__effect.html#a64a861b5c25df5780390aa55899393d7":[7,0,4026,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d27/structSmartAction.html#a5044869d5cf7b5ea6068eed53444c24d":[7,0,2627,270],
 "dd/d27/structSmartAction.html#a50722fe60683bdacccc452b512455584":[7,0,2627,121],
 "dd/d27/structSmartAction.html#a50c825333b0bfe2610cc184107117f31":[7,0,2627,259],
-"dd/d27/structSmartAction.html#a510aaa84191680eab41468aceeb90f2d":[7,0,2627,140],
-"dd/d27/structSmartAction.html#a521a12188e00a0691b0398e7fdd47470":[7,0,2627,262],
-"dd/d27/structSmartAction.html#a532ce3027f12b32fbfbd2725520138be":[7,0,2627,27],
-"dd/d27/structSmartAction.html#a53ada39c3f5ce9e1c3b3cbde4f1d4f12":[7,0,2627,86]
+"dd/d27/structSmartAction.html#a510aaa84191680eab41468aceeb90f2d":[7,0,2627,140]
 };

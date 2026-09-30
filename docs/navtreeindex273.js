@@ -1,7 +1,10 @@
 var NAVTREEINDEX273 =
 {
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[5,0,17,14,1],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a73cdcd16181375a7d428e6b50cb1e1e6":[7,0,5,14,10],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[5,0,17,14,5],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[7,0,5,14,5],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[7,0,5,14,1],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[5,0,17,14,1],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[5,0,17,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[7,0,5,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,17,14,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "da/d70/AuctionHouseSearcher_8h.html#a7cad31f048914034b12550129308e80e":[8,0,0,0,1,2,5,3,22],
 "da/d70/AuctionHouseSearcher_8h.html#a7d6d8287b2adf4a3caae16ed69a8519d":[8,0,0,0,1,2,5,3,23],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420":[8,0,0,0,1,2,5,3,24],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595":[8,0,0,0,1,2,5,3,24,3],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a":[8,0,0,0,1,2,5,3,24,8],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215":[8,0,0,0,1,2,5,3,24,2],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4":[8,0,0,0,1,2,5,3,24,0]
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595":[8,0,0,0,1,2,5,3,24,3]
 };

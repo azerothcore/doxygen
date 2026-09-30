@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
 "d2/d39/classspell__rog__tricks__of__the__trade.html":[7,0,4064],
 "d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d":[7,0,4064,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d48/classChannel.html#a0cfabec65734bd891c4b78dbe78d8f02":[7,0,869,71],
 "d2/d48/classChannel.html#a0e4bac3a22690fa7aee89db6c88ae66f":[7,0,869,47],
 "d2/d48/classChannel.html#a0faad0df27219852470c80467cf8dd6f":[7,0,869,72],
-"d2/d48/classChannel.html#a1046accb63d4594c80d154e4591d238f":[7,0,869,33],
-"d2/d48/classChannel.html#a113836e91cd4c2e8f121c1b79af69602":[7,0,869,76]
+"d2/d48/classChannel.html#a1046accb63d4594c80d154e4591d238f":[7,0,869,33]
 };

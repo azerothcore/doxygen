@@ -1,5 +1,8 @@
 var NAVTREEINDEX299 =
 {
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca49a9dce1c783668fc725a6605ef996c6":[8,0,0,0,1,3,9,4,184,1],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cab7462dcb6cb7aa653f707d2843adf8c2":[8,0,0,0,1,3,9,4,184,3],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cae36708354003119bcf98bf0266dadb32":[8,0,0,0,1,3,9,4,184,0],
 "db/d6e/spell__item_8cpp.html#aa5653bd25e20eda786faf449fe173362":[8,0,0,0,1,3,9,4,262],
 "db/d6e/spell__item_8cpp.html#aa5653bd25e20eda786faf449fe173362aee26b1c782c930f41cae85c8e525ade8":[8,0,0,0,1,3,9,4,262,0],
 "db/d6e/spell__item_8cpp.html#aa64ae4018028c55562a9e29a1c303e88":[8,0,0,0,1,3,9,4,204],
@@ -246,8 +249,5 @@ var NAVTREEINDEX299 =
 "db/d77/structnpc__love__in__air__snivel.html#a9e712994663e3442359d2f574ebc812c":[7,0,1997,4],
 "db/d77/structnpc__love__in__air__snivel.html#ab04596fb96292f54cf2a10f662dc94a3":[7,0,1997,0],
 "db/d77/structnpc__love__in__air__snivel.html#ae6537707109b95fad20e521d07867cdd":[7,0,1997,2],
-"db/d77/structnpc__love__in__air__snivel.html#af1097317f62bbb8f8456124001c73576":[7,0,1997,1],
-"db/d78/boss__zuljin_8cpp.html":[8,0,0,0,1,3,2,14,5],
-"db/d78/boss__zuljin_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,14,5,9],
-"db/d78/boss__zuljin_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,14,5,9,9]
+"db/d77/structnpc__love__in__air__snivel.html#af1097317f62bbb8f8456124001c73576":[7,0,1997,1]
 };

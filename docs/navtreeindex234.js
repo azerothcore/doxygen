@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a2ecc5e8289252b2936f36de9921294e0":[7,0,2182,0,0],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a50afc82c80cede8dcf3240a116463411":[7,0,2182,0,1],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a60c1704617e99239d60d24d6b7513c1a":[7,0,2182,0,4],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a8beac97ea5f7c797d2ae52e2f3c3be50":[7,0,2182,0,2],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba":[7,0,2182,0,5],
@@ -199,10 +201,10 @@ var NAVTREEINDEX234 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4652,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4652,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4652,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d8d/structActiveBoatStruct.html#aaae6e8ea168850a934b887ec006d7d8b":[7,0,131,0],
 "d8/d8d/structActiveBoatStruct.html#ad2291d89a874c79859b3140754594ed7":[7,0,131,9],
 "d8/d8d/structActiveBoatStruct.html#adcd8647fc0ee9799e24173780209f2d9":[7,0,131,4],
-"d8/d8d/structActiveBoatStruct.html#af3ae27adaecafe9a09802bc202973d68":[7,0,131,6],
-"d8/d8d/structTaxiPathEntry.html":[7,0,4568],
-"d8/d8d/structTaxiPathEntry.html#a4375feed48ce5ac7291dced992c9bbf4":[7,0,4568,1]
+"d8/d8d/structActiveBoatStruct.html#af3ae27adaecafe9a09802bc202973d68":[7,0,131,6]
 };

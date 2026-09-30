@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"d4/d9b/structboss__grandmaster__vorpil.html#a3c83e1f9305fc17aebb4ec5f16225e17":[7,0,525,10],
+"d4/d9b/structboss__grandmaster__vorpil.html#a5dd0edce19b33a1dd87d5b6e4458949f":[7,0,525,11],
 "d4/d9b/structboss__grandmaster__vorpil.html#a6471121ee02a834591b36d03fae28672":[7,0,525,7],
 "d4/d9b/structboss__grandmaster__vorpil.html#a7a7c5679fe784025423119dd31d0e6ef":[7,0,525,1],
 "d4/d9b/structboss__grandmaster__vorpil.html#a7cbdb7e7652dcac799b6f59424c8e9fd":[7,0,525,9],
@@ -220,8 +222,8 @@ var NAVTREEINDEX138 =
 "d4/da1/classBoundaryUnionBoundary.html#a8dc91861fa6641008236e5a83030e0d1":[7,0,832,2],
 "d4/da1/classBoundaryUnionBoundary.html#a96450fc020bfad7b9f1f7be64490ad46":[7,0,832,1],
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[7,0,832,4],
-"d4/da1/classMovement_1_1PacketBuilder.html":[7,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
+"d4/da1/classMovement_1_1PacketBuilder.html":[7,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[7,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a255a4de5c8cdf224e822a4e7ffe0ee5a":[7,0,7,10,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX138 =
 "d4/da3/classboss__grobbulus.html":[7,0,528],
 "d4/da3/classboss__grobbulus.html#acf1b781e86e33a363b68354d34d3c015":[7,0,528,1],
 "d4/da3/classboss__grobbulus.html#ae918614566a0b9979aef4e1aeaac394c":[7,0,528,2],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html":[7,0,4303],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a46f2c2658e6b55f091bf8894f06a787c":[7,0,4303,2],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a593786eb89bf77e05dad4b502ffc1925":[7,0,4303,0]
+"d4/da4/classspell__ulduar__squeezed__lifeless.html":[7,0,4303]
 };

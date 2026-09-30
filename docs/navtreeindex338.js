@@ -1,5 +1,8 @@
 var NAVTREEINDEX338 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,2,15,7,10,4],
+"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae23fc4981b044e0c1934de2157bd5ca1":[8,0,0,0,1,3,2,15,7,10,6],
+"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[8,0,0,0,1,3,2,15,7,16],
 "dc/dbd/classinstance__scarlet__monastery.html":[7,0,1374],
 "dc/dbd/classinstance__scarlet__monastery.html#a1c66031217457809fbe56303085715a0":[7,0,1374,2],
 "dc/dbd/classinstance__scarlet__monastery.html#a8f068ebd98bd81dbb60dbccd795f1f3f":[7,0,1374,1],
@@ -223,12 +226,12 @@ var NAVTREEINDEX338 =
 "dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[7,0,2174,1],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[5,0,0,7,0,3],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[7,0,0,4,0,3],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
 "dc/dcf/classVerasEnvenom.html":[7,0,4668],
 "dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4668,1],
 "dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[7,0,4668,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dd0/classWhoListCacheMgr.html#ae0358ae9260f929410f6518f89135161":[7,0,4705,3],
 "dc/dd0/classWhoListCacheMgr.html#ae32706d7786014e142dc1cb9ccd29d70":[7,0,4705,1],
 "dc/dd0/structMySQLType_3_01uint32_01_4.html":[7,0,1608],
-"dc/dd1/classspell__q10930__big__bone__worm__aura.html":[7,0,3918],
-"dc/dd1/classspell__q10930__big__bone__worm__aura.html#a19ce53b5731b0789896612fa55f38849":[7,0,3918,1],
-"dc/dd1/classspell__q10930__big__bone__worm__aura.html#a63c0fede080591df9ebf8b3de2cd2fc3":[7,0,3918,0],
-"dc/dd1/classspell__q10930__big__bone__worm__aura.html#a7d60c5b18bbf77a18ab683a101782ada":[7,0,3918,2]
+"dc/dd1/classspell__q10930__big__bone__worm__aura.html":[7,0,3918]
 };

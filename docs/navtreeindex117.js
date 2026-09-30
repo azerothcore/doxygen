@@ -1,5 +1,7 @@
 var NAVTREEINDEX117 =
 {
+"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a869e6056d6a196b3ea8bf72b2b9b4cf1":[8,0,0,0,1,2,8,1,3,28,0],
+"d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a8f15f90ef1c8cf08116bb56817070618":[8,0,0,0,1,2,8,1,3,28,5],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09a9d6c87d8be9d7b2b04798141eadacf05":[8,0,0,0,1,2,8,1,3,28,20],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09aa2f0ae6b8fdd9b3e60cb7e7c9eb780c1":[8,0,0,0,1,2,8,1,3,28,9],
 "d3/dd4/BattlegroundAV_8h.html#a92da4c48dfb4126c1cb19b68f1ec9d09aa36f04acf1f594617b5ed8d678b308a2":[8,0,0,0,1,2,8,1,3,28,15],
@@ -226,8 +228,8 @@ var NAVTREEINDEX117 =
 "d3/dd5/structnpc__azure__sorceror.html#a462d57b8e8cd01a9ec1bd59a453f6ab5":[7,0,1684,3],
 "d3/dd5/structnpc__azure__sorceror.html#af4bc0ff9b938302c399bff528dd06769":[7,0,1684,1],
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1684,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[7,0,13,14,11,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX117 =
 "d3/dd6/structinstance__blackrock__depths.html#a0668a34d9e8ed9fe4e42d3be958e8fe8":[7,0,1335,52],
 "d3/dd6/structinstance__blackrock__depths.html#a09bee6096f5fb76a115bd4d79a17dcb0":[7,0,1335,41],
 "d3/dd6/structinstance__blackrock__depths.html#a12583ba0684077da9463d2457142d95c":[7,0,1335,56],
-"d3/dd6/structinstance__blackrock__depths.html#a18e8f38565168b383ac8beb310119f06":[7,0,1335,19],
-"d3/dd6/structinstance__blackrock__depths.html#a1db40f172bb9c53939b7d8f925a4b9ad":[7,0,1335,2],
-"d3/dd6/structinstance__blackrock__depths.html#a1ddd4c4fb735ae9aaf913bf12ef0300c":[7,0,1335,69]
+"d3/dd6/structinstance__blackrock__depths.html#a18e8f38565168b383ac8beb310119f06":[7,0,1335,19]
 };

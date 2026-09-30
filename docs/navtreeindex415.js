@@ -1,5 +1,8 @@
 var NAVTREEINDEX415 =
 {
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[7,0,2337,0,1],
+"df/d77/classachievement__smell__saronite.html":[7,0,99],
+"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[7,0,99,0],
 "df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[7,0,99,1],
 "df/d77/classspell__drakkari__colossus__face__me.html":[7,0,2892],
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2892,1],
@@ -197,14 +200,14 @@ var NAVTREEINDEX415 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[7,0,444,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[7,0,444,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,444,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[7,0,13,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[7,0,13,6,36,1],
 "df/d86/classnpc__professor__phizzlethorpe.html":[7,0,2116],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[7,0,2116,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[7,0,2116,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX415 =
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd":[8,0,0,0,1,3,5,9,2,4,19,16],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa160d93acd266977ad939a8950bdf5a6":[8,0,0,0,1,3,5,9,2,4,19,1],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb":[8,0,0,0,1,3,5,9,2,4,19,10],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0":[8,0,0,0,1,3,5,9,2,4,19,17],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3":[8,0,0,0,1,3,5,9,2,4,19,13],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ada7b10efd40bd64008136ba7a3c9b12a":[8,0,0,0,1,3,5,9,2,4,19,14],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae5d19faa87b61928dac359d17094035a":[8,0,0,0,1,3,5,9,2,4,19,15]
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0":[8,0,0,0,1,3,5,9,2,4,19,17]
 };

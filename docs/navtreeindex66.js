@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,3,1,6,11],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca36fa41a6dda9b58c6d7d6634cd4377e9":[8,0,0,0,1,3,5,3,1,6,6],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca51416fb35fda16806a28e99cb1a64b28":[8,0,0,0,1,3,5,3,1,6,3],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a405cf871199c95ba6085d55d25c1c0":[8,0,0,0,1,3,5,3,1,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5d/structEnchStoreItem.html#ac2346b6c6c5c09bb63676d72c798d848":[7,0,1053,3],
 "d2/d5d/structEnchStoreItem.html#aca83bb20eb6153faeaf599b07b97e357":[7,0,1053,1],
 "d2/d5e/classspell__rog__deadly__brew.html":[7,0,4044],
-"d2/d5e/classspell__rog__deadly__brew.html#a00a68329e8ab03cb5e38b1ad85932a57":[7,0,4044,1],
-"d2/d5e/classspell__rog__deadly__brew.html#a297383c7eae5cc846be4a0f9e28c7e52":[7,0,4044,0]
+"d2/d5e/classspell__rog__deadly__brew.html#a00a68329e8ab03cb5e38b1ad85932a57":[7,0,4044,1]
 };

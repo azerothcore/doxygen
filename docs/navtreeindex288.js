@@ -1,5 +1,8 @@
 var NAVTREEINDEX288 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea4bf6d797bf054f1764a10085b0777116":[8,0,0,0,1,3,5,2,1,7,10,8],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea5b60ba4438ad02187e3d426638eaf6bd":[8,0,0,0,1,3,5,2,1,7,10,6],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea810f583a9a0f799503742411279c0cc5":[8,0,0,0,1,3,5,2,1,7,10,7],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea99853a6bfdd5d5c40e3ce52403c3994d":[8,0,0,0,1,3,5,2,1,7,10,4],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eab44797b108156e3bfad250d0982e14a9":[8,0,0,0,1,3,5,2,1,7,10,5],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eafc624fe2f47ed00845c38edad5d9b2b2":[8,0,0,0,1,3,5,2,1,7,10,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX288 =
 "da/df1/classMetric.html#ae104eda6b396c24e00e36afb829c5e2d":[7,0,1552,15],
 "da/df1/classMetric.html#ae178c518e4b2717168816252a6c64e29":[7,0,1552,36],
 "da/df1/classMetric.html#ae311ec37fcee62549ea1bc95462deb12":[7,0,1552,16],
-"da/df1/classMetric.html#ae53d7439e7b057177d9a1034e957d097":[7,0,1552,10],
-"da/df1/classMetric.html#ae8672bad01631983ee33c967d20426e8":[7,0,1552,41],
-"da/df1/classMetric.html#aedac5a2cafadfd12328cb2c6ae8e3d3c":[7,0,1552,38],
-"da/df1/classMetric.html#aff2c5e8ffb475ad21f0aa65628ff570c":[7,0,1552,24]
+"da/df1/classMetric.html#ae53d7439e7b057177d9a1034e957d097":[7,0,1552,10]
 };

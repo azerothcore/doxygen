@@ -1,5 +1,8 @@
 var NAVTREEINDEX276 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a307e1c2756b5eac4b4cfbfa4faff4df8":[8,0,0,0,1,3,5,6,10,72,65],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a35ccf7aadd530fe536f2b066fc0593d6":[8,0,0,0,1,3,5,6,10,72,53],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39a238df924d660af6f9ce820eea9d8c":[8,0,0,0,1,3,5,6,10,72,21],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a2afb6cf92db173a55f495c7638a4b8":[8,0,0,0,1,3,5,6,10,72,43],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6e3e940c0fe46fe4621781829b06da":[8,0,0,0,1,3,5,6,10,72,51],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3ddafd2c6044a9bbec73c396e7eced5a":[8,0,0,0,1,3,5,6,10,72,28],
@@ -246,8 +249,5 @@ var NAVTREEINDEX276 =
 "da/d80/structEscort__Waypoint.html#a272aeeba02403a21c4900e6b0844a328":[7,0,1062,0],
 "da/d80/structEscort__Waypoint.html#a467a869dba9243bd165e4c480e339705":[7,0,1062,2],
 "da/d80/structEscort__Waypoint.html#a4d751062b2ab46734049bf8939a30731":[7,0,1062,3],
-"da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[7,0,1062,1],
-"da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[7,0,1062,5],
-"da/d80/structEscort__Waypoint.html#a88648b1bd70afad73d402c40abcd68b5":[7,0,1062,4],
-"da/d80/structboss__zereketh__the__unbound.html":[7,0,824]
+"da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[7,0,1062,1]
 };

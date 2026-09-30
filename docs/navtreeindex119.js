@@ -1,5 +1,7 @@
 var NAVTREEINDEX119 =
 {
+"d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53ca04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,2,8,15,6],
+"d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53ca47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,2,8,15,0],
 "d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53ca49a22ee78d5824adab791ffe795ec9b9":[8,0,0,0,1,3,5,9,2,8,15,5],
 "d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53ca4e1c5565b3dc59b069db6f0931f864a1":[8,0,0,0,1,3,5,9,2,8,15,4],
 "d3/de1/boss__kologarn_8cpp.html#a726ecebf00a5b269f72715ff1cc4e53ca71fc8f2525708146724fb43506844530":[8,0,0,0,1,3,5,9,2,8,15,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX119 =
 "d3/ded/classspell__sha__totemic__mastery.html#a2efdcd0902e9cb5c47e285492dd93789":[7,0,4152,1],
 "d3/ded/classspell__sha__totemic__mastery.html#ac90afe9f5d9d55faba2282a875469311":[7,0,4152,2],
 "d3/ded/classspell__sha__totemic__mastery.html#af875d62dd47650c9f2e9c3a4508ed05b":[7,0,4152,0],
-"d3/ded/structM2Array.html":[7,0,1508],
-"d3/ded/structM2Array.html#ad633b2e9afc82762c6b43675844f8fea":[7,0,1508,1],
-"d3/ded/structM2Array.html#af111e542d7a276e27d2b14757293bc42":[7,0,1508,0]
+"d3/ded/structM2Array.html":[7,0,1508]
 };

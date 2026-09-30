@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444":[8,0,0,0,1,2,16,6,2,4],
+"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a187b9625022c1735c982b1e3c50dd561":[8,0,0,0,1,2,16,6,2,4,8],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a33161649be8fb2bd8709bc5fbe546690":[8,0,0,0,1,2,16,6,2,4,15],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a394617258d75d5e3c8d1db61a031efae":[8,0,0,0,1,2,16,6,2,4,14],
 "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a3b9805558d7366ab00e92a1472291072":[8,0,0,0,1,2,16,6,2,4,5],
@@ -85,16 +87,16 @@ var NAVTREEINDEX189 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[7,0,13,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[7,0,13,11,4,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,34,11,4,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[7,0,13,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[7,0,13,11,4,2],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[7,0,13,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[7,0,2752],
 "d6/d9d/classspell__brewfest__add__mug.html#a1c69fb2fd3fa623d62647fca738d27d6":[7,0,2752,1],
 "d6/d9d/classspell__brewfest__add__mug.html#a3860ad8a34e37601f7a4cef395f7ab2a":[7,0,2752,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d6/dad/classspell__gen__eject__all__passengers.html#a4ec803f3164d6e38ddf10f4a0ca392e0":[7,0,3078,2],
 "d6/dad/classspell__gen__eject__all__passengers.html#a50e902cc281b909259097a8bed5651f2":[7,0,3078,1],
 "d6/dad/classspell__gen__eject__all__passengers.html#abb178100d4e5fa4032118f86aa34127d":[7,0,3078,0],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html":[7,0,2330,0],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[7,0,2330,0,1],
-"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[7,0,2330,0,0]
+"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html":[7,0,2330,0]
 };

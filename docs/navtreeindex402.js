@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3a56d8c9e21488984b065094d9bee260":[8,0,0,0,1,3,5,6,9,42,1],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,6,9,42,0],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a64ebcfa4a9c15320f2f63e123edb3610":[8,0,0,0,1,3,5,6,9,42,2],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a709b103f6781455b2acf46507f096194":[8,0,0,0,1,3,5,6,9,42,6],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,6,9,42,8],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8824e48ce7b43d1d17c4059e3e04b4e4":[8,0,0,0,1,3,5,6,9,42,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[7,0,192,0],
 "de/df1/ALEScript_8cpp.html":[8,0,0,0,1,2,38,0,6],
 "de/df1/ALEScript_8cpp.html#a84c662c2b9398225a13a01142e622675":[8,0,0,0,1,2,38,0,6,0],
-"de/df1/DatabaseScript_8cpp.html":[8,0,0,0,1,2,38,0,43],
-"de/df1/DatabaseScript_8cpp.html#aea9c85b8c04ac043bf7c7cb880a57d95":[8,0,0,0,1,2,38,0,43,0],
-"de/df1/structboss__ionar.html":[7,0,567],
-"de/df1/structboss__ionar.html#a16abbb5ac05ef6c471ad051be25525a8":[7,0,567,2]
+"de/df1/DatabaseScript_8cpp.html":[8,0,0,0,1,2,38,0,43]
 };

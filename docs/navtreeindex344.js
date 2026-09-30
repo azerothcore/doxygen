@@ -1,5 +1,8 @@
 var NAVTREEINDEX344 =
 {
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac7a8883f38ee770c4ccee7d6bd3d4e38":[7,0,439,0,21],
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ae5615db7a2b5e62ae000c27ac72300de":[7,0,439,0,4],
+"dd/d13/classDBCFile.html":[7,0,992],
 "dd/d13/classDBCFile.html#a1078e933a1984bc8cd74126bbd217571":[7,0,992,24],
 "dd/d13/classDBCFile.html#a13665b42b03d29542922798b8e596db0":[7,0,992,21],
 "dd/d13/classDBCFile.html#a1ad4638c766b9222924e17977153439c":[7,0,992,4],
@@ -14,11 +17,11 @@ var NAVTREEINDEX344 =
 "dd/d13/classDBCFile.html#a5bad58543d306efba432f49474861c78":[7,0,992,22],
 "dd/d13/classDBCFile.html#a612b41c93f0acc15638ff9874f260799":[7,0,992,25],
 "dd/d13/classDBCFile.html#a8059ee48b626aa095d186771b3992121":[7,0,992,8],
-"dd/d13/classDBCFile.html#a8255273a3ed878f743837eecf83c5897":[7,0,992,19],
 "dd/d13/classDBCFile.html#a8255273a3ed878f743837eecf83c5897":[7,0,992,20],
+"dd/d13/classDBCFile.html#a8255273a3ed878f743837eecf83c5897":[7,0,992,19],
 "dd/d13/classDBCFile.html#ac3539b586d9d87f274e582115c6fad21":[7,0,992,15],
-"dd/d13/classDBCFile.html#ae0fd1c5f3728ec3073a6615dc9604f9c":[7,0,992,17],
 "dd/d13/classDBCFile.html#ae0fd1c5f3728ec3073a6615dc9604f9c":[7,0,992,18],
+"dd/d13/classDBCFile.html#ae0fd1c5f3728ec3073a6615dc9604f9c":[7,0,992,17],
 "dd/d13/classDBCFile.html#ae41b3ec666d9ccd6804d90a341cc7207":[7,0,992,11],
 "dd/d13/classDBCFile.html#ae6c0a134786acbe1ef184d053efc2b00":[7,0,992,27],
 "dd/d13/classDBCFile.html#aeb8bf52f3140176b383d746247763d69":[7,0,992,14],
@@ -34,8 +37,8 @@ var NAVTREEINDEX344 =
 "dd/d14/WhoListCacheMgr_8h.html#aae5ef4cf031d5523b7d5fda6d83af41a":[8,0,0,0,1,2,9,3,2],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html":[7,0,13,6,19],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html":[5,0,34,6,19],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a2950da8bfc40df57a3f5a66eee47a7ef":[5,0,34,6,19,0],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a2950da8bfc40df57a3f5a66eee47a7ef":[7,0,13,6,19,0],
+"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a2950da8bfc40df57a3f5a66eee47a7ef":[5,0,34,6,19,0],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a44261fbc379b3137548922faf4b5cbda":[7,0,13,6,19,5],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a44261fbc379b3137548922faf4b5cbda":[5,0,34,6,19,5],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a66284a4d9cb40b025ef265d443e6e62f":[5,0,34,6,19,3],
@@ -149,8 +152,8 @@ var NAVTREEINDEX344 =
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,0,68],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a2cc23e9fbd7beee5314b72036cba9ebf":[5,0,0,68,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a2cc23e9fbd7beee5314b72036cba9ebf":[7,0,0,56,2],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a4e85da5aa745128d8103c8214ae32af5":[5,0,0,68,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a4e85da5aa745128d8103c8214ae32af5":[7,0,0,56,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a4e85da5aa745128d8103c8214ae32af5":[5,0,0,68,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,0,68,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[7,0,0,56,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[7,0,0,56,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d1f/structnpc__arcanite__dragonling.html#a921b35a91c4f21258efdb41fd87413db":[7,0,1664,2],
 "dd/d1f/structnpc__arcanite__dragonling.html#a9b7e4cefa312a16c90018d655ad94758":[7,0,1664,0],
 "dd/d1f/structnpc__arcanite__dragonling.html#aebe430b9a3079a5ccbfd979a74e532f3":[7,0,1664,5],
-"dd/d21/classspell__item__sunwell__exalted__healer__neck.html":[7,0,3516],
-"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a116d2bc302ca74ae39d98f8d5849e757":[7,0,3516,1],
-"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a1642e1c445baac2be49a32797f21ca31":[7,0,3516,0],
-"dd/d21/classspell__item__sunwell__exalted__healer__neck.html#a8c0d81f8480be1853679d1f2a20ecfbb":[7,0,3516,2]
+"dd/d21/classspell__item__sunwell__exalted__healer__neck.html":[7,0,3516]
 };

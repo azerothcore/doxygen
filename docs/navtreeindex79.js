@@ -1,5 +1,6 @@
 var NAVTREEINDEX79 =
 {
+"d2/de9/classSpellInfo.html#a8fff47546b8052ac55963dd40e4ae394":[7,0,4487,169],
 "d2/de9/classSpellInfo.html#a90cea176a06543484be7809b8ec25441":[7,0,4487,183],
 "d2/de9/classSpellInfo.html#a910589a69440308d9cddfb4bc741e457":[7,0,4487,10],
 "d2/de9/classSpellInfo.html#a922014dec721a3c3725d821080f959e0":[7,0,4487,113],
@@ -248,6 +249,5 @@ var NAVTREEINDEX79 =
 "d2/dea/classGameEventAIHookWorker.html#ab1ee68bb7134e84780772eba2cfac766":[7,0,1110,5],
 "d2/dea/classGameEventAIHookWorker.html#ad72640a18d2d32a9201c965089ee49cf":[7,0,1110,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html":[8,0,0,0,1,3,7,0,3,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,1,2],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca29c5fb4170a680a3555a6cf180c5458d":[8,0,0,0,1,3,7,0,3,1,2,4]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,1,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html":[7,0,603,0],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a162870aad6c99276f760b2e37b42c6c9":[7,0,603,0,17],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a277180410090d1857bcc8962e22d965d":[7,0,603,0,0],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a325834b73d181e0506e1ea40380cddac":[7,0,603,0,8],
@@ -30,14 +31,14 @@ var NAVTREEINDEX77 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#a88f9d4e72273f8f835e809b27d5b52d8":[7,0,2133,0,2],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#ab3c6c27a31f12443efcad314cbfa1129":[7,0,2133,0,5],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[7,0,2133,0,4],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[7,0,13,2,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[7,0,13,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[8,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5":[8,0,0,0,1,3,5,8,1,5,4],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44":[8,0,0,0,1,3,5,8,1,5,4,0],
@@ -126,10 +127,10 @@ var NAVTREEINDEX77 =
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[8,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,0,53],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[7,0,0,41],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "d2/de1/classlearn__commandscript.html#a2a7cc02eb4417907b50d49bab39110cf":[7,0,1453,7],
 "d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[7,0,1453,14],
 "d2/de1/classlearn__commandscript.html#a44b538a1031ad69bec762f1a791cf11f":[7,0,1453,11],
-"d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[7,0,1453,0],
-"d2/de1/classlearn__commandscript.html#a88e28ec43968c5a8b0bfd1f190d89a98":[7,0,1453,4]
+"d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[7,0,1453,0]
 };

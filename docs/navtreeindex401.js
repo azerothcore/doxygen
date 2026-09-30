@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"de/dd3/classMovementGeneratorMedium.html":[7,0,1586],
+"de/dd3/classMovementGeneratorMedium.html#a6db99ea9863dc60d032bacda37afa078":[7,0,1586,2],
+"de/dd3/classMovementGeneratorMedium.html#a90c8b42ef67968bf58acae5678dc7496":[7,0,1586,0],
 "de/dd3/classMovementGeneratorMedium.html#ad6b97c3e2884dfbe3f17e2579b31ac66":[7,0,1586,1],
 "de/dd3/classMovementGeneratorMedium.html#af044c8725ef11e8a152987225521ef8b":[7,0,1586,3],
 "de/dd4/classspell__saronite__vapors__damage.html":[7,0,4081],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,6,9,42,10],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[8,0,0,0,1,3,5,6,9,42,12],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a298aa81cc7a711503124972bc1e8f1d4":[8,0,0,0,1,3,5,6,9,42,7],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3110a46648bbeac1b39ec0306d1ebc42":[8,0,0,0,1,3,5,6,9,42,11],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3a56d8c9e21488984b065094d9bee260":[8,0,0,0,1,3,5,6,9,42,1],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,6,9,42,0],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a64ebcfa4a9c15320f2f63e123edb3610":[8,0,0,0,1,3,5,6,9,42,2]
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3110a46648bbeac1b39ec0306d1ebc42":[8,0,0,0,1,3,5,6,9,42,11]
 };

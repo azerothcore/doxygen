@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"d6/d6e/structboss__sartura.html#a516a75910e872718a519c2a5c9805770":[7,0,704,5],
+"d6/d6e/structboss__sartura.html#a7faaf16a1a56badd1e65a3364d425f02":[7,0,704,0],
 "d6/d6e/structboss__sartura.html#a8ad40cee9667500cb0e9533256d216c6":[7,0,704,8],
 "d6/d6e/structboss__sartura.html#a9a404743ac8491a9efc7091259706e0f":[7,0,704,1],
 "d6/d6e/structboss__sartura.html#ab1c024908117e8460eb89c062d3825dc":[7,0,704,4],
@@ -65,8 +67,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3191,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2021],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[7,0,2021,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2021,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d79/classOPvPCapturePoint.html#abcfc4d11c2e518bfe0fa3eb88e164b73":[7,0,2374,10],
 "d6/d79/classOPvPCapturePoint.html#abef6917208d303f42716ced9b8696eb2":[7,0,2374,34],
 "d6/d79/classOPvPCapturePoint.html#abfc98c11a311a094fa6f3e3a60c4d716":[7,0,2374,14],
-"d6/d79/classOPvPCapturePoint.html#ac3ed6a7323dc5d369135778fd68a7137":[7,0,2374,44],
-"d6/d79/classOPvPCapturePoint.html#ad41ad9b5db99be93435ddbf1bc9377d2":[7,0,2374,38],
-"d6/d79/classOPvPCapturePoint.html#ada5de9d6309ca48f77a1be61033fe9d4":[7,0,2374,15]
+"d6/d79/classOPvPCapturePoint.html#ac3ed6a7323dc5d369135778fd68a7137":[7,0,2374,44]
 };

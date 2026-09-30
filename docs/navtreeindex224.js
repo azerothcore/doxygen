@@ -1,5 +1,7 @@
 var NAVTREEINDEX224 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca9cf42663f71e108eecde8b425d1d1e09":[8,0,0,0,1,3,2,11,0,6,25],
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caa7a8209a537a07d0bf6865750115a0ad":[8,0,0,0,1,3,2,11,0,6,28],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caa8522ff1c09485d5df3dd1fd2015a236":[8,0,0,0,1,3,2,11,0,6,18],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cab6893bc0313836de581c7889bfb3e026":[8,0,0,0,1,3,2,11,0,6,9],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cab7adf7f596afd9c3089cdae2ae4f292f":[8,0,0,0,1,3,2,11,0,6,20],
@@ -41,8 +43,8 @@ var NAVTREEINDEX224 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[7,0,13,23,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,23,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[7,0,13,23,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,23,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[7,0,13,23,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,23,2],
 "d8/d12/structboss__ayamiss.html":[7,0,406],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[7,0,406,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[7,0,406,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248ab5e17fcc103d5693704ebb772ced41c8":[8,0,0,0,1,3,10,12,4,12],
 "d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248abb3404c3907acebfdbf1102d6dc34041":[8,0,0,0,1,3,10,12,4,3],
 "d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248aea664410af0966c75d8c81ca790c1463":[8,0,0,0,1,3,10,12,4,6],
-"d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248af258b492afa6684ce60918ec506e0474":[8,0,0,0,1,3,10,12,4,13],
-"d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html":[7,0,1739,0],
-"d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1739,0,8]
+"d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248af258b492afa6684ce60918ec506e0474":[8,0,0,0,1,3,10,12,4,13]
 };

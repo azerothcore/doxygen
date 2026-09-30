@@ -7,5 +7,6 @@ var structboss__yoggsaron__cloud =
     [ "Reset", "d9/df3/structboss__yoggsaron__cloud.html#ad548ae65a05f600487a57899760ebab0", null ],
     [ "UpdateAI", "d9/df3/structboss__yoggsaron__cloud.html#aa4b62a29fe7d62a2124d8cfaf9c612ec", null ],
     [ "_checkTimer", "d9/df3/structboss__yoggsaron__cloud.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "d9/df3/structboss__yoggsaron__cloud.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
+    [ "_isSummoning", "d9/df3/structboss__yoggsaron__cloud.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ],
+    [ "clockwise", "d9/df3/structboss__yoggsaron__cloud.html#ad57ebcd626b3333a5785caeb1dd43fd5", null ]
 ];

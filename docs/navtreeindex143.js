@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d4/dd0/classWorldObject.html#a5e752dae0f717a0651c9deeef29f1787":[7,0,4731,191],
+"d4/dd0/classWorldObject.html#a5f9bf74852e013f57c57ac1893afc89e":[7,0,4731,145],
 "d4/dd0/classWorldObject.html#a6094692a3fd8540c14adf61925330c8e":[7,0,4731,201],
 "d4/dd0/classWorldObject.html#a614cf4777738bec24cdaa0e3043b0c8b":[7,0,4731,26],
 "d4/dd0/classWorldObject.html#a632d2e78acdcbc0aef09951134340d4e":[7,0,4731,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html#a303994b6f5e2ae6e4d6f0e44d9eb60a9":[7,0,2138,2],
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html#a68ef8f2c7014850c5107cc22deff8658":[7,0,2138,1],
 "d4/dd6/structnpc__razorscale__dark__rune__watcher.html#a8d1518f80cc6427d0334770a5aaf130a":[7,0,2138,4],
-"d4/dd6/structnpc__razorscale__dark__rune__watcher.html#aaab4be32140991366f1a004622bf3b31":[7,0,2138,3],
-"d4/dd6/structnpc__razorscale__dark__rune__watcher.html#ac08ba6b60827408aeb1b63a48a57fa9e":[7,0,2138,6],
-"d4/dd6/structnpc__razorscale__dark__rune__watcher.html#aff56f4cadfeb72f6a96f8ac86b27a6a1":[7,0,2138,0]
+"d4/dd6/structnpc__razorscale__dark__rune__watcher.html#aaab4be32140991366f1a004622bf3b31":[7,0,2138,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#af8a298ccbd6f22a0a4416ed6cb082e67":[7,0,1936,0,7],
 "d3/d02/structboss__kalecgos.html":[7,0,581],
 "d3/d02/structboss__kalecgos.html#a17ffb7ec1b591acb0e5c359cb73ed2f6":[7,0,581,3],
 "d3/d02/structboss__kalecgos.html#a595eb66eb6f820efa29fcc5d631fe159":[7,0,581,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca652b099e337cfab2429eb1e1758f81df":[8,0,0,0,1,3,5,15,35,8],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca740b24a00be08e42343fdc9bdb1ba1de":[8,0,0,0,1,3,5,15,35,9],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca9159ca9abe5a33cf89ac895992605a60":[8,0,0,0,1,3,5,15,35,6],
-"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caa5be06bbb7ef549209e4e173e655ae66":[8,0,0,0,1,3,5,15,35,11],
-"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac0a67b02752afb37b583ab39b053ee4f":[8,0,0,0,1,3,5,15,35,3]
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caa5be06bbb7ef549209e4e173e655ae66":[8,0,0,0,1,3,5,15,35,11]
 };

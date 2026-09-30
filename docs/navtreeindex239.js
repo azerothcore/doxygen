@@ -1,5 +1,7 @@
 var NAVTREEINDEX239 =
 {
+"d8/dc8/structnpc__ulduar__hodir__priest.html#adb189dbf0e536f469f1a0d82d42de6de":[7,0,2282,10],
+"d8/dc8/structnpc__ulduar__hodir__priest.html#af18269ae027e71f86796e723111227b4":[7,0,2282,0],
 "d8/dc9/BattlegroundSpamProtect_8h.html":[8,0,0,0,1,2,8,17],
 "d8/dc9/BattlegroundSpamProtect_8h.html#ae37d7994736d43484a627d5de2af5fc1":[8,0,0,0,1,2,8,17,1],
 "d8/dca/classspell__nether__portal__perseverence.html":[7,0,3733],
@@ -247,7 +249,5 @@ var NAVTREEINDEX239 =
 "d8/dd6/DBCfmt_8h.html#ac62d1b9c6855c6a25a92d52b1de14c7a":[8,0,0,0,1,4,0,3,93],
 "d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[8,0,0,0,1,4,0,3,38],
 "d8/dd6/DBCfmt_8h.html#aca90fef36ea63da13958a5b64c5b71f3":[8,0,0,0,1,4,0,3,61],
-"d8/dd6/DBCfmt_8h.html#acad7aec58fc9a46120295b46a083b10a":[8,0,0,0,1,4,0,3,14],
-"d8/dd6/DBCfmt_8h.html#ace86dcea64e966b5135709935ccca6a5":[8,0,0,0,1,4,0,3,47],
-"d8/dd6/DBCfmt_8h.html#acec1ca5d9f0bf61679ba02f5470511be":[8,0,0,0,1,4,0,3,32]
+"d8/dd6/DBCfmt_8h.html#acad7aec58fc9a46120295b46a083b10a":[8,0,0,0,1,4,0,3,14]
 };

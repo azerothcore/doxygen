@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfa4b96c675dc4859521127b63697f1a304":[8,0,0,0,0,5,3,10,1],
+"d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfa6603206b61dfcc7d63a0e72985569329":[8,0,0,0,0,5,3,10,8],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfa6a3d4d84eeedaae86688efb735f914df":[8,0,0,0,0,5,3,10,6],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfaa3f51b9fc8340e1aefe320dfc751091c":[8,0,0,0,0,5,3,10,2],
 "d7/d83/WheatyExceptionReport_8h.html#ace34b43f7a85070c2f233cbb13e362bfaad96ff0f53b5dc26c0cacd4f5db839a5":[8,0,0,0,0,5,3,10,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d90/boss__harbinger__skyriss_8cpp.html#a757ea0d4b31a1b8bd53b33ec2b9f8e87":[8,0,0,0,1,3,7,5,0,3,4],
 "d7/d91/Mail_8cpp.html":[8,0,0,0,1,2,25,0],
 "d7/d91/classCritterAI.html":[7,0,975],
-"d7/d91/classCritterAI.html#a2f52eb5c527895168f18ed5ddcc560a9":[7,0,975,2],
-"d7/d91/classCritterAI.html#a54c44d28e4b2b3231afeb8de343dee43":[7,0,975,3],
-"d7/d91/classCritterAI.html#a989d1fc00af900320dcf27cce7f247dc":[7,0,975,1]
+"d7/d91/classCritterAI.html#a2f52eb5c527895168f18ed5ddcc560a9":[7,0,975,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX335 =
 {
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[7,0,0,77,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,0,89,0],
+"dc/d97/classspell__warl__seduction.html":[7,0,4366],
 "dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[7,0,4366,0],
 "dc/d97/classspell__warl__seduction.html#a7596065e5ffcacf099a5984f5d940c11":[7,0,4366,1],
 "dc/d97/classspell__warl__seduction.html#a8efa76b28dddad68fee132f37791f231":[7,0,4366,2],
@@ -16,8 +19,8 @@ var NAVTREEINDEX335 =
 "dc/d97/structTaxiPathNodeEntry.html#af9f8e03c2d9c1bdf266b3d62f1174224":[7,0,4569,4],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[5,0,34,15,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[7,0,13,15,1],
-"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[5,0,34,15,1,0],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[7,0,13,15,1,0],
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[5,0,34,15,1,0],
 "dc/d97/structboss__apoko.html":[7,0,399],
 "dc/d97/structboss__apoko.html#a3ae4752839f47bbfce5f7df03c427cd2":[7,0,399,0],
 "dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[7,0,399,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX335 =
 "dc/da7/classspell__item__chicken__cover.html#a070e83b84feb418f02327240daebede7":[7,0,3388,2],
 "dc/da7/classspell__item__chicken__cover.html#a0c2965e62feb26ca764636fcd3a1f885":[7,0,3388,3],
 "dc/da7/classspell__item__chicken__cover.html#a13b4ea32e03dec26d0cdaa9537abb3b0":[7,0,3388,0],
-"dc/da7/classspell__item__chicken__cover.html#a48934cde38c6f3b18087267b616ff338":[7,0,3388,4],
-"dc/da7/classspell__item__chicken__cover.html#a78506404ba25b054a9ab3f7176a5d4fc":[7,0,3388,1],
-"dc/da7/scourge__invasion_8cpp.html":[8,0,0,0,1,3,10,16],
-"dc/da7/scourge__invasion_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[8,0,0,0,1,3,10,16,15]
+"dc/da7/classspell__item__chicken__cover.html#a48934cde38c6f3b18087267b616ff338":[7,0,3388,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d39/classWorld.html#a3945acd775fc103f562989963215e461":[4,2,12,102],
+"d6/d39/classWorld.html#a39dc78de4ec20677aa8b00c1d3449fb8":[4,2,12,14],
 "d6/d39/classWorld.html#a3ac6d12f20e9d3e914b21fc5cc27938d":[4,2,12,45],
 "d6/d39/classWorld.html#a3d60eea71f41e734e8237b35d5a4d1db":[4,2,12,67],
 "d6/d39/classWorld.html#a40a7a30c44e96d80e35e4155e75f5db6":[4,2,12,28],
@@ -235,19 +237,17 @@ var NAVTREEINDEX179 =
 "d6/d41/structboss__veknilash.html#a454027d829b962ee0feebb6fd5687714":[7,0,779,1],
 "d6/d41/structboss__veknilash.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f":[7,0,779,0],
 "d6/d41/structboss__veknilash.html#ace8de3d9a397d0571da1f5bdd2ba84d5":[7,0,779,2],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[7,0,3,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,13,0],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[7,0,3,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,13,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[7,0,3,0,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[7,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,13,0,1],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[7,0,3,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,13,0,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[7,0,3,0,2],
 "d6/d46/classspell__sha__heroism.html":[7,0,4122],
 "d6/d46/classspell__sha__heroism.html#a1374c764b20b95febbca44c593bde218":[7,0,4122,3],
 "d6/d46/classspell__sha__heroism.html#a2eb14ea281b41b08acd4514c01aa938f":[7,0,4122,4],
 "d6/d46/classspell__sha__heroism.html#a76ecb96d27c54b18f3628476dae4cc73":[7,0,4122,0],
-"d6/d46/classspell__sha__heroism.html#ae53dfd7f60a1c4132c441f7cd1595b95":[7,0,4122,2],
-"d6/d46/classspell__sha__heroism.html#aeff4dce89b0d893b90571e0ff63e1aaa":[7,0,4122,1],
-"d6/d47/ScriptedGossip_8cpp.html":[8,0,0,0,1,2,3,1,6]
+"d6/d46/classspell__sha__heroism.html#ae53dfd7f60a1c4132c441f7cd1595b95":[7,0,4122,2]
 };

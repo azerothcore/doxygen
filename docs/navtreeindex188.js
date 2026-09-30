@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d6/d8b/classTestPlayer.html#ad56f27531abb9267f144b2b22d61a5bf":[7,0,4578,2],
+"d6/d8b/classTestPlayer.html#adb765e8464642610eeebf25c5fa17edd":[7,0,4578,1],
 "d6/d8b/classat__sunwell__madrigosa.html":[7,0,254],
 "d6/d8b/classat__sunwell__madrigosa.html#a137c231ea66d3781080a5617a2ffcc9e":[7,0,254,1],
 "d6/d8b/classat__sunwell__madrigosa.html#a489ddb537ef272f22bd69ced194762e7":[7,0,254,0],
@@ -154,8 +156,8 @@ var NAVTREEINDEX188 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[7,0,1148,1],
 "d6/d96/classDBCFile_1_1Record.html":[7,0,992,3],
 "d6/d96/classDBCFile_1_1Record.html#a1f7968eeee027251427a7f41dc7f948e":[7,0,992,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,8],
+"d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,992,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,992,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,992,3,1],
@@ -166,8 +168,8 @@ var NAVTREEINDEX188 =
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,992,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[7,0,992,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[7,0,992,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,9],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,10],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,9],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[7,0,992,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[7,0,992,3,16],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html":[7,0,2008,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d6/d9a/PetDefines_8h.html#a4135b2b50486d91baa260c63a20f15f5a9b8bacded9035aeabc92430edece787c":[8,0,0,0,1,2,16,6,2,9,1],
 "d6/d9a/PetDefines_8h.html#a4135b2b50486d91baa260c63a20f15f5aa45b4f700fe69b9edae4fb979b988ffe":[8,0,0,0,1,2,16,6,2,9,3],
 "d6/d9a/PetDefines_8h.html#a4957a90340dbf72fc1e78027fc825e5c":[8,0,0,0,1,2,16,6,2,13],
-"d6/d9a/PetDefines_8h.html#a614e66564b4c3d044cd6e1b5880de654":[8,0,0,0,1,2,16,6,2,15],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444":[8,0,0,0,1,2,16,6,2,4],
-"d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444a187b9625022c1735c982b1e3c50dd561":[8,0,0,0,1,2,16,6,2,4,8]
+"d6/d9a/PetDefines_8h.html#a614e66564b4c3d044cd6e1b5880de654":[8,0,0,0,1,2,16,6,2,15]
 };

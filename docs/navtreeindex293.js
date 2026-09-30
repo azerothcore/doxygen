@@ -1,5 +1,8 @@
 var NAVTREEINDEX293 =
 {
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,7,1],
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1942,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1942,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1942,0,9],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1afe3245dc18db3c0bf6801b5ca20d31":[7,0,1942,0,0],
@@ -14,10 +17,10 @@ var NAVTREEINDEX293 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[7,0,1942,0,3],
 "db/d21/BattlefieldMgr_8h.html":[8,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
@@ -246,8 +249,5 @@ var NAVTREEINDEX293 =
 "db/d31/structnpc__hive__zara__swarmer.html#a3b3510bd00853395b756e1d83d96a474":[7,0,1902,1],
 "db/d32/classWardenMac.html":[7,0,4678],
 "db/d32/classWardenMac.html#a024be47d39641cb0e7654b0e0999e444":[7,0,4678,3],
-"db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da":[7,0,4678,7],
-"db/d32/classWardenMac.html#a4fceef34e83db1a357d9eadce35efdef":[7,0,4678,6],
-"db/d32/classWardenMac.html#a576c0cf7a819e95c97cc0ac4e5962d6d":[7,0,4678,0],
-"db/d32/classWardenMac.html#a5f3832580c73a0af34fa83669a92ceab":[7,0,4678,1]
+"db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da":[7,0,4678,7]
 };

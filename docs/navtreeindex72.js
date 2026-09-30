@@ -1,5 +1,6 @@
 var NAVTREEINDEX72 =
 {
+"d2/d8e/structboss__freya__summons.html#abc3634dce208478e82d3c9bb19d222df":[7,0,501,6],
 "d2/d8e/structboss__freya__summons.html#acec319d89a49da510093411f681fb950":[7,0,501,5],
 "d2/d8e/structboss__freya__summons.html#af7e842a7bc2be806816a942026670d71":[7,0,501,4],
 "d2/d8f/structScriptInfo.html":[7,0,2583],
@@ -238,8 +239,8 @@ var NAVTREEINDEX72 =
 "d2/d9a/classnpc__gothik__trigger.html#a9b3b47e95d2c41c109a9ccd3915b89ff":[7,0,1870,2],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html":[5,0,20,7],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html":[7,0,6,7],
-"d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html#a70ec58f039b03d2fed3cb7692622c4dc":[7,0,6,7,0],
 "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html#a70ec58f039b03d2fed3cb7692622c4dc":[5,0,20,7,0],
+"d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html#a70ec58f039b03d2fed3cb7692622c4dc":[7,0,6,7,0],
 "d2/d9a/structboss__fathomguard__sharkkis.html":[7,0,478],
 "d2/d9a/structboss__fathomguard__sharkkis.html#a1a4fdf91f6d8d0e3e0672e174152a59d":[7,0,478,2],
 "d2/d9a/structboss__fathomguard__sharkkis.html#a31098d1e91412b797663fe677114af20":[7,0,478,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX72 =
 "d2/d9a/structboss__fathomguard__sharkkis.html#a5d8b89e2d4a203df5ec574b96df0d489":[7,0,478,5],
 "d2/d9a/structboss__fathomguard__sharkkis.html#a73f887b3f829027fc336a8e4a9c5b963":[7,0,478,8],
 "d2/d9a/structboss__fathomguard__sharkkis.html#ab71689fda10d6d31dd2bfc72026bd755":[7,0,478,6],
-"d2/d9a/structboss__fathomguard__sharkkis.html#ad3dc90987a8b01fcd55799f66d18906c":[7,0,478,7],
-"d2/d9a/structboss__fathomguard__sharkkis.html#affc3a4422ce62311879bef6df104c9b9":[7,0,478,0]
+"d2/d9a/structboss__fathomguard__sharkkis.html#ad3dc90987a8b01fcd55799f66d18906c":[7,0,478,7]
 };

@@ -75,6 +75,7 @@ var boss__yoggsaron_8cpp =
       [ "SUMMON_GROUP_CHAMBER_TENTACLES", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad33400240976b8ea60ebc33984dd17ce", null ],
       [ "SUMMON_GROUP_ICECROWN_TENTACLES", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a435e4dde2b1557a4594e2f7b83a718d8", null ],
       [ "SUMMON_GROUP_STORMWIND_TENTACLES", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1af23f25aa7c2149e7ded111edda8716", null ],
+      [ "SUMMON_GROUP_CLOUDS", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa1412997ae74d2dbaea0f7b90fc7ac98", null ],
       [ "EVENT_PHASE_ONE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6b9ce13a0146076fc808a80ed99ccac7", null ],
       [ "EVENT_PHASE_TWO", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1bb0a83e28cfe9a4b28e66a80d9d5750", null ],
       [ "EVENT_PHASE_THREE", "d3/d32/boss__yoggsaron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a399f435f01db5b6781c8ab55b185c10b", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX151 =
 {
+"d5/d39/classspell__halion__twilight__phasing.html#af66a6bff13803e54b6ed1447d1285ad4":[7,0,3225,1],
+"d5/d3b/classAuctionSorter.html":[7,0,288],
 "d5/d3b/classAuctionSorter.html#a11708aa660757db95c88d9dc7e9b9521":[7,0,288,2],
 "d5/d3b/classAuctionSorter.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b":[7,0,288,0],
 "d5/d3b/classAuctionSorter.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7":[7,0,288,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX151 =
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a5d2a7910d1b37d273b0cf215d624b394":[8,0,0,0,1,3,5,8,2,5,20,13],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a778d5f012fd7d1541bfae3038c1d0a85":[8,0,0,0,1,3,5,8,2,5,20,2],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a7c4cc6300acfcaaf61fc0dc7e31cda35":[8,0,0,0,1,3,5,8,2,5,20,5],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,8,2,5,20,12],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a92fce45d9cbce0450ed91e2e78b025d2":[8,0,0,0,1,3,5,8,2,5,20,1],
-"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a9ec1abead0774fc9b03a5fdfd3b94c62":[8,0,0,0,1,3,5,8,2,5,20,8]
+"d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,8,2,5,20,12]
 };

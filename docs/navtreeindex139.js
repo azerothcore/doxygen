@@ -1,5 +1,7 @@
 var NAVTREEINDEX139 =
 {
+"d4/da4/classspell__ulduar__squeezed__lifeless.html#a46f2c2658e6b55f091bf8894f06a787c":[7,0,4303,2],
+"d4/da4/classspell__ulduar__squeezed__lifeless.html#a593786eb89bf77e05dad4b502ffc1925":[7,0,4303,0],
 "d4/da4/classspell__ulduar__squeezed__lifeless.html#aa89401a4c6b1c85e4242bda45933b0ad":[7,0,4303,1],
 "d4/da4/structSkillTiersEntry.html":[7,0,2624],
 "d4/da4/structSkillTiersEntry.html#a142c8a5e22234e6317ff113618559b8b":[7,0,2624,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX139 =
 "d4/da9/classspell__talon__king__ikiss__blink.html#ae892090a9bd48aa447224c9f96801d37":[7,0,4219,1],
 "d4/da9/classspell__talon__king__ikiss__blink.html#aeb1aad59b6b4767a63660c5fe0277392":[7,0,4219,3],
 "d4/da9/classspell__talon__king__ikiss__blink.html#af08ab4fcc3705b07e89ed222794e70e9":[7,0,4219,2],
-"d4/da9/namespaceboost.html":[5,0,7],
-"d4/daa/classspell__oculus__rider__aura.html":[7,0,3748],
-"d4/daa/classspell__oculus__rider__aura.html#a2e0c7df73cc7246524f6d745ff1fbeb1":[7,0,3748,5]
+"d4/da9/namespaceboost.html":[5,0,7]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX252 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1abb934fc6255f1bdad2b9d67a0d59caaa":[8,0,0,0,1,3,5,6,13,12,3],
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1ac1f6d8a3be4624ca238f359d44ffaf50":[8,0,0,0,1,3,5,6,13,12,9],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1adf9c04675004fe489e423907e06f482e":[8,0,0,0,1,3,5,6,13,12,2],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412":[8,0,0,0,1,3,5,6,13,14],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a0ad2feb77f53e0f0697f5efde0ce86b2":[8,0,0,0,1,3,5,6,13,14,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX252 =
 "d9/d6d/structnpc__vh__teleportation__portal.html#a3bb6021855bed917fdd2ef47f8ddca29":[7,0,2315,4],
 "d9/d6d/structnpc__vh__teleportation__portal.html#a7483553634133f980929aaeef39bd6a6":[7,0,2315,8],
 "d9/d6d/structnpc__vh__teleportation__portal.html#a8856350d299bfb25a4e77bb8753afa14":[7,0,2315,9],
-"d9/d6d/structnpc__vh__teleportation__portal.html#aa58672b2022e44b90adc8bf331ee84fc":[7,0,2315,3],
-"d9/d6d/structnpc__vh__teleportation__portal.html#ac89ccf4030e5dffe15d0b24b991176de":[7,0,2315,10],
-"d9/d6d/structnpc__vh__teleportation__portal.html#acf09515827ae926fe83ffc87a7e35ac5":[7,0,2315,7]
+"d9/d6d/structnpc__vh__teleportation__portal.html#aa58672b2022e44b90adc8bf331ee84fc":[7,0,2315,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX230 =
 {
+"d8/d65/boss__emalon_8cpp.html#aafa35d9805b997859cde4b169584554b":[8,0,0,0,1,3,5,11,1,10],
+"d8/d65/boss__emalon_8cpp.html#ab4e0aae6960430ff28fa6c5c20ad1de9":[8,0,0,0,1,3,5,11,1,8],
 "d8/d65/boss__emalon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,11,1,4],
 "d8/d65/boss__emalon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f":[8,0,0,0,1,3,5,11,1,4,0],
 "d8/d65/boss__emalon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a44944e59a1877f181fcd2a7b0255a74a":[8,0,0,0,1,3,5,11,1,4,1],
@@ -56,8 +58,8 @@ var NAVTREEINDEX230 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
 "d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,465],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,465,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,465,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d74/classWorldSession.html#a166dbed4035e4bc179d6a9aae3f10cbd":[4,1,20,16],
 "d8/d74/classWorldSession.html#a167453c161905e7fe13789ec3e0b5346":[4,1,20,92],
 "d8/d74/classWorldSession.html#a16902fa33a163ce43345b0e967dc5449":[4,1,20,265],
-"d8/d74/classWorldSession.html#a16b7953dcd44f1a362555897fac75e96":[4,1,20,208],
-"d8/d74/classWorldSession.html#a16fb9154d358a0287529a86b80d3db51":[4,1,20,18],
-"d8/d74/classWorldSession.html#a171a0695336b720fed0dd12fdafbf2a9":[4,1,20,567]
+"d8/d74/classWorldSession.html#a16b7953dcd44f1a362555897fac75e96":[4,1,20,208]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX291 =
 {
+"db/d0c/boss__gahzranka_8cpp.html#a5bd342133be8c2137b831460acc9298caba24a318a569395f4cd8708baf8537c9":[8,0,0,0,1,3,2,15,1,4,4],
+"db/d0c/boss__gahzranka_8cpp.html#acc55bc974b89f69a77dfc30e1ec2dd59":[8,0,0,0,1,3,2,15,1,5],
+"db/d0c/classWorldObjectScript.html":[7,0,4732],
 "db/d0c/classWorldObjectScript.html#a12cf83d65dded66b41ca54a3c1bd31cb":[7,0,4732,5],
 "db/d0c/classWorldObjectScript.html#a2b32bc661e5a377de98902f3bc16679b":[7,0,4732,2],
 "db/d0c/classWorldObjectScript.html#a32e6b907a20d84377e1ddfce79b5cfe1":[7,0,4732,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX291 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4":[8,0,0,0,1,3,9,6,56,47],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a":[8,0,0,0,1,3,9,6,56,3],
 "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437":[8,0,0,0,1,3,9,6,57],
-"db/d16/spell__paladin_8cpp.html#a2cd94a913b63488e2ac0619107111e5c":[8,0,0,0,1,3,9,6,58],
-"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8b":[8,0,0,0,1,3,9,6,53],
-"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8ba63f7bdf1bb315cf30a107d98014572cd":[8,0,0,0,1,3,9,6,53,1],
-"db/d16/spell__paladin_8cpp.html#a53b6ad3fbea511f618d4a6ef88b47c8baec02aee5d1ddbf18c1056beea3fdcc73":[8,0,0,0,1,3,9,6,53,0]
+"db/d16/spell__paladin_8cpp.html#a2cd94a913b63488e2ac0619107111e5c":[8,0,0,0,1,3,9,6,58]
 };
