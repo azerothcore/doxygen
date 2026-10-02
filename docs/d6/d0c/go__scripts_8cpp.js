@@ -44,7 +44,6 @@ var go__scripts_8cpp =
     [ "go_amberpine_outhouse", "dd/df4/classgo__amberpine__outhouse.html", "dd/df4/classgo__amberpine__outhouse" ],
     [ "go_hive_pod", "d0/dc2/classgo__hive__pod.html", "d0/dc2/classgo__hive__pod" ],
     [ "go_massive_seaforium_charge", "d1/d78/classgo__massive__seaforium__charge.html", "d1/d78/classgo__massive__seaforium__charge" ],
-    [ "go_veil_skith_cage", "d1/dd1/classgo__veil__skith__cage.html", "d1/dd1/classgo__veil__skith__cage" ],
     [ "go_bells", "d9/d10/classgo__bells.html", "d9/d10/classgo__bells" ],
     [ "go_bells::go_bellsAI", "de/de2/structgo__bells_1_1go__bellsAI.html", "de/de2/structgo__bells_1_1go__bellsAI" ],
     [ "go_duskwither_spire_power_source", "d4/d42/classgo__duskwither__spire__power__source.html", "d4/d42/classgo__duskwither__spire__power__source" ],
@@ -178,11 +177,6 @@ var go__scripts_8cpp =
     ] ],
     [ "MidsummerMusicEvents", "d6/d0c/go__scripts_8cpp.html#adc61da6c657a244735b14c8dea5f8b22", [
       [ "EVENT_MM_START_MUSIC", "d6/d0c/go__scripts_8cpp.html#adc61da6c657a244735b14c8dea5f8b22a48b8c7eb34fb1be4c3ce19bf76d46bcc", null ]
-    ] ],
-    [ "MissingFriends", "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548", [
-      [ "QUEST_MISSING_FRIENDS", "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33", null ],
-      [ "NPC_CAPTIVE_CHILD", "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f", null ],
-      [ "SAY_FREE_0", "d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4", null ]
     ] ],
     [ "PirateDayMusic", "d6/d0c/go__scripts_8cpp.html#a389c53b4909666608f9054330b601fd1", [
       [ "MUSIC_PIRATE_DAY_MUSIC", "d6/d0c/go__scripts_8cpp.html#a389c53b4909666608f9054330b601fd1a02835584af75215c801e4bf424b70557", null ]

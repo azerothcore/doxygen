@@ -1801,7 +1801,6 @@ var annotated_dup =
     [ "go_type", "d6/ddf/structgo__type.html", "d6/ddf/structgo__type" ],
     [ "go_ulduar_do_not_push_this_button", "d1/de6/classgo__ulduar__do__not__push__this__button.html", "d1/de6/classgo__ulduar__do__not__push__this__button" ],
     [ "go_ulduar_tower", "dc/d51/classgo__ulduar__tower.html", "dc/d51/classgo__ulduar__tower" ],
-    [ "go_veil_skith_cage", "d1/dd1/classgo__veil__skith__cage.html", "d1/dd1/classgo__veil__skith__cage" ],
     [ "go_warmaul_prison", "d4/d67/classgo__warmaul__prison.html", "d4/d67/classgo__warmaul__prison" ],
     [ "go_wg_vehicle_teleporter", "d0/d87/classgo__wg__vehicle__teleporter.html", "d0/d87/classgo__wg__vehicle__teleporter" ],
     [ "go_wind_stone", "db/d9c/classgo__wind__stone.html", "db/d9c/classgo__wind__stone" ],

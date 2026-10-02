@@ -1,12 +1,5 @@
 var NAVTREEINDEX298 =
 {
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa1a72ffd8d599c7547d01334e4b3dc691":[8,0,0,0,1,3,9,4,219,3],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa4a039e59d8b3cae8a44c2456c3a770b9":[8,0,0,0,1,3,9,4,219,0],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa4e955ad762871b3697ac8ac526f4020c":[8,0,0,0,1,3,9,4,219,1],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa5cfa4eb2b192a9a3e266b4af6b2a0e7a":[8,0,0,0,1,3,9,4,219,9],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05faa2586315a2eb1cebd0dbbe2aaaa87e5e":[8,0,0,0,1,3,9,4,219,2],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fab0c274c4cbe8bd737bad71fbd30248d4":[8,0,0,0,1,3,9,4,219,5],
-"db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fab46417246a53176f70e01fcfff7eb734":[8,0,0,0,1,3,9,4,219,8],
 "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fad0dca2bbd5ae23a64c2e93cf0c92b728":[8,0,0,0,1,3,9,4,219,7],
 "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05faed78359ba2fbb6ace4849f582fc32abc":[8,0,0,0,1,3,9,4,219,4],
 "db/d6e/spell__item_8cpp.html#a1764822acae69c6bd6b43ec5b450540b":[8,0,0,0,1,3,9,4,266],
@@ -249,5 +242,12 @@ var NAVTREEINDEX298 =
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ae501f7f1ef052292ae656542f698ba62":[8,0,0,0,1,3,9,4,176,7],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75af23823f48620da2089859eb7ac017a42":[8,0,0,0,1,3,9,4,176,8],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84c":[8,0,0,0,1,3,9,4,184],
-"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81":[8,0,0,0,1,3,9,4,184,2]
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81":[8,0,0,0,1,3,9,4,184,2],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca49a9dce1c783668fc725a6605ef996c6":[8,0,0,0,1,3,9,4,184,1],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cab7462dcb6cb7aa653f707d2843adf8c2":[8,0,0,0,1,3,9,4,184,3],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cae36708354003119bcf98bf0266dadb32":[8,0,0,0,1,3,9,4,184,0],
+"db/d6e/spell__item_8cpp.html#aa5653bd25e20eda786faf449fe173362":[8,0,0,0,1,3,9,4,262],
+"db/d6e/spell__item_8cpp.html#aa5653bd25e20eda786faf449fe173362aee26b1c782c930f41cae85c8e525ade8":[8,0,0,0,1,3,9,4,262,0],
+"db/d6e/spell__item_8cpp.html#aa64ae4018028c55562a9e29a1c303e88":[8,0,0,0,1,3,9,4,204],
+"db/d6e/spell__item_8cpp.html#aa64ae4018028c55562a9e29a1c303e88ac6e3d542cbbdf64d1ba18775394d9851":[8,0,0,0,1,3,9,4,204,0]
 };

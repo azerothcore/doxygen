@@ -11,5 +11,6 @@ var server_2game_2Time_2GameTime_8cpp =
     [ "GameTime", "df/da1/server_2game_2Time_2GameTime_8cpp.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
     [ "GameTimeSteadyPoint", "df/da1/server_2game_2Time_2GameTime_8cpp.html#a874057035d37aa57afc5064acffba119", null ],
     [ "GameTimeSystemPoint", "df/da1/server_2game_2Time_2GameTime_8cpp.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartSteadyPoint", "df/da1/server_2game_2Time_2GameTime_8cpp.html#a5d35a6ba984a07c98aad70bb266989cf", null ],
     [ "StartTime", "df/da1/server_2game_2Time_2GameTime_8cpp.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

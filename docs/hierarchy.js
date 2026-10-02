@@ -4468,7 +4468,6 @@ var hierarchy =
         [ "go_troll_cage", "d4/df5/classgo__troll__cage.html", null ],
         [ "go_ulduar_do_not_push_this_button", "d1/de6/classgo__ulduar__do__not__push__this__button.html", null ],
         [ "go_ulduar_tower", "dc/d51/classgo__ulduar__tower.html", null ],
-        [ "go_veil_skith_cage", "d1/dd1/classgo__veil__skith__cage.html", null ],
         [ "go_warmaul_prison", "d4/d67/classgo__warmaul__prison.html", null ],
         [ "go_wg_vehicle_teleporter", "d0/d87/classgo__wg__vehicle__teleporter.html", null ],
         [ "go_wind_stone", "db/d9c/classgo__wind__stone.html", null ],

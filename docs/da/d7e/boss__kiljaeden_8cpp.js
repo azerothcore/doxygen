@@ -25,7 +25,8 @@ var boss__kiljaeden_8cpp =
       [ "PHASE_SACRIFICE", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2a8d0095413ef6943bcecfd00c73dc82", null ],
       [ "ACTION_START_POST_EVENT", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4846ee5436abffae218febaa5b90ba2e", null ],
       [ "ACTION_NO_KILL_TALK", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea", null ],
-      [ "ACTION_START_AERIAL_SUPPORT", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08400c5d00469990b5f5bc15383f7fcd", null ]
+      [ "ACTION_START_AERIAL_SUPPORT", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08400c5d00469990b5f5bc15383f7fcd", null ],
+      [ "DATA_HAND_ENGAGED", "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8fec8fb53260b90c504ef0668b41e52", null ]
     ] ],
     [ "postEvent", "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc", [
       [ "SAY_VELEN_01", "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dcaaa0cfc34519c0b2416b8173cb10c1097", null ],
