@@ -1,8 +1,5 @@
 var NAVTREEINDEX18 =
 {
-"d0/db6/structGameobjectModelData.html#ab133a32c9eefff0a35acaa4e157a3f05":[7,0,1125,1],
-"d0/db6/structGameobjectModelData.html#ac51305f0d800ff993e9a9cba2ccb6939":[7,0,1125,2],
-"d0/db6/structGameobjectModelData.html#ac8a053b6f01a9917ee6b1fc2a738bb4e":[7,0,1125,3],
 "d0/db7/classGroup.html":[7,0,1267],
 "d0/db7/classGroup.html#a027748974161facad50ad0ddcd7daa9b":[7,0,1267,9],
 "d0/db7/classGroup.html#a03662b1a5ee6f8d5e5efda6abea0ee24":[7,0,1267,58],
@@ -219,6 +216,7 @@ var NAVTREEINDEX18 =
 "d0/dba/SpellInfo_8h.html#a41dacfabf3231ea2ee5894d61f6c3b6fafa731e479af67e5b6dacfc5ff268946d":[8,0,0,0,1,2,41,6,12,9],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146d":[8,0,0,0,1,2,41,6,8],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da0f28e484658493d07d9b9dede2efcfb7":[8,0,0,0,1,2,41,6,8,15],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da11b7dbe061ababdefebb53f55838b161":[8,0,0,0,1,2,41,6,8,9],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da12a1efffeb512cda3bb8ee5077dcf724":[8,0,0,0,1,2,41,6,8,27],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da16fc9692b3d1955cb6f36ae606901202":[8,0,0,0,1,2,41,6,8,16],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da21bee0dd8a24adc23431292c32c02ba2":[8,0,0,0,1,2,41,6,8,18],
@@ -237,7 +235,6 @@ var NAVTREEINDEX18 =
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da8a9106d96628f46e484fe853c0ce35b2":[8,0,0,0,1,2,41,6,8,14],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da91a67b896bc85d53f71e8cc7798dff71":[8,0,0,0,1,2,41,6,8,5],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da928d7b52a9bcfb5573d4cd8ca8bd30a7":[8,0,0,0,1,2,41,6,8,13],
-"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146da93ea23e532f0400d3ed24deb6882e6dd":[8,0,0,0,1,2,41,6,8,9],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daaa6e1af347c468600585e39bbc32afe8":[8,0,0,0,1,2,41,6,8,33],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daaad600a26daf0b11ec7b14c5c2827987":[8,0,0,0,1,2,41,6,8,19],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daae7209c277a0e60a1a9d6a228d87d18d":[8,0,0,0,1,2,41,6,8,32],
@@ -249,5 +246,8 @@ var NAVTREEINDEX18 =
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146dada37071a5f586acf592411604df0bf6e":[8,0,0,0,1,2,41,6,8,23],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146dae32d0c49b04f951a43140f23af436d05":[8,0,0,0,1,2,41,6,8,11],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146dae9ced52980e85ea4d56e1a2540d0d0e9":[8,0,0,0,1,2,41,6,8,30],
-"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf13ad4aaac2debb9e1be8686686cd215":[8,0,0,0,1,2,41,6,8,31]
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf13ad4aaac2debb9e1be8686686cd215":[8,0,0,0,1,2,41,6,8,31],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf173b3df1f0236ffb7df3a8fbe4c2efe":[8,0,0,0,1,2,41,6,8,10],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c":[8,0,0,0,1,2,41,6,8,2],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf7ce6d6f1816304f4859833e912bfc94":[8,0,0,0,1,2,41,6,8,4]
 };

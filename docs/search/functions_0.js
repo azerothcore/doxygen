@@ -4,7 +4,7 @@ var searchData=
   ['_5faddaura_1',['_AddAura',['../df/dd9/classUnit.html#a95169cc622a982afdbb1e5d865148c9d',1,'Unit']]],
   ['_5faddcreaturespellcooldown_2',['_AddCreatureSpellCooldown',['../db/dd5/classCreature.html#a0d4ce3e5d3527c875aeff6e0e8bb3c41',1,'Creature']]],
   ['_5faddobjecttoupdatelist_3',['_AddObjectToUpdateList',['../d7/db0/classMap.html#a61e8180fb876a796c8bd5a3b91deeb49',1,'Map']]],
-  ['_5faddspell_4',['_addSpell',['../d2/d4b/classPlayer.html#a107e0be6e83289162958bd63740896d0',1,'Player']]],
+  ['_5faddspell_4',['_addSpell',['../d2/d4b/classPlayer.html#a4d6ac9ca233885391a0c725f35a5a4d0',1,'Player']]],
   ['_5faddspellcooldown_5',['_AddSpellCooldown',['../d2/d4b/classPlayer.html#aea7111ad45aa0a9e164cb38cd9dd4862',1,'Player']]],
   ['_5faddtalentaurasandspells_6',['_addTalentAurasAndSpells',['../d2/d4b/classPlayer.html#aecedf4bca36e55c72834fb3fee16bd25',1,'Player']]],
   ['_5faddunitstatemove_7',['_addUnitStateMove',['../d0/dac/classFollowMovementGenerator.html#a4680693a31c182e3972146f8818cc8dd',1,'FollowMovementGenerator']]],

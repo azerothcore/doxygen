@@ -1,6 +1,7 @@
 var trial__of__the__crusader_8h =
 [
     [ "DataHeader", "da/de8/trial__of__the__crusader_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterTrialOfTheCrusaderCreatureAI", "da/de8/trial__of__the__crusader_8h.html#a9c51a9b0706b9488a820b5643179b0c1", null ],
     [ "TrialOfTheCrusaderScriptName", "da/de8/trial__of__the__crusader_8h.html#ae640f61e906842f9877d3e8040bc13e3", null ],
     [ "DataTypes", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "TYPE_NONE", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a01a66f4d8d66e4614c1c900c5a1c37ff", null ],
@@ -152,7 +153,8 @@ var trial__of__the__crusader_8h =
       [ "SPELL_FACTION_CHAMPIONS_KILL_CREDIT", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a4d0271d2d6d513b919ffb9355f031b0f", null ],
       [ "SPELL_RESILIENCE_WILL_FIX_IT_CREDIT", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a5aa843ad3fcfec217734301abc17287f", null ],
       [ "SPELL_TRAITOR_KING", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a515549c9ef6d13a9cad71151edd9f22f", null ],
-      [ "SPELL_PORTAL_TO_DALARAN", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a170ab1bb87c99be682c4c031a4c35cc1", null ]
+      [ "SPELL_PORTAL_TO_DALARAN", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a170ab1bb87c99be682c4c031a4c35cc1", null ],
+      [ "SPELL_JARAXXUS_CHAINS", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363ac83d8ffdffa64cf12ef9ebe0cefbdabe", null ]
     ] ],
     [ "GOs", "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5", [
       [ "GO_ARGENT_COLISEUM_FLOOR", "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ab2cb4cc17e177e2789bcf9102844ef09", null ],
@@ -211,6 +213,7 @@ var trial__of__the__crusader_8h =
       [ "NPC_ACIDMAW", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7963a5c6123551188537a1f9cf5a13d5", null ],
       [ "NPC_ICEHOWL", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca71f485d2c53a459dac063ef7d281acef", null ],
       [ "NPC_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
+      [ "NPC_MISTRESS_OF_PAIN", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
       [ "NPC_WORLD_TRIGGER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ALLIANCE_DEATH_KNIGHT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531", null ],

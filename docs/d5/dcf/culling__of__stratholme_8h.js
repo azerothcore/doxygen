@@ -27,6 +27,11 @@ var culling__of__stratholme_8h =
       [ "COS_PROGRESS_BEFORE_MALGANIS", "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204ae84e1d34a0eda6b46d12facd974f3068", null ],
       [ "COS_PROGRESS_FINISHED", "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204aa44acc04378ece5a6a6b449f89de7f3d", null ]
     ] ],
+    [ "CoSPersistentData", "d5/dcf/culling__of__stratholme_8h.html#a5c1f1eff1eecea9410154b508f9a7bec", [
+      [ "PERSISTENT_DATA_ARTHAS_EVENT", "d5/dcf/culling__of__stratholme_8h.html#a5c1f1eff1eecea9410154b508f9a7beca9b0d1f8c7f4423eeae6d04e8d69d8871", null ],
+      [ "PERSISTENT_DATA_GUARDIAN_TIMER", "d5/dcf/culling__of__stratholme_8h.html#a5c1f1eff1eecea9410154b508f9a7beca2f7c800d136ac55c8be0aefb3c6b492e", null ],
+      [ "PERSISTENT_DATA_COUNT", "d5/dcf/culling__of__stratholme_8h.html#a5c1f1eff1eecea9410154b508f9a7beca327cde1f8f9908a139da6e4deb38dc76", null ]
+    ] ],
     [ "CrateSpells", "d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204", [
       [ "SPELL_CRATES_CREDIT", "d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204adb29bd58bb0b0e9cf2cb3b4c75e38db6", null ],
       [ "SPELL_ARCANE_DISRUPTION", "d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2", null ],
@@ -63,6 +68,14 @@ var culling__of__stratholme_8h =
       [ "DATA_INFINITE", "d5/dcf/culling__of__stratholme_8h.html#a315a17942468c7ee5edce54ccdb1644daacac91c4a843bf90eb2c8dd34156db6f", null ],
       [ "DATA_SHKAF_GATE", "d5/dcf/culling__of__stratholme_8h.html#a315a17942468c7ee5edce54ccdb1644da3c9a5e09f30e06611337cbffe0b29534", null ],
       [ "DATA_EXIT_GATE", "d5/dcf/culling__of__stratholme_8h.html#a315a17942468c7ee5edce54ccdb1644dadead747947cb5010c1ea3e5b21669bbd", null ]
+    ] ],
+    [ "Encounters", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6ee", [
+      [ "BOSS_MEATHOOK", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eea25d1747b57f14d33ef5375647ff92ec4", null ],
+      [ "BOSS_SALRAMM", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eea16c4d3a66b42c1e0e579dd4d589b3ac6", null ],
+      [ "BOSS_EPOCH", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eeaab9ebe6f2c23e402dc235051d4a10a82", null ],
+      [ "BOSS_MAL_GANIS", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eeaf457b3fe690a5fd76ade3d0cca5998af", null ],
+      [ "BOSS_INFINITE_CORRUPTOR", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eea9a4e453317d0aeea399c9ea6a62a9625", null ],
+      [ "MAX_ENCOUNTERS", "d5/dcf/culling__of__stratholme_8h.html#abf7d0c9385f088b09a017ee50e9db6eea9cfa5bdc17e1d5a590d300b530b36a25", null ]
     ] ],
     [ "EventPositions", "d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0d", [
       [ "EVENT_POS_CHROMIE", "d5/dcf/culling__of__stratholme_8h.html#a96c0aad377cd69c8efd341d1c1413a0da7cd818bf89762bd8e725d713463130c7", null ],

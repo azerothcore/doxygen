@@ -51,6 +51,9 @@ var boss__hadronox_8cpp =
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_LOWER", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cac36ff29f3b1e8b4527b0178d9e8a9ddd", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_LOWER", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca3f22f063f72d9e3db3c81bdfbb87d320", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_LOWER", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f805b79f66c39af5dd9da9e9a347586", null ],
       [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],
@@ -82,6 +85,10 @@ var boss__hadronox_8cpp =
     [ "championWaypoints", "d3/d18/boss__hadronox_8cpp.html#aee08b9c5c142757a7ca8939ebf5b7944", null ],
     [ "crusherWaypoints", "d3/d18/boss__hadronox_8cpp.html#ad47c7c04c61faa5009fa497e40a74a09", null ],
     [ "cryptFiendWaypoints", "d3/d18/boss__hadronox_8cpp.html#aa8182c58d863fa058e3221a18614ace0", null ],
+    [ "doorPaths", "d3/d18/boss__hadronox_8cpp.html#ad6be14fc903bc7dfaec45c01a3346561", null ],
     [ "hadronoxSteps", "d3/d18/boss__hadronox_8cpp.html#ada858526fe00c875da6431bcd5ad17b1", null ],
-    [ "necromancerWaypoints", "d3/d18/boss__hadronox_8cpp.html#a50852320a2283b94f00d28b99d39f7e6", null ]
+    [ "LowerDoorPosition", "d3/d18/boss__hadronox_8cpp.html#a9d01ca57108d1ffe721adb3be7f3a45e", null ],
+    [ "necromancerWaypoints", "d3/d18/boss__hadronox_8cpp.html#a50852320a2283b94f00d28b99d39f7e6", null ],
+    [ "RampBottom", "d3/d18/boss__hadronox_8cpp.html#aca96f3c30dca527221f7521f4da7c92f", null ],
+    [ "RampUpperLanding", "d3/d18/boss__hadronox_8cpp.html#a0c1e175734a7bca2b13b114fc8cb9a8c", null ]
 ];

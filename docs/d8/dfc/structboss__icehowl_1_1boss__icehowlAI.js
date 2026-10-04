@@ -7,12 +7,12 @@ var structboss__icehowl_1_1boss__icehowlAI =
     [ "JustDied", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
     [ "JustEngagedWith", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#aac8165285ec44942217e93ad25a3668b", null ],
     [ "JustReachedHome", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
-    [ "MovementInform", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a664ac70b8bb380329aacdf11cfb53bf1", null ],
+    [ "MovementInform", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a9e3a3733647d18fce22a9afeb60a711d", null ],
     [ "UpdateAI", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
     [ "destX", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
     [ "destY", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
     [ "destZ", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab9f08e2f505368869063093f531f8794", null ],
     [ "events", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a302879641400e0f0b329fd960256c9fb", null ],
     [ "pInstance", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a4149dd25a04d661448255858e57387f4", null ],
-    [ "TargetGUID", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ac5068efd8a3b192e8302264039c30933", null ]
+    [ "StalkerGUID", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a03d67054baa87389d619f7a661c7d650", null ]
 ];

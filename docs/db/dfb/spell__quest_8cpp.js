@@ -76,6 +76,7 @@ var spell__quest_8cpp =
     [ "spell_q10651_q10692_book_of_fel_names", "d2/ded/classspell__q10651__q10692__book__of__fel__names.html", "d2/ded/classspell__q10651__q10692__book__of__fel__names" ],
     [ "spell_q9847_a_spirit_ally", "d3/dbb/classspell__q9847__a__spirit__ally.html", "d3/dbb/classspell__q9847__a__spirit__ally" ],
     [ "spell_q13413_wyrmrest_skytalon_ride_periodic", "d9/d2c/classspell__q13413__wyrmrest__skytalon__ride__periodic.html", "d9/d2c/classspell__q13413__wyrmrest__skytalon__ride__periodic" ],
+    [ "spell_q12211_container_of_rats", "d2/d87/classspell__q12211__container__of__rats.html", "d2/d87/classspell__q12211__container__of__rats" ],
     [ "QUEST_CROW_TRANSFORM", "db/dfb/spell__quest_8cpp.html#ae6cbc423a671eda57d50f99d2effdb03", null ],
     [ "ACleansingSong", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2f", [
       [ "SPELL_SUMMON_SPIRIT_ATAH", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2faedbe9cc518744f7b9da5346740b85098", null ],
@@ -179,6 +180,12 @@ var spell__quest_8cpp =
       [ "NPC_LOWER_MINE_SHAFT", "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a7d39259fba27b817134463c4a5aedb8b", null ],
       [ "SPELL_UPPER_MINE_SHAFT_CREDIT", "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494a9b8920b845fb15c13029868f0f52c833", null ],
       [ "SPELL_LOWER_MINE_SHAFT_CREDIT", "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494af6ae9500b310bdf0a0b9f8d1bd6f11e1", null ]
+    ] ],
+    [ "LetThemNotRise", "db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2", [
+      [ "SPELL_SKELETAL_TRANSFORM", "db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9", null ],
+      [ "SPELL_SUMMON_RAT", "db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83", null ],
+      [ "DATA_EATEN_BY_RATS", "db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355", null ],
+      [ "RAT_COUNT", "db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042", null ]
     ] ],
     [ "q11520Roots", "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19", [
       [ "GO_RAZORTHORN_DIRT_MOUNT", "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ae7872245ba055a3653b0caf7f5caf1d6", null ],

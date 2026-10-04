@@ -8,6 +8,7 @@ var structboss__hadronox =
     [ "JustEngagedWith", "dd/d86/structboss__hadronox.html#a0ecc876405753200c1c2fe575635ffb0", null ],
     [ "JustSummoned", "dd/d86/structboss__hadronox.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
     [ "KilledUnit", "dd/d86/structboss__hadronox.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MoveDownRamp", "dd/d86/structboss__hadronox.html#aeef83df3c0736575a709d7588e726cf7", null ],
     [ "MovementInform", "dd/d86/structboss__hadronox.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
     [ "Reset", "dd/d86/structboss__hadronox.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
     [ "SummonCrusherPack", "dd/d86/structboss__hadronox.html#ab58a7949dd4797849cf98152e541b9a9", null ],

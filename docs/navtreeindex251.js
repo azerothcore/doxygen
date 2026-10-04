@@ -1,12 +1,9 @@
 var NAVTREEINDEX251 =
 {
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#adef834e9b17d7cff0aaed9c36b7c7684":[7,0,698,0,17],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#ae0e4559477f26660b20ce5de5f295c54":[7,0,698,0,10],
-"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#aebb211a381a74128489986e32954c089":[7,0,698,0,6],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html":[7,0,3958],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#a72673f5054cf269cc8da511441f7bd66":[7,0,3958,2],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#a8b8276833404f3f69c3b7f97d95b6982":[7,0,3958,0],
-"d9/d6a/classspell__q12478__frostmourne__cavern.html#aa632d381ac415feaf226f55fc2cd8520":[7,0,3958,1],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html":[7,0,3961],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#a72673f5054cf269cc8da511441f7bd66":[7,0,3961,2],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#a8b8276833404f3f69c3b7f97d95b6982":[7,0,3961,0],
+"d9/d6a/classspell__q12478__frostmourne__cavern.html#aa632d381ac415feaf226f55fc2cd8520":[7,0,3961,1],
 "d9/d6a/icecrown__citadel_8h.html":[8,0,0,0,1,3,5,6,13],
 "d9/d6a/icecrown__citadel_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,6,13,1],
 "d9/d6a/icecrown__citadel_8h.html#a0ce99e5b1455ff2dca8dde94727b840a":[8,0,0,0,1,3,5,6,13,17],
@@ -249,5 +246,8 @@ var NAVTREEINDEX251 =
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a0ad2feb77f53e0f0697f5efde0ce86b2":[8,0,0,0,1,3,5,6,13,14,1],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a4d3d690339871a0bf0a4e54f36ec5941":[8,0,0,0,1,3,5,6,13,14,5],
 "d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5c9c239c26486715a37e60ac52a924d5":[8,0,0,0,1,3,5,6,13,14,3],
-"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5cf172c222a07399de125c1d2eb6c104":[8,0,0,0,1,3,5,6,13,14,6]
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5cf172c222a07399de125c1d2eb6c104":[8,0,0,0,1,3,5,6,13,14,6],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a84c123382ace53bc7cfeed00d2e0d226":[8,0,0,0,1,3,5,6,13,14,0],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412abfac072d6a956f92518d7859ee6adc70":[8,0,0,0,1,3,5,6,13,14,4],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412ac9261fd9470dba4ec6928421d873ed0a":[8,0,0,0,1,3,5,6,13,14,2]
 };

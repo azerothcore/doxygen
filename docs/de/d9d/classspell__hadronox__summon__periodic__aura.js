@@ -1,11 +1,13 @@
 var classspell__hadronox__summon__periodic__aura =
 [
-    [ "spell_hadronox_summon_periodic_aura", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "spell_hadronox_summon_periodic_aura", "de/d9d/classspell__hadronox__summon__periodic__aura.html#ac61aaa16a5c0c7b28520d688d23d8c5c", null ],
+    [ "HandlePeriodic", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a7f34f81ea8d710dc6d5e002a2e34ab1b", null ],
     [ "OnApply", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4466547bc1a5259a33354f2008d6cce7", null ],
     [ "PrepareAuraScript", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4205560054e5baed86aecba3b98fc202", null ],
     [ "Register", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a09efdcddaed4af2833139ca20ef94376", null ],
     [ "Validate", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a20827683249c17625242e205bb51f9e8", null ],
     [ "_delay", "de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "_lowerDoorSpellEntry", "de/d9d/classspell__hadronox__summon__periodic__aura.html#aa9c6171b2b4a8cc34888c80f1ad7a602", null ],
+    [ "_spellEntry", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ],
+    [ "SUMMON_PERIOD", "de/d9d/classspell__hadronox__summon__periodic__aura.html#a7922f9fe5ceea635beea6037be7c4d14", null ]
 ];
