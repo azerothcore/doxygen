@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614":[8,0,0,0,1,2,38,0,77,1,13],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abb27f4633fb115258b7c9e209de437d3":[8,0,0,0,1,2,38,0,77,1,108],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c":[8,0,0,0,1,2,38,0,77,1,24],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc70b591319e2beadccdc28b72bc52f8":[8,0,0,0,1,2,38,0,77,1,156],
@@ -74,10 +75,10 @@ var NAVTREEINDEX361 =
 "dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6":[7,0,890,22],
 "dd/dcb/classChaseMovementGenerator.html#aec3c7041a4e18d8e6baf6bef984077c9":[7,0,890,12],
 "dd/dcb/classChaseMovementGenerator.html#af9d77d78ac8771e18fbaa463ce6ab29b":[7,0,890,2],
-"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html":[7,0,3004],
-"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#a3ebface91881b903886ea9a10041da70":[7,0,3004,0],
-"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#a50d5f046f75c431f9323e225ed795ea3":[7,0,3004,1],
-"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#aa037424d0f72823d0651f84c6d2c7449":[7,0,3004,2],
+"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html":[7,0,3003],
+"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#a3ebface91881b903886ea9a10041da70":[7,0,3003,0],
+"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#a50d5f046f75c431f9323e225ed795ea3":[7,0,3003,1],
+"dd/dcb/classspell__freya__brightleaf__unstable__sun__beam.html#aa037424d0f72823d0651f84c6d2c7449":[7,0,3003,2],
 "dd/dcb/instance__the__slave__pens_8cpp.html":[8,0,0,0,1,3,7,2,1,4],
 "dd/dcb/instance__the__slave__pens_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,1,4,3],
 "dd/dcb/instance__the__slave__pens_8cpp.html#a41772e574e8da2d2009384c1f312ed92":[8,0,0,0,1,3,7,2,1,4,2],
@@ -126,10 +127,10 @@ var NAVTREEINDEX361 =
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[8,0,0,0,1,3,4,11,2,4,7],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[8,0,0,0,1,3,4,11,2,4,8],
 "dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[8,0,0,0,1,3,4,11,2,8],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[7,0,3032],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[7,0,3032,1],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[7,0,3032,2],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[7,0,3032,0],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[7,0,3031],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[7,0,3031,1],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[7,0,3031,2],
+"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[7,0,3031,0],
 "dd/dcd/classspell__mage__combustion.html":[7,0,3626],
 "dd/dcd/classspell__mage__combustion.html#a0b104698a7c763bee1af656e127591bd":[7,0,3626,2],
 "dd/dcd/classspell__mage__combustion.html#a493e63aafcbfd4279cabe91aaa21cee2":[7,0,3626,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "dd/dd3/zone__netherstorm_8cpp.html":[8,0,0,0,1,3,7,12],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[8,0,0,0,1,3,7,12,12],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[8,0,0,0,1,3,7,12,12,0],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[8,0,0,0,1,3,7,12,12,3],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f":[8,0,0,0,1,3,7,12,12,4]
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[8,0,0,0,1,3,7,12,12,3]
 };

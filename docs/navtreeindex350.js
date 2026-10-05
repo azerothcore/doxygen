@@ -1,6 +1,7 @@
 var NAVTREEINDEX350 =
 {
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[7,0,13,7,0,1],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4c/TemporarySummon_8cpp.html":[8,0,0,0,1,2,16,1,8],
 "dd/d4c/structnpc__rocknot.html":[7,0,2149],
 "dd/d4c/structnpc__rocknot.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2149,6],
@@ -194,10 +195,10 @@ var NAVTREEINDEX350 =
 "dd/d58/classnpc__toc__rogue.html":[7,0,2251],
 "dd/d58/classnpc__toc__rogue.html#a6f0246b284ffd800e3870d70e9c52aac":[7,0,2251,2],
 "dd/d58/classnpc__toc__rogue.html#a925840be9698e381358235a827c20b8a":[7,0,2251,1],
-"dd/d58/classspell__gen__knock__away.html":[7,0,3105],
-"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[7,0,3105,0],
-"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[7,0,3105,2],
-"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[7,0,3105,1],
+"dd/d58/classspell__gen__knock__away.html":[7,0,3104],
+"dd/d58/classspell__gen__knock__away.html#a142d6a512ba6e937985a9c21725d8d33":[7,0,3104,0],
+"dd/d58/classspell__gen__knock__away.html#a9cbf1c0678bd0775a452aa3270dff6a0":[7,0,3104,2],
+"dd/d58/classspell__gen__knock__away.html#af46fd8adaf8fef92984376ad6aa4f9a2":[7,0,3104,1],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html":[7,0,1954,0],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a50391c9950fbbaf170600f13bab1e6bb":[7,0,1954,0,4],
 "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html#a5f0c3d759dfba81cb2010d2a0b479909":[7,0,1954,0,0],
@@ -226,11 +227,11 @@ var NAVTREEINDEX350 =
 "dd/d59/classServerMailMgr.html#acb4521f696c6f11c977dc9d8b76e0c16":[7,0,2598,3],
 "dd/d59/classServerMailMgr.html#adba54af38e90ecae21e79835910ba195":[7,0,2598,1],
 "dd/d59/classServerMailMgr.html#aeec2235e9dd9b36b868634d850f02a5b":[7,0,2598,0],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html":[7,0,3042],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#a107d4e1650c6044b60ab711b01c607f6":[7,0,3042,0],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad14fb132bbbcb7d378521530372a5a7c":[7,0,3042,1],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad49679e2b6966ddcd70bb48c44927bad":[7,0,3042,2],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#adfd2e27d6f40356bfacf7cad424e7e4d":[7,0,3042,3],
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html":[7,0,3041],
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#a107d4e1650c6044b60ab711b01c607f6":[7,0,3041,0],
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad14fb132bbbcb7d378521530372a5a7c":[7,0,3041,1],
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad49679e2b6966ddcd70bb48c44927bad":[7,0,3041,2],
+"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#adfd2e27d6f40356bfacf7cad424e7e4d":[7,0,3041,3],
 "dd/d59/classspell__lady__vashj__spore__drop__effect.html":[7,0,3593],
 "dd/d59/classspell__lady__vashj__spore__drop__effect.html#a1eac10c673b8f43ae08f8bbdf949f82f":[7,0,3593,1],
 "dd/d59/classspell__lady__vashj__spore__drop__effect.html#a60d4e21bf31c997ef4105ad72c8b4e85":[7,0,3593,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d5a/structBfWGGameObjectBuilding.html#a26ecb2ff29a81d8bad2e5070e39a9f22":[7,0,366,10],
 "dd/d5a/structBfWGGameObjectBuilding.html#a2f1e928509a53a7024bff2c10be306c3":[7,0,366,17],
 "dd/d5a/structBfWGGameObjectBuilding.html#a343e1dede32e1b3d89561f002355c172":[7,0,366,20],
-"dd/d5a/structBfWGGameObjectBuilding.html#a48e7cf336d213225b79c2aaab57dfa8b":[7,0,366,1],
-"dd/d5a/structBfWGGameObjectBuilding.html#a53c3befcba120fc19f450f6d98206114":[7,0,366,2]
+"dd/d5a/structBfWGGameObjectBuilding.html#a48e7cf336d213225b79c2aaab57dfa8b":[7,0,366,1]
 };

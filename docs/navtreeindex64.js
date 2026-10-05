@@ -1,5 +1,8 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4b/classPlayer.html#ad08f358cbaa67f340fb1d50b756cc446":[7,0,2443,550],
+"d2/d4b/classPlayer.html#ad0a1439167b4634cfd0745dc4310521e":[7,0,2443,775],
+"d2/d4b/classPlayer.html#ad0b702ec9df9626312843eb9a44742df":[7,0,2443,537],
 "d2/d4b/classPlayer.html#ad0c56eb6459756a27e0535979b73b905":[7,0,2443,28],
 "d2/d4b/classPlayer.html#ad0e9deaa17bba3a6092ce029689b8191":[7,0,2443,1131],
 "d2/d4b/classPlayer.html#ad11bdb534533d262b0ddaea8a5c03170":[7,0,2443,1008],
@@ -246,8 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d4b/classSuckBackEvent.html":[7,0,4553],
 "d2/d4b/classSuckBackEvent.html#a4d8bc09803f7786022c1836457ded488":[7,0,4553,3],
 "d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[7,0,4553,0],
-"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4553,1],
-"d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4553,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0]
+"d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4553,1]
 };

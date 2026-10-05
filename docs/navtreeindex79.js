@@ -1,5 +1,8 @@
 var NAVTREEINDEX79 =
 {
+"d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6":[7,0,4489,63],
+"d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a":[7,0,4489,55],
+"d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[7,0,4489,164],
 "d2/de9/classSpellInfo.html#a9904a9ebdd084815af5ef6d1653ffbbd":[7,0,4489,154],
 "d2/de9/classSpellInfo.html#a99fae2785bf72093933e2d0ab107c18f":[7,0,4489,56],
 "d2/de9/classSpellInfo.html#a9a2b7ff5d4740b1c2e01b29a126ec306":[7,0,4489,50],
@@ -246,8 +249,5 @@ var NAVTREEINDEX79 =
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e1ac33c7fbf31e632a6b7d122991f58":[8,0,0,0,1,3,7,0,3,1,2,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[8,0,0,0,1,3,7,0,3,1,2,3],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cad39824970b373b4225010b0ddc8ef66f":[8,0,0,0,1,3,7,0,3,1,2,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,3,1,1],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0fcbab58d501df4771df38afc41cf72b":[8,0,0,0,1,3,7,0,3,1,1,0],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,7,0,3,1,3],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,0,3,1,3,4]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,3,1,1]
 };

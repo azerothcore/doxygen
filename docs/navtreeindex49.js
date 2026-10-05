@@ -1,5 +1,8 @@
 var NAVTREEINDEX49 =
 {
+"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca5f62e29b9161b5448f7fe754e1ca4652":[8,0,0,0,1,3,7,5,3,3,4,4],
+"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca60787103f4bb5d3b0c72bcfa95094c87":[8,0,0,0,1,3,7,5,3,3,4,6],
+"d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ca264d7f9d091751c26ac1679eeaa35":[8,0,0,0,1,3,7,5,3,3,4,5],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298ca88b78fbc9412ba45868f1ecd488ea542":[8,0,0,0,1,3,7,5,3,3,4,1],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cada849ad618f0b21eadb56b680edc0c56":[8,0,0,0,1,3,7,5,3,3,4,2],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cae759958cda5fba0a9771859e71a447a5":[8,0,0,0,1,3,7,5,3,3,4,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a889ecfb6f3bfeaca17681e087d987533":[8,0,0,0,1,3,9,2,217,22],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a95961506c1103807bfa3426d9852d111":[8,0,0,0,1,3,9,2,217,31],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a988b6b551f675a749c09e0eef26097bf":[8,0,0,0,1,3,9,2,217,0],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aa464f41542e6ae2a6b832472c5d99197":[8,0,0,0,1,3,9,2,217,16],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609ab6524104dfb8ec80cf25884cb33b1138":[8,0,0,0,1,3,9,2,217,32],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609ab7e3a7115242e0d2eeb610c771b6bbef":[8,0,0,0,1,3,9,2,217,33],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609abbffd442d1a9dca350002999e9243fd9":[8,0,0,0,1,3,9,2,217,10]
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aa464f41542e6ae2a6b832472c5d99197":[8,0,0,0,1,3,9,2,217,16]
 };

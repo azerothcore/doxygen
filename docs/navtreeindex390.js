@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"de/d6c/structnpc__oathbound__warder.html#afa3e523d3c4b7659df3d06be11eea7e4":[7,0,2046,1],
 "de/d6d/WorldSessionMgr_8h.html":[8,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[8,0,0,0,1,2,39,8,2],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "de/d74/Group_8cpp.html":[8,0,0,0,1,2,20,0],
 "de/d74/Group_8cpp.html#a499748359465da566bbe2a1e833d9b93":[8,0,0,0,1,2,20,0,1],
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[8,0,0,0,1,2,20,0,0],
-"de/d75/classDelayedSummonEvent.html":[7,0,1009],
-"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[7,0,1009,2]
+"de/d75/classDelayedSummonEvent.html":[7,0,1009]
 };

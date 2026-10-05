@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,6,9,42],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,6,9,42,10],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[8,0,0,0,1,3,5,6,9,42,12],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a298aa81cc7a711503124972bc1e8f1d4":[8,0,0,0,1,3,5,6,9,42,7],
@@ -54,10 +55,10 @@ var NAVTREEINDEX402 =
 "de/de5/classnpc__tesla.html":[7,0,2220],
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[7,0,2220,2],
 "de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[7,0,2220,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html":[7,0,2772],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2772,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[7,0,2772,2],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[7,0,2772,0],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[7,0,2771],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2771,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[7,0,2771,2],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[7,0,2771,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[7,0,1373,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[7,0,1373,0,1],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[7,0,1373,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[8,0,0,0,1,2,41,7,0],
 "de/df0/structArenaSeasonReward.html":[7,0,192],
 "de/df0/structArenaSeasonReward.html#a22d6afdbc88c47d18dc840d537ae4150":[7,0,192,1],
-"de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[7,0,192,2],
-"de/df0/structArenaSeasonReward.html#ac4c8cff64cf2eb7f34d28080a2a5528b":[7,0,192,3]
+"de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[7,0,192,2]
 };

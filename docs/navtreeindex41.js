@@ -1,5 +1,8 @@
 var NAVTREEINDEX41 =
 {
+"d1/da9/structboss__flame__leviathan__defense__turret.html#a9d6e48e613a65f7a3bec76ce6ea73574":[7,0,487,7],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#ac15aadce1954d827b7e833ed761faf10":[7,0,487,2],
+"d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b":[7,0,487,6],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#aeb9fe92f81b3734512106aa73c983a35":[7,0,487,3],
 "d1/daa/structboss__high__interrogator__gerstahn.html":[7,0,548],
 "d1/daa/structboss__high__interrogator__gerstahn.html#a0c3eb9b1aefb055f8c97d723c536d1ab":[7,0,548,4],
@@ -26,11 +29,11 @@ var NAVTREEINDEX41 =
 "d1/dab/classnpc__wintergarde__gryphon.html#acd7cea6226034d53b854c5ed659ff949":[7,0,2333,2],
 "d1/dab/classnpc__wintergarde__gryphon.html#acf64143ea83321556156fde30e1a34d4":[7,0,2333,6],
 "d1/dab/classnpc__wintergarde__gryphon.html#ada46ecdbc8c3a33a7b3ce09296c0db72":[7,0,2333,0],
-"d1/dab/classspell__hookshot__aura.html":[7,0,3252],
-"d1/dab/classspell__hookshot__aura.html#a1dff4c7e181c86a9c6ac7df5304214c8":[7,0,3252,0],
-"d1/dab/classspell__hookshot__aura.html#a2ee1dbb056430b9db5e9e3ead05014a5":[7,0,3252,3],
-"d1/dab/classspell__hookshot__aura.html#a93b006b762bd757c606ed44da5178134":[7,0,3252,1],
-"d1/dab/classspell__hookshot__aura.html#ac528c63dedbf16f1f88c3d6ffdb9ef69":[7,0,3252,2],
+"d1/dab/classspell__hookshot__aura.html":[7,0,3251],
+"d1/dab/classspell__hookshot__aura.html#a1dff4c7e181c86a9c6ac7df5304214c8":[7,0,3251,0],
+"d1/dab/classspell__hookshot__aura.html#a2ee1dbb056430b9db5e9e3ead05014a5":[7,0,3251,3],
+"d1/dab/classspell__hookshot__aura.html#a93b006b762bd757c606ed44da5178134":[7,0,3251,1],
+"d1/dab/classspell__hookshot__aura.html#ac528c63dedbf16f1f88c3d6ffdb9ef69":[7,0,3251,2],
 "d1/dab/structboss__mimiron.html":[7,0,636],
 "d1/dab/structboss__mimiron.html#a0b1497cf1fc3cca2db670b74eb4745ee":[7,0,636,7],
 "d1/dab/structboss__mimiron.html#a1fe4524d60414c100e0489bb77396033":[7,0,636,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX41 =
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aefdc5bd23a2977847198bcf2b3b12a29":[8,0,0,0,1,2,16,10,5,44,2],
 "d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37":[8,0,0,0,1,2,16,10,5,47],
 "d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a7183e7251db222734d0d007a258d65c7":[8,0,0,0,1,2,16,10,5,47,1],
-"d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0":[8,0,0,0,1,2,16,10,5,47,0],
-"d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc":[8,0,0,0,1,2,16,10,5,47,2],
-"d1/daf/Unit_8h.html#a664c114bdaa48d227bce3c91eb5eb5ad":[8,0,0,0,1,2,16,10,5,22],
-"d1/daf/Unit_8h.html#a67df18abace700a63e433024dee15b90":[8,0,0,0,1,2,16,10,5,20]
+"d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0":[8,0,0,0,1,2,16,10,5,47,0]
 };

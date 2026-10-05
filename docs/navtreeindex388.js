@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f":[7,0,627,0],
 "de/d52/structboss__malygos.html#ad471155b4ff59d163218653cc3dfc104":[7,0,627,9],
 "de/d52/structboss__malygos.html#ad779ad4e63ce426421fab327fc9bf9ed":[7,0,627,20],
 "de/d52/structboss__malygos.html#ae8d1e363bc9db57af46afa838c72cfd1":[7,0,627,13],
@@ -38,10 +39,10 @@ var NAVTREEINDEX388 =
 "de/d58/ConfusedMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,34,4,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[7,0,13,4,1],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,1,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[7,0,13,4,1,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,34,4,1,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,34,4,1,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[7,0,13,4,1,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[7,0,13,4,1,1],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,34,4,1,1],
 "de/d58/classinstance__icecrown__citadel.html":[7,0,1353],
@@ -127,12 +128,12 @@ var NAVTREEINDEX388 =
 "de/d59/classgo__simon__cluster.html":[7,0,1220],
 "de/d59/classgo__simon__cluster.html#a9fd9799604de44c91803511c45b67786":[7,0,1220,1],
 "de/d59/classgo__simon__cluster.html#adac53a8451abd6ace227a66afc7e61e8":[7,0,1220,0],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html":[7,0,3400],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#a1541ff95bfa6ddc98748381cc2cb99f6":[7,0,3400,4],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#a181434606474535b5ed8dc6ee7c2dc29":[7,0,3400,0],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#a4c28987223d55f31aa6c5f3e349b62b7":[7,0,3400,2],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[7,0,3400,3],
-"de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3400,1],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html":[7,0,3399],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#a1541ff95bfa6ddc98748381cc2cb99f6":[7,0,3399,4],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#a181434606474535b5ed8dc6ee7c2dc29":[7,0,3399,0],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#a4c28987223d55f31aa6c5f3e349b62b7":[7,0,3399,2],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb":[7,0,3399,3],
+"de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3399,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ae45c6de238755eb069e0c182943da58c":[7,0,1869,0,0],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f":[7,0,1869,0,5],
 "de/d5f/ConditionMgr_8h.html":[8,0,0,0,1,2,13,1],
-"de/d5f/ConditionMgr_8h.html#a203c8d1beea6adbb85a8d09146f78093":[8,0,0,0,1,2,13,1,9],
-"de/d5f/ConditionMgr_8h.html#a317eb8f1d57e5785c50fa5daae5e4ae0":[8,0,0,0,1,2,13,1,8]
+"de/d5f/ConditionMgr_8h.html#a203c8d1beea6adbb85a8d09146f78093":[8,0,0,0,1,2,13,1,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX423 =
 {
+"df/dd4/classspell__q12726__song__of__wind__and__water.html":[7,0,3977],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[7,0,3977,2],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a902b733a4b106439c49f8c80de8e9bf3":[7,0,3977,1],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#aa297ef88b58849610b1b3bfdb0142eab":[7,0,3977,0],
@@ -140,15 +141,15 @@ var NAVTREEINDEX423 =
 "df/dd8/classDBCStorage.html#acbe3d8adad76c063eeff0472b14e9c2d":[7,0,995,0],
 "df/dd8/classDBCStorage.html#ace37b566e9013928a845c981437158ae":[7,0,995,12],
 "df/dd8/classDBCStorage.html#af1212e7eac4a35aed1cc30d1885093d0":[7,0,995,3],
-"df/dd8/classspell__charge__shield__bomber.html":[7,0,2781],
-"df/dd8/classspell__charge__shield__bomber.html#a21daeadffbfd28621d897dfe67dd11a8":[7,0,2781,3],
-"df/dd8/classspell__charge__shield__bomber.html#a61ca2f71b0fa323a54f716415b25b75e":[7,0,2781,1],
-"df/dd8/classspell__charge__shield__bomber.html#a7a2cc833ae8d079b821caabf55b6f0e5":[7,0,2781,2],
-"df/dd8/classspell__charge__shield__bomber.html#abfb58e49821e6a563940e8ba518db850":[7,0,2781,0],
-"df/dd8/classspell__hodir__starlight__aura.html":[7,0,3247],
-"df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[7,0,3247,1],
-"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[7,0,3247,2],
-"df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[7,0,3247,0],
+"df/dd8/classspell__charge__shield__bomber.html":[7,0,2780],
+"df/dd8/classspell__charge__shield__bomber.html#a21daeadffbfd28621d897dfe67dd11a8":[7,0,2780,3],
+"df/dd8/classspell__charge__shield__bomber.html#a61ca2f71b0fa323a54f716415b25b75e":[7,0,2780,1],
+"df/dd8/classspell__charge__shield__bomber.html#a7a2cc833ae8d079b821caabf55b6f0e5":[7,0,2780,2],
+"df/dd8/classspell__charge__shield__bomber.html#abfb58e49821e6a563940e8ba518db850":[7,0,2780,0],
+"df/dd8/classspell__hodir__starlight__aura.html":[7,0,3246],
+"df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[7,0,3246,1],
+"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[7,0,3246,2],
+"df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[7,0,3246,0],
 "df/dd9/classUnit.html":[7,0,4637],
 "df/dd9/classUnit.html#a000570a88dd253d3746e6ff5ac1c918b":[7,0,4637,411],
 "df/dd9/classUnit.html#a000c04b10ef04a72e5ccc10da3338c06":[7,0,4637,343],
@@ -248,6 +249,5 @@ var NAVTREEINDEX423 =
 "df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627":[7,0,4637,993],
 "df/dd9/classUnit.html#a18139a1595cccec72363ebd1de943d63":[7,0,4637,673],
 "df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1":[7,0,4637,153],
-"df/dd9/classUnit.html#a18e058a9566a211e4dc1c41229cf2197":[7,0,4637,216],
-"df/dd9/classUnit.html#a19b843f2c35e489dbaf84213288e1bbe":[7,0,4637,855]
+"df/dd9/classUnit.html#a18e058a9566a211e4dc1c41229cf2197":[7,0,4637,216]
 };

@@ -9,6 +9,7 @@ var boss__northrend__beasts_8cpp =
     [ "boss_acidmaw::boss_acidmawAI", "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html", "d6/d83/structboss__acidmaw_1_1boss__acidmawAI" ],
     [ "boss_dreadscale", "d0/d0d/classboss__dreadscale.html", "d0/d0d/classboss__dreadscale" ],
     [ "boss_dreadscale::boss_dreadscaleAI", "d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html", "d5/def/structboss__dreadscale_1_1boss__dreadscaleAI" ],
+    [ "spell_jormungars_paralytic_toxin_aura", "d8/de9/classspell__jormungars__paralytic__toxin__aura.html", "d8/de9/classspell__jormungars__paralytic__toxin__aura" ],
     [ "boss_icehowl", "dd/d35/classboss__icehowl.html", "dd/d35/classboss__icehowl" ],
     [ "boss_icehowl::boss_icehowlAI", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI" ],
     [ "spell_icehowl_jump_back", "d5/dea/classspell__icehowl__jump__back.html", "d5/dea/classspell__icehowl__jump__back" ],
@@ -114,8 +115,7 @@ var boss__northrend__beasts_8cpp =
     [ "Yells", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "EMOTE_SNOBOLLED", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8d41398e97a91de8de78bf8ac9e0b09b", null ],
       [ "EMOTE_ENRAGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a81024d2fa77c20eddf3d080ee9947126", null ],
-      [ "EMOTE_SUBMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2de75a94c63b35b7198bd89cf36a943e", null ],
-      [ "EMOTE_EMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab6eecfa42f3bdac4bf4c6e235545a252", null ],
+      [ "WHISPER_PARALYTIC_TOXIN", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9f30cd12b1e4592413f87b56c75bfbbb", null ],
       [ "EMOTE_TRAMPLE_STARE", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a55eeb707d5a1d02aeaba2a8df6f388e6", null ],
       [ "EMOTE_TRAMPLE_CRASH", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3afa538decb9ebb5608387548209c84cf6", null ],
       [ "EMOTE_TRAMPLE_FAIL", "d4/d9c/boss__northrend__beasts_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aac5c85f7acc8f9da718c8818106bb9ff", null ]

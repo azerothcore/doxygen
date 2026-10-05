@@ -1,5 +1,8 @@
 var NAVTREEINDEX125 =
 {
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cae74ebce3c74174fa436fba349a06089f":[8,0,0,0,1,3,5,4,1,3,11,1],
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caebe6d392a1831b468ff9ea3cb9535c69":[8,0,0,0,1,3,5,4,1,3,11,11],
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caefee6c88cf136f2dbc162205816ffcfa":[8,0,0,0,1,3,5,4,1,3,11,47],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caf0cb06e7a9f48f3770af8a305281ce6c":[8,0,0,0,1,3,5,4,1,3,11,32],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caf7ffbf76d24127a68785f01cfb09601f":[8,0,0,0,1,3,5,4,1,3,11,29],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cafb14659f0e6d7ca19f40f35449f982f5":[8,0,0,0,1,3,5,4,1,3,11,4],
@@ -139,10 +142,10 @@ var NAVTREEINDEX125 =
 "d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,4010,1],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,4010,2],
 "d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,4010,3],
-"d4/d21/classspell__drain__mana.html":[7,0,2888],
-"d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2888,2],
-"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2888,0],
-"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[7,0,2888,1],
+"d4/d21/classspell__drain__mana.html":[7,0,2887],
+"d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2887,2],
+"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2887,0],
+"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[7,0,2887,1],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html":[8,0,0,0,1,3,7,4,3,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,3,3,5],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,4,3,3,5,2],
@@ -206,10 +209,10 @@ var NAVTREEINDEX125 =
 "d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf":[7,0,553,22],
 "d4/d22/structboss__hodir.html#af9d9bedc4f11ce4fe264fe77afd7e717":[7,0,553,24],
 "d4/d22/structboss__hodir.html#afdaf742fe150b4d58a596c5be52ae00d":[7,0,553,12],
-"d4/d23/classspell__dru__nourish.html":[7,0,2931],
-"d4/d23/classspell__dru__nourish.html#a10dd1c0f67ff07f8e35ba0322c934899":[7,0,2931,1],
-"d4/d23/classspell__dru__nourish.html#a682a496d59201774de50951ffd2c7c0d":[7,0,2931,0],
-"d4/d23/classspell__dru__nourish.html#abc29f509e703f3807241b63f728a69af":[7,0,2931,2],
+"d4/d23/classspell__dru__nourish.html":[7,0,2930],
+"d4/d23/classspell__dru__nourish.html#a10dd1c0f67ff07f8e35ba0322c934899":[7,0,2930,1],
+"d4/d23/classspell__dru__nourish.html#a682a496d59201774de50951ffd2c7c0d":[7,0,2930,0],
+"d4/d23/classspell__dru__nourish.html#abc29f509e703f3807241b63f728a69af":[7,0,2930,2],
 "d4/d24/boss__cyanigosa_8cpp.html":[8,0,0,0,1,3,5,12,0],
 "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,0,1],
 "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a254cc05b0bdd6851394b287ad5ebf19c":[8,0,0,0,1,3,5,12,0,1,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298ca13ef3866f5fb96a29e7bbddfd8de2da4":[8,0,0,0,1,3,5,11,2,6,4],
 "d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298ca619c7d2acf1d94a450b0d4e60fc063fb":[8,0,0,0,1,3,5,11,2,6,2],
 "d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298ca86163884445d308a55d5df03efe3e6e5":[8,0,0,0,1,3,5,11,2,6,5],
-"d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9546b47fd0473f5cf0d242a71f96d12f":[8,0,0,0,1,3,5,11,2,6,7],
-"d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298caad2d27b6ebf9d5f5b2c5139d46986fe3":[8,0,0,0,1,3,5,11,2,6,1],
-"d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298cab05bb149d39de05fd4eea7342387178e":[8,0,0,0,1,3,5,11,2,6,3],
-"d4/d25/boss__koralon_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[8,0,0,0,1,3,5,11,2,7]
+"d4/d25/boss__koralon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9546b47fd0473f5cf0d242a71f96d12f":[8,0,0,0,1,3,5,11,2,6,7]
 };

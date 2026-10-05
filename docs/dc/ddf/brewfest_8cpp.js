@@ -16,7 +16,6 @@ var brewfest_8cpp =
     [ "spell_brewfest_toss_mug", "de/d4a/classspell__brewfest__toss__mug.html", "de/d4a/classspell__brewfest__toss__mug" ],
     [ "spell_brewfest_add_mug", "d6/d9d/classspell__brewfest__add__mug.html", "d6/d9d/classspell__brewfest__add__mug" ],
     [ "npc_brew_bubble", "da/d0f/structnpc__brew__bubble.html", "da/d0f/structnpc__brew__bubble" ],
-    [ "spell_brewfest_reveler_transform", "df/df9/classspell__brewfest__reveler__transform.html", "df/df9/classspell__brewfest__reveler__transform" ],
     [ "spell_brewfest_relay_race_force_cast", "dc/dbf/classspell__brewfest__relay__race__force__cast.html", "dc/dbf/classspell__brewfest__relay__race__force__cast" ],
     [ "npc_coren_direbrew", "d1/dc7/structnpc__coren__direbrew.html", "d1/dc7/structnpc__coren__direbrew" ],
     [ "npc_coren_direbrew_sisters", "d4/d66/structnpc__coren__direbrew__sisters.html", "d4/d66/structnpc__coren__direbrew__sisters" ],
@@ -38,18 +37,6 @@ var brewfest_8cpp =
     ] ],
     [ "brewBubble", "dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9ca", [
       [ "SPELL_BUBBLE_BUILD_UP", "dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9caa3296b396df4d795d678648eaa432eb6a", null ]
-    ] ],
-    [ "BrewfestRevelerEnum", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8", [
-      [ "FACTION_ALLIANCE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a12b83bc54e5cd1250dc5c24578af5c68", null ],
-      [ "FACTION_HORDE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ab009f6e52ebbe43a5f354ac86cba2540", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_GOBLIN_MALE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a0eadd178341893fb53ddcc9d835b191f", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_GOBLIN_FEMALE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a7eddef42bae072663cd19ff05c32e720", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_BE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8f4df5b3207fedb818a208651ce87de9", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_ORC", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8814a55a3046f8d5b12ae92edad188e6", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_TAUREN", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a4288e74f4fd3978d4af9ada35238fd81", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_TROLL", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a3365c4940364c71cdecd3455f1fcaaa9", null ],
-      [ "SPELL_BREWFEST_REVELER_TRANSFORM_UNDEAD", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a95f5bd27925c7cac826ae1065091f3f3", null ],
-      [ "SPELL_DRUNKEN_BREWFEST_REVELER_TRANSFORM_GOBLIN_MALE", "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ae5f91b4756b7b36ad49c0ea4a70a29cc", null ]
     ] ],
     [ "Catch", "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5", [
       [ "NPC_WILD_WOLPERTINGER", "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5af39cb0faaf2433c776cc28a5d0f21820", null ],

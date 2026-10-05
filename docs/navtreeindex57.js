@@ -1,5 +1,8 @@
 var NAVTREEINDEX57 =
 {
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac8102c580d0a56079f2462f95bd14bf1":[8,0,0,0,1,2,8,1,1,10,5],
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac88f0eb5f1bff68883c7c6c15160cd5d":[8,0,0,0,1,2,8,1,1,10,22],
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254acdcd098c1835da288726d6adf45e506f":[8,0,0,0,1,2,8,1,1,10,12],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ae51881c9fa5e34d03f8b6622476aef68":[8,0,0,0,1,2,8,1,1,10,7],
 "d2/d35/BattlegroundAB_8h.html#a51ad679e6affe77350ba6d21554463c3":[8,0,0,0,1,2,8,1,1,14],
 "d2/d35/BattlegroundAB_8h.html#a563cb2a5b26f5e1887d6c53bb865e253":[8,0,0,0,1,2,8,1,1,5],
@@ -236,8 +239,8 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2254,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2254,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d39/classspell__rog__tricks__of__the__trade.html#abcc738fc154e6be5de168fb23be806f4":[7,0,4067,1],
 "d2/d39/classspell__rog__tricks__of__the__trade.html#ac81d60d54a87a23bd9481934f5753de0":[7,0,4067,2],
 "d2/d3a/structnpc__brewfest__bark__trigger.html":[7,0,1715],
-"d2/d3a/structnpc__brewfest__bark__trigger.html#a110d654792e1f5dae8b17f014ea3d425":[7,0,1715,0],
-"d2/d3a/structnpc__brewfest__bark__trigger.html#a271a440f21b4abddd9aa087e1e64a3d0":[7,0,1715,2],
-"d2/d3a/structnpc__brewfest__bark__trigger.html#aca27445a1d9868a2cbd3a6a89dd806df":[7,0,1715,1],
-"d2/d3b/classspell__pal__divine__storm.html":[7,0,3773]
+"d2/d3a/structnpc__brewfest__bark__trigger.html#a110d654792e1f5dae8b17f014ea3d425":[7,0,1715,0]
 };

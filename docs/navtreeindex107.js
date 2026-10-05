@@ -1,5 +1,8 @@
 var NAVTREEINDEX107 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a217f073f27b675ebc8b09182191fbd6c":[8,0,0,0,1,3,7,1,8,8,0],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,1,8,10],
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca0c1ed6b15114c8f2195fafc3a3d5d670":[8,0,0,0,1,3,7,1,8,10,1],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e264b46a6f4722747ec94059d598aef":[8,0,0,0,1,3,7,1,8,10,15],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eb4a96d4f52e2d408cc66c43175dd4e":[8,0,0,0,1,3,7,1,8,10,7],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca390d1420c9690f919bec79b4cdd5635d":[8,0,0,0,1,3,7,1,8,10,10],
@@ -68,11 +71,11 @@ var NAVTREEINDEX107 =
 "d3/d8f/classgo__pumpkin__shrine.html":[7,0,1209],
 "d3/d8f/classgo__pumpkin__shrine.html#a35763a67d39c1d68974a9602ce26b699":[7,0,1209,1],
 "d3/d8f/classgo__pumpkin__shrine.html#ab9b05caa7ef7d740a0c46171c2160a19":[7,0,1209,0],
-"d3/d8f/classspell__dru__swift__flight__passive.html":[7,0,2947],
-"d3/d8f/classspell__dru__swift__flight__passive.html#a636331452bc95a4434f1b85e85ea6e7b":[7,0,2947,3],
-"d3/d8f/classspell__dru__swift__flight__passive.html#ab705e67f7abb72a13dfd32e7a6da4561":[7,0,2947,0],
-"d3/d8f/classspell__dru__swift__flight__passive.html#ac87f1c7ccb9aa9985d538c9d8611c850":[7,0,2947,1],
-"d3/d8f/classspell__dru__swift__flight__passive.html#ae4a75ef8bc755c8220b768d5ac87a728":[7,0,2947,2],
+"d3/d8f/classspell__dru__swift__flight__passive.html":[7,0,2946],
+"d3/d8f/classspell__dru__swift__flight__passive.html#a636331452bc95a4434f1b85e85ea6e7b":[7,0,2946,3],
+"d3/d8f/classspell__dru__swift__flight__passive.html#ab705e67f7abb72a13dfd32e7a6da4561":[7,0,2946,0],
+"d3/d8f/classspell__dru__swift__flight__passive.html#ac87f1c7ccb9aa9985d538c9d8611c850":[7,0,2946,1],
+"d3/d8f/classspell__dru__swift__flight__passive.html#ae4a75ef8bc755c8220b768d5ac87a728":[7,0,2946,2],
 "d3/d90/structboss__azuregos_1_1boss__azuregosAI.html":[7,0,408,0],
 "d3/d90/structboss__azuregos_1_1boss__azuregosAI.html#a3f9584a7cf4e27f57eec2c5babb7aff1":[7,0,408,0,4],
 "d3/d90/structboss__azuregos_1_1boss__azuregosAI.html#a839ab1e096d30062d64c1c515a7462a4":[7,0,408,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d93/classPathGenerator.html#a8428386d34894c89bc251ec7ffcfc0ae":[7,0,2422,20],
 "d3/d93/classPathGenerator.html#a868ecc5ab29381adbac322acfeba0680":[7,0,2422,34],
 "d3/d93/classPathGenerator.html#a896319d88480cb27494ac0ccc70b8df6":[7,0,2422,0],
-"d3/d93/classPathGenerator.html#a8a2d9c8eda785f196abb58a057423bc3":[7,0,2422,33],
-"d3/d93/classPathGenerator.html#a926b8aeccd5b501e4bedaaff3b03abbd":[7,0,2422,38],
-"d3/d93/classPathGenerator.html#a9b2aabc098350fbaa706a9f665a90290":[7,0,2422,4],
-"d3/d93/classPathGenerator.html#a9bf293e30e092de38ce34e28b056f8cc":[7,0,2422,26]
+"d3/d93/classPathGenerator.html#a8a2d9c8eda785f196abb58a057423bc3":[7,0,2422,33]
 };

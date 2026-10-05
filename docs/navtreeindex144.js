@@ -1,5 +1,7 @@
 var NAVTREEINDEX144 =
 {
+"d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[8,0,0,0,1,3,3,0,11,0],
+"d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[8,0,0,0,1,3,3,0,11,1],
 "d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[8,0,0,0,1,3,3,0,11,2],
 "d4/dd5/CombatManager_8cpp.html":[8,0,0,0,1,2,12,0],
 "d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[7,0,3568],
@@ -223,10 +225,10 @@ var NAVTREEINDEX144 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1087,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1087,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1087,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,21],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1947,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1947,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1947,0,0],
@@ -238,16 +240,14 @@ var NAVTREEINDEX144 =
 "d4/ddc/classnpc__oculus__unstable__sphere.html":[7,0,2052],
 "d4/ddc/classnpc__oculus__unstable__sphere.html#a5167370a6d3fd32a5673bbeb95ed3f3c":[7,0,2052,1],
 "d4/ddc/classnpc__oculus__unstable__sphere.html#adda2a9e7eab03444742e85729673ab2f":[7,0,2052,2],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html":[7,0,2788],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5":[7,0,2788,0],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a616d1758aa257140f4941fe12ef21e87":[7,0,2788,3],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#aa98346e5f5b23fe016148426a19a719f":[7,0,2788,1],
-"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#ac0edcddf6c38b933c868dbe0535f143a":[7,0,2788,2],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html":[7,0,2787],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5":[7,0,2787,0],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#a616d1758aa257140f4941fe12ef21e87":[7,0,2787,3],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#aa98346e5f5b23fe016148426a19a719f":[7,0,2787,1],
+"d4/ddc/classspell__commander__sarannis__arcane__devastation.html#ac0edcddf6c38b933c868dbe0535f143a":[7,0,2787,2],
 "d4/ddc/structgo__chromaggus__lever.html":[7,0,1170],
 "d4/ddc/structgo__chromaggus__lever.html#a481373f4c49d76d3d0a41efcf2821f8f":[7,0,1170,2],
 "d4/ddc/structgo__chromaggus__lever.html#aa592f93028e323ed10102121d2d6b20e":[7,0,1170,0],
 "d4/ddc/structgo__chromaggus__lever.html#abfb91ccfeb90152dc252f0110fb51715":[7,0,1170,1],
-"d4/ddd/structPetLevelInfo.html":[7,0,2437],
-"d4/ddd/structPetLevelInfo.html#a092f2600f64f2af885142b2e96d1fe64":[7,0,2437,4],
-"d4/ddd/structPetLevelInfo.html#a27352e73d6ed3945e398e0634dee1e96":[7,0,2437,3]
+"d4/ddd/structPetLevelInfo.html":[7,0,2437]
 };

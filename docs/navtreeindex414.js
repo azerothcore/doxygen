@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[7,0,315,2],
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[7,0,315,3],
 "df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[7,0,315,0],
 "df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[7,0,315,1],
@@ -43,11 +44,11 @@ var NAVTREEINDEX414 =
 "df/d6f/structboss__thorim__arena__npcs.html#aa4f90aadf8a9705fea03433195d41ad0":[7,0,752,1],
 "df/d6f/structboss__thorim__arena__npcs.html#aad99dd6ca7d3595222ce42b5b859e462":[7,0,752,7],
 "df/d6f/structboss__thorim__arena__npcs.html#abfd184437df3983659a9ae21a13638fb":[7,0,752,6],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html":[7,0,3363],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa1f27d25209f14dd8bf711bc15cb9165":[7,0,3363,2],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa730b912aadcde53f6cd94c2a8c99493":[7,0,3363,3],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html#acde2cbf4d196cba1fa2c02393c08fe9f":[7,0,3363,1],
-"df/d70/classspell__illidari__council__reflective__shield__aura.html#ae6879f1d8c27f19cf3e3ada0b34d568f":[7,0,3363,0],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html":[7,0,3362],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa1f27d25209f14dd8bf711bc15cb9165":[7,0,3362,2],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#aa730b912aadcde53f6cd94c2a8c99493":[7,0,3362,3],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#acde2cbf4d196cba1fa2c02393c08fe9f":[7,0,3362,1],
+"df/d70/classspell__illidari__council__reflective__shield__aura.html#ae6879f1d8c27f19cf3e3ada0b34d568f":[7,0,3362,0],
 "df/d71/boss__sartharion_8cpp.html":[8,0,0,0,1,3,5,1,0,0],
 "df/d71/boss__sartharion_8cpp.html#a13fbc56bcad2ea316b9238eab480e53a":[8,0,0,0,1,3,5,1,0,0,26],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,1,0,0,12],
@@ -216,11 +217,11 @@ var NAVTREEINDEX414 =
 "df/d72/structgunship__npc__AI.html#ad40c976be4decd9054dad031a4caab78":[7,0,1294,2],
 "df/d72/structgunship__npc__AI.html#ae120874514cf5921136821b820a04da7":[7,0,1294,6],
 "df/d72/structgunship__npc__AI.html#afdfc3f9add2952f90baf24d55425670f":[7,0,1294,5],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[7,0,3083],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[7,0,3083,3],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[7,0,3083,1],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[7,0,3083,0],
-"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[7,0,3083,2],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html":[7,0,3082],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a40793c696a759db4920c4c34f5b9fa66":[7,0,3082,3],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a7477bb78ffcc082c111bad4e93b9fd73":[7,0,3082,1],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#a97a639459622c9e3e995057989cf9eda":[7,0,3082,0],
+"df/d75/classspell__gen__feign__death__no__prevent__emotes.html#aa3c4018e18eccd8f12e4607f4bc630ec":[7,0,3082,2],
 "df/d75/classtele__commandscript.html":[7,0,4573],
 "df/d75/classtele__commandscript.html#a13d522c3480c5b82071d5f77bd41f942":[7,0,4573,0],
 "df/d75/classtele__commandscript.html#a296b26e39d5d575ebe68728ff1b49f68":[7,0,4573,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a5e6da0a5f5190d7959faff60851e679a":[7,0,2230,0,2],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a920a29258228c9c2e7e0791d38b648e1":[7,0,2230,0,4],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a994a9030e2d8c5afaa66c21897e54f82":[7,0,2230,0,3],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[7,0,2230,0,8],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aaad63a0de8acfc17355b7a35de4cc164":[7,0,2230,0,5]
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[7,0,2230,0,8]
 };

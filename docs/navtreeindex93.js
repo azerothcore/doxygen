@@ -1,5 +1,8 @@
 var NAVTREEINDEX93 =
 {
+"d3/d02/structboss__kalecgos.html#a9a3eaee76ada967445cc0ed3d5ed21d2":[7,0,581,0],
+"d3/d02/structboss__kalecgos.html#aa810a7eae5a6b1102e2e96022eaf5085":[7,0,581,1],
+"d3/d02/structboss__kalecgos.html#aaccfa519a7290eb56990e43de4beea97":[7,0,581,4],
 "d3/d02/structboss__kalecgos.html#ab4d440dd0b66002b840bc4b3d3a8f7ef":[7,0,581,5],
 "d3/d02/structboss__kalecgos.html#ad30cbd6d6fe343b9eb44fb96b0779551":[7,0,581,7],
 "d3/d03/classCatsTargetSelector.html":[7,0,864],
@@ -246,8 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cacf71fdbe5fb3eae6cdd6bb1bab81d199":[8,0,0,0,1,3,5,15,35,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caed1c7c557089cafccec74e878a71a181":[8,0,0,0,1,3,5,15,35,5],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37":[8,0,0,0,1,3,5,15,40],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22":[8,0,0,0,1,3,5,15,40,6],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab":[8,0,0,0,1,3,5,15,40,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a":[8,0,0,0,1,3,5,15,40,3],
-"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a524035752d7dfd07fe1af0f7941bda1f":[8,0,0,0,1,3,5,15,40,5]
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22":[8,0,0,0,1,3,5,15,40,6]
 };

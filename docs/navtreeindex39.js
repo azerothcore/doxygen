@@ -1,5 +1,8 @@
 var NAVTREEINDEX39 =
 {
+"d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f":[8,0,0,0,1,3,8,3,2,1],
+"d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f":[8,0,0,0,1,3,8,3,2,3],
+"d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aada9dd1608267e938a37b92e53b33abd":[8,0,0,0,1,3,8,3,2,8],
 "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ab2c1a1b83ed3ffcc5955c3d995332247":[8,0,0,0,1,3,8,3,2,7],
 "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75":[8,0,0,0,1,3,8,3,2,5],
 "d1/d8e/pet__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763":[8,0,0,0,1,3,8,3,2,6],
@@ -87,10 +90,10 @@ var NAVTREEINDEX39 =
 "d1/d90/structboss__emeriss_1_1boss__emerissAI.html#ad851169bc09a362137e211dd10d30a1b":[7,0,458,0,4],
 "d1/d90/structboss__emeriss_1_1boss__emerissAI.html#ad94b3b097d9987e365f91b7e57d0f208":[7,0,458,0,0],
 "d1/d90/structboss__emeriss_1_1boss__emerissAI.html#ae2c8c5c2d2054af41c5dbe938b3eb79a":[7,0,458,0,6],
-"d1/d91/classspell__grobbulus__poison.html":[7,0,3196],
-"d1/d91/classspell__grobbulus__poison.html#a2df81e30554809a0d5b45d2f471bb71f":[7,0,3196,0],
-"d1/d91/classspell__grobbulus__poison.html#a4c1eab348e54011f1a2f827fc251ca13":[7,0,3196,2],
-"d1/d91/classspell__grobbulus__poison.html#aa51d9c578b782fbe0e7e3cf13789b702":[7,0,3196,1],
+"d1/d91/classspell__grobbulus__poison.html":[7,0,3195],
+"d1/d91/classspell__grobbulus__poison.html#a2df81e30554809a0d5b45d2f471bb71f":[7,0,3195,0],
+"d1/d91/classspell__grobbulus__poison.html#a4c1eab348e54011f1a2f827fc251ca13":[7,0,3195,2],
+"d1/d91/classspell__grobbulus__poison.html#aa51d9c578b782fbe0e7e3cf13789b702":[7,0,3195,1],
 "d1/d91/structnpc__hyjal__thrall_1_1hyjalThrallAI.html":[7,0,1917,0],
 "d1/d91/structnpc__hyjal__thrall_1_1hyjalThrallAI.html#a57046716d7c45a5fa4e203d73c4a7b87":[7,0,1917,0,4],
 "d1/d91/structnpc__hyjal__thrall_1_1hyjalThrallAI.html#a5bc01b52edeaac62e3a9c3e48f90feb2":[7,0,1917,0,0],
@@ -192,10 +195,10 @@ var NAVTREEINDEX39 =
 "d1/d96/structnpc__salvaged__siege__engine.html":[7,0,2154],
 "d1/d96/structnpc__salvaged__siege__engine.html#aa8cde891a19ebb1e53be2a81a2432442":[7,0,2154,0],
 "d1/d96/structnpc__salvaged__siege__engine.html#aed2500b2315b5e508ea3d06a2355d023":[7,0,2154,1],
-"d1/d97/classspell__item__fel__mana__potion.html":[7,0,3423],
-"d1/d97/classspell__item__fel__mana__potion.html#a3368e8fad4a5ecd242056da38ad8f23a":[7,0,3423,0],
-"d1/d97/classspell__item__fel__mana__potion.html#a9552ba0f4c18623b6b00ababa034942c":[7,0,3423,2],
-"d1/d97/classspell__item__fel__mana__potion.html#ad3d091510685ebc2d87aadb658cacf58":[7,0,3423,1],
+"d1/d97/classspell__item__fel__mana__potion.html":[7,0,3422],
+"d1/d97/classspell__item__fel__mana__potion.html#a3368e8fad4a5ecd242056da38ad8f23a":[7,0,3422,0],
+"d1/d97/classspell__item__fel__mana__potion.html#a9552ba0f4c18623b6b00ababa034942c":[7,0,3422,2],
+"d1/d97/classspell__item__fel__mana__potion.html#ad3d091510685ebc2d87aadb658cacf58":[7,0,3422,1],
 "d1/d97/structDeclinedName.html":[7,0,1003],
 "d1/d97/structDeclinedName.html#acda589ff9e0fdb0a813707736191d049":[7,0,1003,0],
 "d1/d98/classnpc__gunship__gunner.html":[7,0,1881],
@@ -246,8 +249,5 @@ var NAVTREEINDEX39 =
 "d1/d9d/classSpellProcPPMModifierTest.html#a2e9b2005f350f0aec0a905eef5bc0bb6":[7,0,4517,1],
 "d1/d9d/classSpellProcPPMModifierTest.html#a7dbbfc5825a36bf3950a8dff54e0ca5a":[7,0,4517,3],
 "d1/d9d/classSpellProcPPMModifierTest.html#ab58c026bc6bbcf94aaec896c654e949f":[7,0,4517,0],
-"d1/d9d/classSpellProcPPMModifierTest.html#ac960eb9c5e15274b63b684d8908ed68b":[7,0,4517,2],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[5,0,34,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[7,0,13,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[5,0,34,0,0,0]
+"d1/d9d/classSpellProcPPMModifierTest.html#ac960eb9c5e15274b63b684d8908ed68b":[7,0,4517,2]
 };

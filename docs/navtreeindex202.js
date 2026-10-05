@@ -1,5 +1,13 @@
 var NAVTREEINDEX202 =
 {
+"d7/d46/classAuraEffect.html#a26498e695742b5689c35f806af38ae8a":[7,0,295,133],
+"d7/d46/classAuraEffect.html#a26906e499e64074d01966137f9608093":[7,0,295,65],
+"d7/d46/classAuraEffect.html#a280de8cb7a520bb9b216b9735a2dca32":[7,0,295,82],
+"d7/d46/classAuraEffect.html#a2a7bd5fd001ae6fb2ac680b1d25ef378":[7,0,295,3],
+"d7/d46/classAuraEffect.html#a2d4f436ab67e728f66577e043143f32d":[7,0,295,172],
+"d7/d46/classAuraEffect.html#a2d687bfbacc779c97d18c866a5544bfe":[7,0,295,105],
+"d7/d46/classAuraEffect.html#a2d9b475cbf04d8597953802e1accc938":[7,0,295,237],
+"d7/d46/classAuraEffect.html#a306e4d031a37294a17fb999303b71efe":[7,0,295,30],
 "d7/d46/classAuraEffect.html#a3286f89b5415bd21a4831285dab7362f":[7,0,295,71],
 "d7/d46/classAuraEffect.html#a334378fa304471045fd273f4d845c8dd":[7,0,295,226],
 "d7/d46/classAuraEffect.html#a3412eb30c1a4bd66b8cca040fc9ef6d1":[7,0,295,86],
@@ -241,13 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d48/structboss__vexallus.html":[7,0,783],
 "d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354":[7,0,783,7],
 "d7/d48/structboss__vexallus.html#a48d44cc3ed6f0e7f97f76cd325e5c48e":[7,0,783,4],
-"d7/d48/structboss__vexallus.html#a4afa4a245b8863c7b0898773932642c8":[7,0,783,8],
-"d7/d48/structboss__vexallus.html#a4bd88222143d8db098312cff8a2fc969":[7,0,783,6],
-"d7/d48/structboss__vexallus.html#a5e67671becf3c1ac4ca9f04c79d82cf1":[7,0,783,1],
-"d7/d48/structboss__vexallus.html#a68c32ed70274e9f135b7a9107f888c91":[7,0,783,0],
-"d7/d48/structboss__vexallus.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc":[7,0,783,5],
-"d7/d48/structboss__vexallus.html#a9bc7808889da754bae9c935418975f90":[7,0,783,3],
-"d7/d48/structboss__vexallus.html#aa9d37e8132c715552e2ce0102ac9a59b":[7,0,783,2],
-"d7/d49/SpellScriptLoader_8cpp.html":[8,0,0,0,1,2,38,0,82],
-"d7/d49/SpellScriptLoader_8cpp.html#aae80ff7a03e35c91f47550f388c3f3bb":[8,0,0,0,1,2,38,0,82,0]
+"d7/d48/structboss__vexallus.html#a4afa4a245b8863c7b0898773932642c8":[7,0,783,8]
 };

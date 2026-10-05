@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f":[8,0,0,0,1,3,7,12,12,4],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e":[8,0,0,0,1,3,7,12,12,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081":[8,0,0,0,1,3,7,12,12,7],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a82b0ec040f620e6d838f64ddc943fda2":[8,0,0,0,1,3,7,12,12,2],
@@ -106,11 +107,11 @@ var NAVTREEINDEX362 =
 "dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[7,0,635,1],
 "dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[7,0,635,10],
 "dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[7,0,635,5],
-"dd/dd5/classspell__dk__scent__of__blood.html":[7,0,2870],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[7,0,2870,3],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[7,0,2870,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[7,0,2870,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[7,0,2870,1],
+"dd/dd5/classspell__dk__scent__of__blood.html":[7,0,2869],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[7,0,2869,3],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[7,0,2869,0],
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[7,0,2869,2],
+"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[7,0,2869,1],
 "dd/dd6/boss__halion_8cpp.html":[8,0,0,0,1,3,5,1,1,2],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,1,1,2,31],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[8,0,0,0,1,3,5,1,1,2,31,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dd6/classcharacter__commandscript.html#aea7016450c371ef4e3305b9e7e1c0639":[7,0,873,8],
 "dd/dd6/classcharacter__commandscript.html#aec5804fe5d1be47c0b4102e4333bab60":[7,0,873,6],
 "dd/dd6/classcharacter__commandscript.html#af60a32bae9f99f48eb8665966ea42fd7":[7,0,873,16],
-"dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42":[7,0,873,1],
-"dd/dd6/classnpc__aeranas.html":[7,0,1624]
+"dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42":[7,0,873,1]
 };

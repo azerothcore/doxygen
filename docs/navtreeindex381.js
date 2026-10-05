@@ -1,5 +1,6 @@
 var NAVTREEINDEX381 =
 {
+"de/d1c/classGameObject.html#a1f52f9f33bda7b8e6015548e94c2767b":[7,0,1116,15],
 "de/d1c/classGameObject.html#a20c822c26c33c0e2328e899d25a3ab6c":[7,0,1116,9],
 "de/d1c/classGameObject.html#a23d07cf4bd0d68e9f30112bb34bcc504":[7,0,1116,138],
 "de/d1c/classGameObject.html#a2591bcee950c708fe556a71062cfcf64":[7,0,1116,73],
@@ -201,18 +202,18 @@ var NAVTREEINDEX381 =
 "de/d1e/classMailSender.html#a9ddda06cf5ecc55efdc4525353471c5b":[7,0,1520,3],
 "de/d20/classVMAP_1_1MapRayCallback.html":[7,0,11,10],
 "de/d20/classVMAP_1_1MapRayCallback.html":[5,0,31,10],
-"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[7,0,11,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[5,0,31,10,0],
+"de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[7,0,11,10,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[7,0,11,10,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,31,10,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[7,0,11,10,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,31,10,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[7,0,11,10,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,31,10,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[7,0,11,10,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,31,10,1],
-"de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[7,0,11,10,2],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[7,0,11,10,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[5,0,31,10,2],
+"de/d20/classVMAP_1_1MapRayCallback.html#ad8ab3eee3fc3a1888a9ff11edfd946b8":[7,0,11,10,2],
 "de/d20/structCharStartOutfitEntry.html":[7,0,887],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[7,0,887,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[7,0,887,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d":[8,0,0,0,1,3,9,7,39,3],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03":[8,0,0,0,1,3,9,7,39,16],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4":[8,0,0,0,1,3,9,7,39,12],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[8,0,0,0,1,3,9,7,39,13],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde":[8,0,0,0,1,3,9,7,39,19]
+"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb":[8,0,0,0,1,3,9,7,39,13]
 };

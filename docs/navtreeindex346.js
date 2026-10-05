@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[7,0,2625,125],
 "dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[7,0,2625,115],
 "dd/d27/structSmartAction.html#a4adacb044619cfa2b4c37c072a865628":[7,0,2625,264],
 "dd/d27/structSmartAction.html#a4b0169783ff0fed5b2a6f2a67d224d03":[7,0,2625,32],
@@ -240,14 +241,13 @@ var NAVTREEINDEX346 =
 "dd/d28/structDarkFallenAI.html#a9bca7b1181e8227009d6b6403cc319e5":[7,0,983,9],
 "dd/d28/structDarkFallenAI.html#acaf883142e1620a84f8bf29801dd860c":[7,0,983,5],
 "dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7":[7,0,983,6],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[7,0,3543],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[7,0,3543,1],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[7,0,3543,0],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[7,0,3543,2],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[7,0,3542],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[7,0,3542,1],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[7,0,3542,0],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[7,0,3542,2],
 "dd/d29/structboss__firemaw.html":[7,0,484],
 "dd/d29/structboss__firemaw.html#a13a672cc37175615068429f9a3282e07":[7,0,484,2],
 "dd/d29/structboss__firemaw.html#a2d2be691020b8aa81f82ffab91a86e42":[7,0,484,0],
 "dd/d29/structboss__firemaw.html#a63d0f449d04ad3d86f4ede9a0f9696a9":[7,0,484,1],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html":[7,0,3382],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[7,0,3382,0]
+"dd/d2a/classspell__item__book__of__glyph__mastery.html":[7,0,3381]
 };

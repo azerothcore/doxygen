@@ -1,5 +1,6 @@
 var NAVTREEINDEX430 =
 {
+"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[8,0,0,0,1,2,38,0,39,0],
 "df/df1/structCell.html":[7,0,865],
 "df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[7,0,865,1],
 "df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[7,0,865,10],
@@ -31,10 +32,10 @@ var NAVTREEINDEX430 =
 "df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[7,0,865,21],
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[7,0,865,23],
 "df/df1/structCell.html#ade5ac24b3da0ab3e95ea06dd72f63560":[7,0,865,29],
-"df/df2/classspell__dk__blade__barrier.html":[7,0,2826],
-"df/df2/classspell__dk__blade__barrier.html#a2e572b677ad3b754316066f3e53edbbb":[7,0,2826,1],
-"df/df2/classspell__dk__blade__barrier.html#a4e1d93c20d0926d3ac93c23d9c139df6":[7,0,2826,0],
-"df/df2/classspell__dk__blade__barrier.html#acecdc9e5079c49b312521a65682b602a":[7,0,2826,2],
+"df/df2/classspell__dk__blade__barrier.html":[7,0,2825],
+"df/df2/classspell__dk__blade__barrier.html#a2e572b677ad3b754316066f3e53edbbb":[7,0,2825,1],
+"df/df2/classspell__dk__blade__barrier.html#a4e1d93c20d0926d3ac93c23d9c139df6":[7,0,2825,0],
+"df/df2/classspell__dk__blade__barrier.html#acecdc9e5079c49b312521a65682b602a":[7,0,2825,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html":[7,0,3556],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[7,0,3556,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[7,0,3556,4],
@@ -215,10 +216,6 @@ var NAVTREEINDEX430 =
 "df/df8/classspell__mage__empowered__fire.html#ac3f606ee9c54ab23bdd1277594112ed1":[7,0,3630,0],
 "df/df9/AddonHandler_8h.html":[8,0,0,0,1,2,22,1],
 "df/df9/AddonHandler_8h.html#a53c18d341aaa47d117be75333e4ab43d":[8,0,0,0,1,2,22,1,1],
-"df/df9/classspell__brewfest__reveler__transform.html":[7,0,2756],
-"df/df9/classspell__brewfest__reveler__transform.html#a20cb3aec994ffc0a06d9b4ba4f575844":[7,0,2756,1],
-"df/df9/classspell__brewfest__reveler__transform.html#a4a276b00d4912c210598057620368934":[7,0,2756,0],
-"df/df9/classspell__brewfest__reveler__transform.html#adf9962252dec76f324b8cdbf8f6b9155":[7,0,2756,2],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html":[7,0,706,0],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a30331f9cdb141cd2dbc043888b48a6eb":[7,0,706,0,1],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a458eb370872c20441b5ec6ecd2c97500":[7,0,706,0,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX430 =
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,25,1,1],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[8,0,0,0,1,3,2,25,1,3],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa":[8,0,0,0,1,3,2,25,1,2],
-"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[8,0,0,0,1,3,2,25,1,0]
+"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[8,0,0,0,1,3,2,25,1,0],
+"df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[8,0,0,0,1,3,2,25,2],
+"df/dfc/classspell__item__pet__healing.html":[7,0,3478],
+"df/dfc/classspell__item__pet__healing.html#a357e5c8a332989f93276667da1adf9f6":[7,0,3478,2]
 };

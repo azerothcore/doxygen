@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826d":[8,0,0,0,1,2,7,0,1,17],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da16c0131ad34ecbab0691526c984b409c":[8,0,0,0,1,2,7,0,1,17,14],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da17dbf308535c8ead5dd9b97f27d61a2e":[8,0,0,0,1,2,7,0,1,17,15],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da1b552ca4ff7dc444dd7b331b30b1d226":[8,0,0,0,1,2,7,0,1,17,11],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da1fd8c7308ee90512df561b3204c23b74":[8,0,0,0,1,2,7,0,1,17,7],
@@ -74,10 +76,10 @@ var NAVTREEINDEX181 =
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59afa5b9730efaeb2b61238f0cbba17ee7e":[8,0,0,0,1,2,7,0,1,25,0],
 "d6/d4f/BattlefieldWG_8h.html#af6f262846205790266deb3d01c08807d":[8,0,0,0,1,2,7,0,1,41],
 "d6/d4f/BattlefieldWG_8h.html#afa91bfae2586fced971723e0554a6ffb":[8,0,0,0,1,2,7,0,1,49],
-"d6/d4f/classspell__huhuran__poison__bolt.html":[7,0,3257],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3257,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3257,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3257,2],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[7,0,3256],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[7,0,3256,0],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[7,0,3256,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[7,0,3256,2],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[7,0,2075],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[7,0,2075,1],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[7,0,2075,2],
@@ -228,10 +230,10 @@ var NAVTREEINDEX181 =
 "d6/d51/structboss__krick_1_1boss__krickAI.html#ace248881cb71c1e91f33ff93489b6f3f":[7,0,598,0,1],
 "d6/d51/structboss__krick_1_1boss__krickAI.html#aea8dd89c8e4de1bebd94a26ead852119":[7,0,598,0,2],
 "d6/d51/structboss__krick_1_1boss__krickAI.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f":[7,0,598,0,4],
-"d6/d52/classspell__dru__idol__lifebloom.html":[7,0,2920],
-"d6/d52/classspell__dru__idol__lifebloom.html#a46a643985647d8a8e033b637b31214a5":[7,0,2920,2],
-"d6/d52/classspell__dru__idol__lifebloom.html#aaf21dafa72b58245f548ed946a49659d":[7,0,2920,0],
-"d6/d52/classspell__dru__idol__lifebloom.html#ac05d3ae466ad64ac590f399827aac0c9":[7,0,2920,1],
+"d6/d52/classspell__dru__idol__lifebloom.html":[7,0,2919],
+"d6/d52/classspell__dru__idol__lifebloom.html#a46a643985647d8a8e033b637b31214a5":[7,0,2919,2],
+"d6/d52/classspell__dru__idol__lifebloom.html#aaf21dafa72b58245f548ed946a49659d":[7,0,2919,0],
+"d6/d52/classspell__dru__idol__lifebloom.html#ac05d3ae466ad64ac590f399827aac0c9":[7,0,2919,1],
 "d6/d52/structPvPCombatReference.html":[7,0,2505],
 "d6/d52/structPvPCombatReference.html#a1439519e8f8665e345cd1bd3d28031aa":[7,0,2505,0],
 "d6/d52/structPvPCombatReference.html#a88d3291f9e29fa72f610b6c2a224fa4a":[7,0,2505,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1a7129edf861b716cc78023bf9aeb3deb6":[8,0,0,0,1,3,2,1,1,5,3,2],
 "d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1aac69d101d285ae8f7bc7a01d69c590fc":[8,0,0,0,1,3,2,1,1,5,3,1],
 "d6/d54/boss__lord__valthalak_8cpp.html#a16774215bba3b38580ea51987d64cff1aad187ac2284ca07772206a15e9a0076b":[8,0,0,0,1,3,2,1,1,5,3,0],
-"d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226a":[8,0,0,0,1,3,2,1,1,5,1],
-"d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa501bb05d0c7a016be1a399e0361f8e47":[8,0,0,0,1,3,2,1,1,5,1,0],
-"d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa82f20b32e61c68efeea2b7df8747f3ae":[8,0,0,0,1,3,2,1,1,5,1,1]
+"d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226a":[8,0,0,0,1,3,2,1,1,5,1]
 };

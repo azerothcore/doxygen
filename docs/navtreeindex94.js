@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a307d891e05530d70a32ad2047cfe6dab":[8,0,0,0,1,3,5,15,40,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a":[8,0,0,0,1,3,5,15,40,3],
+"d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a524035752d7dfd07fe1af0f7941bda1f":[8,0,0,0,1,3,5,15,40,5],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390":[8,0,0,0,1,3,5,15,40,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e":[8,0,0,0,1,3,5,15,40,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2":[8,0,0,0,1,3,5,15,40,2],
@@ -38,9 +41,9 @@ var NAVTREEINDEX94 =
 "d3/d0a/classachievement__kologarn__rubble__and__roll.html":[7,0,75],
 "d3/d0a/classachievement__kologarn__rubble__and__roll.html#acb0f72ebdf1917a3331b3fc0f9aa4300":[7,0,75,1],
 "d3/d0a/classachievement__kologarn__rubble__and__roll.html#ae36bbab8d82f10ad120a1e7564a13961":[7,0,75,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html":[7,0,3180],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[7,0,3180,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[7,0,3180,1],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html":[7,0,3179],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[7,0,3179,0],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[7,0,3179,1],
 "d3/d0a/classspell__necropolis__beam.html":[7,0,3733],
 "d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[7,0,3733,0],
 "d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[7,0,3733,1],
@@ -194,11 +197,11 @@ var NAVTREEINDEX94 =
 "d3/d0b/namespaceAcore.html#aff8647e74ff6e2ecbfc14dd083ea63fa":[5,0,0,167],
 "d3/d0b/namespaceAcore.html#affed0a39c687fd0d71e1838f7d91d106":[5,0,0,198],
 "d3/d0c/AuthCrypt_8cpp.html":[8,0,0,0,0,3,0,0],
-"d3/d0c/classspell__item__trauma.html":[7,0,3529],
-"d3/d0c/classspell__item__trauma.html#a27569fe686e50246768fca4a7625fe0d":[7,0,3529,1],
-"d3/d0c/classspell__item__trauma.html#a4f4eaa4aeeac9257804957671c16233f":[7,0,3529,2],
-"d3/d0c/classspell__item__trauma.html#ab9a662bebdb5e03c5c10a807b892a9bf":[7,0,3529,3],
-"d3/d0c/classspell__item__trauma.html#afbd6d4a64b7da0d0dc15c62eb81746c9":[7,0,3529,0],
+"d3/d0c/classspell__item__trauma.html":[7,0,3528],
+"d3/d0c/classspell__item__trauma.html#a27569fe686e50246768fca4a7625fe0d":[7,0,3528,1],
+"d3/d0c/classspell__item__trauma.html#a4f4eaa4aeeac9257804957671c16233f":[7,0,3528,2],
+"d3/d0c/classspell__item__trauma.html#ab9a662bebdb5e03c5c10a807b892a9bf":[7,0,3528,3],
+"d3/d0c/classspell__item__trauma.html#afbd6d4a64b7da0d0dc15c62eb81746c9":[7,0,3528,0],
 "d3/d0c/classspell__z__check__aura.html":[7,0,4464],
 "d3/d0c/classspell__z__check__aura.html#a03faa2eda84ac74dcff9a7a6a4e57440":[7,0,4464,2],
 "d3/d0c/classspell__z__check__aura.html#a183976530ebf604656db12e41449427e":[7,0,4464,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d10/mob__generic__creature_8cpp.html#a50f66c4d6429b38157e35a75a0daa31d":[8,0,0,0,1,3,10,8,2],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[7,0,807],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a0ae04ac300d4f08b12f7edaa75dbe208":[7,0,807,2],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7":[7,0,807,6],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a381b56eb1c81f893fd061cf4aead0bc4":[7,0,807,7],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a404e4ab66a757b6ff4fa492219198b91":[7,0,807,3],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a543b785ba3033ab378fcb77d39db2ab1":[7,0,807,0]
+"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7":[7,0,807,6]
 };
