@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabef99eb6edded3faec9994a93dfe4407":[8,0,0,0,1,2,26,2,1,20],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabf72a68cd52d9dd84870ddb9af03adce":[8,0,0,0,1,2,26,2,1,16],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac0e09803bc2df3c1608e09976e0dd666":[8,0,0,0,1,2,26,2,1,2],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac81485d22dff8d6a4ed903b6e4b766e2":[8,0,0,0,1,2,26,2,1,36],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac9294cb854ac9106f36bc04c1d77fd68":[8,0,0,0,1,2,26,2,1,40],
@@ -247,7 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[7,0,1241,0],
 "dc/d51/classspell__gen__mounted__charge.html":[7,0,3115],
 "dc/d51/classspell__gen__mounted__charge.html#a1f8722308e1a5bef546dcb939d73dca7":[7,0,3115,2],
-"dc/d51/classspell__gen__mounted__charge.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc":[7,0,3115,1],
-"dc/d51/classspell__gen__mounted__charge.html#a2cdda449ab11438347e7dd32fd058e6d":[7,0,3115,3],
-"dc/d51/classspell__gen__mounted__charge.html#ad8d2871e6277dd982653fa864010d084":[7,0,3115,0]
+"dc/d51/classspell__gen__mounted__charge.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc":[7,0,3115,1]
 };

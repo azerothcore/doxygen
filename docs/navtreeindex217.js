@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,0,1,5],
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca01b902e4cb646343c48c1793197ddbcd":[8,0,0,0,1,3,7,2,0,1,5,25],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca1914b3f974f02aa35c58834c053cfc66":[8,0,0,0,1,3,7,2,0,1,5,17],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f4767ed432f4cb18e1a3f4169b56ef7":[8,0,0,0,1,3,7,2,0,1,5,14],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca23af1d66e2807bf653c5e7f7b6cfa3c7":[8,0,0,0,1,3,7,2,0,1,5,1],
@@ -54,10 +56,10 @@ var NAVTREEINDEX217 =
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4175],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4175,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4175,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dc5/AchievementMgr_8h.html#a649527d8ab61f39ad17fe709d2b1aabc":[8,0,0,0,1,2,1,1,19],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0":[8,0,0,0,1,2,1,1,21],
 "d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f":[8,0,0,0,1,2,1,1,21,22],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c":[8,0,0,0,1,2,1,1,21,11],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5":[8,0,0,0,1,2,1,1,21,13],
-"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6":[8,0,0,0,1,2,1,1,21,10]
+"d7/dc5/AchievementMgr_8h.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c":[8,0,0,0,1,2,1,1,21,11]
 };

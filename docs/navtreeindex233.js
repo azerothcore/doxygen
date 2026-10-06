@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#ad8f538bb7609ac82e84850630f6c180d":[4,1,20,344],
+"d8/d74/classWorldSession.html#ad93deff76144eb53d80896e839c592ad":[4,1,20,507],
 "d8/d74/classWorldSession.html#ada77032a1b7ad5a8d43e257a117239b9":[4,1,20,571],
 "d8/d74/classWorldSession.html#ada84df34770512a63204f4fc500d268a":[4,1,20,454],
 "d8/d74/classWorldSession.html#adad74cb45da1c9ca108bd59beb95cca0":[4,1,20,501],
@@ -161,8 +163,8 @@ var NAVTREEINDEX233 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d7e/classspell__gen__mirrored__soul.html":[7,0,3110],
 "d8/d7e/classspell__gen__mirrored__soul.html#a49174c98ea4fa6c4028c7ad771bbe204":[7,0,3110,3],
 "d8/d7e/classspell__gen__mirrored__soul.html#a4cd1dec02407065ffb25b230cf8df1c7":[7,0,3110,2],
-"d8/d7e/classspell__gen__mirrored__soul.html#a71029016013dc48cf1e882a1fb520187":[7,0,3110,1],
-"d8/d7e/classspell__gen__mirrored__soul.html#a993331721d98f6d0b4c225a9c32708bd":[7,0,3110,0],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html":[7,0,2180,0]
+"d8/d7e/classspell__gen__mirrored__soul.html#a71029016013dc48cf1e882a1fb520187":[7,0,3110,1]
 };

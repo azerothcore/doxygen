@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6faeabc449aac295b226cd1dd2a1676b112":[8,0,0,0,1,3,10,17,3,29],
 "d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6faed9778fa24504fc728036a7075db0735":[8,0,0,0,1,3,10,17,3,0],
 "d6/d36/scourge__invasion_8h.html#ab9f9fd1730c897e95ac07aa72fd88f6faf0efbfc0727a57cb84b0980fcfce254c":[8,0,0,0,1,3,10,17,3,4],
 "d6/d36/scourge__invasion_8h.html#abeb28cae35b0b36d73d830094e4ea923":[8,0,0,0,1,3,10,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d39/classWorld.html#a111207dc1b734f3b68e2d544bd39e2f5":[4,2,12,24],
 "d6/d39/classWorld.html#a18fe5194248a0c6126f02b642eba41fc":[4,2,12,86],
 "d6/d39/classWorld.html#a19560e2e6fb9d54a1297bdebd5466d17":[4,2,12,61],
-"d6/d39/classWorld.html#a1a4d5e21370a098176816cad4678d677":[4,2,12,81],
-"d6/d39/classWorld.html#a1aaf354de61c3bfe4de4d5133e6a3aeb":[4,2,12,41]
+"d6/d39/classWorld.html#a1a4d5e21370a098176816cad4678d677":[4,2,12,81]
 };

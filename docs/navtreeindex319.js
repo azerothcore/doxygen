@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aaf04a87591d2c4b9d2b770a151625d300":[8,0,0,0,1,3,9,8,80,1],
+"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[8,0,0,0,1,3,9,8,107],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dca4188ec15e3cb30e3a561d4b9e9c0e7b8":[8,0,0,0,1,3,9,8,107,1],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcae2bb0945c16986078d2c8b5f71272d7b":[8,0,0,0,1,3,9,8,107,0],
 "db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dcafe0cf1a9db25cc05982796389558410a":[8,0,0,0,1,3,9,8,107,2],
@@ -45,10 +47,10 @@ var NAVTREEINDEX319 =
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2337,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2337,3],
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2337,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[7,0,3300,0],
 "dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[7,0,3300,2],
 "dc/d07/classspell__skadi__reset__check.html":[7,0,4187],
-"dc/d07/classspell__skadi__reset__check.html#a1f31273cb1826cd07196eacfbdc46673":[7,0,4187,2],
-"dc/d07/classspell__skadi__reset__check.html#aaf8528038c6b3172d4810ed773f71644":[7,0,4187,0],
-"dc/d07/classspell__skadi__reset__check.html#ac5fa1dd078656f7ae182ec18eddacfe3":[7,0,4187,1]
+"dc/d07/classspell__skadi__reset__check.html#a1f31273cb1826cd07196eacfbdc46673":[7,0,4187,2]
 };

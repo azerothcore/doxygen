@@ -1,5 +1,7 @@
 var NAVTREEINDEX315 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a9ee1bb7b6ee57fbc1c9c514628d11eca":[8,0,0,0,1,3,2,30,31,17],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a9fcbafc0f361295a22480ef5870ab275":[8,0,0,0,1,3,2,30,31,24],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74aa1f3d9cb8c162b54ee32ac51b9c67449":[8,0,0,0,1,3,2,30,31,39],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74aa3a1e5cbe98cbb68caf8b5492c5143c4":[8,0,0,0,1,3,2,30,31,14],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74aa4159a8b88dfd27ae7859f401b504898":[8,0,0,0,1,3,2,30,31,6],
@@ -135,12 +137,12 @@ var NAVTREEINDEX315 =
 "db/ddc/ItemPackets_8cpp.html":[8,0,0,0,1,2,39,0,17],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[7,0,13,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[7,0,13,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[7,0,13,6,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[7,0,13,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[7,0,13,6,48,0],
 "db/ddd/structSpellThreatEntry.html":[7,0,4533],
 "db/ddd/structSpellThreatEntry.html#a0d66e48d986f246e6aea08dd00837158":[7,0,4533,1],
 "db/ddd/structSpellThreatEntry.html#a35f5f8f7a3ac33768299913fecc1cf8d":[7,0,4533,0],
@@ -217,10 +219,10 @@ var NAVTREEINDEX315 =
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,34,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[7,0,13,6,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[5,0,34,6,27,0],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[7,0,13,6,27,3],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[5,0,34,6,27,3],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a961ae90991fa23bfc94a054dba357392":[5,0,34,6,27,4],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[7,0,13,6,27,3],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a961ae90991fa23bfc94a054dba357392":[7,0,13,6,27,4],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a961ae90991fa23bfc94a054dba357392":[5,0,34,6,27,4],
 "db/de1/Dynamic_2TypeList_8h.html":[8,0,0,0,0,6,8],
 "db/de1/Dynamic_2TypeList_8h.html#a0309f68a543c5c0994f9edc0e56dc59f":[8,0,0,0,0,6,8,3],
 "db/de1/Dynamic_2TypeList_8h.html#a311cb99af993804c6737ae46c5cbfaff":[8,0,0,0,0,6,8,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX315 =
 "db/de1/structTempSummonData.html#aabf7002fbd171e7f1832be5f066dbe44":[7,0,4576,0],
 "db/de1/structTempSummonData.html#aad6aa76796625075e4fcfb7d1a3eb88c":[7,0,4576,1],
 "db/de1/structnpc__brain__wash__totem.html":[7,0,1712],
-"db/de1/structnpc__brain__wash__totem.html#abd32e3210cc384c0c365826ca1fbae1e":[7,0,1712,1],
-"db/de1/structnpc__brain__wash__totem.html#acdecde614ba82d60ee4a10ace8545fdf":[7,0,1712,0],
-"db/de2/boss__drekthar_8cpp.html":[8,0,0,0,1,3,2,0,2]
+"db/de1/structnpc__brain__wash__totem.html#abd32e3210cc384c0c365826ca1fbae1e":[7,0,1712,1]
 };

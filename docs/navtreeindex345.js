@@ -1,5 +1,7 @@
 var NAVTREEINDEX345 =
 {
+"dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61817513fee18f80bfcabfc95ee63a26":[8,0,0,0,1,3,5,4,1,1,2,1],
+"dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9c8a0600307896c7a0c7faf8e522b527":[8,0,0,0,1,3,5,4,1,1,2,2],
 "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1704ad76123dba28b2d817aad76eb7e":[8,0,0,0,1,3,5,4,1,1,2,0],
 "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1cd696264341903a5ac26b2532905ab":[8,0,0,0,1,3,5,4,1,1,2,3],
 "dd/d1f/classspell__exploding__orb__auto__grow__aura.html":[7,0,2980],
@@ -85,14 +87,14 @@ var NAVTREEINDEX345 =
 "dd/d26/VehicleScript_8h.html":[8,0,0,0,1,2,38,0,91],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[7,0,13,10,12],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,34,10,12],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[7,0,13,10,12,2],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,12,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[7,0,13,10,12,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,34,10,12,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[7,0,13,10,12,1],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[7,0,13,10,12,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,34,10,12,0],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[7,0,13,10,12,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,34,10,12,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[7,0,13,10,12,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,34,10,12,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d27/structSmartAction.html#a435c6226fea0340c9cb99c28edb071d1":[7,0,2625,286],
 "dd/d27/structSmartAction.html#a43ba7be86e67031ad4ba2fae1c46a051":[7,0,2625,113],
 "dd/d27/structSmartAction.html#a4451b97891324d63d4d91253af395191":[7,0,2625,150],
-"dd/d27/structSmartAction.html#a4455335eeb643222636ab78dfcb64149":[7,0,2625,306],
-"dd/d27/structSmartAction.html#a44afde0676b9bf14380c4b9232011cb2":[7,0,2625,159],
-"dd/d27/structSmartAction.html#a44b1e831693e0a9a01c111f9701647e8":[7,0,2625,48]
+"dd/d27/structSmartAction.html#a4455335eeb643222636ab78dfcb64149":[7,0,2625,306]
 };

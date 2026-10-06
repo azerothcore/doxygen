@@ -1,5 +1,7 @@
 var NAVTREEINDEX346 =
 {
+"dd/d27/structSmartAction.html#a44afde0676b9bf14380c4b9232011cb2":[7,0,2625,159],
+"dd/d27/structSmartAction.html#a44b1e831693e0a9a01c111f9701647e8":[7,0,2625,48],
 "dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[7,0,2625,125],
 "dd/d27/structSmartAction.html#a45c222a0c242c727201f7ea73f44c553":[7,0,2625,115],
 "dd/d27/structSmartAction.html#a4adacb044619cfa2b4c37c072a865628":[7,0,2625,264],
@@ -247,7 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[7,0,3542,2],
 "dd/d29/structboss__firemaw.html":[7,0,484],
 "dd/d29/structboss__firemaw.html#a13a672cc37175615068429f9a3282e07":[7,0,484,2],
-"dd/d29/structboss__firemaw.html#a2d2be691020b8aa81f82ffab91a86e42":[7,0,484,0],
-"dd/d29/structboss__firemaw.html#a63d0f449d04ad3d86f4ede9a0f9696a9":[7,0,484,1],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html":[7,0,3381]
+"dd/d29/structboss__firemaw.html#a2d2be691020b8aa81f82ffab91a86e42":[7,0,484,0]
 };

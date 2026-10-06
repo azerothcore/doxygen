@@ -1,5 +1,6 @@
 var NAVTREEINDEX184 =
 {
+"d6/d6e/structboss__malchezaar.html":[7,0,626],
 "d6/d6e/structboss__malchezaar.html#a0d91be1d9ad3a0876bec8b694edd44be":[7,0,626,6],
 "d6/d6e/structboss__malchezaar.html#a1b48e2c117ac4c60f11310e43d34264b":[7,0,626,3],
 "d6/d6e/structboss__malchezaar.html#a25ef9558fcccee430ef92703af903d91":[7,0,626,7],
@@ -82,8 +83,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html":[7,0,3188],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[7,0,3188,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3188,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2020],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d79/classOPvPCapturePoint.html#a53df9b5e7d63e012afc8b124e3823a46":[7,0,2372,29],
 "d6/d79/classOPvPCapturePoint.html#a5f3c23c3ccfaeb376d6c4efe77ce72b6":[7,0,2372,32],
 "d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6":[7,0,2372,16],
-"d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3":[7,0,2372,11],
-"d6/d79/classOPvPCapturePoint.html#a7c9283a6f080f7164d9506510e95e383":[7,0,2372,13]
+"d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3":[7,0,2372,11]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX241 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html":[8,0,0,0,1,3,5,6,7],
+"d8/ddf/boss__professor__putricide_8cpp.html#a05b40acf29184b7f4ea5986d2fd4d750":[8,0,0,0,1,3,5,6,7,39],
 "d8/ddf/boss__professor__putricide_8cpp.html#a45a304b8dfba9d442913fc1a33c1b239":[8,0,0,0,1,3,5,6,7,32],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,6,7,34],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea83153fb4fea4c966c7ab9403e3084b89":[8,0,0,0,1,3,5,6,7,34,3],
@@ -224,20 +226,20 @@ var NAVTREEINDEX241 =
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[7,0,852,12],
 "d8/de1/structTrainer_1_1Spell.html":[7,0,10,0],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[7,0,10,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[7,0,10,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[7,0,10,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[7,0,10,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[7,0,10,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[7,0,10,0,6],
-"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[7,0,10,0,1],
+"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
 "d8/de1/structnpc__zealot__zath.html":[7,0,2345],
 "d8/de1/structnpc__zealot__zath.html#a146679c4eb3eec444ff1dcd9a780110a":[7,0,2345,5],
 "d8/de1/structnpc__zealot__zath.html#a25e059f40de51d880f4ec209ff4dd924":[7,0,2345,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d8/de1/structnpc__zealot__zath.html#abc4e40afd644f2c89444f3fe475817c0":[7,0,2345,3],
 "d8/de1/structnpc__zealot__zath.html#ae56e2e89a6ba623200e9ee36977cee13":[7,0,2345,1],
 "d8/de2/classspell__hodir__storm__power__aura.html":[7,0,3248],
-"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[7,0,3248,1],
-"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[7,0,3248,3],
-"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[7,0,3248,2]
+"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[7,0,3248,1]
 };

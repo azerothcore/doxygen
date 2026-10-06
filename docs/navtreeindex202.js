@@ -1,5 +1,7 @@
 var NAVTREEINDEX202 =
 {
+"d7/d46/classAuraEffect.html#a2578a0c8a91021e22ae67f2c0ff35331":[7,0,295,128],
+"d7/d46/classAuraEffect.html#a25ce25c5ff12969bd62d0547c48b5753":[7,0,295,239],
 "d7/d46/classAuraEffect.html#a26498e695742b5689c35f806af38ae8a":[7,0,295,133],
 "d7/d46/classAuraEffect.html#a26906e499e64074d01966137f9608093":[7,0,295,65],
 "d7/d46/classAuraEffect.html#a280de8cb7a520bb9b216b9735a2dca32":[7,0,295,82],
@@ -247,7 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d48/structTradeStatusInfo.html#ae0dff14036e00d3c62c181fcc306faf2":[7,0,4603,0],
 "d7/d48/structTradeStatusInfo.html#afc3926b9ff7dda3eb3505b225b74409d":[7,0,4603,6],
 "d7/d48/structboss__vexallus.html":[7,0,783],
-"d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354":[7,0,783,7],
-"d7/d48/structboss__vexallus.html#a48d44cc3ed6f0e7f97f76cd325e5c48e":[7,0,783,4],
-"d7/d48/structboss__vexallus.html#a4afa4a245b8863c7b0898773932642c8":[7,0,783,8]
+"d7/d48/structboss__vexallus.html#a395d2186d70d1b7e29dbada7750da354":[7,0,783,7]
 };

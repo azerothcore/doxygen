@@ -1,5 +1,7 @@
 var NAVTREEINDEX301 =
 {
+"db/d82/classspell__azjol__nerub__web__wrap__aura.html#a985ad6d7eca06fbaf869e591136f46a3":[7,0,2703,2],
+"db/d82/classspell__azjol__nerub__web__wrap__aura.html#aa794b76c4d9590b867dda57f02724d95":[7,0,2703,3],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#afb0821bc8774e634eefdd87efe6af945":[7,0,2703,0],
 "db/d82/classspell__the__lich__king__jump.html":[7,0,4253],
 "db/d82/classspell__the__lich__king__jump.html#a8f371bdbc57624c295efb14e2ca067c5":[7,0,4253,3],
@@ -203,10 +205,10 @@ var NAVTREEINDEX301 =
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[8,0,0,0,1,3,5,10,0,4,5,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[7,0,13,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[7,0,13,13,1,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[7,0,3405],
@@ -247,7 +249,5 @@ var NAVTREEINDEX301 =
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae07e97eab7a0988f48eb90a885614bd8":[8,0,0,0,2,2,0,10,11,10],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae0fa2330d62d1c6d679f605e63d8c16a":[8,0,0,0,2,2,0,10,11,12],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae2e24eac7b8f98972d3e33d72f3ec17e":[8,0,0,0,2,2,0,10,11,14],
-"db/d8a/SpellProcAttributeTest_8cpp.html#af7a64ad127268bfe6ef0eef8df94161c":[8,0,0,0,2,2,0,10,11,23],
-"db/d8a/structScourgeInvasionData_1_1InvasionZone.html":[7,0,2578,1],
-"db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a2245c14e379c83bdd47165e829de2e41":[7,0,2578,1,2]
+"db/d8a/SpellProcAttributeTest_8cpp.html#af7a64ad127268bfe6ef0eef8df94161c":[8,0,0,0,2,2,0,10,11,23]
 };

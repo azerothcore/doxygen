@@ -1,5 +1,7 @@
 var NAVTREEINDEX257 =
 {
+"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8ee4fb727ae7ac83c0abb0119cdeb13a":[8,0,0,0,1,3,7,5,1,2,2,1],
+"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad4447121ea40fcda107087a2cf7861b7":[8,0,0,0,1,3,7,5,1,2,2,3],
 "d9/da0/boss__laj_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,1,2,3],
 "d9/da0/boss__laj_8cpp.html#a5bd342133be8c2137b831460acc9298ca052354c90d7fedb58f111dea2d5f40b7":[8,0,0,0,1,3,7,5,1,2,3,9],
 "d9/da0/boss__laj_8cpp.html#a5bd342133be8c2137b831460acc9298ca0d5000b5a3daf414f2d05a4baec78f56":[8,0,0,0,1,3,7,5,1,2,3,11],
@@ -85,8 +87,8 @@ var NAVTREEINDEX257 =
 "d9/da6/classspell__q12589__shoot__rjr.html#abe856e2c3b986eeac0c1a62aa301eb6d":[7,0,3962,1],
 "d9/da7/Creature_8cpp.html":[8,0,0,0,1,2,16,1,0],
 "d9/da7/Creature_8cpp.html#adba829875dd489aa94fdbe9ebcfe7e84":[8,0,0,0,1,2,16,1,0,0],
-"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html":[5,0,0,27],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html":[7,0,0,15],
+"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html":[5,0,0,27],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[5,0,0,27,4],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[7,0,0,15,4],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#aa76b1a6c8a919c1e5b37c74b33859464":[7,0,0,15,2],
@@ -95,8 +97,8 @@ var NAVTREEINDEX257 =
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ac2bae147199d0b1b592a560017128c4e":[5,0,0,27,3],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ad64e96c8484be1354ad4a3c0b6754d95":[7,0,0,15,0],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ad64e96c8484be1354ad4a3c0b6754d95":[5,0,0,27,0],
-"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#afc81f329be9d6d8eb8bfd2ade94c5665":[5,0,0,27,1],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#afc81f329be9d6d8eb8bfd2ade94c5665":[7,0,0,15,1],
+"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#afc81f329be9d6d8eb8bfd2ade94c5665":[5,0,0,27,1],
 "d9/da7/classBurningPitchFilterCheck.html":[7,0,843],
 "d9/da7/classBurningPitchFilterCheck.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf":[7,0,843,0],
 "d9/da7/classBurningPitchFilterCheck.html#a24be987c8471d8a7096025debf6e60b1":[7,0,843,1],
@@ -185,14 +187,14 @@ var NAVTREEINDEX257 =
 "d9/dac/ScriptedCreature_8h.html#acaba34b4ac104e5289c265c1f8524b15":[8,0,0,0,1,2,3,1,1,10],
 "d9/dac/ScriptedCreature_8h.html#acc68161fe019b33e9356ea1473fba71d":[8,0,0,0,1,2,3,1,1,7],
 "d9/dac/ScriptedCreature_8h.html#ae9abb80c4e811509bca88e65cf817276":[8,0,0,0,1,2,3,1,1,13],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,0,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html":[7,0,0,0,1],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html":[5,0,0,0,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[5,0,0,0,2,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#a08ed9183a6338606524c44f0fd5695a0":[7,0,0,0,1,2],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[7,0,0,0,1,1],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c":[5,0,0,0,2,1],
-"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[7,0,0,0,1,0],
 "d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[5,0,0,0,2,0],
+"d9/dac/classAcore_1_1Asio_1_1Resolver.html#ad1a3a95744d64df722a6fb4b267316e6":[7,0,0,0,1,0],
 "d9/dac/classnpc__nether__drake.html":[7,0,2042],
 "d9/dac/classnpc__nether__drake.html#a253ec3c91857b899ea9e2c824870b760":[7,0,2042,1],
 "d9/dac/classnpc__nether__drake.html#a58d269e2c73cae07bb507162b742fe8f":[7,0,2042,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX257 =
 "d9/db0/structnpc__gunship__boarding__add_1_1npc__gunship__boarding__add__realAI.html#a33ac355c8f61907574a0736a24cbee82":[7,0,1878,0,1],
 "d9/db0/structnpc__gunship__boarding__add_1_1npc__gunship__boarding__add__realAI.html#a829c3690ab0d5ad3f0a888cb6701692a":[7,0,1878,0,0],
 "d9/db0/structnpc__gunship__boarding__add_1_1npc__gunship__boarding__add__realAI.html#acaea46d9523fa9fe59415b0b0834a2ba":[7,0,1878,0,2],
-"d9/db1/classat__hor__battered__hilt__throw.html":[7,0,229],
-"d9/db1/classat__hor__battered__hilt__throw.html#a30c72b4dc7e48fc87374cbfc2cdf0f50":[7,0,229,1],
-"d9/db1/classat__hor__battered__hilt__throw.html#a857812bd67ee2e62c5e450fae591cd9d":[7,0,229,0]
+"d9/db1/classat__hor__battered__hilt__throw.html":[7,0,229]
 };

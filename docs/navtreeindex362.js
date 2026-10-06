@@ -1,5 +1,16 @@
 var NAVTREEINDEX362 =
 {
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2738,0],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[7,0,2738,2],
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[7,0,2738,1],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html":[7,0,3639],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[7,0,3639,1],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[7,0,3639,2],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[7,0,3639,0],
+"dd/dd3/zone__netherstorm_8cpp.html":[8,0,0,0,1,3,7,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[8,0,0,0,1,3,7,12,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[8,0,0,0,1,3,7,12,12,0],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[8,0,0,0,1,3,7,12,12,3],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f":[8,0,0,0,1,3,7,12,12,4],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e":[8,0,0,0,1,3,7,12,12,1],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a7ff88b44b35f30f4f524eed2587fd081":[8,0,0,0,1,3,7,12,12,7],
@@ -238,16 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dd6/classcharacter__commandscript.html#a7aede9ca1ea5ce2f231f38054604c276":[7,0,873,11],
 "dd/dd6/classcharacter__commandscript.html#a7f6eb67fff48f6a4596cc1f511dead55":[7,0,873,10],
 "dd/dd6/classcharacter__commandscript.html#a8658d515f4a760f41019cb59b6278ac0":[7,0,873,12],
-"dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361":[7,0,873,7],
-"dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45":[7,0,873,28],
-"dd/dd6/classcharacter__commandscript.html#aacb45e7e90071908d2029ed2a11bef35":[7,0,873,23],
-"dd/dd6/classcharacter__commandscript.html#acd6b14efed2366e2a202ba17be781801":[7,0,873,2],
-"dd/dd6/classcharacter__commandscript.html#acf117a67ef10b7894190ff2c0cd881fd":[7,0,873,14],
-"dd/dd6/classcharacter__commandscript.html#acff2e413b4e7c2a0ac5310e2887b7cd7":[7,0,873,27],
-"dd/dd6/classcharacter__commandscript.html#ae7f4e09d8529a78cbd50dac49c3ffc2d":[7,0,873,22],
-"dd/dd6/classcharacter__commandscript.html#ae882a00d8679c0e0d8b4fe889b326f51":[7,0,873,18],
-"dd/dd6/classcharacter__commandscript.html#aea7016450c371ef4e3305b9e7e1c0639":[7,0,873,8],
-"dd/dd6/classcharacter__commandscript.html#aec5804fe5d1be47c0b4102e4333bab60":[7,0,873,6],
-"dd/dd6/classcharacter__commandscript.html#af60a32bae9f99f48eb8665966ea42fd7":[7,0,873,16],
-"dd/dd6/classcharacter__commandscript.html#afea1b495e99ebd5b9b1481caf700aa42":[7,0,873,1]
+"dd/dd6/classcharacter__commandscript.html#a8831df63b990e991cb03c0964c227361":[7,0,873,7]
 };

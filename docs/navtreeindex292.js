@@ -1,5 +1,7 @@
 var NAVTREEINDEX292 =
 {
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2":[8,0,0,0,1,3,9,6,54],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a01760921e1ce9717bb061e5840bf14d6":[8,0,0,0,1,3,9,6,54,25],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a1f2acc4593cd362743d28f0062c8556f":[8,0,0,0,1,3,9,6,54,26],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a25417ede9d3b9e24c3545b86c4f10a1d":[8,0,0,0,1,3,9,6,54,12],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a29938e5075a82e72dd33c868a4699d33":[8,0,0,0,1,3,9,6,54,16],
@@ -241,13 +243,11 @@ var NAVTREEINDEX292 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,7,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,7,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,7,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1941,0],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1941,0,1],
-"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1941,0,9]
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
+"db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1941,0]
 };

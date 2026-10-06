@@ -1,5 +1,6 @@
 var NAVTREEINDEX164 =
 {
+"d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abf206623be238032a87d20d1974e91e2":[8,0,0,0,1,3,5,2,0,0,15,4],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83acec0c01eb230f3b0d4f37b4586b2340e":[8,0,0,0,1,3,5,2,0,0,15,2],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83ad5d5147284d1b64818da9ddedeebd622":[8,0,0,0,1,3,5,2,0,0,15,6],
 "d5/dbb/boss__argent__challenge_8cpp.html#a656edbcbfd88e5e4a0a6ba5092ad70b9":[8,0,0,0,1,3,5,2,0,0,13],
@@ -87,14 +88,14 @@ var NAVTREEINDEX164 =
 "d5/dbf/classspell__dk__threat__of__thassarian.html#af37fd1db3dc6cbbe985734853ea59109":[7,0,2875,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,0,107],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[7,0,0,95],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,0,107,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[7,0,0,95,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,0,107,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,0,107,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[7,0,0,95,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,0,107,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,0,107,1],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,107,4],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[7,0,0,95,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[7,0,0,95,4],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,0,107,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,0,107,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[7,0,0,95,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,0,107,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX164 =
 "d5/dc7/structSpellEntry.html#a571b45c241961a3a0006b21d1f1ca29b":[7,0,4485,32],
 "d5/dc7/structSpellEntry.html#a593be50e34ea423f15a28f71a48a1e54":[7,0,4485,27],
 "d5/dc7/structSpellEntry.html#a5d389c378263cdd630baaee4ff27f0f7":[7,0,4485,77],
-"d5/dc7/structSpellEntry.html#a5dc75f632a583e7d59c9fd780d939246":[7,0,4485,49],
-"d5/dc7/structSpellEntry.html#a6092f385a545aa33ba1e5ee28d21e92a":[7,0,4485,48]
+"d5/dc7/structSpellEntry.html#a5dc75f632a583e7d59c9fd780d939246":[7,0,4485,49]
 };

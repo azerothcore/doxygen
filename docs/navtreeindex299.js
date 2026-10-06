@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84c":[8,0,0,0,1,3,9,4,184],
+"db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81":[8,0,0,0,1,3,9,4,184,2],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca49a9dce1c783668fc725a6605ef996c6":[8,0,0,0,1,3,9,4,184,1],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cab7462dcb6cb7aa653f707d2843adf8c2":[8,0,0,0,1,3,9,4,184,3],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cae36708354003119bcf98bf0266dadb32":[8,0,0,0,1,3,9,4,184,0],
@@ -174,8 +176,8 @@ var NAVTREEINDEX299 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2578,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX299 =
 "db/d77/structnpc__love__in__air__snivel.html#a2385ea44d9f44735b193add4a0d0485b":[7,0,1996,3],
 "db/d77/structnpc__love__in__air__snivel.html#a548db6245ef875ec47279246e437934c":[7,0,1996,5],
 "db/d77/structnpc__love__in__air__snivel.html#a9e712994663e3442359d2f574ebc812c":[7,0,1996,4],
-"db/d77/structnpc__love__in__air__snivel.html#ab04596fb96292f54cf2a10f662dc94a3":[7,0,1996,0],
-"db/d77/structnpc__love__in__air__snivel.html#ae6537707109b95fad20e521d07867cdd":[7,0,1996,2],
-"db/d77/structnpc__love__in__air__snivel.html#af1097317f62bbb8f8456124001c73576":[7,0,1996,1]
+"db/d77/structnpc__love__in__air__snivel.html#ab04596fb96292f54cf2a10f662dc94a3":[7,0,1996,0]
 };

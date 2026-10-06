@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226a":[8,0,0,0,1,3,2,1,1,5,1],
 "d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa501bb05d0c7a016be1a399e0361f8e47":[8,0,0,0,1,3,2,1,1,5,1,0],
 "d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa82f20b32e61c68efeea2b7df8747f3ae":[8,0,0,0,1,3,2,1,1,5,1,1],
 "d6/d54/boss__lord__valthalak_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,1,5,4],
@@ -123,14 +124,14 @@ var NAVTREEINDEX182 =
 "d6/d5b/classspell__renew__skirmisher.html#ab0b03fd2d1a0ed6720acc45221a582f6":[7,0,4036,2],
 "d6/d5b/classspell__renew__skirmisher.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32":[7,0,4036,0],
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[7,0,4036,1],
-"d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
+"d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4],
-"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[7,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,0,19,0],
+"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[7,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,0,19,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[7,0,0,7,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,0,19,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d60/structnpc__ulduar__hodir__mage.html#aa486b501aefeb70beb325feece5ec34c":[7,0,2279,1],
 "d6/d60/structnpc__ulduar__hodir__mage.html#aab476b5a585b30d429bdcae64a18424c":[7,0,2279,6],
 "d6/d60/structnpc__ulduar__hodir__mage.html#abe5801b4b042dbc363dacbb3290b43e1":[7,0,2279,3],
-"d6/d60/structnpc__ulduar__hodir__mage.html#add40de5492e4ec9bd19260669b4bbb22":[7,0,2279,7],
-"d6/d60/structnpc__ulduar__hodir__mage.html#ae9aa4904f3deaa6cae56853f8541eb40":[7,0,2279,9]
+"d6/d60/structnpc__ulduar__hodir__mage.html#add40de5492e4ec9bd19260669b4bbb22":[7,0,2279,7]
 };

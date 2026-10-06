@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/db3/classMySQLConnection.html#a5b774adbbd056adf560f9b7cfcf2393a":[7,0,1592,28],
 "d5/db3/classMySQLConnection.html#a5d82989a517e562adb833004fd56ff2a":[7,0,1592,40],
 "d5/db3/classMySQLConnection.html#a5d89109a06fa4fca3057b99bbfa84e58":[7,0,1592,30],
 "d5/db3/classMySQLConnection.html#a690c6afae2cfa2938700a32fdce91d7d":[7,0,1592,23],
@@ -113,10 +114,10 @@ var NAVTREEINDEX163 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[7,0,4706,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[7,0,4706,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4706,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a51388187d9d7b59809e1084910605533":[8,0,0,0,1,3,5,2,0,0,15,7],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a5fbe6a0ce0fcfd5c199339d14efff82a":[8,0,0,0,1,3,5,2,0,0,15,1],
 "d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a7aed2ea3a5bc3e928fb749b00d1166b2":[8,0,0,0,1,3,5,2,0,0,15,0],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abc43794a74613c12bfbcabe82f6ff310":[8,0,0,0,1,3,5,2,0,0,15,5],
-"d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abf206623be238032a87d20d1974e91e2":[8,0,0,0,1,3,5,2,0,0,15,4]
+"d5/dbb/boss__argent__challenge_8cpp.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abc43794a74613c12bfbcabe82f6ff310":[8,0,0,0,1,3,5,2,0,0,15,5]
 };

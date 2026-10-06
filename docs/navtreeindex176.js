@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d26/classBattlefield.html#a61dd4ce9efc5797b56749746a52afc21":[7,0,326,79],
 "d6/d26/classBattlefield.html#a6250ea675ea4b39303159f0f4e5428df":[7,0,326,95],
 "d6/d26/classBattlefield.html#a62640a78e1885a6f99e95155d5dc74e9":[7,0,326,51],
 "d6/d26/classBattlefield.html#a6a36a765ec80193285bfff7ebd390a83":[7,0,326,66],
@@ -201,12 +202,12 @@ var NAVTREEINDEX176 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[7,0,3036,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[7,0,3036,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[7,0,3036,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[7,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,34,12,0],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[7,0,13,12,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[7,0,13,12,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,34,12,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[7,0,13,12,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,34,12,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,34,12,0,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[7,0,13,12,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[7,0,2480,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a1dc1a47ecf057b4d08e9827c5a859213":[7,0,1352,0,11],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a2048cde72727c5d6b493d67b56ed91f8":[7,0,1352,0,4],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a28b8c1e3332dd9ccce42fd3fcb262e2f":[7,0,1352,0,3],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a3cd0132363583f8ab24f37e74743abd8":[7,0,1352,0,12],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a419ef8bcf249e7aac9c8ea11611fb0c1":[7,0,1352,0,17]
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a3cd0132363583f8ab24f37e74743abd8":[7,0,1352,0,12]
 };

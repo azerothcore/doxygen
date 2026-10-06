@@ -1,5 +1,16 @@
 var NAVTREEINDEX361 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[8,0,0,0,1,2,38,0,77,1,96],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadd48e0b0bf28a62bf7c1e4212ba5577":[8,0,0,0,1,2,38,0,77,1,66],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadec086d3fcbab101abaf7b06e0f5a32":[8,0,0,0,1,2,38,0,77,1,101],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[8,0,0,0,1,2,38,0,77,1,146],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab07d4ed0b727b51e4af832dcf4dc0cda":[8,0,0,0,1,2,38,0,77,1,173],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b267cfb187ffea89dffee955e067bd":[8,0,0,0,1,2,38,0,77,1,194],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2":[8,0,0,0,1,2,38,0,77,1,69],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684":[8,0,0,0,1,2,38,0,77,1,42],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4bf1cfaeec7a2b9f9aa56f6d372b507":[8,0,0,0,1,2,38,0,77,1,12],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab538dcce965c1bd3ccc225865220111c":[8,0,0,0,1,2,38,0,77,1,8],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab623a201402aebde784e83fbbaf21753":[8,0,0,0,1,2,38,0,77,1,115],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614":[8,0,0,0,1,2,38,0,77,1,13],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abb27f4633fb115258b7c9e209de437d3":[8,0,0,0,1,2,38,0,77,1,108],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c":[8,0,0,0,1,2,38,0,77,1,24],
@@ -238,16 +249,5 @@ var NAVTREEINDEX361 =
 "dd/dd2/classspell__azgalor__doom.html#a164b8b946dc801db878603488c978adb":[7,0,2696,2],
 "dd/dd2/classspell__azgalor__doom.html#a54fb8b4b7abd1c92d7d98f3b911a7cec":[7,0,2696,1],
 "dd/dd2/classspell__azgalor__doom.html#ab4e32c78307df1d0ea7e0a71ace11734":[7,0,2696,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2738],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[7,0,2738,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[7,0,2738,2],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[7,0,2738,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[7,0,3639],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[7,0,3639,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[7,0,3639,2],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[7,0,3639,0],
-"dd/dd3/zone__netherstorm_8cpp.html":[8,0,0,0,1,3,7,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[8,0,0,0,1,3,7,12,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[8,0,0,0,1,3,7,12,12,0],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[8,0,0,0,1,3,7,12,12,3]
+"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[7,0,2738]
 };

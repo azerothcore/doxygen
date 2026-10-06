@@ -1,5 +1,7 @@
 var NAVTREEINDEX255 =
 {
+"d9/d86/namespaceAuthHelper.html#ac023f15b280fc65fdefefb77f2f7be7b":[5,0,6,3],
+"d9/d86/namespaceAuthHelper.html#ad4f22daf9d88367d90d92416f470a28c":[5,0,6,1],
 "d9/d86/structnpc__anub__ar__crusher.html":[7,0,1649],
 "d9/d86/structnpc__anub__ar__crusher.html#a0520d606e8f8fa6f2c1262e025ea2c1c":[7,0,1649,0],
 "d9/d86/structnpc__anub__ar__crusher.html#a0e3c9d35a654e82d5f845b820de2a9a1":[7,0,1649,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX255 =
 "d9/d92/Metric_8h.html#a22dcbf78f0d280a4b2b4e0662034efe9":[8,0,0,0,0,10,1,6],
 "d9/d92/Metric_8h.html#a281633f6f8b252d96029ce8fd29da746":[8,0,0,0,0,10,1,5],
 "d9/d92/Metric_8h.html#a4e89926204845a9c9e315d6f0abec5ef":[8,0,0,0,0,10,1,13],
-"d9/d92/Metric_8h.html#a8fdc9a93c03faef11e4c36679e79e3f1":[8,0,0,0,0,10,1,14],
-"d9/d92/Metric_8h.html#a92aedc832ddfc479ecc61289f12be449":[8,0,0,0,0,10,1,12],
-"d9/d92/Metric_8h.html#aa861206b38b55c4f39f1ed649defb338":[8,0,0,0,0,10,1,7]
+"d9/d92/Metric_8h.html#a8fdc9a93c03faef11e4c36679e79e3f1":[8,0,0,0,0,10,1,14]
 };

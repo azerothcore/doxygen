@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"dc/d07/classspell__skadi__reset__check.html#aaf8528038c6b3172d4810ed773f71644":[7,0,4187,0],
+"dc/d07/classspell__skadi__reset__check.html#ac5fa1dd078656f7ae182ec18eddacfe3":[7,0,4187,1],
 "dc/d07/classspell__skadi__reset__check.html#acfd8832cb9a197dddb034a003b318911":[7,0,4187,4],
 "dc/d07/classspell__skadi__reset__check.html#adce6a5d920ac616dc0579fcd96c49288":[7,0,4187,3],
 "dc/d07/halls__of__reflection_8cpp.html":[8,0,0,0,1,3,5,4,1,2],
@@ -239,15 +241,13 @@ var NAVTREEINDEX320 =
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ac0a898f8938ea9b3721cc7440fac2da0":[7,0,1858,0,10],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083":[7,0,1858,0,3],
 "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0":[7,0,1858,0,8],
-"dc/d0b/classTrainer_1_1Trainer.html":[7,0,10,1],
 "dc/d0b/classTrainer_1_1Trainer.html":[5,0,30,1],
+"dc/d0b/classTrainer_1_1Trainer.html":[7,0,10,1],
 "dc/d0b/classTrainer_1_1Trainer.html#a13d0f21d8623533f671acf50eb19bbec":[5,0,30,1,18],
 "dc/d0b/classTrainer_1_1Trainer.html#a13d0f21d8623533f671acf50eb19bbec":[7,0,10,1,18],
-"dc/d0b/classTrainer_1_1Trainer.html#a2c464489ffdd56e379500a7372917e56":[7,0,10,1,3],
 "dc/d0b/classTrainer_1_1Trainer.html#a2c464489ffdd56e379500a7372917e56":[5,0,30,1,3],
+"dc/d0b/classTrainer_1_1Trainer.html#a2c464489ffdd56e379500a7372917e56":[7,0,10,1,3],
 "dc/d0b/classTrainer_1_1Trainer.html#a2f09c1fb84497b1c1fa2f598dbb1b4cb":[7,0,10,1,10],
 "dc/d0b/classTrainer_1_1Trainer.html#a2f09c1fb84497b1c1fa2f598dbb1b4cb":[5,0,30,1,10],
-"dc/d0b/classTrainer_1_1Trainer.html#a500cc19073a49d772d4cb0645415aedc":[7,0,10,1,5],
-"dc/d0b/classTrainer_1_1Trainer.html#a500cc19073a49d772d4cb0645415aedc":[5,0,30,1,5],
-"dc/d0b/classTrainer_1_1Trainer.html#a5530f841bdf7e7135bc56b686b555815":[5,0,30,1,2]
+"dc/d0b/classTrainer_1_1Trainer.html#a500cc19073a49d772d4cb0645415aedc":[5,0,30,1,5]
 };

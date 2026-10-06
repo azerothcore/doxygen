@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"d7/d19/structnpc__future__you_1_1npc__future__youAI.html#a01a8cd8f94dd614de2ffefdb19cd9f29":[7,0,1857,0,3],
 "d7/d19/structnpc__future__you_1_1npc__future__youAI.html#a0b15c8af6075e323e56b2170ce4eefc0":[7,0,1857,0,1],
 "d7/d19/structnpc__future__you_1_1npc__future__youAI.html#a35b67f9e948f5ffbde8a423190ece603":[7,0,1857,0,2],
 "d7/d19/structnpc__future__you_1_1npc__future__youAI.html#a7608c050dd198e3133050e222b42f62b":[7,0,1857,0,0],
@@ -61,10 +62,10 @@ var NAVTREEINDEX198 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[7,0,2320,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d24/classField.html#a07d85b2984a3621a77dd07a6c6822e2b":[7,0,1077,16],
 "d7/d24/classField.html#a1195f5f3d6278a7609a56661d128cb05":[7,0,1077,27],
 "d7/d24/classField.html#a23a7fb387edbaa0589f8cf0d7c6ba099":[7,0,1077,8],
-"d7/d24/classField.html#a2bea76920c1b5c5122913feaa14d7e93":[7,0,1077,9],
-"d7/d24/classField.html#a2d858b57db608163c4a9b53d3f5862ef":[7,0,1077,10]
+"d7/d24/classField.html#a2bea76920c1b5c5122913feaa14d7e93":[7,0,1077,9]
 };

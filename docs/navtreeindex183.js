@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/d60/structnpc__ulduar__hodir__mage.html#ae9aa4904f3deaa6cae56853f8541eb40":[7,0,2279,9],
 "d6/d60/structnpc__ulduar__hodir__mage.html#af35bcc1ee03dd8128ff0fe7329eb980d":[7,0,2279,8],
 "d6/d60/structnpc__ulduar__hodir__mage.html#afe11d15da8769f50db470460cf759c2d":[7,0,2279,2],
 "d6/d61/classnpc__maghar__captive.html":[7,0,2002],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d6e/structRepRewardRate.html#a2b050d4cf6555e824d59a3ffc0558b21":[7,0,2554,4],
 "d6/d6e/structRepRewardRate.html#a508485f1e6833c58a11706667a2c24fd":[7,0,2554,6],
 "d6/d6e/structRepRewardRate.html#a914118aa28b3736ff4e6c5b61d738834":[7,0,2554,3],
-"d6/d6e/structRepRewardRate.html#aa9c27c19179b8a7bdfdc11d906cd1c06":[7,0,2554,0],
-"d6/d6e/structboss__malchezaar.html":[7,0,626]
+"d6/d6e/structRepRewardRate.html#aa9c27c19179b8a7bdfdc11d906cd1c06":[7,0,2554,0]
 };

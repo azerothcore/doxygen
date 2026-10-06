@@ -1,9 +1,18 @@
 var structnpc__phalanx =
 [
     [ "npc_phalanx", "de/d1d/structnpc__phalanx.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Activate", "de/d1d/structnpc__phalanx.html#a4ee89eef74f0e14b9e0416e59dc0c77b", null ],
+    [ "DoAction", "de/d1d/structnpc__phalanx.html#a2a1a7cfa3cacc589eb5738a930cc2b18", null ],
+    [ "EnterEvadeMode", "de/d1d/structnpc__phalanx.html#a372daade038903dc7915302ecedd77d6", null ],
+    [ "JustEngagedWith", "de/d1d/structnpc__phalanx.html#a57ff3c0bd29748287e8ace59835135fc", null ],
+    [ "PathEndReached", "de/d1d/structnpc__phalanx.html#a99b0df516b542e061fe267076bb76bd5", null ],
     [ "Reset", "de/d1d/structnpc__phalanx.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "SetDoorHome", "de/d1d/structnpc__phalanx.html#a7186a211771fe3d00bb4effcbd747ef6", null ],
+    [ "StartActivation", "de/d1d/structnpc__phalanx.html#a6302d71959beaa195684d3a64ffabefd", null ],
     [ "UpdateAI", "de/d1d/structnpc__phalanx.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
-    [ "_fireballVolleyTimer", "de/d1d/structnpc__phalanx.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
-    [ "_mightyBlowTimer", "de/d1d/structnpc__phalanx.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
-    [ "_thunderClapTimer", "de/d1d/structnpc__phalanx.html#a3b0c33207bf5090abeb9860585c222b4", null ]
+    [ "_combatEvents", "de/d1d/structnpc__phalanx.html#a2b2d00c25d151343c37d8f6f94c04ba9", null ],
+    [ "_instance", "de/d1d/structnpc__phalanx.html#a2ff0b9735de4b974f4a4e93229749b4a", null ],
+    [ "_stagingEvents", "de/d1d/structnpc__phalanx.html#a4cf720f877635af20dc95bab41073df1", null ],
+    [ "_state", "de/d1d/structnpc__phalanx.html#aa3a5ed7d2b000b0c0e3eafeeb013ee6b", null ],
+    [ "_volleyStarted", "de/d1d/structnpc__phalanx.html#a2385f4fff9495e0b80d4f522de049632", null ]
 ];

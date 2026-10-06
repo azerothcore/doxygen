@@ -1,5 +1,7 @@
 var NAVTREEINDEX239 =
 {
+"d8/dc8/structnpc__ulduar__hodir__priest.html#a73f077b4436e06a13e59944cebd5cca0":[7,0,2280,3],
+"d8/dc8/structnpc__ulduar__hodir__priest.html#a803e3f35c784716170f9fa8c4484b66c":[7,0,2280,11],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#a8545bd2492bd32d333e8d144b3d548a5":[7,0,2280,2],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#a9d3f3e950b0f9c9a7b85ba3835000a80":[7,0,2280,4],
 "d8/dc8/structnpc__ulduar__hodir__priest.html#abc0c766a88dd64e8f5bbcc2afd883552":[7,0,2280,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX239 =
 "d8/dd6/DBCfmt_8h.html#abc33ebb99c27a6f2815aa61d209c87ed":[8,0,0,0,1,4,0,3,22],
 "d8/dd6/DBCfmt_8h.html#abd8f1cd0e0a32dddac788f89b2f0d558":[8,0,0,0,1,4,0,3,12],
 "d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[8,0,0,0,1,4,0,3,95],
-"d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[8,0,0,0,1,4,0,3,107],
-"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[8,0,0,0,1,4,0,3,25],
-"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[8,0,0,0,1,4,0,3,72]
+"d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[8,0,0,0,1,4,0,3,107]
 };

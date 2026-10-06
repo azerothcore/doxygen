@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea99853a6bfdd5d5c40e3ce52403c3994d":[8,0,0,0,1,3,5,2,1,7,11,4],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eab44797b108156e3bfad250d0982e14a9":[8,0,0,0,1,3,5,2,1,7,11,5],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eafc624fe2f47ed00845c38edad5d9b2b2":[8,0,0,0,1,3,5,2,1,7,11,3],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,2,1,7,6],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a00aae7160a2b93d74d933cf18651c9bc":[8,0,0,0,1,3,5,2,1,7,6,38],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "da/df1/classMetric.html#ae53d7439e7b057177d9a1034e957d097":[7,0,1551,10],
 "da/df1/classMetric.html#ae8672bad01631983ee33c967d20426e8":[7,0,1551,41],
 "da/df1/classMetric.html#aedac5a2cafadfd12328cb2c6ae8e3d3c":[7,0,1551,38],
-"da/df1/classMetric.html#aff2c5e8ffb475ad21f0aa65628ff570c":[7,0,1551,24],
-"da/df1/classgo__direbrew__mole__machine.html":[7,0,1175],
-"da/df1/classgo__direbrew__mole__machine.html#a759d291a5be227d8beae3bbc779e56f4":[7,0,1175,1]
+"da/df1/classMetric.html#aff2c5e8ffb475ad21f0aa65628ff570c":[7,0,1551,24]
 };

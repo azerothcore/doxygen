@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/d7e/classspell__gen__mirrored__soul.html#a993331721d98f6d0b4c225a9c32708bd":[7,0,3110,0],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html":[7,0,2180,0],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a0d36e4903448c5a03115df0dff3480c8":[7,0,2180,0,13],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a2ecc5e8289252b2936f36de9921294e0":[7,0,2180,0,0],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a50afc82c80cede8dcf3240a116463411":[7,0,2180,0,1],
@@ -207,10 +209,10 @@ var NAVTREEINDEX234 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4654,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,586,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[7,0,586,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d8d/structActiveBoatStruct.html#a06a0f8e5a7d63204d57992dc9623f83b":[7,0,131,8],
 "d8/d8d/structActiveBoatStruct.html#a3b6b89143c8a875cda01b000cea6a7c7":[7,0,131,5],
 "d8/d8d/structActiveBoatStruct.html#a4bdccc14156f7e5822c9a8eefc29adaa":[7,0,131,3],
-"d8/d8d/structActiveBoatStruct.html#a62cd7f778cea049a1a6a4c34d21545a7":[7,0,131,1],
-"d8/d8d/structActiveBoatStruct.html#a749e9c6edcc87f258f250344d652145c":[7,0,131,7],
-"d8/d8d/structActiveBoatStruct.html#a80b842f55108fec58fe04cf02e8e0b35":[7,0,131,2]
+"d8/d8d/structActiveBoatStruct.html#a62cd7f778cea049a1a6a4c34d21545a7":[7,0,131,1]
 };

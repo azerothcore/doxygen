@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"d5/d0f/classAuraScript.html#aaa931897d7190dbc2a1e780d9ea87a2b":[7,0,299,66],
 "d5/d0f/classAuraScript.html#aaec2f0ceeeab30bc149ee5313abf1110":[7,0,299,79],
 "d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d":[7,0,299,70],
 "d5/d0f/classAuraScript.html#ab8d29f3b759d2a05f502518feaed6398":[7,0,299,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d1b/classspell__hun__pet__carrion__feeder.html":[7,0,3283],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html#a3f36968d10bde12c7e2eda8db4145252":[7,0,3283,2],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html#a51b075f95211025b2a7719a3ee70a6be":[7,0,3283,5],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a736c4fe39e947ad98df19b3b001bdc29":[7,0,3283,4],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a913c0137d2a13c810bbae869cc6cf734":[7,0,3283,1]
+"d5/d1b/classspell__hun__pet__carrion__feeder.html#a736c4fe39e947ad98df19b3b001bdc29":[7,0,3283,4]
 };

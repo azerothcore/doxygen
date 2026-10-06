@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d4/d11/boss__magmus_8cpp.html":[8,0,0,0,1,3,2,1,0,11],
 "d4/d11/boss__magmus_8cpp.html#a4ffb747645af426e769ca4579007623b":[8,0,0,0,1,3,2,1,0,11,2],
 "d4/d11/boss__magmus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,11,1],
 "d4/d11/boss__magmus_8cpp.html#a5bd342133be8c2137b831460acc9298ca75f6938f3af3ceb603994b9410ce9db1":[8,0,0,0,1,3,2,1,0,11,1,0],
@@ -74,12 +75,12 @@ var NAVTREEINDEX124 =
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#a31271cd4668d3cbc4f4bdbeb693fe141":[7,0,4465,1],
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#a730e0c865f8c0c12544be951a48fe9ff":[7,0,4465,0],
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#ae388ee1b08891f021ab1308ec7ffebaa":[7,0,4465,2],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[5,0,34,3,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[7,0,13,3,0],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[5,0,34,3,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[5,0,34,3,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[7,0,13,3,0,0],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,34,3,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[7,0,13,3,0,3],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,34,3,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[5,0,34,3,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[7,0,13,3,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#afde854fc17313d214fa0f0cdc48ca9a9":[7,0,13,3,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cabd1895852650077f21685608b72e9763":[8,0,0,0,1,3,5,4,1,3,11,21],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cabe4b7739b99963de60458394d101bd52":[8,0,0,0,1,3,5,4,1,3,11,38],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cad10554243e59ed141bba21a32472e7d8":[8,0,0,0,1,3,5,4,1,3,11,2],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cad2985680bc364887dcdfd94b421b9631":[8,0,0,0,1,3,5,4,1,3,11,15],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cade3f75f775c0c1c10c97358a90afde74":[8,0,0,0,1,3,5,4,1,3,11,35]
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cad2985680bc364887dcdfd94b421b9631":[8,0,0,0,1,3,5,4,1,3,11,15]
 };

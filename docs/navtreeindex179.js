@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/d39/classWorld.html#a1aaf354de61c3bfe4de4d5133e6a3aeb":[4,2,12,41],
 "d6/d39/classWorld.html#a1c94ad9f439abf43ae374c6760519b52":[4,2,12,78],
 "d6/d39/classWorld.html#a1d20ca4bca7abc40e865e6013e55ac9d":[4,2,12,47],
 "d6/d39/classWorld.html#a1d47bde4ab7eb001e0e9d9187c5d9096":[4,2,12,82],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d41/structboss__ragnaros.html#ac8335bceae8047ac16162ad64960f628":[7,0,682,11],
 "d6/d41/structboss__ragnaros.html#acb284dada1043f61e24fa86b9a15a728":[7,0,682,8],
 "d6/d41/structboss__ragnaros.html#ad490312c1a9db13e3220b030ca62633c":[7,0,682,10],
-"d6/d41/structboss__ragnaros.html#af00099111c9f5a722e1a6a3fe0c9f052":[7,0,682,0],
-"d6/d41/structboss__ragnaros.html#af849c33822235c680660bc54385a4912":[7,0,682,7]
+"d6/d41/structboss__ragnaros.html#af00099111c9f5a722e1a6a3fe0c9f052":[7,0,682,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a22086823e5af9671db267149aea6b0a0a87b0d233fb2601603c4569048c222e0e":[8,0,0,0,1,3,7,5,2,2,22,0],
 "d4/d67/boss__kaelthas_8cpp.html#a22086823e5af9671db267149aea6b0a0aa041137b04deaf2cb531b513e8845b76":[8,0,0,0,1,3,7,5,2,2,22,3],
 "d4/d67/boss__kaelthas_8cpp.html#a22086823e5af9671db267149aea6b0a0ad247397715fdae5b11c919bd1d42caae":[8,0,0,0,1,3,7,5,2,2,22,2],
 "d4/d67/boss__kaelthas_8cpp.html#a35cd28ed37d86df5de15ba63c1bf2c80":[8,0,0,0,1,3,7,5,2,2,21],
@@ -129,8 +130,8 @@ var NAVTREEINDEX132 =
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[7,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a1ee55a572462a1e832a5b89c8906bd87":[7,0,2160,0,5],
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4":[7,0,2160,0,7],
 "d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#ab02edf780adb553b2314045d8effa277":[7,0,2160,0,4],
-"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#ac4bb0aa4009191a36dd4cebb45fd2ad5":[7,0,2160,0,2],
-"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#adde187b89a74a57aac823e4eb19bfeed":[7,0,2160,0,3]
+"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#ac4bb0aa4009191a36dd4cebb45fd2ad5":[7,0,2160,0,2]
 };

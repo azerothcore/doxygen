@@ -1,5 +1,7 @@
 var NAVTREEINDEX325 =
 {
+"dc/d32/classspell__razorscale__summon__iron__dwarves.html#aa2d5bae5c41f6975aecc4d951a565e81":[7,0,4027,3],
+"dc/d32/classspell__razorscale__summon__iron__dwarves.html#ab2cfe77248b3e0e3d04c203635f2f4fa":[7,0,4027,0],
 "dc/d32/classspell__razorscale__summon__iron__dwarves.html#af75bed8e253cb372f1bceb0ae1e54e1a":[7,0,4027,2],
 "dc/d33/Common_8h.html":[8,0,0,0,0,19],
 "dc/d33/Common_8h.html#a0552dd357fedab8892f8550548357a55":[8,0,0,0,0,19,26],
@@ -76,8 +78,8 @@ var NAVTREEINDEX325 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[8,0,0,0,0,19,22],
 "dc/d33/HomeMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,9],
 "dc/d33/TaskScheduler_8h.html":[8,0,0,0,0,15,34],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,0,36],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[7,0,0,24],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,0,36],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,0,36,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[7,0,0,24,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[7,0,0,24,3],
@@ -88,8 +90,8 @@ var NAVTREEINDEX325 =
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,0,36,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[7,0,0,24,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,0,36,2],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,0,36,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[7,0,0,24,1],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,0,36,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[7,0,0,24,6],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,0,36,6],
 "dc/d33/classspell__mistress__kiss__aura.html":[7,0,3710],
@@ -247,7 +249,5 @@ var NAVTREEINDEX325 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1d9d7a73e1318a21c074018de927a889":[5,0,28,6,82],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1e80b302dbcce25f5e633ae7c5e2dcc0":[5,0,28,6,456],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1ed180865941af944d34b860a1aa5f28":[5,0,28,6,252],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1ef3173247fd3d3e59e6e2efb24a774f":[5,0,28,6,391],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1f2e016bc6c1e05b6bd6934ccd402fcd":[5,0,28,6,337],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a207882d9eb74a798a3cd50c6ef351b6b":[5,0,28,6,327]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a1ef3173247fd3d3e59e6e2efb24a774f":[5,0,28,6,391]
 };

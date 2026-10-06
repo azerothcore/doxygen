@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[7,0,4615,0],
+"db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6":[7,0,4615,2],
 "db/df4/structTransportRotationEntry.html#a7f0ff898e752e2e904ebee1412643df6":[7,0,4615,4],
 "db/df4/structTransportRotationEntry.html#a87647d71a965e80154ca36dc05421585":[7,0,4615,5],
 "db/df4/structTransportRotationEntry.html#a9c7cb1fd0463d1158d971db6f15431ff":[7,0,4615,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "db/dfb/spell__quest_8cpp.html#ad4c06bbc0fb19fb36238c8aaa0325494af6ae9500b310bdf0a0b9f8d1bd6f11e1":[8,0,0,0,1,3,9,8,93,3],
 "db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01a":[8,0,0,0,1,3,9,8,80],
 "db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa4bfde263c46e50734abaf4dcab557fa4":[8,0,0,0,1,3,9,8,80,0],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa871431934696948e50a7bf8b73b3746d":[8,0,0,0,1,3,9,8,80,2],
-"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aaf04a87591d2c4b9d2b770a151625d300":[8,0,0,0,1,3,9,8,80,1],
-"db/dfb/spell__quest_8cpp.html#ad82075160ba49d5c2642a873af2cc9dc":[8,0,0,0,1,3,9,8,107]
+"db/dfb/spell__quest_8cpp.html#ad6129ea479000965e44d6a1d0469f01aa871431934696948e50a7bf8b73b3746d":[8,0,0,0,1,3,9,8,80,2]
 };

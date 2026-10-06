@@ -1,5 +1,7 @@
 var NAVTREEINDEX304 =
 {
+"db/d8c/structboss__gyth.html#aab0152a90a341839279cb6d0e7e19eb6":[7,0,532,5],
+"db/d8c/structboss__gyth.html#ad7c64e772a8959ad0e58fc13512e0088":[7,0,532,2],
 "db/d8c/structboss__gyth.html#aef0345d29833b13045b374a219335018":[7,0,532,6],
 "db/d8c/structinstance__the__black__morass_1_1instance__the__black__morass__InstanceMapScript.html":[7,0,1385,0],
 "db/d8c/structinstance__the__black__morass_1_1instance__the__black__morass__InstanceMapScript.html#a024b2c41699ec1ee40b5adbfe355c498":[7,0,1385,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX304 =
 "db/d96/firework__show__Exodar_8h.html#a44290c427b72dfa245ba73b6fa1ea317":[8,0,0,0,1,3,3,0,3,2],
 "db/d96/firework__show__Exodar_8h.html#a5b7a7ca2308d23103ee3d053d6301e5c":[8,0,0,0,1,3,3,0,3,1],
 "db/d96/firework__show__Exodar_8h.html#a62ccee24b6a90b61a19256b66e97c1dd":[8,0,0,0,1,3,3,0,3,0],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[5,0,0,96],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[7,0,0,84],
-"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html#a37f212d5cb1ef2b8d55e19b749861a17":[5,0,0,96,4]
+"db/d97/classAcore_1_1NearestGameObjectTypeInObjectRangeCheck.html":[5,0,0,96]
 };

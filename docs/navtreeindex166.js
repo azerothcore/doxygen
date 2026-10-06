@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a22ecdf33f1ba0a20c9f554f7a815038e":[8,0,0,0,1,3,4,1,1,6,3,8],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a2f66f4d100d30627ea3e066675981aff":[8,0,0,0,1,3,4,1,1,6,3,9],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a30c6dda8b96ce269b542d6a9725e7ab3":[8,0,0,0,1,3,4,1,1,6,3,0],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a390ce20614e4d07e3ddee633bc89638d":[8,0,0,0,1,3,4,1,1,6,3,5],
@@ -102,18 +103,18 @@ var NAVTREEINDEX166 =
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad88a3894187c1d3569f3fcdc6042f664":[8,0,0,0,1,3,5,3,3,6,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[7,0,0,86],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,0,98],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,0,98,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[7,0,0,86,0],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,0,98,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[7,0,0,86,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,0,98,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[7,0,0,86,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,0,98,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[7,0,0,86,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,0,98,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[7,0,0,86,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[7,0,0,86,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,0,98,2],
-"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[5,0,0,21,0],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[7,0,0,86,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[7,0,0,9,0],
+"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[5,0,0,21,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[5,0,0,21,0,1],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[7,0,0,9,0,1],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[5,0,0,21,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d5/dd8/structCreatureAddon.html#a82f7be10807af7b25dd41c643be066fc":[7,0,947,3],
 "d5/dd8/structCreatureAddon.html#aa86bac734e0e652b6bb4ea273cf62571":[7,0,947,5],
 "d5/dd8/structCreatureAddon.html#ad3ae39b8c5be151e15ab6f1494943bc3":[7,0,947,6],
-"d5/dd8/structCreatureAddon.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9":[7,0,947,1],
-"d5/dd8/structCreatureAddon.html#aedf06568867bbb5db5ca8017727dab9d":[7,0,947,2]
+"d5/dd8/structCreatureAddon.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9":[7,0,947,1]
 };

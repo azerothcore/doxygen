@@ -59,6 +59,7 @@ var structinstance__blackrock__depths =
     [ "MagmusGUID", "d3/dd6/structinstance__blackrock__depths.html#a12583ba0684077da9463d2457142d95c", null ],
     [ "MoiraGUID", "d3/dd6/structinstance__blackrock__depths.html#ab683ac2ce211a8b674ec8a8598bc8875", null ],
     [ "OpenedCoofers", "d3/dd6/structinstance__blackrock__depths.html#a284c8fe8b879979afcc376d19fcd76fc", null ],
+    [ "PhalanxActivationState", "d3/dd6/structinstance__blackrock__depths.html#a6491153346873435eac9cd998b846d41", null ],
     [ "PhalanxGUID", "d3/dd6/structinstance__blackrock__depths.html#a4d194b034dad5655ec474e6a8b1d9639", null ],
     [ "PriestessGUID", "d3/dd6/structinstance__blackrock__depths.html#ac1733be99347c846156c9c77d25b6431", null ],
     [ "str_data", "d3/dd6/structinstance__blackrock__depths.html#af848bc32ca0f209e6c7cb3c2a448df61", null ],

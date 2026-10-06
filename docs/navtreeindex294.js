@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"db/d32/classWardenMac.html#a024be47d39641cb0e7654b0e0999e444":[7,0,4680,3],
+"db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da":[7,0,4680,7],
 "db/d32/classWardenMac.html#a4fceef34e83db1a357d9eadce35efdef":[7,0,4680,6],
 "db/d32/classWardenMac.html#a576c0cf7a819e95c97cc0ac4e5962d6d":[7,0,4680,0],
 "db/d32/classWardenMac.html#a5f3832580c73a0af34fa83669a92ceab":[7,0,4680,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac68852c868ab0958c7f86204d500aeb6":[7,0,2175,0,4],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac96a6424076d55ce336d5c4346bbc86a":[7,0,2175,0,12],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aca80d441032da46537d17571357ad74c":[7,0,2175,0,16],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[7,0,2175,0,9],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ade0e76b713e921b735474ca70f811d26":[7,0,2175,0,19],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ae0bc5a848784255b909b8318e3ae30a2":[7,0,2175,0,14]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8":[7,0,2175,0,9]
 };

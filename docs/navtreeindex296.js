@@ -1,5 +1,7 @@
 var NAVTREEINDEX296 =
 {
+"db/d55/spell__druid_8cpp.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20":[8,0,0,0,1,3,9,1,58,0],
+"db/d55/spell__druid_8cpp.html#a2f101649b277b64d4fef3e463e8a78cfade4558c835e6f40a38d232536b4f4867":[8,0,0,0,1,3,9,1,58,2],
 "db/d55/spell__druid_8cpp.html#a2f101649b277b64d4fef3e463e8a78cfaefc49a5e5a9ebe756786a393a4e6fae6":[8,0,0,0,1,3,9,1,58,1],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1a":[8,0,0,0,1,3,9,1,59],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa03a9d362dec440b49abe5081d09740e6":[8,0,0,0,1,3,9,1,59,36],
@@ -247,7 +249,5 @@ var NAVTREEINDEX296 =
 "db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a":[7,0,3200,0],
 "db/d5e/classspell__gruul__shatter__effect.html#a197fce87e22a3e4055cabbb925b13aa1":[7,0,3200,1],
 "db/d5e/classspell__gruul__shatter__effect.html#aac3c6a6b34af795cb08fc299e763f6a8":[7,0,3200,2],
-"db/d5f/IPLocation_8cpp.html":[8,0,0,0,0,8,0],
-"db/d60/classboss__palehoof.html":[7,0,666],
-"db/d60/classboss__palehoof.html#ac0e541befaad7e1e6e318d64ca4a1d94":[7,0,666,1]
+"db/d5f/IPLocation_8cpp.html":[8,0,0,0,0,8,0]
 };

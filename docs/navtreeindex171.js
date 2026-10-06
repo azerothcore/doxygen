@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d5/dfb/classObjectMgr.html#aa5d59bb526ab6378650ef656ecf3f4aa":[7,0,2364,39],
 "d5/dfb/classObjectMgr.html#aa612aa8373f2c4f37ea62498f31f30fc":[7,0,2364,190],
 "d5/dfb/classObjectMgr.html#aa7a855ec14472960883d4f399f8758bf":[7,0,2364,425],
 "d5/dfb/classObjectMgr.html#aa7e6865d591c3a2eebcf0d9944a9c137":[7,0,2364,168],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a00b8077971e08dba4a313fb98f53b2be":[8,0,0,0,1,3,5,10,1,2,6,6],
 "d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0b71c7eb60422dc6df58d353e77798af":[8,0,0,0,1,3,5,10,1,2,6,0],
 "d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a154790b1dc7e43d55354d34ea4511fb6":[8,0,0,0,1,3,5,10,1,2,6,13],
-"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1c82c71ea6604a8c176aa47fdfedfc98":[8,0,0,0,1,3,5,10,1,2,6,11],
-"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a20e1c3685576c18dcf8a4ece0b902e60":[8,0,0,0,1,3,5,10,1,2,6,4]
+"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1c82c71ea6604a8c176aa47fdfedfc98":[8,0,0,0,1,3,5,10,1,2,6,11]
 };

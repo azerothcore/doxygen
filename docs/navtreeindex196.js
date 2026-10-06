@@ -1,7 +1,8 @@
 var NAVTREEINDEX196 =
 {
-"d6/df8/classVMAP_1_1ModelInstance.html#aac45a2d4becd7cac072da2f85b346eee":[7,0,11,13,5],
+"d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019":[7,0,11,13,6],
 "d6/df8/classVMAP_1_1ModelInstance.html#aac45a2d4becd7cac072da2f85b346eee":[5,0,31,13,5],
+"d6/df8/classVMAP_1_1ModelInstance.html#aac45a2d4becd7cac072da2f85b346eee":[7,0,11,13,5],
 "d6/df8/classVMAP_1_1ModelInstance.html#adc23d9c9a79ac7cfdb1f90b96485b089":[5,0,31,13,7],
 "d6/df8/classVMAP_1_1ModelInstance.html#adc23d9c9a79ac7cfdb1f90b96485b089":[7,0,11,13,7],
 "d6/df8/classspell__dru__glyph__of__rake.html":[7,0,2914],
@@ -134,14 +135,14 @@ var NAVTREEINDEX196 =
 "d7/d00/structboss__yoggsaron__crusher__tentacle.html#aba082f8d2fa200eca9c52336df544221":[7,0,809,3],
 "d7/d00/structboss__yoggsaron__crusher__tentacle.html#ae22a12401dc98534da1cb771468a58ce":[7,0,809,4],
 "d7/d00/structboss__yoggsaron__crusher__tentacle.html#af8d417c56918cf59dfe3d8429c4cf239":[7,0,809,5],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html":[5,0,34,8,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html":[7,0,13,8,1],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[5,0,34,8,1,2],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html":[5,0,34,8,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[7,0,13,8,1,2],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[5,0,34,8,1,3],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[5,0,34,8,1,2],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[7,0,13,8,1,3],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[7,0,13,8,1,0],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[5,0,34,8,1,3],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[5,0,34,8,1,0],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[7,0,13,8,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[7,0,13,8,1,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,34,8,1,1],
 "d7/d01/classnpc__shenthul.html":[7,0,2173],
@@ -248,6 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d06/classspell__sindragosa__ice__tomb__filter.html#a6e541cad4c831ee2eaf19d72324ec38c":[7,0,4174,2],
 "d7/d06/classspell__sindragosa__ice__tomb__filter.html#aae21b2d9ecc5bfd317f065f1da46b696":[7,0,4174,0],
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html":[7,0,4266],
-"d7/d06/classspell__the__lich__king__soul__reaper__aura.html#a5675fef373315edd34d096bb91c733b0":[7,0,4266,3],
-"d7/d06/classspell__the__lich__king__soul__reaper__aura.html#a9635bf496ee3098e412ba7de633250b3":[7,0,4266,0]
+"d7/d06/classspell__the__lich__king__soul__reaper__aura.html#a5675fef373315edd34d096bb91c733b0":[7,0,4266,3]
 };

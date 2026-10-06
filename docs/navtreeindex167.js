@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d5/dd8/structCreatureAddon.html#aedf06568867bbb5db5ca8017727dab9d":[7,0,947,2],
 "d5/dd9/structArenaSeasonRewardGroup.html":[7,0,195],
 "d5/dd9/structArenaSeasonRewardGroup.html#a0574cf3fc910f13413ea7eb1c0f08166":[7,0,195,9],
 "d5/dd9/structArenaSeasonRewardGroup.html#a07507bd59265508a463aa328f343afa0":[7,0,195,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d5/de9/classspell__gen__profession__research.html#ad967ae7e2affa312fa4adbca6e86dd7c":[7,0,3137,0],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html":[7,0,1381,0],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a006a6eece7857fa5f3150cbb55df861a":[7,0,1381,0,39],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[7,0,1381,0,5],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[7,0,1381,0,34]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[7,0,1381,0,5]
 };
