@@ -6128,6 +6128,7 @@ var hierarchy =
         [ "npc_brann_bronzebeard_algalon", "df/df9/structnpc__brann__bronzebeard__algalon.html", null ],
         [ "npc_hyldsmeet_protodrake", "d9/d31/structnpc__hyldsmeet__protodrake.html", null ],
         [ "npc_mc_core_hound", "d0/d1a/structnpc__mc__core__hound.html", null ],
+        [ "npc_mistress_nagmara", "d3/d1a/structnpc__mistress__nagmara.html", null ],
         [ "npc_rookery_hatcher", "df/d76/structnpc__rookery__hatcher.html", null ],
         [ "npc_vaelastrasz_the_red", "d7/d85/structnpc__vaelastrasz__the__red.html", null ],
         [ "npc_wounded_skirmisher", "db/dfb/structnpc__wounded__skirmisher.html", null ]

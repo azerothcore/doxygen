@@ -2583,6 +2583,7 @@ var annotated_dup =
     [ "npc_mindless_ghoul", "d6/dfc/classnpc__mindless__ghoul.html", "d6/dfc/classnpc__mindless__ghoul" ],
     [ "npc_minigob_manabonk", "d0/d2c/structnpc__minigob__manabonk.html", "d0/d2c/structnpc__minigob__manabonk" ],
     [ "npc_minion_spawner", "de/d72/structnpc__minion__spawner.html", "de/d72/structnpc__minion__spawner" ],
+    [ "npc_mistress_nagmara", "d3/d1a/structnpc__mistress__nagmara.html", "d3/d1a/structnpc__mistress__nagmara" ],
     [ "npc_mistress_of_pain", "d6/dd2/structnpc__mistress__of__pain.html", "d6/dd2/structnpc__mistress__of__pain" ],
     [ "npc_molten_golem", "df/d2a/structnpc__molten__golem.html", "df/d2a/structnpc__molten__golem" ],
     [ "npc_mootoo_the_younger", "d4/d14/classnpc__mootoo__the__younger.html", "d4/d14/classnpc__mootoo__the__younger" ],

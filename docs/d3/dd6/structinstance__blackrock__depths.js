@@ -56,6 +56,7 @@ var structinstance__blackrock__depths =
     [ "GrimstonePositon", "d3/dd6/structinstance__blackrock__depths.html#aae0c0472c96936794c083a12f035562b", null ],
     [ "IronhandCounter", "d3/dd6/structinstance__blackrock__depths.html#ac61e405f121b917801e7081af8fb49c9", null ],
     [ "IronhandGUID", "d3/dd6/structinstance__blackrock__depths.html#a3abf722f153a1fc8eba432a2b49ac450", null ],
+    [ "LovePotionEventState", "d3/dd6/structinstance__blackrock__depths.html#ab5153b9fc4f0374737fc4b96847bb884", null ],
     [ "MagmusGUID", "d3/dd6/structinstance__blackrock__depths.html#a12583ba0684077da9463d2457142d95c", null ],
     [ "MoiraGUID", "d3/dd6/structinstance__blackrock__depths.html#ab683ac2ce211a8b674ec8a8598bc8875", null ],
     [ "OpenedCoofers", "d3/dd6/structinstance__blackrock__depths.html#a284c8fe8b879979afcc376d19fcd76fc", null ],

@@ -6,7 +6,12 @@ var blackrock__depths_8cpp =
     [ "at_ring_of_law", "df/d54/classat__ring__of__law.html", "df/d54/classat__ring__of__law" ],
     [ "npc_grimstone", "d7/df6/structnpc__grimstone.html", "d7/df6/structnpc__grimstone" ],
     [ "npc_phalanx", "de/d1d/structnpc__phalanx.html", "de/d1d/structnpc__phalanx" ],
+    [ "npc_mistress_nagmara", "d3/d1a/structnpc__mistress__nagmara.html", "d3/d1a/structnpc__mistress__nagmara" ],
     [ "npc_rocknot", "dd/d4c/structnpc__rocknot.html", "dd/d4c/structnpc__rocknot" ],
+    [ "GrimGuzzlerNPCs", "df/d57/blackrock__depths_8cpp.html#a77fc9cb2c6415fc9da6f085c0ba82b5d", [
+      [ "NPC_PRIVATE_ROCKNOT", "df/d57/blackrock__depths_8cpp.html#a77fc9cb2c6415fc9da6f085c0ba82b5da863befa526f111283c2f5a00a1f1c4f6", null ],
+      [ "NPC_MISTRESS_NAGMARA", "df/d57/blackrock__depths_8cpp.html#a77fc9cb2c6415fc9da6f085c0ba82b5daa54264550a93a8c75eb28557276a94aa", null ]
+    ] ],
     [ "GrimstoneTexts", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954", [
       [ "SAY_TEXT1", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
       [ "SAY_TEXT2", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
@@ -18,6 +23,43 @@ var blackrock__depths_8cpp =
     [ "IronhandData", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779", [
       [ "IRONHAND_N_GROUPS", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
       [ "SPELL_GOUT_OF_FLAMES", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
+    ] ],
+    [ "NagmaraCreatures", "df/d57/blackrock__depths_8cpp.html#aa2e052d8da616d0062d3bbd8fb7e1827", [
+      [ "NPC_GRIM_PATRON", "df/d57/blackrock__depths_8cpp.html#aa2e052d8da616d0062d3bbd8fb7e1827a2970c9c616a2ae5e83b719614d898b05", null ],
+      [ "NPC_GUZZLING_PATRON", "df/d57/blackrock__depths_8cpp.html#aa2e052d8da616d0062d3bbd8fb7e1827aee0404e3462d0a1aeb291d4e8ded3217", null ]
+    ] ],
+    [ "NagmaraData", "df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509", [
+      [ "DATA_AMBIENT_ORDER", "df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3", null ]
+    ] ],
+    [ "NagmaraGossip", "df/d57/blackrock__depths_8cpp.html#a475f710bbab4d7dd51d780bfcfa38cd6", [
+      [ "GOSSIP_MENU_NAGMARA", "df/d57/blackrock__depths_8cpp.html#a475f710bbab4d7dd51d780bfcfa38cd6a7610712538455e1509d47f7a8799ae99", null ]
+    ] ],
+    [ "NagmaraPoints", "df/d57/blackrock__depths_8cpp.html#ac00cc67fe0e532bdfa8d394554795119", [
+      [ "POINT_APPROACH", "df/d57/blackrock__depths_8cpp.html#ac00cc67fe0e532bdfa8d394554795119a45dda9aa9856f46b6ceedc56b4e0de3c", null ],
+      [ "POINT_APPROACH_GREETING", "df/d57/blackrock__depths_8cpp.html#ac00cc67fe0e532bdfa8d394554795119a632f4c76ffd604505efb731acbfb246c", null ],
+      [ "POINT_ROCKNOT_FINAL", "df/d57/blackrock__depths_8cpp.html#ac00cc67fe0e532bdfa8d394554795119ab2a7e6619cabd04e389b035c3853490b", null ]
+    ] ],
+    [ "NagmaraQuests", "df/d57/blackrock__depths_8cpp.html#a42d112f04eb6d2c8375cdd73c00b8300", [
+      [ "QUEST_POTION_LOVE", "df/d57/blackrock__depths_8cpp.html#a42d112f04eb6d2c8375cdd73c00b8300a203395175d797a21b4a15af3df2a7335", null ]
+    ] ],
+    [ "NagmaraSpells", "df/d57/blackrock__depths_8cpp.html#ac8d7ba67c412abeae1570b26868bc6c0", [
+      [ "SPELL_POTION_LOVE", "df/d57/blackrock__depths_8cpp.html#ac8d7ba67c412abeae1570b26868bc6c0a26e4d96eb92af19110e5161981a2d89b", null ],
+      [ "SPELL_NAGMARA_ROCKNOT", "df/d57/blackrock__depths_8cpp.html#ac8d7ba67c412abeae1570b26868bc6c0adacc3fefb0158891c5ff293dd9d46f83", null ]
+    ] ],
+    [ "NagmaraTaskGroups", "df/d57/blackrock__depths_8cpp.html#a8036b3f5e864d74a1e72ec40dffb6760", [
+      [ "GROUP_NAGMARA_LOVE_SEQUENCE", "df/d57/blackrock__depths_8cpp.html#a8036b3f5e864d74a1e72ec40dffb6760a6895c03be88d64053761ea7cb1041762", null ],
+      [ "GROUP_NAGMARA_MOVEMENT_TIMEOUT", "df/d57/blackrock__depths_8cpp.html#a8036b3f5e864d74a1e72ec40dffb6760a60bbc17117f39acb9ea40c79e6195a68", null ],
+      [ "GROUP_NAGMARA_AMBIENT_REPLY", "df/d57/blackrock__depths_8cpp.html#a8036b3f5e864d74a1e72ec40dffb6760a7cd54408a0a319066ae348245c6a92c5", null ],
+      [ "GROUP_NAGMARA_KISS", "df/d57/blackrock__depths_8cpp.html#a8036b3f5e864d74a1e72ec40dffb6760a608896f7c09a6d70271c30fd15463950", null ]
+    ] ],
+    [ "NagmaraTexts", "df/d57/blackrock__depths_8cpp.html#aa63c1639a528ee5ae169f1a630bac373", [
+      [ "SAY_NAGMARA_AMBIENT", "df/d57/blackrock__depths_8cpp.html#aa63c1639a528ee5ae169f1a630bac373a12d399d6199598673134db27e00734c7", null ],
+      [ "SAY_NAGMARA_1", "df/d57/blackrock__depths_8cpp.html#aa63c1639a528ee5ae169f1a630bac373a2a19fc4b457cfe745df19afabaf76db8", null ],
+      [ "EMOTE_NAGMARA", "df/d57/blackrock__depths_8cpp.html#aa63c1639a528ee5ae169f1a630bac373aa9385a08d20a72f4bfef0488f75a1a6e", null ]
+    ] ],
+    [ "NagmaraWaypoints", "df/d57/blackrock__depths_8cpp.html#ad2d26888a90b420f8dd6141b267aca09", [
+      [ "PATH_NAGMARA_LOVERS", "df/d57/blackrock__depths_8cpp.html#ad2d26888a90b420f8dd6141b267aca09a5d4a897c034ba8123d547f3e8598035b", null ],
+      [ "POINT_NAGMARA_DOOR_WAIT", "df/d57/blackrock__depths_8cpp.html#ad2d26888a90b420f8dd6141b267aca09ac7d1cb3c3dcc59c9e841b2dcea794d7b", null ]
     ] ],
     [ "PhalanxActions", "df/d57/blackrock__depths_8cpp.html#ae140961cf8719b54c57af64480ef31ee", [
       [ "ACTION_PHALANX_START_ACTIVATION", "df/d57/blackrock__depths_8cpp.html#ae140961cf8719b54c57af64480ef31eeadfbfd0c0e25fabeb11d16a998b59ebde", null ]
@@ -45,6 +87,20 @@ var blackrock__depths_8cpp =
     ] ],
     [ "PhalanxTexts", "df/d57/blackrock__depths_8cpp.html#aeffee7ee18d38611c5faa46be97f3dc5", [
       [ "SAY_PHALANX_AGGRO", "df/d57/blackrock__depths_8cpp.html#aeffee7ee18d38611c5faa46be97f3dc5a4214572c6b24f6ff742f502fca6e046b", null ]
+    ] ],
+    [ "RocknotActions", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148", [
+      [ "ACTION_START_LOVE_POTION", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a73d8e41f981b02608462365286b3018f", null ],
+      [ "ACTION_CANCEL_LOVE_POTION", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148ae41e4a7666d470f5b130d5055335b970", null ],
+      [ "ACTION_BEGIN_LOVERS_FOLLOW", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a75a8771e26539eaa5a324c31d159473f", null ],
+      [ "ACTION_MOVE_TO_LOVERS_STOP", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a3a2fc1f923cfd18d20a4e7403b80c078", null ],
+      [ "ACTION_ROCKNOT_AT_LOVERS_STOP", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a4a005655189744e88943f9501ee7e8e0", null ],
+      [ "ACTION_COMPLETE_LOVE_POTION", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a15c3c08b92e5fd800158fcb7cd8a2eb3", null ],
+      [ "ACTION_PAUSE_AT_BAR_DOOR", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a6f12ad568cdb38c2cfffbbc53d629937", null ],
+      [ "ACTION_RESUME_AFTER_BAR_DOOR", "df/d57/blackrock__depths_8cpp.html#a6ccd5ead114dd914e3ffcfb50ba50148a27c99a4ee04d09d0161bb0ee885dac9c", null ]
+    ] ],
+    [ "RocknotData", "df/d57/blackrock__depths_8cpp.html#ac1670d2b32d8e79b0358f7e061de6145", [
+      [ "DATA_CAN_START_LOVE_POTION", "df/d57/blackrock__depths_8cpp.html#ac1670d2b32d8e79b0358f7e061de6145a9074ae5f78146c58c1bf87f43d89d447", null ],
+      [ "DATA_LOVE_POTION_ACTIVE", "df/d57/blackrock__depths_8cpp.html#ac1670d2b32d8e79b0358f7e061de6145af322e0b87796678714297df224333bf7", null ]
     ] ],
     [ "RocknotEvents", "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54", [
       [ "EVENT_ROCKNOT_MORE_ALE", "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e", null ],
@@ -74,11 +130,19 @@ var blackrock__depths_8cpp =
       [ "SAY_MORE_ALE", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0ad5a29b9fd4cfc6f98e2bd65774d5409f", null ],
       [ "SAY_FIRST_EMPTY", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0aed958fd831bb8b842be73f0b16544b06", null ],
       [ "SAY_SECOND_EMPTY", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0ae644afd40e185b9f8d53e621551a6a65", null ],
-      [ "SAY_ALE", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963", null ]
+      [ "SAY_ALE", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0ab2c8011f6b9b092816587071dc99a963", null ],
+      [ "EMOTE_ROCKNOT", "df/d57/blackrock__depths_8cpp.html#a0fcf46ec361ec3eb9f40c6701294d8e0adb25620ed18d2e8dc4c5a9e4683a1142", null ]
+    ] ],
+    [ "RocknotTaskGroups", "df/d57/blackrock__depths_8cpp.html#a9be3a5935087bb5ed983121fff3d2396", [
+      [ "GROUP_ROCKNOT_KISS", "df/d57/blackrock__depths_8cpp.html#a9be3a5935087bb5ed983121fff3d2396a03919bd7a0e976e9c06c40615e9363ff", null ]
     ] ],
     [ "AddSC_blackrock_depths", "df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
     [ "IRONHAND_FLAMES_TIMER", "df/d57/blackrock__depths_8cpp.html#aaeadf68886d098aa12fbc52043317c2c", null ],
     [ "IRONHAND_FLAMES_TIMER_RAND", "df/d57/blackrock__depths_8cpp.html#a66b9acb193a7b1cc44113a9db0539905", null ],
+    [ "NagmaraApproachPosition", "df/d57/blackrock__depths_8cpp.html#af200a6dcf2f5de233003bc331d085202", null ],
+    [ "NagmaraFinalPosition", "df/d57/blackrock__depths_8cpp.html#a63deecc453aeb5a784bc21c5c174b0e5", null ],
+    [ "NagmaraGreetingPosition", "df/d57/blackrock__depths_8cpp.html#a733d56b59dda0c4cfc28a18f7f54b152", null ],
     [ "RingBoss", "df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
-    [ "RingMobs", "df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822", null ]
+    [ "RingMobs", "df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822", null ],
+    [ "RocknotFinalPosition", "df/d57/blackrock__depths_8cpp.html#a0413104621cd00b43dd9069c867a7e27", null ]
 ];

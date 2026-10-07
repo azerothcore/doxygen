@@ -84,7 +84,8 @@ var blackrock__depths_8h =
       [ "DATA_TIME_RING_FAIL", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a4abb3f6d8e6340e60ec7d3c735631bc3", null ],
       [ "DATA_ARENA_MOBS", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a", null ],
       [ "DATA_ARENA_BOSS", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a6b452f1118390453a0a198a0e77b222b", null ],
-      [ "DATA_PHALANX_ACTIVATED", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ]
+      [ "DATA_PHALANX_ACTIVATED", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a9aed024b657527edf9f6006b8f06992f", null ],
+      [ "DATA_LOVE_POTION_EVENT", "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ab2766ab3187804941cf5df770d8dfd90", null ]
     ] ],
     [ "eChallenge", "d7/d26/blackrock__depths_8h.html#a2f2e8b4a6f1b51adcbf0e07e2cc282dd", [
       [ "QUEST_THE_CHALLENGE", "d7/d26/blackrock__depths_8h.html#a2f2e8b4a6f1b51adcbf0e07e2cc282dda11cf3e7ffffe2a762179fe32e3f03766", null ],
