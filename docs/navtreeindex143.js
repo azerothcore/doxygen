@@ -1,5 +1,6 @@
 var NAVTREEINDEX143 =
 {
+"d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710":[7,0,4734,70],
 "d4/dd0/classWorldObject.html#a2a34124672aeca1a822ccd515f808a4d":[7,0,4734,188],
 "d4/dd0/classWorldObject.html#a2abc569d8acfbebc5556dfb4d7eb8a70":[7,0,4734,116],
 "d4/dd0/classWorldObject.html#a2abd1d291cd8c4f5cb04f0ad8d6f4a6b":[7,0,4734,71],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72c4d9dfeb34f8aa5a19f8f00fe95f70":[8,0,0,0,1,3,7,1,5,15,4],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a82ea21423b627e67832379a35e2bdd60":[8,0,0,0,1,3,7,1,5,15,7],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8a1d444c672ea4140787274db335593c":[8,0,0,0,1,3,7,1,5,15,1],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95763b9852830b361704a4cc4a60d26a":[8,0,0,0,1,3,7,1,5,15,5],
-"d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa77e321a00e2a14fed79c9511e38b20d":[8,0,0,0,1,3,7,1,5,15,6]
+"d4/dd3/boss__reliquary__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95763b9852830b361704a4cc4a60d26a":[8,0,0,0,1,3,7,1,5,15,5]
 };

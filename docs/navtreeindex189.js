@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff":[8,0,0,0,1,2,16,6,2,8,40],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[8,0,0,0,1,2,16,6,2,8,16],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570":[8,0,0,0,1,2,16,6,2,8,32],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a47e6e2fa037fecebc1af203e75d24969":[8,0,0,0,1,2,16,6,2,8,10],
@@ -142,10 +143,10 @@ var NAVTREEINDEX189 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[7,0,13,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,34,11,4,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[7,0,13,11,4,2],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[7,0,13,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[7,0,13,11,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[7,0,2751],
 "d6/d9d/classspell__brewfest__add__mug.html#a1c69fb2fd3fa623d62647fca738d27d6":[7,0,2751,1],
 "d6/d9d/classspell__brewfest__add__mug.html#a3860ad8a34e37601f7a4cef395f7ab2a":[7,0,2751,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d6/da6/classspell__kalecgos__spectral__realm__dummy.html#a4afae0bafceeb6e6a9a26aea2162d4d9":[7,0,3559,3],
 "d6/da6/classspell__kalecgos__spectral__realm__dummy.html#a6e6b27ade1cac743946a976dbf343066":[7,0,3559,2],
 "d6/da6/classspell__kalecgos__spectral__realm__dummy.html#a85779288126b21f516f2feb0238ee65b":[7,0,3559,4],
-"d6/da7/WorldSession_8cpp.html":[4,1,1],
-"d6/da7/structboss__yoggsaron__keeper.html":[7,0,816]
+"d6/da7/WorldSession_8cpp.html":[4,1,1]
 };

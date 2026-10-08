@@ -1,5 +1,6 @@
 var NAVTREEINDEX228 =
 {
+"d8/d48/classspell__rog__cold__blood.html#a24faa9992523bc87df7f5ebccfb42233":[7,0,4044,2],
 "d8/d48/classspell__rog__cold__blood.html#a2e564758a050827108955f73a08e72e7":[7,0,4044,0],
 "d8/d48/classspell__rog__cold__blood.html#a3f5cde7b3af5c3a6b75d76b742cae54b":[7,0,4044,4],
 "d8/d48/classspell__rog__cold__blood.html#a5993871d8837b43580818fa94e1bccc2":[7,0,4044,1],
@@ -247,7 +248,6 @@ var NAVTREEINDEX228 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[7,0,1993,0,5],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[7,0,1993,0,3],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[7,0,1993,0,6],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,0,78],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[7,0,0,66],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[7,0,0,66,2]
+"d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,0,78]
 };

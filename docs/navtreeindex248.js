@@ -1,5 +1,10 @@
 var NAVTREEINDEX248 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd":[8,0,0,0,1,3,2,11,5,10,19],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bc8f6a5f6622d513af49b9f777d29d1":[8,0,0,0,1,3,2,11,5,10,12],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1de72799279888b931f82177d5e8b842":[8,0,0,0,1,3,2,11,5,10,15],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca23774b52390332d7deb748a26be41544":[8,0,0,0,1,3,2,11,5,10,17],
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca275650a34d5c898299d31ffc3aa5023d":[8,0,0,0,1,3,2,11,5,10,23],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,2,11,5,10,0],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96":[8,0,0,0,1,3,2,11,5,10,18],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca30349b5b8c99e7ab662311ad934e9767":[8,0,0,0,1,3,2,11,5,10,11],
@@ -244,10 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d53/BattlegroundScript_8cpp.html":[8,0,0,0,1,2,38,0,35],
 "d9/d53/BattlegroundScript_8cpp.html#a954046a61096ecb9db321b0a35da5f77":[8,0,0,0,1,2,38,0,35,0],
 "d9/d54/classnpc__tirions__gambit__tirion.html":[7,0,2237],
-"d9/d54/classnpc__tirions__gambit__tirion.html#a222c092c2e2136dbd7057a3f7ad7b5f4":[7,0,2237,2],
-"d9/d54/classnpc__tirions__gambit__tirion.html#a5af904a3394de9b3eedb52009bd6b0a9":[7,0,2237,3],
-"d9/d54/classnpc__tirions__gambit__tirion.html#ad52abd46ccdd3b4409671679434c193c":[7,0,2237,1],
-"d9/d54/common_2Configuration_2Config_8cpp.html":[8,0,0,0,0,2,2],
-"d9/d54/common_2Configuration_2Config_8cpp.html#a7096a6c65872ca33d8f44bdd841eaa31":[8,0,0,0,0,2,2,1],
-"d9/d54/common_2Configuration_2Config_8cpp.html#a88481e3afc1a3d0cced9a0eb22ef52c4":[8,0,0,0,0,2,2,0]
+"d9/d54/classnpc__tirions__gambit__tirion.html#a222c092c2e2136dbd7057a3f7ad7b5f4":[7,0,2237,2]
 };

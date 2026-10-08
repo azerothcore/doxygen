@@ -1,5 +1,14 @@
 var NAVTREEINDEX399 =
 {
+"de/dad/classWorldUpdateTime.html#a6b8a8d1b61f9ecec591165fa334972fc":[7,0,4746,7],
+"de/dad/classWorldUpdateTime.html#a7bc68a1a700deb4bc4d19992edf3ffa7":[7,0,4746,5],
+"de/dad/classWorldUpdateTime.html#a88d773c8029cebeab6b99444c25c8379":[7,0,4746,2],
+"de/dad/classWorldUpdateTime.html#a97552c4ce99bd40919f199c17fe203ed":[7,0,4746,0],
+"de/dad/classWorldUpdateTime.html#acb2b9d56504fc760e7df1c93621ab788":[7,0,4746,1],
+"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[7,0,4746,4],
+"de/dad/classspell__despawner__self.html":[7,0,2813],
+"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[7,0,2813,3],
+"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[7,0,2813,2],
 "de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[7,0,2813,1],
 "de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[7,0,2813,0],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[7,0,175],
@@ -240,14 +249,5 @@ var NAVTREEINDEX399 =
 "de/db9/structnpc__highlord__darion__mograine.html#ad1412213e4b7798b8d57e494d2804d6f":[7,0,1898,8],
 "de/db9/structnpc__highlord__darion__mograine.html#ad82b05e51766c3a4c31c72c9f60596a1":[7,0,1898,3],
 "de/db9/structnpc__highlord__darion__mograine.html#ae0cbe16959c269a86a28aeda681048e9":[7,0,1898,18],
-"de/db9/structnpc__highlord__darion__mograine.html#aeb08e9ca11dd9aeedbc7079182c5a534":[7,0,1898,22],
-"de/db9/structnpc__highlord__darion__mograine.html#affef58a695b73f2e17b48da915125425":[7,0,1898,17],
-"de/dbb/classChatLogScript.html":[7,0,895],
-"de/dbb/classChatLogScript.html#a4291524fdb6bbe7b92ebb3a35fb942c4":[7,0,895,1],
-"de/dbb/classChatLogScript.html#a64e3f0cc978eef23590ae97bb0b1320a":[7,0,895,3],
-"de/dbb/classChatLogScript.html#a9b69a5da200d9fe1275d2c7dd3576e87":[7,0,895,5],
-"de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[7,0,895,0],
-"de/dbb/classChatLogScript.html#ae7ca6f582695b3aabfd7255beb3e8d07":[7,0,895,2],
-"de/dbb/classChatLogScript.html#af891f7acb0a562c394db0a1763cc6ccd":[7,0,895,4],
-"de/dbb/classWretchedGhoulCleaner.html":[7,0,4748]
+"de/db9/structnpc__highlord__darion__mograine.html#aeb08e9ca11dd9aeedbc7079182c5a534":[7,0,1898,22]
 };

@@ -1,13 +1,18 @@
 var NAVTREEINDEX278 =
 {
-"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a8e5d0c7821d7055fd7ad9f3f83589f57":[5,0,34,14,3,1],
+"da/d86/classspell__toc5__light__rain.html#a697a52cbc50eafd2b0377621afb01557":[7,0,4285,1],
+"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html":[5,0,34,14,3],
+"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html":[7,0,13,14,3],
+"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a802f7bba88a650bc577cfc1fa29cb016":[5,0,34,14,3,0],
+"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a802f7bba88a650bc577cfc1fa29cb016":[7,0,13,14,3,0],
 "da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a8e5d0c7821d7055fd7ad9f3f83589f57":[7,0,13,14,3,1],
+"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a8e5d0c7821d7055fd7ad9f3f83589f57":[5,0,34,14,3,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[5,0,0,4,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[7,0,0,2,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[7,0,0,2,1,5],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,0,4,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[7,0,0,2,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,0,4,1,2],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[7,0,0,2,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[7,0,0,2,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[5,0,0,4,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[5,0,0,4,1,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX278 =
 "da/d91/classVMAP_1_1ModelSpawn.html":[7,0,11,15],
 "da/d91/classVMAP_1_1ModelSpawn.html#a35d7880eb3e295ed3148ca05a2f4520e":[7,0,11,15,2],
 "da/d91/classVMAP_1_1ModelSpawn.html#a35d7880eb3e295ed3148ca05a2f4520e":[5,0,31,15,2],
-"da/d91/classVMAP_1_1ModelSpawn.html#a4ebcfe8326eff028e722c9972a16200b":[7,0,11,15,4],
-"da/d91/classVMAP_1_1ModelSpawn.html#a4ebcfe8326eff028e722c9972a16200b":[5,0,31,15,4],
-"da/d91/classVMAP_1_1ModelSpawn.html#a66e19a4a28f8fc0c537f1315d9bddcfb":[5,0,31,15,11],
-"da/d91/classVMAP_1_1ModelSpawn.html#a66e19a4a28f8fc0c537f1315d9bddcfb":[7,0,11,15,11],
-"da/d91/classVMAP_1_1ModelSpawn.html#a6d0b4f6bde1a20b246e4b22cc43e25af":[5,0,31,15,9],
-"da/d91/classVMAP_1_1ModelSpawn.html#a6d0b4f6bde1a20b246e4b22cc43e25af":[7,0,11,15,9]
+"da/d91/classVMAP_1_1ModelSpawn.html#a4ebcfe8326eff028e722c9972a16200b":[7,0,11,15,4]
 };

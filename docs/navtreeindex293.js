@@ -1,5 +1,10 @@
 var NAVTREEINDEX293 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[8,0,0,0,1,3,2,6,0,4,8],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[8,0,0,0,1,3,2,6,0,4,4],
+"db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05":[8,0,0,0,1,3,2,6,0,5],
+"db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0ce6ce17f4bd616ac4b7f88cc1b8055b":[8,0,0,0,1,3,2,6,0,5,6],
+"db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0fcfe6f63ec53eec1c7288c2d2ad751b":[8,0,0,0,1,3,2,6,0,5,8],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a53713ddb24f070a66180520e0abaf2f0":[8,0,0,0,1,3,2,6,0,5,1],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a6b507c51667988a41d3020c26af2db9e":[8,0,0,0,1,3,2,6,0,5,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a75befcfa394d4141540fb6ee306d2a3b":[8,0,0,0,1,3,2,6,0,5,3],
@@ -28,12 +33,12 @@ var NAVTREEINDEX293 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,7,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,7,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,7,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1941,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[7,0,1941,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[7,0,1941,0,9],
@@ -49,8 +54,8 @@ var NAVTREEINDEX293 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[7,0,1941,0,3],
 "db/d21/BattlefieldMgr_8h.html":[8,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX293 =
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[7,0,766,0,8],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[7,0,766,0,3],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[7,0,766,0,7],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a9c945841926d5b08f37c6a720dd25a14":[7,0,766,0,6],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#aab05bab963d603c3cb70edfd62a84b49":[7,0,766,0,0],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#ada770d51f63c841c500ffc3197a7a89f":[7,0,766,0,5],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#af7076251fc1fad1dc259d747934910e2":[7,0,766,0,2],
-"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html":[7,0,2304,0]
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[7,0,766,0,7]
 };

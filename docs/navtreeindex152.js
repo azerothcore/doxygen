@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d5/d48/the__black__morass_8h.html#afb6eb4f28419b652027fad41104a6d22a7f2aefa1e1eb05f3cb41a3c603a9c442":[8,0,0,0,1,3,4,1,3,5,4,7],
 "d5/d48/the__black__morass_8h.html#afb6eb4f28419b652027fad41104a6d22ac8529ab1ece7b5a5095384fb044ef078":[8,0,0,0,1,3,4,1,3,5,4,6],
 "d5/d48/the__black__morass_8h.html#afb6eb4f28419b652027fad41104a6d22ad689e1b19da8826557288e604bfa8d21":[8,0,0,0,1,3,4,1,3,5,4,0],
 "d5/d48/the__black__morass_8h.html#afb6eb4f28419b652027fad41104a6d22ae633459bee3f29fec195dfc182935846":[8,0,0,0,1,3,4,1,3,5,4,2],
@@ -220,12 +221,12 @@ var NAVTREEINDEX152 =
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,34,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,34,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,34,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,34,6,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,34,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,34,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[7,0,13,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,34,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[7,0,3584],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[7,0,3584,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[7,0,3584,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d5/d57/classnpc__steward__of__time.html":[7,0,2196],
 "d5/d57/classnpc__steward__of__time.html#a53d552282da49e8246089b2799fff9ca":[7,0,2196,1],
 "d5/d57/classnpc__steward__of__time.html#ad49973464c96f44506033b73a85f6360":[7,0,2196,0],
-"d5/d57/namespaceWorldPackets_1_1Misc.html":[5,0,34,10],
-"d5/d57/structContainerList_3_01TypeNull_01_4.html":[7,0,930]
+"d5/d57/namespaceWorldPackets_1_1Misc.html":[5,0,34,10]
 };

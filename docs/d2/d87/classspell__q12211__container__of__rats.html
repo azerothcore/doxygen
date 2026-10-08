@@ -316,25 +316,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2559</span>    {</div>
-<div class="line"><span class="lineno"> 2560</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* corpse = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a">GetHitCreature</a>();</div>
-<div class="line"><span class="lineno"> 2561</span>        <span class="keywordflow">if</span> (!corpse)</div>
-<div class="line"><span class="lineno"> 2562</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2563</span> </div>
-<div class="line"><span class="lineno"> 2564</span>        <span class="comment">// blocks a second use, cleared on respawn</span></div>
-<div class="line"><span class="lineno"> 2565</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* ai = corpse-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno"> 2566</span>            ai-&gt;SetData(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355">DATA_EATEN_BY_RATS</a>, 1);</div>
-<div class="line"><span class="lineno"> 2567</span> </div>
-<div class="line"><span class="lineno"> 2568</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042">RAT_COUNT</a>; ++i)</div>
-<div class="line"><span class="lineno"> 2569</span>            corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(corpse, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2570</span> </div>
-<div class="line"><span class="lineno"> 2571</span>        <span class="comment">// not cancelled if the corpse is removed, don&#39;t morph it after respawn</span></div>
-<div class="line"><span class="lineno"> 2572</span>        corpse-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#a1da0c3001bd6009d6bac25a969ed7196">AddEventAtOffset</a>([corpse]()</div>
-<div class="line"><span class="lineno"> 2573</span>        {</div>
-<div class="line"><span class="lineno"> 2574</span>            <span class="keywordflow">if</span> (!corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno"> 2575</span>                corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(corpse, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2576</span>        }, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a>(6900ms, 8600ms));</div>
-<div class="line"><span class="lineno"> 2577</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2569</span>    {</div>
+<div class="line"><span class="lineno"> 2570</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* corpse = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a043ed22727560e0cb812009a30f0a37a">GetHitCreature</a>();</div>
+<div class="line"><span class="lineno"> 2571</span>        <span class="keywordflow">if</span> (!corpse)</div>
+<div class="line"><span class="lineno"> 2572</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2573</span> </div>
+<div class="line"><span class="lineno"> 2574</span>        <span class="comment">// blocks a second use, cleared on respawn</span></div>
+<div class="line"><span class="lineno"> 2575</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* ai = corpse-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno"> 2576</span>            ai-&gt;SetData(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355">DATA_EATEN_BY_RATS</a>, 1);</div>
+<div class="line"><span class="lineno"> 2577</span> </div>
+<div class="line"><span class="lineno"> 2578</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042">RAT_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno"> 2579</span>            corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(corpse, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2580</span> </div>
+<div class="line"><span class="lineno"> 2581</span>        <span class="comment">// not cancelled if the corpse is removed, don&#39;t morph it after respawn</span></div>
+<div class="line"><span class="lineno"> 2582</span>        corpse-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#a1da0c3001bd6009d6bac25a969ed7196">AddEventAtOffset</a>([corpse]()</div>
+<div class="line"><span class="lineno"> 2583</span>        {</div>
+<div class="line"><span class="lineno"> 2584</span>            <span class="keywordflow">if</span> (!corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno"> 2585</span>                corpse-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(corpse, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2586</span>        }, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a>(6900ms, 8600ms));</div>
+<div class="line"><span class="lineno"> 2587</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aRandom_8cpp_html_a9ecda65ea9686c86f47934d04d38ec69"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a></div><div class="ttdeci">Milliseconds randtime(Milliseconds min, Milliseconds max)</div><div class="ttdef"><b>Definition</b> Random.cpp:64</div></div>
 <div class="ttc" id="aclassCreatureAI_html"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html">CreatureAI</a></div><div class="ttdef"><b>Definition</b> CreatureAI.h:69</div></div>
@@ -345,14 +345,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1798</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1372</div></div>
 <div class="ttc" id="aclassWorldObject_html_ab963446488123d34f39a32587d9720a6"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">WorldObject::m_Events</a></div><div class="ttdeci">EventProcessor m_Events</div><div class="ttdef"><b>Definition</b> Object.h:749</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355">DATA_EATEN_BY_RATS</a></div><div class="ttdeci">@ DATA_EATEN_BY_RATS</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2544</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042">RAT_COUNT</a></div><div class="ttdeci">@ RAT_COUNT</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2546</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a></div><div class="ttdeci">@ SPELL_SKELETAL_TRANSFORM</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2541</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a></div><div class="ttdeci">@ SPELL_SUMMON_RAT</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2542</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a65d6ef8ab885acc7d90c73af9848d355">DATA_EATEN_BY_RATS</a></div><div class="ttdeci">@ DATA_EATEN_BY_RATS</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2554</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2a95ecef93f71c03961f9ecb7d1c9f8042">RAT_COUNT</a></div><div class="ttdeci">@ RAT_COUNT</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2556</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a></div><div class="ttdeci">@ SPELL_SKELETAL_TRANSFORM</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2551</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a></div><div class="ttdeci">@ SPELL_SUMMON_RAT</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2552</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l02544">DATA_EATEN_BY_RATS</a>, <a class="el" href="../../#l00463">SpellScript::GetHitCreature()</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00749">WorldObject::m_Events</a>, <a class="el" href="../../#l00064">randtime()</a>, <a class="el" href="../../#l02546">RAT_COUNT</a>, <a class="el" href="../../#l02541">SPELL_SKELETAL_TRANSFORM</a>, and <a class="el" href="../../#l02542">SPELL_SUMMON_RAT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00108">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l02554">DATA_EATEN_BY_RATS</a>, <a class="el" href="../../#l00463">SpellScript::GetHitCreature()</a>, <a class="el" href="../../#l01798">Unit::IsAlive()</a>, <a class="el" href="../../#l00749">WorldObject::m_Events</a>, <a class="el" href="../../#l00064">randtime()</a>, <a class="el" href="../../#l02556">RAT_COUNT</a>, <a class="el" href="../../#l02551">SPELL_SKELETAL_TRANSFORM</a>, and <a class="el" href="../../#l02552">SPELL_SUMMON_RAT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02579">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02589">Register()</a>.</p>
 
 </div>
 </div>
@@ -406,16 +406,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2580</span>    {</div>
-<div class="line"><span class="lineno"> 2581</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d87/classspell__q12211__container__of__rats.html#a1822dd19814e2962100e08370cdef315">spell_q12211_container_of_rats::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 2582</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2590</span>    {</div>
+<div class="line"><span class="lineno"> 2591</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d87/classspell__q12211__container__of__rats.html#a1822dd19814e2962100e08370cdef315">spell_q12211_container_of_rats::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 2592</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:769</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__q12211__container__of__rats_html_a1822dd19814e2962100e08370cdef315"><div class="ttname"><a href="../../d2/d87/classspell__q12211__container__of__rats.html#a1822dd19814e2962100e08370cdef315">spell_q12211_container_of_rats::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2558</div></div>
+<div class="ttc" id="aclassspell__q12211__container__of__rats_html_a1822dd19814e2962100e08370cdef315"><div class="ttname"><a href="../../d2/d87/classspell__q12211__container__of__rats.html#a1822dd19814e2962100e08370cdef315">spell_q12211_container_of_rats::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2568</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02558">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00769">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02568">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00769">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -444,12 +444,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2554</span>    {</div>
-<div class="line"><span class="lineno"> 2555</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a>, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a> });</div>
-<div class="line"><span class="lineno"> 2556</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2564</span>    {</div>
+<div class="line"><span class="lineno"> 2565</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2aedc72efceb03deee081dc3ccbcba12d9">SPELL_SKELETAL_TRANSFORM</a>, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a859229a9bfa280761af08ed9ac7a18d2af4622ebc03e3283dc965776fbc393f83">SPELL_SUMMON_RAT</a> });</div>
+<div class="line"><span class="lineno"> 2566</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02541">SPELL_SKELETAL_TRANSFORM</a>, <a class="el" href="../../#l02542">SPELL_SUMMON_RAT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02551">SPELL_SKELETAL_TRANSFORM</a>, <a class="el" href="../../#l02552">SPELL_SUMMON_RAT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -462,7 +462,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d87/classspell__q12211__container__of__rats.html">spell_q12211_container_of_rats</a></li>
-    <li class="footer">Generated on Wed Oct 7 2026 12:33:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Oct 8 2026 12:42:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

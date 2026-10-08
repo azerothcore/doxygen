@@ -1,5 +1,14 @@
 var NAVTREEINDEX418 =
 {
+"df/d92/classSpellScript.html#a8fed037db0d56f855c0c8e1e1eed3cd3":[7,0,4529,62],
+"df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895":[7,0,4529,38],
+"df/d92/classSpellScript.html#a94442322faef9f04890b18a421067150":[7,0,4529,51],
+"df/d92/classSpellScript.html#a96ba2eed3fb3e3c62b3d68f3676a7062":[7,0,4529,32],
+"df/d92/classSpellScript.html#a9e6969d15b334394e0a2d4b63234fc01":[7,0,4529,17],
+"df/d92/classSpellScript.html#aacdfd8a471df948a147c97b916d2fa80":[7,0,4529,69],
+"df/d92/classSpellScript.html#ab3f17ad4c7e5d6955ca812c17f6fdb3a":[7,0,4529,23],
+"df/d92/classSpellScript.html#ab477a1d96d30165236840058af3d2f78":[7,0,4529,60],
+"df/d92/classSpellScript.html#ab710c9879074c1fe4eef5101373d6c8e":[7,0,4529,34],
 "df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6":[7,0,4529,59],
 "df/d92/classSpellScript.html#ac0fd1a4f71242c07aee200b98dda1295":[7,0,4529,11],
 "df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e":[7,0,4529,54],
@@ -43,8 +52,8 @@ var NAVTREEINDEX418 =
 "df/d94/classDBCFile_1_1Iterator.html#a3885f293a5dba744603beffbf9f8b640":[7,0,992,1,8],
 "df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,992,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a5a6ff8d913effe13f7b5e25d8224bbd1":[7,0,992,1,2],
-"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,992,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,992,1,0],
+"df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[7,0,992,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,992,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a72733f262c3850fa0a0a51a3bf4e549c":[7,0,992,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[7,0,992,1,5],
@@ -240,14 +249,5 @@ var NAVTREEINDEX418 =
 "df/d9d/classMessageBuffer.html#a3cfe272533d018af34b8e83cf7a05138":[7,0,1550,10],
 "df/d9d/classMessageBuffer.html#a3eff504d5c954e7d5fcaa386bdbf2bb9":[7,0,1550,23],
 "df/d9d/classMessageBuffer.html#a466f6fde17f5a239307cec5ec1fffb6d":[7,0,1550,4],
-"df/d9d/classMessageBuffer.html#a4e1d57cb13b6e270e336a36e21959c94":[7,0,1550,16],
-"df/d9d/classMessageBuffer.html#a5287bc1c7f82e3abcf3ee0d8daf8798b":[7,0,1550,20],
-"df/d9d/classMessageBuffer.html#a5e5827a47181f545590df32ec86100b8":[7,0,1550,2],
-"df/d9d/classMessageBuffer.html#a63e35ae42b261707be96b6366579f141":[7,0,1550,0],
-"df/d9d/classMessageBuffer.html#a729a6f451f90716249a806e5c3a02b9c":[7,0,1550,14],
-"df/d9d/classMessageBuffer.html#a78f07c4d5aaa7d405ddf8ca2c6d39f11":[7,0,1550,9],
-"df/d9d/classMessageBuffer.html#a8a2738459d80d70a1b02a5a93ebad1d4":[7,0,1550,22],
-"df/d9d/classMessageBuffer.html#a8ae995ff5da60ca581e3539a511780be":[7,0,1550,6],
-"df/d9d/classMessageBuffer.html#a92586fdeffb14738acbf8979b5974e6f":[7,0,1550,1],
-"df/d9d/classMessageBuffer.html#a960c58291dd38003298dbcf85d649568":[7,0,1550,11]
+"df/d9d/classMessageBuffer.html#a4e1d57cb13b6e270e336a36e21959c94":[7,0,1550,16]
 };

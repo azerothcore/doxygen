@@ -1,5 +1,10 @@
 var NAVTREEINDEX299 =
 {
+"db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a9b29c6adc599fce7f686640bc94c2974":[8,0,0,0,1,3,9,4,264,0],
+"db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874afbc725830c11ce96213ea8d83ec6b3dd":[8,0,0,0,1,3,9,4,264,2],
+"db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96":[8,0,0,0,1,3,9,4,189],
+"db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96a09a4f94d54da72b35220c9d8711fdd9a":[8,0,0,0,1,3,9,4,189,0],
+"db/d6e/spell__item_8cpp.html#a9206680d9ac44d81dddcca671878b21e":[8,0,0,0,1,3,9,4,171],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19":[8,0,0,0,1,3,9,4,175],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a1db81c4c6f2c0e30e67842ae35bd03df":[8,0,0,0,1,3,9,4,175,0],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a292e4ce388b3e31d2531773dad4c9522":[8,0,0,0,1,3,9,4,175,4],
@@ -209,8 +214,8 @@ var NAVTREEINDEX299 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2579,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[7,0,2579,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2579,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX299 =
 "db/d72/structOutdoorPvPData.html#aaddf1f172211966f5d727e6238889223":[7,0,2396,1],
 "db/d73/classnpc__idol__room__spawner.html":[7,0,1938],
 "db/d73/classnpc__idol__room__spawner.html#a3017caa645e98a7647ec42a43c025624":[7,0,1938,2],
-"db/d73/classnpc__idol__room__spawner.html#ac51fed89c27ebf6ae3cf65ca8909eab1":[7,0,1938,1],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html":[7,0,3477],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html#ad9f4946abaf474e31b518b57e1de5bf1":[7,0,3477,2],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html#adf2825375a332d2829778d2a57c6f511":[7,0,3477,1],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html#ae67afabe644d2e11f85950d02325373a":[7,0,3477,0],
-"db/d73/classspell__q12641__rain__of__darkness.html":[7,0,3972]
+"db/d73/classnpc__idol__room__spawner.html#ac51fed89c27ebf6ae3cf65ca8909eab1":[7,0,1938,1]
 };

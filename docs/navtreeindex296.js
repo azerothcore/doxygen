@@ -1,5 +1,10 @@
 var NAVTREEINDEX296 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaf94214f1df0c82c0a7f57728c66b9f3":[8,0,0,0,1,3,5,0,0,5,10,5],
+"db/d53/boss__prince__taldaram_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3acc4673213e415d0af94b5d7635399c85":[8,0,0,0,1,3,5,0,0,5,10,4],
+"db/d53/boss__prince__taldaram_8cpp.html#a3d2ecebf5f62756e3571412754a3455c":[8,0,0,0,1,3,5,0,0,5,12],
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,0,0,5,7],
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1e75e4729bfd2f856f8d28ac9dc62880":[8,0,0,0,1,3,5,0,0,5,7,1],
 "db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,0,0,5,7,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94":[8,0,0,0,1,3,5,0,0,5,9],
 "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94a455d59e80d18bd8c384c041c38c68b9a":[8,0,0,0,1,3,5,0,0,5,9,1],
@@ -24,8 +29,8 @@ var NAVTREEINDEX296 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3228],
@@ -244,10 +249,5 @@ var NAVTREEINDEX296 =
 "db/d5c/structboss__vezax.html#a1ce855485a7edaace620956cb620ed39":[7,0,784,3],
 "db/d5c/structboss__vezax.html#a44ceea000e547d0e56994e9075a09a52":[7,0,784,8],
 "db/d5c/structboss__vezax.html#a6f7205d1c455cc3344025e28d4eb8ed6":[7,0,784,14],
-"db/d5c/structboss__vezax.html#a7462985f6bd9daeec15d639fc076bbf9":[7,0,784,11],
-"db/d5c/structboss__vezax.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a":[7,0,784,7],
-"db/d5c/structboss__vezax.html#a88331ae2f7cc9625aaf36836abf244f0":[7,0,784,10],
-"db/d5c/structboss__vezax.html#a8e9210793b5b00d81bf5f1a3eb214f29":[7,0,784,0],
-"db/d5c/structboss__vezax.html#ab339f12be1e9da262f6243cfe22908c2":[7,0,784,6],
-"db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[7,0,784,9]
+"db/d5c/structboss__vezax.html#a7462985f6bd9daeec15d639fc076bbf9":[7,0,784,11]
 };

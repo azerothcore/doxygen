@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/d45/structboss__yoggsaron__lich__king.html#aae9e4b456b2bca4a9b43b98419ec60e0":[7,0,817,6],
 "d7/d45/structboss__yoggsaron__lich__king.html#ac7687fe1253701c702cf2c17986727ec":[7,0,817,3],
 "d7/d45/structboss__yoggsaron__lich__king.html#aec4b71c80d6793443145ebe3d1094d1b":[7,0,817,1],
 "d7/d46/classAuraEffect.html":[7,0,295],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/d48/classAreaTrigger__at__stormwright__shelf.html#a97cdf51a8992b3d9edc138351770fd75":[7,0,182,0],
 "d7/d48/classAreaTrigger__at__stormwright__shelf.html#ab635f9328b35f3570211cf6ffc60a4c6":[7,0,182,1],
 "d7/d48/group__Acored.html":[4,0],
-"d7/d48/group__Acored.html#ga0781c2ca38d89a89b174f81fb895285b":[4,0,18],
-"d7/d48/group__Acored.html#ga0a2b971b7ea733d846be71abf7b5dc1d":[4,0,22]
+"d7/d48/group__Acored.html#ga0781c2ca38d89a89b174f81fb895285b":[4,0,18]
 };

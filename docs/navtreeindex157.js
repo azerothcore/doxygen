@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad73e07eee25980f89013a5552d2bbac4":[8,0,0,0,1,2,0,3,4,647],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad79e03a96686e388db97bbdafe0429ce":[8,0,0,0,1,2,0,3,4,93],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad89ae7405a8b059b8f6e6d5c5181e0b0":[8,0,0,0,1,2,0,3,4,404],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ad8a7b05573624ce7bdbe39bd2cedecd2":[8,0,0,0,1,2,0,3,4,68],
@@ -148,10 +149,10 @@ var NAVTREEINDEX157 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[7,0,2466,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[7,0,2466,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2466,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/d79/classCreatureAI.html#a7c039b3df20368e5dc6aca4811ca9084":[7,0,948,35],
 "d5/d79/classCreatureAI.html#a7c9b51cb63fa6d4673a2bcd88cfd0218":[7,0,948,49],
 "d5/d79/classCreatureAI.html#a7cd0b6bf7ee616d4d4e98045f7b808c0":[7,0,948,3],
-"d5/d79/classCreatureAI.html#a7f2469dbb7ee382f35c2a69c70519644":[7,0,948,8],
-"d5/d79/classCreatureAI.html#a7f2ae661d30adaded885764ad0f1df22":[7,0,948,79]
+"d5/d79/classCreatureAI.html#a7f2469dbb7ee382f35c2a69c70519644":[7,0,948,8]
 };

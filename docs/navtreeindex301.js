@@ -1,5 +1,10 @@
 var NAVTREEINDEX301 =
 {
+"db/d81/classspell__item__brewfest__mount__transformation.html":[7,0,3385],
+"db/d81/classspell__item__brewfest__mount__transformation.html#a2081334e6b7a4191801bc0556e26198c":[7,0,3385,3],
+"db/d81/classspell__item__brewfest__mount__transformation.html#a455bdb8fb98431d47b3e414dc3b59b13":[7,0,3385,1],
+"db/d81/classspell__item__brewfest__mount__transformation.html#ac3486a646322ef1b6098eeeedaec7d4b":[7,0,3385,0],
+"db/d81/classspell__item__brewfest__mount__transformation.html#acdade97c38a75439b3da751a0c348e37":[7,0,3385,2],
 "db/d81/structnpc__costumed__orphan__matron.html":[7,0,1757],
 "db/d81/structnpc__costumed__orphan__matron.html#a0b913090588613ac00ea928f6273d56f":[7,0,1757,0],
 "db/d81/structnpc__costumed__orphan__matron.html#a1a9c58c087b8addf8e482375737d6c49":[7,0,1757,4],
@@ -240,14 +245,9 @@ var NAVTREEINDEX301 =
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[8,0,0,0,1,3,5,10,0,4,5,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[7,0,13,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[7,0,13,13,1,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
-"db/d89/classspell__item__dimensional__ripper__area52.html":[7,0,3406],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[7,0,3406,1],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[7,0,3406,0],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a8ae826705bd1a1f1da3160be73926d7b":[7,0,3406,2]
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1]
 };

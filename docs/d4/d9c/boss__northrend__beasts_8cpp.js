@@ -93,6 +93,7 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_ACID_SPEW", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045acf0f83f29d1788e903682e4aa5606697", null ],
       [ "SPELL_PARALYTIC_SPRAY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045aa17807bf3ba127a8dc5368b2ac973acf", null ],
       [ "SPELL_PARALYTIC_BITE", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a4f44e0832aad0a99401ba488cc2b9f06", null ],
+      [ "SPELL_PARALYSIS", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a62b62ee700c42cd4b681146f102a4592", null ],
       [ "SPELL_FIRE_SPIT", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a09ffd595d81d3f718944f892db4ead8a", null ],
       [ "SPELL_MOLTEN_SPEW", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045ac88dea777da96569095f8cd8dccf4987", null ],
       [ "SPELL_BURNING_SPRAY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a2f44d2764aa3ce270006ff6753cd132f", null ],

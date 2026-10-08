@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d8/d62/structLoot.html#abd4cc7342992c427dcb39ac07f4dee79":[7,0,1495,26],
 "d8/d62/structLoot.html#ac1fd68f855cfa84d822a5942d1288b92":[7,0,1495,9],
 "d8/d62/structLoot.html#ac60d37c9b93ff3c1efa307366477fc49":[7,0,1495,15],
 "d8/d62/structLoot.html#acae1055ea6bb51939e5d636c8e8865be":[7,0,1495,8],
@@ -96,8 +97,8 @@ var NAVTREEINDEX230 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
 "d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,465],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,465,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,465,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d74/classWorldSession.html#a042ad75b067904a2ee258408ced305f5":[4,1,20,582],
 "d8/d74/classWorldSession.html#a04a5f9b5a91dfc9d941012059747ea78":[4,1,20,191],
 "d8/d74/classWorldSession.html#a04af7724961852c3db2888246d8b4a02":[4,1,20,199],
-"d8/d74/classWorldSession.html#a05e19d366ae4a9bcc0639cdbafc46a67":[4,1,20,197],
-"d8/d74/classWorldSession.html#a0604fb7ec96f44bb3cf67ed367d517d8":[4,1,20,639]
+"d8/d74/classWorldSession.html#a05e19d366ae4a9bcc0639cdbafc46a67":[4,1,20,197]
 };

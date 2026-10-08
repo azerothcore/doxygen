@@ -1,5 +1,6 @@
 var NAVTREEINDEX234 =
 {
+"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a3282eb4c27b4256705bba47f4934c9b8":[7,0,3580,0],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a5493864b068de82015bc157f3d0899b3":[7,0,3580,4],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a57b42bf7b94ef5b23092ed097ce016e8":[7,0,3580,3],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a6083e35b4289b8a960dd6b223e1d02b5":[7,0,3580,2],
@@ -242,12 +243,11 @@ var NAVTREEINDEX234 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4655,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4655,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4655,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,34,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,34,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,34,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
-"d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
-"d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,586,1]
+"d8/d87/classboss__kelthuzad__minion.html":[7,0,586]
 };

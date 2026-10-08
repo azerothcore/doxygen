@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a6ccb842221cb4a4869f7cff6dd1825":[8,0,0,0,1,3,2,1,3,11,4,0],
 "d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa8d15b3ba7f9959111bc0fa87eafbda0":[8,0,0,0,1,3,2,1,3,11,4,1],
 "d6/d38/molten__core_8cpp.html#ad31dc1d2e5e18b7598a1b8d917a0c538":[8,0,0,0,1,3,2,1,3,11,5],
 "d6/d39/HolidayDateCalculator_8h.html":[8,0,0,0,1,2,17,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d41/classAchievementScript.html#afac6fc03c2ba91165fbdf2ccc5422063":[7,0,127,5],
 "d6/d41/classAppenderConsole.html":[7,0,162],
 "d6/d41/classAppenderConsole.html#a172563f34a7277f7afb05354c8fbeb1f":[7,0,162,6],
-"d6/d41/classAppenderConsole.html#a1a4deceeafc9a111a519ea55dc646266":[7,0,162,3],
-"d6/d41/classAppenderConsole.html#a4a3e55c9229947a25d4191bbfa348bf5":[7,0,162,4]
+"d6/d41/classAppenderConsole.html#a1a4deceeafc9a111a519ea55dc646266":[7,0,162,3]
 };

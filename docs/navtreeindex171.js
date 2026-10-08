@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"d5/dfb/classObjectMgr.html#a89b707cba2b6326c537279042b5db698":[7,0,2365,423],
 "d5/dfb/classObjectMgr.html#a8a7bac33808f4e1b437349d6f36d7a9b":[7,0,2365,267],
 "d5/dfb/classObjectMgr.html#a8b430ec18c774605982a6fe18dcffad4":[7,0,2365,185],
 "d5/dfb/classObjectMgr.html#a8bf3b4e7ffff2b0e4e4cc162ca9e01b7":[7,0,2365,4],
@@ -247,7 +248,6 @@ var NAVTREEINDEX171 =
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[7,0,24,4],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[7,0,24,7],
 "d5/dfc/classaccount__commandscript.html#afba345af5a9da1ff68c7333015730ef3":[7,0,24,11],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0]
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21]
 };

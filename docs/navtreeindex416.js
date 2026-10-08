@@ -1,5 +1,14 @@
 var NAVTREEINDEX416 =
 {
+"df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[7,0,297,1],
+"df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[7,0,297,4],
+"df/d7b/classAuraMunchingQueue.html#abf9787bcfa9393619ffebe2ad7b5cd46":[7,0,297,0],
+"df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[7,0,297,2],
+"df/d7b/structQuestGreeting.html":[7,0,2520],
+"df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[7,0,2520,0],
+"df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[7,0,2520,2],
+"df/d7b/structQuestGreeting.html#aa5189cb250b3f46086ecd69dee23414b":[7,0,2520,1],
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[7,0,4315],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[7,0,4315,0],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[7,0,4315,2],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[7,0,4315,1],
@@ -107,10 +116,10 @@ var NAVTREEINDEX416 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[7,0,444,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[7,0,444,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,444,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[7,0,13,6,36,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX416 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa32e6575cbf2a6f4bfb46f03fa49b2221":[8,0,0,0,1,3,5,9,2,4,18,23],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa38527fd67d11924c98159bfa0376ac24":[8,0,0,0,1,3,5,9,2,4,18,19],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa3ae99a51ed2618b3ce5c77c482224187":[8,0,0,0,1,3,5,9,2,4,18,54],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa3fda80ece30e254774aa8ab14d7a7b62":[8,0,0,0,1,3,5,9,2,4,18,6],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa47e706c36f3189c00ea319ed4d51579d":[8,0,0,0,1,3,5,9,2,4,18,10],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd":[8,0,0,0,1,3,5,9,2,4,18,20],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa4b7830d58a83824024cc0d2cd3b779c0":[8,0,0,0,1,3,5,9,2,4,18,30],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5004ead7d84f464111d734fde5d4d996":[8,0,0,0,1,3,5,9,2,4,18,11],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa518bb1f7cd229aef111bb9866775a028":[8,0,0,0,1,3,5,9,2,4,18,34],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa52dea58a3cd884f74f9624e46ad88752":[8,0,0,0,1,3,5,9,2,4,18,8],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[8,0,0,0,1,3,5,9,2,4,18,27],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[8,0,0,0,1,3,5,9,2,4,18,1],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa65824e8e66e216b688c78a6275c150f5":[8,0,0,0,1,3,5,9,2,4,18,2]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa3fda80ece30e254774aa8ab14d7a7b62":[8,0,0,0,1,3,5,9,2,4,18,6]
 };

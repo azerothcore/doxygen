@@ -1,5 +1,10 @@
 var NAVTREEINDEX261 =
 {
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html":[7,0,3353],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a09124a4351930a35e33359e95ca88580":[7,0,3353,0],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc":[7,0,3353,3],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33":[7,0,3353,1],
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a8b59d3d74816b41a65f9c5bd07226c4e":[7,0,3353,2],
 "d9/df1/boss__janalai_8cpp.html":[8,0,0,0,1,3,2,14,3],
 "d9/df1/boss__janalai_8cpp.html#a0362deeacd0c39b290ca98de0b89582d":[8,0,0,0,1,3,2,14,3,9],
 "d9/df1/boss__janalai_8cpp.html#a061bbdeafe4381030cccbc295b3074ca":[8,0,0,0,1,3,2,14,3,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX261 =
 "d9/df7/classConditionMgr.html#a6f86dcf2e04de63376659333f5b7acce":[7,0,919,11],
 "d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1":[7,0,919,32],
 "d9/df7/classConditionMgr.html#a8133a3ac114b90d848ea66f9e1b2ebbc":[7,0,919,14],
-"d9/df7/classConditionMgr.html#a993f1d2d7ba890a60072e076a880c75e":[7,0,919,0],
-"d9/df7/classConditionMgr.html#a99dad9182b2e88287f8e11b34ad66dd4":[7,0,919,23],
-"d9/df7/classConditionMgr.html#a9a9bd1def0e00fe3f325ac8849ff51d5":[7,0,919,29],
-"d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183":[7,0,919,28],
-"d9/df7/classConditionMgr.html#ab72928f9040bb4304539d39b8a481ac0":[7,0,919,7],
-"d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34":[7,0,919,27]
+"d9/df7/classConditionMgr.html#a993f1d2d7ba890a60072e076a880c75e":[7,0,919,0]
 };

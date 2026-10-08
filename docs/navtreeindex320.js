@@ -1,5 +1,14 @@
 var NAVTREEINDEX320 =
 {
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf28304a56c6ff613e36c3c641ea7da37":[8,0,0,0,1,3,7,4,2,0,8,0],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,4,2,0,11],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,4,2,0,11,5],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a24b88fffa83116640b9dcfd4596553da":[8,0,0,0,1,3,7,4,2,0,11,3],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a27368277122194007f925387131a1eb9":[8,0,0,0,1,3,7,4,2,0,11,1],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5461412b384205358aa84ef0f5a2ab02":[8,0,0,0,1,3,7,4,2,0,11,4],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,4,2,0,11,2],
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,7,4,2,0,11,0],
+"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,4,2,0,10],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,7,4,2,0,10,2],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e06885b4e559bc0ea44ce31f6a4c4a8":[8,0,0,0,1,3,7,4,2,0,10,0],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f3862c0f3bd64b8ac636659f1dc59af":[8,0,0,0,1,3,7,4,2,0,10,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a28477c5f88b5ec77dc3e021ec01401ce":[7,0,2103,0,0],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a32d9b6bd2f0b994adb33e2bd99dd34ce":[7,0,2103,0,1],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a91277c41ddebffed7e9dac7098cd78bd":[7,0,2103,0,3],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[7,0,2103,0,2],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html":[7,0,3012],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a14e392760361b95578bc95de10cdd8aa":[7,0,3012,0],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a1746786ad6daaac11aefd32e00c8d1ea":[7,0,3012,4],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a8bb53a933c5a2ec33966c6acd1a6da65":[7,0,3012,2],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#ac2105e66f692c6a991ac9190b1901505":[7,0,3012,3],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#afbf6d0ee66d192a81ed12f2e28e195f1":[7,0,3012,1],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html":[7,0,686,0],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a06f80f3eac58b1cdc800bd4174244af5":[7,0,686,0,13],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a1c80a6d94af3ed794c25351484ae08ac":[7,0,686,0,11]
+"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[7,0,2103,0,2]
 };

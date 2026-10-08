@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/db2/BattlegroundWS_8h.html#afb194929fa7fa28ba1362df96d98f48ca40a02f455e9bb74cef1f2955d86d2f7a":[8,0,0,0,1,2,8,1,21,6,1],
 "d5/db2/BattlegroundWS_8h.html#afb194929fa7fa28ba1362df96d98f48caabc7b651d7611a592759d4c5bd37cdfe":[8,0,0,0,1,2,8,1,21,6,3],
 "d5/db2/BattlegroundWS_8h.html#aff703fcdbd9a08b60b657ec15a583a3a":[8,0,0,0,1,2,8,1,21,16],
 "d5/db3/CreatureGroups_8h.html":[8,0,0,0,1,2,16,1,4],
@@ -148,10 +149,10 @@ var NAVTREEINDEX163 =
 "d5/db6/classWheatyExceptionReport.html#af409d23f5514537a3d03366b2396bc6d":[7,0,4707,25],
 "d5/db6/classWheatyExceptionReport.html#af860540fede8645416fb4c46bb7ea4c2":[7,0,4707,24],
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4707,35],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbf":[8,0,0,0,1,2,8,6,4],
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e":[8,0,0,0,1,2,8,6,4,0],
 "d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990":[8,0,0,0,1,2,8,6,4,2],
-"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240":[8,0,0,0,1,2,8,6,4,1],
-"d5/dba/classspell__magtheridon__shadow__grasp__visual.html":[7,0,3666]
+"d5/dba/ArenaTeam_8h.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240":[8,0,0,0,1,2,8,6,4,1]
 };

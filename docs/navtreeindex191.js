@@ -1,5 +1,6 @@
 var NAVTREEINDEX191 =
 {
+"d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503a7aad8d11a3be0b5a3eb37212a8e2c3a1":[8,0,0,0,1,3,3,6,22,0],
 "d6/dba/midsummer_8cpp.html#a73463c70074ccf447c19b49fe6272503ab760b1cabd3f1be9752d9346929b67c0":[8,0,0,0,1,3,3,6,22,3],
 "d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8":[8,0,0,0,1,3,3,6,21],
 "d6/dba/midsummer_8cpp.html#a7ab184578dd394f6afeb86b5811f73f8a0742582fb100a048256a524bf04d7f41":[8,0,0,0,1,3,3,6,21,26],
@@ -112,10 +113,10 @@ var NAVTREEINDEX191 =
 "d6/dbf/classspell__malygos__surge__of__power__25.html#a6beccd163ab8442a1ed39c553716cb73":[7,0,3669,0],
 "d6/dbf/classspell__malygos__surge__of__power__25.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e":[7,0,3669,3],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html":[7,0,3929],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[7,0,3929,0],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[7,0,3929,3],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[7,0,3929,2],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[7,0,3929,1],
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#ab8b37bc08a05d5369ce6ecdfd835404c":[7,0,3929,0],
 "d6/dbf/structInstancePlayerBind.html":[7,0,1406],
 "d6/dbf/structInstancePlayerBind.html#a24ef1e0e0a38033a16b697c32e3d8234":[7,0,1406,3],
 "d6/dbf/structInstancePlayerBind.html#a9327f62b74eea3a1a525b2fec6d90b69":[7,0,1406,1],
@@ -157,8 +158,8 @@ var NAVTREEINDEX191 =
 "d6/dc2/classFileLoader.html":[7,0,1080],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[7,0,1080,1],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[7,0,1080,3],
-"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[7,0,1080,11],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[7,0,1080,10],
+"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[7,0,1080,11],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[7,0,1080,8],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[7,0,1080,9],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[7,0,1080,15],
@@ -209,14 +210,14 @@ var NAVTREEINDEX191 =
 "d6/dc6/classitem__mysterious__egg.html#ac32e296dcb700f32f6d0296f2921e6c7":[7,0,1423,0],
 "d6/dc7/classAcore_1_1GeneralLock.html":[7,0,0,62],
 "d6/dc7/classAcore_1_1GeneralLock.html":[5,0,0,74],
-"d6/dc7/classAcore_1_1GeneralLock.html#a1ebc4e65340c1e6d46fd7e4c7f5d6e3d":[7,0,0,62,3],
 "d6/dc7/classAcore_1_1GeneralLock.html#a1ebc4e65340c1e6d46fd7e4c7f5d6e3d":[5,0,0,74,3],
+"d6/dc7/classAcore_1_1GeneralLock.html#a1ebc4e65340c1e6d46fd7e4c7f5d6e3d":[7,0,0,62,3],
 "d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[7,0,0,62,1],
 "d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[5,0,0,74,1],
 "d6/dc7/classAcore_1_1GeneralLock.html#a61e310a8f98eb22f31ed378992bbb0c0":[7,0,0,62,2],
 "d6/dc7/classAcore_1_1GeneralLock.html#a61e310a8f98eb22f31ed378992bbb0c0":[5,0,0,74,2],
-"d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[7,0,0,62,4],
 "d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[5,0,0,74,4],
+"d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[7,0,0,62,4],
 "d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[7,0,0,62,0],
 "d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[5,0,0,74,0],
 "d6/dc7/classCreatureGroup.html":[7,0,955],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333":[7,0,955,23],
 "d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html":[7,0,2413],
 "d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html#a42ac77b81d5280c7f1c54991649ab501":[7,0,2413,1],
-"d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html#a7ca20eda3de42ab35ef45c56f1d6d73e":[7,0,2413,0],
-"d6/dc7/classspell__gen__av__drekthar__presence.html":[7,0,3035]
+"d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html#a7ca20eda3de42ab35ef45c56f1d6d73e":[7,0,2413,0]
 };

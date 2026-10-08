@@ -1,5 +1,10 @@
 var NAVTREEINDEX312 =
 {
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a897e72a4bf279607903bce58a5a45c6f":[7,0,2074,2],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a8a7dd73d9d3af5ca00998735e45ee7e8":[7,0,2074,9],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9c89972cde36f3d2b5686485f0e2905f":[7,0,2074,8],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9df25627a92b8914ab8009be099f15d4":[7,0,2074,0],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#ae57f97ca9a08353e8ec8ebfadbd51541":[7,0,2074,12],
 "db/dd4/structLocationXYZ.html":[7,0,1483],
 "db/dd4/structLocationXYZ.html#a3e2454dd579de689289003a343e7f29c":[7,0,1483,1],
 "db/dd4/structLocationXYZ.html#a4fbcf991d732545b4f9c19689ff9d805":[7,0,1483,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd5/classCreature.html#aa7f97b97742ff6d16381210a308494bf":[7,0,945,167],
 "db/dd5/classCreature.html#aa8a50e4ad6c377c87844b6db31c1489f":[7,0,945,199],
 "db/dd5/classCreature.html#aa910ed7a97488827b459b9d69887959f":[7,0,945,172],
-"db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080":[7,0,945,331],
-"db/dd5/classCreature.html#aab3f7b482f76f375c1cceb9ef087fb72":[7,0,945,254],
-"db/dd5/classCreature.html#aac094f3afa9cbb202f7a6e42c23122b1":[7,0,945,190],
-"db/dd5/classCreature.html#aad6252e11167d5ebb641460525cb8de6":[7,0,945,296],
-"db/dd5/classCreature.html#aad86470956fa645f58e4c2a3d87b60d6":[7,0,945,271],
-"db/dd5/classCreature.html#aae0c26e553c775e9155cf7a4807f1ee4":[7,0,945,156]
+"db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080":[7,0,945,331]
 };

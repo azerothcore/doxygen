@@ -1,5 +1,10 @@
 var NAVTREEINDEX266 =
 {
+"da/d07/classByteBuffer.html#a00350606ebe9f3febcede0679367b2a7":[7,0,844,20],
+"da/d07/classByteBuffer.html#a00ca375ab87d05aee2a7444265664623":[7,0,844,8],
+"da/d07/classByteBuffer.html#a0736aaa59564526e948667e4c5178d66":[7,0,844,56],
+"da/d07/classByteBuffer.html#a0906d52f1f309a482e0bc18ba853beae":[7,0,844,4],
+"da/d07/classByteBuffer.html#a0be375370879a95ef6ec68cc8916ab61":[7,0,844,71],
 "da/d07/classByteBuffer.html#a0cd006e3d269e68f472f9c4d5590567b":[7,0,844,54],
 "da/d07/classByteBuffer.html#a0d8be0376e6b2a6e74821d0dc471f9fd":[7,0,844,31],
 "da/d07/classByteBuffer.html#a11e4079a2e77e3869d43e693d43fecc9":[7,0,844,41],
@@ -244,10 +249,5 @@ var NAVTREEINDEX266 =
 "da/d11/classgo__ravager__cage.html":[7,0,1210],
 "da/d11/classgo__ravager__cage.html#a632c767a4ab0075ee40d40e977fe7c18":[7,0,1210,0],
 "da/d11/classgo__ravager__cage.html#a83c9086cefea0d6d11a5de7a781d84db":[7,0,1210,1],
-"da/d12/KillRewarder_8h.html":[8,0,0,0,1,2,16,7,3],
-"da/d15/classOpcodeHandler.html":[4,1,6],
-"da/d15/classSpellScript_1_1EffectHandler.html":[7,0,4529,4],
-"da/d15/classSpellScript_1_1EffectHandler.html#a5b583dc87f0146f06c9a38a5db92f4fb":[7,0,4529,4,3],
-"da/d15/classSpellScript_1_1EffectHandler.html#a7696d64688fa8b10cd58220fdd5fa5ba":[7,0,4529,4,1],
-"da/d15/classSpellScript_1_1EffectHandler.html#a88fbf00b2e35c462423ddeff55ac3dee":[7,0,4529,4,4]
+"da/d12/KillRewarder_8h.html":[8,0,0,0,1,2,16,7,3]
 };

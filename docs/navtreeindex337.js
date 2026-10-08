@@ -1,5 +1,14 @@
 var NAVTREEINDEX337 =
 {
+"dc/db1/classspell__gen__mount.html#accef27fc13ff34af52860ad6ac62e7f3":[7,0,3115,4],
+"dc/db2/SpellScript_8h.html":[8,0,0,0,1,2,41,11],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236":[8,0,0,0,1,2,41,11,72],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a01bccb65044d0e5ccab470539e8a71a3":[8,0,0,0,1,2,41,11,72,7],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a0905d7f2def92251e0ebe8ab5bdc4221":[8,0,0,0,1,2,41,11,72,18],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a12c382920aa6890efbc36805fc32e25a":[8,0,0,0,1,2,41,11,72,6],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a1794d2594c7b6dfe59a79a48aba6f142":[8,0,0,0,1,2,41,11,72,2],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a2ef312bd29f036eb8b15fedd4d2bc082":[8,0,0,0,1,2,41,11,72,12],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a35f3fc9519440c5f846a1cb2789706df":[8,0,0,0,1,2,41,11,72,20],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a3d296fe0adb2f6f3c0ae690ef48e0626":[8,0,0,0,1,2,41,11,72,1],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a419d135d3d232ceabcb89fba6b5cc2b1":[8,0,0,0,1,2,41,11,72,3],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a4bfd62ef873930a2ed1f6da09b85296d":[8,0,0,0,1,2,41,11,72,24],
@@ -240,14 +249,5 @@ var NAVTREEINDEX337 =
 "dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[7,0,2403,2],
 "dc/db7/classOutdoorPvPSI.html#a81f4362ece83f37f14471926e9a85fb3":[7,0,2403,10],
 "dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[7,0,2403,0],
-"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[7,0,2403,4],
-"dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[7,0,2403,6],
-"dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[7,0,2403,7],
-"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[7,0,2403,11],
-"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[7,0,2403,12],
-"dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[7,0,2403,5],
-"dc/db8/classspell__dk__necrosis.html":[7,0,2859],
-"dc/db8/classspell__dk__necrosis.html#a1b2746e9013ecfbbc112d74a9229719f":[7,0,2859,0],
-"dc/db8/classspell__dk__necrosis.html#a3867a6c8278dc85b3a429652a7b5e81c":[7,0,2859,2],
-"dc/db8/classspell__dk__necrosis.html#ab38f961abbef4271df4ddce139d890df":[7,0,2859,3]
+"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[7,0,2403,4]
 };

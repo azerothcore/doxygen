@@ -1,5 +1,6 @@
 var NAVTREEINDEX204 =
 {
+"d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ab22f46e2514c10ce0e8141b3f69f069d":[7,0,410,0,1],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#abe2e7188e33e70d52ab1985f821fa9c5":[7,0,410,0,9],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ac188db2a727e2fb3c411f8616f8a2f41":[7,0,410,0,2],
 "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#adaf6cb6ab81a461b202d40900b4b744c":[7,0,410,0,0],
@@ -172,10 +173,10 @@ var NAVTREEINDEX204 =
 "d7/d61/classFactoryCreatureScript.html":[7,0,1072],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[7,0,1072,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1072,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[7,0,13,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[8,0,0,0,1,3,2,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d65/structboss__attumen.html":[7,0,404],
 "d7/d65/structboss__attumen.html#a0b426b760d9ace05211c3383e7628022":[7,0,404,1],
 "d7/d65/structboss__attumen.html#a1181ae1d50d6c52483b0d90423997c90":[7,0,404,10],
-"d7/d65/structboss__attumen.html#a1fa6827c323cbda15e2a438bc376e74c":[7,0,404,4],
-"d7/d65/structboss__attumen.html#a375a95d46f8db8a53ea6420dd557855e":[7,0,404,5]
+"d7/d65/structboss__attumen.html#a1fa6827c323cbda15e2a438bc376e74c":[7,0,404,4]
 };

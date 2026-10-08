@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d7/df0/classspell__dk__pvp__4p__bonus.html#a87166b872450132de96835524b5857c7":[7,0,2863,2],
 "d7/df0/classspell__dk__pvp__4p__bonus.html#a8d3a6b0496c725872d8e66f804bd8c96":[7,0,2863,4],
 "d7/df0/classspell__putricide__clear__aura__effect__value.html":[7,0,3880],
 "d7/df0/classspell__putricide__clear__aura__effect__value.html#a5a4e7d674c09ebbbc9d918cf877418a3":[7,0,3880,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a173b63ea34c74cbf4a8fd38ccb6942fd":[8,0,0,0,1,2,16,10,6,6,10],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a38b391ce0cbca4e1c71a7f7620771a4d":[8,0,0,0,1,2,16,10,6,6,12],
 "d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a48eb20168813c473d88eae27250bed11":[8,0,0,0,1,2,16,10,6,6,9],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a619c1df91b6ffdf4c15a7e9ca270d5d5":[8,0,0,0,1,2,16,10,6,6,15],
-"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a6da108929d54e325682dc8b9012d1e41":[8,0,0,0,1,2,16,10,6,6,8]
+"d7/df1/UnitDefines_8h.html#abd3301c9c257268b6730f3528b199d89a619c1df91b6ffdf4c15a7e9ca270d5d5":[8,0,0,0,1,2,16,10,6,6,15]
 };

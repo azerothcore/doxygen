@@ -1,5 +1,10 @@
 var NAVTREEINDEX290 =
 {
+"da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d":[8,0,0,0,1,3,5,9,2,2,9,0],
+"da/df9/boss__auriaya_8cpp.html#a8f90adeb34952ff3a402f1710f681580":[8,0,0,0,1,3,5,9,2,2,14],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,9,2,2,13],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0380f4999e3cfa0a0930f2191ff6b22c":[8,0,0,0,1,3,5,9,2,2,13,4],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,2,2,13,0],
 "da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a532dda2af249d6245366a455505ac407":[8,0,0,0,1,3,5,9,2,2,13,3],
 "da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73da65945074f762b356139feae3bd5a":[8,0,0,0,1,3,5,9,2,2,13,5],
 "da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,2,2,13,1],
@@ -147,16 +152,16 @@ var NAVTREEINDEX290 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[8,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[8,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[8,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,0,105],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[7,0,0,93,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,0,105,3],
 "db/d03/classspell__gen__model__visible.html":[7,0,3113],
 "db/d03/classspell__gen__model__visible.html#a1527c59b43a26db344e5a4d2900ea9b0":[7,0,3113,2],
 "db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b":[7,0,3113,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX290 =
 "db/d0b/TerrainBuilder_8h.html#a32c90e1638c0f8693e2fc95201d2ec3f":[8,0,0,0,3,2,9,10],
 "db/d0b/TerrainBuilder_8h.html#a39bc2d4fa649e77addef85b06c49b369":[8,0,0,0,3,2,9,4],
 "db/d0b/TerrainBuilder_8h.html#a44bbf7085ddd1deacaae673ea4ec357c":[8,0,0,0,3,2,9,6],
-"db/d0b/TerrainBuilder_8h.html#a6918d13eba00db309998162fbff2fb7c":[8,0,0,0,3,2,9,8],
-"db/d0b/TerrainBuilder_8h.html#a6ddcf7a168396ad1ecedfc4e5fe04c09":[8,0,0,0,3,2,9,2],
-"db/d0b/TerrainBuilder_8h.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b":[8,0,0,0,3,2,9,2,0],
-"db/d0b/TerrainBuilder_8h.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289":[8,0,0,0,3,2,9,2,1],
-"db/d0b/TerrainBuilder_8h.html#a7eb8c24e8759cfd1ebd37b1efc72618b":[8,0,0,0,3,2,9,11],
-"db/d0b/TerrainBuilder_8h.html#a94a0ee7c4f225dfc488737a7ba825bae":[8,0,0,0,3,2,9,9]
+"db/d0b/TerrainBuilder_8h.html#a6918d13eba00db309998162fbff2fb7c":[8,0,0,0,3,2,9,8]
 };

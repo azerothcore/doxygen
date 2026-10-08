@@ -128,8 +128,8 @@ Inheritance diagram for spell_q11026_a11051_banish_the_demons_aura:</div>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:aa31810077c241e77193e378cb297b7de" id="r_aa31810077c241e77193e378cb297b7de"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de">PrepareAuraScript</a> (<a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html">spell_q11026_a11051_banish_the_demons_aura</a>) void HandleEffectRemove(<a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> const *</td></tr>
 <tr class="separator:aa31810077c241e77193e378cb297b7de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b5a85e480bcd0ef5074d3bcf7eaf5cb" id="r_a2b5a85e480bcd0ef5074d3bcf7eaf5cb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb">if</a> (ar &amp;&amp;!ar-&gt;IsAlive()) ar -&gt; CastSpell(ar, 40828, true)</td></tr>
-<tr class="separator:a2b5a85e480bcd0ef5074d3bcf7eaf5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8b37bc08a05d5369ce6ecdfd835404c" id="r_ab8b37bc08a05d5369ce6ecdfd835404c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#ab8b37bc08a05d5369ce6ecdfd835404c">if</a> (ar &amp;&amp;!ar-&gt;IsAlive()) ar -&gt; CastSpell(ar, <a class="el" href="../../db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a448ddbd9a5b2677f28d7bb80be6e8ae5">SPELL_BANISH_KILL_CREDIT</a>, true)</td></tr>
+<tr class="separator:ab8b37bc08a05d5369ce6ecdfd835404c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b8f537719a4155d1cd95a6f49cf6a3a" id="r_a7b8f537719a4155d1cd95a6f49cf6a3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a">Register</a> () override</td></tr>
 <tr class="separator:a7b8f537719a4155d1cd95a6f49cf6a3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -309,8 +309,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a2b5a85e480bcd0ef5074d3bcf7eaf5cb" name="a2b5a85e480bcd0ef5074d3bcf7eaf5cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b5a85e480bcd0ef5074d3bcf7eaf5cb">&#9670;&#160;</a></span>if()</h2>
+<a id="ab8b37bc08a05d5369ce6ecdfd835404c" name="ab8b37bc08a05d5369ce6ecdfd835404c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8b37bc08a05d5369ce6ecdfd835404c">&#9670;&#160;</a></span>if()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -323,7 +323,7 @@ Additional Inherited Members</h2></td></tr>
           <td>(</td>
           <td class="paramtype">ar &amp;&amp;!ar-&gt;&#160;</td>
           <td class="paramname"><em>IsAlive</em>()</td><td>)</td>
-          <td> -&gt;  CastSpell(ar, 40828, true)</td>
+          <td> -&gt;  CastSpell(ar, <a class="el" href="../../db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a448ddbd9a5b2677f28d7bb80be6e8ae5">SPELL_BANISH_KILL_CREDIT</a>, true)</td>
         </tr>
       </table>
   </td>
@@ -385,19 +385,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  244</span>    {</div>
-<div class="line"><span class="lineno">  245</span>        <span class="comment">// aura spell only</span></div>
-<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">m_scriptSpellId</a> == 40825)</div>
-<div class="line"><span class="lineno">  247</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(spell_q11026_a11051_banish_the_demons_aura::HandleEffectRemove, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  248</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  251</span>    {</div>
+<div class="line"><span class="lineno">  252</span>        <span class="comment">// aura spell only</span></div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">m_scriptSpellId</a> == <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a5bfde1e1e2502ce95282e7fcbd0f323c">SPELL_BANISHMENT</a>)</div>
+<div class="line"><span class="lineno">  254</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(spell_q11026_a11051_banish_the_demons_aura::HandleEffectRemove, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  255</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:761</div></div>
 <div class="ttc" id="aclass__SpellScript_html_ae2ab4203d324b2179ad06ffdb5d8626f"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">_SpellScript::m_scriptSpellId</a></div><div class="ttdeci">uint32 m_scriptSpellId</div><div class="ttdef"><b>Definition</b> SpellScript.h:107</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_aa1123bd73d3f71c469353a4b082c1428a5bfde1e1e2502ce95282e7fcbd0f323c"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a5bfde1e1e2502ce95282e7fcbd0f323c">SPELL_BANISHMENT</a></div><div class="ttdeci">@ SPELL_BANISHMENT</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:234</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00107">_SpellScript::m_scriptSpellId</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00107">_SpellScript::m_scriptSpellId</a>, <a class="el" href="../../#l00761">AuraScript::OnEffectRemove</a>, <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>, and <a class="el" href="../../#l00234">SPELL_BANISHMENT</a>.</p>
 
 </div>
 </div>
@@ -437,7 +438,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html">spell_q11026_a11051_banish_the_demons_aura</a></li>
-    <li class="footer">Generated on Wed Oct 7 2026 12:33:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Oct 8 2026 12:42:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

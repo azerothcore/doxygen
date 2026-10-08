@@ -1,5 +1,10 @@
 var NAVTREEINDEX277 =
 {
+"da/d7e/classMapGrid.html#addd3c1c8a2093380c305d0d22daeb12a":[7,0,1535,20],
+"da/d7e/classMapGrid.html#ade4a2ad0726ab6a45fae7ac4aa261b5b":[7,0,1535,0],
+"da/d7e/classMapGrid.html#ae103a04e02748031619fae50906a1385":[7,0,1535,1],
+"da/d7e/classMapGrid.html#af342e8785feea680c8c7438cce7b5798":[7,0,1535,4],
+"da/d7e/classMapGrid.html#afb20d5812d84229b9afd77527e111fd0":[7,0,1535,11],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html":[7,0,3190],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[7,0,3190,1],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html#a5f30f2af73eae022b9596939b2f88c0b":[7,0,3190,0],
@@ -171,14 +176,14 @@ var NAVTREEINDEX277 =
 "da/d82/structDestructibleModelDataEntry.html#a84d606d69c51f5e1fdecf9bc0f5705be":[7,0,1013,0],
 "da/d82/structDestructibleModelDataEntry.html#aa4e1e6be7b5b1d15872fb310c1c299af":[7,0,1013,3],
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[7,0,1013,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[7,0,13,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,34,8,15],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[7,0,13,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[7,0,13,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
 "da/d83/magtheridons__lair_8h.html":[8,0,0,0,1,3,7,4,2,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX277 =
 "da/d86/AuraScriptTestFramework_8h.html#ad89bc4ac2d1077d7e73a7e08336ff303":[8,0,0,0,2,1,0,5],
 "da/d86/classspell__toc5__light__rain.html":[7,0,4285],
 "da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[7,0,4285,2],
-"da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3":[7,0,4285,0],
-"da/d86/classspell__toc5__light__rain.html#a697a52cbc50eafd2b0377621afb01557":[7,0,4285,1],
-"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html":[7,0,13,14,3],
-"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html":[5,0,34,14,3],
-"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a802f7bba88a650bc577cfc1fa29cb016":[5,0,34,14,3,0],
-"da/d87/classWorldPackets_1_1Quest_1_1QuestGiverQuestAutoLaunch.html#a802f7bba88a650bc577cfc1fa29cb016":[7,0,13,14,3,0]
+"da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3":[7,0,4285,0]
 };

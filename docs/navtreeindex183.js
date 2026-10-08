@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8058a1f18fd6afa598c118a12fe3f5b":[8,0,0,0,1,3,2,1,1,8,2,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec483c5dc4dd347726124f4364c7fffd":[8,0,0,0,1,3,2,1,1,8,2,6],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af100daf144a67fd9bd07604a8e75d395":[8,0,0,0,1,3,2,1,1,8,2,9],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af157e05094349065a07b2a4d620511cc":[8,0,0,0,1,3,2,1,1,8,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d6b/structnpc__sunblade__scout.html#ae06c1d7b43cc170f3a3b5f4835822d57":[7,0,2205,4],
 "d6/d6b/structnpc__sunblade__scout.html#ae4ca796fa8fd4aae6ac8f184638b3f97":[7,0,2205,3],
 "d6/d6d/classnpc__isle__of__conquest__turret.html":[7,0,1956],
-"d6/d6d/classnpc__isle__of__conquest__turret.html#a0f532e12439e900b3cb77619f1ecd17d":[7,0,1956,2],
-"d6/d6d/classnpc__isle__of__conquest__turret.html#ac080845203adef25e6841133b7e2f4dc":[7,0,1956,1]
+"d6/d6d/classnpc__isle__of__conquest__turret.html#a0f532e12439e900b3cb77619f1ecd17d":[7,0,1956,2]
 };

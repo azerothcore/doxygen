@@ -86,6 +86,11 @@ var spell__quest_8cpp =
       [ "AREA_RIVERSHEART", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2fa84a7b8eeabf61348454b3a68abc7df2c", null ],
       [ "AREA_WINTERGRASPRIVER", "db/dfb/spell__quest_8cpp.html#ac8ab77590b81d4f8fcd4f45eb397bb2fac10e7182cadc8a6269fa368d57f33bff", null ]
     ] ],
+    [ "BanishTheDemons", "db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428", [
+      [ "SPELL_BANISHMENT", "db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a5bfde1e1e2502ce95282e7fcbd0f323c", null ],
+      [ "SPELL_BANISH_KILL_CREDIT", "db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428a448ddbd9a5b2677f28d7bb80be6e8ae5", null ],
+      [ "NPC_BANISHING_CRYSTAL_BUNNY_02", "db/dfb/spell__quest_8cpp.html#aa1123bd73d3f71c469353a4b082c1428abe2fc257c384ede3fc6717f4c93905ab", null ]
+    ] ],
     [ "BattleStandard", "db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115", [
       [ "NPC_KING_OF_THE_MOUNTAINT_KC", "db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b", null ]
     ] ],

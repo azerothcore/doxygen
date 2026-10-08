@@ -1,5 +1,14 @@
 var NAVTREEINDEX338 =
 {
+"dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[7,0,2403,6],
+"dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[7,0,2403,7],
+"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[7,0,2403,11],
+"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[7,0,2403,12],
+"dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[7,0,2403,5],
+"dc/db8/classspell__dk__necrosis.html":[7,0,2859],
+"dc/db8/classspell__dk__necrosis.html#a1b2746e9013ecfbbc112d74a9229719f":[7,0,2859,0],
+"dc/db8/classspell__dk__necrosis.html#a3867a6c8278dc85b3a429652a7b5e81c":[7,0,2859,2],
+"dc/db8/classspell__dk__necrosis.html#ab38f961abbef4271df4ddce139d890df":[7,0,2859,3],
 "dc/db8/classspell__dk__necrosis.html#ac5020d66d7fca6246a4ccbbf5c681fee":[7,0,2859,4],
 "dc/db8/classspell__dk__necrosis.html#ad100e3d9794da0fac5802e9d059609a8":[7,0,2859,1],
 "dc/db8/structboss__mother__shahraz.html":[7,0,644],
@@ -240,14 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc":[8,0,0,0,1,2,3,1,0,1,0],
 "dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca":[8,0,0,0,1,2,3,1,0,1,1],
 "dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752":[8,0,0,0,1,2,3,1,0,1,3],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10":[8,0,0,0,1,2,3,1,0,1,2],
-"dc/dc9/ScriptedCreature_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[8,0,0,0,1,2,3,1,0,7],
-"dc/dc9/ScriptedCreature_8cpp.html#ae9abb80c4e811509bca88e65cf817276":[8,0,0,0,1,2,3,1,0,6],
-"dc/dc9/structBattlegroundEYScore.html":[7,0,342],
-"dc/dc9/structBattlegroundEYScore.html#a057a335c7491c1031666e6d10cf314b2":[7,0,342,6],
-"dc/dc9/structBattlegroundEYScore.html#a43d4b01a1f3c8325795d90f2a97c230c":[7,0,342,2],
-"dc/dc9/structBattlegroundEYScore.html#a5d809f1fdf1bb7a29d7504e432e10b8f":[7,0,342,5],
-"dc/dc9/structBattlegroundEYScore.html#a8a915f38f28ee3929c7922b9fa8f38d6":[7,0,342,1],
-"dc/dc9/structBattlegroundEYScore.html#a91c17f1ff1924439b05840cd11ede36f":[7,0,342,0],
-"dc/dc9/structBattlegroundEYScore.html#accdeef27151cec4e30bf85bae7aba694":[7,0,342,3]
+"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10":[8,0,0,0,1,2,3,1,0,1,2]
 };

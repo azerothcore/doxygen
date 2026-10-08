@@ -1,5 +1,6 @@
 var NAVTREEINDEX206 =
 {
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[7,0,13,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[7,0,13,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[7,0,3944],
@@ -248,6 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,8,2],
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1027f9ec66b879d523a102bcc961af99":[8,0,0,0,1,3,5,7,8,2,5],
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a27937653aa8731ed8d3e20ddfca0cbb9":[8,0,0,0,1,3,5,7,8,2,0],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ad1b4da43ccbaef0fbde04ed66bc662":[8,0,0,0,1,3,5,7,8,2,6],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6073aaa814e1d74cbe47c07e6fcc5b02":[8,0,0,0,1,3,5,7,8,2,4]
+"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ad1b4da43ccbaef0fbde04ed66bc662":[8,0,0,0,1,3,5,7,8,2,6]
 };

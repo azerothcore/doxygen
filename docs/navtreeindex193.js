@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d6/dd4/classspell__ice__spear__target__picker.html":[7,0,3317],
 "d6/dd4/classspell__ice__spear__target__picker.html#a0a29926e43bd5ff58ca7ad79df6f8cc1":[7,0,3317,4],
 "d6/dd4/classspell__ice__spear__target__picker.html#a1650962493d48f5553a9e2771e594f1f":[7,0,3317,3],
 "d6/dd4/classspell__ice__spear__target__picker.html#a8687ba9c22299e62e5911a3729fa4a0a":[7,0,3317,0],
@@ -15,10 +16,10 @@ var NAVTREEINDEX193 =
 "d6/dd4/structboss__sacrolash.html#aa3128dae87d181e7ab93cf3a13723982":[7,0,696,7],
 "d6/dd4/structboss__sacrolash.html#adbcbd24a90549978032d31d1beeaa4e6":[7,0,696,2],
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[7,0,696,1],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,34,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[7,0,13,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,34,1,2,2],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,34,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[7,0,13,1,2,2],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,34,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[7,0,13,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,34,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[7,0,13,1,2,0],
@@ -82,16 +83,16 @@ var NAVTREEINDEX193 =
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#aa9b579a8a7a23b94d9a2c8c7f932ff78":[7,0,3939,0],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#acb4144be3326bcaae9c559d8e7b9d7ec":[7,0,3939,3],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#ae1dfa086c89a4180d42d231064d88602":[7,0,3939,1],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,34,17,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[7,0,13,17,0],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,34,17,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[7,0,13,17,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,34,17,0,5],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,17,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[7,0,13,17,0,4],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[7,0,13,17,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,17,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,34,17,0,3],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,34,17,0,1],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[7,0,13,17,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[7,0,13,17,0,1],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,34,17,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[5,0,34,17,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[7,0,13,17,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[7,0,13,17,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d6/ddb/classDamageInfoStub.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c":[7,0,980,12],
 "d6/ddb/classDamageInfoStub.html#a2ec521265ea69e94924e10aad3fd1a6c":[7,0,980,17],
 "d6/ddb/classDamageInfoStub.html#a353709b9695720cd67a5ac8cec9a2672":[7,0,980,14],
-"d6/ddb/classDamageInfoStub.html#a37b0384b8dc1f9865100dd3c234e79a7":[7,0,980,16],
-"d6/ddb/classDamageInfoStub.html#a3d25fd3b20e5555af8d8d6bb745ba3ef":[7,0,980,25]
+"d6/ddb/classDamageInfoStub.html#a37b0384b8dc1f9865100dd3c234e79a7":[7,0,980,16]
 };

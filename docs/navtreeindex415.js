@@ -1,5 +1,14 @@
 var NAVTREEINDEX415 =
 {
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3734c86ac06de7a9410c15d33dc43051":[8,0,0,0,1,3,5,1,0,0,10,0],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f594e95c3ab86e57c14c861b1cb5686":[8,0,0,0,1,3,5,1,0,0,10,7],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6077dbe2bcc84af04eefbc813fd7373d":[8,0,0,0,1,3,5,1,0,0,10,8],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9aa762cae05ae8289fad74620f7eb952":[8,0,0,0,1,3,5,1,0,0,10,6],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab44b07487a6c045cb7cbde1214e4e10e":[8,0,0,0,1,3,5,1,0,0,10,4],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac51cbbc78a1757644fb55c8d15f1024e":[8,0,0,0,1,3,5,1,0,0,10,3],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1":[8,0,0,0,1,3,5,1,0,0,10,11],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae24feedc5f9a0b43427d226a5a63177d":[8,0,0,0,1,3,5,1,0,0,10,1],
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae276bdf91e4d8befe7034adb57ed4683":[8,0,0,0,1,3,5,1,0,0,10,5],
 "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af14f3bbece9082440193c74782cf1ccd":[8,0,0,0,1,3,5,1,0,0,10,2],
 "df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f":[8,0,0,0,1,3,5,1,0,0,23],
 "df/d71/boss__sartharion_8cpp.html#a54c36c08e5af0526cdf68a8bcf184318":[8,0,0,0,1,3,5,1,0,0,22],
@@ -240,14 +249,5 @@ var NAVTREEINDEX415 =
 "df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[7,0,297,7],
 "df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[7,0,297,5],
 "df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[7,0,297,6],
-"df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[7,0,297,3],
-"df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[7,0,297,1],
-"df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[7,0,297,4],
-"df/d7b/classAuraMunchingQueue.html#abf9787bcfa9393619ffebe2ad7b5cd46":[7,0,297,0],
-"df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[7,0,297,2],
-"df/d7b/structQuestGreeting.html":[7,0,2520],
-"df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[7,0,2520,0],
-"df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[7,0,2520,2],
-"df/d7b/structQuestGreeting.html#aa5189cb250b3f46086ecd69dee23414b":[7,0,2520,1],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[7,0,4315]
+"df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[7,0,297,3]
 };
