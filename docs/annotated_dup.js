@@ -4997,6 +4997,7 @@ var annotated_dup =
     [ "spell_xt002_gravity_bomb_aura", "da/d57/classspell__xt002__gravity__bomb__aura.html", "da/d57/classspell__xt002__gravity__bomb__aura" ],
     [ "spell_xt002_gravity_bomb_damage", "d0/dab/classspell__xt002__gravity__bomb__damage.html", "d0/dab/classspell__xt002__gravity__bomb__damage" ],
     [ "spell_xt002_heart_overload_periodic", "d4/d8f/classspell__xt002__heart__overload__periodic.html", "d4/d8f/classspell__xt002__heart__overload__periodic" ],
+    [ "spell_xt002_recharge_robot", "d9/d9f/classspell__xt002__recharge__robot.html", "d9/d9f/classspell__xt002__recharge__robot" ],
     [ "spell_xt002_searing_light_gravity_bomb", "da/d99/classspell__xt002__searing__light__gravity__bomb.html", "da/d99/classspell__xt002__searing__light__gravity__bomb" ],
     [ "spell_xt002_searing_light_spawn_life_spark", "d0/d03/classspell__xt002__searing__light__spawn__life__spark.html", "d0/d03/classspell__xt002__searing__light__spawn__life__spark" ],
     [ "spell_xt002_stand", "d6/dc1/classspell__xt002__stand.html", "d6/dc1/classspell__xt002__stand" ],

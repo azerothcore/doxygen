@@ -1,5 +1,6 @@
 var NAVTREEINDEX198 =
 {
+"d7/d14/wmo_8h.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2":[8,0,0,0,3,4,17,7,4],
 "d7/d14/wmo_8h.html#a9148b3ef5b412564a285737b0bd104dd":[8,0,0,0,3,4,17,8],
 "d7/d14/wmo_8h.html#aac8f4a449b4a5d07be9ff66ee59a6f6c":[8,0,0,0,3,4,17,9],
 "d7/d15/classspell__gen__replenishment__aura.html":[7,0,3147],
@@ -44,12 +45,12 @@ var NAVTREEINDEX198 =
 "d7/d1a/SRP6_8cpp.html#a80857313fb18764ec6d5834e183889f8":[8,0,0,0,0,3,0,3,1],
 "d7/d1a/SRP6_8cpp.html#af1f12790805678378554ea1c14b0c1df":[8,0,0,0,0,3,0,3,0],
 "d7/d1a/authserverPCH_8h.html":[8,0,0,0,1,0,0,1,0],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html":[7,0,4454],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a069cc54bf009830ad781c790b4fcedad":[7,0,4454,2],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a45d300e8cb6fbc499345b3bb2fb0d34f":[7,0,4454,0],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[7,0,4454,1],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ac91532151b689bde35d7120b1e9aec5b":[7,0,4454,3],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ad225dcdb1325a855f1909a8c66ca577b":[7,0,4454,4],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html":[7,0,4455],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a069cc54bf009830ad781c790b4fcedad":[7,0,4455,2],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a45d300e8cb6fbc499345b3bb2fb0d34f":[7,0,4455,0],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[7,0,4455,1],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ac91532151b689bde35d7120b1e9aec5b":[7,0,4455,3],
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ad225dcdb1325a855f1909a8c66ca577b":[7,0,4455,4],
 "d7/d1b/gundrak_8h.html":[8,0,0,0,1,3,5,5,5],
 "d7/d1b/gundrak_8h.html#a02d507e024e1a2e0a227bc83912947c0":[8,0,0,0,1,3,5,5,5,6],
 "d7/d1b/gundrak_8h.html#a02d507e024e1a2e0a227bc83912947c0a346323082578c2b88bb07dd4f602be99":[8,0,0,0,1,3,5,5,5,6,0],
@@ -95,8 +96,8 @@ var NAVTREEINDEX198 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[7,0,2321,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[7,0,2321,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[7,0,2321,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d22/classGossipMenu.html#ac85ede62cc43925ba82a5c407e115243":[7,0,1247,19],
 "d7/d22/classGossipMenu.html#affe2150aac16ac70c14a6f7161bc9085":[7,0,1247,24],
 "d7/d22/classachievement__flame__leviathan__towers.html":[7,0,57],
-"d7/d22/classachievement__flame__leviathan__towers.html#a1099385340b30a1a75655e2e7d2ba3cc":[7,0,57,2],
-"d7/d22/classachievement__flame__leviathan__towers.html#a491d66bdd373b6044e406126719ef910":[7,0,57,0]
+"d7/d22/classachievement__flame__leviathan__towers.html#a1099385340b30a1a75655e2e7d2ba3cc":[7,0,57,2]
 };

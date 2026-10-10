@@ -1,5 +1,6 @@
 var NAVTREEINDEX184 =
 {
+"d6/d6d/classnpc__isle__of__conquest__turret.html#a0f532e12439e900b3cb77619f1ecd17d":[7,0,1956,2],
 "d6/d6d/classnpc__isle__of__conquest__turret.html#ac080845203adef25e6841133b7e2f4dc":[7,0,1956,1],
 "d6/d6d/structDoorInfo.html":[7,0,1024],
 "d6/d6d/structDoorInfo.html#a14f7742a1b272d0cd76dda6ce28cde26":[7,0,1024,1],
@@ -120,8 +121,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3189,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2020],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[7,0,2020,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2020,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[8,0,0,0,1,3,2,1,0,8,2],
 "d6/d76/classspell__dk__improved__blood__presence.html":[7,0,2852],
 "d6/d76/classspell__dk__improved__blood__presence.html#a64f9e0f3d0376342767b912e32642c6c":[7,0,2852,2],
-"d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[7,0,2852,3],
-"d6/d76/classspell__dk__improved__blood__presence.html#a88e98bcb11fb16696f789878f79c665c":[7,0,2852,0]
+"d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[7,0,2852,3]
 };

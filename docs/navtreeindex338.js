@@ -1,5 +1,14 @@
 var NAVTREEINDEX338 =
 {
+"dc/db7/classOutdoorPvPSI.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c":[7,0,2403,13],
+"dc/db7/classOutdoorPvPSI.html#a10853a2f5766b6fc75044a20b281a198":[7,0,2403,3],
+"dc/db7/classOutdoorPvPSI.html#a401da5bef2350c4eb21b249b4f8b3e40":[7,0,2403,8],
+"dc/db7/classOutdoorPvPSI.html#a56bda08a795a4b0cd1c52ec448920fac":[7,0,2403,9],
+"dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077":[7,0,2403,1],
+"dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[7,0,2403,2],
+"dc/db7/classOutdoorPvPSI.html#a81f4362ece83f37f14471926e9a85fb3":[7,0,2403,10],
+"dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[7,0,2403,0],
+"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[7,0,2403,4],
 "dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[7,0,2403,6],
 "dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[7,0,2403,7],
 "dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[7,0,2403,11],
@@ -240,14 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4":[8,0,0,0,1,2,16,5,5,18,5],
 "dc/dc9/ObjectGuid_8h.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739":[8,0,0,0,1,2,16,5,5,18,4],
 "dc/dc9/ObjectGuid_8h.html#ae616985e1e68f294e055e2bced156ada":[8,0,0,0,1,2,16,5,5,9],
-"dc/dc9/ScriptedCreature_8cpp.html":[8,0,0,0,1,2,3,1,0],
-"dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b":[8,0,0,0,1,2,3,1,0,2],
-"dc/dc9/ScriptedCreature_8cpp.html#a2e3edf6fd8a6865d815af4f8acb184af":[8,0,0,0,1,2,3,1,0,5],
-"dc/dc9/ScriptedCreature_8cpp.html#a80b13d7c0fa3b835b0834955ed0f93d8":[8,0,0,0,1,2,3,1,0,3],
-"dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d":[8,0,0,0,1,2,3,1,0,4],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[8,0,0,0,1,2,3,1,0,1],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc":[8,0,0,0,1,2,3,1,0,1,0],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca":[8,0,0,0,1,2,3,1,0,1,1],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752":[8,0,0,0,1,2,3,1,0,1,3],
-"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10":[8,0,0,0,1,2,3,1,0,1,2]
+"dc/dc9/ScriptedCreature_8cpp.html":[8,0,0,0,1,2,3,1,0]
 };

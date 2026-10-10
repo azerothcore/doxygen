@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2b6c19d1321094af955678cba4a3d7cf":[8,0,0,0,1,3,5,9,2,13,52,42],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2f17f57ee72712ea502e8cd1341c95df":[8,0,0,0,1,3,5,9,2,13,52,0],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c":[8,0,0,0,1,3,5,9,2,13,52,32],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a30ed59e157c841e06d5ebd657abf6f64":[8,0,0,0,1,3,5,9,2,13,52,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d35/classSendEncounterUnit.html":[7,0,2594],
 "d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[7,0,2594,0],
 "d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[7,0,2594,2],
-"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2594,1],
-"d3/d36/BattlegroundUtils_8cpp.html":[8,0,0,0,1,2,8,18]
+"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2594,1]
 };

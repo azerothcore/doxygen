@@ -1,5 +1,14 @@
 var NAVTREEINDEX312 =
 {
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html":[7,0,2074],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a1172dbd471ee8f05f25ff77dc222a61d":[7,0,2074,7],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a35cfcfd3418295bcb1140d1b8b8266ab":[7,0,2074,4],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a36f15c2c0ec3466b492148303e828403":[7,0,2074,5],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a38253b6d1e1f7fb8fc3fdccb2522a090":[7,0,2074,11],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411":[7,0,2074,10],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4c08ed385886a118c165925602b1dff7":[7,0,2074,1],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc":[7,0,2074,6],
+"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a862546ec66d8282c87169305711e4ec7":[7,0,2074,3],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a897e72a4bf279607903bce58a5a45c6f":[7,0,2074,2],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a8a7dd73d9d3af5ca00998735e45ee7e8":[7,0,2074,9],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9c89972cde36f3d2b5686485f0e2905f":[7,0,2074,8],
@@ -240,14 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd5/classCreature.html#a989aa9d63c9e511f577bdae373cb211c":[7,0,945,87],
 "db/dd5/classCreature.html#a98d2c325bf2d68a2ff3835f9b11017cc":[7,0,945,100],
 "db/dd5/classCreature.html#a990ee9cafe5d2d48ac99ef340e8bb249":[7,0,945,132],
-"db/dd5/classCreature.html#a9dd21b89113c15d7b1bf853a48bbc1f1":[7,0,945,44],
-"db/dd5/classCreature.html#a9e3eb5b77311ca48eefb35e5b42fc4c4":[7,0,945,298],
-"db/dd5/classCreature.html#aa168eb878c3461189c81178cab0fb3a0":[7,0,945,121],
-"db/dd5/classCreature.html#aa34406811c5b107a29566c7067976306":[7,0,945,236],
-"db/dd5/classCreature.html#aa456e2c1541472454a1ea95f364f3a5b":[7,0,945,289],
-"db/dd5/classCreature.html#aa4ab3aec6cfebf9c742d6d6d14464b70":[7,0,945,68],
-"db/dd5/classCreature.html#aa7f97b97742ff6d16381210a308494bf":[7,0,945,167],
-"db/dd5/classCreature.html#aa8a50e4ad6c377c87844b6db31c1489f":[7,0,945,199],
-"db/dd5/classCreature.html#aa910ed7a97488827b459b9d69887959f":[7,0,945,172],
-"db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080":[7,0,945,331]
+"db/dd5/classCreature.html#a9dd21b89113c15d7b1bf853a48bbc1f1":[7,0,945,44]
 };

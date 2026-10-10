@@ -636,7 +636,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  206</span>        {</div>
 <div class="line"><span class="lineno">  207</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* vorpil = summon-&gt;GetSummonerUnit())</div>
 <div class="line"><span class="lineno">  208</span>            {</div>
-<div class="line"><span class="lineno">  209</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MoveFollow</a>(vorpil, 0.0f, 0.0f);</div>
+<div class="line"><span class="lineno">  209</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MoveFollow</a>(vorpil, 0.0f, 0.0f, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc">MOTION_SLOT_ACTIVE</a>, <span class="keyword">true</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  210</span>            }</div>
 <div class="line"><span class="lineno">  211</span>        }</div>
 <div class="line"><span class="lineno">  212</span> </div>
@@ -675,6 +675,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  245</span>            }</div>
 <div class="line"><span class="lineno">  246</span>        });</div>
 <div class="line"><span class="lineno">  247</span>    }</div>
+<div class="ttc" id="aMotionMaster_8h_html_a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc">MOTION_SLOT_ACTIVE</a></div><div class="ttdeci">@ MOTION_SLOT_ACTIVE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:65</div></div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:569</div></div>
 <div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:100</div></div>
 <div class="ttc" id="aclassMotionMaster_html_ae59d20f5f912abfb83be3bfc263af04f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f">MotionMaster::MoveFollow</a></div><div class="ttdeci">void MoveFollow(Unit *target, float dist, float angle, MovementSlot slot=MOTION_SLOT_ACTIVE, bool inheritWalkState=true, bool inheritSpeed=true)</div><div class="ttdoc">The unit will follow this target. Doesn't work with UNIT_FLAG_DISABLE_MOVE.</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:448</div></div>
@@ -687,7 +688,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:281</div></div>
 <div class="ttc" id="astructnpc__voidtraveler_html_a1809494e7803103f6bc1698e780dcfbc"><div class="ttname"><a href="../../d2/dbb/structnpc__voidtraveler.html#a1809494e7803103f6bc1698e780dcfbc">npc_voidtraveler::_scheduler</a></div><div class="ttdeci">TaskScheduler _scheduler</div><div class="ttdef"><b>Definition</b> boss_grandmaster_vorpil.cpp:255</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00255">_scheduler</a>, <a class="el" href="../../#l01763">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00448">MotionMaster::MoveFollow()</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, and <a class="el" href="../../#l00734">Unit::ToTempSummon()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00255">_scheduler</a>, <a class="el" href="../../#l01763">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00065">MOTION_SLOT_ACTIVE</a>, <a class="el" href="../../#l00448">MotionMaster::MoveFollow()</a>, <a class="el" href="../../#l00569">REACT_PASSIVE</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, and <a class="el" href="../../#l00734">Unit::ToTempSummon()</a>.</p>
 
 </div>
 </div>
@@ -759,7 +760,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/dbb/structnpc__voidtraveler.html">npc_voidtraveler</a></li>
-    <li class="footer">Generated on Fri Oct 9 2026 12:30:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 10 2026 11:48:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

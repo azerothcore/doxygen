@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d66/structboss__yoggsaron__immortal__guardian.html#afc8d67d6a482a20638e17d30b58c5c8b":[7,0,814,9],
 "d4/d66/structnpc__coren__direbrew__sisters.html":[7,0,1749],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a34e0b6af032240c152c463c221d99335":[7,0,1749,2],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a415ea0ebd044236f5f4c4d6c28896e00":[7,0,1749,0],
@@ -162,16 +163,16 @@ var NAVTREEINDEX132 =
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[8,0,0,0,1,3,7,5,2,2,27],
 "d4/d67/classMovement_1_1counter.html":[7,0,7,1],
 "d4/d67/classMovement_1_1counter.html":[5,0,21,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[7,0,7,1,3],
+"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[7,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[7,0,7,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[7,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[7,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[7,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[7,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[7,0,1242],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d69/structItemTemplate.html#ab10a365f3a6dbfd4ee19757a31c58895":[7,0,1440,10],
 "d4/d69/structItemTemplate.html#ab3a9a2be01022682611fed219b88ed0a":[7,0,1440,40],
 "d4/d69/structItemTemplate.html#ab516c1edeb315380e60dd44128e3f474":[7,0,1440,79],
-"d4/d69/structItemTemplate.html#ab56ffe2dbecf8a94b1ad7bd675f8219a":[7,0,1440,63],
-"d4/d69/structItemTemplate.html#ab73dfd39670de423d4db16353e5d7e76":[7,0,1440,53]
+"d4/d69/structItemTemplate.html#ab56ffe2dbecf8a94b1ad7bd675f8219a":[7,0,1440,63]
 };

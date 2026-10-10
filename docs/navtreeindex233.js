@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#aca65f12c6d03bdd9cc8d62ffdc58b062":[4,1,20,395],
 "d8/d74/classWorldSession.html#acaf67e0a0e2ddc35192d551a813edd52":[4,1,20,10],
 "d8/d74/classWorldSession.html#acb15f4d0018c56cf8acbb0cb306998e1":[4,1,20,612],
 "d8/d74/classWorldSession.html#acb1cd7d51d9d03865d2830ac692ca8ff":[4,1,20,60],
@@ -199,10 +200,10 @@ var NAVTREEINDEX233 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1633,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1633,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d7b/structnpc__twilight__summon.html#afe47f7af23aa7ef5b59473579c649859":[7,0,2267,3],
 "d8/d7c/classnpc__memory.html":[7,0,2014],
 "d8/d7c/classnpc__memory.html#acebf31813025d323f9486d6575a60483":[7,0,2014,1],
-"d8/d7c/classnpc__memory.html#ad8e532d029217a06d11ae39810498976":[7,0,2014,2],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html":[7,0,3580]
+"d8/d7c/classnpc__memory.html#ad8e532d029217a06d11ae39810498976":[7,0,2014,2]
 };

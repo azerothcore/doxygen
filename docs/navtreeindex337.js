@@ -1,5 +1,14 @@
 var NAVTREEINDEX337 =
 {
+"dc/db1/classspell__gen__mount.html#a49e2046d30352a6e22dab2530e909fa7":[7,0,3115,2],
+"dc/db1/classspell__gen__mount.html#a53ce7d1b5a39cce2bede77aad647dc7e":[7,0,3115,10],
+"dc/db1/classspell__gen__mount.html#a5e56853140f188ff1babc61c507f8300":[7,0,3115,6],
+"dc/db1/classspell__gen__mount.html#a81085b5efd8d9bd7c82ebb1cf6604793":[7,0,3115,1],
+"dc/db1/classspell__gen__mount.html#a8175ecc0c407d5c4646f038d7b62e92b":[7,0,3115,3],
+"dc/db1/classspell__gen__mount.html#aa9d0a936795d06dd78ef3c4d5aaf0320":[7,0,3115,8],
+"dc/db1/classspell__gen__mount.html#aae8c5c328dda0668bf8cdabc2c9cd29f":[7,0,3115,0],
+"dc/db1/classspell__gen__mount.html#abd6347074186b7c47ac5a2c760f4db33":[7,0,3115,5],
+"dc/db1/classspell__gen__mount.html#ac06b80d14cc106281c3e6bf3f6a5c727":[7,0,3115,9],
 "dc/db1/classspell__gen__mount.html#accef27fc13ff34af52860ad6ac62e7f3":[7,0,3115,4],
 "dc/db2/SpellScript_8h.html":[8,0,0,0,1,2,41,11],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236":[8,0,0,0,1,2,41,11,72],
@@ -240,14 +249,5 @@ var NAVTREEINDEX337 =
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a776724500598dde4c09d98ab3734dd8b":[8,0,0,0,1,3,5,1,1,3,4,1],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94e576c5e1cd6e3c291b9d20e35a3463":[8,0,0,0,1,3,5,1,1,3,4,3],
 "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed480151967b7965189afbe87b7bcc44":[8,0,0,0,1,3,5,1,1,3,4,6],
-"dc/db7/classOutdoorPvPSI.html":[7,0,2403],
-"dc/db7/classOutdoorPvPSI.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c":[7,0,2403,13],
-"dc/db7/classOutdoorPvPSI.html#a10853a2f5766b6fc75044a20b281a198":[7,0,2403,3],
-"dc/db7/classOutdoorPvPSI.html#a401da5bef2350c4eb21b249b4f8b3e40":[7,0,2403,8],
-"dc/db7/classOutdoorPvPSI.html#a56bda08a795a4b0cd1c52ec448920fac":[7,0,2403,9],
-"dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077":[7,0,2403,1],
-"dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[7,0,2403,2],
-"dc/db7/classOutdoorPvPSI.html#a81f4362ece83f37f14471926e9a85fb3":[7,0,2403,10],
-"dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[7,0,2403,0],
-"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[7,0,2403,4]
+"dc/db7/classOutdoorPvPSI.html":[7,0,2403]
 };

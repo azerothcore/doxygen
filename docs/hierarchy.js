@@ -1811,6 +1811,7 @@ var hierarchy =
         [ "spell_wyrmrest_skytalon_summon_red_dragon_buddy", "d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html", null ],
         [ "spell_xt002_gravity_bomb_damage", "d0/dab/classspell__xt002__gravity__bomb__damage.html", null ],
         [ "spell_xt002_heart_overload_periodic", "d4/d8f/classspell__xt002__heart__overload__periodic.html", null ],
+        [ "spell_xt002_recharge_robot", "d9/d9f/classspell__xt002__recharge__robot.html", null ],
         [ "spell_xt002_searing_light_gravity_bomb", "da/d99/classspell__xt002__searing__light__gravity__bomb.html", null ],
         [ "spell_xt002_stand", "d6/dc1/classspell__xt002__stand.html", null ],
         [ "spell_xt002_submerged", "df/d02/classspell__xt002__submerged.html", null ],

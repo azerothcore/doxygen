@@ -13,6 +13,7 @@ var boss__xt002_8cpp =
     [ "spell_xt002_gravity_bomb_damage", "d0/dab/classspell__xt002__gravity__bomb__damage.html", "d0/dab/classspell__xt002__gravity__bomb__damage" ],
     [ "spell_xt002_heart_overload_periodic", "d4/d8f/classspell__xt002__heart__overload__periodic.html", "d4/d8f/classspell__xt002__heart__overload__periodic" ],
     [ "npc_xt_toy_pile", "d7/d44/structnpc__xt__toy__pile.html", "d7/d44/structnpc__xt__toy__pile" ],
+    [ "spell_xt002_recharge_robot", "d9/d9f/classspell__xt002__recharge__robot.html", "d9/d9f/classspell__xt002__recharge__robot" ],
     [ "spell_xt002_tympanic_tantrum", "db/d17/classspell__xt002__tympanic__tantrum.html", "db/d17/classspell__xt002__tympanic__tantrum" ],
     [ "spell_xt002_321_boombot_aura", "d5/ddd/classspell__xt002__321__boombot__aura.html", "d5/ddd/classspell__xt002__321__boombot__aura" ],
     [ "spell_xt002_exposed_heart", "d6/dec/classspell__xt002__exposed__heart.html", "d6/dec/classspell__xt002__exposed__heart" ],

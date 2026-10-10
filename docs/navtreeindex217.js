@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d7/db6/structAISpellInfoType.html#ab421f918f3cb479d2d0390cd98cdeae3":[7,0,149,3],
 "d7/db6/structAISpellInfoType.html#af357bcc7eaeaf88a107a6309c468d53d":[7,0,149,1],
 "d7/db7/structAuctionSearcherResponse.html":[7,0,282],
 "d7/db7/structAuctionSearcherResponse.html#a824393dda7676d4a5268d2d7d2e9d17b":[7,0,282,1],
@@ -88,14 +89,14 @@ var NAVTREEINDEX217 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2801,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4176],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4176,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4176,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dc3/classModuleScript.html#a3a3ed7e84ec582e973bda44af6bcbe04":[7,0,1576,0],
 "d7/dc3/classspell__hun__improved__mend__pet.html":[7,0,3274],
 "d7/dc3/classspell__hun__improved__mend__pet.html#a19557020af9ca276f72c1d3e4ba8b27b":[7,0,3274,2],
-"d7/dc3/classspell__hun__improved__mend__pet.html#a2b0ff2594877249d0bdb4656fa67b83f":[7,0,3274,0],
-"d7/dc3/classspell__hun__improved__mend__pet.html#a43f7bb634cb165fab5e2187256f50c3f":[7,0,3274,3]
+"d7/dc3/classspell__hun__improved__mend__pet.html#a2b0ff2594877249d0bdb4656fa67b83f":[7,0,3274,0]
 };

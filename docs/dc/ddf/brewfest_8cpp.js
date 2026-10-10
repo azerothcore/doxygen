@@ -33,7 +33,23 @@ var brewfest_8cpp =
       [ "QUEST_BARK_FOR_DROHN", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da08150c311936b1b69b145916b6bc3350", null ],
       [ "QUEST_BARK_FOR_VOODOO", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da12c82f45b86197dd890afecf13ff0f54", null ],
       [ "QUEST_BARK_FOR_BARLEY", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad9a15738ffeb4bf6f8eab5e9dd25f7d4", null ],
-      [ "QUEST_BARK_FOR_THUNDERBREW", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201", null ]
+      [ "QUEST_BARK_FOR_THUNDERBREW", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201", null ],
+      [ "SAY_DROHN_DISTILLERY_1", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dab0579ced8307cb0c751304b46380ba58", null ],
+      [ "SAY_DROHN_DISTILLERY_2", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacfd88d4ffdbbb55e5768fd361a09b608", null ],
+      [ "SAY_DROHN_DISTILLERY_3", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da6e099c74e6d4f768acca74ffdd6e1dd0", null ],
+      [ "SAY_DROHN_DISTILLERY_4", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da972df280fa330d097cdff9c97ad317fd", null ],
+      [ "SAY_TCHALIS_VOODOO_1", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da54381cd159afee30afcd998f27f227ac", null ],
+      [ "SAY_TCHALIS_VOODOO_2", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da1cc71ee26b553bc9ec0fce809b3f77a7", null ],
+      [ "SAY_TCHALIS_VOODOO_3", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dada4808a60dcf3d2cee150fa32b7c244d", null ],
+      [ "SAY_TCHALIS_VOODOO_4", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da5f53f458589e2d1b5fa08ac9905fbeb0", null ],
+      [ "SAY_BARLEYBREW_1", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da3fbefa19ea52a278cf3ac53cd12d43c1", null ],
+      [ "SAY_BARLEYBREW_2", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6daa88719e071deb1e5414e1db0172c4c10", null ],
+      [ "SAY_BARLEYBREW_3", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da14be2c03c95e6c5ff906662abc6eb41a", null ],
+      [ "SAY_BARLEYBREW_4", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da64d625d87a999f7d54815e88fed74a24", null ],
+      [ "SAY_THUNDERBREW_1", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad41deaeb36aa8f65bf9a38d26c886a89", null ],
+      [ "SAY_THUNDERBREW_2", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da7fe852604ab97d285087c85b94e2e3f1", null ],
+      [ "SAY_THUNDERBREW_3", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacb5e8ddf99b5a719efc4f19ec46dd9e3", null ],
+      [ "SAY_THUNDERBREW_4", "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6da07e9882fff1fa33b97ecb69340a9a788", null ]
     ] ],
     [ "brewBubble", "dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9ca", [
       [ "SPELL_BUBBLE_BUILD_UP", "dc/ddf/brewfest_8cpp.html#aa820fe8b7057ccd679b967932db9f9caa3296b396df4d795d678648eaa432eb6a", null ]

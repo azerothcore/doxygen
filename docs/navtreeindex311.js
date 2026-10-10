@@ -1,5 +1,14 @@
 var NAVTREEINDEX311 =
 {
+"db/dce/classAura.html#af9803e108cc68b115fec9043b03f1118":[7,0,290,52],
+"db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022":[7,0,290,21],
+"db/dce/classAura.html#afb6874ab08b221b2f1f9d7582c1c93be":[7,0,290,8],
+"db/dce/classAura.html#afb782970ace7a9385038481911d388fc":[7,0,290,96],
+"db/dcf/MapUpdater_8h.html":[8,0,0,0,1,2,26,14],
+"db/dd0/classspell__item__aura__of__madness.html":[7,0,3378],
+"db/dd0/classspell__item__aura__of__madness.html#a32ca1fb3bb75fb98cb8aec38adf54325":[7,0,3378,2],
+"db/dd0/classspell__item__aura__of__madness.html#a7bf47ecb24b3427dda1980f68b41cfe8":[7,0,3378,0],
+"db/dd0/classspell__item__aura__of__madness.html#a92468411049bd05eda99e676edefcf6e":[7,0,3378,1],
 "db/dd0/classspell__item__aura__of__madness.html#a9a531733a3e7426a3bf6aa50ab86f4d9":[7,0,3378,3],
 "db/dd1/classspell__dru__glyph__of__innervate.html":[7,0,2914],
 "db/dd1/classspell__dru__glyph__of__innervate.html#a0c17de6a23adf74e32cf7c50b09762fc":[7,0,2914,2],
@@ -15,8 +24,8 @@ var NAVTREEINDEX311 =
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[5,0,34,7,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[7,0,13,7,1,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[5,0,34,7,1,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[7,0,13,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,34,7,1,2],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[7,0,13,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[7,0,13,7,1,0],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[5,0,34,7,1,0],
 "db/dd3/icecrown__citadel_8cpp.html":[8,0,0,0,1,3,5,6,12],
@@ -240,14 +249,5 @@ var NAVTREEINDEX311 =
 "db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4a9a52f6895e2ad11d95220bd480c64636":[8,0,0,0,1,3,5,6,12,99,2],
 "db/dd3/icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad0deb7e319bfb7894ba617f117b43ed7":[8,0,0,0,1,3,5,6,12,99,1],
 "db/dd3/icecrown__citadel_8cpp.html#aea7f40621aec2a551747044fbf8c0a67":[8,0,0,0,1,3,5,6,12,91],
-"db/dd3/icecrown__citadel_8cpp.html#afe0733c2d9edfa91aaeaafa9f4dc7a10":[8,0,0,0,1,3,5,6,12,109],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html":[7,0,2074],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a1172dbd471ee8f05f25ff77dc222a61d":[7,0,2074,7],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a35cfcfd3418295bcb1140d1b8b8266ab":[7,0,2074,4],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a36f15c2c0ec3466b492148303e828403":[7,0,2074,5],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a38253b6d1e1f7fb8fc3fdccb2522a090":[7,0,2074,11],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411":[7,0,2074,10],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4c08ed385886a118c165925602b1dff7":[7,0,2074,1],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc":[7,0,2074,6],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a862546ec66d8282c87169305711e4ec7":[7,0,2074,3]
+"db/dd3/icecrown__citadel_8cpp.html#afe0733c2d9edfa91aaeaafa9f4dc7a10":[8,0,0,0,1,3,5,6,12,109]
 };

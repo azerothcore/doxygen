@@ -6,6 +6,7 @@ var structboss__illidan__stormrage =
     [ "DamageTaken", "d3/d22/structboss__illidan__stormrage.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
     [ "DoAction", "d3/d22/structboss__illidan__stormrage.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
     [ "EnterEvadeMode", "d3/d22/structboss__illidan__stormrage.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "IsInDemonFormOrTransforming", "d3/d22/structboss__illidan__stormrage.html#ad2ded2ccbcfccaf7e6c55c4698ce2c02", null ],
     [ "JustDied", "d3/d22/structboss__illidan__stormrage.html#a4d38abd8885862e31a88da4de754e35d", null ],
     [ "JustEngagedWith", "d3/d22/structboss__illidan__stormrage.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
     [ "JustSummoned", "d3/d22/structboss__illidan__stormrage.html#a2c642790b16d864ae100b5e8f30e4e61", null ],

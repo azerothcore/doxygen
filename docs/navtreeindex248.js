@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca0cba1d49af7a01564c622000700ea7ee":[8,0,0,0,1,3,2,11,5,10,3],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca10635ca1d4cf574666082abe31d4a0bd":[8,0,0,0,1,3,2,11,5,10,19],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bc8f6a5f6622d513af49b9f777d29d1":[8,0,0,0,1,3,2,11,5,10,12],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca1de72799279888b931f82177d5e8b842":[8,0,0,0,1,3,2,11,5,10,15],
@@ -29,11 +30,11 @@ var NAVTREEINDEX248 =
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#a7cd3757fddecca39b1b0bd95bb2b8e5b":[7,0,3859,1],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#ad2f75ba479a8523b0fffaae86204a25c":[7,0,3859,0],
 "d9/d3f/classspell__pri__pain__and__suffering__dummy.html#af0b1e469fec71b28ca349b9be9c6fdd7":[7,0,3859,2],
-"d9/d3f/structTalentSpellPos.html":[7,0,4565],
-"d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[7,0,4565,3],
-"d9/d3f/structTalentSpellPos.html#a1f28fdb07c5f3bc3a417a2d50d57481c":[7,0,4565,0],
-"d9/d3f/structTalentSpellPos.html#a46a495cd1d17302d074037ad5ea9c89e":[7,0,4565,2],
-"d9/d3f/structTalentSpellPos.html#afcdb60f43c619209f8c7d9d8d118a89d":[7,0,4565,1],
+"d9/d3f/structTalentSpellPos.html":[7,0,4566],
+"d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[7,0,4566,3],
+"d9/d3f/structTalentSpellPos.html#a1f28fdb07c5f3bc3a417a2d50d57481c":[7,0,4566,0],
+"d9/d3f/structTalentSpellPos.html#a46a495cd1d17302d074037ad5ea9c89e":[7,0,4566,2],
+"d9/d3f/structTalentSpellPos.html#afcdb60f43c619209f8c7d9d8d118a89d":[7,0,4566,1],
 "d9/d46/structboss__baron__geddon.html":[7,0,411],
 "d9/d46/structboss__baron__geddon.html#a1e7cf41aff13c376dafa35a992c378d8":[7,0,411,0],
 "d9/d46/structboss__baron__geddon.html#a2a5a0ca6e40ac736171a8b80b0e66dad":[7,0,411,1],
@@ -70,10 +71,10 @@ var NAVTREEINDEX248 =
 "d9/d48/structnpc__medivh__bm.html#aa5a54d0b2b069947dd59eee77cbdf21b":[7,0,2012,2],
 "d9/d48/structnpc__medivh__bm.html#ad6dbbef1b6fbccd9dd224af1a15a6c90":[7,0,2012,3],
 "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e":[7,0,2012,8],
-"d9/d49/classTriggerAI.html":[7,0,4621],
-"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4621,1],
-"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4621,2],
-"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4621,0],
+"d9/d49/classTriggerAI.html":[7,0,4622],
+"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4622,1],
+"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4622,2],
+"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4622,0],
 "d9/d4a/EscortMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,2],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html":[7,0,1372],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html#a6a661e961c2599498de0ccd41c0763b4":[7,0,1372,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d52/BattlegroundAB_8cpp.html":[8,0,0,0,1,2,8,1,0],
 "d9/d53/BattlegroundScript_8cpp.html":[8,0,0,0,1,2,38,0,35],
 "d9/d53/BattlegroundScript_8cpp.html#a954046a61096ecb9db321b0a35da5f77":[8,0,0,0,1,2,38,0,35,0],
-"d9/d54/classnpc__tirions__gambit__tirion.html":[7,0,2237],
-"d9/d54/classnpc__tirions__gambit__tirion.html#a222c092c2e2136dbd7057a3f7ad7b5f4":[7,0,2237,2]
+"d9/d54/classnpc__tirions__gambit__tirion.html":[7,0,2237]
 };

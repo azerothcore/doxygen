@@ -1,5 +1,6 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a724e133f2c4d8c9fe140b3b998c88f64":[7,0,1927,0,6],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a9252a83e3deee62d5796e9f283662771":[7,0,1927,0,0],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a98f908e89630b23584982e298193cc0e":[7,0,1927,0,2],
 "d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc":[7,0,1927,0,8],
@@ -216,15 +217,15 @@ var NAVTREEINDEX175 =
 "d6/d23/structHolidayRule.html#a55e1cf64111db7eeeec72c594b76c56d":[7,0,1307,2],
 "d6/d23/structHolidayRule.html#aaa9bf14668239ea561aecc33104e245a":[7,0,1307,3],
 "d6/d23/structHolidayRule.html#ac431dcdf2d64ae5e31d72971d208ef5b":[7,0,1307,5],
-"d6/d23/structSpellValue.html":[7,0,4535],
-"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4535,7],
-"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4535,4],
-"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4535,0],
-"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4535,3],
-"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4535,5],
-"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4535,1],
-"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4535,6],
-"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4535,2],
+"d6/d23/structSpellValue.html":[7,0,4536],
+"d6/d23/structSpellValue.html#a135bbce8300101411e87a70467dbbd57":[7,0,4536,7],
+"d6/d23/structSpellValue.html#a14f0fd1b3351297e5c71e34e0c9a44fb":[7,0,4536,4],
+"d6/d23/structSpellValue.html#a2aebedc86822634a0a80de7a4c16dd7f":[7,0,4536,0],
+"d6/d23/structSpellValue.html#a4de44adea4dc620f0871215e4d4f611d":[7,0,4536,3],
+"d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[7,0,4536,5],
+"d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[7,0,4536,1],
+"d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[7,0,4536,6],
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[7,0,4536,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[7,0,2243,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[7,0,2243,0,3],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[7,0,2243,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d26/classBattlefield.html#a1605eebf64a203761f5aeba106b2b325":[7,0,326,22],
 "d6/d26/classBattlefield.html#a1a42d4d164ba4c9d01fdf488b18735ae":[7,0,326,2],
 "d6/d26/classBattlefield.html#a1db8214941cae51c09b20d4def5560bd":[7,0,326,122],
-"d6/d26/classBattlefield.html#a1e431ec8c07b96896f8cc4b4e3bbbd73":[7,0,326,14],
-"d6/d26/classBattlefield.html#a2270c546d037cca01746ae339c190f2f":[7,0,326,3]
+"d6/d26/classBattlefield.html#a1e431ec8c07b96896f8cc4b4e3bbbd73":[7,0,326,14]
 };

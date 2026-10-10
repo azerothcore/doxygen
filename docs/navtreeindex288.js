@@ -1,5 +1,14 @@
 var NAVTREEINDEX288 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da524b272e7771538d6e79321c819d45ef":[8,0,0,0,1,3,5,2,1,7,5,40],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da5355c251ce8e79e32af16eee32a9b630":[8,0,0,0,1,3,5,2,1,7,5,39],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da53772d1cb4dafd3dbdc45c9eed86ea24":[8,0,0,0,1,3,5,2,1,7,5,17],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da55821fe9e29e027bf897e6204a9742ae":[8,0,0,0,1,3,5,2,1,7,5,38],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da63459501213dcc743b787de95247c7a9":[8,0,0,0,1,3,5,2,1,7,5,16],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da63802cb2f28eb23f2372c37740a28d46":[8,0,0,0,1,3,5,2,1,7,5,30],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da663dcac1a547793908cfa308e69a57fc":[8,0,0,0,1,3,5,2,1,7,5,24],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da674397ae72408556dd34a93d747016f5":[8,0,0,0,1,3,5,2,1,7,5,7],
+"da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da6db0dd67d17d19dd6189ef47f85ed31e":[8,0,0,0,1,3,5,2,1,7,5,9],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da74672a79013efe124f17cf8a27f26404":[8,0,0,0,1,3,5,2,1,7,5,20],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da807d94b0638f76a2f469d56894fa89bf":[8,0,0,0,1,3,5,2,1,7,5,36],
 "da/de8/trial__of__the__crusader_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da829373a0bca9a1829a6a11998679358f":[8,0,0,0,1,3,5,2,1,7,5,19],
@@ -240,14 +249,5 @@ var NAVTREEINDEX288 =
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[7,0,1429,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[7,0,1429,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[7,0,1429,6],
-"da/def/structSpellCooldown.html":[7,0,4477],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4477,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[7,0,4477,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[7,0,4477,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[7,0,4477,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4477,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[7,0,4477,0],
-"da/df1/classMetric.html":[7,0,1551],
-"da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[7,0,1551,29],
-"da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[7,0,1551,27]
+"da/def/structSpellCooldown.html":[7,0,4478]
 };

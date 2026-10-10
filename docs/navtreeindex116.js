@@ -1,5 +1,6 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd3/classgo__midsummer__music.html#a39c38fc78b47b16be9eebee0ccd5041d":[7,0,1202,1],
 "d3/dd4/BattlegroundAV_8h.html":[8,0,0,0,1,2,8,1,3],
 "d3/dd4/BattlegroundAV_8h.html#a0684d7480d86c8a5f9a7323ec0f984ea":[8,0,0,0,1,2,8,1,3,34],
 "d3/dd4/BattlegroundAV_8h.html#a07f7f00430396ac34ec63ccfabe3b0ef":[8,0,0,0,1,2,8,1,3,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf00427dba8764543beb0c65089703ee0":[8,0,0,0,1,2,8,1,3,26,59],
 "d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf33f6a0c023e00d735b52fe3e25cc4bb":[8,0,0,0,1,2,8,1,3,26,2],
 "d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf36431c7bc558bf7230d5cc9c7c955e5":[8,0,0,0,1,2,8,1,3,26,75],
-"d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf51192e1c15cb56b756f910d30dc7bb5":[8,0,0,0,1,2,8,1,3,26,78],
-"d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf56eaca3c777945be1370eccaf07cc54":[8,0,0,0,1,2,8,1,3,26,26]
+"d3/dd4/BattlegroundAV_8h.html#a6cf2a7c956cc3ec52c991928408dcbffaf51192e1c15cb56b756f910d30dc7bb5":[8,0,0,0,1,2,8,1,3,26,78]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"d9/d85/structboss__algalon__the__observer.html#a01a09a0b57378f01faa7c9a28c7fbe15":[7,0,386,19],
 "d9/d85/structboss__algalon__the__observer.html#a049475d557c3d6269fa0d34210072890":[7,0,386,17],
 "d9/d85/structboss__algalon__the__observer.html#a05ae39332df494cd98c60d54211510fc":[7,0,386,5],
 "d9/d85/structboss__algalon__the__observer.html#a245eb1b0814cca589e07320dea7e236b":[7,0,386,0],
@@ -140,9 +141,9 @@ var NAVTREEINDEX255 =
 "d9/d8a/LogOperation_8h.html":[8,0,0,0,0,9,16],
 "d9/d8a/structQuestSortEntry.html":[7,0,2529],
 "d9/d8a/structQuestSortEntry.html#a61c817f16c280ee29e1c91bdb0c2fda8":[7,0,2529,0],
-"d9/d8a/structStableSlotPricesEntry.html":[7,0,4546],
-"d9/d8a/structStableSlotPricesEntry.html#a9cf01cf0d41d49613b4ceaf1eeb1716b":[7,0,4546,0],
-"d9/d8a/structStableSlotPricesEntry.html#aa53247914bda0ceca015b8b9ca117379":[7,0,4546,1],
+"d9/d8a/structStableSlotPricesEntry.html":[7,0,4547],
+"d9/d8a/structStableSlotPricesEntry.html#a9cf01cf0d41d49613b4ceaf1eeb1716b":[7,0,4547,0],
+"d9/d8a/structStableSlotPricesEntry.html#aa53247914bda0ceca015b8b9ca117379":[7,0,4547,1],
 "d9/d8b/classMapGridManager.html":[7,0,1536],
 "d9/d8b/classMapGridManager.html#a16a35fb94355d6542a2ef634f5411243":[7,0,1536,17],
 "d9/d8b/classMapGridManager.html#a26255c8542bcfd6b706f73a401b4c5d2":[7,0,1536,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "d9/d90/classspell__item__defibrillate.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b":[7,0,3401,6],
 "d9/d90/classspell__item__defibrillate.html#a680092f30ebc6b322e5d01a1100b308c":[7,0,3401,5],
 "d9/d90/classspell__item__defibrillate.html#a6a7ad6c9bb9bee3b093bd06b1b259468":[7,0,3401,2],
-"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[7,0,3401,1],
-"d9/d90/classspell__item__defibrillate.html#ab64fdd36fc646ca0bcb2010380199ede":[7,0,3401,0]
+"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[7,0,3401,1]
 };

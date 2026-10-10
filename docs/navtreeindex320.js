@@ -1,5 +1,14 @@
 var NAVTREEINDEX320 =
 {
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,2,4,1,2,4],
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbac90d9311ef3cf3f33564ce22ff904f54":[8,0,0,0,1,3,2,4,1,2,3],
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,2,4,1,2,1],
+"dc/d06/boss__curator_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[8,0,0,0,1,3,2,4,1,3],
+"dc/d07/boss__magtheridon_8cpp.html":[8,0,0,0,1,3,7,4,2,0],
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,7,4,2,0,8],
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa3115e606a56eb4374aacd98d4c96bd9b":[8,0,0,0,1,3,7,4,2,0,8,1],
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa626eb93598d6c9516f6e196e504d7f24":[8,0,0,0,1,3,7,4,2,0,8,3],
+"dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa67bbf5085397a3e0b4df64157cd0abed":[8,0,0,0,1,3,7,4,2,0,8,2],
 "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf28304a56c6ff613e36c3c641ea7da37":[8,0,0,0,1,3,7,4,2,0,8,0],
 "dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,4,2,0,11],
 "dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,4,2,0,11,5],
@@ -240,14 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[7,0,4294,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[7,0,1706,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[7,0,1706,0,4],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[7,0,1706,0,5],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6fa0d042dda8b709925aa04a3d0a17c8":[7,0,1706,0,2],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a75dca4f2e90318f334e7e6385d4f7a6f":[7,0,1706,0,0],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a9752f518441071dd4a60cd63423bf9a3":[7,0,1706,0,3],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#afe9b10dfcee3b241a48e6f2e40eec657":[7,0,1706,0,1],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html":[7,0,2103,0],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a28477c5f88b5ec77dc3e021ec01401ce":[7,0,2103,0,0],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a32d9b6bd2f0b994adb33e2bd99dd34ce":[7,0,2103,0,1],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a91277c41ddebffed7e9dac7098cd78bd":[7,0,2103,0,3],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[7,0,2103,0,2]
+"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[7,0,1706,0,5]
 };

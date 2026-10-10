@@ -1,5 +1,6 @@
 var NAVTREEINDEX119 =
 {
+"d3/de0/structnpc__chesspiece.html#ac0cd626a5a7a37bec0cf9ba1d25dd391":[7,0,1735,1],
 "d3/de0/structnpc__chesspiece.html#ac2a7ebaf577a12d729ec5976b2bee5f5":[7,0,1735,21],
 "d3/de0/structnpc__chesspiece.html#ac346a128b9e23fc9aace4e4b3018af19":[7,0,1735,11],
 "d3/de0/structnpc__chesspiece.html#ad45c9aa04ba999fa12b301c182026159":[7,0,1735,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX119 =
 "d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7":[8,0,0,0,1,3,3,4,19],
 "d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7a1b6a19aee4fbdfebb3d48f44e63e4783":[8,0,0,0,1,3,3,4,19,0],
 "d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7a2d56d2c112725fb3b4c2731b7757dad5":[8,0,0,0,1,3,3,4,19,4],
-"d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7a42e6831fefc5f30ca90e0bb76aaf68c9":[8,0,0,0,1,3,3,4,19,5],
-"d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7a49cd7fd084ca25ff2fa67e8c67d6a502":[8,0,0,0,1,3,3,4,19,1]
+"d3/dec/hallows__end_8cpp.html#ae6e295ab1c37d0d4686610c25c5d67c7a42e6831fefc5f30ca90e0bb76aaf68c9":[8,0,0,0,1,3,3,4,19,5]
 };

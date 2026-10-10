@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824affa72ed9f3cd75d22aa7ec9969735e7e":[8,0,0,0,1,3,10,17,6,13],
 "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996":[8,0,0,0,1,3,10,17,7],
 "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a2eb85115a7959fe1ccd23f8d754c13e4":[8,0,0,0,1,3,10,17,7,4],
 "d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996a507ea80e9979c3b7303716ad6f8a22c1":[8,0,0,0,1,3,10,17,7,2],
@@ -115,11 +116,11 @@ var NAVTREEINDEX178 =
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[8,0,0,0,1,3,10,17,5,0],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[8,0,0,0,1,3,10,17,5,1],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[8,0,0,0,1,3,10,17,5,2],
-"d6/d36/structWardenModuleUse.html":[7,0,4683],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[7,0,4683,0],
-"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[7,0,4683,3],
-"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[7,0,4683,1],
-"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[7,0,4683,2],
+"d6/d36/structWardenModuleUse.html":[7,0,4684],
+"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[7,0,4684,0],
+"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[7,0,4684,3],
+"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[7,0,4684,1],
+"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[7,0,4684,2],
 "d6/d38/classAchievementGlobalMgr.html":[7,0,122],
 "d6/d38/classAchievementGlobalMgr.html#a01ce43650f0e13322d74da5da695d870":[7,0,122,26],
 "d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[7,0,122,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298cac0a7365f34be1e6eb2809e88a3832337":[8,0,0,0,1,3,2,1,3,11,3,7],
 "d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298cadde0de155371649c981056d94f475fd3":[8,0,0,0,1,3,2,1,3,11,3,6],
 "d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298caef64d042937eee1c43302ffcab65d040":[8,0,0,0,1,3,2,1,3,11,3,8],
-"d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298caf9e27a8568ef112a1b98e6a2f57a480f":[8,0,0,0,1,3,2,1,3,11,3,4],
-"d6/d38/molten__core_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,2,1,3,11,4]
+"d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298caf9e27a8568ef112a1b98e6a2f57a480f":[8,0,0,0,1,3,2,1,3,11,3,4]
 };

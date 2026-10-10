@@ -1,5 +1,6 @@
 var NAVTREEINDEX125 =
 {
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca297ac684cd3fa815d7021b0943a36fae":[8,0,0,0,1,3,5,4,1,3,11,45],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca2f3f41e0272f155042c4f3b115d3fbeb":[8,0,0,0,1,3,5,4,1,3,11,20],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca3c38e50e01c8251c3c1d6d375e681e8d":[8,0,0,0,1,3,5,4,1,3,11,17],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca40322f0978b2a6c9e9147293b3dc014e":[8,0,0,0,1,3,5,4,1,3,11,46],
@@ -248,6 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d23/classspell__dru__nourish.html#a10dd1c0f67ff07f8e35ba0322c934899":[7,0,2931,1],
 "d4/d23/classspell__dru__nourish.html#a682a496d59201774de50951ffd2c7c0d":[7,0,2931,0],
 "d4/d23/classspell__dru__nourish.html#abc29f509e703f3807241b63f728a69af":[7,0,2931,2],
-"d4/d24/boss__cyanigosa_8cpp.html":[8,0,0,0,1,3,5,12,0],
-"d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,0,1]
+"d4/d24/boss__cyanigosa_8cpp.html":[8,0,0,0,1,3,5,12,0]
 };

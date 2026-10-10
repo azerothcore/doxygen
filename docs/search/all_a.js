@@ -6,7 +6,7 @@ var searchData=
   ['jaina_5fsay_5fthrone_5f1_3',['JAINA_SAY_THRONE_1',['../d1/d2d/zone__undercity_8cpp.html#a3340f88cbee80feb625844ccdee7eb8aa3781c50f6ec75901a0b77221bb2a1b8b',1,'zone_undercity.cpp']]],
   ['jaina_5fsay_5fthrone_5f2_4',['JAINA_SAY_THRONE_2',['../d1/d2d/zone__undercity_8cpp.html#a3340f88cbee80feb625844ccdee7eb8aa5da1a5d3fbe275775319f8e2ac3419c0',1,'zone_undercity.cpp']]],
   ['jaina_5fsay_5fthrone_5f3_5',['JAINA_SAY_THRONE_3',['../d1/d2d/zone__undercity_8cpp.html#a3340f88cbee80feb625844ccdee7eb8aa9496a4ebcdc22487adc157fe177f9791',1,'zone_undercity.cpp']]],
-  ['jainaguid_6',['jainaguid',['../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI::JainaGUID'],['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI::jainaGUID']]],
+  ['jainaguid_6',['jainaguid',['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI::jainaGUID'],['../de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI::JainaGUID']]],
   ['jainamisc_7',['JainaMisc',['../d1/d2d/zone__undercity_8cpp.html#a3340f88cbee80feb625844ccdee7eb8a',1,'zone_undercity.cpp']]],
   ['jainaspawnpos_8',['JainaSpawnPos',['../d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160',1,'instance_icecrown_citadel.cpp']]],
   ['janalainpos_9',['janalainPos',['../d9/df1/boss__janalai_8cpp.html#a221fad04fa8f0cb38b93a539fbd03d2e',1,'boss_janalai.cpp']]],
