@@ -6,6 +6,7 @@ var structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI =
     [ "DoAction", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
     [ "JustDied", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
     [ "JustEngagedWith", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustEnteredCombat", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#a8e14f9bd4ca3c1099424fc997c238522", null ],
     [ "JustSummoned", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
     [ "MoveInLineOfSight", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
     [ "PhaseTransitionSpawns", "d0/d4a/structboss__reliquary__of__souls_1_1boss__reliquary__of__soulsAI.html#a96235ed84a30458eb5f76d87ed47dc89", null ],

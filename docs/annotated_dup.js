@@ -3751,6 +3751,7 @@ var annotated_dup =
     [ "spell_gluth_decimate_damage", "d6/d73/classspell__gluth__decimate__damage.html", "d6/d73/classspell__gluth__decimate__damage" ],
     [ "spell_gnomeregan_radiation_bolt", "da/d7e/classspell__gnomeregan__radiation__bolt.html", "da/d7e/classspell__gnomeregan__radiation__bolt" ],
     [ "spell_gordunni_trap", "de/d34/classspell__gordunni__trap.html", "de/d34/classspell__gordunni__trap" ],
+    [ "spell_gormok_jump_to_hand", "d6/d8a/classspell__gormok__jump__to__hand.html", "d6/d8a/classspell__gormok__jump__to__hand" ],
     [ "spell_gothik_shadow_bolt_volley", "de/d1b/classspell__gothik__shadow__bolt__volley.html", "de/d1b/classspell__gothik__shadow__bolt__volley" ],
     [ "spell_grab_on", "d3/d7e/classspell__grab__on.html", "d3/d7e/classspell__grab__on" ],
     [ "spell_grip", "db/d8c/classspell__grip.html", "db/d8c/classspell__grip" ],

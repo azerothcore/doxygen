@@ -360,7 +360,7 @@ Variables</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
 <div class="line"><span class="lineno">   46</span>    <span class="comment">// Rotface</span></div>
 <div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4">SPELL_SLIME_SPRAY</a>                       = 69508,    <span class="comment">// every 20 seconds</span></div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca02bb9bd175710dfac5885844a5c09243">SPELL_MUTATED_INFECTION</a>                 = 69674,    <span class="comment">// hastens every 1:30</span></div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298ca02bb9bd175710dfac5885844a5c09243">SPELL_MUTATED_INFECTION</a>                 = 69674,    <span class="comment">// hastens every 1:30 in 25-man only</span></div>
 <div class="line"><span class="lineno">   49</span> </div>
 <div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#a5bd342133be8c2137b831460acc9298cac6d290a2f854fba413e19bc45b196baf">SPELL_VILE_GAS_H</a>                        = 69240,</div>
 <div class="line"><span class="lineno">   51</span> </div>
@@ -479,34 +479,34 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  900</span>{</div>
-<div class="line"><span class="lineno">  901</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d3c/classboss__rotface.html">boss_rotface</a>();</div>
-<div class="line"><span class="lineno">  902</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d7f/classnpc__little__ooze.html">npc_little_ooze</a>();</div>
-<div class="line"><span class="lineno">  903</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d35/classnpc__big__ooze.html">npc_big_ooze</a>();</div>
-<div class="line"><span class="lineno">  904</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d3/d96/classspell__rotface__mutated__infection.html">spell_rotface_mutated_infection</a>, <a class="code hl_class" href="../../d3/d2d/classspell__rotface__mutated__infection__aura.html">spell_rotface_mutated_infection_aura</a>);</div>
-<div class="line"><span class="lineno">  905</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d1b/classspell__rotface__little__ooze__combine.html">spell_rotface_little_ooze_combine</a>);</div>
-<div class="line"><span class="lineno">  906</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d57/classspell__rotface__large__ooze__combine.html">spell_rotface_large_ooze_combine</a>);</div>
-<div class="line"><span class="lineno">  907</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d05/classspell__rotface__large__ooze__buff__combine.html">spell_rotface_large_ooze_buff_combine</a>);</div>
-<div class="line"><span class="lineno">  908</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d65/classspell__rotface__unstable__ooze__explosion__init.html">spell_rotface_unstable_ooze_explosion_init</a>);</div>
-<div class="line"><span class="lineno">  909</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d89/classspell__rotface__unstable__ooze__explosion.html">spell_rotface_unstable_ooze_explosion</a>);</div>
-<div class="line"><span class="lineno">  910</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html">spell_rotface_unstable_ooze_explosion_suicide_aura</a>);</div>
-<div class="line"><span class="lineno">  911</span> </div>
-<div class="line"><span class="lineno">  912</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d43/classnpc__precious__icc.html">npc_precious_icc</a>();</div>
-<div class="line"><span class="lineno">  913</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  902</span>{</div>
+<div class="line"><span class="lineno">  903</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d3c/classboss__rotface.html">boss_rotface</a>();</div>
+<div class="line"><span class="lineno">  904</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d7f/classnpc__little__ooze.html">npc_little_ooze</a>();</div>
+<div class="line"><span class="lineno">  905</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d35/classnpc__big__ooze.html">npc_big_ooze</a>();</div>
+<div class="line"><span class="lineno">  906</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d3/d96/classspell__rotface__mutated__infection.html">spell_rotface_mutated_infection</a>, <a class="code hl_class" href="../../d3/d2d/classspell__rotface__mutated__infection__aura.html">spell_rotface_mutated_infection_aura</a>);</div>
+<div class="line"><span class="lineno">  907</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d1b/classspell__rotface__little__ooze__combine.html">spell_rotface_little_ooze_combine</a>);</div>
+<div class="line"><span class="lineno">  908</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d57/classspell__rotface__large__ooze__combine.html">spell_rotface_large_ooze_combine</a>);</div>
+<div class="line"><span class="lineno">  909</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d05/classspell__rotface__large__ooze__buff__combine.html">spell_rotface_large_ooze_buff_combine</a>);</div>
+<div class="line"><span class="lineno">  910</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d65/classspell__rotface__unstable__ooze__explosion__init.html">spell_rotface_unstable_ooze_explosion_init</a>);</div>
+<div class="line"><span class="lineno">  911</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d89/classspell__rotface__unstable__ooze__explosion.html">spell_rotface_unstable_ooze_explosion</a>);</div>
+<div class="line"><span class="lineno">  912</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html">spell_rotface_unstable_ooze_explosion_suicide_aura</a>);</div>
+<div class="line"><span class="lineno">  913</span> </div>
+<div class="line"><span class="lineno">  914</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d43/classnpc__precious__icc.html">npc_precious_icc</a>();</div>
+<div class="line"><span class="lineno">  915</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:90</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
 <div class="ttc" id="aclassboss__rotface_html"><div class="ttname"><a href="../../d2/d3c/classboss__rotface.html">boss_rotface</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:122</div></div>
-<div class="ttc" id="aclassnpc__big__ooze_html"><div class="ttname"><a href="../../d4/d35/classnpc__big__ooze.html">npc_big_ooze</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:423</div></div>
-<div class="ttc" id="aclassnpc__little__ooze_html"><div class="ttname"><a href="../../db/d7f/classnpc__little__ooze.html">npc_little_ooze</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:339</div></div>
-<div class="ttc" id="aclassnpc__precious__icc_html"><div class="ttname"><a href="../../d7/d43/classnpc__precious__icc.html">npc_precious_icc</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:809</div></div>
-<div class="ttc" id="aclassspell__rotface__large__ooze__buff__combine_html"><div class="ttname"><a href="../../d3/d05/classspell__rotface__large__ooze__buff__combine.html">spell_rotface_large_ooze_buff_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:676</div></div>
-<div class="ttc" id="aclassspell__rotface__large__ooze__combine_html"><div class="ttname"><a href="../../d2/d57/classspell__rotface__large__ooze__combine.html">spell_rotface_large_ooze_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:604</div></div>
-<div class="ttc" id="aclassspell__rotface__little__ooze__combine_html"><div class="ttname"><a href="../../d2/d1b/classspell__rotface__little__ooze__combine.html">spell_rotface_little_ooze_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:574</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection__aura_html"><div class="ttname"><a href="../../d3/d2d/classspell__rotface__mutated__infection__aura.html">spell_rotface_mutated_infection_aura</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:559</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection_html"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html">spell_rotface_mutated_infection</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:508</div></div>
-<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion__init_html"><div class="ttname"><a href="../../da/d65/classspell__rotface__unstable__ooze__explosion__init.html">spell_rotface_unstable_ooze_explosion_init</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:733</div></div>
-<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion__suicide__aura_html"><div class="ttname"><a href="../../df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html">spell_rotface_unstable_ooze_explosion_suicide_aura</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:786</div></div>
-<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion_html"><div class="ttname"><a href="../../d9/d89/classspell__rotface__unstable__ooze__explosion.html">spell_rotface_unstable_ooze_explosion</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:760</div></div>
+<div class="ttc" id="aclassnpc__big__ooze_html"><div class="ttname"><a href="../../d4/d35/classnpc__big__ooze.html">npc_big_ooze</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:425</div></div>
+<div class="ttc" id="aclassnpc__little__ooze_html"><div class="ttname"><a href="../../db/d7f/classnpc__little__ooze.html">npc_little_ooze</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:341</div></div>
+<div class="ttc" id="aclassnpc__precious__icc_html"><div class="ttname"><a href="../../d7/d43/classnpc__precious__icc.html">npc_precious_icc</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:811</div></div>
+<div class="ttc" id="aclassspell__rotface__large__ooze__buff__combine_html"><div class="ttname"><a href="../../d3/d05/classspell__rotface__large__ooze__buff__combine.html">spell_rotface_large_ooze_buff_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:678</div></div>
+<div class="ttc" id="aclassspell__rotface__large__ooze__combine_html"><div class="ttname"><a href="../../d2/d57/classspell__rotface__large__ooze__combine.html">spell_rotface_large_ooze_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:606</div></div>
+<div class="ttc" id="aclassspell__rotface__little__ooze__combine_html"><div class="ttname"><a href="../../d2/d1b/classspell__rotface__little__ooze__combine.html">spell_rotface_little_ooze_combine</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:576</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection__aura_html"><div class="ttname"><a href="../../d3/d2d/classspell__rotface__mutated__infection__aura.html">spell_rotface_mutated_infection_aura</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:561</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection_html"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html">spell_rotface_mutated_infection</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:510</div></div>
+<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion__init_html"><div class="ttname"><a href="../../da/d65/classspell__rotface__unstable__ooze__explosion__init.html">spell_rotface_unstable_ooze_explosion_init</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:735</div></div>
+<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion__suicide__aura_html"><div class="ttname"><a href="../../df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html">spell_rotface_unstable_ooze_explosion_suicide_aura</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:788</div></div>
+<div class="ttc" id="aclassspell__rotface__unstable__ooze__explosion_html"><div class="ttname"><a href="../../d9/d89/classspell__rotface__unstable__ooze__explosion.html">spell_rotface_unstable_ooze_explosion</a></div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:762</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -544,7 +544,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  108</span>    <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">  109</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00230">boss_rotface::boss_rotfaceAI::SpellHitTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00232">boss_rotface::boss_rotfaceAI::SpellHitTarget()</a>.</p>
 
 </div>
 </div>
@@ -562,7 +562,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   94</span>{69782, 69796, 69798, 69801};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00258">boss_rotface::boss_rotfaceAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00260">boss_rotface::boss_rotfaceAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -572,7 +572,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d7/d2b/boss__rotface_8cpp.html">boss_rotface.cpp</a></li>
-    <li class="footer">Generated on Sat Oct 10 2026 11:47:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 11 2026 11:59:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

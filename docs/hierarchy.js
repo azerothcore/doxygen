@@ -269,6 +269,7 @@ var hierarchy =
         [ "spell_gen_visual_dummy_stun", "d1/d5d/classspell__gen__visual__dummy__stun.html", null ],
         [ "spell_gen_weapon_coating_enchant", "d9/d17/classspell__gen__weapon__coating__enchant.html", null ],
         [ "spell_gen_whisper_gulch_yogg_saron_whisper", "da/dc9/classspell__gen__whisper__gulch__yogg__saron__whisper.html", null ],
+        [ "spell_gormok_jump_to_hand", "d6/d8a/classspell__gormok__jump__to__hand.html", null ],
         [ "spell_grip", "db/d8c/classspell__grip.html", null ],
         [ "spell_grobbulus_mutating_injection_aura", "dd/deb/classspell__grobbulus__mutating__injection__aura.html", null ],
         [ "spell_gruul_ground_slam_trigger", "d7/dd7/classspell__gruul__ground__slam__trigger.html", null ],

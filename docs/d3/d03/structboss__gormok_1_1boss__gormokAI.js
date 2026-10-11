@@ -9,6 +9,7 @@ var structboss__gormok_1_1boss__gormokAI =
     [ "JustSummoned", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
     [ "MoveInLineOfSight", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
     [ "Reset", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a277293d51fbaa54f9deea49af7602ae2", null ],
+    [ "SetGUID", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a238183b373adf9cd58611133d9be4c12", null ],
     [ "UpdateAI", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#adf5d8f5a9e275f12da122701f0606083", null ],
     [ "events", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
     [ "pInstance", "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a0421082f444bc4234012362b92cac132", null ],

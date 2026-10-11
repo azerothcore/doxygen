@@ -16,6 +16,8 @@ var structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusad
     [ "OnUnitDeath", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a6685af1d1dfc83c9193e059f4ac9e3c2", null ],
     [ "ReadSaveDataMore", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad22a732215e4b3c37897050cbd45f4a2", null ],
     [ "SetData", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aab2e2d3f7bce3553dd815855117d19f6", null ],
+    [ "SetSnoboldCarrier", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aa81d675b180b17347965db38f706e0a5", null ],
+    [ "SetSnoboldCarriers", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aae304e0d101acac62bd4919b787f5b74", null ],
     [ "SpawnAnubArak", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#adb26f35cc0f00b2cc11605f64272666a", null ],
     [ "Update", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a34e7368e6dad150eca1a4a659d4f134e", null ],
     [ "WriteSaveDataMore", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af15c9db333a539ba7dc0cfe2225b527f", null ],

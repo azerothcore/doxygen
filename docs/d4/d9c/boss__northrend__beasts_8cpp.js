@@ -4,6 +4,7 @@ var boss__northrend__beasts_8cpp =
     [ "npc_snobold_vassal::npc_snobold_vassalAI", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI" ],
     [ "boss_gormok", "d1/dc6/classboss__gormok.html", "d1/dc6/classboss__gormok" ],
     [ "boss_gormok::boss_gormokAI", "d3/d03/structboss__gormok_1_1boss__gormokAI.html", "d3/d03/structboss__gormok_1_1boss__gormokAI" ],
+    [ "spell_gormok_jump_to_hand", "d6/d8a/classspell__gormok__jump__to__hand.html", "d6/d8a/classspell__gormok__jump__to__hand" ],
     [ "boss_jormungarAI", "d2/d99/structboss__jormungarAI.html", "d2/d99/structboss__jormungarAI" ],
     [ "boss_acidmaw", "d0/d0b/classboss__acidmaw.html", "d0/d0b/classboss__acidmaw" ],
     [ "boss_acidmaw::boss_acidmawAI", "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html", "d6/d83/structboss__acidmaw_1_1boss__acidmawAI" ],
@@ -15,13 +16,17 @@ var boss__northrend__beasts_8cpp =
     [ "spell_icehowl_jump_back", "d5/dea/classspell__icehowl__jump__back.html", "d5/dea/classspell__icehowl__jump__back" ],
     [ "spell_icehowl_massive_crash", "db/d24/classspell__icehowl__massive__crash.html", "db/d24/classspell__icehowl__massive__crash" ],
     [ "GormokActions", "d4/d9c/boss__northrend__beasts_8cpp.html#a0def6d6c58a0d849af9617312f36c5d5", [
-      [ "ACTION_GORMOK_DIED", "d4/d9c/boss__northrend__beasts_8cpp.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ]
+      [ "ACTION_GORMOK_DIED", "d4/d9c/boss__northrend__beasts_8cpp.html#a0def6d6c58a0d849af9617312f36c5d5a83dd722143e45d4373592ae85902b41c", null ],
+      [ "ACTION_SNOBOLD_MISSED", "d4/d9c/boss__northrend__beasts_8cpp.html#a0def6d6c58a0d849af9617312f36c5d5aea583c8a6090ef0cfc639278a4c74f2b", null ]
+    ] ],
+    [ "GormokData", "d4/d9c/boss__northrend__beasts_8cpp.html#a343399fbbbf162d2c47e5abdeb066ec3", [
+      [ "DATA_RELEASED_SNOBOLD", "d4/d9c/boss__northrend__beasts_8cpp.html#a343399fbbbf162d2c47e5abdeb066ec3a531e64336b887f2ff753b4d23794c7a0", null ],
+      [ "DATA_SNOBOLD_CARRIER", "d4/d9c/boss__northrend__beasts_8cpp.html#a343399fbbbf162d2c47e5abdeb066ec3abc5e44551815131efccb88a11f575c60", null ]
     ] ],
     [ "GormokEvents", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47bea", [
       [ "EVENT_SPELL_IMPALE", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa337b729354b4dfb11fcab3130731dbb5", null ],
       [ "EVENT_SPELL_STAGGERING_STOMP", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa9244f9c7b6a8e358b1b9490007b64128", null ],
       [ "EVENT_PICK_SNOBOLD_TARGET", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaac58cec7fd10a18da326d2bbf4ab52a78", null ],
-      [ "EVENT_RELEASE_SNOBOLD", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaaafb54172fc961ceac87493df0c74d87d", null ],
       [ "EVENT_SPELL_SNOBOLLED", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaaf326f057c75880b8e6302a10be3e8aba", null ],
       [ "EVENT_SPELL_BATTER", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa59cf297ad07af42752d8790955a6fe9b", null ],
       [ "EVENT_SPELL_FIRE_BOMB", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa09d7b9f4af8871d8d82c9765f829a562", null ],
@@ -36,12 +41,13 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_IMPALE", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_STAGGERING_STOMP", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769abc140d9f29940e54fb6a6b98a72979a7", null ],
       [ "SPELL_RISING_ANGER", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a907eda8d0c124f843484a3768c09353a", null ],
-      [ "SPELL_CHANGE_VEHICLE", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a3d856bd5617569f31a5ba1155f5262da", null ],
+      [ "SPELL_JUMP_TO_HAND", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a04d7e10a04e7d32b48c85c36718859ad", null ],
       [ "SPELL_SNOBOLLED", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a71d875578da0ac5e5ef35114fa0fe497", null ],
       [ "SPELL_BATTER", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a68040025176606dd28ce098bde0c1676", null ],
       [ "SPELL_FIRE_BOMB", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a2a02baa6f6b0fc05418cc7cec5b10907", null ],
       [ "SPELL_FIRE_BOMB_AURA", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aac17b82b05bda4ebb03cc50649402ac0", null ],
-      [ "SPELL_HEAD_CRACK", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769adc7fa41bca93f3d02c9d7feb0ca828fc", null ]
+      [ "SPELL_HEAD_CRACK", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769adc7fa41bca93f3d02c9d7feb0ca828fc", null ],
+      [ "SPELL_FULL_HEAL", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769ac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ]
     ] ],
     [ "IcehowlEvents", "d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14", [
       [ "EVENT_JUMP_MIDDLE", "d4/d9c/boss__northrend__beasts_8cpp.html#afcf45c0e220933d21eea67e54cda5d14aaf60d7c6ee0f9c5183faf93fcf983fa2", null ],

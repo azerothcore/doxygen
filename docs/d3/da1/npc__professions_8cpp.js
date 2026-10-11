@@ -130,7 +130,11 @@ var npc__professions_8cpp =
     [ "SpecializationQuests", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295", [
       [ "Q_MASTER_TRANSMUTE", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a60846e77e1f55645dca03959663acb66", null ],
       [ "Q_MASTER_ELIXIR", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295afcace9679cc3114b1fe6a1214539b839", null ],
-      [ "Q_MASTER_POTION", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a123c2ab95961d06031e62c6c43a68858", null ]
+      [ "Q_MASTER_POTION", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a123c2ab95961d06031e62c6c43a68858", null ],
+      [ "Q_ARMORSMITH_ALLIANCE", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a0da2b3228a7f1c1713ced0920e25dd48", null ],
+      [ "Q_WEAPONSMITH_ALLIANCE", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a90e8b311007dbae43a15803f225a4f71", null ],
+      [ "Q_ARMORSMITH_HORDE", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a0eb63455291588802b121b70e77c8085", null ],
+      [ "Q_WEAPONSMITH_HORDE", "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295ac8b002f05ed3ab2b547a8504185c3b66", null ]
     ] ],
     [ "SpecializationTrainers", "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86", [
       [ "N_TRAINER_TRANSMUTE", "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a091cab1cb088f6041805f32f87aeec18", null ],

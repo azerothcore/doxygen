@@ -184,6 +184,10 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:aef4b54aefb4c706ad942f3824a00c158" id="r_aef4b54aefb4c706ad942f3824a00c158"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d39/boss__ouro_8cpp.html#aef4b54aefb4c706ad942f3824a00c158">IsTargetableAtRange</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> const *creature, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target)</td></tr>
+<tr class="separator:aef4b54aefb4c706ad942f3824a00c158"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e2b4b9ce0ec72e5c012a300da911dc4" id="r_a2e2b4b9ce0ec72e5c012a300da911dc4"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d39/boss__ouro_8cpp.html#a2e2b4b9ce0ec72e5c012a300da911dc4">HasTargetableThreat</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> const *creature)</td></tr>
+<tr class="separator:a2e2b4b9ce0ec72e5c012a300da911dc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5c8fc310b576bfdc32178489752bcba9" id="r_a5c8fc310b576bfdc32178489752bcba9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9">AddSC_boss_ouro</a> ()</td></tr>
 <tr class="separator:a5c8fc310b576bfdc32178489752bcba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -304,19 +308,103 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  390</span>{</div>
-<div class="line"><span class="lineno">  391</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../d5/d44/structnpc__ouro__spawner.html">npc_ouro_spawner</a>);</div>
-<div class="line"><span class="lineno">  392</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../db/d1d/structboss__ouro.html">boss_ouro</a>);</div>
-<div class="line"><span class="lineno">  393</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../d3/d16/structnpc__dirt__mound.html">npc_dirt_mound</a>);</div>
-<div class="line"><span class="lineno">  394</span>}</div>
-<div class="ttc" id="astructboss__ouro_html"><div class="ttname"><a href="../../db/d1d/structboss__ouro.html">boss_ouro</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:106</div></div>
-<div class="ttc" id="astructnpc__dirt__mound_html"><div class="ttname"><a href="../../d3/d16/structnpc__dirt__mound.html">npc_dirt_mound</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:309</div></div>
-<div class="ttc" id="astructnpc__ouro__spawner_html"><div class="ttname"><a href="../../d5/d44/structnpc__ouro__spawner.html">npc_ouro_spawner</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  460</span>{</div>
+<div class="line"><span class="lineno">  461</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../d5/d44/structnpc__ouro__spawner.html">npc_ouro_spawner</a>);</div>
+<div class="line"><span class="lineno">  462</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../db/d1d/structboss__ouro.html">boss_ouro</a>);</div>
+<div class="line"><span class="lineno">  463</span>    <a class="code hl_define" href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a>(<a class="code hl_struct" href="../../d3/d16/structnpc__dirt__mound.html">npc_dirt_mound</a>);</div>
+<div class="line"><span class="lineno">  464</span>}</div>
+<div class="ttc" id="astructboss__ouro_html"><div class="ttname"><a href="../../db/d1d/structboss__ouro.html">boss_ouro</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:123</div></div>
+<div class="ttc" id="astructnpc__dirt__mound_html"><div class="ttname"><a href="../../d3/d16/structnpc__dirt__mound.html">npc_dirt_mound</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:365</div></div>
+<div class="ttc" id="astructnpc__ouro__spawner_html"><div class="ttname"><a href="../../d5/d44/structnpc__ouro__spawner.html">npc_ouro_spawner</a></div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:77</div></div>
 <div class="ttc" id="atemple__of__ahnqiraj_8h_html_aa230be6ecc74ee2e13eba9399ccd9e7f"><div class="ttname"><a href="../../d6/d06/temple__of__ahnqiraj_8h.html#aa230be6ecc74ee2e13eba9399ccd9e7f">RegisterTempleOfAhnQirajCreatureAI</a></div><div class="ttdeci">#define RegisterTempleOfAhnQirajCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> temple_of_ahnqiraj.h:114</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00114">RegisterTempleOfAhnQirajCreatureAI</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a2e2b4b9ce0ec72e5c012a300da911dc4" name="a2e2b4b9ce0ec72e5c012a300da911dc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e2b4b9ce0ec72e5c012a300da911dc4">&#9670;&#160;</a></span>HasTargetableThreat()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool HasTargetableThreat </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> const *&#160;</td>
+          <td class="paramname"><em>creature</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <span class="comment">// Ranged players are offline for Ouro&#39;s melee AI, but still count unless they cannot be targeted.</span></div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../df/d30/classThreatReference.html">ThreatReference</a> <span class="keyword">const</span>* ref : creature-&gt;GetThreatMgr().GetUnsortedThreatList())</div>
+<div class="line"><span class="lineno">   70</span>        if (<a class="code hl_function" href="../../df/d39/boss__ouro_8cpp.html#aef4b54aefb4c706ad942f3824a00c158">IsTargetableAtRange</a>(creature, ref-&gt;GetVictim()))</div>
+<div class="line"><span class="lineno">   71</span>            return true;</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+<div class="ttc" id="aboss__ouro_8cpp_html_aef4b54aefb4c706ad942f3824a00c158"><div class="ttname"><a href="../../df/d39/boss__ouro_8cpp.html#aef4b54aefb4c706ad942f3824a00c158">IsTargetableAtRange</a></div><div class="ttdeci">static bool IsTargetableAtRange(Creature const *creature, Unit const *target)</div><div class="ttdef"><b>Definition</b> boss_ouro.cpp:60</div></div>
+<div class="ttc" id="aclassThreatReference_html"><div class="ttname"><a href="../../df/d30/classThreatReference.html">ThreatReference</a></div><div class="ttdef"><b>Definition</b> ThreatManager.h:267</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00959">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00316">ThreatManager::GetUnsortedThreatList()</a>, <a class="el" href="../../#l00906">Unit::GetVictim()</a>, and <a class="el" href="../../#l00060">IsTargetableAtRange()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00313">boss_ouro::EnterEvadeMode()</a>, and <a class="el" href="../../#l00427">npc_dirt_mound::EnterEvadeMode()</a>.</p>
+
+</div>
+</div>
+<a id="aef4b54aefb4c706ad942f3824a00c158" name="aef4b54aefb4c706ad942f3824a00c158"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef4b54aefb4c706ad942f3824a00c158">&#9670;&#160;</a></span>IsTargetableAtRange()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool IsTargetableAtRange </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> const *&#160;</td>
+          <td class="paramname"><em>creature</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>target</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">return</span> creature-&gt;IsValidAttackTarget(target) &amp;&amp; creature-&gt;CanSeeOrDetect(target)</div>
+<div class="line"><span class="lineno">   63</span>        &amp;&amp; creature-&gt;_IsTargetAcceptable(target);</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02624">Creature::_IsTargetAcceptable()</a>, <a class="el" href="../../#l01815">WorldObject::CanSeeOrDetect()</a>, and <a class="el" href="../../#l10491">Unit::IsValidAttackTarget()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00159">boss_ouro::CastBoulderIfReady()</a>, <a class="el" href="../../#l00066">HasTargetableThreat()</a>, and <a class="el" href="../../#l00093">npc_ouro_spawner::MoveInLineOfSight()</a>.</p>
 
 </div>
 </div>
@@ -326,7 +414,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_71ac7784e9a883fc3895c26b1b9476cc.html">TempleOfAhnQiraj</a></li><li class="navelem"><a class="el" href="../../df/d39/boss__ouro_8cpp.html">boss_ouro.cpp</a></li>
-    <li class="footer">Generated on Sat Oct 10 2026 11:47:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 11 2026 11:59:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

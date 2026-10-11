@@ -1,5 +1,7 @@
 var NAVTREEINDEX13 =
 {
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445":[8,0,0,0,1,3,5,9,2,11,20],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0003f01b1bddea1320bae3be9a66073a":[8,0,0,0,1,3,5,9,2,11,20,59],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a01912c7c4028db13d5f1095fce477908":[8,0,0,0,1,3,5,9,2,11,20,57],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0347a8d89f24e030b2bf2f6309992de9":[8,0,0,0,1,3,5,9,2,11,20,14],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a074b702ae99198e6bb4c840144bb0372":[8,0,0,0,1,3,5,9,2,11,20,42],
@@ -231,11 +233,11 @@ var NAVTREEINDEX13 =
 "d0/d8c/class__SpellScript_1_1EffectHook.html#ab5eb48ef7ac903938f92db0e856e0295":[7,0,18,1,6],
 "d0/d8c/class__SpellScript_1_1EffectHook.html#ab818ed274cfd66ecc565b8535b751517":[7,0,18,1,3],
 "d0/d8c/class__SpellScript_1_1EffectHook.html#ae8823c5d649d182f572818bf3db72902":[7,0,18,1,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3643],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3643,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a4ec8eb1000a32fe3909e0ce32f5a83cd":[7,0,3643,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3643,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3643,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[7,0,3644],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[7,0,3644,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a4ec8eb1000a32fe3909e0ce32f5a83cd":[7,0,3644,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[7,0,3644,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[7,0,3644,3],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html":[7,0,1742,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a0732307643a442bc3f070b9cc91d78c9":[7,0,1742,0,4],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a2ed09d31771e9c225d8d8b40ba8f0f82":[7,0,1742,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX13 =
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a84beab3be0d7e5d5d3674a57b1928f09":[7,0,1742,0,0],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#a907626beb601f789a725d88d45689eb2":[7,0,1742,0,7],
 "d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#ace957ffe4fba8f229946d61d63c1798c":[7,0,1742,0,10],
-"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#afa7fce3a9cccfcc7b088e72df9f312a4":[7,0,1742,0,5],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html":[7,0,1730,0],
-"d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[7,0,1730,0,2]
+"d0/d8d/structnpc__commander__eligor__dawnbringer_1_1npc__commander__eligor__dawnbringerAI.html#afa7fce3a9cccfcc7b088e72df9f312a4":[7,0,1742,0,5]
 };

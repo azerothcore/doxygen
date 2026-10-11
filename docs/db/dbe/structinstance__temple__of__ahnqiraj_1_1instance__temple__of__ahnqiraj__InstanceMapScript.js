@@ -10,5 +10,6 @@ var structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__Inst
     [ "SetBossState", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
     [ "SetData", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a25f4e12aad6325e87b31770c1243d746", null ],
     [ "BugTrioDeathCount", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "CThunGraspGUIDs", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#aea180c0b623e919f56f9210ce15724e8", null ],
+    [ "OuroSpawnerSpawnId", "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a67d95b03f52bae018a548f66dd0a47af", null ]
 ];

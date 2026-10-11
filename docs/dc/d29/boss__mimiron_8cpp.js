@@ -212,5 +212,6 @@ var boss__mimiron_8cpp =
     ] ],
     [ "AddSC_boss_mimiron", "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5", null ],
     [ "FaceBarrageArc", "dc/d29/boss__mimiron_8cpp.html#ade9efbea832ad4ad7704a224e792d207", null ],
-    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ]
+    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ],
+    [ "MIMIRON_MAX_ACTIVE_FLAMES", "dc/d29/boss__mimiron_8cpp.html#aa150151217499d35b52f5e304d6a4eca", null ]
 ];

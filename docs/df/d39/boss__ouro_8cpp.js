@@ -27,5 +27,7 @@ var boss__ouro_8cpp =
       [ "SPELL_SUMMON_OURO_AURA", "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca36d9aae5b731922e850638486eb37c1c", null ],
       [ "SPELL_DREAM_FOG", "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298cae0fa18919fc13ab1b07552ae49e88183", null ]
     ] ],
-    [ "AddSC_boss_ouro", "df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9", null ]
+    [ "AddSC_boss_ouro", "df/d39/boss__ouro_8cpp.html#a5c8fc310b576bfdc32178489752bcba9", null ],
+    [ "HasTargetableThreat", "df/d39/boss__ouro_8cpp.html#a2e2b4b9ce0ec72e5c012a300da911dc4", null ],
+    [ "IsTargetableAtRange", "df/d39/boss__ouro_8cpp.html#aef4b54aefb4c706ad942f3824a00c158", null ]
 ];

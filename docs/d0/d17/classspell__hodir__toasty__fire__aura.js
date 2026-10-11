@@ -1,5 +1,6 @@
 var classspell__hodir__toasty__fire__aura =
 [
+    [ "CheckProc", "d0/d17/classspell__hodir__toasty__fire__aura.html#a8ab051ee6fc080f5aa88d86d181f7890", null ],
     [ "HandleAfterEffectApply", "d0/d17/classspell__hodir__toasty__fire__aura.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
     [ "HandleProc", "d0/d17/classspell__hodir__toasty__fire__aura.html#a2ee2121d3d55bf6067de985e8d999de2", null ],
     [ "PrepareAuraScript", "d0/d17/classspell__hodir__toasty__fire__aura.html#a439799df0d6ca43e6a81930e3e4b5334", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX30 =
 {
+"d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a05e3d3091e6f52b95c3bedc5cd26a48f":[8,0,0,0,1,3,2,31,26,10],
+"d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a0914306e6d1e37c4b6449396134b6f5d":[8,0,0,0,1,3,2,31,26,13],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a0e422eb00a2876210e6d653381f8bb1f":[8,0,0,0,1,3,2,31,26,6],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a1201805e3998e7aba08ebba02327fab7":[8,0,0,0,1,3,2,31,26,11],
 "d1/d2d/zone__undercity_8cpp.html#a4c08faf51d83bc0550bcd1a89759a5b6a3eb0f14190b45303ac8d787f5a5ae8d2":[8,0,0,0,1,3,2,31,26,12],
@@ -219,13 +221,13 @@ var NAVTREEINDEX30 =
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96":[8,0,0,0,1,2,8,1,13,1,4],
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5":[8,0,0,0,1,2,8,1,13,1,2],
 "d1/d2f/BattlegroundNA_8h.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db":[8,0,0,0,1,2,8,1,13,1,3],
-"d1/d2f/structWintergraspObjectPositionData.html":[7,0,4714],
-"d1/d2f/structWintergraspObjectPositionData.html#a0e5dba26d6d335a9d1e5f40e737acddd":[7,0,4714,0],
-"d1/d2f/structWintergraspObjectPositionData.html#a374fff4b069e89489395246f378b4900":[7,0,4714,1],
-"d1/d2f/structWintergraspObjectPositionData.html#a44a8f3fd8d3cac7cfe61471d8b785ad4":[7,0,4714,4],
-"d1/d2f/structWintergraspObjectPositionData.html#ab557bbe497fc769b390cf0799b6aaed9":[7,0,4714,3],
-"d1/d2f/structWintergraspObjectPositionData.html#adebb903a00687e17d9088f5da2c97f4a":[7,0,4714,5],
-"d1/d2f/structWintergraspObjectPositionData.html#af8a4ec46795bcdbc77c76302a4cfe639":[7,0,4714,2],
+"d1/d2f/structWintergraspObjectPositionData.html":[7,0,4715],
+"d1/d2f/structWintergraspObjectPositionData.html#a0e5dba26d6d335a9d1e5f40e737acddd":[7,0,4715,0],
+"d1/d2f/structWintergraspObjectPositionData.html#a374fff4b069e89489395246f378b4900":[7,0,4715,1],
+"d1/d2f/structWintergraspObjectPositionData.html#a44a8f3fd8d3cac7cfe61471d8b785ad4":[7,0,4715,4],
+"d1/d2f/structWintergraspObjectPositionData.html#ab557bbe497fc769b390cf0799b6aaed9":[7,0,4715,3],
+"d1/d2f/structWintergraspObjectPositionData.html#adebb903a00687e17d9088f5da2c97f4a":[7,0,4715,5],
+"d1/d2f/structWintergraspObjectPositionData.html#af8a4ec46795bcdbc77c76302a4cfe639":[7,0,4715,2],
 "d1/d30/AdhocStatement_8cpp.html":[8,0,0,0,1,1,0,1],
 "d1/d30/PlayerDump_8cpp.html":[8,0,0,0,1,2,46,2],
 "d1/d30/PlayerDump_8cpp.html#a17802f71d1e9f88bd6ded0e79a8b4405":[8,0,0,0,1,2,46,2,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX30 =
 "d1/d30/PlayerDump_8cpp.html#a78a33c3255668abb77c4710ed82ab71d":[8,0,0,0,1,2,46,2,16],
 "d1/d30/PlayerDump_8cpp.html#a83fd95e505d5de193245e4de46589892":[8,0,0,0,1,2,46,2,24],
 "d1/d30/PlayerDump_8cpp.html#a846234dc3d2969c8ef6f67687a3a4049":[8,0,0,0,1,2,46,2,29],
-"d1/d30/PlayerDump_8cpp.html#a995022112291c980706933e2de6accf5":[8,0,0,0,1,2,46,2,18],
-"d1/d30/PlayerDump_8cpp.html#a99e441709c35a6ba0ffeda0e25143cf9":[8,0,0,0,1,2,46,2,23],
-"d1/d30/PlayerDump_8cpp.html#a9a85cce136a6d1ebc3195903ee719aec":[8,0,0,0,1,2,46,2,26]
+"d1/d30/PlayerDump_8cpp.html#a995022112291c980706933e2de6accf5":[8,0,0,0,1,2,46,2,18]
 };
