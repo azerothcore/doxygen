@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/d1b/cs__autobroadcast_8cpp.html#a1d398e7e3a10b992b1d0a10671683d46":[8,0,0,0,1,3,0,3,1],
 "d9/d1c/pit__of__saron_8cpp.html":[8,0,0,0,1,3,5,4,2,4],
 "d9/d1c/pit__of__saron_8cpp.html#a302aeb8575da3775869e8ba2aa788da0":[8,0,0,0,1,3,5,4,2,4,27],
 "d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409b":[8,0,0,0,1,3,5,4,2,4,25],
@@ -168,8 +169,8 @@ var NAVTREEINDEX246 =
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3434],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858":[8,0,0,0,1,3,4,18,3,7],
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9":[8,0,0,0,1,3,4,18,3,1],
 "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece":[8,0,0,0,1,3,4,18,3,13],
-"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663":[8,0,0,0,1,3,4,18,4],
-"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955":[8,0,0,0,1,3,4,18,4,0]
+"d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663":[8,0,0,0,1,3,4,18,4]
 };

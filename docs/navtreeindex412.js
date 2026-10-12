@@ -1,5 +1,8 @@
 var NAVTREEINDEX412 =
 {
+"df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,15,7],
+"df/d3e/namespaceGameTime.html#af9a7dcb5dfa331445f56900767b13e8b":[5,0,15,0],
+"df/d3e/structBG__SA__RoundScore.html":[7,0,369],
 "df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,369,0],
 "df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,369,1],
 "df/d3e/structEquipmentInfo.html":[7,0,1060],
@@ -244,10 +247,7 @@ var NAVTREEINDEX412 =
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[7,0,6,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[7,0,6,3,0],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[5,0,20,3,0],
-"df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[7,0,6,3,2],
 "df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[5,0,20,3,2],
-"df/d52/classAuraApplicationStub.html":[7,0,294],
-"df/d52/classAuraApplicationStub.html#a1bf6810ab9723ce50ddf46789d2a5045":[7,0,294,5],
-"df/d52/classAuraApplicationStub.html#a1fab3395f580b30fa7b2257cbcacd26a":[7,0,294,7],
-"df/d52/classAuraApplicationStub.html#a30f0ddd6c6bbc974958a33ecee39135e":[7,0,294,3]
+"df/d51/structMMAP_1_1MapTiles.html#aec1baac21c06380ba71ff5e610152519":[7,0,6,3,2],
+"df/d52/classAuraApplicationStub.html":[7,0,294]
 };

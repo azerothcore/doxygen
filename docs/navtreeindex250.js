@@ -1,5 +1,6 @@
 var NAVTREEINDEX250 =
 {
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[8,0,0,0,1,3,7,4,3,2,6,3],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663f":[8,0,0,0,1,3,7,4,3,2,2],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad":[8,0,0,0,1,3,7,4,3,2,2,0],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a6ddbaae08010d527c6c3d88cdcde663fadf5050dd7eab9cf1759d0070273ba382":[8,0,0,0,1,3,7,4,3,2,2,1],
@@ -225,8 +226,8 @@ var NAVTREEINDEX250 =
 "d9/d65/structnpc__vilebranch__speaker.html#aa7708f176879db3acd50399b74e4a90c":[7,0,2316,1],
 "d9/d65/structnpc__vilebranch__speaker.html#abd52bbd2ce88b011176d93ae92b851d0":[7,0,2316,5],
 "d9/d65/structnpc__vilebranch__speaker.html#acd8dfc95c5969fe67e1386d5dbd5884b":[7,0,2316,0],
-"d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[7,0,13,8,14],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[5,0,34,8,14],
+"d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[7,0,13,8,14],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a0116f5d02f18bf1a315fbf81b6467239":[5,0,34,8,14,2],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a0116f5d02f18bf1a315fbf81b6467239":[7,0,13,8,14,2],
 "d9/d66/classWorldPackets_1_1Item_1_1SellItem.html#a13200b200096a11e93a6d23fd6122378":[5,0,34,8,14,4],
@@ -244,10 +245,9 @@ var NAVTREEINDEX250 =
 "d9/d67/classVMAP_1_1StaticMapTree.html":[5,0,31,17],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a054c023e998be7fc4ebc9164fd655335":[7,0,11,17,18],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a054c023e998be7fc4ebc9164fd655335":[5,0,31,17,18],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[5,0,31,17,24],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[7,0,11,17,24],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a2a6d8374af191f9484fe0e73c2e4e6b6":[5,0,31,17,25],
+"d9/d67/classVMAP_1_1StaticMapTree.html#a253f73ac82a7dd102385deaed890f456":[5,0,31,17,24],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a2a6d8374af191f9484fe0e73c2e4e6b6":[7,0,11,17,25],
-"d9/d67/classVMAP_1_1StaticMapTree.html#a2ad3c38214b678574af00e92f81a49ed":[7,0,11,17,3],
+"d9/d67/classVMAP_1_1StaticMapTree.html#a2a6d8374af191f9484fe0e73c2e4e6b6":[5,0,31,17,25],
 "d9/d67/classVMAP_1_1StaticMapTree.html#a2ad3c38214b678574af00e92f81a49ed":[5,0,31,17,3]
 };

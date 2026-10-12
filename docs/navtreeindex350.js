@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#ac145a4a4a24be227c31fcc5aefd922eb":[7,0,2118,0,3],
 "dd/d44/structnpc__prospector__remtravel_1_1npc__prospector__remtravelAI.html#adf388d36c17b69f881e3cb92d9b78b9b":[7,0,2118,0,1],
 "dd/d45/structItemRandomSuffixEntry.html":[7,0,1434],
 "dd/d45/structItemRandomSuffixEntry.html#a3ee4d8152817e10b873de5ec36ba062b":[7,0,1434,3],
@@ -33,8 +34,8 @@ var NAVTREEINDEX350 =
 "dd/d47/classspell__hun__kill__command__pet.html#a9e5ea1da302356a41b4eff338956ab93":[7,0,3279,1],
 "dd/d47/classspell__hun__kill__command__pet.html#aec327c219229ae9d59cb491eef2d95d3":[7,0,3279,3],
 "dd/d48/UpdateMask_8h.html":[8,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,7,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[7,0,2,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,7,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[7,0,448,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[7,0,448,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[7,0,448,0,5],
@@ -67,14 +68,14 @@ var NAVTREEINDEX350 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[8,0,0,0,1,3,2,1,1,1,1,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[8,0,0,0,1,3,2,1,1,1,1,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[8,0,0,0,1,3,2,1,1,1,1,5],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[5,0,34,4,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[7,0,13,4,0],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html":[5,0,34,4,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a18e66148dc50a7ea7f98a57a122285ee":[7,0,13,4,0,2],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a18e66148dc50a7ea7f98a57a122285ee":[5,0,34,4,0,2],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[7,0,13,4,0,3],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[5,0,34,4,0,3],
-"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[7,0,13,4,0,4],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a25cd247bb50f752c3230ad4b5f777b2d":[7,0,13,4,0,3],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[5,0,34,4,0,4],
+"dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#a9ca02aaaab5d223a64f8ba0cec320e8e":[7,0,13,4,0,4],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[7,0,13,4,0,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ad3ca327e00c9df8d947cdda3eb2f5eb3":[5,0,34,4,0,0],
 "dd/d49/classWorldPackets_1_1Combat_1_1SAttackStop.html#ae2143b20488064400c306004ee678a89":[7,0,13,4,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d52/structCreatureData.html#a7632a7510b2a868b926a6ea21bf07e7f":[7,0,951,8],
 "dd/d52/structCreatureData.html#a8d792fe1be63517b89beeb7dc16bc59e":[7,0,951,1],
 "dd/d52/structCreatureData.html#a9282b4137e892574d3326273c19b7333":[7,0,951,2],
-"dd/d52/structCreatureData.html#a934d70093ff85a859a80f672c96888b2":[7,0,951,9],
-"dd/d52/structCreatureData.html#ac2d910ad95ea363dbe0a685d5db6cc79":[7,0,951,6]
+"dd/d52/structCreatureData.html#a934d70093ff85a859a80f672c96888b2":[7,0,951,9]
 };

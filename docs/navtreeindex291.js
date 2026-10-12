@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6351d79ac2a9fbf63cca0fee0dcb670e":[8,0,0,0,1,3,5,4,0,1,6,3],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa3cdca173c6ef467405d6b051b353a03":[8,0,0,0,1,3,5,4,0,1,6,5],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa6464091ba95df048d18c93e4cc19816":[8,0,0,0,1,3,5,4,0,1,6,9],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aad34a5e4555dd59573760cdfd0c0a7f8":[8,0,0,0,1,3,5,4,0,1,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/d14/structnpc__necrotic__shard.html#a5ea43bf63be68390a8bf5e193bc5d651":[7,0,2039,4],
 "db/d14/structnpc__necrotic__shard.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2":[7,0,2039,3],
 "db/d14/structnpc__necrotic__shard.html#a83e16b403c352c29a4274d3641876e72":[7,0,2039,6],
-"db/d14/structnpc__necrotic__shard.html#a86289f7c8ec1f3a52c7d88b1be15201d":[7,0,2039,1],
-"db/d14/structnpc__necrotic__shard.html#a9a3dfceaa896a63cbf4b517acc243468":[7,0,2039,5]
+"db/d14/structnpc__necrotic__shard.html#a86289f7c8ec1f3a52c7d88b1be15201d":[7,0,2039,1]
 };

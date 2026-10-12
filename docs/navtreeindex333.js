@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dc/d73/classinventory__commandscript.html#a765d3606093dd3e15bb59c058333dca7":[7,0,1414,0],
 "dc/d73/classinventory__commandscript.html#ac002b65cbe2e5dafc7614c7afa4a20e6":[7,0,1414,1],
 "dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html":[7,0,3926],
 "dc/d73/classspell__q11010__q11102__q11023__aggro__check__aura.html#acd2d96959b0d8e9bf9968662218f36a1":[7,0,3926,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dc/d81/classCreatureTextMgr.html#a12ecf289ef6d78691b6ab23f3cdd9fd8":[7,0,971,16],
 "dc/d81/classCreatureTextMgr.html#a169c53804fb5bf4ecd509ee90482ebf5":[7,0,971,2],
 "dc/d81/classCreatureTextMgr.html#a2303c6343e233beb3f7a1ebda40e080e":[7,0,971,13],
-"dc/d81/classCreatureTextMgr.html#a5237341864a3082126bed703d68312b2":[7,0,971,4],
-"dc/d81/classCreatureTextMgr.html#a6f77e1f030bb16b585f9a75059a06f31":[7,0,971,1]
+"dc/d81/classCreatureTextMgr.html#a5237341864a3082126bed703d68312b2":[7,0,971,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82ab46fe7cd5b66c6e6be5cf8ff4511486b":[8,0,0,0,1,3,9,4,228,1],
 "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82acac3daf0e32d56ab20021e48daf1ff16":[8,0,0,0,1,3,9,4,228,0],
 "db/d6e/spell__item_8cpp.html#a6c02603a123227a9dd16602e9b1eb789":[8,0,0,0,1,3,9,4,238],
 "db/d6e/spell__item_8cpp.html#a6c02603a123227a9dd16602e9b1eb789a498ca5dd602cbf962990b9837d428465":[8,0,0,0,1,3,9,4,238,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "db/d6f/classnpc__mature__netherwing__drake.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5":[7,0,2008,1],
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[7,0,2008,2],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html":[7,0,2579,0],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#a0693df9090f40b7b1b8dba0003b6092e":[7,0,2579,0,1],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2579,0,0]
+"db/d70/structScourgeInvasionData_1_1CityAttack.html#a0693df9090f40b7b1b8dba0003b6092e":[7,0,2579,0,1]
 };

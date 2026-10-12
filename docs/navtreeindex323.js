@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dc/d28/BaseEncoding_8h.html":[8,0,0,0,0,7,4],
 "dc/d28/boss__amanitar_8cpp.html":[8,0,0,0,1,3,5,0,0,1],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,5,0,0,1,2],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188":[8,0,0,0,1,3,5,0,0,1,2,0],
@@ -203,8 +204,8 @@ var NAVTREEINDEX323 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[8,0,0,0,1,3,5,9,2,9,26],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,1,0,3],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea0352ccde5ec007d91ab171794df14466":[8,0,0,0,1,3,7,1,0,3,6],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea08807587a7078383c927360804964a62":[8,0,0,0,1,3,7,1,0,3,19],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea11904656221d11a3daf453267d8dcc2e":[8,0,0,0,1,3,7,1,0,3,20],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea122890e2893d03c630c9c0aa4f4c0a78":[8,0,0,0,1,3,7,1,0,3,7]
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea11904656221d11a3daf453267d8dcc2e":[8,0,0,0,1,3,7,1,0,3,20]
 };

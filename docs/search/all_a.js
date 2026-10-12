@@ -25,7 +25,7 @@ var searchData=
   ['joinnotify_22',['JoinNotify',['../d2/d48/classChannel.html#a28556992387126097262b35620811658',1,'Channel']]],
   ['joinpos_23',['joinPos',['../d2/dc2/structEntryPointData.html#abfdc0ccd945f60e0a3ec37d278c96940',1,'EntryPointData']]],
   ['joinraidbrowser_24',['JoinRaidBrowser',['../d2/dbc/classlfg_1_1LFGMgr.html#a3a01b5ac3e0e06fcd3c3d9b7af7da550',1,'lfg::LFGMgr']]],
-  ['jointime_25',['jointime',['../d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData::joinTime'],['../dd/d51/structGroupQueueInfo.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo::JoinTime']]],
+  ['jointime_25',['jointime',['../dd/d51/structGroupQueueInfo.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo::JoinTime'],['../d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData::joinTime']]],
   ['jormungarevents_26',['JormungarEvents',['../d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914',1,'boss_northrend_beasts.cpp']]],
   ['jormungarnpcs_27',['JormungarNPCs',['../d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121',1,'boss_northrend_beasts.cpp']]],
   ['jormungarspells_28',['JormungarSpells',['../d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045',1,'boss_northrend_beasts.cpp']]],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a44c18c5bb7d91fcc4a63405e64803980":[8,0,0,0,1,3,5,7,16,3,47],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5057e82919bcf77dbf93f23725e97a37":[8,0,0,0,1,3,5,7,16,3,27],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a589bd45cb38b494d630564742084e4fc":[8,0,0,0,1,3,5,7,16,3,25],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a5ace59ad6ac164cbdd9f0f471f8b9205":[8,0,0,0,1,3,5,7,16,3,29],
@@ -213,12 +214,12 @@ var NAVTREEINDEX187 =
 "d6/d84/structboss__jeklik.html#a826bdba66fee3bb82b64ca6174b66c44":[7,0,574,0],
 "d6/d84/structboss__jeklik.html#ae648ba9ff49f4970612a8c3351789b66":[7,0,574,2],
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[7,0,574,3],
-"d6/d85/classVMAP_1_1VMapFactory.html":[7,0,11,20],
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,31,20],
+"d6/d85/classVMAP_1_1VMapFactory.html":[7,0,11,20],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,31,20,0],
 "d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[7,0,11,20,0],
-"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
 "d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[5,0,31,20,1],
+"d6/d85/classVMAP_1_1VMapFactory.html#a80f01f24b27dd7a5a795c193d0816624":[7,0,11,20,1],
 "d6/d85/classlookup__commandscript.html":[7,0,1494],
 "d6/d85/classlookup__commandscript.html#a18786c0065ea14eacaa7f8e8082b2be4":[7,0,1494,17],
 "d6/d85/classlookup__commandscript.html#a1d29ab8746669b45885fea32815d09a4":[7,0,1494,12],
@@ -246,8 +247,7 @@ var NAVTREEINDEX187 =
 "d6/d85/classspell__brewfest__unfill__keg.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e":[7,0,2758,2],
 "d6/d85/classspell__brewfest__unfill__keg.html#a46dfe7b2f8598d24f17868266d1571c6":[7,0,2758,0],
 "d6/d85/classspell__brewfest__unfill__keg.html#a4f8ab6e42ddf2188ccca2640363b9925":[7,0,2758,1],
-"d6/d85/structAcore_1_1CreatureWorker.html":[5,0,0,59],
 "d6/d85/structAcore_1_1CreatureWorker.html":[7,0,0,47],
-"d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[5,0,0,59,0],
+"d6/d85/structAcore_1_1CreatureWorker.html":[5,0,0,59],
 "d6/d85/structAcore_1_1CreatureWorker.html#a4b4dc219d034565cd83748c5f1cab2a5":[7,0,0,47,0]
 };

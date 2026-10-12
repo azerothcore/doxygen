@@ -1,5 +1,8 @@
 var NAVTREEINDEX405 =
 {
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a8b60ae77f13045a582548fe5d1186d54":[7,0,3929,0],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a929c49d6dd30b6a0dedfbc23c877eb36":[7,0,3929,2],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#ad68619783c4a1aad5a24826bf5d89858":[7,0,3929,1],
 "df/d05/structVendorItem.html":[7,0,4670],
 "df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[7,0,4670,2],
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[7,0,4670,1],
@@ -25,8 +28,8 @@ var NAVTREEINDEX405 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#ae016ad65dd0154ffa7d59f1e2a572d21":[8,0,0,0,1,3,2,1,0,12,9],
 "df/d07/boss__moira__bronzebeard_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[8,0,0,0,1,3,2,1,0,12,3],
 "df/d07/boss__moira__bronzebeard_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[8,0,0,0,1,3,2,1,0,12,4],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,34,13,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[7,0,13,13,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,34,13,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[7,0,13,13,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,34,13,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[7,0,13,13,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX405 =
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592":[8,0,0,0,1,2,16,5,3,28,2],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338":[8,0,0,0,1,2,16,5,3,28,1],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743":[8,0,0,0,1,2,16,5,3,28,3],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233":[8,0,0,0,1,2,16,5,3,28,6],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b":[8,0,0,0,1,2,16,5,3,28,4],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0":[8,0,0,0,1,2,16,5,3,28,0],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045":[8,0,0,0,1,2,16,5,3,28,5]
+"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233":[8,0,0,0,1,2,16,5,3,28,6]
 };

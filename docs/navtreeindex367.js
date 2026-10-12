@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[7,0,2673,0],
 "de/d09/classspell__mage__polymorph__cast__visual.html":[7,0,3659],
 "de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[7,0,3659,0],
 "de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3659,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6bc506f5e0886c6933d90cd052ec086c":[8,0,0,0,1,4,7,53,3],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a7b75711fb68e1b84be230ae34e960fcc":[8,0,0,0,1,4,7,53,9],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ab01d7f8fe38793b27f5350a8e132ad77":[8,0,0,0,1,4,7,53,1],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ab59ff205c47c898cee76f1c3163f3d7a":[8,0,0,0,1,4,7,53,5],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ae1ee0ac749fa3689cbe0183cafda47b0":[8,0,0,0,1,4,7,53,0]
+"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ab59ff205c47c898cee76f1c3163f3d7a":[8,0,0,0,1,4,7,53,5]
 };

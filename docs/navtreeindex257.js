@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"d9/d9a/structboss__thorim__sif__blizzard.html#ab41c744d8573b1f8ce5e82e798c9bd4f":[7,0,758,1],
 "d9/d9a/structboss__thorim__sif__blizzard.html#af69dfd0ec232c7e45d13b117988ba924":[7,0,758,6],
 "d9/d9b/classnpc__frost__sphere.html":[7,0,1849],
 "d9/d9b/classnpc__frost__sphere.html#a0256ba1c53853307f8b66e22b10bef24":[7,0,1849,1],
@@ -12,14 +13,14 @@ var NAVTREEINDEX257 =
 "d9/d9c/zone__western__plaguelands_8cpp.html#a978fbc9b0f23371fedcca17926c637cb":[8,0,0,0,1,3,2,32,5],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[7,0,13,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,34,6,46],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[7,0,13,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,34,6,46,2],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[7,0,13,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[7,0,13,6,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[7,0,13,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,34,6,46,0],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[7,0,13,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,34,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
 "d9/d9d/cs__account_8cpp.html":[8,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[8,0,0,0,1,3,0,0,1],
 "d9/d9e/HolidayDateCalculator_8cpp.html":[8,0,0,0,1,2,17,2],
@@ -166,10 +167,10 @@ var NAVTREEINDEX257 =
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#a3eb95fd72147ab8195da44a46c2cf0e6":[7,0,0,15,4],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#aa76b1a6c8a919c1e5b37c74b33859464":[5,0,0,27,2],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#aa76b1a6c8a919c1e5b37c74b33859464":[7,0,0,15,2],
-"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ac2bae147199d0b1b592a560017128c4e":[5,0,0,27,3],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ac2bae147199d0b1b592a560017128c4e":[7,0,0,15,3],
-"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ad64e96c8484be1354ad4a3c0b6754d95":[7,0,0,15,0],
+"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ac2bae147199d0b1b592a560017128c4e":[5,0,0,27,3],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ad64e96c8484be1354ad4a3c0b6754d95":[5,0,0,27,0],
+"d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#ad64e96c8484be1354ad4a3c0b6754d95":[7,0,0,15,0],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#afc81f329be9d6d8eb8bfd2ade94c5665":[5,0,0,27,1],
 "d9/da7/classAcore_1_1AllGameObjectsMatchingOneEntryInRange.html#afc81f329be9d6d8eb8bfd2ade94c5665":[7,0,0,15,1],
 "d9/da7/classBurningPitchFilterCheck.html":[7,0,843],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "d9/dab/classworldstate__commandscript.html#a805ab7fa1900feeb3e3034263c3a0a4d":[7,0,4747,11],
 "d9/dab/classworldstate__commandscript.html#a9c2b9e6f00727da760ca2be2c0c1aff7":[7,0,4747,1],
 "d9/dab/classworldstate__commandscript.html#aa409f7a2baed14a591d9567d1fb1ffcf":[7,0,4747,0],
-"d9/dab/classworldstate__commandscript.html#af242372bd32ed79d839af82f82423837":[7,0,4747,4],
-"d9/dac/ScriptedCreature_8h.html":[8,0,0,0,1,2,3,1,1]
+"d9/dab/classworldstate__commandscript.html#af242372bd32ed79d839af82f82423837":[7,0,4747,4]
 };

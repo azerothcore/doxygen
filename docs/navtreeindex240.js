@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d8/dd6/DBCfmt_8h.html#a205a63d903af9fcb0ab988723c15d5ae":[8,0,0,0,1,4,0,3,13],
 "d8/dd6/DBCfmt_8h.html#a210fd1ba76fc8e4cedb2fb6af0a17947":[8,0,0,0,1,4,0,3,54],
 "d8/dd6/DBCfmt_8h.html#a22724d69363c7aaaec29f964dcc7b268":[8,0,0,0,1,4,0,3,18],
 "d8/dd6/DBCfmt_8h.html#a26f29ccde3522f2ca003f066886defc6":[8,0,0,0,1,4,0,3,87],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[8,0,0,0,1,2,31,2,2,1],
 "d8/dda/classnpc__wizzlecrank__shredder.html":[7,0,2335],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[7,0,2335,1],
-"d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[7,0,2335,2],
-"d8/dda/classnpc__wizzlecrank__shredder.html#afcd5aaea5234b6510825d9ce5e809aa6":[7,0,2335,3]
+"d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[7,0,2335,2]
 };

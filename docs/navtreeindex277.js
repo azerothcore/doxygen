@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca8956bb83a390133fdb783a59474ad837":[8,0,0,0,1,3,2,11,4,19,2],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c377b8b69d0dbe801ea2d87064096b3":[8,0,0,0,1,3,2,11,4,19,12],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298caa60d61feeb1ba6a7b2533af61ab49b7a":[8,0,0,0,1,3,2,11,4,19,26],
 "da/d7e/boss__kiljaeden_8cpp.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b":[8,0,0,0,1,3,2,11,4,19,19],
@@ -214,12 +215,12 @@ var NAVTREEINDEX277 =
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[7,0,1013,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,34,8,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[7,0,13,8,15],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[7,0,13,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,34,8,15,1],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[7,0,13,8,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[7,0,13,8,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,34,8,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,34,8,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[7,0,13,8,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[7,0,13,8,15,2],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,34,8,15,2],
 "da/d83/magtheridons__lair_8h.html":[8,0,0,0,1,3,7,4,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43":[8,0,0,0,1,3,7,4,2,2,4],
 "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a1af7dcbea0aa24f1eab9d95749c98842":[8,0,0,0,1,3,7,4,2,2,4,7],
 "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a3de2dc11fa5e552a2df650c5a26f949f":[8,0,0,0,1,3,7,4,2,2,4,2],
-"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a68ca36aa04370f65ad9e42dc59346cac":[8,0,0,0,1,3,7,4,2,2,4,1],
-"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a82a634e2322f4842d73017b925aee353":[8,0,0,0,1,3,7,4,2,2,4,8]
+"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43a68ca36aa04370f65ad9e42dc59346cac":[8,0,0,0,1,3,7,4,2,2,4,1]
 };

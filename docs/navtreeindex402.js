@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[8,0,0,0,1,2,0,1,2],
+"de/dd9/AccountMgr_8h.html#aea3ae93168116461b6c0a7a984112175":[8,0,0,0,1,2,0,1,4],
+"de/dd9/classspell__dk__chains__of__ice__aura.html":[7,0,2833],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[7,0,2833,2],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[7,0,2833,1],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[7,0,2833,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[7,0,1752,0],
 "de/dea/structnpc__corrupted__totem.html#a953cf5af625b9b5a4ab6704d5b1b664c":[7,0,1752,6],
 "de/dea/structnpc__corrupted__totem.html#aa3c6b1a3df61c9e98c62efadff637578":[7,0,1752,2],
-"de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[7,0,1752,5],
-"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[7,0,1752,1],
-"de/deb/LogCommon_8h.html":[8,0,0,0,0,9,10],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0]
+"de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[7,0,1752,5]
 };

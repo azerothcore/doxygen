@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,4,9,1,14,11],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[8,0,0,0,1,3,4,9,1,14,4],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298cab67ffc207b468edec1bac215efbaa5ef":[8,0,0,0,1,3,4,9,1,14,15],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298cac3dd916571715913bcc7444c710afc77":[8,0,0,0,1,3,4,9,1,14,5],
@@ -17,10 +18,10 @@ var NAVTREEINDEX271 =
 "da/d47/boss__cthun_8cpp.html#aed31bd88fed65a845df7d4c20e4017de":[8,0,0,0,1,3,4,9,1,19],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[7,0,0,4,0,5],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html":[5,0,0,7,0,5],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[7,0,0,4,0,5,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[5,0,0,7,0,5,0],
-"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[7,0,0,4,0,5,2],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#a8ce1d08e5d320ef2c6301475fba4a7c2":[7,0,0,4,0,5,0],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[5,0,0,7,0,5,2],
+"da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#abd9c16378ed02e10a25cd45111e6fc69":[7,0,0,4,0,5,2],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[7,0,0,4,0,5,1],
 "da/d47/structAcore_1_1Hyperlinks_1_1LinkTags_1_1item.html#ac01b3840e65515853e26c16dd3caaf58":[5,0,0,7,0,5,1],
 "da/d48/adtfile_8h.html":[8,0,0,0,3,4,2],
@@ -88,8 +89,8 @@ var NAVTREEINDEX271 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#aca9a42766818ffc52919d66ab1017745":[8,0,0,0,2,2,0,10,19,16],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#acf2364ee45cd14949ea8fa599d15207b":[8,0,0,0,2,2,0,10,19,11],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[8,0,0,0,2,2,0,10,19,2],
-"da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,0,119],
+"da/d4b/classAcore_1_1SignalHandler.html":[7,0,0,107],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[7,0,0,107,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,0,119,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,0,119,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80e":[8,0,0,0,1,3,5,12,9,4],
 "da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80ea03c212af733c1bcf555938b2559bc56c":[8,0,0,0,1,3,5,12,9,4,1],
 "da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80ea555eabbe9272cf62392020f7d6cfa25a":[8,0,0,0,1,3,5,12,9,4,0],
-"da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80eabdbdc5c3883b94b52ef81f9b5b238996":[8,0,0,0,1,3,5,12,9,4,2],
-"da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80ead5b7e3328018464265ad7409eb25c7c6":[8,0,0,0,1,3,5,12,9,4,3]
+"da/d4c/violet__hold_8h.html#abe6992bac2d8052f606da958bd11d80eabdbdc5c3883b94b52ef81f9b5b238996":[8,0,0,0,1,3,5,12,9,4,2]
 };

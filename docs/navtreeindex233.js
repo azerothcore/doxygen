@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#abeb64d5e543e57d6bb02d50fd5d54f5b":[4,1,20,236],
 "d8/d74/classWorldSession.html#abef4dadaca45be934598f7935a44e1a8":[4,1,20,42],
 "d8/d74/classWorldSession.html#abef70ca4333a15e804d54cb29982e1f2":[4,1,20,76],
 "d8/d74/classWorldSession.html#abf41f82f2279a60bbe2be97c9fb6a1f7":[4,1,20,143],
@@ -221,10 +222,10 @@ var NAVTREEINDEX233 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,1001,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,1001,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d7b/classRotateMovementGenerator.html#a20677803edf5d93ceae3bf76ef426a81":[7,0,2568,2],
 "d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[7,0,2568,7],
 "d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[7,0,2568,4],
-"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[7,0,2568,8],
-"d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[7,0,2568,6]
+"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[7,0,2568,8]
 };

@@ -1,6 +1,7 @@
 var NAVTREEINDEX248 =
 {
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[5,0,34,1,3,2],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[7,0,13,1,3,2],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[7,0,13,1,3,1],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[5,0,34,1,3,1],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html":[7,0,299,13],
@@ -11,14 +12,14 @@ var NAVTREEINDEX248 =
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[5,0,34,10,5],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[7,0,13,10,5,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,34,10,5,3],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,34,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[7,0,13,10,5,0],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[7,0,13,10,5,1],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,34,10,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,34,10,5,1],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,34,10,5,2],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[7,0,13,10,5,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[7,0,13,10,5,2],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,34,10,5,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,34,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[7,0,13,10,5,4],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,34,10,5,4],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html":[7,0,4233],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a5af876b76d9239808ac72c5b6177cdcb":[7,0,4233,1],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html#a6d0d47536e6ef74a88c97019843d478c":[7,0,4233,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "d9/d50/classspell__item__luffa.html":[7,0,3454],
 "d9/d50/classspell__item__luffa.html#a02134ecbc1b1e0c8b6047ec13ef7e701":[7,0,3454,0],
 "d9/d50/classspell__item__luffa.html#a670a8dbdadd988fe3220cc01b71114aa":[7,0,3454,3],
-"d9/d50/classspell__item__luffa.html#a9f1be51fb58cde38cd643c6d1a5a6c15":[7,0,3454,1],
-"d9/d50/classspell__item__luffa.html#aa63cb903e7c6037a6c08381334ccc126":[7,0,3454,2]
+"d9/d50/classspell__item__luffa.html#a9f1be51fb58cde38cd643c6d1a5a6c15":[7,0,3454,1]
 };

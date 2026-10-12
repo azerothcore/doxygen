@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d6/dd0/pet__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274":[8,0,0,0,1,3,8,5,3,1],
 "d6/dd0/pet__shaman_8cpp.html#ab07e634ed761985e07d5c0e10f329231":[8,0,0,0,1,3,8,5,4],
 "d6/dd1/classat__hor__battered__hilt__start.html":[7,0,228],
 "d6/dd1/classat__hor__battered__hilt__start.html#a1b9e6d892525cf28d71757f7861e1d1a":[7,0,228,0],
@@ -44,8 +45,8 @@ var NAVTREEINDEX193 =
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[7,0,13,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[7,0,13,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,34,1,2,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,34,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[7,0,13,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,34,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[7,0,13,1,2,0],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,34,1,2,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html":[7,0,1686,0],
@@ -111,16 +112,16 @@ var NAVTREEINDEX193 =
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,34,17,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[7,0,13,17,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,34,17,0,5],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,17,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[7,0,13,17,0,4],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,34,17,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,34,17,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[7,0,13,17,0,3],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[7,0,13,17,0,1],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,34,17,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,34,17,0,1],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[5,0,34,17,0,2],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[7,0,13,17,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[7,0,13,17,0,2],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[5,0,34,17,0,6],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[5,0,34,17,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[7,0,13,17,0,6],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[5,0,34,17,0,6],
 "d6/dd8/classboss__arlokk.html":[7,0,403],
 "d6/dd8/classboss__arlokk.html#a55bb21239e05acff18d2fb147449800e":[7,0,403,1],
 "d6/dd8/classboss__arlokk.html#a58b8cc7a198784b48faaab1b069d397c":[7,0,403,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a9280b604135308078860c20667da9819":[7,0,2056,0,9],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aa0633855e57f6681cfc68a8dfee9a733":[7,0,2056,0,0],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1":[7,0,2056,0,6],
-"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[7,0,2056,0,2],
-"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#afc6c4faffd83b2fa4ddbb4ae78b622d9":[7,0,2056,0,3]
+"d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#ac29163e2e69cffbf21249eb3828b5b72":[7,0,2056,0,2]
 };

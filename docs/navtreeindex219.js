@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d7/dc7/classnpc__muradin__bronzebeard__igb.html":[7,0,2032],
 "d7/dc7/classnpc__muradin__bronzebeard__igb.html#a1e6abc18a192b3acfa29bf03dd4eeed9":[7,0,2032,1],
 "d7/dc7/classnpc__muradin__bronzebeard__igb.html#af9b149e0780308f26d5adb1e6607a3ce":[7,0,2032,2],
 "d7/dc7/classspell__dk__anti__magic__shell__self.html":[7,0,2822],
@@ -83,22 +84,22 @@ var NAVTREEINDEX219 =
 "d7/dc9/structWardenModuleTransfer.html#a279f37acfa44c06ae14c5a544dd7baf6":[7,0,4684,2],
 "d7/dc9/structWardenModuleTransfer.html#a65dc9a4861ab63743146c65a0a6249f2":[7,0,4684,0],
 "d7/dc9/structWardenModuleTransfer.html#abda0f8cc15c7fb45fa81fcf5ccad8d08":[7,0,4684,1],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html":[5,0,0,97],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html":[7,0,0,85],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a04c85a77d660bbc74279d1062dabc375":[7,0,0,85,2],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html":[5,0,0,97],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a04c85a77d660bbc74279d1062dabc375":[5,0,0,97,2],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a04c85a77d660bbc74279d1062dabc375":[7,0,0,85,2],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a2fe620370289850eb0362823de2072d1":[5,0,0,97,1],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a2fe620370289850eb0362823de2072d1":[7,0,0,85,1],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a64c5fce466521a6d6d78eeda0708d65e":[5,0,0,97,3],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a64c5fce466521a6d6d78eeda0708d65e":[7,0,0,85,3],
+"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a64c5fce466521a6d6d78eeda0708d65e":[5,0,0,97,3],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a67cef25e6f725ea42f0377df34d48495":[7,0,0,85,5],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a67cef25e6f725ea42f0377df34d48495":[5,0,0,97,5],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a801d56a180e196943cfc2cefb6c5dda5":[5,0,0,97,4],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a801d56a180e196943cfc2cefb6c5dda5":[7,0,0,85,4],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[5,0,0,97,0],
 "d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[7,0,0,85,0],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[7,0,11,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[5,0,31,0],
+"d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[7,0,11,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[7,0,11,0,2],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[5,0,31,0,2],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[7,0,11,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d7/dd6/classDBCStorageIterator.html#a4d25ca9a7f276d71a39fc8f05ac2ec8f":[7,0,997,12],
 "d7/dd6/classDBCStorageIterator.html#a5d579fb01742b5b7bbd92de4d44b0ca4":[7,0,997,5],
 "d7/dd6/classDBCStorageIterator.html#a5f84eca02dd9a1a3003cd6cf748c4be7":[7,0,997,4],
-"d7/dd6/classDBCStorageIterator.html#a734ca6242c1ab2c6ac1b3126f6ee81f0":[7,0,997,2],
-"d7/dd6/classDBCStorageIterator.html#a76f99de60a6ff7306b0e585b0a49def9":[7,0,997,6]
+"d7/dd6/classDBCStorageIterator.html#a734ca6242c1ab2c6ac1b3126f6ee81f0":[7,0,997,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca13f0566b0ca3096731d7cb26218482bb":[8,0,0,0,1,3,9,8,107,4],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca7227e70ca8ec20f54882a8e9d470c7c7":[8,0,0,0,1,3,9,8,107,5],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00cab191d4b8e855ae781da47adf39ca7f29":[8,0,0,0,1,3,9,8,107,2],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00cab7ee868a6086c8bdfb53c77d2c0e18e3":[8,0,0,0,1,3,9,8,107,3],
@@ -130,10 +131,10 @@ var NAVTREEINDEX319 =
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2338,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2338,3],
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2338,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[7,0,2337,1],
 "dc/d05/structboss__anomalus.html":[7,0,393],
 "dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[7,0,393,9],
-"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[7,0,393,10],
-"dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[7,0,393,5]
+"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[7,0,393,10]
 };

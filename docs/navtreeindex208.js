@@ -1,5 +1,6 @@
 var NAVTREEINDEX208 =
 {
+"d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69":[7,0,2474,56],
 "d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f":[7,0,2474,53],
 "d7/d95/classPoolMgr.html#ad43a80a1432e7cc6dab2ee0631a39a6a":[7,0,2474,13],
 "d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21":[7,0,2474,60],
@@ -248,6 +249,5 @@ var NAVTREEINDEX208 =
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html":[7,0,299,2],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[7,0,299,2,0],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[7,0,299,2,1],
-"d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,299,2,2],
-"d7/d9e/classWorldPackets_1_1Quest_1_1QuestLogRemoveQuest.html":[7,0,13,14,8]
+"d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[7,0,299,2,2]
 };

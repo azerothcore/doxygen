@@ -1,5 +1,6 @@
 var NAVTREEINDEX183 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca5144586b3b2ea76c648921c7df349c35":[8,0,0,0,1,3,2,1,1,8,4,12],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca667a079b04cc692b797d1e84b8026637":[8,0,0,0,1,3,2,1,1,8,4,10],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ea77c0f71e7cfec827076d1bf979469":[8,0,0,0,1,3,2,1,1,8,4,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca757aa4e3604bb36e01dcc74c895edf88":[8,0,0,0,1,3,2,1,1,8,4,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea":[8,0,0,0,1,3,7,5,2,5,3,7],
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9":[8,0,0,0,1,3,7,5,2,5,3,1],
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82":[8,0,0,0,1,3,7,5,2,5,3,5],
-"d6/d6b/classspell__mage__ignite.html":[7,0,3646],
-"d6/d6b/classspell__mage__ignite.html#a3f6a53421c7c4b9346d98aa51c4ccd6d":[7,0,3646,1]
+"d6/d6b/classspell__mage__ignite.html":[7,0,3646]
 };

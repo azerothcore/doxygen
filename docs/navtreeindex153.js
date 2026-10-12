@@ -1,5 +1,6 @@
 var NAVTREEINDEX153 =
 {
+"d5/d53/classspell__kologarn__stone__shout.html#ae8d940a89be9b63286911bd55dcd3844":[7,0,3585,0],
 "d5/d55/classachievement__bg__ic__resource__glut.html":[7,0,46],
 "d5/d55/classachievement__bg__ic__resource__glut.html#a9910cf8b16b8c956df382161cc5f2c84":[7,0,46,1],
 "d5/d55/classachievement__bg__ic__resource__glut.html#ace247962dccee2601ceade593b0874d4":[7,0,46,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d65/classspell__warl__eye__of__kilrogg.html#a9029865b5e06c4a9aa7f155f371c9125":[7,0,4353,1],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#ae15d5175671c60a55e4a77848bc9fe1b":[7,0,4353,3],
 "d5/d65/classspell__warl__eye__of__kilrogg.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2":[7,0,4353,0],
-"d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,17,20],
-"d5/d65/structlfg_1_1RBInternalInfo.html":[7,0,5,20]
+"d5/d65/structlfg_1_1RBInternalInfo.html":[5,0,17,20]
 };

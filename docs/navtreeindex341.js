@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacb5e8ddf99b5a719efc4f19ec46dd9e3":[8,0,0,0,1,3,3,1,29,18],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacfd88d4ffdbbb55e5768fd361a09b608":[8,0,0,0,1,3,3,1,29,5],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad41deaeb36aa8f65bf9a38d26c886a89":[8,0,0,0,1,3,3,1,29,16],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201":[8,0,0,0,1,3,3,1,29,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dc/de8/classBattlegroundIC.html#a51b044fa5ae25ae0846aaac5f9306534":[7,0,343,39],
 "dc/de8/classBattlegroundIC.html#a556c4b2d8de07ec3689d6579dc6dd339":[7,0,343,34],
 "dc/de8/classBattlegroundIC.html#a5a508ac96dc9358b488b15b8b799b660":[7,0,343,2],
-"dc/de8/classBattlegroundIC.html#a5bb25b5e577817c39a3466bb42a53db8":[7,0,343,18],
-"dc/de8/classBattlegroundIC.html#a6208616b3ab5d3e47366ff43568d5975":[7,0,343,10]
+"dc/de8/classBattlegroundIC.html#a5bb25b5e577817c39a3466bb42a53db8":[7,0,343,18]
 };

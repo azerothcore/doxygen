@@ -1,6 +1,7 @@
 var NAVTREEINDEX280 =
 {
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,34,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[7,0,13,8,6,0],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html":[7,0,4440],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html#a3f53d4e7fa30e53a1e05803a60c8b09b":[7,0,4440,1],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html#a766440359968faf85f60f987b5da8c70":[7,0,4440,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX280 =
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ad87da3eb261f03d36d7520dc20d8b1b9":[7,0,1382,0,7],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ae57762cc1a5555f0532cf630179d2840":[7,0,1382,0,3],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af535a80d3e92a9ff42c6d9edaa989a44":[7,0,1382,0,13],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af97a2dc80ff18b4258e2137c60c5983d":[7,0,1382,0,6],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#afce97e50bbc6d935c183b1ed21f6c993":[7,0,1382,0,4]
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#af97a2dc80ff18b4258e2137c60c5983d":[7,0,1382,0,6]
 };

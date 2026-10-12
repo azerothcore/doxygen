@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af03e74d7f69961f850f6db995248c82a":[8,0,0,0,1,2,26,2,0,59],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af0446f9beb7a75243d988766835648e2":[8,0,0,0,1,2,26,2,0,32],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af74cb4de9f1a6c40b5911083736bebee":[8,0,0,0,1,2,26,2,0,6],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262":[8,0,0,0,1,2,26,2,0,101],
@@ -197,10 +198,10 @@ var NAVTREEINDEX331 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html":[7,0,13,6,44],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[5,0,34,6,44,9],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a02f6f0dcf1be3a6befe959388d9aedd8":[7,0,13,6,44,9],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[7,0,13,6,44,5],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[5,0,34,6,44,5],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[5,0,34,6,44,1],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a585acb139537e8def9e4ba076a332b6b":[7,0,13,6,44,5],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[7,0,13,6,44,1],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a794961a2e9f4773254b2439837150b50":[5,0,34,6,44,1],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[7,0,13,6,44,0],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7bd695ba9365b53703204e45c930b254":[5,0,34,6,44,0],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#a7fb40a5bce99fcf70176ebe344424ed2":[7,0,13,6,44,12],
@@ -211,16 +212,16 @@ var NAVTREEINDEX331 =
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa351a270de4cba2faddc5179cb854b94":[7,0,13,6,44,7],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[7,0,13,6,44,10],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aa6342565a23693718b5ef84f90b83350":[5,0,34,6,44,10],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[7,0,13,6,44,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[5,0,34,6,44,2],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aadb29895c835e820168ad7d3f608d3b8":[7,0,13,6,44,2],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#acb553637ff289603411fa5795a361deb":[7,0,13,6,44,4],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#acb553637ff289603411fa5795a361deb":[5,0,34,6,44,4],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad3ee1ba956ea725db8588e3be3c57b18":[5,0,34,6,44,11],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad3ee1ba956ea725db8588e3be3c57b18":[7,0,13,6,44,11],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[5,0,34,6,44,6],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[7,0,13,6,44,6],
-"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[5,0,34,6,44,8],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#ad50c43162525d8ad2ea33e48c01e838e":[5,0,34,6,44,6],
 "dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[7,0,13,6,44,8],
+"dc/d5a/structWorldPackets_1_1Guild_1_1GuildRosterMemberData.html#aedaee0b4511ddd82cc75e91cb04e175a":[5,0,34,6,44,8],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html":[8,0,0,0,1,3,7,4,0,2],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,0,2,3],
 "dc/d5b/boss__kelidan__the__breaker_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,4,0,2,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dc/d5b/classspell__shield__of__runes__aura.html#a4d7ec990112b4ed602bcacf5a6de6722":[7,0,4170,0],
 "dc/d5b/classspell__shield__of__runes__aura.html#a7cc9f0d6882b713c7b0a2585d6008437":[7,0,4170,1],
 "dc/d5b/classspell__shield__of__runes__aura.html#a8bd121743d1153ae3fd8eb124e475d0f":[7,0,4170,3],
-"dc/d5b/classspell__shield__of__runes__aura.html#ad3a66fdfb2a159461bb3deeab6f71c13":[7,0,4170,2],
-"dc/d5c/classspell__pagles__point__cast.html":[7,0,3764]
+"dc/d5b/classspell__shield__of__runes__aura.html#ad3a66fdfb2a159461bb3deeab6f71c13":[7,0,4170,2]
 };

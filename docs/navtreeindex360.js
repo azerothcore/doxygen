@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[7,0,3919,1],
 "dd/dc6/steam__vault_8h.html":[8,0,0,0,1,3,7,2,2,4],
 "dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[8,0,0,0,1,3,7,2,2,4,2],
 "dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,7,2,2,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2379d1f49e5653b186c8c56a5942bc81":[8,0,0,0,1,2,38,0,77,1,172],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a24141bf360bf13fe839b1c248670b885":[8,0,0,0,1,2,38,0,77,1,84],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a244367339ab9b82bc0f25464125b6dc4":[8,0,0,0,1,2,38,0,77,1,76],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[8,0,0,0,1,2,38,0,77,1,38],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a27f71468300c58dc100ab0150ff2a743":[8,0,0,0,1,2,38,0,77,1,94]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2500612177c3c26fcffe68ca8c461a62":[8,0,0,0,1,2,38,0,77,1,38]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX431 =
 {
+"df/df1/structCell.html#abe34b4a97c468b8db563092dda60340a":[7,0,865,3],
+"df/df1/structCell.html#abf5f46566b03eefa5509e8d4f5ad5003":[7,0,865,6],
+"df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[7,0,865,4],
+"df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[7,0,865,21],
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[7,0,865,23],
 "df/df1/structCell.html#ade5ac24b3da0ab3e95ea06dd72f63560":[7,0,865,29],
 "df/df2/classspell__dk__blade__barrier.html":[7,0,2826],
@@ -245,9 +249,5 @@ var NAVTREEINDEX431 =
 "dir_1030cafe24ff22cf50f89adc924924e3.html":[8,0,0,0,1,2,16,0],
 "dir_10467085a1f56260d3e93e65d32ed8de.html":[8,0,0,0,1,3,5,9,2],
 "dir_104b7121e64315d1b2361279804102a4.html":[8,0,0,0,1,4,3],
-"dir_1070012e9e40376f8468ff0aa5b77c71.html":[8,0,0,0,0],
-"dir_10cc9e05dd2639963b68719a523d1ea8.html":[8,0,0,0,1,2,31,2],
-"dir_10e0fdc55825859b4f92970a0e407994.html":[8,0,0,0,1,2,9],
-"dir_14e88a38456ce636c6ee65eed9c3a2a1.html":[8,0,0,0,1,3,5,10,0],
-"dir_15083f8b5066937009b1e1e793a7b821.html":[8,0,0,0,1,2,1]
+"dir_1070012e9e40376f8468ff0aa5b77c71.html":[8,0,0,0,0]
 };

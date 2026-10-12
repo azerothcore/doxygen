@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[7,0,1752,1],
+"de/deb/LogCommon_8h.html":[8,0,0,0,0,9,10],
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[8,0,0,0,0,9,10,0,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[8,0,0,0,0,9,10,0,5],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[8,0,0,0,0,9,10,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1":[7,0,4730,3],
 "de/df5/classWorldLocation.html#a424e67f5a820f3396ed6a02c3daa05fb":[7,0,4730,0],
 "de/df5/classWorldLocation.html#a48cad9058b04a5108c4b99c7fd4d0bfe":[7,0,4730,4],
-"de/df5/classWorldLocation.html#a75c59d33f5aac8da8eb9b8c5e2711acf":[7,0,4730,6],
-"de/df5/classWorldLocation.html#a88161a79f13aa3ab267096cfa8e5d0ed":[7,0,4730,12],
-"de/df5/classWorldLocation.html#aa2623109f914fd8592f865545696d27b":[7,0,4730,5],
-"de/df5/classWorldLocation.html#abb5d3b7c89fa4a39d2486f2f943159e4":[7,0,4730,8]
+"de/df5/classWorldLocation.html#a75c59d33f5aac8da8eb9b8c5e2711acf":[7,0,4730,6]
 };

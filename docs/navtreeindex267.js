@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/d10/classWMORoot.html#a9e2bea32209471be360f964e7c6702ad":[7,0,4724,1],
 "da/d10/classWMORoot.html#ab51a28cda7db10964cfac9b13022dcd6":[7,0,4724,11],
 "da/d10/classWMORoot.html#ab9f1ca906365d919dc8c03b04d3f7759":[7,0,4724,5],
 "da/d10/classWMORoot.html#ac0b9bc8f8087878b2b51be8261f9928c":[7,0,4724,16],
@@ -65,14 +66,14 @@ var NAVTREEINDEX267 =
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[7,0,0,42,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[7,0,0,42,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,0,54,1],
-"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[7,0,0,42,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,0,54,5],
-"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,54,0],
+"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[7,0,0,42,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[7,0,0,42,0],
+"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,54,0],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,0,54,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[7,0,0,42,4],
-"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[7,0,0,42,2],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,0,54,2],
+"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[7,0,0,42,2],
 "da/d17/classat__naxxramas__hub__portal.html":[7,0,244],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[7,0,244,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[7,0,244,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/d23/classPackedGuid.html#aecbb8650ca713c175c30cd3ebe86b5d5":[7,0,2408,3],
 "da/d25/structnpc__obsidian__destroyer.html":[7,0,2048],
 "da/d25/structnpc__obsidian__destroyer.html#a08c6b9ec0e2f4207d48f95eedf2c26ab":[7,0,2048,3],
-"da/d25/structnpc__obsidian__destroyer.html#a79ba48d421a636f99ea65c0e34d084e1":[7,0,2048,4],
-"da/d25/structnpc__obsidian__destroyer.html#aaf95dd2c92a5d1745311e4162aee8dbc":[7,0,2048,2]
+"da/d25/structnpc__obsidian__destroyer.html#a79ba48d421a636f99ea65c0e34d084e1":[7,0,2048,4]
 };

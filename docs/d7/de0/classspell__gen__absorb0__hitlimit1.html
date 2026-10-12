@@ -165,6 +165,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a9bb1cb08922b17a40a33fd6d8e8e3067 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67261dcb8b5f6089bdc1a906c91d61df inherit pub_methods_classAuraScript" id="r_a67261dcb8b5f6089bdc1a906c91d61df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a> () const</td></tr>
 <tr class="separator:a67261dcb8b5f6089bdc1a906c91d61df inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa654480860028573ed5a36f48067d311 inherit pub_methods_classAuraScript" id="r_aa654480860028573ed5a36f48067d311"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d1c/classGameObject.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#aa654480860028573ed5a36f48067d311">GetGObjCaster</a> () const</td></tr>
+<tr class="separator:aa654480860028573ed5a36f48067d311 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4e53f9ab5182bab19267607e4d33c5d7 inherit pub_methods_classAuraScript" id="r_a4e53f9ab5182bab19267607e4d33c5d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a> () const</td></tr>
 <tr class="separator:a4e53f9ab5182bab19267607e4d33c5d7 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae0ce7b7a97c6bcb2734ac79f8fa86a15 inherit pub_methods_classAuraScript" id="r_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a> () const</td></tr>
@@ -348,14 +350,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1264</span>    {</div>
-<div class="line"><span class="lineno"> 1265</span>        absorbAmount = std::min(<a class="code hl_variable" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">_limit</a>, absorbAmount);</div>
-<div class="line"><span class="lineno"> 1266</span>    }</div>
-<div class="ttc" id="aclassspell__gen__absorb0__hitlimit1_html_a5985a97749e318e3ccba4c96724d8704"><div class="ttname"><a href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">spell_gen_absorb0_hitlimit1::_limit</a></div><div class="ttdeci">uint32 _limit</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1274</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1284</span>    {</div>
+<div class="line"><span class="lineno"> 1285</span>        absorbAmount = std::min(<a class="code hl_variable" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">_limit</a>, absorbAmount);</div>
+<div class="line"><span class="lineno"> 1286</span>    }</div>
+<div class="ttc" id="aclassspell__gen__absorb0__hitlimit1_html_a5985a97749e318e3ccba4c96724d8704"><div class="ttname"><a href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">spell_gen_absorb0_hitlimit1::_limit</a></div><div class="ttdeci">uint32 _limit</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1294</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01274">_limit</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01294">_limit</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01268">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01288">Register()</a>.</p>
 
 </div>
 </div>
@@ -383,16 +385,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1257</span>    {</div>
-<div class="line"><span class="lineno"> 1258</span>        <span class="comment">// Max absorb stored in 1 dummy effect</span></div>
-<div class="line"><span class="lineno"> 1259</span>        <a class="code hl_variable" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">_limit</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>].CalcValue();</div>
-<div class="line"><span class="lineno"> 1260</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1261</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1277</span>    {</div>
+<div class="line"><span class="lineno"> 1278</span>        <span class="comment">// Max absorb stored in 1 dummy effect</span></div>
+<div class="line"><span class="lineno"> 1279</span>        <a class="code hl_variable" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704">_limit</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>].CalcValue();</div>
+<div class="line"><span class="lineno"> 1280</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1281</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1025</div></div>
 <div class="ttc" id="aclassSpellInfo_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition</b> SpellInfo.h:417</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01274">_limit</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00417">SpellInfo::Effects</a>, and <a class="el" href="../../#l01025">AuraScript::GetSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01294">_limit</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00417">SpellInfo::Effects</a>, and <a class="el" href="../../#l01025">AuraScript::GetSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -446,15 +448,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1269</span>    {</div>
-<div class="line"><span class="lineno"> 1270</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c">spell_gen_absorb0_hitlimit1::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
-<div class="line"><span class="lineno"> 1271</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1289</span>    {</div>
+<div class="line"><span class="lineno"> 1290</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c">spell_gen_absorb0_hitlimit1::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
+<div class="line"><span class="lineno"> 1291</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ab4a9285b03a1956f599d7ee5f955373a"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a></div><div class="ttdeci">#define AuraEffectAbsorbFn(F, I)</div><div class="ttdef"><b>Definition</b> SpellScript.h:802</div></div>
 <div class="ttc" id="aclassAuraScript_html_a909387711ea2be188172d2f72391e2cf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">AuraScript::OnEffectAbsorb</a></div><div class="ttdeci">HookList&lt; EffectAbsorbHandler &gt; OnEffectAbsorb</div><div class="ttdef"><b>Definition</b> SpellScript.h:801</div></div>
-<div class="ttc" id="aclassspell__gen__absorb0__hitlimit1_html_aecfcbafe098adddba0a73965c447558c"><div class="ttname"><a href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c">spell_gen_absorb0_hitlimit1::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1263</div></div>
+<div class="ttc" id="aclassspell__gen__absorb0__hitlimit1_html_aecfcbafe098adddba0a73965c447558c"><div class="ttname"><a href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c">spell_gen_absorb0_hitlimit1::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:1283</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01263">Absorb()</a>, <a class="el" href="../../#l00802">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00801">AuraScript::OnEffectAbsorb</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01283">Absorb()</a>, <a class="el" href="../../#l00802">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00801">AuraScript::OnEffectAbsorb</a>.</p>
 
 </div>
 </div>
@@ -479,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01263">Absorb()</a>, and <a class="el" href="../../#l01256">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01283">Absorb()</a>, and <a class="el" href="../../#l01276">Load()</a>.</p>
 
 </div>
 </div>
@@ -492,7 +494,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/de0/classspell__gen__absorb0__hitlimit1.html">spell_gen_absorb0_hitlimit1</a></li>
-    <li class="footer">Generated on Sun Oct 11 2026 12:01:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 12 2026 14:27:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

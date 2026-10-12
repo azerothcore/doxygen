@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#afce97e50bbc6d935c183b1ed21f6c993":[7,0,1382,0,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html":[8,0,0,0,1,3,7,13],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2":[8,0,0,0,1,3,7,13,44],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e":[8,0,0,0,1,3,7,13,44,0],
@@ -222,10 +223,10 @@ var NAVTREEINDEX281 =
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[7,0,2917,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,34,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,34,8,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[7,0,13,8,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,34,8,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[7,0,13,8,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[7,0,13,8,10,2],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,34,8,10,2],
 "da/daf/classspell__contagion__of__rot.html":[7,0,2791],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,7,14,11],
 "da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,7,14,11,14],
 "da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1a059d80d0950c0f43f5f6e7eaa204d781":[8,0,0,0,1,3,5,7,14,11,13],
-"da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1a1129e34ee70da04b3dda9522491ca36e":[8,0,0,0,1,3,5,7,14,11,9],
-"da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1a1573f78706ee51b495dbe8d9b0a39e56":[8,0,0,0,1,3,5,7,14,11,0]
+"da/db3/boss__thaddius_8cpp.html#a16774215bba3b38580ea51987d64cff1a1129e34ee70da04b3dda9522491ca36e":[8,0,0,0,1,3,5,7,14,11,9]
 };

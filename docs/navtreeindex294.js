@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/d2d/boss__hazzarah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0b49bbd252c742e5e12547b6cd047e6":[8,0,0,0,1,3,2,15,4,2,0],
 "db/d2d/enuminfo__CreatureAI_8cpp.html":[8,0,0,0,1,2,3,11],
 "db/d2d/structLastPhaseIceTombTargetSelector.html":[7,0,1451],
 "db/d2d/structLastPhaseIceTombTargetSelector.html#a92a846ff557334b1f30d8e062a2c64e9":[7,0,1451,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1":[8,0,0,0,1,3,7,0,3,3,4,3],
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a335d606fe2b988eedc4359047f7aaa27":[8,0,0,0,1,3,7,0,3,3,4,2],
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0":[8,0,0,0,1,3,7,0,3,3,4,1],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe":[8,0,0,0,1,3,7,0,3,3,4,0],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,3,6]
+"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe":[8,0,0,0,1,3,7,0,3,3,4,0]
 };

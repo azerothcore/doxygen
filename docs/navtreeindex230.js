@@ -1,5 +1,6 @@
 var NAVTREEINDEX230 =
 {
+"d8/d62/structLoot.html#a17afd605f9fd4874dcccb98f99894d36":[7,0,1495,1],
 "d8/d62/structLoot.html#a1b549de55c06b66b4b8faa81d3020bff":[7,0,1495,28],
 "d8/d62/structLoot.html#a2106e5b6ebd714a1aa81879f15a96f28":[7,0,1495,22],
 "d8/d62/structLoot.html#a21b53989f30d155e42ff928e2a3fe580":[7,0,1495,7],
@@ -121,8 +122,8 @@ var NAVTREEINDEX230 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
 "d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,465],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,465,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,465,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d72/classDisableMgr.html#a7a299346248eb6dc692f9e56ae9efffd":[7,0,1020,12],
 "d8/d72/classDisableMgr.html#a8dce4846886ded6ec2b882820abdc517":[7,0,1020,9],
 "d8/d72/classDisableMgr.html#ac3787801d677b0ed6592476d648743db":[7,0,1020,7],
-"d8/d72/classDisableMgr.html#accac4f17d8411544e22ba2231b04f36f":[7,0,1020,8],
-"d8/d72/classDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[7,0,1020,11]
+"d8/d72/classDisableMgr.html#accac4f17d8411544e22ba2231b04f36f":[7,0,1020,8]
 };

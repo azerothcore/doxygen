@@ -1,5 +1,6 @@
 var NAVTREEINDEX256 =
 {
+"d9/d8d/classspell__illidari__council__circle__of__healing.html#a94b783490dafae872b65e0bbfed156b9":[7,0,3359,0],
 "d9/d8d/classspell__illidari__council__circle__of__healing.html#af59695af3afcc51a3c29fcc4053bbfee":[7,0,3359,1],
 "d9/d8f/dire__maul_8h.html":[8,0,0,0,1,3,4,2,1],
 "d9/d8f/dire__maul_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,2,1,0],
@@ -234,20 +235,19 @@ var NAVTREEINDEX256 =
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3040,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
 "d9/d9a/structboss__thorim__sif__blizzard.html":[7,0,758],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a019b50cc265dff0e92417482b85ccf64":[7,0,758,3],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,758,7],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a347fcc28a0bc660b9fa93fe7fc54eea0":[7,0,758,5],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a55424c77633aaa62e12581a818736441":[7,0,758,2],
 "d9/d9a/structboss__thorim__sif__blizzard.html#a6e5333d6a87956d2052c2212a3dcb0fa":[7,0,758,4],
-"d9/d9a/structboss__thorim__sif__blizzard.html#a7d4054eb43079fe13e5a7a6c85b461ec":[7,0,758,0],
-"d9/d9a/structboss__thorim__sif__blizzard.html#ab41c744d8573b1f8ce5e82e798c9bd4f":[7,0,758,1]
+"d9/d9a/structboss__thorim__sif__blizzard.html#a7d4054eb43079fe13e5a7a6c85b461ec":[7,0,758,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"db/d80/structinstance__blackrock__spire.html#a5f030c5203db6e01cfe9bd6fc5b56934":[7,0,1335,37],
 "db/d80/structinstance__blackrock__spire.html#a60644099cb87722e4540fc847fb23b5e":[7,0,1335,32],
 "db/d80/structinstance__blackrock__spire.html#a6369a4aa31dbe9a9b62781eea78536ef":[7,0,1335,41],
 "db/d80/structinstance__blackrock__spire.html#a640c86de175fcef7aa25dedb4601be57":[7,0,1335,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[7,0,3691,2],
 "db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[7,0,3691,1],
 "db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[7,0,3691,5],
-"db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[7,0,3691,0],
-"db/d88/classspell__mc__play__dead__aura.html#abec6d69d331e9952c129dc4cc24f0f13":[7,0,3691,3]
+"db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[7,0,3691,0]
 };

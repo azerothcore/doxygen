@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"db/d51/classspell__dk__death__gate.html":[7,0,2840],
 "db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[7,0,2840,1],
 "db/d51/classspell__dk__death__gate.html#a599ce758681c5196bd40e4c7b86635cc":[7,0,2840,2],
 "db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[7,0,2840,0],
@@ -65,8 +66,8 @@ var NAVTREEINDEX296 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[8,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "db/d5c/classWarden.html#a2290a6e3a863b9a49941e7ecad9e2db7":[7,0,4677,29],
 "db/d5c/classWarden.html#a26834a0b56572c83ddf665ba5feb3229":[7,0,4677,26],
 "db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6":[7,0,4677,2],
-"db/d5c/classWarden.html#a3e786c9bb08fcd9a1349f2ec47cc3eeb":[7,0,4677,6],
-"db/d5c/classWarden.html#a4bb614b2dcabf334bee33142dd99ead3":[7,0,4677,31]
+"db/d5c/classWarden.html#a3e786c9bb08fcd9a1349f2ec47cc3eeb":[7,0,4677,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html":[7,0,1867,0],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a33ef03a9f005ff187493275a9c2683a7":[7,0,1867,0,4],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a45588181429a74ac024e0390c76fa57a":[7,0,1867,0,3],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a49ff3db7845167b9e98feab2a01b1ed1":[7,0,1867,0,2],
@@ -114,12 +115,12 @@ var NAVTREEINDEX217 =
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4177],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4177,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4177,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dc0/structboss__the__lurker__below.html#a42dd2ed36209e7be61788d054e2754b5":[7,0,747,7],
 "d7/dc0/structboss__the__lurker__below.html#a522164e819db5062225f7d5704cdaa36":[7,0,747,4],
 "d7/dc0/structboss__the__lurker__below.html#a5ec68a1bc5b22e03fe485448257ad7df":[7,0,747,9],
-"d7/dc0/structboss__the__lurker__below.html#a92d854cb21b272bd09674c724b1aa862":[7,0,747,10],
-"d7/dc0/structboss__the__lurker__below.html#aa31e26b77e0c2403a338f781bf14c94b":[7,0,747,5]
+"d7/dc0/structboss__the__lurker__below.html#a92d854cb21b272bd09674c724b1aa862":[7,0,747,10]
 };

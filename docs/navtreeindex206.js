@@ -1,5 +1,6 @@
 var NAVTREEINDEX206 =
 {
+"d7/d79/CompilerDefs_8h.html#a96b4a3022030f69221679448f34f1972":[8,0,0,0,0,20,7],
 "d7/d79/CompilerDefs_8h.html#ac8ee3c2752751f98265e16c95cbaea47":[8,0,0,0,0,20,3],
 "d7/d79/CompilerDefs_8h.html#ad92d7f8e69537bfc6f28bfce27856c1f":[8,0,0,0,0,20,0],
 "d7/d79/namespaceboost_1_1posix__time.html":[5,0,7,2],
@@ -17,16 +18,16 @@ var NAVTREEINDEX206 =
 "d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[7,0,2090,1],
 "d7/d7e/CreatureScript_8cpp.html":[8,0,0,0,1,2,38,0,41],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[8,0,0,0,1,2,38,0,41,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[7,0,13,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[7,0,13,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[7,0,13,3,1,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[7,0,13,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[7,0,13,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[7,0,13,3,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[7,0,13,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[7,0,13,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[7,0,3945],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[7,0,3945,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[7,0,3945,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX206 =
 "d7/d8c/structFriendInfo.html#a380f11d65b34e1e598b7861987cecfe6":[7,0,1104,7],
 "d7/d8c/structFriendInfo.html#a70d9a74f4587f648db5bf49b61091213":[7,0,1104,5],
 "d7/d8c/structFriendInfo.html#a8b797fcfda05d52d4297f32e458be519":[7,0,1104,3],
-"d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f":[7,0,1104,6],
-"d7/d8c/structFriendInfo.html#ab74652d747c8baa8df7fdbcfd5c68636":[7,0,1104,4]
+"d7/d8c/structFriendInfo.html#aa9aea70eba08de460ff9cc5c622ca75f":[7,0,1104,6]
 };

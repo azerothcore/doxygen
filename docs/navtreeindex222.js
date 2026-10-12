@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa094ef89cc14332f71872d1864ec2543":[8,0,0,0,1,2,16,10,6,7,0],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa1fa851e463bf75f379d7b6a668c0cff":[8,0,0,0,1,2,16,10,6,7,15],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa28b6421a1efdc3a6377c480e1f80809":[8,0,0,0,1,2,16,10,6,7,1],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547caa2a3be49d483fe70fcffab38a9787557":[8,0,0,0,1,2,16,10,6,7,27],
@@ -222,18 +223,18 @@ var NAVTREEINDEX222 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[7,0,4262,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,0,58],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[7,0,0,46],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,0,58,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[7,0,0,46,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,0,58,1],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,0,58,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[7,0,0,46,1],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,0,58,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,0,58,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[7,0,0,46,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,0,58,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,0,58,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[7,0,0,46,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,0,58,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[7,0,0,46,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[7,0,0,46,4],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,0,58,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[7,0,0,46,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html":[8,0,0,0,1,3,7,2,0,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[8,0,0,0,1,3,7,2,0,5,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,2,0,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,0,5,3],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca030b841724ccf07ccbdcc86568a6c763":[8,0,0,0,1,3,7,2,0,5,3,10],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca28494a79e9aeab976661d13564d078cd":[8,0,0,0,1,3,7,2,0,5,3,5],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ac868eb7744b844bd7e88dbf4ce424f":[8,0,0,0,1,3,7,2,0,5,3,9],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[8,0,0,0,1,3,7,2,0,5,3,6]
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ac868eb7744b844bd7e88dbf4ce424f":[8,0,0,0,1,3,7,2,0,5,3,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#a8084994ba056c907b2e487568fa7502a":[7,0,2007,0,1],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#a8ea0fe40cb4b113abadc091ab8085636":[7,0,2007,0,4],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#a9201c4cdf74d55bb3cde52eb265aa3d9":[7,0,2007,0,7],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html#a92334b8178317a91a7d4336096d75f33":[7,0,2007,0,8],
@@ -159,8 +160,8 @@ var NAVTREEINDEX189 =
 "d6/d9d/EventMap_8cpp.html":[8,0,0,0,0,15,10],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[7,0,13,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[7,0,13,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[7,0,13,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[7,0,13,11,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d6/da2/classspell__skadi__poisoned__spear.html#a0dd5b7a8cf086ee3b5a6f30326874ee3":[7,0,4188,2],
 "d6/da2/classspell__skadi__poisoned__spear.html#a34f6166e27cb99e424dd081ffce704a5":[7,0,4188,1],
 "d6/da2/classspell__skadi__poisoned__spear.html#a364c96f7253fde59e1a9a59a42c4d3a5":[7,0,4188,3],
-"d6/da2/classspell__skadi__poisoned__spear.html#ac8d984ac87f51050113f7ac1a4625785":[7,0,4188,0],
-"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html":[7,0,2031,0]
+"d6/da2/classspell__skadi__poisoned__spear.html#ac8d984ac87f51050113f7ac1a4625785":[7,0,4188,0]
 };

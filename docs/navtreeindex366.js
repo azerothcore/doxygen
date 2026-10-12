@@ -1,5 +1,6 @@
 var NAVTREEINDEX366 =
 {
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[7,0,4334,2],
 "de/d00/structboss__roar.html":[7,0,691],
 "de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[7,0,691,2],
 "de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[7,0,691,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX366 =
 "de/d09/classspell__apothecary__lingering__fumes.html":[7,0,2673],
 "de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[7,0,2673,3],
 "de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[7,0,2673,2],
-"de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[7,0,2673,1],
-"de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[7,0,2673,0]
+"de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[7,0,2673,1]
 };

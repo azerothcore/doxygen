@@ -157,6 +157,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a9bb1cb08922b17a40a33fd6d8e8e3067 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67261dcb8b5f6089bdc1a906c91d61df inherit pub_methods_classAuraScript" id="r_a67261dcb8b5f6089bdc1a906c91d61df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a> () const</td></tr>
 <tr class="separator:a67261dcb8b5f6089bdc1a906c91d61df inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa654480860028573ed5a36f48067d311 inherit pub_methods_classAuraScript" id="r_aa654480860028573ed5a36f48067d311"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d1c/classGameObject.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#aa654480860028573ed5a36f48067d311">GetGObjCaster</a> () const</td></tr>
+<tr class="separator:aa654480860028573ed5a36f48067d311 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4e53f9ab5182bab19267607e4d33c5d7 inherit pub_methods_classAuraScript" id="r_a4e53f9ab5182bab19267607e4d33c5d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a> () const</td></tr>
 <tr class="separator:a4e53f9ab5182bab19267607e4d33c5d7 inherit pub_methods_classAuraScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae0ce7b7a97c6bcb2734ac79f8fa86a15 inherit pub_methods_classAuraScript" id="r_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a> () const</td></tr>
@@ -326,15 +328,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  825</span>    {</div>
-<div class="line"><span class="lineno">  826</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() == eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>();</div>
-<div class="line"><span class="lineno">  827</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  838</span>    {</div>
+<div class="line"><span class="lineno">  839</span>        <span class="keywordflow">return</span> eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() == eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>();</div>
+<div class="line"><span class="lineno">  840</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_a1b55684ec526bdc9b7d5d3b2ac4297a9"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">ProcEventInfo::GetActionTarget</a></div><div class="ttdeci">Unit * GetActionTarget() const</div><div class="ttdef"><b>Definition</b> Unit.h:463</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_a89d8ab0bf0b01e3e1ca4ae10a3cbde10"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">ProcEventInfo::GetActor</a></div><div class="ttdeci">Unit * GetActor()</div><div class="ttdef"><b>Definition</b> Unit.h:462</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">ProcEventInfo::GetActionTarget()</a>, and <a class="el" href="../../#l00462">ProcEventInfo::GetActor()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00829">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00842">Register()</a>.</p>
 
 </div>
 </div>
@@ -388,14 +390,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  830</span>    {</div>
-<div class="line"><span class="lineno">  831</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77">spell_gen_proc_on_self::CheckProc</a>);</div>
-<div class="line"><span class="lineno">  832</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  843</span>    {</div>
+<div class="line"><span class="lineno">  844</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77">spell_gen_proc_on_self::CheckProc</a>);</div>
+<div class="line"><span class="lineno">  845</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:831</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:830</div></div>
-<div class="ttc" id="aclassspell__gen__proc__on__self_html_ad1678a96784add01965d67c3d86bcd77"><div class="ttname"><a href="../../da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77">spell_gen_proc_on_self::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:824</div></div>
+<div class="ttc" id="aclassspell__gen__proc__on__self_html_ad1678a96784add01965d67c3d86bcd77"><div class="ttname"><a href="../../da/dd9/classspell__gen__proc__on__self.html#ad1678a96784add01965d67c3d86bcd77">spell_gen_proc_on_self::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:837</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00831">AuraCheckProcFn</a>, <a class="el" href="../../#l00824">CheckProc()</a>, and <a class="el" href="../../#l00830">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00831">AuraCheckProcFn</a>, <a class="el" href="../../#l00837">CheckProc()</a>, and <a class="el" href="../../#l00830">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -408,7 +410,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dd9/classspell__gen__proc__on__self.html">spell_gen_proc_on_self</a></li>
-    <li class="footer">Generated on Sun Oct 11 2026 12:01:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 12 2026 14:27:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

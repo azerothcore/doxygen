@@ -1,5 +1,6 @@
 var NAVTREEINDEX216 =
 {
+"d7/db0/classMap.html#a8d4da99e3b12b4c6badc6dfb701b477d":[7,0,1525,89],
 "d7/db0/classMap.html#a8de10cbc5e54efeefdf7b0744ad286e2":[7,0,1525,84],
 "d7/db0/classMap.html#a8e2d5bf6434d7c5964752f1a58327ba5":[7,0,1525,150],
 "d7/db0/classMap.html#a8f5d95bf620fdcd0b9ca80c2ba45e731":[7,0,1525,221],
@@ -248,6 +249,5 @@ var NAVTREEINDEX216 =
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[7,0,3975],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[7,0,3975,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[7,0,3975,1],
-"d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab87932c73a2e53647bda584aeb58f789":[7,0,3975,2],
-"d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html":[7,0,1867,0]
+"d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab87932c73a2e53647bda584aeb58f789":[7,0,3975,2]
 };

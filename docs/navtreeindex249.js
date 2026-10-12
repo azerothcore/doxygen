@@ -1,5 +1,6 @@
 var NAVTREEINDEX249 =
 {
+"d9/d50/classspell__item__luffa.html#aa63cb903e7c6037a6c08381334ccc126":[7,0,3454,2],
 "d9/d51/BuiltInConfig_8cpp.html":[8,0,0,0,0,2,0],
 "d9/d51/BuiltInConfig_8cpp.html#a659c80f8f32962119a0640bbcd2009c9":[8,0,0,0,0,2,0,0],
 "d9/d51/classEventEmitter.html":[7,0,1065],
@@ -176,20 +177,20 @@ var NAVTREEINDEX249 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,0,2,12],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#aca39508e7753f6ca5d9aa21a854c0a77":[5,0,0,2,16],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
-"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[7,0,0,115,4],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,0,127,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[7,0,0,115,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,0,127,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,0,127,0],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[7,0,0,115,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,0,127,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[7,0,0,115,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,0,127,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[7,0,0,115,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[7,0,0,115,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,0,127,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[7,0,3714],
@@ -248,6 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,7,4,3,2,6,1],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca70309c041527816c73053b7d9b387f88":[8,0,0,0,1,3,7,4,3,2,6,0],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f4e66bb0a1b5b2705975420f645b16e":[8,0,0,0,1,3,7,4,3,2,6,2],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[8,0,0,0,1,3,7,4,3,2,6,4],
-"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cacbb634b5840115681468371e7d64b9e3":[8,0,0,0,1,3,7,4,3,2,6,3]
+"d9/d60/boss__warbringer__omrogg_8cpp.html#a5bd342133be8c2137b831460acc9298cac9ec0ca3093699f0c8c3758e0076bb58":[8,0,0,0,1,3,7,4,3,2,6,4]
 };
