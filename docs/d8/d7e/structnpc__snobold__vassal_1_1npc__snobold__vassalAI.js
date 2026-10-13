@@ -12,6 +12,7 @@ var structnpc__snobold__vassal_1_1npc__snobold__vassalAI =
     [ "MoveInLineOfSight", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
     [ "Reset", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d", null ],
     [ "ReturnToGormok", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a28fa848fef31e94908de515e75690d1e", null ],
+    [ "SelectFireBombTarget", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ad0b743d88ad18388d77abff9b695f961", null ],
     [ "SetGUID", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac6b89c932978ac89bc158e28b9e229eb", null ],
     [ "UpdateAI", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac1d282da6f2d9133619a212a349c777f", null ],
     [ "Dismounted", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aac0d336fa7aaf65517e599bc2101c7d1", null ],

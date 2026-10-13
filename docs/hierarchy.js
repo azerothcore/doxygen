@@ -5205,6 +5205,7 @@ var hierarchy =
             [ "boss_ionar", "de/df1/structboss__ionar.html", null ],
             [ "boss_isalien", "dc/de3/structboss__isalien.html", null ],
             [ "boss_janalai", "dc/dda/structboss__janalai.html", null ],
+            [ "boss_jaraxxus", "dc/d03/structboss__jaraxxus.html", null ],
             [ "boss_jarien", "df/d9b/structboss__jarien.html", null ],
             [ "boss_jedoga_shadowseeker", "d4/dae/structboss__jedoga__shadowseeker.html", null ],
             [ "boss_jeklik", "d6/d84/structboss__jeklik.html", null ],
@@ -5486,7 +5487,6 @@ var hierarchy =
           ] ],
           [ "boss_ingvar_the_plunderer", "dd/d1b/structboss__ingvar__the__plunderer.html", null ],
           [ "boss_isle_of_conquest::boss_isle_of_conquestAI", "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html", null ],
-          [ "boss_jaraxxus", "dc/d03/structboss__jaraxxus.html", null ],
           [ "boss_jormungarAI", "d2/d99/structboss__jormungarAI.html", [
             [ "boss_acidmaw::boss_acidmawAI", "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html", null ],
             [ "boss_dreadscale::boss_dreadscaleAI", "d5/def/structboss__dreadscale_1_1boss__dreadscaleAI.html", null ]

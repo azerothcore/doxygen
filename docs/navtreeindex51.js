@@ -1,5 +1,9 @@
 var NAVTREEINDEX51 =
 {
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aa903356acce9401a139e30fb6839f4df":[7,0,1341,0,3],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aacdc6a4029fceddfa56155b296012aa3":[7,0,1341,0,0],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aad49d9f3f3c974e5c2f3a42b22759b9a":[7,0,1341,0,4],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab4d27deece6b8274300904571fb62e90":[7,0,1341,0,13],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab7130c806073258f4efae9e9177587be":[7,0,1341,0,10],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ad3eaa065114b6a0d2a38844df9289dc7":[7,0,1341,0,1],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ad6f52ef932cc09e377325e83482a3b5c":[7,0,1341,0,7],
@@ -50,18 +54,18 @@ var NAVTREEINDEX51 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[7,0,3572,0],
 "d1/df9/classspell__kelthuzad__void__blast.html#a5e33a371d519c2fdc8561f2ac8d9dd82":[7,0,3572,2],
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3572,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1681],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[7,0,1681,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[7,0,1681,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d07/boss__watchkeeper__gargolmar_8cpp.html#aea19d6b349e999b0ab1ab91527c524d8":[8,0,0,0,1,3,7,4,1,2,5],
 "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html":[7,0,338,0],
 "d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a02da5cc40ac6e97e63380d6f66e10d7e":[7,0,338,0,5],
-"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a3f33897525f5104e2e7733dd6247c090":[7,0,338,0,2],
-"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a4a4dbb61dd3ae83084ee518830fb7db0":[7,0,338,0,1],
-"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a5f0019635c5d05489f1ef97a95a7f01d":[7,0,338,0,6],
-"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a6afee10a7c333790b597ae264547ee89":[7,0,338,0,7],
-"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a7316d0eccaa25b9f30a39c48635e4c16":[7,0,338,0,8]
+"d2/d07/structBattlegroundEY_1_1CapturePointInfo.html#a3f33897525f5104e2e7733dd6247c090":[7,0,338,0,2]
 };

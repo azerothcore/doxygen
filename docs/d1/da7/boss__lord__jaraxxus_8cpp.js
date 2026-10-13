@@ -31,6 +31,9 @@ var boss__lord__jaraxxus_8cpp =
       [ "SPELL_SUMMON_VOLCANO", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469a60fe386e24f058eaff5363e9d4e0ac2c", null ],
       [ "SPELL_SUMMON_NETHER_PORTAL", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7", null ],
       [ "SPELL_SPELLSTEAL", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469a5d4e332bfb252b3f1f0ecee667bd2c24", null ],
+      [ "SPELL_BERSERK", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_LORD_JARAXXUS_HITTIN_YA", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469afcd45e6dc78293055dd6478794c59175", null ],
+      [ "SPELL_LORD_JARAXXUS_HITTIN_YA_EFFECT", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469a359e195bd5251e1a7b1766ded79ee096", null ],
       [ "SPELL_FEL_STREAK", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469a2bf5df8f821e395efab80a05b2ad583b", null ],
       [ "SPELL_FEL_STREAK_MORPH", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469a79c3839d68c88af88ca9588c630afec1", null ],
       [ "SPELL_SHIVAN_SLASH", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ab697c0d560ed6877bb6889bf294065f1", null ],
@@ -47,7 +50,8 @@ var boss__lord__jaraxxus_8cpp =
       [ "SAY_INCINERATE", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea5cdb0d02f284b7b5291ce74280295247", null ],
       [ "EMOTE_INFERNAL_ERUPTION", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db", null ],
       [ "SAY_INFERNAL_ERUPTION", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea6497a890096599c52269313b8a8605b7", null ],
-      [ "SAY_DEATH", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e", null ]
+      [ "SAY_DEATH", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "EMOTE_BERSERK", "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ead4a2e4c34c9e4cf25e66544b1de3bdd9", null ]
     ] ],
     [ "AddSC_boss_jaraxxus", "d1/da7/boss__lord__jaraxxus_8cpp.html#ae05057811020071be5480076d0ffe62b", null ]
 ];

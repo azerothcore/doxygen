@@ -1,5 +1,13 @@
 var NAVTREEINDEX78 =
 {
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html":[7,0,4457],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a4d2c901a32f526673e968aa5b7ca9117":[7,0,4457,2],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a67da98b94fe491afa06b7a0cfa92982a":[7,0,4457,1],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d":[7,0,4457,0],
+"d2/de1/classlearn__commandscript.html":[7,0,1452],
+"d2/de1/classlearn__commandscript.html#a1e08e9289a6dccde021f3712db106c64":[7,0,1452,10],
+"d2/de1/classlearn__commandscript.html#a2a7cc02eb4417907b50d49bab39110cf":[7,0,1452,7],
+"d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[7,0,1452,14],
 "d2/de1/classlearn__commandscript.html#a44b538a1031ad69bec762f1a791cf11f":[7,0,1452,11],
 "d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[7,0,1452,0],
 "d2/de1/classlearn__commandscript.html#a88e28ec43968c5a8b0bfd1f190d89a98":[7,0,1452,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a86afe84a824c5262aa1ad0e0b2b4e1d1":[7,0,4492,101],
 "d2/de9/classSpellInfo.html#a86f59d4445fd778eb13ee102eb53d3a8":[7,0,4492,76],
 "d2/de9/classSpellInfo.html#a872cb18421b8e2ebde89d3f0a4a18b49":[7,0,4492,137],
-"d2/de9/classSpellInfo.html#a889b32138b72e5e9fabfc03d9cd3b97a":[7,0,4492,108],
-"d2/de9/classSpellInfo.html#a8a627136cf1624b944f8c12702e1e7ed":[7,0,4492,146],
-"d2/de9/classSpellInfo.html#a8ab6fe71653fb500057fe9ab86025315":[7,0,4492,61],
-"d2/de9/classSpellInfo.html#a8b0406b9d3923cb0f92099f9c12822cb":[7,0,4492,5],
-"d2/de9/classSpellInfo.html#a8ba2153277635fd4503d833931591684":[7,0,4492,8],
-"d2/de9/classSpellInfo.html#a8c4a6ad9ddd063a03c252b79ab767361":[7,0,4492,125],
-"d2/de9/classSpellInfo.html#a8cfaa909a0cfb808c1a7bee63a66e863":[7,0,4492,20],
-"d2/de9/classSpellInfo.html#a8d3ee150861a5b9789e8fd75e729e70c":[7,0,4492,34],
-"d2/de9/classSpellInfo.html#a8dc618d81b8658f72b686f8ac9e90829":[7,0,4492,49]
+"d2/de9/classSpellInfo.html#a889b32138b72e5e9fabfc03d9cd3b97a":[7,0,4492,108]
 };

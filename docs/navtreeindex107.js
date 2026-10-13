@@ -1,5 +1,13 @@
 var NAVTREEINDEX107 =
 {
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a5267f4615e01571a4a16d17d6914981b":[5,0,34,11,5,4],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a5267f4615e01571a4a16d17d6914981b":[7,0,13,11,5,4],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a8f88c27f149bf304f46b00dec2aa4a30":[7,0,13,11,5,0],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a8f88c27f149bf304f46b00dec2aa4a30":[5,0,34,11,5,0],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a9478dc1065bc10ebc591ff8022e43993":[7,0,13,11,5,3],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#a9478dc1065bc10ebc591ff8022e43993":[5,0,34,11,5,3],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#acc13f04eb19a4555ae1a54594f1d858b":[7,0,13,11,5,2],
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#acc13f04eb19a4555ae1a54594f1d858b":[5,0,34,11,5,2],
 "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#accf0f9aa4c8f2130f6926235dca69476":[5,0,34,11,5,6],
 "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#accf0f9aa4c8f2130f6926235dca69476":[7,0,13,11,5,6],
 "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html#ae6f9640e257d83d633c48168edc658b6":[7,0,13,11,5,5],
@@ -23,8 +31,8 @@ var NAVTREEINDEX107 =
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,34,10,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[7,0,13,10,7,1],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[5,0,34,10,7,1],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,34,10,7,2],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[7,0,13,10,7,2],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#aea61f9e668173b65eac3b9f42ddd68a1":[5,0,34,10,7,2],
 "d3/d8c/ArenaScript_8cpp.html":[8,0,0,0,1,2,38,0,25],
 "d3/d8c/ArenaScript_8cpp.html#a0e29d9894321e9d406e8b7c8709f0eba":[8,0,0,0,1,2,38,0,25,0],
 "d3/d8c/structGroup_1_1MemberSlot.html":[7,0,1267,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX107 =
 "d3/d92/classGameEventMgr.html#ac955ad9b948e13cde6de5f9f3dd01d03":[7,0,1113,26],
 "d3/d92/classGameEventMgr.html#accbec52c8ba6532ef237a4f7d043bc5d":[7,0,1113,90],
 "d3/d92/classGameEventMgr.html#ad4ba7ab20801131069c613f5c80a4fa1":[7,0,1113,64],
-"d3/d92/classGameEventMgr.html#ad6691e4a5d64eed141caa7adafba862d":[7,0,1113,87],
-"d3/d92/classGameEventMgr.html#ad7b6407e4c5fd950446c22e4a82cdc64":[7,0,1113,70],
-"d3/d92/classGameEventMgr.html#adc311654281a0ac9977ddde2d0140dbf":[7,0,1113,43],
-"d3/d92/classGameEventMgr.html#adcc6d8a9aaefca1ae44783598d70531f":[7,0,1113,17],
-"d3/d92/classGameEventMgr.html#ae2730d0ae47207dfbb0b156a474a9818":[7,0,1113,82],
-"d3/d92/classGameEventMgr.html#ae2b1a729f3af63b9dac537b6ac3b1d3f":[7,0,1113,19],
-"d3/d92/classGameEventMgr.html#ae99f1734450c2dcc7cc6098a884c02d3":[7,0,1113,45],
-"d3/d92/classGameEventMgr.html#aea098683abd57a8a9b4878eb6a3ee747":[7,0,1113,11],
-"d3/d92/classGameEventMgr.html#aeaf307bffcf8ff6629741fd1ad7c8675":[7,0,1113,85]
+"d3/d92/classGameEventMgr.html#ad6691e4a5d64eed141caa7adafba862d":[7,0,1113,87]
 };

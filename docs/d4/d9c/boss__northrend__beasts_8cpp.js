@@ -34,8 +34,7 @@ var boss__northrend__beasts_8cpp =
       [ "EVENT_DISMOUNTED_ATTACK", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa1d7e9fedee1252a3569c213d9cacf61b", null ]
     ] ],
     [ "GormokNPCs", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfb", [
-      [ "NPC_SNOBOLD_VASSAL", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ],
-      [ "NPC_FIRE_BOMB", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfbac8c746f010ffb9dba052834764b5ec74", null ]
+      [ "NPC_SNOBOLD_VASSAL", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ]
     ] ],
     [ "GormokSpells", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769", [
       [ "SPELL_IMPALE", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aed97c932510c91b6057175b2df166f63", null ],
@@ -45,7 +44,6 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_SNOBOLLED", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a71d875578da0ac5e5ef35114fa0fe497", null ],
       [ "SPELL_BATTER", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a68040025176606dd28ce098bde0c1676", null ],
       [ "SPELL_FIRE_BOMB", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769a2a02baa6f6b0fc05418cc7cec5b10907", null ],
-      [ "SPELL_FIRE_BOMB_AURA", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aac17b82b05bda4ebb03cc50649402ac0", null ],
       [ "SPELL_HEAD_CRACK", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769adc7fa41bca93f3d02c9d7feb0ca828fc", null ],
       [ "SPELL_FULL_HEAL", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769ac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ]
     ] ],
@@ -83,8 +81,11 @@ var boss__northrend__beasts_8cpp =
     ] ],
     [ "JormungarEvents", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914", [
       [ "EVENT_SUBMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914ac03b7f1947bf9753f19061f508b61a73", null ],
-      [ "EVENT_EMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_SUBMERGED", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a39af3b2c24857befba42372254668a74", null ],
+      [ "EVENT_CHURN_GROUND", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a324afd594ee73f822714611f335c07a8", null ],
       [ "EVENT_MOVE_UNDERGROUND", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a5b0cf17f03b3aed245d2e23679c85ab0", null ],
+      [ "EVENT_EMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_EMERGED", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914afcd562c1957d304c547f93c210a47334", null ],
       [ "EVENT_SPELL_SPRAY", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914ab9b1b49cb6313c292514b9e79226f272", null ],
       [ "EVENT_SPELL_SWEEP", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a1fc95354bbd7f2de1b5a50caba4c97d9", null ],
       [ "EVENT_SPELL_BITE", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a14fe8fc691729d27eabc2e3ec9cd23d5", null ],
@@ -92,7 +93,11 @@ var boss__northrend__beasts_8cpp =
       [ "EVENT_SPELL_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914aa6db3d3fbc718736676e7e49c46a8d6e", null ]
     ] ],
     [ "JormungarNPCs", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121", [
-      [ "NPC_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121a7302c74dd3e687f8d254be99e3b33b07", null ]
+      [ "NPC_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121a7302c74dd3e687f8d254be99e3b33b07", null ],
+      [ "NPC_MOBILE_BURROW_TARGET", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121aa516ec6e350b6bfa1f7488cb3a382f35", null ]
+    ] ],
+    [ "JormungarPoints", "d4/d9c/boss__northrend__beasts_8cpp.html#aff63f81b9a0be5841dca7b09cd837c3c", [
+      [ "POINT_BURROW", "d4/d9c/boss__northrend__beasts_8cpp.html#aff63f81b9a0be5841dca7b09cd837c3ca3c9fc3204450728176b6f60f6a64d7ac", null ]
     ] ],
     [ "JormungarSpells", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045", [
       [ "SPELL_ACID_SPIT", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045af69c625b663facf12cc5d8a20a280806", null ],
@@ -108,10 +113,14 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_SLIME_POOL_EFFECT", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a1892cccbc37f6959a0f3dfe0696c34c1", null ],
       [ "SPELL_SWEEP_0", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a40e103790e4260c97571977e7eb7a4b0", null ],
       [ "SPELL_SWEEP_1", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045ac4f7f61532f669fa453543505a5e554d", null ],
-      [ "SPELL_EMERGE_0", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a1985bc31980d3f290ed628117734c6bb", null ],
-      [ "SPELL_SUBMERGE_0", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a68612ce86cd5272ba10822eb308b5c2a", null ],
+      [ "SPELL_SUBMERGE_STATIONARY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a2e2234e1076e873d8c4639d65ea04513", null ],
+      [ "SPELL_SUBMERGE_MOBILE", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a49a5e8e6623c26d13a149a8c557298db", null ],
+      [ "SPELL_EMERGE_STATIONARY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a7f5ef1d85ef802342ea962ceddb65566", null ],
+      [ "SPELL_EMERGE_MOBILE", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a9dfd2284152b91330f0fdb81683b7030", null ],
       [ "SPELL_ENRAGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_CHURNING_GROUND", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a42625835db53ddb481cd4b1aab6aedfe", null ]
+      [ "SPELL_CHURNING_GROUND", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a42625835db53ddb481cd4b1aab6aedfe", null ],
+      [ "SPELL_CHURNING_GROUND_STATIONARY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a16234714ad540c67298f2587ef0d1742", null ],
+      [ "SPELL_HATE_TO_ZERO", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a90939d295f477caf29f005dca12317e3", null ]
     ] ],
     [ "Model", "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3e", [
       [ "MODEL_ACIDMAW_STATIONARY", "d4/d9c/boss__northrend__beasts_8cpp.html#a051e4d035e053a4636efc58c1bde9b3ea6c8f0a4e9f01afe7b43428d6559851de", null ],

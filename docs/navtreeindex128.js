@@ -1,5 +1,13 @@
 var NAVTREEINDEX128 =
 {
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a6790d9c852279624a549f60bf26e1eb2":[7,0,1936,0,5],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a8a7666594e59bdac449f2284387b8e2c":[7,0,1936,0,7],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#aa1451254b5eaa1332b87f2d817e1f3a7":[7,0,1936,0,1],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#ab2cd26a6f50f42f2773f8a7b522289ec":[7,0,1936,0,0],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#ab3dbf40235549be89e42951d93593ea2":[7,0,1936,0,6],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#ac406bece1d1f1517b5837e311feef9ae":[7,0,1936,0,3],
+"d4/d39/QueryResult_8h.html":[8,0,0,0,1,1,0,33],
+"d4/d39/structnpc__pilgrims__bounty__chair.html":[7,0,2094],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a23b35fee8255073c7b94d7bac54d9b22":[7,0,2094,10],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a29b012b8fc4e7cb30072b2c4a935dd3a":[7,0,2094,2],
 "d4/d39/structnpc__pilgrims__bounty__chair.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e":[7,0,2094,11],
@@ -241,13 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d3e/classspell__gen__animal__blood.html":[7,0,3028],
 "d4/d3e/classspell__gen__animal__blood.html#a3ced5941c25fce087699aa095cd487c9":[7,0,3028,1],
 "d4/d3e/classspell__gen__animal__blood.html#a44fc9ff07b9db5b2a1263d244916c79f":[7,0,3028,4],
-"d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[7,0,3028,2],
-"d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[7,0,3028,0],
-"d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[7,0,3028,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,34,15,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[7,0,13,15,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[7,0,13,15,4,0],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,34,15,4,0],
-"d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[7,0,2240,0],
-"d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[7,0,2240,0,4]
+"d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[7,0,3028,2]
 };

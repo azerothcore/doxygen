@@ -1,5 +1,13 @@
 var NAVTREEINDEX79 =
 {
+"d2/de9/classSpellInfo.html#a8a627136cf1624b944f8c12702e1e7ed":[7,0,4492,146],
+"d2/de9/classSpellInfo.html#a8ab6fe71653fb500057fe9ab86025315":[7,0,4492,61],
+"d2/de9/classSpellInfo.html#a8b0406b9d3923cb0f92099f9c12822cb":[7,0,4492,5],
+"d2/de9/classSpellInfo.html#a8ba2153277635fd4503d833931591684":[7,0,4492,8],
+"d2/de9/classSpellInfo.html#a8c4a6ad9ddd063a03c252b79ab767361":[7,0,4492,125],
+"d2/de9/classSpellInfo.html#a8cfaa909a0cfb808c1a7bee63a66e863":[7,0,4492,20],
+"d2/de9/classSpellInfo.html#a8d3ee150861a5b9789e8fd75e729e70c":[7,0,4492,34],
+"d2/de9/classSpellInfo.html#a8dc618d81b8658f72b686f8ac9e90829":[7,0,4492,49],
 "d2/de9/classSpellInfo.html#a8e4b04d3fad5a1296dc83d49ec1fc2ab":[7,0,4492,132],
 "d2/de9/classSpellInfo.html#a8f5ca449fc89fd5e149ca262b643f294":[7,0,4492,97],
 "d2/de9/classSpellInfo.html#a8fff47546b8052ac55963dd40e4ae394":[7,0,4492,169],
@@ -241,13 +249,5 @@ var NAVTREEINDEX79 =
 "d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690a76587e8e52ae2fb7918f62b5542fe7d4":[8,0,0,0,1,2,21,1,20,2],
 "d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690a7cf29d925b03cbedbf6f4a55b6a4db0e":[8,0,0,0,1,2,21,1,20,4],
 "d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690a9a9cfccd8804c03c87ce7749d0eebd54":[8,0,0,0,1,2,21,1,20,0],
-"d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690abe7cbc394621d334e2933aa98d103434":[8,0,0,0,1,2,21,1,20,3],
-"d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690ae5477237a42236638c4c00f45b99ad8c":[8,0,0,0,1,2,21,1,20,1],
-"d2/dea/classGameEventAIHookWorker.html":[7,0,1110],
-"d2/dea/classGameEventAIHookWorker.html#a165476edd8b252bbb90b8b78fae963a6":[7,0,1110,3],
-"d2/dea/classGameEventAIHookWorker.html#a23d979ee43838e7d58e9123e36474a5a":[7,0,1110,1],
-"d2/dea/classGameEventAIHookWorker.html#a756665eafa08f3c8c51ccef69bdd619f":[7,0,1110,4],
-"d2/dea/classGameEventAIHookWorker.html#a79106ec550d072d690bbf3496d76cb0a":[7,0,1110,2],
-"d2/dea/classGameEventAIHookWorker.html#ab1ee68bb7134e84780772eba2cfac766":[7,0,1110,5],
-"d2/dea/classGameEventAIHookWorker.html#ad72640a18d2d32a9201c965089ee49cf":[7,0,1110,0]
+"d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690abe7cbc394621d334e2933aa98d103434":[8,0,0,0,1,2,21,1,20,3]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX94 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae200a0fc5389ab3f15f2d98311ef20b1":[8,0,0,0,1,3,5,15,36,6],
+"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae6469589be1d2ce28c9eec152dd5b0f5":[8,0,0,0,1,3,5,15,36,4],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182c":[8,0,0,0,1,3,5,15,35],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca22fd7e4655724a3bee555f7023378245":[8,0,0,0,1,3,5,15,35,10],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca24b5ae5ac74b8d00ac370cccda7ec1fe":[8,0,0,0,1,3,5,15,35,1],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca2520bd622031b9ffced89b0af0afc8c5":[8,0,0,0,1,3,5,15,35,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca58427635e44aa1fe73e58ea68f44a6c9":[8,0,0,0,1,3,5,15,35,2],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca652b099e337cfab2429eb1e1758f81df":[8,0,0,0,1,3,5,15,35,8],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca740b24a00be08e42343fdc9bdb1ba1de":[8,0,0,0,1,3,5,15,35,9],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca9159ca9abe5a33cf89ac895992605a60":[8,0,0,0,1,3,5,15,35,6],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caa5be06bbb7ef549209e4e173e655ae66":[8,0,0,0,1,3,5,15,35,11],
@@ -241,13 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d0d/namespaceWorldPackets_1_1Strings.html":[5,0,34,15],
 "d3/d0e/classitem__captured__frog.html":[7,0,1418],
 "d3/d0e/classitem__captured__frog.html#a1156467ca046a077ea494f92c488bf54":[7,0,1418,1],
-"d3/d0e/classitem__captured__frog.html#ad41b743c98c9534453eca8cf1f367366":[7,0,1418,0],
-"d3/d0f/classchatfilter__commandscript.html":[7,0,893],
-"d3/d0f/classchatfilter__commandscript.html#a7b8b95f9b418496d0f9aa39af55410a3":[7,0,893,0],
-"d3/d0f/classchatfilter__commandscript.html#a8cbe0819f09b43a32e594a67010d63ee":[7,0,893,2],
-"d3/d0f/classchatfilter__commandscript.html#aa7553c0fc74103773edeaac9195e4414":[7,0,893,1],
-"d3/d0f/classchatfilter__commandscript.html#ab59bd95ca2b9319fb175c0592074f9ff":[7,0,893,3],
-"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,893,4],
-"d3/d10/classspell__algalon__phase__punch__aura.html":[7,0,2661],
-"d3/d10/classspell__algalon__phase__punch__aura.html#a2724a85983561a14db8b06ae492ead55":[7,0,2661,0]
+"d3/d0e/classitem__captured__frog.html#ad41b743c98c9534453eca8cf1f367366":[7,0,1418,0]
 };

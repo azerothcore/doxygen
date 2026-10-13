@@ -338,12 +338,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1272</span>    {</div>
-<div class="line"><span class="lineno"> 1273</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 1274</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; !target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea">IsHeroic</a>())</div>
-<div class="line"><span class="lineno"> 1275</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1276</span>    }</div>
-<div class="ttc" id="aboss__northrend__beasts_8cpp_html_a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40"><div class="ttname"><a href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a></div><div class="ttdeci">@ SPELL_SURGE_OF_ADRENALINE</div><div class="ttdef"><b>Definition</b> boss_northrend_beasts.cpp:960</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1305</span>    {</div>
+<div class="line"><span class="lineno"> 1306</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 1307</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; !target-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea">IsHeroic</a>())</div>
+<div class="line"><span class="lineno"> 1308</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1309</span>    }</div>
+<div class="ttc" id="aboss__northrend__beasts_8cpp_html_a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40"><div class="ttname"><a href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a></div><div class="ttdeci">@ SPELL_SURGE_OF_ADRENALINE</div><div class="ttdef"><b>Definition</b> boss_northrend_beasts.cpp:993</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1192</div></div>
 <div class="ttc" id="aclassMap_html_adcbab2814bdaeba356c591bffd953cea"><div class="ttname"><a href="../../d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea">Map::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> Map.h:303</div></div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:207</div></div>
@@ -351,9 +351,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1372</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:637</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00637">WorldObject::GetMap()</a>, <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00303">Map::IsHeroic()</a>, <a class="el" href="../../#l00207">Object::IsPlayer()</a>, and <a class="el" href="../../#l00960">SPELL_SURGE_OF_ADRENALINE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00637">WorldObject::GetMap()</a>, <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00303">Map::IsHeroic()</a>, <a class="el" href="../../#l00207">Object::IsPlayer()</a>, and <a class="el" href="../../#l00993">SPELL_SURGE_OF_ADRENALINE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01278">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01311">Register()</a>.</p>
 
 </div>
 </div>
@@ -407,17 +407,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1279</span>    {</div>
-<div class="line"><span class="lineno"> 1280</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../db/d24/classspell__icehowl__massive__crash.html#abaaf6d96458eb98f69552c2694c20698">spell_icehowl_massive_crash::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd">SPELL_AURA_MOD_STUN</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1281</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1312</span>    {</div>
+<div class="line"><span class="lineno"> 1313</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../db/d24/classspell__icehowl__massive__crash.html#abaaf6d96458eb98f69552c2694c20698">spell_icehowl_massive_crash::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd">SPELL_AURA_MOD_STUN</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1314</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799afdf00dd634aaa25017ad329f58bd6cfd">SPELL_AURA_MOD_STUN</a></div><div class="ttdeci">@ SPELL_AURA_MOD_STUN</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:75</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:766</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
-<div class="ttc" id="aclassspell__icehowl__massive__crash_html_abaaf6d96458eb98f69552c2694c20698"><div class="ttname"><a href="../../db/d24/classspell__icehowl__massive__crash.html#abaaf6d96458eb98f69552c2694c20698">spell_icehowl_massive_crash::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_northrend_beasts.cpp:1271</div></div>
+<div class="ttc" id="aclassspell__icehowl__massive__crash_html_abaaf6d96458eb98f69552c2694c20698"><div class="ttname"><a href="../../db/d24/classspell__icehowl__massive__crash.html#abaaf6d96458eb98f69552c2694c20698">spell_icehowl_massive_crash::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_northrend_beasts.cpp:1304</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00765">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l01271">HandleRemove()</a>, and <a class="el" href="../../#l00075">SPELL_AURA_MOD_STUN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00765">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00766">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l01304">HandleRemove()</a>, and <a class="el" href="../../#l00075">SPELL_AURA_MOD_STUN</a>.</p>
 
 </div>
 </div>
@@ -446,12 +446,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1267</span>    {</div>
-<div class="line"><span class="lineno"> 1268</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a> });</div>
-<div class="line"><span class="lineno"> 1269</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1300</span>    {</div>
+<div class="line"><span class="lineno"> 1301</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40">SPELL_SURGE_OF_ADRENALINE</a> });</div>
+<div class="line"><span class="lineno"> 1302</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00960">SPELL_SURGE_OF_ADRENALINE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00993">SPELL_SURGE_OF_ADRENALINE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -464,7 +464,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d24/classspell__icehowl__massive__crash.html">spell_icehowl_massive_crash</a></li>
-    <li class="footer">Generated on Mon Oct 12 2026 14:27:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Oct 13 2026 13:25:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

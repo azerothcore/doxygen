@@ -1,5 +1,13 @@
 var NAVTREEINDEX110 =
 {
+"d3/da1/npc__professions_8cpp.html#ad317be6ba19e440a470441051d7cb099":[8,0,0,0,1,3,10,10,9],
+"d3/da1/npc__professions_8cpp.html#adb4f23706f7d3fca1bee448e746a79db":[8,0,0,0,1,3,10,10,39],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86":[8,0,0,0,1,3,10,10,51],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a091cab1cb088f6041805f32f87aeec18":[8,0,0,0,1,3,10,10,51,0],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a136f003643d2fefde88f2c1c3a7e01ae":[8,0,0,0,1,3,10,10,51,3],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a1b345ddb226239220e9d8b67d2900b46":[8,0,0,0,1,3,10,10,51,4],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a24f7fcf93c06e8a76805ef237634c0db":[8,0,0,0,1,3,10,10,51,10],
+"d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a3485ea5ed670f8393f6d50c362a79be1":[8,0,0,0,1,3,10,10,51,1],
 "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a36520385ea563ec8dc55ca08e55f7e92":[8,0,0,0,1,3,10,10,51,20],
 "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a4d79137faf2a295373af52c7dd2ec51e":[8,0,0,0,1,3,10,10,51,14],
 "d3/da1/npc__professions_8cpp.html#add238e28e6667de0723d18cfd9447a86a651d766296878207717573cbf3b2982b":[8,0,0,0,1,3,10,10,51,7],
@@ -101,8 +109,8 @@ var NAVTREEINDEX110 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3122,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3122,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3122,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,205],
@@ -241,13 +249,5 @@ var NAVTREEINDEX110 =
 "d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476":[8,0,0,0,1,2,38,9,5],
 "d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb":[8,0,0,0,1,2,38,9,5,10],
 "d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54":[8,0,0,0,1,2,38,9,5,2],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1":[8,0,0,0,1,2,38,9,5,3],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013":[8,0,0,0,1,2,38,9,5,8],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea":[8,0,0,0,1,2,38,9,5,1],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04":[8,0,0,0,1,2,38,9,5,4],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb":[8,0,0,0,1,2,38,9,5,11],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b":[8,0,0,0,1,2,38,9,5,6],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73":[8,0,0,0,1,2,38,9,5,9],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9":[8,0,0,0,1,2,38,9,5,0],
-"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae":[8,0,0,0,1,2,38,9,5,5]
+"d3/daa/ScriptSystem_8h.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1":[8,0,0,0,1,2,38,9,5,3]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX91 =
 {
+"d2/dee/classWintergraspCapturePoint.html":[7,0,4714],
+"d2/dee/classWintergraspCapturePoint.html#a06d98983a020f1f571812cf7ff0f907a":[7,0,4714,4],
+"d2/dee/classWintergraspCapturePoint.html#a32d378eba7f0eea0f011b8ea8c7e6eee":[7,0,4714,3],
+"d2/dee/classWintergraspCapturePoint.html#a36090feb3626e204e0029ea45f1d8136":[7,0,4714,0],
+"d2/dee/classWintergraspCapturePoint.html#a66564dd3237538b256ebeb76d236001f":[7,0,4714,1],
+"d2/dee/classWintergraspCapturePoint.html#a7ff4106591a5aac1ea8820016b8164bb":[7,0,4714,2],
+"d2/dee/structPosition_1_1PositionXYZStreamer.html":[7,0,2481,2],
+"d2/dee/structPosition_1_1PositionXYZStreamer.html#a8da1be6111bd97ef68d62d0d9d630c56":[7,0,2481,2,0],
 "d2/dee/structPosition_1_1PositionXYZStreamer.html#ae5db7cb3adba811c0b9483645a7f1770":[7,0,2481,2,1],
 "d2/def/classspell__oculus__shock__lance.html":[7,0,3752],
 "d2/def/classspell__oculus__shock__lance.html#a2c2b391b223ab92b6d644b739419a1d3":[7,0,3752,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX91 =
 "d2/df6/DBCStores_8h.html#a7670b9bb3f03fd4976edbb4285549cd3":[8,0,0,0,1,2,14,1,107],
 "d2/df6/DBCStores_8h.html#a77e97d6c628460065eabb2f3711329c1":[8,0,0,0,1,2,14,1,40],
 "d2/df6/DBCStores_8h.html#a7a46cdf97ec2682ecadac60a83be479d":[8,0,0,0,1,2,14,1,128],
-"d2/df6/DBCStores_8h.html#a7cf25117a95f68c6a4a580facea1590f":[8,0,0,0,1,2,14,1,118],
-"d2/df6/DBCStores_8h.html#a7d11ef3986ba2d890c236d491073b8e7":[8,0,0,0,1,2,14,1,143],
-"d2/df6/DBCStores_8h.html#a7fe8bbd11c3e4c484997cfe5c5f137c8":[8,0,0,0,1,2,14,1,4],
-"d2/df6/DBCStores_8h.html#a81724dfab1dc5a5d48a9dc1df17eecf4":[8,0,0,0,1,2,14,1,22],
-"d2/df6/DBCStores_8h.html#a818a5659ef6ff267f5b971ce776e3223":[8,0,0,0,1,2,14,1,43],
-"d2/df6/DBCStores_8h.html#a8335993d5457486bef9b7754da98a0e7":[8,0,0,0,1,2,14,1,125],
-"d2/df6/DBCStores_8h.html#a85af1e3c817d4a705f720608a9f33f7e":[8,0,0,0,1,2,14,1,109],
-"d2/df6/DBCStores_8h.html#a8ae647bb7d8e287fad6b9c16f98937ec":[8,0,0,0,1,2,14,1,70],
-"d2/df6/DBCStores_8h.html#a8fa5165e326c9ed4fe01315086248ba8":[8,0,0,0,1,2,14,1,69]
+"d2/df6/DBCStores_8h.html#a7cf25117a95f68c6a4a580facea1590f":[8,0,0,0,1,2,14,1,118]
 };

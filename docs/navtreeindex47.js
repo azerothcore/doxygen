@@ -1,5 +1,9 @@
 var NAVTREEINDEX47 =
 {
+"d1/dcb/classspell__tar__blaze__aura.html#ab180f54264f0c90376587d1b4c4dfd40":[7,0,4225,1],
+"d1/dcb/structUpdateFetcher_1_1PathCompare.html":[7,0,4650,2],
+"d1/dcb/structUpdateFetcher_1_1PathCompare.html#a7e4711e6ff92c3aca3a86fd911981786":[7,0,4650,2,0],
+"d1/dcd/classAccountInfoQueryHolderPerRealm.html":[7,0,29],
 "d1/dcd/classAccountInfoQueryHolderPerRealm.html#a9d4e4de9a038697f61e6350f5f59713b":[7,0,29,1],
 "d1/dcd/classAccountInfoQueryHolderPerRealm.html#a9d821669804cd04cf121e141d94ead36":[7,0,29,0],
 "d1/dcd/classspell__mage__brain__freeze.html":[7,0,3622],
@@ -23,8 +27,8 @@ var NAVTREEINDEX47 =
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6e1026191fd4b1b45696a60f45b1b7b8":[5,0,0,38,1],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[7,0,0,26,2],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[5,0,0,38,2],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[7,0,0,26,3],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[5,0,0,38,3],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[7,0,0,26,3],
 "d1/dd0/BankHandler_8cpp.html":[8,0,0,0,1,2,22,5],
 "d1/dd0/EventProcessor_8h.html":[8,0,0,0,0,15,13],
 "d1/dd0/EventProcessor_8h.html#a393840b719db78b29da806c1237fceb0":[8,0,0,0,0,15,13,3],
@@ -55,10 +59,10 @@ var NAVTREEINDEX47 =
 "d1/dd1/structboss__gahzranka.html#a82cc1a44a967f859039957e41f38dd77":[7,0,503,0],
 "d1/dd1/structboss__gahzranka.html#ac1cc43194c00fda1729f8a068d4e8779":[7,0,503,2],
 "d1/dd1/structboss__gahzranka.html#ad68be854f95c398dc5dd9e5b22f538a8":[7,0,503,1],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[7,0,11,27],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[5,0,31,27,0],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[7,0,11,27,0],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[5,0,31,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[7,0,11,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,31,27,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dd5/classRandomMovementGenerator.html#af06aa5a3173151c6a8d42f30dd61b497":[7,0,2536,3],
 "d1/dd5/classspell__item__snowman.html":[7,0,3509],
 "d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[7,0,3509,0],
-"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[7,0,3509,1],
-"d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[7,0,3509,2],
-"d1/dd5/spell__warlock_8cpp.html":[8,0,0,0,1,3,9,11],
-"d1/dd5/spell__warlock_8cpp.html#a2054657c41c2347732a7d2903e3b8138":[8,0,0,0,1,3,9,11,46],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570":[8,0,0,0,1,3,9,11,45]
+"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[7,0,3509,1]
 };

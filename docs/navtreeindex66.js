@@ -1,5 +1,9 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad789ba74c3c36b8b21df4b21ad582d9d":[8,0,0,0,1,3,5,3,1,7,5],
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae7043d2f29c97f69fc58f5b8aacce70c":[8,0,0,0,1,3,5,3,1,7,3],
+"d2/d5b/boss__novos_8cpp.html#a41d20f762f0da533723959a12ef8e635":[8,0,0,0,1,3,5,3,1,9],
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,3,1,6],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,3,1,6,11],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca36fa41a6dda9b58c6d7d6634cd4377e9":[8,0,0,0,1,3,5,3,1,6,6],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca51416fb35fda16806a28e99cb1a64b28":[8,0,0,0,1,3,5,3,1,6,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5c/structSpellTargetSelector.html#ac5b0844c975a6b3ff3c14a843fd28fba":[7,0,4535,2],
 "d2/d5d/structEnchStoreItem.html":[7,0,1053],
 "d2/d5d/structEnchStoreItem.html#a2d3d0cd28c79402b3625694d4676ed8b":[7,0,1053,2],
-"d2/d5d/structEnchStoreItem.html#a89019e156774c5b978251479264e5463":[7,0,1053,0],
-"d2/d5d/structEnchStoreItem.html#ac2346b6c6c5c09bb63676d72c798d848":[7,0,1053,3],
-"d2/d5d/structEnchStoreItem.html#aca83bb20eb6153faeaf599b07b97e357":[7,0,1053,1],
-"d2/d5e/classspell__rog__deadly__brew.html":[7,0,4048],
-"d2/d5e/classspell__rog__deadly__brew.html#a00a68329e8ab03cb5e38b1ad85932a57":[7,0,4048,1]
+"d2/d5d/structEnchStoreItem.html#a89019e156774c5b978251479264e5463":[7,0,1053,0]
 };

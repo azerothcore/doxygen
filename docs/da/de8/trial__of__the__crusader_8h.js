@@ -97,7 +97,8 @@ var trial__of__the__crusader_8h =
       [ "EVENT_GORMOK_ATTACK", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0", null ],
       [ "EVENT_SCENE_005", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a0e50bbe28bfbf438f305b68cb886f62a", null ],
       [ "EVENT_SCENE_005_2", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad", null ],
-      [ "EVENT_SUMMON_ACIDMAW_AND_DREADSCALE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ac4877070c9bc97fa7fc5e258a9b1355b", null ],
+      [ "EVENT_SUMMON_DREADSCALE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ad5bdc623ddb7772abf14b57803dcc3ac", null ],
+      [ "EVENT_SUMMON_ACIDMAW", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a0b082bf9f4ce48fb930050bd945802b4", null ],
       [ "EVENT_ACIDMAW_AND_DREADSCALE_ATTACK", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a44abc30a51a8f26d46d9face60a54aa3", null ],
       [ "EVENT_SCENE_006", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1af86436f3038a685798a8367c52d042b0", null ],
       [ "EVENT_SUMMON_ICEHOWL", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0", null ],
@@ -107,7 +108,8 @@ var trial__of__the__crusader_8h =
       [ "EVENT_SCENE_101", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1607721d8cf36884161f10071c20477f", null ],
       [ "EVENT_SCENE_102", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1af3de9bfd0298e03bc48a07b7f15269a2", null ],
       [ "EVENT_SCENE_103", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129", null ],
-      [ "EVENT_SCENE_104", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a13b163f4e78756812c04b536936f941f", null ],
+      [ "EVENT_WILFRED_TALK_EMOTE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a9793404cb82a1ce8e66eb6540b238768", null ],
+      [ "EVENT_WILFRED_STOP_TALK_EMOTE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ab9b7ab0b0f9213b3df184c48bd168f83", null ],
       [ "EVENT_SUMMON_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ad73647acc212188f944b06f2b39f9337", null ],
       [ "EVENT_SCENE_105", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ae57eb2da117d500fb40ecb9c200f938a", null ],
       [ "EVENT_SCENE_106", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a", null ],
@@ -148,6 +150,7 @@ var trial__of__the__crusader_8h =
       [ "EVENT_SCENE_502", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a668084cc1f8c66aad210107b4ab94bdb", null ]
     ] ],
     [ "EventSpells", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363", [
+      [ "SPELL_OPEN_PORTAL", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a95a9d8deab38e53d26ed9d4554881f25", null ],
       [ "SPELL_WILFRED_PORTAL", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363ae0654bceaf979c3b164838fdb83bbdb5", null ],
       [ "SPELL_JORMUNGAR_ACHIEV", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a874534d1c9a0cec12846dd163cbe82c1", null ],
       [ "SPELL_FACTION_CHAMPIONS_KILL_CREDIT", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a4d0271d2d6d513b919ffb9355f031b0f", null ],
@@ -196,7 +199,8 @@ var trial__of__the__crusader_8h =
       [ "LOC_LIGHTESS_2", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a5fde43b8b198ebe0edf258d62bd4139f", null ],
       [ "LOC_ANUB", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0af50fe4e94c2ba4242ef252955ef12ee1", null ],
       [ "LOC_TIRION_FINAL", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0aaff57b49e1bf3c939e647bd033dcdee9", null ],
-      [ "LOC_MAGE", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a810159af1117741062eb356360b68915", null ]
+      [ "LOC_MAGE", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a810159af1117741062eb356360b68915", null ],
+      [ "LOC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a08d6e7bc478533d006c16baa4368bb0b", null ]
     ] ],
     [ "NPCs", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_BARRENT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caa3ec53b29b3d858d9dde37562a9e40ba", null ],
@@ -215,6 +219,7 @@ var trial__of__the__crusader_8h =
       [ "NPC_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
       [ "NPC_MISTRESS_OF_PAIN", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
+      [ "NPC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca635705b91a221603d376c9ebd6eeae9b", null ],
       [ "NPC_WORLD_TRIGGER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ALLIANCE_DEATH_KNIGHT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cac814570020251c58c21064800d5b1531", null ],
       [ "NPC_ALLIANCE_DRUID_BALANCE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1efd8ce013cc476a436c3893435a0c05", null ],
