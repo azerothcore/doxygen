@@ -19,6 +19,7 @@ var boss__illidan_8cpp =
     [ "spell_illidan_demon_transform2_aura", "d2/df0/classspell__illidan__demon__transform2__aura.html", "d2/df0/classspell__illidan__demon__transform2__aura" ],
     [ "spell_illidan_flame_burst", "d0/d09/classspell__illidan__flame__burst.html", "d0/d09/classspell__illidan__flame__burst" ],
     [ "spell_illidan_found_target", "d6/d7f/classspell__illidan__found__target.html", "d6/d7f/classspell__illidan__found__target" ],
+    [ "spell_illidan_agonizing_flames", "d5/ddd/classspell__illidan__agonizing__flames.html", "d5/ddd/classspell__illidan__agonizing__flames" ],
     [ "spell_illidan_cage_trap", "d7/d70/classspell__illidan__cage__trap.html", "d7/d70/classspell__illidan__cage__trap" ],
     [ "spell_illidan_cage_trap_stun_aura", "dc/dc4/classspell__illidan__cage__trap__stun__aura.html", "dc/dc4/classspell__illidan__cage__trap__stun__aura" ],
     [ "Akama", "d9/d02/boss__illidan_8cpp.html#a16349980e041f4f33f35469716510105", [
@@ -101,6 +102,7 @@ var boss__illidan_8cpp =
       [ "GROUP_BERSERK", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f781c602614908c693b03cbb66b2f5b", null ],
       [ "GROUP_PHASE_FLYING", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6bfd20ac27b1c3f47948b856fbbfdc71", null ],
       [ "GROUP_DEMON_FORM", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4ca86829fc52c48373f86bd6c3af6d7e", null ],
+      [ "GROUP_WIPE_CHECK", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae17eeb5878043a6dd2a9ccad2d5e313a", null ],
       [ "NPC_WORLD_TRIGGER", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ILLIDAN_DB_TARGET", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af4a8ba98b42749274db4cb2b0f68da27", null ],
       [ "NPC_MAIEV_SHADOWSONG", "d9/d02/boss__illidan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae751a8713203a31b4c196c9d427b85b7", null ],
@@ -150,6 +152,7 @@ var boss__illidan_8cpp =
       [ "SPELL_DARK_BARRAGE", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca77a36957e1ccb4961d4e8c0ffa0a0f13", null ],
       [ "SPELL_EYE_BLAST", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298cae4fad86243a1e69fe49f4d2b432355e0", null ],
       [ "SPELL_AGONIZING_FLAMES", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e9be691294308f241cd4998d2e67540", null ],
+      [ "SPELL_AGONIZING_FLAMES_SELECTOR", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca7562145095d5f0f5d4ffdf90b3e6635d", null ],
       [ "SPELL_SUMMON_MAIEV", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca9668082216dbb47069af0fa9add7983e", null ],
       [ "SPELL_SHADOW_PRISON", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0c868f27eb9329f43dfd489946ac5cda", null ],
       [ "SPELL_DEMON_TRANSFORM_1", "d9/d02/boss__illidan_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c22078a7f852f9dd53df2e5ca30b8dd", null ],

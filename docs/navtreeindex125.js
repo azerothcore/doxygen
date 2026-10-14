@@ -1,5 +1,6 @@
 var NAVTREEINDEX125 =
 {
+"d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08af02d4ca453ab5e0b11f139a7ca161209":[8,0,0,0,1,3,5,4,1,3,8,16],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08af5a0440a5ae1174779baf4cd1fc5d28d":[8,0,0,0,1,3,5,4,1,3,8,1],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08af6e1a4ae1c8e89ac56000034b92e2624":[8,0,0,0,1,3,5,4,1,3,8,17],
 "d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08aff5d2d7cd5fe929e31cf7dca76804efa":[8,0,0,0,1,3,5,4,1,3,8,13],
@@ -194,11 +195,11 @@ var NAVTREEINDEX125 =
 "d4/d1f/classnpc__pos__leader__second.html":[7,0,2105],
 "d4/d1f/classnpc__pos__leader__second.html#ac403cfc86247990d78c9cf4179df8b87":[7,0,2105,2],
 "d4/d1f/classnpc__pos__leader__second.html#ac4758674cc97eae0937264fa028e6da5":[7,0,2105,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,4012],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,4012,0],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,4012,1],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,4012,2],
-"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,4012,3],
+"d4/d1f/classspell__q6124__6129__apply__salve.html":[7,0,4013],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a123ddc812fb358b7517eba60d1f90eba":[7,0,4013,0],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a64ca188f58b4f34827f03ae2878deef0":[7,0,4013,1],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#a7068dd9e6f7838d9ad7023c2d61482cc":[7,0,4013,2],
+"d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[7,0,4013,3],
 "d4/d21/classspell__drain__mana.html":[7,0,2888],
 "d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[7,0,2888,2],
 "d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[7,0,2888,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03":[7,0,553,23],
 "d4/d22/structboss__hodir.html#a4e075098d5ae6f553efcac0b76e777b5":[7,0,553,6],
 "d4/d22/structboss__hodir.html#a60b899abe9b1ab2c04be675d3ce54f68":[7,0,553,4],
-"d4/d22/structboss__hodir.html#a6196c82c6e23563f91a8b149cacbef04":[7,0,553,18],
-"d4/d22/structboss__hodir.html#a6d12ec37b287d5e283f3207593435d60":[7,0,553,1]
+"d4/d22/structboss__hodir.html#a6196c82c6e23563f91a8b149cacbef04":[7,0,553,18]
 };

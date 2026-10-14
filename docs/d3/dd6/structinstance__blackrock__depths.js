@@ -13,6 +13,7 @@ var structinstance__blackrock__depths =
     [ "OnUnitDeath", "d3/dd6/structinstance__blackrock__depths.html#ac2836acf790bd0fe91a7ddc92388b231", null ],
     [ "ReplaceMoiraIfSaved", "d3/dd6/structinstance__blackrock__depths.html#ac65110d5a1c79e02857a9179a31ecb2b", null ],
     [ "SetData", "d3/dd6/structinstance__blackrock__depths.html#a50e6fe9136041af324021cde2cc4238e", null ],
+    [ "SetGuidData", "d3/dd6/structinstance__blackrock__depths.html#a817fa576eeb7d552f781e748e09292b0", null ],
     [ "TombOfSevenEvent", "d3/dd6/structinstance__blackrock__depths.html#ad6b0d267f510333e019c69b33842df80", null ],
     [ "TombOfSevenReset", "d3/dd6/structinstance__blackrock__depths.html#a698cd1a8abeed06bbbac4d7c8d3e2f6c", null ],
     [ "Update", "d3/dd6/structinstance__blackrock__depths.html#a33a4a9451d59115c35924056ad59bdb9", null ],

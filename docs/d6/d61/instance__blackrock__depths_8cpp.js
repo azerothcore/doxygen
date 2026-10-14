@@ -2,9 +2,22 @@ var instance__blackrock__depths_8cpp =
 [
     [ "RestoreAttack", "d2/d61/classRestoreAttack.html", "d2/d61/classRestoreAttack" ],
     [ "instance_blackrock_depths", "d3/dd6/structinstance__blackrock__depths.html", "d3/dd6/structinstance__blackrock__depths" ],
+    [ "DarkIronAle", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3a", [
+      [ "GO_DARK_IRON_ALE_MUG", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa77f50a40445c6d6ae16dc1567f5c6e56", null ],
+      [ "NPC_GRIM_PATRON", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa2970c9c616a2ae5e83b719614d898b05", null ],
+      [ "NPC_GUZZLING_PATRON", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aaee0404e3462d0a1aeb291d4e8ded3217", null ],
+      [ "NPC_HAMMERED_PATRON", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aaef2e380da29ed2f1d6813b4ef5162f4d", null ],
+      [ "DATA_DARK_IRON_ALE", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa9883e65273fee0ac10957c432b731c79", null ],
+      [ "DATA_DARK_IRON_ALE_DRINK", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa118fc8448595171cc4d636b82c057e3f", null ],
+      [ "DATA_DARK_IRON_ALE_HOME", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aae03f048a6a183a589228cbff35150b8a", null ],
+      [ "DATA_DARK_IRON_ALE_REFORM", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa0f1523b656f48c960e69557d4299715d", null ],
+      [ "DATA_DARK_IRON_ALE_DISBAND", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa4fe2e46ea29fab13119f4ac60d21b167", null ],
+      [ "DATA_DARK_IRON_ALE_EMOTE", "d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3aa0c8e360b423292ad77e031725c4afb26", null ]
+    ] ],
     [ "Distances", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dc", [
       [ "RADIUS_RING_OF_LAW", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62", null ],
       [ "DISTANCE_EMPEROR_ROOM", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71", null ],
+      [ "DISTANCE_DARK_IRON_ALE", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dcafd98c0bfeaf0f6f0f02f1c9233db40df", null ],
       [ "DISTANCE_VAULT_WARDER", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca85cf012f4d8537981c5bdfcea50ad5f8", null ]
     ] ],
     [ "GameObjects", "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3d", [

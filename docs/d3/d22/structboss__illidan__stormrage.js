@@ -14,6 +14,7 @@ var structboss__illidan__stormrage =
     [ "MovementInform", "d3/d22/structboss__illidan__stormrage.html#acdd75f289288b3e6de4136267d490519", null ],
     [ "Reset", "d3/d22/structboss__illidan__stormrage.html#aa5eb94712f886e821630535cb2970dfe", null ],
     [ "ScheduleAbilities", "d3/d22/structboss__illidan__stormrage.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "ScheduleWipeCheck", "d3/d22/structboss__illidan__stormrage.html#abc3465a313b802f1027eee964b83dae2", null ],
     [ "_dying", "d3/d22/structboss__illidan__stormrage.html#af312452020938736624496d9f6a76d28", null ],
     [ "_inCutscene", "d3/d22/structboss__illidan__stormrage.html#a715525706b44dbc53847e639f3b15d3a", null ],
     [ "beamPosId", "d3/d22/structboss__illidan__stormrage.html#a6168b84bfb49781736fa2accf5225808", null ]

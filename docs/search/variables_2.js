@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['bachievcacherare_1',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
   ['bachievcheese_2',['bAchievCheese',['../d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf',1,'boss_hodir']]],
   ['bachievcoolestfriends_3',['bAchievCoolestFriends',['../d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03',1,'boss_hodir']]],
@@ -178,7 +178,7 @@ var searchData=
   ['bgqueuetypeid_175',['bgQueueTypeId',['../db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca',1,'Player::BgBattlegroundQueueID_Rec']]],
   ['bgteamid_176',['bgTeamId',['../d0/d50/structBGData.html#ac97f7cafb6ae69a12588e40328cdc0cb',1,'BGData']]],
   ['bgtoqueue_177',['bgToQueue',['../d1/d1a/classBattlegroundMgr.html#a88b512ac1340399735287e337bbb76a2',1,'BattlegroundMgr']]],
-  ['bgtypeid_178',['bgtypeid',['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId'],['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID']]],
+  ['bgtypeid_178',['bgtypeid',['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID'],['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId']]],
   ['bgtypetobattleground_179',['bgtypeToBattleground',['../d1/d1a/classBattlegroundMgr.html#af9da430f07c8a040f9eb111bdfd921a6',1,'BattlegroundMgr']]],
   ['bgtypetotemplate_180',['bgTypeToTemplate',['../d1/d1a/classBattlegroundMgr.html#a25b2d7705c7e6af7f0f7a4ef35913a85',1,'BattlegroundMgr']]],
   ['bgzoneidtofillworldstates_181',['bgZoneIdToFillWorldStates',['../d2/d4b/classPlayer.html#abde07331980587025357d3ab37b2a3f5',1,'Player']]],

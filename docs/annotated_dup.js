@@ -3903,6 +3903,7 @@ var annotated_dup =
     [ "spell_ignis_grab_initial", "d5/d26/classspell__ignis__grab__initial.html", "d5/d26/classspell__ignis__grab__initial" ],
     [ "spell_ignis_scorch_aura", "d1/d68/classspell__ignis__scorch__aura.html", "d1/d68/classspell__ignis__scorch__aura" ],
     [ "spell_ignis_slag_pot_aura", "d3/d00/classspell__ignis__slag__pot__aura.html", "d3/d00/classspell__ignis__slag__pot__aura" ],
+    [ "spell_illidan_agonizing_flames", "d5/ddd/classspell__illidan__agonizing__flames.html", "d5/ddd/classspell__illidan__agonizing__flames" ],
     [ "spell_illidan_cage_trap", "d7/d70/classspell__illidan__cage__trap.html", "d7/d70/classspell__illidan__cage__trap" ],
     [ "spell_illidan_cage_trap_stun_aura", "dc/dc4/classspell__illidan__cage__trap__stun__aura.html", "dc/dc4/classspell__illidan__cage__trap__stun__aura" ],
     [ "spell_illidan_demon_transform1_aura", "d9/d51/classspell__illidan__demon__transform1__aura.html", "d9/d51/classspell__illidan__demon__transform1__aura" ],

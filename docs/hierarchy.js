@@ -1231,6 +1231,7 @@ var hierarchy =
         [ "spell_igb_teleport_players_on_victory", "db/def/classspell__igb__teleport__players__on__victory.html", null ],
         [ "spell_igb_teleport_to_enemy_ship", "d4/d73/classspell__igb__teleport__to__enemy__ship.html", null ],
         [ "spell_ignis_grab_initial", "d5/d26/classspell__ignis__grab__initial.html", null ],
+        [ "spell_illidan_agonizing_flames", "d5/ddd/classspell__illidan__agonizing__flames.html", null ],
         [ "spell_illidan_cage_trap", "d7/d70/classspell__illidan__cage__trap.html", null ],
         [ "spell_illidan_draw_soul", "d7/d25/classspell__illidan__draw__soul.html", null ],
         [ "spell_illidan_flame_burst", "d0/d09/classspell__illidan__flame__burst.html", null ],

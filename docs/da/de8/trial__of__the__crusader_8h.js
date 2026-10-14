@@ -13,13 +13,10 @@ var trial__of__the__crusader_8h =
       [ "TYPE_DREADSCALE", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a0c79d38a1fed28b5910f30a1b94b418b", null ],
       [ "TYPE_ACIDMAW", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a3f39ff485e4fb79cf75cbe2fb8d634a8", null ],
       [ "TYPE_ICEHOWL", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2a98fd53128e0c2438aed5eab57b6df9", null ],
-      [ "TYPE_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2e12d1ea765aace9512a67956586acb7", null ],
       [ "TYPE_FACTION_CHAMPIONS", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a7d2c3e3a0665734cfff26ea3d967a349", null ],
       [ "TYPE_FACTION_CHAMPIONS_PLAYER_DIED", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22abdca075ea730c3e6ca3c610d5ba23060", null ],
-      [ "TYPE_VALKYR", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a4a5113216e560776149897fa9b9007d8", null ],
       [ "TYPE_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a43e3863c1ba486bb4daff98f2a54717c", null ],
-      [ "TYPE_FACTION_CHAMPIONS_START", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22adf55c70ec136b17de33654eb38d0a76f", null ],
-      [ "TYPE_NORTHREND_BEASTS_ALL", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a35c5db18527a5210c35afdda639e5b7d", null ]
+      [ "TYPE_FACTION_CHAMPIONS_START", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22adf55c70ec136b17de33654eb38d0a76f", null ]
     ] ],
     [ "eAchievementCriteria", "da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0", [
       [ "ACHIEV_CRITERIA_UPPER_BACK_PAIN_10_N", "da/de8/trial__of__the__crusader_8h.html#a49422ecf7c69078a16eb4a2e792885f0ad02e8a8084422a1aeb41280ed32bf6aa", null ],
@@ -263,6 +260,14 @@ var trial__of__the__crusader_8h =
       [ "INSTANCE_PROGRESS_VALKYR_DEAD", "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea5b60ba4438ad02187e3d426638eaf6bd", null ],
       [ "INSTANCE_PROGRESS_ANUB_ARAK", "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea810f583a9a0f799503742411279c0cc5", null ],
       [ "INSTANCE_PROGRESS_DONE", "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea4bf6d797bf054f1764a10085b0777116", null ]
+    ] ],
+    [ "TrialOfTheCrusaderBossIds", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756", [
+      [ "BOSS_NORTHREND_BEASTS", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756af3d3db676c0683d2a876af0fb821b559", null ],
+      [ "BOSS_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756aae87539c4537f72c4d6b87506a8fde17", null ],
+      [ "BOSS_FACTION_CHAMPIONS", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756a67824bccda3b6059a4bec053bc912f2e", null ],
+      [ "BOSS_TWIN_VALKYR", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756a8f2cb8af0e7cb2a1178e01a7aad97e99", null ],
+      [ "BOSS_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756ae15679a0c1379e6e75acf77c9f36e9fa", null ],
+      [ "MAX_ENCOUNTERS", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756a9cfa5bdc17e1d5a590d300b530b36a25", null ]
     ] ],
     [ "GetTrialOfTheCrusaderAI", "da/de8/trial__of__the__crusader_8h.html#a7e4250fe656a3a8203945083084977f1", null ],
     [ "dedicatedInsanityItems", "da/de8/trial__of__the__crusader_8h.html#a972eac6d33f76162f445e07a33611c33", null ],
