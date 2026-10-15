@@ -203,6 +203,8 @@ var classSpell =
     [ "GetDelayMoment", "d1/d16/classSpell.html#ad39149ba8f34185ed6c52c5782881250", null ],
     [ "GetDelayStart", "d1/d16/classSpell.html#acd106ca9dbe908ea1329c05d1fdbffc4", null ],
     [ "GetDelayTrajectory", "d1/d16/classSpell.html#a6ebbac5b41e112fc075e12ce1cc82117", null ],
+    [ "GetGameObjectCaster", "d1/d16/classSpell.html#aec8d4e07f4c082f2a694ef1d83d6751f", null ],
+    [ "GetLOSCollisionHeight", "d1/d16/classSpell.html#a1820fecbb6d1b7151d91cb9a5ca2029d", null ],
     [ "GetOriginalCaster", "d1/d16/classSpell.html#ab2cd36ff00eaa31553fc99374d172211", null ],
     [ "GetOriginalTarget", "d1/d16/classSpell.html#a97b5b2cf4526b875426d30f1a3be0d4f", null ],
     [ "GetPowerCost", "d1/d16/classSpell.html#acc81f0cf160c73d9f2e6dd77638ff3e1", null ],

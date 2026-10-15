@@ -2086,7 +2086,6 @@ var hierarchy =
       [ "DelayedCastEvent", "dd/d01/classDelayedCastEvent.html", null ],
       [ "DelayedCastMincharEvent", "d3/dae/classDelayedCastMincharEvent.html", null ],
       [ "DelayedMovementEvent", "df/d2f/classDelayedMovementEvent.html", null ],
-      [ "DelayedSummonEvent", "de/d75/classDelayedSummonEvent.html", null ],
       [ "DelayedTalk", "da/dca/classDelayedTalk.html", null ],
       [ "DelayedWindstoneSummonEvent", "d0/db8/classDelayedWindstoneSummonEvent.html", null ],
       [ "FixOrientation", "d4/dda/classFixOrientation.html", null ],

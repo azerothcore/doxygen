@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#aac6a62ef3b8d4d5f54aea3daadaea095":[4,1,20,157],
+"d8/d74/classWorldSession.html#aad2b19923819aecda41a4f108ad510a4":[4,1,20,218],
 "d8/d74/classWorldSession.html#aad5917abd421f7b0f1a1774bd952f29b":[4,1,20,369],
 "d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[4,1,20,557],
 "d8/d74/classWorldSession.html#aae336e4793b0286ed539764c5b6f83e6":[4,1,20,379],
@@ -197,10 +199,10 @@ var NAVTREEINDEX233 =
 "d8/d74/classWorldSession.html#afe93d84982d386ff9bf14cb620136a43":[4,1,20,604],
 "d8/d74/classWorldSession.html#aff5884362c950f601d708041d249240b":[4,1,20,430],
 "d8/d74/classWorldSession.html#aff6182ddab2cafee47ec9619cc070e81":[4,1,20,238],
-"d8/d74/classnpc__innkeeper.html":[7,0,1950],
-"d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[7,0,1950,0],
-"d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[7,0,1950,2],
-"d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[7,0,1950,1],
+"d8/d74/classnpc__innkeeper.html":[7,0,1949],
+"d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[7,0,1949,0],
+"d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[7,0,1949,2],
+"d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[7,0,1949,1],
 "d8/d77/classAchievementMgr.html":[7,0,123],
 "d8/d77/classAchievementMgr.html#a006f7efdbda628c743cf97704a7216ce":[7,0,123,23],
 "d8/d77/classAchievementMgr.html#a04cee87ace60bf198d23e0bedca1b109":[7,0,123,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d77/classAchievementMgr.html#af7d09a44aa2a1e4021d0ebfe928d3c3e":[7,0,123,35],
 "d8/d77/classachievement__save__the__day.html":[7,0,95],
 "d8/d77/classachievement__save__the__day.html#a193e4060b6634a87b499b7c8a5e287a1":[7,0,95,0],
-"d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[7,0,95,1],
-"d8/d77/classspell__item__hourglass__sand.html":[7,0,3447],
-"d8/d77/classspell__item__hourglass__sand.html#a334563491c3cbb9daa9d97dad738e9e5":[7,0,3447,0]
+"d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[7,0,95,1]
 };

@@ -17,7 +17,6 @@ var zone__the__scarlet__enclave_8cpp =
     [ "spell_portal_effect_acherus", "db/db7/classspell__portal__effect__acherus.html", "db/db7/classspell__portal__effect__acherus" ],
     [ "spell_q12779_an_end_to_all_things", "d4/dc7/classspell__q12779__an__end__to__all__things.html", "d4/dc7/classspell__q12779__an__end__to__all__things" ],
     [ "spell_q12779_an_end_to_all_things_devour_aura", "d1/d4a/classspell__q12779__an__end__to__all__things__devour__aura.html", "d1/d4a/classspell__q12779__an__end__to__all__things__devour__aura" ],
-    [ "DelayedSummonEvent", "de/d75/classDelayedSummonEvent.html", "de/d75/classDelayedSummonEvent" ],
     [ "npc_highlord_darion_mograine", "de/db9/structnpc__highlord__darion__mograine.html", "de/db9/structnpc__highlord__darion__mograine" ],
     [ "spell_chapter5_light_of_dawn_aura", "dd/d1b/classspell__chapter5__light__of__dawn__aura.html", "dd/d1b/classspell__chapter5__light__of__dawn__aura" ],
     [ "spell_chapter5_return_to_capital", "d7/d28/classspell__chapter5__return__to__capital.html", "d7/d28/classspell__chapter5__return__to__capital" ],
@@ -92,6 +91,9 @@ var zone__the__scarlet__enclave_8cpp =
       [ "EVENT_START_COUNTDOWN_12", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadadaacf8f6a851173953093ec0665e91be", null ],
       [ "EVENT_START_COUNTDOWN_13", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada9fc210b899f2c2d6538666de40b86322", null ],
       [ "EVENT_START_COUNTDOWN_14", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadae32bc53e4b9084d30421747f1238480f", null ],
+      [ "EVENT_MARCH_BEHEMOTHS_KOLTIRA", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadab18eb8bb72bc9480bd6a3035c96c78b4", null ],
+      [ "EVENT_MARCH_DARION", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaa2867a3220247e2ef3ee8f9686483453", null ],
+      [ "EVENT_MARCH_ORBAZ_THASSARIAN", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadacedf0cbfea3504a16e7a923853913ca8", null ],
       [ "EVENT_SPELL_ANTI_MAGIC_ZONE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada2178a809edb68d68eeb4d31a81960475", null ],
       [ "EVENT_SPELL_DEATH_STRIKE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadab5d2832f690c3c6c81103cff7f5f190c", null ],
       [ "EVENT_SPELL_DEATH_EMBRACE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaf23dfe013daf4c17081796357a59eaed", null ],
@@ -166,6 +168,7 @@ var zone__the__scarlet__enclave_8cpp =
       [ "ACTION_START_EVENT", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada5a9d00590152ece2beb2305c6f271dd9", null ],
       [ "ACTION_PLAY_EMOTE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadabb9def8fc5e7c75c52f463c05865a43b", null ],
       [ "ACTION_POSITION_NPCS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada8cde4e4bfee4a3b79c0971c267502974", null ],
+      [ "POINT_ARMY_CHARGE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada50f0d64600db070c051d3665eba2ab95", null ],
       [ "ENCOUNTER_START_TIME", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadafcf1b25e550546b12f799cdb9d674fd4", null ],
       [ "ENCOUNTER_TOTAL_DEFENDERS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaeda98e29c3cba85ba350773017ee26c9", null ],
       [ "ENCOUNTER_TOTAL_SCOURGE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada8ab3c4c2717b178d21dd138c3620b3e8", null ],
@@ -174,7 +177,6 @@ var zone__the__scarlet__enclave_8cpp =
       [ "ENCOUNTER_STATE_OUTRO", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada0cb5cbaf228185bfc622ca9914898442", null ]
     ] ],
     [ "LightOfDawnGOs", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0", [
-      [ "GO_HOLY_LIGHTNING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0aab1104f8c2f8269d74409816be80ef69", null ],
       [ "GO_LIGHT_OF_DAWN", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2361288a6bfc083ea12d77072611faa0a5306e5f74f768fc37cb75e361f8836ce", null ]
     ] ],
     [ "LightOfDawnNPCs", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1", [
@@ -198,6 +200,24 @@ var zone__the__scarlet__enclave_8cpp =
       [ "NPC_HIGHLORD_ALEXANDROS_MOGRAINE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1af224d8dc029d63e029d2899003bb50ea", null ],
       [ "NPC_DARION_MOGRAINE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a7d50c01dbb2e71db83a2aeda2a340a51", null ],
       [ "NPC_THE_LICH_KING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a078e69d16e409f2d9cb09ba3d580ae84", null ]
+    ] ],
+    [ "LightOfDawnOutroPoints", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908", [
+      [ "OUTRO_POINT_ORBAZ_FLEE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a2dd60f54b222e510c953ef594e2cc7b0", null ],
+      [ "OUTRO_POINT_KOLTIRA", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908ac336d71c2338db634c76368913210f51", null ],
+      [ "OUTRO_POINT_THASSARIAN", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908afe9a253ec3b18aa426882c8ff450440e", null ],
+      [ "OUTRO_POINT_DARION", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908ac5cf65bfca2d89faf6c4a8c253adf4bd", null ],
+      [ "OUTRO_POINT_ALEXANDROS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a6fac05e0bd352ce10cb69112a7fd8e66", null ],
+      [ "OUTRO_POINT_DARION_GHOST", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908aecb81f7e37d4e6a7904a5faa9b095425", null ],
+      [ "OUTRO_POINT_TIRION_1", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908af174634d7300731434d6e6d589b2517e", null ],
+      [ "OUTRO_POINT_LICH_KING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908aca6d90848fad8b9cbc7c1c952642ea77", null ],
+      [ "OUTRO_POINT_TIRION_2", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a15fc5a42bc30729027a7628d4312a681", null ],
+      [ "OUTRO_POINT_TIRION_3", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908abbf3d7d52b8d46d378c21fe521fc986f", null ]
+    ] ],
+    [ "LightOfDawnPaths", "db/dd7/zone__the__scarlet__enclave_8cpp.html#acca79ce13dca723b11436a9bc2bfdb4f", [
+      [ "PATH_DARION_MARCH", "db/dd7/zone__the__scarlet__enclave_8cpp.html#acca79ce13dca723b11436a9bc2bfdb4fafaea340fce822206fcf34c717aad40cc", null ],
+      [ "PATH_BEHEMOTH_MARCH_A", "db/dd7/zone__the__scarlet__enclave_8cpp.html#acca79ce13dca723b11436a9bc2bfdb4fa4545c7f2844adbaa7e264ee1c7a2536a", null ],
+      [ "PATH_BEHEMOTH_MARCH_B_1", "db/dd7/zone__the__scarlet__enclave_8cpp.html#acca79ce13dca723b11436a9bc2bfdb4fa1f6861af3481f125f1926c63a0f7cd0a", null ],
+      [ "PATH_BEHEMOTH_MARCH_B_2", "db/dd7/zone__the__scarlet__enclave_8cpp.html#acca79ce13dca723b11436a9bc2bfdb4fa43d39e8e841a6d0bc8596fee9bbcd204", null ]
     ] ],
     [ "LightOfDawnSays", "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74", [
       [ "SAY_LIGHT_OF_DAWN01", "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a02c0f6f7a7d7b0baec89fd9aeaf67825", null ],
@@ -276,6 +296,7 @@ var zone__the__scarlet__enclave_8cpp =
       [ "SPELL_CAMERA_SHAKE_INIT", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a776d1d9bb6f3cc965a2ccefeed06503a", null ],
       [ "SPELL_CAMERA_SHAKE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a99dfcda224e38c33771d6bf70abb5b66", null ],
       [ "SPELL_THE_MIGHT_OF_MOGRAINE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a2ad624a6823c9d1c68507d31f2d1ee42", null ],
+      [ "SPELL_BIRTH", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a014db384d07b4224f6b4980ad0128484", null ],
       [ "SPELL_ANTI_MAGIC_ZONE1", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a8864be59454c6f567255222652170352", null ],
       [ "SPELL_DEATH_STRIKE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a29e4d6cef809d75e6601e53c2438976c", null ],
       [ "SPELL_DEATH_EMBRACE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a17645ad38bb5b7927ab2dff63cbdc924", null ],
@@ -296,6 +317,19 @@ var zone__the__scarlet__enclave_8cpp =
       [ "SPELL_EXIT_TELEPORT_VISUAL", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a558b6805bac3ee9aa8f0d874f2033878", null ],
       [ "SPELL_LAY_ON_HANDS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1aa1682889d7efa23bfdf6197ca365fdad", null ],
       [ "SPELL_THE_LIGHT_OF_DAWN_Q", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af0bfd11832b7b0c618f4f777cec9a666", null ]
+    ] ],
+    [ "LightOfDawnSummonGroups", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349", [
+      [ "SUMMON_GROUP_SCOURGE_WAVE_1", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a462401e6ed790481e19f2e64bcf17c7f", null ],
+      [ "SUMMON_GROUP_SCOURGE_WAVE_5", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349ae97cf5a7400dc2412ece9930f3267cd1", null ],
+      [ "SUMMON_GROUP_DEFENDERS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a325f2cf3bd9122765569016edbc26714", null ],
+      [ "SUMMON_GROUP_SCOURGE_LEADERS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a6686308c09fadbefc5c6727ae24960f8", null ],
+      [ "SUMMON_GROUP_REPLACEMENTS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a4021c5fa46aa08d291a370154b38482d", null ],
+      [ "SUMMON_GROUP_OUTRO_DEFENDERS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a9ef190403238833c826d84d4f572a8fe", null ],
+      [ "SUMMON_GROUP_TIRION", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a23ea8f98b52e512a26f68b5c6fdb1231", null ],
+      [ "SUMMON_GROUP_ALEXANDROS", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349ac1b03d87d97a8505b69ce462c7b305ba", null ],
+      [ "SUMMON_GROUP_DARION_GHOST", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a42dbccc60ae1299f425c0fcb1a6aeeb7", null ],
+      [ "SUMMON_GROUP_LICH_KING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a30c1ecbd01e15722ba61d117774792db", null ],
+      [ "SUMMON_GROUP_HOLY_LIGHTNING", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ae8d379adc5a458a10ed7ee589e16e349a2e80a37c5e9cda198ca4f7c54bb8a209", null ]
     ] ],
     [ "NecroNPCs", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54b", [
       [ "NPC_GLUTTONOUS_GEIST", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54ba946cf2ea381d689ffcef19f0a24a835f", null ],
@@ -372,7 +406,14 @@ var zone__the__scarlet__enclave_8cpp =
       [ "NPC_SCARLET_LORD_MCCREE", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70ba03b5589ad37e3b3fd76b0cfcda7eeb5e", null ]
     ] ],
     [ "AddSC_the_scarlet_enclave", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ],
+    [ "LightOfDawnAppendNode", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a87df481f2d1305d48b4acfecca25cbae", null ],
+    [ "LightOfDawnAppendPathLeg", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a226ce5d4c23128e69989c0577e56d686", null ],
+    [ "LightOfDawnMarchBehemoth", "db/dd7/zone__the__scarlet__enclave_8cpp.html#aeb85739e4c4a6567f0388e7f37c92fa9", null ],
+    [ "LightOfDawnMarchTo", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a939874a8e865d9ecd79986078524cf68", null ],
+    [ "LightOfDawnScheduleMarch", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ad7118775df237d91354c9c2e9701f0b2", null ],
+    [ "LightOfDawnStartMarch", "db/dd7/zone__the__scarlet__enclave_8cpp.html#ac9e7dcedeb49a5e145afea481d6849ac", null ],
+    [ "LightOfDawnChargePos", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a1d294b096caaa09ee5a83116661addf0", null ],
     [ "LightOfDawnFightPos", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a3ec3399c01c2d3c6799f5ee0758f0211", null ],
-    [ "LightOfDawnPos", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a946fafe9c84bca2b2b604d0729ca6bf7", null ],
+    [ "LightOfDawnOutroPos", "db/dd7/zone__the__scarlet__enclave_8cpp.html#a2cea7b059938534ec4ca2dca6e8cb517", null ],
     [ "ReturnToCapitalSpells", "db/dd7/zone__the__scarlet__enclave_8cpp.html#aeb95da9b3eb8c0da9ad295722d84945b", null ]
 ];

@@ -1568,7 +1568,6 @@ var annotated_dup =
     [ "DelayedCastEvent", "dd/d01/classDelayedCastEvent.html", "dd/d01/classDelayedCastEvent" ],
     [ "DelayedCastMincharEvent", "d3/dae/classDelayedCastMincharEvent.html", "d3/dae/classDelayedCastMincharEvent" ],
     [ "DelayedMovementEvent", "df/d2f/classDelayedMovementEvent.html", "df/d2f/classDelayedMovementEvent" ],
-    [ "DelayedSummonEvent", "de/d75/classDelayedSummonEvent.html", "de/d75/classDelayedSummonEvent" ],
     [ "DelayedTalk", "da/dca/classDelayedTalk.html", "da/dca/classDelayedTalk" ],
     [ "DelayedWindstoneSummonEvent", "d0/db8/classDelayedWindstoneSummonEvent.html", "d0/db8/classDelayedWindstoneSummonEvent" ],
     [ "deserter_commandscript", "d5/def/classdeserter__commandscript.html", "d5/def/classdeserter__commandscript" ],
