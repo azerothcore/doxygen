@@ -1,6 +1,5 @@
 var NAVTREEINDEX277 =
 {
-"da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,11,4,20],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0628ef10ff4329218f1e0c5f68dc2723":[8,0,0,0,1,3,2,11,4,20,16],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2463a4c9e1fb90919d283a9acb50c1db":[8,0,0,0,1,3,2,11,4,20,23],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a25dfc15ed4f309bda674787b5d500718":[8,0,0,0,1,3,2,11,4,20,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX277 =
 "da/d82/classreload__commandscript.html#aff5856545fa4c3af1529eb45823ef2fc":[7,0,2553,58],
 "da/d82/structDestructibleModelDataEntry.html":[7,0,1012],
 "da/d82/structDestructibleModelDataEntry.html#a1a06c3e04bc2bb7d5bc29592d40b9239":[7,0,1012,4],
-"da/d82/structDestructibleModelDataEntry.html#a65d7e0933cb53864413781cdeb56b6c2":[7,0,1012,2]
+"da/d82/structDestructibleModelDataEntry.html#a65d7e0933cb53864413781cdeb56b6c2":[7,0,1012,2],
+"da/d82/structDestructibleModelDataEntry.html#a84d606d69c51f5e1fdecf9bc0f5705be":[7,0,1012,0]
 };

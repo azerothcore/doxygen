@@ -1,5 +1,8 @@
 var NAVTREEINDEX236 =
 {
+"d8/d93/classspell__frostwarden__handler__focus__fire__aura.html":[7,0,3010],
+"d8/d93/classspell__frostwarden__handler__focus__fire__aura.html#aa2649c760e362cc7aa22cd770b15f7df":[7,0,3010,1],
+"d8/d93/classspell__frostwarden__handler__focus__fire__aura.html#ad4290158ee9af93df11d1a46a5bd26a2":[7,0,3010,2],
 "d8/d93/classspell__frostwarden__handler__focus__fire__aura.html#af47c7ea07ee3dbe824b1c294024d0c29":[7,0,3010,0],
 "d8/d93/classspell__trollgore__corpse__explode__aura.html":[7,0,4294],
 "d8/d93/classspell__trollgore__corpse__explode__aura.html#a362b16f69a19adae6b673bd9ead55a83":[7,0,4294,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX236 =
 "d8/da3/structCreatureMovementData.html#ad2e480bc7a0b98c417be077305392647":[7,0,961,4],
 "d8/da3/structCreatureMovementData.html#ad76c73b59fa83682a9ae43389fed95b0":[7,0,961,8],
 "d8/da3/structCreatureMovementData.html#ae2a19ebf47bacb304a450f7d9c6dbc6d":[7,0,961,9],
-"d8/da3/structCreatureMovementData.html#ae603273724f448c95dc3a7cd3aec5b68":[7,0,961,11],
-"d8/da3/structCreatureMovementData.html#ae701d7622d7e24c0b8673863a2d75742":[7,0,961,12],
-"d8/da3/structCreatureMovementData.html#af2c8281192f6234bd19e030237c77b5a":[7,0,961,3],
-"d8/da3/structGlobalCooldown.html":[7,0,1144]
+"d8/da3/structCreatureMovementData.html#ae603273724f448c95dc3a7cd3aec5b68":[7,0,961,11]
 };

@@ -492,6 +492,7 @@ var classScriptMgr =
     [ "OnUnitSetShapeshiftForm", "d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce", null ],
     [ "OnUnitUpdate", "d2/d73/classScriptMgr.html#abe2d98c9efde480ec3050efaa6b45c37", null ],
     [ "OnUnloadGridMap", "d2/d73/classScriptMgr.html#aefdf7347b70ef8d2b779de3eae15e377", null ],
+    [ "OnWardenCheckExpectedResult", "d2/d73/classScriptMgr.html#a548da13c06da1fd8f1e548c13a246857", null ],
     [ "OnWeatherChange", "d2/d73/classScriptMgr.html#af484cb99440ed5d6ec8ce3233430ff6c", null ],
     [ "OnWeatherUpdate", "d2/d73/classScriptMgr.html#ad8c9ba7246268c7c7658761c33e5b4d9", null ],
     [ "OnWorldObjectCreate", "d2/d73/classScriptMgr.html#afaaf8af079fc8ef7e2ec31ee5ad8e8db", null ],

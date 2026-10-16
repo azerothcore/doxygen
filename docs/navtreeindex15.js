@@ -1,12 +1,5 @@
 var NAVTREEINDEX15 =
 {
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a25af5346f2defcc366e37e084f374fad":[8,0,0,0,1,2,8,1,11,15,15],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a261e936a90a1bbb0b599d4e8e5e24b85":[8,0,0,0,1,2,8,1,11,15,3],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2801bc70276264321be82984df6fbbe8":[8,0,0,0,1,2,8,1,11,15,83],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2843d97368a82303248874e80b2b4819":[8,0,0,0,1,2,8,1,11,15,27],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2aae61bfad7260bf54c2ea6aef6fc99c":[8,0,0,0,1,2,8,1,11,15,71],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2cfd8e7d6c54b7e520fd604053ae0db3":[8,0,0,0,1,2,8,1,11,15,24],
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2f981ebe5e9bcf4c1a81561ccee496bf":[8,0,0,0,1,2,8,1,11,15,54],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a35b776c9acb976b6930f5d0851b7cd79":[8,0,0,0,1,2,8,1,11,15,69],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[8,0,0,0,1,2,8,1,11,15,60],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3bd9cb7368abc36e9a221225a6ba6392":[8,0,0,0,1,2,8,1,11,15,9],
@@ -201,11 +194,11 @@ var NAVTREEINDEX15 =
 "d0/d95/classspell__mage__missile__barrage.html#a0802e87836e910dc7007e2a2e7a888fd":[7,0,3655,2],
 "d0/d95/classspell__mage__missile__barrage.html#a1dcda7de24effce7d975b714629f0e8a":[7,0,3655,1],
 "d0/d95/classspell__mage__missile__barrage.html#a4c536d65ba5325a6e63ad78bbc9bbfd6":[7,0,3655,0],
-"d0/d95/structnpc__ahune__ice__spear__bunny.html":[7,0,1628],
-"d0/d95/structnpc__ahune__ice__spear__bunny.html#a1a1a8b066a3cab9e15710fa97a8c83e6":[7,0,1628,3],
-"d0/d95/structnpc__ahune__ice__spear__bunny.html#a5e7eb38f6bf4a947bd1e09ee198eb45d":[7,0,1628,1],
-"d0/d95/structnpc__ahune__ice__spear__bunny.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2":[7,0,1628,2],
-"d0/d95/structnpc__ahune__ice__spear__bunny.html#aecc30efddcf4ae9bd93504e1d727ee87":[7,0,1628,0],
+"d0/d95/structnpc__ahune__ice__spear__bunny.html":[7,0,1629],
+"d0/d95/structnpc__ahune__ice__spear__bunny.html#a1a1a8b066a3cab9e15710fa97a8c83e6":[7,0,1629,3],
+"d0/d95/structnpc__ahune__ice__spear__bunny.html#a5e7eb38f6bf4a947bd1e09ee198eb45d":[7,0,1629,1],
+"d0/d95/structnpc__ahune__ice__spear__bunny.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2":[7,0,1629,2],
+"d0/d95/structnpc__ahune__ice__spear__bunny.html#aecc30efddcf4ae9bd93504e1d727ee87":[7,0,1629,0],
 "d0/d96/classspell__pal__seal__of__righteousness.html":[7,0,3812],
 "d0/d96/classspell__pal__seal__of__righteousness.html#a714d9b7afc9ae0dd190030309f1e83ca":[7,0,3812,4],
 "d0/d96/classspell__pal__seal__of__righteousness.html#a7796d6b90bb3452d75d28e5a6a3e6287":[7,0,3812,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX15 =
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#a2a1d6c4a6fdcfbb0ab34769649dbe321":[7,0,4358,0],
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#a77b31ab1d2952c5d77e8a1ca9cf18405":[7,0,4358,3],
 "d0/d9a/classspell__warl__glyph__of__shadowflame.html#ae3711d9dff0acd196b1fae8e2285fb2a":[7,0,4358,2],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html#afa1f4cba7a02cb4a92a67c6e41d3349c":[7,0,4358,1]
+"d0/d9a/classspell__warl__glyph__of__shadowflame.html#afa1f4cba7a02cb4a92a67c6e41d3349c":[7,0,4358,1],
+"d0/d9a/classspell__yogg__saron__empowered__aura.html":[7,0,4451],
+"d0/d9a/classspell__yogg__saron__empowered__aura.html#a529e89c1ae0074370da174defc086719":[7,0,4451,0],
+"d0/d9a/classspell__yogg__saron__empowered__aura.html#a587652095a5dfae229787a0c0ceacfbe":[7,0,4451,1],
+"d0/d9a/classspell__yogg__saron__empowered__aura.html#aaed6604e39dd977f4e7c671052d718e8":[7,0,4451,3],
+"d0/d9a/classspell__yogg__saron__empowered__aura.html#acd5551b09882d720608bdec6036dee9a":[7,0,4451,2],
+"d0/d9b/structboss__dalronn__the__controller.html":[7,0,436],
+"d0/d9b/structboss__dalronn__the__controller.html#a1c3e44fe347e9c1ec45db19865bb5110":[7,0,436,7]
 };

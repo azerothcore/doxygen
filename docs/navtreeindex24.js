@@ -1,6 +1,5 @@
 var NAVTREEINDEX24 =
 {
-"d0/dfa/DatabaseEnv_8h.html#af42e9d262f732792d1e81568ae38ea2e":[8,0,0,0,1,1,0,4,2],
 "d0/dfa/DatabaseEnv_8h.html#af8239cd04c4137e1e621226a6d919ed4":[8,0,0,0,1,1,0,4,0],
 "d0/dfa/classspell__gen__clone.html":[7,0,3055],
 "d0/dfa/classspell__gen__clone.html#a514697f3fdcbf9274453d6d71c0c4816":[7,0,3055,0],
@@ -37,10 +36,10 @@ var NAVTREEINDEX24 =
 "d0/dfc/structNPCStaveQuestAI.html#af18005dd457c320709921bcdd0f7895d":[7,0,2352,17],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[7,0,0,50],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,0,62],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,0,62,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[7,0,0,50,1],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,0,62,2],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,0,62,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[7,0,0,50,2],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,0,62,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[7,0,0,50,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,0,62,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[7,0,0,50,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX24 =
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca17d90504d3877f232a0428961b74466e":[8,0,0,0,1,3,2,5,0,4,10],
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca280b425ec3e0e85543eb41e95c5d098a":[8,0,0,0,1,3,2,5,0,4,2],
 "d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca29f0beb64a861e624228fa86853a3627":[8,0,0,0,1,3,2,5,0,4,16],
-"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c584a736b42769054572c933548162f":[8,0,0,0,1,3,2,5,0,4,3]
+"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c584a736b42769054572c933548162f":[8,0,0,0,1,3,2,5,0,4,3],
+"d1/d01/boss__felblood__kaelthas_8cpp.html#a5bd342133be8c2137b831460acc9298ca4cbec25ae17837af1d9f2064dd9e8272":[8,0,0,0,1,3,2,5,0,4,11]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d3/db5/classHolidayDateCalculator.html#a6db890c706217c35c8579a0d14e240c4":[7,0,1304,4],
 "d3/db5/classHolidayDateCalculator.html#a6e27a5ec3e65f21f17a9f2a61cc23022":[7,0,1304,11],
 "d3/db5/classHolidayDateCalculator.html#a7877b9590552f951cebda62021634445":[7,0,1304,1],
 "d3/db5/classHolidayDateCalculator.html#a787a8a7a5316fee2f488ba60e62ac6ea":[7,0,1304,13],
@@ -57,7 +58,8 @@ var NAVTREEINDEX112 =
 "d3/db8/structICNodeInfo.html#a835c00ebdc2fe61f7e7757b0ed26bd1d":[7,0,1318,4],
 "d3/db9/SessionScript_8h.html":[8,0,0,0,1,2,38,0,81],
 "d3/db9/SessionScript_8h.html#abcfe5f953b681332b6fa0ec61a1af767":[8,0,0,0,1,2,38,0,81,1],
-"d3/db9/SessionScript_8h.html#abcfe5f953b681332b6fa0ec61a1af767a888b2d645a564e5396656ccbcb90bcd6":[8,0,0,0,1,2,38,0,81,1,1],
+"d3/db9/SessionScript_8h.html#abcfe5f953b681332b6fa0ec61a1af767a378c1b3d31aadefcbf826f63fd71075c":[8,0,0,0,1,2,38,0,81,1,1],
+"d3/db9/SessionScript_8h.html#abcfe5f953b681332b6fa0ec61a1af767a888b2d645a564e5396656ccbcb90bcd6":[8,0,0,0,1,2,38,0,81,1,2],
 "d3/db9/SessionScript_8h.html#abcfe5f953b681332b6fa0ec61a1af767acca28529f753c7219c3ec18c48963c8e":[8,0,0,0,1,2,38,0,81,1,0],
 "d3/db9/classPacketHandler.html":[7,0,2411],
 "d3/db9/classPacketHandler.html#a9468be560aba807419fb7e28bf0d6a41":[7,0,2411,1],
@@ -66,12 +68,12 @@ var NAVTREEINDEX112 =
 "d3/db9/map__extractor_2mpq__libmpq_8cpp.html#a8ae40ebe73635e831bc65b70e7f97f3c":[8,0,0,0,3,1,6,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,34,8,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[7,0,13,8,12],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,34,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[7,0,13,8,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,34,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,34,8,12,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[7,0,13,8,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,34,8,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[7,0,13,8,12,2],
 "d3/dbb/Battleground_8cpp.html":[8,0,0,0,1,2,8,9],
 "d3/dbb/classquest__commandscript.html":[7,0,2515],
 "d3/dbb/classquest__commandscript.html#a044c30fdaedd07060284bd37fd2e226c":[7,0,2515,3],
@@ -95,8 +97,8 @@ var NAVTREEINDEX112 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,20,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[7,0,6,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[7,0,4650,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX112 =
 "d3/dc4/classCorpse.html#a0f709c964269b438fcc2562868e72834":[7,0,941,5],
 "d3/dc4/classCorpse.html#a10bff6f7d0e2597ef9db67aafd8249ea":[7,0,941,17],
 "d3/dc4/classCorpse.html#a28d222b38b604d2ecc566ef78b4eb8f9":[7,0,941,16],
-"d3/dc4/classCorpse.html#a2f7783ce9a9be85c3212fe86a349766d":[7,0,941,0],
-"d3/dc4/classCorpse.html#a34e2fc9d1f64dedd9da4428b532f145c":[7,0,941,4],
-"d3/dc4/classCorpse.html#a38729445517f20d2427c115364da045f":[7,0,941,1]
+"d3/dc4/classCorpse.html#a2f7783ce9a9be85c3212fe86a349766d":[7,0,941,0]
 };

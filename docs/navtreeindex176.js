@@ -1,5 +1,7 @@
 var NAVTREEINDEX176 =
 {
+"d6/d23/classspell__amanitar__remove__mushroom__power.html#ac8349deb2e9c8861194e80132bd72fc5":[7,0,2666,1],
+"d6/d23/classspell__amanitar__remove__mushroom__power.html#ac83962bef84b68cef6d7937769730598":[7,0,2666,2],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#aee4d5908035d06be2f1469a50db02e26":[7,0,2666,0],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html":[7,0,3594],
 "d6/d23/classspell__lady__vashj__remove__tainted__cores.html#a274d65aa393a65e19bbb67a5d07c7428":[7,0,3594,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d2a/classspell__sha__item__lightning__shield.html":[7,0,4129],
 "d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[7,0,4129,2],
 "d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[7,0,4129,3],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[7,0,4129,0],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3a496539a6adddca91724d9cc77f81c3":[7,0,4129,1],
-"d6/d2b/AccountScript_8h.html":[8,0,0,0,1,2,38,0,1]
+"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[7,0,4129,0]
 };

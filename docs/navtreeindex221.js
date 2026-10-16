@@ -1,5 +1,8 @@
 var NAVTREEINDEX221 =
 {
+"d7/deb/classspell__rog__deadly__poison.html#a05341e7a67f50c6ced4bf4bd3892f39a":[7,0,4049,0],
+"d7/deb/classspell__rog__deadly__poison.html#a133e338413e960c442446a2a4a13b85b":[7,0,4049,4],
+"d7/deb/classspell__rog__deadly__poison.html#a3aa304a5386f6c0ee4aa428bf4ed12bb":[7,0,4049,5],
 "d7/deb/classspell__rog__deadly__poison.html#a496c27472579be3b8989868765ec19ef":[7,0,4049,3],
 "d7/deb/classspell__rog__deadly__poison.html#a6b2a1f378c0f5a2762ce1d34740d310e":[7,0,4049,2],
 "d7/deb/classspell__rog__deadly__poison.html#a7ca0fe15f6679c73aa77818ef3d94eed":[7,0,4049,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX221 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1f8c0adcb3099c2e5cc6b69757fc37f0":[8,0,0,0,1,2,16,10,6,5,20],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a29b833bdfa06ddcecd79767dfd521f8f":[8,0,0,0,1,2,16,10,6,5,18],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a304c2b97e3e8fd1c42b4d999fa4b709a":[8,0,0,0,1,2,16,10,6,5,22],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a31a93df7bc250700e067d52ce184d52f":[8,0,0,0,1,2,16,10,6,5,4],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a57001bfcef756447892ad19109b29ce8":[8,0,0,0,1,2,16,10,6,5,11],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a6382420cab5f5cfb854bed6c5cb54804":[8,0,0,0,1,2,16,10,6,5,24],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a712ae9993604b84baac0e4e833d73cd0":[8,0,0,0,1,2,16,10,6,5,8]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a31a93df7bc250700e067d52ce184d52f":[8,0,0,0,1,2,16,10,6,5,4]
 };

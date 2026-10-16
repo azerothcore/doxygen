@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576d":[8,0,0,0,1,3,5,12,8,24],
+"d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f":[8,0,0,0,1,3,5,12,8,24,2],
 "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a":[8,0,0,0,1,3,5,12,8,24,0],
 "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459":[8,0,0,0,1,3,5,12,8,24,1],
 "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd":[8,0,0,0,1,3,5,12,8,24,3],
@@ -102,12 +104,12 @@ var NAVTREEINDEX161 =
 "d5/d9e/halls__of__stone_8h.html#aa80bce1d0ea05213c0d6c327126caf31af37ef44d43d9af847089006528431e72":[8,0,0,0,1,3,5,9,1,4,5,13],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[7,0,0,33],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[5,0,0,45],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "d5/da6/instance__ruins__of__ahnqiraj_8cpp.html#aef812d08d9553915de270214cf8bd837":[8,0,0,0,1,3,4,8,6,5],
 "d5/da6/structCreatureLocale.html":[7,0,957],
 "d5/da6/structCreatureLocale.html#a344cbaef4846d4c9c76e1d783dd2b4fc":[7,0,957,1],
-"d5/da6/structCreatureLocale.html#aa971d38e5169f2b7b610cf6cf0aec928":[7,0,957,0],
-"d5/da7/DataMap_8h.html":[8,0,0,0,0,15,6],
-"d5/da7/classreset__commandscript.html":[7,0,2558]
+"d5/da6/structCreatureLocale.html#aa971d38e5169f2b7b610cf6cf0aec928":[7,0,957,0]
 };

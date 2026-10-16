@@ -1,12 +1,5 @@
 var NAVTREEINDEX18 =
 {
-"d0/db6/structGameobjectModelData.html#ac51305f0d800ff993e9a9cba2ccb6939":[7,0,1124,2],
-"d0/db6/structGameobjectModelData.html#ac8a053b6f01a9917ee6b1fc2a738bb4e":[7,0,1124,3],
-"d0/db7/classGroup.html":[7,0,1266],
-"d0/db7/classGroup.html#a027748974161facad50ad0ddcd7daa9b":[7,0,1266,9],
-"d0/db7/classGroup.html#a03662b1a5ee6f8d5e5efda6abea0ee24":[7,0,1266,58],
-"d0/db7/classGroup.html#a04468c44fd9585c03961ac0956a57885":[7,0,1266,20],
-"d0/db7/classGroup.html#a051fcb5f005c1edb9982fdb49d319695":[7,0,1266,128],
 "d0/db7/classGroup.html#a06275d45cb18894cb4d9c6373abb79a8":[7,0,1266,83],
 "d0/db7/classGroup.html#a06af81d356bbe98a9be82c0bedea9c68":[7,0,1266,21],
 "d0/db7/classGroup.html#a08e937032248647f8398f4ccbbda2861":[7,0,1266,65],
@@ -249,5 +242,12 @@ var NAVTREEINDEX18 =
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146dae32d0c49b04f951a43140f23af436d05":[8,0,0,0,1,2,41,6,8,11],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146dae9ced52980e85ea4d56e1a2540d0d0e9":[8,0,0,0,1,2,41,6,8,30],
 "d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf13ad4aaac2debb9e1be8686686cd215":[8,0,0,0,1,2,41,6,8,31],
-"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf173b3df1f0236ffb7df3a8fbe4c2efe":[8,0,0,0,1,2,41,6,8,10]
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf173b3df1f0236ffb7df3a8fbe4c2efe":[8,0,0,0,1,2,41,6,8,10],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf56afff0380689f8a82952e2db4a584c":[8,0,0,0,1,2,41,6,8,2],
+"d0/dba/SpellInfo_8h.html#a93795b2131c8cbe38a7b23768a5a146daf7ce6d6f1816304f4859833e912bfc94":[8,0,0,0,1,2,41,6,8,4],
+"d0/dba/SpellInfo_8h.html#a967f80d0c19acebc2e322c73b7b16442":[8,0,0,0,1,2,41,6,10],
+"d0/dba/SpellInfo_8h.html#a967f80d0c19acebc2e322c73b7b16442a0a3c9804ace623ec239448c8bb595a78":[8,0,0,0,1,2,41,6,10,13],
+"d0/dba/SpellInfo_8h.html#a967f80d0c19acebc2e322c73b7b16442a0cced2067e35e4a16aaea26285894f00":[8,0,0,0,1,2,41,6,10,8],
+"d0/dba/SpellInfo_8h.html#a967f80d0c19acebc2e322c73b7b16442a14b3a224998ba1e6ca256a9db862d6bb":[8,0,0,0,1,2,41,6,10,0],
+"d0/dba/SpellInfo_8h.html#a967f80d0c19acebc2e322c73b7b16442a14be3e103dc38f8f83320277f9503d8b":[8,0,0,0,1,2,41,6,10,3]
 };

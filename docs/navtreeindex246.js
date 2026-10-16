@@ -1,6 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a56547526e80fa3fde7f141cbe2f9f8d7":[7,0,1655,0,0],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a5f9bafa128427d5b4facf06e275b31fb":[7,0,1655,0,5],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a78083f1b0b9f50161b7b132331f86c2c":[7,0,1655,0,3],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a8041c46c7e9ef9c51d16edf59622132a":[7,0,1655,0,8],
@@ -207,12 +206,12 @@ var NAVTREEINDEX246 =
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3434],
 "d9/d29/classspell__item__goblin__bomb.html#a0877a96dde66adb988628ebb93fe15b6":[7,0,3434,2],
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[7,0,3434,1],
@@ -220,8 +219,8 @@ var NAVTREEINDEX246 =
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[7,0,3434,3],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,15,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[7,0,13,15,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[7,0,13,15,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,15,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[7,0,13,15,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[8,0,0,0,1,3,2,4,2],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,4,2,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[8,0,0,0,1,3,2,4,2,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX246 =
 "d9/d2c/classAssistanceMovementGenerator.html":[7,0,212],
 "d9/d2c/classAssistanceMovementGenerator.html#a0791e081895efd553ba2048fc5b851ea":[7,0,212,2],
 "d9/d2c/classAssistanceMovementGenerator.html#a649b7d2833aaf895a5f6f290131c88f5":[7,0,212,0],
-"d9/d2c/classAssistanceMovementGenerator.html#af92bc6f83b1f4b1262736bf582b13ac3":[7,0,212,1]
+"d9/d2c/classAssistanceMovementGenerator.html#af92bc6f83b1f4b1262736bf582b13ac3":[7,0,212,1],
+"d9/d2c/classat__hol__hall__of__watchers.html":[7,0,227]
 };

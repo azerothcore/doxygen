@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3527,0],
+"d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3527,3],
 "d5/de3/classspell__item__totem__of__flowing__water.html#ad3e4a18ce21270eede17e29faa7dd897":[7,0,3527,2],
 "d5/de3/classspell__item__totem__of__flowing__water.html#af6ca1636d67b2d9f81a8743706ffb800":[7,0,3527,1],
 "d5/de3/classspell__razorscale__firebolt.html":[7,0,4026],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d5/def/classdeserter__commandscript.html#a419d404315e91b6cac1bfd3ac225a8fd":[7,0,1011,5],
 "d5/def/classdeserter__commandscript.html#a6274f79b9884586069f94137b44d89e9":[7,0,1011,10],
 "d5/def/classdeserter__commandscript.html#a9bf4e146ef0f4f0cb2508c4953f8a647":[7,0,1011,4],
-"d5/def/classdeserter__commandscript.html#aabd2b23e2dc61fac10890077b41d8179":[7,0,1011,6],
-"d5/def/classdeserter__commandscript.html#ab5b48b9dde89c9215c51560f26324649":[7,0,1011,1],
-"d5/def/classdeserter__commandscript.html#abe8c428ec09d341bb9f49882b7c071e2":[7,0,1011,2]
+"d5/def/classdeserter__commandscript.html#aabd2b23e2dc61fac10890077b41d8179":[7,0,1011,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX28 =
 {
-"d1/d1a/classBattlegroundMgr.html#a5795bf64fa457ed0e25862809006a89c":[7,0,347,0],
 "d1/d1a/classBattlegroundMgr.html#a58fd91e057bacd9b8a16ae5dfd959027":[7,0,347,18],
 "d1/d1a/classBattlegroundMgr.html#a5f38000a6e0f6f238eef6bbc1db288be":[7,0,347,71],
 "d1/d1a/classBattlegroundMgr.html#a641f2bb6fee8434707b8e27e95e1f895":[7,0,347,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX28 =
 "d1/d28/boss__swamplord__muselek_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,2,3,2,1],
 "d1/d28/boss__swamplord__muselek_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a86bd92a6bec0bfb569eab6227147cdfb":[8,0,0,0,1,3,7,2,3,2,1,0],
 "d1/d28/boss__swamplord__muselek_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af358f1b62cd760a4a58ff997a7108671":[8,0,0,0,1,3,7,2,3,2,1,1],
-"d1/d28/boss__swamplord__muselek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,3,2,2]
+"d1/d28/boss__swamplord__muselek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,2,3,2,2],
+"d1/d28/boss__swamplord__muselek_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,7,2,3,2,2,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX183 =
 {
+"d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b11a5a68fcea8fb2cda9807df10b353":[8,0,0,0,1,3,7,4,1,0,1,5],
+"d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,4,1,0,1,0],
+"d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a4c6c9ebf638f46e2a60fe869cea0573d":[8,0,0,0,1,3,7,4,1,0,1,2],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,4,1,0,1,3],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1ac06e5bbf853ac54e131d78954cadb856":[8,0,0,0,1,3,7,4,1,0,1,4],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,4,1,0,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a0eb0c24aff4cdab76d234ba17dbc4b5b":[7,0,2257,0,13],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a2485ad15002946c0c5b2ebce65221629":[7,0,2257,0,8],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a7da30509a017de1392cc3ba181a0dc53":[7,0,2257,0,11],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a826ecad9e9a06050a3ebc0861bf52c1e":[7,0,2257,0,6],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a991868074e39e2a4d06c37afc642a756":[7,0,2257,0,10],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#aa7944f80bb6718a65a07128be830ed94":[7,0,2257,0,4],
-"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ab69f481e3871e5ce803ab1f389a2385c":[7,0,2257,0,1]
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#a826ecad9e9a06050a3ebc0861bf52c1e":[7,0,2257,0,6]
 };

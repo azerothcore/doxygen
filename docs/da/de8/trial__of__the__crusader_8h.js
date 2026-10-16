@@ -3,6 +3,9 @@ var trial__of__the__crusader_8h =
     [ "DataHeader", "da/de8/trial__of__the__crusader_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "RegisterTrialOfTheCrusaderCreatureAI", "da/de8/trial__of__the__crusader_8h.html#a9c51a9b0706b9488a820b5643179b0c1", null ],
     [ "TrialOfTheCrusaderScriptName", "da/de8/trial__of__the__crusader_8h.html#ae640f61e906842f9877d3e8040bc13e3", null ],
+    [ "BarrettMisc", "da/de8/trial__of__the__crusader_8h.html#a10a1846cd9797fdd1fb2359949bd9a1e", [
+      [ "ACTION_BARRETT_LEAVE", "da/de8/trial__of__the__crusader_8h.html#a10a1846cd9797fdd1fb2359949bd9a1ea8b9db18813b685184c0c09492ba46929", null ]
+    ] ],
     [ "DataTypes", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "TYPE_NONE", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a01a66f4d8d66e4614c1c900c5a1c37ff", null ],
       [ "TYPE_INSTANCE_PROGRESS", "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a07aab14b97658eba7b4d96cf0737ad05", null ],
@@ -102,6 +105,7 @@ var trial__of__the__crusader_8h =
       [ "EVENT_ICEHOWL_ATTACK", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a893ac51d414d5ed988d538dcb92ae004", null ],
       [ "EVENT_SCENE_BEASTS_DONE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a2c139e8d3c67b7017dba6ebcb93e795e", null ],
       [ "EVENT_NORTHREND_BEASTS_ENRAGE", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1ab75bff704bcc9b79b26a2829e479932f", null ],
+      [ "EVENT_SUMMON_BARRETT", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1adabcfadf3fd3d79c8a50b2c7093b54e1", null ],
       [ "EVENT_SCENE_101", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1607721d8cf36884161f10071c20477f", null ],
       [ "EVENT_SCENE_102", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1af3de9bfd0298e03bc48a07b7f15269a2", null ],
       [ "EVENT_SCENE_103", "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129", null ],
@@ -197,10 +201,16 @@ var trial__of__the__crusader_8h =
       [ "LOC_ANUB", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0af50fe4e94c2ba4242ef252955ef12ee1", null ],
       [ "LOC_TIRION_FINAL", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0aaff57b49e1bf3c939e647bd033dcdee9", null ],
       [ "LOC_MAGE", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a810159af1117741062eb356360b68915", null ],
-      [ "LOC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a08d6e7bc478533d006c16baa4368bb0b", null ]
+      [ "LOC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a08d6e7bc478533d006c16baa4368bb0b", null ],
+      [ "LOC_BARRETT", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0ac3db505d0ea2337915c8c6cd542ac365", null ]
     ] ],
     [ "NPCs", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5c", [
-      [ "NPC_BARRENT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caa3ec53b29b3d858d9dde37562a9e40ba", null ],
+      [ "NPC_BARRETT_BEASTS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae5fc240df760986c07b6e1e360e55397", null ],
+      [ "NPC_BARRETT_BEASTS_HC", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafbb36f076189caf98d6e60a370aeb4d3", null ],
+      [ "NPC_BARRETT_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca9a4d7cfbbb3b22fdb03ef32238d0f8f2", null ],
+      [ "NPC_BARRETT_FACTION_CHAMPIONS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7217560c63ba389753bdc4a26bf9b726", null ],
+      [ "NPC_BARRETT_VALKYR", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cab6fc8509db829ad4ca712c3740601168", null ],
+      [ "NPC_BARRETT_LICH_KING", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caed1874ed9e90ee73e5b885da4ca866c5", null ],
       [ "NPC_TIRION", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caa7a42d3648c9d78ff83074b6a39a8b2d", null ],
       [ "NPC_GARROSH", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca93d18a212774cfad6c12acedc4b5f141", null ],
       [ "NPC_THRALL", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cabb2c764d972352baa23c884a753e0f1f", null ],

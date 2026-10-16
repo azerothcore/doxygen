@@ -1,6 +1,5 @@
 var NAVTREEINDEX263 =
 {
-"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904":[8,0,0,0,1,3,5,9,2,16,5],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48":[8,0,0,0,1,3,5,9,2,16,5,67],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a09127b173c49b4f434eea2d6fa99b245":[8,0,0,0,1,3,5,9,2,16,5,40],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0dfb31c4c49cf239d73256485cd9516b":[8,0,0,0,1,3,5,9,2,16,5,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX263 =
 "d9/dff/structnpc__crashin__thrashin__robot.html#a1d21cd2075f3aeba2c7f1e735a33dfec":[7,0,1757,2],
 "d9/dff/structnpc__crashin__thrashin__robot.html#a55778501d154d0a9e77f76054e926f85":[7,0,1757,3],
 "d9/dff/structnpc__crashin__thrashin__robot.html#ad21336d212498b1c9ef5d46979d147ab":[7,0,1757,0],
-"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html":[7,0,1758,0]
+"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html":[7,0,1758,0],
+"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[7,0,1758,0,5]
 };

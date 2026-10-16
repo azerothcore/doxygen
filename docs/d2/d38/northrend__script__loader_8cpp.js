@@ -155,7 +155,6 @@ var northrend__script__loader_8cpp =
     [ "AddSC_sholazar_basin", "d2/d38/northrend__script__loader_8cpp.html#a6191a300e13f0412ef1be6b529f69cbc", null ],
     [ "AddSC_storm_peaks", "d2/d38/northrend__script__loader_8cpp.html#ac8298d2bc33aa6752bc997cb838fe008", null ],
     [ "AddSC_trial_of_the_champion", "d2/d38/northrend__script__loader_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00", null ],
-    [ "AddSC_trial_of_the_crusader", "d2/d38/northrend__script__loader_8cpp.html#aae8fa1928137dde06462a753ceebcca6", null ],
     [ "AddSC_ulduar", "d2/d38/northrend__script__loader_8cpp.html#a92cd26bf4850f8f0e66ceb31a9f43561", null ],
     [ "AddSC_utgarde_keep", "d2/d38/northrend__script__loader_8cpp.html#a3252f1bf2be160c6d8960f41e595db47", null ],
     [ "AddSC_utgarde_pinnacle", "d2/d38/northrend__script__loader_8cpp.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ],

@@ -1,6 +1,5 @@
 var NAVTREEINDEX259 =
 {
-"d9/dc1/structboss__flamegor.html#aebbcd35868c64d2a0b1f660720f84575":[7,0,491,1],
 "d9/dc2/classspell__mimiron__magnetic__core__summon.html":[7,0,3701],
 "d9/dc2/classspell__mimiron__magnetic__core__summon.html#a028184d1e5a2898d7b6ba7a545683f48":[7,0,3701,1],
 "d9/dc2/classspell__mimiron__magnetic__core__summon.html#aae907d93c4c5d951b39c6c71aa647dee":[7,0,3701,0],
@@ -13,8 +12,8 @@ var NAVTREEINDEX259 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[7,0,1242,0,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,0,137],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[7,0,0,125],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[7,0,0,125,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,0,137,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[7,0,0,125,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#ad6520bb9a3280271078d8b365be88acf":[5,0,0,137,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#ad6520bb9a3280271078d8b365be88acf":[7,0,0,125,0],
 "d9/dc5/classConfigValueCache.html":[7,0,926],
@@ -112,8 +111,8 @@ var NAVTREEINDEX259 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[8,0,0,0,1,3,2,1,0,14,4,2],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[7,0,13,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[7,0,13,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[7,0,13,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[8,0,0,0,1,3,10,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX259 =
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html":[7,0,2885],
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#a335bc64860227122e0536f61144e2003":[7,0,2885,0],
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#ae0c02eb80cebce089d18f8465b2f8a39":[7,0,2885,2],
-"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#ae38bdeb74493f73bed1246c011bb2076":[7,0,2885,1]
+"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#ae38bdeb74493f73bed1246c011bb2076":[7,0,2885,1],
+"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#af29efe88b5f56c5d49f2e48c3be1d8e6":[7,0,2885,3]
 };

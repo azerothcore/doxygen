@@ -3,6 +3,7 @@ var classWardenWin =
     [ "WardenWin", "dd/d0d/classWardenWin.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
     [ "~WardenWin", "dd/d0d/classWardenWin.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
     [ "ForceChecks", "dd/d0d/classWardenWin.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetExpectedResult", "dd/d0d/classWardenWin.html#aa6177d1c4a3888a603cfdddb13aff05b", null ],
     [ "GetModuleForClient", "dd/d0d/classWardenWin.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
     [ "HandleData", "dd/d0d/classWardenWin.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
     [ "HandleHashResult", "dd/d0d/classWardenWin.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],

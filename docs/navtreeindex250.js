@@ -1,6 +1,5 @@
 var NAVTREEINDEX250 =
 {
-"d9/d5c/classspell__item__nitro__boots.html#a954ae38fd04985b9851a09b416ba59bc":[7,0,3473,4],
 "d9/d5c/classspell__item__nitro__boots.html#a9cc594c2b85156f1482398af6d0bca5b":[7,0,3473,3],
 "d9/d5c/classspell__item__nitro__boots.html#a9ecd5d24b96d1cde3ad07e76992f5e1f":[7,0,3473,1],
 "d9/d5c/classspell__item__nitro__boots.html#ad4605cd07b702a660556a8150b44c621":[7,0,3473,2],
@@ -28,8 +27,8 @@ var NAVTREEINDEX250 =
 "d9/d5e/structwdt__MAIN_1_1adtData.html":[7,0,4698,0],
 "d9/d5e/structwdt__MAIN_1_1adtData.html#a4b0310994e24cce89269fe3dacfca1d6":[7,0,4698,0,0],
 "d9/d5e/structwdt__MAIN_1_1adtData.html#abdd6e3252b117c57a1e363217babd717":[7,0,4698,0,1],
-"d9/d5f/structNamesProfanityEntry.html":[7,0,1610],
-"d9/d5f/structNamesProfanityEntry.html#abcd404cd99f0a41b266db09ddae4da68":[7,0,1610,0],
+"d9/d5f/structNamesProfanityEntry.html":[7,0,1611],
+"d9/d5f/structNamesProfanityEntry.html#abcd404cd99f0a41b266db09ddae4da68":[7,0,1611,0],
 "d9/d60/DBCDatabaseLoader_8h.html":[8,0,0,0,1,4,0,1],
 "d9/d60/boss__warbringer__omrogg_8cpp.html":[8,0,0,0,1,3,7,4,3,2],
 "d9/d60/boss__warbringer__omrogg_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,4,3,2,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX250 =
 "d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[7,0,2813,0],
 "d9/d64/classinstance__hyjal.html":[7,0,1351],
 "d9/d64/classinstance__hyjal.html#ade946c0fcaa4bad790bfcb4b6ffb6420":[7,0,1351,1],
-"d9/d64/classinstance__hyjal.html#ae6e39933d7cfd6563f6d37636f1c6f68":[7,0,1351,2]
+"d9/d64/classinstance__hyjal.html#ae6e39933d7cfd6563f6d37636f1c6f68":[7,0,1351,2],
+"d9/d64/classspell__icc__yh__volley__aura.html":[7,0,3314]
 };

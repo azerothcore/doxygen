@@ -1,13 +1,16 @@
 var NAVTREEINDEX230 =
 {
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
+"d8/d5f/classspell__item__goblin__gumbo__kettle.html#a8753419b2fa1b1bb96a08bf54995e82c":[7,0,3435,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,34,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[7,0,13,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[7,0,13,10,9,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[7,0,13,10,9,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[7,0,13,10,9,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[7,0,13,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
 "d8/d60/structSavedItem.html":[7,0,2575],
@@ -159,8 +162,8 @@ var NAVTREEINDEX230 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
 "d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,465],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,465,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,465,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d72/classBattlegroundQueue.html#a1c0726698cae6065abc2e180d0d755fb":[7,0,350,12],
 "d8/d72/classBattlegroundQueue.html#a23a8750e37c23018f5d15196371784fd":[7,0,350,27],
 "d8/d72/classBattlegroundQueue.html#a274563ebe8d5202d2553d8c647525b49":[7,0,350,20],
-"d8/d72/classBattlegroundQueue.html#a2a310c21a8144d33f6fa91b487d12252":[7,0,350,6],
-"d8/d72/classBattlegroundQueue.html#a481c0eef5bf98b911d045fded338a22d":[7,0,350,26],
-"d8/d72/classBattlegroundQueue.html#a49de2d2dc31c0e780bdae8eb9cec3c29":[7,0,350,13],
-"d8/d72/classBattlegroundQueue.html#a504448a85ed444c66a96169306c8a7a1":[7,0,350,17]
+"d8/d72/classBattlegroundQueue.html#a2a310c21a8144d33f6fa91b487d12252":[7,0,350,6]
 };

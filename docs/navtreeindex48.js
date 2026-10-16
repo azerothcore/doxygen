@@ -1,6 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[7,0,3509,0],
 "d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[7,0,3509,1],
 "d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[7,0,3509,2],
 "d1/dd5/spell__warlock_8cpp.html":[8,0,0,0,1,3,9,11],
@@ -235,19 +234,20 @@ var NAVTREEINDEX48 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[7,0,1499,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[7,0,1499,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[7,0,1499,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
 "d1/de0/classnpc__stable__master.html":[7,0,2192],
 "d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[7,0,2192,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[7,0,2192,1],
 "d1/de1/OutdoorPvPMgr_8cpp.html":[8,0,0,0,1,2,32,2],
 "d1/de1/structQuestMenuItem.html":[7,0,2523],
 "d1/de1/structQuestMenuItem.html#a522a4fcb28daec3e1a620b6f02c3d8fe":[7,0,2523,1],
-"d1/de1/structQuestMenuItem.html#ad8bbfe08780eaa68a8205e2634d211b8":[7,0,2523,0]
+"d1/de1/structQuestMenuItem.html#ad8bbfe08780eaa68a8205e2634d211b8":[7,0,2523,0],
+"d1/de2/TotemAI_8h.html":[8,0,0,0,1,2,3,0,13]
 };

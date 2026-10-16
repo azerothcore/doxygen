@@ -182,13 +182,6 @@ var NAVTREEINDEX10 =
 "d0/d7b/structCreatureTextOptions.html#a183ae9fd6863cbc9afe1f690c87f54e2":[7,0,972,1],
 "d0/d7b/structCreatureTextOptions.html#a3430fbb945b281cb5c2820130d4444a8":[7,0,972,2],
 "d0/d7b/structCreatureTextOptions.html#affc13f6cd029447df6cb1db56df42147":[7,0,972,0],
-"d0/d7b/trial__of__the__crusader_8cpp.html":[8,0,0,0,1,3,5,2,1,6],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5a":[8,0,0,0,1,3,5,2,1,6,1],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d":[8,0,0,0,1,3,5,2,1,6,1,2],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185":[8,0,0,0,1,3,5,2,1,6,1,0],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643":[8,0,0,0,1,3,5,2,1,6,1,3],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80":[8,0,0,0,1,3,5,2,1,6,1,1],
-"d0/d7b/trial__of__the__crusader_8cpp.html#aae8fa1928137dde06462a753ceebcca6":[8,0,0,0,1,3,5,2,1,6,2],
 "d0/d7c/MotionMaster_8cpp.html":[8,0,0,0,1,2,31,5],
 "d0/d7c/MotionMaster_8cpp.html#a05fec3371a9aee5a6448115a645a505d":[8,0,0,0,1,2,31,5,1],
 "d0/d7c/MotionMaster_8cpp.html#ab03e344726a074f17f8c63d10b67fcc1":[8,0,0,0,1,2,31,5,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a9e868b54de80516c769a4167222f1de8":[8,0,0,0,2,2,0,10,15,10],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aa21111bf368710bb371df701ac3d9605":[8,0,0,0,2,2,0,10,15,15],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aad9ded9be3413cb7f378667f4a722c69":[8,0,0,0,2,2,0,10,15,5],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#ab3427884061021fed7a1ca0fe3734f58":[8,0,0,0,2,2,0,10,15,17]
+"d0/d7e/SpellProcConditionsTest_8cpp.html#ab3427884061021fed7a1ca0fe3734f58":[8,0,0,0,2,2,0,10,15,17],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#ac8de39cce4e4e53370683b6cfc3107df":[8,0,0,0,2,2,0,10,15,19],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#ac9c4ddea21cb583ab41f9664e0a55a27":[8,0,0,0,2,2,0,10,15,14],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#adcbe378ad3281f0034e8910d9be22f03":[8,0,0,0,2,2,0,10,15,24],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#adfde388a2edbae2c884134ab41ec3d7f":[8,0,0,0,2,2,0,10,15,9],
+"d0/d7e/SpellProcConditionsTest_8cpp.html#aee8ad5db1865ea9bb580d42c177b066d":[8,0,0,0,2,2,0,10,15,21],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,0,35],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[7,0,0,23]
 };

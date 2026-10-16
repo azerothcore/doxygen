@@ -1,6 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a6f8a868e88102c672bdeec31650dcdc9":[8,0,0,0,1,2,8,1,9,13,59],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a70a099e778327b546c9d3d98674e6a6b":[8,0,0,0,1,2,8,1,9,13,25],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a71f91514d625da80b641460d79e27735":[8,0,0,0,1,2,8,1,9,13,43],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a74c86b4cd62f2e0455c23dc793c6957d":[8,0,0,0,1,2,8,1,9,13,29],
@@ -206,8 +205,8 @@ var NAVTREEINDEX23 =
 "d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b":[7,0,2480,54],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,34,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[7,0,13,2,6],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,34,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[7,0,13,2,6,2],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,34,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[7,0,13,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,34,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[7,0,13,2,6,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX23 =
 "d0/df9/structboss__thorim__gauntlet__npcs.html#aec35e2b91841c386f083681673e15598":[7,0,753,5],
 "d0/df9/structboss__thorim__gauntlet__npcs.html#af10a444bada5743c837a9979726c79c9":[7,0,753,1],
 "d0/dfa/DatabaseEnv_8h.html":[8,0,0,0,1,1,0,4],
-"d0/dfa/DatabaseEnv_8h.html#ae753c5c60b556b0cb7998e7424be5cbf":[8,0,0,0,1,1,0,4,1]
+"d0/dfa/DatabaseEnv_8h.html#ae753c5c60b556b0cb7998e7424be5cbf":[8,0,0,0,1,1,0,4,1],
+"d0/dfa/DatabaseEnv_8h.html#af42e9d262f732792d1e81568ae38ea2e":[8,0,0,0,1,1,0,4,2]
 };

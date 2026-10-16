@@ -1,6 +1,5 @@
 var NAVTREEINDEX262 =
 {
-"d9/df5/structboss__sartharion.html#a1e1a54ad847a81ce29554081583483e2":[7,0,699,11],
 "d9/df5/structboss__sartharion.html#a329135f26387b0292934111922bc33d1":[7,0,699,3],
 "d9/df5/structboss__sartharion.html#a37f17241f7773e63ba86f071d655da4d":[7,0,699,14],
 "d9/df5/structboss__sartharion.html#a38742a243890907b2cb6e39c0624abd0":[7,0,699,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX262 =
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aea1a5384904e05f25e9f0c76b17532f3":[8,0,0,0,1,3,5,9,2,16,4,45],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed4b9c58f88611899c168627ad8a49ca":[8,0,0,0,1,3,5,9,2,16,4,31],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed5ca0a465b7ad5d7ecedf2386848b83":[8,0,0,0,1,3,5,9,2,16,4,11],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2afa6573d9bc7f055799d868955fc68802":[8,0,0,0,1,3,5,9,2,16,4,52]
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2afa6573d9bc7f055799d868955fc68802":[8,0,0,0,1,3,5,9,2,16,4,52],
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904":[8,0,0,0,1,3,5,9,2,16,5]
 };

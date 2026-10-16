@@ -1,7 +1,6 @@
 var NAVTREEINDEX261 =
 {
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[7,0,13,11,3,2],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,34,11,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[5,0,34,11,3,0],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[7,0,13,11,3,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html":[7,0,1833,0],
@@ -49,8 +48,8 @@ var NAVTREEINDEX261 =
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[7,0,13,8,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,34,8,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[7,0,13,8,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[7,0,13,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,34,8,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[7,0,13,8,8,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX261 =
 "d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[7,0,3078,2],
 "d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[7,0,3078,1],
 "d9/df5/structboss__sartharion.html":[7,0,699],
-"d9/df5/structboss__sartharion.html#a0e38be21344f596147f20a8ed46673ec":[7,0,699,4]
+"d9/df5/structboss__sartharion.html#a0e38be21344f596147f20a8ed46673ec":[7,0,699,4],
+"d9/df5/structboss__sartharion.html#a1e1a54ad847a81ce29554081583483e2":[7,0,699,11]
 };

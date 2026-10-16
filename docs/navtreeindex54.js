@@ -1,6 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d1e/classInstanceScript.html#aa551f0a05c1251d331e33e83b3887bce":[7,0,1408,103],
 "d2/d1e/classInstanceScript.html#aa7c0fb02a9af3d19d2eb93d888998215":[7,0,1408,74],
 "d2/d1e/classInstanceScript.html#aa8136fc3ab6e5ddd6d3dfbdbe935f227":[7,0,1408,19],
 "d2/d1e/classInstanceScript.html#aaa6a64bd5a0030d080f0d5966694f2f3":[7,0,1408,69],
@@ -94,8 +93,8 @@ var NAVTREEINDEX54 =
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,34,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[7,0,13,6,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,34,6,5,4],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[7,0,13,6,5,1],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,34,6,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[7,0,13,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,34,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[7,0,13,6,5,0],
@@ -228,8 +227,8 @@ var NAVTREEINDEX54 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3856,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3856,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3856,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1366,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX54 =
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a4bc05d8ced3a1d2535659e2efabc5e5b":[7,0,1366,0,28],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a4f8b94f32947904514f70f233462bd44":[7,0,1366,0,18],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5480e686009146fc68764e4e9e849144":[7,0,1366,0,8],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5933eef3bb8e02e9b03754b39d908a57":[7,0,1366,0,9]
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5933eef3bb8e02e9b03754b39d908a57":[7,0,1366,0,9],
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a60fe12c5455d4f515d0a960c2648ff4e":[7,0,1366,0,23]
 };

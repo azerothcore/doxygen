@@ -1,8 +1,10 @@
 var NAVTREEINDEX170 =
 {
+"d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[7,0,2383,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,0,8,0,3],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[7,0,0,5,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[7,0,0,5,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,0,8,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[7,0,0,5,0,3,0],
 "d5/df7/classObjectGuidVector.html":[7,0,2363],
 "d5/df7/classObjectGuidVector.html#a07fe3304a0edffa1f17a0ce5f97d01e6":[7,0,2363,1],
 "d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26":[7,0,2363,5],
@@ -35,16 +37,16 @@ var NAVTREEINDEX170 =
 "d5/df9/classlfg_1_1LFGGroupScript.html":[5,0,17,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[7,0,5,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,17,3,5],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,17,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[7,0,5,3,4],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[7,0,5,3,2],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,17,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,17,3,2],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[7,0,5,3,1],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[7,0,5,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,17,3,1],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[7,0,5,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[7,0,5,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,17,3,3],
-"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[7,0,5,3,0],
 "d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[5,0,17,3,0],
+"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[7,0,5,3,0],
 "d5/df9/classspell__item__proc__below__pct__damaged.html":[7,0,3485],
 "d5/df9/classspell__item__proc__below__pct__damaged.html#a26a6b40751b0c0b68932b9a6438a4571":[7,0,3485,0],
 "d5/df9/classspell__item__proc__below__pct__damaged.html#a60130890b5e10e2f29c7eadb20c057b7":[7,0,3485,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d5/dfb/classObjectMgr.html#a6fac8c63928296d5e7a6eb699db1a61a":[7,0,2364,207],
 "d5/dfb/classObjectMgr.html#a7022f3e16c4bf1d8211747bd6f15c1db":[7,0,2364,49],
 "d5/dfb/classObjectMgr.html#a705268248e287f74b77915b9fed87e21":[7,0,2364,189],
-"d5/dfb/classObjectMgr.html#a713ee4d9c729b0425d8ef75ef36684f2":[7,0,2364,175],
-"d5/dfb/classObjectMgr.html#a724a6c6b1e1a4006dd51d7b38d7232b5":[7,0,2364,347],
-"d5/dfb/classObjectMgr.html#a73d91cf299d39a85191f6a2a38edc718":[7,0,2364,243]
+"d5/dfb/classObjectMgr.html#a713ee4d9c729b0425d8ef75ef36684f2":[7,0,2364,175]
 };

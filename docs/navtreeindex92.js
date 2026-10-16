@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d2/df6/DBCStores_8h.html#a7a46cdf97ec2682ecadac60a83be479d":[8,0,0,0,1,2,14,1,128],
 "d2/df6/DBCStores_8h.html#a7cf25117a95f68c6a4a580facea1590f":[8,0,0,0,1,2,14,1,118],
 "d2/df6/DBCStores_8h.html#a7d11ef3986ba2d890c236d491073b8e7":[8,0,0,0,1,2,14,1,143],
 "d2/df6/DBCStores_8h.html#a7fe8bbd11c3e4c484997cfe5c5f137c8":[8,0,0,0,1,2,14,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d01/classgo__palehoof__sphere.html#a9e31fe7531980a5f75af95e24cbc272d":[7,0,1205,0],
 "d3/d01/classgo__palehoof__sphere.html#ad939fd46f8bdf32d4e158f32f2bcd8da":[7,0,1205,1],
 "d3/d01/structGameObjectLocale.html":[7,0,1122],
-"d3/d01/structGameObjectLocale.html#a462917eda1e095c99054495abf70cd67":[7,0,1122,1],
-"d3/d01/structGameObjectLocale.html#ae78195bdc8edd6f4996c617e7a541e12":[7,0,1122,0]
+"d3/d01/structGameObjectLocale.html#a462917eda1e095c99054495abf70cd67":[7,0,1122,1]
 };

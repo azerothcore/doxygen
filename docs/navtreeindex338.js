@@ -1,5 +1,17 @@
 var NAVTREEINDEX338 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aa694962715ac1fcf1c54e021de98b498":[8,0,0,0,1,3,4,1,0,1,5,6],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aadfd1d6d5f5c897db2d650a6ca433bda":[8,0,0,0,1,3,4,1,0,1,5,9],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0abc001c7e5586384592023ca99ddb060c":[8,0,0,0,1,3,4,1,0,1,5,17],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0ae1cdb6c262df701d217a2605638a44d2":[8,0,0,0,1,3,4,1,0,1,5,4],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0ae50967ae5e8bc7be3863210450302525":[8,0,0,0,1,3,4,1,0,1,5,8],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aea2a45396a283e028411907956b50be3":[8,0,0,0,1,3,4,1,0,1,5,14],
+"dc/db3/boss__archimonde_8cpp.html#a730f9ef8300d0ee2ac28768a01f83dc6":[8,0,0,0,1,3,4,1,0,1,7],
+"dc/db3/boss__archimonde_8cpp.html#a730f9ef8300d0ee2ac28768a01f83dc6ad319a022d8e840e4c98b47a1b0916d91":[8,0,0,0,1,3,4,1,0,1,7,0],
+"dc/db3/boss__archimonde_8cpp.html#a9a7552d04c070f9a1eb37e2fba97a1f3":[8,0,0,0,1,3,4,1,0,1,14],
+"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,1,9],
+"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,1,0,1,9,5],
+"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2ac9a6ac26c8be32545f5070291b522c":[8,0,0,0,1,3,4,1,0,1,9,6],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,1,0,1,9,0],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a50967943bb0b040ea4bf741a8cb2f99d":[8,0,0,0,1,3,4,1,0,1,9,2],
 "dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,0,1,9,3],
@@ -237,17 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dc0/structBattlegroundAVScore.html#a50d3ba824a0b330e3a61a91b0e98bc5d":[7,0,334,11],
 "dc/dc0/structBattlegroundAVScore.html#a57f53d5fb681683749ff95767dd17c0e":[7,0,334,4],
 "dc/dc0/structBattlegroundAVScore.html#a667f8f842f3bdb6a7cc3ba3170716e41":[7,0,334,9],
-"dc/dc0/structBattlegroundAVScore.html#a75fc5bde3c563af6b756cd5c05907fed":[7,0,334,10],
-"dc/dc0/structBattlegroundAVScore.html#a9208f91470836f0db1257d8d8ec1aaf0":[7,0,334,0],
-"dc/dc0/structBattlegroundAVScore.html#a99fa0ee715145176d9e36ecc39ca2e12":[7,0,334,1],
-"dc/dc0/structBattlegroundAVScore.html#aa598cf124232e7f7a8335efe527e20e1":[7,0,334,12],
-"dc/dc0/structBattlegroundAVScore.html#abb499401bd69b6a6d0c8365f36a70ad7":[7,0,334,13],
-"dc/dc0/structBattlegroundAVScore.html#ac72f50e8959e759d0c285a61967680dd":[7,0,334,3],
-"dc/dc0/structBattlegroundAVScore.html#ae23235c25337a77d721fde505edaa775":[7,0,334,8],
-"dc/dc0/structBattlegroundAVScore.html#ae4cc7eb2b4bc79c0166e53567edfb205":[7,0,334,5],
-"dc/dc0/structBattlegroundAVScore.html#ae8d7e9ae9602be798937c1b562d9b305":[7,0,334,15],
-"dc/dc0/structBattlegroundAVScore.html#aeb6175c1a67e6f55b6719bb879bd8b62":[7,0,334,18],
-"dc/dc0/structnpc__azure__binder.html":[7,0,1676],
-"dc/dc0/structnpc__azure__binder.html#a0026fdd57e09f02b46010d696bb0a5da":[7,0,1676,3],
-"dc/dc0/structnpc__azure__binder.html#a0a11617ac11bf6aacacc3b36ce90fdca":[7,0,1676,1]
+"dc/dc0/structBattlegroundAVScore.html#a75fc5bde3c563af6b756cd5c05907fed":[7,0,334,10]
 };

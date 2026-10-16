@@ -1,5 +1,7 @@
 var NAVTREEINDEX171 =
 {
+"d5/dfb/classObjectMgr.html#a724a6c6b1e1a4006dd51d7b38d7232b5":[7,0,2364,347],
+"d5/dfb/classObjectMgr.html#a73d91cf299d39a85191f6a2a38edc718":[7,0,2364,243],
 "d5/dfb/classObjectMgr.html#a7457c3cf5acf892349762467249ed8a6":[7,0,2364,395],
 "d5/dfb/classObjectMgr.html#a75071cd6dfff4be0af8f1a4b6faef5bd":[7,0,2364,12],
 "d5/dfb/classObjectMgr.html#a7548d3d9e36a22bac9ab72c83ab9c3ae":[7,0,2364,370],
@@ -247,7 +249,5 @@ var NAVTREEINDEX171 =
 "d5/dfb/classspell__uk__second__wind.html#a93a45a442c2527468a5bfd4136bb53a0":[7,0,4299,0],
 "d5/dfb/classspell__uk__second__wind.html#ad4176f188412053b9205820fb6183d38":[7,0,4299,4],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[7,0,1774,0],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[7,0,1774,0,8],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1774,0,7],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a1035eb0a1696730d8304593b5fb079e4":[7,0,1774,0,6]
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[7,0,1774,0,8]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX329 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af8b79cbd6576b8a09893f2d95a702949":[5,0,28,6,139],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af99300241366fc68693eb96ef2ceb615":[5,0,28,6,471],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af9bff03c4f6d1b21a9102acf9d443a51":[5,0,28,6,638],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afae45e9937fd5db73e31a09a40458a2b":[5,0,28,6,613],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afaeaae0f299b1489848477c663ee878e":[5,0,28,6,185],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afafc77a8aacf6e93cbc5c48f52b9619d":[5,0,28,6,95],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afb9477feb95dced1eb8305c4283cd591":[5,0,28,6,66],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afbe48f4f4b70fcf3b4e417a73614709e":[5,0,28,6,387],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afc0d36754d7210b2b1568823e0e30e19":[5,0,28,6,566],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afdb0be57bbad50b6f7e2b95002e932fa":[5,0,28,6,396],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afdcf64eb7bea9770edd2a558f01d553f":[5,0,28,6,16],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afdd8936f8f710882b19ce9f9f1807b49":[5,0,28,6,277],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afe4ae443ac9012693386d26b7d26f88b":[5,0,28,6,640],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04afeaa5cb50396e0bbbfc02bd10cace2d0":[5,0,28,6,478],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04affa7410653d79cc0a8a02e36737a01fd":[5,0,28,6,273],
@@ -237,17 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d46/classspell__dru__moonkin__form__passive.html":[7,0,2928],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb":[7,0,2928,5],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a1bdab939c229c466ce6b71a7e00dedf9":[7,0,2928,3],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85":[7,0,2928,1],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a47bd5ef93255a2d926874d6d70861374":[7,0,2928,4],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff":[7,0,2928,0],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a79e3012cb5c78851809d9f4c4d6c4487":[7,0,2928,2],
-"dc/d48/classWardenCheckMgr.html":[7,0,4679],
-"dc/d48/classWardenCheckMgr.html#a08e083224760d2bca1996da9cd9cb014":[7,0,4679,0],
-"dc/d48/classWardenCheckMgr.html#a0a82e118a8f8236fecf1b00de0e2071c":[7,0,4679,9],
-"dc/d48/classWardenCheckMgr.html#a0d89190f580435337c328da4bf2497b8":[7,0,4679,3],
-"dc/d48/classWardenCheckMgr.html#a290e74857c1b1a50ced0a46b7477fa4c":[7,0,4679,5],
-"dc/d48/classWardenCheckMgr.html#a2de08c0613dd688f4bbbb4cc572f3d72":[7,0,4679,2],
-"dc/d48/classWardenCheckMgr.html#a4f0224b8377827aced304b28fdefbda7":[7,0,4679,11],
-"dc/d48/classWardenCheckMgr.html#a6ce6feb03f6e0250bc03fea4612098df":[7,0,4679,1],
-"dc/d48/classWardenCheckMgr.html#a79926d8228c3252fc0eabe295f6e78a8":[7,0,4679,4]
+"dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85":[7,0,2928,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX222 =
 {
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a57001bfcef756447892ad19109b29ce8":[8,0,0,0,1,2,16,10,6,5,11],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a6382420cab5f5cfb854bed6c5cb54804":[8,0,0,0,1,2,16,10,6,5,24],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a712ae9993604b84baac0e4e833d73cd0":[8,0,0,0,1,2,16,10,6,5,8],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7914b3a07153a9c06a9475030f9e12c2":[8,0,0,0,1,2,16,10,6,5,23],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7958764283985359d7e0560dae79920c":[8,0,0,0,1,2,16,10,6,5,12],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0":[8,0,0,0,1,2,16,10,6,5,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX222 =
 "d7/df8/classnpc__icc__skybreaker__luminary.html#ad1378aaa7438758f8a796d8e74ae0ce8":[7,0,1929,2],
 "d7/df8/classnpc__icc__skybreaker__luminary.html#aff97d0425cf86a8b411ef3e2bd0cc054":[7,0,1929,1],
 "d7/df9/classnpc__suns__reach__reclamation.html":[7,0,2205],
-"d7/df9/classnpc__suns__reach__reclamation.html#aa403d14fccda7adbec1ffeb765079c25":[7,0,2205,1],
-"d7/df9/classnpc__suns__reach__reclamation.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb":[7,0,2205,0],
-"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html":[7,0,2735],
-"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html#a9c92c88bf261f1da2143e7dee41a77ec":[7,0,2735,2]
+"d7/df9/classnpc__suns__reach__reclamation.html#aa403d14fccda7adbec1ffeb765079c25":[7,0,2205,1]
 };

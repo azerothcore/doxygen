@@ -212,7 +212,7 @@ var NAVTREEINDEX67 =
 "d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#aa59518627a5e64e371dbbb45cfced75f":[7,0,412,0,7],
 "d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#acf180bbe881ba1f6e49c075254759c00":[7,0,412,0,0],
 "d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#afbf2d4e9c3e8e50815c398b97afb3970":[7,0,412,0,4],
-"d2/d6b/structMySQLType_3_01double_01_4.html":[7,0,1599],
+"d2/d6b/structMySQLType_3_01double_01_4.html":[7,0,1600],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html":[7,0,1647,0],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a53458483699ac026ff2cd36b5f061571":[7,0,1647,0,1],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a96e1bd089dfd21fa252bc6422d20bada":[7,0,1647,0,0],

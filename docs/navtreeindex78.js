@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"d2/de0/classspell__dreamwalker__summoner.html#ae783cf255be823bf7c9125f288479e97":[7,0,2898,1],
 "d2/de0/classspell__dreamwalker__summoner.html#aed8b741160cbf50dde84cf059c8b52cb":[7,0,2898,0],
 "d2/de0/classspell__yogg__saron__lunatic__gaze.html":[7,0,4457],
 "d2/de0/classspell__yogg__saron__lunatic__gaze.html#a4d2c901a32f526673e968aa5b7ca9117":[7,0,4457,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a858b0769a36dc62c2b100c46ff415366":[7,0,4492,69],
 "d2/de9/classSpellInfo.html#a85dd72ccb680fdee9f04963b7946d6a1":[7,0,4492,39],
 "d2/de9/classSpellInfo.html#a86afe84a824c5262aa1ad0e0b2b4e1d1":[7,0,4492,101],
-"d2/de9/classSpellInfo.html#a86f59d4445fd778eb13ee102eb53d3a8":[7,0,4492,76],
-"d2/de9/classSpellInfo.html#a872cb18421b8e2ebde89d3f0a4a18b49":[7,0,4492,137]
+"d2/de9/classSpellInfo.html#a86f59d4445fd778eb13ee102eb53d3a8":[7,0,4492,76]
 };
