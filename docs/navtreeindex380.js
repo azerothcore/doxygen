@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09ffe4e99e7854f73a28ed106ebb90e2":[8,0,0,0,1,4,7,103,137],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b7fa0c2fd1c5c2d41d88fb4d0e03fde":[8,0,0,0,1,4,7,103,23],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b9c0aef226b96385215268516b77211":[8,0,0,0,1,4,7,103,143],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0c531f48ca1947cfbe8af1377a01e148":[8,0,0,0,1,4,7,103,17],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0edd3cdf99e0ce3885ffafd99355736d":[8,0,0,0,1,4,7,103,106],
@@ -229,9 +231,9 @@ var NAVTREEINDEX380 =
 "de/d0a/unionkeyData.html#a0518eb4b0a91697500a5a370068425a8":[7,0,1442,3],
 "de/d0a/unionkeyData.html#a08efba5e78b64fef020453f689bcc5f0":[7,0,1442,4],
 "de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319":[7,0,1442,0],
-"de/d0a/unionkeyData.html#a6b901fe41612a05e97dff474fbeff7f6":[7,0,1442,5],
-"de/d0a/unionkeyData.html#a811f59fc775a37c7c9eaaae2f175c864":[7,0,1442,2],
+"de/d0a/unionkeyData.html#a7f2b4adbebe5f0a9d468802053850bf1":[7,0,1442,2],
 "de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[7,0,1442,1],
+"de/d0a/unionkeyData.html#ae476bfccdb2138ca851533d4ed8cf865":[7,0,1442,5],
 "de/d0c/classGameObjectSummonGroupTest.html":[7,0,1129],
 "de/d0c/classGameObjectSummonGroupTest.html#a0cb70a624f55509497866a1fac787800":[7,0,1129,1],
 "de/d0c/classGameObjectSummonGroupTest.html#ac7db18817aa330aedefd1f688d53219b":[7,0,1129,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "de/d0e/classspell__item__soul__preserver.html#a4020daf9d601eb53fe84f9cdbcf96626":[7,0,3511,3],
 "de/d0e/classspell__item__soul__preserver.html#aa5e12d556fef142f96c8f03dda4a4c80":[7,0,3511,1],
 "de/d0e/classspell__item__soul__preserver.html#ac8790ac907c6aa798575e2460c272f17":[7,0,3511,2],
-"de/d0e/structnpc__vekniss__stinger.html":[7,0,2308],
-"de/d0e/structnpc__vekniss__stinger.html#a1ff479e8f45710f6aa36473933bb87e0":[7,0,2308,3],
-"de/d0e/structnpc__vekniss__stinger.html#a2a79f3775aad83410ff2670aa438e811":[7,0,2308,2]
+"de/d0e/structnpc__vekniss__stinger.html":[7,0,2308]
 };

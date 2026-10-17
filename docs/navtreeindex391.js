@@ -1,5 +1,7 @@
 var NAVTREEINDEX391 =
 {
+"de/d6e/structBG__AV__NodeInfo.html":[7,0,367],
+"de/d6e/structBG__AV__NodeInfo.html#a222db96ad937e31986c0c39a5a371dd7":[7,0,367,6],
 "de/d6e/structBG__AV__NodeInfo.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03":[7,0,367,3],
 "de/d6e/structBG__AV__NodeInfo.html#a8357cc41fe125545d473c1f14c3ffa05":[7,0,367,1],
 "de/d6e/structBG__AV__NodeInfo.html#a945afa538fc0dd1a4be11f5b5ac74bcb":[7,0,367,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX391 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a59deead7d5984d096c60627856809819":[7,0,1395,0,16],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a5bc8f86b3853a5d428722b704f338e0c":[7,0,1395,0,25],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a6422675c890a9e2ae449e1a670adbb2a":[7,0,1395,0,4],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a66c6245c66ce768a6a7c62a5b9c095ce":[7,0,1395,0,17],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a76708007ad4b1f5db5b57e793b41d378":[7,0,1395,0,20],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a9a544ff060a900aa00549cd4b6e55b7a":[7,0,1395,0,14]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a66c6245c66ce768a6a7c62a5b9c095ce":[7,0,1395,0,17]
 };

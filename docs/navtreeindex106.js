@@ -235,12 +235,12 @@ var NAVTREEINDEX106 =
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#ae9d2f6b53898db04da58efe0deeceea5":[7,0,1704,0,4],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#af1aafdc45abcdfbdbea7f5b67f3bc620":[7,0,1704,0,1],
 "d3/d88/SpellHandler_8cpp.html":[8,0,0,0,1,2,22,30],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[7,0,13,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[7,0,13,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,34,1,1,0],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[7,0,13,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,34,1,1,2],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[7,0,13,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[7,0,13,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
@@ -249,5 +249,5 @@ var NAVTREEINDEX106 =
 "d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[7,0,4604,2],
 "d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[7,0,4604,1],
 "d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be":[7,0,4604,0],
-"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html":[7,0,13,11,5]
+"d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html":[5,0,34,11,5]
 };

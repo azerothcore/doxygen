@@ -1,5 +1,7 @@
 var NAVTREEINDEX401 =
 {
+"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aecd620118a6d4fca771c9a2e088dffa8":[8,0,0,0,1,3,5,4,0,0,6,4],
+"de/dc0/classspell__black__temple__skeleton__shot__aura.html":[7,0,2720],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a0515a72abd37df13606876021659b995":[7,0,2720,1],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a99f96034b5976615c38e13e5e55c61b6":[7,0,2720,0],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#ad7c8338ae3f3e6680405652c3e5f7f06":[7,0,2720,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX401 =
 "de/dd4/classspell__saronite__vapors__damage.html":[7,0,4086],
 "de/dd4/classspell__saronite__vapors__damage.html#a55c604f072fd0bbdcb886635fb53eaa8":[7,0,4086,1],
 "de/dd4/classspell__saronite__vapors__damage.html#a75953cbb3a288fd373e602ed07d84441":[7,0,4086,0],
-"de/dd4/classspell__saronite__vapors__damage.html#aea2b951dd2353800958f654df58d8fd8":[7,0,4086,3],
-"de/dd4/classspell__saronite__vapors__damage.html#af963f0dcdf2a1bc040a597c06983f0a7":[7,0,4086,2],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html":[7,0,2007,0]
+"de/dd4/classspell__saronite__vapors__damage.html#aea2b951dd2353800958f654df58d8fd8":[7,0,4086,3]
 };

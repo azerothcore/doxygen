@@ -1,5 +1,7 @@
 var NAVTREEINDEX285 =
 {
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef":[8,0,0,0,1,2,16,7,5,95,3],
+"da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939":[8,0,0,0,1,2,16,7,5,119],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba":[8,0,0,0,1,2,16,7,5,119,0],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a9ad97828a3dd598a45dcbbcd3969879b":[8,0,0,0,1,2,16,7,5,119,2],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939ab467688094fd105e608cb31d0f90ffd2":[8,0,0,0,1,2,16,7,5,119,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX285 =
 "da/dcd/structnpc__freya__ward__summon.html":[7,0,1846],
 "da/dcd/structnpc__freya__ward__summon.html#a175d2ca7a28ab998860fdce324c48c7e":[7,0,1846,5],
 "da/dcd/structnpc__freya__ward__summon.html#a52ca4242be249900f94d918dbc4df6c3":[7,0,1846,3],
-"da/dcd/structnpc__freya__ward__summon.html#a6b91ab899f11e3d6f9907b73476fa61f":[7,0,1846,1],
-"da/dcd/structnpc__freya__ward__summon.html#ab6c7cab698470dafd14a0ed2ddd94eca":[7,0,1846,2],
-"da/dcd/structnpc__freya__ward__summon.html#ad88b954bbbb68988915ec165ccb0a3dd":[7,0,1846,0]
+"da/dcd/structnpc__freya__ward__summon.html#a6b91ab899f11e3d6f9907b73476fa61f":[7,0,1846,1]
 };

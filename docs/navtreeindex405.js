@@ -1,5 +1,7 @@
 var NAVTREEINDEX405 =
 {
+"de/dff/classspell__the__lich__king__lights__favor__aura.html#aecd8670e3a079c8460cddd5ce0b4f79b":[7,0,4258,3],
+"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,0,130],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html":[7,0,0,118],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[5,0,0,130,6],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[7,0,0,118,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX405 =
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea12dd38492f69df5bb39c8d49d505f60f":[8,0,0,0,1,3,2,1,1,0,7,14],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea1bc6f98a25e8469c1eb73e8dfebe0124":[8,0,0,0,1,3,2,1,1,0,7,4],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea1cac113c478b3f9a8c5047e19dd93681":[8,0,0,0,1,3,2,1,1,0,7,9],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea2dd61fad0cece41f3fe62edb95b9c42b":[8,0,0,0,1,3,2,1,1,0,7,18],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea336143c515d3015f8438a011d0e70de8":[8,0,0,0,1,3,2,1,1,0,7,22],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4853605fa0ecae40d7276581389a094f":[8,0,0,0,1,3,2,1,1,0,7,27]
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea2dd61fad0cece41f3fe62edb95b9c42b":[8,0,0,0,1,3,2,1,1,0,7,18]
 };

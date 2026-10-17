@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"db/dfa/CharacterDatabaseCleaner_8h.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[8,0,0,0,1,2,46,1,5],
+"db/dfa/CharacterDatabaseCleaner_8h.html#afe5cf638b3ba626c9dc18258d4c528fa":[8,0,0,0,1,2,46,1,1],
 "db/dfa/classnpc__barnes.html":[7,0,1688],
 "db/dfa/classnpc__barnes.html#a47cafa3628d2ca99582140f2a72ff8db":[7,0,1688,3],
 "db/dfa/classnpc__barnes.html#a4e349ede566d9be90b82e7ebd9d71de3":[7,0,1688,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "db/dfe/GroupReference_8h.html":[8,0,0,0,1,2,20,5],
 "db/dfe/boss__ayamiss_8cpp.html":[8,0,0,0,1,3,4,8,0],
 "db/dfe/boss__ayamiss_8cpp.html#a003141c19060ffd9059b2d498b8a5138":[8,0,0,0,1,3,4,8,0,14],
-"db/dfe/boss__ayamiss_8cpp.html#a14d205149c8d0d9429e98695e31d105d":[8,0,0,0,1,3,4,8,0,13],
-"db/dfe/boss__ayamiss_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,4,8,0,8],
-"db/dfe/boss__ayamiss_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[8,0,0,0,1,3,4,8,0,8,0]
+"db/dfe/boss__ayamiss_8cpp.html#a14d205149c8d0d9429e98695e31d105d":[8,0,0,0,1,3,4,8,0,13]
 };

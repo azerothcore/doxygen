@@ -1,5 +1,7 @@
 var NAVTREEINDEX333 =
 {
+"dc/d6a/namespaceAcore_1_1SpellScripts.html#a2b573b538dcbf3da43ae603709d93bf2":[5,0,0,12,1],
+"dc/d6a/structCellObjectGuids.html":[7,0,867],
 "dc/d6a/structCellObjectGuids.html#a14fee7108cb388abd1ec2057cc7ed2a1":[7,0,867,1],
 "dc/d6a/structCellObjectGuids.html#a9ae0351e4964d22bcf7c454c8b1027fe":[7,0,867,0],
 "dc/d6b/MapTree_8h.html":[8,0,0,0,0,1,1,2],
@@ -16,10 +18,10 @@ var NAVTREEINDEX333 =
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#a0767ac60151517b803e871a0fcb25967":[7,0,2893,1],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#ac0b2cf06027c2f658745d6a90dfc76a1":[7,0,2893,0],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#afd1e28b224035aef5ac109f38d7e118d":[7,0,2893,2],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,34,19],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[7,0,13,19],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,34,19,3],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,34,19],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[7,0,13,19,3],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,34,19,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,34,19,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[7,0,13,19,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,34,19,0],
@@ -59,10 +61,10 @@ var NAVTREEINDEX333 =
 "dc/d6f/action__ip__logger_8cpp.html#a530be5efb251d5ca58e97804e48ad953":[8,0,0,0,1,3,10,1,4],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[5,0,0,30],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[7,0,0,18],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,0,30,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[7,0,0,18,1],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,0,30,0],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,0,30,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[7,0,0,18,0],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,0,30,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[7,0,0,18,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,0,30,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[7,0,0,18,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX333 =
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a58f74c734da141e1ed6de4ac3ec783d5":[8,0,0,0,2,2,0,5,0,14],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a5eadc52acfa70d13a4df7293ab02a1d6":[8,0,0,0,2,2,0,5,0,35],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a5ec0d2a202899ba24077e863e86c3a92":[8,0,0,0,2,2,0,5,0,26],
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a5f6cead798a7f7186f2c82d3e55e3dba":[8,0,0,0,2,2,0,5,0,9],
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6013310af1ae7ad291f350ab220f8b9a":[8,0,0,0,2,2,0,5,0,16],
-"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6296cbceab321f201c4617a39acd750d":[8,0,0,0,2,2,0,5,0,38]
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a5f6cead798a7f7186f2c82d3e55e3dba":[8,0,0,0,2,2,0,5,0,9]
 };

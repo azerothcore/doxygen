@@ -1,5 +1,7 @@
 var NAVTREEINDEX292 =
 {
+"db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233":[8,0,0,0,1,2,31,6,5,5],
+"db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062":[8,0,0,0,1,2,31,6,5,4],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51":[8,0,0,0,1,2,31,6,5,3],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d":[8,0,0,0,1,2,31,6,5,1],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc":[8,0,0,0,1,2,31,6,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX292 =
 "db/d1b/classspell__razorscale__flame__breath.html#adbb57403c65e84ab217788ee3a9261b7":[7,0,4027,0],
 "db/d1b/classspell__shadowblink.html":[7,0,4163],
 "db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[7,0,4163,0],
-"db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[7,0,4163,2],
-"db/d1b/classspell__shadowblink.html#a8ce6773c7d0fd501fa7b26f04fd22796":[7,0,4163,3],
-"db/d1b/classspell__shadowblink.html#ad07165f81a7f407c716f90691ecb9817":[7,0,4163,1]
+"db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[7,0,4163,2]
 };

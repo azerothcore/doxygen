@@ -1,5 +1,7 @@
 var NAVTREEINDEX400 =
 {
+"de/db1/classRaceMgr.html#a5cf45d0a57727daee3432fca51479c32":[7,0,2532,4],
+"de/db1/classRaceMgr.html#a694fca25b429d99dad214ea277ade0c7":[7,0,2532,9],
 "de/db1/classRaceMgr.html#a6e8a0ba72a13d62321246cb4c11a6f4d":[7,0,2532,2],
 "de/db1/classRaceMgr.html#a78e384652a5e52776f13085d14e6037a":[7,0,2532,0],
 "de/db1/classRaceMgr.html#a93d2f89ab56fa6d4c20547b411b0a812":[7,0,2532,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX400 =
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d272c72d6327d9b395bce68d32114c0":[8,0,0,0,1,3,5,4,0,0,6,3],
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a42a62d1683f7c1e5f1e356bcdd80f6d2":[8,0,0,0,1,3,5,4,0,0,6,2],
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a49b64ec43e205ab38891e35d2785209e":[8,0,0,0,1,3,5,4,0,0,6,1],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[8,0,0,0,1,3,5,4,0,0,6,0],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aecd620118a6d4fca771c9a2e088dffa8":[8,0,0,0,1,3,5,4,0,0,6,4],
-"de/dc0/classspell__black__temple__skeleton__shot__aura.html":[7,0,2720]
+"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[8,0,0,0,1,3,5,4,0,0,6,0]
 };

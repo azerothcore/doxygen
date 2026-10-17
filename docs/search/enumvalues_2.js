@@ -2085,7 +2085,7 @@ var searchData=
   ['context_5fgroup_5frifts_2082',['CONTEXT_GROUP_RIFTS',['../d5/d48/the__black__morass_8h.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8dc72aef6d7df6916c2c9ceeac75d388',1,'the_black_morass.h']]],
   ['context_5fgroup_5ftransition_2083',['CONTEXT_GROUP_TRANSITION',['../d4/d3c/brann__bronzebeard_8cpp.html#a4d506003ef46dcfcd2997e90578fcbd5a35bb131a8193b5c62336a1bc5e9a3097',1,'brann_bronzebeard.cpp']]],
   ['context_5fgroup_5fwaves_2084',['CONTEXT_GROUP_WAVES',['../d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498eac4cdd51691e061e219e9befc6c3d4057',1,'hyjal.h']]],
-  ['cooldowns_2085',['COOLDOWNS',['../d2/db8/classPetLoadQueryHolder.html#a933ae845b4baf3bc1ba335403b18522eaefb2927a23c2943a069cf019a812e8c3',1,'PetLoadQueryHolder']]],
+  ['cooldowns_2085',['COOLDOWNS',['../d2/db8/classPetLoadQueryHolder.html#a6a8cde00d88ab9c6f4517afe7788e1beaefb2927a23c2943a069cf019a812e8c3',1,'PetLoadQueryHolder']]],
   ['copper_2086',['COPPER',['../de/d0a/SharedDefines_8h.html#aa61850c8cc16fdf9ea749bfde3adb448aa7006aecd3fddb9a7bd047f277ed7381',1,'SharedDefines.h']]],
   ['corporeality_5fdecrease_2087',['CORPOREALITY_DECREASE',['../dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa4ff3d7d7271f8cb2caba11688d679b6a',1,'boss_halion.cpp']]],
   ['corporeality_5fincrease_2088',['CORPOREALITY_INCREASE',['../dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfac7a7e5ecf3f499fdefd66d6f7ab4a3da',1,'boss_halion.cpp']]],

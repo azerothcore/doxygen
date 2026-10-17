@@ -1,5 +1,7 @@
 var NAVTREEINDEX417 =
 {
+"df/d7f/structboss__novos.html#a7567db25d51851888a35c70a4d7c833c":[7,0,657,7],
+"df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[7,0,657,5],
 "df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[7,0,657,8],
 "df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[7,0,657,9],
 "df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[7,0,657,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX417 =
 "df/d88/classspell__hallows__end__trick.html#aa60824ed67ae87e96117fc5bf90bec8c":[7,0,3231,0],
 "df/d88/classspell__hallows__end__trick.html#aab4303fff660c68db100e07a4423c39b":[7,0,3231,1],
 "df/d89/SkillDiscovery_8cpp.html":[8,0,0,0,1,2,40,0],
-"df/d89/SkillDiscovery_8cpp.html#a0c80a6b86b3b7bd5e9c238efa802919b":[8,0,0,0,1,2,40,0,1],
-"df/d89/SkillDiscovery_8cpp.html#a1d624484e07efeeabc8a73a10c75ca4d":[8,0,0,0,1,2,40,0,7],
-"df/d89/SkillDiscovery_8cpp.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[8,0,0,0,1,2,40,0,3]
+"df/d89/SkillDiscovery_8cpp.html#a0c80a6b86b3b7bd5e9c238efa802919b":[8,0,0,0,1,2,40,0,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834],
+"df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2],
 "df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
 "df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4],
 "df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1834,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/d72/classAccountMgr.html":[7,0,30],
 "df/d72/classAccountMgr.html#a05785c0cba8eb448ae4efeffaf5f862e":[7,0,30,11],
 "df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27],
-"df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12],
-"df/d72/classAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,30,8],
-"df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d":[7,0,30,30]
+"df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12]
 };

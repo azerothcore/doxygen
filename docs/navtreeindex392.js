@@ -1,5 +1,7 @@
 var NAVTREEINDEX392 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a76708007ad4b1f5db5b57e793b41d378":[7,0,1395,0,20],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a9a544ff060a900aa00549cd4b6e55b7a":[7,0,1395,0,14],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a9f79f511b2d768e8c44660af37ded749":[7,0,1395,0,15],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa0f574ead1b5da7f8d485a596684d95e":[7,0,1395,0,13],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aa1c6dc80069ac1c31ce24f1d99485f45":[7,0,1395,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX392 =
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6":[7,0,2121,0,4],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#abebe71c6cfb705ce4409dd7fae3842e3":[7,0,2121,0,0],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac7c41ebfa7979907aea246af20bcf368":[7,0,2121,0,5],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2121,0,10],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[7,0,2121,0,6],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[7,0,2121,0,7]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac84b9efb3ee2eaa2160afe5d0217a884":[7,0,2121,0,10]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX404 =
 {
+"de/df1/structboss__ionar.html#ae6b1225147bc146066185d4d21c19f14":[7,0,567,3],
+"de/df1/structboss__ionar.html#af74dda7ad9cd156036689694b3bb9986":[7,0,567,5],
 "de/df1/zone__duskwood_8cpp.html":[8,0,0,0,1,3,2,19],
 "de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,2,19,2],
 "de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c167711f76366adc8cf61625480f6da":[8,0,0,0,1,3,2,19,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX404 =
 "de/dff/classspell__the__lich__king__lights__favor__aura.html":[7,0,4258],
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#a19697bd65a325870becc1c30d7deff36":[7,0,4258,1],
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#a77c272d4a26323c421e4b264f79d5b66":[7,0,4258,2],
-"de/dff/classspell__the__lich__king__lights__favor__aura.html#ae149a739150cb7eb9fb67f19130c0510":[7,0,4258,0],
-"de/dff/classspell__the__lich__king__lights__favor__aura.html#aecd8670e3a079c8460cddd5ce0b4f79b":[7,0,4258,3],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,0,130]
+"de/dff/classspell__the__lich__king__lights__favor__aura.html#ae149a739150cb7eb9fb67f19130c0510":[7,0,4258,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX423 =
 {
+"df/dbb/structboss__flame__leviathan.html#a89855ce8707cde1853d4fc4b0edab092":[7,0,486,28],
+"df/dbb/structboss__flame__leviathan.html#a918059906db32d003e9fe9b45544713c":[7,0,486,4],
 "df/dbb/structboss__flame__leviathan.html#aa1c2f7cf26d6d5c22333519430b4807a":[7,0,486,3],
 "df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,19],
 "df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX423 =
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#a955625e2315008a2e36936d44f825060":[7,0,1244,0,0],
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#af688bab2dc3d938951adb303e8b8d88b":[7,0,1244,0,1],
 "df/dcb/classspell__sha__item__mana__surge.html":[7,0,4131],
-"df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[7,0,4131,4],
-"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[7,0,4131,0],
-"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[7,0,4131,3]
+"df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[7,0,4131,4]
 };

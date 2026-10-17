@@ -1,5 +1,7 @@
 var NAVTREEINDEX406 =
 {
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea336143c515d3015f8438a011d0e70de8":[8,0,0,0,1,3,2,1,1,0,7,22],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4853605fa0ecae40d7276581389a094f":[8,0,0,0,1,3,2,1,1,0,7,27],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4b10c456b91a7ada46b3805c8d1064cf":[8,0,0,0,1,3,2,1,1,0,7,1],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4d79b64b5ecee2ba9656b9d529bf3e67":[8,0,0,0,1,3,2,1,1,0,7,19],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea503877c1a58c45c0cf831956301e25d4":[8,0,0,0,1,3,2,1,1,0,7,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX406 =
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,34,6,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[7,0,13,6,17,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,34,6,17,1],
-"df/d17/classGameObjectModelOwnerBase.html":[7,0,1125],
-"df/d17/classGameObjectModelOwnerBase.html#a20a14793cdbb1ed63219cd6211feadc3":[7,0,1125,8],
-"df/d17/classGameObjectModelOwnerBase.html#a307c744710782fcb0d5c287b23c74d69":[7,0,1125,0]
+"df/d17/classGameObjectModelOwnerBase.html":[7,0,1125]
 };

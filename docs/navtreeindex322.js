@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dc/d0f/structboss__teron__gorefiend.html#a139c351471a3f19c7e59cf8e40913820":[7,0,740,6],
+"dc/d0f/structboss__teron__gorefiend.html#a70dbf2b2a08cf915866afd51f8a74018":[7,0,740,4],
 "dc/d0f/structboss__teron__gorefiend.html#a71db567c5be7396add349e2f1b455a50":[7,0,740,3],
 "dc/d0f/structboss__teron__gorefiend.html#a81845f22aa383cdc57912ee9655b7bf9":[7,0,740,0],
 "dc/d0f/structboss__teron__gorefiend.html#a99c62157084373e8eddd4497360cc047":[7,0,740,8],
@@ -225,12 +227,12 @@ var NAVTREEINDEX322 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3965,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[8,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[8,0,0,0,1,3,2,1,0,4,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[7,0,2611,2],
 "dc/d20/structSHostageInfo.html#ac14168f8c25efe7fa22ec802259b3a11":[7,0,2611,0],
 "dc/d21/structResultIterator.html":[7,0,2564],
-"dc/d21/structResultIterator.html#a0a7d6ac1eee62492330353b15edb4fd0":[7,0,2564,5],
-"dc/d21/structResultIterator.html#a0b6cee284fea4a4023cc688614432b69":[7,0,2564,9],
-"dc/d21/structResultIterator.html#a0be3611fcc2a6eb680a6f4aaba57068e":[7,0,2564,10]
+"dc/d21/structResultIterator.html#a0a7d6ac1eee62492330353b15edb4fd0":[7,0,2564,5]
 };

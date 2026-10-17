@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b":[8,0,0,0,1,3,2,11,6,7,7],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d":[8,0,0,0,1,3,2,11,6,7,4],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[8,0,0,0,1,3,2,11,6,11],
 "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bc":[8,0,0,0,1,3,2,11,6,9],
 "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd":[8,0,0,0,1,3,2,11,6,9,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dc/df2/classspellinfo__commandscript.html#a5e6cbdb2d1487735dbb5920a1c9506ef":[7,0,4493,14],
 "dc/df2/classspellinfo__commandscript.html#a5f46de9c615591c37d9dec1b0e8526f9":[7,0,4493,5],
 "dc/df2/classspellinfo__commandscript.html#a6b741727a02b26c0b15ce23e72a0a37d":[7,0,4493,13],
-"dc/df2/classspellinfo__commandscript.html#a71fa4c95c21c3f89395756e5e7be5386":[7,0,4493,1],
-"dc/df2/classspellinfo__commandscript.html#a722cffaeb5c589b4531f8359abb8d8cc":[7,0,4493,11],
-"dc/df2/classspellinfo__commandscript.html#a8cfeddef3a5baba97b39e3cd22413222":[7,0,4493,17]
+"dc/df2/classspellinfo__commandscript.html#a71fa4c95c21c3f89395756e5e7be5386":[7,0,4493,1]
 };

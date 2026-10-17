@@ -1,5 +1,7 @@
 var NAVTREEINDEX424 =
 {
+"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[7,0,4131,0],
+"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[7,0,4131,3],
 "df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[7,0,4131,2],
 "df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[7,0,4131,1],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[7,0,1665,0],
@@ -202,13 +204,13 @@ var NAVTREEINDEX424 =
 "df/dd8/classDBCStorage.html#a2193a31f1a96f04c113191e0e200af57":[7,0,995,4],
 "df/dd8/classDBCStorage.html#a26fd44b61cf6352b99122abb23768a97":[7,0,995,10],
 "df/dd8/classDBCStorage.html#a2e738aadf73e51ee4787a45d8b4908d3":[7,0,995,13],
+"df/dd8/classDBCStorage.html#a321b8fc5b3189f0cb08bba2207592eb5":[7,0,995,14],
 "df/dd8/classDBCStorage.html#a3900db604c7fa373d55c161006f8752a":[7,0,995,9],
 "df/dd8/classDBCStorage.html#a43338cbd450480a91ed25228611dfe89":[7,0,995,5],
 "df/dd8/classDBCStorage.html#a52478c32db2c7d0bfddfc5c3f614b2c2":[7,0,995,2],
 "df/dd8/classDBCStorage.html#a6cb9477a0d94271c073f5850ad23ae07":[7,0,995,11],
 "df/dd8/classDBCStorage.html#a7ef1de4ced6822e264b73cbe72dcfc7c":[7,0,995,15],
 "df/dd8/classDBCStorage.html#aad72c211d47bfeb5b82636c131507083":[7,0,995,8],
-"df/dd8/classDBCStorage.html#ab296f662f085ba238b93ed86fe497714":[7,0,995,14],
 "df/dd8/classDBCStorage.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1":[7,0,995,7],
 "df/dd8/classDBCStorage.html#acbe3d8adad76c063eeff0472b14e9c2d":[7,0,995,0],
 "df/dd8/classDBCStorage.html#ace37b566e9013928a845c981437158ae":[7,0,995,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX424 =
 "df/dd9/classUnit.html#a04eac3be7ccc3a12db515b6d2ea20f07":[7,0,4640,638],
 "df/dd9/classUnit.html#a058c680a210cfa568f03a78d827ce734":[7,0,4640,623],
 "df/dd9/classUnit.html#a05a7dcd96c1301724694c6934563b92e":[7,0,4640,771],
-"df/dd9/classUnit.html#a05e3e75fa26b33d0af910830f2b0e818":[7,0,4640,615],
-"df/dd9/classUnit.html#a05e8016f2af572e9019e2fc10f7e77d1":[7,0,4640,790],
-"df/dd9/classUnit.html#a063342b925eb0e652cd08bb349dd26fc":[7,0,4640,35]
+"df/dd9/classUnit.html#a05e3e75fa26b33d0af910830f2b0e818":[7,0,4640,615]
 };

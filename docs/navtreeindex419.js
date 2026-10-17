@@ -1,5 +1,7 @@
 var NAVTREEINDEX419 =
 {
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a5cc920075198e9dfdbfae94d32099392":[7,0,674,0,3],
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a643617bf24bdc575e439bcf22a8dd050":[7,0,674,0,17],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a68abd0f9cfe5dd0813d5e7e9b29e4914":[7,0,674,0,15],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a6caada5f7cd8afac81256f1ca6a57af7":[7,0,674,0,18],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c":[7,0,674,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX419 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4af04f0a924c14831e0ab9a393e5ec6661":[8,0,0,0,1,3,2,26,10,14],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4af0dd367dc08a2ab46eac34623d431254":[8,0,0,0,1,3,2,26,10,5],
 "df/d9e/classspell__ice__bombardment__dest__picker.html":[7,0,3315],
-"df/d9e/classspell__ice__bombardment__dest__picker.html#a14772c25b70078c0034b8de17de5b77a":[7,0,3315,2],
-"df/d9e/classspell__ice__bombardment__dest__picker.html#a8318385367bf6c6b09e0978c461f5d59":[7,0,3315,3],
-"df/d9e/classspell__ice__bombardment__dest__picker.html#ab3f6d24643b75482d5f96779a5bdda11":[7,0,3315,1]
+"df/d9e/classspell__ice__bombardment__dest__picker.html#a14772c25b70078c0034b8de17de5b77a":[7,0,3315,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9":[7,0,2121,0,6],
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5":[7,0,2121,0,7],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0":[7,0,2121,0,3],
 "de/d7e/classWorldModelStore.html":[7,0,4735],
 "de/d7e/classWorldModelStore.html#a406474470aaa0da5b752817cc5ea81ae":[7,0,4735,3],
@@ -116,7 +118,7 @@ var NAVTREEINDEX393 =
 "de/d83/structSecretMgr_1_1Secret.html":[7,0,2589,0],
 "de/d83/structSecretMgr_1_1Secret.html#a16b48eb9b384f6ab8c6996b38f559825":[7,0,2589,0,7],
 "de/d83/structSecretMgr_1_1Secret.html#a24733bf06b4a91abcf4945aa5303a275":[7,0,2589,0,2],
-"de/d83/structSecretMgr_1_1Secret.html#a8738c28fd3c71a08c8ef3fb02b4c455b":[7,0,2589,0,6],
+"de/d83/structSecretMgr_1_1Secret.html#a55226a2f8ec51e8470db5a3f98588ea0":[7,0,2589,0,6],
 "de/d83/structSecretMgr_1_1Secret.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74":[7,0,2589,0,1],
 "de/d83/structSecretMgr_1_1Secret.html#ad0ddd6fe7451f2b968db3a7d7a93b342":[7,0,2589,0,3],
 "de/d83/structSecretMgr_1_1Secret.html#adfebd7a162ebae8396669de031c768a6":[7,0,2589,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "de/d89/boss__grilek_8cpp.html#aa903bbca1cf3f36df966a87d32b80409":[8,0,0,0,1,3,2,15,2,4],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,15,2,2],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa":[8,0,0,0,1,3,2,15,2,2,1],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9197ae5fb459530b43372148da0f977d":[8,0,0,0,1,3,2,15,2,2,5],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a987aaf78cadb11dbca35191a3e03468c":[8,0,0,0,1,3,2,15,2,2,3],
-"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae228fd47a845b042b583724f092a11d3":[8,0,0,0,1,3,2,15,2,2,0]
+"de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9197ae5fb459530b43372148da0f977d":[8,0,0,0,1,3,2,15,2,2,5]
 };

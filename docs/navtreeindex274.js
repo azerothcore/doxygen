@@ -1,5 +1,7 @@
 var NAVTREEINDEX274 =
 {
+"da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[8,0,0,0,1,3,5,0,0,3,4,0],
+"da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298cad350644bac142d18071cece89af926b9":[8,0,0,0,1,3,5,0,0,3,4,16],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298cae9809ed7204d6a6a1641a535f96b2dd8":[8,0,0,0,1,3,5,0,0,3,4,14],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298caefbdc1fb880dd3586e5f87acaa155760":[8,0,0,0,1,3,5,0,0,3,4,2],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298caf38f3162525e81888a09ec42b5e27632":[8,0,0,0,1,3,5,0,0,3,4,7],
@@ -150,10 +152,10 @@ var NAVTREEINDEX274 =
 "da/d71/classFleeingMovementGenerator.html#ad78ed87cc8d2569a2744ef43957ba498":[7,0,1091,5],
 "da/d71/classFleeingMovementGenerator.html#ade625570dc07a778a2089c986fac38f7":[7,0,1091,9],
 "da/d71/classFleeingMovementGenerator.html#adeb978816b67ec9542ccd131da1403be":[7,0,1091,3],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[5,0,0,7,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[7,0,0,4,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,5,7],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[5,0,0,7,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[5,0,0,7,5,7],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,5,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[7,0,0,4,5,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,0,7,5,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[7,0,0,4,5,8],
@@ -162,12 +164,12 @@ var NAVTREEINDEX274 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,5,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[7,0,0,4,5,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,5,5],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,5,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[7,0,0,4,5,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,5,2],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[5,0,0,7,5,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,5,2],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,5,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[7,0,0,4,5,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,5,0],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,5,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,5,1],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[7,0,0,4,5,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[7,0,1917,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274":[8,0,0,0,1,4,1,2,6,0],
 "da/d76/karazhan_8h.html":[8,0,0,0,1,3,2,4,15],
 "da/d76/karazhan_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,2,4,15,0],
-"da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968":[8,0,0,0,1,3,2,4,15,4],
-"da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968a702902587149d8ae3b67653eeb4f1aa0":[8,0,0,0,1,3,2,4,15,4,2],
-"da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968a818e3de52343aee6c0fcd2b4fd3dcdbc":[8,0,0,0,1,3,2,4,15,4,0]
+"da/d76/karazhan_8h.html#a08aa249acfac883b4eb7dcdfd30a4968":[8,0,0,0,1,3,2,4,15,4]
 };

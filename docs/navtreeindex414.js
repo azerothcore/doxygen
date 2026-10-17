@@ -1,5 +1,7 @@
 var NAVTREEINDEX414 =
 {
+"df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822":[8,0,0,0,1,3,2,1,0,0,41],
+"df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509":[8,0,0,0,1,3,2,1,0,0,12],
 "df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3":[8,0,0,0,1,3,2,1,0,0,12,0],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11af":[8,0,0,0,1,3,2,1,0,0,30],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10":[8,0,0,0,1,3,2,1,0,0,30,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX414 =
 "df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[7,0,3829,1],
 "df/d68/classinstance__blood__furnace.html":[7,0,1336],
 "df/d68/classinstance__blood__furnace.html#a885ba94e1777dfd6586daca304622d3d":[7,0,1336,2],
-"df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[7,0,1336,1],
-"df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834],
-"df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2]
+"df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[7,0,1336,1]
 };

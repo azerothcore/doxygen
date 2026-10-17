@@ -1,6 +1,8 @@
 var NAVTREEINDEX364 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,34,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[7,0,13,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,34,6,6,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html":[7,0,1636],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[7,0,1636,8],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[7,0,1636,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX364 =
 "dd/de9/classGameObjectScript.html#a05492473fa28c0f7c80770aa3445ce4e":[7,0,1127,1],
 "dd/de9/classGameObjectScript.html#a1ff457beae2b6249a9d3ecd08fd1b5a4":[7,0,1127,11],
 "dd/de9/classGameObjectScript.html#a233712ff412081583a8295cf512da48d":[7,0,1127,13],
-"dd/de9/classGameObjectScript.html#a2fb7d0f8f01ce083643bc0cb810fc612":[7,0,1127,4],
-"dd/de9/classGameObjectScript.html#a4992d88f026bf906852f085db4e8768e":[7,0,1127,6],
-"dd/de9/classGameObjectScript.html#a4a0f5552320f636cc645f32d7fb7801c":[7,0,1127,0]
+"dd/de9/classGameObjectScript.html#a2fb7d0f8f01ce083643bc0cb810fc612":[7,0,1127,4]
 };

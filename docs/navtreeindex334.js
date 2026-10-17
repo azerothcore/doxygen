@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6013310af1ae7ad291f350ab220f8b9a":[8,0,0,0,2,2,0,5,0,16],
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6296cbceab321f201c4617a39acd750d":[8,0,0,0,2,2,0,5,0,38],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a65cb09b90aa9192ffc4bd72007e88b39":[8,0,0,0,2,2,0,5,0,56],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6a063cc07fc5520a889f8c5f4beccbdf":[8,0,0,0,2,2,0,5,0,13],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a6f518359ddf69c0da421bfcbff6b769b":[8,0,0,0,2,2,0,5,0,49],
@@ -128,14 +130,14 @@ var NAVTREEINDEX334 =
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,0,93,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[7,0,3476],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a7dd784bc8e3d7db1d11c46886088ad76":[5,0,0,8,0,34],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aae4c9556d5cc172144fa280ca820226d":[5,0,0,8,0,39],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#ab72843264c39ce4d9aa3d4d8fbd83fc4":[5,0,0,8,0,38],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b":[5,0,0,8,0,32],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#aeca95018e8d551d917cf69e0764ccef7":[5,0,0,8,0,40],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html":[7,0,446,0]
+"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b":[5,0,0,8,0,32]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX421 =
 {
+"df/da7/classBattleground.html#a353cf23bf29c09d71e14c06d763b6982":[7,0,330,85],
+"df/da7/classBattleground.html#a37f268b9c45a92ecf3bf302b30cc704b":[7,0,330,21],
 "df/da7/classBattleground.html#a3841ee3e6ac8caec32e7b4dbfb344f9b":[7,0,330,247],
 "df/da7/classBattleground.html#a390e10b4efba4219eff511e1c4a831cc":[7,0,330,169],
 "df/da7/classBattleground.html#a3a50c0a76041fe9443af190dcfcfcd6b":[7,0,330,197],
@@ -247,7 +249,5 @@ var NAVTREEINDEX421 =
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#ab84a35b5145c74f16dfbbe020dd9a73b":[7,0,2260,0,0],
 "df/da9/MapBuilder_8cpp.html":[8,0,0,0,3,2,4],
 "df/da9/structnpc__chess__move__trigger.html":[7,0,1733],
-"df/da9/structnpc__chess__move__trigger.html#a6c0c37677db45ee11ebe158893d99632":[7,0,1733,0],
-"df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[7,0,1733,1],
-"df/daa/classLambdaBasicEvent.html":[7,0,1447]
+"df/da9/structnpc__chess__move__trigger.html#a6c0c37677db45ee11ebe158893d99632":[7,0,1733,0]
 };

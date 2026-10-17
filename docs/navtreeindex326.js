@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7":[8,0,0,0,0,19,10],
+"dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0":[8,0,0,0,0,19,10,0],
 "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102":[8,0,0,0,0,19,10,3],
 "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1":[8,0,0,0,0,19,10,2],
 "dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0":[8,0,0,0,0,19,10,1],
@@ -24,8 +26,8 @@ var NAVTREEINDEX326 =
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[7,0,0,24,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,0,36,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[7,0,0,24,1],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,0,36,6],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[7,0,0,24,6],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,0,36,6],
 "dc/d33/classspell__mistress__kiss__aura.html":[7,0,3712],
 "dc/d33/classspell__mistress__kiss__aura.html#a79f9b0144483c0e52954cd5aea325695":[7,0,3712,1],
 "dc/d33/classspell__mistress__kiss__aura.html#ab37e9b452b4675826aaab7908770ebf8":[7,0,3712,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a31f94a5b636a9e512bf5784f9543a2b8":[5,0,28,6,240],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a32186a3a332119a4a6dece302c33d11a":[5,0,28,6,517],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a3268cc06ce57817a8f4fae4207b41aee":[5,0,28,6,71],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a33113b4167d35541ccac6fc0059e81c3":[5,0,28,6,408],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a339d75b9bcb045436c460f6f3ca1e639":[5,0,28,6,58],
-"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a340665254b7cf7c9086003272e3de73a":[5,0,28,6,169]
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04a33113b4167d35541ccac6fc0059e81c3":[5,0,28,6,408]
 };

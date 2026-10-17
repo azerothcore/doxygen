@@ -1,5 +1,7 @@
 var NAVTREEINDEX412 =
 {
+"df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[7,0,362,3],
+"df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[7,0,362,11],
 "df/d3d/classBfCapturePoint.html#a8174a10f3afcadc9d86928fad6d7f143":[7,0,362,20],
 "df/d3d/classBfCapturePoint.html#a828856e871ab12e7222f542fcfebf6e3":[7,0,362,18],
 "df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546":[7,0,362,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX412 =
 "df/d49/structnpc__collapsing__star.html":[7,0,1739],
 "df/d49/structnpc__collapsing__star.html#a56e0bb55d903b6e7e5c493292512bebe":[7,0,1739,2],
 "df/d49/structnpc__collapsing__star.html#a6660bd7f397d7a3cd7ee5d3580b6bb78":[7,0,1739,0],
-"df/d49/structnpc__collapsing__star.html#ad19c1a3c033b0d97fe42c492634f9cd4":[7,0,1739,1],
-"df/d4b/classachievement__heartbreaker.html":[7,0,65],
-"df/d4b/classachievement__heartbreaker.html#ab3a2539ae5dc74743beb0dc0ea0147af":[7,0,65,1]
+"df/d49/structnpc__collapsing__star.html#ad19c1a3c033b0d97fe42c492634f9cd4":[7,0,1739,1]
 };
