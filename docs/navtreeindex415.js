@@ -1,5 +1,13 @@
 var NAVTREEINDEX415 =
 {
+"df/d66/Creature_8h.html#aa92b7ce1a721a3955751ae25cf01b22a":[8,0,0,0,1,2,16,1,1,6],
+"df/d66/classspell__pilgrims__bounty__food__aura.html":[7,0,3829],
+"df/d66/classspell__pilgrims__bounty__food__aura.html#a80660b1417ab33edaf2c4cd517e10e30":[7,0,3829,0],
+"df/d66/classspell__pilgrims__bounty__food__aura.html#ab7f0aa924dfe8043e44cd794f72e4555":[7,0,3829,2],
+"df/d66/classspell__pilgrims__bounty__food__aura.html#af3952993947dfb24381083d21a9e64cb":[7,0,3829,1],
+"df/d68/classinstance__blood__furnace.html":[7,0,1336],
+"df/d68/classinstance__blood__furnace.html#a885ba94e1777dfd6586daca304622d3d":[7,0,1336,2],
+"df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[7,0,1336,1],
 "df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834],
 "df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2],
 "df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX415 =
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e32ad5ac07b499ea8433d2ea86eba74":[8,0,0,0,1,3,5,1,0,0,9,5],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e8e661302d7248dbe4a907ba41efd24":[8,0,0,0,1,3,5,1,0,0,9,9],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a966befce167e4e387bede225741ca7e3":[8,0,0,0,1,3,5,1,0,0,9,0],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acc088a777c427dd1f8d91a7f036f8565":[8,0,0,0,1,3,5,1,0,0,9,3],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae9af40d90c3f2ee62c2642e8167025bb":[8,0,0,0,1,3,5,1,0,0,9,12],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb7030afec0f5f6b581bd6ebc1ef8cf4":[8,0,0,0,1,3,5,1,0,0,9,18],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa0f48eb71475a09fc15e50ec0ebb216":[8,0,0,0,1,3,5,1,0,0,9,4],
-"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6686ed7d552a8aa82e258dd8606832":[8,0,0,0,1,3,5,1,0,0,9,15],
-"df/d72/classAccountMgr.html":[7,0,30],
-"df/d72/classAccountMgr.html#a05785c0cba8eb448ae4efeffaf5f862e":[7,0,30,11],
-"df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27],
-"df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12]
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acc088a777c427dd1f8d91a7f036f8565":[8,0,0,0,1,3,5,1,0,0,9,3]
 };

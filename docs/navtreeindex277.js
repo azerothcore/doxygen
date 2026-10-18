@@ -1,5 +1,11 @@
 var NAVTREEINDEX277 =
 {
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4846ee5436abffae218febaa5b90ba2e":[8,0,0,0,1,3,2,11,4,17,5],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a54bbe131e337ab949ec40be98c3c1671":[8,0,0,0,1,3,2,11,4,17,3],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5f801295fd3e5a8d83976ee5cacd0788":[8,0,0,0,1,3,2,11,4,17,2],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9f9a2a510d15bda8318e3fc715e0b2df":[8,0,0,0,1,3,2,11,4,17,0],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa8fec8fb53260b90c504ef0668b41e52":[8,0,0,0,1,3,2,11,4,17,8],
+"da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac28c2a834c630f24ae2654b4ea97ed1":[8,0,0,0,1,3,2,11,4,17,1],
 "da/d7e/boss__kiljaeden_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad9b074709a30fe1d57f69ef5c6da3fea":[8,0,0,0,1,3,2,11,4,17,6],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,11,4,20],
 "da/d7e/boss__kiljaeden_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a0628ef10ff4329218f1e0c5f68dc2723":[8,0,0,0,1,3,2,11,4,20,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX277 =
 "da/d82/classreload__commandscript.html#aeb33ffe9700b289352ac533e91335f05":[7,0,2553,30],
 "da/d82/classreload__commandscript.html#aecc2c672024a8a7d97c9f58219de0829":[7,0,2553,38],
 "da/d82/classreload__commandscript.html#aeebaf2d6e962c39c6dd5f1b9e16efaab":[7,0,2553,80],
-"da/d82/classreload__commandscript.html#af019ea3002f55909fadc6215907d687c":[7,0,2553,3],
-"da/d82/classreload__commandscript.html#af9244d934d4adc9d4a6f12d36be91a4d":[7,0,2553,31],
-"da/d82/classreload__commandscript.html#afae8e6a769319a21d91b97f7937a0b92":[7,0,2553,68],
-"da/d82/classreload__commandscript.html#afc944862bddcd73b2f97d524597aec1e":[7,0,2553,46],
-"da/d82/classreload__commandscript.html#aff5856545fa4c3af1529eb45823ef2fc":[7,0,2553,58],
-"da/d82/structDestructibleModelDataEntry.html":[7,0,1012],
-"da/d82/structDestructibleModelDataEntry.html#a1a06c3e04bc2bb7d5bc29592d40b9239":[7,0,1012,4]
+"da/d82/classreload__commandscript.html#af019ea3002f55909fadc6215907d687c":[7,0,2553,3]
 };

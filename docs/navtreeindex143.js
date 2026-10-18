@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d4/dce/classspell__orbital__supports__aura.html#ab21972706bae9fdc3fc6859da2f3f63e":[7,0,3762,2],
+"d4/dce/classspell__orbital__supports__aura.html#ad1930e308f450cb84dba4f4b28b19f58":[7,0,3762,0],
 "d4/dce/structnpc__yor.html":[7,0,2342],
 "d4/dce/structnpc__yor.html#a43ed8720d06c035085d481dbe6539dca":[7,0,2342,0],
 "d4/dce/structnpc__yor.html#a46a2cf8ff94b830348641d94e3d9cd57":[7,0,2342,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd0/classWorldObject.html#af1fdb128fbf81a267a0572291045e8d0":[7,0,4736,98],
 "d4/dd0/classWorldObject.html#af206c55daf18a98bde458b157b0ce401":[7,0,4736,59],
 "d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce":[7,0,4736,209],
-"d4/dd0/classWorldObject.html#af308d81e688c5e11a2f2fbc5f5f18c79":[7,0,4736,226],
-"d4/dd0/classWorldObject.html#af5615d14f10bdc7546e4cbc0557370dd":[7,0,4736,181],
-"d4/dd0/classWorldObject.html#afaa66ed9f285255b1a24e06eb7b4d6b7":[7,0,4736,22]
+"d4/dd0/classWorldObject.html#af308d81e688c5e11a2f2fbc5f5f18c79":[7,0,4736,226]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX285 =
 {
+"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631ac6d3121ccb6ec61d5c598fd9eac0f855":[8,0,0,0,1,2,16,7,5,136,2],
+"da/dbf/Player_8h.html#adc637ac719fdefb939a974c01dc7c838":[8,0,0,0,1,2,16,7,5,52],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870ed":[8,0,0,0,1,2,16,7,5,95],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda01028419e0fdd37426276b1b6c6a9784":[8,0,0,0,1,2,16,7,5,95,1],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda6123ab27dcbbe6042bec1e3230fe3c2d":[8,0,0,0,1,2,16,7,5,95,2],
+"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda8b35d1194abf0f952fc5fb6450bea654":[8,0,0,0,1,2,16,7,5,95,0],
 "da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef":[8,0,0,0,1,2,16,7,5,95,3],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939":[8,0,0,0,1,2,16,7,5,119],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba":[8,0,0,0,1,2,16,7,5,119,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX285 =
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202":[7,0,1346,0,1],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05":[7,0,1346,0,3],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[7,0,1346,0,10],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a93b651e93e28c63272a8d06d0c521aef":[7,0,1346,0,13],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a9b014cab41720868f61028ef201cadaa":[7,0,1346,0,11],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#aab01abeae0f8df7c74c65c689c3c9f30":[7,0,1346,0,0],
-"da/dcd/structnpc__freya__ward__summon.html":[7,0,1846],
-"da/dcd/structnpc__freya__ward__summon.html#a175d2ca7a28ab998860fdce324c48c7e":[7,0,1846,5],
-"da/dcd/structnpc__freya__ward__summon.html#a52ca4242be249900f94d918dbc4df6c3":[7,0,1846,3],
-"da/dcd/structnpc__freya__ward__summon.html#a6b91ab899f11e3d6f9907b73476fa61f":[7,0,1846,1]
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a93b651e93e28c63272a8d06d0c521aef":[7,0,1346,0,13]
 };

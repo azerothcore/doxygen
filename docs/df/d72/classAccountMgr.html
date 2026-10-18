@@ -245,9 +245,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
 <div class="line"><span class="lineno">   34</span>    <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">ClearRBAC</a>();</div>
 <div class="line"><span class="lineno">   35</span>}</div>
-<div class="ttc" id="aclassAccountMgr_html_a63eecdc26eb9b9d6aac3249a3c569d25"><div class="ttname"><a href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">AccountMgr::ClearRBAC</a></div><div class="ttdeci">void ClearRBAC()</div><div class="ttdef"><b>Definition</b> AccountMgr.cpp:510</div></div>
+<div class="ttc" id="aclassAccountMgr_html_a63eecdc26eb9b9d6aac3249a3c569d25"><div class="ttname"><a href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">AccountMgr::ClearRBAC</a></div><div class="ttdeci">void ClearRBAC()</div><div class="ttdef"><b>Definition</b> AccountMgr.cpp:513</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00510">ClearRBAC()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00513">ClearRBAC()</a>.</p>
 
 </div>
 </div>
@@ -277,9 +277,9 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  535</span>{</div>
-<div class="line"><span class="lineno">  536</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel].insert(permissionId);</div>
-<div class="line"><span class="lineno">  537</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  538</span>{</div>
+<div class="line"><span class="lineno">  539</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel].insert(permissionId);</div>
+<div class="line"><span class="lineno">  540</span>}</div>
 <div class="ttc" id="aclassAccountMgr_html_ab53fec55833d249bd534b5adfaf5f696"><div class="ttname"><a href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">AccountMgr::_defaultPermissions</a></div><div class="ttdeci">rbac::RBACDefaultPermissionsContainer _defaultPermissions</div><div class="ttdef"><b>Definition</b> AccountMgr.h:90</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">_defaultPermissions</a>.</p>
@@ -311,11 +311,11 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  528</span>{</div>
-<div class="line"><span class="lineno">  529</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId);</div>
-<div class="line"><span class="lineno">  530</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
-<div class="line"><span class="lineno">  531</span>        it-&gt;second-&gt;AddLinkedPermission(linkedPermissionId);</div>
-<div class="line"><span class="lineno">  532</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  531</span>{</div>
+<div class="line"><span class="lineno">  532</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId);</div>
+<div class="line"><span class="lineno">  533</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
+<div class="line"><span class="lineno">  534</span>        it-&gt;second-&gt;AddLinkedPermission(linkedPermissionId);</div>
+<div class="line"><span class="lineno">  535</span>}</div>
 <div class="ttc" id="aclassAccountMgr_html_a1f4ecbdae8c367e74eed00e297e8b35d"><div class="ttname"><a href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">AccountMgr::_permissions</a></div><div class="ttdeci">rbac::RBACPermissionsContainer _permissions</div><div class="ttdef"><b>Definition</b> AccountMgr.h:89</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00089">_permissions</a>.</p>
@@ -347,12 +347,12 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  520</span>{</div>
-<div class="line"><span class="lineno">  521</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId) != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
-<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  523</span> </div>
-<div class="line"><span class="lineno">  524</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[permissionId] = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>(permissionId, name);</div>
-<div class="line"><span class="lineno">  525</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  523</span>{</div>
+<div class="line"><span class="lineno">  524</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId) != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
+<div class="line"><span class="lineno">  525</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  526</span> </div>
+<div class="line"><span class="lineno">  527</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[permissionId] = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>(permissionId, name);</div>
+<div class="line"><span class="lineno">  528</span>}</div>
 <div class="ttc" id="aclassrbac_1_1RBACPermission_html"><div class="ttname"><a href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a></div><div class="ttdef"><b>Definition</b> RBAC.h:727</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00089">_permissions</a>.</p>
@@ -629,21 +629,24 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  295</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d72/classAccountMgr.html#af911e3860ec519c541d6df35468ee41b">GetName</a>(accountId, username))</div>
 <div class="line"><span class="lineno">  296</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  297</span> </div>
-<div class="line"><span class="lineno">  298</span>    <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(username);</div>
-<div class="line"><span class="lineno">  299</span>    <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(password);</div>
+<div class="line"><span class="lineno">  298</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/da5/Util_8cpp.html#aa44a42a249be6823b5c7d313d9e019db">utf8length</a>(password) &gt; <a class="code hl_define" href="../../de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b">MAX_PASS_STR</a>)</div>
+<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  300</span> </div>
-<div class="line"><span class="lineno">  301</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd342f1390eb9392440e8b7fbfa781c1">LOGIN_SEL_CHECK_PASSWORD</a>);</div>
-<div class="line"><span class="lineno">  302</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno">  303</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt))</div>
-<div class="line"><span class="lineno">  304</span>    {</div>
-<div class="line"><span class="lineno">  305</span>        <a class="code hl_typedef" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a757f8fd19ebecda921e4e42f65586f9f">Acore::Crypto::SRP6::Salt</a> salt = (*result)[0].Get&lt;<a class="code hl_typedef" href="../../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#add5273640d1504c69395c71d495a3deb">Acore::Crypto::SRP6::SALT_LENGTH</a>&gt;();</div>
-<div class="line"><span class="lineno">  306</span>        <a class="code hl_typedef" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ab771d05cb201bbdc3c20a5cb087a023e">Acore::Crypto::SRP6::Verifier</a> verifier = (*result)[1].Get&lt;<a class="code hl_typedef" href="../../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a3a7f44395bcbc849665897c3d7db59d5">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>&gt;();</div>
-<div class="line"><span class="lineno">  307</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a790d7883ae0685bf2135d83edeb29121">Acore::Crypto::SRP6::CheckLogin</a>(username, password, salt, verifier))</div>
-<div class="line"><span class="lineno">  308</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  309</span>    }</div>
-<div class="line"><span class="lineno">  310</span> </div>
-<div class="line"><span class="lineno">  311</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  312</span>}</div>
+<div class="line"><span class="lineno">  301</span>    <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(username);</div>
+<div class="line"><span class="lineno">  302</span>    <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a589bbb62b3f6aadebe49b4140446fb57">Utf8ToUpperOnlyLatin</a>(password);</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd342f1390eb9392440e8b7fbfa781c1">LOGIN_SEL_CHECK_PASSWORD</a>);</div>
+<div class="line"><span class="lineno">  305</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno">  306</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt))</div>
+<div class="line"><span class="lineno">  307</span>    {</div>
+<div class="line"><span class="lineno">  308</span>        <a class="code hl_typedef" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a757f8fd19ebecda921e4e42f65586f9f">Acore::Crypto::SRP6::Salt</a> salt = (*result)[0].Get&lt;<a class="code hl_typedef" href="../../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#add5273640d1504c69395c71d495a3deb">Acore::Crypto::SRP6::SALT_LENGTH</a>&gt;();</div>
+<div class="line"><span class="lineno">  309</span>        <a class="code hl_typedef" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ab771d05cb201bbdc3c20a5cb087a023e">Acore::Crypto::SRP6::Verifier</a> verifier = (*result)[1].Get&lt;<a class="code hl_typedef" href="../../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a3a7f44395bcbc849665897c3d7db59d5">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>&gt;();</div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a790d7883ae0685bf2135d83edeb29121">Acore::Crypto::SRP6::CheckLogin</a>(username, password, salt, verifier))</div>
+<div class="line"><span class="lineno">  311</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  312</span>    }</div>
+<div class="line"><span class="lineno">  313</span> </div>
+<div class="line"><span class="lineno">  314</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  315</span>}</div>
 <div class="ttc" id="aField_8h_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition</b> Field.h:41</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fbabd342f1390eb9392440e8b7fbfa781c1"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd342f1390eb9392440e8b7fbfa781c1">LOGIN_SEL_CHECK_PASSWORD</a></div><div class="ttdeci">@ LOGIN_SEL_CHECK_PASSWORD</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:87</div></div>
 <div class="ttc" id="aclassAcore_1_1Crypto_1_1SRP6_html_a3a7f44395bcbc849665897c3d7db59d5"><div class="ttname"><a href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a3a7f44395bcbc849665897c3d7db59d5">Acore::Crypto::SRP6::VERIFIER_LENGTH</a></div><div class="ttdeci">static constexpr std::size_t VERIFIER_LENGTH</div><div class="ttdef"><b>Definition</b> SRP6.h:34</div></div>
@@ -652,7 +655,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassAcore_1_1Crypto_1_1SRP6_html_ab771d05cb201bbdc3c20a5cb087a023e"><div class="ttname"><a href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ab771d05cb201bbdc3c20a5cb087a023e">Acore::Crypto::SRP6::Verifier</a></div><div class="ttdeci">std::array&lt; uint8, VERIFIER_LENGTH &gt; Verifier</div><div class="ttdef"><b>Definition</b> SRP6.h:35</div></div>
 <div class="ttc" id="aclassAcore_1_1Crypto_1_1SRP6_html_add5273640d1504c69395c71d495a3deb"><div class="ttname"><a href="../../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#add5273640d1504c69395c71d495a3deb">Acore::Crypto::SRP6::SALT_LENGTH</a></div><div class="ttdeci">static constexpr std::size_t SALT_LENGTH</div><div class="ttdef"><b>Definition</b> SRP6.h:31</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">Acore::Crypto::SRP6::CheckLogin()</a>, <a class="el" href="../../#l00276">GetName()</a>, <a class="el" href="../../#l00087">LOGIN_SEL_CHECK_PASSWORD</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00031">Acore::Crypto::SRP6::SALT_LENGTH</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00532">Utf8ToUpperOnlyLatin()</a>, and <a class="el" href="../../#l00034">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00047">Acore::Crypto::SRP6::CheckLogin()</a>, <a class="el" href="../../#l00276">GetName()</a>, <a class="el" href="../../#l00087">LOGIN_SEL_CHECK_PASSWORD</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00035">MAX_PASS_STR</a>, <a class="el" href="../../#l00031">Acore::Crypto::SRP6::SALT_LENGTH</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00245">utf8length()</a>, <a class="el" href="../../#l00532">Utf8ToUpperOnlyLatin()</a>, and <a class="el" href="../../#l00034">Acore::Crypto::SRP6::VERIFIER_LENGTH</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00542">account_commandscript::HandleAccountPasswordCommand()</a>, and <a class="el" href="../../#l00081">ns1__executeCommand()</a>.</p>
 
@@ -672,11 +675,11 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  540</span>{</div>
-<div class="line"><span class="lineno">  541</span>    <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">ClearRBAC</a>();</div>
-<div class="line"><span class="lineno">  542</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  543</span>{</div>
+<div class="line"><span class="lineno">  544</span>    <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">ClearRBAC</a>();</div>
+<div class="line"><span class="lineno">  545</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00510">ClearRBAC()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00513">ClearRBAC()</a>.</p>
 
 </div>
 </div>
@@ -702,17 +705,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  511</span>{</div>
-<div class="line"><span class="lineno">  512</span>    <span class="keywordflow">for</span> (std::pair&lt;uint32 const, rbac::RBACPermission*&gt;&amp; permission : <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>)</div>
-<div class="line"><span class="lineno">  513</span>        delete permission.second;</div>
-<div class="line"><span class="lineno">  514</span> </div>
-<div class="line"><span class="lineno">  515</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.clear();</div>
-<div class="line"><span class="lineno">  516</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>.clear();</div>
-<div class="line"><span class="lineno">  517</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  514</span>{</div>
+<div class="line"><span class="lineno">  515</span>    <span class="keywordflow">for</span> (std::pair&lt;uint32 const, rbac::RBACPermission*&gt;&amp; permission : <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>)</div>
+<div class="line"><span class="lineno">  516</span>        delete permission.second;</div>
+<div class="line"><span class="lineno">  517</span> </div>
+<div class="line"><span class="lineno">  518</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.clear();</div>
+<div class="line"><span class="lineno">  519</span>    <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>.clear();</div>
+<div class="line"><span class="lineno">  520</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">_defaultPermissions</a>, and <a class="el" href="../../#l00089">_permissions</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00539">ClearPermissionsForTest()</a>, <a class="el" href="../../#l00397">LoadRBAC()</a>, and <a class="el" href="../../#l00032">~AccountMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00542">ClearPermissionsForTest()</a>, <a class="el" href="../../#l00400">LoadRBAC()</a>, and <a class="el" href="../../#l00032">~AccountMgr()</a>.</p>
 
 </div>
 </div>
@@ -905,13 +908,13 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:121</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:149</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1086</div></div>
-<div class="ttc" id="aclassPlayer_html_a55cde7f707f8023d11569110f7214cec"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a55cde7f707f8023d11569110f7214cec">Player::DeleteFromDB</a></div><div class="ttdeci">static void DeleteFromDB(ObjectGuid::LowType lowGuid, uint32 accountId, bool updateRealmChars, bool deleteFinally)</div><div class="ttdef"><b>Definition</b> Player.cpp:4087</div></div>
+<div class="ttc" id="aclassPlayer_html_a55cde7f707f8023d11569110f7214cec"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a55cde7f707f8023d11569110f7214cec">Player::DeleteFromDB</a></div><div class="ttdeci">static void DeleteFromDB(ObjectGuid::LowType lowGuid, uint32 accountId, bool updateRealmChars, bool deleteFinally)</div><div class="ttdef"><b>Definition</b> Player.cpp:4088</div></div>
 <div class="ttc" id="aclassWorldSession_html"><div class="ttname"><a href="../../d8/d74/classWorldSession.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition</b> WorldSession.h:430</div></div>
 <div class="ttc" id="aclassWorldSession_html_ab10397c196442b4f4620b5b307675504"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#ab10397c196442b4f4620b5b307675504">WorldSession::LogoutPlayer</a></div><div class="ttdeci">void LogoutPlayer(bool save, bool redirecting=false)</div><div class="ttdoc">Log the player out</div><div class="ttdef"><b>Definition</b> WorldSession.cpp:686</div></div>
 <div class="ttc" id="aclassWorldSession_html_ad84e1251e6fb43fe3aed0ea2a27f018b"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#ad84e1251e6fb43fe3aed0ea2a27f018b">WorldSession::KickPlayer</a></div><div class="ttdeci">void KickPlayer(bool setKicked=true)</div><div class="ttdef"><b>Definition</b> WorldSession.h:551</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:269</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00030">AOR_NAME_NOT_EXIST</a>, <a class="el" href="../../#l00025">AOR_OK</a>, <a class="el" href="../../#l00201">CHAR_DEL_ACCOUNT_DATA</a>, <a class="el" href="../../#l00043">CHAR_DEL_CHARACTER_BAN</a>, <a class="el" href="../../#l00210">CHAR_DEL_TUTORIALS</a>, <a class="el" href="../../#l00340">CHAR_SEL_CHARS_BY_ACCOUNT_ID</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l04087">Player::DeleteFromDB()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00551">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00103">LOGIN_DEL_ACCOUNT</a>, <a class="el" href="../../#l00080">LOGIN_DEL_ACCOUNT_ACCESS</a>, <a class="el" href="../../#l00041">LOGIN_DEL_ACCOUNT_BANNED</a>, <a class="el" href="../../#l00126">LOGIN_DEL_ACCOUNT_MUTED</a>, <a class="el" href="../../#l00062">LOGIN_DEL_REALM_CHARACTERS</a>, <a class="el" href="../../#l00059">LOGIN_SEL_ACCOUNT_BY_ID</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00686">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00767">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00030">AOR_NAME_NOT_EXIST</a>, <a class="el" href="../../#l00025">AOR_OK</a>, <a class="el" href="../../#l00201">CHAR_DEL_ACCOUNT_DATA</a>, <a class="el" href="../../#l00043">CHAR_DEL_CHARACTER_BAN</a>, <a class="el" href="../../#l00210">CHAR_DEL_TUTORIALS</a>, <a class="el" href="../../#l00340">CHAR_SEL_CHARS_BY_ACCOUNT_ID</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l04088">Player::DeleteFromDB()</a>, <a class="el" href="../../#l00269">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00551">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00103">LOGIN_DEL_ACCOUNT</a>, <a class="el" href="../../#l00080">LOGIN_DEL_ACCOUNT_ACCESS</a>, <a class="el" href="../../#l00041">LOGIN_DEL_ACCOUNT_BANNED</a>, <a class="el" href="../../#l00126">LOGIN_DEL_ACCOUNT_MUTED</a>, <a class="el" href="../../#l00062">LOGIN_DEL_REALM_CHARACTERS</a>, <a class="el" href="../../#l00059">LOGIN_SEL_ACCOUNT_BY_ID</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00686">WorldSession::LogoutPlayer()</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00767">sScriptMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00330">account_commandscript::HandleAccountDeleteCommand()</a>.</p>
 
@@ -940,14 +943,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  315</span>{</div>
-<div class="line"><span class="lineno">  316</span>    <span class="comment">// check character count</span></div>
-<div class="line"><span class="lineno">  317</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a721de6c7ac13ab2f72458fec8e7b2da6">CHAR_SEL_SUM_CHARS</a>);</div>
-<div class="line"><span class="lineno">  318</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno">  319</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">  320</span> </div>
-<div class="line"><span class="lineno">  321</span>    <span class="keywordflow">return</span> (result) ? (*result)[0].Get&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;() : 0;</div>
-<div class="line"><span class="lineno">  322</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  318</span>{</div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// check character count</span></div>
+<div class="line"><span class="lineno">  320</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a721de6c7ac13ab2f72458fec8e7b2da6">CHAR_SEL_SUM_CHARS</a>);</div>
+<div class="line"><span class="lineno">  321</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno">  322</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">  323</span> </div>
+<div class="line"><span class="lineno">  324</span>    <span class="keywordflow">return</span> (result) ? (*result)[0].Get&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;() : 0;</div>
+<div class="line"><span class="lineno">  325</span>}</div>
 <div class="ttc" id="aCharacterDatabase_8h_html_a76116b4fa282d8e35bf8f8e940b5cba7a721de6c7ac13ab2f72458fec8e7b2da6"><div class="ttname"><a href="../../de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a721de6c7ac13ab2f72458fec8e7b2da6">CHAR_SEL_SUM_CHARS</a></div><div class="ttdeci">@ CHAR_SEL_SUM_CHARS</div><div class="ttdef"><b>Definition</b> CharacterDatabase.h:39</div></div>
 <div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 </div><!-- fragment -->
@@ -1065,10 +1068,10 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  505</span>{</div>
-<div class="line"><span class="lineno">  506</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::GetRBACDefaultPermissions: secLevel {} - size: {}&quot;</span>, secLevel, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel].size()));</div>
-<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel];</div>
-<div class="line"><span class="lineno">  508</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  508</span>{</div>
+<div class="line"><span class="lineno">  509</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::GetRBACDefaultPermissions: secLevel {} - size: {}&quot;</span>, secLevel, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel].size()));</div>
+<div class="line"><span class="lineno">  510</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secLevel];</div>
+<div class="line"><span class="lineno">  511</span>}</div>
 <div class="ttc" id="aLog_8h_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:161</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">_defaultPermissions</a>, and <a class="el" href="../../#l00161">LOG_TRACE</a>.</p>
@@ -1090,14 +1093,14 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  495</span>{</div>
-<div class="line"><span class="lineno">  496</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::GetRBACPermission: {}&quot;</span>, permissionId);</div>
-<div class="line"><span class="lineno">  497</span>    rbac::RBACPermissionsContainer::const_iterator it = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId);</div>
-<div class="line"><span class="lineno">  498</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
-<div class="line"><span class="lineno">  499</span>        <span class="keywordflow">return</span> it-&gt;second;</div>
-<div class="line"><span class="lineno">  500</span> </div>
-<div class="line"><span class="lineno">  501</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  502</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  498</span>{</div>
+<div class="line"><span class="lineno">  499</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::GetRBACPermission: {}&quot;</span>, permissionId);</div>
+<div class="line"><span class="lineno">  500</span>    rbac::RBACPermissionsContainer::const_iterator it = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.find(permissionId);</div>
+<div class="line"><span class="lineno">  501</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>.end())</div>
+<div class="line"><span class="lineno">  502</span>        <span class="keywordflow">return</span> it-&gt;second;</div>
+<div class="line"><span class="lineno">  503</span> </div>
+<div class="line"><span class="lineno">  504</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  505</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00089">_permissions</a>, and <a class="el" href="../../#l00161">LOG_TRACE</a>.</p>
 
@@ -1164,7 +1167,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00084">LOGIN_GET_ACCOUNT_ACCESS_GMLEVEL</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00057">SEC_PLAYER</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">rbac_commandscript::GetRBACData()</a>, <a class="el" href="../../#l00925">account_commandscript::HandleAccountSetGmLevelCommand()</a>, <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l01734">misc_commandscript::HandleAddItemCommand()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00329">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l00084">ChatHandler::HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00344">HasPermission()</a>, and <a class="el" href="../../#l00081">ns1__executeCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00075">rbac_commandscript::GetRBACData()</a>, <a class="el" href="../../#l00925">account_commandscript::HandleAccountSetGmLevelCommand()</a>, <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l01734">misc_commandscript::HandleAddItemCommand()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00329">ticket_commandscript::HandleGMTicketUnAssignCommand()</a>, <a class="el" href="../../#l00084">ChatHandler::HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00347">HasPermission()</a>, and <a class="el" href="../../#l00081">ns1__executeCommand()</a>.</p>
 
 </div>
 </div>
@@ -1254,22 +1257,22 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  345</span>{</div>
-<div class="line"><span class="lineno">  346</span>    <span class="keywordflow">if</span> (!accountId)</div>
-<div class="line"><span class="lineno">  347</span>    {</div>
-<div class="line"><span class="lineno">  348</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::HasPermission: Wrong accountId 0&quot;</span>);</div>
-<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  350</span>    }</div>
-<div class="line"><span class="lineno">  351</span> </div>
-<div class="line"><span class="lineno">  352</span>    <a class="code hl_class" href="../../de/d28/classrbac_1_1RBACData.html">rbac::RBACData</a> <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>(accountId, <span class="stringliteral">&quot;&quot;</span>, realmId, <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a8280510b2564ec6ea76727218c1687b3">GetSecurity</a>(accountId, realmId));</div>
-<div class="line"><span class="lineno">  353</span>    <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>.LoadFromDB();</div>
-<div class="line"><span class="lineno">  354</span>    <span class="keywordtype">bool</span> hasPermission = <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>.HasPermission(permission);</div>
-<div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::HasPermission [AccountId: {}, PermissionId: {}, realmId: {}]: {}&quot;</span>,</div>
-<div class="line"><span class="lineno">  357</span>        accountId, permission, realmId, hasPermission);</div>
+<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
+<div class="line"><span class="lineno">  349</span>    <span class="keywordflow">if</span> (!accountId)</div>
+<div class="line"><span class="lineno">  350</span>    {</div>
+<div class="line"><span class="lineno">  351</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::HasPermission: Wrong accountId 0&quot;</span>);</div>
+<div class="line"><span class="lineno">  352</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  353</span>    }</div>
+<div class="line"><span class="lineno">  354</span> </div>
+<div class="line"><span class="lineno">  355</span>    <a class="code hl_class" href="../../de/d28/classrbac_1_1RBACData.html">rbac::RBACData</a> <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>(accountId, <span class="stringliteral">&quot;&quot;</span>, realmId, <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a8280510b2564ec6ea76727218c1687b3">GetSecurity</a>(accountId, realmId));</div>
+<div class="line"><span class="lineno">  356</span>    <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>.LoadFromDB();</div>
+<div class="line"><span class="lineno">  357</span>    <span class="keywordtype">bool</span> hasPermission = <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>.HasPermission(permission);</div>
 <div class="line"><span class="lineno">  358</span> </div>
-<div class="line"><span class="lineno">  359</span>    <span class="keywordflow">return</span> hasPermission;</div>
-<div class="line"><span class="lineno">  360</span>}</div>
+<div class="line"><span class="lineno">  359</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::HasPermission [AccountId: {}, PermissionId: {}, realmId: {}]: {}&quot;</span>,</div>
+<div class="line"><span class="lineno">  360</span>        accountId, permission, realmId, hasPermission);</div>
+<div class="line"><span class="lineno">  361</span> </div>
+<div class="line"><span class="lineno">  362</span>    <span class="keywordflow">return</span> hasPermission;</div>
+<div class="line"><span class="lineno">  363</span>}</div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:157</div></div>
 <div class="ttc" id="aclassAccountMgr_html_a8280510b2564ec6ea76727218c1687b3"><div class="ttname"><a href="../../df/d72/classAccountMgr.html#a8280510b2564ec6ea76727218c1687b3">AccountMgr::GetSecurity</a></div><div class="ttdeci">static uint32 GetSecurity(uint32 accountId)</div><div class="ttdef"><b>Definition</b> AccountMgr.cpp:257</div></div>
@@ -1338,9 +1341,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  335</span>{</div>
-<div class="line"><span class="lineno">  336</span>    <span class="keywordflow">return</span> gmlevel &gt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a> &amp;&amp; gmlevel &lt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a>;</div>
-<div class="line"><span class="lineno">  337</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  338</span>{</div>
+<div class="line"><span class="lineno">  339</span>    <span class="keywordflow">return</span> gmlevel &gt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a> &amp;&amp; gmlevel &lt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a>;</div>
+<div class="line"><span class="lineno">  340</span>}</div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition</b> Common.h:60</div></div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a></div><div class="ttdeci">@ SEC_CONSOLE</div><div class="ttdef"><b>Definition</b> Common.h:61</div></div>
 </div><!-- fragment -->
@@ -1373,9 +1376,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  340</span>{</div>
-<div class="line"><span class="lineno">  341</span>    <span class="keywordflow">return</span> gmlevel == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a>;</div>
-<div class="line"><span class="lineno">  342</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  343</span>{</div>
+<div class="line"><span class="lineno">  344</span>    <span class="keywordflow">return</span> gmlevel == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7ae1fc38747d44c8d316f3b74ae10a5399">SEC_CONSOLE</a>;</div>
+<div class="line"><span class="lineno">  345</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00061">SEC_CONSOLE</a>.</p>
 
@@ -1406,9 +1409,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  330</span>{</div>
-<div class="line"><span class="lineno">  331</span>    <span class="keywordflow">return</span> gmlevel &gt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>;</div>
-<div class="line"><span class="lineno">  332</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  333</span>{</div>
+<div class="line"><span class="lineno">  334</span>    <span class="keywordflow">return</span> gmlevel &gt;= <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>;</div>
+<div class="line"><span class="lineno">  335</span>}</div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a></div><div class="ttdeci">@ SEC_GAMEMASTER</div><div class="ttdef"><b>Definition</b> Common.h:59</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">SEC_GAMEMASTER</a>.</p>
@@ -1438,13 +1441,13 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  325</span>{</div>
-<div class="line"><span class="lineno">  326</span>    <span class="keywordflow">return</span> gmlevel == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>;</div>
-<div class="line"><span class="lineno">  327</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  328</span>{</div>
+<div class="line"><span class="lineno">  329</span>    <span class="keywordflow">return</span> gmlevel == <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>;</div>
+<div class="line"><span class="lineno">  330</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">SEC_PLAYER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l03489">misc_commandscript::HandleBMCommand()</a>, <a class="el" href="../../#l00480">misc_commandscript::HandleCommentatorCommand()</a>, <a class="el" href="../../#l00522">misc_commandscript::HandleDevCommand()</a>, <a class="el" href="../../#l00059">gm_commandscript::HandleGMChatCommand()</a>, <a class="el" href="../../#l00112">gm_commandscript::HandleGMListIngameCommand()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00264">group_commandscript::HandleGroupReviveCommand()</a>, <a class="el" href="../../#l01201">misc_commandscript::HandleReviveCommand()</a>, <a class="el" href="../../#l01456">misc_commandscript::HandleUnstuckCommand()</a>, <a class="el" href="../../#l00220">WorldSession::HandleWhoOpcode()</a>, <a class="el" href="../../#l11668">Player::IsVisibleGloballyFor()</a>, and <a class="el" href="../../#l00156">LogCommandUsage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">WorldSession::HandleAddFriendOpcode()</a>, <a class="el" href="../../#l03489">misc_commandscript::HandleBMCommand()</a>, <a class="el" href="../../#l00480">misc_commandscript::HandleCommentatorCommand()</a>, <a class="el" href="../../#l00522">misc_commandscript::HandleDevCommand()</a>, <a class="el" href="../../#l00059">gm_commandscript::HandleGMChatCommand()</a>, <a class="el" href="../../#l00112">gm_commandscript::HandleGMListIngameCommand()</a>, <a class="el" href="../../#l00070">ticket_commandscript::HandleGMTicketAssignToCommand()</a>, <a class="el" href="../../#l00264">group_commandscript::HandleGroupReviveCommand()</a>, <a class="el" href="../../#l01201">misc_commandscript::HandleReviveCommand()</a>, <a class="el" href="../../#l01456">misc_commandscript::HandleUnstuckCommand()</a>, <a class="el" href="../../#l00220">WorldSession::HandleWhoOpcode()</a>, <a class="el" href="../../#l11669">Player::IsVisibleGloballyFor()</a>, and <a class="el" href="../../#l00156">LogCommandUsage()</a>.</p>
 
 </div>
 </div>
@@ -1462,101 +1465,101 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  398</span>{</div>
-<div class="line"><span class="lineno">  399</span>    <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">ClearRBAC</a>();</div>
-<div class="line"><span class="lineno">  400</span> </div>
-<div class="line"><span class="lineno">  401</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC&quot;</span>);</div>
-<div class="line"><span class="lineno">  402</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  403</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count1 = 0;</div>
-<div class="line"><span class="lineno">  404</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count2 = 0;</div>
-<div class="line"><span class="lineno">  405</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count3 = 0;</div>
-<div class="line"><span class="lineno">  406</span> </div>
-<div class="line"><span class="lineno">  407</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading permissions&quot;</span>);</div>
-<div class="line"><span class="lineno">  408</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, name FROM rbac_permissions&quot;</span>);</div>
-<div class="line"><span class="lineno">  409</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  410</span>    {</div>
-<div class="line"><span class="lineno">  411</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 RBAC permissions. DB table `rbac_permissions` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">  412</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  413</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  414</span>    }</div>
-<div class="line"><span class="lineno">  415</span> </div>
-<div class="line"><span class="lineno">  416</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  417</span>    {</div>
-<div class="line"><span class="lineno">  418</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  419</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  420</span>        <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[id] = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>(<span class="keywordtype">id</span>, field[1].Get&lt;std::string&gt;());</div>
-<div class="line"><span class="lineno">  421</span>        ++count1;</div>
-<div class="line"><span class="lineno">  422</span>    }</div>
-<div class="line"><span class="lineno">  423</span>    <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  424</span> </div>
-<div class="line"><span class="lineno">  425</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading linked permissions&quot;</span>);</div>
-<div class="line"><span class="lineno">  426</span>    result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, linkedId FROM rbac_linked_permissions ORDER BY id ASC&quot;</span>);</div>
-<div class="line"><span class="lineno">  427</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  428</span>    {</div>
-<div class="line"><span class="lineno">  429</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC permissions&quot;</span>, count1);</div>
-<div class="line"><span class="lineno">  430</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  431</span>    }</div>
-<div class="line"><span class="lineno">  432</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  433</span>    {</div>
-<div class="line"><span class="lineno">  434</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> permissionId = 0;</div>
-<div class="line"><span class="lineno">  435</span>        <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>* permission = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  436</span> </div>
-<div class="line"><span class="lineno">  437</span>        <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  438</span>        {</div>
-<div class="line"><span class="lineno">  439</span>            <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  440</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> newId = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">if</span> (permissionId != newId)</div>
-<div class="line"><span class="lineno">  442</span>            {</div>
-<div class="line"><span class="lineno">  443</span>                permissionId = newId;</div>
-<div class="line"><span class="lineno">  444</span>                permission = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[newId];</div>
-<div class="line"><span class="lineno">  445</span>            }</div>
-<div class="line"><span class="lineno">  446</span> </div>
-<div class="line"><span class="lineno">  447</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> linkedPermissionId = field[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  448</span>            <span class="keywordflow">if</span> (linkedPermissionId == permissionId)</div>
-<div class="line"><span class="lineno">  449</span>            {</div>
-<div class="line"><span class="lineno">  450</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RBAC Permission {} has itself as linked permission. Ignored&quot;</span>, permissionId);</div>
-<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  452</span>            }</div>
-<div class="line"><span class="lineno">  453</span>            permission-&gt;<a class="code hl_function" href="../../d6/db3/classrbac_1_1RBACPermission.html#abadc5213769b1aa15ed3fea56087760e">AddLinkedPermission</a>(linkedPermissionId);</div>
-<div class="line"><span class="lineno">  454</span>            ++count2;</div>
-<div class="line"><span class="lineno">  455</span>        }</div>
-<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  457</span> </div>
-<div class="line"><span class="lineno">  458</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC permissions and {} linked permissions in {} ms&quot;</span>, count1, count2, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  459</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  460</span>    }</div>
-<div class="line"><span class="lineno">  461</span> </div>
-<div class="line"><span class="lineno">  462</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading default permissions&quot;</span>);</div>
-<div class="line"><span class="lineno">  463</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba894a702c4cb1564c080f55cf8cd679a4">LOGIN_SEL_RBAC_DEFAULT_PERMISSIONS</a>);</div>
-<div class="line"><span class="lineno">  464</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../df/d17/group__world.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d0/d7e/structRealm.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/d6c/structRealmHandle.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>));</div>
-<div class="line"><span class="lineno">  465</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> defaultPermResult = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
-<div class="line"><span class="lineno">  466</span>    <span class="keywordflow">if</span> (!defaultPermResult)</div>
-<div class="line"><span class="lineno">  467</span>    {</div>
-<div class="line"><span class="lineno">  468</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 RBAC default permissions. DB table `rbac_default_permissions` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">  469</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  470</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  471</span>    }</div>
-<div class="line"><span class="lineno">  472</span> </div>
-<div class="line"><span class="lineno">  473</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> secId = 255;</div>
-<div class="line"><span class="lineno">  474</span>    <a class="code hl_typedef" href="../../dc/d36/namespacerbac.html#af0c998db2902079aaa8ce1c4939335a7">rbac::RBACPermissionContainer</a>* permissions = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  475</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  476</span>    {</div>
-<div class="line"><span class="lineno">  477</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = defaultPermResult-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  478</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> newId = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  479</span>        <span class="keywordflow">if</span> (secId != newId || permissions == <span class="keyword">nullptr</span>)</div>
-<div class="line"><span class="lineno">  480</span>        {</div>
-<div class="line"><span class="lineno">  481</span>            secId = newId;</div>
-<div class="line"><span class="lineno">  482</span>            permissions = &amp;<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secId];</div>
-<div class="line"><span class="lineno">  483</span>        }</div>
-<div class="line"><span class="lineno">  484</span> </div>
-<div class="line"><span class="lineno">  485</span>        permissions-&gt;insert(field[1].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  486</span>        ++count3;</div>
-<div class="line"><span class="lineno">  487</span>    }</div>
-<div class="line"><span class="lineno">  488</span>    <span class="keywordflow">while</span> (defaultPermResult-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  489</span> </div>
-<div class="line"><span class="lineno">  490</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC default permissions in {} ms&quot;</span>, count3, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  491</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  492</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  401</span>{</div>
+<div class="line"><span class="lineno">  402</span>    <a class="code hl_function" href="../../df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25">ClearRBAC</a>();</div>
+<div class="line"><span class="lineno">  403</span> </div>
+<div class="line"><span class="lineno">  404</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC&quot;</span>);</div>
+<div class="line"><span class="lineno">  405</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  406</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count1 = 0;</div>
+<div class="line"><span class="lineno">  407</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count2 = 0;</div>
+<div class="line"><span class="lineno">  408</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count3 = 0;</div>
+<div class="line"><span class="lineno">  409</span> </div>
+<div class="line"><span class="lineno">  410</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading permissions&quot;</span>);</div>
+<div class="line"><span class="lineno">  411</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, name FROM rbac_permissions&quot;</span>);</div>
+<div class="line"><span class="lineno">  412</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  413</span>    {</div>
+<div class="line"><span class="lineno">  414</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 RBAC permissions. DB table `rbac_permissions` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">  415</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  416</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  417</span>    }</div>
+<div class="line"><span class="lineno">  418</span> </div>
+<div class="line"><span class="lineno">  419</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  420</span>    {</div>
+<div class="line"><span class="lineno">  421</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  422</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keywordtype">id</span> = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  423</span>        <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[id] = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>(<span class="keywordtype">id</span>, field[1].Get&lt;std::string&gt;());</div>
+<div class="line"><span class="lineno">  424</span>        ++count1;</div>
+<div class="line"><span class="lineno">  425</span>    }</div>
+<div class="line"><span class="lineno">  426</span>    <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  427</span> </div>
+<div class="line"><span class="lineno">  428</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading linked permissions&quot;</span>);</div>
+<div class="line"><span class="lineno">  429</span>    result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT id, linkedId FROM rbac_linked_permissions ORDER BY id ASC&quot;</span>);</div>
+<div class="line"><span class="lineno">  430</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">  431</span>    {</div>
+<div class="line"><span class="lineno">  432</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC permissions&quot;</span>, count1);</div>
+<div class="line"><span class="lineno">  433</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  434</span>    }</div>
+<div class="line"><span class="lineno">  435</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  436</span>    {</div>
+<div class="line"><span class="lineno">  437</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> permissionId = 0;</div>
+<div class="line"><span class="lineno">  438</span>        <a class="code hl_class" href="../../d6/db3/classrbac_1_1RBACPermission.html">rbac::RBACPermission</a>* permission = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  439</span> </div>
+<div class="line"><span class="lineno">  440</span>        <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  441</span>        {</div>
+<div class="line"><span class="lineno">  442</span>            <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  443</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> newId = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  444</span>            <span class="keywordflow">if</span> (permissionId != newId)</div>
+<div class="line"><span class="lineno">  445</span>            {</div>
+<div class="line"><span class="lineno">  446</span>                permissionId = newId;</div>
+<div class="line"><span class="lineno">  447</span>                permission = <a class="code hl_variable" href="../../df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d">_permissions</a>[newId];</div>
+<div class="line"><span class="lineno">  448</span>            }</div>
+<div class="line"><span class="lineno">  449</span> </div>
+<div class="line"><span class="lineno">  450</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> linkedPermissionId = field[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  451</span>            <span class="keywordflow">if</span> (linkedPermissionId == permissionId)</div>
+<div class="line"><span class="lineno">  452</span>            {</div>
+<div class="line"><span class="lineno">  453</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RBAC Permission {} has itself as linked permission. Ignored&quot;</span>, permissionId);</div>
+<div class="line"><span class="lineno">  454</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  455</span>            }</div>
+<div class="line"><span class="lineno">  456</span>            permission-&gt;<a class="code hl_function" href="../../d6/db3/classrbac_1_1RBACPermission.html#abadc5213769b1aa15ed3fea56087760e">AddLinkedPermission</a>(linkedPermissionId);</div>
+<div class="line"><span class="lineno">  457</span>            ++count2;</div>
+<div class="line"><span class="lineno">  458</span>        }</div>
+<div class="line"><span class="lineno">  459</span>        <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  460</span> </div>
+<div class="line"><span class="lineno">  461</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC permissions and {} linked permissions in {} ms&quot;</span>, count1, count2, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  462</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  463</span>    }</div>
+<div class="line"><span class="lineno">  464</span> </div>
+<div class="line"><span class="lineno">  465</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;rbac&quot;</span>, <span class="stringliteral">&quot;AccountMgr::LoadRBAC: Loading default permissions&quot;</span>);</div>
+<div class="line"><span class="lineno">  466</span>    <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba894a702c4cb1564c080f55cf8cd679a4">LOGIN_SEL_RBAC_DEFAULT_PERMISSIONS</a>);</div>
+<div class="line"><span class="lineno">  467</span>    stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../df/d17/group__world.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../d0/d7e/structRealm.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a>.<a class="code hl_variable" href="../../d0/d6c/structRealmHandle.html#a31af0d9064a295b1579fce3c80217bfd">Realm</a>));</div>
+<div class="line"><span class="lineno">  468</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> defaultPermResult = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">  469</span>    <span class="keywordflow">if</span> (!defaultPermResult)</div>
+<div class="line"><span class="lineno">  470</span>    {</div>
+<div class="line"><span class="lineno">  471</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 RBAC default permissions. DB table `rbac_default_permissions` is empty.&quot;</span>);</div>
+<div class="line"><span class="lineno">  472</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  473</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  474</span>    }</div>
+<div class="line"><span class="lineno">  475</span> </div>
+<div class="line"><span class="lineno">  476</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> secId = 255;</div>
+<div class="line"><span class="lineno">  477</span>    <a class="code hl_typedef" href="../../dc/d36/namespacerbac.html#af0c998db2902079aaa8ce1c4939335a7">rbac::RBACPermissionContainer</a>* permissions = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  478</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">  479</span>    {</div>
+<div class="line"><span class="lineno">  480</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* field = defaultPermResult-&gt;Fetch();</div>
+<div class="line"><span class="lineno">  481</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> newId = field[0].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  482</span>        <span class="keywordflow">if</span> (secId != newId || permissions == <span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  483</span>        {</div>
+<div class="line"><span class="lineno">  484</span>            secId = newId;</div>
+<div class="line"><span class="lineno">  485</span>            permissions = &amp;<a class="code hl_variable" href="../../df/d72/classAccountMgr.html#ab53fec55833d249bd534b5adfaf5f696">_defaultPermissions</a>[secId];</div>
+<div class="line"><span class="lineno">  486</span>        }</div>
+<div class="line"><span class="lineno">  487</span> </div>
+<div class="line"><span class="lineno">  488</span>        permissions-&gt;insert(field[1].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">  489</span>        ++count3;</div>
+<div class="line"><span class="lineno">  490</span>    }</div>
+<div class="line"><span class="lineno">  491</span>    <span class="keywordflow">while</span> (defaultPermResult-&gt;NextRow());</div>
+<div class="line"><span class="lineno">  492</span> </div>
+<div class="line"><span class="lineno">  493</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} RBAC default permissions in {} ms&quot;</span>, count3, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">  494</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  495</span>}</div>
 <div class="ttc" id="aDatabaseEnvFwd_8h_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition</b> DatabaseEnvFwd.h:27</div></div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:153</div></div>
@@ -1571,7 +1574,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructRealmHandle_html_a31af0d9064a295b1579fce3c80217bfd"><div class="ttname"><a href="../../d0/d6c/structRealmHandle.html#a31af0d9064a295b1579fce3c80217bfd">RealmHandle::Realm</a></div><div class="ttdeci">uint32 Realm</div><div class="ttdef"><b>Definition</b> Realm.h:43</div></div>
 <div class="ttc" id="astructRealm_html_ab0ccda7e7a58eee0965261767f3ee2ee"><div class="ttname"><a href="../../d0/d7e/structRealm.html#ab0ccda7e7a58eee0965261767f3ee2ee">Realm::Id</a></div><div class="ttdeci">RealmHandle Id</div><div class="ttdef"><b>Definition</b> Realm.h:69</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">_defaultPermissions</a>, <a class="el" href="../../#l00089">_permissions</a>, <a class="el" href="../../#l00740">rbac::RBACPermission::AddLinkedPermission()</a>, <a class="el" href="../../#l00510">ClearRBAC()</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00148">LOGIN_SEL_RBAC_DEFAULT_PERMISSIONS</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00117">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">_defaultPermissions</a>, <a class="el" href="../../#l00089">_permissions</a>, <a class="el" href="../../#l00740">rbac::RBACPermission::AddLinkedPermission()</a>, <a class="el" href="../../#l00513">ClearRBAC()</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00148">LOGIN_SEL_RBAC_DEFAULT_PERMISSIONS</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00117">realm</a>, <a class="el" href="../../#l00043">RealmHandle::Realm</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 </div>
 </div>
@@ -1612,39 +1615,39 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  363</span>{</div>
-<div class="line"><span class="lineno">  364</span>    <span class="keywordflow">if</span> (<a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a> &amp;&amp; securityLevel != <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>-&gt;GetSecurityLevel())</div>
-<div class="line"><span class="lineno">  365</span>        <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>-&gt;SetSecurityLevel(securityLevel);</div>
-<div class="line"><span class="lineno">  366</span> </div>
-<div class="line"><span class="lineno">  367</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#aa0ef7192ac59bc820849e5e21e3e08b7">LoginDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.BeginTransaction();</div>
-<div class="line"><span class="lineno">  368</span> </div>
-<div class="line"><span class="lineno">  369</span>    <span class="comment">// Delete old security level from DB</span></div>
-<div class="line"><span class="lineno">  370</span>    <span class="keywordflow">if</span> (realmId == -1)</div>
-<div class="line"><span class="lineno">  371</span>    {</div>
-<div class="line"><span class="lineno">  372</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba52284772870b1649e11a21df1af04991">LOGIN_DEL_ACCOUNT_ACCESS</a>);</div>
-<div class="line"><span class="lineno">  373</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno">  374</span>        trans-&gt;Append(stmt);</div>
-<div class="line"><span class="lineno">  375</span>    }</div>
-<div class="line"><span class="lineno">  376</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  377</span>    {</div>
-<div class="line"><span class="lineno">  378</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb">LOGIN_DEL_ACCOUNT_ACCESS_BY_REALM</a>);</div>
-<div class="line"><span class="lineno">  379</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno">  380</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, realmId);</div>
-<div class="line"><span class="lineno">  381</span>        trans-&gt;Append(stmt);</div>
-<div class="line"><span class="lineno">  382</span>    }</div>
-<div class="line"><span class="lineno">  383</span> </div>
-<div class="line"><span class="lineno">  384</span>    <span class="comment">// Add new security level</span></div>
-<div class="line"><span class="lineno">  385</span>    <span class="keywordflow">if</span> (securityLevel)</div>
-<div class="line"><span class="lineno">  386</span>    {</div>
-<div class="line"><span class="lineno">  387</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbab78206ae90c76a8102815a7d671b6797">LOGIN_INS_ACCOUNT_ACCESS</a>);</div>
-<div class="line"><span class="lineno">  388</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
-<div class="line"><span class="lineno">  389</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, securityLevel);</div>
-<div class="line"><span class="lineno">  390</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, realmId);</div>
-<div class="line"><span class="lineno">  391</span>        trans-&gt;Append(stmt);</div>
-<div class="line"><span class="lineno">  392</span>    }</div>
-<div class="line"><span class="lineno">  393</span> </div>
-<div class="line"><span class="lineno">  394</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.CommitTransaction(trans);</div>
-<div class="line"><span class="lineno">  395</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  366</span>{</div>
+<div class="line"><span class="lineno">  367</span>    <span class="keywordflow">if</span> (<a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a> &amp;&amp; securityLevel != <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>-&gt;GetSecurityLevel())</div>
+<div class="line"><span class="lineno">  368</span>        <a class="code hl_namespace" href="../../dc/d36/namespacerbac.html">rbac</a>-&gt;SetSecurityLevel(securityLevel);</div>
+<div class="line"><span class="lineno">  369</span> </div>
+<div class="line"><span class="lineno">  370</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#aa0ef7192ac59bc820849e5e21e3e08b7">LoginDatabaseTransaction</a> trans = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.BeginTransaction();</div>
+<div class="line"><span class="lineno">  371</span> </div>
+<div class="line"><span class="lineno">  372</span>    <span class="comment">// Delete old security level from DB</span></div>
+<div class="line"><span class="lineno">  373</span>    <span class="keywordflow">if</span> (realmId == -1)</div>
+<div class="line"><span class="lineno">  374</span>    {</div>
+<div class="line"><span class="lineno">  375</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba52284772870b1649e11a21df1af04991">LOGIN_DEL_ACCOUNT_ACCESS</a>);</div>
+<div class="line"><span class="lineno">  376</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno">  377</span>        trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  378</span>    }</div>
+<div class="line"><span class="lineno">  379</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  380</span>    {</div>
+<div class="line"><span class="lineno">  381</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb">LOGIN_DEL_ACCOUNT_ACCESS_BY_REALM</a>);</div>
+<div class="line"><span class="lineno">  382</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno">  383</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, realmId);</div>
+<div class="line"><span class="lineno">  384</span>        trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  385</span>    }</div>
+<div class="line"><span class="lineno">  386</span> </div>
+<div class="line"><span class="lineno">  387</span>    <span class="comment">// Add new security level</span></div>
+<div class="line"><span class="lineno">  388</span>    <span class="keywordflow">if</span> (securityLevel)</div>
+<div class="line"><span class="lineno">  389</span>    {</div>
+<div class="line"><span class="lineno">  390</span>        <a class="code hl_class" href="../../d7/d0f/classPreparedStatement.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbab78206ae90c76a8102815a7d671b6797">LOGIN_INS_ACCOUNT_ACCESS</a>);</div>
+<div class="line"><span class="lineno">  391</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno">  392</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, securityLevel);</div>
+<div class="line"><span class="lineno">  393</span>        stmt-&gt;<a class="code hl_function" href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(2, realmId);</div>
+<div class="line"><span class="lineno">  394</span>        trans-&gt;Append(stmt);</div>
+<div class="line"><span class="lineno">  395</span>    }</div>
+<div class="line"><span class="lineno">  396</span> </div>
+<div class="line"><span class="lineno">  397</span>    <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.CommitTransaction(trans);</div>
+<div class="line"><span class="lineno">  398</span>}</div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb">LOGIN_DEL_ACCOUNT_ACCESS_BY_REALM</a></div><div class="ttdeci">@ LOGIN_DEL_ACCOUNT_ACCESS_BY_REALM</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:81</div></div>
 <div class="ttc" id="aLoginDatabase_8h_html_a2bc6eef17d8ecd1b7027058f5fecc9fbab78206ae90c76a8102815a7d671b6797"><div class="ttname"><a href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbab78206ae90c76a8102815a7d671b6797">LOGIN_INS_ACCOUNT_ACCESS</a></div><div class="ttdeci">@ LOGIN_INS_ACCOUNT_ACCESS</div><div class="ttdef"><b>Definition</b> LoginDatabase.h:82</div></div>
 </div><!-- fragment -->
@@ -1673,7 +1676,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00534">AddDefaultPermissionForTest()</a>, <a class="el" href="../../#l00510">ClearRBAC()</a>, <a class="el" href="../../#l00504">GetRBACDefaultPermissions()</a>, and <a class="el" href="../../#l00397">LoadRBAC()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00537">AddDefaultPermissionForTest()</a>, <a class="el" href="../../#l00513">ClearRBAC()</a>, <a class="el" href="../../#l00507">GetRBACDefaultPermissions()</a>, and <a class="el" href="../../#l00400">LoadRBAC()</a>.</p>
 
 </div>
 </div>
@@ -1697,7 +1700,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00527">AddLinkedPermissionForTest()</a>, <a class="el" href="../../#l00519">AddPermissionForTest()</a>, <a class="el" href="../../#l00510">ClearRBAC()</a>, <a class="el" href="../../#l00494">GetRBACPermission()</a>, and <a class="el" href="../../#l00397">LoadRBAC()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00530">AddLinkedPermissionForTest()</a>, <a class="el" href="../../#l00522">AddPermissionForTest()</a>, <a class="el" href="../../#l00513">ClearRBAC()</a>, <a class="el" href="../../#l00497">GetRBACPermission()</a>, and <a class="el" href="../../#l00400">LoadRBAC()</a>.</p>
 
 </div>
 </div>
@@ -1711,7 +1714,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d72/classAccountMgr.html">AccountMgr</a></li>
-    <li class="footer">Generated on Sat Oct 17 2026 10:03:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 18 2026 10:15:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

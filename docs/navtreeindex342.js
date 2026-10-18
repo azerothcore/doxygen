@@ -1,5 +1,12 @@
 var NAVTREEINDEX342 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[8,0,0,0,1,3,2,11,6,7],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f":[8,0,0,0,1,3,2,11,6,7,5],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8":[8,0,0,0,1,3,2,11,6,7,6],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3":[8,0,0,0,1,3,2,11,6,7,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b":[8,0,0,0,1,3,2,11,6,7,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b":[8,0,0,0,1,3,2,11,6,7,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222":[8,0,0,0,1,3,2,11,6,7,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b":[8,0,0,0,1,3,2,11,6,7,7],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d":[8,0,0,0,1,3,2,11,6,7,4],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[8,0,0,0,1,3,2,11,6,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX342 =
 "dc/df2/classspellinfo__commandscript.html#a08e8b880e6e588b02b93ed3f475392d7":[7,0,4493,6],
 "dc/df2/classspellinfo__commandscript.html#a1c529354ea7dc057e6a81b87ee15537b":[7,0,4493,4],
 "dc/df2/classspellinfo__commandscript.html#a1d6b177623b8fb66ea44e88282fc1052":[7,0,4493,18],
-"dc/df2/classspellinfo__commandscript.html#a30a9e357013fa80eb026f16ceec25dfd":[7,0,4493,7],
-"dc/df2/classspellinfo__commandscript.html#a3534b8dd1f8d9686ec27b77a04b7bb29":[7,0,4493,10],
-"dc/df2/classspellinfo__commandscript.html#a3f35730886a826735b63b76611eca844":[7,0,4493,12],
-"dc/df2/classspellinfo__commandscript.html#a407c9a6e657f97cd0ba0a4413de88c0c":[7,0,4493,9],
-"dc/df2/classspellinfo__commandscript.html#a5e6cbdb2d1487735dbb5920a1c9506ef":[7,0,4493,14],
-"dc/df2/classspellinfo__commandscript.html#a5f46de9c615591c37d9dec1b0e8526f9":[7,0,4493,5],
-"dc/df2/classspellinfo__commandscript.html#a6b741727a02b26c0b15ce23e72a0a37d":[7,0,4493,13],
-"dc/df2/classspellinfo__commandscript.html#a71fa4c95c21c3f89395756e5e7be5386":[7,0,4493,1]
+"dc/df2/classspellinfo__commandscript.html#a30a9e357013fa80eb026f16ceec25dfd":[7,0,4493,7]
 };

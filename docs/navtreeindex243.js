@@ -1,5 +1,8 @@
 var NAVTREEINDEX243 =
 {
+"d8/ded/classspell__dru__eclipse.html":[7,0,2908],
+"d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3":[7,0,2908,0],
+"d8/ded/classspell__dru__eclipse.html#a43cc9387ce5b1665147dcfecb1476c22":[7,0,2908,3],
 "d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4":[7,0,2908,6],
 "d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3":[7,0,2908,1],
 "d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2":[7,0,2908,5],
@@ -228,12 +231,12 @@ var NAVTREEINDEX243 =
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[7,0,2387,1],
 "d8/dfc/CreatureAIRegistry_8h.html":[8,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[8,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[5,0,0,123],
 "d8/dfc/structAcore_1_1unary__function.html":[7,0,0,111],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
+"d8/dfc/structAcore_1_1unary__function.html":[5,0,0,123],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[7,0,0,111,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,0,123,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[7,0,0,111,0],
+"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,0,123,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[7,0,558,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a03d67054baa87389d619f7a661c7d650":[7,0,558,0,14],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[7,0,558,0,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX243 =
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab40b1bb5338fab72aa23f650925d5ed0":[7,0,558,0,1],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ab9f08e2f505368869063093f531f8794":[7,0,558,0,11],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ace7b1c523d1845eabe1806fbf75453aa":[7,0,558,0,9],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ae29d8fc7d1ad3e57785c1c31ec73fa86":[7,0,558,0,4],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ae3df64882f344dddc1480574d078e9a0":[7,0,558,0,2],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#aebb7d901669fe987e805e0dfcfe9993a":[7,0,558,0,10],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#afeebf7a1039b3eed4b351e88751818b5":[7,0,558,0,3]
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#ae29d8fc7d1ad3e57785c1c31ec73fa86":[7,0,558,0,4]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX296 =
 {
+"db/d4e/boss__ossirian_8cpp.html#a250372292659bed7ae290d8621f88ccfabe9697b88f8a315d3fa35240283b2897":[8,0,0,0,1,3,4,8,4,6,0],
+"db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,8,4,9],
+"db/d4e/boss__ossirian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6e9ad9b4da35ddb2c277c0f133c846c0":[8,0,0,0,1,3,4,8,4,9,0],
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,8,4,10],
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca0990e77dc4c2e45052288cf86c835736":[8,0,0,0,1,3,4,8,4,10,9],
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b42550e7426e596947b6cdb746c85d8":[8,0,0,0,1,3,4,8,4,10,0],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca3715553b8462d0361c06b8ba180f81f4":[8,0,0,0,1,3,4,8,4,10,11],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6450643edf8ddc355d8caf5603eb3cf5":[8,0,0,0,1,3,4,8,4,10,3],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a45310b58847615860efd30b51df72b":[8,0,0,0,1,3,4,8,4,10,6],
@@ -129,8 +135,8 @@ var NAVTREEINDEX296 =
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3228],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[7,0,3228,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[7,0,3228,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX296 =
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#a9884081855fc45776a6b12b9a68890e4":[7,0,1228,0,5],
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#aa545ba4659b288c1ce1f5c2332d5e61f":[7,0,1228,0,2],
 "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#ab4903827c78b1b042cc17aef661a0b4f":[7,0,1228,0,3],
-"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#af6d4f5c3fe822815f58665a0207e3c32":[7,0,1228,0,4],
-"db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html":[7,0,2020,0],
-"db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a18fbc44ad760a69d952d003622ec75b2":[7,0,2020,0,1],
-"db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a272067bef6dbab24024f7de990c10b64":[7,0,2020,0,2],
-"db/d55/structnpc__mindless__ghoul_1_1npc__mindless__ghoulAI.html#a4cc0dbd4aa2366115348bc1db273a5e2":[7,0,2020,0,0],
-"db/d56/IntegrationTestFixture_8h.html":[8,0,0,0,2,1,3],
-"db/d56/IntegrationTestFixture_8h.html#a2ba0fc21bd7fc2eb0be55b83f098c883":[8,0,0,0,2,1,3,1]
+"db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html#af6d4f5c3fe822815f58665a0207e3c32":[7,0,1228,0,4]
 };

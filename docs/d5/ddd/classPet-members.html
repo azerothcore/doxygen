@@ -356,7 +356,7 @@ $(document).ready(function(){initNavTree('df/d14/classPet.html','../../'); initR
   <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a3fc13158f07e653acbf26ac015e9c248">ClearComboPoints</a>()</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#adf42d212c714cce2decc0c8f81640d5d">ClearDiminishings</a>()</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#af550e02d197cc45dfe695c62ae4670b2">ClearEmoteState</a>()</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#ac6ea5145f71b2ad7dcdeed4db0c83a33">ClearInCombat</a>()</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a7c6ec626e0a715eed691e2321cc05f81">ClearInCombat</a>(bool keepPvPForOthers=false)</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a8f288d694ce1fd9f27c7815c8a608767">ClearInPetCombat</a>()</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="../../db/dd5/classCreature.html#ab1a73e378f1a219e03392a5c5b327b6f">ClearLastLeashExtensionTimePtr</a>()</td><td class="entry"><a class="el" href="../../db/dd5/classCreature.html">Creature</a></td><td class="entry"></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="../../db/dd5/classCreature.html#a13a6ac23abdb6ba82fc8f6814aa1ae19">ClearProhibitedSpellTimers</a>()</td><td class="entry"><a class="el" href="../../db/dd5/classCreature.html">Creature</a></td><td class="entry"></td></tr>
@@ -365,7 +365,7 @@ $(document).ready(function(){initNavTree('df/d14/classPet.html','../../'); initR
   <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(uint32 f)</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="../../d8/d4b/classObject.html#a8a75ada284806c5ee19fd53a48ba6924">ClearUpdateMask</a>(bool remove)</td><td class="entry"><a class="el" href="../../d8/d4b/classObject.html">Object</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="../../d4/dd0/classWorldObject.html#a3d373cd0c0cb072f225ef4ed79cf5095">ClearZoneScript</a>()</td><td class="entry"><a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#ad89ee22808d70fd4595cf0c1fe293447">CombatStop</a>(bool includingCast=false, bool mutualPvP=true)</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a82ad247d17192a0c22fecb12e7fee851">CombatStop</a>(bool includingCast=false, bool mutualPvP=true, bool keepPvPForOthers=false)</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#affc27e4d3a55fb4fd16b0c6e033e1941">CombatStopWithPets</a>(bool includingCast=false)</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a7d751ceb1b5cad66deb6134d906cefe8">ComboPointHolderSet</a> typedef</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="../../df/dd9/classUnit.html#a59c57336604d755173891e5dfea2ae77">ControlSet</a> typedef</td><td class="entry"><a class="el" href="../../df/dd9/classUnit.html">Unit</a></td><td class="entry"></td></tr>
@@ -1927,7 +1927,7 @@ $(document).ready(function(){initNavTree('df/d14/classPet.html','../../'); initR
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Oct 17 2026 10:03:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 18 2026 10:16:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

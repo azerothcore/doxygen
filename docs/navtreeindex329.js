@@ -1,5 +1,11 @@
 var NAVTREEINDEX329 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af73400da8f9556d8df0b8a82ac61dc2c":[5,0,28,6,255],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af749ba4e701b7f1a2f16ca00f41d89b2":[5,0,28,6,401],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af7aca810e76e7a82f10ebedcacc29d3f":[5,0,28,6,17],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af7dca466bd83a640bfea1bcbc47362aa":[5,0,28,6,486],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af809f4c1a0b6601b6472837d937409ff":[5,0,28,6,52],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af84c99dfbc5482fbf51da2a8dfc6d141":[5,0,28,6,128],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af86ac534f18bf7e50b407df4cee156ab":[5,0,28,6,61],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af8aaded41383c22cfb648cd2118a5d28":[5,0,28,6,511],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af8b79cbd6576b8a09893f2d95a702949":[5,0,28,6,139],
@@ -243,11 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d45/structnpc__ulduar__hodir__druid.html#a67884f16c32f849bc68d68256c19d21a":[7,0,2278,1],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a6cfefe7ccb156a658e8e2dad603b3fce":[7,0,2278,5],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a81b0f60596e63ec618a9a9e1d8bc6c9d":[7,0,2278,2],
-"dc/d45/structnpc__ulduar__hodir__druid.html#aa2e3e904c5f7fee4236a9395b95ef3e9":[7,0,2278,6],
-"dc/d45/structnpc__ulduar__hodir__druid.html#aac822cf4203af0e0173004ccc33abc21":[7,0,2278,0],
-"dc/d45/structnpc__ulduar__hodir__druid.html#abcd580306a3abb5663bbac33f68115eb":[7,0,2278,9],
-"dc/d45/structnpc__ulduar__hodir__druid.html#ac8bee382634e20a49178be8b224eca2d":[7,0,2278,7],
-"dc/d45/structnpc__ulduar__hodir__druid.html#add7048881ec8b0dd2c09e34813c7c353":[7,0,2278,10],
-"dc/d46/classspell__dru__moonkin__form__passive.html":[7,0,2928],
-"dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb":[7,0,2928,5]
+"dc/d45/structnpc__ulduar__hodir__druid.html#aa2e3e904c5f7fee4236a9395b95ef3e9":[7,0,2278,6]
 };

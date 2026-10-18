@@ -1,5 +1,8 @@
 var NAVTREEINDEX238 =
 {
+"d8/db8/boss__gothik_8cpp.html#a36dd2dcd82dce77b90fe66cd9862e5c9":[8,0,0,0,1,3,5,7,4,9],
+"d8/db8/boss__gothik_8cpp.html#a50ca23107e82069ed4f1ea9cd0fab890":[8,0,0,0,1,3,5,7,4,18],
+"d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,7,4,15],
 "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca0003f01b1bddea1320bae3be9a66073a":[8,0,0,0,1,3,5,7,4,15,20],
 "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca04a753f9853968682b9643fa1de110fd":[8,0,0,0,1,3,5,7,4,15,17],
 "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca473119a573e36d8c40a95a8f6b71d121":[8,0,0,0,1,3,5,7,4,15,5],
@@ -119,12 +122,12 @@ var NAVTREEINDEX238 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,0,41,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,0,41,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,41,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[7,0,0,29,3],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[7,0,0,29,1],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,41,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,0,41,1],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[7,0,0,29,5],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[7,0,0,29,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,0,41,5],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[7,0,0,29,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,0,41,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[7,0,0,29,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[7,0,0,29,6],
@@ -228,10 +231,10 @@ var NAVTREEINDEX238 =
 "d8/dbf/classspell__hallows__end__base__fire.html#a4321da69ee59416bd50e621b804e5423":[7,0,3226,1],
 "d8/dbf/classspell__hallows__end__base__fire.html#a956136be8cb484efc9af2429d8779a03":[7,0,3226,3],
 "d8/dbf/classspell__hallows__end__base__fire.html#ae2ce9c161a25385c6de1f4b7607c9935":[7,0,3226,0],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[7,0,0,5,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,0,8,0,10],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[7,0,0,5,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,0,8,0,10,0],
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
 "d8/dbf/structLFGDungeonEntry.html":[7,0,1455],
 "d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[7,0,1455,8],
 "d8/dbf/structLFGDungeonEntry.html#a2e6456d16cce98666b0ac63cebf0eb82":[7,0,1455,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX238 =
 "d8/dbf/structLFGDungeonEntry.html#aa4fbfd45d4319c9e8319508821bf4a65":[7,0,1455,7],
 "d8/dbf/structLFGDungeonEntry.html#aa85e97ced86b0d27c753ca924eba074b":[7,0,1455,1],
 "d8/dbf/structLFGDungeonEntry.html#ae0fdf0d9afd2f99e9b7e6094960e86e0":[7,0,1455,5],
-"d8/dbf/structLFGDungeonEntry.html#ae4a27f7bc0563f606f40d955a40fab1e":[7,0,1455,11],
-"d8/dc2/boss__halazzi_8cpp.html":[8,0,0,0,1,3,2,14,1],
-"d8/dc2/boss__halazzi_8cpp.html#a010d3293429f2ddb4d3c8a470ee2347f":[8,0,0,0,1,3,2,14,1,8],
-"d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,2,14,1,1]
+"d8/dbf/structLFGDungeonEntry.html#ae4a27f7bc0563f606f40d955a40fab1e":[7,0,1455,11]
 };

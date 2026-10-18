@@ -1,5 +1,8 @@
 var NAVTREEINDEX168 =
 {
+"d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3219,0],
+"d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[7,0,3219,2],
+"d5/de3/classspell__item__totem__of__flowing__water.html":[7,0,3527],
 "d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3527,0],
 "d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3527,3],
 "d5/de3/classspell__item__totem__of__flowing__water.html#ad3e4a18ce21270eede17e29faa7dd897":[7,0,3527,2],
@@ -236,18 +239,15 @@ var NAVTREEINDEX168 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[8,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[8,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[7,0,13,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1011],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1011,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1011,9],
 "d5/def/classdeserter__commandscript.html#a3197e5228284ba50da7f3a31b3e76060":[7,0,1011,7],
-"d5/def/classdeserter__commandscript.html#a419d404315e91b6cac1bfd3ac225a8fd":[7,0,1011,5],
-"d5/def/classdeserter__commandscript.html#a6274f79b9884586069f94137b44d89e9":[7,0,1011,10],
-"d5/def/classdeserter__commandscript.html#a9bf4e146ef0f4f0cb2508c4953f8a647":[7,0,1011,4],
-"d5/def/classdeserter__commandscript.html#aabd2b23e2dc61fac10890077b41d8179":[7,0,1011,6]
+"d5/def/classdeserter__commandscript.html#a419d404315e91b6cac1bfd3ac225a8fd":[7,0,1011,5]
 };

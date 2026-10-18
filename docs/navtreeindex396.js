@@ -1,5 +1,13 @@
 var NAVTREEINDEX396 =
 {
+"de/da1/structnpc__ulduar__flames__spread.html":[7,0,2276],
+"de/da1/structnpc__ulduar__flames__spread.html#aea2856e8ea84dfb447017a4d8b2ab088":[7,0,2276,0],
+"de/da1/structnpc__ulduar__flames__spread.html#af8cad4be1736f377721b7a0a63cfafe7":[7,0,2276,1],
+"de/da2/classachievement__resilient__victory.html":[7,0,92],
+"de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[7,0,92,1],
+"de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[7,0,92,0],
+"de/da2/classnpc__maxx__a__million__escort.html":[7,0,2008],
+"de/da2/classnpc__maxx__a__million__escort.html#a958a88b495594dd8e14919d950ac917a":[7,0,2008,1],
 "de/da2/classnpc__maxx__a__million__escort.html#aa9a3c655ed09b1264afd8e9ca6965bf5":[7,0,2008,3],
 "de/da2/classnpc__maxx__a__million__escort.html#af79619087908d442f503e0b0d633937d":[7,0,2008,2],
 "de/da2/classspell__gen__reduced__above__60__aura.html":[7,0,3141],
@@ -241,13 +249,5 @@ var NAVTREEINDEX396 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a825aaef48c162590d2e88950f97c0843":[8,0,0,0,1,1,0,0,1,1,37],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83037721850705de499b535fef266b74":[8,0,0,0,1,1,0,0,1,1,280],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a830f0c29c0efd7ac5fc390363d45349f":[8,0,0,0,1,1,0,0,1,1,179],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88":[8,0,0,0,1,1,0,0,1,1,191],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8377ca7314cdb7cb1a18a231563f460f":[8,0,0,0,1,1,0,0,1,1,238],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f0ff512aa13dafb1f4c2e6fe010b1c":[8,0,0,0,1,1,0,0,1,1,114],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f8506a23a2c0e4c1244adc55d007db":[8,0,0,0,1,1,0,0,1,1,377],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83fb236ecb51d9a8c4061297c252a11b":[8,0,0,0,1,1,0,0,1,1,398],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a84236818ce5533e977f917c764050cf5":[8,0,0,0,1,1,0,0,1,1,167],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8497edff6c43f2fafe02867e7b97479b":[8,0,0,0,1,1,0,0,1,1,31],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a854d1f745aa18ff113e63698e14421e2":[8,0,0,0,1,1,0,0,1,1,233],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8":[8,0,0,0,1,1,0,0,1,1,140]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88":[8,0,0,0,1,1,0,0,1,1,191]
 };

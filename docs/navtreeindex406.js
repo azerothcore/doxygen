@@ -1,5 +1,13 @@
 var NAVTREEINDEX406 =
 {
+"df/d13/blackrock__spire_8h.html#ad3bc9bdd2aa9c179fedc567b4ab2b7db":[8,0,0,0,1,3,2,1,1,0,0],
+"df/d13/blackrock__spire_8h.html#af34c80ed07e23d3f7de50ee8405c8fb1":[8,0,0,0,1,3,2,1,1,0,9],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909e":[8,0,0,0,1,3,2,1,1,0,7],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea06d81f35888a943a617157a2b9e2f3f1":[8,0,0,0,1,3,2,1,1,0,7,12],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea12dd38492f69df5bb39c8d49d505f60f":[8,0,0,0,1,3,2,1,1,0,7,14],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea1bc6f98a25e8469c1eb73e8dfebe0124":[8,0,0,0,1,3,2,1,1,0,7,4],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea1cac113c478b3f9a8c5047e19dd93681":[8,0,0,0,1,3,2,1,1,0,7,9],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea2dd61fad0cece41f3fe62edb95b9c42b":[8,0,0,0,1,3,2,1,1,0,7,18],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea336143c515d3015f8438a011d0e70de8":[8,0,0,0,1,3,2,1,1,0,7,22],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4853605fa0ecae40d7276581389a094f":[8,0,0,0,1,3,2,1,1,0,7,27],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea4b10c456b91a7ada46b3805c8d1064cf":[8,0,0,0,1,3,2,1,1,0,7,1],
@@ -202,8 +210,8 @@ var NAVTREEINDEX406 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,34,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[7,0,13,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,34,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[7,0,13,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,34,2,4,3],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[7,0,13,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[7,0,13,2,4,2],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,34,2,4,2],
 "df/d14/classspell__item__heartpierce.html":[7,0,3444],
@@ -241,13 +249,5 @@ var NAVTREEINDEX406 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[8,0,0,0,1,2,16,8,1,4],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[8,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[8,0,0,0,1,2,16,8,1,4,1],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[7,0,13,6,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,34,6,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[7,0,13,6,17,2],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,34,6,17,2],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[7,0,13,6,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,34,6,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[7,0,13,6,17,1],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,34,6,17,1],
-"df/d17/classGameObjectModelOwnerBase.html":[7,0,1125]
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,34,6,17]
 };

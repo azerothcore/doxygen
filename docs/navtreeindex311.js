@@ -1,5 +1,11 @@
 var NAVTREEINDEX311 =
 {
+"db/dce/classAura.html#a4fa5d8d87bc541de829673052a3cfeda":[7,0,290,119],
+"db/dce/classAura.html#a5041a8d07612a0ddf3bc2b944e14c9ad":[7,0,290,72],
+"db/dce/classAura.html#a505acbe544ed06762030bbd3f2a02f7c":[7,0,290,73],
+"db/dce/classAura.html#a507acdaa5041d3faa9a804e49c29264e":[7,0,290,18],
+"db/dce/classAura.html#a51d9e2f08034d14c95ab54045d6860a1":[7,0,290,97],
+"db/dce/classAura.html#a52fbcc7d7f48d46bed2873889640e6d3":[7,0,290,100],
 "db/dce/classAura.html#a531e55e5244cd6d23b8a72e8412ab92f":[7,0,290,48],
 "db/dce/classAura.html#a54447127bfb738f6722d3f6feddfc168":[7,0,290,70],
 "db/dce/classAura.html#a57e2b3e168293383aa8edb878b5c86f6":[7,0,290,142],
@@ -113,14 +119,14 @@ var NAVTREEINDEX311 =
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html#a63bc85e32a1478d03b381c61a33d0dff":[7,0,3089,0],
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html#a820e8b506de36a24411ae4a1c5930417":[7,0,3089,2],
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html#adae41617f38a71ccec183f419d677cfd":[7,0,3089,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[5,0,34,7,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[7,0,13,7,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[5,0,34,7,1,1],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[5,0,34,7,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[7,0,13,7,1,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,34,7,1,2],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[5,0,34,7,1,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[7,0,13,7,1,2],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[7,0,13,7,1,0],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,34,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[5,0,34,7,1,0],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[7,0,13,7,1,0],
 "db/dd3/icecrown__citadel_8cpp.html":[8,0,0,0,1,3,5,6,12],
 "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1":[8,0,0,0,1,3,5,6,12,98],
 "db/dd3/icecrown__citadel_8cpp.html#a007f05bc51663f30a678c29f1e7e37c1a7848731b6974c0db7408c2b2ed70bb92":[8,0,0,0,1,3,5,6,12,98,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX311 =
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a31537353ca73b6d9f371ffd702525fce":[8,0,0,0,1,3,5,6,12,100,20],
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a329b48a867f827383b0453731c2bf1db":[8,0,0,0,1,3,5,6,12,100,0],
 "db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a32ab74203c9bccebaf203803a9300f8e":[8,0,0,0,1,3,5,6,12,100,16],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a3e6e704cd3d57b67877d12ed16d9f5c0":[8,0,0,0,1,3,5,6,12,100,35],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a405ce53c93d56ea3e7a9d84c5471535a":[8,0,0,0,1,3,5,6,12,100,12],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a42354d95db2997b4c136f3b1762fe6ff":[8,0,0,0,1,3,5,6,12,100,15],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a47c3d60570bc07d8a9889aa5b02d5488":[8,0,0,0,1,3,5,6,12,100,41],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a4e992fe0f8f5ecfc6476edb1e36a7ef2":[8,0,0,0,1,3,5,6,12,100,4],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a512460e57383a38b656e3a291a4209f5":[8,0,0,0,1,3,5,6,12,100,27],
-"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a53368c30b3fa0936118557e0f8c61094":[8,0,0,0,1,3,5,6,12,100,42]
+"db/dd3/icecrown__citadel_8cpp.html#a914d2da0ec9f0e22cd5e400bc1f968b8a3e6e704cd3d57b67877d12ed16d9f5c0":[8,0,0,0,1,3,5,6,12,100,35]
 };

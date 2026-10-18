@@ -476,7 +476,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aclassCorpse_html"><div class="ttname"><a href="../../d3/dc4/classCorpse.html">Corpse</a></div><div class="ttdef"><b>Definition</b> Corpse.h:49</div></div>
 <div class="ttc" id="aclassDynamicObject_html"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html">DynamicObject</a></div><div class="ttdef"><b>Definition</b> DynamicObject.h:35</div></div>
 <div class="ttc" id="aclassGameObject_html"><div class="ttname"><a href="../../de/d1c/classGameObject.html">GameObject</a></div><div class="ttdef"><b>Definition</b> GameObject.h:125</div></div>
-<div class="ttc" id="aclassGroup_html"><div class="ttname"><a href="../../d0/db7/classGroup.html">Group</a></div><div class="ttdef"><b>Definition</b> Group.h:177</div></div>
+<div class="ttc" id="aclassGroup_html"><div class="ttname"><a href="../../d0/db7/classGroup.html">Group</a></div><div class="ttdef"><b>Definition</b> Group.h:178</div></div>
 <div class="ttc" id="aclassItem_html"><div class="ttname"><a href="../../d0/dae/classItem.html">Item</a></div><div class="ttdef"><b>Definition</b> Item.h:220</div></div>
 <div class="ttc" id="aclassPet_html"><div class="ttname"><a href="../../df/d14/classPet.html">Pet</a></div><div class="ttdef"><b>Definition</b> Pet.h:41</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1086</div></div>
@@ -599,10 +599,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    buf &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(guid.GetRawValue());</div>
-<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   74</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
+<div class="line"><span class="lineno">   73</span>    buf &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(guid.GetRawValue());</div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">return</span> buf;</div>
+<div class="line"><span class="lineno">   75</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetRawValue()</a>.</p>
@@ -636,10 +636,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
-<div class="line"><span class="lineno">   84</span>    buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(guid._packedGuid);</div>
-<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   86</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
+<div class="line"><span class="lineno">   85</span>    buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(guid._packedGuid);</div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">return</span> buf;</div>
+<div class="line"><span class="lineno">   87</span>}</div>
 <div class="ttc" id="aclassByteBuffer_html_a5811e6da355e8c3d0f45997a557a666b"><div class="ttname"><a href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">ByteBuffer::append</a></div><div class="ttdeci">void append(T value)</div><div class="ttdef"><b>Definition</b> ByteBuffer.h:129</div></div>
 </div><!-- fragment -->
 </div>
@@ -669,10 +669,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    guid.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#afab3484e1af821859f16b7bdacf2af9c">read</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;());</div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   80</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
+<div class="line"><span class="lineno">   79</span>    guid.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#afab3484e1af821859f16b7bdacf2af9c">read</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;());</div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">return</span> buf;</div>
+<div class="line"><span class="lineno">   81</span>}</div>
 <div class="ttc" id="aclassByteBuffer_html_afab3484e1af821859f16b7bdacf2af9c"><div class="ttname"><a href="../../da/d07/classByteBuffer.html#afab3484e1af821859f16b7bdacf2af9c">ByteBuffer::read</a></div><div class="ttdeci">T read()</div><div class="ttdef"><b>Definition</b> ByteBuffer.h:351</div></div>
 <div class="ttc" id="aclassObjectGuid_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:140</div></div>
 </div><!-- fragment -->
@@ -705,10 +705,10 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
-<div class="line"><span class="lineno">   90</span>    buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#ad04535f80c6d32211f3b377ca8c32e68">readPackGUID</a>(<span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&amp;<span class="keyword">&gt;</span>(guid.Guid));</div>
-<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   92</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
+<div class="line"><span class="lineno">   91</span>    buf.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#ad04535f80c6d32211f3b377ca8c32e68">readPackGUID</a>(<span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&amp;<span class="keyword">&gt;</span>(guid.Guid));</div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">return</span> buf;</div>
+<div class="line"><span class="lineno">   93</span>}</div>
 <div class="ttc" id="aclassByteBuffer_html_ad04535f80c6d32211f3b377ca8c32e68"><div class="ttname"><a href="../../da/d07/classByteBuffer.html#ad04535f80c6d32211f3b377ca8c32e68">ByteBuffer::readPackGUID</a></div><div class="ttdeci">void readPackGUID(uint64 &amp;guid)</div><div class="ttdef"><b>Definition</b> ByteBuffer.h:387</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00117">PackedGuidReader::Guid</a>, and <a class="el" href="../../#l00387">ByteBuffer::readPackGUID()</a>.</p>
@@ -746,7 +746,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../dc/dc9/ObjectGuid_8h.html">ObjectGuid.h</a></li>
-    <li class="footer">Generated on Sat Oct 17 2026 10:03:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 18 2026 10:15:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

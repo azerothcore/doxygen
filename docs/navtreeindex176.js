@@ -1,5 +1,8 @@
 var NAVTREEINDEX176 =
 {
+"d6/d22/structnpc__ulduar__icicle.html#ac5f024031a70b4ca04ecc0a96fcbdcae":[7,0,2282,0],
+"d6/d22/structnpc__ulduar__icicle.html#ae277d302131abd17cef018872b12da06":[7,0,2282,2],
+"d6/d23/classspell__amanitar__remove__mushroom__power.html":[7,0,2666],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac8349deb2e9c8861194e80132bd72fc5":[7,0,2666,1],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac83962bef84b68cef6d7937769730598":[7,0,2666,2],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#aee4d5908035d06be2f1469a50db02e26":[7,0,2666,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d2a/classinstance__wailing__caverns.html":[7,0,1398],
 "d6/d2a/classinstance__wailing__caverns.html#a0f1020e86443d6902b3c4d8726f3e610":[7,0,1398,2],
 "d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[7,0,1398,1],
-"d6/d2a/classspell__sha__item__lightning__shield.html":[7,0,4129],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[7,0,4129,2],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[7,0,4129,3],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[7,0,4129,0]
+"d6/d2a/classspell__sha__item__lightning__shield.html":[7,0,4129]
 };

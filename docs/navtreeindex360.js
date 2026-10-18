@@ -1,5 +1,12 @@
 var NAVTREEINDEX360 =
 {
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a16774215bba3b38580ea51987d64cff1a83017b690e83ffdaa3d328097dd675cd":[8,0,0,0,1,3,7,5,1,3,1,5],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a16774215bba3b38580ea51987d64cff1a951a0ba36ab0927f8735741a47ac1582":[8,0,0,0,1,3,7,5,1,3,1,3],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a16774215bba3b38580ea51987d64cff1ad6bd9f4bec8ceb0428d24f901b54f366":[8,0,0,0,1,3,7,5,1,3,1,4],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a16774215bba3b38580ea51987d64cff1af5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,5,1,3,1,8],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,1,3,2],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[8,0,0,0,1,3,7,5,1,3,2,2],
+"dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e89b71161222e725b57fce4f50e0ef4":[8,0,0,0,1,3,7,5,1,3,2,1],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bb3f7214745b5e9789671b55bd90ee":[8,0,0,0,1,3,7,5,1,3,2,0],
 "dd/dba/boss__thorngrin__the__tender_8cpp.html#adad310e84d622e1ea0240e0958bf5826":[8,0,0,0,1,3,7,5,1,3,3],
 "dd/dba/classspell__the__lich__king__valkyr__target__search.html":[7,0,4274],
@@ -23,12 +30,12 @@ var NAVTREEINDEX360 =
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4417],
 "dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[7,0,4417,3],
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[7,0,4417,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29aefd545bb8d3428bf079ee5ffc395b4bb":[8,0,0,0,1,3,5,9,2,10,26,21],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29af595a8f3fca0f639d1d6da643d89a916":[8,0,0,0,1,3,5,9,2,10,26,18],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29af6cc8585af50f22cf19744d8eccb8882":[8,0,0,0,1,3,5,9,2,10,26,12],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29af88ebedcc9ee2bd81c0be4250921648e":[8,0,0,0,1,3,5,9,2,10,26,15],
-"dd/dca/boss__razorscale_8cpp.html#a3cdb0264fd71f75a9452c5fe2133ac17":[8,0,0,0,1,3,5,9,2,10,30],
-"dd/dca/boss__razorscale_8cpp.html#a3ecde078a9eef7c83c505ff6a29b6fb2":[8,0,0,0,1,3,5,9,2,10,35],
-"dd/dca/boss__razorscale_8cpp.html#a46da4422741f7049737d64d582d055a4":[8,0,0,0,1,3,5,9,2,10,34],
-"dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4":[8,0,0,0,1,3,5,9,2,10,21],
-"dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb":[8,0,0,0,1,3,5,9,2,10,21,10],
-"dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a3244615725d2cbf33279327d359ba995":[8,0,0,0,1,3,5,9,2,10,21,2],
-"dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35543f9f359de7e649d87c39068cbbda":[8,0,0,0,1,3,5,9,2,10,21,8]
+"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29af88ebedcc9ee2bd81c0be4250921648e":[8,0,0,0,1,3,5,9,2,10,26,15]
 };

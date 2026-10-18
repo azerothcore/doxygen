@@ -1,5 +1,7 @@
 var NAVTREEINDEX139 =
 {
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#ab8105d6c8c70037c208c83c13c35242d":[7,0,1831,0,4],
+"d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#ad70d0aeba4b73330c5087bc84a533389":[7,0,1831,0,0],
 "d4/d9e/structnpc__ferocious__rhino_1_1npc__ferocious__rhinoAI.html#af23061de7d8566c7435c2c64c53dff89":[7,0,1831,0,8],
 "d4/d9e/structnpc__risen__guardian_1_1npc__risen__guardianAI.html":[7,0,2147,0],
 "d4/d9e/structnpc__risen__guardian_1_1npc__risen__guardianAI.html#a50eb3de52205fc1bbc6936f0708c68a6":[7,0,2147,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX139 =
 "d4/da8/SpellProcDataDrivenTest_8cpp.html#a03034fc12b64bd4c50f7617855062eb2":[8,0,0,0,2,2,0,10,17,5],
 "d4/da8/SpellProcDataDrivenTest_8cpp.html#a0b5b8d274c47bc86db574620f695c2b6":[8,0,0,0,2,2,0,10,17,2],
 "d4/da8/SpellProcDataDrivenTest_8cpp.html#a0e7a4faf11231646940f63c7df7a8e65":[8,0,0,0,2,2,0,10,17,17],
-"d4/da8/SpellProcDataDrivenTest_8cpp.html#a1301638ea7b5194b1a8a10b150daa695":[8,0,0,0,2,2,0,10,17,18],
-"d4/da8/SpellProcDataDrivenTest_8cpp.html#a29570fd862ac0b1cb7e8598a63cf9cb3":[8,0,0,0,2,2,0,10,17,10],
-"d4/da8/SpellProcDataDrivenTest_8cpp.html#a3af47a3780558b73350c1d46d609de77":[8,0,0,0,2,2,0,10,17,16]
+"d4/da8/SpellProcDataDrivenTest_8cpp.html#a1301638ea7b5194b1a8a10b150daa695":[8,0,0,0,2,2,0,10,17,18]
 };

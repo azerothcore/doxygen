@@ -1,5 +1,13 @@
 var NAVTREEINDEX400 =
 {
+"de/db0/classspell__warl__siphon__life.html#afcda3b112699e108e2db6270836fce1b":[7,0,4377,0],
+"de/db1/WhoListCacheMgr_8cpp.html":[8,0,0,0,1,2,9,2],
+"de/db1/classRaceMgr.html":[7,0,2532],
+"de/db1/classRaceMgr.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a":[7,0,2532,5],
+"de/db1/classRaceMgr.html#a0ddd9c8393001fc41b14dd95eece8400":[7,0,2532,12],
+"de/db1/classRaceMgr.html#a3789528cb72e6f837633b8f3692ea36b":[7,0,2532,8],
+"de/db1/classRaceMgr.html#a3abfe795c417bf794f3b38a23deac7a3":[7,0,2532,1],
+"de/db1/classRaceMgr.html#a3f27d5d4ae27c1ebe2462f35dbace85e":[7,0,2532,10],
 "de/db1/classRaceMgr.html#a5cf45d0a57727daee3432fca51479c32":[7,0,2532,4],
 "de/db1/classRaceMgr.html#a694fca25b429d99dad214ea277ade0c7":[7,0,2532,9],
 "de/db1/classRaceMgr.html#a6e8a0ba72a13d62321246cb4c11a6f4d":[7,0,2532,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX400 =
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,5,4,0,0,7,7],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,5,4,0,0,7,1],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0":[8,0,0,0,1,3,5,4,0,0,7,10],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac0c93648701099cc7bb94911ca117cb9":[8,0,0,0,1,3,5,4,0,0,7,8],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cad4e9598e401126e84132d489043d6ddd":[8,0,0,0,1,3,5,4,0,0,7,0],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cad53b6fe782be52b1713eb64b7213baee":[8,0,0,0,1,3,5,4,0,0,7,4],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cae766eb91aee711da9b99fec61235e237":[8,0,0,0,1,3,5,4,0,0,7,9],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,4,0,0,6],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d272c72d6327d9b395bce68d32114c0":[8,0,0,0,1,3,5,4,0,0,6,3],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a42a62d1683f7c1e5f1e356bcdd80f6d2":[8,0,0,0,1,3,5,4,0,0,6,2],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a49b64ec43e205ab38891e35d2785209e":[8,0,0,0,1,3,5,4,0,0,6,1],
-"de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[8,0,0,0,1,3,5,4,0,0,6,0]
+"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac0c93648701099cc7bb94911ca117cb9":[8,0,0,0,1,3,5,4,0,0,7,8]
 };

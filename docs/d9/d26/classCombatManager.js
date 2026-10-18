@@ -28,6 +28,7 @@ var classCombatManager =
     [ "operator=", "d9/d26/classCombatManager.html#a3c838838f71ab82be270a034e04f3ec6", null ],
     [ "PurgeReference", "d9/d26/classCombatManager.html#aefda9ea098ee0a996fddd075c000d150", null ],
     [ "PutReference", "d9/d26/classCombatManager.html#a25b35207543f3414489b14c7b742bf71", null ],
+    [ "RestartPvPCombatTimers", "d9/d26/classCombatManager.html#a15057e772dbbaf985a0d469a4a69d552", null ],
     [ "RevalidateCombat", "d9/d26/classCombatManager.html#a6b947cef286597b7f502a7f312f51f22", null ],
     [ "SetEvadeState", "d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d", null ],
     [ "SetInCombatWith", "d9/d26/classCombatManager.html#acf57a9b7bfc3a5c20eed269981843fe5", null ],

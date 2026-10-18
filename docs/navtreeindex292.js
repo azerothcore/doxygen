@@ -1,5 +1,11 @@
 var NAVTREEINDEX292 =
 {
+"db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a2f2be3025f2ba88bb5473cd7f3767323":[8,0,0,0,1,2,31,6,6,3],
+"db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2":[8,0,0,0,1,2,31,6,6,2],
+"db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f":[8,0,0,0,1,2,31,6,6,4],
+"db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece":[8,0,0,0,1,2,31,6,6,0],
+"db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255":[8,0,0,0,1,2,31,6,5],
+"db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf":[8,0,0,0,1,2,31,6,5,0],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233":[8,0,0,0,1,2,31,6,5,5],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062":[8,0,0,0,1,2,31,6,5,4],
 "db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51":[8,0,0,0,1,2,31,6,5,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX292 =
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html":[7,0,1898],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html#a96102a488330c54a3e3654c767e8e1a5":[7,0,1898,1],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[7,0,1898,2],
-"db/d1b/classspell__razorscale__flame__breath.html":[7,0,4027],
-"db/d1b/classspell__razorscale__flame__breath.html#a30c67c5c533add48412d6a9e1f6fc6b0":[7,0,4027,2],
-"db/d1b/classspell__razorscale__flame__breath.html#a324717ff0843627151dd23fe565a80ab":[7,0,4027,1],
-"db/d1b/classspell__razorscale__flame__breath.html#adbb57403c65e84ab217788ee3a9261b7":[7,0,4027,0],
-"db/d1b/classspell__shadowblink.html":[7,0,4163],
-"db/d1b/classspell__shadowblink.html#a2299a8b99013fb9f9c2b8e81cfc541cc":[7,0,4163,0],
-"db/d1b/classspell__shadowblink.html#a28fb28ca049b87dd76fddc3af222fd9c":[7,0,4163,2]
+"db/d1b/classspell__razorscale__flame__breath.html":[7,0,4027]
 };

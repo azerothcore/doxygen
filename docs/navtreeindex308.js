@@ -1,5 +1,11 @@
 var NAVTREEINDEX308 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a002ae32bd37624e20b770a04f8fe4c39":[8,0,0,0,1,3,10,14,63,0],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a191da2362c88a3fb0fa5406df01ceabb":[8,0,0,0,1,3,10,14,63,8],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a28f347139148d333813b383c21f18700":[8,0,0,0,1,3,10,14,63,5],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a332bd24028a7b3858c36accea36272f9":[8,0,0,0,1,3,10,14,63,7],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a5bdd228cfa902c9b1f1475ee67b3944f":[8,0,0,0,1,3,10,14,63,2],
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a68c843a7e99b8072f567c3540b243dfb":[8,0,0,0,1,3,10,14,63,4],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae551d6ab15875a7513a7f6f79c650f2c":[8,0,0,0,1,3,10,14,63,1],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae8e15077d2b7b473011aa4474d68fd13":[8,0,0,0,1,3,10,14,63,6],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[8,0,0,0,1,3,10,14,63,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX308 =
 "db/db4/SpellProcCooldownTest_8cpp.html#a64a32de59b301ddb3b2a8827bacd43cf":[8,0,0,0,2,2,0,10,16,9],
 "db/db4/SpellProcCooldownTest_8cpp.html#a877730b0890fd65b53503d867be13db2":[8,0,0,0,2,2,0,10,16,2],
 "db/db4/SpellProcCooldownTest_8cpp.html#a980784573aa4ae1d2fda4349c9290425":[8,0,0,0,2,2,0,10,16,11],
-"db/db4/SpellProcCooldownTest_8cpp.html#aa2595c13ca0ad6ce6afda0196d0c86ae":[8,0,0,0,2,2,0,10,16,7],
-"db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[8,0,0,0,2,2,0,10,16,1],
-"db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[8,0,0,0,2,2,0,10,16,6],
-"db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,10,16,8],
-"db/db4/classSQLQueryHolder.html":[7,0,4544],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4544,0],
-"db/db5/structboss__hydross__the__unstable.html":[7,0,557]
+"db/db4/SpellProcCooldownTest_8cpp.html#aa2595c13ca0ad6ce6afda0196d0c86ae":[8,0,0,0,2,2,0,10,16,7]
 };

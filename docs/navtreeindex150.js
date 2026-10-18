@@ -1,5 +1,8 @@
 var NAVTREEINDEX150 =
 {
+"d5/d26/SpellProcIntegrationTest_8cpp.html#a0f98e5578fccdc5fab8169c87314fd18":[8,0,0,0,2,2,0,10,22,7],
+"d5/d26/SpellProcIntegrationTest_8cpp.html#a10cac1e4cac41bbafe00d048a8d8317d":[8,0,0,0,2,2,0,10,22,15],
+"d5/d26/SpellProcIntegrationTest_8cpp.html#a2677d2b78a470299af367e337efabf5c":[8,0,0,0,2,2,0,10,22,1],
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a2d0f8c29b3a0c4ed2c46f8113d98ad44":[8,0,0,0,2,2,0,10,22,17],
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a33dda9a05f9035d8ecb4dd3958b3ca41":[8,0,0,0,2,2,0,10,22,20],
 "d5/d26/SpellProcIntegrationTest_8cpp.html#a4247fb6fa4c2d6498bc86e51d876dfd6":[8,0,0,0,2,2,0,10,22,27],
@@ -40,8 +43,8 @@ var NAVTREEINDEX150 =
 "d5/d26/structnpc__obsidian__eradicator.html#a84a6c414b3d74468143984e57f83e383":[7,0,2048,0],
 "d5/d26/structnpc__obsidian__eradicator.html#ab03b7138306a04a00938bf1cdb9a7966":[7,0,2048,1],
 "d5/d26/structnpc__obsidian__eradicator.html#abd83775d1eab5ab2a3aadd7fd925c3ae":[7,0,2048,4],
-"d5/d27/classAcore_1_1Runnable.html":[7,0,0,106],
 "d5/d27/classAcore_1_1Runnable.html":[5,0,0,118],
+"d5/d27/classAcore_1_1Runnable.html":[7,0,0,106],
 "d5/d27/classAcore_1_1Runnable.html#a062323e141fa33ae094adbef16caf3d6":[7,0,0,106,2],
 "d5/d27/classAcore_1_1Runnable.html#a062323e141fa33ae094adbef16caf3d6":[5,0,0,118,2],
 "d5/d27/classAcore_1_1Runnable.html#a69bf63c7f684de6e278de0468ed8fa06":[5,0,0,118,1],
@@ -85,14 +88,14 @@ var NAVTREEINDEX150 =
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html":[7,0,0,31],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#a8335ef8fd7376e7c920dfbca2318d646":[5,0,0,43,4],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#a8335ef8fd7376e7c920dfbca2318d646":[7,0,0,31,4],
-"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ac4378cfa8fedb3453c0e810d497cb99c":[7,0,0,31,0],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ac4378cfa8fedb3453c0e810d497cb99c":[5,0,0,43,0],
-"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ace766830b26d8aae3ec673d2102a9969":[7,0,0,31,2],
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ac4378cfa8fedb3453c0e810d497cb99c":[7,0,0,31,0],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ace766830b26d8aae3ec673d2102a9969":[5,0,0,43,2],
-"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ad9e3486316cf297ba79a588c60b4ce15":[7,0,0,31,1],
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ace766830b26d8aae3ec673d2102a9969":[7,0,0,31,2],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ad9e3486316cf297ba79a588c60b4ce15":[5,0,0,43,1],
-"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ae12f4176e49438cfa248345cfe7c9947":[7,0,0,31,3],
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ad9e3486316cf297ba79a588c60b4ce15":[7,0,0,31,1],
 "d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ae12f4176e49438cfa248345cfe7c9947":[5,0,0,43,3],
+"d5/d2a/classAcore_1_1AnyUnfriendlyNoTotemUnitInObjectRangeCheck.html#ae12f4176e49438cfa248345cfe7c9947":[7,0,0,31,3],
 "d5/d2a/classspell__valanar__kinetic__bomb.html":[7,0,4313],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a2c3d69419762c7f78688a22017a8c535":[7,0,4313,0],
 "d5/d2a/classspell__valanar__kinetic__bomb.html#a97c48254a0d7a0bd4bcf40f614bc5373":[7,0,4313,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX150 =
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a574676b78665bf468f42340e50e29268":[8,0,0,0,1,3,5,6,0,32,2],
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5d62121fc78e6a1cfc703c5caba40b23":[8,0,0,0,1,3,5,6,0,32,0],
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a757aad90f0210fd8008518ba73b24a56":[8,0,0,0,1,3,5,6,0,32,17],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a787b601861a070895f49ae6273ab1fcd":[8,0,0,0,1,3,5,6,0,32,12],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a87eb63bd2162010343c1b6dead6ad3a9":[8,0,0,0,1,3,5,6,0,32,3],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e37d624d9530d5cc128708778735899":[8,0,0,0,1,3,5,6,0,32,18],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9d0ea0862a438adc1d7d7a23296b30a2":[8,0,0,0,1,3,5,6,0,32,20]
+"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a787b601861a070895f49ae6273ab1fcd":[8,0,0,0,1,3,5,6,0,32,12]
 };

@@ -8,6 +8,7 @@ var classTestCreature =
     [ "InitializeThreatManager", "dc/d9f/classTestCreature.html#a1b7dc8fdaa7410f56fcb7c0c09c330cc", null ],
     [ "RemoveFromWorld", "dc/d9f/classTestCreature.html#aff159ed812267686dc40d8f040d246d5", null ],
     [ "SetAlive", "dc/d9f/classTestCreature.html#a50bbd14ac9f04f95fe2c4b993853b18c", null ],
+    [ "SetControlledByPlayer", "dc/d9f/classTestCreature.html#ad12f0c188f1a5acf70dc537c6f25bf01", null ],
     [ "SetFaction", "dc/d9f/classTestCreature.html#a58eeb63a554e2dbfbe34cc33559f8c3e", null ],
     [ "SetFriendlyFaction", "dc/d9f/classTestCreature.html#aa683a0c1dc1fdda74250f2e790350d93", null ],
     [ "SetHostileFaction", "dc/d9f/classTestCreature.html#aff2208e72cee6107d2d9f4dd293284e2", null ],

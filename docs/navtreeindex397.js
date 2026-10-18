@@ -1,5 +1,13 @@
 var NAVTREEINDEX397 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8377ca7314cdb7cb1a18a231563f460f":[8,0,0,0,1,1,0,0,1,1,238],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f0ff512aa13dafb1f4c2e6fe010b1c":[8,0,0,0,1,1,0,0,1,1,114],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f8506a23a2c0e4c1244adc55d007db":[8,0,0,0,1,1,0,0,1,1,377],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83fb236ecb51d9a8c4061297c252a11b":[8,0,0,0,1,1,0,0,1,1,398],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a84236818ce5533e977f917c764050cf5":[8,0,0,0,1,1,0,0,1,1,167],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8497edff6c43f2fafe02867e7b97479b":[8,0,0,0,1,1,0,0,1,1,31],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a854d1f745aa18ff113e63698e14421e2":[8,0,0,0,1,1,0,0,1,1,233],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8559d9ac84fac32ff03edf6c2dd865a8":[8,0,0,0,1,1,0,0,1,1,140],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a85a3f4d307725f1ca10691ea34aafb78":[8,0,0,0,1,1,0,0,1,1,472],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8647e748ac88d8863f6df22cc2a4ccb3":[8,0,0,0,1,1,0,0,1,1,402],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a868f093ec4ce5d1b93010f0dbf7080e7":[8,0,0,0,1,1,0,0,1,1,376],
@@ -241,13 +249,5 @@ var NAVTREEINDEX397 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afd4cbc5c1d9d4baf52da564ed5cf24c6":[8,0,0,0,1,1,0,0,1,1,85],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afd93cf5f7fbcfcac8e122cf922eb49e4":[8,0,0,0,1,1,0,0,1,1,76],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afd97a71f773cfe89c439819e24ddc9b2":[8,0,0,0,1,1,0,0,1,1,277],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afdb2fe0d56f207a354fd72e58d11753a":[8,0,0,0,1,1,0,0,1,1,315],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe534ff82e22ce6a60fcb6015067ca51":[8,0,0,0,1,1,0,0,1,1,32],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe5c728d9fe48a1e9911d5a6a388271e":[8,0,0,0,1,1,0,0,1,1,432],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe60b9a87596e77e25fc2c2ef0e10f87":[8,0,0,0,1,1,0,0,1,1,192],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02":[8,0,0,0,1,1,0,0,1,1,124],
-"de/da5/boss__quartermaster__zigris_8cpp.html":[8,0,0,0,1,3,2,1,1,9],
-"de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,1,9,2],
-"de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298ca13bb6f847a01b8a989be597f21d79b75":[8,0,0,0,1,3,2,1,1,9,2,2],
-"de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,1,1,9,2,0]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afdb2fe0d56f207a354fd72e58d11753a":[8,0,0,0,1,1,0,0,1,1,315]
 };

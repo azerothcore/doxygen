@@ -274,25 +274,34 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;ClusterModeEnabled())</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">if</span> (high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">HighGuid::Player</a>)</div>
-<div class="line"><span class="lineno">  106</span>        clusterGuid = <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>(<a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateCharacterGuid(realmId));</div>
-<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">HighGuid::Item</a>)</div>
-<div class="line"><span class="lineno">  108</span>        clusterGuid = <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>(<a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateItemGuid(realmId));</div>
-<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  113</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;ClusterModeEnabled())</div>
+<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> guid = 0;</div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">if</span> (high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">HighGuid::Player</a>)</div>
+<div class="line"><span class="lineno">  113</span>        guid = <a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateCharacterGuid(realmId);</div>
+<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">HighGuid::Item</a>)</div>
+<div class="line"><span class="lineno">  115</span>        guid = <a class="code hl_define" href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a>-&gt;GenerateItemGuid(realmId);</div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <span class="comment">// Checked before narrowing: a cluster guid past the uint32 range would otherwise wrap into used guids</span></div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (guid &gt;= <a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#ac69dc2d5462b778d2149c0df5ee7ea19">ObjectGuid::GetMaxCounter</a>(high) - 1)</div>
+<div class="line"><span class="lineno">  121</span>        <a class="code hl_function" href="../../d5/d89/classObjectGuidGeneratorBase.html#ada7a44ac47b112491c575c38465740fc">HandleCounterOverflow</a>(high);</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>    clusterGuid = <a class="code hl_typedef" href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>(guid);</div>
+<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  125</span>}</div>
+<div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 <div class="ttc" id="aObjectGuid_8h_html_abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234"><div class="ttname"><a href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">HighGuid::Player</a></div><div class="ttdeci">@ Player</div></div>
 <div class="ttc" id="aObjectGuid_8h_html_abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679"><div class="ttname"><a href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">HighGuid::Item</a></div><div class="ttdeci">@ Item</div></div>
 <div class="ttc" id="aTC9Sidecar_8h_html_a269ff175e81e59511267ed3605cb45cb"><div class="ttname"><a href="../../de/df6/TC9Sidecar_8h.html#a269ff175e81e59511267ed3605cb45cb">sToCloud9Sidecar</a></div><div class="ttdeci">#define sToCloud9Sidecar</div><div class="ttdef"><b>Definition</b> TC9Sidecar.h:81</div></div>
+<div class="ttc" id="aclassObjectGuidGeneratorBase_html_ada7a44ac47b112491c575c38465740fc"><div class="ttname"><a href="../../d5/d89/classObjectGuidGeneratorBase.html#ada7a44ac47b112491c575c38465740fc">ObjectGuidGeneratorBase::HandleCounterOverflow</a></div><div class="ttdeci">static void HandleCounterOverflow(HighGuid high)</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:95</div></div>
 <div class="ttc" id="aclassObjectGuid_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:125</div></div>
+<div class="ttc" id="aclassObjectGuid_html_ac69dc2d5462b778d2149c0df5ee7ea19"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#ac69dc2d5462b778d2149c0df5ee7ea19">ObjectGuid::GetMaxCounter</a></div><div class="ttdeci">ObjectGuid::LowType GetMaxCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:163</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">Item</a>, <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">Player</a>, and <a class="el" href="../../#l00081">sToCloud9Sidecar</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ObjectGuid::GetMaxCounter()</a>, <a class="el" href="../../#l00095">HandleCounterOverflow()</a>, <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">Item</a>, <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">Player</a>, and <a class="el" href="../../#l00081">sToCloud9Sidecar</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>.</p>
 
@@ -349,18 +358,24 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;entities.object&quot;</span>, <span class="stringliteral">&quot;{} guid overflow!! Can&#39;t continue, shutting down server. &quot;</span>, <a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a>(high));</div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_function" href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
-<div class="line"><span class="lineno">   98</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
+<div class="line"><span class="lineno">   97</span>    <span class="comment">// StopNow only flags the shutdown, so Generate would keep handing out wrapped guids until the world loop exits.</span></div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// For persisted guids those overwrite other rows on save (REPLACE INTO item_instance), so stop right here.</span></div>
+<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">if</span> (high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">HighGuid::Item</a> || high == <a class="code hl_enumvalue" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">HighGuid::Player</a>)</div>
+<div class="line"><span class="lineno">  100</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;{} guid overflow!! Can&#39;t continue, renumber the guids before restarting.&quot;</span>, <a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a>(high));</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;entities.object&quot;</span>, <span class="stringliteral">&quot;{} guid overflow!! Can&#39;t continue, shutting down server. &quot;</span>, <a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a>(high));</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_function" href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a>(<a class="code hl_enumvalue" href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a>);</div>
+<div class="line"><span class="lineno">  104</span>}</div>
+<div class="ttc" id="aErrors_8h_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition</b> Errors.h:76</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aclassObjectGuid_html_ad724f21d9bb544bf3f519ecd1d01665c"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#ad724f21d9bb544bf3f519ecd1d01665c">ObjectGuid::GetTypeName</a></div><div class="ttdeci">char const * GetTypeName() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:215</div></div>
 <div class="ttc" id="aclassWorld_html_ab0c53f76dd85fb0f2dcfc29b33291d9d"><div class="ttname"><a href="../../d6/d39/classWorld.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">World::StopNow</a></div><div class="ttdeci">static void StopNow(uint8 exitcode)</div><div class="ttdef"><b>Definition</b> World.h:195</div></div>
 <div class="ttc" id="agroup__world_html_gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08"><div class="ttname"><a href="../../df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08">ERROR_EXIT_CODE</a></div><div class="ttdeci">@ ERROR_EXIT_CODE</div><div class="ttdef"><b>Definition</b> World.h:54</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00215">ObjectGuid::GetTypeName()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, and <a class="el" href="../../#l00195">World::StopNow()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00054">ERROR_EXIT_CODE</a>, <a class="el" href="../../#l00215">ObjectGuid::GetTypeName()</a>, <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">Item</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">Player</a>, and <a class="el" href="../../#l00195">World::StopNow()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00306">ObjectGuidGenerator&lt; high &gt;::Generate()</a>, and <a class="el" href="../../#l00106">GetClusterGuid()</a>.</p>
 
 </div>
 </div>
@@ -390,6 +405,8 @@ Protected Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  289</span>{ <a class="code hl_variable" href="../../d5/d89/classObjectGuidGeneratorBase.html#a4a14102e019aa10f41b050054cacca22">_nextGuid</a> = val; }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00297">_nextGuid</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l07585">ObjectMgr::SetHighestGuids()</a>.</p>
 
 </div>
 </div>
@@ -428,7 +445,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d89/classObjectGuidGeneratorBase.html">ObjectGuidGeneratorBase</a></li>
-    <li class="footer">Generated on Sat Oct 17 2026 10:03:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 18 2026 10:15:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -68,7 +68,7 @@ var searchData=
   ['lightofdawnmarchto_65',['LightOfDawnMarchTo',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#a939874a8e865d9ecd79986078524cf68',1,'zone_the_scarlet_enclave.cpp']]],
   ['lightofdawnschedulemarch_66',['LightOfDawnScheduleMarch',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#ad7118775df237d91354c9c2e9701f0b2',1,'zone_the_scarlet_enclave.cpp']]],
   ['lightofdawnstartmarch_67',['LightOfDawnStartMarch',['../db/dd7/zone__the__scarlet__enclave_8cpp.html#ac9e7dcedeb49a5e145afea481d6849ac',1,'zone_the_scarlet_enclave.cpp']]],
-  ['linefrommessage_68',['linefrommessage',['../d6/d38/classChatHandler.html#ac1e660df0286be7cd7e97ed7ad6e3fe2',1,'ChatHandler::LineFromMessage()'],['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211',1,'Acore::WorldWorldTextBuilder::lineFromMessage()']]],
+  ['linefrommessage_68',['linefrommessage',['../d0/d23/classAcore_1_1WorldWorldTextBuilder.html#a3a71edb992528d81471d370ba3d8d211',1,'Acore::WorldWorldTextBuilder::lineFromMessage()'],['../d6/d38/classChatHandler.html#ac1e660df0286be7cd7e97ed7ad6e3fe2',1,'ChatHandler::LineFromMessage()']]],
   ['link_69',['link',['../d4/d52/classReference.html#a6c7a8395a8f77e33772959f068296aaf',1,'Reference::link()'],['../da/d7e/classMapGrid.html#a6bb17f913bb5322f3ae933de375e6614',1,'MapGrid::link()']]],
   ['linkedlistelement_70',['LinkedListElement',['../d4/d28/classLinkedListElement.html#ac1194068a8be3b5633aee45147bdcdc3',1,'LinkedListElement']]],
   ['linkedlisthead_71',['LinkedListHead',['../db/dea/classLinkedListHead.html#ab9a10897505b9315f7abef37ca53ae3d',1,'LinkedListHead']]],

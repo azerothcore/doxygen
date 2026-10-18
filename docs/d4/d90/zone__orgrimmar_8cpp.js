@@ -18,6 +18,8 @@ var zone__orgrimmar_8cpp =
       [ "SAY_THRALL_ON_QUEST_REWARD_1", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
       [ "GO_UNADORNED_SPIKE", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
       [ "QUEST_WHAT_THE_WIND_CARRIES", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "QUEST_BROKERING_OF_PEACE", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a3f56db670ce24d026768aafcea808670", null ],
+      [ "SAY_THRALL_BROKERING_OF_PEACE", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a5626b2c6d23de578408e5efa186e9851", null ],
       [ "QUEST_WARCHIEFS_BLESSING", "d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
     ] ],
     [ "AddSC_orgrimmar", "d4/d90/zone__orgrimmar_8cpp.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],

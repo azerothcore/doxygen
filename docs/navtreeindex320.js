@@ -1,5 +1,11 @@
 var NAVTREEINDEX320 =
 {
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[7,0,1356,0,0],
+"db/dfe/ALEScript_8h.html":[8,0,0,0,1,2,38,0,7],
+"db/dfe/GroupReference_8h.html":[8,0,0,0,1,2,20,5],
+"db/dfe/boss__ayamiss_8cpp.html":[8,0,0,0,1,3,4,8,0],
+"db/dfe/boss__ayamiss_8cpp.html#a003141c19060ffd9059b2d498b8a5138":[8,0,0,0,1,3,4,8,0,14],
+"db/dfe/boss__ayamiss_8cpp.html#a14d205149c8d0d9429e98695e31d105d":[8,0,0,0,1,3,4,8,0,13],
 "db/dfe/boss__ayamiss_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,4,8,0,8],
 "db/dfe/boss__ayamiss_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[8,0,0,0,1,3,4,8,0,8,0],
 "db/dfe/boss__ayamiss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,8,0,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643":[8,0,0,0,1,3,5,4,1,2,25],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a022acca61bd68ee16c0d55004c9a1dc7":[8,0,0,0,1,3,5,4,1,2,25,2],
 "dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a04a753f9853968682b9643fa1de110fd":[8,0,0,0,1,3,5,4,1,2,25,25],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a0d74cfe7662c959a043f01770a2c7bf4":[8,0,0,0,1,3,5,4,1,2,25,15],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,4,1,2,25,27],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,5,4,1,2,25,17],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,4,1,2,25,6],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a28757b92c81812a00ee0e2427a865dbb":[8,0,0,0,1,3,5,4,1,2,25,20],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a2bbdfc380eb6caebd7e77226af819c1b":[8,0,0,0,1,3,5,4,1,2,25,5],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a36aea0fe09cc0777911ba9245e73e6fc":[8,0,0,0,1,3,5,4,1,2,25,18]
+"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a0d74cfe7662c959a043f01770a2c7bf4":[8,0,0,0,1,3,5,4,1,2,25,15]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX263 =
 {
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae9eac7645b4f2648d0af2f3d0ea22ebc":[8,0,0,0,1,3,5,9,2,16,4,50],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aea1a5384904e05f25e9f0c76b17532f3":[8,0,0,0,1,3,5,9,2,16,4,45],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed4b9c58f88611899c168627ad8a49ca":[8,0,0,0,1,3,5,9,2,16,4,31],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2aed5ca0a465b7ad5d7ecedf2386848b83":[8,0,0,0,1,3,5,9,2,16,4,11],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2afa6573d9bc7f055799d868955fc68802":[8,0,0,0,1,3,5,9,2,16,4,52],
+"d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904":[8,0,0,0,1,3,5,9,2,16,5],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48":[8,0,0,0,1,3,5,9,2,16,5,67],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a09127b173c49b4f434eea2d6fa99b245":[8,0,0,0,1,3,5,9,2,16,5,40],
 "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a0dfb31c4c49cf239d73256485cd9516b":[8,0,0,0,1,3,5,9,2,16,5,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX263 =
 "d9/dff/classspell__pal__judgement.html#ad49ea02800078c672747f4fdbbab1d20":[7,0,3796,5],
 "d9/dff/classspell__pal__judgement.html#ad8e65beb41a1bb41a2dd307f3b1da839":[7,0,3796,3],
 "d9/dff/classspell__pal__judgement.html#add419a824dbebdc168d2b6dc49d07913":[7,0,3796,1],
-"d9/dff/structnpc__crashin__thrashin__robot.html":[7,0,1757],
-"d9/dff/structnpc__crashin__thrashin__robot.html#a0652cd455791461f613ab4ebf77d2c3c":[7,0,1757,1],
-"d9/dff/structnpc__crashin__thrashin__robot.html#a1d21cd2075f3aeba2c7f1e735a33dfec":[7,0,1757,2],
-"d9/dff/structnpc__crashin__thrashin__robot.html#a55778501d154d0a9e77f76054e926f85":[7,0,1757,3],
-"d9/dff/structnpc__crashin__thrashin__robot.html#ad21336d212498b1c9ef5d46979d147ab":[7,0,1757,0],
-"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html":[7,0,1758,0],
-"d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[7,0,1758,0,5]
+"d9/dff/structnpc__crashin__thrashin__robot.html":[7,0,1757]
 };

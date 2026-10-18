@@ -8,7 +8,8 @@ var PlayerDump_8h =
       [ "DUMP_FILE_OPEN_ERROR", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
       [ "DUMP_TOO_MANY_CHARS", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
       [ "DUMP_FILE_BROKEN", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+      [ "DUMP_CHARACTER_DELETED", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ],
+      [ "DUMP_GUID_OVERFLOW", "d9/d27/PlayerDump_8h.html#a4471667403db9bc7532f371d28743866ad611e98ad0ae594831f17cbab86dcb6a", null ]
     ] ],
     [ "DumpTableType", "d9/d27/PlayerDump_8h.html#ad4739d865080bb5590831b606365e7ef", [
       [ "DTT_CHARACTER", "d9/d27/PlayerDump_8h.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],

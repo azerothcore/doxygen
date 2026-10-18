@@ -1,6 +1,12 @@
 var NAVTREEINDEX261 =
 {
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[7,0,13,11,3],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[5,0,34,11,3,3],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[7,0,13,11,3,3],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[5,0,34,11,3,1],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[7,0,13,11,3,1],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[7,0,13,11,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,34,11,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[7,0,13,11,3,0],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[5,0,34,11,3,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html":[7,0,1833,0],
@@ -44,10 +50,10 @@ var NAVTREEINDEX261 =
 "d9/deb/classachievement__pb__pilgrims__peril.html":[7,0,88],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[7,0,88,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[7,0,88,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[7,0,13,8,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,34,8,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[7,0,13,8,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,34,8,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[7,0,13,8,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[7,0,13,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,34,8,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,34,8,8,3],
@@ -56,8 +62,8 @@ var NAVTREEINDEX261 =
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,34,8,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[7,0,13,8,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,34,8,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,34,8,8,2],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[7,0,13,8,8,2],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,34,8,8,2],
 "d9/dec/structboss__yoggsaron__llane.html":[7,0,818],
 "d9/dec/structboss__yoggsaron__llane.html#a0ae3106eac830ed9f14f17e5fa1d45ec":[7,0,818,3],
 "d9/dec/structboss__yoggsaron__llane.html#a0df3a85717ab26ad1ac889d6fe4d8007":[7,0,818,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX261 =
 "d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[7,0,1150,12],
 "d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[7,0,1150,33],
 "d9/df5/classspell__gen__elune__candle.html":[7,0,3078],
-"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[7,0,3078,3],
-"d9/df5/classspell__gen__elune__candle.html#a9fb69011ce5245925eb6a4fd011d18b2":[7,0,3078,0],
-"d9/df5/classspell__gen__elune__candle.html#aa0828fa1a3cf75e8222607a4f2fff950":[7,0,3078,2],
-"d9/df5/classspell__gen__elune__candle.html#ab9300ff0efc4a36d652a1b56c031dc2f":[7,0,3078,1],
-"d9/df5/structboss__sartharion.html":[7,0,699],
-"d9/df5/structboss__sartharion.html#a0e38be21344f596147f20a8ed46673ec":[7,0,699,4],
-"d9/df5/structboss__sartharion.html#a1e1a54ad847a81ce29554081583483e2":[7,0,699,11]
+"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[7,0,3078,3]
 };

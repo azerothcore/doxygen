@@ -1,5 +1,13 @@
 var NAVTREEINDEX432 =
 {
+"df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[7,0,651,0],
+"df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[7,0,651,9],
+"df/df6/classspell__putricide__mutated__transformation.html":[7,0,3886],
+"df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[7,0,3886,2],
+"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[7,0,3886,1],
+"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[7,0,3886,3],
+"df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[7,0,3886,0],
+"df/df6/structHealthCheckEventData.html":[7,0,1300],
 "df/df6/structHealthCheckEventData.html#a2610f9688b27212eb3470f55718c61f0":[7,0,1300,0],
 "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[7,0,1300,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[7,0,1300,8],
@@ -69,7 +77,9 @@ var NAVTREEINDEX432 =
 "df/dfa/zone__ironforge_8cpp.html":[8,0,0,0,1,3,2,25],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e":[8,0,0,0,1,3,2,25,1],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,25,1,1],
+"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea3f56db670ce24d026768aafcea808670":[8,0,0,0,1,3,2,25,1,5],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2":[8,0,0,0,1,3,2,25,1,3],
+"df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea5e7515dea0183a414914625df021100e":[8,0,0,0,1,3,2,25,1,4],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa":[8,0,0,0,1,3,2,25,1,2],
 "df/dfa/zone__ironforge_8cpp.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa":[8,0,0,0,1,3,2,25,1,0],
 "df/dfa/zone__ironforge_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[8,0,0,0,1,3,2,25,2],
@@ -239,15 +249,5 @@ var NAVTREEINDEX432 =
 "dir_8b777919d2ae980e2f3806300ea01226.html":[8,0,0,0,0,1,1],
 "dir_9190001e5b6939293a2fb2bd5f108b56.html":[8,0,0,0,1,2,21],
 "dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html":[8,0,0,0,0,10],
-"dir_94aaef7ba6f803f9bfb6413ade407482.html":[8,0,0,0,1,3,4,8],
-"dir_9c007a21945c267a2c2f47a9c36aeced.html":[8,0,0,0,1,3,5,4,1],
-"dir_9c4af5b2a272d4974379e18639c0292f.html":[8,0,0,0,1,3,5,2],
-"dir_9cb3b0d623cd4274c7a9c8ac2a66c533.html":[8,0,0,0,1,0,0,0],
-"dir_9d73b3dc13db754f31e8cc6e388bf231.html":[8,0,0,0,1,3,2,1,3],
-"dir_a0aac0519f50cbe40c54d5948ed285d0.html":[8,0,0,0,1,2,38,0],
-"dir_a12bdf17fc4860c5ac78d8e274fbb711.html":[8,0,0,0,1,2,18],
-"dir_a1ce599ad2b2438c4a079c0c47195cb6.html":[8,0,0,0,1,2,5],
-"dir_a4d376dc24851cd2a191f06c51e076cb.html":[8,0,0,0,1,4,1],
-"dir_a58b003a535a0d998ca0fef6e9ca4a39.html":[8,0,0,0,1,1,0,0],
-"dir_a5c81565c813a087452a284baefe3cb6.html":[8,0,0,0,1,3,9]
+"dir_94aaef7ba6f803f9bfb6413ade407482.html":[8,0,0,0,1,3,4,8]
 };

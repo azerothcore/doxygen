@@ -1,5 +1,13 @@
 var NAVTREEINDEX416 =
 {
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae9af40d90c3f2ee62c2642e8167025bb":[8,0,0,0,1,3,5,1,0,0,9,12],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb7030afec0f5f6b581bd6ebc1ef8cf4":[8,0,0,0,1,3,5,1,0,0,9,18],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa0f48eb71475a09fc15e50ec0ebb216":[8,0,0,0,1,3,5,1,0,0,9,4],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe6686ed7d552a8aa82e258dd8606832":[8,0,0,0,1,3,5,1,0,0,9,15],
+"df/d72/classAccountMgr.html":[7,0,30],
+"df/d72/classAccountMgr.html#a05785c0cba8eb448ae4efeffaf5f862e":[7,0,30,11],
+"df/d72/classAccountMgr.html#a0e6c3b8055bea89c178e10dc8f26c16d":[7,0,30,27],
+"df/d72/classAccountMgr.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,30,12],
 "df/d72/classAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,30,8],
 "df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d":[7,0,30,30],
 "df/d72/classAccountMgr.html#a261e0906e1e34d2d52dec0ebfef5d79c":[7,0,30,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX416 =
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#a6768c8f8f5e37058f85cb40d35caad72":[7,0,2089,0,1],
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#aa5c01fd7cf2b9fad15a3059b4fe38d13":[7,0,2089,0,0],
 "df/d7f/structContainerMapList_3_01TypeNull_01_4.html":[7,0,933],
-"df/d7f/structboss__novos.html":[7,0,657],
-"df/d7f/structboss__novos.html#a05511ce949e0dc1a8e64832625b1bc64":[7,0,657,16],
-"df/d7f/structboss__novos.html#a0601276c570ee0912e3014ad60774f9a":[7,0,657,13],
-"df/d7f/structboss__novos.html#a0aecc4467b0a29a8e8eb7df9a8e68d71":[7,0,657,17],
-"df/d7f/structboss__novos.html#a0f5bde7e5d7fd31887d22a6151e99c48":[7,0,657,1],
-"df/d7f/structboss__novos.html#a1cbe1a2536171688e78da2cfda04effa":[7,0,657,10],
-"df/d7f/structboss__novos.html#a2488d1b0be72b76e2ea125dad3986217":[7,0,657,12],
-"df/d7f/structboss__novos.html#a47ae86a8b48aeebebfca23ee44d4563e":[7,0,657,3],
-"df/d7f/structboss__novos.html#a5a6651d0e08c0557d53174d40da0fac3":[7,0,657,14]
+"df/d7f/structboss__novos.html":[7,0,657]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e9a85af02d9cd7f12cff2f61ce92db9":[8,0,0,0,1,3,5,6,11,38,3],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa92bffffa663ea52a762e1ace1b1857a":[8,0,0,0,1,3,5,6,11,38,2],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb1a135362c546cfdbb18242092a546b":[8,0,0,0,1,3,5,6,11,38,8],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abc4b00bfc663df75aaecb5d81b8dff2b":[8,0,0,0,1,3,5,6,11,38,1],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adf20ceed12295f40310ba3dbf57253d6":[8,0,0,0,1,3,5,6,11,38,7],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5720f0adf8ed4ec6418dfd0afc50849":[8,0,0,0,1,3,5,6,11,38,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d21/classspell__sha__spirit__hunt.html#aeaeacf85b822cc7427234fe469aaff7f":[7,0,4144,0],
 "d6/d22/structnpc__ulduar__icicle.html":[7,0,2282],
 "d6/d22/structnpc__ulduar__icicle.html#a0a46c8ee0c4bb8932406fe8170a54310":[7,0,2282,1],
-"d6/d22/structnpc__ulduar__icicle.html#a9a098b0a31fcbc029fc7ae6823ea99a4":[7,0,2282,3],
-"d6/d22/structnpc__ulduar__icicle.html#ac5f024031a70b4ca04ecc0a96fcbdcae":[7,0,2282,0],
-"d6/d22/structnpc__ulduar__icicle.html#ae277d302131abd17cef018872b12da06":[7,0,2282,2],
-"d6/d23/classspell__amanitar__remove__mushroom__power.html":[7,0,2666]
+"d6/d22/structnpc__ulduar__icicle.html#a9a098b0a31fcbc029fc7ae6823ea99a4":[7,0,2282,3]
 };

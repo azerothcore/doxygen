@@ -1,5 +1,11 @@
 var NAVTREEINDEX280 =
 {
+"da/d97/classspell__mark__of__frost__freeze.html":[7,0,3677],
+"da/d97/classspell__mark__of__frost__freeze.html#a57d85b1702e5c89d72972505121180ed":[7,0,3677,3],
+"da/d97/classspell__mark__of__frost__freeze.html#a9f1d78b4a98bc76877903b79923c1634":[7,0,3677,0],
+"da/d97/classspell__mark__of__frost__freeze.html#ab923488eb891e1f9b1f5cb8ed61f3865":[7,0,3677,2],
+"da/d97/classspell__mark__of__frost__freeze.html#afb0a8a16850da30b0fbdb3d10a935f21":[7,0,3677,1],
+"da/d97/classspell__trollgore__consume.html":[7,0,4293],
 "da/d97/classspell__trollgore__consume.html#a62cef31900cd61167823f3e66aa2d64b":[7,0,4293,0],
 "da/d97/classspell__trollgore__consume.html#aab4d84e896c8225d8d131558aaa71dbe":[7,0,4293,3],
 "da/d97/classspell__trollgore__consume.html#ac73b3f568ce54f9b59b2b23f069da3c1":[7,0,4293,2],
@@ -37,8 +43,8 @@ var NAVTREEINDEX280 =
 "da/d99/classBattlegroundMapScript.html#aa976810defac9b6838553f8d28ea9366":[7,0,346,0],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,34,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[7,0,13,8,6],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[7,0,13,8,6,2],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,34,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[7,0,13,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,34,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,34,8,6,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX280 =
 "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1267,8],
 "da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1267,6],
 "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1267,7],
-"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[7,0,1267,4],
-"da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[7,0,1267,2],
-"da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[7,0,1267,1],
-"da/da3/classgroup__commandscript.html#a614878b840aee6bab067db81fa59a8c7":[7,0,1267,3],
-"da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[7,0,1267,5],
-"da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[7,0,1267,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[7,0,713,0]
+"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[7,0,1267,4]
 };
