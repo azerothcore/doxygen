@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a1de76ab7f3304f8373c633fa7d0aa533":[7,0,2121,0,11],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a24f17e0954e498e4a4b73b4cdffea6a3":[7,0,2121,0,8],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a2720994f88a2706a2f0b4fb361f81f2c":[7,0,2121,0,1],
 "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a3e89e187c08f45a51fb69b647dcc766d":[7,0,2121,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a68f48d92cc5559025e635d599c2882e3":[7,0,2122,0,4],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a6a86b56508a86bf32ab5fb2bd46248c9":[7,0,2122,0,0],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a79cc34760b58ad4b29c6a0a496971f0a":[7,0,2122,0,3],
-"de/d89/boss__grilek_8cpp.html":[8,0,0,0,1,3,2,15,2],
-"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,15,2,3]
+"de/d89/boss__grilek_8cpp.html":[8,0,0,0,1,3,2,15,2]
 };

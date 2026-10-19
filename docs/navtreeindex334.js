@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dc/d7b/HolidayDateCalculatorTest_8cpp.html#a52886ddd3389fe20ec6d8a1177d461b1":[8,0,0,0,2,2,0,5,0,17],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a53993de618fcc260daa422bc0b50918b":[8,0,0,0,2,2,0,5,0,46],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a554d4c48b31a42d76e438ad934b49623":[8,0,0,0,2,2,0,5,0,48],
 "dc/d7b/HolidayDateCalculatorTest_8cpp.html#a58f74c734da141e1ed6de4ac3ec783d5":[8,0,0,0,2,2,0,5,0,14],
@@ -136,12 +137,12 @@ var NAVTREEINDEX334 =
 "dc/d83/QuestDef_8cpp.html":[8,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,0,93],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[7,0,0,81],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[7,0,0,81,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,0,93,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[7,0,0,81,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,0,93,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[7,0,0,81,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,0,93,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[7,0,0,81,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,0,93,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[7,0,0,81,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d89/classnpc__gunship.html#adcd37802a2850f4ec8892f3495d5dc16":[7,0,1876,2],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html":[5,0,0,8,0],
 "dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a068db55731856ca7770e1b09a4225aa2":[5,0,0,8,0,41],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a1106e69269315156c6019b7812547ce9":[5,0,0,8,0,37],
-"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a3cb927687da0e8c0bae77a78fe45d942":[5,0,0,8,0,35]
+"dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#a1106e69269315156c6019b7812547ce9":[5,0,0,8,0,37]
 };

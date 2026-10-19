@@ -1,5 +1,6 @@
 var NAVTREEINDEX431 =
 {
+"df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b":[7,0,2403,8],
 "df/de7/cs__cast_8cpp.html":[8,0,0,0,1,3,0,8],
 "df/de7/cs__cast_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,8,1],
 "df/de9/classspell__pri__power__word__shield.html":[7,0,3863],
@@ -248,6 +249,5 @@ var NAVTREEINDEX431 =
 "df/df5/structboss__nefarian.html#a4a0a4cf4ee63ce744ffb580747f992b9":[7,0,651,1],
 "df/df5/structboss__nefarian.html#a5710c721f3a24762b8cc3e79e6a14951":[7,0,651,8],
 "df/df5/structboss__nefarian.html#a5d687fce34b17e22c605c263395e823b":[7,0,651,6],
-"df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,651,2],
-"df/df5/structboss__nefarian.html#a6fdf265e453deb8f9a4214beacf3dbab":[7,0,651,3]
+"df/df5/structboss__nefarian.html#a6a547ba5aea4d5af2a621e5d97ceae43":[7,0,651,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[7,0,2365,25],
 "de/da1/structnpc__ulduar__flames__spread.html":[7,0,2276],
 "de/da1/structnpc__ulduar__flames__spread.html#aea2856e8ea84dfb447017a4d8b2ab088":[7,0,2276,0],
 "de/da1/structnpc__ulduar__flames__spread.html#af8cad4be1736f377721b7a0a63cfafe7":[7,0,2276,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a820d3f9299addcf6fdcb54cf82c7306c":[8,0,0,0,1,1,0,0,1,1,321],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a825aaef48c162590d2e88950f97c0843":[8,0,0,0,1,1,0,0,1,1,37],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83037721850705de499b535fef266b74":[8,0,0,0,1,1,0,0,1,1,280],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a830f0c29c0efd7ac5fc390363d45349f":[8,0,0,0,1,1,0,0,1,1,179],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a832bd755367b28e4f92da4257c501f88":[8,0,0,0,1,1,0,0,1,1,191]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a830f0c29c0efd7ac5fc390363d45349f":[8,0,0,0,1,1,0,0,1,1,179]
 };

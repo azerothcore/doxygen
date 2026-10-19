@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2":[8,0,0,0,1,3,10,14,63],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a002ae32bd37624e20b770a04f8fe4c39":[8,0,0,0,1,3,10,14,63,0],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a191da2362c88a3fb0fa5406df01ceabb":[8,0,0,0,1,3,10,14,63,8],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a28f347139148d333813b383c21f18700":[8,0,0,0,1,3,10,14,63,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "db/db4/SpellProcCooldownTest_8cpp.html#a63a215a846e19ee49b60cd43e3a95dbb":[8,0,0,0,2,2,0,10,16,5],
 "db/db4/SpellProcCooldownTest_8cpp.html#a64a32de59b301ddb3b2a8827bacd43cf":[8,0,0,0,2,2,0,10,16,9],
 "db/db4/SpellProcCooldownTest_8cpp.html#a877730b0890fd65b53503d867be13db2":[8,0,0,0,2,2,0,10,16,2],
-"db/db4/SpellProcCooldownTest_8cpp.html#a980784573aa4ae1d2fda4349c9290425":[8,0,0,0,2,2,0,10,16,11],
-"db/db4/SpellProcCooldownTest_8cpp.html#aa2595c13ca0ad6ce6afda0196d0c86ae":[8,0,0,0,2,2,0,10,16,7]
+"db/db4/SpellProcCooldownTest_8cpp.html#a980784573aa4ae1d2fda4349c9290425":[8,0,0,0,2,2,0,10,16,11]
 };

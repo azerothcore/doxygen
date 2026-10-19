@@ -1,5 +1,6 @@
 var NAVTREEINDEX422 =
 {
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7339ffe52dc789f9480afca7141a169e":[7,0,2260,0,4],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a77fa2ef2f15208ab8b284c71e0227fc4":[7,0,2260,0,7],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a7a05c8682767f5a2d847e99eeed8e00f":[7,0,2260,0,3],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a8bba917f0e0d67cd7a0121ab71d5a419":[7,0,2260,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX422 =
 "df/dbb/structboss__flame__leviathan.html#a003ee013f6175e172107d0c840ed32f0":[7,0,486,12],
 "df/dbb/structboss__flame__leviathan.html#a14ac6ab1fa42c21562f28cd4ae3fec14":[7,0,486,23],
 "df/dbb/structboss__flame__leviathan.html#a1582ba1367c0fcb09b25f86c508faab5":[7,0,486,17],
-"df/dbb/structboss__flame__leviathan.html#a20fc22fdc34b25dbb16a2c8ee8b31c50":[7,0,486,5],
-"df/dbb/structboss__flame__leviathan.html#a27d83701b52888d7a80a3c48f7222d0a":[7,0,486,13]
+"df/dbb/structboss__flame__leviathan.html#a20fc22fdc34b25dbb16a2c8ee8b31c50":[7,0,486,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27":[8,0,0,0,1,2,13,3,3,0],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f":[8,0,0,0,1,2,13,3,3,11],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff":[8,0,0,0,1,2,13,3,3,6],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e":[8,0,0,0,1,2,13,3,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "de/d52/structboss__malygos.html#ad779ad4e63ce426421fab327fc9bf9ed":[7,0,627,20],
 "de/d52/structboss__malygos.html#ae8d1e363bc9db57af46afa838c72cfd1":[7,0,627,13],
 "de/d52/structboss__malygos.html#afb552c6ee40f0415c5d8b96d140c55e6":[7,0,627,4],
-"de/d52/structboss__malygos.html#affc05cb6c51b8116257a4b1aef46ff00":[7,0,627,1],
-"de/d53/classat__icc__shutdown__traps.html":[7,0,234]
+"de/d52/structboss__malygos.html#affc05cb6c51b8116257a4b1aef46ff00":[7,0,627,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX416 =
 {
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acc088a777c427dd1f8d91a7f036f8565":[8,0,0,0,1,3,5,1,0,0,9,3],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae9af40d90c3f2ee62c2642e8167025bb":[8,0,0,0,1,3,5,1,0,0,9,12],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb7030afec0f5f6b581bd6ebc1ef8cf4":[8,0,0,0,1,3,5,1,0,0,9,18],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa0f48eb71475a09fc15e50ec0ebb216":[8,0,0,0,1,3,5,1,0,0,9,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX416 =
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html":[7,0,2089,0],
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#a6768c8f8f5e37058f85cb40d35caad72":[7,0,2089,0,1],
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#aa5c01fd7cf2b9fad15a3059b4fe38d13":[7,0,2089,0,0],
-"df/d7f/structContainerMapList_3_01TypeNull_01_4.html":[7,0,933],
-"df/d7f/structboss__novos.html":[7,0,657]
+"df/d7f/structContainerMapList_3_01TypeNull_01_4.html":[7,0,933]
 };

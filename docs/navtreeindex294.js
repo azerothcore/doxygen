@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[7,0,341,1],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[7,0,341,2],
 "db/d29/structWardenCheck.html":[7,0,4678],
 "db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[7,0,4678,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a5e5a67ed5492db34fd6c2e28a2cd7f74":[7,0,2016,1],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a94086429fe5cf506c64ea79ebcf03317":[7,0,2016,6],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#ab732995946655894611eb1c12ce4e8a8":[7,0,2016,9],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#ac09222eff300a11e03e8a3a1c9a3fd5f":[7,0,2016,0],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#ae91d1899212fa391f6ae4ec3a1de6e85":[7,0,2016,8]
+"db/d39/structnpc__midsummer__ribbon__pole__target.html#ac09222eff300a11e03e8a3a1c9a3fd5f":[7,0,2016,0]
 };

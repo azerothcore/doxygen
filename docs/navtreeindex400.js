@@ -1,5 +1,6 @@
 var NAVTREEINDEX400 =
 {
+"de/db0/classspell__warl__siphon__life.html#abfdd5179215432a3e89ea7b498d49867":[7,0,4377,3],
 "de/db0/classspell__warl__siphon__life.html#afcda3b112699e108e2db6270836fce1b":[7,0,4377,0],
 "de/db1/WhoListCacheMgr_8cpp.html":[8,0,0,0,1,2,9,2],
 "de/db1/classRaceMgr.html":[7,0,2532],
@@ -248,6 +249,5 @@ var NAVTREEINDEX400 =
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7":[8,0,0,0,1,3,5,4,0,0,7,6],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,5,4,0,0,7,7],
 "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[8,0,0,0,1,3,5,4,0,0,7,1],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0":[8,0,0,0,1,3,5,4,0,0,7,10],
-"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac0c93648701099cc7bb94911ca117cb9":[8,0,0,0,1,3,5,4,0,0,7,8]
+"de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0":[8,0,0,0,1,3,5,4,0,0,7,10]
 };

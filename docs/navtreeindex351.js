@@ -1,5 +1,6 @@
 var NAVTREEINDEX351 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ac72434a046c28a4887971cf83d574a6e":[7,0,4116,1],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#ad7185292820feb168565648133c9e2cc":[7,0,4116,4],
 "dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[7,0,4116,6],
 "dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[7,0,569,0],
@@ -246,8 +247,7 @@ var NAVTREEINDEX351 =
 "dd/d5b/World_8h.html":[4,2,5],
 "dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[5,0,0,0,1],
 "dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[7,0,0,0,0],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[7,0,0,0,0,5],
 "dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[5,0,0,0,1,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a1165b11f60d138d56eba43657fc299cd":[5,0,0,0,1,6],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a1165b11f60d138d56eba43657fc299cd":[7,0,0,0,0,6]
+"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[7,0,0,0,0,5],
+"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a1165b11f60d138d56eba43657fc299cd":[5,0,0,0,1,6]
 };

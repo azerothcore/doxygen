@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,15,2,3],
 "de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca28574d4484fa9dddb63e423dc7194e35":[8,0,0,0,1,3,2,15,2,3,0],
 "de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298ca366705ee88fada6cb8aa2dab3dcd3cee":[8,0,0,0,1,3,2,15,2,3,2],
 "de/d89/boss__grilek_8cpp.html#a5bd342133be8c2137b831460acc9298caae4192525f239485e95830c6137c5c47":[8,0,0,0,1,3,2,15,2,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[8,0,0,0,1,3,7,1,4,7,0],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac84afb14a2738b8f24beb0e2427300f6":[8,0,0,0,1,3,7,1,4,7,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[8,0,0,0,1,3,7,1,4,7,4],
-"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ad25383e2c00eeae2e4b15e33298d79a2":[8,0,0,0,1,3,7,1,4,7,2],
-"de/d97/boss__mother__shahraz_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,1,4,6]
+"de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1ad25383e2c00eeae2e4b15e33298d79a2":[8,0,0,0,1,3,7,1,4,7,2]
 };

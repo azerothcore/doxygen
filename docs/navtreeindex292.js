@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37":[8,0,0,0,1,2,31,6,6,1],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a2f2be3025f2ba88bb5473cd7f3767323":[8,0,0,0,1,2,31,6,6,3],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2":[8,0,0,0,1,2,31,6,6,2],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f":[8,0,0,0,1,2,31,6,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/d1b/SkillExtraItems_8cpp.html#ad732be66d93ed6e8f498077f27e2766b":[8,0,0,0,1,2,40,2,3],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html":[7,0,1898],
 "db/d1b/classnpc__highlord__tirion__fordring__lh.html#a96102a488330c54a3e3654c767e8e1a5":[7,0,1898,1],
-"db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[7,0,1898,2],
-"db/d1b/classspell__razorscale__flame__breath.html":[7,0,4027]
+"db/d1b/classnpc__highlord__tirion__fordring__lh.html#aea42394c04c1763cffe10eb5eba09854":[7,0,1898,2]
 };

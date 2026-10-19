@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa0c1e8f75b594d570e01c08ee7904941a":[8,0,0,0,1,2,13,1,12,21],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa1f5a0a3e4029ccc99fb1c064f7bb2966":[8,0,0,0,1,2,13,1,12,2],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa256256334e7248e629f7e9b3e46b7a1d":[8,0,0,0,1,2,13,1,12,10],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa37866f2117a07a9d45dab441f33647af":[8,0,0,0,1,2,13,1,12,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[8,0,0,0,1,2,39,8,2],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[7,0,1771],
-"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1771,1],
-"de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[7,0,1771,2]
+"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1771,1]
 };

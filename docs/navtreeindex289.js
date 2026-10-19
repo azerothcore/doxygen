@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127a73615b24ba6a96dc45d228eb839fb5ad":[8,0,0,0,1,3,2,14,7,18,1],
 "da/dea/zulaman_8cpp.html#a07c90e20817361b43520bc9680111127ac63e6a577265282613537f3490261423":[8,0,0,0,1,3,2,14,7,18,0],
 "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,14,7,21],
 "da/dea/zulaman_8cpp.html#a16774215bba3b38580ea51987d64cff1a0e328deea347418d5205cd0366e350d1":[8,0,0,0,1,3,2,14,7,21,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11f":[8,0,0,0,1,2,38,0,9,2],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af":[8,0,0,0,1,2,38,0,9,2,20],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175":[8,0,0,0,1,2,38,0,9,2,5],
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a":[8,0,0,0,1,2,38,0,9,2,4],
-"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7":[8,0,0,0,1,2,38,0,9,2,6]
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a":[8,0,0,0,1,2,38,0,9,2,4]
 };

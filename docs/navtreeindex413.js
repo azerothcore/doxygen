@@ -1,5 +1,6 @@
 var NAVTREEINDEX413 =
 {
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a75796eb8dc83729f2f726ff51317bd66":[7,0,400,0,0],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a8947cbd1c2856334a0d6529bc664f71b":[7,0,400,0,6],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a951d68d4e645860cdb5c5e348bf1fff4":[7,0,400,0,10],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#aa3c37a38b95c6b3bec4e3b787d2155df":[7,0,400,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX413 =
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54":[8,0,0,0,1,3,2,1,0,0,28],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6":[8,0,0,0,1,3,2,1,0,0,28,3],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e":[8,0,0,0,1,3,2,1,0,0,28,0],
-"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f":[8,0,0,0,1,3,2,1,0,0,28,1],
-"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc":[8,0,0,0,1,3,2,1,0,0,28,5]
+"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f":[8,0,0,0,1,3,2,1,0,0,28,1]
 };

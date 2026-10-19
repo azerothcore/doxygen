@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"db/db4/SpellProcCooldownTest_8cpp.html#aa2595c13ca0ad6ce6afda0196d0c86ae":[8,0,0,0,2,2,0,10,16,7],
 "db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[8,0,0,0,2,2,0,10,16,1],
 "db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[8,0,0,0,2,2,0,10,16,6],
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,10,16,8],
@@ -75,10 +76,10 @@ var NAVTREEINDEX309 =
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558":[5,0,21,16,0],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642":[5,0,21,16,4],
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,21,27],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
 "db/db8/classProcChanceTestHelper.html":[7,0,2494],
 "db/db8/classProcChanceTestHelper.html#a0030bcefe26a228bb36f5b3913fa1e48":[7,0,2494,27],
 "db/db8/classProcChanceTestHelper.html#a050a7405275f53b24207e5a94f0f2dcd":[7,0,2494,10],
@@ -117,8 +118,8 @@ var NAVTREEINDEX309 =
 "db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297":[7,0,2494,7],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[7,0,13,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[5,0,34,6,9],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[7,0,13,6,9,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[5,0,34,6,9,9],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[7,0,13,6,9,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[7,0,13,6,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[5,0,34,6,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[7,0,13,6,9,2],
@@ -127,8 +128,8 @@ var NAVTREEINDEX309 =
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a52af0d2b4e092daf0719bdf325c51652":[7,0,13,6,9,1],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a72ac06ace5e7974d666e3fc3d626e3c0":[7,0,13,6,9,7],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a72ac06ace5e7974d666e3fc3d626e3c0":[5,0,34,6,9,7],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a8203a35b76fdc674794c5bd3c1acb9ed":[5,0,34,6,9,0],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a8203a35b76fdc674794c5bd3c1acb9ed":[7,0,13,6,9,0],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a8203a35b76fdc674794c5bd3c1acb9ed":[5,0,34,6,9,0],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#abe711cd2da225fdc73eabe2ad6bd3f5d":[5,0,34,6,9,3],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#abe711cd2da225fdc73eabe2ad6bd3f5d":[7,0,13,6,9,3],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[5,0,34,6,9,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "db/dc6/classAuraStubBuilder.html":[7,0,302],
 "db/dc6/classAuraStubBuilder.html#a04b37ad66dde7b61695a80db00c9ab66":[7,0,302,10],
 "db/dc6/classAuraStubBuilder.html#a056bd26636b67b54562306a42b3d7c3e":[7,0,302,7],
-"db/dc6/classAuraStubBuilder.html#a0e11ce060ed827bfc2b72d2b26a6693b":[7,0,302,3],
-"db/dc6/classAuraStubBuilder.html#a22cc8b0309b64c1ecc482d77170a2b09":[7,0,302,11]
+"db/dc6/classAuraStubBuilder.html#a0e11ce060ed827bfc2b72d2b26a6693b":[7,0,302,3]
 };

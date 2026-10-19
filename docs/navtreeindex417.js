@@ -1,5 +1,6 @@
 var NAVTREEINDEX417 =
 {
+"df/d7f/structboss__novos.html":[7,0,657],
 "df/d7f/structboss__novos.html#a05511ce949e0dc1a8e64832625b1bc64":[7,0,657,16],
 "df/d7f/structboss__novos.html#a0601276c570ee0912e3014ad60774f9a":[7,0,657,13],
 "df/d7f/structboss__novos.html#a0aecc4467b0a29a8e8eb7df9a8e68d71":[7,0,657,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX417 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,0,69,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,0,69,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[7,0,0,57,1],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,0,69,3],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[7,0,0,57,3]
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,0,69,3]
 };

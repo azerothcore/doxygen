@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b":[7,0,945,263],
 "db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380":[7,0,945,232],
 "db/dd5/classCreature.html#a50eddd7e74f6c37d89b760293d9a821c":[7,0,945,80],
 "db/dd5/classCreature.html#a511bd8030c9e98f8f96fa0cf2b3e59eb":[7,0,945,75],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1702,0,6],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1702,0,13],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1702,0,12],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1702,0,2],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[7,0,1702,0,9]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1702,0,2]
 };

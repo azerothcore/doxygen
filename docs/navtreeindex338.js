@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a242be75620bd0bd0e60cdbab63783504":[8,0,0,0,1,3,4,1,0,1,5,5],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a32b1c43a79a1e26ed0dda3c22bc5f78a":[8,0,0,0,1,3,4,1,0,1,5,18],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a45dc6fe8794afc630c1b1f81e7c85553":[8,0,0,0,1,3,4,1,0,1,5,11],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a5321ee0d2eb3d3822d1922c6cc50757e":[8,0,0,0,1,3,4,1,0,1,5,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[7,0,673,12],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[7,0,673,0],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[7,0,673,10],
-"dc/dc0/structBattlegroundAVScore.html":[7,0,334],
-"dc/dc0/structBattlegroundAVScore.html#a09038f1133996849064da1b09983be82":[7,0,334,16]
+"dc/dc0/structBattlegroundAVScore.html":[7,0,334]
 };

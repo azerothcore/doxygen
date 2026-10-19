@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[7,0,1395,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[7,0,1395,0,12],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a1d589ed9120bc085be6cb3008ee2e7f9":[7,0,1395,0,10],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a4dde64ab83db8c95305232f681a10fdb":[7,0,1395,0,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "de/d7c/structboss__the__black__stalker.html#ac33519b374509cefe43b8e97701719ee":[7,0,745,0],
 "de/d7c/structboss__the__black__stalker.html#ad118347103ec463a09492e81dbd61418":[7,0,745,1],
 "de/d7c/structboss__the__black__stalker.html#aede25dbe426ec26ccb0509eca0c9c6af":[7,0,745,3],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[7,0,2121,0],
-"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a1de76ab7f3304f8373c633fa7d0aa533":[7,0,2121,0,11]
+"de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html":[7,0,2121,0]
 };

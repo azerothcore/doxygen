@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/d3d/classBfCapturePoint.html#a309a0c2b2f3c5696aef46bb7bdf4dade":[7,0,362,1],
 "df/d3d/classBfCapturePoint.html#a309d340d11c1712f5525438f31779671":[7,0,362,14],
 "df/d3d/classBfCapturePoint.html#a3620c3873aca6e90594a4ddc8345102d":[7,0,362,15],
 "df/d3d/classBfCapturePoint.html#a38e693844d00a27395a582baa4f0ade4":[7,0,362,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a2af77fbe7f089b5da20d2ff693cfcedf":[7,0,400,0,1],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a31381343d2533af670941baf872b3635":[7,0,400,0,4],
 "df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a3c7bc5f9aa04f155debbdacafed6163d":[7,0,400,0,3],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a61e4d85ecd592142ba07588512505990":[7,0,400,0,7],
-"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a75796eb8dc83729f2f726ff51317bd66":[7,0,400,0,0]
+"df/d49/structboss__apothecary__hummel_1_1boss__apothecary__hummelAI.html#a61e4d85ecd592142ba07588512505990":[7,0,400,0,7]
 };

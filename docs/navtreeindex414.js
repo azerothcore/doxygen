@@ -1,5 +1,6 @@
 var NAVTREEINDEX414 =
 {
+"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc":[8,0,0,0,1,3,2,1,0,0,28,5],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b":[8,0,0,0,1,3,2,1,0,0,28,2],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966":[8,0,0,0,1,3,2,1,0,0,28,7],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54ad2c5488cd2569a1b012badf8b39bb96a":[8,0,0,0,1,3,2,1,0,0,28,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX414 =
 "df/d65/structnpc__controller.html#a69628677de225d76a8c89b4626e0f32b":[7,0,1744,1],
 "df/d66/Creature_8h.html":[8,0,0,0,1,2,16,1,1],
 "df/d66/Creature_8h.html#a44c3a813b92331e325ba5aae11ed72a3":[8,0,0,0,1,2,16,1,1,5],
-"df/d66/Creature_8h.html#a4a74e5d0af63228e47e1f663570018ae":[8,0,0,0,1,2,16,1,1,7],
-"df/d66/Creature_8h.html#a91a03a879f1b4df44968ae2f9f22fb0d":[8,0,0,0,1,2,16,1,1,4]
+"df/d66/Creature_8h.html#a4a74e5d0af63228e47e1f663570018ae":[8,0,0,0,1,2,16,1,1,7]
 };

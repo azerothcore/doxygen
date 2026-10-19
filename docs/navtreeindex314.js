@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[7,0,1702,0,9],
 "db/dd6/classachievement__split__personality.html":[7,0,101],
 "db/dd6/classachievement__split__personality.html#aac29ae7c321306a663e55493987af45d":[7,0,101,0],
 "db/dd6/classachievement__split__personality.html#ab5379f3c1191eeb747cb6762fc42ce01":[7,0,101,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908ac5cf65bfca2d89faf6c4a8c253adf4bd":[8,0,0,0,1,3,2,30,30,3],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908aca6d90848fad8b9cbc7c1c952642ea77":[8,0,0,0,1,3,2,30,30,7],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908aecb81f7e37d4e6a7904a5faa9b095425":[8,0,0,0,1,3,2,30,30,5],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908af174634d7300731434d6e6d589b2517e":[8,0,0,0,1,3,2,30,30,6],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908afe9a253ec3b18aa426882c8ff450440e":[8,0,0,0,1,3,2,30,30,2]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908af174634d7300731434d6e6d589b2517e":[8,0,0,0,1,3,2,30,30,6]
 };

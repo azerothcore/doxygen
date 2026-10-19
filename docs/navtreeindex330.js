@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dc/d45/structnpc__ulduar__hodir__druid.html#aa2e3e904c5f7fee4236a9395b95ef3e9":[7,0,2278,6],
 "dc/d45/structnpc__ulduar__hodir__druid.html#aac822cf4203af0e0173004ccc33abc21":[7,0,2278,0],
 "dc/d45/structnpc__ulduar__hodir__druid.html#abcd580306a3abb5663bbac33f68115eb":[7,0,2278,9],
 "dc/d45/structnpc__ulduar__hodir__druid.html#ac8bee382634e20a49178be8b224eca2d":[7,0,2278,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a3ed4099777e242071b7879a18f513160":[8,0,0,0,1,2,26,2,0,67],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d":[8,0,0,0,1,2,26,2,0,111],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4300310bf87aeb726746c717828ffff1":[8,0,0,0,1,2,26,2,0,148],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a43212ff5df35c5e033a1cc9064e8764e":[8,0,0,0,1,2,26,2,0,94],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a435819e1d9a5d918c90c75f1db044db7":[8,0,0,0,1,2,26,2,0,38]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a43212ff5df35c5e033a1cc9064e8764e":[8,0,0,0,1,2,26,2,0,94]
 };

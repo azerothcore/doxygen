@@ -37,7 +37,6 @@ var classWorldSessionMgr =
     [ "UpdateMaxSessionCounters", "d0/d5e/classWorldSessionMgr.html#a4d5f21e27d14a2dee1ff4e48bdb7b341", null ],
     [ "UpdateSessions", "d0/d5e/classWorldSessionMgr.html#a6234855de299f067b0b61e690f532835", null ],
     [ "_accountsPlayHistory", "d0/d5e/classWorldSessionMgr.html#aa4e1e9012a500cfac4baaeba37f64b29", null ],
-    [ "_accountsPlayHistoryPruneTimer", "d0/d5e/classWorldSessionMgr.html#a0e0982385e50071daca16e4bf53306f2", null ],
     [ "_addSessQueue", "d0/d5e/classWorldSessionMgr.html#acf06a5c5685db9b266d9323bb915d4aa", null ],
     [ "_disconnects", "d0/d5e/classWorldSessionMgr.html#a4dc377ec8326db07146d0521d0c0907d", null ],
     [ "_maxActiveSessionCount", "d0/d5e/classWorldSessionMgr.html#a564d19d48fb433cc9a85c1434d6ecf81", null ],
@@ -47,5 +46,6 @@ var classWorldSessionMgr =
     [ "_playerCount", "d0/d5e/classWorldSessionMgr.html#aca405a0eb8b98eabf38a5f7b10cd0177", null ],
     [ "_playerLimit", "d0/d5e/classWorldSessionMgr.html#a5014fbe3488ab42044035ba51c22a9ce", null ],
     [ "_queuedPlayer", "d0/d5e/classWorldSessionMgr.html#aceb362636b5fe7b4061d5870de4558cc", null ],
-    [ "_sessions", "d0/d5e/classWorldSessionMgr.html#a1c9c41702c6a4261c3e5fd2663f151d0", null ]
+    [ "_sessions", "d0/d5e/classWorldSessionMgr.html#a1c9c41702c6a4261c3e5fd2663f151d0", null ],
+    [ "_stalePruneTimer", "d0/d5e/classWorldSessionMgr.html#a7e7861028977546757b310ad887c8da9", null ]
 ];

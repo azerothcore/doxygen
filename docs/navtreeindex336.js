@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dc/d9a/classspell__pal__divine__storm__dummy.html#aa9a0fb36eafd8535fcd2bddda56d7107":[7,0,3776,5],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#adfb7e3fbb52aa349573b95c457823900":[7,0,3776,2],
 "dc/d9a/classspell__pal__divine__storm__dummy.html#af51f59f6cb8e2a6d99b3c05cebfcfa89":[7,0,3776,1],
 "dc/d9a/instance__ragefire__chasm_8cpp.html":[8,0,0,0,1,3,4,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cab4f35d409651939890684af40c656ee7":[8,0,0,0,1,3,4,9,8,11,4],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cad6415069d70d20ddf21fd5830b51fd8b":[8,0,0,0,1,3,4,9,8,11,7],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298cada13f30745205499d79dfd16e6315d33":[8,0,0,0,1,3,4,9,8,11,2],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298caf6cc8585af50f22cf19744d8eccb8882":[8,0,0,0,1,3,4,9,8,11,12],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[8,0,0,0,1,3,4,9,8,10]
+"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298caf6cc8585af50f22cf19744d8eccb8882":[8,0,0,0,1,3,4,9,8,11,12]
 };
