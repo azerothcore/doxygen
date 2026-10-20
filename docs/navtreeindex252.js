@@ -1,7 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a921be0b36b194a2f81ab8ff4f2f22f27":[8,0,0,0,1,3,5,6,13,5,49],
-"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a92319d1d1e903a093189984dafe4a52c":[8,0,0,0,1,3,5,6,13,5,164],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a9362726afaa1c0be0d8452d249704274":[8,0,0,0,1,3,5,6,13,5,184],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a93a66e145b71c13fce4d76bdced77e4d":[8,0,0,0,1,3,5,6,13,5,2],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a98195a9b979fccf178078a1a72701559":[8,0,0,0,1,3,5,6,13,5,181],
@@ -249,5 +247,7 @@ var NAVTREEINDEX252 =
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafd2a30b02f781d11ca026904c7b2ddbc":[8,0,0,0,1,3,5,6,13,7,70],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafda191c74fd1c83749ae4eb105dbe2eb":[8,0,0,0,1,3,5,6,13,7,78],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,5,6,13,6],
-"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0016472992426a67e364f265c5e28442":[8,0,0,0,1,3,5,6,13,6,21]
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0016472992426a67e364f265c5e28442":[8,0,0,0,1,3,5,6,13,6,21],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a016fb0ced66e5f1e845588cc58379f1a":[8,0,0,0,1,3,5,6,13,6,12],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0988e41212af97d439cfc271373c7018":[8,0,0,0,1,3,5,6,13,6,32]
 };

@@ -13,6 +13,7 @@ var boss__northrend__beasts_8cpp =
     [ "spell_jormungars_paralytic_toxin_aura", "d8/de9/classspell__jormungars__paralytic__toxin__aura.html", "d8/de9/classspell__jormungars__paralytic__toxin__aura" ],
     [ "boss_icehowl", "dd/d35/classboss__icehowl.html", "dd/d35/classboss__icehowl" ],
     [ "boss_icehowl::boss_icehowlAI", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html", "d8/dfc/structboss__icehowl_1_1boss__icehowlAI" ],
+    [ "spell_icehowl_arctic_breath", "de/d3e/classspell__icehowl__arctic__breath.html", "de/d3e/classspell__icehowl__arctic__breath" ],
     [ "spell_icehowl_jump_back", "d5/dea/classspell__icehowl__jump__back.html", "d5/dea/classspell__icehowl__jump__back" ],
     [ "spell_icehowl_massive_crash", "db/d24/classspell__icehowl__massive__crash.html", "db/d24/classspell__icehowl__massive__crash" ],
     [ "GormokActions", "d4/d9c/boss__northrend__beasts_8cpp.html#a0def6d6c58a0d849af9617312f36c5d5", [
@@ -93,7 +94,6 @@ var boss__northrend__beasts_8cpp =
       [ "EVENT_SPELL_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914aa6db3d3fbc718736676e7e49c46a8d6e", null ]
     ] ],
     [ "JormungarNPCs", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121", [
-      [ "NPC_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121a7302c74dd3e687f8d254be99e3b33b07", null ],
       [ "NPC_MOBILE_BURROW_TARGET", "d4/d9c/boss__northrend__beasts_8cpp.html#adf118786f59959ccfad83692c0dc7121aa516ec6e350b6bfa1f7488cb3a382f35", null ]
     ] ],
     [ "JormungarPoints", "d4/d9c/boss__northrend__beasts_8cpp.html#aff63f81b9a0be5841dca7b09cd837c3c", [
@@ -110,7 +110,6 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_BURNING_SPRAY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a2f44d2764aa3ce270006ff6753cd132f", null ],
       [ "SPELL_BURNING_BITE", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a5714d4f6d12e574c1c8bbd8276c7c584", null ],
       [ "SUMMON_SLIME_POOL", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a5ec56893d1cb1f7d2132d01f26989ba6", null ],
-      [ "SPELL_SLIME_POOL_EFFECT", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a1892cccbc37f6959a0f3dfe0696c34c1", null ],
       [ "SPELL_SWEEP_0", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a40e103790e4260c97571977e7eb7a4b0", null ],
       [ "SPELL_SWEEP_1", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045ac4f7f61532f669fa453543505a5e554d", null ],
       [ "SPELL_SUBMERGE_STATIONARY", "d4/d9c/boss__northrend__beasts_8cpp.html#a620a8fb8fa311862ccfd957ff8fce045a2e2234e1076e873d8c4639d65ea04513", null ],

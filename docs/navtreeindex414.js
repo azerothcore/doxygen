@@ -1,5 +1,8 @@
 var NAVTREEINDEX414 =
 {
+"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a08c06ffb1b78d85bde7a8c01eab983c6":[8,0,0,0,1,3,2,1,0,0,28,3],
+"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0c9323c94b4bd9b90419ca2b2504708e":[8,0,0,0,1,3,2,1,0,0,28,0],
+"df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a0e14503329a8f0c69e3ccd272baf3b3f":[8,0,0,0,1,3,2,1,0,0,28,1],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a21249240998f8d2de3c601fd8e8434fc":[8,0,0,0,1,3,2,1,0,0,28,5],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a566f784990836203caca9e4ce325c18b":[8,0,0,0,1,3,2,1,0,0,28,2],
 "df/d57/blackrock__depths_8cpp.html#a107098a8e50cf4edccc1a3a1131e8e54a5e157feac7a2e1dad12acd487e475966":[8,0,0,0,1,3,2,1,0,0,28,7],
@@ -230,12 +233,12 @@ var NAVTREEINDEX414 =
 "df/d64/classProcChainGuardSimulator.html#ad729e5f44922b9b6c44c9a4d732818e7":[7,0,2492,2],
 "df/d64/classProcChainGuardSimulator.html#ae21baa9f43fb78e30dedfc6608684e9e":[7,0,2492,5],
 "df/d64/classProcChainGuardSimulator.html#afe8e4320a882c474f883347860ad4d47":[7,0,2492,4],
-"df/d65/classspell__ooze__zap.html":[7,0,3759],
-"df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[7,0,3759,3],
-"df/d65/classspell__ooze__zap.html#a5b0a5f957a7b996cbe6b219a9803069e":[7,0,3759,2],
-"df/d65/classspell__ooze__zap.html#a6d2c75ad53f0e0f7be2df037f385d686":[7,0,3759,1],
-"df/d65/classspell__ooze__zap.html#ab3f8d94f3b8d44e668743cb821430a92":[7,0,3759,4],
-"df/d65/classspell__ooze__zap.html#ae2b5e9accd0df2cc99e976eaab2d3f35":[7,0,3759,0],
+"df/d65/classspell__ooze__zap.html":[7,0,3760],
+"df/d65/classspell__ooze__zap.html#a46f4aec6f7786d0abc8ded21ef16e6f6":[7,0,3760,3],
+"df/d65/classspell__ooze__zap.html#a5b0a5f957a7b996cbe6b219a9803069e":[7,0,3760,2],
+"df/d65/classspell__ooze__zap.html#a6d2c75ad53f0e0f7be2df037f385d686":[7,0,3760,1],
+"df/d65/classspell__ooze__zap.html#ab3f8d94f3b8d44e668743cb821430a92":[7,0,3760,4],
+"df/d65/classspell__ooze__zap.html#ae2b5e9accd0df2cc99e976eaab2d3f35":[7,0,3760,0],
 "df/d65/instance__steam__vault_8cpp.html":[8,0,0,0,1,3,7,2,2,3],
 "df/d65/instance__steam__vault_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,2,2,3,5],
 "df/d65/instance__steam__vault_8cpp.html#a59ddfa91084111da23b5d47482e4ff8d":[8,0,0,0,1,3,7,2,2,3,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX414 =
 "df/d65/instance__steam__vault_8cpp.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992":[8,0,0,0,1,3,7,2,2,3,3,0],
 "df/d65/structnpc__controller.html":[7,0,1744],
 "df/d65/structnpc__controller.html#a3c75fb509d5cf4b4d417c97b409615b1":[7,0,1744,0],
-"df/d65/structnpc__controller.html#a69628677de225d76a8c89b4626e0f32b":[7,0,1744,1],
-"df/d66/Creature_8h.html":[8,0,0,0,1,2,16,1,1],
-"df/d66/Creature_8h.html#a44c3a813b92331e325ba5aae11ed72a3":[8,0,0,0,1,2,16,1,1,5],
-"df/d66/Creature_8h.html#a4a74e5d0af63228e47e1f663570018ae":[8,0,0,0,1,2,16,1,1,7]
+"df/d65/structnpc__controller.html#a69628677de225d76a8c89b4626e0f32b":[7,0,1744,1]
 };

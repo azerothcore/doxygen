@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/d6d/classServerOpcodeHandler.html":[4,1,8],
+"de/d6e/classnpc__dalaran__mage.html":[7,0,1771],
+"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1771,1],
 "de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[7,0,1771,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html":[7,0,305],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[7,0,305,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[8,0,0,0,1,2,20,0,0],
 "de/d75/classspell__dk__death__pact.html":[7,0,2841],
 "de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[7,0,2841,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[7,0,2841,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[7,0,2841,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[7,0,2841,0],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[7,0,1395,0]
+"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[7,0,2841,1]
 };

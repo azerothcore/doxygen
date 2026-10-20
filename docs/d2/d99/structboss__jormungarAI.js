@@ -9,7 +9,7 @@ var structboss__jormungarAI =
     [ "JustEngagedWith", "d2/d99/structboss__jormungarAI.html#af5a266b577c5bb8ef8f7bbd7fddc163e", null ],
     [ "JustReachedHome", "d2/d99/structboss__jormungarAI.html#afd345729b079d2dacd8f37f4481968f1", null ],
     [ "MovementInform", "d2/d99/structboss__jormungarAI.html#af262f0613d0ba62883411408d7c8f666", null ],
-    [ "ScheduleEvents", "d2/d99/structboss__jormungarAI.html#a6fd24ecd0be5692e9e389833a6134de5", null ],
+    [ "ScheduleEvents", "d2/d99/structboss__jormungarAI.html#a495a4483c2ae768f6a52f9a5afe096c0", null ],
     [ "UpdateAI", "d2/d99/structboss__jormungarAI.html#ad8e5bf4176dfa37c3af476f6f71e699e", null ],
     [ "_MODEL_MOBILE", "d2/d99/structboss__jormungarAI.html#a4be09bf0ae4c96d77edd5b1577b8aa28", null ],
     [ "_MODEL_STATIONARY", "d2/d99/structboss__jormungarAI.html#adb7d8c493523dadcd0168899621cd246", null ],

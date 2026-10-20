@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[8,0,0,0,1,3,5,6,9,42,12],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a298aa81cc7a711503124972bc1e8f1d4":[8,0,0,0,1,3,5,6,9,42,7],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3110a46648bbeac1b39ec0306d1ebc42":[8,0,0,0,1,3,5,6,9,42,11],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3a56d8c9e21488984b065094d9bee260":[8,0,0,0,1,3,5,6,9,42,1],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,6,9,42,0],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a64ebcfa4a9c15320f2f63e123edb3610":[8,0,0,0,1,3,5,6,9,42,2],
@@ -98,11 +101,11 @@ var NAVTREEINDEX403 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[8,0,0,0,2,2,0,10,20,9],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,10,20,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,10,20,13],
-"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3805],
-"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3805,3],
-"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3805,0],
-"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3805,2],
-"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3805,1],
+"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3806],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3806,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3806,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3806,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3806,1],
 "de/dea/structnpc__corrupted__totem.html":[7,0,1751],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[7,0,1751,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[7,0,1751,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "de/df0/structArenaSeasonReward.html#a22d6afdbc88c47d18dc840d537ae4150":[7,0,192,1],
 "de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[7,0,192,2],
 "de/df0/structArenaSeasonReward.html#ac4c8cff64cf2eb7f34d28080a2a5528b":[7,0,192,3],
-"de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[7,0,192,0],
-"de/df1/ALEScript_8cpp.html":[8,0,0,0,1,2,38,0,6],
-"de/df1/ALEScript_8cpp.html#a84c662c2b9398225a13a01142e622675":[8,0,0,0,1,2,38,0,6,0],
-"de/df1/DatabaseScript_8cpp.html":[8,0,0,0,1,2,38,0,43]
+"de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[7,0,192,0]
 };

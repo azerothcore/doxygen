@@ -3877,6 +3877,7 @@ var annotated_dup =
     [ "spell_ice_bombardment_dest_picker", "df/d9e/classspell__ice__bombardment__dest__picker.html", "df/d9e/classspell__ice__bombardment__dest__picker" ],
     [ "spell_ice_spear_control_aura", "df/da5/classspell__ice__spear__control__aura.html", "df/da5/classspell__ice__spear__control__aura" ],
     [ "spell_ice_spear_target_picker", "d6/dd4/classspell__ice__spear__target__picker.html", "d6/dd4/classspell__ice__spear__target__picker" ],
+    [ "spell_icehowl_arctic_breath", "de/d3e/classspell__icehowl__arctic__breath.html", "de/d3e/classspell__icehowl__arctic__breath" ],
     [ "spell_icehowl_jump_back", "d5/dea/classspell__icehowl__jump__back.html", "d5/dea/classspell__icehowl__jump__back" ],
     [ "spell_icehowl_massive_crash", "db/d24/classspell__icehowl__massive__crash.html", "db/d24/classspell__icehowl__massive__crash" ],
     [ "spell_igb_battle_experience_check", "d2/d55/classspell__igb__battle__experience__check.html", "d2/d55/classspell__igb__battle__experience__check" ],

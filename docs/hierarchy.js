@@ -1217,6 +1217,7 @@ var hierarchy =
         [ "spell_icc_yd_summon_undead", "d3/db7/classspell__icc__yd__summon__undead.html", null ],
         [ "spell_ice_bombardment_dest_picker", "df/d9e/classspell__ice__bombardment__dest__picker.html", null ],
         [ "spell_ice_spear_target_picker", "d6/dd4/classspell__ice__spear__target__picker.html", null ],
+        [ "spell_icehowl_arctic_breath", "de/d3e/classspell__icehowl__arctic__breath.html", null ],
         [ "spell_icehowl_jump_back", "d5/dea/classspell__icehowl__jump__back.html", null ],
         [ "spell_igb_below_zero", "d3/d2e/classspell__igb__below__zero.html", null ],
         [ "spell_igb_burning_pitch", "d4/dfb/classspell__igb__burning__pitch.html", null ],

@@ -1,7 +1,5 @@
 var NAVTREEINDEX313 =
 {
-"db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b":[7,0,945,263],
-"db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380":[7,0,945,232],
 "db/dd5/classCreature.html#a50eddd7e74f6c37d89b760293d9a821c":[7,0,945,80],
 "db/dd5/classCreature.html#a511bd8030c9e98f8f96fa0cf2b3e59eb":[7,0,945,75],
 "db/dd5/classCreature.html#a518123152fbb46da36aee1c1ac6f02cd":[7,0,945,329],
@@ -232,10 +230,10 @@ var NAVTREEINDEX313 =
 "db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[7,0,945,248],
 "db/dd5/classCreature.html#afdc6255d8e9d59b0e2be97d471f7b0d0":[7,0,945,168],
 "db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[7,0,945,313],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3616],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3616,2],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3616,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3616,1],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html":[7,0,3617],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#a6d77f6848397724e61c1db7a80de7139":[7,0,3617,2],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[7,0,3617,0],
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3617,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[7,0,1702,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[7,0,1702,0,10],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[7,0,1702,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX313 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1702,0,6],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1702,0,13],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1702,0,12],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1702,0,2]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1702,0,2],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[7,0,1702,0,9],
+"db/dd6/classachievement__split__personality.html":[7,0,101]
 };

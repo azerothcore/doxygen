@@ -1,7 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67":[8,0,0,0,1,2,46,1,0],
-"db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550":[8,0,0,0,1,2,46,1,0,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564":[8,0,0,0,1,2,46,1,0,2],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714":[8,0,0,0,1,2,46,1,0,1],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c":[8,0,0,0,1,2,46,1,0,4],
@@ -239,15 +237,17 @@ var NAVTREEINDEX319 =
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2337,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2337,3],
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2337,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[7,0,395],
 "db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[7,0,395,1],
-"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[7,0,395,2]
+"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[7,0,395,2],
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[7,0,1356,0],
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[7,0,1356,0,0]
 };

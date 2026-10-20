@@ -1,10 +1,10 @@
 var NAVTREEINDEX26 =
 {
-"d1/d14/classspell__pri__lightwell.html":[7,0,3854],
-"d1/d14/classspell__pri__lightwell.html#a33d46e5ebd418ea0242d958345cb44d2":[7,0,3854,1],
-"d1/d14/classspell__pri__lightwell.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae":[7,0,3854,3],
-"d1/d14/classspell__pri__lightwell.html#ad3497a9c986f65978d4b2553b0c9958f":[7,0,3854,0],
-"d1/d14/classspell__pri__lightwell.html#ade09cd376d00df8b5e709026e353f409":[7,0,3854,2],
+"d1/d14/classspell__pri__lightwell.html":[7,0,3855],
+"d1/d14/classspell__pri__lightwell.html#a33d46e5ebd418ea0242d958345cb44d2":[7,0,3855,1],
+"d1/d14/classspell__pri__lightwell.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae":[7,0,3855,3],
+"d1/d14/classspell__pri__lightwell.html#ad3497a9c986f65978d4b2553b0c9958f":[7,0,3855,0],
+"d1/d14/classspell__pri__lightwell.html#ade09cd376d00df8b5e709026e353f409":[7,0,3855,2],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html":[7,0,689,0],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a29dd57c66245f30d12f32d31cc25cd55":[7,0,689,0,11],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a3a1abaef460d9abe1298080080d74c9d":[7,0,689,0,8],
